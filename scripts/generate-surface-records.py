@@ -50,12 +50,19 @@ def main():
                 elif len(candidates)>1:
                     raise SystemExit(f'Ambiguous orphan research records for {builder} / {pedal}: ' + ' | '.join(map(str,candidates)))
                 else:
-                    raise SystemExit(f'Catalog points to missing research record with no exact recovery candidate: {item.get("research_record")}')
-            if not item.get('research_level'):
-                item['research_level']='researched'
-                item['deep_research_status']='PENDING_REVIEW'
-                normalized_existing+=1
-            continue
+                    # The catalog still has the exact Builder + Pedal identity,
+                    # but its linked file is absent. Clear the stale link and
+                    # fall through to create an explicit surface record at the
+                    # canonical identity path.
+                    item['research_record']=''
+                    item['research_level']='surface'
+                    item['deep_research_status']='PENDING'
+            if item.get('research_record'):
+                if not item.get('research_level'):
+                    item['research_level']='researched'
+                    item['deep_research_status']='PENDING_REVIEW'
+                    normalized_existing+=1
+                continue
         if record.exists():
             raise SystemExit(f'Refusing to overwrite orphan research file for {builder} / {pedal}: {record}')
         record.parent.mkdir(parents=True,exist_ok=True)
