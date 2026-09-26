@@ -36,6 +36,9 @@ def identity_ok(builder,pedal,title,h1,excerpt="",url=""):
     core=re.split(r"\\s+—\\s+",str(pedal or "").strip(),maxsplit=1)[0].strip()
     if core and core not in variants:
         variants.append(core)
+    if "rammstein rd distortion combo emulator" in norm(pedal):
+        variants.append("Rammstein Du Hast")
+    variants=list(dict.fromkeys(variants))
     bw=[x for x in norm(builder).split() if len(x)>=3]
     for variant in variants:
         p=norm(variant)
