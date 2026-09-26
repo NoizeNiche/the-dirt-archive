@@ -86,6 +86,22 @@ jobs:
                           if h:
                               source_hosts.setdefault(key, set()).add(h.lower())
 
+              try:
+                  cached_sources=json.load(open("research/RESEARCH_VERIFIED_SOURCE_CACHE.json", encoding="utf-8"))
+                  for record in cached_sources.get("records", []):
+                      b=str(record.get("builder","")).strip()
+                      p=str(record.get("pedal","")).strip()
+                      if not b or not p:
+                          continue
+                      for src in record.get("sources", []) or []:
+                          u=str(src.get("url","")).strip()
+                          if u.startswith(("http://","https://")):
+                              h=urlparse(u).hostname or ""
+                              if h:
+                                  source_hosts.setdefault((b,p), set()).add(h.lower())
+              except Exception:
+                  pass
+
               import csv
               with open("research/RESEARCH_SOURCE_OVERRIDES.csv", newline="", encoding="utf-8") as fh:
                   for row in csv.DictReader(fh):
