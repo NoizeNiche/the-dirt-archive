@@ -7,6 +7,7 @@ packet and leaves undocumented fields explicitly unknown rather than guessing.
 """
 
 import argparse
+import html
 import csv
 import json
 import re
@@ -42,7 +43,7 @@ COLOR_RE = re.compile(
 
 
 def norm(value):
-    text = re.sub(r"\s+", " ", str(value or "").strip())
+    text = html.unescape(re.sub(r"\s+", " ", str(value or "").strip()))
     return text.encode("utf-8", "backslashreplace").decode("utf-8")
 
 
