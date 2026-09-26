@@ -34,9 +34,19 @@ function contextIndexUrl(){
   return url;
 }
 
+function renderDetailNavState(currentItem=null){
+  const state=$('detailNavState');
+  if(!state)return;
+  const parts=[];
+  if(wantedType)parts.push(wantedType);
+  if(currentItem?.company)parts.push(currentItem.company);
+  state.textContent=parts.length?parts.join(' · '):'All builders';
+}
+
 function renderPageNav(items,currentItem=null){
   const scopedItems=items.filter(x=>isCatalogEntry(x)&&(!wantedType || (x.types||[]).includes(wantedType)));
   const builders=[...new Set(scopedItems.map(x=>x.company))].sort((a,b)=>a.localeCompare(b));
+  renderDetailNavState(currentItem);
   const currentTypes=new Set(currentItem?.types||[]);
   const search=$('pageSearch');
   if(search){
