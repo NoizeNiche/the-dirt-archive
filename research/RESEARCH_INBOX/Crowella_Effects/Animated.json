@@ -10,8 +10,7 @@
       "h1": "Crowella Effects Animated",
       "excerpt": "The Reverb listing identifies the exact Crowella Effects Animated and describes it as a high-gain overdrive/Animato clone with a fully analog signal path, new-production germanium transistors, an op-amp clean blend, soft relay bypass and Australian hand assembly. Reverb lists Crowella Effects as the brand, Animated as the model, 2020 as the year and Australia as the country of manufacture.",
       "host": "reverb.com",
-      "source_kind": "reverb",
-      "identity_match": true
+      "source_kind": "reverb"
     },
     {
       "url": "https://www.talkbass.com/threads/npd-crowella-effects-animated.1164570/",
@@ -19,8 +18,8 @@
       "h1": "NPD: Crowella Effects Animated",
       "excerpt": "A TalkBass discussion from July 2015 identifies a Crowella Effects Animated and explains that it is essentially a Human Gear Animato reproduction, with different transistors. The discussion describes the circuit as a high-gain distortion with a treble boost before the distortion stage, confirming the model's role as an Animato-style high-gain dirt pedal.",
       "host": "www.talkbass.com",
-      "source_kind": "other",
-      "identity_match": true
+      "source_kind": "other"
     }
-  ]
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
 }

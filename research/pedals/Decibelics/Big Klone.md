@@ -39,3 +39,26 @@ With all switches to the left (Default Original mode) the Centaur core tone rema
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+DECIBELICS BIGKLONE ™ PROFESSIONAL OVERDRIVE Handcrafted from carefully selected parts with extreme attention to detail, the Decibelics Big Klone is a part-for-part replica of the legendary Klon Centaur Professional Overdrive.
+
+### Verified color/finish evidence
+- JOIN THE NOTIFICATION LIST BY SELECTING YOUR PREFERRED VERSION (GOLD/SILVER) AND CLICKING ON THE BLACK BUTTON.
+- 1N34A Germanium diodes (Clear crystal and black band as the original, made in USA) – The commonly known as Magic
+
+### Verified diode terms
+- 1N34A, LED.
+
+### Verified sound evidence
+DECIBELICS BIGKLONE ™ PROFESSIONAL OVERDRIVE Handcrafted from carefully selected parts with extreme attention to detail, the Decibelics Big Klone is a part-for-part replica of the legendary Klon Centaur Professional Overdrive.
+Circuit and component values are exact sonic reproduction of an original gold Klon Centaur, horsie close-tail, serial number #2505 from 2001 of my particular collection – a selected best tone unit.
+With all switches to the left (Default Original mode) the Centaur core tone remains unaltered – Original sound.
+
+### Sources checked in this pass
+1. Big Klone – Decibelics: https://decibelics.com/product/big-klone/
+2. Big Klone by Decibelics | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/Decibelics/Big-Klone/68977315/

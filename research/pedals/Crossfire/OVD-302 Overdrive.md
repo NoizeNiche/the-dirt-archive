@@ -36,3 +36,18 @@ Crossfire browse by type distortion/fuzz/overdrive overdrive browse by enclosure
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+98 Learn more From $10 a week Learn more Product details The Crossfire OVD-302 Overdrive Effects Pedal delivers a musical sounding overdrive that ranges from a subtle crunch to a fully overdriven tone.
+
+### Verified sound evidence
+Crossfire Overdrive Guitar Effects Pedal
+98 Learn more From $10 a week Learn more Product details The Crossfire OVD-302 Overdrive Effects Pedal delivers a musical sounding overdrive that ranges from a subtle crunch to a fully overdriven tone.
+
+### Sources checked in this pass
+1. Crossfire OVD-302 Overdrive | Effects Database: https://www.effectsdatabase.com/model/crossfire/overdrive
+2. Crossfire Overdrive Guitar Effects Pedal | BIG W: https://www.bigw.com.au/product/crossfire-overdrive-guitar-effects-pedal/p/9904318804

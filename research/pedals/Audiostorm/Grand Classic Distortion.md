@@ -49,3 +49,20 @@ Grand Classic is designed to span articulate overdrive through dense high-gain d
 - **Archive status:** **No Photo Archived**
 - **Exact-model reference checked:** https://audiostorm.uk/product/grand-classic/
 - **Archive note:** Exact product photography is available from Audiostorm, but no stable archive asset is being promoted in this pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Audiostorm's Grand Classic Distortion is cataloged as a distortion pedal.
+
+### Verified sound evidence
+Tone Lord $(USD) 310.00 Original price was: $(USD)310.00.
+Grand Classic Distortion $(USD) 310.00 Original price was: $(USD)310.00.
+35% The Grand Classic is an incredibly dynamic high gain distortion which can go from rich, nuanced overdrive overdrive to extreme metal shred with just a twist of the gain.
+
+### Sources checked in this pass
+1. https://allaboutguitar.co.uk/audiostorm-grand-classic-distortion-pedal/: https://allaboutguitar.co.uk/audiostorm-grand-classic-distortion-pedal/
+2. GC Updates on Kickstarter: https://www.kickstarter.com/projects/seanmandrake/audiostorm-grand-classic-distortion-pedal
+3. Grand Classic Distortion – Audiostorm: https://audiostorm.uk/product/grand-classic/

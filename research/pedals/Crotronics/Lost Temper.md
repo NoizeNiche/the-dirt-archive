@@ -37,3 +37,19 @@ This preamp spawned such incredible circuits as Roger Mayer’s Octavia & Axis F
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Crotronics's Lost Temper is cataloged as a fuzz pedal.
+
+### Verified sound evidence
+Guitar → Effects → Crotronics Lost Temper Silicon Fuzz/Octave Pedal Crotronics Lost Temper Silicon Fuzz/Octave Pedal Crotronics Lost Temper Silicon Fuzz/Octave Pedal $225.00 $18.75 /mo., 12-month no interest financing.
+This preamp spawned such incredible circuits as Roger Mayer’s Octavia & Axis Fuzz and even modern releases from dunlop like the Band of Gypsies fuzz.
+My idea was to go back to make the gain circuit a bit more like the original preamp while also making sure it’s tailored to a guitar’s input.
+
+### Sources checked in this pass
+1. Crotronics Lost Temper Silicon Fuzz/Octave Pedal: https://www.nstuffmusic.com/p-169339-crotronics-lost-temper-silicon-fuzzoctave-pedal.aspx
+2. Crotronics Lost Temper GE - Reverb: https://reverb.com/item/95511242-crotronics-lost-temper-ge

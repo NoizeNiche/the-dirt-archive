@@ -36,3 +36,18 @@ The discussion describes the circuit as a high-gain distortion with a treble boo
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+A TalkBass discussion from July 2015 identifies a Crowella Effects Animated and explains that it is essentially a Human Gear Animato reproduction, with different transistors.
+
+### Verified sound evidence
+The Reverb listing identifies the exact Crowella Effects Animated and describes it as a high-gain overdrive/Animato clone with a fully analog signal path, new-production germanium transistors, an op-amp clean blend, soft relay bypass and Australian hand assembly.
+The discussion describes the circuit as a high-gain distortion with a treble boost before the distortion stage, confirming the model's role as an Animato-style high-gain dirt pedal.
+
+### Sources checked in this pass
+1. Crowella Effects Animated - Animato Clone | Reverb: https://reverb.com/item/10575188-crowella-effects-animated-animato-clone
+2. NPD: Crowella Effects Animated | TalkBass: https://www.talkbass.com/threads/npd-crowella-effects-animated.1164570/

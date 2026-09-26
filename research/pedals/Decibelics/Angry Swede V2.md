@@ -42,3 +42,28 @@ It provides huge amounts of raw chainsaw tone in the most pedalboard-friendly fo
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Decibelics's Angry Swede V2 is cataloged as a distortion pedal.
+
+### Verified color/finish evidence
+- + Dimensions with jacks: L 95mm (3.74in) x W 49mm (1.92in) – Current Draw: 18mA + Accessories included: Black Angry Swede customized shipping box, 4 Rubber Feet, English Manual.
+
+### Verified version references
+- The evidence references: V2.
+
+### Verified sound evidence
+It provides huge amounts of raw chainsaw tone in the most pedalboard-friendly footprint.
++ To shape the tone, I used 3 original Boss HM2 as a sound basis, taking the best characteristics of each one and combining them for a rounded, well-balanced HM2 raw fury as used by David Gilmour, My Bloody Valentine, and Entombed.
++ The V2 version goes even one step further and adds a Clean Blend knob, that lets you go from only adding a bit of the HM2 EQ to your original tone, to a 50/50 mix, to an 80/20 mix to thicken your sound, to full HM2 chainsaw.
+
+### Sources checked in this pass
+1. Decibelics Angry Swede V2 – Decibelics: https://decibelics.com/product/angry-swede/
+2. Decibelics - Angry Swede V2 (HM2) - Reverb: https://reverb.com/item/77139571-decibelics-angry-swede-v2-hm2
+3. Decibelics Angry Swede V2 - What To Know Where To Buy: https://equipboard.com/items/decibelics-angry-swede-v2
+4. Decibelics Angry Swede V2 Guitar Pedal. HM2. - eBay: https://www.ebay.com/itm/326862679294
+5. Decibelics Angry Swede V2. For all you metal heads out there.: https://www.thegearpage.net/board/index.php?threads/decibelics-angry-swede-v2-for-all-you-metal-heads-out-there.2533532/

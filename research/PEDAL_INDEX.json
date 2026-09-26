@@ -5282,8 +5282,8 @@
       "image_source_page_verified": true,
       "image_source_priority": 292,
       "image_source_url": "https://allaboutguitar.co.uk/wp-content/uploads/2025/04/GrandClassic1600-02.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Audiostorm",
@@ -9611,8 +9611,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_url": "https://d6a2e7ghqts3o.cloudfront.net/AcuCustom/Sitename/DAM/522/2021GPXBigToneMusicBreweryEQd700V3.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Big Tone Music Brewery",
@@ -9679,8 +9679,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_url": "https://musictalk.com.sg/image/cache/catalog/product/big-tone-germanium-fuzz_1-700x700.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Big Tone Music Brewery",
@@ -27501,8 +27501,8 @@
       "image": "./assets/pedals/crossfire/cf-do2-dual-injection-after-burner/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Crossfire/CF-DO2 Dual-Injection After Burner.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Crossfire",
@@ -27539,8 +27539,8 @@
       "image": "./assets/pedals/crossfire/ovd-302-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Crossfire/OVD-302 Overdrive.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Crotronics",
@@ -27551,8 +27551,8 @@
       "image": "./assets/pedals/crotronics/firestarter/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Crotronics/Firestarter.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Crotronics",
@@ -27563,8 +27563,8 @@
       "image": "./assets/pedals/crotronics/lost-temper/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Crotronics/Lost Temper.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Crowella Effects",
@@ -27576,8 +27576,8 @@
       "image": "./assets/pedals/crowella-effects/animated/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Crowella Effects/Animated.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Crowella Effects",
@@ -27602,8 +27602,8 @@
       "image": "./assets/pedals/crowella-effects/voskhod/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Crowella Effects/Voskhod.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Crown",
@@ -29413,8 +29413,8 @@
       "image": "./assets/pedals/decibelics/angry-swede-v2/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Decibelics/Angry Swede V2.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Decibelics",
@@ -29425,8 +29425,8 @@
       "image": "./assets/pedals/decibelics/big-klone/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Decibelics/Big Klone.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Decibelics",
@@ -33245,8 +33245,8 @@
       "image": "./assets/pedals/foxgear/muffin/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Foxgear/Muffin.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Foxgear",
@@ -33257,8 +33257,8 @@
       "image": "./assets/pedals/foxgear/rats/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Foxgear/Rats.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Foxgear",
@@ -33269,8 +33269,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Foxgear/Ryder.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Foxgear",
@@ -43382,8 +43382,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Outlaw Effects/The Snitch 2-Mode Distortion.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Outlaw Effects",
@@ -43394,8 +43394,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Outlaw Effects/Widow Maker Metal Distortion.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Ovaltone",

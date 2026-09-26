@@ -1,23 +1,43 @@
 # Outlaw Effects — The Snitch 2-Mode Distortion
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** The Snitch 2-Mode Distortion
 - **Builder:** Outlaw Effects
-- **Pedal:** The Snitch 2-Mode Distortion
 - **Catalog type:** Distortion
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Outlaw Effects's The Snitch 2-Mode Distortion.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **The Snitch 2-Mode Distortion** by **Outlaw Effects** as a **Distortion** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Outlaw Effects's The Snitch 2-Mode Distortion is cataloged as a distortion pedal.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- Outlaw Effects The Snitch 2-Mode Distortion Effects Pedal Black
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+Outlaw Effects The Snitch 2-Mode Distortion Effects Pedal Black
+Home Effect Pedals Outlaw Effects The Snitch 2-Mode Distortion Outlaw Effects The Snitch 2-Mode Distortion $ 63.99 Original price was: $63.99.
+OLD SCHOOL: Smooth distortion with a late 70’s hard rock feel.
+
+## Sources checked
+1. Outlaw Effects The Snitch 2-Mode Distortion - Reverb: https://reverb.com/p/outlaw-effects-the-snitch-2-mode-distortion
+2. Outlaw Effects The Snitch 2-Mode Distortion - Equipboard: https://equipboard.com/items/outlaw-effects-the-snitch-2-mode-distortion
+3. Outlaw Effects The Snitch 2-Mode Distortion Effects Pedal Black | Guitar Center: https://www.guitarcenter.com/Outlaw-Effects/The-Snitch-2-Mode-Distortion-Effects-Pedal-Black-1500000384761.gc
+4. Outlaw Effects The Snitch 2-Mode Distortion Effects Pedal Black | Tone Central Station: https://www.tonecentralstation.com/product/outlaw-effects-the-snitch-2-mode-distortion-effects-pedal-black/CTFFUBEZ35NICZALBUJYWTLJ
+5. Outlaw Effects The Snitch 2-Mode Distortion: https://www.discountmusicalinstruments.com/product/outlaw-effects-the-snitch-2-mode-distortion/
+6. The Snitch | Outlaw Effects: https://www.outlaweffects.com/thesnitch
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
