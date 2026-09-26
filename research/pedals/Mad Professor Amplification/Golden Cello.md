@@ -3,41 +3,51 @@
 ## PRP identity
 - **Archive parent:** Golden Cello
 - **Builder:** Mad Professor Amplification
-- **Catalog type:** Overdrive
-- **Identity:** Mad Professor Amplification's Golden Cello.
+- **Catalog type:** Overdrive / Digital Delay
+- **Introduction:** 2012
+- **Identity:** Mad Professor's Golden Cello combines an overdrive section with an internal delay section in a compact pedal.
 
 ## What this pedal is
-The Golden Cello pedal offers guitar players one of the most sought after lead tones on the planet.
+Mad Professor announced the Golden Cello in June 2012 as a Guitar Center / Musician's Friend exclusive. Its four external controls are Volume, Delay, Tone, and Drive, with internal trimmers for delay repeat, delay length, and the level feeding the delay section. [1][2]
 
 ## Colorways
-- No specific factory colorway information was established in the verified evidence packet.
+- The original model is housed in a small gold enclosure.
+- Finish is treated as a cosmetic characteristic rather than a separate circuit version. [1][2]
 
 ## Versions and factory options
-- The verified evidence references: V2, Version 2.
-- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+- **Original 2012 production:** documented as the Guitar Center / Musician's Friend exclusive Golden Cello. [1][2]
+- No separate numbered factory revision was established from the sources checked.
+- The 2012 documentation identifies the effect as an overdrive plus digital delay, using a Princeton Technologies PT2399 delay IC. [3]
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+A specific early reliability issue involving the delay circuit's board contacting the rear plate was reported in Premier Guitar's 2012 review. The review states that Mad Professor's John Pegler said the design flaw had since been fixed. The sources checked here do not establish a formal revision number for that change. [3]
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
-- **Exact transistor/device:** Unknown.
+- Exact production transistor/device information was not established in the verified sources.
 
 ## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
-- **Exact part:** Unknown.
+- Exact production clipping/rectifier diode information was not established in the verified sources.
+
+## Circuit / devices
+- The delay section uses a Princeton Technologies PT2399 digital delay IC. [3]
+- Effects Database lists current draw at 43mA on 9VDC and an operating supply range of 9–12VDC. [2]
 
 ## Sound
-In this one small gold pedal is the much sought after million dollar tone.
-Sweet cello-like singing fat lead tone with the most luscious open ambient tape delay.
-The tone that you used to need: a great overdrive, a vintage tape delay and a loud vintage full-stack at full volume is now one foot stomp away!
+The Golden Cello combines a saturated, sustaining overdrive with tape-like ambient delay. Premier Guitar found that the drive can move from compressed, smooth tones toward biting lead distortion and can approach fuzz at aggressive settings while retaining harmonic definition. The internal delay section can produce doubled textures, stronger ambient repeats, and lo-fi echo textures depending on the trimmer settings. [3]
+
+## Research confidence
+- **Identity / introduction:** High
+- **Controls / delay architecture:** High
+- **Early reliability correction:** Moderate to high
+- **Formal version history:** Limited
+- **Transistor:** Unknown
+- **Diode:** Unknown
+- **Sound:** High
 
 ## Sources checked
-1. Mad Professor Golden Cello - Tonebox.com: https://www.tonebox.com/pedal/mad-professor-golden-cello
-2. Mad Professor Golden Cello | Effects Database: https://www.effectsdatabase.com/model/madprofessor/goldencello
-3. MAD PROFESSOR GOLDEN CELLO OWNER'S MANUAL Pdf Download | ManualsLib: https://www.manualslib.com/manual/867764/Mad-Professor-Golden-Cello.html
-4. MAD PROFESSOR GOLDEN CELLO - David Gilmour inside !: https://guitarpart.fr/articles/mad-professor-golden-cello-test
-5. Mad Professor Golden Cello User Manual | AI Chat | Manualzz: https://manualzz.com/doc/23727623/mad-professor-golden-cello-effect-pedal-user-manual
+1. Premier Guitar — Mad Professor Introduces the Golden Cello: https://www.premierguitar.com/mad-professor-introduces-the-golden-cello-pedal
+2. Effects Database — Mad Professor Golden Cello: https://www.effectsdatabase.com/model/madprofessor/goldencello
+3. Premier Guitar — Mad Professor Golden Cello Pedal Review: https://www.premierguitar.com/gear/mad-professor-golden-cello-pedal-review
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research pass.
