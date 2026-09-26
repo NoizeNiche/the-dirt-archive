@@ -1,3 +1,15 @@
+## Catalog Research Phase checkpoint - September 25, 2026
+
+Catalog research has advanced through **Add+ Pedals - Tube Drive 2**, **AED - Blue Bee**, and **Aether Electronic - Lenore**.
+
+**Add+ Tube Drive 2** was deep-researched and its previous archived image was removed after identity audit showed the provenance was for the **Fuhrmann Tube Drive 2**, not the Add+ model. The catalog, photo manifest, and tracker now leave the Add+ record photo-gated rather than carrying the wrong image.
+
+**AED Blue Bee** was deep-researched with the documented original battery-only/no-LED/no-DC-input design and the later Paint it Blue revival's added LED, true bypass, and DC input. **Aether Electronic Lenore** was deep-researched with its Schaller Fuzz lineage, Gain/Starve/Volume controls, and documented Overdrive/Fuzz modes.
+
+Current live checkpoint: **3,761 total / 3,761 surface-ready / 345 deep-researched / 3,761 research-linked / 2,500 pictured / 2,500 complete / 3,416 deep-research-pending**.
+
+Next deep-research target: **AGR Pedals - Cuervo Muerto - Silicon Fuzz Bender**.
+
 ## PRP1 queue checkpoint - September 24, 2026
 
 PRP1 has now published **CBC Pedals - The Drive**, **CBC Pedals - The Superfuzz**, **CBS-Arbiter - CBS-Arbiter Doubler**, **CBS-Arbiter - CBS-Arbiter Fuzz Face**, and **CBS-Arbiter - CBS-Arbiter Fuzz King** as complete atomic units. The strict local-photo gate remains clear.
