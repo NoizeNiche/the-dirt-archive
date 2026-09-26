@@ -309,18 +309,19 @@ async function targetRecord(builder,pedal,type){
   // from those pages before relying on search-engine discovery. This is
   // especially useful for punctuation-heavy vintage model names that search
   // engines may normalize poorly.
-  for(const u of urls){
+  const minedLinks = await boundedMap(urls, 2, async u => {
     const page=await get(u);
-    if(!page) continue;
+    if(!page) return [];
     const baseHost=host(page.url||u);
-    for(const x of parseLinks(page.text,page.url||u)){
+    return parseLinks(page.text,page.url||u).filter(x => {
       const xHost=host(x.url);
-      if(!xHost || xHost===baseHost) continue;
+      if(!xHost || xHost===baseHost) return false;
       const f=fit(builder,pedal,(x.title||'')+' '+x.url);
-      if(f.builderHits || f.pedalHits || /youtube|reverb|effectsdatabase|guitar|pedal/i.test(xHost+' '+x.title)){
-        if(!found.has(x.url)) found.set(x.url,x);
-      }
-    }
+      return Boolean(f.builderHits || f.pedalHits || /youtube|reverb|effectsdatabase|guitar|pedal/i.test(xHost+' '+x.title));
+    });
+  });
+  for(const batch of minedLinks){
+    for(const x of batch || []) if(!found.has(x.url)) found.set(x.url,x);
   }
   const knownHosts = new Set(urls.map(host).filter(Boolean));
   // Curated/verified targets commonly arrive with two or more exact source
@@ -328,7 +329,7 @@ async function targetRecord(builder,pedal,type){
   // lot of latency and very little identity value, so reserve search-engine
   // work for targets that still need discovery.
   if(knownHosts.size < 2){
-    const queryResults = await boundedMap(queries, 2, q => search(q));
+    const queryResults = await boundedMap(queries, 3, q => search(q));
     for(const batch of queryResults){
       for(const x of batch || []) if(!found.has(x.url)) found.set(x.url,x);
     }
@@ -336,9 +337,7 @@ async function targetRecord(builder,pedal,type){
   const candidates=[...found.values()];
   const ranked=candidates.map(x=>({x,f:fit(builder,pedal,x.title+' '+x.url)}))
     .sort((a,b)=>b.f.score-a.f.score).slice(0,12);
-  const sources=[];
-  const acceptedUrls=new Set();
-  for(const item of ranked){
+  const fetched = await boundedMap(ranked, 2, async item => {
     const cached=verifiedCache.get(item.x.url);
     const p=await get(item.x.url);
     const info=p
@@ -354,7 +353,7 @@ async function targetRecord(builder,pedal,type){
     const u=p?.url||item.x.url;
     const fullText=info.title+' '+info.h1+' '+info.description+' '+info.body+' '+u;
     const f=fit(builder,pedal,fullText);
-    if(!f.pedalHits || !f.builderHits) continue;
+    if(!f.pedalHits || !f.builderHits) return null;
     const target=norm(pedal);
     const bodyNorm=norm(info.body);
     if(models.length && target && !bodyNorm.includes(target)){
@@ -366,18 +365,23 @@ async function targetRecord(builder,pedal,type){
       // mentions sibling pedals. If the page title/H1/URL itself carries the
       // exact pedal identity, do not reject it merely because that noisy body
       // also mentions another model.
-      if(conflicting && !f.exactPedal) continue;
+      if(conflicting && !f.exactPedal) return null;
     }
-    if(acceptedUrls.has(u)) continue;
-    acceptedUrls.add(u);
-    sources.push({
+    return {
       url:u,host:host(u),title:info.title,h1:info.h1,description:info.description,
       snippet:item.x.title,bodyExcerpt:info.body,identity:f,
       signals:signals(fullText),
       sourceKind:cached?.source_kind || sourceKind(builder,u,exactCatalogUrls,item.x.url),
       collectedAt:new Date().toISOString(),
       reusedVerifiedEvidence:Boolean(!p && cached)
-    });
+    };
+  });
+  const sources=[];
+  const acceptedUrls=new Set();
+  for(const source of fetched){
+    if(!source || acceptedUrls.has(source.url)) continue;
+    acceptedUrls.add(source.url);
+    sources.push(source);
   }
   const hosts=new Set(sources.map(x=>x.host).filter(Boolean));
   const strong=sources.filter(x=>x.identity.exactPedal);
