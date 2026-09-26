@@ -5,6 +5,13 @@ let wantedVariation = detailParams.get('variation') || '';
 let wantedType = detailParams.get('type') || '';
 if(!ARCHIVE_DIRT_TYPES.includes(wantedType))wantedType='';
 
+function initializeDetailNavDrawer(){
+  const drawer=document.querySelector('.detailNavDrawer');
+  if(!drawer)return;
+  drawer.open=window.matchMedia('(min-width:1001px)').matches;
+}
+initializeDetailNavDrawer();
+
 function restoreReturnLink(){
   const link=document.querySelector('.back');
   if(!link)return;
