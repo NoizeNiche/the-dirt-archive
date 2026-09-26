@@ -84,7 +84,8 @@ function searchMatches(x){
   if(!q)return true;
   const needle=q.toLowerCase();
   if(x.company.toLowerCase().includes(needle)||x.pedal.toLowerCase().includes(needle))return true;
-  return (variationSearchText.get(entryKey(x))||'').includes(needle);
+  if((variationSearchText.get(entryKey(x))||'').includes(needle))return true;
+  return String(facetRecords.get(entryKey(x))?.search||'').includes(needle);
 }
 
 function facetValues(x,group){
