@@ -32,3 +32,21 @@ Surfing Bear can operate as a clean booster at low Drive, then move into light t
 ## Photo
 - **Archive status:** **Exact Photo Archived**
 - **Image source:** Animals Pedal USA exact-model product image.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Surfing Bear Overdrive adopts true bypass switching and is powered by a 9V battery or a standard center minus DC9V adapter.
+
+### Verified color/finish evidence
+- And we have a beautiful design and artwork by noted surf art painter Jonas Cleasson from Australia.
+
+### Verified sound evidence
+The VOL knob has a high output level if needed to boost, and if you keep the DRIVE knob low can be used as a clean booster.
+Adjust the TONE knob to accentuate treble frequencies and make it a treble booster pedal.
+Turn up the DRIVE knob to hear an overdrive with sustainability, clear attack, and low noise.
+
+### Sources checked in this pass
+1. Animals Pedal Surfing Bear Overdrive – Animals Pedal USA: https://animalspedal.us/products/animals-pedal-surfing-bear-overdrive

@@ -4274,8 +4274,8 @@
       "research_record": "./research/pedals/PRP Batch 057/Surfing Bear Overdrive.md",
       "image_source_page": "https://animalspedal.us/products/animals-pedal-surfing-bear-overdrive",
       "image_source_url": "https://animalspedal.us/cdn/shop/files/SurfingBearOverdrive-01.jpg?v=1753150184&width=1946",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Animals Pedal",
@@ -5560,8 +5560,8 @@
       "research_record": "./research/pedals/AVIA/SD-2 Super Over Drive.md",
       "image_source_url": "https://i1.sndcdn.com/artworks-000157497994-swzocy-t500x500.jpg",
       "image_source_page": "https://soundcloud.com/soviet-guitar-effects/90s-avia-sd-2-super-overdrive-overdrive-shure-sm57-audix-i-6",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Avora",
@@ -6905,8 +6905,8 @@
       "image_source_url": "https://img.digimart.net/prdimg/m/0c/3bc54eab1c89be41cb365d2e79528665b938d5.jpg",
       "image_source_page": "https://www.digimart.net/cat13/shop77/DS10182054/",
       "image": "./assets/pedals/barbarossa/gargoyle/primary.webp",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Barbarossa",

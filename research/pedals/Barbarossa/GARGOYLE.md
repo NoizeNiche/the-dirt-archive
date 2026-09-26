@@ -61,3 +61,13 @@ GARGOYLE sits between overdrive and distortion, with strong compression and a pr
 2. Ikebe GARGOYLE product listing/specification: https://store.ishibashi.co.jp/view/item/000000070008
 3. Effects Database — Barbarossa GARGOYLE: https://www.effectsdatabase.com/model/barbarossa/gargoyle
 4. Japanese retailer and Reverb listings for identity and image confirmation.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Barbarossa's GARGOYLE is cataloged as a distortion / overdrive pedal.
+
+### Sources checked in this pass
+1. Barbarossa GARGOYLE（新品/送料無料）【楽器検索デジマート】: https://www.digimart.net/cat13/shop77/DS10182054/

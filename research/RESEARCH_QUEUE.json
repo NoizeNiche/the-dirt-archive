@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-26T22:22:27.472105+00:00",
+  "generated_at": "2026-09-26T22:24:17.069655+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,25 +10,18 @@
     "pictured": 2972,
     "complete": 2972,
     "research_pending": 0,
-    "deep_research_pending": 2263,
-    "deep_researched": 1498,
+    "deep_research_pending": 2260,
+    "deep_researched": 1501,
     "surface_ready": 3761
   },
   "next_target": {
     "builder": "Animals Pedal",
-    "pedal": "Surfing Bear Overdrive",
+    "pedal": "SURFING POLAR BEAR BASS OVERDRIVE MOD BY BJF",
     "catalog_type": "",
-    "research_record": "./research/pedals/PRP Batch 057/Surfing Bear Overdrive.md",
+    "research_record": "./research/pedals/PRP Batch 057/SURFING POLAR BEAR BASS OVERDRIVE MOD BY BJF.md",
     "research_level": "surface"
   },
   "working_set": [
-    {
-      "builder": "Animals Pedal",
-      "pedal": "Surfing Bear Overdrive",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 057/Surfing Bear Overdrive.md",
-      "research_level": "surface"
-    },
     {
       "builder": "Animals Pedal",
       "pedal": "SURFING POLAR BEAR BASS OVERDRIVE MOD BY BJF",
@@ -195,6 +188,13 @@
       "pedal": "Sutherland OverDrive",
       "catalog_type": "",
       "research_record": "./research/pedals/Atlas Pedal/Sutherland OverDrive.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Atmosfera 6",
+      "pedal": "BELMEZ Occult Fuzz Device",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Atmosfera 6/BELMEZ Occult Fuzz Device.md",
       "research_level": "surface"
     }
   ]

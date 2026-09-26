@@ -46,3 +46,16 @@ The SD-2 is a compact, chip-based overdrive with a relatively broad drive range 
 - **Archive status:** **No Photo Archived**
 - **Exact-model reference checked:** https://www.effectsdatabase.com/model/avia/sd2
 - **Archive note:** Exact-model archival images exist externally, but no stable archive asset is being promoted in this pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+AVIA's SD-2 Super Over Drive is cataloged as an overdrive pedal.
+
+### Verified sound evidence
+Specifications: Maximum input level: 500 mV Input resistance: 1 MOhm Supply voltage: 9 V Current consumption: 4 mA Adjustment range to a high frequency gain: +/- 12 dB Weight - 0,5 kg Controls including - Drive / Tone / Level.
+
+### Sources checked in this pass
+1. AVIA SD-2 Super Over Drive | Effects Database: https://www.effectsdatabase.com/model/avia/sd2
