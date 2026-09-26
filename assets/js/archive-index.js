@@ -135,7 +135,7 @@ function renderTechnicalFilters(){
     target.innerHTML=options.map(option=>{
       const count=facetCount(group,option);
       const active=selected.has(option);
-      return '<button class="facetButton '+(active?'active':'')+'" type="button" data-facet-group="'+group+'" data-facet="'+esc(option)+'" aria-pressed="'+(active?'true':'false')" '+(count?'':'disabled')+'>'+
+      return '<button class="facetButton '+(active?'active':'')+'" type="button" data-facet-group="'+group+'" data-facet="'+esc(option)+'" aria-pressed="'+(active?'true':'false')+'" '+(count?'':'disabled')+'>'+
         '<span class="facetName">'+esc(option)+'</span><span class="facetCount">'+count.toLocaleString()+'</span>'+
       '</button>';
     }).join('');
