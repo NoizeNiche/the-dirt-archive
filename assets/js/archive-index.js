@@ -292,7 +292,7 @@ function render(){
       (()=>{
         const img=pedalImages.get(entryKey(x));
         const media=img&&img.image
-          ? '<div class="cardMedia"><img class="cardImage" src="'+esc(img.image)+'" alt="'+esc(x.company+' '+x.pedal)+' pedal" loading="lazy" referrerpolicy="no-referrer" onerror="this.hidden=true;this.nextElementSibling.hidden=false"><div class="cardPlaceholder" hidden>No Photo Archived</div></div>'
+          ? '<div class="cardMedia"><img class="cardImage" src="'+esc(img.image)+'" alt="'+esc(x.company+' '+x.pedal)+' pedal" loading="lazy" referrerpolicy="no-referrer" onerror="this.hidden=true;this.nextElementSibling.hidden=false"><div class="cardPlaceholder" hidden aria-label="Photo unavailable"></div></div>'
           : '<div class="cardPlaceholder" aria-label="Photo unavailable"></div>';
         return '<a class="card" href="'+slugParams(x)+'">'+
           media+
