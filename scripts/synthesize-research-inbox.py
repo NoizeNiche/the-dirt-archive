@@ -66,7 +66,12 @@ def split_sentences(text):
         boilerplate = (
             "skip to navigation", "browse by", "categories menu", "mi cuenta",
             "carrito", "newsletter", "copyright", "privacy policy", "where to find one",
-            "ads! this site", "related -->", "myfxdb user reviews", "your browser"
+            "ads! this site", "related -->", "myfxdb user reviews", "your browser",
+            "skip to content", "skip to main content", "log in", "sign in", "add to wishlist",
+            "view wishlist", "share this", "category", "tags", "search", "magazin", "magazine",
+            "software /", "news /", "features", "all products", "all pedals", "more pedals",
+            "technical data", "technical specifications", "pedalpedia", "pedalpedia", "manuals",
+            "reviews", "where to find one", "this site contains affiliate links"
         )
         if any(marker in low for marker in boilerplate):
             continue
@@ -103,7 +108,15 @@ def strong_single_source(sources):
 def choose_description(builder, pedal, kind, sources):
     for source in sources:
         for sentence in split_sentences(source.get("excerpt")):
-            hay = sentence.lower()
+            low_sentence = sentence.lower()
+            if any(marker in low_sentence for marker in (
+                "skip to", "log in", "sign in", "pedalpedia", "pedalpedia",
+                "add to wishlist", "view wishlist", "category", "tags", "share this",
+                "newsletter", "magazin", "magazine", "software /", "news /",
+                "technical data", "all pedals", "all products"
+            )):
+                continue
+            hay = low_sentence
             if pedal.lower() in hay and any(
                 marker in hay
                 for marker in (" is ", " are ", " designed ", " delivers ", " offers ", " features ")
@@ -119,9 +132,24 @@ def choose_description(builder, pedal, kind, sources):
 
 def choose_sound(sources):
     candidates = []
+    reject_markers = (
+        "ed sheeran", "nirvana", "never mind", "skip to", "add to wishlist",
+        "view wishlist", "category", "tags", "share this", "newsletter",
+        "magazin", "magazine", "software /", "news /", "features", "pedalpedia",
+        "technical data", "all pedals", "all products", "your browser"
+    )
     for source in sources:
         for sentence in split_sentences(source.get("excerpt")):
-            if SOUND_WORDS.search(sentence):
+            low = sentence.lower()
+            if any(marker in low for marker in reject_markers):
+                continue
+            if SOUND_WORDS.search(sentence) and any(
+                marker in low for marker in (
+                    "tone", "gain", "fuzz", "drive", "distortion", "overdrive",
+                    "response", "texture", "saturation", "breakup", "grit",
+                    "boost", "crunch", "cleaner", "dynamic", "headroom"
+                )
+            ):
                 if sentence not in candidates:
                     candidates.append(sentence)
     return candidates[:3]
