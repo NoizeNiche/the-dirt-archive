@@ -1,6 +1,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import os from 'node:os';
+import html from 'node:html';
 import { execFileSync } from 'node:child_process';
 
 const TRACKER = path.join(process.cwd(), 'research/PRP_TRACKER.csv');
@@ -103,8 +104,16 @@ async function get(url){
   }
 }
 function strip(s){
-  return String(s||'').replace(/<script[\s\S]*?<\/script>/gi,' ').replace(/<style[\s\S]*?<\/style>/gi,' ')
-    .replace(/<[^>]+>/g,' ').replace(/&nbsp;/gi,' ').replace(/&amp;/gi,' ').replace(/\s+/g,' ').trim();
+  const raw=String(s||'').replace(/<script[\s\S]*?<\/script>/gi,' ').replace(/<style[\s\S]*?<\/style>/gi,' ')
+    .replace(/<[^>]+>/g,' ').replace(/\s+/g,' ').trim();
+  // Decode HTML entities after tag removal so model names and punctuation
+  // remain searchable (e.g. &#8211; in scraped product titles).
+  return raw
+    .replace(/&nbsp;/gi,' ')
+    .replace(/&amp;/gi,'&')
+    .replace(/&#(\d+);/g,(_,n)=>String.fromCodePoint(Number(n)))
+    .replace(/&#x([0-9a-f]+);/gi,(_,n)=>String.fromCodePoint(parseInt(n,16)))
+    .trim();
 }
 function parseResults(html){
   const out=[];
