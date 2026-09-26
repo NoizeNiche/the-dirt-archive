@@ -32796,8 +32796,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Fender/Fender Shields Blender.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Fender",
@@ -34133,8 +34133,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Greer Amps/Relic Drive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Greer Amps",
@@ -35003,8 +35003,8 @@
       "image": "./assets/pedals/idiotbox-effects/blackout/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/IdiotBox Effects/Blackout.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "IdiotBox Effects",
@@ -35039,8 +35039,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/IdiotBox Effects/Blower Box Deluxe.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "IdiotBox Effects",
@@ -42990,8 +42990,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Old Blood Noise Endeavors/Beam Splitter V2.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Old Blood Noise Endeavors",
