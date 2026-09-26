@@ -2725,8 +2725,8 @@
       "research_record": "./research/pedals/Amptweaker/Bass_TightDrive_Jr.md",
       "image_source_page": "https://www.premierguitar.com/amptweaker-introduces-the-bass-tightdrive-jr-bass-tightrock-jr-and-bass-tightmetal-jr",
       "image_source_url": "https://www.talkbass.com/attachments/img_0797-jpeg.5052266/",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Amptweaker",
@@ -28024,8 +28024,8 @@
       "image": "./assets/pedals/cunningham-amps/zonk-mk1-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Cunningham Amps/Zonk/MK1 Fuzz.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Cusack Music",
@@ -28144,8 +28144,8 @@
       "source_page": null,
       "research_record": "./research/pedals/Custom Guitar Innovations/2 In 1 Fuzz Pedal.md",
       "image_source_page": "https://www.effectsdatabase.com/model/customguitarinnovations/2in1fuzz",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Custom Guitar Innovations",
@@ -28473,8 +28473,8 @@
       "image": "./assets/pedals/danelectro/cool-cat-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Danelectro/Cool Cat Fuzz.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Danelectro",
@@ -38554,8 +38554,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Mad Professor Amplification/Bluebird Overdrive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Mad Professor Amplification",
