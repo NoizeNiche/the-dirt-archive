@@ -13894,9 +13894,10 @@
   {
     "builder": "Danelectro",
     "pedal": "Cool Cat Drive",
-    "image": null,
+    "image": "./assets/pedals/danelectro/cool-cat-drive/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/Danelectro/Cool Cat Drive.md"
+    "research_record": "./research/pedals/Danelectro/Cool Cat Drive.md",
+    "image_source_url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/ci/a40d066c982dd4d9/1790370726094/4urg1Vxh1ty7x5oEOWwhmYD02ji5DN0g6O37l0tu6dU-1790370726-1.3.1.1-5N2gN8TvPXhXQgNIZCRt1C8Hp3wnNtY_ed.ve6e07igRTUs7OGO9mWGWvX5ZYTFPZ9eOXcWypOm3Glil78sVujrcSEAmeCRNW1LIVuGCNbknXqAHCNHko9.Rob6AsnrT0OZPNyOYANeQ9C9an8qbCXv9PoiNsDHC1CuMY23xuiCZ.Y6x9NERsfgDKhKBtRtrTDvv9TzfY_5cI4TBhIEi4QeksMYw7pPBNiTOKWJxMWzhFNDNROxal7IF_tMKeiaS2XHL42rvHCJENQGHoAQkVYHFt7G6XAahIG0ybLvjgoT1493shRxtjPck92nndIQReQc5q_Qi1.Smz4YYurJGue0KuQHrbQaRtePD5V4FPhXoPzQwQH1NFjeWUdNcP4TbBffdn_4N9puA9EI4aL1eW5TnLbgKuh3CfEFuwa1o3LMZzFYHisdTsSyUVc8BPI.ldUJ3eKP_BS.B_ZknO0Q_Xr0nE6VADdtqSmlcmnkOYPMXdRWX4AccIqok8fhqOjB8kYVvEZd9X9hwh8DBj_5MN4EfZMJAqBQ53Xu4sNFvv3dmMtvvH.3KuLxrtbC.91jxBe7Ry3n48N4BeMon7UgdSNEs.TO0nFG1wxDzZi06tnzKfuMGCLgaEBlbRyjSyLsUSIHBLmPXdp_8rBC5Mwfq91olaiXZ8KZpxLjNQGs6X9ge5XxhTRg.6NqRftRhcRRr9lnLH59sAmlj1c7WesoX.c4V6w7lI0QJmou6OjB6qWU"
   },
   {
     "builder": "Danelectro",
@@ -14615,7 +14616,7 @@
   {
     "builder": "DigiTech",
     "pedal": "Redline Modified Overdrive",
-    "image": null,
+    "image": "./assets/pedals/digitech/redline-modified-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/DigiTech/Redline Modified Overdrive.md"
   },
@@ -14902,7 +14903,7 @@
   {
     "builder": "DOD Electronics",
     "pedal": "Grind (FX101)",
-    "image": null,
+    "image": "./assets/pedals/dod-electronics/grind-fx101/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/DOD Electronics/Grind (FX101).md"
   },
@@ -15322,7 +15323,7 @@
   {
     "builder": "EarthQuaker Devices",
     "pedal": "Bellows — Fuzz Driver",
-    "image": null,
+    "image": "./assets/pedals/earthquaker-devices/bellows-fuzz-driver/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/EarthQuaker Devices/Bellows — Fuzz Driver.md"
   },
@@ -15350,7 +15351,7 @@
   {
     "builder": "EarthQuaker Devices",
     "pedal": "Blumes — Low Signal Shredder / overdrive",
-    "image": null,
+    "image": "./assets/pedals/earthquaker-devices/blumes-low-signal-shredder-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/EarthQuaker Devices/Blumes — Low Signal Shredder / overdrive.md"
   },
@@ -15385,7 +15386,7 @@
   {
     "builder": "EarthQuaker Devices",
     "pedal": "Dirt Transmitter",
-    "image": null,
+    "image": "./assets/pedals/earthquaker-devices/dirt-transmitter/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/EarthQuaker Devices/Dirt Transmitter.md"
   },
@@ -15889,7 +15890,7 @@
   {
     "builder": "Electro-Harmonix",
     "pedal": "East River Drive",
-    "image": null,
+    "image": "./assets/pedals/electro-harmonix/east-river-drive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Electro-Harmonix/East River Drive.md"
   },
@@ -16372,7 +16373,7 @@
   {
     "builder": "Fender",
     "pedal": "MTG Tube Distortion Pedal",
-    "image": null,
+    "image": "./assets/pedals/fender/mtg-tube-distortion-pedal/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Fender/MTG Tube Distortion Pedal.md"
   },
@@ -16386,7 +16387,7 @@
   {
     "builder": "Fender",
     "pedal": "Pugilist Distortion",
-    "image": null,
+    "image": "./assets/pedals/fender/pugilist-distortion/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Fender/Pugilist Distortion.md"
   },
@@ -16498,7 +16499,7 @@
   {
     "builder": "Fjord Fuzz",
     "pedal": "Mjølner",
-    "image": null,
+    "image": "./assets/pedals/fjord-fuzz/mj-lner/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Fjord Fuzz/Mjølner.md"
   },
@@ -17044,28 +17045,28 @@
   {
     "builder": "Greer Amps",
     "pedal": "Moonshot Germanium Pre",
-    "image": null,
+    "image": "./assets/pedals/greer-amps/moonshot-germanium-pre/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Greer Amps/Moonshot Germanium Pre.md"
   },
   {
     "builder": "Greer Amps",
     "pedal": "Mori Drive",
-    "image": null,
+    "image": "./assets/pedals/greer-amps/mori-drive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Greer Amps/Mori Drive.md"
   },
   {
     "builder": "Greer Amps",
     "pedal": "No.9 Drive and Distortion",
-    "image": null,
+    "image": "./assets/pedals/greer-amps/no-9-drive-and-distortion/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Greer Amps/No.9 Drive and Distortion.md"
   },
   {
     "builder": "Greer Amps",
     "pedal": "Peacemaker",
-    "image": null,
+    "image": "./assets/pedals/greer-amps/peacemaker/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Greer Amps/Peacemaker.md"
   },
@@ -17177,7 +17178,7 @@
   {
     "builder": "GuitarSlinger Effects",
     "pedal": "87 MKIII High Gain Distortion",
-    "image": null,
+    "image": "./assets/pedals/guitarslinger-effects/87-mkiii-high-gain-distortion/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/GuitarSlinger Effects/87 MKIII High Gain Distortion.md"
   },
@@ -17331,7 +17332,7 @@
   {
     "builder": "Himmelstrutz Elektro Art",
     "pedal": "TÔNKer",
-    "image": null,
+    "image": "./assets/pedals/himmelstrutz-elektro-art/t-nker/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Himmelstrutz Elektro Art/TÔNKer.md"
   },
@@ -17513,28 +17514,28 @@
   {
     "builder": "Ibanez",
     "pedal": "TS808DX",
-    "image": null,
+    "image": "./assets/pedals/ibanez/ts808dx/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Ibanez/TS808DX.md"
   },
   {
     "builder": "Ibanez",
     "pedal": "TS808HW",
-    "image": null,
+    "image": "./assets/pedals/ibanez/ts808hw/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Ibanez/TS808HW.md"
   },
   {
     "builder": "Ibanez",
     "pedal": "TS808HWV2",
-    "image": null,
+    "image": "./assets/pedals/ibanez/ts808hwv2/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Ibanez/TS808HWV2.md"
   },
   {
     "builder": "Ibanez",
     "pedal": "TS9",
-    "image": null,
+    "image": "./assets/pedals/ibanez/ts9/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Ibanez/TS9.md"
   },
@@ -17632,7 +17633,7 @@
   {
     "builder": "IdiotBox Effects",
     "pedal": "Dungeon Master",
-    "image": null,
+    "image": "./assets/pedals/idiotbox-effects/dungeon-master/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/IdiotBox Effects/Dungeon Master.md"
   },
@@ -17646,7 +17647,7 @@
   {
     "builder": "IdiotBox Effects",
     "pedal": "Heavy Weapon",
-    "image": null,
+    "image": "./assets/pedals/idiotbox-effects/heavy-weapon/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/IdiotBox Effects/Heavy Weapon.md"
   },
@@ -17667,14 +17668,14 @@
   {
     "builder": "IdiotBox Effects",
     "pedal": "Landphil Bass Distortion",
-    "image": null,
+    "image": "./assets/pedals/idiotbox-effects/landphil-bass-distortion/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/IdiotBox Effects/Landphil Bass Distortion.md"
   },
   {
     "builder": "IdiotBox Effects",
     "pedal": "Lazer Fuzz (retired)",
-    "image": null,
+    "image": "./assets/pedals/idiotbox-effects/lazer-fuzz-retired/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/IdiotBox Effects/Lazer Fuzz (retired).md"
   },
@@ -17926,7 +17927,7 @@
   {
     "builder": "Jackson Audio",
     "pedal": "Page MK II",
-    "image": null,
+    "image": "./assets/pedals/jackson-audio/page-mk-ii/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Jackson Audio/Page MK II.md"
   },
@@ -18003,7 +18004,7 @@
   {
     "builder": "JAM Pedals",
     "pedal": "Rattler Bass / Rattler Bass MKII",
-    "image": null,
+    "image": "./assets/pedals/jam-pedals/rattler-bass-rattler-bass-mkii/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/JAM Pedals/Rattler Bass / Rattler Bass MKII.md"
   },
@@ -18017,7 +18018,7 @@
   {
     "builder": "JAM Pedals",
     "pedal": "Rattler MKII",
-    "image": null,
+    "image": "./assets/pedals/jam-pedals/rattler-mkii/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/JAM Pedals/Rattler MKII.md"
   },
@@ -18129,14 +18130,14 @@
   {
     "builder": "JHS Pedals",
     "pedal": "Cheese Ball",
-    "image": null,
+    "image": "./assets/pedals/jhs-pedals/cheese-ball/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/JHS Pedals/Cheese Ball.md"
   },
   {
     "builder": "JHS Pedals",
     "pedal": "Colour Box V2",
-    "image": null,
+    "image": "./assets/pedals/jhs-pedals/colour-box-v2/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/JHS Pedals/Colour Box V2.md"
   },
@@ -18150,14 +18151,14 @@
   {
     "builder": "JHS Pedals",
     "pedal": "Crayon",
-    "image": null,
+    "image": "./assets/pedals/jhs-pedals/crayon/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/JHS Pedals/Crayon.md"
   },
   {
     "builder": "JHS Pedals",
     "pedal": "Double Dragon",
-    "image": null,
+    "image": "./assets/pedals/jhs-pedals/double-dragon/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/JHS Pedals/Double Dragon.md"
   },
@@ -18367,28 +18368,28 @@
   {
     "builder": "JPTR FX",
     "pedal": "Super Weirdo - Fuzz Modulator Pedal",
-    "image": null,
+    "image": "./assets/pedals/jptr-fx/super-weirdo-fuzz-modulator-pedal/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/JPTR FX/Super Weirdo - Fuzz Modulator Pedal.md"
   },
   {
     "builder": "JPTR FX",
     "pedal": "Super Weirdo - Fuzz Modulator Pedal 10YRS EDT",
-    "image": null,
+    "image": "./assets/pedals/jptr-fx/super-weirdo-fuzz-modulator-pedal-10yrs-edt/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/JPTR FX/Super Weirdo - Fuzz Modulator Pedal 10YRS EDT.md"
   },
   {
     "builder": "JPTR FX",
     "pedal": "Warlow - Fuzz monstrosity",
-    "image": null,
+    "image": "./assets/pedals/jptr-fx/warlow-fuzz-monstrosity/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/JPTR FX/Warlow - Fuzz monstrosity.md"
   },
   {
     "builder": "JPTR FX",
     "pedal": "WARLOW mini",
-    "image": null,
+    "image": "./assets/pedals/jptr-fx/warlow-mini/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/JPTR FX/WARLOW mini.md"
   },
@@ -18416,7 +18417,7 @@
   {
     "builder": "Katanasound",
     "pedal": "Raging Wave Classic Fuzz",
-    "image": null,
+    "image": "./assets/pedals/katanasound/raging-wave-classic-fuzz/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Katanasound/Raging Wave Classic Fuzz.md"
   },
@@ -18444,7 +18445,7 @@
   {
     "builder": "Katanasound",
     "pedal": "Volcanic Eruption Octave Fuzz",
-    "image": null,
+    "image": "./assets/pedals/katanasound/volcanic-eruption-octave-fuzz/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Katanasound/Volcanic Eruption Octave Fuzz.md"
   },
@@ -18472,7 +18473,7 @@
   {
     "builder": "Keeley Electronics",
     "pedal": "Angry Orange Distortion and Fuzz",
-    "image": null,
+    "image": "./assets/pedals/keeley-electronics/angry-orange-distortion-and-fuzz/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Keeley Electronics/Angry Orange Distortion and Fuzz.md"
   },
@@ -18486,7 +18487,7 @@
   {
     "builder": "Keeley Electronics",
     "pedal": "Aria Compressor/Overdrive",
-    "image": null,
+    "image": "./assets/pedals/keeley-electronics/aria-compressor-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Keeley Electronics/Aria Compressor/Overdrive.md"
   },
