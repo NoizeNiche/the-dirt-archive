@@ -4,35 +4,45 @@
 - **Archive parent:** Cuervo Muerto - Silicon Fuzz Bender
 - **Builder:** AGR Pedals
 - **Catalog type:** Fuzz
-- **Identity:** AGR Pedals's Cuervo Muerto - Silicon Fuzz Bender.
+- **Identity:** AGR Pedals Cuervo Muerto - Silicon Fuzz Bender, an analog silicon fuzz drawing on Tone Bender and Fuzz Face-style circuit ideas. [1]
 
 ## What this pedal is
-AGR Pedals's Cuervo Muerto - Silicon Fuzz Bender is cataloged as a fuzz pedal.
+Effects Database describes Cuervo Muerto as an analog fuzz designed around classic Tone Bender and Fuzz Face-style concepts, with carefully selected silicon transistors and individually configured component values. The selection process is intended to tune each unit for a strong balance of saturation, sustain, clarity, and dynamic response. [1]
+
+The product is not presented as a single fixed-response fuzz. Its design is built around user control of attack, transistor bias behavior, and output level, with the result ranging from more aggressive gated textures to smoother vintage-oriented fuzz. [1]
 
 ## Colorways
-- No specific factory colorway information was established in the verified evidence packet.
+- No specific factory colorway history was reliably documented in the accessible exact-model source.
 
 ## Versions and factory options
-- No distinct factory revision was established in the verified evidence packet.
+### Cuervo Muerto - Silicon Fuzz Bender
+- **Attack:** adjusts fuzz intensity and character.
+- **Bias:** changes the transistor operating point, affecting texture, gating, and sustain.
+- **Volume:** controls overall output level.
+- Individually tuned units may vary subtly because AGR selects component values and silicon transistors for each build. [1]
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+No numbered factory revision was documented in the accessible exact-model source. The significant production characteristic that is documented is unit-by-unit tuning through selected silicon transistors and component values. [1]
 
 ## Transistor
-- Documented terms in the verified sources: silicon transistors.
-- The archive records only the component information explicitly present in these sources.
+- **Device family:** Silicon.
+- AGR's product description states that each unit uses carefully selected silicon transistors.
+- **Exact transistor/device number:** Not publicly documented in the accessible exact-model source. [1]
 
 ## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
-- **Exact part:** Unknown.
+- **Exact clipping diode/device:** Not publicly documented in the accessible exact-model source. [1]
 
 ## Sound
-AGR Pedals Cuervo Muerto - Silicon Fuzz Bender
-It is built around carefully selected silicon transistors and voiced to deliver a wide and continuous range of fuzz textures, spanning from aggressive, gated Velcro-style sounds to smoother, vintage fuzz tones.
-The circuit emphasizes dynamic response and expressive control, allowing the character of the fuzz to change noticeably with playing intensity and control adjustments.
+Cuervo Muerto is voiced to cover a broad span of fuzz behavior, from aggressive, gated, Velcro-style textures to smoother vintage fuzz tones. Its dynamic response is central to the design, with playing intensity and control settings noticeably affecting the character of the fuzz. [1]
+
+The Bias control is specifically described as changing texture, gating, and sustain by moving the transistor operating point, while Attack provides another way to shape the intensity and character of the fuzz. [1]
+
+## Historical documentation notes
+Effects Database added AGR Pedals as a new brand in its January 5, 2026 weekly overview and listed Cuervo Muerto among the brand's newly documented effects. The exact product record describes it as a silicon fuzz with Tone Bender and Fuzz Face-style inspiration. [1][2]
 
 ## Sources checked
-1. AGR Pedals Cuervo Muerto - Silicon Fuzz Bender | Effects Database: https://www.effectsdatabase.com/model/agrpedals/cuervomuerto
+1. Effects Database — AGR Pedals Cuervo Muerto - Silicon Fuzz Bender: https://www.effectsdatabase.com/model/agrpedals/cuervomuerto
+2. Effects Database — Weekly overview (2026, week 01): https://www.effectsdatabase.com/updates/weekly/20260105
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research pass.
