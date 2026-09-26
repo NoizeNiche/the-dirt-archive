@@ -14,3 +14,19 @@
 - **Research confidence:** High for the boost/drive architecture, true bypass, power specification, and stated British-rock voicing; medium for exact knob naming where the current page uses section labels rather than a conventional single-line control list.
 - **Sources checked:**
   - https://carlmartin.com/products/plexiranger/
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+When we designed PlexiRanger, our goal was to bring that sound back in a way that works for modern players, modern amps and real-world pedalboards.
+
+### Verified sound evidence
+British amplifiers, big cabinets and loud stages defined the tone of players like Tony Iommi, Ritchie Blackmore and Brian May.
+By pushing upper frequencies into the front of already loud tube amps, treble boosters didn’t just solve a problem – they created a new sound.
+More bite, more presence, and a raw, expressive overdrive that became part of rock history.
+
+### Sources checked in this pass
+1. PlexiRanger - Carl Martin: https://carlmartin.com/products/plexiranger/
+2. Carl Martin PlexiRanger Guitar Pedal - Payton's: https://paytons.com.au/product/carl-martin-plexiranger-guitar-pedal/

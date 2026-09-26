@@ -18178,8 +18178,8 @@
       "research_record": "./research/pedals/PRP Batch 149/carl-martin-panama.md",
       "image_source_page": "https://www.musicjunction.com.au/products/carl-martin-panama-overdrive-guitar-pedal",
       "image_source_url": "https://www.musicjunction.com.au/cdn/shop/files/57355_3.png?v=1754268681&width=2048",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Carl Martin",
@@ -18192,8 +18192,8 @@
       "research_record": "./research/pedals/PRP Batch 149/carl-martin-plexiranger.md",
       "image_source_page": "https://paytons.com.au/product/carl-martin-plexiranger-guitar-pedal/",
       "image_source_url": "https://paytons.com.au/wp-content/uploads/2025/05/plexi-ranger.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Carl Martin",
@@ -46274,8 +46274,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Stone Deaf FX/PDF-1X Ghost.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Stone Deaf FX",

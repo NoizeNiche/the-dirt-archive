@@ -15,3 +15,19 @@
 - **Sources checked:**
   - https://carlmartin.com/products/panama/
   - https://carlmartin.com/products/
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Carl Martin Panama 149,00 € Add to cart Find a dealer All about Carl Martin Panama When we designed Panama, we weren’t chasing nostalgia — we were addressing a problem we’ve all run into.
+
+### Verified sound evidence
+Toggle Menu Panama A powerful British-style overdrive pedal with unique low-end control for tailored response and clarity.
+149,00 € Add to cart More details · Find a dealer Hot-modded British overdrive with strong, articulate midrange and high gain potential.
+Unique Damping control adjusts low-end response for either tight, focused attack or open, dynamic feel.
+
+### Sources checked in this pass
+1. Panama - Carl Martin: https://carlmartin.com/products/panama/
+2. Carl Martin Panama Overdrive Guitar Pedal: https://www.musicjunction.com.au/products/carl-martin-panama-overdrive-guitar-pedal
