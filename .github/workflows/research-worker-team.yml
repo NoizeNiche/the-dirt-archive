@@ -5,7 +5,7 @@ on:
   # Background deep-research sweep. Surface coverage no longer depends on
   # this lane, so slow/hard evidence can be revisited without blocking the site.
   schedule:
-    - cron: '15 */4 * * *'
+    - cron: '17 * * * *'
   push:
     paths:
       - research/RESEARCH_WORKER_KICK
