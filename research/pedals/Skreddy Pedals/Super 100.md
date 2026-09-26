@@ -37,3 +37,28 @@ Classic stadium rock tones from Led Zeppelin and Jimi Hendrix era The Super 100 
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Classic stadium rock tones from Led Zeppelin and Jimi Hendrix era The Super 100 is based on the heavy and throaty sound of a mid-to-late-60's era 100 Watt British tube amp.
+
+### Verified color/finish evidence
+- Prototypes were tested at 17 venues across Texas, Tennessee, and California—including the historic Antone’s in Austin and The Blue Note in NYC—with professional players including Marcus King and Brittany Howard providing iterative input on touch sensitivity and clean-boost transparency.
+
+### Verified transistor/device terms
+- 2N5457.
+
+### Verified diode terms
+- Led, 1N4148W.
+
+### Verified sound evidence
+Manual Goes from clean to crunchy to full-throated, meaty slabs of sustaining distortion while retaining string definition and full articulation.
+Classic stadium rock tones from Led Zeppelin and Jimi Hendrix era The Super 100 is based on the heavy and throaty sound of a mid-to-late-60's era 100 Watt British tube amp.
+It has a certain "big, round" quality, just slightly chunky, as opposed to the ultra-streamlined, slick distortion of the later JCM-800 series amps popularized by 80's metal bands.
+
+### Sources checked in this pass
+1. Overdrive | Super 100 | Skreddy Pedals: https://skreddypedals.com/super100
+2. Skreddy Pedals Releases The Super 100: A Deep Technical and Musical Analysis | GearStrings: https://gearstrings.com/music-theory/skreddy-pedals-releases-the-super-100

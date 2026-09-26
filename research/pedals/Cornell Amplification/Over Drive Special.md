@@ -48,3 +48,20 @@ Channel 1 can be used as a clean boost, while Channel 2 gives a crunchier voice 
 1. Effects Database - Cornell Overdrive Special
 2. Cornell Pedal Operation Guide
 3. Reverb - Cornell Overdrive Special
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Cornell Amplification's Over Drive Special is cataloged as an overdrive pedal.
+
+### Verified sound evidence
+Exact-model catalog page for the Cornell Over Drive Special with model identity, controls, and reference material.
+Manual source documents Gain 1, Gain 2, Output, Boost and Tone controls, true bypass, channel and boost switching, and 9V power requirements.
+Exact-model Reverb listing identifies the Cornell Over Drive Special and describes its boost, clean, crunch, and higher-drive use cases.
+
+### Sources checked in this pass
+1. Cornell Over Drive Special | Effects Database: https://www.effectsdatabase.com/model/cornell/overdrivespecial
+2. Cornell Pedals Over Drive Special Operation Guide: https://www.manualslib.com/manual/707871/Biostar-A770-A2Plus.html
+3. Cornell Overdrive Special: https://reverb.com/item/431158-cornell-overdrive-special

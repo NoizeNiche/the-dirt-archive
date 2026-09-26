@@ -40,3 +40,16 @@ The basic circuit covers a wide range from lighter overdrive and boost-style ope
 ## Sources checked
 1. Effects Database - Coron Distortion
 2. Effects Database - Coron first series
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Coron's Coron Distortion is cataloged as a distortion pedal.
+
+### Verified sound evidence
+Exact-model page identifies a Japanese-made Coron Distortion from the late 1970s/early 1980s, lists Volume and Distortion controls and 9V battery power, and documents the relationship to related Coron OEM-branded units.
+
+### Sources checked in this pass
+1. Coron Distortion | Effects Database: https://www.effectsdatabase.com/model/coron/first/distortion

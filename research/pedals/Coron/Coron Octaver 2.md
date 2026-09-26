@@ -41,3 +41,28 @@ The blend control makes it possible to move from the original guitar voice towar
 1. Effects Database - Coron Octaver 2
 2. Tonefest Guitar Gallery - Coron Octaver 2
 3. ModularGrid - Coron Octaver 2
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Coron's Coron Octaver 2 is cataloged as a fuzz pedal.
+
+### Verified color/finish evidence
+- It is something like the MXR Blue box, really nasty sqare wave octave sound + a fuzz, you can blend between the two.
+
+### Verified transistor/device terms
+- AC706.
+
+### Verified sound evidence
+Blend control enables you to adjust the blend of fundamental and contrabass tone.
+Coron Distortion Pitch Shifter Dimensions 66 mm wide 121 mm high Current Draw ?
+MG ID: 15701 Octave Fuzz Vintage japanese pedal.
+
+### Sources checked in this pass
+1. Coron Octaver 2 | Effects Database: https://www.effectsdatabase.com/model/coron/first/octaver2
+2. Coron Octaver 2 – Tonefest Guitar Gallery: https://www.tonefestguitargallery.com/products/coron-octaver-2
+3. Coron Octaver 2 - Effects Pedals: https://www.effects-pedals.info/p/coron-octaver-2/
+4. Coron Octaver 2 - Pedal on ModularGrid: https://modulargrid.net/p/coron-octaver-2
+5. Coron Octaver 2: https://www.awin1.com/cread.php?awinmid=67144&awinaffid=1515727&ued=https%3A%2F%2Freverb.com%2Fitem%2F92763530-coron-hc-octaver-2-octave-fuzz-1980s-japan&clickref=mg_reverb_listings

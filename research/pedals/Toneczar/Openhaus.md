@@ -36,3 +36,23 @@ Share to X Share to Facebook Share to Pinterest Tags: Distortion , Verified , Ve
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Toneczar's Openhaus is cataloged as a distortion / fuzz pedal.
+
+### Verified transistor/device terms
+- 2N1306, 2N5457, 2n2.
+
+### Verified diode terms
+- 1n2.
+
+### Verified sound evidence
+Info about the original: the openhaus can create an array of modern, heavy distortion tones from popular amplifiers, without adjusting the amplifiers tone controls away from their optimum clean tone settings.
+
+### Sources checked in this pass
+1. openhaus – toneczar effects: https://toneczareffects.com/openhaus/
+2. Guitar FX Layouts: Toneczar Openhaus: https://tagboardeffects.blogspot.com/2014/06/toneczar-openhaus.html

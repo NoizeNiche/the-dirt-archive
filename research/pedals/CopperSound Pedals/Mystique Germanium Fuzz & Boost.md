@@ -41,3 +41,20 @@ CopperSound describes Mystique as spanning smooth, creamy sustain through rawer,
 ## Sources checked
 1. CopperSound Pedals - Mystique Germanium Fuzz & Boost
 2. Reverb - CopperSound Pedals Limited Edition Mystique Germanium Fuzz & Boost
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+CopperSound Pedals's Mystique Germanium Fuzz & Boost is cataloged as a fuzz pedal.
+
+### Verified transistor/device terms
+- germanium fuzz.
+
+### Verified sound evidence
+Official product page identifies the exact pedal as a limited 10th-anniversary edition, 50 units, with a fully discrete germanium fuzz, independent germanium boost, switchable boost order, two-band EQ, and hand-measured germanium transistors.
+
+### Sources checked in this pass
+1. Mystique Germanium Fuzz & Boost (Limited Edition) | CopperSound Pedals: https://www.coppersoundpedals.com/shop/p/mystique-germanium-fuzz-boost
+2. CopperSound Pedals Limited Edition Mystique Germanium Fuzz & Boost: https://reverb.com/item/89844108-coppersound-pedals-limited-edition-mystique-germanium-fuzz-boost-pedal

@@ -46,3 +46,22 @@ The GD Drive is voiced from softer boost overdrive through fully saturated lead 
 - **Archive status:** **Exact Photo Attached to Public Catalog**
 - **Exact-model image:** https://baroni-lab.com/wp-content/uploads/2017/03/02_PEDAL_03_OVERDRIVE_B01_file_4.jpg
 - **Source page:** https://www.stevesmusiccenter.net/products/baroni-lab-gd-drive
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Finding its place somewhere between overdrive and distortion, the GD Drive uses specially selected germanium components which are matched and placed in the optimum position within it’s circuit to provide a sweet, creamy distortion thick with natural paired harmonics.
+
+### Verified color/finish evidence
+- Finding its place somewhere between overdrive and distortion, the GD Drive uses specially selected germanium components which are matched and placed in the optimum position within it’s circuit to provide a sweet, creamy distortion thick with natural paired harmonics.
+
+### Verified sound evidence
+Finding its place somewhere between overdrive and distortion, the GD Drive uses specially selected germanium components which are matched and placed in the optimum position within it’s circuit to provide a sweet, creamy distortion thick with natural paired harmonics.
+The result is a drive which sounds great with both single coils and humbuckers.
+Baroni Lab GD Drive The GD Drive has a classic tone in every sense of the word.
+
+### Sources checked in this pass
+1. Baroni Lab GD Drive | Welcome To Steve's Music Center !: https://www.stevesmusiccenter.net/products/baroni-lab-gd-drive
+2. PEDALS - Baroni-Lab: https://baroni-lab.com/pedals/

@@ -36,3 +36,18 @@ Wampler Pedals Brad Paisley: Paisley Drive Pedal Brad Paisley: Paisley Drive Ped
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Wampler Pedals's Brad Paisley: Paisley Drive is cataloged as a distortion / overdrive pedal.
+
+### Verified sound evidence
+In stock Brad Paisley: Paisley Drive quantity Add to cart Watch video
+Wampler Pedals Brad Paisley: Paisley Drive Pedal Brad Paisley: Paisley Drive Pedal SKU: # 823899
+
+### Sources checked in this pass
+1. Brad Paisley: Paisley Drive | Wampler Pedals: https://www.wamplerpedals.com/products/distortion-overdrive/brad-paisley-paisley-drive/
+2. Wampler Pedals Brad Paisley: Paisley Drive Pedal: https://www.long-mcquade.com/445651/Guitars/Pedals-Effects/Wampler-Pedals/Brad-Paisley-Paisley-Drive-Pedal.htm

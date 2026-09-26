@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-26T10:22:31.382006+00:00",
+  "generated_at": "2026-09-26T10:24:30.271923+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,25 +10,18 @@
     "pictured": 2744,
     "complete": 2744,
     "research_pending": 0,
-    "deep_research_pending": 2875,
-    "deep_researched": 886,
+    "deep_research_pending": 2829,
+    "deep_researched": 932,
     "surface_ready": 3761
   },
   "next_target": {
-    "builder": "AMT Electronics",
-    "pedal": "Rammstein RD Distortion Combo Emulator",
+    "builder": "AMtech Handwired",
+    "pedal": "Destroyer",
     "catalog_type": "",
-    "research_record": "./research/pedals/PRP Batch 049/Rammstein RD Distortion Combo Emulator.md",
+    "research_record": "./research/pedals/PRP Batch 050/Destroyer.md",
     "research_level": "surface"
   },
   "working_set": [
-    {
-      "builder": "AMT Electronics",
-      "pedal": "Rammstein RD Distortion Combo Emulator",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 049/Rammstein RD Distortion Combo Emulator.md",
-      "research_level": "surface"
-    },
     {
       "builder": "AMtech Handwired",
       "pedal": "Destroyer",
@@ -195,6 +188,13 @@
       "pedal": "FISHING IS AS FUN AS FUZZ LIMITED EDITION",
       "catalog_type": "",
       "research_record": "./research/pedals/Animals Pedal/FISHING IS AS FUN AS FUZZ LIMITED EDITION.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Animals Pedal",
+      "pedal": "I Was A Wolf In The Forest Distortion",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Animals Pedal/I Was A Wolf In The Forest Distortion.md",
       "research_level": "surface"
     }
   ]

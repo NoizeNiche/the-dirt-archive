@@ -39,3 +39,16 @@ Advanced Microtubes distortion and compression pedal Capable of Microtubes, Micr
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Darkglass Electronics's Microtubes Infinity is cataloged as a distortion pedal.
+
+### Sources checked in this pass
+1. Darkglass Electronics Microtubes Infinity Preamp Pedal - Equipboard: https://equipboard.com/items/darkglass-electronics-darkglass-microtubes-infinity-preamp-distortion-audio-interface
+2. Darkglass Electronics Microtubes Infinity Distortion and MTINF: https://www.bhphotovideo.com/c/product/1831639-REG/darkglass_electronics_mtinf_microtubes_infinity_preamp_distortion_audio_interface.html
+3. Darkglass Electronics Microtubes Infinity - Reverb: https://reverb.com/p/darkglass-electronics-microtubes-infinity
+4. Microtubes Infinity | Darkglass Electronics: https://thedarkglass.shop/products/mtinf-2

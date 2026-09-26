@@ -48,3 +48,17 @@ With the buffers disabled, BP-1 preserves the touch-sensitive, harmonic-forward 
 ## Photo
 - **Archive status:** **No Photo Archived**
 - An exact-model Reverb image was visually confirmed, but its direct image endpoint returned an access block, so it was not promoted.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Barge Concepts's BP-1 is cataloged as a distortion / fuzz / overdrive pedal.
+
+### Verified version references
+- The evidence references: v15.
+
+### Sources checked in this pass
+1. Barge Concepts BP-1 - Other guitar saturation effect - Audiofanzine: https://en.audiofanzine.com/other-guitar-saturation-effect/barge-concepts/BP-1/
+2. Barge Concepts BP-1 - Saturation multiple ou autre saturation guitare - Audiofanzine: https://fr.audiofanzine.com/saturation-multiple-ou-autre-saturation-pour-guitare/barge-concepts/BP-1/

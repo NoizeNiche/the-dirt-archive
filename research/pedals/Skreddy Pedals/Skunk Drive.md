@@ -41,3 +41,33 @@ Cleans up with the guitar volume like you would want it to, serves as a fantasti
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+That certainly goes for the new Skunk Drive Model 1606, a simple, straight-ahead stomp designed to add vintage small-Supro sounds and dynamics to a player’s crayon box.
+
+### Verified color/finish evidence
+- The smaller of these was lovingly nicknamed "the skunk" because of the prominent white stripe running over the top of its cabinet.
+- This low-wattage amp was nicknamed “the Skunk” because of the large white stripe surrounding its cabinet.
+- [ owner photo · Skreddy Pedals Skunk Drive ] A fuzz and overdrive pedal voiced as a Supro 1606 combo amp, nicknamed 'the skunk' for its white stripe, hit hard by a 1960s fuzzy booster.
+
+### Verified version references
+- The evidence references: Mk 1.
+
+### Verified diode terms
+- Led.
+
+### Verified sound evidence
+Vintage cutting fuzz/overdrive like early Zeppelin Legendary vintage tones at your fingertips Masterfully emulates the effect of a certain model of low-Wattage amp being hit hard by a 1960's fuzzy booster.
+Cleans up with the guitar volume like you would want it to, serves as a fantastic base tone, and can be used to kick up a solo way out front in the mix.
+No stranger to fuzz boxes and boosters, for sure Jimmy made this small amp "weep as though struck with malice" by driving its front end.
+
+### Sources checked in this pass
+1. Overdrive | Skunk Drive | Skreddy Pedals: https://skreddypedals.com/skunk
+2. Skreddy Pedals Skunk Drive · Stacked Overdrive: https://stackedoverdrive.com/pedals/skreddy-pedals/skunk-drive
+3. Skreddy Pedals Skunk Drive – Coast Sonic American Express Apple Pay Diners Club Discover Google Pay Mastercard PayPal Shop Pay Visa: https://coastsonic.com/products/skreddy-pedals-skunk-drive
+4. Skreddy Skunk Drive Model 1606 Review - Premier Guitar: https://www.premierguitar.com/gear/reviews/skreddy-skunk-drive
+5. Overdrive | Skunk Drive | Skreddy Pedals: https://www.skreddypedals.com/skunk

@@ -9,22 +9,25 @@
       "title": "Cornell Over Drive Special | Effects Database",
       "h1": "Cornell Over Drive Special",
       "excerpt": "Exact-model catalog page for the Cornell Over Drive Special with model identity, controls, and reference material.",
-      "host": "www.effectsdatabase.com"
+      "host": "www.effectsdatabase.com",
+      "source_kind": "effects_database"
+    },
+    {
+      "url": "https://www.manualslib.com/manual/707871/Biostar-A770-A2Plus.html",
+      "title": "Cornell Pedals Over Drive Special Operation Guide",
+      "h1": "Cornell Pedals Over Drive Special",
+      "excerpt": "Manual source documents Gain 1, Gain 2, Output, Boost and Tone controls, true bypass, channel and boost switching, and 9V power requirements.",
+      "host": "www.manualslib.com",
+      "source_kind": "catalog_verified"
     },
     {
       "url": "https://reverb.com/item/431158-cornell-overdrive-special",
       "title": "Cornell Overdrive Special",
       "h1": "Cornell Overdrive Special",
       "excerpt": "Exact-model Reverb listing identifies the Cornell Over Drive Special and describes its boost, clean, crunch, and higher-drive use cases.",
-      "host": "reverb.com"
-    },
-    {
-      "url": "https://www.manualslib.com/manual/707871/Cornell-Pedals-Over-Drive-Special.html",
-      "title": "Cornell Pedals Over Drive Special Operation Guide",
-      "h1": "Cornell Pedals Over Drive Special",
-      "excerpt": "Manual source documents Gain 1, Gain 2, Output, Boost and Tone controls, true bypass, channel and boost switching, and 9V power requirements.",
-      "host": "www.manualslib.com"
+      "host": "reverb.com",
+      "source_kind": "reverb"
     }
   ],
-  "next_action": "Write the canonical research record from the exact-model sources and manual; state power polarity/details exactly as sourced and avoid adding undocumented circuit topology."
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
 }

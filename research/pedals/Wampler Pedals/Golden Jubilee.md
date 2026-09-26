@@ -35,3 +35,17 @@ Wampler Pedals Introduces the Golden Jubilee High-Gain Pedal By News Feb 23, 202
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Wampler Pedals's Golden Jubilee is cataloged as a distortion / overdrive pedal.
+
+### Verified sound evidence
+Wampler Pedals Introduces the Golden Jubilee High-Gain Pedal By News Feb 23, 2026 News A compilation of press releases from the Premier Guitar team.
+
+### Sources checked in this pass
+1. Golden Jubilee | Wampler Pedals: https://www.wamplerpedals.com/products/distortion-overdrive/golden-jubilee/
+2. Wampler Golden Jubilee High-Gain Pedal - Premier Guitar: https://www.premierguitar.com/news/wampler-golden-jubilee-high-gain-pedal

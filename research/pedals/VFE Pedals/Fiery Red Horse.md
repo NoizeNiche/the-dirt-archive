@@ -40,3 +40,33 @@ From a gritty overdrive to sputtering fuzz goodness, this fuzz has it all!
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Published on July 23, 2010 VFE Pedals fuzz pedal Controls Sustain A/L/S (toggle) Tone Level Power Mid Information VonRutter The Fiery Red Horse was designed to extend the tonal range of the original BMP.
+
+### Verified color/finish evidence
+- Published on July 23, 2010 VFE Pedals fuzz pedal Controls Sustain A/L/S (toggle) Tone Level Power Mid Information VonRutter The Fiery Red Horse was designed to extend the tonal range of the original BMP.
+- For 30 Pedals in 30 Days, TheToneKing.com had the chance to test the results of his madness with the VFE Fiery Red Horse Fuzz Pedal .
+- The VFE Fiery Red Horse Fuzz is a germanium and silicone hybrid fuzz that gives players a broad swath of fuzz tones.
+
+### Verified version references
+- The evidence references: Mk2, v2.
+
+### Verified transistor/device terms
+- silicon transistors.
+
+### Verified sound evidence
+Published on July 23, 2010 VFE Pedals fuzz pedal Controls Sustain A/L/S (toggle) Tone Level Power Mid Information VonRutter The Fiery Red Horse was designed to extend the tonal range of the original BMP.
+Includes a power control to simulate a dying battery, plus dual toggle switches for clipping & EQ frequency response.
+From a gritty overdrive to sputtering fuzz goodness, this fuzz has it all!
+
+### Sources checked in this pass
+1. VFE Pedals Fiery Red Horse | Effects Database: https://www.effectsdatabase.com/model/vfe/fieryredhorse
+2. Fiery Red Horse by VFE Pedals | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/VFE-Pedals/Fiery-Red-Horse/68986071/
+3. 30 Pedals in 30 Days 2014: VFE Fiery Red Horse Fuzz : The Tone King: https://thetoneking.com/30-pedals-in-30-days-2014-vfe-fiery-red-horse-fuzz/
+4. Product Page: https://www.vfepedals.com/product-page/fiery-red-horse
+5. Review by Harmony Central (EN): https://www.harmonycentral.com/forums/topic/1518760-vfe-fiery-red-horse-fuzz-another-really-nice-muff-anyone-own-it/

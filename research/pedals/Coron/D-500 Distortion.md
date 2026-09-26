@@ -36,3 +36,20 @@ The two-control layout keeps the D-500 focused on output level and distortion am
 1. Effects Database - Coron D-500 Distortion
 2. Reverb - Coron D-500 Distortion Late 80s Japan
 3. Effects Freak - D-500 Distortion Series Two Model
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Coron's D-500 Distortion is cataloged as a distortion pedal.
+
+### Verified sound evidence
+Exact-model catalog page identifies the Coron last-series D-500 Distortion and lists its Level and Distortion controls.
+Exact-model vintage Reverb listing identifies a late-1980s Japan D-500 Distortion and preserves period product imagery.
+Exact-model archive page identifies the D-500 as a Coron Distortion Series Two model.
+
+### Sources checked in this pass
+1. Coron D-500 Distortion | Effects Database: https://www.effectsdatabase.com/model/coron/last/d500
+2. Coron D-500 Distortion Late 80s Japan: https://reverb.com/item/41347841-coron-d-500-distortion-late-80-s-japan
+3. Coron D-500 Distortion Series Two Model | Effects Freak: https://effectsfreak.com/archive/effect/coron/d-500_distortion_series_two_model/index.html

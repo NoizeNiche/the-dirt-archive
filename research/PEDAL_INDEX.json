@@ -3254,8 +3254,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_url": "https://amtelectronics.com/new/wp-content/uploads/2024/10/201024-1200x450-regalii-2024.png",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "AMT Electronics",
@@ -7209,8 +7209,8 @@
       "research_record": "./research/pedals/Barber Electronics/Small Fry.md",
       "image_source_url": "https://medias.audiofanzine.com/images/normal/barber-small-fry-6547019.jpg",
       "image_source_page": "https://en.audiofanzine.com/overdrive-pedal/barber/Small-Fry/",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Barber Electronics",
@@ -7298,8 +7298,8 @@
       "research_record": "./research/pedals/Barge Concepts/BP-1.md",
       "image_source_url": "https://medias.audiofanzine.com/images/normal/barge-concepts-bp-1-1788896.jpg",
       "image_source_page": "https://en.audiofanzine.com/other-guitar-saturation-effect/barge-concepts/BP-1/",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Baroni Lab",
@@ -7340,8 +7340,8 @@
       "research_record": "./research/pedals/Baroni Lab/GD Drive.md",
       "image_source_page": "https://www.stevesmusiccenter.net/products/baroni-lab-gd-drive",
       "image_source_url": "https://baroni-lab.com/wp-content/uploads/2017/03/02_PEDAL_03_OVERDRIVE_B01_file_4.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Baroni Lab",
@@ -25320,8 +25320,8 @@
       "image": "./assets/pedals/coppersound-pedals/mystique-germanium-fuzz-boost/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/CopperSound Pedals/Mystique Germanium Fuzz & Boost.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "CopperSound Pedals",
@@ -25435,8 +25435,8 @@
       "image": "./assets/pedals/cornell-amplification/over-drive-special/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Cornell Amplification/Over Drive Special.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Cornell Amplification",
@@ -25546,8 +25546,8 @@
       "image": "./assets/pedals/cornerstone-music-gear/sparkle/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Cornerstone Music Gear/Sparkle.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Cornerstone Music Gear",
@@ -25570,8 +25570,8 @@
       "image": "./assets/pedals/coron/coron-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Coron/Coron Distortion.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Coron",
@@ -25607,8 +25607,8 @@
       "image": "./assets/pedals/coron/coron-octaver-2/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Coron/Coron Octaver 2.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Coron",
@@ -25619,8 +25619,8 @@
       "image": "./assets/pedals/coron/coron-over-drive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Coron/Coron Over Drive.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Coron",
@@ -25631,8 +25631,8 @@
       "image": "./assets/pedals/coron/d-500-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Coron/D-500 Distortion.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Coron",
@@ -25655,8 +25655,8 @@
       "image": "./assets/pedals/coron/hd-520-heavy-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Coron/HD-520 Heavy Distortion.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Coron",
@@ -29090,8 +29090,8 @@
       "image": "./assets/pedals/daredevil-pedals/wolf-deluxe-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Daredevil Pedals/Wolf Deluxe Fuzz.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Darkglass Electronics",
@@ -29102,8 +29102,8 @@
       "image": "./assets/pedals/darkglass-electronics/microtubes-b3k/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Darkglass Electronics/Microtubes B3K.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Darkglass Electronics",
@@ -29114,8 +29114,8 @@
       "image": "./assets/pedals/darkglass-electronics/microtubes-infinity/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Darkglass Electronics/Microtubes Infinity.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "DeadastronautFX",
@@ -31835,8 +31835,8 @@
       "image": "./assets/pedals/electro-harmonix/bass-big-muff-pi/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Electro-Harmonix/Bass Big Muff Pi.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Electro-Harmonix",
@@ -32126,8 +32126,8 @@
       "image": "./assets/pedals/electro-harmonix/j-mascis-ram-s-head-big-muff-pi/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Electro-Harmonix/J Mascis Ram's Head Big Muff Pi.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Electro-Harmonix",
@@ -32163,8 +32163,8 @@
       "image": "./assets/pedals/electro-harmonix/mainframe/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Electro-Harmonix/Mainframe.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Electro-Harmonix",
@@ -33076,8 +33076,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Fjord Fuzz/Odin.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Fjord Fuzz",
@@ -34570,8 +34570,8 @@
       "image": "./assets/pedals/hudson-electronics/broadcast/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Hudson Electronics/Broadcast.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Hudson Electronics",
@@ -35768,8 +35768,8 @@
       "image": "./assets/pedals/jam-pedals/red-muck-bass/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/JAM Pedals/Red Muck Bass.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "JAM Pedals",
@@ -45352,8 +45352,8 @@
       "image": "./assets/pedals/skreddy-pedals/screw-driver-mini-dlx/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Skreddy Pedals/Screw Driver Mini Dlx.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Skreddy Pedals",
@@ -45379,8 +45379,8 @@
       "image": "./assets/pedals/skreddy-pedals/skunk-drive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Skreddy Pedals/Skunk Drive.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Skreddy Pedals",
@@ -45406,8 +45406,8 @@
       "image": "./assets/pedals/skreddy-pedals/super-100/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Skreddy Pedals/Super 100.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Skreddy Pedals",
@@ -45622,8 +45622,8 @@
       "image": "./assets/pedals/spaceman-effects/charon-v2-mod/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Spaceman Effects/Charon v2 Mod.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Spaceman Effects",
@@ -45660,8 +45660,8 @@
       "image": "./assets/pedals/spaceman-effects/rumblefuzz-ii/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Spaceman Effects/Rumblefuzz II.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Spaceman Effects",
@@ -45688,8 +45688,8 @@
       "image": "./assets/pedals/spaceman-effects/spacerocket-ii/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Spaceman Effects/Spacerocket II.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Spaceman Effects",
@@ -45702,8 +45702,8 @@
       "image": "./assets/pedals/spaceman-effects/sputnik-i/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Spaceman Effects/Sputnik I.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Spaceman Effects",
@@ -47407,8 +47407,8 @@
       "image": "./assets/pedals/thorpyfx/the-kudu/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/ThorpyFX/The KUDU.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "ThorpyFX",
@@ -47511,8 +47511,8 @@
       "image": "./assets/pedals/tone-hungry-effects/fuzz-cream/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Tone Hungry Effects/Fuzz Cream.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Tone Hungry Effects",
@@ -47648,8 +47648,8 @@
       "image": "./assets/pedals/toneczar/openhaus/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Toneczar/Openhaus.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Tribute Audio Designs",
@@ -47660,8 +47660,8 @@
       "image": "./assets/pedals/tribute-audio-designs/the-classy-lady/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Tribute Audio Designs/The Classy Lady.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Union Tube & Transistor",
@@ -48021,8 +48021,8 @@
       "image": "./assets/pedals/vemuram/myriad-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Vemuram/Myriad Fuzz.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Vemuram",
@@ -48189,8 +48189,8 @@
       "image": "./assets/pedals/vemuram/spiritone-char-signature/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Vemuram/Spiritone Char Signature.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Vemuram",
@@ -48286,8 +48286,8 @@
       "image": "./assets/pedals/vfe-pedals/dragon/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/VFE Pedals/Dragon.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "VFE Pedals",
@@ -48312,8 +48312,8 @@
       "image": "./assets/pedals/vfe-pedals/fiery-red-horse/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/VFE Pedals/Fiery Red Horse.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "VFE Pedals",
@@ -48324,8 +48324,8 @@
       "image": "./assets/pedals/vfe-pedals/fuzz-duo/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/VFE Pedals/Fuzz Duo.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "VFE Pedals",
@@ -48337,8 +48337,8 @@
       "image": "./assets/pedals/vfe-pedals/killer-rabbit/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/VFE Pedals/Killer Rabbit.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "VFE Pedals",
@@ -48361,8 +48361,8 @@
       "image": "./assets/pedals/vfe-pedals/pale-horse/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/VFE Pedals/Pale Horse.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "VFE Pedals",
@@ -49439,8 +49439,8 @@
       "image": "./assets/pedals/wampler-pedals/black-65-limited-edition/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Wampler Pedals/Black ’65 Limited Edition.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Wampler Pedals",
@@ -49467,8 +49467,8 @@
       "image": "./assets/pedals/wampler-pedals/brad-paisley-paisley-drive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Wampler Pedals/Brad Paisley: Paisley Drive.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Wampler Pedals",
@@ -49522,8 +49522,8 @@
       "image": "./assets/pedals/wampler-pedals/clarksdale/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Wampler Pedals/Clarksdale.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Wampler Pedals",
@@ -49534,8 +49534,8 @@
       "image": "./assets/pedals/wampler-pedals/cryptid-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Wampler Pedals/Cryptid Fuzz.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Wampler Pedals",
@@ -49560,8 +49560,8 @@
       "image": "./assets/pedals/wampler-pedals/euphoria-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Wampler Pedals/Euphoria Overdrive.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Wampler Pedals",
@@ -49598,8 +49598,8 @@
       "image": "./assets/pedals/wampler-pedals/germanium-tumnus-deluxe/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Wampler Pedals/Germanium Tumnus Deluxe.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Wampler Pedals",
@@ -49611,8 +49611,8 @@
       "image": "./assets/pedals/wampler-pedals/golden-jubilee/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Wampler Pedals/Golden Jubilee.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Wampler Pedals",

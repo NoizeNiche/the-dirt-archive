@@ -1,0 +1,17 @@
+{
+  "builder": "AMT Electronics",
+  "pedal": "Rammstein RD Distortion Combo Emulator",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 1,
+  "sources": [
+    {
+      "url": "https://reverb.com/item/72391956-amt-electronics-rammstein-du-hast-distortion-combo-emulator",
+      "title": "AMT Electronics Rammstein Du Hast Distortion Combo Emulator",
+      "h1": "",
+      "excerpt": "The exact Reverb listing identifies the AMT Electronics Rammstein Du Hast Distortion Combo Emulator as the first version. The listing describes it as a distortion/combo emulator and gives Volume, Distortion, High, and Low controls. The unit is presented as a thick, crunchy metal-oriented AMT distortion.",
+      "host": "reverb.com",
+      "source_kind": "catalog_verified"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}

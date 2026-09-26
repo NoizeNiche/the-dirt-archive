@@ -28,3 +28,17 @@ https://www.truetonemusic.com/cdn/shop/files/2-DSCF6246_925d0418-fc6c-4b43-892a-
 https://www.rockboard.de/en/pedalPedia/Barber-Electronics/Small-Fry/506059945/
 https://humbuckersoup.com/barber-small-fry-burn-unit-review/
 https://stompboxsteals.blogspot.com/2020/07/overdrive-barber-electronics-small-fry.html?m=0
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Barber Electronics's Small Fry is cataloged as a distortion / overdrive pedal.
+
+### Verified version references
+- The evidence references: v15.
+
+### Sources checked in this pass
+1. Barber Small Fry - Overdrive pedal - Audiofanzine: https://en.audiofanzine.com/overdrive-pedal/barber/Small-Fry/
+2. Barber Small Fry - Overdrive guitare - Audiofanzine: https://fr.audiofanzine.com/overdrive-guitare/barber/Small-Fry/

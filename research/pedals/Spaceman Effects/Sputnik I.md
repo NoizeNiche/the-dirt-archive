@@ -40,3 +40,32 @@ SMALLER FOOTPRINT, BIGGER SOUND The silicon transistors bring their own sonic ed
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Featuring the original v1 circuit, with a twist - the Sputnik I is powered by NOS silicon transistors, which take this Sputnik to a whole new level.
+
+### Verified color/finish evidence
+- Edition (Color): Olive Drab (English) Black Ruined (LTD) Olive Drab White Glow-in-the-Dark LTD Buy Now The first Sputnik returns!
+- Sputnik I is available in several limited editions: Olive Drab, White, and Black finishes through Spaceman's webstore, and a Blue Edition exclusive to authorized dealers.
+
+### Verified version references
+- The evidence references: v1, v4.
+
+### Verified transistor/device terms
+- silicon transistors, silicon transistor.
+
+### Verified sound evidence
+Sputnik I delivers all the texture, warmth, and mojo of the original while adding the benefits of rock-solid stability and consistency.
+Free from the quirks of germanium: noise, temperature sensitivity, and fragility - Sputnik I: Silicon Fuzz arrives as the most dependable and streamlined version of the circuit to date.
+SMALLER FOOTPRINT, BIGGER SOUND The silicon transistors bring their own sonic edge, offering additonal gain levels to go further than any Sputnik to date.
+
+### Sources checked in this pass
+1. Sputnik I: Silicon Fuzz - Spaceman Effects American Express Apple Pay Diners Club Discover Google Pay Mastercard PayPal Visa: https://spacemaneffects.com/products/sputnik-i
+2. Spaceman Sputnik I - Silicon Fuzz | Effects Database: https://www.effectsdatabase.com/model/spaceman/sputnik1
+3. JavaScript is not available.: https://x.com/intent/tweet?text=Sputnik%20I:%20Silicon%20Fuzz&url=https://spacemaneffects.com/products/sputnik-i
+4. Facebook: https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fshare_channel%2F%3Ftype%3Dreshare%26link%3Dhttps%253A%252F%252Fspacemaneffects.com%252Fproducts%252Fsputnik-i%26app_id%3D966242223397117%26source_surface%3Dexternal_reshare%26display%26hashtag
+5. Pinterest: https://www.pinterest.com/pin/create/button/?url=https://spacemaneffects.com/products/sputnik-i&description=Sputnik%20I:%20Silicon%20Fuzz&media=https://spacemaneffects.com/cdn/shop/files/Sputnik_I_-_2_600x.png?v=1776958542

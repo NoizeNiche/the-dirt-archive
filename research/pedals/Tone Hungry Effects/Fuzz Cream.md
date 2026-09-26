@@ -37,3 +37,22 @@ The treble response is also now clearer than before.
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+The bias knob is very significant on the Fuzz Cream, as it has a wide range, and as you go further clockwise you can get some gating effects on your fuzz tone and you can get some great glitching effects when playing in the right dynamic range in conjunction with where the knob is set.
+
+### Verified transistor/device terms
+- bc183.
+
+### Verified sound evidence
+The treble response is also now clearer than before.
+The bias knob is very significant on the Fuzz Cream, as it has a wide range, and as you go further clockwise you can get some gating effects on your fuzz tone and you can get some great glitching effects when playing in the right dynamic range in conjunction with where the knob is set.
+This is a fuzz pedal that is versatile and can find a home on pedalboards in all genres.
+
+### Sources checked in this pass
+1. Tone Hungry Effects Fuzz Cream - Auralvia | Premium Audio Equipment and Music Essentials: https://www.auralvia.com/product/tone-hungry-effects-fuzz-cream/
+2. Tone Hungry Effects Fuzz Cream - Pro-Level Distortion Effects Pedals for Live and Studio Use: https://www.pedaldistort.com/product/tone-hungry-effects-fuzz-cream/

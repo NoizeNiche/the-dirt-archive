@@ -37,3 +37,25 @@ Inspired by the mythical bass response of the Black Russian Big Muffs of the 90�
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Electro-Harmonix's Bass Big Muff Pi is cataloged as a fuzz pedal.
+
+### Verified color/finish evidence
+- Inspired by the mythical bass response of the Black Russian Big Muffs of the 90’s, the distortion of the Bass Big Muff hits like a ton of bricks, sludgy mortor and all.
+
+### Verified diode terms
+- LED.
+
+### Verified sound evidence
+Fuzz / Distortion / Sustainer The drive of the original classic Big Muff Pi and the earthy support of a bass tailored design with no loss of low end!
+Bass Big Muff Pi DESCRIPTION The EHX Bass Big Muff lets you rip and rumble with a full fuzz tone and no low-end loss.
+Inspired by the mythical bass response of the Black Russian Big Muffs of the 90’s, the distortion of the Bass Big Muff hits like a ton of bricks, sludgy mortor and all.
+
+### Sources checked in this pass
+1. Bass Big Muff Pi | Fuzz / Distortion / Sustainer - Electro-Harmonix: https://www.ehx.com/products/bass-big-muff-pi/
+2. Bass Big Muff Pi Distortion / Sustainer | BASS BM | Electro-Harmonix: https://shop.ehx.com/item/bass%20bm/

@@ -37,3 +37,22 @@ Published on March 3, 2025 Wampler Pedals overdrive pedal Information Wampler Pe
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Thanks to them, the Germanium Tumnus Deluxe is as close as you can get to his '90s icons.
+
+### Verified diode terms
+- LED.
+
+### Verified sound evidence
+The Germanium Tumnus Deluxe adds vintage sizzle and extra bite to a classic pedal, with increased options for gain switching, three band EQ, and switchable buffer.
+Published on March 3, 2025 Wampler Pedals overdrive pedal Information Wampler Pedals The Germanium Tumnus Deluxe adds vintage sizzle and extra bite to a classic pedal, with increased options for gain switching, three band EQ, and switchable buffer.
+"This is my shot at the ultimate Klon-style overdrive…​" Legendary Diodes, Iconic Tone There are so many Klones out there that it's hard to keep up.
+
+### Sources checked in this pass
+1. Germanium Tumnus Deluxe | Wampler Pedals: https://www.wamplerpedals.com/products/distortion-overdrive/germanium-tumnus-deluxe/
+2. Wampler Pedals Tumnus Germanium Deluxe | Effects Database: https://www.effectsdatabase.com/model/wampler/tumnus/germanium/deluxe

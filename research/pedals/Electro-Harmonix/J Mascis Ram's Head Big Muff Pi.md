@@ -40,3 +40,31 @@ That’s what I grew up playing so it’s kind of amazing to have my own signatu
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+J Mascis Ram's Head Big Muff Pi DESCRIPTION The J Mascis Ram’s Head Big Muff Pi fuzz pedal pays homage to the sonic center of the alt-rock legend’s iconic tone of equal parts thickness and clarity in a special edition white and violet finish.
+
+### Verified color/finish evidence
+- Fuzz / Distortion / Sustainer Pays homage to the sonic center of the alt-rock legend’s iconic tone of equal parts thickness and clarity in a special edition white and violet finish.
+- J Mascis Ram's Head Big Muff Pi DESCRIPTION The J Mascis Ram’s Head Big Muff Pi fuzz pedal pays homage to the sonic center of the alt-rock legend’s iconic tone of equal parts thickness and clarity in a special edition white and violet finish.
+- J Mascis Ram's Head Big Muff Pi Not Sold Online Find Dealer Item JMASCIS The J Mascis Ram’s Head Big Muff Pi fuzz pedal pays homage to the sonic center of the alt-rock legend’s iconic tone of equal parts thickness and clarity in a special edition white and violet finish.
+
+### Verified version references
+- The evidence references: V2.
+
+### Verified diode terms
+- LED.
+
+### Verified sound evidence
+Fuzz / Distortion / Sustainer Pays homage to the sonic center of the alt-rock legend’s iconic tone of equal parts thickness and clarity in a special edition white and violet finish.
+J Mascis Ram's Head Big Muff Pi DESCRIPTION The J Mascis Ram’s Head Big Muff Pi fuzz pedal pays homage to the sonic center of the alt-rock legend’s iconic tone of equal parts thickness and clarity in a special edition white and violet finish.
+That’s what I grew up playing so it’s kind of amazing to have my own signature one.” Based on the highly coveted 1973 Electro-Harmonix V2 Violet Ram’s Head Big Muff, J’s signature Big Muff produces the indulgent fuzz and exceptional sustain used as his sonic center for decades.
+
+### Sources checked in this pass
+1. J Mascis Ram's Head Big Muff Pi | Fuzz / Distortion / Sustainer - Electro-Harmonix: https://www.ehx.com/products/j-mascis-rams-head-big-muff-pi/
+2. J Mascis Ram's Head Big Muff Pi Fuzz / Sustainer | JMASCIS | Electro-Harmonix: https://shop.ehx.com/item/jmascis/
+3. J Mascis Ram's Head Big Muff Pi Review - Premier Guitar: https://www.premierguitar.com/gear/reviews/electro-harmonix-j-mascis-rams-head

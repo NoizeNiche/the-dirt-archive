@@ -40,3 +40,28 @@ This pedal gives you the grit without ever getting muddy, even when playing chor
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Published on September 4, 2012 Tribute Audio Designs overdrive pedal Information Tribute Audio Designs The Classy Lady is a tribute to the classic TS-808 Tube Screamer, and to Jack Orman 's Son of Screamer.
+
+### Verified color/finish evidence
+- Screamer Build Your Own Clone Screamer Clone Chicago Stompworks The Green Thing Chucktone Effects Overdrive 809 Ciclar Overdrive Cog Effects Darklighter - Overdrive ColorTone Fx OD-909 Overdrive Pro Compulsive Audio Valve Howler Donner Blues Drive dp Musicworks Custom Drive dp Musicworks Double Drive Dr.
+
+### Verified version references
+- The evidence references: v2.
+
+### Verified diode terms
+- LED.
+
+### Verified sound evidence
+Published on September 4, 2012 Tribute Audio Designs overdrive pedal Information Tribute Audio Designs The Classy Lady is a tribute to the classic TS-808 Tube Screamer, and to Jack Orman 's Son of Screamer.
+Arguably one of the most versatile and popular pedals of all time, the Tube Screamer is known for its tube like breakup, while retaining the clarity of the original signal.
+This pedal gives you the grit without ever getting muddy, even when playing chords.
+
+### Sources checked in this pass
+1. Tribute Audio Designs Classy Lady - Classic Overdrive | Effects Database: https://www.effectsdatabase.com/model/tribute/classylady
+2. Tribute Audio Designs Classy Lady – Classic Tube Sounding Overdrive | Axe... And You Shall Receive: https://www.axeandyoushallreceive.com/product/tribute-audio-designs-classy-lady-%E2%80%93-classic-tube-sounding-overdrive

@@ -45,3 +45,17 @@ Sparkle is voiced for responsive, dynamic overdrive rather than a fixed gain tex
 ## Sources checked
 1. Effects Database - Cornerstone Sparkle
 2. Reverb - Cornerstone Sparkle Dynamic Overdrive
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Exact-model page identifies Sparkle as a touch-sensitive overdrive designed to closely follow playing dynamics and lists Volume, Gain, Bass and Treble controls.
+
+### Verified sound evidence
+Exact-model page identifies Sparkle as a touch-sensitive overdrive designed to closely follow playing dynamics and lists Volume, Gain, Bass and Treble controls.
+
+### Sources checked in this pass
+1. Cornerstone Sparkle - Dynamic Overdrive | Effects Database: https://www.effectsdatabase.com/model/cornerstone/sparkle
+2. Cornerstone Sparkle Dynamic Overdrive: https://reverb.com/item/6908850-cornerstone-sparkle-dynamic-overdrive

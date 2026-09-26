@@ -35,3 +35,14 @@ The verified evidence packet did not contain enough pedal-specific sonic descrip
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Vemuram's Spiritone Char Signature is cataloged as an overdrive pedal.
+
+### Sources checked in this pass
+1. Vemuram SPIRITONE Char Signature: https://www.guitareffectspedals.com/Vemuram-SPIRITONE-Char-Signature-p1382.html
+2. The Guitar Sanctuary | Vemuram | SPIRITONE | Char Signature Overdrive: https://www.guitarsanctuary.com/vemuram-spiritone-char-signature-overdrive-pedal/

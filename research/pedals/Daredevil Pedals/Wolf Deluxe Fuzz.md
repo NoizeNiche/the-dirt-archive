@@ -42,3 +42,26 @@ You can get that great singing LP neck pickup tone while using your bridge pu an
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Daredevil Pedals Wolf Deluxe Fuzz Pedal
+
+### Verified color/finish evidence
+- Related products $24.99 Raw Vintage RVTS-1 Tremolo Spring Set (5 Pieces) Raw Vintage The wear and tear of parts from vintage guitars that were manufactured few decades ago can cause functionality problems.
+- 99 EarthQuaker Devices Barrows Fuzz Pedal - White 4.2 8 $129.00 $ 129 .
+
+### Verified sound evidence
+Daredevil Pedals Wolf Deluxe Fuzz Effects Pedal
+Daredevil Pedals Wolf Deluxe Fuzz Pedal
+You can get that great singing LP neck pickup tone while using your bridge pu and retain the cut and output.
+
+### Sources checked in this pass
+1. Daredevil Pedals Wolf Deluxe Fuzz Effects Pedal | Guitar Center: https://www.guitarcenter.com/Daredevil-Pedals/Wolf-Deluxe-Fuzz-Effects-Pedal-1500000216923.gc
+2. Daredevil Pedals Wolf Deluxe Fuzz - Effects Database: https://www.effectsdatabase.com/model/daredevil/wolf/deluxe
+3. Daredevil Pedals Wolf Deluxe Fuzz Pedal | Vision Guitar: https://www.visionguitar.com/products/daredevil-pedals-wolf-deluxe-fuzz-pedal
+4. Amazon.com: Daredevil Pedals Wolf Deluxe Fuzz Effect Pedal : Musical Instruments: https://www.amazon.com/Daredevil-Pedals-Deluxe-Effect-Pedal/dp/B06XYNWYFS
+5. Daredevil Pedals Wolf Deluxe Fuzz Pedal - "Shop Premium Music ...: https://www.rhythmandharmony.com/product/daredevil-pedals-wolf-deluxe-fuzz-pedal/

@@ -38,3 +38,28 @@ Just the right amount of compression and a wonderfully biting attack along with 
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Skreddy Pedals's Screw Driver Mini Dlx is cataloged as an overdrive pedal.
+
+### Verified version references
+- The evidence references: revision.
+
+### Verified transistor/device terms
+- germanium transistor, silicon transistor.
+
+### Verified diode terms
+- LED.
+
+### Verified sound evidence
+Versatile touch-sensitive tweedy overdrive The perfect marriage of sparkle, grit, and growl.
+Featuring a detailed, cutting twang & jangle and at the same time a smooth, thick, touch-sensitive, mellow response, you will be amazed at the beautiful tones you will hear coming out of your amp.
+This pedal is so classic rock and yet so versatile and modern, it promises to do away with every other general-purpose overdrive on your pedal-board.
+
+### Sources checked in this pass
+1. Overdrive | Screw Driver Mini Dlx | Skreddy Pedals: https://skreddypedals.com/screw-driver
+2. Skreddy Screw Driver Mini Dlx – Motor City Guitar: https://motorcityguitar.com/products/skreddy-screw-driver-mini-deluxe-overdrive-pedal

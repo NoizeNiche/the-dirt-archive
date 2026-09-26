@@ -37,3 +37,22 @@ It offers three distinct gain stages, allowing for a range of tones from clean b
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+The Wampler Euphoria Overdrive is a versatile and transparent overdrive pedal designed to enhance your guitar's natural tone.
+
+### Verified color/finish evidence
+- Natural, transparent overdrive… In stock (can be backordered) Euphoria Overdrive quantity Add to cart Watch video
+
+### Verified sound evidence
+Natural, transparent overdrive… In stock (can be backordered) Euphoria Overdrive quantity Add to cart Watch video
+The Wampler Euphoria Overdrive is a versatile and transparent overdrive pedal designed to enhance your guitar's natural tone.
+It offers three distinct gain stages, allowing for a range of tones from clean boosts to aggressive crunch, and even venturing into fuzz territory.
+
+### Sources checked in this pass
+1. Euphoria Overdrive | Wampler Pedals: https://www.wamplerpedals.com/products/distortion-overdrive/euphoria/
+2. Wampler Pedals Euphoria Overdrive | AllThePedals: https://allthepedals.com/pedals/wampler-pedals-euphoria-overdrive

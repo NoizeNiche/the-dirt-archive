@@ -37,3 +37,25 @@ This allows you to set the sample rate to match the key of a song, or it will co
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+The Mainframe’s sample rate range is wide enough to take you from sounds that are quite pristine to sounds that are unrecognizable when compared to the input signal.
+
+### Verified color/finish evidence
+- FOOTSWITCH AND RED LED Toggles between bypass and effect modes.
+
+### Verified diode terms
+- LED.
+
+### Verified sound evidence
+Aliasing means audible artifacts created when higher frequencies are sampled at an inadequate rate and the result is distortion.
+Higher bit depths can accurately represent a greater dynamic range while bit crushing increases the number of sampling errors and creatively degrades the sound to bring us back to those nasty “old school” sounds we love.
+BIT DEPTH KNOB As this knob is turned clockwise, the bit depth of the signal is reduced, producing a distorted, noisy tone.
+
+### Sources checked in this pass
+1. Mainframe | Bit Crusher - Electro-Harmonix: https://www.ehx.com/products/mainframe/
+2. Mainframe | MAINFRAME | Electro-Harmonix: https://shop.ehx.com/item/mainframe/

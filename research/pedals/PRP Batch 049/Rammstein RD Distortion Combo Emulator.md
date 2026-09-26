@@ -30,3 +30,18 @@ The product is associated with aggressive modern metal distortion and direct/amp
 
 ## Photo
 - **Archive status:** Exact Photo Needed
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+AMT Electronics's Rammstein RD Distortion Combo Emulator is cataloged as a distortion pedal.
+
+### Verified sound evidence
+The exact Reverb listing identifies the AMT Electronics Rammstein Du Hast Distortion Combo Emulator as the first version.
+The listing describes it as a distortion/combo emulator and gives Volume, Distortion, High, and Low controls.
+The unit is presented as a thick, crunchy metal-oriented AMT distortion.
+
+### Sources checked in this pass
+1. AMT Electronics Rammstein Du Hast Distortion Combo Emulator: https://reverb.com/item/72391956-amt-electronics-rammstein-du-hast-distortion-combo-emulator

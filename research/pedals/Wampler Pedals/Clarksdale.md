@@ -37,3 +37,22 @@ Blues and non-blues guitar players have used Tube Screamer® type circuits for y
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+This historic town, and the famous music that was created there, is responsible for the inspiration behind this pedal - The Clarksdale Overdrive.
+
+### Verified color/finish evidence
+- 2.5" x 4.5" in size (63.5mm x 114.3mm) 5 Year Warranty Powder coated durable finish Video all
+
+### Verified sound evidence
+Published on August 25, 2014 Wampler Pedals overdrive pedal Information Wampler Pedals At the crossroads of Highway 61 and Junction 49 lies the official crossroads of Clarksdale, Mississippi - the birthplace of the Delta Blues.
+This historic town, and the famous music that was created there, is responsible for the inspiration behind this pedal - The Clarksdale Overdrive.
+Brian wanted to create a pedal that would be true to the sound and feel of the original but would have a wider range of tonal options - to satisfy even the biggest tone chasers out there.
+
+### Sources checked in this pass
+1. Clarksdale Overdrive | Wampler Pedals: https://www.wamplerpedals.com/products/discontinued/clarksdale/
+2. Wampler Pedals Clarksdale - Delta Overdrive | Effects Database: https://www.effectsdatabase.com/model/wampler/clarksdale

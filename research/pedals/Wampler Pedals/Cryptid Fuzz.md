@@ -37,3 +37,22 @@ Wampler Pedals Unleashes the Cryptid Fuzz An all-new circuit designed to blend t
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+The Cryptid Fuzz is a homage to all of Brian Wampler’s favorite vintage fuzz pedals in one pedal.
+
+### Verified color/finish evidence
+- Mascis, and Jack White, the Cryptid Fuzz also inspires individuality—giving players a tonal playground for discovering new sounds and textures.
+
+### Verified sound evidence
+The Cryptid Fuzz is a homage to all of Brian Wampler’s favorite vintage fuzz pedals in one pedal.
+In stock Cryptid Fuzz quantity Add to cart Watch video
+Mascis, and Jack White, the Cryptid Fuzz also inspires individuality—giving players a tonal playground for discovering new sounds and textures.
+
+### Sources checked in this pass
+1. Cryptid Fuzz | Wampler Pedals: https://www.wamplerpedals.com/products/fuzz/cryptid-fuzz/
+2. Wampler Pedals Unleashes the Cryptid Fuzz - Bass Magazine: https://bassmagazine.com/wampler-pedals-unleashes-the-cryptid-fuzz/

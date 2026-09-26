@@ -38,3 +38,26 @@ The pedal arrives at a moment of heightened collector and player interest in tra
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+ThorpyFX has released the Kudu, a new overdrive pedal designed by founder Adrian Thorpe to complement rather than color an amplifier's natural voice.
+
+### Verified color/finish evidence
+- ThorpyFX has released the Kudu, a new overdrive pedal designed by founder Adrian Thorpe to complement rather than color an amplifier's natural voice.
+- The Bad Cash, Silver Spurs, Black Swamp, The FreaQ, Steam, and Tremonator represent a broad statement from a new builder staking territory in a market dominated by established names.
+
+### Verified transistor/device terms
+- AC30.
+
+### Verified sound evidence
+ThorpyFX has released the Kudu, a new overdrive pedal designed by founder Adrian Thorpe to complement rather than color an amplifier's natural voice.
+Unlike conventional overdrives that impose their own character onto a signal chain, the Kudu uses switchable clipping options to enhance an amp's existing tone, working transparently across a wide range of playing styles.
+The pedal arrives at a moment of heightened collector and player interest in transparent overdrive circuits, as the boutique effects market continues to expand in 2026.
+
+### Sources checked in this pass
+1. ThorpyFX The KUDU American Express Apple Pay Bancontact Diners Club Discover Google Pay iDEAL Wero Mastercard PayPal Shop Pay Visa: https://parkwaymusic.com/products/thorpyfx-the-kudu
+2. ThorpyFX Kudu Overdrive: What You Need to Know: https://www.fretfolio.app/news/thorpyfx-kudu-overdrive-release-2026

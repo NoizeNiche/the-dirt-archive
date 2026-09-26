@@ -36,3 +36,13 @@ The low-voltage FET design is intended to give an amplifier-like overdrive respo
 
 ## Sources checked
 1. Effects Database - Coron Over Drive
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Coron's Coron Over Drive is cataloged as an overdrive pedal.
+
+### Sources checked in this pass
+1. Coron Over Drive | Effects Database: https://www.effectsdatabase.com/model/coron/first/overdrive

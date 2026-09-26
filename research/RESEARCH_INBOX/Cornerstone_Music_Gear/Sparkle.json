@@ -9,15 +9,17 @@
       "title": "Cornerstone Sparkle - Dynamic Overdrive | Effects Database",
       "h1": "Cornerstone Sparkle - Dynamic Overdrive",
       "excerpt": "Exact-model page identifies Sparkle as a touch-sensitive overdrive designed to closely follow playing dynamics and lists Volume, Gain, Bass and Treble controls.",
-      "host": "www.effectsdatabase.com"
+      "host": "www.effectsdatabase.com",
+      "source_kind": "effects_database"
     },
     {
       "url": "https://reverb.com/item/6908850-cornerstone-sparkle-dynamic-overdrive",
       "title": "Cornerstone Sparkle Dynamic Overdrive",
       "h1": "Cornerstone Sparkle Dynamic Overdrive",
       "excerpt": "Exact-model Reverb listing corroborates the Sparkle identity, control set, and 9V/18V internal voltage option.",
-      "host": "reverb.com"
+      "host": "reverb.com",
+      "source_kind": "reverb"
     }
   ],
-  "next_action": "Write the canonical research record; emphasize the touch-sensitive design goal and sourced controls/power option, without adding unsupported circuit component claims."
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
 }
