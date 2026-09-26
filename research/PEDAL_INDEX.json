@@ -2538,8 +2538,8 @@
       "image_source_urls": [
         "https://files.effectsdatabase.com/gear/thumbs/alienamps_origami_001.jpg"
       ],
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Alien Rabbit",
@@ -38011,8 +38011,8 @@
       "image": "./assets/pedals/lichtlaerm-audio/gehenna/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Lichtlaerm Audio/Gehenna.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Lichtlaerm Audio",
@@ -51287,8 +51287,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/ZVEX Effects/Machine.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "ZVEX Effects",

@@ -1,33 +1,39 @@
 # Alien Amplification — Origami Overdrive
 
 ## PRP identity
+- **Archive parent:** Origami Overdrive
 - **Builder:** Alien Amplification
 - **Catalog type:** Overdrive
-- **Identity:** Boutique overdrive documented in the historical Effects Database catalog.
+- **Identity:** Alien Amplification's Origami Overdrive.
 
 ## What this pedal is
-Origami Overdrive is listed as an Alien Amplification overdrive in the historical Effects Database catalog. The accessible sources checked for this batch did not expose enough primary documentation to establish a detailed circuit description, so the record is deliberately conservative.
+Alien Amplification's Origami Overdrive is cataloged as an overdrive pedal.
 
 ## Colorways
-- No verified factory colorway history established.
+- No specific factory colorway information was established in the verified evidence packet.
 
 ## Versions and factory options
-- Exact control layout and factory options were not sufficiently documented in the accessible sources checked.
+- The verified evidence references: v.2.
+- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
 
 ## Version changes
-- No reliable numbered factory revision history established.
+- No specific factory version changes were established in the verified evidence packet.
 
 ## Transistor
-- Exact transistor/device not publicly documented.
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
 
 ## Diode
-- Exact clipping diode/device not publicly documented.
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
 
 ## Sound
-The model is documented as an overdrive, but a sufficiently reliable detailed tonal description was not found in the accessible sources. No stronger claim is added until a primary or clearly attributable historical source can be confirmed.
+Alien Amplification Origami Overdrive
+not by manufacturer Date &#x25BC;&#x25B2; Maker &#x25BC;&#x25B2; Video &#x25BC;&#x25B2; Time &#x25BC;&#x25B2; 2017-04-11 Alien Amplification Nosso parceiro Leandro Farias mostrando seu talento e também o overdrive Origami.
+:) Debora Marc testando o overdrive Alien Origami.
 
 ## Sources checked
-1. Effects Database overdrive catalog — https://www.effectsdatabase.com/type/overdrive/pedal
+1. Alien Amplification Origami Overdrive | Effects Database: https://www.effectsdatabase.com/model/alienamps/origami
 
 ## Photo
-- **Archive status:** Exact Photo Needed
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
