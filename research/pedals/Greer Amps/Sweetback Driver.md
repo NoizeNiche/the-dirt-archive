@@ -1,23 +1,38 @@
 # Greer Amps — Sweetback Driver
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Sweetback Driver
 - **Builder:** Greer Amps
-- **Pedal:** Sweetback Driver
 - **Catalog type:** Distortion
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Greer Amps's Sweetback Driver.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Sweetback Driver** by **Greer Amps** as a **Distortion** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Greer Amps browse by type volume/amplification amplification preamp / clean boost browse by type distortion/fuzz/overdrive distortion browse by enclosure pedal Greer Amps Sweetback Driver Published on October 9, 2005 Greer Amps boost / preamp distortion pedal Information Nick Greer Amplification The Sonic Boom's angry brother!
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Documented terms in the verified sources: LED.
+- The archive records only the component information explicitly present in these sources.
+
+## Sound
+Effect types &#9660; boost distortion fuzz overdrive acoustic simulation amp simulation speaker/cabinet simulation chorus flanger phaser tremolo vibe vibrato other modulation pitch shifter octaver delay reverb looper/sampler hold/freeze eq filter wah fuzz-wah bitcrusher ring modulator samplerate reducer wavefolder synth effect granular effect multi effect vocal effect talkbox vocoder buffer compressor other...
+Greer Amps browse by type volume/amplification amplification preamp / clean boost browse by type distortion/fuzz/overdrive distortion browse by enclosure pedal Greer Amps Sweetback Driver Published on October 9, 2005 Greer Amps boost / preamp distortion pedal Information Nick Greer Amplification The Sonic Boom's angry brother!
+If you want more 'Mean' to your boost, this is the one!
+
+## Sources checked
+1. Greer Amps Sweetback Driver | Effects Database: https://www.effectsdatabase.com/model/greer/sweetbackdriver
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
