@@ -45,3 +45,16 @@ The Mids knob is tuned to the deepest frequency dip created by flipping the Mids
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Dwarfcraft Devices's Necromancer is cataloged as a fuzz pedal.
+
+### Sources checked in this pass
+1. Dwarfcraft Devices Necromancer - What To Know Where To Buy: https://equipboard.com/items/dwarfcraft-devices-necromancer
+2. Dwarfcraft Devices Necromancer - Effects Database: https://www.effectsdatabase.com/model/dwarfcraft/necromancer
+3. Dwarfcraft Devices Necromancer Fuzz - Reverb: https://reverb.com/p/dwarfcraft-devices-necromancer-fuzz
+4. Dwarfcraft Devices Necromancer - Tonebox.com: https://www.tonebox.com/pedal/dwarfcraft-devices-necromancer

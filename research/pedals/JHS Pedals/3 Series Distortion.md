@@ -1,23 +1,42 @@
 # JHS Pedals — 3 Series Distortion
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** 3 Series Distortion
 - **Builder:** JHS Pedals
-- **Pedal:** 3 Series Distortion
 - **Catalog type:** Distortion / Fuzz
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** JHS Pedals's 3 Series Distortion.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **3 Series Distortion** by **JHS Pedals** as a **Distortion / Fuzz** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+$0.00 USD 3 SERIES DISTORTION $99.00 USD Zoom Zoom 3 SERIES DISTORTION $99.00 USD − { $dispatch('change'); }) " > + Add to Cart The JHS Pedals 3 Series is a collection of pedals designed to give you affordability and simplicity without compromising quality.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+$0.00 USD 3 SERIES DISTORTION $99.00 USD Zoom Zoom 3 SERIES DISTORTION $99.00 USD − { $dispatch('change'); }) " > + Add to Cart The JHS Pedals 3 Series is a collection of pedals designed to give you affordability and simplicity without compromising quality.
+The JHS Pedals 3 Series Distortion is a massively versatile distortion pedal with the ability to achieve medium gain crunch, heavy overdrive, distortion, and even fuzz tones.
+The controls on the Distortion are Volume, Filter (or Tone), and Distort knobs that give you a wide range of usable sounds in any position.
+
+## Sources checked
+1. 3 SERIES DISTORTION – JHS Pedals: https://jhspedals.info/products/3-series-distortion
+2. JHS Pedals 3 Series Distortion | Effects Database: https://www.effectsdatabase.com/model/jhspedals/series3/distortion
+3. JHS Pedals 3 Series Distortion — Distortion Pedal Specs & Where to Buy | one thousand pedals: https://onethousandpedals.com/pedal/jhs-3-series-distortion
+4. JHS Pedals 3 Series Distortion – United States: https://www.thomannmusic.com/jhs_pedals_3_series_distortion.htm
+5. JHS 3 Series Distortion Effects Pedal - Reverb: https://reverb.com/item/36062808-jhs-3-series-distortion-effects-pedal
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

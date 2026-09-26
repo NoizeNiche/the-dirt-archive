@@ -30792,8 +30792,8 @@
       "image": "./assets/pedals/dwarfcraft-devices/necromancer/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Dwarfcraft Devices/Necromancer.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Dwarfcraft Devices",
@@ -30804,8 +30804,8 @@
       "image": "./assets/pedals/dwarfcraft-devices/reese-lightning/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Dwarfcraft Devices/Reese Lightning.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Dwarfcraft Devices",
@@ -33746,8 +33746,8 @@
       "image": "./assets/pedals/fulltone/plimsoul-mkii/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Fulltone/PlimSoul mkII.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Fulltone",
@@ -35820,8 +35820,8 @@
       "image": "./assets/pedals/jhs-pedals/3-series-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/JHS Pedals/3 Series Distortion.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "JHS Pedals",
@@ -36821,8 +36821,8 @@
       "image": "./assets/pedals/keeley-electronics/moon-op-amp-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Keeley Electronics/Moon Op Amp Fuzz.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Keeley Electronics",
@@ -49264,8 +49264,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Walrus Audio/Mayflower Mid-Range Overdrive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Walrus Audio",

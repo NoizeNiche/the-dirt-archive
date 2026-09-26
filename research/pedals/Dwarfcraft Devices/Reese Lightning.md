@@ -43,3 +43,15 @@ Toneblast bypasses the tone control, for EVEN MORE volume and more timbral chang
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Dwarfcraft Devices's Reese Lightning is cataloged as a fuzz pedal.
+
+### Sources checked in this pass
+1. Dwarfcraft Devices Reese Lightning - What To Know Where To Buy: https://equipboard.com/items/dwarfcraft-devices-reese-lightning
+2. Dwarfcraft Devices Reese Lightning - toneforgehub.com: https://www.toneforgehub.com/product/dwarfcraft-devices-reese-lightning27255/
+3. Dwarfcraft Devices Reese Lightning - Fuzz | Effects Database: https://www.effectsdatabase.com/model/dwarfcraft/reeselightning

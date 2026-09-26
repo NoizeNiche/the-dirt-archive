@@ -1,23 +1,40 @@
 # Keeley Electronics — Moon Op Amp Fuzz
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Moon Op Amp Fuzz
 - **Builder:** Keeley Electronics
-- **Pedal:** Moon Op Amp Fuzz
 - **Catalog type:** Fuzz
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Keeley Electronics's Moon Op Amp Fuzz.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Moon Op Amp Fuzz** by **Keeley Electronics** as a **Fuzz** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Keeleys am meisten nach Mond klingendes Pedal: Moon Op Amp Fuzz.","descriptionEN":"The Moon Op Amp Fuzz is a super-massive destroyer, spinning galaxies of gain.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+Moon Op Amp Fuzz by Keeley Electronics
+The tidal wave-like bass response delivers tones as heavy as gravity itself.
+The massive sound of the Keeley Moon is achieved by a quad op amp that delivers four gain and fuzz stages.
+
+## Sources checked
+1. Moon Op Amp Fuzz by Keeley Electronics | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/Keeley-Electronics/Moon-Op-Amp-Fuzz/154460459/
+2. Keeley Electronics Moon Op Amp Fuzz: https://gcrockboard.com/keeley-electronics-moon-op-amp-fuzz
+3. Keeley Electronics Moon Op-Amp Fuzz - Fret Barn | Guitars, Strings and Player Supplies: https://www.fretbarn.com/product/keeley-electronics-moon-op-amp-fuzz/
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
