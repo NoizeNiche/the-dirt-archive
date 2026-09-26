@@ -1,23 +1,38 @@
 # Jackson Audio — Belle Starr Overdrive
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Belle Starr Overdrive
 - **Builder:** Jackson Audio
-- **Pedal:** Belle Starr Overdrive
 - **Catalog type:** Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Jackson Audio's Belle Starr Overdrive.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Belle Starr Overdrive** by **Jackson Audio** as a **Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Jackson Audio's Belle Starr Overdrive is cataloged as an overdrive pedal.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+The verified evidence packet did not contain enough pedal-specific sonic description to make a more detailed sound summary without adding unsupported interpretation.
+
+## Sources checked
+1. Belle Starr Overdrive &ndash; Jackson Audio: https://jackson.audio/products/bellestarr
+2. Jackson Audio Belle Starr Overdrive Pedal - Stainless Steel: https://www.sweetwater.com/store/detail/BelleStarrStl--jackson-audio-belle-starr-overdrive-pedal-stainless-steel
+3. Jackson Audio Belle Starr Overdrive w/ box | Reverb: https://reverb.com/item/94431253-jackson-audio-belle-starr-overdrive-w-box
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

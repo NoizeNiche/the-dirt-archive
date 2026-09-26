@@ -1743,8 +1743,8 @@
       "image_source_page_verified": true,
       "image_source_priority": 328,
       "image_source_url": "https://i5.walmartimages.com/asr/591f5718-ab0d-4a6f-aba4-2234ee8c840e.ce86a42c319054b03ec3add5f7f7e7a7.jpeg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "AGR Pedals",
@@ -1763,8 +1763,8 @@
       "image_source_page_verified": true,
       "image_source_priority": 329,
       "image_source_url": "https://www.guitarfxdirect.com/wp-content/uploads/2025/12/Fuzz-pedals-buying-feature-image.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "AGR Pedals",
@@ -1783,8 +1783,8 @@
       "image_source_page_verified": true,
       "image_source_priority": 336,
       "image_source_url": "https://files.effectsdatabase.com/gear/pics/agrpedals_od85_001.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Aguilar",
@@ -35489,8 +35489,8 @@
       "image": "./assets/pedals/jackson-audio/belle-starr-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Jackson Audio/Belle Starr Overdrive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Jackson Audio",
