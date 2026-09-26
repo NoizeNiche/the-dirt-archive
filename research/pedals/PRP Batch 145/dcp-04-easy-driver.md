@@ -15,3 +15,18 @@
   - https://www.effectsdatabase.com/model/caline/dcp/dcp04
   - https://onethousandpedals.com/pedal/caline-dcp-04-easy-driver
   - https://www.bestbuy.ca/en-ca/product/caline-dcp-04-easydriver-distortion-eq-guitar-effect-pedal/15761142
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Caline's DCP-04 Easy Driver is cataloged as a distortion pedal.
+
+### Verified sound evidence
+Caline DCP-04 Easy Driver - Distortion/EQ
+The right side is our Mark 4 classic Cali style distortion.
+Adjust both gains for high or low gain tone, then on the left with the EQ, scoop or push your tone and shape it to your liking.
+
+### Sources checked in this pass
+1. Caline DCP-04 Easy Driver - Distortion/EQ | Effects Database: https://www.effectsdatabase.com/model/caline/dcp/dcp04

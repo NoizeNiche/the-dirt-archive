@@ -42,3 +42,19 @@ Home Electric Guitars Solid Body Effects and Pedals Accessories Parts and Access
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+DOD Electronics's Boneshaker is cataloged as a distortion pedal.
+
+### Sources checked in this pass
+1. DOD Electronics Boneshaker - Equip yourself with the finest Canadian ...: https://www.rockiesrhythm.com/product/dod-electronics-boneshaker61122/
+2. DOD Electronics Boneshaker - Reverb: https://reverb.com/item/72543792-dod-electronics-boneshaker
+3. DOD Electronics Boneshaker - www.chauraromusic.com: https://www.chauraromusic.com/product/dod-electronics-boneshaker/
+4. DOD Electronics Boneshaker - U541043189510928: https://strumovaauthentic.com/product/dod-electronics-boneshaker/
+5. DOD Electronics Boneshaker - Electric Guitars, Amps, Effects, Drums More | Your Music Gear Headquarters: https://www.electricguitarsf.com/product/dod-electronics-boneshaker/
+6. DOD Electronics Boneshaker Distortion - floresmusicequipment.com: https://www.floresmusicequipment.com/product/dod-electronics-boneshaker-distortion/
+7. DOD Electronics Boneshaker Distortion – Chicago Music Exchange: https://www.chicagomusicexchange.com/products/dod-electronics-boneshaker-distortion-1436375

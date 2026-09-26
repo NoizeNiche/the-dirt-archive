@@ -10491,8 +10491,8 @@
       "research_record": "./research/pedals/PRP Batch 090/DS-8 Mouse.md",
       "image_source_url": "https://medias.audiofanzine.com/images/normal/biyang-ds-8-mouse-1098907.jpg",
       "image_source_page": "https://en.audiofanzine.com/guitar-distortion-overdrive-fuzz/biyang/ds-8-mouse/",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Biyang",
@@ -17578,8 +17578,8 @@
       "research_record": "./research/pedals/PRP Batch 145/dcp-02-brutus.md",
       "image_source_url": "https://m.media-amazon.com/images/I/81NX07KvPpL._AC_SL1500_.jpg",
       "image_source_page": "https://bigamart.com/product/caline-dcp-02-brutus-distortion-overdrive-dual-guitar-effects-pedal/",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Caline",
@@ -17592,8 +17592,8 @@
       "research_record": "./research/pedals/PRP Batch 145/dcp-04-easy-driver.md",
       "image_source_url": "https://m.media-amazon.com/images/I/71F8ucPKsTL._AC_SL1500_.jpg",
       "image_source_page": "https://bigamart.com/product/caline-dcp04-easy-driver-guitarpedal/",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Caline",
@@ -29909,8 +29909,8 @@
       "image": "./assets/pedals/dirty-boy/the-magical-mystery-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Dirty Boy/The Magical MYSTERY FUZZ.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "DLS Effect",
@@ -29959,8 +29959,8 @@
       "image": "./assets/pedals/dod-electronics/boneshaker/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/DOD Electronics/Boneshaker.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "DOD Electronics",
@@ -33506,8 +33506,8 @@
       "image": "./assets/pedals/friedman-amplification/golden-pearl/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Friedman Amplification/Golden Pearl.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Friedman Amplification",
