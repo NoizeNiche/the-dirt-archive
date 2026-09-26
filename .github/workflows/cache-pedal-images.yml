@@ -81,7 +81,7 @@ jobs:
         env:
           # Larger bounded passes reduce runner overhead while preserving visible,
           # resumable progress in Git history.
-          PHOTO_BROWSER_CACHE_LIMIT: "240"
+          PHOTO_BROWSER_CACHE_LIMIT: "120"
           PHOTO_BROWSER_CACHE_CONCURRENCY: "16"
           PHOTO_BROWSER_PAGE_TIMEOUT_MS: "9000"
           PHOTO_BROWSER_SEARCH_TIMEOUT_MS: "6000"
@@ -94,10 +94,10 @@ jobs:
           # The old 60-second cap was the primary throughput bottleneck. Give each
           # scheduled runner a substantial browser window while leaving time for
           # image conversion, synchronization, and the commit/push phase.
-          PHOTO_BROWSER_RECOVERY_DEADLINE_MS: "120000"
+          PHOTO_BROWSER_RECOVERY_DEADLINE_MS: "75000"
           # Fresh unresolved records get a shorter bounded window; deep-review
           # hard cases retain the full recovery window above.
-          PHOTO_BROWSER_FRESH_RECOVERY_DEADLINE_MS: "60000"
+          PHOTO_BROWSER_FRESH_RECOVERY_DEADLINE_MS: "45000"
           # Deep-review cases have already exhausted the ordinary search loop.
           # Stop reopening the same dead-end set indefinitely; unresolved cases
           # stay parked for a deliberate exact-source/manual pass.
