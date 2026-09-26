@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-26T21:35:34.119092+00:00",
+  "generated_at": "2026-09-26T21:37:13.461205+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,25 +10,18 @@
     "pictured": 2953,
     "complete": 2953,
     "research_pending": 0,
-    "deep_research_pending": 2278,
-    "deep_researched": 1483,
+    "deep_research_pending": 2277,
+    "deep_researched": 1484,
     "surface_ready": 3761
   },
   "next_target": {
     "builder": "Anasounds",
-    "pedal": "high voltage",
+    "pedal": "sandman",
     "catalog_type": "",
-    "research_record": "./research/pedals/Anasounds/high voltage.md",
+    "research_record": "./research/pedals/Anasounds/sandman.md",
     "research_level": "surface"
   },
   "working_set": [
-    {
-      "builder": "Anasounds",
-      "pedal": "high voltage",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Anasounds/high voltage.md",
-      "research_level": "surface"
-    },
     {
       "builder": "Anasounds",
       "pedal": "sandman",
@@ -195,6 +188,13 @@
       "pedal": "BUZZAROUND OC45 / OC45 / OC43",
       "catalog_type": "",
       "research_record": "./research/pedals/PRP Batch 058/BUZZAROUND OC45 - OC45 - OC43.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Arcane Analog",
+      "pedal": "Facebender / Rangbender",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 058/Facebender - Rangbender.md",
       "research_level": "surface"
     }
   ]
