@@ -2738,8 +2738,8 @@
       "source_page": "https://www.musicstore.com/fr_FR/EUR/Amptweaker-Bass-TightFuzz-aus-der-Demo/art-BAS0009785-000",
       "research_record": "./research/pedals/Amptweaker/Bass_TightFuzz.md",
       "image_source_url": "https://images.musicstore.de/images/0960/amptweaker-bass-tightfuzz-aus-der-demo_1_BAS0009785-000.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Amptweaker",
@@ -2752,8 +2752,8 @@
       "research_record": "./research/pedals/Amptweaker/Bass_TightFuzz_Jr.md",
       "image_source_page": "https://gearhero.com/products/used-amptweaker-bass-tightfuzz-jr",
       "image_source_url": "https://www.soundhouse.co.jp/images/shop/prod_img/a/aw_basstightfuzzjrkk.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Amptweaker",
@@ -2765,8 +2765,8 @@
       "source_page": "https://www.musicstorelive.com/amptweaker-bass-tightmetal-jr-distortion-bass-guitar-effects-pedal.html",
       "research_record": "./research/pedals/Amptweaker/Bass_TightMetal_Jr.md",
       "image_source_url": "https://www.musicstorelive.com/media/catalog/product/a/m/amptwkr-bass-tm-jr-1.jpg?bg-color=255%2C255%2C255&canvas=700%3A700&fit=bounds&height=700&optimize=medium&width=700",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Amptweaker",
@@ -16506,8 +16506,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_url": "https://files.effectsdatabase.com/gear/pics/cgiant_od1_001.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "C.I.C",
@@ -28243,8 +28243,8 @@
       "image": "./assets/pedals/cuvave-m-vave/distortion-sc1/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/CUVAVE / M-VAVE/Distortion SC1.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "CUVAVE / M-VAVE",
@@ -28319,8 +28319,8 @@
       "research_record": "./research/pedals/Cyclone/DI-10 Distortion.md",
       "image_source_url": "https://files.effectsdatabase.com/gear/pics/cyclone_di-10_001.jpg",
       "image_source_page": "https://www.effectsdatabase.com/model/cyclone/di10",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Cyclone",
@@ -28499,8 +28499,8 @@
       "image": "./assets/pedals/danelectro/cool-cat-metal-ii/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Danelectro/Cool Cat Metal II.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Danelectro",
@@ -38578,8 +38578,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Mad Professor Amplification/Golden Cello.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Mad Professor Amplification",

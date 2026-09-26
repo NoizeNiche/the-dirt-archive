@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-26T07:28:35.627314+00:00",
+  "generated_at": "2026-09-26T07:31:35.172192+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,39 +10,18 @@
     "pictured": 2681,
     "complete": 2681,
     "research_pending": 0,
-    "deep_research_pending": 3288,
-    "deep_researched": 473,
+    "deep_research_pending": 3280,
+    "deep_researched": 481,
     "surface_ready": 3761
   },
   "next_target": {
     "builder": "Amptweaker",
-    "pedal": "Bass TightFuzz",
+    "pedal": "Bass TightRock Jr",
     "catalog_type": "",
-    "research_record": "./research/pedals/Amptweaker/Bass_TightFuzz.md",
+    "research_record": "./research/pedals/Amptweaker/Bass_TightRock_Jr.md",
     "research_level": "surface"
   },
   "working_set": [
-    {
-      "builder": "Amptweaker",
-      "pedal": "Bass TightFuzz",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Amptweaker/Bass_TightFuzz.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Amptweaker",
-      "pedal": "Bass TightFuzz Jr",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Amptweaker/Bass_TightFuzz_Jr.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Amptweaker",
-      "pedal": "Bass TightMetal Jr",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Amptweaker/Bass_TightMetal_Jr.md",
-      "research_level": "surface"
-    },
     {
       "builder": "Amptweaker",
       "pedal": "Bass TightRock Jr",
@@ -195,6 +174,27 @@
       "pedal": "TightFuzz Pro",
       "catalog_type": "",
       "research_record": "./research/pedals/Amptweaker/TightFuzz_Pro.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Amsterdam Cream",
+      "pedal": "Big Eye Fuzz",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 049/Big Eye Fuzz.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Amsterdam Cream",
+      "pedal": "Original Distortion",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 049/Original Distortion.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Amsterdam Cream",
+      "pedal": "Plain Drive",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 049/Plain Drive.md",
       "research_level": "surface"
     }
   ]

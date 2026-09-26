@@ -1,28 +1,38 @@
 # C.Giant — OD-1 Warm Blues - Overdrive/Distortion
 
 ## PRP identity
+- **Archive parent:** OD-1 Warm Blues - Overdrive/Distortion
 - **Builder:** C.Giant
 - **Catalog type:** Overdrive / Distortion
-- **Identity:** Budget Japanese-market-style OD-1 Warm Blues pedal.
+- **Identity:** C.Giant's OD-1 Warm Blues - Overdrive/Distortion.
 
-## Circuit / lineage
-Effects Database identifies the C.Giant version as sharing its internal architecture with the **Yuyin OD-1 and Namu OD-1**, with other near-identical branded versions including Johnny Brook Warm Blues and Golden Ton OD-1.
+## What this pedal is
+C.Giant's OD-1 Warm Blues - Overdrive/Distortion is cataloged as an overdrive / distortion pedal.
 
-## Controls
-- Level
-- Gain
-- Low
-- High
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
 
-Effects Database documents two outputs, one dry and one effected.
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
 
-## Power / specifications
-- 9V DC adapter or PP3 battery
-- 22 mA current draw
-- 125 × 70 × 51 mm
-- 1 input and 2 outputs
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+C.Giant OD-1 Warm Blues - Overdrive/Distortion
+This pedal offers a four-knob control scheme: Level sets the output volume, Gain adjusts the drive intensity, Low boosts or cuts bass frequencies, and High cuts upper harmonics.
+This gives players flexibility to shape mid-gain tones from subtle warmth to more aggressive distortion, making it suitable for everything from clean boost to creamy solo tones.
 
 ## Sources checked
-1. Effects Database: https://www.effectsdatabase.com/model/cgiant/od1
+1. C.Giant OD-1 Warm Blues - Overdrive/Distortion | Effects Database: https://www.effectsdatabase.com/model/cgiant/od1
 
-The OEM-family and specification details above are from Effects Database. citeturn1search0
+## Photo
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

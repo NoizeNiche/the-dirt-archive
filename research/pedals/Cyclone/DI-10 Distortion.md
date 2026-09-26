@@ -7,7 +7,7 @@
 - **Identity:** Cyclone's DI-10 Distortion.
 
 ## What this pedal is
-Cyclone browse by type distortion/fuzz/overdrive distortion browse by enclosure pedal Cyclone DI-10 Distortion Published on January 19, 2005 Cyclone distortion pedal Reviews myFXDB user reviews No reviews yet + Add your review Related Cutec DS-01 Distortion Gig DS-01 Distortion Loco Box DS-01 Distortion Redson Distortion 12 Studio Series DS-01 Distortion Washburn A-D2 Distortion Digiplay DI-10 Distortion (identical, except for the switch) Panther DI-10 Distortion (identical, except for the switch) Stinger DI-10 Distortion (identical, except for the switch) Cyclone DI-10 Distortion Epiphone EP-DI-10 Distortion Shot DI-10 Distortion Where to find one?
+Cyclone's DI-10 Distortion is cataloged as a distortion pedal.
 
 ## Colorways
 - No specific factory colorway information was established in the verified evidence packet.
@@ -27,9 +27,7 @@ Cyclone browse by type distortion/fuzz/overdrive distortion browse by enclosure 
 - **Exact part:** Unknown.
 
 ## Sound
-Cyclone DI-10 Distortion | Effects Database Skip to navigation Brands &#9660; 0-9...
-Effect types &#9660; boost distortion fuzz overdrive acoustic simulation amp simulation speaker/cabinet simulation chorus flanger phaser tremolo vibe vibrato other modulation pitch shifter octaver delay reverb looper/sampler hold/freeze eq filter wah fuzz-wah bitcrusher ring modulator samplerate reducer wavefolder synth effect granular effect multi effect vocal effect talkbox vocoder buffer compressor other...
-Cyclone browse by type distortion/fuzz/overdrive distortion browse by enclosure pedal Cyclone DI-10 Distortion Published on January 19, 2005 Cyclone distortion pedal Reviews myFXDB user reviews No reviews yet + Add your review Related Cutec DS-01 Distortion Gig DS-01 Distortion Loco Box DS-01 Distortion Redson Distortion 12 Studio Series DS-01 Distortion Washburn A-D2 Distortion Digiplay DI-10 Distortion (identical, except for the switch) Panther DI-10 Distortion (identical, except for the switch) Stinger DI-10 Distortion (identical, except for the switch) Cyclone DI-10 Distortion Epiphone EP-DI-10 Distortion Shot DI-10 Distortion Where to find one?
+The verified evidence packet did not contain enough pedal-specific sonic description to make a more detailed sound summary without adding unsupported interpretation.
 
 ## Sources checked
 1. Cyclone DI-10 Distortion | Effects Database: https://www.effectsdatabase.com/model/cyclone/di10
