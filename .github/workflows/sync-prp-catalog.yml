@@ -81,6 +81,7 @@ jobs:
             echo "Generated-state push race; rebuilding from newest main (attempt $attempt/5)."
             git fetch origin main
             git reset --hard origin/main
+            python scripts/generate-surface-records.py
             python scripts/sync_prp_catalog.py
             python scripts/sync-prp-tracker.py
             python scripts/build-research-queue.py
