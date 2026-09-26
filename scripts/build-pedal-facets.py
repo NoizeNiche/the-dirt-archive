@@ -114,7 +114,7 @@ def build() -> dict:
 
     records: dict[str, dict[str, list[str]]] = {}
     tracked = subprocess.run(
-        ["git", "ls-files", "--", "research/pedals/**/*.md"],
+        ["git", "ls-tree", "-r", "--name-only", "HEAD", "--", "research/pedals"],
         cwd=ROOT,
         capture_output=True,
         text=True,
