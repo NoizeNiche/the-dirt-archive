@@ -27611,7 +27611,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/crown/fuzz-and-treble-booster/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Crown/Fuzz and Treble Booster.md",
       "image_source_page": "https://www.effectsdatabase.com/model/crown/fuzztreblebooster",
@@ -30381,7 +30381,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/dod-electronics/supra-distortion-fx55c/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/DOD Electronics/Supra Distortion (FX55C).md",
       "research_level": "surface",
@@ -31335,7 +31335,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/earthquaker-devices/hoof/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/EarthQuaker Devices/Hoof.md",
       "research_level": "surface",
@@ -31347,7 +31347,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/earthquaker-devices/hoof-hybrid-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/EarthQuaker Devices/Hoof — Hybrid Fuzz.md",
       "research_level": "surface",
@@ -31373,7 +31373,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/earthquaker-devices/hoof-reaper-double-fuzz-with-octave-up/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/EarthQuaker Devices/Hoof Reaper — Double Fuzz with Octave Up.md",
       "research_level": "surface",
@@ -32222,7 +32222,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/electro-harmonix/nano-battalion-bass-preamp-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Electro-Harmonix/Nano Battalion Bass Preamp & Overdrive.md",
       "research_level": "surface",
@@ -34085,7 +34085,7 @@
         "Distortion",
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/greer-amps/razor-burn/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Greer Amps/Razor Burn.md",
       "research_level": "deep",
@@ -36279,7 +36279,7 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/jhs-pedals/the-violet-violet/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/JHS Pedals/The Violet / Violet.md",
       "research_level": "surface",
@@ -36293,7 +36293,7 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/jhs-pedals/violet/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/JHS Pedals/Violet.md",
       "research_level": "surface",
@@ -36831,7 +36831,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/keeley-electronics/noble-screamer-overdrive-and-boost/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Keeley Electronics/Noble Screamer Overdrive and Boost.md",
       "research_level": "surface",
@@ -37434,7 +37434,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/khdk-electronics/scuzz-box/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/KHDK Electronics/Scuzz Box.md",
       "research_level": "surface",
@@ -37446,7 +37446,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/khdk-electronics/scuzz-box-germanium-voiced-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/KHDK Electronics/Scuzz Box — germanium-voiced fuzz.md",
       "research_level": "surface",
@@ -37459,7 +37459,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/khdk-electronics/shred-ii/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/KHDK Electronics/Shred II.md",
       "research_level": "surface",
@@ -37472,7 +37472,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/khdk-electronics/shred-ii-high-gain-dirt-product/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/KHDK Electronics/Shred II — high-gain dirt product.md",
       "research_level": "surface",
@@ -37485,7 +37485,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/khdk-electronics/totality/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/KHDK Electronics/Totality.md",
       "research_level": "surface",
@@ -37970,7 +37970,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/leqtique/rochechouart/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Leqtique/Rochechouart.md",
       "research_level": "deep",
@@ -37982,7 +37982,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/leqtique/roger/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Leqtique/Roger.md",
       "research_level": "deep",
@@ -37994,7 +37994,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/leqtique/roger-evr/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Leqtique/Roger EVR.md",
       "research_level": "deep",
@@ -38078,7 +38078,7 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/lichtlaerm-audio/ragnar-k-apocalyptic-tube-distortion-preamp/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Lichtlaerm Audio/Ragnarøk — apocalyptic tube distortion / preamp.md",
       "research_level": "surface",
@@ -38345,7 +38345,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/lovepedal/dover-drive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Lovepedal/Dover Drive.md",
       "research_level": "surface",
@@ -38357,7 +38357,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/lovepedal/eternity/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Lovepedal/Eternity.md",
       "research_level": "surface",
@@ -38369,7 +38369,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/lovepedal/eternity-burst/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Lovepedal/Eternity Burst.md",
       "research_level": "surface",
@@ -38527,7 +38527,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/mad-professor-amplification/big-tweedy-drive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mad Professor Amplification/Big Tweedy Drive.md",
       "research_level": "deep",
@@ -38539,7 +38539,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/mad-professor-amplification/blueberry-bass-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mad Professor Amplification/Blueberry Bass Overdrive.md",
       "research_level": "surface",
@@ -38551,7 +38551,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/mad-professor-amplification/bluebird-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mad Professor Amplification/Bluebird Overdrive.md",
       "research_level": "deep",

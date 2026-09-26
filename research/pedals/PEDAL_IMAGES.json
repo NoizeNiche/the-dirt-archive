@@ -13432,7 +13432,7 @@
   {
     "builder": "Crown",
     "pedal": "Fuzz and Treble Booster",
-    "image": null,
+    "image": "./assets/pedals/crown/fuzz-and-treble-booster/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Crown/Fuzz and Treble Booster.md"
   },
@@ -14972,7 +14972,7 @@
   {
     "builder": "DOD Electronics",
     "pedal": "Supra Distortion (FX55C)",
-    "image": null,
+    "image": "./assets/pedals/dod-electronics/supra-distortion-fx55c/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/DOD Electronics/Supra Distortion (FX55C).md"
   },
@@ -15511,14 +15511,14 @@
   {
     "builder": "EarthQuaker Devices",
     "pedal": "Hoof",
-    "image": null,
+    "image": "./assets/pedals/earthquaker-devices/hoof/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/EarthQuaker Devices/Hoof.md"
   },
   {
     "builder": "EarthQuaker Devices",
     "pedal": "Hoof — Hybrid Fuzz",
-    "image": null,
+    "image": "./assets/pedals/earthquaker-devices/hoof-hybrid-fuzz/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/EarthQuaker Devices/Hoof — Hybrid Fuzz.md"
   },
@@ -15532,7 +15532,7 @@
   {
     "builder": "EarthQuaker Devices",
     "pedal": "Hoof Reaper — Double Fuzz with Octave Up",
-    "image": null,
+    "image": "./assets/pedals/earthquaker-devices/hoof-reaper-double-fuzz-with-octave-up/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/EarthQuaker Devices/Hoof Reaper — Double Fuzz with Octave Up.md"
   },
@@ -16015,7 +16015,7 @@
   {
     "builder": "Electro-Harmonix",
     "pedal": "Nano Battalion Bass Preamp & Overdrive",
-    "image": null,
+    "image": "./assets/pedals/electro-harmonix/nano-battalion-bass-preamp-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Electro-Harmonix/Nano Battalion Bass Preamp & Overdrive.md"
   },
@@ -17072,7 +17072,7 @@
   {
     "builder": "Greer Amps",
     "pedal": "Razor Burn",
-    "image": null,
+    "image": "./assets/pedals/greer-amps/razor-burn/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Greer Amps/Razor Burn.md"
   },
@@ -18318,14 +18318,14 @@
   {
     "builder": "JHS Pedals",
     "pedal": "The Violet / Violet",
-    "image": null,
+    "image": "./assets/pedals/jhs-pedals/the-violet-violet/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/JHS Pedals/The Violet / Violet.md"
   },
   {
     "builder": "JHS Pedals",
     "pedal": "Violet",
-    "image": null,
+    "image": "./assets/pedals/jhs-pedals/violet/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/JHS Pedals/Violet.md"
   },
@@ -18633,7 +18633,7 @@
   {
     "builder": "Keeley Electronics",
     "pedal": "Noble Screamer Overdrive and Boost",
-    "image": null,
+    "image": "./assets/pedals/keeley-electronics/noble-screamer-overdrive-and-boost/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Keeley Electronics/Noble Screamer Overdrive and Boost.md"
   },
@@ -18962,35 +18962,35 @@
   {
     "builder": "KHDK Electronics",
     "pedal": "Scuzz Box",
-    "image": null,
+    "image": "./assets/pedals/khdk-electronics/scuzz-box/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/KHDK Electronics/Scuzz Box.md"
   },
   {
     "builder": "KHDK Electronics",
     "pedal": "Scuzz Box — germanium-voiced fuzz",
-    "image": null,
+    "image": "./assets/pedals/khdk-electronics/scuzz-box-germanium-voiced-fuzz/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/KHDK Electronics/Scuzz Box — germanium-voiced fuzz.md"
   },
   {
     "builder": "KHDK Electronics",
     "pedal": "Shred II",
-    "image": null,
+    "image": "./assets/pedals/khdk-electronics/shred-ii/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/KHDK Electronics/Shred II.md"
   },
   {
     "builder": "KHDK Electronics",
     "pedal": "Shred II — high-gain dirt product",
-    "image": null,
+    "image": "./assets/pedals/khdk-electronics/shred-ii-high-gain-dirt-product/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/KHDK Electronics/Shred II — high-gain dirt product.md"
   },
   {
     "builder": "KHDK Electronics",
     "pedal": "Totality",
-    "image": null,
+    "image": "./assets/pedals/khdk-electronics/totality/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/KHDK Electronics/Totality.md"
   },
@@ -19270,21 +19270,21 @@
   {
     "builder": "Leqtique",
     "pedal": "Rochechouart",
-    "image": null,
+    "image": "./assets/pedals/leqtique/rochechouart/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Leqtique/Rochechouart.md"
   },
   {
     "builder": "Leqtique",
     "pedal": "Roger",
-    "image": null,
+    "image": "./assets/pedals/leqtique/roger/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Leqtique/Roger.md"
   },
   {
     "builder": "Leqtique",
     "pedal": "Roger EVR",
-    "image": null,
+    "image": "./assets/pedals/leqtique/roger-evr/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Leqtique/Roger EVR.md"
   },
@@ -19326,7 +19326,7 @@
   {
     "builder": "Lichtlaerm Audio",
     "pedal": "Ragnarøk — apocalyptic tube distortion / preamp",
-    "image": null,
+    "image": "./assets/pedals/lichtlaerm-audio/ragnar-k-apocalyptic-tube-distortion-preamp/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Lichtlaerm Audio/Ragnarøk — apocalyptic tube distortion / preamp.md"
   },
@@ -19466,21 +19466,21 @@
   {
     "builder": "Lovepedal",
     "pedal": "Dover Drive",
-    "image": null,
+    "image": "./assets/pedals/lovepedal/dover-drive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Lovepedal/Dover Drive.md"
   },
   {
     "builder": "Lovepedal",
     "pedal": "Eternity",
-    "image": null,
+    "image": "./assets/pedals/lovepedal/eternity/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Lovepedal/Eternity.md"
   },
   {
     "builder": "Lovepedal",
     "pedal": "Eternity Burst",
-    "image": null,
+    "image": "./assets/pedals/lovepedal/eternity-burst/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Lovepedal/Eternity Burst.md"
   },
@@ -19571,21 +19571,21 @@
   {
     "builder": "Mad Professor Amplification",
     "pedal": "Big Tweedy Drive",
-    "image": null,
+    "image": "./assets/pedals/mad-professor-amplification/big-tweedy-drive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Mad Professor Amplification/Big Tweedy Drive.md"
   },
   {
     "builder": "Mad Professor Amplification",
     "pedal": "Blueberry Bass Overdrive",
-    "image": null,
+    "image": "./assets/pedals/mad-professor-amplification/blueberry-bass-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Mad Professor Amplification/Blueberry Bass Overdrive.md"
   },
   {
     "builder": "Mad Professor Amplification",
     "pedal": "Bluebird Overdrive",
-    "image": null,
+    "image": "./assets/pedals/mad-professor-amplification/bluebird-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Mad Professor Amplification/Bluebird Overdrive.md"
   },
