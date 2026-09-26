@@ -44,6 +44,7 @@ jobs:
           ]
           pending=[p for p in pending if p["builder"] and p["pedal"]]
           pending.sort(key=lambda x:(x["builder"].casefold(),x["pedal"].casefold()))
+          canonical_frontier = pending[0] if pending else None
 
           # Derive evidence readiness from the current verified inbox rather
           # than the old snapshot queue. The inbox is rewritten by the foreman
@@ -138,16 +139,15 @@ jobs:
               buckets.setdefault((row["builder"][:1] or "#").upper(),[]).append(row)
 
           targets=[]
-          # Always carry the canonical frontier's first pending target into
-          # the next bounded pass. This prevents a stubborn exact-model record
-          # from being starved by broad alphabetical round-robin scheduling.
-          if pending:
-              frontier_target=pending[0]
-              targets.append(frontier_target)
-              bucket_key=(frontier_target["builder"][:1] or "#").upper()
+          # Always carry the canonical alphabetic frontier's first pending
+          # target into the next bounded pass, even after source-priority
+          # ranking reorders the remaining pool.
+          if canonical_frontier:
+              targets.append(canonical_frontier)
+              bucket_key=(canonical_frontier["builder"][:1] or "#").upper()
               buckets[bucket_key]=[
                   r for r in buckets.get(bucket_key, [])
-                  if not (r["builder"]==frontier_target["builder"] and r["pedal"]==frontier_target["pedal"])
+                  if not (r["builder"]==canonical_frontier["builder"] and r["pedal"]==canonical_frontier["pedal"])
               ]
 
           letters=sorted(buckets)
