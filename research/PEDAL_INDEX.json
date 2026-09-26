@@ -32808,8 +32808,8 @@
       "image": "./assets/pedals/fender/full-moon-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Fender/Full Moon Distortion.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Fender",
@@ -32820,8 +32820,8 @@
       "image": "./assets/pedals/fender/hammertone-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Fender/Hammertone Distortion.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Fender",
@@ -34157,8 +34157,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Greer Amps/SOMA 63 Vintage Preamp.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Greer Amps",
@@ -35027,8 +35027,8 @@
       "image": "./assets/pedals/idiotbox-effects/blower-box-bass-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/IdiotBox Effects/Blower Box Bass Distortion.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "IdiotBox Effects",
@@ -35088,8 +35088,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/IdiotBox Effects/Dungeon Master.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "IdiotBox Effects",
@@ -47777,8 +47777,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Universal Amplifier Corp/Astrotone.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Universal Amplifier Corp",

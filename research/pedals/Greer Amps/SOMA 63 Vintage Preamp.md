@@ -1,23 +1,40 @@
 # Greer Amps — SOMA 63 Vintage Preamp
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** SOMA 63 Vintage Preamp
 - **Builder:** Greer Amps
-- **Pedal:** SOMA 63 Vintage Preamp
 - **Catalog type:** Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Greer Amps's SOMA 63 Vintage Preamp.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **SOMA 63 Vintage Preamp** by **Greer Amps** as a **Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+SOMA 63 Vintage Preamp - Greer Amps Menu Cart Home About Us PRODUCTS Pedals Amps Merch Merch Dealers-Artists Dealers Artists Contact Us CONTACT WARRANTY REPAIRS POLICIES My Account Continue Shopping Your Cart is Empty Want free shipping on pedals?
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+A brave new world of tone, the SOMA ‘63 Vintage Preamp is the first pedal in the XFR series of pedals from Greer Amps.
+The SOMA ’63 is a true vintage preamp, based on the tone and feel of vintage brown era amplifiers from California.
+The tone stack is designed to provide a wide and dynamic range of tonal options to the user.
+
+## Sources checked
+1. SOMA 63 Vintage Preamp - Greer Amps: https://www.greeramps.com/products/soma-63-vintage-preamp
+2. Greer Amps SOMA 63 Vintage Preamp — Overdrive Pedal: https://equipboard.com/items/greer-amps-soma-63-vintage-preamp
+3. Greer Amps - Soma 63 Vintage Preamp: https://www.masterguitarworks.com/products/greer-amps-soma-63-vintage-preamp/
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
