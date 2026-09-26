@@ -32952,8 +32952,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Fender/Yngwie Malmsteen Overdrive Pedal.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Fjord Fuzz",
@@ -34282,8 +34282,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Greer Amps/Tone Smuggler.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "GuitarSlinger Effects",
@@ -51145,8 +51145,8 @@
       "image": "./assets/pedals/zander-circuitry/terra-firma/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Zander Circuitry/Terra Firma.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "ZVEX Effects",
