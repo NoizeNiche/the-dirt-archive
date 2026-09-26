@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-26T07:35:35.315571+00:00",
+  "generated_at": "2026-09-26T07:36:28.818152+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,8 +10,8 @@
     "pictured": 2681,
     "complete": 2681,
     "research_pending": 0,
-    "deep_research_pending": 3276,
-    "deep_researched": 485,
+    "deep_research_pending": 3272,
+    "deep_researched": 489,
     "surface_ready": 3761
   },
   "next_target": {
@@ -27,20 +27,6 @@
       "pedal": "Big Rock Pro",
       "catalog_type": "",
       "research_record": "./research/pedals/Amptweaker/Big_Rock_Pro.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Amptweaker",
-      "pedal": "BluesFuzz",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Amptweaker/BluesFuzz.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Amptweaker",
-      "pedal": "BluesFuzz Jr",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Amptweaker/BluesFuzz_Jr.md",
       "research_level": "surface"
     },
     {
@@ -195,6 +181,20 @@
       "pedal": "BS British Sound",
       "catalog_type": "",
       "research_record": "./research/pedals/PRP Batch 049/BS British Sound.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "AMT Electronics",
+      "pedal": "CS California Sound",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 049/CS California Sound.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "AMT Electronics",
+      "pedal": "DM-3 DistMachine",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 049/DM-3 DistMachine.md",
       "research_level": "surface"
     }
   ]

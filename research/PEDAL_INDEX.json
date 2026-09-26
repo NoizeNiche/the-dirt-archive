@@ -2821,8 +2821,8 @@
       "research_record": "./research/pedals/Amptweaker/BluesFuzz.md",
       "image_source_url": "https://rvb-img.reverb.com/i/s--TrItPNro--/quality%3Dmedium-low%2Cheight%3D400%2Cwidth%3D400%2Cfit%3Dcover%2Cgravity%3Dbottom/pp1mhbc2fmkalbzg4tvt.jpg",
       "image_source_page": "https://thetoneking.com/amptweaker-bluesfuzz-limited-edition-pedal/",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Amptweaker",
@@ -2834,8 +2834,8 @@
       "source_page": "https://www.imuso.co.uk/itm/amptweaker-bluesfuzz-jr",
       "research_record": "./research/pedals/Amptweaker/BluesFuzz_Jr.md",
       "image_source_url": "https://img.imuso.co.uk/products/amptweaker-bluesfuzz-jr-1-73106.webp",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Amptweaker",
@@ -28523,8 +28523,8 @@
       "image": "./assets/pedals/danelectro/daddy-o/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Danelectro/Daddy O.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Danelectro",
@@ -30955,8 +30955,8 @@
       "image": "./assets/pedals/earthquaker-devices/acapulco-gold-power-amp-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/EarthQuaker Devices/Acapulco Gold — Power Amp Distortion.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "EarthQuaker Devices",
