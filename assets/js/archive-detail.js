@@ -196,6 +196,36 @@ function renderVersions(item, versions){
   wireThumbnailFallbacks('.variantThumb img');
 }
 
+async function sharePedal(){
+  const button=$('sharePedal');
+  if(!button)return;
+  const shareData={title:document.title,url:location.href};
+  try{
+    if(navigator.share){
+      await navigator.share(shareData);
+      return;
+    }
+    if(navigator.clipboard){
+      await navigator.clipboard.writeText(location.href);
+    }else{
+      const input=document.createElement('input');
+      input.value=location.href;
+      input.setAttribute('readonly','');
+      input.style.position='fixed';
+      input.style.opacity='0';
+      document.body.appendChild(input);
+      input.select();
+      document.execCommand('copy');
+      input.remove();
+    }
+    const original=button.textContent;
+    button.textContent='Link copied';
+    setTimeout(()=>{button.textContent=original},1400);
+  }catch(error){
+    if(error?.name!=='AbortError')console.warn('Could not share pedal link.',error);
+  }
+}
+
 function renderRelated(allItems,item){
   const currentKey=entryKey(item);
   const currentTypes=new Set(item.types||[]);
@@ -302,6 +332,7 @@ async function loadResearchMarkdown(path){
 }
 
 restoreReturnLink();
+$('sharePedal')?.addEventListener('click',sharePedal);
 
 loadCatalog()
 .then(data=>{
