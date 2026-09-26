@@ -4,38 +4,56 @@
 - **Archive parent:** MP-1 Channel
 - **Builder:** A/DA (Analog/Digital Associates)
 - **Catalog type:** Overdrive
-- **Identity:** Pedal-sized version of A/DA's famous MP-1 tube preamp architecture.
+- **Identity:** A/DA MP-1-CHANNEL, a pedal-format dual-12AX7 tube preamp based on the company's MP-1 architecture.
 
 ## What this pedal is
-MP-1 Channel puts the original MP-1's **four-stage tube preamp concept** into a pedal format using two 12AX7 tubes. It provides clean and distortion voicings, separate OD1 and OD2 controls, a wide tone stack and true bypass. [1][2]
+MP-1-CHANNEL puts A/DA's familiar MP-1 gain and tone structure into a stompbox-sized tube preamp. The unit uses **two 12AX7 vacuum tubes**, provides separate OD1 and OD2 drive controls, Clean/Distortion voicing, a four-band active tone section and Master control. [1][2]
 
-## Colorways
-- Official and dealer examples use a **black enclosure with white lettering and blue accents**.
-- The front panel prominently identifies the dual 12AX7 tube design.
+Effects Database published its exact-model entry on **May 21, 2015**. The Japanese product/manual material documents the hardware as a tube preamp with two 12AX7s and a true-bypass footswitch. [1][2]
 
-## Versions and factory options
-### MP-1 Channel production
-- dual 12AX7 tubes
-- approximately 270V internal tube supply
-- Master / Bass / Mid / Treble / Presence
-- OD1 and OD2
-- Clean / Distortion voicing switch
-- true bypass
-- 12V DC external supply [1][2]
+## Controls
+The documented panel controls/functions are:
+- **OD1**
+- **OD2**
+- **Bass**
+- **Mid**
+- **Treble**
+- **Presence**
+- **Master**
+- **Voicing** switch for Clean/Distortion
+- power switch
+- true-bypass footswitch. [2]
 
-The pedal keeps the gain, voicing and tone-stack concepts of the original MP-1 while adding a stompbox-friendly true-bypass arrangement. [1]
+The manual explains that OD1 and OD2 control different gain stages and therefore can influence the balance of even- and odd-harmonic distortion. [3]
 
-## Version changes
-No numbered factory hardware revision was verified in the sources checked. The pedal is retained as one MP-1 Channel parent identity.
+## Tubes / power
+The MP-1-CHANNEL uses **two selected high-gain, low-noise 12AX7 tubes** and an internal high-voltage supply. A/DA documentation specifies a **270V internal supply** generated from the 12V DC external adapter. [1][2]
 
-## Transistor
-- **Technology:** Tube-based. Two 12AX7 vacuum tubes are the documented active gain devices.
-- **Exact transistor/device:** Not applicable.
+- **Active-device technology:** Vacuum tube.
+- **Tubes:** 2 x 12AX7.
+- **Transistor:** Not the primary gain technology; exact supporting semiconductor devices not verified.
+- **Diode:** Exact supporting diode devices not verified.
 
-## Diode
-- **Type:** Exact clipping diode parts are not publicly documented; the main gain structure is tube-based.
-- **Exact diode/device:** Unknown.
+## Tone stack
+The four-band tone section is Bass, Mid, Treble and Presence. A/DA documentation states that the Mid range was extended beyond the original rack MP-1 design to permit deeper scoop and stronger mid-boost shapes. [2]
+
+## Signal level / connections
+The manual specifies instrument-level operation rather than line-level input. A/DA guidance recommends using the amplifier power-amp input or effects return when practical. [3]
+
+The unit is powered by a **12V DC, 800mA minimum** adapter in the manual documentation. [3]
 
 ## Sound
-MP-1 Channel covers the classic A/DA range from clean and bluesy drive into thick lead and high-gain distortion. OD1 and OD2 shape different parts of the gain structure, while the Clean/Distortion voicing and five-band tone section let the player move from tighter, brighter sounds to fuller and more saturated tones. [1][2]
+A/DA describes MP-1-CHANNEL as covering clean sounds through bluesy overdrive, lead distortion and high gain. OD1/OD2 provide independent gain-stage control, while the four-band tone section supports both scooped and mid-forward settings. [1][2][3]
 
+## Version notes
+A current Japanese dealer reference identifies an **MP-1-Channel (2016-)** and describes it as limited production, but the archive does not use that as a separate parent without stronger factory evidence tying all production changes to a formal model revision. [4]
+
+## Sources checked
+1. Effects Database — A/DA MP-1 Channel: https://www.effectsdatabase.com/model/ada/mp1/channel
+2. ADA MP-1 Channel — Japanese distributor/product page: https://www.electroharmonix.co.jp/ada/mp1channel.html
+3. ADA MP-1-CHANNEL User Manual: https://www.manualslib.com/manual/1568507/Ada-Mp-1-Channel.html
+4. Japanese used-market/production reference: https://encores.jp/ada-mp-1-channel-2016
+
+## Photo
+- **Archive status:** Photo handling remains separate from this research pass.
+- **Identity rule:** Match the photo to MP-1-CHANNEL rather than the original rack MP-1 or another ADA preamp.
