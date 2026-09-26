@@ -33,3 +33,17 @@ The O-300's simple Level and Drive arrangement points to a straightforward overd
 ## Sources checked
 1. Effects Database - Coron O-300 Over Drive
 2. Effects Database - Coron last series
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Coron's O-300 Over Drive is cataloged as an overdrive pedal.
+
+### Verified sound evidence
+Exact-model page identifies the O-300 as a Coron last-series overdrive and lists Level and Drive controls.
+
+### Sources checked in this pass
+1. Coron O-300 Over Drive | Effects Database: https://www.effectsdatabase.com/model/coron/last/o300
+2. Coron O-300 Over Drive - Reverb: https://reverb.com/item/51078863-coron-o-300-over-drive

@@ -25691,8 +25691,8 @@
       "image": "./assets/pedals/coron/o-300-over-drive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Coron/O-300 Over Drive.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Correct Sound",
