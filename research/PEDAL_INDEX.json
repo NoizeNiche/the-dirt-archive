@@ -47041,8 +47041,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/ThorpyFX/Bunker.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "ThorpyFX",
@@ -51335,8 +51335,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/ZVEX Effects/Woolly Mammoth 7.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     }
   ],
   "photo_architecture": "local-first"
