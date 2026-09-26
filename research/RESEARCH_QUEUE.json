@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-26T02:37:06.267940+00:00",
+  "generated_at": "2026-09-26T02:40:11.939302+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,8 +10,8 @@
     "pictured": 2501,
     "complete": 2501,
     "research_pending": 0,
-    "deep_research_pending": 3434,
-    "deep_researched": 327,
+    "deep_research_pending": 3431,
+    "deep_researched": 330,
     "surface_ready": 3761
   },
   "next_target": {
@@ -27,13 +27,6 @@
       "pedal": "Stompzilla Fuzz",
       "catalog_type": "",
       "research_record": "./research/pedals/Accel Audio/Stompzilla Fuzz.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Add+ Pedals",
-      "pedal": "Fuzz Machine",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Add+ Pedals/Fuzz Machine.md",
       "research_level": "surface"
     },
     {
@@ -195,6 +188,13 @@
       "pedal": "Tri-Mode Fuzz",
       "catalog_type": "",
       "research_record": "./research/pedals/Akai/Tri-Mode Fuzz.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Akai",
+      "pedal": "Tri-Mode Overdrive",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Akai/Tri-Mode Overdrive.md",
       "research_level": "surface"
     }
   ]

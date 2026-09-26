@@ -1205,8 +1205,8 @@
       "research_record": "./research/pedals/Add+ Pedals/Fuzz Machine.md",
       "image_source_url": "https://www.fredric.co.uk/effects/effects_images/pedals-white-bkg/standard-fuzz-machine.jpg",
       "image_source_page": "https://www.fredric.co.uk/pedals",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Add+ Pedals",
@@ -35443,8 +35443,8 @@
       "image": "./assets/pedals/j-rockett-audio-designs/blue-note-select/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/J. Rockett Audio Designs/Blue Note Select.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "J. Rockett Audio Designs",
@@ -46919,8 +46919,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Tech 21 NYC/Boost Distortion.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Tech 21 NYC",

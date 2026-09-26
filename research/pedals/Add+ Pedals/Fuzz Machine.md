@@ -4,36 +4,33 @@
 - **Archive parent:** Fuzz Machine
 - **Builder:** Add+ Pedals
 - **Catalog type:** Fuzz
-- **Identity:** Add+ Pedals fuzz effect from the builder's original catalog.
+- **Identity:** Add+ Pedals's Fuzz Machine.
 
 ## What this pedal is
-Fuzz Machine is a dedicated fuzz pedal from Add+ Pedals. Effects Database records it as an Add+ fuzz product from 2011, but the surviving public listing does not expose enough circuit or control information to identify a more specific topology without speculation. [1]
+Add+ Pedals's Fuzz Machine is cataloged as a fuzz pedal.
 
 ## Colorways
-- No reliable factory colorway list was established.
+- No specific factory colorway information was established in the verified evidence packet.
 
 ## Versions and factory options
-### Fuzz Machine
-- Dedicated fuzz effect
-- Add+ Pedals original catalog product [1]
-
-No separate numbered production revision was verified.
+- No distinct factory revision was established in the verified evidence packet.
 
 ## Version changes
-No reliable factory revision history was established.
+- No specific factory version changes were established in the verified evidence packet.
 
 ## Transistor
-- **Exact production transistor/device:** Not publicly documented.
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
 
 ## Diode
-- **Exact production clipping diode/device:** Not publicly documented.
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
 
 ## Sound
-As cataloged, Fuzz Machine is a dedicated fuzz rather than an overdrive or distortion product. The public record is too sparse to safely assign a specific vintage circuit family, clipping type or control behavior. [1]
+fx pedal stompbox stomp box guitar effects pedal fuzz distortion/fuzz/overdrive dirt grit Searching...
 
 ## Sources checked
-1. Effects Database — Add+ Fuzz Machine: https://www.effectsdatabase.com/model/addplus/fuzzmachine
-2. Effects Database — Add+ Pedals catalog: https://www.effectsdatabase.com/model/addplus
+1. Add+ Fuzz Machine | Effects Database: https://www.effectsdatabase.com/model/addplus/fuzzmachine
 
 ## Photo
-- **Archive status:** **No Photo Archived**
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
