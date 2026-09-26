@@ -37,3 +37,22 @@ This cat fuzz that thrives on instability — because sometimes chaos is exactly
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Default Title Error Quantity must be 1 or more Add to cart Adding product to your cart From the TONECAT Home of Tone collection, Ziggy is a wild, unpredictable multi-bias fuzz pedal built for players who want expressive, unstable, and harmonically rich fuzz tones.
+
+### Verified version references
+- The evidence references: v1.
+
+### Verified sound evidence
+From the Art of the Home of Tone collection , Ziggy is wild, unpredictable, and unapologetic.
+This cat fuzz that thrives on instability — because sometimes chaos is exactly what the song needs.
+“Chaos is my thing” From the Art of the Home of Tone collection , Ziggy is wild, unpredictable, and unapologetic.
+
+### Sources checked in this pass
+1. Brother Ziggy Fuzz Special Edition | Home of Tone Multi-Bias Fuzz Cat Pedal — TONECAT: https://www.tonecat.life/shop/p/brother-ziggy-fuzz-special-edition
+2. TONECAT Ziggy Fuzz Multi Bias Fuzz: https://www.upweymusic.au/products/tonecat-ziggy-fuzz-multi-bias-fuzz

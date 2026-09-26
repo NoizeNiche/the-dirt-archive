@@ -38,3 +38,22 @@ Volume, Tone, and Gain controls provide moderate gain range from subtle to mediu
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+V810 Valvetone — Vox Overdrive Pedal
+
+### Verified version references
+- The evidence references: V8, V810, V830, V847.
+
+### Verified sound evidence
+The VOX Showroom - Vox V810 Valvetone Pedal and V830 V830 Distortion Booster .....
+V810 Valvetone — Vox Overdrive Pedal
+© 2026 PedalFilter Clear Compare ( 0 ) Back Home Vox V810 Valvetone Back to results Vox V810 Valvetone Overdrive TS-style overdrive in the Vox lineup.
+
+### Sources checked in this pass
+1. The VOX Showroom - Vox V810 Valvetone Pedal and V830 V830 Distortion Booster: https://www.voxshowroom.com/catalogs/810830.html
+2. V810 Valvetone — Vox Overdrive Pedal | PedalFilter | PedalFilter: https://pedalfilter.com/vox/v810-valvetone

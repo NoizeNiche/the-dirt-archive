@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-26T10:13:23.205984+00:00",
+  "generated_at": "2026-09-26T10:16:35.806462+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,8 +10,8 @@
     "pictured": 2744,
     "complete": 2744,
     "research_pending": 0,
-    "deep_research_pending": 3001,
-    "deep_researched": 760,
+    "deep_research_pending": 2957,
+    "deep_researched": 804,
     "surface_ready": 3761
   },
   "next_target": {
@@ -157,20 +157,6 @@
     },
     {
       "builder": "Animal Factory Amplification",
-      "pedal": "Chemical Burn",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Animal Factory Amplification/Chemical_Burn.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Animal Factory Amplification",
-      "pedal": "Dirty Mirror",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Animal Factory Amplification/Dirty_Mirror.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Animal Factory Amplification",
       "pedal": "Godeater",
       "catalog_type": "",
       "research_record": "./research/pedals/Animal Factory Amplification/Godeater.md",
@@ -195,6 +181,20 @@
       "pedal": "Pit Viper",
       "catalog_type": "",
       "research_record": "./research/pedals/Animal Factory Amplification/Pit_Viper.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Animals Pedal",
+      "pedal": "ANGEL BEAR FACE FUZZ",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Animals Pedal/ANGEL BEAR FACE FUZZ.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Animals Pedal",
+      "pedal": "Diamond Peak Hybrid Over Drive",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Animals Pedal/Diamond Peak Hybrid Over Drive.md",
       "research_level": "surface"
     }
   ]

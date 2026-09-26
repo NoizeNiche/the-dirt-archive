@@ -46,3 +46,28 @@ The traditional voicing targets early Vox Tone Bender sounds, while KILL can mov
 ## Photo
 - **Archive status:** **No Photo Archived**
 - Exact-model photographs were visually confirmed, but no stable direct image asset was safely established for archival in this pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+As with all Baja Tech Custom pedals the Bone Bender is wired for true bypass so as to not "suck" your tone when off.
+
+### Verified color/finish evidence
+- Bone Bender is painted with a heavy duty "Bone White" powder coat finish to withstand the day to day rigors of the road.
+
+### Verified version references
+- The evidence references: MKI, MKII.
+
+### Verified transistor/device terms
+- germanium Fuzz.
+
+### Verified sound evidence
+Our transistors are hand picked to get you that magic tone of the original two transistor Vox Tone Bender (Not to be confused with the Sola Sound Tone Bender MKII or the MKI.
+The Bone Bender gets the early Tone Bender tones of yesteryear but with modern conveniences.
+Some of these include using a technique to stabilize the transistors from temperature changes that commonly plague stock/clone germanium Fuzz pedals.
+
+### Sources checked in this pass
+1. https://effectsfreak.com/effect/baja-tech-custom-bone-bender/: https://effectsfreak.com/effect/baja-tech-custom-bone-bender/
+2. Baja Tech Custom Bone Bender | Effects Database: https://www.effectsdatabase.com/model/bajatech/bonebender

@@ -38,3 +38,23 @@ This two-in-one pedal allows for diverse sounds, from gentle breakup to full cru
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Wampler Pedals's Brent Mason: Hot Wired v2 is cataloged as a distortion / overdrive pedal.
+
+### Verified version references
+- The evidence references: v1, v2.
+
+### Verified sound evidence
+His solo albums, in particular “Hot Wired” (from which this pedal got its name) has become almost mythical in its reputation for guitar tone and quality of musicianship.
+You can still find the chickin’ pickin’ tones, but you can also find a deeper, warmer overdrive section that will allow you to play as smooth as you like.
+With the added blend control, you won’t believe how fat your tone can be without it sounding too overdriven.
+
+### Sources checked in this pass
+1. Brent Mason: Hot Wired v2 | Wampler Pedals: https://www.wamplerpedals.com/products/distortion-overdrive/brent-mason-hot-wired-v2/
+2. Wampler Pedals Brent Mason: Hot Wired v2 | AllThePedals: https://allthepedals.com/pedals/wampler-pedals-brent-mason-hot-wired-v2/
+3. catalog/override source: https://reverb.com/item/101865731-wampler-brent-mason-hot-wired-v2-signature-overdrive-pedal

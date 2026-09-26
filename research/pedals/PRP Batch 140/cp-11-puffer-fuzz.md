@@ -16,3 +16,14 @@
 - **Photo status:** Exact-model source imagery located; no local image promoted in this batch.
 - **Research confidence:** High for identity, control set and general behavior; high for the traced-unit component list; medium for circuit-family classification because it comes from a third-party trace.
 - **Sources checked:** https://www.effectsdatabase.com/model/caline/cpxx/cp11 ; https://www.freestompboxes.org/viewtopic.php?t=28673 ; https://reverb.com/p/caline-cp-11-puffer-fuzz
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Caline's CP-11 Puffer Fuzz is cataloged as a fuzz pedal.
+
+### Sources checked in this pass
+1. catalog/override source: https://www.ecrater.com/p/37609215/caline-cp-11-puffer-fuzz-guitar
+2. Caline CP-11 Puffer Fuzz | Effects Database: https://www.effectsdatabase.com/model/caline/cpxx/cp11

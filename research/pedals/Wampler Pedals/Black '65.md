@@ -39,3 +39,25 @@ Through a clean amp, this pedal offers a faithful reproduction of the tones Bria
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Wampler Pedals's Black '65 is cataloged as an overdrive pedal.
+
+### Verified color/finish evidence
+- Wampler’s Black ‘65 pedal captures the tonal nuances and rich harmonics associated with this classic era!
+- With such a rich legacy of tone to follow, Grand Pappy BDub’s take on the American-voiced amps of that period was turned into the legendary Black ‘65 Pedal.
+- With a 3 band eq similar to a vintage ”black panel” amp, you’re able to sculpt the tonality, feel, compression and overall gain structure just like you would on the real tube amplifier it’s emulating.
+
+### Verified sound evidence
+With such a rich legacy of tone to follow, Grand Pappy BDub’s take on the American-voiced amps of that period was turned into the legendary Black ‘65 Pedal.
+Through a clean amp, this pedal offers a faithful reproduction of the tones Brian loved from this classic period, and it is also flexible enough to add a new level of nuanced grit to your existing rig.
+With a 3 band eq similar to a vintage ”black panel” amp, you’re able to sculpt the tonality, feel, compression and overall gain structure just like you would on the real tube amplifier it’s emulating.
+
+### Sources checked in this pass
+1. Black ’65 Limited Edition | Wampler Pedals: https://www.wamplerpedals.com/products/distortion-overdrive/wampler-black-65/
+2. Wampler Pedals Black ’65 Limited Edition | AllThePedals: https://allthepedals.com/pedals/wampler-pedals-black-65-limited-edition
+3. catalog/override source: https://reverb.com/item/102077992-wampler-black-65-overdrive-2010s-black

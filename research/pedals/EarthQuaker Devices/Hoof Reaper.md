@@ -38,3 +38,22 @@ Fuzz: Controls the sustain and nature 7.
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+EarthQuaker Devices's Hoof Reaper is cataloged as a fuzz pedal.
+
+### Verified version references
+- The evidence references: V2.
+
+### Verified sound evidence
+Hoof Reaper Double Fuzz with Octave Up — EarthQuaker Devices Contact Us Use the form on the right to contact us.
+Fuzz: Controls the sustain and nature 7.
+The Hoof is a no-fuss, easy-to-use device capable of sounds from warm, gritty overdrive to a huge, sustaining fuzz.
+
+### Sources checked in this pass
+1. Hoof Reaper Double Fuzz with Octave Up — EarthQuaker Devices: https://www.earthquakerdevices.com/hoof-reaper
+2. EarthQuaker Devices Hoof Reaper V2 Effects Pedal | Guitar Center: https://www.guitarcenter.com/EarthQuaker-Devices/Hoof-Reaper-V2-Effects-Pedal-1500000169977.gc

@@ -38,3 +38,23 @@ Dirty Mirror can produce parallel dual-fuzz walls, seasick vibrato, slapback, ch
 1. Animal Factory Amplification — Dirty Mirror: https://animalfactoryamps.com/products/dirty-mirror
 2. Animal Factory Amplification — Dirty Mirror history: https://animalfactoryamps.com/blogs/news/introducing-dirty-mirror
 3. Animal Factory Amplification — firmware update guide: https://animalfactoryamps.com/blogs/news/updating-the-firmware-on-animal-factory-godeater-ozymandias-and-dirty-mirror-pedals
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Details and availability Built to the same standard as the Ozymandias and Godeater+ pedals, the Dirty Mirror circuit is finalized and in the pre-production stage.
+
+### Verified version references
+- The evidence references: MK 2.
+
+### Verified sound evidence
+The older I get, the harder it gets to pinpoint the origins of my lifelong love for distortion.
+I can think of a million moments - the accidental discovery of tape saturation from when you turned up the level too high while recording a mixtape, the harsh warmth of the speakers of an Akai reel to reel.
+Sub-slices of song fragments, where the tone more than the instrumentation made my ears prick up and stand on end.
+
+### Sources checked in this pass
+1. catalog/override source: https://www.schneidersladen.de/en/animal-factory-amplification-dirty-mirror.html
+2. Animal Factory Amplification - Dirty Mirror Pedal - SchneidersLaden: https://schneidersladen.de/en/animal-factory-amplification-dirty-mirror-pedal
+3. A Love Letter to Fuzz: Gazing Into the Dirty Mirror – Animal Factory Amplification: https://animalfactoryamps.com/blogs/news/introducing-dirty-mirror

@@ -41,3 +41,26 @@ Guitar mode (left) is a classic scooped sound like the original circa 1974 fuzz,
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Skreddy Pedals Supa Tone $235.00 $117.50 Maker: Skreddy Pedals Model: Supa Tone Condition:New Description: based on a 1974 edition of a fuzz released by Colorsound, this circuit is not based on a germanium Tone Bender design but is a variant of the Big Muff circuit.
+
+### Verified version references
+- The evidence references: Mk1, MkI, MkII, V4.
+
+### Verified transistor/device terms
+- BC239.
+
+### Verified sound evidence
+This has the effect of making it sound bassier and rougher than the streamlined compression of the original Big Muff design; this also makes it an ideal bass fuzz and sounds remarkably like a Marshall 2204 on guitar.
+Guitar mode (left) is a classic scooped sound like the original circa 1974 fuzz, and Bass mode (right) preserves ALL of the brutal bass throughout the tone knob's sweep.
+Bass Voicing: When mids switch is set to "bass," grindy, tubey distortion that stays in the pocket You get a fuzzed attack but it's still punchy and retains the normal decay envelope All the low end is preserved in Bass mode, so the tone knob becomes a treble knob and does not thin out the tone even at full clockwise.
+
+### Sources checked in this pass
+1. ToneBender variants | Fuzz | Supa Tone | Skreddy Pedals: https://skreddypedals.com/supa
+2. Skreddy Pedals Supa Tone | Effects Database: https://www.effectsdatabase.com/model/skreddy/supatone
+3. Skreddy Pedals Supa Tone - Block Body Guitars | Solid Body Electrics and Guitar Parts: https://www.blockbodyguitars.com/product/skreddy-pedals-supa-tone/

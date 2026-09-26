@@ -15,3 +15,20 @@
 - **Photo status:** No exact-model image promoted to the local archive in this batch.
 - **Research confidence:** High for builder/model identity and Tone Bender-family context; low for controls, component types, versions and exact circuit topology.
 - **Sources checked:** https://www.guitariste.com/forums/pedales-effets-homestudio,fuzz-zeppelinienne-tonebender,326573.html ; https://thegearforum.com/threads/all-things-tonebender.9885/ ; https://www.gearbug.com/
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+California Valveworks's The Bone Tender is cataloged as a fuzz pedal.
+
+### Verified version references
+- The evidence references: Mk 1, Mk I, Mk II, MkI.
+
+### Verified sound evidence
+A truly special creation: True vintage fuzz from a true vintage circuit.
+A super broad fuzz sweep for total control.
+
+### Sources checked in this pass
+1. California Valveworks The Bone Tender | Effects Database: https://www.effectsdatabase.com/model/californiavalveworks/bonetender

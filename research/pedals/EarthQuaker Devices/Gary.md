@@ -37,3 +37,22 @@ This nasty little fuzz turns the signal into a square wave and allows you to dyn
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Design Notes Gary’s right brain consists of a dynamic and destructive fuzz that is both domineering and interactive.
+
+### Verified color/finish evidence
+- The result is a dynamic and destructive pulse width modulated fuzz paired with a natural-sounding op-amp overdrive.
+
+### Verified sound evidence
+Gary Automatic Pulse Width Modulation Fuzz and Dynamic Natural Overdrive — EarthQuaker Devices Contact Us Use the form on the right to contact us.
+Gary started as a simple request to create a compact version of the now discontinued Gray Channel®, which was a mainstay on Lee’s board and a big part of his main drive tone.
+The result is a dynamic and destructive pulse width modulated fuzz paired with a natural-sounding op-amp overdrive.
+
+### Sources checked in this pass
+1. Gary Automatic Pulse Width Modulation Fuzz and Dynamic Natural Overdrive — EarthQuaker Devices: https://www.earthquakerdevices.com/gary
+2. EarthQuaker Devices Gary Automatic Pulse Width Modulation Fuzz and Dynamic Natural Overdrive Effects Pedal Cream and Orange | Guitar Center: https://www.guitarcenter.com/EarthQuaker-Devices/Gary-Automatic-Pulse-Width-Modulation-Fuzz-and-Dynamic-Natural-Overdrive-Effects-Pedal-Cream-and-Orange-1500000446364.gc

@@ -37,3 +37,17 @@ An instant classic for a reason, the Reverberation Machine's unique and experime
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+The Reverberation Machine offers up drippy, saturated spring reverbs and cavernous expanses in one small package.
+
+### Verified sound evidence
+Altitude Control This is similar to gain.
+
+### Sources checked in this pass
+1. Death By Audio Reverberation Machine – Chicago Music Exchange: https://www.chicagomusicexchange.com/products/death-by-audio-reverberation-machine-10743
+2. REVERBERATION MACHINE - Death By Audio: https://deathbyaudio.com/products/reverberation-machine

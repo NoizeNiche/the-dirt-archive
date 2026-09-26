@@ -38,3 +38,22 @@ read more Specifications Product Downloads Click here V8 DistortionDownloads Ton
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Legacy THIS PRODUCT IS NO LONGER IN PRODUCTION Legacy V8 Distortion Sku: TG1V8DS Documents SPECS Specs PHOTOS Photos HEAR IT Hear It Product Description As befits the name “V-type 8-cylinder,” this is a high-gain distortion unit that boasts an awe-inspiring tone.
+
+### Verified version references
+- The evidence references: V8.
+
+### Verified sound evidence
+Legacy THIS PRODUCT IS NO LONGER IN PRODUCTION Legacy V8 Distortion Sku: TG1V8DS Documents SPECS Specs PHOTOS Photos HEAR IT Hear It Product Description As befits the name “V-type 8-cylinder,” this is a high-gain distortion unit that boasts an awe-inspiring tone.
+In addition to distortion sounds that are ideal for heavy riffs or soloing, you can also obtain cutting high-gain lead sounds.
+Hear it now Hear it now Click to hear audio tracks Photos Find a Dealer for the V8 Distortion
+
+### Sources checked in this pass
+1. V8 Distortion - Vox Amps: https://voxamps.com/product/v8-distortion/
+2. Vox Tone Garage V8 Distortion review | MusicRadar: https://www.musicradar.com/reviews/guitars/vox-tone-garage-v8-distortion-587082

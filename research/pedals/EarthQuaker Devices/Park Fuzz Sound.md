@@ -37,3 +37,25 @@ Treble/Bass: This is the tone control, thicker tones to the right, brighter to t
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+EarthQuaker Devices's Park Fuzz Sound is cataloged as a fuzz pedal.
+
+### Verified transistor/device terms
+- Germanium Fuzz.
+
+### Verified diode terms
+- LED.
+
+### Verified sound evidence
+Park Fuzz Sound Vintage Germanium Fuzz Tone — EarthQuaker Devices Contact Us Use the form on the right to contact us.
+Treble/Bass: This is the tone control, thicker tones to the right, brighter to the left.
+Fuzz: This is the gain control, more fuzz to the right, less to the left.
+
+### Sources checked in this pass
+1. Park Fuzz Sound Vintage Germanium Fuzz Tone — EarthQuaker Devices: https://www.earthquakerdevices.com/park-fuzz-sound
+2. EarthQuaker Devices Park Fuzz Sound Vintage Tone Guitar Effects Pedal | Guitar Center: https://www.guitarcenter.com/EarthQuaker-Devices/Park-Fuzz-Vintage-Tone-Guitar-Effects-Pedal-1421336339406.gc

@@ -39,3 +39,30 @@ The sound is classic Tone Bender* with excellent volume clean-up and touch sensi
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+off onna ben (Soundcloud) the skreddy rover fuzz is always "on", herein.
+
+### Verified color/finish evidence
+- Sound Clips Ilya Lipkin The Restoned Skreddy Rover fuzz jam, using a Gibson SG into a clean Orange amp...
+- ronin supastah guitar, skreddy rover, fryette æther amp, fryette powerstation, DOD Rubberneck analog delay, neunaber reverb, blue mouse mic, sebatron mic-pre.
+- ronin supastah guitar, with 3x mini-FoilBuckers fryette aether amplifier (with Fane A60S speaker) through fryette power station DOD rubberneck analog delay & neunaber reverb in amp's fx-loop blue mouse microphone sebatron mic-preamplifier quick mixed in logic Genre original Comment by Lev Dens Great Rover Sound !
+
+### Verified version references
+- The evidence references: MkII.
+
+### Verified sound evidence
+Manual The ROVER can do that wooly, compressed 60's fuzz tone, but it can also be tight and articulate and well behaved.
+The sound is classic Tone Bender* with excellent volume clean-up and touch sensitivity.
+With it's "wool" control, you can dial in anything from tight, hot, articulate distortion to SAGGY, brick-wall-compressed FUZZ.
+
+### Sources checked in this pass
+1. Fuzz | ROVER Fuzz | Skreddy Pedals: https://skreddypedals.com/rover
+2. Skreddy Rover Fuzz Review - Premier Guitar: https://www.premierguitar.com/gear/skreddy-rover-fuzz-review
+3. Amazon.com: https://www.amazon.com/Skreddy-Rover-Fuzz-Pedal-Cables/dp/B01E7R64I8
+4. Stream wenta roving by jayapala | Listen online for free on SoundCloud: https://soundcloud.com/jayapala/wenta-roving
+5. Skreddy ROVER Fuzz review: https://www.joomag.com/magazine/mag/0563972001481310571/p66

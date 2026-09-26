@@ -39,3 +39,24 @@ Unlike effects that color the tone like preamp-style pedals, FUEL INJECTOR prese
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Unlike effects that color the tone like preamp-style pedals, FUEL INJECTOR preserves its natural characteristics while distorting through Nutube, providing a tone that sounds as if your connected amp is pushed into even more distortion.
+
+### Verified color/finish evidence
+- Unlike effects that color the tone like preamp-style pedals, FUEL INJECTOR preserves its natural characteristics while distorting through Nutube, providing a tone that sounds as if your connected amp is pushed into even more distortion.
+- Tube-powered overdrive pedal Natural and Fat modes Adds rich natural saturation to your rig Powered by standard 9v battery or power supply OLED display with graphic compression readout Warranty Products purchased directly from VOX Amplification US qualify for protection under warranty.
+
+### Verified sound evidence
+Developed by amp manufacturer VOX, this overdrive pedal stands out for its amp-like distortion, in contrast to typical pedal distortions.
+Unlike effects that color the tone like preamp-style pedals, FUEL INJECTOR preserves its natural characteristics while distorting through Nutube, providing a tone that sounds as if your connected amp is pushed into even more distortion.
+The harmonic richness created by distorting Nutube in multiple stages, along with the bias variations unique to tubes, produces a resonant tone, capturing the essence of an amp-like sound.
+
+### Sources checked in this pass
+1. FUEL INJECTOR - Vox Amps: https://voxamps.com/product/fuel-injector-tube-overdrive-valvenergy-guitar-effects-pedal/
+2. VOX Amps USA | Fuel Injector Valve Overdrive Pedal | Shop Now: https://voxampshop.com/products/fuel-injector
+3. catalog/override source: https://reverb.com/item/99502977-vox-valvenergy-fuel-injector-overdrive

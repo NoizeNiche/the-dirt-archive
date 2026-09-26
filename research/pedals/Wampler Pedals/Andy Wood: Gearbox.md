@@ -37,3 +37,22 @@ Channel 1 is inspired by the Tumnus, offering a boost or light overdrive, while 
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Channel 2 (Based on the Pinnacle, one of Brian’s most popular distortion pedals) delivers that legendary “Brown Sound”.
+
+### Verified color/finish evidence
+- Form and function A top-switchable stacking order control, dual inputs and outputs, a unique noise gate, premium quality components, along with a stunning finish, makes Gearbox THE single
+
+### Verified sound evidence
+Junktown was recorded with a prototype of what is now the Wampler Gearbox Andy Wood Signature Overdrive.
+Its versatility allows you to stack it with another pedal to help push or shape the total amount of gain, use it as a stand-alone overdrive, or as a slightly dirty boost to push the front end of your amp over the edge.
+Channel 2 (Based on the Pinnacle, one of Brian’s most popular distortion pedals) delivers that legendary “Brown Sound”.
+
+### Sources checked in this pass
+1. Andy Wood: Gearbox | Wampler Pedals: https://www.wamplerpedals.com/products/distortion-overdrive/andy-wood-gearbox/
+2. Wampler Pedals Andy Wood: Gearbox | AllThePedals: https://allthepedals.com/pedals/wampler-pedals-andy-wood-gearbox

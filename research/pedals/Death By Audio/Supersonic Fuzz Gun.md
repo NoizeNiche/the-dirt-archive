@@ -45,3 +45,25 @@ The controls interact with one another to create a huge array of gated and oscil
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+/ Notify me when this product is available: Notify me when this product is available: Qty Add to cart A TRUE FREAK OF A PEDAL The Supersonic Fuzz Gun is a completely unique take on a fuzz pedal made with the extremes of manipulation in mind.
+
+### Verified sound evidence
+SUPERSONIC FUZZ GUN - Death By Audio RESTOCKED + SHIPPING NOW!
+/ Notify me when this product is available: Notify me when this product is available: Qty Add to cart A TRUE FREAK OF A PEDAL The Supersonic Fuzz Gun is a completely unique take on a fuzz pedal made with the extremes of manipulation in mind.
+The controls interact with one another to create a huge array of gated and oscillating fuzz sounds.
+
+### Sources checked in this pass
+1. SUPERSONIC FUZZ GUN - Death By Audio: https://deathbyaudio.com/products/supersonic-fuzz-gun
+2. Death By Audio Supersonic Fuzz Gun - Reverb: https://reverb.com/p/death-by-audio-supersonic-fuzz-gun
+3. Death By Audio Supersonic Fuzz Gun: https://collarcityguitars.com/products/dba_supersonicfuzzgun
+4. Death By Audio Supersonic Fuzz Gun – BuyOrBorrow Music: https://buyorborrowmusic.com/death-by-audio-supersonic-fuzz-gun/
+5. Death by Audio - Supersonic Fuzz Gun - Sound Beat: https://www.xirosound.com/product/death-by-audio-supersonic-fuzz-gun/
+6. Death by Audio Supersonic Fuzz Gun – Coast Sonic: https://coastsonic.com/products/death-by-audio-supersonic-fuzz-gun
+7. Death By Audio Supersonic Fuzz Gun - instrumentalusa.com: https://www.instrumentalusa.com/product/death-by-audio-supersonic-fuzz-gun/
+8. catalog/override source: https://incognitoguitars.com/product/death-by-audio-supersonic-fuzz-gun/

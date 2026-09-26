@@ -16,3 +16,19 @@
 - **Photo status:** Exact-model source imagery located; no local image promoted in this batch.
 - **Research confidence:** High for controls, switching, identity and broad circuit lineage; low for component-level details.
 - **Sources checked:** https://www.effectsdatabase.com/model/caline/cpxx/cp20 ; https://www.effectsdatabase.com/reviews/caline/cp20 ; https://jollymusic.com.ph/products/caline-cp-20-crazy-cacti-overdrive-boost-pedal
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Caline's CP-20 Crazy Cacti is cataloged as an overdrive pedal.
+
+### Verified sound evidence
+Caline CP-20 Crazy Cacti Overdrive Guitar Effect Pedal True Bypass Guitar Accessories sales in last 180 days: 6 positive feedback: 80% Visible activity: 6 View Just Caline and Overdrive As an affiliate partner, we may earn a small commission when you buy through our links — at no extra cost to you.
+Description We took a look at the Caline CP-20 Crazy Cacti Overdrive Guitar Effect Pedal True Bypass Guitar Accessories by CALINE available for delivery direct.
+CompCut: removes the bounding from the feedback loop allowing for Monster Clean Boost tones and some rougher OD sounds with the OD and Boost knobs turned up.
+
+### Sources checked in this pass
+1. Caline CP-20 Crazy Cacti Overdrive Guitar Effect Pedal True Bypass Guitar Accessories: https://justpedals.co.uk/product/caline-cp-20-crazy-cacti-overdrive-guitar-effect-pedal-true-bypass-guitar-accessories/
+2. Caline CP-20 Crazy Cacti | Effects Database: https://www.effectsdatabase.com/model/caline/cpxx/cp20

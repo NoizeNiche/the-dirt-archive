@@ -39,3 +39,28 @@ With 6 different clipping voices, 5 bandwidth settings and 2 gain channels, you 
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+THIS DEVICE IS NO LONGER IN PRODUCTION Palisades® Mega Ultimate Overdrive The Palisades is something we said we would never do… an overdrive based on the legendary TS808!
+
+### Verified version references
+- The evidence references: V1, V2, v4.
+
+### Verified diode terms
+- LED.
+
+### Verified sound evidence
+Palisades Mega Ultimate Overdrive — EarthQuaker Devices Contact Us Use the form on the right to contact us.
+THIS DEVICE IS NO LONGER IN PRODUCTION Palisades® Mega Ultimate Overdrive The Palisades is something we said we would never do… an overdrive based on the legendary TS808!
+With 6 different clipping voices, 5 bandwidth settings and 2 gain channels, you will be hard-pressed to not find a setting that will wipe every mid-boosting overdrive off your board.
+
+### Sources checked in this pass
+1. Palisades Mega Ultimate Overdrive — EarthQuaker Devices: https://www.earthquakerdevices.com/palisades
+2. EarthQuaker Palisades: The Biggest Tube Screamer Ever: https://guitargangsters.net/rank823-earthquaker-devices-palisades/
+3. EarthQuaker Devices Palisades Mega Ultimate Overdrive Guitar Effects Pedal | Guitar Center: https://www.guitarcenter.com/EarthQuaker-Devices/Palisades-Mega-Ultimate-Overdrive-Guitar-Effects-Pedal-1401720420180.gc
+4. JavaScript is not available.: https://x.com/intent/tweet?url=https%3A%2F%2Fguitargangsters.net%2Frank823-earthquaker-devices-palisades%2F&
+5. Facebook: https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fshare_channel%2F%3Ftype%3Dreshare%26link%3Dhttps%253A%252F%252Fguitargangsters.net%252Frank823-earthquaker-devices-palisades%252F%26app_id%3D966242223397117%26source_surface%3Dexternal_reshare%26display%26hashtag

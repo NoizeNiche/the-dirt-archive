@@ -38,3 +38,23 @@ It offers a unique bass control and a 'Color' control for tone shaping, along wi
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+What Wampler Pedals say about the Belle Overdrive The pedal that inspired this circuit has been around for a long time in various forms but most versions of it have too much of a “Hi Fi” sound about them, they fail to get the right mix of clarity and bass that is needed to make this overdrive sing.
+
+### Verified diode terms
+- led.
+
+### Verified sound evidence
+Brian has added further gain capabilities to this circuit, and added a bass control that controls all the harmonics from smooth and creamy to tight and crunchy.
+The sound this circuit delivers is a firm favorite in Nashville and Brian Wampler’s take is everything you would expect it to be – high quality components, a beautiful enclosure, and a glorious tone.
+If you set the gain low and the bass control up high, you get a wonderful clean boost sound that can rival any Klone circuit, but when you spin the bass down and the gain all the way up, you suddenly find yourself with an awesome transparent overdrive / medium distortion sound with all the crunch you need.
+
+### Sources checked in this pass
+1. Belle Overdrive | Wampler Pedals: https://www.wamplerpedals.com/products/distortion-overdrive/belle/
+2. Wampler Pedals Belle Overdrive | AllThePedals: https://allthepedals.com/pedals/wampler-pedals-belle-overdrive/
+3. Wampler Belle Overdrive Wamplerbelle – SoundUnlimited: https://www.soundunlimited.co.uk/products/wampler-belle-overdrive?msclkid=788ffeeb5dc61befe8ec945d6c03bd23&utm_source=bing&utm_medium=cpc&utm_campaign=MS+%E2%80%94+Bid-Discovery+Learning+%E2%80%94+Search&utm_term=wampler+belle+overdrive&utm_content=Effects

@@ -38,3 +38,27 @@ Functionality Cookies — Shopping cart, language, and regional preferences Pers
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Skreddy Pedals's Pig Mine is cataloged as a fuzz pedal.
+
+### Verified version references
+- The evidence references: MkIII, MkIV, v1, v4.
+
+### Verified transistor/device terms
+- BC239.
+
+### Verified sound evidence
+Not super, over-the-top, crazy-high gain, but walks the fine line between aggressive and laid-back.
+Lay into the notes for that deep, harmonic saturation and violin-like sustain.
+
+### Sources checked in this pass
+1. Big Muff variants | Fuzz | Pig Mine | Skreddy Pedals: https://skreddypedals.com/pig-mine
+2. Skreddy Pedals Pig Mine | Effects Database: https://www.effectsdatabase.com/model/skreddy/pigmine
+3. Facebook: https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fshare_channel%2F%3Ftype%3Dreshare%26link%3Dhttps%253A%252F%252Fskreddypedals.com%252Fpig-mine%26app_id%3D966242223397117%26source_surface%3Dexternal_reshare%26display%26hashtag
+4. JavaScript is not available.: https://x.com/intent/tweet/?text=Pig+Mine+-+https%3A%2F%2Fskreddypedals.com%2Fpig-mine
+5. Pinterest: https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Fskreddypedals.com%2Fpig-mine

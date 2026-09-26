@@ -37,3 +37,20 @@ Inspired by thick and punchy British amp tones, the Copperhead Drive goes beyond
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+The Copperhead Drive valve distortion pedal offers the powerful crunch of British full stack amps in a compact pedal format, powered by Nutube for warm and responsive amp-like tones.
+
+### Verified sound evidence
+The Copperhead Drive valve distortion pedal offers the powerful crunch of British full stack amps in a compact pedal format, powered by Nutube for warm and responsive amp-like tones.
+The all-analog signal path and Nutube allow for genuine overdrive and distortion tones with the feel of a real tube amp, while internally boosted voltage gives greater headroom and dynamics.
+Copperhead Drive Valve Distortion Pedal
+
+### Sources checked in this pass
+1. COPPERHEAD DRIVE - Vox Amps: https://voxamps.com/product/copperhead-drive/
+2. VOX Amps USA | Copperhead Drive Valve Distortion Pedal | Shop Now: https://voxampshop.com/products/vecd
+3. catalog/override source: https://www.gear4music.com/Guitar-and-Bass/Vox-Valvenergy-Copperhead-Drive-Pedal/3989

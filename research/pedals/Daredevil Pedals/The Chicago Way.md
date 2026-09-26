@@ -34,3 +34,13 @@ Daredevil Pedals The Chicago Way Fuzz/Overdrive Pedal &ndash; Chicago Music Exch
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Daredevil Pedals's The Chicago Way is cataloged as an overdrive pedal.
+
+### Sources checked in this pass
+1. Daredevil Pedals The Chicago Way Fuzz/Overdrive Pedal – Chicago Music Exchange: https://www.chicagomusicexchange.com/products/daredevil-pedals-the-chicago-way-fuzzoverdrive-pedal-1982483

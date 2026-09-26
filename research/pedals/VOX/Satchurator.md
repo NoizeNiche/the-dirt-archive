@@ -41,3 +41,33 @@ Satchurator Vox Link Satchurator Type Distortion - Popularity - Average Price - 
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Vox introduced three Satriani signature pedals in 2009: the "JSDS Satchurator" distortion pedal, the "JSDL Time Machine" digital delay pedal and the " JSWH Big Bad Wah ." The "JSOD Ice 9 Overdrive" pedal was added in 2011, named after the second track from Satriani's 1987 "Surfing with the Alien" album.
+
+### Verified color/finish evidence
+- VOX Joe Satriani Satchurator Distortion Guitar Effects Pedal Red Metallic
+
+### Verified version references
+- The evidence references: MK1.
+
+### Verified diode terms
+- germanium diode.
+
+### Verified sound evidence
+The VOX Showroom - Vox Joe Satriani Pedals - Satchurator, Time Machine and Ice 9 Overdrive .....
+Vox introduced three Satriani signature pedals in 2009: the "JSDS Satchurator" distortion pedal, the "JSDL Time Machine" digital delay pedal and the " JSWH Big Bad Wah ." The "JSOD Ice 9 Overdrive" pedal was added in 2011, named after the second track from Satriani's 1987 "Surfing with the Alien" album.
+Satchurator - Prior to his collaboration to design guitar effects with Vox, Joe Satriani was very fond of his vintage Boss DS-1 distortion pedal.
+
+### Sources checked in this pass
+1. The VOX Showroom - Vox Joe Satriani Pedals - Satchurator, Time Machine and Ice 9 Overdrive: https://www.voxshowroom.com/us/misc/satriani.html
+2. Vox Satchurator | Joe Satriani Universe: https://www.joesatrianiuniverse.com/gear/vox-js-pedals/satchurator/
+3. Vox Satchurator review | MusicRadar: https://www.musicradar.com/reviews/guitars/vox-satchurator-172717
+4. VOX Satchurator Distortion Pedal: https://www.buyanalogman.com/VOX_Satchurator_Distortion_Pedal_p/voxsatchurator.htm
+5. Vox Satchurator | AllThePedals: https://allthepedals.com/pedals/vox-satchurator
+6. Satchurator Review: The gain boost and the 'pad' switch is surely a rarity,... | Vox | Guitar Effects | Reviews @ Ultimate-Guitar.Com: https://www.ultimate-guitar.com/reviews/guitar_effects/vox/satchurator/39941
+7. VOX Joe Satriani Satchurator Distortion Guitar Effects Pedal Red Metallic | Musician's Friend: https://www.musiciansfriend.com/amplifiers-effects/vox-joe-satriani-satchurator-distortion-guitar-effects-pedal/482295000047000

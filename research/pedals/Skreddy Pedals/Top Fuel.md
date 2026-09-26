@@ -38,3 +38,30 @@ Functionality Cookies — Shopping cart, language, and regional preferences Pers
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Home Effect Types Fuzz Big Muff variants Top Fuel Top Fuel Distortion with hot mids This is a Big Muff design, but it uses a MOSFET input stage and MOSFET clipping diodes and a tone stack with a prominent midrange boost.
+
+### Verified version references
+- The evidence references: MkIII, MkIV, v1, v4.
+
+### Verified transistor/device terms
+- BC239.
+
+### Verified sound evidence
+Home Effect Types Fuzz Big Muff variants Top Fuel Top Fuel Distortion with hot mids This is a Big Muff design, but it uses a MOSFET input stage and MOSFET clipping diodes and a tone stack with a prominent midrange boost.
+Published on March 24, 2006 Skreddy Pedals distortion pedal Information Skreddy Pedals Balanced Distortion Skreddy Pedals™ Top Fuel strikes a balance between high gain, sustaining distortion and articulation.
+
+### Sources checked in this pass
+1. Big Muff variants | Fuzz | Top Fuel | Skreddy Pedals: https://skreddypedals.com/top-fuel
+2. Skreddy Pedals Top Fuel | Effects Database: https://www.effectsdatabase.com/model/skreddy/topfuel
+3. SKREDDY PEDALS TOP FUEL - #7075331 - su Mercatino Musicale in Pedalini Singoli per Chitarra: https://www.mercatinomusicale.com/mm/a_skreddy-pedals-top-fuel_id7075331.html
+4. Facebook: https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fshare_channel%2F%3Ftype%3Dreshare%26link%3Dhttps%253A%252F%252Fskreddypedals.com%252Ftop-fuel%26app_id%3D966242223397117%26source_surface%3Dexternal_reshare%26display%26hashtag
+5. JavaScript is not available.: https://x.com/intent/tweet/?text=Top+Fuel+-+https%3A%2F%2Fskreddypedals.com%2Ftop-fuel
+6. Pinterest: https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Fskreddypedals.com%2Ftop-fuel
+7. Share on WhatsApp: https://api.whatsapp.com/send?text=Ciao,%20ti%20suggerisco%20questo%20annuncio%20su%20Mercatino%20Musicale%20https%3A%2F%2Fwww%2Emercatinomusicale%2Ecom%2Fmm%2Fa%5Fskreddy%2Dpedals%2Dtop%2Dfuel%5Fid7075331%2Ehtml&body=Ciao,%0D%0Ati%20suggerisco%20questo%20annuncio%20su%20Mercatino%20Musicale:%0D%0A%0D%0ASkreddy%20Pedals%20Top%20Fuel%0D%0Ahttps%3A%2F%2Fwww%2Emercatinomusicale%2Ecom%2Fmm%2Fa%5Fskreddy%2Dpedals%2Dtop%2Dfuel%5Fid7075331%2Ehtml
+8. Telegram: Share Web Page: https://t.me/share/url?text=Ti%20suggerisco%20questo%20annuncio%20su%Mercatino%20Musicale&url=https%3A%2F%2Fwww%2Emercatinomusicale%2Ecom%2Fmm%2Fa%5Fskreddy%2Dpedals%2Dtop%2Dfuel%5Fid7075331%2Ehtml

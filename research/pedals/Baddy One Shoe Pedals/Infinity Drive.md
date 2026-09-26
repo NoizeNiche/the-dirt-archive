@@ -41,3 +41,16 @@ The builder's surviving archive includes both guitar and Jazz Bass recordings of
 ## Photo
 - **Archive status:** **No Photo Archived**
 - A historical image is associated with the surviving Baddy One Shoe archive, but no stable direct image asset was safely confirmed for archival in this pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Baddy One Shoe Pedals's Infinity Drive is cataloged as an overdrive pedal.
+
+### Verified sound evidence
+Baddy One Shoe Pedals Infinity Drive
+
+### Sources checked in this pass
+1. Baddy One Shoe Pedals Infinity Drive | Effects Database: https://www.effectsdatabase.com/model/baddyoneshoe/infinitydrive
