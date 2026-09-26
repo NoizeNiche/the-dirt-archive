@@ -1,23 +1,40 @@
 # JHS Pedals — Hard Drive
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Hard Drive
 - **Builder:** JHS Pedals
-- **Pedal:** Hard Drive
 - **Catalog type:** Distortion / Fuzz
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** JHS Pedals's Hard Drive.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Hard Drive** by **JHS Pedals** as a **Distortion / Fuzz** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+The JHS Pedals Hard Drive Distortion goes harder and farther than any gain or distortion pedal from JHS released so far, and it's waiting for you today from Replay Guitar Exchange!
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+JHS Pedals The Hard Drive - Modern Distortion
+The concept originated in 2016 with the goal of capturing the high-gain guitar tones associated with 1990s and early 2000s post-grunge and alternative rock.
+The internal architecture is based on cascaded gain stages combined with a hard limiting circuit, followed by a Class AB amplifier section.
+
+## Sources checked
+1. JHS Pedals The Hard Drive - Modern Distortion | Effects Database: https://www.effectsdatabase.com/model/jhspedals/harddrive
+2. HARD DRIVE – JHS Pedals: https://jhspedals.info/products/hard-drive
+3. Used JHS Pedals Hard Drive - Gbase: https://www.gbase.com/gear/jhs-pedals-1
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

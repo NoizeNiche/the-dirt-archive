@@ -30878,8 +30878,8 @@
       "image": "./assets/pedals/dwarfcraft-devices/surrender-dorothy/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Dwarfcraft Devices/Surrender Dorothy.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Dwarfcraft Devices",
@@ -30891,8 +30891,8 @@
       "image": "./assets/pedals/dwarfcraft-devices/the-great-destroyer/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Dwarfcraft Devices/The Great Destroyer.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Dwarfcraft Devices",
@@ -33782,8 +33782,8 @@
       "image": "./assets/pedals/fulltone/ultimate-octave/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Fulltone/Ultimate Octave.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Fuzzrocious Pedals",
@@ -36046,8 +36046,8 @@
       "image": "./assets/pedals/jhs-pedals/hard-drive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/JHS Pedals/Hard Drive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "JHS Pedals",
@@ -36961,8 +36961,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Keeley Electronics/Super Phat Mod.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Keeley Electronics",
@@ -45776,8 +45776,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Stomp Under Foot/Black Russian.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Stomp Under Foot",

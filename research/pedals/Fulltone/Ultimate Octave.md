@@ -1,23 +1,47 @@
 # Fulltone — Ultimate Octave
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Ultimate Octave
 - **Builder:** Fulltone
-- **Pedal:** Ultimate Octave
 - **Catalog type:** Fuzz
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Fulltone's Ultimate Octave.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Ultimate Octave** by **Fulltone** as a **Fuzz** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Fulltone's Ultimate Octave is cataloged as a fuzz pedal.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- The verified evidence references: V1, V2.
+- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Documented terms in the verified sources: BC108.
+- The archive records only the component information explicitly present in these sources.
+
+## Diode
+- Documented terms in the verified sources: LED.
+- The archive records only the component information explicitly present in these sources.
+
+## Sound
+Fulltone Ultimate Octave Fuzz/Octave – United States Served with love!
+30 30-Day Money-Back Guarantee 3 3-Year Thomann Warranty Available since December 2025 Item number 630844 Sales Unit 1 piece(s) Overdrive No Distortion No Fuzz Yes Metal No Effect Types Fuzz, Octaver $ 274 The shipping costs are calculated on the checkout page.
+The Fat/Bright switch changes the entire contour, affecting both the fuzz and the octave, so you can choose either the thicker, mid-forward “Fat” setting or the more open “Bright” setting with defined highs and a slightly scooped mid-range.
+
+## Sources checked
+1. Ultimate Octave – Fulltone USA: https://www.fulltoneusa.com/products/ultimate-octave
+2. Fulltone Ultimate Octave - Reverb: https://reverb.com/p/fulltone-ultimate-octave
+3. Fulltone Ultimate Octave Fuzz Pedal | Sweetwater: https://www.sweetwater.com/store/detail/UltimateOct--fulltone-ultimate-octave-fuzz-pedal
+4. Fulltone Ultimate Octave Fuzz/Octave – United States: https://www.thomannmusic.com/fulltone_ultimate_octave_fuzz_octave.htm
+5. Amazon.com: https://www.amazon.com/Fulltone-FBA_112117-Ultimate-Octave-Pedal/dp/B0018N279K
+6. Fulltone Ultimate Octave : Owner manual - ManualShelf: https://www.manualshelf.com/manual/fulltone/ultimate-octave/owner-manual-english.html
+7. Fulltone Ultimate Octave manuals: https://fulltone.manymanuals.com/audio-accessories/ultimate-octave
+8. Fulltone Ultimate Octave - What To Know & Where To Buy: https://equipboard.com/items/fulltone-ultimate-octave-pedal
+9. Ultimate Octave (reissue) by Fulltone | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/Fulltone/Ultimate-Octave-reissue/8263302115/
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

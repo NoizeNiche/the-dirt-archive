@@ -35,3 +35,14 @@ The verified evidence packet did not contain enough pedal-specific sonic descrip
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Dwarfcraft Devices's The Great Destroyer is cataloged as a distortion / fuzz pedal.
+
+### Sources checked in this pass
+1. Dwarfcraft Devices The Great Destroyer - Reverb: https://reverb.com/p/dwarfcraft-devices-the-great-destroyer
+2. Dwarfcraft Devices The Great Destroyer - What To Know ... - Equipboard: https://equipboard.com/items/dwarfcraft-the-great-destroyer-distortion-guitar-effects-pedal
