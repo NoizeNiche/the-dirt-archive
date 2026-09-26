@@ -45,3 +45,33 @@ The resulting circuit is an insane yet versatile beast, empowering you to easily
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+/ Notify me when this product is available: Notify me when this product is available: Qty Add to cart CLANG THE WAY IT'S MEANT TO BE The highly coveted Octave Clang has made a triumphant return to Death By Audio's workshop.
+
+### Verified color/finish evidence
+- Controls Bypass (Left Footswitch) Turns the Octave Clang on and off (red LED) Octave (Right Footswitch) Toggles the Octave Up mode (yellow LED).
+
+### Verified version references
+- The evidence references: MKII, V2, v2.
+
+### Verified diode terms
+- LED.
+
+### Verified sound evidence
+The resulting circuit is an insane yet versatile beast, empowering you to easily sculpt discordant ringing drones, visceral octave scrapes, and ground-shaking distortion.
+The Octave Clang’s special octave transformer works to deliver a unique blend of octave-up fuzz and “clangorous” tones.
+For those who like to tweak, the Octave Clang offers a bias knob on the inside, giving you the power to fine-tune the pedal's response for even more tonal possibilities.
+
+### Sources checked in this pass
+1. OCTAVE CLANG - Death By Audio: https://deathbyaudio.com/products/octave-clang
+2. Amazon.com: Death by Audio Octave Clang V2 Fuzz Pedal : Musical Instruments: https://www.amazon.com/Death-Audio-Octave-Clang-Pedal/dp/B0CZ1QPWMM
+3. Death By Audio Octave Clang - What To Know Where To Buy: https://equipboard.com/items/death-by-audio-octave-clang
+4. Death by Audio OCTAVE CLANG V2 (Death by Audio Octave | Reverb: https://reverb.com/item/92903293-death-by-audio-octave-clang-v2-death-by-audio-octave-distortion
+5. Death By Audio resurrects the Octave Clang, with the new and improved V2 offering “discordant ringing drones, visceral octave scrapes, and ground-shaking distortion” | MusicRadar: https://www.musicradar.com/news/death-by-audio-releases-octave-clang-v2
+6. Death By Audio Octave Clang v2 - Pedal of the Day: https://www.pedal-of-the-day.com/2024/03/05/death-by-audio-octave-clang-v2/
+7. Death By Audio Octave Clang V2 Review - Premier Guitar: https://www.premierguitar.com/gear/reviews/death-by-audio-octave-clang-v2

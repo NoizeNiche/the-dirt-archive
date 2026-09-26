@@ -35,3 +35,14 @@ The verified evidence packet did not contain enough pedal-specific sonic descrip
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Crock's DS-2 Distortion is cataloged as a distortion pedal.
+
+### Sources checked in this pass
+1. Crock DS-2 Distortion 1990 soviet vintage guitar pedl FX, | Reverb: https://reverb.com/item/66676647-crock-ds-2-distortion-1990-soviet-vintage-guitar-pedl-fx-rare-lell-elektronika
+2. Crock DS-2 Distortion - Effects Database: https://www.effectsdatabase.com/model/crock/ds2

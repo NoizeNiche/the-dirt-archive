@@ -40,3 +40,24 @@ Not only can you create unearthly overdrive and fuzz sounds by routing the first
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Death By Audio's Interstellar Overdriver Deluxe is cataloged as an overdrive pedal.
+
+### Verified color/finish evidence
+- Death by Audio Interstellar Overdriver Deluxe Dual Overdrive Noise Effects Pedal Black and Gold
+
+### Verified sound evidence
+Death by Audio Interstellar Overdriver Deluxe Dual Overdrive Noise Effects Pedal Black and Gold
+Not only can you create unearthly overdrive and fuzz sounds by routing the first channel into the second, but there are 5 additional options on the second channel to give you a huge range of wild, filtered, modulated, and blasted out overdrive / fuzz tones.
+A pleasant boost, a squealing lead, a chopped out glitch, a jet rocket lift-off; this is the pedal to blast your sound into the cosmos!
+
+### Sources checked in this pass
+1. Death By Audio Interstellar Overdriver Deluxe - Reverb: https://reverb.com/p/death-by-audio-interstellar-overdriver-deluxe
+2. Death By Audio Interstellar Overdriver Deluxe - Equipboard: https://equipboard.com/items/death-by-audio-interstellar-overdriver-deluxe
+3. Death by Audio Interstellar Overdriver Deluxe Dual Overdrive Noise Effects Pedal Black and Gold | Guitar Center: https://www.guitarcenter.com/Death-By-Audio/Interstellar-Overdriver-Deluxe-Dual-Overdrive-Noise-Effects-Pedal-Black-and-Gold-1500000357337.gc
+4. Death By Audio Interstellar Overdriver Deluxe: https://aifineguitars.com/products/death-by-audio-interstellar-overdriver-deluxe

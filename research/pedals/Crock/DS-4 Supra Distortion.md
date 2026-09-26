@@ -35,3 +35,13 @@ This site contains affiliate links for which I may be compensated Crock DS-4 Sup
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Crock's DS-4 Supra Distortion is cataloged as a distortion pedal.
+
+### Sources checked in this pass
+1. Crock DS-4 Supra Distortion | Effects Database: https://www.effectsdatabase.com/model/crock/ds4

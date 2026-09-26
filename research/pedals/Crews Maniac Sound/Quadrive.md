@@ -51,3 +51,14 @@ Quadrive is voiced as a relatively natural, amplifier-like overdrive with a larg
 ## Photo
 - **Archive status:** No local photo archived in this research pass.
 - **Exact-model visual references checked:** Crews/Hoochie's product coverage and Quadrive-specific references.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Crews Maniac Sound's Quadrive is cataloged as an overdrive pedal.
+
+### Sources checked in this pass
+1. Crews Maniac Sound Quadrive Overdrive Pedal – Topshelf Instruments Apple Pay Bancontact Mastercard PayPal Shop Pay Union Pay Visa: https://topshelfinstruments.com.au/products/crews-maniac-sound-quadrive-overdrive-pedal
+2. Crews Maniac Sound QUADRIVE: https://hoochiesblog.blogspot.com/2011/10/crews-maniac-sound-quadrive.html

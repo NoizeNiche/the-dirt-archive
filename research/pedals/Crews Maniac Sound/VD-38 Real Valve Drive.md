@@ -44,3 +44,18 @@ VD-38 is designed around a tube-driven, amplifier-like overdrive character rathe
 ## Photo
 - **Archive status:** No local photo archived in this research pass.
 - **Exact-model visual reference checked:** Effects Database VD-38 page and linked Crews product material.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Crews Maniac Sound's VD-38 Real Valve Drive is cataloged as an overdrive pedal.
+
+### Verified sound evidence
+Yahoo!オークションで探す 『Crews Maniac Sound VD-38 Real Valve Drive』はYahoo!オークション(旧ヤフオク!)でbq-mXMer1QBwOKから出品され、11の入札を集めて9月 30日 19時 16分に落札されました。決済方法はYahoo!かんたん決済、銀行振込に対応。大分県からの発送料は落札者が負担しました。ＰＲオプションはYahoo!かんたん決済でした。 この商品をお気に入りに登録 同じ商品を出品する
+オークション落札商品 Crews Maniac Sound VD-38 Real Valve Driveの入札履歴 - すべての入札履歴 入札者の順位 すべての入札履歴 落札後に一定期間以上経過した商品の落札履歴は表示されません。 今買える商品を探す 落札価格 円 初月無料登録で価格表示
+
+### Sources checked in this pass
+1. Crews Maniac Sound VD-38 Real Valve Drive(マルチエフェクター)｜売買されたオークション情報、yahooの商品情報をアーカイブ公開 - オークファン（aucfan.com）: https://aucview.aucfan.com/yahoo/h168340316/
+2. Crews Maniac Sound VD-38 Real Valve Driveの入札履歴 - すべての入札履歴: https://history.aucfan.com/yahoo/h168340316/bidlist/

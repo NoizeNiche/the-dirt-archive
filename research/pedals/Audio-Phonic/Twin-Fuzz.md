@@ -41,3 +41,13 @@ The pedal is documented as a fuzz, and later commentary suggests a Japanese Supe
 - **Archive status:** **No Photo Archived**
 - **Exact-model reference checked:** https://www.effectsdatabase.com/model/audiophonic/twinfuzz
 - **Archive note:** Exact-model archival images exist in external sources, but no stable archive image asset is being promoted in this pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Audio-Phonic's Twin-Fuzz is cataloged as a fuzz pedal.
+
+### Sources checked in this pass
+1. Audio-Phonic Twin-Fuzz | Effects Database: https://www.effectsdatabase.com/model/audiophonic/twinfuzz

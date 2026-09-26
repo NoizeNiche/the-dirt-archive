@@ -45,3 +45,21 @@ Texas Tornado combines familiar mid-focused overdrive behavior with a wider gain
 ## Photo
 - **Archive status:** No local photo archived in this research pass.
 - **Exact-model visual references checked:** Topshelf Instruments archived listing and exact-model Reverb reference.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Crews Maniac Sound's Texas Tornado is cataloged as an overdrive pedal.
+
+### Verified sound evidence
+Crews do exceptional drive pedals, and this is one of their earlier examples.
+This one is approximately Tubescreamer voiced, but with a heap more gain range.
+The tone control is different too, winding from a super honky midrange hump on the left to a mid-scooped tone on the right that would make Chester proud.
+
+### Sources checked in this pass
+1. Crews Maniac Sound Texas Tornado | Effects Database: https://www.effectsdatabase.com/model/crews/texastornado
+2. Crews Maniac Sound Texas Tornado Overdrive Pedal | pedals: drive: https://www.enmmusic.com/product/crews-maniac-sound-texas-tornado-overdrive-pedal/
+3. ソリッドステーション ～ギターアンプ逆行進化論～:Crews maniac Sound TEXAS TORNADO - High Power MOD -: https://solidstation.livedoor.blog/archives/4282159.html
+4. Crews Maniac Sound Texas Tornado Overdrive Pedal | Topshelf Instruments: https://gettopshelfinstruments.shop/products/crews-maniac-sound-texas-tornado-overdrive-pedal

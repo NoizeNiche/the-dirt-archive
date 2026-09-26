@@ -5094,8 +5094,8 @@
       "image_source_page_verified": true,
       "image_source_priority": 358,
       "image_source_url": "https://upload-os-bbs.hoyolab.com/upload/2022/08/22/11424699/210b0082f66875297c0b00a9fc770f21_5633321273991244528.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Audio! Audio!",
@@ -9515,8 +9515,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_url": "https://bigknobpedals.com/wp-content/uploads/2020/06/ZED-27.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Big Lloyde",
@@ -9550,8 +9550,8 @@
       "research_record": "./research/pedals/PRP Batch 085/Phat Axx.md",
       "image_source_url": "https://www.vintageandrare.com/uploads/products/88311/8411370/original.jpg",
       "image_source_page": "https://www.vintageandrare.com/product/Big-2011-Lloyde-Phat-AXX-Overdrive-Standard-Enclosure-2011-88311",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Big Monk Electronic Device Co.",
@@ -9591,8 +9591,8 @@
       "research_record": "./research/pedals/PRP Batch 085/The Pompeii.md",
       "image_source_url": "https://images.squarespace-cdn.com/content/v1/57e4258303596e09f4b8a058/1710799327388-U2I6P0VB9KRYGB3K6L3G/IMG_8506.jpg",
       "image_source_page": "https://www.tinkercitymusic.com/gearheads/2024/3/18/big-monk-devices-the-pompeii-a-modern-fuzz-face",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Big Tone Music Brewery",
@@ -27206,8 +27206,8 @@
       "image": "./assets/pedals/crews-maniac-sound/quadrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Crews Maniac Sound/Quadrive.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Crews Maniac Sound",
@@ -27244,8 +27244,8 @@
       "image": "./assets/pedals/crews-maniac-sound/texas-tornado/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Crews Maniac Sound/Texas Tornado.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Crews Maniac Sound",
@@ -27268,8 +27268,8 @@
       "image": "./assets/pedals/crews-maniac-sound/vd-38-real-valve-drive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Crews Maniac Sound/VD-38 Real Valve Drive.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Crimsontone",
@@ -27293,8 +27293,8 @@
       "image": "./assets/pedals/crimsontone/rosso-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Crimsontone/Rosso Fuzz.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Critically Overdriven",
@@ -27405,8 +27405,8 @@
       "image": "./assets/pedals/crock/ds-2-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Crock/DS-2 Distortion.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Crock",
@@ -27417,8 +27417,8 @@
       "image": "./assets/pedals/crock/ds-4-supra-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Crock/DS-4 Supra Distortion.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Crock",
@@ -29322,8 +29322,8 @@
       "image": "./assets/pedals/death-by-audio/interstellar-overdriver-deluxe/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Death By Audio/Interstellar Overdriver Deluxe.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Death By Audio",
@@ -29336,8 +29336,8 @@
       "image": "./assets/pedals/death-by-audio/octave-clang/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Death By Audio/Octave Clang.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Death By Audio",
@@ -33208,8 +33208,8 @@
       "image": "./assets/pedals/foxgear/cream/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Foxgear/Cream.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Foxgear",
@@ -33221,8 +33221,8 @@
       "image": "./assets/pedals/foxgear/fenix/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Foxgear/Fenix.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Foxgear",
@@ -38766,8 +38766,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/MadeByMike/Ultralord.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Marshall Amplification",
@@ -43370,8 +43370,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Outlaw Effects/The General Germanium Fuzz.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Outlaw Effects",

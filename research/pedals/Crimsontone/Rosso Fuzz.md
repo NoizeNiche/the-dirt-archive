@@ -45,3 +45,19 @@ Rosso is designed to remain usable as an overdrive when the Gain is reduced, the
 ## Photo
 - **Archive status:** No local photo archived in this research pass.
 - **Exact-model visual references checked:** Effects Database Rosso page and Rosso-specific review imagery.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Using 3-stage gain circuitry, the Rosso Fuzz is a small but looming powerhouse of a fuzz, with excellent tones, a great EQ section and a bunch of different dirt sounds to choose from.
+
+### Verified sound evidence
+Posted By Pedal of the Day on Friday, November 13, 2015 in Crimsontone, Fuzz
+Well, my assumptions were all confirmed the minute I sat down and plugged in the Rosso Fuzz, the first of two pedals that arrived that day.
+The Rosso is a silicon-based fuzz pedal, that can be used doubly as an overdrive, too.
+
+### Sources checked in this pass
+1. Crimsontone Rosso Fuzz - Pedal of the Day: https://www.pedal-of-the-day.com/2015/11/13/crimsontone-rosso-fuzz/
+2. …and finally, we have the Rosso Fuzz. All four pedals are available now in the store. Full demos are up on our YouTube page. #fuzzpedal #overdrivepedal #crimsontone #knowyourtone #gearlife #gearpage #premierguitar #vintageguitar #1590B #compactpedals #geartalk #geartalkpnw | Crimsontone Amplifiers: https://www.facebook.com/crimsontone/videos/and-finally-we-have-the-rosso-fuzz-all-four-pedals-are-available-now-in-the-stor/854875744544633/

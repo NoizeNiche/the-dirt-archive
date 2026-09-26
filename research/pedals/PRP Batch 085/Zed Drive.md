@@ -9,3 +9,20 @@ Big Knob's boutique overdrive based on the Hermida Zen Drive. A surviving Reverb
 
 ## Archive photo
 - **Archive status:** **No Photo Archived**
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Big Knob Pedals's Zed Drive is cataloged as an overdrive pedal.
+
+### Verified diode terms
+- LED.
+
+### Verified sound evidence
+Four knobs control the overall volume, gain, tone and voicing.
+While not a high-gain pedal, the Zed packs some major mojo that can make even inexpensive solid-state amps sound like expensive boutique models.
+
+### Sources checked in this pass
+1. Zed Drive – Big Knob Pedals: https://bigknobpedals.com/product/zed-drive/
