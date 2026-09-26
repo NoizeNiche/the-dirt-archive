@@ -3966,8 +3966,8 @@
       "research_record": "./research/pedals/Anasounds/sandman.md",
       "image_source_url": "https://anasounds.com/wp-content/uploads/2023/05/Anasounds_sandman_2.jpg",
       "image_source_page": "https://anasounds.com/categorie-produit/anasounds-pedals/",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Anasounds",
