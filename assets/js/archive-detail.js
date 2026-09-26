@@ -203,15 +203,9 @@ function renderCatalogBaseline(item){
     : '<span>Not recorded in catalog</span>';
   $('research').innerHTML=
     '<div class="catalogBaseline">'+
-      '<p><strong>Catalog baseline</strong></p>'+
-      '<p>'+esc(item.company)+' · '+esc(item.pedal)+'</p>'+
-      '<dl>'+
-        '<dt>Dirt type</dt><dd>'+esc(typeLabel)+'</dd>'+
-        '<dt>Research status</dt><dd>Verified research pending</dd>'+
-        '<dt>Photo status</dt><dd>'+esc(hasLocalPhoto?'Local archive photo present':'No verified local archive photo yet')+'</dd>'+
-        '<dt>Catalog source</dt><dd>'+sourceHtml+'</dd>'+
-      '</dl>'+
-      '<p>Deeper pedal research is added in subsequent verified passes. No undocumented specifications are inferred into this baseline.</p>'+
+      '<p><strong>Catalog entry</strong></p>'+
+      '<p><strong>'+esc(item.pedal)+'</strong> is cataloged as a '+esc(typeLabel)+' pedal by '+esc(item.company)+'.</p>'+
+      '<p>Pedal information is being expanded as the archive grows. Undocumented specifications are not inferred.</p>'+
     '</div>';
 }
 
@@ -291,19 +285,6 @@ loadCatalog()
   $('crumb').textContent=(item.types||[]).join(' · ')+' · '+item.company;
   $('name').textContent=item.pedal;
   $('builder').textContent=item.company;
-
-  const researchStatus=$('researchStatus');
-  if(researchStatus){
-    const level=String(item.research_level||'').trim().toLowerCase();
-    const labels={
-      surface:'Surface record · deeper research pending',
-      researched:'Research record on file · deeper verification pending',
-      deep:'Deep research verified'
-    };
-    researchStatus.textContent=labels[level]||'Catalog record';
-    researchStatus.dataset.level=level||'catalog';
-    researchStatus.hidden=false;
-  }
 
   $('types').innerHTML=(item.types||[]).map(t=>'<span class="chip">'+esc(t)+'</span>').join('');
   showPhoto(item);
