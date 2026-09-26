@@ -38,3 +38,17 @@ Deadwoods is designed around a hard-edged square-wave texture that pushes fuzz t
 
 ## Sources checked
 1. Anarchy Audio — Deadwoods: https://anarchyaudioaustralia.com/effects/deadwoods-2/
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Anarchy Audio Australia's Deadwoods - Chainsaw Fuzz is cataloged as a fuzz pedal.
+
+### Verified sound evidence
+Anarchy Audio Australia Deadwoods - Chainsaw Fuzz
+The result is a nasty, chainsaw square wave fuzz with an active EQ section, capable of boosting and pummelling your gain stage into a pulp.
+
+### Sources checked in this pass
+1. Anarchy Audio Australia Deadwoods - Chainsaw Fuzz | Effects Database: https://www.effectsdatabase.com/model/anarchyaudio/deadwoods

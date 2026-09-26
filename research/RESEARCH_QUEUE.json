@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-26T16:49:43.265949+00:00",
+  "generated_at": "2026-09-26T16:52:05.290758+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,8 +10,8 @@
     "pictured": 2866,
     "complete": 2866,
     "research_pending": 0,
-    "deep_research_pending": 2339,
-    "deep_researched": 1422,
+    "deep_research_pending": 2334,
+    "deep_researched": 1427,
     "surface_ready": 3761
   },
   "next_target": {
@@ -41,41 +41,6 @@
       "pedal": "Scream For Cream OD",
       "catalog_type": "",
       "research_record": "./research/pedals/Analog Sound/Scream For Cream OD.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Anarchy Audio Australia",
-      "pedal": "Baa Bzz",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Anarchy Audio Australia/Baa Bzz.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Anarchy Audio Australia",
-      "pedal": "Deadwoods - Chainsaw Fuzz",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Anarchy Audio Australia/Deadwoods - Chainsaw Fuzz.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Anarchy Audio Australia",
-      "pedal": "Sentinel",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Anarchy Audio Australia/Sentinel.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Anasounds",
-      "pedal": "bitoun fuzz",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Anasounds/bitoun fuzz.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Anasounds",
-      "pedal": "cerberus",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Anasounds/cerberus.md",
       "research_level": "surface"
     },
     {
@@ -195,6 +160,41 @@
       "pedal": "Major Overdrive",
       "catalog_type": "",
       "research_record": "./research/pedals/Animals Pedal/Major Overdrive.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Animals Pedal",
+      "pedal": "PUSH & PULL DISTORTION",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 056/PUSH & PULL DISTORTION.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Animals Pedal",
+      "pedal": "PUSH & PULL DISTORTION LIMITED EDITION",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 056/PUSH & PULL DISTORTION LIMITED EDITION.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Animals Pedal",
+      "pedal": "PUSH & PULL DISTORTION LIMITED EDITION C",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 056/PUSH & PULL DISTORTION LIMITED EDITION C.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Animals Pedal",
+      "pedal": "Rover Fuzz",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 057/Rover Fuzz.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Animals Pedal",
+      "pedal": "Rust Rod Fuzz",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 057/Rust Rod Fuzz.md",
       "research_level": "surface"
     }
   ]

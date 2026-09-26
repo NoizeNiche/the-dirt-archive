@@ -37,3 +37,21 @@ The surviving catalog identifies Cerberus as an Anasounds overdrive, but the ava
 
 ## Sources checked
 1. Anasounds — products: https://anasounds.com/products/
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+cerberus is versatile As we all know, you change your overdrive like you change your shirt, so why not put everything in one small pedal?
+
+### Verified version references
+- The evidence references: mk3.
+
+### Verified sound evidence
+cerberus is versatile As we all know, you change your overdrive like you change your shirt, so why not put everything in one small pedal?
+Very transparent overdrive that keeps all the quality of your clear sound while finding the desired saturated harmonics.
+Inside, a potentiometer permits you to completely transform your overdrive from a very transparent sound to a warm distortion!
+
+### Sources checked in this pass
+1. cerberus | Anasounds: https://anasounds.com/products/origins-pedals/cerberus/

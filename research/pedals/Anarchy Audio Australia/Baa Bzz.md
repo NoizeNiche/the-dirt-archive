@@ -43,3 +43,20 @@ Baa Bzz is a high-gain fuzz with long sustain, spanning thick woolly fuzz throug
 1. Effects Database — Baa Bzz: https://www.effectsdatabase.com/model/anarchyaudio/baabzz
 2. Anarchy Audio — official site: https://anarchyaudioaustralia.com/
 3. The Rock Inn — Baa Bzz: https://therockinn.com/products/anarchy-audio-baa-bzz-fuzz-pedal
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+The Baa Bzz by Anarchy Audio is a re-creation and modern interpretation of the Fuzz tones, found within the highly sought after vintage Roland Bee Baa.
+
+### Verified sound evidence
+The Baa Bzz by Anarchy Audio is a re-creation and modern interpretation of the Fuzz tones, found within the highly sought after vintage Roland Bee Baa.
+Fuzzy Bees - Anarchy Audio BaaBzz Fuzz 13:36 2019-11-25 Anarchy Audio Australia Anarchy Audio Baa Bzz Fuzz 2:14 2019-03-27 Anarchy Audio Australia 50 shades of BUZZ The Baa Bzz Story by Anarchy Audio 12:31 2018-03-01 Anarchy Audio Australia Baa Bzz Anarchy Audio SUPERFREAK Session feat.
+Leon Todd 1:17 2015-07-31 digimartnet Anarchy Audio / Baa Bzz (Fuzz)【デジマート製品レビュー】 6:03 2015-07-05 Anarchy Audio Australia For the Mogwai fans...the BaaBzz on the most mid scooped setting...pretty much "Rano Pano" in a box.
+
+### Sources checked in this pass
+1. catalog/override source: https://reverb.com/item/2568948-anarchy-audio-baa-bzz-fuzz-pedal-roland-bee-baa-inspired-fuzz
+2. Anarchy Audio Baa Bzz Fuzz Pedal | The Rock Inn: https://therockinn.com/products/anarchy-audio-baa-bzz-fuzz-pedal
+3. Anarchy Audio Australia Baa Bzz | Effects Database: https://www.effectsdatabase.com/model/anarchyaudio/baabzz

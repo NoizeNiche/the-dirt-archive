@@ -39,3 +39,25 @@ The pedal combines the fat, articulate character of Anasounds' Feed Me with a Su
 ## Sources checked
 1. Anasounds — Origins pedals: https://anasounds.com/products/origins-pedals/
 2. Anasounds — Feed Me: https://anasounds.com/products/origins-pedals/feed-me/
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Bitoun Fuzz demo by Julien Bitoun Julien is playing a Fender Custom Shop Jazzmaster through a Sarge Analog Outfitters amp for the demo.
+
+### Verified version references
+- The evidence references: mk3.
+
+### Verified diode terms
+- Led.
+
+### Verified sound evidence
+It was developed with the musician and journalist Julien Bitoun , a Fuzz connoisseur, who wanted something special.
+And something special they created with this Bitoun Fuzz.
+It is in fact a double fuzz as it hosts two of them inside!
+
+### Sources checked in this pass
+1. Anasounds new pedal: the Bitoun Fuzz, a double Fuzz machine - The Guitar Channel: https://theguitarchannel.biz/2016/10/anasounds-new-pedal-bitoun-fuzz-double-fuzz-machine/
+2. bitoun fuzz | Anasounds: https://anasounds.com/products/origins-pedals/bitoun-fuzz/
