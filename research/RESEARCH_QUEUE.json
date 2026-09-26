@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-26T03:08:42.691985+00:00",
+  "generated_at": "2026-09-26T03:13:23.223Z",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,46 +10,18 @@
     "pictured": 2540,
     "complete": 2540,
     "research_pending": 0,
-    "deep_research_pending": 3386,
-    "deep_researched": 375,
+    "deep_research_pending": 3382,
+    "deep_researched": 379,
     "surface_ready": 3761
   },
   "next_target": {
-    "builder": "Alber",
-    "pedal": "GA-1040P Gain",
+    "builder": "Alcove",
+    "pedal": "ALP-200 Overdrive",
     "catalog_type": "",
-    "research_record": "./research/pedals/Alber/GA-1040P Gain.md",
+    "research_record": "./research/pedals/Alcove/ALP-200 Overdrive.md",
     "research_level": "surface"
   },
   "working_set": [
-    {
-      "builder": "Alber",
-      "pedal": "GA-1040P Gain",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Alber/GA-1040P Gain.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Alber",
-      "pedal": "OD-600 Over Drive",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Alber/OD-600 Over Drive.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Alber",
-      "pedal": "OD-600P Over Drive",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Alber/OD-600P Over Drive.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Alber",
-      "pedal": "OD-610 Over Drive",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Alber/OD-610 Over Drive.md",
-      "research_level": "surface"
-    },
     {
       "builder": "Alcove",
       "pedal": "ALP-200 Overdrive",
@@ -195,6 +167,34 @@
       "pedal": "Origami Overdrive",
       "catalog_type": "",
       "research_record": "./research/pedals/PRP Batch 047/Origami Overdrive.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Alien Rabbit",
+      "pedal": "Magic Drive",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 047/Magic Drive.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "All-Pedal",
+      "pedal": "Alcmene Overdrive",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 047/Alcmene Overdrive.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "All-Pedal",
+      "pedal": "Devil's Triad Essentials",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 047/Devil's Triad Essentials.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "All-Pedal",
+      "pedal": "Slamurai Bushido Drive",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 047/Slamurai Bushido Drive.md",
       "research_level": "surface"
     }
   ]
