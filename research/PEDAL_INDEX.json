@@ -3678,8 +3678,8 @@
       "research_record": "./research/pedals/Analog Noir/Tone Bender MK1.5 - Tone Bender MKII.md",
       "image_source_url": "https://images.squarespace-cdn.com/content/v1/63866ae37fa424183230cef5/fc007d4a-3970-4fe2-906e-da2ebb4c942a/IMG_8070.jpg",
       "image_source_page": "https://www.analognoirelectric.com/kits/p/byo-mk1-tone-bender",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Analog Noir",
