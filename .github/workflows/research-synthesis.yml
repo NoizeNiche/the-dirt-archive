@@ -32,6 +32,7 @@ jobs:
           python scripts/sync-prp-tracker.py
           python scripts/sync-photo-backlog.py
           python scripts/build-research-queue.py
+          python scripts/build-pedal-facets.py
           python scripts/validate-archive.py
 
       - name: Publish canonical research records
@@ -62,6 +63,7 @@ jobs:
             python scripts/sync-prp-tracker.py
             python scripts/sync-photo-backlog.py
             python scripts/build-research-queue.py
+            python scripts/build-pedal-facets.py
             python scripts/validate-archive.py
             git add research/pedals research/PEDAL_INDEX.json research/pedals/PEDAL_IMAGES.json research/PRP_TRACKER.csv research/PHOTO_BACKLOG.csv research/RESEARCH_QUEUE.json CURRENT_STATE.md
             if git diff --cached --quiet; then
