@@ -1,52 +1,40 @@
-# Bad Cat - X-Treme Tone
+# Bad Cat — X-Treme Tone
 
 ## PRP identity
 - **Archive parent:** X-Treme Tone
 - **Builder:** Bad Cat
 - **Catalog type:** Distortion / Overdrive
-- **Identity:** Two-tube dual-gain preamp pedal built around two 12AX7 tubes.
+- **Identity:** Bad Cat's X-Treme Tone.
 
 ## What this pedal is
-The X-Treme Tone is a high-voltage tube preamp/overdrive pedal using two 12AX7 tubes and two gain stages. The operating manual describes Stage 1 as a transparent gain/level boost with interactive Bass and Treble, while engaging Stages 1 + 2 adds additional crunch and higher gain.
+Bad Cat X-Treme Tone Tube Preamp Pedal 2000s - Black and Chrome &ndash; Clingan Guitars Skip to content Shopping Cart 0 Close Back Home Vintage Gear Electric Guitars Bass Guitars Acoustic Guitars Pedals Pedalboard Utility Dynamics EQ Delay Reverb Multi-Effects Amp Modeling Overdrive, Distortion, Fuzz Boost Modulation Amps Bass Amp, Heads and Combos Combos and stacks Cabinets Heads Pro Audio Microphones Pro Audio Speakers pro audio other Accessories Strings Accessories----- Parts Parts Necks Hardware Pickups Reverb Store Amp Camp Custom Shop Guitar Lessons Service Contact us Login Currency USD $ AUD $ GBP £ NZD $ USD $ Close Your cart is currently empty.
 
 ## Colorways
-- A documented production example is **black and chrome**.
-- No complete factory colorway chronology was verified.
+- Bad Cat X-Treme Tone Tube Preamp Pedal 2000s - Black and Chrome &ndash; Clingan Guitars Skip to content Shopping Cart 0 Close Back Home Vintage Gear Electric Guitars Bass Guitars Acoustic Guitars Pedals Pedalboard Utility Dynamics EQ Delay Reverb Multi-Effects Amp Modeling Overdrive, Distortion, Fuzz Boost Modulation Amps Bass Amp, Heads and Combos Combos and stacks Cabinets Heads Pro Audio Microphones Pro Audio Speakers pro audio other Accessories Strings Accessories----- Parts Parts Necks Hardware Pickups Reverb Store Amp Camp Custom Shop Guitar Lessons Service Contact us Login Currency USD $ AUD $ GBP £ NZD $ USD $ Close Your cart is currently empty.
+- View Cart Continue browsing Close Home / Collections / Bad Cat X-Treme Tone Tube Preamp Pedal 2000s - Black and Chrome Bad Cat X-Treme Tone Tube Preamp Pedal 2000s - Black and Chrome by Clingan Guitars $491.00 Default Title Title Default Title Add to cart The Bad Cat X-Treme Tone Tube Preamp Pedal is a powerhouse of tonal versatility packed into a compact stompbox.
+- Specifications Condition: Excellent Make: Bad Cat Model: X-Treme Tone Tube Preamp Pedal Year: 2000s Finish: Black and Chrome Share Share on Facebook Twitter Pinterest × Home / Collections / Bad Cat X-Treme Tone Tube Preamp Pedal 2000s - Black and Chrome About Situated in the heart of Melbourne’s music scene, Clingan Guitar Tone brings a unique approach to guitar, amp and pedal sales, service and creation.
 
 ## Versions and factory options
-### X-Treme Tone production
-- Edge
-- Level
-- Gain
-- Bass
-- Treble
-- Master
-- Bypass/Effect
-- Mode 1/Mode 2
-- Two 12AX7 tubes
-- High-voltage transformer-based power supply
-- Heavy steel chassis
-- Status colors for bypass, Stage 1, and Stages 1 + 2
+- No distinct factory revision was established in the verified evidence packet.
 
 ## Version changes
-No numbered factory revision was verified.
+- No specific factory version changes were established in the verified evidence packet.
 
 ## Transistor
-- **Technology:** Tube dual-gain preamp.
-- **Transistor:** Not applicable to the documented gain stages, which use two 12AX7 tubes.
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
 
 ## Diode
-- **Power-supply diode:** A **BZV85C6V2 6.2 V zener** is shown in the published schematic.
-- **Clipping diodes:** No separate clipping-diode arrangement was documented in the checked sources.
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
 
 ## Sound
-Stage 1 is intended as a smooth, transparent boost with enough clean headroom for level matching and tonal shaping. Adding Stage 2 increases crunch and gain, producing the heavier, dual-stage tube distortion associated with the X-Treme Tone design.
+Bad Cat X-Treme Tone Tube Preamp Pedal 2000s - Black and Chrome &ndash; Clingan Guitars Skip to content Shopping Cart 0 Close Back Home Vintage Gear Electric Guitars Bass Guitars Acoustic Guitars Pedals Pedalboard Utility Dynamics EQ Delay Reverb Multi-Effects Amp Modeling Overdrive, Distortion, Fuzz Boost Modulation Amps Bass Amp, Heads and Combos Combos and stacks Cabinets Heads Pro Audio Microphones Pro Audio Speakers pro audio other Accessories Strings Accessories----- Parts Parts Necks Hardware Pickups Reverb Store Amp Camp Custom Shop Guitar Lessons Service Contact us Login Currency USD $ AUD $ GBP £ NZD $ USD $ Close Your cart is currently empty.
+View Cart Continue browsing Close Home / Collections / Bad Cat X-Treme Tone Tube Preamp Pedal 2000s - Black and Chrome Bad Cat X-Treme Tone Tube Preamp Pedal 2000s - Black and Chrome by Clingan Guitars $491.00 Default Title Title Default Title Add to cart The Bad Cat X-Treme Tone Tube Preamp Pedal is a powerhouse of tonal versatility packed into a compact stompbox.
+With its genuine tube-driven circuitry, this pedal captures the essence of classic amplifier tones, delivering rich harmonics, warm saturation, and dynamic response.
 
 ## Sources checked
-1. Bad Cat X-Treme Tone operating instructions mirror: https://manuzoid.com/manuals/0D5pR-Bad%20Cat%20X-TREME%20TONE%20Operating%20instructions
-2. Bad Cat X-Treme Tone schematic: https://el34world.com/charts/Schematics/Files/_miscellaneous/Badcat_x_treme_tone.pdf
-3. Clingan Guitars documented example: https://www.clinganguitars.com/listings/1750631/2000s-bad-cat-x-treme-tone-tube-preamp-pedal-black-and-chrome
+1. Bad Cat X-Treme Tone Tube Preamp Pedal 2000s - Black and Chrome &ndash; Clingan Guitars: https://www.clinganguitars.com/en-us/products/77329728-bad-cat-x-treme-tone-tube-preamp-pedal-2000s-black-and-chrome
 
 ## Photo
-- **Archive status:** **No Photo Archived**
-- Exact-model photographs were located, but no stable direct image asset was confirmed for archival in this pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

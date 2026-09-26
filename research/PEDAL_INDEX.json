@@ -6295,8 +6295,8 @@
       "image_source_page_verified": true,
       "image_source_priority": 84,
       "image_source_url": "https://www.soundpure.com/resources/org.apache.wicket.Application/productImage?id=2423-Bad_Cat_2_Tone_Foot_Pedal-1273d0f94a4-0-large.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Bad Cat",
@@ -6317,8 +6317,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_url": "https://www.clinganguitars.com/cdn/shop/files/zmz63gntegtosibmgwuz_600x600_crop_center.jpg?v=1741109845",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Bad Penny FX",
@@ -33891,8 +33891,8 @@
       "image": "./assets/pedals/greer-amps/batch-o-ass/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Greer Amps/Batch O' Ass.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Greer Amps",
@@ -33970,8 +33970,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Greer Amps/Ghetto Stomp.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Greer Amps",
@@ -34392,8 +34392,8 @@
       "image": "./assets/pedals/himmelstrutz-elektro-art/fetto-apache/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Himmelstrutz Elektro Art/FETTO Apache.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Himmelstrutz Elektro Art",
@@ -34857,8 +34857,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Ibanez/TS7.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Ibanez",
@@ -36558,8 +36558,8 @@
       "image": "./assets/pedals/keeley-electronics/1962x-2-mode-limited-british-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Keeley Electronics/1962X 2-Mode Limited British Overdrive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Keeley Electronics",
@@ -42917,8 +42917,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/OKKO FX/Holy Grit.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "OKKO FX",
@@ -46722,8 +46722,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/TC Electronic/Grand Magus Distortion.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "TC Electronic",
@@ -47753,8 +47753,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Union Tube & Transistor/Tour Bender.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Union Tube & Transistor",

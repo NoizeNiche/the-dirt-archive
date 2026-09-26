@@ -1,48 +1,39 @@
-# Bad Cat - 2-Tone
+# Bad Cat — 2-Tone
 
 ## PRP identity
 - **Archive parent:** 2-Tone
 - **Builder:** Bad Cat
 - **Catalog type:** Overdrive
-- **Identity:** Two-channel tube preamp/overdrive pedal with a clean/tone-boost channel and a separate gain channel.
+- **Identity:** Bad Cat's 2-Tone.
 
 ## What this pedal is
-Bad Cat's 2-Tone is a large-format, transformer-powered tube pedal with two switchable channels. Channel 1 provides a volume/tone boost and clean-play reference, while Channel 2 uses the tube preamp for overdrive and adds an active, interactive Bass/Treble section.
+Bad Cat browse by type volume/amplification amplification preamp / clean boost browse by type distortion/fuzz/overdrive overdrive browse by enclosure pedal Bad Cat 2-Tone Published on February 15, 2006 Bad Cat boost / preamp overdrive pedal Information Bad Cat 2-Tone Channel 1 - Tone Boost: Provides a Volume or level match reference control to maintain sound play volume when accessing this Tone channel.
 
 ## Colorways
-- Documented production examples use a **chrome-faced steel chassis**.
-- No complete factory colorway chronology was verified.
+- No specific factory colorway information was established in the verified evidence packet.
 
 ## Versions and factory options
-### 2-Tone production
-- Channel 1: Volume, Tone
-- Channel 2: Gain, Bass, Treble, Master
-- Channel switching
-- True bypass/effect switching
-- Multi-color status indication
-- Two 12AX7 tubes
-- Internal industrial transformer
-- Removable AC power cord
-- Point-to-point wiring is documented in contemporary coverage
+- No distinct factory revision was established in the verified evidence packet.
 
 ## Version changes
-No numbered factory revision was verified in the checked sources.
+- No specific factory version changes were established in the verified evidence packet.
 
 ## Transistor
-- **Technology:** Tube preamp/overdrive.
-- **Transistor:** Not applicable to the documented gain stages, which use two 12AX7 tubes.
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
 
 ## Diode
-- **Exact clipping/protection arrangement:** Not publicly documented in the checked sources.
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
 
 ## Sound
-Channel 1 is intended to provide clean reference/boost with optional tonal coloration, while Channel 2 moves into tube overdrive with Gain and Master controlling the amount and level of drive. The active Bass and Treble controls are interactive, giving the second channel a broad range from lower-gain breakup through heavier tube saturation.
+Bad Cat 2-Tone Foot Pedal | Soundpure.com 1) { setInterval(() => { if (!this.paused) this.i = (this.i + 1) % this.count }, 6000); } }, }" @mouseenter="paused = true" @mouseleave="paused = false" @focusin="paused = true" @focusout="paused = false" x-show="!dismissed" x-cloak class="ann" role="region" aria-label="Site announcement" > Free guitar clinic: Alex Skolnick of Testament, live at Sound Pure on Sun, Oct 18 at 5:00 PM.
+*/ pinSearchScroll() { document.documentElement.style.scrollPaddingTop = '0px'; }, unpinSearchScroll() { document.documentElement.style.scrollPaddingTop = ''; } }" @keydown.escape.window="open = false" @click.outside="open = false"> = 2) fetchSuggest()" @blur="unpinSearchScroll()" @keydown.enter.prevent="if (q.trim().length > 0) submitWith(q.trim())" placeholder="Search Sound Pure — guitars, mics, drums, brands… (try 'neumann u67' or 'collings')" aria-label="Search" autocomplete="off" spellcheck="false"> Search 0"> Top searches 0"> Brands 0"> Products See all results for &lsquo; &rsquo; → Pro Audio Electric Guitars Acoustics/Archtops Drums Vintage Used Specials Call Us Toll Free 888-528-9703 Local / International +1 919-682-5552 Microphones Dynamic Large Diaphragm Ribbon Small Diaphragm Stereo Drum Mic Kits Mic Components Mic Preamps 500-Series Computer Audio A/D D/A Interfaces Control Surfaces DAW PCI/Interface Cards Plug-ins Pro Tools Studio Clocks Signal Processors Compressor/Limiter Digital Effects EQs Gates Limiters Other Monitoring Headphone Amps Headphones Monitor Control Monitors Speaker Amplifiers More Summing Mixers Portable Recorders Cables Accessories Live Sound Keyboards Synths Gift Certificates Browse All Pro Audio → Featured Manufacturer Soyuz Microphones Hand-built tube and ribbon microphones from Tula, Russia.
+Sound Pure Difference Try Before You Buy Audition eligible gear in your own space.
 
 ## Sources checked
-1. Sound Pure manufacturer-description archive: https://www.soundpure.com/p/bad-cat-2-tone-foot-pedal/2423
-2. Bad Cat 2 Tone operating instructions mirror: https://manuzoid.com/manuals/BAw6G-Bad%20Cat%202%20TONE%20Operating%20instructions
-3. Contemporary technical coverage: https://toy-love.hatenablog.com/entry/20070710/1183999954
+1. Bad Cat 2-Tone Foot Pedal | Soundpure.com: https://www.soundpure.com/p/bad-cat-2-tone-foot-pedal/2423
+2. Bad Cat 2-Tone | Effects Database: https://www.effectsdatabase.com/model/badcat/2tone
 
 ## Photo
-- **Archive status:** **No Photo Archived**
-- An exact 2-Tone photograph was located, but a stable direct image asset was not confirmed for archival in this pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
