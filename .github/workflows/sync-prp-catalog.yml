@@ -96,4 +96,33 @@ jobs:
           done
 
           echo "Unable to publish synchronized research metadata after 5 rebuild attempts."
+          exit 1
+
+      - name: Start deep research background lane
+        env:
+          GH_TOKEN: ${{ github.token }}
+        shell: bash
+        run: |
+          python - <<'PY'
+          import json
+          catalog=json.load(open("research/PEDAL_INDEX.json",encoding="utf-8"))
+          pedals=[p for p in catalog.get("pedals",[]) if p.get("catalog_role") != "variation"]
+          surface_ready=sum(1 for p in pedals if p.get("research_record"))
+          deep=sum(1 for p in pedals if str(p.get("research_level") or "").strip().lower()=="deep")
+          with open("/tmp/deep-lane-state","w",encoding="utf-8") as fh:
+              fh.write(f"{surface_ready} {len(pedals)} {deep}\n")
+          print(f"Surface-ready={surface_ready} total={len(pedals)} deep={deep}")
+          PY
+          read -r surface_ready total deep < /tmp/deep-lane-state
+          if [ "$surface_ready" -eq "$total" ] && [ "$deep" -lt "$total" ]; then
+            active="$(gh run list --workflow research-worker-team.yml --branch main --limit 10 --json status --jq '[.[] | select(.status != "completed")] | length')"
+            if [ "$active" -eq 0 ]; then
+              echo "Surface catalog is complete; starting one bounded deep-research pass."
+              gh api --method POST "repos/$GITHUB_REPOSITORY/actions/workflows/research-worker-team.yml/dispatches" -f ref=main
+            else
+              echo "A deep-research run is already queued or active; no duplicate dispatch."
+            fi
+          else
+            echo "Deep lane not started: surface-ready=$surface_ready total=$total deep=$deep."
+          fi
 
