@@ -1,3 +1,14 @@
+## Viewer card/copy checkpoint - September 26, 2026
+
+The landing-page card presentation was cleaned after visual review:
+- The repeated visible **No Photo Archived** label that was appearing underneath valid card images was traced to the HTML `hidden` state being overridden by the card placeholder's explicit display rule.
+- The fix now enforces hidden placeholder elements at the stylesheet layer and removes the visible fallback label from catalog, related, version, and colorway card media. Cards without photos retain their visual placeholder without the repetitive text.
+- The landing header copy was rewritten to explain the visitor's purpose rather than the page's implementation:
+  - **THE SEARCHABLE INDEX OF GUITAR DIRT**
+  - **Find the pedal. Then dig into the details.**
+  - **Search overdrive, distortion, and fuzz by builder, model, and documented hardware.**
+- The main pedal-detail photo fallback still retains explicit missing-photo wording because that is the primary image area rather than a repeated card tile.
+
 ## Viewer search/facet checkpoint - September 26, 2026
 
 The first structured technical-search layer is now implemented on the viewer and wired into the archive publication pipeline:
