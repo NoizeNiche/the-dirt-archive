@@ -31,6 +31,14 @@ def record_exists(record):
     return path.is_file()
 
 
+def record_is_deep(record):
+    if not record or not record_exists(record):
+        return False
+    path = Path(record[2:] if record.startswith("./") else record)
+    text = path.read_text(encoding="utf-8", errors="replace")
+    return bool(re.search(r"^##\s+Deep research verification\s*$", text, re.M))
+
+
 def md_identity(path):
     text = path.read_text(encoding="utf-8", errors="replace")
     builder = re.search(r"^- \*\*Builder:\*\*\s*(.+)$", text, re.M)
@@ -88,6 +96,13 @@ def main():
                     "Existing catalog research record is stale: "
                     + str(key) + " -> " + existing
                 )
+            if record_is_deep(existing):
+                if str(item.get("research_level") or "").strip().lower() != "deep":
+                    item["research_level"] = "deep"
+                    changed += 1
+                if str(item.get("deep_research_status") or "").strip().upper() != "VERIFIED":
+                    item["deep_research_status"] = "VERIFIED"
+                    changed += 1
             continue
 
         exact_matches = exact.get(key, [])
