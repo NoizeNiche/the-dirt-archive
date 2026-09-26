@@ -13740,7 +13740,7 @@
   {
     "builder": "Custom Guitar Innovations",
     "pedal": "Octavio",
-    "image": null,
+    "image": "./assets/pedals/custom-guitar-innovations/octavio/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Custom Guitar Innovations/Octavio.md"
   },
@@ -15679,7 +15679,7 @@
   {
     "builder": "EarthQuaker Devices",
     "pedal": "Sunn O))) Life Pedal / Life Pedal V2 — consolidated identity",
-    "image": null,
+    "image": "./assets/pedals/earthquaker-devices/sunn-o-life-pedal-life-pedal-v2-consolidated-identity/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/EarthQuaker Devices/Sunn O))) Life Pedal / Life Pedal V2 — consolidated identity.md"
   },
@@ -19452,7 +19452,7 @@
   {
     "builder": "Lovepedal",
     "pedal": "COT 50 / Church of Tone 50",
-    "image": null,
+    "image": "./assets/pedals/lovepedal/cot-50-church-of-tone-50/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Lovepedal/COT 50 / Church of Tone 50.md"
   },
@@ -19697,7 +19697,7 @@
   {
     "builder": "MadeByMike",
     "pedal": "Saltstorm Overdrive",
-    "image": null,
+    "image": "./assets/pedals/madebymike/saltstorm-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/MadeByMike/Saltstorm Overdrive.md"
   },
@@ -20054,7 +20054,7 @@
   {
     "builder": "Maxon",
     "pedal": "Fuzz Elements Void (FV10)",
-    "image": null,
+    "image": "./assets/pedals/maxon/fuzz-elements-void-fv10/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Maxon/Fuzz Elements Void (FV10).md"
   },
@@ -20845,7 +20845,7 @@
   {
     "builder": "Mid-Fi Electronics",
     "pedal": "Rise/OverRun",
-    "image": null,
+    "image": "./assets/pedals/mid-fi-electronics/rise-overrun/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Mid-Fi Electronics/Rise/OverRun.md"
   },
@@ -21006,7 +21006,7 @@
   {
     "builder": "Mojo Hand FX",
     "pedal": "Rounder (historical/discontinued)",
-    "image": null,
+    "image": "./assets/pedals/mojo-hand-fx/rounder-historical-discontinued/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Mojo Hand FX/Rounder (historical/discontinued).md"
   },
@@ -21146,7 +21146,7 @@
   {
     "builder": "MOOER Audio / MOOER",
     "pedal": "MooerFog / Fog",
-    "image": null,
+    "image": "./assets/pedals/mooer-audio-mooer/mooerfog-fog/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/MOOER Audio / MOOER/MooerFog / Fog.md"
   },
@@ -21174,28 +21174,28 @@
   {
     "builder": "MOOER Audio / MOOER",
     "pedal": "Thunderball",
-    "image": null,
+    "image": "./assets/pedals/mooer-audio-mooer/thunderball/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/MOOER Audio / MOOER/Thunderball.md"
   },
   {
     "builder": "MOOER Audio / MOOER",
     "pedal": "Triangle Buff",
-    "image": null,
+    "image": "./assets/pedals/mooer-audio-mooer/triangle-buff/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/MOOER Audio / MOOER/Triangle Buff.md"
   },
   {
     "builder": "MOOER Audio / MOOER",
     "pedal": "Ultra Drive",
-    "image": null,
+    "image": "./assets/pedals/mooer-audio-mooer/ultra-drive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/MOOER Audio / MOOER/Ultra Drive.md"
   },
   {
     "builder": "MOOER Audio / MOOER",
     "pedal": "Ultra Drive MKII",
-    "image": null,
+    "image": "./assets/pedals/mooer-audio-mooer/ultra-drive-mkii/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/MOOER Audio / MOOER/Ultra Drive MKII.md"
   },
@@ -21258,7 +21258,7 @@
   {
     "builder": "Mr. Black",
     "pedal": "SludgeMaster",
-    "image": null,
+    "image": "./assets/pedals/mr-black/sludgemaster/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Mr. Black/SludgeMaster.md"
   },
@@ -21279,7 +21279,7 @@
   {
     "builder": "Mr. Black",
     "pedal": "ThunderClaw",
-    "image": null,
+    "image": "./assets/pedals/mr-black/thunderclaw/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Mr. Black/ThunderClaw.md"
   },
@@ -21300,14 +21300,14 @@
   {
     "builder": "MXR",
     "pedal": "Bass Distortion",
-    "image": null,
+    "image": "./assets/pedals/mxr/bass-distortion/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/MXR/Bass Distortion.md"
   },
   {
     "builder": "MXR",
     "pedal": "Bass Distortion+",
-    "image": null,
+    "image": "./assets/pedals/mxr/bass-distortion/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/MXR/Bass Distortion+.md"
   },
@@ -21335,7 +21335,7 @@
   {
     "builder": "MXR",
     "pedal": "CAE Boost/Overdrive",
-    "image": null,
+    "image": "./assets/pedals/mxr/cae-boost-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/MXR/CAE Boost/Overdrive.md"
   },
@@ -21601,14 +21601,14 @@
   {
     "builder": "Mystic Effects Co",
     "pedal": "1833 Drive",
-    "image": null,
+    "image": "./assets/pedals/mystic-effects-co/1833-drive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Mystic Effects Co/1833 Drive.md"
   },
   {
     "builder": "Mystic Effects Co",
     "pedal": "Bandpass Overdrive",
-    "image": null,
+    "image": "./assets/pedals/mystic-effects-co/bandpass-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Mystic Effects Co/Bandpass Overdrive.md"
   },
