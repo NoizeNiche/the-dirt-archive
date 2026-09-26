@@ -4,37 +4,35 @@
 - **Archive parent:** Operation 1
 - **Builder:** Aleatorik
 - **Catalog type:** Overdrive
-- **Identity:** Aleatorik Operation-series pedal at the low-gain/booster end of the documented sequence. [1][2]
+- **Identity:** Aleatorik's Operation 1.
 
 ## What this pedal is
-Operation 1 is part of the hand-built Aleatorik series associated with Human Gear engineer Jin Terada. Surviving Japanese documentation describes the series as progressing from booster-level Operation 1 through increasingly distorted models. [1]
+The Effects Database catalogs Aleatorik Operation 1 as an overdrive pedal and identifies it as one of the Aleatorik Operation models.
 
 ## Colorways
-- Exact production finish history was not reliably documented.
+- No specific factory colorway information was established in the verified evidence packet.
 
 ## Versions and factory options
-### Operation 1
-- Aleatorik Operation series
-- lowest-gain / booster end of the series [1]
-- Exact control functions not reliably preserved.
+- No distinct factory revision was established in the verified evidence packet.
 
 ## Version changes
-The Operation numbers represent separate cataloged models in the series, not numbered revisions of one pedal. [1]
+- No specific factory version changes were established in the verified evidence packet.
 
 ## Transistor
-- **Exact transistor/device:** Not publicly documented.
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
 
 ## Diode
-- **Exact clipping diode/device:** Not publicly documented.
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
 
 ## Sound
-Operation 1 is documented as the booster/lowest-gain member of the Aleatorik progression, placing it at the least distorted end of the series. The surviving evidence does not preserve enough detail to assign a specific clipping circuit, EQ response, or component set. [1]
+The Effects Database catalogs Aleatorik Operation 1 as an overdrive pedal and identifies it as one of the Aleatorik Operation models.
 
 ## Sources checked
-1. Effects Database — Aleatorik Operation 1: https://www.effectsdatabase.com/model/aleatorik/operation/1
-2. Historical Japanese Aleatorik Operation series review references.
+1. Aleatorik Operation 1 | Effects Database: https://www.effectsdatabase.com/model/aleatorik/operation/1
+2. レア ALEATORIK Operation 1 プロトタイプ HUMANGEAR ヒューマンギア 寺田仁の落札情報詳細: https://aucfree.com/m/items/c645005215
+3. ALEATORIK Operation 1 ＆ 2 & 3 & 4: https://www2.gol.com/users/yagi/html/pedal/aleaope.html
 
 ## Photo
-- **Archive status:** **No Photo Archived**
-- **Exact-model reference checked:** Effects Database and historical Japanese references.
-- **Archive note:** Exact product imagery was located in historical listings, but no stable directly retrievable image asset was independently archived.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

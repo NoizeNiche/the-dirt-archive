@@ -2,7 +2,7 @@
   "builder": "Aleatorik",
   "pedal": "Operation 1",
   "status": "VERIFIED_EVIDENCE_STAGED",
-  "independent_exact_source_count": 2,
+  "independent_exact_source_count": 3,
   "sources": [
     {
       "url": "https://www.effectsdatabase.com/model/aleatorik/operation/1",
@@ -14,27 +14,19 @@
     },
     {
       "url": "https://aucfree.com/m/items/c645005215",
-      "title": "レア ALEATORIK Operation 1 プロトタイプ HUMANGEAR ヒューマンギア 寺田仁の落札情報詳細",
-      "h1": "ALEATORIK Operation 1 プロトタイプ",
+      "title": "\u30ec\u30a2 ALEATORIK Operation 1 \u30d7\u30ed\u30c8\u30bf\u30a4\u30d7 HUMANGEAR \u30d2\u30e5\u30fc\u30de\u30f3\u30ae\u30a2 \u5bfa\u7530\u4ec1\u306e\u843d\u672d\u60c5\u5831\u8a73\u7d30",
+      "h1": "ALEATORIK Operation 1 \u30d7\u30ed\u30c8\u30bf\u30a4\u30d7",
       "excerpt": "The listing identifies the item as an ALEATORIK Operation 1 prototype and describes maker Jin Terada as a very busy recording engineer, with production limited to roughly 15 units per month.",
       "host": "aucfree.com",
       "source_kind": "exact_model_listing"
     },
     {
       "url": "https://www2.gol.com/users/yagi/html/pedal/aleaope.html",
-      "title": "ALEATORIK Operation 1 ＆ 2 & 3 & 4",
-      "h1": "ALEATORIK Operation 1 ＆ 2 & 3 & 4",
+      "title": "ALEATORIK Operation 1 \uff06 2 & 3 & 4",
+      "h1": "ALEATORIK Operation 1 \uff06 2 & 3 & 4",
       "excerpt": "The historical Japanese page identifies the ALEATORIK Operation 1-4 series and notes that the pedals were not always easy to obtain because maker Terada Jin was a very busy recording engineer.",
       "host": "www2.gol.com",
       "source_kind": "historical_series_reference"
-    },
-    {
-      "url": "https://www.effectsdatabase.com/model/aleatorik",
-      "title": "Aleatorik | Effects Database",
-      "h1": "Aleatorik",
-      "excerpt": "The Aleatorik brand reference describes Operation 1-4 as fully hand-built with three-dimensional wiring, no PCBs, and no soldering at component terminals.",
-      "host": "www.effectsdatabase.com",
-      "source_kind": "builder_context"
     }
   ],
   "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."

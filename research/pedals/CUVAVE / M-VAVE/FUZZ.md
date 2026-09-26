@@ -27,13 +27,11 @@ The Reverb listing identifies the exact M-Vave / Cuvave Vintage Fuzz pedal and a
 - **Exact part:** Unknown.
 
 ## Sound
-The named FUZZ model appears in that product family, establishing the exact product name within the maker's lineup.
 The Reverb listing identifies the exact M-Vave / Cuvave Vintage Fuzz pedal and associates the unit with the M-Vave/Cuvave brand family.
 It provides an independent market source for the physical fuzz model in addition to the manufacturer's product ecosystem listing.
 
 ## Sources checked
-1. M-VAVE - Product Ecosystem: https://www.m-vave.com/products
-2. M-Vave / Cuvave Vintage Fuzz Guitar Pedal Ships From US | Reverb: https://reverb.com/item/64224004-m-vave-cuvave-vintage-fuzz-guitar-pedal-ships-from-us
+1. M-Vave / Cuvave Vintage Fuzz Guitar Pedal Ships From US | Reverb: https://reverb.com/item/64224004-m-vave-cuvave-vintage-fuzz-guitar-pedal-ships-from-us
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

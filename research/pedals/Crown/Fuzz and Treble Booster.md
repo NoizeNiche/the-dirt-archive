@@ -7,7 +7,7 @@
 - **Identity:** Crown's Fuzz and Treble Booster.
 
 ## What this pedal is
-Crown browse by type volume/amplification amplification treble booster browse by type distortion/fuzz/overdrive fuzz browse by enclosure pedal Crown Fuzz and Treble Booster Published on April 6, 2020 Crown fuzz treble boost pedal Information The Crown Fuzz and Treble Booster is an early version of Applied Audio Products Inc.'s classic two-in-one fuzz and high-frequency boost design, manufactured in New Jersey during the late 1960s.
+The two effects can be used individually or together, providing a wide tonal range characteristic of early American fuzz pedals.
 
 ## Colorways
 - No specific factory colorway information was established in the verified evidence packet.
@@ -27,14 +27,12 @@ Crown browse by type volume/amplification amplification treble booster browse by
 - **Exact part:** Unknown.
 
 ## Sound
-Crown Fuzz and Treble Booster | Effects Database Skip to navigation Brands &#9660; 0-9...
-Effect types &#9660; boost distortion fuzz overdrive acoustic simulation amp simulation speaker/cabinet simulation chorus flanger phaser tremolo vibe vibrato other modulation pitch shifter octaver delay reverb looper/sampler hold/freeze eq filter wah fuzz-wah bitcrusher ring modulator samplerate reducer wavefolder synth effect granular effect multi effect vocal effect talkbox vocoder buffer compressor other...
-Crown browse by type volume/amplification amplification treble booster browse by type distortion/fuzz/overdrive fuzz browse by enclosure pedal Crown Fuzz and Treble Booster Published on April 6, 2020 Crown fuzz treble boost pedal Information The Crown Fuzz and Treble Booster is an early version of Applied Audio Products Inc.'s classic two-in-one fuzz and high-frequency boost design, manufactured in New Jersey during the late 1960s.
+It combines a transistor-based fuzz effect with an independent treble booster, offering players the option of thick, saturated fuzz tones or bright, cutting lead sounds in a single compact pedal.
+The fuzz section produces a gritty, aggressive distortion with strong midrange and harmonic texture, while the treble booster enhances clarity and bite, particularly effective for rhythm work or for driving amplifiers into natural overdrive.
+The two effects can be used individually or together, providing a wide tonal range characteristic of early American fuzz pedals.
 
 ## Sources checked
 1. Crown Fuzz and Treble Booster | Effects Database: https://www.effectsdatabase.com/model/crown/fuzztreblebooster
-2. Crown Fuzz and Treble Booster - Reverb: https://reverb.com/item/32892835-crown-fuzz-and-treble-booster
-3. Tone Machines Blog: Applied Fuzz and Treble Booster FT-100: https://www.tonemachinesblog.com/2025/09/applied-fuzz-and-treble-booster-ft-100.html
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

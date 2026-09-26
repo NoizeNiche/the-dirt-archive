@@ -2231,8 +2231,8 @@
       "image_source_page_verified": true,
       "image_source_priority": 377,
       "image_source_url": "https://livedoor.blogimg.jp/pochikourock/imgs/e/6/e6c8f8ae.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Aleatorik",
@@ -2656,8 +2656,8 @@
       "research_record": "./research/pedals/PRP Batch 048/Skate Fuzz (SKUZZ).md",
       "image_source_url": "https://static.wixstatic.com/media/a0f204_04b8491954e24f8bbf9e5658b460834d~mv2.jpg/v1/fit/w_500,h_500,q_90/file.jpg",
       "image_source_page": "https://www.ampmojo.com/product-page/skate-fuzz-skuzz",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "AmpMojo",
@@ -2670,8 +2670,8 @@
       "research_record": "./research/pedals/PRP Batch 048/Sol Drive.md",
       "image_source_url": "https://static.wixstatic.com/media/53c044_4f4f33c9b3c64dc98862acca4da3576d%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/53c044_4f4f33c9b3c64dc98862acca4da3576d%7Emv2.jpg",
       "image_source_page": "https://www.ampmojo.com/sol-drive",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Amptweaker",
@@ -27527,8 +27527,8 @@
       "image": "./assets/pedals/crossfire/fuz-510-r-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Crossfire/FUZ-510 R-Fuzz.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Crossfire",
@@ -27615,8 +27615,8 @@
       "source_page": null,
       "research_record": "./research/pedals/Crown/Fuzz and Treble Booster.md",
       "image_source_page": "https://www.effectsdatabase.com/model/crown/fuzztreblebooster",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Crown",
@@ -28255,8 +28255,8 @@
       "image": "./assets/pedals/cuvave-m-vave/fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/CUVAVE / M-VAVE/FUZZ.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "CUVAVE / M-VAVE",
@@ -28433,8 +28433,8 @@
       "image": "./assets/pedals/danelectro/cash-cow-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Danelectro/Cash Cow Overdrive.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Danelectro",

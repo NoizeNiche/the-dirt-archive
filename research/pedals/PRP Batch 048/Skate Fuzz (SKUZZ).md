@@ -1,44 +1,36 @@
 # AmpMojo — Skate Fuzz (SKUZZ)
 
 ## PRP identity
+- **Archive parent:** Skate Fuzz (SKUZZ)
 - **Builder:** AmpMojo
 - **Catalog type:** Fuzz
-- **Identity:** Silicone Fuzz Face-style fuzz with four control functions arranged as skateboard-inspired “wheels.”
+- **Identity:** AmpMojo's Skate Fuzz (SKUZZ).
 
 ## What this pedal is
-The Skate Fuzz (SKUZZ) is a hand-built fuzz based on a classic silicone Fuzz Face circuit. AmpMojo describes the enclosure artwork and layout as inspired by 1970s skateboards. [1]
+AmpMojo's Skate Fuzz (SKUZZ) is cataloged as a fuzz pedal.
 
 ## Colorways
-- Skateboard-inspired graphic finish documented.
-- No complete production colorway history established from the accessible factory material.
+- No specific factory colorway information was established in the verified evidence packet.
 
 ## Versions and factory options
-- Volume
-- Fuzz
-- Bias
-- Clean (input trim)
-- Top-mounted input/output
-- Center-negative DC power
-- Hand-soldered through-hole construction
-- Carbon-composition resistors and axial capacitors
-- Soft-click footswitch and orange LED [1]
+- No distinct factory revision was established in the verified evidence packet.
 
 ## Version changes
-- No separate production revisions were established from the accessible manufacturer material.
+- No specific factory version changes were established in the verified evidence packet.
 
 ## Transistor
-- Exact transistor part numbers are not publicly documented in the accessible product documentation.
-- The circuit is identified by AmpMojo as a classic **silicone Fuzz Face** design. [1]
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
 
 ## Diode
-- Exact clipping diode/device is not publicly documented.
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
 
 ## Sound
-The Skate Fuzz is built around the familiar Fuzz Face-style interaction of fuzz, bias, and input level, with the Clean control allowing the input signal to be trimmed before the fuzz circuit. The silicone foundation points toward a more defined, articulate fuzz response than a typical low-gain germanium Fuzz Face, while the Bias control provides additional control over the circuit's operating character. [1]
+The verified evidence packet did not contain enough pedal-specific sonic description to make a more detailed sound summary without adding unsupported interpretation.
 
 ## Sources checked
-1. AmpMojo — Skate Fuzz (SKUZZ): https://www.ampmojo.com/product-page/skate-fuzz-skuzz
-2. AmpMojo — Manuals: https://www.ampmojo.com/manuals
+1. Skate Fuzz (SKUZZ) | AmpMojo: https://www.ampmojo.com/product-page/skate-fuzz-skuzz
 
 ## Photo
-- **Archive status:** Exact Photo Needed
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

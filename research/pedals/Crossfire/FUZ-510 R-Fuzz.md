@@ -7,7 +7,7 @@
 - **Identity:** Crossfire's FUZ-510 R-Fuzz.
 
 ## What this pedal is
-Effects Database has an exact record for the Crossfire FUZ-510 R-Fuzz and classifies the named model as a fuzz pedal in the Crossfire catalog.
+Crossfire's FUZ-510 R-Fuzz is cataloged as a fuzz pedal.
 
 ## Colorways
 - No specific factory colorway information was established in the verified evidence packet.
@@ -27,11 +27,11 @@ Effects Database has an exact record for the Crossfire FUZ-510 R-Fuzz and classi
 - **Exact part:** Unknown.
 
 ## Sound
-Effects Database has an exact record for the Crossfire FUZ-510 R-Fuzz and classifies the named model as a fuzz pedal in the Crossfire catalog.
-The page title explicitly identifies both the builder and the exact FUZ-510 R-Fuzz model, distinguishing it from other Crossfire effects.
+A fully functional unit that won't leave you in a state of fiscal retardation :) Features: Level control Fuzz control Jack in/out sockets Metal casing Powered by 9 volt battery (included) or AC adapter (not included).
+fx pedal stompbox stomp box guitar effects pedal fuzz distortion/fuzz/overdrive dirt grit Searching...
 
 ## Sources checked
-1. Crossfire FUZ-510 R-Fuzz - Effects Database: https://www.effectsdatabase.com/model/crossfire/fuz510
+1. Crossfire FUZ-510 R-Fuzz | Effects Database: https://www.effectsdatabase.com/model/crossfire/fuz510
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
