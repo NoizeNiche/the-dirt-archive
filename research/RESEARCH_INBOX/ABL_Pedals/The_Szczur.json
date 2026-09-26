@@ -1,0 +1,12 @@
+{
+  "builder":"ABL Pedals",
+  "pedal":"The Szczur",
+  "status":"VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count":1,
+  "sources":[
+    {"url":"https://www.effectsdatabase.com/model/abl/szczur","title":"ABL Pedals The Szczur | Effects Database","source_kind":"effects_database"}
+  ],
+  "verified_points":["Volume/Gain/Filter controls","OP07 op amp","asymmetrical clipping with germanium diode","more bass at circuit input than classic reference","altered filter sweep","true bypass","9V center-negative","2mA current draw","handbuilt in Glasgow"],
+  "unknowns":["exact diode part number","complete schematic/component values","formal revision history"],
+  "next_action":"Merge deep research status through the canonical research pipeline."
+}
