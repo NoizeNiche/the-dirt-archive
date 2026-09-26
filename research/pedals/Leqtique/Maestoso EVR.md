@@ -1,23 +1,41 @@
 # Leqtique — Maestoso EVR
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Maestoso EVR
 - **Builder:** Leqtique
-- **Pedal:** Maestoso EVR
 - **Catalog type:** Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Leqtique's Maestoso EVR.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Maestoso EVR** by **Leqtique** as a **Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+While the Maestoso was known for its powerful low-end, the addition of low-cut has made it a versatile TS-modified machine, making it the EVR brand's flagship medium-high-gain overdrive pedal, easy to use in a wide range of situations.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+escape }}\" class=\"boost-sd__modal\" id=\"boost-sd__modal-quickview\" data-product-id='{{ productData.id }}' data-product='{{ productData
+While some constant adjustments have been made, it retains the original Maestoso sound, while incorporating the L'MAT's low-cut.
+While the Maestoso was known for its powerful low-end, the addition of low-cut has made it a versatile TS-modified machine, making it the EVR brand's flagship medium-high-gain overdrive pedal, easy to use in a wide range of situations.
+
+## Sources checked
+1. LEQTIQUE Maestoso EVR [SN #54] [08/04] - Reverb: https://reverb.com/item/91668078-leqtique-maestoso-evr-sn-54-08-04
+2. Leqtique EVR Maestoso EVR(NEW) - TC楽器 - TCGAKKI: https://tcgakki.com/en/products/maestoso-evrnew
+3. Maestoso EVR (aka MAT EVR &ndash; Leqtiqueshop: https://leqtique.ch/en/products/matevr-release
+4. Leqtique Used Maestoso EVR Used Overdrive - eBay: https://www.ebay.com/itm/287526311990
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

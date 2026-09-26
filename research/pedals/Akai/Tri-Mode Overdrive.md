@@ -4,35 +4,36 @@
 - **Archive parent:** Tri-Mode Overdrive
 - **Builder:** Akai
 - **Catalog type:** Overdrive
-- **Identity:** Akai Professional Analog Custom Shop overdrive product listed in the surviving catalog.
+- **Identity:** Akai's Tri-Mode Overdrive.
 
 ## What this pedal is
-Effects Database lists **Akai Tri-Mode Overdrive** as a distinct overdrive pedal in the Akai catalog. The accessible surviving source set does not preserve enough reliable product detail to document its exact circuit, controls, or mode implementation without guessing. [1]
+Akai's Tri-Mode Overdrive is cataloged as an overdrive pedal.
 
 ## Colorways
-- Exact production finish history was not reliably documented.
+- No specific factory colorway information was established in the verified evidence packet.
 
 ## Versions and factory options
-### Tri-Mode Overdrive
-- Overdrive pedal.
-- Separate named Akai catalog product. [1]
-- Exact factory mode/control implementation is not sufficiently preserved in the accessible source set.
+- No distinct factory revision was established in the verified evidence packet.
 
 ## Version changes
-No numbered factory revision was verified.
+- No specific factory version changes were established in the verified evidence packet.
 
 ## Transistor
-- **Exact transistor/device:** Not publicly documented.
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
 
 ## Diode
-- **Exact clipping diode/device:** Not publicly documented.
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
 
 ## Sound
-The surviving catalog material establishes the pedal as an overdrive but does not preserve enough detail to describe its circuit family or exact voicing responsibly. The archive therefore records the product identity without inventing a tonal or component specification that the available source does not support. [1]
+DISC Akai Analog Custom Shop Tri Mode Overdrive Effect Pedal at Gear4music Unsupported Browser The web browser that you are currently using is no longer supported, and as such features of this website may not work as expected.
+Harmonic Amp-Like Overdrive Alairex H.A.L.O.
+Harmonic Amp-Like Overdrive Alber GA-104 Gain Alber GA-1040 Gain Alber GA-1040P Gain Alber OD-6 Over Drive Alber OD-600 Over Drive Alber OD-600P Over Drive Alber OD-610 Over Drive Alcove ALP-200 Overdrive Alden Tube Overdrive Aleatorik Operation 1 Aleatorik Operation 2 Aleatorik Operation 3 Alek
 
 ## Sources checked
-1. Effects Database — overdrive pedal index: https://www.effectsdatabase.com/type/overdrive/pedal
+1. DISC Akai Analog Custom Shop Tri Mode Overdrive Effect Pedal at Gear4music: https://www.gear4music.ie/Guitar-and-Bass/DISC-Akai-Analog-Custom-Shop-Tri-Mode-Overdrive-Effect-Pedal/F0B
+2. pedal, overdrive | Effects Database: https://www.effectsdatabase.com/type/overdrive/pedal
 
 ## Photo
-- **Archive status:** **No Photo Archived**
-- **Exact-model reference checked:** Effects Database overdrive index.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

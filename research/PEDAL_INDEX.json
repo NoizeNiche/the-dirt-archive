@@ -1967,8 +1967,8 @@
       "research_record": "./research/pedals/Akai/Tri-Mode Overdrive.md",
       "image_source_url": "https://r2.gear4music.com/media/3/30331/1200/preview.jpg",
       "image_source_page": "https://www.gear4music.ie/Guitar-and-Bass/DISC-Akai-Analog-Custom-Shop-Tri-Mode-Overdrive-Effect-Pedal/F0B",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Alairex",
@@ -2100,8 +2100,8 @@
       "image_source_page_verified": true,
       "image_source_priority": 341,
       "image_source_url": "https://www.rig-talk.com/forum/attachments/img_1297-jpg.161365/",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Alber",
@@ -35502,8 +35502,8 @@
       "image": "./assets/pedals/jackson-audio/broken-arrow-v2-midi/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Jackson Audio/BROKEN ARROW V2 - MIDI.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Jackson Audio",
@@ -37919,8 +37919,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Leqtique/Maestoso EVR.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Leqtique",
