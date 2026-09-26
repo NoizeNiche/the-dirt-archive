@@ -6,6 +6,7 @@ import { execFileSync } from 'node:child_process';
 const TRACKER = path.join(process.cwd(), 'research/PRP_TRACKER.csv');
 const OVERRIDES = path.join(process.cwd(), 'research/PHOTO_SOURCE_OVERRIDES.csv');
 const RESEARCH_SOURCE_OVERRIDES = path.join(process.cwd(), 'research/RESEARCH_SOURCE_OVERRIDES.csv');
+const VERIFIED_SOURCE_CACHE = path.join(process.cwd(), 'research/RESEARCH_VERIFIED_SOURCE_CACHE.json');
 const INDEX = path.join(process.cwd(), 'research/PEDAL_INDEX.json');
 const OUT = path.join(process.cwd(), 'artifact');
 const WORKER_INDEX = Math.max(0, Number(process.env.RESEARCH_WORKER_INDEX || 0));
@@ -301,6 +302,22 @@ async function targetRecord(builder,pedal,type){
       }
     }
   }catch{}
+  // Reuse externally inspected exact-model excerpts when a live page is
+  // unavailable or unstable. This cache is evidence, not publication: the
+  // ordinary foreman identity and multi-host checks still apply.
+  try{
+    const cache=JSON.parse(fs.readFileSync(VERIFIED_SOURCE_CACHE,'utf8'));
+    for(const record of cache.records || []){
+      if(record?.builder!==builder || record?.pedal!==pedal || !Array.isArray(record.sources)) continue;
+      for(const source of record.sources){
+        const u=String(source?.url||'').trim();
+        if(/^https?:/i.test(u)) verifiedCache.set(u,{
+          ...source,
+          source_kind:source.source_kind || 'catalog_verified'
+        });
+      }
+    }
+  }catch{}
   const models=catalogModels(builder);
   const queries=searchQueries(builder,pedal);
   const found=new Map();
@@ -350,15 +367,15 @@ async function targetRecord(builder,pedal,type){
   const fetched = await boundedMap(ranked, 2, async item => {
     const cached=verifiedCache.get(item.x.url);
     const p=await get(item.x.url);
-    const info=p
-      ? pageInfo(p.text)
-      : cached
-        ? {
-            title:String(cached.title||item.x.title||''),
-            h1:String(cached.h1||''),
-            description:'',
-            body:String(cached.excerpt||'')
-          }
+    const info=cached
+      ? {
+          title:String(cached.title||item.x.title||''),
+          h1:String(cached.h1||''),
+          description:String(cached.description||''),
+          body:String(cached.excerpt||'')
+        }
+      : p
+        ? pageInfo(p.text)
         : {title:item.x.title,h1:'',description:'',body:''};
     const u=p?.url||item.x.url;
     const fullText=info.title+' '+info.h1+' '+info.description+' '+info.body+' '+u;
@@ -383,7 +400,7 @@ async function targetRecord(builder,pedal,type){
       signals:signals(fullText),
       sourceKind:cached?.source_kind || sourceKind(builder,u,exactCatalogUrls,item.x.url),
       collectedAt:new Date().toISOString(),
-      reusedVerifiedEvidence:Boolean(!p && cached)
+      reusedVerifiedEvidence:Boolean(cached)
     };
   });
   const sources=[];
