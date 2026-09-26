@@ -14965,7 +14965,7 @@
   {
     "builder": "DOD Electronics",
     "pedal": "Performer 555 Distortion",
-    "image": null,
+    "image": "./assets/pedals/dod-electronics/performer-555-distortion/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/DOD Electronics/Performer 555 Distortion.md"
   },
@@ -15658,7 +15658,7 @@
   {
     "builder": "EarthQuaker Devices",
     "pedal": "Sunn O))) HalfLife — Octave Distortion + Booster",
-    "image": null,
+    "image": "./assets/pedals/earthquaker-devices/sunn-o-halflife-octave-distortion-booster/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/EarthQuaker Devices/Sunn O))) HalfLife — Octave Distortion + Booster.md"
   },
@@ -16057,7 +16057,7 @@
   {
     "builder": "Electro-Harmonix",
     "pedal": "Pico Triboro Bridge Overdrive, Distortion & Fuzz",
-    "image": null,
+    "image": "./assets/pedals/electro-harmonix/pico-triboro-bridge-overdrive-distortion-fuzz/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Electro-Harmonix/Pico Triboro Bridge Overdrive, Distortion & Fuzz.md"
   },
@@ -16071,14 +16071,14 @@
   {
     "builder": "Electro-Harmonix",
     "pedal": "Ram's Head Big Muff Pi",
-    "image": null,
+    "image": "./assets/pedals/electro-harmonix/ram-s-head-big-muff-pi/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Electro-Harmonix/Ram's Head Big Muff Pi.md"
   },
   {
     "builder": "Electro-Harmonix",
     "pedal": "Ripped Speaker Fuzz",
-    "image": null,
+    "image": "./assets/pedals/electro-harmonix/ripped-speaker-fuzz/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Electro-Harmonix/Ripped Speaker Fuzz.md"
   },
@@ -18738,14 +18738,14 @@
   {
     "builder": "Keeley Electronics",
     "pedal": "Tone Workstation",
-    "image": null,
+    "image": "./assets/pedals/keeley-electronics/tone-workstation/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Keeley Electronics/Tone Workstation.md"
   },
   {
     "builder": "Keeley Electronics",
     "pedal": "Tube Drive Twin Triode Dual Overdrive",
-    "image": null,
+    "image": "./assets/pedals/keeley-electronics/tube-drive-twin-triode-dual-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Keeley Electronics/Tube Drive Twin Triode Dual Overdrive.md"
   },
@@ -20033,7 +20033,7 @@
   {
     "builder": "Maxon",
     "pedal": "Fuzz Elements Fire (FF10)",
-    "image": null,
+    "image": "./assets/pedals/maxon/fuzz-elements-fire-ff10/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Maxon/Fuzz Elements Fire (FF10).md"
   },
@@ -20502,14 +20502,14 @@
   {
     "builder": "Menatone",
     "pedal": "Red Snapper 4 Knob",
-    "image": null,
+    "image": "./assets/pedals/menatone/red-snapper-4-knob/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Menatone/Red Snapper 4 Knob.md"
   },
   {
     "builder": "Menatone",
     "pedal": "Red Snapper 4 Knob Mini",
-    "image": null,
+    "image": "./assets/pedals/menatone/red-snapper-4-knob-mini/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Menatone/Red Snapper 4 Knob Mini.md"
   },
@@ -20523,7 +20523,7 @@
   {
     "builder": "Menatone",
     "pedal": "Red Snapper Mini",
-    "image": null,
+    "image": "./assets/pedals/menatone/red-snapper-mini/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Menatone/Red Snapper Mini.md"
   },
@@ -20768,14 +20768,14 @@
   {
     "builder": "Mid-Fi Electronics",
     "pedal": "Faulty Channel",
-    "image": null,
+    "image": "./assets/pedals/mid-fi-electronics/faulty-channel/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Mid-Fi Electronics/Faulty Channel.md"
   },
   {
     "builder": "Mid-Fi Electronics",
     "pedal": "Full Frequency Overdrive",
-    "image": null,
+    "image": "./assets/pedals/mid-fi-electronics/full-frequency-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Mid-Fi Electronics/Full Frequency Overdrive.md"
   },
@@ -20866,7 +20866,7 @@
   {
     "builder": "Mojo Hand FX",
     "pedal": "1979",
-    "image": null,
+    "image": "./assets/pedals/mojo-hand-fx/1979/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Mojo Hand FX/1979.md"
   },
@@ -20880,14 +20880,14 @@
   {
     "builder": "Mojo Hand FX",
     "pedal": "BlueBonnet",
-    "image": null,
+    "image": "./assets/pedals/mojo-hand-fx/bluebonnet/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Mojo Hand FX/BlueBonnet.md"
   },
   {
     "builder": "Mojo Hand FX",
     "pedal": "Colossus",
-    "image": null,
+    "image": "./assets/pedals/mojo-hand-fx/colossus/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Mojo Hand FX/Colossus.md"
   },
@@ -21069,7 +21069,7 @@
   {
     "builder": "MOOER Audio / MOOER",
     "pedal": "Black Secret",
-    "image": null,
+    "image": "./assets/pedals/mooer-audio-mooer/black-secret/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/MOOER Audio / MOOER/Black Secret.md"
   },
