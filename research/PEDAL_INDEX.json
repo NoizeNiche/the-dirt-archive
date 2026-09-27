@@ -1,6 +1,6 @@
 {
-  "version": "data-20260927-historical-census-sweep-04",
-  "count": 4230,
+  "version": "data-20260927-historical-census-sweep-05",
+  "count": 4231,
   "pedals": [
     {
       "company": "1981 Inventions",
@@ -9487,6 +9487,19 @@
         "https://rvb-img.reverb.com/image/upload/s--Loc73KMH--/t_card-square/v1640290459/xo2jpxnsnpbwdlzkmt7r.jpg",
         "https://files.effectsdatabase.com/gear/thumbs/bigear_frank_001.jpg"
       ],
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "Big Ear NYC",
+      "pedal": "More More More",
+      "types": [
+        "Overdrive",
+        "Boost"
+      ],
+      "image": null,
+      "source_page": "https://www.effectsdatabase.com/updates/weekly/20140804",
+      "research_record": "./research/pedals/Big Ear NYC/More More More.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED"
     },
