@@ -1,41 +1,50 @@
-# Axtar - DIS-5 Distortion
+# Axtar — DIS-5 Distortion
 
 ## PRP identity
 - **Archive parent:** DIS-5 Distortion
 - **Builder:** Axtar
 - **Catalog type:** Distortion
-- **Identity:** Older compact Axtar guitar distortion pedal whose exact model name is represented as DIS-5 in the tracker.
+- **Identity:** Historical compact Japanese DIS-5/DST-5-family distortion whose catalog title varies between sources. [1][2]
 
 ## What this pedal is
-Audiofanzine's exact-model entry identifies the pedal as Axtar DIS-5, while Effects Database uses the closely matching title Axtar DST-5 Distortion. The archive retains the tracker/catalog name **DIS-5** and records the DST-5 spelling as a source-name discrepancy rather than silently changing the parent identity.
+The archive preserves **DIS-5** because that is the catalog/tracker identity, while Effects Database uses **DST-5** in its title. This appears to be a naming discrepancy rather than proof of two different Axtar products. [1]
 
-## Colorways
-- No reliable factory colorway chronology was verified.
-- No formal cosmetic variation series was established.
+## Circuit / family context
+Recent Effects Database research on the same Japanese DST-5 OEM platform places Axtar alongside Axtron, Columbus, Cutec, Pick Boy, Polaris, Profile+ and Vision-branded versions. That establishes a shared OEM family context but does not prove that every branded unit contains identical components. [1][3]
 
-## Versions and factory options
-### DIS-5 production
-- Distortion effect
-- Exact factory control specification is only partially documented in the surviving secondary-source evidence.
-
-## Version changes
-No numbered factory revision was verified. The DIS-5/DST-5 naming difference appears to be a catalog-title discrepancy, not evidence of a separate version.
+## Controls
+- The accessible Axtar exact-model source does not preserve a complete control map with sufficient authority to reproduce it here.
+- The wider DST-5 family is commonly documented with Level, Tone and Distortion controls, but the archive does not automatically assign those controls to this exact Axtar specimen without direct evidence.
 
 ## Transistor
-- **Technology:** The checked sources do not publish a verified component list.
-- **Exact device:** Not documented.
+- Exact active-device technology/part number is not documented in the reviewed Axtar sources.
 
 ## Diode
-- **Type:** Exact clipping-diode arrangement is not publicly documented.
+- Exact clipping-device information is not publicly documented.
+
+## Version history
+- No numbered Axtar electronic revision established.
+- The DIS-5/DST-5 naming difference is retained as a source discrepancy.
 
 ## Sound
-An Audiofanzine owner report describes the DIS-5 as warm and rounded with useful harmonic presence and a gain range extending from bluesy drive into heavier saturation. That is owner-report evidence rather than a factory specification, so the archive treats it as a practical sound description rather than a circuit claim.
+An owner report describes the pedal as warm and rounded with useful harmonic content, extending from bluesy drive into heavier saturation. This is user-report evidence, not a factory specification. [2]
+
+## Research confidence
+- **Exact Axtar identity:** High
+- **DIS-5/DST-5 naming discrepancy:** High
+- **Japanese DST-5 OEM-family context:** High
+- **Control map:** Unknown
+- **Exact active device:** Unknown
+- **Exact diode:** Unknown
+
+## Deep research verification
+Effects Database's Axtar record was cross-checked with current 2026 entries for related DST-5 OEM models and an owner report. The archive keeps the family relationship as contextual evidence and does not import a control map or component recipe from other branded versions. [1][2][3]
 
 ## Sources checked
-1. Effects Database - Axtar DST-5 Distortion: https://www.effectsdatabase.com/model/axtar/dst5
-2. Audiofanzine - Axtar DIS-5 exact-model page / owner report
+1. Effects Database — Axtar DST-5 Distortion and current related OEM family records: https://www.effectsdatabase.com/model/axtar/dst5
+2. Audiofanzine — Axtar DIS-5 owner record.
+3. Effects Database — related DST-5 OEM family examples, including Axtron/Luster/Vision: https://www.effectsdatabase.com/model/axtron/dst5
 
 ## Photo
 - **Archive status:** **No Photo Archived**
-- **Exact-model reference checked:** Effects Database / Audiofanzine exact-model evidence
-- **Archive note:** Exact identity evidence was found, but no stable direct image asset met the archive's photo requirement in this pass.
+- **Exact-model reference checked:** Effects Database / Audiofanzine.
