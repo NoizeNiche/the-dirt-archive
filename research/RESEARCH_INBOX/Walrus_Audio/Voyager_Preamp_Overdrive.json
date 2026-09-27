@@ -1,0 +1,49 @@
+{
+  "builder": "Walrus Audio",
+  "pedal": "Voyager Preamp/Overdrive",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 5,
+  "sources": [
+    {
+      "url": "https://www.guitarworld.com/gear/effects-pedals/walrus-audio-voyager-preamp-overdrive-mkii-review",
+      "title": "Walrus Audio Voyager Preamp/Overdrive MKII review | Guitar World",
+      "h1": "",
+      "excerpt": "Walrus Audio Voyager Preamp/Overdrive MKII review | Guitar World @font-face { font-family: \"Roboto Condensed-fallback\"; size-adjust: 88.91000000000001%; ascent-override: 110%; src: local(Arial); } @font-face { font-family: \"Open Sans-fallback\"; size-adjust: 105.42999999999994%; ascent-override: 105%; src: local(Arial); } @font-face { font-family: \"Open Sans Condensed-fallback\"; size-adjust: 82%; src: local(sans-serif); } @font-face { font-family: \"Open Sans Condensed-fallback\"; size-adjust: 87%; ascent-override: 110%; descent-override: 41%; src: local(Arial); } @font-face { font-family: \"Open Sans Condensed-fallback\"; size-adjust: 105%; ascent-override: 100%; descent-override: 30%; src: local(\"Arial Narrow\"); } @font-face { font-family: \"Open Sans Condensed-fallback\"; size-adjust: 89%; ascent-override: 89%; src: local(\"Helvetica\"); } @font-face { font-family: \"Open Sans\"; font-weight: 300; font-style: normal; src: url('https://vanilla.futurecdn.net/guitarworld/1761919/media/shared/fonts/OpenSans-300-Light.woff2') format('woff2'); font-display: swap; size-adjust: 100%; } @font-face { font-family: \"Open Sans\"; font-weight: 400; font-style: normal; src: url('https://vanilla.futurecdn.net/guitarworld/1761919/media/shared/fonts/OpenSans-400-Regular.woff2') format('woff2'); font-display: swap; size-adjust: 100%; } @font-face { font-family: \"Open Sans\"; font-weight: 600; font-style: normal; src: url('https://vanilla.futurecdn.net/guitarworld/1761919/media/shared/fonts/OpenSans-600-SemiBold.woff2') format('woff2'); font-display: swap; size-adjust: 100%; } @font-face { font-family: \"Open Sans\"; font-weight: 700; font-style: normal; src: url('https://vanilla.futurecdn.net/guitarworld/1761919/media/shared/fonts/OpenSans-700-Bold.woff2') format('woff2'); font-display: swap; size-adjust: 100%; } @font-face { font-family: \"Open Sans\"; font-weight: 800; font-style: normal; src: url('https://vanilla.futurecdn.net/guitarworld/1761919/media/shared/fonts/OpenSans-800-ExtraBold.woff2') format('woff2'); font-display: swap; size-adjust: 100%; } @font-face { font-family: \"guitarworld\"; src: url('https://vanilla.futurecdn.net/guitarworld/1761919/media/fonts/guitarworld.woff') format('woff'); font-display: \"swap\"; } /* --flexi-layout-- */ @layer legacy {.widget-area svg {visibility: hidden;}} /* --flexi-core-- */ @charset \"UTF-8\";@layer legacy{.special1{font-weight:400}.special2{font-weight:700;text-transform:capitalize}.special3{font-weight:400}.h1,.heading1a{font-weight:700;line-height:normal;margin:0;text-transform:uppercase}.h1b,.heading1b{font-weight:700;font-size:1.25em;line-height:1.4;margin-bottom:4px}.h1c,.h2,.heading1c,.heading2{font-weight:700;text-transform:uppercase}.h3,.heading3a{font-weight:600}.h3b,.heading3b{font-weight:700;text-transform:uppercase}.h3c,.heading3c{font-weight:700;text-transform:capitalize}.subheading1{font-weight:600}.subheading2,.subheading3,.subheading4{font-weight:700;text-transform:uppercase}.txt1a,.txt1b{font-weight:400}.txt2a{font-weight:600}.txt2b,.txt2c,.txt3{font-weight:400}:root{--brand-font-family-1:Arial, sans-serif;--brand-font-family-2:Arial, sans-serif;--brand-font-weight-light:100;--brand-font-weight-medium:400;--brand-font-weight-heavy:700;--brand-font-size-big:32px;--brand-font-size-medium:16px;--brand-font-size-small:12px;--brand-line-height-big:26px;--brand-line-height-medium:22px;--brand-line-height-small:16px;--brand-color-1:#090E21;--brand-color-2:#E40784;--brand-color-3:#3D73D1;--brand-color-black:#1B1B1B;--brand-color-white:#FFFFFF;--brand-color-grey:#EDEDED;--brand-secondary-color-1:#A910E8;--brand-secondary-color-2:#520B3D;--brand-secondary-color-3:#FF9900}@media screen and (min-width:700px){:root{--brand-font-size-big:42px;--brand-font-size-medium:18px;--brand-font-size-small:12px;--brand-line-height-big:56px;--brand-line-height-medium:26px;--brand-line-height-small:16px}}:root{--brand-layout-margin-default:0px;--brand-layout-padding-default:15px;--brand-layout-margin-top:25px;--brand-layou",
+      "host": "www.guitarworld.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://manuals.plus/walrus-audio/voyager-preampoverdrive-guitar-pedals-manual",
+      "title": "WALRUS AUDIO VOYAGER Preamp/Overdrive Guitar Pedals Owner's Manual",
+      "h1": "",
+      "excerpt": "",
+      "host": "manuals.plus",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://soundaria.com/walrus-audio-voyager-preampoverdrive-effects-pedal-review/",
+      "title": "Walrus Audio Voyager Preamp/Overdrive Effects Pedal Review - Soundaria",
+      "h1": "Walrus Audio Voyager Preamp/Overdrive Effects Pedal Review",
+      "excerpt": "Walrus Audio Voyager Preamp/Overdrive Effects Pedal Review - Soundaria Skip to content Free shipping \u00b7 No minimum \u00b7 45-day returns Catalog \u2014 browse now, buy soon Search Search 0 Microphones All Microphones Condenser Mics Dynamic Mics Mic Accessories Drum Mics Studio Accessories All Studio Accessories Direct Boxes Patchbays Signal Processing All Signal Processing Compressors Limiters Graphic EQ Exciters Enhancers AD/DA Converters More Headphones Preamplifiers Audio Interfaces Recorders & Playback MIDI Interfaces Studio Mixers Pro Tools Studio Monitors Software & Plug-Ins Guides Tech Tips & Tutorials Gear Reviews Musician Resources Artists & Musicians Industry News New Products Deals Bundles Brands Sign in Microphones All Microphones Condenser Mics Dynamic Mics Mic Accessories Drum Mics Studio Accessories All Studio Accessories Direct Boxes Patchbays Signal Processing All Signal Processing Compressors Limiters Graphic EQ Exciters Enhancers AD/DA Converters More Headphones Preamplifiers Audio Interfaces Recorders & Playback MIDI Interfaces Studio Mixers Pro Tools Studio Monitors Software & Plug-Ins Guides Tech Tips & Tutorials Gear Reviews Musician Resources Artists & Musicians Industry News New Products Deals Bundles Brands Sign in Home / Guides Gear Reviews Browse guides Artists & Musicians (49) Gear Reviews (155) Music Industry News (116) Musician Resources (219) New Products (93) Special Deals & Rebates (3) Tech Tips & Tutorials (222) More in this category JBL 3 Series Studio Monitors: A Closer Look LSR3 Line Heil Sound PR 22 Dynamic Microphone Review Fender Pawn Shop Mustang Bass Review Brand Spotlight: Radial Engineering Brand Spotlight: EMG Pickups And Electronics Brand Spotlight: Eden Amplification Shop the catalogue Microphones, interfaces, monitoring and studio accessories \u2014 every listing specced properly. Browse the catalogue \u2192 Walrus Audio Voyager Preamp/Overdrive Effects Pedal Review July 30, 2026 Gear Reviews Packing great tone, superb versatility, and top quality hand-built craftsmanship, Walrus Audio pedals don\u2019t just offer ways to color your instrument\u2019s sound, but an assortment of tools that push your tone to the next level. From the Janus Fuzz/Tremolo and its unique yet intuitive dual joystick controls to the insane amount of sonic possibilities packed into the Descent Reverb , Walrus Audio effects never fail to impress or surprise us. Today, we\u2019re taking the Voyager for a spin, a preamp-overdrive hybrid that always seems to be mentioned on several players\u2019 top lists. Is it as good as advertised? Keep reading to find out. The Features Of The Voyager Preamp OD The Walrus Audio Voyager @ $189.00 At its core, the Voyager is a low midrange overdrive pedal that can also function as a booster. And unlike the Mayflower Overdrive and it\u2019s many configurable settings, this Walrus Audio OD keeps things simple; Tone, Gain, Volume \u2014 that\u2019s it. While Volume and Gain are pretty self-explanatory, the Tone knob controls the amount of treble (with a particular emphasis on the midrange). As far as the build is concerned, this is a top quality pedal through and through. Handcrafted in the USA, the Voyager feels like a solid stompbox that should easily last you years of wear in tear on the road or in the studio. From the feel of the knobs to the satisfying click of the footswitch \u2014 not to mention the awesome paint job \u2014 you can tell that there was a lot of care and attention to detail when this pedal was being built. It should also be noted that Walrus Audio does not recommend using a daisy-chain type power supply. Instead, it should be used with an isolated power unit, such as its own AC brick (which is what we used), or a simple 9-volt battery.   The Sound Of the Voyager OD While three control knobs might not sound like a recipe for a versatile pedal, in action, the Voyager proves itself to be very capable of producing a wide range of sounds. With the gain turned low and the tone knob set past its midpoint, the Voyager brightens ",
+      "host": "soundaria.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://equipboard.com/items/walrus-audio-walrus-voyager-preamp-overdrive-mkii",
+      "title": "Walrus Audio Walrus Voyager Preamp/Overdrive MKII Pedal",
+      "h1": "",
+      "excerpt": "",
+      "host": "equipboard.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://device.report/manual/19042263",
+      "title": "WALRUS AUDIO VOYAGER Preamp/Overdrive Guitar Pedals Owner's Manual",
+      "h1": "",
+      "excerpt": "",
+      "host": "device.report",
+      "source_kind": "other"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}
