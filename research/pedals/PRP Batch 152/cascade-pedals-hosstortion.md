@@ -17,3 +17,33 @@
   - https://cascadepedals.com/about-us
   - https://www.premierguitar.com/cascade-pedals-unveils-the-hosstortion
   - https://guitar.com/news/gear-news/cascade-pedals-introduce-the-hosstortion/
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+The Hosstortion is a MOSFET distortion pedal.
+
+### Verified color/finish evidence
+- Other updates to the original include top-mounted jacks, a premium foot switch and anodized lug nut, and UV printed art graphics on Sour Apple green-sparkle powder-coated enclosure.
+
+### Verified transistor/device terms
+- BC337, silicon transistors.
+
+### Verified diode terms
+- BAT46, 1N5817, led.
+
+### Verified sound evidence
+Cascade Pedals debut the Hosstortion, a MOSFET distortion pedal
+Learn more Featured Deal A distortion legend: the Pro Co RAT 2 for just $88!
+Claim News Cascade Pedals debut the Hosstortion, a MOSFET distortion pedal Based off the short-lived but revered Ibanez MT-10 Mostortion.
+
+### Sources checked in this pass
+1. Cascade Pedals Unveils the Hosstortion - Premier Guitar: https://www.premierguitar.com/cascade-pedals-unveils-the-hosstortion
+2. Cascade Pedals debut the Hosstortion, a MOSFET distortion pedal | Guitar.com: https://guitar.com/news/gear-news/cascade-pedals-introduce-the-hosstortion/
+3. Cascade Pedals Unveils The Hosstortion: A Deep Technical and Musical Analysis | GearStrings: https://gearstrings.com/music-theory/cascade-pedals-unveils-the-hosstortion
+4. Cascade Pedals Hosstortion - What To Know & Where To Buy: https://equipboard.com/items/cascade-pedals-hosstortion
+5. Cascade Pedals Hosstortion — Ibanez Mostortion-Style MOSFET | Reverb: https://reverb.com/item/95007452-cascade-pedals-hosstortion-ibanez-mostortion-style-mosfet-overdrive-distortion-bass-high-gain-mods
+6. Cascade Pedals Hosstortion | Delicious Audio: https://delicious-audio.com/cascade-pedals-hosstortion/
+7. Hosstortion - Limited Edition Red: https://cascadepedals.com/shop/ols/products/hosstortion-limited-edition-red

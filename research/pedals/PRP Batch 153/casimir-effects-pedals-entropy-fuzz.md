@@ -15,3 +15,21 @@
 - **Research confidence:** High.
 - **Sources checked:**
   - https://www.effectsdatabase.com/model/casimir/entropy
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+The Casimir Effects "Entropy Fuzz" is perfect for everything from smooth, defined growl to a rich, thick wall of fuzz.
+
+### Verified diode terms
+- LED.
+
+### Verified sound evidence
+Casimir Effects Pedals Entropy Fuzz
+The Casimir Effects "Entropy Fuzz" is perfect for everything from smooth, defined growl to a rich, thick wall of fuzz.
+OD/Distortion, Fuzz, Octave Up, Guitar Synth, Drone&Noise Machine
+
+### Sources checked in this pass
+1. Casimir Effects Pedals Entropy Fuzz | Effects Database: https://www.effectsdatabase.com/model/casimir/entropy

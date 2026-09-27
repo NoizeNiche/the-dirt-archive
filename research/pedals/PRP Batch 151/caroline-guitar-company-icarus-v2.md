@@ -17,3 +17,17 @@
   - https://carolineguitar.com/product/icarusv2/
   - https://www.effectsdatabase.com/model/caroline/icarus
   - https://reverb.com/p/caroline-guitar-company-icarus-v2
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Caroline Guitar Company's Icarus V2 is cataloged as a distortion / fuzz / overdrive pedal.
+
+### Verified version references
+- The evidence references: V2.
+
+### Sources checked in this pass
+1. catalog/override source: https://reverb.com/p/caroline-guitar-company-icarus-v2
+2. ICARUS V2 - Caroline Guitar Company - Caroline Guitar Company: https://carolineguitar.com/product/icarusv2/

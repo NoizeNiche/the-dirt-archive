@@ -16,3 +16,18 @@
   - https://carlmartin.com/products/dc-drive/
   - https://carlmartin.com/products/dc-drive-2/
   - https://carlmartin.com/wp-content/uploads/2026/01/DC-Drive-2.pdf
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+At its core, DC-Drive is built around a responsive overdrive circuit that reacts naturally to how you play.
+
+### Verified sound evidence
+Toggle Menu DC-Drive A versatile, compact overdrive pedal with classic and modern tones at your feet.
+119,00 € Add to cart More details · Find a dealer Classic Carl Martin overdrive sound in a compact, pedalboard-friendly enclosure.
+Responsive circuit that cleans up with lighter playing and delivers more drive when you dig in.
+
+### Sources checked in this pass
+1. DC-Drive - Carl Martin: https://carlmartin.com/products/dc-drive/

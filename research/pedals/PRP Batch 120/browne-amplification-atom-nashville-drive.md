@@ -33,3 +33,18 @@ ATOM is part of Browne's Nashville-oriented overdrive family, aimed at articulat
 
 ## Sources checked
 1. Browne Amplification — The ALKENE / historical ATOM references: https://browneamps.com/the-alkene
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Browne Amplification's Atom - Nashville Drive is cataloged as an overdrive pedal.
+
+### Verified sound evidence
+Browne Amplification Atom - Nashville Drive
+Browne Amps lowered the gain to make it useable throughout the entire sweep of the knob, adjusted the EQ section to make it less scooped, restored some of the mids and tightened up the low end (to add just the right amount of low mid "beef" back into your tone without becoming muddy).
+The ATOM is a unique overdrive all on its own.
+
+### Sources checked in this pass
+1. Browne Amplification Atom - Nashville Drive | Effects Database: https://www.effectsdatabase.com/model/browne/atom

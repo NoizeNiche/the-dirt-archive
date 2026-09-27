@@ -16,3 +16,18 @@
 - **Sources checked:**
   - https://www.zzounds.com/item--CSTCRBOD
   - https://www.talkbass.com/threads/zzounds-bass-od-pedal-for-19-99.966022/
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+CastleRock's CastleRock Bass Overdrive is cataloged as an overdrive pedal.
+
+### Verified sound evidence
+Because the electric bass has an extended frequency range, the CR Bass Overdrive incorporates a dual-stacked distortion control where the inner knob controls the distortion amount for the higher frequencies and the outer knob controls the distortion for the lower frequencies.
+The CR Bass Overdrive also uses a dual-stacked control knob for Level and Gain.
+A separate Tone knob allows you to control the timbre by mixing the wet and dry signals.
+
+### Sources checked in this pass
+1. CastleRock Bass Overdrive | Effects Database: https://www.effectsdatabase.com/model/castlerock/bassoverdrive

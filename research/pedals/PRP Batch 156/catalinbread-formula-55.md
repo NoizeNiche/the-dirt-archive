@@ -19,3 +19,23 @@
   - https://www.guitarcenter.com/Catalinbread/Formula-55-Tweed-Deluxe-style-Overdrive-Effects-Pedal-Black-and-Silver-1500000392111.gc
   - https://www.sweetwater.com/store/detail/FormNo55--catalinbread-formula-no-55-tweed-deluxe-style-overdrive-pedal
   - https://www.effectsdatabase.com/model/catalinbread/formula55
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Catalinbread Effects's Formula 55 is cataloged as a distortion / overdrive pedal.
+
+### Verified color/finish evidence
+- Catalinbread Formula 55 Tweed Deluxe-style Overdrive Effects Pedal Black and Silver
+
+### Verified version references
+- The evidence references: v2.
+
+### Verified sound evidence
+Catalinbread Formula 55 Tweed Deluxe-style Overdrive Effects Pedal Black and Silver
+
+### Sources checked in this pass
+1. Catalinbread Formula 55 Tweed Deluxe-style Overdrive Effects Pedal Black and Silver | Guitar Center: https://www.guitarcenter.com/Catalinbread/Formula-55-Tweed-Deluxe-style-Overdrive-Effects-Pedal-Black-and-Silver-1500000392111.gc
+2. Formula 55 – Catalinbread Effects: https://catalinbread.com/products/formula-55-new-look

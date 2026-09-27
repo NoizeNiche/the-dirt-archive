@@ -29,3 +29,16 @@ The surviving catalog supports identifying FassBender as a fuzz machine, but not
 
 ## Sources checked
 1. Effects Database — BSM catalog: https://www.effectsdatabase.com/model/bsm
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+BSM's FassBender Fuzz Machine is cataloged as a fuzz pedal.
+
+### Verified version references
+- The evidence references: Mk 1, Mk I, Mk II, MkI.
+
+### Sources checked in this pass
+1. BSM FassBender Fuzz Machine | Effects Database: https://www.effectsdatabase.com/model/bsm/fassbender

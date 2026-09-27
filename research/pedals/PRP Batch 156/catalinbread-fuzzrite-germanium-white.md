@@ -16,3 +16,16 @@
 - **Sources checked:**
   - https://catalinbread.com/products/fuzzrite-germanium-white
   - https://catalinbread.com/products/fuzzrite-germanium
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Catalinbread Effects's Fuzzrite Germanium White is cataloged as a fuzz pedal.
+
+### Verified version references
+- The evidence references: v2.
+
+### Sources checked in this pass
+1. Fuzzrite Germanium (White) – Catalinbread Effects: https://catalinbread.com/products/fuzzrite-germanium-white

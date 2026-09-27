@@ -15,3 +15,13 @@
 - **Research confidence:** High for the RC4558, germanium diodes, control set, and documented design intent.
 - **Sources checked:**
   - https://www.effectsdatabase.com/model/catseye/muthafuzz
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Cat's Eye ESP's Mutha' Fuzz is cataloged as a distortion / fuzz pedal.
+
+### Sources checked in this pass
+1. Cat's Eye Mutha' Fuzz | Effects Database: https://www.effectsdatabase.com/model/catseye/muthafuzz

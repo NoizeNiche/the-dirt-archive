@@ -14,3 +14,18 @@
 - **Sources checked:**
   - https://www.accordo.it/article/viewPub/85000
   - https://www.effectsdatabase.com/updates/weekly/20130520
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Carella Guitars's Kung Fuzz is cataloged as a fuzz pedal.
+
+### Verified sound evidence
+Tu produci anche degli stompbox, dagli overdrive alle modulazioni, phaser e chorus.
+Nella sezione gain, c'è qualche standard famoso a cui ti rifai?
+Il Kung Fuzz è in rifacimento rivisto del famoso Fuzz Face.
+
+### Sources checked in this pass
+1. Carella Guitars: occuparsi di tutto tra dita e ampli: https://www.accordo.it/article/viewPub/85000

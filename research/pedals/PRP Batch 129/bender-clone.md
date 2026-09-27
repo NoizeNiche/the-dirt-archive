@@ -31,3 +31,21 @@ The Bender Clone is intended for large, woolly vintage fuzz with plenty of susta
 
 ## Sources checked
 1. Effects Database — Build Your Own Clone Bender Clone: https://www.effectsdatabase.com/model/byoc/bender
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Build Your Own Clone's Bender Clone is cataloged as a fuzz pedal.
+
+### Verified version references
+- The evidence references: MKII, Mk 1, Mk I, Mk II, MkI, V. 2.
+
+### Verified sound evidence
+Its huge amounts of thick woolly fuzz, tons of sustain, and controllable feedback even at bedroom levels is everything you could ask for in a fuzz.
+Tonebender & Death By Audio Fuzz War by www.geargasstore.com 1:18 2012-06-10 geargasdotcom BYOC E.S.V.
+2 Knob Tone Bender by www.geargasstore.com Clip 2 2:00 2012-06-05 geargasdotcom BYOC E.S.V.
+
+### Sources checked in this pass
+1. Build Your Own Clone Bender Clone | Effects Database: https://www.effectsdatabase.com/model/byoc/bender

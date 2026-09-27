@@ -34,3 +34,21 @@ ALKENE is voiced for clear crunchy rhythm tones and expressive lead overdrive ra
 
 ## Sources checked
 1. Browne Amplification — The ALKENE Nashville Overdrive: https://browneamps.com/the-alkene
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Browne Amplification's Alkene - Nashville Drive is cataloged as an overdrive pedal.
+
+### Verified color/finish evidence
+- Introduced as the successor to the discontinued Atom Nashville Drive, the Alkene occupies the same compact green enclosure but represents a distinct circuit and tonal direction within the Browne lineup.
+
+### Verified sound evidence
+Browne Amplification Alkene - Nashville Drive
+Introduced as the successor to the discontinued Atom Nashville Drive, the Alkene occupies the same compact green enclosure but represents a distinct circuit and tonal direction within the Browne lineup.
+The Atom, formerly the standalone version of the green channel from the Browne Protein Dual Overdrive, was discontinued in February 2025.
+
+### Sources checked in this pass
+1. Browne Amplification Alkene - Nashville Drive | Effects Database: https://www.effectsdatabase.com/model/browne/alkene

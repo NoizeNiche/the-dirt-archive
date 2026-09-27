@@ -14,3 +14,18 @@
 - **Research confidence:** High for the heavy-rock voicing, tight low end, Attack/Edge concept, and bypass/power information; medium for undocumented control-label details.
 - **Sources checked:**
   - https://carlmartin.com/products/heavy-drive/
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Toggle Menu Heavy Drive The Carl Martin Heavy Drive is a high-gain distortion pedal that delivers massive, tight low-end and heavy rock tones while preserving your guitar's natural character and tonal integrity.
+
+### Verified sound evidence
+Toggle Menu Heavy Drive The Carl Martin Heavy Drive is a high-gain distortion pedal that delivers massive, tight low-end and heavy rock tones while preserving your guitar's natural character and tonal integrity.
+This pedal excels at delivering the massive gain and sonic weight required for heavy rock applications while maintaining the clarity and definition that separates professional-grade distortion from muddy, compressed alternatives.
+What sets the Heavy Drive apart is its focus on tight, pronounced bass response combined with exceptional amounts of gain.
+
+### Sources checked in this pass
+1. Heavy Drive - Carl Martin: https://carlmartin.com/products/heavy-drive/

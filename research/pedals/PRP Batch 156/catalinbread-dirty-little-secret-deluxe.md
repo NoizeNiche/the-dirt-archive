@@ -18,3 +18,23 @@
   - https://www.manualslib.com/manual/3242282/Catalinbread-Dirtylittlesecret-Deluxe.html
   - https://catalinbread.com/collections/dirty-little
   - https://catalinbread.com/pages/manuals
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+The Dirty Little Secret Deluxe is dedicated to all things Marshall, featuring an all-discrete circuit with a preamp, phase inverter, power amp sim and output transformer.
+
+### Verified version references
+- The evidence references: MK II, v2.
+
+### Verified sound evidence
+Catalinbread Dirty Little Secret Deluxe Drive Pedal - Andertons Music Co.
+A built-in footswitchable boost modeled after a clean Marshall preamp and eﬀect order switch gives you a fully-customizable amp-in-a-box experience.
+Page 3 How it’s Shipped Who doesn't love the sound of a boost circuit slamming the front end of an amp?
+
+### Sources checked in this pass
+1. Dirty Little Secret Deluxe – Catalinbread Effects: https://catalinbread.com/products/dirty-little-secret-deluxe
+2. Catalinbread Dirty Little Secret Deluxe Drive Pedal - Andertons Music Co.: https://www.andertons.co.uk/catalinbread-dirty-little-secret-deluxe-drive-pedal/
+3. CATALINBREAD DIRTYLITTLESECRET DELUXE OWNER'S MANUAL Pdf Download | ManualsLib: https://www.manualslib.com/manual/3242282/Catalinbread-Dirtylittlesecret-Deluxe.html

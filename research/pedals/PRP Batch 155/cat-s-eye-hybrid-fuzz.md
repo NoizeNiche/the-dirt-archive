@@ -15,3 +15,17 @@
 - **Research confidence:** High for the model identity and hybrid germanium/silicon description; lower for undocumented production details.
 - **Sources checked:**
   - https://www.effectsdatabase.com/model/catseye/hybridfuzz
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Fat with loads of volume, rich harmonics and gobs of sustain, the Hybrid Fuzz shines through a small combo amp and is an absolute "Tone Monster" through a half stack!
+
+### Verified sound evidence
+With the the Hybrid Fuzz you get the best of both worlds: Germanium for its awesome tone and silicon for its high gain.
+Fat with loads of volume, rich harmonics and gobs of sustain, the Hybrid Fuzz shines through a small combo amp and is an absolute "Tone Monster" through a half stack!
+
+### Sources checked in this pass
+1. Cat's Eye Hybrid Fuzz | Effects Database: https://www.effectsdatabase.com/model/catseye/hybridfuzz

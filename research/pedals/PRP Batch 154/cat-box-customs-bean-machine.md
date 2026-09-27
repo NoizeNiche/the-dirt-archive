@@ -16,3 +16,25 @@
 - **Sources checked:**
   - https://delicious-audio.com/cat-box-customs-bean-machine-fuzz/
   - https://www.guitarpedalx.com/news/gpx-blog/in-tribute-to-recording-legend-steve-albinis-passing---here-are-23-representatives-of-the-fuzz-format-he-helped-popularise---the-interfax-harmonic-percolator-hp-1
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+by Paolo De Gregorio The Cat Box Customs Bean Machine Fuzz is a gorgeously colorful, hand-painted boutique take on the Harmonic Percolator circuit, coming right out or a basement in Columbus, Ohio.
+
+### Verified color/finish evidence
+- Catbox Previous post New Pedals: Marshall Black Box Series Reissues Next post Carl Martin Ampster 2 comments
+
+### Verified diode terms
+- bat41.
+
+### Verified sound evidence
+Delicious Audio Creative Pedals Creative Delay Tape Delay W/ Reverb Delay Distortion Fuzz Overdrive Dual Gain Dirt Boost Compr.
+by Paolo De Gregorio The Cat Box Customs Bean Machine Fuzz is a gorgeously colorful, hand-painted boutique take on the Harmonic Percolator circuit, coming right out or a basement in Columbus, Ohio.
+Check out this truly rocking video of it, we added it to our articles about the best Harmonic Percolator-inspired fuzz pedals .
+
+### Sources checked in this pass
+1. Cat Box Customs Bean Machine Fuzz | Delicious Audio: https://delicious-audio.com/cat-box-customs-bean-machine-fuzz/
+2. Cat Box Customs Bean Machine: https://reverb.grsm.io/DeliciousAudio771?search_term=Cat+Box+Bean+Machine

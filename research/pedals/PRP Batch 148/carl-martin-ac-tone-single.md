@@ -16,3 +16,21 @@
   - https://carlmartin.com/products/ac-tone-single/
   - https://carlmartin.com/wp-content/uploads/2026/01/Single-AC-Tone.pdf
   - https://www.effectsdatabase.com/model/carlmartin/s/actone
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+The AC-Tone Single is voiced after the classic Vox AC30 amp, delivering everything from shimmering, chiming clean tones to full-on British rock overdrive.
+
+### Verified transistor/device terms
+- AC30.
+
+### Verified sound evidence
+Toggle Menu AC-Tone Single Dynamic overdrive pedal delivering classic British tones with modern flexibility 149,00 € Add to cart More details · Find a dealer Focused British-style overdrive with dynamic, touch-responsive feel.
+Unique Cut control acts as a low-pass filter to tame high-end without dulling your tone.
+Runs internally at ±12V for extra headroom and clarity, powered by a standard 9V supply.
+
+### Sources checked in this pass
+1. AC-Tone Single - Carl Martin: https://carlmartin.com/products/ac-tone-single/

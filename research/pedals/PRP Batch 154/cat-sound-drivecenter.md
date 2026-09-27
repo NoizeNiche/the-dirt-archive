@@ -16,3 +16,13 @@
 - **Sources checked:**
   - https://www.effectsdatabase.com/model/catsound/drivecenter
   - https://bbs.guitarschina.com/thread-657819-1-1.html
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+CAT Sound's DriveCenter is cataloged as an overdrive pedal.
+
+### Sources checked in this pass
+1. CAT Sound DriveCenter | Effects Database: https://www.effectsdatabase.com/model/catsound/drivecenter

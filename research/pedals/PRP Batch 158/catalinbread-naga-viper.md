@@ -17,3 +17,17 @@
   - https://catalinbread.com/products/naga-viper-gold
   - https://reverb.com/item/69060992-catalinbread-naga-viper-treble-booster
   - https://catalinbread.com/products/naga-viper-mkii
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Catalinbread Effects's Naga Viper is cataloged as an overdrive pedal.
+
+### Verified version references
+- The evidence references: MKII, v2.
+
+### Sources checked in this pass
+1. catalog/override source: https://reverb.com/item/69060992-catalinbread-naga-viper-treble-booster
+2. Naga Viper MKII – Catalinbread Effects: https://catalinbread.com/products/naga-viper-mkii

@@ -15,3 +15,16 @@
 - **Research confidence:** High for the preamp inspiration, control set, germanium/transformer architecture, and stated sonic range.
 - **Sources checked:**
   - https://catalinbread.com/products/crooner-preamp
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Catalinbread Effects's Crooner Preamp is cataloged as a distortion / fuzz / overdrive pedal.
+
+### Verified version references
+- The evidence references: v2.
+
+### Sources checked in this pass
+1. Crooner Preamp – Catalinbread Effects: https://catalinbread.com/products/crooner-preamp

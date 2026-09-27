@@ -17,3 +17,16 @@
   - https://catalinbread.com/products/sft2
   - https://catalinbread.com/products/sft-blackout-series
   - https://catalinbread.com/products/sft-fireworks-collection
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Catalinbread Effects's SFT is cataloged as a distortion / fuzz / overdrive pedal.
+
+### Verified version references
+- The evidence references: v2.
+
+### Sources checked in this pass
+1. SFT – Catalinbread Effects: https://catalinbread.com/products/sft2

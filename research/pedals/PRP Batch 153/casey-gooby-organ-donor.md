@@ -16,3 +16,16 @@
 - **Sources checked:**
   - https://www.effectsdatabase.com/model/caseygooby/organdonor
   - https://www.talkbass.com/threads/pypb-44-like-tetris-with-boxes-wires-and-cables.1063732/page-695
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Casey Gooby's Organ Donor is cataloged as a fuzz pedal.
+
+### Verified sound evidence
+You can play all day with some of the sounds and response that come from this pedal.
+
+### Sources checked in this pass
+1. Casey Gooby Organ Donor | Effects Database: https://www.effectsdatabase.com/model/caseygooby/organdonor

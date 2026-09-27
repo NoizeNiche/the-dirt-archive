@@ -28,3 +28,21 @@ The documented range covers loud clean boost, light drive, and heavy crunch, wit
 2. Byron Amplification pedal catalog: https://byronamplification.com/pedals
 
 The controls, MOSFET clipping, original-design statement, 9V power, and true-bypass details are documented by Byron. citeturn1search0turn1search2
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Byron Amplification's Viper Ninja Overdrive is cataloged as an overdrive pedal.
+
+### Verified diode terms
+- LED.
+
+### Verified sound evidence
+It is designed not to emulate a specific tone, but to be an extension of your amp and guitar, a tool that helps you dial in the drive sound you’re looking for.
+The Viper Ninja is a highly versatile medium gain drive that is very dynamic and amp-like.
+The tonal character is smooth, with a rich, natural midrange that is not as overbearing as some drive pedals can be.
+
+### Sources checked in this pass
+1. Viper Ninja Overdrive -Champagne Sparkle — Byron Amplification: https://byronamplification.com/pedals/viperninja-champagne

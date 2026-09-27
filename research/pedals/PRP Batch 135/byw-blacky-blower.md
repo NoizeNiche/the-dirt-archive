@@ -24,3 +24,19 @@ BYW lists the enclosure at 119 × 93 × 30 mm. The builder says the pedal was de
 2. TalkBass discussion documenting the pedal as the BYW Audio Blacky Blower bass distortion: https://www.talkbass.com/threads/build-your-weapon-audio-blacky-blower.1444671/
 
 The circuit and control claims above are taken from BYW Audio's own product description. citeturn0search0
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+BYW Audio's Blacky' Blower is cataloged as a distortion pedal.
+
+### Verified sound evidence
+That is a 6 knobs function distorsion: the basic 3 bands EQ, Treble, Mid and Bass, a Drive, a Voice and a Level.
+Because transistor pedals have only one sound and one tone, I built that pedal in order to allow diverse variations.
+You will have to fine-tune it to get the tone you want.
+
+### Sources checked in this pass
+1. Blacky’ Blower – distorsion – BYW Audio: https://bywaudio.com/index.php/product/blacky-blower/
+2. catalog/override source: https://www.talkbass.com/threads/build-your-weapon-audio-blacky-blower.1444671/

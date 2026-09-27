@@ -17,3 +17,20 @@
   - https://www.effectsdatabase.com/model/catalinbread/antichthon
   - https://www.youtube.com/watch?v=TbTulnuTt4w
   - https://reverb.com/p/catalinbread-antichthon
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Although Antichthon truly is another world, it gives you a wormhole back to something that seems familiar.
+
+### Verified sound evidence
+Catalinbread Antichthon - Fuzz Tremolo
+The Catalinbread Antichthon gives you an entirely new palette of sound and response to work from!
+Designed to be controlled from your guitars volume knob, Antichthon has a multitude of sounds and possibilities that can be broken down into three general categories: Dynamic fuzz tremolo, fuzzolo, if you will, where you can alter the speed and the sound of the tremolo by turning your guitars volume knob.
+
+### Sources checked in this pass
+1. Catalinbread Antichthon - Fuzz Tremolo | Effects Database: https://www.effectsdatabase.com/model/catalinbread/antichthon
+2. Catalinbread Antichthon Effects Pedal - Shape Your Sound — Guitars, Studio Gear, and Pro Audio for Every Music Journey: https://www.soundforpe.com/product/catalinbread-antichthon-effects-pedal/
+3. catalog/override source: https://reverb.com/p/catalinbread-antichthon

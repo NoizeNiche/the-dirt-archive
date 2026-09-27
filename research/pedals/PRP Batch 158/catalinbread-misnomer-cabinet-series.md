@@ -16,3 +16,16 @@
 - **Sources checked:**
   - https://catalinbread.com/products/misnomer-cabinet-series
   - https://www.effectsdatabase.com/model/catalinbread/cabinet/misnomer
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Catalinbread Effects's Misnomer (Cabinet Series) is cataloged as an overdrive pedal.
+
+### Verified version references
+- The evidence references: v2.
+
+### Sources checked in this pass
+1. Misnomer (Cabinet Series) – Catalinbread Effects: https://catalinbread.com/products/misnomer-cabinet-series

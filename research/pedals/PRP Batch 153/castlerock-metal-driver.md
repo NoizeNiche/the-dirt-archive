@@ -16,3 +16,22 @@
 - **Sources checked:**
   - https://www.effectsdatabase.com/model/castlerock/metaldriver
   - https://www.zzounds.com/item--CSTCRGMD
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Overview - The CastleRock Metal Driver pedal is not your typical distortion pedal, because metal requires a very different type of distortion.
+
+### Verified diode terms
+- LED.
+
+### Verified sound evidence
+CastleRock Metal Driver Distortion Pedal
+A killer value, the CastleRock Metal Driver pedal adds classic metal distortion to your guitar tone: tight lows, semi-scooped mids, and aggressive highs.
+Overview - The CastleRock Metal Driver pedal is not your typical distortion pedal, because metal requires a very different type of distortion.
+
+### Sources checked in this pass
+1. CastleRock Metal Driver | Effects Database: https://www.effectsdatabase.com/model/castlerock/metaldriver
+2. CastleRock Metal Driver Distortion Pedal | zZounds: https://www.zzounds.com/item--CSTCRGMD

@@ -28,3 +28,19 @@ The archive confirms Terraformer as an overdrive project, but its accessible lis
 
 ## Sources checked
 1. Broughton Audio Pedal Archive: https://www.broughtonaudio.com/archive
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Broughton Audio's Terraformer is cataloged as an overdrive pedal.
+
+### Verified sound evidence
+Tone shaping is provided by a three-band equalizer offering up to 15 dB of boost or cut across low, mid, and high frequencies.
+
+### Sources checked in this pass
+1. Terraformer | Broughton Audio: https://www.broughtonaudio.com/product-page/terraformer
+2. Broughton Audio Terraformer - Reverb: https://reverb.com/item/95679495-broughton-audio-terraformer
+3. Terraformer by Broughton Audio | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/Broughton-Audio/Terraformer/8641670187/
+4. Broughton Audio Terraformer | TalkBass.com: https://www.talkbass.com/classifieds/broughton-audio-terraformer.1684564/

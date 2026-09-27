@@ -15,3 +15,13 @@
 - **Research confidence:** High for identity/category; low-to-medium for technical details.
 - **Sources checked:**
   - https://www.effectsdatabase.com/model/catsound/drivecenter/bass
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+CAT Sound's DriveCenter Bass is cataloged as an overdrive pedal.
+
+### Sources checked in this pass
+1. CAT Sound DriveCenter Bass | Effects Database: https://www.effectsdatabase.com/model/catsound/drivecenter/bass

@@ -16,3 +16,28 @@
 - **Sources checked:**
   - https://www.pedal-of-the-day.com/2016/02/16/caswell-modern-electronics-boost-90-clean-drive/
   - https://www.youtube.com/watch?v=p6cNJnIbxIo
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Hailing from Pasadena, CA, the Boost 90 Clean Drive is a rock and rolling take on a clean boost, brought to you by Caswell Modern Electronics.
+
+### Verified color/finish evidence
+- The initial strum or pluck from the guitar sounds clean, but has a bit of a dirty finish.
+
+### Verified version references
+- The evidence references: MKII.
+
+### Verified diode terms
+- LED.
+
+### Verified sound evidence
+In the case of today’s pedal, that magic ingredient is a Boost pedal.
+Hailing from Pasadena, CA, the Boost 90 Clean Drive is a rock and rolling take on a clean boost, brought to you by Caswell Modern Electronics.
+As with most boost pedals, the Boost 90 has only one control knob, which makes it really, really easy to use (really).
+
+### Sources checked in this pass
+1. Caswell Modern Electronics Boost 90 Clean Drive - Pedal of the Day: https://www.pedal-of-the-day.com/2016/02/16/caswell-modern-electronics-boost-90-clean-drive/
+2. Boost 90: http://www.caswellmodernelectronics.com/product/boost-90-clean-drive

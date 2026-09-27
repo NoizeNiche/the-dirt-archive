@@ -15,3 +15,16 @@
 - **Research confidence:** High for the current circuit description, controls, and power.
 - **Sources checked:**
   - https://catalinbread.com/products/clean-little-secret
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Catalinbread Effects's Clean Little Secret is cataloged as a distortion / overdrive pedal.
+
+### Verified version references
+- The evidence references: v2.
+
+### Sources checked in this pass
+1. Clean Little Secret – Catalinbread Effects: https://catalinbread.com/products/clean-little-secret

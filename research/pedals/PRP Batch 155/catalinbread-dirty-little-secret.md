@@ -18,3 +18,21 @@
   - https://www.musicradar.com/news/guitars/catalinbread-launches-redesigned-dirty-little-secret-570793
   - https://www.musicradar.com/reviews/guitars/catalinbread-dirty-little-secret-632770
   - https://www.guitarworld.com/news/catalinbreads-dirty-little-secret-overdrive-pedal-just-got-a-little-bit-dirtier
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Catalinbread’s Dirty Little Secret overdrive pedal just got a little bit dirtier
+
+### Verified version references
+- The evidence references: v2.
+
+### Verified sound evidence
+Catalinbread’s Dirty Little Secret overdrive pedal just got a little bit dirtier
+
+### Sources checked in this pass
+1. Dirty Little Secret – Catalinbread Effects: https://catalinbread.com/products/dirty-little-secret
+2. Catalinbread launches redesigned Dirty Little Secret | MusicRadar: https://www.musicradar.com/news/guitars/catalinbread-launches-redesigned-dirty-little-secret-570793
+3. Catalinbread’s Dirty Little Secret overdrive pedal just got a little bit dirtier | Guitar World: https://www.guitarworld.com/news/catalinbreads-dirty-little-secret-overdrive-pedal-just-got-a-little-bit-dirtier

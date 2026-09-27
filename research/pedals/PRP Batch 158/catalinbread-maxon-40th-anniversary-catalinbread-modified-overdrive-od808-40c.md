@@ -17,3 +17,20 @@
   - https://catalinbread.com/products/maxon-40th-anniversary-catalinbread-modified-overdrive-od808-40c
   - https://maxonfx.com/products/40th-anniversary-catalinbread-modified-overdrive-od808-40c
   - https://delicious-audio.com/maxon-40th-anniversary-catalinbread-modded-od808-40c/
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Catalinbread Effects's Maxon 40th Anniversary Catalinbread Modified Overdrive (OD808-40C) is cataloged as an overdrive pedal.
+
+### Verified version references
+- The evidence references: v2, v4.
+
+### Verified sound evidence
+Catalinbread's version has insane amounts of gain and output, yet still sporting the classic 808 purr.
+
+### Sources checked in this pass
+1. Maxon 40th Anniversary Catalinbread Modified Overdrive (OD808-40C) – Catalinbread Effects: https://catalinbread.com/products/maxon-40th-anniversary-catalinbread-modified-overdrive-od808-40c
+2. Catalinbread Effects is 1 of 4 builders asked to mod the OD808 for Maxon's 40th anniversary. Catalinbread's version has insane amounts of gain and output, yet still sporting the classic 808 purr. | Distortion Ltd: https://www.facebook.com/distortionltd/videos/maxon-40th-anniversary-catalinbread-modified-overdrive-od808-40c/1394093330757938/

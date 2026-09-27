@@ -18,3 +18,15 @@
   - https://www.manualzz.com/doc/17261875/catalinbread-formula-5f6-pedal-manual
   - https://www.zzounds.com/item--CAT5F6
   - https://catalinbread.com/collections/foundation-overdrive-series
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Catalinbread Effects's Formula 5F6 is cataloged as a distortion / overdrive pedal.
+
+### Sources checked in this pass
+1. catalog/override source: https://www.sweetwater.com/store/detail/Form5F6--catalinbread-formula-5f6-tweed-bassman-style-overdrive-pedal
+2. catalog/override source: https://www.guitarcenter.com/Used/Catalinbread/Used-Catalinbread-Formula-5F6-Effect-Pedal-122296945.gc
+3. catalog/override source: https://www.manualzz.com/doc/17261875/catalinbread-formula-5f6-pedal-manual

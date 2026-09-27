@@ -16,3 +16,22 @@
 - **Sources checked:**
   - https://catalinbread.com/products/carbide
   - https://www.effectsdatabase.com/model/catalinbread/carbide
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Print Purple Gaze Edition Purple Gaze Edition Information Catalinbread The Carbide is a pulverizing distortion pedal that captures the mighty "chainsaw sound," typically associated with a cranked HM-2, and much more.
+
+### Verified version references
+- The evidence references: v2.
+
+### Verified sound evidence
+Catalinbread Carbide - Pulverizing Distortion
+Print Purple Gaze Edition Purple Gaze Edition Information Catalinbread The Carbide is a pulverizing distortion pedal that captures the mighty "chainsaw sound," typically associated with a cranked HM-2, and much more.
+In lay terms, the Carbide is a pulverizing distortion with heady boosts to certain frequency bandsÃ¢Â€"three of them, to be exactÃ¢Â€"and a ton of volume.
+
+### Sources checked in this pass
+1. Catalinbread Carbide - Pulverizing Distortion | Effects Database: https://www.effectsdatabase.com/model/catalinbread/carbide
+2. Carbide Distortion – Catalinbread Effects: https://catalinbread.com/products/carbide

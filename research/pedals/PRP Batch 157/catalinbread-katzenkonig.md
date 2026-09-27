@@ -17,3 +17,16 @@
   - https://catalinbread.com/products/katzenkonig
   - https://catalinbread.com/products/katz-fireworks
   - https://catalinbread.com/collections/boost-fuzz-distortion-series
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Catalinbread Effects's Katzenkönig is cataloged as a distortion / fuzz pedal.
+
+### Verified version references
+- The evidence references: v2.
+
+### Sources checked in this pass
+1. Katzenkönig – Catalinbread Effects: https://catalinbread.com/products/katzenkonig

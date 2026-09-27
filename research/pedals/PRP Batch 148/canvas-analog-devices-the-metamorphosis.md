@@ -14,3 +14,14 @@
 - **Research confidence:** Medium for the core identity, handmade Colombian production, 2021 example, and tonal description; low for component-level details not published by the source.
 - **Sources checked:**
   - https://reverb.com/item/43102648-canvas-analog-devices-the-metamorphosis-overdrive-pedal
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Canvas Analog Devices's The Metamorphosis is cataloged as an overdrive pedal.
+
+### Sources checked in this pass
+1. catalog/override source: https://reverb.com/item/43102648-canvas-analog-devices-the-metamorphosis-overdrive-pedal
+2. Canvas Analog Devices "The Metamorphosis" Overdrive Pedal.: https://www.bestmusiccompanion.com/product/canvas-analog-devices-the-metamorphosis-overdrive-pedal/

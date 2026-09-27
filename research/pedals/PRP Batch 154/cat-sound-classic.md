@@ -15,3 +15,13 @@
 - **Research confidence:** High for identity and category; low-to-medium for everything beyond that.
 - **Sources checked:**
   - https://www.effectsdatabase.com/model/catsound/classic
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+CAT Sound's Classic is cataloged as a distortion pedal.
+
+### Sources checked in this pass
+1. CAT Sound Classic | Effects Database: https://www.effectsdatabase.com/model/catsound/classic

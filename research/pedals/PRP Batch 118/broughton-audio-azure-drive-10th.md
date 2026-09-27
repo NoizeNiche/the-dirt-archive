@@ -29,3 +29,15 @@ The manufacturer's archive confirms Azure Drive 10th as an overdrive project but
 
 ## Sources checked
 1. Broughton Audio Pedal Archive, page 2: https://www.broughtonaudio.com/archive?page=2
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Broughton Audio's Azure Drive 10th is cataloged as an overdrive pedal.
+
+### Sources checked in this pass
+1. Azure Drive 10th | Broughton Audio: https://www.broughtonaudio.com/product-page/azure-drive-10th
+2. Broughton Audio Azure Drive 10th Anniversary - Reverb: https://reverb.com/p/broughton-audio-azure-drive-10th-anniversary
+3. Broughton Audio Azure Drive 10th Anniversary Overdrive Pedal: https://www.ebay.com/itm/177315934521

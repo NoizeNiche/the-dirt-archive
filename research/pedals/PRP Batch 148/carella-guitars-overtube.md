@@ -14,3 +14,14 @@
 - **Sources checked:**
   - https://reverb.com/item/91128449-carella-guitars-overtube-effetto-overdrive-per-chitarra
   - https://www.mercatinomusicale.com/mm/s__kw%2Bpulser%2Bmultivox.html
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Carella Guitars's Overtube is cataloged as an overdrive pedal.
+
+### Sources checked in this pass
+1. catalog/override source: https://reverb.com/item/91128449-carella-guitars-overtube-effetto-overdrive-per-chitarra
+2. catalog/override source: https://www.effectsdatabase.com/model/carella/overtube

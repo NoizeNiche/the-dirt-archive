@@ -1,0 +1,25 @@
+{
+  "builder": "BYW Audio",
+  "pedal": "Blacky' Blower",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 2,
+  "sources": [
+    {
+      "url": "https://bywaudio.com/index.php/product/blacky-blower/",
+      "title": "Blacky\u2019 Blower \u2013 distorsion \u2013 BYW Audio",
+      "h1": "Blacky\u2019 Blower \u2013 distorsion",
+      "excerpt": "Blacky\u2019 Blower \u2013 distorsion \u2013 BYW Audio Boutique Story Policies Get in touch Newsletter My Account Skip to navigation Skip to content BYW Audio Menu Stompboxes 500 Series Preamps Compressors Equalizers Rackmount Op-amps Home \u00c0 propos Basket Boutique Checkout Contactez-nous Get in touch HAIRBALL FET/500 | RACK CALIBRATION HAIRBALL FET RACK Active link instruction Infolettres Mon compte My Account Newsletter Nos Politiques Panier Policies Story Validation $ 0.00 CAD 0 items Home / Stompboxes / Blacky\u2019 Blower \u2013 distorsion Blacky\u2019 Blower \u2013 distorsion $ 260.00 CAD A distortion pedal inspired by my musical career. The design are fairly simple: 5 silicon jFet transistors opamp in a 3 stages working in a combined effort that amplified the source to a bend of harmonies. That is a 6 knobs function distorsion: the basic 3 bands EQ, Treble, Mid and Bass, a Drive, a Voice and a Level. The Voice and the Mid are of key importance for they giving you the scope and range you can get with that cool tool. Because transistor pedals have only one sound and one tone, I built that pedal in order to allow diverse variations. You will have to fine-tune it to get the tone you want. But please don\u2019t put all the knobs to 10! This tools was not designed for that use. Well, you may try it at your own risks though! An other think that I wanted, was to have something like a cab simulator or at least something that cut drastically the treble and somehow re-shape a little the harmonics, so it can be used for direct recording, which I find very useful for when you just want to record quickly an idea, so just plug and play. The core of this simple design is multiple low pass and high pass filters. And finally, I add this remarkable simple two knobs opto compressor with dual opamp. I find it very clean and useful, that give additional tone to the distortion sound, sustain and a more stable dynamics. It can be use as a booster. The Blacky\u2019 Blower has eq and opto set for bass tone. I also find it pretty good on guitar and keyboard. SPECIFICATIONS: Controls include :: DRIVE, VOICE, LEVEL, SUSTAIN, VOLUME, TREBLE, MID and BASS True bypass switching Common 9vdc BOSS style power input [negative centre (-)] Current draw +/- 50mA Size 4.67 in L x 3.68 in W x 1.18 in H (119 mm L x 93 mm W x 30 mm H) Power supply not included. Shipping will be scheduled depending on availability. In stock (can be backordered) Blacky' Blower - distorsion quantity Add to cart \u00a9 BYW Audio 2026 &copy; BYW Audio 2026 All Canadian costumers, we encourage you to pay using E-Transfer - Interac, thank you! It is safe and with no fee. Dismiss",
+      "host": "bywaudio.com",
+      "source_kind": "manufacturer"
+    },
+    {
+      "url": "https://www.talkbass.com/threads/build-your-weapon-audio-blacky-blower.1444671/",
+      "title": "catalog/override source",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.talkbass.com",
+      "source_kind": "catalog_verified"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}

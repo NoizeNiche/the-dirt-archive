@@ -17,3 +17,22 @@
   - https://catalinbread.com/products/giygas-2k-fuzz
   - https://www.effectsdatabase.com/model/catalinbread/giygas/2k
   - https://catalinbread.com/pages/giygasdemos
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Catalinbread Effects's Giygas 2K Fuzz is cataloged as a fuzz pedal.
+
+### Verified version references
+- The evidence references: v2.
+
+### Verified sound evidence
+Unlike traditional Muff pedals that employ a dual-filter tone circuit, the Giygas 2K avoids the lossy mid-scooping design, delivering a punchy tonal profile that interacts naturally with the surrounding circuitry.
+The fuzz control provides a wide sweep, ranging from a warm, gritty boost at lower settings to thick, square-wave fuzz saturation at higher levels.
+Controls Loud: Sets the overall output volume, from quiet to high-gain levels.
+
+### Sources checked in this pass
+1. Giygas 2K Fuzz – Catalinbread Effects: https://catalinbread.com/products/giygas-2k-fuzz
+2. Catalinbread Giygas 2K - Fuzz | Effects Database: https://www.effectsdatabase.com/model/catalinbread/giygas/2k

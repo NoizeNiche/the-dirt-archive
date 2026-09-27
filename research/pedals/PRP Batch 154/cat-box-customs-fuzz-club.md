@@ -16,3 +16,17 @@
 - **Sources checked:**
   - https://guitarsforidiots.com/2023/05/09/meet-the-fuzz-club-your-new-versatile-loud-fuzz-friend/
   - https://reverb.com/item/87322156-fuzz-club-7-transistor-dba-fuzz-war-insanely-loud-gnarly-cat-box-customs
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Cat Box Customs's Fuzz Club is cataloged as a fuzz pedal.
+
+### Verified version references
+- The evidence references: v1, v2.
+
+### Sources checked in this pass
+1. catalog/override source: https://reverb.com/item/87322156-fuzz-club-7-transistor-dba-fuzz-war-insanely-loud-gnarly-cat-box-customs
+2. Home | Cat Box Customs: https://catboxcustoms.bigcartel.com/

@@ -1,0 +1,25 @@
+{
+  "builder": "Cat Box Customs",
+  "pedal": "Fuzz Club",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 2,
+  "sources": [
+    {
+      "url": "https://reverb.com/item/87322156-fuzz-club-7-transistor-dba-fuzz-war-insanely-loud-gnarly-cat-box-customs",
+      "title": "catalog/override source",
+      "h1": "",
+      "excerpt": "",
+      "host": "reverb.com",
+      "source_kind": "reverb"
+    },
+    {
+      "url": "https://catboxcustoms.bigcartel.com/",
+      "title": "Home | Cat Box Customs",
+      "h1": "Featured Products",
+      "excerpt": "Home | Cat Box Customs Skip to main content Products Contact Cart ( 0 ) Products Contact Cart ( 0 ) Featured Products Bean Machine v2 #99 $ 180.00 Sold out Bean Machine v2 #98 $ 180.00 Sold out Bean Machine v2 #97 $ 180.00 Sold out Bean Machine v2 #93 $ 180.00 Sold out Bean Machine v1 #115 $ 135.00 Bean Machine v1 #113 $ 135.00 Bean Machine v1 #110 $ 135.00 Bean Machine v1 #104 $ 135.00 Bean Machine v1 #107 $ 135.00 Fuzz Club #23 $ 110.00 Fuzz Club #21 $ 110.00 Fuzz Club #17 $ 110.00 Fuzz Club #12 $ 110.00 Home Products Contact Cart Powered by",
+      "host": "catboxcustoms.bigcartel.com",
+      "source_kind": "manufacturer"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}

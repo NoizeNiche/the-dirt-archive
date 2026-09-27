@@ -14,3 +14,15 @@
 - **Sources checked:**
   - https://reverb.com/item/11956050-captain-fx-yeti-bass-fuzz
   - https://captainfx.bigcartel.com/category/guitar-effects-pedal
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Captain FX's Yeti Fuzz is cataloged as a fuzz pedal.
+
+### Sources checked in this pass
+1. catalog/override source: https://reverb.com/item/12302167-captain-fx-yeti-fuzz-pedal-rare-mint-condition-free-shipping
+2. Captain FX Yeti Fuzz - Effects Database: https://www.effectsdatabase.com/model/captainfx/yetifuzz
+3. https://www.pinterest.com/pin/captain-fx-yeti-fuzz--457608012142476662/: https://www.pinterest.com/pin/captain-fx-yeti-fuzz--457608012142476662/

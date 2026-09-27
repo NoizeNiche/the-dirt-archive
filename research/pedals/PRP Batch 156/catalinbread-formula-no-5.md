@@ -17,3 +17,16 @@
   - https://catalinbread.com/products/formula-no-5-reissue
   - https://catalinbread.com/collections/all?page=2
   - https://www.effectsdatabase.com/model/catalinbread/formula5
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Catalinbread Effects's Formula No. 5 is cataloged as a distortion / overdrive pedal.
+
+### Verified version references
+- The evidence references: v2.
+
+### Sources checked in this pass
+1. Formula No. 5 (Reissue) – Catalinbread Effects: https://catalinbread.com/products/formula-no-5-reissue

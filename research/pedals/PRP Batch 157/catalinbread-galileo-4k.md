@@ -17,3 +17,16 @@
   - https://catalinbread.com/products/galileo-4k
   - https://catalinbread.com/products/galileo
   - https://catalinbread.com/pages/manuals
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Catalinbread Effects's Galileo 4K is cataloged as a distortion / overdrive pedal.
+
+### Verified version references
+- The evidence references: v2.
+
+### Sources checked in this pass
+1. Galileo 4K – Catalinbread Effects: https://catalinbread.com/products/galileo-4k

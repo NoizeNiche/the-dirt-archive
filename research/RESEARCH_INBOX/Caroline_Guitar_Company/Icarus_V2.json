@@ -1,0 +1,25 @@
+{
+  "builder": "Caroline Guitar Company",
+  "pedal": "Icarus V2",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 2,
+  "sources": [
+    {
+      "url": "https://reverb.com/p/caroline-guitar-company-icarus-v2",
+      "title": "catalog/override source",
+      "h1": "",
+      "excerpt": "",
+      "host": "reverb.com",
+      "source_kind": "reverb"
+    },
+    {
+      "url": "https://carolineguitar.com/product/icarusv2/",
+      "title": "ICARUS V2 - Caroline Guitar Company - Caroline Guitar Company",
+      "h1": "ICARUS V2",
+      "excerpt": "ICARUS V2 - Caroline Guitar Company - Caroline Guitar Company Dreamed, designed, and created at our small batch \u0003distortery\u2122 in Columbia, South Carolina. Products Artists About Retailers Blog My account Checkout Cart ICARUS V2 Sonic Awesomeness ICARUS V2 $ 189.00 Owner\u2019s manual (PDF) Out of stock Category: Legacy Products Buffer, booster, and rich overdrive all in one, with a mix of Russian germanium sweetness. It\u2019s 1972. A Soviet surveillance microphone preamp has made its way west thanks to a courageous defector. The nascent, nefarious, and invisible Caroline Corporation obtains it and converts it into devices for military psychoacoustic special operations, then covertly delivers them to legendary users with fame and influence for evaluation. Decades later, the Corporation\u2019s hilariously neglected \u201cGuitar Company\u201d satellite office, blissfully unaware that their parent company has dissolved decades earlier, discovers the schematic and parts specifications. They source some discontinued Russian \u201cunobtanium\u201d diodes and recreate its special flavor. There is no evidence that any of the above has or has not happened. So anyway, here\u2019s ICARUS\u2122. It is \u201csonic awesomeness\u201d based on our PARABOLA and M\u00c9T\u00c9ORE preamps. Demos Available from our Fine Retailers Additional information MODEL STANDARD, ALPHA GAIN Artists Products About Blog Retailers Contact facebook-official twitter instagram youtube &copy; Copyright 2026 Caroline Guitar Company",
+      "host": "carolineguitar.com",
+      "source_kind": "catalog_verified"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}

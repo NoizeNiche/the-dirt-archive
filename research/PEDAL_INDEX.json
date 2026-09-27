@@ -15036,8 +15036,8 @@
       "image": "",
       "source_page": "https://www.effectsdatabase.com/model/boss/compact/fz2",
       "research_record": "./research/pedals/BOSS/FZ-2 Hyper Fuzz.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "BOSS",
@@ -15048,8 +15048,8 @@
       "image": "",
       "source_page": "https://www.effectsdatabase.com/model/boss/compact/fz3",
       "research_record": "./research/pedals/BOSS/FZ-3 Fuzz.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "BOSS",
@@ -15206,8 +15206,8 @@
       "image": "",
       "source_page": "https://www.effectsdatabase.com/model/boss/compact/od1",
       "research_record": "./research/pedals/BOSS/OD-1 OverDrive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "BOSS",
@@ -16071,8 +16071,8 @@
       "research_record": "./research/pedals/PRP Batch 118/broughton-audio-azure-drive-10th.md",
       "image_source_page": "https://www.broughtonaudio.com/archive?page=2",
       "image_source_url": "https://static.wixstatic.com/media/4b9583_e3f208948dad43e9a21fc03c7fb15e7d~mv2.jpg/v1/fill/w_286,h_286,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/4b9583_e3f208948dad43e9a21fc03c7fb15e7d~mv2.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Broughton Audio",
@@ -16156,8 +16156,8 @@
       "research_record": "./research/pedals/PRP Batch 119/broughton-audio-helion.md",
       "image_source_page": "https://www.broughtonaudio.com/archive",
       "image_source_url": "https://static.wixstatic.com/media/4b9583_c7cb05d63ac34260a9b010109e15d8f0~mv2.png/v1/fill/w_286,h_286,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/4b9583_c7cb05d63ac34260a9b010109e15d8f0~mv2.png",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Broughton Audio",
@@ -16312,8 +16312,8 @@
       "research_record": "./research/pedals/PRP Batch 119/broughton-audio-terraformer.md",
       "image_source_page": "https://www.broughtonaudio.com/archive",
       "image_source_url": "https://static.wixstatic.com/media/4b9583_c7cb05d63ac34260a9b010109e15d8f0~mv2.png/v1/fill/w_286,h_286,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/4b9583_c7cb05d63ac34260a9b010109e15d8f0~mv2.png",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Browne Amplification",
@@ -16326,8 +16326,8 @@
       "research_record": "./research/pedals/PRP Batch 120/browne-amplification-alkene-nashville-drive.md",
       "image_source_page": "https://browneamps.com/the-alkene",
       "image_source_url": "http://static1.squarespace.com/static/5ba25ce95cfd7946edf8fdfa/t/618c60ae54deea04adee556d/1636589742279/browneHEADSTOCK-square.jpg?format=1500w",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Browne Amplification",
@@ -16340,8 +16340,8 @@
       "research_record": "./research/pedals/PRP Batch 120/browne-amplification-atom-nashville-drive.md",
       "image_source_page": "https://browneamps.com/the-alkene",
       "image_source_url": "http://static1.squarespace.com/static/5ba25ce95cfd7946edf8fdfa/t/618c60ae54deea04adee556d/1636589742279/browneHEADSTOCK-square.jpg?format=1500w",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Browne Amplification",
@@ -16740,8 +16740,8 @@
         "https://www.effectsdatabase.com/model/bsm/fassbender"
       ],
       "image_source_pages_verified": true,
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "BSM",
@@ -17278,8 +17278,8 @@
         "https://www.effectsdatabase.com/model/byoc/bender"
       ],
       "image_source_pages_verified": true,
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Build Your Own Clone",
@@ -18074,8 +18074,8 @@
       "research_record": "./research/pedals/PRP Batch 134/poder-del-alma-fuzz.md",
       "image_source_page": "https://byronamplification.com/pedals",
       "image_source_url": "https://images.squarespace-cdn.com/content/v1/567322ce0e4c11f307b26a3e/1578891091385-UI03KPHJGN60JKVB31N0/MainLogo2.gif?format=1500w",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Byron Amplification",
@@ -18088,8 +18088,8 @@
       "source_page": "https://byronamplification.com/pedals",
       "research_record": "./research/pedals/PRP Batch 134/pow-boost-drive-and-fuzz.md",
       "image_source_page": "https://byronamplification.com/pedals",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Byron Amplification",
@@ -18102,8 +18102,8 @@
       "research_record": "./research/pedals/PRP Batch 134/shearling-overdrive.md",
       "image_source_page": "https://byronamplification.com/pedals",
       "image_source_url": "https://images.squarespace-cdn.com/content/v1/567322ce0e4c11f307b26a3e/1578891091385-UI03KPHJGN60JKVB31N0/MainLogo2.gif?format=1500w",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Byron Amplification",
@@ -18116,8 +18116,8 @@
       "research_record": "./research/pedals/PRP Batch 134/viper-ninja-overdrive.md",
       "image_source_page": "https://byronamplification.com/pedals/viperninja-champagne",
       "image_source_url": "http://static1.squarespace.com/static/567322ce0e4c11f307b26a3e/5674690a0e4c117c4c56a16a/63fee4e0e879653f2e52a701/1677649352061/2023-02-28+23.25.49.jpg?format=1500w",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "BYW Audio",
@@ -18136,8 +18136,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_url": "https://bywaudio.com/wp-content/uploads/2020/01/la_blacky_blower_nixe_800-100x100.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "BYW Audio",
@@ -18156,8 +18156,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_url": "https://bywaudio.com/wp-content/uploads/2021/06/gros_buzz_A_1000-416x382.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "BZZT Electronics",
@@ -18171,8 +18171,8 @@
       "research_record": "./research/pedals/PRP Batch 135/bzzt-selektor-16.md",
       "image_source_url": "http://delicious-audio.com//wp-content/uploads//2013/09/1240473_195919213916364_1655400258_n1-612x344.jpg",
       "image_source_page": "https://delicious-audio.com/new-pedals-bzzt-electronics-selector-16/",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "C.Giant",
@@ -19183,8 +19183,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_url": "https://files.effectsdatabase.com/gear/pics/caline-cpxx_redthorn_004.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Caline",
@@ -19634,8 +19634,8 @@
       "research_record": "./research/pedals/PRP Batch 148/canned-monsters-moonbark-overdrive-mk2.md",
       "image_source_page": "https://cannedmonsters.com/products/Moonbark-Overdrive-MK2-p687243111",
       "image_source_url": "https://d2j6dbq0eux0bg.cloudfront.net/images/104215928/4493304005.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Canvas Analog Devices",
@@ -19657,8 +19657,8 @@
       "image_source_urls": [
         "https://rvb-img.reverb.com/i/s--gRH2WkaA--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/edoaqfdqv8txzpypcl69.jpg"
       ],
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Captain FX",
@@ -19713,8 +19713,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_url": "https://img.youtube.com/vi/vrGvAr1fOmw/hqdefault.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Carcharias Effects",
@@ -19747,8 +19747,8 @@
       "research_record": "./research/pedals/PRP Batch 148/carella-guitars-kung-fuzz.md",
       "image_source_page": "https://www.accordo.it/article/viewPub/85000",
       "image_source_url": "https://www.accordo.it/cloud-assets/177415/770x353/carella-g.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Carella Guitars",
@@ -19802,8 +19802,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_url": "https://rvb-img.reverb.com/i/s--PGNkqMvH--/quality=medium-low,height=800,width=800,fit=contain/ooxqctc9qgcym6lkphil.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Carella Guitars",
@@ -19836,8 +19836,8 @@
       "research_record": "./research/pedals/PRP Batch 148/carl-martin-ac-tone-single.md",
       "image_source_page": "https://carlmartin.com/products/ac-tone-single/",
       "image_source_url": "https://carlmartin.com/wp-content/uploads/2026/01/ac-single-featured.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Carl Martin",
@@ -19856,8 +19856,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_url": "https://carlmartin.com/wp-content/uploads/2026/01/dcdrive-hotspot.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Carl Martin",
@@ -19885,8 +19885,8 @@
       "research_record": "./research/pedals/PRP Batch 149/carl-martin-heavy-drive.md",
       "image_source_page": "https://carlmartin.com/products/heavy-drive/",
       "image_source_url": "https://carlmartin.com/wp-content/uploads/2026/02/51112_1.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Carl Martin",
@@ -19987,8 +19987,8 @@
       "image_source_page": "https://carlmartin.com/products/the-fuzz/",
       "image_source_page_verified": true,
       "image_source_url": "https://carlmartin.com/wp-content/uploads/2026/02/51099_1.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Carl Martin",
@@ -20208,8 +20208,8 @@
       "research_record": "./research/pedals/PRP Batch 151/caroline-guitar-company-icarus-v2.md",
       "image_source_page": "https://carolineguitar.com/product/icarusv2/",
       "image_source_url": "https://carolineguitar.com/wp-content/uploads/2021/03/IMG_0063-e1713365865101.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Caroline Guitar Company",
@@ -20260,8 +20260,8 @@
       "research_record": "./research/pedals/PRP Batch 151/caroline-guitar-company-shigeharu.md",
       "image_source_page": "https://carolineguitar.com/product/shigeharu/",
       "image_source_url": "https://carolineguitar.com/wp-content/uploads/2018/08/shigeharu.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Caroline Guitar Company",
@@ -20352,8 +20352,8 @@
       "research_record": "./research/pedals/PRP Batch 152/carruthers-dyna-soar.md",
       "image_source_page": "https://www.tonemachinesblog.com/2024/02/carruthers-dyna-soar-fuzz.html",
       "image_source_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpg7RNXw9bo9scgP2DckCYiBGxtUxcILEflyvMqr8Aqy2yRTCpRSgioUL7EeGgE2c9cpKdbTJb47eely62uCYG5wTIIGqOVBfZ_t2Yj1LeSlVgtIGmkgBqnFNSjfNPH_pAeU_x_d9JKdQ4LFDKS5fZRh-KFSmibvpSBJcWqSNrBStSUhEDiAOWyT9NPxQ/w1200-h630-p-k-no-nu/Kim%20Gordon%20Board%20Dyna%20Soar%20Fuzz.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Carruthers",
@@ -20426,8 +20426,8 @@
       "research_record": "./research/pedals/PRP Batch 152/carvin-vld1-steve-vai-legacy-drive-preamp.md",
       "image_source_page": "https://carvinaudio.com/products/vld1",
       "image_source_url": "https://carvinaudio.com/cdn/shop/files/vld1_9911be1d-c22e-453f-89b9-70d945c631d6_240x.jpg?v=1775663273",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Cascade Pedals",
@@ -20441,8 +20441,8 @@
       "research_record": "./research/pedals/PRP Batch 152/cascade-pedals-hosstortion.md",
       "image_source_page": "https://cascadepedals.com/about-us",
       "image_source_url": "https://img1.wsimg.com/isteam/ip/143de2a1-5c3d-4271-be03-7e99fbd4d6b9/HOSSTORTION-3_GOLD-0001.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Case Study Effects",
@@ -20455,8 +20455,8 @@
       "image": null,
       "source_page": "https://casestudyeffects.co/",
       "research_record": "./research/pedals/Case Study Effects/Aspen Overdrive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Case Study Effects",
@@ -20467,8 +20467,8 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/casestudy/lastlight",
       "research_record": "./research/pedals/Case Study Effects/Lastlight Overdrive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Case Study Effects Co.",
@@ -20481,8 +20481,8 @@
       "research_record": "./research/pedals/PRP Batch 152/case-study-effects-aspen-one.md",
       "image_source_page": "https://casestudyeffects.co/products/aspen-one",
       "image_source_url": "http://casestudyeffects.co/cdn/shop/files/Aspen_One_SI_Seamless_Crop_f8ba5d9b-9eb3-448d-a2df-9dbc36acd84f.jpg?v=1781556602",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Case Study Effects Co.",
@@ -20495,8 +20495,8 @@
       "research_record": "./research/pedals/PRP Batch 152/case-study-effects-aspen-overdrive.md",
       "image_source_page": "https://casestudyeffects.co/products/aspen-overdrive",
       "image_source_url": "http://casestudyeffects.co/cdn/shop/files/AspenOverdrivecopy.jpg?v=1711682072",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Case Study Effects Co.",
@@ -20523,8 +20523,8 @@
       "source_page": "https://casestudyeffects.co/",
       "research_record": "./research/pedals/PRP Batch 152/case-study-effects-lastlight.md",
       "image_source_page": "https://casestudyeffects.co/",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Casey Gooby",
@@ -20557,8 +20557,8 @@
         "https://www.effectsdatabase.com/model/caseygooby/organdonor"
       ],
       "image_source_pages_verified": true,
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Casimir Effects Pedals",
@@ -20577,8 +20577,8 @@
         "https://www.effectsdatabase.com/model/casimir/entropy"
       ],
       "image_source_pages_verified": true,
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "CAST Engineering",
@@ -20640,8 +20640,8 @@
         "https://www.zzounds.com/item--CSTCRBOD"
       ],
       "image_source_pages_verified": true,
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "CastleRock",
@@ -20660,8 +20660,8 @@
         "https://www.effectsdatabase.com/model/castlerock/distortion"
       ],
       "image_source_pages_verified": true,
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "CastleRock",
@@ -20680,8 +20680,8 @@
         "https://www.effectsdatabase.com/model/castlerock/metaldriver"
       ],
       "image_source_pages_verified": true,
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "CastleRock",
@@ -20717,8 +20717,8 @@
       "research_record": "./research/pedals/PRP Batch 154/caswell-cme-boost-90-clean-drive.md",
       "image_source_page": "https://www.pedal-of-the-day.com/2016/02/16/caswell-modern-electronics-boost-90-clean-drive/",
       "image_source_url": "https://www.pedal-of-the-day.com/wp-content/uploads/2016/02/CaswellModernElectronics_Boost90Drive.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Caswell Modern Electronics (CME)",
@@ -20731,8 +20731,8 @@
       "research_record": "./research/pedals/PRP Batch 154/caswell-cme-boost-98-bass-drive.md",
       "image_source_page": "https://www.pedal-of-the-day.com/2016/06/02/caswell-modern-electronics-boost-98-bass-drive/",
       "image_source_url": "https://www.pedal-of-the-day.com/wp-content/uploads/2016/06/CaswellModernElectronics_Boost98BassDrive.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Caswell Modern Electronics (CME)",
@@ -20766,8 +20766,8 @@
       "research_record": "./research/pedals/PRP Batch 154/cat-box-customs-bean-machine.md",
       "image_source_page": "https://delicious-audio.com/cat-box-customs-bean-machine-fuzz/",
       "image_source_url": "https://delicious-audio.com/wp-content/uploads//2022/01/cat.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Cat Box Customs",
@@ -20780,8 +20780,8 @@
       "research_record": "./research/pedals/PRP Batch 154/cat-box-customs-bean-machine-v2.md",
       "image_source_page": "https://delicious-audio.com/cat-box-customs-bean-machine-v2-fuzz/",
       "image_source_url": "https://delicious-audio.com/wp-content/uploads//2022/04/cat.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Cat Box Customs",
@@ -20794,8 +20794,8 @@
       "research_record": "./research/pedals/PRP Batch 154/cat-box-customs-fuzz-club.md",
       "image_source_page": "https://guitarsforidiots.com/2023/05/09/meet-the-fuzz-club-your-new-versatile-loud-fuzz-friend/",
       "image_source_url": "http://img.youtube.com/vi/X2h6pZ_17jY/0.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "CAT Sound",
@@ -20814,8 +20814,8 @@
         "https://www.effectsdatabase.com/model/catsound/classic"
       ],
       "image_source_pages_verified": true,
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "CAT Sound",
@@ -20834,8 +20834,8 @@
         "https://www.effectsdatabase.com/model/catsound/dancing"
       ],
       "image_source_pages_verified": true,
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "CAT Sound",
@@ -20854,8 +20854,8 @@
         "https://www.effectsdatabase.com/model/catsound/drivecenter"
       ],
       "image_source_pages_verified": true,
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "CAT Sound",
@@ -20874,8 +20874,8 @@
         "https://www.effectsdatabase.com/model/catsound/drivecenter/bass"
       ],
       "image_source_pages_verified": true,
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Cat's Eye ESP",
@@ -20912,8 +20912,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_url": "https://files.effectsdatabase.com/gear/pics/catseye_hybridfuzz_001.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Cat's Eye ESP",
@@ -20957,8 +20957,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_url": "https://files.effectsdatabase.com/gear/pics/catseye_muthafuzz_001.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Catalinbread Effects",
@@ -20971,8 +20971,8 @@
       "research_record": "./research/pedals/PRP Batch 155/catalinbread-airstrip-console-pre.md",
       "image_source_page": "https://catalinbread.com/products/airstrip-console-pre",
       "image_source_url": "http://catalinbread.com/cdn/shop/files/airstrip-shopify-01_1200x1200.png?v=1736913858",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Catalinbread Effects",
@@ -20985,8 +20985,8 @@
       "research_record": "./research/pedals/PRP Batch 155/catalinbread-antichthon.md",
       "image_source_page": "https://www.soundforpe.com/product/catalinbread-antichthon-effects-pedal/",
       "image_source_url": "https://www.soundforpe.com/wp-content/uploads/2026/3/1774507424/catalinbread-antichthon-effects-pedal-1774507433.webp",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Catalinbread Effects",
@@ -20999,8 +20999,8 @@
       "research_record": "./research/pedals/PRP Batch 155/catalinbread-carbide-distortion.md",
       "image_source_page": "https://catalinbread.com/products/carbide",
       "image_source_url": "http://catalinbread.com/cdn/shop/files/Carbide_shopify-01-min_1200x1200.png?v=1686676689",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Catalinbread Effects",
@@ -21014,8 +21014,8 @@
       "research_record": "./research/pedals/PRP Batch 155/catalinbread-clean-little-secret.md",
       "image_source_page": "https://catalinbread.com/products/clean-little-secret",
       "image_source_url": "http://catalinbread.com/cdn/shop/files/CLS-shop_1200x1200.png?v=1777623968",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Catalinbread Effects",
@@ -21030,8 +21030,8 @@
       "research_record": "./research/pedals/PRP Batch 155/catalinbread-crooner-preamp.md",
       "image_source_page": "https://catalinbread.com/products/crooner-preamp",
       "image_source_url": "http://catalinbread.com/cdn/shop/files/Crooner-shop_1200x1200.png?v=1784078587",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Catalinbread Effects",
@@ -21045,8 +21045,8 @@
       "research_record": "./research/pedals/PRP Batch 155/catalinbread-dirty-little-secret.md",
       "image_source_page": "https://catalinbread.com/products/dirty-little-secret",
       "image_source_url": "http://catalinbread.com/cdn/shop/products/DLS_SHOPIFY-01-min_1200x1200.png?v=1652346444",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Catalinbread Effects",
@@ -21060,8 +21060,8 @@
       "research_record": "./research/pedals/PRP Batch 156/catalinbread-dirty-little-secret-deluxe.md",
       "image_source_page": "https://www.andertons.co.uk/catalinbread-dirty-little-secret-deluxe-drive-pedal/",
       "image_source_url": "https://cdn11.bigcommerce.com/s-4hc0jwsnnq/products/13454/images/48968/DIRTYLITTLESECRET-DL-Catalinbread-Dirty-Little-Secret-Deluxe-Drive-Pedal-hero__39742.1715108328.386.513.jpg?c=1",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Catalinbread Effects",
@@ -21075,8 +21075,8 @@
       "research_record": "./research/pedals/PRP Batch 156/catalinbread-formula-51.md",
       "image_source_page": "https://catalinbread.com/products/formula-51",
       "image_source_url": "https://catalinbread.com/cdn/shop/products/F51_NOBG_SHOPIFY-01-01-min.png?v=1672792422",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Catalinbread Effects",
@@ -21090,8 +21090,8 @@
       "research_record": "./research/pedals/PRP Batch 156/catalinbread-formula-55.md",
       "image_source_page": "https://catalinbread.com/products/formula-55-new-look",
       "image_source_url": "http://catalinbread.com/cdn/shop/products/F55_shopify-01-min_1200x1200.png?v=1672793938",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Catalinbread Effects",
@@ -21105,8 +21105,8 @@
       "research_record": "./research/pedals/PRP Batch 156/catalinbread-formula-5f6.md",
       "image_source_page": "https://www.guitarcenter.com/Used/Catalinbread/Used-Catalinbread-Formula-5F6-Effect-Pedal-122296945.gc",
       "image_source_url": "https://media.guitarcenter.com/is/image/MMGS7/000000122296945-00-600x600.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Catalinbread Effects",
@@ -21120,8 +21120,8 @@
       "research_record": "./research/pedals/PRP Batch 156/catalinbread-formula-no-5.md",
       "image_source_page": "https://catalinbread.com/products/formula-no-5-reissue",
       "image_source_url": "https://catalinbread.com/cdn/shop/files/f5_shop_1200x1200.png?v=1747901821",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Catalinbread Effects",
@@ -21134,8 +21134,8 @@
       "research_record": "./research/pedals/PRP Batch 156/catalinbread-fuzzrite.md",
       "image_source_page": "https://www.musicarts.com/catalinbread-fuzzrite-guitar-pedal",
       "image_source_url": "https://media.musicarts.com/is/image/MMGS7/J28055000000000-00-2000x2000.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Catalinbread Effects",
@@ -21148,8 +21148,8 @@
       "research_record": "./research/pedals/PRP Batch 156/catalinbread-fuzzrite-germanium.md",
       "image_source_page": "https://catalinbread.com/products/fuzzrite-germanium",
       "image_source_url": "http://catalinbread.com/cdn/shop/products/FR_GE_SHOPIFY-low_1200x1200.png?v=1660024534",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Catalinbread Effects",
@@ -21162,8 +21162,8 @@
       "research_record": "./research/pedals/PRP Batch 156/catalinbread-fuzzrite-germanium-white.md",
       "image_source_page": "https://catalinbread.com/products/fuzzrite-germanium-white",
       "image_source_url": "http://catalinbread.com/cdn/shop/files/FR_W_SHOP_1200x1200.png?v=1782517042",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Catalinbread Effects",
@@ -21176,8 +21176,8 @@
       "research_record": "./research/pedals/PRP Batch 156/catalinbread-fuzzrite-mini.md",
       "image_source_page": "https://catalinbread.com/products/fuzzrite-mini",
       "image_source_url": "http://catalinbread.com/cdn/shop/files/frm-shop_1200x1200.png?v=1760490529",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Catalinbread Effects",
@@ -21191,8 +21191,8 @@
       "research_record": "./research/pedals/PRP Batch 156/catalinbread-galileo.md",
       "image_source_page": "https://www.dgsound.com.br/produto/catalinbread-galileo/",
       "image_source_url": "https://cdn.awsli.com.br/1562/1562634/produto/59498703/e06a816380.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Catalinbread Effects",
@@ -21206,8 +21206,8 @@
       "research_record": "./research/pedals/PRP Batch 157/catalinbread-galileo-4k.md",
       "image_source_page": "https://catalinbread.com/products/galileo-4k",
       "image_source_url": "http://catalinbread.com/cdn/shop/files/gal4k-shop_1200x1200.png?v=1762987439",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Catalinbread Effects",
@@ -21221,8 +21221,8 @@
       "research_record": "./research/pedals/PRP Batch 157/catalinbread-galileo-red-special.md",
       "image_source_page": "https://catalinbread.com/products/galileo-red-special",
       "image_source_url": "http://catalinbread.com/cdn/shop/files/gal-shopify-01-min_1200x1200.png?v=1721064067",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Catalinbread Effects",
@@ -21235,8 +21235,8 @@
       "research_record": "./research/pedals/PRP Batch 157/catalinbread-giygas-2k-fuzz.md",
       "image_source_page": "https://catalinbread.com/products/giygas-2k-fuzz",
       "image_source_url": "http://catalinbread.com/cdn/shop/files/Giygas2K_shop_1200x1200.png?v=1755816236",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Catalinbread Effects",
@@ -21249,8 +21249,8 @@
       "research_record": "./research/pedals/PRP Batch 157/catalinbread-karma-suture-ge.md",
       "image_source_page": "https://www.turramusic.com.au/products/catalinbread-karma-suture-germanium",
       "image_source_url": "http://www.turramusic.com.au/cdn/shop/products/karmasuture_ge.jpg?v=1668078402",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Catalinbread Effects",
@@ -21264,8 +21264,8 @@
       "research_record": "./research/pedals/PRP Batch 157/catalinbread-katzenkonig.md",
       "image_source_page": "https://catalinbread.com/products/katzenkonig",
       "image_source_url": "http://catalinbread.com/cdn/shop/products/KATZ_SHOPIFY-01-min_1200x1200.png?v=1652346691",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Catalinbread Effects",
@@ -21278,8 +21278,8 @@
       "research_record": "./research/pedals/PRP Batch 157/catalinbread-knight-school-fuzz.md",
       "image_source_page": "https://catalinbread.com/products/knight-school-fuzz",
       "image_source_url": "https://catalinbread.com/cdn/shop/products/knight-school-shopify-01-min.png?v=1749846188",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Catalinbread Effects",
@@ -21293,8 +21293,8 @@
       "research_record": "./research/pedals/PRP Batch 157/catalinbread-knight-school-overdrive.md",
       "image_source_page": "https://catalinbread.com/products/knight-school-overdrive",
       "image_source_url": "https://catalinbread.com/cdn/shop/files/knightschoolparts_shopcopy.png?v=1713499432",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Catalinbread Effects",
@@ -21308,8 +21308,8 @@
       "research_record": "./research/pedals/PRP Batch 157/catalinbread-knightdrive.md",
       "image_source_page": "https://catalinbread.com/products/knightdrive",
       "image_source_url": "http://catalinbread.com/cdn/shop/files/knightdrive-shop_1200x1200.png?v=1788589500",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Catalinbread Effects",
@@ -21323,8 +21323,8 @@
       "research_record": "./research/pedals/PRP Batch 157/catalinbread-little-secret.md",
       "image_source_page": "https://catalinbread.com/products/little-secret",
       "image_source_url": "http://catalinbread.com/cdn/shop/files/LS_SHOP_1200x1200.png?v=1777626026",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Catalinbread Effects",
@@ -21337,8 +21337,8 @@
       "research_record": "./research/pedals/PRP Batch 157/catalinbread-manx-loaghtan-fuzz.md",
       "image_source_page": "https://catalinbread.com/products/manx-loaghtan",
       "image_source_url": "http://catalinbread.com/cdn/shop/files/manx_shop-01_1200x1200.png?v=1747242207",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Catalinbread Effects",
@@ -21351,8 +21351,8 @@
       "research_record": "./research/pedals/PRP Batch 158/catalinbread-maxon-40th-anniversary-catalinbread-modified-overdrive-od808-40c.md",
       "image_source_page": "https://maxonfx.com/products/40th-anniversary-catalinbread-modified-overdrive-od808-40c",
       "image_source_url": "https://maxonfx.com/cdn/shop/products/Maxon-OD808-40C-Mockup-20191004.jpg?v=1570643202&width=1946",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Catalinbread Effects",
@@ -21365,8 +21365,8 @@
       "research_record": "./research/pedals/PRP Batch 158/catalinbread-merkin-fuzz.md",
       "image_source_page": "https://catalinbread.com/products/merkin-fuzz-reissue",
       "image_source_url": "http://catalinbread.com/cdn/shop/files/Markin-shop_1200x1200.png?v=1752480159",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Catalinbread Effects",
@@ -21380,8 +21380,8 @@
       "research_record": "./research/pedals/PRP Batch 158/catalinbread-misnomer.md",
       "image_source_page": "https://catalinbread.com/products/misnomer-cabinet-series",
       "image_source_url": "http://catalinbread.com/cdn/shop/files/misnomer-shop_1200x1200.png?v=1774506469",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Catalinbread Effects",
@@ -21394,8 +21394,8 @@
       "research_record": "./research/pedals/PRP Batch 158/catalinbread-misnomer-cabinet-series.md",
       "image_source_page": "https://catalinbread.com/products/misnomer-cabinet-series",
       "image_source_url": "http://catalinbread.com/cdn/shop/files/misnomer-shop_1200x1200.png?v=1774506469",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Catalinbread Effects",
@@ -21408,8 +21408,8 @@
       "research_record": "./research/pedals/PRP Batch 158/catalinbread-naga-viper.md",
       "image_source_page": "https://catalinbread.com/products/naga-viper-gold",
       "image_source_url": "http://catalinbread.com/cdn/shop/files/Naga_G_Shop_1200x1200.png?v=1752649352",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Catalinbread Effects",
@@ -21422,8 +21422,8 @@
       "research_record": "./research/pedals/PRP Batch 158/catalinbread-perseus-dio.md",
       "image_source_page": "https://catalinbread.com/products/perseus-dio",
       "image_source_url": "http://catalinbread.com/cdn/shop/files/Perseus_shopify-min_1200x1200.png?v=1717568656",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Catalinbread Effects",
@@ -21437,8 +21437,8 @@
       "research_record": "./research/pedals/PRP Batch 158/catalinbread-rah.md",
       "image_source_page": "https://catalinbread.com/products/rah",
       "image_source_url": "http://catalinbread.com/cdn/shop/products/RAH_SHOPIFY-01-min_1200x1200.png?v=1652346871",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Catalinbread Effects",
@@ -21452,8 +21452,8 @@
       "research_record": "./research/pedals/PRP Batch 158/catalinbread-sabbra-cadabra.md",
       "image_source_page": "https://catalinbread.com/products/sabbra-cadabra",
       "image_source_url": "http://catalinbread.com/cdn/shop/products/SABBRA_CADABRA_SHOPIFY-01-min_1200x1200.png?v=1652346888",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Catalinbread Effects",
@@ -21468,8 +21468,8 @@
       "research_record": "./research/pedals/PRP Batch 158/catalinbread-sft.md",
       "image_source_page": "https://catalinbread.com/products/sft2",
       "image_source_url": "http://catalinbread.com/cdn/shop/products/SFT_SHOPIFY-01-min_1200x1200.png?v=1652346928",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Catalinbread Effects",
@@ -21483,8 +21483,8 @@
       "research_record": "./research/pedals/PRP Batch 159/catalinbread-sidearm-overdrive.md",
       "image_source_url": "https://cdn.shopify.com/s/files/1/0370/1873/0628/files/sa_2_copy_low.png?v=1746777615&width=2048",
       "image_source_page": "https://catalinbread.com/products/sidearm-overdrive-1",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Catalinbread Effects",
@@ -21497,8 +21497,8 @@
       "research_record": "./research/pedals/PRP Batch 161/catalinbread-silver-kiss-overdrive.md",
       "image_source_url": "https://images.pedalfilter.com/catalinbread-silverkissoverdrivereissue.png",
       "image_source_page": "https://pedalfilter.com/catalinbread/silver-kiss-overdrive-reissue",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Catalinbread Effects",
@@ -21511,8 +21511,8 @@
       "research_record": "./research/pedals/PRP Batch 161/catalinbread-silver-kiss-overdrive-2007-reissue.md",
       "image_source_url": "https://www.altomusic.com/cdn/shop/files/SK_SHOP-01_x555_2x_7a4dd353-a5f6-4b48-80a0-41ab36567ea8.jpg?v=1750777909&width=1445",
       "image_source_page": "https://www.altomusic.com/products/catalinbread-silver-kiss-overdrive-pedal-2007-reissue",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Catalinbread Effects",
@@ -21525,8 +21525,8 @@
       "research_record": "./research/pedals/PRP Batch 161/catalinbread-starcrash-fuzz.md",
       "image_source_url": "https://www.stars-music.com/medias/catalinbread/starcrash-fuzz-hd-2-207464.jpg",
       "image_source_page": "https://www.stars-music.com/catalinbread-starcrash-fuzz_207464.html",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "CatastroFX",

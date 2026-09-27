@@ -16,3 +16,16 @@
 - **Sources checked:**
   - https://catalinbread.com/products/fuzzrite-mini
   - https://catalinbread.com/collections/minis
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Catalinbread Effects's Fuzzrite Mini is cataloged as a fuzz pedal.
+
+### Verified version references
+- The evidence references: v2.
+
+### Sources checked in this pass
+1. Fuzzrite Mini – Catalinbread Effects: https://catalinbread.com/products/fuzzrite-mini

@@ -1,0 +1,33 @@
+{
+  "builder": "Catalinbread Effects",
+  "pedal": "Formula 5F6",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 3,
+  "sources": [
+    {
+      "url": "https://www.sweetwater.com/store/detail/Form5F6--catalinbread-formula-5f6-tweed-bassman-style-overdrive-pedal",
+      "title": "catalog/override source",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.sweetwater.com",
+      "source_kind": "catalog_verified"
+    },
+    {
+      "url": "https://www.guitarcenter.com/Used/Catalinbread/Used-Catalinbread-Formula-5F6-Effect-Pedal-122296945.gc",
+      "title": "catalog/override source",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.guitarcenter.com",
+      "source_kind": "catalog_verified"
+    },
+    {
+      "url": "https://www.manualzz.com/doc/17261875/catalinbread-formula-5f6-pedal-manual",
+      "title": "catalog/override source",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.manualzz.com",
+      "source_kind": "catalog_verified"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}

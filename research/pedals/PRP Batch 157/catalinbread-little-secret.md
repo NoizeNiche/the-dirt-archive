@@ -17,3 +17,18 @@
   - https://catalinbread.com/products/little-secret
   - https://www.sweetwater.com/store/detail/LittleSecret--catalinbread-little-secret-overdrive-pedal
   - https://www.perfectcircuit.com/catalinbread-little-secret.html
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Catalinbread Effects's Little Secret is cataloged as a distortion / overdrive pedal.
+
+### Verified version references
+- The evidence references: v2.
+
+### Sources checked in this pass
+1. Little Secret – Catalinbread Effects: https://catalinbread.com/products/little-secret
+2. catalog/override source: https://www.sweetwater.com/store/detail/LittleSecret--catalinbread-little-secret-overdrive-pedal
+3. catalog/override source: https://www.perfectcircuit.com/catalinbread-little-secret.html

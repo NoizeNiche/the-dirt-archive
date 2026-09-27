@@ -18,3 +18,21 @@
   - https://aionfx.com/news/tracing-journal-catalinbread-karma-suture-germanium-silicon/
   - https://www.turramusic.com.au/products/catalinbread-karma-suture-germanium
   - https://www.guitarfxdirect.com/product/catalinbread-karma-suture-fuzz/
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Catalinbread Effects's Karma Suture GE is cataloged as a fuzz pedal.
+
+### Verified transistor/device terms
+- Germanium Fuzz, germanium transistor.
+
+### Verified sound evidence
+Catalinbread Karma Suture (Ge) - Germanium Fuzz
+They’ve added an input capacitor blend control (called Density), which is a pretty common addition to vintage fuzz circuits, and something that Catalinbread has used on a few of their other effects such as the Katzenkönig , Sabbra Cadabra and Naga Viper .
+
+### Sources checked in this pass
+1. Catalinbread Karma Suture (Ge) - Germanium Fuzz | Turramurra Music: https://www.turramusic.com.au/products/catalinbread-karma-suture-germanium
+2. Tracing Journal: Catalinbread Karma Suture (Germanium & Silicon): https://aionfx.com/news/tracing-journal-catalinbread-karma-suture-germanium-silicon/

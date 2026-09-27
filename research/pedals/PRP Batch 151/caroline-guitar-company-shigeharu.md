@@ -16,3 +16,20 @@
 - **Sources checked:**
   - https://carolineguitar.com/product/shigeharu/
   - https://www.effectsdatabase.com/model/caroline
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Shigeharu™ was designed in collaboration with our friend John Snyder at Electronic Audio Experiments, because this thing was fearsome enough to compel us to seek a second opinion.
+
+### Verified transistor/device terms
+- BC184.
+
+### Verified sound evidence
+Imagine classic Muff-style fuzziness with the punch of a classic overdrive, and you have Shigeharu™.
+Combine that with the parallel octave-up voiced fuzz available on demand with the Havoc* stomp and you have a whole lot of nasty right here.
+
+### Sources checked in this pass
+1. Shigeharu - Caroline Guitar Company - Caroline Guitar Company: https://carolineguitar.com/product/shigeharu/

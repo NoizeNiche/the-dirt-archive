@@ -15,3 +15,16 @@
 - **Sound:** Glassy and responsive, with low gain capable of clean boosting and the active EQ providing substantial bass, mid and treble shaping.
 - **Research confidence:** High.
 - **Sources checked:** https://catalinbread.com/products/silver-kiss ; https://www.effectsdatabase.com/model/catalinbread/silverkiss
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Catalinbread Effects's Silver Kiss Overdrive (2007 Reissue) is cataloged as an overdrive pedal.
+
+### Verified version references
+- The evidence references: v2.
+
+### Sources checked in this pass
+1. Silver Kiss Overdrive (2007 Reissue) – Catalinbread Effects: https://catalinbread.com/products/silver-kiss

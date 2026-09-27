@@ -19,3 +19,22 @@
   - https://www.youtube.com/watch?v=b1-F11r1vpM
   - https://www.musicradar.com/news/catalinbread-debuts-70s-starcrash-fuzz-and-sidearm-overdrive-modern-takes-on-classic-fuzzface-and-tube-screamer-circuits
   - https://www.guitarworld.com/news/catalinbread-starcrash-fuzz-overdrive
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Catalinbread Effects's SideArm Overdrive is cataloged as a distortion / overdrive pedal.
+
+### Verified version references
+- The evidence references: v2.
+
+### Verified sound evidence
+“We invite you to bring your vintage tonal dreams into the present”: Catalinbread promises modern twists on golden-era tones from the ‘70s StarCrash Fuzz and SideArm Overdrive
+“Whichever type of rock you associate with the ‘70s, the StarCrash Collection has you covered”: Catalinbread's StarCrash Fuzz and SideArm Overdrive give olden-era gain tones a fresh twist
+
+### Sources checked in this pass
+1. SideArm Overdrive – Catalinbread Effects: https://catalinbread.com/products/sidearm-overdrive-1
+2. “We invite you to bring your vintage tonal dreams into the present”: Catalinbread promises modern twists on golden-era tones from the ‘70s StarCrash Fuzz and SideArm Overdrive | MusicRadar: https://www.musicradar.com/news/catalinbread-debuts-70s-starcrash-fuzz-and-sidearm-overdrive-modern-takes-on-classic-fuzzface-and-tube-screamer-circuits
+3. “Whichever type of rock you associate with the ‘70s, the StarCrash Collection has you covered”: Catalinbread's StarCrash Fuzz and SideArm Overdrive give olden-era gain tones a fresh twist | Guitar World: https://www.guitarworld.com/news/catalinbread-starcrash-fuzz-overdrive

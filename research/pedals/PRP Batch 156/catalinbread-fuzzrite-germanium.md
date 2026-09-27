@@ -17,3 +17,19 @@
   - https://catalinbread.com/products/fuzzrite-germanium
   - https://catalinbread.com/blogs/catalinbread-cabinet/mosrite-fuzzrite-germanium
   - https://catalinbread.com/pages/manuals
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Catalinbread Effects's Fuzzrite Germanium is cataloged as a fuzz pedal.
+
+### Verified version references
+- The evidence references: v2.
+
+### Sources checked in this pass
+1. Fuzzrite Germanium – Catalinbread Effects: https://catalinbread.com/products/fuzzrite-germanium
+2. Facebook: https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fshare_channel%2F%3Ftype%3Dreshare%26link%3Dhttps%253A%252F%252Fcatalinbread.com%252Fblogs%252Fcatalinbread-cabinet%252Fmosrite-fuzzrite-germanium%26app_id%3D966242223397117%26source_surface%3Dexternal_reshare%26display%26hashtag
+3. Tweet Tweet on Twitter: https://twitter.com/share?text=Mosrite%20Fuzzrite%20Germanium&url=https://catalinbread.com/blogs/catalinbread-cabinet/mosrite-fuzzrite-germanium
+4. Pinterest: https://www.pinterest.com/pin/create/button/?url=https://catalinbread.com/blogs/catalinbread-cabinet/mosrite-fuzzrite-germanium&media=//catalinbread.com/cdn/shop/articles/s-l1600_copysq_1024x1024.png?v=1660943955&description=Mosrite%20Fuzzrite%20Germanium

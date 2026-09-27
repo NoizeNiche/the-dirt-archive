@@ -16,3 +16,26 @@
 - **Sources checked:**
   - https://catalinbread.com/products/rah
   - https://www.manualslib.com/manual/560867/Catalinbread-Rah.html
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+You are the proud owner of a Catalinbread RAH!
+
+### Verified version references
+- The evidence references: MK II, v2.
+
+### Verified diode terms
+- Led.
+
+### Verified sound evidence
+The tone was great, similar to his Marshall tone, but there was a little somethin-somethin going on there.
+Comparing it to a standard Hiwatt head of the same era, we notice that it is modi ed to provide more gain.
+Plus, there was a foot- switch that allowed two gain settings.
+
+### Sources checked in this pass
+1. RAH – Catalinbread Effects: https://catalinbread.com/products/rah
+2. CATALINBREAD RAH USER MANUAL Pdf Download | ManualsLib: https://www.manualslib.com/manual/560867/Catalinbread-Rah.html
+3. Pinterest: https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.manualslib.com%2Fmanual%2F560867%2FCatalinbread-Rah.html&description=CATALINBREAD+RAH+USER+MANUAL+Pdf+Download&media=https%3A%2F%2Fstatic-data2.manualslib.com%2Fproduct-images%2Fc33%2F560867%2Fcatalinbread-rah-music-pedal.jpg

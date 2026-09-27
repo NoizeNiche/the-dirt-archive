@@ -17,3 +17,16 @@
   - https://catalinbread.com/products/manx-loaghtan
   - https://catalinbread.com/collections/20-off
   - https://catalinbread.com/pages/manuals
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Catalinbread Effects's Manx Loaghtan Fuzz is cataloged as a fuzz pedal.
+
+### Verified version references
+- The evidence references: v2.
+
+### Sources checked in this pass
+1. Manx Loaghtan Fuzz (Reissue) – Catalinbread Effects: https://catalinbread.com/products/manx-loaghtan

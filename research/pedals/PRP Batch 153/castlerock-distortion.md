@@ -16,3 +16,16 @@
 - **Sources checked:**
   - https://www.effectsdatabase.com/model/castlerock/distortion
   - https://www.effectsdatabase.com/updates/weekly/20100308
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+CastleRock's CastleRock Distortion is cataloged as a distortion pedal.
+
+### Verified sound evidence
+Level and Distortion controls give you complete command of the amount of signal processing.
+
+### Sources checked in this pass
+1. CastleRock Distortion | Effects Database: https://www.effectsdatabase.com/model/castlerock/distortion

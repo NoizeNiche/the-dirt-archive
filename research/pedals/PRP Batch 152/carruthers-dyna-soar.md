@@ -17,3 +17,21 @@
   - https://www.tonemachinesblog.com/2024/02/carruthers-dyna-soar-fuzz.html
   - https://stompunderfoot.com/blogs/blog/big-muff-clones-and-variants
   - https://equipboard.com/pros/kim-gordon
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+And from what the internet tells me the Dyna-Soar is featured on this track "Wildflower Soul" (most likely at the intro and then from 6:35 on).
+
+### Verified color/finish evidence
+- The photo, from 1998, was of Kim Gordon's live board, and featured this black pedal with yellow text that seemed to read "Dyna ___?".
+
+### Verified sound evidence
+Contact Me The Super Fuzz Page Friday, February 23, 2024 Carruthers Dyna-Soar Fuzz ☟ A couple of months ago I finally added something to the collection that I had been hunting for...
+It was made sometime in the 80s in New York, and was a Big Muff clone with enough volume and gain on tap to level entire city blocks; which was pretty perfect for Sonic Youth.
+And after his mods brought it back to it's full wall-of-fuzz Muffy glory it was now punishingly loud and sounded exactly like how I assume the end of the world will sound.
+
+### Sources checked in this pass
+1. Tone Machines Blog: Carruthers Dyna-Soar Fuzz: https://www.tonemachinesblog.com/2024/02/carruthers-dyna-soar-fuzz.html

@@ -15,3 +15,16 @@
 - **Research confidence:** High for the current identity, broad circuit concept, control set, and power range; moderate for undocumented component details.
 - **Sources checked:**
   - https://catalinbread.com/products/merkin-fuzz-reissue
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Catalinbread Effects's Merkin Fuzz is cataloged as a fuzz pedal.
+
+### Verified version references
+- The evidence references: v2.
+
+### Sources checked in this pass
+1. Merkin Fuzz (Reissue) – Catalinbread Effects: https://catalinbread.com/products/merkin-fuzz-reissue

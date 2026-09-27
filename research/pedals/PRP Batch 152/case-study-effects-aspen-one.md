@@ -16,3 +16,18 @@
 - **Sources checked:**
   - https://casestudyeffects.co/products/aspen-one
   - https://www.effectsdatabase.com/model/casestudy/aspen/one
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+boost / preamp overdrive pedal Germanium Germanium Silicon Silicon Information The Case Study Aspen One combines the Aspen overdrive and a transparent MOSFET boost in a single true bypass enclosure with relay switching and an all-analog signal path.
+
+### Verified sound evidence
+Case Study Aspen One - Boost + Overdrive
+boost / preamp overdrive pedal Germanium Germanium Silicon Silicon Information The Case Study Aspen One combines the Aspen overdrive and a transparent MOSFET boost in a single true bypass enclosure with relay switching and an all-analog signal path.
+The Aspen overdrive section reworks an expandora-style circuit with increased post-drive output level and an added bass control for adjusting low-frequency response.
+
+### Sources checked in this pass
+1. Case Study Aspen One - Boost + Overdrive | Effects Database: https://www.effectsdatabase.com/model/casestudy/aspen/one

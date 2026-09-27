@@ -16,3 +16,16 @@
 - **Sources checked:**
   - https://catalinbread.com/products/knight-school-fuzz
   - https://catalinbread.com/collections/knight-school-built-pedals
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Catalinbread Effects's Knight School Fuzz is cataloged as a fuzz pedal.
+
+### Verified version references
+- The evidence references: v2.
+
+### Sources checked in this pass
+1. Knight School Fuzz (DIY Kit) – Catalinbread Effects: https://catalinbread.com/products/knight-school-fuzz

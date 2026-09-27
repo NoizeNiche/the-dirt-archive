@@ -15,3 +15,23 @@
   - https://www.effectsdatabase.com/model/caline/cpxx/redthorn
   - https://www.rockboard.de/en/pedalPedia/Caline/CP-78-Red-Thorn-Distortion/68976443/
   - https://onethousandpedals.com/pedal/caline-cp-78-red-thorn
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Caline CP-78 Red Thorn — Distortion Pedal Specs & Where to Buy
+
+### Verified color/finish evidence
+- CP-78 Red Thorn Distortion by Caline
+- Caline CP-78 Red Thorn — Distortion Pedal Specs & Where to Buy
+
+### Verified sound evidence
+CP-78 Red Thorn Distortion by Caline
+Caline CP-78 Red Thorn — Distortion Pedal Specs & Where to Buy
+
+### Sources checked in this pass
+1. CP-78 Red Thorn Distortion by Caline | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/Caline/CP-78-Red-Thorn-Distortion/68976443/
+2. Caline CP-78 Red Thorn: https://www.jrrshop.com/caline-cp-78-red-thorn-distortion.html
+3. Caline CP-78 Red Thorn — Distortion Pedal Specs & Where to Buy | one thousand pedals: https://onethousandpedals.com/pedal/caline-cp-78-red-thorn
