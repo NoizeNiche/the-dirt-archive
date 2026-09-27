@@ -42428,8 +42428,8 @@
       "image": "./assets/pedals/lovepedal/amp-eleven/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Lovepedal/Amp Eleven.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Lovepedal",
@@ -43550,8 +43550,8 @@
       "image": "./assets/pedals/mask-audio-electronics/clubber-lang/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mask Audio Electronics/CLUBBER LANG.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Mask Audio Electronics",
@@ -45049,8 +45049,8 @@
       "image": "./assets/pedals/menatone/red-snapper-4-knob-mini/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Menatone/Red Snapper 4 Knob Mini.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Menatone",
