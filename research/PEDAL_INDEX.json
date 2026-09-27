@@ -35164,8 +35164,8 @@
       "image": "./assets/pedals/electro-harmonix/germanium-od/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Electro-Harmonix/Germanium OD.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Electro-Harmonix",
@@ -43649,8 +43649,8 @@
       "image": "./assets/pedals/mask-audio-electronics/part-garden/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mask Audio Electronics/PART GARDEN.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Mask Audio Electronics",
@@ -49886,8 +49886,8 @@
       "image": "./assets/pedals/retro-mechanical-labs/electron-fuzz-custom-retro/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Retro Mechanical Labs/Electron Fuzz Custom Retro.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Retro Mechanical Labs",
