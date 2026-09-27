@@ -40,3 +40,16 @@ The surviving exact-model documentation establishes the unit as a distortion ped
 ## Sources checked
 1. Reverb - Crate CC-2681 Distortion
 2. Effects Database - related Soundtank DSP-30 entry
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Crate's CC-2681 Distortion is cataloged as a distortion pedal.
+
+### Verified sound evidence
+Maxtone Soundtank DSP-30 Distortion
+
+### Sources checked in this pass
+1. Maxtone Soundtank DSP-30 Distortion | Effects Database: https://www.effectsdatabase.com/model/maxtone/soundtank/dsp30

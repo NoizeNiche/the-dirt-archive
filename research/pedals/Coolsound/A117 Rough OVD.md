@@ -44,3 +44,13 @@ The model is categorized as an overdrive with boost/preamp classification. The e
 ## Sources checked
 1. Effects Database - Coolsound A117 Rough OVD: https://www.effectsdatabase.com/model/coolsound/a117
 2. Effects Database - Weekly overview, December 12, 2011: https://www.effectsdatabase.com/updates/weekly/20111212
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Coolsound's A117 Rough OVD is cataloged as an overdrive pedal.
+
+### Sources checked in this pass
+1. Coolsound A117 Rough OVD | Effects Database: https://www.effectsdatabase.com/model/coolsound/a117

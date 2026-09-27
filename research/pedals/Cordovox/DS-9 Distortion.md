@@ -34,3 +34,23 @@ Effects Database identifies the DS-9 as part of a broader Cordovox pedal family 
 ## Sources checked
 1. Effects Database - Cordovox DS-9 Distortion
 2. Guitar Villa - Cordovox collection
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Cordovox's DS-9 Distortion is cataloged as a distortion pedal.
+
+### Verified color/finish evidence
+- The pedal is housed in a stainless steel enclosure with a mirror-polished finish for durability and a professional look.
+
+### Verified diode terms
+- LED.
+
+### Verified sound evidence
+With just two primary controls, LEVEL and DISTORTION, it allows quick adjustment from subtle grit to heavier, saturated tones.
+Its analog circuitry delivers a traditional distortion character, while German WIMA capacitors ensure clarity and low signal loss.
+
+### Sources checked in this pass
+1. Cordovox DS-9 Distortion | Effects Database: https://www.effectsdatabase.com/model/cordovox/ds9

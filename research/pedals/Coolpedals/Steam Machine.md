@@ -45,3 +45,13 @@ The model is cataloged as distortion/overdrive, with model-linked demo evidence 
 
 ## Sources checked
 1. Effects Database - Coolpedals Steam Machine: https://www.effectsdatabase.com/model/coolpedals/steammachine
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Coolpedals's Steam Machine is cataloged as a distortion / overdrive pedal.
+
+### Sources checked in this pass
+1. Coolpedals Steam Machine | Effects Database: https://www.effectsdatabase.com/model/coolpedals/steammachine

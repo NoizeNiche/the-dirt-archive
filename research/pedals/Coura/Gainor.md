@@ -41,3 +41,13 @@ The available evidence supports a distortion design related directly to the Cour
 ## Sources checked
 1. Effects Database - Coura Gainor
 2. Musiker-Board - Peter Coura / Gainor / Raizor period discussion
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Coura's Gainor is cataloged as a distortion pedal.
+
+### Sources checked in this pass
+1. Coura Gainor | Effects Database: https://www.effectsdatabase.com/model/coura/gainor

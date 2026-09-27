@@ -40,3 +40,16 @@ The model name and historical product descriptions establish a low-noise, full-b
 2. ALBIT official support / discontinued products
 3. Encores - Cranetortoise product listing
 4. Chibakan Yachiyo - historical Cranetortoise inventory
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Cranetortoise by Albit's FD-2 Low Noise Fat Distortion is cataloged as a distortion pedal.
+
+### Verified sound evidence
+Cranetortoise FD-2 Low Noise Fat Distortion
+
+### Sources checked in this pass
+1. Cranetortoise FD-2 Low Noise Fat Distortion | Effects Database: https://www.effectsdatabase.com/model/cranetortoise/fd2

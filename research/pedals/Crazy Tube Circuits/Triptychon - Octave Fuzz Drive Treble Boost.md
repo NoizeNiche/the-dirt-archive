@@ -53,3 +53,24 @@ The expanded catalog description reflects the three core functions: vintage-fami
 2. Effects Database - Triptychon expanded catalog description
 3. MusicRadar - Triptychon
 4. Premier Guitar - Triptychon
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Crazy Tube Circuits's Triptychon - Octave Fuzz / Drive / Treble Boost is cataloged as a fuzz / overdrive pedal.
+
+### Verified version references
+- The evidence references: Mk1, MkII.
+
+### Verified transistor/device terms
+- silicon transistors, silicon transistor.
+
+### Verified sound evidence
+Crazy Tube Circuits Triptychon - Octave Fuzz / Drive / Treble Boost
+The design follows a three-part concept intended to recreate the signal chain interaction found in classic recordings, where fuzz, octave effects, or treble boosters were driven into already overdriven amplifiers.
+Each section operates independently or in combination, allowing flexible routing and gain staging that reflects both vintage and modern pedalboard configurations.
+
+### Sources checked in this pass
+1. Crazy Tube Circuits Triptychon - Octave Fuzz / Drive / Treble Boost | Effects Database: https://www.effectsdatabase.com/model/crazytube/triptychon

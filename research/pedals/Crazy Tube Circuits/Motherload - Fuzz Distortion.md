@@ -55,3 +55,18 @@ The RAT-inspired side covers lower-gain overdrive through aggressive distortion 
 2. Effects Database - Motherload - Fuzz/Distortion
 3. Delicious Audio - Crazy Tube Circuits Motherload Drive
 4. Thomann - Crazy Tube Circuits Motherload
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Crazy Tube Circuits's Motherload - Fuzz/Distortion is cataloged as a distortion / fuzz / overdrive pedal.
+
+### Verified sound evidence
+Crazy Tube Circuits Motherload - Fuzz/Distortion
+R circuit goes from a touch of overdrive all the way up to roaring distortion.
+M side is the classic fuzz distortion beast you would expect but with great string separation and rich in harmonics for almost infinite sustain.
+
+### Sources checked in this pass
+1. Crazy Tube Circuits Motherload - Fuzz/Distortion | Effects Database: https://www.effectsdatabase.com/model/crazytube/motherload

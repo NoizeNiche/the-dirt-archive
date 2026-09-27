@@ -38,3 +38,16 @@ The documented model identity supports a fuzz/drive/booster role, but surviving 
 1. Effects Database - Cranetortoise FB-1 Fuzz Drive Booster
 2. Rittor Music - Guitar Magazine August 2005 new-product review index
 3. ALBIT official support / discontinued Cranetortoise effects
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Cranetortoise by Albit's FB-1 Fuzz Drive Booster is cataloged as a fuzz pedal.
+
+### Verified sound evidence
+Cranetortoise FB-1 Fuzz Drive Booster
+
+### Sources checked in this pass
+1. Cranetortoise FB-1 Fuzz Drive Booster | Effects Database: https://www.effectsdatabase.com/model/cranetortoise/fb1

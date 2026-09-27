@@ -46,3 +46,16 @@ Valve Drive is intended to add tube-style gain, compression, and harmonic enhanc
 ## Photo
 - **Archive status:** No local photo archived in this research pass.
 - **Exact-model visual references checked:** Crews coverage and exact-model review references.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Crews Maniac Sound's Valve Drive is cataloged as an overdrive pedal.
+
+### Sources checked in this pass
+1. Crews Maniac Sound Valve Drive 100V Made in Japan MIJ: https://www.musicdreamshop.com/product/crews-maniac-sound-valve-drive-100v-made-in-japan-mij/
+2. Crews Maniac Sound Valve Drive | Effects Database: https://www.effectsdatabase.com/model/crews/valvedrive
+3. CREWS MANIAC SOUND VALVE DRIVE | eBay: https://www.ebay.com/itm/206571308048
+4. Crews Maniac Sound Valve Drive 100V Made in Japan MIJ - Reverb: https://reverb.com/item/73687469-crews-maniac-sound-valve-drive-100v-made-in-japan-mij

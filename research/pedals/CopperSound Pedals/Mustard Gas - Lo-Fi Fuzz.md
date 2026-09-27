@@ -48,3 +48,18 @@ Mustard Gas covers clean lo-fi coloration, broken-speaker fuzz, and increasingly
 ## Sources checked
 1. Effects Database - CopperSound Pedals Mustard Gas
 2. CopperSound Pedals - current catalog/shop
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+CopperSound Pedals's Mustard Gas - Lo-Fi / Fuzz is cataloged as a fuzz pedal.
+
+### Verified sound evidence
+CopperSound Pedals Mustard Gas - Lo-Fi / Fuzz
+With the switch in the center position, it can go from clean lo-fi to broken speaker fuzz.
+With the switch in the down position, the low-end response is put back into the signal and overloads the circuit.
+
+### Sources checked in this pass
+1. CopperSound Pedals Mustard Gas - Lo-Fi / Fuzz | Effects Database: https://www.effectsdatabase.com/model/coppersound/mustardgas

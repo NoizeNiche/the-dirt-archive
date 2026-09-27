@@ -33,3 +33,16 @@ Cosmosound was an Italian 1970s effects brand associated with Sandro Marchetti a
 ## Sources checked
 1. Effects Database - Cosmosound CSE-14 Distortion/Volume
 2. Classic2Vintage - Sandro Marchetti / Cosmosound history
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Cosmosound's CSE-14 Distortion/Volume is cataloged as a distortion pedal.
+
+### Verified sound evidence
+Cosmosound CSE-14 Distortion/Volume
+
+### Sources checked in this pass
+1. Cosmosound CSE-14 Distortion/Volume | Effects Database: https://www.effectsdatabase.com/model/cosmosound/cse14

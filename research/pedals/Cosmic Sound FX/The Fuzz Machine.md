@@ -40,3 +40,19 @@ Cosmic Sound FX appears in Effects Database as a newly listed Italian fuzz-pedal
 1. Effects Database - Cosmic Sound FX The Fuzz Machine
 2. Effects Database - Cosmic Sound FX brand listing
 3. Effects Database - 2012 weekly overview
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Cosmic Sound FX's The Fuzz Machine is cataloged as a fuzz pedal.
+
+### Verified version references
+- The evidence references: MkII.
+
+### Verified transistor/device terms
+- Germanium Fuzz.
+
+### Sources checked in this pass
+1. Cosmic Sound FX The Fuzz Machine | Effects Database: https://www.effectsdatabase.com/model/cosmicsound/fuzzmachine

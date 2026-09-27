@@ -44,3 +44,21 @@ Copper Gear's broader construction approach is described as handmade work using 
 ## Sources checked
 1. Effects Database - Copper Gear Distorta Obscura
 2. Effects Database - Copper Gear: Steve Goldsborough interview
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Copper Gear's Distorta Obscura is cataloged as a distortion / fuzz pedal.
+
+### Verified color/finish evidence
+- The Distorta Obscura's customization ability comes from the use of the ugly blue-green component in the center of the unit called a "ZIF" (zero insertion force) socket.
+
+### Verified sound evidence
+Unlike a digital fx processor that uses software to try and emulate the sound of multiple types of pedals and pedal arrangements, the Distorta Obscura allows the user to use real components to create a dizzying myriad of true analog "fuzz" and "distortion" type effects.
+Many guitarists agree that your pedal collection isn't complete unless you have a "fuzz" type pedal.
+Most transistors have operational and gain differences.
+
+### Sources checked in this pass
+1. Copper Gear Distorta Obscura | Effects Database: https://www.effectsdatabase.com/model/coppergear/distorta/obscura

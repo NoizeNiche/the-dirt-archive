@@ -43,3 +43,21 @@ The documented V2 is intended to reproduce the dynamic response of a driven Blac
 1. Effects Database - Crazy Tube Circuits Stardust v2 (Blackface)
 2. Crazy Tube Circuits store/outlet
 3. Jim Campilongo - Stardust Blackface gear reference
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Crazy Tube Circuits's Stardust v2 (Blackface) is cataloged as an overdrive pedal.
+
+### Verified version references
+- The evidence references: V2, V3, Version 6, v2, v3.
+
+### Verified sound evidence
+The harmonics and dynamic response are uncomparable.
+Set gain and tone and then control everything from your guitar.
+Crazy Tube Circuits Stardust V3 Overdrive 12:22 2022-11-04 Shawn Tubbs 3 Blackface Amps In One Box!
+
+### Sources checked in this pass
+1. Crazy Tube Circuits Stardust v2 (Blackface) | Effects Database: https://www.effectsdatabase.com/model/crazytube/stardust/v2

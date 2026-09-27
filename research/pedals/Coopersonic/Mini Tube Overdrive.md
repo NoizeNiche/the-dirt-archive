@@ -36,3 +36,13 @@ The model is cataloged as an overdrive. No narrower tonal or circuit claim is ma
 ## Sources checked
 1. Effects Database - Coopersonic product catalog: https://www.effectsdatabase.com/model/coopersonic
 2. Coopersonic user manuals: https://coopersonic.com/user-manuals/
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Coopersonic's Mini Tube Overdrive is cataloged as an overdrive pedal.
+
+### Sources checked in this pass
+1. Coopersonic | Effects Database: https://www.effectsdatabase.com/model/coopersonic

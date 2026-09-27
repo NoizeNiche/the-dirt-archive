@@ -38,3 +38,16 @@ A surviving user listing describes the FD-1 as a fuzz capable of strongly drivin
 1. Effects Database - Cranetortoise FD-1
 2. Mercari - Cranetortoise FD-1
 3. ALBIT official support / discontinued products
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Cranetortoise by Albit's FD-1 Exciting Fuzz Drive is cataloged as a fuzz pedal.
+
+### Verified sound evidence
+Cranetortoise FD-1 Exciting Fuzz Drive
+
+### Sources checked in this pass
+1. Cranetortoise FD-1 Exciting Fuzz Drive | Effects Database: https://www.effectsdatabase.com/model/cranetortoise/fd1

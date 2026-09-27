@@ -65,3 +65,21 @@ The V2 preserves the warm, touch-sensitive tube breakup of the original while ex
 2. Sound House - Space Charged V2
 3. Bonedo - Space Charged V2
 4. ReverbZone - Space Charged V2
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Ronquillo Crazy Tube Circuits Space Charged v2 tube overdrive pedal 5:30 2020-04-21 Shawn Tubbs Real Tube Overdrive Tones
+
+### Verified version references
+- The evidence references: V1, V2, v2.
+
+### Verified sound evidence
+Crazy Tube Circuits Space Charged V2 - Tube Overdrive/Distortion
+Preserving that warm tube tone of V1 we've added gain and volume boost function to spice up your solos.
+The core real-tube overdrive circuit, courtesy of a 12AY7, is exactly the same but as we listened to our customers' feedback we updated the tone control with a wider range for brighter sounds available and also included a tight/fat switch to shape lower frequencies.
+
+### Sources checked in this pass
+1. Crazy Tube Circuits Space Charged V2 - Tube Overdrive/Distortion | Effects Database: https://www.effectsdatabase.com/model/crazytube/spacecharged/2

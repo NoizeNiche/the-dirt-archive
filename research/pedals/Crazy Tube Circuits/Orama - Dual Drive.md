@@ -68,3 +68,21 @@ The amp section ranges from clean/edge-of-breakup through thick saturated Britis
 2. Effects Database - Crazy Tube Circuits Orama - Dual Drive
 3. Music Store - Crazy Tube Circuits Orama
 4. Gearnews - Crazy Tube Circuits Orama: Analog Dual Drive
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Crazy Tube Circuits's Orama - Dual Drive is cataloged as a fuzz / overdrive pedal.
+
+### Verified color/finish evidence
+- A two-way toggle switch provides RAW and BURN voicings: RAW delivers lower gain and tighter bass for vintage-inspired clarity, while BURN increases gain, bass content, and sustain for dense, molten fuzz textures.
+
+### Verified sound evidence
+Crazy Tube Circuits Orama - Dual Drive
+It combines a JFET-based amp section modeled after the Orange OR120 amplifier with a powerful fuzz section derived from the Frantone Peach Fuzz .
+Both circuits can be used independently or stacked, offering a wide tonal range from articulate overdrive to saturated fuzz, designed to embody the full dynamic spectrum of rock and stoner tones.
+
+### Sources checked in this pass
+1. Crazy Tube Circuits Orama - Dual Drive | Effects Database: https://www.effectsdatabase.com/model/crazytube/orama

@@ -40,3 +40,17 @@ The exact-model classification supports the distortion identity, with some survi
 2. Reverb - ALBIT Cranetortoise SD-1
 3. eBay - Cranetortoise SD-1
 4. ALBIT official support
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Cranetortoise by Albit's SD-1 Skunk Distortion is cataloged as a distortion pedal.
+
+### Verified sound evidence
+Cranetortoise SD-1 Skunk Distortion
+
+### Sources checked in this pass
+1. catalog/override source: https://reverb.com/item/39551819-albit-cranetortoise-sd-1-skunk-distortion-fuzzy-auto-bias-fast-shipping
+2. Cranetortoise SD-1 Skunk Distortion | Effects Database: https://www.effectsdatabase.com/model/cranetortoise/sd1

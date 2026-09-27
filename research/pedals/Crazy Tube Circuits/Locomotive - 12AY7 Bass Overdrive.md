@@ -60,3 +60,21 @@ Locomotive is designed to span from a substantial clean boost to warm, organic t
 2. Premier Guitar - Quick Hit: Crazy Tube Circuits Locomotive
 3. PedalFilter - Locomotive
 4. Paul's Boutique - Crazy Tube Circuits Locomotive
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Crazy Tube Circuits's Locomotive - 12AY7 Bass Overdrive is cataloged as an overdrive pedal.
+
+### Verified version references
+- The evidence references: V2.
+
+### Verified sound evidence
+Crazy Tube Circuits Locomotive - 12AY7 Bass Overdrive
+With that amp in mind we designed the pedal with a wide gain range.
+From a massive clean boost to warm organic tube grind featuring excellent touch sensitivity and dynamic response with the organic compression of a classic tube amp.
+
+### Sources checked in this pass
+1. Crazy Tube Circuits Locomotive - 12AY7 Bass Overdrive | Effects Database: https://www.effectsdatabase.com/model/crazytube/locomotive

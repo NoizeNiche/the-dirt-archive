@@ -53,3 +53,16 @@ The dedicated Heavy Metal circuit gives the HM-1 a separate high-gain character 
 2. ALBIT HM-1 manual transcript
 3. ALBIT official support / discontinued effects
 4. Current eBay exact-model listing
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Cranetortoise by Albit's HM-1 High Gain Distortion is cataloged as a distortion pedal.
+
+### Verified sound evidence
+Cranetortoise HM-1 High Gain Distortion
+
+### Sources checked in this pass
+1. Cranetortoise HM-1 High Gain Distortion | Effects Database: https://www.effectsdatabase.com/model/cranetortoise/hm1

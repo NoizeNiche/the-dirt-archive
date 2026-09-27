@@ -47,3 +47,16 @@ The archive does not infer a more specific circuit topology without component-le
 
 ## Sources checked
 1. Effects Database - Cool Bear Effects Grizzly Bear: https://www.effectsdatabase.com/model/coolbear/grizzly
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Cool Bear Effects's Grizzly Bear is cataloged as a distortion / overdrive pedal.
+
+### Verified diode terms
+- LED.
+
+### Sources checked in this pass
+1. Cool Bear Effects Grizzly Bear | Effects Database: https://www.effectsdatabase.com/model/coolbear/grizzly

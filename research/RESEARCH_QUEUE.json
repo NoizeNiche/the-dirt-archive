@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-27T11:08:22.304140+00:00",
+  "generated_at": "2026-09-27T11:11:40.941670+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,8 +10,8 @@
     "pictured": 3140,
     "complete": 3140,
     "research_pending": 0,
-    "deep_research_pending": 1148,
-    "deep_researched": 3094,
+    "deep_research_pending": 1107,
+    "deep_researched": 3135,
     "surface_ready": 4242
   },
   "next_target": {
@@ -69,13 +69,6 @@
       "pedal": "Tube Shooter Overdrive",
       "catalog_type": "",
       "research_record": "./research/pedals/PRP Batch 109/Tube Shooter Overdrive.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Brantone Electronics",
-      "pedal": "WEM Pepbox - Official Reissue",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 115/brantone-electronics-wem-pepbox-official-reissue.md",
       "research_level": "surface"
     },
     {
@@ -195,6 +188,13 @@
       "pedal": "Fuzz Rosso",
       "catalog_type": "",
       "research_record": "./research/pedals/PRP Batch 147/camuro-fuzz-rosso.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Camuro",
+      "pedal": "hachi “8” Classic Modern Fuzz/Bosster",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 147/camuro-hachi-8-classic-modern-fuzz-booster.md",
       "research_level": "surface"
     }
   ]

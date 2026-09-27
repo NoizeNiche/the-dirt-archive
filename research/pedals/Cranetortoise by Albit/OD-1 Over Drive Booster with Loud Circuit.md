@@ -38,3 +38,13 @@ The model designation establishes an overdrive/booster role with an emphasis on 
 1. Effects Database - Cranetortoise by Albit
 2. Chibakan Yachiyo - historical Cranetortoise inventory
 3. ALBIT official support
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Cranetortoise by Albit's OD-1 Over Drive Booster with Loud Circuit is cataloged as an overdrive pedal.
+
+### Sources checked in this pass
+1. Cranetortoise by Albit | Effects Database: https://www.effectsdatabase.com/model/cranetortoise

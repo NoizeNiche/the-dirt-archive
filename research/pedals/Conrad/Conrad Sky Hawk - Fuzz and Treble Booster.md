@@ -47,3 +47,21 @@ Effects Database provides an exact-model Sky Hawk record and a period catalog im
 
 ## Sources checked
 1. Effects Database - Conrad Sky Hawk - Fuzz and Treble Booster: https://www.effectsdatabase.com/model/conrad/skyhawk
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Conrad's Conrad Sky Hawk - Fuzz and Treble Booster is cataloged as a fuzz pedal.
+
+### Verified transistor/device terms
+- silicon transistors.
+
+### Verified sound evidence
+Conrad Sky Hawk - Fuzz and Treble Booster
+Based on its placement within the product line and its shared lineage with other Applied Audio designs, the Sky Hawk was almost certainly derived from the Applied Fuzz and Treble Booster circuit used across several OEM-labeled pedals such as those from Crown, Sano, and Lou Rose.
+These units combined a transistorized fuzz effect with a high-frequency boost, offering two tone-shaping functions that could be used independently or together.
+
+### Sources checked in this pass
+1. Conrad Sky Hawk - Fuzz and Treble Booster | Effects Database: https://www.effectsdatabase.com/model/conrad/skyhawk

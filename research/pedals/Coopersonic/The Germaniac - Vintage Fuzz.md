@@ -46,3 +46,21 @@ At minimum Mania the pedal behaves as a vintage two-knob fuzz. Increasing Mania 
 ## Sources checked
 1. Effects Database - Coopersonic The Germaniac - Vintage Fuzz: https://www.effectsdatabase.com/model/coopersonic/germaniac
 2. Coopersonic - Germaniac: https://coopersonic.com/product/germaniac/
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Coopersonic's The Germaniac - Vintage Fuzz is cataloged as a fuzz pedal.
+
+### Verified transistor/device terms
+- germanium fuzz.
+
+### Verified sound evidence
+Coopersonic The Germaniac - Vintage Fuzz
+As the mania is turned up, a more vicious fuzz results, with more instability.
+If you go further the unit will start to self-oscillate, and the mania and fuzz controls become quite interactive.
+
+### Sources checked in this pass
+1. Coopersonic The Germaniac - Vintage Fuzz | Effects Database: https://www.effectsdatabase.com/model/coopersonic/germaniac

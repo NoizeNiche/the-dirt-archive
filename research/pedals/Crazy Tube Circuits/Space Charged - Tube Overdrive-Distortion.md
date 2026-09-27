@@ -57,3 +57,21 @@ The original Space Charged is designed to cover warm, organic tube tone from thi
 1. Crazy Tube Circuits - original Space Charged documentation/demo
 2. Effects Database - Space Charged
 3. Truetone Music - Space Charged
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Ronquillo Crazy Tube Circuits Space Charged v2 tube overdrive pedal 5:30 2020-04-21 Shawn Tub
+
+### Verified version references
+- The evidence references: V2, v2.
+
+### Verified sound evidence
+Crazy Tube Circuits Space Charged - Tube Overdrive/Distortion
+You will exprerience warm, organic tube tone with excellent touch sensitivity from clean boost to authentic classic rock distortion.
+Ronquillo Crazy Tube Circuits Space Charged v2 tube overdrive pedal 5:30 2020-04-21 Shawn Tub
+
+### Sources checked in this pass
+1. Crazy Tube Circuits Space Charged - Tube Overdrive/Distortion | Effects Database: https://www.effectsdatabase.com/model/crazytube/spacecharged
