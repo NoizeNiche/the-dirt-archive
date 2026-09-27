@@ -107,7 +107,7 @@ async function get(url){
       const pdfPath=path.join(tempDir,'source.pdf');
       fs.writeFileSync(pdfPath,bytes);
       const text=execFileSync('pdftotext',['-layout',pdfPath,'-'],{encoding:'utf8',maxBuffer:8*1024*1024})
-        .replace(/\\s+$/,'').slice(0,600000);
+        .replace(/\s+$/,'').slice(0,600000);
       return {url:finalUrl,text};
     }
     return {url:finalUrl,text:bytes.toString('utf8').slice(0,600000)};
