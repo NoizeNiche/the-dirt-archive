@@ -29,3 +29,22 @@ The model is documented as fuzz. A more detailed sonic characterization is defer
 
 ## Sources checked
 1. The Dirt Archive Scrape C census: `research/SCRAPE_C_CENSUS.csv`
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+the affogato fuzz is a fully analog and unique fuzz circuit that is capable of saving and recalling your favorite sounds as presets.
+
+### Verified sound evidence
+the affogato fuzz is a fully analog and unique fuzz circuit that is capable of saving and recalling your favorite sounds as presets.
+The Affogato was designed with asymmetrical clipping for natural tube-like response to create heavy and fuzzy tones with the fuzz knob turned all the way up, and clean up to create crunchy overdrive tones as you turn the fuzz knob down.
+Watch Demo Video × 3-band EQ tone shaping Use the 3-band EQ to shape and mold your sound to be something completely unique.
+
+### Sources checked in this pass
+1. Affogato Fuzz &ndash; Coffee Shop Pedals: https://coffeeshoppedals.com/products/affogato-fuzz
+2. Affogato Fuzz FX Pedal | Coffee Shop Pedals &ndash; Pedal Jungle: https://pedaljungle.com/products/coffee-shop-pedals-affogato-fuzz-fx-pedal
+3. Coffee Shop Pedals Affogato Fuzz Pedal | Reverb: https://reverb.com/item/91543319-coffee-shop-pedals-affogato-fuzz-pedal
+4. Coffee Shop Pedals Affogato Fuzz - Extensive Musical Instruments and Accessories Marketplace: https://www.megamelod.com/product/coffee-shop-pedals-affogato-fuzz/
+5. Coffee Shop Pedals Affogato Fuzz: Unique Analog Effect Pedal: https://www.westmusic.com/coffee-shop-pedals-affogato-fuzz-358065

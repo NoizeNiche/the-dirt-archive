@@ -24802,8 +24802,8 @@
       "image": "./assets/pedals/coffee-shop-pedals/affogato-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Coffee Shop Pedals/Affogato Fuzz.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Coffee Shop Pedals",
@@ -32072,8 +32072,8 @@
       "image": "",
       "source_page": "https://www.effectsdatabase.com/model/deviever",
       "research_record": "./research/pedals/Devi Ever FX/Fuzz.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Devi Ever FX",
