@@ -4,37 +4,55 @@
 - **Archive parent:** Gambler
 - **Builder:** CKK Electronic
 - **Catalog type:** Overdrive
-- **Identity:** CKK Electronic Gambler, a transparent high-gain overdrive with a low-frequency boost switch.
+- **Identity:** Transparent, dynamic overdrive with Volume, Gain, Tone and a low-frequency boost, documented at 9V/battery operation and approximately 10 mA. [1][2]
 
-## What this pedal is
-CKK documentation and retailer listings describe Gambler as a transparent overdrive capable of moving into high-gain distortion. It can function either as a complete gain stage or as a boost into another pedal or amplifier. [1][2]
+## Controls
+- **VOLUME:** Output.
+- **GAIN:** Drive amount.
+- **TONE:** Tonal balance.
+- **LOW-FREQUENCY BOOST:** Adds low-end body.
+- Three gain-stage range is documented in the retailer description. [1][2]
 
-## Colorways
-- A **Glossy Vintage Cold Grey** finish is documented in a Reverb listing. [1]
-- No complete factory colorway sequence was established.
-
-## Versions and factory options
-Documented controls/features include:
-- Volume.
-- Gain.
-- Tone.
-- Low-frequency boost switch.
-- 3 gain-stage range. [1][2]
-
-The documented electrical specifications include 1 MOhm input impedance, 1 kOhm output impedance, 9V DC or battery power, approximately 10 mA draw, and a compact enclosure. [2]
-
-## Version changes
-No formal numbered factory revision sequence was established.
+## Circuit / topology
+- Analog overdrive.
+- CKK descriptions emphasize transparency, dynamics and use either as a standalone gain stage or as a boost.
+- Exact schematic and semiconductor BOM are not published.
 
 ## Transistor
-No exact-model transistor specification was established.
+- Exact production transistor/device part number is not publicly documented.
 
-## Diode
-No exact-model diode specification was established.
+## Diode / clipping
+- Exact clipping-device type and part number are not publicly documented.
+
+## Power
+- **9V DC or battery**.
+- Approximately **10 mA**.
+- **1 MOhm input impedance** and **1 kOhm output impedance** are documented by Gear4music. [2]
+
+## Construction / finish
+- A surviving Reverb example documents **Glossy Vintage Cold Grey**. [1]
+- No complete factory finish chronology established.
+
+## Version history
+- No numbered factory electronic revision established.
 
 ## Sound
-Gambler is documented as transparent and dynamically responsive, with useful cleanup from the guitar volume control. The low-frequency boost switch can add a richer low end or move the response toward a more mid-focused attack. [1][2]
+Gambler is designed to remain transparent and touch-responsive from lighter gain into higher saturation. The low-frequency boost adds body, and the guitar's volume can be used to clean the drive back. [1][2]
+
+## Research confidence
+- **Identity:** High
+- **Control map:** High
+- **Transparent/dynamic role:** High
+- **9V/battery/10mA:** High
+- **Exact transistor:** Unknown
+- **Exact diode:** Unknown
+
+## Deep research verification
+The exact-model Reverb record and Gear4music description were cross-checked. The evidence establishes the control set, low-frequency boost, 9V/battery operation, 10 mA draw and broad gain role. [1][2]
 
 ## Sources checked
 1. Reverb — CKK Electronic The Gambler: https://reverb.com/item/92293594-ckk-electronic-the-gambler
 2. Gear4music — CKK Electronic Gambler: https://www.gear4music.com/us/en/Guitar-and-Bass/DISC-CKK-Electronic-Gambler-Overdrive-Pedal/27R3
+
+## Photo
+- Exact-model photo provenance remains handled by the photo lane.
