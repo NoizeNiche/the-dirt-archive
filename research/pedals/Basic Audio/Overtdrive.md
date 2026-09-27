@@ -4,50 +4,51 @@
 - **Archive parent:** Overtdrive
 - **Builder:** Basic Audio
 - **Catalog type:** Overdrive
-- **Identity:** Medium-gain IC-based overdrive with switchable EQ behavior and two distinct gain responses. [1][2]
+- **Identity:** Medium-gain IC-based overdrive with switchable EQ behavior, Cut control and two distinct gain responses. [1][2]
 
-## Controls / architecture
+## Controls
 - **VOLUME**
 - **TONE**
 - **GAIN**
 - **CUT**
-- **3-way EQ** switch
-- 9V center-negative with battery support. [1]
+- **3-way EQ** switch. [1]
 
 ## Circuit architecture
-- IC-based analog overdrive.
-- Basic Audio describes two different gain responses:
-  - **Hard-clipped** response.
-  - More open, rounder and dynamic response.
-- The EQ switch and Cut control provide additional frequency shaping. [1][2]
+- Analog **IC/op-amp-based** overdrive.
+- Basic Audio documents two gain responses:
+  - a firmer **hard-clipped** mode;
+  - a more open, round and dynamic mode.
+- The three-position EQ system and Cut control provide additional frequency shaping. [1][2]
 
 ## Active device
-- **IC/op-amp based.**
-- Exact device part number is not publicly documented.
+- **Technology:** IC/op-amp based.
+- Exact IC/device part number is not publicly documented.
 
 ## Diode / clipping
-- The circuit has a hard-clipping mode, but exact clipping component type/part number is not published.
+- Hard-clipped and open/dynamic clipping behaviors are documented.
+- Exact clipping diode/device type and part number are not published.
+
+## Power
+- **9V center-negative** with battery support. [1]
 
 ## Version history
 - No numbered factory electronic revision established.
-- Surviving examples show cosmetic variation only.
-
-## Power
-- **9V center-negative** operation with battery support. [1]
+- Finish changes are treated as cosmetic variations.
 
 ## Sound
-The open gain response is described as rounder and more dynamic, while the hard-clipped response gives firmer distortion. The 3-way EQ and Cut controls broaden the usable frequency range. [1][2]
+The open gain setting is intended to stay rounder and more dynamic, while the hard-clipped setting provides firmer distortion. EQ and Cut expand the frequency-shaping range beyond a conventional three-knob overdrive. [1][2]
 
 ## Research confidence
 - **Identity:** High
-- **IC overdrive architecture:** High
-- **Four-control + EQ switch:** High
+- **IC architecture:** High
 - **Two gain responses:** High
+- **EQ/Cut controls:** High
+- **9V/battery:** High
 - **Exact IC:** Unknown
 - **Exact clipping devices:** Unknown
 
 ## Deep research verification
-Basic Audio's official Overtdrive page was checked against an exact Reverb record and Guitar Pedal X's Basic Audio overview. The sources support the IC-based architecture, two gain responses and EQ/Cut system; exact device numbers remain unpublished. [1][2][3]
+Basic Audio's official Overtdrive page was cross-checked with an exact-model Reverb record and the John Lyons builder interview. The combined evidence supports the IC-based architecture, two gain responses and EQ/Cut system while leaving exact component values unresolved. [1][2][3]
 
 ## Sources checked
 1. Basic Audio — Overtdrive: https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-cnzrr-ksfg5-twy6r-779zt
@@ -55,4 +56,4 @@ Basic Audio's official Overtdrive page was checked against an exact Reverb recor
 3. Guitar Pedal X — John Lyons of Basic Audio: https://www.guitarpedalx.com/news/gpx-blog/the-unsung-king-of-fuzz---john-lyons-of-basic-audio
 
 ## Photo
-- **Exact-model image found historically but not yet validated as a stable local archive asset.**
+- **Archive status:** Exact-model image located historically; stable local archival asset remains unverified.
