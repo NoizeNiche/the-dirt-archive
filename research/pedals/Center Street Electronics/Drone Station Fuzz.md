@@ -4,33 +4,52 @@
 - **Archive parent:** Drone Station Fuzz
 - **Builder:** Center Street Electronics
 - **Catalog type:** Fuzz / Overdrive
-- **Identity:** Center Street Electronics Drone Station Fuzz, a two-stage gain pedal with selectable gain paths and voltage-starve control.
+- **Identity:** Two-stage gain pedal with independent stage controls, footswitchable channel selection, and a Voltage control that deliberately starves the circuit. [1]
 
-## What this pedal is
-Pedal of the Day describes the Drone Station as a two-stage gain pedal capable of moving from overdrive to fuzz through a footswitch. Volume and Tone apply to whichever active channel is selected, while a Voltage control reduces the voltage supplied to the circuit and can introduce breakup and glitch-like behavior. [1]
+## Controls / architecture
+- **VOLUME**
+- **TONE**
+- **VOLTAGE:** Reduces the voltage supplied to the circuit.
+- Separate gain controls for the two stages.
+- Footswitch selection between the gain paths. [1]
 
-The review also describes two separate gain-stage controls, allowing the stages to be blended and independently adjusted. [1]
-
-## Colorways
-- The reviewed exact-model example is described as a **black** enclosure. [1]
-- A complete factory colorway sequence was not established.
-
-## Versions and factory options
-The documented control set includes **Volume, Tone, Voltage, and separate gain-stage controls**, with footswitch selection between the gain channels. [1]
-
-No formal numbered factory revision sequence was established.
-
-## Version changes
-No reliable numbered production revision history was found in the checked sources.
+## Circuit / topology
+- Two adjustable gain stages.
+- One range functions as lower-gain overdrive while the other can move into heavier fuzz.
+- Voltage starvation is integrated into the circuit rather than being an aftermarket modification. [1]
 
 ## Transistor
-No exact-model transistor part number was securely established.
+- Exact production transistor/device part numbers are not publicly documented.
 
-## Diode
-No exact-model diode specification was established.
+## Diode / clipping
+- Exact clipping/protection devices are not publicly documented.
+
+## Power
+- Exact nominal supply/current specifications are not securely preserved.
+
+## Construction / finish
+- Black exact-model example documented by Pedal of the Day.
+- No complete factory finish chronology established.
+
+## Version history
+- No numbered factory electronic revision established.
 
 ## Sound
-The Drone Station is designed around two independently adjustable gain stages. One range covers overdrive while the other can produce a heavier fuzz voice. Reducing the Voltage control pushes the circuit toward increasingly broken-up and glitchy behavior. [1]
+The Drone Station moves from overdrive into fuzz through its two gain paths. Lowering Voltage increasingly destabilizes and compresses the signal, producing broken, glitch-like and sputtering textures. [1]
+
+## Research confidence
+- **Identity:** High
+- **Two-stage architecture:** High
+- **Voltage-starve function:** High
+- **Exact transistor:** Unknown
+- **Exact diode:** Unknown
+- **Power:** Not established
+
+## Deep research verification
+Pedal of the Day's exact-model review was checked directly. It documents the two-stage architecture, separate gain adjustment, Volume/Tone/Voltage interface and the effect of voltage starvation on the fuzz character. [1]
 
 ## Sources checked
 1. Pedal of the Day — Center Street Electronics Drone Station Fuzz: https://www.pedal-of-the-day.com/2015/04/09/center-street-electronics-drone-station-fuzz/
+
+## Photo
+- Exact-model photo status remains handled separately.
