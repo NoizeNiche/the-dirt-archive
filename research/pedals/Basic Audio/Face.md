@@ -4,47 +4,50 @@
 - **Archive parent:** Face
 - **Builder:** Basic Audio
 - **Catalog type:** Fuzz
-- **Identity:** Germanium Fuzz Face-style fuzz with external Bias, Starve and bass-cut controls, designed as Basic Audio's own refinement of the Fuzz Face family. [1][2]
+- **Identity:** Germanium Fuzz Face-style fuzz with external Bias, Starve and bass-cut controls. [1][2]
 
-## Controls / architecture
-- **FUZZ**
-- **VOLUME**
-- **BIAS**
-- **STARVE**
-- Output bass-cut control. [1]
-The combination gives direct control over bias, supply-starve character and low-frequency weight.
+## What this pedal is
+Basic Audio's Face is its own Germanium interpretation of the Fuzz Face family, expanded with direct control over operating bias, supply-starve behavior and low-frequency content. [1]
+
+## Controls
+- **FUZZ:** Fuzz amount.
+- **VOLUME:** Output level.
+- **BIAS:** Changes the operating point and fuzz character.
+- **STARVE:** Introduces controlled supply starvation for more unstable/gated textures.
+- **Bass-cut control:** Reduces low-frequency buildup. [1]
 
 ## Circuit lineage
 - **Primary lineage:** Fuzz Face.
-- Basic Audio's design is an interpretation rather than a documented untouched historical component replica. [1][2]
+- **Transistor technology:** Germanium.
+- Basic Audio presents Face as an interpretation/refinement rather than a documented untouched vintage recreation. [1][2]
 
 ## Transistor
 - **Technology:** Germanium.
-- Exact transistor part number is not published in the reviewed Basic Audio sources.
+- Exact transistor part number, gain grading and leakage are **not publicly documented**.
 
 ## Diode / clipping
-- Exact clipping-device type and part number are not publicly documented.
+- Exact clipping-device type and part number are **not publicly documented**.
 
 ## Power
-- **9V center-negative** operation with battery support is documented. [1]
+- **9V center-negative** operation with battery support. [1]
 
 ## Version history
-- No numbered factory electronic revision established.
-- Basic Audio finish changes are treated as cosmetic, not electronic revisions.
+- No numbered electronic revision established.
+- Finish differences are cosmetic unless supported by circuit evidence.
 
 ## Sound
-Basic Audio describes Face as slightly rougher and more cutting than some vintage Fuzz Face examples. Bias and Starve allow broader movement into thinner, gated or more aggressive textures, while the bass-cut control prevents excessive low-frequency buildup. The circuit remains responsive to guitar-volume changes. [1][2]
+Basic Audio describes Face as a somewhat rougher and more cutting Germanium Fuzz Face voice. Bias and Starve broaden the texture range into thinner, sputtering and gated territory, while bass cut prevents excessive low-end buildup. [1][2]
 
 ## Research confidence
 - **Identity:** High
 - **Fuzz Face lineage:** High
-- **Bias/Starve/bass controls:** High
-- **Germanium technology:** High
+- **Germanium:** High
+- **Bias/Starve/bass-cut architecture:** High
 - **Exact transistor:** Unknown
 - **Exact diode:** Unknown
 
 ## Deep research verification
-Basic Audio's Face page was checked against an exact Reverb example and independent user reporting. The evidence supports the feature set and Germanium Fuzz Face lineage, while no exact factory semiconductor part number is published. [1][2][3]
+Basic Audio's exact-model page was cross-checked with an exact-model Reverb example and independent owner discussion. These sources support the Germanium Fuzz Face lineage and expanded Bias/Starve control architecture without establishing a specific factory transistor part number. [1][2][3]
 
 ## Sources checked
 1. Basic Audio — Face: https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-6jkg6-l5lts
@@ -52,6 +55,5 @@ Basic Audio's Face page was checked against an exact Reverb example and independ
 3. Unofficial Warmoth Forum — Basic Audio Face discussion: https://unofficialwarmoth.com/threads/new-face-day.34386/
 
 ## Photo
-- **Exact pedal photograph:** Basic Audio official product photograph.
-- **Direct image:** https://images.squarespace-cdn.com/content/v1/5da9e97016ddf940acffa2d3/1632234099855-4HLHLWIM4YV0UTVPMHCV/DSCF1518_1_1.jpg
-- **Source page:** Basic Audio Face product page.
+- **Archive status:** **Exact Photo Attached to Public Catalog**
+- **Exact-model image:** https://images.squarespace-cdn.com/content/v1/5da9e97016ddf940acffa2d3/1632234099855-4HLHLWIM4YV0UTVPMHCV/DSCF1518_1_1.jpg
