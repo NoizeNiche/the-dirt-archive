@@ -18185,7 +18185,7 @@
   {
     "builder": "Fjord Fuzz",
     "pedal": "Bjørn",
-    "image": null,
+    "image": "./assets/pedals/fjord-fuzz/bj-rn/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Fjord Fuzz/Bjørn.md"
   },
@@ -19620,7 +19620,7 @@
   {
     "builder": "IdiotBox Effects",
     "pedal": "Holy Trooper Fuzz (retired)",
-    "image": null,
+    "image": "./assets/pedals/idiotbox-effects/holy-trooper-fuzz-retired/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/IdiotBox Effects/Holy Trooper Fuzz (retired).md"
   },
@@ -19690,7 +19690,7 @@
   {
     "builder": "IdiotBox Effects",
     "pedal": "No Moon 2 — coming soon",
-    "image": null,
+    "image": "./assets/pedals/idiotbox-effects/no-moon-2-coming-soon/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/IdiotBox Effects/No Moon 2 — coming soon.md"
   },
@@ -22798,7 +22798,7 @@
   {
     "builder": "Maxon",
     "pedal": "Super Sonic Distortion (SSD-9)",
-    "image": null,
+    "image": "./assets/pedals/maxon/super-sonic-distortion-ssd-9/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Maxon/Super Sonic Distortion (SSD-9).md"
   },
@@ -25752,9 +25752,10 @@
   {
     "builder": "Radial Engineering / Tonebone",
     "pedal": "Classic V9",
-    "image": null,
+    "image": "./assets/pedals/radial-engineering-tonebone/classic-v9/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/Radial Engineering / Tonebone/Classic V9.md"
+    "research_record": "./research/pedals/Radial Engineering / Tonebone/Classic V9.md",
+    "image_source_url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/ci/a41e511a8c2c606f/1790552042900/HH41Zts58mQl7BJyFscTWQczILRyRRkVa1WOChVm6IY-1790552042-1.3.1.1-BrTcnS.a.dLu9jYsM5vsu3Mv6jEHlvyu6jimXvXHhZdPZ0WqTzBEz40QFC0WfPQ2s5YYyabXp08YqIpvzzqObsTwcc3VBPHo3Hs_U8_uPkECE.wjAoaGLxk7fwYTj_DIOsB_95gd8ZtPSZrZXIibaSALCEZtbC7zUdgC6Ptedn1NqYxh9CJBOLEYSv2o7NerJKVP9T2jLO_ZIqUhxZUwqOoGixBD4R3uGDx075oFIczz6TSnX70MsdNKbM.vp9eajjPkMvUhduWZFRUO9dnzAjATEcz36tQdQXi7zlUztRjPa1AujugiHWH2o62Dmsrb8PmJrA1jQRAvK16_dZd_ePSaq2xt6CF2j.M7M_E01jeImNhMjCokUd4JuNYKT6oFiqnC_eyeN43qwMxdnYhfGGQChKFlgiW2tYpbGYBj4iTDv5HMBhl7jNCyVYCFJgE3sFWHJFnLicsZpw6.mFHSEA_rV8DVdRHBfYyqJ2CU81Mwwy6O2qRjUpQwUAFR2NqcVvKlRUvdeVlhAx.ey8nrfLrEmFbiZ3XY6dsLkI2hmw.neh39D0USay9Qsq_mgTR9NV3yzj9INcTx3u5ormoWurpgasVGpuXwl9a15nQm0xrV0n0FwwB656TML.KR9IbS1FQirLGNqTA.S31_laDJfRicwjm4LJiz9d8ovdYw_lxmxIrD2uSQuGryxBax3qPpzrSO6Jt7baVjMx_p.sDHEh3GQMuTfV.zdQP1vjljV8I"
   },
   {
     "builder": "Radial Engineering / Tonebone",
@@ -26942,7 +26943,7 @@
   {
     "builder": "Stomp Under Foot",
     "pedal": "Ultra 47 Ram's Head",
-    "image": null,
+    "image": "./assets/pedals/stomp-under-foot/ultra-47-ram-s-head/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Stomp Under Foot/Ultra 47 Ram's Head.md"
   },
@@ -26956,7 +26957,7 @@
   {
     "builder": "Stomp Under Foot",
     "pedal": "Violet Menace Ram's Head",
-    "image": null,
+    "image": "./assets/pedals/stomp-under-foot/violet-menace-ram-s-head/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Stomp Under Foot/Violet Menace Ram's Head.md"
   },
@@ -27600,28 +27601,28 @@
   {
     "builder": "ThorpyFX",
     "pedal": "The DANE",
-    "image": null,
+    "image": "./assets/pedals/thorpyfx/the-dane/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/ThorpyFX/The DANE.md"
   },
   {
     "builder": "ThorpyFX",
     "pedal": "THE DANE — Dual Drive Boost",
-    "image": null,
+    "image": "./assets/pedals/thorpyfx/the-dane-dual-drive-boost/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/ThorpyFX/THE DANE — Dual Drive Boost.md"
   },
   {
     "builder": "ThorpyFX",
     "pedal": "The Dane MKI",
-    "image": null,
+    "image": "./assets/pedals/thorpyfx/the-dane-mki/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/ThorpyFX/The Dane MKI.md"
   },
   {
     "builder": "ThorpyFX",
     "pedal": "The J",
-    "image": null,
+    "image": "./assets/pedals/thorpyfx/the-j/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/ThorpyFX/The J.md"
   },
@@ -27978,14 +27979,14 @@
   {
     "builder": "Vemuram",
     "pedal": "Karen — overdrive",
-    "image": null,
+    "image": "./assets/pedals/vemuram/karen-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Vemuram/Karen — overdrive.md"
   },
   {
     "builder": "Vemuram",
     "pedal": "Las Lunas",
-    "image": null,
+    "image": "./assets/pedals/vemuram/las-lunas/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Vemuram/Las Lunas.md"
   },
@@ -28006,7 +28007,7 @@
   {
     "builder": "Vemuram",
     "pedal": "Myriad — fuzz / hybrid fuzz + loop identity",
-    "image": null,
+    "image": "./assets/pedals/vemuram/myriad-fuzz-hybrid-fuzz-loop-identity/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Vemuram/Myriad — fuzz / hybrid fuzz + loop identity.md"
   },
@@ -28279,7 +28280,7 @@
   {
     "builder": "VFE Pedals",
     "pedal": "RUP mkII",
-    "image": null,
+    "image": "./assets/pedals/vfe-pedals/rup-mkii/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/VFE Pedals/RUP mkII.md"
   },
@@ -28342,7 +28343,7 @@
   {
     "builder": "Visual Sound / Truetone",
     "pedal": "Custom Shop Overdrive",
-    "image": null,
+    "image": "./assets/pedals/visual-sound-truetone/custom-shop-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Visual Sound / Truetone/Custom Shop Overdrive.md"
   },
@@ -28594,7 +28595,7 @@
   {
     "builder": "VOX",
     "pedal": "V829 Tone Bender",
-    "image": null,
+    "image": "./assets/pedals/vox/v829-tone-bender/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/VOX/V829 Tone Bender.md"
   },
@@ -28636,7 +28637,7 @@
   {
     "builder": "Walrus Audio",
     "pedal": "385 Overdrive MKII — Overdrive",
-    "image": null,
+    "image": "./assets/pedals/walrus-audio/385-overdrive-mkii-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Walrus Audio/385 Overdrive MKII — Overdrive.md"
   },
@@ -28657,14 +28658,14 @@
   {
     "builder": "Walrus Audio",
     "pedal": "Badwater Bass Pre-amp and D.I",
-    "image": null,
+    "image": "./assets/pedals/walrus-audio/badwater-bass-pre-amp-and-d-i/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Walrus Audio/Badwater Bass Pre-amp and D.I.md"
   },
   {
     "builder": "Walrus Audio",
     "pedal": "Contraband Fuzz",
-    "image": null,
+    "image": "./assets/pedals/walrus-audio/contraband-fuzz/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Walrus Audio/Contraband Fuzz.md"
   },
@@ -28909,7 +28910,7 @@
   {
     "builder": "Wampler Pedals",
     "pedal": "Dracarys Distortion",
-    "image": null,
+    "image": "./assets/pedals/wampler-pedals/dracarys-distortion/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Wampler Pedals/Dracarys Distortion.md"
   },
@@ -28923,14 +28924,14 @@
   {
     "builder": "Wampler Pedals",
     "pedal": "Fuzztration",
-    "image": null,
+    "image": "./assets/pedals/wampler-pedals/fuzztration/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Wampler Pedals/Fuzztration.md"
   },
   {
     "builder": "Wampler Pedals",
     "pedal": "Germanium Tumnus",
-    "image": null,
+    "image": "./assets/pedals/wampler-pedals/germanium-tumnus/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Wampler Pedals/Germanium Tumnus.md"
   },
@@ -28972,7 +28973,7 @@
   {
     "builder": "Wampler Pedals",
     "pedal": "Low Blow Bass Overdrive",
-    "image": null,
+    "image": "./assets/pedals/wampler-pedals/low-blow-bass-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Wampler Pedals/Low Blow Bass Overdrive.md"
   },
@@ -29168,14 +29169,14 @@
   {
     "builder": "Way Huge",
     "pedal": "Atreides Weirding Module",
-    "image": null,
+    "image": "./assets/pedals/way-huge/atreides-weirding-module/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Way Huge/Atreides Weirding Module.md"
   },
   {
     "builder": "Way Huge",
     "pedal": "Beer Overdrive",
-    "image": null,
+    "image": "./assets/pedals/way-huge/beer-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Way Huge/Beer Overdrive.md"
   },

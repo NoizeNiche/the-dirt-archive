@@ -35997,7 +35997,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/fjord-fuzz/bj-rn/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Fjord Fuzz/Bjørn.md",
       "research_level": "surface",
@@ -38536,7 +38536,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/idiotbox-effects/holy-trooper-fuzz-retired/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/IdiotBox Effects/Holy Trooper Fuzz (retired).md",
       "research_level": "surface",
@@ -38662,7 +38662,7 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/idiotbox-effects/no-moon-2-coming-soon/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/IdiotBox Effects/No Moon 2 — coming soon.md",
       "research_level": "deep",
@@ -44213,7 +44213,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/maxon/super-sonic-distortion-ssd-9/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Maxon/Super Sonic Distortion (SSD-9).md",
       "research_level": "deep",
@@ -49448,7 +49448,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/radial-engineering-tonebone/classic-v9/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Radial Engineering / Tonebone/Classic V9.md",
       "research_level": "surface",
@@ -51566,7 +51566,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/stomp-under-foot/ultra-47-ram-s-head/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Stomp Under Foot/Ultra 47 Ram's Head.md",
       "research_level": "deep",
@@ -51592,7 +51592,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/stomp-under-foot/violet-menace-ram-s-head/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Stomp Under Foot/Violet Menace Ram's Head.md",
       "research_level": "deep",
@@ -52753,7 +52753,7 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/thorpyfx/the-dane/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/ThorpyFX/The DANE.md",
       "research_level": "deep",
@@ -52767,7 +52767,7 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/thorpyfx/the-dane-dual-drive-boost/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/ThorpyFX/THE DANE — Dual Drive Boost.md",
       "research_level": "deep",
@@ -52779,7 +52779,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/thorpyfx/the-dane-mki/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/ThorpyFX/The Dane MKI.md",
       "research_level": "deep",
@@ -52793,7 +52793,7 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/thorpyfx/the-j/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/ThorpyFX/The J.md",
       "research_level": "deep",
@@ -53425,7 +53425,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/vemuram/karen-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Vemuram/Karen — overdrive.md",
       "research_level": "deep",
@@ -53437,7 +53437,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/vemuram/las-lunas/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Vemuram/Las Lunas.md",
       "research_level": "deep",
@@ -53473,7 +53473,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/vemuram/myriad-fuzz-hybrid-fuzz-loop-identity/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Vemuram/Myriad — fuzz / hybrid fuzz + loop identity.md",
       "research_level": "surface",
@@ -53945,7 +53945,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/vfe-pedals/rup-mkii/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/VFE Pedals/RUP mkII.md",
       "research_level": "deep",
@@ -54053,7 +54053,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/visual-sound-truetone/custom-shop-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Visual Sound / Truetone/Custom Shop Overdrive.md",
       "research_level": "deep",
@@ -54503,7 +54503,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/vox/v829-tone-bender/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/VOX/V829 Tone Bender.md",
       "research_level": "deep",
@@ -54581,7 +54581,7 @@
         "Distortion",
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/walrus-audio/385-overdrive-mkii-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Walrus Audio/385 Overdrive MKII — Overdrive.md",
       "research_level": "deep",
@@ -54620,7 +54620,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/walrus-audio/badwater-bass-pre-amp-and-d-i/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Walrus Audio/Badwater Bass Pre-amp and D.I.md",
       "research_level": "deep",
@@ -54632,7 +54632,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/walrus-audio/contraband-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Walrus Audio/Contraband Fuzz.md",
       "research_level": "deep",
@@ -55095,7 +55095,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/wampler-pedals/dracarys-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Wampler Pedals/Dracarys Distortion.md",
       "research_level": "deep",
@@ -55120,7 +55120,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/wampler-pedals/fuzztration/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Wampler Pedals/Fuzztration.md",
       "research_level": "deep",
@@ -55133,7 +55133,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/wampler-pedals/germanium-tumnus/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Wampler Pedals/Germanium Tumnus.md",
       "research_level": "deep",
@@ -55215,7 +55215,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/wampler-pedals/low-blow-bass-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Wampler Pedals/Low Blow Bass Overdrive.md",
       "research_level": "deep",
@@ -55585,7 +55585,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/way-huge/atreides-weirding-module/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Way Huge/Atreides Weirding Module.md",
       "research_level": "deep",
@@ -55597,7 +55597,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/way-huge/beer-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Way Huge/Beer Overdrive.md",
       "research_level": "deep",
