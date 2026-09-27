@@ -1,18 +1,18 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-27T19:47:51.438189+00:00",
+  "generated_at": "2026-09-27T20:04:27.864427+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
   "counts": {
-    "total": 4242,
-    "researched": 3743,
-    "pictured": 3351,
-    "complete": 3351,
+    "total": 4241,
+    "researched": 3742,
+    "pictured": 3369,
+    "complete": 3369,
     "research_pending": 0,
-    "deep_research_pending": 368,
+    "deep_research_pending": 367,
     "deep_researched": 3874,
-    "surface_ready": 4242
+    "surface_ready": 4241
   },
   "next_target": {
     "builder": "Death By Audio",
@@ -55,13 +55,6 @@
       "pedal": "JUNIOR DB Fuzz / Dirty Boy Jr. Fuzz",
       "catalog_type": "",
       "research_record": "./research/pedals/Dirty Boy/JUNIOR DB Fuzz / Dirty Boy Jr. Fuzz.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Dirty Boy",
-      "pedal": "None promoted in this block",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Dirty Boy/None promoted in this block.md",
       "research_level": "surface"
     },
     {
@@ -195,6 +188,13 @@
       "pedal": "Gunslinger",
       "catalog_type": "",
       "research_record": "./research/pedals/DOD Electronics/Gunslinger.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "DOD Electronics",
+      "pedal": "Juice Box Overdrive (FX51)",
+      "catalog_type": "",
+      "research_record": "./research/pedals/DOD Electronics/Juice Box Overdrive (FX51).md",
       "research_level": "surface"
     }
   ]

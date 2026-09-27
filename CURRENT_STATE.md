@@ -3,6 +3,20 @@
 
 The active production phase is **Catalog Research Phase**. PRP1 is retained only as a legacy publication/closeout mechanism.
 
+Live catalog: **4241 total / 4241 surface-ready / 3874 deep-researched / 3742 research-linked / 3369 pictured / 3369 complete / 0 surface-missing / 367 deep-research-pending / 373 researched-photo-pending**.
+
+**Next deep-research target:** Death By Audio - Sonic Incinerator.
+
+PRP1 closeout remains separate: 373 researched record(s) still lack an exact local photo.
+The research queue is generated from the canonical catalog and tracker; do not hand-edit the derived queue.
+Last refreshed: 2026-09-27T20:04:27.864427+00:00
+<!-- AUTO:RESEARCH_PHASE_END -->
+
+<!-- AUTO:RESEARCH_PHASE_START -->
+## Active phase checkpoint
+
+The active production phase is **Catalog Research Phase**. PRP1 is retained only as a legacy publication/closeout mechanism.
+
 Live catalog: **4241 total / 4241 surface-ready / 3874 deep-researched / 3742 legacy-PRP-tracker-linked / 3380 pictured / 3132 deep-researched-and-pictured / 0 surface-missing / 367 deep-research-pending / 742 deep-researched-photo-pending**.
 
 The canonical catalog contains a research record for all 4241 entries. The 3742 tracker-linked figure is the remaining legacy PRP tracker population, not the size of the full research corpus.
