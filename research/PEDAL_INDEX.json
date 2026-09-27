@@ -6635,8 +6635,8 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/b85",
       "research_record": "./research/pedals/B85 Audio/Red Lama.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Backbeat Electric",
@@ -6659,8 +6659,8 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/backbeat",
       "research_record": "./research/pedals/Backbeat Electric/Blue Blender.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Backbeat Electric",
@@ -6714,8 +6714,8 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/badcat",
       "research_record": "./research/pedals/Bad Cat/Burmese Drive - Dual Vintage Overdrive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Bad Cat",

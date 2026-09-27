@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-27T08:07:49.866928+00:00",
+  "generated_at": "2026-09-27T08:11:20.614602+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,8 +10,8 @@
     "pictured": 3107,
     "complete": 3107,
     "research_pending": 0,
-    "deep_research_pending": 2156,
-    "deep_researched": 2086,
+    "deep_research_pending": 2153,
+    "deep_researched": 2089,
     "surface_ready": 4242
   },
   "next_target": {
@@ -37,13 +37,6 @@
       "research_level": "surface"
     },
     {
-      "builder": "B85 Audio",
-      "pedal": "Red Lama",
-      "catalog_type": "",
-      "research_record": "./research/pedals/B85 Audio/Red Lama.md",
-      "research_level": "surface"
-    },
-    {
       "builder": "Backbeat Electric",
       "pedal": "Bass Driver",
       "catalog_type": "",
@@ -52,23 +45,9 @@
     },
     {
       "builder": "Backbeat Electric",
-      "pedal": "Blue Blender",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Backbeat Electric/Blue Blender.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Backbeat Electric",
       "pedal": "Doctor Fuzz",
       "catalog_type": "",
       "research_record": "./research/pedals/Backbeat Electric/Doctor Fuzz.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Bad Cat",
-      "pedal": "Burmese Drive - Dual Vintage Overdrive",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Bad Cat/Burmese Drive - Dual Vintage Overdrive.md",
       "research_level": "surface"
     },
     {
@@ -195,6 +174,27 @@
       "pedal": "Real Tube Overdrive",
       "catalog_type": "",
       "research_record": "./research/pedals/Baja Tech Custom/Real Tube Overdrive.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Balaguer Guitars",
+      "pedal": "Fission Drive",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Balaguer Guitars/Fission Drive.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Baltimore Sonic Research Institute",
+      "pedal": "Magawa",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Baltimore Sonic Research Institute/Magawa.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Baltimore Sonic Research Institute",
+      "pedal": "Maybe The Real Treasure... Fuzz",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Baltimore Sonic Research Institute/Maybe The Real Treasure - Fuzz.md",
       "research_level": "surface"
     }
   ]
