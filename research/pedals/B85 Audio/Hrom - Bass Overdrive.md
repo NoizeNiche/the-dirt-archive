@@ -4,35 +4,45 @@
 - **Archive parent:** Hrom - Bass Overdrive
 - **Builder:** B85 Audio
 - **Catalog type:** Overdrive
-- **Identity:** B85 Audio's Hrom - Bass Overdrive.
+- **Identity:** Bass overdrive built around the **CD4049UBE CMOS** chip, explicitly associated by B85 Audio with the architecture used in Darkglass-style bass overdrive designs. [1]
 
 ## What this pedal is
-B85 Audio browse by type distortion/fuzz/overdrive overdrive browse by enclosure pedal B85 Audio Hrom - Bass Overdrive Published on January 25, 2025 B85 Audio overdrive Bluetooth pedal Information B85 Audio B85 audio Hrom is a floor effect built on the CD4049UBE CMOS chip, on which analog overdrivers from renowned manufacturers such as Darkglass B3K, Darkglass Vintage, etc.
+Effects Database identifies Hrom as a B85 Audio bass overdrive and states that it is based on the CD4049UBE CMOS chip. The reference to Darkglass B3K/Vintage is treated as a circuit-family comparison from the source, not as a claim of exact schematic identity. [1]
 
-## Colorways
-- No specific factory colorway information was established in the verified evidence packet.
+## Controls / architecture
+The reviewed exact-model source does not preserve a complete reliable external control map, so the archive does not invent one.
 
-## Versions and factory options
-- No distinct factory revision was established in the verified evidence packet.
+## Active device
+- **CD4049UBE CMOS chip:** Explicitly documented.
+- Exact supporting semiconductor/component values are not published. [1]
 
-## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+## Diode / clipping
+- Exact clipping diode/device part number is not publicly documented.
 
-## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
-- **Exact transistor/device:** Unknown.
+## Power
+- The reviewed exact-model source does not establish a complete current/voltage specification beyond the pedal's external-power operation.
 
-## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
-- **Exact part:** Unknown.
+## Version history
+- Effects Database publication: **January 25, 2025**.
+- No numbered electronic revision established. [1]
 
 ## Sound
-B85 Audio Hrom - Bass Overdrive | Effects Database Skip to navigation Brands &#9660; 0-9...
-Effect types &#9660; boost distortion fuzz overdrive acoustic simulation amp simulation speaker/cabinet simulation chorus flanger phaser tremolo vibe vibrato other modulation pitch shifter octaver delay reverb looper/sampler hold/freeze eq filter wah fuzz-wah bitcrusher ring modulator samplerate reducer wavefolder synth effect granular effect multi effect vocal effect talkbox vocoder buffer compressor other...
-B85 Audio browse by type distortion/fuzz/overdrive overdrive browse by enclosure pedal B85 Audio Hrom - Bass Overdrive Published on January 25, 2025 B85 Audio overdrive Bluetooth pedal Information B85 Audio B85 audio Hrom is a floor effect built on the CD4049UBE CMOS chip, on which analog overdrivers from renowned manufacturers such as Darkglass B3K, Darkglass Vintage, etc.
+B85 Audio positions Hrom as a bass overdrive in the CD4049UBE CMOS family. The archive does not assign an exact Darkglass clone identity because the source only supplies a circuit-family comparison. [1]
+
+## Research confidence
+- **Identity:** High
+- **CD4049UBE:** High
+- **Darkglass family comparison:** High as source context, not clone proof
+- **Exact controls:** Not established
+- **Exact diode:** Unknown
+- **Power/current:** Not established
+
+## Deep research verification
+Effects Database's exact Hrom entry was rechecked. It explicitly identifies the CD4049UBE architecture and the B85 Audio model/date, while leaving the detailed control map and clipping components unresolved. [1]
 
 ## Sources checked
-1. B85 Audio Hrom - Bass Overdrive | Effects Database: https://www.effectsdatabase.com/model/b85/hrom
+1. Effects Database — B85 Audio Hrom: https://www.effectsdatabase.com/model/b85/hrom
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** **No Photo Archived**
+- **Exact-model reference checked:** Effects Database exact-model record.
