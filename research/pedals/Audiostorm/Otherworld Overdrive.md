@@ -4,43 +4,57 @@
 - **Archive parent:** Otherworld Overdrive
 - **Builder:** Audiostorm
 - **Catalog type:** Overdrive
-- **Identity:** Dual-gain soft-saturation overdrive developed from the Quad Screamer platform with expanded features, soft switching and compatibility with the MDK module system.
+- **Identity:** Expanded successor to the Quad Screamer, using dual gain stages and soft-saturation architecture with additional switching and MDK module support. [1][2]
 
 ## What this pedal is
-Audiostorm describes Otherworld as a dual-gain soft-saturation overdrive that builds on the company's Quad Screamer. The design adds versatility, soft switching and support for the MDK module system.
+Audiostorm describes Otherworld as a new version of the company's screamer platform with more features and improvements. Its design centers on dual gain stages and soft saturation rather than a single fixed hard-clipping mode. [1]
 
-## Colorways
-- No reliable named production colorway family was verified.
+## Circuit / controls
+- **Dual gain stages**
+- **Soft-saturation architecture**
+- **Soft switching**
+- **MDK module-system compatibility** [1][2]
+The current product documentation does not publish a complete component-level schematic or exact active-device list.
 
-## Versions and factory options
-### Otherworld
-- Dual gain stages
-- Soft-saturation architecture
-- Soft switching
-- MDK module-system support
+## Relationship to Quad Screamer
+Audiostorm explicitly says **Quad Screamer is no longer in production** and that **Otherworld replaces it as effectively Version 2.0 with more features and improvements**. [1]
 
-### Relationship to Quad Screamer
-Audiostorm identifies Otherworld as the successor design to the Quad Screamer, effectively carrying that platform forward with additional features.
+This relationship is a product-generation transition, not evidence that every internal component remained unchanged.
 
-## Version changes
-The builder explicitly describes Otherworld as a new, expanded design built from the Quad Screamer rather than simply a cosmetic reissue. The exact internal component changes are not fully published in the current product documentation checked.
+## Transistor / active device
+- Solid-state analog gain architecture.
+- Exact active-device part numbers are not publicly documented.
 
-## Transistor
-- **Technology:** Solid-state analog gain architecture.
-- **Exact devices:** Not publicly documented.
+## Diode / clipping
+- Exact clipping-device arrangement is not publicly documented.
 
-## Diode
-- **Type:** Exact clipping diode arrangement for Otherworld is not publicly documented.
+## Power
+- Current exact-model page does not expose a complete voltage/current specification in the reviewed material.
+
+## Version history
+- **Quad Screamer → Otherworld:** documented successor relationship.
+- Otherworld is explicitly described by Audiostorm as the effectively **Version 2.0** platform. [1]
 
 ## Sound
-Otherworld is designed around smoother, lower-compression saturation rather than a single hard-clipping voice. Its dual-gain structure and broader feature set are intended to make the pedal more adaptable than the earlier Quad Screamer platform.
+The stated design goal is a smoother, lower-compression saturation character with more flexibility than the predecessor platform. The archive does not infer a particular clipping diode recipe or frequency curve without published component evidence.
+
+## Research confidence
+- **Identity:** High
+- **Quad Screamer successor relationship:** High
+- **Dual-gain / soft-saturation architecture:** High
+- **MDK module support:** High
+- **Exact active device:** Unknown
+- **Exact diode:** Unknown
+- **Exact power specification:** Not established
+
+## Deep research verification
+Audiostorm's current Otherworld page and current Quad Screamer page were cross-checked. The builder explicitly identifies Otherworld as the successor/Version 2.0 evolution of Quad Screamer and describes its added features, while the earlier model is marked no longer in production. [1][2]
 
 ## Sources checked
-1. Audiostorm — Otherworld product page: https://audiostorm.uk/product/otherworld/
-2. Audiostorm — current home page: https://audiostorm.uk/
-3. Audiostorm — retired products/revision history: https://audiostorm.uk/retired-products/
+1. Audiostorm — Otherworld: https://audiostorm.uk/product/otherworld/
+2. Audiostorm — Quad Screamer: https://audiostorm.uk/product/quad-screamer/
+3. Audiostorm — Retired Products and Revision Histories: https://audiostorm.uk/retired-products/
 
 ## Photo
 - **Archive status:** **No Photo Archived**
-- **Exact-model reference checked:** https://audiostorm.uk/product/otherworld/
-- **Archive note:** Current product photography exists, but no stable archive asset is being promoted in this pass.
+- **Exact-model reference checked:** Audiostorm exact-model page.
