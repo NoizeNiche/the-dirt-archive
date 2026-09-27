@@ -303,10 +303,15 @@ function searchQueries(builder,pedal,sourceHosts=[]){
   const b=String(builder||'').trim(), p=String(pedal||'').trim();
   const pa=romanAscii(p);
   const pn=norm(p);
+  const identityAlternates=pedalIdentityVariants(p)
+    .filter(value=>String(value||'').trim() && String(value||'').trim()!==p)
+    .slice(0,2);
   const variants=[
     '"'+b+'" "'+p+'"',
     '"'+b+'" "'+pa+'"',
+    ...identityAlternates.map(value=>'"'+b+'" "'+String(value).trim()+'"'),
     '"'+b+'" "'+p+'" manual specs review',
+    ...identityAlternates.map(value=>'"'+String(value).trim()+'" "'+b+'" manual specs review'),
     '"'+p+'" "'+b+'" Reverb Effects Database',
     'site:effectsdatabase.com/model "'+b+'" "'+p+'"',
     'site:reverb.com/item "'+b+'" "'+p+'"',
