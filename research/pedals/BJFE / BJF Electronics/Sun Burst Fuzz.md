@@ -21,3 +21,6 @@ The Dirt Archive currently catalogs **Sun Burst Fuzz** by **BJFE / BJF Electroni
 ## Deep research
 - **Status:** Pending
 - Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+## Deep research verification
+
+The BJFE historical registry confirms **Sun Burst Fuzz** as a distinct BJFE fuzz identity. The available historical material does not establish a complete control layout, production revision map, or exact transistor/diode complement, so those details remain unresolved rather than being borrowed from another BJFE fuzz.
