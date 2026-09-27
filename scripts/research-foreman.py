@@ -32,11 +32,27 @@ def identity_ok(builder,pedal,title,h1,excerpt="",url=""):
     # manuals and archived PDFs whose filename carries the model name while
     # the parsed document title/body is sparse or binary.
     hay=norm(str(title or "")+" "+str(h1 or "")+" "+str(excerpt or "")+" "+str(url or ""))
-    variants=[str(pedal or "").strip()]
-    core=re.split(r"\\s+—\\s+",str(pedal or "").strip(),maxsplit=1)[0].strip()
+    raw_pedal=str(pedal or "").strip()
+    variants=[raw_pedal]
+    core=re.split(r"\s+—\s+",raw_pedal,maxsplit=1)[0].strip()
     if core and core not in variants:
         variants.append(core)
-    if "rammstein rd distortion combo emulator" in norm(pedal):
+
+    # Historical archive names can carry relationship descriptors. Recognize the
+    # underlying model and any explicitly named former model while retaining the
+    # same exact Builder + source evidence requirements.
+    former_match=re.search(r"\bformerly\s+(.+)$",raw_pedal,re.IGNORECASE)
+    former_name=(former_match.group(1) if former_match else "").rstrip(" .,:;").strip()
+    if former_name and former_name not in variants:
+        variants.append(former_name)
+
+    relationship_base=re.sub(r"\s*\/\s*formerly\s+.+$","",raw_pedal,flags=re.IGNORECASE)
+    relationship_base=re.sub(r"\s+legacy\s+reissue.*$","",relationship_base,flags=re.IGNORECASE)
+    relationship_base=re.sub(r"\s+—\s+consolidated.*$","",relationship_base,flags=re.IGNORECASE).strip()
+    if relationship_base and relationship_base not in variants:
+        variants.append(relationship_base)
+
+    if "rammstein rd distortion combo emulator" in norm(raw_pedal):
         variants.append("Rammstein Du Hast")
     raw_pedal=str(pedal or "").strip()
     if raw_pedal.endswith(")") and "(" in raw_pedal:
