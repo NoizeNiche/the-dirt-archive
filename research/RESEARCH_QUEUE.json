@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-27T01:53:27.258688+00:00",
+  "generated_at": "2026-09-27T01:57:04.009031+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,74 +10,18 @@
     "pictured": 3010,
     "complete": 3010,
     "research_pending": 0,
-    "deep_research_pending": 2108,
-    "deep_researched": 1653,
+    "deep_research_pending": 2099,
+    "deep_researched": 1662,
     "surface_ready": 3761
   },
   "next_target": {
-    "builder": "Azor",
-    "pedal": "AP-302 Distortion Guitar Effect Pedal",
+    "builder": "Bad Pixel Pedals",
+    "pedal": "Fuck_Fuck Twin Tube Boost Overdrive",
     "catalog_type": "",
-    "research_record": "./research/pedals/Azor/AP-302 Distortion Guitar Effect Pedal.md",
+    "research_record": "./research/pedals/Bad Pixel Pedals/Fuck_Fuck Twin Tube Boost Overdrive.md",
     "research_level": "surface"
   },
   "working_set": [
-    {
-      "builder": "Azor",
-      "pedal": "AP-302 Distortion Guitar Effect Pedal",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Azor/AP-302 Distortion Guitar Effect Pedal.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Azor",
-      "pedal": "AP-507 Dog Distortion Guitar Effect Pedal",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Azor/AP-507 Dog Distortion Guitar Effect Pedal.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Azor",
-      "pedal": "Distortion Effect Pedal",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Azor/Distortion Effect Pedal.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Azor",
-      "pedal": "Fuzz Effect Pedal",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Azor/Fuzz Effect Pedal.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Azor",
-      "pedal": "Overdrive Effect Pedal",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Azor/Overdrive Effect Pedal.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Azur",
-      "pedal": "FUZZ Effect Pedal",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Azur/FUZZ Effect Pedal.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Azur",
-      "pedal": "LEON DRIVE Effect Pedal",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Azur/LEON DRIVE Effect Pedal.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Azur",
-      "pedal": "OVERDRIVE Effect Pedal",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Azur/OVERDRIVE Effect Pedal.md",
-      "research_level": "surface"
-    },
     {
       "builder": "Bad Pixel Pedals",
       "pedal": "Fuck_Fuck Twin Tube Boost Overdrive",
@@ -195,6 +139,62 @@
       "pedal": "Dirty Bomb",
       "catalog_type": "",
       "research_record": "./research/pedals/Barber Electronics/Dirty_Bomb.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Barber Electronics",
+      "pedal": "Exacta",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Barber Electronics/Exacta.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Barber Electronics",
+      "pedal": "FWW BUSS",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Barber Electronics/FWW BUSS.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Barber Electronics",
+      "pedal": "FWW BUSS HG",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Barber Electronics/FWW BUSS HG.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Barber Electronics",
+      "pedal": "FWW Plus",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Barber Electronics/FWW Plus.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Barber Electronics",
+      "pedal": "Gain Changer SR",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Barber Electronics/Gain Changer SR.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Barber Electronics",
+      "pedal": "LTD SR",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Barber Electronics/LTD SR.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Barber Electronics",
+      "pedal": "LTD v2",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Barber Electronics/LTD v2.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Barber Electronics",
+      "pedal": "Midnight Standard",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Barber Electronics/Midnight Standard.md",
       "research_level": "surface"
     }
   ]

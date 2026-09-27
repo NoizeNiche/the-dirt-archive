@@ -6001,8 +6001,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_url": "https://azorpedal.com/cdn/shop/files/2000X1000-2_e30f72b3-a369-41be-a8e3-6c63f55c2eea_1600x.jpg?v=1670320137",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Azor",
@@ -6014,8 +6014,8 @@
       "source_page": "https://azorpedal.com",
       "research_record": "./research/pedals/Azor/AP-507 Dog Distortion Guitar Effect Pedal.md",
       "image_source_url": "https://azorpedal.com/cdn/shop/products/11_PhysCamera003_800x.jpg?v=1676365069",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Azor",
@@ -6034,8 +6034,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_url": "https://azorpedal.com/cdn/shop/files/2000X1000-2_e30f72b3-a369-41be-a8e3-6c63f55c2eea_1600x.jpg?v=1670320137",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Azor",
@@ -6047,8 +6047,8 @@
       "source_page": "https://azorpedal.com/products/azor-ap-303-fuzz-mini-guitar-effect-pedal-aluminium-alloy",
       "research_record": "./research/pedals/Azor/Fuzz Effect Pedal.md",
       "image_source_url": "https://cdn.shopifycdn.net/s/files/1/0269/4633/8890/files/AP-303_1024x1024.jpg?v=1639444140",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Azor",
@@ -6060,8 +6060,8 @@
       "source_page": "https://azorpedal.com/products/azor-ap-308-classical-overdrive-guitar-effect-pedal-true-bypass-blue",
       "research_record": "./research/pedals/Azor/Overdrive Effect Pedal.md",
       "image_source_url": "https://cdn.shopifycdn.net/s/files/1/0269/4633/8890/files/AP-308_1024x1024.jpg?v=1639444659",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Azur",
@@ -6080,8 +6080,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_url": "https://m.media-amazon.com/images/I/71KrHmaMSZL.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Azur",
@@ -6100,8 +6100,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_url": "https://media.guitarcenter.com/is/image/MMGS7/000000122842322-00-264x264.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Azur",
@@ -6120,8 +6120,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_url": "http://azorpedal.com/cdn/shop/products/2_e36eab53-89b9-4f79-9b1d-081a2c2ed744_grande.jpg?v=1608172409",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "B.C. Rich",
@@ -43913,8 +43913,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Prescription Electronics/Depth Charge.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Prescription Electronics",
