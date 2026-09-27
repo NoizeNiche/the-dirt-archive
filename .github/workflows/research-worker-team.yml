@@ -104,6 +104,26 @@ jobs:
                               source_hosts.setdefault(key, set()).add(h.lower())
 
               try:
+                  from pathlib import Path
+                  for item in pedals:
+                      b = str(item.get("company","")).strip()
+                      p = str(item.get("pedal","")).strip()
+                      record = str(item.get("research_record","") or "").replace("./","",1)
+                      if not b or not p or not record:
+                          continue
+                      rp = Path(record)
+                      if not rp.is_file():
+                          continue
+                      raw = rp.read_text(encoding="utf-8", errors="replace")
+                      import re
+                      for u in re.findall(r"https?://[^\s)>\"']+", raw):
+                          h = urlparse(u.rstrip(".,;")).hostname or ""
+                          if h:
+                              source_hosts.setdefault((b,p), set()).add(h.lower())
+              except Exception:
+                  pass
+
+              try:
                   cached_sources=json.load(open("research/RESEARCH_VERIFIED_SOURCE_CACHE.json", encoding="utf-8"))
                   for record in cached_sources.get("records", []):
                       b=str(record.get("builder","")).strip()
