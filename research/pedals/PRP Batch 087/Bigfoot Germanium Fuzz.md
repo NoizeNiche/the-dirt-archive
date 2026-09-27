@@ -12,3 +12,5 @@ https://www.bigfootengineering.com/ltd.html
 
 ## Archive photo
 - **Archive status:** **No Photo Archived**
+## Deep research verification
+Bigfoot Engineering's Limited Edition catalog confirms this exact **Special Reserve Bigfoot Germanium Fuzz** as distinct from the **(+Buffer)** model. The cited source does not establish exact controls, transistor part number, bypass arrangement or power details, so those are left unresolved rather than borrowed from the related variant.
