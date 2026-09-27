@@ -1,48 +1,42 @@
 # Dwarfcraft Devices — Abaddon
 
-## PRP identity
-- **Archive parent:** Abaddon
+## Surface catalog record
 - **Builder:** Dwarfcraft Devices
+- **Pedal:** Abaddon
 - **Catalog type:** Distortion
-- **Identity:** Dwarfcraft Devices's Abaddon.
+- **Research level:** Deep
+- **Deep research status:** Verified identity, historical date, and catalog taxonomy
+- **Identity basis:** Effects Database identifies Abaddon as a Dwarfcraft Devices distortion pedal and dates the catalog entry to **August 11, 2010**. [1]
 
 ## What this pedal is
-Dwarfcraft Devices browse by type distortion/fuzz/overdrive distortion browse by enclosure pedal Dwarfcraft Devices Abaddon Published on August 11, 2010 Dwarfcraft Devices distortion pedal prototype prototype Reviews myFXDB user reviews No reviews yet + Add your review Links Dwarfcraft Devices Where to find one?
+The **Dwarfcraft Devices Abaddon** is a historical Dwarfcraft Devices distortion pedal. The surviving exact-model catalog entry identifies the model and places it in the distortion/fuzz/overdrive family, with **Distortion** as the specific product type. [1]
 
-## Colorways
-- No specific factory colorway information was established in the verified evidence packet.
+## Historical context
+Effects Database records the Abaddon as a Dwarfcraft Devices distortion pedal and dates the catalog publication to **August 11, 2010**. The reviewed source does not establish a complete production run, release announcement, or discontinuation date. [1]
 
-## Versions and factory options
-- No distinct factory revision was established in the verified evidence packet.
+The archive therefore preserves the 2010 catalog date as documented historical evidence rather than turning it into an exact manufacture window.
 
-## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+## Technical evidence boundary
+The reviewed exact-model source does not provide a complete factory schematic, component BOM, transistor inventory, clipping-device specification, or revision chronology.
 
-## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
-- **Exact transistor/device:** Unknown.
+The archive intentionally leaves those fields unresolved rather than copying values from other Dwarfcraft designs.
 
-## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
-- **Exact part:** Unknown.
+## Catalog handling
+Abaddon remains a separate catalog identity. Dwarfcraft produced many highly individual distortion and fuzz designs, so the archive does not infer family relationships from enclosure style or broad genre descriptions alone.
 
-## Sound
-Effect types &#9660; boost distortion fuzz overdrive acoustic simulation amp simulation speaker/cabinet simulation chorus flanger phaser tremolo vibe vibrato other modulation pitch shifter octaver delay reverb looper/sampler hold/freeze eq filter wah fuzz-wah bitcrusher ring modulator samplerate reducer wavefolder synth effect granular effect multi effect vocal effect talkbox vocoder buffer compressor other...
-Dwarfcraft Devices browse by type distortion/fuzz/overdrive distortion browse by enclosure pedal Dwarfcraft Devices Abaddon Published on August 11, 2010 Dwarfcraft Devices distortion pedal prototype prototype Reviews myFXDB user reviews No reviews yet + Add your review Links Dwarfcraft Devices Where to find one?
-fx pedal stompbox stomp box guitar effects pedal distortion dist distorted distort distortion/fuzz/overdrive dirt grit Searching...
-
-## Sources checked
-1. Dwarfcraft Devices Abaddon | Effects Database: https://www.effectsdatabase.com/model/dwarfcraft/abaddon
+## Specifications
+- **Model:** Abaddon
+- **Type:** Distortion
+- **Documented catalog date:** August 11, 2010
+- **Factory BOM:** not established in this pass
+- **Revision history:** not established in this pass
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive photo:** Exact local photo still pending.
+- A verified exact-model source image path was not established in the current archive photo workflow, so no substitute image has been attached.
 
-## Deep research verification
+## Research evidence
+**Sources checked:**
+1. https://www.effectsdatabase.com/model/dwarfcraft/abaddon — exact-model Dwarfcraft Abaddon identity, distortion taxonomy, and dated catalog record.
 
-This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
-
-### Verified description
-Dwarfcraft Devices's Abaddon is cataloged as a distortion pedal.
-
-### Sources checked in this pass
-1. Dwarfcraft Devices Abaddon | Effects Database: https://www.effectsdatabase.com/model/dwarfcraft/abaddon
+**Research confidence:** High for model identity, builder, and Distortion taxonomy; moderate for historical lifecycle and technical construction because the reviewed exact-model source is limited.
