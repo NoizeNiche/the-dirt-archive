@@ -1,5 +1,5 @@
 {
-  "version": "data-20260927-historical-census-sweep-07h",
+  "version": "data-20260927-historical-census-sweep-07i",
   "count": 4242,
   "pedals": [
     {
@@ -30427,8 +30427,8 @@
       "image": "./assets/pedals/danelectro/fab-tone-fab-tone-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Danelectro/Fab Tone / FAB Tone Distortion.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Danelectro",
