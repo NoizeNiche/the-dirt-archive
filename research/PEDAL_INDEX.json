@@ -26578,7 +26578,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/conrad/conrad-sky-hawk-fuzz-and-treble-booster/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Conrad/Conrad Sky Hawk - Fuzz and Treble Booster.md",
       "image_source_page": "https://www.effectsdatabase.com/model/conrad/skyhawk",
@@ -26683,7 +26683,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/coolmusic/multiple-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Coolmusic/Multiple Distortion.md",
       "image_source_page": "https://www.effectsdatabase.com/model/coolmusic/multipledistortion",
@@ -49516,7 +49516,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/radial-engineering-tonebone/bones-london-dual-mode-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Radial Engineering / Tonebone/Bones London Dual-Mode Distortion.md",
       "research_level": "surface",
@@ -49528,7 +49528,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/radial-engineering-tonebone/bones-texas-dual-mode-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Radial Engineering / Tonebone/Bones Texas Dual Mode Overdrive.md",
       "research_level": "surface",
@@ -49552,7 +49552,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/radial-engineering-tonebone/hot-british-v9/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Radial Engineering / Tonebone/Hot-British V9.md",
       "research_level": "surface",
@@ -49639,7 +49639,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/radial-tonebone/bones-london/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Radial Tonebone/Bones London.md",
       "research_level": "surface",
@@ -49676,7 +49676,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/radial-tonebone/hot-british-v9/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Radial Tonebone/Hot-British V9.md",
       "research_level": "surface",
@@ -49738,7 +49738,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/rainger-fx/pull-focus/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Rainger FX/Pull Focus.md",
       "research_level": "surface",
@@ -49751,7 +49751,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/ramble-fx/kismet/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Ramble FX/Kismet.md",
       "research_level": "surface",
@@ -49763,7 +49763,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/ramble-fx/marvel-drive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Ramble FX/Marvel Drive.md",
       "research_level": "surface",

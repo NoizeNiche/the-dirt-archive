@@ -12900,7 +12900,7 @@
   {
     "builder": "Conrad",
     "pedal": "Conrad Sky Hawk - Fuzz and Treble Booster",
-    "image": null,
+    "image": "./assets/pedals/conrad/conrad-sky-hawk-fuzz-and-treble-booster/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Conrad/Conrad Sky Hawk - Fuzz and Treble Booster.md"
   },
@@ -12956,7 +12956,7 @@
   {
     "builder": "Coolmusic",
     "pedal": "Multiple Distortion",
-    "image": null,
+    "image": "./assets/pedals/coolmusic/multiple-distortion/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Coolmusic/Multiple Distortion.md"
   },
@@ -25864,14 +25864,14 @@
   {
     "builder": "Radial Engineering / Tonebone",
     "pedal": "Bones London Dual-Mode Distortion",
-    "image": null,
+    "image": "./assets/pedals/radial-engineering-tonebone/bones-london-dual-mode-distortion/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Radial Engineering / Tonebone/Bones London Dual-Mode Distortion.md"
   },
   {
     "builder": "Radial Engineering / Tonebone",
     "pedal": "Bones Texas Dual Mode Overdrive",
-    "image": null,
+    "image": "./assets/pedals/radial-engineering-tonebone/bones-texas-dual-mode-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Radial Engineering / Tonebone/Bones Texas Dual Mode Overdrive.md"
   },
@@ -25885,7 +25885,7 @@
   {
     "builder": "Radial Engineering / Tonebone",
     "pedal": "Hot-British V9",
-    "image": null,
+    "image": "./assets/pedals/radial-engineering-tonebone/hot-british-v9/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Radial Engineering / Tonebone/Hot-British V9.md"
   },
@@ -25934,7 +25934,7 @@
   {
     "builder": "Radial Tonebone",
     "pedal": "Bones London",
-    "image": null,
+    "image": "./assets/pedals/radial-tonebone/bones-london/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Radial Tonebone/Bones London.md"
   },
@@ -25955,7 +25955,7 @@
   {
     "builder": "Radial Tonebone",
     "pedal": "Hot-British V9",
-    "image": null,
+    "image": "./assets/pedals/radial-tonebone/hot-british-v9/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Radial Tonebone/Hot-British V9.md"
   },
@@ -25990,21 +25990,21 @@
   {
     "builder": "Rainger FX",
     "pedal": "Pull Focus",
-    "image": null,
+    "image": "./assets/pedals/rainger-fx/pull-focus/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Rainger FX/Pull Focus.md"
   },
   {
     "builder": "Ramble FX",
     "pedal": "Kismet",
-    "image": null,
+    "image": "./assets/pedals/ramble-fx/kismet/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Ramble FX/Kismet.md"
   },
   {
     "builder": "Ramble FX",
     "pedal": "Marvel Drive",
-    "image": null,
+    "image": "./assets/pedals/ramble-fx/marvel-drive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Ramble FX/Marvel Drive.md"
   },
