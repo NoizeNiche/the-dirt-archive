@@ -18269,7 +18269,7 @@
   {
     "builder": "Fender",
     "pedal": "MTG:LA Tube Distortion",
-    "image": null,
+    "image": "./assets/pedals/fender/mtg-la-tube-distortion/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Fender/MTG:LA Tube Distortion.md"
   },
@@ -21797,7 +21797,7 @@
   {
     "builder": "Lovepedal",
     "pedal": "5E3 Deluxe",
-    "image": null,
+    "image": "./assets/pedals/lovepedal/5e3-deluxe/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Lovepedal/5E3 Deluxe.md"
   },
@@ -22728,7 +22728,7 @@
   {
     "builder": "Maxon",
     "pedal": "Organic Overdrive (OOD-9)",
-    "image": null,
+    "image": "./assets/pedals/maxon/organic-overdrive-ood-9/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Maxon/Organic Overdrive (OOD-9).md"
   },
@@ -24366,14 +24366,14 @@
   {
     "builder": "MXR",
     "pedal": "GT-OD",
-    "image": null,
+    "image": "./assets/pedals/mxr/gt-od/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/MXR/GT-OD.md"
   },
   {
     "builder": "MXR",
     "pedal": "Hybrid Fuzz",
-    "image": null,
+    "image": "./assets/pedals/mxr/hybrid-fuzz/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/MXR/Hybrid Fuzz.md"
   },
@@ -24695,14 +24695,14 @@
   {
     "builder": "Mythos Pedals",
     "pedal": "Olympus Overdrive",
-    "image": null,
+    "image": "./assets/pedals/mythos-pedals/olympus-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Mythos Pedals/Olympus Overdrive.md"
   },
   {
     "builder": "Mythos Pedals",
     "pedal": "The Victor Distortion",
-    "image": null,
+    "image": "./assets/pedals/mythos-pedals/the-victor-distortion/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Mythos Pedals/The Victor Distortion.md"
   },
@@ -24814,7 +24814,7 @@
   {
     "builder": "NUX Audio / NUX",
     "pedal": "HG-6 High Gain Distortion",
-    "image": null,
+    "image": "./assets/pedals/nux-audio-nux/hg-6-high-gain-distortion/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/NUX Audio / NUX/HG-6 High Gain Distortion.md"
   },
@@ -26207,7 +26207,7 @@
   {
     "builder": "Seymour Duncan",
     "pedal": "805",
-    "image": null,
+    "image": "./assets/pedals/seymour-duncan/805/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Seymour Duncan/805.md"
   },
@@ -26249,7 +26249,7 @@
   {
     "builder": "Seymour Duncan",
     "pedal": "Tweak Fuzz",
-    "image": null,
+    "image": "./assets/pedals/seymour-duncan/tweak-fuzz/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Seymour Duncan/Tweak Fuzz.md"
   },
@@ -26263,7 +26263,7 @@
   {
     "builder": "Shin's Music",
     "pedal": "Dumbloid B Boost",
-    "image": null,
+    "image": "./assets/pedals/shin-s-music/dumbloid-b-boost/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Shin's Music/Dumbloid B Boost.md"
   },
@@ -26361,14 +26361,14 @@
   {
     "builder": "Skreddy Pedals",
     "pedal": "BC239 Fuzz",
-    "image": null,
+    "image": "./assets/pedals/skreddy-pedals/bc239-fuzz/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Skreddy Pedals/BC239 Fuzz.md"
   },
   {
     "builder": "Skreddy Pedals",
     "pedal": "Cephalopod II",
-    "image": null,
+    "image": "./assets/pedals/skreddy-pedals/cephalopod-ii/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Skreddy Pedals/Cephalopod II.md"
   },
@@ -26382,14 +26382,14 @@
   {
     "builder": "Skreddy Pedals",
     "pedal": "Cosmos",
-    "image": null,
+    "image": "./assets/pedals/skreddy-pedals/cosmos/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Skreddy Pedals/Cosmos.md"
   },
   {
     "builder": "Skreddy Pedals",
     "pedal": "Dragon Fuzz",
-    "image": null,
+    "image": "./assets/pedals/skreddy-pedals/dragon-fuzz/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Skreddy Pedals/Dragon Fuzz.md"
   },
@@ -26403,7 +26403,7 @@
   {
     "builder": "Skreddy Pedals",
     "pedal": "General Pig",
-    "image": null,
+    "image": "./assets/pedals/skreddy-pedals/general-pig/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Skreddy Pedals/General Pig.md"
   },
@@ -26620,21 +26620,21 @@
   {
     "builder": "SolidGoldFX",
     "pedal": "76 MKII",
-    "image": null,
+    "image": "./assets/pedals/solidgoldfx/76-mkii/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/SolidGoldFX/76 MKII.md"
   },
   {
     "builder": "SolidGoldFX",
     "pedal": "BETA-V Bass Preamp",
-    "image": null,
+    "image": "./assets/pedals/solidgoldfx/beta-v-bass-preamp/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/SolidGoldFX/BETA-V Bass Preamp.md"
   },
   {
     "builder": "SolidGoldFX",
     "pedal": "Commodore Overdrive",
-    "image": null,
+    "image": "./assets/pedals/solidgoldfx/commodore-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/SolidGoldFX/Commodore Overdrive.md"
   },
@@ -26648,14 +26648,14 @@
   {
     "builder": "SolidGoldFX",
     "pedal": "If 6 Was 9 BC183 MKII",
-    "image": null,
+    "image": "./assets/pedals/solidgoldfx/if-6-was-9-bc183-mkii/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/SolidGoldFX/If 6 Was 9 BC183 MKII.md"
   },
   {
     "builder": "SolidGoldFX",
     "pedal": "Imperial MKII",
-    "image": null,
+    "image": "./assets/pedals/solidgoldfx/imperial-mkii/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/SolidGoldFX/Imperial MKII.md"
   },
@@ -26704,21 +26704,21 @@
   {
     "builder": "Spaceman Effects",
     "pedal": "Apollo VIIb",
-    "image": null,
+    "image": "./assets/pedals/spaceman-effects/apollo-viib/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Spaceman Effects/Apollo VIIb.md"
   },
   {
     "builder": "Spaceman Effects",
     "pedal": "Apollo VIIb Cadet",
-    "image": null,
+    "image": "./assets/pedals/spaceman-effects/apollo-viib-cadet/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Spaceman Effects/Apollo VIIb Cadet.md"
   },
   {
     "builder": "Spaceman Effects",
     "pedal": "Charon",
-    "image": null,
+    "image": "./assets/pedals/spaceman-effects/charon/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Spaceman Effects/Charon.md"
   },
@@ -26732,14 +26732,14 @@
   {
     "builder": "Spaceman Effects",
     "pedal": "Gemini IV",
-    "image": null,
+    "image": "./assets/pedals/spaceman-effects/gemini-iv/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Spaceman Effects/Gemini IV.md"
   },
   {
     "builder": "Spaceman Effects",
     "pedal": "Polaris",
-    "image": null,
+    "image": "./assets/pedals/spaceman-effects/polaris/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Spaceman Effects/Polaris.md"
   },
@@ -26795,21 +26795,21 @@
   {
     "builder": "Stomp Under Foot",
     "pedal": "Amherst",
-    "image": null,
+    "image": "./assets/pedals/stomp-under-foot/amherst/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Stomp Under Foot/Amherst.md"
   },
   {
     "builder": "Stomp Under Foot",
     "pedal": "Astoria",
-    "image": null,
+    "image": "./assets/pedals/stomp-under-foot/astoria/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Stomp Under Foot/Astoria.md"
   },
   {
     "builder": "Stomp Under Foot",
     "pedal": "Black Russian",
-    "image": null,
+    "image": "./assets/pedals/stomp-under-foot/black-russian/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Stomp Under Foot/Black Russian.md"
   },

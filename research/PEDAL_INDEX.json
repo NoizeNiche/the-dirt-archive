@@ -36139,7 +36139,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/fender/mtg-la-tube-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Fender/MTG:LA Tube Distortion.md",
       "research_level": "deep",
@@ -42401,7 +42401,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/lovepedal/5e3-deluxe/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Lovepedal/5E3 Deluxe.md",
       "research_level": "deep",
@@ -44029,7 +44029,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/maxon/organic-overdrive-ood-9/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Maxon/Organic Overdrive (OOD-9).md",
       "research_level": "deep",
@@ -46900,7 +46900,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/mxr/gt-od/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/MXR/GT-OD.md",
       "research_level": "surface",
@@ -46912,7 +46912,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/mxr/hybrid-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/MXR/Hybrid Fuzz.md",
       "research_level": "deep",
@@ -47472,7 +47472,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/mythos-pedals/olympus-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mythos Pedals/Olympus Overdrive.md",
       "research_level": "deep",
@@ -47484,7 +47484,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/mythos-pedals/the-victor-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mythos Pedals/The Victor Distortion.md",
       "research_level": "deep",
@@ -47676,7 +47676,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/nux-audio-nux/hg-6-high-gain-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/NUX Audio / NUX/HG-6 High Gain Distortion.md",
       "research_level": "surface",
@@ -50112,7 +50112,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/seymour-duncan/805/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Seymour Duncan/805.md",
       "research_level": "deep",
@@ -50185,7 +50185,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/seymour-duncan/tweak-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Seymour Duncan/Tweak Fuzz.md",
       "research_level": "deep",
@@ -50209,7 +50209,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/shin-s-music/dumbloid-b-boost/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Shin's Music/Dumbloid B Boost.md",
       "research_level": "deep",
@@ -50381,7 +50381,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/skreddy-pedals/bc239-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Skreddy Pedals/BC239 Fuzz.md",
       "research_level": "deep",
@@ -50393,7 +50393,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/skreddy-pedals/cephalopod-ii/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Skreddy Pedals/Cephalopod II.md",
       "research_level": "deep",
@@ -50421,7 +50421,7 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/skreddy-pedals/cosmos/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Skreddy Pedals/Cosmos.md",
       "research_level": "deep",
@@ -50433,7 +50433,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/skreddy-pedals/dragon-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Skreddy Pedals/Dragon Fuzz.md",
       "research_level": "deep",
@@ -50459,7 +50459,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/skreddy-pedals/general-pig/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Skreddy Pedals/General Pig.md",
       "research_level": "deep",
@@ -50857,7 +50857,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/solidgoldfx/76-mkii/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/SolidGoldFX/76 MKII.md",
       "research_level": "deep",
@@ -50869,7 +50869,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/solidgoldfx/beta-v-bass-preamp/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/SolidGoldFX/BETA-V Bass Preamp.md",
       "research_level": "deep",
@@ -50881,7 +50881,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/solidgoldfx/commodore-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/SolidGoldFX/Commodore Overdrive.md",
       "research_level": "deep",
@@ -50907,7 +50907,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/solidgoldfx/if-6-was-9-bc183-mkii/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/SolidGoldFX/If 6 Was 9 BC183 MKII.md",
       "research_level": "deep",
@@ -50919,7 +50919,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/solidgoldfx/imperial-mkii/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/SolidGoldFX/Imperial MKII.md",
       "research_level": "deep",
@@ -51009,7 +51009,7 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/spaceman-effects/apollo-viib/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Spaceman Effects/Apollo VIIb.md",
       "research_level": "deep",
@@ -51023,7 +51023,7 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/spaceman-effects/apollo-viib-cadet/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Spaceman Effects/Apollo VIIb Cadet.md",
       "research_level": "deep",
@@ -51035,7 +51035,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/spaceman-effects/charon/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Spaceman Effects/Charon.md",
       "research_level": "deep",
@@ -51059,7 +51059,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/spaceman-effects/gemini-iv/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Spaceman Effects/Gemini IV.md",
       "research_level": "deep",
@@ -51071,7 +51071,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/spaceman-effects/polaris/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Spaceman Effects/Polaris.md",
       "research_level": "deep",
@@ -51177,7 +51177,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/stomp-under-foot/amherst/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Stomp Under Foot/Amherst.md",
       "research_level": "deep",
@@ -51189,7 +51189,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/stomp-under-foot/astoria/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Stomp Under Foot/Astoria.md",
       "research_level": "deep",
@@ -51201,7 +51201,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/stomp-under-foot/black-russian/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Stomp Under Foot/Black Russian.md",
       "research_level": "deep",
