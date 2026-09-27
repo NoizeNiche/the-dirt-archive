@@ -13,3 +13,6 @@ The Morgul Drive V2/MKII is a warm, moderate-to-high-gain overdrive that can als
 
 ## Archive photo
 - **Archive status:** **No Photo Archived**
+## Deep research verification
+
+The cited Blackhawk documentation and historical listing identify Morgul Drive V2/MKII as a moderate-to-high-gain overdrive that can also act as a clean boost. Verified controls are **Treble, Volume, Gain, Depth**, with three clipping choices: soft clipping, no clipping, and hard clipping. Depth changes the gain character and the design retains substantial low-end content compared with a conventional Tube Screamer-style drive. The MKII uses updated hybrid construction and clickless relay bypass.
