@@ -11,4 +11,4 @@ Classic Distortion is a Big Tone Music Brewery EQ'd Vintage Series recreation of
 - **Archive status:** **No Photo Archived**
 
 ## Deep research verification
-Effects Database identifies Classic Distortion as an EQ'd Vintage Series recreation of the classic **LM308 RAT** circuit. The Vintage/Turbo switch changes the clipping character between a vintage big-box style and Turbo RAT style. The later EQ'd Vintage platform used a powerful three-band EQ with sweepable parametric mids. Guitar Pedal X notes this series launched in 2015; the builder platform used NOS/vintage components where appropriate. citeturn379671search2turn379671search4turn379671search5
+Effects Database identifies Classic Distortion as an EQ'd Vintage Series recreation of the classic **LM308 RAT** circuit. The Vintage/Turbo switch changes the clipping character between a vintage big-box style and Turbo RAT style. The later EQ'd Vintage platform used a powerful three-band EQ with sweepable parametric mids. Guitar Pedal X notes this series launched in 2015; the builder platform used NOS/vintage components where appropriate.
