@@ -40724,7 +40724,7 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/keeley-electronics/mk3-driver-andy-timmons-full-range-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Keeley Electronics/Mk3 Driver — Andy Timmons Full Range Overdrive.md",
       "research_level": "surface",
@@ -45941,7 +45941,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/mojo-hand-fx/crosstown-rasta/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mojo Hand FX/Crosstown Rasta.md",
       "research_level": "surface",
@@ -46109,7 +46109,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/mojo-hand-fx/rook-royale/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mojo Hand FX/Rook Royale.md",
       "research_level": "surface",
@@ -48027,7 +48027,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/old-blood-noise-endeavors/beam-splitter-v2/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Old Blood Noise Endeavors/Beam Splitter V2.md",
       "research_level": "deep",
@@ -49564,7 +49564,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/radial-engineering-tonebone/regency-overdrive-and-boost/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Radial Engineering / Tonebone/Regency Overdrive and Boost.md",
       "research_level": "surface",
@@ -49787,7 +49787,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/ratin-pedals/blue-angel/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Ratin Pedals/Blue Angel.md",
       "research_level": "surface",
@@ -49835,7 +49835,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/retro-mechanical-labs/432k-rev-2-1-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Retro Mechanical Labs/432k Rev 2.1 Distortion.md",
       "research_level": "surface",
