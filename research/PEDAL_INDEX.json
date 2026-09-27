@@ -1,6 +1,6 @@
 {
-  "version": "data-20260927-historical-census-sweep-06",
-  "count": 4232,
+  "version": "data-20260927-historical-census-sweep-06b",
+  "count": 4225,
   "pedals": [
     {
       "company": "1981 Inventions",
@@ -9399,6 +9399,19 @@
     },
     {
       "company": "Big Ear",
+      "pedal": "Luck Drive",
+      "types": [
+        "Overdrive",
+        "Boost"
+      ],
+      "image": null,
+      "source_page": "https://www.bigearpedals.com/post/making-of-the-luck-drive-for-luck-reunion-2019",
+      "research_record": "./research/pedals/Big Ear/Luck Drive.md",
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "Big Ear",
       "pedal": "Slice of Pie",
       "types": [
         "Fuzz"
@@ -9428,151 +9441,6 @@
       ],
       "image_source_pages_verified": true,
       "image_source_url": "https://static.wixstatic.com/media/8e3756_67e9e7334f474c1e8e75b640da4d5f42~mv2.png/v1/crop/x_0,y_9,w_1721,h_769/fill/w_132,h_60,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8e3756_67e9e7334f474c1e8e75b640da4d5f42~mv2.png",
-      "research_level": "deep",
-      "deep_research_status": "VERIFIED"
-    },
-    {
-      "company": "Big Ear NYC",
-      "pedal": "Black Betty",
-      "types": [
-        "Fuzz"
-      ],
-      "image": "./assets/pedals/big-ear-nyc/black-betty/primary.webp",
-      "source_page": null,
-      "research_record": "./research/pedals/PRP Batch 081/Black Betty.md",
-      "image_source_page": "https://www.bigearpedals.com/product-page/betty-white-fuzz-blem",
-      "image_source_page_verified": true,
-      "image_source_priority": 446,
-      "image_source_pages": [
-        "https://reverb.com/p/big-ear-nyc-betty-fuzz",
-        "https://www.bigearpedals.com/product-page/betty-white-fuzz-blem"
-      ],
-      "image_source_pages_verified": true,
-      "image_source_url": "https://static.wixstatic.com/media/8e3756_2fcaf61277f848a3a87e21ae0e4cfd34%7Emv2.jpg/v1/fill/w_192%2Ch_192%2Clg_1%2Cusm_0.66_1.00_0.01/8e3756_2fcaf61277f848a3a87e21ae0e4cfd34%7Emv2.jpg",
-      "research_level": "deep",
-      "deep_research_status": "VERIFIED"
-    },
-    {
-      "company": "Big Ear NYC",
-      "pedal": "Chaka - Octave Fuzz",
-      "types": [
-        "Fuzz"
-      ],
-      "image": "",
-      "source_page": "https://www.effectsdatabase.com/model/bigear/chaka",
-      "research_record": "./research/pedals/Big Ear NYC/Chaka - Octave Fuzz.md",
-      "research_level": "deep",
-      "deep_research_status": "VERIFIED"
-    },
-    {
-      "company": "Big Ear NYC",
-      "pedal": "Frank",
-      "types": [
-        "Overdrive"
-      ],
-      "image": "./assets/pedals/big-ear-nyc/frank/primary.webp",
-      "source_page": null,
-      "research_record": "./research/pedals/PRP Batch 081/Frank.md",
-      "image_source_page": "https://reverb.com/p/big-ear-pedals-frank",
-      "image_source_page_verified": true,
-      "image_source_priority": 463,
-      "image_source_pages": [
-        "https://reverb.com/uk/p/big-ear-pedals-frank",
-        "https://reverb.com/p/big-ear-pedals-frank",
-        "https://www.effectsdatabase.com/model/bigear/frank"
-      ],
-      "image_source_pages_verified": true,
-      "image_source_url": "https://files.effectsdatabase.com/gear/thumbs/bigear_frank_001.jpg",
-      "image_source_urls": [
-        "https://rvb-img.reverb.com/image/upload/s--Loc73KMH--/t_card-square/v1640290459/xo2jpxnsnpbwdlzkmt7r.jpg",
-        "https://files.effectsdatabase.com/gear/thumbs/bigear_frank_001.jpg"
-      ],
-      "research_level": "deep",
-      "deep_research_status": "VERIFIED"
-    },
-    {
-      "company": "Big Ear NYC",
-      "pedal": "More More More",
-      "types": [
-        "Overdrive",
-        "Boost"
-      ],
-      "image": null,
-      "source_page": "https://www.effectsdatabase.com/updates/weekly/20140804",
-      "research_record": "./research/pedals/Big Ear NYC/More More More.md",
-      "research_level": "deep",
-      "deep_research_status": "VERIFIED"
-    },
-    {
-      "company": "Big Ear NYC",
-      "pedal": "Slice Of Pie",
-      "types": [
-        "Fuzz"
-      ],
-      "image": "./assets/pedals/big-ear-nyc/slice-of-pie/primary.webp",
-      "source_page": null,
-      "research_record": "./research/pedals/PRP Batch 081/Slice Of Pie.md",
-      "image_source_page": "https://www.bigearpedals.com/product-page/slice-of-pie-b-stock",
-      "image_source_page_verified": true,
-      "image_source_priority": 75,
-      "image_source_pages": [
-        "https://www.bigearpedals.com/product-page/slice-of-pie-b-stock"
-      ],
-      "image_source_pages_verified": true,
-      "image_source_url": "https://static.wixstatic.com/media/8e3756_67e9e7334f474c1e8e75b640da4d5f42~mv2.png/v1/crop/x_0,y_9,w_1721,h_769/fill/w_132,h_60,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8e3756_67e9e7334f474c1e8e75b640da4d5f42~mv2.png",
-      "research_level": "deep",
-      "deep_research_status": "VERIFIED"
-    },
-    {
-      "company": "Big Ear NYC",
-      "pedal": "The LOAF Fuzz",
-      "types": [
-        "Fuzz"
-      ],
-      "image": "./assets/pedals/big-ear-nyc/the-loaf-fuzz/primary.webp",
-      "source_page": null,
-      "research_record": "./research/pedals/PRP Batch 081/The LOAF Fuzz.md",
-      "image_source_page": "https://www.bigearpedals.com/product-page/loaf",
-      "image_source_page_verified": true,
-      "image_source_priority": 57,
-      "image_source_pages": [
-        "https://www.bigearpedals.com/product-page/loaf"
-      ],
-      "image_source_pages_verified": true,
-      "image_source_url": "https://static.wixstatic.com/media/8e3756_2fcaf61277f848a3a87e21ae0e4cfd34%7Emv2.jpg/v1/fill/w_192%2Ch_192%2Clg_1%2Cusm_0.66_1.00_0.01/8e3756_2fcaf61277f848a3a87e21ae0e4cfd34%7Emv2.jpg",
-      "research_level": "deep",
-      "deep_research_status": "VERIFIED"
-    },
-    {
-      "company": "Big Ear NYC",
-      "pedal": "Woodcutter",
-      "types": [
-        "Distortion"
-      ],
-      "image": "./assets/pedals/big-ear-nyc/woodcutter/primary.webp",
-      "source_page": null,
-      "research_record": "./research/pedals/PRP Batch 081/Woodcutter NYC.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/bigear/woodcutter",
-      "image_source_page_verified": true,
-      "image_source_priority": 58,
-      "image_source_pages": [
-        "https://www.effectsdatabase.com/model/bigear/woodcutter"
-      ],
-      "image_source_pages_verified": true,
-      "image_source_url": "https://files.effectsdatabase.com/gear/pics/bigear_woodcutter_001.jpg",
-      "research_level": "deep",
-      "deep_research_status": "VERIFIED"
-    },
-    {
-      "company": "Big Ear Pedals",
-      "pedal": "Luck Drive",
-      "types": [
-        "Overdrive",
-        "Boost"
-      ],
-      "image": null,
-      "source_page": "https://www.bigearpedals.com/post/making-of-the-luck-drive-for-luck-reunion-2019",
-      "research_record": "./research/pedals/Big Ear Pedals/Luck Drive.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED"
     },
