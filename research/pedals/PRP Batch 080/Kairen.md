@@ -4,27 +4,44 @@
 - **Archive parent:** Kairen
 - **Builder:** BFFX Boutique Pedals
 - **Catalog type:** Overdrive
-- **Identity:** BFFX Kairen, an overdrive designed around three versions of the Klon-style circuit concept.
+- **Identity:** BFFX Kairen, an overdrive designed to place three Klon-family variants in one enclosure.
 
 ## What this pedal is
-Kairen is documented by Brazilian pedal coverage as an overdrive offering three versions of the well-known Klon concept in one pedal. Contemporary community discussion also describes BFFX's Klon-style products as using a buffered bypass approach rather than the true-bypass implementation common on many later Klones.
+BFFX's Kairen was announced in 2016 as an overdrive built around three versions of the Klon concept. Contemporary Brazilian discussion identifies the three selectable versions as **Gold, Silver and KTR**.
 
 ## Circuit / architecture
-- **Core concept:** Three Klon-style variants in one enclosure.
-- Exact circuit revisions, diode types and transistor/device part numbers were not safely established.
-- **Bypass:** Buffered operation is reported in contemporary BFFX discussion for the builder's Klon-style design family; the exact Kairen switching implementation was not independently confirmed.
+- **Core lineage:** Klon-family / Klon-style overdrive concept.
+- **Selectable variants:** Gold / Silver / KTR, as documented in contemporary Brazilian discussion.
+- Exact circuit differences between those three versions were not established.
+- Exact clipping diode, transistor and op-amp part numbers were not verified.
 
 ## Controls
-- Exact factory control labeling and per-variant switching were not reliably established from the checked sources.
+- Exact factory knob labels, switch names and per-variant control mapping were not reliably recoverable from the surviving sources.
+
+## Bypass / power
+- Exact Kairen-specific bypass topology was not independently verified.
+- Exact current draw and factory power specification were not established from primary documentation reviewed.
+
+## History
+BFFX's Brazilian catalog coverage dates the Kairen announcement to **June 15, 2016**. The surviving community discussion from 2018 still specifically calls out the three-option Gold/Silver/KTR premise.
 
 ## Sound
-The three-variant design is intended to provide multiple Klon-derived overdrive voices from a single enclosure. The archive does not assign exact clipping diode or gain-stage identities without primary documentation.
+The documented purpose of the Kairen is to provide three Klon-family voices in one overdrive enclosure. The archive does not infer exact tonal or circuit differences among Gold, Silver and KTR without direct builder documentation.
+
+## Research confidence
+- **Identity:** High.
+- **Klon-family concept:** High.
+- **Gold / Silver / KTR variants:** Moderate to high.
+- **Exact switching / controls:** Unknown.
+- **Exact components:** Unknown.
+
+## Deep research verification
+The 2016 Brazilian product announcement was cross-checked with the 2018 Cifra Club discussion. The latter provides the specific Gold/Silver/KTR names, which are retained as documented variant identities rather than inferred circuit schematics.
 
 ## Sources checked
-1. Pedais e Efeitos BFFX coverage: https://pedaiseefeitos.com/tag/bffx/
-2. Cifra Club BFFX discussion: https://forum.cifraclub.com.br/forum/7/325299/
-3. Equipboard BFFX brand coverage: https://equipboard.com/brands/bffx
+1. Pedais e Efeitos - BFFX Kairen: https://pedaiseefeitos.com/tag/bffx/
+2. Cifra Club - Bairen/Kairen discussion: https://forum.cifraclub.com.br/forum/3/332983/p1
+3. Equipboard - BFFX brand catalog: https://equipboard.com/brands/bffx
 
 ## Photo
 - **Archive status:** **No Photo Archived**
-- No stable direct image asset was promoted during this pass.
