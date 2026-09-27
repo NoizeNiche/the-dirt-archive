@@ -1,18 +1,18 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-27T07:53:14.778910+00:00",
+  "generated_at": "2026-09-27T07:58:26.092416+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
   "counts": {
-    "total": 4232,
+    "total": 4242,
     "researched": 3750,
     "pictured": 3094,
     "complete": 3094,
     "research_pending": 0,
-    "deep_research_pending": 2152,
-    "deep_researched": 2080,
-    "surface_ready": 4232
+    "deep_research_pending": 2161,
+    "deep_researched": 2081,
+    "surface_ready": 4242
   },
   "next_target": {
     "builder": "6 Degrees FX",
@@ -44,6 +44,41 @@
       "research_level": "surface"
     },
     {
+      "builder": "B85 Audio",
+      "pedal": "Oktadrive",
+      "catalog_type": "",
+      "research_record": "./research/pedals/B85 Audio/Oktadrive.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "B85 Audio",
+      "pedal": "Red Lama",
+      "catalog_type": "",
+      "research_record": "./research/pedals/B85 Audio/Red Lama.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Backbeat Electric",
+      "pedal": "Bass Driver",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Backbeat Electric/Bass Driver.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Backbeat Electric",
+      "pedal": "Blue Blender",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Backbeat Electric/Blue Blender.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Backbeat Electric",
+      "pedal": "Doctor Fuzz",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Backbeat Electric/Doctor Fuzz.md",
+      "research_level": "surface"
+    },
+    {
       "builder": "Bad Cat",
       "pedal": "Burmese Drive - Dual Vintage Overdrive",
       "catalog_type": "",
@@ -65,6 +100,76 @@
       "research_level": "surface"
     },
     {
+      "builder": "Bad Penny FX",
+      "pedal": "Dluxe Drive",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Bad Penny FX/Dluxe Drive.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Bad Penny FX",
+      "pedal": "Fuzz Controller Germanium",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Bad Penny FX/Fuzz Controller Germanium.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Bad Penny FX",
+      "pedal": "Littlebox Fuzz",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Bad Penny FX/Littlebox Fuzz.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Bad Penny FX",
+      "pedal": "Lollygagger Overdrive",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Bad Penny FX/Lollygagger Overdrive.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Bad Penny FX",
+      "pedal": "Morse Fuzz Mini",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Bad Penny FX/Morse Fuzz Mini.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Bad Penny FX",
+      "pedal": "Nerd Fuzz + Boost",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Bad Penny FX/Nerd Fuzz + Boost.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Bad Penny FX",
+      "pedal": "Old Fuzz Mini",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Bad Penny FX/Old Fuzz Mini.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Bad Penny FX",
+      "pedal": "Quagswag Fuzz Boost",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Bad Penny FX/Quagswag Fuzz Boost.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Bad Penny FX",
+      "pedal": "Widow Dual Overdrive/Fuzz",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Bad Penny FX/Widow Dual Overdrive Fuzz.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Bad Pixel Pedals",
+      "pedal": "F#@k You Tube Drive-Boost",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Bad Pixel Pedals/F#@k You Tube Drive-Boost.md",
+      "research_level": "surface"
+    },
+    {
       "builder": "BAE Audio",
       "pedal": "Hot Fuzz",
       "catalog_type": "",
@@ -79,122 +184,17 @@
       "research_level": "surface"
     },
     {
-      "builder": "Barge Concepts",
-      "pedal": "DB-1 Dual Boost",
+      "builder": "Baja Tech Custom",
+      "pedal": "Bone Bender 1.5",
       "catalog_type": "",
-      "research_record": "./research/pedals/Barge Concepts/DB-1 Dual Boost.md",
+      "research_record": "./research/pedals/Baja Tech Custom/Bone Bender 1.5.md",
       "research_level": "surface"
     },
     {
-      "builder": "Barge Concepts",
-      "pedal": "DB-2 Dual Boost",
+      "builder": "Baja Tech Custom",
+      "pedal": "Bone Bender MKII",
       "catalog_type": "",
-      "research_record": "./research/pedals/Barge Concepts/DB-2 Dual Boost.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Barge Concepts",
-      "pedal": "DB-3 Dual Boost",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Barge Concepts/DB-3 Dual Boost.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "BBE",
-      "pedal": "427 Distortion",
-      "catalog_type": "",
-      "research_record": "./research/pedals/BBE/427 Distortion.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "BBE",
-      "pedal": "AM64 American Metal",
-      "catalog_type": "",
-      "research_record": "./research/pedals/BBE/AM64 American Metal.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "BBE",
-      "pedal": "Blacksmith Distortion",
-      "catalog_type": "",
-      "research_record": "./research/pedals/BBE/Blacksmith Distortion.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "BBE",
-      "pedal": "Crusher",
-      "catalog_type": "",
-      "research_record": "./research/pedals/BBE/Crusher.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "BBE",
-      "pedal": "Distorto³",
-      "catalog_type": "",
-      "research_record": "./research/pedals/BBE/Distorto³.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "BBE",
-      "pedal": "Free Fuzz",
-      "catalog_type": "",
-      "research_record": "./research/pedals/BBE/Free Fuzz.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "BBE",
-      "pedal": "Heavy-D",
-      "catalog_type": "",
-      "research_record": "./research/pedals/BBE/Heavy-D.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "BBE",
-      "pedal": "Windowpane - Silicon Fuzz",
-      "catalog_type": "",
-      "research_record": "./research/pedals/BBE/Windowpane - Silicon Fuzz.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Beetronics",
-      "pedal": "Abelha Tropical Fuzz",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Beetronics/Abelha Tropical Fuzz.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Beetronics",
-      "pedal": "Fatbee Overdrive",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Beetronics/Fatbee Overdrive.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Beetronics",
-      "pedal": "Octahive v2 High Octave Buzz",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Beetronics/Octahive v2 High Octave Buzz.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Beetronics",
-      "pedal": "Overhive Mid-Gain Overdrive",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Beetronics/Overhive Mid-Gain Overdrive.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Beetronics",
-      "pedal": "Royal Jelly Fuzz/OD Blender",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Beetronics/Royal Jelly Fuzz/OD Blender.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Beetronics",
-      "pedal": "Swarm Fuzz Harmonizer",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Beetronics/Swarm Fuzz Harmonizer.md",
+      "research_record": "./research/pedals/Baja Tech Custom/Bone Bender MKII.md",
       "research_level": "surface"
     }
   ]

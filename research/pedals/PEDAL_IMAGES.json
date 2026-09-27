@@ -8,6 +8,20 @@
   },
   {
     "builder": "1981 Inventions",
+    "pedal": "DRV MOD 1",
+    "image": "./assets/pedals/1981-inventions/drv-mod-1/primary.webp",
+    "source_page": "https://1981inventions.com/products/drv-mod-1",
+    "research_record": "./research/pedals/1981 Inventions/DRV MOD 1.md"
+  },
+  {
+    "builder": "1981 Inventions",
+    "pedal": "DRV MOD 1 (WHITE)",
+    "image": "./assets/pedals/1981-inventions/drv-mod-1/variants/white.webp",
+    "source_page": "https://1981inventions.com/products/drv-mod-1",
+    "research_record": "./research/pedals/1981 Inventions/DRV MOD 1 (WHITE).md"
+  },
+  {
+    "builder": "1981 Inventions",
     "pedal": "DRV MOD 2",
     "image": "./assets/pedals/1981-inventions/drv-mod-2/primary.webp",
     "source_page": "https://1981inventions.com/products/drv-mod-2",
@@ -40,20 +54,6 @@
     "image": "./assets/pedals/1981-inventions/lvl/primary.webp",
     "source_page": "https://1981inventions.com/products/forget-lvl",
     "research_record": "./research/pedals/1981 Inventions/LVL.md"
-  },
-  {
-    "builder": "1981 Inventions",
-    "pedal": "DRV MOD 1",
-    "image": "./assets/pedals/1981-inventions/drv-mod-1/primary.webp",
-    "source_page": "https://1981inventions.com/products/drv-mod-1",
-    "research_record": "./research/pedals/1981 Inventions/DRV MOD 1.md"
-  },
-  {
-    "builder": "1981 Inventions",
-    "pedal": "DRV MOD 1 (WHITE)",
-    "image": "./assets/pedals/1981-inventions/drv-mod-1/variants/white.webp",
-    "source_page": "https://1981inventions.com/products/drv-mod-1",
-    "research_record": "./research/pedals/1981 Inventions/DRV MOD 1 (WHITE).md"
   },
   {
     "builder": "6 Degrees FX",
@@ -1179,18 +1179,18 @@
   },
   {
     "builder": "Alexander Pedals",
+    "pedal": "Riff Instant Tone Sanitizer",
+    "image": null,
+    "source_page": "https://www.alexanderpedals.com/shop",
+    "research_record": "./research/pedals/Alexander Pedals/Riff Instant Tone Sanitizer.md"
+  },
+  {
+    "builder": "Alexander Pedals",
     "pedal": "Royal Cream",
     "image": "./assets/pedals/alexander-pedals/royal-cream/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/PRP Batch 047/Royal Cream.md",
     "photo_status": "NEEDED"
-  },
-  {
-    "builder": "Alexander Pedals",
-    "pedal": "Riff Instant Tone Sanitizer",
-    "image": null,
-    "source_page": "https://www.alexanderpedals.com/shop",
-    "research_record": "./research/pedals/Alexander Pedals/Riff Instant Tone Sanitizer.md"
   },
   {
     "builder": "Alien Amplification",
@@ -1234,14 +1234,6 @@
   },
   {
     "builder": "Ampeg",
-    "pedal": "Scrambler Bass Overdrive",
-    "image": "./assets/pedals/ampeg/scrambler-bass-overdrive/primary.webp",
-    "source_page": null,
-    "research_record": "./research/pedals/PRP Batch 047/Scrambler Bass Overdrive.md",
-    "photo_status": "NEEDED"
-  },
-  {
-    "builder": "Ampeg",
     "pedal": "A-1 Distortion",
     "image": null,
     "source_page": "https://www.effectsdatabase.com/model/ampeg/a",
@@ -1267,6 +1259,14 @@
     "image": null,
     "source_page": "https://www.effectsdatabase.com/model/ampeg",
     "research_record": "./research/pedals/Ampeg/Scrambler.md"
+  },
+  {
+    "builder": "Ampeg",
+    "pedal": "Scrambler Bass Overdrive",
+    "image": "./assets/pedals/ampeg/scrambler-bass-overdrive/primary.webp",
+    "source_page": null,
+    "research_record": "./research/pedals/PRP Batch 047/Scrambler Bass Overdrive.md",
+    "photo_status": "NEEDED"
   },
   {
     "builder": "Ampeg",
@@ -2157,20 +2157,6 @@
   },
   {
     "builder": "ARC Effects",
-    "pedal": "Soothsayer",
-    "image": "./assets/pedals/arc-effects/soothsayer/primary.webp",
-    "source_page": "https://www.arceffects.com/soothsayer",
-    "research_record": "./research/pedals/PRP Batch 057/Soothsayer.md"
-  },
-  {
-    "builder": "ARC Effects",
-    "pedal": "Shepherd",
-    "image": null,
-    "source_page": "https://www.arceffects.com/shepherd/",
-    "research_record": "./research/pedals/ARC Effects/Shepherd.md"
-  },
-  {
-    "builder": "ARC Effects",
     "pedal": "Big Green",
     "image": null,
     "source_page": "https://www.arceffects.com/big-green",
@@ -2192,6 +2178,13 @@
   },
   {
     "builder": "ARC Effects",
+    "pedal": "Klone",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/arceffects/klone",
+    "research_record": "./research/pedals/ARC Effects/Klone.md"
+  },
+  {
+    "builder": "ARC Effects",
     "pedal": "Klone V2",
     "image": null,
     "source_page": "https://www.arceffects.com/klone-v2",
@@ -2199,10 +2192,17 @@
   },
   {
     "builder": "ARC Effects",
-    "pedal": "Klone",
+    "pedal": "Shepherd",
     "image": null,
-    "source_page": "https://www.effectsdatabase.com/model/arceffects/klone",
-    "research_record": "./research/pedals/ARC Effects/Klone.md"
+    "source_page": "https://www.arceffects.com/shepherd/",
+    "research_record": "./research/pedals/ARC Effects/Shepherd.md"
+  },
+  {
+    "builder": "ARC Effects",
+    "pedal": "Soothsayer",
+    "image": "./assets/pedals/arc-effects/soothsayer/primary.webp",
+    "source_page": "https://www.arceffects.com/soothsayer",
+    "research_record": "./research/pedals/PRP Batch 057/Soothsayer.md"
   },
   {
     "builder": "Arcane Analog",
@@ -2283,13 +2283,6 @@
   },
   {
     "builder": "Ashdown Engineering",
-    "pedal": "John Myung Double Drive",
-    "image": "./assets/pedals/ashdown-engineering/john-myung-double-drive/primary.webp",
-    "source_page": "https://ashdownmusic.com/collections/signature-series/products/john-myung-double-drive-pedal",
-    "research_record": "./research/pedals/PRP Batch 059/John Myung Double Drive.md"
-  },
-  {
-    "builder": "Ashdown Engineering",
     "pedal": "ABM PRO-FX Double Shot",
     "image": null,
     "source_page": "https://www.effectsdatabase.com/model/ashdown",
@@ -2350,6 +2343,13 @@
     "image": null,
     "source_page": "https://www.effectsdatabase.com/model/ashdown",
     "research_record": "./research/pedals/Ashdown Engineering/JM John Myung Double Drive.md"
+  },
+  {
+    "builder": "Ashdown Engineering",
+    "pedal": "John Myung Double Drive",
+    "image": "./assets/pedals/ashdown-engineering/john-myung-double-drive/primary.webp",
+    "source_page": "https://ashdownmusic.com/collections/signature-series/products/john-myung-double-drive-pedal",
+    "research_record": "./research/pedals/PRP Batch 059/John Myung Double Drive.md"
   },
   {
     "builder": "Ashdown Engineering",
@@ -3120,6 +3120,41 @@
     "research_record": "./research/pedals/B85 Audio/Hrom - Bass Overdrive.md"
   },
   {
+    "builder": "B85 Audio",
+    "pedal": "Oktadrive",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/b85",
+    "research_record": "./research/pedals/B85 Audio/Oktadrive.md"
+  },
+  {
+    "builder": "B85 Audio",
+    "pedal": "Red Lama",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/b85",
+    "research_record": "./research/pedals/B85 Audio/Red Lama.md"
+  },
+  {
+    "builder": "Backbeat Electric",
+    "pedal": "Bass Driver",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/backbeat",
+    "research_record": "./research/pedals/Backbeat Electric/Bass Driver.md"
+  },
+  {
+    "builder": "Backbeat Electric",
+    "pedal": "Blue Blender",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/backbeat",
+    "research_record": "./research/pedals/Backbeat Electric/Blue Blender.md"
+  },
+  {
+    "builder": "Backbeat Electric",
+    "pedal": "Doctor Fuzz",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/backbeat",
+    "research_record": "./research/pedals/Backbeat Electric/Doctor Fuzz.md"
+  },
+  {
     "builder": "Backbeat Electric",
     "pedal": "X-Bender",
     "image": "./assets/pedals/backbeat-electric/x-bender/primary.webp",
@@ -3132,13 +3167,6 @@
     "image": "./assets/pedals/bad-cat/2-tone/primary.webp",
     "source_page": "https://www.soundpure.com/p/bad-cat-2-tone-foot-pedal/2423",
     "research_record": "./research/pedals/Bad Cat/2-Tone.md"
-  },
-  {
-    "builder": "Bad Cat",
-    "pedal": "X-Treme Tone",
-    "image": "./assets/pedals/bad-cat/x-treme-tone/primary.webp",
-    "source_page": "https://manuzoid.com/manuals/0D5pR-Bad%20Cat%20X-TREME%20TONE%20Operating%20instructions",
-    "research_record": "./research/pedals/Bad Cat/X-Treme Tone.md"
   },
   {
     "builder": "Bad Cat",
@@ -3162,11 +3190,74 @@
     "research_record": "./research/pedals/Bad Cat/Siamese Drive - Dual Harmonic Overdrive.md"
   },
   {
+    "builder": "Bad Cat",
+    "pedal": "X-Treme Tone",
+    "image": "./assets/pedals/bad-cat/x-treme-tone/primary.webp",
+    "source_page": "https://manuzoid.com/manuals/0D5pR-Bad%20Cat%20X-TREME%20TONE%20Operating%20instructions",
+    "research_record": "./research/pedals/Bad Cat/X-Treme Tone.md"
+  },
+  {
+    "builder": "Bad Penny FX",
+    "pedal": "Dluxe Drive",
+    "image": null,
+    "source_page": "https://reverb.com/uk/item/52583164-bad-penny-fx-dluxe-drive",
+    "research_record": "./research/pedals/Bad Penny FX/Dluxe Drive.md"
+  },
+  {
+    "builder": "Bad Penny FX",
+    "pedal": "Fuzz Controller Germanium",
+    "image": null,
+    "source_page": "https://www.guitarpedalx.com/news/best-of-british-pedal-builders-roundup---an-a-z-overview-in-105-parts",
+    "research_record": "./research/pedals/Bad Penny FX/Fuzz Controller Germanium.md"
+  },
+  {
+    "builder": "Bad Penny FX",
+    "pedal": "Littlebox Fuzz",
+    "image": null,
+    "source_page": "https://www.guitarpedalx.com/news/best-of-british-pedal-builders-roundup---an-a-z-overview-in-105-parts",
+    "research_record": "./research/pedals/Bad Penny FX/Littlebox Fuzz.md"
+  },
+  {
+    "builder": "Bad Penny FX",
+    "pedal": "Lollygagger Overdrive",
+    "image": null,
+    "source_page": "https://www.guitarpedalx.com/news/best-of-british-pedal-builders-roundup---an-a-z-overview-in-105-parts",
+    "research_record": "./research/pedals/Bad Penny FX/Lollygagger Overdrive.md"
+  },
+  {
     "builder": "Bad Penny FX",
     "pedal": "Morse Fuzz",
     "image": "./assets/pedals/bad-penny-fx/morse-fuzz/primary.webp",
     "source_page": "https://gearhero.com/products/bad-penny-fx-morse-fuzz",
     "research_record": "./research/pedals/Bad Penny FX/Morse Fuzz.md"
+  },
+  {
+    "builder": "Bad Penny FX",
+    "pedal": "Morse Fuzz Mini",
+    "image": null,
+    "source_page": "https://www.guitarpedalx.com/news/best-of-british-pedal-builders-roundup---an-a-z-overview-in-105-parts",
+    "research_record": "./research/pedals/Bad Penny FX/Morse Fuzz Mini.md"
+  },
+  {
+    "builder": "Bad Penny FX",
+    "pedal": "Nerd Fuzz + Boost",
+    "image": null,
+    "source_page": "https://www.guitarpedalx.com/news/best-of-british-pedal-builders-roundup---an-a-z-overview-in-105-parts",
+    "research_record": "./research/pedals/Bad Penny FX/Nerd Fuzz + Boost.md"
+  },
+  {
+    "builder": "Bad Penny FX",
+    "pedal": "Old Fuzz Mini",
+    "image": null,
+    "source_page": "https://www.guitarpedalx.com/news/best-of-british-pedal-builders-roundup---an-a-z-overview-in-105-parts",
+    "research_record": "./research/pedals/Bad Penny FX/Old Fuzz Mini.md"
+  },
+  {
+    "builder": "Bad Penny FX",
+    "pedal": "Quagswag Fuzz Boost",
+    "image": null,
+    "source_page": "https://www.guitarpedalx.com/news/best-of-british-pedal-builders-roundup---an-a-z-overview-in-105-parts",
+    "research_record": "./research/pedals/Bad Penny FX/Quagswag Fuzz Boost.md"
   },
   {
     "builder": "Bad Penny FX",
@@ -3181,6 +3272,13 @@
     "image": "./assets/pedals/bad-penny-fx/the-fuzz-controller-v2/primary.webp",
     "source_page": "https://reverb.com/item/36572523-bad-penny-fx-the-fuzz-controller-v2",
     "research_record": "./research/pedals/Bad Penny FX/The Fuzz Controller V2.md"
+  },
+  {
+    "builder": "Bad Penny FX",
+    "pedal": "Widow Dual Overdrive/Fuzz",
+    "image": null,
+    "source_page": "https://www.guitarpedalx.com/news/best-of-british-pedal-builders-roundup---an-a-z-overview-in-105-parts",
+    "research_record": "./research/pedals/Bad Penny FX/Widow Dual Overdrive Fuzz.md"
   },
   {
     "builder": "Bad Penny FX",
@@ -3223,6 +3321,13 @@
     "image": "./assets/pedals/bad-pixel-pedals/classic-model-3-fuzz/primary.webp",
     "source_page": "https://badpixel.weebly.com/classic-bc108-face.html",
     "research_record": "./research/pedals/Bad Pixel Pedals/Classic Model 3 Fuzz.md"
+  },
+  {
+    "builder": "Bad Pixel Pedals",
+    "pedal": "F#@k You Tube Drive-Boost",
+    "image": null,
+    "source_page": "https://atthelivingroomstudios.com/gear/",
+    "research_record": "./research/pedals/Bad Pixel Pedals/F#@k You Tube Drive-Boost.md"
   },
   {
     "builder": "Bad Pixel Pedals",
@@ -3296,17 +3401,17 @@
   },
   {
     "builder": "BAE Audio",
-    "pedal": "Royaltone Fuzz",
-    "image": "./assets/pedals/bae-audio/royaltone-fuzz/primary.webp",
-    "source_page": "https://www.baeaudio.com/8-products",
-    "research_record": "./research/pedals/BAE Audio/Royaltone Fuzz.md"
-  },
-  {
-    "builder": "BAE Audio",
     "pedal": "Hot Fuzz",
     "image": null,
     "source_page": "https://ww.baeaudio.com/hot-fuzz/",
     "research_record": "./research/pedals/BAE Audio/Hot Fuzz.md"
+  },
+  {
+    "builder": "BAE Audio",
+    "pedal": "Royaltone Fuzz",
+    "image": "./assets/pedals/bae-audio/royaltone-fuzz/primary.webp",
+    "source_page": "https://www.baeaudio.com/8-products",
+    "research_record": "./research/pedals/BAE Audio/Royaltone Fuzz.md"
   },
   {
     "builder": "BAE Audio",
@@ -3321,6 +3426,27 @@
     "image": "./assets/pedals/baja-tech-custom/bone-bender/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/bajatech/bonebender",
     "research_record": "./research/pedals/Baja Tech Custom/Bone Bender.md"
+  },
+  {
+    "builder": "Baja Tech Custom",
+    "pedal": "Bone Bender 1.5",
+    "image": null,
+    "source_page": "https://wahwah.fandom.com/wiki/Baja_Tech_Custom",
+    "research_record": "./research/pedals/Baja Tech Custom/Bone Bender 1.5.md"
+  },
+  {
+    "builder": "Baja Tech Custom",
+    "pedal": "Bone Bender MKII",
+    "image": null,
+    "source_page": "https://wahwah.fandom.com/wiki/Baja_Tech_Custom",
+    "research_record": "./research/pedals/Baja Tech Custom/Bone Bender MKII.md"
+  },
+  {
+    "builder": "Baja Tech Custom",
+    "pedal": "Da MOAF Deluxe",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/bajatech",
+    "research_record": "./research/pedals/Baja Tech Custom/DaMOAF Deluxe.md"
   },
   {
     "builder": "Baja Tech Custom",
@@ -3345,6 +3471,13 @@
   },
   {
     "builder": "Baja Tech Custom",
+    "pedal": "Real Tube Overdrive",
+    "image": null,
+    "source_page": "https://wahwah.fandom.com/wiki/Baja_Tech_Custom",
+    "research_record": "./research/pedals/Baja Tech Custom/Real Tube Overdrive.md"
+  },
+  {
+    "builder": "Baja Tech Custom",
     "pedal": "Top Boost TB-1",
     "image": "./assets/pedals/baja-tech-custom/top-boost-tb-1/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/bajatech/topboost",
@@ -3356,6 +3489,13 @@
     "image": "./assets/pedals/balaguer-guitars/bg-drive-preamp-overdrive/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/balaguer/bgdrive",
     "research_record": "./research/pedals/Balaguer Guitars/BG-Drive - Preamp/Overdrive.md"
+  },
+  {
+    "builder": "Balaguer Guitars",
+    "pedal": "Fission Drive",
+    "image": null,
+    "source_page": "https://www.balaguerguitars.com/wp-content/uploads/2021/02/Balaguer-2021-Product-Catalog_compressed-2.pdf",
+    "research_record": "./research/pedals/Balaguer Guitars/Fission Drive.md"
   },
   {
     "builder": "Balaguer Guitars",
@@ -3398,6 +3538,20 @@
     "image": "./assets/pedals/baltimore-sonic-research-institute/impossible-colors-ii-transformer-coupled-fuzz/primary.webp",
     "source_page": "https://www.bsriaudio.com/product/impossible-colors-v2-transformer-coupled-fuzz",
     "research_record": "./research/pedals/Baltimore Sonic Research Institute/Impossible Colors II Transformer Coupled Fuzz.md"
+  },
+  {
+    "builder": "Baltimore Sonic Research Institute",
+    "pedal": "Magawa",
+    "image": null,
+    "source_page": "https://empireguitars.com/collections/all?page=58",
+    "research_record": "./research/pedals/Baltimore Sonic Research Institute/Magawa.md"
+  },
+  {
+    "builder": "Baltimore Sonic Research Institute",
+    "pedal": "Maybe The Real Treasure... Fuzz",
+    "image": null,
+    "source_page": "https://www.cottonwoodmusicemporium.com/collections/baltimore-sonic-research-institure",
+    "research_record": "./research/pedals/Baltimore Sonic Research Institute/Maybe The Real Treasure - Fuzz.md"
   },
   {
     "builder": "Baltimore Sonic Research Institute",
@@ -3983,21 +4137,6 @@
   },
   {
     "builder": "BBE",
-    "pedal": "G Screamer",
-    "image": "./assets/pedals/bbe/g-screamer/primary.webp",
-    "source_page": "https://www.effectsdatabase.com/model/bbe/gscreamer",
-    "research_record": "./research/pedals/BBE/G Screamer.md",
-    "source": "verified research source"
-  },
-  {
-    "builder": "BBE",
-    "pedal": "Green Screamer",
-    "image": "./assets/pedals/bbe/green-screamer/primary.webp",
-    "source_page": null,
-    "research_record": "./research/pedals/PRP Batch 097/Green Screamer.md"
-  },
-  {
-    "builder": "BBE",
     "pedal": "427 Distortion",
     "image": null,
     "source_page": "https://www.effectsdatabase.com/model/bbe/427",
@@ -4037,6 +4176,21 @@
     "image": null,
     "source_page": "https://www.effectsdatabase.com/model/bbe/freefuzz",
     "research_record": "./research/pedals/BBE/Free Fuzz.md"
+  },
+  {
+    "builder": "BBE",
+    "pedal": "G Screamer",
+    "image": "./assets/pedals/bbe/g-screamer/primary.webp",
+    "source_page": "https://www.effectsdatabase.com/model/bbe/gscreamer",
+    "research_record": "./research/pedals/BBE/G Screamer.md",
+    "source": "verified research source"
+  },
+  {
+    "builder": "BBE",
+    "pedal": "Green Screamer",
+    "image": "./assets/pedals/bbe/green-screamer/primary.webp",
+    "source_page": null,
+    "research_record": "./research/pedals/PRP Batch 097/Green Screamer.md"
   },
   {
     "builder": "BBE",
@@ -4354,11 +4508,39 @@
   },
   {
     "builder": "Behringer",
+    "pedal": "Octavia - Octave Fuzz",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/behringer/octavia",
+    "research_record": "./research/pedals/Behringer/Octavia - Octave Fuzz.md"
+  },
+  {
+    "builder": "Behringer",
+    "pedal": "OD100 Overdrive/Distortion",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/behringer/compact/od100",
+    "research_record": "./research/pedals/Behringer/OD100 Overdrive/Distortion.md"
+  },
+  {
+    "builder": "Behringer",
     "pedal": "OD300",
     "image": "./assets/pedals/behringer/od300/primary.webp",
     "source_page": "https://www.behringer.com/en/products/0709-ADX",
     "research_record": "./research/pedals/Behringer/OD300.md",
     "source": "verified research source"
+  },
+  {
+    "builder": "Behringer",
+    "pedal": "OD400 Overdrive",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/behringer/compact/od400",
+    "research_record": "./research/pedals/Behringer/OD400 Overdrive.md"
+  },
+  {
+    "builder": "Behringer",
+    "pedal": "PO300 Power Overdrive",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/behringer/compact/po300",
+    "research_record": "./research/pedals/Behringer/PO300 Power Overdrive.md"
   },
   {
     "builder": "Behringer",
@@ -4370,11 +4552,60 @@
   },
   {
     "builder": "Behringer",
+    "pedal": "SM400 Super Metal",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/behringer/compact/sm400",
+    "research_record": "./research/pedals/Behringer/SM400 Super Metal.md"
+  },
+  {
+    "builder": "Behringer",
+    "pedal": "TO100 Tube Overdrive",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/behringer/compact/to100",
+    "research_record": "./research/pedals/Behringer/TO100 Tube Overdrive.md"
+  },
+  {
+    "builder": "Behringer",
     "pedal": "UZ400 Ultra Fuzz",
     "image": "./assets/pedals/behringer/uz400-ultra-fuzz/primary.webp",
     "source_page": "https://www.behringer.com/en/products/0709-ACL",
     "research_record": "./research/pedals/Behringer/UZ400 Ultra Fuzz.md",
     "source": "verified research source"
+  },
+  {
+    "builder": "Behringer",
+    "pedal": "VD1 Vintage Distortion",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/behringer/vintage/vd1",
+    "research_record": "./research/pedals/Behringer/VD1 Vintage Distortion.md"
+  },
+  {
+    "builder": "Behringer",
+    "pedal": "WD300 Warp Distortion",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/behringer/compact/wd300",
+    "research_record": "./research/pedals/Behringer/WD300 Warp Distortion.md"
+  },
+  {
+    "builder": "Behringer",
+    "pedal": "XD300 Distortion X",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/behringer/compact/xd300",
+    "research_record": "./research/pedals/Behringer/XD300 Distortion X.md"
+  },
+  {
+    "builder": "Behringer",
+    "pedal": "Zentara Overdrive",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/behringer/zentara",
+    "research_record": "./research/pedals/Behringer/Zentara Overdrive.md"
+  },
+  {
+    "builder": "Benson Amps",
+    "pedal": "Chimera Fuzz",
+    "image": "",
+    "source_page": "https://www.bensonamps.com/guitarpedals",
+    "research_record": "./research/pedals/Benson Amps/Chimera Fuzz.md"
   },
   {
     "builder": "Benson Amps",
@@ -4530,6 +4761,13 @@
   },
   {
     "builder": "Big Ear",
+    "pedal": "Luck Drive",
+    "image": null,
+    "source_page": "https://www.bigearpedals.com/post/making-of-the-luck-drive-for-luck-reunion-2019",
+    "research_record": "./research/pedals/Big Ear/Luck Drive.md"
+  },
+  {
+    "builder": "Big Ear",
     "pedal": "Slice of Pie",
     "image": "./assets/pedals/big-ear/slice-of-pie/primary.webp",
     "source_page": null,
@@ -4597,13 +4835,6 @@
     "source_page": null,
     "research_record": "./research/pedals/PRP Batch 081/Woodcutter NYC.md",
     "source": "verified research source"
-  },
-  {
-    "builder": "Big Ear",
-    "pedal": "Luck Drive",
-    "image": null,
-    "source_page": "https://www.bigearpedals.com/post/making-of-the-luck-drive-for-luck-reunion-2019",
-    "research_record": "./research/pedals/Big Ear/Luck Drive.md"
   },
   {
     "builder": "Big Game Pedals",
@@ -4734,6 +4965,13 @@
     "image": "",
     "source_page": "https://bigjoestompbox.com/products/r-405-hard",
     "research_record": "./research/pedals/Big Joe Stomp Box Company/R-405 HARD.md"
+  },
+  {
+    "builder": "Big John Effects",
+    "pedal": "BassDrive",
+    "image": null,
+    "source_page": "https://bigjohnmusic.com/about/",
+    "research_record": "./research/pedals/Big John Effects/BassDrive.md"
   },
   {
     "builder": "Big John Effects",
@@ -5328,18 +5566,18 @@
   },
   {
     "builder": "Bixonic",
+    "pedal": "EXP2000 Expandora",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/bixonic/expandora",
+    "research_record": "./research/pedals/Bixonic/EXP2000 Expandora.md"
+  },
+  {
+    "builder": "Bixonic",
     "pedal": "EXP2000DR Clean & Drive",
     "image": "./assets/pedals/bixonic/exp2000dr-clean-drive/primary.webp",
     "source_page": "https://bixonic-sound.com/products/exp2000dr",
     "research_record": "./research/pedals/PRP Batch 088/EXP2000DR Clean & Drive.md",
     "source": "verified research source"
-  },
-  {
-    "builder": "Bixonic",
-    "pedal": "EXP2000 Expandora",
-    "image": null,
-    "source_page": "https://www.effectsdatabase.com/model/bixonic/expandora",
-    "research_record": "./research/pedals/Bixonic/EXP2000 Expandora.md"
   },
   {
     "builder": "Bixonic",
@@ -5374,18 +5612,18 @@
   },
   {
     "builder": "Biyang",
-    "pedal": "BL-8 Blue",
-    "image": "./assets/pedals/biyang/bl-8-blue/primary.webp",
-    "source_page": "https://www.effectsdatabase.com/model/biyang/tonefancier/bl8",
-    "research_record": "./research/pedals/PRP Batch 089/BL-8 Blue.md",
-    "source": "verified research source"
-  },
-  {
-    "builder": "Biyang",
     "pedal": "BL-12 Blues",
     "image": "./assets/pedals/biyang/bl-12-blues/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/biyang/classic/bl12",
     "research_record": "./research/pedals/PRP Batch 089/BL-12 Blues.md",
+    "source": "verified research source"
+  },
+  {
+    "builder": "Biyang",
+    "pedal": "BL-8 Blue",
+    "image": "./assets/pedals/biyang/bl-8-blue/primary.webp",
+    "source_page": "https://www.effectsdatabase.com/model/biyang/tonefancier/bl8",
+    "research_record": "./research/pedals/PRP Batch 089/BL-8 Blue.md",
     "source": "verified research source"
   },
   {
@@ -5402,6 +5640,14 @@
     "image": "./assets/pedals/biyang/ds-1-distortion/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/biyang/ds1",
     "research_record": "./research/pedals/PRP Batch 089/DS-1 Distortion.md",
+    "source": "verified research source"
+  },
+  {
+    "builder": "Biyang",
+    "pedal": "DS-12 Distortion",
+    "image": "./assets/pedals/biyang/ds-12-distortion/primary.webp",
+    "source_page": "https://www.effectsdatabase.com/model/biyang/tonefancier/ds12",
+    "research_record": "./research/pedals/PRP Batch 089/DS-12 Distortion.md",
     "source": "verified research source"
   },
   {
@@ -5438,10 +5684,10 @@
   },
   {
     "builder": "Biyang",
-    "pedal": "DS-12 Distortion",
-    "image": "./assets/pedals/biyang/ds-12-distortion/primary.webp",
-    "source_page": "https://www.effectsdatabase.com/model/biyang/tonefancier/ds12",
-    "research_record": "./research/pedals/PRP Batch 089/DS-12 Distortion.md",
+    "pedal": "FZ-12 Fuzz",
+    "image": "./assets/pedals/biyang/fz-12-fuzz/primary.webp",
+    "source_page": "https://www.effectsdatabase.com/model/biyang/classic/fz12",
+    "research_record": "./research/pedals/PRP Batch 090/FZ-12 Fuzz.md",
     "source": "verified research source"
   },
   {
@@ -5450,14 +5696,6 @@
     "image": "./assets/pedals/biyang/fz-7-fuzz/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/biyang/tonefancier/fz7",
     "research_record": "./research/pedals/PRP Batch 090/FZ-7 Fuzz.md",
-    "source": "verified research source"
-  },
-  {
-    "builder": "Biyang",
-    "pedal": "FZ-12 Fuzz",
-    "image": "./assets/pedals/biyang/fz-12-fuzz/primary.webp",
-    "source_page": "https://www.effectsdatabase.com/model/biyang/classic/fz12",
-    "research_record": "./research/pedals/PRP Batch 090/FZ-12 Fuzz.md",
     "source": "verified research source"
   },
   {
@@ -5486,6 +5724,14 @@
   },
   {
     "builder": "Biyang",
+    "pedal": "OD-12 X-Drive",
+    "image": "./assets/pedals/biyang/od-12-x-drive/primary.webp",
+    "source_page": "https://www.effectsdatabase.com/model/biyang/classic/od12",
+    "research_record": "./research/pedals/PRP Batch 090/OD-12 X-Drive.md",
+    "source": "verified research source"
+  },
+  {
+    "builder": "Biyang",
     "pedal": "OD-7 Overdrive",
     "image": "./assets/pedals/biyang/od-7-overdrive/primary.webp",
     "source_page": "https://en.audiofanzine.com/overdrive-pedal/biyang/od-7-overdrive/",
@@ -5498,14 +5744,6 @@
     "image": "./assets/pedals/biyang/od-8-x-drive/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/biyang/tonefancier/od8",
     "research_record": "./research/pedals/PRP Batch 090/OD-8 X-Drive.md",
-    "source": "verified research source"
-  },
-  {
-    "builder": "Biyang",
-    "pedal": "OD-12 X-Drive",
-    "image": "./assets/pedals/biyang/od-12-x-drive/primary.webp",
-    "source_page": "https://www.effectsdatabase.com/model/biyang/classic/od12",
-    "research_record": "./research/pedals/PRP Batch 090/OD-12 X-Drive.md",
     "source": "verified research source"
   },
   {
@@ -6081,17 +6319,17 @@
   },
   {
     "builder": "Blackbox Music Electronics",
-    "pedal": "Inferno",
-    "image": "./assets/pedals/blackbox-music-electronics/inferno/primary.webp",
-    "source_page": "https://www.effectsdatabase.com/model/blackbox/inferno",
-    "research_record": "./research/pedals/PRP Batch 099/Inferno.md"
-  },
-  {
-    "builder": "Blackbox Music Electronics",
     "pedal": "Cobalt",
     "image": null,
     "source_page": "https://www.effectsdatabase.com/model/blackbox/cobalt",
     "research_record": "./research/pedals/Blackbox Music Electronics/Cobalt.md"
+  },
+  {
+    "builder": "Blackbox Music Electronics",
+    "pedal": "Inferno",
+    "image": "./assets/pedals/blackbox-music-electronics/inferno/primary.webp",
+    "source_page": "https://www.effectsdatabase.com/model/blackbox/inferno",
+    "research_record": "./research/pedals/PRP Batch 099/Inferno.md"
   },
   {
     "builder": "Blackbox Music Electronics",
@@ -7051,6 +7289,13 @@
   },
   {
     "builder": "BOSS",
+    "pedal": "OD-200 Hybrid Drive",
+    "image": "./assets/pedals/boss/od-200-hybrid-drive/primary.webp",
+    "source_page": "https://www.boss.info/us/products/od-200/",
+    "research_record": "./research/pedals/PRP Batch 111/OD-200 Hybrid Drive.md"
+  },
+  {
+    "builder": "BOSS",
     "pedal": "OD-2R Turbo OverDrive",
     "image": "",
     "source_page": "https://www.effectsdatabase.com/model/boss/compact/od2r",
@@ -7062,13 +7307,6 @@
     "image": "./assets/pedals/boss/od-3-overdrive/primary.webp",
     "source_page": "https://www.boss.info/global/products/od-3/",
     "research_record": "./research/pedals/PRP Batch 111/OD-3 OverDrive.md"
-  },
-  {
-    "builder": "BOSS",
-    "pedal": "OD-200 Hybrid Drive",
-    "image": "./assets/pedals/boss/od-200-hybrid-drive/primary.webp",
-    "source_page": "https://www.boss.info/us/products/od-200/",
-    "research_record": "./research/pedals/PRP Batch 111/OD-200 Hybrid Drive.md"
   },
   {
     "builder": "BOSS",
@@ -8776,6 +9014,76 @@
   },
   {
     "builder": "Caline",
+    "pedal": "CP-501 Osmium - High-Gain Distortion",
+    "image": "./assets/pedals/caline/cp-501-osmium-high-gain-distortion/primary.webp",
+    "source_page": "https://www.effectsdatabase.com/model/caline/cp500/osmium",
+    "research_record": "./research/pedals/PRP Batch 141/cp-501-osmium-high-gain-distortion.md"
+  },
+  {
+    "builder": "Caline",
+    "pedal": "CP-501S Sathanas Distortion",
+    "image": "./assets/pedals/caline/cp-501s-sathanas-distortion/primary.webp",
+    "source_page": "https://www.effectsdatabase.com/model/caline/cp500/sathanas",
+    "research_record": "./research/pedals/PRP Batch 141/cp-501s-sathanas-distortion.md"
+  },
+  {
+    "builder": "Caline",
+    "pedal": "CP-502 Mellow Drive",
+    "image": "./assets/pedals/caline/cp-502-mellow-drive/primary.webp",
+    "source_page": "https://www.effectsdatabase.com/model/caline/cp500/mellowdrive",
+    "research_record": "./research/pedals/PRP Batch 141/cp-502-mellow-drive.md"
+  },
+  {
+    "builder": "Caline",
+    "pedal": "CP-503 Queen Bee Overdrive",
+    "image": "./assets/pedals/caline/cp-503-queen-bee-overdrive/primary.webp",
+    "source_page": "https://www.effectsdatabase.com/model/caline/cp500/queenbee",
+    "research_record": "./research/pedals/PRP Batch 141/cp-503-queen-bee-overdrive.md"
+  },
+  {
+    "builder": "Caline",
+    "pedal": "CP-504 M:Fuzz",
+    "image": "./assets/pedals/caline/cp-504-m-fuzz/primary.webp",
+    "source_page": "https://www.effectsdatabase.com/model/caline/cp500/mfuzz",
+    "research_record": "./research/pedals/PRP Batch 142/cp-504-m-fuzz.md"
+  },
+  {
+    "builder": "Caline",
+    "pedal": "CP-509 Stack Attack - Preamp Overdrive & Compressor",
+    "image": "./assets/pedals/caline/cp-509-stack-attack-preamp-overdrive-compressor/primary.webp",
+    "source_page": "https://www.effectsdatabase.com/model/caline/cp500/stackattack",
+    "research_record": "./research/pedals/PRP Batch 142/cp-509-stack-attack-preamp-overdrive-compressor.md"
+  },
+  {
+    "builder": "Caline",
+    "pedal": "CP-510 Jaguar - Classic High Gain Distortion",
+    "image": "./assets/pedals/caline/cp-510-jaguar-classic-high-gain-distortion/primary.webp",
+    "source_page": "https://www.effectsdatabase.com/model/caline/cp500/jaguar",
+    "research_record": "./research/pedals/PRP Batch 142/cp-510-jaguar-classic-high-gain-distortion.md"
+  },
+  {
+    "builder": "Caline",
+    "pedal": "CP-511 Enchanted Tone - Highly Prized Overdrive",
+    "image": "./assets/pedals/caline/cp-511-enchanted-tone-highly-prized-overdrive/primary.webp",
+    "source_page": "https://www.effectsdatabase.com/model/caline/cp500/enchantedtone",
+    "research_record": "./research/pedals/PRP Batch 142/cp-511-enchanted-tone-highly-prized-overdrive.md"
+  },
+  {
+    "builder": "Caline",
+    "pedal": "CP-515 Carmilla - Hi Gain Distortion Machine",
+    "image": "./assets/pedals/caline/cp-515-carmilla-hi-gain-distortion-machine/primary.webp",
+    "source_page": "https://www.youtube.com/watch?v=GDEoP2Lsjac",
+    "research_record": "./research/pedals/PRP Batch 142/cp-515-carmilla-hi-gain-distortion-machine.md"
+  },
+  {
+    "builder": "Caline",
+    "pedal": "CP-516 Orange Burst",
+    "image": "./assets/pedals/caline/cp-516-orange-burst/primary.webp",
+    "source_page": "https://www.effectsdatabase.com/model/caline/cp500/orangeburst",
+    "research_record": "./research/pedals/PRP Batch 142/cp-516-orange-burst.md"
+  },
+  {
+    "builder": "Caline",
     "pedal": "CP-53 Fuzzy Faace - Voodoo Octave",
     "image": "./assets/pedals/caline/cp-53-fuzzy-faace-voodoo-octave/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/caline/cpxx/cp53",
@@ -8885,76 +9193,6 @@
     "image": "./assets/pedals/caline/cp-99-medusa-overdrive/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/caline/cpxx/cp99",
     "research_record": "./research/pedals/PRP Batch 144/cp-99-medusa-overdrive.md"
-  },
-  {
-    "builder": "Caline",
-    "pedal": "CP-501 Osmium - High-Gain Distortion",
-    "image": "./assets/pedals/caline/cp-501-osmium-high-gain-distortion/primary.webp",
-    "source_page": "https://www.effectsdatabase.com/model/caline/cp500/osmium",
-    "research_record": "./research/pedals/PRP Batch 141/cp-501-osmium-high-gain-distortion.md"
-  },
-  {
-    "builder": "Caline",
-    "pedal": "CP-501S Sathanas Distortion",
-    "image": "./assets/pedals/caline/cp-501s-sathanas-distortion/primary.webp",
-    "source_page": "https://www.effectsdatabase.com/model/caline/cp500/sathanas",
-    "research_record": "./research/pedals/PRP Batch 141/cp-501s-sathanas-distortion.md"
-  },
-  {
-    "builder": "Caline",
-    "pedal": "CP-502 Mellow Drive",
-    "image": "./assets/pedals/caline/cp-502-mellow-drive/primary.webp",
-    "source_page": "https://www.effectsdatabase.com/model/caline/cp500/mellowdrive",
-    "research_record": "./research/pedals/PRP Batch 141/cp-502-mellow-drive.md"
-  },
-  {
-    "builder": "Caline",
-    "pedal": "CP-503 Queen Bee Overdrive",
-    "image": "./assets/pedals/caline/cp-503-queen-bee-overdrive/primary.webp",
-    "source_page": "https://www.effectsdatabase.com/model/caline/cp500/queenbee",
-    "research_record": "./research/pedals/PRP Batch 141/cp-503-queen-bee-overdrive.md"
-  },
-  {
-    "builder": "Caline",
-    "pedal": "CP-504 M:Fuzz",
-    "image": "./assets/pedals/caline/cp-504-m-fuzz/primary.webp",
-    "source_page": "https://www.effectsdatabase.com/model/caline/cp500/mfuzz",
-    "research_record": "./research/pedals/PRP Batch 142/cp-504-m-fuzz.md"
-  },
-  {
-    "builder": "Caline",
-    "pedal": "CP-509 Stack Attack - Preamp Overdrive & Compressor",
-    "image": "./assets/pedals/caline/cp-509-stack-attack-preamp-overdrive-compressor/primary.webp",
-    "source_page": "https://www.effectsdatabase.com/model/caline/cp500/stackattack",
-    "research_record": "./research/pedals/PRP Batch 142/cp-509-stack-attack-preamp-overdrive-compressor.md"
-  },
-  {
-    "builder": "Caline",
-    "pedal": "CP-510 Jaguar - Classic High Gain Distortion",
-    "image": "./assets/pedals/caline/cp-510-jaguar-classic-high-gain-distortion/primary.webp",
-    "source_page": "https://www.effectsdatabase.com/model/caline/cp500/jaguar",
-    "research_record": "./research/pedals/PRP Batch 142/cp-510-jaguar-classic-high-gain-distortion.md"
-  },
-  {
-    "builder": "Caline",
-    "pedal": "CP-511 Enchanted Tone - Highly Prized Overdrive",
-    "image": "./assets/pedals/caline/cp-511-enchanted-tone-highly-prized-overdrive/primary.webp",
-    "source_page": "https://www.effectsdatabase.com/model/caline/cp500/enchantedtone",
-    "research_record": "./research/pedals/PRP Batch 142/cp-511-enchanted-tone-highly-prized-overdrive.md"
-  },
-  {
-    "builder": "Caline",
-    "pedal": "CP-515 Carmilla - Hi Gain Distortion Machine",
-    "image": "./assets/pedals/caline/cp-515-carmilla-hi-gain-distortion-machine/primary.webp",
-    "source_page": "https://www.youtube.com/watch?v=GDEoP2Lsjac",
-    "research_record": "./research/pedals/PRP Batch 142/cp-515-carmilla-hi-gain-distortion-machine.md"
-  },
-  {
-    "builder": "Caline",
-    "pedal": "CP-516 Orange Burst",
-    "image": "./assets/pedals/caline/cp-516-orange-burst/primary.webp",
-    "source_page": "https://www.effectsdatabase.com/model/caline/cp500/orangeburst",
-    "research_record": "./research/pedals/PRP Batch 142/cp-516-orange-burst.md"
   },
   {
     "builder": "Caline",
@@ -9126,6 +9364,27 @@
   },
   {
     "builder": "Captain FX",
+    "pedal": "Crown Jr. Overdrive / Boost",
+    "image": null,
+    "source_page": "https://github.com/NoizeNiche/the-dirt-archive/blob/main/research/SCRAPE_C_BLOCK_165_ADDENDUM.csv",
+    "research_record": "./research/pedals/Captain FX/Crown Jr. Overdrive Boost.md"
+  },
+  {
+    "builder": "Captain FX",
+    "pedal": "Overdriver",
+    "image": null,
+    "source_page": "https://github.com/NoizeNiche/the-dirt-archive/blob/main/research/SCRAPE_C_BLOCK_165_ADDENDUM.csv",
+    "research_record": "./research/pedals/Captain FX/Overdriver.md"
+  },
+  {
+    "builder": "Captain FX",
+    "pedal": "War Pig",
+    "image": null,
+    "source_page": "https://github.com/NoizeNiche/the-dirt-archive/blob/main/research/SCRAPE_C_BLOCK_165_ADDENDUM.csv",
+    "research_record": "./research/pedals/Captain FX/War Pig.md"
+  },
+  {
+    "builder": "Captain FX",
     "pedal": "Yeti Fuzz",
     "image": "./assets/pedals/captain-fx/yeti-fuzz/primary.webp",
     "source_page": "https://reverb.com/item/11956050-captain-fx-yeti-bass-fuzz",
@@ -9287,17 +9546,17 @@
   },
   {
     "builder": "Carlsbro",
-    "pedal": "Suzz-Phase",
-    "image": null,
-    "source_page": "https://www.effectsdatabase.com/model/carlsbro/alu",
-    "research_record": "./research/pedals/Carlsbro/Suzz-Phase.md"
-  },
-  {
-    "builder": "Carlsbro",
     "pedal": "Suzz Wah-Wah",
     "image": null,
     "source_page": "https://www.effectsdatabase.com/model/carlsbro/alu",
     "research_record": "./research/pedals/Carlsbro/Suzz Wah-Wah.md"
+  },
+  {
+    "builder": "Carlsbro",
+    "pedal": "Suzz-Phase",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/carlsbro/alu",
+    "research_record": "./research/pedals/Carlsbro/Suzz-Phase.md"
   },
   {
     "builder": "Carlson",
@@ -9445,6 +9704,20 @@
     "image": "./assets/pedals/cascade-pedals/hosstortion/primary.webp",
     "source_page": "https://cascadepedals.com/about-us",
     "research_record": "./research/pedals/PRP Batch 152/cascade-pedals-hosstortion.md"
+  },
+  {
+    "builder": "Case Study Effects",
+    "pedal": "Aspen Overdrive",
+    "image": null,
+    "source_page": "https://casestudyeffects.co/",
+    "research_record": "./research/pedals/Case Study Effects/Aspen Overdrive.md"
+  },
+  {
+    "builder": "Case Study Effects",
+    "pedal": "Lastlight Overdrive",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/casestudy/lastlight",
+    "research_record": "./research/pedals/Case Study Effects/Lastlight Overdrive.md"
   },
   {
     "builder": "Case Study Effects Co.",
@@ -9693,13 +9966,6 @@
   },
   {
     "builder": "Catalinbread Effects",
-    "pedal": "Formula 5F6",
-    "image": "./assets/pedals/catalinbread-effects/formula-5f6/primary.webp",
-    "source_page": "https://www.sweetwater.com/store/detail/Form5F6--catalinbread-formula-5f6-tweed-bassman-style-overdrive-pedal",
-    "research_record": "./research/pedals/PRP Batch 156/catalinbread-formula-5f6.md"
-  },
-  {
-    "builder": "Catalinbread Effects",
     "pedal": "Formula 51",
     "image": "./assets/pedals/catalinbread-effects/formula-51/primary.webp",
     "source_page": "https://catalinbread.com/products/formula-51",
@@ -9711,6 +9977,13 @@
     "image": "./assets/pedals/catalinbread-effects/formula-55/primary.webp",
     "source_page": "https://catalinbread.com/products/formula-55-new-look",
     "research_record": "./research/pedals/PRP Batch 156/catalinbread-formula-55.md"
+  },
+  {
+    "builder": "Catalinbread Effects",
+    "pedal": "Formula 5F6",
+    "image": "./assets/pedals/catalinbread-effects/formula-5f6/primary.webp",
+    "source_page": "https://www.sweetwater.com/store/detail/Form5F6--catalinbread-formula-5f6-tweed-bassman-style-overdrive-pedal",
+    "research_record": "./research/pedals/PRP Batch 156/catalinbread-formula-5f6.md"
   },
   {
     "builder": "Catalinbread Effects",
@@ -13249,17 +13522,17 @@
   },
   {
     "builder": "Cosmosound",
-    "pedal": "CSE-3 Wah-Wah Distortion",
-    "image": "./assets/pedals/cosmosound/cse-3-wah-wah-distortion/primary.webp",
-    "source_page": null,
-    "research_record": "./research/pedals/Cosmosound/CSE-3 Wah-Wah Distortion.md"
-  },
-  {
-    "builder": "Cosmosound",
     "pedal": "CSE-14 Distortion/Volume",
     "image": "./assets/pedals/cosmosound/cse-14-distortion-volume/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Cosmosound/CSE-14 Distortion-Volume.md"
+  },
+  {
+    "builder": "Cosmosound",
+    "pedal": "CSE-3 Wah-Wah Distortion",
+    "image": "./assets/pedals/cosmosound/cse-3-wah-wah-distortion/primary.webp",
+    "source_page": null,
+    "research_record": "./research/pedals/Cosmosound/CSE-3 Wah-Wah Distortion.md"
   },
   {
     "builder": "Cosmosound",
@@ -13592,6 +13865,13 @@
   },
   {
     "builder": "Crazy Tube Circuits",
+    "pedal": "Killer V",
+    "image": null,
+    "source_page": "https://crazytubecircuits.com/store/overdrive-distortion-fuzz",
+    "research_record": "./research/pedals/Crazy Tube Circuits/Killer V.md"
+  },
+  {
+    "builder": "Crazy Tube Circuits",
     "pedal": "Locomotive - 12AY7 Bass Overdrive",
     "image": "./assets/pedals/crazy-tube-circuits/locomotive-12ay7-bass-overdrive/primary.webp",
     "source_page": null,
@@ -13631,6 +13911,13 @@
     "image": "./assets/pedals/crazy-tube-circuits/pin-up-fuzz/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Crazy Tube Circuits/Pin Up Fuzz.md"
+  },
+  {
+    "builder": "Crazy Tube Circuits",
+    "pedal": "Sidekick",
+    "image": null,
+    "source_page": "https://crazytubecircuits.com/store/overdrive-distortion-fuzz",
+    "research_record": "./research/pedals/Crazy Tube Circuits/Sidekick.md"
   },
   {
     "builder": "Crazy Tube Circuits",
@@ -13746,27 +14033,6 @@
   },
   {
     "builder": "Crazy Tube Circuits",
-    "pedal": "Ziggy v2",
-    "image": "./assets/pedals/crazy-tube-circuits/ziggy-v2/primary.webp",
-    "source_page": null,
-    "research_record": "./research/pedals/Crazy Tube Circuits/Ziggy v2.md"
-  },
-  {
-    "builder": "Crazy Tube Circuits",
-    "pedal": "Ziggy V2",
-    "image": "./assets/pedals/crazy-tube-circuits/ziggy-v2/primary.webp",
-    "source_page": null,
-    "research_record": "./research/pedals/Crazy Tube Circuits/Ziggy V2.md"
-  },
-  {
-    "builder": "Crazy Tube Circuits",
-    "pedal": "Killer V",
-    "image": null,
-    "source_page": "https://crazytubecircuits.com/store/overdrive-distortion-fuzz",
-    "research_record": "./research/pedals/Crazy Tube Circuits/Killer V.md"
-  },
-  {
-    "builder": "Crazy Tube Circuits",
     "pedal": "White Whale",
     "image": null,
     "source_page": "https://crazytubecircuits.com/store/overdrive-distortion-fuzz",
@@ -13781,10 +14047,17 @@
   },
   {
     "builder": "Crazy Tube Circuits",
-    "pedal": "Sidekick",
-    "image": null,
-    "source_page": "https://crazytubecircuits.com/store/overdrive-distortion-fuzz",
-    "research_record": "./research/pedals/Crazy Tube Circuits/Sidekick.md"
+    "pedal": "Ziggy v2",
+    "image": "./assets/pedals/crazy-tube-circuits/ziggy-v2/primary.webp",
+    "source_page": null,
+    "research_record": "./research/pedals/Crazy Tube Circuits/Ziggy v2.md"
+  },
+  {
+    "builder": "Crazy Tube Circuits",
+    "pedal": "Ziggy V2",
+    "image": "./assets/pedals/crazy-tube-circuits/ziggy-v2/primary.webp",
+    "source_page": null,
+    "research_record": "./research/pedals/Crazy Tube Circuits/Ziggy V2.md"
   },
   {
     "builder": "Crazybox Pedals",
@@ -15159,6 +15432,27 @@
     "research_record": "./research/pedals/Darkglass Electronics/Vintage Ultra.md"
   },
   {
+    "builder": "Dawner Prince Electronics",
+    "pedal": "DIKTATOR",
+    "image": null,
+    "source_page": "https://dawnerprince.com/products/diktator",
+    "research_record": "./research/pedals/Dawner Prince Electronics/DIKTATOR.md"
+  },
+  {
+    "builder": "Dawner Prince Electronics",
+    "pedal": "DIKTATOR MKII",
+    "image": null,
+    "source_page": "https://dawnerprince.com/products/diktator",
+    "research_record": "./research/pedals/Dawner Prince Electronics/DIKTATOR MKII.md"
+  },
+  {
+    "builder": "Dawner Prince Electronics",
+    "pedal": "RED ROX",
+    "image": null,
+    "source_page": "https://dawnerprince.com/",
+    "research_record": "./research/pedals/Dawner Prince Electronics/RED ROX.md"
+  },
+  {
     "builder": "DeadastronautFX",
     "pedal": "Black Triangle",
     "image": "./assets/pedals/deadastronautfx/black-triangle/primary.webp",
@@ -16076,6 +16370,34 @@
     "research_record": "./research/pedals/DigiTech/X-Series Tone Driver.md"
   },
   {
+    "builder": "Dinosaural",
+    "pedal": "Cogmeister",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/dinosaural",
+    "research_record": "./research/pedals/Dinosaural/Cogmeister.md"
+  },
+  {
+    "builder": "Dinosaural",
+    "pedal": "Hypoid Drive",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/dinosaural",
+    "research_record": "./research/pedals/Dinosaural/Hypoid Drive.md"
+  },
+  {
+    "builder": "Dinosaural",
+    "pedal": "OPA-101 Overdriven Pre-Amp",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/dinosaural",
+    "research_record": "./research/pedals/Dinosaural/OPA-101 Overdriven Pre-Amp.md"
+  },
+  {
+    "builder": "Dinosaural",
+    "pedal": "Tube Bender",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/dinosaural",
+    "research_record": "./research/pedals/Dinosaural/Tube Bender.md"
+  },
+  {
     "builder": "Dirty Boy",
     "pedal": "AFRO FUZZ",
     "image": "./assets/pedals/dirty-boy/afro-fuzz/primary.webp",
@@ -16217,6 +16539,27 @@
   },
   {
     "builder": "DOD Electronics",
+    "pedal": "FX100 Even Harmonic Overdrive",
+    "image": "./assets/pedals/dod-electronics/fx100-even-harmonic-overdrive/primary.webp",
+    "source_page": null,
+    "research_record": "./research/pedals/DOD Electronics/FX100 Even Harmonic Overdrive.md"
+  },
+  {
+    "builder": "DOD Electronics",
+    "pedal": "FX101 Grind Rectifying Overdrive",
+    "image": "./assets/pedals/dod-electronics/fx101-grind-rectifying-overdrive/primary.webp",
+    "source_page": null,
+    "research_record": "./research/pedals/DOD Electronics/FX101 Grind Rectifying Overdrive.md"
+  },
+  {
+    "builder": "DOD Electronics",
+    "pedal": "FX102 Mystic Blues Overdrive",
+    "image": "./assets/pedals/dod-electronics/fx102-mystic-blues-overdrive/primary.webp",
+    "source_page": null,
+    "research_record": "./research/pedals/DOD Electronics/FX102 Mystic Blues Overdrive.md"
+  },
+  {
+    "builder": "DOD Electronics",
     "pedal": "FX33 Buzz Box",
     "image": "./assets/pedals/dod-electronics/fx33-buzz-box/primary.webp",
     "source_page": null,
@@ -16322,27 +16665,6 @@
   },
   {
     "builder": "DOD Electronics",
-    "pedal": "FX100 Even Harmonic Overdrive",
-    "image": "./assets/pedals/dod-electronics/fx100-even-harmonic-overdrive/primary.webp",
-    "source_page": null,
-    "research_record": "./research/pedals/DOD Electronics/FX100 Even Harmonic Overdrive.md"
-  },
-  {
-    "builder": "DOD Electronics",
-    "pedal": "FX101 Grind Rectifying Overdrive",
-    "image": "./assets/pedals/dod-electronics/fx101-grind-rectifying-overdrive/primary.webp",
-    "source_page": null,
-    "research_record": "./research/pedals/DOD Electronics/FX101 Grind Rectifying Overdrive.md"
-  },
-  {
-    "builder": "DOD Electronics",
-    "pedal": "FX102 Mystic Blues Overdrive",
-    "image": "./assets/pedals/dod-electronics/fx102-mystic-blues-overdrive/primary.webp",
-    "source_page": null,
-    "research_record": "./research/pedals/DOD Electronics/FX102 Mystic Blues Overdrive.md"
-  },
-  {
-    "builder": "DOD Electronics",
     "pedal": "Gonkulator",
     "image": "./assets/pedals/dod-electronics/gonkulator/primary.webp",
     "source_page": null,
@@ -16431,6 +16753,13 @@
     "image": "./assets/pedals/dod-electronics/yjm-308-overdrive-preamp/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/DOD Electronics/YJM 308 Overdrive Preamp.md"
+  },
+  {
+    "builder": "Does It Doom?",
+    "pedal": "Fuzzcoven",
+    "image": null,
+    "source_page": "https://doesitdoom.com/product/fuzzcoven/",
+    "research_record": "./research/pedals/Does It Doom?/Fuzzcoven.md"
   },
   {
     "builder": "Dophix",
@@ -19276,27 +19605,6 @@
   },
   {
     "builder": "Ibanez",
-    "pedal": "TS9",
-    "image": "./assets/pedals/ibanez/ts9/primary.webp",
-    "source_page": null,
-    "research_record": "./research/pedals/Ibanez/TS9.md"
-  },
-  {
-    "builder": "Ibanez",
-    "pedal": "TS9B",
-    "image": "./assets/pedals/ibanez/ts9b/primary.webp",
-    "source_page": null,
-    "research_record": "./research/pedals/Ibanez/TS9B.md"
-  },
-  {
-    "builder": "Ibanez",
-    "pedal": "TS9DX",
-    "image": "./assets/pedals/ibanez/ts9dx/primary.webp",
-    "source_page": null,
-    "research_record": "./research/pedals/Ibanez/TS9DX.md"
-  },
-  {
-    "builder": "Ibanez",
     "pedal": "TS808",
     "image": "./assets/pedals/ibanez/ts808/primary.webp",
     "source_page": null,
@@ -19322,6 +19630,27 @@
     "image": "./assets/pedals/ibanez/ts808hwv2/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Ibanez/TS808HWV2.md"
+  },
+  {
+    "builder": "Ibanez",
+    "pedal": "TS9",
+    "image": "./assets/pedals/ibanez/ts9/primary.webp",
+    "source_page": null,
+    "research_record": "./research/pedals/Ibanez/TS9.md"
+  },
+  {
+    "builder": "Ibanez",
+    "pedal": "TS9B",
+    "image": "./assets/pedals/ibanez/ts9b/primary.webp",
+    "source_page": null,
+    "research_record": "./research/pedals/Ibanez/TS9B.md"
+  },
+  {
+    "builder": "Ibanez",
+    "pedal": "TS9DX",
+    "image": "./assets/pedals/ibanez/ts9dx/primary.webp",
+    "source_page": null,
+    "research_record": "./research/pedals/Ibanez/TS9DX.md"
   },
   {
     "builder": "Ibanez",
@@ -19696,6 +20025,13 @@
   },
   {
     "builder": "Jackson Audio",
+    "pedal": "1484 - Twin Twelve Pedal",
+    "image": null,
+    "source_page": "https://jackson.audio/collections/pedals",
+    "research_record": "./research/pedals/Jackson Audio/1484 - Twin Twelve Pedal.md"
+  },
+  {
+    "builder": "Jackson Audio",
     "pedal": "Asabi Overdrive/Distortion",
     "image": "./assets/pedals/jackson-audio/asabi-overdrive-distortion/primary.webp",
     "source_page": null,
@@ -19777,13 +20113,6 @@
     "image": "./assets/pedals/jackson-audio/the-optimist-dual-overdrive-eq/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Jackson Audio/The Optimist Dual Overdrive & EQ.md"
-  },
-  {
-    "builder": "Jackson Audio",
-    "pedal": "1484 - Twin Twelve Pedal",
-    "image": null,
-    "source_page": "https://jackson.audio/collections/pedals",
-    "research_record": "./research/pedals/Jackson Audio/1484 - Twin Twelve Pedal.md"
   },
   {
     "builder": "JAM Pedals",
@@ -19934,17 +20263,17 @@
   },
   {
     "builder": "JHS Pedals",
-    "pedal": "73 Rams Head",
-    "image": null,
-    "source_page": "https://jhspedals.info/products/73-rams-head",
-    "research_record": "./research/pedals/JHS Pedals/73 Rams Head.md"
-  },
-  {
-    "builder": "JHS Pedals",
     "pedal": "424 Gain Stage",
     "image": "./assets/pedals/jhs-pedals/424-gain-stage/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/JHS Pedals/424 Gain Stage.md"
+  },
+  {
+    "builder": "JHS Pedals",
+    "pedal": "73 Rams Head",
+    "image": null,
+    "source_page": "https://jhspedals.info/products/73-rams-head",
+    "research_record": "./research/pedals/JHS Pedals/73 Rams Head.md"
   },
   {
     "builder": "JHS Pedals",
@@ -20246,6 +20575,13 @@
     "image": "./assets/pedals/jhs-pedals/the-violet-violet/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/JHS Pedals/The Violet / Violet.md"
+  },
+  {
+    "builder": "JHS Pedals",
+    "pedal": "Twin Twelve",
+    "image": "",
+    "source_page": "https://jhspedals.info/collections/discontinued-rare?page=2",
+    "research_record": "./research/pedals/JHS Pedals/Twin Twelve.md"
   },
   {
     "builder": "JHS Pedals",
@@ -21081,25 +21417,25 @@
     "research_record": "./research/pedals/KMA Machines/Wurm 2.md"
   },
   {
-    "builder": "Leqtique",
-    "pedal": "6/6",
-    "image": "./assets/pedals/leqtique/6-6/primary.webp",
-    "source_page": null,
-    "research_record": "./research/pedals/Leqtique/6/6.md"
+    "builder": "Land Devices",
+    "pedal": "HP-2",
+    "image": null,
+    "source_page": "https://landdevices.com/collections/catalog",
+    "research_record": "./research/pedals/Land Devices/HP-2.md"
   },
   {
-    "builder": "Leqtique",
-    "pedal": "9/9",
-    "image": "./assets/pedals/leqtique/9-9/primary.webp",
-    "source_page": null,
-    "research_record": "./research/pedals/Leqtique/9/9.md"
+    "builder": "Land Devices",
+    "pedal": "Hunter",
+    "image": null,
+    "source_page": "https://landdevices.com/collections/catalog",
+    "research_record": "./research/pedals/Land Devices/Hunter.md"
   },
   {
-    "builder": "Leqtique",
-    "pedal": "9/9 EVR",
-    "image": "./assets/pedals/leqtique/9-9-evr/primary.webp",
-    "source_page": null,
-    "research_record": "./research/pedals/Leqtique/9/9 EVR.md"
+    "builder": "Land Devices",
+    "pedal": "Moonbow",
+    "image": null,
+    "source_page": "https://landdevices.com/collections/catalog",
+    "research_record": "./research/pedals/Land Devices/Moonbow.md"
   },
   {
     "builder": "Leqtique",
@@ -21128,6 +21464,27 @@
     "image": "./assets/pedals/leqtique/11-11-evr/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Leqtique/11/11 EVR.md"
+  },
+  {
+    "builder": "Leqtique",
+    "pedal": "6/6",
+    "image": "./assets/pedals/leqtique/6-6/primary.webp",
+    "source_page": null,
+    "research_record": "./research/pedals/Leqtique/6/6.md"
+  },
+  {
+    "builder": "Leqtique",
+    "pedal": "9/9",
+    "image": "./assets/pedals/leqtique/9-9/primary.webp",
+    "source_page": null,
+    "research_record": "./research/pedals/Leqtique/9/9.md"
+  },
+  {
+    "builder": "Leqtique",
+    "pedal": "9/9 EVR",
+    "image": "./assets/pedals/leqtique/9-9-evr/primary.webp",
+    "source_page": null,
+    "research_record": "./research/pedals/Leqtique/9/9 EVR.md"
   },
   {
     "builder": "Leqtique",
@@ -21333,6 +21690,69 @@
     "research_record": "./research/pedals/Lichtlaerm Audio/Total Distortion Worship MKII — extreme metal distortion with built-in overdrive.md"
   },
   {
+    "builder": "LICHTLÆRM AUDIO",
+    "pedal": ".Ritual.",
+    "image": null,
+    "source_page": "https://lichtlaermaudio.com/shop/ritual",
+    "research_record": "./research/pedals/LICHTLÆRM AUDIO/.Ritual..md"
+  },
+  {
+    "builder": "LICHTLÆRM AUDIO",
+    "pedal": "Altar",
+    "image": null,
+    "source_page": "https://lichtlaermaudio.com/shop/altar",
+    "research_record": "./research/pedals/LICHTLÆRM AUDIO/Altar.md"
+  },
+  {
+    "builder": "LICHTLÆRM AUDIO",
+    "pedal": "Aquaria",
+    "image": null,
+    "source_page": "https://lichtlaermaudio.com/shop/aquaria",
+    "research_record": "./research/pedals/LICHTLÆRM AUDIO/Aquaria.md"
+  },
+  {
+    "builder": "LICHTLÆRM AUDIO",
+    "pedal": "Gehenna",
+    "image": null,
+    "source_page": "https://lichtlaermaudio.com/shop",
+    "research_record": "./research/pedals/LICHTLÆRM AUDIO/Gehenna.md"
+  },
+  {
+    "builder": "LICHTLÆRM AUDIO",
+    "pedal": "Medusa",
+    "image": null,
+    "source_page": "https://lichtlaermaudio.com/shop",
+    "research_record": "./research/pedals/LICHTLÆRM AUDIO/Medusa.md"
+  },
+  {
+    "builder": "LICHTLÆRM AUDIO",
+    "pedal": "Ragnarøk",
+    "image": null,
+    "source_page": "https://lichtlaermaudio.com/shop",
+    "research_record": "./research/pedals/LICHTLÆRM AUDIO/Ragnarøk.md"
+  },
+  {
+    "builder": "LICHTLÆRM AUDIO",
+    "pedal": "The King in Yellow",
+    "image": null,
+    "source_page": "https://lichtlaermaudio.com/shop",
+    "research_record": "./research/pedals/LICHTLÆRM AUDIO/The King in Yellow.md"
+  },
+  {
+    "builder": "LICHTLÆRM AUDIO",
+    "pedal": "Thorn",
+    "image": null,
+    "source_page": "https://lichtlaermaudio.com/shop",
+    "research_record": "./research/pedals/LICHTLÆRM AUDIO/Thorn.md"
+  },
+  {
+    "builder": "LICHTLÆRM AUDIO",
+    "pedal": "Total Distortion Worship MKII",
+    "image": null,
+    "source_page": "https://lichtlaermaudio.com/shop/tdw",
+    "research_record": "./research/pedals/LICHTLÆRM AUDIO/Total Distortion Worship MKII.md"
+  },
+  {
     "builder": "Limetone Audio",
     "pedal": "funther OD/DS/FZ",
     "image": "./assets/pedals/limetone-audio/funther-od-ds-fz/primary.webp",
@@ -21369,17 +21789,17 @@
   },
   {
     "builder": "Lovepedal",
-    "pedal": "5E3 Deluxe",
-    "image": null,
-    "source_page": null,
-    "research_record": "./research/pedals/Lovepedal/5E3 Deluxe.md"
-  },
-  {
-    "builder": "Lovepedal",
     "pedal": "200lbs of Gold",
     "image": "./assets/pedals/lovepedal/200lbs-of-gold/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Lovepedal/200lbs of Gold.md"
+  },
+  {
+    "builder": "Lovepedal",
+    "pedal": "5E3 Deluxe",
+    "image": null,
+    "source_page": null,
+    "research_record": "./research/pedals/Lovepedal/5E3 Deluxe.md"
   },
   {
     "builder": "Lovepedal",
@@ -21495,17 +21915,17 @@
   },
   {
     "builder": "Lovepedal / Love Pedal",
-    "pedal": "5E3 Deluxe",
-    "image": "",
-    "source_page": "https://lovepedal.com/",
-    "research_record": "./research/pedals/Lovepedal / Love Pedal/5E3 Deluxe.md"
-  },
-  {
-    "builder": "Lovepedal / Love Pedal",
     "pedal": "200lbs of Gold",
     "image": "",
     "source_page": "https://lovepedal.com/",
     "research_record": "./research/pedals/Lovepedal / Love Pedal/200lbs of Gold.md"
+  },
+  {
+    "builder": "Lovepedal / Love Pedal",
+    "pedal": "5E3 Deluxe",
+    "image": "",
+    "source_page": "https://lovepedal.com/",
+    "research_record": "./research/pedals/Lovepedal / Love Pedal/5E3 Deluxe.md"
   },
   {
     "builder": "Lovepedal / Love Pedal",
@@ -24127,6 +24547,13 @@
   },
   {
     "builder": "Mythos Pedals",
+    "pedal": "1347 Silicon Fuzz",
+    "image": null,
+    "source_page": null,
+    "research_record": "./research/pedals/Mythos Pedals/1347 Silicon Fuzz.md"
+  },
+  {
+    "builder": "Mythos Pedals",
     "pedal": "1N34A Mjolnir - Gold",
     "image": "./assets/pedals/mythos-pedals/1n34a-mjolnir-gold/primary.webp",
     "source_page": null,
@@ -24138,13 +24565,6 @@
     "image": "./assets/pedals/mythos-pedals/1n34a-mjolnir-silver/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Mythos Pedals/1N34A Mjolnir - Silver.md"
-  },
-  {
-    "builder": "Mythos Pedals",
-    "pedal": "1347 Silicon Fuzz",
-    "image": null,
-    "source_page": null,
-    "research_record": "./research/pedals/Mythos Pedals/1347 Silicon Fuzz.md"
   },
   {
     "builder": "Mythos Pedals",
@@ -24302,13 +24722,6 @@
   },
   {
     "builder": "NUX Audio / NUX",
-    "pedal": "‘6ixty5ive OD",
-    "image": null,
-    "source_page": null,
-    "research_record": "./research/pedals/NUX Audio / NUX/‘6ixty5ive OD.md"
-  },
-  {
-    "builder": "NUX Audio / NUX",
     "pedal": "’59 Bassguy",
     "image": "./assets/pedals/nux-audio-nux/59-bassguy/primary.webp",
     "source_page": null,
@@ -24320,6 +24733,13 @@
     "image": null,
     "source_page": null,
     "research_record": "./research/pedals/NUX Audio / NUX/’63 Diamond.md"
+  },
+  {
+    "builder": "NUX Audio / NUX",
+    "pedal": "‘6ixty5ive OD",
+    "image": null,
+    "source_page": null,
+    "research_record": "./research/pedals/NUX Audio / NUX/‘6ixty5ive OD.md"
   },
   {
     "builder": "NUX Audio / NUX",
@@ -24624,17 +25044,17 @@
   },
   {
     "builder": "Old Blood Noise Endeavors",
-    "pedal": "Pardner",
-    "image": "./assets/pedals/old-blood-noise-endeavors/pardner/primary.webp",
-    "source_page": null,
-    "research_record": "./research/pedals/Old Blood Noise Endeavors/Pardner.md"
-  },
-  {
-    "builder": "Old Blood Noise Endeavors",
     "pedal": "Haunt Fuzz w/ Clickless Switching",
     "image": null,
     "source_page": "https://www.oldbloodnoise.com/",
     "research_record": "./research/pedals/Old Blood Noise Endeavors/Haunt Fuzz w - Clickless Switching.md"
+  },
+  {
+    "builder": "Old Blood Noise Endeavors",
+    "pedal": "Pardner",
+    "image": "./assets/pedals/old-blood-noise-endeavors/pardner/primary.webp",
+    "source_page": null,
+    "research_record": "./research/pedals/Old Blood Noise Endeavors/Pardner.md"
   },
   {
     "builder": "Orange Amplification",
@@ -24943,6 +25363,76 @@
     "image": "./assets/pedals/ovaltone/tm4086-rev-1-2/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Ovaltone/TM4086+ REV. 1.2.md"
+  },
+  {
+    "builder": "Pete Cornish",
+    "pedal": "BD-1",
+    "image": "",
+    "source_page": "https://www.petecornish.co.uk/GreySeries.html",
+    "research_record": "./research/pedals/Pete Cornish/BD-1.md"
+  },
+  {
+    "builder": "Pete Cornish",
+    "pedal": "CC-1",
+    "image": "",
+    "source_page": "https://www.petecornish.co.uk/GreySeries.html",
+    "research_record": "./research/pedals/Pete Cornish/CC-1.md"
+  },
+  {
+    "builder": "Pete Cornish",
+    "pedal": "G-2",
+    "image": "",
+    "source_page": "https://www.petecornish.co.uk/SAEG-2.html",
+    "research_record": "./research/pedals/Pete Cornish/G-2.md"
+  },
+  {
+    "builder": "Pete Cornish",
+    "pedal": "GC-1",
+    "image": "",
+    "source_page": "https://www.petecornish.co.uk/GreySeries.html",
+    "research_record": "./research/pedals/Pete Cornish/GC-1.md"
+  },
+  {
+    "builder": "Pete Cornish",
+    "pedal": "NG-2",
+    "image": "",
+    "source_page": "https://www.petecornish.co.uk/GreySeries.html",
+    "research_record": "./research/pedals/Pete Cornish/NG-2.md"
+  },
+  {
+    "builder": "Pete Cornish",
+    "pedal": "NG-3",
+    "image": "",
+    "source_page": "https://www.petecornish.co.uk/deluxeseries.html",
+    "research_record": "./research/pedals/Pete Cornish/NG-3.md"
+  },
+  {
+    "builder": "Pete Cornish",
+    "pedal": "P-1",
+    "image": "",
+    "source_page": "https://www.petecornish.co.uk/GreySeries.html",
+    "research_record": "./research/pedals/Pete Cornish/P-1.md"
+  },
+  {
+    "builder": "Pete Cornish",
+    "pedal": "P-2",
+    "image": "",
+    "source_page": "https://www.petecornish.co.uk/GreySeries.html",
+    "research_record": "./research/pedals/Pete Cornish/P-2.md"
+  },
+  {
+    "builder": "Pete Cornish",
+    "pedal": "SS-2",
+    "image": "",
+    "source_page": "https://www.petecornish.co.uk/GreySeries.html",
+    "research_record": "./research/pedals/Pete Cornish/SS-2.md"
+  },
+  {
+    "builder": "Pete Cornish",
+    "pedal": "SS-3",
+    "image": "",
+    "source_page": "https://www.petecornish.co.uk/GreySeries.html",
+    "research_record": "./research/pedals/Pete Cornish/SS-3.md"
   },
   {
     "builder": "Pete Cornish / Pete Cornish Effects",
@@ -27416,6 +27906,34 @@
     "research_record": "./research/pedals/Tribute Audio Designs/The Classy Lady.md"
   },
   {
+    "builder": "Tube Works",
+    "pedal": "901 Real Tube",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/tubeworks",
+    "research_record": "./research/pedals/Tube Works/901 Real Tube.md"
+  },
+  {
+    "builder": "Tube Works",
+    "pedal": "903 Blue Tube",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/tubeworks",
+    "research_record": "./research/pedals/Tube Works/903 Blue Tube.md"
+  },
+  {
+    "builder": "Tube Works",
+    "pedal": "910 Tube Driver",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/tubeworks",
+    "research_record": "./research/pedals/Tube Works/910 Tube Driver.md"
+  },
+  {
+    "builder": "Tube Works",
+    "pedal": "911 Tube Driver",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/tubeworks",
+    "research_record": "./research/pedals/Tube Works/911 Tube Driver.md"
+  },
+  {
     "builder": "Union Tube & Transistor",
     "pedal": "Beelzebuzz",
     "image": "./assets/pedals/union-tube-transistor/beelzebuzz/primary.webp",
@@ -29612,453 +30130,5 @@
     "image": null,
     "source_page": null,
     "research_record": "./research/pedals/ZVEX Effects/Woolly Mammoth 7.md"
-  },
-  {
-    "builder": "Pete Cornish",
-    "pedal": "CC-1",
-    "image": "",
-    "source_page": "https://www.petecornish.co.uk/GreySeries.html",
-    "research_record": "./research/pedals/Pete Cornish/CC-1.md"
-  },
-  {
-    "builder": "Pete Cornish",
-    "pedal": "SS-2",
-    "image": "",
-    "source_page": "https://www.petecornish.co.uk/GreySeries.html",
-    "research_record": "./research/pedals/Pete Cornish/SS-2.md"
-  },
-  {
-    "builder": "Pete Cornish",
-    "pedal": "SS-3",
-    "image": "",
-    "source_page": "https://www.petecornish.co.uk/GreySeries.html",
-    "research_record": "./research/pedals/Pete Cornish/SS-3.md"
-  },
-  {
-    "builder": "Pete Cornish",
-    "pedal": "G-2",
-    "image": "",
-    "source_page": "https://www.petecornish.co.uk/SAEG-2.html",
-    "research_record": "./research/pedals/Pete Cornish/G-2.md"
-  },
-  {
-    "builder": "Pete Cornish",
-    "pedal": "GC-1",
-    "image": "",
-    "source_page": "https://www.petecornish.co.uk/GreySeries.html",
-    "research_record": "./research/pedals/Pete Cornish/GC-1.md"
-  },
-  {
-    "builder": "Pete Cornish",
-    "pedal": "BD-1",
-    "image": "",
-    "source_page": "https://www.petecornish.co.uk/GreySeries.html",
-    "research_record": "./research/pedals/Pete Cornish/BD-1.md"
-  },
-  {
-    "builder": "Pete Cornish",
-    "pedal": "P-1",
-    "image": "",
-    "source_page": "https://www.petecornish.co.uk/GreySeries.html",
-    "research_record": "./research/pedals/Pete Cornish/P-1.md"
-  },
-  {
-    "builder": "Pete Cornish",
-    "pedal": "P-2",
-    "image": "",
-    "source_page": "https://www.petecornish.co.uk/GreySeries.html",
-    "research_record": "./research/pedals/Pete Cornish/P-2.md"
-  },
-  {
-    "builder": "Pete Cornish",
-    "pedal": "NG-2",
-    "image": "",
-    "source_page": "https://www.petecornish.co.uk/GreySeries.html",
-    "research_record": "./research/pedals/Pete Cornish/NG-2.md"
-  },
-  {
-    "builder": "Pete Cornish",
-    "pedal": "NG-3",
-    "image": "",
-    "source_page": "https://www.petecornish.co.uk/deluxeseries.html",
-    "research_record": "./research/pedals/Pete Cornish/NG-3.md"
-  },
-  {
-    "builder": "JHS Pedals",
-    "pedal": "Twin Twelve",
-    "image": "",
-    "source_page": "https://jhspedals.info/collections/discontinued-rare?page=2",
-    "research_record": "./research/pedals/JHS Pedals/Twin Twelve.md"
-  },
-  {
-    "builder": "Benson Amps",
-    "pedal": "Chimera Fuzz",
-    "image": "",
-    "source_page": "https://www.bensonamps.com/guitarpedals",
-    "research_record": "./research/pedals/Benson Amps/Chimera Fuzz.md"
-  },
-  {
-    "builder": "Case Study Effects",
-    "pedal": "Aspen Overdrive",
-    "image": null,
-    "source_page": "https://casestudyeffects.co/",
-    "research_record": "./research/pedals/Case Study Effects/Aspen Overdrive.md"
-  },
-  {
-    "builder": "Case Study Effects",
-    "pedal": "Lastlight Overdrive",
-    "image": null,
-    "source_page": "https://www.effectsdatabase.com/model/casestudy/lastlight",
-    "research_record": "./research/pedals/Case Study Effects/Lastlight Overdrive.md"
-  },
-  {
-    "builder": "Tube Works",
-    "pedal": "901 Real Tube",
-    "image": null,
-    "source_page": "https://www.effectsdatabase.com/model/tubeworks",
-    "research_record": "./research/pedals/Tube Works/901 Real Tube.md"
-  },
-  {
-    "builder": "Tube Works",
-    "pedal": "903 Blue Tube",
-    "image": null,
-    "source_page": "https://www.effectsdatabase.com/model/tubeworks",
-    "research_record": "./research/pedals/Tube Works/903 Blue Tube.md"
-  },
-  {
-    "builder": "Tube Works",
-    "pedal": "910 Tube Driver",
-    "image": null,
-    "source_page": "https://www.effectsdatabase.com/model/tubeworks",
-    "research_record": "./research/pedals/Tube Works/910 Tube Driver.md"
-  },
-  {
-    "builder": "Tube Works",
-    "pedal": "911 Tube Driver",
-    "image": null,
-    "source_page": "https://www.effectsdatabase.com/model/tubeworks",
-    "research_record": "./research/pedals/Tube Works/911 Tube Driver.md"
-  },
-  {
-    "builder": "Dinosaural",
-    "pedal": "Cogmeister",
-    "image": null,
-    "source_page": "https://www.effectsdatabase.com/model/dinosaural",
-    "research_record": "./research/pedals/Dinosaural/Cogmeister.md"
-  },
-  {
-    "builder": "Dinosaural",
-    "pedal": "Hypoid Drive",
-    "image": null,
-    "source_page": "https://www.effectsdatabase.com/model/dinosaural",
-    "research_record": "./research/pedals/Dinosaural/Hypoid Drive.md"
-  },
-  {
-    "builder": "Dinosaural",
-    "pedal": "OPA-101 Overdriven Pre-Amp",
-    "image": null,
-    "source_page": "https://www.effectsdatabase.com/model/dinosaural",
-    "research_record": "./research/pedals/Dinosaural/OPA-101 Overdriven Pre-Amp.md"
-  },
-  {
-    "builder": "Dinosaural",
-    "pedal": "Tube Bender",
-    "image": null,
-    "source_page": "https://www.effectsdatabase.com/model/dinosaural",
-    "research_record": "./research/pedals/Dinosaural/Tube Bender.md"
-  },
-  {
-    "builder": "Dawner Prince Electronics",
-    "pedal": "DIKTATOR MKII",
-    "image": null,
-    "source_page": "https://dawnerprince.com/products/diktator",
-    "research_record": "./research/pedals/Dawner Prince Electronics/DIKTATOR MKII.md"
-  },
-  {
-    "builder": "Dawner Prince Electronics",
-    "pedal": "RED ROX",
-    "image": null,
-    "source_page": "https://dawnerprince.com/",
-    "research_record": "./research/pedals/Dawner Prince Electronics/RED ROX.md"
-  },
-  {
-    "builder": "Dawner Prince Electronics",
-    "pedal": "DIKTATOR",
-    "image": null,
-    "source_page": "https://dawnerprince.com/products/diktator",
-    "research_record": "./research/pedals/Dawner Prince Electronics/DIKTATOR.md"
-  },
-  {
-    "builder": "Land Devices",
-    "pedal": "HP-2",
-    "image": null,
-    "source_page": "https://landdevices.com/collections/catalog",
-    "research_record": "./research/pedals/Land Devices/HP-2.md"
-  },
-  {
-    "builder": "Land Devices",
-    "pedal": "Hunter",
-    "image": null,
-    "source_page": "https://landdevices.com/collections/catalog",
-    "research_record": "./research/pedals/Land Devices/Hunter.md"
-  },
-  {
-    "builder": "Land Devices",
-    "pedal": "Moonbow",
-    "image": null,
-    "source_page": "https://landdevices.com/collections/catalog",
-    "research_record": "./research/pedals/Land Devices/Moonbow.md"
-  },
-  {
-    "builder": "LICHTLÆRM AUDIO",
-    "pedal": "Altar",
-    "image": null,
-    "source_page": "https://lichtlaermaudio.com/shop/altar",
-    "research_record": "./research/pedals/LICHTLÆRM AUDIO/Altar.md"
-  },
-  {
-    "builder": "LICHTLÆRM AUDIO",
-    "pedal": "Medusa",
-    "image": null,
-    "source_page": "https://lichtlaermaudio.com/shop",
-    "research_record": "./research/pedals/LICHTLÆRM AUDIO/Medusa.md"
-  },
-  {
-    "builder": "LICHTLÆRM AUDIO",
-    "pedal": "Ragnarøk",
-    "image": null,
-    "source_page": "https://lichtlaermaudio.com/shop",
-    "research_record": "./research/pedals/LICHTLÆRM AUDIO/Ragnarøk.md"
-  },
-  {
-    "builder": "LICHTLÆRM AUDIO",
-    "pedal": "Total Distortion Worship MKII",
-    "image": null,
-    "source_page": "https://lichtlaermaudio.com/shop/tdw",
-    "research_record": "./research/pedals/LICHTLÆRM AUDIO/Total Distortion Worship MKII.md"
-  },
-  {
-    "builder": "LICHTLÆRM AUDIO",
-    "pedal": "Thorn",
-    "image": null,
-    "source_page": "https://lichtlaermaudio.com/shop",
-    "research_record": "./research/pedals/LICHTLÆRM AUDIO/Thorn.md"
-  },
-  {
-    "builder": "LICHTLÆRM AUDIO",
-    "pedal": "Gehenna",
-    "image": null,
-    "source_page": "https://lichtlaermaudio.com/shop",
-    "research_record": "./research/pedals/LICHTLÆRM AUDIO/Gehenna.md"
-  },
-  {
-    "builder": "LICHTLÆRM AUDIO",
-    "pedal": "The King in Yellow",
-    "image": null,
-    "source_page": "https://lichtlaermaudio.com/shop",
-    "research_record": "./research/pedals/LICHTLÆRM AUDIO/The King in Yellow.md"
-  },
-  {
-    "builder": "LICHTLÆRM AUDIO",
-    "pedal": ".Ritual.",
-    "image": null,
-    "source_page": "https://lichtlaermaudio.com/shop/ritual",
-    "research_record": "./research/pedals/LICHTLÆRM AUDIO/.Ritual..md"
-  },
-  {
-    "builder": "LICHTLÆRM AUDIO",
-    "pedal": "Aquaria",
-    "image": null,
-    "source_page": "https://lichtlaermaudio.com/shop/aquaria",
-    "research_record": "./research/pedals/LICHTLÆRM AUDIO/Aquaria.md"
-  },
-  {
-    "builder": "Does It Doom?",
-    "pedal": "Fuzzcoven",
-    "image": null,
-    "source_page": "https://doesitdoom.com/product/fuzzcoven/",
-    "research_record": "./research/pedals/Does It Doom?/Fuzzcoven.md"
-  },
-  {
-    "builder": "Bad Penny FX",
-    "pedal": "Dluxe Drive",
-    "image": null,
-    "source_page": "https://reverb.com/uk/item/52583164-bad-penny-fx-dluxe-drive",
-    "research_record": "./research/pedals/Bad Penny FX/Dluxe Drive.md"
-  },
-  {
-    "builder": "Bad Penny FX",
-    "pedal": "Fuzz Controller Germanium",
-    "image": null,
-    "source_page": "https://www.guitarpedalx.com/news/best-of-british-pedal-builders-roundup---an-a-z-overview-in-105-parts",
-    "research_record": "./research/pedals/Bad Penny FX/Fuzz Controller Germanium.md"
-  },
-  {
-    "builder": "Bad Penny FX",
-    "pedal": "Littlebox Fuzz",
-    "image": null,
-    "source_page": "https://www.guitarpedalx.com/news/best-of-british-pedal-builders-roundup---an-a-z-overview-in-105-parts",
-    "research_record": "./research/pedals/Bad Penny FX/Littlebox Fuzz.md"
-  },
-  {
-    "builder": "Bad Penny FX",
-    "pedal": "Lollygagger Overdrive",
-    "image": null,
-    "source_page": "https://www.guitarpedalx.com/news/best-of-british-pedal-builders-roundup---an-a-z-overview-in-105-parts",
-    "research_record": "./research/pedals/Bad Penny FX/Lollygagger Overdrive.md"
-  },
-  {
-    "builder": "Bad Penny FX",
-    "pedal": "Morse Fuzz Mini",
-    "image": null,
-    "source_page": "https://www.guitarpedalx.com/news/best-of-british-pedal-builders-roundup---an-a-z-overview-in-105-parts",
-    "research_record": "./research/pedals/Bad Penny FX/Morse Fuzz Mini.md"
-  },
-  {
-    "builder": "Bad Penny FX",
-    "pedal": "Nerd Fuzz + Boost",
-    "image": null,
-    "source_page": "https://www.guitarpedalx.com/news/best-of-british-pedal-builders-roundup---an-a-z-overview-in-105-parts",
-    "research_record": "./research/pedals/Bad Penny FX/Nerd Fuzz + Boost.md"
-  },
-  {
-    "builder": "Bad Penny FX",
-    "pedal": "Old Fuzz Mini",
-    "image": null,
-    "source_page": "https://www.guitarpedalx.com/news/best-of-british-pedal-builders-roundup---an-a-z-overview-in-105-parts",
-    "research_record": "./research/pedals/Bad Penny FX/Old Fuzz Mini.md"
-  },
-  {
-    "builder": "Bad Penny FX",
-    "pedal": "Quagswag Fuzz Boost",
-    "image": null,
-    "source_page": "https://www.guitarpedalx.com/news/best-of-british-pedal-builders-roundup---an-a-z-overview-in-105-parts",
-    "research_record": "./research/pedals/Bad Penny FX/Quagswag Fuzz Boost.md"
-  },
-  {
-    "builder": "Bad Penny FX",
-    "pedal": "Widow Dual Overdrive/Fuzz",
-    "image": null,
-    "source_page": "https://www.guitarpedalx.com/news/best-of-british-pedal-builders-roundup---an-a-z-overview-in-105-parts",
-    "research_record": "./research/pedals/Bad Penny FX/Widow Dual Overdrive Fuzz.md"
-  },
-  {
-    "builder": "Big John Effects",
-    "pedal": "BassDrive",
-    "image": null,
-    "source_page": "https://bigjohnmusic.com/about/",
-    "research_record": "./research/pedals/Big John Effects/BassDrive.md"
-  },
-  {
-    "builder": "B85 Audio",
-    "pedal": "Oktadrive",
-    "image": null,
-    "source_page": "https://www.effectsdatabase.com/model/b85",
-    "research_record": "./research/pedals/B85 Audio/Oktadrive.md"
-  },
-  {
-    "builder": "B85 Audio",
-    "pedal": "Red Lama",
-    "image": null,
-    "source_page": "https://www.effectsdatabase.com/model/b85",
-    "research_record": "./research/pedals/B85 Audio/Red Lama.md"
-  },
-  {
-    "builder": "Backbeat Electric",
-    "pedal": "Bass Driver",
-    "image": null,
-    "source_page": "https://www.effectsdatabase.com/model/backbeat",
-    "research_record": "./research/pedals/Backbeat Electric/Bass Driver.md"
-  },
-  {
-    "builder": "Backbeat Electric",
-    "pedal": "Blue Blender",
-    "image": null,
-    "source_page": "https://www.effectsdatabase.com/model/backbeat",
-    "research_record": "./research/pedals/Backbeat Electric/Blue Blender.md"
-  },
-  {
-    "builder": "Backbeat Electric",
-    "pedal": "Doctor Fuzz",
-    "image": null,
-    "source_page": "https://www.effectsdatabase.com/model/backbeat",
-    "research_record": "./research/pedals/Backbeat Electric/Doctor Fuzz.md"
-  },
-  {
-    "builder": "Bad Pixel Pedals",
-    "pedal": "F#@k You Tube Drive-Boost",
-    "image": null,
-    "source_page": "https://atthelivingroomstudios.com/gear/",
-    "research_record": "./research/pedals/Bad Pixel Pedals/F#@k You Tube Drive-Boost.md"
-  },
-  {
-    "builder": "Baja Tech Custom",
-    "pedal": "Bone Bender 1.5",
-    "image": null,
-    "source_page": "https://wahwah.fandom.com/wiki/Baja_Tech_Custom",
-    "research_record": "./research/pedals/Baja Tech Custom/Bone Bender 1.5.md"
-  },
-  {
-    "builder": "Baja Tech Custom",
-    "pedal": "Bone Bender MKII",
-    "image": null,
-    "source_page": "https://wahwah.fandom.com/wiki/Baja_Tech_Custom",
-    "research_record": "./research/pedals/Baja Tech Custom/Bone Bender MKII.md"
-  },
-  {
-    "builder": "Baja Tech Custom",
-    "pedal": "Da MOAF Deluxe",
-    "image": null,
-    "source_page": "https://www.effectsdatabase.com/model/bajatech",
-    "research_record": "./research/pedals/Baja Tech Custom/DaMOAF Deluxe.md"
-  },
-  {
-    "builder": "Baja Tech Custom",
-    "pedal": "Real Tube Overdrive",
-    "image": null,
-    "source_page": "https://wahwah.fandom.com/wiki/Baja_Tech_Custom",
-    "research_record": "./research/pedals/Baja Tech Custom/Real Tube Overdrive.md"
-  },
-  {
-    "builder": "Balaguer Guitars",
-    "pedal": "Fission Drive",
-    "image": null,
-    "source_page": "https://www.balaguerguitars.com/wp-content/uploads/2021/02/Balaguer-2021-Product-Catalog_compressed-2.pdf",
-    "research_record": "./research/pedals/Balaguer Guitars/Fission Drive.md"
-  },
-  {
-    "builder": "Baltimore Sonic Research Institute",
-    "pedal": "Maybe The Real Treasure... Fuzz",
-    "image": null,
-    "source_page": "https://www.cottonwoodmusicemporium.com/collections/baltimore-sonic-research-institure",
-    "research_record": "./research/pedals/Baltimore Sonic Research Institute/Maybe The Real Treasure - Fuzz.md"
-  },
-  {
-    "builder": "Baltimore Sonic Research Institute",
-    "pedal": "Magawa",
-    "image": null,
-    "source_page": "https://empireguitars.com/collections/all?page=58",
-    "research_record": "./research/pedals/Baltimore Sonic Research Institute/Magawa.md"
-  },
-  {
-    "builder": "Captain FX",
-    "pedal": "Crown Jr. Overdrive / Boost",
-    "image": null,
-    "source_page": "https://github.com/NoizeNiche/the-dirt-archive/blob/main/research/SCRAPE_C_BLOCK_165_ADDENDUM.csv",
-    "research_record": "./research/pedals/Captain FX/Crown Jr. Overdrive Boost.md"
-  },
-  {
-    "builder": "Captain FX",
-    "pedal": "Overdriver",
-    "image": null,
-    "source_page": "https://github.com/NoizeNiche/the-dirt-archive/blob/main/research/SCRAPE_C_BLOCK_165_ADDENDUM.csv",
-    "research_record": "./research/pedals/Captain FX/Overdriver.md"
-  },
-  {
-    "builder": "Captain FX",
-    "pedal": "War Pig",
-    "image": null,
-    "source_page": "https://github.com/NoizeNiche/the-dirt-archive/blob/main/research/SCRAPE_C_BLOCK_165_ADDENDUM.csv",
-    "research_record": "./research/pedals/Captain FX/War Pig.md"
   }
 ]
