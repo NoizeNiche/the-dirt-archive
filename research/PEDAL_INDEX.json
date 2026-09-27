@@ -26660,8 +26660,8 @@
       "research_record": "./research/pedals/Coolmusic/HG-7 High Gain.md",
       "image_source_page": "https://www.effectsdatabase.com/model/coolmusic/hg7",
       "image_source_url": "https://files.effectsdatabase.com/gear/pics/coolmusic_hg-7_001.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Coolmusic",
@@ -28904,8 +28904,8 @@
       "image": "./assets/pedals/creepy-fingers-effects/lonely-heart/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Creepy Fingers Effects/Lonely Heart.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Creepy Fingers Effects",
@@ -32289,8 +32289,8 @@
       "image": "",
       "source_page": "https://www.effectsdatabase.com/model/deviever",
       "research_record": "./research/pedals/Devi Ever FX/Noise Floor.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Devi Ever FX",
@@ -32361,8 +32361,8 @@
       "image": "",
       "source_page": "https://www.effectsdatabase.com/model/deviever",
       "research_record": "./research/pedals/Devi Ever FX/Rocket.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Devi Ever FX",
@@ -32373,8 +32373,8 @@
       "image": "",
       "source_page": "https://www.effectsdatabase.com/model/deviever",
       "research_record": "./research/pedals/Devi Ever FX/Ruby.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Devi Ever FX",

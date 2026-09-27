@@ -47,3 +47,14 @@ Lonely Heart is a high-gain, spitty fuzz with a midrange-shaping control that ca
 ## Photo
 - **Archive status:** No local photo archived in this research pass.
 - **Exact-model visual references checked:** Effects Database and exact Lonely Heart Reverb listings.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Creepy Fingers Effects's Lonely Heart is cataloged as a fuzz pedal.
+
+### Sources checked in this pass
+1. catalog/override source: https://reverb.com/item/11829512-creepy-fingers-lonely-heart-fuzz
+2. catalog/override source: https://www.cottonwoodmusicemporium.com/products/creepy-fingers-lonely-heart
