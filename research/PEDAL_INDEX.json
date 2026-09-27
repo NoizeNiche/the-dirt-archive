@@ -32877,8 +32877,8 @@
       "image": "./assets/pedals/dls-effect/reckless-driver/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/DLS Effect/Reckless Driver.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "DOD Electronics",

@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-27T21:35:52.859921+00:00",
+  "generated_at": "2026-09-27T21:44:37.812838+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,25 +10,18 @@
     "pictured": 3385,
     "complete": 3385,
     "research_pending": 0,
-    "deep_research_pending": 355,
-    "deep_researched": 3851,
+    "deep_research_pending": 354,
+    "deep_researched": 3852,
     "surface_ready": 4206
   },
   "next_target": {
-    "builder": "DLS Effect",
-    "pedal": "Reckless Driver",
+    "builder": "DOD Electronics",
+    "pedal": "Bass Overdrive (FX91)",
     "catalog_type": "",
-    "research_record": "./research/pedals/DLS Effect/Reckless Driver.md",
+    "research_record": "./research/pedals/DOD Electronics/Bass Overdrive (FX91).md",
     "research_level": "surface"
   },
   "working_set": [
-    {
-      "builder": "DLS Effect",
-      "pedal": "Reckless Driver",
-      "catalog_type": "",
-      "research_record": "./research/pedals/DLS Effect/Reckless Driver.md",
-      "research_level": "surface"
-    },
     {
       "builder": "DOD Electronics",
       "pedal": "Bass Overdrive (FX91)",
@@ -195,6 +188,13 @@
       "pedal": "Forest Song High Voltage Overdrive",
       "catalog_type": "",
       "research_record": "./research/pedals/Drunk Beaver/Forest Song High Voltage Overdrive.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Drunk Beaver",
+      "pedal": "Kavun MOSFET Drive",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Drunk Beaver/Kavun MOSFET Drive.md",
       "research_level": "surface"
     }
   ]
