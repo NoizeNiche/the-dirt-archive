@@ -1,5 +1,5 @@
 {
-  "version": "data-20260927-historical-census-sweep-07c",
+  "version": "data-20260927-historical-census-sweep-07e",
   "count": 4242,
   "pedals": [
     {
@@ -6808,8 +6808,8 @@
       "image": null,
       "source_page": "https://www.guitarpedalx.com/news/best-of-british-pedal-builders-roundup---an-a-z-overview-in-105-parts",
       "research_record": "./research/pedals/Bad Penny FX/Lollygagger Overdrive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Bad Penny FX",
