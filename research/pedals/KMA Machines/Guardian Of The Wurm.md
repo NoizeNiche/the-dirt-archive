@@ -1,23 +1,43 @@
 # KMA Machines — Guardian Of The Wurm
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Guardian Of The Wurm
 - **Builder:** KMA Machines
-- **Pedal:** Guardian Of The Wurm
 - **Catalog type:** Distortion
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** KMA Machines's Guardian Of The Wurm.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Guardian Of The Wurm** by **KMA Machines** as a **Distortion** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+She was the long-foreseen saviour, the GUARDIAN of the WURM “ Fusing together the powerful evolution of KMA’s highly regarded WURM Distortion with an intuitive, yet versatile and ultra-fast Noise Gate, GUARDIAN of the WURM is the perfect metal monster.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+GUARDIAN of the WURM – High-Gain Distortion and Noise Gate
+She was the long-foreseen saviour, the GUARDIAN of the WURM “ Fusing together the powerful evolution of KMA’s highly regarded WURM Distortion with an intuitive, yet versatile and ultra-fast Noise Gate, GUARDIAN of the WURM is the perfect metal monster.
+We’ve never tried to hide the fact that the WURM Distortion is our unabashed sonic love letter to this filthy box of doom and gloom, taking the essential ingredients of this classic, while in the process developing a way more flexible metal-distortion pedal.
+
+## Sources checked
+1. GUARDIAN of the WURM – High-Gain Distortion and Noise Gate | KMA Machines: https://kmamachines.com/machines/guardian-of-the-wurm/
+2. KMA Machines GUARDIAN of the WURM &ndash; KMA Machines - Direct: https://shop.kmamachines.com/products/kma-machines-guardian-of-the-wurm
+3. KMA Machines Guardian of the Wurm — Distortion Pedal: https://equipboard.com/items/kma-audio-machines-guardian-of-the-wurm
+4. KMA Machines Guardian of the Wurm Metal Distortion Pedal with Noise Ga &ndash; Z String Music: https://zstringmusic.com/products/kma-machines-guardian-of-the-worm
+5. KMA Machines GUARDIAN of the WURM | The Pedal Zone: https://thepedalzone.com/product/kma-machines-guardian-of-the-wurm/
+6. KMA Machines Guardian of the Wurm Distortion Pedal - Cottonwood Music Emporium: https://www.cottonwoodmusicemporium.com/products/kma-machines-guardian-of-the-wurm
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

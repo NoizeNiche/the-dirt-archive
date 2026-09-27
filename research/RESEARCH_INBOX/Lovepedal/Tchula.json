@@ -1,0 +1,57 @@
+{
+  "builder": "Lovepedal",
+  "pedal": "Tchula",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 6,
+  "sources": [
+    {
+      "url": "https://equipboard.com/items/lovepedal-tchula",
+      "title": "Lovepedal Tchula - What To Know & Where To Buy | Equipboard",
+      "h1": "",
+      "excerpt": "",
+      "host": "equipboard.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://www.samgoffenguitar.com/post/lovepedal-tchula",
+      "title": "Lovepedal Tchula Review",
+      "h1": "Lovepedal Tchula Review",
+      "excerpt": "--> Lovepedal Tchula Review /*** VSM_CSS ***/ @font-face {font-family: 'avenir-lt-w01_35-light1475496'; font-style: normal; font-weight: 400; src: url('//static.parastorage.com/fonts/v2/af36905f-3c92-4ef9-b0c1-f91432f16ac1/v1/avenir-lt-w05_35-light.woff2') format('woff2'); unicode-range: U+0100-012B, U+012E-0130, U+0132-0137, U+0139-0149, U+014C-0151, U+0154-015F, U+0162-0177, U+0179-017C, U+0218-021B, U+02C9, U+02D8-02D9, U+02DB, U+02DD, U+0394, U+03A9, U+03BC, U+03C0, U+1E9E, U+20B9-20BA, U+20BC-20BD, U+2113, U+2126, U+212E, U+2202, U+2206, U+220F, U+2211-2212, U+2215, U+2219-221A, U+221E, U+222B, U+2248, U+2260, U+2264-2265, U+25CA, U+F8FF, U+FB01-FB02;font-display: swap; } @font-face {font-family: 'avenir-lt-w01_35-light1475496'; font-style: normal; font-weight: 400; src: url('//static.parastorage.com/fonts/v2/af36905f-3c92-4ef9-b0c1-f91432f16ac1/v1/avenir-lt-w01_35-light1475496.woff2') format('woff2'); unicode-range: U+0000, U+000D, U+0020-007E, U+00A0-00FF, U+0131, U+0152-0153, U+0160-0161, U+0178, U+017D-017E, U+0192, U+0237, U+02C6-02C7, U+02DA, U+02DC, U+2013-2014, U+2018-201A, U+201C-201E, U+2020-2022, U+2026, U+2030, U+2039-203A, U+2044, U+20AC, U+2122;font-display: swap; }@font-face {font-family: 'kepler-w03-light-scd-cp'; font-style: normal; font-weight: 400; src: url('//static.parastorage.com/fonts/v2/19f6e474-15ce-4e6a-baee-1511a65fe78e/v1/kepler-w03-light-scd-cp.woff2') format('woff2'); unicode-range: U+0000, U+000D, U+0020-007E, U+00A0-00FF, U+0131, U+0141-0142, U+0152-0153, U+0160-0161, U+0178, U+017D-017F, U+0192, U+02C6-02C7, U+02C9, U+02D8-02DD, U+03C0, U+2010, U+2012-2014, U+2018-201A, U+201C-201E, U+2020-2022, U+2024-2026, U+2030, U+2039-203A, U+2044, U+2070, U+2074-2079, U+207D-2089, U+208D-208E, U+20A1, U+20AC, U+2113, U+2122, U+2126, U+212E, U+2153-2154, U+215B-215E, U+2190, U+2192, U+2202, U+2206, U+220F, U+2211-2212, U+2215, U+2219-221A, U+221E, U+222B, U+2248, U+2260, U+2264-2265, U+25A0, U+25B6-25B7, U+25C0-25C1, U+25C6, U+25C9-25CA, U+2610-2611, U+E000-E047, U+E04A-E0D3, U+EFED-EFEE, U+EFF1-EFF3, U+EFF5, U+EFF7, U+F628-F633, U+F637-F66C, U+F6AE-F6BD, U+F6C3, U+F6C9-F6CB, U+F6CE-F6D0, U+F6DC-F6DD, U+F6DF-F6E8, U+F6EA-F6EF, U+F6F1-F6FF, U+F721, U+F724, U+F726, U+F730-F739, U+F73F, U+F760-F77A, U+F7A1-F7A2, U+F7A8, U+F7AF, U+F7B4, U+F7B8, U+F7BF, U+F7E0-F7F6, U+F7F8-F7FF, U+FB00-FB04, U+FB06;font-display: swap; }@font-face {font-family: 'oswald'; font-style: normal; font-weight: 700; src: url('//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/oswald/v29/TK3iWkUHHAIjg752Fj8Gl-1PK62t.woff2') format('woff2'); unicode-range: U+0102-0103, U+0110-0111, U+1EA0-1EF9, U+20AB;font-display: swap; } @font-face {font-family: 'oswald'; font-style: normal; font-weight: 400; src: url('//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/oswald/v29/TK3iWkUHHAIjg752Fj8Gl-1PK62t.woff2') format('woff2'); unicode-range: U+0102-0103, U+0110-0111, U+1EA0-1EF9, U+20AB;font-display: swap; } @font-face {font-family: 'oswald'; font-style: normal; font-weight: 700; src: url('//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/oswald/v29/TK3iWkUHHAIjg752FD8Gl-1PK62t.woff2') format('woff2'); unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;font-display: swap; } @font-face {font-family: 'oswald'; font-style: normal; font-weight: 400; src: url('//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/oswald/v29/TK3iWkUHHAIjg752FD8Gl-1PK62t.woff2') format('woff2'); unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;font-display: swap; } @font-face {font-family: 'oswald'; font-style: normal; font-weight: 700; src: url('//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/oswald/v29/TK3iWkUHHAIjg752HT8Gl-1PK62t.woff2') format('woff2'); unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;font-display: swap; } @font-face {font-family: 'oswald'; f",
+      "host": "www.samgoffenguitar.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://reverb.com/p/lovepedal-tchula-boost",
+      "title": "Lovepedal Tchula Boost - Reverb",
+      "h1": "",
+      "excerpt": "",
+      "host": "reverb.com",
+      "source_kind": "reverb"
+    },
+    {
+      "url": "https://www.ebay.com/sch/i.html?_nkw=lovepedal+tchula&_sop=12",
+      "title": "Lovepedal Tchula for sale | eBay",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.ebay.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://zanshin-musical-instruments.com/en/products/lovepedal-tchula-white",
+      "title": "Lovepedal | TCHULA WHITE &ndash; Zanshin Musical Instruments",
+      "h1": "Lovepedal | TCHULA WHITE",
+      "excerpt": "Lovepedal | TCHULA WHITE &ndash; Zanshin Musical Instruments Skip to content Free shipping for purchases over \u00a550,000 English \u65e5\u672c\u8a9e English Italiano United States (USD $) Afghanistan (AFN \u060b) \u00c5land Islands (EUR \u20ac) Albania (ALL L) Algeria (DZD \u062f.\u062c) Andorra (EUR \u20ac) Angola (JPY \u00a5) Anguilla (XCD $) Antigua & Barbuda (XCD $) Argentina (JPY \u00a5) Armenia (AMD \u0564\u0580.) Aruba (AWG \u0192) Ascension Island (SHP \u00a3) Australia (AUD $) Austria (EUR \u20ac) Azerbaijan (AZN \u20bc) Bahamas (BSD $) Bahrain (JPY \u00a5) Bangladesh (BDT \u09f3) Barbados (BBD $) Belarus (JPY \u00a5) Belgium (EUR \u20ac) Belize (BZD $) Benin (XOF Fr) Bermuda (USD $) Bhutan (JPY \u00a5) Bolivia (BOB Bs.) Bosnia & Herzegovina (BAM \u041a\u041c) Botswana (BWP P) Brazil (JPY \u00a5) British Indian Ocean Territory (USD $) British Virgin Islands (USD $) Brunei (BND $) Bulgaria (EUR \u20ac) Burkina Faso (XOF Fr) Burundi (BIF Fr) Cambodia (KHR \u17db) Cameroon (XAF CFA) Canada (CAD $) Cape Verde (CVE $) Caribbean Netherlands (USD $) Cayman Islands (KYD $) Central African Republic (XAF CFA) Chad (XAF CFA) Chile (JPY \u00a5) China (CNY \u00a5) Christmas Island (AUD $) Cocos (Keeling) Islands (AUD $) Colombia (JPY \u00a5) Comoros (KMF Fr) Congo - Brazzaville (XAF CFA) Congo - Kinshasa (CDF Fr) Cook Islands (NZD $) Costa Rica (CRC \u20a1) C\u00f4te d\u2019Ivoire (XOF Fr) Croatia (EUR \u20ac) Cura\u00e7ao (ANG \u0192) Cyprus (EUR \u20ac) Czechia (CZK K\u010d) Denmark (DKK kr.) Djibouti (DJF Fdj) Dominica (XCD $) Dominican Republic (DOP $) Ecuador (USD $) Egypt (EGP \u062c.\u0645) El Salvador (USD $) Equatorial Guinea (XAF CFA) Eritrea (JPY \u00a5) Estonia (EUR \u20ac) Eswatini (JPY \u00a5) Ethiopia (ETB Br) Falkland Islands (FKP \u00a3) Faroe Islands (DKK kr.) Fiji (FJD $) Finland (EUR \u20ac) France (EUR \u20ac) French Guiana (EUR \u20ac) French Polynesia (XPF Fr) French Southern Territories (EUR \u20ac) Gabon (XOF Fr) Gambia (GMD D) Georgia (JPY \u00a5) Germany (EUR \u20ac) Ghana (JPY \u00a5) Gibraltar (GBP \u00a3) Greece (EUR \u20ac) Greenland (DKK kr.) Grenada (XCD $) Guadeloupe (EUR \u20ac) Guatemala (GTQ Q) Guernsey (GBP \u00a3) Guinea (GNF Fr) Guinea-Bissau (XOF Fr) Guyana (GYD $) Haiti (JPY \u00a5) Honduras (HNL L) Hong Kong SAR (HKD $) Hungary (HUF Ft) Iceland (ISK kr) India (INR \u20b9) Indonesia (IDR Rp) Iraq (JPY \u00a5) Ireland (EUR \u20ac) Isle of Man (GBP \u00a3) Israel (ILS \u20aa) Italy (EUR \u20ac) Jamaica (JMD $) Japan (JPY \u00a5) Jersey (JPY \u00a5) Jordan (JPY \u00a5) Kazakhstan (KZT \u20b8) Kenya (KES KSh) Kiribati (JPY \u00a5) Kosovo (EUR \u20ac) Kuwait (JPY \u00a5) Kyrgyzstan (KGS som) Laos (LAK \u20ad) Latvia (EUR \u20ac) Lebanon (LBP \u0644.\u0644) Lesotho (JPY \u00a5) Liberia (JPY \u00a5) Libya (JPY \u00a5) Liechtenstein (CHF CHF) Lithuania (EUR \u20ac) Luxembourg (EUR \u20ac) Macao SAR (MOP P) Madagascar (JPY \u00a5) Malawi (MWK MK) Malaysia (MYR RM) Maldives (MVR MVR) Mali (XOF Fr) Malta (EUR \u20ac) Martinique (EUR \u20ac) Mauritania (JPY \u00a5) Mauritius (MUR \u20a8) Mayotte (EUR \u20ac) Mexico (JPY \u00a5) Moldova (MDL L) Monaco (EUR \u20ac) Mongolia (MNT \u20ae) Montenegro (EUR \u20ac) Montserrat (XCD $) Morocco (MAD \u062f.\u0645.) Mozambique (JPY \u00a5) Myanmar (Burma) (MMK K) Namibia (JPY \u00a5) Nauru (AUD $) Nepal (NPR Rs.) Netherlands (EUR \u20ac) New Caledonia (XPF Fr) New Zealand (NZD $) Nicaragua (NIO C$) Niger (XOF Fr) Nigeria (NGN \u20a6) Niue (NZD $) Norfolk Island (AUD $) North Macedonia (MKD \u0434\u0435\u043d) Norway (JPY \u00a5) Oman (JPY \u00a5) Pakistan (PKR \u20a8) Palestinian Territories (ILS \u20aa) Panama (USD $) Papua New Guinea (PGK K) Paraguay (PYG \u20b2) Peru (PEN S/) Philippines (PHP \u20b1) Pitcairn Islands (NZD $) Poland (PLN z\u0142) Portugal (EUR \u20ac) Qatar (QAR \u0631.\u0642) R\u00e9union (EUR \u20ac) Romania (RON Lei) Russia (JPY \u00a5) Rwanda (RWF FRw) Samoa (WST T) San Marino (EUR \u20ac) S\u00e3o Tom\u00e9 & Pr\u00edncipe (STD Db) Saudi Arabia (SAR \u0631.\u0633) Senegal (XOF Fr) Serbia (RSD \u0420\u0421\u0414) Seychelles (JPY \u00a5) Sierra Leone (SLL Le) Singapore (SGD $) Sint Maarten (ANG \u0192) Slovakia (EUR \u20ac) Slovenia (EUR \u20ac) Solomon Islands (SBD $) Somalia (JPY \u00a5) South Africa (JPY \u00a5) South Georgia & South Sandwich Islands (GBP \u00a3) South Korea (KRW \u20a9) South Sudan (JPY \u00a5) Spain (EUR \u20ac) Sri Lanka (LKR \u20a8) St. Barth\u00e9lemy (EUR \u20ac) St. Helena (SHP \u00a3) St. Kitts & Nevis (XCD $) St. Lucia (XCD $) St. Martin (EUR \u20ac) St. Pierre & Miquelon (EUR \u20ac) St. Vincent & Grenadines (XCD $) Sudan (JPY \u00a5) Suriname (JPY \u00a5) Svalbard & Jan Mayen (JPY \u00a5) S",
+      "host": "zanshin-musical-instruments.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://www.effectsdatabase.com/model/lovepedal/tchula",
+      "title": "Lovepedal Tchula - Effects Database",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.effectsdatabase.com",
+      "source_kind": "effects_database"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}

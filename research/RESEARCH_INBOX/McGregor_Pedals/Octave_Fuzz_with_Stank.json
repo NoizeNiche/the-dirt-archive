@@ -1,0 +1,41 @@
+{
+  "builder": "McGregor Pedals",
+  "pedal": "Octave Fuzz with Stank",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 4,
+  "sources": [
+    {
+      "url": "https://www.mcgregorpedals.com/products/octave-fuzz-with-stank",
+      "title": "Octave Fuzz with Stank | Rectified Octave-Up Fuzz | McGregor Pedals",
+      "h1": "Octave Fuzz with Stank",
+      "excerpt": "Octave Fuzz with Stank | Rectified Octave-Up Fuzz | McGregor Pedals Free Shipping Available Canada Wide!!! Log in or Create account Cart 0 Free Shipping Available Canada Wide!!! Menu Cart 0 Fuzz Pedals Crunch Overdrive Products Video Demos Press Our Story Special Orders Contact Log in Create account Fuzz Pedals Crunch Overdrive Products Video Demos Press Our Story Special Orders Contact Home &rsaquo; Octave Fuzz with Stank McGregor Pedals Octave Fuzz with Stank Regular price $185.00 USD Sale price Unit price / per Shipping calculated at checkout. Default Title - $185.00 USD Quantity Add to Cart     Classic rectified octave-up fuzz with a Stank control that overloads the octaving circuit for positively filthy tones\u2014not a polite octave doubler. Blend wet and dry, dial from shimmering octave fuzz to full stank. Hand-soldered in British Columbia for guitar and bass. \u25b6 Watch video demos Why fuzz players choose the Octave Fuzz with Stank Rectified octave-up voice \u2014 full-wave rectification doubles frequency for a fuzzy octave-up character; complex guitar and bass signals get wild in the best way Stank control \u2014 overload the octaving section on purpose for distortion blended with octave fuzz\u2014a tone discovered during development, not an afterthought Blend \u2014 parallel mix from mostly dry (never fully dry) to fully wet Guitar and bass \u2014 responds to pickup output, playing dynamics, and signal complexity Hand-soldered in BC \u2014 true bypass, top-mounted jacks, LED brightness trim for outdoor stages Player-tested \u2014 Michael Schau demo below; same player community as the Crunch and Classic Fuzz lines How Stank works \u2014 the circuit The core circuit takes a relatively pure tone and doubles the frequency by inverting the positive portion of the wave\u2014full-wave rectification. That yields a fuzzy octave-up sound. With the rich harmonic content of a guitar or bass, the result is aggressive, animated, and unpredictable in a musical way. During development we found that pushing too much signal through the octaving section didn\u2019t just break up\u2014it became positively \u201cStanky\u201d (as one player put it). That happy accident became the Stank knob: think of it as distortion mixed with the octave-up fuzz, not a generic gain control. Quick voicing tip: With Stank up and Blend around 10 o\u2019clock, it behaves like a distortion with octave overtones\u2014useful for rhythm and chord work without full wet fuzz. Michael Schau demo Michael Schau taking the Octave Fuzz with Stank for a spin: \u25b6 All McGregor Pedals demos \u2192 Controls Vol \u2014 Output level. Turning up Stank can boost volume; adjust Vol as needed Stank \u2014 Overloads the octaving circuit\u2014distortion blended with octave-up fuzz Blend \u2014 Wet/dry mix. Full left is mostly dry (it never fully dries up); full right is completely wet LED brightness \u2014 Side trim pot (jeweler\u2019s screwdriver): dark stage to bright sun How to use it Starting point: Blend around noon, Stank low, set Vol to match your bypass level Octave fuzz: Bring Blend toward fully wet; add Stank to taste for filth vs. clarity Distortion + octave overtones: Stank up, Blend around 10 o\u2019clock\u2014rhythm-friendly voicing Bass: Works well on bass; complex low-end content drives the rectifier hard\u2014start with lower Stank and adjust Blend Before Crunch: Stacks well with transparent overdrive after fuzz for cranked-amp textures at manageable volume Specifications Type: Rectified octave-up fuzz with overload Stank control (guitar & bass) Controls: Vol, Stank, Blend + LED brightness trim Bypass: True bypass Power: 9 V DC, center-negative 2.1 \u00d7 5.5 mm (Boss-style). Use a regulated supply Layout: Top-mounted jacks and power Enclosure: Brushed aluminum, industrial look\u2014may include scratches, scuffs, and marks by design Built: Hand-soldered in British Columbia, Canada Battery: No battery compartment (use regulated PSU) Which McGregor fuzz is for you? Classic Fuzz Cozmic Fuzzball Octave Fuzz with Stank Character Thick, responsive silicon fuzz Fuzz \u2192 distortion \u2192 OD cascade Rectified octave-up +",
+      "host": "www.mcgregorpedals.com",
+      "source_kind": "manufacturer"
+    },
+    {
+      "url": "https://reverb.com/item/93169546-mcgregor-pedals-octave-fuzz-with-stank",
+      "title": "McGregor Pedals Octave Fuzz with Stank - Reverb",
+      "h1": "",
+      "excerpt": "",
+      "host": "reverb.com",
+      "source_kind": "reverb"
+    },
+    {
+      "url": "https://www.ebay.com/itm/205856104235",
+      "title": "McGregor Pedals Octave Fuzz with Stank - Open Box | eBay",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.ebay.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://pedalplex.com/gear/mcgregor-pedals-octave-fuzz-with-stank",
+      "title": "McGregor Pedals Octave Fuzz with Stank \u2013 Controls, SubPlexes & Rig Builder | PedalPlex",
+      "h1": "McGregor Pedals Octave Fuzz with Stank",
+      "excerpt": "McGregor Pedals Octave Fuzz with Stank \u2013 Controls, SubPlexes & Rig Builder | PedalPlex Back to Catalog Add to a Rig McGregor Pedals Octave Fuzz with Stank Controls & Settings Open in FXDB --> Open in FXDB Gear Description & Specs The McGregor Pedals Octave Fuzz with Stank delivers thick, gritty fuzz with octave-up effects. Perfect for experimental textures and aggressive lead tones with character and harmonic complexity. McGregor Pedals fuzz Guitar Pedal Catalog Pedalboard Builder",
+      "host": "pedalplex.com",
+      "source_kind": "other"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}
