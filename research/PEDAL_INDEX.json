@@ -8179,6 +8179,115 @@
       "deep_research_status": "VERIFIED"
     },
     {
+      "company": "Beetronics",
+      "pedal": "Abelha Tropical Fuzz",
+      "types": [
+        "Fuzz"
+      ],
+      "image": "",
+      "source_page": "https://www.beetronicsfx.com/collections/all-pedals-1",
+      "research_record": "",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Beetronics",
+      "pedal": "Fatbee Overdrive",
+      "types": [
+        "Overdrive"
+      ],
+      "image": "",
+      "source_page": "https://www.beetronicsfx.com/collections/drive",
+      "research_record": "",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Beetronics",
+      "pedal": "Octahive v2 High Octave Buzz",
+      "types": [
+        "Fuzz"
+      ],
+      "image": "",
+      "source_page": "https://www.beetronicsfx.com/collections/all-pedals-1",
+      "research_record": "",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Beetronics",
+      "pedal": "Overhive Mid-Gain Overdrive",
+      "types": [
+        "Overdrive"
+      ],
+      "image": "",
+      "source_page": "https://www.beetronicsfx.com/collections/drive",
+      "research_record": "",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Beetronics",
+      "pedal": "Royal Jelly Fuzz/OD Blender",
+      "types": [
+        "Overdrive",
+        "Fuzz"
+      ],
+      "image": "",
+      "source_page": "https://www.beetronicsfx.com/products/royal-jelly-limited-edition-p-royal-series",
+      "research_record": "",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Beetronics",
+      "pedal": "Swarm Fuzz Harmonizer",
+      "types": [
+        "Fuzz"
+      ],
+      "image": "",
+      "source_page": "https://www.beetronicsfx.com/collections/all-pedals-1",
+      "research_record": "",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Beetronics",
+      "pedal": "Tuna Fuzz",
+      "types": [
+        "Fuzz"
+      ],
+      "image": "",
+      "source_page": "https://www.beetronicsfx.com/collections/all-pedals-1",
+      "research_record": "",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Beetronics",
+      "pedal": "Vezzpa Octave Stinger",
+      "types": [
+        "Fuzz"
+      ],
+      "image": "",
+      "source_page": "https://www.beetronicsfx.com/collections/all-pedals-1",
+      "research_record": "",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Beetronics",
+      "pedal": "Wannabee Beelateral Buzz",
+      "types": [
+        "Overdrive"
+      ],
+      "image": "",
+      "source_page": "https://www.beetronicsfx.com/collections/drive",
+      "research_record": "",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
       "company": "Beetronics FX",
       "pedal": "Abelha Tropical Fuzz",
       "types": [
@@ -39498,6 +39607,19 @@
     },
     {
       "company": "KMA Machines",
+      "pedal": "Chief Disruptor Bloodstone Edition",
+      "types": [
+        "Fuzz",
+        "Distortion"
+      ],
+      "image": "",
+      "source_page": "https://shop.kmamachines.com/pages/products",
+      "research_record": "",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "KMA Machines",
       "pedal": "Dead Stag",
       "types": [
         "Distortion",
@@ -39559,6 +39681,18 @@
     },
     {
       "company": "KMA Machines",
+      "pedal": "LOGAN Desert",
+      "types": [
+        "Overdrive"
+      ],
+      "image": "",
+      "source_page": "https://www.kma-machines.com/",
+      "research_record": "",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "KMA Machines",
       "pedal": "Minos",
       "types": [
         "Fuzz"
@@ -39590,6 +39724,18 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/KMA Machines/Queequeq 2.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "KMA Machines",
+      "pedal": "WURHM",
+      "types": [
+        "Distortion"
+      ],
+      "image": "",
+      "source_page": "https://www.kma-machines.com/",
+      "research_record": "",
       "research_level": "surface",
       "deep_research_status": "PENDING"
     },
