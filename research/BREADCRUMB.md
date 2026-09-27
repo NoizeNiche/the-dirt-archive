@@ -537,3 +537,7 @@ The worker-team cadence was tightened from hourly to **every 15 minutes**, stagg
 The derived queue reached **4,242 surface-ready / 2,254 deep-researched / 1,988 deep-research-pending** before the latest worker cycle. The most recent completed worker pass admitted additional verified deep research and successfully deployed the resulting public state.
 
 A redundant hourly **Research evidence crew** workflow was identified. Because canonical publication is owned by research-worker-team.yml and research-synthesis.yml is manual-only, the evidence-only crew was changed to **manual/on-demand plus kick-triggered**, removing its competing hourly 20-job schedule. The primary deep-research crew remains the active automated lane.
+
+## Deep-research throughput checkpoint - September 27, 2026
+
+The corrected provenance-aware 400-target worker pass completed successfully and advanced **139 records** to deep research, moving the queue from **1,064 pending / 3,178 deep** to **925 pending / 3,317 deep**. Surface coverage remains complete at 4,242 records. The run used 20 parallel gatherers and preserved the strict foreman evidence gate. A larger 50-target-per-worker configuration is now committed for subsequent passes.
