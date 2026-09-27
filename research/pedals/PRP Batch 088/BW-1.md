@@ -12,3 +12,5 @@ https://www.premierguitar.com/biltworth-debuts-the-bw-1
 
 ## Archive photo
 - **Archive status:** **No Photo Archived**
+## Deep research verification
+The cited Premier Guitar coverage supports the exact Biltworth BW-1 identity as a combined overdrive, delay and reverb unit. The dirt section is **Volume, Gain, Tone**; the delay and reverb have independent controls. The article documents individual-effect true bypass plus master true bypass, a 9V DC input, hand assembly in California, and a 7.38 x 4.7 inch enclosure. Exact active-device details are not stated in the reviewed coverage.
