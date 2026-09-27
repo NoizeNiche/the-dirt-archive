@@ -34674,8 +34674,8 @@
       "image": "./assets/pedals/earthquaker-devices/sunn-o-halflife/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/EarthQuaker Devices/Sunn O))) HalfLife.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "EarthQuaker Devices",
@@ -34969,8 +34969,8 @@
       "image": "./assets/pedals/electro-harmonix/bender-royale/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Electro-Harmonix/Bender Royale.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Electro-Harmonix",
@@ -43968,8 +43968,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Maxon/OD808.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Maxon",
@@ -45181,8 +45181,8 @@
       "image": "./assets/pedals/menatone/top-boost-in-a-can/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Menatone/Top Boost in a Can.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Menatone",
@@ -45293,8 +45293,8 @@
       "image": "./assets/pedals/mesa-boogie/throttle-box-eq/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/MESA/Boogie/Throttle Box EQ.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "MESA/Boogie",
@@ -47499,8 +47499,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Mythos Pedals/Wildwood Mjolnir.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Nobels",
@@ -54807,8 +54807,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/VOX/V829 Tone Bender.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "VOX",
