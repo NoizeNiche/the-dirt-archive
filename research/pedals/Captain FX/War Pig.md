@@ -1,29 +1,39 @@
 # Captain FX - War Pig
 
 ## PRP identity
+- **Archive parent:** War Pig
 - **Builder:** Captain FX
 - **Catalog type:** Fuzz
-- **Identity:** Captain FX War Pig.
+- **Identity:** Captain FX War Pig, a historical fuzz/distortion pedal.
 
 ## What this pedal is
-The archived C-block census identifies War Pig as a Captain FX fuzz product. It is retained as a distinct historical model.
+A 2011 TalkBass thread identifies the **Captain FX War Pig** as a copy of the 1990s Sovtek Big Muff and describes it as a fuzz/distortion pedal. The discussion also records a three-way EQ-style switch with Scoop, Normal, and Flat positions.
 
 ## Controls / circuit
-Exact controls, topology, semiconductors and power details were not reliably recovered in this pass.
+- **Three-way switch:** Scoop / Normal / Flat, documented in the surviving 2011 discussion.
+- The exact control knob layout is not established by the surviving text source.
+- Because the thread identifies the circuit reference as a 1990s Sovtek Big Muff, the archive records that as reported lineage, not as a claim about an independently verified schematic.
+- **Exact transistor/device:** Unknown.
+- **Exact clipping/diode device:** Unknown.
+- **Exact power requirement:** Unknown.
 
 ## Sound
-The surviving evidence establishes the fuzz role but does not preserve enough model-specific information for a detailed tonal description.
+The original 2011 discussion reports that the War Pig sounded good with guitar and that the builder said it worked well on bass. That is user-reported evidence rather than a controlled technical measurement.
 
 ## History
-War Pig is a historical Captain FX product and remains inside the dirt census even though surviving documentation is limited.
+War Pig is retained as a historical Captain FX product. The available discussion dates to May 26, 2011 and records the model as an existing Captain FX offering at that time.
 
 ## Research confidence
 - **Identity:** High.
-- **Fuzz classification:** High from the stored census.
-- **Technical details:** Unknown.
+- **Fuzz/distortion role:** High.
+- **Scoop / Normal / Flat switch:** High for the documented unit.
+- **Sovtek Big Muff lineage:** Reported by the contemporary discussion, not independently verified here.
+- **Technical component details:** Unknown.
 
 ## Sources checked
-1. The Dirt Archive historical census addendum: ./research/SCRAPE_C_BLOCK_165_ADDENDUM.csv
+1. TalkBass - War Pig, a great looking/sounding copy of 90s Sovtek Big Muff: https://www.talkbass.com/threads/war-pig-a-great-looking-sounding-copy-of-90s-sovtek-big-muff.774007/
+2. The Dirt Archive historical census addendum: ./research/SCRAPE_C_BLOCK_165_ADDENDUM.csv
 
 ## Photo
 - **Archive status:** **Exact Photo Pending**
+- No local canonical image was promoted in this pass.
