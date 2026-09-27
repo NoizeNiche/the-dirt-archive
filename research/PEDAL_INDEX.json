@@ -9321,8 +9321,8 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/behringer/octavia",
       "research_record": "./research/pedals/Behringer/Octavia - Octave Fuzz.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Behringer",
@@ -9334,8 +9334,8 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/behringer/compact/od100",
       "research_record": "./research/pedals/Behringer/OD100 Overdrive/Distortion.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Behringer",
@@ -9366,8 +9366,8 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/behringer/compact/od400",
       "research_record": "./research/pedals/Behringer/OD400 Overdrive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Behringer",
@@ -9378,8 +9378,8 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/behringer/compact/po300",
       "research_record": "./research/pedals/Behringer/PO300 Power Overdrive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Behringer",
@@ -9404,8 +9404,8 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/behringer/compact/sm400",
       "research_record": "./research/pedals/Behringer/SM400 Super Metal.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Behringer",
@@ -9416,8 +9416,8 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/behringer/compact/to100",
       "research_record": "./research/pedals/Behringer/TO100 Tube Overdrive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Behringer",
@@ -9442,8 +9442,8 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/behringer/vintage/vd1",
       "research_record": "./research/pedals/Behringer/VD1 Vintage Distortion.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Behringer",

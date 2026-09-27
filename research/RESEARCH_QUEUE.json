@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-27T09:20:37.489220+00:00",
+  "generated_at": "2026-09-27T09:21:47.113344+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,8 +10,8 @@
     "pictured": 3123,
     "complete": 3123,
     "research_pending": 0,
-    "deep_research_pending": 2096,
-    "deep_researched": 2146,
+    "deep_research_pending": 2089,
+    "deep_researched": 2153,
     "surface_ready": 4242
   },
   "next_target": {
@@ -62,55 +62,6 @@
       "pedal": "Widow Dual Overdrive/Fuzz",
       "catalog_type": "",
       "research_record": "./research/pedals/Bad Penny FX/Widow Dual Overdrive Fuzz.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Behringer",
-      "pedal": "Octavia - Octave Fuzz",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Behringer/Octavia - Octave Fuzz.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Behringer",
-      "pedal": "OD100 Overdrive/Distortion",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Behringer/OD100 Overdrive/Distortion.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Behringer",
-      "pedal": "OD400 Overdrive",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Behringer/OD400 Overdrive.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Behringer",
-      "pedal": "PO300 Power Overdrive",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Behringer/PO300 Power Overdrive.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Behringer",
-      "pedal": "SM400 Super Metal",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Behringer/SM400 Super Metal.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Behringer",
-      "pedal": "TO100 Tube Overdrive",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Behringer/TO100 Tube Overdrive.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Behringer",
-      "pedal": "VD1 Vintage Distortion",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Behringer/VD1 Vintage Distortion.md",
       "research_level": "surface"
     },
     {
@@ -195,6 +146,55 @@
       "pedal": "Bushy Bison",
       "catalog_type": "",
       "research_record": "./research/pedals/PRP Batch 083/Bushy Bison.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Big Knob Pedals",
+      "pedal": "Civil Warp",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 083/Civil Warp.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Big Knob Pedals",
+      "pedal": "Colour Jumbo",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 083/Colour Jumbo.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Big Knob Pedals",
+      "pedal": "Creamy Pi",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 083/Creamy Pi.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Big Knob Pedals",
+      "pedal": "D OverDrive 250",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 083/D OverDrive 250.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Big Knob Pedals",
+      "pedal": "Fuzz Barn",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 083/Fuzz Barn.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Big Knob Pedals",
+      "pedal": "Fuzz Space",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 083/Fuzz Space.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Big Knob Pedals",
+      "pedal": "Game of Tones",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 083/Game of Tones.md",
       "research_level": "surface"
     }
   ]
