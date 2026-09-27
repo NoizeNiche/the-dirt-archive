@@ -4,28 +4,45 @@
 - **Archive parent:** Dirt Bird
 - **Builder:** Chase Bliss Audio
 - **Catalog type:** Distortion
-- **Identity:** Chase Bliss Audio Dirt Bird, a 2025 Mystery Box exclusive derived from the original Condor circuit at deliberately reduced headroom.
+- **Identity:** Limited **2025 Mystery Box** configuration derived from the original Condor, deliberately reducing headroom to make its normally undesirable distortion artifact the central sound. [1]
 
 ## What this pedal is
-Effects Database documents Dirt Bird as a **Mystery Box exclusive limited to 250 units**. Chase Bliss describes it as very similar to the original Condor, but intentionally set up to reproduce the nasty distortion artifact that could occur in the original Condor when headroom was reduced far enough. [1]
+Effects Database documents Dirt Bird as a Mystery Box exclusive limited to **250 units**. Chase Bliss describes it as very similar to the original Condor but intentionally configured to push the circuit into the dirty low-headroom behavior that the original design could exhibit at extreme levels. [1]
 
-## Colorways
-The checked exact-model source documents the limited-run product but does not establish a complete colorway sequence.
+## Circuit lineage
+- **Primary lineage:** Chase Bliss **Condor**.
+- The design is a deliberately altered Condor configuration, not a generic standalone distortion topology. [1]
 
-## Versions and factory options
-Dirt Bird is documented as a special-edition configuration rather than a conventional production replacement. The exact control set follows the Condor-derived platform, but the checked source does not establish every front-panel parameter separately.
-
-## Version changes
-Dirt Bird is a **2025 Mystery Box exclusive** and is treated as a distinct exact model in the catalog. [1]
+## Controls
+- Condor-derived control platform.
+- The reviewed source does not expose every front-panel parameter clearly enough to reproduce the complete control map without guessing.
 
 ## Transistor
-No exact-model transistor specification was established.
+- Exact device part numbers are not established.
 
-## Diode
-No exact-model diode specification was established.
+## Diode / clipping
+- Exact clipping-device part numbers are not established.
+
+## Version history
+- **2025 Mystery Box exclusive**
+- **250-unit** limited run.
+- Distinct catalog identity because the deliberate low-headroom configuration is part of the product concept. [1]
 
 ## Sound
-The defining sound concept is deliberate low-headroom behavior. The circuit is adjusted so the original Condor's undesirable distortion artifact becomes the central voice, creating an intentionally dirty and unstable distortion character. [1]
+Dirt Bird centers the ugly/chaotic distortion artifact that can occur when the Condor's headroom is forced low. The result is intentionally dirty, compressed and unstable rather than a neutral overdrive. [1]
+
+## Research confidence
+- **Identity:** High
+- **Condor lineage:** High
+- **2025/250-unit limited run:** High
+- **Low-headroom concept:** High
+- **Exact semiconductor:** Unknown
+
+## Deep research verification
+Effects Database's exact-model Dirt Bird entry was checked directly and supplies the Mystery Box origin, limited run and Condor-derived low-headroom design concept. [1]
 
 ## Sources checked
-1. Effects Database — Chase Bliss Audio Dirt Bird: https://www.effectsdatabase.com/model/chasebliss/dirtbird
+1. Effects Database — Chase Bliss Dirt Bird: https://www.effectsdatabase.com/model/chasebliss/dirtbird
+
+## Photo
+- Exact-model photo status remains handled separately.
