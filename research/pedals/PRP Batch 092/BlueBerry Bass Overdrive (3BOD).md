@@ -12,3 +12,5 @@ An overdrive designed specifically for bass. It was released in December 2001 an
 
 ## Archive photo
 - **Archive status:** **No Photo Archived**
+## Deep research verification
+The cited BJFE reference identifies BlueBerry Bass Overdrive (3BOD) as a bass-specific overdrive, released **December 2001** and retired **January 2010**. The reference also documents its later transition into the Mad Professor product line and its distinctive blueberry-themed enclosure artwork. Exact component data are not established in the reviewed source.
