@@ -575,7 +575,8 @@
       "image_source_priority": 412,
       "image_source_pages_verified": true,
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_page": "https://www.effectsdatabase.com/model/aboveground/rockshard"
     },
     {
       "company": "Absolutely Analog",
@@ -730,7 +731,8 @@
       "image_source_page_verified": true,
       "image_source_priority": 414,
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_page": "https://www.effectsdatabase.com/model/accel/stompzilla"
     },
     {
       "company": "Accel Audio",
@@ -1175,7 +1177,8 @@
       "image_source_priority": 308,
       "image_source_pages_verified": true,
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_page": "https://www.effectsdatabase.com/model/addplus/derfuzzer"
     },
     {
       "company": "Add+ Pedals",
@@ -31185,7 +31188,8 @@
       "source_page": null,
       "research_record": "./research/pedals/DeadastronautFX/EasyDriver.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_page": "https://deadastronaut.wixsite.com/effects/easydrivepcbdeadastronautfx"
     },
     {
       "company": "DeadastronautFX",
@@ -36774,11 +36778,13 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/fulltone/hi-mu/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Fulltone/Hi-Mu.md",
       "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "deep_research_status": "PENDING",
+      "image_source_url": "https://www.stars-music.com/medias/fulltone/cropped-hi-mu-213333.jpeg",
+      "image_source_page": "https://www.stars-music.com/fulltone-hi-mu_213333.html"
     },
     {
       "company": "Fulltone",
@@ -37588,11 +37594,13 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/greer-amps/tone-smuggler/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Greer Amps/Tone Smuggler.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://files.effectsdatabase.com/gear/pics/greer_tonesmuggler_001.jpg",
+      "image_source_page": "https://www.effectsdatabase.com/model/greer/tonesmuggler"
     },
     {
       "company": "GuitarSlinger Effects",
@@ -38791,11 +38799,13 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/industrialectric/incinerator/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/industrialectric/incinerator",
       "research_record": "./research/pedals/Industrialectric/Incinerator.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://www.bigcitymusic.com/cdn/shop/collections/cables.png?v=1707266176&width=1500",
+      "image_source_page": "https://www.bigcitymusic.com/products/incinerator"
     },
     {
       "company": "Industrialectric",
@@ -39865,11 +39875,13 @@
         "Distortion",
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/jhs-pedals/packrat-white/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/JHS Pedals/PackRat White.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://jhspedals.info/cdn/shop/files/JHSPedalsPackratWhite_1100x.png?v=1724076103",
+      "image_source_page": "https://jhspedals.info/products/packrat-white"
     },
     {
       "company": "JHS Pedals",
@@ -43634,11 +43646,13 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/maxon/fuzz-elements-u/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Maxon/Fuzz Elements u.md",
       "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "deep_research_status": "PENDING",
+      "image_source_url": "https://rvb-img.reverb.com/i/s--kVkGMuVn--/quality=medium-low,height=800,width=800,fit=contain/f99a157e-725c-4633-b4ef-30749a1f72eb.jpg",
+      "image_source_page": "https://reverb.com/item/94907500-maxon-maxon-fe10-fuzz-elements-ether-guitar-effects-pedal"
     },
     {
       "company": "Maxon",
@@ -43976,11 +43990,13 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/maxon/rtd800-real-tube-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Maxon/RTD800 Real Tube Distortion.md",
       "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "deep_research_status": "PENDING",
+      "image_source_url": "https://files.effectsdatabase.com/gear/pics/maxon-retube_rtd-800_001.jpg",
+      "image_source_page": "https://www.effectsdatabase.com/model/maxon/retube/rtd800"
     },
     {
       "company": "Maxon",
@@ -44014,11 +44030,13 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/maxon/sd-9-sonic-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Maxon/SD-9 Sonic Distortion.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://files.effectsdatabase.com/gear/pics/maxon_sd-9_001.jpg",
+      "image_source_page": "https://www.effectsdatabase.com/model/maxon/9/sd9"
     },
     {
       "company": "Maxon",
@@ -44063,11 +44081,13 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/maxon/sm-9-super-metal/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Maxon/SM-9 Super Metal.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://files.effectsdatabase.com/gear/pics/maxon_sm-9_001.jpg",
+      "image_source_page": "https://www.effectsdatabase.com/model/maxon/9/sm9"
     },
     {
       "company": "Maxon",
@@ -44113,11 +44133,13 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/maxon/ssd-9-super-sonic-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Maxon/SSD-9 Super Sonic Distortion.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://r.bing.com/rp/3sti29Lev-2zsaRcJkEL_QbLxuU.png",
+      "image_source_page": "https://equipboard.com/items/maxon-custom-shop-ssd-9-super-sonic-distortion"
     },
     {
       "company": "Maxon",
