@@ -1,23 +1,40 @@
 # ProCo Sound — Turbo RAT
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Turbo RAT
 - **Builder:** ProCo Sound
-- **Pedal:** Turbo RAT
 - **Catalog type:** Distortion / Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** ProCo Sound's Turbo RAT.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Turbo RAT** by **ProCo Sound** as a **Distortion / Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+The Turbo RAT is the most intense pedal in the RAT family.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- The verified evidence references: v15.
+- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+ProCo Sound Turbo RAT Distortion Effects Pedal - Taylor Acoustics.
+ProCo Sound Turbo RAT Distortion Effects Pedal $159.99 $80.00 This RAT bites!
+For those brave enough to harness its power, it provides a palette of distortion unequaled by any other pedal.
+
+## Sources checked
+1. ProCo Sound Turbo RAT - Distortion - Audiofanzine: https://en.audiofanzine.com/guitar-distortion-overdrive-fuzz/proco-sound/turbo-rat/
+2. ProCo Sound Turbo RAT Distortion Effects Pedal - Taylor Acoustics. Martin NAMM. ESP Electrics. Left-Handed Guitars. Requinto. Jarana.: https://www.rareairguitars.com/product/proco-sound-turbo-rat-distortion-effects-pedal/
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

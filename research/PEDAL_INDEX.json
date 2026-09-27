@@ -44349,8 +44349,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Maxon/ST-9 Super Tube Screamer.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Maxon",
@@ -49469,8 +49469,8 @@
       "image": "./assets/pedals/proco-sound/turbo-rat/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/ProCo Sound/Turbo RAT.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "ProCo Sound",
