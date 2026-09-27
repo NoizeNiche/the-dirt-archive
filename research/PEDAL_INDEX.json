@@ -6671,8 +6671,8 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/backbeat",
       "research_record": "./research/pedals/Backbeat Electric/Doctor Fuzz.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Backbeat Electric",
@@ -6738,8 +6738,8 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/badcat",
       "research_record": "./research/pedals/Bad Cat/Siamese Drive - Dual Harmonic Overdrive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Bad Cat",
