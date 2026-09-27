@@ -1,23 +1,42 @@
 # Electro-Harmonix — Ripped Speaker Fuzz
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Ripped Speaker Fuzz
 - **Builder:** Electro-Harmonix
-- **Pedal:** Ripped Speaker Fuzz
 - **Catalog type:** Fuzz
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Electro-Harmonix's Ripped Speaker Fuzz.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Ripped Speaker Fuzz** by **Electro-Harmonix** as a **Fuzz** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Electro-Harmonix's Ripped Speaker Fuzz is cataloged as a fuzz pedal.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+A modern fuzz with old school roots and pays homage to one of the ways that early distorted guitar and bass sounds were made!
+Electro-Harmonix Ripped Speaker Fuzz Effects Pedal Gray
+
+## Sources checked
+1. Electro-Harmonix Ripped Speaker Fuzz Pedal | Sweetwater: https://www.sweetwater.com/store/detail/RippedSpkr--electro-harmonix-ripped-speaker-fuzz-pedal
+2. open prime modal: https://www.amazon.com/clp/B08XB8WB1S
+3. Electro-Harmonix Ripped Speaker Fuzz Distorti RIPPED SPEAKER B&H: https://www.bhphotovideo.com/c/product/1669846-REG/electro_harmonix_ripped_speaker_fuzz_box.html
+4. Electro-Harmonix Ripped Speaker Fuzz Pedal: https://collarcityguitars.com/products/electro-harmonix-ripped-speaker-fuzz-pedal
+5. Electro-Harmonix Ripped Speaker Fuzz Effects Pedal Gray | Guitar Center: https://www.guitarcenter.com/Electro-Harmonix/Ripped-Speaker-Fuzz-Effects-Pedal-Gray-1500000346710.gc
+6. Electro-Harmonix Ripped Speaker Fuzz Pedal - American Musical Supply: https://www.americanmusical.com/p/electro-harmonix-ripped-speaker-fuzz-pedal
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

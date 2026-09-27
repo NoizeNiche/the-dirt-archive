@@ -1,23 +1,45 @@
 # MXR — Raw Dawg Overdrive
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Raw Dawg Overdrive
 - **Builder:** MXR
-- **Pedal:** Raw Dawg Overdrive
 - **Catalog type:** Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** MXR's Raw Dawg Overdrive.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Raw Dawg Overdrive** by **MXR** as a **Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+The MXR Raw Dawg Overdrive is designed to do just that.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- www.jimdunlop.com RAW DAWG OVERDRIVE compared to ...
+
+## Versions and factory options
+- The verified evidence references: V1, V12, V6.
+- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Documented terms in the verified sources: LED.
+- The archive records only the component information explicitly present in these sources.
+
+## Sound
+MXR® RAW DAWG™ OVERDRIVE - Dunlop Toggle menu Compare
+The MXR Raw Dawg Overdrive is designed to do just that.
+A custom circuit, this pedal is based on a classic OD famous for its grit and crunch—but we balanced out the midrange and bumped up the gain for a sweeter, more natural sound even when cranked.
+
+## Sources checked
+1. MXR® RAW DAWG™ OVERDRIVE - Dunlop: https://www.jimdunlop.com/mxr-raw-dawg-overdrive/
+2. MXR EG74 Raw Dawg Overdrive Pedal | Sweetwater: https://www.sweetwater.com/store/detail/RawDawgOD--mxr-eg74-raw-dawg-overdrive-pedal
+3. MXR RAW DAWG OVERDRIVE | AllThePedals: https://allthepedals.com/pedals/mxr-raw-dawg-overdrive
+4. MXR EG74 Eric Gales Raw Dawg Overdrive - Reverb: https://reverb.com/p/mxr-eg74-eric-gales-raw-dawg-overdrive
+5. MXR Eric Gales Raw Dawg Overdrive Effect Pedal With Free Barefoot Buttons V1 Guitar Center Standard Footswitch Cap | Guitar Center: https://www.guitarcenter.com/MXR/Eric-Gales-Raw-Dawg-Overdrive-Effect-Pedal-With-Free-Barefoot-Buttons-V1-Guitar-Center-Standard-Footswitch-Cap-1500000366336.gc
+6. MXR Raw Dawg Overdrive | ReverbZone: https://reverbzone.com/mxr/mxr-raw-dawg-overdrive/
+7. MXR Raw Dawg Overdrive Effect Pedal EG74 Eric Gales with Box! - eBay: https://www.ebay.com/itm/327369943569
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

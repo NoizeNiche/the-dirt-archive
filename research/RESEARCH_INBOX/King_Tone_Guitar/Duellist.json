@@ -1,0 +1,33 @@
+{
+  "builder": "King Tone Guitar",
+  "pedal": "Duellist",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 3,
+  "sources": [
+    {
+      "url": "https://reverb.com/p/king-tone-guitar-the-duellist-v3-with-external-dip-switches",
+      "title": "King Tone Guitar The Duellist V3 with External Dip Switches",
+      "h1": "",
+      "excerpt": "",
+      "host": "reverb.com",
+      "source_kind": "reverb"
+    },
+    {
+      "url": "https://www.ebay.com/itm/127768155375",
+      "title": "King Tone Guitar Duellist V3 Overdrive Pedal - eBay",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.ebay.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://www.effectsdatabase.com/model/kingtone/duellist",
+      "title": "King Tone Guitar Duellist - Dual Overdrive | Effects Database",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.effectsdatabase.com",
+      "source_kind": "effects_database"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}

@@ -1,0 +1,25 @@
+{
+  "builder": "KMA Machines",
+  "pedal": "Queequeq",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 2,
+  "sources": [
+    {
+      "url": "https://rigshare.com/products/queequeq-subgenerator-521180",
+      "title": "KMA Machines Queequeq - Subgenerator images, videos, reviews, and more ...",
+      "h1": "",
+      "excerpt": "",
+      "host": "rigshare.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://www.rockboard.de/en/pedalPedia/KMA-Machines/Queequeq-2/68980943/",
+      "title": "Queequeq 2 by KMA Machines | RockBoard | PedalPedia",
+      "h1": "Queequeq 2",
+      "excerpt": "Queequeq 2 by KMA Machines | RockBoard | PedalPedia Skip to main content LOG IN EXPLORE KMA Machines Queequeq 2 LOG IN TO SUGGEST IMPROVEMENTS Description KMA Machines released the original QUEEQUEG in 2016. The pedal was our take on how simple and effective an analog monophonic suboctave device could be. Time doesn\u2019t stand still and so with QUEEQUEG 2, KMA\u2019s aim was not only to update the device with a more striking appearance, but also add an additional sub-octave and the ability to switch and mix between them. With a small footprint, the updated pedal also has top mounted jacks and relay based soft switching for the modern age. QUEEQUEG 2\u2019s super, easy-to-use and ultra-fast tracking sub-octaver works equally well on guitar, bass and synth, so these classic earth-shakingly awesome tones can find their way to any setup out there. Media Videos Demo by The Pedal Zone (EN) Official Product Video (EN) Manuals Manual Download (EN) Reviews Review by gearnews (EN) Review by Gitarre & Bass (DE) Links Product Page Technical data Width 000.00 mm Depth 000.00 mm Height 000.00 mm Weight 000.00 mm Circuit type analog Voltage 9V DC, center negative Current 60mA Boards with this pedal Robs pedalboard based on TRES 3.1 RM by Robert Meyer 15 1 about 1 month ago Funk Pop Rock Funk Pop Rock 2 New Pedal Board based on TRES 3.1 GM by Giuseppe Magrone 26 0 about 2 months ago Rock Rock 0 More pedals from KMA Machines SWITCHER SWITCHER KMA Machines AB/Y FUZZ DISTORTION FUZZ DISTORTION KMA Machines Minos PHASER TAP ENVELOPE FILTER PHASER TAP ENVELOPE FILTER KMA Machines Horizont SWITCHER SWITCHER KMA Machines Tyler The Frequenzie Splitter All KMA Machines Pedals Products Pedalboards All-In-One Patchbays QuickMount PedalSafe Power Supplies and Power Cables and Connections Accessories Gear Build your own board Board Configurator PedalPedia Pedalboard Gallery QuickMount Finder Services Find a dealer Find a distributor Frequently Asked Questions Contact Current catalog News Community RockBoard Artists Achievements Your Activity Overview \u00a92026 Warwick GmbH & Co. Music Equipment KG GTC | Imprint | Privacy policy | Accessibility | Cookie Settings {\"props\":{\"pageProps\":{\"data\":{\"pedal\":{\"ID\":\"68980943\",\"link\":null,\"depth\":128,\"width\":66,\"height\":60,\"weight\":350,\"electronicType\":\"ANALOG\",\"voltage\":9,\"current\":60,\"battery\":false,\"IEC\":false,\"passive\":false,\"submissionStatus\":null,\"manufacturer\":{\"ID\":\"282909008\",\"name\":\"KMA Machines\"},\"name\":\"Queequeq 2\",\"descriptionDE\":\"\",\"descriptionEN\":\"KMA Machines released the original QUEEQUEG in 2016. The pedal was our take on how simple and effective an analog monophonic suboctave device could be.\\nTime doesn\u2019t stand still and so with QUEEQUEG 2, KMA\u2019s aim was not only to update the device with a more striking appearance, but also add an additional sub-octave and the ability to switch and mix between them. With a small footprint, the updated pedal also has top mounted jacks and relay based soft switching for the modern age. QUEEQUEG 2\u2019s super, easy-to-use and ultra-fast tracking sub-octaver works equally well on guitar, bass and synth, so these classic earth-shakingly awesome tones can find their way to any setup out there.\",\"media\":[{\"ID\":\"b83afe96f55f8e73e1e59e6e\",\"name\":\"Product Page\",\"type\":\"LINK\",\"URL\":\"https://kmamachines.com/machines/queequeg-2/\",\"languages\":[]},{\"ID\":\"dbf487b02690e3d3c20fa59a\",\"name\":\"Review by gearnews\",\"type\":\"REVIEW\",\"URL\":\"https://www.gearnews.com/kma-machines-queequeg-2-sub-generator-analogue-octaver/\",\"languages\":[\"EN\"]},{\"ID\":\"5a349baf5e7ae7f72d7f2e8f\",\"name\":\"Manual Download\",\"type\":\"MANUAL\",\"URL\":\"https://kmamachines.com/wp-content/uploads/2022/11/KMA-Machines-Queequeg2-Quick-Start-Guide.pdf\",\"languages\":[\"EN\"]},{\"ID\":\"6ef3680e27ec1ad8839cbb42\",\"name\":\"Review by Gitarre \\u0026 Bass\",\"type\":\"REVIEW\",\"URL\":\"https://www.gitarrebass.de/equipment/vorstoss-in-bislang-unerreichte-tiefen-kma-machines-queequeg%C2%B2-sub-generator/\",\"languages\":[\"DE\"]},{\"ID\":\"961b8af891be5b7d9c2b82d7\",\"name\":\"De",
+      "host": "www.rockboard.de",
+      "source_kind": "other"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}

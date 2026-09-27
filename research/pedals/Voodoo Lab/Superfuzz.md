@@ -1,23 +1,42 @@
 # Voodoo Lab — Superfuzz
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Superfuzz
 - **Builder:** Voodoo Lab
-- **Pedal:** Superfuzz
 - **Catalog type:** Fuzz
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Voodoo Lab's Superfuzz.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Superfuzz** by **Voodoo Lab** as a **Fuzz** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+The Voodoo Lab Superfuzz is designed to provide a wide variety of vintage and modern tones that are usable over a range of volume levels.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+True bypass switching is used for absolutely no loss of tone when the pedal is bypassed.
+Description The problem with most fuzz pedals is that you just get one sound, like it or not.
+This is accomplished by taking a classic ‘60s fuzz design and adding unique resonance and tone circuits.
+
+## Sources checked
+1. PDF SUPERFUZZ S U P - voodoolab.com: https://voodoolab.com/wp-content/uploads/2022/08/superfuzz_manual-1.pdf
+2. Voodoo Lab Superfuzz User Manual - ManualMachine.com: https://manualmachine.com/voodoolab/superfuzz/1807856-user-manual/
+3. Voodoo Lab Superfuzz User's Manual | Manualzz: https://manualzz.com/doc/21721480/voodoo-lab-superfuzz-guitar-effect-pedal-user-s-manual
+4. Voodoo Lab Superfuzz User Manual | 2 pages: https://www.manualsdir.com/manuals/743229/voodoo-lab-superfuzz.html
+5. PDF SUPERFUZZ S U P - midimanuals.com: https://www.midimanuals.com/manuals/voodoo_lab/superfuzz/users_manual/superfuzz_manual.pdf
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

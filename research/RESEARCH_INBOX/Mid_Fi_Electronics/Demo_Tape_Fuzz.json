@@ -1,0 +1,57 @@
+{
+  "builder": "Mid-Fi Electronics",
+  "pedal": "Demo Tape Fuzz",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 6,
+  "sources": [
+    {
+      "url": "https://www.midfielectronics.com/demo-tape-fuzz",
+      "title": "Mid-Fi Electronics ::: Demo Tape Fuzz",
+      "h1": "Demo Tape Fuzz",
+      "excerpt": "--> Mid-Fi Electronics ::: Demo Tape Fuzz HOME PEDALS PURCHASE Demo Tape Fuzz Designed to emulate the distortion created by running an instrument direct into a 4 track/mixer/mic pre. From gross to gorgeous. CONTROLS Volume Bass Treble Trim FEATURES True Bypass 9V DC (negative tip) all content &copy; 2026 Doug Tuttle Effects",
+      "host": "www.midfielectronics.com",
+      "source_kind": "manufacturer"
+    },
+    {
+      "url": "https://equipboard.com/items/demo-tape-fuzz",
+      "title": "Mid-Fi Electronics Demo Tape Fuzz - What To Know & Where To Buy",
+      "h1": "",
+      "excerpt": "",
+      "host": "equipboard.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://www.effectsdatabase.com/model/midfi/demotape",
+      "title": "Mid-Fi Electronics Demo Tape Fuzz - Effects Database",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.effectsdatabase.com",
+      "source_kind": "effects_database"
+    },
+    {
+      "url": "https://effectslayouts.blogspot.com/2015/06/mid-fi-electronics-demo-tape-fuzz.html",
+      "title": "Perf and PCB Effects Layouts: Mid-Fi Electronics Demo Tape Fuzz",
+      "h1": "",
+      "excerpt": "",
+      "host": "effectslayouts.blogspot.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://www.premierguitar.com/gear/mid-fi-electronics-demo-tape-fuzz-pedal-review",
+      "title": "Mid-Fi Electronics Demo Tape Fuzz Pedal Review - Premier Guitar",
+      "h1": "Mid-Fi Electronics Demo Tape Fuzz Pedal Review",
+      "excerpt": "Raven.config('https://6b64f5cc8af542cbb920e0238864390a@sentry.io/147999').install(); Mid-Fi Electronics Demo Tape Fuzz Pedal Review - Premier Guitar     Skip to content Search & Section Navigation Sign up Sign up Contact Shop Open Search Login Subscribe Site Navigation Reviews Guitars Amps Pedals Acoustic Bass News Videos Rig Rundowns Gear Demos Gear Roundups DIY Features Artists Gear Builder Profile Columns DIY Advice Gear Talk Lessons Beginner Intermediate Advanced CAGED Blues Rock Country Podcasts Shred With Shifty Wong Notes 100 Guitarists <div class=\"menu_item\" id=\"sMenu_Items_",
+      "host": "www.premierguitar.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://aionfx.com/project/torus-lo-fi-fuzz/",
+      "title": "Torus Lo-Fi Fuzz / Mid-Fi Demo Tape Fuzz - Aion FX",
+      "h1": "Torus Lo-Fi Fuzz",
+      "excerpt": "Torus Lo-Fi Fuzz / Mid-Fi Demo Tape Fuzz - Aion FX --> Skip to content About Contact PCB white-labeling service Sign In / Register Menu Projects View All Projects Top Sellers Overdrive & Distortion Modulation & Delay Fuzz Boost Compression & EQ Kits View All Kits Components Resources News More About Contact PCB white-labeling service Sign In / Register 0 items - $0.00 View Cart Checkout Search Torus Lo-Fi Fuzz Based On Demo Tape Fuzz Effect Type Distortion / Fuzz Build Difficulty Beginner Project Summary A thick fuzz/distortion circuit designed to replicate the low-budget garage tones of an overloaded cassette recorder. Printed Circuit Board What's included? PCB only. Build instructions and parts list can be viewed or downloaded from this page. In stock $ 12.50 In stock Torus quantity Add to cart Complete Kit Not yet available. Kits are developed based on interest, so if you\u2019d like to see one for this project, let us know. Request Kit 104 people are interested. Project overview The Torus Lo-Fi Fuzz is based on the Demo Tape Fuzz by Mid-Fi Electronics. The Demo Tape Fuzz is a throwback to the days of running a guitar into a cassette recorder and cranking the gain to overload it and create distortion. The circuit consists of two simple building blocks. It starts out with an op-amp gain stage. This is similar to a Distortion+ , so the low-pass frequency changes with the gain. (This is in contrast to most drive circuits after the 1970s where the potentiometer instead controls the feedback resistor, so the low-pass frequency remains constant.) Next, a basic Baxandall tone section allows adjustment of treble & bass. The interesting thing about this circuit is that, like a cassette recorder, there are no clipping diodes, so all of the distortion/fuzz sound is generated \u201cunintentionally\u201d by op-amp clipping. It can get pretty thick, but retains its rough-around-the-edges character at all settings. The Torus is a direct clone of the Demo Tape Fuzz with no modifications. The project is very low parts count and great for beginners. Documentation Project Documents Build Documentation pdf Mouser parts list google Related Projects Nexus Catalinbread\u00ae Manx Loaghtan $ 12.50 Malacandra Xotic&reg; AC/RC Booster $ 12.50 Plasma Colorsound\u00ae Overdriver $ 12.50 Nucleus Colorsound&reg; Power Booster $ 12.50 Sigma Cornish ST-2 $ 12.50 Related Components 1uF $ 2.40 DIP-8 socket $ 1.00 JRC4558D $ 1.25 3PDT $ 5.45 DC jack $ 1.49 Quick Links Overdrive & Distortion Refractor Professional Overdrive Klon &reg; Centaur / KTR Stratus Classic Overdrive Ibanez &reg; TS-9 Tube Screamer Andromeda Natural Overdrive Nobels &reg; ODR-1 Overdrive Azimuth Dynamic Overdrive Hermida &reg; Zendrive Fuzz Halo Distortion / Sustainer Electro-Harmonix &reg; Big Muff Pi Rift Octave Fuzz Univox &reg; Superfuzz Vulcan Octave Fuzz fOXX &reg; Tone Machine Penumbra Bass Fuzz ZVEX &reg; Woolly Mammoth Modulation & Delay Luna Optical Tremolo 4ms Tremulus Lune Vector Ambient Delay Mad Professor &reg; Deep Blue Delay Blueshift Spatial Chorus BOSS &reg; DC-2 Dimension C Runoffgroove Tri-Vibe Preamp L5 Preamp (Legacy) Lab Series &reg; L5 Preamp Ares Vintage Preamp Echoplex EP-3 Preamp Positron Preamp Drive Gorilla TC-35 Tube Cruncher Eclipse Vintage Preamp Korg &reg; SDD-3000 Preamp Compression & EQ Aurora Compression / Sustainer Ross Compressor / MXR &reg; Dyna Comp Lumin Sonic Enhancer BBE &reg; Sonic Maximizer Oceanid Optical Compressor Pete Cornish OC-1 Convex Optical Compressor Dinosaural &reg; OTC-201 Boutique Cepheus Amp Overdrive Pete Cornish CC-1 Wyvern Silicon Drive Dinosaural &reg; Tube Bender Tempest Amp Distortion Friedman &reg; BE-OD / Dirty Shirley Procyon Natural Overdrive BJFe Honey Bee Vintage (Pre-1975) Solaris Germanium Fuzz Dallas-Arbiter Fuzz Face Radian Treble Booster Dallas Rangemaster Deimos Germanium Fuzz Sola Sound Tone Bender Mk. II Professional Plasma Vintage Drive Colorsound Overdriver Modern (1975-Present) Cerulean Amp Overdrive Marshall &reg; Bluesbreaker H",
+      "host": "aionfx.com",
+      "source_kind": "other"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}
