@@ -6623,8 +6623,8 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/b85",
       "research_record": "./research/pedals/B85 Audio/Oktadrive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "B85 Audio",
@@ -6647,8 +6647,8 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/backbeat",
       "research_record": "./research/pedals/Backbeat Electric/Bass Driver.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Backbeat Electric",

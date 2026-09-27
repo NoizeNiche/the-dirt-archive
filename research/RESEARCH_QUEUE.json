@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-27T08:15:36.617119+00:00",
+  "generated_at": "2026-09-27T08:16:40.606649+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,32 +10,18 @@
     "pictured": 3107,
     "complete": 3107,
     "research_pending": 0,
-    "deep_research_pending": 2150,
-    "deep_researched": 2092,
+    "deep_research_pending": 2148,
+    "deep_researched": 2094,
     "surface_ready": 4242
   },
   "next_target": {
-    "builder": "B85 Audio",
-    "pedal": "Oktadrive",
+    "builder": "Backbeat Electric",
+    "pedal": "Doctor Fuzz",
     "catalog_type": "",
-    "research_record": "./research/pedals/B85 Audio/Oktadrive.md",
+    "research_record": "./research/pedals/Backbeat Electric/Doctor Fuzz.md",
     "research_level": "surface"
   },
   "working_set": [
-    {
-      "builder": "B85 Audio",
-      "pedal": "Oktadrive",
-      "catalog_type": "",
-      "research_record": "./research/pedals/B85 Audio/Oktadrive.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Backbeat Electric",
-      "pedal": "Bass Driver",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Backbeat Electric/Bass Driver.md",
-      "research_level": "surface"
-    },
     {
       "builder": "Backbeat Electric",
       "pedal": "Doctor Fuzz",
@@ -195,6 +181,20 @@
       "pedal": "DB-2 Dual Boost",
       "catalog_type": "",
       "research_record": "./research/pedals/Barge Concepts/DB-2 Dual Boost.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Barge Concepts",
+      "pedal": "DB-3 Dual Boost",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Barge Concepts/DB-3 Dual Boost.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "BBE",
+      "pedal": "427 Distortion",
+      "catalog_type": "",
+      "research_record": "./research/pedals/BBE/427 Distortion.md",
       "research_level": "surface"
     }
   ]
