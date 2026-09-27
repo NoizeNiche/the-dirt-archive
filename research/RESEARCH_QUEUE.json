@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-27T22:19:39.737651+00:00",
+  "generated_at": "2026-09-27T22:21:05.127769+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,8 +10,8 @@
     "pictured": 3409,
     "complete": 3409,
     "research_pending": 0,
-    "deep_research_pending": 332,
-    "deep_researched": 3874,
+    "deep_research_pending": 331,
+    "deep_researched": 3875,
     "surface_ready": 4206
   },
   "next_target": {
@@ -108,13 +108,6 @@
     },
     {
       "builder": "EarthQuaker Devices",
-      "pedal": "Cloven Hoof — Fuzz Grinder",
-      "catalog_type": "",
-      "research_record": "./research/pedals/EarthQuaker Devices/Cloven Hoof — Fuzz Grinder.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "EarthQuaker Devices",
       "pedal": "Dirt Transmitter — Fuzz Driver",
       "catalog_type": "",
       "research_record": "./research/pedals/EarthQuaker Devices/Dirt Transmitter — Fuzz Driver.md",
@@ -195,6 +188,13 @@
       "pedal": "Hoof — Hybrid Fuzz",
       "catalog_type": "",
       "research_record": "./research/pedals/EarthQuaker Devices/Hoof — Hybrid Fuzz.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "EarthQuaker Devices",
+      "pedal": "Hoof Reaper — Double Fuzz with Octave Up",
+      "catalog_type": "",
+      "research_record": "./research/pedals/EarthQuaker Devices/Hoof Reaper — Double Fuzz with Octave Up.md",
       "research_level": "surface"
     }
   ]
