@@ -7194,8 +7194,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_url": "https://images.squarespace-cdn.com/content/v1/65b06a7618b86c6c69ea8b04/8718ba5e-54e0-494f-a2d6-6b8b9f74fc9a/GC_SR_black.jpg?format=750w",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Barber Electronics",
@@ -7924,8 +7924,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_url": "http://sweetlousguitars.com/cdn/shop/files/20260129_140806.jpg?v=1769737190",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "BearFoot FX",
@@ -8527,8 +8527,8 @@
         "https://equipboard.com/items/bffx-demon-d"
       ],
       "image_source_url": "https://images.equipboard.com/uploads/item/image/43102/bffx-demon-d-xl.webp?v=1789812021",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "BFFX Boutique Pedals",
@@ -8548,8 +8548,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_url": "https://cdn1.qualitygurus.com/wp-content/uploads/2022/12/Process-Capability-and-Performance-Cp-Cpk-Pp-Ppk-Cpm-scaled.jpg?lossy=1&ssl=1",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "BFFX Boutique Pedals",
@@ -8567,8 +8567,8 @@
         "https://www.mercadolivre.com.br/pedal-klon-clone-kairen-bffx/up/MLBU3078745184"
       ],
       "image_source_pages_verified": true,
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "BFFX Boutique Pedals",
@@ -8581,8 +8581,8 @@
       "research_record": "./research/pedals/PRP Batch 080/Sublime.md",
       "image_source_url": "https://www.premierguitar.com/media-library/image.jpg?id=25768711&width=1200&height=600&coordinates=0%2C20%2C0%2C20",
       "image_source_page": "https://www.premierguitar.com/sublime-guitar-company-unveils-new-line-of-pedals",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Bias",
@@ -38704,8 +38704,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/MadeByMike/Dual Drive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "MadeByMike",
