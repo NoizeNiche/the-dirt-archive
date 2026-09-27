@@ -32,3 +32,7 @@ The Black Sheep is an all transistor fuzz device with enough attitude and rough 
 ### Sources checked in this pass
 1. catalog/override source: https://bonnymooney.blogspot.com/2022/05/black-arts-toneworks-black-sheep.html
 2. FIRST LOOK! Pharaoh Supreme and Black Sheep | Black Arts Toneworks: https://www.blackartstoneworks.com/first-look-pharaoh-supreme-and-black-sheep/
+### Additional exact-model verification
+Black Arts Toneworks and Joe's Pedals documentation identify Black Sheep as a reworking of the **Roland Bee Baa** fuzz. Joe's Pedals documents **Depth, Tone, Volume and Gain** controls, true bypass, and 2.1mm centre-negative power; it also notes that the input stage was made variable and the internal transistor selection was modernized relative to the Bee Baa. The builder's own announcement independently describes the pedal as an all-transistor fuzz. citeturn224259search0turn224259search3
+
+Effects Database independently documents a 2014 release and a four-control layout, with Depth implemented as a four-position selector on some units. citeturn224259search1
