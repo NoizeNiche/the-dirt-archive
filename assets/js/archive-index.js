@@ -364,8 +364,40 @@ function render(){
   if(normalized)syncUrl(true);
 }
 
+async function copyViewLink(){
+  const button=$('copyViewLink');
+  if(!button)return;
+  const url=location.href;
+  let copied=false;
+  try{
+    if(navigator.clipboard?.writeText){
+      await navigator.clipboard.writeText(url);
+      copied=true;
+    }else{
+      const field=document.createElement('textarea');
+      field.value=url;
+      field.setAttribute('readonly','');
+      field.style.position='fixed';
+      field.style.opacity='0';
+      document.body.appendChild(field);
+      field.select();
+      copied=document.execCommand('copy');
+      field.remove();
+    }
+  }catch(e){
+    console.error('Could not copy archive view link',e);
+  }
+  const original=button.textContent;
+  button.textContent=copied?'Link copied':'Copy failed';
+  button.setAttribute('aria-live','polite');
+  window.setTimeout(()=>{
+    button.textContent=original;
+  },1600);
+}
+
 $('clearFilters').onclick=clearFilters;
 $('discoverPedal').onclick=discoverPedal;
+$('copyViewLink').onclick=copyViewLink;
 $('researchFilter').onchange=e=>{
   selectedResearch=e.target.value;
   currentPage=1;
