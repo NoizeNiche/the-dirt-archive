@@ -13,3 +13,5 @@ https://theguitaraddict.blogspot.com/2008/07/biyang-ds-9-distortion.html
 
 ## Archive photo
 - **Archive status:** **No Photo Archived**
+## Deep research verification
+The cited Effects Pedals and contemporary review sources support the exact Biyang Tonefancier DS-9 identity. Verified controls are **Level** and **Distortion**, with true bypass. Contemporary testing describes a broad distortion range from vintage-leaning blues through harder punk-oriented textures and notes a character related to a modified Boss DS-1. Exact circuit topology and semiconductor part numbers are not established in the cited sources.
