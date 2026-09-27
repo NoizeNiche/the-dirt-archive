@@ -8,7 +8,8 @@ on:
   push:
     paths:
       - 'research/RESEARCH_WORKER_KICK'
-  # Autonomous research resumed. Scheduled and kick-triggered passes remain bounded.
+      - 'research/RESEARCH_SOURCE_OVERRIDES.csv'
+  # Autonomous research resumed. Scheduled, source-change, and kick-triggered passes remain bounded.
 
 permissions:
   contents: write
