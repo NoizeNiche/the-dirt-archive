@@ -32,3 +32,6 @@ The Taurus belongs to the transparent boost/overdrive family associated with Klo
 ## Sources checked
 1. Effects Database — Clone Bro / Klon-family related entries: https://www.effectsdatabase.com/model/jhspedals/klone
 2. Effects Database — 2011 weekly overview introducing Clone Bro Taurus and Tone King: https://www.effectsdatabase.com/blog/discofreq?page=101
+## Deep research verification
+
+Effects Database places Clone Bro **Taurus** in the **Klon Centaur-derived** overdrive family and records it among Clone Bro's inaugural 2011 pedals. The surviving exact-model evidence does not securely establish the original control layout, bypass implementation, power specification or semiconductor complement, so those details remain unresolved.
