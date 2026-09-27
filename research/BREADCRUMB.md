@@ -541,3 +541,11 @@ A redundant hourly **Research evidence crew** workflow was identified. Because c
 ## Deep-research throughput checkpoint - September 27, 2026
 
 The corrected provenance-aware 400-target worker pass completed successfully and advanced **139 records** to deep research, moving the queue from **1,064 pending / 3,178 deep** to **925 pending / 3,317 deep**. Surface coverage remains complete at 4,242 records. The run used 20 parallel gatherers and preserved the strict foreman evidence gate. A larger 50-target-per-worker configuration is now committed for subsequent passes.
+
+## Deep-research throughput checkpoint - September 27, 2026, 11:37
+
+Current verified catalog state: **4,242 total / 4,242 surface-ready / 3,478 deep-researched / 764 deep-research-pending / 3,140 pictured / 3,140 complete**.
+
+The research worker team is configured for **1,000 targets per pass**, split across **20 parallel workers at 50 targets each**, with scheduled runs every 15 minutes and queued self-chaining after successful research movement. The gatherer now adds capped **exact-source-host search fallbacks** based on source URLs already attached to each record, improving obscure-builder discovery without weakening the foreman’s exact-model and multi-host admission gates.
+
+A redundant hourly evidence-crew schedule was disabled earlier; the canonical deep-research lane remains the active automated path. The stricter evidence bar remains in place: no unsupported transistor, diode, control, or revision details are invented when exact model evidence is unavailable.
