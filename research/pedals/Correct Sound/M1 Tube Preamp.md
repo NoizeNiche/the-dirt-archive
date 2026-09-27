@@ -48,3 +48,16 @@ Channel 1 provides the cleaner preamp voice with simple Gain, Tone and Level con
 
 ## Sources checked
 1. ModularGrid - Correct Sound M1 Tube Preamp
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+M1 tube preamp Correct Sound Bass Distortion Tube Dimensions 144 mm wide 120 mm high Current Draw 1000 mA / 12 V AC Price $270 This Pedal is currently available.
+
+### Verified sound evidence
+M1 tube preamp Correct Sound Bass Distortion Tube Dimensions 144 mm wide 120 mm high Current Draw 1000 mA / 12 V AC Price $270 This Pedal is currently available.
+
+### Sources checked in this pass
+1. Correct Sound M1 tube preamp - Pedal on ModularGrid: https://modulargrid.net/p/correct-sound-m1-tube-preamp

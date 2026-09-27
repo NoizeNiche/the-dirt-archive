@@ -35,3 +35,21 @@ The original Double Preamp's exact component-level specifications were not estab
 1. Cornerstone Music Gear / Brett Kingman official production
 2. Brett Kingman Gladio closer-look demo
 3. GBase historical Gladio listing
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Cornerstone Music Gear's Gladio - Double Preamp is cataloged as an overdrive pedal.
+
+### Verified version references
+- The evidence references: V2.
+
+### Verified sound evidence
+From Cornerstone Music Gear: "We’ve always been fascinated by the sound of great artists like Robben Ford or Eric Johnson (to name a few) and it’s always been our dream to recreate those sounds in a pedal.
+This is the reason why GLADIO is an Overdrive with a realistic tube-compression behavior to mimiq the Dumble famous preamps saturation, still always retaining a rich touch-sensitive response.
+It’s really transparent and with a round touch-sensitive response that helps enhancing the playing.
+
+### Sources checked in this pass
+1. Cornerstone Music Gear Gladio V2.1 Double Preamp 'Latest Edition' NEW (Authorized Dealer) - Gbase: https://www.gbase.com/gear/cornerstone-music-gear-gladio-silver

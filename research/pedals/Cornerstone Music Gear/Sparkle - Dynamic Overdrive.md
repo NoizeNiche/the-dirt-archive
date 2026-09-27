@@ -42,3 +42,22 @@ Do not merge Sparkle with later Cornerstone models such as Antique V3. Keep the 
 1. Effects Database - Cornerstone Sparkle
 2. Reverb - Cornerstone Sparkle Dynamic Overdrive
 3. Alto Volume Music Store - Sparkle Dynamic Overdrive
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Cornerstone Music Gear's Sparkle - Dynamic Overdrive is cataloged as an overdrive pedal.
+
+### Verified version references
+- The evidence references: V7.
+
+### Verified sound evidence
+The design goal was to create an extremely easy to use yet still dramatic and versatile overdrive.
+Looking at the controls, there are Volume, Gain, Bass and Treble.
+With both set at noon, the Sparkle creates a flat frequency response, When adjusting the tone controls, the sound always stays full and well-defined without ever getting muddy or gloomy.
+
+### Sources checked in this pass
+1. catalog/override source: https://reverb.com/item/10597232-cornerstone-sparkle-dynamic-overdrive
+2. Cornerstone - Sparkle Dynamic Overdrive - Alto Volume Music Store: https://www.altovolume.net/prodotto/cornestone-sparkle-dynamic-overdrive/

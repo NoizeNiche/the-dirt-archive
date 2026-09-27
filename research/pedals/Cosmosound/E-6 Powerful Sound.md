@@ -41,3 +41,25 @@ E-6 is described as saturated, harmonically rich distortion with strong sustain,
 1. Effects Database - Cosmosound E-6 Powerful Sound
 2. ToneHome - Cosmosound
 3. Classic2Vintage - Sandro Marchetti interview
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Cosmosound's E-6 Powerful Sound is cataloged as a distortion pedal.
+
+### Verified color/finish evidence
+- 7, 2026 Eurotec Black Box Faze Module, England 1980s, exc.+ Ibanez No.
+
+### Verified version references
+- The evidence references: v2, v3.
+
+### Verified sound evidence
+Dixi CBS/Arbiter Colorsound/Sola Sound CosmoSound CSE-12 Phasing E-6 Powerful Sound Dharma Sound EKO Electro-Harmonix Electronic Sounds Elka Dizzy Tone Eurotec fOXX Futuristic Sounds Goldsound Höfner/Hofner Ibanez InterFax Jen Jennings Electr.
+we created the distortions (E-6 Powerful Sound and E-8 Wild Sound) and we added other effects as well (Ed.
+Cosmosound E-7 Fearfully Sound tremolo distortion, tremolo that was also done as a separate effect as E-5 Shaking Sound).
+
+### Sources checked in this pass
+1. TONEHOME - the World of Vintage Guitar Effects Pedals - CosmoSound: https://www.tonehome.de/cosmosound/
+2. The history of Cosmosound, Silversound, Goldsound effects - Sandro Marchetti's interview (second part) - Classic2Vintage: https://www.classic2vintage.com/en/the-history-of-cosmosound-silversound-goldsound-effects-sandro-marchettis-interview-second-part/

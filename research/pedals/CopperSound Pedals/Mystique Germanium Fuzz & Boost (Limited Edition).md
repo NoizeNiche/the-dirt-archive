@@ -51,3 +51,21 @@ CopperSound describes the platform as ranging from smooth, creamy sustain to raw
 ## Sources checked
 1. CopperSound Pedals - Mystique Germanium Fuzz & Boost (Limited Edition)
 2. CopperSound Pedals - current shop
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+CopperSound Pedals's Mystique Germanium Fuzz & Boost (Limited Edition) is cataloged as a fuzz pedal.
+
+### Verified transistor/device terms
+- Germanium Fuzz.
+
+### Verified sound evidence
+This limited-edition pedal reimagines vintage-inspired fuzz tones while delivering modern flexibility and unmatched reliability.
+Designed for fuzz enthusiasts and professional guitarists, Mystique offers a dynamic platform for tone exploration.
+Fully Discrete Germanium Fuzz : Experience rich, vintage-inspired tones with incredible character and depth.
+
+### Sources checked in this pass
+1. Mystique: https://www.coppersoundpedals.com/shop/p/mystique-germanium-fuzz-boost

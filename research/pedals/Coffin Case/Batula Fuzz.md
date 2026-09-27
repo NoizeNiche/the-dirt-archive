@@ -29,3 +29,17 @@ The model is documented as fuzz. A more detailed sonic characterization is defer
 
 ## Sources checked
 1. The Dirt Archive Scrape C census: `research/SCRAPE_C_CENSUS.csv`
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Coffin Case's Batula Fuzz is cataloged as a fuzz pedal.
+
+### Verified version references
+- The evidence references: v15.
+
+### Sources checked in this pass
+1. Coffin Case Batula Fuzz - Fuzz pedal - Audiofanzine: https://en.audiofanzine.com/fuzz-pedal/coffin-case/Batula-Fuzz/
+2. Coffin Case Batula Fuzz - Fuzz guitare - Audiofanzine: https://fr.audiofanzine.com/fuzz-guitare/coffin-case/Batula-Fuzz/

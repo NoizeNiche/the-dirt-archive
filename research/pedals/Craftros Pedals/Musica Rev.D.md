@@ -56,3 +56,14 @@ The Rev.D retains the booster-to-overdrive versatility of the musica concept but
 3. Blue Guitars - musica Rev.D
 4. Efmania - Rev.B and Rev.D comparison
 5. Jake Cloudchair - musica Rev.D demo
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Craftros Pedals's Musica Rev.D is cataloged as an overdrive pedal.
+
+### Sources checked in this pass
+1. CRAFTROS MUSICA REV.D | ワタナベ楽器店 京都本店: https://www.watanabe-mi.com/honten/list/p148781/
+2. Blue Guitars ONLINE: https://store.mpc-web.jp/blueguitars/products/detail/2937/en

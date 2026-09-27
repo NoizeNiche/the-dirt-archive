@@ -39,3 +39,18 @@ Compared with E-6, E-8 is documented as more aggressive and brighter, with empha
 1. Effects Database - Cosmosound E-8 Wild Sound
 2. Classic2Vintage - Sandro Marchetti interview
 3. ToneHome - Cosmosound
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Cosmosound's E-8 Wild Sound is cataloged as a fuzz pedal.
+
+### Verified sound evidence
+we created the distortions (E-6 Powerful Sound and E-8 Wild Sound) and we added other effects as well (Ed.
+Cosmosound E-7 Fearfully Sound tremolo distortion, tremolo that was also done as a separate effect as E-5 Shaking Sound).
+Consequently I created a rack-style spring reverb module with multiple inputs and volume and tone controls for use with guitars and keyboards (CSE-10).
+
+### Sources checked in this pass
+1. The history of Cosmosound, Silversound, Goldsound effects - Sandro Marchetti's interview (second part) - Classic2Vintage: https://www.classic2vintage.com/en/the-history-of-cosmosound-silversound-goldsound-effects-sandro-marchettis-interview-second-part/

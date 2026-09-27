@@ -49,3 +49,16 @@ Manufacturer-derived descriptions reproduced by Japanese retailers emphasize a d
 2. Music Plant - Albit Cranetortoise DD-1
 3. Mercari - Albit Cranetortoise DD-1
 4. eBay - Albit Cranetortoise DD-1
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Cranetortoise by Albit's DD-1 Dual Distortion is cataloged as a distortion pedal.
+
+### Verified version references
+- The evidence references: v2.
+
+### Sources checked in this pass
+1. ALBIT Cranetortoise DD-1 Dual Distortion - メルカリ: https://jp.mercari.com/item/m70673531230

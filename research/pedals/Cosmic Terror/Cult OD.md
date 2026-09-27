@@ -36,3 +36,21 @@ Cult OD is voiced as a large, saturated overdrive with substantial low-end autho
 ## Sources checked
 1. Cosmic Terror - Cult OD
 2. Cosmic Terror - effects shop/archive
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+CULT OD - Cosmicterrorcabs CULT OD 222,00 € Out of stock Out of stock This product is currently sold out.
+
+### Verified color/finish evidence
+- Encased in a chemically etched, black patina-treated enclosure and finished with smooth oiling, each unit bears its own distinct character—a relic forged by hand, not stamped by machine.
+
+### Verified sound evidence
+The Cult Overdrive is the hell-forged evolution of the legendary Zendrive Overdrive—reborn for players who crave monolithic tone, seismic weight, and crystal clarity in the lowest tunings imaginable.
+Voiced to tame harsh feedback and avoid the sterile sizzle of lesser drives, the Cult delivers a cataclysmic overdrive that hits like a tectonic shift.
+Its touch-sensitive response makes it feel less like a pedal and more like a living, breathing extension of your instrument.
+
+### Sources checked in this pass
+1. CULT OD - Cosmicterrorcabs: https://cosmicterrorcabs.com/products/cult-od/

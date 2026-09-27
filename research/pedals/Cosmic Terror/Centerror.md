@@ -38,3 +38,21 @@ The Centerror emphasizes added low-end and midrange weight while retaining a foc
 ## Sources checked
 1. Cosmic Terror - Centerror
 2. Cosmic Terror - effects shop/archive
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+The secret sauce of the Centerror is its ability to send an audio signal to a tube amp and replicate that sweet natural overdriven sound that normally only happens when you take a tube amp at very high levels to it’s max and get the power tubes AND output transformer cooking.
+
+### Verified color/finish evidence
+- The enclosure is carefully chemically etched, black patina treated with an smooth wax oiled finished surface which adds lots of unique character to each pedal.
+
+### Verified sound evidence
+As usual we added a lot more bass and mid response to the circuit, which makes the unit more stable and suitable for down tuned guitars, basses and heavy riffin’ as well.
+Having this in front of any other drive pedal makes them sound much warmer and way more present.
+The secret sauce of the Centerror is its ability to send an audio signal to a tube amp and replicate that sweet natural overdriven sound that normally only happens when you take a tube amp at very high levels to it’s max and get the power tubes AND output transformer cooking.
+
+### Sources checked in this pass
+1. Centerror - Cosmicterrorcabs: https://cosmicterrorcabs.com/products/centerror/

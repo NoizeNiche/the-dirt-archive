@@ -1,0 +1,25 @@
+{
+  "builder": "Cosmosound",
+  "pedal": "Distortion Whau-Whau",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 2,
+  "sources": [
+    {
+      "url": "https://www.diystompboxes.com/smfforum/index.php?topic=124397.0",
+      "title": "Cosmosound Distortion Whau-Whau Repeat pedal",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.diystompboxes.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://www.hendrixguitars.com/Am141.htm",
+      "title": "MEAZZI Whau Whau-Distortion",
+      "h1": "",
+      "excerpt": "MEAZZI Whau Whau-Distortion   MEAZZI Whau Whau - Distortion Vintage Rare 1970s (made in Italy) Great Fuzz sounds & Wah pedals In perfect working order \u2013 no crackly pots or noisy switch issues Built in Italy by Caldironi Musica (Milan) in the 1970s, also available by other brand names: GOLDSOUND Distortion Whau-Whau MEAZZI Distortion Whau-Whau Cosmosound Distortion Whau-Whau G.I.S. Distortion Whau-Whau https://youtu.be/BnFulS7se0U https://youtu.be/KprMjvVD2rI",
+      "host": "www.hendrixguitars.com",
+      "source_kind": "other"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}

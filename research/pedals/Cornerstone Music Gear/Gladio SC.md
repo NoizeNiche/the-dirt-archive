@@ -37,3 +37,24 @@ Planet Guitar describes Gladio SC as having been developed from the larger Big G
 1. Cornerstone Music Gear
 2. GearAffe - Gladio SC
 3. Planet Guitar - Cornerstone interview
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Videos Members Loading notes… View members, notes & photos → More Overdrive pedals M-EQ Driver Origin Effects Available Halcyon Blue Overdrive Origin Effects Available © 2026 Alpha Exposure LLC.
+
+### Verified color/finish evidence
+- Videos Members Loading notes… View members, notes & photos → More Overdrive pedals M-EQ Driver Origin Effects Available Halcyon Blue Overdrive Origin Effects Available © 2026 Alpha Exposure LLC.
+
+### Verified diode terms
+- LED.
+
+### Verified sound evidence
+Videos Members Loading notes… View members, notes & photos → More Overdrive pedals M-EQ Driver Origin Effects Available Halcyon Blue Overdrive Origin Effects Available © 2026 Alpha Exposure LLC.
+Jan 18, 2021 Cornerstone Music Gear Gladio SC Preamp - Dumble Style Overdrive Pedal YouTube Max Guitar Store YouTube
+
+### Sources checked in this pass
+1. Gearaffe - Discover Your Perfect Guitar Gear: https://www.gearaffe.com/p/gladio-sc
+2. Cornerstone Gladio SC Single Preamp – Thomann Italia: https://www.thomann.it/cornerstone_gladio_sc_single_preamp.htm?offid=1&

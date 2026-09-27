@@ -51,3 +51,24 @@ CostaLab describes Moon Drive as a harmonically rich, strongly characterful Muff
 ## Sources checked
 1. CostaLab - Moon Drive
 2. CostaLab - Moon Drive manual
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+The Moon Drive is equipped with the always-active Costalab Class A buffer , designed to preserve signal integrity, enhance note definition, and eliminate radio interference.
+
+### Verified version references
+- The evidence references: MKII.
+
+### Verified transistor/device terms
+- GERMANIUM fuzz.
+
+### Verified sound evidence
+Built around four gain stages , two of which host dedicated clipping circuits, it delivers a rich, harmonic-laden tone with a bold, unmistakable personality.
+Every note blooms with texture and power.
+Tone control is handled by a classic subtractive EQ circuit: the more you turn the knob up, the more the pedal opens up, letting a wider range of frequencies through and revealing the true voice of the Sun Drive.
+
+### Sources checked in this pass
+1. Moon Drive | CostaLab: https://www.costalab.com/en/shop/product/moon-drive

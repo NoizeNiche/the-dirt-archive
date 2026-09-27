@@ -50,3 +50,27 @@ The Low Frequency Destroyer is voiced for deep, authoritative distortion while p
 2. RockBoard PedalPedia - Low Frequency Destroyer
 3. Reverb - Cosmic Terror Effects Low Frequency Destroyer
 4. TalkBass - Cosmic Terror Low Frequency Destroyer
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Every Cosmic Terror effect is a rare creation, shaped by a passion for both parts and sound The Prophecy of Low Frequencies (after the Book of Ezekiel) And lo, I beheld a circuit forged in shadow, and its name was The Low Frequency Destroyer.
+
+### Verified color/finish evidence
+- Handcrafted in small batches in Dortmund, Germany, the unit is housed in a chemically etched enclosure with a unique patina finish.
+
+### Verified diode terms
+- LED, Silicon Diode.
+
+### Verified sound evidence
+The pedal includes a dedicated blend control to mix the dry signal with the distorted path, ensuring that the fundamental bass frequencies remain intact even at maximum saturation.
+Its high-output circuit is designed to drive power amplifiers and heavy rigs with massive volume and string articulation.
+Our version of this classic isn’t just a bass distortion pedal — it’s the living incarnation of your wildest bass dreams.
+
+### Sources checked in this pass
+1. Low Frequency Destroyer by Cosmic Terror | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/Cosmic-Terror/Low-Frequency-Destroyer/8397740823/
+2. catalog/override source: https://reverb.com/item/95504646-cosmic-terror-effects-low-frequency-destroyer
+3. catalog/override source: https://www.talkbass.com/classifieds/cosmic-terror-low-frequency-destroyer.1685605/
+4. Low Frequency Destroyer - Cosmicterrorcabs: https://cosmicterrorcabs.com/lowfrequencydestroyer/

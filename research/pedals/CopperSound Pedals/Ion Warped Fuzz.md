@@ -49,3 +49,18 @@ ION ranges from high-frequency resonant, laser-like sweeps to sub-octave square-
 ## Sources checked
 1. CopperSound Pedals - Ion Warped Fuzz
 2. CopperSound Pedals - current shop
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+CopperSound Pedals's Ion Warped Fuzz is cataloged as a fuzz pedal.
+
+### Verified sound evidence
+Hypercharge Your Signal with Interstellar Space Lasers ION is a pocket-sized, PLL-style laser fuzz designed to be immediately inspirational.
+CopperSound Pedals · Ion Warped Fuzz Three Modes of Cosmic Flight The Mode toggle adjusts the responsiveness of the optical f
+
+### Sources checked in this pass
+1. Warped Laser Fuzz | CopperSound Ion: https://www.coppersoundpedals.com/shop/p/ion-warped-fuzz
+2. Stream CopperSound Pedals | Listen to Ion Warped Fuzz playlist online for free on SoundCloud: https://soundcloud.com/coppersoundpedals/sets/ion-warped-fuzz

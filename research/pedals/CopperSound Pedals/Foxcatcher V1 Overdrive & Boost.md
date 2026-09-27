@@ -47,3 +47,16 @@ The V1 is described as a transparent, amp-like overdrive derived from the Bluesb
 1. CopperSound Pedals - Foxcatcher V1 Overdrive & Boost
 2. Effects Database - CopperSound Pedals Foxcatcher
 3. CopperSound Pedals outlet listing for Foxcatcher V1
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+CopperSound Pedals's Foxcatcher V1 Overdrive & Boost is cataloged as an overdrive pedal.
+
+### Verified version references
+- The evidence references: V1.
+
+### Sources checked in this pass
+1. Foxcatcher V1 Overdrive & Boost: https://coppersoundpedals.squarespace.com/shop/p/foxcatcher-v1-overdrive-boost

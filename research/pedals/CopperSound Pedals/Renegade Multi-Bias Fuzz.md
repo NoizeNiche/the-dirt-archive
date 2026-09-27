@@ -53,3 +53,24 @@ The up position provides a fuller, more vintage-oriented fuzz; the down position
 1. CopperSound Pedals - Renegade Multi-Bias Fuzz
 2. CopperSound Pedals - Renegade manufacturer video
 3. one thousand pedals - Renegade Multi-Bias Fuzz
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Unleash Powerful Fuzz in a Mini Pedal Introducing the Renegade Fuzz Pedal —a dynamic, no-frills fuzz with a compact design that packs a punch!
+
+### Verified version references
+- The evidence references: MK1.
+
+### Verified transistor/device terms
+- silicon transistors.
+
+### Verified sound evidence
+This isn't just a pedal; it's a compact sonic weapon designed to electrify your tone and transport you to the heart of legendary fuzz.
+Feel the raw power of high-gain silicon transistors pushing your sound to the edge, delivering an intense, full-bodied fuzz with endless sustain.
+Flip it up for a classic, thick fuzz reminiscent of vintage masterpieces, or toggle it down to unlock a modern, gated fuzz that crackles with an exhilarating electric sizzle.
+
+### Sources checked in this pass
+1. Multi-Bias Fuzz Pedal | Renegade | CopperSound: https://www.coppersoundpedals.com/shop/p/renegade-multi-bias-fuzz

@@ -58,3 +58,27 @@ The documented response runs from transparent clean boost to medium-gain overdri
 3. Pedal of the Day - Baker's Dozen Overdrive
 4. Reverb - Baker's Dozen Overdrive
 5. LEP International - Baker's Dozen Overdrive
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Couch Electronics's Baker's Dozen Overdrive is cataloged as an overdrive pedal.
+
+### Verified color/finish evidence
+- Taking its cues from the classic Blues Breaker, this small, baby blue beauty was created with a lot of brainstorming, more than a few design iterations, and, thankfully, not too many failed prototype enclosures.
+
+### Verified version references
+- The evidence references: MKII.
+
+### Verified sound evidence
+couch electronics - Baker's Dozen overdrive
+The Couch Electronics Baker’s Dozen Overdrive is a bit bigger than its predecessor, but still manages to defy expectations and crush preconceived notions with ease.
+This pedal ranges from a clean boost to medium-gain overdrive , maintains a fairly flat EQ response, includes a tone control to tame high frequencies, and a master volume to help it scream quietly and whisper loudly.
+
+### Sources checked in this pass
+1. catalog/override source: https://reverb.com/item/87240609-couch-electronics-baker-s-dozen-overdrive-pedal
+2. couch electronics - Baker's Dozen overdrive | Couch Electronics | Analog Guitar Pedals: https://www.couchelectronics.com/pedals/p/bakers-dozen
+3. Couch Electronics Baker's Dozen Overdrive - Pedal of the Day: https://www.pedal-of-the-day.com/2024/12/12/couch-electronics-bakers-dozen-overdrive/
+4. Couch Electronics - Baker's Dozen Overdrive &ndash; LEP INTERNATIONAL: https://lep-international.jp/products/couch-electronics-bakers-dozen-overdrive

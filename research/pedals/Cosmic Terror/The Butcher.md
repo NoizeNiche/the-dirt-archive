@@ -50,3 +50,24 @@ The Butcher covers sputtery, gated fuzz at the most starved setting, balanced vi
 1. Cosmic Terror - The Butcher Version Three
 2. Reverb - Cosmic Terror Butcher 2022 Cream White
 3. Cosmic Terror - Butcher Fuzzface official demo
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Add to cart The Butcher V3 pedal is made to order and ships within 2-3 weeks of your order.
+
+### Verified color/finish evidence
+- After etching, a deep black patina is carefully applied by hand to enhance the contrast and bring out the fine details of the design.
+
+### Verified version references
+- The evidence references: V3.
+
+### Verified sound evidence
+The Butcher V3 is a fuzz circuit tuned for pure sonic destruction — a fuzzface on steroids, soaked in filth, loudness, and crushing low-end.
+Designed for doom, stoner, sludge, and everything heavy, this beast is not your average vintage fuzz.
+It will shake your walls harder than any Fuzz Face-style circuit you’ve ever plugged into.
+
+### Sources checked in this pass
+1. BUTCHER - Cosmicterrorcabs: https://cosmicterrorcabs.com/butcher/

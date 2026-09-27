@@ -51,3 +51,16 @@ CopperSound describes three gain ranges from touch-sensitive low-gain breakup th
 2. CopperSound Pedals - current shop
 3. Guitar Center - Foxcatcher V2
 4. one thousand pedals - Foxcatcher V2
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+CopperSound Pedals's Foxcatcher V2 Overdrive is cataloged as an overdrive pedal.
+
+### Verified version references
+- The evidence references: V2.
+
+### Sources checked in this pass
+1. Transparent Overdrive Pedal | Foxcatcher V2 | CopperSound: https://www.coppersoundpedals.com/shop/p/foxcatcher-v2

@@ -42,3 +42,14 @@ CopperSound's current page identifies the current form as Strategy V2. Earlier l
 1. CopperSound Pedals - Strategy Overdrive & Preamp
 2. Guitar World - CopperSound Strategy V2
 3. Premier Guitar - CopperSound Launches the Strategy V2
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+CopperSound Pedals's Strategy Overdrive & Preamp is cataloged as an overdrive pedal.
+
+### Sources checked in this pass
+1. Strategy Overdrive & Preamp: https://www.coppersoundpedals.com/shop/p/strategy-preamp-overdrive?email=2027
+2. COPPERSOUND PEDALS Strategy Overdrive & Preamp (R7A015603) - eBay: https://www.ebay.com/itm/397817065932

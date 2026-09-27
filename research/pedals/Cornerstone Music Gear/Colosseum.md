@@ -40,3 +40,13 @@ Cornerstone describes the Colosseum as a community pedal rather than a literal c
 1. Cornerstone Music Gear official Colosseum material
 2. Guitar World - Cornerstone Colosseum
 3. Cornerstone Music Gear product catalog
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Cornerstone Music Gear's Colosseum is cataloged as an overdrive pedal.
+
+### Sources checked in this pass
+1. Cornerstone asked players for pedal ideas &ndash; and turned their two-in-one Klon/Bluesbreaker stompbox dreams into a reality | Guitar World: https://www.guitarworld.com/news/cornerstone-colosseum-pedal

@@ -46,3 +46,24 @@ CostaLab describes a high-gain Muff-style sound with increased midrange intellig
 ## Sources checked
 1. CostaLab - Custom Muff Classic
 2. CostaLab - Custom Muff manual
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+The Costalab Bad Angel is a highly versatile distortion pedal, engineered to deliver control, character, and clarity, even at extreme gain levels.
+
+### Verified version references
+- The evidence references: MKII.
+
+### Verified diode terms
+- silicon diode.
+
+### Verified sound evidence
+This is a true rock tone machine , perfectly suited to both humbuckers and single coils.
+It offers massive gain levels paired with high-definition detail .
+In solos, the Custom Muff produces a rich, cutting tone that slices through the mix with ease.
+
+### Sources checked in this pass
+1. Custom Muff Classic | CostaLab: https://www.costalab.com/en/shop/product/custom-muff-classic

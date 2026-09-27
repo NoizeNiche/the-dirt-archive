@@ -39,3 +39,18 @@ Droog extends the Cult overdrive into a performance-oriented feedback tool, allo
 ## Sources checked
 1. Cosmic Terror - Droog / Dual Chaos Machine
 2. Cosmic Terror - effects shop/archive
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+DROOG - Dual Chaos Machine - Cosmicterrorcabs DROOG - Dual Chaos Machine 249,00 € Out of stock Out of stock This product is currently sold out.
+
+### Verified sound evidence
+Release the switch, and your tone snaps back—no mess, no reset, just pure, on-demand sonic anarchy .
+Momentary Chaos – Add bursts of feedback without compromising your main tone.
+It turns your existing gear into a dynamic, expressive toolkit for exploration.
+
+### Sources checked in this pass
+1. DROOG - Dual Chaos Machine - Cosmicterrorcabs: https://cosmicterrorcabs.com/products/droog-cult-odfeedback-looper/

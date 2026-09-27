@@ -54,3 +54,22 @@ Cosmic Terror describes Sonic Rat as a tighter, high-gain distortion with increa
 1. Cosmic Terror - The Sonic Rat
 2. Kleinanzeigen - Cosmic Terror Sonic Rat listing
 3. Cosmic Terror product description / builder documentation
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Watch out for upcoming Rat Style pedals in 2027 Our Sonic Rat is a different breed of distortion.
+
+### Verified color/finish evidence
+- I highly recommend it for musicians who are looking for a low growl high gain black metal sound with the ability to step into Sunn O))) drone territories.
+- The new enclosure is chemically etched, black patina treated with an smooth oiled finished surface which adds lots of unique character to each pedal.
+
+### Verified sound evidence
+Watch out for upcoming Rat Style pedals in 2027 Our Sonic Rat is a different breed of distortion.
+It’s a crossing Rat distortion circuit stacked with the tone shape and output power of The Sonic Doom Fuzz.
+The Rat distortion part is based on a Cosmic Terror modded Rat with the legendary LM308 chip, an Asymmetrical gain clipping and more low end power.
+
+### Sources checked in this pass
+1. THE SONIC RAT - Cosmicterrorcabs: https://cosmicterrorcabs.com/sonic-rat/

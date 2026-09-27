@@ -38,3 +38,17 @@ The family is associated with a vocal, mid-forward wah character paired with gri
 1. Effects Database - Cosmosound Distortion Whau-Whau
 2. Effects Database - Gun Whau Whau family relationships
 3. Classic2Vintage - Cosmosound / Silversound / Goldsound history
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Cosmosound's Distortion Whau-Whau is cataloged as a distortion pedal.
+
+### Verified sound evidence
+Distortion Whau-Whau https://youtu.be/BnFulS7se0U https://youtu.be/KprMjvVD2rI
+
+### Sources checked in this pass
+1. Cosmosound Distortion Whau-Whau Repeat pedal: https://www.diystompboxes.com/smfforum/index.php?topic=124397.0
+2. MEAZZI Whau Whau-Distortion: https://www.hendrixguitars.com/Am141.htm
