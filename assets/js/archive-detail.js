@@ -103,6 +103,15 @@ function renderMarkdown(md){
     });
   };
   for(const line of lines){
+    const sourceMatch=line.match(/^\s*\d+\.\s+(https?:\/\/[^\s]+)(?:\s+[—-]\s+(.+))?\s*$/);
+    if(sourceMatch&&!skip){
+      if(inList){html+='</ul>';inList=false}
+      const rawUrl=sourceMatch[1].replace(/[),.;!?]+$/,'');
+      const label=rawUrl.replace(/^https?:\/\//,'').split('/')[0];
+      const description=sourceMatch[2] ? ' — '+inline(sourceMatch[2]) : '';
+      html+='<p class="sourceRow"><a class="sourceLink" href="'+rawUrl+'" target="_blank" rel="noopener noreferrer">'+esc(label)+'</a>'+description+'</p>';
+      continue;
+    }
     if(/^## /.test(line)){
       if(inList){html+='</ul>';inList=false}
       const heading=line.slice(3).trim().toLowerCase();
