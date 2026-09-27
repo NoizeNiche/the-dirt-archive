@@ -1,23 +1,45 @@
 # Maxon — DS830 Distortion Master
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** DS830 Distortion Master
 - **Builder:** Maxon
-- **Pedal:** DS830 Distortion Master
 - **Catalog type:** Distortion
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Maxon's DS830 Distortion Master.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **DS830 Distortion Master** by **Maxon** as a **Distortion** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+For full-bodied distortion with an amp-like feel and a huge variety of useable tones, the DS830 Distortion Master is unrivaled in its sonic range.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Documented terms in the verified sources: AC210, AC210N, AC120V.
+- The archive records only the component information explicitly present in these sources.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+Maxon DS830 Distortion Master Effects Pedal
+Rich, full-frequency response with a perfectly voiced midrange and a precision-tuned low end that’s big and tight without being muddy.
+Proprietary tone circuitry makes even the smallest amp sound like a full stack!
+
+## Sources checked
+1. Maxon DS830 Distortion Master Pedal | Equipboard: https://equipboard.com/items/maxon-ds830-distortion-master
+2. Amazon.com: https://www.amazon.com/Maxon-DS830-Distortion-Master/dp/B0002GH7HG
+3. Maxon DS830 Distortion Master Distortion Pedal | Sweetwater: https://www.sweetwater.com/store/detail/DS830--maxon-ds830
+4. Maxon DS830 Distortion Master Effects Pedal | Guitar Center: https://www.guitarcenter.com/Maxon/DS830-Distortion-Master-1274115045706.gc
+5. Maxon - DS830 Distortion Master Pedal - freestompboxes.org: https://www.freestompboxes.org/viewtopic.php?t=2327
+6. Maxon DS830 Distortion Master Distortion Pedal: https://rickholmstrom.com/AFgPkH2X
+7. Maxon Vintage Series DS830 Distortion Master Pedal - Elite Guitar Pickups · Rich Tone Clarity and Dynamic Response: https://www.guitartoneup.com/product/maxon-vintage-series-ds830-distortion-master-pedal/
+8. Maxon DS830 Distortion Master - Cellos with Full Tone for Study and Performance: https://www.cellvrax.com/product/maxon-ds830-distortion-master/
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

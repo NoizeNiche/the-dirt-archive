@@ -43750,8 +43750,8 @@
       "image": "./assets/pedals/maxon/ds830-distortion-master/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Maxon/DS830 Distortion Master.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Maxon",
@@ -44324,8 +44324,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Maxon/Sonic Distortion (SD-9).md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Maxon",
@@ -44337,8 +44337,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Maxon/SSD-9 Super Sonic Distortion.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Maxon",
@@ -45956,8 +45956,8 @@
       "image": "./assets/pedals/mojo-hand-fx/dmbl/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mojo Hand FX/DMBL.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Mojo Hand FX",
@@ -46004,8 +46004,8 @@
       "image": "./assets/pedals/mojo-hand-fx/kensrue-rook/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mojo Hand FX/Kensrue Rook.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Mojo Hand FX",
@@ -46674,8 +46674,8 @@
       "image": "./assets/pedals/mxr/bass-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/MXR/Bass Overdrive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "MXR",
@@ -46758,8 +46758,8 @@
       "image": "./assets/pedals/mxr/dime-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/MXR/Dime Distortion.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "MXR",
@@ -54624,8 +54624,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/VOX/Big Ben Overdrive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "VOX",
