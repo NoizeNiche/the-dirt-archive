@@ -38820,11 +38820,13 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/industrialectric/squarewave-generator/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/industrialectric/squarewavegenerator",
       "research_record": "./research/pedals/Industrialectric/Squarewave Generator.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://files.effectsdatabase.com/gear/pics/industrialectric_squarewavegenerator_002.jpg",
+      "image_source_page": "https://www.effectsdatabase.com/model/industrialectric/squarewavegenerator"
     },
     {
       "company": "J. Rockett Audio Designs",
@@ -46615,11 +46617,13 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/mxr/distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/MXR/Distortion+.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://cdn11.bigcommerce.com/s-n26aknlnlm/images/stencil/1280x1280/products/593/6217/11104000001.MAIN__35453.1663874793.jpg?c=2",
+      "image_source_page": "https://www.jimdunlop.com/mxr-distortion/"
     },
     {
       "company": "MXR",
@@ -47618,12 +47622,12 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/nux-audio-nux/morning-star/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/NUX Audio / NUX/Morning Star.md",
       "research_level": "surface",
       "deep_research_status": "PENDING",
-      "image_source_url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/ci/a41df3882e27eac4/1790548210197/sz82jH.3ALg7qQ_omcmeRfakTl6kUB2InohwiPqPvpk-1790548210-1.3.1.1-b62lwif2gJ6YkMEfNCgJUx06XTUGOB1mpRHSZ2yhU36012S2aE2.urhGlSyNxCVba4HLpeHG6laNER.NEFMzG2p_2zd1kv7DEhEyr3MHuWuWHztHhwMQJYW6ZsTeZyZylrVIuJrmI9we52X_J6p5PzD2jwn2jZeeKBt5KgPOoxVFjK.BieiMLT44akQr_4uT9.vmYT3L6qo49zlDYbK5TsfHqypU9BMhoULQSDFiMGueBNu6USq0QyMToFUkJ_panJoS7K7OawbeyLh0wnNLiysquPzBiX8FKJ5JvDAvjgYOyU0WqMi0Fx2ffQtJAa1M4MIkkrIgHipqKTFzx8.Bg8vxtf_6ntxnSGgh8JgFbMnB8QSRdXSdkapUgyXQFlrv21aM5FWnEechpv7.EAj9UKOkNx1hLO0hJBHIvxELCdNfVBYS740zrH_6KeT6IDkmVTQ4csdDytVmwRgZR.G1oyNmYMsUbUHT2r8ggZ9W8utTrDHzaJaFwTb1U.h0B0TH8N2AWUdevNlgEqL.wI8KktmuT45eG_jaa6Aaga5FDzyygMwFXaBPQ.c0rBz5z.Nf3zH8gUMvDP2xuMV.G1tGB10U1..ccw.DntvSdCZhm31fB.liVzMygStARhHESk_7GBEfYkuGpllCwhTcgOlz27OXYYjgQ8XhGg5n5gSrhCIEHrYViGU5fNzBiS7Dqu0Pfqm0LhgfpDgieHV5.gTBRQhXl7Ec.taV0Tk8XVeE_eI",
+      "image_source_url": "https://rvb-img.reverb.com/i/s--t-84T-uh--/gravity=auto,quality=medium-low,width=200,height=200,format=jpeg/n1xrih5wc4x8cu8axb4r.jpg",
       "image_source_page": "https://reverb.com/item/93902525-nux-nod-3-morning-star-overdrive-excellent-condition"
     },
     {
@@ -47746,7 +47750,9 @@
       "source_page": null,
       "research_record": "./research/pedals/NUX Audio / NUX/Tube Man MKII.md",
       "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "deep_research_status": "PENDING",
+      "image_source_url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/ci/a41e4ffecfeeabe9/1790551997487/KGkQIOpeO4uGGeTEPeY.4EwpqRZfuTj4UJ3vRZL9k9c-1790551997-1.3.1.1-GJNPXRA3Uv6nLj2oSGcNzrwreHnfdB9a8pvA7sGD6QBcndeOjSR582V38WRl6cuxJvlEJ4wMwLrv8pNXoZYHyfJeR9QAyDGGz5CCZZ_rJlhIMbJ8VuEQI5hJKMZ1q6VdLAamIqkzbpyuG9.atJ.tLn4GtFFVwCV6Nz2csTKKg.tCQtTabdIsMC8Y_heF6U3yUqtaydRgTYm.FDJe5Z8zi6cHKtDy_RkfDCpUfTmh4ktOhpZl1.54tp944lfXP8to7FNHKetGRE2BywYGFddnqSaLHdEYTYnmGh_LKxBz9jKS3GgDFk3ElxDzZRnmEM3a0HzC7gBKtCWowD1UT5rcYzqXqoEkObjsIm5n6G2iPVYOzXl9A5hKADHw4OYD1fybDsvZKKj36BMLzaiv9Uk1r_JDcc1AuSxUqA7nIfi8mjxjwoVSBRjW0I.KwhdIcpyfVwMHYq5x8UOIhRdKjW9whiO.hAebAvAOQlT7EosUzyMrmP35I1AvcW0ojhO5NhN7mjShfdjRjJ1Em5KrEkXkNhwdjJT2TsxXI7JWshHEa4K.hfpbw_rNl5kSU1_q8gr_4lvwaqwPxgEwWNcRlnlvEaFKvXgO7Egb7RsSHlpIChLG3DvxaXaVUn2V1CUp0ePio7LnIgvtLgnjpR5GlCwltxJVmGy8NSlzRub3D.FFJcColy97VPM7W1Qlsc7bZN.AXAV5AH4qA1VLwpnnACNcNMIlAnTUf84_yeqqfQT5wDU",
+      "image_source_page": "https://reverb.com/item/92334247-nux-nod-2-tube-man-mkii-2010s-green"
     },
     {
       "company": "NUX Audio / NUX",
@@ -49185,11 +49191,13 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/prescription-electronics/dual-tone/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Prescription Electronics/Dual-Tone.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://rvb-img.reverb.com/i/s--wqHPoRNM--/quality=medium-low,height=400,width=400,fit=cover,gravity=bottom/erk0enrrvv8uywwrtumd.jpg",
+      "image_source_page": "https://reverb.com/item/80893672-prescription-electronics-dual-tone"
     },
     {
       "company": "Prescription Electronics",
@@ -49221,11 +49229,13 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/prescription-electronics/frantic-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Prescription Electronics/Frantic Fuzz.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://files.effectsdatabase.com/gear/thumbs/prescription_franticfuzz-messe2009_001.jpg",
+      "image_source_page": "https://www.effectsdatabase.com/model/prescription/franticfuzz"
     },
     {
       "company": "Prescription Electronics",
@@ -49349,11 +49359,13 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/proco-sound/solo/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/ProCo Sound/SOLO.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://static.audiofanzine.com/img/interface/menu/univers/white/394.png?w=52&h=52&fm=png&s=16752d8ac22fbca0fb6f77f62c7a3739",
+      "image_source_page": "https://en.audiofanzine.com/guitar-distortion-overdrive-fuzz/proco-sound/rat-solo/user_reviews/"
     },
     {
       "company": "ProCo Sound",
@@ -49440,7 +49452,9 @@
       "source_page": null,
       "research_record": "./research/pedals/Radial Engineering / Tonebone/Classic V9.md",
       "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "deep_research_status": "PENDING",
+      "image_source_url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/ci/a41e511a8c2c606f/1790552042900/HH41Zts58mQl7BJyFscTWQczILRyRRkVa1WOChVm6IY-1790552042-1.3.1.1-BrTcnS.a.dLu9jYsM5vsu3Mv6jEHlvyu6jimXvXHhZdPZ0WqTzBEz40QFC0WfPQ2s5YYyabXp08YqIpvzzqObsTwcc3VBPHo3Hs_U8_uPkECE.wjAoaGLxk7fwYTj_DIOsB_95gd8ZtPSZrZXIibaSALCEZtbC7zUdgC6Ptedn1NqYxh9CJBOLEYSv2o7NerJKVP9T2jLO_ZIqUhxZUwqOoGixBD4R3uGDx075oFIczz6TSnX70MsdNKbM.vp9eajjPkMvUhduWZFRUO9dnzAjATEcz36tQdQXi7zlUztRjPa1AujugiHWH2o62Dmsrb8PmJrA1jQRAvK16_dZd_ePSaq2xt6CF2j.M7M_E01jeImNhMjCokUd4JuNYKT6oFiqnC_eyeN43qwMxdnYhfGGQChKFlgiW2tYpbGYBj4iTDv5HMBhl7jNCyVYCFJgE3sFWHJFnLicsZpw6.mFHSEA_rV8DVdRHBfYyqJ2CU81Mwwy6O2qRjUpQwUAFR2NqcVvKlRUvdeVlhAx.ey8nrfLrEmFbiZ3XY6dsLkI2hmw.neh39D0USay9Qsq_mgTR9NV3yzj9INcTx3u5ormoWurpgasVGpuXwl9a15nQm0xrV0n0FwwB656TML.KR9IbS1FQirLGNqTA.S31_laDJfRicwjm4LJiz9d8ovdYw_lxmxIrD2uSQuGryxBax3qPpzrSO6Jt7baVjMx_p.sDHEh3GQMuTfV.zdQP1vjljV8I",
+      "image_source_page": "https://reverb.com/item/97644518-radial-tonebone-classic-v9-distortion-pedal-2010s-black-grey-purple"
     },
     {
       "company": "Radial Engineering / Tonebone",
@@ -51510,11 +51524,13 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/stomp-under-foot/the-shag-mkii/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Stomp Under Foot/The Shag MkII.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://r.bing.com/rp/3sti29Lev-2zsaRcJkEL_QbLxuU.png",
+      "image_source_page": "https://reverb.com/item/92211681-stomp-under-foot-the-shag-mkii-2024-silver"
     },
     {
       "company": "Stomp Under Foot",
@@ -51522,11 +51538,13 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/stomp-under-foot/the-shag-mkiii/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Stomp Under Foot/The Shag MkIII.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://files.effectsdatabase.com/gear/pics/stompunderfoot_shag_001.jpg",
+      "image_source_page": "https://www.effectsdatabase.com/model/stompunderfoot/shag/mk3"
     },
     {
       "company": "Stomp Under Foot",
@@ -51534,11 +51552,13 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/stomp-under-foot/tri-muff/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Stomp Under Foot/Tri-Muff.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://files.effectsdatabase.com/gear/pics/stompunderfoot-bigmuff_trimuff-70v1_001.jpg",
+      "image_source_page": "https://www.effectsdatabase.com/model/stompunderfoot/bigmuff/trimuff"
     },
     {
       "company": "Stomp Under Foot",
@@ -51558,11 +51578,13 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/stomp-under-foot/violet-menace/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Stomp Under Foot/Violet Menace.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://files.effectsdatabase.com/gear/pics/stompunderfoot-bigmuff_violetmenace-mini_001.jpg",
+      "image_source_page": "https://www.effectsdatabase.com/model/stompunderfoot/bigmuff/violetmenace"
     },
     {
       "company": "Stomp Under Foot",
@@ -52817,7 +52839,9 @@
       "source_page": null,
       "research_record": "./research/pedals/ThorpyFX/The KUDU — Overdrive.md",
       "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "deep_research_status": "PENDING",
+      "image_source_url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/ci/a41e53e2bfe5cc1a/1790552156796/F7CQVs.g.MzcSBC5I.msjsIbJlRAEd1VK2LogooGoMs-1790552156-1.3.1.1-aDg9FrDe6i2H6OWnlvvTcAhZdLs4Dy6HTJM4RGuVs1j8x3xoP7Z4vfBVnrgJEbnkdQehfsWVW3HsWXHKcOiXN4LlnfkQ6_LuKbtnVWKjMAnd.i2pscmVPezAtgpWhpkHslALKalJNcV8xauXwYlLGFiQ_Ia.TnA9e0zUMls4V3lOea3GMcToR3FCuLYEqhYVmLjY5cesL2q9W_5PoQkwtszw8uJeNl6CEUQvV.DJnIgeH91vuhnSbQ2mY5zCjfsloZ_Q6QYaBL.2KPVklNtR32ZmEiMEsgPRjBbS4J3lxwEGToLCn7BThqZXE_CHf5_J6cWf5tadCLa_Bez7tOPFtK15kafOMQHojVPXgtcqqWdB4RPXltVD4CJMyTOr_ULYx2tRxbmR6Gbs6nmYH5fniUoJauaskX7cp2LClkBNLsGdJc2g7vn6OoYXqJ4rOCqXQEFLQ94lBHwTC3p5EKZ84v7N84G_2urziorKOB8WrnHfBIVQ2QE0iV3xfLkfsdEJLMHAzbts2q8eifvnAcdWIAYYRVb8aLJlxwSvOV9cw1Nr.QGB53NqVngHO6XynDVqJnX8zzHZOXphg19WCxGUtJfwxoQAr30TkoMQ9XEqLk8B9HxWSu2ASJ_OGbE2ln6v9jY24N4fZocVITkGeuLxE2Lt54ybzOKiT0fhhzo5FWPgKjAe5KHxei45SMT0F7vTcu7vuVQ7TcUyNlnFy3YXcCYfLUvyVk2Ct9y7KaiTElQ",
+      "image_source_page": "https://reverb.com/item/99525849-thorpyfx-kudu-overdrive-2026-present-black-graphic"
     },
     {
       "company": "ThorpyFX",

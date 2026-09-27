@@ -2,10 +2,10 @@
 
 - Cached in this run: **10**
 - Staged browser photos converted: **0**
-- Local images retained/reorganized: **1**
+- Local images retained/reorganized: **0**
 - Download failures: **1**
-- Remaining tracker photo backlog: **273**
-- Researched, photo pending: **273**
+- Remaining tracker photo backlog: **263**
+- Researched, photo pending: **263**
 - External source images awaiting localization: **0**
 
 ## Storage layout
@@ -16,16 +16,16 @@
 
 ## Newly cached
 
-- MXR - Wylde Audio Zakk Sabbath Overdrive -> `./assets/pedals/mxr/wylde-audio-zakk-sabbath-overdrive/primary.webp`
-- Maxon - ST9Pro+ Super Tube Overdrive Pro+ -> `./assets/pedals/maxon/st9pro-super-tube-overdrive-pro/primary.webp`
-- Mythos Pedals - AU-79 Fuzz -> `./assets/pedals/mythos-pedals/au-79-fuzz/primary.webp`
-- Mythos Pedals - Wildwood Mjolnir -> `./assets/pedals/mythos-pedals/wildwood-mjolnir/primary.webp`
-- NUX Audio / NUX - Brownie -> `./assets/pedals/nux-audio-nux/brownie/primary.webp`
-- NUX Audio / NUX - Mini Supa Drive -> `./assets/pedals/nux-audio-nux/mini-supa-drive/primary.webp`
-- NUX Audio / NUX - REC TO Distortion -> `./assets/pedals/nux-audio-nux/rec-to-distortion/primary.webp`
-- NUX Audio / NUX - ’63 Diamond -> `./assets/pedals/nux-audio-nux/63-diamond/primary.webp`
-- Pigtronix - Gamma Drive -> `./assets/pedals/pigtronix/gamma-drive/primary.webp`
-- Pigtronix - PolySaturator -> `./assets/pedals/pigtronix/polysaturator/primary.webp`
+- Industrialectric - Squarewave Generator -> `./assets/pedals/industrialectric/squarewave-generator/primary.webp`
+- MXR - Distortion+ -> `./assets/pedals/mxr/distortion/primary.webp`
+- NUX Audio / NUX - Morning Star -> `./assets/pedals/nux-audio-nux/morning-star/primary.webp`
+- Prescription Electronics - Dual-Tone -> `./assets/pedals/prescription-electronics/dual-tone/primary.webp`
+- Prescription Electronics - Frantic Fuzz -> `./assets/pedals/prescription-electronics/frantic-fuzz/primary.webp`
+- ProCo Sound - SOLO -> `./assets/pedals/proco-sound/solo/primary.webp`
+- Stomp Under Foot - The Shag MkII -> `./assets/pedals/stomp-under-foot/the-shag-mkii/primary.webp`
+- Stomp Under Foot - The Shag MkIII -> `./assets/pedals/stomp-under-foot/the-shag-mkiii/primary.webp`
+- Stomp Under Foot - Tri-Muff -> `./assets/pedals/stomp-under-foot/tri-muff/primary.webp`
+- Stomp Under Foot - Violet Menace -> `./assets/pedals/stomp-under-foot/violet-menace/primary.webp`
 
 ## Still external / failed
 
