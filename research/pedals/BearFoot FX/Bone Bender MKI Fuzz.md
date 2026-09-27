@@ -1,66 +1,57 @@
-# BearFoot FX - Bone Bender MKI Fuzz
+# BearFoot FX — Bone Bender MKI Fuzz
 
 ## PRP identity
 - **Archive parent:** Bone Bender MKI Fuzz
 - **Builder:** BearFoot FX
 - **Catalog type:** Fuzz
-- **Identity:** Three-control germanium fuzz using dual NOS AC127 transistors with an external bias control.
+- **Identity:** Three-control Germanium fuzz using **dual NOS AC127** transistors and external Bias control. [1][2]
 
 ## What this pedal is
-Bone Bender MKI is a vintage-oriented fuzz designed around dual NOS AC127 germanium transistors. The Bias control lets the player adjust the operating point of the germanium devices, helping the circuit stay predictable across temperature changes.
+Bone Bender MKI is a vintage-oriented BearFoot fuzz built around two NOS AC127 Germanium transistors. The external Bias control lets the player shift the operating point, which is particularly relevant to temperature-sensitive germanium circuitry. [1][2]
 
-## Colorways
-- A documented production example uses BearFoot's cream/bone enclosure with dark speckling and hand-painted graphics.
-- No complete factory colorway chronology was verified.
+## Controls
+- **VOLUME**
+- **BIAS**
+- **FUZZ**
+- Bypass footswitch. [1][2]
 
-## Versions and factory options
-### Bone Bender MKI
-- Volume
-- Bias
-- Fuzz
-- Dual NOS AC127 germanium transistors
-- 3V-12V operating range in the documented retailer specifications
-
-## Version changes
-No numbered production revision was established in the checked sources.
+## Circuit lineage
+- **Primary reference:** Tone Bender MKI family.
+- Exact historical schematic relationship beyond the documented AC127 implementation is not established in the reviewed sources.
 
 ## Transistor
-- **Type:** NOS AC127 germanium, dual device arrangement.
-- This identification is explicitly stated in the Reverb dealer listing.
+- **2 × NOS AC127 Germanium transistors** are documented for the exact model. [1][2]
+- Exact individual gain/leakage measurements are not published.
 
-## Diode
-- **Exact clipping/protection arrangement:** Not publicly documented.
+## Diode / clipping
+- Exact clipping/protection device and part number are not publicly documented.
+
+## Power
+- A surviving dealer specification documents an operating range of **3–12V**. [1]
+- Exact nominal factory supply recommendation is not uniformly stated across the reviewed references.
+
+## Version history
+- No numbered electronic revision established.
+- Cream/bone speckled finish is a documented production presentation.
 
 ## Sound
-Bone Bender MKI is intended to deliver vintage fuzz with enough heat and sustain for ripping lead work while retaining the cleanup and character associated with germanium circuits. Bias adjustment gives the player another way to tune the feel and saturation as the transistors' operating conditions change.
+The AC127/Bias combination is intended to provide vintage-style fuzz with strong harmonic response, sustain and adjustable feel. Bias can be used to tune the operating point of the Germanium stages rather than leaving the pair at one fixed setting. [1][2]
 
-## Sources checked
-1. Reverb, BearFoot FX Bone Bender MK1: https://reverb.com/item/15647992-bearfoot-fx-bone-bender-mk1-fuzz-pedal
-2. RockBoard PedalPedia, Bone Bender MKI: https://www.rockboard.de/de/pedalPedia/BearFoot-FX/Bone-Bender-MKI-Fuzz/68975135/
-
-## Photo
-- **Archive status:** **Exact Photo Attached to Public Catalog**
-- **Exact-model image:** https://rvb-img.reverb.com/i/s--6H63sI1H--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/zactb0lkodoygtxa9sjk.png
-- **Source page:** https://reverb.com/item/15647992-bearfoot-fx-bone-bender-mk1-fuzz-pedal
+## Research confidence
+- **Identity:** High
+- **Dual AC127 identification:** High
+- **Germanium technology:** High
+- **Bias control:** High
+- **Exact diode:** Unknown
 
 ## Deep research verification
+The exact-model Reverb listing and RockBoard record were cross-checked. Both document the Bone Bender MKI identity, while the retail evidence explicitly identifies the dual NOS AC127 arrangement. [1][2]
 
-This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+## Sources checked
+1. Reverb — BearFoot FX Bone Bender MK1: https://reverb.com/item/15647992-bearfoot-fx-bone-bender-mk1-fuzz-pedal
+2. RockBoard PedalPedia — Bone Bender MKI: https://www.rockboard.de/de/pedalPedia/BearFoot-FX/Bone-Bender-MKI-Fuzz/68975135/
+3. Music Boulevard — BearFoot Bone Bender MKI: https://www.music-blvd.com/product/11542/bearfoot-fx-bone-bender-mki-fuzz-speckle
 
-### Verified description
-BearFoot FX's Bone Bender MKI Fuzz is cataloged as a fuzz pedal.
-
-### Verified version references
-- The evidence references: MK1, MKI.
-
-### Verified transistor/device terms
-- AC127.
-
-### Verified sound evidence
-Bone Bender MKI Fuzz by BearFoot FX
-Its NOS AC127 transistors, Bias knob, and carefully designed circuitry make it an excellent choice for guitarists seeking a wide range of tonal possibilities and a pedal that can deliver both subtle and aggressive fuzz tones.
-When he did that, he opened up the floodgates for fuzz enthusiasts everywhere.
-
-### Sources checked in this pass
-1. Bone Bender MKI Fuzz by BearFoot FX | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/BearFoot-FX/Bone-Bender-MKI-Fuzz/68975135/
-2. BearFoot FX Bone Bender MKI Fuzz - Speckle - Music Boulevard บริษัท มิวสิค บูเลอวาร์ด จำกัด: https://www.music-blvd.com/product/11542/bearfoot-fx-bone-bender-mki-fuzz-speckle
+## Photo
+- **Exact pedal photograph:** BearFoot/Reverb exact-model image.
+- https://rvb-img.reverb.com/i/s--6H63sI1H--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/zactb0lkodoygtxa9sjk.png
