@@ -1,48 +1,57 @@
-# Beetronics FX - Octahive V2
+# Beetronics FX — Octahive V2
 
 ## PRP identity
 - **Archive parent:** Octahive V2
 - **Builder:** Beetronics FX
 - **Catalog type:** Fuzz
-- **Identity:** High-octave fuzz with separate BUZZZ and OCTAVE modes and programmable footswitch behavior.
+- **Identity:** High-octave fuzz with separate BUZZZ and OCTAVE voices and programmable switching behavior. [1][2]
 
-## What this pedal is
-The Octahive V2 is a high-octave fuzz inspired by 1970s fuzz designs, updated with modern switching and expanded live control. Its Pre, Honey, and Volume controls work around two core voices: a thick raw BUZZZ fuzz and a searing OCTAVE voice.
+## Controls / modes
+- **PRE:** Input/pre-gain level shaping.
+- **HONEY:** Fuzz/saturation control.
+- **VOLUME:** Output.
+- **BUZZZ / OCTAVE:** Selectable core voices.
+- Multifunction footswitch.
+- **FAST / MEDIUM / LAZY:** Switch-response profiles. [1][2]
 
-## Colorways
-- Standard production finish is documented by Beetronics' current Octahive V2 product imagery.
-- Multiple Custom Shop Octahive V2 finishes are documented.
-- Custom Shop artwork/finish changes are treated as cosmetic unless a circuit distinction is explicitly documented.
-
-## Versions and factory options
-### Octahive V2
-- Pre
-- Honey
-- Volume
-- BUZZZ / OCTAVE modes
-- Multi-function footswitch
-- Fast, Medium, or Lazy switching-response profiles
-- 9V DC center-negative
-- Approximately 50mA current draw
-- True bypass
-
-## Version changes
-The V2 designation is a meaningful generation change from the earlier Octahive concept. Beetronics documents the V2 additions as smart footswitching, customizable switching profiles, and improved live control while retaining the core fuzz character.
+## Circuit lineage
+- High-octave fuzz drawing on classic 1970s octave-fuzz concepts.
+- V2 adds modern programmable switching while preserving the core Octahive identity. [1]
 
 ## Transistor
-- **Exact production transistor/device part numbers:** Not publicly documented by Beetronics in the checked sources.
+- Exact production transistor/device part numbers are not publicly documented.
 
-## Diode
-- **Exact clipping/protection arrangement or diode part numbers:** Not publicly documented in the checked sources.
+## Diode / clipping
+- Exact clipping-device type and part number are not publicly documented.
+
+## Power
+- **9V DC, center-negative**.
+- Approximately **50 mA** current draw.
+- True bypass. [1]
+
+## Version history
+- **Octahive:** Earlier model.
+- **Octahive V2:** Adds smart/multifunction switching and configurable response profiles.
+- Custom Shop finishes are cosmetic unless explicitly tied to a circuit revision. [1][2]
 
 ## Sound
-BUZZZ mode produces a thick, aggressive high-gain fuzz, while OCTAVE mode brings in the pronounced octave-up character associated with the Octahive family. The Pre control effectively sets an internal guitar-volume sweet spot, letting the pedal repeatedly hit the input level where its octave response blooms.
+BUZZZ produces the thicker high-gain fuzz voice. OCTAVE emphasizes the aggressive octave-up component. PRE adjusts how hard the input hits the octave/fuzz section, which makes the sweet spot repeatable for different guitars. [1]
+
+## Research confidence
+- **Identity:** High
+- **V2 generation:** High
+- **BUZZZ/OCTAVE:** High
+- **Programmable switching:** High
+- **9V / 50mA:** High
+- **Exact devices:** Unknown
+
+## Deep research verification
+Beetronics' V2 and Custom Shop pages were cross-checked. The evidence supports the V2 feature expansion, including multifunction switching, configurable response profiles and the BUZZZ/OCTAVE architecture. [1][2]
 
 ## Sources checked
-1. Beetronics official Octahive V2: https://www.beetronicsfx.com/products/octahive-v2-high-octave-fuzz-p-babee-series
-2. Beetronics Octahive V2 Custom Shop: https://www.beetronicsfx.com/products/octahive-v2-custom-shop-p-oc0031
+1. Beetronics FX — Octahive V2: https://www.beetronicsfx.com/products/octahive-v2-high-octave-fuzz-p-babee-series
+2. Beetronics FX — Octahive V2 Custom Shop: https://www.beetronicsfx.com/products/octahive-v2-custom-shop-p-oc0031
 
 ## Photo
-- **Archive status:** **Exact Photo Attached to Public Catalog**
-- **Exact-model image:** https://www.beetronicsfx.com/cdn/shop/files/OC_01.jpg?v=1685572148&width=1500
-- **Source page:** https://www.beetronicsfx.com/products/octahive-v2-high-octave-fuzz-p-babee-series
+- **Exact pedal photograph:** Beetronics official product image.
+- https://www.beetronicsfx.com/cdn/shop/files/OC_01.jpg?v=1685572148&width=1500
