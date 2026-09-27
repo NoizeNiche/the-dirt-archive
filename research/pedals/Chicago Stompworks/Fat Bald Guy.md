@@ -4,33 +4,44 @@
 - **Archive parent:** Fat Bald Guy
 - **Builder:** Chicago Stompworks
 - **Catalog type:** Fuzz
-- **Identity:** Chicago Stompworks Fat Bald Guy, a V3 Big Muff-style fuzz based on the late-1970s Big Muff circuit.
+- **Identity:** V3 Big Muff-style fuzz based on the late-1970s Big Muff circuit and used as channel A in the builder's Double Dave custom pedal. [1][2]
 
-## What this pedal is
-Effects Database identifies the Fat Bald Guy as a V3 Big Muff-based fuzz and places it among Chicago Stompworks' documented fuzz models. [1]
+## Circuit lineage
+- **Primary reference:** late-1970s **V3 Big Muff**.
+- Chicago Stompworks describes Fat Bald Guy as its house Muff-style blend. [1][2]
 
-Chicago Stompworks also identifies Fat Bald Guy as its house blend Muff circuit and notes that it appears as channel A in the custom Double Dave pedal. [2]
-
-## Colorways
-- No complete factory colorway sequence was established in the checked sources.
-
-## Versions and factory options
-The exact documented model is the **V3 Big Muff** style Fat Bald Guy. [1]
-
-No reliable exact-model control list or numbered factory sequence was established in the checked sources.
-
-## Version changes
-No formal numbered production revision history was established beyond the model's V3 Big Muff lineage.
+## Controls
+- Exact printed control map is not fully preserved in the reviewed sources.
+- The pedal is retained as a V3 Big Muff-derived fuzz rather than importing a generic Muff control layout.
 
 ## Transistor
-No exact-model transistor part number was established.
+- Exact production transistor/device part number is not documented.
 
-## Diode
-No exact-model diode specification was established.
+## Diode / clipping
+- Exact clipping-device type and part number are not documented.
+
+## Power
+- Exact model-specific voltage/current details are not securely preserved.
+
+## Version history
+- “V3” in this record refers to the **Big Muff lineage**, not a Chicago Stompworks electronic revision.
+- No numbered Chicago Stompworks factory revision established.
 
 ## Sound
-The model is based on the late-1970s V3 Big Muff family and is intended as a thick, sustaining fuzz/drive sound. [1][2]
+Fat Bald Guy is intended to deliver thick, sustaining late-1970s Muff-style fuzz. Its use in Double Dave as one of the two selectable channels further supports its role as a foundational Muff voice. [1][2]
+
+## Research confidence
+- **Identity:** High
+- **V3 Big Muff lineage:** High
+- **Double Dave channel relationship:** High
+- **Exact controls/components:** Unknown
+
+## Deep research verification
+Effects Database and Chicago Stompworks' own catalog were cross-checked. The sources directly support the V3 Big Muff lineage and Double Dave relationship. [1][2]
 
 ## Sources checked
-1. Effects Database — Chicago Stompworks Fat Bald Guy: https://www.effectsdatabase.com/model/chicagostompworks/fatbaldguy
-2. Chicago Stompworks — custom Double Dave / Fat Bald Guy: https://www.chicagostompworks.com/
+1. Effects Database — Fat Bald Guy: https://www.effectsdatabase.com/model/chicagostompworks/fatbaldguy
+2. Chicago Stompworks — Fat Bald Guy / Double Dave catalog: https://www.chicagostompworks.com/
+
+## Photo
+- Exact-model photo status remains handled separately.
