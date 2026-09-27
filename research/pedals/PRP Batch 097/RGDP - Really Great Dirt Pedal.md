@@ -24,3 +24,6 @@ The public record only establishes the prototype as a dirt pedal covering the di
 
 ## Archive photo
 - **Archive status:** **No Photo Archived**
+## Deep research verification
+
+Effects Database documents RGDP as a **NAMM 2016 prototype** presented under the working name “Really Great Dirt Pedal.” The record does not establish a final production name or long-running factory model, so the archive preserves it explicitly as a prototype identity. Exact circuit and semiconductor details remain undocumented.
