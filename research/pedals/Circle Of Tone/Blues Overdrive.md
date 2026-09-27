@@ -30,3 +30,6 @@ The model is positioned as a blues-oriented overdrive for guitar or bass, with a
 
 ## Sources checked
 1. Music Express Canada — Circle Of Tone lineup: https://musicexpresscanada.com/shop/
+## Deep research verification
+
+The retained Music Express Canada listing identifies Circle Of Tone **Blues Overdrive** as a **Hello Kitty Series** compact guitar/bass overdrive with an EQ-oriented presentation. The source does not establish a verified transistor, diode, numbered revision history or complete factory finish sequence.
