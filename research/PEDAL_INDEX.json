@@ -1,6 +1,6 @@
 {
   "version": "data-20260924-prp1-cbs-arbiter-fuzz-phazer-direct-lead",
-  "count": 3761,
+  "count": 4025,
   "pedals": [
     {
       "company": "1981 Inventions",
@@ -54455,6 +54455,90 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/ZVEX Effects/Woolly Mammoth 7.md",
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "Big Ear NYC",
+      "pedal": "Chaka - Octave Fuzz",
+      "types": [
+        "Fuzz"
+      ],
+      "image": "",
+      "source_page": "https://www.effectsdatabase.com/model/bigear/chaka",
+      "research_record": "./research/pedals/Big Ear NYC/Chaka - Octave Fuzz.md",
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "Big Joe Stomp Box Company",
+      "pedal": "B-302 ROCK",
+      "types": [
+        "Distortion"
+      ],
+      "image": "",
+      "source_page": "https://bigjoestompbox.com/products/b-302-rock",
+      "research_record": "./research/pedals/Big Joe Stomp Box Company/B-302 ROCK.md",
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "Big Joe Stomp Box Company",
+      "pedal": "B-303 METAL",
+      "types": [
+        "Distortion"
+      ],
+      "image": "",
+      "source_page": "https://bigjoestompbox.com/products/b-303-metal",
+      "research_record": "./research/pedals/Big Joe Stomp Box Company/B-303 METAL.md",
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "Big Joe Stomp Box Company",
+      "pedal": "B-312 FREAKSHOW FUZZ (SILICON)",
+      "types": [
+        "Fuzz"
+      ],
+      "image": "",
+      "source_page": "https://bigjoestompbox.com/products/b-312-freakshow-fuzz-silicon",
+      "research_record": "./research/pedals/Big Joe Stomp Box Company/B-312 FREAKSHOW FUZZ (SILICON).md",
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "Big Joe Stomp Box Company",
+      "pedal": "B-313 FREAKSHOW FUZZ (GERMANIUM)",
+      "types": [
+        "Fuzz"
+      ],
+      "image": "",
+      "source_page": "https://bigjoestompbox.com/products/b-307g-freakshow-fuzz",
+      "research_record": "./research/pedals/Big Joe Stomp Box Company/B-313 FREAKSHOW FUZZ (GERMANIUM).md",
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "Big Joe Stomp Box Company",
+      "pedal": "R-401 SATURATED",
+      "types": [
+        "Distortion"
+      ],
+      "image": "",
+      "source_page": "https://bigjoestompbox.com/products/r-401-saturated",
+      "research_record": "./research/pedals/Big Joe Stomp Box Company/R-401 SATURATED.md",
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "Big Joe Stomp Box Company",
+      "pedal": "R-405 HARD",
+      "types": [
+        "Distortion"
+      ],
+      "image": "",
+      "source_page": "https://bigjoestompbox.com/products/r-405-hard",
+      "research_record": "./research/pedals/Big Joe Stomp Box Company/R-405 HARD.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED"
     }
