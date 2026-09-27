@@ -1,23 +1,42 @@
 # Vemuram — Karen — overdrive
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Karen — overdrive
 - **Builder:** Vemuram
-- **Pedal:** Karen — overdrive
 - **Catalog type:** Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Vemuram's Karen — overdrive.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Karen — overdrive** by **Vemuram** as a **Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Vemuram's Karen — overdrive is cataloged as an overdrive pedal.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+You can close this to stick with the essentials, or hit Accept all if you’re feeling generous, curious, or just too busy chasing tone to care.
+A rich and full sound with natural compression without any high-end loss and a thick saturated tone.
+
+## Sources checked
+1. Vemuram Karen Overdrive - What To Know & Where To Buy: https://equipboard.com/items/vemuram-karen-overdrive
+2. Vemuram Karen Overdrive - Reverb: https://reverb.com/item/971288-vemuram-karen-overdrive
+3. Vemuram Karen – StompLab: https://stomplab.net/projects/vemuram-karen
+4. Karen by Vemuram | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/Vemuram/Karen/68985997/
+5. Vemuram Karen &ndash; Tonefest Guitar Gallery: https://www.tonefestguitargallery.com/products/vemuram-karen
+6. 「VEMURAM Karen」ディストーションエフェクターをレビュー | 魔法の箱研究所 – エフェクターレビューサイト: https://www.efmaniac.com/vemuram-karen/
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
