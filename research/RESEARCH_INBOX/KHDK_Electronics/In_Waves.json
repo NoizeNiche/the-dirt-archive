@@ -1,0 +1,33 @@
+{
+  "builder": "KHDK Electronics",
+  "pedal": "In Waves",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 3,
+  "sources": [
+    {
+      "url": "https://www.khdkelectronics.com/products/detail/in-waves-by-trivium/",
+      "title": "In Waves by Trivium - KHDK Electronics",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.khdkelectronics.com",
+      "source_kind": "manufacturer"
+    },
+    {
+      "url": "https://reverb.com/item/83161381-khdk-electronics-in-waves",
+      "title": "KHDK Electronics In Waves | Reverb",
+      "h1": "",
+      "excerpt": "",
+      "host": "reverb.com",
+      "source_kind": "reverb"
+    },
+    {
+      "url": "https://www.creativeaudiobest.com/product/khdk-electronics-in-waves/",
+      "title": "KHDK Electronics In Waves - creativeaudiobest.com",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.creativeaudiobest.com",
+      "source_kind": "other"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}
