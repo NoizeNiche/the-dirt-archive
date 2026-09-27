@@ -6,26 +6,41 @@
 - **Catalog type:** Fuzz
 - **Identity:** Chancho Electronics Plumbus Fuzz.
 
-## What this pedal is
-The exact catalog identity is established as a Chancho Electronics fuzz pedal. The checked sources did not expose enough reliable exact-model documentation to establish the circuit lineage, production history, or control set without risking substitution from a similarly named product.
-
-## Colorways
-No complete factory colorway record was established.
-
-## Versions and factory options
-No secure exact-model version or factory-option record was established.
-
-## Version changes
-No reliable revision history was established.
+## Evidence status
+The exact builder/model identity is established in the archive, but the current reviewed sources do not provide enough trustworthy model-specific information to establish:
+- complete controls,
+- circuit lineage,
+- transistor/IC devices,
+- clipping components,
+- power specification,
+- numbered revisions,
+- or a defensible detailed sound description.
 
 ## Transistor
-Unknown from the checked exact-model sources.
+- **Exact production device:** Unknown.
 
-## Diode
-Unknown from the checked exact-model sources.
+## Diode / clipping
+- **Exact clipping device:** Unknown.
+
+## Power
+- **Exact model-specific power:** Unknown.
+
+## Version history
+- No reliable numbered revision established.
 
 ## Sound
-A responsible sound description is deferred until an exact-model source can be verified.
+A detailed model-specific sound description is intentionally deferred rather than inferred from the product name or unrelated Chancho circuits.
+
+## Research confidence
+- **Builder/model identity:** Moderate to high.
+- **Technical details:** Unresolved pending stronger exact-model evidence.
+
+## Deep research verification
+The archive's current evidence does not meet the threshold for adding component or topology claims. No speculative information has been promoted into the canonical record.
 
 ## Sources checked
-- Exact model catalog identity only. Technical evidence remains insufficient for a stronger claim.
+- Existing archive exact-identity census only.
+- No additional exact-model technical source strong enough for admission was established in this pass.
+
+## Photo
+- Exact-model photo status remains handled separately.
