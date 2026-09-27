@@ -418,6 +418,7 @@ async function targetRecord(builder,pedal,type){
   const ranked=candidates.map(x=>({x,f:fit(builder,pedal,x.title+' '+x.url)}))
     .sort((a,b)=>b.f.score-a.f.score).slice(0,12);
   const fetched = await boundedMap(ranked, 3, async item => {
+    const curatedExactCandidate = recordSourceUrls.has(item.x.url) || recordSourceUrls.has(item.x.url.split('#')[0]);
     const cached=verifiedCache.get(item.x.url);
     const p=cached ? null : await get(item.x.url);
     const baseInfo=cached
@@ -442,7 +443,6 @@ async function targetRecord(builder,pedal,type){
     const fullText=info.title+' '+info.h1+' '+info.description+' '+info.body+' '+u;
     const f=fit(builder,pedal,fullText);
     if(!f.pedalHits || !f.builderHits) return null;
-    const curatedExactCandidate = recordSourceUrls.has(item.x.url) || recordSourceUrls.has(u);
     const metadataHay = norm(String(info.title||"")+" "+String(info.h1||"")+" "+u);
     const pedalMetadataExact = pedalIdentityVariants(pedal).some(v => {
       const n=norm(v);
