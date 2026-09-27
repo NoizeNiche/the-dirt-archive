@@ -1,3 +1,5 @@
 # Research worker kick
 Triggered: 2026-09-27T02:40:00.000Z
 Purpose: resume bounded deep research passes across the canonical queue after verified manual deepening.
+Triggered: 2026-09-27T04:36:32.916Z
+Purpose: launch a fresh bounded deep-research pass over the expanded historical catalog sweep.
