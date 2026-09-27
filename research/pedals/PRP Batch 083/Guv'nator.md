@@ -34,4 +34,4 @@ Marshall-style distortion ranging from bluesier drive through stronger lead-orie
 - **Archive status:** **No Photo Archived**
 
 ## Deep research verification
-Big Knob's exact model listing identifies Guv'nator as a faithful re-creation of the late-1980s UK distortion designed around the smooth, rich character of a Marshall amplifier. The builder's catalog states its pedals are hand-wired, true bypass, and supports standard 9V power/battery operation. Exact circuit and semiconductor part numbers are not published in the reviewed model listing. citeturn302732search0
+Big Knob's exact model listing identifies Guv'nator as a faithful re-creation of the late-1980s UK distortion designed around the smooth, rich character of a Marshall amplifier. The builder's catalog states its pedals are hand-wired, true bypass, and supports standard 9V power/battery operation. Exact circuit and semiconductor part numbers are not published in the reviewed model listing.
