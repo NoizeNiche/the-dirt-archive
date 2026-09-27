@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-27T09:34:04.923602+00:00",
+  "generated_at": "2026-09-27T09:36:33.101691+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,8 +10,8 @@
     "pictured": 3123,
     "complete": 3123,
     "research_pending": 0,
-    "deep_research_pending": 2037,
-    "deep_researched": 2205,
+    "deep_research_pending": 2024,
+    "deep_researched": 2218,
     "surface_ready": 4242
   },
   "next_target": {
@@ -65,76 +65,6 @@
       "research_level": "surface"
     },
     {
-      "builder": "Bixonic",
-      "pedal": "Axentrix A1",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 088/Axentrix A1.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Bixonic",
-      "pedal": "Axentrix II",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 088/Axentrix II.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Bixonic",
-      "pedal": "EXP2000 Expandora",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Bixonic/EXP2000 Expandora.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Bixonic",
-      "pedal": "EXP2000DR Clean & Drive",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 088/EXP2000DR Clean & Drive.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Bixonic",
-      "pedal": "EXP2001 Expandora II",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Bixonic/EXP2001 Expandora II.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Biyang",
-      "pedal": "DS-9 Distortion",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 090/DS-9 Distortion.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Biyang",
-      "pedal": "Junky Drive",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 090/Junky Drive.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Biyang",
-      "pedal": "OD-7 Overdrive",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 090/OD-7 Overdrive.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Biyang",
-      "pedal": "OD-8 X-Drive",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 090/OD-8 X-Drive.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Biyang",
-      "pedal": "OTD-100 Distortion",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 091/OTD-100 Distortion.md",
-      "research_level": "surface"
-    },
-    {
       "builder": "BJFE / BJF Electronics",
       "pedal": "Arctic Light Fuzz",
       "catalog_type": "",
@@ -143,30 +73,9 @@
     },
     {
       "builder": "BJFE / BJF Electronics",
-      "pedal": "Arctic White Fuzz (AWF)",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 092/Arctic White Fuzz (AWF).md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "BJFE / BJF Electronics",
       "pedal": "Baby Blue Overdrive (BBOD)",
       "catalog_type": "",
       "research_record": "./research/pedals/BJFE / BJF Electronics/Baby Blue Overdrive (BBOD).md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "BJFE / BJF Electronics",
-      "pedal": "Big Purple Fuzz",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 092/Big Purple Fuzz.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "BJFE / BJF Electronics",
-      "pedal": "BlueBerry Bass Overdrive (3BOD)",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 092/BlueBerry Bass Overdrive (3BOD).md",
       "research_level": "surface"
     },
     {
@@ -195,6 +104,97 @@
       "pedal": "Dyna Blue Distortion",
       "catalog_type": "",
       "research_record": "./research/pedals/PRP Batch 092/Dyna Blue Distortion.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "BJFE / BJF Electronics",
+      "pedal": "Folk Fuzz 3.5%",
+      "catalog_type": "",
+      "research_record": "./research/pedals/BJFE / BJF Electronics/Folk Fuzz 3.5%.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "BJFE / BJF Electronics",
+      "pedal": "Honey Bee Overdrive (HBOD)",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 093/Honey Bee Overdrive (HBOD).md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "BJFE / BJF Electronics",
+      "pedal": "Lingonberry Over Drive",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 093/Lingonberry Over Drive.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "BJFE / BJF Electronics",
+      "pedal": "Little Green Wonder (LGW)",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 093/Little Green Wonder (LGW).md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "BJFE / BJF Electronics",
+      "pedal": "Mighty Blue Overdrive",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 093/Mighty Blue Overdrive.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "BJFE / BJF Electronics",
+      "pedal": "Mighty Red Distortion (MRD)",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 093/Mighty Red Distortion (MRD).md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "BJFE / BJF Electronics",
+      "pedal": "Rebel Red Distortion",
+      "catalog_type": "",
+      "research_record": "./research/pedals/BJFE / BJF Electronics/Rebel Red Distortion.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "BJFE / BJF Electronics",
+      "pedal": "Saffron Yellow Overdrive (SYOD)",
+      "catalog_type": "",
+      "research_record": "./research/pedals/BJFE / BJF Electronics/Saffron Yellow Overdrive (SYOD).md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "BJFE / BJF Electronics",
+      "pedal": "Smokey Orange Fuzz",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 093/Smokey Orange Fuzz.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "BJFE / BJF Electronics",
+      "pedal": "Snow White Fuzz",
+      "catalog_type": "",
+      "research_record": "./research/pedals/BJFE / BJF Electronics/Snow White Fuzz.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "BJFE / BJF Electronics",
+      "pedal": "Sparkling Red Fuzz",
+      "catalog_type": "",
+      "research_record": "./research/pedals/BJFE / BJF Electronics/Sparkling Red Fuzz.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "BJFE / BJF Electronics",
+      "pedal": "Sparkling Yellow Overdrive (SYOD)",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 093/Sparkling Yellow Overdrive (SYOD).md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "BJFE / BJF Electronics",
+      "pedal": "Sparkling Yellow Overdrive Version 2 (SYOD V.2)",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 093/Sparkling Yellow Overdrive Version 2 (SYOD V.2).md",
       "research_level": "surface"
     }
   ]
