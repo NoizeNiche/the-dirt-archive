@@ -154,6 +154,12 @@ function parseLinks(html,baseUrl){
     if(!u || /^javascript:|^mailto:|^tel:/i.test(u)) continue;
     try{ u=new URL(u,baseUrl).href.split('#')[0]; }catch{ continue; }
     if(!/^https?:/i.test(u)) continue;
+    const hostName=host(u);
+    // Drop navigation/share/login endpoints that are not substantive evidence.
+    // These are especially common on retailer and manufacturer pages and can
+    // otherwise become false-positive “sources” after link mining.
+    if(/(?:facebook\.com|twitter\.com|x\.com|pinterest\.com|instagram\.com)/i.test(hostName)) continue;
+    if(/(?:\/share(?:[/?]|$)|\/login(?:[/?]|$)|\/signin(?:[/?]|$)|create\/button)/i.test(u)) continue;
     if(seen.has(u)) continue;
     seen.add(u);
     out.push({url:u,title:strip(m[2])});
