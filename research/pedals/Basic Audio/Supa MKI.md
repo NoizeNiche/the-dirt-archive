@@ -1,45 +1,52 @@
-# Basic Audio - Supa MKI
+# Basic Audio — Supa MKI
 
 ## PRP identity
 - **Archive parent:** Supa MKI
 - **Builder:** Basic Audio
 - **Catalog type:** Fuzz
-- **Identity:** Aggressive, sustaining fuzz based on the first “Filter” version of the Marshall Supa Fuzz and closely related to the Tone Bender MKI family.
+- **Identity:** Basic Audio interpretation of the first Marshall Supa Fuzz “Filter” version, closely related to the Tone Bender MKI family. [1]
 
 ## What this pedal is
-Supa MKI is Basic Audio’s interpretation of the first version of the Marshall Supa Fuzz, described by the builder as the “Filter” version. Basic Audio also identifies it as very similar to the Tone Bender MKI.
+Basic Audio's Supa MKI is designed around the earliest Marshall Supa Fuzz concept, specifically the “Filter” version. The builder places it close to the Tone Bender MKI family in behavior and circuit lineage. [1]
 
-## Colorways
-- The official product photograph documents a metallic/silver finish for the model.
-- Basic Audio notes that pedal colors are subject to change.
-- No complete factory colorway chronology was verified.
+## Circuit lineage
+- **Primary reference:** Marshall **Supa Fuzz, first/“Filter” version**.
+- **Related lineage:** Tone Bender MKI.
+- The archive does not treat those historical relationships as proof of identical vintage component sets. [1]
 
-## Versions and factory options
-### Supa MKI
-- Based on the first Marshall Supa Fuzz “Filter” version
-- Tone Bender MKI-like circuit character
-- Center-negative 9V DC operation
-- Battery snap
-- No numbered Basic Audio revision was verified.
-
-## Version changes
-No numbered production revision was established in the checked sources.
+## Controls / power
+- The exact current external control legend is not fully preserved in the surviving Basic Audio source set.
+- **9V center-negative** operation with battery support is documented. [1]
 
 ## Transistor
-- **Technology:** Exact production transistor technology and device part numbers are not publicly documented by Basic Audio in the checked sources.
-- The historical Supa Fuzz lineage does not by itself establish the exact components used in this Basic Audio production pedal.
+- Exact production transistor technology and device part numbers are not publicly documented by Basic Audio.
 
-## Diode
-- **Exact clipping/protection arrangement:** Not publicly documented in the checked sources.
+## Diode / clipping
+- Exact clipping-device type and part number are not publicly documented.
+
+## Version history
+- No numbered Basic Audio electronic revision established.
+- The model identity itself corresponds to the selected Supa MKI historical reference rather than a documented V1/V2 circuit sequence.
 
 ## Sound
-Supa MKI is intended to deliver a sustaining, aggressive fuzz with the direct character associated with early Tone Bender MKI-style circuits. Its Marshall “Filter” Supa Fuzz reference gives it a vintage, cutting fuzz voice rather than a modern high-gain distortion character.
+Supa MKI aims for the direct, aggressive and sustaining character of early Marshall Supa Fuzz and Tone Bender MKI-family fuzzes. It is positioned as a vintage-oriented fuzz rather than a modern high-gain distortion. [1]
+
+## Research confidence
+- **Identity:** High
+- **Marshall Supa Fuzz Filter lineage:** High
+- **Tone Bender MKI relationship:** High
+- **Exact controls:** Medium
+- **Exact active device:** Unknown
+- **Exact diode:** Unknown
+
+## Deep research verification
+Basic Audio's Supa MKI product page was checked directly. It identifies the pedal as based on the first Marshall Supa Fuzz “Filter” version and closely related to Tone Bender MKI. The public page does not publish a factory semiconductor recipe, so those details remain unresolved. [1]
 
 ## Sources checked
-1. Basic Audio official Supa MKI page: https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-cnzrr-bfrf8-lcl7b
-2. Basic Audio official catalog: https://www.basicaudio.net/
+1. Basic Audio — Supa MKI: https://www.basicaudio.net/store-1/5einpey75gjgckjedkvbfsb3vnya-y3hb9-97e3s-cnzrr-bfrf8-lcl7b
+2. Basic Audio — Main catalog: https://www.basicaudio.net/
 
 ## Photo
-- **Archive status:** **Exact Photo Attached to Public Catalog**
-- **Exact-model image:** https://images.squarespace-cdn.com/content/v1/5da9e97016ddf940acffa2d3/1584713993084-46JCA6GLPN3POKI0SS3D/DSCF0505.jpg
-- **Source page:** https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-cnzrr-bfrf8-lcl7b
+- **Exact pedal photograph:** Basic Audio official product photograph.
+- **Direct image:** https://images.squarespace-cdn.com/content/v1/5da9e97016ddf940acffa2d3/1584713993084-46JCA6GLPN3POKI0SS3D/DSCF0505.jpg
+- **Source page:** Basic Audio Supa MKI.
