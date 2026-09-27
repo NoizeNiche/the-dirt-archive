@@ -1,86 +1,75 @@
 # Barber Electronics — B-Custom Cool
 
 ## PRP identity
-- Archive parent: B-Custom Cool
-- Builder: Barber Electronics
-- Catalog type: Overdrive
-- Introduction: 2008
-- Identity: One parent with a documented prototype-to-production development history. No numbered factory revision verified.
+- **Archive parent:** B-Custom Cool
+- **Builder:** Barber Electronics
+- **Catalog type:** Overdrive
+- **Identity:** The first true Barber B-Custom product, developed from a Monster Mike Welch prototype into a hand-built production low-gain overdrive with two EQ curves, Smooth/Crunchy switching, and four internal voicing trims. [1][2]
 
 ## What this pedal is
-B-Custom Cool was the first true Barber B-Custom product and began as a custom request from Monster Mike Welch for an amp-style overdrive that would work reliably through rental backlines. The production pedal added EQ switching and Smooth/Crunchy switching around the prototype concept, plus internal note-shape, bass, midrange and presence controls. [1][2]
+The B-Custom Cool began as a custom request from Monster Mike Welch for an amp-style overdrive that could provide a consistent response through unfamiliar rental backlines. Barber added EQ switching and Smooth/Crunchy switching to the prototype before production. The resulting pedal was designed to remain low-gain and dynamic while providing unusually deep rig-matching controls. [1][2]
 
-## Colorways
-- Documented examples include light silver/gray and other small-run B-Custom finishes.
-- Finish differences are not treated as versions.
+## Controls
+### External
+- **VOLUME:** Overall level.
+- **TONE:** Brightness; also a push/pull switch for **SR EQ / Snarl EQ**.
+- **DYNAMICS:** Compression/dynamics; also a push/pull switch for **Smooth / Crunchy**.
+- **DRIVE:** Sustain, drive and harmonic ratio.
+- **Three-position Dynamics/Clipping toggle:** Selects three progressively different dynamics/clipping behaviors, including stock Burn-style, lower-gain vintage and asymmetrical “power tubes” behavior. [1][2]
 
-## Versions and factory development
-### Early prototype
-The project began as a custom low-gain amp-style overdrive for Mike Welch. The prototype predates the final EQ and Smooth/Crunchy feature set. [1]
+### Internal trims
+- **NOTE SHAPE:** Controls how much bass is fed into the overdrive stage, from tighter/focused to larger/rounder.
+- **BASS:** Matches the pedal's low-frequency response to the amplifier.
+- **MIDRANGE:** Controls guitar-body/fundamental emphasis.
+- **PRESENCE:** Adds or reduces high-frequency snap/cut. [2]
 
-### Production B-Custom Cool
-- Volume
-- Tone
-- Dynamics
-- Drive
-- Tone push/pull: SR EQ / Snarl EQ
-- Dynamics push/pull: Smooth / Crunchy
-- three-position dynamics/symmetry control
-- internal Note Shape, Bass, Midrange and Presence trims
-- true bypass
-- Barber B-Custom hand-built construction [1][2]
-
-## Factory modifications
-- The prototype-to-production feature additions are builder work and belong in the parent history.
-- No separate factory MOD designation or numbered production version verified.
-
-## Version changes
-The significant documented evolution is from the Mike Welch prototype to the production pedal. Barber added the two push/pull EQ/texture systems and refined the voicing while preserving the low-gain architecture. [1]
+## Circuit / lineage
+- Barber low-gain architecture.
+- Two selectable EQ curves:
+  - **SR EQ:** relatively flat/open.
+  - **Snarl EQ:** stronger mid/fundamental emphasis.
+- Dynamics system includes both smooth/crunchy switching and three-position asymmetry/compression behavior. [1][2]
 
 ## Transistor
-- Type: Unknown.
-- No exact production transistor technology or part number published.
+- Exact transistor/device part numbers are **not publicly documented** in the reviewed product/manual sources.
 
-## Diode
-- Technology: Barber documents precision-matched clipping and selectable symmetry behavior.
-- Exact diode: Unknown. [2]
+## Diode / clipping
+- Barber documents selectable clipping symmetry/dynamics, including an asymmetrical “power tubes” mode.
+- Exact diode part numbers are **not publicly documented**.
+
+## Construction / hardware
+- Barber B-Custom hand-built construction.
+- The four internal trims are factory-installed voicing controls.
+- True bypass. [1][2]
+
+## Version / development history
+### Mike Welch prototype
+The project began as a custom prototype for Monster Mike Welch.
+
+### Production B-Custom Cool
+Barber added the SR/Snarl EQ system and Smooth/Crunchy system to the prototype concept while retaining the underlying low-gain architecture. [1]
+
+No numbered factory electronic revision is established beyond this prototype-to-production evolution.
 
 ## Sound
-B-Custom Cool is a low-gain overdrive with a wide range of feel, from open and smooth to dynamic, crunchy and more asymmetric. Its internal trims allow close matching to a guitar and amplifier, while the switchable EQ curves can move from relatively flat response to a thicker, mid-forward voice. [1][2]
+Barber characterizes the pedal as a sophisticated low-gain architecture capable of smooth singing drive, open vintage dynamics and more aggressive barbed-wire/crunch textures depending on the push/pull and dynamics settings. The internal Note Shape and EQ trims make the response highly adaptable to the guitar and amplifier. [1][2]
 
 ## Research confidence
-- Identity/history: High
-- Prototype-to-production history: High
-- Factory-version history: High
-- Transistor: Unknown
-- Diode technology: Moderate to high
-- Exact diode: Unknown
-- Sound: High
-
-## Photo
-- Exact pedal photograph: Reverb photograph of an actual B-Custom Cool.
-- Direct image: https://rvb-img.reverb.com/i/s--cDPq7Bfx--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/zewwglod5rl7ahwm3kcm.jpg
-- Source page: https://reverb.com/item/41397924-barber-b-custom-cool-overdrive-pedal
-
-## Sources checked
-1. Effects Database — Barber B Custom Cool, Aug. 7, 2008: https://www.effectsdatabase.com/model/barber/bcustom/cool
-2. Reverb — Barber B-Custom Cool listing/manual information: https://reverb.com/item/41397924-barber-b-custom-cool-overdrive-pedal
-3. Barber Electronics manufacturer information: https://www.barberelectronics.com/
-4. Barber B-Custom Cool demonstration/product-history material.
+- **Identity:** High
+- **Monster Mike Welch development history:** High
+- **External/internal controls:** High
+- **Prototype-to-production evolution:** High
+- **Exact transistor:** Unknown
+- **Exact diode:** Unknown
 
 ## Deep research verification
+Effects Database and an exact-model Reverb listing/manual reproduction were cross-checked. The sources confirm B-Custom Cool as the first true B-Custom product, its Monster Mike Welch origin, dual EQ curves, Smooth/Crunchy switching and internal Note Shape/Bass/Midrange/Presence controls. [1][2]
 
-This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+## Sources checked
+1. Effects Database — Barber B Custom Cool: https://www.effectsdatabase.com/model/barber/bcustom/cool
+2. Reverb — Barber B Custom Cool / reproduced Barber manual text: https://reverb.com/item/41397924-barber-b-custom-cool-overdrive-pedal
+3. Barber Electronics — B-Custom product information: https://www.barberelectronics.com/
 
-### Verified description
-Quantity: Barber B-Custom Cool Overdrive Pedal The Barber Electronics Custom Cool overdrive pedal is the newest pedal from the Barber Electronics Custom Shop.
-
-### Verified version references
-- The evidence references: v 12.
-
-### Verified sound evidence
-Quantity: Barber B-Custom Cool Overdrive Pedal The Barber Electronics Custom Cool overdrive pedal is the newest pedal from the Barber Electronics Custom Shop.
-
-### Sources checked in this pass
-1. catalog/override source: https://reverb.com/item/41397924-barber-b-custom-cool-overdrive-pedal
-2. Barber B-Custom Cool Overdrive Pedal:Guitars, Pedals Amps Effects: https://www.tonetronix.com/p/Custom-Cool-Overdrive.html
+## Photo
+- **Archive status:** **Exact Photo Attached to Public Catalog**
+- **Exact-model image:** https://rvb-img.reverb.com/i/s--cDPq7Bfx--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/zewwglod5rl7ahwm3kcm.jpg
