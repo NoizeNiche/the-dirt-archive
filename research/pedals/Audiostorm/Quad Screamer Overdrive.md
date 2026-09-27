@@ -4,59 +4,72 @@
 - **Archive parent:** Quad Screamer Overdrive
 - **Builder:** Audiostorm
 - **Catalog type:** Overdrive
-- **Identity:** Multi-mode screamer-style overdrive offering four clipping families, two gain/voicing switches and user-replaceable op-amp capability.
+- **Identity:** Multi-clipping screamer-style overdrive with four selectable/combinable clipping families, Hi Gain and Bright switches, and a socketed TI 4558 dual op-amp. [1][2]
 
 ## What this pedal is
-Audiostorm describes Quad Screamer as a re-imagined screamer circuit with four clipping options that can be combined for 60 mode combinations. It was later discontinued and replaced by Otherworld, which Audiostorm calls the effectively Version 2.0 successor.
+Audiostorm describes Quad Screamer as a re-imagined screamer circuit offering 60 usable overdrive combinations by mixing four clipping families with additional gain/voicing controls. [1]
 
-## Colorways
-- **Mk1A:** monochrome, in-house printed logo.
-- **Mk1B:** full-colour artwork with the Chug and Strum characters.
-- The builder states there were no tonal or component changes between Mk1A and Mk1B.
+## Controls / clipping
+Documented clipping sections:
+- **SI:** Symmetrical silicon.
+- **LED:** Symmetrical red LEDs.
+- **MOS:** Asymmetrical MOSFET clipping.
+- **GE:** Asymmetrical NOS germanium clipping.
+Additional switches:
+- **HI GAIN**
+- **BRIGHT** [1][2]
 
-## Versions and factory options
-### Quad Screamer Mk1A
-- Initial launch version
-- Monochrome logo/artwork
+Audiostorm says each clipping section uses custom compensation circuitry so the output levels remain closely matched when switching and combining modes. [1]
 
-### Quad Screamer Mk1B
-- Same tonal and component design as Mk1A
-- Full-colour logo/artwork
+## Active device
+- **TI 4558 dual op-amp:** Documented in the builder's product history.
+- **Socketed / user-replaceable:** Yes. [2]
 
-### Clipping modes
-- SI: symmetric silicon
-- LED: symmetric red LEDs
-- MOS: asymmetric MOSFET
-- GE: asymmetric NOS germanium
+## Diode / clipping
+- **Silicon**
+- **Red LEDs**
+- **NOS germanium**
+- **MOSFET clipping**
+The MOS position is a semiconductor clipping mode rather than a conventional diode type; the archive preserves Audiostorm's own terminology. [1]
 
-### Other switching
-- Hi Gain switch
-- Bright switch
+## Versions
+### Mk1A
+- Monochrome in-house printed artwork.
 
-### Op-amp
-- Supplied TI 4558 dual op-amp
-- User-replaceable via turned-pin sockets
+### Mk1B
+- Full-color artwork with Chug and Strum characters.
+- Audiostorm states there were **no tonal or component changes** between Mk1A and Mk1B. [2]
 
-## Version changes
-The explicit Mk1A-to-Mk1B change is cosmetic only. The major product-generation change came later when Audiostorm discontinued Quad Screamer and introduced Otherworld as the expanded successor platform.
+Later product-generation change:
+- Quad Screamer discontinued.
+- **Otherworld** introduced as the expanded successor, effectively Version 2.0. [1]
 
-## Transistor
-- **Technology:** Op-amp-based gain circuit.
-- **Exact documented device:** TI 4558 dual op-amp.
-- Discrete transistor devices are not documented as the main gain element.
-
-## Diode
-- **Documented clipping options:** NOS germanium diodes, red LEDs, silicon clipping and MOSFET clipping.
+## Power / construction
+- External pedal power and battery/PSU arrangements are documented in the builder's product family materials.
+- Exact current draw was not established from the reviewed exact-model sources.
 
 ## Sound
-Quad Screamer can move from smooth, lower-gain germanium drive through classic symmetrical silicon clipping into more open LED voicing and tighter MOSFET clipping. Because the clipping options can be combined and are volume-matched by the builder's circuitry, the pedal can cover a wide range of compressed, open, articulate and higher-gain screamer-derived sounds.
+The four clipping families range from symmetrical silicon and LED clipping through asymmetrical germanium and MOSFET modes. Audiostorm's level-matching circuitry is intended to make those different clipping families practical to compare and combine without large output jumps. [1]
+
+## Research confidence
+- **Identity:** High
+- **Four clipping families:** High
+- **TI 4558:** High
+- **Mk1A/Mk1B cosmetic revision:** High
+- **No tonal/component change between Mk1A/Mk1B:** High
+- **Otherworld successor:** High
+- **Exact passive component values:** Unknown
+- **Exact individual clipping diode part numbers:** Unknown
+- **Current draw:** Not established
+
+## Deep research verification
+Audiostorm's current Quad Screamer and retired-product pages were checked directly. They confirm the four clipping families, socketed TI 4558, Hi Gain/Bright controls, Mk1A/Mk1B distinction and later replacement by Otherworld. [1][2]
 
 ## Sources checked
 1. Audiostorm — Quad Screamer Overdrive: https://audiostorm.uk/product/quad-screamer/
 2. Audiostorm — Retired Products and Revision Histories: https://audiostorm.uk/retired-products/
-3. Audiostorm — Knowledge Index: https://audiostorm.uk/user-manuals/
+3. Audiostorm — Otherworld successor: https://audiostorm.uk/product/otherworld/
 
 ## Photo
 - **Archive status:** **No Photo Archived**
-- **Exact-model reference checked:** https://audiostorm.uk/product/quad-screamer/
-- **Archive note:** Exact-model photography is present on the builder page, but no stable archive asset is being promoted in this pass.
+- **Exact-model reference checked:** Audiostorm exact-model page.
