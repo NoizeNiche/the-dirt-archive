@@ -4,38 +4,61 @@
 - **Archive parent:** Splinter
 - **Builder:** ChiralityAudio
 - **Catalog type:** Overdrive
-- **Identity:** ChiralityAudio Splinter, a TS-808-inspired overdrive with selectable clipping, low-cut bandwidth control, and internally generated higher headroom.
+- **Identity:** TS-808-derived modern overdrive with selectable clipping, three bandwidth/low-cut ranges, higher internal headroom and Burr Brown op-amps. [1][2][3]
 
-## What this pedal is
-ChiralityAudio describes Splinter as a modern overdrive born from a respin of the TS-808 concept rather than a literal clone. It is intended for guitars, basses, synthesizers, drum machines, and other instrument/line-level sources. [1][3]
+## Controls
+- **DRIVE**
+- **LEVEL**
+- **TONE**
+- **CLIPPING:** Three positions, gritty / silicon / mild.
+- **LOW CUT:** Three positions, high / medium / lowest. [1][2]
 
-## Colorways
-- **Matte black** is the standard documented finish.
-- **Natural brushed aluminum / Custom Shop** is a documented second finish. ChiralityAudio states that the two are electronically identical, with the silver enclosure manually brushed and etched, so no two Custom Shop examples look exactly the same. [1]
+## Circuit / topology
+- TS-808-derived modern interpretation.
+- Internal voltage/headroom generation means the pedal remains usable from a standard 9V supply without requiring external 18V power.
+- Burr Brown op-amps are documented by the builder. [1]
 
-## Versions and factory options
-Documented controls:
-- Drive
-- Level
-- Tone
-- Three-position clipping selector: gritty / silicon / mild
-- Three-position low-cut selector: high / medium / lowest [2]
+## Active device
+- **Burr Brown op-amp** family documented.
+- Exact IC part number is not established from the reviewed product page.
 
-The builder documents true bypass, 9V center-negative power, 25 mA maximum draw, and +4 dBu line-level handling. The increased internal headroom is generated on board, so an external 18V supply is not required. [1][2]
+## Diode / clipping
+- Middle clipping mode is explicitly **silicon**.
+- Other modes are described as gritty/aggressive and mild/open.
+- Exact diode part numbers are not established. [2]
 
-## Version changes
-No formal numbered factory revision sequence was established in the checked sources.
+## Power
+- **9V center-negative**
+- **25 mA maximum draw**
+- **+4 dBu** line-level handling. [1]
 
-## Transistor
-No exact-model discrete transistor part number was established. ChiralityAudio's product documentation highlights **Burr Brown op-amps** but does not identify a specific transistor complement. [1]
+## Construction / finish
+- Standard **matte black**.
+- **Natural brushed aluminum / Custom Shop** finish; ChiralityAudio says the two are electronically identical. [1]
 
-## Diode
-The clipping selector provides three clipping behaviors. The builder explicitly identifies the middle setting as **silicon clipping**, while the other settings are described as gritty/aggressive and mild/open. Exact diode part numbers were not established. [2]
+## Version history
+- No numbered electronic revision established.
+- Custom Shop is a finish/construction option, not a circuit revision. [1]
 
 ## Sound
-Splinter can move from transparent clean boost through crunchy overdrive and more complex clipping textures. The Low Cut selector changes the usable bandwidth, from a traditional 808-like bass reduction to broader low-frequency response suited to bass, detuned guitars, and synths. [1][2]
+Splinter spans transparent boost through crunchy overdrive and more complex clipping. Low Cut allows the familiar 808-style bass reduction to broaden toward fuller low-frequency response for bass, detuned guitar and synth/line-level sources. [1][2]
+
+## Research confidence
+- **Identity:** High
+- **TS-808 lineage:** High
+- **Burr Brown op-amp:** High
+- **Three clipping modes:** High
+- **Three Low Cut ranges:** High
+- **9V/25mA/+4dBu:** High
+- **Exact IC/diodes:** Unknown
+
+## Deep research verification
+ChiralityAudio's official Splinter page and manual were cross-checked with Effects Database. The sources support the TS-808-derived architecture, Burr Brown op-amp, clipping selector, Low Cut ranges and 9V/25mA/+4dBu electrical specifications. [1][2][3]
 
 ## Sources checked
 1. ChiralityAudio — Splinter: https://chiralityaudio.com/products/splinter/
-2. ChiralityAudio Splinter manual: https://chiralityaudio.com/wp-content/uploads/2020/08/splinter_manual_2020_01.pdf
+2. ChiralityAudio — Splinter manual: https://chiralityaudio.com/wp-content/uploads/2020/08/splinter_manual_2020_01.pdf
 3. Effects Database — ChiralityAudio Splinter: https://www.effectsdatabase.com/model/chiralityaudio/splinter
+
+## Photo
+- Exact-model photo status remains handled separately.
