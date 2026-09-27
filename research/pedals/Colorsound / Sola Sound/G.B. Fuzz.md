@@ -42,3 +42,6 @@ Historical Sola Sound/Colorsound family records provide identity context; exact 
 ## Sources checked
 1. Premier Guitar - The Mighty Tone Bender Fuzz: https://www.premierguitar.com/gear/fifty-years-of-filth-the-story-of-the-mighty-tone-bender-fuzz?page=2
 2. Kit Rae - A Fuzz and Muff Pedal Timeline: https://www.kitrae.net/music/Fuzz_Big_Muff_Timeline.html
+## Deep research verification
+
+Historical Sola Sound/Colorsound references place G.B. Fuzz among the late-1970s **private-label silicon Jumbo Tone Bender family**. Surviving examples and related family units document the characteristic **Volume, Sustain and Tone** control format, while the broader family is associated with dense, sustaining fuzz and substantial low-end content. Exact G.B.-specific transistor part numbers and clipping diodes remain unverified.
