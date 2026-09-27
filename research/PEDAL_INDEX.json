@@ -42195,8 +42195,8 @@
       "image": "./assets/pedals/lovepedal/amp-50/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Lovepedal/Amp 50.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Lovepedal",
@@ -45867,8 +45867,8 @@
       "image": "./assets/pedals/mojo-hand-fx/rock-city/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mojo Hand FX/Rock City.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Mojo Hand FX",

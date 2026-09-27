@@ -1,0 +1,41 @@
+{
+  "builder": "Lovepedal",
+  "pedal": "Amp 50",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 4,
+  "sources": [
+    {
+      "url": "https://reverb.com/p/lovepedal-amp-50",
+      "title": "Lovepedal Amp 50 Overdrive - Reverb",
+      "h1": "",
+      "excerpt": "",
+      "host": "reverb.com",
+      "source_kind": "reverb"
+    },
+    {
+      "url": "https://equipboard.com/items/lovepedal-amp-50-overdrive",
+      "title": "Lovepedal AMP 50 Overdrive - What To Know & Where To Buy",
+      "h1": "",
+      "excerpt": "",
+      "host": "equipboard.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://bucketlistguitars.com/product/lovepedal-amp-50-overdrive/",
+      "title": "Lovepedal Amp 50 Overdrive Pedal | Bucket List Guitars",
+      "h1": "",
+      "excerpt": "",
+      "host": "bucketlistguitars.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://www.effectsdatabase.com/model/lovepedal/amp50",
+      "title": "Lovepedal Amp 50 - Effects Database",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.effectsdatabase.com",
+      "source_kind": "effects_database"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}
