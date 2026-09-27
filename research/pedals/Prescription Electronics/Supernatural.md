@@ -1,23 +1,40 @@
 # Prescription Electronics — Supernatural
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Supernatural
 - **Builder:** Prescription Electronics
-- **Pedal:** Supernatural
 - **Catalog type:** Fuzz
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Prescription Electronics's Supernatural.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Supernatural** by **Prescription Electronics** as a **Fuzz** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Prescription Electronics's Supernatural is cataloged as a fuzz pedal.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- Inspired by Peter Green's brilliantly conceived raw tone on "The Supernatural" from the Album "A Hard Road" by John Mayall & The Bluesbreakers, this pedal won't disappoint.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+Inspired by Peter Green's brilliantly conceived raw tone on "The Supernatural" from the Album "A Hard Road" by John Mayall & The Bluesbreakers, this pedal won't disappoint.
+In addition, we materialized the recreation of the organic tone Eric Clapton and Mick Taylor produced on their Bluesbreakers albums (not a clone of the Dallas Rangemaster).
+Old and new tone zealots alike will stagger at this fuzzbox's diversity.
+
+## Sources checked
+1. Prescription Electronics Supernatural | Effects Database: https://www.effectsdatabase.com/model/prescription/supernatural
+2. Prescription Electronics Supernatural - Effects and Processors ...: https://www.harmonycentral.com/forums/topic/1535247-prescription-electronics-supernatural/
+3. Prescription Electronics Supernatural Blue - Reverb: https://reverb.com/item/5877873-prescription-electronics-supernatural-blue
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

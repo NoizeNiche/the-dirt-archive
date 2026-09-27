@@ -1,23 +1,44 @@
 # Mojo Hand FX — Sacred Cow
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Sacred Cow
 - **Builder:** Mojo Hand FX
-- **Pedal:** Sacred Cow
 - **Catalog type:** Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Mojo Hand FX's Sacred Cow.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Sacred Cow** by **Mojo Hand FX** as a **Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+The Sacred Cow is a playful nod to two classics: The legendary, elusive, gold standard overdrive, and the center of Texas culinary tradition, Beef.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- The Sacred Cow is a playful nod to two classics: The legendary, elusive, gold standard overdrive, and the center of Texas culinary tradition, Beef.
+- The Sacred Cow has all of the drive and and character that you would expect from a gold pedal, ranging from slightly boosted clean to a nice gain with some bite.
+
+## Versions and factory options
+- The verified evidence references: Mk II, V2.
+- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+The Sacred Cow is a playful nod to two classics: The legendary, elusive, gold standard overdrive, and the center of Texas culinary tradition, Beef.
+The Sacred Cow has all of the drive and and character that you would expect, ranging from slightly boosted clean to a nice gain, with some bite, that sits perfectly in a mix.
+We sought to create an accessible, pedalboard friendly version of this circuit, with some added flexibility, while remaining very faithful to the overall tone.
+
+## Sources checked
+1. Mojo Hand FX Sacred Cow | Effects Database: https://www.effectsdatabase.com/model/mojohand/sacredcow
+2. Mojo Hand FX Sacred Cow Overdrive Effects Pedal - Reverb: https://reverb.com/item/85716077-mojo-hand-fx-sacred-cow-overdrive-effects-pedal
+3. Mojo Hand FX Sacred Cow — Overdrive Pedal | Equipboard: https://equipboard.com/items/mojo-hand-fx-sacred-cow
+4. Mojo Hand FX Sacred Cow | Effects: https://www.micinstrument.com/product/mojo-hand-fx-sacred-cow/
+5. Mojo Hand FX Sacred Cow: https://www.masterguitarworks.com/products/mojo-hand-fx-sacred-cow/
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

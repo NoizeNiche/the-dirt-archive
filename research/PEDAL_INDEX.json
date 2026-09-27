@@ -34798,8 +34798,8 @@
       "image": "./assets/pedals/earthquaker-devices/tone-reaper/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/EarthQuaker Devices/Tone Reaper.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "EarthQuaker Devices",
@@ -35681,8 +35681,8 @@
       "image": "./assets/pedals/electronic-audio-experiments/longsword/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Electronic Audio Experiments/Longsword.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Electronic Audio Experiments",
@@ -41290,8 +41290,8 @@
       "image": "./assets/pedals/khdk-electronics/no-1/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/KHDK Electronics/No.1.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "KHDK Electronics",
@@ -41614,8 +41614,8 @@
       "image": "./assets/pedals/kma-machines/logan/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/KMA Machines/Logan.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "KMA Machines",
@@ -43637,8 +43637,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Mask Audio Electronics/Part Garden.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Mask Audio Electronics",
@@ -44096,8 +44096,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Maxon/Overdrive Pro (OD820).md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Maxon",
@@ -45088,8 +45088,8 @@
       "image": "./assets/pedals/menatone/red-snapper-mojo-ptp/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Menatone/Red Snapper Mojo PTP.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Menatone",
@@ -45101,8 +45101,8 @@
       "image": "./assets/pedals/menatone/the-dirty-blonde/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Menatone/The Dirty Blonde.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Menatone",
@@ -45114,8 +45114,8 @@
       "image": "./assets/pedals/menatone/the-howie-deluxe/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Menatone/The Howie Deluxe.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Menatone",
@@ -46148,8 +46148,8 @@
       "image": "./assets/pedals/mojo-hand-fx/sacred-cow/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mojo Hand FX/Sacred Cow.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Mojo Hand FX",
@@ -46160,8 +46160,8 @@
       "image": "./assets/pedals/mojo-hand-fx/sericon/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mojo Hand FX/Sericon.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Mojo Hand FX",
@@ -46172,8 +46172,8 @@
       "image": "./assets/pedals/mojo-hand-fx/socrates/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mojo Hand FX/Socrates.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Mojo Hand FX",
@@ -46843,8 +46843,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/MXR/EVH 5150 Overdrive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "MXR",
@@ -46855,8 +46855,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/MXR/Fat Sugar Drive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "MXR",
@@ -49365,8 +49365,8 @@
       "image": "./assets/pedals/prescription-electronics/supernatural/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Prescription Electronics/Supernatural.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Prescription Electronics",
@@ -49874,8 +49874,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Retro Mechanical Labs/Electron Fuzz Custom.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Retro Mechanical Labs",
@@ -53120,8 +53120,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/TONECAT/Sir Fuzzington.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "TONECAT",
@@ -54636,8 +54636,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/VOX/Bulldog Distortion.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "VOX",
@@ -56353,8 +56353,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Wren and Cuff/Ace Octave Fuzz.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Wren and Cuff",

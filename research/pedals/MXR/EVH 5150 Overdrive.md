@@ -1,23 +1,47 @@
 # MXR — EVH 5150 Overdrive
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** EVH 5150 Overdrive
 - **Builder:** MXR
-- **Pedal:** EVH 5150 Overdrive
 - **Catalog type:** Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** MXR's EVH 5150 Overdrive.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **EVH 5150 Overdrive** by **MXR** as a **Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Review: MXR EVH 5150 Overdrive Pedal
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- The verified evidence references: V12, V6.
+- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Documented terms in the verified sources: LED.
+- The archive records only the component information explicitly present in these sources.
+
+## Sound
+MXR EVH 5150 Overdrive Guitar Pedal
+Review: MXR EVH 5150 Overdrive Pedal
+I use it as my main distortion rhythm channel and it sounds awesome.
+
+## Sources checked
+1. MXR EVH 5150 Overdrive Pedal | Sweetwater: https://www.sweetwater.com/store/detail/EVH5150--mxr-evh-5150-overdrive
+2. MXR EVH 5150 Overdrive Guitar Pedal | Guitar Center: https://www.guitarcenter.com/MXR/EVH-5150-Overdrive-Guitar-Pedal-1441207060326.gc
+3. MXR EVH 5150 Overdrive: https://vanhalenstore.com/products/evh5150o
+4. MXR EVH 5150 Overdrive Pedal | Equipboard: https://equipboard.com/items/mxr-evh-5150-overdrive
+5. Review: MXR EVH 5150 Overdrive Pedal | Guitar World: https://www.guitarworld.com/magazine/review-mxr-evh-5150-overdrive-pedal
+6. MXR EVH 5150 Overdrive - Eddie Van Halen - User Manual: https://www.manualshelf.com/manual/mxr/04501101/user-manual-english.html
+7. Dunlop EVH5150 MXR EVH 5150 OVERDRIVE Manual | Manualzz: https://manualzz.com/doc/24329541/dunlop-evh5150-mxr-evh-5150-overdrive-manual
+8. MXR EVH 5150 Overdrive | ReverbZone: https://reverbzone.com/mxr/mxr-evh-5150-overdrive/
+9. MXR EVH 5150 Overdrive - Effects Pedals: https://www.effects-pedals.info/p/mxr-evh-5150-overdrive/
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
