@@ -26,3 +26,5 @@ Bixonic's later EXP-2000R was a redesigned reissue with front-access drive contr
 
 ## Photo
 - Exact photo pending.
+## Deep research verification
+The cited Effects Database record supports the original Bixonic EXP2000 Expandora as a multi-gain dirt pedal with **Gain, Tone, Level** and internal DIP switches for Crunch, Overdrive and Distortion. The documented response interacts strongly with instrument volume and can reach fuzz-like territory. The archive keeps the original EXP2000 separate from the later EXP-2000R redesign.
