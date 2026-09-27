@@ -4,31 +4,49 @@
 - **Archive parent:** CMI Fuzz Unit
 - **Builder:** CMI
 - **Catalog type:** Fuzz
-- **Identity:** CMI Fuzz Unit, a silicon fuzz from the OEM family associated with the Sola Sound Jumbo Tone Bender.
+- **Identity:** CMI-branded manifestation of the mid-1970s OEM **Jumbo Tone Bender** / Distortion Sustainer family. [1]
 
 ## What this pedal is
-Effects Database documents the CMI Fuzz Unit as part of the same OEM circuit family as the Barnes & Mullins Champion Fuzz, G.B. Fuzz, and Pro Traffic fuzz units. The family is associated with the mid-1970s Sola Sound Jumbo Tone Bender circuit and is electronically derived from the Big Muff concept while using one fewer transistor stage than a four-stage Muff. [1]
+Effects Database groups the CMI Fuzz Unit with other OEM-branded fuzzes including Barnes & Mullins Champion Fuzz, G.B. Fuzz and Pro Traffic. The common circuit family is associated with the mid-1970s **Sola Sound Jumbo Tone Bender** and is derived from the Big Muff concept with one fewer transistor stage than a full four-stage Muff. [1]
 
-## Colorways
-No complete factory colorway sequence for CMI-branded units was established.
-
-## Versions and factory options
-A complete CMI-specific control list and factory option chronology was not securely established.
-
-## Version changes
-No reliable numbered CMI-specific revision sequence was established.
+## Circuit lineage
+- **Primary lineage:** Sola Sound **Jumbo Tone Bender / Distortion Sustainer** family.
+- **Technology:** Silicon transistor fuzz. [1]
 
 ## Transistor
-The documented circuit family is silicon-based. Exact CMI-unit transistor part numbers were not established from the checked source. [1]
+- **Technology:** Silicon.
+- Exact CMI-unit transistor part numbers are not established by the reviewed source.
 
-## Diode
-No exact-model diode specification was established.
+## Diode / clipping
+- Exact diode/device part numbers are not established.
+
+## Controls / construction
+- Exact CMI-specific control map and switching hardware are not securely preserved in the reviewed documentation.
+- The archive does not fill missing controls from another OEM-branded unit without exact identity evidence.
+
+## Power
+- CMI-specific power data are not securely established.
+
+## Version history
+- No reliable numbered CMI-specific revision established.
+- The OEM-family relationship is historical lineage, not evidence of identical branding or cosmetics.
 
 ## Sound
-The CMI Fuzz Unit belongs to the thick, sustaining Jumbo Tone Bender / Distortion Sustainer lineage. [1]
+The CMI Fuzz Unit belongs to the thick, sustaining Jumbo Tone Bender/Distortion Sustainer family. [1]
 
-## Historical note
-The CMI unit is significant as one of several branded manifestations of the same mid-1970s OEM design. [1]
+## Research confidence
+- **CMI identity:** High
+- **OEM/Jumbo Tone Bender lineage:** High
+- **Silicon family:** High
+- **Exact CMI controls:** Unknown
+- **Exact transistor:** Unknown
+- **Exact diode:** Unknown
+
+## Deep research verification
+Effects Database's OEM-family record was checked directly. It establishes the CMI Fuzz Unit's relationship to the broader mid-1970s Jumbo Tone Bender/Distortion Sustainer family and the silicon technology. [1]
 
 ## Sources checked
 1. Effects Database — Manhattan Fuzz Unit / OEM family history: https://www.effectsdatabase.com/model/manhattan/fuzzunit
+
+## Photo
+- Exact-model local photo status remains handled separately.
