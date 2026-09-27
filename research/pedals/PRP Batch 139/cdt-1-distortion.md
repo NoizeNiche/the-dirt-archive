@@ -16,3 +16,8 @@
 - **Photo status:** The manufacturer page contains exact-model imagery, but no direct image file was promoted into the local archive in this batch.
 - **Research confidence:** High for identity, controls, dimensions and current manufacturer listing; medium for OEM/rebrand relationships; low for internal component specifics because no exact-model teardown or schematic was verified.
 - **Sources checked:** https://eleca.com/products/cdt-1 ; https://eleca.com/collections/california-guitar-effects ; https://www.effectsdatabase.com/events/namm/2012 ; https://www.effectsdatabase.com/model/gravity/gdt1
+## Deep research verification
+
+Effects Database documents the exact California (by Eleca) **CDT-1 Distortion** as an OEM compact analogue distortion that also appeared under labels including GMF Bullseye DS-1 and Gravity GDT-1. Verified controls are **Level, Gain, Tone**, with a two-stage gain design and true bypass. The record describes 9V battery or 9V centre-negative adapter operation and a compact metal enclosure, with a range from light crunch to heavier saturation.
+
+Source: https://www.effectsdatabase.com/model/eleca/california/distortion
