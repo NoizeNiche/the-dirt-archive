@@ -30,3 +30,6 @@ Smooth, dark and mid-forward fuzz with the characteristic Russian Muff-family re
 
 ## Photo
 - **Archive status:** **No Photo Archived**
+
+## Deep research verification
+Big Knob's exact model listing identifies Green Russian as a reproduction of the Russian Sovtek fuzz, described as smooth, dark and mid-forward. The builder's current catalog groups it with the Muff family and states that its pedals are hand-wired analog, true bypass, with 9V adapter/battery support. Exact component part numbers for this build are not published in the reviewed listing. citeturn302732search0
