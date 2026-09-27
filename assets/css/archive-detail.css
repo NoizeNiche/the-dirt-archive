@@ -54,6 +54,10 @@ h1{margin:0;font-size:clamp(2.5rem,7vw,5.8rem);line-height:.88;letter-spacing:-.
 .statusPill.unknown{background:#f1eee7;color:#777167}
 .statusPill.photo{background:#ece9df;color:#48453f}
 .statusPill.photoMissing{background:#f3ede5;color:#8a5d3a}
+.statusPill.evidence{background:#e9f5aa;border-color:#c9df62;color:#273000}
+.statusPill.conflict{background:#f7e5d9;border-color:#ddb89e;color:#744425}
+.statusPill.sourceCount{background:#ebe8e0;color:#514e47}
+
 .sourceLink{color:inherit;text-decoration:underline;text-decoration-thickness:1px;text-underline-offset:2px}
 .sourceLink:hover{text-decoration-thickness:2px}
 main{padding:20px 0 60px}
