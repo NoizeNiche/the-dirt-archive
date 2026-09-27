@@ -43,6 +43,19 @@ function pedalIdentityVariants(pedal){
   // an exact identity variant without weakening ordinary hyphenated model names.
   const core=raw.split(/\s+—\s+/)[0].trim();
   if(core && core!==raw) variants.push(core);
+
+  // Product codes are often appended in parentheses while source pages reorder or
+  // omit the code. Keep both the descriptive model name and the compact code as
+  // explicit identity variants, still subject to the builder and evidence gates.
+  for(const value of [raw,core]){
+    const match=String(value||'').match(/^(.*?)\s*\(([^()]{2,10})\)\s*$/);
+    if(!match) continue;
+    const base=String(match[1]||'').trim();
+    const code=String(match[2]||'').trim();
+    if(base && !variants.includes(base)) variants.push(base);
+    if(/^[A-Z0-9][A-Z0-9._-]{1,9}$/.test(code) && !variants.includes(code)) variants.push(code);
+  }
+
   // Historical archive entries can encode identity relationships in the display
   // name, such as "formerly Shiva", "Legacy Reissue", or "consolidated across V1/V2/V3".
   // Recover the underlying model token as another exact identity variant. This is
