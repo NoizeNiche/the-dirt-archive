@@ -365,7 +365,7 @@ main{padding:24px 0 72px}
 .rule{height:1px;background:var(--line);margin:16px 0}
 .archivePulse{
   display:grid;
-  grid-template-columns:repeat(4,minmax(0,1fr));
+  grid-template-columns:repeat(5,minmax(0,1fr));
   gap:8px;
   margin-top:12px;
 }
@@ -393,6 +393,9 @@ main{padding:24px 0 72px}
   font-weight:900;
   text-transform:uppercase;
   letter-spacing:.08em;
+}
+@media(max-width:980px){
+  .archivePulse{grid-template-columns:repeat(3,minmax(0,1fr))}
 }
 @media(max-width:620px){
   .archivePulse{grid-template-columns:1fr}
