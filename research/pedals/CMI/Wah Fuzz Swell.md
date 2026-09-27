@@ -4,32 +4,47 @@
 - **Archive parent:** Wah Fuzz Swell
 - **Builder:** CMI
 - **Catalog type:** Fuzz / Wah
-- **Identity:** CMI Wah Fuzz Swell, a CMI-branded combined wah/fuzz/swell effect in the Colorsound-era family.
+- **Identity:** CMI-branded combined wah/fuzz/swell effect associated with the Colorsound-era Supa Wah-Fuzz-Swell family. [1][2]
 
 ## What this pedal is
-Historical documentation places the Wah Fuzz Swell name in the Colorsound-era family of combined wah and fuzz effects. The surviving historical evidence is sparse, so the archive keeps Wah Fuzz Swell as its own catalog identity rather than merging it with the plain CMI Fuzz Unit. [1][2]
+Historical documentation places Wah Fuzz Swell in the 1970s family of combined wah, fuzz and swell effects associated with the Colorsound/Sola Sound ecosystem. The archive preserves the CMI branding rather than silently converting it into a Colorsound model. [1][2]
 
-## Colorways
-No complete CMI-specific factory colorway sequence was established.
+## Circuit lineage
+- **Primary historical family:** Colorsound/Sola Sound combined Wah-Fuzz-Swell.
+- This lineage does not establish that every CMI-branded unit is electrically identical to every Colorsound-branded unit.
 
-## Versions and factory options
-The surviving documentation supports a combined wah / fuzz / swell concept, but an authoritative CMI-specific control list and switching chronology were not securely recovered.
-
-## Version changes
-No reliable numbered CMI-specific revision sequence was established.
+## Controls / construction
+- The reviewed CMI-specific sources do not preserve a complete authoritative control map.
+- No CMI-specific enclosure/revision chronology is established.
 
 ## Transistor
-Unknown from the checked CMI-specific documentation.
+- Exact transistor technology/part number is not documented for the CMI-branded unit.
 
-## Diode
-Unknown from the checked CMI-specific documentation.
+## Diode / clipping
+- Exact clipping-device type and part number are not documented.
+
+## Power
+- CMI-specific voltage/current data are not securely established.
+
+## Version history
+- No numbered CMI-specific electronic revision established.
+- Historical Colorsound associations are retained as lineage context.
 
 ## Sound
-The model belongs to the combined wah/fuzz/swell effect family associated with the Colorsound Supa Wah-Fuzz-Swell era. [2]
+The family is associated with combined wah sweep, fuzz saturation and swell-style volume dynamics. Exact CMI-specific voicing differences are not securely documented. [2]
 
-## Historical note
-The name is commonly associated with Colorsound's Supa Wah-Fuzz-Swell product family. This is recorded as historical lineage, not as proof that every CMI-branded unit is electrically identical to every Colorsound example.
+## Research confidence
+- **CMI identity:** High
+- **Colorsound-era family association:** High
+- **Exact CMI controls:** Unknown
+- **Exact components:** Unknown
+
+## Deep research verification
+The surviving Effects Database OEM-family record and Tone Bender/Colorsound historical reference were cross-checked. The evidence supports the family association but does not expose a CMI-specific schematic or complete control legend. [1][2]
 
 ## Sources checked
-1. Effects Database — Manhattan Fuzz Unit / CMI OEM family: https://www.effectsdatabase.com/model/manhattan/fuzzunit
+1. Effects Database — Manhattan Fuzz Unit / OEM family: https://www.effectsdatabase.com/model/manhattan/fuzzunit
 2. Wikipedia — Tone Bender / Colorsound family: https://en.wikipedia.org/wiki/Tone_Bender
+
+## Photo
+- Exact-model local photo status remains handled separately.
