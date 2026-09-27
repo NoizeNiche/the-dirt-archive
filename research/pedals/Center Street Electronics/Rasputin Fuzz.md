@@ -4,37 +4,45 @@
 - **Archive parent:** Rasputin Fuzz
 - **Builder:** Center Street Electronics
 - **Catalog type:** Fuzz
-- **Identity:** Center Street Electronics Rasputin Fuzz, a fuzz with selectable silicon/germanium transistor paths.
+- **Identity:** Hybrid Germanium/Silicon fuzz whose transistor technology is selected through two controls, with conventional Fuzz and Volume controls. [1][2]
 
-## What this pedal is
-Pedal of the Day describes the Rasputin as a fuzz built around both silicon and germanium transistor options. Two internal transistor-selection switches let the player choose combinations of the two transistor types. [1]
+## Controls / architecture
+- **FUZZ**
+- **VOLUME**
+- Two transistor-selection/voicing switches selecting combinations of **Germanium and Silicon** devices. [1][2]
 
-The documented front-panel controls are **Fuzz** and **Volume**, plus two tonal toggle switches. [1][2]
+## Circuit / active devices
+- Hybrid **Germanium + Silicon** transistor architecture.
+- The switches alter which transistor technology is active in the gain path.
+- Exact transistor part numbers are not established. [1]
 
-## Colorways
-- The checked sources document the exact model but do not establish a complete factory colorway sequence.
+## Diode / clipping
+- Exact clipping-device type and part number are not publicly documented.
 
-## Versions and factory options
-The two toggle switches select the internal transistor paths between **silicon and germanium**, while the Fuzz control ranges from more conventional fuzz toward gated/glitchy behavior when rolled back. [1][2]
+## Power
+- **9V center-negative**.
+- **No battery** is documented by the exact retailer record. [2]
 
-The pedal is true bypass and uses a standard 9V center-negative supply; retailer documentation states it does not use a battery. [2]
-
-No formal numbered factory V1/V2 sequence was established.
-
-## Version changes
-No reliable numbered production revision history was found in the checked sources.
-
-## Transistor
-The Rasputin is explicitly documented as using **both silicon and germanium transistors**, selected through the two internal/tonal switches. [1]
-
-Exact transistor part numbers were not established.
-
-## Diode
-No exact-model diode specification was established in the checked sources.
+## Version history
+- No numbered electronic revision established.
 
 ## Sound
-With the Fuzz control turned down, the Rasputin can produce gated, splattery, glitch-like breakup. Higher fuzz settings move toward thicker, warmer fuzz. The transistor-selection switches change the character of the resulting fuzz and broaden the available responses. [1][2]
+Pedal of the Day describes the Rasputin as moving from thicker conventional fuzz toward more gated/glitch-like behavior as the Fuzz control is reduced. The transistor-selection switches change the response between warmer Germanium and firmer Silicon behavior. [1][2]
+
+## Research confidence
+- **Identity:** High
+- **Germanium/Silicon switching:** High
+- **Two-control/toggle architecture:** High
+- **9V/no battery:** High
+- **Exact transistor:** Unknown
+- **Exact diode:** Unknown
+
+## Deep research verification
+Pedal of the Day and Effekt Boutique were cross-checked. The sources establish the hybrid transistor architecture, two front-panel fuzz/volume controls, transistor-selection switches and 9V/no-battery configuration. [1][2]
 
 ## Sources checked
 1. Pedal of the Day — Center Street Electronics Rasputin Fuzz: https://www.pedal-of-the-day.com/2015/04/17/center-street-electronics-rasputin-fuzz/
-2. Effekt Boutique — Center Street Electronics Rasputin Fuzz: https://www.effekt-boutique.de/center-street-electronics-rasputin-fuzz.html
+2. Effekt Boutique — Center Street Electronics Rasputin: https://www.effekt-boutique.de/center-street-electronics-rasputin-fuzz.html
+
+## Photo
+- Exact-model photo status remains handled separately.
