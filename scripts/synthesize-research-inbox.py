@@ -51,6 +51,60 @@ def slug(value):
     return re.sub(r"[^A-Za-z0-9]+", "_", str(value or "").strip()).strip("_")[:120] or "unknown"
 
 
+def identity_variants(value):
+    raw = norm(value).lower()
+    variants = {raw}
+    core = re.split(r"\s+—\s+", raw, maxsplit=1)[0].strip()
+    if core:
+        variants.add(core)
+
+    # Catalog display names may carry historical relationship descriptors.
+    base = re.sub(r"\s*\/\s*formerly\s+.+$", "", raw, flags=re.I).strip()
+    base = re.sub(r"\s+legacy\s+reissue.*$", "", base, flags=re.I).strip()
+    base = re.sub(r"\s+—\s+consolidated.*$", "", base, flags=re.I).strip()
+    if base:
+        variants.add(base)
+
+    former = re.search(r"\bformerly\s+(.+)$", raw, flags=re.I)
+    if former:
+        variants.add(re.sub(r"[\s.,;:]+$", "", former.group(1)).strip())
+
+    # Product codes may be reordered or omitted by manuals/retailer titles.
+    for value_text in (raw, core):
+        match = re.match(r"^(.*?)\s*\(([^()]{2,10})\)\s*$", value_text)
+        if not match:
+            continue
+        base_name = match.group(1).strip()
+        code = match.group(2).strip()
+        if base_name:
+            variants.add(base_name)
+            variants.add(f"{base_name} {code}")
+            variants.add(f"{code} {base_name}")
+        if re.match(r"^[a-z0-9][a-z0-9._-]{1,9}$", code, flags=re.I):
+            variants.add(code)
+
+    return {v for v in variants if v}
+
+
+def resolve_catalog_key(builder, pedal, by_key):
+    exact = (builder, pedal)
+    if exact in by_key:
+        return exact
+    packet_builder = norm(builder).lower()
+    packet_variants = identity_variants(pedal)
+    matches = []
+    for key in by_key:
+        catalog_builder, catalog_pedal = key
+        if norm(catalog_builder).lower() != packet_builder:
+            continue
+        catalog_variants = identity_variants(catalog_pedal)
+        if packet_variants & catalog_variants:
+            matches.append(key)
+    if len(matches) == 1:
+        return matches[0]
+    return None
+
+
 def split_sentences(text):
     clean = norm(re.sub(r"\[[0-9]+\]", "", text))
     # Evidence excerpts can be page dumps rather than prose. Split on common
@@ -337,8 +391,10 @@ def main():
             continue
         if packet.get("status") != "VERIFIED_EVIDENCE_STAGED":
             continue
-        key = (packet.get("builder", ""), packet.get("pedal", ""))
-        item = by_key.get(key)
+        packet_builder = packet.get("builder", "")
+        packet_pedal = packet.get("pedal", "")
+        key = resolve_catalog_key(packet_builder, packet_pedal, by_key)
+        item = by_key.get(key) if key else None
         if not item:
             held += 1
             continue
