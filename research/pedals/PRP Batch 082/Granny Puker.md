@@ -34,3 +34,21 @@ Big John's official timeline places Granny Puker in 2008.
 
 ## Photo
 - **Archive status:** **No Photo Archived**
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Big John Effects – Granny Puker – Sound Nations You are using an outdated browser.
+
+### Verified version references
+- The evidence references: V4.
+
+### Verified sound evidence
+2 Separate effects in one box (Preamp/Overdrive & Dirty Octave Down) Functions are: – Volume control, – Mixer control (mix-in the amount of octave down), – Puke control = Gain (adjusts the amount of distortion).
+You can use the Granny Puker as a distortion box: Just turn the mixer knob to the minimum (good for chords).
+The Big John Granny Puker is a unique overdrive/octave down effect pedal that gives you the ability to use straight overdrive, straight octave down, and mix between the two.
+
+### Sources checked in this pass
+1. Big John Effects – Granny Puker – Sound Nations: https://soundnations.com/product/big-john-effects-granny-puker/

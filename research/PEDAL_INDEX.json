@@ -9028,8 +9028,8 @@
       "research_record": "./research/pedals/PRP Batch 082/Granny Puker.md",
       "image_source_url": "https://soundnations.com/wp-content/uploads/2015/07/IMG_2232-for-sound-nations-600x600.jpg",
       "image_source_page": "https://soundnations.com/product/big-john-effects-granny-puker/",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Big John Effects",
@@ -36356,8 +36356,8 @@
       "image": "./assets/pedals/jptr-fx/silvermachine-dual-gain-stage-fuzz-pedal/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/JPTR FX/Silvermachine - Dual-gain-stage Fuzz Pedal.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "JPTR FX",

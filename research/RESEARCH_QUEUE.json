@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-27T04:24:13.425043+00:00",
+  "generated_at": "2026-09-27T04:26:53.701919+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,25 +10,18 @@
     "pictured": 3040,
     "complete": 3040,
     "research_pending": 0,
-    "deep_research_pending": 1844,
-    "deep_researched": 1917,
+    "deep_research_pending": 1842,
+    "deep_researched": 1919,
     "surface_ready": 3761
   },
   "next_target": {
     "builder": "Big John Effects",
-    "pedal": "Granny Puker",
+    "pedal": "Hairy Balls",
     "catalog_type": "",
-    "research_record": "./research/pedals/PRP Batch 082/Granny Puker.md",
+    "research_record": "./research/pedals/PRP Batch 083/Hairy Balls.md",
     "research_level": "surface"
   },
   "working_set": [
-    {
-      "builder": "Big John Effects",
-      "pedal": "Granny Puker",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 082/Granny Puker.md",
-      "research_level": "surface"
-    },
     {
       "builder": "Big John Effects",
       "pedal": "Hairy Balls",
@@ -195,6 +188,13 @@
       "pedal": "Parametric Overdrive",
       "catalog_type": "",
       "research_record": "./research/pedals/PRP Batch 086/Parametric Overdrive.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Big Tone Music Brewery",
+      "pedal": "Six Of Swords",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 086/Six Of Swords.md",
       "research_level": "surface"
     }
   ]
