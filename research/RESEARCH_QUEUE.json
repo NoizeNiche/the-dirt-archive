@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-27T23:35:17.991406+00:00",
+  "generated_at": "2026-09-27T23:35:40.168191+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,8 +10,8 @@
     "pictured": 3466,
     "complete": 3466,
     "research_pending": 0,
-    "deep_research_pending": 302,
-    "deep_researched": 3904,
+    "deep_research_pending": 290,
+    "deep_researched": 3916,
     "surface_ready": 4206
   },
   "next_target": {
@@ -51,34 +51,6 @@
       "research_level": "surface"
     },
     {
-      "builder": "Dwarfcraft Devices",
-      "pedal": "SheFuzz / formerly Shiva",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Dwarfcraft Devices/SheFuzz / formerly Shiva.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "EarthQuaker Devices",
-      "pedal": "Dirt Transmitter Legacy Reissue — consolidated with Dirt Transmitter",
-      "catalog_type": "",
-      "research_record": "./research/pedals/EarthQuaker Devices/Dirt Transmitter Legacy Reissue — consolidated with Dirt Transmitter.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "EarthQuaker Devices",
-      "pedal": "Fuzz Master General Legacy Reissue — consolidated with Fuzz Master General",
-      "catalog_type": "",
-      "research_record": "./research/pedals/EarthQuaker Devices/Fuzz Master General Legacy Reissue — consolidated with Fuzz Master General.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "EarthQuaker Devices",
-      "pedal": "Fuzz Master General Legacy Reissue — Limited Edition Octave Fuzz Blaster",
-      "catalog_type": "",
-      "research_record": "./research/pedals/EarthQuaker Devices/Fuzz Master General Legacy Reissue — Limited Edition Octave Fuzz Blaster.md",
-      "research_level": "surface"
-    },
-    {
       "builder": "EarthQuaker Devices",
       "pedal": "Rancho de la Luna Dirt Transmitter — Fuzz Driver",
       "catalog_type": "",
@@ -86,66 +58,10 @@
       "research_level": "surface"
     },
     {
-      "builder": "EarthQuaker Devices",
-      "pedal": "Special Cranker — Overdrive",
-      "catalog_type": "",
-      "research_record": "./research/pedals/EarthQuaker Devices/Special Cranker — Overdrive.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "EarthQuaker Devices",
-      "pedal": "Spires — Fuzz Doubler",
-      "catalog_type": "",
-      "research_record": "./research/pedals/EarthQuaker Devices/Spires — Fuzz Doubler.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "EarthQuaker Devices",
-      "pedal": "Talons — High Gain Overdrive",
-      "catalog_type": "",
-      "research_record": "./research/pedals/EarthQuaker Devices/Talons — High Gain Overdrive.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "EarthQuaker Devices",
-      "pedal": "Terminal — Destructive Fuzz Device",
-      "catalog_type": "",
-      "research_record": "./research/pedals/EarthQuaker Devices/Terminal — Destructive Fuzz Device.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "EarthQuaker Devices",
-      "pedal": "Westwood — Translucent Drive Manipulator",
-      "catalog_type": "",
-      "research_record": "./research/pedals/EarthQuaker Devices/Westwood — Translucent Drive Manipulator.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "EarthQuaker Devices",
-      "pedal": "White Light Legacy Reissue — Overdrive",
-      "catalog_type": "",
-      "research_record": "./research/pedals/EarthQuaker Devices/White Light Legacy Reissue — Overdrive.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "EarthQuaker Devices",
-      "pedal": "Zoar — Dynamic Audio Grinder / distortion",
-      "catalog_type": "",
-      "research_record": "./research/pedals/EarthQuaker Devices/Zoar — Dynamic Audio Grinder / distortion.md",
-      "research_level": "surface"
-    },
-    {
       "builder": "Fairfield Circuitry",
       "pedal": "Barbershop — consolidated across V1 / Millennium Edition",
       "catalog_type": "",
       "research_record": "./research/pedals/Fairfield Circuitry/Barbershop — consolidated across V1 / Millennium Edition.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Fjord Fuzz",
-      "pedal": "Berserk — consolidated identity across V1/V2/V3",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Fjord Fuzz/Berserk — consolidated identity across V1/V2/V3.md",
       "research_level": "surface"
     },
     {
@@ -195,6 +111,90 @@
       "pedal": "Hi-Mu",
       "catalog_type": "",
       "research_record": "./research/pedals/Fulltone/Hi-Mu.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Greer Amps",
+      "pedal": "No.9 Drive and Distortion",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Greer Amps/No.9 Drive and Distortion.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Greer Amps",
+      "pedal": "Reactor #4",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Greer Amps/Reactor #4.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "GuitarSlinger Effects",
+      "pedal": "87 MKIII High Gain Distortion",
+      "catalog_type": "",
+      "research_record": "./research/pedals/GuitarSlinger Effects/87 MKIII High Gain Distortion.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Himmelstrutz Elektro Art",
+      "pedal": "FETTO 9.0",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Himmelstrutz Elektro Art/FETTO 9.0.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Himmelstrutz Elektro Art",
+      "pedal": "FETTO Jr",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Himmelstrutz Elektro Art/FETTO Jr.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Himmelstrutz Elektro Art",
+      "pedal": "FETTO SC",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Himmelstrutz Elektro Art/FETTO SC.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Himmelstrutz Elektro Art",
+      "pedal": "TÔNKer",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Himmelstrutz Elektro Art/TÔNKer.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Hudson Electronics",
+      "pedal": "Motorcycle — limited collaboration with Joe's Pedals",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Hudson Electronics/Motorcycle — limited collaboration with Joe's Pedals.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Hungry Robot",
+      "pedal": "FZ",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Hungry Robot/FZ.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "IdiotBox Effects",
+      "pedal": "Holy Trooper Fuzz (retired)",
+      "catalog_type": "",
+      "research_record": "./research/pedals/IdiotBox Effects/Holy Trooper Fuzz (retired).md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "IdiotBox Effects",
+      "pedal": "Lazer Fuzz (retired)",
+      "catalog_type": "",
+      "research_record": "./research/pedals/IdiotBox Effects/Lazer Fuzz (retired).md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "IdiotBox Effects",
+      "pedal": "Lazer Phazer (retired)",
+      "catalog_type": "",
+      "research_record": "./research/pedals/IdiotBox Effects/Lazer Phazer (retired).md",
       "research_level": "surface"
     }
   ]

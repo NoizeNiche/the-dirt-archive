@@ -1,23 +1,37 @@
 # EarthQuaker Devices — Fuzz Master General Legacy Reissue — consolidated with Fuzz Master General
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Fuzz Master General Legacy Reissue — consolidated with Fuzz Master General
 - **Builder:** EarthQuaker Devices
-- **Pedal:** Fuzz Master General Legacy Reissue — consolidated with Fuzz Master General
 - **Catalog type:** Fuzz
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** EarthQuaker Devices's Fuzz Master General Legacy Reissue — consolidated with Fuzz Master General.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Fuzz Master General Legacy Reissue — consolidated with Fuzz Master General** by **EarthQuaker Devices** as a **Fuzz** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+EarthQuaker Devices's Fuzz Master General Legacy Reissue — consolidated with Fuzz Master General is cataloged as a fuzz pedal.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- The verified evidence references: V2.
+- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Documented terms in the verified sources: Germanium Fuzz.
+- The archive records only the component information explicitly present in these sources.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+The verified evidence packet did not contain enough pedal-specific sonic description to make a more detailed sound summary without adding unsupported interpretation.
+
+## Sources checked
+1. Legacy Products &mdash; EarthQuaker Devices: https://www.earthquakerdevices.com/legacy
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

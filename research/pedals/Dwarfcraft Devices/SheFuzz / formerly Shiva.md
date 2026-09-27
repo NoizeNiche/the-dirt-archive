@@ -1,23 +1,40 @@
 # Dwarfcraft Devices — SheFuzz / formerly Shiva
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** SheFuzz / formerly Shiva
 - **Builder:** Dwarfcraft Devices
-- **Pedal:** SheFuzz / formerly Shiva
 - **Catalog type:** Fuzz
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Dwarfcraft Devices's SheFuzz / formerly Shiva.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **SheFuzz / formerly Shiva** by **Dwarfcraft Devices** as a **Fuzz** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Dwarfcraft Devices's SheFuzz / formerly Shiva is cataloged as a fuzz pedal.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- The verified evidence references: v2.
+- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+What seems like a long time ago, I tried to make a normal fuzz.
+While the She Fuzz does do a couple familiar sounds, a nice beefy powerchordy type of fighitn' fuzz, and a snotty octave up, I found it much more exciting to get odd sounds out of it.
+She Fuzz has become quite a hit with the kids, and who am I to argue?
+
+## Sources checked
+1. Dwarfcraft Devices Announces SheFuzz Pedal - Premier Guitar: https://www.premierguitar.com/dwarfcraft-devices-announces-shefuzz-pedal
+2. Dwarfcraft Devices SheFuzz | Effects Database: https://www.effectsdatabase.com/model/dwarfcraft/shefuzz
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

@@ -1,0 +1,41 @@
+{
+  "builder": "Fjord Fuzz",
+  "pedal": "Berserk \u2014 consolidated identity across V1/V2/V3",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 4,
+  "sources": [
+    {
+      "url": "https://pedalfilter.com/fjord-fuzz/berserk",
+      "title": "Berserk \u2014 Fjord Fuzz Fuzz Pedal | PedalFilter | PedalFilter",
+      "h1": "Berserk",
+      "excerpt": "Berserk \u2014 Fjord Fuzz Fuzz Pedal | PedalFilter | PedalFilter Skip to main content The guitar pedal database Search pedals The fastest, most visual guitar pedal database. All signal, no noise. About \u2022 Collections \u2022 Blog \u2022 Compare \u2022 Privacy Policy \u2022 Terms of Service \u2022 Submit a pedal \u2022 \u00a9 2026 PedalFilter Clear Compare ( 0 ) Back Home Fjord Fuzz Berserk Back to results Fjord Fuzz Berserk Fuzz Fuzz Face/Tone Bender hybrid with weird-biased preamp. S8050 silicon transistors, biased to 6.66V. Fuzz combining Fuzz Face/Tone Bender circuits with single-transistor preamp stage. 2x S8050 (J3Y) silicon transistors. Biased to 6.66V factory setting - adjustable internally (3V for sputtery, 4.5-5V for vintage correct). Controls: Volume, Gain, Bias, Thickness. Preamp eliminates buffer/wah compatibility issues of original circuits. Incandenza relay bypass. Inherently noisy circuit type - use clean, high-quality power. 9V DC, 200mA recommended. Demo Videos Specifications Power 9V DC Current Draw 200mA Polarity center-negative Shop This Pedal Reverb Amazon Sweetwater Coming soon Using these links supports PedalFilter at no extra cost to you. \u2764\ufe0f The fastest, most visual guitar pedal database. All signal, no noise. About \u2022 Collections \u2022 Blog \u2022 Compare \u2022 Privacy Policy \u2022 Terms of Service \u2022 Submit a pedal \u2022 \u00a9 2026 PedalFilter The guitar pedal database Search pedals You May Also Like AA Germanium Fuzz Barber Electronics Exacta Aclam The Mocker Previous Aura Spectrum Jerry Douglas Signature Next Bifrost",
+      "host": "pedalfilter.com",
+      "source_kind": "catalog_verified"
+    },
+    {
+      "url": "https://reverb.com/item/54635495-fjord-fuzz-berserk-pedal",
+      "title": "catalog/override source",
+      "h1": "",
+      "excerpt": "",
+      "host": "reverb.com",
+      "source_kind": "reverb"
+    },
+    {
+      "url": "https://www.awin1.com/cread.php?awinmid=67144&awinaffid=2750576&ued=https%3A%2F%2Freverb.com%2Fmarketplace%3Fquery%3DFjord%2520Fuzz%2520%2522Berserk%2522",
+      "title": "Reverb",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.awin1.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://www.amazon.com/s?k=Fjord%20Fuzz%20%22Berserk%22%20guitar%20pedal&tag=pedalfilter-20",
+      "title": "",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.amazon.com",
+      "source_kind": "other"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}

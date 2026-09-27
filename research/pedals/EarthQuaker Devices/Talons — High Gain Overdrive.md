@@ -1,23 +1,40 @@
 # EarthQuaker Devices — Talons — High Gain Overdrive
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Talons — High Gain Overdrive
 - **Builder:** EarthQuaker Devices
-- **Pedal:** Talons — High Gain Overdrive
 - **Catalog type:** Distortion / Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** EarthQuaker Devices's Talons — High Gain Overdrive.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Talons — High Gain Overdrive** by **EarthQuaker Devices** as a **Distortion / Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+EarthQuaker Devices's Talons — High Gain Overdrive is cataloged as a distortion / overdrive pedal.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+Unlike all our other overdrives, the Talons was not designed to emulate any specific sound or era.
+The presence control gives you a wide range of top-end contour and the active 3 band EQ allows you to sculpt your tone to perfection.
+The Talons can be powered at the standard 9v for a warmer amp-like tone or at 18v for greater headroom, more volume and a brighter, stiffer grind.
+
+## Sources checked
+1. Talons &mdash; EarthQuaker Devices: https://www.earthquakerdevices.com/talons
+2. EarthQuaker Devices Talons Pedal Review - Premier Guitar: https://www.premierguitar.com/gear/earthquaker-devices-talons-pedal-review
+3. catalog/override source: https://www.effectsdatabase.com/model/earthquaker/talons
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
