@@ -15874,8 +15874,8 @@
         "https://forum.effectsdatabase.com/viewtopic.php?f=6&t=551"
       ],
       "image_source_pages_verified": true,
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Brière Pedals",
@@ -17221,8 +17221,8 @@
         "https://rvb-img.reverb.com/i/s--66U5psh6--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/b3yktyxpulawce3lau9r.jpg",
         "https://rvb-img.reverb.com/image/upload/s--o3Abhu9Q--/f_auto%2Ct_large/v1628216579/sfzszxicskfbnsamt9m6.jpg"
       ],
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Build Your Own Clone",
@@ -23361,8 +23361,8 @@
       "image": "./assets/pedals/chocolate-electronics/chocolate-crunch/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Chocolate Electronics/Chocolate Crunch.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Chocolate Electronics",
@@ -23386,8 +23386,8 @@
       "image": "./assets/pedals/chocolate-electronics/fuzzy-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Chocolate Electronics/Fuzzy Overdrive.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Chocolate Electronics",
@@ -23945,8 +23945,8 @@
       "image": "./assets/pedals/citadel-electronics/plutonium-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Citadel Electronics/Plutonium Overdrive.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Citadel Electronics",
@@ -24053,8 +24053,8 @@
       "image": "./assets/pedals/clarenzio/br-ne-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Clarenzio/Brìne - Distortion.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Clarenzio",
@@ -24065,8 +24065,8 @@
       "image": "./assets/pedals/clarenzio/cativ-ria-tube-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Clarenzio/Cativèria - Tube Distortion.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Clarenzio",
@@ -24077,8 +24077,8 @@
       "image": "./assets/pedals/clarenzio/sandroun-tube-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Clarenzio/Sandroun - Tube Overdrive.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Clarenzio",
@@ -24089,8 +24089,8 @@
       "image": "./assets/pedals/clarenzio/sp-tnador-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Clarenzio/Spètnador - Overdrive.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Clarenzio",
@@ -24101,8 +24101,8 @@
       "image": "./assets/pedals/clarenzio/str-mne-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Clarenzio/Strèmne - Fuzz.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Clarenzio",
@@ -24113,8 +24113,8 @@
       "image": "./assets/pedals/clarenzio/st-rloun-tube-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Clarenzio/Stùrloun - Tube Distortion.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Clark Amplification",
@@ -24294,8 +24294,8 @@
       "image": "./assets/pedals/cleveland-music-co/smuffle-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Cleveland Music Co./Smuffle Fuzz.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Cleveland Music Co.",
@@ -24330,8 +24330,8 @@
       "image": "./assets/pedals/cleveland-music-co/westside-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Cleveland Music Co./WestSide Overdrive.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Cleveland Music Co.",
@@ -24705,8 +24705,8 @@
       "image": "./assets/pedals/coda-effects/black-hole/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Coda Effects/Black Hole.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Coda Effects",
@@ -24717,8 +24717,8 @@
       "image": "./assets/pedals/coda-effects/dolmen-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Coda Effects/Dolmen Fuzz.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Code",
@@ -26569,8 +26569,8 @@
       "research_record": "./research/pedals/Conrad/Conrad Fuzzy Fury.md",
       "image_source_page": "https://www.effectsdatabase.com/model/conrad/fuzzyfury",
       "image_source_url": "https://files.effectsdatabase.com/gear/pics/conrad_fuzzyfury-catalog1968_001.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Conrad",

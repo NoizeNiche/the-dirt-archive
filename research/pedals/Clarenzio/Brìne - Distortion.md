@@ -31,3 +31,13 @@ The exact model is documented as a distortion pedal. Deeper sonic characterizati
 
 ## Sources checked
 1. Effects Database — Weekly overview 2015 week 07: https://www.effectsdatabase.com/updates/weekly/20150216
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Clarenzio's Brìne - Distortion is cataloged as a distortion pedal.
+
+### Sources checked in this pass
+1. Weekly overview (2015, week 07): 1 new brand and 30 new pedals | Effects Database: https://www.effectsdatabase.com/updates/weekly/20150216

@@ -42,3 +42,26 @@ The Dolmen is deliberately low-heavy and aggressive, with strong sustain and a m
 ## Sources checked
 1. Coda Effects — Dolmen Fuzz: https://www.coda-effects.fr/p/dolmen-fuzz.html
 2. Coda Effects — Dolmen Fuzz crowdfunding announcement: https://www.coda-effects.com/2016/09/crowdfunding-campaign-for-montagne.html
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Coda Effects's Dolmen Fuzz is cataloged as a fuzz pedal.
+
+### Verified color/finish evidence
+- Malheureusement plus disponible, elle est connue pour son son lourd et puissant, utilisée ainsi par pas mal de groupe au son "heavy" comme Fu Manchu ou Kyuss, mais aussi par des groupes plus rock comme Dinosaur Jr ou les Black Keys, et s'adapte aussi bien à la guitare qu'à la basse.
+- Black Hole : preamp de Sunn Model T avec des JFET Condensateurs : que choisir ?
+- Malheureusement plus disponible, elle est connue pour son son lourd et puissant, utilisée ainsi par pas mal de groupe au son « heavy » comme Fu Manchu ou Kyuss, mais aussi par des groupes plus rock comme Dinosaur Jr ou les Black Keys, et s’adapte aussi bien à la guitare qu’à la basse.
+
+### Verified sound evidence
+Coda Effects - Dolmen Fuzz MENU Everyone can make guitar pedals Menu Accueil Tous les articles Réalisations Boutique A propos Dolmen Fuzz Dolmen Fuzz - Inspirée par la Big Muff Russian - Ce produit a déménagé !
+Vous allez être redirigé vers la nouvelle fiche produit : https://shop.coda-effects.com/fr/product/coda-effects-dolmen-fuzz-2/ Si la redirection ne fonctionne pas, cliquez sur le lien ci-dessus.
+Description La Dolmen Fuzz est inspirée par la Big Muff "russian" produite en Russie dans les années 90.
+
+### Sources checked in this pass
+1. Coda Effects - Dolmen Fuzz: https://www.coda-effects.fr/p/dolmen-fuzz.html
+2. Coda Effects Dolmen Fuzz – Boutique: https://shop.coda-effects.com/fr/product/coda-effects-dolmen-fuzz-2/
+3. Coda Effects - Crowdfunding campaign for the Montagne Tremolo and Dolmen Fuzz: https://www.coda-effects.com/2016/09/crowdfunding-campaign-for-montagne.html
+4. Dolmen Fuzz and Montagne Tremolo - Ulule: https://www.ulule.com/codaeffects/

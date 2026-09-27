@@ -36,3 +36,20 @@ The Normal and Bright channels can be used separately or together. The three-ban
 ## Sources checked
 1. Coda Effects — Black Hole PCB / circuit documentation: https://shop.coda-effects.com/en/product/black-hole-pcb/
 2. Guitar Pedal X — Black Hole history: https://www.guitarpedalx.com/news/gpx-blog/2019-pedal-chain-musings-and-experiments
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Black Hole PCB – Shop US shipping update: deliveries to the US are currently paused.
+
+### Verified color/finish evidence
+- Black Hole PCB – Shop US shipping update: deliveries to the US are currently paused.
+
+### Verified sound evidence
+This is the infamous Sunn Model T preamp in a box , with a boost to make it even louder and heavier.
+Seven controls: Normal and Bright channels : each have a different voicing and gain, you can use both at the same time or one by one Volume: plenty on tap 3 band EQ: bass (lots of them), mids and treble to sculpt your sound.
+
+### Sources checked in this pass
+1. Black Hole PCB – Shop: https://shop.coda-effects.com/en/product/black-hole-pcb/

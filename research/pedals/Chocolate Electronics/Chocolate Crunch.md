@@ -32,3 +32,19 @@ The project inventory describes the Chocolate Crunch as a dynamic overdrive whos
 ## Sources checked
 1. The Dirt Archive Phase One Chocolate Electronics inventory: https://github.com/NoizeNiche/the-dirt-archive/commit/e806b0fed11807404f993ebc5da2969bacf51f46
 2. Chocolate Electronics shop: https://shop.chocolateelectronics.com/
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Chocolate Electronics's Chocolate Crunch is cataloged as an overdrive pedal.
+
+### Verified version references
+- The evidence references: v6.
+
+### Sources checked in this pass
+1. Chocolate Crunch | Chocolate Electronics: https://shop.chocolateelectronics.com/items/150307278
+2. Chocolate Electronics Chocolate Crunch 626561 - eBay: https://www.ebay.com/itm/307103562167
+3. Chocolate Crunch:Chocolate Electronics: https://ja.chocolateelectronics.com/product_chocolatecrunch.html
+4. ギター用エフェクター、Chocolate Electronics、Chocolate Crunchの検索結果【楽器検索デジマート】: https://www.digimart.net/search?brandnames=Chocolate+Electronics&category12Id=1301&keywordAnd=Chocolate+Crunch

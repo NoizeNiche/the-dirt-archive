@@ -32,3 +32,19 @@ Stùrloun is documented as a tube-based distortion effect. Contemporary coverage
 ## Sources checked
 1. Effects Database — Weekly overview 2014 week 11: https://www.effectsdatabase.com/updates/weekly/20140317
 2. Guitarristas — Cativèria / Stùrlom Clarenzio pedal coverage: https://www.guitarristas.info/reportajes/pedales-curiosos/4198
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Clarenzio's Stùrloun - Tube Distortion is cataloged as a distortion pedal.
+
+### Verified version references
+- The evidence references: MkII.
+
+### Verified sound evidence
+Green (by Ashdown) The Tourniquet - Compression Eno Music Comp Fender Micro ABY Fender Micro Comp Fender Micro DI Fender Micro EQ Fishman ToneDEQ - AFX / PRE-EQ-DI G.M.
+
+### Sources checked in this pass
+1. Weekly overview (2014, week 11): 12 new brands and 83 new pedals | Effects Database: https://www.effectsdatabase.com/updates/weekly/20140317

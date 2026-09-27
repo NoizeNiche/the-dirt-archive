@@ -36,3 +36,22 @@ The 855 Drive is intended to reproduce the more open, higher-gain voice of the O
 
 ## Sources checked
 1. Effects Database — Build Your Own Clone 855 Drive: https://www.effectsdatabase.com/model/byoc/855drive
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+The 855 Drive Kit is based on the Ibanez OD855, which is a close cousin of the TS808.
+
+### Verified diode terms
+- 1N60, LED.
+
+### Verified sound evidence
+If so, you'll love the BYOC 855 Drive Kit.
+The 855 Drive Kit is based on the Ibanez OD855, which is a close cousin of the TS808.
+The BYOC 855 Drive is a nearly spot on recreation of the original.
+
+### Sources checked in this pass
+1. catalog/override source: https://reverb.com/item/82964100-byoc-855-drive-ibanez-855-clone
+2. Build Your Own Clone 855 Drive | Effects Database: https://www.effectsdatabase.com/model/byoc/855drive

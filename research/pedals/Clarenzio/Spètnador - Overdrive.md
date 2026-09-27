@@ -31,3 +31,13 @@ The exact model is documented as an overdrive. A deeper tonal description is def
 
 ## Sources checked
 1. Effects Database — Weekly overview 2015 week 07: https://www.effectsdatabase.com/updates/weekly/20150216
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Clarenzio's Spètnador - Overdrive is cataloged as an overdrive pedal.
+
+### Sources checked in this pass
+1. Weekly overview (2015, week 07): 1 new brand and 30 new pedals | Effects Database: https://www.effectsdatabase.com/updates/weekly/20150216

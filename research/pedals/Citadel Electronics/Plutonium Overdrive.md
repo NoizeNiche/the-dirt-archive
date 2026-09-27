@@ -39,3 +39,18 @@ The Crush control transitions the low end ahead of distortion from tight, punchy
 1. Citadel Electronics — Products / Plutonium Overdrive: https://www.citadel-electronics.com/products
 2. Effects Database — Citadel Electronics Plutonium Overdrive: https://www.effectsdatabase.com/model/citadel/plutonium
 3. Citadel Electronics — Company site / 2025 launch context: https://www.citadel-electronics.com/
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Citadel Electronics's Plutonium Overdrive is cataloged as a distortion / fuzz / overdrive pedal.
+
+### Verified sound evidence
+Citadel Electronics Plutonium Overdrive
+Its defining feature is the Crush control, which tailors the low-end response before distortion, offering a spectrum of sounds from tight, aggressive distortion with strong low-end punch to warm, saturated fuzz.
+Crush : Shapes the low-end response before distortion, ranging from tight modern tones to thick fuzz.
+
+### Sources checked in this pass
+1. Citadel Electronics Plutonium Overdrive | Effects Database: https://www.effectsdatabase.com/model/citadel/plutonium

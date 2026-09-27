@@ -42,3 +42,21 @@ WestSide is voiced as a warm, rich, transparent low-gain drive. The Presence con
 ## Sources checked
 1. Cleveland Music Co. — WestSide Overdrive: https://clevelandmusicco.com/products/cleveland-music-co-westside-overdrive-premium-marshall-blues-breaker-clone-w-mods
 2. Cleveland Music Co. — Overdrive & Distortion collection: https://clevelandmusicco.com/collections/overdrive-distortion
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+The WestSide Overdrive is a bluesy, low-gain overdrive inspired by a certain English-made pedal from 1991 … which was inspired by a certain English-made amplifier from 1962.
+
+### Verified diode terms
+- LEDs.
+
+### Verified sound evidence
+WestSide Overdrive – Cleveland Music Co.
+Quantity Quantity ( 0 in cart) Decrease quantity for WestSide Overdrive Increase quantity for WestSide Overdrive Add to cart Couldn't load pickup availability Refresh Pre-assembled kit: Please allow 5–10 business days for assembly before shipment.
+The WestSide Overdrive is a bluesy, low-gain overdrive inspired by a certain English-made pedal from 1991 … which was inspired by a certain English-made amplifier from 1962.
+
+### Sources checked in this pass
+1. WestSide Overdrive &ndash; Cleveland Music Co.: https://clevelandmusicco.com/products/cleveland-music-co-westside-overdrive-premium-marshall-blues-breaker-clone-w-mods

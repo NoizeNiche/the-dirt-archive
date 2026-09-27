@@ -33,3 +33,23 @@ Distodrive is designed to cover smoother and harder drive textures while giving 
 
 ## Sources checked
 1. Effects Database forum submission by Brière Pedals owner: https://forum.effectsdatabase.com/viewtopic.php?f=6&sid=88a38837c2115b61f2c3416c9c931a97&t=551
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Brière Pedals's Distodrive is cataloged as a distortion / overdrive pedal.
+
+### Verified color/finish evidence
+- The 2 channels each have their own Volume and Gain knob to have the choice of having a volume boost on the RED Channel or have the two channels equal in volume.
+- The Channel selector footswitch is either RED or BLUE representing the channel selected.
+- The true by-pass footswitch is lighted blue to show the pedal is on.
+
+### Verified sound evidence
+The 2 channels each have their own Volume and Gain knob to have the choice of having a volume boost on the RED Channel or have the two channels equal in volume.
+Full 3 bands passive EQ is implemented to tailor the tone.
+A passive tone stack has been selected for its smooth slope and natural-sounding tone shaping capability.
+
+### Sources checked in this pass
+1. Brière Pedals DD-1 DistoDrive | Effects Database: https://www.effectsdatabase.com/model/briere/dd1

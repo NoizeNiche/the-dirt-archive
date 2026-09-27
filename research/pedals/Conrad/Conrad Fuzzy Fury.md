@@ -47,3 +47,21 @@ The archive should use the exact-model Effects Database page as the primary reco
 1. Effects Database - Conrad Fuzzy Fury: https://www.effectsdatabase.com/model/conrad/fuzzyfury
 2. Tone Machines Blog - Applied Fuzz and Treble Booster FT-100, discussing the 1969 Conrad-branded Applied Audio effects: https://www.tonemachinesblog.com/2025/09/applied-fuzz-and-treble-booster-ft-100.html
 3. Billboard, January 10, 1970 - David Wexler & Co. catalog notice identifying the Conrad Fuzzy Fury as a self-powered nine-volt fuzz-tone unit: https://www.worldradiohistory.com/Archive-All-Music/Billboard/70s/1970/Billboard%201970-01-10.pdf
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Conrad's Conrad Fuzzy Fury is cataloged as a fuzz pedal.
+
+### Verified color/finish evidence
+- Southside Guitars Year ~1968 Make Conrad Color Silver Condition Excellent $475 Trusted for Visit Store See Inventory Save This Save Contact Store Policies Ben Taylor-Sam Taylor (718) 218-8201 Brooklyn, NY 6:19 AM Send Message Southside Guitars is open Monday-Friday 11am to 7pm and Saturday 12 to 6pm.
+
+### Verified sound evidence
+This pedal is a cool sounding solid-state transistor fuzz effect pedal that sounds very good in a late 60's hard rock garage sound.
+
+### Sources checked in this pass
+1. Conrad Fuzzy Fury ~1968 - Reverb: https://reverb.com/item/97501954-conrad-fuzzy-fury-1968
+2. Used Conrad Fuzzy Fury ~1968 - Gear Exchange - Sweetwater: https://www.sweetwater.com/used/listings/506408-used-conrad-fuzzy-fury-1968
+3. ~1968 Conrad Fuzzy Fury Silver - Gbase: https://www.gbase.com/gear/conrad-fuzzy-fury-1968-silver
