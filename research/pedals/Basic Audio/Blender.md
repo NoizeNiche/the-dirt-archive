@@ -4,54 +4,56 @@
 - **Archive parent:** Blender
 - **Builder:** Basic Audio
 - **Catalog type:** Fuzz
-- **Identity:** One parent pedal. No builder-designated numbered production revision verified in the sources checked.
+- **Identity:** Fender Blender-inspired octave-up fuzz with switchable tone voicing, high-cut, octave-cut and a parallel clean/fuzz blend. [1][2]
 
 ## What this pedal is
-Blender is Basic Audio's broadened take on the Fender Blender idea. Basic Audio describes it as an octave-up fuzz with a three-way Tone switch, hi-cut control, octave-cut switch, and a parallel clean/fuzz blend. [1]
+Basic Audio's Blender broadens the Fender Blender concept with more tonal control. The pedal combines octave-up fuzz with a three-way Tone selector, Hi-Cut, Octave-Cut and parallel clean/fuzz mixing. [1]
 
-## Colorways
-- A **blue hammered/metallic enclosure** is documented in Basic Audio's official photograph.
-- Basic Audio states that pedal colors are subject to change, so this is a documented finish rather than a claim that every Blender used the same color. [1]
+## Controls / architecture
+- **BLEND:** Parallel clean/fuzz mix; can exceed unity.
+- **TONE:** Three-position voicing switch.
+- **HI-CUT:** High-frequency reduction.
+- **OCTAVE-CUT:** Reduces/removes the octave contribution.
+The source material presents these as the core Blender controls and configuration options. [1][2]
 
-## Versions and factory options
-### Blender production
-- Octave-up fuzz
-- three-way Tone toggle
-- hi-cut control
-- octave-cut toggle
-- parallel clean/fuzz blend
-- Blend mode can run well above unity [1]
+## Circuit lineage
+- **Primary reference:** Fender Blender.
+- The octave-up section is a lineage statement, not proof of exact historical component equivalence.
+- No numbered production revision is established.
 
-No separate numbered factory revision was verified.
+## Transistor / active device
+- Exact factory active-device part numbers are not published in the reviewed sources.
 
-## Version changes
-No documented factory revision sequence was found. The archive therefore keeps Blender as one parent pedal rather than inventing V1/V2 labels.
+## Diode / clipping
+- Exact clipping-device part numbers are not published.
 
-## Transistor
-- **Technology:** Not publicly documented by the builder in the sources checked.
-- **Exact transistor/device:** Unknown.
+## Power
+- **9V center-negative** operation.
+- Battery support is documented. [1]
 
-## Diode
-- **Type:** Not publicly documented.
-- **Exact diode/device:** Unknown.
+## Version history
+- No numbered electronic revision verified.
+- Basic Audio notes that cosmetic finishes may change, so blue and other enclosure examples are retained as colorways rather than revisions. [1]
 
 ## Sound
-Blender is an octave-up fuzz with a broader, more controllable approach than the original Fender Blender concept, with tone switching, high-frequency trimming, and octave filtering available from the controls. The parallel clean/fuzz blend gives it a wider range from mixed, articulate textures to stronger fuzz while retaining some of the octave character. [1][2]
+Blender is designed around a pronounced octave-up voice while allowing the player to thin or darken the top end and reduce the octave component. The parallel blend can keep more clean articulation under the fuzz, widening the usable range. [1][2]
 
 ## Research confidence
 - **Identity:** High
-- **Feature set:** High
-- **Colorway:** Moderate
-- **Numbered versions:** Moderate, none verified
-- **Transistor:** Unknown
-- **Diode:** Unknown
-- **Sound:** High
+- **Fender Blender lineage:** High
+- **Octave-up architecture:** High
+- **Tone/Hi-Cut/Octave-Cut/Blend:** High
+- **Exact active device:** Unknown
+- **Exact diode:** Unknown
+
+## Deep research verification
+Basic Audio's official Blender page was checked against the independent Stomp Box Steals reference. Both support the octave-up function and multi-control voicing system. No factory transistor or diode part numbers are published, so the archive keeps those fields unresolved. [1][2]
+
+## Sources checked
+1. Basic Audio — Blender: https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-cnzrr-ksfg5-kba26-hce6p
+2. Stomp Box Steals — Basic Audio Blender: https://stompboxsteals.blogspot.com/2023/06/fuzz-basic-audio-blender-fuzz-since-you.html
 
 ## Photo
 - **Exact pedal photograph:** Basic Audio official product photograph.
 - **Direct image:** https://images.squarespace-cdn.com/content/v1/5da9e97016ddf940acffa2d3/1574305489845-9MQZPD4MMQNZ2XTOXBB8/DSCF2832-Edit.jpg
-- **Source page:** https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-cnzrr-ksfg5-kba26-hce6p
-
-## Sources checked
-1. Basic Audio — Blender: https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-cnzrr-ksfg5-kba26-hce6p
-2. Stomp Box Steals — Basic Audio Blender review: https://stompboxsteals.blogspot.com/2023/06/fuzz-basic-audio-blender-fuzz-since-you.html
+- **Source page:** Basic Audio Blender product page.
