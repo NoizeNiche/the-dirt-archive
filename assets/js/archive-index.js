@@ -361,7 +361,7 @@ function renderPagination(totalPages){
   const prev=currentPage>1?'<button class="pageButton" type="button" data-page="'+(currentPage-1)+'" aria-label="Previous page">←</button>':'<button class="pageButton" type="button" disabled aria-label="Previous page">←</button>';
   const next=currentPage<totalPages?'<button class="pageButton" type="button" data-page="'+(currentPage+1)+'" aria-label="Next page">→</button>':'<button class="pageButton" type="button" disabled aria-label="Next page">→</button>';
   nav.innerHTML=prev+pages.map(n=>typeof n==='number'
-    ? '<button class="pageButton '+(n===currentPage?'active':'')+'" type="button" data-page="'+n+'" aria-current="'+(n===currentPage?'page':'false')+'">'+n+'</button>'
+    ? '<button class="pageButton '+(n===currentPage?'active':'')+'" type="button" data-page="'+n+'"'+(n===currentPage?' aria-current="page"':'')+'>'+n+'</button>'
     : '<span class="pageEllipsis" aria-hidden="true">…</span>'
   ).join('')+next;
   nav.querySelectorAll('[data-page]').forEach(btn=>btn.onclick=()=>{
