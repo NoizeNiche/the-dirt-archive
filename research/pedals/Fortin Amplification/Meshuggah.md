@@ -1,23 +1,36 @@
 # Fortin Amplification — Meshuggah
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Meshuggah
 - **Builder:** Fortin Amplification
-- **Pedal:** Meshuggah
 - **Catalog type:** Distortion
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Fortin Amplification's Meshuggah.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Meshuggah** by **Fortin Amplification** as a **Distortion** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Fortin Amplification's Meshuggah is cataloged as a distortion pedal.
 
-## Catalog source
-- Catalog source page on file: https://quanta-brands.jp/fortin-amplification/products/
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+The verified evidence packet did not contain enough pedal-specific sonic description to make a more detailed sound summary without adding unsupported interpretation.
+
+## Sources checked
+1. https://quanta-brands.jp/fortin-amplification/products/: https://quanta-brands.jp/fortin-amplification/products/
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

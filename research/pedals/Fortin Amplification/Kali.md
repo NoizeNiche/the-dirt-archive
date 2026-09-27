@@ -1,23 +1,38 @@
 # Fortin Amplification — Kali
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Kali
 - **Builder:** Fortin Amplification
-- **Pedal:** Kali
 - **Catalog type:** Distortion
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Fortin Amplification's Kali.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Kali** by **Fortin Amplification** as a **Distortion** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+As the third entry in Fortin's preamp series, following the NATAS and MESHUGGAH, KALI delivers the same cutting-edge sound design that has defined the brand's modern high-gain reputation.
 
-## Catalog source
-- Catalog source page on file: https://www.effectsdatabase.com/model/fortin/kali
+## Colorways
+- This three-way switch toggles between VINT (vintage voicing with added compression and brightness), RAW (unfiltered and direct), and SAT (Fortin's signature saturation with touch-sensitive compression).
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+Fortin Amplification Kali - Pre-Amp / Distortion
+As the third entry in Fortin's preamp series, following the NATAS and MESHUGGAH, KALI delivers the same cutting-edge sound design that has defined the brand's modern high-gain reputation.
+KALI operates as both a standalone distortion pedal and a full-featured preamp, offering two gain channels and a wide array of tonal controls.
+
+## Sources checked
+1. Fortin Amplification Kali - Pre-Amp / Distortion | Effects Database: https://www.effectsdatabase.com/model/fortin/kali
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
