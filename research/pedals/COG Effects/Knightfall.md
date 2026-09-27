@@ -4,33 +4,56 @@
 - **Archive parent:** Knightfall
 - **Builder:** COG Effects
 - **Catalog type:** Distortion
-- **Identity:** COG Effects Knightfall Distortion, a full/fat guitar and bass distortion with low-pass tone control and Bass Shift.
+- **Identity:** Full/fat guitar and bass distortion with In/Tone/Out architecture and Bass Shift, designed for tight low end and clear chords. [1]
 
-## What this pedal is
-COG Effects describes Knightfall as a full, fat distortion with tight low end and clear chords, spanning warm tones through high-gain lead sounds. It responds to guitar-volume cleanup and can also be used on bass. [1]
+## Controls
+- **IN:** Input/gain interaction.
+- **TONE:** Low-pass post-distortion filter.
+- **OUT:** Output.
+- **BASS SHIFT:** Low-end voicing.
+- True bypass. [1]
 
-## Versions and factory options
-- In.
-- Tone, implemented as an adjustable low-pass filter.
-- Out.
-- Bass Shift switch.
-- True bypass.
-- 9V DC.
-- Die-cast aluminium enclosure.
-- Bass-version voicing with extended low end. [1]
-
-## Version changes
-COG's discontinued archive states that Knightfall was later **replaced by Mini 66**, while Dual Knightfall was replaced by Knightfall 66. [2]
+## Circuit / topology
+- Analog distortion.
+- Low-pass Tone control retains body while attenuating high frequencies.
+- COG also produced a bass-oriented presentation with extended low end.
 
 ## Transistor
-No exact transistor part number established.
+- Exact production transistor/device part number is not publicly documented.
 
-## Diode
-No exact diode specification established.
+## Diode / clipping
+- Exact clipping-device type and part number are not publicly documented.
+
+## Power
+- **9V DC**. [1]
+- Current draw not established.
+
+## Construction
+- Die-cast aluminum enclosure.
+- North/side-mounted hardware as documented by COG.
+- True bypass. [1]
+
+## Version history
+- COG later listed Knightfall as **replaced by Mini 66**.
+- This is a product-line successor relationship, not a claim that Mini 66 is an electrically identical revision. [2]
 
 ## Sound
-The Low-Pass Tone control removes high end while retaining body, while In and Out interact with guitar volume for a wide drive range. Bass Shift changes low-end response. [1]
+COG positions Knightfall across warm drive, fuller distortion and higher-gain lead territory, with tight low end and usable chord definition. Bass Shift broadens low-frequency response, while Tone acts as a low-pass filter. [1]
+
+## Research confidence
+- **Identity:** High
+- **Control map:** High
+- **Bass Shift:** High
+- **Mini 66 successor relationship:** High
+- **Exact transistor:** Unknown
+- **Exact diode:** Unknown
+
+## Deep research verification
+COG's Knightfall product page and discontinued-pedal archive were checked together. The manufacturer sources support the control architecture and later replacement by Mini 66. [1][2]
 
 ## Sources checked
 1. COG Effects — Knightfall Distortion: https://www.cogeffects.co.uk/knightfall.php
 2. COG Effects — Discontinued pedals: https://www.cogeffects.co.uk/discontinued-pedals.php
+
+## Photo
+- Exact-model photo status remains handled separately.
