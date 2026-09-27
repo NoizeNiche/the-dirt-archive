@@ -4,31 +4,45 @@
 - **Archive parent:** K.O. Drive
 - **Builder:** Chaos Custom Shop / Chaos FX
 - **Catalog type:** Overdrive
-- **Identity:** Chaos FX K.O. Drive.
+- **Identity:** Chaos FX K.O. Drive, documented as an overdrive model within the Polish builder's range. [1][2]
 
-## What this pedal is
-Guitar Pedal X lists K.O. Drive among the Chaos FX / Chaos Custom Shop drive models. A 2026 Polish used-market listing also identifies a Chaos FX K.O. Drive as a pedal model. [1][2]
-
-The available indexed evidence is sufficient to establish the exact builder/model identity and overdrive category, but not enough to safely assign a circuit lineage, complete control set, semiconductor list, or revision chronology.
-
-## Colorways
-No complete factory colorway sequence was established.
-
-## Versions and factory options
-No secure exact-model version or factory-option list was established.
-
-## Version changes
-No reliable revision history was established.
+## Evidence status
+The exact builder/model identity is well established, including a contemporary 2026 Polish used-market record. The available sources do not provide enough reliable exact-model technical detail to establish:
+- a specific circuit lineage,
+- complete control map,
+- transistor/IC devices,
+- clipping components,
+- power specification,
+- or numbered revision history. [1][2]
 
 ## Transistor
-Unknown from the checked exact-model sources.
+- Exact production active device: **Unknown**.
 
-## Diode
-Unknown from the checked exact-model sources.
+## Diode / clipping
+- Exact clipping device: **Unknown**.
+
+## Power
+- Exact model-specific power requirement: **Unknown**.
+
+## Version history
+- No reliable numbered factory revision established.
 
 ## Sound
-The pedal is documented as an overdrive model within the Chaos FX range. A deeper tonal description is deferred until an exact-model technical source can be verified.
+The K.O. Drive is documented as an overdrive within the Chaos FX range. A more detailed sound description is intentionally deferred until stronger exact-model technical evidence is available.
+
+## Research confidence
+- **Builder/model identity:** High
+- **Overdrive classification:** High
+- **Circuit lineage:** Unknown
+- **Components:** Unknown
+- **Power:** Unknown
+
+## Deep research verification
+Guitar Pedal X's Polish-builder directory and a contemporary Polish used-market listing were cross-checked. Together they establish the model identity but do not expose sufficient technical detail for a deeper circuit claim. [1][2]
 
 ## Sources checked
 1. Guitar Pedal X — Best of Polish Guitar Pedals and Builders: https://www.guitarpedalx.com/news/best-of-polish-guitar-pedals-and-pedal-builders
-2. OLX Poland — Chaos FX K.O. Drive listing, 2026: https://www.olx.pl/
+2. OLX Poland — Chaos FX K.O. Drive: https://www.olx.pl/
+
+## Photo
+- Exact-model photo status remains handled separately.
