@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-27T09:15:35.069414+00:00",
+  "generated_at": "2026-09-27T09:20:37.489220+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,8 +10,8 @@
     "pictured": 3123,
     "complete": 3123,
     "research_pending": 0,
-    "deep_research_pending": 2101,
-    "deep_researched": 2141,
+    "deep_research_pending": 2096,
+    "deep_researched": 2146,
     "surface_ready": 4242
   },
   "next_target": {
@@ -62,41 +62,6 @@
       "pedal": "Widow Dual Overdrive/Fuzz",
       "catalog_type": "",
       "research_record": "./research/pedals/Bad Penny FX/Widow Dual Overdrive Fuzz.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Beetronics",
-      "pedal": "Abelha Tropical Fuzz",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Beetronics/Abelha Tropical Fuzz.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Beetronics",
-      "pedal": "Royal Jelly Fuzz/OD Blender",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Beetronics/Royal Jelly Fuzz/OD Blender.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Beetronics",
-      "pedal": "Tuna Fuzz",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Beetronics/Tuna Fuzz.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Beetronics",
-      "pedal": "Vezzpa Octave Stinger",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Beetronics/Vezzpa Octave Stinger.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Beetronics",
-      "pedal": "Wannabee Beelateral Buzz",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Beetronics/Wannabee Beelateral Buzz.md",
       "research_level": "surface"
     },
     {
@@ -195,6 +160,41 @@
       "pedal": "Obama Wah",
       "catalog_type": "",
       "research_record": "./research/pedals/PRP Batch 083/Obama Wah.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Big John Effects",
+      "pedal": "Pocket Rocket",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 083/Pocket Rocket.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Big Knob Pedals",
+      "pedal": "Appetite for Distortion",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 083/Appetite for Distortion.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Big Knob Pedals",
+      "pedal": "Black Metallic",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 083/Black Metallic.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Big Knob Pedals",
+      "pedal": "Blues Buster",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 083/Blues Buster.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Big Knob Pedals",
+      "pedal": "Bushy Bison",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 083/Bushy Bison.md",
       "research_level": "surface"
     }
   ]
