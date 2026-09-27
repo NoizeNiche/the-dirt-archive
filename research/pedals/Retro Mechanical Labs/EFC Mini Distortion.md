@@ -1,23 +1,40 @@
 # Retro Mechanical Labs — EFC Mini Distortion
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** EFC Mini Distortion
 - **Builder:** Retro Mechanical Labs
-- **Pedal:** EFC Mini Distortion
 - **Catalog type:** Distortion
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Retro Mechanical Labs's EFC Mini Distortion.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **EFC Mini Distortion** by **Retro Mechanical Labs** as a **Distortion** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Retro Mechanical Labs's EFC Mini Distortion is cataloged as a distortion pedal.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- Sale Price: $189 (Reg $199) Fallout Black and Nuclear Winter White.
+- Color Nuclear Winter White $199.00 USD Fallout Black $199.00 USD ***I generally have these enclosures in stock but in the event I run out they are quick to get, but that may delay your shipping time.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Documented terms in the verified sources: LED.
+- The archive records only the component information explicitly present in these sources.
+
+## Sound
+EFC Mini Distortion – Retro Mechanical Labs RMLfx 2026 Site not run by AI.
+Recent Posts Electron Fuzz Custom GPI (Guitar Pedal Interface) 432k Rev2.1 Distortion Electron Fuzz Custom (Retro) EFC Studio Random thoughts: Make the world a better place with your music.
+More about the EFC… The Electron Fuzz “Custom” is an extremely high gain distortion.
+
+## Sources checked
+1. EFC Mini Distortion – Retro Mechanical Labs: https://rmlfx.com/efc-mini/
+2. Retro Mechanical Labs | Just a couple of these EFC mini distortion ...: https://www.instagram.com/p/DDJUaWYR0JQ/
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
