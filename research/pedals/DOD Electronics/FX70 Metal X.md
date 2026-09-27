@@ -1,60 +1,37 @@
 # DOD Electronics — FX70 Metal X
 
-## PRP identity
-- **Archive parent:** FX70 Metal X
+## Surface catalog record
 - **Builder:** DOD Electronics
+- **Pedal:** FX70 Metal X
 - **Catalog type:** Distortion
-- **Identity:** DOD Electronics's FX70 Metal X.
+- **Research level:** Deep
+- **Deep research status:** Verified identity and taxonomy
+- **Identity basis:** DOD's preserved FX-series documentation and historical catalog reconciliation identify FX70 as Metal X, a distinct DOD historical distortion model.
 
-## What this pedal is
-Introduced in Summer 1993, the DOD FX69 Grunge shared the same basic circuit as the FX70 Metal X (FX70X), but was voiced as a high-gain fuzz pedal.
+## Identity correction
+The previous surface record contained copied text describing **FX69 Grunge** and its Summer 1993 history. That text was not evidence for the FX70 record and has been removed.
 
-## Colorways
-- fretted_americana Translate: (818)222-4113 Search Guitars New Gear Videos News Links About Us Get Our Free Newsletter: --> x Sign Up For Our Free Newsletter * required Email Address: * First Name: Last Name: State: --United States-- Alabama Alaska American Samoa Arizona Arkansas California Colorado Connecticut Delaware District of Columbia Florida Georgia Guam Hawaii Idaho Illinois Indiana Iowa Kansas Kentucky Louisiana Maine Maryland Massachusetts Michigan Minnesota Mississippi Missouri Montana Nebraska Nevada New Hampshire New Jersey New Mexico New York North Carolina North Dakota Ohio Oklahoma Oregon Pennsylvania Puerto Rico Rhode Island South Carolina South Dakota Tennessee Texas Utah Vermont Virgin Islands Virginia Washington West Virginia Wisconsin Wyoming --Canada-- Alberta British Columbia Manitoba New Brunswick Newfoundland North West Territory Nova Scotia Nunavut Ontario Prince Edward Island Quebec Saskatchewan Yukon Territory Not Applicable Zip Code: Enter the letters shown above: * SIGN UP NOW --> Member Organization Benefits --> Donate Now --> --> Effects Pedal Merchandise Topic: Effects Pedal --> Industry Directory: --> &lt; Previous | Next &gt; --> --> DOD Effects Pedal Color: Light Purple, Rating: 9.00, Sold (ID# 01404) Call to Inquire: (818) 222-4113 It'll have your bandmates screaming for mercy...
-- Light purple with dark purple cracked finish.
+The archive's DOD reconciliation explicitly distinguishes **FX70 Metal X** from **FX69B Grunge** and lists both as separate historical DOD distortion products. [1]
 
-## Versions and factory options
-- No distinct factory revision was established in the verified evidence packet.
+## What is established
+- **FX70** is the exact model designation.
+- **Metal X** is the documented product name.
+- The archive dirt taxonomy is **Distortion**.
+- FX70 is not to be described using FX69 Grunge control names or circuit claims simply because the two models belong to the same DOD FX-series era.
 
-## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+## Technical evidence boundary
+The sources reviewed for this correction do not establish a complete exact-model schematic, component BOM, or definitive factory revision chronology for FX70. No transistor, clipping-device, or op-amp inventory is asserted here.
 
-## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
-- **Exact transistor/device:** Unknown.
-
-## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
-- **Exact part:** Unknown.
-
-## Sound
-Introduced in Summer 1993, the DOD FX69 Grunge shared the same basic circuit as the FX70 Metal X (FX70X), but was voiced as a high-gain fuzz pedal.
-Controls: Loud (level), Butt (low eq), Face (hi eq), Grunge (distortion).
-One of the side effects of the increased popularity of "grunge" music in the early 1990s was a renewed interest in guitar effects pedals, with the band Mudhoney even naming an EP after their two favorite fuzz boxes ("Superfuzz Bigmuff").
-
-## Sources checked
-1. Vintage DOD FX70 Metal X distortion pedal, made in the USA by ... - eBay: https://www.ebay.ca/itm/277870856044
-2. Effects Pedal Merchandise | Fretted Americana Inc.: https://www.frettedamericana.com/product/dod-effects-pedal
+Secondary surviving-example references report specific finish and production details, but those do not establish a universal manufacturing or colorway history for every FX70.
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive photo:** No verified local photo is currently archived for the FX70.
+- External exact-model imagery remains separate from archive-local photo coverage.
 
-## Deep research verification
+## Research evidence
+**Sources checked:**
+1. https://digitech.com/product-manuals/ — official DOD/DigiTech preserved manual index.
+2. Internal DOD historical reconciliation, Block 072, which explicitly identifies FX70 Metal X as a historical DOD Distortion model separate from FX69B Grunge.
+3. Existing archive evidence packet for FX70, retained as secondary historical/collector evidence and reviewed for the erroneous FX69 text.
 
-This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
-
-### Verified description
-Introduced in Summer 1993, the DOD FX69 Grunge shared the same basic circuit as the FX70 Metal X (FX70X), but was voiced as a high-gain fuzz pedal.
-
-### Verified color/finish evidence
-- DOD Effects Pedal Color: Light Purple, Rating: 9.00, Sold (ID# 01404) Call to Inquire: (818) 222-4113 It'll have your bandmates screaming for mercy...
-- Light purple with dark purple cracked finish.
-
-### Verified sound evidence
-Introduced in Summer 1993, the DOD FX69 Grunge shared the same basic circuit as the FX70 Metal X (FX70X), but was voiced as a high-gain fuzz pedal.
-Controls: Loud (level), Butt (low eq), Face (hi eq), Grunge (distortion).
-One of the side effects of the increased popularity of "grunge" music in the early 1990s was a renewed interest in guitar effects pedals, with the band Mudhoney even naming an EP after their two favorite fuzz boxes ("Superfuzz Bigmuff").
-
-### Sources checked in this pass
-1. Vintage DOD FX70 Metal X distortion pedal, made in the USA by ... - eBay: https://www.ebay.ca/itm/277870856044
-2. Effects Pedal Merchandise | Fretted Americana Inc.: https://www.frettedamericana.com/product/dod-effects-pedal
+**Research confidence:** High for exact model identity and Distortion taxonomy; moderate for production chronology, revision history, and technical construction.
