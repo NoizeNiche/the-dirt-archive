@@ -4,55 +4,52 @@
 - **Archive parent:** Foxton
 - **Builder:** Basic Audio
 - **Catalog type:** Fuzz
-- **Identity:** One parent pedal. Basic Audio's silicon octave-up take on the Foxx Tone Machine family.
+- **Identity:** Silicon octave-up fuzz based on the Foxx Tone Machine family, with Half-Gain and Octave-Cut functions. [1][2]
 
-## What this pedal is
-Foxton is an octave-up fuzz based on the Foxx Tone Machine. Basic Audio describes it as similar to the Super Fuzz but with a stronger, purer octave, plus half-gain and octave-cut switching. [1][2]
+## Controls / architecture
+- **HALF GAIN** switch.
+- **OCTAVE CUT** switch.
+- Main fuzz/output controls as documented by the builder's compact layout.
+- Silicon octave-up fuzz architecture. [1]
 
-## Colorways
-- A **bright orange enclosure with a silver/black faceplate** is documented in Basic Audio's official photograph.
-- Basic Audio says pedal colors are subject to change. [1]
-
-## Versions and factory options
-### Foxton production
-- silicon octave-up fuzz
-- Foxx Tone Machine basis
-- half-gain switch
-- octave-cut switch
-- center-negative 9V operation
-- battery snap [1][2]
-
-No numbered factory revision was verified.
-
-## Version changes
-No documented numbered production revision was found. Foxton remains one parent record.
+## Circuit lineage
+- **Primary reference:** Foxx Tone Machine.
+- Basic Audio describes Foxton as a more controllable octave-up fuzz, comparing its octave strength and filtering to related Super Fuzz/Foxx designs. [1][2]
 
 ## Transistor
-- **Technology:** Silicon. [3]
-- **Exact transistor/device:** Unknown.
+- **Technology:** Silicon.
+- Exact factory transistor part number is not publicly documented. [3]
 
-## Diode
-- **Type:** Not publicly documented.
-- **Exact diode/device:** Unknown.
+## Diode / clipping
+- Exact clipping-device part number is not published.
+
+## Power
+- **9V center-negative** operation with battery support is documented. [1]
+
+## Version history
+- No numbered electronic revision established.
+- Finish changes are not treated as electronic versions.
 
 ## Sound
-Foxton delivers a strong, prominent octave-up fuzz character with more filtering and gain control than a bare vintage-style circuit. The half-gain switch broadens the range from a leaner, more controllable fuzz to a thicker sound, while octave-cut lets the player reduce the octave component when desired. [1][2]
+Foxton emphasizes a strong octave-up voice while allowing the player to reduce the octave component or lower the gain range. The builder describes this as a more controllable take on the Foxx Tone Machine family. [1][2]
 
 ## Research confidence
 - **Identity:** High
+- **Foxx Tone Machine lineage:** High
 - **Silicon technology:** High
-- **Feature set:** High
-- **Colorway:** Moderate
+- **Half-Gain / Octave-Cut:** High
 - **Exact transistor:** Unknown
-- **Diode:** Unknown
-- **Sound:** High
+- **Exact diode:** Unknown
 
-## Photo
-- **Exact pedal photograph:** Basic Audio official product photograph.
-- **Direct image:** https://images.squarespace-cdn.com/content/v1/5da9e97016ddf940acffa2d3/1574293717745-Q6MNX5JQNSJXGBWNFVOE/DSCF5416-Edit.jpg
-- **Source page:** https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-6jkg6-2tw4r
+## Deep research verification
+Basic Audio's Foxton page was checked against Reverb and the builder interview. The evidence supports the Foxx Tone Machine lineage, silicon implementation and Half-Gain/Octave-Cut functionality. Exact semiconductor part numbers remain unpublished. [1][2][3]
 
 ## Sources checked
 1. Basic Audio — Foxton: https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-6jkg6-2tw4r
 2. Reverb — Basic Audio Tone Machine / Foxton: https://reverb.com/item/91288996-basic-audio-tone-machine-fuzz-aka-foxton-signed-dated-pedal-excellent
-3. Guitar Pedal X — The Unsung King of Fuzz, John Lyons of Basic Audio: https://www.guitarpedalx.com/news/gpx-blog/the-unsung-king-of-fuzz---john-lyons-of-basic-audio
+3. Guitar Pedal X — John Lyons of Basic Audio: https://www.guitarpedalx.com/news/gpx-blog/the-unsung-king-of-fuzz---john-lyons-of-basic-audio
+
+## Photo
+- **Exact pedal photograph:** Basic Audio official product photograph.
+- **Direct image:** https://images.squarespace-cdn.com/content/v1/5da9e97016ddf940acffa2d3/1574293717745-Q6MNX5JQNSJXGBWNFVOE/DSCF5416-Edit.jpg
+- **Source page:** Basic Audio Foxton product page.
