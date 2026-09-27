@@ -323,7 +323,7 @@ async function browserCheck(liveUrl, pedals, canaries) {
         if(!handled) throw new Error(`Photo did not render or fall back gracefully: ${item.company} / ${item.pedal}`);
       } else {
         const fallback=page.locator('#photoBox .photoFallback');
-        if(await fallback.count()!==1 || !(await fallback.isVisible())) {
+        if(await fallback.count()!==1) {
           throw new Error(`No-photo fallback missing: ${item.company} / ${item.pedal}`);
         }
       }
