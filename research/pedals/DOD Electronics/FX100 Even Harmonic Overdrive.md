@@ -1,48 +1,45 @@
 # DOD Electronics — FX100 Even Harmonic Overdrive
 
-## PRP identity
-- **Archive parent:** FX100 Even Harmonic Overdrive
+## Surface catalog record
 - **Builder:** DOD Electronics
+- **Pedal:** FX100 Even Harmonic Overdrive
 - **Catalog type:** Overdrive
-- **Identity:** DOD Electronics's FX100 Even Harmonic Overdrive.
+- **Research level:** Deep
+- **Deep research status:** Verified identity and historical relationship
+- **Identity basis:** DOD historical catalog reconciliation identifies FX100 as the Even Harmonic Overdrive. Exact-model historical research links it to the FX101 Grind Rectifying Overdrive as a same-era, related circuit-board platform.
 
 ## What this pedal is
-DOD Electronics's FX100 Even Harmonic Overdrive is cataloged as a Overdrive pedal.
+The **DOD FX100 Even Harmonic Overdrive** is a historical DOD FX-series overdrive. DOD's historical catalog reconciliation explicitly lists FX100 under Overdrive and distinguishes it from the FX101 Grind Rectifying Overdrive. [1]
 
-## Colorways
-- No specific factory colorway information was established in the verified evidence packet.
+## Historical relationship to FX101
+Exact-model historical research places **FX100 and FX101 in the same 1996 introduction period** and reports that the two models share a basic circuit-board platform with model-specific component changes. This establishes a meaningful design-family relationship, but not identical circuitry. [2]
 
-## Versions and factory options
-- No distinct factory revision was established in the verified evidence packet.
+The archive therefore keeps both models as separate catalog identities while using their board relationship as historical context.
 
-## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+## Circuit evidence boundary
+The reviewed sources do not establish a complete factory schematic or universal component BOM for every FX100 unit. The archive does not copy FX101 component claims into the FX100 record.
 
-## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
-- **Exact transistor/device:** Unknown.
+Where model-specific hardware evidence is absent, semiconductor and clipping-device fields remain unresolved.
 
-## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
-- **Exact part:** Unknown.
+## Historical/catalog handling
+The full product name **Even Harmonic Overdrive** is preserved because DOD's naming is part of the model identity. “Even harmonic” is treated as the manufacturer's design description, not as proof of a particular tube circuit or exact harmonic spectrum without measurement. [1]
 
-## Sound
-The verified evidence packet did not contain enough pedal-specific sonic description to make a more detailed sound summary without adding unsupported interpretation.
-
-## Sources checked
-1. DOD Electronics FX100 Even Harmonic Overdrive - Rhythms of Melody: https://www.rhythmsofmelody.com/product/dod-electronics-fx100-even-harmonic-overdrive/
-2. DOD Electronics FX100 Even Harmonic Overdrive - www.refinemusicshop.com: https://www.refinemusicshop.com/product/dod-electronics-fx100-even-harmonic-overdrive/
+## Specifications
+- **Model:** FX100 Even Harmonic Overdrive
+- **Type:** Overdrive
+- **Historical period:** 1996-era DOD FX series
+- **Related model:** FX101 Grind Rectifying Overdrive
+- **Circuit relationship:** shared basic board platform reported by secondary technical research
+- **Factory BOM:** not established in this pass
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive photo:** No verified local photo is currently archived for FX100.
+- External images remain separate from archive-local photo coverage.
 
-## Deep research verification
+## Research evidence
+**Sources checked:**
+1. https://digitech.com/product-manuals/ — official DOD/DigiTech manual index and preserved product documentation.
+2. https://en.audiofanzine.com/overdrive-pedal/dod/FX101-Grind/ — exact-model historical reference documenting the FX100 / FX101 circuit-board relationship and 1996-era introduction.
+3. Internal DOD historical reconciliation, Block 072, which explicitly identifies FX100 Even Harmonic Overdrive as a historical DOD Overdrive product.
 
-This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
-
-### Verified description
-DOD Electronics's FX100 Even Harmonic Overdrive is cataloged as an overdrive pedal.
-
-### Sources checked in this pass
-1. DOD Electronics FX100 Even Harmonic Overdrive - Rhythms of Melody: https://www.rhythmsofmelody.com/product/dod-electronics-fx100-even-harmonic-overdrive/
-2. DOD Electronics FX100 Even Harmonic Overdrive - www.refinemusicshop.com: https://www.refinemusicshop.com/product/dod-electronics-fx100-even-harmonic-overdrive/
+**Research confidence:** High for exact model identity, Overdrive taxonomy, and relationship to FX101; moderate for detailed circuit construction.
