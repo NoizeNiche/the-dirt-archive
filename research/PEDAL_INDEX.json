@@ -44028,7 +44028,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/maxon/rto700-real-tube-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Maxon/RTO700 Real Tube Overdrive.md",
       "research_level": "deep",
@@ -47646,7 +47646,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/nux-audio-nux/od-2-vintage-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/NUX Audio / NUX/OD-2 Vintage Overdrive.md",
       "research_level": "surface",
@@ -47660,7 +47660,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/nux-audio-nux/od-3-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/NUX Audio / NUX/OD-3 Overdrive.md",
       "research_level": "surface",
@@ -52681,7 +52681,7 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/thorpyfx/scarlet-tunic-amp-emulator-with-drive-gain-function/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/ThorpyFX/SCARLET TUNIC — Amp Emulator with drive/gain function.md",
       "research_level": "surface",
@@ -52693,7 +52693,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/thorpyfx/shaftesbury-duo-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/ThorpyFX/Shaftesbury Duo Fuzz.md",
       "research_level": "deep",
@@ -52705,7 +52705,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/thorpyfx/shaftesbury-duo-fuzz-standard-heritage-versions-consolidated/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/ThorpyFX/Shaftesbury Duo Fuzz — standard / Heritage versions consolidated.md",
       "research_level": "surface",
@@ -52717,7 +52717,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/thorpyfx/six-zero/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/ThorpyFX/Six Zero.md",
       "research_level": "deep",
@@ -53269,7 +53269,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/vemuram/galea/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Vemuram/Galea.md",
       "research_level": "deep",
@@ -53353,7 +53353,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/vemuram/jan-ray-for-mateus-asato-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Vemuram/Jan Ray for Mateus Asato — overdrive.md",
       "research_level": "surface",
@@ -53365,7 +53365,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/vemuram/jan-ray-for-tf/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Vemuram/Jan Ray for TF.md",
       "research_level": "deep",
@@ -53377,7 +53377,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/vemuram/jan-ray-for-tf-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Vemuram/Jan Ray for TF — overdrive.md",
       "research_level": "surface",
@@ -53389,7 +53389,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/vemuram/karen/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Vemuram/Karen.md",
       "research_level": "deep",
@@ -53885,7 +53885,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/vfe-pedals/merman/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/VFE Pedals/Merman.md",
       "research_level": "deep",
@@ -53957,7 +53957,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/vfe-pedals/tiamat/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/VFE Pedals/Tiamat.md",
       "research_level": "deep",
@@ -54005,7 +54005,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/vick-audio/v2-violet-ram/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Vick Audio/V2 Violet Ram.md",
       "research_level": "surface",
@@ -54235,7 +54235,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/voodoo-lab/giggity/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Voodoo Lab/GIGGITY.md",
       "research_level": "deep",
@@ -54247,7 +54247,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/voodoo-lab/proctavia/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Voodoo Lab/Proctavia.md",
       "research_level": "deep",
@@ -54259,7 +54259,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/voodoo-lab/sparkle-drive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Voodoo Lab/Sparkle Drive.md",
       "research_level": "deep",
@@ -54272,7 +54272,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/voodoo-lab/sparkle-drive-mod/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Voodoo Lab/Sparkle Drive MOD.md",
       "research_level": "deep",
@@ -54296,7 +54296,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/vox/big-ben-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/VOX/Big Ben Overdrive.md",
       "research_level": "deep",
@@ -54308,7 +54308,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/vox/bulldog-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/VOX/Bulldog Distortion.md",
       "research_level": "deep",
@@ -54362,7 +54362,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/vox/ice-9-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/VOX/Ice 9 Overdrive.md",
       "research_level": "deep",
@@ -54530,7 +54530,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/walrus-audio/385-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Walrus Audio/385 Overdrive.md",
       "research_level": "deep",

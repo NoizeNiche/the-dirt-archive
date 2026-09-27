@@ -2817,7 +2817,7 @@ Maxon,ROD881 Real Overdrive / Distortion,Distortion / Overdrive,DONE,DONE,DONE,.
 Maxon,RTD800,Distortion / Overdrive,DONE,DONE,DONE,./research/pedals/Maxon/RTD800.md
 Maxon,RTD800 Real Tube Distortion,Distortion / Overdrive,DONE,DONE,DONE,./research/pedals/Maxon/RTD800 Real Tube Distortion.md
 Maxon,RTO700,Distortion / Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Maxon/RTO700.md
-Maxon,RTO700 Real Tube Overdrive,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Maxon/RTO700 Real Tube Overdrive.md
+Maxon,RTO700 Real Tube Overdrive,Overdrive,DONE,DONE,DONE,./research/pedals/Maxon/RTO700 Real Tube Overdrive.md
 Maxon,SD-9 Sonic Distortion,Distortion / Overdrive,DONE,DONE,DONE,./research/pedals/Maxon/SD-9 Sonic Distortion.md
 Maxon,SD-9 Sonic Distortion / Overdrive,Overdrive,DONE,DONE,DONE,./research/pedals/Maxon/SD-9 Sonic Distortion / Overdrive.md
 Maxon,SD-9M Sonic Distortion Master,Distortion,DONE,NEEDED,NEEDED,./research/pedals/Maxon/SD-9M Sonic Distortion Master.md
@@ -3060,8 +3060,8 @@ NUX Audio / NUX,Mini Distortion,Distortion,DONE,DONE,DONE,./research/pedals/NUX 
 NUX Audio / NUX,Mini Supa Drive,Overdrive,DONE,DONE,DONE,./research/pedals/NUX Audio / NUX/Mini Supa Drive.md
 NUX Audio / NUX,Morning Star,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/NUX Audio / NUX/Morning Star.md
 NUX Audio / NUX,MX-6 Extreme Distortion,Distortion,DONE,DONE,DONE,./research/pedals/NUX Audio / NUX/MX-6 Extreme Distortion.md
-NUX Audio / NUX,OD-2 Vintage Overdrive,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/NUX Audio / NUX/OD-2 Vintage Overdrive.md
-NUX Audio / NUX,OD-3 Overdrive,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/NUX Audio / NUX/OD-3 Overdrive.md
+NUX Audio / NUX,OD-2 Vintage Overdrive,Overdrive,DONE,DONE,DONE,./research/pedals/NUX Audio / NUX/OD-2 Vintage Overdrive.md
+NUX Audio / NUX,OD-3 Overdrive,Overdrive,DONE,DONE,DONE,./research/pedals/NUX Audio / NUX/OD-3 Overdrive.md
 NUX Audio / NUX,Plexi Crunch,Distortion,DONE,NEEDED,NEEDED,./research/pedals/NUX Audio / NUX/Plexi Crunch.md
 NUX Audio / NUX,Queen of Tone,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/NUX Audio / NUX/Queen of Tone.md
 NUX Audio / NUX,REC TO Distortion,Distortion,DONE,DONE,DONE,./research/pedals/NUX Audio / NUX/REC TO Distortion.md
@@ -3420,10 +3420,10 @@ ThorpyFX,Old Timer,Fuzz,DONE,DONE,DONE,./research/pedals/ThorpyFX/Old Timer.md
 ThorpyFX,Peacekeeper,Overdrive,DONE,DONE,DONE,./research/pedals/ThorpyFX/Peacekeeper.md
 ThorpyFX,Rogue Trooper Fallout Cloud,Fuzz,DONE,DONE,DONE,./research/pedals/ThorpyFX/Rogue Trooper Fallout Cloud.md
 ThorpyFX,SCARLET TUNIC,Distortion / Fuzz / Overdrive,DONE,DONE,DONE,./research/pedals/ThorpyFX/SCARLET TUNIC.md
-ThorpyFX,SCARLET TUNIC — Amp Emulator with drive/gain function,Distortion / Fuzz / Overdrive,DONE,NEEDED,NEEDED,./research/pedals/ThorpyFX/SCARLET TUNIC — Amp Emulator with drive/gain function.md
-ThorpyFX,Shaftesbury Duo Fuzz,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/ThorpyFX/Shaftesbury Duo Fuzz.md
-ThorpyFX,Shaftesbury Duo Fuzz — standard / Heritage versions consolidated,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/ThorpyFX/Shaftesbury Duo Fuzz — standard / Heritage versions consolidated.md
-ThorpyFX,Six Zero,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/ThorpyFX/Six Zero.md
+ThorpyFX,SCARLET TUNIC — Amp Emulator with drive/gain function,Distortion / Fuzz / Overdrive,DONE,DONE,DONE,./research/pedals/ThorpyFX/SCARLET TUNIC — Amp Emulator with drive/gain function.md
+ThorpyFX,Shaftesbury Duo Fuzz,Fuzz,DONE,DONE,DONE,./research/pedals/ThorpyFX/Shaftesbury Duo Fuzz.md
+ThorpyFX,Shaftesbury Duo Fuzz — standard / Heritage versions consolidated,Fuzz,DONE,DONE,DONE,./research/pedals/ThorpyFX/Shaftesbury Duo Fuzz — standard / Heritage versions consolidated.md
+ThorpyFX,Six Zero,Fuzz,DONE,DONE,DONE,./research/pedals/ThorpyFX/Six Zero.md
 ThorpyFX,The DANE,Distortion / Fuzz / Overdrive,DONE,NEEDED,NEEDED,./research/pedals/ThorpyFX/The DANE.md
 ThorpyFX,THE DANE — Dual Drive Boost,Distortion / Fuzz / Overdrive,DONE,NEEDED,NEEDED,./research/pedals/ThorpyFX/THE DANE — Dual Drive Boost.md
 ThorpyFX,The Dane MKI,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/ThorpyFX/The Dane MKI.md
@@ -3463,17 +3463,17 @@ Vemuram,Butter Machine,Distortion,DONE,DONE,DONE,./research/pedals/Vemuram/Butte
 Vemuram,Butter Machine — Michael Landau Signature Distortion,Distortion,DONE,DONE,DONE,./research/pedals/Vemuram/Butter Machine — Michael Landau Signature Distortion.md
 Vemuram,DJ1,Distortion,DONE,DONE,DONE,./research/pedals/Vemuram/DJ1.md
 Vemuram,DJ1 — overdrive / distortion bass-effects identity,Distortion,DONE,DONE,DONE,./research/pedals/Vemuram/DJ1 — overdrive / distortion bass-effects identity.md
-Vemuram,Galea,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Vemuram/Galea.md
+Vemuram,Galea,Overdrive,DONE,DONE,DONE,./research/pedals/Vemuram/Galea.md
 Vemuram,Galea — overdrive,Overdrive,DONE,DONE,DONE,./research/pedals/Vemuram/Galea — overdrive.md
 Vemuram,Jan Ray,Overdrive,DONE,DONE,DONE,./research/pedals/Vemuram/Jan Ray.md
 Vemuram,Jan Ray — overdrive,Overdrive,DONE,DONE,DONE,./research/pedals/Vemuram/Jan Ray — overdrive.md
 Vemuram,Jan Ray EXP-Mod,Overdrive,DONE,DONE,DONE,./research/pedals/Vemuram/Jan Ray EXP-Mod.md
 Vemuram,Jan Ray EXP-Mod — overdrive,Overdrive,DONE,DONE,DONE,./research/pedals/Vemuram/Jan Ray EXP-Mod — overdrive.md
 Vemuram,Jan Ray for Mateus Asato,Overdrive,DONE,DONE,DONE,./research/pedals/Vemuram/Jan Ray for Mateus Asato.md
-Vemuram,Jan Ray for Mateus Asato — overdrive,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Vemuram/Jan Ray for Mateus Asato — overdrive.md
-Vemuram,Jan Ray for TF,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Vemuram/Jan Ray for TF.md
-Vemuram,Jan Ray for TF — overdrive,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Vemuram/Jan Ray for TF — overdrive.md
-Vemuram,Karen,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Vemuram/Karen.md
+Vemuram,Jan Ray for Mateus Asato — overdrive,Overdrive,DONE,DONE,DONE,./research/pedals/Vemuram/Jan Ray for Mateus Asato — overdrive.md
+Vemuram,Jan Ray for TF,Overdrive,DONE,DONE,DONE,./research/pedals/Vemuram/Jan Ray for TF.md
+Vemuram,Jan Ray for TF — overdrive,Overdrive,DONE,DONE,DONE,./research/pedals/Vemuram/Jan Ray for TF — overdrive.md
+Vemuram,Karen,Overdrive,DONE,DONE,DONE,./research/pedals/Vemuram/Karen.md
 Vemuram,Karen — overdrive,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Vemuram/Karen — overdrive.md
 Vemuram,Las Lunas,Distortion,DONE,NEEDED,NEEDED,./research/pedals/Vemuram/Las Lunas.md
 Vemuram,Las Lunas — distortion,Distortion,DONE,NEEDED,NEEDED,./research/pedals/Vemuram/Las Lunas — distortion.md
@@ -3506,17 +3506,17 @@ VFE Pedals,Dragon Hound,Distortion / Overdrive,DONE,DONE,DONE,./research/pedals/
 VFE Pedals,Fiery Red Horse,Distortion / Fuzz,DONE,DONE,DONE,./research/pedals/VFE Pedals/Fiery Red Horse.md
 VFE Pedals,Fuzz Duo,Fuzz,DONE,DONE,DONE,./research/pedals/VFE Pedals/Fuzz Duo.md
 VFE Pedals,Killer Rabbit,Distortion / Fuzz,DONE,DONE,DONE,./research/pedals/VFE Pedals/Killer Rabbit.md
-VFE Pedals,Merman,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/VFE Pedals/Merman.md
+VFE Pedals,Merman,Overdrive,DONE,DONE,DONE,./research/pedals/VFE Pedals/Merman.md
 VFE Pedals,Pale Horse,Overdrive,DONE,DONE,DONE,./research/pedals/VFE Pedals/Pale Horse.md
 VFE Pedals,Proto OD,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/VFE Pedals/Proto OD.md
 VFE Pedals,RUP mkII,Distortion,DONE,NEEDED,NEEDED,./research/pedals/VFE Pedals/RUP mkII.md
 VFE Pedals,The Scream,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/VFE Pedals/The Scream.md
 VFE Pedals,The Triplet,Distortion,DONE,DONE,DONE,./research/pedals/VFE Pedals/The Triplet.md
-VFE Pedals,Tiamat,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/VFE Pedals/Tiamat.md
+VFE Pedals,Tiamat,Overdrive,DONE,DONE,DONE,./research/pedals/VFE Pedals/Tiamat.md
 VFE Pedals,Triumvirate,Distortion,DONE,DONE,DONE,./research/pedals/VFE Pedals/Triumvirate.md
 VFE Pedals,Woodchipper,Fuzz,DONE,DONE,DONE,./research/pedals/VFE Pedals/Woodchipper.md
 Vick Audio,73 Ram's Head,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Vick Audio/73 Ram's Head.md
-Vick Audio,V2 Violet Ram,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Vick Audio/V2 Violet Ram.md
+Vick Audio,V2 Violet Ram,Fuzz,DONE,DONE,DONE,./research/pedals/Vick Audio/V2 Violet Ram.md
 Visual Sound / Truetone,Angry Fuzz,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Visual Sound / Truetone/Angry Fuzz.md
 Visual Sound / Truetone,Custom Shop Overdrive,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Visual Sound / Truetone/Custom Shop Overdrive.md
 Visual Sound / Truetone,Double Trouble,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Visual Sound / Truetone/Double Trouble.md
@@ -3535,17 +3535,17 @@ Visual Sound / Truetone,V2 Son of Hyde,Distortion,DONE,NEEDED,NEEDED,./research/
 Visual Sound / Truetone,V3 VS-XO,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Visual Sound / Truetone/V3 VS-XO.md
 Visual Sound / Truetone,Vans Warped Distortion,Distortion,DONE,NEEDED,NEEDED,./research/pedals/Visual Sound / Truetone/Vans Warped Distortion.md
 Visual Sound / Truetone,VS-XO,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Visual Sound / Truetone/VS-XO.md
-Voodoo Lab,GIGGITY,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Voodoo Lab/GIGGITY.md
-Voodoo Lab,Proctavia,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Voodoo Lab/Proctavia.md
-Voodoo Lab,Sparkle Drive,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Voodoo Lab/Sparkle Drive.md
-Voodoo Lab,Sparkle Drive MOD,Distortion / Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Voodoo Lab/Sparkle Drive MOD.md
+Voodoo Lab,GIGGITY,Overdrive,DONE,DONE,DONE,./research/pedals/Voodoo Lab/GIGGITY.md
+Voodoo Lab,Proctavia,Fuzz,DONE,DONE,DONE,./research/pedals/Voodoo Lab/Proctavia.md
+Voodoo Lab,Sparkle Drive,Overdrive,DONE,DONE,DONE,./research/pedals/Voodoo Lab/Sparkle Drive.md
+Voodoo Lab,Sparkle Drive MOD,Distortion / Overdrive,DONE,DONE,DONE,./research/pedals/Voodoo Lab/Sparkle Drive MOD.md
 Voodoo Lab,Superfuzz,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Voodoo Lab/Superfuzz.md
-VOX,Big Ben Overdrive,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/VOX/Big Ben Overdrive.md
-VOX,Bulldog Distortion,Distortion,DONE,NEEDED,NEEDED,./research/pedals/VOX/Bulldog Distortion.md
+VOX,Big Ben Overdrive,Overdrive,DONE,DONE,DONE,./research/pedals/VOX/Big Ben Overdrive.md
+VOX,Bulldog Distortion,Distortion,DONE,DONE,DONE,./research/pedals/VOX/Bulldog Distortion.md
 VOX,Copperhead Drive,Distortion / Overdrive,DONE,DONE,DONE,./research/pedals/VOX/Copperhead Drive.md
 VOX,Cutting Edge,Distortion / Overdrive,DONE,NEEDED,NEEDED,./research/pedals/VOX/Cutting Edge.md
 VOX,Fuel Injector,Overdrive,DONE,DONE,DONE,./research/pedals/VOX/Fuel Injector.md
-VOX,Ice 9 Overdrive,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/VOX/Ice 9 Overdrive.md
+VOX,Ice 9 Overdrive,Overdrive,DONE,DONE,DONE,./research/pedals/VOX/Ice 9 Overdrive.md
 VOX,Mystic Edge,Distortion / Overdrive,DONE,NEEDED,NEEDED,./research/pedals/VOX/Mystic Edge.md
 VOX,Satchurator,Distortion,DONE,DONE,DONE,./research/pedals/VOX/Satchurator.md
 VOX,Silk Drive,Overdrive,DONE,DONE,DONE,./research/pedals/VOX/Silk Drive.md
@@ -3558,7 +3558,7 @@ VOX,V829 Tone Bender,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/VOX/V829 Tone Ben
 VOX,V830 Distortion Booster,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/VOX/V830 Distortion Booster.md
 VOX,VFZ-1 Fuzz,Fuzz / Overdrive,DONE,NEEDED,NEEDED,./research/pedals/VOX/VFZ-1 Fuzz.md
 VOX,VOX 7001 Distortion,Distortion,DONE,DONE,DONE,./research/pedals/VOX/VOX 7001 Distortion.md
-Walrus Audio,385 Overdrive,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Walrus Audio/385 Overdrive.md
+Walrus Audio,385 Overdrive,Overdrive,DONE,DONE,DONE,./research/pedals/Walrus Audio/385 Overdrive.md
 Walrus Audio,385 Overdrive MKII,Distortion / Fuzz / Overdrive,DONE,DONE,DONE,./research/pedals/Walrus Audio/385 Overdrive MKII.md
 Walrus Audio,385 Overdrive MKII — Overdrive,Distortion / Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Walrus Audio/385 Overdrive MKII — Overdrive.md
 Walrus Audio,Ages Five-State Overdrive,Distortion / Fuzz / Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Walrus Audio/Ages Five-State Overdrive.md

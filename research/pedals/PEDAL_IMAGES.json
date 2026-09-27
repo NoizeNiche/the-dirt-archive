@@ -22707,7 +22707,7 @@
   {
     "builder": "Maxon",
     "pedal": "RTO700 Real Tube Overdrive",
-    "image": null,
+    "image": "./assets/pedals/maxon/rto700-real-tube-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Maxon/RTO700 Real Tube Overdrive.md"
   },
@@ -24744,14 +24744,15 @@
   {
     "builder": "NUX Audio / NUX",
     "pedal": "OD-2 Vintage Overdrive",
-    "image": null,
+    "image": "./assets/pedals/nux-audio-nux/od-2-vintage-overdrive/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/NUX Audio / NUX/OD-2 Vintage Overdrive.md"
+    "research_record": "./research/pedals/NUX Audio / NUX/OD-2 Vintage Overdrive.md",
+    "image_source_url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/ci/a41df4280825c67f/1790548235771/oBFdORH2UJMncpgD.GSezQIRSq3puuI8SOATtoUzeco-1790548235-1.3.1.1-6nA2l2MR3I0SzWoZ.3S5KrWT09HkIFi4n0Hsjc4tUMWi2ZsIfMmzN.F55xGSCEZHqAGLnzCxmU.VfgY1WxIxwKethlOB9mWj8EDphLku6C2fAKQCtfEhXZf2dVs1PeNrNf5.5_1A.RyJbE5i7ys8pWp48cgvREbsGnGxrIV7.7Nv_wSbGS6JxXnyVV58saQeGqZ7uH7NjuyYKWtBQRTc8oJQ0uQKiLlj_fCD7VKZMVzPkHdWw1rnXApxE0HGY_flA1nzH8YNdfw3KdC3MYxp6nU_6F_SiCEOSf8OmwBSBDuB6ehjvfpWHRjGrB.e3OAoUMgcHlGBOJFRumAxFKTjUNFmoT_6M5hiWKCrjjwuNZH4HvjztbHTxgS9Nk1CKhHaDvfa899fvpR63m4IXGjsjClp24aPup99JOlBGimj00ovE2fWoSRLkeOzvlDlOatiNelsjfshQUYZog3KTNL94_d6DDqGnAzgWbDmoLmFZ58EiM.jjgNuC.Zj9GbcR4IruoiQLmFiACP7miBef0hJ1ai.d1hDQ6szo2kSsF65Vi_vYLkvftaoU2sL4oCjDgXorv76RKgLAa01J1ZbsZi0UilDYEP8Yzkq7gulZrqP.uhMVdEyBgxN8YE_RHwNe1Ai6OPvniMrqaYp5DaY_uRgfxCPuOW5NkANlfZwGOdTwl0tg457GVAedIWe6RWjuI6r5f8PY8bKhfl_PnjEjSFYw8hqIk.mo1_wfqHBaAQFPQ4"
   },
   {
     "builder": "NUX Audio / NUX",
     "pedal": "OD-3 Overdrive",
-    "image": null,
+    "image": "./assets/pedals/nux-audio-nux/od-3-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/NUX Audio / NUX/OD-3 Overdrive.md"
   },
@@ -27572,28 +27573,28 @@
   {
     "builder": "ThorpyFX",
     "pedal": "SCARLET TUNIC — Amp Emulator with drive/gain function",
-    "image": null,
+    "image": "./assets/pedals/thorpyfx/scarlet-tunic-amp-emulator-with-drive-gain-function/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/ThorpyFX/SCARLET TUNIC — Amp Emulator with drive/gain function.md"
   },
   {
     "builder": "ThorpyFX",
     "pedal": "Shaftesbury Duo Fuzz",
-    "image": null,
+    "image": "./assets/pedals/thorpyfx/shaftesbury-duo-fuzz/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/ThorpyFX/Shaftesbury Duo Fuzz.md"
   },
   {
     "builder": "ThorpyFX",
     "pedal": "Shaftesbury Duo Fuzz — standard / Heritage versions consolidated",
-    "image": null,
+    "image": "./assets/pedals/thorpyfx/shaftesbury-duo-fuzz-standard-heritage-versions-consolidated/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/ThorpyFX/Shaftesbury Duo Fuzz — standard / Heritage versions consolidated.md"
   },
   {
     "builder": "ThorpyFX",
     "pedal": "Six Zero",
-    "image": null,
+    "image": "./assets/pedals/thorpyfx/six-zero/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/ThorpyFX/Six Zero.md"
   },
@@ -27901,7 +27902,7 @@
   {
     "builder": "Vemuram",
     "pedal": "Galea",
-    "image": null,
+    "image": "./assets/pedals/vemuram/galea/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Vemuram/Galea.md"
   },
@@ -27950,28 +27951,28 @@
   {
     "builder": "Vemuram",
     "pedal": "Jan Ray for Mateus Asato — overdrive",
-    "image": null,
+    "image": "./assets/pedals/vemuram/jan-ray-for-mateus-asato-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Vemuram/Jan Ray for Mateus Asato — overdrive.md"
   },
   {
     "builder": "Vemuram",
     "pedal": "Jan Ray for TF",
-    "image": null,
+    "image": "./assets/pedals/vemuram/jan-ray-for-tf/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Vemuram/Jan Ray for TF.md"
   },
   {
     "builder": "Vemuram",
     "pedal": "Jan Ray for TF — overdrive",
-    "image": null,
+    "image": "./assets/pedals/vemuram/jan-ray-for-tf-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Vemuram/Jan Ray for TF — overdrive.md"
   },
   {
     "builder": "Vemuram",
     "pedal": "Karen",
-    "image": null,
+    "image": "./assets/pedals/vemuram/karen/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Vemuram/Karen.md"
   },
@@ -28258,7 +28259,7 @@
   {
     "builder": "VFE Pedals",
     "pedal": "Merman",
-    "image": null,
+    "image": "./assets/pedals/vfe-pedals/merman/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/VFE Pedals/Merman.md"
   },
@@ -28300,7 +28301,7 @@
   {
     "builder": "VFE Pedals",
     "pedal": "Tiamat",
-    "image": null,
+    "image": "./assets/pedals/vfe-pedals/tiamat/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/VFE Pedals/Tiamat.md"
   },
@@ -28328,7 +28329,7 @@
   {
     "builder": "Vick Audio",
     "pedal": "V2 Violet Ram",
-    "image": null,
+    "image": "./assets/pedals/vick-audio/v2-violet-ram/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Vick Audio/V2 Violet Ram.md"
   },
@@ -28461,28 +28462,28 @@
   {
     "builder": "Voodoo Lab",
     "pedal": "GIGGITY",
-    "image": null,
+    "image": "./assets/pedals/voodoo-lab/giggity/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Voodoo Lab/GIGGITY.md"
   },
   {
     "builder": "Voodoo Lab",
     "pedal": "Proctavia",
-    "image": null,
+    "image": "./assets/pedals/voodoo-lab/proctavia/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Voodoo Lab/Proctavia.md"
   },
   {
     "builder": "Voodoo Lab",
     "pedal": "Sparkle Drive",
-    "image": null,
+    "image": "./assets/pedals/voodoo-lab/sparkle-drive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Voodoo Lab/Sparkle Drive.md"
   },
   {
     "builder": "Voodoo Lab",
     "pedal": "Sparkle Drive MOD",
-    "image": null,
+    "image": "./assets/pedals/voodoo-lab/sparkle-drive-mod/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Voodoo Lab/Sparkle Drive MOD.md"
   },
@@ -28496,14 +28497,14 @@
   {
     "builder": "VOX",
     "pedal": "Big Ben Overdrive",
-    "image": null,
+    "image": "./assets/pedals/vox/big-ben-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/VOX/Big Ben Overdrive.md"
   },
   {
     "builder": "VOX",
     "pedal": "Bulldog Distortion",
-    "image": null,
+    "image": "./assets/pedals/vox/bulldog-distortion/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/VOX/Bulldog Distortion.md"
   },
@@ -28531,7 +28532,7 @@
   {
     "builder": "VOX",
     "pedal": "Ice 9 Overdrive",
-    "image": null,
+    "image": "./assets/pedals/vox/ice-9-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/VOX/Ice 9 Overdrive.md"
   },
@@ -28622,7 +28623,7 @@
   {
     "builder": "Walrus Audio",
     "pedal": "385 Overdrive",
-    "image": null,
+    "image": "./assets/pedals/walrus-audio/385-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Walrus Audio/385 Overdrive.md"
   },
