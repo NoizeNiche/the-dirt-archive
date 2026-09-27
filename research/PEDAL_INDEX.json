@@ -42525,8 +42525,8 @@
       "image": "./assets/pedals/lovepedal/mosferatu/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Lovepedal/Mosferatu.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Lovepedal",
@@ -49667,8 +49667,8 @@
       "image": "./assets/pedals/radial-tonebone/hot-british/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Radial Tonebone/Hot British.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Radial Tonebone",
