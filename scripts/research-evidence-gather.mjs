@@ -355,6 +355,22 @@ async function targetRecord(builder,pedal,type){
     }
   }catch{}
   const models=catalogModels(builder);
+  let recordExcerpt='';
+  let recordTitle=builder+' - '+pedal;
+  try{
+    const record=String((JSON.parse(fs.readFileSync(INDEX,'utf8')).pedals||[])
+      .find(item=>item.company===builder && item.pedal===pedal)?.research_record||'').replace(/^\.\//,'');
+    if(record && fs.existsSync(record)){
+      const raw=fs.readFileSync(record,'utf8');
+      recordTitle=String(raw.match(/^#\s+(.+)$/m)?.[1]||recordTitle);
+      recordExcerpt=raw
+        .replace(/^#.*$/gm,'')
+        .replace(/^## Deep research verification[\s\S]*$/m,'')
+        .replace(/\n{3,}/g,'\n\n')
+        .trim()
+        .slice(0,5500);
+    }
+  }catch{}
   const queries=searchQueries(builder,pedal);
   const found=new Map();
   for(const u of urls){
