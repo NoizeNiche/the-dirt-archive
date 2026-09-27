@@ -47120,8 +47120,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/MXR/Wylde Audio Overdrive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "MXR",
@@ -47156,8 +47156,8 @@
       "image": "./assets/pedals/mystic-effects-co/1833-drive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mystic Effects Co/1833 Drive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Mystic Effects Co",
@@ -53917,8 +53917,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/VFE Pedals/Distortion3.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "VFE Pedals",
@@ -54703,8 +54703,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/VOX/Mystic Edge.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "VOX",
@@ -56606,8 +56606,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Wren and Cuff/Two-Five Drive Boost.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Wren and Cuff",

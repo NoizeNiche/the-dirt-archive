@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-27T11:49:38.350492+00:00",
+  "generated_at": "2026-09-27T11:51:36.895689+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,65 +10,23 @@
     "pictured": 3140,
     "complete": 3140,
     "research_pending": 0,
-    "deep_research_pending": 661,
-    "deep_researched": 3581,
+    "deep_research_pending": 650,
+    "deep_researched": 3592,
     "surface_ready": 4242
   },
   "next_target": {
-    "builder": "Bad Penny FX",
-    "pedal": "Nerd Fuzz + Boost",
+    "builder": "Captain FX",
+    "pedal": "Crown Jr. Overdrive / Boost",
     "catalog_type": "",
-    "research_record": "./research/pedals/Bad Penny FX/Nerd Fuzz + Boost.md",
+    "research_record": "./research/pedals/Captain FX/Crown Jr. Overdrive Boost.md",
     "research_level": "surface"
   },
   "working_set": [
-    {
-      "builder": "Bad Penny FX",
-      "pedal": "Nerd Fuzz + Boost",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Bad Penny FX/Nerd Fuzz + Boost.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Bad Penny FX",
-      "pedal": "Old Fuzz Mini",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Bad Penny FX/Old Fuzz Mini.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Bad Penny FX",
-      "pedal": "Quagswag Fuzz Boost",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Bad Penny FX/Quagswag Fuzz Boost.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Bad Penny FX",
-      "pedal": "Widow Dual Overdrive/Fuzz",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Bad Penny FX/Widow Dual Overdrive Fuzz.md",
-      "research_level": "surface"
-    },
     {
       "builder": "Captain FX",
       "pedal": "Crown Jr. Overdrive / Boost",
       "catalog_type": "",
       "research_record": "./research/pedals/Captain FX/Crown Jr. Overdrive Boost.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Captain FX",
-      "pedal": "Overdriver",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Captain FX/Overdriver.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Captain FX",
-      "pedal": "War Pig",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Captain FX/War Pig.md",
       "research_level": "surface"
     },
     {
@@ -195,6 +153,48 @@
       "pedal": "Torn's Peaker",
       "catalog_type": "",
       "research_record": "./research/pedals/Devi Ever : FX/Torn's Peaker.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Devi Ever : FX",
+      "pedal": "Tri-Fuzz",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Devi Ever : FX/Tri-Fuzz.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Devi Ever FX",
+      "pedal": "BS",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Devi Ever FX/BS.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Devi Ever FX",
+      "pedal": "Hyperion 2",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Devi Ever FX/Hyperion 2.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Devi Ever FX",
+      "pedal": "OK",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Devi Ever FX/OK.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Devi Ever FX",
+      "pedal": "The Ion",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Devi Ever FX/The Ion.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Devi Ever FX",
+      "pedal": "US",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Devi Ever FX/US.md",
       "research_level": "surface"
     }
   ]
