@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-27T09:09:16.347436+00:00",
+  "generated_at": "2026-09-27T09:11:40.523585+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,8 +10,8 @@
     "pictured": 3123,
     "complete": 3123,
     "research_pending": 0,
-    "deep_research_pending": 2123,
-    "deep_researched": 2119,
+    "deep_research_pending": 2119,
+    "deep_researched": 2123,
     "surface_ready": 4242
   },
   "next_target": {
@@ -65,13 +65,6 @@
       "research_level": "surface"
     },
     {
-      "builder": "Bad Pixel Pedals",
-      "pedal": "F#@k You Tube Drive-Boost",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Bad Pixel Pedals/F#@k You Tube Drive-Boost.md",
-      "research_level": "surface"
-    },
-    {
       "builder": "Balaguer Guitars",
       "pedal": "Fission Drive",
       "catalog_type": "",
@@ -90,27 +83,6 @@
       "pedal": "Maybe The Real Treasure... Fuzz",
       "catalog_type": "",
       "research_record": "./research/pedals/Baltimore Sonic Research Institute/Maybe The Real Treasure - Fuzz.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Barge Concepts",
-      "pedal": "DB-1 Dual Boost",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Barge Concepts/DB-1 Dual Boost.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Barge Concepts",
-      "pedal": "DB-2 Dual Boost",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Barge Concepts/DB-2 Dual Boost.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Barge Concepts",
-      "pedal": "DB-3 Dual Boost",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Barge Concepts/DB-3 Dual Boost.md",
       "research_level": "surface"
     },
     {
@@ -195,6 +167,34 @@
       "pedal": "Overhive Mid-Gain Overdrive",
       "catalog_type": "",
       "research_record": "./research/pedals/Beetronics/Overhive Mid-Gain Overdrive.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Beetronics",
+      "pedal": "Royal Jelly Fuzz/OD Blender",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Beetronics/Royal Jelly Fuzz/OD Blender.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Beetronics",
+      "pedal": "Swarm Fuzz Harmonizer",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Beetronics/Swarm Fuzz Harmonizer.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Beetronics",
+      "pedal": "Tuna Fuzz",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Beetronics/Tuna Fuzz.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Beetronics",
+      "pedal": "Vezzpa Octave Stinger",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Beetronics/Vezzpa Octave Stinger.md",
       "research_level": "surface"
     }
   ]
