@@ -30185,10 +30185,10 @@
         "Distortion"
       ],
       "image": "./assets/pedals/d-m/distortion/primary.webp",
-      "source_page": null,
+      "source_page": "https://www.effectsdatabase.com/updates/weekly/20111017",
       "research_record": "./research/pedals/D&M/Distortion.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Dan Drive Pedal Solutions",
@@ -31731,10 +31731,10 @@
         "Fuzz"
       ],
       "image": "./assets/pedals/devi-ever-fx/tri-fuzz/primary.webp",
-      "source_page": null,
+      "source_page": "https://www.fuzzgoddess.com/about/",
       "research_record": "./research/pedals/Devi Ever : FX/Tri-Fuzz.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Devi Ever : FX",
