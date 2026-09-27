@@ -1,59 +1,55 @@
-# BearFoot FX - Honey Bee Overdrive Plus
+# BearFoot FX — Honey Bee Overdrive Plus
 
 ## PRP identity
 - **Archive parent:** Honey Bee Overdrive Plus
 - **Builder:** BearFoot FX
 - **Catalog type:** Overdrive
-- **Identity:** Expanded Honey Bee overdrive with an additional switch-controlled alternate volume/treble arrangement.
+- **Identity:** Expanded Honey Bee-family overdrive with a switchable alternate Volume/Treble control arrangement, documented in a 2022-era unit. [1][2]
 
 ## What this pedal is
-Honey Bee Overdrive Plus is a later BearFoot expansion of the Honey Bee concept. A documented 2022 example is identified as Honey Bee Plus and uses a switch to change between two different Volume/Treble control settings.
+A surviving 2022-ish BearFoot Honey Bee Plus is documented as an expanded Honey Bee-family overdrive. The surviving evidence shows a switch that changes the pedal between alternate Volume/Treble control behavior while retaining the basic Honey Bee low-gain concept. [1]
 
-## Colorways
-- A documented 2022-era example has a gold-flake enclosure.
-- Other BearFoot finishes are possible, but no complete Honey Bee Plus colorway chronology was verified.
+## Controls / switching
+- Honey Bee-family **Volume / Drive / Nature** functions.
+- Plus switching adds an alternate **Volume / Treble** arrangement in the documented unit.
+- Exact production-wide control options are not established from the available unit-level evidence. [1][2]
 
-## Versions and factory options
-### Honey Bee Overdrive Plus
-- Honey Bee-derived overdrive
-- Switch changes between alternate Volume/Treble control settings on the documented example
-- 5-15V operation is listed for the Honey Bee family
-- No numbered factory revision was verified.
-
-## Version changes
-The Plus designation represents an expanded control/voicing arrangement rather than a simple colorway. The available unit-level evidence is not sufficient to establish every production option across the model's run.
+## Circuit lineage
+- **Primary lineage:** Honey Bee Overdrive.
+- This Plus model is maintained separately because the switching adds a substantive control/voicing function.
 
 ## Transistor
-- **Technology:** Honey Bee-family analog overdrive.
-- **Exact production transistor/device part numbers:** Not publicly documented in the checked sources.
+- Exact production transistor/device part numbers are not publicly documented.
 
-## Diode
-- **Exact clipping/protection arrangement:** Not publicly documented.
+## Diode / clipping
+- Exact clipping/protection device and part number are not publicly documented.
+
+## Power
+- Family references document approximately **5–15V** operation. [2]
+
+## Version history
+- The “Plus” designation represents an expanded control/voicing implementation.
+- A complete factory chronology for all Plus builds is not established.
 
 ## Sound
-The Plus keeps the low-gain, touch-sensitive Honey Bee concept while adding a switchable alternate volume/treble arrangement. That gives the player more ways to move between the classic warm response and a brighter/louder setup without turning the pedal into a fundamentally different high-gain design.
+The Plus retains the low-gain, touch-sensitive Honey Bee character while adding another route for Volume/Treble shaping. The result can move from the warm classic response toward a brighter/louder setup without changing the fundamental low-gain architecture. [1]
 
-## Sources checked
-1. Reverb, Bearfoot FX Honey Bee Plus 2022-ish: https://reverb.com/item/78332511-bearfoot-fx-honey-bee-plus-2022ish-gold-flake
-2. BearFoot family power specifications: https://www.pedalboard.org/strom-liste/bearfoot-fx
-3. Aion FX Procyon/BJFE Honey Bee documentation: https://aionfx.com/app/files/docs/procyon_documentation_v1.pdf
-
-## Photo
-- **Archive status:** **Exact Photo Attached to Public Catalog**
-- **Exact-model image:** https://rvb-img.reverb.com/i/s--LLexNzWV--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/cbp3ifzmgocobxxzp7ph.jpg
-- **Source page:** https://reverb.com/item/78332511-bearfoot-fx-honey-bee-plus-2022ish-gold-flake
+## Research confidence
+- **Identity:** High
+- **Honey Bee lineage:** High
+- **Plus expansion:** High for documented unit
+- **Universal control map:** Moderate
+- **Exact transistor:** Unknown
+- **Exact diode:** Unknown
 
 ## Deep research verification
+The 2022-ish exact-model Reverb record was cross-checked with RockBoard's product record and BearFoot family power documentation. The evidence supports the Honey Bee lineage and Plus switching while keeping the precise production-wide options appropriately scoped. [1][2][3]
 
-This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+## Sources checked
+1. Reverb — BearFoot FX Honey Bee Plus 2022-ish: https://reverb.com/item/78332511-bearfoot-fx-honey-bee-plus-2022ish-gold-flake
+2. RockBoard PedalPedia — Honey Bee Overdrive Plus: https://www.rockboard.de/en/pedalPedia/BearFoot-FX/Honey-Bee-Overdrive-Plus/68975151/
+3. BearFoot family power reference: https://www.pedalboard.org/strom-liste/bearfoot-fx
 
-### Verified description
-BearFoot FX's Honey Bee Overdrive Plus is cataloged as an overdrive pedal.
-
-### Verified sound evidence
-Honey Bee Overdrive Plus by BearFoot FX
-This pedal also includes controls for Volume, Drive, and “Nature” (Bass), providing a wide range of tonal possibilities.
-
-### Sources checked in this pass
-1. Honey Bee Overdrive Plus by BearFoot FX | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/BearFoot-FX/Honey-Bee-Overdrive-Plus/68975151/
-2. catalog/override source: https://reverb.com/item/66928122-bearfoot-honey-bee-overdrive-plus-sn-18-03-15
+## Photo
+- **Exact pedal photograph:** Reverb exact-model image.
+- https://rvb-img.reverb.com/i/s--LLexNzWV--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/cbp3ifzmgocobxxzp7ph.jpg
