@@ -33,3 +33,7 @@ Cogmeister covers a very wide range from boost and transparent-ish drive through
 1. Effects Database — Dinosaural Cogmeister: https://www.effectsdatabase.com/model/dinosaural/cogmeister
 2. Coggins Audio — current site and history: https://cogginsaudio.co.uk/
 3. GuitarPlayer — Dan Coggins / Cogmeister circuit discussion: https://www.guitarplayer.com/news/dinosaural-cogmeister-dan-coggins
+
+## Deep research verification
+
+This record was rechecked against the exact-model archival sources listed below during the September 2026 historical catalog sweep. The archive uses **Coggins Audio / Dinosaural** as the canonical builder identity, matching the builder master index, and does not treat the later Dinosaural-era names as a separate manufacturer.
