@@ -14,3 +14,10 @@
 - **Sources checked:**
   - https://camuro.co.jp/pedals
   - https://camuro.co.jp/
+## Deep research verification
+
+Camuro's primary product catalog identifies **Naturale Overdrive Preamp** as an amplifier-like overdrive preamp designed to track the guitar closely. The accessible builder text emphasizes natural player interaction rather than a named clone circuit. Exact controls and semiconductor details remain undocumented in the reviewed primary material.
+
+Sources:
+- https://camuro.co.jp/pedals
+- https://camuro.co.jp/
