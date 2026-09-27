@@ -33341,8 +33341,8 @@
       "image": "./assets/pedals/dod-electronics/supra-distortion-fx55c/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/DOD Electronics/Supra Distortion (FX55C).md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "DOD Electronics",
@@ -38026,8 +38026,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Hudson Electronics/Motorcycle — limited collaboration with Joe's Pedals.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Hudson Electronics",

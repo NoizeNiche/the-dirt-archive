@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-27T23:39:40.367696+00:00",
+  "generated_at": "2026-09-27T23:41:47.927727+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,8 +10,8 @@
     "pictured": 3476,
     "complete": 3476,
     "research_pending": 0,
-    "deep_research_pending": 285,
-    "deep_researched": 3921,
+    "deep_research_pending": 283,
+    "deep_researched": 3923,
     "surface_ready": 4206
   },
   "next_target": {
@@ -34,13 +34,6 @@
       "pedal": "Mystic Blues Overdrive (FX102)",
       "catalog_type": "",
       "research_record": "./research/pedals/DOD Electronics/Mystic Blues Overdrive (FX102).md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "DOD Electronics",
-      "pedal": "Supra Distortion (FX55C)",
-      "catalog_type": "",
-      "research_record": "./research/pedals/DOD Electronics/Supra Distortion (FX55C).md",
       "research_level": "surface"
     },
     {
@@ -156,13 +149,6 @@
       "research_level": "surface"
     },
     {
-      "builder": "Hudson Electronics",
-      "pedal": "Motorcycle — limited collaboration with Joe's Pedals",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Hudson Electronics/Motorcycle — limited collaboration with Joe's Pedals.md",
-      "research_level": "surface"
-    },
-    {
       "builder": "Hungry Robot",
       "pedal": "FZ",
       "catalog_type": "",
@@ -195,6 +181,20 @@
       "pedal": "No Moon 2 — coming soon",
       "catalog_type": "",
       "research_record": "./research/pedals/IdiotBox Effects/No Moon 2 — coming soon.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "IdiotBox Effects",
+      "pedal": "PowerBoost (retired)",
+      "catalog_type": "",
+      "research_record": "./research/pedals/IdiotBox Effects/PowerBoost (retired).md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "J. Rockett Audio Designs",
+      "pedal": "Archer Ikon OD",
+      "catalog_type": "",
+      "research_record": "./research/pedals/J. Rockett Audio Designs/Archer Ikon OD.md",
       "research_level": "surface"
     }
   ]

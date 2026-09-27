@@ -3,13 +3,13 @@
 
 The active production phase is **Catalog Research Phase**. PRP1 is retained only as a legacy publication/closeout mechanism.
 
-Live catalog: **4206 total / 4206 surface-ready / 3921 deep-researched / 3739 research-linked / 3476 pictured / 3476 complete / 0 surface-missing / 285 deep-research-pending / 263 researched-photo-pending**.
+Live catalog: **4206 total / 4206 surface-ready / 3923 deep-researched / 3739 research-linked / 3476 pictured / 3476 complete / 0 surface-missing / 283 deep-research-pending / 263 researched-photo-pending**.
 
 **Next deep-research target:** DOD Electronics - Metal X (FX70).
 
 PRP1 closeout remains separate: 263 researched record(s) still lack an exact local photo.
 The research queue is generated from the canonical catalog and tracker; do not hand-edit the derived queue.
-Last refreshed: 2026-09-27T23:39:40.367696+00:00
+Last refreshed: 2026-09-27T23:41:47.927727+00:00
 <!-- AUTO:RESEARCH_PHASE_END -->
 
 ## Superseded checkpoint
