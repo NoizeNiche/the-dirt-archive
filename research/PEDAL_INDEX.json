@@ -1,6 +1,6 @@
 {
   "version": "data-20260924-prp1-cbs-arbiter-fuzz-phazer-direct-lead",
-  "count": 4025,
+  "count": 4064,
   "pedals": [
     {
       "company": "1981 Inventions",
@@ -54876,6 +54876,138 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/ZVEX Effects/Woolly Mammoth 7.md",
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "JHS Pedals",
+      "pedal": "73 Rams Head",
+      "types": [
+        "Fuzz",
+        "Distortion"
+      ],
+      "source_page": "https://jhspedals.info/products/73-rams-head",
+      "research_record": "./research/pedals/JHS Pedals/73 Rams Head.md",
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "JHS Pedals",
+      "pedal": "Double Barrel V4",
+      "types": [
+        "Overdrive"
+      ],
+      "source_page": "https://jhspedals.info/products/double-barrel-v4",
+      "research_record": "./research/pedals/JHS Pedals/Double Barrel V4.md",
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "JHS Pedals",
+      "pedal": "Sweet Tea V3",
+      "types": [
+        "Overdrive",
+        "Distortion"
+      ],
+      "source_page": "https://jhspedals.info/products/sweet-tea-v3",
+      "research_record": "./research/pedals/JHS Pedals/Sweet Tea V3.md",
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "JHS Pedals",
+      "pedal": "SuperBolt V2",
+      "types": [
+        "Overdrive"
+      ],
+      "source_page": "https://jhspedals.info/products/superbolt-v2",
+      "research_record": "./research/pedals/JHS Pedals/SuperBolt V2.md",
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "JHS Pedals",
+      "pedal": "Kilt V1",
+      "types": [
+        "Overdrive",
+        "Distortion",
+        "Fuzz"
+      ],
+      "source_page": "https://jhspedals.info/products/kilt-v1-stug",
+      "research_record": "./research/pedals/JHS Pedals/Kilt V1, Stu G.md",
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "JHS Pedals",
+      "pedal": "Colour Box V1",
+      "types": [
+        "Overdrive",
+        "Distortion",
+        "Fuzz"
+      ],
+      "source_page": "https://jhspedals.info/products/colour-box-v1",
+      "research_record": "./research/pedals/JHS Pedals/Colour Box V1.md",
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "JHS Pedals",
+      "pedal": "Mini Foot Fuzz V1",
+      "types": [
+        "Fuzz"
+      ],
+      "source_page": "https://jhspedals.info/products/mini-foot-fuzz-v2",
+      "research_record": "./research/pedals/JHS Pedals/Mini Foot Fuzz V1.md",
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "JHS Pedals",
+      "pedal": "Bunrunner 2 in 1",
+      "types": [
+        "Fuzz",
+        "Overdrive"
+      ],
+      "source_page": "https://jhspedals.info/products/bunrunner-hand-paint",
+      "research_record": "./research/pedals/JHS Pedals/Bunrunner 2 in 1.md",
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "JHS Pedals",
+      "pedal": "Calhoun V2",
+      "types": [
+        "Fuzz",
+        "Overdrive"
+      ],
+      "source_page": "https://jhspedals.info/products/calhoun-hand-paint",
+      "research_record": "./research/pedals/JHS Pedals/Calhoun V2, Mike Campbell.md",
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "JHS Pedals",
+      "pedal": "Ruby Red",
+      "types": [
+        "Overdrive",
+        "Distortion",
+        "Fuzz"
+      ],
+      "source_page": "https://jhspedals.info/products/ruby-red-butch-walker",
+      "research_record": "./research/pedals/JHS Pedals/Ruby Red, Butch Walker.md",
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "JHS Pedals",
+      "pedal": "Pandamonium",
+      "types": [
+        "Fuzz",
+        "Overdrive"
+      ],
+      "source_page": "https://jhspedals.info/products/pandamonium",
+      "research_record": "./research/pedals/JHS Pedals/Pandamonium.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED"
     }
