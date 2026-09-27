@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-27T01:04:29.985370+00:00",
+  "generated_at": "2026-09-27T01:07:50.297116+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,8 +10,8 @@
     "pictured": 3010,
     "complete": 3010,
     "research_pending": 0,
-    "deep_research_pending": 2170,
-    "deep_researched": 1591,
+    "deep_research_pending": 2154,
+    "deep_researched": 1607,
     "surface_ready": 3761
   },
   "next_target": {
@@ -79,101 +79,10 @@
       "research_level": "surface"
     },
     {
-      "builder": "Bad Penny FX",
-      "pedal": "The Fuzz Controller V1",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Bad Penny FX/The Fuzz Controller V1.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Bad Penny FX",
-      "pedal": "The Fuzz Controller V2",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Bad Penny FX/The Fuzz Controller V2.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Bad Pixel Pedals",
-      "pedal": "Bad Face Silicon",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Bad Pixel Pedals/Bad Face Silicon.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Bad Pixel Pedals",
-      "pedal": "Classic Model 1 Fuzz",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Bad Pixel Pedals/Classic Model 1 Fuzz.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Bad Pixel Pedals",
-      "pedal": "Classic Model 2 Fuzz",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Bad Pixel Pedals/Classic Model 2 Fuzz.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Bad Pixel Pedals",
-      "pedal": "Classic Model 3 Fuzz",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Bad Pixel Pedals/Classic Model 3 Fuzz.md",
-      "research_level": "surface"
-    },
-    {
       "builder": "Bad Pixel Pedals",
       "pedal": "Fuck_Fuck Twin Tube Boost Overdrive",
       "catalog_type": "",
       "research_record": "./research/pedals/Bad Pixel Pedals/Fuck_Fuck Twin Tube Boost Overdrive.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Bad Pixel Pedals",
-      "pedal": "Germanium Gold Face Fuzz",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Bad Pixel Pedals/Germanium Gold Face Fuzz.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Bad Pixel Pedals",
-      "pedal": "Germanium Pink Face Fuzz",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Bad Pixel Pedals/Germanium Pink Face Fuzz.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Bad Pixel Pedals",
-      "pedal": "MKII Professional Gold Bender Fuzz",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Bad Pixel Pedals/MKII Professional Gold Bender Fuzz.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Baddy One Shoe Pedals",
-      "pedal": "Heartbreaker",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Baddy One Shoe Pedals/Heartbreaker.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Baddy One Shoe Pedals",
-      "pedal": "Honeycomb",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Baddy One Shoe Pedals/Honeycomb.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Baddy One Shoe Pedals",
-      "pedal": "Punch & Grind",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Baddy One Shoe Pedals/Punch & Grind.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Baddy One Shoe Pedals",
-      "pedal": "Wayfarer",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Baddy One Shoe Pedals/Wayfarer.md",
       "research_level": "surface"
     },
     {
@@ -195,6 +104,97 @@
       "pedal": "Top Boost TB-1",
       "catalog_type": "",
       "research_record": "./research/pedals/Baja Tech Custom/Top Boost TB-1.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Baltimore Sonic Research Institute",
+      "pedal": "Ashmaker - Distortion w/ Boost",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Baltimore Sonic Research Institute/Ashmaker - Distortion w Boost.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Baltimore Sonic Research Institute",
+      "pedal": "FZZ",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Baltimore Sonic Research Institute/FZZ.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Baltimore Sonic Research Institute",
+      "pedal": "Impossible Colors - Transformer Coupled Fuzz",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Baltimore Sonic Research Institute/Impossible Colors - Transformer Coupled Fuzz.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Baltimore Sonic Research Institute",
+      "pedal": "Impossible Colors II Transformer Coupled Fuzz",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Baltimore Sonic Research Institute/Impossible Colors II Transformer Coupled Fuzz.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Baltimore Sonic Research Institute",
+      "pedal": "Oriole Fuzz",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Baltimore Sonic Research Institute/Oriole Fuzz.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Barbarossa",
+      "pedal": "CHIMAERA",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Barbarossa/Chimaera.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Barbarossa",
+      "pedal": "CRONUS",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Barbarossa/Cronus.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Barbarossa",
+      "pedal": "URANUS",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Barbarossa/URANUS.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Barber Electronics",
+      "pedal": "1/2 Gainer",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Barber Electronics/1_2_Gainer.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Barber Electronics",
+      "pedal": "B-Custom Super Sport",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Barber Electronics/B-Custom_Super_Sport.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Barber Electronics",
+      "pedal": "Burn Unit",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Barber Electronics/Burn_Unit.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Barber Electronics",
+      "pedal": "Direct Drive Compact / Direct Drive v4",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Barber Electronics/Direct_Drive_Compact_V4.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Barber Electronics",
+      "pedal": "Dirty Bomb",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Barber Electronics/Dirty_Bomb.md",
       "research_level": "surface"
     }
   ]

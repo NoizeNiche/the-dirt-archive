@@ -16,3 +16,24 @@
 - **Sources checked:**
   - https://carolineguitar.com/tag/caroline-olympia-fuzz/
   - https://carolineguitar.com/tag/olympia-fuzz/
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Caroline Guitar Company's Olympia is cataloged as a distortion / fuzz / overdrive pedal.
+
+### Verified color/finish evidence
+- Olympia '25 Olympia '25: Limited edition hand-wired recreation of Mike at Relic Music’s personal mismatched-transistor Olympia, now in a silver/black chassis with oxblood Davies knobs.
+- Inspired by our favorite timeless and classic transistor-based fuzzes, we tweaked every component we could to squeeze as much performance as we could out of the designs, listened to what our testers and players told us, then forgot about the math and went for the red line.
+
+### Verified sound evidence
+Caroline Olympia Fuzz Archives - Caroline Guitar Company - Caroline Guitar Company Dreamed, designed, and created at our small batch distortery™ in Columbia, South Carolina.
+Products Artists About Retailers Blog My account Checkout Cart Caroline Olympia Fuzz Support our Kickstarter to launch the Olympia Fuzz!
+July 26, 2011 We’re running a fundraising campaign through Kickstarter to launch the follow up to our acclaimed Wave Cannon™ overdriver: the OLYMPIA fuzz.
+
+### Sources checked in this pass
+1. catalog/override source: https://reverb.com/p/caroline-guitar-company-olympia
+2. Caroline Olympia Fuzz Archives - Caroline Guitar Company - Caroline Guitar Company: https://carolineguitar.com/tag/caroline-olympia-fuzz/
+3. Caroline Guitar Company Olympia Fuzz | Effects Database: https://www.effectsdatabase.com/model/caroline/olympia

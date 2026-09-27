@@ -1,0 +1,73 @@
+{
+  "builder": "Pigtronix",
+  "pedal": "FAT Drive",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 8,
+  "sources": [
+    {
+      "url": "https://www.premierguitar.com/gear/pigtronix-fat-drive-pedal-review",
+      "title": "Pigtronix FAT Drive Pedal Review - Premier Guitar",
+      "h1": "Pigtronix FAT Drive Pedal Review",
+      "excerpt": "Raven.config('https://6b64f5cc8af542cbb920e0238864390a@sentry.io/147999').install(); Pigtronix FAT Drive Pedal Review - Premier Guitar     Skip to content Search & Section Navigation Sign up Sign up Contact Shop Open Search Login Subscribe Site Navigation Reviews Guitars Amps Pedals Acoustic Bass News Videos Rig Rundowns Gear Demos Gear Roundups DIY Features Artists Gear Builder Profile <div class=\"text-element\" id=\"sMenu_Items_0_0_2",
+      "host": "www.premierguitar.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://reverb.com/p/pigtronix-fat-drive-2012-white",
+      "title": "Pigtronix Fat Drive Overdrive Pedal - Reverb",
+      "h1": "",
+      "excerpt": "",
+      "host": "reverb.com",
+      "source_kind": "reverb"
+    },
+    {
+      "url": "https://equipboard.com/items/pigtronix-fat-drive",
+      "title": "Pigtronix FAT Drive \u2014 Overdrive Pedal | Equipboard",
+      "h1": "",
+      "excerpt": "",
+      "host": "equipboard.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://gearstrings.com/gear-reviews/pigtronix-fat-drive-pedal-review",
+      "title": "Pigtronix Fat Drive Pedal Review: Honest, In-Depth Analysis for Guitarists | GearStrings",
+      "h1": "Pigtronix Fat Drive Pedal Review: Honest, In-Depth Analysis for Guitarists",
+      "excerpt": "Pigtronix Fat Drive Pedal Review: Honest, In-Depth Analysis for Guitarists | GearStrings GEARSTRINGS Home Blog Categories Authors About Home / Blog / gear reviews gear reviews Pigtronix Fat Drive Pedal Review: Honest, In-Depth Analysis for Guitarists By liam-carter June 5, 2026 Pigtronix Fat Drive Pedal Review: A High-Fidelity, Dual-Stage Overdrive with Studio-Grade Clarity The Pigtronix Fat Drive is a dual-stage analog overdrive pedal designed to deliver rich, harmonically complex gain without masking guitar dynamics or amp interaction \u2014 making it especially valuable for players seeking transparent high-headroom overdrive with adjustable saturation character . It\u2019s not a one-knob boost or a saturated distortion box; rather, it\u2019s a precision-crafted tool for tonal shaping across clean-to-medium drive ranges. After extensive testing in studio, rehearsal, and live contexts \u2014 including comparison with the Fulltone OCD v2, Wampler Pinnacle Deluxe, and JHS Angry Charlie \u2014 the Fat Drive earns strong recommendation for discerning players who prioritize dynamic response, low-noise operation, and flexible voicing. Its $249 price reflects its hand-built US manufacturing, discrete Class-A circuitry, and consistent performance under demanding conditions \u2014 but it demands attentive setup to unlock its full potential. About Pigtronix Fat Drive Pedal Review: Product Background and Intent Pigtronix, founded in 2004 by engineer and musician David Kram, operates out of Rochester, New York, specializing in boutique analog effects with emphasis on robust signal integrity, true-bypass switching (with relay-based silent switching), and modular design philosophy. The Fat Drive was introduced in 2014 as a deliberate departure from typical op-amp\u2013based overdrives. Rather than emulate vintage circuits, Pigtronix engineered a fully discrete, Class-A, dual-JFET front end followed by a MOSFET output stage \u2014 a topology more commonly seen in high-end preamps than stompboxes. Its stated goal is to provide \u201cclean headroom, harmonic richness, and responsive touch sensitivity\u201d while retaining the feel and articulation of an unprocessed signal path. Unlike many overdrives that compress heavily at higher gain settings, the Fat Drive preserves pick attack and string separation even at medium saturation levels \u2014 a trait Pigtronix explicitly cites in its product documentation 1 . First Impressions: Build Quality, Setup, and Physical Design Unboxing reveals a 4.5\u2033 \u00d7 2.75\u2033 \u00d7 1.75\u2033 aluminum enclosure with matte black powder coating and crisp white silk-screened labeling. The chassis feels dense and rigid \u2014 no flex or panel warping. All controls are recessed C&K tactile switches and Alpha pots with rubberized knurls; the footswitch uses a heavy-duty, gold-plated relay for silent, wear-resistant actuation. The input/output jacks are Switchcraft, and the DC jack is center-negative with LED polarity protection. No battery option is provided \u2014 only 9\u201318V DC (regulated), with internal voltage regulation ensuring consistent behavior across voltage range. Initial setup requires no calibration: simply connect standard 9V power, plug in guitar and amp, and verify LED illumination. The pedal ships with a printed quick-start guide listing default positions (Drive at 12 o\u2019clock, Tone at 1 o\u2019clock, Level at 12 o\u2019clock) \u2014 a thoughtful touch for first-time users. Detailed Specifications: Practical Context Included Spec This Product Competitor A (Fulltone OCD v2) Competitor B (Wampler Pinnacle Deluxe) Winner Topology Discrete Class-A dual-JFET + MOSFET Op-amp based (TL072) Op-amp based (dual-rail) This Product Power Requirement 9\u201318V DC, 50mA min 9V DC only, 10mA 9V or 18V DC, 35mA This Product (voltage flexibility + headroom) True Bypass Relay-switched, silent Mechanical switch Relay-switched Tie (This Product & Pinnacle) Input Impedance 1.2M\u03a9 500k\u03a9 1M\u03a9 This Product (preserves passive pickup resonance) Noise Floor (measured) \u201389 dBu (A-weighted, 1kHz) \u201376 dBu \u201382 dBu This Product Max O",
+      "host": "gearstrings.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://www.buyanalogman.com/Pigtronix_FAT_Drive_p/pigtronixfat.htm",
+      "title": "Pigtronix FAT Drive",
+      "h1": "",
+      "excerpt": "Pigtronix FAT Drive Skip to content To take full advantage of this site, please enable your browser's JavaScript feature. Learn how About Us Contact Us My Account Login BuyAnalogMan Toggle mobile menu Search store Submit search MY CART AnalogMan and Modified Pedals Albatross pedal Analog Delay dual ARDX20 AMAZE1 delay control box Analog Delay AR20DL Astro Tone Fuzz Bad Bob Boost Pedal Beano Boost About the Beano Boost Buy Beano Boost Block Logo Envelope Filter Boss Effects - Modified Can you make my Boss Pedal true bypass?? Gain and sound Comparisons Modify Your Boss Delay Pedal Modify Your Boss OD/Dist/Etc Pedal Mods in Japan SD-1/808 vs DS-1/pro SILVER Option for SD-1/808 Boss BD-2/Super Overdrive Boss DD-3 Digital Delay Pedal Boss DD-6 Digital Delay Pedal Boss DD-7 Digital Delay Pedal (stock, no mod needed) Boss DS-1/Pro Distortion Boss GE-7/Pro Graphic Equalizer Boss MT-2/Pro Heavy Distortion Boss SD-1/808 Super Overdrive Boss TR-2/Super Tremolo Boss/Ibanez 9 Volt DC Power Supply See Other Manufacturers for non-modified Boss pedals The Boss Book Buffer and Destruct boards and Pedals Analog Man Buffer Board Analog Man DESTRUCTO circuit Analog Man Buffer Pedal Chorus Pedals Everything You Need to Know About Chorus Pedals Is this chorus like a uni-vibe? Sound Samples Reviews Bi-Chorus Foot Chorus Mini Chorus Standard Chorus Compressor Pedals Small CompROSSor Large CompROSSor Bi-Comprossor Mini Bi-Comp Juicer Everything You Need to Know About CompROSSor Pedals Specifications For Bass and Stick players too!!! Artists & Reviews Sound Samples DOD modified Pedals (stock ones in other category) All about DOD OD Pedals Modify Your DOD Pedal OD-250 yellow pedal YJM-308 black pedal Duke of Tone pedal Ibanez/Maxon Tube Screamers etc Ibanez Tube Screamer Mini Ibanez TS9/808 Tube Screamer Ibanez TS-9DX Tube Screamer Mods Ibanez TS-808 Reissue Tube Screamer Mods Ibanez TS-808 35th Anniversary Reissue Tube Screamer Ibanez TS808HW Hand Wired Tube Screamer Ibanez TS-808 replacement switch Ibanez TS-9 30th Anniversary Tube Screamer Ibanez NTS - NU TUBESCREAMER Ibanez Tube Screamer Amp TSA15H Maxon OD-9 Overdrive Mods Maxon SD-9/Super Distortion Boss/Ibanez 9 Volt DC Power Supply Mod Form for sending in with your pedal Ibanez Tube Screamers History Reviews What is the KWS option??? Sound Samples What's the difference in sound between a TS-9 & TS-808??? Players of our modified pedals King of Tone Pedal MXR pedals (modified) MXR Dynacomp custom shop CSP-028 MXR Phase 45 custom shop CSP-105 MXR Phase-90 Custom Shop CSP-026 OG-1 Overdrive by Analog Man and Colby Amps Peppermint Fuzz Prince of Tone pedal Sun Bender Fuzz MK1.5 Sun Bender Fuzz MK-IV Sun Face Fuzz Sun Face ready to ship Sun Face Pedal ordering page Sunface information page Modify Your Fuzz Face Pedal Sun Lion Pedal All About The Sun Lion New Sun Lion Pedal Switchboxes AUX switch for Eventide Custom Analog Man Switchboxes Favorite switch for Strymon Manuals for AnalogMan Pedals Modify or Repair Your Pedal KLONE mods Boss Pedal Modifications Wah pedal Modifications AnalogMan Pedal Modificatoins DOD Pedal Modificatons MXR Pedal Modifications Way Huge Supa Puss Modification Maxon Pedal Modifications Deluxe Memory Man Modifications Fuzz Face Modifications Modify your Tube Screamer Repair Your Pedal Other Effects Manufacturers A-L Danelectro Chicken Salad A/DA Pedal Preamp APP-1 A/DA Final Phase A/DA Flanger A/DA PBF Flanger AMPEG Scrambler Bad Bob Booster About the Bad Bob Booster Buy the Bad Bob Booster Black Cat Bass Octave Fuzz Bee Buzz Fuzz Boost Black Cat Stereo Vibe Black Cat Vibe rack version Mini Trem Mini Vibe Black Cat Mona Wah Modern Deluxe Black Cat Mona Wah Modern Standard Black Cat D&S Black Cat Mona Wah, Vintage Deluxe Black Cat Mona Wah, Vintage Standard Black Cat Monster K-Fuzz Pedal Black Cat Monster K-Fuzz Stompbox OD-1 / Freddie Fuzz OD-Boost OD-FUZZ Ring Modulator Superfuzz Wee Buzz Fuzz Pedal Boomerang Samplers and pedals Boomerang III Phrase Sampler Boomerang Wholly ",
+      "host": "www.buyanalogman.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://pigtronix.manymanuals.com/audio-accessories/fat-drive",
+      "title": "Pigtronix FAT Drive manuals",
+      "h1": "",
+      "excerpt": "",
+      "host": "pigtronix.manymanuals.com",
+      "source_kind": "manufacturer"
+    },
+    {
+      "url": "https://www.manualshelf.com/manual/pigtronix/fat-drive/owner-manual-english.html",
+      "title": "Pigtronix FAT Drive : Owner manual - ManualShelf",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.manualshelf.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://www.manualsdir.com/manuals/650278/pigtronix-fat-drive.html",
+      "title": "Pigtronix FAT Drive User Manual | 2 pages",
+      "h1": "Pigtronix FAT Drive User Manual",
+      "excerpt": "Pigtronix FAT Drive User Manual | 2 pages Manuals Directory ManualsDir.com - online owner manuals library Search Directory Brands Pigtronix manuals Audio accessories FAT Drive Manual Pigtronix FAT Drive User Manual Fat drive - users guide Text mode Original mode Advertising FAT Drive - Users Guide Welcome to the realm of Pigtronix! Your new FAT Drive is an analog distortion designed to impart warm, tube sound overdrive while remaining transparent and true to your guitar\u2019s tone. The FAT Drive is sensitive to your playing dynamics and will respond musically no matter how soft or hard you push it. The VOLUME control sets the overall output level. The GAIN control determines how much distortion the FAT Drive adds to your sound. The \u201cMORE\u201d switch significantly increases the pedal\u2019s gain when put in the up position. The TONE knob controls a passive low pass filter. When the TONE knob is fully clockwise, the filter is taken completely out of the circuit, for maximum brightness. The 18VDC power supply that is included provides a huge amount of headroom and output level. Feel free to experiment with running this pedal on a standard 9VDC (neg. tip) supply to get even more crunch at the expense of some headroom and overall output. Share Pages: 1 2 Download Complain wrong Brand wrong Model non readable Advertising See also other documents in the category Pigtronix Audio accessories: Bass Station (3 pages) Envelope Phaser (10 pages) DAngelico (3 pages) OFO-Disnortion (11 pages) Dual Expression pedal (2 pages) Echolution (20 pages) Echolution-2 (24 pages) Infinity Looper (51 pages) Keymaster (7 pages) Mothership Analog Synthesizer (11 pages) Philosopher King (10 pages) Philosopher\u2019s Tone (1 page) PolySaturator (1 page) Rototron (12 pages) Tremvelope (8 pages) XL FAT Drive (3 pages) Home | About Us | Contact Us | ManualsDir DMCA Policy | Brands | Popular manuals | Recently added Manuals Directory &copy; 2012&ndash;2026, manualsdir.com All rights reserved.",
+      "host": "www.manualsdir.com",
+      "source_kind": "other"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}
