@@ -590,3 +590,12 @@ The next deep-research target, **DigiTech — Redline Modified Overdrive**, was 
 - Effects Database — DigiTech iStomp: iStomp is the physical programmable multi-effect pedal and Redline is among its downloadable effects.
 
 The correction follows the archive's Builder + Pedal identity rule and the standalone dirt-box scope instead of turning a processor model into a separate pedal record.
+
+
+## Builder alias cleanup checkpoint - September 27, 2026 — Dirty Boy
+
+A catalog hygiene pass found five duplicate **Dirty Boy Pedals / Dirty Boy Co.** identities alongside the canonical **Dirty Boy** builder identity in the builder master. The duplicate records exactly mirrored products already present under Dirty Boy, so they were retired rather than treated as separate builders.
+
+The consolidated products are **AFRO FUZZ**, **JUNIOR DB Fuzz / Dirty Boy Jr. Fuzz**, **JUNIOR DB Overdrive / Dirty Boy Jr. Overdrive**, **PREAMP**, and **The Magical MYSTERY FUZZ**. The canonical Dirty Boy records remain in place. Exact-model source URLs present in the duplicate records for the Jr. Overdrive, Preamp, and Mystery Fuzz were promoted to their canonical entries.
+
+The duplicate research files were removed from the active research tree and the evidence summary was preserved in the unlinked legacy alias-consolidation note. The next deep-research target remains **Dirty Boy — JUNIOR DB Fuzz / Dirty Boy Jr. Fuzz**.

@@ -1,6 +1,6 @@
 {
   "version": "data-20260927-historical-census-sweep-07k",
-  "count": 4241,
+  "count": 4236,
   "pedals": [
     {
       "company": "1981 Inventions",
@@ -32859,7 +32859,7 @@
         "Overdrive"
       ],
       "image": "./assets/pedals/dirty-boy/junior-db-overdrive-dirty-boy-jr-overdrive/primary.webp",
-      "source_page": null,
+      "source_page": "https://warmaudio.com/dirty-boy-jr-overdrive",
       "research_record": "./research/pedals/Dirty Boy/JUNIOR DB Overdrive / Dirty Boy Jr. Overdrive.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED"
@@ -32871,7 +32871,7 @@
         "Overdrive"
       ],
       "image": "./assets/pedals/dirty-boy/preamp/primary.webp",
-      "source_page": null,
+      "source_page": "https://www.dirtyboy.co/products/dirtyboy-preamp",
       "research_record": "./research/pedals/Dirty Boy/PREAMP.md",
       "image_source_url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/ci/a40c61c01ef126d3/1790363981044/G2HgnPnp9ug.Eh6WDJjWEc5tmgU_teN9DOZhudV0fUg-1790363981-1.3.1.1-6slv4RsgRFhDl7BZB2_vRLEB591sMa8mVRADjJE6056xrjXfwVFhCsID4dnN9Qq0M.FlKXO_T7nIfH98EsYmbyb2eBl0pv9Lv7zxR1iBoGwL3VNNfSFESucMuWrcVfu1M.rfrsTMzaDAgj.IzcI9c4ZjdeC0UEc84qzV7iRZrCwkyl_O0CNPzIU_qbUIH6n1ThjTfnrre4cKReWGAiRHYtaskHTXPyfh6dFI_y6o7VBTGimqswfCp9TWzr2lBdnmWo5pKe_eOtLfsrcjsaxmqlHg5YS_ukcp9qcMuKZ9yqNb_UPvYSuymEFQpkiFnkW2AekGNFDc1nGuLZ28_c1mhmbrqw73fPdvxuxUHWang8Bk8eRVspUW7glLOEWhqVtT9XnGBikRModbU8vsJFL73K4FVyqWyiK7kmr4_Pk_9aIXG7lu0bWu2L4MSya6jp9FNVF6pKGDpENRYRNxng.BWyaZQCTWR3bqpq8Un8N_s9teVLIN12tWcyztA75GGU2K0wIhfUQE0sWfUmKzegSmT6hHy8ImgbklcqeKL_McBbuvp3eyOUXICe_5j.xwd.YkBz3gpBrXgXtMd7VGwnuGujv05KSROkUDisnzF3pAHEsreDGMFZOUTaa5dxTIRfc2KZvi1d2X3Q.uvr8bmBcgnzMx.iWbQa8nyYnOz_BEv8ZJwkkca0aBgQdMpuuUCYB1bfUQsSch9xf4I71p2XPo1GkWwHbtewJ89CA.mooLJxM",
       "image_source_page": "https://reverb.com/item/92371645-dirty-boy-preamp-2023-24",
@@ -32885,68 +32885,8 @@
         "Fuzz"
       ],
       "image": "./assets/pedals/dirty-boy/the-magical-mystery-fuzz/primary.webp",
-      "source_page": null,
-      "research_record": "./research/pedals/Dirty Boy/The Magical MYSTERY FUZZ.md",
-      "research_level": "deep",
-      "deep_research_status": "VERIFIED"
-    },
-    {
-      "company": "Dirty Boy Pedals / Dirty Boy Co.",
-      "pedal": "AFRO FUZZ",
-      "types": [
-        "Fuzz"
-      ],
-      "image": "",
-      "source_page": "https://www.dirtyboy.co/pages/our-effects",
-      "research_record": "./research/pedals/Dirty Boy Pedals / Dirty Boy Co./AFRO FUZZ.md",
-      "research_level": "deep",
-      "deep_research_status": "VERIFIED"
-    },
-    {
-      "company": "Dirty Boy Pedals / Dirty Boy Co.",
-      "pedal": "JUNIOR DB Fuzz / Dirty Boy Jr. Fuzz",
-      "types": [
-        "Fuzz"
-      ],
-      "image": "",
-      "source_page": "https://warmaudio.com/brand-assets",
-      "research_record": "./research/pedals/Dirty Boy Pedals / Dirty Boy Co./JUNIOR DB Fuzz / Dirty Boy Jr. Fuzz.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
-    },
-    {
-      "company": "Dirty Boy Pedals / Dirty Boy Co.",
-      "pedal": "JUNIOR DB Overdrive / Dirty Boy Jr. Overdrive",
-      "types": [
-        "Overdrive"
-      ],
-      "image": "",
-      "source_page": "https://warmaudio.com/dirty-boy-jr-overdrive",
-      "research_record": "./research/pedals/Dirty Boy Pedals / Dirty Boy Co./JUNIOR DB Overdrive / Dirty Boy Jr. Overdrive.md",
-      "research_level": "deep",
-      "deep_research_status": "VERIFIED"
-    },
-    {
-      "company": "Dirty Boy Pedals / Dirty Boy Co.",
-      "pedal": "PREAMP",
-      "types": [
-        "Overdrive"
-      ],
-      "image": "",
-      "source_page": "https://www.dirtyboy.co/products/dirtyboy-preamp",
-      "research_record": "./research/pedals/Dirty Boy Pedals / Dirty Boy Co./PREAMP.md",
-      "research_level": "deep",
-      "deep_research_status": "VERIFIED"
-    },
-    {
-      "company": "Dirty Boy Pedals / Dirty Boy Co.",
-      "pedal": "The Magical MYSTERY FUZZ",
-      "types": [
-        "Fuzz"
-      ],
-      "image": "",
       "source_page": "https://www.dirtyboy.co/products/the-magical-mystery-fuzz",
-      "research_record": "./research/pedals/Dirty Boy Pedals / Dirty Boy Co./The Magical MYSTERY FUZZ.md",
+      "research_record": "./research/pedals/Dirty Boy/The Magical MYSTERY FUZZ.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED"
     },
