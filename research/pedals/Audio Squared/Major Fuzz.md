@@ -4,46 +4,65 @@
 - **Archive parent:** Major Fuzz
 - **Builder:** Audio Squared
 - **Catalog type:** Fuzz
-- **Identity:** Hand-built Fuzz Face-derived design using socketed BC108 silicon transistors with improved input impedance and bias access.
+- **Identity:** Hand-built Fuzz Face-derived silicon fuzz using a pair of socketed BC108 transistors, internal bias adjustment and true-bypass switching. [1][2]
 
 ## What this pedal is
-Effects Database describes Major Fuzz as a hand-made design based on the classic Fuzz Face circuit family. It uses a pair of socketed BC108 transistors and adds a high-impedance input, internal bias trim and true-bypass switching.
+Effects Database describes Major Fuzz as a handmade fuzz based on the classic Fuzz Face family. The circuit adds a high-impedance input, internal bias trim and premium components while retaining the characteristic two-transistor architecture. [1]
 
-## Colorways
-- Rugged aluminum enclosure
-- Bright green LED
-- No circuit-specific colorway revision was documented.
+## Circuit architecture
+- **Lineage:** Fuzz Face.
+- **Transistors:** Two socketed BC108 silicon devices.
+- **Bias:** Internal set-and-forget adjustment.
+- **Input:** High impedance.
+- **Switching:** True bypass. [1][2]
 
-## Versions and factory options
-### Major Fuzz production
-- Fuzz Face-style two-transistor topology
-- Pair of socketed BC108 transistors
-- Internal bias trim
-- High-impedance input
-- True bypass
-- DC input for external power
-- Approx. 3.625 x 4.5 x 1.375 in enclosure
-
-No numbered factory revision was verified.
-
-## Version changes
-No reliable numbered production revision was found.
+## Controls / hardware
+The reviewed archival sources do not preserve a complete universal external control legend, but do establish:
+- Fuzz Face-style two-transistor circuit.
+- Internal bias adjustment.
+- Bright green status LED.
+- DC jack for external power.
+- Rugged aluminum enclosure approximately **3.625 × 4.5 × 1.375 inches**. [1][2]
 
 ## Transistor
-- **Technology:** Silicon.
-- **Exact devices:** Two socketed BC108 transistors are explicitly documented.
+- **2 × BC108 silicon transistors:** Explicitly documented.
+- Devices are socketed to facilitate internal replacement/selection.
+- Individual gain grades or measurements are not documented.
 
-## Diode
-- **Type:** Exact clipping diode arrangement is not publicly documented.
+## Diode / clipping
+- Exact clipping diode arrangement is not publicly documented.
+- The archive does not infer diode type from the BC108 transistor family.
+
+## Version history
+- No numbered revision established.
+- Major documented functional characteristics are the internal bias adjustment and high-impedance input, not a named revision sequence.
+
+## Power
+- **DC input jack** is documented.
+- A universal voltage/current figure is not established in the reviewed source material.
 
 ## Sound
-The builder description emphasizes quiet operation and strong response to playing dynamics. As a BC108-based Fuzz Face-style circuit, its core identity is a relatively direct silicon fuzz response with bias access for circuit tuning.
+The Major Fuzz's Fuzz Face lineage implies a direct silicon-fuzz architecture, while the internal bias adjustment allows the circuit's operating point to be tuned. The archive treats those as circuit-context facts rather than a measured tonal response for an individual surviving unit. [1]
+
+## Research confidence
+- **Identity:** High
+- **Fuzz Face lineage:** High
+- **2 × BC108 silicon transistors:** High
+- **Internal bias trim:** High
+- **High-impedance input:** High
+- **True bypass:** High
+- **Exact diode:** Unknown
+- **Individual transistor measurements:** Unknown
+- **Exact power rating:** Not established
+
+## Deep research verification
+Effects Database's exact-model Major Fuzz entry was checked against its Audio Squared introduction and surviving secondary references. Together they confirm the BC108 pair, socketed transistor construction, internal bias adjustment, high-impedance input, bright green LED, DC jack and rugged aluminum enclosure. [1][2]
 
 ## Sources checked
 1. Effects Database — Audio Squared Major Fuzz: https://www.effectsdatabase.com/model/audiosquared/majorfuzz
-2. Effects Database — Audio Squared introduction, 2010: https://www.effectsdatabase.com/updates/weekly/20100913
+2. Audio Squared introduction/history via Effects Database: https://www.effectsdatabase.com/updates/weekly/20100913
+3. Audio-Digital — Major Fuzz archival aggregation: https://www.audio-digital.net/a-pages/audio-squared-major-fuzz.html
 
 ## Photo
 - **Archive status:** **No Photo Archived**
-- **Exact-model reference checked:** https://www.effectsdatabase.com/model/audiosquared/majorfuzz
-- **Archive note:** Exact-model identity was checked, but no stable exact-model image asset was promoted during this pass. Keep the public card at **No Photo Archived** rather than substitute another model.
+- **Exact-model reference checked:** Effects Database exact-model entry.
