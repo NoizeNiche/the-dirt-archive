@@ -27766,7 +27766,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/cruzer-by-crafter/ef-od-over-drive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Cruzer (by Crafter)/EF-OD Over Drive.md",
       "image_source_page": "https://www.effectsdatabase.com/model/crafter/cruzer/overdrive",
@@ -39399,7 +39399,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/maxon/fuzz-elements-water-fwa10/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Maxon/Fuzz Elements Water (FWA10).md",
       "research_level": "surface",
@@ -42277,7 +42277,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/mythos-pedals/envy-pro-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mythos Pedals/Envy Pro Overdrive.md",
       "research_level": "surface",
@@ -43028,7 +43028,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/orange-amplification/bass-butler/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Orange Amplification/Bass Butler.md",
       "research_level": "deep",
@@ -43041,7 +43041,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/orange-amplification/bax-bangeetar/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Orange Amplification/Bax Bangeetar.md",
       "research_level": "deep",
@@ -43053,7 +43053,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/orange-amplification/fur-coat/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Orange Amplification/Fur Coat.md",
       "research_level": "deep",
@@ -43065,7 +43065,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/orange-amplification/getaway-driver/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Orange Amplification/Getaway Driver.md",
       "research_level": "deep",

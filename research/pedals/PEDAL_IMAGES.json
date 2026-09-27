@@ -13516,7 +13516,7 @@
   {
     "builder": "Cruzer (by Crafter)",
     "pedal": "EF-OD Over Drive",
-    "image": null,
+    "image": "./assets/pedals/cruzer-by-crafter/ef-od-over-drive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Cruzer (by Crafter)/EF-OD Over Drive.md"
   },
@@ -20068,7 +20068,7 @@
   {
     "builder": "Maxon",
     "pedal": "Fuzz Elements Water (FWA10)",
-    "image": null,
+    "image": "./assets/pedals/maxon/fuzz-elements-water-fwa10/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Maxon/Fuzz Elements Water (FWA10).md"
   },
@@ -21706,7 +21706,7 @@
   {
     "builder": "Mythos Pedals",
     "pedal": "Envy Pro Overdrive",
-    "image": null,
+    "image": "./assets/pedals/mythos-pedals/envy-pro-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Mythos Pedals/Envy Pro Overdrive.md"
   },
@@ -22140,28 +22140,28 @@
   {
     "builder": "Orange Amplification",
     "pedal": "Bass Butler",
-    "image": null,
+    "image": "./assets/pedals/orange-amplification/bass-butler/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Orange Amplification/Bass Butler.md"
   },
   {
     "builder": "Orange Amplification",
     "pedal": "Bax Bangeetar",
-    "image": null,
+    "image": "./assets/pedals/orange-amplification/bax-bangeetar/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Orange Amplification/Bax Bangeetar.md"
   },
   {
     "builder": "Orange Amplification",
     "pedal": "Fur Coat",
-    "image": null,
+    "image": "./assets/pedals/orange-amplification/fur-coat/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Orange Amplification/Fur Coat.md"
   },
   {
     "builder": "Orange Amplification",
     "pedal": "Getaway Driver",
-    "image": null,
+    "image": "./assets/pedals/orange-amplification/getaway-driver/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Orange Amplification/Getaway Driver.md"
   },
