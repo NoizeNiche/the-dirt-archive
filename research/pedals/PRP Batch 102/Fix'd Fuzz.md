@@ -20,3 +20,5 @@ Fix'd Fuzz is the original multi-stage Blackout Effectors fuzz platform. The V3 
 
 ## Archive photo
 - **Archive status:** **No Photo Archived**
+## Deep research verification
+Effects Database documents Fix'd Fuzz as BlackOutEffectors' original multi-stage fuzz platform. The V3 presentation contains two contrasting fuzz stages, a full-bodied boost/overdrive stage and a broad tone-shaping stage, with four circuit stages independently bypassable. Poppy and Ant graphics are cosmetic variants of the same basic circuit identity.
