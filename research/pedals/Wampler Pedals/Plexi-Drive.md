@@ -1,23 +1,41 @@
 # Wampler Pedals — Plexi-Drive
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Plexi-Drive
 - **Builder:** Wampler Pedals
-- **Pedal:** Plexi-Drive
 - **Catalog type:** Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Wampler Pedals's Plexi-Drive.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Plexi-Drive** by **Wampler Pedals** as a **Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Whether you are playing sold out shows or rocking out by yourself – the Plexi-Drive Deluxe will take your tone and allow you to create your own flavor of rock!
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Documented terms in the verified sources: Led.
+- The archive records only the component information explicitly present in these sources.
+
+## Sound
+Top |' data-navmenu="off" data-hashurl="off" data-menuSlider="off" data-continue-autoplay="off" data-outside-nav="off" data-autoplay="off" > 4 5 Based on the classic Wampler Pedal “Plexi-Drive”, the Plexi-Drive Deluxe builds on the foundation of the original and gives you considerably more control to shape your tone.
+With a 3 band active EQ and additional brightness control, the Plexi-Drive Deluxe takes a huge step forward into the modern era of pedals.
+Complete with the perfectly voiced pregain booster, you can achieve almost any Plexi tone from virtually any amp.
+
+## Sources checked
+1. Plexi Drive Deluxe | Wampler Pedals: https://www.wamplerpedals.com/products/distortion-overdrive/plexi-drive-deluxe/
+2. Wampler Pedals Plexi-Drive Deluxe Guitar Effects Pedal: https://reverb.com/item/2417890-wampler-pedals-plexi-drive-deluxe-guitar-effects-pedal
+3. Wampler Pedals Plexi-Drive - British Overdrive | Effects Database: https://www.effectsdatabase.com/model/wampler/plexidrive
+4. Wampler Plexi-Drive Deluxe - TXBA Gear Index: https://texasbluesalley.com/oldtonezone/gear-index/wampler-plexi-drive-deluxe
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-27T08:11:20.614602+00:00",
+  "generated_at": "2026-09-27T08:14:29.693647+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,8 +10,8 @@
     "pictured": 3107,
     "complete": 3107,
     "research_pending": 0,
-    "deep_research_pending": 2153,
-    "deep_researched": 2089,
+    "deep_research_pending": 2151,
+    "deep_researched": 2091,
     "surface_ready": 4242
   },
   "next_target": {
@@ -48,13 +48,6 @@
       "pedal": "Doctor Fuzz",
       "catalog_type": "",
       "research_record": "./research/pedals/Backbeat Electric/Doctor Fuzz.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Bad Cat",
-      "pedal": "Double Drive - Stackable Overdrive",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Bad Cat/Double Drive - Stackable Overdrive.md",
       "research_level": "surface"
     },
     {
@@ -195,6 +188,13 @@
       "pedal": "Maybe The Real Treasure... Fuzz",
       "catalog_type": "",
       "research_record": "./research/pedals/Baltimore Sonic Research Institute/Maybe The Real Treasure - Fuzz.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Barge Concepts",
+      "pedal": "DB-1 Dual Boost",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Barge Concepts/DB-1 Dual Boost.md",
       "research_level": "surface"
     }
   ]
