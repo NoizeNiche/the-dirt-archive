@@ -41,5 +41,43 @@ Effects Database published the DB-2 record on **August 9, 2006**.
 1. Effects Database - Barge Concepts DB-2: https://www.effectsdatabase.com/model/bargeconcepts/db2
 2. Barge Concepts catalog: https://www.effectsdatabase.com/model/bargeconcepts
 
+## Deep research verification
+
+This pass consolidates the exact-model Barge Concepts DB-2 documentation already retained in the archive.
+
+### Verified description
+
+Effects Database documents the **Barge Concepts DB-2** as a revised dual-channel boost/preamp. Each stage provides up to **27 dB** of gain, with Channel 2 followed by a master volume. The two stages can operate independently or be cascaded for overdrive/distortion. The exact-model record was published **August 9, 2006**.
+
+### Verified controls and construction
+
+- Channel 1 Gain: up to **27 dB**.
+- Channel 2 Gain: up to **27 dB**.
+- Channel 2 Master Volume.
+- Effects loop between the stages.
+- Four-layer circuit board.
+- Sealed tantalum capacitors.
+- Burr Brown low-noise op-amp family.
+- Improved bias circuit intended to preserve headroom.
+- Documented operating range: **6V-18V**.
+
+### Verified transistor/device terms
+
+- **Burr Brown low-noise op-amps:** documented.
+- Exact Burr Brown part number: Unknown.
+
+### Verified diode terms
+
+- Exact clipping/rectifier diode information was not established in the reviewed public source.
+
+### Verified sound evidence
+
+The DB-2 is described as a transparent, wide-band boost platform. Cascading its two gain stages can produce overdrive/distortion, while the master output control allows the resulting level to be set independently.
+
+### Sources checked in this pass
+
+1. Effects Database — Barge Concepts DB-2: https://www.effectsdatabase.com/model/bargeconcepts/db2
+2. Effects Database — Barge Concepts catalog: https://www.effectsdatabase.com/model/bargeconcepts
+
 ## Photo
 - **Archive status:** **Exact Photo Pending**
