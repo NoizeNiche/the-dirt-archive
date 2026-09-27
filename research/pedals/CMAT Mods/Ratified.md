@@ -4,39 +4,51 @@
 - **Archive parent:** Ratified
 - **Builder:** CMATMODS
 - **Catalog type:** Distortion
-- **Identity:** CMATMODS Ratified, the later enclosure/control-layout version of the Black Plague RAT-derived circuit.
+- **Identity:** Later enclosure/control-layout version of the Black Plague RAT-derived circuit, retaining the LM308N-based architecture. [1][2]
 
-## What this pedal is
-Effects Database describes Ratified as a thick distortion with Filter, Gain, and Level controls plus a three-way toggle. The circuit is based around the LM308N. [1]
+## Controls
+- **FILTER**
+- **GAIN**
+- **LEVEL**
+- Three-position voicing toggle.
+- True bypass. [1]
 
-The builder statement preserved in a Black Plague listing says the Plague and Ratified use the same circuit, with Ratified changing the enclosure and layout. [2]
+## Circuit lineage
+- **Primary lineage:** RAT.
+- **Active device:** LM308N op-amp.
+- CMATMODS' surviving statement says Ratified and Black Plague use the same circuit, with Ratified changing the enclosure and control layout. [2]
 
-## Colorways
-- Powder-coated enclosure.
-- No complete factory colorway sequence was established. [1]
+## Transistor / active device
+- **LM308N op-amp** is documented. [1]
 
-## Versions and factory options
-Documented controls/features:
-- Filter.
-- Gain.
-- Level.
-- Three-way toggle.
-- True bypass.
-- 9V battery or adapter.
-- Operation up to 18V. [1]
+## Diode / clipping
+- Exact clipping diode part number is not established.
 
-## Version changes
-Ratified follows Black Plague as the later package of the same circuit according to the builder statement reproduced by Reverb. [2]
+## Power
+- **9V battery or adapter**.
+- Operation up to **18V** is documented in Effects Database. [1]
 
-## Transistor
-The active gain circuit is based around the **LM308N op-amp**. [1]
-
-## Diode
-No exact-model diode part number was established.
+## Version history
+- Ratified follows Black Plague as the later package of the same circuit.
+- The distinction is a factory enclosure/control-layout change rather than a new circuit family. [2]
 
 ## Sound
-CMATMODS describes Ratified as thick, sustain-rich distortion whose Filter and Gain interaction provides a wide range from fuller to thinner saturation. [1]
+CMATMODS describes Ratified as thick, sustain-rich distortion. Filter and Gain provide a broad range from fuller saturation to tighter/brighter high-gain tones. [1]
+
+## Research confidence
+- **Identity:** High
+- **RAT lineage:** High
+- **LM308N:** High
+- **Black Plague relationship:** High
+- **9V/18V:** High
+- **Exact diode:** Unknown
+
+## Deep research verification
+Effects Database and the Reverb Black Plague listing were cross-checked. The sources support the LM308N architecture and the same-circuit relationship between Black Plague and Ratified. [1][2]
 
 ## Sources checked
 1. Effects Database — CMATMODS Ratified: https://www.effectsdatabase.com/model/cmatmods/ratified
-2. Reverb — CMATMods Black Plague, including builder statement comparing Plague and Ratified: https://reverb.com/item/14430992-cmatmods-the-black-plague
+2. Reverb — CMATMODS The Black Plague: https://reverb.com/item/14430992-cmatmods-the-black-plague
+
+## Photo
+- Exact-model image status remains handled by the photo lane.
