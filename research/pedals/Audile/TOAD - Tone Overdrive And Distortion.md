@@ -4,48 +4,67 @@
 - **Archive parent:** TOAD - Tone Overdrive And Distortion
 - **Builder:** Audile
 - **Catalog type:** Distortion / Overdrive
-- **Identity:** Australian tone-shaping overdrive/distortion with a two-stage gain section and swappable TADPOLE boards.
+- **Identity:** Australian two-stage overdrive/distortion and tone-shaping pedal with independent pre- and post-gain EQ sections and a swappable TADPOLE board system. [1][2]
 
 ## What this pedal is
-Audile describes TOAD as more than an overdrive: it is a tone-shaping tool with controls before and after the distortion stages. The pedal is designed to cover clean enhancement, overdrive and more saturated distortion while retaining precise control over frequency content.
+Audile describes TOAD as a tone-shaping platform rather than only a conventional overdrive. The signal is shaped by PRE TONE before the gain stages, processed through two overdrive stages, then shaped again by POST TONE and CHOKE before LEVEL sets output. [1]
 
-## Colorways
-- No circuit-specific colorway history was verified.
+## Controls / signal path
+- **PRE TONE:** Changes the high/low frequency contour before gain or distortion.
+- **GAIN:** Drives the two-stage overdrive section.
+- **NATURAL / DARK:** NATURAL selects symmetrical clipping; DARK selects asymmetrical clipping.
+- **POST TONE:** Shapes frequency content after distortion.
+- **CHOKE:** Additional post-distortion filtering.
+- **LEVEL:** Final output level. [1]
+Audile states low GAIN settings can provide harmonic enhancement or clean boost as well as overdrive. [1]
 
-## Versions and factory options
-### TOAD production
-- PRE TONE
-- GAIN
-- NATURAL / DARK clipping selector
-- POST TONE
-- CHOKE
-- LEVEL
-- Two gain stages
-- 9V DC
-- User-modifiable TADPOLE board system
+## Circuit architecture
+- **Two gain stages.**
+- **Pre-gain tone shaping:** PRE TONE.
+- **Post-gain tone shaping:** POST TONE and CHOKE.
+- **Modularity:** TADPOLE boards provide user-selectable tonal changes. [1][2]
 
-### TADPOLE system
-Audile's plug-in TADPOLE boards alter tonal behavior inside the pedal. NATURAL uses symmetrical clipping, while DARK uses asymmetrical clipping.
+## Active device
+- Exact transistor or op-amp part numbers are not publicly documented in the reviewed sources.
 
-## Version changes
-No numbered factory revision was verified. The documented functional variation is the TADPOLE modular system and NATURAL/DARK clipping modes.
+## Diode / clipping
+- **NATURAL:** Symmetrical clipping.
+- **DARK:** Asymmetrical clipping.
+- Exact diode types and part numbers are not published. [1]
 
-## Transistor
-- **Technology:** Two-stage analog gain/overdrive architecture.
-- **Exact active device:** Not publicly documented.
+## TADPOLE system
+Audile explicitly designs TOAD for owner modification through plug-in TADPOLE boards. The company states that swapping the boards does not void the warranty. [1]
+The board system is therefore a documented configuration variable, not a separate numbered revision.
 
-## Diode
-- **Type:** NATURAL = symmetrical clipping; DARK = asymmetrical clipping.
-- **Exact diode/device:** Not publicly documented.
+## Power
+- TOAD is part of Audile's 9V DC pedal system.
+- The reviewed exact-model page does not publish a separate current-draw figure for TOAD.
+
+## Version history
+- No numbered factory revision established.
+- The principal documented functional variation is the TADPOLE system together with NATURAL/DARK clipping selection. [1]
 
 ## Sound
-At low gain TOAD can work as a clean enhancer or boost. Increasing gain moves through harmonic overdrive toward more saturated distortion, while PRE TONE, POST TONE and CHOKE provide unusually direct control of the signal before and after clipping.
+Audile describes TOAD as capable of clean enhancement, harmonic coloration, overdrive and more saturated distortion. The pre- and post-gain tone controls give direct control over what frequencies enter and leave the clipping stages. [1]
+
+## Research confidence
+- **Identity:** High
+- **Two-stage gain structure:** High
+- **Pre/post tone architecture:** High
+- **Natural/Dark clipping:** High
+- **TADPOLE modularity:** High
+- **Exact active device:** Unknown
+- **Exact diode:** Unknown
+- **Dedicated current draw:** Not established
+
+## Deep research verification
+Audile's current TOAD page was checked directly against its current product overview and the Effects Database record. The sources support the two-stage architecture, PRE TONE, POST TONE, CHOKE, NATURAL/DARK clipping modes and TADPOLE system. Unpublished semiconductor part numbers remain unresolved. [1][2]
 
 ## Sources checked
-1. Audile — TOAD product page: https://audile.au/toad/
-2. Effects Database — Audile TOAD: https://www.effectsdatabase.com/model/audile/toad
+1. Audile — TOAD: https://audile.au/toad/
+2. Audile — Current product overview: https://audile.au/
+3. Effects Database — Audile TOAD: https://www.effectsdatabase.com/model/audile/toad
 
 ## Photo
 - **Archive status:** **No Photo Archived**
-- **Exact-model reference checked:** https://audile.au/toad/
-- **Archive note:** Exact-model identity was checked, but no stable exact-model image asset was promoted during this pass. Keep the public card at **No Photo Archived** rather than substitute another model.
+- **Exact-model reference checked:** Audile exact-model page.
