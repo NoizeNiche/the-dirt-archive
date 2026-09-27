@@ -11759,6 +11759,18 @@
     },
     {
       "company": "Black Mass Electronics",
+      "pedal": "The First Herald",
+      "types": [
+        "Fuzz"
+      ],
+      "image": "",
+      "source_page": "https://blackmasselectronics.com/collections/fuzz",
+      "research_record": "",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Black Mass Electronics",
       "pedal": "The First Herald (Big Box)",
       "types": [
         "Fuzz"
@@ -33788,6 +33800,42 @@
     },
     {
       "company": "Electronic Audio Experiments",
+      "pedal": "0xEAE Bass Driver",
+      "types": [
+        "Overdrive"
+      ],
+      "image": "",
+      "source_page": "https://www.electronicaudioexperiments.com/legacy",
+      "research_record": "",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Electronic Audio Experiments",
+      "pedal": "0xEAE Boost",
+      "types": [
+        "Overdrive"
+      ],
+      "image": "",
+      "source_page": "https://www.electronicaudioexperiments.com/legacy",
+      "research_record": "",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Electronic Audio Experiments",
+      "pedal": "0xEAE Fuzz",
+      "types": [
+        "Fuzz"
+      ],
+      "image": "",
+      "source_page": "https://www.electronicaudioexperiments.com/legacy",
+      "research_record": "",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Electronic Audio Experiments",
       "pedal": "Citadel",
       "types": [
         "Overdrive"
@@ -33795,6 +33843,43 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Electronic Audio Experiments/Citadel.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Electronic Audio Experiments",
+      "pedal": "Dagger",
+      "types": [
+        "Overdrive"
+      ],
+      "image": "",
+      "source_page": "https://www.electronicaudioexperiments.com/legacy",
+      "research_record": "",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Electronic Audio Experiments",
+      "pedal": "Dude Incredible",
+      "types": [
+        "Overdrive",
+        "Fuzz"
+      ],
+      "image": "",
+      "source_page": "https://www.electronicaudioexperiments.com/legacy",
+      "research_record": "",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Electronic Audio Experiments",
+      "pedal": "Eldritch Blast",
+      "types": [
+        "Fuzz"
+      ],
+      "image": "",
+      "source_page": "https://www.electronicaudioexperiments.com/legacy",
+      "research_record": "",
       "research_level": "surface",
       "deep_research_status": "PENDING"
     },
@@ -33833,6 +33918,19 @@
       "image": "./assets/pedals/electronic-audio-experiments/halberd/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Electronic Audio Experiments/Halberd.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Electronic Audio Experiments",
+      "pedal": "Kerria Lacca",
+      "types": [
+        "Overdrive",
+        "Fuzz"
+      ],
+      "image": "",
+      "source_page": "https://www.electronicaudioexperiments.com/legacy",
+      "research_record": "",
       "research_level": "surface",
       "deep_research_status": "PENDING"
     },
@@ -34040,6 +34138,18 @@
       "image": "./assets/pedals/fairfield-circuitry/barbershop-consolidated-across-v1-millennium-edition/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Fairfield Circuitry/Barbershop — consolidated across V1 / Millennium Edition.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Fairfield Circuitry",
+      "pedal": "Four Eyes Fuzz",
+      "types": [
+        "Fuzz"
+      ],
+      "image": "",
+      "source_page": "https://fairfieldcircuitry.com/products/900",
+      "research_record": "",
       "research_level": "surface",
       "deep_research_status": "PENDING"
     },
@@ -35231,6 +35341,54 @@
     },
     {
       "company": "Fuzzrocious Pedals",
+      "pedal": "420 Fuzz v2",
+      "types": [
+        "Fuzz"
+      ],
+      "image": "",
+      "source_page": "https://fuzzrociouspedals.com/?product_cat=current",
+      "research_record": "",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Fuzzrocious Pedals",
+      "pedal": "Baby Furnace",
+      "types": [
+        "Fuzz"
+      ],
+      "image": "",
+      "source_page": "https://fuzzrociouspedals.com/?product=babyfurnace",
+      "research_record": "",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Fuzzrocious Pedals",
+      "pedal": "Blast Furnace",
+      "types": [
+        "Fuzz"
+      ],
+      "image": "",
+      "source_page": "https://fuzzrociouspedals.com/?product=blastfurnace",
+      "research_record": "",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Fuzzrocious Pedals",
+      "pedal": "Cat King",
+      "types": [
+        "Fuzz"
+      ],
+      "image": "",
+      "source_page": "https://fuzzrociouspedals.com/?product_cat=current",
+      "research_record": "",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Fuzzrocious Pedals",
       "pedal": "Cat Tail",
       "types": [
         "Distortion",
@@ -35242,6 +35400,166 @@
       "research_record": "./research/pedals/Fuzzrocious Pedals/Cat Tail.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "Fuzzrocious Pedals",
+      "pedal": "Cicada Fuzz",
+      "types": [
+        "Fuzz"
+      ],
+      "image": "",
+      "source_page": "https://fuzzrociouspedals.com/?product_cat=retired",
+      "research_record": "",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Fuzzrocious Pedals",
+      "pedal": "Dark Driving",
+      "types": [
+        "Overdrive"
+      ],
+      "image": "",
+      "source_page": "https://fuzzrociouspedals.com/?product_cat=retired",
+      "research_record": "",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Fuzzrocious Pedals",
+      "pedal": "Dark Driving v3",
+      "types": [
+        "Overdrive",
+        "Distortion"
+      ],
+      "image": "",
+      "source_page": "https://fuzzrociouspedals.com/?product=dark-driving-v3",
+      "research_record": "",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Fuzzrocious Pedals",
+      "pedal": "Egg Sack",
+      "types": [
+        "Overdrive",
+        "Distortion"
+      ],
+      "image": "",
+      "source_page": "https://fuzzrociouspedals.com/?product=eggsack",
+      "research_record": "",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Fuzzrocious Pedals",
+      "pedal": "Grey Stache / Heliotropic",
+      "types": [
+        "Fuzz"
+      ],
+      "image": "",
+      "source_page": "https://fuzzrociouspedals.com/?product_cat=current",
+      "research_record": "",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Fuzzrocious Pedals",
+      "pedal": "Greyfly",
+      "types": [
+        "Fuzz"
+      ],
+      "image": "",
+      "source_page": "https://fuzzrociouspedals.com/?product_cat=retired",
+      "research_record": "",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Fuzzrocious Pedals",
+      "pedal": "K-A-E-D-E-N Drive",
+      "types": [
+        "Overdrive"
+      ],
+      "image": "",
+      "source_page": "https://fuzzrociouspedals.com/?product_cat=retired",
+      "research_record": "",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Fuzzrocious Pedals",
+      "pedal": "Li'l Fella",
+      "types": [
+        "Fuzz"
+      ],
+      "image": "",
+      "source_page": "https://fuzzrociouspedals.com/?product_cat=current",
+      "research_record": "",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Fuzzrocious Pedals",
+      "pedal": "M.O.T.H.",
+      "types": [
+        "Overdrive",
+        "Fuzz"
+      ],
+      "image": "",
+      "source_page": "https://fuzzrociouspedals.com/?product=moth",
+      "research_record": "",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Fuzzrocious Pedals",
+      "pedal": "Maggotor",
+      "types": [
+        "Fuzz"
+      ],
+      "image": "",
+      "source_page": "https://fuzzrociouspedals.com/?product=maggotor",
+      "research_record": "",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Fuzzrocious Pedals",
+      "pedal": "Playing Mantis",
+      "types": [
+        "Overdrive",
+        "Distortion"
+      ],
+      "image": "",
+      "source_page": "https://fuzzrociouspedals.com/?product=playingmantis",
+      "research_record": "",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Fuzzrocious Pedals",
+      "pedal": "Ram the Manparts",
+      "types": [
+        "Fuzz"
+      ],
+      "image": "",
+      "source_page": "https://fuzzrociouspedals.com/?product_cat=retired",
+      "research_record": "",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Fuzzrocious Pedals",
+      "pedal": "Wicked Jawn",
+      "types": [
+        "Fuzz"
+      ],
+      "image": "",
+      "source_page": "https://fuzzrociouspedals.com/?product_cat=retired",
+      "research_record": "",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
     },
     {
       "company": "Gamechanger Audio",
@@ -36836,6 +37154,18 @@
     },
     {
       "company": "J. Rockett Audio Designs",
+      "pedal": "Animal Overdrive",
+      "types": [
+        "Overdrive"
+      ],
+      "image": "",
+      "source_page": "https://rockettpedals.com/",
+      "research_record": "",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "J. Rockett Audio Designs",
       "pedal": "Archer Ikon OD",
       "types": [
         "Overdrive"
@@ -36884,6 +37214,55 @@
     },
     {
       "company": "J. Rockett Audio Designs",
+      "pedal": "El Hombre",
+      "types": [
+        "Overdrive"
+      ],
+      "image": "",
+      "source_page": "https://rockettpedals.com/",
+      "research_record": "",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "J. Rockett Audio Designs",
+      "pedal": "Flex Drive",
+      "types": [
+        "Overdrive",
+        "Fuzz"
+      ],
+      "image": "",
+      "source_page": "https://rockettpedals.com/",
+      "research_record": "",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "J. Rockett Audio Designs",
+      "pedal": "GTO",
+      "types": [
+        "Overdrive"
+      ],
+      "image": "",
+      "source_page": "https://rockettpedals.com/",
+      "research_record": "",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "J. Rockett Audio Designs",
+      "pedal": "Hooligan Fuzz",
+      "types": [
+        "Fuzz"
+      ],
+      "image": "",
+      "source_page": "https://rockettpedals.com/",
+      "research_record": "",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "J. Rockett Audio Designs",
       "pedal": "HRM V2",
       "types": [
         "Overdrive"
@@ -36893,6 +37272,66 @@
       "research_record": "./research/pedals/J. Rockett Audio Designs/HRM V2.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "J. Rockett Audio Designs",
+      "pedal": "iKon",
+      "types": [
+        "Overdrive"
+      ],
+      "image": "",
+      "source_page": "https://rockettpedals.com/",
+      "research_record": "",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "J. Rockett Audio Designs",
+      "pedal": "Majestic Overdrive",
+      "types": [
+        "Overdrive"
+      ],
+      "image": "",
+      "source_page": "https://rockettpedals.com/",
+      "research_record": "",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "J. Rockett Audio Designs",
+      "pedal": "Monkey Man",
+      "types": [
+        "Overdrive"
+      ],
+      "image": "",
+      "source_page": "https://rockettpedals.com/",
+      "research_record": "",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "J. Rockett Audio Designs",
+      "pedal": "Rockaway Archer",
+      "types": [
+        "Overdrive"
+      ],
+      "image": "",
+      "source_page": "https://rockettpedals.com/",
+      "research_record": "",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "J. Rockett Audio Designs",
+      "pedal": "WTF Fuzz",
+      "types": [
+        "Fuzz"
+      ],
+      "image": "",
+      "source_page": "https://rockettpedals.com/",
+      "research_record": "",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
     },
     {
       "company": "Jackson Audio",
@@ -46236,6 +46675,18 @@
     },
     {
       "company": "Seymour Duncan",
+      "pedal": "FOOZ",
+      "types": [
+        "Fuzz"
+      ],
+      "image": "",
+      "source_page": "https://www.seymourduncan.com/",
+      "research_record": "",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Seymour Duncan",
       "pedal": "Lava Box",
       "types": [
         "Distortion",
@@ -48013,6 +48464,18 @@
       "research_record": "./research/pedals/Suhr/Shiba Drive.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "Suhr",
+      "pedal": "Shiba Drive Reloaded",
+      "types": [
+        "Overdrive"
+      ],
+      "image": "",
+      "source_page": "https://www.suhr.com/electronics/pedals/overdrive/",
+      "research_record": "",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
     },
     {
       "company": "Suhr",
