@@ -4,30 +4,47 @@
 - **Archive parent:** Mjolnir Heavy Distortion
 - **Builder:** Champion City Effects
 - **Catalog type:** Distortion
-- **Identity:** Champion City Effects Mjolnir Heavy Distortion, an analog LM386-based distortion designed for heavy, low-tuned sounds.
+- **Identity:** LM386-based heavy distortion designed for low-tuned/high-output guitar use. [1]
 
-## What this pedal is
-RockBoard PedalPedia describes the Mjolnir as an **LM386 audio-amplifier-based distortion**. The builder's stated design goal is a thick, heavy distortion that remains dynamic and clear, especially with sustained chords and low tunings. [1]
+## Circuit / active device
+- **LM386** audio amplifier IC is the documented active gain device.
+- The design is not presented as a discrete FET/MOSFET distortion stage. [1]
 
-The tone control rolls off high frequencies, allowing the response to move from thick/sludgy toward clearer heavy distortion. [1]
-
-## Colorways
-- The checked source identifies the model but does not establish a complete factory colorway sequence.
-
-## Versions and factory options
-No formal numbered factory V1/V2 sequence was established.
-
-## Version changes
-No reliable numbered revision history was found.
+## Controls / topology
+- **TONE:** High-frequency roll-off.
+- High-gain distortion stage around the LM386.
+- The tone control can move the result from darker/thicker to clearer heavy distortion. [1]
 
 ## Transistor
-The documented active gain device is an **LM386 audio amplifier IC** rather than a discrete transistor stage. [1]
+- No discrete transistor is assigned; LM386 is the documented active IC.
 
-## Diode
-No exact-model diode specification was established.
+## Diode / clipping
+- Exact clipping-device part number is not documented.
+
+## Power
+- Exact model-specific voltage/current details are not securely preserved.
+
+## Construction
+- Champion City Effects hand-built construction.
+- Analog signal path centered on LM386 gain. [1]
 
 ## Sound
-The Mjolnir is aimed at thick, heavy distortion with strong low-end response. The builder specifically notes its suitability for down-tuned guitars, including A-standard tuning, while the LM386-based gain structure is presented as more amp-like and dynamic than a conventional JFET/MOSFET distortion. [1]
+Mjolnir is designed for thick, heavy distortion with strong low-frequency authority. Champion City specifically positions it for down-tuned applications, including A-standard, while the Tone control allows the player to retain clarity or move toward thicker/sludgier response. [1]
+
+## Version history
+- No numbered electronic revision established.
+
+## Research confidence
+- **Identity:** High
+- **LM386 architecture:** High
+- **Low-tuned/heavy orientation:** High
+- **Exact clipping devices:** Unknown
+
+## Deep research verification
+RockBoard PedalPedia's exact-model record was checked directly. It establishes the LM386 active device and the low-tuned heavy-distortion design target. [1]
 
 ## Sources checked
-1. RockBoard PedalPedia — Champion City Effects Mjolnir Heavy Distortion: https://www.rockboard.de/en/pedalPedia/Champion-City-Effects/Mjolnir-Heavy-Distortion/68976707/
+1. RockBoard PedalPedia — Mjolnir Heavy Distortion: https://www.rockboard.de/en/pedalPedia/Champion-City-Effects/Mjolnir-Heavy-Distortion/68976707/
+
+## Photo
+- Exact-model photo status remains handled separately.
