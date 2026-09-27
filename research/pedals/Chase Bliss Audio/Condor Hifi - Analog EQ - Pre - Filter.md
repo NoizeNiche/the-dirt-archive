@@ -3,35 +3,41 @@
 ## PRP identity
 - **Archive parent:** Condor Hifi - Analog EQ / Pre / Filter
 - **Builder:** Chase Bliss Audio
-- **Catalog type:** Overdrive
-- **Identity:** Chase Bliss Audio Condor HiFi, a redesigned analog EQ/preamp/filter with substantially increased internal headroom.
+- **Catalog type:** EQ / Filter / Overdrive
+- **Identity:** Redesigned Condor platform using an OPA1662 op-amp and approximately 30V internal headroom, while retaining analog audio and digital control. [1][2]
 
-## What this pedal is
-Chase Bliss describes Condor HiFi as an all-analog EQ, filter, and overdrive platform. Effects Database documents the redesigned circuit around an **OPA1662 op-amp** with internal boosting to approximately 30V of clean headroom. [1]
+## Circuit architecture
+- **OPA1662** op-amp core.
+- Internal voltage boosting for approximately **30V** of clean headroom.
+- Analog EQ, preamp/overdrive and resonant filtering.
+- MIDI, CV, expression and preset control. [1]
 
-## Colorways
-No complete factory colorway sequence was established in the checked sources.
-
-## Versions and factory options
-The Condor HiFi retains the Condor concept of:
-- Analog EQ.
-- Preamp/overdrive.
-- Resonant low-pass/high-pass filtering.
-- MIDI, expression, and CV control.
-- Preset storage. [1][2]
-
-## Version changes
-The HiFi is a distinct redesigned version rather than a simple colorway of the original Condor. The checked manufacturer documentation specifically identifies the new **OPA1662** architecture and higher headroom. [1]
+## Version distinction
+Condor HiFi is a **redesigned** model, not a cosmetic finish of the original Condor. The increased-headroom OPA1662 architecture is the principal documented engineering change. [1]
 
 ## Transistor
-No discrete transistor stage or exact transistor part number was established. The documented core active device is the **OPA1662 op-amp**. [1]
+- No discrete transistor gain stage is established.
+- Exact additional active devices are not documented.
 
-## Diode
-No exact-model diode specification was established.
+## Diode / clipping
+- Exact clipping/protection diode information is not documented.
 
 ## Sound
-Condor HiFi is designed to move from warm EQ/preamp shaping to raw overdrive and strongly resonant filter tones. The high-headroom redesign is intended to retain clarity and reduce the unwanted distortion artifact associated with the original Condor at extreme levels. [1][2]
+The higher-headroom architecture is intended to retain clarity at levels where the original Condor could become more distorted. The pedal still spans EQ, preamp/overdrive and resonant filter applications. [1][2]
+
+## Research confidence
+- **Identity:** High
+- **OPA1662:** High
+- **~30V internal headroom:** High
+- **Redesigned Condor distinction:** High
+- **Exact diode:** Unknown
+
+## Deep research verification
+Effects Database and independent Condor HiFi coverage were cross-checked. The evidence directly supports the OPA1662 architecture, internal headroom boost and redesigned-model distinction. [1][2]
 
 ## Sources checked
-1. Effects Database — Chase Bliss Audio Condor HiFi: https://www.effectsdatabase.com/model/chasebliss/condor/hifi
+1. Effects Database — Condor HiFi: https://www.effectsdatabase.com/model/chasebliss/condor/hifi
 2. PedalFilter — Chase Bliss Condor HiFi: https://pedalfilter.com/chase-bliss/condor-hifi
+
+## Photo
+- Exact-model photo status remains handled separately.
