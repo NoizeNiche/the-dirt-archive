@@ -42404,8 +42404,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Lovepedal/5E3 Deluxe.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Lovepedal",
@@ -49417,8 +49417,8 @@
       "image": "./assets/pedals/proco-sound/juggernaut/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/ProCo Sound/Juggernaut.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "ProCo Sound",
