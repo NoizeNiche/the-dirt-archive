@@ -4,34 +4,55 @@
 - **Archive parent:** Aquarius
 - **Builder:** Celestial Effects
 - **Catalog type:** Fuzz
-- **Identity:** Celestial Effects Aquarius Fuzz, an analog silicon-transistor fuzz designed to cover both germanium-like and silicon-like tonal behavior.
+- **Identity:** Analog Silicon-transistor fuzz engineered to produce both Germanium-like and Silicon-like response, with parallel-transistor gain development and Vol/Fuzz/Fat/Imp controls. [1][2]
 
-## What this pedal is
-Celestial Effects describes the Aquarius as a fuzz using only silicon-based transistors while aiming to produce both germanium- and silicon-style tonal character. The builder says the circuit development involved testing many transistor combinations before using paired transistors in parallel to balance gain and tone. [1]
+## Controls
+- **VOL:** Output level.
+- **FUZZ:** Fuzz intensity.
+- **FAT:** Low-frequency/fullness shaping.
+- **IMP:** Input impedance/loading behavior. [2]
 
-An exact-model Reverb listing documents the Aquarius as a NOS unit from a 2013 time-capsule dealer lot and repeats the silicon-transistor design description. [2]
-
-## Colorways
-- Exact-model examples show the Aquarius in an aqua/blue-green enclosure.
-- A complete factory colorway sequence was not established.
-
-## Versions and factory options
-Exact-model photographs show four top-panel controls labeled **Vol, Fuzz, Fat, and Imp**. [2]
-
-No formal numbered factory V1/V2 sequence was established.
-
-## Version changes
-No reliable numbered revision history was found in the checked sources.
+## Circuit / topology
+- Analog fuzz.
+- Celestial Effects states that the circuit uses **silicon-based transistors** while being voiced to cover characteristics associated with both Germanium and Silicon fuzz.
+- The builder describes testing many transistor combinations and using paired transistors in parallel to balance gain and tone. [1]
 
 ## Transistor
-Celestial Effects explicitly states that the Aquarius uses **silicon-based transistors** and describes the circuit as using transistor pairs in parallel. Exact transistor part numbers were not established in the checked sources. [1]
+- **Technology:** Silicon.
+- **Architecture:** Parallel transistor pairing is part of the builder's documented development approach.
+- Exact production transistor part numbers are not publicly established. [1]
 
-## Diode
-No exact-model diode specification was established in the checked sources.
+## Diode / clipping
+- Exact clipping-device type and part number are not publicly documented.
+
+## Power
+- **9V DC** is documented for the model. [1]
+
+## Construction / finish
+- Aqua/blue-green enclosure documented in exact-model product imagery.
+- A 2013 NOS “time-capsule” dealer example is preserved in Reverb. [2]
+
+## Version history
+- No numbered factory electronic revision established.
+- Finish changes are treated as cosmetic.
 
 ## Sound
-The builder's stated goal is a fuzz with the tonal behavior associated with both germanium and silicon designs while retaining silicon components. The documented circuit development emphasizes a balance of gain, warmth, sustain, and harmonic texture. [1]
+Celestial Effects designed Aquarius to deliver silicon components with response characteristics associated with both Germanium and Silicon fuzz. The documented goal emphasizes balanced gain, warmth, sustain and harmonic texture rather than one fixed historical voice. [1]
+
+## Research confidence
+- **Identity:** High
+- **Silicon technology:** High
+- **Parallel-device development:** High
+- **Four-control map:** High
+- **Exact transistor:** Unknown
+- **Exact diode:** Unknown
+
+## Deep research verification
+The official Aquarius page was cross-checked with an exact-model Reverb listing. The builder source establishes the Silicon construction and design approach, while the Reverb record independently confirms the Aquarius model identity and four-control presentation. [1][2]
 
 ## Sources checked
-1. Celestial Effects — The Aquarius Fuzz: https://www.celestialeffects.com/aquarius.html
-2. Reverb — Celestial Effects Aquarius Fuzz Pedal - NOS: https://reverb.com/item/49548703-celestial-effects-aquarius-fuzz-pedal-nos
+1. Celestial Effects — Aquarius Fuzz: https://www.celestialeffects.com/aquarius.html
+2. Reverb — Celestial Effects Aquarius Fuzz NOS: https://reverb.com/item/49548703-celestial-effects-aquarius-fuzz-pedal-nos
+
+## Photo
+- Exact-model photo status remains handled by the photo lane.
