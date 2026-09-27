@@ -1,6 +1,6 @@
 {
   "version": "research-evidence-v1",
-  "generatedAt": "2026-09-27T02:52:57.998Z",
+  "generatedAt": "2026-09-27T03:52:24.260Z",
   "purpose": "Autonomous evidence collection. Canonical research prose is written only after verification.",
   "foremanRule": "At least 2 distinct source hosts plus 1 strong exact-identity source before synthesis.",
   "counts": {
