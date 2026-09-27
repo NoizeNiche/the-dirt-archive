@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-27T06:28:26.415803+00:00",
+  "generated_at": "2026-09-27T06:29:50.725052+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,8 +10,8 @@
     "pictured": 3074,
     "complete": 3074,
     "research_pending": 0,
-    "deep_research_pending": 2173,
-    "deep_researched": 2031,
+    "deep_research_pending": 2154,
+    "deep_researched": 2050,
     "surface_ready": 4204
   },
   "next_target": {
@@ -30,27 +30,6 @@
       "research_level": "surface"
     },
     {
-      "builder": "6 Degrees FX",
-      "pedal": "Rodeo Drive",
-      "catalog_type": "",
-      "research_record": "./research/pedals/6 Degrees FX/Rodeo Drive.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "6 Degrees FX",
-      "pedal": "Sally Drive",
-      "catalog_type": "",
-      "research_record": "./research/pedals/6 Degrees FX/Sally Drive.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Aguilar",
-      "pedal": "Tone Hammer",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Aguilar/Tone Hammer.md",
-      "research_level": "surface"
-    },
-    {
       "builder": "Alexander Pedals",
       "pedal": "Riff Instant Tone Sanitizer",
       "catalog_type": "",
@@ -66,23 +45,9 @@
     },
     {
       "builder": "Ampeg",
-      "pedal": "A-3 Over Drive",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Ampeg/A-3 Over Drive.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Ampeg",
       "pedal": "SCR-DI",
       "catalog_type": "",
       "research_record": "./research/pedals/Ampeg/SCR-DI.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "ARC Effects",
-      "pedal": "Klone",
-      "catalog_type": "",
-      "research_record": "./research/pedals/ARC Effects/Klone.md",
       "research_level": "surface"
     },
     {
@@ -90,27 +55,6 @@
       "pedal": "ABM PRO-FX Double Shot",
       "catalog_type": "",
       "research_record": "./research/pedals/Ashdown Engineering/ABM PRO-FX Double Shot.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Ashdown Engineering",
-      "pedal": "Geezer Butler Pedal Of Doom",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Ashdown Engineering/Geezer Butler Pedal Of Doom.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Ashdown Engineering",
-      "pedal": "James LoMenzo Mega Drive",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Ashdown Engineering/James LoMenzo Mega Drive.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Ashdown Engineering",
-      "pedal": "JM John Myung Double Drive",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Ashdown Engineering/JM John Myung Double Drive.md",
       "research_level": "surface"
     },
     {
@@ -195,6 +139,62 @@
       "pedal": "DB-2 Dual Boost",
       "catalog_type": "",
       "research_record": "./research/pedals/Barge Concepts/DB-2 Dual Boost.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Barge Concepts",
+      "pedal": "DB-3 Dual Boost",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Barge Concepts/DB-3 Dual Boost.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "BBE",
+      "pedal": "427 Distortion",
+      "catalog_type": "",
+      "research_record": "./research/pedals/BBE/427 Distortion.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "BBE",
+      "pedal": "AM64 American Metal",
+      "catalog_type": "",
+      "research_record": "./research/pedals/BBE/AM64 American Metal.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "BBE",
+      "pedal": "Blacksmith Distortion",
+      "catalog_type": "",
+      "research_record": "./research/pedals/BBE/Blacksmith Distortion.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "BBE",
+      "pedal": "Crusher",
+      "catalog_type": "",
+      "research_record": "./research/pedals/BBE/Crusher.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "BBE",
+      "pedal": "Distorto³",
+      "catalog_type": "",
+      "research_record": "./research/pedals/BBE/Distorto³.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "BBE",
+      "pedal": "Free Fuzz",
+      "catalog_type": "",
+      "research_record": "./research/pedals/BBE/Free Fuzz.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "BBE",
+      "pedal": "Heavy-D",
+      "catalog_type": "",
+      "research_record": "./research/pedals/BBE/Heavy-D.md",
       "research_level": "surface"
     }
   ]

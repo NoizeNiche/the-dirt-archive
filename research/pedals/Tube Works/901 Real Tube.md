@@ -1,24 +1,36 @@
-# Tube Works - 901 Real Tube
+# Tube Works — 901 Real Tube
 
 ## PRP identity
-- Builder: Tube Works
-- Catalog type: Overdrive
-- Identity: Tube Works 901 Real Tube, the early B.K. Butler tube-driven overdrive platform.
+- **Archive parent:** 901 Real Tube
+- **Builder:** Tube Works
+- **Catalog type:** Overdrive
+- **Identity:** Tube Works's 901 Real Tube.
 
 ## What this pedal is
-The 901 Real Tube is part of B.K. Butler's original Tube Works pedal family. Historical documentation identifies it as a five-control overdrive built around the Real Tube concept.
+Tube Works's 901 Real Tube is cataloged as an overdrive pedal.
 
-## Controls / circuit
-- Five external controls.
-- Tube-driven overdrive architecture.
-- Exact control legend and semiconductor values are deferred to exact-model documentation.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
 
-## History
-The 901 is part of the early-1980s Tube Works line that established Butler's Real Tube family before later Tube Driver-branded production.
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+The verified evidence packet did not contain enough pedal-specific sonic description to make a more detailed sound summary without adding unsupported interpretation.
 
 ## Sources checked
-1. Kitrae Tube Driver history: https://www.kitrae.net/music/butler_tube_drivers.html
-2. Effects Database Tube Works catalog: https://www.effectsdatabase.com/model/tubeworks
+1. Tube Works | Effects Database: https://www.effectsdatabase.com/model/tubeworks
 
 ## Photo
-- Exact photo pending.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

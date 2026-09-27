@@ -1,24 +1,36 @@
-# Tube Works - 910 Tube Driver
+# Tube Works — 910 Tube Driver
 
 ## PRP identity
-- Builder: Tube Works
-- Catalog type: Overdrive
-- Identity: Tube Works 910 Tube Driver, historical Tube Driver generation.
+- **Archive parent:** 910 Tube Driver
+- **Builder:** Tube Works
+- **Catalog type:** Overdrive
+- **Identity:** Tube Works's 910 Tube Driver.
 
 ## What this pedal is
-The 910 is an early Tube Works-branded Tube Driver model documented as a three-control overdrive in historical pedal references.
+Tube Works's 910 Tube Driver is cataloged as an overdrive pedal.
 
-## Controls / circuit
-- Three external controls are documented.
-- Butler Tube Driver tube-overdrive architecture.
-- Exact tube and control assignments require exact-model documentation.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
 
-## History
-The 910 belongs to the Tube Works era of B.K. Butler's Tube Driver production and predates later Butler-labeled Tube Driver examples.
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+The verified evidence packet did not contain enough pedal-specific sonic description to make a more detailed sound summary without adding unsupported interpretation.
 
 ## Sources checked
-1. Effects Database Tube Works catalog: https://www.effectsdatabase.com/model/tubeworks
-2. Kitrae Tube Driver history: https://www.kitrae.net/music/butler_tube_drivers.html
+1. Tube Works | Effects Database: https://www.effectsdatabase.com/model/tubeworks
 
 ## Photo
-- Exact photo pending.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

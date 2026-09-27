@@ -1,29 +1,39 @@
-# Aguilar - Tone Hammer
+# Aguilar — Tone Hammer
 
 ## PRP identity
-- Builder: Aguilar Amplification
-- Catalog type: Overdrive
-- Identity: Aguilar Tone Hammer bass preamp/DI with Adaptive Gain Shaping.
+- **Archive parent:** Tone Hammer
+- **Builder:** Aguilar
+- **Catalog type:** Overdrive
+- **Identity:** Aguilar's Tone Hammer.
 
 ## What this pedal is
-Tone Hammer is a bass preamp/DI built around Aguilar's OBP-3-derived preamp architecture and proprietary Adaptive Gain Shaping (AGS). AGS adds a switchable gain structure and EQ that can take the unit into overdriven territory.
+The Tone Hammer is the essential preamp/direct box for every bassist's tool box.
 
-## Controls / architecture
-- Separate Gain and Master controls.
-- Bass, treble and sweepable midrange EQ.
-- AGS gain/voicing section.
-- Pre/Post DI and ground lift.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
 
-## Power
-- 18V operation.
-- Two 9V batteries, phantom power or optional universal supply in the historical documentation.
+## Versions and factory options
+- The verified evidence references: V1, V2, v2.
+- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
 
-## History
-Effects Database dates Tone Hammer to June 11, 2009 and records V1/V2 and special editions.
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+With the Tone Hammer's pristine D.I.
+To give this tone shaping unit the ultimate flexibility we are introducing our proprietary Adaptive Gain Shaping circuitry (AGS).
+AGS allows the player to kick in an additional gain structure and EQ with the "stomp" of a button.
 
 ## Sources checked
-1. Effects Database: https://www.effectsdatabase.com/model/aguilar/tonehammer
-2. Aguilar Amplification: https://www.aguilaramp.com/
+1. Aguilar Tone Hammer | Effects Database: https://www.effectsdatabase.com/model/aguilar/tonehammer
 
 ## Photo
-- Exact photo pending.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

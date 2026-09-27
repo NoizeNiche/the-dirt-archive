@@ -1,21 +1,36 @@
-# 6 Degrees FX - Rodeo Drive
+# 6 Degrees FX — Rodeo Drive
 
 ## PRP identity
+- **Archive parent:** Rodeo Drive
 - **Builder:** 6 Degrees FX
 - **Catalog type:** Overdrive
-- **Identity:** 6 Degrees FX Rodeo Drive.
+- **Identity:** 6 Degrees FX's Rodeo Drive.
 
 ## What this pedal is
-Rodeo Drive is a standalone 6 Degrees FX overdrive model listed in the Effects Database overdrive catalog.
+6 Degrees FX's Rodeo Drive is cataloged as an overdrive pedal.
 
-## Controls / circuit
-Exact control layout, circuit topology and component data are not established in the surviving indexed reference. No unsupported lineage is assigned.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
 
-## History
-Effects Database preserves Rodeo Drive as a separate 6 Degrees FX product identity.
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+Harmonic Amp-Like Overdrive Alairex H.A.L.O.
 
 ## Sources checked
-1. Effects Database overdrive catalog, 6 Degrees FX listing: https://www.effectsdatabase.com/type/overdrive/pedal
+1. pedal, overdrive | Effects Database: https://www.effectsdatabase.com/type/overdrive/pedal
 
 ## Photo
-- Exact photo pending.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

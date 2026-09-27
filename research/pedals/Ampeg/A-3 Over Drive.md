@@ -1,22 +1,36 @@
-# Ampeg - A-3 Over Drive
+# Ampeg — A-3 Over Drive
 
 ## PRP identity
-- Builder: Ampeg
-- Catalog type: Overdrive
-- Identity: Ampeg A-3 Over Drive from the 1982-1983 A-Series.
+- **Archive parent:** A-3 Over Drive
+- **Builder:** Ampeg
+- **Catalog type:** Overdrive
+- **Identity:** Ampeg's A-3 Over Drive.
 
 ## What this pedal is
-The A-3 is the overdrive member of Ampeg's historical A-Series pedal family.
+Ampeg's A-3 Over Drive is cataloged as an overdrive pedal.
 
-## Circuit / controls
-The surviving catalog establishes it as a dedicated overdrive model. Exact control labels, topology and semiconductors remain unresolved in this surface record.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
 
-## History
-Ampeg's A-Series was produced in 1982 and 1983 during MTI's ownership of the company.
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+The verified evidence packet did not contain enough pedal-specific sonic description to make a more detailed sound summary without adding unsupported interpretation.
 
 ## Sources checked
-1. Effects Database Ampeg A-Series: https://www.effectsdatabase.com/model/ampeg/a
-2. Effects Database Ampeg catalog: https://www.effectsdatabase.com/model/ampeg
+1. Ampeg A Series | Effects Database: https://www.effectsdatabase.com/model/ampeg/a
 
 ## Photo
-- Exact photo pending.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

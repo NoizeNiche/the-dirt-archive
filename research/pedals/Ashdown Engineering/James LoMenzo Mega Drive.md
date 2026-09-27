@@ -1,19 +1,36 @@
-# Ashdown Engineering - James LoMenzo Mega Drive
+# Ashdown Engineering — James LoMenzo Mega Drive
 
 ## PRP identity
-- Builder: Ashdown Engineering
-- Catalog type: Distortion / Overdrive
-- Identity: James LoMenzo Mega Drive bass drive/distortion.
+- **Archive parent:** James LoMenzo Mega Drive
+- **Builder:** Ashdown Engineering
+- **Catalog type:** Distortion
+- **Identity:** Ashdown Engineering's James LoMenzo Mega Drive.
 
 ## What this pedal is
-Mega Drive is part of Ashdown's James LoMenzo bass effects family and is documented in Ashdown's later PRO-FX era coverage.
+Ashdown Engineering's James LoMenzo Mega Drive is cataloged as a distortion pedal.
 
-## Circuit / controls
-Exact control legend, topology and semiconductor data require exact-model documentation and are not inferred here.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+The verified evidence packet did not contain enough pedal-specific sonic description to make a more detailed sound summary without adding unsupported interpretation.
 
 ## Sources checked
-1. Effects Database Ashdown catalog: https://www.effectsdatabase.com/model/ashdown
-2. Ashdown Engineering: https://ashdownmusic.com/
+1. Ashdown Engineering | Effects Database: https://www.effectsdatabase.com/model/ashdown
 
 ## Photo
-- Exact photo pending.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

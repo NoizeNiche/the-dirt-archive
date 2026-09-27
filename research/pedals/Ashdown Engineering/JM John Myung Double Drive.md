@@ -1,23 +1,36 @@
-# Ashdown Engineering - JM John Myung Double Drive
+# Ashdown Engineering — JM John Myung Double Drive
 
 ## PRP identity
-- Builder: Ashdown Engineering
-- Catalog type: Distortion / Fuzz
-- Identity: John Myung Double Drive, dual-channel bass distortion.
+- **Archive parent:** JM John Myung Double Drive
+- **Builder:** Ashdown Engineering
+- **Catalog type:** Distortion
+- **Identity:** Ashdown Engineering's JM John Myung Double Drive.
 
 ## What this pedal is
-The John Myung Double Drive contains two distortion channels intended for layered bass-drive combinations.
+Ashdown Engineering's JM John Myung Double Drive is cataloged as a distortion pedal.
 
-## Controls / architecture
-- Two independent distortion sections.
-- Exact full control legend not reconstructed in this surface record.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
 
-## History
-Effects Database dates the model to December 7, 2023.
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+The verified evidence packet did not contain enough pedal-specific sonic description to make a more detailed sound summary without adding unsupported interpretation.
 
 ## Sources checked
-1. Effects Database: https://www.effectsdatabase.com/model/ashdown
-2. Ashdown Engineering: https://ashdownmusic.com/
+1. Ashdown Engineering | Effects Database: https://www.effectsdatabase.com/model/ashdown
 
 ## Photo
-- Exact photo pending.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

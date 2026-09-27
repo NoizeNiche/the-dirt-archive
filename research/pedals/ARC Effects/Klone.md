@@ -1,30 +1,37 @@
-# ARC Effects - Klone
+# ARC Effects — Klone
 
 ## PRP identity
-- Builder: ARC Effects
-- Catalog type: Overdrive
-- Identity: Historical ARC Effects Klone, the original ARC Klon Centaur recreation.
+- **Archive parent:** Klone
+- **Builder:** ARC Effects
+- **Catalog type:** Overdrive
+- **Identity:** ARC Effects's Klone.
 
 ## What this pedal is
-The ARC Effects Klone is a faithful recreation of the Klon Centaur circuit, using the original pedal's general buffered architecture in a smaller 1590BB enclosure.
+ARC Effects's Klone is cataloged as an overdrive pedal.
 
-## Circuit / lineage
-- Klon Centaur-style overdrive.
-- Buffered bypass.
-- Exact, part-for-part values are claimed by ARC in the historical product description.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
 
-## Construction / power
-- Powder-coated white 1590BB enclosure.
-- Neutrik jacks.
-- Standard Boss-style 9V DC jack.
-- Internal battery snap.
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
 
-## History
-Effects Database dates the ARC Klone to November 11, 2012 and records it as out of production. The later Klone V2 is retained separately because ARC documents it as a subsequent revision with a smaller enclosure and internal bass-boost option.
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+Known for it's unbeatable clean boost, incredibly dynamic overdriven sound, and ability to stand out the mix, the Klon circuit is held to the highest standards for many.
+#Fretjunkies #klon #klonev2 #klonklone #arceffects #bluesrock #tonejunkie #iloveguitar #premierbuildersguild #iphoneonly #boxingdayblues #cr 2015-09-29 rigrigrigmusic ARC Effects Klone VS Mullholland Drive 7:23 2015-07-28 ARC Effects #Repost @drebatista.
 
 ## Sources checked
-1. Effects Database: https://www.effectsdatabase.com/model/arceffects/klone
-2. ARC Effects Klone V2: https://www.arceffects.com/klone-v2
+1. ARC Effects Klone | Effects Database: https://www.effectsdatabase.com/model/arceffects/klone
 
 ## Photo
-- Exact photo pending.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

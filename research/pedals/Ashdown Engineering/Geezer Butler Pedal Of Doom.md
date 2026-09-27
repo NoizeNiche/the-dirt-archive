@@ -1,26 +1,36 @@
-# Ashdown Engineering - Geezer Butler Pedal Of Doom
+# Ashdown Engineering — Geezer Butler Pedal Of Doom
 
 ## PRP identity
-- Builder: Ashdown Engineering
-- Catalog type: Distortion / Overdrive
-- Identity: Geezer Butler Pedal Of Doom bass distortion / preamp.
+- **Archive parent:** Geezer Butler Pedal Of Doom
+- **Builder:** Ashdown Engineering
+- **Catalog type:** Distortion
+- **Identity:** Ashdown Engineering's Geezer Butler Pedal Of Doom.
 
 ## What this pedal is
-Pedal Of Doom is a bass preamp/distortion pedal with active five-band EQ, switchable drive and a transformer-isolated DI section.
+Ashdown Engineering's Geezer Butler Pedal Of Doom is cataloged as a distortion pedal.
 
-## Controls / architecture
-- Active 5-band EQ.
-- Switchable drive section.
-- Dual VU metering.
-- Transformer-isolated DI.
-- Exact complete control labeling remains to be verified.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
 
-## History
-Effects Database dates the product to December 7, 2023.
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+The verified evidence packet did not contain enough pedal-specific sonic description to make a more detailed sound summary without adding unsupported interpretation.
 
 ## Sources checked
-1. Effects Database: https://www.effectsdatabase.com/model/ashdown
-2. Ashdown Engineering: https://ashdownmusic.com/
+1. Ashdown Engineering | Effects Database: https://www.effectsdatabase.com/model/ashdown
 
 ## Photo
-- Exact photo pending.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
