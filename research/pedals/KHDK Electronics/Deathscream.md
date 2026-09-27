@@ -1,23 +1,39 @@
 # KHDK Electronics — Deathscream
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Deathscream
 - **Builder:** KHDK Electronics
-- **Pedal:** Deathscream
 - **Catalog type:** Distortion / Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** KHDK Electronics's Deathscream.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Deathscream** by **KHDK Electronics** as a **Distortion / Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+KHDK Electronics's Deathscream is cataloged as a distortion / overdrive pedal.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+The verified evidence packet did not contain enough pedal-specific sonic description to make a more detailed sound summary without adding unsupported interpretation.
+
+## Sources checked
+1. Deathscream by Kreator - KHDK Electronics: https://www.khdkelectronics.com/products/detail/deathscream-by-kreator/
+2. KHDK Electronics Deathscream by Kreator - Reverb: https://reverb.com/item/94490612-khdk-electronics-deathscream-by-kreator
+3. NEW KHDK Electronics Deathscream by Kreator – Northerner Guitars: https://northernerguitars.com/products/new-khdk-electronics-deathscream-by-kreator
+4. KHDK Electronics Kreator Deathscream Guitar Effect: https://www.purevinylaudio.com/product/khdk-electronics-kreator-deathscream-guitar-effect/
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

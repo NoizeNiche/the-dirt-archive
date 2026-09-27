@@ -1,90 +1,27 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-27T01:57:04.009031+00:00",
+  "generated_at": "2026-09-27T02:02:29.237888+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
   "counts": {
     "total": 3761,
     "researched": 3761,
-    "pictured": 3010,
-    "complete": 3010,
+    "pictured": 3019,
+    "complete": 3019,
     "research_pending": 0,
-    "deep_research_pending": 2099,
-    "deep_researched": 1662,
+    "deep_research_pending": 2067,
+    "deep_researched": 1694,
     "surface_ready": 3761
   },
   "next_target": {
-    "builder": "Bad Pixel Pedals",
-    "pedal": "Fuck_Fuck Twin Tube Boost Overdrive",
+    "builder": "Barbarossa",
+    "pedal": "CHIMAERA",
     "catalog_type": "",
-    "research_record": "./research/pedals/Bad Pixel Pedals/Fuck_Fuck Twin Tube Boost Overdrive.md",
+    "research_record": "./research/pedals/Barbarossa/Chimaera.md",
     "research_level": "surface"
   },
   "working_set": [
-    {
-      "builder": "Bad Pixel Pedals",
-      "pedal": "Fuck_Fuck Twin Tube Boost Overdrive",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Bad Pixel Pedals/Fuck_Fuck Twin Tube Boost Overdrive.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Baja Tech Custom",
-      "pedal": "DaMOAF Fuzz",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Baja Tech Custom/DaMOAF Fuzz.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Baja Tech Custom",
-      "pedal": "Das Fuzz Ge",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Baja Tech Custom/Das Fuzz Ge.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Baja Tech Custom",
-      "pedal": "Top Boost TB-1",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Baja Tech Custom/Top Boost TB-1.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Baltimore Sonic Research Institute",
-      "pedal": "Ashmaker - Distortion w/ Boost",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Baltimore Sonic Research Institute/Ashmaker - Distortion w Boost.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Baltimore Sonic Research Institute",
-      "pedal": "FZZ",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Baltimore Sonic Research Institute/FZZ.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Baltimore Sonic Research Institute",
-      "pedal": "Impossible Colors - Transformer Coupled Fuzz",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Baltimore Sonic Research Institute/Impossible Colors - Transformer Coupled Fuzz.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Baltimore Sonic Research Institute",
-      "pedal": "Impossible Colors II Transformer Coupled Fuzz",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Baltimore Sonic Research Institute/Impossible Colors II Transformer Coupled Fuzz.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Baltimore Sonic Research Institute",
-      "pedal": "Oriole Fuzz",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Baltimore Sonic Research Institute/Oriole Fuzz.md",
-      "research_level": "surface"
-    },
     {
       "builder": "Barbarossa",
       "pedal": "CHIMAERA",
@@ -108,93 +45,156 @@
     },
     {
       "builder": "Barber Electronics",
-      "pedal": "1/2 Gainer",
+      "pedal": "Pepsiman",
       "catalog_type": "",
-      "research_record": "./research/pedals/Barber Electronics/1_2_Gainer.md",
+      "research_record": "./research/pedals/Barber Electronics/Pepsiman.md",
       "research_level": "surface"
     },
     {
-      "builder": "Barber Electronics",
-      "pedal": "B-Custom Super Sport",
+      "builder": "Baroni Lab",
+      "pedal": "Angry Pig",
       "catalog_type": "",
-      "research_record": "./research/pedals/Barber Electronics/B-Custom_Super_Sport.md",
+      "research_record": "./research/pedals/Baroni Lab/Angry Pig.md",
       "research_level": "surface"
     },
     {
-      "builder": "Barber Electronics",
-      "pedal": "Burn Unit",
+      "builder": "Baroni Lab",
+      "pedal": "Billygoats Muff",
       "catalog_type": "",
-      "research_record": "./research/pedals/Barber Electronics/Burn_Unit.md",
+      "research_record": "./research/pedals/Baroni Lab/Billygoats Muff.md",
       "research_level": "surface"
     },
     {
-      "builder": "Barber Electronics",
-      "pedal": "Direct Drive Compact / Direct Drive v4",
+      "builder": "Baroni Lab",
+      "pedal": "Moon Sound",
       "catalog_type": "",
-      "research_record": "./research/pedals/Barber Electronics/Direct_Drive_Compact_V4.md",
+      "research_record": "./research/pedals/Baroni Lab/Moon Sound.md",
       "research_level": "surface"
     },
     {
-      "builder": "Barber Electronics",
-      "pedal": "Dirty Bomb",
+      "builder": "Baroni Lab",
+      "pedal": "Morpheus",
       "catalog_type": "",
-      "research_record": "./research/pedals/Barber Electronics/Dirty_Bomb.md",
+      "research_record": "./research/pedals/Baroni Lab/Morpheus.md",
       "research_level": "surface"
     },
     {
-      "builder": "Barber Electronics",
-      "pedal": "Exacta",
+      "builder": "Baroni Lab",
+      "pedal": "Rat'N Box",
       "catalog_type": "",
-      "research_record": "./research/pedals/Barber Electronics/Exacta.md",
+      "research_record": "./research/pedals/Baroni Lab/Rat'N Box.md",
       "research_level": "surface"
     },
     {
-      "builder": "Barber Electronics",
-      "pedal": "FWW BUSS",
+      "builder": "Baroni Lab",
+      "pedal": "The Boutique Muff",
       "catalog_type": "",
-      "research_record": "./research/pedals/Barber Electronics/FWW BUSS.md",
+      "research_record": "./research/pedals/Baroni Lab/The Boutique Muff.md",
       "research_level": "surface"
     },
     {
-      "builder": "Barber Electronics",
-      "pedal": "FWW BUSS HG",
+      "builder": "Baroni Lab",
+      "pedal": "Tubes Tone & Drive",
       "catalog_type": "",
-      "research_record": "./research/pedals/Barber Electronics/FWW BUSS HG.md",
+      "research_record": "./research/pedals/Baroni Lab/Tubes Tone & Drive.md",
       "research_level": "surface"
     },
     {
-      "builder": "Barber Electronics",
-      "pedal": "FWW Plus",
+      "builder": "Baroni Lab",
+      "pedal": "Warp Drive",
       "catalog_type": "",
-      "research_record": "./research/pedals/Barber Electronics/FWW Plus.md",
+      "research_record": "./research/pedals/Baroni Lab/Warp Drive.md",
       "research_level": "surface"
     },
     {
-      "builder": "Barber Electronics",
-      "pedal": "Gain Changer SR",
+      "builder": "Basic Audio",
+      "pedal": "DOT",
       "catalog_type": "",
-      "research_record": "./research/pedals/Barber Electronics/Gain Changer SR.md",
+      "research_record": "./research/pedals/Basic Audio/DOT.md",
       "research_level": "surface"
     },
     {
-      "builder": "Barber Electronics",
-      "pedal": "LTD SR",
+      "builder": "Basic Audio",
+      "pedal": "Eve fuzz",
       "catalog_type": "",
-      "research_record": "./research/pedals/Barber Electronics/LTD SR.md",
+      "research_record": "./research/pedals/Basic Audio/Eve fuzz.md",
       "research_level": "surface"
     },
     {
-      "builder": "Barber Electronics",
-      "pedal": "LTD v2",
+      "builder": "BBE",
+      "pedal": "Green Screamer",
       "catalog_type": "",
-      "research_record": "./research/pedals/Barber Electronics/LTD v2.md",
+      "research_record": "./research/pedals/PRP Batch 097/Green Screamer.md",
       "research_level": "surface"
     },
     {
-      "builder": "Barber Electronics",
-      "pedal": "Midnight Standard",
+      "builder": "BearFoot FX",
+      "pedal": "Arctic White Fuzz",
       "catalog_type": "",
-      "research_record": "./research/pedals/Barber Electronics/Midnight Standard.md",
+      "research_record": "./research/pedals/BearFoot FX/Arctic White Fuzz.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "BearFoot FX",
+      "pedal": "BlueBerry Bass Overdrive",
+      "catalog_type": "",
+      "research_record": "./research/pedals/BearFoot FX/BlueBerry Bass Overdrive.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "BearFoot FX",
+      "pedal": "Burgundy BossHorn Fuzz",
+      "catalog_type": "",
+      "research_record": "./research/pedals/BearFoot FX/Burgundy BossHorn Fuzz.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "BearFoot FX",
+      "pedal": "Candy Apple Fuzz",
+      "catalog_type": "",
+      "research_record": "./research/pedals/BearFoot FX/Candy Apple Fuzz.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "BearFoot FX",
+      "pedal": "Dyna Red Distortion",
+      "catalog_type": "",
+      "research_record": "./research/pedals/BearFoot FX/Dyna Red Distortion.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "BearFoot FX",
+      "pedal": "Emerald Green Distortion Machine",
+      "catalog_type": "",
+      "research_record": "./research/pedals/BearFoot FX/Emerald Green Distortion Machine.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "BearFoot FX",
+      "pedal": "Honey Bee Overdrive",
+      "catalog_type": "",
+      "research_record": "./research/pedals/BearFoot FX/Honey Bee Overdrive.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "BearFoot FX",
+      "pedal": "Silver Bee Overdrive",
+      "catalog_type": "",
+      "research_record": "./research/pedals/BearFoot FX/Silver Bee Overdrive.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "BearFoot FX",
+      "pedal": "Über Bee Overdrive",
+      "catalog_type": "",
+      "research_record": "./research/pedals/BearFoot FX/Über Bee Overdrive.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Beetronics FX",
+      "pedal": "Abelha Tropical Fuzz",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Beetronics FX/Abelha Tropical Fuzz.md",
       "research_level": "surface"
     }
   ]

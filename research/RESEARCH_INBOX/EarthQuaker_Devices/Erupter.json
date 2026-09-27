@@ -1,0 +1,89 @@
+{
+  "builder": "EarthQuaker Devices",
+  "pedal": "Erupter",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 10,
+  "sources": [
+    {
+      "url": "https://www.earthquakerdevices.com/erupter",
+      "title": "Erupter Ultimate Fuzz Tone &mdash; EarthQuaker Devices",
+      "h1": "EarthQuaker Devices",
+      "excerpt": "Erupter Ultimate Fuzz Tone &mdash; EarthQuaker Devices Contact Us Use the form on the right to contact us. You can edit the text in this area, and change where the contact form on the right submits to, by entering edit mode using the modes on the bottom right.  Form Block This form needs a storage option. Double-click here to edit this form, and tell us where to save form submissions in the Storage tab. Learn more 350 West Bowery Street Akron, OH, 44307 United States +1 330 252-9220 orders@earthquakerdevices.com Official website for EarthQuaker Devices . We build guitar effects by hand in the quaint landlocked city of Akron, Ohio. Devices Dealers Blog About Studios OnomatoPedal Merch EarthQuaker Devices Info Email Search Menu EarthQuaker Devices Info Email Search Devices Dealers Blog About Studios OnomatoPedal Merch Erupter Ultimate classic fuzz tone with a big low end, a biting top end, and just enough output to send a tube amp over the top THIS DEVICE IS NO LONGER IN PRODUCTION Erupter\u2122 Ultimate Fuzz Tone Can we ask you a serious question? When\u2019s the last time you turned up your favorite fuzz pedal to anything but eleven? If there\u2019s one true thing about rock n\u2019 roll, it\u2019s that it sounds best cranked all the way up. But where do we go from here? We go one louder. Enter the Erupter. The Erupter is the result of over two years\u2019 worth of tone-chasing, tweaking, and experimentation in search of the ultimate classic fuzz tone with a big low end, a biting top end without being too harsh, and just enough output to politely send a tube amp over the top to deliver a well-rounded and defined fuzz tone with just enough pummeling intensity, so you can rock n\u2019 roll all night and still get to bed at a reasonable hour. It\u2019s the perfect fuzz... just sayin\u2019. Controls     Bias: This control has a center detent for the \u201cperfect\u201d fuzz setting. When in the center position, the tone will be big and round with a slight volume boost and great sustain. As you turn this counterclockwise it becomes more gated with lower output. As you turn this clockwise it becomes louder and more refined. Design Notes The Erupter\u2122 fuzz started as something I wanted just for myself - the ultimate classic fuzz tone. One with a simple, yet effective control interface and that works anywhere in the signal chain. A fuzz with a big low end, but not too mushy, a biting top end without being too harsh, and just enough output to politely send a tube amp over the top. It must also have excellent wide-range clean up with the guitar\u2019s volume control without losing too much low end. It took a long time and a lot of experimenting to get there but I think I finally nailed it. A lot of people think this classic circuit is a no-brainer due to its low parts count, but I beg to differ. Since there are so few parts in the circuit, everything makes a difference. That\u2019s why you see so many variations on the market today. You can use the topology, but the sound always varies. I\u2019ve made plenty of designs based on this circuit in the past, but none of them gave me the perfect, overloaded-yet-refined full-force fuzz tone with crushing lows, smooth top end and an input that is responsive through the full range of the guitars volume control without losing too much low end in the process. Until now! I spent almost two years swapping transistors, measuring resistors, adding controls, removing controls, trying all types and values of capacitors, and basically using every trick I ever learned. What I landed on is exactly the sound I had in my head - the perfect crushing fuzz tone. I managed to whittle down the controls to the most important one of all, Bias. Why leave out the volume and fuzz controls? Most people leave the volume and fuzz all the way up, at least that\u2019s the way I always do it. This yields the thickest fuzz and the level is slightly above unity to push the full frequency range of the guitar out front when you kick it on. By setting these at maximum and allowing control over the bias,",
+      "host": "www.earthquakerdevices.com",
+      "source_kind": "manufacturer"
+    },
+    {
+      "url": "https://reverb.com/p/earthquaker-devices-erupter",
+      "title": "EarthQuaker Devices Erupter Ultimate Fuzz Tone - Reverb",
+      "h1": "",
+      "excerpt": "",
+      "host": "reverb.com",
+      "source_kind": "reverb"
+    },
+    {
+      "url": "https://www.sweetwater.com/store/detail/Erupter--earthquaker-devices-erupter-fuzz-pedal",
+      "title": "EarthQuaker Devices Erupter Fuzz Pedal | Sweetwater",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.sweetwater.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://equipboard.com/items/earthquaker-devices-erupter-fuzz-pedal",
+      "title": "EarthQuaker Devices Erupter \u2014 Fuzz Pedal | Equipboard",
+      "h1": "",
+      "excerpt": "",
+      "host": "equipboard.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://www.premierguitar.com/gear/earthquaker-devices-erupter-review",
+      "title": "EarthQuaker Devices Erupter Review - Premier Guitar",
+      "h1": "EarthQuaker Devices Erupter Review",
+      "excerpt": "Raven.config('https://6b64f5cc8af542cbb920e0238864390a@sentry.io/147999').install(); EarthQuaker Devices Erupter Review - Premier Guitar     Skip to content Search & Section Navigation Sign up Sign up Contact Shop Open Search Login Subscribe Site Navigation Reviews Guitars Amps Pedals Acoustic Bass News Videos Rig Rundowns Gear Demos Gear Roundups DIY Features Artists Gear Builder Profile Columns DIY Advice Gear Talk Lessons Beginner Intermediate Advanced CAGED Blues Rock Country Podcasts <a class=\"list__item\" href=\"/podcast/shred-with-shifty\" target=\"_s",
+      "host": "www.premierguitar.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://manualmachine.com/earthquakerdevices/erupter/19065130-user-manual/",
+      "title": "Earthquaker Devices Erupter User Manual - ManualMachine.com",
+      "h1": "",
+      "excerpt": "",
+      "host": "manualmachine.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://www.manualshelf.com/manual/earthquaker-devices/erupter/user-guide-english.html",
+      "title": "Earthquaker Devices Ultimate Fuzz Tone Guitar Effects Pedal - ManualShelf",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.manualshelf.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://www.effectsdatabase.com/model/earthquaker/erupter",
+      "title": "EarthQuaker Devices Erupter Perfect Fuzz | Effects Database",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.effectsdatabase.com",
+      "source_kind": "effects_database"
+    },
+    {
+      "url": "https://www.rockboard.de/en/pedalPedia/EarthQuaker-Devices/Erupter/68978053/",
+      "title": "Erupter by EarthQuaker Devices | RockBoard | PedalPedia",
+      "h1": "Erupter",
+      "excerpt": "Erupter by EarthQuaker Devices | RockBoard | PedalPedia Skip to main content LOG IN EXPLORE EarthQuaker Devices Erupter LOG IN TO SUGGEST IMPROVEMENTS FUZZ Description The Erupter is the result of over two years' worth of tone-chasing, tweaking, and experimentation in search of what EarthQuaker president and product designer Jamie Stillman calls &quot;the ultimate classic fuzz tone . . . with a big low end, but not too mushy, a biting top end without being too harsh, and just enough output to politely send a tube amp over the top&quot;. In developing the Erupter, Stillman used every trick he ever learned to craft a fuzz device that sounds good with any pickup type anywhere in the effects chain, even before a wah pedal, and without any impedance mismatching. To this end, the Erupter uses a buffered input section, transformer-based pickup simulation, new production 5% \u00bd watt carbon composition resistors, metallized polyester film capacitors, Sprague and BC electrolytic capacitors, and low-gain, hand-matched NOS silicon transistors to deliver a &quot;well-rounded and defined fuzz tone with just enough pummeling intensity.&quot; 0 Media Videos EarthQuaker Devices Erupter - Official Demo EarthQuaker Devices Erupter - Demo Video - Patrick Hunter EarthQuaker Devices Erupter - Demo Video - Reverb EarthQuaker Devices Erupter - Demo Video - Ola Englund EarthQuaker Devices Erupter - Demo Video - Pedals And Effects EarthQuaker Devices Erupter - Demo Video - ThePedalZone EarthQuaker Devices Erupter - Demo Video - Chicago Music Exchange EarthQuaker Devices Erupter - Demo Video - Pro Guitar Shop EarthQuaker Devices Erupter - Demo / Review Video - Premier Guitar EarthQuaker Devices Erupter - Demo Video - Guitar World Manuals Manual (EN, DE, PL, FR, CZ) Reviews EarthQuaker Devices Erupter - Review by Tone Report [EN] EarthQuaker Devices Erupter - Review by Deal Of The Day [EN] EarthQuaker Devices Erupter - Review by Bonedo [DE] EarthQuaker Devices Erupter - Review by Gearphoria [EN] EarthQuaker Devices Erupter - Test by Musicradar [EN] Links Official Product Page Technical data Width 000.00 mm Depth 000.00 mm Height 000.00 mm Circuit type analog More pedals from EarthQuaker Devices AMP AMP EarthQuaker Devices Easy Listening DISTORTION DISTORTION EarthQuaker Devices Zoar OVERDRIVE OVERDRIVE EarthQuaker Devices Plumes (White Vein Edition) FUZZ FUZZ EarthQuaker Devices Hizumitas (Gloss Black) All EarthQuaker Devices Pedals Products Pedalboards All-In-One Patchbays QuickMount PedalSafe Power Supplies and Power Cables and Connections Accessories Gear Build your own board Board Configurator PedalPedia Pedalboard Gallery QuickMount Finder Services Find a dealer Find a distributor Frequently Asked Questions Contact Current catalog News Community RockBoard Artists Achievements Your Activity Overview \u00a92026 Warwick GmbH & Co. Music Equipment KG GTC | Imprint | Privacy policy | Accessibility | Cookie Settings",
+      "host": "www.rockboard.de",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://mans.io/item/earthquaker-devices/erq-erupter",
+      "title": "Earthquaker Devices ERQ ERUPTER user manual PDF, specs & support",
+      "h1": "Earthquaker Devices ERQ ERUPTER user manual, specs & support",
+      "excerpt": "Earthquaker Devices ERQ ERUPTER user manual PDF, specs & support MansIo Mans.Io Contacts Forum Become an expert Ask a Question Sign In With login and password Or login via social networks Google Facebook Sign Up Contacts Forum Become an expert Sign In With login and password Or login via social networks Sign Up Home Earthquaker Devices ERQ ERUPTER Home Earthquaker Devices ERQ ERUPTER Earthquaker Devices ERQ ERUPTER user manual, specs & support EarthQuaker Devices Erupter Ultimate Fuzz Tone Guitar Effects Pedal Category: Musical Instruments Group: Distortion & Overdrive Device: Earthquaker Devices ERQ ERUPTER Instructions and files Navigator Instructions and files Product Documentation Pages: 1 Format: pdf Size: 594.11KB Downloads: 0 \ud83c\uddec\ud83c\udde7 View Download Fuzz tone Exploring the Ultimate Classic Fuzz Tone for Guitar Effects ? Ask a Question Specifications Add to my devices Add advice To add an announcement To read a manual, select a file in the list and click the &quot;Download&quot; button. You will be redirected to a page where you need to enter the code from the image. If the code is correct, a download button will appear instead of the picture. If there is a &quot;View&quot; button next to the file, you can read the manual online without downloading it to your computer. If the material seems incomplete or you need additional information for this device, such as drivers, firmware or other files, you can ask our moderators and community members, who will try to respond as quickly as possible. You can also read manuals on your Android device. Get it on Google Play Explore it on AppGallery APK Download directly APK file Specifications Print Power 9V DC power supply or 9V battery Output impedance &gt;1K Input impedance 500K Current draw 15mA Support Forum Earthquaker Devices ERQ ERUPTER: There are no messages for this device yet. Ask a Question Show analytics Active viewers (last 5 minutes) 1 online Logged in 0 Guests 1 Forum participants Today 0 Yesterday 0 7 days 0 Last 7 days Forum replies Today 0 Yesterday 0 7 days 0 Last 7 days Device page views Today 1 Yesterday 0 7 days 2 Last 7 days Users with this device 0 Add instruction Order instruction Become an expert Try our app Get it on Google Play Explore it on AppGallery APK Download directly APK file Similar Devices Earthquaker Devices ERQ HOOFREAPERV2 Earthquaker Devices ERQ WARDENV2 Earthquaker Devices ERQ WARDENV2 Earthquaker Devices EQDARRO Earthquaker Devices EQDPALI MansIo Mans.Io Policy regarding the processing of personal data Contacts Become an expert Cookie Policy Disclaimer Get it on Google Play Explore it on AppGallery APK Download directly APK file \u00a9 2012 - 2026 MansIO All rights reserved.",
+      "host": "mans.io",
+      "source_kind": "other"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}
