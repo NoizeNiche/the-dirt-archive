@@ -4,37 +4,50 @@
 - **Archive parent:** Butah
 - **Builder:** CMATMODS
 - **Catalog type:** Overdrive
-- **Identity:** CMATMODS Butah, a low-gain, tube-amp-style overdrive.
+- **Identity:** Low-gain, tube-amp-style analog overdrive with Drive, Level and Tone controls. [1][2]
 
-## What this pedal is
-Effects Database documents Butah as a low-gain overdrive with Drive, Level, and Tone controls. CMATMODS describes it as a quiet pedal that preserves the guitar's natural character while also pushing an amplifier into breakup. [1]
-
-## Colorways
-No complete factory colorway sequence was established.
-
-## Versions and factory options
-Documented controls/features:
-- Drive.
-- Level.
-- Tone.
+## Controls
+- **DRIVE**
+- **LEVEL**
+- **TONE**
 - Bright blue LED.
-- True bypass.
-- Boss/Ibanez-style footprint. [1]
+- True bypass. [1]
 
-RockBoard's technical listing identifies the circuit as analog, 9V center-negative, approximately 8 mA. [2]
-
-## Version changes
-No formal numbered factory revision sequence was established.
+## Circuit / topology
+- Analog low-gain overdrive.
+- CMATMODS describes it as quiet and capable of preserving the guitar's natural character while also pushing an amplifier into breakup. [1]
+- No specific commercial clone lineage is assigned from the reviewed sources.
 
 ## Transistor
-No exact-model transistor specification was established.
+- Exact production transistor/device part number is not publicly documented.
 
-## Diode
-No exact-model diode specification was established.
+## Diode / clipping
+- Exact clipping diode/device type is not publicly documented.
+
+## Power
+- **9V center-negative**.
+- Approximately **8 mA** current draw. [2]
+
+## Version history
+- No numbered electronic revision established.
 
 ## Sound
-Butah is positioned in the low-gain end of the drive spectrum: slight grit, touch-sensitive breakup, and enough output to push a tube amp harder. [1][2]
+Butah sits on the lower-gain side of the drive spectrum, moving from slight grit through touch-sensitive breakup and into a fuller amplifier-pushing overdrive. [1][2]
+
+## Research confidence
+- **Identity:** High
+- **Control map:** High
+- **Analog architecture:** High
+- **9V / 8mA:** High
+- **Exact transistor:** Unknown
+- **Exact diode:** Unknown
+
+## Deep research verification
+Effects Database and RockBoard PedalPedia were cross-checked. The sources agree on the three-control interface, analog overdrive function, 9V center-negative supply and approximately 8mA draw. [1][2]
 
 ## Sources checked
 1. Effects Database — CMATMODS Butah: https://www.effectsdatabase.com/model/cmatmods/butah
 2. RockBoard PedalPedia — Butah: https://www.rockboard.de/en/pedalPedia/Cmat-Mods/Butah/68976797/
+
+## Photo
+- Exact-model photo status remains handled by the photo lane.
