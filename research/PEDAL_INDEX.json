@@ -23899,8 +23899,8 @@
       "image": "./assets/pedals/coggins-audio-dinosaural/cogmeister/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Coggins Audio / Dinosaural/Cogmeister.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Coggins Audio / Dinosaural",
@@ -23923,8 +23923,8 @@
       "image": "./assets/pedals/coggins-audio-dinosaural/dinosaural-opa-101-overdriven-pre-amp/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Coggins Audio / Dinosaural/Dinosaural OPA-101 Overdriven Pre-amp.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Coggins Audio / Dinosaural",
@@ -23935,8 +23935,8 @@
       "image": "./assets/pedals/coggins-audio-dinosaural/dinosaural-tube-bender/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Coggins Audio / Dinosaural/Dinosaural Tube Bender.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Coggins Audio / Dinosaural",
@@ -23949,8 +23949,8 @@
       "image": "./assets/pedals/coggins-audio-dinosaural/hypoid-drive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Coggins Audio / Dinosaural/Hypoid Drive.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "ColdCraft Effects",
@@ -41514,8 +41514,8 @@
       "image": "",
       "source_page": "https://lovepedal.com/",
       "research_record": "./research/pedals/Lovepedal / Love Pedal/Purple Plexi.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Lovepedal / Love Pedal",
@@ -41538,8 +41538,8 @@
       "image": "",
       "source_page": "https://lovepedal.com/",
       "research_record": "./research/pedals/Lovepedal / Love Pedal/Tchula.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Lovepedal / Love Pedal",
@@ -51571,8 +51571,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/ThorpyFX/The OLD TIMER.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "ThorpyFX",
