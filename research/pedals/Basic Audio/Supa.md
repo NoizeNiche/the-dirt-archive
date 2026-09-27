@@ -1,45 +1,52 @@
-# Basic Audio - Supa
+# Basic Audio — Supa
 
 ## PRP identity
 - **Archive parent:** Supa
 - **Builder:** Basic Audio
 - **Catalog type:** Fuzz
-- **Identity:** Germanium fuzz based on the Marshall Supa Fuzz / Tone Bender MKII family, with added low-end and midrange controls.
+- **Identity:** Germanium fuzz based on the Marshall Supa Fuzz / Tone Bender MKII family, expanded with Fat and Snarl controls. [1]
 
-## What this pedal is
-Supa is Basic Audio’s germanium take on the Marshall Supa Fuzz, itself part of the Tone Bender MKII lineage. Basic Audio adds a Fat control for pre-circuit low-end emphasis and a Snarl control for a more mid-forward character.
+## Controls / architecture
+- **FAT:** Pre-circuit low-end emphasis.
+- **SNARL:** Midrange-forward voicing.
+- Germanium fuzz core.
+- 9V center-negative operation with battery support. [1]
 
-## Colorways
-- The official product photograph documents a production finish for the Supa.
-- Basic Audio notes that pedal colors are subject to change.
-- No complete factory colorway chronology was verified.
-
-## Versions and factory options
-### Supa
-- Fat control for a fuller or leaner pre-circuit low end
-- Snarl control for a more mid-forward tone
-- Center-negative 9V DC operation
-- Battery snap
-- No numbered factory version was verified.
-
-## Version changes
-The documented feature expansion over the historical Supa Fuzz reference is the addition of the Fat and Snarl controls. No separate numbered Basic Audio factory revision was established.
+## Circuit lineage
+- **Primary reference:** Marshall Supa Fuzz.
+- **Related lineage:** Tone Bender MKII.
+- Basic Audio's Fat and Snarl controls are its own expansion of the historical format. [1]
 
 ## Transistor
-- **Technology:** Germanium fuzz.
-- **Exact production transistor part numbers:** Not publicly documented in the checked sources.
+- **Technology:** Germanium.
+- Exact production transistor part numbers are not publicly documented.
 
-## Diode
-- **Exact clipping/protection arrangement:** Not publicly documented in the checked sources.
+## Diode / clipping
+- Exact clipping-device type and part number are not publicly documented.
+
+## Version history
+- No numbered electronic revision established.
+- Finish variations are cosmetic.
 
 ## Sound
-Supa keeps the thick, sustaining attack of the Marshall Supa Fuzz/Tone Bender MKII family while adding control over the low end and midrange focus. Fat and Snarl let it move from broader, fuller fuzz toward a tighter, more mid-forward voice.
+Supa keeps the thick, sustaining response associated with the Supa Fuzz/Tone Bender MKII family while Fat changes low-end emphasis and Snarl pushes the voice toward a more mid-forward presentation. [1]
+
+## Research confidence
+- **Identity:** High
+- **Supa Fuzz/Tone Bender MKII lineage:** High
+- **Germanium technology:** High
+- **Fat/Snarl controls:** High
+- **Exact transistor:** Unknown
+- **Exact diode:** Unknown
+
+## Deep research verification
+Basic Audio's current Supa page was checked directly. It confirms the Germanium implementation, Supa Fuzz/Tone Bender lineage and Fat/Snarl expansion. The factory semiconductor recipe is not published. [1]
 
 ## Sources checked
-1. Basic Audio official Supa page: https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-cnzrr-ksfg5-kba26-5yxez-twy6r-snkj6-rafma-ypp3x-8hx4s
-2. Basic Audio official catalog: https://www.basicaudio.net/
+1. Basic Audio — Supa: https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-cnzrr-ksfg5-kba26-5yxez-twy6r-snkj6-rafma-ypp3x-8hx4s
+2. Basic Audio — Main catalog: https://www.basicaudio.net/
 
 ## Photo
-- **Archive status:** **Exact Photo Attached to Public Catalog**
-- **Exact-model image:** https://images.squarespace-cdn.com/content/v1/5da9e97016ddf940acffa2d3/1574396011559-OKKCSHFFNYO58EDHKI7Q/DSCF5091-Edit.jpg
-- **Source page:** https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-cnzrr-ksfg5-kba26-5yxez-twy6r-snkj6-rafma-ypp3x-8hx4s
+- **Exact pedal photograph:** Basic Audio official product photograph.
+- **Direct image:** https://images.squarespace-cdn.com/content/v1/5da9e97016ddf940acffa2d3/1574396011559-OKKCSHFFNYO58EDHKI7Q/DSCF5091-Edit.jpg
+- **Source page:** Basic Audio Supa.
