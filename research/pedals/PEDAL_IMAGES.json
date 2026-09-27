@@ -15035,7 +15035,7 @@
   {
     "builder": "Devi Ever FX",
     "pedal": "Beautiful Disaster",
-    "image": "",
+    "image": "./assets/pedals/devi-ever-fx/beautiful-disaster/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/deviever",
     "research_record": "./research/pedals/Devi Ever : FX/Beautiful Disaster.md"
   },
@@ -15448,7 +15448,7 @@
   {
     "builder": "Devi Ever FX",
     "pedal": "Truly Beautiful Disaster",
-    "image": "",
+    "image": "./assets/pedals/devi-ever-fx/truly-beautiful-disaster/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/deviever",
     "research_record": "./research/pedals/Devi Ever : FX/Truly Beautiful Disaster.md"
   },
@@ -15476,7 +15476,7 @@
   {
     "builder": "Devi Ever FX",
     "pedal": "Vintage Fuzz Master",
-    "image": "",
+    "image": "./assets/pedals/devi-ever-fx/vintage-fuzz-master/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/deviever",
     "research_record": "./research/pedals/Devi Ever : FX/Vintage Fuzz Master.md"
   },
@@ -15742,7 +15742,7 @@
   {
     "builder": "DOD Electronics",
     "pedal": "FX50-B Overdrive Plus",
-    "image": null,
+    "image": "./assets/pedals/dod-electronics/fx50-b-overdrive-plus/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/DOD Electronics/FX50-B Overdrive Plus.md"
   },
@@ -15980,7 +15980,7 @@
   {
     "builder": "Dr. Scientist — Ryan Clarke / Tanya Clarke / Neil Graham",
     "pedal": "Dungeon Crawler",
-    "image": null,
+    "image": "./assets/pedals/dr-scientist-ryan-clarke-tanya-clarke-neil-graham/dungeon-crawler/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Dr. Scientist — Ryan Clarke / Tanya Clarke / Neil Graham/Dungeon Crawler.md"
   },
@@ -16729,7 +16729,7 @@
   {
     "builder": "EarthQuaker Devices",
     "pedal": "Zoar — Dynamic Audio Grinder / distortion",
-    "image": null,
+    "image": "./assets/pedals/earthquaker-devices/zoar-dynamic-audio-grinder-distortion/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/EarthQuaker Devices/Zoar — Dynamic Audio Grinder / distortion.md"
   },
@@ -18493,7 +18493,7 @@
   {
     "builder": "Himmelstrutz Elektro Art",
     "pedal": "FITZO",
-    "image": "",
+    "image": "./assets/pedals/himmelstrutz-elektro-art/fitzo/primary.webp",
     "source_page": "https://himmelstrutz.com/download/",
     "research_record": "./research/pedals/Himmelstrutz Elektro Art/FITZO+.md"
   },
@@ -19669,7 +19669,7 @@
   {
     "builder": "JPTR FX",
     "pedal": "MISPRINT KATASTROPHE",
-    "image": null,
+    "image": "./assets/pedals/jptr-fx/misprint-katastrophe/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/JPTR FX/MISPRINT KATASTROPHE.md"
   },
@@ -21209,7 +21209,7 @@
   {
     "builder": "MadeByMike",
     "pedal": "Dual Drive",
-    "image": null,
+    "image": "./assets/pedals/madebymike/dual-drive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/MadeByMike/Dual Drive.md"
   },
@@ -23260,7 +23260,7 @@
   {
     "builder": "Mythos Pedals",
     "pedal": "Extra Hot “Extra Spicy” Dual Overdrive",
-    "image": null,
+    "image": "./assets/pedals/mythos-pedals/extra-hot-extra-spicy-dual-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Mythos Pedals/Extra Hot “Extra Spicy” Dual Overdrive.md"
   },
@@ -23631,7 +23631,7 @@
   {
     "builder": "OKKO FX",
     "pedal": "TWINSONIC MKII",
-    "image": null,
+    "image": "./assets/pedals/okko-fx/twinsonic-mkii/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/OKKO FX/TWINSONIC MKII.md"
   },
@@ -23722,14 +23722,14 @@
   {
     "builder": "Organic Sounds",
     "pedal": "Orga Bender MKI 2g301Ver",
-    "image": null,
+    "image": "./assets/pedals/organic-sounds/orga-bender-mki-2g301ver/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Organic Sounds/Orga Bender MKI 2g301Ver.md"
   },
   {
     "builder": "Organic Sounds",
     "pedal": "ORGA FACE BC183L / Aged Red",
-    "image": null,
+    "image": "./assets/pedals/organic-sounds/orga-face-bc183l-aged-red/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Organic Sounds/ORGA FACE BC183L / Aged Red.md"
   },
@@ -23750,14 +23750,14 @@
   {
     "builder": "Organic Sounds",
     "pedal": "Organic Drive \"Hydra\"",
-    "image": null,
+    "image": "./assets/pedals/organic-sounds/organic-drive-hydra/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Organic Sounds/Organic Drive \"Hydra\".md"
   },
   {
     "builder": "Organic Sounds",
     "pedal": "Organic Drive \"Zeus\"",
-    "image": null,
+    "image": "./assets/pedals/organic-sounds/organic-drive-zeus/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Organic Sounds/Organic Drive \"Zeus\".md"
   },
@@ -23785,35 +23785,35 @@
   {
     "builder": "Origin Effects",
     "pedal": "DCX Boost — boost/drive product with overdrive use",
-    "image": null,
+    "image": "./assets/pedals/origin-effects/dcx-boost-boost-drive-product-with-overdrive-use/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Origin Effects/DCX Boost — boost/drive product with overdrive use.md"
   },
   {
     "builder": "Origin Effects",
     "pedal": "Deluxe55 Tweed Recreation",
-    "image": null,
+    "image": "./assets/pedals/origin-effects/deluxe55-tweed-recreation/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Origin Effects/Deluxe55 Tweed Recreation.md"
   },
   {
     "builder": "Origin Effects",
     "pedal": "DELUXE61 Amp Tremolo & Drive",
-    "image": null,
+    "image": "./assets/pedals/origin-effects/deluxe61-amp-tremolo-drive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Origin Effects/DELUXE61 Amp Tremolo & Drive.md"
   },
   {
     "builder": "Origin Effects",
     "pedal": "Halcyon Blue Overdrive",
-    "image": null,
+    "image": "./assets/pedals/origin-effects/halcyon-blue-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Origin Effects/Halcyon Blue Overdrive.md"
   },
   {
     "builder": "Origin Effects",
     "pedal": "Halcyon Gold Overdrive",
-    "image": null,
+    "image": "./assets/pedals/origin-effects/halcyon-gold-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Origin Effects/Halcyon Gold Overdrive.md"
   },
@@ -23876,7 +23876,7 @@
   {
     "builder": "Outlaw Effects",
     "pedal": "Dead Man's Hand 2-Mode Overdrive",
-    "image": null,
+    "image": "./assets/pedals/outlaw-effects/dead-man-s-hand-2-mode-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Outlaw Effects/Dead Man's Hand 2-Mode Overdrive.md"
   },
@@ -23890,7 +23890,7 @@
   {
     "builder": "Outlaw Effects",
     "pedal": "Dumbleweed D-Style Amp Overdrive",
-    "image": null,
+    "image": "./assets/pedals/outlaw-effects/dumbleweed-d-style-amp-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Outlaw Effects/Dumbleweed D-Style Amp Overdrive.md"
   },
