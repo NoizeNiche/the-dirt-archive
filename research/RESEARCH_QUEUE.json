@@ -1,18 +1,18 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-27T04:35:04.841138+00:00",
+  "generated_at": "2026-09-27T04:37:05.134020+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
   "counts": {
-    "total": 3856,
+    "total": 3881,
     "researched": 3761,
     "pictured": 3040,
     "complete": 3040,
     "research_pending": 0,
-    "deep_research_pending": 1930,
+    "deep_research_pending": 1955,
     "deep_researched": 1926,
-    "surface_ready": 3856
+    "surface_ready": 3881
   },
   "next_target": {
     "builder": "Big John Effects",

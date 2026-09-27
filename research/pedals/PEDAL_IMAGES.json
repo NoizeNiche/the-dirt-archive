@@ -14397,6 +14397,69 @@
   },
   {
     "builder": "Darkglass Electronics",
+    "pedal": "ADAM Aggressively Distorting Advanced Machine",
+    "image": "",
+    "source_page": "https://www.effectsdatabase.com/model/darkglass/adam",
+    "research_record": "./research/pedals/Darkglass Electronics/ADAM Aggressively Distorting Advanced Machine.md"
+  },
+  {
+    "builder": "Darkglass Electronics",
+    "pedal": "Alpha Omicron",
+    "image": "",
+    "source_page": "https://www.effectsdatabase.com/model/darkglass/alphaomicron",
+    "research_record": "./research/pedals/Darkglass Electronics/Alpha Omicron.md"
+  },
+  {
+    "builder": "Darkglass Electronics",
+    "pedal": "Alpha-Omega",
+    "image": "",
+    "source_page": "https://www.effectsdatabase.com/model/darkglass/alphaomega",
+    "research_record": "./research/pedals/Darkglass Electronics/Alpha-Omega.md"
+  },
+  {
+    "builder": "Darkglass Electronics",
+    "pedal": "Alpha-Omega Photon",
+    "image": "",
+    "source_page": "https://www.effectsdatabase.com/model/darkglass/alphaomegaphoton",
+    "research_record": "./research/pedals/Darkglass Electronics/Alpha-Omega Photon.md"
+  },
+  {
+    "builder": "Darkglass Electronics",
+    "pedal": "Alpha-Omega Ultra",
+    "image": "",
+    "source_page": "https://www.effectsdatabase.com/model/darkglass/alphaomegaulta",
+    "research_record": "./research/pedals/Darkglass Electronics/Alpha-Omega Ultra.md"
+  },
+  {
+    "builder": "Darkglass Electronics",
+    "pedal": "DFZ Duality Fuzz Pedal v2",
+    "image": "",
+    "source_page": "https://www.effectsdatabase.com/model/darkglass/duality/dfz",
+    "research_record": "./research/pedals/Darkglass Electronics/DFZ Duality Fuzz Pedal v2.md"
+  },
+  {
+    "builder": "Darkglass Electronics",
+    "pedal": "Duality",
+    "image": "",
+    "source_page": "https://www.effectsdatabase.com/model/darkglass/duality",
+    "research_record": "./research/pedals/Darkglass Electronics/Duality.md"
+  },
+  {
+    "builder": "Darkglass Electronics",
+    "pedal": "Kaamos",
+    "image": "",
+    "source_page": "https://www.effectsdatabase.com/model/darkglass/kaamos",
+    "research_record": "./research/pedals/Darkglass Electronics/Kaamos.md"
+  },
+  {
+    "builder": "Darkglass Electronics",
+    "pedal": "Microtubes B1K",
+    "image": "",
+    "source_page": "https://www.effectsdatabase.com/model/darkglass/microtubes/b1k",
+    "research_record": "./research/pedals/Darkglass Electronics/Microtubes B1K.md"
+  },
+  {
+    "builder": "Darkglass Electronics",
     "pedal": "Microtubes B3K",
     "image": "./assets/pedals/darkglass-electronics/microtubes-b3k/primary.webp",
     "source_page": null,
@@ -14404,10 +14467,66 @@
   },
   {
     "builder": "Darkglass Electronics",
+    "pedal": "Microtubes B7K Analog Bass Preamp",
+    "image": "",
+    "source_page": "https://www.effectsdatabase.com/model/darkglass/microtubes/b7k",
+    "research_record": "./research/pedals/Darkglass Electronics/Microtubes B7K Analog Bass Preamp.md"
+  },
+  {
+    "builder": "Darkglass Electronics",
+    "pedal": "Microtubes B7K Ultra",
+    "image": "",
+    "source_page": "https://www.effectsdatabase.com/model/darkglass/microtubes/b7kultra",
+    "research_record": "./research/pedals/Darkglass Electronics/Microtubes B7K Ultra.md"
+  },
+  {
+    "builder": "Darkglass Electronics",
     "pedal": "Microtubes Infinity",
     "image": "./assets/pedals/darkglass-electronics/microtubes-infinity/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Darkglass Electronics/Microtubes Infinity.md"
+  },
+  {
+    "builder": "Darkglass Electronics",
+    "pedal": "Microtubes Vintage",
+    "image": "",
+    "source_page": "https://www.effectsdatabase.com/model/darkglass/microtubes/vintage",
+    "research_record": "./research/pedals/Darkglass Electronics/Microtubes Vintage.md"
+  },
+  {
+    "builder": "Darkglass Electronics",
+    "pedal": "Microtubes Vintage Deluxe",
+    "image": "",
+    "source_page": "https://www.effectsdatabase.com/model/darkglass/microtubes/vintagedeluxe",
+    "research_record": "./research/pedals/Darkglass Electronics/Microtubes Vintage Deluxe.md"
+  },
+  {
+    "builder": "Darkglass Electronics",
+    "pedal": "Microtubes X",
+    "image": "",
+    "source_page": "https://www.effectsdatabase.com/model/darkglass/microtubes/x",
+    "research_record": "./research/pedals/Darkglass Electronics/Microtubes X.md"
+  },
+  {
+    "builder": "Darkglass Electronics",
+    "pedal": "Microtubes X Ultra",
+    "image": "",
+    "source_page": "https://www.effectsdatabase.com/model/darkglass/microtubes/xultra",
+    "research_record": "./research/pedals/Darkglass Electronics/Microtubes X Ultra.md"
+  },
+  {
+    "builder": "Darkglass Electronics",
+    "pedal": "Microtubes X7",
+    "image": "",
+    "source_page": "https://www.effectsdatabase.com/model/darkglass/microtubes/x7",
+    "research_record": "./research/pedals/Darkglass Electronics/Microtubes X7.md"
+  },
+  {
+    "builder": "Darkglass Electronics",
+    "pedal": "Vintage Ultra",
+    "image": "",
+    "source_page": "https://www.effectsdatabase.com/model/darkglass/vintageultra",
+    "research_record": "./research/pedals/Darkglass Electronics/Vintage Ultra.md"
   },
   {
     "builder": "DeadastronautFX",
@@ -16441,6 +16560,13 @@
   },
   {
     "builder": "Effectrode",
+    "pedal": "Helios",
+    "image": "",
+    "source_page": "https://www.effectsdatabase.com/model/effectrode/helios",
+    "research_record": "./research/pedals/Effectrode/Helios.md"
+  },
+  {
+    "builder": "Effectrode",
     "pedal": "Mercury Tube Fuzz",
     "image": "./assets/pedals/effectrode/mercury-tube-fuzz/primary.webp",
     "source_page": null,
@@ -17236,6 +17362,55 @@
     "image": "./assets/pedals/fortin/natas-distortion/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Fortin/Natas Distortion.md"
+  },
+  {
+    "builder": "Fortin Amplification",
+    "pedal": "Fourteen",
+    "image": "",
+    "source_page": "https://www.effectsdatabase.com/model/fortin/fourteen",
+    "research_record": "./research/pedals/Fortin Amplification/Fourteen.md"
+  },
+  {
+    "builder": "Fortin Amplification",
+    "pedal": "Fuzz )))",
+    "image": "",
+    "source_page": "https://quanta-brands.jp/fortin-amplification/products/",
+    "research_record": "./research/pedals/Fortin Amplification/Fuzz ))).md"
+  },
+  {
+    "builder": "Fortin Amplification",
+    "pedal": "Hexdrive",
+    "image": "",
+    "source_page": "https://quanta-brands.jp/fortin-amplification/products/",
+    "research_record": "./research/pedals/Fortin Amplification/Hexdrive.md"
+  },
+  {
+    "builder": "Fortin Amplification",
+    "pedal": "Kali",
+    "image": "",
+    "source_page": "https://www.effectsdatabase.com/model/fortin/kali",
+    "research_record": "./research/pedals/Fortin Amplification/Kali.md"
+  },
+  {
+    "builder": "Fortin Amplification",
+    "pedal": "Meshuggah",
+    "image": "",
+    "source_page": "https://quanta-brands.jp/fortin-amplification/products/",
+    "research_record": "./research/pedals/Fortin Amplification/Meshuggah.md"
+  },
+  {
+    "builder": "Fortin Amplification",
+    "pedal": "Natas Distortion",
+    "image": "",
+    "source_page": "https://www.effectsdatabase.com/model/fortin/natas",
+    "research_record": "./research/pedals/Fortin Amplification/Natas Distortion.md"
+  },
+  {
+    "builder": "Fortin Amplification",
+    "pedal": "NATAS Limited Color",
+    "image": "",
+    "source_page": "https://quanta-brands.jp/fortin-amplification/products/",
+    "research_record": "./research/pedals/Fortin Amplification/NATAS Limited Color.md"
   },
   {
     "builder": "Foxgear",
