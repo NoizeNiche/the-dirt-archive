@@ -74,3 +74,18 @@ The manufacturer page was rechecked directly. An independent retailer listing al
 ## Photo
 - **Archive status:** **No Photo Archived**
 - **Exact-model references checked:** Anode Effects exact-model product page and exact-model retailer imagery.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+A unique fuzz using MOSFETs and NOS components The Mos Fuzz is a unique circuit that is an expansion of the Bazz Fuss but it uses MOSFETs to create a smoother and less gritty fuzz.
+
+### Verified sound evidence
+Full frequency fuzz machine Image 1 of 6 Image 2 of 6 Image 3 of 6 Image 4 of 6 Image 5 of 6 Image 6 of 6 MOS Fuzz
+Full frequency fuzz machine $129.99 A unique fuzz using MOSFETs and NOS components Purchase Added!
+A unique fuzz using MOSFETs and NOS components The Mos Fuzz is a unique circuit that is an expansion of the Bazz Fuss but it uses MOSFETs to create a smoother and less gritty fuzz.
+
+### Sources checked in this pass
+1. MOS Fuzz | Full frequency fuzz machine — Anode Effects: https://www.anodeeffects.com/pedals/p/mos-fuzz-full-frequency-fuzz-machine

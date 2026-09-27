@@ -53,3 +53,14 @@ Metro is intended to sit between transparent boost/drive and more compressed dis
 - **Archive status:** **No Photo Archived**
 - **Exact-model reference checked:** https://www.awestruckamps.com/product/metro-organic-overdrive/
 - **Archive note:** Exact product photography exists on the builder page, but no stable archive asset is being promoted in this pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Awestruck Amplification's Metro is cataloged as an overdrive pedal.
+
+### Sources checked in this pass
+1. catalog/override source: https://reverb.com/item/88461414-awestruck-amplification-metro-organic-overdrive
+2. Metro – Organic Overdrive – Awestruck Amplification: https://www.awestruckamps.com/product/metro-organic-overdrive/

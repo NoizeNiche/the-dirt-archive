@@ -1,0 +1,25 @@
+{
+  "builder": "Awestruck Amplification",
+  "pedal": "Metro",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 2,
+  "sources": [
+    {
+      "url": "https://reverb.com/item/88461414-awestruck-amplification-metro-organic-overdrive",
+      "title": "catalog/override source",
+      "h1": "",
+      "excerpt": "",
+      "host": "reverb.com",
+      "source_kind": "reverb"
+    },
+    {
+      "url": "https://www.awestruckamps.com/product/metro-organic-overdrive/",
+      "title": "Metro \u2013 Organic Overdrive \u2013 Awestruck Amplification",
+      "h1": "Metro \u2013 Organic Overdrive",
+      "excerpt": "Metro \u2013 Organic Overdrive \u2013 Awestruck Amplification info@awestruckamps.com Home Support About Products 0 Items Home Products About Support My Account Select Page <img loading=\"lazy\" decoding=\"async\" width=\"600\" height=\"600\" src=\"https://www.awestruckamps.com/wp-content/uploads/2025/03/METRO_GREEN_6-600x600.jpg\" class=\"\" alt=\"Metro - Organic Overdrive - Image 3\" data-caption=\"\" data-src=\"https://www.awestruckamps.com/wp-content/uploads/2025/03/METRO_GREEN_6-scaled.jpg\" data-large_ima",
+      "host": "www.awestruckamps.com",
+      "source_kind": "catalog_verified"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}

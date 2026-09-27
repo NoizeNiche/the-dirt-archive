@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-27T00:45:05.872696+00:00",
+  "generated_at": "2026-09-27T00:49:30.393875+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,144 +10,18 @@
     "pictured": 2999,
     "complete": 2999,
     "research_pending": 0,
-    "deep_research_pending": 2248,
-    "deep_researched": 1513,
+    "deep_research_pending": 2229,
+    "deep_researched": 1532,
     "surface_ready": 3761
   },
   "next_target": {
-    "builder": "Anode Effects",
-    "pedal": "MOS Fuzz",
+    "builder": "Atlas Pedal",
+    "pedal": "Bracton OverDrive",
     "catalog_type": "",
-    "research_record": "./research/pedals/PRP Batch 057/MOS Fuzz.md",
+    "research_record": "./research/pedals/Atlas Pedal/Bracton OverDrive.md",
     "research_level": "surface"
   },
   "working_set": [
-    {
-      "builder": "Anode Effects",
-      "pedal": "MOS Fuzz",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 057/MOS Fuzz.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "ARC Effects",
-      "pedal": "Soothsayer",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 057/Soothsayer.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Arcane Analog",
-      "pedal": "ARCANE ANALOG FF66 FUZZ FACE",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 058/ARCANE ANALOG FF66 FUZZ FACE.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Arcane Analog",
-      "pedal": "BC108 Fuzz Face",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 058/BC108 Fuzz Face.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Arcane Analog",
-      "pedal": "BUZZAROUND OC45 / OC45 / OC43",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 058/BUZZAROUND OC45 - OC45 - OC43.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Arcane Analog",
-      "pedal": "Facebender / Rangbender",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 058/Facebender - Rangbender.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Arcane Analog",
-      "pedal": "NKT775 WHITE FUZZ FACE",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 058/NKT775 WHITE FUZZ FACE.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Arcane Analog",
-      "pedal": "OC42 MK1.5 Tonebender",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 058/OC42 MK1.5 Tonebender.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Arcane Analog",
-      "pedal": "Overdrive Overload",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 058/Overdrive Overload.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Arcane Analog",
-      "pedal": "TONE BENDERS (MK1 // MK1.5 // MK2 // MK3 // MK4)",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 058/TONE BENDERS (MK1 - MK1.5 - MK2 - MK3 - MK4).md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Artisanal Effects",
-      "pedal": "Artisanal Cheese (Big Cheese)",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 058/Artisanal Cheese (Big Cheese).md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Artisanal Effects",
-      "pedal": "Cheddar Source",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 059/Cheddar Source.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Ashdown Engineering",
-      "pedal": "John Myung Double Drive",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 059/John Myung Double Drive.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Asheville Guitar Pedals",
-      "pedal": "Fuzz Driver Distortion",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 059/Fuzz Driver Distortion.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Asheville Guitar Pedals",
-      "pedal": "Purr Machine Mini Fuzz Overdriver",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 059/Purr Machine Mini Fuzz Overdriver.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Asheville Guitar Pedals",
-      "pedal": "Rat King",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 059/Rat King.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Astral ToneWorx",
-      "pedal": "666 The Beast",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 059/666 The Beast.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Astral ToneWorx",
-      "pedal": "Krampus — Doom Fuzz",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 059/Krampus - Doom Fuzz.md",
-      "research_level": "surface"
-    },
     {
       "builder": "Atlas Pedal",
       "pedal": "Bracton OverDrive",
@@ -195,6 +69,132 @@
       "pedal": "PUTTY Saturation Preamp",
       "catalog_type": "",
       "research_record": "./research/pedals/Attic Audio/PUTTY Saturation Preamp.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Audile",
+      "pedal": "Bass TOAD - Tone Overdrive And Distortion for Bass",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Audile/Bass TOAD - Tone Overdrive And Distortion for Bass.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Audile",
+      "pedal": "TOAD - Tone Overdrive And Distortion",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Audile/TOAD - Tone Overdrive And Distortion.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Audio Aesthetic",
+      "pedal": "Midnight Drive",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Audio Aesthetic/Midnight Drive.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Audio Kitchen",
+      "pedal": "Fake Plastic Trees",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Audio Kitchen/Fake Plastic Trees.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Audio Kitchen",
+      "pedal": "The Big Trees",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Audio Kitchen/The Big Trees.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Audio Matrix",
+      "pedal": "Mini Boogee / Mini Matrix",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Audio Matrix/Mini Boogee - Mini Matrix.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Audio Monk",
+      "pedal": "Fuzzpotion - Bass Fuzz",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Audio Monk/Fuzzpotion - Bass Fuzz.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Audio Squared",
+      "pedal": "Major Fuzz",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Audio Squared/Major Fuzz.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Audio Surplus Effects",
+      "pedal": "Burden",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Audio Surplus Effects/Burden.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Audio Surplus Effects",
+      "pedal": "Dornenkrone",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Audio Surplus Effects/Dornenkrone.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Audio Surplus Effects",
+      "pedal": "Lurid Machine",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Audio Surplus Effects/Lurid Machine.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Audio Surplus Effects",
+      "pedal": "Massenpanik",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Audio Surplus Effects/Massenpanik.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Audio Surplus Effects",
+      "pedal": "Radio Trash Unrealistic Overdrive",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Audio Surplus Effects/Radio Trash Unrealistic Overdrive.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Audiobox",
+      "pedal": "Crunch Box",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Audiobox/Crunch Box.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Audiofab",
+      "pedal": "Chonky Boi",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Audiofab/Chonky Boi.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Audiofab",
+      "pedal": "Valve Warper",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Audiofab/Valve Warper.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Audiolithe",
+      "pedal": "Chaosculpt Bass",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Audiolithe/Chaosculpt_Bass.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Audiolithe",
+      "pedal": "Doomer Fuzz",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Audiolithe/Doomer_Fuzz.md",
       "research_level": "surface"
     }
   ]
