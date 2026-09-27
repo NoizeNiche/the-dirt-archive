@@ -4,30 +4,23 @@
 - **Builder:** Black Arts Toneworks
 - **Catalog type:** Distortion / Fuzz
 
-## Research
-The Pharaoh is a flexible classic-fuzz-derived design covering cleanish boost, light overdrive and saturated fuzz. It uses a hi/lo input switch, Fuzz, dual tone controls and selectable clipping modes, while retaining low end and allowing the guitar and amplifier to remain prominent.
-
-## Source
-- https://www.blackartstoneworks.com/pedal/pharaoh/
-
-## Archive photo
-- **Archive status:** **No Photo Archived**
+## What this pedal is
+Pharaoh is a flexible classic-fuzz-derived dirt pedal covering cleanish boost, light overdrive and saturated fuzz while retaining substantial low-end content.
 
 ## Deep research verification
 
-This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+### Controls and voicing
+The exact-model documentation confirms a **Hi/Lo input switch**, **Fuzz** control, dual tone controls and selectable clipping modes. The design is intended to preserve the guitar and amplifier's own character while changing gain and clipping behavior.
 
-### Verified description
-The Pharaoh pedal, while its roots and DNA are classic fuzz, has a few twists.
+### Sound
+The documented range runs from a relatively clean boost through light overdrive to saturated fuzz.
 
-### Verified color/finish evidence
-- Black Arts Toneworks Menu Pedals News Swag Friends & Retailers Contact Pharaoh Pharaoh For musicians who love their guitar and amp’s tone.
+### Component evidence
+The reviewed sources establish the clipping-selection architecture but do not provide a complete verified semiconductor part list for every production unit.
 
-### Verified sound evidence
-Black Arts Toneworks Menu Pedals News Swag Friends & Retailers Contact Pharaoh Pharaoh For musicians who love their guitar and amp’s tone.
-The Pharaoh pedal, while its roots and DNA are classic fuzz, has a few twists.
-From a cleanish boost, to a light OD, all the way to saturated fuzz.
+## Sources checked
+- Black Arts Toneworks: https://www.blackartstoneworks.com/pedal/pharaoh/
+- Effects Database: https://www.effectsdatabase.com/model/blackarts/pharaoh
 
-### Sources checked in this pass
-1. Pharaoh | Black Arts Toneworks: https://www.blackartstoneworks.com/pedal/pharaoh/
-2. catalog/override source: https://www.effectsdatabase.com/model/blackarts/pharaoh
+## Photo
+- **Archive status:** **No Photo Archived**
