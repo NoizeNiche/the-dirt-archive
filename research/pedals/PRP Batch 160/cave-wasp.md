@@ -17,3 +17,16 @@
 - **Sources checked:**
   - https://www.effectsdatabase.com/model/cavepassive/wasp
   - https://www.talkbass.com/threads/cave-passive-pedals.598605/page-6
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Cave Passive Pedals's The Wasp is cataloged as a fuzz pedal.
+
+### Verified sound evidence
+More musical than it's digital counterparts, this analogue fuzz for bass has a rotary control for depth which creates a variety of tones from 60's hippy to hard rock.
+
+### Sources checked in this pass
+1. Cave Passive Pedals The Wasp | Effects Database: https://www.effectsdatabase.com/model/cavepassive/wasp

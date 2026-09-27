@@ -45,3 +45,13 @@ Effects Database maintains an exact Columbus OVD-5 record and lists the related 
 ## Sources checked
 1. Effects Database - Profile+ OVD-5 Overdrive: https://www.effectsdatabase.com/model/profile/ovd5
 2. Effects Database - Columbus OVD-5 Overdrive: https://www.effectsdatabase.com/model/columbus/ovd5
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Columbus's OVD-5 Overdrive is cataloged as an overdrive pedal.
+
+### Sources checked in this pass
+1. Columbus OVD-5 Overdrive | Effects Database: https://www.effectsdatabase.com/model/columbus/ovd5

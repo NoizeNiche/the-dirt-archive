@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-27T10:38:05.214593+00:00",
+  "generated_at": "2026-09-27T10:41:16.036110+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,8 +10,8 @@
     "pictured": 3133,
     "complete": 3133,
     "research_pending": 0,
-    "deep_research_pending": 1288,
-    "deep_researched": 2954,
+    "deep_research_pending": 1245,
+    "deep_researched": 2997,
     "surface_ready": 4242
   },
   "next_target": {
@@ -72,111 +72,6 @@
       "research_level": "surface"
     },
     {
-      "builder": "BOSS",
-      "pedal": "DA-2 Adaptive Distortion",
-      "catalog_type": "",
-      "research_record": "./research/pedals/BOSS/DA-2 Adaptive Distortion.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "BOSS",
-      "pedal": "DN-2 Dyna Drive",
-      "catalog_type": "",
-      "research_record": "./research/pedals/BOSS/DN-2 Dyna Drive.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "BOSS",
-      "pedal": "HM-3 Hyper Metal",
-      "catalog_type": "",
-      "research_record": "./research/pedals/BOSS/HM-3 Hyper Metal.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "BOSS",
-      "pedal": "MZ-2 Digital Metalizer",
-      "catalog_type": "",
-      "research_record": "./research/pedals/BOSS/MZ-2 Digital Metalizer.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "BOSS",
-      "pedal": "PW-2 Power Driver",
-      "catalog_type": "",
-      "research_record": "./research/pedals/BOSS/PW-2 Power Driver.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "BOSS",
-      "pedal": "SD-2 Dual OverDrive",
-      "catalog_type": "",
-      "research_record": "./research/pedals/BOSS/SD-2 Dual OverDrive.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "BOSS",
-      "pedal": "TB-2W Tone Bender",
-      "catalog_type": "",
-      "research_record": "./research/pedals/BOSS/TB-2W Tone Bender.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "BOSS",
-      "pedal": "XT-2 Xtortion",
-      "catalog_type": "",
-      "research_record": "./research/pedals/BOSS/XT-2 Xtortion.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Boulevard",
-      "pedal": "BDT-10 Distortion",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 114/bdt-10-distortion.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Boulevard",
-      "pedal": "BOD-10 Overdrive",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 114/bod-10-overdrive.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Bouteek",
-      "pedal": "Twin Drive and Boost - Ultimate Drive with Fuzz Inject",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 114/twin-drive-and-boost-ultimate-drive-with-fuzz-inject.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "BoX",
-      "pedal": "Distortion",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 115/box-distortion.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "BR Tech",
-      "pedal": "BR-1 Distortion",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 115/br-tech-br-1-distortion.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Brantone Electronics",
-      "pedal": "Blue Meanie - Germanium Fuzz",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 115/brantone-electronics-blue-meanie-germanium-fuzz.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Brantone Electronics",
-      "pedal": "ToneMaster Mk2 Germanium Fuzz",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 115/brantone-electronics-tonemaster-mk2-germanium-fuzz.md",
-      "research_level": "surface"
-    },
-    {
       "builder": "Brantone Electronics",
       "pedal": "WEM Pepbox - Official Reissue",
       "catalog_type": "",
@@ -184,17 +79,122 @@
       "research_level": "surface"
     },
     {
-      "builder": "Brimstone Audio",
-      "pedal": "BL-1 Basilisk",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 117/brimstone-audio-bl-1-basilisk.md",
-      "research_level": "surface"
-    },
-    {
       "builder": "British Pedal Company",
       "pedal": "Tone Bender Mk1.5",
       "catalog_type": "",
       "research_record": "./research/pedals/PRP Batch 117/british-pedal-company-tone-bender-mk1-5.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "British Pedal Company",
+      "pedal": "Tone Bender Professional MkII",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 117/british-pedal-company-tone-bender-professional-mkii.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Brotech Electronics",
+      "pedal": "Fatpipe Pro",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 118/brotech-electronics-fatpipe-pro.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Broughton Audio",
+      "pedal": "Calamity",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 118/broughton-audio-calamity.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Browne Amplification",
+      "pedal": "The Carbon - Overdrive",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 123/browne-amplification-the-carbon-overdrive.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Browne Amplification",
+      "pedal": "The Protein - Dual Overdrive",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 124/browne-amplification-the-protein-dual-overdrive.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Bulinski Effect Pedals",
+      "pedal": "RC Bass Fuzz",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 132/rc-bass-fuzz.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "C.I.C",
+      "pedal": "MOD-7 Overdrive",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 135/cic-mod-7-overdrive.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "C.Q.O.",
+      "pedal": "Super Distortion",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 135/cqo-super-distortion.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Cajita Stompboxes",
+      "pedal": "Bdi.ts with Overdrive",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 135/cajita-bdi-ts-with-overdrive.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Cajita Stompboxes",
+      "pedal": "Distorsión Marshall CR800 JCM + booster",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 136/distorsion-marshall-cr800-jcm-booster.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Cajita Stompboxes",
+      "pedal": "Distorsión RAT 6 6 modos",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 136/distorsion-rat-6-6-modos.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "California (by Eleca)",
+      "pedal": "CDT-1 Distortion",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 139/cdt-1-distortion.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "California (by Eleca)",
+      "pedal": "CHM-1 Heavy Metal",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 139/chm-1-heavy-metal.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "California (by Eleca)",
+      "pedal": "COD-1 Over Drive",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 139/cod-1-over-drive.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Caline",
+      "pedal": "CP-25 Highway Man OD",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 140/cp-25-highway-man-od.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Caline",
+      "pedal": "CP-515 Carmilla - Hi Gain Distortion Machine",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 142/cp-515-carmilla-hi-gain-distortion-machine.md",
       "research_level": "surface"
     }
   ]

@@ -30,3 +30,16 @@ The archive keeps Leeds Fuzz's description at the confirmed fuzz level rather th
 ## Sources checked
 1. Effects Database — Build Your Own Clone catalog: https://www.effectsdatabase.com/model/byoc
 2. Effects Database — 2016 BYOC product overview: https://www.effectsdatabase.com/updates/weekly/20161017
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Build Your Own Clone's Leeds Fuzz is cataloged as a fuzz pedal.
+
+### Verified sound evidence
+My Build Your Own Clone Leeds Fuzz, …
+
+### Sources checked in this pass
+1. Penicillin Fuzz Front | My Build Your Own Clone Leeds Fuzz, … | Flickr: https://www.flickr.com/photos/scottish/5244971509

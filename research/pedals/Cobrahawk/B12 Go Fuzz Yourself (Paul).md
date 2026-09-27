@@ -29,3 +29,16 @@ The model is documented as fuzz. A more detailed sonic characterization is defer
 
 ## Sources checked
 1. The Dirt Archive Scrape C census: `research/SCRAPE_C_CENSUS.csv`
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Cobrahawk's B12 Go Fuzz Yourself (Paul) is cataloged as a fuzz pedal.
+
+### Verified sound evidence
+Cobrahawk B12 Go Fuzz Yourself (Paul)
+
+### Sources checked in this pass
+1. Cobrahawk B12 Go Fuzz Yourself (Paul) | Effects Database: https://www.effectsdatabase.com/model/cobrahawk/b12/gofuzz

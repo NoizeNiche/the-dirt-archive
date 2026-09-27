@@ -1,0 +1,25 @@
+{
+  "builder": "Commune",
+  "pedal": "Senturion Preamp 500",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 2,
+  "sources": [
+    {
+      "url": "https://guitarpedalfinder.com/pedals/commune-senturion-preamp-500",
+      "title": "Commune Senturion Preamp 500 - Boost Pedal | PedalFinder",
+      "h1": "Guitar Pedal Finder",
+      "excerpt": "Commune Senturion Preamp 500 - Boost Pedal | PedalFinder Guitar Pedal Finder Explore Brands Guides Pedalboards FAQ Home / Commune / Senturion Preamp 500 Commune Senturion Preamp 500 The Commune Senturion Preamp 500 is a bold, versatile preamp that's sure to breathe new life into your guitar tone. Designed by the sonic alchemists at Commune, this pedal packs a serious punch, transforming your signal with an unmistakable character that's equal parts vintage and modern. At its core, the Senturion is a high-headroom preamp that can push your amp into glorious, harmonically-rich overdrive. But this is no one-trick pony - with its three-band EQ and gain controls, you can sculpt your sound with surgical precision, dialing in everything from a subtle boost to a searing, distorted lead tone. What really sets the Senturion apart, though, is its unique &quot;Senturion&quot; mode, which engages a proprietary circuit that imparts a jaw-dropping, three-dimensional depth and presence to your tone. It's as if you've stepped into a cathedral of sound, with lush overtones and a captivating, almost holographic quality that simply has to be heard to be believed. Commune has a reputation for creating pedals that inspire creativity, and the Senturion Preamp 500 is no exception. Beloved by guitarists like John Mayer and Bonnie Raitt for its ability to add that little extra something special, this pedal is a must-try for anyone seeking to take their tone to the next level. Categories Boost Buy on Amazon Similar Pedals from Commune Commune Senturion Crazy Booster Boost Commune Senturion Modern Factor Multi-Effects View on Reverb Commune Senturion Real Leveler Multi-Effects",
+      "host": "guitarpedalfinder.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://www.effectsdatabase.com/model/commune/senturion/preamp500",
+      "title": "Commune Senturion Preamp 500 - Effects Database",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.effectsdatabase.com",
+      "source_kind": "effects_database"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}

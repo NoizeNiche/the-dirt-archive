@@ -48,3 +48,21 @@ Effects Database has an exact Columbus TDR-5 model record and describes its plac
 1. Effects Database - Columbus TDR-5 Tube Driver: https://www.effectsdatabase.com/model/columbus/tdr5
 2. Effects Database - Series 10 Tube Driver (shared TDR-5 family): https://www.effectsdatabase.com/model/series10/aria/tubedriver
 3. Effects Database - Profile+ TDR-5 Tube Driver (shared family): https://www.effectsdatabase.com/model/profile/tdr5
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Columbus's TDR-5 Tube Driver is cataloged as an overdrive pedal.
+
+### Verified transistor/device terms
+- BC109.
+
+### Verified sound evidence
+The circuit delivers a versatile drive range, covering smooth, mid-focused overdrive and more saturated distortion textures.
+Its tonal response is shaped by a two-band EQ section offering separate High and Low controls, a feature uncommon in compact pedals of its time.
+The pedal's voicing has often been described as sitting between a Tube Screamer-style midrange push and the sharper tone of late-80s Japanese distortions.
+
+### Sources checked in this pass
+1. Columbus TDR-5 Tube Driver | Effects Database: https://www.effectsdatabase.com/model/columbus/tdr5

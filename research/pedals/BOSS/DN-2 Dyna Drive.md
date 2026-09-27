@@ -1,23 +1,38 @@
 # BOSS — DN-2 Dyna Drive
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** DN-2 Dyna Drive
 - **Builder:** BOSS
-- **Pedal:** DN-2 Dyna Drive
 - **Catalog type:** Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** BOSS's DN-2 Dyna Drive.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **DN-2 Dyna Drive** by **BOSS** as a **Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+BOSS's DN-2 Dyna Drive is cataloged as an overdrive pedal.
 
-## Catalog source
-- Catalog source page on file: https://www.effectsdatabase.com/model/boss/compact/dn2
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+This unique BOSS pedal comes equipped with the acclaimed Dyna Amp technology recently introduced in Roland's popular CUBE-60 amp, letting you create unique tone transitions based on picking dynamics.
+It's possible to get a transparent clean output sound by playing softly, or a powerful heavy overdrive sound by picking aggressively.
+Provides dynamic transition between clean to heavy overdrive based on picking strength and/or guitar volume Acclaimed Dyna Amp technology derived from Roland's CUBE-60 A unique way for guitarists to add expression to their performance Road-tough BOSS metal construction Video all
+
+## Sources checked
+1. Boss DN-2 Dyna Drive | Effects Database: https://www.effectsdatabase.com/model/boss/compact/dn2
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

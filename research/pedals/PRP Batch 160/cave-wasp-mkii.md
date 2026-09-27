@@ -17,3 +17,23 @@
 - **Sources checked:**
   - https://www.effectsdatabase.com/model/cavepassive/wasp/mk2
   - https://www.talkbass.com/threads/cave-passive-pedals.598605/page-6
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+The indicators replace the LED indicator that traditional battery and DC powered pedals have on board, because, like all our pedals, the WASP MkII is totally passive and needs no batteries or external power.
+
+### Verified version references
+- The evidence references: MkII.
+
+### Verified diode terms
+- LED.
+
+### Verified sound evidence
+The "Sting" knob controls the amount of fuzz, and the "Aggression" knob looks after the thickness.
+We're very happy with how the mechanical indicators for this pedal and the Super Grunt overdrive turned out.
+
+### Sources checked in this pass
+1. Cave Passive Pedals The Wasp MkII | Effects Database: https://www.effectsdatabase.com/model/cavepassive/wasp/mk2

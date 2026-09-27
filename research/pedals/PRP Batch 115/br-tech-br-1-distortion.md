@@ -28,3 +28,13 @@ The available record supports its classification as a distortion pedal but does 
 
 ## Sources checked
 1. The Dirt Archive builder census / catalog record.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+BR Tech's BR-1 Distortion is cataloged as a distortion pedal.
+
+### Sources checked in this pass
+1. BR Tech BR-1 Distortion | Effects Database: https://www.effectsdatabase.com/model/brtech/distortion

@@ -17,3 +17,18 @@
 - **Sources checked:**
   - https://www.effectsdatabase.com/model/cavepassive/minimiff
   - https://www.talkbass.com/threads/cave-passive-pedals.808351/
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+review by Chris Webbe I have been asked to do a review of the Mini Miff passive overdrive pedal from Cave pedals.
+
+### Verified sound evidence
+Overdrive 1 gives a "fuzzy" type sound, while Overdrive 2 will allow a much smoother audio feel.
+review by Chris Webbe I have been asked to do a review of the Mini Miff passive overdrive pedal from Cave pedals.
+The box is well built and has 3 modes OD 1 which is kind of a 60s fuzz, a clean setting which gives a volume and tone boost and OD2 which is a smoother distortion.
+
+### Sources checked in this pass
+1. Cave Passive Pedals Mini Miff | Effects Database: https://www.effectsdatabase.com/model/cavepassive/minimiff

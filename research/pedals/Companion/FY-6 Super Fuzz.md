@@ -48,3 +48,21 @@ Effects Database has an exact Companion FY-6 record, while Shin-ei's FY-6 docume
 1. Effects Database - Shin-Ei Companion FY-6 Super Fuzz: https://www.effectsdatabase.com/model/shinei/companion/fy6
 2. Shin-ei - Effects Pedals: https://www.shin-ei.com/
 3. Effects Database - related FY-6 private-label records: https://www.effectsdatabase.com/model/zenta/fy6
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Companion's FY-6 Super Fuzz is cataloged as a fuzz pedal.
+
+### Verified version references
+- The evidence references: v1, v2.
+
+### Verified sound evidence
+99 Deluxe Alternado Fuzz Tone Expander Unit Univox U-250 Uni-Fuzz Honey Baby Crying (earliest Super Fuzz) Shin-Ei Companion FY-6 Super Fuzz Apollo no.
+846 Deluxe Fuzz Tone Expander Avora FY-6 Super Fuzz Clear Sound Super Fuzz Companion FY-6 Fuzz Master Crown Super Fuzz (v1: Honey) Factone Fuzz Machine Hagstrom Super Fuzz Hohner MF-50 Master Fuzz Control J.H.
+Experience FY-6 Super Fuzz (v1: Honey) Jax FY-6 Fuzz Master LRE Super-Fuzz (v1: Honey) Mana FY-6 Fuzz Master Mayfair Model No.
+
+### Sources checked in this pass
+1. Shin-Ei Companion FY-6 Super Fuzz | Effects Database: https://www.effectsdatabase.com/model/shinei/companion/fy6

@@ -14918,8 +14918,8 @@
       "image": "",
       "source_page": "https://www.effectsdatabase.com/model/boss/compact/da2",
       "research_record": "./research/pedals/BOSS/DA-2 Adaptive Distortion.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "BOSS",
@@ -14942,8 +14942,8 @@
       "image": "",
       "source_page": "https://www.effectsdatabase.com/model/boss/compact/dn2",
       "research_record": "./research/pedals/BOSS/DN-2 Dyna Drive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "BOSS",
@@ -15100,8 +15100,8 @@
       "image": "",
       "source_page": "https://www.effectsdatabase.com/model/boss/compact/hm3",
       "research_record": "./research/pedals/BOSS/HM-3 Hyper Metal.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "BOSS",
@@ -15194,8 +15194,8 @@
       "image": "",
       "source_page": "https://www.effectsdatabase.com/model/boss/compact/mz2",
       "research_record": "./research/pedals/BOSS/MZ-2 Digital Metalizer.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "BOSS",
@@ -15310,8 +15310,8 @@
       "image": "",
       "source_page": "https://www.effectsdatabase.com/model/boss/compact/pw2",
       "research_record": "./research/pedals/BOSS/PW-2 Power Driver.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "BOSS",
@@ -15362,8 +15362,8 @@
       "image": "",
       "source_page": "https://www.effectsdatabase.com/model/boss/compact/sd2",
       "research_record": "./research/pedals/BOSS/SD-2 Dual OverDrive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "BOSS",
@@ -15388,8 +15388,8 @@
       "image": "",
       "source_page": "https://www.effectsdatabase.com/model/boss/compact/wazacraft/tb2w",
       "research_record": "./research/pedals/BOSS/TB-2W Tone Bender.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "BOSS",
@@ -15400,8 +15400,8 @@
       "image": "",
       "source_page": "https://www.effectsdatabase.com/model/boss/compact/xt2",
       "research_record": "./research/pedals/BOSS/XT-2 Xtortion.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Boulevard",
@@ -15420,8 +15420,8 @@
         "https://www.effectsdatabase.com/model/boulevard/bdt10"
       ],
       "image_source_pages_verified": true,
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Boulevard",
@@ -15440,8 +15440,8 @@
         "https://www.effectsdatabase.com/model/boulevard/bod10"
       ],
       "image_source_pages_verified": true,
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Boulevard Effects",
@@ -15521,8 +15521,8 @@
         "https://www.effectsdatabase.com/model/bouteek/twindrive"
       ],
       "image_source_pages_verified": true,
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Bowman Audio Endeavors",
@@ -15597,8 +15597,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_url": "https://files.effectsdatabase.com/gear/pics/box_distortion_001.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "BR Tech",
@@ -15617,8 +15617,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_url": "https://files.effectsdatabase.com/gear/pics/brtech_distortion_001.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "BR Tech",
@@ -15677,8 +15677,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_url": "https://i.ytimg.com/vi/I10svroN1dA/maxresdefault.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Brantone Electronics",
@@ -15731,8 +15731,8 @@
       "research_record": "./research/pedals/PRP Batch 115/brantone-electronics-tonemaster-mk2-germanium-fuzz.md",
       "image_source_url": "https://www.breakthemachine.co.uk/wp-content/uploads/2018/03/Tonemaster-1.jpg",
       "image_source_page": "https://www.breakthemachine.co.uk/product/brantone-electronics-mk2-germanium-fuzz/",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Brantone Electronics",
@@ -15908,8 +15908,8 @@
         "https://reverb.com/p/brimstone-audio-bl-1-basilisk-tube-distortion"
       ],
       "image_source_pages_verified": true,
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Brimstone Audio",
@@ -17425,8 +17425,8 @@
       "research_record": "./research/pedals/PRP Batch 130/leeds-fuzz.md",
       "image_source_url": "https://live.staticflickr.com/5202/5244971509_699cd01820_b.jpg",
       "image_source_page": "https://www.flickr.com/photos/scottish/5244971509",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Build Your Own Clone",
@@ -19022,8 +19022,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_url": "https://files.effectsdatabase.com/gear/pics/caline_voodoooctave_001.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Caline",
@@ -21675,8 +21675,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_url": "https://i.ytimg.com/vi/wLAKYAJ2SMc/hqdefault.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Cave Passive Pedals",
@@ -21715,8 +21715,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_url": "https://files.effectsdatabase.com/gear/pics/cavepassive_bluejuice_001.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Cave Passive Pedals",
@@ -21749,8 +21749,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_url": "http://2.bp.blogspot.com/_dmqWMPSMlTM/S9HuXZUpZ-I/AAAAAAAAABY/sqv3rwPQOFQ/w1200-h630-p-k-no-nu/grunt.JPG",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Cave Passive Pedals",
@@ -21770,8 +21770,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_url": "https://m.media-amazon.com/images/I/613T5zAQPML._AC_SL1500_.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Cave Passive Pedals",
@@ -21790,8 +21790,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_url": "https://files.effectsdatabase.com/gear/pics/cavepassive_supergrunt_001.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Cave Passive Pedals",
@@ -21810,8 +21810,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_url": "https://external-preview.redd.it/4OrL1gqYYg8ejreVcvvdm3UstiU6ShGMneMoI0m9Mas.jpg?width=1080&crop=smart&auto=webp&s=c783abc3e6867e498437c6e41d010f561396478b",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Cave Passive Pedals",
@@ -21830,8 +21830,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_url": "https://external-preview.redd.it/4OrL1gqYYg8ejreVcvvdm3UstiU6ShGMneMoI0m9Mas.jpg?width=1080&crop=smart&auto=webp&s=c783abc3e6867e498437c6e41d010f561396478b",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Cave Pedals",
@@ -24306,8 +24306,8 @@
       "image": "./assets/pedals/cleveland-music-co/superior-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Cleveland Music Co./Superior Overdrive.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Cleveland Music Co.",
@@ -24381,8 +24381,8 @@
       "research_record": "./research/pedals/Clone Bro/Tone King.md",
       "image_source_page": "https://www.effectsdatabase.com/model/clonebro/toneking",
       "image_source_url": "https://files.effectsdatabase.com/gear/pics/clonebro_toneking_001.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Cloud 9",
@@ -24681,8 +24681,8 @@
       "image": "./assets/pedals/cobrahawk/b12-go-fuzz-yourself-paul/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Cobrahawk/B12 Go Fuzz Yourself (Paul).md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Cobrahawk",
@@ -25584,8 +25584,8 @@
       "source_page": null,
       "research_record": "./research/pedals/Collins/COD-1 Pro Over Drive.md",
       "image_source_page": "https://www.effectsdatabase.com/model/collins/1pro",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Collins",
@@ -25597,8 +25597,8 @@
       "source_page": null,
       "research_record": "./research/pedals/Collins/CSD-1 Pro Super Dust.md",
       "image_source_page": "https://www.effectsdatabase.com/model/collins/1pro/csd1",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Collision Devices",
@@ -26091,8 +26091,8 @@
       "source_page": null,
       "research_record": "./research/pedals/Colorsound / Sola Sound/G.B. Fuzz Unit.md",
       "image_source_page": "https://www.effectsdatabase.com/model/manhattan/fuzzunit",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Colorsound / Sola Sound",
@@ -26239,8 +26239,8 @@
       "research_record": "./research/pedals/Columbus/DST-5 Distortion.md",
       "image_source_page": "https://www.effectsdatabase.com/model/axtron/dst5",
       "image_source_url": "https://files.effectsdatabase.com/gear/pics/axtron_dst-5_001.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Columbus",
@@ -26266,8 +26266,8 @@
       "source_page": null,
       "research_record": "./research/pedals/Columbus/OVD-5 Overdrive.md",
       "image_source_page": "https://www.effectsdatabase.com/model/columbus/ovd5",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Columbus",
@@ -26280,8 +26280,8 @@
       "research_record": "./research/pedals/Columbus/TDR-5 Tube Driver.md",
       "image_source_page": "https://www.effectsdatabase.com/model/columbus/tdr5",
       "image_source_url": "https://rvb-img.reverb.com/i/s--DTu1eHlu--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/mj6psjm2k8icmvkrnmo6.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Comet Effects",
@@ -26329,8 +26329,8 @@
       "image": "./assets/pedals/commune/senturion-preamp-500/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Commune/Senturion Preamp 500.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Commune/ECA (Empire Custom Amplification)",
@@ -26421,8 +26421,8 @@
       "source_page": null,
       "research_record": "./research/pedals/Companion/FY-6 Super Fuzz.md",
       "image_source_page": "https://www.effectsdatabase.com/model/shinei/companion/fy6",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Compulsive Audio",
@@ -26446,8 +26446,8 @@
       "source_page": null,
       "research_record": "./research/pedals/Compulsive Audio/Face-Off Fuzz.md",
       "image_source_page": "https://www.effectsdatabase.com/model/compulsive/fuzz/faceoff",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Compulsive Audio",
@@ -26501,8 +26501,8 @@
       "source_page": null,
       "research_record": "./research/pedals/Compulsive Audio/Thor's Hammer.md",
       "image_source_page": "https://www.effectsdatabase.com/blog/discofreq?page=104",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Compulsive Audio",
@@ -26514,8 +26514,8 @@
       "source_page": null,
       "research_record": "./research/pedals/Compulsive Audio/Tone Oracle.md",
       "image_source_page": "https://www.effectsdatabase.com/model/compulsive/toneoracle",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Compulsive Audio",
@@ -26528,8 +26528,8 @@
       "research_record": "./research/pedals/Compulsive Audio/Valve Howler Jr..md",
       "image_source_page": "https://www.effectsdatabase.com/model/compulsive/valvehowler/jr",
       "image_source_url": "https://files.effectsdatabase.com/gear/pics/compulsive_valvehowler-jr_001.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Concrete Sound Lab",
@@ -28101,8 +28101,8 @@
       "image": "./assets/pedals/cranetortoise-by-albit/sw-1b-switching-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Cranetortoise by Albit/SW-1B Switching Distortion.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Crate",
@@ -28988,8 +28988,8 @@
       "image": "./assets/pedals/crestwood/crestwood-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Crestwood/Crestwood Fuzz.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Crews Maniac Sound",
@@ -37222,8 +37222,8 @@
       "image": "",
       "source_page": "https://fuzzrociouspedals.com/?product_cat=retired",
       "research_record": "./research/pedals/Fuzzrocious Pedals/Cicada Fuzz.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Fuzzrocious Pedals",

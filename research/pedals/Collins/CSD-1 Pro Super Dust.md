@@ -43,3 +43,13 @@ The exact Effects Database model page confirms the model name, Collins XXX-1 Pro
 1. Effects Database - Collins CSD-1 Pro Super Dust: https://www.effectsdatabase.com/model/collins/1pro/csd1
 2. Effects Database - Eleca Super Dust: https://www.effectsdatabase.com/model/eleca/alu/superdust
 3. Effects Database - Collins XXX-1 Pro Series: https://www.effectsdatabase.com/model/collins/1pro
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Collins's CSD-1 Pro Super Dust is cataloged as a fuzz pedal.
+
+### Sources checked in this pass
+1. Collins CSD-1 Pro Super Dust | Effects Database: https://www.effectsdatabase.com/model/collins/1pro/csd1

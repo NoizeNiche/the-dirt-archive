@@ -42,3 +42,17 @@ Effects Database lists the exact Thor's Hammer model in the Compulsive Audio cat
 ## Sources checked
 1. Effects Database - Compulsive Audio: John De Luca interview: https://www.effectsdatabase.com/interviews/brands/compulsive
 2. Effects Database - Compulsive Audio weekly catalog introduction: https://www.effectsdatabase.com/blog/discofreq?page=104
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Compulsive Audio's Thor's Hammer is cataloged as a distortion pedal.
+
+### Verified sound evidence
+My inspiration mainly comes from requests that friends of mine have made regarding the type of tone they are looking for.
+The Heavenly Boost was named because it really makes your tone sound like He
+
+### Sources checked in this pass
+1. [interview] Compulsive Audio: John De Luca | Effects Database: https://www.effectsdatabase.com/interviews/brands/compulsive

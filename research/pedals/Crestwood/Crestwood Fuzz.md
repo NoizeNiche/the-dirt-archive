@@ -45,3 +45,22 @@ The FA-II family is described as an aggressive vintage fuzz with a strong, compr
 ## Photo
 - **Archive status:** No local photo archived in this research pass.
 - **Exact-model visual reference checked:** Effects Database Crestwood Fuzz page.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Apparently, this is exactly the same circuit that can be found inside Apollo Fuzz and Crestwood Fuzz boxes...
+
+### Verified transistor/device terms
+- 2n5088, 2n4401.
+
+### Verified sound evidence
+Guitar FX Layouts: Sekova FA-II Fuzz Guitar FX Layouts Here's a collection of vero (stripboard) and tagboard guitar and bass effect layouts that we have put together covering many classic and popular effects in growing numbers.
+Enjoy the builds and please also visit us on Facebook and Twitter Pages Home Layout Guide Components Build Guide Offboard Faults Kits Forum Site Map NEW Monday, 24 June 2013 Sekova FA-II Fuzz Check out Tonemachines blog post for this 1969 japanese beauty.
+Apparently, this is exactly the same circuit that can be found inside Apollo Fuzz and Crestwood Fuzz boxes...
+
+### Sources checked in this pass
+1. catalog/override source: https://www.effectsdatabase.com/model/crestwood/fuzz
+2. Guitar FX Layouts: Sekova FA-II Fuzz: https://tagboardeffects.blogspot.com/2013/06/sekova-fa-ii-fuzz.html

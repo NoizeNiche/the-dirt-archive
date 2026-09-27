@@ -31,3 +31,27 @@ Blue Meanie is voiced for thick, sustaining germanium fuzz rather than a tight m
 
 ## Sources checked
 1. Effects Database — Brantone Electronics Blue Meanie: https://www.effectsdatabase.com/model/brantone/bluemeanie
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Based on the 1970s MK3 tone bender, this is the only fuzz pedal you will ever need.
+
+### Verified color/finish evidence
+- Brantone Electronics Blue Meanie - Germanium Fuzz
+
+### Verified version references
+- The evidence references: MK3.
+
+### Verified transistor/device terms
+- Germanium Fuzz.
+
+### Verified sound evidence
+Brantone Electronics Blue Meanie - Germanium Fuzz
+Sound-wise it's just incredible...a classic huge, fat, sickly germanium wall of fuzz tone that's enough to please any fuzz head.
+Based on the 1970s MK3 tone bender, this is the only fuzz pedal you will ever need.
+
+### Sources checked in this pass
+1. Brantone Electronics Blue Meanie - Germanium Fuzz | Effects Database: https://www.effectsdatabase.com/model/brantone/bluemeanie

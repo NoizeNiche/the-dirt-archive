@@ -42,3 +42,13 @@ The Collins XXX-1 Pro Series page explicitly lists COD-1 Pro Over Drive, confirm
 ## Sources checked
 1. Effects Database - Collins XXX-1 Pro Series: https://www.effectsdatabase.com/model/collins/1pro
 2. Freestompboxes - “Collins - COD-1 Overdrive & CDT-1 Distortion”: https://www.freestompboxes.org/viewforum.php?f=11&sid=04905a1225994e4575af242b1b2fd0f8e&start=575
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Collins's COD-1 Pro Over Drive is cataloged as an overdrive pedal.
+
+### Sources checked in this pass
+1. Collins XXX-1 Pro Series | Effects Database: https://www.effectsdatabase.com/model/collins/1pro

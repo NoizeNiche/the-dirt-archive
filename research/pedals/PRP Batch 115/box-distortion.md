@@ -28,3 +28,13 @@ The archive can safely identify this record as a distortion pedal, but the survi
 
 ## Sources checked
 1. The Dirt Archive builder census / catalog record.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+BoX's Distortion is cataloged as a distortion pedal.
+
+### Sources checked in this pass
+1. BoX Distortion | Effects Database: https://www.effectsdatabase.com/model/box/distortion

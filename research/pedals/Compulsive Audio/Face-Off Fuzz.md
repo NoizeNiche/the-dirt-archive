@@ -41,3 +41,13 @@ Effects Database provides an exact model reference within its Fuzz Face catalog 
 1. Effects Database - Compulsive Audio: John De Luca interview: https://www.effectsdatabase.com/interviews/brands/compulsive
 2. Effects Database - Compulsive Audio Face-Off Fuzz, listed as a silicon Fuzz Face: https://www.effectsdatabase.com/model/compulsive/fuzz/faceoff
 3. Effects Database - Compulsive Audio weekly catalog introduction: https://www.effectsdatabase.com/blog/discofreq?page=104
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Compulsive Audio's Face-Off Fuzz is cataloged as a fuzz pedal.
+
+### Sources checked in this pass
+1. Compulsive Audio | Effects Database: https://www.effectsdatabase.com/model/compulsive

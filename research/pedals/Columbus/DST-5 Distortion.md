@@ -43,3 +43,24 @@ Effects Database maintains an exact Columbus DST-5 record within the shared DST-
 
 ## Sources checked
 1. Effects Database - Axtron DST-5 Distortion and related Columbus DST-5 family: https://www.effectsdatabase.com/model/axtron/dst5
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Columbus's DST-5 Distortion is cataloged as a distortion pedal.
+
+### Verified color/finish evidence
+- A red LED indicator displays effect status, and a rear sliding battery compartment allows easy access for 9V power.
+
+### Verified diode terms
+- LED.
+
+### Verified sound evidence
+Designed for electric guitar and keyboard, the DST-5 offers a versatile range of drive tones from mild overdrive to saturated distortion, with a simple control layout that makes it easy to dial in a variety of textures suited to rock, pop, and early metal tones.
+The circuit delivers a harmonically rich distortion with a slightly fuzzy edge, combining moderate compression with a responsive gain structure that reacts dynamically to player input.
+The three-knob interface includes Level, Tone, and Distortion controls, allowing precise adjustment of output volume, EQ brightness, and gain intensity.
+
+### Sources checked in this pass
+1. Axtron DST-5 Distortion | Effects Database: https://www.effectsdatabase.com/model/axtron/dst5

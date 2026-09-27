@@ -17,3 +17,13 @@
 - **Sources checked:**
   - https://www.effectsdatabase.com/model/cavepassive/60sbreakup
   - https://www.cavepassivepedals.com.au/
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Cave Passive Pedals's 60's Break Up is cataloged as an overdrive pedal.
+
+### Sources checked in this pass
+1. Cave Passive Pedals 60's Break Up | Effects Database: https://www.effectsdatabase.com/model/cavepassive/60sbreakup

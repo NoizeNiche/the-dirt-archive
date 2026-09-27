@@ -31,3 +31,16 @@ The model name establishes a dual-drive/boost concept with an additional fuzz-in
 ## Sources checked
 1. Effects Database — 2009 Bouteek introduction: https://www.effectsdatabase.com/updates/weekly/20090921
 2. Aion FX — Vortex Amp Distortion project/history: https://aionfx.com/project/vortex-amp-distortion/
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Bouteek's Twin Drive and Boost - Ultimate Drive with Fuzz Inject is cataloged as a fuzz / overdrive pedal.
+
+### Verified sound evidence
+Bouteek Twin Drive and Boost - Ultimate Drive with Fuzz Inject
+
+### Sources checked in this pass
+1. Bouteek Twin Drive and Boost - Ultimate Drive with Fuzz Inject | Effects Database: https://www.effectsdatabase.com/model/bouteek/twindrive

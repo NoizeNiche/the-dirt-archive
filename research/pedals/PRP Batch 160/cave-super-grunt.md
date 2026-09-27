@@ -17,3 +17,22 @@
 - **Sources checked:**
   - https://www.effectsdatabase.com/model/cavepassive/grunt/super
   - https://www.talkbass.com/threads/cave-passive-pedals.598605/page-6
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Like all Cave pedals, no batteries or external power are required - there is a mouse on a treadmill inside the pedal case :D The Super Grunt is also the first Cave Passive Pedal available to the general public to feature a mechanical indicator (instead of the LEDs that powered pedals usually have).
+
+### Verified version references
+- The evidence references: MkII.
+
+### Verified diode terms
+- LEDs.
+
+### Verified sound evidence
+The original Grunt overdrive/boost circuit is retained, but with a flick of the toggle switch the higher boost "super" circuit comes into play.
+
+### Sources checked in this pass
+1. Cave Passive Pedals Super Grunt | Effects Database: https://www.effectsdatabase.com/model/cavepassive/grunt/super

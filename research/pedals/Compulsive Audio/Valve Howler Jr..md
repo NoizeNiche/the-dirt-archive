@@ -46,3 +46,16 @@ Effects Database provides an exact Valve Howler Jr. model record and an eBay pro
 ## Sources checked
 1. Effects Database - Compulsive Audio Valve Howler Jr.: https://www.effectsdatabase.com/model/compulsive/valvehowler/jr
 2. Effects Database - Compulsive Audio: John De Luca interview: https://www.effectsdatabase.com/interviews/brands/compulsive
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Published on April 12, 2011 Compulsive Audio overdrive pedal Information Compulsive Audio Tube Screamer TS-808 overdrive pedal clone with various boutique mods - including switchable clipping.
+
+### Verified sound evidence
+Published on April 12, 2011 Compulsive Audio overdrive pedal Information Compulsive Audio Tube Screamer TS-808 overdrive pedal clone with various boutique mods - including switchable clipping.
+
+### Sources checked in this pass
+1. Compulsive Audio Valve Howler Jr. | Effects Database: https://www.effectsdatabase.com/model/compulsive/valvehowler/jr

@@ -42,3 +42,23 @@ Effects Database lists Tone King alongside Taurus as one of Clone Bro's first ca
 ## Sources checked
 1. Effects Database — Clone Bro Tone King: https://www.effectsdatabase.com/model/clonebro/toneking
 2. Effects Database — 2011 weekly overview: https://www.effectsdatabase.com/blog/discofreq?page=101
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Clone Bro's Tone King is cataloged as an overdrive pedal.
+
+### Verified color/finish evidence
+- True Bypassed 9v Battery clip Neutrik Jacks Bright Blue and White LED's Space Saving Design Jacks and 9v on the back for best pedal board fit.
+
+### Verified diode terms
+- LED.
+
+### Verified sound evidence
+The Tone King adds an independent tone (phat) switch for each channel giving you the control to tailor the pedal to your rig.
+Drive, Tone and Level Knobs for each channel Customize your Tone King completely for only $35 more!
+
+### Sources checked in this pass
+1. Clone Bro Tone King | Effects Database: https://www.effectsdatabase.com/model/clonebro/toneking

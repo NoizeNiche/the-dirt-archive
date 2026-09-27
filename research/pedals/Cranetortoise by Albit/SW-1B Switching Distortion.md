@@ -45,3 +45,16 @@ The switching section is designed for rhythmic, chopped textures. Exact-model do
 2. Encores - Cranetortoise SW-1B
 3. ALBIT official support
 4. Effects Database - Cranetortoise by Albit
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Cranetortoise by Albit's SW-1B Switching Distortion is cataloged as a distortion pedal.
+
+### Verified version references
+- The evidence references: V3.
+
+### Sources checked in this pass
+1. CRANETORTOISE | ENCORES エフェクターのカテゴリー | ENCORES: https://encores.jp/effector_category/cranetortoise

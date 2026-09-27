@@ -49,3 +49,13 @@ Effects Database provides the exact model record and model-specific product info
 ## Sources checked
 1. Effects Database - Compulsive Audio Tone Oracle: https://www.effectsdatabase.com/model/compulsive/toneoracle
 2. Effects Database - Compulsive Audio: John De Luca interview: https://www.effectsdatabase.com/interviews/brands/compulsive
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Compulsive Audio's Tone Oracle is cataloged as an overdrive pedal.
+
+### Sources checked in this pass
+1. Compulsive Audio Tone Oracle | Effects Database: https://www.effectsdatabase.com/model/compulsive/toneoracle

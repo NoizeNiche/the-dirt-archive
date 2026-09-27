@@ -17,3 +17,16 @@
 - **Sources checked:**
   - https://www.effectsdatabase.com/model/cavepassive/bluejuice
   - https://www.cavepassivepedals.com.au/
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Cave Passive Pedals's Blue Juice is cataloged as an overdrive pedal.
+
+### Verified sound evidence
+Turn the bite control anti-clockwise to add more drive and use the squash control to tighten or loosen up the drive tone.
+
+### Sources checked in this pass
+1. Cave Passive Pedals Blue Juice | Effects Database: https://www.effectsdatabase.com/model/cavepassive/bluejuice

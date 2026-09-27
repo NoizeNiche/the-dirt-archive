@@ -33,3 +33,24 @@ The Tonemaster MK2 is voiced as a classic British germanium fuzz with long susta
 ## Sources checked
 1. Effects Database — Brantone Electronics ToneMaster Mk2: https://www.effectsdatabase.com/model/brantone/tonemaster/mk2
 2. MusicRadar — Brantone Electronics Tonemaster Mk2 review: https://www.musicradar.com/reviews/brantone-electronics-tonemaster-mk2
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+But as far as delivery of amazing fuzz tone and sustain, the Tonemaster is unbeatable and really is a phenomenal sounding fuzz pedal.
+
+### Verified version references
+- The evidence references: MK2, Mk2.
+
+### Verified transistor/device terms
+- Germanium fuzz.
+
+### Verified sound evidence
+Brantone Electronics ToneMaster Mk2 Germanium fuzz
+But as far as delivery of amazing fuzz tone and sustain, the Tonemaster is unbeatable and really is a phenomenal sounding fuzz pedal.
+Powered by a PP3 9v battery or standard power brick, it uses three NOS Mullard Germanium transistors that have been specially selected & tested for gain and leakage.
+
+### Sources checked in this pass
+1. Brantone Electronics ToneMaster Mk2 Germanium fuzz | Effects Database: https://www.effectsdatabase.com/model/brantone/tonemaster/mk2

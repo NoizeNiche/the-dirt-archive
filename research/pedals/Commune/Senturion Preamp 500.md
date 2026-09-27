@@ -43,3 +43,19 @@ Moby Dick's historical catalog lists the exact Preamp 500 product, while the Eff
 ## Sources checked
 1. Moby Dick - Commune catalog: https://www.mobydick.asia/cf.html
 2. Effects Database - pedal catalog, Commune Senturion Preamp 500 entry: https://www.effectsdatabase.com/taxonomy/term/8/0?page=46
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+PedalFinder Guitar Pedal Finder Explore Brands Guides Pedalboards FAQ Home / Commune / Senturion Preamp 500 Commune Senturion Preamp 500 The Commune Senturion Preamp 500 is a bold, versatile preamp that's sure to breathe new life into your guitar tone.
+
+### Verified sound evidence
+Commune Senturion Preamp 500 - Boost Pedal
+PedalFinder Guitar Pedal Finder Explore Brands Guides Pedalboards FAQ Home / Commune / Senturion Preamp 500 Commune Senturion Preamp 500 The Commune Senturion Preamp 500 is a bold, versatile preamp that's sure to breathe new life into your guitar tone.
+At its core, the Senturion is a high-headroom preamp that can push your amp into glorious, harmonically-rich overdrive.
+
+### Sources checked in this pass
+1. Commune Senturion Preamp 500 - Boost Pedal | PedalFinder: https://guitarpedalfinder.com/pedals/commune-senturion-preamp-500
+2. Commune Senturion Preamp 500 - Effects Database: https://www.effectsdatabase.com/model/commune/senturion/preamp500

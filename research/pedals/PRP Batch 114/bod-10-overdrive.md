@@ -29,3 +29,13 @@ The surviving documentation establishes the BOD-10 as an overdrive pedal, but do
 
 ## Sources checked
 1. Effects Database — Boulevard BOD-10 Overdrive: https://www.effectsdatabase.com/model/boulevard/bod10
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Boulevard's BOD-10 Overdrive is cataloged as an overdrive pedal.
+
+### Sources checked in this pass
+1. Boulevard BOD-10 Overdrive | Effects Database: https://www.effectsdatabase.com/model/boulevard/bod10

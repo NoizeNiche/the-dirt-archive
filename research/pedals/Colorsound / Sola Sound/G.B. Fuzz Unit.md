@@ -48,3 +48,25 @@ Exact-label historical and marketplace photographs should be used to separate G.
 ## Sources checked
 1. Kit Rae - A Fuzz and Muff Pedal Timeline: https://www.kitrae.net/music/Fuzz_Big_Muff_Timeline.html
 2. Effects Database - Manhattan Fuzz Unit family reference: https://www.effectsdatabase.com/model/manhattan/fuzzunit
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Colorsound / Sola Sound's G.B. Fuzz Unit is cataloged as a fuzz pedal.
+
+### Verified color/finish evidence
+- Produced by Sola Sound (Colorsound) for third-party labels, it shares identical electronics with these companion models, differing only in finish and branding.
+- The pedal is housed in a folded and stamped steel enclosure characteristic of Colorsound and Sola Sound units of the period, featuring bright painted finishes such as orange or silver with simple screen-printed labeling.
+
+### Verified transistor/device terms
+- BC109.
+
+### Verified sound evidence
+Fuzz Unit, CMI Fuzz Unit, and West Wood Fuzz Unit.
+The circuit is a silicon-based fuzz design derived from the Electro-Harmonix Big Muff but modified with one fewer gain stage and minor component value changes.
+This alteration produces a distinctive fuzz character that combines the saturated sustain of a Big Muff with tighter low-end focus and a more open midrange.
+
+### Sources checked in this pass
+1. Manhattan Fuzz Unit | Effects Database: https://www.effectsdatabase.com/model/manhattan/fuzzunit
