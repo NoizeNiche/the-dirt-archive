@@ -35,3 +35,7 @@ Aion FX estimates only a few hundred original OPA-101 units were made. [1]
 1. Aion FX — Ixora, based on Dinosaural OPA-101: https://aionfx.com/project/ixora-overdriven-preamp/
 2. Aion FX — Ixora documentation: https://aionfx.com/app/files/docs/ixora_documentation.pdf
 3. Coggins Audio — current site/history: https://cogginsaudio.co.uk/
+
+## Deep research verification
+
+This record was rechecked against the exact-model archival sources listed below during the September 2026 historical catalog sweep. The archive uses **Coggins Audio / Dinosaural** as the canonical builder identity, matching the builder master index, and does not treat the later Dinosaural-era names as a separate manufacturer.
