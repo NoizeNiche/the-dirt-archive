@@ -3,39 +3,52 @@
 ## PRP identity
 - **Archive parent:** Octavian
 - **Builder:** Chicago Iron
-- **Catalog type:** Fuzz
-- **Identity:** Chicago Iron Octavian, a Tycobrahe Octavia-style octave-up fuzz with Volume and Boost controls.
+- **Catalog type:** Fuzz / Octave
+- **Identity:** Tycobrahe Octavia-style octave-up fuzz with Volume and Boost controls; Effects Database dates the model from October 2004 onward. [1][2]
 
-## What this pedal is
-Effects Database documents the Chicago Iron Octavian as an octave-up fuzz and records the model from October 2004 onward. The pedal uses Volume and Boost controls, with Boost affecting sustain before the octave effect blooms. [1]
+## Controls
+- **VOLUME**
+- **BOOST**
+The Boost control increases sustain of the fundamental before the octave effect becomes dominant. [1]
 
-Effects Database's Octavia family documentation identifies the Chicago Iron Octavian as a Tycobrahe Octavia copy. [2]
-
-## Colorways
-No complete factory colorway sequence was established.
-
-## Versions and factory options
-Controls:
-- Volume
-- Boost [1]
-
-The boost control increases sustain of the fundamental before the octave effect becomes dominant. [1]
-
-No numbered factory version was established in the checked exact-model sources.
-
-## Version changes
-The Chicago Iron Octavian Plus is a distinct related model with footswitchable octave and additional requested features; it is not merged into the standard Octavian identity. [3]
+## Circuit lineage
+- **Primary reference:** Tycobrahe **Octavia**.
+- Effects Database explicitly identifies the Chicago Iron Octavian as an Octavia copy. [2]
 
 ## Transistor
-No exact-model transistor part number was established in the checked sources.
+- Exact production transistor/device part number is not documented.
 
-## Diode
-No exact-model diode specification was established.
+## Diode / clipping
+- Exact clipping-device type and part number are not documented.
+
+## Power
+- Exact model-specific voltage/current details are not securely preserved.
+
+## Version history
+- Effects Database documents the standard Octavian from **October 2004**.
+- **Octavian Plus** is a separate related model with additional footswitchable octave features and is not merged into this record. [1][3]
+
+## Construction / finish
+- Exact-model period production is documented.
+- Complete factory colorway chronology is not established.
 
 ## Sound
-The Octavian is voiced as an octave-up fuzz. The Boost control allows the fundamental note to sustain longer before the upper octave blooms, giving control over how quickly the octave character takes over. [1]
+Octavian is intended to reproduce the upper-octave fuzz character of the Tycobrahe Octavia family. Boost controls how long the fundamental sustains before the octave component becomes dominant, allowing the octave effect to emerge more gradually. [1][2]
+
+## Research confidence
+- **Identity:** High
+- **Tycobrahe Octavia lineage:** High
+- **Two-control map:** High
+- **2004 catalog presence:** High
+- **Exact components:** Unknown
+
+## Deep research verification
+Effects Database's Octavian and Octavian Plus records were cross-checked. The sources establish the model's Octavia-copy lineage, two-control interface, historical date and separation from Octavian Plus. [1][2][3]
 
 ## Sources checked
 1. Effects Database — Chicago Iron Octavian: https://www.effectsdatabase.com/model/chicagoiron/octavian
 2. Effects Database — Octavian family lineage: https://www.effectsdatabase.com/model/chicagoiron/octavian
 3. Effects Database — Chicago Iron Octavian Plus: https://www.effectsdatabase.com/model/chicagoiron/octavian/plus
+
+## Photo
+- Exact-model photo status remains handled separately.
