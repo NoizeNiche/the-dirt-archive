@@ -1,31 +1,40 @@
-# EarthQuaker Devices — Sunn O))) Life Pedal / Life Pedal V2 - consolidated identity
+# EarthQuaker Devices — Sunn O))) Life Pedal / Life Pedal V2 — consolidated identity
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Sunn O))) Life Pedal / Life Pedal V2 — consolidated identity
 - **Builder:** EarthQuaker Devices
-- **Pedal:** Sunn O))) Life Pedal / Life Pedal V2 - consolidated identity
 - **Catalog type:** Distortion
-- **Research level:** Deep
-- **Deep research status:** Consolidated identity audit
-- **Identity basis:** The archive explicitly labels this record as a consolidated Life Pedal / Life Pedal V2 identity while a separate detailed V3-era Life Pedal record also exists.
+- **Identity:** EarthQuaker Devices's Sunn O))) Life Pedal / Life Pedal V2 — consolidated identity.
 
-## Identity finding
-EarthQuaker Devices describes the **Sunn O))) Life Pedal** as an octave distortion and booster design. The archive contains multiple labels for Life Pedal, including a consolidated Life Pedal / Life Pedal V2 record and an expanded product record. [1]
+## What this pedal is
+EarthQuaker Devices's Sunn O))) Life Pedal / Life Pedal V2 — consolidated identity is cataloged as a distortion pedal.
 
-This entry should remain a **catalog reconciliation record** rather than accumulating another competing technical description.
+## Colorways
+- The “Amplitude” side is faithfully modeled after the classic “White Face” distortion unit, using modern, reliable components to last a lifetime.
 
-## Verified relationship
-The detailed archive record **Sunn O))) Life Pedal - Octave Distortion + Booster** documents a later **V3** reference and EarthQuaker's description of the octave section and additional footswitch. [1][2]
+## Versions and factory options
+- The verified evidence references: V2, V3, v3.
+- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
 
-The current consolidated identity should be used to preserve the historical relationship among Life Pedal and Life Pedal V2 labels without overwriting version-specific evidence.
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Documented terms in the verified sources: LED.
+- The archive records only the component information explicitly present in these sources.
+
+## Sound
+EarthQuaker Devices describes the **Sunn O))) Life Pedal** as an octave distortion and booster design.
+The detailed archive record **Sunn O))) Life Pedal - Octave Distortion + Booster** documents a later **V3** reference and EarthQuaker's description of the octave section and additional footswitch.
+https://reverb.com/p/earthquaker-devices-sunn-o-life-pedal-octave-distortion-plus-booster-v3 — exact V3 product reference.
+
+## Sources checked
+1. catalog/override source: https://reverb.com/p/earthquaker-devices-sunn-o-life-pedal-octave-distortion-plus-booster-v3
+2. Sunn O))) Life Pedal Octave Distortion + Booster &mdash; EarthQuaker Devices: https://www.earthquakerdevices.com/life-pedal
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived for this consolidated identity.
-- Photo assignment should remain version-aware before any images are merged.
-
-## Research evidence
-**Sources checked:**
-1. https://www.earthquakerdevices.com/life-pedal — manufacturer Life Pedal product page.
-2. https://reverb.com/p/earthquaker-devices-sunn-o-life-pedal-octave-distortion-plus-booster-v3 — exact V3 product reference.
-3. Existing archive deep-research record: Sunn O))) Life Pedal - Octave Distortion + Booster.md.
-
-**Research confidence:** High that these records describe the Life Pedal family; the exact boundary between the consolidated V2 identity and individual version records should remain a data-maintenance task.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
