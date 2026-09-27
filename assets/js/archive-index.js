@@ -142,7 +142,7 @@ function facetMatches(x){
 }
 
 function matchesOtherFacets(x,exceptGroup){
-  return (!typeMatches(x)||!(!selectedBuilder||x.company===selectedBuilder)||!searchMatches(x))?false:
+  return (!typeMatches(x)||!coverageMatches(x)||!(!selectedBuilder||x.company===selectedBuilder)||!searchMatches(x))?false:
     (exceptGroup==='transistor'||hasSelectedFacet(x,'transistor',selectedTransistors))&&
     (exceptGroup==='clipping'||hasSelectedFacet(x,'clipping',selectedClippings));
 }
@@ -244,9 +244,9 @@ function filteredItems(){
 }
 
 function renderTypeMenu(){
-  const counts={All:new Set(items.filter(x=>facetMatches(x)).map(x=>entryKey(x))).size};
+  const counts={All:new Set(items.filter(x=>coverageMatches(x)&&facetMatches(x)).map(x=>entryKey(x))).size};
   for(const t of ['Overdrive','Distortion','Fuzz']){
-    counts[t]=new Set(items.filter(x=>(x.types||[]).includes(t)&&facetMatches(x)).map(x=>entryKey(x))).size;
+    counts[t]=new Set(items.filter(x=>coverageMatches(x)&&(x.types||[]).includes(t)&&facetMatches(x)).map(x=>entryKey(x))).size;
   }
   const types=[
     ['All','Everything in the archive'],
@@ -293,7 +293,7 @@ function renderBuilders(){
 
 function render(){
   let normalized=false;
-  if(selectedBuilder&&!items.some(x=>x.company===selectedBuilder&&typeMatches(x)&&searchMatches(x)&&facetMatches(x))){
+  if(selectedBuilder&&!items.some(x=>x.company===selectedBuilder&&typeMatches(x)&&coverageMatches(x)&&searchMatches(x)&&facetMatches(x))){
     selectedBuilder='';
     normalized=true;
   }
