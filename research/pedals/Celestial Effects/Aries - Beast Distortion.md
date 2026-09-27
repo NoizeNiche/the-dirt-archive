@@ -3,36 +3,60 @@
 ## PRP identity
 - **Archive parent:** Aries - Beast Distortion
 - **Builder:** Celestial Effects
-- **Catalog type:** Distortion
-- **Identity:** Celestial Effects Aries Beast Distortion, an analog boost/overdrive/distortion circuit with two cascaded op-amp gain stages, asymmetrical MOSFET clipping, three-band EQ, and an FET output gain stage.
+- **Catalog type:** Distortion / Overdrive / Boost
+- **Identity:** Two-stage op-amp gain design with asymmetrical MOSFET clipping, three-band EQ and a final FET gain stage. [1][2]
 
-## What this pedal is
-Celestial Effects describes the Aries as usable as a boost, overdrive, or distortion. Its design stacks two op-amp gain stages. The first stage does not use clipping diodes and is described as fuller and more open; the second uses asymmetrical MOSFET clipping diodes and is described as tighter and more compressed. A three-band EQ follows, with an FET gain stage restoring level and adding a tube-like character. [1]
+## Controls
+- **VOLUME**
+- **MIDS**
+- **BASS**
+- **TREBLE**
+- **GAIN**
+- **DRIVE** [1][2]
 
-A Pedal Finder review confirms the six main controls as Volume, Mids, Bass, Treble, Gain, and Drive. [2]
+## Circuit architecture
+1. First op-amp gain stage is described as fuller/open and does not use clipping diodes.
+2. Second op-amp gain stage provides tighter/compressed distortion using **asymmetrical MOSFET clipping diodes**.
+3. A three-band EQ follows the clipping stages.
+4. A final **FET gain stage** restores level and contributes additional amp-like character. [1]
 
-## Colorways
-- A Premier Guitar review documents the reviewed Aries as an orange wedge-shaped enclosure.
-- The checked sources do not establish a complete factory colorway sequence.
+## Transistor / active device
+- **Op-amp stages:** two cascaded gain sections.
+- **Final gain stage:** FET.
+- Exact op-amp/FET part numbers are not established in the reviewed sources.
 
-## Versions and factory options
-The documented control set is **Volume, Mids, Bass, Treble, Gain, and Drive**. [1][2]
+## Diode / clipping
+- **Asymmetrical MOSFET clipping diodes** in the second gain stage.
+- Exact MOSFET device number is not established. [1]
 
-No formal numbered factory V1/V2 sequence was established.
+## Power
+- Model-specific voltage/current information is not securely preserved in the reviewed source set.
 
-## Version changes
-No reliable numbered revision history was found in the checked sources.
+## Construction / finish
+- Orange wedge-style exact-model example documented by Premier Guitar.
+- No complete factory finish chronology established.
 
-## Transistor
-The Aries uses a final **FET gain stage**. The specific FET part number was not established in the checked sources. [1]
-
-## Diode
-The second op-amp gain stage uses **asymmetrical MOSFET clipping diodes**. Exact MOSFET part number was not established. [1]
+## Version history
+- No numbered electronic revision established.
 
 ## Sound
-The first gain stage supplies a more open response, while the second clipping stage supplies a tighter and more compressed distortion voice. The three-band EQ and final FET stage provide additional shaping and level recovery. Celestial Effects positions the pedal across boost, overdrive, and distortion use cases. [1][3]
+Aries is designed to function as boost, overdrive or distortion. The first stage remains open and fuller, while the asymmetrical MOSFET-clipped second stage tightens and compresses the sound. The three-band EQ and final FET stage broaden the usable range and restore output after the gain stages. [1][3]
+
+## Research confidence
+- **Identity:** High
+- **Two-stage op-amp architecture:** High
+- **Asymmetrical MOSFET clipping:** High
+- **Final FET stage:** High
+- **Six-control map:** High
+- **Exact active-device part numbers:** Unknown
+
+## Deep research verification
+Celestial Effects' Aries owner's manual and independent Pedal Finder/Premier Guitar coverage were cross-checked. The manual provides the detailed signal architecture and clipping method; independent coverage confirms the six-control layout and product identity. [1][2][3]
 
 ## Sources checked
 1. Celestial Effects — Aries Beast Distortion Owner's Manual: https://www.celestialeffects.com/pdfpages/ariesusermanual.pdf
-2. Pedal Finder — Aries Beast Distortion review: https://www.celestialeffects.com/pdfpages/AriesReview02-01-16.pdf
+2. Pedal Finder — Aries Beast Distortion Review: https://www.celestialeffects.com/pdfpages/AriesReview02-01-16.pdf
 3. Premier Guitar — Celestial Effects Aries Beast Distortion Review: https://www.premierguitar.com/gear/celestial-effects-aries-beast-distortion-review
+
+## Photo
+- Exact-model photo status remains handled separately.
