@@ -7,25 +7,46 @@
 - **Identity:** Coffin Gear / Coffin Case Batula Fuzz.
 
 ## What this pedal is
-The Dirt Archive's verified catalog census records this exact builder/model identity and classifies it as **Fuzz**. The retained source material does not preserve enough exact-model documentation to safely assign circuit lineage, complete controls, component values, or revision history.
+Effects Database catalogs the exact model as **Coffin Gear Batula Fuzz** and classifies it as a fuzz pedal. Audiofanzine separately identifies the exact model as the **Coffin Case Batula Fuzz** and reports that Coffin Case released it as a **very limited-edition pedal** in November 2008. These sources support retaining the combined builder identity used by the archive.
 
-## Colorways
-No complete factory colorway sequence was established.
+## Controls / circuit
+The surviving public product documentation reviewed for this pass does not provide a reliable schematic, control list, transistor part number, diode specification, or component values.
+- **Exact circuit topology:** Unknown.
+- **Exact transistor/device:** Unknown.
+- **Exact clipping/diode device:** Unknown.
 
-## Versions and factory options
-No secure exact-model version or factory-option list was established.
-
-## Version changes
-No reliable numbered revision history was established.
-
-## Transistor
-Unknown from the checked exact-model documentation.
-
-## Diode
-Unknown from the checked exact-model documentation.
+Audiofanzine's technical sheet likewise states that no technical specifications were available for the product at the time of its catalog entry.
 
 ## Sound
-The model is documented as fuzz. A more detailed sonic characterization is deferred until stronger exact-model evidence is available.
+The exact-model sources establish the pedal as a fuzz, but do not provide enough reliable model-specific description to characterize its voicing without adding unsupported interpretation.
+
+A Guitar World demonstration titled **Coffin Case Batfuzz Distortion Pedal** was published on June 1, 2009 and explicitly presents the pedal's features. Because the surviving video title uses **Batfuzz** while the archive model is **Batula Fuzz**, the archive treats the video as supporting historical visual/demo context rather than using it to invent circuit or tonal details.
+
+## Versions and factory options
+- Effects Database published the Batula Fuzz record on October 15, 2008.
+- Audiofanzine's Coffin Case news archive reports the exact Batula Fuzz release on November 19, 2008 and describes it as a very limited-edition pedal.
+- The surviving sources reviewed do not establish a numbered revision history or documented factory colorway sequence.
+
+## Research confidence
+- **Identity:** High.
+- **Fuzz classification:** High.
+- **Limited-edition 2008 release:** High from Audiofanzine's exact-model news entry.
+- **Demo/feature documentation:** High for the Guitar World Batfuzz video, with naming retained as published.
+- **Exact circuit topology:** Unknown.
+- **Exact transistor/device:** Unknown.
+- **Exact clipping/diode device:** Unknown.
+- **Complete control layout:** Unknown.
+
+## Deep research verification
+This pass combines two independent exact-model catalog/news sources with a Guitar World demonstration record. Claims are limited to what those sources explicitly establish.
 
 ## Sources checked
-1. The Dirt Archive Scrape C census: `research/SCRAPE_C_CENSUS.csv`
+1. Effects Database - Coffin Gear Batula Fuzz: https://www.effectsdatabase.com/model/coffin/batula
+2. Audiofanzine - Coffin Case Batula Fuzz: https://en.audiofanzine.com/fuzz-pedal/coffin-case/Batula-Fuzz/
+3. Audiofanzine - Coffin Case Guitars news: https://en.audiofanzine.com/guitar/coffin-case/news/
+4. Guitar World - Coffin Case Batfuzz Distortion Pedal: https://www.youtube.com/watch?v=eCsVq0SBVS0
+5. The Dirt Archive census research record and prior catalog evidence.
+
+## Photo
+- **Archive status:** A local catalog image is already assigned to this model.
+- Exact historical image provenance is not re-invented by this research pass.
