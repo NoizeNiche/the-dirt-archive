@@ -1,23 +1,32 @@
-# BOSS — HM-2 Heavy Metal
+# BOSS - HM-2 Heavy Metal
 
 ## Surface catalog record
 - **Builder:** BOSS
 - **Pedal:** HM-2 Heavy Metal
 - **Catalog type:** Distortion
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **HM-2 Heavy Metal** by **BOSS** as a **Distortion** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+The BOSS HM-2 is a historical heavy-metal distortion pedal designed to reproduce the sound of early-1980s British stack amplifiers in a compact stompbox.
 
-## Catalog source
-- Catalog source page on file: https://www.effectsdatabase.com/model/boss/compact/hm2
+## Deep research verification
+
+### History
+BOSS documents the original HM-2 as being produced from **1983 to 1991**. It became especially associated with Swedish death metal, while its aggressive mid-focused distortion has also found use outside metal.
+
+### Sound
+BOSS describes the original as having a uniquely aggressive, focused midrange and a signature “chainsaw” character when the controls are pushed fully. The later Waza Craft HM-2W was created as a modern recreation, with a standard mode intended to reproduce the original analog HM-2 sound.
+
+### Model boundary
+The archive keeps **HM-2 Heavy Metal** separate from **HM-2W Heavy Metal**, the later Waza Craft version with additional circuitry and a custom mode.
+
+### Component evidence
+The reviewed first-party material does not provide a universal original-HM-2 transistor/diode part list, so exact semiconductor details remain unresolved.
+
+## Sources checked
+- BOSS 50th Anniversary timeline: https://www.boss.info/jp/boss-50th-anniversary/
+- BOSS HM-2W product/history page: https://www.boss.info/global/products/hm-2w/
+- BOSS HM-2W announcement: https://www.boss.info/us/whats_new/press_releases/2021/BOSS-Announces-the-HM-2W-Heavy-Metal-Pedal/
+- Effects Database: https://www.effectsdatabase.com/model/boss/compact/hm2
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** **Exact Photo Pending**
