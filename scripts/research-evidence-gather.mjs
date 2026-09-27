@@ -41,13 +41,13 @@ function pedalIdentityVariants(pedal){
   // Catalog records sometimes append a descriptive effect class after an em dash,
   // while source pages use only the model name. Treat the left-hand model name as
   // an exact identity variant without weakening ordinary hyphenated model names.
-  const core=raw.split(/\\s+—\\s+/)[0].trim();
+  const core=raw.split(/\s+—\s+/)[0].trim();
   if(core && core!==raw) variants.push(core);
   // Historical and retailer pages frequently collapse compound pedal names
   // (for example FatRock or TightRock) into one token. Accept that spelling as
   // an exact identity variant when the page title/H1/URL uses it.
   for(const value of [raw, core]){
-    const compact=norm(value).replace(/\\s+/g,'');
+    const compact=norm(value).replace(/\s+/g,'');
     if(compact && !variants.some(v=>norm(v)===compact)) variants.push(compact);
   }
   // The archive's AMT catalog name and surviving listings use a documented
@@ -99,7 +99,7 @@ async function get(url){
     const finalUrl=r.url||url;
     const type=String(r.headers.get('content-type')||'').toLowerCase();
     const bytes=Buffer.from(await r.arrayBuffer());
-    const isPdf=type.includes('application/pdf') || /\\.pdf(?:$|[?#])/i.test(finalUrl);
+    const isPdf=type.includes('application/pdf') || /\.pdf(?:$|[?#])/i.test(finalUrl);
     if(isPdf){
       // GitHub runners include pdftotext. Extract readable manual/review text so
       // binary PDF bytes never become canonical research excerpts.
