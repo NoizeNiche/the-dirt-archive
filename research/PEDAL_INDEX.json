@@ -7194,8 +7194,8 @@
       "image": null,
       "source_page": "https://ww.baeaudio.com/hot-fuzz/",
       "research_record": "./research/pedals/BAE Audio/Hot Fuzz.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "BAE Audio",
@@ -7226,8 +7226,8 @@
       "image": null,
       "source_page": "https://www.baeaudio.com/",
       "research_record": "./research/pedals/BAE Audio/Tonestack Fuzz.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Baja Tech Custom",
