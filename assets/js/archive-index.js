@@ -244,9 +244,14 @@ function filteredItems(){
 }
 
 function renderTypeMenu(){
-  const counts={All:new Set(items.filter(x=>coverageMatches(x)&&facetMatches(x)).map(x=>entryKey(x))).size};
+  const typeContext=x=>
+    coverageMatches(x)&&
+    (!selectedBuilder||x.company===selectedBuilder)&&
+    searchMatches(x)&&
+    facetMatches(x);
+  const counts={All:new Set(items.filter(typeContext).map(x=>entryKey(x))).size};
   for(const t of ['Overdrive','Distortion','Fuzz']){
-    counts[t]=new Set(items.filter(x=>coverageMatches(x)&&(x.types||[]).includes(t)&&facetMatches(x)).map(x=>entryKey(x))).size;
+    counts[t]=new Set(items.filter(x=>typeContext(x)&&(x.types||[]).includes(t)).map(x=>entryKey(x))).size;
   }
   const types=[
     ['All','Everything in the archive'],
