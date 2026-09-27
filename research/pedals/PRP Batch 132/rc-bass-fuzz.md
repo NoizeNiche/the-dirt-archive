@@ -25,3 +25,8 @@ The available source set does not establish a detailed circuit family, transisto
 
 ## Sources checked
 1. Made For Bass database: https://www.madeforbass.com/bass-effects-database/
+## Deep research verification
+
+The Made For Bass database documents RC Bass Fuzz as a bass-focused fuzz with **Fuzz, Volume, Tone, Gain** controls, hand-wired construction, suitability for active and passive bass pickups, and 9V DC centre-negative power. The source describes a thick, gritty fuzz designed to retain low-end clarity. Exact transistor and diode details remain undocumented in the cited source.
+
+Source: https://www.madeforbass.com/bass-effects-database/
