@@ -31,3 +31,10 @@ The M1 is documented as the distortion member of the Mighty Sound mini series. A
 
 ## Sources checked
 1. Effects Database — Mighty Sound family: https://www.effectsdatabase.com/model/mightysound
+## Deep research verification
+
+Effects Database's historical Mighty Sound catalog confirms **Mighty Sound M1 Distortion** as the distortion member of Cherry Music's compact mini-pedal series, alongside M2 Overdrive and M3 Fuzz. The exact-model source establishes the model identity and effect category, but does not publish a reliable control list or component-level circuit information for M1. Those details remain unknown.
+
+Sources:
+- https://www.effectsdatabase.com/model/mightysound
+- https://www.effectsdatabase.com/model/mightysound
