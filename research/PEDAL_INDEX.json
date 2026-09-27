@@ -40506,8 +40506,8 @@
       "image": "./assets/pedals/keeley-electronics/aria-compressor-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Keeley Electronics/Aria Compressor/Overdrive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Keeley Electronics",
@@ -43035,8 +43035,8 @@
       "image": "",
       "source_page": "https://mpamp.com/category/8/shop",
       "research_record": "./research/pedals/Mad Professor Amplification/Royal Blue Overdrive Custom.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Mad Professor Amplification",
@@ -49112,8 +49112,8 @@
       "image": "./assets/pedals/pigtronix/disnortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Pigtronix/Disnortion.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Pigtronix",
