@@ -30021,7 +30021,7 @@
       ],
       "image": "",
       "source_page": "https://www.effectsdatabase.com/model/deviever",
-      "research_record": "",
+      "research_record": "./research/pedals/Devi Ever : FX/Beautiful Disaster.md",
       "research_level": "surface",
       "deep_research_status": "PENDING"
     },
@@ -30732,7 +30732,7 @@
       ],
       "image": "",
       "source_page": "https://www.effectsdatabase.com/model/deviever",
-      "research_record": "",
+      "research_record": "./research/pedals/Devi Ever : FX/Truly Beautiful Disaster.md",
       "research_level": "surface",
       "deep_research_status": "PENDING"
     },
@@ -30780,7 +30780,7 @@
       ],
       "image": "",
       "source_page": "https://www.effectsdatabase.com/model/deviever",
-      "research_record": "",
+      "research_record": "./research/pedals/Devi Ever : FX/Vintage Fuzz Master.md",
       "research_level": "surface",
       "deep_research_status": "PENDING"
     },
@@ -37536,8 +37536,8 @@
       "image": "./assets/pedals/jptr-fx/warlow-fuzz-monstrosity/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/JPTR FX/Warlow - Fuzz monstrosity.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "JPTR FX",

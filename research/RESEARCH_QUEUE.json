@@ -1,201 +1,201 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-27T04:33:36.714176+00:00",
+  "generated_at": "2026-09-27T04:34:46.809336+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
   "counts": {
-    "total": 3782,
+    "total": 3856,
     "researched": 3761,
     "pictured": 3040,
     "complete": 3040,
-    "research_pending": 0,
-    "deep_research_pending": 1860,
-    "deep_researched": 1922,
-    "surface_ready": 3782
+    "research_pending": 71,
+    "deep_research_pending": 1933,
+    "deep_researched": 1923,
+    "surface_ready": 3785
   },
   "next_target": {
-    "builder": "Big John Effects",
-    "pedal": "Hairy Balls",
+    "builder": "Devi Ever FX",
+    "pedal": "'90",
     "catalog_type": "",
-    "research_record": "./research/pedals/PRP Batch 083/Hairy Balls.md",
-    "research_level": "surface"
+    "research_record": "",
+    "research_level": "missing"
   },
   "working_set": [
     {
-      "builder": "Big John Effects",
-      "pedal": "Hairy Balls",
+      "builder": "Devi Ever FX",
+      "pedal": "'90",
       "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 083/Hairy Balls.md",
-      "research_level": "surface"
+      "research_record": "",
+      "research_level": "missing"
     },
     {
-      "builder": "Big John Effects",
-      "pedal": "Lil' John series",
+      "builder": "Devi Ever FX",
+      "pedal": "05/25 Punch Love",
       "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 083/Lil' John series.md",
-      "research_level": "surface"
+      "research_record": "",
+      "research_level": "missing"
     },
     {
-      "builder": "Big John Effects",
-      "pedal": "Obama Wah",
+      "builder": "Devi Ever FX",
+      "pedal": "33 Silver Crank",
       "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 083/Obama Wah.md",
-      "research_level": "surface"
+      "research_record": "",
+      "research_level": "missing"
     },
     {
-      "builder": "Big John Effects",
-      "pedal": "Pocket Rocket",
+      "builder": "Devi Ever FX",
+      "pedal": "AE Aenima",
       "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 083/Pocket Rocket.md",
-      "research_level": "surface"
+      "research_record": "",
+      "research_level": "missing"
     },
     {
-      "builder": "Big Knob Pedals",
-      "pedal": "Appetite for Distortion",
+      "builder": "Devi Ever FX",
+      "pedal": "Bass Fuzz",
       "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 083/Appetite for Distortion.md",
-      "research_level": "surface"
+      "research_record": "",
+      "research_level": "missing"
     },
     {
-      "builder": "Big Knob Pedals",
-      "pedal": "Black Metallic",
+      "builder": "Devi Ever FX",
+      "pedal": "BDSM - Big Distortion Sound Machine",
       "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 083/Black Metallic.md",
-      "research_level": "surface"
+      "research_record": "",
+      "research_level": "missing"
     },
     {
-      "builder": "Big Knob Pedals",
-      "pedal": "Blues Buster",
+      "builder": "Devi Ever FX",
+      "pedal": "Bi-Fuzz",
       "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 083/Blues Buster.md",
-      "research_level": "surface"
+      "research_record": "",
+      "research_level": "missing"
     },
     {
-      "builder": "Big Knob Pedals",
-      "pedal": "Bushy Bison",
+      "builder": "Devi Ever FX",
+      "pedal": "BIT Legend Of Fuzz",
       "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 083/Bushy Bison.md",
-      "research_level": "surface"
+      "research_record": "",
+      "research_level": "missing"
     },
     {
-      "builder": "Big Knob Pedals",
-      "pedal": "Civil Warp",
+      "builder": "Devi Ever FX",
+      "pedal": "Bit Mangler",
       "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 083/Civil Warp.md",
-      "research_level": "surface"
+      "research_record": "",
+      "research_level": "missing"
     },
     {
-      "builder": "Big Knob Pedals",
-      "pedal": "Colour Jumbo",
+      "builder": "Devi Ever FX",
+      "pedal": "Black Spider",
       "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 083/Colour Jumbo.md",
-      "research_level": "surface"
+      "research_record": "",
+      "research_level": "missing"
     },
     {
-      "builder": "Big Knob Pedals",
-      "pedal": "Creamy Pi",
+      "builder": "Devi Ever FX",
+      "pedal": "BS",
       "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 083/Creamy Pi.md",
-      "research_level": "surface"
+      "research_record": "",
+      "research_level": "missing"
     },
     {
-      "builder": "Big Knob Pedals",
-      "pedal": "D OverDrive 250",
+      "builder": "Devi Ever FX",
+      "pedal": "Cherry Pop",
       "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 083/D OverDrive 250.md",
-      "research_level": "surface"
+      "research_record": "",
+      "research_level": "missing"
     },
     {
-      "builder": "Big Knob Pedals",
-      "pedal": "Fuzz Barn",
+      "builder": "Devi Ever FX",
+      "pedal": "DB Dark Boost",
       "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 083/Fuzz Barn.md",
-      "research_level": "surface"
+      "research_record": "",
+      "research_level": "missing"
     },
     {
-      "builder": "Big Knob Pedals",
-      "pedal": "Fuzz Space",
+      "builder": "Devi Ever FX",
+      "pedal": "Devi Special",
       "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 083/Fuzz Space.md",
-      "research_level": "surface"
+      "research_record": "",
+      "research_level": "missing"
     },
     {
-      "builder": "Big Knob Pedals",
-      "pedal": "Game of Tones",
+      "builder": "Devi Ever FX",
+      "pedal": "Devine Hammer",
       "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 083/Game of Tones.md",
-      "research_level": "surface"
+      "research_record": "",
+      "research_level": "missing"
     },
     {
-      "builder": "Big Knob Pedals",
-      "pedal": "Green Russian",
+      "builder": "Devi Ever FX",
+      "pedal": "Devistortion",
       "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 083/Green Russian.md",
-      "research_level": "surface"
+      "research_record": "",
+      "research_level": "missing"
     },
     {
-      "builder": "Big Knob Pedals",
-      "pedal": "Guv'nator",
+      "builder": "Devi Ever FX",
+      "pedal": "DF Disaster Fuzz",
       "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 083/Guv'nator.md",
-      "research_level": "surface"
+      "research_record": "",
+      "research_level": "missing"
     },
     {
-      "builder": "Big Knob Pedals",
-      "pedal": "I.C.B.M",
+      "builder": "Devi Ever FX",
+      "pedal": "Disaster Fuzz",
       "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 083/I.C.B.M.md",
-      "research_level": "surface"
+      "research_record": "",
+      "research_level": "missing"
     },
     {
-      "builder": "Big Monk Electronic Device Co.",
-      "pedal": "Monk Boost",
+      "builder": "Devi Ever FX",
+      "pedal": "DN Destructo Noctavia",
       "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 085/Monk Boost.md",
-      "research_level": "surface"
+      "research_record": "",
+      "research_level": "missing"
     },
     {
-      "builder": "Big Tone Music Brewery",
-      "pedal": "BTMB Overdrive",
+      "builder": "Devi Ever FX",
+      "pedal": "Dream Mangler",
       "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 085/BTMB Overdrive.md",
-      "research_level": "surface"
+      "research_record": "",
+      "research_level": "missing"
     },
     {
-      "builder": "Big Tone Music Brewery",
-      "pedal": "Classic Distortion",
+      "builder": "Devi Ever FX",
+      "pedal": "Drone Fuck Drone",
       "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 085/Classic Distortion.md",
-      "research_level": "surface"
+      "research_record": "",
+      "research_level": "missing"
     },
     {
-      "builder": "Big Tone Music Brewery",
-      "pedal": "Classic Overdrive+",
+      "builder": "Devi Ever FX",
+      "pedal": "EB Electric Brown",
       "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 085/Classic Overdrive+.md",
-      "research_level": "surface"
+      "research_record": "",
+      "research_level": "missing"
     },
     {
-      "builder": "Big Tone Music Brewery",
-      "pedal": "Germanium FuzzBender",
+      "builder": "Devi Ever FX",
+      "pedal": "Eye of God",
       "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 086/Germanium FuzzBender.md",
-      "research_level": "surface"
+      "research_record": "",
+      "research_level": "missing"
     },
     {
-      "builder": "Big Tone Music Brewery",
-      "pedal": "Parametric Overdrive",
+      "builder": "Devi Ever FX",
+      "pedal": "Fortune",
       "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 086/Parametric Overdrive.md",
-      "research_level": "surface"
+      "research_record": "",
+      "research_level": "missing"
     },
     {
-      "builder": "Big Tone Music Brewery",
-      "pedal": "Six Of Swords",
+      "builder": "Devi Ever FX",
+      "pedal": "Fuzz",
       "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 086/Six Of Swords.md",
-      "research_level": "surface"
+      "research_record": "",
+      "research_level": "missing"
     }
   ]
 }
