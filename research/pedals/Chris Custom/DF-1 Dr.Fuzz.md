@@ -31,3 +31,10 @@ The pedal is documented as a fuzz model in the Chris Custom catalog. More detail
 
 ## Sources checked
 1. Effects Database — Chris Custom catalog: https://www.effectsdatabase.com/model/chriscustom
+## Deep research verification
+
+Effects Database's historical catalog lists **Chris Custom DF-1 Dr.Fuzz** as a distinct fuzz model and records it in the January 12, 2009 weekly addition of new effects. The reviewed exact-model material still does not establish reliable controls, circuit topology, semiconductor complement, or revision history, so those fields remain unknown.
+
+Sources:
+- https://www.effectsdatabase.com/model/chriscustom
+- https://www.effectsdatabase.com/updates/weekly/20090112
