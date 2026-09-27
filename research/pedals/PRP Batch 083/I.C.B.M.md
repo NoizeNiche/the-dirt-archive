@@ -33,4 +33,4 @@ Crunchier, higher-gain Muff character associated with the op-amp variant.
 - **Archive status:** **No Photo Archived**
 
 ## Deep research verification
-Big Knob's exact listing identifies I.C.B.M. as a clone of the 1977 op-amp-based Muff circuit, the first Muff design to depart from the traditional four-transistor architecture by using two op-amps. The builder describes the result as a crunchier high-gain Muff variation. Exact op-amp part numbers are not stated in the reviewed listing. citeturn302732search0
+Big Knob's exact listing identifies I.C.B.M. as a clone of the 1977 op-amp-based Muff circuit, the first Muff design to depart from the traditional four-transistor architecture by using two op-amps. The builder describes the result as a crunchier high-gain Muff variation. Exact op-amp part numbers are not stated in the reviewed listing.
