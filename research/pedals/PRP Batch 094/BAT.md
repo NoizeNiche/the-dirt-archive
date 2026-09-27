@@ -4,29 +4,21 @@
 - **Builder:** Black Arts Toneworks
 - **Catalog type:** Distortion / Overdrive
 
-## Research
-The current BAT is described by Black Arts Toneworks as a high-gain dirt device that can work as a boost or driver, responds to the guitar controls, and can also function as a standalone distortion. The builder emphasizes a very large gain range.
-
-## Source
-- https://www.blackartstoneworks.com/
-
-## Archive photo
-- **Archive status:** **No Photo Archived**
+## What this pedal is
+BAT is Black Arts Toneworks' high-gain dirt device designed to work as a boost/driver or as a standalone distortion. The builder emphasizes a very wide gain range and strong interaction with the guitar controls.
 
 ## Deep research verification
 
-This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+### Controls and behavior
+The exact-model sources confirm BAT as a high-gain distortion/overdrive with a very broad gain range and guitar-control sensitivity. The model is documented as both a driver/boost and a standalone dirt device.
 
-### Verified description
-Black Arts Toneworks's BAT is cataloged as a distortion / overdrive pedal.
+### Component evidence
+The admitted exact-model material establishes an LED indicator but does not establish the active-device or clipping-device part numbers. Those remain unknown.
 
-### Verified color/finish evidence
-- Black Arts Toneworks Menu Pedals News Swag Friends & Retailers Contact BAT BAT BAT A high flying lion or a rodent from the gutter?
+## Sources checked
+- Black Arts Toneworks: https://www.blackartstoneworks.com/pedal/bat/
+- LEP International: https://lep-international.jp/products/black-arts-toneworks-bat
+- Joe's Pedals: https://joespedals.com/collections/pedals/products/bat
 
-### Verified diode terms
-- Led.
-
-### Sources checked in this pass
-1. BAT | Black Arts Toneworks: https://www.blackartstoneworks.com/pedal/bat/
-2. Black Arts Toneworks - BAT – LEP INTERNATIONAL: https://lep-international.jp/products/black-arts-toneworks-bat
-3. BAT – Joe's Pedals: https://joespedals.com/collections/pedals/products/bat
+## Photo
+- **Archive status:** **No Photo Archived**
