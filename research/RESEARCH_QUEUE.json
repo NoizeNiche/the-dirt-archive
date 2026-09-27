@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-27T06:29:50.725052+00:00",
+  "generated_at": "2026-09-27T06:41:28.749623+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,8 +10,8 @@
     "pictured": 3074,
     "complete": 3074,
     "research_pending": 0,
-    "deep_research_pending": 2154,
-    "deep_researched": 2050,
+    "deep_research_pending": 2151,
+    "deep_researched": 2053,
     "surface_ready": 4204
   },
   "next_target": {
@@ -27,13 +27,6 @@
       "pedal": "Hyper Catalyst",
       "catalog_type": "",
       "research_record": "./research/pedals/6 Degrees FX/Hyper Catalyst.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Alexander Pedals",
-      "pedal": "Riff Instant Tone Sanitizer",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Alexander Pedals/Riff Instant Tone Sanitizer.md",
       "research_level": "surface"
     },
     {
@@ -195,6 +188,13 @@
       "pedal": "Heavy-D",
       "catalog_type": "",
       "research_record": "./research/pedals/BBE/Heavy-D.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "BBE",
+      "pedal": "Windowpane - Silicon Fuzz",
+      "catalog_type": "",
+      "research_record": "./research/pedals/BBE/Windowpane - Silicon Fuzz.md",
       "research_level": "surface"
     }
   ]

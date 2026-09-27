@@ -1,24 +1,36 @@
-# Tube Works - 903 Blue Tube
+# Tube Works — 903 Blue Tube
 
 ## PRP identity
-- Builder: Tube Works
-- Catalog type: Overdrive
-- Identity: Tube Works 903 Blue Tube / Real Tube Enhancer.
+- **Archive parent:** 903 Blue Tube
+- **Builder:** Tube Works
+- **Catalog type:** Overdrive
+- **Identity:** Tube Works's 903 Blue Tube.
 
 ## What this pedal is
-The 903 Blue Tube is the lower-gain member of the early Tube Works Real Tube family. Historical documentation identifies it as sharing the 901's PCB platform while targeting a lower-gain response.
+Tube Works's 903 Blue Tube is cataloged as an overdrive pedal.
 
-## Controls / circuit
-- Five controls are documented in the historical product family.
-- Tube Works Real Tube / Blue Tube architecture.
-- Exact control labels and component part numbers require exact-unit documentation.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
 
-## History
-The 903 predates later four-knob Tube Driver production and is retained as a distinct Tube Works-branded product.
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+The verified evidence packet did not contain enough pedal-specific sonic description to make a more detailed sound summary without adding unsupported interpretation.
 
 ## Sources checked
-1. Kitrae Tube Driver history: https://www.kitrae.net/music/butler_tube_drivers.html
-2. Effects Database Tube Works catalog: https://www.effectsdatabase.com/model/tubeworks
+1. Tube Works | Effects Database: https://www.effectsdatabase.com/model/tubeworks
 
 ## Photo
-- Exact photo pending.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

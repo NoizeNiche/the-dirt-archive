@@ -2575,8 +2575,8 @@
       "image": null,
       "source_page": "https://www.alexanderpedals.com/shop",
       "research_record": "./research/pedals/Alexander Pedals/Riff Instant Tone Sanitizer.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Alien Amplification",
@@ -56449,8 +56449,8 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/tubeworks",
       "research_record": "./research/pedals/Tube Works/903 Blue Tube.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Tube Works",
@@ -56473,8 +56473,8 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/tubeworks",
       "research_record": "./research/pedals/Tube Works/911 Tube Driver.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Dinosaural",
