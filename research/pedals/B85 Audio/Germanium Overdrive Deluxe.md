@@ -4,35 +4,54 @@
 - **Archive parent:** Germanium Overdrive Deluxe
 - **Builder:** B85 Audio
 - **Catalog type:** Overdrive
-- **Identity:** B85 Audio's Germanium Overdrive Deluxe.
+- **Identity:** Tube Screamer 808-derived overdrive expanded with a two-band EQ and germanium diodes. [1]
 
-## What this pedal is
-Parametry a specifikace: Typ: Overdrive Ovládání: Level, Bass, Treble, Drive True bypass: Ano Vstup: Mono Výstup: Mono Napájení: 9V Baterií nebo adaptér 9V až 12V DC Center negative (Baterie ani adaptér není součástí) Rozměry: cca X=119 mm, Y=100 mm, Z=52 mm ( rozměry jsou uváděny se všemi namontovanými díly, použitá krabička Hammond 1590BB či ekvivalent ) B85 Audio Germanium Overdrive Deluxe is a floor effect pedal based on the legendary Tube Screamer 808 circuit, expanded with a two-band equalizer and germanium diodes for a more natural, dynamic, and musical overdrive character.
+## Controls
+- **LEVEL**
+- **BASS**
+- **TREBLE**
+- **DRIVE**
+- True bypass. [1]
 
-## Colorways
-- No specific factory colorway information was established in the verified evidence packet.
+## Circuit lineage
+- **Primary reference:** Ibanez **Tube Screamer 808**.
+- Expanded with two-band EQ.
+- **Germanium diodes** are explicitly documented by B85 Audio for a more natural/dynamic clipping character. [1]
 
-## Versions and factory options
-- No distinct factory revision was established in the verified evidence packet.
+## Transistor / active device
+- Exact transistor or op-amp part number is not publicly documented in the reviewed source.
 
-## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+## Diode / clipping
+- **Germanium diodes:** Verified.
+- Exact diode part number is not published. [1]
 
-## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
-- **Exact transistor/device:** Unknown.
+## Construction / power
+- Hand-built floor pedal.
+- **Hammond 1590BB** or equivalent.
+- Approx. **119 × 100 × 52mm**.
+- **9V battery or 9–12V DC**, center-negative, according to the builder listing. [1]
 
-## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
-- **Exact part:** Unknown.
+## Version history
+- No numbered electronic revision established.
 
 ## Sound
-Germanium Overdrive Deluxe - B85 audio Musíte změnit nastavení vašeho prohlížeče Podívejte se na: Jak povolit JavaScript ve vašem prohlížeči .
-Zakázky servis Information in English Kontakt Obchodní podmínky Přihlášení Více Hledat Přihlášení Nákupní košík Menu Domů / Efekty / Germanium Overdrive Deluxe Postranní panel Germanium Overdrive Deluxe Skladem 1 kus.
-Skladem / In stock Kód: GO-DELUXE Značka: B85 audio 2 800 Kč Měrná cena: Množství &plus; &minus; Do košíku Kategorie : Efekty Záruka : 2 roky Tisk Zeptat se Sdílet Tweet Zavřít Tip Tip ZDARMA ZDARMA Popis Videa (2) Diskuze B85 Audio Germanium Overdrive Deluxe je podlahový efekt postavený na legendárním zapojení Tube Screamer 808, rozšířený o dvoupásmový ekvalizér a germaniové diody pro přirozenější, dynamičtější a muzikálnější zkreslení.
+B85 Audio describes this model as more natural, dynamic and musical than a conventional 808-style implementation, with the two-band EQ extending the tonal range of the Tube Screamer-derived core. [1]
+
+## Research confidence
+- **Identity:** High
+- **Tube Screamer 808 lineage:** High
+- **Germanium diodes:** High
+- **Control set:** High
+- **9V / 9–12V DC listing:** High
+- **Exact active device:** Unknown
+- **Exact diode part:** Unknown
+
+## Deep research verification
+B85 Audio's current product description was checked directly. It explicitly states the Tube Screamer 808 circuit basis, two-band EQ and germanium diodes and lists the control/power/enclosure information. [1]
 
 ## Sources checked
-1. Germanium Overdrive Deluxe - B85 audio: https://www.b85audio.cz/germanium-overdrive-deluxe/
+1. B85 Audio — Germanium Overdrive Deluxe: https://www.b85audio.cz/germanium-overdrive-deluxe/
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** **No Photo Archived**
+- **Exact-model reference checked:** B85 Audio exact-model page.
