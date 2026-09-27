@@ -4,10 +4,12 @@
 - **Archive parent:** Slice Of Pie
 - **Builder:** Big Ear NYC
 - **Catalog type:** Fuzz
-- **Identity:** Historical/alternate Big Ear NYC catalog identity for the pizza-shaped Slice Of Pie fuzz.
+- **Identity:** Historical/alternate catalog row for the BIG EAR x The Tone Mob Podcast Slice Of Pie fuzz.
 
-## What this pedal is
-The Slice Of Pie circuit was developed by BIG EAR pedals with The Tone Mob Podcast and released in cheese and pepperoni artwork variants. The underlying circuit is the same between the two artwork versions.
+## Identity note
+The surviving manufacturer and contemporary coverage identify **Slice Of Pie as a BIG EAR pedals x The Tone Mob collaboration released in 2022**. The checked evidence does not establish a separate Big Ear NYC electronics revision or independently produced NYC circuit.
+
+For that reason this record is retained as an archive/catalog identity row only and must not be used to claim a distinct NYC hardware design.
 
 ## Controls
 - Gain
@@ -15,18 +17,29 @@ The Slice Of Pie circuit was developed by BIG EAR pedals with The Tone Mob Podca
 - Volume
 
 ## Power
-- 9VDC, center negative.
+- 9VDC, 2.1mm barrel, center negative.
 - Approximately 2mA.
+- No battery snap.
 
 ## Circuit
-- Silicon fuzz.
+- Fuzz.
+- Cheese and pepperoni artwork variants share the same underlying circuit.
 - Exact transistor and diode part numbers were not established.
 
+## Research confidence
+- **Slice Of Pie product identity:** High.
+- **2022 collaboration:** High.
+- **Separate NYC hardware version:** Not established.
+
+## Deep research verification
+The current Big Ear product documentation and contemporary coverage consistently identify Slice Of Pie with the BIG EAR pedals brand and Tone Mob collaboration. No independent Big Ear n.y.c. production variant was found in the checked sources.
+
 ## Sources checked
-1. BIG EAR official product page: https://www.bigearpedals.com/product-page/slice-of-pie-b-stock
-2. Guitar World: https://www.guitarworld.com/news/slice-of-pie-pizza-fuzz-pedal
-3. Guitar Pedal X: https://www.guitarpedalx.com/news/big-ear-pedals-serves-up-the-incredibly-flavoursome-slice-of-pie-pizza-fuzz---where-the-clue-is-in-the-name-and-shape-of-this-marvellously-unique-pedal
+1. BIG EAR pedals - Slice of Pie: https://www.bigearpedals.com/product-page/slice-of-pie-b-stock
+2. BIG EAR pedals - Slice of Pie article: https://www.bigearpedals.com/post/big-ear-pedals-slice-of-pie-in-the-new-spinal-tap-movie
+3. Guitar World - Slice of Pie: https://www.guitarworld.com/news/slice-of-pie-pizza-fuzz-pedal
+4. Delicious Audio - Slice of Pie: https://delicious-audio.com/big-ear-slice-of-pie-fuzz/
 
 ## Photo
-- **Archive status:** **No Photo Archived**
-- Stable direct archival image was not promoted during this pass.
+- **Archive status:** **Exact Photo Pending**
+- No local canonical image was promoted in this pass.
