@@ -4,63 +4,75 @@
 - **Archive parent:** Metro
 - **Builder:** Awestruck Amplification
 - **Catalog type:** Overdrive
-- **Identity:** Mid-gain op-amp overdrive influenced by the transparent-overdrive approach, with hard-clipping and mid-EQ switches.
+- **Identity:** Mid-gain op-amp overdrive inspired by the transparent-overdrive movement, with switchable hard clipping and midrange contouring. [1][2]
 
 ## What this pedal is
-Awestruck describes Metro as a mid-gain op-amp overdrive intended to preserve the richness and depth of the amplifier with little coloration. The pedal adds a clipping toggle and a midrange EQ contour for additional character.
+Awestruck designed Metro as an always-on-style overdrive intended to add richness and depth while remaining relatively transparent. The DIODE switch adds a compressed distortion path, while the MIDS switch changes the midrange contour for additional presence. [1]
 
-## Colorways
-- No reliable factory colorway chronology was verified.
+## Controls
+- **LEVEL:** Overall output.
+- **GAIN:** Controls the first op-amp stage's feedback-loop gain.
+- **TONE:** Treble amount.
+- **DIODE:** Hard-clipping diodes on/off.
+  - Off: open, less-compressed overdrive.
+  - On: shunted, more-compressed distortion.
+- **MIDS:** Two EQ curves.
+  - Off: flatter/transparent mids.
+  - On: boosted mids. [1][2]
 
-## Versions and factory options
-### Metro
-- LEVEL
-- GAIN
-- TONE
-- DIODE toggle for hard clipping
-- MIDS toggle for alternate midrange EQ contour
-- True bypass
-- 9V center-negative operation
+## Circuit architecture
+- **Op-amp based** mid-gain overdrive.
+- First-stage feedback controls the primary gain.
+- Separate hard-clipping diode path.
+- Two selectable midrange EQ curves.
+- Fully analog signal path. [1]
 
-### DIODE toggle
-- Off: open, less-compressed drive
-- On: shunted, more-compressed distortion
+## Active device
+- **Op-amp based.**
+- Exact op-amp part number is not published in the reviewed builder documentation.
 
-### MIDS toggle
-- Off: flatter, transparent mids
-- On: boosted mids for greater presence
+## Diode / clipping
+- DIODE switch controls the hard-clipping diode path.
+- Exact diode devices are not publicly documented. [1][2]
 
-## Version changes
-No numbered factory revision was verified.
+## Construction / hardware
+- Hand-wired and assembled in the USA.
+- Alpha potentiometers.
+- WIMA capacitors.
+- Top-mounted jacks.
+- True bypass.
+- Approximately **4.8 × 2.6 × 1.6 inches**. [1]
 
-## Transistor
-- **Technology:** Op-amp based analog gain architecture.
-- **Exact device:** Not publicly documented in the checked materials.
+## Power
+- **9VDC center-negative**.
+- **Current draw:** approximately **11mA**.
+- Awestruck recommends isolated power rather than daisy chaining. [1][2]
 
-## Diode
-- **Technology:** Hard clipping enabled by the DIODE switch.
-- **Exact diode devices:** Not publicly documented.
+## Version history
+- No numbered electronic revision established.
+- DIODE and MIDS are integrated operating modes, not documented revisions.
 
 ## Sound
-Metro is intended to sit between transparent boost/drive and more compressed distortion. The DIODE switch changes the clipping texture while the MIDS switch shifts the EQ contour from flatter and open toward a more forward voice.
+Metro is intended to remain relatively open and transparent with DIODE off. Engaging the hard-clipping path produces more compression/distortion, while MIDS can move the frequency contour from flatter to more pronounced midrange presence. [1]
+
+## Research confidence
+- **Identity:** High
+- **Op-amp architecture:** High
+- **DIODE hard-clipping switch:** High
+- **MIDS contour:** High
+- **11mA / 9V:** High
+- **Hand-wired construction:** High
+- **Exact op-amp:** Unknown
+- **Exact diode:** Unknown
+
+## Deep research verification
+The current Metro product page and manufacturer manual were cross-checked. The builder documentation supplies the exact function of the DIODE and MIDS switches, the gain-control behavior, true bypass and electrical specifications. [1][2]
 
 ## Sources checked
 1. Awestruck Amplification — Metro: https://www.awestruckamps.com/product/metro-organic-overdrive/
-2. Metro manual: https://www.awestruckamps.com/wp-content/uploads/2025/02/METRO_MANUAL.pdf
-3. Pedal of the Day Metro demo: https://www.youtube.com/watch?v=kTo9-pyXQn4
+2. Awestruck Metro Manual: https://www.awestruckamps.com/wp-content/uploads/2025/02/METRO_MANUAL.pdf
+3. Pedal of the Day — Metro demo: https://www.youtube.com/watch?v=kTo9-pyXQn4
 
 ## Photo
 - **Archive status:** **No Photo Archived**
-- **Exact-model reference checked:** https://www.awestruckamps.com/product/metro-organic-overdrive/
-- **Archive note:** Exact product photography exists on the builder page, but no stable archive asset is being promoted in this pass.
-
-## Deep research verification
-
-This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
-
-### Verified description
-Awestruck Amplification's Metro is cataloged as an overdrive pedal.
-
-### Sources checked in this pass
-1. catalog/override source: https://reverb.com/item/88461414-awestruck-amplification-metro-organic-overdrive
-2. Metro – Organic Overdrive – Awestruck Amplification: https://www.awestruckamps.com/product/metro-organic-overdrive/
+- **Exact-model reference checked:** Awestruck Metro product page.
