@@ -10804,6 +10804,18 @@
     },
     {
       "company": "BJFE / BJF Electronics",
+      "pedal": "Arctic Light Fuzz",
+      "types": [
+        "Fuzz"
+      ],
+      "image": "",
+      "source_page": "https://www.bjornjuhl.com/forum/viewtopic.php-f%3D6%26t%3D1555.html",
+      "research_record": "",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "BJFE / BJF Electronics",
       "pedal": "Arctic White Fuzz (AWF)",
       "types": [
         "Fuzz"
@@ -10821,6 +10833,18 @@
       "image_source_url": "https://lep-international.jp/cdn/shop/files/Arctic-White-Fuzz-02.png?v=1685062139",
       "research_level": "researched",
       "deep_research_status": "PENDING_REVIEW"
+    },
+    {
+      "company": "BJFE / BJF Electronics",
+      "pedal": "Baby Blue Overdrive (BBOD)",
+      "types": [
+        "Overdrive"
+      ],
+      "image": "",
+      "source_page": "https://www.bjornjuhl.com/forum/viewtopic.php-f%3D6%26t%3D1555.html",
+      "research_record": "",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
     },
     {
       "company": "BJFE / BJF Electronics",
@@ -10876,6 +10900,30 @@
       "image_source_url": "http://www.bjfe.jp/cdn/shop/products/imgrc0066149643.jpg?v=1598426303",
       "research_level": "deep",
       "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "BJFE / BJF Electronics",
+      "pedal": "Cliff Hanger",
+      "types": [
+        "Distortion"
+      ],
+      "image": "",
+      "source_page": "https://www.bjornjuhl.com/forum/viewtopic.php-f%3D6%26t%3D1555.html",
+      "research_record": "",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "BJFE / BJF Electronics",
+      "pedal": "Cliff Hanger II",
+      "types": [
+        "Distortion"
+      ],
+      "image": "",
+      "source_page": "https://www.bjornjuhl.com/forum/viewtopic.php-f%3D6%26t%3D1555.html",
+      "research_record": "",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
     },
     {
       "company": "BJFE / BJF Electronics",
@@ -10972,6 +11020,18 @@
       "image_source_page": "https://www.primofxllc.com/product-page/bjfe-folk-fuzz-12",
       "research_level": "deep",
       "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "BJFE / BJF Electronics",
+      "pedal": "Folk Fuzz 3.5%",
+      "types": [
+        "Fuzz"
+      ],
+      "image": "",
+      "source_page": "https://www.bjornjuhl.com/forum/viewtopic.php-f%3D6%26t%3D1555.html",
+      "research_record": "",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
     },
     {
       "company": "BJFE / BJF Electronics",
@@ -11080,6 +11140,30 @@
     },
     {
       "company": "BJFE / BJF Electronics",
+      "pedal": "Rebel Red Distortion",
+      "types": [
+        "Distortion"
+      ],
+      "image": "",
+      "source_page": "https://www.bjornjuhl.com/forum/viewtopic.php-f%3D6%26t%3D1555.html",
+      "research_record": "",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "BJFE / BJF Electronics",
+      "pedal": "Saffron Yellow Overdrive (SYOD)",
+      "types": [
+        "Overdrive"
+      ],
+      "image": "",
+      "source_page": "https://www.bjornjuhl.com/forum/viewtopic.php-f%3D6%26t%3D1555.html",
+      "research_record": "",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "BJFE / BJF Electronics",
       "pedal": "Smokey Orange Fuzz",
       "types": [
         "Fuzz"
@@ -11097,6 +11181,30 @@
       "image_source_url": "https://www.cult-pedals.com/cdn/shop/products/DSC_6392_large.jpg?v=1597687697",
       "research_level": "researched",
       "deep_research_status": "PENDING_REVIEW"
+    },
+    {
+      "company": "BJFE / BJF Electronics",
+      "pedal": "Snow White Fuzz",
+      "types": [
+        "Fuzz"
+      ],
+      "image": "",
+      "source_page": "https://www.bjornjuhl.com/forum/viewtopic.php-f%3D6%26t%3D1555.html",
+      "research_record": "",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "BJFE / BJF Electronics",
+      "pedal": "Sparkling Red Fuzz",
+      "types": [
+        "Fuzz"
+      ],
+      "image": "",
+      "source_page": "https://www.bjornjuhl.com/forum/viewtopic.php-f%3D6%26t%3D1555.html",
+      "research_record": "",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
     },
     {
       "company": "BJFE / BJF Electronics",
@@ -11125,6 +11233,18 @@
       "image_source_page": "https://reverb.com/item/93719572-diy-sparkling-yellow-overdrive-2-bjfe-bearfoot-syod2-clone-guitar-pedal",
       "research_level": "researched",
       "deep_research_status": "PENDING_REVIEW"
+    },
+    {
+      "company": "BJFE / BJF Electronics",
+      "pedal": "Sun Burst Fuzz",
+      "types": [
+        "Fuzz"
+      ],
+      "image": "",
+      "source_page": "https://www.bjornjuhl.com/forum/viewtopic.php-f%3D6%26t%3D1555.html",
+      "research_record": "",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
     },
     {
       "company": "Black Arts Toneworks",
