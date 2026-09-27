@@ -283,7 +283,7 @@ function romanAscii(v){
     .replace(/[Ⅶ]/g,'VII').replace(/[Ⅷ]/g,'VIII').replace(/[Ⅸ]/g,'IX')
     .replace(/[Ⅹ]/g,'X');
 }
-function searchQueries(builder,pedal){
+function searchQueries(builder,pedal,sourceHosts=[]){
   const b=String(builder||'').trim(), p=String(pedal||'').trim();
   const pa=romanAscii(p);
   const pn=norm(p);
@@ -296,6 +296,16 @@ function searchQueries(builder,pedal){
     'site:reverb.com/item "'+b+'" "'+p+'"',
     'site:manualslib.com "'+b+'" "'+p+'"'
   ];
+  // When the catalog already carries an exact-model source URL, search that
+  // source host directly as a fallback. This is especially useful for small
+  // builders documented only in a specialist roundup or dealer archive.
+  const skipHosts=new Set(['effectsdatabase.com','reverb.com','manualslib.com','youtube.com','www.youtube.com']);
+  for(const h of [...new Set(sourceHosts.map(String).map(v=>v.toLowerCase()).filter(Boolean))].slice(0,3)){
+    const bare=h.replace(/^www\./,'');
+    if(!bare || skipHosts.has(bare)) continue;
+    variants.push('site:'+bare+' "'+b+'" "'+p+'"');
+    variants.push('site:'+bare+' "'+p+'"');
+  }
   // Prefer a compact discovery fan-out when exact source leads are already
   // wired for the target. The gatherer still verifies those URLs and can
   // fall back to independent search when the exact leads do not yield enough
@@ -371,7 +381,8 @@ async function targetRecord(builder,pedal,type){
         .slice(0,5500);
     }
   }catch{}
-  const queries=searchQueries(builder,pedal);
+  const sourceHostsForTarget=[...new Set(urls.map(host).filter(Boolean))];
+  const queries=searchQueries(builder,pedal,sourceHostsForTarget);
   const found=new Map();
   for(const u of urls){
     const cached=verifiedCache.get(u);
