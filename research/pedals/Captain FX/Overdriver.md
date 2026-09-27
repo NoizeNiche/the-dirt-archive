@@ -1,29 +1,39 @@
 # Captain FX - Overdriver
 
 ## PRP identity
+- **Archive parent:** Overdriver
 - **Builder:** Captain FX
 - **Catalog type:** Overdrive
-- **Identity:** Captain FX Overdriver.
+- **Identity:** Captain FX Overdriver, a historical handmade dirt pedal.
 
 ## What this pedal is
-The archived C-block census identifies Overdriver as a Captain FX overdrive product. It is retained as a distinct product identity in the historical builder census.
+A surviving Reverb listing identifies a **Captain FX Overdriver** and describes it as a handmade boost, overdrive, fuzz and amp-in-a-box design based on Colorsound Overdriver / Power Boost concepts, with further development toward a Throbak Overdrive Boost version.
 
 ## Controls / circuit
-Exact controls, topology, components and stock power arrangement were not recovered in this pass.
+- The surviving listing confirms a 9V adapter, true bypass, and a Russian military-spec germanium transistor.
+- The listing does not provide a circuit diagram or exact semiconductor part number.
+- **Exact transistor/device:** Russian military-spec germanium transistor, exact part number unknown.
+- **Exact clipping/diode device:** Unknown.
+- **Power:** 9V adapter documented.
 
-## Sound
-The surviving evidence establishes the overdrive role but does not preserve enough model-specific detail for a defensible tonal summary.
+## Sound / design context
+The surviving seller description presents the pedal as a versatile combination of boost, overdrive, fuzz, and amp-in-a-box functions. The archive does not infer a specific circuit topology from the Colorsound/Throbak references alone.
 
-## History
-Overdriver is retained as a historical Captain FX product rather than being omitted because the builder's surviving documentation is sparse.
+## Versions and factory options
+- The documented Reverb unit is a white powdercoated finish and is identified as a 2020 Captain FX Overdriver.
+- The listing describes the unit as handmade.
 
 ## Research confidence
 - **Identity:** High.
-- **Overdrive classification:** High from the stored census.
-- **Technical details:** Unknown.
+- **Boost/overdrive/fuzz role:** High for the documented unit.
+- **2020 production evidence:** High.
+- **Exact circuit topology:** Unknown.
+- **Exact transistor part number:** Unknown.
 
 ## Sources checked
-1. The Dirt Archive historical census addendum: ./research/SCRAPE_C_BLOCK_165_ADDENDUM.csv
+1. Reverb - Captain FX Overdriver (based on Colorsound Overdriver/Power Boost/Throbak Overdrive Boost): https://reverb.com/item/39999294-captain-fx-overdriver-based-on-colorsound-overdriver-power-boost-throbak-overdrive-boost
+2. The Dirt Archive historical census addendum: ./research/SCRAPE_C_BLOCK_165_ADDENDUM.csv
 
 ## Photo
 - **Archive status:** **Exact Photo Pending**
+- The Reverb page contains exact-model imagery, but no local canonical image was promoted in this pass.
