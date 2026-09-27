@@ -45896,8 +45896,8 @@
       "image": "./assets/pedals/mojo-hand-fx/1979-baja/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mojo Hand FX/1979 Baja.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Mojo Hand FX",
@@ -45908,8 +45908,8 @@
       "image": "./assets/pedals/mojo-hand-fx/bluebonnet/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mojo Hand FX/BlueBonnet.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Mojo Hand FX",
@@ -45920,8 +45920,8 @@
       "image": "./assets/pedals/mojo-hand-fx/colossus/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mojo Hand FX/Colossus.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Mojo Hand FX",
