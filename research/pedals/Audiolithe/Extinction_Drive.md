@@ -3,66 +3,68 @@
 ## PRP identity
 - **Archive parent:** Extinction Drive
 - **Builder:** Audiolithe
-- **Catalog types:** Overdrive / Fuzz
-- **Introduction:** Current Audiolithe production generation, documented by 2022-2023 launch/review material.
-- **Identity:** One parent pedal with two interacting saturation channels.
+- **Catalog type:** Overdrive / Fuzz
+- **Identity:** Dual-channel saturation pedal combining a conventional drive channel with a second BLAST channel capable of low fuzz, octave-up content or boost behavior. [1][2]
 
 ## What this pedal is
-Extinction Drive is a dual-channel saturation pedal. The ENGAGE channel covers classic crunch through heavy gain, while the BLAST channel adds low-frequency fuzz and high-octave-up content and can also act as a boost; the two channels are separately volume-controlled. [1][2]
+Audiolithe describes Extinction Drive as a two-channel saturation machine. ENGAGE handles the core overdrive range, while BLAST adds a more extreme second voice with low-frequency fuzz and high-octave-up possibilities. The two channels have separate volume controls. [1][2]
 
-## Colorways
-- Standard production uses the illustrated silver/black extinction artwork.
-- No functional colorway variant was verified.
-- Cosmetic artwork changes do not create versions.
+## Controls / channels
+### ENGAGE
+- **DRIVE**
+- **TONE**
+- **VOL.DR**
 
-## Versions and factory modifications
-### Extinction Drive — original/current production
-Controls:
-- Drive
-- Tone
-- Lo
-- Hi
-- Vol.DR
-- Vol.BL
-- Scoop
-- ENGAGE and BLAST footswitches
-- true bypass
-- 9V DC
-- no battery [1]
+### BLAST
+- **LO**
+- **HI**
+- **VOL.BL**
+- **SCOOP**
 
-### Factory modifications
-- No separate builder-documented factory MOD or numbered revision verified.
-- Limited artwork/poster products are not pedal variants.
+The two footswitches independently engage the channels, allowing them to be used separately or together. [1]
 
-## Version changes
-No documented numbered production revision was found. The core architecture is intentionally two-channel from the outset: conventional overdrive on ENGAGE plus a second BLAST stage capable of low fuzz, high octave-up, or boost behavior. [1][2]
+## Circuit architecture
+- Dual-channel saturation design.
+- ENGAGE: conventional overdrive/distortion section.
+- BLAST: secondary saturation/fuzz/octave-up section.
+- **SCOOP:** changes the combined frequency balance.
+- True bypass. [1][2]
 
 ## Transistor
-- **Type:** Unknown.
-- No Extinction Drive-specific transistor technology or part number published.
+- Exact transistor or op-amp part numbers are not publicly documented.
 
-## Diode
-- **Type:** Unknown.
-- No Extinction Drive-specific diode documentation located.
+## Diode / clipping
+- Exact clipping devices are not publicly documented.
+
+## Version history
+- No numbered production revision established.
+- The dual-channel architecture is a defining property of the model rather than a later revision.
+- No documented factory modification beyond the standard control architecture was verified.
+
+## Power
+- External **9V DC** power.
+- **No battery support** is documented in the current product material. [1]
 
 ## Sound
-Extinction Drive moves from straightforward crunchy overdrive into heavy gain on its main channel, then adds a second, much stranger voice that can supply low fuzz and high-octave-up energy on top. The Lo/Hi controls let the BLAST channel move from relatively clean boost behavior into a more extreme octave/fuzz texture, while Scoop removes some mid density from the combined sound. [1][2]
+The ENGAGE channel ranges from crunchy drive into heavier gain. BLAST can add low fuzz, octave-up energy and boost-like behavior, while Lo/Hi and Scoop provide additional control over where that second channel sits in the overall spectrum. [1][2]
 
 ## Research confidence
 - **Identity:** High
-- **Feature set:** High
-- **Factory-version history:** Moderate to high
-- **Transistor:** Unknown
-- **Diode:** Unknown
-- **Sound:** High
+- **Dual-channel architecture:** High
+- **ENGAGE/BLAST controls:** High
+- **Octave-up capability:** High
+- **9V/no battery:** High
+- **Exact active device:** Unknown
+- **Exact diode:** Unknown
 
-## Photo
-- **Exact pedal photograph:** The Guitar Division photograph showing Extinction Drive.
-- **Direct image:** https://theguitardivision.com/photos/products/small/extinction-drive-audiolithe_639120388690656448.jpg
-- **Source page:** https://theguitardivision.com/en/audiolithe/extinction-drive-935.html
+## Deep research verification
+Audiolithe's current Extinction Drive product page was cross-checked with The Guitar Division and Delicious Audio. The combined evidence confirms the two-channel architecture, independent channel controls, octave-up/low-fuzz BLAST behavior and current 9V power arrangement. Component-level semiconductor details remain unpublished. [1][2][3]
 
 ## Sources checked
-1. Audiolithe/retailer product specifications: https://theguitardivision.com/en/audiolithe/extinction-drive-935.html
-2. Audiolithe official product information: https://audiolithefx.com/en-us/products/extinction-drive
-3. Delicious Audio — Audiolithe Extinction Drive, Feb. 23, 2023: https://delicious-audio.com/audiolithe-extinction-drive/
-4. Reverb — Audiolithe Extinction Drive: https://reverb.com/item/78238325-audiolithe-extinction-drive
+1. Audiolithe — Extinction Drive: https://audiolithefx.com/en-tw/products/extinction-drive
+2. The Guitar Division — Extinction Drive: https://theguitardivision.com/en/audiolithe/extinction-drive-935.html
+3. Delicious Audio — Audiolithe Extinction Drive: https://delicious-audio.com/audiolithe-extinction-drive/
+
+## Photo
+- **Exact pedal photograph:** Existing exact-model Guitar Division photograph.
+- **Source page:** https://theguitardivision.com/en/audiolithe/extinction-drive-935.html
