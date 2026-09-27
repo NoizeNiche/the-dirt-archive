@@ -1,23 +1,42 @@
 # Xotic Effects — RC Booster V2 — Transparent Boost with gain / dirt function
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** RC Booster V2 — Transparent Boost with gain / dirt function
 - **Builder:** Xotic Effects
-- **Pedal:** RC Booster V2 — Transparent Boost with gain / dirt function
 - **Catalog type:** Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Xotic Effects's RC Booster V2 — Transparent Boost with gain / dirt function.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **RC Booster V2 — Transparent Boost with gain / dirt function** by **Xotic Effects** as a **Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Xotic Effects's RC Booster V2 — Transparent Boost with gain / dirt function is cataloged as an overdrive pedal.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- The verified evidence references: V2.
+- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Documented terms in the verified sources: LEDs.
+- The archive records only the component information explicitly present in these sources.
+
+## Sound
+Free Shipping In Stock, Ready to Ship ADD TO CART SKU: RCBV2 Description Xotic’s infamous, Super Transparent, RC Booster has been renewed: The RC Booster V2, inspired by the Scott Henderson RCB-SH model, now comes with an added gain channel for even fatter tones with a super transparent 20dB+ clean boost.
+Run it at 18v for even more headroom.
+Xotic RC Booster V2 Boost/Overdrive – United States Served with love!
+
+## Sources checked
+1. Xotic RC Booster V2 - Booster Pedal: https://www.nstuffmusic.com/p-61473-xotic-effects-rc-booster-v2-booster-pedal.aspx
+2. Xotic Effects RC Booster V2 at Gear4music: https://www.gear4music.com/us/en/Guitar-and-Bass/Xotic-Effects-RC-Booster-V2/2AD6
+3. Xotic RC Booster V2 - Reverb: https://reverb.com/item/4081051-xotic-rc-booster-v2
+4. Xotic RC Booster V2 Boost/Overdrive – United States: https://www.thomannmusic.com/xotic_rc_booster_v2_boost_overdrive.htm
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

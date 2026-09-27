@@ -1,18 +1,37 @@
-# Old Blood Noise Endeavors - Haunt Fuzz w/ Clickless Switching
+# Old Blood Noise Endeavors — Haunt Fuzz w/ Clickless Switching
 
 ## PRP identity
-- Builder: Old Blood Noise Endeavors
-- Catalog type: Fuzz
-- Identity: Haunt Fuzz with clickless switching, a named Haunt Fuzz presentation in the builder's historical catalog.
+- **Archive parent:** Haunt Fuzz w/ Clickless Switching
+- **Builder:** Old Blood Noise Endeavors
+- **Catalog type:** Fuzz
+- **Identity:** Old Blood Noise Endeavors's Haunt Fuzz w/ Clickless Switching.
 
 ## What this pedal is
-The builder research block explicitly records a Haunt Fuzz version with clickless switching. The archive keeps that named presentation separate from the base Haunt Fuzz record while deeper research determines whether it represents a distinct catalog product or a switching revision.
+Old Blood Noise Endeavors's Haunt Fuzz w/ Clickless Switching is cataloged as a fuzz pedal.
 
-## Technical details
-Exact circuit changes, control differences and semiconductor data are not yet established.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- The verified evidence references: revision.
+- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+The verified evidence packet did not contain enough pedal-specific sonic description to make a more detailed sound summary without adding unsupported interpretation.
 
 ## Sources checked
-1. Old Blood Noise Endeavors catalog: https://www.oldbloodnoise.com/
+1. Old Blood Noise Endeavors &mdash; home: https://oldbloodnoise.com/
 
 ## Photo
-- Exact photo pending.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
