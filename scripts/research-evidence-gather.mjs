@@ -468,8 +468,8 @@ async function targetRecord(builder,pedal,type){
         ...f,
         // A URL copied from this pedal's existing curated research record is an
         // exact-model candidate even when the live page template omits the
-        // model name from its HTML body. Require at least two pedal-name tokens
-        // plus a builder token before applying this provenance shortcut.
+        // model name from its HTML body. The provenance shortcut now requires the
+        // exact pedal identity to appear in page metadata/title/H1/URL plus a builder hit.
         exactPedal:Boolean(f.exactPedal || (curatedExactCandidate && pedalMetadataExact && f.builderHits>=1))
       },
       signals:signals(fullText),
