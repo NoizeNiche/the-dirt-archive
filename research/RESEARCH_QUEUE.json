@@ -1,34 +1,27 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-27T20:52:15.386948+00:00",
+  "generated_at": "2026-09-27T20:53:35.821074+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
   "counts": {
-    "total": 4242,
-    "researched": 3743,
-    "pictured": 3368,
-    "complete": 3368,
+    "total": 4241,
+    "researched": 3742,
+    "pictured": 3367,
+    "complete": 3367,
     "research_pending": 0,
-    "deep_research_pending": 363,
+    "deep_research_pending": 362,
     "deep_researched": 3879,
-    "surface_ready": 4242
+    "surface_ready": 4241
   },
   "next_target": {
     "builder": "DigiTech",
-    "pedal": "Redline Modified Overdrive",
+    "pedal": "X-Series Distortion Factory DF-7",
     "catalog_type": "",
-    "research_record": "./research/pedals/DigiTech/Redline Modified Overdrive.md",
+    "research_record": "./research/pedals/DigiTech/X-Series Distortion Factory DF-7.md",
     "research_level": "surface"
   },
   "working_set": [
-    {
-      "builder": "DigiTech",
-      "pedal": "Redline Modified Overdrive",
-      "catalog_type": "",
-      "research_record": "./research/pedals/DigiTech/Redline Modified Overdrive.md",
-      "research_level": "surface"
-    },
     {
       "builder": "DigiTech",
       "pedal": "X-Series Distortion Factory DF-7",
@@ -195,6 +188,13 @@
       "pedal": "Metal X (FX70)",
       "catalog_type": "",
       "research_record": "./research/pedals/DOD Electronics/Metal X (FX70).md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "DOD Electronics",
+      "pedal": "Mystic Blues Overdrive (FX102)",
+      "catalog_type": "",
+      "research_record": "./research/pedals/DOD Electronics/Mystic Blues Overdrive (FX102).md",
       "research_level": "surface"
     }
   ]
