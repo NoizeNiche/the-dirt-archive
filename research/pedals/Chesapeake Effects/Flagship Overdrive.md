@@ -4,37 +4,51 @@
 - **Archive parent:** Flagship Overdrive
 - **Builder:** Chesapeake Effects
 - **Catalog type:** Overdrive
-- **Identity:** Chesapeake Effects Flagship Overdrive, a Blues Breaker-based overdrive with selectable symmetrical or asymmetrical clipping.
+- **Identity:** Blues Breaker-derived overdrive with selectable symmetrical/asymmetrical clipping, handmade in Westminster, Maryland. [1]
 
-## What this pedal is
-Pedal of the Day describes the Flagship as a Blues Breaker-based overdrive with more available gain and a clipping-mode toggle. It was hand-built in Westminster, Maryland. [1]
+## Controls
+- **VOLUME**
+- **GAIN**
+- **TONE**
+- **CLIPPING** toggle. [1]
 
-## Colorways
-- The reviewed exact-model example is **baby blue**. [1]
-- No complete factory colorway sequence was established.
+## Circuit lineage
+- **Primary reference:** Marshall **Blues Breaker** style.
+- The builder's implementation increases available gain and changes clipping behavior rather than being an untouched stock circuit. [1]
 
-## Versions and factory options
-The documented controls are:
-- Volume
-- Gain
-- Tone
-- Clipping-mode toggle [1]
-
-The clipping switch selects:
-- Symmetrical clipping for a smoother response.
-- Asymmetrical clipping for a more Screamer-like character. [1]
-
-## Version changes
-No formal numbered production revision sequence was established.
+## Clipping
+- **Symmetrical clipping:** smoother/rounder response.
+- **Asymmetrical clipping:** more compressed/forward response described by the reviewer as Screamer-like. [1]
+- Exact diode part numbers are not identified.
 
 ## Transistor
-No exact-model transistor part number was established.
+- Exact production transistor/device part number is not documented.
 
-## Diode
-The exact clipping diode type was not identified, but two clipping topologies are documented: symmetrical and asymmetrical. [1]
+## Power
+- Exact model-specific voltage/current details are not securely preserved.
+
+## Construction / finish
+- Hand-built in **Westminster, Maryland**.
+- Baby-blue exact-model example is documented. [1]
+
+## Version history
+- No numbered factory revision established.
 
 ## Sound
-The Flagship is intended as a Blues Breaker-derived drive with more gain available than the classic circuit, while the clipping toggle changes compression and harmonic emphasis between smoother symmetrical and more Screamer-like asymmetrical responses. [1]
+Flagship is designed as a higher-gain Blues Breaker-style overdrive. The clipping toggle changes the feel between smoother symmetrical breakup and more compressed asymmetrical clipping. [1]
+
+## Research confidence
+- **Identity:** High
+- **Blues Breaker lineage:** High
+- **Clipping switch:** High
+- **Hand-built Maryland production:** High
+- **Exact devices:** Unknown
+
+## Deep research verification
+Pedal of the Day's exact-model review directly confirms the four-control layout, Blues Breaker lineage, selectable clipping behavior and Westminster, Maryland construction. [1]
 
 ## Sources checked
 1. Pedal of the Day — Chesapeake Effects Flagship Overdrive: https://www.pedal-of-the-day.com/2016/09/29/chesapeake-effects-flagship-overdrive/
+
+## Photo
+- Exact-model photo status remains handled separately.
