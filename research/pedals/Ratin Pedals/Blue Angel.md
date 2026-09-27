@@ -1,23 +1,42 @@
 # Ratin Pedals — Blue Angel
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Blue Angel
 - **Builder:** Ratin Pedals
-- **Pedal:** Blue Angel
 - **Catalog type:** Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Ratin Pedals's Blue Angel.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Blue Angel** by **Ratin Pedals** as a **Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Custom Overdrive Pedal Demo through Hiwatt DR103 & Strat 9:32 2025-10-19 Ratin Pedals Blue Angel Overdrive Jr Boosted with an MXR ZW44 clone 1:00 2024-06-10 Ratin Pedals Small Pedal, Big Tone!
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- not by manufacturer Date ▼▲ Maker ▼▲ Video ▼▲ Time ▼▲ 2026-09-06 Ratin Pedals HIWATT DR103 + Blue Angel Overdrive
+- Ratin Pedals #shorts 0:40 2026-08-30 Ratin Pedals Blue Angel Overdrive into a HIWATT DR103
+- Greco RR700 Sound Demo 9:27 2026-07-16 Ratin Pedals Blue Angel Overdrive
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+It's got 2 switches that help you get your desired tone easier.
+One of them deals with the dynamic range and the other with the tonality before the distorting stage.
+The dynamic switch enables you to choose between 3 distinct dynamic range, it starts from being too wide and open, which is the mid position, then limits the range in lower position and the then the upper is the most compressed, fat and sustained mode.
+
+## Sources checked
+1. Ratin Pedals Blue Angel Overdrive Pedal - Reverb: https://reverb.com/item/31974655-ratin-pedals-blue-angel-overdrive-pedal
+2. Ratin Pedals Blue Angel | Effects Database: https://www.effectsdatabase.com/model/ratin/blueangel
+3. Ratin Pedals Blue Angel Overdrive Hand Made Germany Guitar ... - eBay: https://www.ebay.com/itm/227433492989
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

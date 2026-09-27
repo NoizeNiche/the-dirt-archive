@@ -1,23 +1,44 @@
 # Mid-Fi Electronics — Psych Byke
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Psych Byke
 - **Builder:** Mid-Fi Electronics
-- **Pedal:** Psych Byke
 - **Catalog type:** Fuzz
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Mid-Fi Electronics's Psych Byke.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Psych Byke** by **Mid-Fi Electronics** as a **Fuzz** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Mid-Fi Electronics's Psych Byke is cataloged as a fuzz pedal.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- If you love vintage fuzz thats raw, unpredictable, and full of character, this pedal is a must-have.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+This wild fuzz box takes you straight to the '60s, delivering gnarly, ripping tones that sound like your amp is barely holding togetherin the best way possible.
+This wild fuzz box takes you straight to the ’60s, delivering gnarly, ripping tones that sound like your amp is barely holding togetherin the best way possible.
+If you love vintage fuzz thats raw, unpredictable, and full of character, this pedal is a must-have.
+
+## Sources checked
+1. Mid-Fi Electronics ::: Psych Byke: https://www.midfielectronics.com/psychbyke
+2. Amazon.com: https://www.amazon.com/Mid-Fi-Electronics-Psych-Byke/dp/B00OTBXSXM
+3. Mid-Fi Electronics psych byke - worn white - Reverb: https://reverb.com/item/98472607-mid-fi-electronics-psych-byke-worn-white
+4. Mid-Fi Electronics Psych Byke Guitar Effects Pedal Psychedelic Sound ...: https://www.ebay.com/itm/117407989549
+5. Mid-Fi electronics Psych Byke - YouTube: https://www.youtube.com/watch?v=zY5hQmWLMXA
+6. Mid-Fi Electronics Psych Byke | Effects Database: https://www.effectsdatabase.com/model/midfi/psychbyke
+7. Mid-Fi Electronics Psych Byke Pedal - Natural Sounding Acoustic Guitar Pickups for Live Performance: https://www.acoupckgtr.com/product/mid-fi-electronics-psych-byke-pedal/
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

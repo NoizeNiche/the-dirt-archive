@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-27T11:36:50.427154+00:00",
+  "generated_at": "2026-09-27T11:38:39.639170+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,8 +10,8 @@
     "pictured": 3140,
     "complete": 3140,
     "research_pending": 0,
-    "deep_research_pending": 764,
-    "deep_researched": 3478,
+    "deep_research_pending": 743,
+    "deep_researched": 3499,
     "surface_ready": 4242
   },
   "next_target": {
@@ -100,34 +100,6 @@
       "research_level": "surface"
     },
     {
-      "builder": "Colorsound / Sola Sound",
-      "pedal": "G.B. Fuzz",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Colorsound / Sola Sound/G.B. Fuzz.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Colorsound / Sola Sound",
-      "pedal": "Pro Traffic Fuzz Unit",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Colorsound / Sola Sound/Pro Traffic Fuzz Unit.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Cranetortoise by Albit",
-      "pedal": "DD-1B Dual Distortion for Bass",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Cranetortoise by Albit/DD-1B Dual Distortion for Bass.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "CrazyTone",
-      "pedal": "Crazytone Fuzz",
-      "catalog_type": "",
-      "research_record": "./research/pedals/CrazyTone/Crazytone Fuzz.md",
-      "research_level": "surface"
-    },
-    {
       "builder": "Critically Overdriven",
       "pedal": "E.O.D.",
       "catalog_type": "",
@@ -195,6 +167,34 @@
       "pedal": "EasyDriver",
       "catalog_type": "",
       "research_record": "./research/pedals/DeadastronautFX/EasyDriver.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "DeadastronautFX",
+      "pedal": "Skinwalker",
+      "catalog_type": "",
+      "research_record": "./research/pedals/DeadastronautFX/Skinwalker.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Death By Audio",
+      "pedal": "Echo Dream 2 (fuzz function)",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Death By Audio/Echo Dream 2 (fuzz function).md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Death By Audio",
+      "pedal": "Sonic Incinerator",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Death By Audio/Sonic Incinerator.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Demeter",
+      "pedal": "DRV-2 Uberdriveulator",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Demeter/DRV-2 Uberdriveulator.md",
       "research_level": "surface"
     }
   ]

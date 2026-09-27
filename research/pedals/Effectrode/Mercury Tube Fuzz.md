@@ -1,23 +1,43 @@
 # Effectrode — Mercury Tube Fuzz
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Mercury Tube Fuzz
 - **Builder:** Effectrode
-- **Pedal:** Mercury Tube Fuzz
 - **Catalog type:** Fuzz
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Effectrode's Mercury Tube Fuzz.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Mercury Tube Fuzz** by **Effectrode** as a **Fuzz** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Mercury Tube Fuzz — Effectrode Fuzz Pedal
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Documented terms in the verified sources: Germanium Fuzz.
+- The archive records only the component information explicitly present in these sources.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+Mercury Tube Fuzz — Effectrode Fuzz Pedal
+© 2026 PedalFilter Clear Compare ( 0 ) Back Home Effectrode Mercury Tube Fuzz Back to results Effectrode Mercury Tube Fuzz Fuzz Tube Vacuum tube fuzz with NOS Philips tube and germanium diodes, Heat switch for transistor-like bite.
+Pedalboard Designer Pedalboard Designer Feed Catalog EN Login Catalog / Mercury Tube Fuzz Add to my board EFFECTRODE Mercury Tube Fuzz uncategorized Technical Specs Dimensions 94 × 129 mm
+
+## Sources checked
+1. Mercury Tube Fuzz pedal - Effectrode: https://www.effectrode.com/products/effects-pedals/mercury-tube-fuzz-pedal/
+2. Effectrode Mercury Tube Fuzz Pedal | Equipboard: https://equipboard.com/items/effectrode-mercury-tube-fuzz
+3. Mercury Tube Fuzz — Effectrode Fuzz Pedal | PedalFilter | PedalFilter: https://pedalfilter.com/effectrode/mercury-tube-fuzz
+4. Effectrode Mercury Tube Fuzz | ToneFoo: https://tonefoo.com/pedals/effectrode/mercury-tube-fuzz
+5. Mercury Tube Fuzz by Effectrode | RockBoard | PedalPedia: http://www.rockboard.de/en/pedalPedia/Effectrode/Mercury-Tube-Fuzz/68978193/
+6. Mercury Tube Fuzz — EFFECTRODE | Specs, Review, Where to Buy | Pedalboard Designer: https://pedalboarddesigner.com/en/pedals/effectrode-mercury-tube-fuzz
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

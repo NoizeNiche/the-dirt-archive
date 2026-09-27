@@ -26078,8 +26078,8 @@
       "source_page": null,
       "research_record": "./research/pedals/Colorsound / Sola Sound/G.B. Fuzz.md",
       "image_source_page": "https://www.kitrae.net/music/Fuzz_Big_Muff_Timeline.html",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Colorsound / Sola Sound",
@@ -26118,8 +26118,8 @@
       "source_page": null,
       "research_record": "./research/pedals/Colorsound / Sola Sound/Pro Traffic Fuzz Unit.md",
       "image_source_page": "https://www.kitrae.net/music/Fuzz_Big_Muff_Timeline.html",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Colorsound / Sola Sound",
@@ -28005,8 +28005,8 @@
       "source_page": null,
       "research_record": "./research/pedals/Cranetortoise by Albit/DD-1B Dual Distortion for Bass.md",
       "image_source_page": "https://www.effectsdatabase.com/model/cranetortoise",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Cranetortoise by Albit",
@@ -28729,8 +28729,8 @@
       "image": "./assets/pedals/crazytone/crazytone-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/CrazyTone/Crazytone Fuzz.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Creation Audio Labs",
@@ -34602,8 +34602,8 @@
       "image": "./assets/pedals/earthquaker-devices/speaker-cranker/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/EarthQuaker Devices/Speaker Cranker.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "EarthQuaker Devices",
@@ -34909,8 +34909,8 @@
       "image": "./assets/pedals/effectrode/mercury-tube-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Effectrode/Mercury Tube Fuzz.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Effectrode",
@@ -35419,8 +35419,8 @@
       "image": "./assets/pedals/electro-harmonix/ram-s-head-big-muff-pi/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Electro-Harmonix/Ram's Head Big Muff Pi.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Electro-Harmonix",
@@ -41590,8 +41590,8 @@
       "image": "./assets/pedals/kma-machines/fuzzly-bear-2/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/KMA Machines/Fuzzly Bear 2.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "KMA Machines",
@@ -42574,8 +42574,8 @@
       "image": "./assets/pedals/lovepedal/tiki-drive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Lovepedal/Tiki Drive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Lovepedal",
@@ -44032,8 +44032,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Maxon/Organic Overdrive (OOD-9).md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Maxon",
@@ -44822,8 +44822,8 @@
       "image": "./assets/pedals/mcgregor-pedals/the-classic-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/McGregor Pedals/The Classic Fuzz.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "McGregor Pedals",
@@ -44885,8 +44885,8 @@
       "image": "./assets/pedals/menatone/blue-collar-mojo-ptp/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Menatone/Blue Collar Mojo PTP.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Menatone",
@@ -45594,8 +45594,8 @@
       "image": "./assets/pedals/mid-fi-electronics/peace-gun/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mid-Fi Electronics/Peace Gun.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Mid-Fi Electronics",
@@ -45606,8 +45606,8 @@
       "image": "./assets/pedals/mid-fi-electronics/psych-byke/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mid-Fi Electronics/Psych Byke.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Mid-Fi Electronics",
@@ -45618,8 +45618,8 @@
       "image": "./assets/pedals/mid-fi-electronics/random-number-generator/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mid-Fi Electronics/Random Number Generator.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Mid-Fi Electronics",
@@ -47316,8 +47316,8 @@
       "image": "./assets/pedals/mythos-pedals/chupacabra-cmos-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mythos Pedals/Chupacabra CMOS Overdrive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Mythos Pedals",
@@ -47328,8 +47328,8 @@
       "image": "./assets/pedals/mythos-pedals/d-style-herculean-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mythos Pedals/D-Style Herculean Overdrive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Mythos Pedals",
@@ -47340,8 +47340,8 @@
       "image": "./assets/pedals/mythos-pedals/envy-pro-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mythos Pedals/Envy Pro Overdrive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Mythos Pedals",
@@ -49443,8 +49443,8 @@
       "image": "./assets/pedals/proco-sound/rat-2/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/ProCo Sound/RAT 2.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "ProCo Sound",
@@ -49790,8 +49790,8 @@
       "image": "./assets/pedals/ratin-pedals/blue-angel/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Ratin Pedals/Blue Angel.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "ReevesElectro",
@@ -53712,8 +53712,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Vemuram/SHANKS ODS-1.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Vemuram",

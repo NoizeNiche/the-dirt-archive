@@ -1,23 +1,36 @@
 # Maxon — Organic Overdrive (OOD-9)
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Organic Overdrive (OOD-9)
 - **Builder:** Maxon
-- **Pedal:** Organic Overdrive (OOD-9)
 - **Catalog type:** Distortion / Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Maxon's Organic Overdrive (OOD-9).
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Organic Overdrive (OOD-9)** by **Maxon** as a **Distortion / Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Maxon's Organic Overdrive (OOD-9) is cataloged as a distortion / overdrive pedal.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+Maxon Organic Overdrive (OOD-9) – Godlyke, Inc.
+
+## Sources checked
+1. Maxon Organic Overdrive (OOD-9) &ndash; Godlyke, Inc.: https://maxonfx.com/products/nine-series-guitar-effects-pedals-organic-overdrive-ood-9
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

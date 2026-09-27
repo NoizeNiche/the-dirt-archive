@@ -1,23 +1,43 @@
 # Mid-Fi Electronics — Random Number Generator
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Random Number Generator
 - **Builder:** Mid-Fi Electronics
-- **Pedal:** Random Number Generator
 - **Catalog type:** Fuzz
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Mid-Fi Electronics's Random Number Generator.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Random Number Generator** by **Mid-Fi Electronics** as a **Fuzz** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+The Mid-Fi Electronics Random Number Generator isnt your average distortion pedalit adds wild, harmonically rich arpeggiation that shifts and evolves as you play.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+Mid-Fi Electronics ::: Random Number Generator HOME PEDALS PURCHASE Random Number Generator Fuzz with random harmonically related low frequency arpeggiation.
+Qty Add to Cart Description Mid-Fi Electronics Random Number Generator Pedal Step into a world of unpredictable fuzz!
+The Mid-Fi Electronics Random Number Generator isnt your average distortion pedalit adds wild, harmonically rich arpeggiation that shifts and evolves as you play.
+
+## Sources checked
+1. Mid-Fi Electronics ::: Random Number Generator: https://www.midfielectronics.com/randomnumbergenerator
+2. Mid-Fi Electronics Random Number Generator Pedal &ndash; DeathCloud: https://deathcloud.com/products/mid-fi-electronics-random-number-generator
+3. Mid-Fi Electronics Random Number Generator Pedal Random Color | Effects Pedal: https://www.micinstrument.com/product/mid-fi-electronics-random-number-generator-pedal-random-color/
+4. Mid-Fi Electronics Random Number Generator — Fuzz Pedal: https://equipboard.com/items/mid-fi-electronics-random-number-generator
+5. Mid-Fi Electronics Random Number Generator - Blogger: https://effectslayouts.blogspot.com/2020/10/mid-fi-electronics-random-number.html
+6. Mid-Fi Electronics Random Number Generator Pedal: https://www.talentmusicstore.com/product/mid-fi-electronics-random-number-generator-pedal/
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

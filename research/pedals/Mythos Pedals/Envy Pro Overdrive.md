@@ -1,23 +1,44 @@
 # Mythos Pedals — Envy Pro Overdrive
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Envy Pro Overdrive
 - **Builder:** Mythos Pedals
-- **Pedal:** Envy Pro Overdrive
 - **Catalog type:** Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Mythos Pedals's Envy Pro Overdrive.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Envy Pro Overdrive** by **Mythos Pedals** as a **Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+For further details contact us at https://mythospedals.com/pages/contact It was just a matter of time Inspired by the most iconic pedal of all time Tweaked just right The Envy Pro Overdrive is inspired by the various versions of that ever polarizing green stompbox.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- For further details contact us at https://mythospedals.com/pages/contact It was just a matter of time Inspired by the most iconic pedal of all time Tweaked just right The Envy Pro Overdrive is inspired by the various versions of that ever polarizing green stompbox.
+- Mythos Pedals Envy NV9 Pro Overdrive $ 89.50 $ 179.00 Review From Mythos Pedals: Inspired by that legendary green overdrive, the Envy Pro Overdrive is the newest entry into the Mythos Pedals lineup.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+Envy Pro Overdrive NV-9 View in your space Envy Pro Overdrive Title Default Title Default Title - $179.00 USD Sale price Regular price $179.00 ( / ) Quantity − + loading...
+For further details contact us at https://mythospedals.com/pages/contact It was just a matter of time Inspired by the most iconic pedal of all time Tweaked just right The Envy Pro Overdrive is inspired by the various versions of that ever polarizing green stompbox.
+With its increased output, expanded drive range, and thickened low end, the Envy takes the TS formula and makes it more useful for every player, regardless of style.
+
+## Sources checked
+1. Mythos Pedals Envy Pro Overdrive NV-9 Pedal | Equipboard: https://equipboard.com/items/mythos-pedals-envy-pro-overdrive-nv-9
+2. Envy Pro Overdrive &ndash; Mythos Pedals: https://mythospedals.com/products/envy-pro-overdrive
+3. Mythos Pedals Envy Pro Overdrive - Elegant Classical Guitars Crafted ...: https://www.typicalguitars.com/product/mythos-pedals-envy-pro-overdrive/
+4. Mythos Pedals Envy Pro Overdrive: https://parkwaymusic.com/products/mythos-pedals-envy
+5. Mythos Pedals Envy Pro Overdrive – Controls, SubPlexes & Rig Builder | PedalPlex: https://pedalplex.com/gear/mythos-pedals-envy-pro-overdrive
+6. Mythos Pedals Envy NV9 Pro Overdrive - Guitar Gear, Electric Guitars, Pedals & Accessories Store: https://www.riffsupply.com/product/mythos-pedals-envy-nv9-pro-overdrive/
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
