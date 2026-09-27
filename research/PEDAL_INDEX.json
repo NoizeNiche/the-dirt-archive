@@ -36419,6 +36419,18 @@
     },
     {
       "company": "Himmelstrutz Elektro Art",
+      "pedal": "FITZO",
+      "types": [
+        "Overdrive"
+      ],
+      "image": "",
+      "source_page": "https://himmelstrutz.com/download/",
+      "research_record": "",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Himmelstrutz Elektro Art",
       "pedal": "FITZO+",
       "types": [
         "Overdrive"
@@ -36488,6 +36500,30 @@
       "image": "./assets/pedals/himmelstrutz-elektro-art/t-nker/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Himmelstrutz Elektro Art/TÔNKer.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Himmelstrutz Elektro Art",
+      "pedal": "Under Over",
+      "types": [
+        "Overdrive"
+      ],
+      "image": "",
+      "source_page": "https://himmelstrutz.com/download/",
+      "research_record": "",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Himmelstrutz Elektro Art",
+      "pedal": "Under Overdriver",
+      "types": [
+        "Overdrive"
+      ],
+      "image": "",
+      "source_page": "https://himmelstrutz.com/download/",
+      "research_record": "",
       "research_level": "surface",
       "deep_research_status": "PENDING"
     },
