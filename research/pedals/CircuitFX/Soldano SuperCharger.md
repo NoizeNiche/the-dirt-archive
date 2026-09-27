@@ -36,3 +36,17 @@ The builder describes the pedal as producing harmonic, full midrange tube drive 
 
 ## Sources checked
 1. CircuitFX — Soldano SuperCharger: https://circuitfx.wordpress.com/2011/10/15/soldano-supercharger-pedal/
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+CircuitFX's Soldano SuperCharger is cataloged as an overdrive pedal.
+
+### Verified sound evidence
+2012 พฤศจิกายน 2011 ตุลาคม 2011 กันยายน 2011 มีนาคม 2011 กันยายน 2010 มิถุนายน 2010 หมวดหมู่ Amp เรื่องทั่วไป Cab Simulator Diecut box Guitar pedal handmade Guitar-Bass Preamp Lab&Tool Modulation OD-Distortion pcb Pedals1590A True bypass Tube overdrive Uncategorized เว็บไซต์ที่ขับเคลื่อนโดย WordPress.com .
+
+### Sources checked in this pass
+1. Soldano SuperCharger pedal | Custom Guitar pedal & PCB project: https://circuitfx.wordpress.com/2011/10/15/soldano-supercharger-pedal/
+2. Log in now.: https://wordpress.com/log-in?redirect_to=https%3A%2F%2Fcircuitfx.wordpress.com%2F2011%2F10%2F15%2Fsoldano-supercharger-pedal%2F&

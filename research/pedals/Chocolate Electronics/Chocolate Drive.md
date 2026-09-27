@@ -30,3 +30,25 @@ The internal voltage boost and wide Treble/Bass range are documented as defining
 ## Sources checked
 1. The Dirt Archive Phase One Chocolate Electronics inventory: https://github.com/NoizeNiche/the-dirt-archive/commit/e806b0fed11807404f993ebc5da2969bacf51f46
 2. Chocolate Electronics official site: https://en.chocolateelectronics.com/product_chocolatedrive.html
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Chocolate Electronics's Chocolate Drive is cataloged as an overdrive pedal.
+
+### Verified version references
+- The evidence references: v6.
+
+### Verified sound evidence
+Chocolate Drive:Chocolate Electronics ENGLISH PAGE
+
+### Sources checked in this pass
+1. Chocolate Drive | Chocolate Electronics: https://shop.chocolateelectronics.com/items/150326368
+2. Chocolate Electronics Chocolate Drive | Reverb: https://reverb.com/item/73807050-chocolate-electronics-chocolate-drive
+3. CHOCOLATE ELECTRONICS チョコレートエレクトロニクス / Chocolate Drive【オーバードライブ】: https://effectorbox.com/collection/chocolate-electronics-chocolate-drive/
+4. Chocolate Drive:Chocolate Electronics: https://ja.chocolateelectronics.com/product_chocolatedrive.html
+5. Chocolate Electronics Chocolate Electronics / Chocolate Drive チョコレート ...: https://www.ebay.com/itm/336770563574
+6. Chocolate Electronics - Chocolate Drive Overdrive Pedal - Armstrong Music: https://www.armstrongmusic.co.uk/products/chocolate-drive-overdrive-pedal
+7. CHOCOLATE ELECTRONICS Effect Pedal Chocolate Drive - eBay: https://www.ebay.ca/itm/800689521900

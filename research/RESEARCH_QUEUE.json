@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-27T10:10:58.369162+00:00",
+  "generated_at": "2026-09-27T10:14:04.760671+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,8 +10,8 @@
     "pictured": 3133,
     "complete": 3133,
     "research_pending": 0,
-    "deep_research_pending": 1491,
-    "deep_researched": 2751,
+    "deep_research_pending": 1465,
+    "deep_researched": 2777,
     "surface_ready": 4242
   },
   "next_target": {
@@ -185,16 +185,16 @@
     },
     {
       "builder": "Bouteek",
-      "pedal": "Overdriver - Preamp",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 114/overdriver-preamp.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Bouteek",
       "pedal": "Twin Drive and Boost - Ultimate Drive with Fuzz Inject",
       "catalog_type": "",
       "research_record": "./research/pedals/PRP Batch 114/twin-drive-and-boost-ultimate-drive-with-fuzz-inject.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "BoX",
+      "pedal": "Distortion",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 115/box-distortion.md",
       "research_level": "surface"
     }
   ]

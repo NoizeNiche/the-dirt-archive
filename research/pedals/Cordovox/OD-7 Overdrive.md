@@ -44,3 +44,18 @@ The Effects Database related-design tree places the Cordovox OD-7 in the same br
 1. Effects Database - Cordovox OD-7 Overdrive
 2. Guitar Villa - OD-7 Overdrive
 3. Guitar Villa - Cordovox collection
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Cordovox's OD-7 Overdrive is cataloged as an overdrive pedal.
+
+### Verified sound evidence
+This pedal has a classic control lay out with a Volume, Tone, and Drive adjust further amplified by switching from Warm to Bright to TS(sound familiar?) Takes standard 9V power supply or battery.
+True bypass footswitch design ensure effectively conversion of bypass and effect, no loss of your actual guitar tone under bypass status.
+Ask a question Name Email Message Send Share Share on Facebook Tweet Tweet on Twitter Pin it Pin on Pinterest You may also like Quick view OD-7 Overdrive Cordovox Regular price $119.00 Sale price $89.99 Save $29.01 Guitar Villa Guitar Villa 228 Nazareth Pike (Rt.
+
+### Sources checked in this pass
+1. OD-7 Overdrive &ndash; Shop Guitar Villa: https://guitar-villa.com/products/xdrive-overdrive-distortion

@@ -42,3 +42,14 @@ Cicognani describes the pedal as covering edge-of-breakup through high-gain Brit
 ## Sources checked
 1. Cicognani Engineering Speciale DD 1959 manual: https://manualzz.com/doc/70962799/cicognani-engineering-speciale-dd-1959-user-manual
 2. Soundgas — Cicognani Speciale DD 1959: https://soundgas.com/products/cicognani-engineering-speciale-dd-1959-analog-tube-overdrive
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Cicognani Engineering's Speciale DD 1959 is cataloged as an overdrive pedal.
+
+### Sources checked in this pass
+1. catalog/override source: https://manualzz.com/doc/70962799/cicognani-engineering-speciale-dd-1959-user-manual
+2. Cicognani Engineering Speciale DD 1959 Analog Tube Overdrive FOR SALE &ndash; Soundgas: https://soundgas.com/products/cicognani-engineering-speciale-dd-1959-analog-tube-overdrive

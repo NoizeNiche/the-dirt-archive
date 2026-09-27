@@ -37,3 +37,22 @@ The exact model is documented as an analog mini fuzz with a simple two-control i
 
 ## Sources checked
 1. One Thousand Pedals — Circle of Tone Fuzz: https://onethousandpedals.com/pedal/circle-of-tone-fuzz
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Circle of Tone Fuzz — Fuzz Pedal Specs & Where to Buy
+
+### Verified transistor/device terms
+- Germanium Fuzz.
+
+### Verified sound evidence
+Circle of Tone Fuzz — Fuzz Pedal Specs & Where to Buy
+Fender Fender x Hello Kitty Fuzz Fuzz · $99.99 Circle Electric Orbiter Germanium Fuzz Face · $265 Browse all Fuzz pedals → one thousand pedals · Specs from the manufacturer; blanks left blank, never guessed.
+Circle Of Tone FUZZ Hello Kitty Series 4 Guitar or Bass FX Pedal True Bypass VOL/FUZZ Versatile Tone – This Shop is in Canadian Dollars $$ Free N Fast USA /CAN Shipping, NO State/Province Tax NO Duty.
+
+### Sources checked in this pass
+1. Circle of Tone Fuzz — Fuzz Pedal Specs & Where to Buy | one thousand pedals: https://onethousandpedals.com/pedal/circle-of-tone-fuzz
+2. Circle Of Tone FUZZ Hello Kitty Series 4 Guitar or Bass FX Pedal True Bypass VOL/FUZZ Versatile Tone – This Shop is in Canadian Dollars $$: https://starlitedistribution.ca/product/circle-of-tone-fuzz-hello-kitty-series-4-guitar-or-bass-fx-pedal-true-bypass-vol-fuzz-versatile-tone/

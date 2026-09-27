@@ -40,3 +40,16 @@ Effects Database maintains a model-specific Screem Mk-II record referenced by co
 ## Sources checked
 1. DIR EN GREY Toshiya equipment archive: https://note.com/rpg_96/n/n4261685e0c6a
 2. Effects Database - Screem Mk-II reference linked from the equipment archive: https://www.effectsdatabase.com/model/communeeca/screem/mk2
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Commune/ECA (Empire Custom Amplification)'s Screem Mk-II is cataloged as an overdrive pedal.
+
+### Verified version references
+- The evidence references: V1, mk2.
+
+### Sources checked in this pass
+1. DIR EN GREY Toshiya 使用機材まとめ｜べにしょうが: https://note.com/rpg_96/n/n4261685e0c6a

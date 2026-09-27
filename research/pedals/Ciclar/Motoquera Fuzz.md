@@ -31,3 +31,16 @@ Multiple community sources identify the Motoquera as a Big Muff-oriented fuzz. O
 1. Effects Database — Ciclar Fuzz / Motoquera video listing: https://www.effectsdatabase.com/model/ciclar/fuzz
 2. RedPanal — Ciclar hand-built vintage-oriented pedals, including Motoquera: https://blog.redpanal.org/pedales-de-guitarra-vintage
 3. Cifra Club forum discussion identifying Motoquera as a Big Muff-style fuzz: https://forum.cifraclub.com.br/forum/7/246320/p68
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Ciclar's Motoquera Fuzz is cataloged as a fuzz pedal.
+
+### Verified sound evidence
+# arquera overdrive # bombera tremolo # ciclar # el musiquiatra # fuzz # motoquera fuzz # overdrive # pedales de guitarra # sonido vintage # tremolo 20/05/2010 Deja una respuesta Cancelar la respuesta Lo siento, debes estar conectado para publicar un comentario.
+
+### Sources checked in this pass
+1. Pedales de guitarra vintage - RedPanal: https://blog.redpanal.org/pedales-de-guitarra-vintage

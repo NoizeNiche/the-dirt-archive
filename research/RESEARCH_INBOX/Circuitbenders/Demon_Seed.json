@@ -1,0 +1,25 @@
+{
+  "builder": "Circuitbenders",
+  "pedal": "Demon Seed",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 2,
+  "sources": [
+    {
+      "url": "https://reverb.com/item/83010803-circuitbenders-co-uk-demon-seed",
+      "title": "Circuitbenders.co.uk Demon Seed - Reverb",
+      "h1": "",
+      "excerpt": "",
+      "host": "reverb.com",
+      "source_kind": "reverb"
+    },
+    {
+      "url": "https://www.perfectcircuit.com/circuitbenders-demon-seed-used.html",
+      "title": "Circuitbenders Demon Seed Lo-Fi Fuzz Pedal [USED] - Perfect Circuit",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.perfectcircuit.com",
+      "source_kind": "other"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}

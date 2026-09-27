@@ -29,3 +29,18 @@ The product is defined by its crossover-distortion concept, but the surviving ca
 
 ## Sources checked
 1. Effects Database — Brimstone Audio: https://www.effectsdatabase.com/model/brimstone
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Brimstone Audio's XD-1 Crossover Distortion is cataloged as a distortion pedal.
+
+### Verified sound evidence
+Brimstone Audio XD-1 Crossover Distortion
+Using a variable crossover to split your signal into a high band and a low band, and then routing each band to separate mosfet overdrive preamps, this pedal virtually eliminates unwanted intermodulation distortion, creating an overdriven tone with unprecedented clarity.
+Enjoy the sound of uncompressed high gain with increased response to picking dynamics.
+
+### Sources checked in this pass
+1. Brimstone Audio XD-1 Crossover Distortion | Effects Database: https://www.effectsdatabase.com/model/brimstone/crossover/distortion

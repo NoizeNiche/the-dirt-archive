@@ -41,3 +41,13 @@ The pedal is designed around Plexi-style overdrive, with channel 1 offering lowe
 ## Sources checked
 1. Cicognani Engineering — Triple Decker: https://www.cicognani.eu/triple-decker/
 2. Cicognani Engineering — Manuals: https://www.cicognani.eu/manuals/
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Cicognani Engineering's Triple Decker is cataloged as an overdrive pedal.
+
+### Sources checked in this pass
+1. TRIPLE DECKER - Cicognani Engineering: https://www.cicognani.eu/triple-decker/

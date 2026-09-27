@@ -15500,8 +15500,8 @@
         "https://www.effectsdatabase.com/model/bouteek/overdriver"
       ],
       "image_source_pages_verified": true,
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Bouteek",
@@ -15928,8 +15928,8 @@
         "https://www.effectsdatabase.com/model/brimstone/crossover/distortion"
       ],
       "image_source_pages_verified": true,
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "British Pedal Company",
@@ -16142,8 +16142,8 @@
       "research_record": "./research/pedals/PRP Batch 118/broughton-audio-fliptop.md",
       "image_source_page": "https://www.broughtonaudio.com/archive?page=2",
       "image_source_url": "https://static.wixstatic.com/media/4b9583_e3f208948dad43e9a21fc03c7fb15e7d~mv2.jpg/v1/fill/w_286,h_286,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/4b9583_e3f208948dad43e9a21fc03c7fb15e7d~mv2.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Broughton Audio",
@@ -16242,8 +16242,8 @@
       "research_record": "./research/pedals/PRP Batch 119/broughton-audio-sentinel.md",
       "image_source_page": "https://www.broughtonaudio.com/archive?page=2",
       "image_source_url": "https://static.wixstatic.com/media/4b9583_e3f208948dad43e9a21fc03c7fb15e7d~mv2.jpg/v1/fill/w_286,h_286,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/4b9583_e3f208948dad43e9a21fc03c7fb15e7d~mv2.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Broughton Audio",
@@ -23373,8 +23373,8 @@
       "image": "./assets/pedals/chocolate-electronics/chocolate-drive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Chocolate Electronics/Chocolate Drive.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Chocolate Electronics",
@@ -23604,8 +23604,8 @@
       "image": "./assets/pedals/chuck-pedals/arcadiator/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Chuck Pedals/Arcadiator.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Chuck Pedals",
@@ -23652,8 +23652,8 @@
       "image": "./assets/pedals/chunk-systems/brown-dog/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Chunk Systems/Brown Dog.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Chunk Systems",
@@ -23664,8 +23664,8 @@
       "image": "./assets/pedals/chunk-systems/fz002/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Chunk Systems/FZ002.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Ciclar",
@@ -23676,8 +23676,8 @@
       "image": "./assets/pedals/ciclar/arquera-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Ciclar/Arquera Overdrive.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Ciclar",
@@ -23688,8 +23688,8 @@
       "image": "./assets/pedals/ciclar/motoquera-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Ciclar/Motoquera Fuzz.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Cicognani Engineering",
@@ -23712,8 +23712,8 @@
       "image": "./assets/pedals/cicognani-engineering/speciale-dd-1959/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Cicognani Engineering/Speciale DD 1959.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Cicognani Engineering",
@@ -23724,8 +23724,8 @@
       "image": "./assets/pedals/cicognani-engineering/triple-decker/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Cicognani Engineering/Triple Decker.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Circle Of Tone",
@@ -23748,8 +23748,8 @@
       "image": "./assets/pedals/circle-of-tone/distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Circle Of Tone/Distortion.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Circle Of Tone",
@@ -23760,8 +23760,8 @@
       "image": "./assets/pedals/circle-of-tone/fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Circle Of Tone/FUZZ.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Circle Of Tone",
@@ -23797,8 +23797,8 @@
       "image": "./assets/pedals/circuit-rider-effects/siclops/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Circuit Rider Effects/SiClops.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Circuitbenders",
@@ -23809,8 +23809,8 @@
       "image": "./assets/pedals/circuitbenders/black-box-audio-destructor/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Circuitbenders/Black Box Audio Destructor.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Circuitbenders",
@@ -23822,8 +23822,8 @@
       "image": "./assets/pedals/circuitbenders/demon-seed/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Circuitbenders/Demon Seed.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "CircuitFX",
@@ -23834,8 +23834,8 @@
       "image": "./assets/pedals/circuitfx/cruncher/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/CircuitFX/Cruncher.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "CircuitFX",
@@ -23846,8 +23846,8 @@
       "image": "./assets/pedals/circuitfx/soldano-supercharger/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/CircuitFX/Soldano SuperCharger.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Circuitous FX",
@@ -23906,8 +23906,8 @@
       "image": "./assets/pedals/circus-freak-music/the-tattooed-lady/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Circus Freak Music/The Tattooed Lady.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Citadel Electronics",
@@ -23931,8 +23931,8 @@
       "image": "./assets/pedals/citadel-electronics/particle-drive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Citadel Electronics/Particle Drive.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Citadel Electronics",
@@ -23957,8 +23957,8 @@
       "image": "./assets/pedals/citadel-electronics/vector/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Citadel Electronics/Vector.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "CKK Electronic",
@@ -24125,8 +24125,8 @@
       "image": "./assets/pedals/clark-amplification/gainster/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Clark Amplification/Gainster.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Classic Audio Effects",
@@ -26355,8 +26355,8 @@
       "research_record": "./research/pedals/Commune/ECA Screem Mk-II.md",
       "image_source_page": "https://www.effectsdatabase.com/model/communeeca/screem/mk2",
       "image_source_url": "https://files.effectsdatabase.com/gear/pics/commune-eca_screem-mk2_001.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Comodoro Pedales",
@@ -27183,8 +27183,8 @@
       "research_record": "./research/pedals/Cordovox/OD-7 Overdrive.md",
       "image_source_page": "https://www.effectsdatabase.com/model/cordovox/od7",
       "image_source_url": "https://files.effectsdatabase.com/gear/pics/cordovox_od7_001.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Cordovox",
@@ -27608,8 +27608,8 @@
       "research_record": "./research/pedals/Cosmic Terror/Cosmic Drive.md",
       "image_source_url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/ci/a40928345e392c7f/1790330166701/lVEL53dRGG5PuEkThclPW2sfnRMWMOSI5Hb.HPBvmlU-1790330166-1.3.1.1-oTu7T_kJ0Gjnxpsn8z8_Yrzs.VviRp17df0vs983pzBrjzbjMXD0kE4cBpJylYcFPdvbJ2H1GTnCuxQCxZRH0crU1mZkApPtnlu9VCUBirprtjjiTgFnTlSwR8z4OgYOspOrg2G2mL8Cx_pjrMhclHNBnv9pKaf3y2lhzNNwRWoIknc5laJQygRzDO5chLeKBvDWM_zfeMj5gG03eEmOix4YY6NC1IHwG6Bl17h0l9sOJEzCikWrs_WWTyo2M8H2E28AvS_7CEesdhtvuSqCpk6E5kObxQjow59ZtCr3Ccuqd68DceqUm2IPZaN_P4vrqz1w0GdwVZ11z5qFKCteUZONYomFjdlPNUS1NsmxEElIflNikaTNr9cceCmODFoZphl8_Jhzs2SkvBjM1DNDXciJx2N8A2_qhyZKD21i7TqOH5X60aHOKKK.2MqtEtUTb8k0ayYd6ZPYiZ8o7DrpsXsGvRB4SrRkpWmTw.N8E.6fW7DDdJUbwKVXMnqyqDlDbHzo0lJ4.5LlT0tmiqBbbkW8fVRqgeVJiEEhmWOGqa761NwhvcKvC7vPfI4PdBY0eePdB0mJS11p2KMqiAj3aKzyGqwHnmseFcRJahTb2.0NzcOc88lZmGORW.1x4CBd6ws675IpaLyU1rINAiHMYhHOjtj92XRKbzqHSoIIaGBrMXRv1Ii3S6tfk3FiNHKG_IbeSGeHeXmvVv1hjuoagpLe.Lb0ruFkK3IpB.m3Zsc",
       "image_source_page": "https://reverb.com/item/88106055-cosmic-terror-cosmic-drive",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Cosmic Terror",

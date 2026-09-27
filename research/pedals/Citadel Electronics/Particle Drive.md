@@ -36,3 +36,18 @@ Particle Drive is designed to span mild overdrive through full high-gain distort
 
 ## Sources checked
 1. Citadel Electronics — Particle Drive: https://www.citadel-electronics.com/products/p/particledrive
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+These tonal differences are particularly noticeable when Particle Drive is paired with a clean amplifier.
+
+### Verified sound evidence
+The effective gain staging allows the pedal to deliver mild overdrives as well as full blown high gain tones.
+It combines distortion with the adaptive noise gate technology found on our Dynazero pedal.
+The gate detector is placed before the distortion circuit for precise signal control.
+
+### Sources checked in this pass
+1. Particle Drive &mdash; Citadel Electronics: https://www.citadel-electronics.com/products/p/particledrive

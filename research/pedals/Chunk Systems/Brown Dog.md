@@ -40,3 +40,18 @@ Brown Dog is designed to produce thick, aggressive bass fuzz while retaining the
 1. Chunk Systems — Brown Dog: https://www.chunk.com.au/bd.htm
 2. Effects Database — Chunk Systems Brown Dog: https://www.effectsdatabase.com/model/chunk/browndog
 3. Chunk Systems — Brown Dog / Agent 00Funk FAQ: https://www.chunk.com.au/a00f2_faq.htm
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+With true bypass and only the best quality analogue electronics, the Brown Dog is perfect for all you clean sound freaks.
+
+### Verified sound evidence
+warranty terms Brown Dog gated bass fuzz The Brown Dog enables you to produce rampaging waves of meat with your bass guitar while still keeping your basslines tight and letting the character of your instrument's tone shine through.
+With two fuzz modes ( hard and soft ), a mixing stage and a unique gating circuit the Brown Dog gives you a wide range of fuzzy and synthy bass tones.
+controls In addition to the high-quality metal bypass switch, the Brown Dog has four knobs and a switch: The dirty level controls the volume of the signal coming from the Brown Dog's fuzz circuit in the output mix.
+
+### Sources checked in this pass
+1. Chunk Systems bass effects: Brown Dog gated bass fuzz effect pedal: https://www.chunk.com.au/bd.htm

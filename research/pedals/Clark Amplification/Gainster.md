@@ -36,3 +36,14 @@ Clark describes Gainster as an even-handed boost/overdrive with no intentional T
 ## Sources checked
 1. Effects Database — Clark Gainster: https://www.effectsdatabase.com/model/clark/gainster
 2. Premier Guitar — Review: Clark Gainster: https://www.premierguitar.com/review-clark-gainster
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Clark Amplification's Gainster is cataloged as an overdrive pedal.
+
+### Sources checked in this pass
+1. catalog/override source: https://www.effectsdatabase.com/model/clark/gainster
+2. Review: Clark Gainster - Premier Guitar: https://www.premierguitar.com/review-clark-gainster

@@ -35,3 +35,13 @@ The surviving record identifies the Overdriver as a multi-control preamp/overdri
 
 ## Sources checked
 1. Effects Database — Bouteek Overdriver - Preamp: https://www.effectsdatabase.com/model/bouteek/overdriver
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Bouteek's Overdriver - Preamp is cataloged as an overdrive pedal.
+
+### Sources checked in this pass
+1. Bouteek Overdriver - Preamp | Effects Database: https://www.effectsdatabase.com/model/bouteek/overdriver

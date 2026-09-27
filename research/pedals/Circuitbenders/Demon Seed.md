@@ -50,3 +50,14 @@ Demon Seed ranges from crushed and gated fuzz through severe digital frequency s
 ## Sources checked
 1. Circuitbenders — Demon Seed pedal: https://www.circuitbenders.co.uk/forsale/demonseed/demonseed.html
 2. Circuitbenders shop/news: https://www.circuitbenders.co.uk/
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Circuitbenders's Demon Seed is cataloged as a distortion / fuzz pedal.
+
+### Sources checked in this pass
+1. Circuitbenders.co.uk Demon Seed - Reverb: https://reverb.com/item/83010803-circuitbenders-co-uk-demon-seed
+2. Circuitbenders Demon Seed Lo-Fi Fuzz Pedal [USED] - Perfect Circuit: https://www.perfectcircuit.com/circuitbenders-demon-seed-used.html

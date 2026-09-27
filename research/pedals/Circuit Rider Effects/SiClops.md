@@ -36,3 +36,20 @@ Circuit Rider Effects positions SiClops as an initial gain stage, boost, or stac
 ## Sources checked
 1. Circuit Rider Effects — SiClops: https://circuitridereffects.com/
 2. Reverb — Circuit Rider Effects SiClops: https://reverb.com/item/46894553-circuit-rider-effects-siclops-klone
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Circuit Rider Studios Our Work Production Exclusive Tracks About Us Contact CRFX Cart My account Checkout Select Page Home / Uncategorized / SiClops (Klone) SiClops (Klone) $ 119.99 Based on the highly sought-after, mythical, gold, transparent overdrive pedal, our version is slightly modified.
+
+### Verified sound evidence
+Circuit Rider Studios Our Work Production Exclusive Tracks About Us Contact CRFX Cart My account Checkout Select Page Home / Uncategorized / SiClops (Klone) SiClops (Klone) $ 119.99 Based on the highly sought-after, mythical, gold, transparent overdrive pedal, our version is slightly modified.
+This is an excellent first gain stage for any pedalboard.
+It also shines as a boost or for stacking into other drive pedals.
+
+### Sources checked in this pass
+1. catalog/override source: https://reverb.com/item/46894553-circuit-rider-effects-siclops-klone
+2. SiClops (Klone) | Circuit Rider Studios: https://circuitriderstudio.com/product/siclops-klone
+3. Circuit Rider Effects | Boutique Guitar and Synth Pedals: https://circuitridereffects.com/

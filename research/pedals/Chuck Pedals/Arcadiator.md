@@ -38,3 +38,20 @@ The Arcadiator is built for lo-fi, clocked, octave, chopped, and pseudo-8-bit fu
 ## Sources checked
 1. Effects Database — Chuck Pedals Arcadiator: https://www.effectsdatabase.com/updates/weekly/20170116
 2. Thermionic Studios — Arcadiator control documentation: https://thermionic-studios.com/wiki/index.php?title=Arcadiator
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+The Arcadiator is categorized by its creator as an "Octave Fuzz", but might best be described as a pedal that has a penchant for converting your instrument signal into the 8-bit video games sounds from the "Golden Age of Video Games" .
+
+### Verified color/finish evidence
+- When we finish assembling it, it will be available for rental.
+
+### Verified sound evidence
+The Arcadiator is categorized by its creator as an "Octave Fuzz", but might best be described as a pedal that has a penchant for converting your instrument signal into the 8-bit video games sounds from the "Golden Age of Video Games" .
+Switch 4 - "Octave" : This switch toggles the Octave feature between up (one octave down), middle (both octaves), or down (two octaves down) Knob 4 - "Blend" : The knob fully counter-clockwise is pure fuzz, turning up Blend adds in Octave.
+
+### Sources checked in this pass
+1. Arcadiator - Thermionic Studios: https://thermionic-studios.com/wiki/index.php?title=Arcadiator

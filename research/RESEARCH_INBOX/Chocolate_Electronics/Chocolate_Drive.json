@@ -1,0 +1,65 @@
+{
+  "builder": "Chocolate Electronics",
+  "pedal": "Chocolate Drive",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 7,
+  "sources": [
+    {
+      "url": "https://shop.chocolateelectronics.com/items/150326368",
+      "title": "Chocolate Drive | Chocolate Electronics",
+      "h1": "Chocolate Electronics",
+      "excerpt": "Chocolate Drive | Chocolate Electronics ;window.NREUM||(NREUM={});NREUM.init={distributed_tracing:{enabled:true},privacy:{cookies_enabled:true},ajax:{deny_list:[\"bam.nr-data.net\"]}}; ;NREUM.loader_config={accountID:\"2907216\",trustKey:\"2804831\",agentID:\"663072695\",licenseKey:\"NRJS-4c41e18b2dabf750af0\",applicationID:\"663072695\"} ;NREUM.info={beacon:\"bam.nr-data.net\",errorBeacon:\"bam.nr-data.net\",licenseKey:\"NRJS-4c41e18b2dabf750af0\",applicationID:\"663072695\",sa:1} ;/*! For license information please see nr-loader-spa-1.236.0.min.js.LICENSE.txt */ (()=>{\"use strict\";var e,t,r={5763:(e,t,r)=>{r.d(t,{P_:()=>l,Mt:()=>g,C5:()=>s,DL:()=>v,OP:()=>T,lF:()=>D,Yu:()=>y,Dg:()=>h,CX:()=>c,GE:()=>b,sU:()=>_});var n=r(8632),i=r(9567);const o={beacon:n.ce.beacon,errorBeacon:n.ce.errorBeacon,licenseKey:void 0,applicationID:void 0,sa:void 0,queueTime:void 0,applicationTime:void 0,ttGuid:void 0,user:void 0,account:void 0,product:void 0,extra:void 0,jsAttributes:{},userAttributes:void 0,atts:void 0,transactionName:void 0,tNamePlain:void 0},a={};function s(e){if(!e)throw new Error(\"All info objects require an agent identifier!\");if(!a[e])throw new Error(\"Info for \".concat(e,\" was never set\"));return a[e]}function c(e,t){if(!e)throw new Error(\"All info objects require an agent identifier!\");a[e]=(0,i.D)(t,o),(0,n.Qy)(e,a[e],\"info\")}var u=r(7056);const d=()=>{const e={blockSelector:\"[data-nr-block]\",maskInputOptions:{password:!0}};return{allow_bfcache:!0,privacy:{cookies_enabled:!0},ajax:{deny_list:void 0,enabled:!0,harvestTimeSeconds:10},distributed_tracing:{enabled:void 0,exclude_newrelic_header:void 0,cors_use_newrelic_header:void 0,cors_use_tracecontext_headers:void 0,allowed_origins:void 0},session:{domain:void 0,expiresMs:u.oD,inactiveMs:u.Hb},ssl:void 0,obfuscate:void 0,jserrors:{enabled:!0,harvestTimeSeconds:10},metrics:{enabled:!0},page_action:{enabled:!0,harvestTimeSeconds:30},page_view_event:{enabled:!0},page_view_timing:{enabled:!0,harvestTimeSeconds:30,long_task:!1},session_trace:{enabled:!0,harvestTimeSeconds:10},harvest:{tooManyRequestsDelay:60},session_replay:{enabled:!1,harvestTimeSeconds:60,sampleRate:.1,errorSampleRate:.1,maskTextSelector:\"*\",maskAllInputs:!0,get blockClass(){return\"nr-block\"},get ignoreClass(){return\"nr-ignore\"},get maskTextClass(){return\"nr-mask\"},get blockSelector(){return e.blockSelector},set blockSelector(t){e.blockSelector+=\",\".concat(t)},get maskInputOptions(){return e.maskInputOptions},set maskInputOptions(t){e.maskInputOptions={...t,password:!0}}},spa:{enabled:!0,harvestTimeSeconds:10}}},f={};function l(e){if(!e)throw new Error(\"All configuration objects require an agent identifier!\");if(!f[e])throw new Error(\"Configuration for \".concat(e,\" was never set\"));return f[e]}function h(e,t){if(!e)throw new Error(\"All configuration objects require an agent identifier!\");f[e]=(0,i.D)(t,d()),(0,n.Qy)(e,f[e],\"config\")}function g(e,t){if(!e)throw new Error(\"All configuration objects require an agent identifier!\");var r=l(e);if(r){for(var n=t.split(\".\"),i=0;i {r.d(t,{D:()=>i});var n=r(50);function i(e,t){try{if(!e||\"object\"!=typeof e)return(0,n.Z)(\"Setting a Configurable requires an object as input\");if(!t||\"object\"!=typeof t)return(0,n.Z)(\"Setting a Configurable requires a model to set its initial properties\");const r=Object.create(Object.getPrototypeOf(t),Object.getOwnPropertyDescriptors(t)),o=0===Object.keys(r).length?e:r;for(let a in o)if(void 0!==e[a])try{\"object\"==typeof e[a]&&\"object\"==typeof t[a]?r[a]=i(e[a],t[a]):r[a]=e[a]}catch(e){(0,n.Z)(\"An error occurred while setting a property of a Configurable\",e)}return r}catch(e){(0,n.Z)(\"An error occured while setting a Configurable\",e)}}},6818:(e,t,r)=>{r.d(t,{Re:()=>i,gF:()=>o,q4:()=>n});const n=\"1.236.0\",i=\"PROD\",o=\"CDN\"},385:(e,t,r)=>{r.d(t,{FN:()=>a,IF:()=>u,Nk:()=>f,Tt:()=>s,_A:()=>o,il:()=>n,pL:()=>c,v6:()=>i,w1:()=>d});const n=\"undefined\"!=typeof window&&!!window.document,i=\"undefined\"!=typeof WorkerGlobalScope&&(\"undefined\"!=typeof self&&self instanceof Wor",
+      "host": "shop.chocolateelectronics.com",
+      "source_kind": "manufacturer"
+    },
+    {
+      "url": "https://reverb.com/item/73807050-chocolate-electronics-chocolate-drive",
+      "title": "Chocolate Electronics Chocolate Drive | Reverb",
+      "h1": "",
+      "excerpt": "",
+      "host": "reverb.com",
+      "source_kind": "reverb"
+    },
+    {
+      "url": "https://effectorbox.com/collection/chocolate-electronics-chocolate-drive/",
+      "title": "CHOCOLATE ELECTRONICS \u30c1\u30e7\u30b3\u30ec\u30fc\u30c8\u30a8\u30ec\u30af\u30c8\u30ed\u30cb\u30af\u30b9 / Chocolate Drive\u3010\u30aa\u30fc\u30d0\u30fc\u30c9\u30e9\u30a4\u30d6\u3011",
+      "h1": "",
+      "excerpt": "",
+      "host": "effectorbox.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://ja.chocolateelectronics.com/product_chocolatedrive.html",
+      "title": "Chocolate Drive:Chocolate Electronics",
+      "h1": "Chocolate Drive",
+      "excerpt": "Chocolate Drive:Chocolate Electronics ENGLISH PAGE --> --> --> Chocolate Drive \u30c1\u30e7\u30b3\u30ec\u30fc\u30c8\u30c9\u30e9\u30a4\u30d6\u306f\u30d1\u30f3\u30c1\u306e\u3042\u308b\u30df\u30c9\u30eb\u3068\u30ed\u30c3\u30af\u30c6\u30a4\u30b9\u30c8\u3042\u3075\u308c\u308b\u592a\u3044\u30ed\u30fc\u304c\u7279\u5fb4\u306e\u30aa\u30fc\u30d0\u30fc\u30c9\u30e9\u30a4\u30d6\u30da\u30c0\u30eb\u3067\u3059\u3002\u30c1\u30e7\u30b3\u30ec\u30fc\u30c8\u3060\u3051\u306e\u8276\u3084\u304b\u306a\u201c\u304a\u3044\u3057\u3044\u30af\u30e9\u30f3\u30c1\u30b5\u30a6\u30f3\u30c9\u201d\u3054\u8cde\u5473\u304f\u3060\u3055\u3044\u307e\u305b\u3002 9V\u306e\u96fb\u6e90\u3092\u5185\u90e8\u56de\u8def\u306717V\uff08+-8.5V\uff09\u306b\u6607\u5727\u3057\u3001\u96fb\u5727\u30ec\u30f3\u30b8\u306e\u5e83\u3055\u3092\u6700\u5927\u9650\u6d3b\u7528\u3059\u308b\u3053\u3068\u3067\u3001\u3057\u3063\u304b\u308a\u3068\u8170\u306e\u3042\u308b\u30ed\u30fc\u306b\u30d6\u30e9\u30a4\u30c8\u3067\u30d1\u30ef\u30d5\u30eb\u306a\u30cf\u30a4\u30df\u30c3\u30c9\u304c\u7d76\u5999\u306a\u30c9\u30e9\u30a4\u30f4\u30b5\u30a6\u30f3\u30c9\u3092\u5b9f\u73fe\u3057\u3066\u3044\u307e\u3059\u3002Drive / Volume\u306e\u30b3\u30f3\u30d3\u30cd\u30fc\u30b7\u30e7\u30f3\u306b\u3088\u308a\u3001\u5165\u529b\u3055\u308c\u305f\u539f\u97f3\u306b\u30cf\u30ea\u30c4\u30e4\u3092\u4e0e\u3048\u308b\u30af\u30ea\u30fc\u30f3\u30d6\u30fc\u30b9\u30c8\u304b\u3089\u30af\u30e9\u30f3\u30c1\u30c8\u30fc\u30f3\u3001\u30a2\u30f3\u30d7\u3092\u30c0\u30a4\u30ca\u30df\u30c3\u30af\u306b\u30c9\u30e9\u30a4\u30d6\u3055\u305b\u308b\u30aa\u30fc\u30d0\u30fc\u30c9\u30e9\u30a4\u30d6\u307e\u3067\u3001\u591a\u5f69\u306a\u30b5\u30a6\u30f3\u30c9\u3092\u4f5c\u308a\u51fa\u3057\u307e\u3059\u3002\u307e\u305f\u3001Treble / Bass\u306e\u30c8\u30fc\u30f3\u30b3\u30f3\u30c8\u30ed\u30fc\u30eb\u306f\u5e83\u3044\u53ef\u5909\u7bc4\u56f2\u3092\u6301\u3061\u4f7f\u3044\u3084\u3059\u304f\u3001\u3042\u3089\u3086\u308b\u30b7\u30c1\u30e5\u30a8\u30fc\u30b7\u30e7\u30f3\u3067\u6700\u826f\u306e\u30b5\u30a6\u30f3\u30c9\u3092\u8ffd\u6c42\u3067\u304d\u307e\u3059\u3002 \u30b1\u30fc\u30b9\u5857\u88c5\u306f\u30cf\u30f3\u30c9\u30e1\u30a4\u30c9\u3067\u4e00\u53f0\u4e00\u53f0\u3001\u672c\u7269\u306e\u30c1\u30e7\u30b3\u30ec\u30fc\u30c8\u306e\u8cea\u611f\u3092\u8ffd\u6c42\u3057\u305f\u30ec\u30ea\u30c3\u30af\u52a0\u5de5\u3092\u65bd\u3057\u3066\u3044\u307e\u3059\u3002 \u30b3\u30f3\u30c8\u30ed\u30fc\u30eb\uff1aDrive,Volume,Treble,Bass \u30c8\u30a5\u30eb\u30fc\u30d0\u30a4\u30d1\u30b9\u30fb\u30b9\u30a4\u30c3\u30c1\u30f3\u30b0 \u96fb\u6e90\uff1a\u76f4\u6d419V \u4e7e\u96fb\u6c60\u30fbAC\u30a2\u30c0\u30d7\u30bf\u30fc\uff08\u30bb\u30f3\u30bf\u30fc\u30de\u30a4\u30ca\u30b9\uff09\u306b\u5bfe\u5fdc \u5e0c\u671b\u5c0f\u58f2\u4fa1\u683c\uff1a29,800\u5186\uff08\u7a0e\u8fbc32,780\u5186\uff09 JAN\u30b3\u30fc\u30c9\uff1a4580473500017 \u516c\u5f0f\u30aa\u30f3\u30e9\u30a4\u30f3\u30b7\u30e7\u30c3\u30d7 http://shop.chocolateelectronics.com Chocolate Crunch \uff5c Melty Overdrive \uff5c Fuzzy Overdrive \uff5c Chocolate Drive \uff5c Chocolate Booster \uff5c transistripper \uff5c Velvet Driver \uff5c Chocolate Wah \uff5c Fat Distortion \uff5c Heavy Bottom \uff5c MCB \uff5c Iron Goddess \uff5c Naked Crunch Chocolate Electronics\u3068\u306f \uff5c \u7279\u5b9a\u5546\u53d6\u5f15\u6cd5\u306b\u57fa\u3065\u304f\u8868\u793a Copyright(C)2013-2026 Chocolate Electronics All Rights Reserved.",
+      "host": "ja.chocolateelectronics.com",
+      "source_kind": "manufacturer"
+    },
+    {
+      "url": "https://www.ebay.com/itm/336770563574",
+      "title": "Chocolate Electronics Chocolate Electronics / Chocolate Drive \u30c1\u30e7\u30b3\u30ec\u30fc\u30c8 ...",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.ebay.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://www.armstrongmusic.co.uk/products/chocolate-drive-overdrive-pedal",
+      "title": "Chocolate Electronics - Chocolate Drive Overdrive Pedal - Armstrong Music",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.armstrongmusic.co.uk",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://www.ebay.ca/itm/800689521900",
+      "title": "CHOCOLATE ELECTRONICS Effect Pedal Chocolate Drive - eBay",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.ebay.ca",
+      "source_kind": "other"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}

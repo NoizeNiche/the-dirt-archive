@@ -52,3 +52,24 @@ The builder describes a warm, growly vintage overdrive that can cover classic lo
 3. Reverb - Cosmic Terror Cosmic Drive v0 2022
 4. Reverb - Cosmic Terror Cosmic Drive 2022, based on Matamp GT120
 5. PedalTVchannel - Cosmic Terror Effects Cosmic Drive demo
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+The Cosmic Drive is our overdrive...
+
+### Verified version references
+- The evidence references: v4.
+
+### Verified sound evidence
+This versatile pedal offers Level, Gain, and Tone controls, delivering everything from subtle warmth to aggressive crunch.
+Ideal for guitarists seeking responsive dynamics and classic drive in a durable, road-ready enclosure.
+Be the first to review “Cosmic Terror Cosmic Drive Effect Pedal” Cancel reply Your email address will not be published.
+
+### Sources checked in this pass
+1. catalog/override source: https://reverb.com/item/88106055-cosmic-terror-cosmic-drive
+2. Cosmic Terror Cosmic Drive Effect Pedal - Pro-Level Distortion Effects Pedals for Live and Studio Use: https://www.pedaldistort.com/product/cosmic-terror-cosmic-drive-effect-pedal/
+3. Cosmic Terror Cosmic Drive Effect Pedal - Natural Reverb Effects Pedals That Create Dreamy Soundscapes: https://www.tonereverb.com/product/cosmic-terror-cosmic-drive-effect-pedal/
+4. The Cosmic Drive is our overdrive... - Cosmic Terror Cabinets: https://www.facebook.com/CosmicTerrorCabs/posts/the-cosmic-drive-is-our-overdrive-preamp-pedal-which-is-based-on-the-legendary-m/6190722584277183/

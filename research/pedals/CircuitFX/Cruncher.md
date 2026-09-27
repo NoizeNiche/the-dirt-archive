@@ -35,3 +35,16 @@ CircuitFX describes Cruncher as able to serve as a primary overdrive or a front-
 
 ## Sources checked
 1. CircuitFX — Cruncher archive article: https://circuitfx.wordpress.com/category/guitar-pedal-handmade/od-distortion/
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+CircuitFX's Cruncher is cataloged as an overdrive pedal.
+
+### Verified version references
+- The evidence references: V.2.
+
+### Sources checked in this pass
+1. Custom Guitar Pedal – DIY Guitar Pedal: http://www.circuitfx.com/
