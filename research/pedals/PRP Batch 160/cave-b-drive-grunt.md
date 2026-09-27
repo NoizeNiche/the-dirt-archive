@@ -17,3 +17,10 @@
 - **Sources checked:**
   - https://www.talkbass.com/threads/cave-passive-pedal-tour-box.884581/
   - https://www.cavepassivepedals.com.au/
+## Deep research verification
+
+The cited TalkBass period tour-box documentation independently identifies **B-Drive Grunt** as a Cave Passive Pedals passive drive and describes it as suitable for slight grit/thickening when driven lightly. The archive's existing builder source supports the exact **Drive / Level** control set and passive, no-power operation. Because B-Drive Mk2 is separately cataloged, its later specifications are not imported into this record.
+
+Sources:
+- https://www.talkbass.com/threads/cave-passive-pedal-tour-box.884581/
+- https://www.cavepassivepedals.com.au/
