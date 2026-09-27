@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-27T21:58:56.060038+00:00",
+  "generated_at": "2026-09-27T22:00:48.384439+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,67 +10,18 @@
     "pictured": 3409,
     "complete": 3409,
     "research_pending": 0,
-    "deep_research_pending": 353,
-    "deep_researched": 3853,
+    "deep_research_pending": 341,
+    "deep_researched": 3865,
     "surface_ready": 4206
   },
   "next_target": {
     "builder": "DOD Electronics",
-    "pedal": "Carcosa Fuzz",
+    "pedal": "FX52 Classic Fuzz",
     "catalog_type": "",
-    "research_record": "./research/pedals/DOD Electronics/Carcosa Fuzz.md",
+    "research_record": "./research/pedals/DOD Electronics/FX52 Classic Fuzz.md",
     "research_level": "surface"
   },
   "working_set": [
-    {
-      "builder": "DOD Electronics",
-      "pedal": "Carcosa Fuzz",
-      "catalog_type": "",
-      "research_record": "./research/pedals/DOD Electronics/Carcosa Fuzz.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "DOD Electronics",
-      "pedal": "D&S / D&S II Distortion & Sustainer",
-      "catalog_type": "",
-      "research_record": "./research/pedals/DOD Electronics/D&S / D&S II Distortion & Sustainer.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "DOD Electronics",
-      "pedal": "Death Metal Distortion (FX86)",
-      "catalog_type": "",
-      "research_record": "./research/pedals/DOD Electronics/Death Metal Distortion (FX86).md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "DOD Electronics",
-      "pedal": "Flashback Fuzz (FX66)",
-      "catalog_type": "",
-      "research_record": "./research/pedals/DOD Electronics/Flashback Fuzz (FX66).md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "DOD Electronics",
-      "pedal": "FX101 Grind Rectifying Overdrive",
-      "catalog_type": "",
-      "research_record": "./research/pedals/DOD Electronics/FX101 Grind Rectifying Overdrive.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "DOD Electronics",
-      "pedal": "FX33 Buzz Box",
-      "catalog_type": "",
-      "research_record": "./research/pedals/DOD Electronics/FX33 Buzz Box.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "DOD Electronics",
-      "pedal": "FX50-B Overdrive Plus",
-      "catalog_type": "",
-      "research_record": "./research/pedals/DOD Electronics/FX50-B Overdrive Plus.md",
-      "research_level": "surface"
-    },
     {
       "builder": "DOD Electronics",
       "pedal": "FX52 Classic Fuzz",
@@ -90,20 +41,6 @@
       "pedal": "FX58 Metal Maniac",
       "catalog_type": "",
       "research_record": "./research/pedals/DOD Electronics/FX58 Metal Maniac.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "DOD Electronics",
-      "pedal": "FX59 Thrash Master",
-      "catalog_type": "",
-      "research_record": "./research/pedals/DOD Electronics/FX59 Thrash Master.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "DOD Electronics",
-      "pedal": "FX66 Flashback Fuzz",
-      "catalog_type": "",
-      "research_record": "./research/pedals/DOD Electronics/FX66 Flashback Fuzz.md",
       "research_level": "surface"
     },
     {
@@ -177,24 +114,87 @@
       "research_level": "surface"
     },
     {
-      "builder": "Drunk Beaver",
-      "pedal": "Forest Song High Voltage Overdrive",
+      "builder": "Dwarfcraft Devices",
+      "pedal": "SheFuzz / formerly Shiva",
       "catalog_type": "",
-      "research_record": "./research/pedals/Drunk Beaver/Forest Song High Voltage Overdrive.md",
+      "research_record": "./research/pedals/Dwarfcraft Devices/SheFuzz / formerly Shiva.md",
       "research_level": "surface"
     },
     {
-      "builder": "Drunk Beaver",
-      "pedal": "Kavun MOSFET Drive",
+      "builder": "EarthQuaker Devices",
+      "pedal": "Barrows — Fuzz Attacker",
       "catalog_type": "",
-      "research_record": "./research/pedals/Drunk Beaver/Kavun MOSFET Drive.md",
+      "research_record": "./research/pedals/EarthQuaker Devices/Barrows — Fuzz Attacker.md",
       "research_level": "surface"
     },
     {
-      "builder": "Drunk Beaver",
-      "pedal": "Mykolaiv Soft Blooming",
+      "builder": "EarthQuaker Devices",
+      "pedal": "Bellows — Fuzz Driver",
       "catalog_type": "",
-      "research_record": "./research/pedals/Drunk Beaver/Mykolaiv Soft Blooming.md",
+      "research_record": "./research/pedals/EarthQuaker Devices/Bellows — Fuzz Driver.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "EarthQuaker Devices",
+      "pedal": "Black Ash — Endangered Fuzz",
+      "catalog_type": "",
+      "research_record": "./research/pedals/EarthQuaker Devices/Black Ash — Endangered Fuzz.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "EarthQuaker Devices",
+      "pedal": "Blumes — Low Signal Shredder / overdrive",
+      "catalog_type": "",
+      "research_record": "./research/pedals/EarthQuaker Devices/Blumes — Low Signal Shredder / overdrive.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "EarthQuaker Devices",
+      "pedal": "Chelsea — Low End Fuzz Driver",
+      "catalog_type": "",
+      "research_record": "./research/pedals/EarthQuaker Devices/Chelsea — Low End Fuzz Driver.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "EarthQuaker Devices",
+      "pedal": "Cloven Hoof — Fuzz Grinder",
+      "catalog_type": "",
+      "research_record": "./research/pedals/EarthQuaker Devices/Cloven Hoof — Fuzz Grinder.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "EarthQuaker Devices",
+      "pedal": "Dirt Transmitter — Fuzz Driver",
+      "catalog_type": "",
+      "research_record": "./research/pedals/EarthQuaker Devices/Dirt Transmitter — Fuzz Driver.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "EarthQuaker Devices",
+      "pedal": "Dirt Transmitter Legacy Reissue — consolidated with Dirt Transmitter",
+      "catalog_type": "",
+      "research_record": "./research/pedals/EarthQuaker Devices/Dirt Transmitter Legacy Reissue — consolidated with Dirt Transmitter.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "EarthQuaker Devices",
+      "pedal": "Dirt Transmitter Legacy Reissue — Fuzz Driver",
+      "catalog_type": "",
+      "research_record": "./research/pedals/EarthQuaker Devices/Dirt Transmitter Legacy Reissue — Fuzz Driver.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "EarthQuaker Devices",
+      "pedal": "Dunes — Mini Mega Ultimate Overdrive",
+      "catalog_type": "",
+      "research_record": "./research/pedals/EarthQuaker Devices/Dunes — Mini Mega Ultimate Overdrive.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "EarthQuaker Devices",
+      "pedal": "Erupter — Ultimate Fuzz Tone",
+      "catalog_type": "",
+      "research_record": "./research/pedals/EarthQuaker Devices/Erupter — Ultimate Fuzz Tone.md",
       "research_level": "surface"
     }
   ]
