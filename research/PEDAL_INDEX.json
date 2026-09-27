@@ -1,6 +1,6 @@
 {
   "version": "data-20260924-prp1-cbs-arbiter-fuzz-phazer-direct-lead",
-  "count": 4138,
+  "count": 4139,
   "pedals": [
     {
       "company": "1981 Inventions",
@@ -55912,6 +55912,18 @@
       "research_record": "./research/pedals/JHS Pedals/Twin Twelve.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "Benson Amps",
+      "pedal": "Chimera Fuzz",
+      "types": [
+        "Fuzz"
+      ],
+      "image": "",
+      "source_page": "https://www.bensonamps.com/guitarpedals",
+      "research_record": "./research/pedals/Benson Amps/Chimera Fuzz.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
     }
   ],
   "photo_architecture": "local-first"
