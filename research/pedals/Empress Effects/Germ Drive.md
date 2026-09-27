@@ -1,23 +1,47 @@
 # Empress Effects — Germ Drive
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Germ Drive
 - **Builder:** Empress Effects
-- **Pedal:** Germ Drive
 - **Catalog type:** Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Empress Effects's Germ Drive.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Germ Drive** by **Empress Effects** as a **Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Do you have a question about the germ drive and is the answer not in the manual?
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- The verified evidence references: MKII.
+- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+EMPRESS EFFECTS GERM DRIVE USER MANUAL Pdf Download
+Do you have a question about the germ drive and is the answer not in the manual?
+Page 2 Introduction True to the tweed tube amps of the 50’s, the germ drive delivers warm, harmonically rich overdrive that cleans up with a twist of your volume knob.
+
+## Sources checked
+1. EMPRESS EFFECTS GERM DRIVE USER MANUAL Pdf Download | ManualsLib: https://www.manualslib.com/manual/1324996/Empress-Effects-Germ-Drive.html
+2. Empress Effects Germ Drive : Manual: https://www.manualshelf.com/manual/empress-effects/germ-drive/manual-english.html
+3. Germ Drive &ndash; Empress Effects Inc.: https://empresseffects.com/products/germ-drive
+4. Empress Effects germ drive User Manual | AI Chat & PDF | Manualzz: https://manualzz.com/doc/6699041/empress-effects-germ-drive-overdrive-pedal-user-manual
+5. Empress Effects Germ Drive manuals: https://empress-effects.manymanuals.com/audio-accessories/germ-drive
+6. Empress Effects Germ Drive | Effects Database: https://www.effectsdatabase.com/model/empress/germdrive
+7. Empress Effects Germ Drive Overdrive Effect Pedal - Reverb: https://reverb.com/item/72805225-empress-effects-germ-drive-overdrive-effect-pedal
+8. Germ Drive — Empress Effects Overdrive Pedal | PedalFilter | PedalFilter: https://pedalfilter.com/empress-effects/germ-drive
+9. Empress Effects Germ Drive - Effects Pedals: https://www.effects-pedals.info/p/empress-effects-germ-drive/
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

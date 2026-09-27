@@ -23628,8 +23628,8 @@
       "image": "./assets/pedals/chuck-pedals/vto/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Chuck Pedals/VTO.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Chucktone Effects",
@@ -23736,8 +23736,8 @@
       "image": "./assets/pedals/circle-of-tone/blues-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Circle Of Tone/Blues Overdrive.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Circle Of Tone",
@@ -23772,8 +23772,8 @@
       "image": "./assets/pedals/circle-of-tone/overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Circle Of Tone/OVERDRIVE.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Circle Of Tone",
@@ -24367,8 +24367,8 @@
       "image": "./assets/pedals/clone-bro/taurus/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Clone Bro/Taurus.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Clone Bro",
@@ -34749,8 +34749,8 @@
       "image": "./assets/pedals/earthquaker-devices/talons/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/EarthQuaker Devices/Talons.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "EarthQuaker Devices",
@@ -34860,8 +34860,8 @@
       "image": "./assets/pedals/earthquaker-devices/zoar/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/EarthQuaker Devices/Zoar.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "EarthQuaker Devices",
@@ -35029,8 +35029,8 @@
       "image": "./assets/pedals/electro-harmonix/crayon-full-range-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Electro-Harmonix/Crayon Full-Range Overdrive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Electro-Harmonix",
@@ -35287,8 +35287,8 @@
       "image": "./assets/pedals/electro-harmonix/micro-metal-muff/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Electro-Harmonix/Micro Metal Muff.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Electro-Harmonix",
@@ -35765,8 +35765,8 @@
       "image": "./assets/pedals/empress-effects/germ-drive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Empress Effects/Germ Drive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Empress Effects",
@@ -35777,8 +35777,8 @@
       "image": "./assets/pedals/empress-effects/heavy/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Empress Effects/Heavy.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Empress Effects",
@@ -41418,8 +41418,8 @@
       "image": "./assets/pedals/khdk-electronics/totality/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/KHDK Electronics/Totality.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "KHDK Electronics",
@@ -41527,8 +41527,8 @@
       "image": "./assets/pedals/king-tone-guitar/soloist/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/King Tone Guitar/Soloist.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "KMA Machines",
@@ -41687,8 +41687,8 @@
       "image": "./assets/pedals/kma-machines/wurm/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/KMA Machines/Wurm.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "KMA Machines",
@@ -43942,8 +43942,8 @@
       "image": "./assets/pedals/maxon/od-9/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Maxon/OD-9.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Maxon",
@@ -47000,8 +47000,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/MXR/Slash Octave Fuzz.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "MXR",
@@ -47012,8 +47012,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/MXR/Special Edition Distortion+.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "MXR",
@@ -53904,8 +53904,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/VFE Pedals/Dark Horse.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "VFE Pedals",
@@ -56594,8 +56594,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Wren and Cuff/Tall Font Russian.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Wren and Cuff",

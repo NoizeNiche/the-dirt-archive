@@ -1,0 +1,57 @@
+{
+  "builder": "VFE Pedals",
+  "pedal": "Dark Horse",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 6,
+  "sources": [
+    {
+      "url": "https://www.rockboard.de/en/pedalPedia/VFE-Pedals/Dark-Horse/68986063/",
+      "title": "Dark Horse by VFE Pedals | RockBoard | PedalPedia",
+      "h1": "Dark Horse",
+      "excerpt": "Dark Horse by VFE Pedals | RockBoard | PedalPedia Skip to main content LOG IN EXPLORE VFE Pedals Dark Horse LOG IN TO SUGGEST IMPROVEMENTS DISTORTION EQUALIZER Description The DARK HORSE is a hard-edged distortion beast. From bluesy hints of low-gain grit, to face-melting doom in a box, the DARK HORSE distortion pedal defies genre classification. The 3-band active Baxandall tone stack adds a huge range of tonal variations, and the COMP control lets you control the pedal\u2019s dynamics, from long, singing sustain to earth-shaking distortion. Media Videos Demo by Mike Hermans (EN) Demo by Dennis Kayzer (EN) Reviews Review by The Gear Page (EN) Review by reddit /guitarpedals (EN) Review by guitar pedal X (EN) Links Product Page Technical data Width 000.00 mm Depth 000.00 mm Height 000.00 mm Circuit type analog Voltage 9V DC, center negative Current 30mA More pedals from VFE Pedals VFE Pedals Old School VFE Pedals Stereo Klein Bottle (Red and Gold) OVERDRIVE OVERDRIVE VFE Pedals Dragon VFE Pedals Stereo Klein Bottle All VFE Pedals Pedals Products Pedalboards All-In-One Patchbays QuickMount PedalSafe Power Supplies and Power Cables and Connections Accessories Gear Build your own board Board Configurator PedalPedia Pedalboard Gallery QuickMount Finder Services Find a dealer Find a distributor Frequently Asked Questions Contact Current catalog News Community RockBoard Artists Achievements Your Activity Overview \u00a92026 Warwick GmbH & Co. Music Equipment KG GTC | Imprint | Privacy policy | Accessibility | Cookie Settings",
+      "host": "www.rockboard.de",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://reverb.com/item/90441276-vfe-pedals-dark-horse-hard-edge-distortion-ghost-black-engraved-graphic",
+      "title": "VFE Pedals Dark Horse hard-edge distortion - Ghost Black + | Reverb",
+      "h1": "",
+      "excerpt": "",
+      "host": "reverb.com",
+      "source_kind": "reverb"
+    },
+    {
+      "url": "https://gearstrings.com/music-theory/summer-namm-12-vfe-pedals-dark-horse-distortion-white-horse-compressor-demos",
+      "title": "Summer NAMM 2024: VFE Pedals Unveils 12 New Units \u2014 Deep Dive into the Dark Horse Distortion and White Horse Compressor Demos | GearStrings",
+      "h1": "Summer NAMM 2024: VFE Pedals Unveils 12 New Units \u2014 Deep Dive into the Dark Horse Distortion and White Horse Compressor Demos",
+      "excerpt": "Summer NAMM 2024: VFE Pedals Unveils 12 New Units \u2014 Deep Dive into the Dark Horse Distortion and White Horse Compressor Demos | GearStrings GEARSTRINGS Home Blog Categories Authors About Home / Blog / music theory music theory Summer NAMM 2024: VFE Pedals Unveils 12 New Units \u2014 Deep Dive into the Dark Horse Distortion and White Horse Compressor Demos By Nina Harper July 18, 2026 Summer NAMM 2024: VFE Pedals\u2019 Breakthrough Launch At Summer NAMM 2024 in Nashville, VFE Pedals stunned the boutique stompbox community with the simultaneous release of twelve new analog effects units\u2014six overdrives/distortions, four compressors, one dual-function envelope filter, and one stereo reverb/delay hybrid. Among these, the Dark Horse Distortion and White Horse Compressor emerged as flagship products, each engineered for studio-grade transparency and live-stage resilience. Unlike many competitors relying on digital DSP or fixed-voltage operation, both pedals feature true analog signal paths with voltage-scalable topologies\u2014operating cleanly from 7.5V to 18V DC\u2014and include hardware-switchable voicing modes calibrated to specific guitar pickup types (single-coil vs. humbucker). Measured THD+N at unity gain is 0.018% for the White Horse and 0.023% for the Dark Horse at 1kHz, verified using Audio Precision APx555 test suite per AES17-1998 standards. The Dark Horse Distortion: A Scalable, Three-Dimensional Gain Engine The Dark Horse Distortion isn\u2019t merely another high-gain box\u2014it\u2019s a modular distortion architecture built around three cascaded JFET gain stages, each independently biased via trimmer-adjustable DC offset points accessible under the rear panel. This allows users to dial in everything from low-headroom blues crunch (achieved at 7.5V with Stage 1 active only) to saturated metal lead tones (18V with all three stages engaged and clipping diodes hot-swappable between silicon, germanium, and LED variants). The pedal includes two footswitchable voicing modes: Classic , which routes signal through discrete Class-A op-amps and passive filtering; and Modern , which engages active buffering pre-EQ and adds a post-clipping 3-band parametric section with sweepable midrange (120Hz\u20132.4kHz). Technical Architecture & Voltage Scaling VFE\u2019s proprietary voltage-scaling circuitry employs a regulated charge-pump topology that maintains stable internal rail voltages across the full 7.5\u201318V input range. At 9V, the Dark Horse delivers 22dB of clean headroom before onset of soft clipping; at 18V, headroom increases to 31.4dB\u2014a 9.4dB lift confirmed by oscilloscope capture and FFT analysis. This directly translates to tighter low-end response and enhanced transient fidelity, especially noticeable when driving high-output pickups like Seymour Duncan JB or DiMarzio Super Distortion models. Internal current draw remains constant at 38mA regardless of input voltage\u2014a deliberate design choice to prevent power supply sag under load. EQ Design and Sonic Flexibility The onboard 3-band EQ features \u00b112dB cut/boost per band with center frequencies fixed at 100Hz (low), 800Hz (mid), and 4.2kHz (high). The mid control doubles as a sweep function in Modern mode, controlled by a 25k\u03a9 logarithmic potentiometer with calibrated detents every 200Hz. Real-world testing with a Fender Telecaster Plus (Texas Specials) and a Gibson Les Paul Standard (Burstbucker 3) revealed that optimal mid-sweep settings varied predictably: Telecaster users favored 1.1kHz for country-rock clarity, while Les Paul players locked in at 1.8kHz for thick, vocal-like sustain. Notably, the EQ operates post-clipping but pre-buffer, preserving dynamic interaction between guitar volume knob and distortion character\u2014unlike many digitally buffered designs where taper response flattens. The White Horse Compressor: Opto-FET Hybrid Precision Where most boutique compressors prioritize vintage coloration or extreme squash, the White Horse Compressor targets surgical dynamics control without tonal compromise. Its core i",
+      "host": "gearstrings.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://www.effectsdatabase.com/model/vfe/darkhorse",
+      "title": "VFE Pedals Dark Horse - Effects Database",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.effectsdatabase.com",
+      "source_kind": "effects_database"
+    },
+    {
+      "url": "https://tagboardeffects.blogspot.com/2016/08/vfe-pedals-dark-horse.html",
+      "title": "Guitar FX Layouts: VFE Pedals Dark Horse",
+      "h1": "",
+      "excerpt": "",
+      "host": "tagboardeffects.blogspot.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://builder.pachydermpedals.com/base-pedals/20b80979-08f4-4c6c-86ce-09170f4d2e9a",
+      "title": "VFE Pedals Dark Horse \u2014 DIY PCB clones & build options",
+      "h1": "VFE Pedals Dark Horse",
+      "excerpt": "Pachyderm Pedals' Pedal Builder Browse Home Components PCBs Base Pedals Manufacturers Build Gallery Documentation Search by component \u2026 Loading base pedals... Pedal Builder \u2014 Guitar pedal component database FAQ Contact Privacy Terms Trademarks and brand names are the property of their respective owners. Any reference to trademarks on this site is for comparative and identification purposes only, intended as fair use, and does not imply affiliation with or endorsement by the trademark holders. See Trademark Fair Use for more information. VFE Pedals Dark Horse \u2014 DIY PCB clones & build options \u2190 Back to Base Pedals VFE Pedals Dark Horse Madbean Pedals (1) PedalPCB (1) Manufacturer VFE Pedals Effect Type Distortion Year 2010 Total Clones 2 Description The Dark Horse is a versatile distortion pedal featuring an active Baxandall tone stack and a COMP control for dynamic adjustment, suitable for a range of genres from blues to metal. PCB Clones ( 2 ) PCB Name Source Effect Type Difficulty Enclosure Link Dark Horse\u2122 Madbean Pedals Original VFE Projects cowboy 1509B View on Madbean Pedals Trojan Horse PedalPCB OD / Distortion / Fuzz \u2014 125B View on PedalPCB Rows per page 25 50 100 1\u20132 of 2 \u2039 Page of 1 \u203a Comments ( 0 ) Loading comments\u2026",
+      "host": "builder.pachydermpedals.com",
+      "source_kind": "other"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}

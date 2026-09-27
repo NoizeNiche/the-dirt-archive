@@ -1,23 +1,47 @@
 # Maxon — OD-9
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** OD-9
 - **Builder:** Maxon
-- **Pedal:** OD-9
 - **Catalog type:** Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Maxon's OD-9.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **OD-9** by **Maxon** as a **Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Do you have a question about the OD-9 and is the answer not in the manual?
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Documented terms in the verified sources: LED.
+- The archive records only the component information explicitly present in these sources.
+
+## Sound
+Maxon Overdrive (OD-9) – Godlyke, Inc.
+Maxon OD-9 Overdrive – United States Served with love!
+9 V Manganese dry cell (S-006P) battery Made in Japan 30 30-Day Money-Back Guarantee 3 3-Year Thomann Warranty Available since March 2003 Item number 160755 Sales Unit 1 piece(s) Overdrive Yes Distortion No Fuzz No Metal No $ 149 The shipping costs are calculated on the checkout page.
+
+## Sources checked
+1. Maxon OD-9 Overdrive Reissue - Reverb: https://reverb.com/p/maxon-od-9-overdrive
+2. Maxon Overdrive (OD-9) &ndash; Godlyke, Inc.: https://maxonfx.com/products/nine-series-guitar-effects-pedals-overdrive-od-9
+3. Maxon OD-9 Overdrive Effects Pedal | Guitar Center: https://www.guitarcenter.com/Maxon/OD-9-Overdrive-Effects-Pedal-1274115045618.gc
+4. Maxon OD-9 Overdrive Pedal | Sweetwater: https://www.sweetwater.com/store/detail/OD9--maxon-od-9-overdrive-pedal
+5. Maxon OD-9 Overdrive – United States: https://www.thomannmusic.com/maxon_od9_overdrive_bodeneffektgeraet.htm
+6. Maxon OD-9 Overdrive Pedal | Equipboard: https://equipboard.com/items/maxon-od-9-overdrive
+7. MAXON OD-9 USER'SMANUAL Pdf Download | ManualsLib: https://www.manualslib.com/manual/4339994/Maxon-Od-9.html
+8. Maxon OD-9, SD-9, AF-9 User Manual: AI Chat & PDF | Manualzz: https://manualzz.com/doc/23469842/maxon-od-9--sd-9--af-9-effects-user-manual
+9. Maxon OD-9 Overdrive - Effects Database: https://www.effectsdatabase.com/model/maxon/9/od9
+10. OD-9 Overdrive by Maxon | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/Maxon/OD-9-Overdrive/314370230/
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

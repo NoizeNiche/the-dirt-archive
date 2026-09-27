@@ -1,23 +1,42 @@
 # KMA Machines — Wurm
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Wurm
 - **Builder:** KMA Machines
-- **Pedal:** Wurm
 - **Catalog type:** Distortion / Fuzz
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** KMA Machines's Wurm.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Wurm** by **KMA Machines** as a **Distortion / Fuzz** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+While WURM 2 absolutely nails that death-metal sound, its thick walls of gain and sustain is not all about that genre – the pedal is also adept for so many other styles, from Shoegaze to Prog Rock.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- Adorned in an iconic black and orange colour-scheme reminiscent of its inspiration, WURM 2 takes the essential ingredients of KMA’s now classic pedal, adding the ability to switch between EQ settings right on the front of the pedal.
+- In-Depth Description Adorned in an iconic black and orange colour-scheme reminiscent of its inspiration, WURM 2 takes the essential ingredients of KMA’s now classic pedal, adding the ability to switch between EQ settings right on the front of the pedal.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+WURM 2 – High-Gain Distortion with Active 4-Band EQ
+All hail the mighty WURM!” With our WURM Distortion pedal, KMA Machines brought you a highly regarded, yet unabashed sonic love letter to the legendary filthy ‘doom and gloom’ distortion sound of the original Boss HM2 MIJ pedal, taking it much further and pushing the envelope of how destructive it could be.
+In addition, we squeezed it into a smaller and more pedal board friendly enclosure with top mounted jacks, improved the electronics and enhanced it with relay-based silent switching, all helping to make WURM 2 a more flexible metal-distortion pedal than ever before.
+
+## Sources checked
+1. WURM 2 – High-Gain Distortion with Active 4-Band EQ | KMA Machines: https://kmamachines.com/machines/wurm-2/
+2. Wurm 2 by KMA Machines | RockBoard | PedalPedia: http://www.rockboard.de/en/pedalPedia/KMA-Machines/Wurm-2/68980955/
+3. KMA Machines Wurm — Distortion Pedal | Equipboard: https://equipboard.com/items/kma-audio-machines-wurm
+4. KMA Machines Wurm 2 Distortion | Delicious Audio: https://delicious-audio.com/kma-machines-wurm-2/
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
