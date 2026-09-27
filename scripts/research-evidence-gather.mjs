@@ -47,6 +47,10 @@ function pedalIdentityVariants(pedal){
   // name, such as "formerly Shiva", "Legacy Reissue", or "consolidated across V1/V2/V3".
   // Recover the underlying model token as another exact identity variant. This is
   // still subject to the normal builder + source + foreman gates.
+  const formerMatch=raw.match(/\bformerly\s+(.+)$/i);
+  const formerName=formerMatch ? String(formerMatch[1] || '').replace(/[\s.,;:]+$/,'').trim() : '';
+  if(formerName && !variants.includes(formerName)) variants.push(formerName);
+
   const relationshipBase=raw
     .replace(/\s*\/\s*formerly\s+.+$/i,'')
     .replace(/\s+legacy\s+reissue.*$/i,'')
