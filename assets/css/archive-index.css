@@ -183,6 +183,36 @@ main{padding:24px 0 72px}
 .technicalPanel{
   margin-top:17px;
 }
+.coveragePanel{margin-top:17px}
+.coverageControls{display:grid;gap:7px}
+.coverageField{
+  display:grid;
+  grid-template-columns:72px minmax(0,1fr);
+  align-items:center;
+  gap:7px;
+  color:#d0cec7;
+  font-size:.61rem;
+  font-weight:900;
+  letter-spacing:.07em;
+  text-transform:uppercase;
+}
+.coverageSelect{
+  min-width:0;
+  width:100%;
+  border:1px solid #44433e;
+  border-radius:9px;
+  background:#242421;
+  color:#f1efea;
+  padding:8px 9px;
+  font-size:.62rem;
+  font-weight:800;
+  cursor:pointer;
+}
+.coverageSelect:hover{border-color:#76736b}
+.coverageSelect:focus-visible{
+  outline:2px solid var(--acid);
+  outline-offset:2px;
+}
 .facetGroup{
   margin-top:11px;
 }
