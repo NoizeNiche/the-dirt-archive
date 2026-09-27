@@ -5,6 +5,10 @@ let pedalImages=new Map();let variationSearchText=new Map();
 let selectedType=initialParams.get('type')||'All';let selectedBuilder=initialParams.get('builder')||'';let q=initialParams.get('q')||'';
 let selectedTransistors=new Set((initialParams.get('transistor')||'').split(',').map(x=>x.trim()).filter(Boolean));
 let selectedClippings=new Set((initialParams.get('clipping')||'').split(',').map(x=>x.trim()).filter(Boolean));
+let selectedResearch=initialParams.get('research')||'all';
+let selectedPhoto=initialParams.get('photo')||'all';
+if(!['all','deep','not-deep'].includes(selectedResearch))selectedResearch='all';
+if(!['all','archived','needed'].includes(selectedPhoto))selectedPhoto='all';
 let facetRecords=new Map();let facetOptions={transistor:[],clipping:[]};
 if(!['All','Overdrive','Distortion','Fuzz'].includes(selectedType))selectedType='All';
 
@@ -16,7 +20,7 @@ function initializeFilterDrawer(){
 initializeFilterDrawer();
 
 function hasActiveFilters(){
-  return selectedType!=='All'||Boolean(selectedBuilder)||Boolean(q)||selectedTransistors.size>0||selectedClippings.size>0;
+  return selectedType!=='All'||Boolean(selectedBuilder)||Boolean(q)||selectedTransistors.size>0||selectedClippings.size>0||selectedResearch!=='all'||selectedPhoto!=='all';
 }
 
 function renderFilterSummary(){
@@ -27,6 +31,10 @@ function renderFilterSummary(){
   if(selectedBuilder)parts.push(selectedBuilder);
   for(const value of selectedTransistors)parts.push(value+' transistor');
   for(const value of selectedClippings)parts.push(value+' clipping');
+  if(selectedResearch==='deep')parts.push('Deep research');
+  if(selectedResearch==='not-deep')parts.push('Not deep');
+  if(selectedPhoto==='archived')parts.push('Exact photo');
+  if(selectedPhoto==='needed')parts.push('Photo needed');
   if(q)parts.push('Search: '+q);
   state.textContent=parts.length?parts.join(' · '):'All pedals';
 }
@@ -44,7 +52,11 @@ function clearFilters(){
   q='';
   selectedTransistors.clear();
   selectedClippings.clear();
+  selectedResearch='all';
+  selectedPhoto='all';
   currentPage=1;
+  $('researchFilter').value='all';
+  $('photoFilter').value='all';
   $('search').value='';
   syncUrl(false);
   render();
@@ -63,6 +75,8 @@ function syncUrl(replace=true){
   if(selectedBuilder)p.set('builder',selectedBuilder);
   if(selectedTransistors.size)p.set('transistor',[...selectedTransistors].join(','));
   if(selectedClippings.size)p.set('clipping',[...selectedClippings].join(','));
+  if(selectedResearch!=='all')p.set('research',selectedResearch);
+  if(selectedPhoto!=='all')p.set('photo',selectedPhoto);
   if(q)p.set('q',q);
   if(currentPage>1)p.set('page',currentPage);
   const target=p.toString()?('./index.html?'+p.toString()):'./index.html';
@@ -77,14 +91,28 @@ function readUrlState(){
   q=params.get('q')||'';
   selectedTransistors=new Set((params.get('transistor')||'').split(',').map(x=>x.trim()).filter(Boolean));
   selectedClippings=new Set((params.get('clipping')||'').split(',').map(x=>x.trim()).filter(Boolean));
+  selectedResearch=['all','deep','not-deep'].includes(params.get('research')||'')?(params.get('research')||'all'):'all';
+  selectedPhoto=['all','archived','needed'].includes(params.get('photo')||'')?(params.get('photo')||'all'):'all';
   currentPage=Math.max(1,parseInt(params.get('page')||'1',10)||1);
   $('search').value=q;
+  $('researchFilter').value=selectedResearch;
+  $('photoFilter').value=selectedPhoto;
 }
 
 function slugParams(x){ return detailUrl(x, null, selectedType); }
 
 function typeMatches(x){
   return selectedType==='All'||(x.types||[]).includes(selectedType);
+}
+
+function coverageMatches(x){
+  const research=String(x.research_level||'').toLowerCase();
+  if(selectedResearch==='deep'&&research!=='deep')return false;
+  if(selectedResearch==='not-deep'&&research==='deep')return false;
+  const hasPhoto=isLocalArchiveImage(x);
+  if(selectedPhoto==='archived'&&!hasPhoto)return false;
+  if(selectedPhoto==='needed'&&hasPhoto)return false;
+  return true;
 }
 
 function searchMatches(x){
@@ -169,6 +197,7 @@ function builderRows(){
   const map=new Map();
   for(const x of items){
     if(!typeMatches(x))continue;
+    if(!coverageMatches(x))continue;
     if(q&&!searchMatches(x))continue;
     if(!facetMatches(x))continue;
     map.set(x.company,(map.get(x.company)||0)+1);
@@ -199,6 +228,7 @@ function searchScore(x){
 function filteredItems(){
   const result=items.filter(x=>
     typeMatches(x)&&
+    coverageMatches(x)&&
     (!selectedBuilder||x.company===selectedBuilder)&&
     searchMatches(x)&&
     facetMatches(x)
@@ -244,7 +274,7 @@ function renderBuilders(){
   $('builderCount').textContent=rows.length+' builders';
   $('builderListCount').textContent=rows.length;
 
-  const allCount=items.filter(x=>typeMatches(x)&&searchMatches(x)&&facetMatches(x)).length;
+  const allCount=items.filter(x=>typeMatches(x)&&coverageMatches(x)&&searchMatches(x)&&facetMatches(x)).length;
   let html='<button class="builder allBuilder '+(!selectedBuilder?'active':'')+'" data-builder="" aria-pressed="'+(!selectedBuilder?'true':'false')+'"><span class="builderName">All builders</span><span class="builderCount">'+allCount+'</span></button>';
   html+=rows.map(([name,count])=>
     '<button class="builder '+(selectedBuilder===name?'active':'')+'" data-builder="'+esc(name)+'" aria-pressed="'+(selectedBuilder===name?'true':'false')+'">'+
@@ -285,7 +315,7 @@ function render(){
   const pageStart=(currentPage-1)*PAGE_SIZE;
   const pageItems=visible.slice(pageStart,pageStart+PAGE_SIZE);
 
-  const builderContext=items.filter(x=>typeMatches(x)&&searchMatches(x)&&facetMatches(x));
+  const builderContext=items.filter(x=>typeMatches(x)&&coverageMatches(x)&&searchMatches(x)&&facetMatches(x));
   const builderCount=new Set(builderContext.map(x=>x.company)).size;
 
   const titleParts=[];
@@ -294,6 +324,10 @@ function render(){
   if(selectedType!=='All')titleParts.push(selectedType);
   for(const value of selectedTransistors)titleParts.push(value+' transistor');
   for(const value of selectedClippings)titleParts.push(value+' clipping');
+  if(selectedResearch==='deep')titleParts.push('Deep research');
+  if(selectedResearch==='not-deep')titleParts.push('Not deep');
+  if(selectedPhoto==='archived')titleParts.push('Exact photo');
+  if(selectedPhoto==='needed')titleParts.push('Photo needed');
   $('title').textContent=titleParts.length?titleParts.join(' · '):'All Pedals';
 
   const rangeStart=visible.length?pageStart+1:0;
@@ -327,6 +361,18 @@ function render(){
 
 $('clearFilters').onclick=clearFilters;
 $('discoverPedal').onclick=discoverPedal;
+$('researchFilter').onchange=e=>{
+  selectedResearch=e.target.value;
+  currentPage=1;
+  syncUrl(true);
+  render();
+};
+$('photoFilter').onchange=e=>{
+  selectedPhoto=e.target.value;
+  currentPage=1;
+  syncUrl(true);
+  render();
+};
 
 $('search').value=q;
 $('search').oninput=e=>{
