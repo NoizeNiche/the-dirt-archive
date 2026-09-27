@@ -4,42 +4,64 @@
 - **Archive parent:** Super Signa Drive
 - **Builder:** CMATMODS
 - **Catalog type:** Overdrive / Boost
-- **Identity:** CMATMODS Super Signa Drive, an expanded dual-channel version of Signa Drive with independent boost and broad EQ control.
+- **Identity:** Expanded dual-function successor to Signa Drive with independent boost, three-band EQ and three-position gain/clipping control. [1][2]
 
-## What this pedal is
-CMATMODS describes Super Signa Drive as the newest Signa Drive, retaining the Signa core while adding EQ and more sustain. It combines an overdrive side with an independent boost side. [1]
+## Controls / architecture
+### Drive side
+- **DRIVE**
+- **TREBLE**
+- **MID**
+- **BASS**
+- **LEVEL**
+- Three-position gain/clipping switch.
 
-## Colorways
-No complete factory colorway sequence was established.
+### Boost side
+- Independent **BOOST** control and footswitch.
 
-## Versions and factory options
-Documented controls/features:
-- Drive / gain section.
-- Treble, Mid, Bass EQ.
-- Level.
-- Independent Boost.
-- Drive footswitch.
-- Boost footswitch.
-- Three-way gain/clipping switch.
-- Blue drive LED.
-- White boost LED.
+Two LEDs distinguish the drive and boost sections. [1][2]
+
+## Active device
+- **RC4558P** op-amp is documented in production references. [1]
+
+## Diode / clipping
+- The three-position switch changes clipping/gain structure.
+- Exact diode part numbers are not established.
+
+## Circuit lineage
+- **Primary lineage:** CMATMODS **Signa Drive**.
+- The builder describes Super Signa as an expanded successor with more sustain, broad EQ and independent boost. [1]
+
+## Construction / hardware
+- Analog circuit.
 - True bypass.
-- RC4558P chip. [1][2]
+- Separate drive and boost footswitches.
+- Three-band EQ. [1][2]
 
-RockBoard documents the circuit as analog and 9V center-negative. [2]
+## Power
+- **9V center-negative** operation is documented by RockBoard. [2]
+- Exact current draw is not established.
 
-## Version changes
-Super Signa is the expanded successor to the original Signa concept, adding the EQ section, more sustain, and independent boost. [1]
-
-## Transistor
-The documented active IC is **RC4558P**. [1]
-
-## Diode
-The three-position clipping/gain switch changes the drive structure, but exact diode part numbers were not established.
+## Version history
+- Super Signa is a distinct expanded model, not merely a cosmetic Signa Drive revision.
+- No additional numbered electronic revision established.
 
 ## Sound
-The builder describes extensive EQ flexibility, from scooped mids through a mid hump, alongside additional sustain and a separate boost that can be used alone or stacked with the drive section. [1]
+The drive section can cover cleaner push through more saturated overdrive, while the three-band EQ moves from scooped to mid-forward voicings. The independent boost can be used alone or stacked into the drive stage, expanding both output and sustain. [1]
+
+## Research confidence
+- **Identity:** High
+- **Signa Drive lineage:** High
+- **Independent boost:** High
+- **Three-band EQ:** High
+- **RC4558P:** High
+- **Exact diode:** Unknown
+
+## Deep research verification
+Effects Database and RockBoard were cross-checked. The evidence supports the expanded Signa architecture, RC4558P, independent boost and three-band EQ. [1][2]
 
 ## Sources checked
 1. Effects Database — CMATMODS Super Signa Drive: https://www.effectsdatabase.com/model/cmatmods/signadrive/super
 2. RockBoard PedalPedia — Super Signa Drive: https://www.rockboard.de/en/pedalPedia/Cmat-Mods/Super-Signa-Drive/68976813/
+
+## Photo
+- Exact-model local photo status remains handled by the photo lane.
