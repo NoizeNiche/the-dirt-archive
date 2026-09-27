@@ -47,3 +47,19 @@ JD10 is designed to cover clean-to-mean drive while also behaving as an amp-expa
 - **Archive status:** **No Photo Archived**
 - **Exact-model reference checked:** https://www.effectsdatabase.com/model/awardsession/jd10
 - **Archive note:** Exact-model images exist in archival sources, but no stable archive asset is being promoted in this pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Award-Session's JD10 Compact Jerry Donahue Sessionmaster is cataloged as an overdrive pedal.
+
+### Verified version references
+- The evidence references: MkII.
+
+### Verified sound evidence
+Primarilly modeled on the tone of those classic American 4x10" combos of the 50s and 60s revered by bluesmen the world over, this pedal goes way beyond to cover the full gambit of rock, nu-metal and nu-country tones.
+
+### Sources checked in this pass
+1. Award-Session JD10 Compact Jerry Donahue Sessionmaster | Effects Database: https://www.effectsdatabase.com/model/awardsession/jd10

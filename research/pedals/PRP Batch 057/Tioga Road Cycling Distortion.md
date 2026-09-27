@@ -36,3 +36,21 @@ Tioga Road spans thick nostalgic early-1980s distortion through lighter distorti
 ## Photo
 - **Archive status:** **No Photo Archived**
 - **Exact-model references checked:** Animals Pedal, Guitar Center and exact-model catalog imagery.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+The Tioga Road Cycling Distortion is a classic distortion pedal with a thick and nostalgic tone that can range from a light distortion to an all-out fuzz monster.
+
+### Verified color/finish evidence
+- Our beautiful artwork is front and center as usual, with Animals Pedal expert manufacturing and high-quality parts construction.
+
+### Verified sound evidence
+The distortion sound is exciting for rock guitar, and with the various genres of heavier music has been a must-have pedal for many guitarists.
+The first distortion pedals were made in the late 1970s, and really started being popular in the early 1980s.
+Our Tioga Road Cycling Distortion revives this classic distortion sound, as well as a few other speeds/sounds from that era and beyond.
+
+### Sources checked in this pass
+1. Animals Pedal Tioga Road Cycling Distortion – Animals Pedal USA: https://animalspedal.us/products/animals-pedal-tioga-road-cycling-distortion

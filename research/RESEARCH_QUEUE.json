@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-27T00:31:50.823199+00:00",
+  "generated_at": "2026-09-27T00:34:51.092692+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,25 +10,18 @@
     "pictured": 2999,
     "complete": 2999,
     "research_pending": 0,
-    "deep_research_pending": 2257,
-    "deep_researched": 1504,
+    "deep_research_pending": 2254,
+    "deep_researched": 1507,
     "surface_ready": 3761
   },
   "next_target": {
     "builder": "Animals Pedal",
-    "pedal": "Tioga Road Cycling Distortion",
+    "pedal": "Vintage Van Driving is Very Fun",
     "catalog_type": "",
-    "research_record": "./research/pedals/PRP Batch 057/Tioga Road Cycling Distortion.md",
+    "research_record": "./research/pedals/PRP Batch 057/Vintage Van Driving is Very Fun.md",
     "research_level": "surface"
   },
   "working_set": [
-    {
-      "builder": "Animals Pedal",
-      "pedal": "Tioga Road Cycling Distortion",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 057/Tioga Road Cycling Distortion.md",
-      "research_level": "surface"
-    },
     {
       "builder": "Animals Pedal",
       "pedal": "Vintage Van Driving is Very Fun",
@@ -195,6 +188,13 @@
       "pedal": "BELMEZ WITCHES Occult Fuzz",
       "catalog_type": "",
       "research_record": "./research/pedals/Atmosfera 6/BELMEZ WITCHES Occult Fuzz.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Atmosfera 6",
+      "pedal": "TERROR COSMICO",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Atmosfera 6/TERROR COSMICO.md",
       "research_level": "surface"
     }
   ]
