@@ -2,7 +2,16 @@
   "builder": "DeadastronautFX",
   "pedal": "EasyDriver",
   "status": "VERIFIED_EVIDENCE_STAGED",
-  "independent_exact_source_count": 0,
-  "sources": [],
+  "independent_exact_source_count": 1,
+  "sources": [
+    {
+      "url": "https://deadastronaut.wixsite.com/effects",
+      "title": "Deadastronautfx",
+      "h1": "DEADASTRONAUTFX",
+      "excerpt": "--> Deadastronautfx top of page This website was built on Wix. Create yours today. Get Started CONTACT Log In DEADASTRONAUTFX GUITAR AND MUSIC EFFECTS Home CD MUSIC PEDALS FOR SALE NOW. 3 X PCB BUNDLE EASYDRIVER OVERDRIVE FV-24 MULTI FX SKYSCAPE CHORUS ASTRO FLANGER FILTER TIMESTREAM REVERB DREAMTIME DELAY EBE DELAY X-FUZZ II PENDULUM TREMOLO+ ASTROSIM CAB SIMULATOR CHASM REVERB ABDUCTOR DELAY II BLACK TRIANGLE OVERDRIVE SKINWALKER HI GAIN DISTORTION SPACE PATROL FUZZ FAZE FILTER TREMSHIFTER FULL PEDAL KITS WAH LIGHT PLATES BOSS RC600 PROTECTOR NANO-8 MIDI DRUMS MEGA 16 MIDI DRUMS PCB WIRING DIAGRAM ALL purchases include worldwide postage. Hi, welcome to Deadastronautfx where you will find my custom designed circuits which I have made available as PCB (circuit board) projects   Designed by a guitarist, for guitarists. \u200b Whether its a fuzz to a multi tap ambient delay I'm sure you'll find something you would  like to add to your arsenal of effects sounds... <span style=\"font-size:17px;\" class=\"wixui-ric\n- **Builder:** DeadastronautFX\n- **Catalog type:** Overdrive\n- **Identity:** EasyDriver Overdrive.\n\nThe builder's surviving catalog explicitly lists EasyDriver Overdrive.\n\n- Exact control layout: Unknown.\n- Exact circuit topology: Unknown.\n- Exact transistor/device: Unknown.\n- Exact clipping device: Unknown.\n- Power requirement: Unknown.\n\nThe surviving source supports the overdrive classification but does not preserve enough exact model-specific detail for a fuller tonal description.\n\n- **Identity:** High.\n- **Overdrive classification:** High.\n- **Technical details:** Unknown.\n\nDeadastronautFX catalog: https://deadastronaut.wixsite.com/effects\n\n- **Archive status:** Exact Photo Pending\n- No local canonical image was promoted in this pass.",
+      "host": "deadastronaut.wixsite.com",
+      "source_kind": "catalog_verified"
+    }
+  ],
   "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
 }

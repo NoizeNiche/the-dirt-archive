@@ -1,23 +1,43 @@
 # Mid-Fi Electronics — Hieracium
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Hieracium
 - **Builder:** Mid-Fi Electronics
-- **Pedal:** Hieracium
 - **Catalog type:** Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Mid-Fi Electronics's Hieracium.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Hieracium** by **Mid-Fi Electronics** as a **Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Qty Add to Cart Description Mid-Fi Electronics Hieracium Pedal The Hieracium pedal is no ordinary overdrive.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+Mid-Fi Electronics ::: Hieracium HOME PEDALS PURCHASE Hieracium Envelope controlled overdrive, with a small tweed amp vibe.
+Controls for: Gain & Volume all content © 2026 Doug Tuttle Effects
+Qty Add to Cart Description Mid-Fi Electronics Hieracium Pedal The Hieracium pedal is no ordinary overdrive.
+
+## Sources checked
+1. Mid-Fi Electronics ::: Hieracium: https://www.midfielectronics.com/hieracium-
+2. Mid-Fi Electronics Hieracium 2026 - White - Reverb: https://reverb.com/item/94569598-mid-fi-electronics-hieracium-2026-white
+3. Mid-Fi Electronics Hieracium Pedal &ndash; DeathCloud: https://deathcloud.com/products/mid-fi-electronics-hieracium
+4. Mid-Fi Electronics Hieracium Pedal Random Color | Effects Pedal: https://www.micinstrument.com/product/mid-fi-electronics-hieracium-pedal-random-color/
+5. Mid-Fi Electronics Hieracium - www.lasonemusic.com: https://www.lasonemusic.com/product/mid-fi-electronics-hieracium/
+6. mid-fi electronics Hieracium | eBay: https://www.ebay.com/itm/206454022050
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

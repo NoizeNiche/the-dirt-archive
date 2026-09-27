@@ -1,31 +1,38 @@
 # DeadastronautFX — EasyDriver
 
 ## PRP identity
+- **Archive parent:** EasyDriver
 - **Builder:** DeadastronautFX
 - **Catalog type:** Overdrive
-- **Identity:** EasyDriver Overdrive.
+- **Identity:** DeadastronautFX's EasyDriver.
 
 ## What this pedal is
-The builder's surviving catalog explicitly lists EasyDriver Overdrive.
+DeadastronautFX's EasyDriver is cataloged as an overdrive pedal.
 
-## Technical evidence
-- Exact control layout: Unknown.
-- Exact circuit topology: Unknown.
-- Exact transistor/device: Unknown.
-- Exact clipping device: Unknown.
-- Power requirement: Unknown.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
 
 ## Sound
-The surviving source supports the overdrive classification but does not preserve enough exact model-specific detail for a fuller tonal description.
+​ Whether its a fuzz to a multi tap ambient delay I'm sure you'll find something you would like to add to your arsenal of effects sounds...
+<span style="font-size:17px;" class="wixui-ric - **Builder:** DeadastronautFX - **Catalog type:** Overdrive - **Identity:** EasyDriver Overdrive.
+The builder's surviving catalog explicitly lists EasyDriver Overdrive.
 
-## Research confidence
-- **Identity:** High.
-- **Overdrive classification:** High.
-- **Technical details:** Unknown.
-
-## Source
-DeadastronautFX catalog: https://deadastronaut.wixsite.com/effects
+## Sources checked
+1. Deadastronautfx: https://deadastronaut.wixsite.com/effects
 
 ## Photo
-- **Archive status:** Exact Photo Pending
-- No local canonical image was promoted in this pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

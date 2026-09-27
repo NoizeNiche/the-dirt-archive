@@ -31210,8 +31210,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/DeadastronautFX/EasyDriver.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "DeadastronautFX",
@@ -35041,8 +35041,8 @@
       "image": "./assets/pedals/electro-harmonix/deluxe-bass-big-muff-pi/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Electro-Harmonix/Deluxe Bass Big Muff Pi.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Electro-Harmonix",
@@ -42513,8 +42513,8 @@
       "image": "./assets/pedals/lovepedal/kalamazoo/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Lovepedal/Kalamazoo.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Lovepedal",
@@ -42866,8 +42866,8 @@
       "image": "./assets/pedals/lunastone-pedals/three-stage-rocket/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Lunastone Pedals/Three Stage Rocket.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Mad Professor Amplification",
@@ -45534,8 +45534,8 @@
       "image": "./assets/pedals/mid-fi-electronics/glitch-computer/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mid-Fi Electronics/Glitch Computer.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Mid-Fi Electronics",
@@ -45546,8 +45546,8 @@
       "image": "./assets/pedals/mid-fi-electronics/hieracium/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mid-Fi Electronics/Hieracium.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Mid-Fi Electronics",
@@ -49715,8 +49715,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Radial Tonebone/Texas-Pro.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Radial Tonebone",
@@ -50006,8 +50006,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Roger Mayer/Mongoose.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Roger Mayer",
@@ -53664,8 +53664,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Vemuram/Shanks 4K.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Vemuram",

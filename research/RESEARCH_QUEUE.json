@@ -1,17 +1,17 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-27T11:58:17.880046+00:00",
+  "generated_at": "2026-09-27T12:00:00.820110+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
   "counts": {
     "total": 4242,
     "researched": 3750,
-    "pictured": 3140,
-    "complete": 3140,
+    "pictured": 3159,
+    "complete": 3159,
     "research_pending": 0,
-    "deep_research_pending": 604,
-    "deep_researched": 3638,
+    "deep_research_pending": 595,
+    "deep_researched": 3647,
     "surface_ready": 4242
   },
   "next_target": {
@@ -76,13 +76,6 @@
       "pedal": "Necros Fuzz / Distortion",
       "catalog_type": "",
       "research_record": "./research/pedals/Daredevil Pedals/Necros Fuzz / Distortion.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "DeadastronautFX",
-      "pedal": "EasyDriver",
-      "catalog_type": "",
-      "research_record": "./research/pedals/DeadastronautFX/EasyDriver.md",
       "research_level": "surface"
     },
     {
@@ -195,6 +188,13 @@
       "pedal": "JUNIOR DB Overdrive / Dirty Boy Jr. Overdrive",
       "catalog_type": "",
       "research_record": "./research/pedals/Dirty Boy/JUNIOR DB Overdrive / Dirty Boy Jr. Overdrive.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Dirty Boy",
+      "pedal": "None promoted in this block",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Dirty Boy/None promoted in this block.md",
       "research_level": "surface"
     }
   ]
