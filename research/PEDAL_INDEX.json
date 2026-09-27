@@ -10420,6 +10420,20 @@
       "deep_research_status": "PENDING_REVIEW"
     },
     {
+      "company": "BIXONIC",
+      "pedal": "EXPANDORA",
+      "types": [
+        "Overdrive",
+        "Distortion",
+        "Fuzz"
+      ],
+      "image": "",
+      "source_page": "https://bixonic-sound.com/pages/story",
+      "research_record": "",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
       "company": "Biyang",
       "pedal": "Baby Boom DS-10 Max Distortion",
       "types": [
