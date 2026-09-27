@@ -1,29 +1,38 @@
-# ARC Effects - Crimson King
+# ARC Effects — Crimson King
 
 ## PRP identity
-- Builder: ARC Effects
-- Catalog type: Fuzz
-- Identity: ARC Effects Crimson King, a Buzz/Buzzaround-family fuzz.
+- **Archive parent:** Crimson King
+- **Builder:** ARC Effects
+- **Catalog type:** Fuzz
+- **Identity:** ARC Effects's Crimson King.
 
 ## What this pedal is
-Crimson King is ARC's modern take on the rare Buzz fuzz/Buzzaround family, using three matched germanium transistors and a broad gain range.
+ARC Effects's Crimson King is cataloged as a fuzz pedal.
 
-## Circuit / lineage
-- Three tested, audited and matched germanium transistors.
-- Vintage Buzz/Buzzaround family lineage.
-- Voltage conversion allows use with standard negative-ground 9V supplies.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
 
-## Power / bypass
-- Standard 9V DC.
-- True bypass.
-- Top-mounted jacks.
+## Versions and factory options
+- The verified evidence references: V2.
+- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
 
-## History
-Effects Database dates Crimson King to July 12, 2013.
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+At it's core is 3 tested, audited, and matched germanium transistors as well as top quality axial components which allow this pedal to achieve an incredible range of vintage and modern fuzz sounds with impeccable clarity and ample volume.
+The range spans from "Bender" type sounds to higher gain territory with a LOT less background noise and a much higher degree of dynamic response.
 
 ## Sources checked
-1. ARC Effects: https://www.arceffects.com/crimson-king/
-2. Effects Database: https://www.effectsdatabase.com/model/arceffects/crimsonking
+1. Crimson King — ARC Effects: https://www.arceffects.com/crimson-king/
 
 ## Photo
-- Exact photo pending.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

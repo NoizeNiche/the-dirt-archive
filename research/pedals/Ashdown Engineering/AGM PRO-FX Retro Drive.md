@@ -1,23 +1,36 @@
-# Ashdown Engineering - AGM PRO-FX Retro Drive
+# Ashdown Engineering — AGM PRO-FX Retro Drive
 
 ## PRP identity
-- Builder: Ashdown Engineering
-- Catalog type: Overdrive
-- Identity: AGM PRO-FX Retro Drive, British-feel bass overdrive from Ashdown's AGM PRO-FX line.
+- **Archive parent:** AGM PRO-FX Retro Drive
+- **Builder:** Ashdown Engineering
+- **Catalog type:** Overdrive
+- **Identity:** Ashdown Engineering's AGM PRO-FX Retro Drive.
 
 ## What this pedal is
-Retro Drive is a British-voiced overdrive designed by Ashdown with Dave Green. Effects Database dates the product to January 28, 2023.
+Ashdown Engineering's AGM PRO-FX Retro Drive is cataloged as an overdrive pedal.
 
-## Power
-- 9V DC, center negative.
-- Approx. 30mA current draw.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
 
-## Circuit / controls
-Exact control labels and semiconductor details are not established in the checked source.
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+The verified evidence packet did not contain enough pedal-specific sonic description to make a more detailed sound summary without adding unsupported interpretation.
 
 ## Sources checked
-1. Effects Database: https://www.effectsdatabase.com/model/ashdown
-2. Ashdown Engineering: https://ashdownmusic.com/
+1. Ashdown Engineering | Effects Database: https://www.effectsdatabase.com/model/ashdown
 
 ## Photo
-- Exact photo pending.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

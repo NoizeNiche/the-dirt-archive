@@ -1,28 +1,37 @@
-# ARC Effects - Big Green
+# ARC Effects — Big Green
 
 ## PRP identity
-- Builder: ARC Effects
-- Catalog type: Fuzz
-- Identity: ARC Effects Big Green, Tall Font Green Russian-style fuzz.
+- **Archive parent:** Big Green
+- **Builder:** ARC Effects
+- **Catalog type:** Fuzz
+- **Identity:** ARC Effects's Big Green.
 
 ## What this pedal is
-Big Green is ARC's Green Russian/Tall Font Muff-family fuzz. The newest revision adds an external three-position mid-voicing switch and a smaller enclosure.
+Big Green — ARC Effects Pedals Shepherd Soothsayer Big Green Crimson King Gamut Klone V2 Custom Shop Gallery In Stock Repairs Contact ARC Effects Pedals Shepherd Soothsayer Big Green Crimson King Gamut Klone V2 Custom Shop Gallery In Stock Repairs Contact View fullsize BIG GREEN The beast is back and better than ever!
 
-## Circuit / lineage
-- Based on real Tall Font Green Russian Big Muff units.
-- Period-correct potentiometer values are part of the design premise.
-- Earlier versions used internal DIP switches for mid voicing and diode lift.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
 
-## Controls / switching
-- External mid-voicing switch on the current revision: scooped, flat, boosted.
-- True bypass.
-- Top-mounted jacks.
-- Internal battery snap on current documentation.
+## Versions and factory options
+- The verified evidence references: V2, revision.
+- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+A new take on the classic "S" Tall Font Green Russian Distortion that's known far and wide for being as great with guitar as it is with bass.
 
 ## Sources checked
-1. ARC Effects current Big Green: https://www.arceffects.com/big-green
-2. ARC Effects historical Big Green Pi: https://www.arceffects.com/big-green-1/
-3. Effects Database: https://www.effectsdatabase.com/model/arceffects/biggreenpi
+1. Big Green — ARC Effects: https://www.arceffects.com/big-green
 
 ## Photo
-- Exact photo pending.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

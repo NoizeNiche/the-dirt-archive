@@ -2093,6 +2093,48 @@
     "research_record": "./research/pedals/PRP Batch 057/Soothsayer.md"
   },
   {
+    "builder": "ARC Effects",
+    "pedal": "Shepherd",
+    "image": null,
+    "source_page": "https://www.arceffects.com/shepherd/",
+    "research_record": "./research/pedals/ARC Effects/Shepherd.md"
+  },
+  {
+    "builder": "ARC Effects",
+    "pedal": "Big Green",
+    "image": null,
+    "source_page": "https://www.arceffects.com/big-green",
+    "research_record": "./research/pedals/ARC Effects/Big Green.md"
+  },
+  {
+    "builder": "ARC Effects",
+    "pedal": "Big Green Pi",
+    "image": null,
+    "source_page": "https://www.arceffects.com/big-green-1/",
+    "research_record": "./research/pedals/ARC Effects/Big Green Pi.md"
+  },
+  {
+    "builder": "ARC Effects",
+    "pedal": "Crimson King",
+    "image": null,
+    "source_page": "https://www.arceffects.com/crimson-king/",
+    "research_record": "./research/pedals/ARC Effects/Crimson King.md"
+  },
+  {
+    "builder": "ARC Effects",
+    "pedal": "Klone V2",
+    "image": null,
+    "source_page": "https://www.arceffects.com/klone-v2",
+    "research_record": "./research/pedals/ARC Effects/Klone V2.md"
+  },
+  {
+    "builder": "ARC Effects",
+    "pedal": "Klone",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/arceffects/klone",
+    "research_record": "./research/pedals/ARC Effects/Klone.md"
+  },
+  {
     "builder": "Arcane Analog",
     "pedal": "ARCANE ANALOG FF66 FUZZ FACE",
     "image": "./assets/pedals/arcane-analog/arcane-analog-ff66-fuzz-face/primary.webp",
@@ -2175,6 +2217,104 @@
     "image": "./assets/pedals/ashdown-engineering/john-myung-double-drive/primary.webp",
     "source_page": "https://ashdownmusic.com/collections/signature-series/products/john-myung-double-drive-pedal",
     "research_record": "./research/pedals/PRP Batch 059/John Myung Double Drive.md"
+  },
+  {
+    "builder": "Ashdown Engineering",
+    "pedal": "ABM PRO-FX Double Shot",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/ashdown",
+    "research_record": "./research/pedals/Ashdown Engineering/ABM PRO-FX Double Shot.md"
+  },
+  {
+    "builder": "Ashdown Engineering",
+    "pedal": "ABM PRO-FX Pro Drive",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/ashdown",
+    "research_record": "./research/pedals/Ashdown Engineering/ABM PRO-FX Pro Drive.md"
+  },
+  {
+    "builder": "Ashdown Engineering",
+    "pedal": "AGM PRO-FX Retro Drive",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/ashdown",
+    "research_record": "./research/pedals/Ashdown Engineering/AGM PRO-FX Retro Drive.md"
+  },
+  {
+    "builder": "Ashdown Engineering",
+    "pedal": "AGM PRO-FX Vintage Fuzz",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/ashdown",
+    "research_record": "./research/pedals/Ashdown Engineering/AGM PRO-FX Vintage Fuzz.md"
+  },
+  {
+    "builder": "Ashdown Engineering",
+    "pedal": "Bass Drive Plus",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/ashdown",
+    "research_record": "./research/pedals/Ashdown Engineering/Bass Drive Plus.md"
+  },
+  {
+    "builder": "Ashdown Engineering",
+    "pedal": "Geezer Butler Pedal Of Doom",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/ashdown",
+    "research_record": "./research/pedals/Ashdown Engineering/Geezer Butler Pedal Of Doom.md"
+  },
+  {
+    "builder": "Ashdown Engineering",
+    "pedal": "James LoMenzo Hyper Drive",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/ashdown",
+    "research_record": "./research/pedals/Ashdown Engineering/James LoMenzo Hyper Drive.md"
+  },
+  {
+    "builder": "Ashdown Engineering",
+    "pedal": "James LoMenzo Mega Drive",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/ashdown",
+    "research_record": "./research/pedals/Ashdown Engineering/James LoMenzo Mega Drive.md"
+  },
+  {
+    "builder": "Ashdown Engineering",
+    "pedal": "JM John Myung Double Drive",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/ashdown",
+    "research_record": "./research/pedals/Ashdown Engineering/JM John Myung Double Drive.md"
+  },
+  {
+    "builder": "Ashdown Engineering",
+    "pedal": "NM2 Nate Mendel Double Distortion",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/ashdown/nm2",
+    "research_record": "./research/pedals/Ashdown Engineering/NM2 Nate Mendel Double Distortion.md"
+  },
+  {
+    "builder": "Ashdown Engineering",
+    "pedal": "OriginAL - Valve-Pre DI",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/ashdown/origin",
+    "research_record": "./research/pedals/Ashdown Engineering/OriginAL - Valve-Pre DI.md"
+  },
+  {
+    "builder": "Ashdown Engineering",
+    "pedal": "OriginAL Norman Watt-Roy Pre-DI",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/ashdown/original/wattroy",
+    "research_record": "./research/pedals/Ashdown Engineering/OriginAL Norman Watt-Roy Pre-DI.md"
+  },
+  {
+    "builder": "Ashdown Engineering",
+    "pedal": "Pro-DI",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/ashdown/prodi",
+    "research_record": "./research/pedals/Ashdown Engineering/Pro-DI.md"
+  },
+  {
+    "builder": "Ashdown Engineering",
+    "pedal": "Triple Shot - Blended Drive",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/ashdown",
+    "research_record": "./research/pedals/Ashdown Engineering/Triple Shot - Blended Drive.md"
   },
   {
     "builder": "Asheville Guitar Pedals",
@@ -3071,6 +3211,20 @@
     "research_record": "./research/pedals/BAE Audio/Royaltone Fuzz.md"
   },
   {
+    "builder": "BAE Audio",
+    "pedal": "Hot Fuzz",
+    "image": null,
+    "source_page": "https://ww.baeaudio.com/hot-fuzz/",
+    "research_record": "./research/pedals/BAE Audio/Hot Fuzz.md"
+  },
+  {
+    "builder": "BAE Audio",
+    "pedal": "Tonestack Fuzz",
+    "image": null,
+    "source_page": "https://www.baeaudio.com/",
+    "research_record": "./research/pedals/BAE Audio/Tonestack Fuzz.md"
+  },
+  {
     "builder": "Baja Tech Custom",
     "pedal": "Bone Bender",
     "image": "./assets/pedals/baja-tech-custom/bone-bender/primary.webp",
@@ -3729,6 +3883,62 @@
     "image": "./assets/pedals/bbe/green-screamer/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/PRP Batch 097/Green Screamer.md"
+  },
+  {
+    "builder": "BBE",
+    "pedal": "427 Distortion",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/bbe/427",
+    "research_record": "./research/pedals/BBE/427 Distortion.md"
+  },
+  {
+    "builder": "BBE",
+    "pedal": "AM64 American Metal",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/bbe/am64",
+    "research_record": "./research/pedals/BBE/AM64 American Metal.md"
+  },
+  {
+    "builder": "BBE",
+    "pedal": "Blacksmith Distortion",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/bbe/blacksmith",
+    "research_record": "./research/pedals/BBE/Blacksmith Distortion.md"
+  },
+  {
+    "builder": "BBE",
+    "pedal": "Crusher",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/bbe/crusher",
+    "research_record": "./research/pedals/BBE/Crusher.md"
+  },
+  {
+    "builder": "BBE",
+    "pedal": "Distorto³",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/bbe",
+    "research_record": "./research/pedals/BBE/Distorto³.md"
+  },
+  {
+    "builder": "BBE",
+    "pedal": "Free Fuzz",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/bbe/freefuzz",
+    "research_record": "./research/pedals/BBE/Free Fuzz.md"
+  },
+  {
+    "builder": "BBE",
+    "pedal": "Heavy-D",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/bbe",
+    "research_record": "./research/pedals/BBE/Heavy-D.md"
+  },
+  {
+    "builder": "BBE",
+    "pedal": "Windowpane - Silicon Fuzz",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/bbe/windowpane",
+    "research_record": "./research/pedals/BBE/Windowpane - Silicon Fuzz.md"
   },
   {
     "builder": "BearFoot FX",
@@ -5604,6 +5814,13 @@
     "research_record": "./research/pedals/PRP Batch 096/DJENTTONIC.md"
   },
   {
+    "builder": "Black CAT Amps",
+    "pedal": "METAL CORE",
+    "image": null,
+    "source_page": "https://blackcatamps.com/about-us",
+    "research_record": "./research/pedals/Black CAT Amps/METAL CORE.md"
+  },
+  {
     "builder": "Black Cat Pedals",
     "pedal": "Bass Octave Fuzz",
     "image": "./assets/pedals/black-cat-pedals/bass-octave-fuzz/primary.webp",
@@ -5756,6 +5973,48 @@
     "image": "./assets/pedals/blackbox-music-electronics/inferno/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/blackbox/inferno",
     "research_record": "./research/pedals/PRP Batch 099/Inferno.md"
+  },
+  {
+    "builder": "Blackbox Music Electronics",
+    "pedal": "Cobalt",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/blackbox/cobalt",
+    "research_record": "./research/pedals/Blackbox Music Electronics/Cobalt.md"
+  },
+  {
+    "builder": "Blackbox Music Electronics",
+    "pedal": "Oxygen",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/blackbox/oxygen",
+    "research_record": "./research/pedals/Blackbox Music Electronics/Oxygen.md"
+  },
+  {
+    "builder": "Blackbox Music Electronics",
+    "pedal": "Ultraviolet",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/blackbox/ultraviolet",
+    "research_record": "./research/pedals/Blackbox Music Electronics/Ultraviolet.md"
+  },
+  {
+    "builder": "Blackbox Music Electronics",
+    "pedal": "Ultraviolet 2",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/blackbox/ultraviolet2",
+    "research_record": "./research/pedals/Blackbox Music Electronics/Ultraviolet 2.md"
+  },
+  {
+    "builder": "Blackbox Music Electronics",
+    "pedal": "X-Ray",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/blackbox/xray",
+    "research_record": "./research/pedals/Blackbox Music Electronics/X-Ray.md"
+  },
+  {
+    "builder": "Blackbox Music Electronics",
+    "pedal": "X-Ray Bass!",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/blackbox/xray/bass",
+    "research_record": "./research/pedals/Blackbox Music Electronics/X-Ray Bass!.md"
   },
   {
     "builder": "Blackhawk Amplifiers",
@@ -29409,5 +29668,19 @@
     "image": "",
     "source_page": "https://www.bensonamps.com/guitarpedals",
     "research_record": "./research/pedals/Benson Amps/Chimera Fuzz.md"
+  },
+  {
+    "builder": "Case Study Effects",
+    "pedal": "Aspen Overdrive",
+    "image": null,
+    "source_page": "https://casestudyeffects.co/",
+    "research_record": "./research/pedals/Case Study Effects/Aspen Overdrive.md"
+  },
+  {
+    "builder": "Case Study Effects",
+    "pedal": "Lastlight Overdrive",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/casestudy/lastlight",
+    "research_record": "./research/pedals/Case Study Effects/Lastlight Overdrive.md"
   }
 ]

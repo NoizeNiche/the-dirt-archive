@@ -1,31 +1,36 @@
-# Ashdown Engineering - Bass Drive Plus
+# Ashdown Engineering — Bass Drive Plus
 
 ## PRP identity
-- Builder: Ashdown Engineering
-- Catalog type: Distortion / Overdrive
-- Identity: Ashdown Bass Drive Plus, a bass-specific drive/distortion pedal.
+- **Archive parent:** Bass Drive Plus
+- **Builder:** Ashdown Engineering
+- **Catalog type:** Distortion
+- **Identity:** Ashdown Engineering's Bass Drive Plus.
 
 ## What this pedal is
-Bass Drive Plus spans slight grunge through heavier overdrive/distortion and is built around an Ashdown VU meter and three main drive/level functions.
+Ashdown Engineering's Bass Drive Plus is cataloged as a distortion pedal.
 
-## Controls
-- Drive
-- Distortion Tone
-- Distortion Level
-- Input level
-- Output level
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
 
-## Construction / bypass
-- Metal enclosure.
-- Ashdown VU meter.
-- True bypass.
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
 
-## History
-Effects Database dates the model to April 2, 2006.
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+The verified evidence packet did not contain enough pedal-specific sonic description to make a more detailed sound summary without adding unsupported interpretation.
 
 ## Sources checked
-1. Effects Database: https://www.effectsdatabase.com/model/ashdown
-2. Ashdown Engineering: https://ashdownmusic.com/
+1. Ashdown Engineering | Effects Database: https://www.effectsdatabase.com/model/ashdown
 
 ## Photo
-- Exact photo pending.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

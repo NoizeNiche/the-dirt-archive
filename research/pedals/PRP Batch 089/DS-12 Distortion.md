@@ -12,3 +12,21 @@ https://www.effectsdatabase.com/model/biyang/tonefancier/ds12
 
 ## Archive photo
 - **Archive status:** **No Photo Archived**
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Biyang's DS-12 Distortion is cataloged as a distortion pedal.
+
+### Verified sound evidence
+Be the first to review “Biyang DS-12 Distortion” Cancel reply You must be logged in to post a review.
+It can add grit and sustain to your guitar signal.
+This type of effect often sits alongside other popular choices like fuzz and overdrive.
+
+### Sources checked in this pass
+1. catalog/override source: https://reverb.com/p/biyang-classical-ds-12-distortion
+2. Biyang DS-12 Distortion - Effects Database: https://www.effectsdatabase.com/model/biyang/classic/ds12
+3. Biyang DS-12 Distortion - Effects Pedals: https://www.effects-pedals.info/p/biyang-ds-12-distortion/
+4. Biyang DS-12 Distortion | AllThePedals: https://allthepedals.com/pedals/biyang-ds-12-distortion

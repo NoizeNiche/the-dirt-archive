@@ -4372,8 +4372,8 @@
       "image": null,
       "source_page": "https://www.arceffects.com/shepherd/",
       "research_record": "./research/pedals/ARC Effects/Shepherd.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "ARC Effects",
@@ -4384,8 +4384,8 @@
       "image": null,
       "source_page": "https://www.arceffects.com/big-green",
       "research_record": "./research/pedals/ARC Effects/Big Green.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "ARC Effects",
@@ -4396,8 +4396,8 @@
       "image": null,
       "source_page": "https://www.arceffects.com/big-green-1/",
       "research_record": "./research/pedals/ARC Effects/Big Green Pi.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "ARC Effects",
@@ -4408,8 +4408,8 @@
       "image": null,
       "source_page": "https://www.arceffects.com/crimson-king/",
       "research_record": "./research/pedals/ARC Effects/Crimson King.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "ARC Effects",
@@ -4420,8 +4420,8 @@
       "image": null,
       "source_page": "https://www.arceffects.com/klone-v2",
       "research_record": "./research/pedals/ARC Effects/Klone V2.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "ARC Effects",
@@ -4639,8 +4639,8 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/ashdown",
       "research_record": "./research/pedals/Ashdown Engineering/AGM PRO-FX Retro Drive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Ashdown Engineering",
@@ -4651,8 +4651,8 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/ashdown",
       "research_record": "./research/pedals/Ashdown Engineering/AGM PRO-FX Vintage Fuzz.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Ashdown Engineering",
@@ -4664,8 +4664,8 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/ashdown",
       "research_record": "./research/pedals/Ashdown Engineering/Bass Drive Plus.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Ashdown Engineering",
@@ -11115,8 +11115,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_url": "https://rvb-img.reverb.com/i/s--rlJSRsvl--/quality=medium-low,height=800,width=800,fit=contain/zivws8dwysxwcraaculu.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Biyang",

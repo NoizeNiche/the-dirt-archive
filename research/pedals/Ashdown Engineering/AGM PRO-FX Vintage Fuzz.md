@@ -1,23 +1,36 @@
-# Ashdown Engineering - AGM PRO-FX Vintage Fuzz
+# Ashdown Engineering — AGM PRO-FX Vintage Fuzz
 
 ## PRP identity
-- Builder: Ashdown Engineering
-- Catalog type: Fuzz
-- Identity: AGM PRO-FX Vintage Fuzz.
+- **Archive parent:** AGM PRO-FX Vintage Fuzz
+- **Builder:** Ashdown Engineering
+- **Catalog type:** Fuzz
+- **Identity:** Ashdown Engineering's AGM PRO-FX Vintage Fuzz.
 
 ## What this pedal is
-Vintage Fuzz is the fuzz member of Ashdown's AGM PRO-FX pedal line. Effects Database dates it to January 28, 2023.
+Ashdown Engineering's AGM PRO-FX Vintage Fuzz is cataloged as a fuzz pedal.
 
-## Power
-- 9V DC, center negative.
-- Approx. 30mA current draw.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
 
-## Circuit / controls
-Exact topology, control legend and semiconductor part numbers are not established in this surface pass.
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+The verified evidence packet did not contain enough pedal-specific sonic description to make a more detailed sound summary without adding unsupported interpretation.
 
 ## Sources checked
-1. Effects Database: https://www.effectsdatabase.com/model/ashdown
-2. Ashdown Engineering: https://ashdownmusic.com/
+1. Ashdown Engineering | Effects Database: https://www.effectsdatabase.com/model/ashdown
 
 ## Photo
-- Exact photo pending.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

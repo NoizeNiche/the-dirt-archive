@@ -1,31 +1,37 @@
-# ARC Effects - Big Green Pi
+# ARC Effects — Big Green Pi
 
 ## PRP identity
-- Builder: ARC Effects
-- Catalog type: Fuzz
-- Identity: Historical ARC Effects Big Green Pi, the earlier Tall Font Green Russian fuzz that preceded the current Big Green revision.
+- **Archive parent:** Big Green Pi
+- **Builder:** ARC Effects
+- **Catalog type:** Fuzz
+- **Identity:** ARC Effects's Big Green Pi.
 
 ## What this pedal is
-The Big Green Pi was introduced in 2013 as ARC's detailed Tall Font Green Russian Muff-family recreation. It used a custom folded-steel enclosure and internal DIP switches for mid voicing and diode lift.
+On top of everything under the hood the Big Green Pi is housed in a completely custom folded steel enclosure making it an absolute one of a kind with unmatched durability!
 
-## Circuit / lineage
-- Tall Font Green Russian Big Muff family.
-- Period-correct potentiometer values selected from analysis of vintage Tall Font units.
-- Internal diode lift provided an alternate Tone Bender-like response.
+## Colorways
+- On top of everything under the hood the Big Green Pi is housed in a completely custom folded steel enclosure making it an absolute one of a kind with unmatched durability!
 
-## Controls / switching
-- Internal mid-voicing DIP: scooped / flat.
-- Internal diode-lift DIP.
-- True bypass.
-- Top-mounted jacks.
-- DC power and internal battery cradle.
+## Versions and factory options
+- The verified evidence references: V2.
+- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
 
-## History
-Effects Database dates the model to January 2, 2013. ARC's current Big Green page describes the present pedal as a revised/newest version, so Big Green Pi is retained as a historical product identity rather than silently merged away.
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+A new take on the classic "S" Tall Font Green Russian Distortion that's based on a few poked and prodded real deal Tall Fonts.
 
 ## Sources checked
-1. Effects Database: https://www.effectsdatabase.com/model/arceffects/biggreenpi
-2. ARC Effects historical Big Green: https://www.arceffects.com/big-green-1/
+1. Big Green OG — ARC Effects: https://www.arceffects.com/big-green-1/
 
 ## Photo
-- Exact photo pending.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
