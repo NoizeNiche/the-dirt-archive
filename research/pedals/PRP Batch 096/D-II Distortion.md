@@ -12,3 +12,6 @@ The Black Cat D-II is an early Black Cat distortion pedal with limited surviving
 
 ## Archive photo
 - **Archive status:** **No Photo Archived**
+## Deep research verification
+
+Effects Database supports the exact Black Cat Pedals D-II identity and dates its published record to **July 2, 2009**. The archive source set remains sparse on controls, topology and component values, so the model is retained as a verified historical distortion identity without guessed circuit details.
