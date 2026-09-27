@@ -3,40 +3,58 @@
 ## PRP identity
 - **Archive parent:** The Fat Gett
 - **Builder:** Champion Leccy
-- **Catalog type:** Fuzz
-- **Identity:** Champion Leccy The Fat Gett, an early hand-built fuzz with a parallel glitchy sub-octave circuit.
+- **Catalog type:** Fuzz / Octave
+- **Identity:** Early, limited Champion Leccy fuzz built around a heavily modified Black Russian Big Muff with a parallel glitchy sub-octave section. [1][2]
 
-## What this pedal is
-Effects Database describes The Fat Gett as an open, bassy fuzz with a second footswitch that adds a glitchy sub-octave circuit in parallel. The main fuzz is a heavily modified Black Russian Big Muff design, while the sub-octave section grew from experiments with Mid-Fi Electronics' Random Number Generator circuit. [1]
+## Controls / architecture
+### Main fuzz
+- **FURZ:** Fuzz/gain.
+- **GIRTH:** Tone.
+- **PODGE:** Mid boost.
+- **GUT:** Output.
+- Furz footswitch. [1]
 
-Champion Leccy's later development notes identify The Fat Gett as one of the company's first pedals and estimate that only roughly 20–25 were made. [2]
+### Sub-octave section
+- **BLOAT:** Blend.
+- **BLOAT** footswitch.
+- Parallel glitchy sub-octave generated from experimental Mid-Fi Random Number Generator work. [1]
 
-## Colorways
-- Effects Database states that every Fat Gett was **hand-painted with unique one-off artwork**. [1]
-- No fixed factory colorway sequence applies to the model.
-
-## Versions and factory options
-The documented controls and switching are:
-- **Fur** footswitch for bypass.
-- **Bloat** footswitch for the sub-octave section.
-- **Furz** gain.
-- **Girth** tone.
-- **Podge** mid-boost switch.
-- **Bloat** blend control.
-- **Gut** volume. [1]
-
-## Version changes
-No numbered factory revision sequence was established. Champion Leccy's own history indicates the Fat Gett was an early experimental design and was not kept as a regular production line. [2]
+## Circuit lineage
+- **Main fuzz:** heavily modified Black Russian Big Muff.
+- **Sub-octave:** developed from Champion Leccy's experiments with Mid-Fi Electronics' Random Number Generator circuit. [1]
 
 ## Transistor
-The main fuzz uses a modified Black Russian Big Muff topology with a transistor-based gain section. Exact transistor part numbers were not established in the checked sources.
+- Exact production transistor part numbers are not publicly documented.
 
-## Diode
-The main fuzz is documented as using **asymmetrical germanium/silicon clipping**. Exact diode part numbers were not established. [1]
+## Diode / clipping
+- The main fuzz uses asymmetrical Germanium/Silicon clipping.
+- Exact diode part numbers are not established. [1]
+
+## Power
+- Exact model-specific voltage/current data are not securely preserved.
+
+## Version / production history
+- One of Champion Leccy's earliest pedals.
+- Company development history estimates only roughly **20–25 units** were produced.
+- Effects Database notes that each unit received unique hand-painted artwork. [1][2]
 
 ## Sound
-The Furz side provides a broad, bassy fuzz voice with a modified Muff tone stack and optional mid boost. The Bloat side adds glitchy sub-octave content, random splattering, and extra thickness. With both footswitches engaged, the pedal becomes substantially noisier and more textural. [1]
+The main Furz side supplies open, bass-heavy Muff-derived fuzz with a mid-boost option. The Bloat section adds glitchy sub-octave content, random splatter and extra low-end thickness. Combining both sections produces a substantially more unstable/textural sound. [1]
+
+## Research confidence
+- **Identity:** High
+- **Black Russian lineage:** High
+- **Random Number Generator-derived sub-octave:** High
+- **20–25 unit production estimate:** High as company historical estimate
+- **Unique hand-painted artwork:** High
+- **Exact transistors:** Unknown
+
+## Deep research verification
+Effects Database's exact-model record and Champion Leccy's own development history were cross-checked. Both establish the modified Black Russian core and parallel sub-octave concept; the company history supplies the approximate production count. [1][2]
 
 ## Sources checked
 1. Effects Database — Champion Leccy The Fat Gett: https://www.effectsdatabase.com/model/championleccy/fatgett
-2. Champion Leccy — End of Days Fuzz development, including Fat Gett history: https://championleccy.com/2022/07/10/end-of-days-fuzz-1-initial-ideas-and-development/
+2. Champion Leccy — End of Days Fuzz development: https://championleccy.com/2022/07/10/end-of-days-fuzz-1-initial-ideas-and-development/
+
+## Photo
+- Exact-model photo status remains handled separately.
