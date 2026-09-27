@@ -1,47 +1,65 @@
-# Axcess by Giannini - DS-101 Distortion
+# Axcess by Giannini — DS-101 Distortion
 
 ## PRP identity
 - **Archive parent:** DS-101 Distortion
 - **Builder:** Axcess by Giannini
 - **Catalog type:** Distortion
-- **Identity:** Compact Giannini Axcess distortion pedal documented in the company's budget-effects line and listed by Effects Database in 2010.
+- **Identity:** Compact three-control Giannini Axcess distortion pedal documented in the product database and Giannini catalog. [1][2]
+
+## Controls
+- **DISTORTION**
+- **TONE**
+- **LEVEL**
+- True-bypass footswitch.
+- LED indicator. [1][2]
 
 ## What this pedal is
-The DS-101 is a straightforward three-control distortion with Tone, Distortion, and Level. The Giannini user manual documents a 9 VDC external supply with center-negative polarity, and the Axcess catalog places the pedal in the drive section alongside the DS-102, BD-108, MD-102, OD-102, and FZ-110.
+DS-101 is a dedicated distortion rather than a multi-mode effects processor. The Tone control provides the primary tonal contour around Distortion and Level. [1]
 
-## Colorways
-- A reliable factory colorway chronology was not verified.
-- The surviving Effects Database reference image shows a red enclosure, but the checked sources do not establish that as the only factory finish.
+## Power / hardware
+Giannini documentation for the Axcess range specifies:
+- **9VDC center-negative adapter**.
+- P10/1/4-inch input and output.
+- True bypass.
+- Metal enclosure. [2]
+A reliable DS-101-specific current-draw figure was not established.
 
-## Versions and factory options
-### DS-101 production
-- Distortion control
-- Tone control
-- Level control
-- Footswitch true bypass
-- LED effect-status indicator
-- 9 VDC center-negative adapter input
-- Metal enclosure
+## Circuit lineage
+- No authoritative clone/circuit relationship established.
+- The archive does not infer a DOD, Boss, RAT or other vintage topology from the three-control layout.
 
-## Version changes
-No numbered factory revision was verified in the checked manufacturer and catalog sources.
+## Transistor / active device
+- Exact device part number is not publicly documented.
 
-## Transistor
-- **Technology:** Exact active-device topology is not published in the checked Giannini/Effects Database sources.
-- **Exact device:** Not documented.
+## Diode / clipping
+- Exact clipping diode/device is not publicly documented.
 
-## Diode
-- **Type:** Exact clipping-diode arrangement is not publicly documented.
+## Version history
+- Effects Database publication: **2007**.
+- No numbered production revision established.
+- A red finish is visible in the Effects Database reference image, but the archive does not treat it as the only factory finish. [1]
 
 ## Sound
-Giannini describes the Tone control as shaping the treble/harmonic content while Distortion sets the amount of effect and Level sets the processed output level. The result is intended as a conventional, adjustable distortion voice rather than a multi-mode drive platform.
+The DS-101's documented three-control design supports conventional distortion shaping through amount, tonal contour and output level. No measured response curve or exact clipping topology is published in the reviewed material.
+
+## Research confidence
+- **Identity:** High
+- **Control set:** High
+- **True bypass:** High
+- **9V center-negative:** High
+- **Exact active device:** Unknown
+- **Exact diode:** Unknown
+- **Clone lineage:** Not established
+
+## Deep research verification
+Effects Database and Giannini catalog/manual material were checked together. The evidence establishes the three-control layout, metal construction, true bypass and 9V external-power arrangement, while leaving the internal circuit unpublished. [1][2]
 
 ## Sources checked
-1. Effects Database - Axcess by Giannini DS-101 Distortion: https://www.effectsdatabase.com/model/giannini/axcess/ds101
-2. Giannini DS-101 user manual: https://manualzz.com/doc/5896185/giannini-ds-101-pedal-de-efeito-manual-do-usu%C3%A1rio
-3. Giannini catalog 2016: https://www.giannini.com.br/wp-content/uploads/2021/03/catalogo-2016.pdf
+1. Effects Database — Axcess by Giannini DS-101: https://www.effectsdatabase.com/model/giannini/axcess/ds101
+2. Giannini catalog 2016: https://www.giannini.com.br/wp-content/uploads/2021/03/catalogo-2016.pdf
+3. Giannini DS-101 user manual: https://manualzz.com/doc/5896185/giannini-ds-101-pedal-de-efeito-manual-do-usu%C3%A1rio
 
 ## Photo
 - **Archive status:** **Exact Photo Attached to Public Catalog**
 - **Exact-model image:** https://files.effectsdatabase.com/gear/thumbs/giannini-axcess_ds-101_001.jpg
-- **Source page:** https://www.effectsdatabase.com/model/giannini/axcess/ds101
+- **Source page:** Effects Database exact-model record.
