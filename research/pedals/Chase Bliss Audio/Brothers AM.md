@@ -2,47 +2,60 @@
 
 ## PRP identity
 - **Archive parent:** Brothers AM
-- **Builder:** Chase Bliss Audio
-- **Catalog type:** Distortion / Overdrive
-- **Identity:** Chase Bliss Audio Brothers AM, an all-analog dual-channel gain platform developed with Analog Man as an expanded King of Tone concept.
+- **Builder:** Chase Bliss Audio / Analog.Man
+- **Catalog type:** Boost / Overdrive / Distortion
+- **Identity:** All-analog dual-channel gain platform developed with Analog.Man as an expanded King of Tone-family design, with a bonus Beano Boost-inspired treble booster. [1]
 
 ## What this pedal is
-Chase Bliss describes Brothers AM as a collaboration with Analog Man and an expanded take on the King of Tone circuit family. It has two identical multi-mode gain channels, plus a bonus treble booster inspired by Analog Man's Beano Boost. [1]
+Chase Bliss describes Brothers AM as a collaboration with Analog.Man that expands the **King of Tone** family. Each main channel has Boost, Overdrive and Distortion modes, and an additional treble booster provides a third gain source. [1]
 
-The pedal's audio path is 100% analog, while presets and external control are handled digitally. Four internal presets and up to 122 MIDI presets are documented. [1]
+## Controls / architecture
+- Two main gain channels, each with:
+  - **GAIN**
+  - **TONE**
+  - **BOOST / OVERDRIVE / DISTORTION**
+- Global master output.
+- Bonus **TREBLE BOOST** section inspired by the Analog.Man Beano Boost.
+- Presets, MIDI, CV and expression control.
+- True bypass. [1]
 
-## Colorways
-- The current catalog documents a **Monochrome Edition**. [1]
-- A separate earlier production finish may exist, but a complete factory colorway history was not established.
+## Circuit lineage
+- **King of Tone-family** architecture.
+- Bonus treble booster references **Beano Boost**.
+- These are collaboration/reference relationships, not a claim of component identity with every Analog.Man product. [1]
 
-## Versions and factory options
-Each main gain channel provides:
-- Gain
-- Tone
-- Boost / Overdrive / Distortion mode
+## Transistor / active devices
+- Exact production transistor/IC part numbers are not published in the reviewed manufacturer documentation.
+- The audio path is fully analog. [1]
 
-The pedal also provides:
-- Master volume.
-- Analog Man-inspired treble booster.
-- Four internal presets.
-- MIDI, CV, and expression control.
-- Momentary or latching bypass behavior.
-- True bypass.
-- 9V DC center-negative power, approximately 200 mA. [1]
+## Diode / clipping
+- Gain-mode/clipping behavior is documented, but exact diode part numbers are not established.
 
-## Version changes
-Chase Bliss presents the current **Monochrome Edition** and **Twins of Tone** editions as Brothers AM variants in its active catalog. The checked documentation does not establish a numbered hardware revision history between those editions. [1]
+## Power
+- **9V DC center-negative**.
+- Approximately **200 mA**. [1]
 
-## Transistor
-The checked manufacturer documentation does not publish exact transistor part numbers for the two core gain channels.
-
-The bonus treble booster is described as Beano Boost-inspired, but its exact transistor component is not publicly specified in the checked source. [1]
-
-## Diode
-The gain modes and Analog Man-derived clipping architecture are documented, but exact diode part numbers were not established in the checked source.
+## Version history
+- **Brothers AM** remains distinct from the original Brothers.
+- Current catalog includes Monochrome Edition/Twins of Tone presentations; these are edition/finish configurations rather than automatically treated as numbered electronic revisions. [1]
 
 ## Sound
-The two channels cover boost, overdrive, and distortion, and can be stacked or combined. The treble booster adds a bright, cutting gain stage ahead of the main channels, allowing a three-stage stack. [1]
+The two main channels cover boost through overdrive and distortion, while the treble booster can be placed as a bright gain stage before or around the main channels. Preset/external-control functions let those combinations be recalled. [1]
+
+## Research confidence
+- **Identity:** High
+- **Analog.Man collaboration:** High
+- **King of Tone lineage:** High
+- **Three modes per main channel:** High
+- **Bonus treble booster:** High
+- **9V / 200mA:** High
+- **Exact semiconductor BOM:** Unknown
+
+## Deep research verification
+Chase Bliss's own Brothers AM documentation is the primary source and directly establishes the collaboration, all-analog path, two three-mode gain channels, Beano Boost-inspired treble booster, external control and 9V/200mA specification. [1]
 
 ## Sources checked
-1. Chase Bliss — Brothers AM story / active product documentation: https://www.chasebliss.com/brothers-am-story
+1. Chase Bliss — Brothers AM story/current documentation: https://www.chasebliss.com/brothers-am-story
+
+## Photo
+- Exact-model photo status remains handled separately.
