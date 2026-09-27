@@ -4,36 +4,56 @@
 - **Archive parent:** Wet Nuns Fuzz
 - **Builder:** COG Effects
 - **Catalog type:** Fuzz
-- **Identity:** COG Effects Wet Nuns Fuzz, a dual-channel fuzz with Green Russian and Ram's Head-style voicings.
+- **Identity:** Dual-channel Tarkin-derived Muff-family fuzz built with Green Russian and Ram's Head-style voices, developed with Rob Graham. [1]
 
-## What this pedal is
-COG Effects describes Wet Nuns as two Tarkin-derived fuzz channels in one enclosure. Channel A follows the Green Russian-style Tarkin voice, while Channel B follows a Ram's Head-era voice. Each channel adds a Mids control. [1]
+## Controls / architecture
+Each channel has:
+- **FUZZ**
+- **TONE**
+- **LEVEL**
+- **MIDS**
+- Green Russian-style channel A.
+- Ram's Head-style channel B.
+- Channel-switching footswitch. [1]
 
-COG states that Wet Nuns was developed with Rob Graham and is an exact replica of the custom Tittie Fuzz built for him. [1]
-
-## Versions and factory options
-- Two independent fuzz channels.
-- Channel A Green Russian voice.
-- Channel B Ram's Head voice.
-- Fuzz, Tone, Level, and Mids controls for each channel.
-- Channel-switching footswitch.
-- Relay true bypass.
-- 9V DC.
-- North-mounted jacks.
-- Die-cast aluminium enclosure.
-- Choice of Wet Nuns artwork/custom finish. [1]
-
-## Version changes
-No numbered production version sequence was established.
+## Circuit lineage
+- **Channel A:** Tarkin / Green Russian-derived.
+- **Channel B:** Ram's Head-derived.
+- COG states Wet Nuns was developed as an exact replica of the custom Tittie Fuzz made for Rob Graham. [1]
 
 ## Transistor
-Tarkin-derived channels; exact transistor part numbers not established.
+- Muff-family transistor stages are part of the Tarkin-derived architecture.
+- Exact production transistor part numbers are not established.
 
-## Diode
-Exact diode complement not established.
+## Diode / clipping
+- Exact diode part numbers are not established.
+
+## Power / construction
+- **9V DC**.
+- Relay true bypass.
+- North-mounted jacks.
+- Die-cast aluminum enclosure. [1]
+
+## Version history
+- No numbered production revision established.
+- Artwork/custom-finish differences are not treated as circuit versions.
 
 ## Sound
-The two channels provide broad Muff-family fuzz coverage, with Mids moving from deep scoop toward a slight mid boost. [1]
+The two channels cover distinct Muff-family responses. Mids shifts each channel away from a deep fixed scoop toward a flatter or more forward response, making the two sides useful as contrasting fuzz voices. [1]
+
+## Research confidence
+- **Identity:** High
+- **Dual-channel architecture:** High
+- **Green Russian/Ram's Head lineage:** High
+- **Rob Graham/Tittie Fuzz development history:** High
+- **Exact transistor:** Unknown
+- **Exact diode:** Unknown
+
+## Deep research verification
+COG's Wet Nuns page was checked directly. The builder source establishes the dual Tarkin/Ram's Head architecture, four controls per channel, Rob Graham collaboration and 9V/relay-bypass construction. [1]
 
 ## Sources checked
 1. COG Effects — Wet Nuns Fuzz: https://www.cogeffects.co.uk/wetnunsfuzz.php
+
+## Photo
+- Exact-model photo status remains handled separately.
