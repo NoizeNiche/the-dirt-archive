@@ -16315,13 +16315,6 @@
   },
   {
     "builder": "DigiTech",
-    "pedal": "Redline Modified Overdrive",
-    "image": "./assets/pedals/digitech/redline-modified-overdrive/primary.webp",
-    "source_page": null,
-    "research_record": "./research/pedals/DigiTech/Redline Modified Overdrive.md"
-  },
-  {
-    "builder": "DigiTech",
     "pedal": "Screamin' Blues Overdrive / Distortion",
     "image": "./assets/pedals/digitech/screamin-blues-overdrive-distortion/primary.webp",
     "source_page": null,

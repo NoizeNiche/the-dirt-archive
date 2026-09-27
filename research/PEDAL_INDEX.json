@@ -1,6 +1,6 @@
 {
   "version": "data-20260927-historical-census-sweep-07k",
-  "count": 4242,
+  "count": 4241,
   "pedals": [
     {
       "company": "1981 Inventions",
@@ -32701,18 +32701,6 @@
       "research_record": "./research/pedals/DigiTech/Hot Head Distortion.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED"
-    },
-    {
-      "company": "DigiTech",
-      "pedal": "Redline Modified Overdrive",
-      "types": [
-        "Overdrive"
-      ],
-      "image": "./assets/pedals/digitech/redline-modified-overdrive/primary.webp",
-      "source_page": null,
-      "research_record": "./research/pedals/DigiTech/Redline Modified Overdrive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
     },
     {
       "company": "DigiTech",
