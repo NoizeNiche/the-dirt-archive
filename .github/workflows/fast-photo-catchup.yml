@@ -191,6 +191,7 @@ jobs:
           python scripts/verify-photo-state.py
 
       - name: Gate canonical photo movement
+        id: photo_gate
         run: |
           python - <<'PY'
           import json
@@ -207,6 +208,8 @@ jobs:
               after = sum(1 for r in csv.DictReader(fh) if r.get("Picture") == "DONE")
           delta = after - before
           print(f"Photo foreman accepted={accepted}; canonical pictured delta={delta} (before={before}, after={after})")
+          with open(__import__("os").environ["GITHUB_OUTPUT"], "a", encoding="utf-8") as fh:
+              fh.write(f"delta={delta}\\n")
           if accepted > 0 and delta <= 0:
               raise SystemExit("Accepted photo recoveries did not reach canonical Picture=DONE state.")
           if delta < 0:
@@ -265,3 +268,17 @@ jobs:
             git commit -m "Archive parallel verified pedal photos"
           done
           exit 1
+
+      - name: Continue finish-line photo lane
+        if: ${{ success() && steps.photo_gate.outputs.delta != '' && fromJSON(steps.photo_gate.outputs.delta) > 0 }}
+        env:
+          GH_TOKEN: ${{ github.token }}
+        shell: bash
+        run: |
+          active="$(gh run list --workflow fast-photo-catchup.yml --branch main --limit 10 --json status --jq '[.[] | select(.status != "completed")] | length')"
+          if [ "$active" -le 1 ]; then
+            echo "Photo movement landed; queueing the next bounded fast recovery pass."
+            gh api --method POST "repos/$GITHUB_REPOSITORY/actions/workflows/fast-photo-catchup.yml/dispatches" -f ref=main
+          else
+            echo "Another fast photo pass is already queued or active; no duplicate dispatch."
+          fi
