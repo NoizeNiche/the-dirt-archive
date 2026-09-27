@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-27T09:13:03.579484+00:00",
+  "generated_at": "2026-09-27T09:14:23.762427+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,8 +10,8 @@
     "pictured": 3123,
     "complete": 3123,
     "research_pending": 0,
-    "deep_research_pending": 2114,
-    "deep_researched": 2128,
+    "deep_research_pending": 2106,
+    "deep_researched": 2136,
     "surface_ready": 4242
   },
   "next_target": {
@@ -62,62 +62,6 @@
       "pedal": "Widow Dual Overdrive/Fuzz",
       "catalog_type": "",
       "research_record": "./research/pedals/Bad Penny FX/Widow Dual Overdrive Fuzz.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "BBE",
-      "pedal": "427 Distortion",
-      "catalog_type": "",
-      "research_record": "./research/pedals/BBE/427 Distortion.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "BBE",
-      "pedal": "AM64 American Metal",
-      "catalog_type": "",
-      "research_record": "./research/pedals/BBE/AM64 American Metal.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "BBE",
-      "pedal": "Blacksmith Distortion",
-      "catalog_type": "",
-      "research_record": "./research/pedals/BBE/Blacksmith Distortion.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "BBE",
-      "pedal": "Crusher",
-      "catalog_type": "",
-      "research_record": "./research/pedals/BBE/Crusher.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "BBE",
-      "pedal": "Distorto³",
-      "catalog_type": "",
-      "research_record": "./research/pedals/BBE/Distorto³.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "BBE",
-      "pedal": "Free Fuzz",
-      "catalog_type": "",
-      "research_record": "./research/pedals/BBE/Free Fuzz.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "BBE",
-      "pedal": "Heavy-D",
-      "catalog_type": "",
-      "research_record": "./research/pedals/BBE/Heavy-D.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "BBE",
-      "pedal": "Windowpane - Silicon Fuzz",
-      "catalog_type": "",
-      "research_record": "./research/pedals/BBE/Windowpane - Silicon Fuzz.md",
       "research_level": "surface"
     },
     {
@@ -195,6 +139,62 @@
       "pedal": "OD100 Overdrive/Distortion",
       "catalog_type": "",
       "research_record": "./research/pedals/Behringer/OD100 Overdrive/Distortion.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Behringer",
+      "pedal": "OD400 Overdrive",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Behringer/OD400 Overdrive.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Behringer",
+      "pedal": "PO300 Power Overdrive",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Behringer/PO300 Power Overdrive.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Behringer",
+      "pedal": "SM400 Super Metal",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Behringer/SM400 Super Metal.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Behringer",
+      "pedal": "TO100 Tube Overdrive",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Behringer/TO100 Tube Overdrive.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Behringer",
+      "pedal": "VD1 Vintage Distortion",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Behringer/VD1 Vintage Distortion.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Behringer",
+      "pedal": "WD300 Warp Distortion",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Behringer/WD300 Warp Distortion.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Behringer",
+      "pedal": "XD300 Distortion X",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Behringer/XD300 Distortion X.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Behringer",
+      "pedal": "Zentara Overdrive",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Behringer/Zentara Overdrive.md",
       "research_level": "surface"
     }
   ]

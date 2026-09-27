@@ -8629,8 +8629,8 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/bbe/427",
       "research_record": "./research/pedals/BBE/427 Distortion.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "BBE",
@@ -8641,8 +8641,8 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/bbe/am64",
       "research_record": "./research/pedals/BBE/AM64 American Metal.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "BBE",
@@ -8653,8 +8653,8 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/bbe/blacksmith",
       "research_record": "./research/pedals/BBE/Blacksmith Distortion.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "BBE",
@@ -8665,8 +8665,8 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/bbe/crusher",
       "research_record": "./research/pedals/BBE/Crusher.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "BBE",
@@ -8677,8 +8677,8 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/bbe",
       "research_record": "./research/pedals/BBE/Distorto³.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "BBE",
@@ -8689,8 +8689,8 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/bbe/freefuzz",
       "research_record": "./research/pedals/BBE/Free Fuzz.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "BBE",
@@ -8744,8 +8744,8 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/bbe",
       "research_record": "./research/pedals/BBE/Heavy-D.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "BBE",
@@ -8756,8 +8756,8 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/bbe/windowpane",
       "research_record": "./research/pedals/BBE/Windowpane - Silicon Fuzz.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "BearFoot FX",
