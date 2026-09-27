@@ -5134,11 +5134,25 @@
   },
   {
     "builder": "BJFE / BJF Electronics",
+    "pedal": "Arctic Light Fuzz",
+    "image": "",
+    "source_page": "https://www.bjornjuhl.com/forum/viewtopic.php-f%3D6%26t%3D1555.html",
+    "research_record": "./research/pedals/BJFE / BJF Electronics/Arctic Light Fuzz.md"
+  },
+  {
+    "builder": "BJFE / BJF Electronics",
     "pedal": "Arctic White Fuzz (AWF)",
     "image": "./assets/pedals/bjfe-bjf-electronics/arctic-white-fuzz-awf/primary.webp",
     "source_page": "https://bjornjuhl.com/forum/viewtopic.php?f=6&t=2261",
     "research_record": "./research/pedals/PRP Batch 092/Arctic White Fuzz (AWF).md",
     "source": "verified research source"
+  },
+  {
+    "builder": "BJFE / BJF Electronics",
+    "pedal": "Baby Blue Overdrive (BBOD)",
+    "image": "",
+    "source_page": "https://www.bjornjuhl.com/forum/viewtopic.php-f%3D6%26t%3D1555.html",
+    "research_record": "./research/pedals/BJFE / BJF Electronics/Baby Blue Overdrive (BBOD).md"
   },
   {
     "builder": "BJFE / BJF Electronics",
@@ -5163,6 +5177,20 @@
     "source_page": "https://bjornjuhl.com/forum/viewtopic.php?f=6&t=2261",
     "research_record": "./research/pedals/PRP Batch 092/Candy Apple Fuzz (CAF).md",
     "source": "verified research source"
+  },
+  {
+    "builder": "BJFE / BJF Electronics",
+    "pedal": "Cliff Hanger",
+    "image": "",
+    "source_page": "https://www.bjornjuhl.com/forum/viewtopic.php-f%3D6%26t%3D1555.html",
+    "research_record": "./research/pedals/BJFE / BJF Electronics/Cliff Hanger.md"
+  },
+  {
+    "builder": "BJFE / BJF Electronics",
+    "pedal": "Cliff Hanger II",
+    "image": "",
+    "source_page": "https://www.bjornjuhl.com/forum/viewtopic.php-f%3D6%26t%3D1555.html",
+    "research_record": "./research/pedals/BJFE / BJF Electronics/Cliff Hanger II.md"
   },
   {
     "builder": "BJFE / BJF Electronics",
@@ -5211,6 +5239,13 @@
     "source_page": "https://bjornjuhl.com/forum/viewtopic.php?f=6&t=2261",
     "research_record": "./research/pedals/PRP Batch 092/Folk Fuzz.md",
     "source": "verified research source"
+  },
+  {
+    "builder": "BJFE / BJF Electronics",
+    "pedal": "Folk Fuzz 3.5%",
+    "image": "",
+    "source_page": "https://www.bjornjuhl.com/forum/viewtopic.php-f%3D6%26t%3D1555.html",
+    "research_record": "./research/pedals/BJFE / BJF Electronics/Folk Fuzz 3.5%.md"
   },
   {
     "builder": "BJFE / BJF Electronics",
@@ -5270,11 +5305,39 @@
   },
   {
     "builder": "BJFE / BJF Electronics",
+    "pedal": "Rebel Red Distortion",
+    "image": "",
+    "source_page": "https://www.bjornjuhl.com/forum/viewtopic.php-f%3D6%26t%3D1555.html",
+    "research_record": "./research/pedals/BJFE / BJF Electronics/Rebel Red Distortion.md"
+  },
+  {
+    "builder": "BJFE / BJF Electronics",
+    "pedal": "Saffron Yellow Overdrive (SYOD)",
+    "image": "",
+    "source_page": "https://www.bjornjuhl.com/forum/viewtopic.php-f%3D6%26t%3D1555.html",
+    "research_record": "./research/pedals/BJFE / BJF Electronics/Saffron Yellow Overdrive (SYOD).md"
+  },
+  {
+    "builder": "BJFE / BJF Electronics",
     "pedal": "Smokey Orange Fuzz",
     "image": "./assets/pedals/bjfe-bjf-electronics/smokey-orange-fuzz/primary.webp",
     "source_page": "https://bjornjuhl.com/forum/viewtopic.php?f=6&t=2261",
     "research_record": "./research/pedals/PRP Batch 093/Smokey Orange Fuzz.md",
     "source": "verified research source"
+  },
+  {
+    "builder": "BJFE / BJF Electronics",
+    "pedal": "Snow White Fuzz",
+    "image": "",
+    "source_page": "https://www.bjornjuhl.com/forum/viewtopic.php-f%3D6%26t%3D1555.html",
+    "research_record": "./research/pedals/BJFE / BJF Electronics/Snow White Fuzz.md"
+  },
+  {
+    "builder": "BJFE / BJF Electronics",
+    "pedal": "Sparkling Red Fuzz",
+    "image": "",
+    "source_page": "https://www.bjornjuhl.com/forum/viewtopic.php-f%3D6%26t%3D1555.html",
+    "research_record": "./research/pedals/BJFE / BJF Electronics/Sparkling Red Fuzz.md"
   },
   {
     "builder": "BJFE / BJF Electronics",
@@ -5291,6 +5354,13 @@
     "source_page": "https://bjornjuhl.com/forum/viewtopic.php?f=6&t=2261",
     "research_record": "./research/pedals/PRP Batch 093/Sparkling Yellow Overdrive Version 2 (SYOD V.2).md",
     "source": "verified research source"
+  },
+  {
+    "builder": "BJFE / BJF Electronics",
+    "pedal": "Sun Burst Fuzz",
+    "image": "",
+    "source_page": "https://www.bjornjuhl.com/forum/viewtopic.php-f%3D6%26t%3D1555.html",
+    "research_record": "./research/pedals/BJFE / BJF Electronics/Sun Burst Fuzz.md"
   },
   {
     "builder": "Black Arts Toneworks",
@@ -15569,35 +15639,35 @@
     "pedal": "AFRO FUZZ",
     "image": "",
     "source_page": "https://www.dirtyboy.co/pages/our-effects",
-    "research_record": ""
+    "research_record": "./research/pedals/Dirty Boy Pedals / Dirty Boy Co./AFRO FUZZ.md"
   },
   {
     "builder": "Dirty Boy Pedals / Dirty Boy Co.",
     "pedal": "JUNIOR DB Fuzz / Dirty Boy Jr. Fuzz",
     "image": "",
     "source_page": "https://warmaudio.com/brand-assets",
-    "research_record": ""
+    "research_record": "./research/pedals/Dirty Boy Pedals / Dirty Boy Co./JUNIOR DB Fuzz / Dirty Boy Jr. Fuzz.md"
   },
   {
     "builder": "Dirty Boy Pedals / Dirty Boy Co.",
     "pedal": "JUNIOR DB Overdrive / Dirty Boy Jr. Overdrive",
     "image": "",
     "source_page": "https://warmaudio.com/dirty-boy-jr-overdrive",
-    "research_record": ""
+    "research_record": "./research/pedals/Dirty Boy Pedals / Dirty Boy Co./JUNIOR DB Overdrive / Dirty Boy Jr. Overdrive.md"
   },
   {
     "builder": "Dirty Boy Pedals / Dirty Boy Co.",
     "pedal": "PREAMP",
     "image": "",
     "source_page": "https://www.dirtyboy.co/products/dirtyboy-preamp",
-    "research_record": ""
+    "research_record": "./research/pedals/Dirty Boy Pedals / Dirty Boy Co./PREAMP.md"
   },
   {
     "builder": "Dirty Boy Pedals / Dirty Boy Co.",
     "pedal": "The Magical MYSTERY FUZZ",
     "image": "",
     "source_page": "https://www.dirtyboy.co/products/the-magical-mystery-fuzz",
-    "research_record": ""
+    "research_record": "./research/pedals/Dirty Boy Pedals / Dirty Boy Co./The Magical MYSTERY FUZZ.md"
   },
   {
     "builder": "DLS Effect",
@@ -18474,14 +18544,14 @@
     "pedal": "Under Over",
     "image": "",
     "source_page": "https://himmelstrutz.com/download/",
-    "research_record": ""
+    "research_record": "./research/pedals/Himmelstrutz Elektro Art/Under Over.md"
   },
   {
     "builder": "Himmelstrutz Elektro Art",
     "pedal": "Under Overdriver",
     "image": "",
     "source_page": "https://himmelstrutz.com/download/",
-    "research_record": ""
+    "research_record": "./research/pedals/Himmelstrutz Elektro Art/Under Overdriver.md"
   },
   {
     "builder": "Horizon Devices",
@@ -20819,119 +20889,119 @@
     "pedal": "5E3 Deluxe",
     "image": "",
     "source_page": "https://lovepedal.com/",
-    "research_record": ""
+    "research_record": "./research/pedals/Lovepedal / Love Pedal/5E3 Deluxe.md"
   },
   {
     "builder": "Lovepedal / Love Pedal",
     "pedal": "200lbs of Gold",
     "image": "",
     "source_page": "https://lovepedal.com/",
-    "research_record": ""
+    "research_record": "./research/pedals/Lovepedal / Love Pedal/200lbs of Gold.md"
   },
   {
     "builder": "Lovepedal / Love Pedal",
     "pedal": "Amp 50",
     "image": "",
     "source_page": "https://lovepedal.com/",
-    "research_record": ""
+    "research_record": "./research/pedals/Lovepedal / Love Pedal/Amp 50.md"
   },
   {
     "builder": "Lovepedal / Love Pedal",
     "pedal": "Amp Eleven",
     "image": "",
     "source_page": "https://lovepedal.com/",
-    "research_record": ""
+    "research_record": "./research/pedals/Lovepedal / Love Pedal/Amp Eleven.md"
   },
   {
     "builder": "Lovepedal / Love Pedal",
     "pedal": "COT 50 / Church of Tone 50",
     "image": "",
     "source_page": "https://lovepedal.com/",
-    "research_record": ""
+    "research_record": "./research/pedals/Lovepedal / Love Pedal/COT 50 / Church of Tone 50.md"
   },
   {
     "builder": "Lovepedal / Love Pedal",
     "pedal": "Dover Drive",
     "image": "",
     "source_page": "https://lovepedal.com/",
-    "research_record": ""
+    "research_record": "./research/pedals/Lovepedal / Love Pedal/Dover Drive.md"
   },
   {
     "builder": "Lovepedal / Love Pedal",
     "pedal": "Eternity Burst",
     "image": "",
     "source_page": "https://lovepedal.com/",
-    "research_record": ""
+    "research_record": "./research/pedals/Lovepedal / Love Pedal/Eternity Burst.md"
   },
   {
     "builder": "Lovepedal / Love Pedal",
     "pedal": "Eternity Overdrive",
     "image": "",
     "source_page": "https://lovepedal.com/",
-    "research_record": ""
+    "research_record": "./research/pedals/Lovepedal / Love Pedal/Eternity Overdrive.md"
   },
   {
     "builder": "Lovepedal / Love Pedal",
     "pedal": "FAB 50",
     "image": "",
     "source_page": "https://lovepedal.com/",
-    "research_record": ""
+    "research_record": "./research/pedals/Lovepedal / Love Pedal/FAB 50.md"
   },
   {
     "builder": "Lovepedal / Love Pedal",
     "pedal": "Kalamazoo",
     "image": "",
     "source_page": "https://lovepedal.com/",
-    "research_record": ""
+    "research_record": "./research/pedals/Lovepedal / Love Pedal/Kalamazoo.md"
   },
   {
     "builder": "Lovepedal / Love Pedal",
     "pedal": "Mosferatu",
     "image": "",
     "source_page": "https://lovepedal.com/",
-    "research_record": ""
+    "research_record": "./research/pedals/Lovepedal / Love Pedal/Mosferatu.md"
   },
   {
     "builder": "Lovepedal / Love Pedal",
     "pedal": "Purple Plexi",
     "image": "",
     "source_page": "https://lovepedal.com/",
-    "research_record": ""
+    "research_record": "./research/pedals/Lovepedal / Love Pedal/Purple Plexi.md"
   },
   {
     "builder": "Lovepedal / Love Pedal",
     "pedal": "Super Six",
     "image": "",
     "source_page": "https://lovepedal.com/",
-    "research_record": ""
+    "research_record": "./research/pedals/Lovepedal / Love Pedal/Super Six.md"
   },
   {
     "builder": "Lovepedal / Love Pedal",
     "pedal": "Tchula",
     "image": "",
     "source_page": "https://lovepedal.com/",
-    "research_record": ""
+    "research_record": "./research/pedals/Lovepedal / Love Pedal/Tchula.md"
   },
   {
     "builder": "Lovepedal / Love Pedal",
     "pedal": "Tiki Drive",
     "image": "",
     "source_page": "https://lovepedal.com/",
-    "research_record": ""
+    "research_record": "./research/pedals/Lovepedal / Love Pedal/Tiki Drive.md"
   },
   {
     "builder": "Lovepedal / Love Pedal",
     "pedal": "Zendrive",
     "image": "",
     "source_page": "https://lovepedal.com/",
-    "research_record": ""
+    "research_record": "./research/pedals/Lovepedal / Love Pedal/Zendrive.md"
   },
   {
     "builder": "Lovepedal / Love Pedal",
     "pedal": "Zendrive 2",
     "image": "",
     "source_page": "https://lovepedal.com/",
-    "research_record": ""
+    "research_record": "./research/pedals/Lovepedal / Love Pedal/Zendrive 2.md"
   },
   {
     "builder": "Lunastone Pedals",
@@ -28492,5 +28562,54 @@
     "image": null,
     "source_page": null,
     "research_record": "./research/pedals/ZVEX Effects/Woolly Mammoth 7.md"
+  },
+  {
+    "builder": "Big Ear NYC",
+    "pedal": "Chaka - Octave Fuzz",
+    "image": "",
+    "source_page": "https://www.effectsdatabase.com/model/bigear/chaka",
+    "research_record": "./research/pedals/Big Ear NYC/Chaka - Octave Fuzz.md"
+  },
+  {
+    "builder": "Big Joe Stomp Box Company",
+    "pedal": "B-302 ROCK",
+    "image": "",
+    "source_page": "https://bigjoestompbox.com/products/b-302-rock",
+    "research_record": "./research/pedals/Big Joe Stomp Box Company/B-302 ROCK.md"
+  },
+  {
+    "builder": "Big Joe Stomp Box Company",
+    "pedal": "B-303 METAL",
+    "image": "",
+    "source_page": "https://bigjoestompbox.com/products/b-303-metal",
+    "research_record": "./research/pedals/Big Joe Stomp Box Company/B-303 METAL.md"
+  },
+  {
+    "builder": "Big Joe Stomp Box Company",
+    "pedal": "B-312 FREAKSHOW FUZZ (SILICON)",
+    "image": "",
+    "source_page": "https://bigjoestompbox.com/products/b-312-freakshow-fuzz-silicon",
+    "research_record": "./research/pedals/Big Joe Stomp Box Company/B-312 FREAKSHOW FUZZ (SILICON).md"
+  },
+  {
+    "builder": "Big Joe Stomp Box Company",
+    "pedal": "B-313 FREAKSHOW FUZZ (GERMANIUM)",
+    "image": "",
+    "source_page": "https://bigjoestompbox.com/products/b-307g-freakshow-fuzz",
+    "research_record": "./research/pedals/Big Joe Stomp Box Company/B-313 FREAKSHOW FUZZ (GERMANIUM).md"
+  },
+  {
+    "builder": "Big Joe Stomp Box Company",
+    "pedal": "R-401 SATURATED",
+    "image": "",
+    "source_page": "https://bigjoestompbox.com/products/r-401-saturated",
+    "research_record": "./research/pedals/Big Joe Stomp Box Company/R-401 SATURATED.md"
+  },
+  {
+    "builder": "Big Joe Stomp Box Company",
+    "pedal": "R-405 HARD",
+    "image": "",
+    "source_page": "https://bigjoestompbox.com/products/r-405-hard",
+    "research_record": "./research/pedals/Big Joe Stomp Box Company/R-405 HARD.md"
   }
 ]
