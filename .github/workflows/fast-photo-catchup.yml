@@ -5,6 +5,7 @@ on:
   push:
     paths:
       - research/PHOTO_FAST_KICK
+      - research/PHOTO_SOURCE_OVERRIDES.csv
 
 permissions:
   contents: write
