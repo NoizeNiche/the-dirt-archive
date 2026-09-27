@@ -3,39 +3,20 @@
 
 The active production phase is **Catalog Research Phase**. PRP1 is retained only as a legacy publication/closeout mechanism.
 
-Live catalog: **4241 total / 4241 surface-ready / 3874 deep-researched / 3742 legacy-PRP-tracker-linked / 3361 pictured / 3117 deep-researched-and-pictured / 0 surface-missing / 367 deep-research-pending / 757 deep-researched-photo-pending**.
+Live catalog: **4241 total / 4241 surface-ready / 3874 deep-researched / 3742 legacy-PRP-tracker-linked / 3380 pictured / 3132 deep-researched-and-pictured / 0 surface-missing / 367 deep-research-pending / 742 deep-researched-photo-pending**.
 
 The canonical catalog contains a research record for all 4241 entries. The 3742 tracker-linked figure is the remaining legacy PRP tracker population, not the size of the full research corpus.
 
 Recent research upgrades include Captain FX Crown Jr., Coffin Gear / Coffin Case Batula Fuzz, Critically Overdriven E.O.D., Coleman Angry Dragon mkII, Danelectro Blue Paisley PureDrive, Daredevil Necros, DeadastronautFX Skinwalker, Death By Audio Echo Dream 2, D&M Distortion, Devi Ever Tri-Fuzz / Hyperion 2 / US / BS / OK / The Ion, Dirty Boy Jr. Overdrive, Dr. Scientist Dungeon Crawler / Frazz Dazzler, and Radial Tonebone Hot-British V9.
 
-Catalog hygiene also removed one invalid Dirty Boy placeholder identity, its orphaned image, and its dangling legacy tracker row. The tracker is validated as a subset of the canonical catalog.
+Catalog hygiene removed one invalid Dirty Boy placeholder identity, its orphaned image, and its dangling legacy tracker row. The tracker is validated as a subset of the canonical catalog.
 
-The deployment audit was repaired to use the current no-photo fallback element, retain parent history for image regressions, and reject stale tracker identities. A small detail-page accessibility improvement now announces dynamically loaded breadcrumb and research content to assistive technology.
-
-**Next deep-research target:** Death By Audio - Sonic Incinerator.
-
-PRP1 closeout remains separate: **757 deep-researched record(s) still lack an exact local photo**. Photo recovery and research are intentionally tracked as separate gates.
-Last refreshed: 2026-09-27T19:55:41.477Z
-
-
-<!-- AUTO:RESEARCH_PHASE_START -->
-## Active phase checkpoint
-
-The active production phase is **Catalog Research Phase**. PRP1 is retained only as a legacy publication/closeout mechanism.
-
-Live catalog: **4242 total / 4242 surface-ready / 3867 deep-researched / 3743 legacy-PRP-tracker-linked / 3362 pictured / 3113 deep-researched-and-pictured / 0 surface-missing / 375 deep-research-pending / 754 deep-researched-photo-pending**.
-
-The canonical catalog contains a research record for all 4242 entries. The 3743 tracker-linked figure is the remaining legacy PRP tracker population, not the size of the full research corpus.
-
-Recent research upgrades include **Captain FX Crown Jr. Overdrive / Boost**, **Coffin Gear / Coffin Case Batula Fuzz**, **Critically Overdriven E.O.D.**, **Coleman Angry Dragon mkII**, **Danelectro Blue Paisley PureDrive**, **Daredevil Pedals Necros**, **DeadastronautFX Skinwalker**, **Death By Audio Echo Dream 2 (fuzz function)**, **D&M Distortion**, **Devi Ever Tri-Fuzz**, **Hyperion 2**, and **US**. The public catalog remains at 4242 identities with no catalog deletions in this research pass.
-
-The deployment health lane was also repaired: the legacy PRP tracker is now validated as a subset rather than incorrectly required to mirror the full catalog, stale tracker identities were pruned, the no-photo browser canary now matches the current empty-photo UI, and the Pages deploy checkout retains the parent commit needed by image regression checks.
+Deployment audit repairs are now live: the tracker is treated as a subset, the no-photo browser canary tests fallback presence without a false visibility assumption, deploy checkouts retain parent history for image regressions, and dynamic detail content announces itself to assistive technology.
 
 **Next deep-research target:** Death By Audio - Sonic Incinerator.
 
-PRP1 closeout remains separate: **754 deep-researched record(s) still lack an exact local photo**. Photo recovery and research are intentionally tracked as separate gates.
-Last refreshed: 2026-09-27T19:41:39.871Z
+PRP1 closeout remains separate: **742 deep-researched record(s) still lack an exact local photo**. Photo recovery and research are intentionally tracked as separate gates.
+Last refreshed: 2026-09-27T19:59:15.601Z
 
 
 ## Historical checkpoints
