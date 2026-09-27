@@ -4,66 +4,81 @@
 - **Archive parent:** Chaosculpt Bass
 - **Builder:** Audiolithe
 - **Catalog type:** Fuzz
-- **Current production:** Current Audiolithe bass pedal.
-- **Identity:** One parent pedal. No numbered factory revision verified in the sources checked.
+- **Identity:** Bass fuzz using Audiolithe's heavy-fuzz circuit, a frequency-splitting crossover Blend system and active three-band parametric-style EQ with Bite control. [1][2]
 
 ## What this pedal is
-Chaosculpt Bass is a bass fuzz built around Audiolithe's heavy fuzz circuit, a frequency-splitting crossover blend and active three-band parametric-style EQ. The X-FREQ and MIX controls divide the signal so the lows can remain solid while the mids/highs receive heavy saturation, avoiding the muddy or disappearing low end common to full-band bass fuzz. [1][2]
+Chaosculpt Bass is designed specifically to solve the classic bass-fuzz problem of either muddy low end or disappearing fundamentals. Audiolithe uses X-FREQ + MIX crossover filtering so the low band can retain rumble and punch while the upper spectrum is driven into heavy fuzz. [1]
 
-## Colorways
-- Current documented production uses a white/silver enclosure with black octopus artwork.
-- Cosmetic differences are not versions.
+## Controls / architecture
+- **FUZZ**
+- **X-FREQ**
+- **MIX**
+- **VOLUME**
+- **BASS**
+- **FREQ**
+- **MID**
+- **BITE**
+- **TREBLE**
+- Active 3-band EQ.
+- Crossover blend system.
+- True bypass. [1][2]
 
-## Versions and factory modifications
-### Chaosculpt Bass — original/current production
-Controls/features:
-- Fuzz
-- X-Freq
-- Mix
-- Volume
-- Bass
-- Freq
-- Mid
-- Bite
-- Treble
-- active 3-band EQ
-- crossover blend
-- true bypass
-- 9V DC operation
-- internal 18V rail for additional headroom
-- no battery [1][2]
+Audiolithe's published EQ ranges are:
+- **Bass:** ±14dB @ 80Hz
+- **Mid:** ±14dB with selectable center frequencies at 250Hz / 500Hz / 1kHz
+- **Treble:** ±14dB @ 5kHz
+- **Bite:** 0 / +3 / +6dB @ 3kHz. [1]
 
-### Factory modifications
-- No builder-documented factory MOD or numbered revision verified.
+## Circuit architecture
+- Audiolithe signature heavy-fuzz circuit.
+- Frequency-split crossover designed to saturate medium/high frequencies while preserving the low end.
+- Internal **18V rail** for additional headroom while powered from 9V. [1]
 
-## Version changes
-No meaningful production revision was established. The current design is deliberately treated as one parent with its crossover, blend, EQ and Bite functions as the defining architecture. [1]
+## Transistor / active device
+- Exact transistor or op-amp part numbers are not publicly documented.
 
-## Transistor
-- **Type:** Unknown.
-- No exact Chaosculpt Bass transistor technology or part number published.
+## Diode / clipping
+- Exact clipping diode/device arrangement is not publicly documented.
 
-## Diode
-- **Type:** Unknown.
-- No pedal-specific diode information located.
+## Construction / electrical specifications
+Audiolithe currently publishes:
+- **Power:** maximum 9V DC center-negative.
+- **Minimum supply capability:** 130mA.
+- **Nominal current draw:** 80mA.
+- **Input impedance:** 1MΩ.
+- **Output impedance:** 100Ω.
+- **Dimensions:** 126 × 95 × 50mm.
+- **Weight:** 377g.
+- No battery support.
+- Made in France. [1]
+
+The apparent 130mA minimum versus 80mA nominal figure is retained exactly as the manufacturer publishes it rather than normalized away.
+
+## Version history
+- No numbered hardware revision verified.
+- The current Chaosculpt Bass is treated as one parent design with its crossover, blend, EQ and Bite architecture.
 
 ## Sound
-Chaosculpt Bass is a very heavy fuzz that can saturate the mid and high bands aggressively while preserving a deep, punchy bass foundation. The X-FREQ/MIX crossover system is the defining trick: it lets the distorted portion become enormous without making the whole bass signal collapse into mud, and the active EQ can then reshape the result substantially. [1][3]
+Audiolithe describes a very heavy, harmonic-rich fuzz while preserving deep low-end punch. The X-FREQ/MIX split is central: the upper/mid spectrum can become heavily saturated without collapsing the fundamental bass range. [1]
 
 ## Research confidence
 - **Identity:** High
-- **Feature set:** High
-- **Factory-version history:** Moderate to high
-- **Transistor:** Unknown
-- **Diode:** Unknown
-- **Sound:** High
+- **Bass-fuzz role:** High
+- **Crossover X-FREQ/MIX:** High
+- **Active EQ ranges:** High
+- **18V internal rail:** High
+- **Power/current/impedance:** High
+- **Exact active devices:** Unknown
+- **Exact diode:** Unknown
 
-## Photo
-- **Exact pedal photograph:** The Guitar Division photograph of the actual Chaosculpt Bass.
-- **Direct image:** https://theguitardivision.com/photos/products/small/chaosculpt-bass-audiolithe_639120385530942238.jpg
-- **Source page:** https://theguitardivision.com/en/audiolithe/chaosculpt-bass-1437.html
+## Deep research verification
+Audiolithe's current Chaosculpt Bass product page was checked directly and cross-referenced with The Guitar Division listing already retained in the archive. The manufacturer source supplies the current EQ ranges, impedance, power, current and crossover architecture. The archive preserves those published specifications and leaves semiconductor details unresolved. [1][2]
 
 ## Sources checked
-1. Audiolithe — Chaosculpt Bass official page: https://audiolithefx.com/en-us/products/chaosculpt-bass
+1. Audiolithe — Chaosculpt Bass: https://audiolithefx.com/en-us/products/chaosculpt-bass
 2. The Guitar Division — Chaosculpt Bass: https://theguitardivision.com/en/audiolithe/chaosculpt-bass-1437.html
-3. Guitar Part — Chaosculpt Bass test/review: https://guitarpart.fr/articles/audiolithe-chaosculpt-bass-test
+3. Guitar Part — Chaosculpt Bass test: https://guitarpart.fr/articles/audiolithe-chaosculpt-bass-test
+
+## Photo
+- **Exact pedal photograph:** Existing exact-model Guitar Division photograph.
+- **Source page:** https://theguitardivision.com/en/audiolithe/chaosculpt-bass-1437.html
