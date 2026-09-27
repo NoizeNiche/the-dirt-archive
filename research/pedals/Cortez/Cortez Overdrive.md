@@ -46,3 +46,15 @@ The surviving one-knob configuration is documented as a simple, direct analog ov
 1. Effects Database - Bias Over Drive / Cortez relationship
 2. Reverb - Cortez Overdrive one-knob version
 3. eBay - Cortez Overdrive
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Cortez's Cortez Overdrive is cataloged as an overdrive pedal.
+
+### Sources checked in this pass
+1. catalog/override source: https://reverb.com/ca/item/62401199-cortez-overdrive-rare-1-knob-version-1980s-japan-fast-shipping
+2. Cortez Overdrive (1 knob) - Effects Database: https://www.effectsdatabase.com/model/cortez/overdrive
+3. Cortez Overdrive (one knob) • FXDB, Gearphoria and I Heart Guitar Forums: https://forum.effectsdatabase.com/viewtopic.php?f=6&t=716

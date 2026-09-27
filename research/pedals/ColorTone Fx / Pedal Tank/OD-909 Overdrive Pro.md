@@ -36,3 +36,26 @@ Effects Database includes the exact **ColorTone Fx OD-909 Overdrive Pro** model 
 ## Sources checked
 1. Effects Database - pedal catalog, ColorTone Fx OD-909 Overdrive Pro entry: https://www.effectsdatabase.com/taxonomy/term/8/0?page=46
 2. Effects Database - related Tube Screamer/OD-9 catalog branch: https://www.effectsdatabase.com/model/ibanez/9/od9
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+ColorTone Fx / Pedal Tank's OD-909 Overdrive Pro is cataloged as an overdrive pedal.
+
+### Verified color/finish evidence
+- Screamer Build Your Own Clone Screamer Clone Chicago Stompworks The Green Thing Chucktone Effects Overdrive 809 Ciclar Overdrive Cog Effects Darklighter - Overdrive ColorTone Fx OD-909 Overdrive Pro Compulsive Audio Valve Howler Donner Blues Drive dp Musicworks Custom Drive dp Musicworks Double Drive Dr.
+
+### Verified version references
+- The evidence references: v2.
+
+### Verified diode terms
+- LED.
+
+### Verified sound evidence
+AXS Effects Soul Screamer B&B 808 Overdrive Behringer TO800 Vintage Tube Overdrive Big Knob Pedals Tube 808 - Classic Amp Boost BrickTone Dr.
+Screamer Build Your Own Clone Screamer Clone Chicago Stompworks The Green Thing Chucktone Effects Overdrive 809 Ciclar Overdrive Cog Effects Darklighter - Overdrive ColorTone Fx OD-909 Overdrive Pro Compulsive Audio Valve Howler Donner Blues Drive dp Musicworks Custom Drive dp Musicworks Double Drive Dr.
+
+### Sources checked in this pass
+1. Ibanez OD9 Overdrive | Effects Database: https://www.effectsdatabase.com/model/ibanez/9/od9

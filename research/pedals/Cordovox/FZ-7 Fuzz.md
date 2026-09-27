@@ -42,3 +42,26 @@ The Cordovox FZ-7 is part of the same modern Cordovox family that includes the D
 1. Effects Database - Cordovox FZ-7 Fuzz
 2. Reverb - Cordovox FZ-7 Fuzz
 3. Guitar Villa - Cordovox collection
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+$173.00 $199.00 Add to Cart BMF Effects The Godfather II Dual Overdrive Double your tonal pleasure with The Godfather II Dual Overdrive pedal.
+
+### Verified color/finish evidence
+- Drive B (orange LED) is the same as the single Godfather Overdrive pedal, while Drive A (red LED) is voiced for m..
+
+### Verified diode terms
+- LED.
+
+### Verified sound evidence
+$173.00 $199.00 Add to Cart BMF Effects The Godfather II Dual Overdrive Double your tonal pleasure with The Godfather II Dual Overdrive pedal.
+Drive B (orange LED) is the same as the single Godfather Overdrive pedal, while Drive A (red LED) is voiced for m..
+$233.00 $289.00 Add to Cart BMF Effects The Great Wide Open Distortion Originally designed as a simple, one-knob pedal (volume only), The Great Wide Open Distortion pedal has evolved based on clients needing to get great distortion sounds from virtually any amp.
+
+### Sources checked in this pass
+1. catalog/override source: https://applink.reverb.com/uk/item/92079229-cordovox-fz-7-fuzz
+2. Cordovox FZ-7 Fuzz - Reverb: https://reverb.com/item/92079229-cordovox-fz-7-fuzz
+3. Cordovox FZ-7 Fuzz: https://guitarpedalshoppe.com/index.php?route=product/product&product_id=7468

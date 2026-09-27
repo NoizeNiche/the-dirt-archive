@@ -16,3 +16,18 @@
 - **Photo status:** Exact-model source imagery located; no local image promoted in this batch.
 - **Research confidence:** High for the Carmilla/Sandstorm same-circuit statement; medium for the Crunch Box attribution because that step relies on secondary comparison; low for internal components.
 - **Sources checked:** https://www.youtube.com/watch?v=GDEoP2Lsjac ; https://guitarpickzone.com/caline-pedals-clone-list/ ; https://www.ebay.com/itm/185600610311
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+This "Hi Gain Distortion Machine" is a great-looking and incredibly responsive distortion pedal.
+
+### Verified sound evidence
+Caline CP-515 Carmilla - Hi Gain Distortion Machine
+This "Hi Gain Distortion Machine" is a great-looking and incredibly responsive distortion pedal.
+Using the Presence and Distortion control it's possible to go from a light boost, through to a classic rock crunch.
+
+### Sources checked in this pass
+1. Caline CP-515 Carmilla - Hi Gain Distortion Machine | Effects Database: https://www.effectsdatabase.com/model/caline/cp500/carmilla

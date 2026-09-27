@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-27T10:44:20.716681+00:00",
+  "generated_at": "2026-09-27T10:47:31.576964+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,8 +10,8 @@
     "pictured": 3133,
     "complete": 3133,
     "research_pending": 0,
-    "deep_research_pending": 1236,
-    "deep_researched": 3006,
+    "deep_research_pending": 1219,
+    "deep_researched": 3023,
     "surface_ready": 4242
   },
   "next_target": {
@@ -184,17 +184,17 @@
       "research_level": "surface"
     },
     {
-      "builder": "Caline",
-      "pedal": "CP-25 Highway Man OD",
+      "builder": "Cameltone Electronics",
+      "pedal": "Freak Scene",
       "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 140/cp-25-highway-man-od.md",
+      "research_record": "./research/pedals/PRP Batch 147/cameltone-freak-scene.md",
       "research_level": "surface"
     },
     {
-      "builder": "Caline",
-      "pedal": "CP-515 Carmilla - Hi Gain Distortion Machine",
+      "builder": "Camuro",
+      "pedal": "Baci Overdrive/Distortion",
       "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 142/cp-515-carmilla-hi-gain-distortion-machine.md",
+      "research_record": "./research/pedals/PRP Batch 147/camuro-baci-overdrive-distortion.md",
       "research_level": "surface"
     }
   ]

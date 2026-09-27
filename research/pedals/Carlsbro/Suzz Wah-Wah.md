@@ -1,22 +1,36 @@
-# Carlsbro - Suzz Wah-Wah
+# Carlsbro — Suzz Wah-Wah
 
 ## PRP identity
-- Builder: Carlsbro
-- Catalog type: Fuzz / Distortion
-- Identity: Carlsbro Suzz Wah-Wah, historical hybrid Suzz and wah pedal.
+- **Archive parent:** Suzz Wah-Wah
+- **Builder:** Carlsbro
+- **Catalog type:** Fuzz
+- **Identity:** Carlsbro's Suzz Wah-Wah.
 
 ## What this pedal is
-Suzz Wah-Wah is listed as an individual model in Carlsbro's 1977 Effects Series, combining the company's Suzz dirt circuit with wah functionality.
+Carlsbro's Suzz Wah-Wah is cataloged as a fuzz pedal.
 
-## Controls / circuit
-Exact control layout and internal topology are deferred to exact-model documentation.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
 
-## History
-The model is preserved in Carlsbro's historical Alu series catalog and is therefore retained as a genuine product identity rather than merged into the separate Suzz pedal.
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+The series covers a wide spectrum of effects: Distortion and Dynamics : Suzz , Sustain Modulation : Phase 1 , Phase 2 , Chorus , Flanger Time-Based Effects : Echo , A.D.T.
 
 ## Sources checked
-1. Effects Database Carlsbro Alu series: https://www.effectsdatabase.com/model/carlsbro/alu
-2. Effects Database Carlsbro catalog: https://www.effectsdatabase.com/model/carlsbro
+1. Carlsbro &quot;Alu&quot; series | Effects Database: https://www.effectsdatabase.com/model/carlsbro/alu
 
 ## Photo
-- Exact photo pending.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

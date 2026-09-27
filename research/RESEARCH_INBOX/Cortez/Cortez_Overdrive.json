@@ -1,0 +1,33 @@
+{
+  "builder": "Cortez",
+  "pedal": "Cortez Overdrive",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 3,
+  "sources": [
+    {
+      "url": "https://reverb.com/ca/item/62401199-cortez-overdrive-rare-1-knob-version-1980s-japan-fast-shipping",
+      "title": "catalog/override source",
+      "h1": "",
+      "excerpt": "",
+      "host": "reverb.com",
+      "source_kind": "reverb"
+    },
+    {
+      "url": "https://www.effectsdatabase.com/model/cortez/overdrive",
+      "title": "Cortez Overdrive (1 knob) - Effects Database",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.effectsdatabase.com",
+      "source_kind": "effects_database"
+    },
+    {
+      "url": "https://forum.effectsdatabase.com/viewtopic.php?f=6&t=716",
+      "title": "Cortez Overdrive (one knob) \u2022 FXDB, Gearphoria and I Heart Guitar Forums",
+      "h1": "",
+      "excerpt": "",
+      "host": "forum.effectsdatabase.com",
+      "source_kind": "effects_database"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}

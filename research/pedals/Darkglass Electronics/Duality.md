@@ -1,23 +1,38 @@
 # Darkglass Electronics — Duality
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Duality
 - **Builder:** Darkglass Electronics
-- **Pedal:** Duality
 - **Catalog type:** Fuzz
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Darkglass Electronics's Duality.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Duality** by **Darkglass Electronics** as a **Fuzz** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Duality 13:26 2022-11-29 Patrick Hunter THE DUALITY FUZZ IS BACK!
 
-## Catalog source
-- Catalog source page on file: https://www.effectsdatabase.com/model/darkglass/duality
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+Darkglass Electronics Duality - Dual Fuzz Engine
+Our signature Duality knob allows selecting and blending between a classic sounding, saw-tooth shape shifting circuit and a high gain, thick and brutal one.
+not by manufacturer Date ▼▲ Maker ▼▲ Video ▼▲ Time ▼▲ 2023-07-13 KytaryCZ HRR: Darkglass Duality Fuzz 5:58 2022-11-29 Bassic Gear Review Darkglass DFZ vs.
+
+## Sources checked
+1. Darkglass Electronics Duality - Dual Fuzz Engine | Effects Database: https://www.effectsdatabase.com/model/darkglass/duality
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

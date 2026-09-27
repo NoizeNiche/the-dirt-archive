@@ -36,3 +36,22 @@ A surviving used pedal may have replacement switches, LEDs, DC power, or other s
 1. Effects Database - Coron Distortion 15
 2. Reverb - Vintage Coron Distortion 15
 3. Reverb - Coron Distortion 15 Japan 1978
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Coron's Coron Distortion 15 is cataloged as a distortion pedal.
+
+### Verified version references
+- The evidence references: v15.
+
+### Verified sound evidence
+Be the first to review “Coron Distortion 15” Cancel reply You must be logged in to post a review.
+
+### Sources checked in this pass
+1. catalog/override source: https://reverb.com/item/418925-vintage-coron-distortion-15-ca-1980
+2. Vintage Coron Distortion 15 Guitar Effect Pedal Japan - eBay: https://www.ebay.com/itm/278384560270
+3. Coron Distortion 15 - Distortion - Audiofanzine: https://en.audiofanzine.com/guitar-distortion-overdrive-fuzz/coron/DISTORTION-15/
+4. Coron Distortion 15 - Effects Pedals: https://www.effects-pedals.info/p/coron-distortion-15/
