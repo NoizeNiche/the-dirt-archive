@@ -33592,7 +33592,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/earthquaker-devices/spires/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/EarthQuaker Devices/Spires.md",
       "research_level": "surface",
@@ -33728,7 +33728,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/earthquaker-devices/terminal-destructive-fuzz-device/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/EarthQuaker Devices/Terminal — Destructive Fuzz Device.md",
       "research_level": "surface",
@@ -42698,7 +42698,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/maxon/fuzz-elements-wind-fw10/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Maxon/Fuzz Elements Wind (FW10).md",
       "research_level": "surface",
@@ -43679,7 +43679,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/menatone/fish-factory/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Menatone/Fish Factory.md",
       "research_level": "surface",
@@ -45343,7 +45343,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/mr-black/snake-drive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mr. Black/Snake Drive.md",
       "research_level": "surface",
@@ -45442,7 +45442,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/mxr/bass-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/MXR/Bass Overdrive.md",
       "research_level": "surface",
@@ -45538,7 +45538,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/mxr/distortion-iii/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/MXR/Distortion III.md",
       "research_level": "surface",
@@ -46144,7 +46144,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/mythos-pedals/ge-mjolnir/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mythos Pedals/GE Mjolnir.md",
       "research_level": "surface",
@@ -46387,7 +46387,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/nux-audio-nux/drive-core-deluxe-mkii/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/NUX Audio / NUX/Drive Core Deluxe MKII.md",
       "research_level": "surface",
@@ -47100,7 +47100,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/origin-effects/m-eq-driver/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Origin Effects/M-EQ Driver.md",
       "research_level": "deep",
@@ -47112,7 +47112,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/origin-effects/magma57-amp-vibrato-drive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Origin Effects/MAGMA57 Amp Vibrato & Drive.md",
       "research_level": "deep",
@@ -47149,7 +47149,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/origin-effects/revivaldrive-compact-amp-recreation-overdrive-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Origin Effects/RevivalDRIVE Compact — amp-recreation overdrive / distortion.md",
       "research_level": "surface",
@@ -47221,7 +47221,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/outlaw-effects/five-o-clock-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Outlaw Effects/Five O'Clock Fuzz.md",
       "research_level": "deep",
@@ -47233,7 +47233,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/outlaw-effects/lock-stock-barrel-3-mode-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Outlaw Effects/Lock Stock & Barrel 3-Mode Distortion.md",
       "research_level": "deep",
@@ -47245,7 +47245,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/outlaw-effects/the-general-germanium-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Outlaw Effects/The General Germanium Fuzz.md",
       "research_level": "deep",
@@ -47282,7 +47282,7 @@
         "Distortion",
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/ovaltone/ectoplasm-fuzz-mk-i/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Ovaltone/ECTOPLASM FUZZ MK I.md",
       "research_level": "deep",
@@ -47294,7 +47294,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/ovaltone/fat-plexi/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Ovaltone/FAT PLEXI.md",
       "research_level": "deep",
@@ -47306,7 +47306,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/ovaltone/fountain-2025-ver/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Ovaltone/FOUNTAIN (2025 ver.).md",
       "research_level": "surface",
@@ -47318,7 +47318,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/ovaltone/fountain-hs-model/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Ovaltone/FOUNTAIN HS-model.md",
       "research_level": "deep",
@@ -47330,7 +47330,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/ovaltone/gd-xiii/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Ovaltone/GD-XIII.md",
       "research_level": "deep",
@@ -47527,7 +47527,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/pettyjohn-electronics/chime3/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Pettyjohn Electronics/CHIME3.md",
       "research_level": "surface",
@@ -47563,7 +47563,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/pettyjohn-electronics/gold3/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Pettyjohn Electronics/GOLD3.md",
       "research_level": "surface",
@@ -47575,7 +47575,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/pettyjohn-electronics/iron-mkii/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Pettyjohn Electronics/IRON MKII.md",
       "research_level": "deep",
