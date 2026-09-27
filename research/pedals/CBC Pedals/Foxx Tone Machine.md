@@ -4,40 +4,48 @@
 - **Archive parent:** Foxx Tone Machine
 - **Builder:** CBC Pedals
 - **Catalog type:** Fuzz
-- **Identity:** CBC Pedals reproduction of the vintage fOXX Tone Machine octave-fuzz design.
+- **Identity:** CBC Pedals reproduction of the vintage fOXX Tone Machine octave fuzz. [1][2]
 
 ## What this pedal is
-CBC Pedals is documented as reproducing the Foxx Tone Machine among its vintage-effect recreations. The original fOXX Tone Machine was introduced in 1971 and combines high-gain fuzz with a switchable upper-octave effect. [1][2]
+Equipboard documents CBC Pedals as a handwired builder of vintage/out-of-production circuit recreations and specifically lists the Foxx Tone Machine among the circuits it has reproduced. The historical fOXX Tone Machine dates to **1971** and combines high-gain fuzz with a switchable upper-octave effect. [1][2]
 
-## Colorways
-- No CBC-specific production colorway record was established in the reliable sources checked.
-- Finish differences are treated as cosmetic unless hardware or model-generation evidence shows otherwise.
+## Circuit lineage
+- **Primary reference:** fOXX Tone Machine.
+- The archive treats this as the CBC builder identity and historical circuit lineage, not as proof of every original component being present in the CBC build.
 
-## Versions and factory options
-### CBC Pedals Foxx Tone Machine
-- CBC-specific production dates, enclosure revisions, and control-layout revisions were not reliably established in the sources checked.
-- The archive treats the CBC item as a builder-specific reproduction of the Foxx design, not as an OEM fOXX production state.
-
-### Factory options
-- No named CBC factory modification was established in the sources checked.
-
-## Version changes
-No separately named CBC production V2 or other public hardware generation was established in the sources checked.
+## Controls / construction
+- CBC-specific control labels and enclosure revisions are not reliably preserved in the reviewed sources.
+- The archive does not reconstruct the original's complete component-level design without CBC-specific evidence.
 
 ## Transistor
-- **CBC-specific transistor type:** Not established in reliable sources checked.
-- The original fOXX Tone Machine is documented as a silicon-transistor design, but that historical detail is not automatically assigned to CBC's particular build without direct builder evidence. [2]
+- Historical fOXX construction is associated with silicon transistor fuzz.
+- **CBC-specific transistor part number:** Unknown. [2]
 
-## Diode
-- **CBC-specific diode type:** Not established in reliable sources checked.
+## Diode / clipping
+- **CBC-specific diode type:** Unknown.
+
+## Power
+- CBC-specific voltage/current data are not established in the reviewed sources.
+
+## Version history
+- No named CBC electrical revision established.
+- Cosmetic differences are not treated as versions without evidence.
 
 ## Sound
-The Foxx Tone Machine family combines thick, saturated fuzz with a switchable upper-octave voice. With the octave engaged, single-note lines become strongly harmonic and aggressive; without it, the pedal remains a dense sustained fuzz. These are the historical design characteristics used to identify CBC's reproduction. [2]
+The historical Tone Machine combines thick, saturated fuzz with a switchable upper octave. That historical response is the main sonic reference for the CBC reproduction. [2]
+
+## Research confidence
+- **CBC identity:** High
+- **Foxx lineage:** High
+- **1971 historical reference:** High
+- **CBC component/power specifics:** Unknown
+
+## Deep research verification
+Equipboard's CBC profile specifically lists Foxx Tone Machine among CBC's reproduced circuits. Effects Database provides the historical model identity and confirms the octave-fuzz character. The archive deliberately keeps original Foxx component information separate from CBC-specific facts. [1][2]
 
 ## Sources checked
 1. Equipboard — CBC Pedals: https://equipboard.com/brands/cbc-pedals
 2. Effects Database — fOXX Tone Machine: https://www.effectsdatabase.com/model/foxx/tonemachine
 
-## Research notes
-- CBC's reproduction status is supported at the builder-lineup level.
-- Original fOXX construction details are kept as historical context, not asserted as undocumented CBC-specific internals.
+## Photo
+- **Archive status:** No exact local photo verified.
