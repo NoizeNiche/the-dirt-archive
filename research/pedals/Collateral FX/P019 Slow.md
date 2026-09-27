@@ -37,3 +37,25 @@ The internal switch banks significantly reshape frequency balance and compressio
 
 ## Sources checked
 1. Collateral FX - P019 Slow: https://collateralfx.com/en/pedals/p019-slow/
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Collateral FX's P019 Slow Distortion/Fuzz is cataloged as a distortion / fuzz pedal.
+
+### Verified color/finish evidence
+- The obvious reference to Black Sabbath (in the Volume control) and Stoner Rock already indicates: the SLOW is a serious pedal when it comes to gain and bass.
+- No complete factory colorway sequence was established.
+
+### Verified version references
+- The evidence references: revision.
+
+### Verified sound evidence
+Recommended for – G uitarrists or bassists who seek for sustain and definition and a tone full of personality, but with tonal possibilities that go beyond a traditional Big Muff.
+The possibility of absurd levels of gain, “wall of sound” style, but without losing definition or making your instrument disappear in the mix?
+The SLOW was developed to meet the needs of guitarists and bassists who love the classic sound of Big Muffs but seek versatility and the practicality of having a low-end cut—to make the sound tighter or boost the mids without the need to add another overdrive or equalizer to the equation.
+
+### Sources checked in this pass
+1. P019 – Slow – Collateral FX: https://collateralfx.com/en/pedals/p019-slow/

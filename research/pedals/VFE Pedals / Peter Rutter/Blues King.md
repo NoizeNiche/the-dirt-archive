@@ -1,23 +1,36 @@
 # VFE Pedals / Peter Rutter — Blues King
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Blues King
 - **Builder:** VFE Pedals / Peter Rutter
-- **Pedal:** Blues King
 - **Catalog type:** Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** VFE Pedals / Peter Rutter's Blues King.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Blues King** by **VFE Pedals / Peter Rutter** as a **Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+VFE Pedals / Peter Rutter's Blues King is cataloged as an overdrive pedal.
 
-## Catalog source
-- Catalog source page on file: https://vfepedals.com/
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+The Dirt Archive currently catalogs **Blues King** by **VFE Pedals / Peter Rutter** as a **Overdrive** pedal.
+
+## Sources checked
+1. VFE Pedals | Boutique Guitar Pedals & DIY Pedals: https://www.vfepedals.com/
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

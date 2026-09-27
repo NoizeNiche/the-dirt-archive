@@ -39,3 +39,24 @@ Effects Database lists Texas Holdem ZZ among Compulsive Audio's original catalog
 ## Sources checked
 1. Effects Database - Compulsive Audio: John De Luca interview: https://www.effectsdatabase.com/interviews/brands/compulsive
 2. Effects Database - Compulsive Audio weekly catalog introduction: https://www.effectsdatabase.com/blog/discofreq?page=104
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Compulsive Audio's Texas Holdem ZZ is cataloged as an overdrive pedal.
+
+### Verified color/finish evidence
+- No reliable production colorway history was established.
+
+### Verified version references
+- The evidence references: revision.
+
+### Verified sound evidence
+My inspiration mainly comes from requests that friends of mine have made regarding the type of tone they are looking for.
+He described it as a versatile overdrive that works with both Telecaster and Les Paul setups and covers sounds from Texas blues through classic rock.
+The builder specifically described Texas Holdem ZZ as a versatile overdrive covering Texas blues through classic rock and working across both bright/single-coil and humbucker-driven setups.
+
+### Sources checked in this pass
+1. [interview] Compulsive Audio: John De Luca | Effects Database: https://www.effectsdatabase.com/interviews/brands/compulsive

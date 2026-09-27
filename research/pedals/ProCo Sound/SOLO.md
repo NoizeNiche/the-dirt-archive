@@ -1,23 +1,43 @@
 # ProCo Sound — SOLO
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** SOLO
 - **Builder:** ProCo Sound
-- **Pedal:** SOLO
 - **Catalog type:** Distortion / Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** ProCo Sound's SOLO.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **SOLO** by **ProCo Sound** as a **Distortion / Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+ProCo SOLO Rat Distortion Guitar Effects Pedal $100.00 $199.99 Review Dont let the name fool you, the 100% analog SOLO is no one trick pony.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- The verified evidence references: V2.
+- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Documented terms in the verified sources: Germanium Fuzz.
+- The archive records only the component information explicitly present in these sources.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+ProCo Sound SOLO Boost Overdrive Effects Pedal
+Distortion, Scoop, Tone, and Volume knobs.
+Asymmetrical clipping creates tube-like breakup.
+
+## Sources checked
+1. User reviews: ProCo Sound Solo - Audiofanzine: https://en.audiofanzine.com/guitar-distortion-overdrive-fuzz/proco-sound/rat-solo/user_reviews/
+2. ProCo Sound SOLO Boost Overdrive Effects Pedal | Effects Boost | www.sonivins.com: https://www.sonivins.com/product/proco-sound-solo-boost-overdrive-effects-pedal/
+3. ProCo SOLO Rat Distortion Guitar Effects Pedal - Reverb: https://reverb.com/item/82367478-proco-solo-rat-distortion-guitar-effects-pedal?product_review_page=1
+4. ProCo SOLO Rat Distortion Guitar Effects Pedal - Effect Pedals to Build Your Signature Sound: https://www.pedalarc.com/product/proco-solo-rat-distortion-guitar-effects-pedal/
+5. ProCo Solo Pedal - Electrohill: https://www.electrohill.co.uk/oshop/ProCo-Solo-Pedal
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

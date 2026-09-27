@@ -43,3 +43,28 @@ Effects Database maintains the exact Columbus MTL-5 model as part of the OEM fam
 
 ## Sources checked
 1. Effects Database - Cutec MTL-5 Ultra Metal and related Columbus MTL-5 family: https://www.effectsdatabase.com/model/cutec/5/mtl5
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Columbus's MTL-5 Ultra Metal is cataloged as a distortion pedal.
+
+### Verified color/finish evidence
+- Columbus-specific finish differences are retained as cosmetic states unless hardware evidence shows otherwise.
+- The shared MTL-5 design uses a molded plastic enclosure with a metal baseplate, large treadle-style footswitch, red LED, and rear battery access.
+
+### Verified version references
+- The evidence references: revision.
+
+### Verified diode terms
+- LED.
+
+### Verified sound evidence
+Built in the recognizable molded plastic enclosure with a metal baseplate and sliding battery door, it was engineered to deliver heavy, sustained distortion tones suited for high-output guitar styles.
+The circuit design emphasizes thick, saturated gain with long sustain and responsive dynamics, offering tonal flexibility through a dual-band equalizer that shapes both low and high frequencies independently.
+The pedal's control layout includes Distortion and Level knobs for gain and output adjustment, along with separate Hi and Lo controls that allow precise sculpting of the overall tonal balance.
+
+### Sources checked in this pass
+1. Cutec MTL-5 Ultra Metal | Effects Database: https://www.effectsdatabase.com/model/cutec/5/mtl5

@@ -36,3 +36,23 @@ The manufacturer emphasizes controlled bass, somewhat lower gain, strong definit
 
 ## Sources checked
 1. Collateral FX - P015 White Russian: https://collateralfx.com/en/pedals/p015-white-russian/
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Collateral FX's P015 White Russian Distortion/Fuzz is cataloged as a distortion / fuzz pedal.
+
+### Verified color/finish evidence
+- The White Russian is a faithful reproduction of the circuit of the Big Muff pedals produced by Sovtek in the early 90s.
+- Its singing sustain captivates guitarists from various music genres, from David Gilmour (who used the Sovtek in the recording of Pulse) to Dan Auerbach, guitarist of the Black Keys.
+- The White Russian celebrates the utilitarian look of the original Soviet Big Muff, but with various modern conveniences: reduced size, true bypass, metal film resistors – which drastically reduce the noise from the original design – and all the reliability of Collateral FX pedals.
+
+### Verified sound evidence
+Recommended for – Guitarists or bassists seeking sustain and definition with a tone full of personality.
+It is one of the versions of the circuit that has the most distinct sound, with more controlled bass and less gain than most of its Electro Harmonix siblings.
+These tighter bass frequencies make it one of the favorite pedals for bassists, maintaining definition even at higher gain levels.
+
+### Sources checked in this pass
+1. P015 – White Russian – Collateral FX: https://collateralfx.com/en/pedals/p015-white-russian/

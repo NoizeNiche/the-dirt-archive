@@ -43,3 +43,28 @@ Reverb hosts an exact-model 2024 Comodoro Percolator Fuzz listing with multiple 
 
 ## Sources checked
 1. Reverb - Comodoro Percolator Fuzz 2024: https://reverb.com/item/79839933-comodoro-percolator-fuzz-2024
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Comodoro Pedales's Percolator Fuzz is cataloged as a fuzz pedal.
+
+### Verified color/finish evidence
+- Current examples and marketplace listings show cosmetic finish variations.
+- These are treated as finish states unless a circuit change is documented.
+
+### Verified version references
+- The evidence references: revision.
+
+### Verified transistor/device terms
+- 2N404A, germanium transistor.
+
+### Verified sound evidence
+**Builder:** Comodoro Pedales - **Catalog identity:** Percolator Fuzz - **Catalog type:** Fuzz / Overdrive - **Identity:** Spanish Harmonic Percolator interpretation using the original-style 2N404A germanium transistor reference with modified voicing.
+Comodoro describes Percolator Fuzz as its version of the Interfax Harmonic Percolator from the 1970s.
+The design retains the simple two-control concept while modifying the circuit to make the response more versatile, spanning vintage overdrive through dirty but defined distortion with strong harmonic content.
+
+### Sources checked in this pass
+1. catalog/override source: https://reverb.com/item/79839933-comodoro-percolator-fuzz-2024

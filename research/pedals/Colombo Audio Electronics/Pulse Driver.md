@@ -50,3 +50,25 @@ The Colombo pedal catalog and exact-model Reverb listing provide model-specific 
 2. Reverb - Colombo Audio Electronics Pulse Driver: https://reverb.com/item/56224798-colombo-audio-electronics-pulse-driver
 3. Colombo Audio Electronics - Custom Pedals / workshop: https://colomboaudioelectronics.it/pedali-custom/
 4. Reverb - Pulse Driver Pedal: https://reverb.com/en-nl/item/94196391-pulse-driver-pedal-colombo-s-tube-driver
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Pulse Driver is Colombo's no-tube interpretation of the Tube Driver family.
+
+### Verified color/finish evidence
+- Surviving Pulse Driver marketplace examples show more than one cosmetic state; those are treated as finish/customization evidence unless hardware changes are documented.
+
+### Verified version references
+- The evidence references: V1, V2, revision.
+
+### Verified sound evidence
+**Builder:** Colombo Audio Electronics - **Catalog identity:** Pulse Driver - **Catalog type:** Overdrive / EQ / Booster - **Identity:** Fully analog, solid-state interpretation of the Chandler/B.K.
+Butler Tube Driver and intended to preserve its characteristic response while addressing perceived limitations of the original design.
+The documented front panel has four controls and a central three-way selector: - **Drive** - **EQ** - **Volume** - **additional level/shape control** - a 3-position supply/operating selector marked **12V**, **12-?V** on surviving imagery and documentation.
+
+### Sources checked in this pass
+1. catalog/override source: https://reverb.com/item/56224798-colombo-audio-electronics-pulse-driver
+2. Pedals - Colombo Audio Electronics: https://colomboaudioelectronics.it/pedals/?lang=en

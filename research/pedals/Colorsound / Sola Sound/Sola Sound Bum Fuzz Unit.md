@@ -39,3 +39,25 @@ A model-specific historical source was not strong enough to accept a generic Ton
 ## Sources checked
 1. David Morrin - Sola Sound Tone Bender history: https://sites.google.com/site/davidmorrinoldsite/home/trouble/troubleeffects/sola-sound-tone-bender
 2. GuitarPlayer - The Sola Sound Tone Bender and Early Evolution of the Fuzz Pedal: https://www.guitarplayer.com/gear/the-sola-sound-tone-bender-and-the-early-evolution-of-the-fuzz-pedal
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+The Sola Sound Tone Bender and the Early Evolution of the Fuzz Pedal
+
+### Verified version references
+- The evidence references: V2, revision.
+
+### Verified diode terms
+- LEDs.
+
+### Verified sound evidence
+The Sola Sound Tone Bender and the Early Evolution of the Fuzz Pedal
+The Bum Fuzz Unit is a Sola Sound-labeled historical fuzz distinct from the later private-label Jumbo family records in the archive.
+Available historical material places it within the evolution of Sola Sound's Tone Bender-era fuzz products, but the surviving web evidence is not sufficient to assign one universal circuit topology to every Bum Fuzz Unit specimen.
+
+### Sources checked in this pass
+1. The Sola Sound Tone Bender and the Early Evolution of the Fuzz Pedal | GuitarPlayer: https://www.guitarplayer.com/gear/the-sola-sound-tone-bender-and-the-early-evolution-of-the-fuzz-pedal
+2. David Morrin - Sola Sound Tone Bender: https://sites.google.com/site/davidmorrinoldsite/home/trouble/troubleeffects/sola-sound-tone-bender

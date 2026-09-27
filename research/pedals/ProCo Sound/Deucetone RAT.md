@@ -1,23 +1,41 @@
 # ProCo Sound — Deucetone RAT
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Deucetone RAT
 - **Builder:** ProCo Sound
-- **Pedal:** Deucetone RAT
 - **Catalog type:** Distortion / Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** ProCo Sound's Deucetone RAT.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Deucetone RAT** by **ProCo Sound** as a **Distortion / Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+The Clean RAT is a clean boost, a tone only available in the Deucetone RAT.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+ProCo DeuceTone Rat Distortion Guitar Effects Pedal Store Hours: M-F: 10-6; Sat: 10-5; Sunday: 12-4 Cart 0
+Consisting of two independent RAT units, each Deucetone channel can be used separately, in stereo, or cascaded together for the most insane distortion on earth.
+The Clean RAT is a clean boost, a tone only available in the Deucetone RAT.
+
+## Sources checked
+1. User reviews: ProCo Sound DeuceTone Rat - Audiofanzine: https://en.audiofanzine.com/other-guitar-saturation-effect/proco-sound/deucetone-rat/user_reviews/
+2. ProCo DeuceTone Rat Distortion Guitar Effects Pedal - Reverb: https://reverb.com/item/82366128-proco-deucetone-rat-distortion-guitar-effects-pedal
+3. ProCo DeuceTone Rat Distortion Guitar Effects Pedal: https://dr-guitar-music.myshopify.com/products/proco-deucetone-rat-distortion-guitar-effects-pedal
+4. Pro Co Deucetone Rat Distortion Guitar Effect Pedal for sale online | eBay: https://www.ebay.com/p/78721879
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

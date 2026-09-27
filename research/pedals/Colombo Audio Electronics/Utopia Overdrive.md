@@ -53,3 +53,21 @@ The Colombo catalog and manufacturer demonstrations provide exact-model photo tr
 1. Mike Hermans - Colombo UTOPIA OVERDRIVE: https://www.youtube.com/watch?v=3IMifwuLTl0
 2. Brett Kingman - Colombo Audio Electronics: UTOPIA Overdrive. Three classic voices: https://www.youtube.com/watch?v=TfjmU087_Dw
 3. Colombo Audio Electronics - Custom Pedals: https://colomboaudioelectronics.it/pedali-custom/
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Colombo Audio Electronics's Utopia Overdrive is cataloged as a distortion / overdrive pedal.
+
+### Verified version references
+- The evidence references: V1, V2, revision.
+
+### Verified sound evidence
+Utopia is a handmade Italian overdrive with three operating voices selected by a three-position switch.
+**Ultra:** internally reconfigures the second gain stage to emulate the response of an overdrive driving an already distorted amplifier.
+Mike Hermans - Colombo UTOPIA OVERDRIVE: https://www.youtube.com/watch?v=3IMifwuLTl0 2.
+
+### Sources checked in this pass
+1. Pedali Custom - Colombo Audio Electronics: https://colomboaudioelectronics.it/pedali-custom/

@@ -49,3 +49,27 @@ The manufacturer provides model-specific Lead Trilogy material, while Reverb doc
 2. Brett Kingman - Colombo Audio Electronics: Lead Trilogy - 800 | 900 | Jubilee: https://www.youtube.com/watch?v=ZB2zAp5qe-s
 3. Colombo Audio Electronics - Pedals / construction and catalog: https://colomboaudioelectronics.it/pedals/?lang=en
 4. Reverb - Colombo Audio Electronics Lead Trilogy: https://reverb.com/item/41845918-colombo-audio-electronics-lead-trilogy-jcm800-jcm900-silver-jubilee
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Lead Trilogy is a three-voice distortion pedal built to condense the characters of three Marshall amplifier references into a compact pedal.
+
+### Verified color/finish evidence
+- Colombo's pedal line is customizable in graphics and finish.
+- Finish differences are not treated as separate model revisions without supporting hardware evidence.
+
+### Verified version references
+- The evidence references: revision.
+
+### Verified sound evidence
+**Builder:** Colombo Audio Electronics - **Catalog identity:** Lead Trilogy - **Catalog type:** Distortion - **Identity:** Fully analog British-voiced distortion covering three Marshall high-gain reference voices from the 1980s and 1990s.
+Lead Trilogy is a three-voice distortion pedal built to condense the characters of three Marshall amplifier references into a compact pedal.
+Controls: - **Gain** - **Tone** - **Volume** The three-way voice section covers: - **800:** mid-rich, direct JCM800-oriented response.
+
+### Sources checked in this pass
+1. catalog/override source: https://reverb.com/item/41845918-colombo-audio-electronics-lead-trilogy-jcm800-jcm900-silver-jubilee
+2. Pedals - Colombo Audio Electronics: https://colomboaudioelectronics.it/pedals/?lang=en
+3. Colombo Audio Electronics - Lead Trilogy: https://www.youtube.com/watch?v=ZB2zAp5qe-s

@@ -35,3 +35,24 @@ The single control moves from a moderate boost through aggressive fuzz. Lower gu
 
 ## Sources checked
 1. Collateral FX - P008 Golden Ratio: https://collateralfx.com/en/pedals/p008-golden-ratio/
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Collateral FX's P008 Golden Ratio Fuzz is cataloged as a fuzz pedal.
+
+### Verified color/finish evidence
+- No complete factory colorway sequence was established.
+
+### Verified version references
+- The evidence references: revision.
+
+### Verified sound evidence
+Recommended for – Those seeking a plug n’ play fuzz!
+A fuzz, a drive, a booster, one knob!
+The idea here is to offer a fuzz that is as plug n’ play as possible, simple and direct.
+
+### Sources checked in this pass
+1. P008 – Golden Ratio – Collateral FX: https://collateralfx.com/en/pedals/p008-golden-ratio/

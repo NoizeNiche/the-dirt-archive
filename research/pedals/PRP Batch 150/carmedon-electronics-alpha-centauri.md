@@ -15,3 +15,19 @@
 - **Research confidence:** Low-to-medium. The existence, name, builder attribution, and broad design description are supported, but formal production history and technical specifications remain undocumented.
 - **Sources checked:**
   - https://www.reddit.com/r/guitarpedals/comments/cws57g
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Carmedon Electronics's Alpha Centauri is cataloged as an overdrive pedal.
+
+### Verified version references
+- The evidence references: revision.
+
+### Verified sound evidence
+**Builder:** Carmedon Electronics - **Catalog type:** Overdrive - **Catalog identity:** Alpha Centauri - **What this pedal is:** A Klon-inspired overdrive associated with Carmedon Electronics and described in 2019 community documentation as an unreleased/new-company project.
+
+### Sources checked in this pass
+1. catalog/override source: https://www.reddit.com/r/guitarpedals/comments/cws57g

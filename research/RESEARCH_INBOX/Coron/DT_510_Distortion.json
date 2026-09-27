@@ -8,9 +8,10 @@
       "url": "https://www.effectsdatabase.com/model/coron/last/dt510",
       "title": "Coron DT-510 Distortion | Effects Database",
       "h1": "Coron DT-510 Distortion",
-      "excerpt": "Exact-model page identifies the DT-510 as a Coron last-series distortion and lists Level and Distortion controls.",
-      "host": "www.effectsdatabase.com"
+      "excerpt": "Exact-model page identifies the DT-510 as a Coron last-series distortion and lists Level and Distortion controls.\n- **Builder:** Coron\n- **Catalog identity:** DT-510 Distortion\n- **Catalog type:** Distortion\n- **Identity:** Exact Coron last-series DT-510 Distortion.\n\nDT-510 Distortion is part of Coron's later, last-series pedal family.\n\n- **Level:** output level.\n- **Distortion:** amount of distortion.\n\n- **Last series** model.\n- Effects Database relates the last-series Corons to Frontline Series II equivalents.\n- No distinct numbered factory revision was established from the checked sources.\n\n- No exact transistor type or part number was established from the checked sources.\n\n- No exact diode type was established from the checked sources.\n\nThe DT-510 keeps the control scheme deliberately simple, allowing the player to set output level and distortion amount directly. Beyond that control-level description, the checked sources do not establish a sufficiently specific circuit or historical tonal claim.\n\n- Effects Database exact-model page: https://www.effectsdatabase.com/model/coron/last/dt510\n\n1. Effects Database - Coron DT-510 Distortion\n2. Effects Database - Coron last series",
+      "host": "www.effectsdatabase.com",
+      "source_kind": "effects_database"
     }
   ],
-  "next_action": "Write a restrained canonical record from the exact catalog evidence. Leave transistor, diode, power and version claims unspecified unless independently documented."
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
 }

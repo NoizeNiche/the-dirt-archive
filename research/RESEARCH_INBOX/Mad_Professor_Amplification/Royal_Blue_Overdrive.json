@@ -1,0 +1,17 @@
+{
+  "builder": "Mad Professor Amplification",
+  "pedal": "Royal Blue Overdrive",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 1,
+  "sources": [
+    {
+      "url": "https://mpamp.com/product/10/royal-blue-overdrive",
+      "title": "Client Challenge",
+      "h1": "Mad Professor Amplification \u2014 Royal Blue Overdrive",
+      "excerpt": "Client Challenge JavaScript is disabled in your browser. Please enable JavaScript to proceed. A required part of this site couldn\u2019t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.\n- **Builder:** Mad Professor Amplification\n- **Pedal:** Royal Blue Overdrive\n- **Catalog type:** Overdrive\n- **Research level:** Surface\n- **Deep research status:** Pending\n- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.\n\nThe Dirt Archive currently catalogs **Royal Blue Overdrive** by **Mad Professor Amplification** as a **Overdrive** pedal. This statement is limited to the archive\u2019s catalog classification. Deeper technical, historical, and sonic details remain pending verification.\n\n- Catalog source page on file: https://mpamp.com/product/10/royal-blue-overdrive\n\n- **Archive photo:** No verified local photo is currently archived.\n- Photo provenance and validation are handled separately from this surface research record.\n\n- **Status:** Pending\n- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive\u2019s research foreman.",
+      "host": "mpamp.com",
+      "source_kind": "catalog_verified"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}

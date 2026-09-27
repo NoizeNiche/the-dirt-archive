@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-27T11:23:19.527988+00:00",
+  "generated_at": "2026-09-27T11:24:06.742384+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,8 +10,8 @@
     "pictured": 3140,
     "complete": 3140,
     "research_pending": 0,
-    "deep_research_pending": 1064,
-    "deep_researched": 3178,
+    "deep_research_pending": 925,
+    "deep_researched": 3317,
     "surface_ready": 4242
   },
   "next_target": {
@@ -76,20 +76,6 @@
       "pedal": "War Pig",
       "catalog_type": "",
       "research_record": "./research/pedals/Captain FX/War Pig.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Carmedon Electronics",
-      "pedal": "Alpha Centauri",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 150/carmedon-electronics-alpha-centauri.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "CatastroFX",
-      "pedal": "Deface Mk.III",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 161/catastrofx-deface-mkiii.md",
       "research_level": "surface"
     },
     {
@@ -195,6 +181,20 @@
       "pedal": "Fusion Fuzz",
       "catalog_type": "",
       "research_record": "./research/pedals/ColdCraft Effects/Fusion Fuzz.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Coleman",
+      "pedal": "Angry Dragon mkII - Germanium Fuzz",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Coleman/Angry Dragon mkII - Germanium Fuzz.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Collateral FX",
+      "pedal": "P010 Year of Rat 1985",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Collateral FX/P010 Year of Rat 1985.md",
       "research_level": "surface"
     }
   ]

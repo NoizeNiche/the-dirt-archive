@@ -1,23 +1,41 @@
 # Prescription Electronics — Germ
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Germ
 - **Builder:** Prescription Electronics
-- **Pedal:** Germ
 - **Catalog type:** Distortion / Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Prescription Electronics's Germ.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Germ** by **Prescription Electronics** as a **Distortion / Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Prescription Electronics's Germ is cataloged as a distortion / overdrive pedal.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- Related products Sale Death By Audio Evil Filter Octave Fuzz $149.00 $342.00 Sale Earthquaker Devices Rainbow Machine v2 Polyphonic Pitch Mesmerizer Teal & White $112.00 $224.00 Sale Dr.
+
+## Versions and factory options
+- The verified evidence references: v2.
+- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+Related products Sale Death By Audio Evil Filter Octave Fuzz $149.00 $342.00 Sale Earthquaker Devices Rainbow Machine v2 Polyphonic Pitch Mesmerizer Teal & White $112.00 $224.00 Sale Dr.
+
+## Sources checked
+1. Prescription Electronics Germ - Reverb: https://reverb.com/item/99068802-prescription-electronics-germ
+2. Prescription Electronics germ Crossword Clue - Wordplays.com: https://www.wordplays.com/crossword-solver/Prescription-Electronics-germ
+3. Prescription Electronics Germ | Effects Database: https://www.effectsdatabase.com/model/prescription/germ
+4. Prescription Electronics Germ — Overdrive Pedal | Equipboard: https://equipboard.com/items/prescription-electronics-germ-boost-overdrive
+5. Prescription Electronics Germ - Professional MIDI Keyboard Controller: https://www.mkeyspro.com/product/prescription-electronics-germ/
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

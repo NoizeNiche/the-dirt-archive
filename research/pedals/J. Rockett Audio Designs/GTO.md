@@ -1,23 +1,38 @@
 # J. Rockett Audio Designs — GTO
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** GTO
 - **Builder:** J. Rockett Audio Designs
-- **Pedal:** GTO
 - **Catalog type:** Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** J. Rockett Audio Designs's GTO.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **GTO** by **J. Rockett Audio Designs** as a **Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+J. Rockett Audio Designs's GTO is cataloged as an overdrive pedal.
 
-## Catalog source
-- Catalog source page on file: https://rockettpedals.com/
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- The verified evidence references: V2.
+- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+It’s still definitely an Archer at heart (which is a Klon type pedal), but the 6-band graphic EQ gives it an insane amount of versatility for tone shaping.
+Rockett Audio Designs** as a **Overdrive** pedal.
+
+## Sources checked
+1. Home - J. Rockett Audio Designs: https://rockettpedals.com/
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

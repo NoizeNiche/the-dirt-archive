@@ -38,3 +38,24 @@ The internal Input control limits how much signal reaches the fuzz circuit. Exte
 
 ## Sources checked
 1. Collateral FX - P016 Foxey Face: https://collateralfx.com/en/pedals/p016-foxey-face/
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Collateral FX's P016 Foxey Face Fuzz is cataloged as a fuzz pedal.
+
+### Verified color/finish evidence
+- No complete factory colorway sequence was established.
+
+### Verified transistor/device terms
+- silicon transistors, AC128, BC108, BC109, silicon transistor.
+
+### Verified sound evidence
+Recommended for – Guitarists seeking the classic sound of Germanium or Silicon Fuzz Face, with BIAS control.
+The Foxey Face by Collateral has its roots in the legendary Fuzz Face pedals, immortalized by Jimi Hendrix, David Gilmour, Eric Johnson, Bonamassa, and many other guitarists.
+Externally, in addition to the traditional Level and Fuzz controls, we have the Bias control, which compensates for temperature changes in the germanium transistors, offering a wide range of tones and textures, with sounds closer to an overdrive or even a more “gated” fuzz, full of velcro-like decay in the sound.
+
+### Sources checked in this pass
+1. P016 – Foxey Face – Collateral FX: https://collateralfx.com/en/pedals/p016-foxey-face/

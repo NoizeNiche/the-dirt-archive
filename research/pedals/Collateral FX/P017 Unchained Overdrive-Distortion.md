@@ -35,3 +35,24 @@ Unchained is voiced around the compressed, sustaining behavior associated with h
 
 ## Sources checked
 1. Collateral FX - P017 Unchained: https://collateralfx.com/en/pedals/p017-unchained/
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Collateral FX's P017 Unchained Overdrive/Distortion is cataloged as a distortion / overdrive pedal.
+
+### Verified color/finish evidence
+- No complete factory colorway sequence was established.
+
+### Verified version references
+- The evidence references: revision.
+
+### Verified sound evidence
+Recommended for – EVH fans or anyone seeking the high-gain Marshall amp tone without driving the neighbors and sound technicians crazy.
+The tones of Ed Van Halen are extremely difficult to reproduce with amplifiers since he used them at very high volumes, passing through attenuators – which brought that compressed, sagging, and sustained sound.
+Additionally, the Unchained can be powered by up to 18v, allowing for more headroom and dynamics if the user prefers the pedal that way.
+
+### Sources checked in this pass
+1. P017 – Unchained – Collateral FX: https://collateralfx.com/en/pedals/p017-unchained/

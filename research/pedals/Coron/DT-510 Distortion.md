@@ -33,3 +33,21 @@ The DT-510 keeps the control scheme deliberately simple, allowing the player to 
 ## Sources checked
 1. Effects Database - Coron DT-510 Distortion
 2. Effects Database - Coron last series
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+DT-510 Distortion is part of Coron's later, last-series pedal family.
+
+### Verified version references
+- The evidence references: revision.
+
+### Verified sound evidence
+Exact-model page identifies the DT-510 as a Coron last-series distortion and lists Level and Distortion controls.
+**Builder:** Coron - **Catalog identity:** DT-510 Distortion - **Catalog type:** Distortion - **Identity:** Exact Coron last-series DT-510 Distortion.
+DT-510 Distortion is part of Coron's later, last-series pedal family.
+
+### Sources checked in this pass
+1. Coron DT-510 Distortion | Effects Database: https://www.effectsdatabase.com/model/coron/last/dt510

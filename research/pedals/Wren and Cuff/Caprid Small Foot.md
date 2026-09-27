@@ -1,23 +1,48 @@
 # Wren and Cuff — Caprid Small Foot
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Caprid Small Foot
 - **Builder:** Wren and Cuff
-- **Pedal:** Caprid Small Foot
 - **Catalog type:** Distortion / Fuzz
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Wren and Cuff's Caprid Small Foot.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Caprid Small Foot** by **Wren and Cuff** as a **Distortion / Fuzz** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Wren and Cuff's Caprid Small Foot is cataloged as a distortion / fuzz pedal.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+After many, many, requests, 5 years later we have finally made a "Small Foot" version of this fat monster tone machine.
+Can be violin smooth and sustaining, but can be raunchy and drivey when you roll the distortion knob back.
+Med-heavy mid-scoop, heavy saturation on tap.
+
+## Sources checked
+1. Caprid Small Foot &mdash; Wren and Cuff: https://www.wrenandcuff.com/products/caprid-small-foot
+2. Wren and Cuff Caprid Small Foot — Fuzz Pedal | Equipboard: https://equipboard.com/items/wren-and-cuff-caprid-small-foot
+3. Wren And Cuff Caprid Small Foot: https://www.guitarriot.com/shop/Pedals/p/Wren-And-Cuff-Caprid-Small-Foot.htm
+4. Wren And Cuff Caprid Small Foot Legendary Distortion/Overdrive/Fuzz Effects Pedal RiversandTestlegacy | Guitar Center: https://www.guitarcenter.com/Wren-And-Cuff/Caprid-Small-Foot-Fuzz-Effects-Pedal-RiversandTestlegacy-1500000279259.gc
+5. Wren And Cuff Caprid Small Foot: https://austinguitarhouse.com/wren-and-cuff-caprid-sf/
+6. Wren and Cuff Caprid Small Foot Dimensions, Specs & Details: https://www.stompboxgarden.com/gear/pedal/15774/wren-and-cuff-caprid-small-foot
+7. Wren and Cuff Caprid Small Foot - Muff Fuzz | Guitar FX Direct: https://www.guitarfxdirect.com/product/wren-and-cuff-the-caprid-small-foot-distortion/
+8. Wren and Cuff Caprid Small Foot - Reverb UK: https://reverb.com/uk/p/wren-and-cuff-caprid-small-foot
+9. Wren and Cuff Caprid Small Foot - Wholesale Guitars Sheet Music Drums Effects and Accessories: https://www.musicbrandsupply.com/product/wren-and-cuff-caprid-small-foot/
+10. Wren and Cuff Caprid Small Foot | Pedals | musicchordhaven.com: https://www.musicchordhaven.com/product/wren-and-cuff-caprid-small-foot/
+11. Wren and Cuff Caprid Small Foot - Snare Drums Built for Crisp Sound and Control: https://www.snarvex.com/product/wren-and-cuff-caprid-small-foot/
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

@@ -1,19 +1,36 @@
-# Land Devices - Moonbow
+# Land Devices — Moonbow
 
 ## PRP identity
-- Builder: Land Devices
-- Catalog type: Overdrive
-- Identity: Land Devices Moonbow resonant-filter overdrive.
+- **Archive parent:** Moonbow
+- **Builder:** Land Devices
+- **Catalog type:** Overdrive
+- **Identity:** Land Devices's Moonbow.
 
 ## What this pedal is
 Moonbow is listed as a Land Devices overdrive with resonant-filter behavior.
 
-## Technical details
-Exact controls, filter topology and semiconductor complement require exact-model documentation.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+Moonbow is listed as a Land Devices overdrive with resonant-filter behavior.
 
 ## Sources checked
-1. Land Devices catalog: https://landdevices.com/collections/catalog
-2. Land Devices all products: https://landdevices.com/collections/all
+1. Effect pedals and utility devices &ndash; Land Devices: https://landdevices.com/collections/catalog
 
 ## Photo
-- Exact photo pending.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

@@ -40,3 +40,24 @@ Effects Database lists the exact Jimi - Octave Fuzz model in its octave-fuzz cat
 ## Sources checked
 1. Effects Database - Compulsive Audio weekly catalog introduction: https://www.effectsdatabase.com/blog/discofreq?page=104
 2. Effects Database - octave fuzz catalog, naming Compulsive Audio Jimi - Octave Fuzz: https://www.effectsdatabase.com/type/octave/fuzz/1up
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+The builder emphasized matched components in discrete designs and high-quality/NOS parts for fuzz pedals.
+
+### Verified color/finish evidence
+- No reliable production colorway history was established.
+
+### Verified version references
+- The evidence references: revision.
+
+### Verified sound evidence
+**Builder:** Compulsive Audio - **Catalog identity:** Jimi - Octave Fuzz - **Catalog type:** Octave Fuzz - **Identity:** Early Compulsive Audio octave-fuzz model from the builder's 2010 catalog.
+The builder emphasized matched components in discrete designs and high-quality/NOS parts for fuzz pedals.
+**Technology:** Octave fuzz design.
+
+### Sources checked in this pass
+1. catalog/override source: https://www.effectsdatabase.com/type/octave/fuzz/1up

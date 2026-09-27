@@ -42,3 +42,30 @@ Effects Database and historical Tone Bender family references provide identity t
 ## Sources checked
 1. Effects Database - B&M Champion Fuzz Unit family: https://www.effectsdatabase.com/model/champion/champion/fuzzunit
 2. Kit Rae - A Fuzz and Muff Pedal Timeline: https://www.kitrae.net/music/Fuzz_Big_Muff_Timeline.html
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+The Eurotec Black Box Fuzz Module is a smaller-enclosure presentation of the late-1970s Jumbo Tone Bender family.
+
+### Verified color/finish evidence
+- One - **Builder:** Colorsound / Sola Sound - **Catalog identity:** Eurotec Black Box Fuzz Module - **Catalog type:** Fuzz - **Identity:** Compact private-label enclosure carrying the late-1970s Sola Sound/Colorsound Jumbo Tone Bender family.
+- The Eurotec Black Box Fuzz Module is a smaller-enclosure presentation of the late-1970s Jumbo Tone Bender family.
+- The defining visual distinction is the **Black Box** compact enclosure and Eurotec branding.
+
+### Verified version references
+- The evidence references: revision.
+
+### Verified transistor/device terms
+- Silicon transistor.
+
+### Verified sound evidence
+A Fuzz and Muff pedal Timeline The Big Muff π Page The Definitive Big Muff Resource and History VISIT THE KIT RAE SWORDS, KNIVES and FANTASY ART WEBSITE www.kitrae.net A Fuzz and Muff Timeline ©Kit Rae.
+This is a list of all the market release dates for most major fuzz box pedals and Electro-Harmonix Big Muff Pi pedals, and related fuzz pedals and clones from the mid 1960's to the mid '70's.
+To put everything in context, the list includes the creation of the first recorded fuzz tones in rock and roll, and significant songs or albums the fuzz tone appeared on.
+
+### Sources checked in this pass
+1. A Fuzz and Muff pedal Timeline: https://www.kitrae.net/music/Fuzz_Big_Muff_Timeline.html
+2. catalog/override source: https://www.effectsdatabase.com/model/champion/champion/fuzzunit
