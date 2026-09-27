@@ -93,6 +93,9 @@ function renderMarkdown(md){
       .replace(/\s*\[\d+\]/g,'')
       .replace(/\*\*(.+?)\*\*/g,'<strong>$1</strong>')
       .replace(/\x60(.+?)\x60/g,'<code>$1</code>');
+    value=value.replace(/\[([^\]]+)\]\((https?:\/\/[^)\s]+)\)/g,(match,label,url)=>
+      '<a class="sourceLink" href="'+url+'" target="_blank" rel="noopener noreferrer">'+label+'</a>'
+    );
     return value.replace(/(https?:\/\/[^\s<]+)/g, url=>{
       const trailing=(url.match(/[),.;!?]+$/)||[''])[0];
       const href=trailing?url.slice(0,-trailing.length):url;
@@ -293,6 +296,7 @@ function renderRecordStatus(item,markdown=''){
   const statusMatch=source.match(/\*\*Deep research status:\*\*\s*([^\n]+)/i);
   const level=String(levelMatch?.[1]||item?.research_level||'').trim().toLowerCase();
   const status=String(statusMatch?.[1]||'').trim().toLowerCase();
+  const sourceCount=(source.match(/https?:\/\/[^\s)]+/g)||[]).length;
 
   const researchLabel=level==='deep'?'Deep research':level==='surface'?'Surface research':'Research status unrecorded';
   const researchClass=level==='deep'?'verified':level==='surface'?'surface':'unknown';
@@ -307,13 +311,28 @@ function renderRecordStatus(item,markdown=''){
   target.innerHTML=
     '<span class="statusPill '+researchClass+'">'+esc(researchLabel)+'</span>'+
     (evidenceLabel?'<span class="statusPill '+(status.includes('identity conflict')?'conflict':'evidence')+'">'+esc(evidenceLabel)+'</span>':'')+
+    (sourceCount?'<span class="statusPill sourceCount">'+sourceCount+' source'+(sourceCount===1?'':'s')+'</span>':'')+
     '<span class="statusPill '+(hasPhoto?'photo':'photoMissing')+'">'+(hasPhoto?'Exact archive photo':'Exact local photo pending')+'</span>';
 }
 
 function updateMetaDescription(item){
   const types=(item.types||[]).filter(Boolean).join(', ')||'guitar dirt';
+  const title=item.pedal+' · The Dirt Archive';
+  const description='Explore '+item.pedal+', a '+types+' pedal by '+item.company+', in The Dirt Archive.';
+  const url=location.href.split('#')[0];
   const meta=document.querySelector('meta[name="description"]');
-  if(meta)meta.setAttribute('content','Explore '+item.pedal+', a '+types+' pedal by '+item.company+', in The Dirt Archive.');
+  if(meta)meta.setAttribute('content',description);
+  document.title=title;
+  for(const [selector,content] of [
+    ['meta[property="og:title"]',title],
+    ['meta[property="og:description"]',description],
+    ['meta[property="og:url"]',url],
+    ['meta[name="twitter:title"]',title],
+    ['meta[name="twitter:description"]',description]
+  ]){
+    const el=document.querySelector(selector);
+    if(el)el.setAttribute('content',content);
+  }
 }
 
 function renderCatalogBaseline(item){
@@ -440,6 +459,7 @@ loadCatalog()
         console.error(e)
       })
   }else{
+    renderRecordStatus(item);
     renderCatalogBaseline(item);
   }
 
