@@ -3863,63 +3863,63 @@
     "pedal": "Abelha Tropical Fuzz",
     "image": "",
     "source_page": "https://www.beetronicsfx.com/collections/all-pedals-1",
-    "research_record": ""
+    "research_record": "./research/pedals/Beetronics/Abelha Tropical Fuzz.md"
   },
   {
     "builder": "Beetronics",
     "pedal": "Fatbee Overdrive",
     "image": "",
     "source_page": "https://www.beetronicsfx.com/collections/drive",
-    "research_record": ""
+    "research_record": "./research/pedals/Beetronics/Fatbee Overdrive.md"
   },
   {
     "builder": "Beetronics",
     "pedal": "Octahive v2 High Octave Buzz",
     "image": "",
     "source_page": "https://www.beetronicsfx.com/collections/all-pedals-1",
-    "research_record": ""
+    "research_record": "./research/pedals/Beetronics/Octahive v2 High Octave Buzz.md"
   },
   {
     "builder": "Beetronics",
     "pedal": "Overhive Mid-Gain Overdrive",
     "image": "",
     "source_page": "https://www.beetronicsfx.com/collections/drive",
-    "research_record": ""
+    "research_record": "./research/pedals/Beetronics/Overhive Mid-Gain Overdrive.md"
   },
   {
     "builder": "Beetronics",
     "pedal": "Royal Jelly Fuzz/OD Blender",
     "image": "",
     "source_page": "https://www.beetronicsfx.com/products/royal-jelly-limited-edition-p-royal-series",
-    "research_record": ""
+    "research_record": "./research/pedals/Beetronics/Royal Jelly Fuzz/OD Blender.md"
   },
   {
     "builder": "Beetronics",
     "pedal": "Swarm Fuzz Harmonizer",
     "image": "",
     "source_page": "https://www.beetronicsfx.com/collections/all-pedals-1",
-    "research_record": ""
+    "research_record": "./research/pedals/Beetronics/Swarm Fuzz Harmonizer.md"
   },
   {
     "builder": "Beetronics",
     "pedal": "Tuna Fuzz",
     "image": "",
     "source_page": "https://www.beetronicsfx.com/collections/all-pedals-1",
-    "research_record": ""
+    "research_record": "./research/pedals/Beetronics/Tuna Fuzz.md"
   },
   {
     "builder": "Beetronics",
     "pedal": "Vezzpa Octave Stinger",
     "image": "",
     "source_page": "https://www.beetronicsfx.com/collections/all-pedals-1",
-    "research_record": ""
+    "research_record": "./research/pedals/Beetronics/Vezzpa Octave Stinger.md"
   },
   {
     "builder": "Beetronics",
     "pedal": "Wannabee Beelateral Buzz",
     "image": "",
     "source_page": "https://www.beetronicsfx.com/collections/drive",
-    "research_record": ""
+    "research_record": "./research/pedals/Beetronics/Wannabee Beelateral Buzz.md"
   },
   {
     "builder": "Beetronics FX",
@@ -4948,6 +4948,13 @@
     "image": "./assets/pedals/bixonic/exp2000dr/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/PRP Batch 097/EXP2000DR.md"
+  },
+  {
+    "builder": "BIXONIC",
+    "pedal": "EXPANDORA",
+    "image": "",
+    "source_page": "https://bixonic-sound.com/pages/story",
+    "research_record": "./research/pedals/BIXONIC/EXPANDORA.md"
   },
   {
     "builder": "Biyang",
@@ -18429,10 +18436,38 @@
   },
   {
     "builder": "Hudson Electronics",
+    "pedal": "BC-24V-PG",
+    "image": "",
+    "source_page": "https://hudsonelectronicsuk.com/product/bc-24v-pg/",
+    "research_record": "./research/pedals/Hudson Electronics/BC-24V-PG.md"
+  },
+  {
+    "builder": "Hudson Electronics",
+    "pedal": "BC-24V-USA",
+    "image": "",
+    "source_page": "https://hudsonelectronicsuk.com/product/bc-24v-usa/",
+    "research_record": "./research/pedals/Hudson Electronics/BC-24V-USA.md"
+  },
+  {
+    "builder": "Hudson Electronics",
     "pedal": "Broadcast",
     "image": "./assets/pedals/hudson-electronics/broadcast/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Hudson Electronics/Broadcast.md"
+  },
+  {
+    "builder": "Hudson Electronics",
+    "pedal": "Broadcast — dual footswitch",
+    "image": "",
+    "source_page": "https://hudsonelectronicsuk.com/product-category/pedals/",
+    "research_record": "./research/pedals/Hudson Electronics/Broadcast — dual footswitch.md"
+  },
+  {
+    "builder": "Hudson Electronics",
+    "pedal": "Broadcast AP-II",
+    "image": "",
+    "source_page": "https://hudsonelectronicsuk.com/product-category/pedals/",
+    "research_record": "./research/pedals/Hudson Electronics/Broadcast AP-II.md"
   },
   {
     "builder": "Hudson Electronics",
@@ -20224,7 +20259,7 @@
     "pedal": "Chief Disruptor Bloodstone Edition",
     "image": "",
     "source_page": "https://shop.kmamachines.com/pages/products",
-    "research_record": ""
+    "research_record": "./research/pedals/KMA Machines/Chief Disruptor Bloodstone Edition.md"
   },
   {
     "builder": "KMA Machines",
@@ -20266,7 +20301,7 @@
     "pedal": "LOGAN Desert",
     "image": "",
     "source_page": "https://www.kma-machines.com/",
-    "research_record": ""
+    "research_record": "./research/pedals/KMA Machines/LOGAN Desert.md"
   },
   {
     "builder": "KMA Machines",
@@ -20294,7 +20329,7 @@
     "pedal": "WURHM",
     "image": "",
     "source_page": "https://www.kma-machines.com/",
-    "research_record": ""
+    "research_record": "./research/pedals/KMA Machines/WURHM.md"
   },
   {
     "builder": "KMA Machines",
@@ -20781,6 +20816,20 @@
   },
   {
     "builder": "Mad Professor Amplification",
+    "pedal": "Little Green Wonder",
+    "image": "",
+    "source_page": "https://mpamp.com/product/102/little-green-wonder-handwired",
+    "research_record": "./research/pedals/Mad Professor Amplification/Little Green Wonder.md"
+  },
+  {
+    "builder": "Mad Professor Amplification",
+    "pedal": "Little Green Wonder Handwired",
+    "image": "",
+    "source_page": "https://mpamp.com/product/102/little-green-wonder-handwired",
+    "research_record": "./research/pedals/Mad Professor Amplification/Little Green Wonder Handwired.md"
+  },
+  {
+    "builder": "Mad Professor Amplification",
     "pedal": "Little Tweedy Drive",
     "image": "./assets/pedals/mad-professor-amplification/little-tweedy-drive/primary.webp",
     "source_page": null,
@@ -20802,6 +20851,34 @@
   },
   {
     "builder": "Mad Professor Amplification",
+    "pedal": "Royal Blue Overdrive",
+    "image": "",
+    "source_page": "https://mpamp.com/product/10/royal-blue-overdrive",
+    "research_record": "./research/pedals/Mad Professor Amplification/Royal Blue Overdrive.md"
+  },
+  {
+    "builder": "Mad Professor Amplification",
+    "pedal": "Royal Blue Overdrive Custom",
+    "image": "",
+    "source_page": "https://mpamp.com/category/8/shop",
+    "research_record": "./research/pedals/Mad Professor Amplification/Royal Blue Overdrive Custom.md"
+  },
+  {
+    "builder": "Mad Professor Amplification",
+    "pedal": "Ruby Red Booster",
+    "image": "",
+    "source_page": "https://mpamp.com/product/41/ruby-red-booster",
+    "research_record": "./research/pedals/Mad Professor Amplification/Ruby Red Booster.md"
+  },
+  {
+    "builder": "Mad Professor Amplification",
+    "pedal": "Simble Overdrive Mk2",
+    "image": "",
+    "source_page": "https://mpamp.com/product/62/simble-overdrive-mk2",
+    "research_record": "./research/pedals/Mad Professor Amplification/Simble Overdrive Mk2.md"
+  },
+  {
+    "builder": "Mad Professor Amplification",
     "pedal": "Stone Grey Distortion",
     "image": "./assets/pedals/mad-professor-amplification/stone-grey-distortion/primary.webp",
     "source_page": null,
@@ -20809,10 +20886,52 @@
   },
   {
     "builder": "Mad Professor Amplification",
+    "pedal": "Super Black",
+    "image": "",
+    "source_page": "https://mpamp.com/category/8/shop",
+    "research_record": "./research/pedals/Mad Professor Amplification/Super Black.md"
+  },
+  {
+    "builder": "Mad Professor Amplification",
+    "pedal": "Super Black mini",
+    "image": "",
+    "source_page": "https://mpamp.com/category/8/shop",
+    "research_record": "./research/pedals/Mad Professor Amplification/Super Black mini.md"
+  },
+  {
+    "builder": "Mad Professor Amplification",
+    "pedal": "Sweet Honey Overdrive",
+    "image": "",
+    "source_page": "https://mpamp.com/product/1/sweet-honey-overdrive",
+    "research_record": "./research/pedals/Mad Professor Amplification/Sweet Honey Overdrive.md"
+  },
+  {
+    "builder": "Mad Professor Amplification",
+    "pedal": "Sweet Honey Overdrive Custom",
+    "image": "",
+    "source_page": "https://mpamp.com/category/8/shop",
+    "research_record": "./research/pedals/Mad Professor Amplification/Sweet Honey Overdrive Custom.md"
+  },
+  {
+    "builder": "Mad Professor Amplification",
     "pedal": "Sweet Honey Overdrive Deluxe",
     "image": "./assets/pedals/mad-professor-amplification/sweet-honey-overdrive-deluxe/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Mad Professor Amplification/Sweet Honey Overdrive Deluxe.md"
+  },
+  {
+    "builder": "Mad Professor Amplification",
+    "pedal": "Sweet Honey Overdrive Handwired",
+    "image": "",
+    "source_page": "https://mpamp.com/category/8/shop",
+    "research_record": "./research/pedals/Mad Professor Amplification/Sweet Honey Overdrive Handwired.md"
+  },
+  {
+    "builder": "Mad Professor Amplification",
+    "pedal": "Sweet Honey Overdrive Japan Edition",
+    "image": "",
+    "source_page": "https://mpamp.com/product/40/sweet-honey-overdrive-japan-limited-edition",
+    "research_record": "./research/pedals/Mad Professor Amplification/Sweet Honey Overdrive Japan Edition.md"
   },
   {
     "builder": "Mad Professor Amplification",
@@ -23399,6 +23518,27 @@
   },
   {
     "builder": "Origin Effects",
+    "pedal": "Bassrig '64 Black Panel",
+    "image": "",
+    "source_page": "https://origineffects.com/product-category/overdrive/",
+    "research_record": "./research/pedals/Origin Effects/Bassrig '64 Black Panel.md"
+  },
+  {
+    "builder": "Origin Effects",
+    "pedal": "Bassrig Fifteen",
+    "image": "",
+    "source_page": "https://origineffects.com/product-category/overdrive/",
+    "research_record": "./research/pedals/Origin Effects/Bassrig Fifteen.md"
+  },
+  {
+    "builder": "Origin Effects",
+    "pedal": "Bassrig Super Vintage",
+    "image": "",
+    "source_page": "https://origineffects.com/product-category/overdrive/",
+    "research_record": "./research/pedals/Origin Effects/Bassrig Super Vintage.md"
+  },
+  {
+    "builder": "Origin Effects",
     "pedal": "DCX Boost — boost/drive product with overdrive use",
     "image": null,
     "source_page": null,
@@ -23462,10 +23602,24 @@
   },
   {
     "builder": "Origin Effects",
+    "pedal": "RevivalDRIVE",
+    "image": "",
+    "source_page": "https://origineffects.com/discontinued-products/",
+    "research_record": "./research/pedals/Origin Effects/RevivalDRIVE.md"
+  },
+  {
+    "builder": "Origin Effects",
     "pedal": "RevivalDRIVE Compact — amp-recreation overdrive / distortion",
     "image": null,
     "source_page": null,
     "research_record": "./research/pedals/Origin Effects/RevivalDRIVE Compact — amp-recreation overdrive / distortion.md"
+  },
+  {
+    "builder": "Origin Effects",
+    "pedal": "RevivalDRIVE Hot Rod Edition",
+    "image": "",
+    "source_page": "https://origineffects.com/discontinued-products/",
+    "research_record": "./research/pedals/Origin Effects/RevivalDRIVE Hot Rod Edition.md"
   },
   {
     "builder": "Outlaw Effects",
@@ -23592,6 +23746,76 @@
     "image": null,
     "source_page": null,
     "research_record": "./research/pedals/Ovaltone/TM4086+ REV. 1.2.md"
+  },
+  {
+    "builder": "Pete Cornish / Pete Cornish Effects",
+    "pedal": "BD-1 Bass Driver",
+    "image": "",
+    "source_page": "https://petecornish.co.uk/deluxeseries.html",
+    "research_record": "./research/pedals/Pete Cornish / Pete Cornish Effects/BD-1 Bass Driver.md"
+  },
+  {
+    "builder": "Pete Cornish / Pete Cornish Effects",
+    "pedal": "CC-1 Cornish Crunch",
+    "image": "",
+    "source_page": "https://petecornish.co.uk/deluxeseries.html",
+    "research_record": "./research/pedals/Pete Cornish / Pete Cornish Effects/CC-1 Cornish Crunch.md"
+  },
+  {
+    "builder": "Pete Cornish / Pete Cornish Effects",
+    "pedal": "G-2",
+    "image": "",
+    "source_page": "https://petecornish.co.uk/bfg2.html",
+    "research_record": "./research/pedals/Pete Cornish / Pete Cornish Effects/G-2.md"
+  },
+  {
+    "builder": "Pete Cornish / Pete Cornish Effects",
+    "pedal": "GC-1 High Gain Crunch",
+    "image": "",
+    "source_page": "https://petecornish.co.uk/deluxeseries.html",
+    "research_record": "./research/pedals/Pete Cornish / Pete Cornish Effects/GC-1 High Gain Crunch.md"
+  },
+  {
+    "builder": "Pete Cornish / Pete Cornish Effects",
+    "pedal": "NG-2",
+    "image": "",
+    "source_page": "https://petecornish.co.uk/deluxeseries.html",
+    "research_record": "./research/pedals/Pete Cornish / Pete Cornish Effects/NG-2.md"
+  },
+  {
+    "builder": "Pete Cornish / Pete Cornish Effects",
+    "pedal": "NG-3",
+    "image": "",
+    "source_page": "https://petecornish.co.uk/deluxeseries.html",
+    "research_record": "./research/pedals/Pete Cornish / Pete Cornish Effects/NG-3.md"
+  },
+  {
+    "builder": "Pete Cornish / Pete Cornish Effects",
+    "pedal": "P-1",
+    "image": "",
+    "source_page": "https://petecornish.co.uk/bfp1.html",
+    "research_record": "./research/pedals/Pete Cornish / Pete Cornish Effects/P-1.md"
+  },
+  {
+    "builder": "Pete Cornish / Pete Cornish Effects",
+    "pedal": "P-2",
+    "image": "",
+    "source_page": "https://petecornish.co.uk/bfp2.html",
+    "research_record": "./research/pedals/Pete Cornish / Pete Cornish Effects/P-2.md"
+  },
+  {
+    "builder": "Pete Cornish / Pete Cornish Effects",
+    "pedal": "SS-2 Soft Sustain",
+    "image": "",
+    "source_page": "https://petecornish.co.uk/bfss2.html",
+    "research_record": "./research/pedals/Pete Cornish / Pete Cornish Effects/SS-2 Soft Sustain.md"
+  },
+  {
+    "builder": "Pete Cornish / Pete Cornish Effects",
+    "pedal": "SS-3 Soft Sustain",
+    "image": "",
+    "source_page": "https://petecornish.co.uk/deluxeseries.html",
+    "research_record": "./research/pedals/Pete Cornish / Pete Cornish Effects/SS-3 Soft Sustain.md"
   },
   {
     "builder": "Pettyjohn Electronics",
@@ -24763,6 +24987,41 @@
     "research_record": "./research/pedals/SolidGoldFX/Lysis MKII.md"
   },
   {
+    "builder": "Source Audio",
+    "pedal": "Aftershock Bass Distortion",
+    "image": "",
+    "source_page": "https://www.sourceaudio.net/",
+    "research_record": "./research/pedals/Source Audio/Aftershock Bass Distortion.md"
+  },
+  {
+    "builder": "Source Audio",
+    "pedal": "Kingmaker Fuzz",
+    "image": "",
+    "source_page": "https://www.sourceaudio.net/",
+    "research_record": "./research/pedals/Source Audio/Kingmaker Fuzz.md"
+  },
+  {
+    "builder": "Source Audio",
+    "pedal": "L.A. Lady Overdrive",
+    "image": "",
+    "source_page": "https://www.sourceaudio.net/",
+    "research_record": "./research/pedals/Source Audio/L.A. Lady Overdrive.md"
+  },
+  {
+    "builder": "Source Audio",
+    "pedal": "Ultrawave Bass Distortion Lab",
+    "image": "",
+    "source_page": "https://www.sourceaudio.net/",
+    "research_record": "./research/pedals/Source Audio/Ultrawave Bass Distortion Lab.md"
+  },
+  {
+    "builder": "Source Audio",
+    "pedal": "Ultrawave Distortion Lab",
+    "image": "",
+    "source_page": "https://www.sourceaudio.net/",
+    "research_record": "./research/pedals/Source Audio/Ultrawave Distortion Lab.md"
+  },
+  {
     "builder": "Spaceman Effects",
     "pedal": "Apollo VIIb",
     "image": null,
@@ -25156,6 +25415,27 @@
   },
   {
     "builder": "Stone Deaf FX",
+    "pedal": "Fig Fumb",
+    "image": "",
+    "source_page": "https://www.stonedeaffx.com/collections/all",
+    "research_record": "./research/pedals/Stone Deaf FX/Fig Fumb.md"
+  },
+  {
+    "builder": "Stone Deaf FX",
+    "pedal": "Fig Fumb LTD",
+    "image": "",
+    "source_page": "https://www.stonedeaffx.com/collections/all",
+    "research_record": "./research/pedals/Stone Deaf FX/Fig Fumb LTD.md"
+  },
+  {
+    "builder": "Stone Deaf FX",
+    "pedal": "Kliptonite",
+    "image": "",
+    "source_page": "https://www.stonedeaffx.com/pages/support",
+    "research_record": "./research/pedals/Stone Deaf FX/Kliptonite.md"
+  },
+  {
+    "builder": "Stone Deaf FX",
     "pedal": "PDF-1X Ghost",
     "image": null,
     "source_page": null,
@@ -25167,6 +25447,34 @@
     "image": null,
     "source_page": null,
     "research_record": "./research/pedals/Stone Deaf FX/PDF-2.md"
+  },
+  {
+    "builder": "Stone Deaf FX",
+    "pedal": "Rise & Shine",
+    "image": "",
+    "source_page": "https://www.stonedeaffx.com/collections/all",
+    "research_record": "./research/pedals/Stone Deaf FX/Rise & Shine.md"
+  },
+  {
+    "builder": "Stone Deaf FX",
+    "pedal": "Trashy Blonde",
+    "image": "",
+    "source_page": "https://www.stonedeaffx.com/pages/support",
+    "research_record": "./research/pedals/Stone Deaf FX/Trashy Blonde.md"
+  },
+  {
+    "builder": "Stone Deaf FX",
+    "pedal": "Warp Drive",
+    "image": "",
+    "source_page": "https://www.stonedeaffx.com/collections/distortion-pedals",
+    "research_record": "./research/pedals/Stone Deaf FX/Warp Drive.md"
+  },
+  {
+    "builder": "Stone Deaf FX",
+    "pedal": "Warp Drive LTD",
+    "image": "",
+    "source_page": "https://www.stonedeaffx.com/collections/distortion-pedals",
+    "research_record": "./research/pedals/Stone Deaf FX/Warp Drive LTD.md"
   },
   {
     "builder": "Strymon",
@@ -26248,6 +26556,20 @@
   },
   {
     "builder": "Vertex Effects",
+    "pedal": "Dynamic Dist. MKII",
+    "image": "",
+    "source_page": "https://www.vertexeffects.com/dynamic-distortion-seafoam",
+    "research_record": "./research/pedals/Vertex Effects/Dynamic Dist. MKII.md"
+  },
+  {
+    "builder": "Vertex Effects",
+    "pedal": "Dynamic Distortion MKI",
+    "image": "",
+    "source_page": "https://www.vertexeffects.com/dynamic-distortion",
+    "research_record": "./research/pedals/Vertex Effects/Dynamic Distortion MKI.md"
+  },
+  {
+    "builder": "Vertex Effects",
     "pedal": "Steel String",
     "image": null,
     "source_page": null,
@@ -26255,10 +26577,52 @@
   },
   {
     "builder": "Vertex Effects",
+    "pedal": "Steel String Clean Drive MKI",
+    "image": "",
+    "source_page": "https://www.vertexeffects.com/store",
+    "research_record": "./research/pedals/Vertex Effects/Steel String Clean Drive MKI.md"
+  },
+  {
+    "builder": "Vertex Effects",
+    "pedal": "Steel String Supreme (Slight Return)",
+    "image": "",
+    "source_page": "https://www.vertexeffects.com/store",
+    "research_record": "./research/pedals/Vertex Effects/Steel String Supreme (Slight Return).md"
+  },
+  {
+    "builder": "Vertex Effects",
+    "pedal": "T Drive",
+    "image": "",
+    "source_page": "https://www.vertexeffects.com/store",
+    "research_record": "./research/pedals/Vertex Effects/T Drive.md"
+  },
+  {
+    "builder": "Vertex Effects",
+    "pedal": "Tone Secret OD",
+    "image": "",
+    "source_page": "https://www.vertexeffects.com/store",
+    "research_record": "./research/pedals/Vertex Effects/Tone Secret OD.md"
+  },
+  {
+    "builder": "Vertex Effects",
     "pedal": "Ultra Phonix",
     "image": null,
     "source_page": null,
     "research_record": "./research/pedals/Vertex Effects/Ultra Phonix.md"
+  },
+  {
+    "builder": "Vertex Effects",
+    "pedal": "Ultra-Phonix HRM",
+    "image": "",
+    "source_page": "https://www.vertexeffects.com/store",
+    "research_record": "./research/pedals/Vertex Effects/Ultra-Phonix HRM.md"
+  },
+  {
+    "builder": "Vertex Effects",
+    "pedal": "Ultraphonix MKII",
+    "image": "",
+    "source_page": "https://www.vertexeffects.com/ultraphonix-mkii",
+    "research_record": "./research/pedals/Vertex Effects/Ultraphonix MKII.md"
   },
   {
     "builder": "VFE Pedals",
