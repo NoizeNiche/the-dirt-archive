@@ -4,36 +4,52 @@
 - **Archive parent:** Phoenix Fuzz
 - **Builder:** CheeseBlocks Effects
 - **Catalog type:** Fuzz
-- **Identity:** CheeseBlocks Effects Phoenix Fuzz, a mini-format fuzz using germanium and silicon transistors with external bias adjustment.
+- **Identity:** Handmade North Carolina fuzz combining Germanium and Silicon transistors, with Level, Fuzz and accessible bias trim. [1][2]
 
-## What this pedal is
-An exact-model Reverb listing describes the Phoenix Fuzz as a handmade North Carolina fuzz using a combination of germanium and silicon transistors. The listing identifies it as a 2010s pedal with a small chassis and vintage-style fuzz sound. [1]
+## Controls / architecture
+- **LEVEL / VOLUME**
+- **FUZZ**
+- Internal **BIAS** trim accessible through the bottom panel. [1][2]
+- True bypass. [1]
 
-Contemporary Japanese coverage also documents the model as a mini fuzz with germanium/silicon transistor combination, Volume and Fuzz controls, and a bias trim accessible through the bottom plate. [2]
-
-## Colorways
-The checked exact-model sources establish the Phoenix Fuzz but do not establish a complete factory colorway sequence.
-
-## Versions and factory options
-Documented controls:
-- Level / Volume
-- Fuzz
-- Internal bias trim accessible through a bottom-panel hole. [1][2]
-
-The pedal is described as handmade and true bypass. [1]
-
-## Version changes
-No reliable numbered factory revision history was established.
+## Circuit / topology
+- Mixed **Germanium + Silicon** transistor architecture.
+- The reviewed sources do not establish a specific commercial historical clone lineage.
 
 ## Transistor
-The exact-model sources explicitly identify a **germanium / silicon transistor combination**. Exact part numbers were not established. [1][2]
+- **Technology:** Hybrid Germanium/Silicon.
+- Exact individual transistor part numbers are not established. [1][2]
 
-## Diode
-No exact-model diode specification was established.
+## Diode / clipping
+- Exact clipping-device type and part number are not publicly documented.
+
+## Power
+- Exact model-specific voltage/current details are not securely preserved.
+
+## Construction / history
+- Handmade in **North Carolina**.
+- Mini-format enclosure.
+- 2010s-era production example documented. [1][2]
+
+## Version history
+- No numbered electronic revision established.
 
 ## Sound
-The Phoenix Fuzz is designed around a compact, vintage-style fuzz response. The combination of germanium and silicon transistor stages provides the builder with a mixed character, while the external-access bias trim allows adjustment of the circuit's operating point. [1][2]
+The Phoenix Fuzz is intended as a compact vintage-style fuzz. The mixed transistor technology gives it a combination of softer and firmer response characteristics, while the bias trim lets the operating point be adjusted. [1][2]
+
+## Research confidence
+- **Identity:** High
+- **Germanium/Silicon architecture:** High
+- **Bias trim:** High
+- **Handmade North Carolina production:** High
+- **Exact devices:** Unknown
+
+## Deep research verification
+The exact-model Reverb listing and contemporary Japanese coverage were cross-checked. The sources agree on the hybrid Germanium/Silicon construction, compact form and bottom-access bias control. [1][2]
 
 ## Sources checked
 1. Reverb — CheeseBlocks Effects Phoenix Fuzz: https://reverb.com/item/54087340-cheeseblocks-effects-phoenix-fuzz
-2. きになるおもちゃ — CheeseBlocks Effects Phoenix Fuzz coverage: https://toy-love.hatenablog.com/entry/20120505/1336225077
+2. きになるおもちゃ — Phoenix Fuzz coverage: https://toy-love.hatenablog.com/entry/20120505/1336225077
+
+## Photo
+- Exact-model photo status remains handled separately.
