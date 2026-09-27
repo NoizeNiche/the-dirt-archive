@@ -1,49 +1,61 @@
-# Beetronics FX - Vezzpa Octave Stinger
+# Beetronics FX — Vezzpa Octave Stinger
 
 ## PRP identity
 - **Archive parent:** Vezzpa Octave Stinger
 - **Builder:** Beetronics FX
 - **Catalog type:** Fuzz
-- **Identity:** Dual-mode gated/high-octave fuzz built around an op-amp circuit with a multifunction footswitch.
+- **Identity:** Dual-mode gated/high-octave fuzz with FUZZZZ and STINGER voices plus a multifunction footswitch. [1][2]
 
-## What this pedal is
-Vezzpa is a compact dual-mode fuzz. Its FUZZZZ mode produces thick gated fuzz, while STINGER emphasizes an aggressive high octave; the footswitch can toggle between modes or access them momentarily.
+## Controls / operation
+- **SUSTAIN:** Controls the amount/length of fuzz sustain.
+- **FUZZZZ mode:** Thick/gated fuzz voice.
+- **STINGER mode:** Aggressive high-octave voice.
+- Multifunction footswitch can switch or momentarily access the modes. [1]
 
-## Colorways
-- Standard production, Blackbee, Majin Bee, and multiple Custom Shop finishes are documented.
-- Finish editions are treated as cosmetic unless Beetronics documents an electrical change.
+## Circuit architecture
+- Beetronics describes Vezzpa as an op-amp-based fuzz design.
+- Two distinct operating voices share the core circuit.
+- Multifunction footswitch behavior is a significant part of the design.
 
-## Versions and factory options
-### Vezzpa Octave Stinger
-- SUSTAIN control
-- FUZZZZ mode
-- STINGER mode
-- Multi-function footswitch
-- 9V DC center-negative
-- Approximately 36mA current draw
-- True bypass
-- Approximately 5.5 x 3.5 x 2.75 inches
+## Active device
+- **Technology:** Op-amp-based fuzz.
+- Exact op-amp/device part number is not publicly documented.
 
-## Version changes
-Named limited/custom editions include Blackbee and Majin Bee presentations. The checked sources do not establish a numbered circuit revision of the standard Vezzpa.
+## Diode / clipping
+- Exact clipping-device type and part number are not publicly documented.
 
-## Transistor
-- **Technology:** Beetronics describes an op-amp-based circuit.
-- **Exact op-amp/device part number:** Not publicly documented in the checked sources.
+## Power
+- **9V DC, center-negative**.
+- Approximately **36 mA** current draw.
+- True bypass.
+- Approximate enclosure dimensions **5.5 × 3.5 × 2.75 in**. [1]
 
-## Diode
-- **Exact clipping/protection arrangement or diode part numbers:** Not publicly documented.
+## Version history
+- Standard Vezzpa.
+- Blackbee and Majin Bee editions.
+- These named editions are retained as cosmetic/edition variants unless Beetronics documents an electrical change.
+- No numbered standard electronic revision established.
 
 ## Sound
-FUZZZZ can move from sputtery textures into thick, gated high-gain fuzz as SUSTAIN rises. STINGER adds the pronounced upper-octave component, making the pedal much more cutting and synthetic when the octave voice is engaged.
+FUZZZZ moves from sputtery/gritty textures toward thicker gated fuzz as Sustain rises. STINGER adds the pronounced upper-octave component, creating a sharper, more synthetic high-frequency voice. [1][2]
+
+## Research confidence
+- **Identity:** High
+- **Dual-mode architecture:** High
+- **Op-amp technology:** High
+- **9V / 36mA:** High
+- **Exact active device:** Unknown
+- **Exact diode:** Unknown
+
+## Deep research verification
+Beetronics' standard Vezzpa page, Blackbee/Majin Bee editions and official demo were cross-checked. The evidence supports the two-mode design, multifunction footswitch, op-amp architecture and electrical specifications. [1][2][3]
 
 ## Sources checked
-1. Beetronics official Vezzpa: https://www.beetronicsfx.com/products/vezzpa-octave-stinger-babee-series
-2. Beetronics Blackbee Edition: https://www.beetronicsfx.com/products/vezzpa-octave-stinger-the-blackbee-edition
-3. Beetronics Majin Bee Limited Edition: https://www.beetronicsfx.com/products/vezzpa-octave-stinger-p-limited-edition-p-majin-bee
-4. Beetronics official Vezzpa demo: https://www.youtube.com/watch?v=geZIxSvRv94
+1. Beetronics FX — Vezzpa Octave Stinger: https://www.beetronicsfx.com/products/vezzpa-octave-stinger-babee-series
+2. Beetronics FX — Blackbee Edition: https://www.beetronicsfx.com/products/vezzpa-octave-stinger-the-blackbee-edition
+3. Beetronics FX — Majin Bee / official Vezzpa materials: https://www.beetronicsfx.com/products/vezzpa-octave-stinger-p-limited-edition-p-majin-bee
+4. Beetronics FX — Vezzpa demo: https://www.youtube.com/watch?v=geZIxSvRv94
 
 ## Photo
-- **Archive status:** **Exact Photo Attached to Public Catalog**
-- **Exact-model image:** https://www.beetronicsfx.com/cdn/shop/products/Vezzpa_01.jpg?v=1618614789&width=1500
-- **Source page:** https://www.beetronicsfx.com/products/vezzpa-octave-stinger-babee-series
+- **Exact pedal photograph:** Beetronics official Vezzpa image.
+- https://www.beetronicsfx.com/cdn/shop/products/Vezzpa_01.jpg?v=1618614789&width=1500
