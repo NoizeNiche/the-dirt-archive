@@ -1,6 +1,6 @@
 {
   "version": "data-20260924-prp1-cbs-arbiter-fuzz-phazer-direct-lead",
-  "count": 4137,
+  "count": 4138,
   "pedals": [
     {
       "company": "1981 Inventions",
@@ -55898,6 +55898,18 @@
       "source_page": "https://www.petecornish.co.uk/deluxeseries.html",
       "image": "",
       "research_record": "./research/pedals/Pete Cornish/NG-3.md",
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "JHS Pedals",
+      "pedal": "Twin Twelve",
+      "types": [
+        "Overdrive"
+      ],
+      "image": "",
+      "source_page": "https://jhspedals.info/collections/discontinued-rare?page=2",
+      "research_record": "./research/pedals/JHS Pedals/Twin Twelve.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED"
     }
