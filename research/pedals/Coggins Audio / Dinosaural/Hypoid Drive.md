@@ -36,3 +36,7 @@ Coggins Audio's current site presents Hypoid as part of the standalone-gain-stag
 ## Sources checked
 1. Effects Database — Dinosaural Hypoid Drive: https://www.effectsdatabase.com/model/dinosaural/hypoiddrive
 2. Coggins Audio — current site/history: https://cogginsaudio.co.uk/
+
+## Deep research verification
+
+This record was rechecked against the exact-model archival sources listed below during the September 2026 historical catalog sweep. The archive uses **Coggins Audio / Dinosaural** as the canonical builder identity, matching the builder master index, and does not treat the later Dinosaural-era names as a separate manufacturer.
