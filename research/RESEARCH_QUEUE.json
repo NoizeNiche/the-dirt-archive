@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-27T05:11:20.208027+00:00",
+  "generated_at": "2026-09-27T05:11:30.863944+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -9,193 +9,193 @@
     "researched": 3753,
     "pictured": 3054,
     "complete": 3054,
-    "research_pending": 63,
+    "research_pending": 0,
     "deep_research_pending": 2123,
     "deep_researched": 2014,
-    "surface_ready": 4074
+    "surface_ready": 4137
   },
   "next_target": {
-    "builder": "Dwarfcraft Devices / Benjamin Hinz and Louise Woletz Hinz",
-    "pedal": "Abaddon",
+    "builder": "Beetronics",
+    "pedal": "Abelha Tropical Fuzz",
     "catalog_type": "",
-    "research_record": "",
-    "research_level": "missing"
+    "research_record": "./research/pedals/Beetronics/Abelha Tropical Fuzz.md",
+    "research_level": "surface"
   },
   "working_set": [
     {
-      "builder": "Dwarfcraft Devices / Benjamin Hinz and Louise Woletz Hinz",
-      "pedal": "Abaddon",
+      "builder": "Beetronics",
+      "pedal": "Abelha Tropical Fuzz",
       "catalog_type": "",
-      "research_record": "",
-      "research_level": "missing"
+      "research_record": "./research/pedals/Beetronics/Abelha Tropical Fuzz.md",
+      "research_level": "surface"
     },
     {
-      "builder": "Dwarfcraft Devices / Benjamin Hinz and Louise Woletz Hinz",
-      "pedal": "Baby Thundaa / Baby Thunder",
+      "builder": "Beetronics",
+      "pedal": "Fatbee Overdrive",
       "catalog_type": "",
-      "research_record": "",
-      "research_level": "missing"
+      "research_record": "./research/pedals/Beetronics/Fatbee Overdrive.md",
+      "research_level": "surface"
     },
     {
-      "builder": "Dwarfcraft Devices / Benjamin Hinz and Louise Woletz Hinz",
-      "pedal": "Bit Mangler",
+      "builder": "Beetronics",
+      "pedal": "Octahive v2 High Octave Buzz",
       "catalog_type": "",
-      "research_record": "",
-      "research_level": "missing"
+      "research_record": "./research/pedals/Beetronics/Octahive v2 High Octave Buzz.md",
+      "research_level": "surface"
     },
     {
-      "builder": "Dwarfcraft Devices / Benjamin Hinz and Louise Woletz Hinz",
-      "pedal": "Dream Mangler",
+      "builder": "Beetronics",
+      "pedal": "Overhive Mid-Gain Overdrive",
       "catalog_type": "",
-      "research_record": "",
-      "research_level": "missing"
+      "research_record": "./research/pedals/Beetronics/Overhive Mid-Gain Overdrive.md",
+      "research_level": "surface"
     },
     {
-      "builder": "Dwarfcraft Devices / Benjamin Hinz and Louise Woletz Hinz",
-      "pedal": "Eau Claire Thunder",
+      "builder": "Beetronics",
+      "pedal": "Royal Jelly Fuzz/OD Blender",
       "catalog_type": "",
-      "research_record": "",
-      "research_level": "missing"
+      "research_record": "./research/pedals/Beetronics/Royal Jelly Fuzz/OD Blender.md",
+      "research_level": "surface"
     },
     {
-      "builder": "Dwarfcraft Devices / Benjamin Hinz and Louise Woletz Hinz",
-      "pedal": "Gears",
+      "builder": "Beetronics",
+      "pedal": "Swarm Fuzz Harmonizer",
       "catalog_type": "",
-      "research_record": "",
-      "research_level": "missing"
+      "research_record": "./research/pedals/Beetronics/Swarm Fuzz Harmonizer.md",
+      "research_level": "surface"
     },
     {
-      "builder": "Dwarfcraft Devices / Benjamin Hinz and Louise Woletz Hinz",
-      "pedal": "Hair of the Dog",
+      "builder": "Beetronics",
+      "pedal": "Tuna Fuzz",
       "catalog_type": "",
-      "research_record": "",
-      "research_level": "missing"
+      "research_record": "./research/pedals/Beetronics/Tuna Fuzz.md",
+      "research_level": "surface"
     },
     {
-      "builder": "Dwarfcraft Devices / Benjamin Hinz and Louise Woletz Hinz",
-      "pedal": "HAX",
+      "builder": "Beetronics",
+      "pedal": "Vezzpa Octave Stinger",
       "catalog_type": "",
-      "research_record": "",
-      "research_level": "missing"
+      "research_record": "./research/pedals/Beetronics/Vezzpa Octave Stinger.md",
+      "research_level": "surface"
     },
     {
-      "builder": "Dwarfcraft Devices / Benjamin Hinz and Louise Woletz Hinz",
-      "pedal": "Necromancer",
+      "builder": "Beetronics",
+      "pedal": "Wannabee Beelateral Buzz",
       "catalog_type": "",
-      "research_record": "",
-      "research_level": "missing"
+      "research_record": "./research/pedals/Beetronics/Wannabee Beelateral Buzz.md",
+      "research_level": "surface"
     },
     {
-      "builder": "Dwarfcraft Devices / Benjamin Hinz and Louise Woletz Hinz",
-      "pedal": "Reese Lightning",
+      "builder": "Big John Effects",
+      "pedal": "Hairy Balls",
       "catalog_type": "",
-      "research_record": "",
-      "research_level": "missing"
+      "research_record": "./research/pedals/PRP Batch 083/Hairy Balls.md",
+      "research_level": "surface"
     },
     {
-      "builder": "Dwarfcraft Devices / Benjamin Hinz and Louise Woletz Hinz",
-      "pedal": "Robot Devil",
+      "builder": "Big John Effects",
+      "pedal": "Lil' John series",
       "catalog_type": "",
-      "research_record": "",
-      "research_level": "missing"
+      "research_record": "./research/pedals/PRP Batch 083/Lil' John series.md",
+      "research_level": "surface"
     },
     {
-      "builder": "Dwarfcraft Devices / Benjamin Hinz and Louise Woletz Hinz",
-      "pedal": "Rot Yr Brain",
+      "builder": "Big John Effects",
+      "pedal": "Obama Wah",
       "catalog_type": "",
-      "research_record": "",
-      "research_level": "missing"
+      "research_record": "./research/pedals/PRP Batch 083/Obama Wah.md",
+      "research_level": "surface"
     },
     {
-      "builder": "Dwarfcraft Devices / Benjamin Hinz and Louise Woletz Hinz",
-      "pedal": "SheFuzz",
+      "builder": "Big John Effects",
+      "pedal": "Pocket Rocket",
       "catalog_type": "",
-      "research_record": "",
-      "research_level": "missing"
+      "research_record": "./research/pedals/PRP Batch 083/Pocket Rocket.md",
+      "research_level": "surface"
     },
     {
-      "builder": "Dwarfcraft Devices / Benjamin Hinz and Louise Woletz Hinz",
-      "pedal": "Silver Rose v2",
+      "builder": "Big Knob Pedals",
+      "pedal": "Appetite for Distortion",
       "catalog_type": "",
-      "research_record": "",
-      "research_level": "missing"
+      "research_record": "./research/pedals/PRP Batch 083/Appetite for Distortion.md",
+      "research_level": "surface"
     },
     {
-      "builder": "Dwarfcraft Devices / Benjamin Hinz and Louise Woletz Hinz",
-      "pedal": "Spectacular Aenima",
+      "builder": "Big Knob Pedals",
+      "pedal": "Black Metallic",
       "catalog_type": "",
-      "research_record": "",
-      "research_level": "missing"
+      "research_record": "./research/pedals/PRP Batch 083/Black Metallic.md",
+      "research_level": "surface"
     },
     {
-      "builder": "Dwarfcraft Devices / Benjamin Hinz and Louise Woletz Hinz",
-      "pedal": "Surrender Dorothy",
+      "builder": "Big Knob Pedals",
+      "pedal": "Blues Buster",
       "catalog_type": "",
-      "research_record": "",
-      "research_level": "missing"
+      "research_record": "./research/pedals/PRP Batch 083/Blues Buster.md",
+      "research_level": "surface"
     },
     {
-      "builder": "Dwarfcraft Devices / Benjamin Hinz and Louise Woletz Hinz",
-      "pedal": "The Great Destroyer",
+      "builder": "Big Knob Pedals",
+      "pedal": "Bushy Bison",
       "catalog_type": "",
-      "research_record": "",
-      "research_level": "missing"
+      "research_record": "./research/pedals/PRP Batch 083/Bushy Bison.md",
+      "research_level": "surface"
     },
     {
-      "builder": "Dwarfcraft Devices / Benjamin Hinz and Louise Woletz Hinz",
-      "pedal": "The Internet",
+      "builder": "Big Knob Pedals",
+      "pedal": "Civil Warp",
       "catalog_type": "",
-      "research_record": "",
-      "research_level": "missing"
+      "research_record": "./research/pedals/PRP Batch 083/Civil Warp.md",
+      "research_level": "surface"
     },
     {
-      "builder": "Dwarfcraft Devices / Benjamin Hinz and Louise Woletz Hinz",
-      "pedal": "The Secret Destroyer",
+      "builder": "Big Knob Pedals",
+      "pedal": "Colour Jumbo",
       "catalog_type": "",
-      "research_record": "",
-      "research_level": "missing"
+      "research_record": "./research/pedals/PRP Batch 083/Colour Jumbo.md",
+      "research_level": "surface"
     },
     {
-      "builder": "Dwarfcraft Devices / Benjamin Hinz and Louise Woletz Hinz",
-      "pedal": "Zhago",
+      "builder": "Big Knob Pedals",
+      "pedal": "Creamy Pi",
       "catalog_type": "",
-      "research_record": "",
-      "research_level": "missing"
+      "research_record": "./research/pedals/PRP Batch 083/Creamy Pi.md",
+      "research_level": "surface"
     },
     {
-      "builder": "Empress Effects Inc.",
-      "pedal": "Distortion",
+      "builder": "Big Knob Pedals",
+      "pedal": "D OverDrive 250",
       "catalog_type": "",
-      "research_record": "",
-      "research_level": "missing"
+      "research_record": "./research/pedals/PRP Batch 083/D OverDrive 250.md",
+      "research_level": "surface"
     },
     {
-      "builder": "Empress Effects Inc.",
-      "pedal": "Drive",
+      "builder": "Big Knob Pedals",
+      "pedal": "Fuzz Barn",
       "catalog_type": "",
-      "research_record": "",
-      "research_level": "missing"
+      "research_record": "./research/pedals/PRP Batch 083/Fuzz Barn.md",
+      "research_level": "surface"
     },
     {
-      "builder": "Empress Effects Inc.",
-      "pedal": "Fuzz",
+      "builder": "Big Knob Pedals",
+      "pedal": "Fuzz Space",
       "catalog_type": "",
-      "research_record": "",
-      "research_level": "missing"
+      "research_record": "./research/pedals/PRP Batch 083/Fuzz Space.md",
+      "research_level": "surface"
     },
     {
-      "builder": "Empress Effects Inc.",
-      "pedal": "Germ Drive",
+      "builder": "Big Knob Pedals",
+      "pedal": "Game of Tones",
       "catalog_type": "",
-      "research_record": "",
-      "research_level": "missing"
+      "research_record": "./research/pedals/PRP Batch 083/Game of Tones.md",
+      "research_level": "surface"
     },
     {
-      "builder": "Empress Effects Inc.",
-      "pedal": "Heavy",
+      "builder": "Big Knob Pedals",
+      "pedal": "Green Russian",
       "catalog_type": "",
-      "research_record": "",
-      "research_level": "missing"
+      "research_record": "./research/pedals/PRP Batch 083/Green Russian.md",
+      "research_level": "surface"
     }
   ]
 }
