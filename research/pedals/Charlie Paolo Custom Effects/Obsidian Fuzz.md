@@ -4,33 +4,45 @@
 - **Archive parent:** Obsidian Fuzz
 - **Builder:** Charlie Paolo Custom Effects
 - **Catalog type:** Fuzz
-- **Identity:** Charlie Paolo Custom Effects Obsidian Fuzz, a handmade analog fuzz using a BC108 transistor.
+- **Identity:** Handmade analog fuzz explicitly documented with a **BC108 transistor** and true bypass. [1]
 
-## What this pedal is
-The exact-model demo description states that the Obsidian Fuzz is a handmade analog fuzz designed as a vintage-style drive powerhouse. It explicitly identifies a **BC108 transistor** and true-bypass switching. [1]
+## Controls / architecture
+- Vintage-oriented fuzz circuit.
+- True bypass.
+- Exact external knob map is not fully preserved in the reviewed exact-model source. [1]
 
-Effects Database lists the Obsidian Fuzz as a Charlie Paolo Custom Effects pedal added in 2017. [2]
+## Circuit / active device
+- **BC108 transistor** is explicitly documented in the builder/demo material. [1]
+- The source describes the pedal as handmade and analog.
 
-## Colorways
-- The checked exact-model source does not establish a complete factory colorway sequence.
+## Diode / clipping
+- Exact clipping-device type and part number are not documented.
 
-## Versions and factory options
-The builder description establishes a handmade analog construction and true bypass. [1]
+## Power
+- Exact model-specific voltage/current information is not securely preserved.
 
-No formal numbered factory V1/V2 sequence was established.
-
-## Version changes
-No reliable numbered revision history was found.
-
-## Transistor
-**BC108** transistor explicitly documented for the Obsidian Fuzz. [1]
-
-## Diode
-No exact-model diode specification was established in the checked sources.
+## Version history
+- Effects Database places Obsidian Fuzz among the builder's **2017** releases. [2]
+- No numbered factory revision established.
 
 ## Sound
-The builder/demo description positions the Obsidian as a vintage-oriented fuzz with a strong, raw drive character rather than a highly filtered or compressed modern fuzz. [1]
+The builder/demo description positions Obsidian as a vintage-style fuzz with a strong, raw drive character. [1]
+
+## Research confidence
+- **Identity:** High
+- **BC108:** High
+- **Handmade/analog:** High
+- **True bypass:** High
+- **2017 release:** High
+- **Exact diode:** Unknown
+- **Exact control map:** Medium/unknown
+
+## Deep research verification
+Charlie Paolo's exact-model demonstration was cross-checked with Effects Database's 2017 release record. The builder source provides the BC108 and true-bypass facts; Effects Database independently confirms the model's catalog identity. [1][2]
 
 ## Sources checked
-1. Charlie Paolo Custom Effects Obsidian Fuzz demo — YouTube: https://www.youtube.com/watch?v=LFUXlbh25Tg
+1. Charlie Paolo Custom Effects — Obsidian Fuzz demo: https://www.youtube.com/watch?v=LFUXlbh25Tg
 2. Effects Database — Charlie Paolo Custom Effects Obsidian Fuzz: https://www.effectsdatabase.com/updates/weekly/20170904
+
+## Photo
+- Exact-model photo status remains handled separately.
