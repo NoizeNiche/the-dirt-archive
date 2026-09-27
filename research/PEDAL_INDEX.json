@@ -1,6 +1,6 @@
 {
   "version": "data-20260924-prp1-cbs-arbiter-fuzz-phazer-direct-lead",
-  "count": 4160,
+  "count": 4178,
   "pedals": [
     {
       "company": "1981 Inventions",
@@ -4606,6 +4606,179 @@
       "deep_research_status": "VERIFIED"
     },
     {
+      "company": "Ashdown Engineering",
+      "pedal": "ABM PRO-FX Double Shot",
+      "types": [
+        "Distortion",
+        "Overdrive"
+      ],
+      "image": null,
+      "source_page": "https://www.effectsdatabase.com/model/ashdown",
+      "research_record": "./research/pedals/Ashdown Engineering/ABM PRO-FX Double Shot.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Ashdown Engineering",
+      "pedal": "ABM PRO-FX Pro Drive",
+      "types": [
+        "Overdrive"
+      ],
+      "image": null,
+      "source_page": "https://www.effectsdatabase.com/model/ashdown",
+      "research_record": "./research/pedals/Ashdown Engineering/ABM PRO-FX Pro Drive.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Ashdown Engineering",
+      "pedal": "AGM PRO-FX Retro Drive",
+      "types": [
+        "Overdrive"
+      ],
+      "image": null,
+      "source_page": "https://www.effectsdatabase.com/model/ashdown",
+      "research_record": "./research/pedals/Ashdown Engineering/AGM PRO-FX Retro Drive.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Ashdown Engineering",
+      "pedal": "AGM PRO-FX Vintage Fuzz",
+      "types": [
+        "Fuzz"
+      ],
+      "image": null,
+      "source_page": "https://www.effectsdatabase.com/model/ashdown",
+      "research_record": "./research/pedals/Ashdown Engineering/AGM PRO-FX Vintage Fuzz.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Ashdown Engineering",
+      "pedal": "Bass Drive Plus",
+      "types": [
+        "Distortion",
+        "Overdrive"
+      ],
+      "image": null,
+      "source_page": "https://www.effectsdatabase.com/model/ashdown",
+      "research_record": "./research/pedals/Ashdown Engineering/Bass Drive Plus.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Ashdown Engineering",
+      "pedal": "Geezer Butler Pedal Of Doom",
+      "types": [
+        "Distortion",
+        "Overdrive"
+      ],
+      "image": null,
+      "source_page": "https://www.effectsdatabase.com/model/ashdown",
+      "research_record": "./research/pedals/Ashdown Engineering/Geezer Butler Pedal Of Doom.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Ashdown Engineering",
+      "pedal": "James LoMenzo Hyper Drive",
+      "types": [
+        "Distortion",
+        "Overdrive"
+      ],
+      "image": null,
+      "source_page": "https://www.effectsdatabase.com/model/ashdown",
+      "research_record": "./research/pedals/Ashdown Engineering/James LoMenzo Hyper Drive.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Ashdown Engineering",
+      "pedal": "James LoMenzo Mega Drive",
+      "types": [
+        "Distortion",
+        "Overdrive"
+      ],
+      "image": null,
+      "source_page": "https://www.effectsdatabase.com/model/ashdown",
+      "research_record": "./research/pedals/Ashdown Engineering/James LoMenzo Mega Drive.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Ashdown Engineering",
+      "pedal": "JM John Myung Double Drive",
+      "types": [
+        "Distortion"
+      ],
+      "image": null,
+      "source_page": "https://www.effectsdatabase.com/model/ashdown",
+      "research_record": "./research/pedals/Ashdown Engineering/JM John Myung Double Drive.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Ashdown Engineering",
+      "pedal": "NM2 Nate Mendel Double Distortion",
+      "types": [
+        "Distortion"
+      ],
+      "image": null,
+      "source_page": "https://www.effectsdatabase.com/model/ashdown/nm2",
+      "research_record": "./research/pedals/Ashdown Engineering/NM2 Nate Mendel Double Distortion.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Ashdown Engineering",
+      "pedal": "OriginAL - Valve-Pre DI",
+      "types": [
+        "Overdrive"
+      ],
+      "image": null,
+      "source_page": "https://www.effectsdatabase.com/model/ashdown/origin",
+      "research_record": "./research/pedals/Ashdown Engineering/OriginAL - Valve-Pre DI.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Ashdown Engineering",
+      "pedal": "OriginAL Norman Watt-Roy Pre-DI",
+      "types": [
+        "Overdrive"
+      ],
+      "image": null,
+      "source_page": "https://www.effectsdatabase.com/model/ashdown/original/wattroy",
+      "research_record": "./research/pedals/Ashdown Engineering/OriginAL Norman Watt-Roy Pre-DI.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Ashdown Engineering",
+      "pedal": "Pro-DI",
+      "types": [
+        "Overdrive"
+      ],
+      "image": null,
+      "source_page": "https://www.effectsdatabase.com/model/ashdown/prodi",
+      "research_record": "./research/pedals/Ashdown Engineering/Pro-DI.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Ashdown Engineering",
+      "pedal": "Triple Shot - Blended Drive",
+      "types": [
+        "Overdrive"
+      ],
+      "image": null,
+      "source_page": "https://www.effectsdatabase.com/model/ashdown",
+      "research_record": "./research/pedals/Ashdown Engineering/Triple Shot - Blended Drive.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
       "company": "Asheville Guitar Pedals",
       "pedal": "Fuzz Driver Distortion",
       "types": [
@@ -6689,6 +6862,30 @@
       "image_source_url": "https://www.baeaudio.com/images/Bi-Polar-PSU/bi-polar-psu-back.jpg",
       "research_level": "deep",
       "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "BAE Audio",
+      "pedal": "Hot Fuzz",
+      "types": [
+        "Fuzz"
+      ],
+      "image": null,
+      "source_page": "https://ww.baeaudio.com/hot-fuzz/",
+      "research_record": "./research/pedals/BAE Audio/Hot Fuzz.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "BAE Audio",
+      "pedal": "Tonestack Fuzz",
+      "types": [
+        "Fuzz"
+      ],
+      "image": null,
+      "source_page": "https://www.baeaudio.com/",
+      "research_record": "./research/pedals/BAE Audio/Tonestack Fuzz.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
     },
     {
       "company": "Baja Tech Custom",
@@ -56179,6 +56376,32 @@
       "research_record": "./research/pedals/Benson Amps/Chimera Fuzz.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "Case Study Effects",
+      "pedal": "Aspen Overdrive",
+      "types": [
+        "Overdrive",
+        "Distortion",
+        "Fuzz"
+      ],
+      "image": null,
+      "source_page": "https://casestudyeffects.co/",
+      "research_record": "./research/pedals/Case Study Effects/Aspen Overdrive.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Case Study Effects",
+      "pedal": "Lastlight Overdrive",
+      "types": [
+        "Overdrive"
+      ],
+      "image": null,
+      "source_page": "https://www.effectsdatabase.com/model/casestudy/lastlight",
+      "research_record": "./research/pedals/Case Study Effects/Lastlight Overdrive.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
     }
   ],
   "photo_architecture": "local-first"
