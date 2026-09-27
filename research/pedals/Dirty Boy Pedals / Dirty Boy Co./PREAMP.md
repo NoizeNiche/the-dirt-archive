@@ -1,23 +1,36 @@
 # Dirty Boy Pedals / Dirty Boy Co. — PREAMP
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** PREAMP
 - **Builder:** Dirty Boy Pedals / Dirty Boy Co.
-- **Pedal:** PREAMP
 - **Catalog type:** Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Dirty Boy Pedals / Dirty Boy Co.'s PREAMP.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **PREAMP** by **Dirty Boy Pedals / Dirty Boy Co.** as a **Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+The new DIRTY BOY preamp, is powered by T.A.E.
 
-## Catalog source
-- Catalog source page on file: https://www.dirtyboy.co/products/dirtyboy-preamp
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+Based on the classic amplifier designed by Alex Saraceno and used by legendary Blues Saraceno, DIRTY BOY is a fully analog amplifier simulator for LINE connection, a highly detailed preamp to your amp´s FX LOOP, or even an impressive tube-sounding booster/overdrive to your amp´s INPUT.
+
+## Sources checked
+1. PREAMP &ndash; Dirty Boy Co.: https://www.dirtyboy.co/products/dirtyboy-preamp
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

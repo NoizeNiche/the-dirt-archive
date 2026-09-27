@@ -1,24 +1,38 @@
-# Does It Doom? - Fuzzcoven
+# Does It Doom? — Fuzzcoven
 
 ## PRP identity
-- Builder: Does It Doom?
-- Catalog type: Fuzz
-- Identity: Fuzzcoven, a one-knob silicon fuzz.
+- **Archive parent:** Fuzzcoven
+- **Builder:** Does It Doom?
+- **Catalog type:** Fuzz
+- **Identity:** Does It Doom?'s Fuzzcoven.
 
 ## What this pedal is
-Does It Doom?'s official product page explicitly identifies Fuzzcoven as a silicon fuzz.
+From Kyuss to Conan and everything in between, the Fuzzcoven is extremely responsive to your guitar’s volume and tone control settings, with the ability to go from a thick, saturated fuzz to glassy cleans with the roll of a knob.
 
-## Controls / circuit
-- One external control.
-- Silicon fuzz architecture.
-- Exact transistor and diode part numbers are not established.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Documented terms in the verified sources: LED.
+- The archive records only the component information explicitly present in these sources.
 
 ## Sound
-The builder describes a fuzz-forward distortion character within the doom/stoner pedal context.
+This circuit produces massive sustain and wooly, distortion-like fuzz, ideal for downtuned guitar and bass.
+From Kyuss to Conan and everything in between, the Fuzzcoven is extremely responsive to your guitar’s volume and tone control settings, with the ability to go from a thick, saturated fuzz to glassy cleans with the roll of a knob.
+Controls Fuzz: Controls the overall output volume of the fuzz.
 
 ## Sources checked
-1. Does It Doom? pedal catalog: https://doesitdoom.com/product-category/pedals/
-2. Does It Doom? Fuzzcoven: https://doesitdoom.com/product/fuzzcoven/
+1. Fuzzcoven - Does It Doom?: https://doesitdoom.com/product/fuzzcoven/
 
 ## Photo
-- Exact photo pending.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
