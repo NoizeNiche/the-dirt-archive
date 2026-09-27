@@ -46,3 +46,18 @@ Black Howler creates repeatable volume swells with controlled rise time, returni
 ## Sources checked
 1. Effects Database - Copper Gear Black Howler: https://www.effectsdatabase.com/model/coppergear/blackhowler
 2. Effects Database - Copper Gear: Steve Goldsborough interview: https://www.effectsdatabase.com/interviews/brands/coppergear
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+The Black Howler is somewhere inbetween.
+
+### Verified color/finish evidence
+- The Black Howler is somewhere inbetween.
+- The big difference though is when you set up the Black Howler the way you want it it will repeat those setting of intensity and time delay exactly every single time you hold the switch down.
+- And since we named it the Black Howler we decided to leave the writing off and keep it a black on black on black design.
+
+### Sources checked in this pass
+1. Copper Gear Black Howler | Effects Database: https://www.effectsdatabase.com/model/coppergear/blackhowler

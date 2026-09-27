@@ -32,3 +32,13 @@ A detailed model-specific tonal description was not securely recovered from the 
 ## Sources checked
 1. Effects Database — ColdCraft July 2013 additions: https://www.effectsdatabase.com/updates/weekly/20130715
 2. Pedais & Efeitos — ColdCraft interview: https://pedaiseefeitos.com/entrevista/entrevista-coldcraft-effects/
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+ColdCraft Effects's Black Lime IC Fuzz is cataloged as a fuzz pedal.
+
+### Sources checked in this pass
+1. Weekly overview (2013, week 28): 9 new brands and 101 new pedals | Effects Database: https://www.effectsdatabase.com/updates/weekly/20130715

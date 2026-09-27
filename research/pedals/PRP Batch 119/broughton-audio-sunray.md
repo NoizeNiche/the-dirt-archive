@@ -28,3 +28,15 @@ The archive confirms Sunray as an overdrive project but does not preserve enough
 
 ## Sources checked
 1. Broughton Audio Pedal Archive: https://www.broughtonaudio.com/archive
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Broughton Audio's Sunray is cataloged as an overdrive pedal.
+
+### Sources checked in this pass
+1. Sunray | Broughton Audio: https://www.broughtonaudio.com/product-page/sunray-tube-od
+2. Broughton Audio Sunray - Reverb: https://reverb.com/p/broughton-audio-sunray
+3. SoundCloud - Hear the world’s sounds: https://soundcloud.com/r909/broughton-audio-sunray-bass-riff

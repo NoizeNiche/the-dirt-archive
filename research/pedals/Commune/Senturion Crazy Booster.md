@@ -49,3 +49,19 @@ The Moby Dick/Commune archive identifies the exact model, and used-market source
 1. Asagi Bass Studio - Senturion Crazy Booster review: https://www.asagi-bass.com/entry/crazybooster
 2. 2nd STREET - Commune SENTURION CRAZY BOOSTER used listing: https://www.2ndstreet.jp/goods/detail/goodsId/2338770068509/shopsId/31274
 3. Moby Dick - Commune catalog: https://www.mobydick.asia/cf.html
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Commune's Senturion Crazy Booster is cataloged as a fuzz pedal.
+
+### Verified version references
+- The evidence references: v2.
+
+### Sources checked in this pass
+1. Commune SENTURION CRAZY BOOSTERの検索結果 | ギター、アコギ、管楽器などを扱う全国12店舗の楽器店。中古楽器は常時7千点以上の在庫量: https://store.ishibashi.co.jp/search?q=Commune+SENTURION+CRAZY+BOOSTER&path=&limit=72&sort=Score
+2. Commune SENTURION CRAZY BOOSTER 商品一覧｜イケベ楽器店オンラインストア: https://www.ikebe-gakki.com/Form/Product/ProductList.aspx?shop=0&cat=&bid=ec&dpcnt=20&img=1&sort=07&swrd=Commune+SENTURION+CRAZY+BOOSTER&udns=1&fpfl=0&sfl=0&pno=1&a8=BLiC0Lqg7flEyFN2Ne52ghFRbEhSwh5M8e52qZGcb2-g7KioDKlEyflRJfkMUMl5y2WfsTiryLiCPs00000025975001
+3. メルカリ: https://jp.mercari.com/search?keyword=Commune%20SENTURION%20CRAZY%20BOOSTER&afid=a8001&a8=9b0ndbI3q-puf-Zi4rZAI3ZqR0SmT0ziPrZUIXzjKU83qW0OiWpue-pVh-o474pZeUB-_t0Qeb0nNs00000026135001
+4. 【レビュー】Commune SENTURION CRAZY BOOSTER - あさぎベーススタジオ: https://www.asagi-bass.com/entry/crazybooster

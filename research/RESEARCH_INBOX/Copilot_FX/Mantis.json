@@ -1,0 +1,25 @@
+{
+  "builder": "Copilot FX",
+  "pedal": "Mantis",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 2,
+  "sources": [
+    {
+      "url": "https://copilotfx.com/mantis.pdf",
+      "title": "catalog/override source",
+      "h1": "",
+      "excerpt": "",
+      "host": "copilotfx.com",
+      "source_kind": "manufacturer"
+    },
+    {
+      "url": "https://www.copilotfx.com/mantis2.html",
+      "title": "Copilot Fx Mantis synth octave down Pedal",
+      "h1": "",
+      "excerpt": "Copilot Fx Mantis synth octave down Pedal Home Blog Products Store Retailers About Forum Contact About Sub Synth attack, the Mantis is a multivoice octave down square wave fuzz, this is the revamped version that offers straight fuzz voice, one octave down voice and two octaves down, each octave voice have the option to change the pulse width and the 3 voices are independent (vol knobs to mix them to taste) giving lots of options to customize your sound from massive sub synth tones to thin bleeps to heavy gated fuzz. 2 expression / CV jacks to control the pulse width of each octaves allowing the option to create PWM for more sonic options. This version can get into the territory of the previous 5 knob version but it performs with more stability and the pulse width adds a lot of versatility, specially to stack with delays and low pass filters. Controls Range \u25bc: Pulse width amount of the one octave down voice. \u25bc: Octave down voice volume control. Range \u25bc\u25bc: Pulse width amount of the two octaves down voice. \u25bc\u25bc: Two octaves down voice volume control. Vol: Unison fuzz volume. Gate: input sensibility. Exp / CV Jack: external control of the pulse widths of both octave down voices, via TRS expression pedal or 0-5v cv signal. Specs Silk Screened artwork with enamel ink into a powder coated aluminium case Dimensions: 4.5&quot; x 2 1/2&quot; x 2 1/2&quot; Powered only by DC 9v power Jack (center negative), no batteries option Expression Jack: external control of pulse width of the octave down voices via TRS expression jack or 0-5v CV signal. Compatible with the Broadcast , Broadband and Bandwidth Search the blog Mutations / Variations / Inventions / based around the Mantis Manual Manual &copy; Copilot fx Instagram Facebook",
+      "host": "www.copilotfx.com",
+      "source_kind": "manufacturer"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}

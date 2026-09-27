@@ -40,3 +40,28 @@ The manufacturer’s FZ information page identifies the pedal as the Sparks Seri
 2. Effects Database - Collision Devices FZ - Gated Fuzz / Distortion: https://www.effectsdatabase.com/model/collision/fz
 3. Perfect Circuit - Collision Devices FZ demo/product details: https://www.perfectcircuit.com/collision-devices-fz-demo.html
 4. Moog Audio - Collision Devices FZ - Gated Fuzz / Distortion: https://moogaudio.com/products/collision-devices-fz-gated-fuzz-distortion-pedal
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Collision Devices's FZ - Gated Fuzz / Distortion is cataloged as a distortion / fuzz pedal.
+
+### Verified color/finish evidence
+- Part of Collision Devices' Sparks Series, the FZ is inspired by the Maestro Boss Tone and the fuzz section of the Black Hole Symmetry, while being developed and hand assembled by Collision Devices in France.
+
+### Verified version references
+- The evidence references: v1.
+
+### Verified transistor/device terms
+- silicon transistor.
+
+### Verified sound evidence
+Collision Devices Collision Devices FZ - Gated Fuzz / Distortion
+At lower gain settings it produces warm, round overdrive and classic rock grit, while higher settings unleash aggressive, shoegaze styled walls of fuzz and sputtery gated tones.
+A bias based gate control allows players to move from tight, choked fuzz to open sustaining sounds.
+
+### Sources checked in this pass
+1. Collision Devices FZ - Gated Fuzz / Distortion Pedal: https://moogaudio.com/products/collision-devices-fz-gated-fuzz-distortion-pedal
+2. Collision Devices Collision Devices FZ - Gated Fuzz / Distortion | Effects Database: https://www.effectsdatabase.com/model/collision/fz

@@ -36,3 +36,21 @@ Palindrome is intentionally open and transparent rather than strongly mid-humped
 
 ## Sources checked
 1. Collateral FX - P028 Palindrome Dual Overdrive: https://collateralfx.com/br/pedais/p028-palindrome-dual-overdrive/
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Collateral FX's P028 Palindrome Dual Overdrive is cataloged as an overdrive pedal.
+
+### Verified version references
+- The evidence references: V1.
+
+### Verified sound evidence
+P028 - Palindrome Dual Overdrive - Collateral FX 5% DE DESCONTO VIA PIX EM TODO O SITE 5% OFF PIX
+Sobre nós Pedais Boost Buffer Chorus Compressor Distortion Fuzz Modulation Overdrive Preamp Vibe Vibrato Minha conta Depoimentos Pesquisar 0 Carregando conteúdo do carrinho...
+Com seletores de clipagem (Clean Boost, Soft Clipping e Hard Clipping), controle de Presence e operação de 9V a 18V, oferece um voicing aberto e transparente, perfeito para empilhar ganhos com máxima articulação do Jazz ao Hard Rock.
+
+### Sources checked in this pass
+1. P028 - Palindrome Dual Overdrive - Collateral FX: https://collateralfx.com/br/pedais/p028-palindrome-dual-overdrive/

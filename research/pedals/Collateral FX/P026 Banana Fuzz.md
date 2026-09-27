@@ -40,3 +40,21 @@ The pedal is intended to provide the sustain, dynamic response, and cleanup asso
 
 ## Sources checked
 1. Collateral FX - P026 Banana Fuzz: https://collateralfx.com/en/pedals/p026-banana-fuzz/
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Collateral FX's P026 Banana Fuzz is cataloged as a fuzz pedal.
+
+### Verified transistor/device terms
+- silicon transistors, germanium transistor, germanium fuzz.
+
+### Verified sound evidence
+Recommended for – Discerning guitarists looking for a fuzz full of mojo, personality, and history — but one that sounds great in a tropical climate.
+The key difference lies in how these transistors are selected: they are meticulously tested and chosen based on their gain and leakage current, taking into account our tropical climate.
+In other words, your expensive imported germanium fuzz doesn’t sound here the way it was designed to sound in a cold-climate country.
+
+### Sources checked in this pass
+1. P026 – Banana Fuzz – Collateral FX: https://collateralfx.com/en/pedals/p026-banana-fuzz/

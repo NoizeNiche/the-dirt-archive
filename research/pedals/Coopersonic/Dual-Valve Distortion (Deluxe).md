@@ -43,3 +43,21 @@ Coopersonic describes the Deluxe as subtler and smoother than the regular versio
 1. Coopersonic - Dual-Valve Distortion (Deluxe): https://coopersonic.com/product/dual-valve-distortion-deluxe/
 2. Coopersonic FAQ Pedals: https://coopersonic.com/faq-pedals/
 3. Coopersonic Dual Valve Distortion manual: https://coopersonic.com/wp-content/uploads/2019/10/Coopersonic_Dual_Valve_Distortion_Manual.pdf
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Home / distortion / Dual-Valve Distortion (Deluxe) Dual-Valve Distortion (Deluxe) £ 270.00 The Dual Valve Distortion is offered in two versions, the regular one with Soviet Military 6N2P-EV valves and this, the Deluxe version.
+
+### Verified diode terms
+- LED.
+
+### Verified sound evidence
+Dual-Valve Distortion (Deluxe) – coopersonic coopersonic hand-built, high-quality effects pedals Pig Fuzz now available, it’s sick… Plenty of Germaniacs in stock.
+Home / distortion / Dual-Valve Distortion (Deluxe) Dual-Valve Distortion (Deluxe) £ 270.00 The Dual Valve Distortion is offered in two versions, the regular one with Soviet Military 6N2P-EV valves and this, the Deluxe version.
+The Deluxe version replaces our “Deluxe Valve Overdrive”, and has vintage Mullard ECC81 valves fitted, and some component changes.
+
+### Sources checked in this pass
+1. Dual-Valve Distortion (Deluxe) – coopersonic: https://coopersonic.com/product/dual-valve-distortion-deluxe/

@@ -49,3 +49,14 @@ Rockbox/Comodoro and Reverb provide exact-model Botfly Fuzz product photographs.
 1. Reverb - Comodoro Botfly Fuzz: https://reverb.com/item/79907815-comodoro-botfly-fuzz
 2. Guitar Center - Used Comodoro Pedales Botfly Fuzz: https://www.guitarcenter.com/Comodoro-Pedales/Used-Comodoro-Pedales-Botfly-Fuzz-Effect-Pedal.gc
 3. Rockbox - Botfly Fuzz Ltd.: https://rockbox.es/529-jewels
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Comodoro Pedales's Botfly Fuzz is cataloged as a fuzz pedal.
+
+### Sources checked in this pass
+1. catalog/override source: https://www.guitarcenter.com/Comodoro-Pedales/Used-Comodoro-Pedales-Botfly-Fuzz-Effect-Pedal.gc
+2. catalog/override source: https://reverb.com/item/79907815-comodoro-botfly-fuzz

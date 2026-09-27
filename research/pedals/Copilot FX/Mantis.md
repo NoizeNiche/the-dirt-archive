@@ -57,3 +57,17 @@ The Mantis combines straight fuzz with one- and two-octave-down voices. The manu
 3. Effects Database octave fuzz catalog: https://www.effectsdatabase.com/type/octave/fuzz/1down
 4. Copilot FX Mantis II page: https://www.copilotfx.com/mantis2.html
 5. Effects Database - Copilot FX: Adam Romero interview: https://www.effectsdatabase.com/interviews/brands/copilot
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Copilot FX's Mantis is cataloged as a fuzz pedal.
+
+### Verified color/finish evidence
+- Specs Silk Screened artwork with enamel ink into a powder coated aluminium case Dimensions: 4.5" x 2 1/2" x 2 1/2" Powered only by DC 9v power Jack (center negative), no batteries option Expression Jack: external control of pulse width of the octave down voices via TRS expression jack or 0-5v CV signal.
+
+### Sources checked in this pass
+1. catalog/override source: https://copilotfx.com/mantis.pdf
+2. Copilot Fx Mantis synth octave down Pedal: https://www.copilotfx.com/mantis2.html

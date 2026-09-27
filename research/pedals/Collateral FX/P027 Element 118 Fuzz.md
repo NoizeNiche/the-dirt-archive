@@ -37,3 +37,18 @@ Element 118 is voiced for very high gain, dense sustain, and an abrasive wall of
 
 ## Sources checked
 1. Collateral FX - P027 Element 118 Fuzz: https://collateralfx.com/br/pedais/p027-element-118-fuzz/
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Collateral FX's P027 Element 118 Fuzz is cataloged as a fuzz pedal.
+
+### Verified sound evidence
+P027 - Element 118 Fuzz - Collateral FX 5% DE DESCONTO VIA PIX EM TODO O SITE 5% OFF PIX
+Sobre nós Pedais Boost Buffer Chorus Compressor Distortion Fuzz Modulation Overdrive Preamp Vibe Vibrato Minha conta Depoimentos Pesquisar 0 Carregando conteúdo do carrinho...
+Carrinho 0 Alternar Menu Sobre nós Pedais Boost Buffer Chorus Compressor Distortion Fuzz Modulation Overdrive Preamp Vibe Vibrato Minha conta Depoimentos + + + + P027 – Element 118 Fuzz O Element 118 Fuzz é inspirado na densidade e peso do elemento Oganessônio.
+
+### Sources checked in this pass
+1. P027 - Element 118 Fuzz - Collateral FX: https://collateralfx.com/br/pedais/p027-element-118-fuzz/

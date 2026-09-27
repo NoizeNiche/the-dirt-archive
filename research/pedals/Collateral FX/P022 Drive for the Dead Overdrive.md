@@ -38,3 +38,18 @@ The Deaf mode is intended for lower-gain classic-rock, blues, and preamp use, wh
 
 ## Sources checked
 1. Collateral FX - P022 Drive for the Dead: https://collateralfx.com/en/pedals/p022-drive-for-the-dead/
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Collateral FX's P022 Drive for the Dead Overdrive is cataloged as an overdrive pedal.
+
+### Verified sound evidence
+P022 - Drive for the Dead Overdrive - Collateral FX 5% DE DESCONTO VIA PIX EM TODO O SITE 5% OFF PIX
+Sobre nós Pedais Boost Buffer Chorus Compressor Distortion Fuzz Modulation Overdrive Preamp Vibe Vibrato Minha conta Depoimentos Pesquisar 0 Carregando conteúdo do carrinho...
+R$ 815.00 no pix ou em até 12x c/ juros no cartão P022 - Drive for the Dead Overdrive quantidade Adicionar ao carrinho Simulação de frete Descrição Drive for the Dead Overdrive
+
+### Sources checked in this pass
+1. P022 - Drive for the Dead Overdrive - Collateral FX: https://collateralfx.com/br/pedais/p022-drive-for-the-dead-overdrive/

@@ -41,3 +41,18 @@ Coopersonic describes very high gain, with instability at high settings that can
 
 ## Sources checked
 1. Coopersonic - Pig Fuzz: https://coopersonic.com/product/spam-fuzz/
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Coopersonic's Pig Fuzz is cataloged as a fuzz pedal.
+
+### Verified sound evidence
+Pig Fuzz – coopersonic coopersonic hand-built, high-quality effects pedals Pig Fuzz now available, it’s sick… Plenty of Germaniacs in stock.
+The can has then been filled with a silicon fuzz circuit based on the renowned Jordan Boss Tone, but with a high impedance FET buffer, bigger capacitors for a fatter sound and of course like most things Coopersonic, stupid amounts of gain.
+This will get quite unstable at high gain giving low octaves and brutal fuzz.
+
+### Sources checked in this pass
+1. Pig Fuzz – coopersonic: https://coopersonic.com/product/spam-fuzz/

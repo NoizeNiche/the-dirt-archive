@@ -36,3 +36,21 @@ Touchstone targets the open, articulate TS-10 response while retaining the Tube 
 
 ## Sources checked
 1. Collateral FX - P032 Touchstone Overdrive: https://collateralfx.com/br/pedais/p032-touchstone-overdrive/
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Collateral FX's P032 Touchstone Overdrive is cataloged as an overdrive pedal.
+
+### Verified color/finish evidence
+- P014 – Red Giant Distortion Distortion , Overdrive , Pr
+
+### Verified sound evidence
+P032 - Touchstone Overdrive - Collateral FX 5% DE DESCONTO VIA PIX EM TODO O SITE 5% OFF PIX
+Sobre nós Pedais Boost Buffer Chorus Compressor Distortion Fuzz Modulation Overdrive Preamp Vibe Vibrato Minha conta Depoimentos Pesquisar 0 Carregando conteúdo do carrinho...
+Carrinho 0 Alternar Menu Sobre nós Pedais Boost Buffer Chorus Compressor Distortion Fuzz Modulation Overdrive Preamp Vibe Vibrato Minha conta Depoimentos + + + P032 – Touchstone Overdrive O Touchstone Overdrive é a nossa reprodução fiel do raro e cobiçado Ibanez TS-10 (1986).
+
+### Sources checked in this pass
+1. P032 - Touchstone Overdrive - Collateral FX: https://collateralfx.com/br/pedais/p032-touchstone-overdrive/

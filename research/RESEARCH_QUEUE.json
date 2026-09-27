@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-27T10:25:37.258131+00:00",
+  "generated_at": "2026-09-27T10:28:44.266589+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,8 +10,8 @@
     "pictured": 3133,
     "complete": 3133,
     "research_pending": 0,
-    "deep_research_pending": 1397,
-    "deep_researched": 2845,
+    "deep_research_pending": 1355,
+    "deep_researched": 2887,
     "surface_ready": 4242
   },
   "next_target": {
@@ -83,13 +83,6 @@
       "pedal": "DN-2 Dyna Drive",
       "catalog_type": "",
       "research_record": "./research/pedals/BOSS/DN-2 Dyna Drive.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "BOSS",
-      "pedal": "DS-1-4A 40th Anniversary Distortion",
-      "catalog_type": "",
-      "research_record": "./research/pedals/BOSS/DS-1-4A 40th Anniversary Distortion.md",
       "research_level": "surface"
     },
     {
@@ -195,6 +188,13 @@
       "pedal": "WEM Pepbox - Official Reissue",
       "catalog_type": "",
       "research_record": "./research/pedals/PRP Batch 115/brantone-electronics-wem-pepbox-official-reissue.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Brimstone Audio",
+      "pedal": "BL-1 Basilisk",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 117/brimstone-audio-bl-1-basilisk.md",
       "research_level": "surface"
     }
   ]

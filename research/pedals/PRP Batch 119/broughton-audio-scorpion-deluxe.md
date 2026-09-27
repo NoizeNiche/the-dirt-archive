@@ -29,3 +29,19 @@ The archive establishes Scorpion Deluxe as an overdrive project but not enough t
 
 ## Sources checked
 1. Broughton Audio Pedal Archive, page 3: https://www.broughtonaudio.com/archive?page=3
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Broughton Audio's Scorpion Deluxe is cataloged as an overdrive pedal.
+
+### Verified sound evidence
+A dedicated depth control dictates low-frequency clipping, scaling from transparent harmonic grit to thick, saturated distortion.
+The overdrive section uses independent footswitching, letting users engage or disengage the distortion matrix while completely retaining their core equalizer and cabinet filter settings.
+
+### Sources checked in this pass
+1. Scorpion Deluxe | Broughton Audio: https://www.broughtonaudio.com/product-page/scorpion-deluxe
+2. Broughton Audio Scorpion Deluxe - Reverb: https://reverb.com/item/102230587-broughton-audio-scorpion-deluxe
+3. Scorpion Deluxe by Broughton Audio | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/Broughton-Audio/Scorpion-Deluxe/8581281681/

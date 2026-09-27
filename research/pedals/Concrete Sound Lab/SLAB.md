@@ -54,3 +54,23 @@ The Concrete Sound Lab product page and Effects Database maintain exact SLAB rec
 1. Concrete Sound Lab - SLAB: https://www.concretesoundlab.com/shop/p/product-1-ydar7-e8mlb-r2y28-3h5pd
 2. Effects Database - Concrete Sound Lab Slab: https://www.effectsdatabase.com/model/concrete/slab
 3. Guitar Pedal X - Concrete Sound Lab Slab: https://www.guitarpedalx.com/news/gpx-blog/concrete-sound-labs-first-release-the-slab-jfet-preamp-and-boost-is-a-beautifully-versatile-boost-overdrive-distortion-and-fuzz-multi-gain-pedal
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+The Slab is really well priced at $200 from the Concrete Sound Lab Webstore - I will very much be coming for one of these before long.
+
+### Verified version references
+- The evidence references: V2.
+
+### Verified sound evidence
+It has a Purple marbled paint job, silver-top Boss-style knobs and six controls: Pre-Gain Low, Pre-Gain High, Gain, Boost, Tone (Post-gain LPF) and Level, plus Boost and Main Bypass footswitches.
+Boost independence is unclear, and touch-sensitivity and dynamics cannot be established without hands-on use.
+This is a very straightforward discrete circuit with 6 intuitive controls : Controls - Pre-Gain Low, Pre-Gain High, Gain, Boost, Tone (Post-gain LPF), Level, Boost Footswitch, Main Bypass Footswitch.
+
+### Sources checked in this pass
+1. Guitar Pedal X - GPX Blog - Concrete Sound Lab's first release - the Slab JFET Preamp and Boost is a beautifully versatile Boost, Overdrive, Distortion and Fuzz - Multi-Gain Pedal: https://www.guitarpedalx.com/news/gpx-blog/concrete-sound-labs-first-release-the-slab-jfet-preamp-and-boost-is-a-beautifully-versatile-boost-overdrive-distortion-and-fuzz-multi-gain-pedal
+2. Concrete Sound Lab Slab | Effects Database: https://www.effectsdatabase.com/model/concrete/slab
+3. SLAB &mdash; Concrete Sound Lab: https://www.concretesoundlab.com/shop/p/product-1-ydar7-e8mlb-r2y28-3h5pd

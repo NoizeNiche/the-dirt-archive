@@ -44,3 +44,15 @@ MusicRadar's model-specific review provides exact Hyperdrive photography. [1]
 
 ## Sources checked
 1. MusicRadar - Comet Effects Hyperdrive: https://www.musicradar.com/reviews/guitars/comet-effects-hyperdrive-139079
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Comet Effects's Hyperdrive is cataloged as an overdrive pedal.
+
+### Sources checked in this pass
+1. Comet Effects Hyperdrive review | MusicRadar: https://www.musicradar.com/reviews/guitars/comet-effects-hyperdrive-139079
+2. comet effects hyperdrive overdrive pedal | #418145926 - WorthPoint: https://www.worthpoint.com/worthopedia/comet-effects-hyperdrive-overdrive-418145926
+3. PDF Comet Hyperdrive: https://device.report/m/fba5d28f46bd70452c748a915e945da53ccda93d82c8ddd6a98b420abd8dbe9b.pdf

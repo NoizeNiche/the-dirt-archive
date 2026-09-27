@@ -35,3 +35,23 @@ The three Mass positions provide distinct gain/compression voicings, ranging fro
 
 ## Sources checked
 1. Collateral FX - P014 Red Giant Distortion: https://collateralfx.com/br/pedais/p014-red-giant-distortion/
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Collateral FX's P014 Red Giant is cataloged as a distortion / overdrive pedal.
+
+### Verified color/finish evidence
+- P014 - Red Giant Distortion - Collateral FX 5% DE DESCONTO VIA PIX EM TODO O SITE 5% OFF PIX
+- Carrinho 0 Alternar Menu Sobre nós Pedais Boost Buffer Chorus Compressor Distortion Fuzz Modulation Overdrive Preamp Vibe Vibrato Minha conta Depoimentos Início » Pedais » Distortion » P014 – Red Giant Distortion Oferta!
+- + + + P014 – Red Giant Distortion O Red Giant Distortion é o pedal High Gain da Collateral FX.
+
+### Verified sound evidence
+P014 - Red Giant Distortion - Collateral FX 5% DE DESCONTO VIA PIX EM TODO O SITE 5% OFF PIX
+Sobre nós Pedais Boost Buffer Chorus Compressor Distortion Fuzz Modulation Overdrive Preamp Vibe Vibrato Minha conta Depoimentos Pesquisar 0 Carregando conteúdo do carrinho...
+Carrinho 0 Alternar Menu Sobre nós Pedais Boost Buffer Chorus Compressor Distortion Fuzz Modulation Overdrive Preamp Vibe Vibrato Minha conta Depoimentos Início » Pedais » Distortion » P014 – Red Giant Distortion Oferta!
+
+### Sources checked in this pass
+1. P014 - Red Giant Distortion - Collateral FX: https://collateralfx.com/br/pedais/p014-red-giant-distortion/

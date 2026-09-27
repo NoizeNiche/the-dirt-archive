@@ -29,3 +29,16 @@ The model is documented as distortion / overdrive. A more detailed sonic charact
 
 ## Sources checked
 1. The Dirt Archive Scrape C census: `research/SCRAPE_C_CENSUS.csv`
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Code's CDO2 Stereo Distortion O.D. is cataloged as a distortion / overdrive pedal.
+
+### Verified sound evidence
+(different enclosure, same PCB) Omnifex 700D Distortion/Overdrive Solec DO-131 Distortion+O.D.
+
+### Sources checked in this pass
+1. Code CDO2 Stereo Distortion O.D. | Effects Database: https://www.effectsdatabase.com/model/code/cdo2

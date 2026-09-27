@@ -45,3 +45,18 @@ The Bias control can starve the transistors for gated, deteriorating behavior; i
 ## Sources checked
 1. Effects Database - Copper Gear Distorta Azura: https://www.effectsdatabase.com/model/coppergear/distorta/azura
 2. Effects Database - Copper Gear: Steve Goldsborough interview: https://www.effectsdatabase.com/interviews/brands/coppergear
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Copper Gear's Distorta Azura is cataloged as a fuzz pedal.
+
+### Verified sound evidence
+A deep thick fuzz pours continuously from this pedal until you start playing with the bias control, and then things can get really interesting.
+Turn the bias down and you starve the transistors of power causing the sound to breakup and deteriorate.
+Or crank the bias up and you can get that fat wall of fuzz the pedal was built for.
+
+### Sources checked in this pass
+1. Copper Gear Distorta Azura | Effects Database: https://www.effectsdatabase.com/model/coppergear/distorta/azura

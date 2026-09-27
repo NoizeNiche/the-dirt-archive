@@ -33,3 +33,21 @@ Icarus covers clean boost through main overdrive duty. Collateral FX emphasizes 
 
 ## Sources checked
 1. Collateral FX - P004 Icarus: https://collateralfx.com/en/pedals/p004-mini-icarus/
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Collateral FX's P004 Icarus is cataloged as an overdrive pedal.
+
+### Verified diode terms
+- led.
+
+### Verified sound evidence
+Recommended for – Demanding guitarists seeking a defined overdrive, with plenty of headroom, and that works well as a clean boost, gain boost, and main drive, avoiding the nasal voicing of TS-like pedals.
+In the original pedal, it’s very difficult to get gain before the 12 o’clock position.
+This makes it the best Klon-style drive to use with Marshall amplifiers, for example.
+
+### Sources checked in this pass
+1. P004 – Icarus – Collateral FX: https://collateralfx.com/en/pedals/p004-mini-icarus/

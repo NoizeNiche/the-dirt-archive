@@ -36,3 +36,18 @@ Sweet Cream covers low-to-medium gain and can shift from chimey/mid-treble boost
 
 ## Sources checked
 1. Effects Database — ColdCraft Sweet Cream OD: https://www.effectsdatabase.com/model/coldcraft/sweetcream
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+ColdCraft Effects's Sweet Cream OD is cataloged as an overdrive pedal.
+
+### Verified sound evidence
+The first stage of the Sweet Cream Overdrive is a discrete MOSFET boost coupled to the Structure control.
+This unique control simultaneous changes the frequency emphasis and gain of the MOSFET stage.
+Turned to the left, the boost acts more like a mid & treble boost, but with less gain for a chimey, articulate sound.
+
+### Sources checked in this pass
+1. ColdCraft Effects Sweet Cream OD | Effects Database: https://www.effectsdatabase.com/model/coldcraft/sweetcream

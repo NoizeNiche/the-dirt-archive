@@ -36,3 +36,22 @@ The Normal and Bright stages can be used together to imitate channel-jumping on 
 
 ## Sources checked
 1. Collateral FX - P013 Black Hole Sunn: https://collateralfx.com/en/pedals/p013-black-hole-sunn/
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+In addition to having a gain boost stage, the Black Hole Sunn works very well when pushed by other overdrives, boosts, and fuzz pedals.
+
+### Verified color/finish evidence
+- The Black Hole Sunn is based on the legendary and massive Sunn Model T amplifiers, which were designed for use with both guitars and basses.
+- In addition to having a gain boost stage, the Black Hole Sunn works very well when pushed by other overdrives, boosts, and fuzz pedals.
+
+### Verified sound evidence
+Recommended for – Stoner Heads on duty, but also for those seeking a preamp/overdrive full of personality and that breaks away from the same old same old.
+Like many amplifiers of the time, they featured two inputs: normal and high treble, each with its individual gain.
+Similar to the practice with Marshall Plexi amps, it is common to “jump” these two channels and use them in parallel to offer a more balanced and less shrill sound – and here, this option is represented by the Normal and Bright knobs, which refer to the gain of each of these stages.
+
+### Sources checked in this pass
+1. P013 – Black Hole Sunn – Collateral FX: https://collateralfx.com/en/pedals/p013-black-hole-sunn/

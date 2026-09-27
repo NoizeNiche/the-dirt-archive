@@ -37,3 +37,18 @@ Parsec is designed to preserve the instrument's frequency balance, with natural 
 
 ## Sources checked
 1. Collateral FX - P021 Parsec: https://collateralfx.com/en/pedals/p021-parsec/
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Collateral FX's P021 Parsec Overdrive is cataloged as an overdrive pedal.
+
+### Verified sound evidence
+P021 - Parsec Overdrive - Collateral FX 5% DE DESCONTO VIA PIX EM TODO O SITE 5% OFF PIX
+Sobre nós Pedais Boost Buffer Chorus Compressor Distortion Fuzz Modulation Overdrive Preamp Vibe Vibrato Minha conta Depoimentos Pesquisar 0 Carregando conteúdo do carrinho...
+Sem cortar graves ou forçar médios, preserva 100% da personalidade do seu instrumento, operando como Clean Boost cristalino, pream de compressão natural ou um overdrive refinado de médio ganho para guitarra e contrabaixo.
+
+### Sources checked in this pass
+1. P021 - Parsec Overdrive - Collateral FX: https://collateralfx.com/br/pedais/p021-parsec-overdrive/

@@ -43,3 +43,13 @@ The manufacturer maintains a dedicated Singularity product page with model-speci
 1. Collision Devices - Singularity: https://collisiondevices.com/singularity
 2. Collision Devices - Singularity shop: https://collisiondevices.com/shop/p/singularity
 3. Collision Devices - TARS: https://collisiondevices.com/tars
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Collision Devices's Singularity is cataloged as a distortion / fuzz pedal.
+
+### Sources checked in this pass
+1. Singularity - one knob fuzz &mdash; COLLISION DEVICES: https://collisiondevices.com/singularity

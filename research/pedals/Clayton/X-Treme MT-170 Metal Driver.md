@@ -29,3 +29,13 @@ The model is documented as distortion. A more detailed sonic characterization is
 
 ## Sources checked
 1. The Dirt Archive Scrape C census: `research/SCRAPE_C_CENSUS.csv`
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Clayton's X-Treme MT-170 Metal Driver is cataloged as a distortion pedal.
+
+### Sources checked in this pass
+1. Clayton X-Treme MT-170 Metal Driver | Effects Database: https://www.effectsdatabase.com/model/clayton/mt170

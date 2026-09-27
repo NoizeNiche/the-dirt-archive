@@ -35,3 +35,21 @@ The CE-1 preamp character ranges from clean boost and tone enhancement into low-
 
 ## Sources checked
 1. Collateral FX - P011 Chili Pre: https://collateralfx.com/en/pedals/p011-chili-pre/
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Collateral FX's P011 Chili Pre is cataloged as an overdrive pedal.
+
+### Verified color/finish evidence
+- This characteristic did not go unnoticed by its most famous users, John Frusciante (Red Hot Chili Peppers) and Dean DeLeo (Stone Temple Pilots) – and the sound of the CE-1 preamp became an integral part of their clean tone and that of many other guitarists.
+
+### Verified sound evidence
+Recommended for – Those who consider John Frusciante’s tone as a sonic reference.
+This characteristic did not go unnoticed by its most famous users, John Frusciante (Red Hot Chili Peppers) and Dean DeLeo (Stone Temple Pilots) – and the sound of the CE-1 preamp became an integral part of their clean tone and that of many other guitarists.
+It offers all the richness of color and the significant gain provided by the CE-1 preamp at your feet, ranging from a clean boost/tone enhancer to a low-gain drive.
+
+### Sources checked in this pass
+1. P011 – Chili Pre – Collateral FX: https://collateralfx.com/en/pedals/p011-chili-pre/

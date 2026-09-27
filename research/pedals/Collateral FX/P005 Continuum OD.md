@@ -36,3 +36,18 @@ Collateral FX designed Continuum to combine TS10 mid-focused overdrive character
 
 ## Sources checked
 1. Collateral FX - P005 Continuum OD: https://collateralfx.com/en/pedals/p005-continuum/
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Collateral FX's P005 Continuum OD is cataloged as an overdrive pedal.
+
+### Verified sound evidence
+The killer Strat tone is the result, among other factors, of using pedals like the Ibanez TS10 and the Klon Centaur.
+With the Continuum, you can obviously achieve that Strat sound leaning towards John Mayer and Stevie Ray Vaughan, but you can go further, especially if you combine both channels and crank up the gain.
+But if you’re not so keen on his sound, remember that the Continuum is an opportunity to have in one pedal the two most iconic overdrives in history.
+
+### Sources checked in this pass
+1. P005 – Continuum OD – Collateral FX: https://collateralfx.com/en/pedals/p005-continuum/

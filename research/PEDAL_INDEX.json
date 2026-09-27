@@ -14968,8 +14968,8 @@
       "image": "",
       "source_page": "https://www.effectsdatabase.com/model/boss/compact/ds1/4a",
       "research_record": "./research/pedals/BOSS/DS-1-4A 40th Anniversary Distortion.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "BOSS",
@@ -16227,8 +16227,8 @@
       "research_record": "./research/pedals/PRP Batch 119/broughton-audio-scorpion-deluxe.md",
       "image_source_page": "https://www.broughtonaudio.com/archive?page=3",
       "image_source_url": "https://static.wixstatic.com/media/4b9583_aa95f3f0b29c425aaa6d085f804bac97~mv2_d_2801_2749_s_4_2.jpg/v1/fill/w_286,h_286,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/4b9583_aa95f3f0b29c425aaa6d085f804bac97~mv2_d_2801_2749_s_4_2.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Broughton Audio",
@@ -16284,8 +16284,8 @@
       "research_record": "./research/pedals/PRP Batch 119/broughton-audio-sunray.md",
       "image_source_page": "https://www.broughtonaudio.com/archive",
       "image_source_url": "https://static.wixstatic.com/media/4b9583_c7cb05d63ac34260a9b010109e15d8f0~mv2.png/v1/fill/w_286,h_286,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/4b9583_c7cb05d63ac34260a9b010109e15d8f0~mv2.png",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Broughton Audio",
@@ -17244,8 +17244,8 @@
       "image_source_urls": [
         "https://rvb-img.reverb.com/i/s---cHCYrCE--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/prnloasouim0egmwopr5.jpg"
       ],
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Build Your Own Clone",
@@ -17655,8 +17655,8 @@
       "research_record": "./research/pedals/PRP Batch 131/screamer-clone.md",
       "image_source_url": "https://medias.audiofanzine.com/images/normal/build-your-own-clone-screamer-74777.jpg",
       "image_source_page": "https://en.audiofanzine.com/overdrive-pedal/build-your-own-clone/Screamer/",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Build Your Own Clone",
@@ -24197,8 +24197,8 @@
       "image": "./assets/pedals/clayton/x-treme-mt-170-metal-driver/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Clayton/X-Treme MT-170 Metal Driver.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Clayton",
@@ -24209,8 +24209,8 @@
       "image": "./assets/pedals/clayton/x-treme-od-160-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Clayton/X-Treme OD-160 Overdrive.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Clear Sound",
@@ -24693,8 +24693,8 @@
       "image": "./assets/pedals/cobrahawk/jrc4558-od-8-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Cobrahawk/JRC4558 OD-8 Overdrive.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Coda Effects",
@@ -24730,8 +24730,8 @@
       "image": "./assets/pedals/code/cdo2-stereo-distortion-o-d/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Code/CDO2 Stereo Distortion O.D..md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Code",
@@ -25118,8 +25118,8 @@
       "image": "./assets/pedals/coldcraft-effects/black-lime-ic-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/ColdCraft Effects/Black Lime IC Fuzz.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "ColdCraft Effects",
@@ -25203,8 +25203,8 @@
       "image": "./assets/pedals/coldcraft-effects/sweet-cream-od/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/ColdCraft Effects/Sweet Cream OD.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "ColdCraft Effects",
@@ -25216,8 +25216,8 @@
       "image": "./assets/pedals/coldcraft-effects/sweet-kiwi-mkii/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/ColdCraft Effects/Sweet Kiwi MkII.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Cole Music Co.",
@@ -25252,8 +25252,8 @@
       "image": "./assets/pedals/coleman/astro-fuzz-hybrid-germanium-silicon-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Coleman/Astro Fuzz - Hybrid Germanium Silicon Fuzz.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Colfax Recorders",
@@ -25288,8 +25288,8 @@
       "image": "./assets/pedals/collateral-fx/p004-icarus/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Collateral FX/P004 Icarus.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Collateral FX",
@@ -25300,8 +25300,8 @@
       "image": "./assets/pedals/collateral-fx/p005-continuum-od/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Collateral FX/P005 Continuum OD.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Collateral FX",
@@ -25338,8 +25338,8 @@
       "image": "./assets/pedals/collateral-fx/p011-chili-pre/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Collateral FX/P011 Chili Pre.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Collateral FX",
@@ -25350,8 +25350,8 @@
       "image": "./assets/pedals/collateral-fx/p012-constellation-od/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Collateral FX/P012 Constellation OD.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Collateral FX",
@@ -25362,8 +25362,8 @@
       "image": "./assets/pedals/collateral-fx/p013-black-hole-sunn/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Collateral FX/P013 Black Hole Sunn.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Collateral FX",
@@ -25375,8 +25375,8 @@
       "image": "./assets/pedals/collateral-fx/p014-red-giant/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Collateral FX/P014 Red Giant.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Collateral FX",
@@ -25446,8 +25446,8 @@
       "image": "./assets/pedals/collateral-fx/p021-parsec-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Collateral FX/P021 Parsec.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Collateral FX",
@@ -25458,8 +25458,8 @@
       "image": "./assets/pedals/collateral-fx/p022-drive-for-the-dead-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Collateral FX/P022 Drive for the Dead Overdrive.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Collateral FX",
@@ -25470,8 +25470,8 @@
       "image": "./assets/pedals/collateral-fx/p023-the-bendz-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Collateral FX/P023 The Bendz Fuzz.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Collateral FX",
@@ -25482,8 +25482,8 @@
       "image": "./assets/pedals/collateral-fx/p024-sirius-dual-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Collateral FX/P024 Sirius Dual Overdrive.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Collateral FX",
@@ -25494,8 +25494,8 @@
       "image": "./assets/pedals/collateral-fx/p026-banana-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Collateral FX/P026 Banana Fuzz.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Collateral FX",
@@ -25506,8 +25506,8 @@
       "image": "./assets/pedals/collateral-fx/p027-element-118-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Collateral FX/P027 Element 118 Fuzz.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Collateral FX",
@@ -25518,8 +25518,8 @@
       "image": "./assets/pedals/collateral-fx/p028-palindrome-dual-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Collateral FX/P028 Palindrome Dual Overdrive.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Collateral FX",
@@ -25557,8 +25557,8 @@
       "image": "./assets/pedals/collateral-fx/p032-touchstone-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Collateral FX/P032 Touchstone Overdrive.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Collins",
@@ -25623,8 +25623,8 @@
       "image": "./assets/pedals/collision-devices/fz-gated-fuzz-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Collision Devices/FZ - Gated Fuzz - Distortion.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Collision Devices",
@@ -25636,8 +25636,8 @@
       "image": "./assets/pedals/collision-devices/singularity/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Collision Devices/Singularity.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Collision Devices",
@@ -26156,8 +26156,8 @@
       "image": "./assets/pedals/colorsound-sola-sound/tone-bender/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Colorsound / Sola Sound/Tone Bender.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Colorsound / Sola Sound",
@@ -26292,8 +26292,8 @@
       "image": "./assets/pedals/comet-effects/hyperdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Comet Effects/Hyperdrive.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Commune",
@@ -26304,8 +26304,8 @@
       "image": "./assets/pedals/commune/senturion-crazy-booster/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Commune/Senturion Crazy Booster.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Commune",
@@ -26367,8 +26367,8 @@
       "image": "./assets/pedals/comodoro-pedales/botfly-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Comodoro Pedales/Botfly Fuzz.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Comodoro Pedales",
@@ -26541,8 +26541,8 @@
       "image": "./assets/pedals/concrete-sound-lab/slab/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Concrete Sound Lab/SLAB.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Conrad",
@@ -26609,8 +26609,8 @@
       "image": "./assets/pedals/coolmusic/c-di01-insane-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Coolmusic/C-DI01 Insane Distortion.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Coolmusic",
@@ -26782,8 +26782,8 @@
       "image": "./assets/pedals/coopersonic/deluxe-valve-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Coopersonic/Deluxe Valve Overdrive.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Coopersonic",
@@ -26811,8 +26811,8 @@
       "image": "./assets/pedals/coopersonic/dual-valve-distortion-deluxe/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Coopersonic/Dual-Valve Distortion (Deluxe).md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Coopersonic",
@@ -26824,8 +26824,8 @@
       "image": "./assets/pedals/coopersonic/dual-valve-distortion-regular/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Coopersonic/Dual-Valve Distortion (Regular).md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Coopersonic",
@@ -26850,8 +26850,8 @@
       "image": "./assets/pedals/coopersonic/pig-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Coopersonic/Pig Fuzz.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Coopersonic",
@@ -26900,8 +26900,8 @@
       "image": "./assets/pedals/copilot-fx/mantis/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Copilot FX/Mantis.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Copilot FX",
@@ -26952,8 +26952,8 @@
       "image": "./assets/pedals/copper-gear/black-howler/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Copper Gear/Black Howler.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Copper Gear",
@@ -26977,8 +26977,8 @@
       "image": "./assets/pedals/copper-gear/distorta-azura/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Copper Gear/Distorta Azura.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Copper Gear",

@@ -36,3 +36,21 @@ The green channel emphasizes open, rich mids with tighter bass and is designed t
 
 ## Sources checked
 1. Collateral FX - P024 Sirius Dual Overdrive: https://collateralfx.com/br/pedais/p024-sirius-dual-overdrive/
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Collateral FX's P024 Sirius Dual Overdrive is cataloged as an overdrive pedal.
+
+### Verified version references
+- The evidence references: V1.
+
+### Verified sound evidence
+P024 - Sirius Dual Overdrive - Collateral FX 5% DE DESCONTO VIA PIX EM TODO O SITE 5% OFF PIX
+Sobre nós Pedais Boost Buffer Chorus Compressor Distortion Fuzz Modulation Overdrive Preamp Vibe Vibrato Minha conta Depoimentos Pesquisar 0 Carregando conteúdo do carrinho...
+R$ 1,120.00 no pix ou em até 12x c/ juros no cartão P024 - Sirius Dual Overdrive quantidade Adicionar ao carrinho Simulação de frete Descrição Sirius Dual Overdrive
+
+### Sources checked in this pass
+1. P024 - Sirius Dual Overdrive - Collateral FX: https://collateralfx.com/br/pedais/p024-sirius-dual-overdrive/

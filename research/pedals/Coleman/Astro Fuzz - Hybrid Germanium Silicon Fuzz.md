@@ -29,3 +29,22 @@ The surviving exact-model documentation places Astro Fuzz in the Fuzz Face famil
 
 ## Sources checked
 1. Effects Database — Coleman Astro Fuzz - Hybrid Germanium Silicon Fuzz: https://www.effectsdatabase.com/model/coleman/astrofuzz
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Coleman's Astro Fuzz - Hybrid Germanium Silicon Fuzz is cataloged as a fuzz pedal.
+
+### Verified version references
+- The evidence references: MkII.
+
+### Verified transistor/device terms
+- Germanium Fuzz.
+
+### Verified sound evidence
+Coleman Astro Fuzz - Hybrid Germanium Silicon Fuzz
+
+### Sources checked in this pass
+1. Coleman Astro Fuzz - Hybrid Germanium Silicon Fuzz | Effects Database: https://www.effectsdatabase.com/model/coleman/astrofuzz

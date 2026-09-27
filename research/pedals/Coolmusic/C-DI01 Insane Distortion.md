@@ -51,3 +51,13 @@ The manufacturer positions C-DI01 as a high-gain distortion pedal with separate 
 ## Sources checked
 1. Coolmusic official guitar-effects manual, C-DI01 / INSANE Distortion: https://www.coolmusic-tech.com/public/uploads/files/20210730/cefdbb91ba84309da1436720d0c02726.pdf
 2. Effects Database - Coolmusic model index: https://www.effectsdatabase.com/model/coolmusic
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Coolmusic's C-DI01 Insane Distortion is cataloged as a distortion pedal.
+
+### Sources checked in this pass
+1. Analog Guitar Pedal - COOLMUSIC: https://www.coolmusic-tech.com/lists/20.html

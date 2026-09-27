@@ -34,3 +34,18 @@ The Bendz is voiced for the aggressive, high-gain, mid-rich and sustaining respo
 
 ## Sources checked
 1. Collateral FX - P023 The Bendz: https://collateralfx.com/br/pedais/p023-the-bendz/
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Collateral FX's P023 The Bendz Fuzz is cataloged as a fuzz pedal.
+
+### Verified sound evidence
+P023 - The Bendz Fuzz - Collateral FX 5% DE DESCONTO VIA PIX EM TODO O SITE 5% OFF PIX
+Sobre nós Pedais Boost Buffer Chorus Compressor Distortion Fuzz Modulation Overdrive Preamp Vibe Vibrato Minha conta Depoimentos Pesquisar 0 Carregando conteúdo do carrinho...
+Carrinho 0 Alternar Menu Sobre nós Pedais Boost Buffer Chorus Compressor Distortion Fuzz Modulation Overdrive Preamp Vibe Vibrato Minha conta Depoimentos Início » Pedais » Fuzz » P023 – The Bendz Fuzz + + + P023 – The Bendz Fuzz O The Bendz Fuzz é a releitura moderna do clássico circuito Tonebender dos anos 60 e 70.
+
+### Sources checked in this pass
+1. P023 - The Bendz Fuzz - Collateral FX: https://collateralfx.com/br/pedais/p023-the-bendz-fuzz/
