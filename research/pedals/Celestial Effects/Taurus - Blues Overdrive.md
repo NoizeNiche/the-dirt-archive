@@ -4,38 +4,60 @@
 - **Archive parent:** Taurus - Blues Overdrive
 - **Builder:** Celestial Effects
 - **Catalog type:** Overdrive
-- **Identity:** Celestial Effects Taurus Blues Overdrive, a transparent op-amp overdrive with selectable clipping.
+- **Identity:** Transparent analog overdrive using a three-position clipping selector and Edge control, designed from clean boost through near-distortion. [1][2]
 
-## What this pedal is
-Celestial Effects describes the Taurus as a versatile overdrive capable of clean rhythm boost, breakup, and near-distortion tones. The builder describes it as a transparent design with very little noise filtering and a touch-sensitive response. [1][2]
+## Controls
+- **VOLUME**
+- **TONE**
+- **EDGE**
+- **GAIN**
+- Three-position clipping selector:
+  - Symmetrical silicon
+  - Asymmetrical MOSFET
+  - No clipping diodes [1][3]
 
-## Colorways
-- Exact-model imagery and Reverb documentation establish a **green** enclosure example. [3]
-- A complete factory colorway sequence was not established.
-
-## Versions and factory options
-The documented controls are **Volume, Tone, Edge, and Gain**. [1]
-
-The pedal includes a three-position clipping selector for:
-- Symmetrical silicon clipping.
-- Asymmetrical MOSFET clipping.
-- No clipping diodes. [1][3]
-
-It is true bypass and uses no buffers or inline tone circuits. [1]
-
-## Version changes
-No reliable numbered production revision history was found in the checked sources.
+## Circuit / topology
+- Transparent analog gain stage.
+- Builder specifically states no buffers or inline tone circuits.
+- True bypass. [1]
 
 ## Transistor
-No exact-model discrete transistor specification was established in the checked sources.
+- Exact production transistor/device part number is not publicly established.
 
-## Diode
-The builder documents a selector for symmetrical silicon clipping, asymmetrical MOSFET clipping, or no clipping. Exact component part numbers were not established. [1][3]
+## Diode / clipping
+- **Symmetrical silicon-diode** mode.
+- **Asymmetrical MOSFET** mode.
+- **No-diode** mode. [1][3]
+- Exact semiconductor part numbers are not established.
+
+## Power
+- Exact model-specific voltage/current figures are not securely preserved in the reviewed sources.
+
+## Construction / finish
+- Hand-built Celestial Effects pedal.
+- Green exact-model Reverb example documented. [3]
+
+## Version history
+- No numbered electronic revision established.
 
 ## Sound
-The Taurus is voiced as a transparent, organic overdrive. With gain low, it can act as a fuller rhythm boost; with gain and other controls raised, it moves toward crunchy and near-distorted sounds. The Edge control can smooth the response, while the clipping selector changes compression and openness. [1][2]
+Celestial Effects positions Taurus as a transparent, organic overdrive that can act as a clean/rhythm boost at lower Gain and move toward crunchy, near-distorted tones as Gain rises. Edge and the clipping selector alter the saturation feel and upper-frequency response. [1][2]
+
+## Research confidence
+- **Identity:** High
+- **Transparent analog architecture:** High
+- **Four-control map:** High
+- **Three clipping modes:** High
+- **No-buffer design:** High
+- **Exact components:** Unknown
+
+## Deep research verification
+The Celestial Effects Taurus page and owner's manual were cross-checked with an exact-model Reverb listing. The sources establish the four controls, three clipping modes, true-bypass/no-buffer design and documented green presentation. [1][2][3]
 
 ## Sources checked
-1. Celestial Effects — Taurus Blues Overdrive: https://www.celestialeffects.com/taurus.html
-2. Celestial Effects — Taurus User Manual: https://www.celestialeffects.com/pdfpages/taurususermanual.pdf
-3. Reverb — Celestial Effects Taurus Blues Overdrive: https://reverb.com/item/72519827-celestial-effects-taurus-blues-overdrive-pedal-w-box-green
+1. Celestial Effects — Taurus: https://www.celestialeffects.com/taurus.html
+2. Celestial Effects — Taurus Owner's Manual: https://www.celestialeffects.com/pdfpages/taurususermanual.pdf
+3. Reverb — Celestial Effects Taurus: https://reverb.com/item/72519827-celestial-effects-taurus-blues-overdrive-pedal-w-box-green
+
+## Photo
+- Exact-model photo status remains handled separately.
