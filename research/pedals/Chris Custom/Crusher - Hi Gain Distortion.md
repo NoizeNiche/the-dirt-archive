@@ -41,3 +41,8 @@ The builder characterizes Crusher as a dense, aggressive high-gain distortion wi
 
 ## Sources checked
 1. Chris Custom — Crusher Distortion: https://www.chriscustom.ru/effects-pedals/crusher-distortion/
+## Deep research verification
+
+Chris Custom's exact Crusher product page documents a **Hi-Gain Distortion** with **Level, Gain, Treble, Midrange, Bass** controls. The builder describes a dense, aggressive high-gain sound for hard rock and extreme styles, and lists analog circuitry, true bypass, 9V battery or external 9V DC power, and a metal enclosure. The current product is shown in a dark-blue finish.
+
+Source: https://www.chriscustom.ru/effects-pedals/crusher-distortion/
