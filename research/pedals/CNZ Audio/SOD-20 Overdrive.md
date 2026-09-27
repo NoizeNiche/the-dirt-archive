@@ -4,38 +4,51 @@
 - **Archive parent:** SOD-20 Overdrive
 - **Builder:** CNZ Audio
 - **Catalog type:** Overdrive
-- **Identity:** CNZ Audio SOD-20 Overdrive, a compact analog overdrive with switchable warm/hot voicing.
+- **Identity:** Compact analog overdrive with Level, Tone, Gain and Hot/Warm voicing. [1]
 
-## What this pedal is
-CNZ Audio describes the SOD-20 as a compact analog overdrive with a Hot / Warm switch for changing the gain and tonal character. [1]
+## Controls
+- **LEVEL**
+- **TONE**
+- **GAIN**
+- **HOT / WARM** toggle. [1]
 
-## Colorways
-No complete factory finish sequence was established.
-
-## Versions and factory options
-Documented controls/features:
-- Level.
-- Tone.
-- Gain.
-- Hot / Warm toggle.
-- True bypass.
-- 9V DC.
-- Approximately 10 mA stated current draw.
-- 520 kΩ input impedance.
-- 12 kΩ output impedance.
-- Mini aluminum enclosure. [1]
-
-## Version changes
-No formal numbered production revision sequence was established.
+## Circuit / topology
+- Analog overdrive.
+- Hot/Warm is a factory gain/voicing change.
+- No specific commercial clone lineage is assigned by the reviewed manufacturer source.
 
 ## Transistor
-No exact-model transistor specification was published.
+- Exact production transistor/device part number is not publicly documented.
 
-## Diode
-No exact-model diode specification was published.
+## Diode / clipping
+- Exact clipping-device type and part number are not publicly documented.
+
+## Power / electrical
+- **9V DC**.
+- Approximately **10 mA**.
+- **520 kOhm input impedance**
+- **12 kOhm output impedance**
+- Mini aluminum enclosure. [1]
+
+## Version history
+- No numbered electronic revision established.
 
 ## Sound
-Warm mode emphasizes a lower-gain, smoother overdrive response, while Hot mode increases available saturation. [1]
+Warm mode is intended to keep the overdrive smoother and lower-gain, while Hot raises the available saturation and drive intensity. [1]
+
+## Research confidence
+- **Identity:** High
+- **Analog architecture:** High
+- **Hot/Warm switch:** High
+- **9V / 10mA:** High
+- **Exact transistor:** Unknown
+- **Exact diode:** Unknown
+
+## Deep research verification
+CNZ Audio's exact-model product page was checked directly and provides the control map and electrical specification. [1]
 
 ## Sources checked
 1. CNZ Audio — SOD-20 Overdrive: https://www.cnzaudio.com/products/sod-20
+
+## Photo
+- Exact-model image status remains handled separately.
