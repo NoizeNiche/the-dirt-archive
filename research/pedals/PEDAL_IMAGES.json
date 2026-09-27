@@ -17548,7 +17548,7 @@
   {
     "builder": "Effectrode",
     "pedal": "Blackbird",
-    "image": null,
+    "image": "./assets/pedals/effectrode/blackbird/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Effectrode/Blackbird.md"
   },
@@ -21272,7 +21272,7 @@
   {
     "builder": "KHDK Electronics",
     "pedal": "Unicorn Blood — octave fuzz",
-    "image": null,
+    "image": "./assets/pedals/khdk-electronics/unicorn-blood-octave-fuzz/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/KHDK Electronics/Unicorn Blood — octave fuzz.md"
   },
@@ -21384,7 +21384,7 @@
   {
     "builder": "KMA Machines",
     "pedal": "Queequeq",
-    "image": null,
+    "image": "./assets/pedals/kma-machines/queequeq/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/KMA Machines/Queequeq.md"
   },
@@ -21853,7 +21853,7 @@
   {
     "builder": "Lovepedal",
     "pedal": "FAB 50",
-    "image": null,
+    "image": "./assets/pedals/lovepedal/fab-50/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Lovepedal/FAB 50.md"
   },
@@ -22469,7 +22469,7 @@
   {
     "builder": "Mask Audio Electronics",
     "pedal": "Germanium Part Garden",
-    "image": null,
+    "image": "./assets/pedals/mask-audio-electronics/germanium-part-garden/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Mask Audio Electronics/Germanium Part Garden.md"
   },
@@ -22504,14 +22504,14 @@
   {
     "builder": "Mask Audio Electronics",
     "pedal": "Part Garden",
-    "image": null,
+    "image": "./assets/pedals/mask-audio-electronics/part-garden/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Mask Audio Electronics/Part Garden.md"
   },
   {
     "builder": "Mask Audio Electronics",
     "pedal": "PART GARDEN",
-    "image": null,
+    "image": "./assets/pedals/mask-audio-electronics/part-garden/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Mask Audio Electronics/PART GARDEN.md"
   },
@@ -24226,7 +24226,7 @@
   {
     "builder": "MXR",
     "pedal": "Bass Fuzz Deluxe",
-    "image": null,
+    "image": "./assets/pedals/mxr/bass-fuzz-deluxe/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/MXR/Bass Fuzz Deluxe.md"
   },
@@ -24303,7 +24303,7 @@
   {
     "builder": "MXR",
     "pedal": "Dookie Drive",
-    "image": null,
+    "image": "./assets/pedals/mxr/dookie-drive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/MXR/Dookie Drive.md"
   },
@@ -24317,7 +24317,7 @@
   {
     "builder": "MXR",
     "pedal": "Double-Double Overdrive",
-    "image": null,
+    "image": "./assets/pedals/mxr/double-double-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/MXR/Double-Double Overdrive.md"
   },
@@ -24569,7 +24569,7 @@
   {
     "builder": "Mythos Pedals",
     "pedal": "Argo Boost Deluxe",
-    "image": null,
+    "image": "./assets/pedals/mythos-pedals/argo-boost-deluxe/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Mythos Pedals/Argo Boost Deluxe.md"
   },
@@ -25787,7 +25787,7 @@
   {
     "builder": "Prescription Electronics",
     "pedal": "Yardbox",
-    "image": null,
+    "image": "./assets/pedals/prescription-electronics/yardbox/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Prescription Electronics/Yardbox.md"
   },
@@ -25913,7 +25913,7 @@
   {
     "builder": "Radial Engineering / Tonebone",
     "pedal": "Tonebone Plexitube",
-    "image": null,
+    "image": "./assets/pedals/radial-engineering-tonebone/tonebone-plexitube/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Radial Engineering / Tonebone/Tonebone Plexitube.md"
   },
@@ -25948,7 +25948,7 @@
   {
     "builder": "Radial Tonebone",
     "pedal": "Hot British",
-    "image": null,
+    "image": "./assets/pedals/radial-tonebone/hot-british/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Radial Tonebone/Hot British.md"
   },
@@ -26053,28 +26053,28 @@
   {
     "builder": "Retro Mechanical Labs",
     "pedal": "EFC Mini Distortion",
-    "image": null,
+    "image": "./assets/pedals/retro-mechanical-labs/efc-mini-distortion/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Retro Mechanical Labs/EFC Mini Distortion.md"
   },
   {
     "builder": "Retro Mechanical Labs",
     "pedal": "EFCcv Distortion",
-    "image": null,
+    "image": "./assets/pedals/retro-mechanical-labs/efccv-distortion/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Retro Mechanical Labs/EFCcv Distortion.md"
   },
   {
     "builder": "Retro Mechanical Labs",
     "pedal": "Electron Fuzz Custom",
-    "image": null,
+    "image": "./assets/pedals/retro-mechanical-labs/electron-fuzz-custom/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Retro Mechanical Labs/Electron Fuzz Custom.md"
   },
   {
     "builder": "Retro Mechanical Labs",
     "pedal": "Electron Fuzz Custom Retro",
-    "image": null,
+    "image": "./assets/pedals/retro-mechanical-labs/electron-fuzz-custom-retro/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Retro Mechanical Labs/Electron Fuzz Custom Retro.md"
   },
@@ -26088,7 +26088,7 @@
   {
     "builder": "Reuss Musical Instruments",
     "pedal": "Backslide Overdrive",
-    "image": null,
+    "image": "./assets/pedals/reuss-musical-instruments/backslide-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Reuss Musical Instruments/Backslide Overdrive.md"
   },
