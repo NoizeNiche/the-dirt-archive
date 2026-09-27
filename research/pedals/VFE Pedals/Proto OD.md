@@ -1,23 +1,38 @@
 # VFE Pedals — Proto OD
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Proto OD
 - **Builder:** VFE Pedals
-- **Pedal:** Proto OD
 - **Catalog type:** Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** VFE Pedals's Proto OD.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Proto OD** by **VFE Pedals** as a **Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+VFE Pedals's Proto OD is cataloged as an overdrive pedal.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- A toggle switch has been added to switch between true Mosfet clipping, 5mm Red LED clipping, and a diode lift (clean boost).
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Documented terms in the verified sources: LED.
+- The archive records only the component information explicitly present in these sources.
+
+## Sound
+A toggle switch has been added to switch between true Mosfet clipping, 5mm Red LED clipping, and a diode lift (clean boost).
+The overall gain range is greater, although LED & Mosfet clipping has a higher threshold, so the overall amount of distortion will be slightly less than a TS808.
+I've installed a charge pump in place of the battery that up converts a 9V power supply to about 25-26V for greater headroom.
+
+## Sources checked
+1. VFE Pedals Proto OD III | Effects Database: https://www.effectsdatabase.com/model/vfe/protood/3
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
