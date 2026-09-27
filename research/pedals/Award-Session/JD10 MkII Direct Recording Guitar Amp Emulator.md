@@ -52,3 +52,19 @@ JD10 MkII is intended to cover clean, edge-of-breakup and heavier distortion whi
 - **Archive status:** **No Photo Archived**
 - **Exact-model reference checked:** https://www.effectsdatabase.com/model/awardsession/jd10/mk2
 - **Archive note:** Exact MkII images exist externally, but no stable archive asset is being promoted in this pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Award-Session's JD10 MkII Direct Recording Guitar Amp Emulator is cataloged as a distortion / overdrive pedal.
+
+### Verified version references
+- The evidence references: MkII.
+
+### Verified sound evidence
+It can be an overdrive, distortion, preamp (with switchable speaker emulation for direct recording or live performance through a PA), EQ, line driver etc...
+
+### Sources checked in this pass
+1. Award-Session JD10 MkII Direct Recording Guitar Amp Emulator | Effects Database: https://www.effectsdatabase.com/model/awardsession/jd10/mk2

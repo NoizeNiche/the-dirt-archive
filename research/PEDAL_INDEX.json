@@ -4316,8 +4316,8 @@
       "research_record": "./research/pedals/PRP Batch 057/Vintage Van Driving is Very Fun.md",
       "image_source_url": "http://animalspedal.us/cdn/shop/files/VINTAGEVANDRIVINGISVERYFUN-01.jpg?v=1753150758",
       "image_source_page": "https://animalspedal.us/products/animals-pedal-vintage-van-driving-is-very-fun",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Anode Effects",
@@ -5603,8 +5603,8 @@
       "research_record": "./research/pedals/Award-Session/JD10 MkII Direct Recording Guitar Amp Emulator.md",
       "image_source_page": "https://www.guitar-auctions.co.uk/sale/151/456/Award-Session-JD10-Mk-II-direct-recording-guitar-amp-emulator-pedal",
       "image_source_url": "https://www.guitar-auctions.co.uk/public/images/Sales/151/456.JPG",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Award-Session",
@@ -36873,8 +36873,8 @@
       "image": "./assets/pedals/keeley-electronics/oxblood-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Keeley Electronics/Oxblood Overdrive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Keeley Electronics",

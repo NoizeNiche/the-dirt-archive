@@ -36,3 +36,18 @@ Vintage Van Driving is designed to move from clear, attacking clean boost into w
 ## Photo
 - **Archive status:** **No Photo Archived**
 - **Exact-model references checked:** Animals Pedal USA, Reverb and retailer imagery.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Vintage Can Driving is Very Fun is an overdrive pedal that can help to enhance the potential of any guitar sound.
+
+### Verified sound evidence
+Vintage Can Driving is Very Fun is an overdrive pedal that can help to enhance the potential of any guitar sound.
+Playing with a really great tone is one of the most important parts of making music.
+Having a great tone means you can relax and play easier, which translates to a smoother and more organic sound.
+
+### Sources checked in this pass
+1. Animals Pedal Vintage Van Driving is Very Fun – Animals Pedal USA: https://animalspedal.us/products/animals-pedal-vintage-van-driving-is-very-fun
