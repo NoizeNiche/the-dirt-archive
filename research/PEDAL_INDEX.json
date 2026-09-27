@@ -20308,8 +20308,8 @@
       "research_record": "./research/pedals/PRP Batch 151/caroline-guitar-company-wave-cannon-mkii.md",
       "image_source_page": "https://www.millrivermusic.com/effects-and-pedals/distortion/caroline-guitar-company-wave-cannon-mkii-superdistorter-effects-pedal-15058",
       "image_source_url": "https://www.millrivermusic.com/isotope/y/ykd0dhpis3pldw9nx6wm.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Caroline Guitar Company",
@@ -55983,8 +55983,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Way Huge/Fuzz Box.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Way Huge",
