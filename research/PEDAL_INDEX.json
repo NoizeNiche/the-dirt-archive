@@ -2673,8 +2673,8 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/ampeg/a",
       "research_record": "./research/pedals/Ampeg/A-1 Distortion.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Ampeg",
