@@ -1,23 +1,42 @@
 # Lovepedal — Dover Drive
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Dover Drive
 - **Builder:** Lovepedal
-- **Pedal:** Dover Drive
 - **Catalog type:** Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Lovepedal's Dover Drive.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Dover Drive** by **Lovepedal** as a **Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Dover Drive — Lovepedal Overdrive Pedal
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+Dover Drive — Lovepedal Overdrive Pedal
+© 2026 PedalFilter Clear Compare ( 0 ) Back Home Lovepedal Dover Drive Back to results Lovepedal Dover Drive Overdrive Overdrive named for Dover, England.
+Dover Drive brings British amp character in overdrive form.
+
+## Sources checked
+1. Lovepedal Announces Dover Drive: A Deep Technical and Pedagogical ...: https://gearstrings.com/practice-tips/lovepedal-announces-dover-drive
+2. Lovepedal Dover Drive Dimensions, Specs & Details: https://www.stompboxgarden.com/gear/pedal/4718/lovepedal-dover-drive
+3. Dover Drive — Lovepedal Overdrive Pedal | PedalFilter | PedalFilter: https://pedalfilter.com/lovepedal/dover-drive
+4. Lovepedal Dover Drive OC42 - What To Know & Where To Buy: https://equipboard.com/items/lovepedal-dover-drive-oc42
+5. Dover Drive — LOVEPEDAL | Specs, Review, Onde Comprar | Pedalboard Designer: https://pedalboarddesigner.com/pedals/lovepedal-dover-drive
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

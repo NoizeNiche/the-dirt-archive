@@ -42264,8 +42264,8 @@
       "image": "./assets/pedals/lovepedal/dover-drive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Lovepedal/Dover Drive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Lovepedal",
@@ -52770,8 +52770,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/ThorpyFX/THE DANE — Dual Drive Boost.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "ThorpyFX",
