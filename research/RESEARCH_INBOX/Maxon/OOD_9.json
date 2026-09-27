@@ -1,0 +1,49 @@
+{
+  "builder": "Maxon",
+  "pedal": "OOD-9",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 5,
+  "sources": [
+    {
+      "url": "https://equipboard.com/items/maxon-ood-9-organic-overdrive-pedal",
+      "title": "Maxon OOD-9 Organic Overdrive Pedal | Equipboard",
+      "h1": "",
+      "excerpt": "",
+      "host": "equipboard.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://www.effectsdatabase.com/model/maxon/9/ood9",
+      "title": "Maxon OOD-9 Organic Overdrive - Effects Database",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.effectsdatabase.com",
+      "source_kind": "effects_database"
+    },
+    {
+      "url": "https://www.freestompboxes.org/viewtopic.php?t=566",
+      "title": "Maxon - OOD-9 ( Organic Overdrive ) - freestompboxes.org",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.freestompboxes.org",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://getmyguitar.com/product/maxon-9-series-ood-9-organic-overdrive-pedal/",
+      "title": "Maxon 9-Series OOD-9 Organic Overdrive Pedal",
+      "h1": "",
+      "excerpt": "",
+      "host": "getmyguitar.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://www.rockboard.de/en/pedalPedia/Maxon/OOD9-Organic-Overdrive/68981733/",
+      "title": "OOD9 Organic Overdrive by Maxon | RockBoard | PedalPedia",
+      "h1": "OOD9 Organic Overdrive",
+      "excerpt": "OOD9 Organic Overdrive by Maxon | RockBoard | PedalPedia Skip to main content LOG IN EXPLORE Maxon OOD9 Organic Overdrive LOG IN TO SUGGEST IMPROVEMENTS OVERDRIVE BOOSTER Description The OOD-9 takes Maxon\u2019s resurrected OSD-9 circuit and replaces the NOS 741 Op Amps with current-production NJM (JRC) 4558\u2019s. Offering the same warm, open-sounding overdrive as the OSD-9 but with a more pronounced high-frequency response, the OOD-9 is perfect for \u201clivening up\u201d a dark-sounding guitar or amp. The OOD-9 reacts smoothly to input level changes, offering a highly interactive response to player dynamics. Perfect as a stand-alone dirt box or for pushing an amp, the OOD-9 can also be stacked with other OD\u2019s to add clarity and character to their tone. Media Videos Demo by Regent Sounds (EN) Demo by Music City CZ (CZ) Reviews Review by Harmony Central (EN) Review by Legendary Tones (EN) Review by The Gear Page (EN) Links Product Page Technical data Width 000.00 mm Depth 000.00 mm Height 000.00 mm Weight 000.00 mm Circuit type analog Voltage 9V DC, center negative Current 18mA More pedals from Maxon OVERDRIVE BOOSTER OVERDRIVE BOOSTER Maxon OD-9 Overdrive FUZZ EQUALIZER COMPRESSOR BOOSTER FUZZ EQUALIZER COMPRESSOR BOOSTER Maxon Fuzz Elements - Ether (FE10) FUZZ EQUALIZER FUZZ EQUALIZER Maxon Fuzz Elements - Water (FWA10) OVERDRIVE OVERDRIVE Maxon OD 9 Creamdrive All Maxon Pedals Products Pedalboards All-In-One Patchbays QuickMount PedalSafe Power Supplies and Power Cables and Connections Accessories Gear Build your own board Board Configurator PedalPedia Pedalboard Gallery QuickMount Finder Services Find a dealer Find a distributor Frequently Asked Questions Contact Current catalog News Community RockBoard Artists Achievements Your Activity Overview \u00a92026 Warwick GmbH & Co. Music Equipment KG GTC | Imprint | Privacy policy | Accessibility | Cookie Settings",
+      "host": "www.rockboard.de",
+      "source_kind": "other"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}
