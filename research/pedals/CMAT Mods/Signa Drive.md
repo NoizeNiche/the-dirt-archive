@@ -4,41 +4,53 @@
 - **Archive parent:** Signa Drive
 - **Builder:** CMATMODS
 - **Catalog type:** Overdrive
-- **Identity:** CMATMODS Signa Drive, a three-mode overdrive developed from the builder's Tube Slammer lineage.
+- **Identity:** Three-mode hand-built overdrive developed from the Tube Slammer lineage, with switchable clipping/gain structure and documented RC4558P op-amp. [1][2][3]
 
-## What this pedal is
-CMATMODS describes Signa Drive as a hand-built overdrive with a three-way toggle that changes clipping and gain structure, spanning clean boost through Marshall-style crunch. Effects Database notes that the Signa Drive was intended to replace the Tube Slammer and Tube Slammer Deluxe. [1]
+## Controls
+- **DRIVE**
+- **TONE**
+- **LEVEL**
+- Three-position clipping/gain-structure toggle.
+- True bypass. [1]
 
-Independent circuit documentation characterizes the design as a modified TS808-style circuit with switchable clipping. [2]
+## Circuit lineage
+- Tube Slammer successor lineage.
+- Independent layout documentation characterizes it as a modified **TS808-style** architecture with switchable clipping.
+- Effects Database states Signa Drive replaced Tube Slammer and Tube Slammer Deluxe. [1][2]
 
-## Colorways
-No complete factory colorway sequence was established.
+## Active device
+- **RC4558P op-amp** is documented in production references. [3]
 
-## Versions and factory options
-Documented controls/features:
-- Drive.
-- Tone.
-- Level.
-- Three-way clipping/gain-structure toggle.
-- True bypass.
-- 9V battery or adapter.
-- RC4558P op-amp in documented production listings. [1][3]
+## Diode / clipping
+- Three clipping/gain-structure positions are factory features.
+- Exact diode types are not securely established.
 
-## Version changes
-The historical archive contains multiple physical layouts, including a later compact layout documented in 2014. [2]
+## Power
+- **9V battery or adapter**. [1]
+- Exact current draw is not established.
 
-The model also superseded the earlier Tube Slammer family. [1]
-
-## Transistor
-The documented production circuit uses an **RC4558P** op-amp. [3]
-
-## Diode
-The three-way control selects different clipping arrangements, but exact diode types were not securely established.
+## Version history
+- Historical examples show more than one physical layout.
+- The model superseded Tube Slammer and Tube Slammer Deluxe. [1][2]
 
 ## Sound
-CMATMODS describes a range from clean boost through Marshall-style crunch, with emphasis on harmonic content and note clarity. [1]
+CMATMODS describes the pedal as spanning clean boost through Marshall-style crunch, with the three-way switch changing clipping/gain structure. [1]
+
+## Research confidence
+- **Identity:** High
+- **Tube Slammer lineage:** High
+- **TS808-style architecture:** High as independent circuit analysis
+- **RC4558P:** High as documented production device
+- **Three clipping modes:** High
+- **Exact diode:** Unknown
+
+## Deep research verification
+Effects Database, Guitar FX Layouts and ModularGrid were cross-checked. Together they establish the control map, Tube Slammer succession, TS808-style lineage and RC4558P production reference. [1][2][3]
 
 ## Sources checked
 1. Effects Database — CMATMODS Signa Drive: https://www.effectsdatabase.com/model/cmatmods/signadrive
 2. Guitar FX Layouts — CMAT Mods Signa Drive: https://tagboardeffects.blogspot.com/2012/07/cmat-mods-signa-drive.html
 3. ModularGrid — CMAT Mods Signa Drive: https://modulargrid.net/p/cmat-mods-signa-drive
+
+## Photo
+- Exact-model photo status remains handled by the photo lane.
