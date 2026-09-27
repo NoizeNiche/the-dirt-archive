@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-27T09:14:46.458170+00:00",
+  "generated_at": "2026-09-27T09:15:13.422803+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,8 +10,8 @@
     "pictured": 3123,
     "complete": 3123,
     "research_pending": 0,
-    "deep_research_pending": 2106,
-    "deep_researched": 2136,
+    "deep_research_pending": 2101,
+    "deep_researched": 2141,
     "surface_ready": 4242
   },
   "next_target": {
@@ -73,37 +73,9 @@
     },
     {
       "builder": "Beetronics",
-      "pedal": "Fatbee Overdrive",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Beetronics/Fatbee Overdrive.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Beetronics",
-      "pedal": "Octahive v2 High Octave Buzz",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Beetronics/Octahive v2 High Octave Buzz.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Beetronics",
-      "pedal": "Overhive Mid-Gain Overdrive",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Beetronics/Overhive Mid-Gain Overdrive.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Beetronics",
       "pedal": "Royal Jelly Fuzz/OD Blender",
       "catalog_type": "",
       "research_record": "./research/pedals/Beetronics/Royal Jelly Fuzz/OD Blender.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Beetronics",
-      "pedal": "Swarm Fuzz Harmonizer",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Beetronics/Swarm Fuzz Harmonizer.md",
       "research_level": "surface"
     },
     {
@@ -195,6 +167,34 @@
       "pedal": "Zentara Overdrive",
       "catalog_type": "",
       "research_record": "./research/pedals/Behringer/Zentara Overdrive.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Big John Effects",
+      "pedal": "BassDrive",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Big John Effects/BassDrive.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Big John Effects",
+      "pedal": "Hairy Balls",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 083/Hairy Balls.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Big John Effects",
+      "pedal": "Lil' John series",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 083/Lil' John series.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Big John Effects",
+      "pedal": "Obama Wah",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 083/Obama Wah.md",
       "research_level": "surface"
     }
   ]

@@ -1,23 +1,42 @@
 # Way Huge — Green Rhino MkIV
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Green Rhino MkIV
 - **Builder:** Way Huge
-- **Pedal:** Green Rhino MkIV
 - **Catalog type:** Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Way Huge's Green Rhino MkIV.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Green Rhino MkIV** by **Way Huge** as a **Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Way Huge's Green Rhino MkIV is cataloged as an overdrive pedal.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- The verified evidence references: MKII, MKIV, MkII, MkIV.
+- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+In addition to the Volume, Tone, and Drive controls of the original, this beastie has the MkII's 100Hz control and an all new 500Hz control so you can to cut or boost your lows and mids by 12dB each way.
+Just throw the Classic switch to get the simple Volume, Tone, Drive setup and sound of the original Green Rhino Overdrive.
+It can take a clean amp from pristine purity to a punchy, dynamic rhythm tone, but put it in front of a distorted channel, and you'll hear more gain and sustain than you ever thought your amp was capable of.
+
+## Sources checked
+1. Way Huge Green Rhino MkIV Overdrive Pedal | Sweetwater: https://www.sweetwater.com/store/detail/GreenRhinoM--way-huge-green-rhino-mkiv-overdrive-pedal
+2. Way Huge WHE207 Green Rhino MKIV — Overdrive Pedal: https://equipboard.com/items/way-huge-electronics-green-rhino-overdrive-mkiv-whe207
+3. Way Huge Green Rhino MkIV - Overdrive Pedal | Reverb: https://reverb.com/item/10490324-way-huge-green-rhino-mkiv-overdrive-pedal
+4. Way Huge Green Rhino MKIV Overdrive Pedal Way Huge Effects Pedal The Green Rhino Overdrive Mark IV has more force than ever behind its mighty charge, featuring the Volume, Tone, and Drive controls of the original with the MKII's 100Hz, an all-new 500Hz control, and a Classic switch to get the simple Volume, Tone, Drive setup and sound of the original Green Rhino Overdrive.THE LONG STORY.The Green Rhino Overdrive Mark IV is smaller and more compact than its ancestors, but it has more force than ever behind its mighty charge. In addition to the Volume, Tone, and Drive controls of the original, this beastie has the MkII's 100Hz control and an all new 500Hz control so you can to cut or boost your lows and mids by 12dB each way. Make your notes shake the ground like a stampede across the savannah or cut through the mix like a rushing rhino's horn. Want to take this pedal back to its ancestral roots? Just throw the Classic switch to get the simple Volume, Tone, Drive setup and sound of the original Green Rhino Overdrive. The MkIV is as versatile as it is rambunctious, and it'll come to heel if need be. It can take a clean amp from pristine purity to a punchy, dynamic rhythm tone, but put it in front of a distorted channel, and you'll hear more gain and sustain than you ever thought your amp was capable of.: https://musicvillageusa.com/products/way-huge-green-rhino-mkiv-overdrive
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
