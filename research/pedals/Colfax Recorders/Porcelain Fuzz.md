@@ -38,3 +38,21 @@ Pedal of the Day characterizes Porcelain as capable of squishy fuzz, stronger ps
 ## Sources checked
 1. Pedal of the Day - Colfax Recorders Porcelain Fuzz: https://www.pedal-of-the-day.com/2022/12/14/colfax-recorders-porcelain-fuzz/
 2. Colfax Recorders archive: https://colfaxrecorders.com/store
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+The Porcelain Fuzz might sound a bit dainty, delicate or slightly breakable at first, but this three-knob wonder will annihilate anything that crosses its path… The Porcelain Fuzz can be your dirty, squishy fuzz that is ready to find a home anywhere in your signal chain.
+
+### Verified version references
+- The evidence references: MKII.
+
+### Verified sound evidence
+The first two pedals we have had the pleasure to explore from Colfax Recorders , the Apache Rose Preamp and the Zephyr Overdrive , were absolute musical beasts.
+The Porcelain Fuzz might sound a bit dainty, delicate or slightly breakable at first, but this three-knob wonder will annihilate anything that crosses its path… The Porcelain Fuzz can be your dirty, squishy fuzz that is ready to find a home anywhere in your signal chain.
+The Tone knob can boost or scoop the bite of the fuzz to sit wherever you want it in the mix, and Fuzz , when cranked, can get you a gnarly, psychedelic fuzz sound that cleans up nicely with your guitar’s volume knob.
+
+### Sources checked in this pass
+1. Colfax Recorders Porcelain Fuzz - Pedal of the Day: https://www.pedal-of-the-day.com/2022/12/14/colfax-recorders-porcelain-fuzz/

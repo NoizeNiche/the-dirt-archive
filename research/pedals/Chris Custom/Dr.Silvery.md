@@ -31,3 +31,13 @@ The pedal is documented as a overdrive model in the Chris Custom catalog. More d
 
 ## Sources checked
 1. Effects Database — Chris Custom catalog: https://www.effectsdatabase.com/model/chriscustom
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Chris Custom's Dr.Silvery is cataloged as an overdrive pedal.
+
+### Sources checked in this pass
+1. Chris Custom | Effects Database: https://www.effectsdatabase.com/model/chriscustom

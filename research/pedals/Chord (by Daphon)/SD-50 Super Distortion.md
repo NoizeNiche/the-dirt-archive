@@ -31,3 +31,17 @@ Chord/Daphon's description emphasizes flexibility. The Low and High EQ controls 
 
 ## Sources checked
 1. Effects Database — Chord SD-50 Super Distortion: https://www.effectsdatabase.com/model/chord/daphon/sd50
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Chord (by Daphon)'s SD-50 Super Distortion is cataloged as a distortion pedal.
+
+### Verified sound evidence
+Chord (by Daphon) SD-50 Super Distortion
+Low and High EQ controls give a more specific voice to the level of gain selected to produce a wide range of distortion tones.
+
+### Sources checked in this pass
+1. Chord (by Daphon) SD-50 Super Distortion | Effects Database: https://www.effectsdatabase.com/model/chord/daphon/sd50

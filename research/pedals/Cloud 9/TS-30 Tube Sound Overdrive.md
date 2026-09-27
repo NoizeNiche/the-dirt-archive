@@ -45,3 +45,19 @@ Drive controls the amount of distortion and sustain, Level controls output, and 
 ## Sources checked
 1. Effects Database — Cloud 9 TS-30 Tube Sound Overdrive: https://www.effectsdatabase.com/model/cloud9/ts30
 2. Effects Database — Cloud 9 catalog: https://www.effectsdatabase.com/model/cloud9
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Cloud 9's TS-30 Tube Sound Overdrive is cataloged as an overdrive pedal.
+
+### Verified diode terms
+- LED.
+
+### Verified sound evidence
+Turn clockwise for increasing both distortion and sustain.
+
+### Sources checked in this pass
+1. Cloud 9 TS-30 Tube Sound Overdrive | Effects Database: https://www.effectsdatabase.com/model/cloud9/ts30

@@ -31,3 +31,26 @@ The model sits in the OD-808 / Tube Screamer family, so its documented identity 
 
 ## Sources checked
 1. Effects Database — Chucktone Effects Overdrive 809: https://www.effectsdatabase.com/model/chucktone/overdrive809
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Chucktone Effects's Overdrive 809 is cataloged as an overdrive pedal.
+
+### Verified color/finish evidence
+- Screamer Build Your Own Clone Screamer Clone Chicago Stompworks The Green Thing Chucktone Effects Overdrive 809 Ciclar Overdrive Cog Effects Darklighter - Overdrive ColorTone Fx OD-909 Overdrive Pro Compulsive Audio Valve Howler Donner Blues Drive dp Musicworks Custom Drive dp Musicworks Double Drive Dr.
+
+### Verified version references
+- The evidence references: v2.
+
+### Verified diode terms
+- LED.
+
+### Verified sound evidence
+AXS Effects Soul Screamer B&B 808 Overdrive Behringer TO800 Vintage Tube Overdrive Big Knob Pedals Tube 808 - Classic Amp Boost BrickTone Dr.
+Screamer Build Your Own Clone Screamer Clone Chicago Stompworks The Green Thing Chucktone Effects Overdrive 809 Ciclar Overdrive Cog Effects Darklighter - Overdrive ColorTone Fx OD-909 Overdrive Pro Compulsive Audio Valve Howler Donner Blues Drive dp Musicworks Custom Drive dp Musicworks Double Drive Dr.
+
+### Sources checked in this pass
+1. Chucktone Effects Overdrive 809 | Effects Database: https://www.effectsdatabase.com/model/chucktone/overdrive809

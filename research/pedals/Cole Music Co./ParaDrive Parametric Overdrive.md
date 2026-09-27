@@ -42,3 +42,14 @@ The parametric EQ can be used for treble-boost style shaping, feedback notching,
 1. Premier Guitar - Cole Music Releases the Paradrive Parametric Overdrive: https://www.premierguitar.com/cole-music-releases-the-paradrive-parametric-overdrive
 2. Premier Guitar - Cole Music Co. Paradrive review: https://www.premierguitar.com/gear/this-overdrive-has-an-identity-crisis-in-a-good-way
 3. Cole Music Co. product catalog: https://colemusic.co/collections/all
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Cole Music Co.'s ParaDrive Parametric Overdrive is cataloged as an overdrive pedal.
+
+### Sources checked in this pass
+1. Cole Music Releases the Paradrive Parametric Overdrive - Premier Guitar: https://www.premierguitar.com/cole-music-releases-the-paradrive-parametric-overdrive
+2. Cole Music Co. Paradrive Parametric Overdrive/Distortion | Reverb: https://reverb.com/item/83601974-cole-music-co-paradrive-parametric-overdrive-distortion-guitar-effects-pedal

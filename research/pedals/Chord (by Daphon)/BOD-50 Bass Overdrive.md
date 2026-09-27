@@ -31,3 +31,18 @@ The model is documented as a bass overdrive, but stronger exact-model sonic char
 
 ## Sources checked
 1. Effects Database — Chord (by Daphon) family: https://www.effectsdatabase.com/model/chord/daphon
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Chord (by Daphon)'s BOD-50 Bass Overdrive is cataloged as an overdrive pedal.
+
+### Verified sound evidence
+Chord (by Daphon) BOD-50 Bass Overdrive
+The BOD-50 pedal's controls have been developed to give a wide range of gain control without diminishing the low frequency response of a bass guitar.
+Independent 2-band EQ controls help to sculpt the tone even further.
+
+### Sources checked in this pass
+1. Chord (by Daphon) BOD-50 Bass Overdrive | Effects Database: https://www.effectsdatabase.com/model/chord/daphon/bod50

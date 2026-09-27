@@ -33,3 +33,17 @@ The blue side emphasizes high headroom and clear low-gain drive, while the green
 ## Sources checked
 1. Browne Amplification — Protein Dual Overdrive V3: https://browneamps.com/store/p/protein-dual-overdrive-v3
 2. Browne Amplification — Protein Dual Overdrive V4: https://browneamps.com/store/p/protein-dual-overdrive-v4
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Browne Amplification's The Protein v3 is cataloged as an overdrive pedal.
+
+### Verified version references
+- The evidence references: V3, v3.
+
+### Sources checked in this pass
+1. Browne Amplification The Protein v3 - Dual Overdrive: https://www.effectsdatabase.com/model/browne/protein/v3
+2. Browne Amplification The Protein V3 Dual Overdrive Effect Pedal w/Box #181: https://www.musiquegagne.com/en/browne-amplification-the-protein-v3-dual-overdrive-effect-pedal-w-box-181-180626-6

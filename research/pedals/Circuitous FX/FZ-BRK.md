@@ -32,3 +32,17 @@ The FZ-BRK deliberately emphasizes compressed, gated, robotic square-wave fuzz r
 
 ## Sources checked
 1. Effects Database — Circuitous FX FZ-BRK: https://www.effectsdatabase.com/model/circuitousfx/fzbrk
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+0:21 2025-02-24 B's Music Shop LEGO Fuzz Pedal?
+
+### Verified sound evidence
+It is brutal, compressed, fuzzy, and robotic.
+0:21 2025-02-24 B's Music Shop LEGO Fuzz Pedal?
+
+### Sources checked in this pass
+1. Circuitous FX FZ-BRK | Effects Database: https://www.effectsdatabase.com/model/circuitousfx/fzbrk

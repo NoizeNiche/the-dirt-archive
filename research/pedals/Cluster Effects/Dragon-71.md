@@ -37,3 +37,19 @@ The preserved manufacturer demo trail shows Dragon-71 used for fuzz on bass as w
 ## Sources checked
 1. Effects Database — Cluster Effects Dragon-71: https://www.effectsdatabase.com/model/cluster/dragon71
 2. Cluster Effects manufacturer link preserved by Effects Database: https://www.efectoscluster.com.ar/
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+not by manufacturer Date ▼▲ Maker ▼▲ Video ▼▲ Time ▼▲ 2019-02-12 Cluster Effects Demo – The Dragon-71 – Fuzz pedal – Efectos Cluster 5:15 2017-07-05 Cluster Effects Ariana Falcó testeando el fuzz The Dragon-71 con su bajo
+
+### Verified version references
+- The evidence references: Mk2.
+
+### Verified sound evidence
+not by manufacturer Date ▼▲ Maker ▼▲ Video ▼▲ Time ▼▲ 2019-02-12 Cluster Effects Demo – The Dragon-71 – Fuzz pedal – Efectos Cluster 5:15 2017-07-05 Cluster Effects Ariana Falcó testeando el fuzz The Dragon-71 con su bajo
+
+### Sources checked in this pass
+1. Cluster Effects Dragon-71 | Effects Database: https://www.effectsdatabase.com/model/cluster/dragon71

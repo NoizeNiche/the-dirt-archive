@@ -38,3 +38,21 @@ The Acetone Fuzz has strong high-frequency bite in high-pass mode and much great
 
 ## Sources checked
 1. Effects Database — Circular Time Hardware Acetone Fuzz: https://www.effectsdatabase.com/model/circulartime/acetone
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Circular Time Hardware's Acetone Fuzz is cataloged as a fuzz pedal.
+
+### Verified version references
+- The evidence references: v1, v2, v3.
+
+### Verified sound evidence
+Circular Time Hardware Acetone Fuzz
+On high pass you get a pretty treble heavy sound, which brings out a lot of the higher overtones and harmonics the pedal generates.
+Low pass is great for bass as it retains a lot of low end, especially for a distortion.
+
+### Sources checked in this pass
+1. Circular Time Hardware Acetone Fuzz | Effects Database: https://www.effectsdatabase.com/model/circulartime/acetone

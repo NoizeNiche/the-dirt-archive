@@ -53,3 +53,15 @@ Reverb hosts exact-model Modern Factor listings with actual unit photographs. [2
 1. Basseffectorboard - Commune SENTURION MODERN FACTOR: https://basseffectorboardcom.wordpress.com/2019/08/07/
 2. Reverb Finland - Commune SENTURION MODERN FACTOR: https://reverb.com/en-fi/item/64258893-commune-senturion-modern-factor-12-21
 3. Moby Dick - Commune catalog: https://www.mobydick.asia/cf.html
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Commune's Senturion Modern Factor is cataloged as an overdrive pedal.
+
+### Sources checked in this pass
+1. catalog/override source: https://reverb.com/en-fi/item/64258893-commune-senturion-modern-factor-12-21
+2. Commune Senturion Modern Factor - Effects Database: https://www.effectsdatabase.com/model/commune/senturion/modernfactor
+3. Commune SENTURION MODERN FACTOR 928754 - eBay: https://www.ebay.com/itm/307035394668

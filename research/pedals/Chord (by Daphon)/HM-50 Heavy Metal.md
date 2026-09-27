@@ -44,3 +44,13 @@ The HM-50 is specifically designed for hard-hitting metal tones. Its four-band-s
 ## Sources checked
 1. Chord/AVSL — HM-50 Heavy Metal manual: https://www.avsl.com/assets/manuals/1/7/174207UK.pdf
 2. Effects Database — Chord (by Daphon): https://www.effectsdatabase.com/model/chord/daphon
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Chord (by Daphon)'s HM-50 Heavy Metal is cataloged as a distortion pedal.
+
+### Sources checked in this pass
+1. Chord (by Daphon) | Effects Database: https://www.effectsdatabase.com/model/chord/daphon

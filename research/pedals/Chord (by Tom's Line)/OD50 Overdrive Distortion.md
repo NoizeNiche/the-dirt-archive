@@ -40,3 +40,21 @@ Chord describes the OD50 as covering natural, open mild drive through heavier sa
 
 ## Sources checked
 1. Effects Database — Chord (by Tom's Line) OD50: https://www.effectsdatabase.com/model/chord/tomsline/od50
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Chord (by Tom's Line)'s OD50 Overdrive/Distortion is cataloged as a distortion / overdrive pedal.
+
+### Verified diode terms
+- LED.
+
+### Verified sound evidence
+Chord (by Tom's Line) OD50 Overdrive/Distortion
+A wide range of tones are available from natural and open-sounding mild drive tones to heavier saturated distortion with all points in between to cover different music styles.
+Its circuitry employs a high-gain FET transistor stage to emulate the warm, harmonically rich response of an overdriven tube amplifier.
+
+### Sources checked in this pass
+1. Chord (by Tom's Line) OD50 Overdrive/Distortion | Effects Database: https://www.effectsdatabase.com/model/chord/tomsline/od50

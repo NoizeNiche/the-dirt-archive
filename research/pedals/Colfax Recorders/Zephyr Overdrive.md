@@ -36,3 +36,24 @@ Zephyr is designed to cover boost-to-crunch through heavier distortion. The Tone
 ## Sources checked
 1. Pedal of the Day - Colfax Recorders Zephyr Overdrive: https://www.pedal-of-the-day.com/2022/11/18/colfax-recorders-zephyr-overdrive/
 2. Colfax Recorders archive: https://colfaxrecorders.com/store
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Colfax Recorders's Zephyr Overdrive is cataloged as an overdrive pedal.
+
+### Verified color/finish evidence
+- A versatile but easy-to-dial-in drive, this baby blue beauty adds the perfect dirt element to your pedalboard, and fits right in as your new favorite always-on effect… The Zephyr Overdrive with its tweakable high shelf and mid hump can be your go-to dirt pedal.
+
+### Verified version references
+- The evidence references: MKII.
+
+### Verified sound evidence
+Today, we’re venturing down their path once again, as we explore the Zephyr Overdrive.
+A versatile but easy-to-dial-in drive, this baby blue beauty adds the perfect dirt element to your pedalboard, and fits right in as your new favorite always-on effect… The Zephyr Overdrive with its tweakable high shelf and mid hump can be your go-to dirt pedal.
+It sits well as an always-on transparent crunch, or as a gnarly distortion .
+
+### Sources checked in this pass
+1. Colfax Recorders Zephyr Overdrive - Pedal of the Day: https://www.pedal-of-the-day.com/2022/11/18/colfax-recorders-zephyr-overdrive/

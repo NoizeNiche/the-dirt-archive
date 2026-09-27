@@ -47,3 +47,17 @@ The diode configuration directly changes the distortion character. The documente
 ## Sources checked
 1. Effects Database - Copper Gear Brontide Device: https://www.effectsdatabase.com/model/coppergear/brontide/device
 2. Effects Database - Copper Gear: Steve Goldsborough interview: https://www.effectsdatabase.com/interviews/brands/coppergear
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Copper Gear Brontide Device - True Analog Distortion Pedal with Swappable Diodes
+
+### Verified sound evidence
+Copper Gear Brontide Device - True Analog Distortion Pedal with Swappable Diodes
+
+### Sources checked in this pass
+1. catalog/override source: https://www.effectsdatabase.com/model/coppergear/brontide/device
+2. Copper Gear Brontide Device - True Analog Distortion Pedal with Swappable Diodes | Musician's Friend: https://www.musiciansfriend.com/amplifiers-effects/copper-gear-brontide-device--true-analog-distortion-pedal-with-swappable-diodes

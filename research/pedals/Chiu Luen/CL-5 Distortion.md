@@ -29,3 +29,13 @@ The CL-5 is documented as a compact OEM distortion pedal. Deeper sonic and circu
 
 ## Sources checked
 1. Effects Database — Chiu Luen CL-5 Distortion and related OEM tree: https://www.effectsdatabase.com/model/chiuluen/cl5
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Chiu Luen's CL-5 Distortion is cataloged as a distortion pedal.
+
+### Sources checked in this pass
+1. Chiu Luen CL-5 Distortion | Effects Database: https://www.effectsdatabase.com/model/chiuluen/cl5

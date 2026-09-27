@@ -39,3 +39,16 @@ Chord describes the OD-50 as an overdrive designed for natural amp-like drive, c
 ## Sources checked
 1. Effects Database — Chord OD-50 Overdrive: https://www.effectsdatabase.com/model/chord/daphon/od50
 2. Chord/AVSL — OD-50 Overdrive manual: https://www.avsl.com/assets/manuals/1/7/174204UK.pdf
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Chord (by Daphon)'s OD-50 Overdrive is cataloged as an overdrive pedal.
+
+### Verified sound evidence
+Classic rock tones can be achieved from mild crunch to high energy saturation.
+
+### Sources checked in this pass
+1. Chord (by Daphon) OD-50 Overdrive | Effects Database: https://www.effectsdatabase.com/model/chord/daphon/od50

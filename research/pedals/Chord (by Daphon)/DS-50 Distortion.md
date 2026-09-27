@@ -41,3 +41,13 @@ Chord describes the DS-50 as a conventional guitar distortion pedal whose Tone c
 ## Sources checked
 1. Effects Database — Chord DS-50 Distortion: https://www.effectsdatabase.com/model/chord/daphon/ds50
 2. Chord DS-50 official manual: https://avsl.manymanuals.com/musical-instruments/174-201-ds-50/user-manual-45258
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Chord (by Daphon)'s DS-50 Distortion is cataloged as a distortion pedal.
+
+### Sources checked in this pass
+1. Chord (by Daphon) DS-50 Distortion | Effects Database: https://www.effectsdatabase.com/model/chord/daphon/ds50
