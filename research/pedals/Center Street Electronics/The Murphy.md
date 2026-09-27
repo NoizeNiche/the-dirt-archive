@@ -4,33 +4,48 @@
 - **Archive parent:** The Murphy
 - **Builder:** Center Street Electronics
 - **Catalog type:** Overdrive
-- **Identity:** Center Street Electronics The Murphy, a simple three-control overdrive based on the Tube Screamer / TS808 family.
+- **Identity:** Compact three-control overdrive developed from Center Street's early TS808-based work. [1][2]
 
-## What this pedal is
-Contemporary coverage of Center Street Electronics identifies The Murphy as one of the company's early overdrives and describes the model as having **Drive, Tone, and Level** controls. The same account explains that Center Street Electronics began with a TS808-based design, which developed into The Murphy. [1]
+## Controls
+- **DRIVE**
+- **TONE**
+- **LEVEL** [1]
 
-Effects Database records The Murphy as a Center Street Electronics pedal introduced in 2014. [2]
-
-## Colorways
-- The checked sources identify the exact model but do not establish a complete factory colorway sequence.
-
-## Versions and factory options
-The documented control set is **Drive, Tone, Level**. [1]
-
-No formal numbered factory V1/V2 sequence was established.
-
-## Version changes
-No reliable numbered production revision history was found in the checked sources.
+## Circuit lineage
+- Center Street's own history describes The Murphy as growing from a **TS808-based** design.
+- This is a builder-history lineage statement, not proof that The Murphy is component-for-component identical to a particular TS808 revision. [1]
 
 ## Transistor
-No exact-model transistor part number was established in the checked sources.
+- Exact production transistor/device part number is not publicly documented.
 
-## Diode
-No exact-model diode specification was established in the checked sources.
+## Diode / clipping
+- Exact clipping-device type and part number are not publicly documented.
+
+## Power
+- Exact model-specific voltage/current details are not securely preserved in the reviewed sources.
+
+## Construction / history
+- Early Center Street Electronics model.
+- Effects Database documents introduction in **2014**. [2]
+- No numbered electronic revision established.
 
 ## Sound
-The Murphy is a straightforward overdrive in the Tube Screamer / TS808 lineage, emphasizing a compact control set and conventional overdrive shaping. [1]
+The Murphy is positioned as a straightforward TS808-family overdrive, using a compact Drive/Tone/Level interface and intended for low-to-medium-gain applications. [1]
+
+## Research confidence
+- **Identity:** High
+- **2014 introduction:** High
+- **TS808-development lineage:** High
+- **Three-control map:** High
+- **Exact semiconductor devices:** Unknown
+- **Power:** Not established
+
+## Deep research verification
+The Center Street Electronics history source and Effects Database record were cross-checked. The evidence establishes The Murphy's place in the builder's early overdrive line and its three-control interface. [1][2]
 
 ## Sources checked
 1. NVGgear — Center Street Electronics overview: https://nvggear.wordpress.com/
-2. Effects Database — Center Street Electronics 2014 additions: https://www.effectsdatabase.com/blog/discofreq?%2C_SESS702232087f78c6774c5da39af006=7ab37d9104fc9a5a6d0d3b7a&page=64
+2. Effects Database — Center Street Electronics additions: https://www.effectsdatabase.com/blog/discofreq?%2C_SESS702232087f78c6774c5da39af006=7ab37d9104fc9a5a6d0d3b7a&page=64
+
+## Photo
+- Exact-model photo status remains handled separately.
