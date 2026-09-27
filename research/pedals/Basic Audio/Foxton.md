@@ -6,32 +6,34 @@
 - **Catalog type:** Fuzz
 - **Identity:** Silicon octave-up fuzz based on the Foxx Tone Machine family, with Half-Gain and Octave-Cut functions. [1][2]
 
-## Controls / architecture
-- **HALF GAIN** switch.
-- **OCTAVE CUT** switch.
-- Main fuzz/output controls as documented by the builder's compact layout.
-- Silicon octave-up fuzz architecture. [1]
+## What this pedal is
+Basic Audio describes Foxton as its controllable interpretation of the Foxx Tone Machine octave fuzz, with switching that lets the player reduce both gain range and octave emphasis. [1]
+
+## Controls / switching
+- **HALF GAIN:** Reduces the available gain range.
+- **OCTAVE CUT:** Reduces or removes the octave component.
+- Main fuzz/output controls are retained in the production layout. [1]
 
 ## Circuit lineage
 - **Primary reference:** Foxx Tone Machine.
-- Basic Audio describes Foxton as a more controllable octave-up fuzz, comparing its octave strength and filtering to related Super Fuzz/Foxx designs. [1][2]
+- The design is an interpretation with additional control, not a documented one-to-one historical component recreation. [1][2]
 
 ## Transistor
 - **Technology:** Silicon.
-- Exact factory transistor part number is not publicly documented. [3]
+- Exact factory transistor part number is not publicly documented. [1][3]
 
 ## Diode / clipping
-- Exact clipping-device part number is not published.
+- Exact clipping-device type and part number are not published.
 
 ## Power
-- **9V center-negative** operation with battery support is documented. [1]
+- **9V center-negative** with battery support. [1]
 
 ## Version history
 - No numbered electronic revision established.
-- Finish changes are not treated as electronic versions.
+- Finish differences are cosmetic unless supported by circuit evidence.
 
 ## Sound
-Foxton emphasizes a strong octave-up voice while allowing the player to reduce the octave component or lower the gain range. The builder describes this as a more controllable take on the Foxx Tone Machine family. [1][2]
+Foxton is built around a strong octave-up voice. Octave Cut lets the player pull the octave contribution back, while Half Gain reduces the gain range for less saturated settings. The result is a more controllable Foxx Tone Machine-style octave fuzz. [1][2]
 
 ## Research confidence
 - **Identity:** High
@@ -42,7 +44,7 @@ Foxton emphasizes a strong octave-up voice while allowing the player to reduce t
 - **Exact diode:** Unknown
 
 ## Deep research verification
-Basic Audio's Foxton page was checked against Reverb and the builder interview. The evidence supports the Foxx Tone Machine lineage, silicon implementation and Half-Gain/Octave-Cut functionality. Exact semiconductor part numbers remain unpublished. [1][2][3]
+Basic Audio's product page was cross-checked with a signed exact-model Reverb listing and the John Lyons builder interview. The evidence supports the Foxx Tone Machine lineage, silicon implementation and Half-Gain/Octave-Cut functions. [1][2][3]
 
 ## Sources checked
 1. Basic Audio — Foxton: https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-6jkg6-2tw4r
@@ -52,4 +54,3 @@ Basic Audio's Foxton page was checked against Reverb and the builder interview. 
 ## Photo
 - **Exact pedal photograph:** Basic Audio official product photograph.
 - **Direct image:** https://images.squarespace-cdn.com/content/v1/5da9e97016ddf940acffa2d3/1574293717745-Q6MNX5JQNSJXGBWNFVOE/DSCF5416-Edit.jpg
-- **Source page:** Basic Audio Foxton product page.
