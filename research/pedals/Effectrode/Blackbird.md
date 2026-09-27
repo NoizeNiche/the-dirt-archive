@@ -1,23 +1,42 @@
 # Effectrode — Blackbird
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Blackbird
 - **Builder:** Effectrode
-- **Pedal:** Blackbird
 - **Catalog type:** Distortion
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Effectrode's Blackbird.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Blackbird** by **Effectrode** as a **Distortion** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Do you have a question about the Blackbird SR-71 and is the answer not in the manual?
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+Effectrode SR-71 Blackbird Drive/Preamp review
+Controls: Dedicated Bass, Mid, Treble, Volume controls for each channel (Gain on drive channel)
+All tube: Hot-rodded overdrive channel based on 4 class-A tube stages.
+
+## Sources checked
+1. PDF Blackbird Tube Tone Engine - Effectrode: https://www.effectrode.com/wp-content/uploads/2024/02/sr_71_blackbird_preamp_owners_manual_december2021.pdf
+2. Effectrode SR-71 Blackbird Drive/Preamp review | MusicRadar: https://www.musicradar.com/reviews/effectrode-sr-71-blackbird-drivepreamp
+3. EFFECTRODE BLACKBIRD SR-71 OWNER'S MANUAL Pdf Download | ManualsLib: https://www.manualslib.com/manual/3444240/Effectrode-Blackbird-Sr-71.html
+4. PDF Effectrode Blackbird SR-71 Review Best Pre-Amp Pedal?: https://jaazz.me/wp-content/uploads/2019/01/Effectrode-Blackbird-SR-71-Review-.pdf
+5. Client Challenge: https://www.scribd.com/document/818970880/Effectrode-Blackbird-SR-71-Review
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

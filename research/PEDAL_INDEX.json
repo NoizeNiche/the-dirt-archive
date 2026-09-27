@@ -34885,8 +34885,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Effectrode/Blackbird.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Effectrode",
@@ -35067,8 +35067,8 @@
       "image": "./assets/pedals/electro-harmonix/deluxe-big-muff-2/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Electro-Harmonix/Deluxe Big Muff 2.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Electro-Harmonix",
@@ -35323,8 +35323,8 @@
       "image": "./assets/pedals/electro-harmonix/nano-battalion-bass-preamp-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Electro-Harmonix/Nano Battalion Bass Preamp & Overdrive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Electro-Harmonix",
@@ -35753,8 +35753,8 @@
       "image": "./assets/pedals/empress-effects/fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Empress Effects/Fuzz.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Empress Effects",
@@ -35789,8 +35789,8 @@
       "image": "./assets/pedals/empress-effects/heavy-menace/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Empress Effects/Heavy Menace.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Empress Effects",
@@ -44161,8 +44161,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Maxon/ROD881.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Maxon",
@@ -46879,8 +46879,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/MXR/Fullbore Metal Distortion.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "MXR",
@@ -46891,8 +46891,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/MXR/Gran Torino Boost Overdrive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "MXR",

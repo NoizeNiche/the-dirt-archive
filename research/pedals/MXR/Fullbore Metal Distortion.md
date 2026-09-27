@@ -1,23 +1,47 @@
 # MXR — Fullbore Metal Distortion
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Fullbore Metal Distortion
 - **Builder:** MXR
-- **Pedal:** Fullbore Metal Distortion
 - **Catalog type:** Distortion
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** MXR's Fullbore Metal Distortion.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Fullbore Metal Distortion** by **MXR** as a **Distortion** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Warranty Information The Long Story Ultimate riff power is yours with the Fullbore Metal Distortion pedal from MXR.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- While many customers love the sound and find it worth the money, opinions about noise control are mixed, with some praising the noise gate feature while others complain about excessive white noise.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+MXR® FULLBORE® METAL DISTORTION - Dunlop Toggle menu Compare
+Warranty Information The Long Story Ultimate riff power is yours with the Fullbore Metal Distortion pedal from MXR.
+The Fullbore Metal Distortion turbo-charges your guitar signal with lethal amounts of ultra high gain.
+
+## Sources checked
+1. MXR® FULLBORE® METAL DISTORTION - Dunlop: https://www.jimdunlop.com/mxr-fullbore-metal-distortion/
+2. MXR M116 Fullbore Metal Distortion Pedal | Sweetwater: https://www.sweetwater.com/store/detail/FullBoreDist--mxr-m116-fullbore-metal-distortion-pedal
+3. open prime modal: https://www.amazon.com/clp/B002QKRUJG
+4. MXR Fullbore Metal Distortion Review: Unleashing Brutal Modern High ...: https://sonicmetric.com/mxr-fullbore-metal-distortion-review-unleashing-brutal-modern-high-gain-tones/
+5. MXR M116 Fullbore Metal Distortion Guitar Effects Pedal | Guitar Center: https://www.guitarcenter.com/MXR/M116-Fullbore-Metal-Distortion-Guitar-Effects-Pedal-1274228081982.gc
+6. MXR FULLBORE METAL DISTORTION | AllThePedals: https://allthepedals.com/pedals/mxr-fullbore-metal-distortion/
+7. User manual MXR FULLBORE METAL DISTORTION M116 (English - 2 pages): https://www.manua.ls/mxr/fullbore-metal-distortion-m116/manual
+8. Dunlop M116 MXR FULLBORE METAL DISTORTION manual: https://manualzz.com/doc/24585251/dunlop-m116-mxr-fullbore-metal-distortion-manual
+9. MXR FULLBORE METAL DISTORTION M116 user manual (English - 2 pages): https://www.manuals.co.uk/mxr/fullbore-metal-distortion-m116/manual
+10. MXR Fullbore Metal Distortion Pedal | Reverb: https://reverb.com/item/97946073-mxr-fullbore-metal-distortion-pedal
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

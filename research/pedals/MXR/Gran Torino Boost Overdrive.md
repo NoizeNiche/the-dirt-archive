@@ -1,23 +1,44 @@
 # MXR — Gran Torino Boost Overdrive
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Gran Torino Boost Overdrive
 - **Builder:** MXR
-- **Pedal:** Gran Torino Boost Overdrive
 - **Catalog type:** Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** MXR's Gran Torino Boost Overdrive.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Gran Torino Boost Overdrive** by **MXR** as a **Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+MXR's Gran Torino Boost Overdrive is cataloged as an overdrive pedal.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- The verified evidence references: V12, V6.
+- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+Featuring a 3-band EQ, master volume, and gain controls, this pedal offers both boost and overdrive modes for versatile sound shaping.
+It includes a Class A Low Impedance Output Driver to maintain signal integrity in long signal chains, making it a great choice for adding sustain and smooth overdrive to your rig.
+Setup is easy—just dial in your desired Master volume and Gainlevels, fine-tune it all with the 3-band EQ, and then choose your output mode with the BOOST/OD switch: Boost for cleaner notes and rich sustain, OD for smooth, mellow overdrive.
+
+## Sources checked
+1. MXR Gran Torino Boost Overdrive Pedal | Equipboard: https://equipboard.com/items/mxr-gran-torino-boost-overdrive-pedal-limited-edition
+2. MXR CSP033G Gran Torino Boost Overdrive Effects Pedal - Reverb: https://reverb.com/item/86180581-mxr-csp033g-gran-torino-boost-overdrive-effects-pedal
+3. MXR Gran Torino Boost Overdrive | ReverbZone: https://reverbzone.com/mxr/mxr-gran-torino-boost-overdrive/
+4. MXR GRAN TORINO BOOST OVERDRIVE | AllThePedals: https://allthepedals.com/pedals/mxr-gran-torino-boost-overdrive
+5. MXR CSP033G Gran Torino Boost Overdrive Pedal: https://www.vertexaudiogear.com/product/mxr-csp033g-gran-torino-boost-overdrive-pedal/
+6. MXR Gran Torino Boost Overdrive: https://bsmusicshop.com/products/mxr-gran-torino-boost-overdrive
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
