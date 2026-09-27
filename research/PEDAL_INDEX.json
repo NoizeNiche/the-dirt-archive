@@ -12386,8 +12386,8 @@
       "image_source_urls": [
         "https://www.blackartstoneworks.com/wp-content/uploads/2015/01/bff.png"
       ],
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Black Arts Toneworks",
@@ -12426,8 +12426,8 @@
       "image_source_urls": [
         "https://www.blackartstoneworks.com/wp-content/uploads/2015/01/coven2.jpg"
       ],
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Black Arts Toneworks",
@@ -12448,8 +12448,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_url": "https://www.blackartstoneworks.com/wp-content/uploads/2015/10/coh1.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Black Arts Toneworks",
@@ -12484,8 +12484,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_url": "https://www.blackartstoneworks.com/wp-content/uploads/2015/01/fnordnew.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Black Arts Toneworks",
@@ -12500,8 +12500,8 @@
       "image_source_page": "https://www.blackartstoneworks.com/pedal/lstr/",
       "image_source_page_verified": true,
       "image_source_url": "https://www.blackartstoneworks.com/wp-content/themes/bat/img/layer4.png",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Black Arts Toneworks",

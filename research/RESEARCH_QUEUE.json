@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-27T09:49:44.247804+00:00",
+  "generated_at": "2026-09-27T09:51:36.880084+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,8 +10,8 @@
     "pictured": 3123,
     "complete": 3123,
     "research_pending": 0,
-    "deep_research_pending": 1986,
-    "deep_researched": 2256,
+    "deep_research_pending": 1981,
+    "deep_researched": 2261,
     "surface_ready": 4242
   },
   "next_target": {
@@ -94,41 +94,6 @@
     },
     {
       "builder": "Black Arts Toneworks",
-      "pedal": "Black Forest",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 094/Black Forest.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Black Arts Toneworks",
-      "pedal": "Coven",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 094/Coven.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Black Arts Toneworks",
-      "pedal": "Crown of Horns",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 094/Crown of Horns.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Black Arts Toneworks",
-      "pedal": "FNORD",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 094/FNORD.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Black Arts Toneworks",
-      "pedal": "LSTR",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 094/LSTR.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Black Arts Toneworks",
       "pedal": "Pharaoh",
       "catalog_type": "",
       "research_record": "./research/pedals/PRP Batch 094/Pharaoh.md",
@@ -195,6 +160,41 @@
       "pedal": "DJENTTONIC",
       "catalog_type": "",
       "research_record": "./research/pedals/PRP Batch 096/DJENTTONIC.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Black CAT Amps",
+      "pedal": "METAL CORE",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Black CAT Amps/METAL CORE.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Black Cat Pedals",
+      "pedal": "Bee Buzz Fuzz",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 096/Bee Buzz Fuzz.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Black Cat Pedals",
+      "pedal": "D-II Distortion",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 096/D-II Distortion.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Black Cat Pedals",
+      "pedal": "D&S",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 096/D&S.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Black Cat Pedals",
+      "pedal": "Monster K-Fuzz Stompbox",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 096/Monster K-Fuzz Stompbox.md",
       "research_level": "surface"
     }
   ]
