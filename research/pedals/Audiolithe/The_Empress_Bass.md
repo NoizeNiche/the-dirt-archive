@@ -4,67 +4,81 @@
 - **Archive parent:** The Empress Bass
 - **Builder:** Audiolithe
 - **Catalog type:** Overdrive
-- **Introduction:** Current Audiolithe bass-drive generation.
-- **Identity:** One parent pedal built around frequency-split saturation and clean-low blend.
+- **Identity:** Bass-focused drive using Audiolithe's X-FREQ/MIX crossover blend, active three-band EQ and BITE control to saturate mids/highs while preserving low-end punch. [1][2]
 
 ## What this pedal is
-The Empress Bass is Audiolithe's bass-focused drive built to let the player saturate the mids and highs heavily without sacrificing the low-end foundation. Its X-FREQ/MIX crossover blend, active three-band EQ and BITE control are the core of the design. [1][2]
+The Empress Bass is designed for low- through high-gain bass overdrive while retaining the instrument's fundamental low end. Audiolithe says the X-FREQ + MIX crossover approach allows heavy saturation in the mid/high spectrum without sacrificing rumble and punch in the lows. [1]
 
-## Colorways
-- Standard production uses a large silver/black illustrated enclosure.
-- No functional colorway variant verified.
-- Cosmetic differences do not create versions.
+## Controls / architecture
+- **DRIVE**
+- **X-FREQ**
+- **MIX**
+- **VOLUME**
+- **BASS**
+- **FREQ**
+- **MID**
+- **BITE**
+- **TREBLE**
+- Active three-band EQ.
+- X-FREQ/MIX crossover blend.
+- True bypass. [1]
 
-## Versions and factory modifications
-### The Empress Bass — current production
-- Drive
-- X-Freq
-- Mix
-- Volume
-- Bass
-- Freq
-- Mid
-- Bite
-- Treble
-- active 3-band EQ
-- crossover blend
-- BITE presence control
-- true bypass
-- 9V DC external supply
-- internal 18V rail for headroom
-- no battery [1]
+Published EQ ranges:
+- **Bass:** ±14dB @ 80Hz
+- **Mid:** ±14dB at selectable 250Hz / 500Hz / 1kHz
+- **Treble:** ±14dB @ 5kHz
+- **BITE:** 0 / +3 / +6dB @ 3kHz. [1]
 
-### Factory modifications
-- No builder-documented factory MOD or numbered revision verified.
-
-## Version changes
-No numbered production revision was established. Audiolithe presents the pedal as one current design whose key technical distinction is the frequency-split blend that preserves the low end while the upper spectrum receives heavier saturation. [1][2]
+## Circuit architecture
+- Audiolithe signature drive circuit.
+- Frequency-split crossover for low-end preservation.
+- Internal **18V rail** from the external 9V supply for increased headroom.
+- Active three-band EQ plus BITE control. [1]
 
 ## Transistor
-- **Type:** Unknown.
-- No The Empress Bass-specific transistor technology or part number published.
+- Exact transistor/op-amp part numbers are not publicly documented.
 
-## Diode
-- **Type:** Unknown.
-- No exact-pedal diode documentation located.
+## Diode / clipping
+- Exact clipping-device topology is not publicly documented.
+
+## Power / electrical specifications
+Audiolithe currently specifies:
+- **Maximum supply:** 9V DC center-negative.
+- **Minimum supply capability:** 130mA.
+- **Nominal draw:** 80mA.
+- **Input impedance:** 1MΩ.
+- **Output impedance:** 100Ω.
+- **Dimensions:** 126 × 95 × 50mm.
+- **Weight:** 377g.
+- **Battery:** Not supported. [1]
+
+The manufacturer-published 130mA minimum/80mA nominal figures are retained exactly rather than attempting to reconcile them.
+
+## Version history
+- No numbered electronic revision established.
+- The defining architecture is the crossover blend + active EQ + BITE arrangement.
 
 ## Sound
-The Empress Bass is designed to stay thick and amp-like while allowing the mids and highs to become heavily saturated. The X-FREQ/MIX system keeps the lowest frequencies comparatively clean and phase-coherent, while the active EQ and BITE control can add substantial midrange or attack shaping for a bass tone that remains present instead of disappearing into fuzz. [1][3]
+Audiolithe describes The Empress Bass as organic and touch-sensitive from low to high gain. The crossover preserves the low end while allowing mids and highs to become heavily saturated; the EQ and BITE controls then reshape the resulting bass tone. An independent 2025 demo describes the X-FREQ control as substantially changing the character of the drive. [1][3]
 
 ## Research confidence
 - **Identity:** High
-- **Feature set:** High
-- **Factory-version history:** Moderate
-- **Transistor:** Unknown
-- **Diode:** Unknown
-- **Sound:** High
+- **Bass-specific design:** High
+- **X-FREQ/MIX crossover:** High
+- **Active EQ ranges:** High
+- **18V internal rail:** High
+- **Power/impedance:** High
+- **Exact active device:** Unknown
+- **Exact diode:** Unknown
 
-## Photo
-- **Exact pedal photograph:** The Guitar Division photograph of The Empress Bass.
-- **Direct image:** https://theguitardivision.com/photos/products/small/the-empress-bass-audiolithe_639120390903482047.jpg
-- **Source page:** https://theguitardivision.com/en/audiolithe/the-empress-bass-1880.html
+## Deep research verification
+Audiolithe's current The Empress Bass page was cross-checked with an independent 2025 demonstration. The manufacturer source supplies the detailed crossover, EQ, power and impedance specifications; the demo independently confirms the broad low-to-high gain range and practical role of X-FREQ. [1][3]
 
 ## Sources checked
-1. Audiolithe — The Empress Bass official page: https://audiolithefx.com/en-us/products/the-empress
+1. Audiolithe — The Empress Bass: https://audiolithefx.com/en-us/products/the-empress
 2. The Guitar Division — The Empress Bass: https://theguitardivision.com/en/audiolithe/the-empress-bass-1880.html
-3. Audiolithe product/manual specifications: https://audiolithefx.com/en-gb/products/the-empress
+3. rob.robn — The Empress Bass demo: https://www.youtube.com/watch?v=ow5VbmzjiOY
+
+## Photo
+- **Exact pedal photograph:** Existing exact-model Guitar Division photograph.
+- **Source page:** https://theguitardivision.com/en/audiolithe/the-empress-bass-1880.html
