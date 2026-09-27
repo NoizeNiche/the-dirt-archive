@@ -1,0 +1,41 @@
+{
+  "builder": "Electro-Harmonix",
+  "pedal": "Muff Overdrive",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 4,
+  "sources": [
+    {
+      "url": "https://manualsnet.com/electro-harmonix/muff-overdrive",
+      "title": "Electro-Harmonix Muff Overdrive User Manual PDF | Manualsnet",
+      "h1": "Electro-Harmonix Muff Overdrive Manual",
+      "excerpt": "Electro-Harmonix Muff Overdrive User Manual PDF | Manualsnet --> Electro-Harmonix Fuzz Muff Overdrive Manuals Electro-Harmonix Muff Overdrive Manual Pages 4 Year 0 Language(s) en Share PDF Preview Text Only Previous  of 4   GO Next Previous  of 4   GO Next Page 1 FCC COMPLIANCE Note: This equipment has been tested and found to comply with the limits for a Class B digital device, pursuant to part 15 of the FCC Rules. These limits are designed to provide reasonable protection against harmful interference in a residential installation. This equipment generates, uses and can radiate radio frequency energy and, if not installed and used in accordance with the instructions, may cause harmful interference to radio communications. However, there is no guarantee that interference will not occur in a particular installation. If this equipment does cause harmful interference to radio or television reception, which can be determined by turning the equipment off and on, the user is encouraged to try to correct the interference by one or more of the following measures: Reorient or relocate the receiving antenna. Increase the separation between the equipment and receiver. Connect the equipment into an outlet on a circuit different from that to which the receiver is connected. Consult the dealer or an experienced radio/TV technician for help . Modifications not expressly approved by the manufacturer could void the user's authority to operate the equipment under FCC rules. MUFF OVERDRIVE Congratulations! You have just purchased the MUFF OVERDRIVE, an identical reissue of the classic EH Muff Fuzz first released in 1969. It is also one half of the DOUBLE MUFF that Electro Harmonix currently manufactures. -CONTROLS- VOLUME CONTROL Sets the output level. FOOTSWITCH Selects whether the MUFF OVERDRIVE is engaged or in True Bypass. The corresponding LED will be lit when the pedal is engaged, and dark when True Bypassed. The MUFF OVERDRIVE is a dynamic pedal, meaning it interacts with the output level of your instrument more so than other effects. Adjust the volume on your instrument to control the amount of distortion produced by the MUFF OVERDRIVE. Then, use the volume control on the MUFF OVERDRIVE to adjust your overall volume. Experiment with two MUFF OVERDRIVE pedals in series. -OPERATION AND WARNINGS- Power, from the internal 9-volt battery or external battery eliminator, is activated by plugging into the input. The input cable should be removed when the unit is not in use to avoid running down the battery. The input impedance presented at the Input Jack is 100 kohms. The output impedance at the Output Jack is 10 kohms. The barrel connector on the front of the MUFF OVERDRIVE is for a 9-volt battery eliminator capable of delivering 100 mA of current. The inner ring of the 9-volt battery eliminator must be negative, the outer ring positive. The units battery may be left in or taken out when the eliminator is in use. To change the 9-volt battery, you must remove the 4 screws on the bottom of the MUFF OVERDRIVE. Once the screws are removed, you can take off Page 2 the bottom plate and change the battery. Please do not touch the circuit board while the bottom plate is off or you may damage a component. The optional 9V power supply from Electro-Harmonix is US96DC-200BI (same as used by Boss & Ibanez) 9.6 volts/DC 200ma . The barrel connector on the front of the MUFF OVERDRIVE is for the 9-volt battery eliminator capable of delivering 100 mA of current. The inner ring of the 9- volt battery eliminator must be negative, the outer ring positive. The units battery may be left in or taken out when the eliminator is in use. - WARRANTY INFORMATION - Please register online at http://www.ehx.com/product-registration or complete and return the enclosed warranty card within 10 days of purchase. Electro-Harmonix will repair or replace, at its discretion, a product that fails to operate due to defects in materials or workmanship for a period of one year from date ",
+      "host": "manualsnet.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://manualmachine.com/electroharmonix/muffoverdrive/27248791-muff-overdrive-manual/",
+      "title": "Electro-Harmonix Muff Overdrive Muff Overdrive Manual",
+      "h1": "",
+      "excerpt": "",
+      "host": "manualmachine.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://manualzz.com/doc/17589797/electro-harmonix-muff-overdrive-overdrive-pedal-user-manual",
+      "title": "Electro-Harmonix MUFF OVERDRIVE User Manual | Manualzz",
+      "h1": "",
+      "excerpt": "",
+      "host": "manualzz.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://synthmanuals.com/manuals/electro-harmonix/muff_overdrive/",
+      "title": "Electro-Harmonix - Muff Overdrive",
+      "h1": "Electro-Harmonix - Muff Overdrive",
+      "excerpt": "Electro-Harmonix - Muff Overdrive       Manuals for Guitar Effects, Synthesizers, and MIDI Devices (synthmanuals.com) Translate this page Powered by Microsoft\ufffd Translator --> Electro-Harmonix - Muff Overdrive Home \u25ba Manuals \u25ba Electro-Harmonix \u25ba Muff Overdrive The following manuals are available for the Muff Overdrive from Electro-Harmonix : Instructions Click here to shop for products from Electro-Harmonix . Copyright 2008-2026 Click Here to Contact Us",
+      "host": "synthmanuals.com",
+      "source_kind": "other"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}

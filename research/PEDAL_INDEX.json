@@ -35299,8 +35299,8 @@
       "image": "./assets/pedals/electro-harmonix/muff-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Electro-Harmonix/Muff Overdrive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Electro-Harmonix",
@@ -41264,8 +41264,8 @@
       "image": "./assets/pedals/khdk-electronics/night-of-the-living-shred/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/KHDK Electronics/Night of the Living Shred.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "KHDK Electronics",
@@ -43600,8 +43600,8 @@
       "image": "./assets/pedals/mask-audio-electronics/laran-prebuilt/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mask Audio Electronics/LARAN (prebuilt).md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Mask Audio Electronics",
