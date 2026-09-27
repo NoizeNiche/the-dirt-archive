@@ -4,29 +4,45 @@
 - **Archive parent:** VDU-20 Dumbled Drive
 - **Builder:** CNZ Audio
 - **Catalog type:** Distortion / Overdrive
-- **Identity:** CNZ Audio VDU-20 Dumbled Drive.
+- **Identity:** Current CNZ manufacturer identity for the compact Dumbled Drive whose body text also references the historical SDU-20 designation. [1]
 
 ## What this pedal is
-The Dirt Archive's Scrape C census records this exact builder/model identity and classifies it as **Distortion / Overdrive**.
+CNZ's current manufacturer page titles the pedal **VDU-20 Dumbled Drive** and calls it a customer favorite. The body describes the goal as providing classic boutique overdrive tones inspired by Alexander “Howard” Dumble at budget-friendly pricing. [1]
 
-## Colorways
-No complete factory colorway sequence was established.
+## Circuit lineage
+- **Primary reference:** Dumble-inspired boutique overdrive.
+- No exact Dumble amplifier circuit is claimed.
 
-## Versions and factory options
-No secure exact-model version or factory-option list was established.
+## Controls / electrical data
+The reviewed manufacturer page does not expose a complete stable control legend in text, so the archive does not invent one from similarly shaped CNZ models.
+- Exact controls: Unknown
+- Exact active-device topology: Unknown
+- Exact clipping diode: Unknown
 
-## Version changes
-No reliable numbered revision history was established.
+## Power
+- Exact voltage/current details are not securely exposed in the reviewed manufacturer text.
 
-## Transistor
-Unknown from the checked exact-model documentation.
-
-## Diode
-Unknown from the checked exact-model documentation.
+## Version / naming history
+- Current manufacturer title: **VDU-20**.
+- Historical/body text: **SDU-20 Dumbled Drive**.
+- The archive keeps both identities linked as naming history, not as a verified electronic V2. [1]
 
 ## Sound
-The model is documented as distortion / overdrive. A more detailed sonic characterization is deferred until stronger exact-model evidence is available.
+The product is intended for classic, boutique-style Dumble-inspired overdrive rather than a high-gain metal voice. [1]
+
+## Research confidence
+- **Identity:** High
+- **Dumble-inspired positioning:** High
+- **SDU/VDU naming relationship:** High
+- **Exact controls:** Unknown
+- **Exact transistor:** Unknown
+- **Exact diode:** Unknown
+
+## Deep research verification
+The current CNZ page directly documents the VDU-20 title and SDU-20 naming in its product description, providing the basis for linking these archive records without treating the naming inconsistency as a circuit revision. [1]
 
 ## Sources checked
-1. The Dirt Archive Scrape C census: `research/SCRAPE_C_CENSUS.csv`
-2. The Dirt Archive Research Breadcrumb - Block 191: `research/BREADCRUMB-BATCH-191.md`
+1. CNZ Audio — VDU-20 Dumbled Drive: https://cnzaudio.com/collections/effects-pedals/products/dumbled-drive-overdrive-pedal
+
+## Photo
+- Exact-model image status remains handled separately.
