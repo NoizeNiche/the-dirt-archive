@@ -272,3 +272,13 @@ Cache run 939 result: 2 additional verified local photos were archived, Analog K
 
 
 Latest maintenance additions: Blackhawk Triangle Fuzz now has an exact Reverb photo lead with multiple actual pedal photos, and the health workflow now serializes canaries with cancel-in-progress so stale health runs do not overlap newer repairs. The committed photo gate remains 316 pending after run 939.
+
+## Current Catalog Research Checkpoint - September 27, 2026
+
+Verified current queue snapshot: **4,242 total / 4,242 surface-ready / 2,787 deep-researched / 1,455 deep-research-pending / 3,133 pictured / 3,133 complete / 617 researched-photo-pending**.
+
+The deep-research lane is operating with a 20-worker matrix, **20 targets per worker and 400 targets per bounded pass**, scheduled every 15 minutes with serialized concurrency. The gatherer now reuses curated exact-model source URLs, supports conservative acronym aliases, and filters social/share/login URLs before evidence admission. The foreman accounting now separates newly created records from deepened existing records.
+
+Pages deployment no longer triggers on research-markdown-only changes; it follows public catalog/facet changes. A redundant hourly evidence-only workflow was also removed from the automatic schedule so it does not compete with the canonical deep-research lane.
+
+The latest completed worker pass was successful and the resulting public deployment was verified. Deep research remains the active research backlog, while exact-photo recovery remains a separate gate.
