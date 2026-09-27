@@ -1,23 +1,39 @@
 # Wampler Pedals — The Doctor
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** The Doctor
 - **Builder:** Wampler Pedals
-- **Pedal:** The Doctor
 - **Catalog type:** Distortion
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Wampler Pedals's The Doctor.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **The Doctor** by **Wampler Pedals** as a **Distortion** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+With The Doctor, you can put that glorious chaos underneath your playing as an ambient cloud that is anything but pristine.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+Brian Wampler and Brad Paisley know guitar tone.
+The Lo-Fi repeats that become a sonic bedrock for your tone, working along with the modulation, and the 100% analog, untouched signal path for your original/through tone.
+Unlike many menu-based digital pedals, Wampler wants you to be able to twist a few knobs and get the exact tone you're looking for.
+
+## Sources checked
+1. Wampler Pedals The Doctor - Lo-Fi Delay | Effects Database: https://www.effectsdatabase.com/model/wampler/doctor
+2. Wampler The Doctor Lo-fi Delay Pedal | Sweetwater: https://www.sweetwater.com/store/detail/TheDoctor--wampler-the-doctor-lo-fi-delay-pedal?cond=TheDoctorU2
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
