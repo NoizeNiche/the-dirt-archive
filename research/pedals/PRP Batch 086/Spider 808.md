@@ -12,3 +12,6 @@ https://www.effectsdatabase.com/model/bwm/spider808
 
 ## Archive photo
 - **Archive status:** **No Photo Archived**
+
+## Deep research verification
+The cited Effects Database record supports the exact Spider 808 identity, published in 2011. Verified controls are **Volume, Tone, Drive**. The record documents all-analog hand construction, a military-grade epoxy-glass board, steel enclosure, heavy-duty switch, LED, true bypass, 9V battery compartment and 2.1mm DC adapter socket. Exact semiconductor part numbers are not documented.
