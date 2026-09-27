@@ -185,3 +185,9 @@ main{padding:22px 0 60px}
   .methodHeader{padding-top:20px}
   .panel{padding:17px}
 }
+
+.utilityLinks{display:inline-flex;gap:10px;margin-left:10px}
+.utilityLinks a{color:var(--ink);font-size:.64rem;font-weight:950;letter-spacing:.07em;text-decoration:none;text-transform:uppercase}
+.utilityLinks a:hover{text-decoration:underline}
+.utilityLinks a:focus-visible{outline:2px solid var(--acid);outline-offset:3px}
+.footerLink{margin-left:10px}
