@@ -15,3 +15,14 @@
 - **Research confidence:** Medium, based mainly on surviving retail/product documentation rather than a current Carvin factory archive.
 - **Sources checked:**
   - https://reverb.com/en-pt/item/603790-carvin-to-1-tube-overdrive-distortion-pedal
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Carvin's Carvin TO-1 Tube Overdrive is cataloged as an overdrive pedal.
+
+### Sources checked in this pass
+1. catalog/override source: https://reverb.com/en-pt/item/603790-carvin-to-1-tube-overdrive-distortion-pedal
+2. Carvin TO-1 Tube Overdrive | Effects Database: https://www.effectsdatabase.com/model/carvin/to1
