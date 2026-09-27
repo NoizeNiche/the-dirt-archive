@@ -44,3 +44,7 @@ The Doubler combines a thick, saturated vintage fuzz mode with a separately swit
 2. British Pedal Company / Effects Database — Players Series Doubler historical reference: https://www.effectsdatabase.com/model/bpc/players/doubler
 3. Reverb — CBS Arbiter Doubler, original circuit listing: https://reverb.com/item/1173548-cbs-arbiter-doubler-vintage-octave-fuzz-original-circuit-70s-gary-hurst-rare-effect-pedal
 4. Freestompboxes — CBS Arbiter Doubler schematic/circuit-trace discussion: https://www.freestompboxes.org/viewtopic.php?f=19&p=242267&t=24914
+
+## Deep research verification
+
+The exact CBS-Arbiter Doubler record documents a Gary Hurst/Electronic Sounds lineage octave fuzz from the mid-1970s, with **Volume, Sustain and Filter**, plus separate normal-fuzz and octave switching. Surviving examples include BC173 devices in an original-circuit unit, while other traced units use BC109/BC549, so the transistor population is not treated as universal. A related circuit-trace report identifies 1N4148 diodes only for the traced Electronic Sounds unit. The model has no verified numbered factory revision sequence.
