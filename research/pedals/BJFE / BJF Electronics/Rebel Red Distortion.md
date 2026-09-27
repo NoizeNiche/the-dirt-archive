@@ -21,3 +21,6 @@ The Dirt Archive currently catalogs **Rebel Red Distortion** by **BJFE / BJF Ele
 ## Deep research
 - **Status:** Pending
 - Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+## Deep research verification
+
+Björn Juhl's historical reference identifies Rebel Red Distortion as a **one-off custom Dyna Red** modified for an EL84-based amplifier. The unit was given more low-mid weight, less high-mid emphasis and additional gain than the underlying Dyna Red. The archive keeps this original one-off separate from later One Control Rebel Red reproductions.
