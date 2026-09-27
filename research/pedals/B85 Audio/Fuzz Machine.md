@@ -4,35 +4,58 @@
 - **Archive parent:** Fuzz Machine
 - **Builder:** B85 Audio
 - **Catalog type:** Fuzz
-- **Identity:** B85 Audio's Fuzz Machine.
+- **Identity:** Handcrafted hybrid fuzz combining silicon and germanium components with separate fuzz, clean, pre-gain, shape, phase and mid controls. [1]
 
-## What this pedal is
-Parametry a specifikace: Typ: FUZZ Ovládání: Fuzz, Shape, Fuzz vol, Clean, Pregain, přepínače Phase a Mids True bypass: Ano Vstup: Mono Výstup: Mono Napájení: Adaptér 9V DC Center negative (adaptér není součástí) Rozměry: cca X=94 mm, Y=124 mm, Z=51 mm ( rozměry jsou uváděny se všemi namontovanými díly, použitá krabička Hammond 1590BB či ekvivalent ) B85 Audio Fuzz Machine is a handcrafted hybrid fuzz pedal that combines both silicon and germanium components.
+## Controls
+- **FUZZ**
+- **SHAPE**
+- **FUZZ VOL**
+- **CLEAN**
+- **PREGAIN**
+- **PHASE** switch
+- **MIDS** switch
+- True bypass. [1]
 
-## Colorways
-- No specific factory colorway information was established in the verified evidence packet.
-
-## Versions and factory options
-- No distinct factory revision was established in the verified evidence packet.
-
-## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+## Circuit architecture
+- **Hybrid silicon/germanium** component design.
+- Parallel/combined clean and fuzz control architecture is implied by the independent CLEAN and FUZZ VOL controls.
+- Exact schematic and signal-path topology are not published in the reviewed builder documentation. [1]
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
-- **Exact transistor/device:** Unknown.
+- **Technology:** Hybrid silicon + germanium components.
+- Exact transistor part numbers and quantities are not publicly documented.
 
-## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
-- **Exact part:** Unknown.
+## Diode / clipping
+- Exact clipping-device material/part number is not publicly documented.
+
+## Construction / power
+- Handcrafted floor pedal.
+- **Hammond 1590BB** or equivalent enclosure.
+- Approx. **94 × 124 × 51mm**.
+- **9V DC center-negative** adapter power.
+- True bypass. [1]
+
+## Version history
+- No numbered electronic revision established.
 
 ## Sound
-Fuzz Machine - B85 audio Musíte změnit nastavení vašeho prohlížeče Podívejte se na: Jak povolit JavaScript ve vašem prohlížeči .
-Zakázky servis Information in English Kontakt Obchodní podmínky Přihlášení Více Hledat Přihlášení Nákupní košík Menu Domů / Efekty / Fuzz Machine Postranní panel Fuzz Machine Skladem 0 kusů.
-Momentálně nedostupné / Currently unavailable Kód: FUZZ Značka: B85 audio 2 500 Kč Měrná cena: Množství &plus; &minus; Do košíku Kategorie : Efekty Záruka : 2 roky Tisk Zeptat se Sdílet Tweet Zavřít ZDARMA ZDARMA Popis Související soubory (1) Videa (2) Diskuze B85 Audio Fuzz Machine je ručně vyráběný hybridní fuzz efekt kombinující křemíkové a germaniové součástky.
+The hybrid silicon/germanium design is intended to combine different fuzz responses, while Shape, Clean and Fuzz Vol allow blending and tonal reshaping. The reviewed builder description does not publish a measured frequency response or exact bias conditions. [1]
+
+## Research confidence
+- **Identity:** High
+- **Hybrid silicon/germanium architecture:** High
+- **Control set:** High
+- **9V center-negative:** High
+- **Exact transistor:** Unknown
+- **Exact diode:** Unknown
+- **Exact circuit topology:** Unknown
+
+## Deep research verification
+The B85 Audio product page was checked directly. It confirms the hybrid silicon/germanium concept, seven external controls/switches, true bypass, 9V center-negative operation and the 1590BB-sized enclosure. Semiconductor part numbers remain unpublished. [1]
 
 ## Sources checked
-1. Fuzz Machine - B85 audio: https://www.b85audio.cz/fuzz-machine/
+1. B85 Audio — Fuzz Machine: https://www.b85audio.cz/fuzz-machine/
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** **No Photo Archived**
+- **Exact-model reference checked:** B85 Audio exact-model page.
