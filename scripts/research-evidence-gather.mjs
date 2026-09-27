@@ -304,6 +304,23 @@ function searchQueries(builder,pedal){
 async function targetRecord(builder,pedal,type){
   const urls=sourcePages(builder,pedal);
   const exactCatalogUrls=new Set(urls);
+  // Track URLs inherited specifically from this pedal's existing research
+  // record. They are curated exact-model leads, but they still go through the
+  // ordinary fetch and evidence checks below before publication.
+  const recordSourceUrls=new Set();
+  try{
+    const c=JSON.parse(fs.readFileSync(INDEX,'utf8'));
+    for(const item of c.pedals||[]){
+      if(item.company===builder && item.pedal===pedal){
+        const record=String(item.research_record||'').replace(/^\.\//,'');
+        if(record && fs.existsSync(record)){
+          const raw=fs.readFileSync(record,'utf8');
+          for(const u of raw.match(/https?:\/\/[^\s)>"']+/g)||[]) recordSourceUrls.add(u.replace(/[.,;]+$/,''));
+        }
+        break;
+      }
+    }
+  }catch{}
   const verifiedCache=new Map();
   try{
     const inboxPath=path.join(process.cwd(),'research/RESEARCH_INBOX',slug(builder),slug(pedal)+'.json');
