@@ -303,7 +303,7 @@ function renderRecordStatus(item,markdown=''){
       ? 'Evidence verified'
       : '';
 
-  const hasPhoto=typeof item?.image==='string' && item.image.trim()!=='';
+  const hasPhoto=isLocalArchiveImage(item);
   target.innerHTML=
     '<span class="statusPill '+researchClass+'">'+esc(researchLabel)+'</span>'+
     (evidenceLabel?'<span class="statusPill '+(status.includes('identity conflict')?'conflict':'evidence')+'">'+esc(evidenceLabel)+'</span>':'')+
