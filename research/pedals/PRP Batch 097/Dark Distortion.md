@@ -25,3 +25,5 @@ Dark Distortion is designed for brutal, saturated metal and heavy-rock sounds bu
 
 ## Archive photo
 - **Archive status:** **No Photo Archived**
+## Deep research verification
+The cited BigNoise Amplification pages support the exact Dark Distortion identity. Verified architecture includes three-knob active tone shaping plus **Fat, Crush, and Bright** three-position switches. Fat alters low-end weight, Crush shifts gain/saturation character, and Bright shifts high-frequency emphasis. The builder positions it for heavy metal, heavy rock and aggressive blues. Exact transistor and diode part numbers remain undocumented.
