@@ -4,35 +4,57 @@
 - **Archive parent:** Bass Overdrive
 - **Builder:** B85 Audio
 - **Catalog type:** Overdrive
-- **Identity:** B85 Audio's Bass Overdrive.
+- **Identity:** Handcrafted bass overdrive based on the **CD4049UBE CMOS** chip, with Blend and bass-focused controls. [1]
 
-## What this pedal is
-Parametry a specifikace: Typ: Overdrive Ovládání: Level, Drive, Blend, Attack a Grunt True bypass: Ano Vstup: Mono Výstup: Mono Napájení: Adaptér 9V DC Center negative (adaptér není součástí) Rozměry: cca X=71 mm, Y=113 mm, Z=47 mm ( rozměry jsou uváděny se všemi namontovanými díly, použitá krabička Hammond 1590B ) B85 Audio Bass Overdrive is a handcrafted floor overdrive pedal based on the CD4049UBE CMOS chip, which is also used in designs of several well-known bass overdrive circuits.
+## Controls
+- **LEVEL**
+- **DRIVE**
+- **BLEND**
+- **ATTACK**
+- **GRUNT**
+- True bypass. [1]
 
-## Colorways
-- No specific factory colorway information was established in the verified evidence packet.
+## Circuit architecture
+- CMOS-based analog overdrive.
+- **Active device family:** CD4049UBE.
+- The builder identifies CD4049UBE as the foundation for the circuit and notes its use in several established bass overdrive designs. [1]
+- Exact passive component values and clipping-device recipe are not published.
 
-## Versions and factory options
-- No distinct factory revision was established in the verified evidence packet.
+## Transistor / active device
+- **CD4049UBE CMOS logic IC:** explicitly documented.
+- No separate discrete transistor stage is documented in the reviewed product description.
 
-## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+## Diode / clipping
+- Exact clipping diode/device is not publicly documented.
 
-## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
-- **Exact transistor/device:** Unknown.
+## Power / construction
+- **9V DC center-negative** external adapter.
+- **No adapter included** with the product listing.
+- **Hammond 1590B** enclosure.
+- Approximate dimensions: **71 × 113 × 47mm**.
+- Handcrafted construction. [1]
 
-## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
-- **Exact part:** Unknown.
+## Version history
+- No numbered electronic revision established.
 
 ## Sound
-Bass Overdrive - B85 audio Musíte změnit nastavení vašeho prohlížeče Podívejte se na: Jak povolit JavaScript ve vašem prohlížeči .
-Zakázky servis Information in English Kontakt Obchodní podmínky Přihlášení Více Hledat Přihlášení Nákupní košík Menu Domů / Efekty / Bass Overdrive Postranní panel Bass Overdrive Skladem 0 kusů.
-Předobjednávka / Pre-order Kód: BO Značka: B85 audio 2 000 Kč Měrná cena: Množství &plus; &minus; Do košíku Kategorie : Efekty Záruka : 2 roky Tisk Zeptat se Sdílet Tweet Zavřít ZDARMA ZDARMA Popis Podobné (2) Videa (2) Diskuze B85 Audio Bass Overdrive je ručně vyráběný podlahový overdrive efekt postavený na CMOS čipu CD4049UBE, který je využíván i v konstrukcích některých renomovaných basových overdrive obvodů.
+The builder positions Bass Overdrive as a bass-specific drive that uses the CD4049UBE architecture to provide overdrive while retaining control over attack, blend and low-frequency weight. No measured frequency-response curve is published. [1]
+
+## Research confidence
+- **Identity:** High
+- **CD4049UBE basis:** High
+- **Control set:** High
+- **9V center-negative:** High
+- **71 × 113 × 47mm:** High
+- **Exact clipping devices:** Unknown
+- **Exact passive BOM:** Unknown
+
+## Deep research verification
+B85 Audio's exact-model product description was rechecked. It explicitly identifies the CD4049UBE CMOS foundation, five-control layout, true bypass, 9V center-negative power and Hammond 1590B enclosure. The archive leaves unpublished clipping and component details unresolved. [1]
 
 ## Sources checked
-1. Bass Overdrive - B85 audio: https://www.b85audio.cz/bass-overdrive/
+1. B85 Audio — Bass Overdrive: https://www.b85audio.cz/bass-overdrive/
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** **No Photo Archived**
+- **Exact-model reference checked:** B85 Audio exact-model page.
