@@ -9,3 +9,6 @@ Classic Overdrive+ is part of Big Tone Music Brewery's EQ'd Vintage overdrive fa
 
 ## Archive photo
 - **Archive status:** **No Photo Archived**
+
+## Deep research verification
+Effects Database documents the **Classic Overdrive Plus** as an exact model with a choice of **Ibanez TS-808 or DOD 250 circuit**. Three side-mounted toggles provide eight combinations: gain limiting, bass response, and clipping. The clipping switch selects symmetrical or asymmetrical clipping and can be ordered with germanium or silicon diodes. The silicon option is described as having more headroom and volume; the germanium option adds a fuzzier quality. Source: Effects Database. citeturn379671search1
