@@ -1,18 +1,18 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-27T20:57:42.380203+00:00",
+  "generated_at": "2026-09-27T20:59:30.390183+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
   "counts": {
-    "total": 4241,
+    "total": 4236,
     "researched": 3742,
-    "pictured": 3367,
-    "complete": 3367,
+    "pictured": 3379,
+    "complete": 3379,
     "research_pending": 0,
-    "deep_research_pending": 360,
-    "deep_researched": 3881,
-    "surface_ready": 4241
+    "deep_research_pending": 359,
+    "deep_researched": 3877,
+    "surface_ready": 4236
   },
   "next_target": {
     "builder": "Dirty Boy",
@@ -27,13 +27,6 @@
       "pedal": "JUNIOR DB Fuzz / Dirty Boy Jr. Fuzz",
       "catalog_type": "",
       "research_record": "./research/pedals/Dirty Boy/JUNIOR DB Fuzz / Dirty Boy Jr. Fuzz.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Dirty Boy Pedals / Dirty Boy Co.",
-      "pedal": "JUNIOR DB Fuzz / Dirty Boy Jr. Fuzz",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Dirty Boy Pedals / Dirty Boy Co./JUNIOR DB Fuzz / Dirty Boy Jr. Fuzz.md",
       "research_level": "surface"
     },
     {
@@ -195,6 +188,13 @@
       "pedal": "Supra Distortion (FX55C)",
       "catalog_type": "",
       "research_record": "./research/pedals/DOD Electronics/Supra Distortion (FX55C).md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "DOD Electronics",
+      "pedal": "YJM 308 Overdrive Preamp",
+      "catalog_type": "",
+      "research_record": "./research/pedals/DOD Electronics/YJM 308 Overdrive Preamp.md",
       "research_level": "surface"
     }
   ]
