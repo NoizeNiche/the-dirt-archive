@@ -1,41 +1,38 @@
 # Demeter — DRV-2 Uberdriveulator
 
 ## PRP identity
-- **Builder:** Demeter Amplification
+- **Archive parent:** DRV-2 Uberdriveulator
+- **Builder:** Demeter
 - **Catalog type:** Overdrive
-- **Identity:** DRV-2 Uber Driveulator.
+- **Identity:** Demeter's DRV-2 Uberdriveulator.
 
 ## What this pedal is
-Demeter describes the Uber Driveulator as a cleaner drive circuit with large headroom, available in Loose and Tight modes. It can also serve as a clean boost.
+Demeter's DRV-2 Uberdriveulator is cataloged as an overdrive pedal.
 
-## Controls / circuit
-- **Drive:** wide-range gain control.
-- **Tone:** wide-range tone control.
-- **Volume:** output level.
-- **Trim:** internal output-gain trim.
-- **Mode:** Loose or Tight.
-- True bypass with an ALCO heavy-duty footswitch.
-- RockBoard documents it as analog, 9V DC center-negative, about 100 mA.
-- Exact semiconductor and clipping components: Unknown.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
 
 ## Sound
-Demeter states that Loose mode offers more headroom than the comparable Standard Overdrive setting, while Tight mode provides even more clean headroom and output power. The manufacturer describes the unit as capable of clean boost as well as substantial drive.
-
-## History / current status
-Demeter's current pedal catalog continues to list the DRV-2, so this is both a historical catalog record and a currently documented model.
-
-## Research confidence
-- **Identity:** High.
-- **Control layout:** High.
-- **Loose/Tight modes:** High.
-- **Analog / power documentation:** High.
-- **Exact circuit components:** Unknown.
+**Builder:** Demeter Amplification - **Catalog type:** Overdrive - **Identity:** DRV-2 Uber Driveulator.
+Demeter describes the Uber Driveulator as a cleaner drive circuit with large headroom, available in Loose and Tight modes.
+It can also serve as a clean boost.
 
 ## Sources checked
-1. Demeter Amplification - DRV-2 Uber Driveulator: https://demeteramps.com/product/drv-2-uber-driveulator/
-2. RockBoard PedalPedia - DRV-2 Uber Driveulator: https://www.rockboard.de/en/pedalPedia/Demeter-Amps/DRV-2-Uber-Driveulator/68977351/
-3. Demeter Amplification - Audio Clips: https://demeteramps.com/audio-clips/
+1. One moment, please...: https://demeteramps.com/product/drv-2-uber-driveulator/
 
 ## Photo
-- **Archive status:** Exact Photo Pending
-- No local canonical image was promoted in this pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

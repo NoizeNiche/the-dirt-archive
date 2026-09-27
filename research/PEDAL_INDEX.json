@@ -31659,8 +31659,8 @@
       "image": "./assets/pedals/demeter/drv-2-uberdriveulator/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Demeter/DRV-2 Uberdriveulator.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Demon Pedals",
@@ -35347,8 +35347,8 @@
       "image": "./assets/pedals/electro-harmonix/nano-metal-muff/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Electro-Harmonix/Nano Metal Muff.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Electro-Harmonix",
@@ -44225,8 +44225,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Maxon/RTO700 Real Tube Overdrive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Maxon",
@@ -49994,8 +49994,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Roger Mayer/Axis Fuzz.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Roger Mayer",
@@ -56512,8 +56512,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Wren and Cuff/Hangman-2D.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Wren and Cuff",

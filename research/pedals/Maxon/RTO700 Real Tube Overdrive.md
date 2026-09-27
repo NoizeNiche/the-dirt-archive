@@ -1,23 +1,43 @@
 # Maxon — RTO700 Real Tube Overdrive
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** RTO700 Real Tube Overdrive
 - **Builder:** Maxon
-- **Pedal:** RTO700 Real Tube Overdrive
 - **Catalog type:** Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Maxon's RTO700 Real Tube Overdrive.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **RTO700 Real Tube Overdrive** by **Maxon** as a **Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Maxon's RTO700 Real Tube Overdrive is cataloged as an overdrive pedal.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+RTO700 Real Tube Overdrive by Maxon
+The RTO700 has all the tone and responsiveness of the best boutique tube amps.
+From bluesy overdrives to the elusive “Brown Sound” and beyond, all can be easily achieved with any amp at any volume when using the RTO.
+
+## Sources checked
+1. Maxon RTO700 Real Tube Overdrive Pedal | Equipboard: https://equipboard.com/items/maxon-rto700-real-tube-overdrive-guitar-effects-pedal
+2. Maxon RTO700 Real Tube Overdrive - Effects Database: https://www.effectsdatabase.com/model/maxon/retube/rto700
+3. Maxon RTO700 Real Tube Overdrive - Reverb: https://reverb.com/p/maxon-rto700-real-tube-overdrive
+4. RTO700 Real Tube Overdrive by Maxon | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/Maxon/RTO700-Real-Tube-Overdrive/68981747/
+5. Maxon RTO700 Real Tube Overdrive Dimensions, Specs & Details: https://www.stompboxgarden.com/gear/pedal/3237/maxon-rto700-real-tube-overdrive
+6. Maxon RTO700 Real Tube Overdrive Pedal at Gear4music: https://www.gear4music.com/us/en/Guitar-and-Bass/Maxon-RTO700-Real-Tube-Overdrive-Pedal/1QYP
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

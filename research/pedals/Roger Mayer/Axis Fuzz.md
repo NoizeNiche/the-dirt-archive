@@ -1,23 +1,42 @@
 # Roger Mayer — Axis Fuzz
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Axis Fuzz
 - **Builder:** Roger Mayer
-- **Pedal:** Axis Fuzz
 - **Catalog type:** Fuzz
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Roger Mayer's Axis Fuzz.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Axis Fuzz** by **Roger Mayer** as a **Fuzz** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Roger Mayer's Axis Fuzz is cataloged as a fuzz pedal.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+Guitar Effects Pedals by Roger Mayer - Axis Fuzz The Axis Fuzz was developed in early 1967 to give an additional series of tone colours for Jimi.
+Since it's reissue it has become a firm favourite by guitarists who demand rich fill range quality fuzz tones with plenty of bottom end but that can also be used on chords and riffs.
+It cleans us very well from the guitar volume control and retains its large range of tone colours.
+
+## Sources checked
+1. Guitar Effects Pedals by Roger Mayer - Axis Fuzz: https://roger-mayer.co.uk/axis.htm
+2. Roger Mayer Rocket Series Axis Fuzz Pedal | Equipboard: https://equipboard.com/items/roger-mayer-axis-fuzz
+3. Guitar Effects Pedals by Roger Mayer - Axis Fuzz: https://www.roger-mayer.co.uk/axis2.htm
+4. Roger Mayer Rocket Series Axis Fuzz - Reverb: https://reverb.com/p/roger-mayer-rocket-series-axis-fuzz
+5. Roger Mayer Axis Fuzz - Effects Database: https://www.effectsdatabase.com/model/rogermayer/rocket/axis
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

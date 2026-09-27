@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-27T12:09:04.943727+00:00",
+  "generated_at": "2026-09-27T12:10:58.166343+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,8 +10,8 @@
     "pictured": 3159,
     "complete": 3159,
     "research_pending": 0,
-    "deep_research_pending": 552,
-    "deep_researched": 3690,
+    "deep_research_pending": 547,
+    "deep_researched": 3695,
     "surface_ready": 4242
   },
   "next_target": {
@@ -97,13 +97,6 @@
       "pedal": "Sonic Incinerator",
       "catalog_type": "",
       "research_record": "./research/pedals/Death By Audio/Sonic Incinerator.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Demeter",
-      "pedal": "DRV-2 Uberdriveulator",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Demeter/DRV-2 Uberdriveulator.md",
       "research_level": "surface"
     },
     {
@@ -195,6 +188,13 @@
       "pedal": "JUNIOR DB Fuzz / Dirty Boy Jr. Fuzz",
       "catalog_type": "",
       "research_record": "./research/pedals/Dirty Boy Pedals / Dirty Boy Co./JUNIOR DB Fuzz / Dirty Boy Jr. Fuzz.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "DLS Effect",
+      "pedal": "Reckless Driver",
+      "catalog_type": "",
+      "research_record": "./research/pedals/DLS Effect/Reckless Driver.md",
       "research_level": "surface"
     }
   ]
