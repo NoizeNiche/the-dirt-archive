@@ -1,48 +1,58 @@
-# Beetronics FX - Overhive
+# Beetronics FX — Overhive
 
 ## PRP identity
 - **Archive parent:** Overhive
 - **Builder:** Beetronics FX
 - **Catalog type:** Overdrive
-- **Identity:** Dynamic mid-gain overdrive with separate low-end and overall-voicing switches.
+- **Identity:** Dynamic mid-gain overdrive with Body and Hive voicing controls, appearing in older and newer production presentations. [1][2]
 
-## What this pedal is
-Overhive is a mid-gain overdrive designed to add warm, articulate gain while retaining the character of the guitar and amplifier. Beetronics describes the circuit as dynamic to picking and guitar-volume changes, with two voicing switches for additional shaping.
+## Controls
+- **HONEY:** Gain.
+- **TONE:** Main tonal shaping.
+- **VOLUME:** Output.
+- **HIVE:** Voicing/filter shift.
+- **BODY:** Low-end/body shaping. [1][2]
 
-## Colorways
-- Standard Series and multiple Custom Shop/limited finishes are documented.
-- Custom Shop artwork and enclosure changes are treated as cosmetic variations unless a circuit change is explicitly established.
-
-## Versions and factory options
-### Overhive
-- Honey / gain
-- Tone
-- Volume
-- Hive switch
-- Body switch
-- 9V DC center-negative
-- True bypass
-
-The documented older production layout uses the five-control arrangement above; current Standard Series material retains the Body and Hive voicing functions.
-
-## Version changes
-The Overhive has appeared in more than one enclosure/production presentation, including an older layout and the current Standard Series. No numbered factory circuit revision was established in the checked sources, so these are not presented as separate electrical versions.
+## Circuit / topology
+- Analog overdrive.
+- Dynamic response to pick attack and guitar volume is a central design goal.
+- No exact schematic or active-device part numbers are published in the reviewed manufacturer sources.
 
 ## Transistor
-- **Exact production transistor/device part numbers:** Not publicly documented in the checked sources.
+- Exact production transistor/device part numbers are not publicly documented.
 
-## Diode
-- **Exact clipping/protection arrangement or diode part numbers:** Not publicly documented.
+## Diode / clipping
+- Exact clipping/protection device and part number are not publicly documented.
+
+## Power
+- **9V DC, center-negative**.
+- True bypass. [1]
+
+## Version history
+- Older production/layout presentation.
+- Current Standard Series presentation.
+- No numbered electrical revision established.
+- Custom Shop finishes are cosmetic unless a circuit change is documented.
 
 ## Sound
-Overhive covers warm, articulate, mid-gain drive and responds noticeably to pick attack and guitar-volume changes. Body adds low-end weight, while Hive moves the voicing between tighter/focused and bigger/smoother responses.
+Overhive is intended for warm, articulate medium-gain drive. Body adds low-end weight, while Hive changes the voicing toward tighter/focused or bigger/smoother response. [1][2]
+
+## Research confidence
+- **Identity:** High
+- **Control map:** High
+- **Body/Hive voicing:** High
+- **9V/true bypass:** High
+- **Exact transistor:** Unknown
+- **Exact diode:** Unknown
+
+## Deep research verification
+Beetronics' older Overhive page, current Standard Series page and exact retailer listing were cross-checked. The evidence supports the five-control architecture and continuity between the older and current presentations. [1][2][3]
 
 ## Sources checked
-1. Beetronics official Overhive Standard Series: https://www.beetronicsfx.com/products/overhive-standard-series
-2. Beetronics older Overhive page: https://www.beetronicsfx.com/products/ov-oldskull
-3. Guitar Center, Beetronics Overhive: https://www.guitarcenter.com/Beetronics-FX/Overhive-Overdrive-Pedal.gc
+1. Beetronics FX — Overhive Standard Series: https://www.beetronicsfx.com/products/overhive-standard-series
+2. Beetronics FX — Older Overhive: https://www.beetronicsfx.com/products/ov-oldskull
+3. Guitar Center — Beetronics Overhive: https://www.guitarcenter.com/Beetronics-FX/Overhive-Overdrive-Pedal.gc
 
 ## Photo
-- **Archive status:** **Exact Photo Attached to Public Catalog**
-- **Exact-model image:** https://www.beetronicsfx.com/cdn/shop/products/NewOverhive_01.jpg?v=1610569103&width=1500
-- **Source page:** https://www.beetronicsfx.com/products/overhive-standard-series
+- **Exact pedal photograph:** Beetronics official product image.
+- https://www.beetronicsfx.com/cdn/shop/products/NewOverhive_01.jpg?v=1610569103&width=1500
