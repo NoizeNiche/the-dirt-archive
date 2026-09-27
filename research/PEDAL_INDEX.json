@@ -32166,10 +32166,10 @@
         "Fuzz"
       ],
       "image": "",
-      "source_page": "https://www.effectsdatabase.com/model/deviever",
+      "source_page": "https://www.effectsdatabase.com/model/deviever/hyperion/2",
       "research_record": "./research/pedals/Devi Ever FX/Hyperion 2.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Devi Ever FX",
@@ -32575,10 +32575,10 @@
         "Fuzz"
       ],
       "image": "",
-      "source_page": "https://www.effectsdatabase.com/model/deviever",
+      "source_page": "https://reverb.com/p/devi-ever-fx-us-fuzz",
       "research_record": "./research/pedals/Devi Ever FX/US.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Devi Ever FX",
