@@ -12,3 +12,5 @@ https://www.effectsdatabase.com/model/bigfoot/humongousbox
 
 ## Archive photo
 - **Archive status:** **No Photo Archived**
+## Deep research verification
+The cited Effects Database record identifies The Humongous Box as an original Bigfoot F.X. design. Verified controls are **Volume, Tone, Gain**. The documented response runs from subtle distortion at low gain to smooth fuzz at high gain. The circuit is all-analogue with true bypass, 9V battery or adapter power and a centre-negative barrel jack; the entry was published November 6, 2016.
