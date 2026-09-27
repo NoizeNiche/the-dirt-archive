@@ -14,10 +14,40 @@ The Dirt Archive currently catalogs **Vezzpa Octave Stinger** by **Beetronics** 
 ## Catalog source
 - Catalog source page on file: https://www.beetronicsfx.com/collections/all-pedals-1
 
-## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
+## Deep research verification
 
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+This pass uses Beetronics' exact-model Vezzpa documentation.
+
+### Verified description
+
+The **Vezzpa Octave Stinger** is a compact dual-mode fuzz built around an **op-amp circuit**. Beetronics documents two modes: **FUZZZZ**, a thick gated fuzz, and **STINGER**, an aggressive high-octave fuzz.
+
+### Verified controls and switching
+
+- **SUSTAIN** controls the transition from sputtery/spitty behavior toward fuller gated fuzz.
+- Two operating modes: **FUZZZZ** and **STINGER**.
+- Multi-function footswitch can toggle modes or engage them momentarily.
+- Standard **9V DC center-negative** operation.
+- Beetronics lists true-bypass switching for the model.
+- Custom Shop and limited-edition finish variants are treated as subordinate editions unless hardware changes are established.
+
+### Verified transistor/device terms
+
+- **Op-amp circuit:** explicitly documented.
+- Exact op-amp part number: Unknown.
+
+### Verified diode terms
+
+- Exact clipping/rectifier diode: Unknown.
+
+### Verified sound evidence
+
+Beetronics describes FUZZZZ as a classic gated fuzz mode and STINGER as a searing high-octave voice intended to cut through a mix. The SUSTAIN control moves the fuzz response from sputtery/spitty textures toward more complete gated fuzz.
+
+### Sources checked in this pass
+
+1. Beetronics — Vezzpa Octave Stinger: https://www.beetronicsfx.com/products/vezzpa-octave-stinger-babee-series
+2. Beetronics — Vezzpa collection / limited editions: https://www.beetronicsfx.com/collections/vezzpa-octave-stinger
+
+## Photo
+- **Archive status:** **Exact Photo Pending**
