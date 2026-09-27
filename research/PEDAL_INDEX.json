@@ -24742,8 +24742,8 @@
       "image": "./assets/pedals/code/cmm2-stereo-metal-mate/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Code/CMM2 Stereo Metal Mate.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Codtone",
@@ -24754,8 +24754,8 @@
       "image": "./assets/pedals/codtone/ben-drive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Codtone/Ben Drive.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Codtone",
@@ -28204,8 +28204,8 @@
       "image": "./assets/pedals/crazy-tube-circuits/blackface-stardust-v2/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Crazy Tube Circuits/Blackface Stardust V2.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Crazy Tube Circuits",
@@ -29147,8 +29147,8 @@
       "image": "./assets/pedals/critter-electronics/1972/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Critter Electronics/1972.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Critter Electronics",
@@ -29159,8 +29159,8 @@
       "image": "./assets/pedals/critter-electronics/1978r-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Critter Electronics/1978R Distortion.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Critter Electronics",
@@ -29171,8 +29171,8 @@
       "image": "./assets/pedals/critter-electronics/american-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Critter Electronics/American Fuzz.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Critter Electronics",
@@ -31161,8 +31161,8 @@
       "image": null,
       "source_page": "https://dawnerprince.com/products/diktator",
       "research_record": "./research/pedals/Dawner Prince Electronics/DIKTATOR.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Dawner Prince Electronics",
@@ -31174,8 +31174,8 @@
       "image": null,
       "source_page": "https://dawnerprince.com/products/diktator",
       "research_record": "./research/pedals/Dawner Prince Electronics/DIKTATOR MKII.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Dawner Prince Electronics",
@@ -31186,8 +31186,8 @@
       "image": null,
       "source_page": "https://dawnerprince.com/",
       "research_record": "./research/pedals/Dawner Prince Electronics/RED ROX.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "DeadastronautFX",

@@ -29,3 +29,13 @@ The model is documented as overdrive. A more detailed sonic characterization is 
 
 ## Sources checked
 1. The Dirt Archive Scrape C census: `research/SCRAPE_C_CENSUS.csv`
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Codtone's Ben Drive is cataloged as an overdrive pedal.
+
+### Sources checked in this pass
+1. Codtone Ben Drive | Effects Database: https://www.effectsdatabase.com/model/codtone/bendrive

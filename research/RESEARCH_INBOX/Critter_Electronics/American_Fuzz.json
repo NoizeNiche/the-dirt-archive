@@ -1,0 +1,25 @@
+{
+  "builder": "Critter Electronics",
+  "pedal": "American Fuzz",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 2,
+  "sources": [
+    {
+      "url": "https://reverb.com/item/94057226-critter-electronics-american-fuzz",
+      "title": "catalog/override source",
+      "h1": "",
+      "excerpt": "",
+      "host": "reverb.com",
+      "source_kind": "reverb"
+    },
+    {
+      "url": "https://critterelectronics.com/critter",
+      "title": "Critter &mdash; Critter Electronics",
+      "h1": "",
+      "excerpt": "Critter &mdash; Critter Electronics Skip to Content Open Menu Close Menu Shop Critter Contact Main Login Account 0 0 Open Menu Close Menu Shop Critter Contact Main Login Account 0 0 Shop Critter Contact Main Login Account Pedals LEGEND: An all op amp based Tube Screamer with a charge pump for that -9/+9 internal 18v high headroom sound with your 9v power supply. The toggle controls two different clipping options, standard/off/led. Model III Overdrive: A Blues Breaker with a charge pump for high headroom. Instead of a single transistor boost after the BB such as the typical MG style circuit, there is a charge pump powered two stage pre-amp with individual controls inside. Think Blues Breaker tone on steroids, beefier. A toggle switch controls a Hi-Cut and comes in handy with higher gain tones. Model III Boost / Pre-amp: My original pre amp design by it self. A volume and gain control as well as a internal LP filter inside on a trim pot. The toggle allows the pedal to be a clean or a treble boost. CFR Klone: A Klon(e) circuit through and through with its own flavor, unique to Critter. Research Klones, then imagine we gave it heated leather seats! Both a fat switch & crazy distortion modes on a toggle switch. More gain on tap (but I\u2019d argue the sweet spot is the gain knob at 1 o\u2019clock.) TLE2072 chip equipped. I do small runs, that\u2019s what makes this financially practical. 1972: An Octave Fuzz: Super Fuzz, my only actual part for part clone of anything these days. Every other circuit is highly reimagined. Mid cut toggle. 1978R: A Rat pedal but with a slight EQ change to eliminate noise, a toggle that changes between standard and led clipping. And most important, the potentiometers I chose give it the range I found most useable. American Fuzz: Imagine a Big Muff, but souped up! The CAF (Critter American Fuzz) runs internally at 18v, with the 9v you supply the CAF. The CAF is half original, half old school muff. It is a hybrid between two transistor stages, and two all new, original op-amp gain stages. The CAF is beefy, and sounds beautiful. Handmade? No really, literally. Each enclosure is hand scribed, punched, drilled, sanded, and bent. We make these enclosures from the ground up. Each enclosure is powder coated one at a time. Each circuit board is designed in house and assembled by hand by Ronnie and the crew. Ronnie: Precision and elegance describes his work. Ronnie is the owner of Critter and brains behind the operation. Got a question on a pedal? Ronnie will respond back no matter the time of day. Ronnie designs each pedal, and is highly passionate about the industry. Sean: As long as Critter has done fully metal enclosures, Sean has been here building them. He also is a working musician, a drummer. Critter is because of where it is, because of Sean. As the owner of Critter, I am fortunate and proud to have him aboard. Boutique Musical Products Shop About Contact",
+      "host": "critterelectronics.com",
+      "source_kind": "manufacturer"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}

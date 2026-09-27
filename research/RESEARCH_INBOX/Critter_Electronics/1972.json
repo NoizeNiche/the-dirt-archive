@@ -1,0 +1,25 @@
+{
+  "builder": "Critter Electronics",
+  "pedal": "1972",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 2,
+  "sources": [
+    {
+      "url": "https://reverb.com/item/96427237-critter-electronics-1972-special-octave-fuzz-pedal",
+      "title": "Critter Electronics 1972 Special Octave Fuzz Pedal - Reverb",
+      "h1": "",
+      "excerpt": "",
+      "host": "reverb.com",
+      "source_kind": "reverb"
+    },
+    {
+      "url": "https://www.thegearpage.net/board/index.php?threads/critter-electronics-1972-fuzz-superfuzz-clone-75.2493707/",
+      "title": "FS Critter Electronics 1972 Fuzz (superfuzz clone) - $75",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.thegearpage.net",
+      "source_kind": "other"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}

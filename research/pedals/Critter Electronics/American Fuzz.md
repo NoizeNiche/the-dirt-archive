@@ -46,3 +46,22 @@ American Fuzz is designed for a larger, beefier fuzz voice than a straightforwar
 ## Photo
 - **Archive status:** No local photo archived in this research pass.
 - **Exact-model visual references checked:** Critter builder material and exact American Fuzz Reverb listing.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Critter Electronics's American Fuzz is cataloged as a fuzz pedal.
+
+### Verified diode terms
+- led.
+
+### Verified sound evidence
+Model III Overdrive: A Blues Breaker with a charge pump for high headroom.
+Instead of a single transistor boost after the BB such as the typical MG style circuit, there is a charge pump powered two stage pre-amp with individual controls inside.
+Think Blues Breaker tone on steroids, beefier.
+
+### Sources checked in this pass
+1. catalog/override source: https://reverb.com/item/94057226-critter-electronics-american-fuzz
+2. Critter &mdash; Critter Electronics: https://critterelectronics.com/critter

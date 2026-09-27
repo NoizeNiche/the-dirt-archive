@@ -46,3 +46,18 @@ The manufacturer describes the V2 as a juicy, dynamic Blackface-style overdrive 
 1. Effects Database - Blackface Stardust V2
 2. Crazy Tube Circuits store
 3. A77.STUDIO - Blackface Stardust V2 demo
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Crazy Tube Circuits's Blackface Stardust V2 is cataloged as a distortion / fuzz / overdrive pedal.
+
+### Verified version references
+- The evidence references: V2.
+
+### Sources checked in this pass
+1. Crazy Tube Circuits Blackface Stardust V2 - eBay: https://www.ebay.com/itm/206250543268
+2. CRAZY TUBE CIRCUITS Blackface Stardust V2 [BSD15I596] (07/23): https://reverb.com/item/99662386-crazy-tube-circuits-blackface-stardust-v2-bsd15i596-07-23
+3. Crazy Tube Circuits Blackface Stardust V2 【】 | eBay Australia: https://www.ebay.com.au/itm/206111548704

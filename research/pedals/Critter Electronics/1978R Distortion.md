@@ -45,3 +45,16 @@ No reliable numbered hardware revision sequence was established in the accessibl
 ## Photo
 - **Archive status:** No local photo archived in this research pass.
 - **Exact-model visual references checked:** Critter builder material and exact 1978R Reverb listings.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Critter Electronics's 1978R Distortion is cataloged as a distortion pedal.
+
+### Sources checked in this pass
+1. Critter Electronics 1978R Distortion Pedal - Reverb: https://reverb.com/item/96430207-critter-electronics-1978r-distortion-pedal
+2. Critter Electronics 1978R Distortion - Guitar Pedal - Overdrive Fuzz ...: https://www.ebay.com/itm/177275363055
+3. Critter Electronics 1978R Distortion - Guitar Pedal - Overdrive Fuzz - eBay: https://www.ebay.ca/itm/177275363055
+4. Critter Electronics 1978R Distortion - Guitar Pedal - Overdrive Fuzz - eBay: https://www.ebay.com.au/itm/177275363055

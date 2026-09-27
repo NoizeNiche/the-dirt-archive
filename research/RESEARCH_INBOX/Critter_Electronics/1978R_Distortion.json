@@ -1,0 +1,41 @@
+{
+  "builder": "Critter Electronics",
+  "pedal": "1978R Distortion",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 4,
+  "sources": [
+    {
+      "url": "https://reverb.com/item/96430207-critter-electronics-1978r-distortion-pedal",
+      "title": "Critter Electronics 1978R Distortion Pedal - Reverb",
+      "h1": "",
+      "excerpt": "",
+      "host": "reverb.com",
+      "source_kind": "reverb"
+    },
+    {
+      "url": "https://www.ebay.com/itm/177275363055",
+      "title": "Critter Electronics 1978R Distortion - Guitar Pedal - Overdrive Fuzz ...",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.ebay.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://www.ebay.ca/itm/177275363055",
+      "title": "Critter Electronics 1978R Distortion - Guitar Pedal - Overdrive Fuzz - eBay",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.ebay.ca",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://www.ebay.com.au/itm/177275363055",
+      "title": "Critter Electronics 1978R Distortion - Guitar Pedal - Overdrive Fuzz - eBay",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.ebay.com.au",
+      "source_kind": "other"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}
