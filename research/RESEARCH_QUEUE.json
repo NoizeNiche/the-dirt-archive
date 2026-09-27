@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-27T09:26:44.305948+00:00",
+  "generated_at": "2026-09-27T09:29:42.026688+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,25 +10,18 @@
     "pictured": 3123,
     "complete": 3123,
     "research_pending": 0,
-    "deep_research_pending": 2087,
-    "deep_researched": 2155,
+    "deep_research_pending": 2072,
+    "deep_researched": 2170,
     "surface_ready": 4242
   },
   "next_target": {
     "builder": "Bad Penny FX",
-    "pedal": "Fuzz Controller Germanium",
+    "pedal": "Lollygagger Overdrive",
     "catalog_type": "",
-    "research_record": "./research/pedals/Bad Penny FX/Fuzz Controller Germanium.md",
+    "research_record": "./research/pedals/Bad Penny FX/Lollygagger Overdrive.md",
     "research_level": "surface"
   },
   "working_set": [
-    {
-      "builder": "Bad Penny FX",
-      "pedal": "Fuzz Controller Germanium",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Bad Penny FX/Fuzz Controller Germanium.md",
-      "research_level": "surface"
-    },
     {
       "builder": "Bad Penny FX",
       "pedal": "Lollygagger Overdrive",
@@ -65,27 +58,6 @@
       "research_level": "surface"
     },
     {
-      "builder": "Behringer",
-      "pedal": "WD300 Warp Distortion",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Behringer/WD300 Warp Distortion.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Behringer",
-      "pedal": "XD300 Distortion X",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Behringer/XD300 Distortion X.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Behringer",
-      "pedal": "Zentara Overdrive",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Behringer/Zentara Overdrive.md",
-      "research_level": "surface"
-    },
-    {
       "builder": "Big John Effects",
       "pedal": "BassDrive",
       "catalog_type": "",
@@ -93,80 +65,10 @@
       "research_level": "surface"
     },
     {
-      "builder": "Big John Effects",
-      "pedal": "Hairy Balls",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 083/Hairy Balls.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Big John Effects",
-      "pedal": "Lil' John series",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 083/Lil' John series.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Big John Effects",
-      "pedal": "Obama Wah",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 083/Obama Wah.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Big John Effects",
-      "pedal": "Pocket Rocket",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 083/Pocket Rocket.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Big Knob Pedals",
-      "pedal": "Appetite for Distortion",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 083/Appetite for Distortion.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Big Knob Pedals",
-      "pedal": "Black Metallic",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 083/Black Metallic.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Big Knob Pedals",
-      "pedal": "Blues Buster",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 083/Blues Buster.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Big Knob Pedals",
-      "pedal": "Bushy Bison",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 083/Bushy Bison.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Big Knob Pedals",
-      "pedal": "Civil Warp",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 083/Civil Warp.md",
-      "research_level": "surface"
-    },
-    {
       "builder": "Big Knob Pedals",
       "pedal": "Colour Jumbo",
       "catalog_type": "",
       "research_record": "./research/pedals/PRP Batch 083/Colour Jumbo.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Big Knob Pedals",
-      "pedal": "Creamy Pi",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 083/Creamy Pi.md",
       "research_level": "surface"
     },
     {
@@ -192,9 +94,107 @@
     },
     {
       "builder": "Big Knob Pedals",
-      "pedal": "Game of Tones",
+      "pedal": "Green Russian",
       "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 083/Game of Tones.md",
+      "research_record": "./research/pedals/PRP Batch 083/Green Russian.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Big Knob Pedals",
+      "pedal": "Guv'nator",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 083/Guv'nator.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Big Knob Pedals",
+      "pedal": "I.C.B.M",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 083/I.C.B.M.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Big Monk Electronic Device Co.",
+      "pedal": "Monk Boost",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 085/Monk Boost.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Big Tone Music Brewery",
+      "pedal": "BTMB Overdrive",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 085/BTMB Overdrive.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Big Tone Music Brewery",
+      "pedal": "Classic Distortion",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 085/Classic Distortion.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Big Tone Music Brewery",
+      "pedal": "Classic Overdrive+",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 085/Classic Overdrive+.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Big Tone Music Brewery",
+      "pedal": "Germanium FuzzBender",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 086/Germanium FuzzBender.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Big Tone Music Brewery",
+      "pedal": "Parametric Overdrive",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 086/Parametric Overdrive.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Big Tone Music Brewery",
+      "pedal": "Six Of Swords",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 086/Six Of Swords.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Big White Monkey Amps",
+      "pedal": "Howler",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 086/Howler.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Big White Monkey Amps",
+      "pedal": "Spider 808",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 086/Spider 808.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Bigfoot Engineering",
+      "pedal": "Anniversary King Fuzz",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 086/Anniversary King Fuzz.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Bigfoot Engineering",
+      "pedal": "Bigfoot 15th Anniversary Fuzz",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 086/Bigfoot 15th Anniversary Fuzz.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Bigfoot Engineering",
+      "pedal": "Bigfoot Germanium EQ Drive",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 086/Bigfoot Germanium EQ Drive.md",
       "research_level": "surface"
     }
   ]

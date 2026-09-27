@@ -6784,8 +6784,8 @@
       "image": null,
       "source_page": "https://www.guitarpedalx.com/news/best-of-british-pedal-builders-roundup---an-a-z-overview-in-105-parts",
       "research_record": "./research/pedals/Bad Penny FX/Fuzz Controller Germanium.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Bad Penny FX",
@@ -9454,8 +9454,8 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/behringer/compact/wd300",
       "research_record": "./research/pedals/Behringer/WD300 Warp Distortion.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Behringer",
@@ -9466,8 +9466,8 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/behringer/compact/xd300",
       "research_record": "./research/pedals/Behringer/XD300 Distortion X.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Behringer",
@@ -9478,8 +9478,8 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/behringer/zentara",
       "research_record": "./research/pedals/Behringer/Zentara Overdrive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Benson Amps",
@@ -10278,8 +10278,8 @@
       "research_record": "./research/pedals/PRP Batch 083/Hairy Balls.md",
       "image_source_url": "https://auctions.c.yimg.jp/images.auctions.yahoo.co.jp/image/dr000/auc0102/user/e00db25f876fdd939fb0fc6f42e66998c84d5253b975550f7432e57e4bd277a7/i-img1200x802-17390075144219rlw4k510730.jpg",
       "image_source_page": "https://auctions.yahoo.co.jp/jp/auction/x1172639881",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Big John Effects",
@@ -10298,8 +10298,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_url": "https://i.ytimg.com/vi/EaKOLK1E5GQ/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGH8gJyglMA8=&rs=AOn4CLBQpDw9iVh8VXKRlzcOKExDJhHY-A",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Big John Effects",
@@ -10312,8 +10312,8 @@
       "research_record": "./research/pedals/PRP Batch 083/Obama Wah.md",
       "image_source_url": "http://caskmusic.ca/cdn/shop/products/2020-11-1314.39.21.jpg?v=1605579597",
       "image_source_page": "https://caskmusic.ca/products/big-john-obama-wah",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Big John Effects",
@@ -10326,8 +10326,8 @@
       "research_record": "./research/pedals/PRP Batch 083/Pocket Rocket.md",
       "image_source_url": "https://www.analogwisepedals.com/wp-content/uploads/2022/11/004-scaled.jpg",
       "image_source_page": "https://www.analogwisepedals.com/browse-pedals/pocket-rocket/",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Big Knob Pedals",
@@ -10340,8 +10340,8 @@
       "research_record": "./research/pedals/PRP Batch 083/Appetite for Distortion.md",
       "image_source_url": "https://cdn11.bigcommerce.com/s-qzsvj0y9o3/images/stencil/1280x1280/products/38987/145997/YOTHER117605__25861.1658491856.jpg?c=1",
       "image_source_page": "https://richtonemusic.co.uk/big-knob-pedals-appetite-for-distortion-2nd-hand/",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Big Knob Pedals",
@@ -10354,8 +10354,8 @@
       "research_record": "./research/pedals/PRP Batch 083/Black Metallic.md",
       "image_source_url": "https://bigknobpedals.com/wp-content/uploads/2020/06/METALLIC-15.jpg",
       "image_source_page": "https://bigknobpedals.com/product/black-metallic/",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Big Knob Pedals",
@@ -10368,8 +10368,8 @@
       "research_record": "./research/pedals/PRP Batch 083/Blues Buster.md",
       "image_source_url": "https://bigknobpedals.com/wp-content/uploads/2023/05/BKPSITE_BLUESBUSTER.png",
       "image_source_page": "https://bigknobpedals.com/product/blues-buster/",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Big Knob Pedals",
@@ -10388,8 +10388,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_url": "https://bigknobpedals.com/wp-content/uploads/2020/06/BUSHY-5.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Big Knob Pedals",
@@ -10402,8 +10402,8 @@
       "research_record": "./research/pedals/PRP Batch 083/Civil Warp.md",
       "image_source_url": "https://bigknobpedals.com/wp-content/uploads/2020/06/CIVIL-6.jpg",
       "image_source_page": "https://bigknobpedals.com/product/civil-warp/",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Big Knob Pedals",
@@ -10430,8 +10430,8 @@
       "research_record": "./research/pedals/PRP Batch 083/Creamy Pi.md",
       "image_source_url": "https://bigknobpedals.com/wp-content/uploads/2020/06/CREAMY-7-416x416.jpg",
       "image_source_page": "https://bigknobpedals.com/product/creamy-pi/",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Big Knob Pedals",
@@ -10486,8 +10486,8 @@
       "research_record": "./research/pedals/PRP Batch 083/Game of Tones.md",
       "image_source_url": "https://bigknobpedals.com/wp-content/uploads/2023/05/BKPSITE_GOT.png",
       "image_source_page": "https://bigknobpedals.com/product/game-of-tones/",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Big Knob Pedals",
