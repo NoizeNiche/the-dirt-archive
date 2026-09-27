@@ -38,6 +38,14 @@ def identity_ok(builder,pedal,title,h1,excerpt="",url=""):
         variants.append(core)
     if "rammstein rd distortion combo emulator" in norm(pedal):
         variants.append("Rammstein Du Hast")
+    raw_pedal=str(pedal or "").strip()
+    if raw_pedal.endswith(")") and "(" in raw_pedal:
+        base,alias=raw_pedal.rsplit("(",1)
+        alias=alias[:-1].strip()
+        if 2 <= len(alias) <= 8 and alias.isalnum() and alias.upper()==alias:
+            base=base.strip()
+            if base:
+                variants.append(base)
     variants=list(dict.fromkeys(variants))
     bw=[x for x in norm(builder).split() if len(x)>=3]
     for variant in variants:
