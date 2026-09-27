@@ -1,23 +1,42 @@
 # Daredevil Pedals — Necros Fuzz / Distortion
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Necros Fuzz / Distortion
 - **Builder:** Daredevil Pedals
-- **Pedal:** Necros Fuzz / Distortion
 - **Catalog type:** Distortion
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Daredevil Pedals Necros Fuzz / Distortion.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Necros Fuzz / Distortion** by **Daredevil Pedals** as a **Distortion** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Daredevil's current official site lists the exact model as **Necros Fuzz / Distortion - Limited Edition** and marks it **Sold out**. The builder describes Daredevil as hand built in Chicago since 2012.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Versions and factory status
+- The official 2026 catalog classifies Necros as a **Limited Edition** model.
+- The current listing price is $199.00 and the product is shown as sold out.
+- The surviving official catalog page reviewed does not establish the exact production run size, revision history, or complete colorway sequence.
 
+## Controls / circuit
+The official catalog result reviewed identifies the model but does not disclose a complete schematic, control list, or semiconductor specification.
+- **Exact controls:** Unknown from the reviewed official listing.
+- **Exact circuit topology:** Unknown.
+- **Exact transistor/device:** Unknown.
+- **Exact clipping/diode device:** Unknown.
+
+## Sound
+The exact model name establishes that the product is marketed as both **fuzz / distortion**. The archive does not add a more detailed tonal description without exact-model technical or demo evidence.
+
+## Research confidence
+- **Identity:** High.
+- **Fuzz / distortion classification:** High.
+- **Limited-edition status:** High.
+- **2026 official catalog presence:** High.
+- **Exact controls/circuit/components:** Unknown.
+
+## Deep research verification
+This pass verifies the exact model against Daredevil Pedals' official current catalog. Historical technical details remain unresolved where the builder's surviving public listing does not expose them.
+
+## Sources checked
+1. Daredevil Pedals - official site: https://www.daredevilpedals.com/
+ 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** A local catalog image is already assigned to this model.
+- This research pass does not replace the existing image asset.
