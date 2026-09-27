@@ -4,26 +4,46 @@
 - **Archive parent:** Everything is Alive - Modulated Resonant Fuzz
 - **Builder:** Big Game Pedals
 - **Catalog type:** Fuzz
-- **Identity:** Big Game Pedals' Everything Is Alive / EAND family fuzz, a customizable Muff-derived design with modulation and resonance-oriented development.
+- **Identity:** Big Game's Everything Is Alive / EIA fuzz development, built from a modified Muff-family platform with modulation/resonance-oriented additions.
 
 ## What this pedal is
-Contemporary TalkBass documentation describes the earlier Everything Is Alive Nothing Is Dead Fuzz as based on the Sovtek Green Muff family, with optional NOS KD521A diodes and several builder modifications. Later builder discussion describes Everything Is Alive as a revised pedal with modulation and filtering changes.
+Big Game's surviving development documentation traces the earlier **Everything Is Alive Nothing Is Dead Fuzz** to the Sovtek Green Muff family. Builder discussion documents optional diode choices, tone bypass and later modulation/filter development.
 
 ## Controls / options
-- Base Muff-style fuzz controls vary by version.
-- Documented options include diode selection, tone-bypass and additional sustain/gain modifications.
-- Later versions were developed with subtle modulation for movement rather than extreme filtering.
-- Exact final control set for the cataloged version was not safely reconstructed.
+The exact control set varies across documented development stages. Surviving evidence identifies:
+- Muff-style fuzz controls.
+- **Tone Bypass** option.
+- **Diode selector** option.
+- Additional sustain/gain modifications on some builds.
+- Later modulation/resonance development.
 
-## Circuit
-- Muff-derived family.
-- Earlier versions documented with optional KD521A diode selection.
-- Later development used hex inverters for modulation-related random-voltage generation.
+Because the final catalog unit's control legend is not completely preserved, no additional controls are inferred.
+
+## Circuit / components
+- **Lineage:** Modified Muff-family circuit, with earlier documentation pointing specifically to the Sovtek Green Muff family.
+- **Diodes:** Earlier builds documented optional **KD521A** NOS diodes.
+- Later modulation experiments used hex-inverter circuitry for random-voltage modulation.
+- Exact final transistor and diode complement is not established.
+
+## Sound / behavior
+The pedal was developed around a large Muff-family fuzz foundation, with additional filtering and subtle modulation intended to create movement and resonance without replacing the underlying fuzz role.
+
+## Version notes
+This record intentionally keeps **Everything Is Alive - Modulated Resonant Fuzz** separate from **Nothing Is Dead Fuzz**. The surviving builder discussion shows a development lineage but does not establish that every internal modification became a standardized production revision.
+
+## Research confidence
+- **Muff-family lineage:** High.
+- **KD521A option in earlier builds:** Moderate to high.
+- **Final exact controls:** Incomplete.
+- **Exact final semiconductor complement:** Unknown.
+
+## Deep research verification
+The Big Game Pedals TalkBass development thread was checked for the product lineage, modification history and circuit experiments. Exact-model details that could not be tied to the final catalog version are deliberately marked as development evidence rather than universal specifications.
 
 ## Sources checked
-1. TalkBass Big Game Pedals discussion: https://www.talkbass.com/threads/big-game-pedals.1151255/
-2. Big Game Pedals TalkBass development post: https://www.talkbass.com/threads/big-game-pedals.1151255/post-19286931
+1. TalkBass - Big Game Pedals development discussion: https://www.talkbass.com/threads/big-game-pedals.1151255/
+2. Big Game development post: https://www.talkbass.com/threads/big-game-pedals.1151255/post-19286931
 
 ## Photo
-- **Archive status:** **No Photo Archived**
-- Stable direct archival image was not promoted during this pass.
+- **Archive status:** **Exact Photo Pending**
+- No local canonical image was promoted in this pass.
