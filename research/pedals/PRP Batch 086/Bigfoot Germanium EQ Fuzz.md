@@ -12,3 +12,5 @@ https://www.bigfootengineering.com/ltd.html
 
 ## Archive photo
 - **Archive status:** **No Photo Archived**
+## Deep research verification
+Bigfoot Engineering's cited Limited Edition catalog confirms the exact **Bigfoot Germanium EQ Fuzz** as a distinct Special Reserve model. The reviewed builder source does not expose enough exact controls, transistor details or power/bypass specifications to safely add them, so those fields remain unknown.
