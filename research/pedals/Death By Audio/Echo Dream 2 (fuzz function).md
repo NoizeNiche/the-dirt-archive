@@ -1,23 +1,43 @@
 # Death By Audio — Echo Dream 2 (fuzz function)
 
-## Surface catalog record
+## PRP identity
 - **Builder:** Death By Audio
-- **Pedal:** Echo Dream 2 (fuzz function)
 - **Catalog type:** Distortion / Fuzz / Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Echo Dream 2, specifically its post-delay fuzz/gain stage.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Echo Dream 2 (fuzz function)** by **Death By Audio** as a **Distortion / Fuzz / Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Death By Audio describes the Echo Dream 2 as a modulating echo whose Fuzz control sits after the echo. That stage ranges from clean through overdrive to fuzz, making it a qualifying dirt function even though the overall product is primarily a delay.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Technical evidence
+- **MASTER:** overall output.
+- **FUZZ:** post-echo gain, from clean to overdrive to fuzz.
+- **DELAY:** delayed-signal level.
+- **D TIME:** 20 ms to about 1.2 seconds.
+- **FBACK:** delay feedback.
+- **SPEED / DEPTH:** modulation.
+- **MOD SHAPE:** sine or square.
+- Dry toggle selects dry signal or repeats-only operation.
+- Power: 40 mA; 9V battery or 9–18V DC adapter documented.
+- Exact fuzz-stage semiconductor and clipping parts: Unknown.
+
+## Sound
+The builder describes the fuzz stage as capable of taking the echoed signal from subtle gain to extreme fuzz. A 2020 video manual also describes the Fuzz control as the post-echo output-gain stage.
+
+## History / scope
+This record deliberately documents the dirt function that qualifies Echo Dream 2 for the archive rather than misrepresenting the complete delay/modulation pedal as a conventional standalone fuzz box.
+
+## Research confidence
+- **Identity:** High.
+- **Post-delay dirt function:** High.
+- **Controls:** High.
+- **Power:** High.
+- **Exact fuzz circuit components:** Unknown.
+
+## Sources checked
+1. Death By Audio - Echo Dream 2: https://deathbyaudio.com/products/echo-dream-2
+2. Death By Audio - Echo Dream 2 video demo
+3. Echo Dream 2 manual
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Exact Photo Pending
+- No local canonical image was promoted in this pass.
