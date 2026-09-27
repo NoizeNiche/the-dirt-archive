@@ -1,31 +1,38 @@
 # DOD Electronics — Grind (FX101)
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Grind (FX101)
 - **Builder:** DOD Electronics
-- **Pedal:** Grind (FX101)
 - **Catalog type:** Distortion
-- **Research level:** Deep
-- **Deep research status:** Identity/alias audit
-- **Identity basis:** The archive contains a second DOD FX101 identity under the name **Grind (FX101)**, while another catalog record is named **FX101 Grind Rectifying Overdrive**. DOD's official manual index uses **FX101 Grind** and historical documentation expands the product name as **Grind Rectifying Overdrive**.
+- **Identity:** DOD Electronics's Grind (FX101).
 
-## Likely catalog relationship
+## What this pedal is
+DOD Electronics's Grind (FX101) is cataloged as a distortion pedal.
+
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+DOD's official manual index uses **FX101 Grind** and historical documentation expands the product name as **Grind Rectifying Overdrive**.
 The two archive records, **Grind (FX101)** and **FX101 Grind Rectifying Overdrive**, appear to represent the same DOD FX101 product identity rather than two distinct dirt boxes.
+The DOD manual index explicitly lists **FX101 Grind**, and exact-model historical references identify the model as the **Grind Rectifying Overdrive**.
 
-This is an **identity/alias finding**, not a silent catalog merge. The canonical catalog should be reconciled only after comparing the two source records and their media and metadata.
-
-## Verified FX101 facts
-The DOD manual index explicitly lists **FX101 Grind**, and exact-model historical references identify the model as the **Grind Rectifying Overdrive**. Historical documentation places its introduction in 1996 and describes the same four-control concept: Blast, Rumble, Burn, and Fear, with a dedicated speaker-emulated output. [1][2]
-
-The archive's more detailed FX101 record contains the current deep research treatment. This alias record should not independently invent a second circuit history.
+## Sources checked
+1. Product Manuals - DigiTech: https://digitech.com/product-manuals/
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived for this alias record.
-- Photo assignment should be reconciled at the catalog-identity level before duplicate images are attached.
-
-## Research evidence
-**Sources checked:**
-1. https://digitech.com/product-manuals/ — official DOD/DigiTech product-manual index listing FX101 Grind.
-2. Existing archive deep-research record: FX101 Grind Rectifying Overdrive.md.
-3. Internal DOD historical reconciliation, Block 072, which identifies FX101 as Grind Rectifying Overdrive and places it in the historical DOD dirt census.
-
-**Research confidence:** High that both labels refer to the DOD FX101 family/product identity; exact catalog consolidation should be a separate data-maintenance operation.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

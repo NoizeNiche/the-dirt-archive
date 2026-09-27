@@ -1,23 +1,38 @@
 # EarthQuaker Devices — Dirt Transmitter — Fuzz Driver
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Dirt Transmitter — Fuzz Driver
 - **Builder:** EarthQuaker Devices
-- **Pedal:** Dirt Transmitter — Fuzz Driver
 - **Catalog type:** Fuzz
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** EarthQuaker Devices's Dirt Transmitter — Fuzz Driver.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Dirt Transmitter — Fuzz Driver** by **EarthQuaker Devices** as a **Fuzz** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+The Dirt Transmitter has gobs of gain and a low noise-floor, making it exceptional for stacking with other overdrive and fuzz pedals to boost its broadcast range .
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+if you need to dirty your signal’s transmission, aim your satellites in the direction of the Dirt Transmitter fuzz driver from EarthQuaker Devices.
+The Dirt Transmitter uses rare-Earth precious Silicon metal transistors for a biting top-end response and higher gain than germanium, making it better suited for the modern fuzz tones of today .
+The “Bias” control starves the transistors of necessary electrical current, resulting in a gated, or “dying battery” sound for space-age Velcro-like fuzz tones.
+
+## Sources checked
+1. Dirt Transmitter &mdash; EarthQuaker Devices: https://www.earthquakerdevices.com/dirt-transmitter
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

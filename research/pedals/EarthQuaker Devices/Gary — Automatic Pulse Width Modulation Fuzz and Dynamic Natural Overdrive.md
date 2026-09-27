@@ -1,23 +1,38 @@
 # EarthQuaker Devices — Gary — Automatic Pulse Width Modulation Fuzz and Dynamic Natural Overdrive
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Gary — Automatic Pulse Width Modulation Fuzz and Dynamic Natural Overdrive
 - **Builder:** EarthQuaker Devices
-- **Pedal:** Gary — Automatic Pulse Width Modulation Fuzz and Dynamic Natural Overdrive
 - **Catalog type:** Fuzz
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** EarthQuaker Devices's Gary — Automatic Pulse Width Modulation Fuzz and Dynamic Natural Overdrive.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Gary — Automatic Pulse Width Modulation Fuzz and Dynamic Natural Overdrive** by **EarthQuaker Devices** as a **Fuzz** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+EarthQuaker Devices's Gary — Automatic Pulse Width Modulation Fuzz and Dynamic Natural Overdrive is cataloged as a fuzz pedal.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- The result is a dynamic and destructive pulse width modulated fuzz paired with a natural-sounding op-amp overdrive.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+Gary Automatic Pulse Width Modulation Fuzz and Dynamic Natural Overdrive — EarthQuaker Devices Contact Us Use the form on the right to contact us.
+Gary started as a simple request to create a compact version of the now discontinued Gray Channel®, which was a mainstay on Lee’s board and a big part of his main drive tone.
+The result is a dynamic and destructive pulse width modulated fuzz paired with a natural-sounding op-amp overdrive.
+
+## Sources checked
+1. Gary Automatic Pulse Width Modulation Fuzz and Dynamic Natural Overdrive &mdash; EarthQuaker Devices: https://www.earthquakerdevices.com/gary
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

@@ -1,23 +1,38 @@
 # EarthQuaker Devices — Hoof — Hybrid Fuzz
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Hoof — Hybrid Fuzz
 - **Builder:** EarthQuaker Devices
-- **Pedal:** Hoof — Hybrid Fuzz
 - **Catalog type:** Fuzz
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** EarthQuaker Devices's Hoof — Hybrid Fuzz.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Hoof — Hybrid Fuzz** by **EarthQuaker Devices** as a **Fuzz** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Free -Day Shipping Get it by when you order within Get it if you order in Price: × Faster Shipping Our flagship fuzz pedal can be found on thousands of pedalboards around the world and has rocked countless stages from stinky suburban basements to Madison Square Garden.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+Hoof Hybrid Fuzz — EarthQuaker Devices Contact Us Use the form on the right to contact us.
+Free -Day Shipping Get it by when you order within Get it if you order in Price: × Faster Shipping Our flagship fuzz pedal can be found on thousands of pedalboards around the world and has rocked countless stages from stinky suburban basements to Madison Square Garden.
+We hand-match our NOS Germanium transistors to exacting specifications for pedal-to-pedal consistency, taking the guesswork out of your fuzz purchase, and guaranteeing that your Hoof delivers the same smooth, natural, and harmonically-rich sustain as all your friends’ Hoofs.
+
+## Sources checked
+1. Hoof Hybrid Fuzz &mdash; EarthQuaker Devices: https://www.earthquakerdevices.com/hoof
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

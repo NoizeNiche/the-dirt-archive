@@ -1,23 +1,38 @@
 # EarthQuaker Devices — Black Ash — Endangered Fuzz
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Black Ash — Endangered Fuzz
 - **Builder:** EarthQuaker Devices
-- **Pedal:** Black Ash — Endangered Fuzz
 - **Catalog type:** Fuzz
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** EarthQuaker Devices's Black Ash — Endangered Fuzz.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Black Ash — Endangered Fuzz** by **EarthQuaker Devices** as a **Fuzz** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+EarthQuaker Devices's Black Ash — Endangered Fuzz is cataloged as a fuzz pedal.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- Black Ash Endangered Fuzz — EarthQuaker Devices Contact Us Use the form on the right to contact us.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+Black Ash Endangered Fuzz — EarthQuaker Devices Contact Us Use the form on the right to contact us.
+Controls Fuzz: Adjusts the amount of gain.
+Counterclockwise for less fuzz, clockwise for more fuzz.
+
+## Sources checked
+1. Black Ash Endangered Fuzz &mdash; EarthQuaker Devices: https://www.earthquakerdevices.com/black-ash
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

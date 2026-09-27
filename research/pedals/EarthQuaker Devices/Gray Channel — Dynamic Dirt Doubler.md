@@ -1,23 +1,40 @@
 # EarthQuaker Devices — Gray Channel — Dynamic Dirt Doubler
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Gray Channel — Dynamic Dirt Doubler
 - **Builder:** EarthQuaker Devices
-- **Pedal:** Gray Channel — Dynamic Dirt Doubler
 - **Catalog type:** Distortion / Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** EarthQuaker Devices's Gray Channel — Dynamic Dirt Doubler.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Gray Channel — Dynamic Dirt Doubler** by **EarthQuaker Devices** as a **Distortion / Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+EarthQuaker Devices's Gray Channel — Dynamic Dirt Doubler is cataloged as a distortion / overdrive pedal.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- Toggle: Si- Silicon clipping, N- No clipping, Ge- Germanium Clipping Red Channel Controls 4.
+- Red: Sets the output level when the red LED is lit.
+- Channel Switch: Selects between Red and Green channels.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Documented terms in the verified sources: LED.
+- The archive records only the component information explicitly present in these sources.
+
+## Sound
+Gray Channel Dynamic Dirt Doubler — EarthQuaker Devices Contact Us Use the form on the right to contact us.
+THIS DEVICE IS NO LONGER IN PRODUCTION Gray Channel® Dynamic Dirt Doubler The Gray Channel™ is a real “twofer” of an overdrive.
+It is based around a classic hard-clipping gray box overdrive (subtle hint, huh), one of my all-time favorites.
+
+## Sources checked
+1. Gray Channel Dynamic Dirt Doubler &mdash; EarthQuaker Devices: https://www.earthquakerdevices.com/gray-channel
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

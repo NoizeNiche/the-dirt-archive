@@ -1,23 +1,39 @@
 # EarthQuaker Devices — Dunes — Mini Mega Ultimate Overdrive
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Dunes — Mini Mega Ultimate Overdrive
 - **Builder:** EarthQuaker Devices
-- **Pedal:** Dunes — Mini Mega Ultimate Overdrive
 - **Catalog type:** Distortion / Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** EarthQuaker Devices's Dunes — Mini Mega Ultimate Overdrive.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Dunes — Mini Mega Ultimate Overdrive** by **EarthQuaker Devices** as a **Distortion / Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+EarthQuaker Devices's Dunes — Mini Mega Ultimate Overdrive is cataloged as a distortion / overdrive pedal.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Documented terms in the verified sources: Silicon diode.
+- The archive records only the component information explicitly present in these sources.
+
+## Sound
+Dunes Mini Mega Ultimate Overdrive — EarthQuaker Devices Contact Us Use the form on the right to contact us.
+THIS DEVICE IS NO LONGER IN PRODUCTION Dunes™ Mini Mega Ultimate Overdrive Dunes™ is a condensed take on our highly popular Palisades “808-style” overdrive.
+We’ve stripped away all the glitz and glamour of the original Palisades, leaving only the bare essentials required for a rippin’ mid-boosting transparent overdrive.
+
+## Sources checked
+1. Dunes Mini Mega Ultimate Overdrive &mdash; EarthQuaker Devices: https://www.earthquakerdevices.com/dunes
+2. EarthQuaker Devices Dunes - Mini Mega Ultimate Overdrive | Effects Database: https://www.effectsdatabase.com/model/earthquaker/dunes
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
