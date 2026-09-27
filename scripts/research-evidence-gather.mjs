@@ -429,7 +429,9 @@ async function targetRecord(builder,pedal,type){
         }
       : p
         ? pageInfo(p.text)
-        : {title:item.x.title,h1:'',description:'',body:''};
+        : curatedExactCandidate && recordExcerpt
+          ? {title:recordTitle,h1:recordTitle,description:'',body:recordExcerpt}
+          : {title:item.x.title,h1:'',description:'',body:''};
     const u=p?.url||item.x.url;
     const fullText=info.title+' '+info.h1+' '+info.description+' '+info.body+' '+u;
     const f=fit(builder,pedal,fullText);
