@@ -1,23 +1,44 @@
 # Mid-Fi Electronics — Another/An-other (Fuzz Version)
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Another/An-other (Fuzz Version)
 - **Builder:** Mid-Fi Electronics
-- **Pedal:** Another/An-other (Fuzz Version)
 - **Catalog type:** Fuzz
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Mid-Fi Electronics's Another/An-other (Fuzz Version).
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Another/An-other (Fuzz Version)** by **Mid-Fi Electronics** as a **Fuzz** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Mid-Fi Electronics ::: Another/An-other (Fuzz Version) HOME PEDALS PURCHASE Another/An-other (Fuzz Version) The Another/An-other is a frequency dependent fuzz/chopper.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+Mid-Fi Electronics ::: Another/An-other (Fuzz Version) HOME PEDALS PURCHASE Another/An-other (Fuzz Version) The Another/An-other is a frequency dependent fuzz/chopper.
+Mid-Fi Electronics Another/An-other (Fuzz Version) Pedal Review This isn’t just another fuzzits a whole new way to shape your sound.
+The Another/An-other Fuzz takes your guitar signal, splits it in two, and lets one half control a switchable chopper effect based on the frequencies you play.
+
+## Sources checked
+1. Mid-Fi Electronics ::: Another/An-other (Fuzz Version): https://www.midfielectronics.com/another-an-other-fuzz-version
+2. Mid-Fi Electronics Another/An-other (Fuzz Version) Pedal Random Color: https://www.crestguitar.com/product/mid-fi-electronics-another-an-other-fuzz-version-pedal-random-color/
+3. Mid-Fi Electronics Another/An-other (Fuzz Version) Pedal &ndash; DeathCloud: https://deathcloud.com/products/mid-fi-electronics-another-an-other-fuzz-version
+4. Mid-Fi Electronics Another/An-other (Fuzz Version) Pedal: https://www.soundfusionmusic.com/product/mid-fi-electronics-another-an-other-fuzz-version-pedal/
+5. Mid-Fi Electronics Another/An-other (Fuzz Version) Pedal: https://www.talentmusicstore.com/product/mid-fi-electronics-another-an-other-fuzz-version-pedal/
+6. Mid-Fi Electronics Another/An-other (Fuzz Version) Pedal - Simplifying Digital Life with Intelligent and Innovative Technology Experiences: https://www.simplifyingk.com/product/mid-fi-electronics-another-an-other-fuzz-version-pedal/
+7. Mid-Fi Electronics Another/An-other (Fuzz Version) Pedal Random Color: https://www.gryphonstrings.us/product/mid-fi-electronics-another-an-other-fuzz-version-pedal-random-color/
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

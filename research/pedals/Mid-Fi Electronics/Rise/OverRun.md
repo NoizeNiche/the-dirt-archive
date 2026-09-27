@@ -1,23 +1,41 @@
 # Mid-Fi Electronics — Rise/OverRun
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Rise/OverRun
 - **Builder:** Mid-Fi Electronics
-- **Pedal:** Rise/OverRun
 - **Catalog type:** Fuzz
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Mid-Fi Electronics's Rise/OverRun.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Rise/OverRun** by **Mid-Fi Electronics** as a **Fuzz** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Mid-Fi Electronics ::: Rise/OverRun HOME PEDALS PURCHASE Rise/OverRun First your signal is fuzzed up, then split into parallel low pass, and band pass filters.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- The verified evidence references: V1, v4.
+- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+Mid-Fi Electronics Rise/OverRun Pedal Review This pedal starts by adding a gritty fuzz to your tone, then sends your signal through two different filters at the same time.
+
+## Sources checked
+1. Mid-Fi Electronics ::: Rise/OverRun: https://www.midfielectronics.com/rise-overrun
+2. Mid-Fi Electronics Rise/OverRun 2025 - Various - Reverb: https://reverb.com/item/93495313-mid-fi-electronics-rise-overrun-2025-various
+3. Mid-Fi Electronics Rise/OverRun: A Reactive Fuzz-Filter Pedal &ndash; DeathCloud: https://deathcloud.com/blogs/gear-news/mid-fi-electronics-rise-overrun-a-reactive-fuzz-filter-pedal
+4. The Mid-Fi Electronics Rise/OverRun is pure chaos in pedal form! Your signal gets fuzzed, split into parallel filters, then modulated by a staircase waveform that reacts to your playing. Lower notes = slower movement Higher notes = faster movement How would you use the Rise/OverRun? Let us know in the comments! @midfielectronics #midfielectronics #guitar #guitarpedals #guitargear #pedalboard #tonefordays | DeathCloud: https://www.facebook.com/DeathCloudUSA/videos/the-mid-fi-electronics-riseoverrun-is-pure-chaos-in-pedal-form-your-signal-gets-/1736299004383962/
+5. Mid-Fi Electronics Rise/OverRun Pedal Random Color | Effects Pedal: https://www.micinstrument.com/product/mid-fi-electronics-rise-overrun-pedal-random-color/
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

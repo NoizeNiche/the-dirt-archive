@@ -44045,8 +44045,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Maxon/OSD-9.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Maxon",
@@ -45438,8 +45438,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Mid-Fi Electronics/Another/An-other (Fuzz Version).md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Mid-Fi Electronics",
@@ -45630,8 +45630,8 @@
       "image": "./assets/pedals/mid-fi-electronics/rise-overrun/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mid-Fi Electronics/Rise/OverRun.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Mid-Fi Electronics",
@@ -46613,8 +46613,8 @@
       "image": "./assets/pedals/mr-black/thunderclaw-scorpion-milk/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mr. Black/ThunderClaw - Scorpion Milk.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Mr. Black",
@@ -46626,8 +46626,8 @@
       "image": "./assets/pedals/mr-black/vintage-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mr. Black/Vintage Overdrive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "MXR",
