@@ -4,52 +4,55 @@
 - **Archive parent:** Eve fuzz
 - **Builder:** Basic Audio
 - **Catalog type:** Fuzz
-- **Identity:** One parent pedal. No numbered factory revision verified in the sources checked.
+- **Identity:** Hybrid Muff/Fuzz Face-style fuzz combining a Big Muff-derived section with a Fuzz Face-derived section, with broad Bias control and two gain controls acting at different points in the circuit. [1]
 
 ## What this pedal is
-Eve fuzz combines a Big Muff-style section with a Fuzz Face-style section and adds extensive control over bias and gain. Basic Audio specifically describes the two gain controls as acting at different parts of the circuit, giving separate control over sustain and overall gain. [1]
+Basic Audio describes Eve as a uniquely textured fuzz that combines the thick character of a Big Muff with the more responsive behavior of a Fuzz Face. The Bias control covers a wide range from slight instability/crumble into hard gating, while separate gain controls shape different parts of the circuit. [1]
 
-## Colorways
-- A **red enclosure with a silver patterned faceplate** is documented in Basic Audio's official photograph.
-- Basic Audio says colors are subject to change. [1]
+## Controls / architecture
+- **VOLUME**
+- **TONE**
+- **BIAS**
+- **GAIN 1**
+- **GAIN 2**
+The two gain controls operate at different stages and therefore produce different combinations of sustain, saturation and overall gain. [1]
 
-## Versions and factory options
-### Eve fuzz production
-- Big Muff into Fuzz Face concept
-- wide-range bias control
-- two gain controls
-- sustain and overall-gain interaction
-- center-negative 9V operation
-- battery snap [1]
-
-No numbered factory revision was verified.
-
-## Version changes
-No documented numbered production revision was found. Eve remains one parent record.
+## Circuit lineage
+- **Input/early gain lineage:** Big Muff-style.
+- **Later/output fuzz lineage:** Fuzz Face-style.
+- This is a Basic Audio hybrid interpretation, not a claim of an untouched historical clone. [1]
 
 ## Transistor
-- **Technology:** Not publicly documented by the builder in the sources checked.
-- **Exact transistor/device:** Unknown.
+- Exact production transistor technology and part numbers are **not publicly documented** in the reviewed manufacturer source.
 
-## Diode
-- **Type:** Not publicly documented.
-- **Exact diode/device:** Unknown.
+## Diode / clipping
+- Exact clipping-device type and part number are **not publicly documented**.
+
+## Power
+- **9V center-negative** operation with battery support is documented by Basic Audio. [1]
+
+## Version history
+- No numbered electronic revision established.
+- Finish changes are treated as cosmetic unless circuit evidence establishes a revision.
 
 ## Sound
-Eve combines the thick, compressed character associated with a Muff-style stage with the more responsive behavior of a Fuzz Face-style stage. The wide bias control can move the sound from slightly crumbling and unstable to strongly gated, while the two gain controls allow the player to shift between more sustain and heavier saturation. [1]
+The combination of Muff-like compression and Fuzz Face-style response gives Eve a dense, sustaining fuzz that can be pushed into crumbling or gated textures with Bias. The two gain controls allow the player to adjust different parts of the gain structure rather than using one simple fuzz knob. [1]
 
 ## Research confidence
 - **Identity:** High
-- **Feature set:** High
-- **Factory version history:** Moderate
-- **Transistor:** Unknown
-- **Diode:** Unknown
-- **Sound:** High
+- **Muff + Fuzz Face hybrid architecture:** High
+- **Bias control:** High
+- **Dual gain-stage controls:** High
+- **9V operation:** High
+- **Exact transistor:** Unknown
+- **Exact diode:** Unknown
 
-## Photo
-- **Exact pedal photograph:** Basic Audio official product photograph.
-- **Direct image:** https://images.squarespace-cdn.com/content/v1/5da9e97016ddf940acffa2d3/1647485195666-J9D18MJ07IHC2OM7400Z/DSCF4844_1.jpg
-- **Source page:** https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-6jkg6-k2n23
+## Deep research verification
+Basic Audio's exact-model product documentation was cross-checked with the retained catalog record. The evidence supports the hybrid Muff/Fuzz Face architecture, wide Bias range, two-stage gain control and 9V/battery power arrangement. Unpublished semiconductor details remain unresolved. [1]
 
 ## Sources checked
 1. Basic Audio — Eve fuzz: https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-6jkg6-k2n23
+
+## Photo
+- **Archive status:** **Exact Photo Attached to Public Catalog**
+- **Exact-model image:** https://images.squarespace-cdn.com/content/v1/5da9e97016ddf940acffa2d3/1647485195666-J9D18MJ07IHC2OM7400Z/DSCF4844_1.jpg
