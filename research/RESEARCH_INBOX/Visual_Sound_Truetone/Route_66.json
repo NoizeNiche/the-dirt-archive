@@ -1,0 +1,25 @@
+{
+  "builder": "Visual Sound / Truetone",
+  "pedal": "Route 66",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 2,
+  "sources": [
+    {
+      "url": "https://www.thefretboard.co.uk/discussion/267804/found-visual-sound-truetone-route-66-v3",
+      "title": "Found: Visual Sound / Truetone Route 66 V3 - FX \u00a3 Discussions on ...",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.thefretboard.co.uk",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://reverb.com/item/65575485-visual-sound-truetone-route-66-new-model",
+      "title": "Visual Sound Truetone Route 66 New Model - Reverb",
+      "h1": "",
+      "excerpt": "",
+      "host": "reverb.com",
+      "source_kind": "reverb"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}

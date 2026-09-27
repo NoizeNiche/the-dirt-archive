@@ -34921,8 +34921,8 @@
       "image": "./assets/pedals/effectrode/tube-drive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Effectrode/Tube Drive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Electro-Harmonix",
@@ -35127,8 +35127,8 @@
       "image": "./assets/pedals/electro-harmonix/english-muff-n/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Electro-Harmonix/English Muff'n.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Electro-Harmonix",
@@ -35383,8 +35383,8 @@
       "image": "./assets/pedals/electro-harmonix/op-amp-big-muff-pi/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Electro-Harmonix/Op-Amp Big Muff Pi.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Electro-Harmonix",
@@ -41134,8 +41134,8 @@
       "image": "./assets/pedals/khdk-electronics/ghoul-screamer/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/KHDK Electronics/Ghoul Screamer.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "KHDK Electronics",
@@ -43918,8 +43918,8 @@
       "image": "./assets/pedals/maxon/fuzz-elements-wind/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Maxon/Fuzz Elements Wind.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Maxon",
@@ -44410,8 +44410,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Maxon/TOD-9 True Tube Overdrive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Maxon / Nisshin Onpa",
@@ -44798,8 +44798,8 @@
       "image": "./assets/pedals/mcgregor-pedals/double-crunch-transparent-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/McGregor Pedals/Double Crunch Transparent Overdrive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "McGregor Pedals",
@@ -45570,8 +45570,8 @@
       "image": "./assets/pedals/mid-fi-electronics/magick-i/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mid-Fi Electronics/Magick \"i\".md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Mid-Fi Electronics",
@@ -45582,8 +45582,8 @@
       "image": "./assets/pedals/mid-fi-electronics/overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mid-Fi Electronics/Overdrive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Mid-Fi Electronics",
@@ -46474,8 +46474,8 @@
       "image": "./assets/pedals/mr-black/bass-od-mk-ii/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mr. Black/Bass OD Mk. II.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Mr. Black",
@@ -54442,8 +54442,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Visual Sound / Truetone/Route 66.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Visual Sound / Truetone",
@@ -56183,8 +56183,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Way Huge/Smalls Overrated Special.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Way Huge",
@@ -56499,8 +56499,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Wren and Cuff/Forest for the Trees.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Wren and Cuff",

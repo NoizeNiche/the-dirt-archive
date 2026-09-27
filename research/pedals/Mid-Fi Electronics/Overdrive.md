@@ -1,23 +1,43 @@
 # Mid-Fi Electronics — Overdrive
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Overdrive
 - **Builder:** Mid-Fi Electronics
-- **Pedal:** Overdrive
 - **Catalog type:** Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Mid-Fi Electronics's Overdrive.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Overdrive** by **Mid-Fi Electronics** as a **Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Great anywhere in your effects chain, and won't gobble up all the level of that super loud fuzz pedal you placed before it.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+Mid-Fi Electronics ::: Full Frequency Overdrive HOME PEDALS PURCHASE Full Frequency Overdrive Never thought I’d have to design an “uncompressed” “transparent” overdrive.
+Great anywhere in your effects chain, and won't gobble up all the level of that super loud fuzz pedal you placed before it.
+Full Frequency Overdrive by Mid-Fi Electronics
+
+## Sources checked
+1. Mid-Fi Electronics ::: Full Frequency Overdrive: https://www.midfielectronics.com/full-frequency-overdrive
+2. Mid-Fi Electronics FULL FREQUENCY OVERDRIVE - Reverb: https://reverb.com/item/97421445-mid-fi-electronics-full-frequency-overdrive
+3. Mid-Fi Electronics Full Frequency Overdrive Pedal &ndash; DeathCloud: https://deathcloud.com/products/mid-fi-electronics-full-frequency-overdrive
+4. Mid-Fi Electronics Overdrive | Effects Database: https://www.effectsdatabase.com/model/midfi/overdrive
+5. Full Frequency Overdrive by Mid-Fi Electronics | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/Mid-Fi-Electronics/Full-Frequency-Overdrive/543959997/
+6. Mid-Fi Electronics FULL FREQUENCY OVERDRIVE - TC楽器 - TCGAKKI: https://tcgakki.com/en/products/mid-fi-electronics-full-frequency-overdrive
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

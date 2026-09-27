@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-27T11:51:36.895689+00:00",
+  "generated_at": "2026-09-27T11:53:44.459791+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,8 +10,8 @@
     "pictured": 3140,
     "complete": 3140,
     "research_pending": 0,
-    "deep_research_pending": 650,
-    "deep_researched": 3592,
+    "deep_research_pending": 636,
+    "deep_researched": 3606,
     "surface_ready": 4242
   },
   "next_target": {
@@ -69,13 +69,6 @@
       "pedal": "Blue Paisley PureDrive",
       "catalog_type": "",
       "research_record": "./research/pedals/Danelectro/Blue Paisley PureDrive.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Danelectro",
-      "pedal": "Fab Tone / FAB Tone Distortion",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Danelectro/Fab Tone / FAB Tone Distortion.md",
       "research_level": "surface"
     },
     {
@@ -195,6 +188,13 @@
       "pedal": "US",
       "catalog_type": "",
       "research_record": "./research/pedals/Devi Ever FX/US.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "DigiTech",
+      "pedal": "Redline Modified Overdrive",
+      "catalog_type": "",
+      "research_record": "./research/pedals/DigiTech/Redline Modified Overdrive.md",
       "research_level": "surface"
     }
   ]
