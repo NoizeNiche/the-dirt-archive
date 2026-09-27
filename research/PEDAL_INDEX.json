@@ -13431,7 +13431,7 @@
       ],
       "image": "",
       "source_page": "https://www.effectsdatabase.com/model/boss/compact/bc2",
-      "research_record": "",
+      "research_record": "./research/pedals/BOSS/BC-2 Combo Drive.md",
       "research_level": "surface",
       "deep_research_status": "PENDING"
     },
@@ -13471,7 +13471,7 @@
       ],
       "image": "",
       "source_page": "https://www.effectsdatabase.com/model/boss/compact/wazacraft/bp1w",
-      "research_record": "",
+      "research_record": "./research/pedals/BOSS/BP-1W Booster/Preamp.md",
       "research_level": "surface",
       "deep_research_status": "PENDING"
     },
@@ -13483,7 +13483,7 @@
       ],
       "image": "",
       "source_page": "https://www.effectsdatabase.com/model/boss/compact/da2",
-      "research_record": "",
+      "research_record": "./research/pedals/BOSS/DA-2 Adaptive Distortion.md",
       "research_level": "surface",
       "deep_research_status": "PENDING"
     },
@@ -13495,7 +13495,7 @@
       ],
       "image": "",
       "source_page": "https://www.effectsdatabase.com/model/boss/compact/df2",
-      "research_record": "",
+      "research_record": "./research/pedals/BOSS/DF-2 Super Feedbacker & Distortion.md",
       "research_level": "surface",
       "deep_research_status": "PENDING"
     },
@@ -13507,7 +13507,7 @@
       ],
       "image": "",
       "source_page": "https://www.effectsdatabase.com/model/boss/compact/dn2",
-      "research_record": "",
+      "research_record": "./research/pedals/BOSS/DN-2 Dyna Drive.md",
       "research_level": "surface",
       "deep_research_status": "PENDING"
     },
@@ -13533,7 +13533,7 @@
       ],
       "image": "",
       "source_page": "https://www.effectsdatabase.com/model/boss/compact/ds1/4a",
-      "research_record": "",
+      "research_record": "./research/pedals/BOSS/DS-1-4A 40th Anniversary Distortion.md",
       "research_level": "surface",
       "deep_research_status": "PENDING"
     },
@@ -13601,7 +13601,7 @@
       ],
       "image": "",
       "source_page": "https://www.effectsdatabase.com/model/boss/compact/fz2",
-      "research_record": "",
+      "research_record": "./research/pedals/BOSS/FZ-2 Hyper Fuzz.md",
       "research_level": "surface",
       "deep_research_status": "PENDING"
     },
@@ -13613,7 +13613,7 @@
       ],
       "image": "",
       "source_page": "https://www.effectsdatabase.com/model/boss/compact/fz3",
-      "research_record": "",
+      "research_record": "./research/pedals/BOSS/FZ-3 Fuzz.md",
       "research_level": "surface",
       "deep_research_status": "PENDING"
     },
@@ -13639,7 +13639,7 @@
       ],
       "image": "",
       "source_page": "https://www.effectsdatabase.com/model/boss/compact/hm2",
-      "research_record": "",
+      "research_record": "./research/pedals/BOSS/HM-2 Heavy Metal.md",
       "research_level": "surface",
       "deep_research_status": "PENDING"
     },
@@ -13665,7 +13665,7 @@
       ],
       "image": "",
       "source_page": "https://www.effectsdatabase.com/model/boss/compact/hm3",
-      "research_record": "",
+      "research_record": "./research/pedals/BOSS/HM-3 Hyper Metal.md",
       "research_level": "surface",
       "deep_research_status": "PENDING"
     },
@@ -13733,7 +13733,7 @@
       ],
       "image": "",
       "source_page": "https://www.effectsdatabase.com/model/boss/compact/mt2/3a",
-      "research_record": "",
+      "research_record": "./research/pedals/BOSS/MT-2-3A 30th Anniversary Metal Zone.md",
       "research_level": "surface",
       "deep_research_status": "PENDING"
     },
@@ -13759,7 +13759,7 @@
       ],
       "image": "",
       "source_page": "https://www.effectsdatabase.com/model/boss/compact/mz2",
-      "research_record": "",
+      "research_record": "./research/pedals/BOSS/MZ-2 Digital Metalizer.md",
       "research_level": "surface",
       "deep_research_status": "PENDING"
     },
@@ -13771,7 +13771,7 @@
       ],
       "image": "",
       "source_page": "https://www.effectsdatabase.com/model/boss/compact/od1",
-      "research_record": "",
+      "research_record": "./research/pedals/BOSS/OD-1 OverDrive.md",
       "research_level": "surface",
       "deep_research_status": "PENDING"
     },
@@ -13797,7 +13797,7 @@
       ],
       "image": "",
       "source_page": "https://www.effectsdatabase.com/model/boss/compact/od2",
-      "research_record": "",
+      "research_record": "./research/pedals/BOSS/OD-2 Turbo OverDrive.md",
       "research_level": "surface",
       "deep_research_status": "PENDING"
     },
@@ -13809,7 +13809,7 @@
       ],
       "image": "",
       "source_page": "https://www.effectsdatabase.com/model/boss/compact/od2r",
-      "research_record": "",
+      "research_record": "./research/pedals/BOSS/OD-2R Turbo OverDrive.md",
       "research_level": "surface",
       "deep_research_status": "PENDING"
     },
@@ -13849,7 +13849,7 @@
       ],
       "image": "",
       "source_page": "https://www.boss.info/us/products/odb-3/",
-      "research_record": "",
+      "research_record": "./research/pedals/BOSS/ODB-3 Bass OverDrive.md",
       "research_level": "surface",
       "deep_research_status": "PENDING"
     },
@@ -13875,7 +13875,7 @@
       ],
       "image": "",
       "source_page": "https://www.effectsdatabase.com/model/boss/compact/pw2",
-      "research_record": "",
+      "research_record": "./research/pedals/BOSS/PW-2 Power Driver.md",
       "research_level": "surface",
       "deep_research_status": "PENDING"
     },
@@ -13901,7 +13901,7 @@
       ],
       "image": "",
       "source_page": "https://www.effectsdatabase.com/model/boss/compact/sd1/4a",
-      "research_record": "",
+      "research_record": "./research/pedals/BOSS/SD-1-4A Super OverDrive.md",
       "research_level": "surface",
       "deep_research_status": "PENDING"
     },
@@ -13927,7 +13927,7 @@
       ],
       "image": "",
       "source_page": "https://www.effectsdatabase.com/model/boss/compact/sd2",
-      "research_record": "",
+      "research_record": "./research/pedals/BOSS/SD-2 Dual OverDrive.md",
       "research_level": "surface",
       "deep_research_status": "PENDING"
     },
@@ -13953,7 +13953,7 @@
       ],
       "image": "",
       "source_page": "https://www.effectsdatabase.com/model/boss/compact/wazacraft/tb2w",
-      "research_record": "",
+      "research_record": "./research/pedals/BOSS/TB-2W Tone Bender.md",
       "research_level": "surface",
       "deep_research_status": "PENDING"
     },
@@ -13965,7 +13965,7 @@
       ],
       "image": "",
       "source_page": "https://www.effectsdatabase.com/model/boss/compact/xt2",
-      "research_record": "",
+      "research_record": "./research/pedals/BOSS/XT-2 Xtortion.md",
       "research_level": "surface",
       "deep_research_status": "PENDING"
     },

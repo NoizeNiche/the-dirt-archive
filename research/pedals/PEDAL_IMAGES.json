@@ -8,20 +8,6 @@
   },
   {
     "builder": "1981 Inventions",
-    "pedal": "DRV MOD 1",
-    "image": "./assets/pedals/1981-inventions/drv-mod-1/primary.webp",
-    "source_page": "https://1981inventions.com/products/drv-mod-1",
-    "research_record": "./research/pedals/1981 Inventions/DRV MOD 1.md"
-  },
-  {
-    "builder": "1981 Inventions",
-    "pedal": "DRV MOD 1 (WHITE)",
-    "image": "./assets/pedals/1981-inventions/drv-mod-1/variants/white.webp",
-    "source_page": "https://1981inventions.com/products/drv-mod-1",
-    "research_record": "./research/pedals/1981 Inventions/DRV MOD 1 (WHITE).md"
-  },
-  {
-    "builder": "1981 Inventions",
     "pedal": "DRV MOD 2",
     "image": "./assets/pedals/1981-inventions/drv-mod-2/primary.webp",
     "source_page": "https://1981inventions.com/products/drv-mod-2",
@@ -54,6 +40,20 @@
     "image": "./assets/pedals/1981-inventions/lvl/primary.webp",
     "source_page": "https://1981inventions.com/products/forget-lvl",
     "research_record": "./research/pedals/1981 Inventions/LVL.md"
+  },
+  {
+    "builder": "1981 Inventions",
+    "pedal": "DRV MOD 1",
+    "image": "./assets/pedals/1981-inventions/drv-mod-1/primary.webp",
+    "source_page": "https://1981inventions.com/products/drv-mod-1",
+    "research_record": "./research/pedals/1981 Inventions/DRV MOD 1.md"
+  },
+  {
+    "builder": "1981 Inventions",
+    "pedal": "DRV MOD 1 (WHITE)",
+    "image": "./assets/pedals/1981-inventions/drv-mod-1/variants/white.webp",
+    "source_page": "https://1981inventions.com/products/drv-mod-1",
+    "research_record": "./research/pedals/1981 Inventions/DRV MOD 1 (WHITE).md"
   },
   {
     "builder": "6 Degrees FX",
@@ -4912,18 +4912,18 @@
   },
   {
     "builder": "Biyang",
-    "pedal": "BL-12 Blues",
-    "image": "./assets/pedals/biyang/bl-12-blues/primary.webp",
-    "source_page": "https://www.effectsdatabase.com/model/biyang/classic/bl12",
-    "research_record": "./research/pedals/PRP Batch 089/BL-12 Blues.md",
-    "source": "verified research source"
-  },
-  {
-    "builder": "Biyang",
     "pedal": "BL-8 Blue",
     "image": "./assets/pedals/biyang/bl-8-blue/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/biyang/tonefancier/bl8",
     "research_record": "./research/pedals/PRP Batch 089/BL-8 Blue.md",
+    "source": "verified research source"
+  },
+  {
+    "builder": "Biyang",
+    "pedal": "BL-12 Blues",
+    "image": "./assets/pedals/biyang/bl-12-blues/primary.webp",
+    "source_page": "https://www.effectsdatabase.com/model/biyang/classic/bl12",
+    "research_record": "./research/pedals/PRP Batch 089/BL-12 Blues.md",
     "source": "verified research source"
   },
   {
@@ -4940,14 +4940,6 @@
     "image": "./assets/pedals/biyang/ds-1-distortion/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/biyang/ds1",
     "research_record": "./research/pedals/PRP Batch 089/DS-1 Distortion.md",
-    "source": "verified research source"
-  },
-  {
-    "builder": "Biyang",
-    "pedal": "DS-12 Distortion",
-    "image": "./assets/pedals/biyang/ds-12-distortion/primary.webp",
-    "source_page": "https://www.effectsdatabase.com/model/biyang/tonefancier/ds12",
-    "research_record": "./research/pedals/PRP Batch 089/DS-12 Distortion.md",
     "source": "verified research source"
   },
   {
@@ -4984,10 +4976,10 @@
   },
   {
     "builder": "Biyang",
-    "pedal": "FZ-12 Fuzz",
-    "image": "./assets/pedals/biyang/fz-12-fuzz/primary.webp",
-    "source_page": "https://www.effectsdatabase.com/model/biyang/classic/fz12",
-    "research_record": "./research/pedals/PRP Batch 090/FZ-12 Fuzz.md",
+    "pedal": "DS-12 Distortion",
+    "image": "./assets/pedals/biyang/ds-12-distortion/primary.webp",
+    "source_page": "https://www.effectsdatabase.com/model/biyang/tonefancier/ds12",
+    "research_record": "./research/pedals/PRP Batch 089/DS-12 Distortion.md",
     "source": "verified research source"
   },
   {
@@ -4996,6 +4988,14 @@
     "image": "./assets/pedals/biyang/fz-7-fuzz/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/biyang/tonefancier/fz7",
     "research_record": "./research/pedals/PRP Batch 090/FZ-7 Fuzz.md",
+    "source": "verified research source"
+  },
+  {
+    "builder": "Biyang",
+    "pedal": "FZ-12 Fuzz",
+    "image": "./assets/pedals/biyang/fz-12-fuzz/primary.webp",
+    "source_page": "https://www.effectsdatabase.com/model/biyang/classic/fz12",
+    "research_record": "./research/pedals/PRP Batch 090/FZ-12 Fuzz.md",
     "source": "verified research source"
   },
   {
@@ -5024,14 +5024,6 @@
   },
   {
     "builder": "Biyang",
-    "pedal": "OD-12 X-Drive",
-    "image": "./assets/pedals/biyang/od-12-x-drive/primary.webp",
-    "source_page": "https://www.effectsdatabase.com/model/biyang/classic/od12",
-    "research_record": "./research/pedals/PRP Batch 090/OD-12 X-Drive.md",
-    "source": "verified research source"
-  },
-  {
-    "builder": "Biyang",
     "pedal": "OD-7 Overdrive",
     "image": "./assets/pedals/biyang/od-7-overdrive/primary.webp",
     "source_page": "https://en.audiofanzine.com/overdrive-pedal/biyang/od-7-overdrive/",
@@ -5044,6 +5036,14 @@
     "image": "./assets/pedals/biyang/od-8-x-drive/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/biyang/tonefancier/od8",
     "research_record": "./research/pedals/PRP Batch 090/OD-8 X-Drive.md",
+    "source": "verified research source"
+  },
+  {
+    "builder": "Biyang",
+    "pedal": "OD-12 X-Drive",
+    "image": "./assets/pedals/biyang/od-12-x-drive/primary.webp",
+    "source_page": "https://www.effectsdatabase.com/model/biyang/classic/od12",
+    "research_record": "./research/pedals/PRP Batch 090/OD-12 X-Drive.md",
     "source": "verified research source"
   },
   {
@@ -6260,6 +6260,13 @@
   },
   {
     "builder": "BOSS",
+    "pedal": "BC-2 Combo Drive",
+    "image": "",
+    "source_page": "https://www.effectsdatabase.com/model/boss/compact/bc2",
+    "research_record": "./research/pedals/BOSS/BC-2 Combo Drive.md"
+  },
+  {
+    "builder": "BOSS",
     "pedal": "BD-2 Blues Driver",
     "image": "./assets/pedals/boss/bd-2-blues-driver/primary.webp",
     "source_page": "https://www.boss.info/global/products/bd-2/",
@@ -6274,10 +6281,45 @@
   },
   {
     "builder": "BOSS",
+    "pedal": "BP-1W Booster/Preamp",
+    "image": "",
+    "source_page": "https://www.effectsdatabase.com/model/boss/compact/wazacraft/bp1w",
+    "research_record": "./research/pedals/BOSS/BP-1W Booster/Preamp.md"
+  },
+  {
+    "builder": "BOSS",
+    "pedal": "DA-2 Adaptive Distortion",
+    "image": "",
+    "source_page": "https://www.effectsdatabase.com/model/boss/compact/da2",
+    "research_record": "./research/pedals/BOSS/DA-2 Adaptive Distortion.md"
+  },
+  {
+    "builder": "BOSS",
+    "pedal": "DF-2 Super Feedbacker & Distortion",
+    "image": "",
+    "source_page": "https://www.effectsdatabase.com/model/boss/compact/df2",
+    "research_record": "./research/pedals/BOSS/DF-2 Super Feedbacker & Distortion.md"
+  },
+  {
+    "builder": "BOSS",
+    "pedal": "DN-2 Dyna Drive",
+    "image": "",
+    "source_page": "https://www.effectsdatabase.com/model/boss/compact/dn2",
+    "research_record": "./research/pedals/BOSS/DN-2 Dyna Drive.md"
+  },
+  {
+    "builder": "BOSS",
     "pedal": "DS-1 Distortion",
     "image": "./assets/pedals/boss/ds-1-distortion/primary.webp",
     "source_page": "https://www.boss.info/us/products/ds-1/",
     "research_record": "./research/pedals/PRP Batch 110/DS-1 Distortion.md"
+  },
+  {
+    "builder": "BOSS",
+    "pedal": "DS-1-4A 40th Anniversary Distortion",
+    "image": "",
+    "source_page": "https://www.effectsdatabase.com/model/boss/compact/ds1/4a",
+    "research_record": "./research/pedals/BOSS/DS-1-4A 40th Anniversary Distortion.md"
   },
   {
     "builder": "BOSS",
@@ -6309,6 +6351,20 @@
   },
   {
     "builder": "BOSS",
+    "pedal": "FZ-2 Hyper Fuzz",
+    "image": "",
+    "source_page": "https://www.effectsdatabase.com/model/boss/compact/fz2",
+    "research_record": "./research/pedals/BOSS/FZ-2 Hyper Fuzz.md"
+  },
+  {
+    "builder": "BOSS",
+    "pedal": "FZ-3 Fuzz",
+    "image": "",
+    "source_page": "https://www.effectsdatabase.com/model/boss/compact/fz3",
+    "research_record": "./research/pedals/BOSS/FZ-3 Fuzz.md"
+  },
+  {
+    "builder": "BOSS",
     "pedal": "FZ-5 Fuzz",
     "image": "./assets/pedals/boss/fz-5-fuzz/primary.webp",
     "source_page": "https://www.boss.info/us/products/fz-5/",
@@ -6316,10 +6372,24 @@
   },
   {
     "builder": "BOSS",
+    "pedal": "HM-2 Heavy Metal",
+    "image": "",
+    "source_page": "https://www.effectsdatabase.com/model/boss/compact/hm2",
+    "research_record": "./research/pedals/BOSS/HM-2 Heavy Metal.md"
+  },
+  {
+    "builder": "BOSS",
     "pedal": "HM-2W Heavy Metal",
     "image": "./assets/pedals/boss/hm-2w-heavy-metal/primary.webp",
     "source_page": "https://www.boss.info/global/products/hm-2w/",
     "research_record": "./research/pedals/PRP Batch 110/HM-2W Heavy Metal.md"
+  },
+  {
+    "builder": "BOSS",
+    "pedal": "HM-3 Hyper Metal",
+    "image": "",
+    "source_page": "https://www.effectsdatabase.com/model/boss/compact/hm3",
+    "research_record": "./research/pedals/BOSS/HM-3 Hyper Metal.md"
   },
   {
     "builder": "BOSS",
@@ -6351,10 +6421,31 @@
   },
   {
     "builder": "BOSS",
+    "pedal": "MT-2-3A 30th Anniversary Metal Zone",
+    "image": "",
+    "source_page": "https://www.effectsdatabase.com/model/boss/compact/mt2/3a",
+    "research_record": "./research/pedals/BOSS/MT-2-3A 30th Anniversary Metal Zone.md"
+  },
+  {
+    "builder": "BOSS",
     "pedal": "MT-2W Metal Zone",
     "image": "./assets/pedals/boss/mt-2w-metal-zone/primary.webp",
     "source_page": "https://www.boss.info/us/products/mt-2w/",
     "research_record": "./research/pedals/PRP Batch 111/MT-2W Metal Zone.md"
+  },
+  {
+    "builder": "BOSS",
+    "pedal": "MZ-2 Digital Metalizer",
+    "image": "",
+    "source_page": "https://www.effectsdatabase.com/model/boss/compact/mz2",
+    "research_record": "./research/pedals/BOSS/MZ-2 Digital Metalizer.md"
+  },
+  {
+    "builder": "BOSS",
+    "pedal": "OD-1 OverDrive",
+    "image": "",
+    "source_page": "https://www.effectsdatabase.com/model/boss/compact/od1",
+    "research_record": "./research/pedals/BOSS/OD-1 OverDrive.md"
   },
   {
     "builder": "BOSS",
@@ -6365,10 +6456,17 @@
   },
   {
     "builder": "BOSS",
-    "pedal": "OD-200 Hybrid Drive",
-    "image": "./assets/pedals/boss/od-200-hybrid-drive/primary.webp",
-    "source_page": "https://www.boss.info/us/products/od-200/",
-    "research_record": "./research/pedals/PRP Batch 111/OD-200 Hybrid Drive.md"
+    "pedal": "OD-2 Turbo OverDrive",
+    "image": "",
+    "source_page": "https://www.effectsdatabase.com/model/boss/compact/od2",
+    "research_record": "./research/pedals/BOSS/OD-2 Turbo OverDrive.md"
+  },
+  {
+    "builder": "BOSS",
+    "pedal": "OD-2R Turbo OverDrive",
+    "image": "",
+    "source_page": "https://www.effectsdatabase.com/model/boss/compact/od2r",
+    "research_record": "./research/pedals/BOSS/OD-2R Turbo OverDrive.md"
   },
   {
     "builder": "BOSS",
@@ -6379,10 +6477,31 @@
   },
   {
     "builder": "BOSS",
+    "pedal": "OD-200 Hybrid Drive",
+    "image": "./assets/pedals/boss/od-200-hybrid-drive/primary.webp",
+    "source_page": "https://www.boss.info/us/products/od-200/",
+    "research_record": "./research/pedals/PRP Batch 111/OD-200 Hybrid Drive.md"
+  },
+  {
+    "builder": "BOSS",
+    "pedal": "ODB-3 Bass OverDrive",
+    "image": "",
+    "source_page": "https://www.boss.info/us/products/odb-3/",
+    "research_record": "./research/pedals/BOSS/ODB-3 Bass OverDrive.md"
+  },
+  {
+    "builder": "BOSS",
     "pedal": "OS-2 OverDrive/Distortion",
     "image": "./assets/pedals/boss/os-2-overdrive-distortion/primary.webp",
     "source_page": "https://www.boss.info/us/products/os-2/",
     "research_record": "./research/pedals/PRP Batch 111/OS-2 OverDrive/Distortion.md"
+  },
+  {
+    "builder": "BOSS",
+    "pedal": "PW-2 Power Driver",
+    "image": "",
+    "source_page": "https://www.effectsdatabase.com/model/boss/compact/pw2",
+    "research_record": "./research/pedals/BOSS/PW-2 Power Driver.md"
   },
   {
     "builder": "BOSS",
@@ -6393,6 +6512,13 @@
   },
   {
     "builder": "BOSS",
+    "pedal": "SD-1-4A Super OverDrive",
+    "image": "",
+    "source_page": "https://www.effectsdatabase.com/model/boss/compact/sd1/4a",
+    "research_record": "./research/pedals/BOSS/SD-1-4A Super OverDrive.md"
+  },
+  {
+    "builder": "BOSS",
     "pedal": "SD-1W SUPER OverDrive",
     "image": "./assets/pedals/boss/sd-1w-super-overdrive/primary.webp",
     "source_page": "https://www.boss.info/us/products/sd-1w/",
@@ -6400,10 +6526,31 @@
   },
   {
     "builder": "BOSS",
+    "pedal": "SD-2 Dual OverDrive",
+    "image": "",
+    "source_page": "https://www.effectsdatabase.com/model/boss/compact/sd2",
+    "research_record": "./research/pedals/BOSS/SD-2 Dual OverDrive.md"
+  },
+  {
+    "builder": "BOSS",
     "pedal": "ST-2 Power Stack",
     "image": "./assets/pedals/boss/st-2-power-stack/primary.webp",
     "source_page": "https://www.boss.info/us/products/st-2/",
     "research_record": "./research/pedals/PRP Batch 111/ST-2 Power Stack.md"
+  },
+  {
+    "builder": "BOSS",
+    "pedal": "TB-2W Tone Bender",
+    "image": "",
+    "source_page": "https://www.effectsdatabase.com/model/boss/compact/wazacraft/tb2w",
+    "research_record": "./research/pedals/BOSS/TB-2W Tone Bender.md"
+  },
+  {
+    "builder": "BOSS",
+    "pedal": "XT-2 Xtortion",
+    "image": "",
+    "source_page": "https://www.effectsdatabase.com/model/boss/compact/xt2",
+    "research_record": "./research/pedals/BOSS/XT-2 Xtortion.md"
   },
   {
     "builder": "Boulevard",
@@ -8041,76 +8188,6 @@
   },
   {
     "builder": "Caline",
-    "pedal": "CP-501 Osmium - High-Gain Distortion",
-    "image": "./assets/pedals/caline/cp-501-osmium-high-gain-distortion/primary.webp",
-    "source_page": "https://www.effectsdatabase.com/model/caline/cp500/osmium",
-    "research_record": "./research/pedals/PRP Batch 141/cp-501-osmium-high-gain-distortion.md"
-  },
-  {
-    "builder": "Caline",
-    "pedal": "CP-501S Sathanas Distortion",
-    "image": "./assets/pedals/caline/cp-501s-sathanas-distortion/primary.webp",
-    "source_page": "https://www.effectsdatabase.com/model/caline/cp500/sathanas",
-    "research_record": "./research/pedals/PRP Batch 141/cp-501s-sathanas-distortion.md"
-  },
-  {
-    "builder": "Caline",
-    "pedal": "CP-502 Mellow Drive",
-    "image": "./assets/pedals/caline/cp-502-mellow-drive/primary.webp",
-    "source_page": "https://www.effectsdatabase.com/model/caline/cp500/mellowdrive",
-    "research_record": "./research/pedals/PRP Batch 141/cp-502-mellow-drive.md"
-  },
-  {
-    "builder": "Caline",
-    "pedal": "CP-503 Queen Bee Overdrive",
-    "image": "./assets/pedals/caline/cp-503-queen-bee-overdrive/primary.webp",
-    "source_page": "https://www.effectsdatabase.com/model/caline/cp500/queenbee",
-    "research_record": "./research/pedals/PRP Batch 141/cp-503-queen-bee-overdrive.md"
-  },
-  {
-    "builder": "Caline",
-    "pedal": "CP-504 M:Fuzz",
-    "image": "./assets/pedals/caline/cp-504-m-fuzz/primary.webp",
-    "source_page": "https://www.effectsdatabase.com/model/caline/cp500/mfuzz",
-    "research_record": "./research/pedals/PRP Batch 142/cp-504-m-fuzz.md"
-  },
-  {
-    "builder": "Caline",
-    "pedal": "CP-509 Stack Attack - Preamp Overdrive & Compressor",
-    "image": "./assets/pedals/caline/cp-509-stack-attack-preamp-overdrive-compressor/primary.webp",
-    "source_page": "https://www.effectsdatabase.com/model/caline/cp500/stackattack",
-    "research_record": "./research/pedals/PRP Batch 142/cp-509-stack-attack-preamp-overdrive-compressor.md"
-  },
-  {
-    "builder": "Caline",
-    "pedal": "CP-510 Jaguar - Classic High Gain Distortion",
-    "image": "./assets/pedals/caline/cp-510-jaguar-classic-high-gain-distortion/primary.webp",
-    "source_page": "https://www.effectsdatabase.com/model/caline/cp500/jaguar",
-    "research_record": "./research/pedals/PRP Batch 142/cp-510-jaguar-classic-high-gain-distortion.md"
-  },
-  {
-    "builder": "Caline",
-    "pedal": "CP-511 Enchanted Tone - Highly Prized Overdrive",
-    "image": "./assets/pedals/caline/cp-511-enchanted-tone-highly-prized-overdrive/primary.webp",
-    "source_page": "https://www.effectsdatabase.com/model/caline/cp500/enchantedtone",
-    "research_record": "./research/pedals/PRP Batch 142/cp-511-enchanted-tone-highly-prized-overdrive.md"
-  },
-  {
-    "builder": "Caline",
-    "pedal": "CP-515 Carmilla - Hi Gain Distortion Machine",
-    "image": "./assets/pedals/caline/cp-515-carmilla-hi-gain-distortion-machine/primary.webp",
-    "source_page": "https://www.youtube.com/watch?v=GDEoP2Lsjac",
-    "research_record": "./research/pedals/PRP Batch 142/cp-515-carmilla-hi-gain-distortion-machine.md"
-  },
-  {
-    "builder": "Caline",
-    "pedal": "CP-516 Orange Burst",
-    "image": "./assets/pedals/caline/cp-516-orange-burst/primary.webp",
-    "source_page": "https://www.effectsdatabase.com/model/caline/cp500/orangeburst",
-    "research_record": "./research/pedals/PRP Batch 142/cp-516-orange-burst.md"
-  },
-  {
-    "builder": "Caline",
     "pedal": "CP-53 Fuzzy Faace - Voodoo Octave",
     "image": "./assets/pedals/caline/cp-53-fuzzy-faace-voodoo-octave/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/caline/cpxx/cp53",
@@ -8220,6 +8297,76 @@
     "image": "./assets/pedals/caline/cp-99-medusa-overdrive/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/caline/cpxx/cp99",
     "research_record": "./research/pedals/PRP Batch 144/cp-99-medusa-overdrive.md"
+  },
+  {
+    "builder": "Caline",
+    "pedal": "CP-501 Osmium - High-Gain Distortion",
+    "image": "./assets/pedals/caline/cp-501-osmium-high-gain-distortion/primary.webp",
+    "source_page": "https://www.effectsdatabase.com/model/caline/cp500/osmium",
+    "research_record": "./research/pedals/PRP Batch 141/cp-501-osmium-high-gain-distortion.md"
+  },
+  {
+    "builder": "Caline",
+    "pedal": "CP-501S Sathanas Distortion",
+    "image": "./assets/pedals/caline/cp-501s-sathanas-distortion/primary.webp",
+    "source_page": "https://www.effectsdatabase.com/model/caline/cp500/sathanas",
+    "research_record": "./research/pedals/PRP Batch 141/cp-501s-sathanas-distortion.md"
+  },
+  {
+    "builder": "Caline",
+    "pedal": "CP-502 Mellow Drive",
+    "image": "./assets/pedals/caline/cp-502-mellow-drive/primary.webp",
+    "source_page": "https://www.effectsdatabase.com/model/caline/cp500/mellowdrive",
+    "research_record": "./research/pedals/PRP Batch 141/cp-502-mellow-drive.md"
+  },
+  {
+    "builder": "Caline",
+    "pedal": "CP-503 Queen Bee Overdrive",
+    "image": "./assets/pedals/caline/cp-503-queen-bee-overdrive/primary.webp",
+    "source_page": "https://www.effectsdatabase.com/model/caline/cp500/queenbee",
+    "research_record": "./research/pedals/PRP Batch 141/cp-503-queen-bee-overdrive.md"
+  },
+  {
+    "builder": "Caline",
+    "pedal": "CP-504 M:Fuzz",
+    "image": "./assets/pedals/caline/cp-504-m-fuzz/primary.webp",
+    "source_page": "https://www.effectsdatabase.com/model/caline/cp500/mfuzz",
+    "research_record": "./research/pedals/PRP Batch 142/cp-504-m-fuzz.md"
+  },
+  {
+    "builder": "Caline",
+    "pedal": "CP-509 Stack Attack - Preamp Overdrive & Compressor",
+    "image": "./assets/pedals/caline/cp-509-stack-attack-preamp-overdrive-compressor/primary.webp",
+    "source_page": "https://www.effectsdatabase.com/model/caline/cp500/stackattack",
+    "research_record": "./research/pedals/PRP Batch 142/cp-509-stack-attack-preamp-overdrive-compressor.md"
+  },
+  {
+    "builder": "Caline",
+    "pedal": "CP-510 Jaguar - Classic High Gain Distortion",
+    "image": "./assets/pedals/caline/cp-510-jaguar-classic-high-gain-distortion/primary.webp",
+    "source_page": "https://www.effectsdatabase.com/model/caline/cp500/jaguar",
+    "research_record": "./research/pedals/PRP Batch 142/cp-510-jaguar-classic-high-gain-distortion.md"
+  },
+  {
+    "builder": "Caline",
+    "pedal": "CP-511 Enchanted Tone - Highly Prized Overdrive",
+    "image": "./assets/pedals/caline/cp-511-enchanted-tone-highly-prized-overdrive/primary.webp",
+    "source_page": "https://www.effectsdatabase.com/model/caline/cp500/enchantedtone",
+    "research_record": "./research/pedals/PRP Batch 142/cp-511-enchanted-tone-highly-prized-overdrive.md"
+  },
+  {
+    "builder": "Caline",
+    "pedal": "CP-515 Carmilla - Hi Gain Distortion Machine",
+    "image": "./assets/pedals/caline/cp-515-carmilla-hi-gain-distortion-machine/primary.webp",
+    "source_page": "https://www.youtube.com/watch?v=GDEoP2Lsjac",
+    "research_record": "./research/pedals/PRP Batch 142/cp-515-carmilla-hi-gain-distortion-machine.md"
+  },
+  {
+    "builder": "Caline",
+    "pedal": "CP-516 Orange Burst",
+    "image": "./assets/pedals/caline/cp-516-orange-burst/primary.webp",
+    "source_page": "https://www.effectsdatabase.com/model/caline/cp500/orangeburst",
+    "research_record": "./research/pedals/PRP Batch 142/cp-516-orange-burst.md"
   },
   {
     "builder": "Caline",
@@ -8944,6 +9091,13 @@
   },
   {
     "builder": "Catalinbread Effects",
+    "pedal": "Formula 5F6",
+    "image": "./assets/pedals/catalinbread-effects/formula-5f6/primary.webp",
+    "source_page": "https://www.sweetwater.com/store/detail/Form5F6--catalinbread-formula-5f6-tweed-bassman-style-overdrive-pedal",
+    "research_record": "./research/pedals/PRP Batch 156/catalinbread-formula-5f6.md"
+  },
+  {
+    "builder": "Catalinbread Effects",
     "pedal": "Formula 51",
     "image": "./assets/pedals/catalinbread-effects/formula-51/primary.webp",
     "source_page": "https://catalinbread.com/products/formula-51",
@@ -8955,13 +9109,6 @@
     "image": "./assets/pedals/catalinbread-effects/formula-55/primary.webp",
     "source_page": "https://catalinbread.com/products/formula-55-new-look",
     "research_record": "./research/pedals/PRP Batch 156/catalinbread-formula-55.md"
-  },
-  {
-    "builder": "Catalinbread Effects",
-    "pedal": "Formula 5F6",
-    "image": "./assets/pedals/catalinbread-effects/formula-5f6/primary.webp",
-    "source_page": "https://www.sweetwater.com/store/detail/Form5F6--catalinbread-formula-5f6-tweed-bassman-style-overdrive-pedal",
-    "research_record": "./research/pedals/PRP Batch 156/catalinbread-formula-5f6.md"
   },
   {
     "builder": "Catalinbread Effects",
@@ -12500,17 +12647,17 @@
   },
   {
     "builder": "Cosmosound",
-    "pedal": "CSE-14 Distortion/Volume",
-    "image": "./assets/pedals/cosmosound/cse-14-distortion-volume/primary.webp",
-    "source_page": null,
-    "research_record": "./research/pedals/Cosmosound/CSE-14 Distortion-Volume.md"
-  },
-  {
-    "builder": "Cosmosound",
     "pedal": "CSE-3 Wah-Wah Distortion",
     "image": "./assets/pedals/cosmosound/cse-3-wah-wah-distortion/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Cosmosound/CSE-3 Wah-Wah Distortion.md"
+  },
+  {
+    "builder": "Cosmosound",
+    "pedal": "CSE-14 Distortion/Volume",
+    "image": "./assets/pedals/cosmosound/cse-14-distortion-volume/primary.webp",
+    "source_page": null,
+    "research_record": "./research/pedals/Cosmosound/CSE-14 Distortion-Volume.md"
   },
   {
     "builder": "Cosmosound",
@@ -14768,27 +14915,6 @@
   },
   {
     "builder": "DOD Electronics",
-    "pedal": "FX100 Even Harmonic Overdrive",
-    "image": "./assets/pedals/dod-electronics/fx100-even-harmonic-overdrive/primary.webp",
-    "source_page": null,
-    "research_record": "./research/pedals/DOD Electronics/FX100 Even Harmonic Overdrive.md"
-  },
-  {
-    "builder": "DOD Electronics",
-    "pedal": "FX101 Grind Rectifying Overdrive",
-    "image": "./assets/pedals/dod-electronics/fx101-grind-rectifying-overdrive/primary.webp",
-    "source_page": null,
-    "research_record": "./research/pedals/DOD Electronics/FX101 Grind Rectifying Overdrive.md"
-  },
-  {
-    "builder": "DOD Electronics",
-    "pedal": "FX102 Mystic Blues Overdrive",
-    "image": "./assets/pedals/dod-electronics/fx102-mystic-blues-overdrive/primary.webp",
-    "source_page": null,
-    "research_record": "./research/pedals/DOD Electronics/FX102 Mystic Blues Overdrive.md"
-  },
-  {
-    "builder": "DOD Electronics",
     "pedal": "FX33 Buzz Box",
     "image": "./assets/pedals/dod-electronics/fx33-buzz-box/primary.webp",
     "source_page": null,
@@ -14891,6 +15017,27 @@
     "image": "./assets/pedals/dod-electronics/fx91-bass-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/DOD Electronics/FX91 Bass Overdrive.md"
+  },
+  {
+    "builder": "DOD Electronics",
+    "pedal": "FX100 Even Harmonic Overdrive",
+    "image": "./assets/pedals/dod-electronics/fx100-even-harmonic-overdrive/primary.webp",
+    "source_page": null,
+    "research_record": "./research/pedals/DOD Electronics/FX100 Even Harmonic Overdrive.md"
+  },
+  {
+    "builder": "DOD Electronics",
+    "pedal": "FX101 Grind Rectifying Overdrive",
+    "image": "./assets/pedals/dod-electronics/fx101-grind-rectifying-overdrive/primary.webp",
+    "source_page": null,
+    "research_record": "./research/pedals/DOD Electronics/FX101 Grind Rectifying Overdrive.md"
+  },
+  {
+    "builder": "DOD Electronics",
+    "pedal": "FX102 Mystic Blues Overdrive",
+    "image": "./assets/pedals/dod-electronics/fx102-mystic-blues-overdrive/primary.webp",
+    "source_page": null,
+    "research_record": "./research/pedals/DOD Electronics/FX102 Mystic Blues Overdrive.md"
   },
   {
     "builder": "DOD Electronics",
@@ -17505,6 +17652,27 @@
   },
   {
     "builder": "Ibanez",
+    "pedal": "TS9",
+    "image": "./assets/pedals/ibanez/ts9/primary.webp",
+    "source_page": null,
+    "research_record": "./research/pedals/Ibanez/TS9.md"
+  },
+  {
+    "builder": "Ibanez",
+    "pedal": "TS9B",
+    "image": "./assets/pedals/ibanez/ts9b/primary.webp",
+    "source_page": null,
+    "research_record": "./research/pedals/Ibanez/TS9B.md"
+  },
+  {
+    "builder": "Ibanez",
+    "pedal": "TS9DX",
+    "image": "./assets/pedals/ibanez/ts9dx/primary.webp",
+    "source_page": null,
+    "research_record": "./research/pedals/Ibanez/TS9DX.md"
+  },
+  {
+    "builder": "Ibanez",
     "pedal": "TS808",
     "image": "./assets/pedals/ibanez/ts808/primary.webp",
     "source_page": null,
@@ -17530,27 +17698,6 @@
     "image": "./assets/pedals/ibanez/ts808hwv2/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Ibanez/TS808HWV2.md"
-  },
-  {
-    "builder": "Ibanez",
-    "pedal": "TS9",
-    "image": "./assets/pedals/ibanez/ts9/primary.webp",
-    "source_page": null,
-    "research_record": "./research/pedals/Ibanez/TS9.md"
-  },
-  {
-    "builder": "Ibanez",
-    "pedal": "TS9B",
-    "image": "./assets/pedals/ibanez/ts9b/primary.webp",
-    "source_page": null,
-    "research_record": "./research/pedals/Ibanez/TS9B.md"
-  },
-  {
-    "builder": "Ibanez",
-    "pedal": "TS9DX",
-    "image": "./assets/pedals/ibanez/ts9dx/primary.webp",
-    "source_page": null,
-    "research_record": "./research/pedals/Ibanez/TS9DX.md"
   },
   {
     "builder": "Ibanez",
@@ -19136,6 +19283,27 @@
   },
   {
     "builder": "Leqtique",
+    "pedal": "6/6",
+    "image": "./assets/pedals/leqtique/6-6/primary.webp",
+    "source_page": null,
+    "research_record": "./research/pedals/Leqtique/6/6.md"
+  },
+  {
+    "builder": "Leqtique",
+    "pedal": "9/9",
+    "image": "./assets/pedals/leqtique/9-9/primary.webp",
+    "source_page": null,
+    "research_record": "./research/pedals/Leqtique/9/9.md"
+  },
+  {
+    "builder": "Leqtique",
+    "pedal": "9/9 EVR",
+    "image": "./assets/pedals/leqtique/9-9-evr/primary.webp",
+    "source_page": null,
+    "research_record": "./research/pedals/Leqtique/9/9 EVR.md"
+  },
+  {
+    "builder": "Leqtique",
     "pedal": "10/10",
     "image": "./assets/pedals/leqtique/10-10/primary.webp",
     "source_page": null,
@@ -19161,27 +19329,6 @@
     "image": "./assets/pedals/leqtique/11-11-evr/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Leqtique/11/11 EVR.md"
-  },
-  {
-    "builder": "Leqtique",
-    "pedal": "6/6",
-    "image": "./assets/pedals/leqtique/6-6/primary.webp",
-    "source_page": null,
-    "research_record": "./research/pedals/Leqtique/6/6.md"
-  },
-  {
-    "builder": "Leqtique",
-    "pedal": "9/9",
-    "image": "./assets/pedals/leqtique/9-9/primary.webp",
-    "source_page": null,
-    "research_record": "./research/pedals/Leqtique/9/9.md"
-  },
-  {
-    "builder": "Leqtique",
-    "pedal": "9/9 EVR",
-    "image": "./assets/pedals/leqtique/9-9-evr/primary.webp",
-    "source_page": null,
-    "research_record": "./research/pedals/Leqtique/9/9 EVR.md"
   },
   {
     "builder": "Leqtique",
@@ -19423,17 +19570,17 @@
   },
   {
     "builder": "Lovepedal",
-    "pedal": "200lbs of Gold",
-    "image": "./assets/pedals/lovepedal/200lbs-of-gold/primary.webp",
-    "source_page": null,
-    "research_record": "./research/pedals/Lovepedal/200lbs of Gold.md"
-  },
-  {
-    "builder": "Lovepedal",
     "pedal": "5E3 Deluxe",
     "image": null,
     "source_page": null,
     "research_record": "./research/pedals/Lovepedal/5E3 Deluxe.md"
+  },
+  {
+    "builder": "Lovepedal",
+    "pedal": "200lbs of Gold",
+    "image": "./assets/pedals/lovepedal/200lbs-of-gold/primary.webp",
+    "source_page": null,
+    "research_record": "./research/pedals/Lovepedal/200lbs of Gold.md"
   },
   {
     "builder": "Lovepedal",
@@ -21005,17 +21152,17 @@
   },
   {
     "builder": "Mojo Hand FX",
-    "pedal": "Rounder (historical/discontinued)",
-    "image": "./assets/pedals/mojo-hand-fx/rounder-historical-discontinued/primary.webp",
-    "source_page": null,
-    "research_record": "./research/pedals/Mojo Hand FX/Rounder (historical/discontinued).md"
-  },
-  {
-    "builder": "Mojo Hand FX",
     "pedal": "Rounder",
     "image": "./assets/pedals/mojo-hand-fx/rounder/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Mojo Hand FX/Rounder.md"
+  },
+  {
+    "builder": "Mojo Hand FX",
+    "pedal": "Rounder (historical/discontinued)",
+    "image": "./assets/pedals/mojo-hand-fx/rounder-historical-discontinued/primary.webp",
+    "source_page": null,
+    "research_record": "./research/pedals/Mojo Hand FX/Rounder (historical/discontinued).md"
   },
   {
     "builder": "Mojo Hand FX",
@@ -21040,13 +21187,6 @@
   },
   {
     "builder": "Mojo Hand FX",
-    "pedal": "Superlative (historical/discontinued)",
-    "image": "./assets/pedals/mojo-hand-fx/superlative-historical-discontinued/primary.webp",
-    "source_page": null,
-    "research_record": "./research/pedals/Mojo Hand FX/Superlative (historical/discontinued).md"
-  },
-  {
-    "builder": "Mojo Hand FX",
     "pedal": "Superlative",
     "image": "./assets/pedals/mojo-hand-fx/superlative/primary.webp",
     "source_page": null,
@@ -21054,10 +21194,10 @@
   },
   {
     "builder": "Mojo Hand FX",
-    "pedal": "Zephyr (historical/discontinued)",
-    "image": "./assets/pedals/mojo-hand-fx/zephyr-historical-discontinued/primary.webp",
+    "pedal": "Superlative (historical/discontinued)",
+    "image": "./assets/pedals/mojo-hand-fx/superlative-historical-discontinued/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/Mojo Hand FX/Zephyr (historical/discontinued).md"
+    "research_record": "./research/pedals/Mojo Hand FX/Superlative (historical/discontinued).md"
   },
   {
     "builder": "Mojo Hand FX",
@@ -21065,6 +21205,13 @@
     "image": "./assets/pedals/mojo-hand-fx/zephyr/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Mojo Hand FX/Zephyr.md"
+  },
+  {
+    "builder": "Mojo Hand FX",
+    "pedal": "Zephyr (historical/discontinued)",
+    "image": "./assets/pedals/mojo-hand-fx/zephyr-historical-discontinued/primary.webp",
+    "source_page": null,
+    "research_record": "./research/pedals/Mojo Hand FX/Zephyr (historical/discontinued).md"
   },
   {
     "builder": "MOOER Audio / MOOER",
@@ -21635,13 +21782,6 @@
   },
   {
     "builder": "Mythos Pedals",
-    "pedal": "1347 Silicon Fuzz",
-    "image": null,
-    "source_page": null,
-    "research_record": "./research/pedals/Mythos Pedals/1347 Silicon Fuzz.md"
-  },
-  {
-    "builder": "Mythos Pedals",
     "pedal": "1N34A Mjolnir - Gold",
     "image": "./assets/pedals/mythos-pedals/1n34a-mjolnir-gold/primary.webp",
     "source_page": null,
@@ -21653,6 +21793,13 @@
     "image": "./assets/pedals/mythos-pedals/1n34a-mjolnir-silver/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Mythos Pedals/1N34A Mjolnir - Silver.md"
+  },
+  {
+    "builder": "Mythos Pedals",
+    "pedal": "1347 Silicon Fuzz",
+    "image": null,
+    "source_page": null,
+    "research_record": "./research/pedals/Mythos Pedals/1347 Silicon Fuzz.md"
   },
   {
     "builder": "Mythos Pedals",
@@ -21810,6 +21957,13 @@
   },
   {
     "builder": "NUX Audio / NUX",
+    "pedal": "‘6ixty5ive OD",
+    "image": null,
+    "source_page": null,
+    "research_record": "./research/pedals/NUX Audio / NUX/‘6ixty5ive OD.md"
+  },
+  {
+    "builder": "NUX Audio / NUX",
     "pedal": "’59 Bassguy",
     "image": "./assets/pedals/nux-audio-nux/59-bassguy/primary.webp",
     "source_page": null,
@@ -21821,13 +21975,6 @@
     "image": null,
     "source_page": null,
     "research_record": "./research/pedals/NUX Audio / NUX/’63 Diamond.md"
-  },
-  {
-    "builder": "NUX Audio / NUX",
-    "pedal": "‘6ixty5ive OD",
-    "image": null,
-    "source_page": null,
-    "research_record": "./research/pedals/NUX Audio / NUX/‘6ixty5ive OD.md"
   },
   {
     "builder": "NUX Audio / NUX",
