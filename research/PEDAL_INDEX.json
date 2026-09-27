@@ -43759,7 +43759,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/maxon/fuzz-elements-air/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Maxon/Fuzz Elements Air.md",
       "research_level": "surface",
@@ -43978,7 +43978,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/maxon/od808x/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Maxon/OD808X.md",
       "research_level": "deep",
@@ -44004,7 +44004,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/maxon/ood-9/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Maxon/OOD-9.md",
       "research_level": "deep",
@@ -46864,7 +46864,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/mxr/fod-drive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/MXR/FOD Drive.md",
       "research_level": "deep",
@@ -46876,7 +46876,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/mxr/fullbore-metal-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/MXR/Fullbore Metal Distortion.md",
       "research_level": "deep",
@@ -46888,7 +46888,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/mxr/gran-torino-boost-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/MXR/Gran Torino Boost Overdrive.md",
       "research_level": "deep",
@@ -47448,7 +47448,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/mythos-pedals/joey-landreth-mjolnir-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mythos Pedals/Joey Landreth Mjolnir Overdrive.md",
       "research_level": "deep",
@@ -47460,7 +47460,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/mythos-pedals/mjolnir-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mythos Pedals/Mjolnir Overdrive.md",
       "research_level": "deep",
@@ -49504,7 +49504,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/radial-engineering-tonebone/bones-hollywood-distortion-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Radial Engineering / Tonebone/Bones Hollywood Distortion & Overdrive.md",
       "research_level": "surface",
@@ -49700,7 +49700,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/radial-tonebone/texas/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Radial Tonebone/Texas.md",
       "research_level": "deep",
@@ -49799,7 +49799,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/reeveselectro/2n2face-silicon-fuzzface/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/ReevesElectro/2n2FACE Silicon FuzzFace.md",
       "research_level": "surface",
@@ -50088,7 +50088,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/sbgo-effects/dark-pass-anger/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/SBGO Effects/Dark Pass Anger.md",
       "research_level": "deep",
@@ -50100,7 +50100,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/sbgo-effects/fat-n-dirty/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/SBGO Effects/Fat’n Dirty.md",
       "research_level": "deep",
@@ -50124,7 +50124,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/seymour-duncan/diamondhead/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Seymour Duncan/Diamondhead.md",
       "research_level": "deep",
@@ -50136,7 +50136,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/seymour-duncan/dirty-deeds/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Seymour Duncan/Dirty Deeds.md",
       "research_level": "deep",
@@ -50161,7 +50161,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/seymour-duncan/lava-box/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Seymour Duncan/Lava Box.md",
       "research_level": "deep",
@@ -50173,7 +50173,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/seymour-duncan/palladium-gain-stage/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Seymour Duncan/Palladium Gain Stage.md",
       "research_level": "deep",
@@ -50197,7 +50197,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/shin-s-music/dumbloid/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Shin's Music/Dumbloid.md",
       "research_level": "deep",
@@ -50221,7 +50221,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/silktone/fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Silktone/Fuzz.md",
       "research_level": "deep",
@@ -50233,7 +50233,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/silktone/fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Silktone/Fuzz+.md",
       "research_level": "deep",
@@ -50245,7 +50245,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/sinvertek/n5-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Sinvertek/N5+ Distortion.md",
       "research_level": "deep",
@@ -50295,7 +50295,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/sitek-guitar-electronics/pandora-octave-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Sitek Guitar Electronics/Pandora Octave Fuzz.md",
       "research_level": "deep",
@@ -50308,7 +50308,7 @@
         "Distortion",
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/sitek-guitar-electronics/wuffy-fuzzy-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Sitek Guitar Electronics/Wuffy Fuzzy Distortion.md",
       "research_level": "surface",
@@ -50320,7 +50320,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/skreddy-pedals/lady/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Skreddy Pedals/? Lady.md",
       "research_level": "deep",
@@ -50332,7 +50332,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/skreddy-pedals/1966-modernized/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Skreddy Pedals/1966 Modernized.md",
       "research_level": "deep",
@@ -50345,7 +50345,7 @@
         "Distortion",
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/skreddy-pedals/1971/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Skreddy Pedals/1971.md",
       "research_level": "deep",
@@ -50357,7 +50357,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/skreddy-pedals/angel-face/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Skreddy Pedals/Angel Face.md",
       "research_level": "deep",
@@ -50369,7 +50369,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/skreddy-pedals/bc109-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Skreddy Pedals/BC109 Fuzz.md",
       "research_level": "deep",
@@ -50833,7 +50833,7 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/smallsound-bigsound/mini/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Smallsound/Bigsound/Mini.md",
       "research_level": "deep",
