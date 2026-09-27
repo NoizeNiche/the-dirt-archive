@@ -22686,7 +22686,7 @@
   {
     "builder": "Maxon",
     "pedal": "OD-9 Pro+",
-    "image": null,
+    "image": "./assets/pedals/maxon/od-9-pro/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Maxon/OD-9 Pro+.md"
   },
@@ -24653,7 +24653,7 @@
   {
     "builder": "Mythos Pedals",
     "pedal": "Hephaestus Fuzz",
-    "image": null,
+    "image": "./assets/pedals/mythos-pedals/hephaestus-fuzz/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Mythos Pedals/Hephaestus Fuzz.md"
   },
@@ -24800,7 +24800,7 @@
   {
     "builder": "NUX Audio / NUX",
     "pedal": "FZ-2 Vintage Fuzz",
-    "image": null,
+    "image": "./assets/pedals/nux-audio-nux/fz-2-vintage-fuzz/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/NUX Audio / NUX/FZ-2 Vintage Fuzz.md"
   },
@@ -25619,7 +25619,7 @@
   {
     "builder": "Phaez Amplification",
     "pedal": "Savage",
-    "image": null,
+    "image": "./assets/pedals/phaez-amplification/savage/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Phaez Amplification/Savage.md"
   },
@@ -25647,7 +25647,7 @@
   {
     "builder": "Pigtronix",
     "pedal": "FAT Drive",
-    "image": null,
+    "image": "./assets/pedals/pigtronix/fat-drive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Pigtronix/FAT Drive.md"
   },
@@ -25724,14 +25724,14 @@
   {
     "builder": "Prescription Electronics",
     "pedal": "C.O.B. (Clean Octave Blend)",
-    "image": null,
+    "image": "./assets/pedals/prescription-electronics/c-o-b-clean-octave-blend/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Prescription Electronics/C.O.B. (Clean Octave Blend).md"
   },
   {
     "builder": "Prescription Electronics",
     "pedal": "Depth Charge",
-    "image": null,
+    "image": "./assets/pedals/prescription-electronics/depth-charge/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Prescription Electronics/Depth Charge.md"
   },
@@ -25745,14 +25745,14 @@
   {
     "builder": "Prescription Electronics",
     "pedal": "Experience",
-    "image": null,
+    "image": "./assets/pedals/prescription-electronics/experience/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Prescription Electronics/Experience.md"
   },
   {
     "builder": "Prescription Electronics",
     "pedal": "Face Lift",
-    "image": null,
+    "image": "./assets/pedals/prescription-electronics/face-lift/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Prescription Electronics/Face Lift.md"
   },
@@ -25794,28 +25794,28 @@
   {
     "builder": "ProCo Sound",
     "pedal": "Deucetone RAT",
-    "image": null,
+    "image": "./assets/pedals/proco-sound/deucetone-rat/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/ProCo Sound/Deucetone RAT.md"
   },
   {
     "builder": "ProCo Sound",
     "pedal": "FAT RAT",
-    "image": null,
+    "image": "./assets/pedals/proco-sound/fat-rat/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/ProCo Sound/FAT RAT.md"
   },
   {
     "builder": "ProCo Sound",
     "pedal": "Juggernaut",
-    "image": null,
+    "image": "./assets/pedals/proco-sound/juggernaut/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/ProCo Sound/Juggernaut.md"
   },
   {
     "builder": "ProCo Sound",
     "pedal": "Lil' RAT",
-    "image": null,
+    "image": "./assets/pedals/proco-sound/lil-rat/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/ProCo Sound/Lil' RAT.md"
   },
