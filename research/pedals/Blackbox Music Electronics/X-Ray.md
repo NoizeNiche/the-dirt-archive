@@ -25,3 +25,6 @@ Effects Database dates the Blackbox design to 2001 and records both V1 and V2 co
 
 ## Photo
 - Exact photo pending.
+## Deep research verification
+
+Effects Database dates the X-Ray family to the **2001** Blackbox generation and documents both V1 and V2 control arrangements. The core controls are **More, Louder, Shape**. More moves from clean boost/overdrive toward heavier distortion; Shape changes clipping onset and waveform character. The source describes asymmetric, tube-like clipping behavior and strong response to picking dynamics and instrument volume.
