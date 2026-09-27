@@ -4,38 +4,60 @@
 - **Archive parent:** Black Plague
 - **Builder:** CMATMODS
 - **Catalog type:** Distortion
-- **Identity:** CMATMODS Black Plague, a RAT-derived high-gain distortion later repackaged as the Ratified.
+- **Identity:** RAT-derived high-gain distortion built around the **LM308N**, later repackaged by CMATMODS as Ratified. [1][2]
 
-## What this pedal is
-CMATMODS described Black Plague as a thick, high-gain distortion with substantial sustain. The old control naming was Cry (filter), Death (gain), and Scream (level), plus a three-way toggle. The circuit is based around the LM308N. [1][2]
+## Controls
+- **CRY:** Filter.
+- **DEATH:** Gain.
+- **SCREAM:** Level.
+- Three-position voicing toggle.
+- True bypass. [1][2]
 
-A surviving CMATMods listing preserves Chad Matthews' statement that the Black Plague and Ratified use the same circuit, with Ratified changing the enclosure and control layout. [1]
+## Circuit lineage
+- **Primary lineage:** Pro Co RAT family.
+- **Active device:** LM308N op-amp.
+- The builder's surviving statement says Black Plague and Ratified use the **same circuit**, with the Ratified changing the enclosure/control layout. [1]
 
-## Colorways
-- A Reverb listing documents a **gold** finish. [1]
-- The original graphic used a distressed tombstone design. [1]
+## Transistor / active device
+- **LM308N op-amp** is documented.
+- No separate discrete transistor architecture is asserted.
 
-## Versions and factory options
-Documented controls:
-- Cry / filter.
-- Death / gain.
-- Scream / level.
-- Three-way toggle for added tonal range.
-- True bypass.
-- 9V battery or adapter. [1][2]
+## Diode / clipping
+- Exact clipping diode part number is not established in the reviewed exact-model sources.
 
-## Version changes
-Black Plague later gave way to Ratified. According to the builder statement reproduced in the Reverb listing, the circuit remained the same while the enclosure and control layout changed. [1]
+## Power
+- **9V battery or adapter** operation is documented. [1][2]
+- Exact current draw is not established.
 
-## Transistor
-The active gain circuit is based around the **LM308N op-amp**. [1][2]
+## Construction / finish
+- A surviving exact-model Reverb listing documents a **gold** finish.
+- Distressed tombstone-style artwork is documented. [1]
 
-## Diode
-No exact-model diode part number was established.
+## Version history
+### Black Plague
+Original named enclosure/control presentation.
+
+### Ratified
+Later package of the **same circuit**, with revised enclosure and control layout according to the builder statement reproduced in Reverb. [1]
+The archive keeps Black Plague and Ratified as distinct catalog parents while linking them through this factory lineage.
 
 ## Sound
-The published description covers broad high-gain distortion through crunchier settings, with strong sustain and a response that remains useful when the guitar volume is rolled back. [1][2]
+CMATMODS described Black Plague as thick, high-gain distortion with substantial sustain. The Filter/Gain relationship can move the voice from broader/fuller saturation toward tighter/brighter settings. [1][2]
+
+## Research confidence
+- **Identity:** High
+- **RAT lineage:** High
+- **LM308N:** High
+- **Black Plague → Ratified relationship:** High
+- **Three-control map:** High
+- **Exact diode:** Unknown
+
+## Deep research verification
+The exact Black Plague Reverb listing and Effects Database record were cross-checked. The evidence establishes the LM308N architecture, three-control layout, three-way voicing and the builder's statement that Ratified is the same circuit in a revised enclosure/control format. [1][2]
 
 ## Sources checked
-1. Reverb — CMATMods Black Plague: https://reverb.com/item/14430992-cmatmods-the-black-plague
-2. Audiofanzine — CMAT Mods Black Plague: https://en.audiofanzine.com/guitar-distortion-overdrive-fuzz/cmat-mods/black-plague/
+1. Reverb — CMATMODS The Black Plague: https://reverb.com/item/14430992-cmatmods-the-black-plague
+2. Audiofanzine — CMATMODS Black Plague: https://en.audiofanzine.com/guitar-distortion-overdrive-fuzz/cmat-mods/black-plague/
+
+## Photo
+- Exact-model image provenance remains handled by the photo lane.
