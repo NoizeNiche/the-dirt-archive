@@ -1,60 +1,39 @@
 # Dr. Scientist Sounds — The Elements
 
-## PRP identity
-- **Archive parent:** The Elements
+## Surface catalog record
 - **Builder:** Dr. Scientist Sounds
+- **Pedal:** The Elements
 - **Catalog type:** Distortion / Overdrive
-- **Identity:** Dr. Scientist Sounds's The Elements.
+- **Research level:** Deep
+- **Deep research status:** Identity and taxonomy verified
+- **Identity basis:** Exact-model references identify The Elements as a Dr. Scientist dirt pedal and preserve its Distortion / Overdrive classification.
 
 ## What this pedal is
-Add to cart JHS Pedals JHS Pedals Violet Distortion Pedal, Black 4.5 (19) 50+ viewed in past month Click to see price Add to cart JHS Pedals JHS Pedals JHS AT+ Andy Timmons Signature Overdrive Guitar Effects Pedal 4.7 (192) 100+ viewed in past month $219.00 $ 219 .
+The **Dr. Scientist The Elements** is a multi-range dirt pedal classified in the archive as **Distortion / Overdrive**. The reviewed evidence confirms the model identity and its inclusion in Dr. Scientist's dirt catalog, but it does not provide a clean, exact-model manufacturer specification set sufficient to reconstruct every control and circuit detail. [1][2]
 
-## Colorways
-- Scientist Style Compact Color Black, Blue, White Voltage 9 volts Amperage 100 milliamps Audio Output Effects Distortion Similar to your pick Page {currentPage} of {totalPages} Keeley Keeley Blues Disorder Overdrive and Distortion 4.3 (28) 50+ viewed in past month $199.00 $ 199 .
-- Add to cart JHS Pedals JHS Pedals Violet Distortion Pedal, Black 4.5 (19) 50+ viewed in past month Click to see price Add to cart JHS Pedals JHS Pedals JHS AT+ Andy Timmons Signature Overdrive Guitar Effects Pedal 4.7 (192) 100+ viewed in past month $219.00 $ 219 .
+The archive therefore keeps the existing dual taxonomy rather than forcing the model into only Distortion or only Overdrive.
 
-## Versions and factory options
-- No distinct factory revision was established in the verified evidence packet.
+## Evidence cleanup
+The previous record was dominated by Amazon recommendation widgets, retailer navigation, and unrelated product suggestions. Those fragments were not evidence about The Elements and have been removed.
 
-## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+## Technical evidence boundary
+The reviewed sources do not establish a complete factory schematic, universal component BOM, or reliable revision chronology. The archive does not infer transistor or clipping-device details from unrelated Dr. Scientist models.
 
-## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
-- **Exact transistor/device:** Unknown.
+A schematic reference is present in the source list, but the available evidence packet does not establish that every production revision is identical to that circuit.
 
-## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
-- **Exact part:** Unknown.
-
-## Sound
-Scientist Style Compact Color Black, Blue, White Voltage 9 volts Amperage 100 milliamps Audio Output Effects Distortion Similar to your pick Page {currentPage} of {totalPages} Keeley Keeley Blues Disorder Overdrive and Distortion 4.3 (28) 50+ viewed in past month $199.00 $ 199 .
-Add to cart JHS Pedals JHS Pedals Violet Distortion Pedal, Black 4.5 (19) 50+ viewed in past month Click to see price Add to cart JHS Pedals JHS Pedals JHS AT+ Andy Timmons Signature Overdrive Guitar Effects Pedal 4.7 (192) 100+ viewed in past month $219.00 $ 219 .
-Add to cart Caline Caline DCP-04 EASYDRIVER Distortion EQ Effect Pedal Dual Guitar Pedal 3.9 (42) 100+ viewed in past month $49.99 $ 49 .
-
-## Sources checked
-1. https://www.amazon.com/clp/B00DSXWUS6: https://www.amazon.com/clp/B00DSXWUS6
-2. Dr. Scientist The Elements Overdrive/Distortion Pedal &ndash; Guitar Brando: https://guitarbrando.com/products/the-elements-schematic
+## Specifications
+- **Model:** The Elements
+- **Type:** Distortion / Overdrive
+- **Factory BOM:** not established in this pass
+- **Revision history:** not established in this pass
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive photo:** No verified local photo is currently archived for The Elements.
+- External product imagery remains separate from archive-local photo coverage.
 
-## Deep research verification
+## Research evidence
+**Sources checked:**
+1. https://guitarbrando.com/products/the-elements-schematic — exact-model technical/reference page.
+2. https://www.amazon.com/clp/B00DSXWUS6 — exact-model product reference preserved in the prior evidence packet.
 
-This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
-
-### Verified description
-Add to cart JHS Pedals JHS Pedals Violet Distortion Pedal, Black 4.5 (19) 50+ viewed in past month Click to see price Add to cart JHS Pedals JHS Pedals JHS AT+ Andy Timmons Signature Overdrive Guitar Effects Pedal 4.7 (192) 100+ viewed in past month $219.00 $ 219 .
-
-### Verified color/finish evidence
-- Scientist Style Compact Color Black, Blue, White Voltage 9 volts Amperage 100 milliamps Audio Output Effects Distortion Similar to your pick Page {currentPage} of {totalPages} Keeley Keeley Blues Disorder Overdrive and Distortion 4.3 (28) 50+ viewed in past month $199.00 $ 199 .
-- Add to cart JHS Pedals JHS Pedals Violet Distortion Pedal, Black 4.5 (19) 50+ viewed in past month Click to see price Add to cart JHS Pedals JHS Pedals JHS AT+ Andy Timmons Signature Overdrive Guitar Effects Pedal 4.7 (192) 100+ viewed in past month $219.00 $ 219 .
-
-### Verified sound evidence
-Scientist Style Compact Color Black, Blue, White Voltage 9 volts Amperage 100 milliamps Audio Output Effects Distortion Similar to your pick Page {currentPage} of {totalPages} Keeley Keeley Blues Disorder Overdrive and Distortion 4.3 (28) 50+ viewed in past month $199.00 $ 199 .
-Add to cart JHS Pedals JHS Pedals Violet Distortion Pedal, Black 4.5 (19) 50+ viewed in past month Click to see price Add to cart JHS Pedals JHS Pedals JHS AT+ Andy Timmons Signature Overdrive Guitar Effects Pedal 4.7 (192) 100+ viewed in past month $219.00 $ 219 .
-Add to cart Caline Caline DCP-04 EASYDRIVER Distortion EQ Effect Pedal Dual Guitar Pedal 3.9 (42) 100+ viewed in past month $49.99 $ 49 .
-
-### Sources checked in this pass
-1. Dr. Scientist The Elements Overdrive/Distortion Pedal – Guitar Brando: https://guitarbrando.com/products/the-elements-schematic
-2. catalog/override source: https://www.amazon.com/clp/B00DSXWUS6
+**Research confidence:** High for model identity and dual Distortion / Overdrive taxonomy; low-to-moderate for detailed circuit construction because the reviewed evidence packet is incomplete.
