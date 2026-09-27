@@ -1,47 +1,59 @@
-# Basic Audio - Spooky Tooth
+# Basic Audio — Spooky Tooth
 
 ## PRP identity
 - **Archive parent:** Spooky Tooth
 - **Builder:** Basic Audio
 - **Catalog type:** Fuzz
-- **Identity:** Medium/high-gain silicon fuzz with sag, bloom, sustain and a Texture control that blends one and two gain stages.
+- **Identity:** Medium/high-gain silicon fuzz combining late-1960s Orpheum and Manny's-style references with a Texture control that blends one- and two-stage operation. [1][2]
 
 ## What this pedal is
-Spooky Tooth is a medium-to-high-gain fuzz built around a late-1960s-inspired combination of Orpheum and Manny’s-style sounds. Basic Audio describes silicon transistors, substantial sag and bloom, and a Texture control that moves from lighter to heavier gain.
+Basic Audio describes Spooky Tooth as a silicon fuzz built for sag, bloom, sustain and a wide gain range. Texture changes the relationship between the gain stages, allowing relatively light fuzz to become much thicker and more compressed. [1]
 
-## Colorways
-- A bright green finish with contrasting white graphics is documented in the official product photograph.
-- Basic Audio notes that pedal colors are subject to change.
-- No complete factory colorway chronology was verified.
+## Controls / architecture
+- **TEXTURE**
+- **SATURATION**
+- **FUZZ**
+- Texture changes one/two-stage gain behavior.
+- Low-end saturation can be shaped before the later stage. [1][2]
 
-## Versions and factory options
-### Spooky Tooth
-- Texture blends one and two gain stages
-- Saturation and Fuzz controls shape gain and low-end cleanup
-- Center-negative 9V DC operation
-- Battery snap
-- No numbered factory version was verified.
-
-## Version changes
-No numbered production revision was established in the checked sources.
+## Circuit lineage
+- Basic Audio describes the design as drawing from **Orpheum** and **Manny's** late-1960s fuzz sounds.
+- The archive records those as tonal/circuit references rather than claiming one exact historical schematic. [1][2]
 
 ## Transistor
-- **Technology:** Silicon transistors.
-- **Exact production transistor part numbers:** Not publicly documented in the checked sources.
-- DIY/trace references to specific transistor substitutions are not treated as factory component evidence.
+- **Technology:** Silicon.
+- Exact production transistor part numbers are not publicly documented.
 
-## Diode
-- **Exact clipping/protection arrangement:** Not publicly documented in the checked sources.
+## Diode / clipping
+- Exact clipping-device type and part number are not publicly documented.
+
+## Power
+- **9V center-negative** operation with battery support is documented. [1]
+
+## Version history
+- No numbered electronic revision established.
+- Finish changes are cosmetic.
 
 ## Sound
-Spooky Tooth is designed for medium-to-high gain with pronounced sag, bloom, sustain and squish, while middle Texture settings can take on an octave-up-like character. The Texture control lets the pedal move from lighter fuzz toward a thicker, more compressed and amp-melting response.
+Spooky Tooth is intended to have pronounced sag, bloom, sustain and squish. Middle Texture settings can produce an octave-up-like character, while the broader range moves from lighter fuzz toward thicker, more compressed and amp-like saturation. [1][2]
+
+## Research confidence
+- **Identity:** High
+- **Orpheum/Manny's references:** High as builder lineage
+- **Silicon technology:** High
+- **Texture stage behavior:** High
+- **Exact transistor:** Unknown
+- **Exact diode:** Unknown
+
+## Deep research verification
+Basic Audio's Spooky Tooth page was checked against Effects Database and the Basic Audio product catalog. The sources support the late-1960s reference family, silicon implementation, control concept and sag/bloom behavior. The archive leaves factory semiconductor numbers unresolved. [1][2][3]
 
 ## Sources checked
-1. Basic Audio official Spooky Tooth page: https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-cnzrr-ksfg5
-2. Effects Database, Spooky Tooth: https://www.effectsdatabase.com/model/basicaudio/spookytooth
-3. Basic Audio official catalog: https://www.basicaudio.net/
+1. Basic Audio — Spooky Tooth: https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-cnzrr-ksfg5
+2. Effects Database — Basic Audio Spooky Tooth: https://www.effectsdatabase.com/model/basicaudio/spookytooth
+3. Basic Audio — Main catalog: https://www.basicaudio.net/
 
 ## Photo
-- **Archive status:** **Exact Photo Attached to Public Catalog**
-- **Exact-model image:** https://images.squarespace-cdn.com/content/v1/5da9e97016ddf940acffa2d3/1576108258790-6HS15EJ99Q1ENFTGTY8A/DSCF0160.jpg
-- **Source page:** https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-cnzrr-ksfg5
+- **Exact pedal photograph:** Basic Audio official product photograph.
+- **Direct image:** https://images.squarespace-cdn.com/content/v1/5da9e97016ddf940acffa2d3/1576108258790-6HS15EJ99Q1ENFTGTY8A/DSCF0160.jpg
+- **Source page:** Basic Audio Spooky Tooth.
