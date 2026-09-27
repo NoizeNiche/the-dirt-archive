@@ -1,0 +1,49 @@
+{
+  "builder": "Radial Tonebone",
+  "pedal": "Hot-British V9",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 5,
+  "sources": [
+    {
+      "url": "https://reverb.com/p/radial-tonebone-hot-british-v9-distortion",
+      "title": "Radial ToneBone Hot-British V9 Distortion - Reverb",
+      "h1": "",
+      "excerpt": "",
+      "host": "reverb.com",
+      "source_kind": "reverb"
+    },
+    {
+      "url": "https://www.schmusicproductions.com/post/radial-tonebone-hot-british-v9",
+      "title": "Radial Tonebone Hot British V9",
+      "h1": "SCHMUSIC  PRO DUCTIONS",
+      "excerpt": "--> Radial Tonebone Hot British V9 /*** VSM_CSS ***/ @font-face {font-family: 'avenir-lt-w01_35-light1475496'; font-style: normal; font-weight: 400; src: url('//static.parastorage.com/fonts/v2/af36905f-3c92-4ef9-b0c1-f91432f16ac1/v1/avenir-lt-w05_35-light.woff2') format('woff2'); unicode-range: U+0100-012B, U+012E-0130, U+0132-0137, U+0139-0149, U+014C-0151, U+0154-015F, U+0162-0177, U+0179-017C, U+0218-021B, U+02C9, U+02D8-02D9, U+02DB, U+02DD, U+0394, U+03A9, U+03BC, U+03C0, U+1E9E, U+20B9-20BA, U+20BC-20BD, U+2113, U+2126, U+212E, U+2202, U+2206, U+220F, U+2211-2212, U+2215, U+2219-221A, U+221E, U+222B, U+2248, U+2260, U+2264-2265, U+25CA, U+F8FF, U+FB01-FB02;font-display: swap; } @font-face {font-family: 'avenir-lt-w01_35-light1475496'; font-style: normal; font-weight: 400; src: url('//static.parastorage.com/fonts/v2/af36905f-3c92-4ef9-b0c1-f91432f16ac1/v1/avenir-lt-w01_35-light1475496.woff2') format('woff2'); unicode-range: U+0000, U+000D, U+0020-007E, U+00A0-00FF, U+0131, U+0152-0153, U+0160-0161, U+0178, U+017D-017E, U+0192, U+0237, U+02C6-02C7, U+02DA, U+02DC, U+2013-2014, U+2018-201A, U+201C-201E, U+2020-2022, U+2026, U+2030, U+2039-203A, U+2044, U+20AC, U+2122;font-display: swap; }@font-face {font-family: 'din-next-w01-light'; font-style: normal; font-weight: 400; src: url('//static.parastorage.com/fonts/v2/eca8b0cd-45d8-43cf-aee7-ca462bc5497c/v1/din-next-w10-light.woff2') format('woff2'); unicode-range: U+0401-040C, U+040E-044F, U+0451-045C, U+045E-045F, U+0490-0491, U+2116;font-display: swap; } @font-face {font-family: 'din-next-w01-light'; font-style: normal; font-weight: 400; src: url('//static.parastorage.com/fonts/v2/eca8b0cd-45d8-43cf-aee7-ca462bc5497c/v1/din-next-w02-light.woff2') format('woff2'); unicode-range: U+000D, U+0100-010F, U+0111-0130, U+0132-0151, U+0154-015F, U+0162-0177, U+0179-017C, U+01FA-01FF, U+0218-021B, U+0237, U+02C9, U+02D8-02D9, U+02DB, U+02DD, U+0394, U+03A9, U+03C0, U+1E80-1E85, U+1EF2-1EF3, U+2070, U+2074-2079, U+2080-2089, U+2113, U+2126, U+212E, U+2153-2154, U+215B-215E, U+2202, U+2206, U+220F, U+2211-2212, U+2215, U+2219-221A, U+221E, U+222B, U+2248, U+2260, U+2264-2265, U+25CA, U+F8FF, U+FB00-FB04;font-display: swap; } @font-face {font-family: 'din-next-w01-light'; font-style: normal; font-weight: 400; src: url('//static.parastorage.com/fonts/v2/eca8b0cd-45d8-43cf-aee7-ca462bc5497c/v1/din-next-w01-light.woff2') format('woff2'); unicode-range: U+0020-007E, U+00A0-00FF, U+0110, U+0131, U+0152-0153, U+0160-0161, U+0178, U+017D-017E, U+0192, U+02C6-02C7, U+02DA, U+02DC, U+03BC, U+2013-2014, U+2018-201A, U+201C-201E, U+2020-2022, U+2026, U+2030, U+2039-203A, U+2044, U+20AC, U+2122;font-display: swap; }@font-face {font-family: 'enriqueta'; font-style: normal; font-weight: 400; src: url('//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/enriqueta/v9/goksH6L7AUFrRvV44HVjQkqisv5Io53K.woff2') format('woff2'); unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;font-display: swap; } @font-face {font-family: 'enriqueta'; font-style: normal; font-weight: 700; src: url('//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/enriqueta/v9/gokpH6L7AUFrRvV44HVr92-3kdxFiafDFtAi.woff2') format('woff2'); unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;font-display: swap; } @font-face {font-family: 'enriqueta'; font-style: normal; font-weight: 400; src: url('//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/enriqueta/v9/goksH6L7AUFrRvV44HVjTEqisv5Iow.woff2') format('woff2'); unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;font-display: swap; } @font-face {font-family: 'enriqueta'; font-style: normal; font-weight: 700; src: url('//static.parastorage.com/tag-bundler/api/v1/fonts-cache/g",
+      "host": "www.schmusicproductions.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://sugareelicks.com/pedal/radial-tonebone-hot-british-v9/",
+      "title": "Radial | Tonebone Hot-British V9 - Sugaree Licks",
+      "h1": "Radial | Tonebone Hot-British V9",
+      "excerpt": "Radial | Tonebone Hot-British V9 - Sugaree Licks Skip to content Menu Cart Sugaree Licks Cart Search All Amps All Pedals All Guitars Songs Albums Artists Submit Submit A Song Add An Album To Sugaree Licks Add An Artist To Sugaree Licks Equipment For Sale Clearance Pedals Amps All Amps Top Amps Submit An Amp Pedals All Pedals Top Pedals Submit A Pedal Guitars All Guitars Top Guitars Submit A Guitar Manufacturers All Manufacturers Submit A Manufacturer GET Guitar Equipment Terminology Chords Guitar Chords A Guitar Chords B Guitar Chords C Guitar Chords D Guitar Chords E Guitar Chords F Guitar Chords G SHOP Widgets User Account Username or Email Password Remember Me or REGISTER Close Menu Close Cart   Radial | Tonebone Hot-British V9 by Sweetwater Website Link Radial Engineering Website Link Model Number or Name: Hot-British Distortion Speaker/Amp Emulator Circuit Type: Analog Original Price: $179 Excellent Used Price: $159 Year Released: 2017 Alternate Version(s) Hot British V1 (2008 - 2016) Beginning with a class-A buffering circuit, The Hot-British V9 gives you the feel of a true-bypass pedal with the added benefits of greater noise rejection and lower impedance. Its 3 gain stages and powerful post-distortion EQ controls deliver a flexible high gain experience that is reminiscent of big hair and pointy guitars. In other words, the Hot-British V9 is a Plexi-in-a-box packed full of harmonics, sustain and balls to the wall distortion. Grab your whammy bar! Plexi-style distortion guitar effects pedal Solid-state update to the Tonebone Hot British tube distortion pedal Drive control dials in everything from subtle grit to scooped-out chunk to sizzling leads Contour control varies your distortion character from fat, warm textures to bright airy tones 2-band EQ, Top End, and Mid Boost switches for sculpting your tone Class A buffer drives pedal chains and longer cable runs Housed in a compact, yet rugged enclosure   Tonebone by Radial Engineering Hot British V9 : Demo by Abel Franco The Tonebone Hot British V9 Radial Engineering Guitar Pedals Overview Email Sugaree Licks any additional Promotional Videos Email Sugaree Licks any additional Settings Videos Email Sugaree Licks any additions or corrections to Artist(s) Used Email Sugaree Licks any additions or corrections to Album(s) On Email Sugaree Licks any additions or corrections to Awards Curated by: Deadicated &laquo; Korg | G4 Toneworks Speaker Simulator &raquo; Wampler | Plexi-Drive Deluxe V2 Overdrive Back To Top Sugaree Licks About Us Special thanks to: Gianca at FA Chords for amazing chord images Contact Us at Shawn@SugareeLicks.com &copy; Sugaree Licks 2026 Website Design & Hosting by AO Johnson Design",
+      "host": "sugareelicks.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://www.effectsdatabase.com/model/radial/tonebone/hotbritish/v9",
+      "title": "Radial Tonebone Hot British V9 - Plexi-Style Distortion",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.effectsdatabase.com",
+      "source_kind": "effects_database"
+    },
+    {
+      "url": "https://www.zzounds.com/item--RADHOTBRITV9",
+      "title": "Radial Tonebone Hot British V9 High Gain Distortion Pedal",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.zzounds.com",
+      "source_kind": "other"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}

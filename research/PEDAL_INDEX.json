@@ -44213,8 +44213,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Maxon/RTO700.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Maxon",
@@ -49679,8 +49679,8 @@
       "image": "./assets/pedals/radial-tonebone/hot-british-v9/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Radial Tonebone/Hot-British V9.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Radial Tonebone",
@@ -53095,8 +53095,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/TONECAT/Lola Drive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "TONECAT",
@@ -56159,8 +56159,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Way Huge/Smalls Geisha Drive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Way Huge",

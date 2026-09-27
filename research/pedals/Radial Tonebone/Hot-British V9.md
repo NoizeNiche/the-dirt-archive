@@ -1,23 +1,43 @@
 # Radial Tonebone — Hot-British V9
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Hot-British V9
 - **Builder:** Radial Tonebone
-- **Pedal:** Hot-British V9
 - **Catalog type:** Distortion
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Radial Tonebone's Hot-British V9.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Hot-British V9** by **Radial Tonebone** as a **Distortion** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+In other words, the Hot-British V9 is a Plexi-in-a-box packed full of harmonics, sustain and balls to the wall distortion.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- The verified evidence references: V1, V2, V9, v1, v2, v9.
+- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+Its 3 gain stages and powerful post-distortion EQ controls deliver a flexible high gain experience that is reminiscent of big hair and pointy guitars.
+In other words, the Hot-British V9 is a Plexi-in-a-box packed full of harmonics, sustain and balls to the wall distortion.
+Plexi-Drive Deluxe V2 Overdrive Back To Top Sugaree Licks About Us Special thanks to: Gianca at FA Chords for amazing chord images Contact Us at Shawn@SugareeLicks.com © Sugaree Licks 2026 Website Design & Hosting by AO Johnson Design
+
+## Sources checked
+1. Radial ToneBone Hot-British V9 Distortion - Reverb: https://reverb.com/p/radial-tonebone-hot-british-v9-distortion
+2. Radial Tonebone Hot British V9: https://www.schmusicproductions.com/post/radial-tonebone-hot-british-v9
+3. Radial | Tonebone Hot-British V9 - Sugaree Licks: https://sugareelicks.com/pedal/radial-tonebone-hot-british-v9/
+4. Radial Tonebone Hot British V9 - Plexi-Style Distortion: https://www.effectsdatabase.com/model/radial/tonebone/hotbritish/v9
+5. Radial Tonebone Hot British V9 High Gain Distortion Pedal: https://www.zzounds.com/item--RADHOTBRITV9
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
