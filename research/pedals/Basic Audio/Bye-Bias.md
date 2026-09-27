@@ -4,60 +4,56 @@
 - **Archive parent:** Bye-Bias
 - **Builder:** Basic Audio
 - **Catalog type:** Fuzz
-- **Identity:** Silicon dual-bias fuzz with independent bias controls and deep high-cut tone shaping; the separate Germanium version is maintained as a distinct product. [1][2]
+- **Identity:** Two-transistor silicon fuzz with independent bias controls for the two stages and a low-pass high-cut Tone control. [1][2]
 
 ## What this pedal is
-Bye-Bias is built around independently adjustable transistor bias points. Basic Audio describes the result as capable of open fuzz, controlled gating and very sludgy or broken textures. [1]
+Effects Database describes Bye-Bias as heavy textured fuzz with dual bias controls and wide-range tone. Joe Perkins' demonstration confirms that each bias knob affects one transistor and can move the circuit from open response to soft or hard gating. [1][2]
 
-## Controls / architecture
+## Controls
 - **VOLUME**
-- **TONE**
-- Two independently adjustable **BIAS** controls.
-- Fixed-gain silicon fuzz architecture.
-- Deep high-cut tone behavior. [1][2]
+- **TONE:** Low-pass/high-cut behavior.
+- **BIAS 1:** Controls transistor #1 bias/starve.
+- **BIAS 2:** Controls transistor #2 bias. [1][2]
 
-## Circuit lineage
-- Experimental two-transistor fuzz.
-- The principal design feature is the independently adjustable biasing of its transistor stages rather than a fixed historical clone identity. [2]
-- Germanium Bye-Bias is a separate catalog model, not a finish or numbered revision. [3]
+## Circuit / topology
+- Experimental **two-transistor fuzz**.
+- Independent bias control for each transistor stage.
+- No specific historical clone family is asserted.
 
 ## Transistor
-- **Technology:** Silicon.
-- **Architecture:** Two-transistor fuzz with separate bias adjustment for the two stages. [2][4]
-- Exact production transistor part numbers are not published.
+- **Technology:** Silicon. [1][3]
+- **Two-transistor architecture:** Verified.
+- Exact transistor part numbers are not publicly documented.
 
 ## Diode / clipping
-- Exact clipping-device type and part number are not publicly documented.
+- Exact clipping device and part number are not publicly documented.
 
 ## Power
-- **9V center-negative**, with battery support documented by Basic Audio. [1]
+- **9V center-negative** with battery support. [1]
 
 ## Version history
-- Silicon Bye-Bias remains the parent product.
-- Germanium Bye-Bias is the separate later model with different transistor technology and an added gain control. [3]
+- Silicon Bye-Bias is distinct from Germanium Bye-Bias.
+- The Germanium model adds Gain and uses different transistor technology. [3]
 
 ## Sound
-Basic Audio describes Bye-Bias as highly interactive: bias controls can move the fuzz from open and sustaining into gated, splattery and sludgy states, while the high-cut tone control removes excessive high-frequency fizz. [1][2]
+Bias 1 provides softer gating/voltage-starve behavior, while Bias 2 can move from open/full-sustain response toward harder gating. The Tone control is a low-pass filter that can remove fizzy high end. [1][2]
 
 ## Research confidence
 - **Identity:** High
-- **Silicon technology:** High
-- **Two-transistor architecture:** High
+- **Silicon / two-transistor structure:** High
 - **Independent bias controls:** High
+- **Tone function:** High
 - **Exact transistor:** Unknown
 - **Exact diode:** Unknown
-- **Sound:** High
 
 ## Deep research verification
-Basic Audio's official Bye-Bias page, Effects Database and independent demo were cross-checked. The sources agree on the two-bias architecture and experimental gating behavior, while the separate Germanium record is treated as a distinct design exactly as Basic Audio presents it. [1][2][3][4]
+Effects Database, Basic Audio's product documentation and Joe Perkins' exact-model demonstration were cross-checked. The evidence directly supports the two independently biased transistor stages, high-cut Tone behavior and experimental gating range. [1][2][3]
 
 ## Sources checked
-1. Basic Audio — Bye-Bias: https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-cnzrr-gbrkf-c4y9j-h7xl8
-2. Effects Database — Basic Audio Bye-Bias: https://www.effectsdatabase.com/model/basicaudio/byebias
-3. Basic Audio — Bye-Bias (Germanium): https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-5pdl4
-4. Joe Perkins — Basic Audio Bye-Bias demo: https://www.youtube.com/watch?v=D0AlCA-szxs
+1. Effects Database — Bye-Bias: https://www.effectsdatabase.com/model/basicaudio/byebias
+2. Joe Perkins — Basic Audio Bye-Bias demo: https://www.youtube.com/watch?v=D0AlCA-szxs
+3. GuitarPlayer — David Torn using Basic Audio Bye-Bias silicon fuzz: https://www.guitarplayer.com/players/david-torn-on-making-space-for-improv-in-collaboration-future-projects-and-wrangling-90-fuzz-boxes-in-search-of-tone
 
 ## Photo
 - **Exact pedal photograph:** Basic Audio official product photograph.
-- **Direct image:** https://images.squarespace-cdn.com/content/v1/5da9e97016ddf940acffa2d3/1574295220984-7CWMH987DVDLG1CP571E/DSCF1465-Edit.jpg
-- **Source page:** Basic Audio Bye-Bias product page.
+- https://images.squarespace-cdn.com/content/v1/5da9e97016ddf940acffa2d/1574295220984-7CWMH987DVDLG1CP571E/DSCF1465-Edit.jpg
