@@ -39,3 +39,24 @@ TC Gakki's ended Reverb listing states that all photographs are of the actual it
 ## Sources checked
 1. Reverb - Commune Empire Custom Amplification Screem: https://reverb.com/item/10534214-commune-empire-custom-amplification-screem
 2. Effects Database - pedal catalog, Commune/ECA Screem entry: https://www.effectsdatabase.com/taxonomy/term/8/0?page=46
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+TC Gakki's ended Reverb listing states that all photographs are of the actual item and identifies the exact COMMUNE (EMPIRE CUSTOM AMPLIFICATION) / SCREEM model.
+
+### Verified color/finish evidence
+- No reliable production colorway history was established.
+
+### Verified version references
+- The evidence references: revision.
+
+### Verified sound evidence
+**Builder:** Commune/ECA (Empire Custom Amplification) - **Catalog identity:** Screem - **Catalog type:** Distortion - **Identity:** Rare Japanese Commune/ECA distortion pedal from the 2000s.
+The catalog classification is distortion.
+
+### Sources checked in this pass
+1. catalog/override source: https://reverb.com/item/10534214-commune-empire-custom-amplification-screem
+2. catalog/override source: https://www.effectsdatabase.com/taxonomy/term/8/0?page=46

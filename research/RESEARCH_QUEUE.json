@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-27T11:25:47.520216+00:00",
+  "generated_at": "2026-09-27T11:28:03.082004+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,8 +10,8 @@
     "pictured": 3140,
     "complete": 3140,
     "research_pending": 0,
-    "deep_research_pending": 922,
-    "deep_researched": 3320,
+    "deep_research_pending": 837,
+    "deep_researched": 3405,
     "surface_ready": 4242
   },
   "next_target": {
@@ -86,13 +86,6 @@
       "research_level": "surface"
     },
     {
-      "builder": "Cicognani Engineering",
-      "pedal": "Double Decker",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Cicognani Engineering/Double Decker.md",
-      "research_level": "surface"
-    },
-    {
       "builder": "Circle Of Tone",
       "pedal": "Blues Overdrive",
       "catalog_type": "",
@@ -104,34 +97,6 @@
       "pedal": "OVERDRIVE",
       "catalog_type": "",
       "research_record": "./research/pedals/Circle Of Tone/OVERDRIVE.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Circus Freak Music",
-      "pedal": "The Bearded Lady Fuzztone",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Circus Freak Music/The Bearded Lady Fuzztone.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Citadel Electronics",
-      "pedal": "Overtuber",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Citadel Electronics/Overtuber.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Clay Jones",
-      "pedal": "CJOD Overdrive",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Clay Jones/CJOD Overdrive.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Claybridge Sound Systems / Claybridge Audio",
-      "pedal": "Fuzzmaster MKIV",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Claybridge Sound Systems / Claybridge Audio/Fuzzmaster MKIV.md",
       "research_level": "surface"
     },
     {
@@ -149,41 +114,6 @@
       "research_level": "surface"
     },
     {
-      "builder": "Coggins Audio / Dinosaural",
-      "pedal": "Dan Solo Mid Booster / Drive",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Coggins Audio / Dinosaural/Dan Solo Mid Booster / Drive.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "ColdCraft Effects",
-      "pedal": "Black Dynamite MkII",
-      "catalog_type": "",
-      "research_record": "./research/pedals/ColdCraft Effects/Black Dynamite MkII.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "ColdCraft Effects",
-      "pedal": "Black Shuck OD/Distortion",
-      "catalog_type": "",
-      "research_record": "./research/pedals/ColdCraft Effects/Black Shuck OD Distortion.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "ColdCraft Effects",
-      "pedal": "Fiesta Fuzz Mini",
-      "catalog_type": "",
-      "research_record": "./research/pedals/ColdCraft Effects/Fiesta Fuzz Mini.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "ColdCraft Effects",
-      "pedal": "Fusion Fuzz",
-      "catalog_type": "",
-      "research_record": "./research/pedals/ColdCraft Effects/Fusion Fuzz.md",
-      "research_level": "surface"
-    },
-    {
       "builder": "Coleman",
       "pedal": "Angry Dragon mkII - Germanium Fuzz",
       "catalog_type": "",
@@ -191,10 +121,80 @@
       "research_level": "surface"
     },
     {
-      "builder": "Collateral FX",
-      "pedal": "P010 Year of Rat 1985",
+      "builder": "Collins",
+      "pedal": "CDT-1 Distortion",
       "catalog_type": "",
-      "research_record": "./research/pedals/Collateral FX/P010 Year of Rat 1985.md",
+      "research_record": "./research/pedals/Collins/CDT-1 Distortion.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Colorsound / Sola Sound",
+      "pedal": "G.B. Fuzz",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Colorsound / Sola Sound/G.B. Fuzz.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Colorsound / Sola Sound",
+      "pedal": "Pro Traffic Fuzz Unit",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Colorsound / Sola Sound/Pro Traffic Fuzz Unit.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Compulsive Audio",
+      "pedal": "Dimed Boogie",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Compulsive Audio/Dimed Boogie.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "CopperSound Pedals",
+      "pedal": "Foxcatcher - Overdrive & Boost",
+      "catalog_type": "",
+      "research_record": "./research/pedals/CopperSound Pedals/Foxcatcher - Overdrive & Boost.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Cosmodio Instruments",
+      "pedal": "Glitch Witch - Auto-Modulated Logic Fuzz",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Cosmodio Instruments/Glitch Witch - Auto-Modulated Logic Fuzz.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Cranetortoise by Albit",
+      "pedal": "DD-1B Dual Distortion for Bass",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Cranetortoise by Albit/DD-1B Dual Distortion for Bass.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "CrazyTone",
+      "pedal": "Crazytone Fuzz",
+      "catalog_type": "",
+      "research_record": "./research/pedals/CrazyTone/Crazytone Fuzz.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Critically Overdriven",
+      "pedal": "E.O.D.",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Critically Overdriven/E.O.D.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "D&M",
+      "pedal": "Distortion",
+      "catalog_type": "",
+      "research_record": "./research/pedals/D&M/Distortion.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Danelectro",
+      "pedal": "Blue Paisley PureDrive",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Danelectro/Blue Paisley PureDrive.md",
       "research_level": "surface"
     }
   ]

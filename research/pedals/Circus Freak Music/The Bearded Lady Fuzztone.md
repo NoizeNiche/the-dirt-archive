@@ -37,3 +37,27 @@ Circus Freak describes the Bearded Lady as covering gentle-clipping fuzz from su
 ## Sources checked
 1. Premier Guitar — Circus Freak initial pedal line: https://www.premierguitar.com/circus-freak-music-announces-new-pedal-line
 2. Reverb — Circus Freak The Bearded Lady Fuzz: https://reverb.com/en-bg/item/92192453-circus-freak-stomp-boxes-the-bearded-lady-fuzz
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Circus Freak Music's The Bearded Lady Fuzztone is cataloged as a fuzz pedal.
+
+### Verified color/finish evidence
+- No complete factory colorway sequence was established.
+
+### Verified version references
+- The evidence references: revision.
+
+### Verified transistor/device terms
+- germanium fuzz, germanium transistor.
+
+### Verified sound evidence
+**Archive parent:** The Bearded Lady Fuzztone - **Builder:** Circus Freak Music - **Catalog type:** Fuzz - **Identity:** Circus Freak Music The Bearded Lady Fuzztone, a three-stage germanium fuzz with external bias control.
+The launch documentation describes a **full germanium transistor circuit**, **three-stage gain structure**, and **external bias adjustment**.
+Circus Freak describes the Bearded Lady as covering gentle-clipping fuzz from subtle fuzz through massive, deep Muff-like tones.
+
+### Sources checked in this pass
+1. catalog/override source: https://reverb.com/en-bg/item/92192453-circus-freak-stomp-boxes-the-bearded-lady-fuzz

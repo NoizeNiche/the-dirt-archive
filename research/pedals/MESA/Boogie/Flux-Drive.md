@@ -1,23 +1,42 @@
 # MESA/Boogie — Flux-Drive
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Flux-Drive
 - **Builder:** MESA/Boogie
-- **Pedal:** Flux-Drive
 - **Catalog type:** Distortion / Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** MESA/Boogie's Flux-Drive.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Flux-Drive** by **MESA/Boogie** as a **Distortion / Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+NOTE: The internal battery is switched to an "ON" state FLUX-DRIVE™ (drawing voltage) by a switching element in the INPUT jack.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+MESA/BOOGIE FLUX-DRIVE OWNER'S MANUAL Pdf Download
+Improper voltage/amper- age being provided to the pedal may cause poor tone, inconsistent performance, damage to the unit, or all of the above.
+NOTE: The internal battery is switched to an "ON" state FLUX-DRIVE™ (drawing voltage) by a switching element in the INPUT jack.
+
+## Sources checked
+1. MESA/BOOGIE FLUX-DRIVE OWNER'S MANUAL Pdf Download | ManualsLib: https://www.manualslib.com/manual/866386/Mesa-Boogie-Flux-Drive.html
+2. MESA/Boogie Flux Drive User Manual | Manualzz: https://manualzz.com/doc/11316286/mesa-boogie-flux-drive-user-manual
+3. Flux-Drive™ - MESA/Boogie®: https://legacy.mesaboogie.com/pedals--related/drive-pedals/flux-drive.html
+4. Mesa/Boogie Flux-Drive — Overdrive Pedal | Equipboard: https://equipboard.com/items/mesa-boogie-flux-drive-overdrive-pedal
+5. Mesa/Boogie FLUX-DRIVE Manuals & User Guides: https://all-guidesbox.com/model/mesa-boogie/flux-drive.html
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

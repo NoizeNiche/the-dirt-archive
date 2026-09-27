@@ -1,0 +1,17 @@
+{
+  "builder": "Cranetortoise by Albit",
+  "pedal": "SW-1 Switching Distortion",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 1,
+  "sources": [
+    {
+      "url": "https://reverb.com/item/17278924-albit-cranetortoise-sw-1-switching-distortion-effect-pedal",
+      "title": "catalog/override source",
+      "h1": "Cranetortoise by Albit - SW-1 Switching Distortion",
+      "excerpt": "- **Builder:** Cranetortoise by Albit\n- **Catalog identity:** SW-1 Switching Distortion\n- **Catalog type:** Distortion / Modulation\n- **Identity:** Exact Cranetortoise / Albit SW-1.\n\nSW-1 is an analog switching-distortion effect from the Cranetortoise/ALBIT range. Surviving exact-model documentation describes selectable gain-overdrive/distortion and a separate switching/tremolo-style sound that can also be combined with the distortion.\n\n- The exact-model Reverb listing describes selectable:\n  - gain overdrive or distortion\n  - tremolo / \u201cscatter gun\u201d delay-echo style switching effects\n  - or a combination of both\n- A complete verified knob-label/value transcription was not established.\n\n- **SW-1B Switching Distortion for Bass** is a separate bass-oriented catalog model.\n- SW-1 itself is documented as an analog 1980s Japanese pedal in surviving Reverb data.\n\n- 9V battery or 9V adapter.\n\n- Exact transistor type or part number: **not established**.\n\n- Exact diode type or part number: **not established**.\n\nSW-1 combines conventional gain-based distortion with a switchable rhythmic/switching effect. The checked period listing specifically describes machine-like scatter-gun, delay-echo and tremolo-style textures when the switching section is engaged.\n\n- Made in Japan.\n- Reverb identifies the pedal as a boutique analog switching distortion from the 1980s.\n\n- Exact-model Reverb: https://reverb.com/item/17278924-albit-cranetortoise-sw-1-switching-distortion-effect-pedal\n- Effects Database family listing: https://www.effectsdatabase.com/model/cranetortoise\n- Encores exact-model listing: https://encores.jp/effector_category/cranetortoise\n- ALBIT official support: https://www.albit.jp/support.html\n\n1. Reverb - Cranetortoise SW-1 Switching Distortion\n2. Effects Database - Cranetortoise by Albit\n3. Encores - Cranetortoise SW-1\n4. ALBIT official support",
+      "host": "reverb.com",
+      "source_kind": "reverb"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}

@@ -1,23 +1,40 @@
 # WMD Devices — Geiger Counter
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Geiger Counter
 - **Builder:** WMD Devices
-- **Pedal:** Geiger Counter
 - **Catalog type:** Distortion
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** WMD Devices's Geiger Counter.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Geiger Counter** by **WMD Devices** as a **Distortion** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+The Geiger Counter may seem overwhelming, but once broken down, the controls are quite logical.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- When the LED is Red, the Sample Rate is in fine mode where the range is limited to the upper end.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Documented terms in the verified sources: LED.
+- The archive records only the component information explicitly present in these sources.
+
+## Sound
+Low settings provide clean tones with no distortion at all, while high settings will brickwall your signal for great sustain.
+Use the Gain control as a coarse setting for getting the desired tone from the selected wave table.
+The Geiger Counter's tone control blends muffled low-mids with chimey and clear upper mids and highs providing a very large range of sounds in junction with the Gain.
+
+## Sources checked
+1. https://www.amazon.com/clp/B015X6KNUC: https://www.amazon.com/clp/B015X6KNUC
+2. WMD Devices Geiger Counter High Gain Preamp/ 8-Bit Computer Guitar ...: https://www.promusicfactory.com/product/wmd-devices-geiger-counter-high-gain-preamp-8-bit-computer-guitar-pedal/
+3. WMD Devices Geiger Counter Eurorack Edition &ndash; Geargas Store: https://www.geargasstore.com/products/wmd-devices-geiger-counter-eurorack-edition?variant=89466182
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

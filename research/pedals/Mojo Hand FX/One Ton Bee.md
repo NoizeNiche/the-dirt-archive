@@ -1,23 +1,41 @@
 # Mojo Hand FX — One Ton Bee
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** One Ton Bee
 - **Builder:** Mojo Hand FX
-- **Pedal:** One Ton Bee
 - **Catalog type:** Fuzz
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Mojo Hand FX's One Ton Bee.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **One Ton Bee** by **Mojo Hand FX** as a **Fuzz** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Mojo Hand FX's One Ton Bee is cataloged as a fuzz pedal.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+The One Ton Bee was inspired by the legendary fuzz pioneers The Ventures and their 60's fuzz tones.
+In short, the One Ton Bee will please any and all players looking for that gnarly, nasty fuzz of yore, yet need something a bit more musical.
+The days of digging around online for quality vintage fuzz (along with spending an arm and a leg) are over.
+
+## Sources checked
+1. Mojo Hand FX One Ton Bee - Reverb: https://reverb.com/p/mojo-hand-fx-one-ton-bee
+2. Mojo Hand FX One Ton Bee — Fuzz Pedal | Equipboard: https://equipboard.com/items/mojo-hand-fx-one-ton-bee
+3. Mojo Hand FX One Ton Bee - Live Sound Equipment: https://www.livesoundequipment.com/product/mojo-hand-fx-one-ton-bee/
+4. Mojo Hand FX One Ton Bee &ndash; Coast Sonic: https://coastsonic.com/products/mojo-hand-fx-one-ton-bee
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

@@ -39,3 +39,22 @@ Fiesta mode provides the hybrid MOSFET voice; Fusion mode moves toward a modern 
 ## Sources checked
 1. Pedais & Efeitos — ColdCraft interview / product history: https://pedaiseefeitos.com/entrevista/entrevista-coldcraft-effects/
 2. Reverb — Coldcraft Effects Fusion Fuzz MKII: https://reverb.com/ca/item/68825-coldcraft-effects-fusion-fuzz-mkii
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+ColdCraft Effects's Fusion Fuzz is cataloged as a fuzz pedal.
+
+### Verified version references
+- The evidence references: MKII, MkII, mkii.
+
+### Verified sound evidence
+**Archive parent:** Fusion Fuzz - **Builder:** ColdCraft Effects - **Catalog type:** Fuzz - **Identity:** ColdCraft Effects Fusion Fuzz, a four-stage MOSFET fuzz combining Fiesta and Fuzzrite-style modes.
+ColdCraft's Fusion Fuzz combines Fiesta mode with a Fusion mode inspired by the Mosrite Fuzzrite while adding substantially more adjustment.
+A surviving MkII listing documents a four-stage MOSFET architecture and a Texture control that manipulates dry and filtered distorted signals.
+
+### Sources checked in this pass
+1. catalog/override source: https://reverb.com/ca/item/68825-coldcraft-effects-fusion-fuzz-mkii
+2. Entrevista: Coldcraft Effects! – Pedais e Efeitos: https://pedaiseefeitos.com/entrevista/entrevista-coldcraft-effects/

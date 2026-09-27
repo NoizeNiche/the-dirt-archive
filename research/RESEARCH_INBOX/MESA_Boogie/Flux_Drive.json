@@ -1,0 +1,49 @@
+{
+  "builder": "MESA/Boogie",
+  "pedal": "Flux-Drive",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 5,
+  "sources": [
+    {
+      "url": "https://www.manualslib.com/manual/866386/Mesa-Boogie-Flux-Drive.html",
+      "title": "MESA/BOOGIE FLUX-DRIVE OWNER'S MANUAL Pdf Download | ManualsLib",
+      "h1": "Mesa/Boogie Flux-drive Owner's Manual",
+      "excerpt": "MESA/BOOGIE FLUX-DRIVE OWNER'S MANUAL Pdf Download | ManualsLib Sign In Upload Download Add to my manuals Delete from my manuals Share URL of this page: HTML Link: MESA/BOOGIE FLUX-DRIVE OWNER'S MANUAL Pdf Download '> Pinterest Bookmark this page Add Manual will be automatically added to \"My Manuals\" Print this page &times; Bookmark added &times; Added to my manuals Manuals Brands Mesa/Boogie Manuals Music Equipment Flux-drive Owner's manual Mesa/Boogie Flux-drive Owner's Manual Hide thumbs 1 2 page of 2 Go / 2 Bookmarks Quick Links Download this manual Enlarged version SAFETY PRECAUTIONS: \u2022 Read these instructions. \u2022 Keep these instructions. \u2022 Heed all warnings. \u2022 Follow all instructions. \u2022 Do not use this apparatus near water. \u2022 Clean only with dry cloth. \u2022 Be sure use only properly rated power adaptors or universal power supplies (pedal board power supplies) with appropriate attention paid to proper voltage, am- perage and ground schemes. Improper voltage/amper- age being provided to the pedal may cause poor tone, inconsistent performance, damage to the unit, or all of the above. Proper voltage, amperage and grounding specs are supplied at the end of this manual. \u2022 REPLACE THE BOTTOM LID after battery replace- ment before the unit is used. Some electronic parts inside are static sensitive and can be damaged from Owner's Manual even a small static charge from contact with carpet or other conductive surfaces. DO NOT SET A POWERED UNIT \"CONTROLS UP\" ON A METAL (or any) SUR- FACE WITH THE BOTTOM REMOVED! FEATURES & CONTROLS Congratulations on your choice of MESA/Boogie and wel- come to the MESA Family! The same passion for excel- lence, commitment to quality and dedication to customer IN: This \u00bc\" phono jack is the Instrument Input for the satisfaction is present in each and every product we make device. Plug the Output of your guitar into this jack with a in our one- and-only shop in Petaluma, California, U.S.A. shielded cable of good quality. The jack is a switching type Rest assured that the very same people that hand-build jack and the circuit is turned on when a cable is inserted. the finest amplifiers in the world built your pedal and you When the circuit is activated by inserting a cable, the inter- have access to the same resources for help that all our nal battery is being used to power it \u2013 so be sure to unplug customers do. Call on us anytime and enjoy! the cable from the INPUT when it's not in use. NOTE: The internal battery is switched to an \"ON\" state FLUX-DRIVE\u2122 (drawing voltage) by a switching element in the INPUT jack. To prolong battery life, disconnect the cable from the \u00bc\" The FLUX-DRIVE offers a gain range that is similar to INPUT jack whenever the unit is not in use. Mesa's GRID SLAMMER\u2122 - in that it's still an overdrive \u2013 but it's an Overdrive that goes farther up the gain-scale. It NOTE: IIf you wish to leave the INPUT connected perma- also offers the more complete Tone shaping network with nently \u2013 as in a pedal board scenario \u2013 it is advisable to individual TREBLE and BASS controls. This architecture power the unit with an external 9V DC power supply. When makes the FLUX-DRIVE a more complete preamp that an external (plug-in) DC 9-volt power supply is used to power has versatility beyond that of the more classic Overdrive the unit, the DC jack on the pedal automatically disconnects pedals. the battery to avoid battery wear and preserve its useful life. If you are going to use external AC power either for long Setting the FLUX-DRIVE's GAIN control low, a region periods or permanently in a pedal board set-up, remove the of subtle soft-clip threshold sounds are revealed. This internal battery to prevent (forgotten) battery corrosion. smoothly transitions to a more aggressive, harmonic-rich middle zone that's great for Classic Rock rhythm or Crunch. At the upper end of the GAIN control real saturation begins. OUT: This 1/4\" phono jack is the OUTPUT for the device. The attack envelope gets rounder and more c",
+      "host": "www.manualslib.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://manualzz.com/doc/11316286/mesa-boogie-flux-drive-user-manual",
+      "title": "MESA/Boogie Flux Drive User Manual | Manualzz",
+      "h1": "",
+      "excerpt": "",
+      "host": "manualzz.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://legacy.mesaboogie.com/pedals--related/drive-pedals/flux-drive.html",
+      "title": "Flux-Drive\u2122 - MESA/Boogie\u00ae",
+      "h1": "",
+      "excerpt": "",
+      "host": "legacy.mesaboogie.com",
+      "source_kind": "manufacturer"
+    },
+    {
+      "url": "https://equipboard.com/items/mesa-boogie-flux-drive-overdrive-pedal",
+      "title": "Mesa/Boogie Flux-Drive \u2014 Overdrive Pedal | Equipboard",
+      "h1": "",
+      "excerpt": "",
+      "host": "equipboard.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://all-guidesbox.com/model/mesa-boogie/flux-drive.html",
+      "title": "Mesa/Boogie FLUX-DRIVE Manuals & User Guides",
+      "h1": "",
+      "excerpt": "",
+      "host": "all-guidesbox.com",
+      "source_kind": "other"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}

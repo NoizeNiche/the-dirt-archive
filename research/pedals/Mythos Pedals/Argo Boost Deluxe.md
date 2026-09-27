@@ -1,23 +1,45 @@
 # Mythos Pedals — Argo Boost Deluxe
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Argo Boost Deluxe
 - **Builder:** Mythos Pedals
-- **Pedal:** Argo Boost Deluxe
 - **Catalog type:** Fuzz
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Mythos Pedals's Argo Boost Deluxe.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Argo Boost Deluxe** by **Mythos Pedals** as a **Fuzz** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Changing Lanes At its core the Argo Boost Deluxe is the same topology as the Argo, but the additional Footswitch and Red Boost Knob allow players to use the boost portion of the circuit by itself.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- Changing Lanes At its core the Argo Boost Deluxe is the same topology as the Argo, but the additional Footswitch and Red Boost Knob allow players to use the boost portion of the circuit by itself.
+- On/Off Footswitch - Master On/Off Switch Fuzz Footswitch - Engages the White Knobs (i.e.
+- At it's core the Argo Boost Deluxe is the same topology as the Argo but the additional Footswitch and Red Boost Knob allow to use the boost portion of the circuit by itself.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+When you set the Fuzz control and Blend control to minimum the Argo circuit functions as a very useful and musical sounding Booster.
+Changing Lanes At its core the Argo Boost Deluxe is the same topology as the Argo, but the additional Footswitch and Red Boost Knob allow players to use the boost portion of the circuit by itself.
+This allows you to have a pair of gain stages that are perfect in front of a drive pedal or drive amp.
+
+## Sources checked
+1. Argo Boost Deluxe &ndash; Mythos Pedals: https://mythospedals.com/products/argo-boost-deluxe
+2. Mythos Pedals - Argo Boost Deluxe | Mass Street Music: https://massstreetmusic.com/products/mythos-pedals-argo-boost-deluxe
+3. Mythos Pedals Argo Boost Deluxe - What To Know & Where To Buy: https://equipboard.com/items/mythos-pedals-argo-boost-deluxe
+4. Mythos Pedals - Argo Boost Deluxe - harptoneo.com: https://www.harptoneo.com/product/mythos-pedals-argo-boost-deluxe/
+5. Mythos Pedals Argo Boost Deluxe &ndash; Coast Sonic: https://coastsonic.com/products/mythos-pedals-argo-boost-deluxe
+6. Mythos Pedals Argo Boost Deluxe Dimensions, Specs & Details: https://www.stompboxgarden.com/gear/pedal/4196/mythos-pedals-argo-boost-deluxe
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

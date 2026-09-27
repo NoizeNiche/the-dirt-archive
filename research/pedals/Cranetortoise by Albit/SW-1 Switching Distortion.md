@@ -47,3 +47,18 @@ SW-1 combines conventional gain-based distortion with a switchable rhythmic/swit
 2. Effects Database - Cranetortoise by Albit
 3. Encores - Cranetortoise SW-1
 4. ALBIT official support
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Cranetortoise by Albit's SW-1 Switching Distortion is cataloged as a distortion pedal.
+
+### Verified sound evidence
+**Builder:** Cranetortoise by Albit - **Catalog identity:** SW-1 Switching Distortion - **Catalog type:** Distortion / Modulation - **Identity:** Exact Cranetortoise / Albit SW-1.
+SW-1 is an analog switching-distortion effect from the Cranetortoise/ALBIT range.
+Surviving exact-model documentation describes selectable gain-overdrive/distortion and a separate switching/tremolo-style sound that can also be combined with the distortion.
+
+### Sources checked in this pass
+1. catalog/override source: https://reverb.com/item/17278924-albit-cranetortoise-sw-1-switching-distortion-effect-pedal

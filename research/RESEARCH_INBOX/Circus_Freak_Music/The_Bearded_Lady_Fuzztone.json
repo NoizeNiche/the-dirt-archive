@@ -1,0 +1,17 @@
+{
+  "builder": "Circus Freak Music",
+  "pedal": "The Bearded Lady Fuzztone",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 1,
+  "sources": [
+    {
+      "url": "https://reverb.com/en-bg/item/92192453-circus-freak-stomp-boxes-the-bearded-lady-fuzz",
+      "title": "catalog/override source",
+      "h1": "Circus Freak Music \u2014 The Bearded Lady Fuzztone",
+      "excerpt": "- **Archive parent:** The Bearded Lady Fuzztone\n- **Builder:** Circus Freak Music\n- **Catalog type:** Fuzz\n- **Identity:** Circus Freak Music The Bearded Lady Fuzztone, a three-stage germanium fuzz with external bias control.\n\nCircus Freak introduced The Bearded Lady Fuzztone as part of its first pedal line. The launch documentation describes a **full germanium transistor circuit**, **three-stage gain structure**, and **external bias adjustment**. [1]\n\n- A 2013 Reverb listing documents an exact-model example. [2]\n- No complete factory colorway sequence was established.\n\nDocumented features:\n- NOS military-spec germanium transistor circuitry.\n- Three-stage gain structure.\n- External bias adjustment.\n- Soft-touch relay switching.\n- True bypass.\n- 18V capability. [1][2]\n\nNo formal numbered factory revision sequence was established.\n\nThe builder explicitly identifies **NOS military-spec germanium transistor circuitry**. Exact transistor part numbers were not established. [1]\n\nNo exact-model diode specification was established.\n\nCircus Freak describes the Bearded Lady as covering gentle-clipping fuzz from subtle fuzz through massive, deep Muff-like tones. External Bias broadens the usable range of the germanium circuit. [1][2]\n\n1. Premier Guitar \u2014 Circus Freak initial pedal line: https://www.premierguitar.com/circus-freak-music-announces-new-pedal-line\n2. Reverb \u2014 Circus Freak The Bearded Lady Fuzz: https://reverb.com/en-bg/item/92192453-circus-freak-stomp-boxes-the-bearded-lady-fuzz",
+      "host": "reverb.com",
+      "source_kind": "reverb"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}

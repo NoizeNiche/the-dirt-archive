@@ -1,33 +1,39 @@
-# Dinosaural - Hypoid Drive
+# Dinosaural — Hypoid Drive
 
 ## PRP identity
+- **Archive parent:** Hypoid Drive
 - **Builder:** Dinosaural
-- **Pedal:** Hypoid Drive
-- **Catalog type:** Overdrive / Distortion
-- **Identity:** Dan Coggins Dinosaural Hypoid Drive.
+- **Catalog type:** Overdrive
+- **Identity:** Dinosaural's Hypoid Drive.
 
 ## What this pedal is
 Hypoid Drive is one of the dirt-oriented products listed in the Dinosaural catalog maintained by Effects Database.
 
-## Circuit / controls
-The surviving indexed source does not preserve enough dependable exact-model data to reconstruct its control set, topology or semiconductor complement. No classic-circuit lineage is assigned from the name alone.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
 
-## History
-Dinosaural was founded by Dan Coggins in **2002** and ceased production in **2007**, according to Effects Database. Hypoid Drive belongs to that small-run catalog.
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
 
 ## Sound
-The archive records Hypoid Drive as an overdrive/distortion product but does not invent detailed tonal claims without exact-model documentation.
-
-## Research confidence
-- **Identity:** High.
-- **Dinosaural catalog placement:** High.
-- **Exact controls/components:** Unknown.
-- **Exact circuit lineage:** Unresolved.
+**Builder:** Dinosaural - **Pedal:** Hypoid Drive - **Catalog type:** Overdrive / Distortion - **Identity:** Dan Coggins Dinosaural Hypoid Drive.
+Hypoid Drive is one of the dirt-oriented products listed in the Dinosaural catalog maintained by Effects Database.
+Hypoid Drive belongs to that small-run catalog.
 
 ## Sources checked
-1. Effects Database - Dinosaural catalog: https://www.effectsdatabase.com/model/dinosaural
-2. MusicRadar - Historic hardware: Lovetone pedals: https://www.musicradar.com/news/historic-hardware-lovetone-pedals
+1. catalog/override source: https://www.effectsdatabase.com/model/dinosaural
+2. Historic hardware: Lovetone pedals | MusicRadar: https://www.musicradar.com/news/historic-hardware-lovetone-pedals
 
 ## Photo
-- **Archive status:** **Exact Photo Pending**
-- No local canonical image has been archived in this pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

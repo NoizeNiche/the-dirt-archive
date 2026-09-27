@@ -38,3 +38,23 @@ A period player described the AD-1 as providing useful code separation and noted
 1. Effects Database - Cranetortoise AD-1
 2. Reverb - Cranetortoise / Albit AD-1
 3. Period Japanese guitar-player reference
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+AD-1 Crunch + Atom Distortion is a Japanese Cranetortoise by Albit distortion pedal documented by Effects Database and later surviving-market listings.
+
+### Verified version references
+- The evidence references: revision.
+
+### Verified sound evidence
+**Builder:** Cranetortoise by Albit - **Catalog identity:** AD-1 Crunch + Atom Distortion - **Catalog type:** Distortion - **Identity:** Exact Cranetortoise / Albit AD-1.
+AD-1 Crunch + Atom Distortion is a Japanese Cranetortoise by Albit distortion pedal documented by Effects Database and later surviving-market listings.
+A period user account also describes the AD-1 as a distortion pedal with an onboard boost-like function.
+
+### Sources checked in this pass
+1. catalog/override source: https://reverb.com/item/85978323-cranetortoise-albit-ad-1-crunch-atom-distortion-boutique-japanese-pedal
+2. catalog/override source: https://www.effectsdatabase.com/model/cranetortoise/ad1
+3. リズムギターのセッティング - かなでごと（”Soul Tracks”移転先）: https://yukia-2.hatenadiary.org/entry/20091004/p2

@@ -42,3 +42,24 @@ Citadel positions Overtuber as a Tube Driver-style overdrive/preamp with added c
 ## Sources checked
 1. Citadel Electronics — Overtuber: https://www.citadel-electronics.com/
 2. Hookup, Inc. — Citadel founder interview / Overtuber tube and Initial State discussion: https://hookup.co.jp/blog/1585412
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Citadel states that Overtuber is centered around an **ECC83 / 12AX7** tube, while ECC81/12AT7 and ECC82/12AU7 can also operate in the circuit.
+
+### Verified color/finish evidence
+- The checked manufacturer sources establish the exact current model but do not establish a complete factory colorway sequence.
+
+### Verified version references
+- The evidence references: revision.
+
+### Verified sound evidence
+Citadel Electronics describes Overtuber as its interpretation of a classic Tube Driver-style pedal, adding a high-voltage Boost mode and automatic-bias topology.
+The Initial State switches can determine startup bypass/engaged state and whether boost is active on power-up.
+Citadel positions Overtuber as a Tube Driver-style overdrive/preamp with added control over low-frequency body and saturation.
+
+### Sources checked in this pass
+1. Citadel Electronics | Premium Guitar Effects Pedals: https://www.citadel-electronics.com/

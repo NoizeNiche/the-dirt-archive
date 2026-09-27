@@ -1,23 +1,41 @@
 # VFE Pedals — Dragon Hound
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Dragon Hound
 - **Builder:** VFE Pedals
-- **Pedal:** Dragon Hound
 - **Catalog type:** Distortion / Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** VFE Pedals's Dragon Hound.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Dragon Hound** by **VFE Pedals** as a **Distortion / Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+VFE Pedals's Dragon Hound is cataloged as a distortion / overdrive pedal.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+Each circuit has a dedicated drive control, and the blend control can dial in saturated distortion tones that retain the clarity of an overdrive.
+Stacked or blended, its two sides interact to cover ground from punchy blues crunch to fire-breathing, layered distortion.
+
+## Sources checked
+1. VFE Pedals Dragon Hound - diystompboxes.com: https://www.diystompboxes.com/smfforum/index.php?topic=127763.0
+2. Dragon Hound by VFE Pedals | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/VFE-Pedals/Dragon-Hound/68986069/
+3. VFE Pedals Dragon Hound — DIY PCB clones & build options: https://builder.pachydermpedals.com/base-pedals/b61bf291-7295-4369-b2f2-47510f53e11a
+4. Guitar FX Layouts: VFE Pedals Dragon Hound: https://tagboardeffects.blogspot.com/2017/11/vfe-pedals-dragon-hound.html
+5. VFE Dragon Hound - Reverb: https://reverb.com/p/vfe-dragon-hound
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

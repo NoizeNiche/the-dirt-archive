@@ -1,0 +1,17 @@
+{
+  "builder": "Cosmosound",
+  "pedal": "CSE-3 Wah-Wah Distortion",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 1,
+  "sources": [
+    {
+      "url": "https://www.effectsdatabase.com/model/cosmosound/cse3",
+      "title": "catalog/override source",
+      "h1": "Cosmosound - CSE-3 Wah-Wah Distortion",
+      "excerpt": "- **Builder:** Cosmosound\n- **Catalog identity:** CSE-3 Wah-Wah Distortion\n- **Catalog type:** Wah / Distortion\n- **Identity:** Exact Cosmosound CSE-3 Wah-Wah Distortion.\n\nCSE-3 is a vintage treadle-format combination wah and distortion pedal. Effects Database describes the wah as a smooth, vocal-like sweep and the distortion as a mid-focused range running from overdrive toward fuzz.\n\n- **Wah treadle:** controls the filter sweep.\n- Separate switching allows the **wah** and **distortion** sections to be used individually or together.\n- The checked exact-model page does not provide a trustworthy full panel control-value transcription.\n\nEffects Database groups the CSE-3 with the **Silversound SE-20 Whau-Whau Distortion** and a **Vox by EF-EL Wah-Wah Distortion** as metal-housed members of the same Italian family. This is a documented family relationship, not permission to merge the branded catalog entries.\n\n- The checked sources do not establish exact transistor or diode part numbers for the Cosmosound-branded CSE-3.\n- A Freestompboxes technical discussion of the closely related Vox by EF-EL unit reports MPS5172 transistors in its fuzz section and BC209C transistors in its wah section, but this is not treated as a confirmed Cosmosound CSE-3 bill of materials.\n\nThe exact Cosmosound description emphasizes a smooth, vocal wah sweep and a mid-focused distortion that reaches fuzz-like territory. The two sections can be used separately or together.\n\n- Vintage Italian manufacture.\n- Metal treadle enclosure.\n- The wider Cosmosound/Silversound/Goldsound family is documented as part of Sandro Marchetti's Italian effects work.\n\n- Exact-model Effects Database: https://www.effectsdatabase.com/model/cosmosound/cse3\n- Classic2Vintage history: https://www.classic2vintage.com/en/the-history-of-cosmosound-silversound-goldsound-effects-sandro-marchettis-interview-second-part/\n- Related technical discussion: https://www.freestompboxes.org/viewtopic.php?f=19&p=245545&t=6676\n\n1. Effects Database - Cosmosound CSE-3 Wah-Wah Distortion\n2. Classic2Vintage - Cosmosound history / Sandro Marchetti interview\n3. Freestompboxes - Vox Wah Wah Distortion technical discussion",
+      "host": "www.effectsdatabase.com",
+      "source_kind": "effects_database"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}

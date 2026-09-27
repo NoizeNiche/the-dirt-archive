@@ -48,3 +48,26 @@ SVD-001 is voiced for bass-friendly overdrive with a controlled low end and enou
 ## Photo
 - **Archive status:** No local photo archived in this research pass.
 - **Exact-model visual references checked:** Effects Database and exact-model Reverb listings.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Crews Maniac Sound's SVD-001 Classic Overdrive is cataloged as an overdrive pedal.
+
+### Verified color/finish evidence
+- Cosmetic finish differences are treated as colorways unless a circuit change is documented.
+
+### Verified version references
+- The evidence references: V1, V2.
+
+### Verified sound evidence
+**Archive parent:** SVD-001 Classic Overdrive - **Builder:** Crews Maniac Sound - **Catalog type:** Overdrive - **Identity:** Crews Maniac Sound's SVD-001, a dedicated bass-oriented overdrive.
+SVD-001 is a bass overdrive designed around a vintage amplifier-style response.
+Reverb and Effects Database references describe it as a unit with a broad EQ section, gain, mix, and volume controls, intended to add overdrive while retaining a solid low-frequency foundation.
+
+### Sources checked in this pass
+1. catalog/override source: https://reverb.com/ie/item/96932401-crews-maniac-sound-svd-001-classic-bass-overdrive-pedal
+2. catalog/override source: https://www.effectsdatabase.com/model/crews/svd001
+3. catalog/override source: https://www.crewsmaniacsound.com/

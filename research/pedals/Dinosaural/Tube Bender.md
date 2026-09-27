@@ -1,37 +1,39 @@
-# Dinosaural - Tube Bender
+# Dinosaural — Tube Bender
 
 ## PRP identity
+- **Archive parent:** Tube Bender
 - **Builder:** Dinosaural
-- **Pedal:** Tube Bender
 - **Catalog type:** Overdrive
-- **Identity:** Dan Coggins' Dinosaural Tube Bender.
+- **Identity:** Dinosaural's Tube Bender.
 
 ## What this pedal is
-Dinosaural was the solo operation founded by former Lovetone designer Dan Coggins. Effects Database records the Tube Bender as a Dinosaural overdrive released in the company's early production period.
+Dinosaural's Tube Bender is cataloged as an overdrive pedal.
 
-## History
-Effects Database's Dinosaural timeline records:
-- Founded **August 2002**.
-- **Tube Bender released late 2003.**
-- Dinosaural production ceased in **2007**.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
 
-## Circuit / controls
-The surviving indexed sources do not preserve a complete reliable control map or component list for the exact Tube Bender. The archive therefore records its identity and history without importing details from similarly named Tone Bender circuits.
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
 
 ## Sound
-No complete exact-model technical description was established in the indexed sources reviewed. No classic-circuit attribution is added from the product name alone.
-
-## Research confidence
-- **Identity:** High.
-- **Late-2003 release:** High.
-- **Production ending 2007:** High.
-- **Exact controls/components:** Unknown.
-- **Tone lineage:** Unresolved.
+**Builder:** Dinosaural - **Pedal:** Tube Bender - **Catalog type:** Overdrive - **Identity:** Dan Coggins' Dinosaural Tube Bender.
+Effects Database records the Tube Bender as a Dinosaural overdrive released in the company's early production period.
+The archive therefore records its identity and history without importing details from similarly named Tone Bender circuits.
 
 ## Sources checked
-1. Effects Database - Dinosaural: https://www.effectsdatabase.com/model/dinosaural
-2. MusicRadar - Historic hardware: Lovetone pedals: https://www.musicradar.com/news/historic-hardware-lovetone-pedals
+1. catalog/override source: https://www.effectsdatabase.com/model/dinosaural
+2. Historic hardware: Lovetone pedals | MusicRadar: https://www.musicradar.com/news/historic-hardware-lovetone-pedals
 
 ## Photo
-- **Archive status:** **Exact Photo Pending**
-- No local canonical image has been archived in this pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

@@ -34,3 +34,26 @@ The CJOD belongs to the dynamic, transparent-to-medium-gain Tube Screamer/Landgr
 ## Sources checked
 1. La Révolution Deux — Clay Jones OD circuit analysis: https://revolutiondeux.blogspot.com/2008/03/clay-jones-od-grandlaff-dynamic.html
 2. Madbean forum — CJOD circuit reproduction discussion: https://www.madbeanpedals.com/forum/index.php?topic=26387.0
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Clay Jones's CJOD Overdrive is cataloged as an overdrive pedal.
+
+### Verified color/finish evidence
+- **Archive parent:** CJOD Overdrive - **Builder:** Clay Jones - **Catalog type:** Overdrive - **Identity:** Clay Jones Overdrive, a Landgraff Dynamic Overdrive / Tube Screamer-derived circuit associated with the OPA2134 and red LED clipping arrangement.
+- A published teardown/schematic discussion identifies an **OPA2134 Burr-Brown op-amp** and **5mm red LED clippers**.
+- The checked historical sources do not establish a complete factory colorway sequence.
+
+### Verified diode terms
+- LED, LEDs.
+
+### Verified sound evidence
+**Archive parent:** CJOD Overdrive - **Builder:** Clay Jones - **Catalog type:** Overdrive - **Identity:** Clay Jones Overdrive, a Landgraff Dynamic Overdrive / Tube Screamer-derived circuit associated with the OPA2134 and red LED clipping arrangement.
+Historical circuit analysis identifies the original Clay Jones Overdrive as a close implementation of the Landgraff Dynamic Overdrive, itself a modified Tube Screamer 808-style circuit.
+The cited circuit analysis identifies the **OPA2134** dual op-amp as the principal active gain IC.
+
+### Sources checked in this pass
+1. catalog/override source: https://revolutiondeux.blogspot.com/2008/03/clay-jones-od-grandlaff-dynamic.html

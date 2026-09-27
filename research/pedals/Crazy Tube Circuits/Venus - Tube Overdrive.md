@@ -59,3 +59,24 @@ Venus is designed for thick, harmonically rich tube overdrive that can clean up 
 2. Guitar.com - Venus review
 3. Guitar World - Venus review
 4. Thomann - Venus
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Image: Adam Gasson Crazy Tube Circuits Venus – sounds Despite the ‘real tube overdrive’ moniker of the original unit, I’ve always felt like Tube Drivers should be best approached like fuzz pedals , they work great at imparting huge walls of gain on even the cleanest amp, yet are quite tricky to dial in.
+
+### Verified version references
+- The evidence references: revision.
+
+### Verified sound evidence
+Venus is Crazy Tube Circuits' compact real-tube overdrive inspired by the **BK Butler Tube Driver** family.
+It uses a dual-triode tube in a modern pedalboard-sized enclosure and adds a three-band EQ plus a bias control for a wider range of drive textures.
+**Gain / Drive:** amount of tube overdrive.
+
+### Sources checked in this pass
+1. Venus &mdash; Crazy Tube Circuits: https://crazytubecircuits.com/venus
+2. Crazy Tube Circuits Venus review – 2025’s must-have overdrive? | Guitar.com: https://guitar.com/reviews/effects-pedal/hands-on-crazy-tube-circuits-venus-review/
+3. Crazy Tube Circuits Venus review | Guitar World: https://www.guitarworld.com/gear/effects-pedals/crazy-tube-circuits-venus-review
+4. Crazy Tube Circuits Venus – United States: https://www.thomannmusic.com/crazy_tube_circuits_venus.htm

@@ -1,0 +1,41 @@
+{
+  "builder": "Ramble FX",
+  "pedal": "Kismet",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 4,
+  "sources": [
+    {
+      "url": "https://www.guitarchalk.com/ramble-fx-kismet-review/",
+      "title": "Ramble FX Kismet Distortion Review (bought & tested)",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.guitarchalk.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://reverb.com/item/11231374-ramble-fx-kismet-overdrive-distortion-pedal",
+      "title": "Ramble FX Kismet Overdrive & Distortion Pedal | Reverb",
+      "h1": "",
+      "excerpt": "",
+      "host": "reverb.com",
+      "source_kind": "reverb"
+    },
+    {
+      "url": "https://www.premierguitar.com/gear/ramble-fx-kismet-review",
+      "title": "Ramble FX Kismet Review - Premier Guitar",
+      "h1": "Ramble FX Kismet Review",
+      "excerpt": "Raven.config('https://6b64f5cc8af542cbb920e0238864390a@sentry.io/147999').install(); Ramble FX Kismet Review - Premier Guitar     Skip to content Search & Section Navigation Sign up Sign up Contact Shop Open Search Login Subscribe Site Navigation Reviews Guitars Amps Pedals Acoustic Bass News Videos Rig Rundowns Gear Demos Gear Roundups DIY Features Artists Gear Builder Profile Columns DIY Advice Gear Talk Lessons Beginner Intermediate Advanced CAGED Blues Rock Country Podcasts Shred With Shifty Wong Notes 100 Guitarists Win Digital Magazine <!-- User",
+      "host": "www.premierguitar.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://gearstrings.com/gear-reviews/ramble-fx-kismet-review",
+      "title": "Ramble Fx Kismet Review: In-Depth Analysis for Guitarists & Producers | GearStrings",
+      "h1": "Ramble Fx Kismet Review: In-Depth Analysis for Guitarists & Producers",
+      "excerpt": "Ramble Fx Kismet Review: In-Depth Analysis for Guitarists & Producers | GearStrings GEARSTRINGS Home Blog Categories Authors About Home / Blog / gear reviews gear reviews Ramble Fx Kismet Review: In-Depth Analysis for Guitarists & Producers By nina-harper June 15, 2026 Ramble Fx Kismet Review: A Thoughtful, Textural Modulation Engine \u2014 Not a Plug-and-Play Pedal The Ramble Fx Kismet is a dual-path, analog-digital hybrid modulation pedal designed for players who treat modulation as an expressive, evolving texture\u2014not just a chorus or vibrato effect. It sits between boutique stompbox simplicity and modular-level flexibility, offering deep control over phase, pitch, and time-based interactions without requiring external clocking or complex patching. For guitarists seeking organic, unpredictable motion in clean-to-moderately-driven tones\u2014and for producers integrating hardware into DAW-based workflows\u2014the Kismet delivers nuanced, musical results where many competitors default to repetition or sterility. This Ramble Fx Kismet review confirms its strength lies not in versatility across genres, but in focused, high-character modulation that rewards attentive playing and deliberate parameter sculpting. If you prioritize sonic depth over instant presets or tap-tempo convenience, the Kismet earns serious consideration. About Ramble Fx Kismet Review: Product Background Ramble Fx is a small US-based builder founded by engineer and musician Andrew Gower, known for hand-wired, low-volume pedals emphasizing analog signal paths and intentional digital control. The Kismet (released Q2 2022) emerged from Gower\u2019s dissatisfaction with conventional modulation pedals that either oversimplify (single-LFO, fixed waveforms) or overcomplicate (multi-engine, menu-diving units). Its design goal was explicit: create a dual modulation engine where two independent LFOs\u2014each with selectable waveform, rate, depth, and phase relationship\u2014interact with a third, shared \u201cmodulation multiplier\u201d stage to generate compound, interlocking motion. Unlike typical stereo chorus or dual-delay units, Kismet treats left and right channels not as mirrored signals but as complementary voices in a single modulated event. The name reflects this intention: a \u2018kismet\u2019 is a fated convergence\u2014here, of analog circuitry, digital timing precision, and player intent. First Impressions: Build Quality, Initial Setup, Design Unboxing reveals a compact 4.5\" \u00d7 3.75\" \u00d7 2\" enclosure machined from 1/8\" aluminum, bead-blasted and powder-coated in matte charcoal gray. All controls are recessed, tactile, C&K-style rotary pots with soft-touch rubber caps\u2014no cheap plastic shafts. The top panel hosts eight knobs, two footswitches (BYPASS and MODE), and three status LEDs (power, bypass, mode indicator). No display, no USB port, no mobile app. Power enters via standard 9V DC center-negative (2.1mm barrel); current draw is 120mA\u2014higher than average, confirming internal analog op-amp density and dual-path processing. Setup requires only a power supply and instrument cable. There is no firmware update process; calibration is factory-set and non-user-adjustable. The absence of expression input or MIDI is immediately apparent\u2014and intentional. Ramble Fx positions Kismet as a self-contained, hands-on tool, not a node in a larger system. That philosophy permeates every interaction: it feels like a precision instrument, not a consumer gadget. Detailed Specifications Below is a complete technical breakdown, contextualized for practical use: Signal Path: True bypass (relay-switched), analog dry path; wet path uses 24-bit/96kHz conversion only for LFO timing and multiplier math\u2014audio remains analog throughout both modulation engines. LFOs: Two independent analog-core LFOs (LFO A & B). Each offers triangle, sine, square, ramp-up, ramp-down, and sample-and-hold waveforms. Rate range: 0.01 Hz\u201320 Hz (sub-audio to fast vibrato). Depth: \u00b1100% (full polarity inversion possible). Modulation Multiplier: A voltage-controlled",
+      "host": "gearstrings.com",
+      "source_kind": "other"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}

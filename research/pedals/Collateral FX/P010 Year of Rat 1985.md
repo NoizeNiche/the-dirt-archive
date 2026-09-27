@@ -39,3 +39,21 @@ The manufacturer describes a range from light crunch through overdrive and disto
 
 ## Sources checked
 1. Collateral FX - P010 The Year of the Rat (1985): https://collateralfx.com/en/pedals/p010-the-year-of-the-rat-1985/
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Collateral FX's P010 Year of Rat 1985 is cataloged as a distortion / overdrive pedal.
+
+### Verified color/finish evidence
+- No complete factory colorway sequence was established.
+
+### Verified sound evidence
+In the signal path, some Whiteface units had tantalum capacitors instead of electrolytic capacitors, offering longer operation and a more balanced response in the highs.
+Like its original counterpart, the Year of the Rat offers a wide range of tones: its gain control ranges from a light crunch, through classic overdrive tones, distortion, to a Big Muff-esque fuzz, with the difference of a mid-voicing to stand out in the mix.
+The Filter control works opposite to the traditional tone control, cutting highs, and the more gain is added, the more necessary it becomes to close the control to regain clarity and note definition.
+
+### Sources checked in this pass
+1. P010 – The Year of the Rat (1985) – Collateral FX: https://collateralfx.com/en/pedals/p010-the-year-of-the-rat-1985/

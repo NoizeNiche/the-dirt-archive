@@ -36,3 +36,24 @@ The Mostortion-derived circuit is described as a low-to-medium-gain overdrive wi
 
 ## Sources checked
 1. Collateral FX - P029 Ring System Overdrive: https://collateralfx.com/br/pedais/p029-ring-system-overdrive/
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Collateral FX's P029 Ring System Overdrive/Distortion is cataloged as a distortion / overdrive pedal.
+
+### Verified color/finish evidence
+- No complete factory colorway sequence was established.
+
+### Verified version references
+- The evidence references: revision.
+
+### Verified sound evidence
+P029 - Ring System Overdrive - Collateral FX 5% DE DESCONTO VIA PIX EM TODO O SITE 5% OFF PIX
+Sobre nós Pedais Boost Buffer Chorus Compressor Distortion Fuzz Modulation Overdrive Preamp Vibe Vibrato Minha conta Depoimentos Pesquisar 0 Carregando conteúdo do carrinho...
+Carrinho 0 Alternar Menu Sobre nós Pedais Boost Buffer Chorus Compressor Distortion Fuzz Modulation Overdrive Preamp Vibe Vibrato Minha conta Depoimentos + + + P029 – Ring System Overdrive O Ring System Overdrive é uma réplica exata e limitada a 20 unidades do clássico Ibanez MT10 Mostortion.
+
+### Sources checked in this pass
+1. P029 - Ring System Overdrive - Collateral FX: https://collateralfx.com/br/pedais/p029-ring-system-overdrive/

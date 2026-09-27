@@ -1,0 +1,17 @@
+{
+  "builder": "Mid-Fi Electronics / Doug Tuttle",
+  "pedal": "Faulty Channel",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 1,
+  "sources": [
+    {
+      "url": "https://www.midfielectronics.com/",
+      "title": "Mid-Fi Electronics ::: The Home of Guitar Effects made by Doug Tuttle",
+      "h1": "Mid-Fi Electronics / Doug Tuttle \u2014 Faulty Channel",
+      "excerpt": "--> Mid-Fi Electronics ::: The Home of Guitar Effects made by Doug Tuttle HOME PEDALS PURCHASE Newest Creations: Wave Folder  CHECK IT OUT! Electric Yggdrasil  CHECK IT OUT! Rise/OverRun  CHECK IT OUT! Clari(not) -clean version-  CHECK IT OUT! Instagram LOAD MORE VIEW ALL all content &copy; 2026 Doug Tuttle Effects\n- **Builder:** Mid-Fi Electronics / Doug Tuttle\n- **Pedal:** Faulty Channel\n- **Catalog type:** Fuzz\n- **Research level:** Surface\n- **Deep research status:** Pending\n- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.\n\nThe Dirt Archive currently catalogs **Faulty Channel** by **Mid-Fi Electronics / Doug Tuttle** as a **Fuzz** pedal. This statement is limited to the archive\u2019s catalog classification. Deeper technical, historical, and sonic details remain pending verification.\n\n- Catalog source page on file: https://midfielectronics.com/\n\n- **Archive photo:** No verified local photo is currently archived.\n- Photo provenance and validation are handled separately from this surface research record.\n\n- **Status:** Pending\n- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive\u2019s research foreman.",
+      "host": "www.midfielectronics.com",
+      "source_kind": "catalog_verified"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}

@@ -37,3 +37,28 @@ ColdCraft positions Black Dynamite MkII as medium-gain, dynamic drive with extra
 1. Pedais & Efeitos — ColdCraft interview and 2013 lineup: https://pedaiseefeitos.com/entrevista/entrevista-coldcraft-effects/
 2. Effects Database — ColdCraft interview: https://www.effectsdatabase.com/interviews/brands/coldcraft
 3. Reverb — ColdCraft Black Dynamite MkII: https://reverb.com/en-bg/item/34585102-coldcraft-effects-black-dynamite-mkii
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+ColdCraft describes Black Dynamite MkII as a medium-gain dynamic overdrive designed around additional control of saturation, compression, and the mids entering the gain stages.
+
+### Verified color/finish evidence
+- **Archive parent:** Black Dynamite MkII - **Builder:** ColdCraft Effects - **Catalog type:** Overdrive - **Identity:** ColdCraft Effects Black Dynamite MkII, a medium-gain dynamic overdrive with dedicated saturation/compression controls and pre-gain mid shift.
+- ColdCraft describes Black Dynamite MkII as a medium-gain dynamic overdrive designed around additional control of saturation, compression, and the mids entering the gain stages.
+- A documented black enclosure example exists; no complete factory finish sequence was established.
+
+### Verified version references
+- The evidence references: MkII, mkii.
+
+### Verified sound evidence
+**Archive parent:** Black Dynamite MkII - **Builder:** ColdCraft Effects - **Catalog type:** Overdrive - **Identity:** ColdCraft Effects Black Dynamite MkII, a medium-gain dynamic overdrive with dedicated saturation/compression controls and pre-gain mid shift.
+ColdCraft describes Black Dynamite MkII as a medium-gain dynamic overdrive designed around additional control of saturation, compression, and the mids entering the gain stages.
+The model is documented with special controls for: - Saturation.
+
+### Sources checked in this pass
+1. catalog/override source: https://reverb.com/en-bg/item/34585102-coldcraft-effects-black-dynamite-mkii
+2. Entrevista: Coldcraft Effects! – Pedais e Efeitos: https://pedaiseefeitos.com/entrevista/entrevista-coldcraft-effects/
+3. [interview] ColdCraft Effects: Austin Ziltz | Effects Database: https://www.effectsdatabase.com/interviews/brands/coldcraft

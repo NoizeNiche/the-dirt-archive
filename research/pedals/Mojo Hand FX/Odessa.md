@@ -1,23 +1,45 @@
 # Mojo Hand FX — Odessa
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Odessa
 - **Builder:** Mojo Hand FX
-- **Pedal:** Odessa
 - **Catalog type:** Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Mojo Hand FX's Odessa.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Odessa** by **Mojo Hand FX** as a **Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Running on ~12mA from 9V center-negative power, the Odessa delivers dual-channel overdrive versatility in a 4.8" × 2.62" × 1.55" enclosure.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Documented terms in the verified sources: LED.
+- The archive records only the component information explicitly present in these sources.
+
+## Sound
+Both channels are completely independent and can be stacked for excellent high gain tones (Magpie into Rook).
+Each channel sports a 3-setting gain selector toggle, giving you a ton of tonal options.
+Odessa — Mojo Hand FX Overdrive Pedal
+
+## Sources checked
+1. Odessa - MojoHandFX: https://mojohandfx.com/odessa/
+2. Mojo Hand FX Odessa - Reverb: https://reverb.com/p/mojo-hand-fx-odessa
+3. Mojo Hand FX Odessa - What To Know & Where To Buy | Equipboard: https://equipboard.com/items/mojo-hand-fx-odessa
+4. Odessa — Mojo Hand FX Overdrive Pedal | PedalFilter | PedalFilter: https://pedalfilter.com/mojo-hand-fx/odessa
+5. Mojo Hand FX Odessa - Tonebox.com: https://www.tonebox.com/pedal/mojo-hand-fx-odessa
+6. Mojo Hand FX Odessa Dimensions, Specs & Details: https://www.stompboxgarden.com/gear/pedal/5004/mojo-hand-fx-odessa
+7. Odessa by Mojo Hand Fx | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/Mojo-Hand-Fx/Odessa/68982055/
+8. Mojo Hand FX Odessa - Dual Channel Overdrive | Effects Database: https://www.effectsdatabase.com/model/mojohand/odessa
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

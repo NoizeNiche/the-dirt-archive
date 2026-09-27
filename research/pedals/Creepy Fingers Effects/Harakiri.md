@@ -51,3 +51,27 @@ Harakiri is built for the large, searing and octave-rich character associated wi
 ## Photo
 - **Archive status:** No local photo archived in this research pass.
 - **Exact-model visual references checked:** Reverb Harakiri listings and retailer references.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Harakiri is Brad Davis's take on the Univox/Shin-ei Superfuzz family.
+
+### Verified color/finish evidence
+- Surviving examples include a white enclosure with red/orange graphics and a documented green-finish example.
+- Color/finish differences are treated as cosmetic variants unless a circuit change is explicitly documented.
+
+### Verified version references
+- The evidence references: revision.
+
+### Verified sound evidence
+**Archive parent:** Harakiri - **Builder:** Creepy Fingers Effects - **Catalog type:** Fuzz - **Identity:** Creepy Fingers Effects' Superfuzz-family fuzz, named in reference to the Univox Superfuzz's Japanese roots.
+The builder's own interview explains that the name refers to the circuit's Japanese roots, and surviving descriptions identify the pedal as a three-control Superfuzz-style fuzz with Volume, Scoop and Fuzz controls.
+Volume - Scoop - Fuzz - Superfuzz-family circuit - Handwired Creepy Fingers construction - Custom steel enclosure - True bypass switching - Scoop control used to alter midrange/filter emphasis A current or later reproduction run is not being inferred from used-market examples.
+
+### Sources checked in this pass
+1. catalog/override source: https://reverb.com/item/95574925-creepy-fingers-harakiri-fuzz-fy-6-superfuzz-red-sparkle
+2. catalog/override source: https://www.effectsdatabase.com/model/creepyfingers
+3. Creepy Fingers Effects | Guitar Effect Pedals by Brad Davis - Cottonwood Music Emporium: https://www.cottonwoodmusicemporium.com/collections/creepy-fingers-effects

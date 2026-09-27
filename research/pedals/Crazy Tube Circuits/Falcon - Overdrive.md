@@ -56,3 +56,24 @@ The Falcon is designed to move from dynamic low-gain breakup toward expressive t
 3. GuitarPlayer - Crazy Tube Circuits Falcon and Killer V Reviews
 4. Music Store - Falcon Classic Tweed/Brownface Overdrive
 5. Sound House - Crazy Tube Circuits Falcon
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Learn more Featured Deal Fender Custom Shop Madison '54 Telecaster Masterbuilt by Greg Fessler – save nearly $3,000 Claim News Crazy Tube Circuits introduces the Falcon An overdrive pedal modelled after two legendary amps.
+
+### Verified version references
+- The evidence references: revision.
+
+### Verified sound evidence
+**Builder:** Crazy Tube Circuits - **Catalog identity:** Falcon - Overdrive - **Catalog type:** Overdrive / Amp-in-a-Box - **Identity:** Exact Crazy Tube Circuits Falcon.
+Falcon is a JFET-based amp-in-a-box overdrive designed to recreate the behavior of two classic Fender amplifier circuits: the **1955 Tweed Deluxe / 5E3** and **1961 Brownface Princeton / 6G2**.
+**Volume:** controls the amount of gain/drive.
+
+### Sources checked in this pass
+1. catalog/override source: https://www.musicstore.com/en_OT/EUR/Crazy-Tube-Circuits-Falcon-Classic-Tweed-Brownface-Overdrive/art-GIT0064285-000
+2. Falcon &mdash; Crazy Tube Circuits: https://crazytubecircuits.com/falcon
+3. Crazy Tube Circuits introduces the Falcon | Guitar.com: https://guitar.com/news/crazy-tube-circuits-introduces-the-falcon/
+4. Crazy Tube Circuits Falcon and Killer V Reviews | GuitarPlayer: https://www.guitarplayer.com/reviews/crazy-tube-circuits-falcon-and-killer-v-reviews

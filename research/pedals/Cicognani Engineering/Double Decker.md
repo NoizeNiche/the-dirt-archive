@@ -30,3 +30,22 @@ The Double Decker is designed around British amplifier overdrive, with two chann
 ## Sources checked
 1. Soundgas — Gurus 1959 Double Decker historical overview: https://soundgas.com/blogs/blog/gurus-1959-double-decker-a-pedalboard-essential
 2. Cicognani Engineering / Speciale DD 1959 documentation: https://www.cicognani.eu/triple-decker/
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Historical documentation identifies the original 1959 Double Decker as a dual-channel overdrive designed by Guglielmo Cicognani for Gurus, with a circuit inspired by the classic British 1959 amplifier sound.
+
+### Verified color/finish evidence
+- The original Italian-built Double Decker is documented in a metal enclosure, but no complete factory colorway sequence was established in the checked sources.
+
+### Verified sound evidence
+Historical documentation identifies the original 1959 Double Decker as a dual-channel overdrive designed by Guglielmo Cicognani for Gurus, with a circuit inspired by the classic British 1959 amplifier sound.
+The original Double Decker is documented as a **two-channel** overdrive/preamplifier.
+Historical retailer documentation describes the channels as covering edge-of-breakup through higher-gain British lead sounds and supports use either into an amplifier or as a recording front end.
+
+### Sources checked in this pass
+1. Gurus 1959 Double Decker - A Pedalboard Essential &ndash; Soundgas: https://soundgas.com/blogs/blog/gurus-1959-double-decker-a-pedalboard-essential
+2. TRIPLE DECKER - Cicognani Engineering: https://www.cicognani.eu/triple-decker/

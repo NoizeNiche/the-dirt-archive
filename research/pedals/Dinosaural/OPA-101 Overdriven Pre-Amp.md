@@ -1,34 +1,39 @@
-# Dinosaural - OPA-101 Overdriven Pre-Amp
+# Dinosaural — OPA-101 Overdriven Pre-Amp
 
 ## PRP identity
+- **Archive parent:** OPA-101 Overdriven Pre-Amp
 - **Builder:** Dinosaural
-- **Pedal:** OPA-101 Overdriven Pre-Amp
-- **Catalog type:** Overdrive / Preamp
-- **Identity:** Dan Coggins Dinosaural OPA-101.
+- **Catalog type:** Overdrive
+- **Identity:** Dinosaural's OPA-101 Overdriven Pre-Amp.
 
 ## What this pedal is
-The OPA-101 was a smaller high-gain version of the Dinosaural Tube Bender developed by Dan Coggins after the Lovetone/Dinosaural production era. MusicRadar reports that the pedal launched in **2012**.
+Dinosaural's OPA-101 Overdriven Pre-Amp is cataloged as an overdrive pedal.
 
-## History
-- Launched in **2012**.
-- Discontinued in **2016** after a series of brief reruns.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
 
-## Circuit / controls
-The indexed sources identify it as a high-gain overdriven preamp but do not preserve a complete reliable control map or semiconductor list. The archive does not infer them from the Tube Bender.
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
 
 ## Sound
-The documented role is a smaller, higher-gain descendant of the Tube Bender concept.
-
-## Research confidence
-- **Identity:** High.
-- **High-gain Tube Bender relation:** High.
-- **2012 launch / 2016 discontinuation:** High.
-- **Exact controls/components:** Unknown.
+**Builder:** Dinosaural - **Pedal:** OPA-101 Overdriven Pre-Amp - **Catalog type:** Overdrive / Preamp - **Identity:** Dan Coggins Dinosaural OPA-101.
+The OPA-101 was a smaller high-gain version of the Dinosaural Tube Bender developed by Dan Coggins after the Lovetone/Dinosaural production era.
+The indexed sources identify it as a high-gain overdriven preamp but do not preserve a complete reliable control map or semiconductor list.
 
 ## Sources checked
-1. Effects Database - Dinosaural: https://www.effectsdatabase.com/model/dinosaural
-2. MusicRadar - Historic hardware: Lovetone pedals: https://www.musicradar.com/news/historic-hardware-lovetone-pedals
+1. catalog/override source: https://www.effectsdatabase.com/model/dinosaural
+2. Historic hardware: Lovetone pedals | MusicRadar: https://www.musicradar.com/news/historic-hardware-lovetone-pedals
 
 ## Photo
-- **Archive status:** **Exact Photo Pending**
-- No local canonical image has been archived in this pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

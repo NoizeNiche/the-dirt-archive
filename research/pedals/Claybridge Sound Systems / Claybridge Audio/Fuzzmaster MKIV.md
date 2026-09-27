@@ -34,3 +34,25 @@ The MKIV belongs to the raw, gate-capable Australian Fuzzmaster family. Tone Mac
 1. Tone Machines Blog — In Search of the Australian Fuzzmaster: https://www.tonemachinesblog.com/2023/01/in-search-of-the-australian-fuzzmaster.html
 2. Tone Machines Blog — Claybridge (pre) Fuzzmaster: https://www.tonemachinesblog.com/2024/03/claybridge-pre-fuzzmaster.html
 3. Freestompboxes — Claybridge Fuzzmaster MKIV schematic thread: https://www.freestompboxes.org/viewforum.php?f=19&start=75
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Claybridge Sound Systems / Claybridge Audio's Fuzzmaster MKIV is cataloged as a fuzz pedal.
+
+### Verified color/finish evidence
+- The small white knobs used on this "prototype" were also found on a legitimate v1 Fuzzmaster, in addition to appearing on the original Fuzzmaster ads!
+- A rare gold-looking example is discussed by Tone Machines as probably having been repainted, so it is not treated as a verified original factory finish.
+
+### Verified version references
+- The evidence references: MKIV, v1.
+
+### Verified sound evidence
+Tone Machines Blog: Claybridge (pre) Fuzzmaster!
+Contact Me The Super Fuzz Page Monday, March 11, 2024 Claybridge (pre) Fuzzmaster!
+☟ Last month I received an email asking about a mysterious little fuzz box that had made its way into an Australian guitar shop.
+
+### Sources checked in this pass
+1. Tone Machines Blog: Claybridge (pre) Fuzzmaster!: https://www.tonemachinesblog.com/2024/03/claybridge-pre-fuzzmaster.html
