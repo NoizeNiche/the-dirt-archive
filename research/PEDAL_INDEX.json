@@ -1,5 +1,5 @@
 {
-  "version": "data-20260927-historical-census-sweep-07e",
+  "version": "data-20260927-historical-census-sweep-07f",
   "count": 4242,
   "pedals": [
     {
@@ -6847,8 +6847,8 @@
       "image": null,
       "source_page": "https://www.guitarpedalx.com/news/best-of-british-pedal-builders-roundup---an-a-z-overview-in-105-parts",
       "research_record": "./research/pedals/Bad Penny FX/Nerd Fuzz + Boost.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Bad Penny FX",
@@ -6859,8 +6859,8 @@
       "image": null,
       "source_page": "https://www.guitarpedalx.com/news/best-of-british-pedal-builders-roundup---an-a-z-overview-in-105-parts",
       "research_record": "./research/pedals/Bad Penny FX/Old Fuzz Mini.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Bad Penny FX",
@@ -6872,8 +6872,8 @@
       "image": null,
       "source_page": "https://www.guitarpedalx.com/news/best-of-british-pedal-builders-roundup---an-a-z-overview-in-105-parts",
       "research_record": "./research/pedals/Bad Penny FX/Quagswag Fuzz Boost.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Bad Penny FX",
