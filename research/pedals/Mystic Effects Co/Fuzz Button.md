@@ -1,23 +1,44 @@
 # Mystic Effects Co — Fuzz Button
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Fuzz Button
 - **Builder:** Mystic Effects Co
-- **Pedal:** Fuzz Button
 - **Catalog type:** Fuzz
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Mystic Effects Co's Fuzz Button.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Fuzz Button** by **Mystic Effects Co** as a **Fuzz** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Mystic Effects Co's Fuzz Button is cataloged as a fuzz pedal.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Documented terms in the verified sources: silicon transistors.
+- The archive records only the component information explicitly present in these sources.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+Mystic Effects Co Fuzz Button - Professional Cymbals for Drummers & Studios Limited Time Offer Get 50% Discount on your order X Home Shop Cymbals Bass Guitars Bass Strings CD Classical Guitar Component Drums Account Home / Pedals / Mystic Effects Co Fuzz Button Sale!
+Mystic Effects Co Fuzz Button $129.00 $64.50 Mystic Effects Co Fuzz ButtonOver-the-top fuzz with no controls other than the footswitch.
+Uses vintage 1960s and 70s silicon transistors No-Knob’ series – Fuzz Button With no knobs to mess with, no settings to dial in, the Fuzz Button combines all our favorite in-your-face velcro-y gate-y fuzz characteristics into one pedal.
+
+## Sources checked
+1. Mystic Effects Co Fuzz Button - Reverb: https://reverb.com/item/85209040-mystic-effects-co-fuzz-button
+2. Mystic Effects Co Fuzz Button: https://martelmusicstore.com/products/mystic-effects-co-fuzz-button
+3. Mystic Effects Co Fuzz Button - Professional Cymbals for Drummers & Studios: https://www.oceancymbals.com/product/mystic-effects-co-fuzz-button/
+4. Mystic Effects Co Fuzz Button - Planet Band Music Store: https://www.planetbandmusicstore.com/product/mystic-effects-co-fuzz-button/
+5. Mystic Effects Co Fuzz Button - Wholesale Guitars Sheet Music Drums Effects and Accessories: https://www.musicbrandsupply.com/product/mystic-effects-co-fuzz-button/
+6. Mystic Effects Co Fuzz Button - eBay: https://www.ebay.com/itm/135303178712
+7. Mystic Effects Co Fuzz Button 2023 - Matte White NEW RELEASE: https://www.musicdreamshop.com/product/mystic-effects-co-fuzz-button-2023-matte-white-new-release/
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

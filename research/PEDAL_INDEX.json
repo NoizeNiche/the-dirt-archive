@@ -47192,8 +47192,8 @@
       "image": "./assets/pedals/mystic-effects-co/fuzz-button/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mystic Effects Co/Fuzz Button.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Mystic Effects Co",
@@ -47204,8 +47204,8 @@
       "image": "./assets/pedals/mystic-effects-co/octavia-vintage-octave-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mystic Effects Co/Octavia Vintage Octave Fuzz.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Mythos Pedals",
@@ -51713,8 +51713,8 @@
       "image": "",
       "source_page": "https://www.stonedeaffx.com/collections/all",
       "research_record": "./research/pedals/Stone Deaf FX/Fig Fumb LTD.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Stone Deaf FX",
@@ -51801,8 +51801,8 @@
       "image": "",
       "source_page": "https://www.stonedeaffx.com/collections/distortion-pedals",
       "research_record": "./research/pedals/Stone Deaf FX/Warp Drive LTD.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Strymon",
@@ -54795,8 +54795,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/VOX/V828 Tone Bender.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "VOX",

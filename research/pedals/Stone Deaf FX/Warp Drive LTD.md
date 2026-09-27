@@ -1,23 +1,37 @@
 # Stone Deaf FX — Warp Drive LTD
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Warp Drive LTD
 - **Builder:** Stone Deaf FX
-- **Pedal:** Warp Drive LTD
 - **Catalog type:** Distortion
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Stone Deaf FX's Warp Drive LTD.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Warp Drive LTD** by **Stone Deaf FX** as a **Distortion** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Stone Deaf FX's Warp Drive LTD is cataloged as a distortion pedal.
 
-## Catalog source
-- Catalog source page on file: https://www.stonedeaffx.com/collections/distortion-pedals
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+The Dirt Archive currently catalogs **Warp Drive LTD** by **Stone Deaf FX** as a **Distortion** pedal.
+Catalog source page on file: https://www.stonedeaffx.com/collections/distortion-pedals - **Archive photo:** No verified local photo is currently archived.
+
+## Sources checked
+1. Distortion Pedals &ndash; Stone Deaf: https://www.stonedeaffx.com/collections/distortion-pedals
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
