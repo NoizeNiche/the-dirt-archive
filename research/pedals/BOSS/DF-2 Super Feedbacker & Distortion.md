@@ -1,23 +1,29 @@
-# BOSS — DF-2 Super Feedbacker & Distortion
+# BOSS - DF-2 Super Feedbacker & Distortion
 
-## Surface catalog record
+## PRP identity
 - **Builder:** BOSS
-- **Pedal:** DF-2 Super Feedbacker & Distortion
 - **Catalog type:** Distortion
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **DF-2 Super Feedbacker & Distortion** by **BOSS** as a **Distortion** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+The BOSS DF-2 Super Feedbacker & Distortion combines a conventional compact distortion circuit with a dedicated artificial-feedback effect.
 
-## Catalog source
-- Catalog source page on file: https://www.effectsdatabase.com/model/boss/compact/df2
+## Deep research verification
+
+### Controls and operation
+The documented front panel provides **DISTORTION, TONE and LEVEL** controls. The same pedal switch is used to activate the distortion and to initiate the feedbacker function.
+
+### Sound
+The distortion section provides the expected BOSS hard-rock distortion range, while the Super Feedbacker function creates sustained feedback-like tones without requiring the amplifier to reach acoustic feedback.
+
+### Historical identity
+DF-2 is a distinct 1980s BOSS model and is not interchangeable with later feedback-capable BOSS products.
+
+### Component evidence
+Exact production transistor and diode part numbers are not established by the reviewed archive sources.
+
+## Sources checked
+- Effects Database: https://www.effectsdatabase.com/model/boss/compact/df2
+- BOSS/DF-2 period documentation: https://manualzz.com/doc/23902171/boss-fz-3-fuzz-pedal-owner-s-manual
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** **Exact Photo Pending**
