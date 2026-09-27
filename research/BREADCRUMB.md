@@ -618,3 +618,8 @@ The canonical Builder Master Index now records the retired labels as observed al
 The canonical builder master uses **BIXONIC** for builder ID 014. The active catalog was carrying the same builder as **Bixonic**. Because the builder master already defines the canonical identity and there were no competing BIXONIC catalog records, this was normalized as a spelling-only builder identity correction.
 
 Five existing Bixonic pedal records were reassigned to **BIXONIC** without removing any pedal models: Axentrix A1, Axentrix II, EXP2000 Expandora, EXP2000DR Clean & Drive, and EXP2001 Expandora II. Their research files and photo/manifest identity keys were updated to match the canonical builder spelling.
+
+
+## Builder alias deduplication checkpoint - September 27, 2026 — Mid-Fi Electronics
+
+The catalog carried **Mid-Fi Electronics / Doug Tuttle** beside the canonical **Mid-Fi Electronics** builder. All 18 alias-side pedal identities exactly matched canonical Mid-Fi pedal identities, while the canonical builder also has a separate **Overdrive** record. The alias-side 18 records were therefore retired, the canonical builder now records the longer label as an observed alias, and the duplicate manifest/tracker/research records were removed.

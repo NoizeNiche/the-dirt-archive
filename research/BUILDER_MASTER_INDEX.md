@@ -87,7 +87,7 @@ This is the canonical builder identity list for the active **Builder -> Pedals**
 | 061 | McGregor Pedals | 056 |  |
 | 062 | MESA/Boogie | 078 |  |
 | 063 | MI Audio / MI Effects | 052 |  |
-| 064 | Mid-Fi Electronics | 091 |  |
+| 064 | Mid-Fi Electronics | 091 | Mid-Fi Electronics / Doug Tuttle |
 | 065 | Mojo Hand FX | 059 |  |
 | 066 | MOOER Audio / MOOER | 086 | MOOER Audio |
 | 067 | Mr. Black | 110 |  |
