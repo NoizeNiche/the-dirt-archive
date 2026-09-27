@@ -12048,8 +12048,8 @@
       "image_source_page_verified": true,
       "image_source_priority": 385,
       "image_source_url": "https://ameaudio.com.au/cdn/shop/files/cranberry-overdrive-03-6609388c94755.webp?v=1711881925&width=1000",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "BJFE / BJF Electronics",
@@ -12198,8 +12198,8 @@
       "research_record": "./research/pedals/PRP Batch 093/Mighty Red Distortion (MRD).md",
       "image_source_url": "http://www.bjfe.jp/cdn/shop/files/Mighty-Red-Dist-01.png?v=1722400866",
       "image_source_page": "https://www.bjfe.jp/products/bjfemrd",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "BJFE / BJF Electronics",

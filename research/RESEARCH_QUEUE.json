@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-27T09:47:41.809597+00:00",
+  "generated_at": "2026-09-27T09:49:44.247804+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,8 +10,8 @@
     "pictured": 3123,
     "complete": 3123,
     "research_pending": 0,
-    "deep_research_pending": 1988,
-    "deep_researched": 2254,
+    "deep_research_pending": 1986,
+    "deep_researched": 2256,
     "surface_ready": 4242
   },
   "next_target": {
@@ -69,20 +69,6 @@
       "pedal": "Arctic Light Fuzz",
       "catalog_type": "",
       "research_record": "./research/pedals/BJFE / BJF Electronics/Arctic Light Fuzz.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "BJFE / BJF Electronics",
-      "pedal": "Cranberry Over Drive",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 092/Cranberry Over Drive.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "BJFE / BJF Electronics",
-      "pedal": "Mighty Red Distortion (MRD)",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 093/Mighty Red Distortion (MRD).md",
       "research_level": "surface"
     },
     {
@@ -195,6 +181,20 @@
       "pedal": "Tres Diablos Ruidosos",
       "catalog_type": "",
       "research_record": "./research/pedals/PRP Batch 096/Tres Diablos Ruidosos.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Black Arts Toneworks",
+      "pedal": "Witch Burner MkII",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 096/Witch Burner MkII.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Black CAT Amps",
+      "pedal": "DJENTTONIC",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 096/DJENTTONIC.md",
       "research_level": "surface"
     }
   ]
