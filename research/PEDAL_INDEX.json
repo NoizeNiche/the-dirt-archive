@@ -26433,8 +26433,8 @@
       "image": "./assets/pedals/compulsive-audio/dimed-boogie/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Compulsive Audio/Dimed Boogie.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Compulsive Audio",
@@ -35176,8 +35176,8 @@
       "image": "./assets/pedals/electro-harmonix/green-russian-big-muff-pi/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Electro-Harmonix/Green Russian Big Muff Pi.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Electro-Harmonix",
@@ -35669,8 +35669,8 @@
       "image": "./assets/pedals/electronic-audio-experiments/limelight/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Electronic Audio Experiments/Limelight.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Electronic Audio Experiments",
@@ -43882,8 +43882,8 @@
       "image": "./assets/pedals/maxon/fuzz-elements-void-fv10/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Maxon/Fuzz Elements Void (FV10).md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Maxon",
@@ -44187,8 +44187,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Maxon/RTD800.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Maxon",
@@ -45062,8 +45062,8 @@
       "image": "./assets/pedals/menatone/red-snapper-4-knob-ptp/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Menatone/Red Snapper 4 Knob PTP.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Menatone",
@@ -45075,8 +45075,8 @@
       "image": "./assets/pedals/menatone/red-snapper-mini/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Menatone/Red Snapper Mini.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Menatone",
@@ -45932,8 +45932,8 @@
       "image": "./assets/pedals/mojo-hand-fx/crosstown/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mojo Hand FX/Crosstown.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Mojo Hand FX",
@@ -49934,8 +49934,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Revv Amplification/G2.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Revv Amplification",
@@ -54064,8 +54064,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/VFE Pedals/Tiamat.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "VFE Pedals",
@@ -56460,8 +56460,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Wren and Cuff/Eye See '78.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Wren and Cuff",

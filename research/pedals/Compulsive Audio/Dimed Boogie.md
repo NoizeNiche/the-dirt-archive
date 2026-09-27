@@ -43,3 +43,24 @@ Effects Database's Compulsive Audio catalog entry provides the exact model ident
 ## Sources checked
 1. Effects Database - Compulsive Audio: John De Luca interview: https://www.effectsdatabase.com/interviews/brands/compulsive
 2. Effects Database - Compulsive Audio weekly catalog introduction: https://www.effectsdatabase.com/blog/discofreq?page=104
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+**Builder:** Compulsive Audio - **Catalog identity:** Dimed Boogie - **Catalog type:** Distortion - **Identity:** Discontinued high-gain distortion designed by John De Luca as Compulsive Audio's first dedicated Heavy Metal pedal.
+
+### Verified color/finish evidence
+- No reliable production colorway history was established.
+
+### Verified version references
+- The evidence references: V1, V2, revision.
+
+### Verified sound evidence
+**Builder:** Compulsive Audio - **Catalog identity:** Dimed Boogie - **Catalog type:** Distortion - **Identity:** Discontinued high-gain distortion designed by John De Luca as Compulsive Audio's first dedicated Heavy Metal pedal.
+Effects Database's 2010 brand introduction separately lists the Dimed Boogie Distortion as one of Compulsive Audio's initial cataloged effects.
+The only strongly documented design target is heavy-metal distortion.
+
+### Sources checked in this pass
+1. catalog/override source: https://www.effectsdatabase.com/interviews/brands/compulsive

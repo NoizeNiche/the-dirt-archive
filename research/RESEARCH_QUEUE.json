@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-27T11:29:42.693559+00:00",
+  "generated_at": "2026-09-27T11:31:17.428442+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,8 +10,8 @@
     "pictured": 3140,
     "complete": 3140,
     "research_pending": 0,
-    "deep_research_pending": 816,
-    "deep_researched": 3426,
+    "deep_research_pending": 805,
+    "deep_researched": 3437,
     "surface_ready": 4242
   },
   "next_target": {
@@ -142,13 +142,6 @@
       "research_level": "surface"
     },
     {
-      "builder": "Compulsive Audio",
-      "pedal": "Dimed Boogie",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Compulsive Audio/Dimed Boogie.md",
-      "research_level": "surface"
-    },
-    {
       "builder": "CopperSound Pedals",
       "pedal": "Foxcatcher - Overdrive & Boost",
       "catalog_type": "",
@@ -195,6 +188,13 @@
       "pedal": "Fab Tone / FAB Tone Distortion",
       "catalog_type": "",
       "research_record": "./research/pedals/Danelectro/Fab Tone / FAB Tone Distortion.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Daredevil Pedals",
+      "pedal": "L.S.D",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Daredevil Pedals/L.S.D.md",
       "research_level": "surface"
     }
   ]
