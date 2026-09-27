@@ -52,3 +52,7 @@ The result is a pedal intended for moving, phase-shifted fuzz textures rather th
 1. Effects Database — CBS-Arbiter Fuzz Phazer: https://www.effectsdatabase.com/model/arbiter/cbs/fuzzphazer
 2. Effects Database — CBS-Arbiter family: https://www.effectsdatabase.com/model/arbiter/cbs
 3. Effects Database — Electronic Sounds UFO Fuzz Phazer: https://www.effectsdatabase.com/model/electronicsounds/garyhurst/ufo/fuzzphazer
+
+## Deep research verification
+
+Effects Database documents CBS-Arbiter Fuzz Phazer as a plastic-enclosure combined fuzz/phaser in the Gary Hurst/Electronic Sounds lineage. Verified controls are **Treadle, Fuzz, Volume and Intensity**. The treadle controls LFO rate and Intensity controls phasing depth. Related Electronic Sounds and UFO versions are treated as lineage, not automatic CBS-Arbiter revisions.
