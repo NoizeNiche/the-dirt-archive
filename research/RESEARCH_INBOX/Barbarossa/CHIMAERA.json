@@ -1,0 +1,27 @@
+{
+  "builder": "Barbarossa",
+  "pedal": "CHIMAERA",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 2,
+  "sources": [
+    {
+      "url": "https://www.ikebe-gakki.com/Form/Product/ProductDetail.aspx?bid=ec&cat=efx001001002&pid=856325&shop=0",
+      "title": "BARBAROSSA CHIMAERA - Ikebe",
+      "h1": "BARBAROSSA CHIMAERA",
+      "excerpt": "Model: Modern Over Drive. Control: Level / Tone / Drive. Power: DC9V center-negative. Wiring: Point to Point Circuit Board. Case: Aluminum Cutting. Color: Bordeaux Red. Surface finish: Matte Treatment. Other: Cryogenic Processing.",
+      "host": "www.ikebe-gakki.com",
+      "source_kind": "catalog_verified",
+      "identity_match": true
+    },
+    {
+      "url": "https://ubilliquitous.hatenablog.com/entry/2020/10/20/121825",
+      "title": "Barbarossa Chimaera review",
+      "h1": "Barbarossa Chimaera レビュー",
+      "excerpt": "Exact-model review identifies controls as Volume, Tone and Gain, notes the 2008 launch, machined aluminum enclosure and hand-wired construction, and describes substantial Volume boost, wide Gain range and practical cleanup from guitar-volume changes.",
+      "host": "ubilliquitous.hatenablog.com",
+      "source_kind": "review",
+      "identity_match": true
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}
