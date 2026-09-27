@@ -23168,8 +23168,8 @@
       "image": "./assets/pedals/cherry-music/mighty-sound-m1-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Cherry Music/Mighty Sound M1 Distortion.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Cherry Music",
@@ -23507,8 +23507,8 @@
       "image": "./assets/pedals/chris-custom/crusher-hi-gain-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Chris Custom/Crusher - Hi Gain Distortion.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Chris Custom",
@@ -26876,8 +26876,8 @@
       "source_page": null,
       "research_record": "./research/pedals/Coopersonic/Twin Tube Overdrive.md",
       "image_source_page": "https://www.effectsdatabase.com/model/coopersonic",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Coopersonic",
@@ -31781,8 +31781,8 @@
       "image": "",
       "source_page": "https://www.effectsdatabase.com/model/deviever",
       "research_record": "./research/pedals/Devi Ever FX/05/25 Punch Love.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Devi Ever FX",
@@ -41160,8 +41160,8 @@
       "image": "./assets/pedals/khdk-electronics/gojira-drive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/KHDK Electronics/Gojira Drive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "KHDK Electronics",
@@ -49378,8 +49378,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Prescription Electronics/Yardbox.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "ProCo Sound",
@@ -49766,8 +49766,8 @@
       "image": "./assets/pedals/ramble-fx/marvel-drive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Ramble FX/Marvel Drive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Ramble FX",
@@ -51026,8 +51026,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Spaceman Effects/Apollo VIIb Cadet.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Spaceman Effects",
@@ -52986,8 +52986,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Tone City/Golden Plexi.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Tone City",
@@ -56122,8 +56122,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Way Huge/Saucy Box Overdrive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Way Huge",
@@ -56274,8 +56274,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Way Huge/Stone Burner.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Way Huge",

@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-27T11:18:18.456511+00:00",
+  "generated_at": "2026-09-27T11:20:01.782000+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,8 +10,8 @@
     "pictured": 3140,
     "complete": 3140,
     "research_pending": 0,
-    "deep_research_pending": 1075,
-    "deep_researched": 3167,
+    "deep_research_pending": 1064,
+    "deep_researched": 3178,
     "surface_ready": 4242
   },
   "next_target": {
@@ -90,20 +90,6 @@
       "pedal": "Deface Mk.III",
       "catalog_type": "",
       "research_record": "./research/pedals/PRP Batch 161/catastrofx-deface-mkiii.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Cherry Music",
-      "pedal": "Mighty Sound M1 Distortion",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Cherry Music/Mighty Sound M1 Distortion.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Chris Custom",
-      "pedal": "Crusher - Hi Gain Distortion",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Chris Custom/Crusher - Hi Gain Distortion.md",
       "research_level": "surface"
     },
     {
@@ -195,6 +181,20 @@
       "pedal": "Black Shuck OD/Distortion",
       "catalog_type": "",
       "research_record": "./research/pedals/ColdCraft Effects/Black Shuck OD Distortion.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "ColdCraft Effects",
+      "pedal": "Fiesta Fuzz Mini",
+      "catalog_type": "",
+      "research_record": "./research/pedals/ColdCraft Effects/Fiesta Fuzz Mini.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "ColdCraft Effects",
+      "pedal": "Fusion Fuzz",
+      "catalog_type": "",
+      "research_record": "./research/pedals/ColdCraft Effects/Fusion Fuzz.md",
       "research_level": "surface"
     }
   ]

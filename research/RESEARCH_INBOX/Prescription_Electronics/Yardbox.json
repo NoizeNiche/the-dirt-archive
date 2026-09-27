@@ -1,0 +1,65 @@
+{
+  "builder": "Prescription Electronics",
+  "pedal": "Yardbox",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 7,
+  "sources": [
+    {
+      "url": "https://equipboard.com/items/prescription-electronics-yardbox-90-s-usa-fuzz",
+      "title": "Prescription Electronics The Yardbox \u2014 Fuzz Pedal | Equipboard",
+      "h1": "",
+      "excerpt": "",
+      "host": "equipboard.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://www.premierguitar.com/gear/prescription-electronics-yardbox-review",
+      "title": "Prescription Electronics Yardbox Review - Premier Guitar",
+      "h1": "Prescription Electronics Yardbox Review",
+      "excerpt": "Raven.config('https://6b64f5cc8af542cbb920e0238864390a@sentry.io/147999').install(); Prescription Electronics Yardbox Review - Premier Guitar     Skip to content Search & Section Navigation Sign up Sign up Contact Shop Open Search Login Subscribe Site Navigation Reviews Guitars Amps Pedals Acoustic Bass News Videos Rig Rundowns Gear Demos Gear Roundups DIY Features Artists Gear Builder Profile Columns DIY Advice Gear Talk Lessons Beginner Intermediate Advanced CAGED Blues Rock Country Podcasts Shred With Shifty Wong Notes 100 Guitarists <div",
+      "host": "www.premierguitar.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://reverb.com/item/93841534-prescription-electronics-yardbox-black-serial-2120-brad-whitford-of-aerosmith",
+      "title": "Prescription Electronics Yardbox - Black Serial #2120 (Brad | Reverb",
+      "h1": "",
+      "excerpt": "",
+      "host": "reverb.com",
+      "source_kind": "reverb"
+    },
+    {
+      "url": "https://gearstrings.com/gear-reviews/prescription-electronics-yardbox-review",
+      "title": "Prescription Electronics Yardbox Review: Honest Deep-Dive Analysis | GearStrings",
+      "h1": "Prescription Electronics Yardbox Review: Honest Deep-Dive Analysis",
+      "excerpt": "Prescription Electronics Yardbox Review: Honest Deep-Dive Analysis | GearStrings GEARSTRINGS Home Blog Categories Authors About Home / Blog / gear reviews gear reviews Prescription Electronics Yardbox Review: Honest Deep-Dive Analysis By marcus-reeve June 17, 2026 Prescription Electronics Yardbox Review: A Precision Dual-Channel Overdrive/Distortion Pedal for Tone-Conscious Guitarists The Prescription Electronics Yardbox is a dual-channel analog overdrive/distortion pedal designed for players who demand tonal precision, low-noise headroom, and independent channel voicing \u2014 not just stacking or preset switching. After six weeks of studio tracking, live gigging across three venues, and daily practice sessions with Stratocaster, Telecaster, and Les Paul setups, it delivers consistent performance where clarity, touch sensitivity, and dynamic response matter most. This Prescription Electronics Yardbox review details its real-world behavior: how it interacts with tube amps (especially non-master-volume Fenders and Marshalls), whether its gain staging suits rhythm-to-lead transitions without tone-sucking, and how its discrete circuitry compares to digital multi-effects or hybrid pedals like the Wampler Dual Fusion or JHS Double Barrel. If you need two distinct, noise-free overdrives that preserve pick attack and low-end integrity \u2014 not just two flavors of the same distortion \u2014 the Yardbox warrants serious consideration. About Prescription Electronics Yardbox Review: Product Background Prescription Electronics is a small-batch U.S.-based boutique pedal manufacturer founded in Portland, Oregon, by engineer and guitarist Dan Hines. Known for minimalist, component-level transparency and hand-wired or high-density PCB construction, the company avoids DSP-based designs and prioritizes analog signal paths with discrete transistors and op-amps. The Yardbox debuted in late 2021 as a successor to their earlier single-channel Yard (a modified Tube Screamer variant) but evolved into a fully independent dual-channel platform. Unlike many dual-drive pedals that share core topology or rely on buffered bypass for channel switching, the Yardbox uses true-bypass switching per channel and separate clipping stages, power regulation, and output buffering \u2014 effectively functioning as two discrete pedals in one enclosure. Its design goal was explicit: eliminate cross-talk, maintain headroom at unity gain, and allow each channel to occupy its own harmonic space without frequency masking or compression bleed. First Impressions: Build Quality, Initial Setup, Design Unboxing reveals a compact 4.75\" \u00d7 3.75\" \u00d7 1.75\" aluminum enclosure with matte black anodized finish and laser-etched labeling. The chassis feels dense and rigid \u2014 no flex or panel warping \u2014 and the knobs are CTS 24mm pots with smooth, detented taper. The footswitches are heavy-duty, momentary-style (not latching), with bright blue LEDs indicating active channel status. No battery option exists: only 9V DC center-negative input (2.1mm barrel), and the manual specifies a regulated supply \u2014 unregulated adapters may cause subtle noise or instability. Setup requires no calibration or firmware updates; simply plug in, set both channels to noon, and adjust input level to match your guitar\u2019s output. There\u2019s no expression input, MIDI, or USB \u2014 a deliberate omission aligning with Prescription\u2019s \u2018signal-first\u2019 philosophy. The layout is intuitive: left side controls Channel A (Drive, Tone, Level), right side Channel B (same), plus a central toggle for mode selection (Normal/Bright) and a global Input Level knob shared by both circuits. Detailed Specifications Below is a complete specification breakdown, contextualized for practical use: Power: 9V DC, center-negative, regulated supply recommended (min. 150mA draw) Input Impedance: 1M\u03a9 (matches passive pickups without loading) Output Impedance: 500\u03a9 (low enough to drive long cable runs without tone loss) Circuit Type: Discrete Class-A transistor front-end + dua",
+      "host": "gearstrings.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://www.effectsdatabase.com/model/prescription/yardbox",
+      "title": "Prescription Electronics Yardbox - Effects Database",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.effectsdatabase.com",
+      "source_kind": "effects_database"
+    },
+    {
+      "url": "https://www.rockboard.de/en/pedalPedia/Prescription-Electronics-Inc/Yardbox/701701389/",
+      "title": "Yardbox by Prescription Electronics Inc. | RockBoard | PedalPedia",
+      "h1": "Yardbox",
+      "excerpt": "Yardbox by Prescription Electronics Inc. | RockBoard | PedalPedia Skip to main content LOG IN EXPLORE Prescription Electronics Inc. Yardbox LOG IN TO SUGGEST IMPROVEMENTS Media Videos Demo by Groundwire Podcast (EN) Demo by 1800gottone (EN) Reviews Review by reddit /guitarpedals (EN) Review by Premier Guitar (EN) Technical data Width 000.00 mm Depth 000.00 mm Height 000.00 mm Circuit type analog Voltage 9V DC, center negative More pedals from Prescription Electronics Inc. FUZZ OCTAVER FUZZ OCTAVER Prescription Electronics Inc. Experience Fuzz FUZZ OCTAVER FUZZ OCTAVER Prescription Electronics Inc. COB Clean Octave Blend OVERDRIVE OVERDRIVE Prescription Electronics Inc. Rx Overdriver All Prescription Electronics Inc. Pedals Products Pedalboards All-In-One Patchbays QuickMount PedalSafe Power Supplies and Power Cables and Connections Accessories Gear Build your own board Board Configurator PedalPedia Pedalboard Gallery QuickMount Finder Services Find a dealer Find a distributor Frequently Asked Questions Contact Current catalog News Community RockBoard Artists Achievements Your Activity Overview \u00a92026 Warwick GmbH & Co. Music Equipment KG GTC | Imprint | Privacy policy | Accessibility | Cookie Settings",
+      "host": "www.rockboard.de",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://guitaristguild.com/index.php?topic=1641.0",
+      "title": "Review - Prescription Electronics Yardbox Review",
+      "h1": "",
+      "excerpt": "Review - Prescription Electronics Yardbox Review Welcome to Guitarist Guild: A Musical Community Beyond Strings . Log in Sign up   Entire forum This topic This board Members September 27, 2026, 11:19:13 AM Main Menu Main Menu Home Forum Links Gear-Reviews-Articles Gear Shop Downloads Search TinyPortal Downloads Members View the memberlist Search for Members Guitarist Guild: A Musical Community Beyond Strings \u25ba Forum \u25ba Gear Discussion \u25ba Guitar Gear & Equipment Reviews \u25ba Review - Prescription Electronics Yardbox Review R\u00d8DE NT1 Signature Series... by Mick [June 23, 2026, 07:43:49 PM] Amazon Prime Day 2026 by Mick [June 23, 2026, 06:55:45 PM] Dunlop Lemon Oil by Mick [March 27, 2026, 01:43:55 PM] Harley Benton AirBorne 2.4Ghz... by Mick [March 26, 2026, 02:40:40 PM] TONEX Plug is the ultimate... by Mick [November 08, 2025, 04:37:26 PM] Guitar Strap Giveaway: Win... by italiastraps [September 26, 2025, 05:08:27 PM] Singer-Songwriters say Hello... by GalvinHoelzl [September 01, 2025, 08:18:14 PM] Shure SM58 Quality Bundle by Mick [August 05, 2025, 01:22:48 PM] Focusrite Scarlett 2i2 4th... by Mick [August 05, 2025, 11:51:15 AM] What's Next?! - The Plan After... by Mick [July 02, 2025, 05:39:13 PM] Members Total Members: 346 Latest: Emma Johnson Stats Total Posts: 4,311 Total Topics: 1,715 Online today: 467 Online ever: 6,733 (July 31, 2026, 06:07:41 PM) Users Online Users: 0 Guests: 272 Total: 272 D'Addario Guitar Strings - XL Nickel Electric Guitar Strings - EXL110-3D - Perfect Intonation, Consistent Feel, Reliable Durability - For 6 String Guitars - 10-46 Regular Light, 3-Pack Buy Now Shure SM58-LC Cardioid Dynamic Vocal Microphone with Pneumatic Shock Mount, Spherical Mesh Grille with Built-in Pop Filter, A25D Mic Clip, Storage Bag, 3-pin XLR Connector View at Amazon LEKATO 2.4GHz Guitar Wireless System 8Hs Runtime Wireless Guitar Transmitter Receiver Rechargeable Digital Guitar System Cordless Electric Guitar Cable Lead For Guitars Bass(WS80) View at Amazon Review - Prescription Electronics Yardbox Review Started by Mick, October 27, 2019, 12:39:20 PM Previous topic - Next topic 0 Members and 1 Guest are viewing this topic. Print Go Down Pages 1 User actions Mick Administrator Hero Member Posts: 1,614 Site Owner Location: Essex UK Logged Review - Prescription Electronics Yardbox Review October 27, 2019, 12:39:20 PM Prescription Electronics Yardbox Review Prescription reanimates their beastly take on the legendary Tone Bender MkII. Source: Prescription Electronics Yardbox Review Thank You, &quot;Guest&quot; For Reading This Post. Guitarist Guild Camera Craniums TGMF My Linktree Print Go Up Pages 1 User actions Guitarist Guild: A Musical Community Beyond Strings \u25ba Forum \u25ba Gear Discussion \u25ba Guitar Gear & Equipment Reviews \u25ba Review - Prescription Electronics Yardbox Review User actions Print This website is proudly hosted on Crocweb Cloud Website Hosting. Guitarist Guild is a participant in the Amazon EU Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to guitaristguild.com TinyPortal | Help | Terms and Rules | Go Up \u25b2 SMF 2.1.7 &copy; 2026 , Simple Machines",
+      "host": "guitaristguild.com",
+      "source_kind": "other"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}

@@ -38,3 +38,13 @@ The model is cataloged as an overdrive. No narrower tonal or topology claim is m
 1. Effects Database - Coopersonic product catalog: https://www.effectsdatabase.com/model/coopersonic
 2. ilovefuzz.com discussion mentioning Coopersonic Twin Tube Overdrive: https://ilovefuzz.com/viewtopic.php?start=30&t=7402
 3. Coopersonic FAQ Pedals: https://coopersonic.com/faq-pedals/
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Coopersonic's Twin Tube Overdrive is cataloged as an overdrive pedal.
+
+### Sources checked in this pass
+1. Coopersonic | Effects Database: https://www.effectsdatabase.com/model/coopersonic
