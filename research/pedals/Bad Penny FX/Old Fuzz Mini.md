@@ -1,30 +1,42 @@
 # Bad Penny FX - Old Fuzz Mini
 
 ## PRP identity
+- **Archive parent:** Old Fuzz Mini
 - **Builder:** Bad Penny FX
 - **Catalog type:** Fuzz
-- **Identity:** Old Fuzz Mini, a historical Bad Penny FX fuzz.
+- **Identity:** A historical Bad Penny FX fuzz pedal.
 
 ## What this pedal is
-Old Fuzz Mini is explicitly listed in Bad Penny FX's retired product range as a separate fuzz product.
+Guitar Pedal X's 2023 British pedal-builder survey explicitly lists **Old Fuzz Mini** in Bad Penny FX's range. The archive retains it because discontinued products are part of the historical census.
+
+## Builder / historical context
+Guitar Pedal X places Bad Penny FX in Newhaven, East Sussex, dates the builder from 2017 until retirement, and describes its generally distinctive wood-framed effects. That description is builder-level context and is not used to infer exact Old Fuzz Mini construction.
 
 ## Controls / circuit
-Exact controls, circuit topology, semiconductors and power specification were not reliably recovered in this pass.
+- Exact control layout was not reliably recovered.
+- Exact circuit topology was not reliably recovered.
+- **Exact transistor/device:** Unknown.
+- **Exact clipping/diode device:** Unknown.
+- **Exact power requirement:** Unknown.
 
 ## Sound
-The surviving catalog evidence establishes the fuzz role but does not preserve dependable model-specific tonal detail.
+The evidence establishes the fuzz identity but does not preserve enough exact model-specific information for a responsible detailed tonal summary.
 
-## History
-Bad Penny FX was active from 2017 until retirement. The archive includes Old Fuzz Mini because discontinued products are part of the historical census.
+## Versions and factory options
+- No distinct factory revision or documented variant was verified.
+- No exact colorway was verified.
 
 ## Research confidence
 - **Identity:** High.
 - **Fuzz classification:** High.
 - **Technical details:** Unknown.
+- **Sound description:** Insufficient exact-model evidence.
 
 ## Sources checked
-1. Guitar Pedal X - Best of British Pedal Builders: https://www.guitarpedalx.com/news/best-of-british-pedal-builders-roundup---an-a-z-overview-in-105-parts
+1. Guitar Pedal X - Best of British Pedal Builders Roundup: https://www.guitarpedalx.com/news/best-of-british-pedal-builders-roundup---an-a-z-overview-in-105-parts
+2. Boost Guitar Pedals - Bad Penny FX collection: https://www.boostguitarpedals.co.uk/collections/bad-penny-fx
+3. Gear Hero - Bad Penny FX collection: https://gearhero.com/collections/bad-penny-fx
 
 ## Photo
 - **Archive status:** **Exact Photo Pending**
-- No local canonical image was promoted in this pass.
+- No exact Old Fuzz Mini photo was verified in this pass.
