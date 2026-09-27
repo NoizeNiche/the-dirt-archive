@@ -3,39 +3,53 @@
 ## PRP identity
 - **Archive parent:** Royal Fuzz
 - **Builder:** CKK Electronic
-- **Catalog type:** Fuzz
-- **Identity:** CKK Electronic Royal Fuzz, an analog fuzz/distortion with selectable FET or diode clipping and a mid-boost switch.
+- **Catalog type:** Fuzz / Distortion
+- **Identity:** Analog fuzz/distortion with selectable FET or diode clipping and a mid-boost switch. [1][2]
 
-## What this pedal is
-RockBoard documents Royal Fuzz as an analog fuzz/distortion with a two-way style selection between FET and diode clipping plus a mid-boost switch. [1]
+## Controls
+- **VOLUME**
+- **TONE**
+- **SUSTAIN / FUZZ**
+- **FET / DIODE** clipping selector.
+- **MID BOOST** selector. [1][2]
 
-A Brett Kingman demo describes a Volume, Tone, and Sustain/Fuzz control layout and the same FET-versus-diode clipping switch and mid boost. [2]
-
-## Colorways
-The checked exact-model sources do not establish a complete factory colorway sequence.
-
-## Versions and factory options
-Documented:
-- Volume.
-- Tone.
-- Sustain/Fuzz.
-- FET / diode clipping selector.
-- Mid-boost selector.
-- 9V DC center-negative.
-- Approx. 10 mA current draw. [1][2]
-
-## Version changes
-No reliable numbered factory revision history was established.
+## Circuit architecture
+- Analog fuzz/distortion.
+- One clipping mode uses a **FET** as the clipping element.
+- The alternate mode uses **diodes**.
+- Mid Boost adds a more forward voice without requiring a large output-level change. [1][2]
 
 ## Transistor
-The pedal explicitly offers a **FET transistor clipping mode**. Exact FET part number was not established. [2]
+- **FET clipping mode:** exact FET part number is not established.
+- The product does not document a universal transistor BOM beyond the FET clipping function.
 
-## Diode
-The alternate clipping mode explicitly uses **diodes**. Exact diode part number was not established. [2]
+## Diode / clipping
+- **Diode clipping mode:** exact diode part number is not established. [2]
+
+## Power
+- **9V DC center-negative**.
+- Approximately **10 mA** current draw. [1][2]
+
+## Version history
+- No reliable numbered factory electronic revision established.
 
 ## Sound
-Royal Fuzz is designed between classic fuzz and smoother distortion. The low-end side retains thick fuzz character while the distortion-like side emphasizes higher frequencies, and the mid-boost switch adds additional focus without removing the low end. [1][2]
+Royal Fuzz moves between thicker classic-fuzz response and smoother/higher-frequency distortion depending on the FET/diode clipping selection. Mid Boost adds focus while retaining low-end weight. [1][2]
+
+## Research confidence
+- **Identity:** High
+- **FET/diode clipping selector:** High
+- **Mid Boost:** High
+- **9V / 10mA:** High
+- **Exact FET:** Unknown
+- **Exact diode:** Unknown
+
+## Deep research verification
+RockBoard PedalPedia and Brett Kingman's exact-model demonstration were cross-checked. Both document the FET-versus-diode clipping concept, three main controls and Mid Boost, while the exact semiconductor part numbers remain unresolved. [1][2]
 
 ## Sources checked
-1. RockBoard PedalPedia — CKK Electronic Royal Fuzz: https://www.rockboard.de/en/pedalPedia/Ckk-Electronic/Royal-Fuzz/68976775/
-2. Brett Kingman — CKK Electronic Royal Fuzz demo: https://www.youtube.com/watch?v=4LEBQlAC94Q
+1. RockBoard PedalPedia — CKK Royal Fuzz: https://www.rockboard.de/en/pedalPedia/Ckk-Electronic/Royal-Fuzz/68976775/
+2. Brett Kingman — CKK Royal Fuzz demo: https://www.youtube.com/watch?v=4LEBQlAC94Q
+
+## Photo
+- Exact-model photo status is handled separately.
