@@ -22,4 +22,4 @@ The Dirt Archive currently catalogs **Cliff Hanger II** by **BJFE / BJF Electron
 - **Status:** Pending
 - Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
 ## Deep research verification
-BJFE Japan's current product page confirms Cliff Hanger II as a high-gain distortion with thick low-mid through top-end response and controlled low end. Verified controls are **Volume, Dist., Tone**. It runs from 8-12V centre-negative DC adapter or 9V battery. The builder describes strong note penetration under high gain and good response to guitar-volume cleanup. citeturn133725search1
+BJFE Japan's current product page confirms Cliff Hanger II as a high-gain distortion with thick low-mid through top-end response and controlled low end. Verified controls are **Volume, Dist., Tone**. It runs from 8-12V centre-negative DC adapter or 9V battery. The builder describes strong note penetration under high gain and good response to guitar-volume cleanup.
