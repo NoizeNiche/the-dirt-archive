@@ -24860,10 +24860,10 @@
         "Fuzz"
       ],
       "image": "./assets/pedals/coffin-gear-coffin-case/batula-fuzz/primary.webp",
-      "source_page": null,
+      "source_page": "https://www.effectsdatabase.com/model/coffin/batula",
       "research_record": "./research/pedals/Coffin Gear / Coffin Case/Batula Fuzz.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Coffin Gear / Coffin Case",
@@ -29133,10 +29133,10 @@
         "Overdrive"
       ],
       "image": "./assets/pedals/critically-overdriven/e-o-d/primary.webp",
-      "source_page": null,
+      "source_page": "https://www.effectsdatabase.com/model/criticallyoverdriven/eod",
       "research_record": "./research/pedals/Critically Overdriven/E.O.D.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Critter Electronics",
