@@ -1,6 +1,6 @@
 {
   "version": "data-20260924-prp1-cbs-arbiter-fuzz-phazer-direct-lead",
-  "count": 4195,
+  "count": 4205,
   "pedals": [
     {
       "company": "1981 Inventions",
@@ -127,6 +127,42 @@
       "image_source_page": "https://www.long-mcquade.com/143448/Guitars/Guitar-Effects/6-Degrees-FX/Amplitude-ELEVEN-Overdrive-Pedal.htm",
       "research_level": "deep",
       "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "6 Degrees FX",
+      "pedal": "Hyper Catalyst",
+      "types": [
+        "Overdrive"
+      ],
+      "image": null,
+      "source_page": "https://www.effectsdatabase.com/type/overdrive/pedal",
+      "research_record": "./research/pedals/6 Degrees FX/Hyper Catalyst.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "6 Degrees FX",
+      "pedal": "Rodeo Drive",
+      "types": [
+        "Overdrive"
+      ],
+      "image": null,
+      "source_page": "https://www.effectsdatabase.com/type/overdrive/pedal",
+      "research_record": "./research/pedals/6 Degrees FX/Rodeo Drive.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "6 Degrees FX",
+      "pedal": "Sally Drive",
+      "types": [
+        "Overdrive"
+      ],
+      "image": null,
+      "source_page": "https://www.effectsdatabase.com/type/overdrive/pedal",
+      "research_record": "./research/pedals/6 Degrees FX/Sally Drive.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
     },
     {
       "company": "A Sound Of Failure",
@@ -7678,6 +7714,45 @@
       "image_source_page": "https://en.audiofanzine.com/other-guitar-saturation-effect/barge-concepts/BP-1/",
       "research_level": "deep",
       "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "Barge Concepts",
+      "pedal": "DB-1 Dual Boost",
+      "types": [
+        "Overdrive",
+        "Distortion"
+      ],
+      "image": null,
+      "source_page": "https://www.effectsdatabase.com/model/bargeconcepts/db1",
+      "research_record": "./research/pedals/Barge Concepts/DB-1 Dual Boost.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Barge Concepts",
+      "pedal": "DB-2 Dual Boost",
+      "types": [
+        "Overdrive",
+        "Distortion"
+      ],
+      "image": null,
+      "source_page": "https://www.effectsdatabase.com/model/bargeconcepts/db2",
+      "research_record": "./research/pedals/Barge Concepts/DB-2 Dual Boost.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Barge Concepts",
+      "pedal": "DB-3 Dual Boost",
+      "types": [
+        "Overdrive",
+        "Distortion"
+      ],
+      "image": null,
+      "source_page": "https://www.effectsdatabase.com/model/bargeconcepts/db3",
+      "research_record": "./research/pedals/Barge Concepts/DB-3 Dual Boost.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
     },
     {
       "company": "Baroni Lab",
@@ -56611,6 +56686,56 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/tubeworks",
       "research_record": "./research/pedals/Tube Works/911 Tube Driver.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Dinosaural",
+      "pedal": "Cogmeister",
+      "types": [
+        "Overdrive",
+        "Boost"
+      ],
+      "image": null,
+      "source_page": "https://www.effectsdatabase.com/model/dinosaural",
+      "research_record": "./research/pedals/Dinosaural/Cogmeister.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Dinosaural",
+      "pedal": "Hypoid Drive",
+      "types": [
+        "Overdrive",
+        "Distortion"
+      ],
+      "image": null,
+      "source_page": "https://www.effectsdatabase.com/model/dinosaural",
+      "research_record": "./research/pedals/Dinosaural/Hypoid Drive.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Dinosaural",
+      "pedal": "OPA-101 Overdriven Pre-Amp",
+      "types": [
+        "Overdrive"
+      ],
+      "image": null,
+      "source_page": "https://www.effectsdatabase.com/model/dinosaural",
+      "research_record": "./research/pedals/Dinosaural/OPA-101 Overdriven Pre-Amp.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Dinosaural",
+      "pedal": "Tube Bender",
+      "types": [
+        "Overdrive"
+      ],
+      "image": null,
+      "source_page": "https://www.effectsdatabase.com/model/dinosaural",
+      "research_record": "./research/pedals/Dinosaural/Tube Bender.md",
       "research_level": "surface",
       "deep_research_status": "PENDING"
     }
