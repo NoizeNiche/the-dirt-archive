@@ -1,53 +1,45 @@
 # DOD Electronics — FX55C Supra Distortion
 
-## PRP identity
-- **Archive parent:** FX55C Supra Distortion
+## Surface catalog record
 - **Builder:** DOD Electronics
+- **Pedal:** FX55C Supra Distortion
 - **Catalog type:** Distortion
-- **Identity:** DOD Electronics's FX55C Supra Distortion.
+- **Research level:** Deep
+- **Deep research status:** Verified identity and taxonomy
+- **Identity basis:** DOD's preserved product-manual index explicitly lists FX55C as **Supra Distortion**. Historical DOD catalog reconciliation treats FX55C as a distinct later FX55 state rather than collapsing the suffix into an unspecified FX55 family.
 
 ## What this pedal is
-eBay Home Shop by category All Categories Search Advanced breadcrumb eBay Books, Movies Music Musical Instruments Gear Guitars Basses Parts Accessories Books, Movies Music Musical Instruments Gear Guitars Basses Parts Accessories Effects Pedals Distortion Overdrive CURRENTLY SOLD OUT DOD Electronics Fx55c Supra Distortion Overdrive Guitar Effect Pedal About this product About this product Product Identifiers Brand DOD MPN FX55CSUPRADISTORTION eBay Product ID (ePID) 8032018868 Product Key Features Analog/Digital Analog To Fit Electric Guitar, Bass Guitar, Acoustic Electric Guitar Type Distortion Model FX55-C Show More Show Less More items related to this product Vintage DOD FX55C Supra Distortion Guitar Effect Pedal item 1 Vintage DOD FX55C Supra Distortion Guitar Effect Pedal $35.00 +$10.00 shipping Vintage DOD FX55-B Supra Distortion Guitar Effect Pedal USA item 2 Vintage DOD FX55-B Supra Distortion Guitar Effect Pedal USA $50.00 +$15.00 shipping DOD Digitech FX55C Supra Distortion Rare Vintage Guitar Effect Pedal item 3 DOD Digitech FX55C Supra Distortion Rare Vintage Guitar Effect Pedal $35.00 Vintage DOD FX55C Supra Distortion Guitar Effect Pedal item 4 Vintage DOD FX55C Supra Distortion Guitar Effect Pedal $39.00 +$16.00 shipping DOD FX 55C Supra Distortion Guitar Effects Pedal Red Vintage item 5 DOD FX 55C Supra Distortion Guitar Effects Pedal Red Vintage $53.99 +$11.99 shipping DOD FX55 Distortion Electric Guitar Effect Foot Pedal USA Tested working item 6 DOD FX55 Distortion Electric Guitar Effect Foot Pedal USA Tested working $28.00 DOD FX55B SUPRA Distortion Guitar Pedal - Vintage - works item 7 DOD FX55B SUPRA Distortion Guitar Pedal - Vintage - works $24.00 Vintage DOD FX50-B Overdrive Plus Guitar Effect Pedal item 8 Vintage DOD FX50-B Overdrive Plus Guitar Effect Pedal $59.99 Free shipping Best Selling in Distortion Overdrive See all ProCo RAT 2 Distortion Effect Pedal (146) $55.99 New $55.99 New $48.50 Used $48.50 Used Boss BD-2 Guitar Effect Pedal (151) $104.00 New $104.00 New $89.99 Used $89.99 Used Ibanez TS9 Tube Screamer - Green (207) $28.00 New $28.00 New ---- Used No used products available Boss SD-1 Super Overdrive Guitar Effect Pedal (200) $27.00 New $27.00 New ---- Used No used products available Maxon ST-9 PRO+ Super Tube Guitar Overdrive (17) $181.38 New $181.38 New ---- Used No used products available Boss DS-1 Electric Guitar Distortion Effect Pedal (374) $62.00 New $62.00 New $49.99 Used $49.99 Used Donner EC966 Effect Pedal (32) $65.43 New $65.43 New $34.50 Used $34.50 Used Save on Distortion Overdrive Trending price is based on prices over last 90 days.
+The **DOD FX55C Supra Distortion** is a historical DOD FX-series distortion pedal. The manufacturer's preserved manual index identifies the exact FX55C model and its product name, providing strong model-level identity evidence. [1]
 
-## Colorways
-- eBay Home Shop by category All Categories Search Advanced breadcrumb eBay Books, Movies Music Musical Instruments Gear Guitars Basses Parts Accessories Books, Movies Music Musical Instruments Gear Guitars Basses Parts Accessories Effects Pedals Distortion Overdrive CURRENTLY SOLD OUT DOD Electronics Fx55c Supra Distortion Overdrive Guitar Effect Pedal About this product About this product Product Identifiers Brand DOD MPN FX55CSUPRADISTORTION eBay Product ID (ePID) 8032018868 Product Key Features Analog/Digital Analog To Fit Electric Guitar, Bass Guitar, Acoustic Electric Guitar Type Distortion Model FX55-C Show More Show Less More items related to this product Vintage DOD FX55C Supra Distortion Guitar Effect Pedal item 1 Vintage DOD FX55C Supra Distortion Guitar Effect Pedal $35.00 +$10.00 shipping Vintage DOD FX55-B Supra Distortion Guitar Effect Pedal USA item 2 Vintage DOD FX55-B Supra Distortion Guitar Effect Pedal USA $50.00 +$15.00 shipping DOD Digitech FX55C Supra Distortion Rare Vintage Guitar Effect Pedal item 3 DOD Digitech FX55C Supra Distortion Rare Vintage Guitar Effect Pedal $35.00 Vintage DOD FX55C Supra Distortion Guitar Effect Pedal item 4 Vintage DOD FX55C Supra Distortion Guitar Effect Pedal $39.00 +$16.00 shipping DOD FX 55C Supra Distortion Guitar Effects Pedal Red Vintage item 5 DOD FX 55C Supra Distortion Guitar Effects Pedal Red Vintage $53.99 +$11.99 shipping DOD FX55 Distortion Electric Guitar Effect Foot Pedal USA Tested working item 6 DOD FX55 Distortion Electric Guitar Effect Foot Pedal USA Tested working $28.00 DOD FX55B SUPRA Distortion Guitar Pedal - Vintage - works item 7 DOD FX55B SUPRA Distortion Guitar Pedal - Vintage - works $24.00 Vintage DOD FX50-B Overdrive Plus Guitar Effect Pedal item 8 Vintage DOD FX50-B Overdrive Plus Guitar Effect Pedal $59.99 Free shipping Best Selling in Distortion Overdrive See all ProCo RAT 2 Distortion Effect Pedal (146) $55.99 New $55.99 New $48.50 Used $48.50 Used Boss BD-2 Guitar Effect Pedal (151) $104.00 New $104.00 New $89.99 Used $89.99 Used Ibanez TS9 Tube Screamer - Green (207) $28.00 New $28.00 New ---- Used No used products available Boss SD-1 Super Overdrive Guitar Effect Pedal (200) $27.00 New $27.00 New ---- Used No used products available Maxon ST-9 PRO+ Super Tube Guitar Overdrive (17) $181.38 New $181.38 New ---- Used No used products available Boss DS-1 Electric Guitar Distortion Effect Pedal (374) $62.00 New $62.00 New $49.99 Used $49.99 Used Donner EC966 Effect Pedal (32) $65.43 New $65.43 New $34.50 Used $34.50 Used Save on Distortion Overdrive Trending price is based on prices over last 90 days.
+The archive classifies the record as **Distortion**, following the explicit product name rather than trying to infer taxonomy from gain range or circuit similarity. DOD's historical reconciliation also keeps FX55C separate from other numbered FX-series distortion models. [1][2]
 
-## Versions and factory options
-- No distinct factory revision was established in the verified evidence packet.
+## Historical and version context
+DOD's historical reconciliation identifies **FX55C** as a distinct later state of the Supra Distortion family and notes that FX55B/FX55C suffix changes should not automatically be expanded into independent dirt models unless the manufacturer treats them as distinct functional products. [2]
 
-## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+This means the archive preserves the exact **FX55C** identity while avoiding an invented chronology of every minor hardware change.
 
-## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
-- **Exact transistor/device:** Unknown.
+## What is established versus pending
+Established with high confidence:
+- DOD Electronics is the builder.
+- FX55C is the exact model designation.
+- Supra Distortion is the documented product name.
+- The archive dirt taxonomy is Distortion.
 
-## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
-- **Exact part:** Unknown.
+Not established by the reviewed evidence:
+- a complete factory production-date range,
+- a universal component BOM,
+- a complete numbered circuit-revision history,
+- a definitive factory colorway sequence.
 
-## Sound
-DOD Electronics Fx55c Supra Distortion Overdrive Guitar Effect Pedal for sale online | eBay Skip to main content Hi !
-eBay Home Shop by category All Categories Search Advanced breadcrumb eBay Books, Movies Music Musical Instruments Gear Guitars Basses Parts Accessories Books, Movies Music Musical Instruments Gear Guitars Basses Parts Accessories Effects Pedals Distortion Overdrive CURRENTLY SOLD OUT DOD Electronics Fx55c Supra Distortion Overdrive Guitar Effect Pedal About this product About this product Product Identifiers Brand DOD MPN FX55CSUPRADISTORTION eBay Product ID (ePID) 8032018868 Product Key Features Analog/Digital Analog To Fit Electric Guitar, Bass Guitar, Acoustic Electric Guitar Type Distortion Model FX55-C Show More Show Less More items related to this product Vintage DOD FX55C Supra Distortion Guitar Effect Pedal item 1 Vintage DOD FX55C Supra Distortion Guitar Effect Pedal $35.00 +$10.00 shipping Vintage DOD FX55-B Supra Distortion Guitar Effect Pedal USA item 2 Vintage DOD FX55-B Supra Distortion Guitar Effect Pedal USA $50.00 +$15.00 shipping DOD Digitech FX55C Supra Distortion Rare Vintage Guitar Effect Pedal item 3 DOD Digitech FX55C Supra Distortion Rare Vintage Guitar Effect Pedal $35.00 Vintage DOD FX55C Supra Distortion Guitar Effect Pedal item 4 Vintage DOD FX55C Supra Distortion Guitar Effect Pedal $39.00 +$16.00 shipping DOD FX 55C Supra Distortion Guitar Effects Pedal Red Vintage item 5 DOD FX 55C Supra Distortion Guitar Effects Pedal Red Vintage $53.99 +$11.99 shipping DOD FX55 Distortion Electric Guitar Effect Foot Pedal USA Tested working item 6 DOD FX55 Distortion Electric Guitar Effect Foot Pedal USA Tested working $28.00 DOD FX55B SUPRA Distortion Guitar Pedal - Vintage - works item 7 DOD FX55B SUPRA Distortion Guitar Pedal - Vintage - works $24.00 Vintage DOD FX50-B Overdrive Plus Guitar Effect Pedal item 8 Vintage DOD FX50-B Overdrive Plus Guitar Effect Pedal $59.99 Free shipping Best Selling in Distortion Overdrive See all ProCo RAT 2 Distortion Effect Pedal (146) $55.99 New $55.99 New $48.50 Used $48.50 Used Boss BD-2 Guitar Effect Pedal (151) $104.00 New $104.00 New $89.99 Used $89.99 Used Ibanez TS9 Tube Screamer - Green (207) $28.00 New $28.00 New ---- Used No used products available Boss SD-1 Super Overdrive Guitar Effect Pedal (200) $27.00 New $27.00 New ---- Used No used products available Maxon ST-9 PRO+ Super Tube Guitar Overdrive (17) $181.38 New $181.38 New ---- Used No used products available Boss DS-1 Electric Guitar Distortion Effect Pedal (374) $62.00 New $62.00 New $49.99 Used $49.99 Used Donner EC966 Effect Pedal (32) $65.43 New $65.43 New $34.50 Used $34.50 Used Save on Distortion Overdrive Trending price is based on prices over last 90 days.
-New Boss SD-1 Super Overdrive Guitar Effects Pedal $59.99 Trending at $69.98 Boss DS-1 Distortion Guitar Effect Pedal Tested Working $56.00 Trending at $64.98 Vemuram Shanks ODS-1 Overdrive New from Japan $362.94 Trending at $403.23 TC Electronic SPARK BOOSTER Awesome Booster Pedal with Gain Control and Active $85.00 Trending at $105.28 JHS The AT+ Andy Timmons Overdrive/Boost + Gator 9V Power Combo 3 Patch Cables $219.00 Trending at $227.18 MXR EVH 5150 Overdrive Guitar Effects Pedal Dunlop Eddie Van Halen - New $189.99 Trending at $212.32 Copyright © 1995-2026 eBay Inc.
-
-## Sources checked
-1. DOD Electronics Fx55c Supra Distortion Overdrive Guitar Effect Pedal for sale online | eBay: https://www.ebay.com/p/8032018868
-2. DOD FX55C Supra Distortion Instruction Manual - Manuals+: https://manuals.plus/dod/fx55c-supra-distortion-manual
+Those details remain open rather than being inferred from other FX55 versions.
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive photo:** No verified local photo is currently archived for the FX55C.
+- External reference photographs are not treated as archive-local images until separately admitted by the photo workflow.
 
-## Deep research verification
+## Research evidence
+**Sources checked:**
+1. https://digitech.com/product-manuals/ — official DOD/DigiTech manual index explicitly listing FX55C Supra Distortion.
+2. Internal DOD historical reconciliation, Block 072, which separates FX55C as a later FX55 state and preserves conservative historical handling.
 
-This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
-
-### Verified description
-DOD Electronics's FX55C Supra Distortion is cataloged as a distortion pedal.
-
-### Verified sound evidence
-DOD Electronics Fx55c Supra Distortion Overdrive Guitar Effect Pedal for sale online
-
-### Sources checked in this pass
-1. DOD Electronics Fx55c Supra Distortion Overdrive Guitar Effect Pedal for sale online | eBay: https://www.ebay.com/p/8032018868
-2. DOD FX55C Supra Distortion Instruction Manual - Manuals+: https://manuals.plus/dod/fx55c-supra-distortion-manual
+**Research confidence:** High for exact model identity and taxonomy; moderate for version history because the reviewed evidence does not establish a complete factory revision chronology.
