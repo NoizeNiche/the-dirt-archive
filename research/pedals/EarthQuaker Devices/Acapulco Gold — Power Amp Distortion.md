@@ -1,39 +1,31 @@
-# EarthQuaker Devices — Acapulco Gold — Power Amp Distortion
+# EarthQuaker Devices — Acapulco Gold - Power Amp Distortion
 
-## PRP identity
-- **Archive parent:** Acapulco Gold — Power Amp Distortion
+## Surface catalog record
 - **Builder:** EarthQuaker Devices
+- **Pedal:** Acapulco Gold - Power Amp Distortion
 - **Catalog type:** Distortion / Overdrive
-- **Identity:** EarthQuaker Devices's Acapulco Gold — Power Amp Distortion.
+- **Research level:** Deep
+- **Deep research status:** Identity/alias audit
+- **Identity basis:** The expanded name appears on EarthQuaker Devices' own Acapulco Gold product page. The archive also contains a separate **Acapulco Gold** record, so the two labels should be treated as a likely same-model naming relationship pending catalog reconciliation.
 
-## What this pedal is
-EarthQuaker Devices's Acapulco Gold — Power Amp Distortion is cataloged as a distortion / overdrive pedal.
+## Identity finding
+EarthQuaker Devices' product page uses **Acapulco Gold Power Amp Distortion** as the expanded product name for Acapulco Gold. [1]
 
-## Colorways
-- No specific factory colorway information was established in the verified evidence packet.
+The separate archive entry named **Acapulco Gold** already contains the model-level research. This record therefore should not invent a second circuit history.
 
-## Versions and factory options
-- The verified evidence references: V1, V2.
-- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+## Verified model facts
+EarthQuaker Devices describes Acapulco Gold as a power-amp distortion modeled after a cranked Model T amplifier. The reviewed evidence also references V1 and V2. [1][2]
 
-## Version changes
-- No specific factory version changes were established in the verified evidence packet.
-
-## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
-- **Exact transistor/device:** Unknown.
-
-## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
-- **Exact part:** Unknown.
-
-## Sound
-Acapulco Gold Power Amp Distortion — EarthQuaker Devices Contact Us Use the form on the right to contact us.
-Since tone is in the hands, we decided to keep the controls of the Acapulco Gold as simple as possible.
-Roll back your guitar’s tone control.
-
-## Sources checked
-1. Acapulco Gold Power Amp Distortion — EarthQuaker Devices: https://www.earthquakerdevices.com/acapulco-gold
+## Catalog handling
+This is an **identity/alias finding**, not a silent merge. A future catalog consolidation should preserve whichever source metadata, photo, and version relationships belong to the canonical Acapulco Gold record.
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive photo:** No verified local photo is currently archived for this alias record.
+- Photo assignment should be reconciled at the catalog-identity level before duplicate imagery is attached.
+
+## Research evidence
+**Sources checked:**
+1. https://www.earthquakerdevices.com/acapulco-gold — manufacturer product page using the expanded product name.
+2. Existing archive deep-research record: Acapulco Gold.md.
+
+**Research confidence:** High that the expanded name refers to the Acapulco Gold product; exact catalog consolidation remains a data-maintenance operation.
