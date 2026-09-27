@@ -15,3 +15,12 @@
   - https://camuro.co.jp/pedals
   - https://camuro.co.jp/blog/ledmod
   - https://camuro.co.jp/blog/ゲルマニウム-ファズ-camuro-fuzz-ross-デモ
+## Deep research verification
+
+Camuro's product archive confirms several distinct Fuzz Rosso forms: an initial prototype, a limited **two-toggle** special version, a **Germanium Transistor** version, and a silver special version. Camuro specifically describes the special two-toggle units with **FAT** and selectable transistor behavior. The Germanium Transistor version explicitly uses a germanium transistor.
+
+Camuro also describes Fuzz Rosso as a fine-grained fuzz that works well with tube amplifiers and documents it as a fuzz/booster style design that can be used on a clean amp or as a flavoring stage into an already-crunchy tube amp.
+
+Sources:
+- https://camuro.co.jp/pedals
+- https://camuro.co.jp/blog/ledmod
