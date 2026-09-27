@@ -4,39 +4,54 @@
 - **Archive parent:** Fuzzster Bass Fuzz
 - **Builder:** Chowny Bass
 - **Catalog type:** Fuzz
-- **Identity:** Chowny Fuzzster Bass Fuzz, a bass-oriented fuzz with clean-blend control and four external controls.
+- **Identity:** Bass-specific fuzz with four controls, including an independent Clean blend to preserve the fundamental. [1][2]
 
-## What this pedal is
-Chowny introduced the Fuzzster as its first pedal, designed specifically for bass. Contemporary coverage states that the pedal was designed in the UK by UK pedal builders and mostly manufactured in China. [1]
+## Controls
+- **FUZZ:** Mixes/raises the distorted component.
+- **TONE:** Treble response.
+- **SUSTAIN:** Additional fuzz gain/sustain.
+- **CLEAN:** Blends unaffected bass signal. [1][2]
 
-Effects Database documents the model with four controls: Fuzz, Tone, Sustain, and Clean Level. [2]
-
-## Colorways
-- Contemporary launch coverage documents a dark enclosure with a blue LED ring around the footswitch and blue-lit control indicators. [3]
-- The exact product page currently documents the model but does not establish a complete factory colorway sequence.
-
-## Versions and factory options
-The four controls are:
-- **Fuzz**: mixes in distorted signal.
-- **Tone**: adjusts treble content.
-- **Sustain**: controls additional fuzz gain/sustain.
-- **Clean**: blends in unaffected bass signal. [1][2]
-
-The pedal requires external 9V DC power. [1][2]
-
-## Version changes
-The checked sources document prototype and production appearances from the 2016-2017 launch period through later catalog listings, but no formal numbered production revision sequence was established.
+## Circuit / topology
+- Bass-oriented analog fuzz.
+- Clean/fuzz parallel blend is central to the design.
+- No specific historical clone lineage is established in the reviewed sources.
 
 ## Transistor
-No exact-model transistor part number was established.
+- Exact production transistor/device part number is not documented.
 
-## Diode
-No exact-model diode specification was established.
+## Diode / clipping
+- Exact clipping-device type and part number are not documented.
+
+## Power
+- **9V DC** external power. [1][2]
+- Exact current draw is not established.
+
+## Construction / production
+- Designed in the UK and largely manufactured in China during the original launch period. [1]
+- Dark enclosure with blue illumination is documented in launch coverage. [3]
+
+## Version history
+- No numbered factory electronic revision established.
+- Launch-period production changes are not treated as circuit revisions without component evidence.
 
 ## Sound
-The Fuzzster is designed around the specific problem of preserving bass attack and low-end definition under fuzz. The Clean control blends unaffected signal with the fuzzed path, while Tone and Sustain shape brightness and saturation. [1][3]
+Fuzzster was designed specifically to keep bass punch under fuzz. Clean restores the direct fundamental, while Tone and Sustain alter brightness and saturation. [1][3]
+
+## Research confidence
+- **Identity:** High
+- **Bass-specific purpose:** High
+- **Four-control map:** High
+- **9V:** High
+- **Exact components:** Unknown
+
+## Deep research verification
+Gearnews, Effects Database and No Treble were cross-checked. The sources agree on the bass-specific purpose, four-control interface and clean-blend architecture; no exact semiconductor BOM is published. [1][2][3]
 
 ## Sources checked
 1. Gearnews — Chowny Fuzzster introduction: https://www.gearnews.com/chowny-fuzzster-pedal-new-budget-bass-fuzz-uk/
 2. Effects Database — Chowny Fuzzster: https://www.effectsdatabase.com/model/chowny/fuzzster
-3. No Treble — Chowny Bass introduces Fuzzster: https://www.notreble.com/buzz/2017/01/16/chowny-bass-introduces-the-fuzzster-bass-fuzz-pedal/
+3. No Treble — Chowny Fuzzster: https://www.notreble.com/buzz/2017/01/16/chowny-bass-introduces-the-fuzzster-bass-fuzz-pedal/
+
+## Photo
+- Exact-model photo status remains handled separately.
