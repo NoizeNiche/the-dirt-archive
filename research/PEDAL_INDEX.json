@@ -42488,8 +42488,8 @@
       "image": "./assets/pedals/lovepedal/eternity-burst/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Lovepedal/Eternity Burst.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Lovepedal",
@@ -43894,8 +43894,8 @@
       "image": "./assets/pedals/maxon/fuzz-elements-water/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Maxon/Fuzz Elements Water.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Maxon",
@@ -49430,8 +49430,8 @@
       "image": "./assets/pedals/proco-sound/lil-rat/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/ProCo Sound/Lil' RAT.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "ProCo Sound",
@@ -49946,8 +49946,8 @@
       "image": "./assets/pedals/revv-amplification/g3/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Revv Amplification/G3.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Revv Amplification",
@@ -53082,8 +53082,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/TONECAT/Hugo Overdrive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "TONECAT",
