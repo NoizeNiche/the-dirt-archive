@@ -1,23 +1,46 @@
 # Mojo Hand FX — Rook Royale
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Rook Royale
 - **Builder:** Mojo Hand FX
-- **Pedal:** Rook Royale
 - **Catalog type:** Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Mojo Hand FX's Rook Royale.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Rook Royale** by **Mojo Hand FX** as a **Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Running on ~30mA from 9V center-negative power, the Rook Royale delivers dual-circuit versatility in a 4.7" × 3.69" × 1.37" enclosure.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Documented terms in the verified sources: led.
+- The archive records only the component information explicitly present in these sources.
+
+## Sound
+Rook Royale — Mojo Hand FX Overdrive Pedal
+© 2026 PedalFilter Clear Compare ( 0 ) Back Home Mojo Hand FX Rook Royale Back to results Mojo Hand FX Rook Royale Overdrive Boost Rook overdrive plus Speakeasy boost with order selector—used by Brad Whitford, Ty Tabor, Andy Timmons, Mark Tremonti.
+The Rook Royale combines the award-winning Rook overdrive with a simplified two-knob version of the EP-3-based Speakeasy boost for added versatility.
+
+## Sources checked
+1. Rook Royale - MojoHandFX: https://mojohandfx.com/rook-royale/
+2. Mojo Hand FX Rook Royale - Reverb: https://reverb.com/p/mojo-hand-fx-rook-royale
+3. Mojo Hand Fx Rook Royale — Overdrive Pedal | Equipboard: https://equipboard.com/items/mojo-hand-fx-rook-royale
+4. Mojo Hand FX Rook Royale Pedal - playloudnow: https://www.playloudnow.com/product/mojo-hand-fx-rook-royale-pedal/
+5. https://www.guitarfxdirect.com/product/mojo-hand-fx-rook-royale/: https://www.guitarfxdirect.com/product/mojo-hand-fx-rook-royale/
+6. Rook Royale — Mojo Hand FX Overdrive Pedal | PedalFilter | PedalFilter: https://pedalfilter.com/mojo-hand-fx/rook-royale
+7. Mojo Hand FX Rook Royale Dimensions, Specs & Details: https://www.stompboxgarden.com/gear/pedal/5010/mojo-hand-fx-rook-royale
+8. Rook Royale — MOJO HAND FX | Specs, Review, Onde Comprar | Pedalboard Designer: https://pedalboarddesigner.com/pedals/mojo-hand-fx-rook-royale
+9. Mojo Hand FX Rook Royale - Effects Database: https://www.effectsdatabase.com/model/mojohand/rook/royale
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

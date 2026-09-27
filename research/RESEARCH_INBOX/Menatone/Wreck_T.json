@@ -1,0 +1,57 @@
+{
+  "builder": "Menatone",
+  "pedal": "Wreck'T",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 6,
+  "sources": [
+    {
+      "url": "https://www.menatone.com/wreckt",
+      "title": "Wreck'T | menatone",
+      "h1": "PEDALS",
+      "excerpt": "--> Wreck'T | menatone top of page THE FINEST HANDMADE EFFECTS SINCE 1996 PEDALS HOME MOJO Red Snapper Mojo PTP Blue Collar Mojo PTP Top Boost in a Can Mojo The Law Bender Deluxe Redneck vs. Sputnik PTP/DELUXE Red Snapper 4 Knob PTP Blue Collar PTP Das Boost PTP The Howie Deluxe None More Black Deluxe STANDARD The King. Top Boost in a Can Wreck'T Fish Factory MenaWatt PiG The Dirty Blonde MINI Red Snapper Mini Red Snapper 4 knob Mini Blue Collar Mini JAC Compressor Mini Thundering Revival Mini The Law Mini Hindenburg Mini Mail Bomb Mini Pleasure Trem Mini Ms. Foxy Brown Mini PIPES IN STOCK CONTACT POLICIES DEALERS More Use tab to navigate through the menu items. Wreck'T $219 Add to Cart Demos ...coming soon Based on one of the last amp designs from the late, great Mr. Fischer, the Wreck't is a beautiful mix of British amp tones with an American gain structure. Somehow able to chime like an AC30 and roar like a Plexi,  but with an ability to clean up from your guitar volume like a champ.  This new 2025 Wreck't contains the complete control section of the amp it is based on adding the presence and the cut controls. Also all jacks are located on the top of the pedal for a clean pedalboard layout. \u200b \u200b Build time approx. 4-6 weeks Manual &copy; 2024  MENATONE bottom of page \"use strict\";(self.webpackJsonp__wix_thunderbolt_app=self.webpackJsonp__wix_thunderbolt_app||[]).push([[\"1619\"],{26350(e,t,i){i.r(t),i.d(t,{STATIC_MEDIA_URL:()=>eH,fileType:()=>v,fittingTypes:()=>r,getData:()=>eR,MEDIA_ROOT_URL:()=>ez,sdk:()=>eB,isWEBP:()=>x,alignTypes:()=>c,htmlTag:()=>u,getPlaceholder:()=>eC,getResponsiveImageProps:()=>e$,upscaleMethods:()=>m,getFileExtension:()=>k,populateGlobalFeatureSupport:()=>q});let r={SCALE_TO_FILL:\"fill\",SCALE_TO_FIT:\"fit\",STRETCH:\"stretch\",ORIGINAL_SIZE:\"original_size\",TILE:\"tile\",TILE_HORIZONTAL:\"tile_horizontal\",TILE_VERTICAL:\"tile_vertical\",FIT_AND_TILE:\"fit_and_tile\",LEGACY_STRIP_TILE:\"legacy_strip_tile\",LEGACY_STRIP_TILE_HORIZONTAL:\"legacy_strip_tile_horizontal\",LEGACY_STRIP_TILE_VERTICAL:\"legacy_strip_tile_vertical\",LEGACY_STRIP_SCALE_TO_FILL:\"legacy_strip_fill\",LEGACY_STRIP_SCALE_TO_FIT:\"legacy_strip_fit\",LEGACY_STRIP_FIT_AND_TILE:\"legacy_strip_fit_and_tile\",LEGACY_STRIP_ORIGINAL_SIZE:\"legacy_strip_original_size\",LEGACY_ORIGINAL_SIZE:\"actual_size\",LEGACY_FIT_WIDTH:\"fitWidth\",LEGACY_FIT_HEIGHT:\"fitHeight\",LEGACY_FULL:\"full\",LEGACY_BG_FIT_AND_TILE:\"legacy_tile\",LEGACY_BG_FIT_AND_TILE_HORIZONTAL:\"legacy_tile_horizontal\",LEGACY_BG_FIT_AND_TILE_VERTICAL:\"legacy_tile_vertical\",LEGACY_BG_NORMAL:\"legacy_normal\"},n=\"fill\",a=\"fill_focal\",o=\"crop\",s=\"legacy_crop\",l=\"legacy_fill\",c={CENTER:\"center\",TOP:\"top\",TOP_LEFT:\"top_left\",TOP_RIGHT:\"top_right\",BOTTOM:\"bottom\",BOTTOM_LEFT:\"bottom_left\",BOTTOM_RIGHT:\"bottom_right\",LEFT:\"left\",RIGHT:\"right\"},h={[c.CENTER]:{x:.5,y:.5},[c.TOP_LEFT]:{x:0,y:0},[c.TOP_RIGHT]:{x:1,y:0},[c.TOP]:{x:.5,y:0},[c.BOTTOM_LEFT]:{x:0,y:1},[c.BOTTOM_RIGHT]:{x:1,y:1},[c.BOTTOM]:{x:.5,y:1},[c.RIGHT]:{x:1,y:.5},[c.LEFT]:{x:0,y:.5}},d={center:\"c\",top:\"t\",top_left:\"tl\",top_right:\"tr\",bottom:\"b\",bottom_left:\"bl\",bottom_right:\"br\",left:\"l\",right:\"r\"},u={BG:\"bg\",IMG:\"img\",SVG:\"svg\"},m={AUTO:\"auto\",CLASSIC:\"classic\",SUPER:\"super\"},g={radius:\"0.66\",amount:\"1.00\",threshold:\"0.01\"},p={uri:\"\",css:{img:{},container:{}},attr:{img:{},container:{}},transformed:!1},f=[1.5,2,4],_={HIGH:{size:196e4,quality:90,maxUpscale:1},MEDIUM:{size:36e4,quality:85,maxUpscale:1},LOW:{size:16e4,quality:80,maxUpscale:1.2},TINY:{size:0,quality:80,maxUpscale:1.4}},b=\"HIGH\",T=\"MEDIUM\",I=\"contrast\",E=\"brightness\",w=\"saturation\",L=\"blur\",v={JPG:\"jpg\",JPEG:\"jpeg\",JPE:\"jpe\",PNG:\"png\",WEBP:\"webp\",WIX_ICO_MP:\"wix_ico_mp\",WIX_MP:\"wix_mp\",GIF:\"gif\",SVG:\"svg\",AVIF:\"avif\",UNRECOGNIZED:\"unrecognized\"};function A(e,...t){return function(...i){let r=i[i.length-1]||{},n=[e[0]];return t.forEach(function(t,a){let o=Number.isInteger(t)?i[t]:r[t];n.push(o,e[a+1])}),n.join(\"\")}}function y(e){return e[e.length-1]}v.JPG,v.JPEG,v.JPE,v.PNG,v.GIF,v.WEBP;let O=[v.",
+      "host": "www.menatone.com",
+      "source_kind": "manufacturer"
+    },
+    {
+      "url": "https://equipboard.com/items/menatone-wreck-t",
+      "title": "Menatone Wreck't \u2014 Overdrive Pedal | Equipboard",
+      "h1": "",
+      "excerpt": "",
+      "host": "equipboard.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://pedalfilter.com/menatone/wreck-t",
+      "title": "Wreck'T \u2014 Menatone Overdrive Pedal | PedalFilter | PedalFilter",
+      "h1": "Wreck'T",
+      "excerpt": "Wreck'T \u2014 Menatone Overdrive Pedal | PedalFilter | PedalFilter Skip to main content The guitar pedal database Search pedals The fastest, most visual guitar pedal database. All signal, no noise. About \u2022 Collections \u2022 Blog \u2022 Compare \u2022 Privacy Policy \u2022 Terms of Service \u2022 Submit a pedal \u2022 \u00a9 2026 PedalFilter Clear Compare ( 0 ) Back Home Menatone Wreck'T Back to results Menatone Wreck'T Overdrive Distortion Amp-in-a-box drive after a Fischer/Trainwreck-style amp, from AC30 chime to Plexi roar. The Wreck'T is an amp-in-a-box overdrive and distortion voiced after the hand-built amplifiers of Ken Fischer, mixing British amp character with an American gain structure. A full amp-style control set of Drive, Tone, Level, Presence and Cut lets it move from AC30-style chime at lower gain up to a Plexi-style roar when pushed, with the Presence and Cut controls shaping the top end like a real amp's. Rather than a simple boost it's meant to be a preamp-like main drive. The current version has updated top-mounted jacks, hand-built in the USA. Demo Videos Specifications Power 9V DC Polarity center-negative Shop This Pedal Reverb Amazon Sweetwater Coming soon Using these links supports PedalFilter at no extra cost to you. \u2764\ufe0f The fastest, most visual guitar pedal database. All signal, no noise. About \u2022 Collections \u2022 Blog \u2022 Compare \u2022 Privacy Policy \u2022 Terms of Service \u2022 Submit a pedal \u2022 \u00a9 2026 PedalFilter The guitar pedal database Search pedals You May Also Like Jackson Audio Asabi Overdrive Distortion Strymon Riverside Vemuram Rage e Previous The Fish Factory Vertical Next Wreck'T 2.0",
+      "host": "pedalfilter.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://reverb.com/item/86836-menatone-wreck-t",
+      "title": "Menatone Wreck't - Reverb",
+      "h1": "",
+      "excerpt": "",
+      "host": "reverb.com",
+      "source_kind": "reverb"
+    },
+    {
+      "url": "https://www.rockboard.de/en/pedalPedia/Menatone/Wreckt/68981849/",
+      "title": "Wreck't by Menatone | RockBoard | PedalPedia",
+      "h1": "Wreck't",
+      "excerpt": "Wreck't by Menatone | RockBoard | PedalPedia Skip to main content LOG IN EXPLORE Menatone Wreck't LOG IN TO SUGGEST IMPROVEMENTS Description The new Wreck't v.2 is based on the famous amps from the great Mr. Fischer A blessed mix of british amps with an American topology Media Videos Demo by JokeAndRazz (EN) Official Product Video (EN) Reviews Review by guitar pedal X (EN) Review by The Gear Page (EN) Links Product Page Technical data Width 000.00 mm Depth 000.00 mm Height 000.00 mm Circuit type analog Voltage 9V DC, center negative Current 10mA More pedals from Menatone TREMOLO TREMOLO Menatone Pleasure Trem Mini OVERDRIVE BOOSTER OVERDRIVE BOOSTER Menatone Blue Collar BOOSTER OVERDRIVE BOOSTER OVERDRIVE Menatone Blue Collar Mini Menatone Dumbstruck All Menatone Pedals Products Pedalboards All-In-One Patchbays QuickMount PedalSafe Power Supplies and Power Cables and Connections Accessories Gear Build your own board Board Configurator PedalPedia Pedalboard Gallery QuickMount Finder Services Find a dealer Find a distributor Frequently Asked Questions Contact Current catalog News Community RockBoard Artists Achievements Your Activity Overview \u00a92026 Warwick GmbH & Co. Music Equipment KG GTC | Imprint | Privacy policy | Accessibility | Cookie Settings",
+      "host": "www.rockboard.de",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://www.effectsdatabase.com/model/menatone/wreckt",
+      "title": "Menatone Wreck'T - Effects Database",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.effectsdatabase.com",
+      "source_kind": "effects_database"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}

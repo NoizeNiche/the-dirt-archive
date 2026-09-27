@@ -1,23 +1,45 @@
 # Mythos Pedals — Mjolnir Overdrive
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Mjolnir Overdrive
 - **Builder:** Mythos Pedals
-- **Pedal:** Mjolnir Overdrive
 - **Catalog type:** Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Mythos Pedals's Mjolnir Overdrive.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Mjolnir Overdrive** by **Mythos Pedals** as a **Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+What Mythos Pedals say about the Mjolnir Overdrive The Mjolnir Overdrive The Mjolnir is our take on the iconic "Horsey-Man" pedal.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- The verified evidence references: V12, V6.
+- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Documented terms in the verified sources: LED.
+- The archive records only the component information explicitly present in these sources.
+
+## Sound
+The Mjolnir Overdrive View in your space Mjolnir Overdrive Title Default Title Default Title - $199.00 USD Sale price Regular price $199.00 ( / ) Quantity − + loading...
+The Mjolnir has a bit less gain, less mid honk, and more low end push compared to other "klones".
+This gives the drive a slightly smoother sound as the op-amps clip and help push the hard clipped diodes.
+
+## Sources checked
+1. Mjolnir Overdrive &ndash; Mythos Pedals: https://mythospedals.com/products/mjolnir
+2. Mythos Pedals Mjolnir Overdrive - Reverb: https://reverb.com/p/mythos-pedals-mjolnir-overdrive
+3. Mythos Pedals Mjolnir Overdrive Pedal | Equipboard: https://equipboard.com/items/mythos-pedals-mjolnir
+4. Amazon.com: https://www.amazon.com/Mythos-Pedals-MYTH-MJOLNIR-Mjolnir-Overdrive/dp/B0BMSH6ZML
+5. Mythos Pedals Mjolnir Overdrive: https://spicersmusic.com/products/mythos-mjolnir-overdrive
+6. Mythos Pedals Mjolnir Overdrive | AllThePedals: https://allthepedals.com/pedals/mythos-pedals-mjolnir-overdrive/
+7. Mythos Pedals Mjolnir Overdrive | ReverbZone: https://reverbzone.com/mythos-pedals/mythos-pedals-mjolnir-overdrive/
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

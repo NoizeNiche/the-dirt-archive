@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-27T11:33:08.942885+00:00",
+  "generated_at": "2026-09-27T11:33:17.281683+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,8 +10,8 @@
     "pictured": 3140,
     "complete": 3140,
     "research_pending": 0,
-    "deep_research_pending": 805,
-    "deep_researched": 3437,
+    "deep_research_pending": 785,
+    "deep_researched": 3457,
     "surface_ready": 4242
   },
   "next_target": {
@@ -142,13 +142,6 @@
       "research_level": "surface"
     },
     {
-      "builder": "CopperSound Pedals",
-      "pedal": "Foxcatcher - Overdrive & Boost",
-      "catalog_type": "",
-      "research_record": "./research/pedals/CopperSound Pedals/Foxcatcher - Overdrive & Boost.md",
-      "research_level": "surface"
-    },
-    {
       "builder": "Cranetortoise by Albit",
       "pedal": "DD-1B Dual Distortion for Bass",
       "catalog_type": "",
@@ -195,6 +188,13 @@
       "pedal": "L.S.D",
       "catalog_type": "",
       "research_record": "./research/pedals/Daredevil Pedals/L.S.D.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Daredevil Pedals",
+      "pedal": "Necros Fuzz / Distortion",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Daredevil Pedals/Necros Fuzz / Distortion.md",
       "research_level": "surface"
     }
   ]

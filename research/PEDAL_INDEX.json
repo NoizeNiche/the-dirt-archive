@@ -27020,8 +27020,8 @@
       "source_page": null,
       "research_record": "./research/pedals/CopperSound Pedals/Foxcatcher - Overdrive & Boost.md",
       "image_source_page": "https://www.effectsdatabase.com/model/coppersound/foxcatcher",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "CopperSound Pedals",
@@ -34712,8 +34712,8 @@
       "image": "./assets/pedals/earthquaker-devices/sunn-o-life-pedal-octave-distortion-booster/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/EarthQuaker Devices/Sunn O))) Life Pedal — Octave Distortion + Booster.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "EarthQuaker Devices",
@@ -34737,8 +34737,8 @@
       "image": "./assets/pedals/earthquaker-devices/sunn-o-life-pedal-v2-octave-distortion-booster/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/EarthQuaker Devices/Sunn O))) Life Pedal V2 — Octave Distortion + Booster.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "EarthQuaker Devices",
@@ -35200,8 +35200,8 @@
       "image": "./assets/pedals/electro-harmonix/hot-tubes-nano/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Electro-Harmonix/Hot Tubes Nano.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Electro-Harmonix",
@@ -43575,8 +43575,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Mask Audio Electronics/Germanium Part Garden.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Mask Audio Electronics",
@@ -43906,8 +43906,8 @@
       "image": "./assets/pedals/maxon/fuzz-elements-water-fwa10/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Maxon/Fuzz Elements Water (FWA10).md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Maxon",
@@ -45194,8 +45194,8 @@
       "image": "./assets/pedals/menatone/wreck-t/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Menatone/Wreck'T.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "MESA/Boogie",
@@ -45243,8 +45243,8 @@
       "image": "./assets/pedals/mesa-boogie/flux-five/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/MESA/Boogie/Flux-Five.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "MESA/Boogie",
@@ -45255,8 +45255,8 @@
       "image": "./assets/pedals/mesa-boogie/gold-mine/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/MESA/Boogie/Gold Mine.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "MESA/Boogie",
@@ -46100,8 +46100,8 @@
       "image": "./assets/pedals/mojo-hand-fx/rook/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mojo Hand FX/Rook.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Mojo Hand FX",
@@ -46112,8 +46112,8 @@
       "image": "./assets/pedals/mojo-hand-fx/rook-royale/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mojo Hand FX/Rook Royale.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Mojo Hand FX",
@@ -46782,8 +46782,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/MXR/Distortion+.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "MXR",
@@ -46794,8 +46794,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/MXR/Dookie Drive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "MXR",
@@ -46806,8 +46806,8 @@
       "image": "./assets/pedals/mxr/dookie-drive-v4/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/MXR/Dookie Drive V4.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "MXR",
@@ -46818,8 +46818,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/MXR/Double-Double Overdrive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "MXR",
@@ -46831,8 +46831,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/MXR/Duke of Tone Overdrive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "MXR",
@@ -47451,8 +47451,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Mythos Pedals/Joey Landreth Mjolnir Overdrive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Mythos Pedals",
@@ -47463,8 +47463,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Mythos Pedals/Mjolnir Overdrive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Mythos Pedals",
@@ -49958,8 +49958,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Revv Amplification/G4.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Rockbox",
@@ -53892,8 +53892,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/VFE Pedals/Blues King.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "VFE Pedals",

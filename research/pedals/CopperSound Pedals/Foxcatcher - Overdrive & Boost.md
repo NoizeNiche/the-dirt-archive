@@ -54,3 +54,23 @@ CopperSound presents Foxcatcher as a light-to-medium clipping overdrive with a t
 2. CopperSound Pedals - Foxcatcher V1 Overdrive & Boost
 3. Guitar Center - CopperSound Foxcatcher Overdrive/Boost
 4. Reverb - CopperSound Foxcatcher Overdrive/Boost
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+CopperSound Pedals's Foxcatcher - Overdrive & Boost is cataloged as an overdrive pedal.
+
+### Verified version references
+- The evidence references: V1, V2, v1.
+
+### Verified sound evidence
+CopperSound documents changes to the tone section, addition of the Nature control, an active output buffer, an independent boost section derived from the Gravity Bomb, and an effect-order switch that places the boost before or after the drive section.
+**Nature:** presence/voicing control used with Tone and Drive.
+**First toggle:** boost before the drive for added gain or after the drive for added volume.
+
+### Sources checked in this pass
+1. Foxcatcher V1 Overdrive & Boost: https://coppersoundpedals.squarespace.com/shop/p/foxcatcher-v1-overdrive-boost
+2. CopperSound Pedals Foxcatcher - Overdrive & Boost | Effects Database: https://www.effectsdatabase.com/model/coppersound/foxcatcher
+3. Shop Boutique Guitar Pedals | Made in USA | CopperSound: https://www.coppersoundpedals.com/shop
