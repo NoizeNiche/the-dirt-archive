@@ -1,23 +1,38 @@
 # EarthQuaker Devices — Plumes — Small Signal Shredder / overdrive
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Plumes — Small Signal Shredder / overdrive
 - **Builder:** EarthQuaker Devices
-- **Pedal:** Plumes — Small Signal Shredder / overdrive
 - **Catalog type:** Distortion / Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** EarthQuaker Devices's Plumes — Small Signal Shredder / overdrive.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Plumes — Small Signal Shredder / overdrive** by **EarthQuaker Devices** as a **Distortion / Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+EarthQuaker Devices's Plumes — Small Signal Shredder / overdrive is cataloged as a distortion / overdrive pedal.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- When played through a clean amp, it’ll deliver a reasonable facsimile of that classic black and gold British valve amp tone.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Documented terms in the verified sources: LED, silicon diode.
+- The archive records only the component information explicitly present in these sources.
+
+## Sound
+Free -Day Shipping Get it by when you order within Get it if you order in Price: × Faster Shipping Plumes® is a unique, all-analog approach to a classic tube-like overdrive circuit offering 3 different clipping voices, loads of headroom and almost three-dimensional clarity that will push your amp over the edge.
+The reimagined tone control is finely tuned to sculpt low end, clear top end, and focus midrange with blooming sustain.
+Gain: This controls the amount of drive.
+
+## Sources checked
+1. Plumes Small Signal Shredder &mdash; EarthQuaker Devices: https://www.earthquakerdevices.com/plumes
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

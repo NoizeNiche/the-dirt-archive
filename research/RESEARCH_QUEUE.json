@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-27T23:04:02.473214+00:00",
+  "generated_at": "2026-09-27T23:05:52.684392+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,8 +10,8 @@
     "pictured": 3466,
     "complete": 3466,
     "research_pending": 0,
-    "deep_research_pending": 312,
-    "deep_researched": 3894,
+    "deep_research_pending": 302,
+    "deep_researched": 3904,
     "surface_ready": 4206
   },
   "next_target": {
@@ -59,23 +59,9 @@
     },
     {
       "builder": "EarthQuaker Devices",
-      "pedal": "Blumes — Low Signal Shredder / overdrive",
-      "catalog_type": "",
-      "research_record": "./research/pedals/EarthQuaker Devices/Blumes — Low Signal Shredder / overdrive.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "EarthQuaker Devices",
       "pedal": "Dirt Transmitter Legacy Reissue — consolidated with Dirt Transmitter",
       "catalog_type": "",
       "research_record": "./research/pedals/EarthQuaker Devices/Dirt Transmitter Legacy Reissue — consolidated with Dirt Transmitter.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "EarthQuaker Devices",
-      "pedal": "Dirt Transmitter Legacy Reissue — Fuzz Driver",
-      "catalog_type": "",
-      "research_record": "./research/pedals/EarthQuaker Devices/Dirt Transmitter Legacy Reissue — Fuzz Driver.md",
       "research_level": "surface"
     },
     {
@@ -94,44 +80,9 @@
     },
     {
       "builder": "EarthQuaker Devices",
-      "pedal": "Palisades — Mega Ultimate Overdrive",
-      "catalog_type": "",
-      "research_record": "./research/pedals/EarthQuaker Devices/Palisades — Mega Ultimate Overdrive.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "EarthQuaker Devices",
-      "pedal": "Park Fuzz Sound — Vintage Germanium Fuzz Tone",
-      "catalog_type": "",
-      "research_record": "./research/pedals/EarthQuaker Devices/Park Fuzz Sound — Vintage Germanium Fuzz Tone.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "EarthQuaker Devices",
-      "pedal": "Plumes — Small Signal Shredder / overdrive",
-      "catalog_type": "",
-      "research_record": "./research/pedals/EarthQuaker Devices/Plumes — Small Signal Shredder / overdrive.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "EarthQuaker Devices",
       "pedal": "Rancho de la Luna Dirt Transmitter — Fuzz Driver",
       "catalog_type": "",
       "research_record": "./research/pedals/EarthQuaker Devices/Rancho de la Luna Dirt Transmitter — Fuzz Driver.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "EarthQuaker Devices",
-      "pedal": "Sound Shank — Germanium Fuzz",
-      "catalog_type": "",
-      "research_record": "./research/pedals/EarthQuaker Devices/Sound Shank — Germanium Fuzz.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "EarthQuaker Devices",
-      "pedal": "Speaker Cranker — Overdrive",
-      "catalog_type": "",
-      "research_record": "./research/pedals/EarthQuaker Devices/Speaker Cranker — Overdrive.md",
       "research_level": "surface"
     },
     {
@@ -195,6 +146,55 @@
       "pedal": "Berserk — consolidated identity across V1/V2/V3",
       "catalog_type": "",
       "research_record": "./research/pedals/Fjord Fuzz/Berserk — consolidated identity across V1/V2/V3.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Fjord Fuzz",
+      "pedal": "Bjørn",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Fjord Fuzz/Bjørn.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Fjord Fuzz",
+      "pedal": "Bufo",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Fjord Fuzz/Bufo.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Fjord Fuzz",
+      "pedal": "Fjord-Fuzz Super-Fuzz",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Fjord Fuzz/Fjord-Fuzz Super-Fuzz.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Fjord Fuzz",
+      "pedal": "Måne",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Fjord Fuzz/Måne.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Fjord Fuzz",
+      "pedal": "Mjølner",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Fjord Fuzz/Mjølner.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Friedman Amplification",
+      "pedal": "BE-OD",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Friedman Amplification/BE-OD.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Fulltone",
+      "pedal": "Hi-Mu",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Fulltone/Hi-Mu.md",
       "research_level": "surface"
     }
   ]

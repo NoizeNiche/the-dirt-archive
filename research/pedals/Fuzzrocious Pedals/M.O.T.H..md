@@ -1,23 +1,36 @@
 # Fuzzrocious Pedals — M.O.T.H.
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** M.O.T.H.
 - **Builder:** Fuzzrocious Pedals
-- **Pedal:** M.O.T.H.
-- **Catalog type:** Overdrive / Fuzz
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Catalog type:** Overdrive
+- **Identity:** Fuzzrocious Pedals's M.O.T.H..
 
 ## What this pedal is
-The Dirt Archive currently catalogs **M.O.T.H.** by **Fuzzrocious Pedals** as a **Overdrive / Fuzz** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Fuzzrocious Pedals's M.O.T.H. is cataloged as an overdrive pedal.
 
-## Catalog source
-- Catalog source page on file: https://fuzzrociouspedals.com/?product=moth
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+The Dirt Archive currently catalogs **M.O.T.H.** by **Fuzzrocious Pedals** as a **Overdrive / Fuzz** pedal.
+
+## Sources checked
+1. M.O.T.H. | FUZZROCIOUS PEDALS: https://fuzzrociouspedals.com/?product=moth
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

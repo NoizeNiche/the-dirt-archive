@@ -1,23 +1,38 @@
 # EarthQuaker Devices — Blumes — Low Signal Shredder / overdrive
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Blumes — Low Signal Shredder / overdrive
 - **Builder:** EarthQuaker Devices
-- **Pedal:** Blumes — Low Signal Shredder / overdrive
 - **Catalog type:** Distortion / Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** EarthQuaker Devices's Blumes — Low Signal Shredder / overdrive.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Blumes — Low Signal Shredder / overdrive** by **EarthQuaker Devices** as a **Distortion / Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+EarthQuaker Devices's Blumes — Low Signal Shredder / overdrive is cataloged as a distortion / overdrive pedal.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Documented terms in the verified sources: LED, silicon diode.
+- The archive records only the component information explicitly present in these sources.
+
+## Sound
+Free -Day Shipping Get it by when you order within Get it if you order in Price: × Faster Shipping Blumes® is an all-analog tri-mode soft clipping bass overdrive that carries the torch of the classic screamer circuit but has a voice all its own.
+It utilizes internal bipolar power, which gives you more dynamics and all the headroom you could ever desire.
+The end result is a three-dimensional tone with added clarity that really pushes a nice tube amp over the edge.
+
+## Sources checked
+1. Blumes Low Signal Shredder &mdash; EarthQuaker Devices: https://www.earthquakerdevices.com/blumes
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
