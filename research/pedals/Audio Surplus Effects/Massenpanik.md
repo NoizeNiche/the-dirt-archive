@@ -4,52 +4,71 @@
 - **Archive parent:** Massenpanik
 - **Builder:** Audio Surplus Effects
 - **Catalog type:** Distortion
-- **Identity:** Highly adjustable high-gain distortion using a cascading op-amp gain section derived from the Providence Stampede concept, paired with a five-band graphic EQ.
+- **Identity:** High-gain cascading op-amp distortion using a five-band graphic EQ, selectable clipping, a Tight switch and, in V2.0, variable pre-gain boost plus Presence control. [1][2]
 
 ## What this pedal is
-Massenpanik combines a cascading op-amp gain section with extensive tone shaping. The current builder documentation explicitly distinguishes V2.0 from earlier production by replacing the boost toggle with a potentiometer and adding Presence control.
+Massenpanik combines a cascading op-amp gain section inspired by the Providence Stampede with a five-band graphic EQ. It is intended as a highly adjustable heavy distortion platform. [1][2]
 
-## Colorways
-- No stable production colorway family was verified.
-- A **Blackout** finish is documented in secondary-market listings for Massenpanik V2.0, but no broader colorway revision history was established.
-
-## Versions and factory options
+## Controls / versions
 ### V1
-- Level and Gain
+- **LEVEL**
+- **GAIN**
 - Five-band graphic EQ
-- Diode selection: NOS black-glass silicon or LED clipping
-- Tight switch for reducing low end in the distortion section
-- 9-18VDC center-negative power
-- No battery option
+- **DIODE** selector
+- **TIGHT** switch
+- Boost switch
+- V1 clipping choices include **NOS black-glass silicon** and **LED**. [1][2]
 
 ### V2.0
-- Replaces the boost toggle with a **Boost potentiometer** for variable pre-gain boost
-- Adds a **Presence** control above the treble range
-- Retains the five-band EQ
-- Retains Diode and Tight toggles
-- 18V operation provides more headroom and less compression
+- Boost switch replaced by a **Boost potentiometer** for variable pre-gain boost.
+- **PRESENCE** control added above the treble range.
+- Five-band EQ, Diode and Tight functions retained.
+- V2.0 continues the high-gain architecture of V1. [1][2]
 
-## Version changes
-The documented V2.0 change is unusually clear: the earlier boost switch became a potentiometer, adding a Presence control at the same time. The Diode selector remains a notable circuit-level option, moving between NOS black-glass silicon and LED clipping.
+## Circuit lineage / clipping
+- Cascading op-amp gain section derived from the **Providence Stampede** concept.
+- **DIODE:** Selects between documented silicon and LED clipping options.
+- Exact active-device part numbers are not publicly documented.
 
-## Transistor
-- **Technology:** Op-amp gain architecture.
-- **Exact semiconductor devices:** The builder does not publish the complete active-device bill of materials in the checked materials.
+## Transistor / active device
+- Op-amp based.
+- Exact op-amp part number is not publicly documented.
 
 ## Diode
-- **Technology:** Selectable silicon or LED clipping.
-- **Exact documented options:** NOS black-glass silicon and LED clipping.
+- **NOS black-glass silicon** option.
+- **LED** clipping option. [1][2]
+Exact diode device numbers are not published.
+
+## Power
+- V1 documentation permits **9–18VDC center-negative** operation.
+- Higher voltage is described as increasing headroom and reducing compression/distortion.
+- No battery option is documented. [1]
+
+## Version history
+- **V1 → V2.0:** Boost switch changed to variable Boost control; Presence control added.
+- Cosmetic limited-batch finishes, including Blackout, are secondary-market variants and are not treated as circuit revisions. [1][2]
 
 ## Sound
-Massenpanik is built for aggressive, highly sculptable distortion, from tighter chug-oriented settings to saturated doom and metal textures. The five-band EQ, Tight switch, diode selector, Boost control and Presence control make the voicing unusually adjustable for a pedal centered on a high-gain op-amp section.
+Massenpanik is designed for strongly sculpted high-gain distortion. The five-band EQ provides broad tonal shaping, while Tight, clipping selection, Boost and Presence controls let the user move between aggressive low-end-heavy and more cutting/defined settings. [1][2]
+
+## Research confidence
+- **Identity:** High
+- **Providence Stampede lineage:** High
+- **V1/V2.0 distinction:** High
+- **Five-band EQ:** High
+- **Silicon/LED clipping options:** High
+- **Exact op-amp:** Unknown
+- **Exact diode:** Unknown
+
+## Deep research verification
+The Audio Surplus Effects source was cross-checked with historical V1/V2.0 listings and an independent 2024 demonstration of V2.0. The sources establish the V2.0 hardware/control changes and documented clipping choices while leaving unpublished device numbers unresolved. [1][2][3]
 
 ## Sources checked
 1. Audio Surplus Effects — Massenpanik: https://audiosurpluseffects.bigcartel.com/product/massenpanik
-2. Gbase — Massenpanik V1 listing: https://www.gbase.com/gear/audio-surplus-effects-massenpanik
-3. Reverb — Massenpanik V2: https://reverb.com/item/84755416-audio-surplus-effects-massenpanik-v2
+2. Reverb — Massenpanik V1: https://reverb.com/item/100637381-audio-surplus-effects-massenpanik-v1
+3. Boring Gear Reviews — Massenpanik 2.0 demo: https://www.youtube.com/watch?v=yytHcU3U2-Q
 4. Reverb — Massenpanik V2.0 Blackout: https://reverb.com/item/99152936-audio-surplus-effects-massenpanik-v2-0-blackout
 
 ## Photo
 - **Archive status:** **No Photo Archived**
-- **Exact-model reference checked:** https://audiosurpluseffects.bigcartel.com/product/massenpanik
-- **Archive note:** Exact Massenpanik imagery is available from the builder and secondary market, but no stable archive image asset is being promoted in this pass.
+- **Exact-model reference checked:** builder product page.
