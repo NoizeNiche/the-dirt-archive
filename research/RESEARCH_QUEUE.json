@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-27T11:49:07.413100+00:00",
+  "generated_at": "2026-09-27T11:49:38.350492+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,25 +10,18 @@
     "pictured": 3140,
     "complete": 3140,
     "research_pending": 0,
-    "deep_research_pending": 666,
-    "deep_researched": 3576,
+    "deep_research_pending": 661,
+    "deep_researched": 3581,
     "surface_ready": 4242
   },
   "next_target": {
     "builder": "Bad Penny FX",
-    "pedal": "Lollygagger Overdrive",
+    "pedal": "Nerd Fuzz + Boost",
     "catalog_type": "",
-    "research_record": "./research/pedals/Bad Penny FX/Lollygagger Overdrive.md",
+    "research_record": "./research/pedals/Bad Penny FX/Nerd Fuzz + Boost.md",
     "research_level": "surface"
   },
   "working_set": [
-    {
-      "builder": "Bad Penny FX",
-      "pedal": "Lollygagger Overdrive",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Bad Penny FX/Lollygagger Overdrive.md",
-      "research_level": "surface"
-    },
     {
       "builder": "Bad Penny FX",
       "pedal": "Nerd Fuzz + Boost",
@@ -195,6 +188,13 @@
       "pedal": "DRV-2 Uberdriveulator",
       "catalog_type": "",
       "research_record": "./research/pedals/Demeter/DRV-2 Uberdriveulator.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Devi Ever : FX",
+      "pedal": "Torn's Peaker",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Devi Ever : FX/Torn's Peaker.md",
       "research_level": "surface"
     }
   ]

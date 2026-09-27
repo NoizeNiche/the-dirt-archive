@@ -35902,8 +35902,8 @@
       "image": "./assets/pedals/ews/little-brute-drive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/EWS/Little Brute Drive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "F-Pedals",
@@ -42476,8 +42476,8 @@
       "image": "./assets/pedals/lovepedal/eternity/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Lovepedal/Eternity.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Lovepedal",
@@ -45280,8 +45280,8 @@
       "image": "./assets/pedals/mesa-boogie/throttle-box/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/MESA/Boogie/Throttle Box.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "MESA/Boogie",
@@ -45305,8 +45305,8 @@
       "image": "./assets/pedals/mesa-boogie/tone-burst/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/MESA/Boogie/Tone-Burst.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "MI Audio / MI Effects",

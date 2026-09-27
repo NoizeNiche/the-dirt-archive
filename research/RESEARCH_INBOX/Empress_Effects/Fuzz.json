@@ -2,7 +2,7 @@
   "builder": "Empress Effects",
   "pedal": "Fuzz",
   "status": "VERIFIED_EVIDENCE_STAGED",
-  "independent_exact_source_count": 4,
+  "independent_exact_source_count": 10,
   "sources": [
     {
       "url": "https://empresseffects.com/products/fuzz",
@@ -21,6 +21,14 @@
       "source_kind": "reverb"
     },
     {
+      "url": "https://chucklevins.com/products/empress-effects-fuzz-pedal",
+      "title": "Empress Effects Fuzz Pedal &ndash; Chuck Levin's Washington Music Center",
+      "h1": "Empress Effects Fuzz Pedal",
+      "excerpt": "Empress Effects Fuzz Pedal &ndash; Chuck Levin's Washington Music Center var Globo = Globo || {}; var globoFormbuilderRecaptchaInit = function(){}; var globoFormbuilderHcaptchaInit = function(){}; window.Globo.FormBuilder = window.Globo.FormBuilder || {}; window.Globo.FormBuilder.shop = {\"configuration\":{\"money_format\":\"${{amount}}\"},\"pricing\":{\"features\":{\"bulkOrderForm\":true,\"cartForm\":true,\"fileUpload\":30,\"removeCopyright\":true,\"restrictedEmailDomains\":false,\"metrics\":true}},\"settings\":{\"copyright\":\"Powered by Globo Form \",\"hideWaterMark\":false,\"reCaptcha\":{\"recaptchaType\":\"v2\",\"siteKey\":false,\"languageCode\":\"en\"},\"hCaptcha\":{\"siteKey\":false},\"scrollTop\":false,\"customCssCode\":\".globo-formbuilder {\\r\\n margin-top: 100px; /* Adjust this value to match your header height */\\r\\n position: relative;\\r\\n z-index: 1;\\r\\n}\",\"customCssEnabled\":true,\"additionalColumns\":[]},\"encryption_form_id\":1,\"url\":\"https://app.powerfulform.com/\",\"shop_url\":\"chucklevinsstore.myshopify.com\",\"CDN_URL\":\"https://dnhcnb9q6pxc3.cloudfront.net\",\"flags\":{\"canary_app_version\":false},\"app_id\":\"1783207\"}; if(window.Globo.FormBuilder.shop && window.Globo.FormBuilder.shop.storefront_access_token){ delete window.Globo.FormBuilder.shop.storefront_access_token; } if(window.Globo.FormBuilder.shop.settings.customCssEnabled && window.Globo.FormBuilder.shop.settings.customCssCode){ const customStyle = document.createElement('style'); customStyle.type = 'text/css'; customStyle.innerHTML = window.Globo.FormBuilder.shop.settings.customCssCode; document.head.appendChild(customStyle); } window.Globo.FormBuilder.forms = []; window.Globo.FormBuilder.forms[25526] = {\"25526\":{\"elements\":[{\"id\":\"group-1\",\"type\":\"group\",\"label\":\"Page 1\",\"description\":\"\",\"elements\":[{\"id\":\"text\",\"type\":\"text\",\"label\":{\"en\":\"First Name\"},\"placeholder\":{\"en\":\"First Name\"},\"description\":null,\"hideLabel\":false,\"required\":true,\"columnWidth\":50},{\"id\":\"text-1\",\"type\":\"text\",\"label\":{\"en\":\"Last Name\"},\"placeholder\":{\"en\":\"Last Name\"},\"description\":null,\"hideLabel\":false,\"required\":true,\"columnWidth\":50,\"conditionalField\":false},{\"id\":\"text-4\",\"type\":\"text\",\"label\":{\"en\":\"State\"},\"placeholder\":\"\",\"description\":\"\",\"limitCharacters\":false,\"characters\":100,\"hideLabel\":false,\"keepPositionLabel\":false,\"columnWidth\":50,\"displayType\":\"show\",\"displayDisjunctive\":false,\"conditionalField\":false,\"required\":true},{\"id\":\"text-2\",\"type\":\"text\",\"label\":{\"en\":\"Organization\"},\"placeholder\":{\"en\":\"Organization\"},\"description\":null,\"hideLabel\":false,\"required\":true,\"columnWidth\":50,\"conditionalField\":false},{\"id\":\"phone-1\",\"type\":\"phone\",\"label\":\"Phone\",\"placeholder\":\"\",\"description\":\"\",\"validatePhone\":false,\"onlyShowFlag\":false,\"defaultCountryCode\":\"us\",\"limitCharacters\":false,\"characters\":100,\"hideLabel\":false,\"keepPositionLabel\":false,\"columnWidth\":50,\"displayType\":\"show\",\"displayDisjunctive\":false,\"conditionalField\":false},{\"id\":\"email\",\"type\":\"email\",\"label\":\"Email\",\"placeholder\":\"Email\",\"description\":null,\"hideLabel\":false,\"required\":true,\"columnWidth\":50,\"conditionalField\":false},{\"id\":\"radio-1\",\"type\":\"radio\",\"label\":{\"en\":\"\"},\"options\":[{\"label\":{\"en\":\"Sales Quote\"},\"value\":\"Sales Quote\"},{\"label\":{\"en\":\"Bid Solicitation\"},\"value\":\"Bid Solicitation\"},{\"label\":{\"en\":\"Return Authorization\"},\"value\":\"Return Authorization\"},{\"label\":{\"en\":\"General Inquiry\"},\"value\":\"General Inquiry\"}],\"description\":\"\",\"otherOptionLabel\":\"Other\",\"otherOptionPlaceholder\":\"Enter other option\",\"hideLabel\":false,\"keepPositionLabel\":false,\"inlineOption\":100,\"columnWidth\":50,\"displayType\":\"show\",\"displayDisjunctive\":false,\"conditionalField\":false,\"required\":true},{\"id\":\"textarea\",\"type\":\"textarea\",\"label\":{\"en\":\"How can we help?\"},\"placeholder\":{\"en\":\"Write to us!\"},\"description\":null,\"hideLabel\":false,\"required\":true,\"columnWidth\":100,\"conditionalField\":false},{\"id\":\"text-3\",\"type\":\"text\",\"label\":{\"en\":\"Is a bid number reference required on the quote? What bid will you be referencing? (Omnia R191203 \\/ ES BOCES \\/ Buyboard, etc)\"},\"placeho",
+      "host": "chucklevins.com",
+      "source_kind": "other"
+    },
+    {
       "url": "https://www.guitarcenter.com/Empress-Effects/Analog-Fuzz-Guitar-Effects-Pedal-1378221680911.gc",
       "title": "Empress Effects Analog Fuzz Guitar Effects Pedal | Guitar Center",
       "h1": "Empress Effects Analog Fuzz Guitar Effects Pedal",
@@ -29,11 +37,51 @@
       "source_kind": "other"
     },
     {
-      "url": "https://www.totalmusicusa.com/product/empress-effects-fuzz-pedal/",
-      "title": "Empress Effects Fuzz Pedal - totalmusicusa.com",
+      "url": "https://empress-effects.manymanuals.com/audio-accessories/fuzz/user-manual-9251",
+      "title": "Empress-effects Fuzz User Manual download pdf",
       "h1": "",
       "excerpt": "",
-      "host": "www.totalmusicusa.com",
+      "host": "empress-effects.manymanuals.com",
+      "source_kind": "manufacturer"
+    },
+    {
+      "url": "https://www.manualshelf.com/manual/empress-effects/fuzz/owner-manual-english.html",
+      "title": "Empress Effects Fuzz : Owner manual - ManualShelf",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.manualshelf.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://manualmachine.com/empresseffects/fuzz/1487944-user-manual/",
+      "title": "Empress Effects Fuzz User Manual - ManualMachine.com",
+      "h1": "",
+      "excerpt": "",
+      "host": "manualmachine.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://www.manualsdir.com/manuals/674540/empress-effects-fuzz.html",
+      "title": "Empress Effects Fuzz User Manual | 8 pages",
+      "h1": "Empress Effects Fuzz User Manual",
+      "excerpt": "Empress Effects Fuzz User Manual | 8 pages Manuals Directory ManualsDir.com - online owner manuals library Search Directory Brands Empress Effects manuals Audio accessories Fuzz Manual Empress Effects Fuzz User Manual Fuzz Text mode Original mode Advertising user manual fuzz Share Pages: 1 2 3 4 5 6 7 8 Download Complain wrong Brand wrong Model non readable Advertising See also other documents in the category Empress Effects Audio accessories: Buffer+ (12 pages) Compressor (8 pages) Distortion (8 pages) Germ Drive (8 pages) Heavy (8 pages) Midibox (1 page) Multidrive (8 pages) Nebulus (16 pages) ParaEq (12 pages) Phaser (24 pages) Superdelay (20 pages) Tape Delay (12 pages) Tremolo2 (16 pages) Vintage Modified Superdelay (20 pages) ECM-519 compressor (12 pages) Home | About Us | Contact Us | ManualsDir DMCA Policy | Brands | Popular manuals | Recently added Manuals Directory &copy; 2012&ndash;2026, manualsdir.com All rights reserved.",
+      "host": "www.manualsdir.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://www.effectsdatabase.com/model/empress/fuzz",
+      "title": "Empress Effects Fuzz | Effects Database",
+      "h1": "Empress Effects Fuzz",
+      "excerpt": "Empress Effects Fuzz | Effects Database Skip to navigation Brands \u25bc 0-9... a... b... c... d... e... f... g... h... i... j... k... l... m... n... o... p... q... r... s... t... u... v... w... x... y... z... Effect types \u25bc boost distortion fuzz overdrive acoustic simulation amp simulation speaker/cabinet simulation chorus flanger phaser tremolo vibe vibrato other modulation pitch shifter octaver delay reverb looper/sampler hold/freeze eq filter wah fuzz-wah bitcrusher ring modulator samplerate reducer wavefolder synth effect granular effect multi effect vocal effect talkbox vocoder buffer compressor other... Countries \u25bc (country unknown) Argentina Australia Austria Belarus Belgium Brazil Bulgaria Canada Chile China Colombia Costa Rica Croatia Czech Republic Czechoslovakia DDR Denmark Dominican Republic Ecuador Egypt Estonia Finland France Germany Greece Hungary India Indonesia Iran Ireland Israel Italy Japan Latvia Lithuania Luxembourg Macedonia Malaysia Malta Mexico Moldova Monaco Morocco Netherlands New-Zealand Norway Panama Peru Philippines Poland Portugal Romania Russia Serbia Singapore Slovakia Slovenia South-Africa South-Korea Spain Sweden Switzerland Taiwan Thailand Turkey U.K. U.S.A. U.S.S.R. Ukraine Uruguay Venezuela Browse by \u25bc Enclosure type Modulation type Special \u25ba Classics Eye candy Funny Vaporware Weird Random brand Random effect Events \u25ba NAMM Musikmesse Music China Guitar Summit More... \u25bc Forum (opens in new tab) myFXDB (opens in new tab) Newsletter About How to get listed? Interviews Reviews Effects explained Books D.I.Y. Schematics Links Contact Install Effects Database App Search the database browse by brand E... Empress Effects browse by type distortion/fuzz/overdrive fuzz browse by enclosure pedal Empress Effects Fuzz Published on October 5, 2011 Empress Effects fuzz pedal Information Empress Effects Coming Soon! This classic sounding fuzz offers smooth, rich sustain with great note definition. A tighter low end makes it ideal for full chords as well as sustaining single notes. The empress fuzz is true bypass and has gain control, two bands of EQ and output control to fully tailor your sound. Features: All Analog Signal Path - no digitals in here! Classic Fuzz - offers lots of gain with smooth, rich sustain. Good Control - medium gain settings offer nice heavy chunk, without losing control. Tight low end - not floppy like some other fuzzes out there. Great Note Definition - Good for single notes and full chords. EQ - Hi shelf and low shelf EQs let you tweak your sound. Bass - Works great on bass! True Bypass - The Empress Fuzz employs true bypass, so you can be sure that it's not affecting the signal when disengaged. Small Size - The enclosure measures approximately 4.5\" by 2.5\" by 1.5\", which is delightfully small when considering all the features packed into this unit. Specifications: Input Impedance: 300k Output Impedance: 50k Frequency Response (-3dB): 20Hz - 20kHz Power Input Voltage: 9V DC (Negative tip) Power Input Connector: 2.1mm barrel connector (Negative tip) Power Consumption: ~ 30mA Enclosure Material: Die Cast Aluminum Input connector: 1/4\" Jack Output connector: 1/4\" Jack Height (Enclosure only): 1.5\" Height (including controls): 2\" Length: 4.5\" Width: 2.5\" Weight: 0.5 lbs Video all | by manufacturer | not by manufacturer Date \u25bc\u25b2 Maker \u25bc\u25b2 Video \u25bc\u25b2 Time \u25bc\u25b2 2021-07-11 TL Toneworks Vox AC15 with EMPRESS EFFECTS FUZZ (Vox Friendly Pedals) 4:49 2014-08-15 JJ Likes Guitar Empress Effects Fuzz | review demo 8:08 2014-01-21 rigrigrigmusic Empress Tape Delay and Empress Fuzz [TWEAKING] 10:14 2014-01-21 rigrigrigmusic Empress Tape Delay and Empress Fuzz [JAM TIME] 2:59 2014-01-21 rigrigrigmusic Empress Fuzz [JAM TIME] 1:28 2014-01-21 rigrigrigmusic Empress Tape Delay and Empress Fuzz 5:42 2013-10-02 bestguitarfx Empress Effects Fuzz Review - BestGuitarEffects.com 5:32 2013-07-22 Retro Channel Empress Fuzz 3:34 2013-07-19 MusicToyz Empress Fuzz 5:18 2012-04-10 Fat Tone Guitars Empress Fuzz Effect Pedal De",
+      "host": "www.effectsdatabase.com",
+      "source_kind": "effects_database"
+    },
+    {
+      "url": "https://www.rockboard.de/en/pedalPedia/Empress-Effects/Fuzz/68978635/",
+      "title": "Fuzz by Empress Effects | RockBoard | PedalPedia",
+      "h1": "Fuzz",
+      "excerpt": "Fuzz by Empress Effects | RockBoard | PedalPedia Skip to main content LOG IN EXPLORE Empress Effects Fuzz LOG IN TO SUGGEST IMPROVEMENTS FUZZ Description This classic sounding fuzz offers smooth, rich sustain with great note definition. A tighter low end makes it ideal for full chords as well as sustaining single notes. Media Videos Demo by The Tone Lounge (EN) Official Product Video (EN) Manuals Manual download (EN) Reviews Review by guitar pedal X (EN) Review by The Gear Page (EN) Links Product Page Technical data Width 000.00 mm Depth 000.00 mm Height 000.00 mm Weight 000.00 mm Circuit type analog Voltage 9V DC, center negative Current 30mA Boards with this pedal New Pedal Board based on TRES 3.0 PK by phil kneer 6 0 about 1 year ago 0 More pedals from Empress Effects COMPRESSOR COMPRESSOR Empress Effects Bass Compressor Blue Sparkle EQUALIZER EQUALIZER Empress Effects Para Eq MKII Deluxe SWITCHER BUFFER SWITCHER BUFFER Empress Effects Buffer++ EQUALIZER BOOSTER BUFFER EQUALIZER BOOSTER BUFFER Empress Effects ParaEq MKII Deluxe Black All Empress Effects Pedals Products Pedalboards All-In-One Patchbays QuickMount PedalSafe Power Supplies and Power Cables and Connections Accessories Gear Build your own board Board Configurator PedalPedia Pedalboard Gallery QuickMount Finder Services Find a dealer Find a distributor Frequently Asked Questions Contact Current catalog News Community RockBoard Artists Achievements Your Activity Overview \u00a92026 Warwick GmbH & Co. Music Equipment KG GTC | Imprint | Privacy policy | Accessibility | Cookie Settings",
+      "host": "www.rockboard.de",
       "source_kind": "other"
     }
   ],

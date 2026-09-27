@@ -1,23 +1,45 @@
 # MESA/Boogie — Tone-Burst
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Tone-Burst
 - **Builder:** MESA/Boogie
-- **Pedal:** Tone-Burst
 - **Catalog type:** Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** MESA/Boogie's Tone-Burst.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Tone-Burst** by **MESA/Boogie** as a **Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+MESA/Boogie's Tone-Burst is cataloged as an overdrive pedal.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- MESA/Boogie Tone-Burst Boost/Overdrive Effects Pedal Black
+
+## Versions and factory options
+- The verified evidence references: v2.
+- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+Review: Mesa/Boogie Tone-Burst, Grid Slammer, Flux-Drive and Throttle Box Pedals
+MESA/Boogie Tone-Burst Boost/Overdrive Effects Pedal Black
+MESA/BOOGIE TONE-BURST OWNER'S MANUAL Pdf Download
+
+## Sources checked
+1. Mesa/Boogie Tone-Burst &ndash; Gibson: https://www.gibson.com/products/mesa-boogie-tone-burst
+2. Tone-Burst™ - MESA/Boogie®: https://legacy.mesaboogie.com/pedals--related/boost-pedals/tone-burst.html
+3. Mesa/Boogie Tone-Burst Clean Boost Pedal | Sweetwater: https://www.sweetwater.com/store/detail/ToneBurst--mesa-boogie-tone-burst-clean-boost-pedal
+4. Mesa/Boogie Tone-Burst Boost Pedal | Equipboard: https://equipboard.com/items/mesa-engineering-tone-burst-boost-pedal
+5. Review: Mesa/Boogie Tone-Burst, Grid Slammer, Flux-Drive and Throttle Box Pedals | Guitar World: https://www.guitarworld.com/magazine/review-mesaboogie-tone-burst-grid-slammer-flux-drive-and-throttle-box
+6. MESA/Boogie Tone-Burst Boost/Overdrive Effects Pedal Black | Guitar Center: https://www.guitarcenter.com/Mesa-Boogie/Tone-Burst-Boost-Overdrive-Effects-Pedal-Black-1500000347405.gc
+7. MESA/BOOGIE TONE-BURST OWNER'S MANUAL Pdf Download | ManualsLib: https://www.manualslib.com/manual/769834/Mesa-Boogie-Tone-Burst.html
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

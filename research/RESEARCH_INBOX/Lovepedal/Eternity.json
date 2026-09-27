@@ -1,0 +1,57 @@
+{
+  "builder": "Lovepedal",
+  "pedal": "Eternity",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 6,
+  "sources": [
+    {
+      "url": "https://reverb.com/p/lovepedal-eternity-burst-handwired",
+      "title": "Lovepedal Eternity Burst (Handwired) - Reverb",
+      "h1": "",
+      "excerpt": "",
+      "host": "reverb.com",
+      "source_kind": "reverb"
+    },
+    {
+      "url": "https://equipboard.com/items/lovepedal-eternity-e6",
+      "title": "Lovepedal Eternity E6 - What To Know & Where To Buy",
+      "h1": "",
+      "excerpt": "",
+      "host": "equipboard.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://www.ebay.com/sch/i.html?_nkw=lovepedal+eternity&_sop=12",
+      "title": "Lovepedal Eternity for sale | eBay",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.ebay.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://www.effectsdatabase.com/reviews/lovepedal/eternity",
+      "title": "[review] Lovepedal Eternity Overdrive (by LordRiffenstein)",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.effectsdatabase.com",
+      "source_kind": "effects_database"
+    },
+    {
+      "url": "https://www.rockboard.de/en/pedalPedia/Lovepedal/Eternity-E6/68981377/",
+      "title": "Eternity E6 by Lovepedal | RockBoard | PedalPedia",
+      "h1": "Eternity E6",
+      "excerpt": "Eternity E6 by Lovepedal | RockBoard | PedalPedia Skip to main content LOG IN EXPLORE Lovepedal Eternity E6 LOG IN TO SUGGEST IMPROVEMENTS BOOSTER OVERDRIVE Description The Eternity can be 3 pedals in one.. Transparent OD, Treble Booster and Clean booster.. Depending on where you set the dials.. You can also blend these 3 factors..It has a socketed IC so you can swap out different ICs.. Darker tones brighter tones, ect... Unorthadox tone control.. It's a treble boost instead of a normal tone control.. Eternity takes 5 times longer to complete than any other pedal I sell..... It is a very smooth type of OD.. That can go from nothing at all to sounding like a very warm vintage overdriven tube amp or a clean flat booster or a treble booster even a tweed amp... 2 different chips provided one is very warm and fat the other is sweet and very hot.. Media Videos Demo by StompCentraldotcom (EN) Demo by Curtis Kent (EN) Reviews Review by musicradar (EN) Review by guitartest.de (DE) Links Product Page Technical data Width 000.00 mm Depth 000.00 mm Height 000.00 mm Circuit type analog Voltage 9V DC, center negative Current 10mA More pedals from Lovepedal REVERB REVERB Lovepedal Hermida Audio Reverb 3 ENVELOPE FILTER ENVELOPE FILTER Lovepedal Rubber Chicken OVERDRIVE BOOSTER OVERDRIVE BOOSTER Lovepedal Eternity Kanji OVERDRIVE OVERDRIVE Lovepedal Eternity Roadhouse All Lovepedal Pedals Products Pedalboards All-In-One Patchbays QuickMount PedalSafe Power Supplies and Power Cables and Connections Accessories Gear Build your own board Board Configurator PedalPedia Pedalboard Gallery QuickMount Finder Services Find a dealer Find a distributor Frequently Asked Questions Contact Current catalog News Community RockBoard Artists Achievements Your Activity Overview \u00a92026 Warwick GmbH & Co. Music Equipment KG GTC | Imprint | Privacy policy | Accessibility | Cookie Settings",
+      "host": "www.rockboard.de",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://forum.pedalpcb.com/threads/eternal-burst-lovepedal-eternity-burst.17353/",
+      "title": "Eternal Burst (Lovepedal Eternity Burst) - PedalPCB Community Forum",
+      "h1": "",
+      "excerpt": "",
+      "host": "forum.pedalpcb.com",
+      "source_kind": "other"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}
