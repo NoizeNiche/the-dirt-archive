@@ -4,33 +4,41 @@
 - **Archive parent:** Godly Red
 - **Builder:** Center Street Electronics
 - **Catalog type:** Overdrive / Distortion / Fuzz
-- **Identity:** Center Street Electronics Godly Red, a Red Llama-derived CMOS dirt pedal with gain, volume, and a mode switch.
+- **Identity:** Red Llama-derived CMOS dirt pedal with Gain, Volume and a God mode switch. [1][2]
 
-## What this pedal is
-Contemporary coverage of Center Street Electronics identifies the Godly Red as a clone-derived design based on the Way Huge Red Llama, with a simple control layout and a switch that expands its range from overdrive into distortion and fuzz territory. [1][2]
+## Controls
+- **GAIN**
+- **VOLUME**
+- **GOD** mode switch. [1][2]
 
-A Japanese retailer describes the pedal as covering overdrive, distortion, and fuzz sounds, with a simple two-knob control layout plus a mode switch. [2]
+## Circuit lineage
+- **Primary reference:** Way Huge **Red Llama**.
+- Center Street's implementation is a clone-derived CMOS design with an expanded operating range.
+- It should not be confused with a direct Way Huge factory product. [1][2]
 
-## Colorways
-- Exact-model imagery is documented by retailer listings, but a complete factory colorway sequence was not established.
+## Transistor / active device
+- **Technology:** CMOS gain architecture.
+- Exact IC/device part number is not established in the reviewed sources.
 
-## Versions and factory options
-The documented controls are **Gain, Volume**, and a **God** mode switch. [1][2]
+## Diode / clipping
+- Exact clipping-device type and part number are not publicly documented.
 
-No formal numbered factory V1/V2 sequence was established.
-
-## Version changes
-No reliable numbered production revision history was found in the checked sources.
-
-## Transistor
-The checked sources identify the Godly Red as a Red Llama-derived CMOS overdrive design but do not establish an exact-model transistor part number. [2]
-
-## Diode
-No exact-model diode specification was established in the checked sources.
+## Power
+- Exact model-specific voltage/current data are not securely preserved.
 
 ## Sound
-The Godly Red is designed to move from lower-gain amp-pushing overdrive into thicker, more saturated distortion/fuzz-like sounds when the gain and mode controls are used together. Its minimal control set reflects the underlying Red Llama-style approach. [1][2]
+Godly Red ranges from lower-gain overdrive into thicker distortion/fuzz-like saturation. The God switch changes the operating range without adding a separate pedal channel. [1][2]
+
+## Version history
+- No numbered factory electronic revision established.
+- Finish differences are cosmetic unless directly tied to a circuit change.
+
+## Deep research verification
+The Center Street overview and Sound House Japan product listing were cross-checked. Both support the Red Llama-derived identity, simple three-function control system and broad overdrive-to-fuzz operating range. [1][2]
 
 ## Sources checked
 1. NVGgear — Center Street Electronics overview: https://nvggear.wordpress.com/
 2. Sound House Japan — Center Street Electronics Godly Red: https://www.soundhouse.co.jp/products/detail/item/241860/
+
+## Photo
+- Exact-model photo status remains handled separately.
