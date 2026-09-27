@@ -420,7 +420,7 @@ async function targetRecord(builder,pedal,type){
   const fetched = await boundedMap(ranked, 3, async item => {
     const cached=verifiedCache.get(item.x.url);
     const p=cached ? null : await get(item.x.url);
-    const info=cached
+    const baseInfo=cached
       ? {
           title:String(cached.title||item.x.title||''),
           h1:String(cached.h1||''),
@@ -429,10 +429,16 @@ async function targetRecord(builder,pedal,type){
         }
       : p
         ? pageInfo(p.text)
-        : curatedExactCandidate && recordExcerpt
-          ? {title:recordTitle,h1:recordTitle,description:'',body:recordExcerpt}
-          : {title:item.x.title,h1:'',description:'',body:''};
+        : {title:item.x.title,h1:'',description:'',body:''};
     const u=p?.url||item.x.url;
+    const info=curatedExactCandidate && recordExcerpt
+      ? {
+          ...baseInfo,
+          title:baseInfo.title || recordTitle,
+          h1:baseInfo.h1 || recordTitle,
+          body:(String(baseInfo.body||'') + "\n" + recordExcerpt).trim().slice(0,9000)
+        }
+      : baseInfo;
     const fullText=info.title+' '+info.h1+' '+info.description+' '+info.body+' '+u;
     const f=fit(builder,pedal,fullText);
     if(!f.pedalHits || !f.builderHits) return null;
