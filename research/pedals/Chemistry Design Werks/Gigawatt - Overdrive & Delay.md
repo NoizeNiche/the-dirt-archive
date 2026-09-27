@@ -3,31 +3,49 @@
 ## PRP identity
 - **Archive parent:** Gigawatt - Overdrive & Delay
 - **Builder:** Chemistry Design Werks
-- **Catalog type:** Overdrive
-- **Identity:** Chemistry Design Werks Gigawatt - Overdrive & Delay.
+- **Catalog type:** Overdrive / Delay
+- **Identity:** Chemistry Design Werks Gigawatt, documented as a combined overdrive and delay model in the builder's 2018 catalog presence. [1]
 
-## What this pedal is
-Effects Database records the exact Gigawatt as a Chemistry Design Werks overdrive/delay model and lists it among the brand's 2018 additions. [1]
+## Evidence status
+The exact builder/model identity and combined function are secure, but the reviewed exact-model documentation does not provide enough information to establish a reliable:
+- control map,
+- circuit lineage,
+- active-device complement,
+- clipping network,
+- power specification,
+- or numbered revision history.
 
-The available indexed source establishes the exact builder/model identity and combined overdrive/delay function, but does not provide enough reliable exact-model technical detail to assign a circuit lineage, semiconductor list, or complete revision history without speculation.
-
-## Colorways
-No complete factory colorway sequence was established.
-
-## Versions and factory options
-No secure exact-model control list or factory-option list was established from the checked source.
-
-## Version changes
-No reliable revision history was established.
+## Circuit lineage
+- **Unknown.**
+- No commercial clone relationship is assigned without model-specific evidence.
 
 ## Transistor
-Unknown from the checked exact-model documentation.
+- Exact production device: **Unknown**.
 
-## Diode
-Unknown from the checked exact-model documentation.
+## Diode / clipping
+- Exact clipping device: **Unknown**.
+
+## Power
+- Exact model-specific power requirement: **Unknown**.
+
+## Version history
+- **2018:** documented catalog presence.
+- No numbered electronic revision established. [1]
 
 ## Sound
-The model is documented as a combined overdrive and delay pedal. More detailed tonal or circuit characterization is deferred until stronger exact-model technical documentation is found.
+The model combines overdrive and delay, but the available exact-model record is too sparse to support a detailed tonal or delay-character description without guessing.
+
+## Research confidence
+- **Identity:** High
+- **Combined OD/delay function:** High
+- **2018 catalog presence:** High
+- **Technical details:** Unknown
+
+## Deep research verification
+Effects Database's 2018 weekly catalog record was checked directly. It securely identifies the model and combined effect type but does not expose enough technical information for additional claims. [1]
 
 ## Sources checked
-1. Effects Database — Weekly overview 2018 week 39, listing Chemistry Design Werks Gigawatt: https://www.effectsdatabase.com/blog/discofreq?page=47
+1. Effects Database — 2018 week 39 catalog: https://www.effectsdatabase.com/blog/discofreq?page=47
+
+## Photo
+- Exact-model photo status remains handled separately.
