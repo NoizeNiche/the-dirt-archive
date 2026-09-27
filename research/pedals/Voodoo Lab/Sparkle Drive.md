@@ -1,23 +1,42 @@
 # Voodoo Lab — Sparkle Drive
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Sparkle Drive
 - **Builder:** Voodoo Lab
-- **Pedal:** Sparkle Drive
 - **Catalog type:** Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Voodoo Lab's Sparkle Drive.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Sparkle Drive** by **Voodoo Lab** as a **Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Voodoo Lab's Sparkle Drive is cataloged as an overdrive pedal.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Documented terms in the verified sources: LED.
+- The archive records only the component information explicitly present in these sources.
+
+## Sound
+Its overdrive circuit provides the same tone as a vintage ‘808.
+This restores the attack and feel which is lost in a highly compressed overdrive circuit.
+The Sparkle Drive utilizes the same concept as layering two amps, one clean and the other saturated.
+
+## Sources checked
+1. Sparkle Drive® - Voodoo Lab: https://voodoolab.com/product/sparkle-drive/
+2. Voodoo Lab Sparkle Drive Overdrive Pedal - Reverb: https://reverb.com/p/voodoo-lab-sparkle-drive
+3. Voodoo Lab Sparkle Drive Mod Overdrive Pedal | Sweetwater: https://www.sweetwater.com/store/detail/SparkleMod--voodoo-lab-sparkle-drive-mod-overdrive-pedal
+4. open prime modal: https://www.amazon.com/clp/B0064RT8LK
+5. Voodoo Lab Sparkle Drive - What To Know & Where To Buy: https://equipboard.com/items/voodoo-lab-sparkle-drive
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

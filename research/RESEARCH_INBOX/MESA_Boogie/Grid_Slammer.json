@@ -1,0 +1,49 @@
+{
+  "builder": "MESA/Boogie",
+  "pedal": "Grid Slammer",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 5,
+  "sources": [
+    {
+      "url": "https://www.manualslib.com/manual/525239/Mesa-Boogie-Grid-Slammer.html",
+      "title": "MESA/BOOGIE GRID SLAMMER OWNER'S MANUAL Pdf Download | ManualsLib",
+      "h1": "Mesa/Boogie GRID SLAMMER Owner's Manual",
+      "excerpt": "MESA/BOOGIE GRID SLAMMER OWNER'S MANUAL Pdf Download | ManualsLib Sign In Upload Download Add to my manuals Delete from my manuals Share URL of this page: HTML Link: MESA/BOOGIE GRID SLAMMER OWNER'S MANUAL Pdf Download '> Pinterest Bookmark this page Add Manual will be automatically added to \"My Manuals\" Print this page &times; Bookmark added &times; Added to my manuals Manuals Brands Mesa/Boogie Manuals Music Pedal Three Channel Dual & Triple Rectifier Solo... Owner's manual Mesa/Boogie GRID SLAMMER Owner's Manual Hide thumbs Also See for GRID SLAMMER : Owner's manual (54 pages) , Operating instructions manual (24 pages) , Owner operating instructions (11 pages) 1 2 page of 2 Go / 2 Bookmarks Quick Links Download this manual See also: Owner's Manual , Operating Instructions Enlarged version SAFETY PRECAUTIONS: \u2022 Read these instructions. \u2022 Keep these instructions. \u2022 Heed all warnings. \u2022 Follow all instructions. \u2022 Do not use this apparatus near water. \u2022 Clean only with dry cloth. \u2022 Be sure to use only properly rated power adaptors or universal power supplies (pedal board power supplies) with appropriate attention paid to proper voltage, am- perage and ground schemes. Improper voltage/amper- age being provided to the pedal may cause poor tone, inconsistent performance, damage to the unit, or all of the above. Proper voltage, amperage and grounding specs are supplied at the end of this manual. \u2022 REPLACE THE BOTTOM LID after battery replace- ment before the unit is used. Some electronic parts inside are static sensitive and can be damaged from Owner's Manual even a small static charge from contact with carpet or other conductive surfaces. DO NOT SET A POWERED UNIT \"CONTROLS UP\" ON A METAL (or any) SUR- FACE WITH THE BOTTOM REMOVED! Congratulations on your choice of MESA/Boogie and wel- There is also enough gain available in the LEVEL con- come to the MESA Family! The same passion for excel- trol to use the GRID SLAMMER as an \"input slamming lence, commitment to quality and dedication to customer device\" to introduce a hotter signal to the INPUT stage of satisfaction is present in each and every product we make your amplifier \u2013 hence the name. In this scheme you clip in our one- and-only shop in Petaluma, California, U.S.A. the amplifier's first stage with a greater amplitude signal Rest assured that the very same people that hand-build (instead of adding preamp gain) to achieve an overdrive the finest amplifiers in the world built your pedal and you with a different character. You may find this sound \"more have access to the same resources for help that all our vintage\" in nature \u2013 though you might also find that you customers do. Call on us anytime and enjoy! have a little less control over color and harmonic/dynamic content than you would using the GRID SLAMMER's GAIN control to create the overdrive. GRID SLAMMER\u2122 FEATURES & CONTROLS The GRID SLAMMER is an Overdrive pedal that produces a variable boost in gain over a wide range with a classic 70s midrange bump for enhancement of many different IN: This \u00bc\" phono jack is the Instrument Input for the styles. If you are looking for minimal saturation or more of device. Plug the Output of your guitar into this jack with a a \"clean boost\" to push Clean sounds with just a subtle gain shielded cable of good quality. The jack is a switching type increase, try our TONE BURST\u2122 pedal. If you are looking jack and the circuit is turned on when a cable is inserted. for an Overdrive device with more control over low and high When the circuit is activated by inserting a cable, the inter- frequencies individually, try our FLUX-DRIVE\u2122 pedal. For nal battery is being used to power it \u2013 so be sure to unplug the highest gain applications, check out our THROTTLE- the cable from the INPUT when it's not in use. BOX\u2122 distortion pedal. NOTE: The internal battery is switched to an \"ON\" state Overdrive begins with the GRID SLAMMER in the low re- (drawing voltage) by a switching element in the INPUT jack. gi",
+      "host": "www.manualslib.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://www.manualzz.com/doc/13312120/mesa-boogie-grid-slammer-user-manual",
+      "title": "MESA/Boogie Grid Slammer User Manual | Manualzz",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.manualzz.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://manualzz.com/doc/6883521/mesa-boogie-grid-slammer-overdrive-pedal-owner-s-manual",
+      "title": "MESA/BOOGIE GRID SLAMMER Overdrive Pedal Owner's Manual | Manualzz",
+      "h1": "",
+      "excerpt": "",
+      "host": "manualzz.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://www.musik-produktiv.at/media/025/25665/mesa-boogie-grid-slammer-user-manual.pdf",
+      "title": "PDF Note: Grid Slammer\u2122 Features & Controls To",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.musik-produktiv.at",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://www.musicalstore2005.com/strumenti_accessori/Mesa_boogie_Grid_Slammer.pdf",
+      "title": "PDF Note: Grid Slammer\u2122 Features & Controls To",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.musicalstore2005.com",
+      "source_kind": "other"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}

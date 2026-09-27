@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-27T11:55:40.717513+00:00",
+  "generated_at": "2026-09-27T11:58:17.880046+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,8 +10,8 @@
     "pictured": 3140,
     "complete": 3140,
     "research_pending": 0,
-    "deep_research_pending": 622,
-    "deep_researched": 3620,
+    "deep_research_pending": 604,
+    "deep_researched": 3638,
     "surface_ready": 4242
   },
   "next_target": {
@@ -73,37 +73,9 @@
     },
     {
       "builder": "Daredevil Pedals",
-      "pedal": "L.S.D",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Daredevil Pedals/L.S.D.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Daredevil Pedals",
       "pedal": "Necros Fuzz / Distortion",
       "catalog_type": "",
       "research_record": "./research/pedals/Daredevil Pedals/Necros Fuzz / Distortion.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Daredevil Pedals",
-      "pedal": "Ron Asheton Real Cool Fuzz",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Daredevil Pedals/Ron Asheton Real Cool Fuzz.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Daredevil Pedals",
-      "pedal": "the Chicago Rat — selectable high-gain distortion mode",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Daredevil Pedals/the Chicago Rat — selectable high-gain distortion mode.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Daredevil Pedals",
-      "pedal": "the Chicago Rat — selectable over-clipped fuzz mode",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Daredevil Pedals/the Chicago Rat — selectable over-clipped fuzz mode.md",
       "research_level": "surface"
     },
     {
@@ -195,6 +167,34 @@
       "pedal": "Redline Modified Overdrive",
       "catalog_type": "",
       "research_record": "./research/pedals/DigiTech/Redline Modified Overdrive.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "DigiTech",
+      "pedal": "X-Series Distortion Factory DF-7",
+      "catalog_type": "",
+      "research_record": "./research/pedals/DigiTech/X-Series Distortion Factory DF-7.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "DigiTech",
+      "pedal": "X-Series Hot Rod Distortion",
+      "catalog_type": "",
+      "research_record": "./research/pedals/DigiTech/X-Series Hot Rod Distortion.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Dirty Boy",
+      "pedal": "JUNIOR DB Fuzz / Dirty Boy Jr. Fuzz",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Dirty Boy/JUNIOR DB Fuzz / Dirty Boy Jr. Fuzz.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Dirty Boy",
+      "pedal": "JUNIOR DB Overdrive / Dirty Boy Jr. Overdrive",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Dirty Boy/JUNIOR DB Overdrive / Dirty Boy Jr. Overdrive.md",
       "research_level": "surface"
     }
   ]

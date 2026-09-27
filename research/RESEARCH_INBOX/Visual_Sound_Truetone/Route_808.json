@@ -1,0 +1,25 @@
+{
+  "builder": "Visual Sound / Truetone",
+  "pedal": "Route 808",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 2,
+  "sources": [
+    {
+      "url": "https://www.kijiji.ca/v-amplificateur-pedale/ville-de-montreal/visual-sound-truetone-route-808-overdrive-pedal-v2/1659310753",
+      "title": "Visual Sound / Truetone Route 808 Overdrive Pedal (V2)",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.kijiji.ca",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/instruments_de_musique/2983963264",
+      "title": "Visual sound / Truetone Overdrive Route 808 / TS-808 neuve ... - leboncoin",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.leboncoin.fr",
+      "source_kind": "other"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}

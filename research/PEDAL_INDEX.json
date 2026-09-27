@@ -35335,8 +35335,8 @@
       "image": "./assets/pedals/electro-harmonix/nano-big-muff-pi/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Electro-Harmonix/Nano Big Muff Pi.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Electro-Harmonix",
@@ -41367,8 +41367,8 @@
       "image": "./assets/pedals/khdk-electronics/scuzz-box/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/KHDK Electronics/Scuzz Box.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "KHDK Electronics",
@@ -42598,8 +42598,8 @@
       "image": "./assets/pedals/lovepedal/zendrive-2/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Lovepedal/Zendrive 2.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Lovepedal / Love Pedal",
@@ -43738,8 +43738,8 @@
       "image": "./assets/pedals/maxon/distortion-master-ds830/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Maxon/Distortion Master (DS830).md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Maxon",
@@ -45267,8 +45267,8 @@
       "image": "./assets/pedals/mesa-boogie/grid-slammer/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/MESA/Boogie/Grid Slammer.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "MESA/Boogie",
@@ -47084,8 +47084,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/MXR/Super Badass Variac Fuzz.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "MXR",
@@ -47096,8 +47096,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/MXR/Timmy Overdrive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "MXR",
@@ -49316,8 +49316,8 @@
       "image": "./assets/pedals/prescription-electronics/face-lift/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Prescription Electronics/Face Lift.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Prescription Electronics",
@@ -49482,8 +49482,8 @@
       "image": "./assets/pedals/proco-sound/you-dirty-rat/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/ProCo Sound/You Dirty RAT.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Radial Engineering / Tonebone",
@@ -49982,8 +49982,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Rocktron/Rampage.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Roger Mayer",
@@ -54466,8 +54466,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Visual Sound / Truetone/Route 808.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Visual Sound / Truetone",
@@ -54587,8 +54587,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Voodoo Lab/Sparkle Drive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Voodoo Lab",
@@ -56262,8 +56262,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Way Huge/STO.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Way Huge",
@@ -56649,8 +56649,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Wren and Cuff/Your Face 60's.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Wren and Cuff",
