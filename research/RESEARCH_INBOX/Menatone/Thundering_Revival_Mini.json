@@ -1,0 +1,49 @@
+{
+  "builder": "Menatone",
+  "pedal": "Thundering Revival Mini",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 5,
+  "sources": [
+    {
+      "url": "https://www.menatone.com/thundering-revival-mini",
+      "title": "Thundering Revival Mini | menatone",
+      "h1": "PEDALS",
+      "excerpt": "--> Thundering Revival Mini | menatone top of page THE FINEST HANDMADE EFFECTS SINCE 1996 PEDALS HOME MOJO Red Snapper Mojo PTP Blue Collar Mojo PTP Top Boost in a Can Mojo The Law Bender Deluxe Redneck vs. Sputnik PTP/DELUXE Red Snapper 4 Knob PTP Blue Collar PTP Das Boost PTP The Howie Deluxe None More Black Deluxe STANDARD The King. Top Boost in a Can Wreck'T Fish Factory MenaWatt PiG The Dirty Blonde MINI Red Snapper Mini Red Snapper 4 knob Mini Blue Collar Mini JAC Compressor Mini Thundering Revival Mini The Law Mini Hindenburg Mini Mail Bomb Mini Pleasure Trem Mini Ms. Foxy Brown Mini PIPES IN STOCK CONTACT POLICIES DEALERS More Use tab to navigate through the menu items. Thundering Revival Mini Top of Page None More Black Deluxe The Thundering Revival is the natural companion to the Red Snapper and the Blue Collar.  Producing a natural, thick and articulate distortion ranging from almost a clean boost to a cranked JCM800 levels.  Its tone is not trying to turn your amp or guitar into something else, but works with them to create your style and sound.  This mini version uses all through hole components and is internally voltage doubled for more headroom and fatness.                          Build time is                   approx. 2-4 weeks. $169 Add to Cart DEMOS All demos played poorly by Menatone unless otherwise noted.  Amp is a princeton style 5w running into a Ox Amp Top Box.  Amp settings are very clean to not hide the sound of the pedal. Strat with hums - Greg Montante All controls at noon,  any tone and gain variances from guitar volume and tone  played by our friend Gregg Montante more to come.... &copy; 2024  MENATONE bottom of page window.__pageRevealPromise && window.__pageRevealPromise.then(function() { requestAnimationFrame(function() { try { var stored = sessionStorage.getItem('wix-motion-played-animations'); if (stored) { var played = JSON.parse(stored); for (var compId in played) { if (played[compId]) { var el = document.getElementById(compId); if (el) { el.dataset.motionEnter = 'done'; } } } } }",
+      "host": "www.menatone.com",
+      "source_kind": "manufacturer"
+    },
+    {
+      "url": "https://reverb.com/item/93662018-menatone-thundering-revival-mini-2025-buffalo-mud",
+      "title": "Menatone Thundering Revival Mini 2025 - Buffalo Mud - Reverb",
+      "h1": "",
+      "excerpt": "",
+      "host": "reverb.com",
+      "source_kind": "reverb"
+    },
+    {
+      "url": "https://www.ebay.com/itm/188628450282",
+      "title": "Menatone Thundering Revival Mini OverDrive Guitar Effect Pedal | eBay",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.ebay.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://stompboxsteals.blogspot.com/2026/05/overdrive-menatone-pedals-thundering.html",
+      "title": "STOMP BOX STEALS: OVERDRIVE- MENATONE PEDALS Thundering Revival Mini ...",
+      "h1": "",
+      "excerpt": "",
+      "host": "stompboxsteals.blogspot.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://www.amazon.co.jp/-/en/Menatone-Thundering-Revival-Mini-Overdrive/dp/B0DGX19BWV",
+      "title": "Amazon.co.jp",
+      "h1": "",
+      "excerpt": "Amazon.co.jp \u4e0b\u306e\u30dc\u30bf\u30f3\u3092\u30af\u30ea\u30c3\u30af\u3057\u3066\u30b7\u30e7\u30c3\u30d4\u30f3\u30b0\u3092\u7d9a\u3051\u3066\u304f\u3060\u3055\u3044 \u30b7\u30e7\u30c3\u30d4\u30f3\u30b0\u3092\u7d9a\u3051\u308b \u5229\u7528\u898f\u7d04 \u30d7\u30e9\u30a4\u30d0\u30b7\u30fc\u898f\u7d04 &copy; 1996-2025, Amazon.com, Inc. or its affiliates",
+      "host": "www.amazon.co.jp",
+      "source_kind": "other"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}

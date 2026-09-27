@@ -35705,8 +35705,8 @@
       "image": "./assets/pedals/electronic-audio-experiments/surveyor/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Electronic Audio Experiments/Surveyor.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Electronic Audio Experiments",
@@ -45012,8 +45012,8 @@
       "image": "./assets/pedals/menatone/pig/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Menatone/PiG.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Menatone",
@@ -45155,8 +45155,8 @@
       "image": "./assets/pedals/menatone/the-law-mini/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Menatone/The Law Mini.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Menatone",
@@ -45168,8 +45168,8 @@
       "image": "./assets/pedals/menatone/thundering-revival-mini/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Menatone/Thundering Revival Mini.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Menatone",
@@ -49353,8 +49353,8 @@
       "image": "./assets/pedals/prescription-electronics/rx-overdriver/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Prescription Electronics/RX Overdriver.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Prescription Electronics",

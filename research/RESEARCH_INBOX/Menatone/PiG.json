@@ -1,0 +1,73 @@
+{
+  "builder": "Menatone",
+  "pedal": "PiG",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 8,
+  "sources": [
+    {
+      "url": "https://www.menatone.com/pig",
+      "title": "PiG | menatone",
+      "h1": "PEDALS",
+      "excerpt": "--> PiG | menatone top of page THE FINEST HANDMADE EFFECTS SINCE 1996 PEDALS HOME MOJO Red Snapper Mojo PTP Blue Collar Mojo PTP Top Boost in a Can Mojo The Law Bender Deluxe Redneck vs. Sputnik PTP/DELUXE Red Snapper 4 Knob PTP Blue Collar PTP Das Boost PTP The Howie Deluxe None More Black Deluxe STANDARD The King. Top Boost in a Can Wreck'T Fish Factory MenaWatt PiG The Dirty Blonde MINI Red Snapper Mini Red Snapper 4 knob Mini Blue Collar Mini JAC Compressor Mini Thundering Revival Mini The Law Mini Hindenburg Mini Mail Bomb Mini Pleasure Trem Mini Ms. Foxy Brown Mini PIPES IN STOCK CONTACT POLICIES DEALERS More Use tab to navigate through the menu items. The PiG A man from Australia contacted me one morning about 3am. As usual I was up and he proceeded to ask me if I knew about the British &quot;Pig&quot; amp that Ronno played in his Glam Rock phase. After a long discussion the Menatone Custom Shop PiG was born. Based on an incredibly rare, high power British amp, the PiG is simply oozing with fat, ripping rock, and grissly, thick, bluesy goodness. This new 2025 PiG takes the internal switches for presence boost and cut and puts them on a toggle switch on top.  Also all top mounted jacks now. \u200b \u200b Build time is approx. 4-6 weeks 219 Add to Cart DEMO for some reason youtube  videos are not working on the site... i am trying to figure it out.  In the mean time you can search youtube for the Menatone demos.  There are many on youtube Manual &copy; 2024  MENATONE bottom of page \"use strict\";(self.webpackJsonp__wix_thunderbolt_app=self.webpackJsonp__wix_thunderbolt_app||[]).push([[\"1619\"],{26350(e,t,i){i.r(t),i.d(t,{STATIC_MEDIA_URL:()=>eH,fileType:()=>v,fittingTypes:()=>r,getData:()=>eR,MEDIA_ROOT_URL:()=>ez,sdk:()=>eB,isWEBP:()=>x,alignTypes:()=>c,htmlTag:()=>u,getPlaceholder:()=>eC,getResponsiveImageProps:()=>e$,upscaleMethods:()=>m,getFileExtension:()=>k,populateGlobalFeatureSupport:()=>q});let r={SCALE_TO_FILL:\"fill\",SCALE_TO_FIT:\"fit\",STRETCH:\"stretch\",ORIGINAL_SIZE:\"original_size\",TILE:\"tile\",TILE_HORIZONTAL:\"tile_horizontal\",TILE_VERTICAL:\"tile_vertical\",FIT_AND_TILE:\"fit_and_tile\",LEGACY_STRIP_TILE:\"legacy_strip_tile\",LEGACY_STRIP_TILE_HORIZONTAL:\"legacy_strip_tile_horizontal\",LEGACY_STRIP_TILE_VERTICAL:\"legacy_strip_tile_vertical\",LEGACY_STRIP_SCALE_TO_FILL:\"legacy_strip_fill\",LEGACY_STRIP_SCALE_TO_FIT:\"legacy_strip_fit\",LEGACY_STRIP_FIT_AND_TILE:\"legacy_strip_fit_and_tile\",LEGACY_STRIP_ORIGINAL_SIZE:\"legacy_strip_original_size\",LEGACY_ORIGINAL_SIZE:\"actual_size\",LEGACY_FIT_WIDTH:\"fitWidth\",LEGACY_FIT_HEIGHT:\"fitHeight\",LEGACY_FULL:\"full\",LEGACY_BG_FIT_AND_TILE:\"legacy_tile\",LEGACY_BG_FIT_AND_TILE_HORIZONTAL:\"legacy_tile_horizontal\",LEGACY_BG_FIT_AND_TILE_VERTICAL:\"legacy_tile_vertical\",LEGACY_BG_NORMAL:\"legacy_normal\"},n=\"fill\",a=\"fill_focal\",o=\"crop\",s=\"legacy_crop\",l=\"legacy_fill\",c={CENTER:\"center\",TOP:\"top\",TOP_LEFT:\"top_left\",TOP_RIGHT:\"top_right\",BOTTOM:\"bottom\",BOTTOM_LEFT:\"bottom_left\",BOTTOM_RIGHT:\"bottom_right\",LEFT:\"left\",RIGHT:\"right\"},h={[c.CENTER]:{x:.5,y:.5},[c.TOP_LEFT]:{x:0,y:0},[c.TOP_RIGHT]:{x:1,y:0},[c.TOP]:{x:.5,y:0},[c.BOTTOM_LEFT]:{x:0,y:1},[c.BOTTOM_RIGHT]:{x:1,y:1},[c.BOTTOM]:{x:.5,y:1},[c.RIGHT]:{x:1,y:.5},[c.LEFT]:{x:0,y:.5}},d={center:\"c\",top:\"t\",top_left:\"tl\",top_right:\"tr\",bottom:\"b\",bottom_left:\"bl\",bottom_right:\"br\",left:\"l\",right:\"r\"},u={BG:\"bg\",IMG:\"img\",SVG:\"svg\"},m={AUTO:\"auto\",CLASSIC:\"classic\",SUPER:\"super\"},g={radius:\"0.66\",amount:\"1.00\",threshold:\"0.01\"},p={uri:\"\",css:{img:{},container:{}},attr:{img:{},container:{}},transformed:!1},f=[1.5,2,4],_={HIGH:{size:196e4,quality:90,maxUpscale:1},MEDIUM:{size:36e4,quality:85,maxUpscale:1},LOW:{size:16e4,quality:80,maxUpscale:1.2},TINY:{size:0,quality:80,maxUpscale:1.4}},b=\"HIGH\",T=\"MEDIUM\",I=\"contrast\",E=\"brightness\",w=\"saturation\",L=\"blur\",v={JPG:\"jpg\",JPEG:\"jpeg\",JPE:\"jpe\",PNG:\"png\",WEBP:\"webp\",WIX_ICO_MP:\"wix_ico_mp\",WIX_MP:\"wix_mp\",GIF:\"gif\",SVG:\"svg\",AVIF:\"avif\",UNRECOGNIZED:\"unrecognized\"};function A(e,...t){return function(...i){l",
+      "host": "www.menatone.com",
+      "source_kind": "manufacturer"
+    },
+    {
+      "url": "https://reverb.com/p/menatone-pig-overdrive",
+      "title": "Menatone Pig Overdrive - Reverb",
+      "h1": "",
+      "excerpt": "",
+      "host": "reverb.com",
+      "source_kind": "reverb"
+    },
+    {
+      "url": "https://www.truetonemusic.com/products/menatone-pig",
+      "title": "Menatone The PiG Overdrive Guitar Effect Pedal \u2014 Truetone Music",
+      "h1": "Menatone The PiG Overdrive Guitar Effect Pedal",
+      "excerpt": "Menatone The PiG Overdrive Guitar Effect Pedal \u2014 Truetone Music Skip to content Menu All categories ------ Accessory Acoustic Guitar Appraisal Attenuator Banjo Banjo Strings Bass Bass Amp Cabinet Bass Amp Combo Bass Amp Head Bass Bag Bass Case Bass Pickup Bass Strings Cable Cable Adapter Capo Cigar Box Guitar Cleaner Electric Guitar Gift Card Guitar Amp Cabinet Guitar Amp Combo Guitar Amp Head Guitar Amplifier Guitar Bag Guitar Case Guitar Strings Humidifier Interface Keyboard Lap Steel Lifestyle Lifetstyle Mandolin Mandolin Strings Metronome Microphone Other Bag Other Case Other Strings Part Pedal Pedalboard Percussion Pick Pickup Polish Power Supply Pro Audio Slide Stand Strap Strap Lock Synth Tool Tube Tuner Ukulele Ukulele Strings Wireless System All categories Cancel Login View cart INSTRUMENTS New Electric Guitars Charvel Epiphone EVH Fano Fender Fender Custom Shop Gibson Gibson Custom Gretsch Gretsch Custom Shop Harmony Heritage Jackson Mayones Music Man Novo Perinetti Guitars Powers Electric PRS Reverend Squier by Fender New Bass Guitars Fano Fender Fender Custom Shop Gibson Gretsch Basses Hofner Mayones Music Man PRS Reverend Squier by Fender Sterling by Music Man Yamaha New Acoustic Guitars Alvarez Epiphone Fender Gibson Gretsch Kremona L.R. Baggs Martin Martin Custom Shop Taylor Taylor Custom Veillette Yamaha Folk / Ukulelles Banjos Mandolins Resonators Ukuleles Vintage & Used Vintage & Used Electric Guitars Vintage & Used Basses Vintage & Used Acoustics AMPLIFIERS New Guitar Amps Boss Carr Circa 74 Fender Fishman Fryette Gibson Harmony Magnatone Matchless Orange PRS Roland Vox New Bass Amps Aguilar Boss Darkglass Electronics Fender Orange Vox Bass Amps Used and Vintage Amps Load Boxes / Attenuators PEDALS Brands A-E Aclam Aguilar Animal Factory Pedals Bad Cat Beetronics Benson Black Mountain BMF Effects Boss Catalinbread Collision Devices Crazy Tube Circuits Crowther Audio Darkglass Electronics Days of Yore Death By Audio DigiTech DOD Dunlop Dusky Electronics EarthQuaker Devices Electro Harmonix Empress Effects Ernie Ball Eventide Brand F-G Fender Fishman Fjord Fuzz Fruit FX Gamechanger Audio GFI System Brands H-K JAM Pedals Jessup JHS J Rockett Keeley Kernom Korg Krozz Devices Brand L-Q Loop Switchers LR Baggs Maestro Maxon Menatone Meris MXR Nobels Pedals Orange Pedaltrain Peterson ProCo PRS Brand R-Z Radial Red Panda Reverie Circuitry Screwed Circuitz Source Audio Stacks FX Strymon Summer School Electronics Supercool Pedals Surfy Industries Swell Noise Teisco ThorpyFX Voodoo Lab Walrus Audio Way Huge Warm Audio ZVex Type Bass Pedals Buffer DI / Amp-Sim Drive / Distortion EQ / Compressor Filters / Wah Gate / Limiter Loopers / Drum Machines Modulation Multi-Effects / MIDI Pedalboard / Power Supplies / Pedal Accessories Pitch-Shift / Octave Reverb / Delay Switchers/Switches Synth / Sustain Tuners Vocal Volume / Expression Used & Vintage Pedals ARTIST COLLECTIONS Ry Cooder Colin Hay Brian Ray John Waite Jeffrey Foskett ACCESSORIES Guitar Pickups Bass Preamps / Pickups Guitar Cases Guitar Bags Bass Cases Bass Bags Merch DEALS Electric Guitars Acoustic Guitars Amps Basses Pedals INFO About Us Repairs Lessons Custom Pedalboards News & Reviews Policies TRADE/CONSIGN YOUR GEAR REPAIRS Login Close INSTRUMENTS INSTRUMENTS New Electric Guitars New Electric Guitars Charvel Epiphone EVH Fano Fender Fender Custom Shop Gibson Gibson Custom Gretsch Gretsch Custom Shop Harmony Heritage Jackson Mayones Music Man Novo Perinetti Guitars Powers Electric PRS Reverend Squier by Fender New Bass Guitars New Bass Guitars Fano Fender Fender Custom Shop Gibson Gretsch Basses Hofner Mayones Music Man PRS Reverend Squier by Fender Sterling by Music Man Yamaha New Acoustic Guitars New Acoustic Guitars Alvarez Epiphone Fender Gibson Gretsch Kremona L.R. Baggs Martin Martin Custom Shop Taylor Taylor Custom Veillette Yamaha Folk / Ukulelles Folk / Ukulelles Banjos Mandolins Resonators Ukuleles Vintage & Used Vintage & Used Vintage & Used Electric",
+      "host": "www.truetonemusic.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://www.instrumentalusa.com/product/menatone-the-pig-overdrive-guitar-effect-pedal/",
+      "title": "Menatone The PiG Overdrive Guitar Effect Pedal",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.instrumentalusa.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://www.effectsdatabase.com/model/menatone/pig",
+      "title": "Menatone PiG - Effects Database",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.effectsdatabase.com",
+      "source_kind": "effects_database"
+    },
+    {
+      "url": "https://www.rockboard.de/en/pedalPedia/Menatone/The-Pig/68981845/",
+      "title": "The Pig by Menatone | RockBoard | PedalPedia",
+      "h1": "The Pig",
+      "excerpt": "The Pig by Menatone | RockBoard | PedalPedia Skip to main content LOG IN EXPLORE Menatone The Pig LOG IN TO SUGGEST IMPROVEMENTS OVERDRIVE BOOSTER EQUALIZER Description A man from Australia contacted me one morning about 3am. As usual I was up and he proceeded to ask me if I knew about the British &quot;Pig&quot; amp that Ronno played in his Glam Rock phase. After a long discussion the Menatone Custom Shop PiG was born. Based on an incredibly rare, high power British amp, the PiG is simply oozing with fat, ripping rock, and grissly, thick, bluesy goodness. This new circuit board PiG is in a smaller enclosure with internal voltage doubling for a bigger sound with more headroom. Same circuit as the original with all of the same parts at a much better price. Media Videos Demo by daCod77 (EN) Demo by \u9b54\u6cd5\u306e\u7bb1\u7814\u7a76\u6240 - Stompbox Review Channel - Manuals Manual (EN) Reviews Review by Harmony Central (EN) Review by The Gear Page (EN) Links Product Page Technical data Width 000.00 mm Depth 000.00 mm Height 000.00 mm Circuit type analog Voltage 9V DC, center negative Current 20mA More pedals from Menatone TREMOLO TREMOLO Menatone Pleasure Trem Mini OVERDRIVE BOOSTER OVERDRIVE BOOSTER Menatone Blue Collar BOOSTER OVERDRIVE BOOSTER OVERDRIVE Menatone Blue Collar Mini Menatone Dumbstruck All Menatone Pedals Products Pedalboards All-In-One Patchbays QuickMount PedalSafe Power Supplies and Power Cables and Connections Accessories Gear Build your own board Board Configurator PedalPedia Pedalboard Gallery QuickMount Finder Services Find a dealer Find a distributor Frequently Asked Questions Contact Current catalog News Community RockBoard Artists Achievements Your Activity Overview \u00a92026 Warwick GmbH & Co. Music Equipment KG GTC | Imprint | Privacy policy | Accessibility | Cookie Settings",
+      "host": "www.rockboard.de",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://pedalfilter.com/menatone/pig",
+      "title": "PiG \u2014 Menatone Overdrive Pedal | PedalFilter | PedalFilter",
+      "h1": "PiG",
+      "excerpt": "PiG \u2014 Menatone Overdrive Pedal | PedalFilter | PedalFilter Skip to main content The guitar pedal database Search pedals The fastest, most visual guitar pedal database. All signal, no noise. About \u2022 Collections \u2022 Blog \u2022 Compare \u2022 Privacy Policy \u2022 Terms of Service \u2022 Submit a pedal \u2022 \u00a9 2026 PedalFilter Clear Compare ( 0 ) Back Home Menatone PiG Back to results Menatone PiG Overdrive Distortion Amp-in-a-box drive after a rare British 'Pig' amp, for fat, gristly rock and blues tones. The PiG is an overdrive and distortion voiced after a rare British 'Pig' amplifier used in glam rock, aimed at fat, ripping rock tones and thick, gristly blues grind. A presence boost-and-cut toggle, top-mounted on the current version, shifts the top-end response to match different amps and rooms. Rather than a transparent overdrive it's a colored, amp-style drive with its own strong midrange voice, built for classic and hard rock rhythm and lead work. It's hand-built to order in the USA, point-to-point wired. Demo Videos Specifications Power 9V DC Polarity center-negative Shop This Pedal Reverb Amazon Sweetwater Coming soon Using these links supports PedalFilter at no extra cost to you. \u2764\ufe0f The fastest, most visual guitar pedal database. All signal, no noise. About \u2022 Collections \u2022 Blog \u2022 Compare \u2022 Privacy Policy \u2022 Terms of Service \u2022 Submit a pedal \u2022 \u00a9 2026 PedalFilter The guitar pedal database Search pedals You May Also Like Jackson Audio Asabi Overdrive Distortion Strymon Riverside Vemuram Rage e Previous Das Boost Next Red Snapper 4 Knob",
+      "host": "pedalfilter.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://effectslayouts.blogspot.com/2018/12/menatone-pig.html",
+      "title": "Perf and PCB Effects Layouts: Menatone Pig - Blogger",
+      "h1": "",
+      "excerpt": "",
+      "host": "effectslayouts.blogspot.com",
+      "source_kind": "other"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}
