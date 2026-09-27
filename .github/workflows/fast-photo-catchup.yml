@@ -36,9 +36,9 @@ jobs:
               if r.get("Pedal Info") == "DONE" and r.get("Picture") != "DONE"
           ]
           targets.sort(key=lambda x: (x["builder"].casefold(), x["pedal"].casefold()))
-          targets = targets[:60]
+          targets = targets[:100]
           print("matrix=" + json.dumps({"include": targets}, ensure_ascii=False, separators=(",", ":")))
-          print(f"Prepared {len(targets)} photo targets (bounded to 60 per pass).", file=sys.stderr)
+          print(f"Prepared {len(targets)} photo targets (bounded to 100 per pass).", file=sys.stderr)
           PY
 
   recover:
@@ -46,7 +46,7 @@ jobs:
     needs: prepare
     strategy:
       fail-fast: false
-      max-parallel: 15
+      max-parallel: 20
       matrix: ${{ fromJSON(needs.prepare.outputs.matrix) }}
     runs-on: ubuntu-latest
     timeout-minutes: 4
