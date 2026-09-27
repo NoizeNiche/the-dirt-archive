@@ -2711,8 +2711,8 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/ampeg",
       "research_record": "./research/pedals/Ampeg/SCR-DI.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Ampeg",
@@ -4849,8 +4849,8 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/ashdown/nm2",
       "research_record": "./research/pedals/Ashdown Engineering/NM2 Nate Mendel Double Distortion.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Ashdown Engineering",
@@ -4873,8 +4873,8 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/ashdown/original/wattroy",
       "research_record": "./research/pedals/Ashdown Engineering/OriginAL Norman Watt-Roy Pre-DI.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Ashdown Engineering",
@@ -11771,8 +11771,8 @@
       "research_record": "./research/pedals/PRP Batch 093/Model R.md",
       "image_source_url": "https://static.wixstatic.com/media/9ca72c_abf73ccec5a946dfb7db5277c5fb2778~mv2.jpg/v1/fill/w_980,h_1307,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/9ca72c_abf73ccec5a946dfb7db5277c5fb2778~mv2.jpg",
       "image_source_page": "https://www.primofxllc.com/product-page/bjfe-model-r",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "BJFE / BJF Electronics",
@@ -56649,8 +56649,8 @@
       "image": null,
       "source_page": "https://lichtlaermaudio.com/shop/tdw",
       "research_record": "./research/pedals/LICHTLÆRM AUDIO/Total Distortion Worship MKII.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "LICHTLÆRM AUDIO",
@@ -56661,8 +56661,8 @@
       "image": null,
       "source_page": "https://lichtlaermaudio.com/shop",
       "research_record": "./research/pedals/LICHTLÆRM AUDIO/Thorn.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "LICHTLÆRM AUDIO",

@@ -1,28 +1,37 @@
-# Ashdown Engineering - OriginAL Norman Watt-Roy Pre-DI
+# Ashdown Engineering — OriginAL Norman Watt-Roy Pre-DI
 
 ## PRP identity
-- Builder: Ashdown Engineering
-- Catalog type: Overdrive
-- Identity: Limited Norman Watt-Roy special edition of the OriginAL Valve-Pre DI.
+- **Archive parent:** OriginAL Norman Watt-Roy Pre-DI
+- **Builder:** Ashdown Engineering
+- **Catalog type:** Overdrive
+- **Identity:** Ashdown Engineering's OriginAL Norman Watt-Roy Pre-DI.
 
 ## What this pedal is
-Ashdown produced a limited special edition OriginAL preamp/overdrive to Norman Watt-Roy's specification.
+Ashdown Engineering's OriginAL Norman Watt-Roy Pre-DI is cataloged as an overdrive pedal.
 
-## Architecture
-- OriginAL five-band EQ and valve-drive platform.
-- 12AX7 powered valve drive.
-- Drive Gain and Drive Level controls.
-- DI and ground-lift facilities.
+## Colorways
+- The anodized aluminum front panel of the Norman Watt-Roy OriginAL pedal has been finished in Shoreline Gold to match Norman's famous 1962 Fender Jazz Bass, known as "The Blockhead", and was his sole gigging and recording bass since the mid-80s.
 
-## History
-Effects Database dates the special edition to January 11, 2018 and documents a **strict run of 50 numbered units**, hand-signed by Norman Watt-Roy. The input sensitivity was modified to suit his playing style.
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
 
-## Power
-- 15-18V external supply, center negative.
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+More about the OriginAL pedal: Like all good pre-amp pedals, The OriginAL beautifully shapes the bass playerÃ¢Â€Â™s clean signal whilst offering a foot-switchable valve powered overdrive in a single compact unit.
+Setting it apart from others, The OriginAL delivers superb quantities of both clean and overdriven bass tone, without one feature outshinin
 
 ## Sources checked
-1. Effects Database: https://www.effectsdatabase.com/model/ashdown/original/wattroy
-2. Ashdown Engineering: https://ashdownmusic.com/
+1. Ashdown Engineering OriginAL Norman Watt-Roy Pre-DI | Effects Database: https://www.effectsdatabase.com/model/ashdown/original/wattroy
 
 ## Photo
-- Exact photo pending.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

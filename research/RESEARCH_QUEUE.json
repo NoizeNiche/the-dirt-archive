@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-27T06:56:44.402903+00:00",
+  "generated_at": "2026-09-27T06:58:12.396587+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,8 +10,8 @@
     "pictured": 3074,
     "complete": 3074,
     "research_pending": 0,
-    "deep_research_pending": 2177,
-    "deep_researched": 2053,
+    "deep_research_pending": 2171,
+    "deep_researched": 2059,
     "surface_ready": 4230
   },
   "next_target": {
@@ -37,13 +37,6 @@
       "research_level": "surface"
     },
     {
-      "builder": "Ampeg",
-      "pedal": "SCR-DI",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Ampeg/SCR-DI.md",
-      "research_level": "surface"
-    },
-    {
       "builder": "Ashdown Engineering",
       "pedal": "ABM PRO-FX Double Shot",
       "catalog_type": "",
@@ -52,23 +45,9 @@
     },
     {
       "builder": "Ashdown Engineering",
-      "pedal": "NM2 Nate Mendel Double Distortion",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Ashdown Engineering/NM2 Nate Mendel Double Distortion.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Ashdown Engineering",
       "pedal": "OriginAL - Valve-Pre DI",
       "catalog_type": "",
       "research_record": "./research/pedals/Ashdown Engineering/OriginAL - Valve-Pre DI.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Ashdown Engineering",
-      "pedal": "OriginAL Norman Watt-Roy Pre-DI",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Ashdown Engineering/OriginAL Norman Watt-Roy Pre-DI.md",
       "research_level": "surface"
     },
     {
@@ -195,6 +174,27 @@
       "pedal": "Windowpane - Silicon Fuzz",
       "catalog_type": "",
       "research_record": "./research/pedals/BBE/Windowpane - Silicon Fuzz.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Beetronics",
+      "pedal": "Abelha Tropical Fuzz",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Beetronics/Abelha Tropical Fuzz.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Beetronics",
+      "pedal": "Fatbee Overdrive",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Beetronics/Fatbee Overdrive.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Beetronics",
+      "pedal": "Octahive v2 High Octave Buzz",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Beetronics/Octahive v2 High Octave Buzz.md",
       "research_level": "surface"
     }
   ]

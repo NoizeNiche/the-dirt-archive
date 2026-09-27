@@ -13,3 +13,13 @@ A BJFE distortion built for the 2006 ToneFest in Chicago, with 40 made of a poss
 
 ## Archive photo
 - **Archive status:** **No Photo Archived**
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+BJFE / BJF Electronics's Model R is cataloged as a distortion pedal.
+
+### Sources checked in this pass
+1. BJFe Model R 5K | PrimoFX LLC: https://www.primofxllc.com/product-page/bjfe-model-r

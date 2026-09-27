@@ -1,30 +1,38 @@
-# Ashdown Engineering - NM2 Nate Mendel Double Distortion
+# Ashdown Engineering — NM2 Nate Mendel Double Distortion
 
 ## PRP identity
-- Builder: Ashdown Engineering
-- Catalog type: Distortion
-- Identity: NM2 Nate Mendel Double Distortion, originally developed as Stacked Actor.
+- **Archive parent:** NM2 Nate Mendel Double Distortion
+- **Builder:** Ashdown Engineering
+- **Catalog type:** Distortion
+- **Identity:** Ashdown Engineering's NM2 Nate Mendel Double Distortion.
 
 ## What this pedal is
-NM2 contains two independent distortion effects while preserving the dry bass signal. The two distortion paths can be routed individually or together.
+Ashdown Engineering's NM2 Nate Mendel Double Distortion is cataloged as a distortion pedal.
 
-## Architecture
-- Distortion 1.
-- Distortion 2.
-- Dry signal retained through the circuit.
-- Output-routing switch allows single-amp or split operation.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
 
-## Power
-- Internal 9V battery.
-- External stabilized 9V DC, center negative.
-- 470kOhm input impedance and 1kOhm output impedance are documented.
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
 
-## History
-The product was originally dubbed **Stacked Actor** but was renamed NM2 for legal reasons. Effects Database dates the listing to the 2010s.
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+Ashdown Engineering NM2 Nate Mendel Double Distortion
+Both of these outputs provide the same level of bass signal that is presented at the Input, plus their own individually adjustable mix of 2 separate, and very different distortion effects (one for each output), that can be added to the original dry bass signal for massive bass overdrive effects.
+For stereo use each output can be fed to separate amplifiers and the individually adjustable bass overdrive effects switched IN or OUT for Output 1, for Output 2 or both together.
 
 ## Sources checked
-1. Effects Database: https://www.effectsdatabase.com/model/ashdown/nm2
-2. Ashdown Engineering: https://ashdownmusic.com/
+1. Ashdown Engineering NM2 Nate Mendel Double Distortion | Effects Database: https://www.effectsdatabase.com/model/ashdown/nm2
 
 ## Photo
-- Exact photo pending.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
