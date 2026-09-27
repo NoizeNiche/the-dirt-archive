@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-27T08:04:51.634120+00:00",
+  "generated_at": "2026-09-27T08:07:49.866928+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,37 +10,23 @@
     "pictured": 3107,
     "complete": 3107,
     "research_pending": 0,
-    "deep_research_pending": 2159,
-    "deep_researched": 2083,
+    "deep_research_pending": 2156,
+    "deep_researched": 2086,
     "surface_ready": 4242
   },
   "next_target": {
-    "builder": "6 Degrees FX",
-    "pedal": "Hyper Catalyst",
+    "builder": "Ampeg",
+    "pedal": "A-1 Distortion",
     "catalog_type": "",
-    "research_record": "./research/pedals/6 Degrees FX/Hyper Catalyst.md",
+    "research_record": "./research/pedals/Ampeg/A-1 Distortion.md",
     "research_level": "surface"
   },
   "working_set": [
-    {
-      "builder": "6 Degrees FX",
-      "pedal": "Hyper Catalyst",
-      "catalog_type": "",
-      "research_record": "./research/pedals/6 Degrees FX/Hyper Catalyst.md",
-      "research_level": "surface"
-    },
     {
       "builder": "Ampeg",
       "pedal": "A-1 Distortion",
       "catalog_type": "",
       "research_record": "./research/pedals/Ampeg/A-1 Distortion.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Ashdown Engineering",
-      "pedal": "Triple Shot - Blended Drive",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Ashdown Engineering/Triple Shot - Blended Drive.md",
       "research_level": "surface"
     },
     {
@@ -195,6 +181,20 @@
       "pedal": "Bone Bender MKII",
       "catalog_type": "",
       "research_record": "./research/pedals/Baja Tech Custom/Bone Bender MKII.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Baja Tech Custom",
+      "pedal": "Da MOAF Deluxe",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Baja Tech Custom/DaMOAF Deluxe.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Baja Tech Custom",
+      "pedal": "Real Tube Overdrive",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Baja Tech Custom/Real Tube Overdrive.md",
       "research_level": "surface"
     }
   ]
