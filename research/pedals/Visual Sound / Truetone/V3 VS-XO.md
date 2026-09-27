@@ -1,23 +1,40 @@
 # Visual Sound / Truetone — V3 VS-XO
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** V3 VS-XO
 - **Builder:** Visual Sound / Truetone
-- **Pedal:** V3 VS-XO
 - **Catalog type:** Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Visual Sound / Truetone's V3 VS-XO.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **V3 VS-XO** by **Visual Sound / Truetone** as a **Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Visual Sound / Truetone's V3 VS-XO is cataloged as an overdrive pedal.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- The verified evidence references: V3.
+- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+Visual Sound Truetone V3 VS-XO Dual Od - Drum and Percussion Instruments for Practice, Learning and Performance Storewide 50% Discount!
+Ogni lato di questo pedale offre controlli di drive, tono e volume, rendendo semplice la selezione di due suoni completamente diversi.
+Il pedale XO veramente un doppio overdrive.
+
+## Sources checked
+1. Visual Sound Truetone V3 VS XO Premium Dual Overdrive Pedal: https://offerup.com/item/detail/beaa8921-f010-3f01-b202-7f812e4196ee
+2. Visual Sound Truetone V3 VS-XO Dual Od - Drum and Percussion Instruments for Practice, Learning and Performance: https://www.usarhythmgear.com/product/visual-sound-truetone-v3-vs-xo-dual-od/
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
