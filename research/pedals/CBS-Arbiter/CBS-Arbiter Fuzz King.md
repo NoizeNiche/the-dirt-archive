@@ -53,3 +53,7 @@ Later circuit-history discussions place the CBS-Arbiter Fuzz King in the broad f
 3. Reverb — 1973 CBS Arbiter Fuzz King by Gary Hurst: https://reverb.com/item/3991250-1973-cbs-arbiter-fuzz-king-by-gary-hurst-very-rare-fuzz-box-sounds-fantastic-worldwide-s-h
 4. Freestompboxes — CBS ARBITER line of effects: https://www.freestompboxes.org/viewtopic.php?t=3214
 5. Kit Rae — A Fuzz and Muff pedal Timeline: https://www.kitrae.net/music/Fuzz_Big_Muff_Timeline.html
+
+## Deep research verification
+
+The exact CBS-Arbiter Fuzz King record documents a rare Gary Hurst/Electronic Sounds lineage fuzz with **Fuzz, Volume and Filter** controls. A specific 1973 unit is documented with a matched quartet of **BC109** transistors. Dating sources differ between that 1973 example and the broader CBS-Arbiter 1975-1979 range, so no single universal production year is assigned. Exact diode type remains unknown.
