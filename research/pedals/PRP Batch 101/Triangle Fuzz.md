@@ -20,3 +20,5 @@ Blackhawk describes the build as a hand-made U.S. pedal with true bypass and sta
 
 ## Archive photo
 - **Archive status:** **No Photo Archived**
+## Deep research verification
+The cited Blackhawk source identifies Triangle Fuzz as a Triangle-style Big Muff / Pi fuzz with **Mid, Tone, Volume and Gain**. A documented build uses **PN5133** transistors and closely follows original emitter/collector values, with film and silver-mica capacitors. The adjustable Mid control moves the voicing below or above the traditional Muff mid position. Hand-built U.S. construction, true bypass and 9V negative-tip power are documented.
