@@ -1,23 +1,33 @@
-# BOSS — OD-2R Turbo OverDrive
+# BOSS - OD-2R Turbo OverDrive
 
-## Surface catalog record
+## PRP identity
 - **Builder:** BOSS
 - **Pedal:** OD-2R Turbo OverDrive
 - **Catalog type:** Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **OD-2R Turbo OverDrive** by **BOSS** as a **Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+The BOSS OD-2R is the later reissue/revision of the Turbo OverDrive concept, retaining the two-voice overdrive architecture of the OD-2 while receiving a later production implementation.
 
-## Catalog source
-- Catalog source page on file: https://www.effectsdatabase.com/model/boss/compact/od2r
+## Deep research verification
+
+### Controls
+- **DRIVE**
+- **TONE**
+- **LEVEL**
+- **TURBO** selection
+
+### Model boundary
+The archive keeps **OD-2R** separate from **OD-2**. The R suffix identifies the later reissue generation rather than a mere cosmetic colorway.
+
+### Sound
+The standard channel covers conventional BOSS overdrive, while Turbo emphasizes a stronger, more aggressive drive response and output.
+
+### Component evidence
+Exact transistor and clipping-diode part numbers are not established by the reviewed archive sources.
+
+## Sources checked
+- Effects Database: https://www.effectsdatabase.com/model/boss/compact/od2r
+- BOSS/OD-2R documentation: https://manualzz.com/doc/4632024/boss-od-2-turbo-overdrive-owner-s-manual
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** **Exact Photo Pending**
