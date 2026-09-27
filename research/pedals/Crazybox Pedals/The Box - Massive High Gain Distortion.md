@@ -44,3 +44,21 @@ Classic Mode is described as a crunchy, open, harmonically rich high-gain distor
 ## Sources checked
 1. Effects Database - Crazybox Pedals The Box
 2. Effects Database manufacturer video archive for The Box
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Crazybox Pedals's The Box - Massive High Gain Distortion is cataloged as a distortion pedal.
+
+### Verified version references
+- The evidence references: v3.
+
+### Verified sound evidence
+Crazybox Pedals The Box - Massive High Gain Distortion
+Two powerful high gain distortion channels completely independent that share a 3-band active tonestack / EQ.
+On the one hand the CLASSIC MODE offers tones from hard rock to heavy metal with a classic crunchy open tone full of harmonics.
+
+### Sources checked in this pass
+1. Crazybox Pedals The Box - Massive High Gain Distortion | Effects Database: https://www.effectsdatabase.com/model/crazybox/thebox
