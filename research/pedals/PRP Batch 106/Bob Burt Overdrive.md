@@ -21,3 +21,5 @@ The standard control layout is Gain, Tone and Volume with true-bypass switching.
 
 ## Archive photo
 - **Archive status:** **No Photo Archived**
+## Deep research verification
+Effects Database and the Bob Burt interview record the standard Bob Burt Overdrive as a transparent, low-end-preserving overdrive with **Gain, Tone and Volume** and true bypass. Published variants include Low Gain, High Gain and a bass-oriented version. The documented voicing emphasizes retained lows, controlled mids and a broad tone sweep from darker brown-style response toward brighter attack.
