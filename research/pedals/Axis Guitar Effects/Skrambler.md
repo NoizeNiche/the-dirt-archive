@@ -1,45 +1,59 @@
-# Axis Guitar Effects - Skrambler
+# Axis Guitar Effects — Skrambler
 
 ## PRP identity
 - **Archive parent:** Skrambler
 - **Builder:** Axis Guitar Effects
-- **Catalog type:** Fuzz
-- **Identity:** Axis Guitar Effects interpretation of the rare Ampeg Scrambler octave-fuzz circuit.
+- **Catalog type:** Octave Fuzz
+- **Identity:** Sonic clone of the rare Ampeg Scrambler octave fuzz, with Blend and Texture controls plus the original circuit's gated response. [1]
 
-## What this pedal is
-Effects Database identifies the Skrambler as a sonic clone of the Ampeg Scrambler. It combines a clean/dirt Blend control with a Texture control that increases distortion and octave intensity, while retaining the trademark gated response associated with the original circuit.
+## Controls
+- **BLEND:** Mixes the effected signal with clean signal.
+- **TEXTURE:** Increases distortion intensity and the amount of upper-octave signal.
+- Footswitch / bypass. [1]
 
-## Colorways
-- No reliable factory colorway chronology was verified.
-- The archived Effects Database image is treated as an exact-model reference, not as proof of a single factory finish.
+## Circuit lineage
+- **Primary reference:** Ampeg Scrambler.
+- Effects Database explicitly calls the Skrambler a sonic clone of the Ampeg Scrambler. [1]
+- The archive treats this as the documented product lineage and does not infer exact component equivalence without a schematic.
 
-## Versions and factory options
-### Skrambler production
-- Blend control for clean/effected mix
-- Texture control for distortion/octave intensity
-- Octave-up fuzz architecture
-- Built-in gated response characteristic
-- Power-supply filtering capacitor
-- Reverse-polarity protection diode
-
-## Version changes
-No numbered factory revision was verified in the checked source.
+## Diode / protection
+- **Power-supply filtering capacitor:** Documented.
+- **Reverse-polarity protection diode:** Documented.
+- These are protection/filter components, not proof of the clipping diode recipe. [1]
+- Exact clipping devices and semiconductor part numbers are not published.
 
 ## Transistor
-- **Technology:** Analog octave-fuzz architecture.
-- **Exact device:** Transistor part numbers are not publicly documented in the checked source.
-
-## Diode
-- **Function:** A reverse-polarity protection diode is explicitly documented.
-- **Clipping devices:** No exact clipping-diode specification was published in the checked source.
+- Exact transistor part numbers are not publicly documented.
 
 ## Sound
-The Skrambler is built for the aggressive octave-fuzz character associated with the Ampeg Scrambler, with the Blend control allowing the player to reintroduce clean signal. Texture increases both the distortion intensity and octave presence, and the circuit's gated response is part of its characteristic behavior.
+The Skrambler reproduces the aggressive octave-fuzz character and unusual gating associated with the Ampeg Scrambler. Effects Database recommends neck-pickup use with reduced guitar tone for the classic response. [1]
+
+## Version / special-run history
+- No numbered electronic revision established.
+- A **special-edition unit #025** with one-off gold side stenciling is documented in Fuzz Central's historical 2004 notes. This is a cosmetic special edition, not a circuit revision. [2]
+
+## Power / construction
+- Added power-supply filtering and reverse-polarity protection.
+- Exact supply voltage/current is not established in the reviewed Axis record.
+
+## Research confidence
+- **Identity:** High
+- **Ampeg Scrambler clone relationship:** High
+- **Blend/Texture controls:** High
+- **Gated response:** High
+- **Protection/filter additions:** High
+- **Special-edition #025 cosmetic note:** High
+- **Exact transistor:** Unknown
+- **Exact clipping diode:** Unknown
+
+## Deep research verification
+The Axis exact-model record was checked against Fuzz Central's historical note documenting special-edition Skrambler #025. The archive distinguishes that cosmetic special run from electronic revision history and preserves the documented power-protection additions. [1][2]
 
 ## Sources checked
-1. Effects Database - Axis Skrambler: https://www.effectsdatabase.com/model/axisge/skrambler
+1. Effects Database — Axis Skrambler: https://www.effectsdatabase.com/model/axisge/skrambler
+2. Fuzz Central — Historical updates / Skrambler #025: https://fuzzcentral.ssguitar.com/updates.php
 
 ## Photo
 - **Archive status:** **Exact Photo Attached to Public Catalog**
 - **Exact-model image:** https://files.effectsdatabase.com/gear/thumbs/axisge_skrambler_001.jpg
-- **Source page:** https://www.effectsdatabase.com/model/axisge/skrambler
+- **Source page:** Effects Database exact-model record.
