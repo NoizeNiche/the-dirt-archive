@@ -1,48 +1,68 @@
-# AXiom Effects - Distortion Preamp DP-1
+# AXiom Effects — Distortion Preamp DP-1
 
 ## PRP identity
 - **Archive parent:** Distortion Preamp DP-1
 - **Builder:** AXiom Effects
 - **Catalog type:** Distortion
-- **Identity:** Handmade 100% analog distortion preamp designed to span transparent grit through tight, high-gain distortion and direct recording use.
+- **Identity:** Handmade 100% analog distortion/preamp designed to span transparent grit through tight, very high-gain distortion, with a cascaded MORE stage and a sloped MID control. [1]
 
 ## What this pedal is
-AXiom's DP-1 centers on DISTORTION and MORE gain stages with a Classic/Modern mode and a sloped MID control for changing the low-mid/high-mid balance. The builder also documents bass/treble shaping and demonstrates the pedal both direct and through a simulated power-amp chain.
+AXiom designed DP-1 as a broad-range analog distortion/preamp. The builder says it can go from very light breakup to tight modern “chug,” fat distortion and transparent grit that cleans up from the guitar volume control. [1]
 
-## Colorways
-- AXiom says each pedal is individually handmade with manually screen-printed graphics, so minor cosmetic variations are expected.
-- No formal factory colorway series was verified.
+## Controls / architecture
+- **DISTORTION**
+- **MORE:** Cascaded additional gain stage.
+- **CLASSIC / MODERN**
+- **MID:** Sloped control that changes the midrange balance.
+- Bass and Treble tone shaping are part of the architecture.
+- True bypass.
+- Matching color LED. [1]
 
-## Versions and factory options
-### DP-1 production
-- 100% analog circuitry
-- DISTORTION control
-- MORE cascaded gain control
-- CLASSIC / MODERN mode
-- Sloped MID control
-- Bass/treble tone shaping
-- True bypass
-- Matching color LED
+## Circuit behavior
+- 100% analog.
+- Cascaded gain structure.
+- Classic/Modern changes the overall voicing.
+- Sloped MID changes the balance between scooped and forward midrange response.
+- AXiom demonstrates the unit direct into a cab-emulation chain, showing intended preamp use. [1]
 
-## Version changes
-No numbered factory revision was verified.
+## Active device
+- Exact transistor/op-amp part numbers are not publicly documented.
 
-## Transistor
-- **Technology:** Analog active gain stages.
-- **Exact device:** Exact transistor part numbers are not published in the checked AXiom sources.
+## Diode / clipping
+- Exact clipping-device arrangement is not publicly documented.
 
-## Diode
-- **Type:** Exact clipping-diode devices are not published in the checked AXiom sources.
+## Construction
+- Individually handmade.
+- Manually screen-printed graphics.
+- Minor cosmetic variation between units is expected. [1]
+
+## Version history
+- No numbered electronic revision established in the current product documentation.
+
+## Power
+- Exact current draw/connector specification is not exposed in the reviewed product page.
 
 ## Sound
-AXiom designed the DP-1 to cover light breakup through very high-gain distortion, including tight modern chug and a looser vintage mode. The MORE stage can add a thicker second layer of gain, while the MID control shifts the voice between more scooped and more forward voicings.
+AXiom positions DP-1 from light breakup and transparent grit through saturated distortion. The cascaded MORE stage can add another gain layer, while Classic/Modern and the sloped MID control shift the response between looser/vintage and tighter/more modern territories. [1]
+
+## Research confidence
+- **Identity:** High
+- **100% analog:** High
+- **Cascaded MORE stage:** High
+- **Classic/Modern:** High
+- **Sloped MID:** High
+- **Exact active device:** Unknown
+- **Exact diode:** Unknown
+- **Power:** Not established
+
+## Deep research verification
+AXiom's current DP-1 page was checked directly. It confirms the wide gain range, cascaded MORE stage, Classic/Modern voicing, sloped MID behavior, analog construction and handmade production. No unpublished component values were inferred. [1]
 
 ## Sources checked
-1. AXiom Effects - Distortion Preamp DP-1: https://axiomeffects.com/collections/frontpage/products/axiom-distortion-preamp-dp-1
-2. AXiom Effects home/product catalog: https://axiomeffects.com/
-3. AXiom Effects FAQ: https://axiomeffects.com/pages/faq
+1. AXiom Effects — Distortion Preamp DP-1: https://axiomeffects.com/collections/frontpage/products/axiom-distortion-preamp-dp-1
+2. AXiom Effects — Home/product catalog: https://axiomeffects.com/
+3. AXiom Effects — FAQ: https://axiomeffects.com/pages/faq
 
 ## Photo
 - **Archive status:** **No Photo Archived**
-- **Exact-model reference checked:** https://axiomeffects.com/collections/frontpage/products/axiom-distortion-preamp-dp-1
-- **Archive note:** Exact official product photography is visible on the current builder page, but the currently exposed image URLs were not stable enough to promote as archive assets in this pass.
+- **Exact-model reference checked:** AXiom exact-model product page.
