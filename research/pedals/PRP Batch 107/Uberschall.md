@@ -30,3 +30,15 @@ A dedicated boost provides an adjustable volume increase and a preset amount of 
 
 ## Archive photo
 - **Archive status:** **No Photo Archived**
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Bogner Amplification's Uberschall is cataloged as a distortion pedal.
+
+### Sources checked in this pass
+1. catalog/override source: https://www.effectsdatabase.com/model/bogner/uberschall
+2. Bogner Uberschall pedal review | MusicRadar: https://www.musicradar.com/reviews/guitars/bogner-uberschall-pedal-572597
+3. catalog/override source: https://reverb.com/p/bogner-uberschall

@@ -28,3 +28,14 @@ The OD side covers cleaner breakup through saturated drive, while the fuzz side 
 
 ## Archive photo
 - **Archive status:** **No Photo Archived**
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Black Cat Pedals's OD-Fuzz is cataloged as a fuzz / overdrive pedal.
+
+### Sources checked in this pass
+1. Black Cat OD Fuzz – Chicago Music Exchange: https://www.chicagomusicexchange.com/products/black-cat-od-fuzz-9574
+2. catalog/override source: https://reverb.com/p/black-cat-od-fuzz

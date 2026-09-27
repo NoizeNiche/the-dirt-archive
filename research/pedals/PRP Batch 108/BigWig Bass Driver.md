@@ -29,3 +29,14 @@ The Frith side ranges from clean boost through grit into borderline-fuzz distort
 
 ## Archive photo
 - **Archive status:** **No Photo Archived**
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Bookworm Effects's BigWig Bass Driver is cataloged as a fuzz / overdrive pedal.
+
+### Sources checked in this pass
+1. catalog/override source: https://www.talkbass.com/classifieds/bookworm-effects-bigwig-bass-driver-v2.1338284/
+2. catalog/override source: https://reverb.com/item/693545-sale-bookworm-effects-bigwig-bass-driver

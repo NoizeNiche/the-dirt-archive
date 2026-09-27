@@ -44,3 +44,23 @@ Standard mode stays close to the familiar DS-1 voice, including its hard-edged a
 ## Archive photo
 - **Archive status:** **Exact model photo archived**
 - **Image source:** https://www.thomann.de/gb/boss_ds_1w_waza_craft_distortion.htm
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+BOSS's DS-1W Distortion is cataloged as a distortion pedal.
+
+### Verified color/finish evidence
+- Accessories Support The Classic BOSS Distortion, Enhanced with Waza Craftsmanship Introduced in 1978 among the earliest models in the BOSS compact series, the orange DS-1 redefined the sound of distortion and remains as influential today as ever.
+
+### Verified sound evidence
+Boss DS-1w Distortion – United States Served with love!
+Accessories Support The Classic BOSS Distortion, Enhanced with Waza Craftsmanship Introduced in 1978 among the earliest models in the BOSS compact series, the orange DS-1 redefined the sound of distortion and remains as influential today as ever.
+Its hard-edged attack and smooth sustain have made it the best-selling compact effect to date, and its distinctive tone is behind the signature sounds of a long list of rock and alternative icons.
+
+### Sources checked in this pass
+1. Boss DS-1w Distortion – United States: https://www.thomannmusic.com/boss_ds_1w_distortion.htm
+2. catalog/override source: https://www.thomann.de/gb/boss_ds_1w_waza_craft_distortion.htm
+3. BOSS - DS-1W | Distortion: https://www.boss.info/us/products/ds-1w/

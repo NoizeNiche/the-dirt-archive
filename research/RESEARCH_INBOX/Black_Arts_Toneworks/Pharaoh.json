@@ -1,0 +1,25 @@
+{
+  "builder": "Black Arts Toneworks",
+  "pedal": "Pharaoh",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 2,
+  "sources": [
+    {
+      "url": "https://www.blackartstoneworks.com/pedal/pharaoh/",
+      "title": "Pharaoh | Black Arts Toneworks",
+      "h1": "Pharaoh",
+      "excerpt": "Pharaoh | Black Arts Toneworks Menu Pedals News Swag Friends & Retailers Contact   Pharaoh Pharaoh For musicians who love their guitar and amp\u2019s tone. The Pharaoh pedal, while its roots and DNA are classic fuzz, has a few twists. The Pharaoh has a wide range of clipping and tonal options. From a cleanish boost, to a light OD, all the way to saturated fuzz. It sounds clear and natural, strong and bold. Your guitar sound isn\u2019t high jacked, and your amp\u2019s tone is not destroyed. The Pharaoh utilizes a dual tone control. The tone circuit is designed to suffer little volume loss, and give a natural sound. Your guitar and amp still sound like your guitar and amp. No drastic cuts or boosts. The tone section allows your amp to do the heavy lifting. The Pharaoh starts with a hi/lo input switch, not unlike that of your favorite tube amp. Lo for more headroom/less clipping. Hi for less headroom/more clipping. A standard fuzz knob. A full range tone control with the addition of a high end compensation knob to allow you to replenish the highs cut by the tone control when boosting lows. The diode selector switch allows for different modes of clipping. Silicon Diodes for a raspy distorted sound, Diodes out for more volume /headroom and less clipping. Asymmetrical Germanium clipping diodes give a warm, tubey old school sound. The two switches can take the Pharaoh from a clean/ fat boost to light OD which cleans up well with your guitar\u2019s volume knob, all the way to hairy open fuzz. The Pharaoh utilizes signal caps large enough to pass all frequencies through, uncut. Again, a natural sound. This is especially important for bass player; you\u2019ll get huge fuzz with NO low-end loss, and without squishy flubby tones. This pedal operates on a Standard 9VDC power supply. No battery connection. $189 &copy; 2026 Black Arts Toneworks. All Rights Reserved.",
+      "host": "www.blackartstoneworks.com",
+      "source_kind": "manufacturer"
+    },
+    {
+      "url": "https://www.effectsdatabase.com/model/blackarts/pharaoh",
+      "title": "catalog/override source",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.effectsdatabase.com",
+      "source_kind": "effects_database"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}

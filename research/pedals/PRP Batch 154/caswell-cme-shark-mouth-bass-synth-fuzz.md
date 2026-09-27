@@ -15,3 +15,17 @@
 - **Research confidence:** High for the core operation and MPSA18 transistors; medium for the full control and power specification.
 - **Sources checked:**
   - https://www.effectsdatabase.com/model/caswell/sharkmouth
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Caswell Modern Electronics (CME)'s Shark Mouth - Bass Synth Fuzz is cataloged as a fuzz pedal.
+
+### Verified sound evidence
+Caswell Modern Electronics (CME) Shark Mouth - Bass Synth Fuzz
+
+### Sources checked in this pass
+1. Caswell Modern Electronics / Caswell Modern Electronics: https://caswellmodernelectronics.bigcartel.com/product/shark-mouth-bass-synth-fuzz
+2. Caswell Modern Electronics (CME) Shark Mouth - Bass Synth Fuzz | Effects Database: https://www.effectsdatabase.com/model/caswell/sharkmouth

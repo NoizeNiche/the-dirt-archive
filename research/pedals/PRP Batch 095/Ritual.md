@@ -12,3 +12,15 @@ The Ritual is a deliberately minimal one-knob fuzz. Black Arts Toneworks describ
 
 ## Archive photo
 - **Archive status:** **No Photo Archived**
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Black Arts Toneworks's Ritual is cataloged as a fuzz pedal.
+
+### Sources checked in this pass
+1. catalog/override source: https://blackartstoneworks.blogspot.com/2012/06/ritual-and-revelation.html
+2. catalog/override source: https://www.effectsdatabase.com/model/blackarts/ritual
+3. https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQkyGpuzna9spGcbXECbZz3YdpkQXgfbIKOGhUvgyMzaJepAifGbZDKnJTxF90nAL7vJMcasNjFiQhCPhxSc_W67iosEbQZC7xMkMIDiGkiGrM89mXxi5TQpk5POw2xRY4et9oazbhXcKu/s1600/Black+Arts+Ritual+Limited+Black+Chrome+Edition+jpeg.jpg: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQkyGpuzna9spGcbXECbZz3YdpkQXgfbIKOGhUvgyMzaJepAifGbZDKnJTxF90nAL7vJMcasNjFiQhCPhxSc_W67iosEbQZC7xMkMIDiGkiGrM89mXxi5TQpk5POw2xRY4et9oazbhXcKu/s1600/Black+Arts+Ritual+Limited+Black+Chrome+Edition+jpeg.jpg

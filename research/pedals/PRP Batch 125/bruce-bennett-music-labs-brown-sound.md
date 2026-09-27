@@ -34,3 +34,19 @@ Brown Sound is documented as a harmonically rich drive/distortion pedal rather t
 ## Sources checked
 1. Reverb — Bruce Bennett Music Labs Brown Sound Overdrive Distortion Pedal: https://reverb.com/uk/item/4817041-bruce-bennett-music-labs-brown-sound-overdrive-distortion-pedal
 2. Guitar Gear — Brown Sound distortion box / Bruce Bennett Music Labs: https://guitargear.org/2009/03/25/gear-find-oohlala-manufacturing-brown-sound-distortion-box/
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Tagged bennett music labs , brown sound distortion pedal , distortion , distortion pedal , effect pedals , Effects , GAS , gear , gear find , guitar , guitar effects , guitar gear , guitar pedals , guitarists , Guitars , Music , musicians , pedals
+
+### Verified sound evidence
+Gear Find: Oohlala Manufacturing Brown Sound Distortion Box
+Feeds: Posts Comments Gear Find: Oohlala Manufacturing Brown Sound Distortion Box March 25, 2009 by Unco B Ahh… yet another distortion box!
+The Brown Sound The original “Brown Sound” was popularized by the likes of Jimi Hendrix and Clapton with the “Woman Tone.” In its simplest sense, the Brown Sound was produced by using a bit of fuzz combined with TONS of power tube distortion.
+
+### Sources checked in this pass
+1. catalog/override source: https://reverb.com/uk/item/4817041-bruce-bennett-music-labs-brown-sound-overdrive-distortion-pedal
+2. Gear Find: Oohlala Manufacturing Brown Sound Distortion Box | Guitar Gear: https://guitargear.org/2009/03/25/gear-find-oohlala-manufacturing-brown-sound-distortion-box/

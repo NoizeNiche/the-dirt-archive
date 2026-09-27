@@ -28,3 +28,20 @@ Level sets output and Distortion moves from lower drive into much heavier satura
 
 ## Archive photo
 - **Archive status:** **No Photo Archived**
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Bootlegger Guitar Zapped "Up Yours" Tube Distortion — Distortion Pedal Specs & Where to Buy
+
+### Verified version references
+- The evidence references: V2, V8.
+
+### Verified sound evidence
+Bootlegger Guitar Zapped "Up Yours" Tube Distortion — Distortion Pedal Specs & Where to Buy
+
+### Sources checked in this pass
+1. Bootlegger Guitar Zapped "Up Yours" Tube Distortion — Distortion Pedal Specs & Where to Buy | one thousand pedals: https://onethousandpedals.com/pedal/bootlegger-guitar-zapped-up-yours-tube-distortion
+2. Bootlegger Zapped Up Yours Analog Tube Distortion With EQ: https://www.bootleggerguitar.com/product-page/tube-distortion-pedal

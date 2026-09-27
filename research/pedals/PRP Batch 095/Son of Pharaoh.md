@@ -12,3 +12,20 @@ The Son of Pharaoh is the compact version of the Gold Standard Pharaoh platform.
 
 ## Archive photo
 - **Archive status:** **No Photo Archived**
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Black Arts Toneworks's Son of Pharaoh is cataloged as a distortion / fuzz pedal.
+
+### Verified color/finish evidence
+- Black Arts Toneworks Menu Pedals News Swag Friends & Retailers Contact Son of Pharaoh Son of Pharaoh The Son stays true to the patriarch of the Pharaoh line.
+- OUT OF PRODUCTION © 2026 Black Arts Toneworks.
+
+### Verified sound evidence
+Same King Pharaoh tone, smaller Son stature.
+
+### Sources checked in this pass
+1. Son of Pharaoh | Black Arts Toneworks: https://www.blackartstoneworks.com/pedal/son-of-pharaoh/

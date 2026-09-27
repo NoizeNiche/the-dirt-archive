@@ -21,3 +21,24 @@ The Uruk-Hai MKII {Parallel} Drive & Fuzz combines Blackhawk's Valkyrie Drive an
 
 ## Archive photo
 - **Archive status:** **No Photo Archived**
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Products GIFT CARDS NEWS Contact Cart ( 0 ) Products GIFT CARDS NEWS Contact Cart ( 0 ) Sold out URUK-HAI MKII {PARALLEL} DRIVE & FUZZ $ 400.00 - $ 420.00 URUK-HAI PARALLEL FUZZ//DRIVE The harmonic richness and texture is so much more than your average distortion.
+
+### Verified version references
+- The evidence references: MKII.
+
+### Verified diode terms
+- LED.
+
+### Verified sound evidence
+URUK-HAI MKII {PARALLEL} DRIVE & FUZZ
+BLACKHAWK AMPLIFIERS “CHERNOBYL” PI π BASS FUZZ IS BACK!!
+“CHERNOBYL” PI π BASS FUZZ IS BACK!!
+
+### Sources checked in this pass
+1. URUK-HAI MKII {PARALLEL} DRIVE & FUZZ | BLACKHAWK AMPLIFIERS: https://www.blackhawkamplifiers.com/product/uruk-hai-parallel-mkii

@@ -38,3 +38,20 @@ At one end of its range Stiletto produces warm germanium fuzz, while the Cut con
 
 ## Sources checked
 1. Effects Database — Buffalo FX Stiletto Fuzz: https://www.effectsdatabase.com/model/buffalofx/stiletto
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+$0.00 (ARCHIVE) Buffalo FX Stiletto Fuzz Pedal Zoom Zoom Zoom Share Tweet Pin Description Guitarchives See all See all If you want a luxurious Fuzz-Face style fuzz, the absolute best options around feature the famed NTK-275 Germanium transistor, like this little beauty does.
+
+### Verified transistor/device terms
+- Germanium transistor.
+
+### Verified sound evidence
+$0.00 (ARCHIVE) Buffalo FX Stiletto Fuzz Pedal Zoom Zoom Zoom Share Tweet Pin Description Guitarchives See all See all If you want a luxurious Fuzz-Face style fuzz, the absolute best options around feature the famed NTK-275 Germanium transistor, like this little beauty does.
+It's a thick, warm, rich fuzz that'll do low gain bluesy gooeyness or all-out WTF-is-wrong-with-you shouting sustain.
+
+### Sources checked in this pass
+1. Buffalo FX Stiletto Fuzz Pedal – Topshelf Instruments: https://topshelfinstruments.com.au/products/buffalo-fx-stiletto-fuzz-pedal

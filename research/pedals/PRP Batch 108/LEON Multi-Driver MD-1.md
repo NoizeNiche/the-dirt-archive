@@ -24,3 +24,13 @@ Boorocks describes the pedal as hand-wired with selected parts, including German
 
 ## Archive photo
 - **Archive status:** **No Photo Archived**
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Boorocks's LEON Multi-Driver MD-1 is cataloged as a distortion / fuzz / overdrive pedal.
+
+### Sources checked in this pass
+1. BOOROCKS LEON Multi-Driver MD-1《オーバードライブ/ディストーション》【WEBショップ限定】（新品）【楽器検索デジマート】: https://www.digimart.net/cat13/shop5000/DS07508125/

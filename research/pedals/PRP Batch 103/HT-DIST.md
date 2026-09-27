@@ -26,3 +26,18 @@ The pedal includes both a normal output and a speaker-emulated output for record
 
 ## Archive photo
 - **Archive status:** **No Photo Archived**
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Blackstar Amplification's HT-DIST is cataloged as a distortion pedal.
+
+### Verified version references
+- The evidence references: v15.
+
+### Sources checked in this pass
+1. Blackstar Amplification HT-Dist - Distortion - Audiofanzine: https://en.audiofanzine.com/guitar-distortion-overdrive-fuzz/blackstar-amplification/ht-dist/
+2. Blackstar Amplification HT-Dist - Distorsion guitare - Audiofanzine: https://fr.audiofanzine.com/distorsion-guitare/blackstar-amplification/ht-dist/
+3. catalog/override source: https://blackstaramps.com/wp-content/uploads/2021/10/ht-dist-handbook.pdf

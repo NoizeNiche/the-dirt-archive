@@ -26,3 +26,14 @@ The main Level, Tone and Gain controls provide the continuous part of the range.
 
 ## Archive photo
 - **Archive status:** **No Photo Archived**
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Bogner Amplification's Oxford is cataloged as a fuzz pedal.
+
+### Sources checked in this pass
+1. catalog/override source: https://www.sweetwater.com/store/detail/Oxford--bogner-oxford-fuzz-pedal
+2. catalog/override source: https://www.effectsdatabase.com/model/bogner/oxford

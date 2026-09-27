@@ -26,3 +26,13 @@ The Texture control changes character in both modes, and the Blend control can m
 
 ## Archive photo
 - **Archive status:** **No Photo Archived**
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+BLAMMO! Electronics's Skrambler is cataloged as a fuzz pedal.
+
+### Sources checked in this pass
+1. Skrambler | BLAMMO! Electronics: https://www.blammoelectronics.com/product-page/skrambler

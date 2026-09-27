@@ -25,3 +25,28 @@ Documented versions include germanium and silicon transistor builds. The silicon
 
 ## Archive photo
 - **Archive status:** **No Photo Archived**
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+BLAMMO! Electronics's L.A. Square Face is cataloged as a fuzz pedal.
+
+### Verified color/finish evidence
+- But if you’re more into that vintage sound, the blue version that uses BC108b silicon transistors might be more your thing.
+
+### Verified transistor/device terms
+- BC108b, silicon transistors.
+
+### Verified diode terms
+- LED.
+
+### Verified sound evidence
+Square Face Fuzz Hybrid Regular price $164.99 USD More stock coming soon By BLAMMO!
+As you might have guessed, the Texas Square Face was based on the Dallas Arbiter Fuzz Face but used a different brand and style of transistors, had a bit more output volume, and was housed in a smaller square shaped enclosure.
+True, they are higher gain than the ones used in a standard Fuzz Face (250-400hfe instead of the 80-110hfe range), but in this case the sound is still very familiar.
+
+### Sources checked in this pass
+1. BLAMMO! Electronics L.A. Square Face Fuzz Hybrid – Coast Sonic: https://coastsonic.com/products/blammo-electronics-l-a-square-face-fuzz-hybrid
+2. catalog/override source: https://reverb.com/item/85927258-blammo-electronics-l-a-square-face-germanium-fuzz-nte103

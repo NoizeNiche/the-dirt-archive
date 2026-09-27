@@ -1,0 +1,25 @@
+{
+  "builder": "BOSS",
+  "pedal": "FZ-1W Fuzz",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 2,
+  "sources": [
+    {
+      "url": "https://m.cosmosmusicmall.com/product/boss-fz-1w-waza-craft-fuzz/",
+      "title": "catalog/override source",
+      "h1": "",
+      "excerpt": "",
+      "host": "m.cosmosmusicmall.com",
+      "source_kind": "catalog_verified"
+    },
+    {
+      "url": "https://www.boss.info/us/whats_new/press_releases/2021/FZ-1W-Waza-Craft-Fuzz/",
+      "title": "catalog/override source",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.boss.info",
+      "source_kind": "manufacturer"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}

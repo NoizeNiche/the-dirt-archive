@@ -22,3 +22,21 @@ Crystal Dagger combines an octave-up fuzz with a ring-modulator/phaser section. 
 
 ## Archive photo
 - **Archive status:** **No Photo Archived**
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+BlackOutEffectors's Crystal Dagger is cataloged as a fuzz pedal.
+
+### Verified color/finish evidence
+- Black Out Effectors started in 2008 in Vancouver, British Columbia, and in 2009 relocated to Asheville, North Carolina.
+- The list of artists who have used Black Out Effectors includes Robin Finck (NIN, GnR), Band Of Horses , Baroness , Buddy Miller , Paramore , Black Tusk , Animal Collective , Earthless , Kylesa , Wilco , The Black Angels , Pontiak , Steve Von Till (Neurosis) and others.
+- As players, pedals nerds, and Black Out Effectors fans we try to maintain the website for fans and for those who want to taste its sound.
+
+### Verified version references
+- The evidence references: V3, v2.
+
+### Sources checked in this pass
+1. BlackOutEffectors: https://blackouteffectors.com/

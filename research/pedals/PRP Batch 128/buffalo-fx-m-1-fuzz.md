@@ -37,3 +37,20 @@ M-1 is built around a large, saturated Ram's Head voice but gives the player muc
 
 ## Sources checked
 1. Effects Database — Buffalo FX M-1 Fuzz: https://www.effectsdatabase.com/model/buffalofx/m1
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Buffalo FX M-1 Fuzz - Fuzz pedal - Audiofanzine <link href="https:
+
+### Verified version references
+- The evidence references: v15.
+
+### Verified sound evidence
+Buffalo FX M-1 Fuzz - Fuzz pedal - Audiofanzine <link href="https:
+
+### Sources checked in this pass
+1. Buffalo FX M-1 Fuzz - Fuzz guitare - Audiofanzine: https://fr.audiofanzine.com/fuzz-guitare/buffalo-fx/m-1-fuzz/
+2. Buffalo FX M-1 Fuzz - Fuzz pedal - Audiofanzine: https://en.audiofanzine.com/fuzz-pedal/buffalo-fx/m-1-fuzz/

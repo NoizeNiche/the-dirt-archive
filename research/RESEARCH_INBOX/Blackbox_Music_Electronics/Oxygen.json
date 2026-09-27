@@ -1,0 +1,25 @@
+{
+  "builder": "Blackbox Music Electronics",
+  "pedal": "Oxygen",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 2,
+  "sources": [
+    {
+      "url": "https://reverb.com/item/96998568-blackbox-music-electronics-oxygen-rare-compressor-limiter-gate-overdrive-studio-gradesky-blue-and-white",
+      "title": "Blackbox Music Electronics Oxygen - Rare | Reverb",
+      "h1": "",
+      "excerpt": "",
+      "host": "reverb.com",
+      "source_kind": "reverb"
+    },
+    {
+      "url": "https://www.effectsdatabase.com/model/blackbox/oxygen",
+      "title": "catalog/override source",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.effectsdatabase.com",
+      "source_kind": "effects_database"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}

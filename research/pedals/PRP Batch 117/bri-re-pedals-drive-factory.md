@@ -32,3 +32,17 @@ Drive Factory is designed to stay expressive as the guitar volume changes rather
 
 ## Sources checked
 1. Effects Database forum submission by Brière Pedals owner: https://forum.effectsdatabase.com/viewtopic.php?f=6&sid=88a38837c2115b61f2c3416c9c931a97&t=551
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Brière Pedals's Drive Factory is cataloged as an overdrive pedal.
+
+### Verified version references
+- The evidence references: v15.
+
+### Sources checked in this pass
+1. Brière Pedals Drive Factory - Other guitar saturation effect - Audiofanzine: https://en.audiofanzine.com/other-guitar-saturation-effect/briere-pedals/drive-factory/
+2. Brière Pedals Drive Factory - Saturation multiple ou autre saturation guitare - Audiofanzine: https://fr.audiofanzine.com/saturation-multiple-ou-autre-saturation-pour-guitare/briere-pedals/drive-factory/

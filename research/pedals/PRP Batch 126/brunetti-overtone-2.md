@@ -34,3 +34,18 @@ The Overtone 2 is designed to cover a broad preamp range, from warm/fat clean or
 
 ## Sources checked
 1. Effects Database — Brunetti Overtone 2: https://www.effectsdatabase.com/model/brunetti/overtone2
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Brunetti's Overtone 2 is cataloged as an overdrive pedal.
+
+### Verified version references
+- The evidence references: v15.
+
+### Sources checked in this pass
+1. Brunetti Overtone 2 - Tube Guitar Preamp - Audiofanzine: https://en.audiofanzine.com/tube-guitar-preamp/brunetti/Overtone-2/
+2. Brunetti Overtone 2 - Préampli guitare tout lampe - Audiofanzine: https://fr.audiofanzine.com/preampli-guitare-tout-lampe/brunetti/Overtone-2/
+3. catalog/override source: https://www.effectsdatabase.com/model/brunetti/overtone2

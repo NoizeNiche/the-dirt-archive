@@ -45,3 +45,14 @@ Vintage mode is raspy, dynamic, and particularly responsive to guitar-volume cha
 ## Archive photo
 - **Archive status:** **Exact model photo archived**
 - **Image source:** https://m.cosmosmusicmall.com/product/boss-fz-1w-waza-craft-fuzz/
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+BOSS's FZ-1W Fuzz is cataloged as a fuzz pedal.
+
+### Sources checked in this pass
+1. catalog/override source: https://m.cosmosmusicmall.com/product/boss-fz-1w-waza-craft-fuzz/
+2. catalog/override source: https://www.boss.info/us/whats_new/press_releases/2021/FZ-1W-Waza-Craft-Fuzz/

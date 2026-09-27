@@ -37,3 +37,17 @@ The external Pregain control moves the input stage from tighter, overdrive-like 
 
 ## Sources checked
 1. Effects Database — Buffalo FX Germanium Fuzz: https://www.effectsdatabase.com/model/buffalofx/fuzz/germanium
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Buffalo FX's Germanium Fuzz is cataloged as a fuzz pedal.
+
+### Verified transistor/device terms
+- Germanium Fuzz.
+
+### Sources checked in this pass
+1. Buffalo FX Germanium Fuzz Pedal Review - Premier Guitar: https://www.premierguitar.com/gear/buffalo-fx-germanium-fuzz-pedal-review
+2. catalog/override source: https://www.effectsdatabase.com/model/buffalofx/fuzz/germanium

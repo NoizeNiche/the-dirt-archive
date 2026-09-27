@@ -23,3 +23,24 @@ Svarog is a hybrid germanium/silicon fuzz derived from the Marshall SupaFuzz / M
 
 ## Archive photo
 - **Archive status:** **No Photo Archived**
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Blackhawk Amplifiers's Svarog Fuzz is cataloged as a fuzz pedal.
+
+### Verified version references
+- The evidence references: MKII, V3.
+
+### Verified transistor/device terms
+- 2N2222, silicon transistors.
+
+### Verified sound evidence
+BLACKHAWK AMPLIFIERS “CHERNOBYL” PI π BASS FUZZ IS BACK!!
+“CHERNOBYL” PI π BASS FUZZ IS BACK!!
+The SVAROG uses a combination of germanium NPN transistors (depending on availability) and 2N2222 silicon transistors which are low enough gain for the circuit.
+
+### Sources checked in this pass
+1. SVAROG FUZZ MKII V3 | BLACKHAWK AMPLIFIERS: https://www.blackhawkamplifiers.com/product/svarog-fuzz-mkii-v3

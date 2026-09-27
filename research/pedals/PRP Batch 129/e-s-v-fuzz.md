@@ -33,3 +33,18 @@ BYOC describes the germanium configuration as darker, warmer and woollier with s
 
 ## Sources checked
 1. Effects Database — Build Your Own Clone E.S.V. Fuzz: https://www.effectsdatabase.com/model/byoc/esvfuzz
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Fuzz - Fuzz pedal - Audiofanzine <link rel="icon" type="image/webp" href="https://static.audiofanzine.co
+
+### Verified sound evidence
+Fuzz - Fuzz pedal - Audiofanzine <link rel="icon" type="image/webp" href="https://static.audiofanzine.co
+Fuzz - Fuzz guitare - Audiofanzine <link rel="icon" type="image/webp" href="https:/
+
+### Sources checked in this pass
+1. Build Your Own Clone E.S.V. Fuzz - Fuzz pedal - Audiofanzine: https://en.audiofanzine.com/fuzz-pedal/build-your-own-clone/e-s-v-fuzz/
+2. Build Your Own Clone E.S.V. Fuzz - Fuzz guitare - Audiofanzine: https://fr.audiofanzine.com/fuzz-guitare/build-your-own-clone/e-s-v-fuzz/

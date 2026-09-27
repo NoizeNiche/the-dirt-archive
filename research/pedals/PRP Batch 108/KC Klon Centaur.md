@@ -23,3 +23,22 @@ The pedal is built in a metal enclosure and uses selected Panasonic capacitors a
 
 ## Archive photo
 - **Archive status:** **No Photo Archived**
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Boo Instruments's KC Klon Centaur is cataloged as an overdrive pedal.
+
+### Verified color/finish evidence
+- The LED is Red colour to match the knobs and lights up when the pedal is on.
+
+### Verified diode terms
+- LED.
+
+### Sources checked in this pass
+1. KC KLON CENTAUR – Boo Instruments: https://booinstruments.com/guitar-effects/kc-klon-centaur/
+2. Facebook: https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fshare_channel%2F%3Ftype%3Dreshare%26link%3Dhttps%253A%252F%252Fbooinstruments.com%252Fguitar-effects%252Fkc-klon-centaur%252F%26app_id%3D966242223397117%26source_surface%3Dexternal_reshare%26display%26hashtag
+3. Tweet This Product: https://twitter.com/share?text=KC%20KLON%20CENTAUR&url=https%3A%2F%2Fbooinstruments.com%2Fguitar-effects%2Fkc-klon-centaur%2F
+4. Pinterest: https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Fbooinstruments.com%2Fguitar-effects%2Fkc-klon-centaur%2F&description=KC%20KLON%20CENTAUR&media=https%3A%2F%2Fbooinstruments.com%2Fwp-content%2Fuploads%2F2018%2F04%2FKC-Boo-Instruments-Klon-Centaur-Boost-Overdrive-Best-Clone-Boutique-Original-Effect-Pedal-Made-In-England-7.jpg

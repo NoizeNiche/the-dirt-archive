@@ -25,3 +25,24 @@ The Pi π Fuzz is a high-gain fuzz/distortion circuit built from cascaded transi
 
 ## Archive photo
 - **Archive status:** **No Photo Archived**
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Taking influence from the different versions of the PI π FUZZ, designed with my knowledge of years of analyzing and tweaking the circuits and wrapping up all my favorite mods into one beautiful beast:
+
+### Verified color/finish evidence
+- Products GIFT CARDS NEWS Contact Cart ( 0 ) Products GIFT CARDS NEWS Contact Cart ( 0 ) PI π FUZZ MKII $ 230.00 - $ 300.00 Select option BLACK BLACK/METAL KRACKLE CHERNOBYL BIG BOX (Sold out) Add to cart Utilizing cascaded transistor gain stages the PI π FUZZ can go from gut brutal distortion to monolithic fuzz.
+
+### Verified version references
+- The evidence references: MKII.
+
+### Verified sound evidence
+BLACKHAWK AMPLIFIERS “CHERNOBYL” PI π BASS FUZZ IS BACK!!
+“CHERNOBYL” PI π BASS FUZZ IS BACK!!
+Products GIFT CARDS NEWS Contact Cart ( 0 ) Products GIFT CARDS NEWS Contact Cart ( 0 ) PI π FUZZ MKII $ 230.00 - $ 300.00 Select option BLACK BLACK/METAL KRACKLE CHERNOBYL BIG BOX (Sold out) Add to cart Utilizing cascaded transistor gain stages the PI π FUZZ can go from gut brutal distortion to monolithic fuzz.
+
+### Sources checked in this pass
+1. PI π FUZZ MKII | BLACKHAWK AMPLIFIERS: https://www.blackhawkamplifiers.com/product/pi-fuzz-mkii

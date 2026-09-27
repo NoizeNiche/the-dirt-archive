@@ -26,3 +26,13 @@ BLAMMO! changes the clipping control to a continuous potentiometer that sweeps b
 
 ## Archive photo
 - **Archive status:** **No Photo Archived**
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+BLAMMO! Electronics's Deth Pedal is cataloged as a distortion pedal.
+
+### Sources checked in this pass
+1. Deth Pedal | BLAMMO! Electronics: https://www.blammoelectronics.com/product-page/deth-pedal

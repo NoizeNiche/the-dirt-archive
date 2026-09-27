@@ -48,3 +48,22 @@ Standard mode retains the focused, aggressive character associated with the orig
 ## Archive photo
 - **Archive status:** **Exact model photo archived**
 - **Image source:** https://www.thomann.de/gb/boss_hm_2w_heavy_metal.htm
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Accessories Support A Metal Legend Returns Produced from 1983 to 1991, the BOSS HM-2 Heavy Metal is a true legend in the history of distortion pedals.
+
+### Verified diode terms
+- led.
+
+### Verified sound evidence
+Accessories Support A Metal Legend Returns Produced from 1983 to 1991, the BOSS HM-2 Heavy Metal is a true legend in the history of distortion pedals.
+Its signature “chainsaw tone” with all knobs maxed is the defining voice of Swedish death metal, and the slightly milder sides of its personality can be heard on tracks from mainstream to shoegaze.
+Near the end of its production run, seminal Swedish death metal bands adopted the HM-2 for their primary guitar tones, and its uniquely aggressive sound and focused midrange became highly sought after by a new generation of players.
+
+### Sources checked in this pass
+1. catalog/override source: https://www.thomann.de/de/boss_hm_2w_heavy_metal_distortion.htm
+2. BOSS - HM-2W | Heavy Metal: https://www.boss.info/global/products/hm-2w/

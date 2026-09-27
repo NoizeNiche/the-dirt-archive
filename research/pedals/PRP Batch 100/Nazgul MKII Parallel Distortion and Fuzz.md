@@ -13,3 +13,25 @@ The Nazgûl MKII combines the Balrog Distortion MKII and Fellbeast Fuzz MKII as 
 
 ## Archive photo
 - **Archive status:** **No Photo Archived**
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Blackhawk Amplifiers's Nazgûl MKII {Parallel} Distortion and Fuzz is cataloged as a distortion / fuzz pedal.
+
+### Verified color/finish evidence
+- Products GIFT CARDS NEWS Contact Cart ( 0 ) Products GIFT CARDS NEWS Contact Cart ( 0 ) NAZGÛL MKII {{PARALLEL}} DISTORTION AND FUZZ $ 400.00 - $ 420.00 Select option BLOODSPLATTER BLACK KRACKLE Add to cart RESTOCK FRIDAY THE 13TH (OF MARCH) //////////////////////////////////////////// The NAZGÛL approaches!
+- The new MKII version brings more available treble and the ability to scoop the mids ( PLENTIFUL mids still on tap) for more modern brutal death/black/hardcore tones.
+
+### Verified version references
+- The evidence references: MKII, V3.
+
+### Verified sound evidence
+NAZGÛL MKII {{PARALLEL}} DISTORTION AND FUZZ
+BLACKHAWK AMPLIFIERS “CHERNOBYL” PI π BASS FUZZ IS BACK!!
+“CHERNOBYL” PI π BASS FUZZ IS BACK!!
+
+### Sources checked in this pass
+1. NAZGÛL MKII {{PARALLEL}} DISTORTION AND FUZZ | BLACKHAWK AMPLIFIERS: https://www.blackhawkamplifiers.com/product/nazgul

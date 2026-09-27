@@ -21,3 +21,25 @@ The Bi-Polar Octadrive was later developed from the Mustang by adding a footswit
 
 ## Archive photo
 - **Archive status:** **No Photo Archived**
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Blakemore Effects's Mustang Overdrive is cataloged as an overdrive pedal.
+
+### Verified color/finish evidence
+- Ewing / LENARD Re-Inventions View my complete profile Friday, August 24, 2018 OVERDRIVE- BLAKEMORE EFFECTS Mustang Overdrive ...sounds like a funky mid 50's amp BLAKEMORE EFFECTS MUSTANG OVERDRIVE $149.00 USD Based on an over 25 year old Red Llama pedal.
+- OVERDRIVE- WILSON Sparkling Blue...the original Ma...
+
+### Verified transistor/device terms
+- BC109.
+
+### Verified sound evidence
+STOMP BOX STEALS: OVERDRIVE- BLAKEMORE EFFECTS Mustang Overdrive ...sounds like a funky mid 50's amp STOMP BOX STEALS Since 2015 NEW PEDALS EVERY DAY!
+Ewing / LENARD Re-Inventions View my complete profile Friday, August 24, 2018 OVERDRIVE- BLAKEMORE EFFECTS Mustang Overdrive ...sounds like a funky mid 50's amp BLAKEMORE EFFECTS MUSTANG OVERDRIVE $149.00 USD Based on an over 25 year old Red Llama pedal.
+It sounds great with the gain back or pushed hard you can get some fuzzlike tones.
+
+### Sources checked in this pass
+1. STOMP BOX STEALS: OVERDRIVE- BLAKEMORE EFFECTS Mustang Overdrive ...sounds like a funky mid 50's amp: https://stompboxsteals.blogspot.com/2018/08/overdrive-blakemore-effects-mustang.html

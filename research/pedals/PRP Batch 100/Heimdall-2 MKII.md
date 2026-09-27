@@ -12,3 +12,24 @@ The Heimdall-2 MKII is a distortion, overdrive and powerful EQ designed especial
 
 ## Archive photo
 - **Archive status:** **No Photo Archived**
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Also it is available in two different form factors: HEIMDALL-2 MKII A distortion, overdrive and powerful EQ with PARALLEL clean blend designed for LOW BARITONE tunings and BASS (although it works perfectly with all guitars, even standard tuned) think of it as the “deluxe” version of the two.
+
+### Verified version references
+- The evidence references: MKII, revision.
+
+### Verified diode terms
+- LED.
+
+### Verified sound evidence
+HEIMDALL-2 MKII DISTORTION (BASS/BARITONE)
+BLACKHAWK AMPLIFIERS “CHERNOBYL” PI π BASS FUZZ IS BACK!!
+“CHERNOBYL” PI π BASS FUZZ IS BACK!!
+
+### Sources checked in this pass
+1. HEIMDALL-2 MKII DISTORTION (BASS/BARITONE) | BLACKHAWK AMPLIFIERS: https://www.blackhawkamplifiers.com/product/heimdall-2-mkii-bass-distortion

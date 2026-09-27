@@ -42,3 +42,14 @@ Supa Driver keeps the broad EQ and feel of the Power Boost family but adds subst
 1. Reverb — Buffalo FX Supa Driver: https://reverb.com/item/35751570-buffalo-fx-supa-driver
 2. Gilmourish — Buffalo FX Supa Driver review/demo: https://www.youtube.com/watch?v=iUt0zOj6PLM
 3. Reverb — Buffalo FX Supa Driver 2010-2020: https://reverb.com/item/83002073-buffalo-fx-supa-driver-2010-2020-black
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Buffalo FX's Supa Driver is cataloged as an overdrive pedal.
+
+### Sources checked in this pass
+1. catalog/override source: https://reverb.com/item/35751570-buffalo-fx-supa-driver
+2. catalog/override source: https://tonelounge.co.nz/buffalo-fx-supa-driver/

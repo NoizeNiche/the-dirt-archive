@@ -36,3 +36,17 @@ Taxi Drive is intended to stay touch-responsive across a wide range of gain. Low
 ## Sources checked
 1. Overloud — authorized Brunetti Taxi Drive model description: https://overloud.com/products/th-u-brunetti/models
 2. Bax Music — Brunetti Taxi Drive: https://www.bax-shop.co.uk/brunetti
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Brunetti's Taxi Drive is cataloged as an overdrive pedal.
+
+### Verified version references
+- The evidence references: v15.
+
+### Sources checked in this pass
+1. Brunetti Taxi Drive - Overdrive pedal - Audiofanzine: https://en.audiofanzine.com/overdrive-pedal/brunetti/Taxi-Drive/
+2. Brunetti Taxi Drive - Overdrive guitare - Audiofanzine: https://fr.audiofanzine.com/overdrive-guitare/brunetti/Taxi-Drive/

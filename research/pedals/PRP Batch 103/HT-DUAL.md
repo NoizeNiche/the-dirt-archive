@@ -26,3 +26,17 @@ The pedal includes independent footswitching for the two channels and a speaker-
 
 ## Archive photo
 - **Archive status:** **No Photo Archived**
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Blackstar Amplification's HT-DUAL is cataloged as a distortion / overdrive pedal.
+
+### Verified sound evidence
+Blackstar Amplification 2-Channel HT-DUAL Tube Distortion Guitar Effects Pedal
+
+### Sources checked in this pass
+1. Blackstar Amplification 2-Channel HT-DUAL Tube Distortion Guitar Effects Pedal: https://www.pitbullaudio.com/blackstar-amplification-2-channel-ht-dual-tube-distortion-guitar-effects-pedal.html
+2. catalog/override source: https://www.blackstarampsmedia.com/pdf/handbooks/ht-dual-handbook.pdf

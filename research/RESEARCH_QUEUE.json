@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-27T09:53:42.664132+00:00",
+  "generated_at": "2026-09-27T09:57:10.342066+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,8 +10,8 @@
     "pictured": 3123,
     "complete": 3123,
     "research_pending": 0,
-    "deep_research_pending": 1976,
-    "deep_researched": 2266,
+    "deep_research_pending": 1833,
+    "deep_researched": 2409,
     "surface_ready": 4242
   },
   "next_target": {
@@ -58,101 +58,10 @@
       "research_level": "surface"
     },
     {
-      "builder": "Big John Effects",
-      "pedal": "BassDrive",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Big John Effects/BassDrive.md",
-      "research_level": "surface"
-    },
-    {
       "builder": "BJFE / BJF Electronics",
       "pedal": "Arctic Light Fuzz",
       "catalog_type": "",
       "research_record": "./research/pedals/BJFE / BJF Electronics/Arctic Light Fuzz.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "BJFE / BJF Electronics",
-      "pedal": "Rebel Red Distortion",
-      "catalog_type": "",
-      "research_record": "./research/pedals/BJFE / BJF Electronics/Rebel Red Distortion.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "BJFE / BJF Electronics",
-      "pedal": "Smokey Orange Fuzz",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 093/Smokey Orange Fuzz.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "BJFE / BJF Electronics",
-      "pedal": "Sun Burst Fuzz",
-      "catalog_type": "",
-      "research_record": "./research/pedals/BJFE / BJF Electronics/Sun Burst Fuzz.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Black Arts Toneworks",
-      "pedal": "Pharaoh",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 094/Pharaoh.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Black Arts Toneworks",
-      "pedal": "Priestess",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 095/Priestess.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Black Arts Toneworks",
-      "pedal": "Quantum Mystic",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 095/Quantum Mystic.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Black Arts Toneworks",
-      "pedal": "Revelation",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 095/Revelation.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Black Arts Toneworks",
-      "pedal": "Ritual",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 095/Ritual.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Black Arts Toneworks",
-      "pedal": "Skyboost",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 095/Skyboost.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Black Arts Toneworks",
-      "pedal": "Son of Pharaoh",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 095/Son of Pharaoh.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Black Arts Toneworks",
-      "pedal": "Tres Diablos Ruidosos",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 096/Tres Diablos Ruidosos.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Black Arts Toneworks",
-      "pedal": "Witch Burner MkII",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 096/Witch Burner MkII.md",
       "research_level": "surface"
     },
     {
@@ -195,6 +104,97 @@
       "pedal": "Monster K-Fuzz Stompbox",
       "catalog_type": "",
       "research_record": "./research/pedals/PRP Batch 096/Monster K-Fuzz Stompbox.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Black Cat Pedals",
+      "pedal": "OD-1 Freddy Fuzz",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 097/OD-1 Freddy Fuzz.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Black Cat Pedals",
+      "pedal": "RGDP - Really Great Dirt Pedal",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 097/RGDP - Really Great Dirt Pedal.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Blackbox Music Electronics",
+      "pedal": "Cobalt",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Blackbox Music Electronics/Cobalt.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Blackbox Music Electronics",
+      "pedal": "Ultraviolet",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Blackbox Music Electronics/Ultraviolet.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Blackbox Music Electronics",
+      "pedal": "Ultraviolet 2",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Blackbox Music Electronics/Ultraviolet 2.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Blackbox Music Electronics",
+      "pedal": "X-Ray",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Blackbox Music Electronics/X-Ray.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Blackbox Music Electronics",
+      "pedal": "X-Ray Bass!",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Blackbox Music Electronics/X-Ray Bass!.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Blackhawk Amplifiers",
+      "pedal": "Asgard Bass Fuzz",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 099/Asgard Bass Fuzz.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Blackhawk Amplifiers",
+      "pedal": "Basilisk Fuzz",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 100/Basilisk Fuzz.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Blackhawk Amplifiers",
+      "pedal": "Gandalf Fuzz",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 100/Gandalf Fuzz.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Blackhawk Amplifiers",
+      "pedal": "Green / Black Russian Pi π Fuzz",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 100/Green Black Russian Pi Fuzz.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Blackhawk Amplifiers",
+      "pedal": "Heimdall-3 MKII Distortion",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 100/Heimdall-3 MKII Distortion.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Blackhawk Amplifiers",
+      "pedal": "Morgul Drive MKII",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 100/Morgul Drive MKII.md",
       "research_level": "surface"
     }
   ]

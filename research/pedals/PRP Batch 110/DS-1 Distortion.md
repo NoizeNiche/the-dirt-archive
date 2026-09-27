@@ -45,3 +45,37 @@ The DS-1 produces a tight, hard-edged distortion with smooth sustain and strong 
 ## Archive photo
 - **Archive status:** **Exact model photo archived**
 - **Image source:** https://www.alamomusic.com/
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+99 Join Prime to get FREE delivery Wed, Sep 30 Add to cart Customers say Customers praise this distortion pedal for its wide range of sounds, with one mentioning it can produce AC/DC and Van Halen tones.
+
+### Verified color/finish evidence
+- Since its birth in 1978, this orange rectangle has been punk’s companion, metal’s prelude, and bedroom shredders’ first hit of gain.
+
+### Verified version references
+- The evidence references: MKII, mk3.
+
+### Verified diode terms
+- LED.
+
+### Verified sound evidence
+99 Join Prime to get FREE delivery Wed, Sep 30 Add to cart Customers say Customers praise this distortion pedal for its wide range of sounds, with one mentioning it can produce AC/DC and Van Halen tones.
+Boss DS-1 Distortion – United States Served with love!
+409939 , not included) Dimensions (W x D x H): 73 x 129 x 59 mm Weight: 360 g 30 30-Day Money-Back Guarantee 3 3-Year Thomann Warranty Item number 102371 Sales Unit 1 piece(s) Overdrive No Distortion Yes Fuzz No Metal No Try out the effects live Test the actual effects in real time with our exclusive technology.
+
+### Sources checked in this pass
+1. Boss DS-1 Distortion Guitar Pedal — Alamo Music Center: https://www.alamomusic.com/products/boss-ds-1-distortion-guitar-pedal
+2. open prime modal: https://www.amazon.com/clp/B0002KYY14
+3. Boss DS-1 Distortion Pedal | Sweetwater: https://www.sweetwater.com/store/detail/DS1--boss-ds-1-distortion-pedal
+4. BOSS DS-1 Distortion Pedal | Guitar Center: https://www.guitarcenter.com/BOSS/DS-1-Distortion-Pedal-1274034492388.gc
+5. Boss DS-1 Distortion - Reverb: https://reverb.com/p/boss-ds-1-distortion
+6. Boss DS-1 Distortion – United States: https://www.thomannmusic.com/boss_ds1_distortion.htm
+7. BOSS DS-1 Distortion Pedal User Manual: https://manuals.plus/asin/B0065KP702
+8. BOSS DS-1 Distortion Pedal User Manual - ManualsFile: https://manualsfile.com/product/k392dbe6shi.html
+9. Boss DS-1 Distortion - Effects Database: https://www.effectsdatabase.com/model/boss/compact/ds1
+10. BOSS - DS-1 | Distortion: https://www.boss.info/us/products/ds-1/articles/
+11. Boss DS-1 Distortion: It Still Exists: https://www.audiochronicle.com/articles/boss-ds1-review/

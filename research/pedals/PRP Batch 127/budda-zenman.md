@@ -37,3 +37,22 @@ Zenman is designed as a flexible drive-and-boost unit, moving from smoother over
 ## Sources checked
 1. Budda — New Boutique Effects Pedals: https://www.budda.com/news/article.cfm/action/view/id/867/cat/1/article.cfm
 2. Budda Zenman owner manual: https://assets.peavey.com/literature/manuals/118306_18317.pdf
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Zenman Overdrive/Boost The Zenman Overdrive/Boost pedal is perfect for a varied range of music types.
+
+### Verified color/finish evidence
+- Each Budda pedal is housed in a built-to-last, heavy-duty steel casing decorated with Budda’s unique Eastern-inspired original artwork.
+
+### Verified sound evidence
+Built with the same attention to detail and exacting standards as its renowned amplifiers, Budda’s new pedal line includes the Samsara Delay, the Om Overdrive, the Karma Chorus, the Chakra Compressor, and the Zenman Overdrive/Boost.
+The tone control allows users to mimic the low-fi sound of an old analog delay or crisp up the highs for a more modern tone.
+Om Overdrive The Om Overdrive is the perfect pedal to make solos cut straight through the mix.
+
+### Sources checked in this pass
+1. catalog/override source: https://www.effectsdatabase.com/model/budda/2013/zenman
+2. Budda's New Boutique Effects Pedals Available Now: https://www.budda.com/news/article.cfm/action/view/id/867/cat/1/article.cfm

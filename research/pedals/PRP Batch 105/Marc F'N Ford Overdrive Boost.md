@@ -26,3 +26,22 @@ Each side can operate independently or be stacked. The published design is based
 
 ## Archive photo
 - **Archive status:** **No Photo Archived**
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Every Marc F’N Ford Overdrive/Boost pedal is made to exacting specifications and the pedal you purchase is made exactly the same as the one Marc uses onstage.
+
+### Verified diode terms
+- LED.
+
+### Verified sound evidence
+Open media 3 in modal Play video Marc F'N Ford Overdrive/Boost opens full screen video in same window.
+Open media 4 in modal Play video 1 / of 4 Marc F'N Ford Overdrive/Boost Marc F'N Ford Overdrive/Boost Regular price $289.00 USD Regular price Sale price $289.00 USD Unit price / per Sale Sold Out!
+After a 13-year relationship, BMF Effects is proud to offer the Marc F’N Ford Overdrive/Boost signature pedal.
+
+### Sources checked in this pass
+1. Marc F'N Ford Overdrive/Boost – BMF Effects: https://www.bmfeffects.com/products/marc-fn-ford-overdrive-boost
+2. BMF Effects Marc F’N Ford Overdrive/Boost review | MusicRadar: https://www.musicradar.com/reviews/bmf-effects-marc-fn-ford-overdriveboost

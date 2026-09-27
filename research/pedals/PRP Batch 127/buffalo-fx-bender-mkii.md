@@ -29,3 +29,24 @@ The surviving catalog supports a fuzz classification but not a precise circuit-f
 
 ## Sources checked
 1. Effects Database — Buffalo FX historical catalog: https://www.effectsdatabase.com/taxonomy/term/8/type?page=34
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+The latest two pedals are Buffalo’s take on the classic Tone bender Mkii circuit and a revised version of the original Buffalo Fuzz.
+
+### Verified version references
+- The evidence references: MkII, Mkii, V2, mkii.
+
+### Verified transistor/device terms
+- Germanium Fuzz.
+
+### Verified sound evidence
+Buffalo FX introduces Germanium Fuzz and Tonebender MkII
+The latest two pedals are Buffalo’s take on the classic Tone bender Mkii circuit and a revised version of the original Buffalo Fuzz.
+Steve, owner of buffalo says ‘I wanted to make a fuzz for the 21st century, this has all the classic sounds of a 60’s germanium fuzz plus the added versatility of the external bias and pre-gain controls, if you ever wondered what a germanium overdrive sounded like then this is the answer’.
+
+### Sources checked in this pass
+1. Buffalo FX introduces Germanium Fuzz and Tonebender MkII | Guitar Jar: http://www.guitarjar.co.uk/magazine/press-release/buffalo-fxgermanium-fuzz-tonebender-mkii/

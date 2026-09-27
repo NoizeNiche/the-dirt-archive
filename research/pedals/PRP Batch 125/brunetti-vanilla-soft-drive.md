@@ -35,3 +35,16 @@ Vanilla is voiced toward smoother and creamier overdrive rather than the harder 
 ## Sources checked
 1. Overloud — authorized Brunetti Vanilla model description: https://overloud.com/products/th-u-brunetti/models
 2. Bax Music — Brunetti Vanilla Soft Drive: https://www.bax-shop.co.uk/brunetti
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Brunetti's Vanilla - Soft Drive is cataloged as an overdrive pedal.
+
+### Verified sound evidence
+Brunetti VANILLA SOFT DRIVE オーバードライブ ギターエフェクター(ブルネッティ ヴァニラソフトドライブ エフェクターペダル)
+
+### Sources checked in this pass
+1. Brunetti VANILLA SOFT DRIVE オーバードライブ ギターエフェクター(ブルネッティ ヴァニラソフトドライブ エフェクターペダル) | web総合楽器店 chuya-online.com: https://www.chuya-online.com/products/186943/

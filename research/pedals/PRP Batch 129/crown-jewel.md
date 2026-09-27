@@ -37,3 +37,23 @@ Crown Jewel is intentionally broad, moving across many overdrive and distortion 
 ## Sources checked
 1. Effects Database — Build Your Own Clone Crown Jewel: https://www.effectsdatabase.com/model/byoc/crownjewel
 2. TubeDepot — Crown Jewel Ultimate Drive & Boost Combo Kit: https://www.tubedepot.com/products/crown-jewel-ultimate-drive-boost-combo-guitar-pedal-kit
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+The Crown Jewel offers 9 different textures of distortion through its hard and soft clipping switches.
+
+### Verified diode terms
+- LED.
+
+### Verified sound evidence
+It offers a wide range of overdrive and distortion tones.
+The Crown Jewel offers 9 different textures of distortion through its hard and soft clipping switches.
+The pedal has an internal charge pump that provides 18 volts to the drive channel circuit, while still using a standard 9VDC power supply.
+
+### Sources checked in this pass
+1. Crown Jewel by Build Your Own Clone (BYOC) - Stomp Box Schematics: https://stompboxschematics.com/circuits/crown-jewel-by-build-your-own-clone-byoc/
+2. TubeDepot.com | Crown Jewel Ultimate Drive & Boost Combo Guitar Pedal: https://www.tubedepot.com/products/crown-jewel-ultimate-drive-boost-combo-guitar-pedal-kit
+3. catalog/override source: https://www.effectsdatabase.com/model/byoc/crownjewel

@@ -26,3 +26,17 @@ The design covers stock-style Tube Screamer operation plus broader gain, clippin
 
 ## Sources checked
 1. Effects Database — Build Your Own Clone Overdrive 2: https://www.effectsdatabase.com/model/byoc/overdrive/2
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Build Your Own Clone's Overdrive 2 is cataloged as an overdrive pedal.
+
+### Verified version references
+- The evidence references: v15.
+
+### Sources checked in this pass
+1. Build Your Own Clone Overdrive 2 - Overdrive pedal - Audiofanzine: https://en.audiofanzine.com/overdrive-pedal/build-your-own-clone/overdrive-2/
+2. Build Your Own Clone Overdrive 2 - Overdrive guitare - Audiofanzine: https://fr.audiofanzine.com/overdrive-guitare/build-your-own-clone/overdrive-2/

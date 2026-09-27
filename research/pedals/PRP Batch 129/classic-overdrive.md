@@ -37,3 +37,18 @@ Classic Overdrive is intended to reproduce the familiar focused Tube Screamer re
 ## Sources checked
 1. Effects Database — Build Your Own Clone Classic Overdrive: https://www.effectsdatabase.com/model/byoc/overdrive/classic
 2. BYOC Classic Overdrive kit instructions: https://s3.amazonaws.com/tubedepot-com-production/spree/attached_files/classicoverdriveinstructions.pdf
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Build Your Own Clone's Classic Overdrive is cataloged as an overdrive pedal.
+
+### Verified sound evidence
+This build is designed to be simple and affordable, offering the same tone as the original TS-808 at a fraction of the cost of reissues and boutique versions.
+Be the first to review “Classic Overdrive by Build Your Own Clone (BYOC)” Cancel reply Your email address will not be published.
+Δ More Schematics Based On: Marshall AFD Appetite for Distortion by PCB Guitar Mania Add To Cart Based On: Diezel VH4 Benzin VH4 by PCB Guitar Mania Add To Cart Based On: Horizon Devices Precision drive Collision Drive by PCB Guitar Mania Add To Cart (c) Stomp Box Schematics
+
+### Sources checked in this pass
+1. Classic Overdrive by Build Your Own Clone (BYOC) - Stomp Box Schematics: https://stompboxschematics.com/circuits/classic-overdrive-by-build-your-own-clone-byoc/

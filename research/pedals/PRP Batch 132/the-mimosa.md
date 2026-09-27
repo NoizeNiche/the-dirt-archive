@@ -24,3 +24,13 @@ The circuit is intended for smooth compression with added bass friendliness whil
 1. Reverb listing with BYOC product description: https://reverb.com/item/1225479-b-y-o-c-the-mimosa-pre-built-pedal
 2. Stomp Box Schematics, Mimosa Module: https://stompboxschematics.com/circuits/mimosa-module-by-build-your-own-clone-byoc/
 3. Effects Database BYOC catalog: https://www.effectsdatabase.com/model/byoc
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Build Your Own Clone's The Mimosa is cataloged as an overdrive pedal.
+
+### Sources checked in this pass
+1. The Mimosa by Build Your Own Clone (BYOC) - Stomp Box Schematics: https://stompboxschematics.com/circuits/the-mimosa-by-build-your-own-clone-byoc/

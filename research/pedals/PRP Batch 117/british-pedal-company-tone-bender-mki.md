@@ -31,3 +31,22 @@ The MkI identity places the product in the earliest Tone Bender fuzz family, but
 
 ## Sources checked
 1. Guitar Pedal X — British Pedal Company roundup: https://www.guitarpedalx.com/news/best-of-british-pedal-builders-roundup---an-a-z-overview-in-105-parts
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+British Pedal Company's Tone Bender MkI is cataloged as a fuzz pedal.
+
+### Verified color/finish evidence
+- Weight 1kg Dimensions 30 × 30 × 15 cm Effect Type Fuzz Transistors 1x OC75, 2x 2G381 Controls Attack, Level Casing Folded Metal Casing Colour Gold Hammerite PSU Compatible Battery Only Accessories Stickers, Badges, BPC Bag, Certificate of Authenticity “ Perfect.
+
+### Verified version references
+- The evidence references: MKI.
+
+### Verified sound evidence
+Weight 1kg Dimensions 30 × 30 × 15 cm Effect Type Fuzz Transistors 1x OC75, 2x 2G381 Controls Attack, Level Casing Folded Metal Casing Colour Gold Hammerite PSU Compatible Battery Only Accessories Stickers, Badges, BPC Bag, Certificate of Authenticity “ Perfect.
+
+### Sources checked in this pass
+1. MKI Tone Bender: https://www.britishpedalcompany.com/view-product/mki-tone-bender

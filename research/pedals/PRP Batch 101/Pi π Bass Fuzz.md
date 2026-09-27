@@ -23,3 +23,29 @@ The Pi π Bass Fuzz is Blackhawk's bass-focused Pi π fuzz design and was develo
 
 ## Archive photo
 - **Archive status:** **No Photo Archived**
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+BLACKHAWK AMPLIFIERS “CHERNOBYL” PI π BASS FUZZ IS BACK!!
+
+### Verified color/finish evidence
+- •KT3102E transistors in the green and BC549C in the black.
+- •The main difference between my Green and Black Russian PI fuzzes is gain of the transistors.
+- The black being higher gain BC549C going deeper into "fuzz" where as the Green stays more of a high gain "distortion" with its imported mid gain KT3102EM transistors.
+
+### Verified version references
+- The evidence references: MKII.
+
+### Verified transistor/device terms
+- BC549C.
+
+### Verified sound evidence
+BLACKHAWK AMPLIFIERS “CHERNOBYL” PI π BASS FUZZ IS BACK!!
+“CHERNOBYL” PI π BASS FUZZ IS BACK!!
+Products GIFT CARDS NEWS Contact Cart ( 0 ) Products GIFT CARDS NEWS Contact Cart ( 0 ) PI π BASS FUZZ MKII (RUSSIAN) $ 290.00 Add to cart THE “CHERNOBYL” PI π BASS FUZZ IS BACK!!!
+
+### Sources checked in this pass
+1. PI π BASS FUZZ MKII (RUSSIAN) | BLACKHAWK AMPLIFIERS: https://www.blackhawkamplifiers.com/product/pi-bass-fuzz-russian

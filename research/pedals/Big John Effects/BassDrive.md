@@ -1,34 +1,37 @@
-# Big John Effects - BassDrive
+# Big John Effects — BassDrive
 
 ## PRP identity
+- **Archive parent:** BassDrive
 - **Builder:** Big John Effects
 - **Catalog type:** Overdrive
-- **Identity:** Historical Big John Effects BassDrive.
+- **Identity:** Big John Effects's BassDrive.
 
 ## What this pedal is
-Big John's official history lists **BassDrive** as a 2015 **pre-order-only** design. The archive includes it because the builder explicitly records it as one of its historical effect-pedal products and the name identifies a bass drive/dirt function.
+Big John Effects's BassDrive is cataloged as an overdrive pedal.
 
-## Controls / circuit
-No BassDrive-specific control layout, circuit schematic, component part numbers or exact power documentation was recovered in this pass.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- The verified evidence references: v1, v2.
+- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
 
 ## Sound
-The surviving builder history supports a bass-oriented drive product but does not preserve enough exact technical detail for a more specific sound description.
-
-## History
-Big John's official timeline:
-- **2015:** BassDrive, pre-order only.
-
-This is distinct from the later AmpAmp bass preamp and LoLife products.
-
-## Research confidence
-- **Identity:** High.
-- **2015 historical existence:** High.
-- **Overdrive classification:** Moderate, inferred from the documented "Drive" product identity rather than a surviving control/specification sheet.
-- **Technical details:** Unknown.
+The verified evidence packet did not contain enough pedal-specific sonic description to make a more detailed sound summary without adding unsupported interpretation.
 
 ## Sources checked
-1. Big John Effects official history: https://bigjohnmusic.com/about/
+1. ABOUT – BIG JOHN EFFECTS: https://bigjohnmusic.com/about/
 
 ## Photo
-- **Archive status:** **Exact Photo Pending**
-- No local canonical image was promoted in this pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

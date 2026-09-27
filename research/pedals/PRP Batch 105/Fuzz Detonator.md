@@ -24,3 +24,13 @@ BLAMMO! uses a relay-based true-bypass system, NOS Tropical Fish tone capacitors
 
 ## Archive photo
 - **Archive status:** **No Photo Archived**
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+BLAMMO! Electronics's Fuzz Detonator is cataloged as a fuzz pedal.
+
+### Sources checked in this pass
+1. Fuzz Detonator | BLAMMO! Electronics: https://www.blammoelectronics.com/product-page/fuzz-detonator

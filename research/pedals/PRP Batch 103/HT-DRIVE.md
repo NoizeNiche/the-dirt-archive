@@ -24,3 +24,16 @@ The pedal also provides a speaker-emulated output for direct recording or mixing
 
 ## Archive photo
 - **Archive status:** **No Photo Archived**
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Blackstar Amplification's HT-DRIVE is cataloged as an overdrive pedal.
+
+### Sources checked in this pass
+1. catalog/override source: https://www.blackstarampsmedia.com/pdf/handbooks/ht-drive-handbook.pdf
+2. catalog/override source: https://reverb.com/p/blackstar-ht-drive
+3. catalog/override source: https://blackstar.manymanuals.com/accessories-for-music/ht-drive/user-manual-39917/3
+4. catalog/override source: https://blackstarampsmedia.com/uk/products/ht-drive

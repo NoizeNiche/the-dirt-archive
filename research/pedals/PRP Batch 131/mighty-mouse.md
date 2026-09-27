@@ -25,3 +25,17 @@ The documented modes span RAT-style distortion through multiple overdrive and bo
 
 ## Sources checked
 1. Effects Database — Build Your Own Clone Mighty Mouse: https://www.effectsdatabase.com/model/byoc/mightymouse
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Build Your Own Clone's Mighty Mouse is cataloged as a distortion pedal.
+
+### Verified sound evidence
+Build Your Own Clone Mighty Mouse - Distortion - Audiofanzine <link href="https://en.audiofanzine.com/guitar-distortion-overdrive-fuzz/build-your-own-clone/Mighty-Mous
+
+### Sources checked in this pass
+1. Build Your Own Clone Mighty Mouse - Distortion - Audiofanzine: https://en.audiofanzine.com/guitar-distortion-overdrive-fuzz/build-your-own-clone/Mighty-Mouse/
+2. Build Your Own Clone Mighty Mouse - Distorsion guitare - Audiofanzine: https://fr.audiofanzine.com/distorsion-guitare/build-your-own-clone/Mighty-Mouse/

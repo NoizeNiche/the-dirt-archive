@@ -35,3 +35,14 @@ The circuit is intended to cover the familiar Fuzz Face range from lighter fuzz 
 
 ## Sources checked
 1. Effects Database — BreakFuzz Surly Fuzz Germanium: https://www.effectsdatabase.com/model/breakfuzz/surlyfuzz/germanium
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+BreakFuzz's Surly Fuzz Germanium is cataloged as a fuzz pedal.
+
+### Sources checked in this pass
+1. catalog/override source: https://reverb.com/uk/item/6874725-breakfuzz-surly-fuzz-germanium-low-gain
+2. catalog/override source: https://www.effectsdatabase.com/model/breakfuzz/surlyfuzz/germanium

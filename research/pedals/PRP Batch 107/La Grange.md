@@ -32,3 +32,19 @@ A separate footswitchable boost sits after the main overdrive and can be used al
 
 ## Archive photo
 - **Archive status:** **No Photo Archived**
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Bogner Amplification's La Grange is cataloged as an overdrive pedal.
+
+### Verified sound evidence
+Bogner Amplification La Grange Overdrive & Boost Guitar Effects Pedal
+Bogner La Grange Overdrive + Boost Guitar Effects Pedal
+
+### Sources checked in this pass
+1. Bogner Amplification La Grange Overdrive & Boost Guitar Effects Pedal: https://www.pitbullaudio.com/bogner-amplification-la-grange-overdrive-boost-guitar-effects-pedal.html
+2. catalog/override source: https://cdn1.soniccircus.com/uploads/Bogner-La-Grange-Pedal-Manual.pdf
+3. Bogner La Grange Overdrive + Boost Guitar Effects Pedal | Guitar Center: https://www.guitarcenter.com/Bogner/La-Grange-Overdrive-Boost-Guitar-Effects-Pedal-1500000014044.gc

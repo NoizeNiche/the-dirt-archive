@@ -30,3 +30,21 @@ Super Fuzz produces a dense, aggressive fuzz with a subtle upper-octave layer ra
 
 ## Archive photo
 - **Archive status:** **No Photo Archived**
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Black Cat Pedals's Super Fuzz is cataloged as a fuzz pedal.
+
+### Verified color/finish evidence
+- Black Cat Pedals Super Fuzz Guitar Effects Pedal
+
+### Verified sound evidence
+Black Cat Pedals Super Fuzz Guitar Effects Pedal
+
+### Sources checked in this pass
+1. Black Cat Pedals Super Fuzz Guitar Effects Pedal: https://www.pitbullaudio.com/black-cat-pedals-super-fuzz-guitar-effects-pedal.html
+2. catalog/override source: https://reverb.com/p/black-cat-super-fuzz
+3. catalog/override source: https://www.effectsdatabase.com/model/blackcat/superfuzz

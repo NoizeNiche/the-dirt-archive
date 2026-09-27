@@ -12,3 +12,22 @@ The Priestess is a multi-stage BMP-family fuzz combining stages derived from the
 
 ## Archive photo
 - **Archive status:** **No Photo Archived**
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Black Arts Toneworks's Priestess is cataloged as a distortion / fuzz pedal.
+
+### Verified color/finish evidence
+- Black Arts Toneworks Menu Pedals News Swag Friends & Retailers Contact Priestess Choices Standard Black $189.99 USD Limited Copper $214.99 USD Choices Standard Black $189.99 USD Limited Copper $214.99 USD Priestess Loud.
+- Equally powerful Equally adjustable Equally effective $189.99 Standard Black $214.99 Limited Copper/ Gold Foil Graphic © 2026 Black Arts Toneworks.
+
+### Verified sound evidence
+High Output This anthology of circuit stages along with a mids control that goes from deep scoop to slightly boosted mids and two toggles for control of clipping diodes gives tones from dynamic and open fuzz to compressed singing sustain.
+With Tone full left and Mids full right, you can achieve the mid forward boost settings.
+With Tone and Mids pointed towards each other, you’ll get scooped tones.
+
+### Sources checked in this pass
+1. Priestess | Black Arts Toneworks: https://www.blackartstoneworks.com/pedal/priestess/

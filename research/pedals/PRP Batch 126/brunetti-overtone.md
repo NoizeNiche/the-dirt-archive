@@ -33,3 +33,18 @@ Overtone was designed to add substantial amp-style color rather than function on
 ## Sources checked
 1. Effects Database — Brunetti Overtone: https://www.effectsdatabase.com/model/brunetti/overtone
 2. Effects Database — Brunetti Overtone 2: https://www.effectsdatabase.com/model/brunetti/overtone2
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Brunetti's Overtone is cataloged as an overdrive pedal.
+
+### Verified version references
+- The evidence references: v15.
+
+### Sources checked in this pass
+1. catalog/override source: https://www.effectsdatabase.com/model/brunetti/overtone
+2. Brunetti Overtone - Tube Guitar Preamp - Audiofanzine: https://en.audiofanzine.com/tube-guitar-preamp/brunetti/Overtone/
+3. Brunetti Overtone - Préampli guitare tout lampe - Audiofanzine: https://fr.audiofanzine.com/preampli-guitare-tout-lampe/brunetti/Overtone/

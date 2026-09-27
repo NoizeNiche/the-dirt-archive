@@ -34,3 +34,22 @@ The Supreme emphasizes a beefy low end, punchy mids and relatively uncolored tre
 ## Sources checked
 1. Effects Database — BSM Overdrive Supreme: https://www.effectsdatabase.com/model/bsm/overdrive/supreme
 2. Gitarre & Bass — 2015 Supreme specifications listing: https://de.scribd.com/document/275368780/Gba-2015
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+If combines the medium output of an overdrive pedal with the typical Blackmore sound, so as to achieve Ritchie’s tone immediately with most amps bright channel independently from the SUPREMES’ output adjustment.
+
+### Verified color/finish evidence
+- Lace Sensor Gold is registered trademark, which BSM is not affiliated with!
+
+### Verified sound evidence
+If combines the medium output of an overdrive pedal with the typical Blackmore sound, so as to achieve Ritchie’s tone immediately with most amps bright channel independently from the SUPREMES’ output adjustment.
+The drive-control is there to set perfectly Ritchie’s gain-shadings over the last four decades of his rock-artistic development.
+The basic tone is very beefy with direct bass, punching mids and uncoloured treble.
+
+### Sources checked in this pass
+1. catalog/override source: https://www.effectsdatabase.com/model/bsm/overdrive/supreme
+2. SUPREME special overdrive | BSM - Finest Treble Booster: https://www.treblebooster.net/products/overdrive-booster/supreme-special-overdrive.html

@@ -35,3 +35,18 @@ Mercury Box moves from clear, defined crunch into harder-rock distortion while r
 ## Sources checked
 1. Effects Database — Brunetti Mercury Box: https://www.effectsdatabase.com/model/brunetti/mercurybox
 2. Effects Database — Brunetti Mercury Box 2: https://www.effectsdatabase.com/model/brunetti/mercurybox/2
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+e-gitarre@musik-produktiv.de +49 5451 909-500 Product information "Brunetti Mercury Box 2" The Mercury Box Brunetti overdrive / distortion guitar effects pedal is based on the second channel of the Mercury Brunetti head amp.
+
+### Verified sound evidence
+e-gitarre@musik-produktiv.de +49 5451 909-500 Product information "Brunetti Mercury Box 2" The Mercury Box Brunetti overdrive / distortion guitar effects pedal is based on the second channel of the Mercury Brunetti head amp.
+Prova Mercury Box 2 26 August 2018 08:08 Eccellente, il primo vero sound Marshall che ho trovato in un pedale Con i single coil c'è anche un buon crunch.
+
+### Sources checked in this pass
+1. Brunetti Mercury Box 2 – buy online | Musik Produktiv: https://www.musik-produktiv.com/se/products/brunetti-mercury-box-2/
+2. catalog/override source: https://www.effectsdatabase.com/model/brunetti/mercurybox

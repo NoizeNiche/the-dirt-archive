@@ -24,3 +24,13 @@ BLAMMO! updates the original concept with relay-based true bypass, compact top-m
 
 ## Archive photo
 - **Archive status:** **No Photo Archived**
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+BLAMMO! Electronics's SLOB is cataloged as a fuzz pedal.
+
+### Sources checked in this pass
+1. SLOB | BLAMMO! Electronics: https://www.blammoelectronics.com/product-page/the-slob

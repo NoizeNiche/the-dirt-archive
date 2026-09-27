@@ -31,3 +31,21 @@ The product is intended to occupy the historic Rangemaster/Fuzzbug family, but t
 
 ## Sources checked
 1. Guitar Pedal X — British Pedal Company roundup: https://www.guitarpedalx.com/news/best-of-british-pedal-builders-roundup---an-a-z-overview-in-105-parts
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+British Pedal Company's Rangemaster Fuzzbug MkII is cataloged as a fuzz pedal.
+
+### Verified version references
+- The evidence references: MKI, MKII.
+
+### Verified sound evidence
+Only a small handful of these original prototype pedals were produced and to many Fuzzaholics is the Holy Grail Of Fuzz.
+The Original Rangemaster Fuzz Bug took its lead from the Original Tone Bender Design featuring a cast aluminium casing and two circuit variants, The MKI.5 Two Transistor Circuit and the MKII Three Transistor circuit.
+The British Pedal Company are pleased to breath new life into this rare fuzz giving users/players the to opportunity to add these cool fuzzes to their collection each of which are signed and numbered from 1- 25.
+
+### Sources checked in this pass
+1. Rangemaster Fuzzbug MKII: https://www.britishpedalcompany.com/view-product/rangemaster-fuzzbug-mkii

@@ -1,0 +1,25 @@
+{
+  "builder": "BLAMMO! Electronics",
+  "pedal": "L.A. Square Face",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 2,
+  "sources": [
+    {
+      "url": "https://coastsonic.com/products/blammo-electronics-l-a-square-face-fuzz-hybrid",
+      "title": "BLAMMO! Electronics L.A. Square Face Fuzz Hybrid &ndash; Coast Sonic",
+      "h1": "BLAMMO! Electronics L.A. Square Face Fuzz Hybrid",
+      "excerpt": "BLAMMO! Electronics L.A. Square Face Fuzz Hybrid &ndash; Coast Sonic Skip to content Search Home Shop Hi-Fives News Contact Account Search Cart Home Shop Hi-Fives News Contact Home BLAMMO! Electronics L.A. Square Face Fuzz Hybrid Skip to product information Previous Next Close BLAMMO! Electronics L.A. Square Face Fuzz Hybrid Regular price $164.99 USD More stock coming soon By BLAMMO! Electronics Quantity Sold out Maker: BLAMMO! Electronics Model: L.A. Square Face - Hybrid Condition: New Description: The Los Angeles Square Face is our head nod to the most beloved/famous patron of L.A.\u2019s Rainbow Room by way of the classic Diaz Texas Square Face made by Cesar Diaz; guitar player and tech to the stars. As you might have guessed, the Texas Square Face was based on the Dallas Arbiter Fuzz Face but used a different brand and style of transistors, had a bit more output volume, and was housed in a smaller square shaped enclosure. Stevie Ray Vaughn was known for using one which is half the reason they command such high prices today, but also because they sound really darn good with a Strat. The BLAMMO! version is similar to the original but not exactly the same. We swapped out the clicky 3PDT style footswitch for a much quieter relay based soft switching system set up in true bypass fashion. The power filtering has been beefed up a bit to help hush and smooth out some of the background hiss and we\u2019ve moved the jacks from the side to the top of the enclosure to help save space on your pedalboard. As for similarities, all the capacitor values are the same and the NTE103 germanium transistors for the red version are too, though they are newly manufactured instead of being new-old-stock, which in this case is a good thing because the new versions have a much higher gain (between 400 \u2013 650 hfe) resulting in a rattier, blown out voicing. Kinda splatty and gated compared to that classic smooth woolly sound the FF and its counterparts are known for. A quality I think any Motorhead fan would approve of. But if you\u2019re more into that vintage sound, the blue version that uses BC108b silicon transistors might be more your thing. True, they are higher gain than the ones used in a standard Fuzz Face (250-400hfe instead of the 80-110hfe range), but in this case the sound is still very familiar. It even responds the same when dialing back on the guitars volume knob but the overall tone has a bit more crunch to it when everything is dimed. And think of the Hybrid as mix between the two that leans more toward the silicon side in terms of function and sound. True Bypass Relay based soft-switching Audio grade Nichicon capacitors Carbon comp resistors Teflon coated wiring Top mounted jacks BC108b transistors in Silicon version w/ green LED NTE103 transistors in Germanium version w/ red LED Accepts the standard 2.1mm center negative 9 volt DC adapter Current draw : 32ma Handmade with care in Portland, Oregon View details BLAMMO! Electronics L.A. Square Face Fuzz Hybrid Close BLAMMO! Electronics L.A. Square Face Fuzz Hybrid Sold out Need cables? Need power? Quick links Home Shop Hi-Fives News Contact Join our newsletter Subscribe Facebook YouTube Instagram American Express Apple Pay Diners Club Discover Google Pay Mastercard PayPal Shop Pay Visa Country/Region United States (USD $) United States (USD $) &copy; 2026 Coast Sonic . Your cart Close Checkout Close Your cart is empty Start shopping Close Join our newsletter Subscribe to our newsletter to be the first to know about new releases, limited runs, special events , giveaways and more! Subscribe",
+      "host": "coastsonic.com",
+      "source_kind": "catalog_verified"
+    },
+    {
+      "url": "https://reverb.com/item/85927258-blammo-electronics-l-a-square-face-germanium-fuzz-nte103",
+      "title": "catalog/override source",
+      "h1": "",
+      "excerpt": "",
+      "host": "reverb.com",
+      "source_kind": "reverb"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}

@@ -21,3 +21,18 @@ The source emphasizes low-frequency retention and a transparent overdrive respon
 
 ## Sources checked
 1. Effects Database — Build Your Own Clone Parametric Overdrive: https://www.effectsdatabase.com/model/byoc/overdrive/parametric
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+The standout feature of the Parametric Overdrive is its parametric tone control, which allows for a wide range of frequency adjustment from 100Hz to 4kHz.
+
+### Verified sound evidence
+The standout feature of the Parametric Overdrive is its parametric tone control, which allows for a wide range of frequency adjustment from 100Hz to 4kHz.
+The Parametric Overdrive includes a true bypass and a Q mod, which adjusts the Q of the parametric EQ.
+The PCB also has extra spaces for modifications to the OD section, allowing for customization to achieve different overdrive sounds.
+
+### Sources checked in this pass
+1. Parametric Overdrive by Build Your Own Clone (BYOC) - Stomp Box Schematics: https://stompboxschematics.com/circuits/parametric-overdrive-by-build-your-own-clone-byoc/

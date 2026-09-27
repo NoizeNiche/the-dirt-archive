@@ -25,3 +25,17 @@ Bogner specifies a 100% analog signal path and true bypass. The interactive jewe
 
 ## Archive photo
 - **Archive status:** **No Photo Archived**
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Bogner Amplification's Wessex is cataloged as an overdrive pedal.
+
+### Verified sound evidence
+Bogner Amplification Wessex Overdrive Guitar Effects Pedal
+
+### Sources checked in this pass
+1. Bogner Amplification Wessex Overdrive Guitar Effects Pedal: https://www.pitbullaudio.com/bogner-amplification-wessex-overdrive-guitar-effects-pedal.html
+2. catalog/override source: https://www.sweetwater.com/store/detail/Wessex--bogner-wessex-overdrive-pedal

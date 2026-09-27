@@ -31,3 +31,16 @@ The WEM Pep Box family is associated with the rough early British fuzz tradition
 
 ## Sources checked
 1. Guitar Pedal X — British Pedal Company roundup: https://www.guitarpedalx.com/news/best-of-british-pedal-builders-roundup---an-a-z-overview-in-105-parts
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+British Pedal Company's WEM Pep Box is cataloged as a fuzz pedal.
+
+### Sources checked in this pass
+1. British Pedal Company WEM Pep Box - What To Know & Where To Buy: https://equipboard.com/items/british-pedal-company-wem-pep-box-reissue
+2. British Pedal Company WEM PEP Box - Reverb: https://reverb.com/item/51264553-british-pedal-company-wem-pep-box
+3. British Pedal Company WEM Pep Box - Effects Database: https://www.effectsdatabase.com/model/bpc/pepbox
+4. British Pedal Company Vintage Series WEM Pep Box Brand New $449.00 - Gbase: https://www.gbase.com/gear/british-pedal-company-vintage-series-wem-pep-box

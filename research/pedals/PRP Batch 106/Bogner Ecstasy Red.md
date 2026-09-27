@@ -31,3 +31,14 @@ The Variac switch adds the characteristic dropped-voltage compression feel. Mode
 
 ## Archive photo
 - **Archive status:** **No Photo Archived**
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Bogner Amplification's Ecstasy Red is cataloged as a distortion / overdrive pedal.
+
+### Sources checked in this pass
+1. Bogner Ecstasy Red pedal review | MusicRadar: https://www.musicradar.com/reviews/guitars/bogner-ecstasy-red-pedal-572586
+2. catalog/override source: https://jam.ua/files/files/BognerEcstasyRed_Guitar_Pedal_Manual.pdf

@@ -37,3 +37,14 @@ The silicon version follows the Fuzz Face family but uses silicon transistors fo
 
 ## Sources checked
 1. Effects Database — BreakFuzz Surly Fuzz Silicon BC183: https://www.effectsdatabase.com/model/breakfuzz/surlyfuzz/silicon/bc183
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+BreakFuzz's Surly Fuzz Silicon BC183 is cataloged as a fuzz pedal.
+
+### Sources checked in this pass
+1. catalog/override source: https://reverb.com/item/9010325-breakfuzz-surly-fuzz-silicon-bc183
+2. catalog/override source: https://www.effectsdatabase.com/model/breakfuzz/surlyfuzz/silicon/bc183

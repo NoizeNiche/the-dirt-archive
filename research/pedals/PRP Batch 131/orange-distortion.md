@@ -27,3 +27,17 @@ The archive records the original-DS-1 circuit identity and the documented modifi
 ## Sources checked
 1. Effects Database — Build Your Own Clone Orange Distortion: https://www.effectsdatabase.com/model/byoc/distortion/orange
 2. BYOC Orange Distortion instructions: https://byocelectronics.com/orangedistinstructions.pdf
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Build Your Own Clone's Orange Distortion is cataloged as a distortion pedal.
+
+### Verified version references
+- The evidence references: v15.
+
+### Sources checked in this pass
+1. Build Your Own Clone Orange Distortion - Distortion - Audiofanzine: https://en.audiofanzine.com/guitar-distortion-overdrive-fuzz/build-your-own-clone/orange-distorsion/
+2. Build Your Own Clone Orange Distortion - Distorsion guitare - Audiofanzine: https://fr.audiofanzine.com/distorsion-guitare/build-your-own-clone/orange-distorsion/

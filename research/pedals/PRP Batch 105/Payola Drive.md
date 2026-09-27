@@ -25,3 +25,13 @@ BLAMMO! describes the circuit as a distant cousin of the Tube Screamer with a fi
 
 ## Archive photo
 - **Archive status:** **No Photo Archived**
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+BLAMMO! Electronics's Payola Drive is cataloged as an overdrive pedal.
+
+### Sources checked in this pass
+1. Payola Drive | BLAMMO! Electronics: https://www.blammoelectronics.com/product-page/payola-drive

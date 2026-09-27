@@ -30,3 +30,14 @@ The pedal includes Plexi/Blue gain modes, a Variac setting, pre-EQ and structure
 
 ## Archive photo
 - **Archive status:** **No Photo Archived**
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Bogner Amplification's Ecstasy Blue is cataloged as an overdrive pedal.
+
+### Sources checked in this pass
+1. Bogner Ecstasy Blue pedal review | MusicRadar: https://www.musicradar.com/reviews/guitars/bogner-ecstasy-blue-pedal-572592
+2. catalog/override source: https://www.sweetwater.com/store/detail/EcstasyBlue--bogner-ecstasy-blue-overdrive-pedal

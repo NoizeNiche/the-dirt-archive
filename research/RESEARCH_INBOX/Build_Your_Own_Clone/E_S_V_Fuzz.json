@@ -1,0 +1,25 @@
+{
+  "builder": "Build Your Own Clone",
+  "pedal": "E.S.V. Fuzz",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 2,
+  "sources": [
+    {
+      "url": "https://en.audiofanzine.com/fuzz-pedal/build-your-own-clone/e-s-v-fuzz/",
+      "title": "Build Your Own Clone E.S.V. Fuzz - Fuzz pedal - Audiofanzine",
+      "h1": "",
+      "excerpt": "Build Your Own Clone E.S.V. Fuzz - Fuzz pedal - Audiofanzine <link rel=\"icon\" type=\"image/webp\" href=\"https://static.audiofanzine.co",
+      "host": "en.audiofanzine.com",
+      "source_kind": "catalog_verified"
+    },
+    {
+      "url": "https://fr.audiofanzine.com/fuzz-guitare/build-your-own-clone/e-s-v-fuzz/",
+      "title": "Build Your Own Clone E.S.V. Fuzz - Fuzz guitare - Audiofanzine",
+      "h1": "",
+      "excerpt": "Build Your Own Clone E.S.V. Fuzz - Fuzz guitare - Audiofanzine <link rel=\"icon\" type=\"image/webp\" href=\"https:/",
+      "host": "fr.audiofanzine.com",
+      "source_kind": "other"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}

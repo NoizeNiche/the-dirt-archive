@@ -1,0 +1,41 @@
+{
+  "builder": "Blackstar Amplification",
+  "pedal": "LT-DRIVE",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 4,
+  "sources": [
+    {
+      "url": "https://www.manualslib.tech/guide/639920/blackstar-lt-drive-pedal-manual.html",
+      "title": "Blackstar LT-DRIVE - Pedal Manual | ManualsLib",
+      "h1": "Blackstar LT-DRIVE - Pedal Manual",
+      "excerpt": "Blackstar LT-DRIVE - Pedal Manual | ManualsLib Sign In Download Table of Contents Contents Add to my manuals Delete from my manuals Share URL of this page: HTML Link: Blackstar LT-DRIVE - Pedal Manual '> Print this page &times; Bookmark added &times; Added to my manuals Manuals Brands Blackstar Manuals Music Pedal LT-DRIVE User manual Introduction Features Controls Technical Specification Important safety information References Download manual In Other Languages Blackstar LT-DRIVE - Pedal Manual Contents 1 Introduction 2 Features 3 Controls 4 Technical Specification 5 Important safety information 6 References 7 Download manual 8 In Other Languages Introduction Like all our products this pedal is the result of countless hours of painstaking Research and Development by our world-class design team. Based in Northampton (UK), the Blackstar team are all experienced musicians themselves and the sole aim of the development process is to provide guitarists with products which are the ultimate tools for self-expression. All Blackstar products are subjected to extensive laboratory and road testing to ensure that they are truly uncompromising in terms of reliability, quality and above all TONE. If you like what you hear and want to find out more about the Blackstar range of products please visit our website at www.blackstaramps.com . Features The LT DRIVE delivers gain from warm boost to screaming lead saturation. The unique tone control cuts the fizz without making your backed-off tone sound dull and lifeless. Controls Gain The Gain knob controls the amount of overdrive or distortion that the pedal will deliver. At low settings, counter clockwise (CCW) the LT DRIVE will deliver a clean boost, which in conjunction with the level control can be used to overdrive an already distorting valve amplifier. As the Gain control is increased clockwise (CW), the sound will become more overdriven moving through crunch tones until, at its maximum position, a full distorted lead tone is arrived at. Level The Level control sets the overall level or volume from the LT DRIVE. It should be used in conjunction with the Gain control to achieve the exact type of drive you require. Generally speaking, to achieve the correct balance, at lower Gain settings the Level will be increased and at higher Gain settings the Level should be decreased. Tone The Tone control allows exact adjustment of the treble frequencies within the sound. At low settings, counter clockwise (CCW), the sound will be warm and darker in character. As the control is increased clockwise (CW) the sound will become brighter. At the maximum settings the tone will be aggressive and cutting. Effect On/Off Switch Press this switch to turn the effect on or off. Effect On/Off LED When the LED is on the pedal is on. When the LED is not on the pedal is off. Input Plug your guitar in here. Always use a good quality screened guitar lead. To maximise battery life unplug your cable from the pedal when not in use. Output This output is for connection to the input of your amplifier or into other pedals or effects. For best noise performance we recommend you place the LT DRIVE pedal first in the effects chain. Always use a good quality screened guitar lead. DC Inlet For the input of a 9V DC adapter. Always use a Blackstar approved 9V adapter. Battery Compartment Insert a 9V PP3 battery here. When the Effect On/Off LED begins to glow less brightly you should change the battery. Technical Specification Power: 9V DC / PP3 Battery Maximum Current Draw: &lt; 20mA Controls: Gain, Level, Tone Switches: On/Off Switch Indicators: Effect On/Off LED Jacks: Input, Output Dimensions (mm): W 60 x H 54.5 x D 122 Weight: 450g Important safety information Read the following information carefully. Save all instructions for future reference. Do not open the equipment case. There are no user serviceable parts in this equipment. Refer all servicing to qualified service personnel. Unauthorised modification of this equipment is ex",
+      "host": "www.manualslib.tech",
+      "source_kind": "catalog_verified"
+    },
+    {
+      "url": "https://reverb.com/p/blackstar-lt-drive",
+      "title": "catalog/override source",
+      "h1": "",
+      "excerpt": "",
+      "host": "reverb.com",
+      "source_kind": "reverb"
+    },
+    {
+      "url": "https://www.manualsdir.com/manuals/758556/blackstar-lt-dist.html",
+      "title": "Blackstar LT-DIST User Manual | 16 pages | Also for: LT-METAL",
+      "h1": "Blackstar LT-DIST User Manual",
+      "excerpt": "Blackstar LT-DIST User Manual | 16 pages | Also for: LT-METAL Manuals Directory ManualsDir.com - online owner manuals library Search Directory Brands Blackstar manuals Accessories for music LT-DIST Manual Blackstar LT-DIST User Manual Lt-dist, Suggested settings Text mode Original mode Advertising 2 1 LT-DIST CLASSIC DISTORTION Owner\u2019s Manual HBK-1049 07/13 Blackstar Amplification Ltd , Beckett House, 14 Billing Road, Northampton, NN1 5AW, UK For the latest information go to: www .blackstaramps.com The specifications and information in this publication are subject to change without prior notice. Suggested Settings Share Pages: 1 2 3 4 5 6 7 &hellip; 16 Download Complain wrong Brand wrong Model non readable Advertising This manual is related to the following products: LT-METAL See also other documents in the category Blackstar Accessories for music: LT-BOOST (16 pages) LT-DRIVE (16 pages) LT-DUAL (16 pages) HT-BOOST Quick start (1 page) HT-BOOST (17 pages) HT-DRIVE (17 pages) HT-DRIVE Quick start (1 page) HT-METAL Quick start (1 page) HT-DIST (17 pages) HT-DISTX (17 pages) HT-DUAL (17 pages) HT-DELAY (27 pages) HT-DELAY Quick start (1 page) HT-METAL (17 pages) HT-REVERB (23 pages) HT-REVERB Quick start (1 page) HT-MODULATION (23 pages) HT-MODULATION Quick start (1 page) HT-5TH (25 pages) Blackfire 412 (29 pages) HT-BLACKFIRE (19 pages) Blackfire 200 (43 pages) Home | About Us | Contact Us | ManualsDir DMCA Policy | Brands | Popular manuals | Recently added Manuals Directory &copy; 2012&ndash;2026, manualsdir.com All rights reserved.",
+      "host": "www.manualsdir.com",
+      "source_kind": "catalog_verified"
+    },
+    {
+      "url": "https://blackstarampsmedia.com/uk/products/lt-drive",
+      "title": "catalog/override source",
+      "h1": "",
+      "excerpt": "",
+      "host": "blackstarampsmedia.com",
+      "source_kind": "catalog_verified"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}

@@ -26,3 +26,18 @@ The standard BD-2 uses Gain, Tone and Level controls, true-bypass-style switchin
 
 ## Archive photo
 - **Archive status:** **No Photo Archived**
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Its influential BOSS analog circuit design behaves like a tube amp, providing natural, touch-responsive gain that’s not possible with standard overdrive and distortion pedals.
+
+### Verified sound evidence
+Downloads Support Expressive Touch Sensitivity Sweet, nuanced, and ultra-expressive, the BD-2 Blues Driver stands as an enduring icon in the annals of guitar overdrive.
+Its influential BOSS analog circuit design behaves like a tube amp, providing natural, touch-responsive gain that’s not possible with standard overdrive and distortion pedals.
+This innovative design delivers a very organic playing experience, with drive character and harmonic content that changes with your picking attack and sound that smoothly cleans up as you roll back the volume.
+
+### Sources checked in this pass
+1. BOSS - BD-2 | Blues Driver: https://www.boss.info/global/products/bd-2/

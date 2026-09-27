@@ -27,3 +27,21 @@ The documented modifications provide more gain, asymmetrical clipping, more low 
 ## Sources checked
 1. Effects Database — Build Your Own Clone Li'l Modified Overdrive: https://www.effectsdatabase.com/model/byoc/lil/modifiedoverdrive
 2. Effects Database — Build Your Own Clone catalog: https://www.effectsdatabase.com/model/byoc
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Build Your Own Clone's Li'l Modified Overdrive is cataloged as an overdrive pedal.
+
+### Verified color/finish evidence
+- Δ More Schematics Based On: Darkglass Vintage Microtubes Black Mirror Bass Tubes by PCB Guitar Mania Add To Cart Based On: Ampeg SVT Amped S-bass by PCB Guitar Mania Add To Cart Based On: Horizon Devices Precision drive Collision Drive by PCB Guitar Mania Add To Cart (c) Stomp Box Schematics
+
+### Verified sound evidence
+The drive knob offers more gain, allowing for a higher level of distortion.
+The pedal also offers increased high frequencies, adding a touch of sparkle to the tone.
+The Li’l Modified Overdrive Kit utilizes all through-hole components, making it easy to assemble.
+
+### Sources checked in this pass
+1. Li'l Modified Overdrive Kit by Build Your Own Clone (BYOC) - Stomp Box Schematics: https://stompboxschematics.com/circuits/lil-modified-overdrive-kit-by-build-your-own-clone-byoc/

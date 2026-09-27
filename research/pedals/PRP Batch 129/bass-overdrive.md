@@ -33,3 +33,18 @@ The two-band EQ gives broad control over the bass and treble around the drive ci
 
 ## Sources checked
 1. Effects Database — Build Your Own Clone Bass Overdrive: https://www.effectsdatabase.com/model/byoc/bassoverdrive
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Build Your Own Clone's Bass Overdrive is cataloged as an overdrive pedal.
+
+### Verified sound evidence
+The volume knob provides a significant amount of volume, even when the blend knob is set to 100% dry, making it suitable for use as a clean or dirty boost.
+This pedal is not limited to bass players and can also be used by guitarists looking to add some extra grit to their sound.
+Be the first to review “Bass Overdrive Kit by Build Your Own Clone (BYOC)” Cancel reply Your email address will not be published.
+
+### Sources checked in this pass
+1. Bass Overdrive Kit by Build Your Own Clone (BYOC) - Stomp Box Schematics: https://stompboxschematics.com/circuits/bass-overdrive-kit-by-build-your-own-clone-byoc/

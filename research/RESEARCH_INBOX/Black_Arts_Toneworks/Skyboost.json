@@ -1,0 +1,25 @@
+{
+  "builder": "Black Arts Toneworks",
+  "pedal": "Skyboost",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 2,
+  "sources": [
+    {
+      "url": "https://www.blackartstoneworks.com/pedal/skyboost/",
+      "title": "Skyboost | Black Arts Toneworks",
+      "h1": "Skyboost",
+      "excerpt": "Skyboost | Black Arts Toneworks Menu Pedals News Swag Friends & Retailers Contact   Skyboost Skyboost SKYBOOST You\u2019ll find sounds from a gentle full range boost, gritty treble boost, gassing up to a full aggressive fuzz. Great for boosting and adding some edge to a dirty preamp, add definition to a saturated front end. Controls: Gain \u2013 Dial up harmonic content maxing up to fuzzy Volume \u2013 Match your amp volume, then cut or boost as needed Contour \u2013 toggle between a bassy setting and a trebly setting. Range \u2013 toggle between lower and higher gain ranges. 9vdc, negative center. True Bypass switching Black Arts standard lifetime warranty PRICE: $175 &copy; 2026 Black Arts Toneworks. All Rights Reserved.",
+      "host": "www.blackartstoneworks.com",
+      "source_kind": "manufacturer"
+    },
+    {
+      "url": "https://reverb.com/item/73951423-black-arts-toneworks-skyboost",
+      "title": "catalog/override source",
+      "h1": "",
+      "excerpt": "",
+      "host": "reverb.com",
+      "source_kind": "reverb"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}

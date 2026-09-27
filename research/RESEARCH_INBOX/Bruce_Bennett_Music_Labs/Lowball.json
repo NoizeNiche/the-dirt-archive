@@ -1,0 +1,41 @@
+{
+  "builder": "Bruce Bennett Music Labs",
+  "pedal": "Lowball",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 4,
+  "sources": [
+    {
+      "url": "https://guitarpedalfinder.com/pedals/bruce-bennett-music-labs-lowball",
+      "title": "Bruce Bennett Music Labs Lowball - Multi-Effects Pedal | PedalFinder",
+      "h1": "Guitar Pedal Finder",
+      "excerpt": "Bruce Bennett Music Labs Lowball - Multi-Effects Pedal | PedalFinder Guitar Pedal Finder Explore Brands Guides Pedalboards FAQ Home / Bruce Bennett Music Labs / Lowball Bruce Bennett Music Labs Lowball The Bruce Bennett Music Labs Lowball is a captivating and powerful octave distortion pedal that defies categorization. This unruly beast combines the gritty, saturated tones of a fuzz with the subterranean growl of a one-octave-down effect, creating a sound that is as menacing as it is mesmerizing. What sets the Lowball apart is its uncanny ability to thrive in the lowest tunings. Drop-tuned guitars, baritones, and even basses come alive under its spell, unleashing a wall of distorted, harmonically rich low-end that will shake the foundations. Chords become massive, thick slabs of sound, while single notes take on an almost synthesized quality, oscillating and swelling with a captivating ring modulator-like effect. Yet the Lowball is no mere one-trick pony. Crank up the gain, and it transforms into a fierce, almost uncontrollable distortion unit, perfect for searing lead lines and bone-crushing riffs. The pedal's generous boost function further enhances its versatility, allowing players to push their amplifiers into glorious, amp-like saturation. While the Lowball may not be for the faint of heart, seasoned players seeking a truly unique and inspiring tone will find it a revelation. Guitarist Bruce Kulick of KISS has been spotted using the Lowball, testament to its ability to conjure up thunderous, stadium-ready tones. If you're craving a pedal that can simultaneously crush, glitch, and mesmerize, the Lowball is a must-try. Categories Ring Modulator Octave Buy on Amazon Similar Pedals from Bruce Bennett Music Labs Bruce Bennett Music Labs Boost-E-A Boost Bruce Bennett Music Labs Brown Sound Multi-Effects View on Reverb Bruce Bennett Music Labs Insane Gain Multi-Effects Bruce Bennett Music Labs Tejas Trem Clone Multi-Effects",
+      "host": "guitarpedalfinder.com",
+      "source_kind": "catalog_verified"
+    },
+    {
+      "url": "https://www.amazon.com/s?k=Bruce+Bennett+Music+Labs+Bruce+Bennett+Music+Labs+Lowball",
+      "title": "Buy on Amazon",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.amazon.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://reverb.com/marketplace?query=Bruce+Bennett+Music+Labs%20Bruce+Bennett+Music+Labs+Lowball",
+      "title": "View on Reverb",
+      "h1": "",
+      "excerpt": "",
+      "host": "reverb.com",
+      "source_kind": "reverb"
+    },
+    {
+      "url": "https://www.effectsdatabase.com/model/bennett/lowball",
+      "title": "catalog/override source",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.effectsdatabase.com",
+      "source_kind": "effects_database"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}

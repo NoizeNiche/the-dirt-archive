@@ -1,26 +1,37 @@
 # BJFE / BJF Electronics — Rebel Red Distortion
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Rebel Red Distortion
 - **Builder:** BJFE / BJF Electronics
-- **Pedal:** Rebel Red Distortion
 - **Catalog type:** Distortion
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** BJFE / BJF Electronics's Rebel Red Distortion.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Rebel Red Distortion** by **BJFE / BJF Electronics** as a **Distortion** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+BJFE / BJF Electronics's Rebel Red Distortion is cataloged as a distortion pedal.
 
-## Catalog source
-- Catalog source page on file: https://www.bjornjuhl.com/forum/viewtopic.php-f%3D6%26t%3D1555.html
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- The verified evidence references: V.2, Version 2.
+- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+For example, the "Dynamic Amber Overdrive" is a prototype of the Sparkling Yellow Overdrive (SYOD) and therefore it is recorded with the SYOD.
+
+## Sources checked
+1. BJFE / BearFoot fx Guitar Effects Community • View topic - Registry: BJFE Pedals: https://www.bjornjuhl.com/forum/viewtopic.php-f%3D6%26t%3D1555.html
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
-## Deep research verification
-
-Björn Juhl's historical reference identifies Rebel Red Distortion as a **one-off custom Dyna Red** modified for an EL84-based amplifier. The unit was given more low-mid weight, less high-mid emphasis and additional gain than the underlying Dyna Red. The archive keeps this original one-off separate from later One Control Rebel Red reproductions.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

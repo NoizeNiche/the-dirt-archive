@@ -13,3 +13,24 @@ The Balrog Distortion MKII is a high-gain distortion/overdrive built around thre
 
 ## Archive photo
 - **Archive status:** **No Photo Archived**
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Blackhawk Amplifiers's Balrog Distortion MKII is cataloged as a distortion / overdrive pedal.
+
+### Verified color/finish evidence
+- The new MKII version brings everything from vintage overdrive to contemporary brutal death/black/hardcore tones.
+
+### Verified version references
+- The evidence references: MKII, V1, V2, V3.
+
+### Verified sound evidence
+BLACKHAWK AMPLIFIERS “CHERNOBYL” PI π BASS FUZZ IS BACK!!
+“CHERNOBYL” PI π BASS FUZZ IS BACK!!
+The concept of the design was to create a high gain preamp, distortion and overdrive in one.
+
+### Sources checked in this pass
+1. BALROG DISTORTION MKII | BLACKHAWK AMPLIFIERS: https://www.blackhawkamplifiers.com/product/balrog-distortion

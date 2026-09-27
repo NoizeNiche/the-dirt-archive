@@ -25,3 +25,13 @@ The pedal adds a relay-based soft-switching true-bypass system, stronger power f
 
 ## Archive photo
 - **Archive status:** **No Photo Archived**
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+BLAMMO! Electronics's Blues Blaster is cataloged as a distortion / overdrive pedal.
+
+### Sources checked in this pass
+1. Blues Blaster | BLAMMO! Electronics: https://www.blammoelectronics.com/product-page/blues-blaster

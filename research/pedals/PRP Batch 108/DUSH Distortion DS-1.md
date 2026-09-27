@@ -22,3 +22,17 @@ The pedal uses a simple Level, Tone and Gain layout. It has true bypass and can 
 
 ## Archive photo
 - **Archive status:** **No Photo Archived**
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Boorocks's DUSH Distortion DS-1 is cataloged as a distortion pedal.
+
+### Verified sound evidence
+BOOROCKS DUSH Distortion DS-1（中古/送料無料）【楽器検索デジマート】 Need English Guidance?
+
+### Sources checked in this pass
+1. BOOROCKS DUSH Distortion DS-1（中古/送料無料）【楽器検索デジマート】: https://www.digimart.net/cat13/shop3740/DS09733649/
+2. プロフェッショナル集団による国産ブランド、Boorocks新製品4機種「VOID」「DUSH」「KUMI」「ZEAL」 - きになるおもちゃ -ギター・エフェクター・アンプ・DTM関連の情報サイト-: https://toy-love.hatenablog.com/entry/20120902/1346590896

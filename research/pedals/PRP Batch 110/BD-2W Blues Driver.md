@@ -48,3 +48,20 @@ Standard mode delivers the familiar Blues Driver response, while Custom mode add
 ## Archive photo
 - **Archive status:** **Exact model photo archived**
 - **Image source:** https://www.thomann.de/gb/boss_bd_2w_blues_driver.htm
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+BOSS's BD-2W Blues Driver is cataloged as an overdrive pedal.
+
+### Verified sound evidence
+409939 - not included) Made in Japan 30 30-Day Money-Back Guarantee 3 3-Year Thomann Warranty Available since November 2014 Item number 345722 Sales Unit 1 piece(s) Overdrive Yes Distortion No Fuzz No Metal No Try out the effects live Test the actual effects in real time with our exclusive technology.
+Accessories Support Responsiveness Outshined With a Modernized Vintage Vibe Passionately designed by the master engineers at BOSS in Japan, the Waza Craft BD-2W delivers a premium stomp experience that fans of customized pedal tone will love.
+Crafted with an ear for highly refined sound, the BD-2W takes the classic Blues Driver grit to a new level with all-discrete analog circuitry.
+
+### Sources checked in this pass
+1. Boss BD-2w Blues Driver – United States: https://www.thomannmusic.com/boss_bd_2w_blues_driver.htm
+2. catalog/override source: https://www.thomann.de/gb/boss_bd_2w_blues_driver.htm
+3. BOSS - BD-2W | Blues Driver: https://www.boss.info/us/products/bd-2w/

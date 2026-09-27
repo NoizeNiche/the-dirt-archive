@@ -26,3 +26,24 @@ The standard Godfather itself is a low- to medium-gain overdrive with Volume, Dr
 
 ## Archive photo
 - **Archive status:** **No Photo Archived**
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+BMF Effects's The Godfather II Dual Overdrive is cataloged as an overdrive pedal.
+
+### Verified color/finish evidence
+- Channel B (red LED) is modified for slightly more gain and sag.
+
+### Verified diode terms
+- LED.
+
+### Verified sound evidence
+Open media 3 in modal Play video The Godfather II Dual Overdrive opens full screen video in same window.
+Open media 4 in modal Play video 1 / of 4 The Godfather II Dual Overdrive The Godfather II Dual Overdrive Regular price $289.00 USD Regular price Sale price $289.00 USD Unit price / per Sale Sold Out!
+Channel A (green LED) is The Godfather overdrive in its stock configuration.
+
+### Sources checked in this pass
+1. The Godfather II Dual Overdrive – BMF Effects: https://www.bmfeffects.com/products/the-godfather-ii-dual-overdrive

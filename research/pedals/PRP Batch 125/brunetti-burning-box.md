@@ -38,3 +38,18 @@ Burning Box is Brunetti's extreme high-gain territory, with compressed, forceful
 ## Sources checked
 1. Effects Database — Brunetti Burning Box: https://www.effectsdatabase.com/model/brunetti/burningbox
 2. Brunetti Burning Box documentation referenced by Effects Database.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Brunetti's Burning Box is cataloged as a distortion pedal.
+
+### Verified version references
+- The evidence references: v15.
+
+### Sources checked in this pass
+1. Brunetti Burning Box - Distorsion guitare - Audiofanzine: https://fr.audiofanzine.com/distorsion-guitare/brunetti/Burning-Box/
+2. Brunetti Burning Box - Distortion - Audiofanzine: https://en.audiofanzine.com/guitar-distortion-overdrive-fuzz/brunetti/Burning-Box/
+3. catalog/override source: https://www.effectsdatabase.com/model/brunetti/burningbox

@@ -44,3 +44,19 @@ The DS-1X is voiced for a tight low end, pronounced note definition, and a respo
 ## Archive photo
 - **Archive status:** **Exact model photo archived**
 - **Image source:** https://www.guitarcenter.com/BOSS/DS-1X-Distortion-Pedal.gc
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Prepare to be amazed—the inspiring and ultra-responsive DS-1X will change your thinking about distortion pedals forever.
+
+### Verified sound evidence
+BOSS DS-1X Distortion Guitar Effects Pedal
+Downloads Support Plug Into the Future of Distortion The DS-1X launches the famous BOSS distortion into a new era of expression, delivering unmatched performance for guitarists seeking the ultimate tone.
+Prepare to be amazed—the inspiring and ultra-responsive DS-1X will change your thinking about distortion pedals forever.
+
+### Sources checked in this pass
+1. BOSS DS-1X Distortion Guitar Effects Pedal | Guitar Center: https://www.guitarcenter.com/Boss/DS-1X-Distortion-Guitar-Effects-Pedal-1390232632954.gc
+2. BOSS - DS-1X | Distortion: https://www.boss.info/global/products/ds-1x/

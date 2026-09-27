@@ -23,3 +23,24 @@ Blake Hickey's interview identifies the pedal as one of the original three Blake
 
 ## Archive photo
 - **Archive status:** **No Photo Archived**
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Our understanding was that this pedal found particular favour with Shoegaze fans - who loved to run / blend Reverb into the front of those fuzz pedals in particular.
+
+### Verified version references
+- The evidence references: MKIII, v4.
+
+### Verified sound evidence
+Guitar Pedal X - News - Campaign to Revive the Cult Classic Blakemore Effects Deus Ex Machina Opamp Fuzz!
+Reset Password Filter content by area of interest Amps Boost and Overdrive Delay Distortion Fuzz Guitars Modulation Pitch Reverb Utility All All Campaign to Revive the Cult Classic Blakemore Effects Deus Ex Machina Opamp Fuzz!
+During his relatively brief tenure as Blakemore Effects, he was responsible for some truly exceptional mid-size fuzz boxes in particular, while his notable pedals included the Bi-Polar Octadrive, Dreamsicle IC Fuzz, Deus Ex Machina Opamp Fuzz, Motor City Fuzz, Mustang Overdrive, and R.O.U.S Distortion (Rat).
+
+### Sources checked in this pass
+1. Guitar Pedal X - News - Campaign to Revive the Cult Classic Blakemore Effects Deus Ex Machina Opamp Fuzz!: https://www.guitarpedalx.com/news/campaign-to-revive-the-cult-classic-blakemore-effects-deus-ex-machina-opamp-fuzz
+2. catalog/override source: https://reverb.com/p/blakemore-effects-deus-ex-machina
+3. JavaScript is not available.: https://x.com/intent/tweet?text=https://www.guitarpedalx.com/news/campaign-to-revive-the-cult-classic-blakemore-effects-deus-ex-machina-opamp-fuzz&title=Campaign%20to%20Revive%20the%20Cult%20Classic%20Blakemore%20Effects%20Deus%20Ex%20Machina%20Opamp%20Fuzz%21
+4. Facebook: https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fshare_channel%2F%3Ftype%3Dreshare%26link%3Dhttps%253A%252F%252Fwww.guitarpedalx.com%252Fnews%252Fcampaign-to-revive-the-cult-classic-blakemore-effects-deus-ex-machina-opamp-fuzz%26app_id%3D966242223397117%26source_surface%3Dexternal_reshare%26display%26hashtag

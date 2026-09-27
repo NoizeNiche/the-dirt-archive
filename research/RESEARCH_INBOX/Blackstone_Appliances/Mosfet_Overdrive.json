@@ -1,0 +1,65 @@
+{
+  "builder": "Blackstone Appliances",
+  "pedal": "Mosfet Overdrive",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 7,
+  "sources": [
+    {
+      "url": "https://equipboard.com/items/blackstone-mosfet-overdrive",
+      "title": "Blackstone Appliances Mosfet Overdrive - Equipboard",
+      "h1": "",
+      "excerpt": "",
+      "host": "equipboard.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://blackstoneappliances.com/order.html",
+      "title": "Buy a Mosfet Overdrive",
+      "h1": "",
+      "excerpt": "Buy a Mosfet Overdrive &bull;  &bull;  &bull;  &bull;  &bull;  &bull;  &bull;  &bull;  &bull;  &bull;  &bull;  &bull;  &bull;  &bull;  &bull;  &bull;  &bull;  &bull;  &bull;  &bull; The Mosfet Overdrive is available directly from Blackstone, for $260. Each unit is calibrated and tested by Jon Blackstone, and shipped out of Jon\u0092s workshop in New York. Pedals are currently shipping 3 days after receiving an order. Shipping in the US costs $9. Click here to buy one to buy one if you're in the US. We do not charge sales tax, unless you are in NY State, in which case we'll just charge you 6\u00bd%. (We'll cover the rest.) We also ship directly to these countries: Canada Australia Austria Belgium Denmark Finland France Germany Hong Kong Iceland Ireland Italy * Japan Luxembourg Netherlands Nw Zealand Norway Singapore South Korea Sweden Switzerland Taiwan U.K.   Shipping to Canada is US$25. To any other listed country, it's US$51. Your country may charge you duty or import tax. We have no control over this. To place an international order, click on the name of your country. Return Policy: The pedal can be returned within 30 days if it's not your cup of tea. We just require that it be in good shape - no gunk or scratches. We refund the full $260 (but not the shipping). Contact us for instructions before returning a pedal. Home >\">Sound Clips Reviews >\">T-shirts! >\">History /Downloads >\">more from Jon",
+      "host": "blackstoneappliances.com",
+      "source_kind": "manufacturer"
+    },
+    {
+      "url": "https://reverb.com/item/34207178-blackstone-appliances-mosfet-overdrive",
+      "title": "Blackstone Appliances Mosfet Overdrive - Reverb",
+      "h1": "",
+      "excerpt": "",
+      "host": "reverb.com",
+      "source_kind": "reverb"
+    },
+    {
+      "url": "https://gearstrings.com/gear-reviews/blackstone-mosfet-overdrive-2s-pedal-review",
+      "title": "Blackstone Appliances MOSFET Overdrive 2S Pedal Review: Honest, In-Depth Analysis | GearStrings",
+      "h1": "Blackstone Appliances MOSFET Overdrive 2S Pedal Review: Honest, In-Depth Analysis",
+      "excerpt": "Blackstone Appliances MOSFET Overdrive 2S Pedal Review: Honest, In-Depth Analysis | GearStrings GEARSTRINGS Home Blog Categories Authors About Home / Blog / gear reviews gear reviews Blackstone Appliances MOSFET Overdrive 2S Pedal Review: Honest, In-Depth Analysis By nina-harper June 4, 2026 Blackstone Appliances MOSFET Overdrive 2S Pedal Review The Blackstone Appliances MOSFET Overdrive 2S is a compact, hand-wired, true-bypass analog overdrive pedal designed to deliver responsive, amp-like saturation with dynamic touch sensitivity \u2014 not high-gain distortion. It excels in low-to-mid gain blues, classic rock, and clean boost applications, particularly when paired with tube amps. While its $229\u2013$249 US street price sits above entry-level pedals, its discrete MOSFET circuitry, component-level transparency, and nuanced EQ control justify the cost for players prioritizing organic response over versatility. This Blackstone Appliances MOSFET Overdrive 2S pedal review examines how it performs across studio, live, and home settings \u2014 with no marketing gloss, just measurable behavior, tonal trade-offs, and clear use-case guidance. About Blackstone Appliances MOSFET Overdrive 2S Pedal Review Blackstone Appliances is a small U.S.-based boutique pedal builder founded by engineer and guitarist Mark A. Blackstone in 2012. Operating out of Portland, Oregon, the company focuses exclusively on discrete analog circuits \u2014 no op-amps or digital signal processing \u2014 emphasizing component selection, hand-soldered point-to-point wiring (on select models), and rigorous bench testing. The MOSFET Overdrive 2S (released in early 2021) evolved directly from their original MOSFET Overdrive (2015), incorporating user feedback around headroom, midrange articulation, and input impedance stability. Unlike many modern overdrives that emulate specific vintage pedals, the 2S aims to function as a transparent, expressive extension of the player\u2019s guitar-and-amp relationship \u2014 replicating how a cranked tube preamp responds to pick attack, volume knob adjustments, and string dynamics. Its design philosophy centers on dynamic interaction , not preset tones. First Impressions Unboxing reveals a matte black, powder-coated aluminum enclosure measuring 4.75\u2033 \u00d7 2.5\u2033 \u00d7 1.75\u2033 \u2014 slightly larger than a standard Boss unit but smaller than most full-size boutique pedals. The chassis feels dense and rigid (3.2 oz / 91 g), with recessed, knurled metal knobs (Volume, Tone, Drive, and a unique four-position Mode switch). The footswitch is a heavy-duty, gold-plated, soft-click momentary switch with tactile feedback and zero wobble. Input/output jacks are top-mounted, angled 90\u00b0, and soldered directly to the PCB \u2014 no chassis-mounted jack adapters. The LED is warm white, unobtrusive, and located beside the footswitch. There are no battery access points; power is DC-only (9\u201318V, center-negative), with no internal battery compartment. Setup requires only a 9V supply (though higher voltage yields measurable headroom gains \u2014 see Specs section). No manual is included; a downloadable PDF is available on Blackstone\u2019s site, featuring schematics, biasing notes, and recommended pairings. Detailed Specifications Blackstone publishes complete electrical specs on its website 1 . Below is a breakdown with practical context: Power Requirement: 9\u201318V DC, center-negative (regulated); current draw: 7.5 mA at 9V, 9.8 mA at 18V. Higher voltage increases headroom and transient clarity without altering core voicing \u2014 verified via oscilloscope measurement of clipping threshold shift (+2.1 dBu at 18V vs. 9V). Circuit Topology: Discrete, Class-A biased, dual-MOSFET (2N7000 and BS170) front-end stage feeding passive tone stack and buffered output. No op-amps, diodes, or clipping LEDs in the signal path. Input Impedance: 1.2 M\u03a9 (measured at 1 kHz). Matches passive single-coil pickups well; minimal high-end roll-off even with long cable runs (>25 ft). Output Impedance: 500 \u03a9 (buffered). Stable into multi-pedal ch",
+      "host": "gearstrings.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://www.rockboard.de/en/pedalPedia/Blackstone-Appliances/Mosfet-Overdrive-2Sv33/68975755/",
+      "title": "Mosfet Overdrive 2Sv3.3 by Blackstone Appliances | RockBoard | PedalPedia",
+      "h1": "Mosfet Overdrive 2Sv3.3",
+      "excerpt": "Mosfet Overdrive 2Sv3.3 by Blackstone Appliances | RockBoard | PedalPedia Skip to main content LOG IN EXPLORE Blackstone Appliances Mosfet Overdrive 2Sv3.3 LOG IN TO SUGGEST IMPROVEMENTS DISTORTION Media Videos Demo by Pedal Of The Day (EN) Official Product Video (EN) Manuals Manual (EN) Reviews Review by Premier Guitar (EN) Links Product Page Technical data Width 000.00 mm Depth 000.00 mm Height 000.00 mm Circuit type analog Voltage 9V DC, center negative Current 17mA Products Pedalboards All-In-One Patchbays QuickMount PedalSafe Power Supplies and Power Cables and Connections Accessories Gear Build your own board Board Configurator PedalPedia Pedalboard Gallery QuickMount Finder Services Find a dealer Find a distributor Frequently Asked Questions Contact Current catalog News Community RockBoard Artists Achievements Your Activity Overview \u00a92026 Warwick GmbH & Co. Music Equipment KG GTC | Imprint | Privacy policy | Accessibility | Cookie Settings",
+      "host": "www.rockboard.de",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://www.premierguitar.com/gear/blackstone-appliances-mosfet-overdrive-2s-pedal-review",
+      "title": "Blackstone Appliances Mosfet Overdrive 2S Pedal Review - Premier Guitar",
+      "h1": "Blackstone Appliances Mosfet Overdrive 2S Pedal Review",
+      "excerpt": "Raven.config('https://6b64f5cc8af542cbb920e0238864390a@sentry.io/147999').install(); Blackstone Appliances Mosfet Overdrive 2S Pedal Review - Premier Guitar     Skip to content Search & Section Navigation Sign up Sign up Contact Shop Open Search Login Subscribe Site Navigation Reviews Guitars Amps Pedals Acoustic Bass News Videos Rig Rundowns Gear Demos Gear Roundups DIY Features Artists Gear Builder Profile <a class=\"color-inherit\" href=\"/colu",
+      "host": "www.premierguitar.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://pedalfilter.com/blackstone/mosfet-overdrive",
+      "title": "Mosfet Overdrive \u2014 Blackstone Overdrive Pedal | PedalFilter | PedalFilter",
+      "h1": "Mosfet Overdrive",
+      "excerpt": "Mosfet Overdrive \u2014 Blackstone Overdrive Pedal | PedalFilter | PedalFilter Skip to main content The guitar pedal database Search pedals The fastest, most visual guitar pedal database. All signal, no noise. About \u2022 Collections \u2022 Blog \u2022 Compare \u2022 Privacy Policy \u2022 Terms of Service \u2022 Submit a pedal \u2022 \u00a9 2026 PedalFilter Clear Compare ( 0 ) Back Home Blackstone Mosfet Overdrive Back to results Blackstone Mosfet Overdrive Overdrive MOSFET-based overdrive with amp-like response and dynamic touch sensitivity. Blackstone Appliances builds the MOSFET Overdrive as their flagship design. Using MOSFET transistors rather than typical diode clipping, it achieves amp-like response with exceptional touch sensitivity. The circuit compresses and saturates like a pushed tube amp, cleaning up beautifully with guitar volume changes. Two modes provide different gain structures. High and low switches shape the frequency response. A longtime favorite among players seeking transparent, amp-like overdrive that responds to playing dynamics. Demo Videos Specifications Power 9V DC Current Draw ~50mA est. Polarity center-negative Shop This Pedal Reverb Amazon Sweetwater Coming soon Using these links supports PedalFilter at no extra cost to you. \u2764\ufe0f The fastest, most visual guitar pedal database. All signal, no noise. About \u2022 Collections \u2022 Blog \u2022 Compare \u2022 Privacy Policy \u2022 Terms of Service \u2022 Submit a pedal \u2022 \u00a9 2026 PedalFilter The guitar pedal database Search pedals You May Also Like 3rd Power Roosevelt Drive A3 Stompbox Angel Bad Cat Burmese Drive Previous LT Metal Next Bad Bluff",
+      "host": "pedalfilter.com",
+      "source_kind": "other"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}
