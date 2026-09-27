@@ -2,41 +2,59 @@
 
 ## PRP identity
 - **Archive parent:** Chandler Tube Driver
-- **Builder:** Chandler
+- **Builder:** Chandler / B.K. Butler
 - **Catalog type:** Overdrive
-- **Identity:** Chandler/B.K. Butler Tube Driver, four-knob tube overdrive using a 12AX7.
+- **Identity:** Four-knob Chandler-branded B.K. Butler Tube Driver using an internal 12AX7 tube. [1][2]
 
-## What this pedal is
-The Chandler-branded Tube Driver is the four-knob version of B.K. Butler's Tube Driver design. Fractal Audio documentation identifies the Chandler version as a handmade Tube Driver using a **12AX7**. [1]
+## Controls
+- **OUT LEVEL**
+- **LO EQ**
+- **HI EQ**
+- **TUBE DRIVE** [2][3]
 
-Kit Rae's detailed Tube Driver history notes that Butler's design evolved through Chandler-branded production and that the Chandler-associated four-knob version used a four-control EQ/gain layout. [2]
-
-## Colorways
-- The checked historical examples document a **tan** enclosure with black graphics for the four-knob family, with Chandler examples also documented in collector photography. [2]
-- A complete factory colorway sequence was not established.
-
-## Versions and factory options
-The four-knob control set is:
-- **Out Level**
-- **Lo EQ**
-- **Hi EQ**
-- **Tube Drive** [2][3]
-
-Some later/other Tube Driver variants added a Bias control, but the archive does not automatically merge those variants into the four-knob Chandler identity. [2]
-
-## Version changes
-The Tube Driver family has multiple historical versions, including three-knob and four-knob designs. The four-knob Chandler version is treated separately from the three-knob Tube Works version because the control topology and documented voicing differ. [2][3]
+## Active device / circuit history
+- Primary gain element: **12AX7 vacuum tube**.
+- The Chandler four-knob production version belongs to B.K. Butler's historical Tube Driver family.
+- Later Tube Driver variants with additional Bias control are not merged into this four-knob archive identity. [1][2]
 
 ## Transistor
-The primary active gain element is a **12AX7 vacuum tube**, not a discrete transistor. [1][3]
+- No discrete transistor gain device is established.
+- Tube is the documented active gain element.
 
-## Diode
-No exact-model diode specification was established in the checked sources.
+## Diode / clipping
+- Exact diode/clipping-device implementation is not documented in the reviewed sources.
+
+## Construction / hardware
+- Chandler-branded historical production.
+- Tan four-knob family presentation is documented by historical Tube Driver references.
+- Exact enclosure manufacturing details are not established.
+
+## Power
+- Historical Tube Driver power specifications vary across production generations.
+- The archive does not import later Tube Works/Butler figures into the Chandler identity without model-specific evidence.
+
+## Version history
+- Tube Driver family includes earlier three-knob and later four-knob generations.
+- This archive parent is specifically the **Chandler four-knob** identity. [2][3]
 
 ## Sound
-The Tube Driver is a tube-based boost/overdrive capable of moving from smoother light drive into substantially heavier overdrive/distortion. The four-knob version adds independent high- and low-frequency controls around the tube drive stage. [2][3]
+The Tube Driver is a tube gain device capable of moving from warm/light overdrive through much heavier saturation and distortion. The four-knob version adds independent Low and High EQ around the Tube Drive control. [2][3]
+
+## Research confidence
+- **Identity:** High
+- **Chandler/B.K. Butler lineage:** High
+- **12AX7:** High
+- **Four-control map:** High
+- **Exact diode:** Unknown
+- **Exact power revision:** Medium/unknown
+
+## Deep research verification
+Kit Rae's historical version archive was checked against Fractal Audio's model documentation, which preserves the Chandler four-knob Tube Driver identity and 12AX7 architecture. [1][2]
 
 ## Sources checked
 1. Fractal Audio Drive Models documentation: https://archive.axefx.fr/AxeFX%20II/Docs%20%26%20Manuals/FAS_Amps_Models_Gallery%20Qu%209.04.pdf
 2. Kit Rae — B.K. Butler Tube Driver versions: https://www.kitrae.net/music/Music_mp3_Tube_Driver_Versions.html
-3. Fractal Audio Wiki — Drive block / Tube Driver: https://wiki.fractalaudio.com/wiki/index.php?title=Drive_block
+3. Fractal Audio Wiki — Tube Driver: https://wiki.fractalaudio.com/wiki/index.php?title=Drive_block
+
+## Photo
+- Exact-model photo status remains handled separately.
