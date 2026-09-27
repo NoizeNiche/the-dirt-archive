@@ -1,23 +1,42 @@
 # MXR — Custom Badass Modified O.D
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Custom Badass Modified O.D
 - **Builder:** MXR
-- **Pedal:** Custom Badass Modified O.D
 - **Catalog type:** Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** MXR's Custom Badass Modified O.D.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Custom Badass Modified O.D** by **MXR** as a **Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+The MXR Custom Badass Modified Overdrive is a versatile overdrive pedal with modern modifications for improved performance.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+For added flexibility, we've added a 100HZ cut and boost control that allows for a more focused EQ when cut, or a beefier tone when boosted.
+Put it in front of the '78 Custom Badass Distortion for a slew of amp-like gain structures that won't mask your tone.
+Current Stock: Quantity: Decrease Quantity: Increase Quantity: Add to Bag atc-product: 1762 atc-product: 1773 atc-product: 517 Related Gear Add to Bag MXR® SUPER BADASS® DYNAMIC O.D.
+
+## Sources checked
+1. MXR Custom Badass Modified O.D. Pedal Review - Premier Guitar: https://www.premierguitar.com/gear/mxr-custom-badass-modified-o-d-pedal-review
+2. MXR® CUSTOM BADASS™ MODIFIED O.D. - Dunlop: https://www.jimdunlop.com/mxr-custom-badass-modified-o-d/
+3. MXR CUSTOM BADASS MODIFIED O.D. | AllThePedals: https://allthepedals.com/pedals/mxr-custom-badass-modified-od
+4. MXR Custom Badass Modified O.D. &ndash; Angel City Guitars: https://angelcityguitars.com/products/mxr-custom-badass-modified-o-d
+5. Custom Badass Modified O.D. — MXR Overdrive Pedal | PedalFilter | PedalFilter: https://pedalfilter.com/mxr/custom-badass-modified-o-d
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

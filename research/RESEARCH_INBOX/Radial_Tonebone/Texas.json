@@ -1,0 +1,41 @@
+{
+  "builder": "Radial Tonebone",
+  "pedal": "Texas",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 4,
+  "sources": [
+    {
+      "url": "https://reverb.com/p/radial-tonebone-bones-texas",
+      "title": "Radial Tonebone Bones Texas - Reverb",
+      "h1": "",
+      "excerpt": "",
+      "host": "reverb.com",
+      "source_kind": "reverb"
+    },
+    {
+      "url": "https://equipboard.com/items/radial-tonebone-bones-texas",
+      "title": "Radial Tonebone Bones Texas \u2014 Overdrive Pedal | Equipboard",
+      "h1": "",
+      "excerpt": "",
+      "host": "equipboard.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://www.effectsdatabase.com/model/radial/tonebone/bones/texas",
+      "title": "Radial Tonebone Bones Texas Dual Overdrive | Effects Database",
+      "h1": "Radial Tonebone Bones Texas Dual Overdrive",
+      "excerpt": "Radial Tonebone Bones Texas Dual Overdrive | Effects Database Skip to navigation Brands \u25bc 0-9... a... b... c... d... e... f... g... h... i... j... k... l... m... n... o... p... q... r... s... t... u... v... w... x... y... z... Effect types \u25bc boost distortion fuzz overdrive acoustic simulation amp simulation speaker/cabinet simulation chorus flanger phaser tremolo vibe vibrato other modulation pitch shifter octaver delay reverb looper/sampler hold/freeze eq filter wah fuzz-wah bitcrusher ring modulator samplerate reducer wavefolder synth effect granular effect multi effect vocal effect talkbox vocoder buffer compressor other... Countries \u25bc (country unknown) Argentina Australia Austria Belarus Belgium Brazil Bulgaria Canada Chile China Colombia Costa Rica Croatia Czech Republic Czechoslovakia DDR Denmark Dominican Republic Ecuador Egypt Estonia Finland France Germany Greece Hungary India Indonesia Iran Ireland Israel Italy Japan Latvia Lithuania Luxembourg Macedonia Malaysia Malta Mexico Moldova Monaco Morocco Netherlands New-Zealand Norway Panama Peru Philippines Poland Portugal Romania Russia Serbia Singapore Slovakia Slovenia South-Africa South-Korea Spain Sweden Switzerland Taiwan Thailand Turkey U.K. U.S.A. U.S.S.R. Ukraine Uruguay Venezuela Browse by \u25bc Enclosure type Modulation type Special \u25ba Classics Eye candy Funny Vaporware Weird Random brand Random effect Events \u25ba NAMM Musikmesse Music China Guitar Summit More... \u25bc Forum (opens in new tab) myFXDB (opens in new tab) Newsletter About How to get listed? Interviews Reviews Effects explained Books D.I.Y. Schematics Links Contact Install Effects Database App Search the database browse by brand R... Radial Engineering Radial Tonebone Bones browse by type distortion/fuzz/overdrive overdrive browse by enclosure pedal Radial Tonebone Bones Texas Dual Overdrive Published on November 22, 2008 Radial Tonebone Bones overdrive pedal Information Radial Variable overdrive and tone Vintage to extreme overdrive range Dual mode for clean, rhythm & lead Compact to fit on any pedalboard Standard 9 volt power supply operation The Texas 'Bone' is a high performance overdrive pedal capable of generating everything from vintage 'TS9' style tones all the way to the latest ultra high-gain 'in-your-face' tones. The 'magic' inside is a minimalist high-gain drive circuit that lets you add bluesy textures or when driven hard, will produce harmonically rich tones that are fatter than a Texas Longhorn and more fun than a rattle snake neck tie! The Texas employs a unique high performance buffering circuit with preset load correction that retains the performance of 'true bypass' connectivity while lowering the impedance and susceptibility to noise. This enables the Texas to efficiently drive the guitar signal when using longer cables and enables it to employ our latest EIS - Electronic Impulse Switching for unmatched durability without the challenges posed by mechanical switches For maximum on-stage efficiency, the Texas is configured for 'clean, rhythm & lead' playability whereby in bypass mode, you get the natural clean sound of your guitar. When the Texas is activated, you can choose between two channels using the toggle footswitch. Each channel is equipped with its own tone and level control that lets you adjust each sound to your specific needs. For instance, you can set the rhythm tone with extra high end to cut through at lower volumes while the lead channel can be set with more bottom end to fatten up the tone for solos. This is augmented with two 3-position 'bite' switches that let you assign each channel for vintage style overdrive, extra beef or a more aggressive modern tonal structure. To increase sustain and cut for solos, channel-2 is augmented in the mid-range. The Texas is a high performance overdrive pedal that delivers a wide range of tones the size of a Dallas sky in a compact and easy to use format. Video Date \u25bc\u25b2 Maker \u25bc\u25b2 Video \u25bc\u25b2 Time \u25bc\u25b2 2016-04-25 BuzzbeeTV \ub798\ub514\uc5bc Radial \uc774\ud399\ud130 Tonebone T",
+      "host": "www.effectsdatabase.com",
+      "source_kind": "effects_database"
+    },
+    {
+      "url": "https://www.premierguitar.com/gear/quick-hit-radial-tonebone-texas-pro-review",
+      "title": "Quick Hit: Radial Tonebone Texas Pro Review - Premier Guitar",
+      "h1": "Quick Hit: Radial Tonebone Texas Pro Review",
+      "excerpt": "Raven.config('https://6b64f5cc8af542cbb920e0238864390a@sentry.io/147999').install(); Quick Hit: Radial Tonebone Texas Pro Review - Premier Guitar     Skip to content Search & Section Navigation Sign up Sign up Contact Shop Open Search Login Subscribe Site Navigation Reviews Guitars Amps Pedals Acoustic Bass News Videos Rig Rundowns Gear Demos Gear Roundups DIY Features Artists Gear Builder Profile Columns DIY Advice Gear Talk Lessons Beginner Intermediate Advanced CAGED Blues Rock Country Podcasts Shred With Shifty Wong Notes 100 Guitarists",
+      "host": "www.premierguitar.com",
+      "source_kind": "other"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}

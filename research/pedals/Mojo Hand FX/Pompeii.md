@@ -1,23 +1,43 @@
 # Mojo Hand FX — Pompeii
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Pompeii
 - **Builder:** Mojo Hand FX
-- **Pedal:** Pompeii
 - **Catalog type:** Fuzz
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Mojo Hand FX's Pompeii.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Pompeii** by **Mojo Hand FX** as a **Fuzz** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+The Pompeii is the second in Mojo Hand’s limited release “Future Vintage Series”.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+Mojo Hand FX Pompeii Fuzz - Cellos with Full Tone for Study and Performance FLASH SALE: EVERYTHING HALF PRICE!
+Home Cello Cello Strings Clarinet Accessories Clarinet Reeds Bass Guitar Bass Guitar Strings Cart Shop Home / Pedals / Mojo Hand FX Pompeii Fuzz Sale!
+It includes a “Body” control, which is a stripped down version of the tone stack from our very popular Iron Bell, as well as the standard Level and Gain controls.
+
+## Sources checked
+1. Mojo Hand FX Pompeii - Reverb: https://reverb.com/p/mojo-hand-fx-pompeii
+2. Mojo Hand FX Pompeii - Fuzz - Fuzz | Effects Database: https://www.effectsdatabase.com/model/mojohand/futurevintage/pompeii
+3. Mojo Hand FX Pompeii — Fuzz Pedal | Equipboard: https://equipboard.com/items/mojo-hand-fx-pompeii
+4. Mojo Hand FX Pompeii Fuzz - Cellos with Full Tone for Study and Performance: https://www.cellvrax.com/product/mojo-hand-fx-pompeii-fuzz/
+5. Mojo Hand FX Pompeii Fuzz Pedal - Drums, Percussion & Rhythm Gear for Every Player: https://www.harborbeatdrums.com/product/mojo-hand-fx-pompeii-fuzz-pedal/
+6. Mojo Hand Fx Pompeii - Gearspace: https://gearspace.com/gear/mojo-hand-fx/pompeii
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
