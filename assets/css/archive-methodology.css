@@ -1,0 +1,187 @@
+:root{
+  --bg:#ebe7dd;
+  --paper:#f8f5ee;
+  --ink:#11110f;
+  --muted:#77736a;
+  --line:#d5d0c6;
+  --acid:#dfff38;
+  --deep:#171716;
+  --deep2:#242421;
+}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{
+  margin:0;
+  background:
+    radial-gradient(circle at 15% 8%,rgba(223,255,56,.09),transparent 25%),
+    linear-gradient(180deg,#eeeae1 0%,var(--bg) 100%);
+  color:var(--ink);
+  font-family:Inter,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;
+}
+a{color:inherit}
+.wrap{width:min(1080px,calc(100% - 32px));margin:auto}
+.skipLink{
+  position:absolute;
+  left:-9999px;
+  top:8px;
+  z-index:100;
+  padding:9px 12px;
+  border-radius:9px;
+  background:var(--acid);
+  color:#111;
+  font-weight:900;
+}
+.skipLink:focus{left:8px}
+.methodHeader{
+  padding:28px 0 30px;
+  border-bottom:1px solid var(--line);
+}
+.back{
+  display:inline-flex;
+  text-decoration:none;
+  font-size:.72rem;
+  font-weight:950;
+  text-transform:uppercase;
+  letter-spacing:.07em;
+  margin-bottom:28px;
+}
+.back:hover{text-decoration:underline}
+.eyebrow,.label{
+  color:var(--muted);
+  font-size:.66rem;
+  font-weight:950;
+  letter-spacing:.11em;
+  text-transform:uppercase;
+}
+.methodHeader h1{
+  margin:8px 0 0;
+  max-width:760px;
+  font-size:clamp(3rem,8vw,6rem);
+  line-height:.88;
+  letter-spacing:-.07em;
+}
+.lede{
+  max-width:760px;
+  margin:16px 0 0;
+  color:var(--muted);
+  font-size:1rem;
+  line-height:1.6;
+}
+main{padding:22px 0 60px}
+.introGrid{
+  display:grid;
+  grid-template-columns:1fr 1fr;
+  gap:14px;
+  margin-bottom:14px;
+}
+.panel{
+  padding:22px;
+  border:1px solid var(--line);
+  border-radius:18px;
+  background:rgba(255,253,248,.88);
+  box-shadow:0 14px 34px rgba(20,18,14,.06);
+}
+.panel.dark{
+  border-color:#2f302d;
+  background:var(--deep);
+  color:#f5f3ec;
+}
+.panel.dark .label{color:#a8a69f}
+.panel h2{
+  margin:8px 0 10px;
+  font-size:clamp(1.4rem,3vw,2.3rem);
+  line-height:1;
+  letter-spacing:-.045em;
+}
+.panel p{
+  margin:9px 0;
+  color:var(--muted);
+  line-height:1.62;
+}
+.panel.dark p{color:#c1beb6}
+.rows,.ruleGrid,.statusGrid{
+  display:grid;
+  gap:10px;
+  margin-top:16px;
+}
+.rows>div,.ruleGrid>div,.statusGrid>div{
+  display:grid;
+  grid-template-columns:minmax(180px,240px) 1fr;
+  gap:18px;
+  align-items:start;
+  padding:13px 0;
+  border-top:1px solid var(--line);
+}
+.rows>div:first-child,.ruleGrid>div:first-child{border-top:0;padding-top:0}
+.rows strong,.ruleGrid strong{font-size:.78rem}
+.rows span,.ruleGrid span,.statusGrid p{
+  color:var(--muted);
+  font-size:.82rem;
+  line-height:1.55;
+}
+.statusGrid{
+  grid-template-columns:repeat(3,minmax(0,1fr));
+  gap:9px;
+}
+.statusGrid>div{
+  display:block;
+  min-width:0;
+  padding:14px;
+  border:1px solid var(--line);
+  border-radius:13px;
+  background:#fff;
+}
+.statusGrid>div:first-child{padding-top:14px;border-top:1px solid var(--line)}
+.status{
+  display:inline-flex;
+  align-items:center;
+  min-height:26px;
+  padding:5px 8px;
+  border:1px solid var(--line);
+  border-radius:999px;
+  background:#f1eee7;
+  font-size:.58rem;
+  font-weight:950;
+  letter-spacing:.06em;
+  text-transform:uppercase;
+}
+.status.deep{background:#e7f6a3;border-color:#c9df62;color:#273000}
+.status.surface{background:#eee9df;color:#5d594f}
+.status.conflict{background:#f3ede5;color:#8a5d3a}
+.statusGrid p{margin:11px 0 0}
+.methodFooter{
+  display:flex;
+  gap:8px;
+  flex-wrap:wrap;
+  padding-top:14px;
+}
+.action{
+  display:inline-flex;
+  align-items:center;
+  justify-content:center;
+  border:1px solid var(--ink);
+  border-radius:999px;
+  background:#fff;
+  padding:10px 14px;
+  text-decoration:none;
+  font-size:.68rem;
+  font-weight:950;
+  text-transform:uppercase;
+  letter-spacing:.05em;
+}
+.action.primary{background:var(--acid)}
+.action:hover{transform:translateY(-1px)}
+.action:focus-visible{
+  outline:3px solid var(--acid);
+  outline-offset:3px;
+}
+@media(max-width:760px){
+  .introGrid{grid-template-columns:1fr}
+  .statusGrid{grid-template-columns:1fr}
+  .rows>div,.ruleGrid>div{grid-template-columns:1fr;gap:5px}
+}
+@media(max-width:520px){
+  .wrap{width:min(100% - 20px,1080px)}
+  .methodHeader{padding-top:20px}
+  .panel{padding:17px}
+}
