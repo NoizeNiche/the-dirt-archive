@@ -1,23 +1,42 @@
 # Mythos Pedals — Golden Fleece Fuzz
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Golden Fleece Fuzz
 - **Builder:** Mythos Pedals
-- **Pedal:** Golden Fleece Fuzz
 - **Catalog type:** Distortion / Fuzz
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Mythos Pedals's Golden Fleece Fuzz.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Golden Fleece Fuzz** by **Mythos Pedals** as a **Distortion / Fuzz** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+What Mythos Pedals say about the Golden Fleece Fuzz The Golden Fleece Fuzz Inspired by a little known fuzz box called the "Fuzzy Nuts" (no we're not making that up) the Golden Fleece is a do it all dirt box that perfectly blends Fuzz, Distortion, and Overdrive into one little golden box of fun.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Documented terms in the verified sources: germanium diode.
+- The archive records only the component information explicitly present in these sources.
+
+## Sound
+Never in the way Inspired by a little known fuzz box called the "Fuzzy Nuts" (no we're not making that up) the Golden Fleece is a do it all dirt box that perfectly blends Fuzz, Distortion, and Overdrive into one little golden box of fun.
+The single "More" knob only controls the output of the circuit so it's up to your fingers and guitars controls to shape the gain level and voice.
+With everything dimed it's a powerful blooming fuzz sound that sounds great hitting a pushed amplifier.
+
+## Sources checked
+1. Golden Fleece Fuzz &ndash; Mythos Pedals: https://mythospedals.com/products/golden-fleece-fuzz
+2. Mythos Pedals Golden Fleece Fuzz - Reverb: https://reverb.com/item/95144045-mythos-pedals-golden-fleece-fuzz
+3. Mythos Pedals Golden Fleece Fuzz Overdrive Tested Working: https://www.ebay.com/itm/227533670034
+4. Mythos Pedals Golden Fleece Fuzz: https://parkwaymusic.com/products/mythos-pedals-golden-fleece
+5. Mythos Pedals Golden Fleece Fuzz | AllThePedals: https://allthepedals.com/pedals/mythos-pedals-golden-fleece-fuzz/
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
