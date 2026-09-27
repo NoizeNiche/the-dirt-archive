@@ -4,55 +4,55 @@
 - **Archive parent:** Gnarly
 - **Builder:** Basic Audio
 - **Catalog type:** Fuzz
-- **Identity:** Basic Audio's silicon Maestro FZ-1-based fuzz.
+- **Identity:** Silicon fuzz based on the Maestro FZ-1, with a texture control that changes the relationship between its transistor stages. [1][2]
 
 ## What this pedal is
-Gnarly is based on the Maestro FZ-1 and uses silicon transistors. Its key idea is a texture control that changes how much the circuit is leaning on the first versus second transistor stage, creating a wide span from lower-grain fuzz to a bigger, more cutting voice. [1][2]
+Basic Audio's Gnarly is an FZ-1-inspired silicon fuzz designed around stage interaction rather than a single fixed fuzz setting. The Texture control changes how the circuit balances its two main gain stages, producing a broad range from grainier fuzz through larger, more cutting textures. [1]
 
-## Colorways
-- A **bright orange enclosure with blue/silver flecking** is documented in Basic Audio's official photograph.
-- Basic Audio states that colors are subject to change. [1]
+## Controls
+- **LEVEL**
+- **TEXTURE**
+- **FUZZ**
+The builder describes Texture as blending the first and second transistor stages. [1]
 
-## Versions and factory options
-### Gnarly production
-- Maestro FZ-1 basis
-- silicon transistor technology
-- Level, Texture and Fuzz controls as documented in the builder's descriptions
-- texture control blends the first and second transistor stages
-- center-negative 9V operation
-- battery snap [1][2]
-
-No numbered factory revision was verified.
-
-## Version changes
-No reliable numbered factory revision sequence was found. Older descriptions and later product listings describe the same core stage-blending concept rather than a clearly numbered new generation. [1][2]
+## Circuit lineage
+- **Primary reference:** Maestro **FZ-1**.
+- The archive records the lineage without assuming exact historical component equivalence.
 
 ## Transistor
-- **Technology:** Silicon. [1][2]
-- **Exact transistor/device:** Unknown.
+- **Technology:** Silicon.
+- Exact factory transistor part number is not publicly documented. [1][2]
 
-## Diode
-- **Type:** Not publicly documented.
-- **Exact diode/device:** Unknown.
+## Diode / clipping
+- Exact clipping device is not publicly documented.
+
+## Power
+- **9V center-negative** operation with battery support. [1]
+
+## Version history
+- No numbered electronic revision established.
+- Older and later product presentations preserve the same stage-blending concept.
 
 ## Sound
-Gnarly moves from grainy, lower-gain fuzz toward a larger and more cutting sound as the stage blend is changed. The upper end can take on an octave-up-like bite, while the middle of the control range supplies a broad set of textures between those extremes. [1][2]
+Gnarly moves from grainy, lower-gain fuzz toward a larger, sharper voice as the Texture control shifts the stage relationship. Basic Audio and secondary references describe an upper setting with octave-up-like bite and a broad middle range of intermediate textures. [1][2]
 
 ## Research confidence
 - **Identity:** High
+- **Maestro FZ-1 lineage:** High
 - **Silicon technology:** High
-- **Feature set:** High
-- **Factory revision history:** Moderate
+- **Texture/stage blending:** High
 - **Exact transistor:** Unknown
-- **Diode:** Unknown
-- **Sound:** High
+- **Exact diode:** Unknown
 
-## Photo
-- **Exact pedal photograph:** Basic Audio official product photograph.
-- **Direct image:** https://images.squarespace-cdn.com/content/v1/5da9e97016ddf940acffa2d3/1574298948871-J9X3GYFFYXAPHSQIEJMK/DSCF8930.jpg
-- **Source page:** https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-cnzrr-gbrkf-xtz42
+## Deep research verification
+Basic Audio's Gnarly product page was cross-checked with Effects Database and RockBoard's pedal reference. The sources support the FZ-1 lineage, silicon implementation, Texture stage-blending concept and three-control interface. [1][2][3]
 
 ## Sources checked
 1. Basic Audio — Gnarly: https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-cnzrr-gbrkf-xtz42
 2. Effects Database — Basic Audio Gnarly Fuzz: https://www.effectsdatabase.com/model/basicaudio/gnarlyfuzz
 3. RockBoard / PedalPedia — Gnarly Fuzz: https://www.rockboard.de/en/pedalPedia/Basic-Audio/Gnarly-Fuzz/68975025/
+
+## Photo
+- **Exact pedal photograph:** Basic Audio official product photograph.
+- **Direct image:** https://images.squarespace-cdn.com/content/v1/5da9e97016ddf940acffa2d3/1574298948871-J9X3GYFFYXAPHSQIEJMK/DSCF8930.jpg
+- **Source page:** Basic Audio Gnarly product page.
