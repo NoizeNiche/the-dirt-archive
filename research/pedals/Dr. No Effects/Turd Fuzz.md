@@ -1,73 +1,49 @@
 # Dr. No Effects — Turd Fuzz
 
-## PRP identity
-- **Archive parent:** Turd Fuzz
+## Surface catalog record
 - **Builder:** Dr. No Effects
+- **Pedal:** Turd Fuzz
 - **Catalog type:** Fuzz
-- **Identity:** Dr. No Effects's Turd Fuzz.
+- **Research level:** Deep
+- **Deep research status:** Verified identity and handmade construction
+- **Identity basis:** Dr. No Effects' own product page identifies the original Turd Fuzz as a handmade fuzz.
 
 ## What this pedal is
-&#8220;Smells great on every electric Guitar and Bass&#8221; The TURD Fuzz is fully handmade in Dr.
+The **Dr. No Effects Turd Fuzz** is a handmade fuzz pedal. The maker's product description presents it as an original Turd Fuzz and explicitly describes the pedal as handmade in Dr. No's lab. [1]
 
-## Colorways
-- EUR USD My creations THE CODEX OF SORCIERE, THE ALTAR &euro; 12,000.00 SIAMESE SKULLFUZZ, A PORTRAIT OF SIAMESE DREAM &euro; 1,993.00 From AI To ANALOG SKULLFUZZ &euro; 0.00 David Catching Rancho De La Luna SkullFuzz &euro; 0.00 FUZZ WAH EXTRAVAGANZA (LOOSH 1) &euro; 0.00 SWELL FUZZ WAH EXTRAVAGANZA (LOOSH 2) &euro; 0.00 Yellow Black Flocked SkullFuzz No II &euro; 0.00 Archive Moon Canyon &euro; 1,450.00 Archive Moon Canyon Blood Moon Edition &euro; 1,450.00 KUKULCAN NO 1/100 &euro; 575.00 KUKULCAN &euro; 372.00 BLOOD SKULL SKULLFUZZ &euro; 565.00 Yellow Black Dr.
-- No Art SkullFuzz &euro; 0.00 Yellow Black Flock SkullFuzz (Not for sale) &euro; 0.00 Art SkullFuzz Wooden Box &euro; 150.00 All Black Flocked Skullfuzz &euro; 525.00 Last Moon Canyon N0#350/350 &euro; 753.00 The
-- No Art SkullFuzz &euro; 0.00 Yellow Black Flock SkullFuzz (Not for sale) &euro; 0.00 Art SkullFuzz Wooden Box &euro; 150.00 All Black Flocked Skullfuzz &euro; 525.00 Last Moon Canyon N0#350/350 &euro; 753.00 The Art SkullFuzz Flock Edition &euro; 525.00 ROCKCITY FUZZ LIMITED EDITION &euro; 365.00 Original Handmade Dr.
+The maker's slogan states that it is intended to work on **electric guitar and bass**. This is a product-positioning statement from the builder rather than a laboratory measurement of every instrument/pickup combination. [1]
 
-## Versions and factory options
-- The verified evidence references: MKI.
-- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+## Versions and component evidence
+The existing evidence packet references **MKI** and reports transistor terms including **BC109C** and **BC108**. Because the sources do not establish which devices belong to every production run, the archive records those as observed component terms rather than a universal BOM.
 
-## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+LED is also documented, but the exact production indicator/clipping role is not established from the reviewed material.
 
-## Transistor
-- Documented terms in the verified sources: BC109C, BC108.
-- The archive records only the component information explicitly present in these sources.
+## Related model
+Dr. No Effects also produced a **Mini Turd Fuzz**. The archive keeps the Mini Turd as a separate model identity rather than merging it into the original Turd Fuzz. [1][2]
 
-## Diode
-- Documented terms in the verified sources: led.
-- The archive records only the component information explicitly present in these sources.
+## Technical evidence boundary
+No complete factory schematic, component BOM, or numbered revision chronology was established in the reviewed sources. The archive therefore avoids inferring circuit topology from the product name or from the Mini Turd.
 
-## Sound
-No effects webshop Takes you back in time with their new vintage sound guitar effects Home Who The Fuck Is Dr.
-Labshop My Account Cart Checkout News Contact TURD FUZZ TURD FUZZ &euro; 283.00 The one and only original TURD Fuzz by Dr.
-&#8220;Smells great on every electric Guitar and Bass&#8221; The TURD Fuzz is fully handmade in Dr.
+The previous record contained unrelated storefront/category text and a large block of Guitar World CSS/navigation markup. That material has been removed.
 
-## Sources checked
-1. TURD FUZZ - Dr. No effects webshop Dr. No effects webshop: https://drno-effects.com/product/turd-fuzz/
-2. MINI TURD FUZZ - Dr. No effects webshop Dr. No effects webshop: https://www.drno-effects.com/product/mini-turd-fuzz/
-3. Dr. No Effects Turd Fuzz - What To Know Where To Buy: https://equipboard.com/items/dr-no-effects-turd-fuzz
-4. DrNo Effects - TURD Fuzz - Reverb: https://reverb.com/item/25153798-drno-effects-turd-fuzz
-5. Dr. No Effects Releases The Mini Turd Fuzz: A Deep Technical and Historical Analysis | GearStrings: https://gearstrings.com/music-theory/dr-no-effects-releases-the-mini-turd-fuzz
-6. Dr. No Effects Releases the Turd Fuzz Pedal | Guitar World: https://www.guitarworld.com/gear/dr-no-effects-releases-turd-fuzz-pedal
-7. Dr. No Effects The Turd Fuzz Analog Fuzz Pedal for Electric Guitar: https://www.ebay.com/itm/287168223600
+## Specifications
+- **Model:** Turd Fuzz
+- **Type:** Fuzz
+- **Construction:** Handmade
+- **Version reference:** MKI
+- **Reported transistor terms:** BC109C, BC108
+- **Instrument positioning:** Electric guitar and bass
+- **Factory BOM:** not established in this pass
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive photo:** No verified local photo is currently archived for Turd Fuzz.
+- External product and review imagery remains separate from archive-local photo coverage.
 
-## Deep research verification
+## Research evidence
+**Sources checked:**
+1. https://drno-effects.com/product/turd-fuzz/ — manufacturer product page, handmade construction, original Turd Fuzz identity, and guitar/bass positioning.
+2. https://www.drno-effects.com/product/mini-turd-fuzz/ — manufacturer reference for the related Mini Turd Fuzz.
+3. https://equipboard.com/items/dr-no-effects-turd-fuzz — exact-model secondary reference.
+4. https://reverb.com/item/25153798-drno-effects-turd-fuzz — exact-model secondary listing.
 
-This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
-
-### Verified description
-“Smells great on every electric Guitar and Bass” The TURD Fuzz is fully handmade in Dr.
-
-### Verified color/finish evidence
-- No Art SkullFuzz € 0.00 Yellow Black Flock SkullFuzz (Not for sale) € 0.00 Art SkullFuzz Wooden Box € 150.00 All Black Flocked Skullfuzz € 525.00 Last Moon Canyon N0#350/350 € 753.00 The
-- No Art SkullFuzz € 0.00 Yellow Black Flock SkullFuzz (Not for sale) € 0.00 Art SkullFuzz Wooden Box € 150.00 All Black Flocked Skullfuzz € 525.00 Last Moon Canyon N0#350/350 € 753.00 The Art SkullFuzz Flock Edition € 525.00 ROCKCITY FUZZ LIMITED EDITION € 365.00 Original Handmade Dr.
-
-### Verified transistor/device terms
-- BC109C.
-
-### Verified diode terms
-- led.
-
-### Verified sound evidence
-Labshop My Account Cart Checkout News Contact TURD FUZZ TURD FUZZ € 283.00 The one and only original TURD Fuzz by Dr.
-“Smells great on every electric Guitar and Bass” The TURD Fuzz is fully handmade in Dr.
-No’s lab from soft TURD enclosure and internal sonic design as well as the custom made and designed TURD Fuzz box.
-
-### Sources checked in this pass
-1. TURD FUZZ - Dr. No effects webshop Dr. No effects webshop: https://drno-effects.com/product/turd-fuzz/
-2. MINI TURD FUZZ - Dr. No effects webshop Dr. No effects webshop: https://www.drno-effects.com/product/mini-turd-fuzz/
+**Research confidence:** High for model identity, Fuzz taxonomy, and handmade construction; moderate for version and component details.
