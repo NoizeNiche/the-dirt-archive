@@ -1,6 +1,6 @@
 # Research Evidence Queue
 
-Generated: 2026-09-27T07:51:31.136Z
+Generated: 2026-09-27T08:52:11.584Z
 
 Evidence-bearing targets: 0
 Evidence-ready targets: 0
