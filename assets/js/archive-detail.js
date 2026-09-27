@@ -109,7 +109,7 @@ function renderMarkdown(md){
       const rawUrl=sourceMatch[1].replace(/[),.;!?]+$/,'');
       const label=rawUrl.replace(/^https?:\/\//,'').split('/')[0];
       const description=sourceMatch[2] ? ' — '+inline(sourceMatch[2]) : '';
-      html+='<p class="sourceRow"><a class="sourceLink" href="'+rawUrl+'" target="_blank" rel="noopener noreferrer">'+esc(label)+'</a>'+description+'</p>';
+      html+='<p class="sourceRow"><a class="sourceLink" href="'+esc(rawUrl)+'" target="_blank" rel="noopener noreferrer">'+esc(label)+'</a>'+description+'</p>';
       continue;
     }
     if(/^## /.test(line)){
