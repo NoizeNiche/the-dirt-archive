@@ -30,3 +30,6 @@ Effects Database records Ultraviolet 2 as a separate historical model and dates 
 
 ## Photo
 - Exact photo pending.
+## Deep research verification
+
+Effects Database documents Ultraviolet 2 as a separate historical model, indexed from **2006**, expanding the original Ultraviolet architecture to **four parallel fuzz channels** and **three active filter sections**. The controls are **Fuzz, Low Freq, Mid Freq, Hi Freq, Mix, Volume**. One path can remain unfiltered and be mixed back into the filtered signal.
