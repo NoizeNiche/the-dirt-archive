@@ -4,10 +4,8 @@
 - **Builder:** Bondi Effects
 - **Catalog type:** Overdrive
 
-## Research
-The Sick As is Bondi Effects' core overdrive platform and uses the basic structure of a Klon-style circuit while adding active bass control and a switchable clipping/headroom character. The Gain control simultaneously increases drive and the ratio of driven to clean signal, preserving clarity as gain is reduced.
-
-The two-band active EQ can boost or cut bass and treble by up to 15dB. Bondi internally boosts the 9V supply to 18V for additional headroom and uses soft-touch true-bypass switching.
+## What this pedal is
+The Sick As is Bondi Effects' core overdrive platform. The design uses a Klon-style gain structure with active bass and treble control plus a selectable clipping/headroom character.
 
 ## Controls and architecture
 - Level
@@ -15,37 +13,25 @@ The two-band active EQ can boost or cut bass and treble by up to 15dB. Bondi int
 - Bass
 - Treble
 - Voicing/headroom toggle
-- Internal 18V operation
-- Active ±15dB bass/treble EQ
+- Internal 18V operation from a 9V input
+- Active bass/treble EQ
 - Soft-touch true bypass
-- Approx. 70mA current draw
 
-## Source
-- https://bondieffects.com/products/sick-as-overdrive-mkiii
-- https://www.manuals.plus/bondi-effects/sick-as-overdrive-manual
-- https://www.effectsdatabase.com/model/bondi/sickas
-
-## Archive photo
-- **Archive status:** **No Photo Archived**
+## Sound
+Bondi describes the Gain control as changing both the amount of drive and the ratio of driven to clean signal. Reduced gain therefore retains clarity instead of simply becoming a thin clean boost. The voicing toggle changes headroom and drive character.
 
 ## Deep research verification
 
-This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+### Verified version history
+The exact sources reference **MkII and MkIII** generations. The archive keeps those later revisions within the Sick As family unless the canonical catalog identifies a materially distinct product.
 
-### Verified description
-Bondi Effects's Sick As Overdrive is cataloged as an overdrive pedal.
+### Verified technical behavior
+Bondi documents the active Bass/Treble EQ as providing substantial cut/boost range and internally raising the supply voltage to increase headroom. The soft-touch switching is true bypass.
 
-### Verified version references
-- The evidence references: mk2, mk3.
+### Sources checked
+1. Bondi Effects - Sick As Overdrive MkIII: https://bondieffects.com/products/sick-as-overdrive-mkiii
+2. Bondi Effects - Sick As manual: https://www.manuals.plus/bondi-effects/sick-as-overdrive-manual
+3. Effects Database - Bondi Sick As: https://www.effectsdatabase.com/model/bondi/sickas
 
-### Verified sound evidence
-The gain control serves a dual purpose— as the gain is increased, the ratio of gain-to-clean tone increases as well.
-This ensures that when the gain is rolled off, the tone never becomes muddy and unpleasant.
-You can control the amount of headroom and the character of the drive with the toggle switch.
-
-### Sources checked in this pass
-1. Sick As Overdrive – Bondi Effects: https://bondieffects.com/products/sick-as-overdrive-mkiii
-2. catalog/override source: https://www.manuals.plus/bondi-effects/sick-as-overdrive-manual
-3. Facebook: https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fshare_channel%2F%3Ftype%3Dreshare%26link%3Dhttps%253A%252F%252Fbondieffects.com%252Fproducts%252Fsick-as-overdrive-mkiii%26app_id%3D966242223397117%26source_surface%3Dexternal_reshare%26display%26hashtag
-4. https://twitter.com/share?text=Sick%20As%20Overdrive&url=https://bondieffects.com/products/sick-as-overdrive-mkiii&media=//bondieffects.com/cdn/shop/products/mkiii_1024x1024.jpg?v=1661765367: https://twitter.com/share?text=Sick%20As%20Overdrive&url=https://bondieffects.com/products/sick-as-overdrive-mkiii&media=//bondieffects.com/cdn/shop/products/mkiii_1024x1024.jpg?v=1661765367
-5. Pinterest: https://www.pinterest.com/pin/create/button/?url=https://bondieffects.com/products/sick-as-overdrive-mkiii&description=Sick%20As%20Overdrive&media=http://bondieffects.com/cdn/shop/products/mkiii_1024x1024.jpg
+## Photo
+- **Archive status:** **No Photo Archived**
