@@ -1,47 +1,58 @@
-# Basic Audio - Overtdrive
+# Basic Audio — Overtdrive
 
 ## PRP identity
 - **Archive parent:** Overtdrive
 - **Builder:** Basic Audio
 - **Catalog type:** Overdrive
-- **Identity:** Medium-gain IC overdrive with switchable EQ behavior and two gain responses.
+- **Identity:** Medium-gain IC-based overdrive with switchable EQ behavior and two distinct gain responses. [1][2]
 
-## What this pedal is
-Overtdrive is a medium-gain IC-based overdrive. Basic Audio describes two overdrive modes on the gain control: a harder-clipped mode and a more open mode with a rounder, dynamic response.
+## Controls / architecture
+- **VOLUME**
+- **TONE**
+- **GAIN**
+- **CUT**
+- **3-way EQ** switch
+- 9V center-negative with battery support. [1]
 
-## Colorways
-- A documented production example has a **white face with black illustrated graphics**.
-- Basic Audio notes that pedal colors are subject to change.
-- No complete factory colorway chronology was verified.
+## Circuit architecture
+- IC-based analog overdrive.
+- Basic Audio describes two different gain responses:
+  - **Hard-clipped** response.
+  - More open, rounder and dynamic response.
+- The EQ switch and Cut control provide additional frequency shaping. [1][2]
 
-## Versions and factory options
-### Overtdrive
-- Volume
-- Tone
-- Gain
-- Cut
-- 3-way EQ switch
-- 9V DC center-negative
-- Battery snap
+## Active device
+- **IC/op-amp based.**
+- Exact device part number is not publicly documented.
 
-## Version changes
-No numbered factory revision was verified in the checked sources.
+## Diode / clipping
+- The circuit has a hard-clipping mode, but exact clipping component type/part number is not published.
 
-## Transistor
-- **Technology:** IC-based overdrive.
-- **Exact IC:** Not publicly documented in the checked sources.
+## Version history
+- No numbered factory electronic revision established.
+- Surviving examples show cosmetic variation only.
 
-## Diode
-- **Exact clipping/protection arrangement:** Not publicly documented in the checked sources.
+## Power
+- **9V center-negative** operation with battery support. [1]
 
 ## Sound
-Overtdrive is designed to span medium-gain drive with two distinct gain responses. The hard-clipped setting moves toward firmer distortion, while the open setting keeps a rounder and more dynamic feel; the EQ switch and Cut control provide additional shaping.
+The open gain response is described as rounder and more dynamic, while the hard-clipped response gives firmer distortion. The 3-way EQ and Cut controls broaden the usable frequency range. [1][2]
+
+## Research confidence
+- **Identity:** High
+- **IC overdrive architecture:** High
+- **Four-control + EQ switch:** High
+- **Two gain responses:** High
+- **Exact IC:** Unknown
+- **Exact clipping devices:** Unknown
+
+## Deep research verification
+Basic Audio's official Overtdrive page was checked against an exact Reverb record and Guitar Pedal X's Basic Audio overview. The sources support the IC-based architecture, two gain responses and EQ/Cut system; exact device numbers remain unpublished. [1][2][3]
 
 ## Sources checked
-1. Basic Audio official Overtdrive page: https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-cnzrr-ksfg5-kba26-5yxez-twy6r-779zt
-2. Reverb, Basic Audio Overtdrive: https://reverb.com/uk/item/46912602-basic-audio-overtdrive
-3. Guitar Pedal X, Basic Audio overview: https://www.guitarpedalx.com/news/gpx-blog/the-unsung-king-of-fuzz---john-lyons-of-basic-audio
+1. Basic Audio — Overtdrive: https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-cnzrr-ksfg5-twy6r-779zt
+2. Reverb — Basic Audio Overtdrive: https://reverb.com/uk/item/46912602-basic-audio-overtdrive
+3. Guitar Pedal X — John Lyons of Basic Audio: https://www.guitarpedalx.com/news/gpx-blog/the-unsung-king-of-fuzz---john-lyons-of-basic-audio
 
 ## Photo
-- **Archive status:** **No Photo Archived**
-- Exact-model imagery was found, but no stable direct image asset met the archive's archival photo standard during this pass.
+- **Exact-model image found historically but not yet validated as a stable local archive asset.**
