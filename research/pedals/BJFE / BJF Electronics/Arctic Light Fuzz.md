@@ -21,3 +21,8 @@ The Dirt Archive currently catalogs **Arctic Light Fuzz** by **BJFE / BJF Electr
 ## Deep research
 - **Status:** Pending
 - Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+## Deep research verification
+
+The BJFE historical reference identifies **Arctic Light Fuzz** as a distinct fuzz identity created when Björn Juhl ran out of the snow-themed enclosures used for Arctic White Fuzz. The reference describes Arctic Light units as **Arctic White Fuzz (AWF) in plain boxes with a brushed surface**, preserving the AWF lineage while distinguishing the enclosure presentation. The same source lists AWF as a July 2008 forum-research fuzz developed from the Smokey Orange Fuzz/Snow White Fuzz lineage, with later AWF units receiving increased gain and some minor filter/bass/mid revisions.
+
+Source: https://bjornjuhl.com/forum/viewtopic.php?f=6&t=2261
