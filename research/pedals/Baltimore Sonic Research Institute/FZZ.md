@@ -1,49 +1,58 @@
-# Baltimore Sonic Research Institute - FZZ
+# Baltimore Sonic Research Institute — FZZ
 
 ## PRP identity
 - **Archive parent:** FZZ
 - **Builder:** Baltimore Sonic Research Institute
 - **Catalog type:** Fuzz
-- **Identity:** Bass/guitar fuzz derived from a modified Super Fuzz/Hyper Fuzz concept with active three-band EQ and clean blend.
+- **Identity:** Bass/guitar fuzz that evolved from BSRI founder Kevin Bernsten's modified Super Fuzz studio design, adding active EQ, full-range clean blend and an octave-oriented voice. [1][2]
 
 ## What this pedal is
-FZZ was the pedal that evolved from Dave Gill's original studio-built modified Super Fuzz for bass tracking. BSRI added an active EQ and high-fidelity clean blend so the fuzz could preserve low end while remaining useful across guitar and bass.
+BSRI's own origin story says the first version was built for bass tracking when a massive crushing fuzz was needed. The prototype evolved from a **heavily modified Super Fuzz** with active EQ, full-range blend and an angry octave tone, and became the FZZ that established Baltimore Sonic Research Institute. [1]
 
-## Colorways
-- A documented production example uses a **red control panel over a dark enclosure**.
-- No complete factory colorway chronology was verified.
+## Controls / architecture
+- **BLEND:** Full-range clean blend.
+- **HIGH / MID / LOW:** Active three-band EQ.
+- **Volume / input-output controls** as documented by surviving product examples.
+- Fuzz stage intended for both guitar and bass.
+- Heavy octave-rich character inherited from the modified Super Fuzz concept. [1][2]
 
-## Versions and factory options
-### FZZ
-- IN
-- OUT
-- BLEND
-- HIGH
-- MID
-- LOW
-- Active 3-band EQ
-- High-fidelity clean blend
-- Guitar and bass use
-- Analog fuzz
-
-## Version changes
-FZZ originated as an early BSRI fuzz and was later retired from the normal product lineup. BSRI's current FAQ notes that a batch of FZZ was rebuilt in response to a touring player's request, showing that the model remained buildable even after years out of production.
+## Circuit lineage
+- **Primary lineage:** Modified **Super Fuzz / Hyper Fuzz** family.
+- BSRI's official history explicitly identifies the prototype as a heavily modified Super Fuzz.
+- The archive does not claim a one-to-one schematic match with any commercial Super Fuzz or Hyper Fuzz. [1][2]
 
 ## Transistor
-- **Technology:** Solid-state Super Fuzz-family circuit.
-- **Exact transistor:** Public BSRI sources checked for this pass do not state the exact transistor type.
+- Exact transistor/device part numbers are not publicly documented in the reviewed sources.
+- A historical technical schematic exists publicly for the retired FZZ, but the reviewed source set does not establish individual transistor part numbers with sufficient confidence.
 
-## Diode
-- **Exact clipping/protection arrangement:** Not publicly documented in the checked sources.
+## Diode / clipping
+- Exact production diode part numbers are not established in the reviewed source set.
+
+## Construction / history
+- The FZZ was an early BSRI design and was subsequently retired from the normal lineup.
+- BSRI later rebuilt a batch at a touring player's request, according to the company's current history/FAQ context.
+- The design goal was preservation of low end while providing heavy fuzz and octave content. [1]
 
 ## Sound
-The FZZ is designed to retain low end while producing heavy, octave-rich fuzz, making it especially useful for bass and lower tunings. The clean blend preserves the underlying instrument while the three-band EQ lets the player reshape the broad fuzz character.
+The FZZ was created specifically for slow, heavy bass tracking and is built around crushing fuzz with a strong octave component. The active EQ and clean blend are intended to keep the low end usable on bass while allowing the fuzz layer to become extreme. [1][2]
+
+## Research confidence
+- **Identity:** High
+- **Super Fuzz lineage:** High
+- **Bass-tracking origin:** High
+- **Active EQ / clean blend:** High
+- **Octave character:** High
+- **Exact transistor:** Unknown
+- **Exact diode:** Unknown
+
+## Deep research verification
+BSRI's official About page was cross-checked with surviving exact-model documentation. The company directly identifies the FZZ's origin in a modified Super Fuzz built for bass recording, while the historical product record confirms its guitar/bass application and control architecture. [1][2]
 
 ## Sources checked
-1. BSRI Audio, About: https://www.bsriaudio.com/about
-2. BSRI Audio, The Pasture: https://www.bsriaudio.com/the-pasture
-3. Reverb exact-model listing: https://reverb.com/item/57286851-baltimore-sonic-research-institute-fzz-fuzz-guitar-and-bass
+1. BSRI Audio — About: https://www.bsriaudio.com/about
+2. Reverb — BSRI FZZ exact-model listing: https://reverb.com/item/57286851-baltimore-sonic-research-institute-fzz-fuzz-guitar-and-bass
+3. Freestompboxes — BSRI FZZ schematic discussion: https://www.freestompboxes.org/viewtopic.php?f=7&t=31344
 
 ## Photo
 - **Archive status:** **No Photo Archived**
-- An exact Reverb listing image was found, but the direct image endpoint returned an access block during verification, so it was not promoted.
+- Exact-model Reverb imagery was identified, but its direct image endpoint was blocked during verification.
