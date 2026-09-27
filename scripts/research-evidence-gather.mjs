@@ -43,10 +43,22 @@ function pedalIdentityVariants(pedal){
   // an exact identity variant without weakening ordinary hyphenated model names.
   const core=raw.split(/\s+—\s+/)[0].trim();
   if(core && core!==raw) variants.push(core);
+  // Historical archive entries can encode identity relationships in the display
+  // name, such as "formerly Shiva", "Legacy Reissue", or "consolidated across V1/V2/V3".
+  // Recover the underlying model token as another exact identity variant. This is
+  // still subject to the normal builder + source + foreman gates.
+  const relationshipBase=raw
+    .replace(/\s*\/\s*formerly\s+.+$/i,'')
+    .replace(/\s+legacy\s+reissue.*$/i,'')
+    .replace(/\s+—\s+consolidated.*$/i,'')
+    .trim();
+  if(relationshipBase && relationshipBase!==raw && !variants.includes(relationshipBase)){
+    variants.push(relationshipBase);
+  }
   // Historical and retailer pages frequently collapse compound pedal names
   // (for example FatRock or TightRock) into one token. Accept that spelling as
   // an exact identity variant when the page title/H1/URL uses it.
-  for(const value of [raw, core]){
+  for(const value of [raw, core, relationshipBase]){
     const compact=norm(value).replace(/\s+/g,'');
     if(compact && !variants.some(v=>norm(v)===compact)) variants.push(compact);
   }
