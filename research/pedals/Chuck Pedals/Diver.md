@@ -37,3 +37,10 @@ Diver is designed around the thick Green Russian Big Muff family while adding mo
 ## Sources checked
 1. Effects Database — Chuck Pedals Diver: https://www.effectsdatabase.com/events/namm/2017
 2. Equipboard — Chuck Pedals Diver: https://equipboard.com/items/chuck-pedals-diver
+## Deep research verification
+
+Equipboard's current exact-model record documents Chuck Pedals **Diver** as a handmade USA fuzz built around a **Green Russian Bubble Font Big Muff Pi** concept, with **mid-gain transistors**, dedicated **Mid scoop**, three Creature Modes (**crab, jellyfish, sea urchin**), true bypass, and 9VDC centre-negative power. Exact transistor part numbers and diode types are not published.
+
+Sources:
+- https://equipboard.com/items/chuck-pedals-diver
+- https://www.effectsdatabase.com/events/namm/2017
