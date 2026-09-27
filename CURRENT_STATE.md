@@ -9,7 +9,7 @@ Live catalog: **4242 total / 4242 surface-ready / 2818 deep-researched / 3750 re
 
 PRP1 closeout remains separate: 617 researched record(s) still lack an exact local photo.
 The research queue is generated from the canonical catalog and tracker; do not hand-edit the derived queue.
-Last refreshed: 2026-09-27T10:22:22.288206+00:00
+Last refreshed: 2026-09-27T10:23:05.984241+00:00
 <!-- AUTO:RESEARCH_PHASE_END -->
 
 ## Historical checkpoints
