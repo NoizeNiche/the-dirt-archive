@@ -17,3 +17,16 @@
   - https://www.effectsdatabase.com/model/castlerock/overdrive
   - https://www.zzounds.com/item--CSTCRGOD
   - https://www.effectsdatabase.com/updates/weekly/20100308
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+This overdrive pedal allows you to texture your sounds.
+
+### Verified sound evidence
+This overdrive pedal allows you to texture your sounds.
+
+### Sources checked in this pass
+1. CastleRock Overdrive | Effects Database: https://www.effectsdatabase.com/model/castlerock/overdrive

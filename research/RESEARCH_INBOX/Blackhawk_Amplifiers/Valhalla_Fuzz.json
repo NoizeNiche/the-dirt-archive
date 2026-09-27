@@ -1,0 +1,25 @@
+{
+  "builder": "Blackhawk Amplifiers",
+  "pedal": "Valhalla Fuzz",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 2,
+  "sources": [
+    {
+      "url": "https://reverb.com/item/76845976-blackhawk-valhalla-fuzz-hand-wired-point-to-point",
+      "title": "catalog/override source",
+      "h1": "",
+      "excerpt": "",
+      "host": "reverb.com",
+      "source_kind": "reverb"
+    },
+    {
+      "url": "https://www.blackhawkamplifiers.com/product/uruk-hai-parallel-mkii",
+      "title": "URUK-HAI MKII {PARALLEL} DRIVE & FUZZ | BLACKHAWK AMPLIFIERS",
+      "h1": "URUK-HAI MKII {PARALLEL} DRIVE & FUZZ",
+      "excerpt": "URUK-HAI MKII {PARALLEL} DRIVE & FUZZ | BLACKHAWK AMPLIFIERS \u201cCHERNOBYL\u201d PI \u03c0 BASS FUZZ IS BACK!! \u201cCHERNOBYL\u201d PI \u03c0 BASS FUZZ IS BACK!! \u201cCHERNOBYL\u201d PI \u03c0 BASS FUZZ IS BACK!! \u201cCHERNOBYL\u201d PI \u03c0 BASS FUZZ IS BACK!! \u201cCHERNOBYL\u201d PI \u03c0 BASS FUZZ IS BACK!! Products GIFT CARDS NEWS Contact Cart ( 0 ) Products GIFT CARDS NEWS Contact Cart ( 0 ) Sold out URUK-HAI MKII {PARALLEL} DRIVE & FUZZ $ 400.00 - $ 420.00 URUK-HAI PARALLEL FUZZ//DRIVE The harmonic richness and texture is so much more than your average distortion. Because.... The Uruk-Hai Deluxe is a full Valkyrie MKII and Valhalla MKII in the same enclosure with added order switch so you can: \u2022 MIX your perfect amounts of fuzz, drive (distortion) and clean (or CLEAN BASS). \u2022 A/B/Y toggle between FUZZ/DRIVE/BOTH /////////////////////////////////////////////// VALHALLA FUZZ MKII With parallel clean blend and boosted output. From meaty vintage midrange to dark modern metal tones, your tone will rise from the dead to fill the great hall of the gods! A seemingly endless variety sludgy brutal tones can be found within. \u2022 The Mid and Tone controls are a semi-parametric notch filter which let you shape the perfect midrange and sparkle \u2022 The depth control and bass boost switch control how thick the low end is. To keep it sturdy even in the heaviest use the PCB has: \u2022 Handwired jacks, \u2022 Foot switches \u2022 Power connector Rather than a clean \u201cblend\u201d which reduces the output of the dirt signal as the clean is brought in, the \u201cclean volume\u201d \u2022Use it with bass OR for blending other drive pedals in into it! The VALHALLA includes a completely transparent impedance correction transformer. \u2022Blackhawk fuzz pedals can be placed anywhere in your guitar chain. \u2022You never have to worry about buffers or active pickups getting in the way of your tone. /////////////////////////////////////////////// VALKYRIE DRIVE The VALKYRIE has been my been quest for some time now for a tube amp saturated opamp drive pedal with the ability to get both tight and wooly. \u2022Can be used for guitar, baritone or bass equally well. \u2022DEPTH trim pot that lets you set the cutoff of the first gain stage from the classic 720hz of the TS down to a thick and heavy 200hz. \u2022Originally a 741 for the initial gain stage, then the warmer/woolier LM308, I\u2019ve now switched to the Texas Instruments OP07 as it has all my favorite LM308 characteristics without the risk of fake chips. \u2022The VALKYRIE brutalizes the front end of your amp with an LM386 (the \u201cpower amp distortion\u201d chip of choice) for massive volume boost. If you love midrange and want the option of cutting through the mix OR thick syrupy sludge, this is the pedal for you. \u2022The baxandall BASS and TREBLE give you a huge amount of control. \u2022the warm tube drive tone possibilities seem endless with both preamp (gain) and power amp saturation controls (poweramp trim). \u2022The previously underwhelming gain control (my own harsh criticism), has been improved for all manner of low to high gain possibilities. \u2022The internal depth and gain trim pots control how tight or loose the preamp chip is and how much gain it has. When these are moved too much it can make the pedal squeal and howl (not in the good way) so I felt it best to keep those as a set and forget. \u2022The power section clipping is selected with three way toggle for LED clipping, no clipping (a huge volume boost) and mosfet clipping (more distortion, more fuzz-like and quieter) \u2022The second \"response\" toggle has been replaced with a DEPTH control for full range cutting articulation to thick and meaty can be pushed into fuzz territory. /////////////////////////////////////////////// Guilded from the PI \u03c0 BASS FUZZ: \u2022CLEAN BASS control is PARALLEL meaning instead of being a mix between clean and dirty, it's a separate volume for clean which can go above unity into boost. Rather than a standard clean blend, this is clean bass, using both a \"low pass\" trim pot and trim for the gyrator EQ boost at 55-70hz. (If the one thing about clean blends to add bass t",
+      "host": "www.blackhawkamplifiers.com",
+      "source_kind": "manufacturer"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}

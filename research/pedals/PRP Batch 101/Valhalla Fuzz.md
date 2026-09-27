@@ -24,3 +24,25 @@ Version-dependent controls include:
 
 ## Archive photo
 - **Archive status:** **No Photo Archived**
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+•Blackhawk fuzz pedals can be placed anywhere in your guitar chain.
+
+### Verified version references
+- The evidence references: MKII.
+
+### Verified diode terms
+- LED.
+
+### Verified sound evidence
+URUK-HAI MKII {PARALLEL} DRIVE & FUZZ
+BLACKHAWK AMPLIFIERS “CHERNOBYL” PI π BASS FUZZ IS BACK!!
+“CHERNOBYL” PI π BASS FUZZ IS BACK!!
+
+### Sources checked in this pass
+1. catalog/override source: https://reverb.com/item/76845976-blackhawk-valhalla-fuzz-hand-wired-point-to-point
+2. URUK-HAI MKII {PARALLEL} DRIVE & FUZZ | BLACKHAWK AMPLIFIERS: https://www.blackhawkamplifiers.com/product/uruk-hai-parallel-mkii
