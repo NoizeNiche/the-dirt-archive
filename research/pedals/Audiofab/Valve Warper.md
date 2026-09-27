@@ -4,47 +4,59 @@
 - **Archive parent:** Valve Warper
 - **Builder:** Audiofab
 - **Catalog type:** Overdrive
-- **Identity:** Fully discrete Class-A overdrive using transistor gain stages for touch-sensitive breakup ranging from clean boost and mild overdrive into thick distortion and fuzz-like saturation.
+- **Identity:** Fully discrete Class A overdrive with transistor gain stages, inspired by an early-2000s boutique design lineage and voiced between Tone Bender-style harmonic richness and Tube Screamer-style smoothness. [1]
 
 ## What this pedal is
-Audiofab describes Valve Warper as a discrete Class-A overdrive inspired by a rare early-2000s boutique circuit that evolved from classic DIY designs. The factory description places its feel between the harmonic richness of a Tone Bender-type circuit and the smoother response of a Tube Screamer.
+Audiofab describes Valve Warper as a touch-sensitive, fully discrete overdrive with a broad gain sweep from clean enhancement to saturated fuzz-like distortion. The design is intended as an always-on tone shaper or primary gain stage rather than a narrowly voiced effect. [1]
 
-## Colorways
-- **Documented production finish:** textured black enclosure with light graphics.
-- No separate factory colorway family was verified.
+## Controls
+- **LEVEL:** Output level, with enough range to act as a substantial boost.
+- **DRIVE:** Overdrive amount, from mild breakup to full distortion.
+- **TONE:** Treble/output high-frequency control.
+- **CUT:** Three-position switch: no treble cut, moderate treble cut, or stronger treble cut. [1]
 
-## Versions and factory options
-### Valve Warper production
-- Level output control
-- Drive gain control
-- Tone treble control
-- Three-position Cut switch
-- True bypass
-- Internal 9V battery and external 9V PSU input
-- Rugged 1590B aluminum enclosure
-
-### Cut switch
-- Position I: no treble cut
-- Positions II and III: increasing levels of treble roll-off
-
-## Version changes
-No numbered production revision was verified in the current factory documentation checked.
+## Circuit architecture
+- **Fully discrete Class A** transistor gain stages.
+- Audiofab states the design has been carefully optimized for responsiveness, noise performance and tonal balance. [1]
+- No complete schematic is publicly disclosed.
 
 ## Transistor
-- **Technology:** Discrete Class-A transistor architecture.
-- **Exact devices:** Individual transistor part numbers are not published in the checked factory material.
+- **Technology:** Discrete transistor Class A.
+- Exact transistor part numbers are not published in the reviewed builder material.
 
-## Diode
-- **Type:** Exact clipping diode arrangement is not publicly documented.
+## Diode / clipping
+- Exact clipping diode/device arrangement is not publicly documented.
+
+## Construction / power
+- True bypass.
+- Rugged **1590B aluminum enclosure**.
+- Internal 9V battery.
+- External 9V PSU input.
+- LED indicator.
+- High-quality switches, jacks and pots. [1]
+
+## Version history
+- No numbered factory revision established.
+- The three-position Cut switch is a built-in tonal option, not evidence of a separate version.
 
 ## Sound
-Valve Warper is designed to remain articulate and responsive as gain increases, with the Drive control taking it from a subtle clean push toward thicker distortion and sustaining fuzz. The Cut switch provides two darker voicings, useful when the open setting is too bright with a particular guitar or amplifier.
+Audiofab describes a gradual, usable gain sweep with touch-sensitive response. Low Drive can function as tone enhancement or clean boost, while higher settings produce thicker distortion and sustaining fuzz-like textures. The Cut switch offers progressively darker treble responses for different guitars and amps. [1]
+
+## Research confidence
+- **Identity:** High
+- **Fully discrete Class A architecture:** High
+- **Control functions:** High
+- **Cut switch behavior:** High
+- **9V battery / external supply:** High
+- **Exact transistor:** Unknown
+- **Exact diode:** Unknown
+
+## Deep research verification
+Audiofab's current Valve Warper page was checked directly. It confirms the fully discrete Class A architecture, four controls, three-position Cut switch, gain sweep, true bypass and battery/external-PSU power arrangements. No unpublished component values were inferred. [1]
 
 ## Sources checked
-1. Audiofab — Valve Warper product page: https://audiofab.com/products/valve-warper
-2. Audiofab — current store: https://audiofab.com/store
+1. Audiofab — Valve Warper: https://audiofab.com/products/valve-warper
 
 ## Photo
 - **Archive status:** **Exact Photo Archived**
-- **Image source page:** https://audiofab.com/products/valve-warper
-- **Archive note:** Exact current Audiofab product image archived from the builder's product page.
+- **Image source:** Audiofab exact-model product photography.
