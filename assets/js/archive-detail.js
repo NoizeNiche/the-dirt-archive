@@ -88,10 +88,17 @@ function renderMarkdown(md){
   const lines=md.split(/\r?\n/);
   const hidden=new Set(['research confidence','photo','sources checked','prp identity']);
   let html='',inList=false,skip=false;
-  const inline=s=>esc(s)
-    .replace(/\s*\[\d+\]/g,'')
-    .replace(/\*\*(.+?)\*\*/g,'<strong>$1</strong>')
-    .replace(/\x60(.+?)\x60/g,'<code>$1</code>');
+  const inline=s=>{
+    let value=esc(s)
+      .replace(/\s*\[\d+\]/g,'')
+      .replace(/\*\*(.+?)\*\*/g,'<strong>$1</strong>')
+      .replace(/\x60(.+?)\x60/g,'<code>$1</code>');
+    return value.replace(/(https?:\/\/[^\s<]+)/g, url=>{
+      const trailing=(url.match(/[),.;!?]+$/)||[''])[0];
+      const href=trailing?url.slice(0,-trailing.length):url;
+      return '<a class="sourceLink" href="'+href+'" target="_blank" rel="noopener noreferrer">'+href+'</a>'+trailing;
+    });
+  };
   for(const line of lines){
     if(/^## /.test(line)){
       if(inList){html+='</ul>';inList=false}
@@ -277,6 +284,18 @@ function renderDemo(item){
     '<a class="action primary" href="'+esc(demo.url)+'" target="_blank" rel="noopener">Watch demo ↗</a>';
 }
 
+function renderRecordStatus(item){
+  const target=$('recordStatus');
+  if(!target)return;
+  const research=String(item?.research_level||'').toLowerCase();
+  const researchLabel=research==='deep'?'Deep research':research==='surface'?'Surface research':'Research status unrecorded';
+  const researchClass=research==='deep'?'verified':research==='surface'?'surface':'unknown';
+  const hasPhoto=typeof item?.image==='string' && item.image.trim()!=='';
+  target.innerHTML=
+    '<span class="statusPill '+researchClass+'">'+esc(researchLabel)+'</span>'+
+    '<span class="statusPill '+(hasPhoto?'photo':'photoMissing')+'">'+(hasPhoto?'Exact archive photo':'Exact local photo pending')+'</span>';
+}
+
 function updateMetaDescription(item){
   const types=(item.types||[]).filter(Boolean).join(', ')||'guitar dirt';
   const meta=document.querySelector('meta[name="description"]');
@@ -371,6 +390,7 @@ loadCatalog()
   if(wantedType && wantedType!=='All' && !(item.types||[]).includes(wantedType)) wantedType='';
   document.title=item.pedal+' · The Dirt Archive';
   updateMetaDescription(item);
+  renderRecordStatus(item);
   $('record').hidden=false;
   renderPageNav(allItems,item);
   $('crumb').textContent=(item.types||[]).join(' · ')+' · '+item.company;
