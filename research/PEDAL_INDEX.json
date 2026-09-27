@@ -35644,8 +35644,8 @@
       "image": "./assets/pedals/electronic-audio-experiments/halberd/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Electronic Audio Experiments/Halberd.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Electronic Audio Experiments",
@@ -44898,8 +44898,8 @@
       "image": "./assets/pedals/menatone/blue-collar-ptp/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Menatone/Blue Collar PTP.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Menatone",
@@ -54028,8 +54028,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/VFE Pedals/RUP mkII.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "VFE Pedals",

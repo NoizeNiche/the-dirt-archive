@@ -1,23 +1,38 @@
 # VFE Pedals — RUP mkII
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** RUP mkII
 - **Builder:** VFE Pedals
-- **Pedal:** RUP mkII
 - **Catalog type:** Distortion
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** VFE Pedals's RUP mkII.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **RUP mkII** by **VFE Pedals** as a **Distortion** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+VFE Pedals - The RUP mkII is now available to pre-order on...
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- The verified evidence references: mkII, v4.
+- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+RUP mkII - ultimate multiband distortion
+
+## Sources checked
+1. RUP mkII - ultimate multiband distortion | VFE Pedals: https://www.vfepedals.com/product-page/rup
+2. VFE Pedals - The RUP mkII is now available to pre-order on...: https://www.facebook.com/VFEpedals/posts/the-rup-mkii-is-now-available-to-pre-order-on-the-vfe-pedals-websitepre-order-pr/1386170920216489/
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
