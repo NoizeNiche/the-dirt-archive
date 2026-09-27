@@ -308,7 +308,8 @@ function renderRecordStatus(item,markdown=''){
   const statusMatch=source.match(/\*\*Deep research status:\*\*\s*([^\n]+)/i);
   const level=String(levelMatch?.[1]||item?.research_level||'').trim().toLowerCase();
   const status=String(statusMatch?.[1]||'').trim().toLowerCase();
-  const sourceCount=(source.match(/https?:\/\/[^\s)]+/g)||[]).length;
+  const sourceSection=source.match(/##\s+Sources checked[\s\S]*?(?=\n##\s|\n#\s|$)/i)?.[0]||'';
+  const sourceCount=(sourceSection.match(/https?:\/\/[^\s)]+/g)||[]).length;
 
   const researchLabel=level==='deep'?'Deep research':level==='surface'?'Surface research':'Research status unrecorded';
   const researchClass=level==='deep'?'verified':level==='surface'?'surface':'unknown';
