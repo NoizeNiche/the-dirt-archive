@@ -549,3 +549,23 @@ Current verified catalog state: **4,242 total / 4,242 surface-ready / 3,478 deep
 The research worker team is configured for **1,000 targets per pass**, split across **20 parallel workers at 50 targets each**, with scheduled runs every 15 minutes and queued self-chaining after successful research movement. The gatherer now adds capped **exact-source-host search fallbacks** based on source URLs already attached to each record, improving obscure-builder discovery without weakening the foreman’s exact-model and multi-host admission gates.
 
 A redundant hourly evidence-crew schedule was disabled earlier; the canonical deep-research lane remains the active automated path. The stricter evidence bar remains in place: no unsupported transistor, diode, control, or revision details are invented when exact model evidence is unavailable.
+
+
+## Identity correction checkpoint - September 27, 2026
+
+The active catalog target **Death By Audio — Sonic Incinerator** was audited before deep research because the exact identity had no direct supporting product source. The current Death By Audio catalog and established pedal references do not support a Death By Audio pedal by that name, while exact-model sources identify the pedal as **Industrialectric Incinerator**. This correction was applied conservatively rather than forcing a deeper research record onto the wrong builder.
+
+### Changes
+- Removed **Death By Audio — Sonic Incinerator** from the canonical catalog and tracker.
+- Retained an unlinked legacy note documenting the correction instead of leaving the stale active research record in the live research tree.
+- Registered **Industrialectric** as canonical builder ID **589** and added two verified dirt-bearing records: **Incinerator** (Fuzz) and **Squarewave Generator** (Fuzz).
+- Both new catalog records have exact-model research records and no promoted local photograph. The previously archived image under the discarded DBA identity remains unpromoted pending exact-model provenance review.
+- The next deep-research frontier therefore advances to **DigiTech — Redline Modified Overdrive**.
+
+### Sources checked
+- Death By Audio current catalog: https://deathbyaudio.com/
+- Effects Database — Industrialectric Incinerator: https://www.effectsdatabase.com/model/industrialectric/incinerator
+- Effects Database — Industrialectric Squarewave Generator: https://www.effectsdatabase.com/model/industrialectric/squarewavegenerator
+- Big City Music — Industrialectric Incinerator: https://www.bigcitymusic.com/products/incinerator
+
+The correction keeps the archive's Builder + Pedal identity rule intact and avoids treating an ambiguous photo or naming similarity as proof of identity.

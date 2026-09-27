@@ -15587,13 +15587,6 @@
   },
   {
     "builder": "Death By Audio",
-    "pedal": "Sonic Incinerator",
-    "image": "./assets/pedals/death-by-audio/sonic-incinerator/primary.webp",
-    "source_page": null,
-    "research_record": "./research/pedals/Death By Audio/Sonic Incinerator.md"
-  },
-  {
-    "builder": "Death By Audio",
     "pedal": "Supersonic Fuzz Gun",
     "image": "./assets/pedals/death-by-audio/supersonic-fuzz-gun/primary.webp",
     "source_page": null,
@@ -19903,6 +19896,20 @@
     "image": "./assets/pedals/idiotbox-effects/wild-kyle/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/IdiotBox Effects/Wild Kyle.md"
+  },
+  {
+    "builder": "Industrialectric",
+    "pedal": "Incinerator",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/industrialectric/incinerator",
+    "research_record": "./research/pedals/Industrialectric/Incinerator.md"
+  },
+  {
+    "builder": "Industrialectric",
+    "pedal": "Squarewave Generator",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/industrialectric/squarewavegenerator",
+    "research_record": "./research/pedals/Industrialectric/Squarewave Generator.md"
   },
   {
     "builder": "J. Rockett Audio Designs",

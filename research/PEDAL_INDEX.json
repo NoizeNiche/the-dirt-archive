@@ -1,6 +1,6 @@
 {
   "version": "data-20260927-historical-census-sweep-07k",
-  "count": 4241,
+  "count": 4242,
   "pedals": [
     {
       "company": "1981 Inventions",
@@ -31438,18 +31438,6 @@
     },
     {
       "company": "Death By Audio",
-      "pedal": "Sonic Incinerator",
-      "types": [
-        "Distortion"
-      ],
-      "image": "./assets/pedals/death-by-audio/sonic-incinerator/primary.webp",
-      "source_page": null,
-      "research_record": "./research/pedals/Death By Audio/Sonic Incinerator.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
-    },
-    {
-      "company": "Death By Audio",
       "pedal": "Supersonic Fuzz Gun",
       "types": [
         "Fuzz"
@@ -39015,6 +39003,30 @@
       "image": "./assets/pedals/idiotbox-effects/wild-kyle/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/IdiotBox Effects/Wild Kyle.md",
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "Industrialectric",
+      "pedal": "Incinerator",
+      "types": [
+        "Fuzz"
+      ],
+      "image": null,
+      "source_page": "https://www.effectsdatabase.com/model/industrialectric/incinerator",
+      "research_record": "./research/pedals/Industrialectric/Incinerator.md",
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "Industrialectric",
+      "pedal": "Squarewave Generator",
+      "types": [
+        "Fuzz"
+      ],
+      "image": null,
+      "source_page": "https://www.effectsdatabase.com/model/industrialectric/squarewavegenerator",
+      "research_record": "./research/pedals/Industrialectric/Squarewave Generator.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED"
     },
