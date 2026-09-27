@@ -1,200 +1,200 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-27T04:50:53.590275+00:00",
+  "generated_at": "2026-09-27T04:55:21.280748+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
   "counts": {
-    "total": 3983,
+    "total": 4008,
     "researched": 3761,
     "pictured": 3040,
     "complete": 3040,
-    "research_pending": 0,
-    "deep_research_pending": 2043,
-    "deep_researched": 1940,
-    "surface_ready": 3983
+    "research_pending": 24,
+    "deep_research_pending": 2045,
+    "deep_researched": 1963,
+    "surface_ready": 3984
   },
   "next_target": {
-    "builder": "Beetronics",
-    "pedal": "Abelha Tropical Fuzz",
+    "builder": "Dirty Boy Pedals / Dirty Boy Co.",
+    "pedal": "AFRO FUZZ",
     "catalog_type": "",
-    "research_record": "./research/pedals/Beetronics/Abelha Tropical Fuzz.md",
-    "research_level": "surface"
+    "research_record": "",
+    "research_level": "missing"
   },
   "working_set": [
+    {
+      "builder": "Dirty Boy Pedals / Dirty Boy Co.",
+      "pedal": "AFRO FUZZ",
+      "catalog_type": "",
+      "research_record": "",
+      "research_level": "missing"
+    },
+    {
+      "builder": "Dirty Boy Pedals / Dirty Boy Co.",
+      "pedal": "JUNIOR DB Fuzz / Dirty Boy Jr. Fuzz",
+      "catalog_type": "",
+      "research_record": "",
+      "research_level": "missing"
+    },
+    {
+      "builder": "Dirty Boy Pedals / Dirty Boy Co.",
+      "pedal": "JUNIOR DB Overdrive / Dirty Boy Jr. Overdrive",
+      "catalog_type": "",
+      "research_record": "",
+      "research_level": "missing"
+    },
+    {
+      "builder": "Dirty Boy Pedals / Dirty Boy Co.",
+      "pedal": "PREAMP",
+      "catalog_type": "",
+      "research_record": "",
+      "research_level": "missing"
+    },
+    {
+      "builder": "Dirty Boy Pedals / Dirty Boy Co.",
+      "pedal": "The Magical MYSTERY FUZZ",
+      "catalog_type": "",
+      "research_record": "",
+      "research_level": "missing"
+    },
+    {
+      "builder": "Himmelstrutz Elektro Art",
+      "pedal": "Under Over",
+      "catalog_type": "",
+      "research_record": "",
+      "research_level": "missing"
+    },
+    {
+      "builder": "Himmelstrutz Elektro Art",
+      "pedal": "Under Overdriver",
+      "catalog_type": "",
+      "research_record": "",
+      "research_level": "missing"
+    },
+    {
+      "builder": "Lovepedal / Love Pedal",
+      "pedal": "5E3 Deluxe",
+      "catalog_type": "",
+      "research_record": "",
+      "research_level": "missing"
+    },
+    {
+      "builder": "Lovepedal / Love Pedal",
+      "pedal": "200lbs of Gold",
+      "catalog_type": "",
+      "research_record": "",
+      "research_level": "missing"
+    },
+    {
+      "builder": "Lovepedal / Love Pedal",
+      "pedal": "Amp 50",
+      "catalog_type": "",
+      "research_record": "",
+      "research_level": "missing"
+    },
+    {
+      "builder": "Lovepedal / Love Pedal",
+      "pedal": "Amp Eleven",
+      "catalog_type": "",
+      "research_record": "",
+      "research_level": "missing"
+    },
+    {
+      "builder": "Lovepedal / Love Pedal",
+      "pedal": "COT 50 / Church of Tone 50",
+      "catalog_type": "",
+      "research_record": "",
+      "research_level": "missing"
+    },
+    {
+      "builder": "Lovepedal / Love Pedal",
+      "pedal": "Dover Drive",
+      "catalog_type": "",
+      "research_record": "",
+      "research_level": "missing"
+    },
+    {
+      "builder": "Lovepedal / Love Pedal",
+      "pedal": "Eternity Burst",
+      "catalog_type": "",
+      "research_record": "",
+      "research_level": "missing"
+    },
+    {
+      "builder": "Lovepedal / Love Pedal",
+      "pedal": "Eternity Overdrive",
+      "catalog_type": "",
+      "research_record": "",
+      "research_level": "missing"
+    },
+    {
+      "builder": "Lovepedal / Love Pedal",
+      "pedal": "FAB 50",
+      "catalog_type": "",
+      "research_record": "",
+      "research_level": "missing"
+    },
+    {
+      "builder": "Lovepedal / Love Pedal",
+      "pedal": "Kalamazoo",
+      "catalog_type": "",
+      "research_record": "",
+      "research_level": "missing"
+    },
+    {
+      "builder": "Lovepedal / Love Pedal",
+      "pedal": "Mosferatu",
+      "catalog_type": "",
+      "research_record": "",
+      "research_level": "missing"
+    },
+    {
+      "builder": "Lovepedal / Love Pedal",
+      "pedal": "Purple Plexi",
+      "catalog_type": "",
+      "research_record": "",
+      "research_level": "missing"
+    },
+    {
+      "builder": "Lovepedal / Love Pedal",
+      "pedal": "Super Six",
+      "catalog_type": "",
+      "research_record": "",
+      "research_level": "missing"
+    },
+    {
+      "builder": "Lovepedal / Love Pedal",
+      "pedal": "Tchula",
+      "catalog_type": "",
+      "research_record": "",
+      "research_level": "missing"
+    },
+    {
+      "builder": "Lovepedal / Love Pedal",
+      "pedal": "Tiki Drive",
+      "catalog_type": "",
+      "research_record": "",
+      "research_level": "missing"
+    },
+    {
+      "builder": "Lovepedal / Love Pedal",
+      "pedal": "Zendrive",
+      "catalog_type": "",
+      "research_record": "",
+      "research_level": "missing"
+    },
+    {
+      "builder": "Lovepedal / Love Pedal",
+      "pedal": "Zendrive 2",
+      "catalog_type": "",
+      "research_record": "",
+      "research_level": "missing"
+    },
     {
       "builder": "Beetronics",
       "pedal": "Abelha Tropical Fuzz",
       "catalog_type": "",
       "research_record": "./research/pedals/Beetronics/Abelha Tropical Fuzz.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Beetronics",
-      "pedal": "Fatbee Overdrive",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Beetronics/Fatbee Overdrive.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Beetronics",
-      "pedal": "Octahive v2 High Octave Buzz",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Beetronics/Octahive v2 High Octave Buzz.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Beetronics",
-      "pedal": "Overhive Mid-Gain Overdrive",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Beetronics/Overhive Mid-Gain Overdrive.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Beetronics",
-      "pedal": "Royal Jelly Fuzz/OD Blender",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Beetronics/Royal Jelly Fuzz/OD Blender.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Beetronics",
-      "pedal": "Swarm Fuzz Harmonizer",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Beetronics/Swarm Fuzz Harmonizer.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Beetronics",
-      "pedal": "Tuna Fuzz",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Beetronics/Tuna Fuzz.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Beetronics",
-      "pedal": "Vezzpa Octave Stinger",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Beetronics/Vezzpa Octave Stinger.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Beetronics",
-      "pedal": "Wannabee Beelateral Buzz",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Beetronics/Wannabee Beelateral Buzz.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Big John Effects",
-      "pedal": "Hairy Balls",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 083/Hairy Balls.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Big John Effects",
-      "pedal": "Lil' John series",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 083/Lil' John series.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Big John Effects",
-      "pedal": "Obama Wah",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 083/Obama Wah.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Big John Effects",
-      "pedal": "Pocket Rocket",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 083/Pocket Rocket.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Big Knob Pedals",
-      "pedal": "Appetite for Distortion",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 083/Appetite for Distortion.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Big Knob Pedals",
-      "pedal": "Black Metallic",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 083/Black Metallic.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Big Knob Pedals",
-      "pedal": "Blues Buster",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 083/Blues Buster.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Big Knob Pedals",
-      "pedal": "Bushy Bison",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 083/Bushy Bison.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Big Knob Pedals",
-      "pedal": "Civil Warp",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 083/Civil Warp.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Big Knob Pedals",
-      "pedal": "Colour Jumbo",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 083/Colour Jumbo.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Big Knob Pedals",
-      "pedal": "Creamy Pi",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 083/Creamy Pi.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Big Knob Pedals",
-      "pedal": "D OverDrive 250",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 083/D OverDrive 250.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Big Knob Pedals",
-      "pedal": "Fuzz Barn",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 083/Fuzz Barn.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Big Knob Pedals",
-      "pedal": "Fuzz Space",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 083/Fuzz Space.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Big Knob Pedals",
-      "pedal": "Game of Tones",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 083/Game of Tones.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Big Knob Pedals",
-      "pedal": "Green Russian",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 083/Green Russian.md",
       "research_level": "surface"
     }
   ]

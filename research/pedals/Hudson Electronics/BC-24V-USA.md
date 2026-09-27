@@ -1,23 +1,39 @@
 # Hudson Electronics — BC-24V-USA
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** BC-24V-USA
 - **Builder:** Hudson Electronics
-- **Pedal:** BC-24V-USA
-- **Catalog type:** Overdrive / Distortion / Fuzz
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Catalog type:** Overdrive
+- **Identity:** Hudson Electronics's BC-24V-USA.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **BC-24V-USA** by **Hudson Electronics** as a **Overdrive / Distortion / Fuzz** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Hudson Electronics's BC-24V-USA is cataloged as an overdrive pedal.
 
-## Catalog source
-- Catalog source page on file: https://hudsonelectronicsuk.com/product/bc-24v-usa/
+## Colorways
+- The BC-24V-USA comes finished in turquoise-green and can only be purchased for a limited time through stockists located in the USA.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Documented terms in the verified sources: Germanium transistor.
+- The archive records only the component information explicitly present in these sources.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+The increased voltage gives extra headroom and a tighter low end – fantastic if you are looking for a little less saturation and grit, but without losing that unique sound of the Broadcast.
+The unique way in which the circuit saturates and colours your signal can be used to produce biting clean boosts, subtly coloured and thickened signals with a frayed-at-the-edge quality or – when pushed – an individual sounding overdrive with a fuzzy, fried texture.
+In LOW mode, the pedal has most headroom and stays nearly clean across its range, whilst retaining colouration from its germanium circuit and transformer – perfect if you use higher output pickups, baritone, bass or keyboards .
+
+## Sources checked
+1. BC-24V-USA – HUDSON ELECTRONICS UK: https://hudsonelectronicsuk.com/product/bc-24v-usa/
+2. https://i0.wp.com/hudsonelectronicsuk.com/wp-content/uploads/2016/09/bc-24v-usa-turquoise-green-angle-tight.jpg?fit=2063%2C2063&: https://i0.wp.com/hudsonelectronicsuk.com/wp-content/uploads/2016/09/bc-24v-usa-turquoise-green-angle-tight.jpg?fit=2063%2C2063&
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
