@@ -4,10 +4,10 @@
 - **Archive parent:** The LOAF Fuzz
 - **Builder:** Big Ear NYC
 - **Catalog type:** Fuzz
-- **Identity:** Historical Big Ear NYC catalog spelling for the LOAF silicon fuzz.
+- **Identity:** Historical Big Ear n.y.c. catalog spelling for the LOAF silicon fuzz.
 
 ## What this pedal is
-The LOAF is an original silicon fuzz rather than a direct Muff or Fuzz Face emulation. Reverb documents the pedal under both Big Ear Pedals and earlier Big Ear n.y.c. branding and reports no documented sonic difference between those versions.
+Reverb documents the LOAF across the earlier Big Ear n.y.c. branding and later Big Ear Pedals branding. The surviving model record does not establish a separate NYC circuit or component set.
 
 ## Controls
 - Fuzz
@@ -15,13 +15,28 @@ The LOAF is an original silicon fuzz rather than a direct Muff or Fuzz Face emul
 - Volume
 
 ## Circuit / sound
-The circuit is silicon based. Coverage describes a warm, bass-friendly and darker character, with more pronounced fuzz at higher Fuzz settings.
+- **Silicon fuzz.**
+- Warm, bass-friendly and darker character are the recurring documented descriptions.
+- Exact transistor and diode part numbers are unknown.
+- No named classic clone lineage is assigned.
+
+## Branding / history
+The archive keeps the NYC row because the historical catalog used Big Ear n.y.c. branding, but the surviving evidence does not establish a separate electronic revision from the later Big Ear Pedals version.
+
+## Research confidence
+- **Identity:** High.
+- **Silicon fuzz classification:** High.
+- **Three-control layout:** High.
+- **Separate NYC circuit revision:** Not established.
+
+## Deep research verification
+Reverb's model record was compared with current Big Ear product coverage. The archive preserves the branding distinction without inventing an electrical or sonic difference that the surviving evidence does not support.
 
 ## Sources checked
-1. Reverb LOAF product record: https://reverb.com/p/big-ear-pedals-loaf
-2. Guitar Pedal X LOAF coverage: https://www.guitarpedalx.com/news/news/big-ear-pedals-celebrates-10-years-of-the-loaf-fuzz-with-a-special-matt-hoopes-low-end-enhanced-edition
-3. BIG EAR official site: https://www.bigearpedals.com/
+1. Reverb - BIG EAR Pedals LOAF: https://reverb.com/p/big-ear-pedals-loaf
+2. BIG EAR pedals: https://www.bigearpedals.com/
+3. Guitar Pedal X - LOAF coverage: https://www.guitarpedalx.com/news/news/big-ear-pedals-celebrates-10-years-of-the-loaf-fuzz-with-a-special-matt-hoopes-low-end-enhanced-edition
 
 ## Photo
-- **Archive status:** **No Photo Archived**
-- Stable direct archival image was not promoted during this pass.
+- **Archive status:** **Exact Photo Pending**
+- No local canonical image was promoted in this pass.
