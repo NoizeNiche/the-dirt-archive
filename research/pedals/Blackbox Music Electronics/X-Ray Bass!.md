@@ -25,3 +25,5 @@ Effects Database dates the Blackbox X-Ray family to the 2001 product generation 
 
 ## Photo
 - Exact photo pending.
+## Deep research verification
+Effects Database documents X-Ray Bass! as the bass-oriented member of the Blackbox X-Ray family, preserving low-frequency content while covering boost, overdrive and distortion. Verified controls are **More, Drive, Louder**. More spans cleaner boost through overdrive/distortion, while Drive adds post-boost gain and can itself distort at higher settings. The model belongs to the 2001 Blackbox generation and is listed separately from standard X-Ray.
