@@ -22245,7 +22245,7 @@
   {
     "builder": "Maxon",
     "pedal": "OD-9",
-    "image": null,
+    "image": "./assets/pedals/maxon/od-9/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Maxon/OD-9.md"
   },
@@ -23876,7 +23876,7 @@
   {
     "builder": "MXR",
     "pedal": "Dookie Drive V4",
-    "image": null,
+    "image": "./assets/pedals/mxr/dookie-drive-v4/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/MXR/Dookie Drive V4.md"
   },
@@ -24212,7 +24212,7 @@
   {
     "builder": "Mythos Pedals",
     "pedal": "Golden Fleece Fuzz",
-    "image": null,
+    "image": "./assets/pedals/mythos-pedals/golden-fleece-fuzz/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Mythos Pedals/Golden Fleece Fuzz.md"
   },
@@ -24359,7 +24359,7 @@
   {
     "builder": "NUX Audio / NUX",
     "pedal": "Fireman",
-    "image": null,
+    "image": "./assets/pedals/nux-audio-nux/fireman/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/NUX Audio / NUX/Fireman.md"
   },
@@ -24758,7 +24758,7 @@
   {
     "builder": "Origin Effects",
     "pedal": "Halcyon Green Overdrive",
-    "image": null,
+    "image": "./assets/pedals/origin-effects/halcyon-green-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Origin Effects/Halcyon Green Overdrive.md"
   },
@@ -24779,7 +24779,7 @@
   {
     "builder": "Origin Effects",
     "pedal": "RD COMPACT Hot Rod — amp-recreation high-gain drive",
-    "image": null,
+    "image": "./assets/pedals/origin-effects/rd-compact-hot-rod-amp-recreation-high-gain-drive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Origin Effects/RD COMPACT Hot Rod — amp-recreation high-gain drive.md"
   },
@@ -24856,14 +24856,14 @@
   {
     "builder": "Outlaw Effects",
     "pedal": "The Snitch 2-Mode Distortion",
-    "image": null,
+    "image": "./assets/pedals/outlaw-effects/the-snitch-2-mode-distortion/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Outlaw Effects/The Snitch 2-Mode Distortion.md"
   },
   {
     "builder": "Outlaw Effects",
     "pedal": "Widow Maker Metal Distortion",
-    "image": null,
+    "image": "./assets/pedals/outlaw-effects/widow-maker-metal-distortion/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Outlaw Effects/Widow Maker Metal Distortion.md"
   },
@@ -24905,14 +24905,14 @@
   {
     "builder": "Ovaltone",
     "pedal": "HEAVY BLOW BASS-OVERDRIVE",
-    "image": null,
+    "image": "./assets/pedals/ovaltone/heavy-blow-bass-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Ovaltone/HEAVY BLOW BASS-OVERDRIVE.md"
   },
   {
     "builder": "Ovaltone",
     "pedal": "MERKAVA OVERDRIVE",
-    "image": null,
+    "image": "./assets/pedals/ovaltone/merkava-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Ovaltone/MERKAVA OVERDRIVE.md"
   },
@@ -24926,7 +24926,7 @@
   {
     "builder": "Ovaltone",
     "pedal": "TM4086+ REV. 1.2",
-    "image": null,
+    "image": "./assets/pedals/ovaltone/tm4086-rev-1-2/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Ovaltone/TM4086+ REV. 1.2.md"
   },
@@ -25045,7 +25045,7 @@
   {
     "builder": "Pettyjohn Electronics",
     "pedal": "IRON3",
-    "image": null,
+    "image": "./assets/pedals/pettyjohn-electronics/iron3/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Pettyjohn Electronics/IRON3.md"
   },
@@ -25066,42 +25066,42 @@
   {
     "builder": "Pettyjohn Electronics",
     "pedal": "ROUS",
-    "image": null,
+    "image": "./assets/pedals/pettyjohn-electronics/rous/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Pettyjohn Electronics/ROUS.md"
   },
   {
     "builder": "Phaez Amplification",
     "pedal": "Alligator Overdrive",
-    "image": null,
+    "image": "./assets/pedals/phaez-amplification/alligator-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Phaez Amplification/Alligator Overdrive.md"
   },
   {
     "builder": "Phaez Amplification",
     "pedal": "Daisycutter",
-    "image": null,
+    "image": "./assets/pedals/phaez-amplification/daisycutter/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Phaez Amplification/Daisycutter.md"
   },
   {
     "builder": "Phaez Amplification",
     "pedal": "Emperor Distortion",
-    "image": null,
+    "image": "./assets/pedals/phaez-amplification/emperor-distortion/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Phaez Amplification/Emperor Distortion.md"
   },
   {
     "builder": "Phaez Amplification",
     "pedal": "Iron Viper",
-    "image": null,
+    "image": "./assets/pedals/phaez-amplification/iron-viper/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Phaez Amplification/Iron Viper.md"
   },
   {
     "builder": "Phaez Amplification",
     "pedal": "M Class Distortion",
-    "image": null,
+    "image": "./assets/pedals/phaez-amplification/m-class-distortion/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Phaez Amplification/M Class Distortion.md"
   },
@@ -25129,14 +25129,14 @@
   {
     "builder": "Pigtronix",
     "pedal": "Bass FAT Drive",
-    "image": null,
+    "image": "./assets/pedals/pigtronix/bass-fat-drive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Pigtronix/Bass FAT Drive.md"
   },
   {
     "builder": "Pigtronix",
     "pedal": "Disnortion",
-    "image": null,
+    "image": "./assets/pedals/pigtronix/disnortion/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Pigtronix/Disnortion.md"
   },

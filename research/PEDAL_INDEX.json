@@ -43175,7 +43175,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/maxon/od-9/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Maxon/OD-9.md",
       "research_level": "surface",
@@ -46039,7 +46039,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/mxr/dookie-drive-v4/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/MXR/Dookie Drive V4.md",
       "research_level": "surface",
@@ -46622,7 +46622,7 @@
         "Distortion",
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/mythos-pedals/golden-fleece-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mythos Pedals/Golden Fleece Fuzz.md",
       "research_level": "surface",
@@ -46876,7 +46876,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/nux-audio-nux/fireman/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/NUX Audio / NUX/Fireman.md",
       "research_level": "surface",
@@ -47565,7 +47565,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/origin-effects/halcyon-green-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Origin Effects/Halcyon Green Overdrive.md",
       "research_level": "deep",
@@ -47601,7 +47601,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/origin-effects/rd-compact-hot-rod-amp-recreation-high-gain-drive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Origin Effects/RD COMPACT Hot Rod — amp-recreation high-gain drive.md",
       "research_level": "surface",
@@ -47734,7 +47734,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/outlaw-effects/the-snitch-2-mode-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Outlaw Effects/The Snitch 2-Mode Distortion.md",
       "research_level": "deep",
@@ -47746,7 +47746,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/outlaw-effects/widow-maker-metal-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Outlaw Effects/Widow Maker Metal Distortion.md",
       "research_level": "deep",
@@ -47819,7 +47819,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/ovaltone/heavy-blow-bass-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Ovaltone/HEAVY BLOW BASS-OVERDRIVE.md",
       "research_level": "deep",
@@ -47831,7 +47831,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/ovaltone/merkava-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Ovaltone/MERKAVA OVERDRIVE.md",
       "research_level": "deep",
@@ -47855,7 +47855,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/ovaltone/tm4086-rev-1-2/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Ovaltone/TM4086+ REV. 1.2.md",
       "research_level": "deep",
@@ -48064,7 +48064,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/pettyjohn-electronics/iron3/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Pettyjohn Electronics/IRON3.md",
       "research_level": "surface",
@@ -48101,7 +48101,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/pettyjohn-electronics/rous/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Pettyjohn Electronics/ROUS.md",
       "research_level": "deep",
@@ -48113,7 +48113,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/phaez-amplification/alligator-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Phaez Amplification/Alligator Overdrive.md",
       "research_level": "surface",
@@ -48125,7 +48125,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/phaez-amplification/daisycutter/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Phaez Amplification/Daisycutter.md",
       "research_level": "deep",
@@ -48137,7 +48137,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/phaez-amplification/emperor-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Phaez Amplification/Emperor Distortion.md",
       "research_level": "surface",
@@ -48149,7 +48149,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/phaez-amplification/iron-viper/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Phaez Amplification/Iron Viper.md",
       "research_level": "surface",
@@ -48161,7 +48161,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/phaez-amplification/m-class-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Phaez Amplification/M Class Distortion.md",
       "research_level": "surface",
@@ -48209,7 +48209,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/pigtronix/bass-fat-drive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Pigtronix/Bass FAT Drive.md",
       "research_level": "deep",
@@ -48223,7 +48223,7 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/pigtronix/disnortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Pigtronix/Disnortion.md",
       "research_level": "surface",
