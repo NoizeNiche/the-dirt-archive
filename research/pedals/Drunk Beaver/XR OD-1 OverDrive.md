@@ -1,55 +1,41 @@
 # Drunk Beaver — XR OD-1 OverDrive
 
-## PRP identity
-- **Archive parent:** XR OD-1 OverDrive
+## Surface catalog record
 - **Builder:** Drunk Beaver
+- **Pedal:** XR OD-1 OverDrive
 - **Catalog type:** Overdrive
-- **Identity:** Drunk Beaver's XR OD-1 OverDrive.
+- **Research level:** Deep
+- **Deep research status:** Verified
+- **Identity basis:** Drunk Beaver's product page identifies XR OD-1 as a compact recreation of a classic Exar overdrive circuit.
 
 ## What this pedal is
-Drunk Beaver's XR OD-1 OverDrive is cataloged as a Overdrive pedal.
+The **Drunk Beaver XR OD-1 OverDrive** is an overdrive in the XR series. Drunk Beaver describes it as a recreation of a classic circuit using **high-quality SMD components** in a compact, affordable enclosure. The product description says it covers the range from warm boost to singing overdrive. [1]
 
-## Colorways
-- No specific factory colorway information was established in the verified evidence packet.
+A Reverb exact-model listing from 2024 corroborates the XR OD-1 identity and period production context. [2]
 
-## Versions and factory options
-- No distinct factory revision was established in the verified evidence packet.
+## Technical evidence boundary
+The reviewed sources establish the circuit recreation concept and SMD implementation but do not provide a complete schematic, exact transistor/diode inventory, or universal component BOM.
 
-## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+The archive therefore does not import semiconductor details from related Exar, DOD, or Boss products without a model-specific source.
 
-## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
-- **Exact transistor/device:** Unknown.
+## Historical context
+The XR OD-1 belongs to Drunk Beaver's XR-series approach of compact recreations of historical Polish/European circuits. Exact first-release and discontinuation dates were not established in this pass.
 
-## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
-- **Exact part:** Unknown.
-
-## Sound
-Drunk Beaver Pedals XR OD-1 OverDrive | Drunk Beaver Pedals Skip to main content Log In Light mode Sound effects EN English Polski Drunk Beaver EN English Polski $ International (USD) European Union (EUR) Poland (PLN) Menu Pedals Dirt Overdrive XR OD-1 OverDrive XR OD-1 OverDrive Budget-friendly Exar overdrive with rich low-end and classic grit 5.0 based on 1 review 90 $ Add to cart Description Experience a legendary overdrive tone without breaking the bank with the Drunk Beaver XR series OD-1 OverDrive .
-We've meticulously recreated this classic circuit using high-quality SMD components for a compact, affordable design without compromising tone.
-The XR series OD-1 delivers everything from warm boost to singing overdrive, making it an essential addition to any pedalboard.
-
-## Sources checked
-1. Drunk Beaver Pedals XR OD-1 OverDrive | Drunk Beaver Pedals: https://drunk-beaver.rocks/products/xr-od-1
-2. Drunk Beaver XR OD-1 Overdrive 2024 - Reverb: https://reverb.com/item/87286408-drunk-beaver-xr-od-1-overdrive-2024
+## Specifications
+- **Model:** XR OD-1 OverDrive
+- **Type:** Overdrive
+- **Architecture:** compact recreation of a classic Exar overdrive circuit
+- **Construction:** SMD implementation described by manufacturer
+- **Historical evidence:** 2024 exact-model secondary listing
+- **Factory BOM:** not established in this pass
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive photo:** No verified local photo is currently archived for XR OD-1.
+- External product imagery is not counted as archive-local photo coverage.
 
-## Deep research verification
+## Research evidence
+**Sources checked:**
+1. https://drunk-beaver.rocks/products/xr-od-1 — manufacturer product page, circuit recreation and SMD construction description.
+2. https://reverb.com/item/87286408-drunk-beaver-xr-od-1-overdrive-2024 — exact-model 2024 secondary listing.
 
-This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
-
-### Verified description
-Drunk Beaver's XR OD-1 OverDrive is cataloged as an overdrive pedal.
-
-### Verified sound evidence
-Drunk Beaver Pedals XR OD-1 OverDrive
-We've meticulously recreated this classic circuit using high-quality SMD components for a compact, affordable design without compromising tone.
-The XR series OD-1 delivers everything from warm boost to singing overdrive, making it an essential addition to any pedalboard.
-
-### Sources checked in this pass
-1. Drunk Beaver Pedals XR OD-1 OverDrive | Drunk Beaver Pedals: https://drunk-beaver.rocks/products/xr-od-1
-2. Drunk Beaver XR OD-1 Overdrive 2024 - Reverb: https://reverb.com/item/87286408-drunk-beaver-xr-od-1-overdrive-2024
+**Research confidence:** High for model identity, overdrive taxonomy, and SMD recreation claim; moderate for production chronology and circuit-level details.
