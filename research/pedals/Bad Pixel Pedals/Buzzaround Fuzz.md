@@ -1,63 +1,70 @@
-# Bad Pixel Pedals - Buzzaround Fuzz
+# Bad Pixel Pedals — Buzzaround Fuzz
 
 ## PRP identity
 - **Archive parent:** Buzzaround Fuzz
 - **Builder:** Bad Pixel Pedals
 - **Catalog type:** Fuzz
-- **Identity:** Handmade Buzzaround-style fuzz using NOS Soviet germanium parts and point-to-point construction.
+- **Identity:** Handmade Buzzaround-style fuzz using three NOS Soviet MP20/26 germanium transistors and a NOS Soviet **D9E germanium diode**, with point-to-point construction. [1][2]
 
 ## What this pedal is
-Bad Pixel's Buzzaround Fuzz uses a point-to-point layout with three NOS Soviet germanium transistors and a NOS Soviet D9E germanium diode. The builder houses it in a polished Hammond aluminum enclosure and uses true bypass.
+Bad Pixel's Buzzaround is a faithful modern recreation of the classic Baldwin-Burns Buzzaround style. The builder uses a vintage-oriented germanium component set and point-to-point construction, while retaining modern true-bypass and external-power conveniences. [1]
 
-## Colorways
-- A documented production build uses a **polished/silver aluminum Hammond enclosure with chemically etched graphics**.
-- No complete factory colorway chronology was verified.
+## Circuit lineage
+- **Primary lineage:** Baldwin-Burns Buzzaround.
+- This is a circuit-family recreation, not a claim of original Baldwin-Burns manufacture or affiliation. [1][2]
 
-## Versions and factory options
-### Buzzaround Fuzz
-- Point-to-point construction
-- 3x NOS USSR MP20/26 germanium transistors
-- NOS USSR D9E germanium diode
-- Alpha pots
-- Neutrik jacks
-- Hammond aluminum enclosure
-- Chemical etching
-- True bypass
-- 9 V battery or standard negative-tip adapter
-- Positive-ground circuit
-
-## Version changes
-No numbered factory revision was verified in the checked sources.
+## Controls / architecture
+- Buzzaround-style fuzz control set.
+- External output and fuzz/bias functions vary by documented build.
+- True bypass.
+- Point-to-point construction. [1][2]
 
 ## Transistor
-- **Technology:** Germanium fuzz.
-- **Documented devices:** 3x NOS USSR **MP20/26** germanium transistors.
+- **3 × NOS USSR MP20/26 germanium transistors.**
+- Exact gain/leakage measurements for the individual trio are not published in the reviewed sources. [1][2]
 
 ## Diode
-- **Documented diode:** NOS USSR **D9E germanium diode**.
+- **NOS USSR D9E germanium diode:** documented for the builder's Buzzaround. [1]
+- Exact date code / individual electrical measurements are not published.
+
+## Construction / hardware
+- NOS USSR components.
+- Alpha potentiometers.
+- Neutrik jacks.
+- Hammond aluminum enclosure.
+- Chemical/etched graphics.
+- **Positive-ground** circuit. [1][2]
+
+## Power
+- **9V battery**.
+- Standard negative-tip adapter is documented.
+- Because the circuit is positive ground, conventional daisy-chain use with negative-ground pedals is not appropriate. [2]
+
+## Version history
+- No numbered production revision established.
+- Individual finishes are not treated as electronic versions.
 
 ## Sound
-Bad Pixel describes the Buzzaround as capable of strong cleanup from the guitar volume control while retaining the long, sustained character associated with the circuit family. The builder also describes the available settings as ranging from more controlled tones into heavier, sustaining fuzz.
+Bad Pixel describes the Buzzaround as capable of strong cleanup from the guitar volume while retaining the long-sustain character associated with the Tone Bender/Buzzaround family. [1]
+
+## Research confidence
+- **Identity:** High
+- **Buzzaround lineage:** High
+- **3 × MP20/26:** High
+- **D9E diode:** High
+- **Point-to-point / positive ground:** High
+- **Exact transistor measurements:** Unknown
+- **Exact date codes:** Unknown
+
+## Deep research verification
+The builder Buzzaround page and an exact Reverb listing were cross-checked. The detailed component list supports MP20/26 germanium transistors, D9E germanium diode, point-to-point construction and positive-ground operation. [1][2]
 
 ## Sources checked
-1. Bad Pixel Pedals, Buzzaround Fuzz: https://badpixel.weebly.com/buzzaround.html
-2. Reverb UK, Bad Pixel Buzzaround Fuzz: https://reverb.com/uk/item/1896969-bad-pixel-buzzaround-fuzz
-3. Guitar Pedal X, Best of Greek Guitar Pedals and Pedal Builders (2019): https://www.guitarpedalx.com/news/best-of-greek-guitar-pedals-and-pedal-builders
+1. Bad Pixel Pedals — Buzzaround Fuzz: https://badpixel.weebly.com/buzzaround.html
+2. Reverb — Bad Pixel Buzzaround Fuzz: https://reverb.com/uk/item/1896969-bad-pixel-buzzaround-fuzz
+3. Guitar Pedal X — Greek pedal builders: https://www.guitarpedalx.com/news/best-of-greek-guitar-pedals-and-pedal-builders
 
 ## Photo
 - **Archive status:** **Exact Photo Attached to Public Catalog**
 - **Exact-model image:** https://badpixel.weebly.com/uploads/2/6/5/7/26575514/8171506_orig.jpg
 - **Source page:** https://badpixel.weebly.com/buzzaround.html
-
-## Deep research verification
-
-This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
-
-### Verified description
-Bad Pixel Pedals's Buzzaround Fuzz is cataloged as a fuzz pedal.
-
-### Verified sound evidence
-It cleans very well [almost like a fuzz face] but then when you open the volume pot it will kick you a tone of Tone Bender sustain.
-
-### Sources checked in this pass
-1. BUZZAROUND - Bad Pixel Pedals: https://badpixel.weebly.com/buzzaround.html
