@@ -1,6 +1,6 @@
 {
   "version": "data-20260924-prp1-cbs-arbiter-fuzz-phazer-direct-lead",
-  "count": 4194,
+  "count": 4204,
   "pedals": [
     {
       "company": "1981 Inventions",
@@ -56597,6 +56597,131 @@
       "image": null,
       "source_page": "https://landdevices.com/collections/catalog",
       "research_record": "./research/pedals/Land Devices/Moonbow.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "LICHTLÆRM AUDIO",
+      "pedal": "Altar",
+      "types": [
+        "Overdrive",
+        "Fuzz",
+        "Distortion"
+      ],
+      "image": null,
+      "source_page": "https://lichtlaermaudio.com/shop/altar",
+      "research_record": "./research/pedals/LICHTLÆRM AUDIO/Altar.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "LICHTLÆRM AUDIO",
+      "pedal": "Medusa",
+      "types": [
+        "Distortion"
+      ],
+      "image": null,
+      "source_page": "https://lichtlaermaudio.com/shop",
+      "research_record": "./research/pedals/LICHTLÆRM AUDIO/Medusa.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "LICHTLÆRM AUDIO",
+      "pedal": "Ragnarøk",
+      "types": [
+        "Distortion",
+        "Overdrive"
+      ],
+      "image": null,
+      "source_page": "https://lichtlaermaudio.com/shop",
+      "research_record": "./research/pedals/LICHTLÆRM AUDIO/Ragnarøk.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "LICHTLÆRM AUDIO",
+      "pedal": "Total Distortion Worship MKII",
+      "types": [
+        "Distortion",
+        "Overdrive"
+      ],
+      "image": null,
+      "source_page": "https://lichtlaermaudio.com/shop/tdw",
+      "research_record": "./research/pedals/LICHTLÆRM AUDIO/Total Distortion Worship MKII.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "LICHTLÆRM AUDIO",
+      "pedal": "Thorn",
+      "types": [
+        "Distortion"
+      ],
+      "image": null,
+      "source_page": "https://lichtlaermaudio.com/shop",
+      "research_record": "./research/pedals/LICHTLÆRM AUDIO/Thorn.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "LICHTLÆRM AUDIO",
+      "pedal": "Gehenna",
+      "types": [
+        "Distortion",
+        "Overdrive"
+      ],
+      "image": null,
+      "source_page": "https://lichtlaermaudio.com/shop",
+      "research_record": "./research/pedals/LICHTLÆRM AUDIO/Gehenna.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "LICHTLÆRM AUDIO",
+      "pedal": "The King in Yellow",
+      "types": [
+        "Overdrive"
+      ],
+      "image": null,
+      "source_page": "https://lichtlaermaudio.com/shop",
+      "research_record": "./research/pedals/LICHTLÆRM AUDIO/The King in Yellow.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "LICHTLÆRM AUDIO",
+      "pedal": ".Ritual.",
+      "types": [
+        "Distortion"
+      ],
+      "image": null,
+      "source_page": "https://lichtlaermaudio.com/shop/ritual",
+      "research_record": "./research/pedals/LICHTLÆRM AUDIO/.Ritual..md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "LICHTLÆRM AUDIO",
+      "pedal": "Aquaria",
+      "types": [
+        "Overdrive"
+      ],
+      "image": null,
+      "source_page": "https://lichtlaermaudio.com/shop/aquaria",
+      "research_record": "./research/pedals/LICHTLÆRM AUDIO/Aquaria.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Does It Doom?",
+      "pedal": "Fuzzcoven",
+      "types": [
+        "Fuzz"
+      ],
+      "image": null,
+      "source_page": "https://doesitdoom.com/product/fuzzcoven/",
+      "research_record": "./research/pedals/Does It Doom?/Fuzzcoven.md",
       "research_level": "surface",
       "deep_research_status": "PENDING"
     }
