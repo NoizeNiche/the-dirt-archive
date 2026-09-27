@@ -1,23 +1,42 @@
 # ProCo Sound — FAT RAT
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** FAT RAT
 - **Builder:** ProCo Sound
-- **Pedal:** FAT RAT
 - **Catalog type:** Distortion / Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** ProCo Sound's FAT RAT.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **FAT RAT** by **ProCo Sound** as a **Distortion / Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Product variants Default Title - $179.00 Quantity ( 0 in cart) Decrease quantity for ProCo Sound FAT RAT Increase quantity for ProCo Sound FAT RAT Add to cart Couldn't load pickup availability Refresh The FATRAT is the newest member of the RAT family.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- The verified evidence references: v15.
+- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Documented terms in the verified sources: LED.
+- The archive records only the component information explicitly present in these sources.
+
+## Sound
+The mosfet clipping section gives you subtle scoop and smoothing in the upper mids throughout the entire gain range of the pedal, and makes the pedal sound more amp-like and natural.
+Large, CTS Pots: They give you a smooth, even sweep throughout the range of the Distortion, Filter, and Volume controls, allowing you easy access to the myriad of sweet spots in the tone machine.
+Fat Switch: Provides a significant bass boost and simultaneous high cut – this makes the pedal more suitable for bass guitar, lower tunings, as well as fattening up and smoothing low gain settings, making this a good candidate for overdrive use.
+
+## Sources checked
+1. ProCo Sound FAT RAT &ndash; Lonestar Music Depot: https://lonestarmusicdepot.com/products/proco-sound-fat-rat
+2. ProCo Sound FAT RAT 703272234660| eBay: https://www.ebay.com/itm/137475394462
+3. ProCo Sound Fat Rat - Distortion - Audiofanzine: https://en.audiofanzine.com/guitar-distortion-overdrive-fuzz/proco-sound/fat-rat/
+4. ProCo Sound FAT RAT - Reverb: https://reverb.com/item/99057817-proco-sound-fat-rat
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

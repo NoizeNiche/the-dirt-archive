@@ -1,23 +1,40 @@
 # King Tone Guitar — Duellist V3
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Duellist V3
 - **Builder:** King Tone Guitar
-- **Pedal:** Duellist V3
 - **Catalog type:** Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** King Tone Guitar's Duellist V3.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Duellist V3** by **King Tone Guitar** as a **Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+King Tone Guitar's Duellist V3 is cataloged as an overdrive pedal.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- The verified evidence references: V3, v3.
+- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+Condition: Brand New KING TONE GUITA
+
+## Sources checked
+1. Duellist V3 by KING TONE GUITAR &ndash; Ikebe Musical Instruments Store: https://global.ikebe-gakki.com/products/861698
+2. King Tone Guitar The Duellist V3 - Bucket List Guitars: https://bucketlistguitars.com/product/king-tone-guitar-the-duellist-v3/
+3. KING TONE GUITAR Duellist V3 - Reverb: https://reverb.com/item/98760225-king-tone-guitar-duellist-v3
+4. King Tone Guitar Duellist v3 | Uni•Sound: https://www.uni-sound.hk/product-page/king-tone-guitar-duellist-v3
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

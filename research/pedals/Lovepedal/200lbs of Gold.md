@@ -1,23 +1,43 @@
 # Lovepedal — 200lbs of Gold
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** 200lbs of Gold
 - **Builder:** Lovepedal
-- **Pedal:** 200lbs of Gold
 - **Catalog type:** Fuzz / Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Lovepedal's 200lbs of Gold.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **200lbs of Gold** by **Lovepedal** as a **Fuzz / Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Lovepedal's 200lbs of Gold is cataloged as a fuzz / overdrive pedal.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- Drive side is the excellent Purple Plexi and the boost side is a Church Of Tone which is itself sorta Brit-flavored.
+- If you already have the Plexi tone covered and want killer overdrive with clean boost, you'll love the 200lbs Of Gold.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Documented terms in the verified sources: BC178.
+- The archive records only the component information explicitly present in these sources.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+Thread starter Thread starter Bruce R Start date Start date Apr 15, 2021 Bruce R Member Apr 15, 2021 #1 I may be needing a two-button overdrive on a second pedalboard I am putting together.
+I do enjoy Plexi-style tone and having a two-stage gain+boost is something I want to utilize.
+Excels at big fuzzy sound (has been compared to Disraeli Gears-era Cream tone) but also does well as a medium gain fattener with great sustain.
+
+## Sources checked
+1. Lovepedal 200lbs of Gold - Reverb: https://reverb.com/p/lovepedal-200lbs-of-gold
+2. Lovepedal 200lbs of Gold - BC178 - Fuzz + Boost - Metallic Blue - eBay: https://www.ebay.com/itm/800136278127
+3. Used Lovepedal 200LBS OF GOLD Effect Pedal | Guitar Center: https://www.guitarcenter.com/Used/Lovepedal/Used-Lovepedal-200LBS-OF-GOLD-Effect-Pedal-122454216.gc
+4. 5lb Bag of Gold Fuzz (Lovepedal 200lbs of Gold - Fuzz side): https://forum.pedalpcb.com/threads/5lb-bag-of-gold-fuzz-lovepedal-200lbs-of-gold-fuzz-side.14409/
+5. Thoughts on Lovepedal 200lb Of Gold? | Seymour Duncan Forums: https://forum.seymourduncan.com/threads/thoughts-on-lovepedal-200lb-of-gold.6074043/
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
