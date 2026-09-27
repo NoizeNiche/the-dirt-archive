@@ -3,13 +3,13 @@
 
 The active production phase is **Catalog Research Phase**. PRP1 is retained only as a legacy publication/closeout mechanism.
 
-Live catalog: **4242 total / 4242 surface-ready / 2108 deep-researched / 3750 research-linked / 3107 pictured / 3107 complete / 0 surface-missing / 2134 deep-research-pending / 643 researched-photo-pending**.
+Live catalog: **4242 total / 4242 surface-ready / 2109 deep-researched / 3750 research-linked / 3107 pictured / 3107 complete / 0 surface-missing / 2133 deep-research-pending / 643 researched-photo-pending**.
 
 **Next deep-research target:** Bad Penny FX - Fuzz Controller Germanium.
 
 PRP1 closeout remains separate: 643 researched record(s) still lack an exact local photo.
 The research queue is generated from the canonical catalog and tracker; do not hand-edit the derived queue.
-Last refreshed: 2026-09-27T08:37:29.269274+00:00
+Last refreshed: 2026-09-27T08:40:03.138586+00:00
 <!-- AUTO:RESEARCH_PHASE_END -->
 
 ## Historical checkpoints

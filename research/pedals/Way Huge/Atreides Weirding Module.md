@@ -1,23 +1,38 @@
 # Way Huge — Atreides Weirding Module
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Atreides Weirding Module
 - **Builder:** Way Huge
-- **Pedal:** Atreides Weirding Module
 - **Catalog type:** Fuzz
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Way Huge's Atreides Weirding Module.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Atreides Weirding Module** by **Way Huge** as a **Fuzz** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Way Huge's Atreides Weirding Module is cataloged as a fuzz pedal.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+The verified evidence packet did not contain enough pedal-specific sonic description to make a more detailed sound summary without adding unsupported interpretation.
+
+## Sources checked
+1. Way Huge Atreides Weirding Module Pedal Settings: https://www.guitarchalk.com/way-huge-atreides-weirding-module-settings/
+2. PDF WHE900 WAY HUGE ATREIDES WEIRDING MODULE - moridaira.jp: https://moridaira.jp/dl/wayhuge/manuals/WHE900.pdf
+3. PDF WHE900 WAY HUGE ATREIDES WEIRDING MODULE - Dunlop Manufacturing: https://www.jimdunlop.com/content/manuals/WHE900.pdf
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
