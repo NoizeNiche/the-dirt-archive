@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-27T09:05:43.175071+00:00",
+  "generated_at": "2026-09-27T09:09:12.122337+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,8 +10,8 @@
     "pictured": 3123,
     "complete": 3123,
     "research_pending": 0,
-    "deep_research_pending": 2130,
-    "deep_researched": 2112,
+    "deep_research_pending": 2125,
+    "deep_researched": 2117,
     "surface_ready": 4242
   },
   "next_target": {
@@ -34,13 +34,6 @@
       "pedal": "Lollygagger Overdrive",
       "catalog_type": "",
       "research_record": "./research/pedals/Bad Penny FX/Lollygagger Overdrive.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Bad Penny FX",
-      "pedal": "Morse Fuzz Mini",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Bad Penny FX/Morse Fuzz Mini.md",
       "research_level": "surface"
     },
     {
@@ -76,34 +69,6 @@
       "pedal": "F#@k You Tube Drive-Boost",
       "catalog_type": "",
       "research_record": "./research/pedals/Bad Pixel Pedals/F#@k You Tube Drive-Boost.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Baja Tech Custom",
-      "pedal": "Bone Bender 1.5",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Baja Tech Custom/Bone Bender 1.5.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Baja Tech Custom",
-      "pedal": "Bone Bender MKII",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Baja Tech Custom/Bone Bender MKII.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Baja Tech Custom",
-      "pedal": "Da MOAF Deluxe",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Baja Tech Custom/DaMOAF Deluxe.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Baja Tech Custom",
-      "pedal": "Real Tube Overdrive",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Baja Tech Custom/Real Tube Overdrive.md",
       "research_level": "surface"
     },
     {
@@ -195,6 +160,41 @@
       "pedal": "Heavy-D",
       "catalog_type": "",
       "research_record": "./research/pedals/BBE/Heavy-D.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "BBE",
+      "pedal": "Windowpane - Silicon Fuzz",
+      "catalog_type": "",
+      "research_record": "./research/pedals/BBE/Windowpane - Silicon Fuzz.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Beetronics",
+      "pedal": "Abelha Tropical Fuzz",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Beetronics/Abelha Tropical Fuzz.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Beetronics",
+      "pedal": "Fatbee Overdrive",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Beetronics/Fatbee Overdrive.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Beetronics",
+      "pedal": "Octahive v2 High Octave Buzz",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Beetronics/Octahive v2 High Octave Buzz.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Beetronics",
+      "pedal": "Overhive Mid-Gain Overdrive",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Beetronics/Overhive Mid-Gain Overdrive.md",
       "research_level": "surface"
     }
   ]
