@@ -1,23 +1,39 @@
 # Mid-Fi Electronics — Clari(not) Fuzz
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Clari(not) Fuzz
 - **Builder:** Mid-Fi Electronics
-- **Pedal:** Clari(not) Fuzz
 - **Catalog type:** Fuzz
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Mid-Fi Electronics's Clari(not) Fuzz.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Clari(not) Fuzz** by **Mid-Fi Electronics** as a **Fuzz** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Mid-Fi Electronics's Clari(not) Fuzz is cataloged as a fuzz pedal.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- The verified evidence references: v2.
+- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+The verified evidence packet did not contain enough pedal-specific sonic description to make a more detailed sound summary without adding unsupported interpretation.
+
+## Sources checked
+1. Mid-Fi Electronics Clari(not) Fuzz Pedal - Equipboard: https://equipboard.com/items/mid-fi-electronics-clari-not-fuzz
+2. Mid-Fi Electronics Clari (not) Fuzz Version v2 Delay Clone: https://reverb.com/item/101697493-mid-fi-electronics-clari-not-fuzz-version-v2-delay-clone
+3. Not So Clear - Mid-Fi Electronics Clari(not) Fuzz Clone - Five Cats Pedals: https://www.five-cats-pedals.co.uk/product/not-so-clear-mid-fi-electronics-clarinot-fuzz-clone/
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
