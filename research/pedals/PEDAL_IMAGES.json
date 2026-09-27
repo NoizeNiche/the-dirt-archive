@@ -323,7 +323,8 @@
     "pedal": "Rocks Hard",
     "image": null,
     "source_page": "https://www.effectsdatabase.com/model/aboveground/rockshard",
-    "research_record": "./research/pedals/AboveGroundFX/Rocks Hard.md"
+    "research_record": "./research/pedals/AboveGroundFX/Rocks Hard.md",
+    "image_source_page": "https://www.effectsdatabase.com/model/aboveground/rockshard"
   },
   {
     "builder": "Absolutely Analog",
@@ -401,7 +402,8 @@
     "pedal": "Stompzilla Fuzz",
     "image": null,
     "source_page": "https://www.effectsdatabase.com/model/accel/stompzilla",
-    "research_record": "./research/pedals/Accel Audio/Stompzilla Fuzz.md"
+    "research_record": "./research/pedals/Accel Audio/Stompzilla Fuzz.md",
+    "image_source_page": "https://www.effectsdatabase.com/model/accel/stompzilla"
   },
   {
     "builder": "Accel Audio",
@@ -648,7 +650,8 @@
     "pedal": "Der Fuzzer",
     "image": null,
     "source_page": "https://www.effectsdatabase.com/model/addplus/derfuzzer",
-    "research_record": "./research/pedals/Add+ Pedals/Der Fuzzer.md"
+    "research_record": "./research/pedals/Add+ Pedals/Der Fuzzer.md",
+    "image_source_page": "https://www.effectsdatabase.com/model/addplus/derfuzzer"
   },
   {
     "builder": "Add+ Pedals",
@@ -11641,7 +11644,8 @@
     "image": null,
     "source_page": null,
     "research_record": "./research/pedals/CBS-Arbiter/CBS-Arbiter Fuzz Phazer.md",
-    "image_source_url": "https://files.effectsdatabase.com/gear/pics/arbiter-cbs_fuzzphazer_001.jpg"
+    "image_source_url": "https://files.effectsdatabase.com/gear/pics/arbiter-cbs_fuzzphazer_001.jpg",
+    "image_source_page": "https://www.effectsdatabase.com/model/arbiter/cbs/fuzzphazer"
   },
   {
     "builder": "CBS-Arbiter",
@@ -13637,14 +13641,16 @@
     "pedal": "COD-1 Pro Over Drive",
     "image": null,
     "source_page": null,
-    "research_record": "./research/pedals/Collins/COD-1 Pro Over Drive.md"
+    "research_record": "./research/pedals/Collins/COD-1 Pro Over Drive.md",
+    "image_source_page": "https://www.effectsdatabase.com/model/collins/1pro"
   },
   {
     "builder": "Collins",
     "pedal": "CSD-1 Pro Super Dust",
     "image": null,
     "source_page": null,
-    "research_record": "./research/pedals/Collins/CSD-1 Pro Super Dust.md"
+    "research_record": "./research/pedals/Collins/CSD-1 Pro Super Dust.md",
+    "image_source_page": "https://www.effectsdatabase.com/model/collins/1pro/csd1"
   },
   {
     "builder": "Collision Devices",
@@ -13912,9 +13918,11 @@
   {
     "builder": "Colorsound / Sola Sound",
     "pedal": "G.B. Fuzz Unit",
-    "image": null,
+    "image": "./assets/pedals/colorsound-sola-sound/g-b-fuzz-unit/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/Colorsound / Sola Sound/G.B. Fuzz Unit.md"
+    "research_record": "./research/pedals/Colorsound / Sola Sound/G.B. Fuzz Unit.md",
+    "image_source_url": "https://www.kitrae.net/music/Images_Secret_Music_Page/Mistress_mystery_page.jpg",
+    "image_source_page": "https://www.kitrae.net/music/Fuzz_Big_Muff_Timeline.html"
   },
   {
     "builder": "Colorsound / Sola Sound",
@@ -13936,14 +13944,16 @@
     "pedal": "Sola Sound Bum Fuzz Unit",
     "image": null,
     "source_page": null,
-    "research_record": "./research/pedals/Colorsound / Sola Sound/Sola Sound Bum Fuzz Unit.md"
+    "research_record": "./research/pedals/Colorsound / Sola Sound/Sola Sound Bum Fuzz Unit.md",
+    "image_source_page": "https://sites.google.com/site/davidmorrinoldsite/home/trouble/troubleeffects/sola-sound-tone-bender"
   },
   {
     "builder": "Colorsound / Sola Sound",
     "pedal": "Sola Sound Tone Bender",
     "image": null,
     "source_page": null,
-    "research_record": "./research/pedals/Colorsound / Sola Sound/Sola Sound Tone Bender.md"
+    "research_record": "./research/pedals/Colorsound / Sola Sound/Sola Sound Tone Bender.md",
+    "image_source_page": "https://sites.google.com/site/davidmorrinoldsite/home/trouble/troubleeffects/sola-sound-tone-bender"
   },
   {
     "builder": "Colorsound / Sola Sound",
@@ -14012,7 +14022,8 @@
     "pedal": "OVD-5 Overdrive",
     "image": null,
     "source_page": null,
-    "research_record": "./research/pedals/Columbus/OVD-5 Overdrive.md"
+    "research_record": "./research/pedals/Columbus/OVD-5 Overdrive.md",
+    "image_source_page": "https://www.effectsdatabase.com/model/columbus/ovd5"
   },
   {
     "builder": "Columbus",
@@ -14114,7 +14125,8 @@
     "pedal": "Face-Off Fuzz",
     "image": null,
     "source_page": null,
-    "research_record": "./research/pedals/Compulsive Audio/Face-Off Fuzz.md"
+    "research_record": "./research/pedals/Compulsive Audio/Face-Off Fuzz.md",
+    "image_source_page": "https://www.effectsdatabase.com/model/compulsive/fuzz/faceoff"
   },
   {
     "builder": "Compulsive Audio",
@@ -14152,7 +14164,8 @@
     "pedal": "Tone Oracle",
     "image": null,
     "source_page": null,
-    "research_record": "./research/pedals/Compulsive Audio/Tone Oracle.md"
+    "research_record": "./research/pedals/Compulsive Audio/Tone Oracle.md",
+    "image_source_page": "https://www.effectsdatabase.com/model/compulsive/toneoracle"
   },
   {
     "builder": "Compulsive Audio",
@@ -14381,14 +14394,16 @@
     "pedal": "Terra",
     "image": null,
     "source_page": null,
-    "research_record": "./research/pedals/Copilot FX/Terra.md"
+    "research_record": "./research/pedals/Copilot FX/Terra.md",
+    "image_source_page": "https://www.copilotfx.com/terra.html"
   },
   {
     "builder": "Copilot FX",
     "pedal": "Trek",
     "image": null,
     "source_page": null,
-    "research_record": "./research/pedals/Copilot FX/Trek.md"
+    "research_record": "./research/pedals/Copilot FX/Trek.md",
+    "image_source_page": "https://www.copilotfx.com/trek.html"
   },
   {
     "builder": "Copper Gear",
@@ -14402,7 +14417,8 @@
     "pedal": "Brontide Device",
     "image": null,
     "source_page": null,
-    "research_record": "./research/pedals/Copper Gear/Brontide Device.md"
+    "research_record": "./research/pedals/Copper Gear/Brontide Device.md",
+    "image_source_page": "https://www.effectsdatabase.com/model/coppergear/brontide/device"
   },
   {
     "builder": "Copper Gear",
@@ -14503,7 +14519,8 @@
     "pedal": "DS-8 Mouse",
     "image": null,
     "source_page": null,
-    "research_record": "./research/pedals/Cordovox/DS-8 Mouse.md"
+    "research_record": "./research/pedals/Cordovox/DS-8 Mouse.md",
+    "image_source_page": "https://www.effectsdatabase.com/model/cordovox/mouse"
   },
   {
     "builder": "Cordovox",
@@ -14626,7 +14643,8 @@
     "pedal": "Coron Distortion 10",
     "image": null,
     "source_page": null,
-    "research_record": "./research/pedals/Coron/Coron Distortion 10.md"
+    "research_record": "./research/pedals/Coron/Coron Distortion 10.md",
+    "image_source_page": "https://www.effectsdatabase.com/model/coron/first/distortion10"
   },
   {
     "builder": "Coron",
@@ -15085,7 +15103,8 @@
     "pedal": "TONE BENDER M.K Ⅰ. Ⅴ",
     "image": null,
     "source_page": "https://www.c-r-effecter.com/tone-bender",
-    "research_record": "./research/pedals/Crazy Rock'n'Roll Effecter/TONE BENDER M.K Ⅰ. Ⅴ.md"
+    "research_record": "./research/pedals/Crazy Rock'n'Roll Effecter/TONE BENDER M.K Ⅰ. Ⅴ.md",
+    "image_source_page": "https://www.c-r-effecter.com/tone-bender"
   },
   {
     "builder": "Crazy Tube Circuits",
@@ -15657,7 +15676,8 @@
     "pedal": "CRR Klone",
     "image": null,
     "source_page": null,
-    "research_record": "./research/pedals/Critter Electronics/CRR Klone.md"
+    "research_record": "./research/pedals/Critter Electronics/CRR Klone.md",
+    "image_source_page": "https://critterelectronics.com/shop"
   },
   {
     "builder": "Critter Electronics",
@@ -15856,7 +15876,8 @@
     "pedal": "Das Götterdämmerung",
     "image": null,
     "source_page": null,
-    "research_record": "./research/pedals/Crucial Audio/Das Götterdämmerung.md"
+    "research_record": "./research/pedals/Crucial Audio/Das Götterdämmerung.md",
+    "image_source_page": "https://crucialaudio.com/wp-content/uploads/2018/03/DieGotterdammerung_Manual_electronic_A.pdf"
   },
   {
     "builder": "Crushsound",
@@ -16811,7 +16832,8 @@
     "pedal": "EasyDriver",
     "image": null,
     "source_page": null,
-    "research_record": "./research/pedals/DeadastronautFX/EasyDriver.md"
+    "research_record": "./research/pedals/DeadastronautFX/EasyDriver.md",
+    "image_source_page": "https://deadastronaut.wixsite.com/effects/easydrivepcbdeadastronautfx"
   },
   {
     "builder": "DeadastronautFX",
@@ -20287,9 +20309,11 @@
   {
     "builder": "Greer Amps",
     "pedal": "Fuzzy Wooly Bear",
-    "image": null,
+    "image": "./assets/pedals/greer-amps/fuzzy-wooly-bear/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/Greer Amps/Fuzzy Wooly Bear.md"
+    "research_record": "./research/pedals/Greer Amps/Fuzzy Wooly Bear.md",
+    "image_source_url": "https://files.effectsdatabase.com/gear/pics/nickgreer_fuzzywoolybear_002.jpg",
+    "image_source_page": "https://www.effectsdatabase.com/model/greer/fuzzywoolybear"
   },
   {
     "builder": "Greer Amps",
@@ -20806,9 +20830,11 @@
   {
     "builder": "Ibanez",
     "pedal": "NTS",
-    "image": null,
+    "image": "./assets/pedals/ibanez/nts/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/Ibanez/NTS.md"
+    "research_record": "./research/pedals/Ibanez/NTS.md",
+    "image_source_url": "https://legendarytones.com/wp-content/uploads/2018/06/NT1Lit.jpg",
+    "image_source_page": "https://www.buyanalogman.com/category_s/910.htm"
   },
   {
     "builder": "Ibanez",
@@ -24064,9 +24090,11 @@
   {
     "builder": "Maxon",
     "pedal": "ROD881",
-    "image": null,
+    "image": "./assets/pedals/maxon/rod881/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/Maxon/ROD881.md"
+    "research_record": "./research/pedals/Maxon/ROD881.md",
+    "image_source_url": "https://media.guitarcenter.com/is/image/MMGS7/155083000000000-00-86x86.jpg",
+    "image_source_page": "https://www.guitarcenter.com/Maxon/ROD881-Real-Tube-Overdrive-Distortion-Guitar-Effects-Pedal-1274115045617.gc"
   },
   {
     "builder": "Maxon",
@@ -24117,7 +24145,9 @@
     "pedal": "SD-9 Sonic Distortion / Overdrive",
     "image": null,
     "source_page": null,
-    "research_record": "./research/pedals/Maxon/SD-9 Sonic Distortion / Overdrive.md"
+    "research_record": "./research/pedals/Maxon/SD-9 Sonic Distortion / Overdrive.md",
+    "image_source_url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/ci/a41dc1a9de696414/1790546167570/c.QiScHRLD_x.Cqeo_pebkbPNS_LuAgsN7Ke_KnpxxA-1790546167-1.3.1.1-pT6mCQebrjtRTL1Afdany0VPjBfstdPkF2fNSFtrCMz0sbSEVk5DkJOi88FdikgzrEl.EG8KJybpu49Y8ctjzl.lhrFYn2tTc6uW0zVzLBF_lVJlJ3w54GMeDFy3xJlh2Wlbi1NdaKEw_NQiDwHasWgqodfUDISAjjPQAuxp3U6qOXQ15h4CAZf1NVsPgo6iSypy.AldUVulLeTPs83VUZ7Ac5mZLOwTXbxjNTuH5PiJ6HGug1C0NHSgiNB8xt9L7Nvl4WdxZ0.0smXnWnAkch.jtSTz1zfV4kEPQoJjcU6TYm4sRbVwrp.w3_rRVxZ2nClyME0nTLGv35iWY_OIaorUMPLx1K5C5ptiNPSFVhtX4JiEXoCUZj_sof6VnWA4NexALsakZpO8NFM_8x38xGw.VtsBkoS6Q2vMWnAYIi6dFH0xsHFpmlVpuuTrEyS_9A.rwFQGZWNczopQQbBNBpxcaUt15k7aOeKvYTHT89P749JA9iFTTZlNvE1uk.UNGfJJD9O_bvTkdfFHCbpfN9mOv1PdzDOPVu9UTIvJfoAilk6wHienUneQi01cIgCYLhQ0uhfraX9H7SZMC9IBgyk.d54OxtmJPpWWj_QndEdch5BGco76_kJCgNWbPVBWjIWAgAHzY9tLw7THmseNF8kWuHQwxn0X_vg4eenm95vWHV2wlMJVWYiam_olNV1BA66xsND5oOw_FYzzW5k03UMsz6UbKee_ygCVHQBj29E",
+    "image_source_page": "https://reverb.com/item/96664606-maxon-sd-9-sonic-distortion-guitar-effects-pedal"
   },
   {
     "builder": "Maxon",
@@ -24131,7 +24161,9 @@
     "pedal": "SM-9 Pro+",
     "image": null,
     "source_page": null,
-    "research_record": "./research/pedals/Maxon/SM-9 Pro+.md"
+    "research_record": "./research/pedals/Maxon/SM-9 Pro+.md",
+    "image_source_url": "https://assets.equipboard.com/assets/tailwind_layout/equipboard-logo-1e25fc159c9d63aa323fbda202cc8be6a6b41480df1a1feb7fc0a952087872a7.svg",
+    "image_source_page": "https://equipboard.com/items/maxon-sm-9-plus-super-metal-distortion-pedal"
   },
   {
     "builder": "Maxon",
@@ -24151,16 +24183,20 @@
   {
     "builder": "Maxon",
     "pedal": "SM-9Pro+ Super Metal Pro+",
-    "image": null,
+    "image": "./assets/pedals/maxon/sm-9pro-super-metal-pro/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/Maxon/SM-9Pro+ Super Metal Pro+.md"
+    "research_record": "./research/pedals/Maxon/SM-9Pro+ Super Metal Pro+.md",
+    "image_source_url": "http://collarcityguitars.com/cdn/shop/products/xktsoqcklebzfw31d6vh.jpg?v=1644535851",
+    "image_source_page": "https://collarcityguitars.com/products/maxon_sm9proplus_supermetalproplus"
   },
   {
     "builder": "Maxon",
     "pedal": "Sonic Distortion (SD-9)",
-    "image": null,
+    "image": "./assets/pedals/maxon/sonic-distortion-sd-9/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/Maxon/Sonic Distortion (SD-9).md"
+    "research_record": "./research/pedals/Maxon/Sonic Distortion (SD-9).md",
+    "image_source_url": "https://cdn.shopify.com/s/files/1/0070/3093/1525/files/SH9-Scott_Henderson_Image-TWA-SQ650_480x480.jpg?v=1656689543",
+    "image_source_page": "https://maxonfx.com/products/sonic-distortion-sd-9"
   },
   {
     "builder": "Maxon",
@@ -24173,16 +24209,20 @@
   {
     "builder": "Maxon",
     "pedal": "ST-9 Super Tube Screamer",
-    "image": null,
+    "image": "./assets/pedals/maxon/st-9-super-tube-screamer/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/Maxon/ST-9 Super Tube Screamer.md"
+    "research_record": "./research/pedals/Maxon/ST-9 Super Tube Screamer.md",
+    "image_source_url": "https://files.effectsdatabase.com/gear/pics/maxon_st-9_001.jpg",
+    "image_source_page": "https://www.effectsdatabase.com/model/maxon/9/st9"
   },
   {
     "builder": "Maxon",
     "pedal": "ST9Pro+",
-    "image": null,
+    "image": "./assets/pedals/maxon/st9pro/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/Maxon/ST9Pro+.md"
+    "research_record": "./research/pedals/Maxon/ST9Pro+.md",
+    "image_source_url": "http://maxon.jp/effects_n/photo_effects/ST9Pro+_T250.png",
+    "image_source_page": "http://maxon.jp/effects_n/st9pro+_n_e.html"
   },
   {
     "builder": "Maxon",
@@ -24203,14 +24243,18 @@
     "pedal": "TBO-9 True Tube Booster / Overdrive",
     "image": null,
     "source_page": null,
-    "research_record": "./research/pedals/Maxon/TBO-9 True Tube Booster / Overdrive.md"
+    "research_record": "./research/pedals/Maxon/TBO-9 True Tube Booster / Overdrive.md",
+    "image_source_url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/ci/a41dc2255bbd69dc/1790546187338/ykJvzN5Z86QWlP4vetXwO9F75ghQnEUTu4Z553.kBCY-1790546187-1.3.1.1-PR20jpo4l14RZr7GxCI4X5S9z3zjAsCt_4T05v1O3JXJvYkWRYGS9X_uEkBCwZ5q9peNawqjlU.v8KMKhPuOmgjq6Kg7NoDSPEdTZ.AtCgwsG.3SXMrlu9XIUf4ZMBCBgE8KSPHdEqG.MspyI13l7vCmrla5p3WDvP3ejjgtkkF9gTH46WJsugN39qNGstCHxNfcDbunbdV0grTr0CB5cZgQNJ45bqJ02LmxsoEKZORzWYthRsS7LBX50eRYMeIu_RnXnrsUOrc16lTVO7r2ZXXSOLstf3O3YQJzmni0moJbUojM0hJdXH6EsXOUPwfngYtti7A4TUpr7fltOPiFeaCHwhsDKSsE.BBvvVKKD0vYCRVnF37FDUGeBGdw0dgogdUrB9rmf1Fa.lfF3Svq9Hm_kMawTguAMB2xDvmLwkOMUwoFdQUiBCLSPr_mJgmxUq9ovD_1F79lPwXSoEtfsz_uKrrJTDcXa8OtoAyj3aGmunCsIery0ANpE_OiOmsoEeAlIl7cli5G0O2rNUEohW0LZJg8X0Eelz7AmACLh5Fjhbm.UcNB0xu1mFJuxDnxl5BqAjy5jC8eIn9MviWQqTAfBqBn3jBNjgApJmf.Sq_PJ6ODdQYMpROakX6EOfUa0DfjupCV4ylaIWQTd_mjuqwUXcjsGKSPvJ.KoUsE13WXNKkBm4mR.tnTKWKdizNfprhYoSBgp.cxTPXncMJgwVzhfXIqOWIsgs3nwAj6Ss0",
+    "image_source_page": "https://reverb.com/item/92915005-maxon-tbo-9-true-tube-booster-overdrive-2010s-gold"
   },
   {
     "builder": "Maxon",
     "pedal": "TOD-9 True Tube Overdrive",
-    "image": null,
+    "image": "./assets/pedals/maxon/tod-9-true-tube-overdrive/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/Maxon/TOD-9 True Tube Overdrive.md"
+    "research_record": "./research/pedals/Maxon/TOD-9 True Tube Overdrive.md",
+    "image_source_url": "https://media.guitarcenter.com/is/image/MMGS7/L85964000001000-00-600x600.jpg",
+    "image_source_page": "https://www.guitarcenter.com/Maxon/True-Tube-Overdrive-Pedal-Metallic-Copper-1384789085537.gc"
   },
   {
     "builder": "Maxon / Nisshin Onpa",
@@ -25524,9 +25568,11 @@
   {
     "builder": "MXR",
     "pedal": "Classic 108 Fuzz",
-    "image": null,
+    "image": "./assets/pedals/mxr/classic-108-fuzz/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/MXR/Classic 108 Fuzz.md"
+    "research_record": "./research/pedals/MXR/Classic 108 Fuzz.md",
+    "image_source_url": "https://www.manua.ls/thumbs/products/s/2290145-mxr-classic-108-fuzz-m296.jpg",
+    "image_source_page": "https://www.manua.ls/mxr/classic-108-fuzz-m173/manual"
   },
   {
     "builder": "MXR",

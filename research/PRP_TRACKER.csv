@@ -1592,7 +1592,7 @@ Colorsound / Sola Sound,B&M Fuzz Unit,Fuzz,DONE,DONE,DONE,./research/pedals/Colo
 Colorsound / Sola Sound,Colorsound Supa Wah-Fuzz-Swell,Fuzz,DONE,DONE,DONE,./research/pedals/Colorsound / Sola Sound/Colorsound Supa Wah-Fuzz-Swell.md
 Colorsound / Sola Sound,Eurotec Black Box Fuzz Module,Fuzz,DONE,DONE,DONE,./research/pedals/Colorsound / Sola Sound/Eurotec Black Box Fuzz Module.md
 Colorsound / Sola Sound,G.B. Fuzz,Fuzz,DONE,DONE,DONE,./research/pedals/Colorsound / Sola Sound/G.B. Fuzz.md
-Colorsound / Sola Sound,G.B. Fuzz Unit,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Colorsound / Sola Sound/G.B. Fuzz Unit.md
+Colorsound / Sola Sound,G.B. Fuzz Unit,Fuzz,DONE,DONE,DONE,./research/pedals/Colorsound / Sola Sound/G.B. Fuzz Unit.md
 Colorsound / Sola Sound,Overdriver,Overdrive,DONE,DONE,DONE,./research/pedals/Colorsound / Sola Sound/Overdriver.md
 Colorsound / Sola Sound,Pro Traffic Fuzz Unit,Fuzz,DONE,DONE,DONE,./research/pedals/Colorsound / Sola Sound/Pro Traffic Fuzz Unit.md
 Colorsound / Sola Sound,Sola Sound Bum Fuzz Unit,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Colorsound / Sola Sound/Sola Sound Bum Fuzz Unit.md
@@ -2351,7 +2351,7 @@ Greer Amps,Batch O' Ass,Distortion / Fuzz,DONE,DONE,DONE,./research/pedals/Greer
 Greer Amps,Black Fuzz,Distortion / Fuzz,DONE,DONE,DONE,./research/pedals/Greer Amps/Black Fuzz.md
 Greer Amps,Black Mountain Crunch Drive,Overdrive,DONE,DONE,DONE,./research/pedals/Greer Amps/Black Mountain Crunch Drive.md
 Greer Amps,Brown Bomber,Distortion / Fuzz / Overdrive,DONE,DONE,DONE,./research/pedals/Greer Amps/Brown Bomber.md
-Greer Amps,Fuzzy Wooly Bear,Fuzz / Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Greer Amps/Fuzzy Wooly Bear.md
+Greer Amps,Fuzzy Wooly Bear,Fuzz / Overdrive,DONE,DONE,DONE,./research/pedals/Greer Amps/Fuzzy Wooly Bear.md
 Greer Amps,Ghetto Driver,Distortion / Fuzz,DONE,DONE,DONE,./research/pedals/Greer Amps/Ghetto Driver.md
 Greer Amps,Ghetto Stomp,Distortion / Fuzz / Overdrive,DONE,DONE,DONE,./research/pedals/Greer Amps/Ghetto Stomp.md
 Greer Amps,Gorilla Warfare MKII,Distortion,DONE,DONE,DONE,./research/pedals/Greer Amps/Gorilla Warfare MKII.md
@@ -2418,7 +2418,7 @@ Ibanez,FZ7,Fuzz,DONE,DONE,DONE,./research/pedals/Ibanez/FZ7.md
 Ibanez,FZMINI,Fuzz,DONE,DONE,DONE,./research/pedals/Ibanez/FZMINI.md
 Ibanez,JD9,Overdrive,DONE,DONE,DONE,./research/pedals/Ibanez/JD9.md
 Ibanez,JEMINI,Distortion / Overdrive,DONE,DONE,DONE,./research/pedals/Ibanez/JEMINI.md
-Ibanez,NTS,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Ibanez/NTS.md
+Ibanez,NTS,Overdrive,DONE,DONE,DONE,./research/pedals/Ibanez/NTS.md
 Ibanez,OD850,Fuzz,DONE,DONE,DONE,./research/pedals/Ibanez/OD850.md
 Ibanez,SD9M,Distortion,DONE,DONE,DONE,./research/pedals/Ibanez/SD9M.md
 Ibanez,SM7,Distortion,DONE,DONE,DONE,./research/pedals/Ibanez/SM7.md
@@ -2812,7 +2812,7 @@ Maxon,Overdrive Pro Plus (OD-9Pro+),Distortion / Overdrive,DONE,DONE,DONE,./rese
 Maxon,Overdrive-Soft Distortion (OSD-9),Distortion / Overdrive,DONE,DONE,DONE,./research/pedals/Maxon/Overdrive-Soft Distortion (OSD-9).md
 Maxon,Real Tube Overdrive (RTO700),Distortion / Overdrive,DONE,DONE,DONE,./research/pedals/Maxon/Real Tube Overdrive (RTO700).md
 Maxon,Real Tube Overdrive-Distortion (RTD800),Distortion / Overdrive,DONE,DONE,DONE,./research/pedals/Maxon/Real Tube Overdrive-Distortion (RTD800).md
-Maxon,ROD881,Distortion / Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Maxon/ROD881.md
+Maxon,ROD881,Distortion / Overdrive,DONE,DONE,DONE,./research/pedals/Maxon/ROD881.md
 Maxon,ROD881 Real Overdrive / Distortion,Distortion / Overdrive,DONE,DONE,DONE,./research/pedals/Maxon/ROD881 Real Overdrive / Distortion.md
 Maxon,RTD800,Distortion / Overdrive,DONE,DONE,DONE,./research/pedals/Maxon/RTD800.md
 Maxon,RTD800 Real Tube Distortion,Distortion / Overdrive,DONE,DONE,DONE,./research/pedals/Maxon/RTD800 Real Tube Distortion.md
@@ -2824,15 +2824,15 @@ Maxon,SD-9M Sonic Distortion Master,Distortion,DONE,NEEDED,NEEDED,./research/ped
 Maxon,SM-9 Pro+,Distortion / Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Maxon/SM-9 Pro+.md
 Maxon,SM-9 Super Metal,Distortion,DONE,DONE,DONE,./research/pedals/Maxon/SM-9 Super Metal.md
 Maxon,SM-9Pro Super Metal Pro+,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Maxon/SM-9Pro Super Metal Pro+.md
-Maxon,SM-9Pro+ Super Metal Pro+,Distortion,DONE,NEEDED,NEEDED,./research/pedals/Maxon/SM-9Pro+ Super Metal Pro+.md
-Maxon,Sonic Distortion (SD-9),Distortion / Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Maxon/Sonic Distortion (SD-9).md
+Maxon,SM-9Pro+ Super Metal Pro+,Distortion,DONE,DONE,DONE,./research/pedals/Maxon/SM-9Pro+ Super Metal Pro+.md
+Maxon,Sonic Distortion (SD-9),Distortion / Overdrive,DONE,DONE,DONE,./research/pedals/Maxon/Sonic Distortion (SD-9).md
 Maxon,SSD-9 Super Sonic Distortion,Distortion / Overdrive,DONE,DONE,DONE,./research/pedals/Maxon/SSD-9 Super Sonic Distortion.md
-Maxon,ST-9 Super Tube Screamer,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Maxon/ST-9 Super Tube Screamer.md
-Maxon,ST9Pro+,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Maxon/ST9Pro+.md
+Maxon,ST-9 Super Tube Screamer,Overdrive,DONE,DONE,DONE,./research/pedals/Maxon/ST-9 Super Tube Screamer.md
+Maxon,ST9Pro+,Overdrive,DONE,DONE,DONE,./research/pedals/Maxon/ST9Pro+.md
 Maxon,ST9Pro+ Super Tube Overdrive Pro+,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Maxon/ST9Pro+ Super Tube Overdrive Pro+.md
 Maxon,Super Sonic Distortion (SSD-9),Distortion / Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Maxon/Super Sonic Distortion (SSD-9).md
 Maxon,TBO-9 True Tube Booster / Overdrive,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Maxon/TBO-9 True Tube Booster / Overdrive.md
-Maxon,TOD-9 True Tube Overdrive,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Maxon/TOD-9 True Tube Overdrive.md
+Maxon,TOD-9 True Tube Overdrive,Overdrive,DONE,DONE,DONE,./research/pedals/Maxon/TOD-9 True Tube Overdrive.md
 McGregor Pedals,Crunch Plus Overdrive/Distortion,Distortion / Overdrive,DONE,DONE,DONE,./research/pedals/McGregor Pedals/Crunch Plus Overdrive/Distortion.md
 McGregor Pedals,Crunch Transparent Overdrive,Overdrive,DONE,DONE,DONE,./research/pedals/McGregor Pedals/Crunch Transparent Overdrive.md
 McGregor Pedals,Double Crunch Transparent Overdrive,Overdrive,DONE,DONE,DONE,./research/pedals/McGregor Pedals/Double Crunch Transparent Overdrive.md
@@ -2972,7 +2972,7 @@ MXR,Bass Fuzz Deluxe,Fuzz,DONE,DONE,DONE,./research/pedals/MXR/Bass Fuzz Deluxe.
 MXR,Bass Overdrive,Overdrive,DONE,DONE,DONE,./research/pedals/MXR/Bass Overdrive.md
 MXR,Blue Box Fuzz,Fuzz,DONE,DONE,DONE,./research/pedals/MXR/Blue Box Fuzz.md
 MXR,CAE Boost/Overdrive,Overdrive,DONE,DONE,DONE,./research/pedals/MXR/CAE Boost/Overdrive.md
-MXR,Classic 108 Fuzz,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/MXR/Classic 108 Fuzz.md
+MXR,Classic 108 Fuzz,Fuzz,DONE,DONE,DONE,./research/pedals/MXR/Classic 108 Fuzz.md
 MXR,Classic 108 Fuzz Mini,Fuzz,DONE,DONE,DONE,./research/pedals/MXR/Classic 108 Fuzz Mini.md
 MXR,Custom Badass '78 Distortion,Distortion,DONE,DONE,DONE,./research/pedals/MXR/Custom Badass '78 Distortion.md
 MXR,Custom Badass Modified O.D,Overdrive,DONE,DONE,DONE,./research/pedals/MXR/Custom Badass Modified O.D.md
