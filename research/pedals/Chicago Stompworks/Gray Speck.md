@@ -3,37 +3,53 @@
 ## PRP identity
 - **Archive parent:** Gray Speck
 - **Builder:** Chicago Stompworks
-- **Catalog type:** Overdrive
-- **Identity:** Chicago Stompworks Gray Speck, a DOD OD250 1979 Gray Spec clone.
+- **Catalog type:** Overdrive / Distortion
+- **Identity:** Point-to-point recreation of the 1979 gray-spec DOD OD250 using an LM741 op-amp and 1N4148 clipping diodes. [1][2]
 
-## What this pedal is
-Chicago Stompworks describes Gray Speck as a reproduction of the **DOD OD250 1979 Gray Spec** circuit. Effects Database documents the build as using an LM741 op-amp and 1N4148 clipping arrangement, with the builder aiming for close component/circuit accuracy to the 1979 unit. [1][2]
+## Circuit lineage
+- **Primary reference:** DOD **OD250 1979 Gray Spec**.
+- Chicago Stompworks builds the pedal as a close recreation of that circuit. [1][2]
 
-## Colorways
-- A silver/sparkle finish is documented by community photography, while the builder also offers barebox versions. [3]
-- A complete factory colorway sequence was not established.
+## Active device
+- **LM741 op-amp**. [2]
 
-## Versions and factory options
-The documented circuit is hand fabricated with:
-- **LM741**
-- **1N4148**
-- 22k / 470k resistor arrangement [2]
+## Diode / clipping
+- **1N4148** clipping diodes. [2]
 
-The builder uses a 1590B enclosure, true bypass, point-to-point wiring, and standard 9V center-negative power or battery. [1][2]
+## Controls
+- Minimal OD250-style control interface.
+- Exact printed control-label layout is not reconstructed where the reviewed sources do not preserve it.
 
-## Version changes
-No formal numbered factory revision sequence was established.
+## Construction / hardware
+- **Point-to-point wiring**
+- **1590B** enclosure.
+- **True bypass**
+- Internal battery support. [1][2]
 
-## Transistor
-The core active device is the **LM741 op-amp**, not a discrete transistor. [2]
+## Power
+- **9V center-negative** external supply or internal battery. [1]
 
-## Diode
-Effects Database explicitly identifies **1N4148** in the clipping arrangement. [2]
+## Version history
+- No numbered Chicago Stompworks electronic revision established.
+- Silver/sparkle, barebox and knob/LED changes are treated as cosmetic production variations.
 
 ## Sound
-The Gray Speck is intended to reproduce the hard-edged, direct boost/distortion behavior of the 1979 gray-spec DOD 250. The simple topology and minimal controls make it useful as either a boost or compact distortion stage. [1][2]
+Gray Speck targets the direct, hard-edged OD250 response that can function as either a compact boost or overdrive. The archive does not add a broader “DOD 250 family” claim beyond the documented 1979 gray-spec reference. [1][2]
+
+## Research confidence
+- **Identity:** High
+- **1979 Gray Spec lineage:** High
+- **LM741:** High
+- **1N4148:** High
+- **Point-to-point / 1590B:** High
+- **Exact control labels:** Medium
+
+## Deep research verification
+Chicago Stompworks' product catalog was cross-checked with the Effects Database exact-model record. The combined evidence supports the 1979 Gray Spec lineage and the component-level LM741/1N4148 implementation. [1][2]
 
 ## Sources checked
-1. Chicago Stompworks — Gray Speck store information: https://www.chicagostompworks.com/
+1. Chicago Stompworks — Gray Speck: https://www.chicagostompworks.com/
 2. Effects Database — Chicago Stompworks Gray Speck: https://www.effectsdatabase.com/model/chicagostompworks/grayspeck
-3. ModularGrid — Chicago Stompworks Gray Speck: https://modulargrid.net/p/chicago-stompworks-gray-speck
+
+## Photo
+- Exact-model photo status remains handled separately.
