@@ -37,5 +37,39 @@ Effects Database published the exact DB-1 record on **March 28, 2006**.
 1. Effects Database - Barge Concepts DB-1: https://www.effectsdatabase.com/model/bargeconcepts/db1
 2. Barge Concepts catalog: https://www.effectsdatabase.com/model/bargeconcepts
 
+## Deep research verification
+
+This pass consolidates the exact-model Barge Concepts documentation already retained in the archive.
+
+### Verified description
+
+Effects Database documents the **Barge Concepts DB-1** as a dual-channel wide-band boost/preamp. The two stages are independently usable and can be cascaded, with an effects loop between them. The exact-model record was published **March 28, 2006**.
+
+### Verified controls and architecture
+
+- Channel 1 Gain: **0-27 dB**.
+- Channel 2 Gain: **0-27 dB**.
+- Channel 2 Master Volume.
+- Effects loop between the two gain stages.
+- Four practical operating states: bypass, Channel 1, Channel 2, or both channels combined.
+- Cascading the two stages can drive the signal into overdrive/distortion while the final volume remains independently controllable.
+
+### Verified transistor/device terms
+
+- Exact active-device part numbers were not established in the reviewed public source.
+
+### Verified diode terms
+
+- Exact clipping/rectifier diode information was not established in the reviewed public source.
+
+### Verified sound evidence
+
+The exact-model documentation presents DB-1 as a broad-band boost platform that can remain comparatively transparent as a boost, while the cascaded stages can generate overdrive/distortion.
+
+### Sources checked in this pass
+
+1. Effects Database — Barge Concepts DB-1: https://www.effectsdatabase.com/model/bargeconcepts/db1
+2. Effects Database — Barge Concepts catalog: https://www.effectsdatabase.com/model/bargeconcepts
+
 ## Photo
 - **Archive status:** **Exact Photo Pending**
