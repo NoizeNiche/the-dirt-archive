@@ -20,3 +20,5 @@ Effects Database links EXP2001 Expandora II as a separate generation following t
 
 ## Photo
 - Exact photo pending.
+## Deep research verification
+The cited Effects Database Bixonic catalog supports **EXP2001 Expandora II** as a distinct Expandora-generation identity following the original EXP2000 family. The reviewed source set does not expose enough exact model-specific controls, circuit topology or semiconductor details to safely add them, so those fields remain unresolved.
