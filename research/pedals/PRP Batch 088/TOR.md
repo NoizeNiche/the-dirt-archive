@@ -12,3 +12,5 @@ https://www.guitarpedalx.com/news/gpx-blog/bispell-audio-reboots-its-tor-silicon
 
 ## Archive photo
 - **Archive status:** **No Photo Archived**
+## Deep research verification
+The cited Guitar Pedal X coverage documents Bispell Audio TOR V2 as a silicon Rangemaster-style treble booster built to emulate the behavior of an OC44 germanium Rangemaster. Verified controls include Bass-Cut, Mid-Cut, Treble-Cut, Volume, Mid Boost, Lift, a three-position Mid Boost Frequency selector at **870Hz / 2.1kHz / 440Hz**, and a **+10dB Gain** switch. The design can cover classic Rangemaster and cocked-wah-style voicings.
