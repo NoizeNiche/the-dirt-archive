@@ -1,23 +1,40 @@
 # MXR — Prime Distortion
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Prime Distortion
 - **Builder:** MXR
-- **Pedal:** Prime Distortion
 - **Catalog type:** Distortion
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** MXR's Prime Distortion.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Prime Distortion** by **MXR** as a **Distortion** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Why is my MXR Prime Distortion M69P not turning on?
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- Check if the footswitch is toggled to the 'on' position, indicated by the white LED.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Documented terms in the verified sources: LED.
+- The archive records only the component information explicitly present in these sources.
+
+## Sound
+User manual MXR PRIME DISTORTION M69P (English - 2 pages) Manua .
+ls MXR not categorized · MXR PRIME DISTORTION M69P manual 8.5 · 1 give review PDF manual · 2 pages English tutorial questions specs MXR PRIME DISTORTION M69P M69P PRIME DISTORTION Need help?
+Do you have a specific question about the MXR PRIME DISTORTION M69P that you cannot find the answer to in the manual?
+
+## Sources checked
+1. User manual MXR PRIME DISTORTION M69P (English - 2 pages): https://www.manua.ls/mxr/prime-distortion-m69p/manual
+2. PDF MXR M69P Prime Distortion Owner's Manual: https://manuals.plus/mxr/m69p-prime-distortion-manual.pdf
+3. Dunlop M69P MXR PRIME DISTORTION Product Manual: https://manualzz.com/doc/html/78987471/dunlop-m69p-mxr-prime-distortion-product-manual
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

@@ -1,23 +1,44 @@
 # MXR — Jail Guitar Doors Overdrive
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Jail Guitar Doors Overdrive
 - **Builder:** MXR
-- **Pedal:** Jail Guitar Doors Overdrive
 - **Catalog type:** Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** MXR's Jail Guitar Doors Overdrive.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Jail Guitar Doors Overdrive** by **MXR** as a **Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+MXR's Jail Guitar Doors Overdrive is cataloged as an overdrive pedal.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- Made in the USA Every glass slide is crafted at our Benicia, California factory for consistent quality, flawless finish, and dependable performance you can feel.
+- MXR Jail Guitar Doors Overdrive Effects Pedal Black and White
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+escape }}\" class=\"boost-sd__modal\" id=\"boost-sd__modal-quickview\" data-product-id='{{ productData.id }}' data-product='{{ productData
+MXR® JAIL GUITAR DOORS OVERDRIVE Toggle menu Compare
+True Pyrex Smoothness Dense Pyrex glass boosts sustain and keeps your tone warm and even, with a perfectly consistent surface that glides without drag.
+
+## Sources checked
+1. MXR Jail Guitar Doors Overdrive Pedal | Sweetwater: https://www.sweetwater.com/store/detail/JGDoorsOD--mxr-jail-guitar-doors-overdrive-pedal
+2. MXR Jail Guitar Doors Overdrive Effect Pedal &ndash; Russo Music: https://www.russomusic.com/products/mxr-jail-guitar-doors-overdrive-effect-pedal
+3. MXR® JAIL GUITAR DOORS OVERDRIVE: https://www.jimdunlop.com/mxr-jail-guitar-doors-overdrive/
+4. MXR Jail Guitar Doors Overdrive Effects Pedal Black and White | Guitar Center: https://www.guitarcenter.com/MXR/Jail-Guitar-Doors-Overdrive-Effects-Pedal-Black-and-White-1500000469871.gc
+5. MXR Jail Guitar Doors Overdrive Pedal | Equipboard: https://equipboard.com/items/mxr-jail-guitar-doors-overdrive-pedal
+6. MXR Jail Guitar Doors Overdrive - Reverb: https://reverb.com/item/92616397-mxr-jail-guitar-doors-overdrive
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

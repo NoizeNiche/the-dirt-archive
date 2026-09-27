@@ -1,23 +1,44 @@
 # Mid-Fi Electronics — Yard Sale
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Yard Sale
 - **Builder:** Mid-Fi Electronics
-- **Pedal:** Yard Sale
 - **Catalog type:** Fuzz / Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Mid-Fi Electronics's Yard Sale.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Yard Sale** by **Mid-Fi Electronics** as a **Fuzz / Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+The Yard Sale pedal delivers the raw, unpredictable charm of old-school consumer electronics, giving your guitar a gritty, vintage character thats packed with personality.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- The Yard Sale pedal delivers the raw, unpredictable charm of old-school consumer electronics, giving your guitar a gritty, vintage character thats packed with personality.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Documented terms in the verified sources: Silicon transistors.
+- The archive records only the component information explicitly present in these sources.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+Controls for: "Mic" (Gain), and overall volume all content © 2026 Doug Tuttle Effects
+Designed with a pair of Soviet-era silicon transistors, it produces a blown-out, saggy tone that reacts beautifully to your guitars volume knob.
+
+## Sources checked
+1. Mid-Fi Electronics ::: Yard Sale: https://www.midfielectronics.com/yard-sale-
+2. Mid-Fi Electronics Yard Sale Pedal &ndash; DeathCloud: https://deathcloud.com/products/mid-fi-electronics-yard-sale
+3. Mid-Fi Electronics Yard Sale Pedal - talentmusicstore.com: https://www.talentmusicstore.com/product/mid-fi-electronics-yard-sale-pedal/
+4. Mid-Fi Electronics Yard Sale - Reverb: https://reverb.com/item/82110067-mid-fi-electronics-yard-sale
+5. Mid-Fi Electronics Yard Sale Pedal - Simplifying Digital Life with Intelligent and Innovative Technology Experiences: https://www.simplifyingk.com/product/mid-fi-electronics-yard-sale-pedal/
+6. Mid-Fi Electronics Yard Sale Pedal Random Color - Gryphon: https://www.gryphonstrings.us/product/mid-fi-electronics-yard-sale-pedal-random-color/
+7. Used Mid-fi Electronics Yard Sale Effect Pedal: https://www.musiciansfriend.com/pdp/productDetail.jsp?skuId=site1sku122561297
+8. Used Mid-fi Electronics Yard Sale Effect Pedal: https://www.audiofullstore.com/product/used-mid-fi-electronics-yard-sale-effect-pedal/
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
