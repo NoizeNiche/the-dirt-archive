@@ -30,3 +30,6 @@ The Professional MkII format belongs to the thicker, more sustaining British Ton
 
 ## Sources checked
 1. Guitar Pedal X — British Pedal Company roundup: https://www.guitarpedalx.com/news/best-of-british-pedal-builders-roundup---an-a-z-overview-in-105-parts
+## Deep research verification
+
+Effects Database documents the British Pedal Company **Professional MKII Tone Bender** as a detailed replica of the 1966 Gary Hurst Professional MkII. The generic record is a family entry because BPC offered different transistor-loaded variants. The OC75 version is documented with **Level, Attack** and **3x NOS OC75 transistors**, aluminium cast casing and limited production. A separate OC81D model is documented with 3x OC81D transistors. Sources: https://www.effectsdatabase.com/model/bpc/tonebender/mk2 and https://www.long-mcquade.com/285771/Guitars/Pedals-Effects/British-Pedal-Company/OC81D-MKII-Tone-Bender-Pedal.htm
