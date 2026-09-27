@@ -1,23 +1,36 @@
 # Fuzzrocious Pedals — Grey Stache / Heliotropic
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Grey Stache / Heliotropic
 - **Builder:** Fuzzrocious Pedals
-- **Pedal:** Grey Stache / Heliotropic
 - **Catalog type:** Fuzz
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Fuzzrocious Pedals's Grey Stache / Heliotropic.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Grey Stache / Heliotropic** by **Fuzzrocious Pedals** as a **Fuzz** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Fuzzrocious Pedals's Grey Stache / Heliotropic is cataloged as a fuzz pedal.
 
-## Catalog source
-- Catalog source page on file: https://fuzzrociouspedals.com/?product_cat=current
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+The verified evidence packet did not contain enough pedal-specific sonic description to make a more detailed sound summary without adding unsupported interpretation.
+
+## Sources checked
+1. Current | FUZZROCIOUS PEDALS: https://fuzzrociouspedals.com/?product_cat=current
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

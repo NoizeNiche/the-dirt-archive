@@ -40,3 +40,16 @@ Effects Database provides an exact Conrad Buzz Box & Volume Expander record with
 
 ## Sources checked
 1. Effects Database - Conrad Buzz Box & Volume Expander: https://www.effectsdatabase.com/model/conrad/buzzbox
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Conrad's Conrad Buzz Box & Volume Expander is cataloged as a fuzz pedal.
+
+### Verified version references
+- The evidence references: v1, v2.
+
+### Sources checked in this pass
+1. Conrad Buzz Box & Volume Expander | Effects Database: https://www.effectsdatabase.com/model/conrad/buzzbox

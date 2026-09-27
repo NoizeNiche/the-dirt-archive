@@ -24790,8 +24790,8 @@
       "image": "./assets/pedals/codtone/russian-bikini-ranger/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Codtone/Russian Bikini Ranger.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Coffee Shop Pedals",
@@ -26555,8 +26555,8 @@
       "research_record": "./research/pedals/Conrad/Conrad Buzz Box & Volume Expander.md",
       "image_source_page": "https://www.effectsdatabase.com/model/conrad/buzzbox",
       "image_source_url": "https://files.effectsdatabase.com/gear/thumbs/conrad_buzzbox_001.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Conrad",
@@ -37272,8 +37272,8 @@
       "image": "",
       "source_page": "https://fuzzrociouspedals.com/?product_cat=current",
       "research_record": "./research/pedals/Fuzzrocious Pedals/Grey Stache / Heliotropic.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Fuzzrocious Pedals",
