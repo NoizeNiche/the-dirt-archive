@@ -20,3 +20,6 @@ The Limited Edition Dual-Gain Mantra is a modified Mantra overdrive with an adde
 
 ## Archive photo
 - **Archive status:** **No Photo Archived**
+## Deep research verification
+
+Effects Database documents Dual-Gain Mantra as a modified Mantra overdrive with switchable high- and low-gain modes. The circuit uses cascaded **MOSFET and JFET** amplifier stages and a Baxandall-style bass/treble EQ. The design is documented as touch-sensitive with useful guitar-volume cleanup and was produced as a limited edition handmade in Asheville, North Carolina.
