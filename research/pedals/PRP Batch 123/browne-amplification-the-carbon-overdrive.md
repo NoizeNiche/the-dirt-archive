@@ -32,3 +32,26 @@ The Carbon is a high-headroom, Bluesbreaker-style overdrive intended to provide 
 
 ## Sources checked
 1. Browne Amplification — The Carbon: https://browneamps.com/store/p/the-carbon
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Browne Amplification's The Carbon - Overdrive is cataloged as an overdrive pedal.
+
+### Verified color/finish evidence
+- Blue Side of Protein Dual Overdrive
+- 21:18 2024-01-31 BuzzbeeTV [EffectorTimes 968회] Browne Amplication 이펙터 The Carbon V2 - Sky Blue 15:27 2024-01-16 Browne Amplification Bluesbreaker Shootout - Carbon V2, Prince of Tone, Marshall Bluesbreaker 3:26 2024-01-15 Browne Amplification Carbon is the building block for life.
+- BluesBreaker Style Pedal 16:56 2023-09-01 Browne Amplification Carbon Overdrive V2 - May The Blue Side Be With Y
+
+### Verified version references
+- The evidence references: V2, v.2, v.4, v1.
+
+### Verified sound evidence
+Browne Amplification The Carbon - Overdrive
+Blue Side of Protein Dual Overdrive
+21:18 2024-01-31 BuzzbeeTV [EffectorTimes 968회] Browne Amplication 이펙터 The Carbon V2 - Sky Blue 15:27 2024-01-16 Browne Amplification Bluesbreaker Shootout - Carbon V2, Prince of Tone, Marshall Bluesbreaker 3:26 2024-01-15 Browne Amplification Carbon is the building block for life.
+
+### Sources checked in this pass
+1. Browne Amplification The Carbon - Overdrive | Effects Database: https://www.effectsdatabase.com/model/browne/carbon

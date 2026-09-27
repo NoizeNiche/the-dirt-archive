@@ -45,3 +45,19 @@ The Crest Audio version retains the broad, two-control Fuzz Face response while 
 ## Photo
 - **Archive status:** No local photo archived in this research pass.
 - **Exact-model visual references checked:** Effects Database Crest Audio Fuzz Face page and Foxrox historical material.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Crest Audio's Fuzz Face is cataloged as a fuzz pedal.
+
+### Verified transistor/device terms
+- BC109, BC109C.
+
+### Sources checked in this pass
+1. Crest Audio Fuzz Face 1980s - Reverb: https://reverb.com/item/97586715-crest-audio-fuzz-face-1980s
+2. Vintage Crest Audio Fuzz Face Effects Pedal BC109 Free US S&H - eBay: https://www.ebay.com/itm/197278381122
+3. Crest Audio &quot;Dallas Arbiter&quot; Fuzz Face BC109C Reissue - Equipboard: https://equipboard.com/items/dallas-arbiter-fuzz-face-bc109c-reissue
+4. Fuzz Face reissue by Crest Audio (late 1980s version) • FXDB ...: https://forum.effectsdatabase.com/viewtopic.php?f=6&t=274

@@ -1,0 +1,41 @@
+{
+  "builder": "Crest Audio",
+  "pedal": "Fuzz Face",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 4,
+  "sources": [
+    {
+      "url": "https://reverb.com/item/97586715-crest-audio-fuzz-face-1980s",
+      "title": "Crest Audio Fuzz Face 1980s - Reverb",
+      "h1": "",
+      "excerpt": "",
+      "host": "reverb.com",
+      "source_kind": "reverb"
+    },
+    {
+      "url": "https://www.ebay.com/itm/197278381122",
+      "title": "Vintage Crest Audio Fuzz Face Effects Pedal BC109 Free US S&H - eBay",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.ebay.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://equipboard.com/items/dallas-arbiter-fuzz-face-bc109c-reissue",
+      "title": "Crest Audio &quot;Dallas Arbiter&quot; Fuzz Face BC109C Reissue - Equipboard",
+      "h1": "",
+      "excerpt": "",
+      "host": "equipboard.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://forum.effectsdatabase.com/viewtopic.php?f=6&t=274",
+      "title": "Fuzz Face reissue by Crest Audio (late 1980s version) \u2022 FXDB ...",
+      "h1": "",
+      "excerpt": "",
+      "host": "forum.effectsdatabase.com",
+      "source_kind": "effects_database"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}

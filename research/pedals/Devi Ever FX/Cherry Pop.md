@@ -1,23 +1,38 @@
 # Devi Ever FX — Cherry Pop
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Cherry Pop
 - **Builder:** Devi Ever FX
-- **Pedal:** Cherry Pop
 - **Catalog type:** Fuzz
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Devi Ever FX's Cherry Pop.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Cherry Pop** by **Devi Ever FX** as a **Fuzz** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+The Cherry Pop fuzz pedal also adds lots of sustain.
 
-## Catalog source
-- Catalog source page on file: https://www.effectsdatabase.com/model/deviever
+## Colorways
+- Video Date ▼▲ Maker ▼▲ Video ▼▲ Time ▼▲ 2016-12-23 Black Rabbit Pedals Devi Ever - Cherry Pop - Demo (in a track) 2:33 2014-05-11 Alchemy Audio Quick demo: Devi Ever Cherry Pop fuzz.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+The Cherry Pop fuzz pedal also adds lots of sustain.
+With the volume, tone, and control knobs on the Cherry Pop pedal you get lots of tone shaping power.
+The control knob lets you dial in the thickness of fuzz you want.
+
+## Sources checked
+1. Devi Ever FX Cherry Pop | Effects Database: https://www.effectsdatabase.com/model/deviever/cherrypop
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

@@ -54,3 +54,19 @@ The pedal is designed around six selectable heavy-metal distortion modes with br
 ## Sources checked
 1. Effects Database - Coolmusic Multiple Distortion: https://www.effectsdatabase.com/model/coolmusic/multipledistortion
 2. Coolmusic official Multiple Distortion manual: https://www.coolmusic-tech.com/public/uploads/files/20210817/be18d63c4bd7cefb50e387bf47e91a3b.pdf
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Coolmusic's Multiple Distortion is cataloged as a distortion pedal.
+
+### Verified sound evidence
+Multiple Distortion Coolmusic Link Multiple Distortion Type Distortion - Popularity - Average Price - - Status Unknown - Genealogy Our Genealogy Project attempts to create a family tree of all gain effects by mapping the pedal(s) that directly preceded them.
+
+### Sources checked in this pass
+1. CoolMusic Multiple Distortion Pedal: https://www.onlypedals.com/Cool-Music-Multi-Distortion-Pedal
+2. COOLMUSIC MULTIPLE Distortion Pedal Free Shipping Special Price: https://www.ebay.com/itm/800397781883
+3. Coolmusic Multiple Distortion 2020s - Silver - Reverb: https://reverb.com/item/98491926-coolmusic-multiple-distortion-2020s-silver
+4. Coolmusic Multiple Distortion | AllThePedals: https://allthepedals.com/pedals/coolmusic-multiple-distortion

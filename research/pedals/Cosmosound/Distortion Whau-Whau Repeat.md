@@ -45,3 +45,16 @@ The combined architecture produces a vintage fuzz/distortion voice through a wah
 2. Effects Database schematic index
 3. Freestompboxes - related Vox/Cosmosound technical discussion
 4. Classic2Vintage - Cosmosound history
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Cosmosound's Distortion Whau-Whau Repeat is cataloged as a distortion pedal.
+
+### Verified sound evidence
+Cosmosound Distortion Whau-Whau Repeat
+
+### Sources checked in this pass
+1. Cosmosound Distortion Whau-Whau Repeat | Effects Database: https://www.effectsdatabase.com/model/cosmosound/distortionwhaurepeat

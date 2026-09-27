@@ -37,3 +37,16 @@ The CL-3 combines a conventional distortion section with time-based reverb and m
 1. Effects Database — Chiu Luen CL-3: https://www.effectsdatabase.com/model/chiuluen/cl3
 2. Effects Database — distortion/LFO index entry: https://www.effectsdatabase.com/type/distortion/lfo/pedal
 3. Effects Database — chorus/LFO index entry: https://www.effectsdatabase.com/type/chorus/lfo?page=2
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Chiu Luen's CL-3 Clean/Distortion/Reverb/Chorus is cataloged as a distortion pedal.
+
+### Verified sound evidence
+Chiu Luen CL-3 Clean/Distortion/Reverb/Chorus
+
+### Sources checked in this pass
+1. Chiu Luen CL-3 Clean/Distortion/Reverb/Chorus | Effects Database: https://www.effectsdatabase.com/model/chiuluen/cl3

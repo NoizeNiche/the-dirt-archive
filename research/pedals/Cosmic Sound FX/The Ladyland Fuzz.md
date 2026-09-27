@@ -40,3 +40,16 @@ Effects Database lists Cosmic Sound FX among the newly added brands in February 
 1. Effects Database - Cosmic Sound FX brand listing and related fuzz-family entries
 2. Effects Database - 2012 weekly overview
 3. Guitariste historical discussion of Cosmic Sound FX / Ladyland Fuzz
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Cosmic Sound FX's The Ladyland Fuzz is cataloged as a fuzz pedal.
+
+### Verified version references
+- The evidence references: MkII.
+
+### Sources checked in this pass
+1. Cosmic Sound FX | Effects Database: https://www.effectsdatabase.com/model/cosmicsound

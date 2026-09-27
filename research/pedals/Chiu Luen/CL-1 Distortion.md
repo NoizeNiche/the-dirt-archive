@@ -32,3 +32,13 @@ The CL-1 is documented as part of an inexpensive OEM distortion family. The arch
 ## Sources checked
 1. Effects Database — Chiu Luen CL-1 Distortion: https://www.effectsdatabase.com/model/chiuluen/cl1
 2. Effects Database — Alber DS-100P Distortion, related Chiu Luen plastic-series family: https://www.effectsdatabase.com/model/alber/x00p/ds100p
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Chiu Luen's CL-1 Distortion is cataloged as a distortion pedal.
+
+### Sources checked in this pass
+1. Chiu Luen CL-1 Distortion | Effects Database: https://www.effectsdatabase.com/model/chiuluen/cl1

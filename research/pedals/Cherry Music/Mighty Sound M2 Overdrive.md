@@ -31,3 +31,13 @@ The M2 is documented as the overdrive member of the Mighty Sound mini series. Mo
 
 ## Sources checked
 1. Effects Database — Mighty Sound family: https://www.effectsdatabase.com/model/mightysound
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Cherry Music's Mighty Sound M2 Overdrive is cataloged as an overdrive pedal.
+
+### Sources checked in this pass
+1. Mighty Sound | Effects Database: https://www.effectsdatabase.com/model/mightysound

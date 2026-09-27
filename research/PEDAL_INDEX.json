@@ -16494,8 +16494,8 @@
       "research_record": "./research/pedals/PRP Batch 123/browne-amplification-the-carbon-overdrive.md",
       "image_source_page": "https://browneamps.com/store/p/the-carbon",
       "image_source_url": "http://static1.squarespace.com/static/5ba25ce95cfd7946edf8fdfa/5ba42adef4e1fccc5132e57d/619828c9616f144141b0a268/1787791366925/CarbonV2_Blue.png?format=1500w",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Browne Amplification",
@@ -16522,8 +16522,8 @@
       "research_record": "./research/pedals/PRP Batch 124/browne-amplification-the-protein-dual-overdrive.md",
       "image_source_page": "https://browneamps.com/store/p/protein-dual-overdrive",
       "image_source_url": "http://static1.squarespace.com/static/5ba25ce95cfd7946edf8fdfa/5ba42adef4e1fccc5132e57d/5ba2a6ccb8a045667502bcd2/1787684883225/PV21800.png?format=1500w",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Browne Amplification",
@@ -20021,8 +20021,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_url": "https://files.effectsdatabase.com/gear/pics/carlin_compressor_001.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Carlsbro",
@@ -22454,8 +22454,8 @@
       "image": "./assets/pedals/c-sar-diaz/diaz-texas-square-face/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/César Diaz/Diaz Texas Square Face.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "ChadderBox Effects",
@@ -23180,8 +23180,8 @@
       "image": "./assets/pedals/cherry-music/mighty-sound-m2-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Cherry Music/Mighty Sound M2 Overdrive.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Cherry Music",
@@ -23192,8 +23192,8 @@
       "image": "./assets/pedals/cherry-music/mighty-sound-m3-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Cherry Music/Mighty Sound M3 Fuzz.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Chesapeake Effects",
@@ -23313,8 +23313,8 @@
       "image": "./assets/pedals/chiu-luen/cl-1-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Chiu Luen/CL-1 Distortion.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Chiu Luen",
@@ -23325,8 +23325,8 @@
       "image": "./assets/pedals/chiu-luen/cl-3-clean-distortion-reverb-chorus/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Chiu Luen/CL-3 Clean Distortion Reverb Chorus.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Chiu Luen",
@@ -23337,8 +23337,8 @@
       "image": "./assets/pedals/chiu-luen/cl-4-distortion-reverb/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Chiu Luen/CL-4 Distortion Reverb.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Chiu Luen",
@@ -24766,8 +24766,8 @@
       "image": "./assets/pedals/codtone/frank-n-beans/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Codtone/Frank 'n' Beans.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Codtone",
@@ -24778,8 +24778,8 @@
       "image": "./assets/pedals/codtone/fuzz-for-bass/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Codtone/Fuzz for Bass.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Codtone",
@@ -26621,8 +26621,8 @@
       "image": "./assets/pedals/coolmusic/c-di02-classic-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Coolmusic/C-DI02 Classic Distortion.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Coolmusic",
@@ -26633,8 +26633,8 @@
       "image": "./assets/pedals/coolmusic/c-fc1-fuzzster/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Coolmusic/C-FC1 Fuzzster.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Coolmusic",
@@ -26674,8 +26674,8 @@
       "research_record": "./research/pedals/Coolmusic/MT-6 Distortion.md",
       "image_source_page": "https://www.effectsdatabase.com/model/coolmusic/mt6",
       "image_source_url": "https://files.effectsdatabase.com/gear/pics/coolmusic_mt-6_001.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Coolmusic",
@@ -26687,8 +26687,8 @@
       "source_page": null,
       "research_record": "./research/pedals/Coolmusic/Multiple Distortion.md",
       "image_source_page": "https://www.effectsdatabase.com/model/coolmusic/multipledistortion",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Coolpedals",
@@ -27570,8 +27570,8 @@
       "image": "./assets/pedals/cosmic-sound-fx/the-ladyland-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Cosmic Sound FX/The Ladyland Fuzz.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Cosmic Sound FX",
@@ -27756,8 +27756,8 @@
       "image": "./assets/pedals/cosmosound/distortion-whau-whau-repeat/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Cosmosound/Distortion Whau-Whau Repeat.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Cosmosound",
@@ -28717,8 +28717,8 @@
       "image": "./assets/pedals/crazybox-pedals/the-tone-box-vargas-blus-band-dual-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Crazybox Pedals/The Tone Box - Vargas Blus Band Dual Overdrive.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "CrazyTone",
@@ -28952,8 +28952,8 @@
       "image": "./assets/pedals/crest-audio/fuzz-face/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Crest Audio/Fuzz Face.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Crestwood",
@@ -28964,8 +28964,8 @@
       "image": "./assets/pedals/crestwood/crestwood-6-tr-fuzz-wah/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Crestwood/Crestwood 6-Tr Fuzz Wah.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Crestwood",
@@ -28976,8 +28976,8 @@
       "image": "./assets/pedals/crestwood/crestwood-8-tr-fuzz-wah-pedal/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Crestwood/Crestwood 8-Tr Fuzz Wah Pedal.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Crestwood",
@@ -30932,8 +30932,8 @@
       "image": "",
       "source_page": "https://www.effectsdatabase.com/model/darkglass/adam",
       "research_record": "./research/pedals/Darkglass Electronics/ADAM Aggressively Distorting Advanced Machine.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Darkglass Electronics",
@@ -30944,8 +30944,8 @@
       "image": "",
       "source_page": "https://www.effectsdatabase.com/model/darkglass/alphaomicron",
       "research_record": "./research/pedals/Darkglass Electronics/Alpha Omicron.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Darkglass Electronics",
@@ -31769,8 +31769,8 @@
       "image": "",
       "source_page": "https://www.effectsdatabase.com/model/deviever",
       "research_record": "./research/pedals/Devi Ever FX/'90.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Devi Ever FX",
@@ -31793,8 +31793,8 @@
       "image": "",
       "source_page": "https://www.effectsdatabase.com/model/deviever",
       "research_record": "./research/pedals/Devi Ever FX/33 Silver Crank.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Devi Ever FX",
@@ -31805,8 +31805,8 @@
       "image": "",
       "source_page": "https://www.effectsdatabase.com/model/deviever",
       "research_record": "./research/pedals/Devi Ever FX/AE Aenima.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Devi Ever FX",
@@ -31817,8 +31817,8 @@
       "image": "",
       "source_page": "https://www.effectsdatabase.com/model/deviever",
       "research_record": "./research/pedals/Devi Ever FX/Bass Fuzz.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Devi Ever FX",
@@ -31830,8 +31830,8 @@
       "image": "",
       "source_page": "https://www.effectsdatabase.com/model/deviever",
       "research_record": "./research/pedals/Devi Ever FX/BDSM - Big Distortion Sound Machine.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Devi Ever FX",
@@ -31854,8 +31854,8 @@
       "image": "",
       "source_page": "https://www.effectsdatabase.com/model/deviever",
       "research_record": "./research/pedals/Devi Ever FX/Bi-Fuzz.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Devi Ever FX",
@@ -31866,8 +31866,8 @@
       "image": "",
       "source_page": "https://www.effectsdatabase.com/model/deviever",
       "research_record": "./research/pedals/Devi Ever FX/BIT Legend Of Fuzz.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Devi Ever FX",
@@ -31878,8 +31878,8 @@
       "image": "",
       "source_page": "https://www.effectsdatabase.com/model/deviever",
       "research_record": "./research/pedals/Devi Ever FX/Bit Mangler.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Devi Ever FX",
@@ -31890,8 +31890,8 @@
       "image": "",
       "source_page": "https://www.effectsdatabase.com/model/deviever",
       "research_record": "./research/pedals/Devi Ever FX/Black Spider.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Devi Ever FX",
@@ -31914,8 +31914,8 @@
       "image": "",
       "source_page": "https://www.effectsdatabase.com/model/deviever",
       "research_record": "./research/pedals/Devi Ever FX/Cherry Pop.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Devi Ever FX",
@@ -31926,8 +31926,8 @@
       "image": "",
       "source_page": "https://www.effectsdatabase.com/model/deviever",
       "research_record": "./research/pedals/Devi Ever FX/DB Dark Boost.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Devi Ever FX",
@@ -31938,8 +31938,8 @@
       "image": "",
       "source_page": "https://www.effectsdatabase.com/model/deviever",
       "research_record": "./research/pedals/Devi Ever FX/Devi Special.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Devi Ever FX",
@@ -31951,8 +31951,8 @@
       "image": "",
       "source_page": "https://www.effectsdatabase.com/model/deviever",
       "research_record": "./research/pedals/Devi Ever FX/Devine Hammer.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Devi Ever FX",
@@ -31964,8 +31964,8 @@
       "image": "",
       "source_page": "https://www.effectsdatabase.com/model/deviever",
       "research_record": "./research/pedals/Devi Ever FX/Devistortion.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Devi Ever FX",
@@ -31976,8 +31976,8 @@
       "image": "",
       "source_page": "https://www.effectsdatabase.com/model/deviever",
       "research_record": "./research/pedals/Devi Ever FX/DF Disaster Fuzz.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Devi Ever FX",
@@ -31988,8 +31988,8 @@
       "image": "",
       "source_page": "https://www.effectsdatabase.com/model/deviever",
       "research_record": "./research/pedals/Devi Ever FX/Disaster Fuzz.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Devi Ever FX",
@@ -32000,8 +32000,8 @@
       "image": "",
       "source_page": "https://www.effectsdatabase.com/model/deviever",
       "research_record": "./research/pedals/Devi Ever FX/DN Destructo Noctavia.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Devi Ever FX",
@@ -32012,8 +32012,8 @@
       "image": "",
       "source_page": "https://www.effectsdatabase.com/model/deviever",
       "research_record": "./research/pedals/Devi Ever FX/Dream Mangler.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Devi Ever FX",
@@ -32024,8 +32024,8 @@
       "image": "",
       "source_page": "https://www.effectsdatabase.com/model/deviever",
       "research_record": "./research/pedals/Devi Ever FX/Drone Fuck Drone.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Devi Ever FX",
@@ -32036,8 +32036,8 @@
       "image": "",
       "source_page": "https://www.effectsdatabase.com/model/deviever",
       "research_record": "./research/pedals/Devi Ever FX/EB Electric Brown.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Devi Ever FX",
@@ -32048,8 +32048,8 @@
       "image": "",
       "source_page": "https://www.effectsdatabase.com/model/deviever",
       "research_record": "./research/pedals/Devi Ever FX/Eye of God.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Devi Ever FX",
@@ -32060,8 +32060,8 @@
       "image": "",
       "source_page": "https://www.effectsdatabase.com/model/deviever",
       "research_record": "./research/pedals/Devi Ever FX/Fortune.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Devi Ever FX",
@@ -32084,8 +32084,8 @@
       "image": "",
       "source_page": "https://www.effectsdatabase.com/model/deviever",
       "research_record": "./research/pedals/Devi Ever FX/God Zilla.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Devi Ever FX",
@@ -43083,8 +43083,8 @@
       "image": "",
       "source_page": "https://mpamp.com/category/8/shop",
       "research_record": "./research/pedals/Mad Professor Amplification/Super Black.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Mad Professor Amplification",

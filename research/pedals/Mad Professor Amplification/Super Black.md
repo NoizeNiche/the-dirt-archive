@@ -1,23 +1,42 @@
 # Mad Professor Amplification — Super Black
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Super Black
 - **Builder:** Mad Professor Amplification
-- **Pedal:** Super Black
 - **Catalog type:** Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Mad Professor Amplification's Super Black.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Super Black** by **Mad Professor Amplification** as a **Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Mad Professor Amplification's Super Black is cataloged as an overdrive pedal.
 
-## Catalog source
-- Catalog source page on file: https://mpamp.com/category/8/shop
+## Colorways
+- Mad Professor Amplification Unveils The Super Black: A Deep Technical Review of the New 30W All-Tube Head
+- Measuring 25.5 × 10.5 × 24.5 cm (W×H×D), weighing 18.2 kg, and housed in a hand-brushed black anodized aluminum chassis with CNC-machined steel corners, it ships with a custom-built 4-button MIDI/relay footswitch and supports both analog and MIDI channel switching.
+- Power Section: Cathode-Biased EL34 Excellence The Super Black’s output stage utilizes two matched Gold Lion KT77 tubes — selected for tighter tolerance (±5% transconductance) and extended lifespan — operating in cathode-biased Class AB configuration.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+The core design goal was to preserve the harmonic richness and compression behavior of a properly loaded 30W Class AB push-pull stage while enabling clean-to-crunch-to-saturated transitions with minimal pedal dependency.
+To achieve this, Kärkkäinen abandoned traditional cascaded gain stages in favor of three independent preamp signal paths — Clean, Crunch, and Lead — each with its own dedicated tone stack, cathode follower, and master volume control.
+Preamp Signal Path Breakdown The Clean channel uses a single 12AX7 dual triode (ECC83) configured in a low-gain, high-headroom topology.
+
+## Sources checked
+1. Mad Professor Amplification Unveils The Super Black: A Deep Technical Review of the New 30W All-Tube Head | GearStrings: https://gearstrings.com/gear-reviews/mad-professor-amplification-unveils-the-super-black
+2. Mad Professor Amplification Super Black — Overdrive Pedal: https://equipboard.com/items/mad-professor-amplification-super-black
+3. Mad Professor Amplification Super Black Mini Preamp/Overdrive ... - Reverb: https://reverb.com/item/100487324-mad-professor-amplification-super-black-mini-preamp-overdrive-pedal-new-black
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

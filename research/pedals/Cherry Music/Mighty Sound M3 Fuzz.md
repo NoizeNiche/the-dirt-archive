@@ -36,3 +36,13 @@ The exact-model source identifies the M3 as a vintage-style fuzz but does not pr
 ## Sources checked
 1. Effects Database — Mighty Sound M3 Fuzz: https://www.effectsdatabase.com/model/mightysound/m3
 2. Effects Database — Mighty Sound family: https://www.effectsdatabase.com/model/mightysound
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Cherry Music's Mighty Sound M3 Fuzz is cataloged as a fuzz pedal.
+
+### Sources checked in this pass
+1. Mighty Sound M3 Fuzz | Effects Database: https://www.effectsdatabase.com/model/mightysound/m3

@@ -34,3 +34,22 @@ The Protein combines a clearer, high-headroom blue-side drive with a fuller Nash
 1. Browne Amplification — Protein Dual Overdrive V2.2: https://browneamps.com/store/p/protein-dual-overdrive
 2. Browne Amplification — Protein Dual Overdrive V3: https://browneamps.com/store/p/protein-dual-overdrive-v3
 3. Browne Amplification — Protein Dual Overdrive V4: https://browneamps.com/store/p/protein-dual-overdrive-v4
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Browne Amplification's The Protein - Dual Overdrive is cataloged as an overdrive pedal.
+
+### Verified color/finish evidence
+- Modeled after a classic OD (think John Mayer's Continuum), the Blue side serves up a timeless tone with extra output and more control.
+- #shorts #tone #guitarpedals 0:30 2023-01-09 Browne Amplification How to dial in the blue side of the Protein Dual Overdrive 0:58 2022-12-28 Browne Amplification Exposed!
+
+### Verified sound evidence
+Browne Amplification The Protein - Dual Overdrive
+The Browne Amplification Protein Dual Overdrive embodies everything that makes a Browne so special.
+Modeled after a classic OD (think John Mayer's Continuum), the Blue side serves up a timeless tone with extra output and more control.
+
+### Sources checked in this pass
+1. Browne Amplification The Protein - Dual Overdrive | Effects Database: https://www.effectsdatabase.com/model/browne/protein

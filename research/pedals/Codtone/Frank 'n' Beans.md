@@ -29,3 +29,18 @@ The model is documented as overdrive. A more detailed sonic characterization is 
 
 ## Sources checked
 1. The Dirt Archive Scrape C census: `research/SCRAPE_C_CENSUS.csv`
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Codtone's Frank 'n' Beans is cataloged as a fuzz pedal.
+
+### Verified sound evidence
+This is a modified fuzz, based on a famous one with the slightly rude name.
+This awesome sounding Fuzz is then paired with a notch filter based on the Harmonic Energizer, a rare, virtually unobtainable, vintage eq pedal used extensively by Frank Zappa.
+This combination runs rings around the regular tone control for this type of fuzz, as it allows for precise sculpting of the Fuzz frequency response, wailing harmonicly rich feedback, stuck wah type sounds, and near endless sustain.
+
+### Sources checked in this pass
+1. Codtone Frank 'n' Beans | Effects Database: https://www.effectsdatabase.com/model/codtone/franknbeans

@@ -1,23 +1,38 @@
 # Darkglass Electronics — ADAM Aggressively Distorting Advanced Machine
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** ADAM Aggressively Distorting Advanced Machine
 - **Builder:** Darkglass Electronics
-- **Pedal:** ADAM Aggressively Distorting Advanced Machine
 - **Catalog type:** Distortion
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Darkglass Electronics's ADAM Aggressively Distorting Advanced Machine.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **ADAM Aggressively Distorting Advanced Machine** by **Darkglass Electronics** as a **Distortion** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Darkglass Electronics's ADAM Aggressively Distorting Advanced Machine is cataloged as a distortion pedal.
 
-## Catalog source
-- Catalog source page on file: https://www.effectsdatabase.com/model/darkglass/adam
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+Each of these stores your unique blend of compression, distortion, impulse responses, EQ parameters, and signal chain settings.
+Compression: Controls the amount of input gain to the compressor and intelligently applies the correct amount of makeup gain so that your signal is always driven at the appropriate level, no matter how much compression is applied.
+Drive: Adds distortion and drive to your signal.
+
+## Sources checked
+1. Darkglass Electronics ADAM Aggressively Distorting Advanced Machine | Effects Database: https://www.effectsdatabase.com/model/darkglass/adam
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

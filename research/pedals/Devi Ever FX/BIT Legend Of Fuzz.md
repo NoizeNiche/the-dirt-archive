@@ -1,23 +1,40 @@
 # Devi Ever FX — BIT Legend Of Fuzz
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** BIT Legend Of Fuzz
 - **Builder:** Devi Ever FX
-- **Pedal:** BIT Legend Of Fuzz
 - **Catalog type:** Fuzz
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Devi Ever FX's BIT Legend Of Fuzz.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **BIT Legend Of Fuzz** by **Devi Ever FX** as a **Fuzz** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+The Bit Legend of Fuzz Guitar Effects Pedal is an intense sawtooth shaping fuzz that creates tones reminiscent of C64, Atari, and other old video game consoles.
 
-## Catalog source
-- Catalog source page on file: https://www.effectsdatabase.com/model/deviever
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+Devi Ever (2007) triangle wave resonation fuzz tone strange decay : brittle : intense : love Devi Ever An analog saw tooth style fuzz pedal with a cool retro sound.
+The Bit Legend of Fuzz Guitar Effects Pedal is an intense sawtooth shaping fuzz that creates tones reminiscent of C64, Atari, and other old video game consoles.
+Controls: Volume knob: lots of gain on tap Control knob: changes fuzz intensity and texture Video all
+
+## Sources checked
+1. Devi Ever FX Bit Legend Of Fuzz - eBay: https://www.ebay.com/itm/389682688651
+2. Devi Ever FX Bit Legend Of Fuzz &ndash; Malibu Music: https://malibumusic.com/products/devi-ever-fx-bit-legend-of-fuzz
+3. Devi Ever FX BIT Legend Of Fuzz | Effects Database: https://www.effectsdatabase.com/model/deviever/bit
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

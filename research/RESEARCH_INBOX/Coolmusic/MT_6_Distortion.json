@@ -1,0 +1,25 @@
+{
+  "builder": "Coolmusic",
+  "pedal": "MT-6 Distortion",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 2,
+  "sources": [
+    {
+      "url": "https://www.ebay.com/itm/800244306773",
+      "title": "Coolmusic MT-6 Distortion Guitar Effects Pedal Mint Condition",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.ebay.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://reverb.com/ca/item/95261428-coolmusic-mt-6-distortion-guitar-effects-pedal",
+      "title": "Coolmusic MT-6 DISTORTION Guitar Effects Pedal - Reverb",
+      "h1": "",
+      "excerpt": "",
+      "host": "reverb.com",
+      "source_kind": "reverb"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}

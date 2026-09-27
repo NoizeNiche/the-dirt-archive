@@ -29,3 +29,18 @@ The model is documented as fuzz. A more detailed sonic characterization is defer
 
 ## Sources checked
 1. The Dirt Archive Scrape C census: `research/SCRAPE_C_CENSUS.csv`
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Codtone's Fuzz for Bass is cataloged as a fuzz pedal.
+
+### Verified sound evidence
+Controls are gain, clean blend, tone and fuzz volume.
+Gain ranges go from gritty od to all-out singing fuzz, while the clean blend means you can mix in as much clarity and low end as required.
+Although designed for bass, it works great with guitar too- it's actually my fuzz-of-choice for jazz gigs on the archtop!
+
+### Sources checked in this pass
+1. Codtone Fuzz for Bass | Effects Database: https://www.effectsdatabase.com/model/codtone/fuzzforbass

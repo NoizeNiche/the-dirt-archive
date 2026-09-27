@@ -30,3 +30,13 @@ The CL-4 is documented as a combined distortion and reverb pedal. More detailed 
 ## Sources checked
 1. Effects Database — Chiu Luen CL-4 Distortion/Reverb: https://www.effectsdatabase.com/model/chiuluen/cl4
 2. Effects Database — Reverb category: https://www.effectsdatabase.com/type/reverb?from=200&page=1
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Chiu Luen's CL-4 Distortion/Reverb is cataloged as a distortion pedal.
+
+### Sources checked in this pass
+1. Chiu Luen CL-4 Distortion/Reverb | Effects Database: https://www.effectsdatabase.com/model/chiuluen/cl4

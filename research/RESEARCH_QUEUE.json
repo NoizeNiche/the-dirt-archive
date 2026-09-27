@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-27T10:54:03.237853+00:00",
+  "generated_at": "2026-09-27T10:57:14.385248+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,8 +10,8 @@
     "pictured": 3133,
     "complete": 3133,
     "research_pending": 0,
-    "deep_research_pending": 1212,
-    "deep_researched": 3030,
+    "deep_research_pending": 1165,
+    "deep_researched": 3077,
     "surface_ready": 4242
   },
   "next_target": {
@@ -107,20 +107,6 @@
       "research_level": "surface"
     },
     {
-      "builder": "Browne Amplification",
-      "pedal": "The Carbon - Overdrive",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 123/browne-amplification-the-carbon-overdrive.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Browne Amplification",
-      "pedal": "The Protein - Dual Overdrive",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 124/browne-amplification-the-protein-dual-overdrive.md",
-      "research_level": "surface"
-    },
-    {
       "builder": "Bulinski Effect Pedals",
       "pedal": "RC Bass Fuzz",
       "catalog_type": "",
@@ -195,6 +181,20 @@
       "pedal": "Baci Overdrive/Distortion",
       "catalog_type": "",
       "research_record": "./research/pedals/PRP Batch 147/camuro-baci-overdrive-distortion.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Camuro",
+      "pedal": "Caboolture Twin-Stage Overdrive",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 147/camuro-caboolture-twin-stage-overdrive.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Camuro",
+      "pedal": "Fuzz Rosso",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 147/camuro-fuzz-rosso.md",
       "research_level": "surface"
     }
   ]

@@ -1,23 +1,39 @@
 # Darkglass Electronics — Alpha Omicron
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Alpha Omicron
 - **Builder:** Darkglass Electronics
-- **Pedal:** Alpha Omicron
 - **Catalog type:** Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Darkglass Electronics's Alpha Omicron.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Alpha Omicron** by **Darkglass Electronics** as a **Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Darkglass Electronics's Alpha Omicron is cataloged as an overdrive pedal.
 
-## Catalog source
-- Catalog source page on file: https://www.effectsdatabase.com/model/darkglass/alphaomicron
+## Colorways
+- Tone Zone 2:19 2017-12-01 BassTheWorld DARKGLASS - ALPHA OMICRON 7:51 2017-11-13 Black Rabbit Pedals Darkglass Electronics Alpha Omicron Demo 6:32 2017-10-11 Bassic Gear Review Darkglass Alpha Omicron Bass Demo 8:32 2017-1
+
+## Versions and factory options
+- The verified evidence references: v2.
+- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+The clean signal remains at unity gain while the volume of the overdriven signal is set by the Level knob, allowing for fine mix tuning.
+Drive - Sets the amount of gain in the overdriven signal.
+Mod - Selects or mixes between the two distinct distortion circuits: Alpha is punchy, tight with a lot of definition, whereas Omega is simply brutal and raw.
+
+## Sources checked
+1. Darkglass Electronics Alpha Omicron - Bass Preamp/OD | Effects Database: https://www.effectsdatabase.com/model/darkglass/alphaomicron
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

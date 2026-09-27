@@ -46,3 +46,18 @@ The 8-Tr fuzz is derived from the Super Fuzz family and provides two selectable 
 ## Photo
 - **Archive status:** No local photo archived in this research pass.
 - **Exact-model visual reference checked:** Effects Database Crestwood 8-Tr Fuzz Wah Pedal page.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Crestwood's Crestwood 8-Tr Fuzz Wah Pedal is cataloged as a fuzz pedal.
+
+### Verified sound evidence
+It pairs a Shin-Ei 8Tr fuzz circuit with an onboard wah, delivering classic Super Fuzz-style tones with two selectable fuzz voices.
+The fuzz section employs an eight-transistor topology with two germanium diodes, while the wah provides a narrow, guitar-focused sweep.
+The pedal can operate as fuzz only, wah only, or fuzz and wah together, with simple controls for output level and fuzz intensity and a side switch to choose between two distinct fuzz textures.
+
+### Sources checked in this pass
+1. Crestwood 8-Tr Fuzz Wah Pedal | Effects Database: https://www.effectsdatabase.com/model/crestwood/fuzzwah/8tr

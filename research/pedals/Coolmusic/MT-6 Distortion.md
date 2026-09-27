@@ -44,3 +44,14 @@ The model is positioned around six selectable heavy-metal distortion treatments 
 
 ## Sources checked
 1. Effects Database - Coolmusic MT-6 Distortion: https://www.effectsdatabase.com/model/coolmusic/mt6
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Coolmusic's MT-6 Distortion is cataloged as a distortion pedal.
+
+### Sources checked in this pass
+1. Coolmusic MT-6 Distortion Guitar Effects Pedal Mint Condition: https://www.ebay.com/itm/800244306773
+2. Coolmusic MT-6 DISTORTION Guitar Effects Pedal - Reverb: https://reverb.com/ca/item/95261428-coolmusic-mt-6-distortion-guitar-effects-pedal

@@ -45,3 +45,13 @@ The 6-Tr family is known for raw, high-gain fuzz with pronounced upper-octave co
 ## Photo
 - **Archive status:** No local photo archived in this research pass.
 - **Exact-model visual reference checked:** Effects Database Crestwood 6-Tr Fuzz Wah page.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Crestwood's Crestwood 6-Tr Fuzz Wah is cataloged as a fuzz pedal.
+
+### Sources checked in this pass
+1. Crestwood 6-Tr Fuzz Wah | Effects Database: https://www.effectsdatabase.com/model/crestwood/fuzzwah

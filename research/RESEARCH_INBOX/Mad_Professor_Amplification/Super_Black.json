@@ -1,0 +1,33 @@
+{
+  "builder": "Mad Professor Amplification",
+  "pedal": "Super Black",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 3,
+  "sources": [
+    {
+      "url": "https://gearstrings.com/gear-reviews/mad-professor-amplification-unveils-the-super-black",
+      "title": "Mad Professor Amplification Unveils The Super Black: A Deep Technical Review of the New 30W All-Tube Head | GearStrings",
+      "h1": "Mad Professor Amplification Unveils The Super Black: A Deep Technical Review of the New 30W All-Tube Head",
+      "excerpt": "Mad Professor Amplification Unveils The Super Black: A Deep Technical Review of the New 30W All-Tube Head | GearStrings GEARSTRINGS Home Blog Categories Authors About Home / Blog / gear reviews gear reviews Mad Professor Amplification Unveils The Super Black: A Deep Technical Review of the New 30W All-Tube Head By Liam Carter July 26, 2026 Mad Professor Amplification has officially launched the Super Black \u2014 a 30W all-tube guitar amplifier head designed for players demanding vintage tonal authority without sacrificing modern control. Built around a dual-EL34 power section, cathode-biased output stage, and a three-channel preamp with discrete gain staging, the Super Black delivers dynamic headroom, touch-sensitive response, and a refined British voicing rooted in late-1960s circuit philosophy but updated with precision component selection and robust build quality. Measuring 25.5 \u00d7 10.5 \u00d7 24.5 cm (W\u00d7H\u00d7D), weighing 18.2 kg, and housed in a hand-brushed black anodized aluminum chassis with CNC-machined steel corners, it ships with a custom-built 4-button MIDI/relay footswitch and supports both analog and MIDI channel switching. This review documents extensive bench testing, real-world playing evaluation across multiple guitar and speaker cabinet configurations, and comparative measurements against reference amplifiers including the Marshall JTM45 reissue, Hiwatt DR504, and Matchless HC-30. Design Philosophy and Circuit Architecture Mad Professor founder Jukka K\u00e4rkk\u00e4inen \u2014 a former senior engineer at Suhr Guitars and longtime collaborator with boutique builders like Two-Rock and Victoria \u2014 conceived the Super Black as a response to player feedback requesting a lower-wattage alternative to the company\u2019s flagship Deep Blue (which runs 50W in fixed-bias EL34 mode). The core design goal was to preserve the harmonic richness and compression behavior of a properly loaded 30W Class AB push-pull stage while enabling clean-to-crunch-to-saturated transitions with minimal pedal dependency. To achieve this, K\u00e4rkk\u00e4inen abandoned traditional cascaded gain stages in favor of three independent preamp signal paths \u2014 Clean, Crunch, and Lead \u2014 each with its own dedicated tone stack, cathode follower, and master volume control. Preamp Signal Path Breakdown The Clean channel uses a single 12AX7 dual triode (ECC83) configured in a low-gain, high-headroom topology. Its first gain stage operates at 100V plate voltage with a 100k\u03a9 plate load resistor and 1.5k\u03a9 cathode bias resistor, yielding measured gain of 38dB at 1kHz. The second triode functions as a cathode follower driving a passive Baxandall-style tone stack (Bass: \u00b112dB @ 80Hz, Middle: \u00b110dB @ 450Hz, Treble: \u00b112dB @ 4.2kHz) before feeding the phase inverter. The Crunch channel introduces a second 12AX7 \u2014 wired with the first triode biased at 125V plate voltage and a 220k\u03a9 plate load \u2014 delivering 48dB gain. A unique 0.022\u00b5F coupling capacitor between stages shapes early saturation onset, emphasizing even-order harmonics below 300Hz. Its tone stack is identical to the Clean channel but features a mid-boost switch engaging a 12dB peak at 800Hz via a switched 2.2nF cap in parallel with the standard 1nF. The Lead channel employs a third 12AX7 with asymmetric gain staging: first triode at 135V / 270k\u03a9 (52dB), second triode at 115V / 150k\u03a9 (44dB), plus a post-tone-stack gain recovery stage using a 12AT7 (ECC81) operating at 140V plate voltage. This configuration yields 61dB total gain at 1kHz and produces rich, singing sustain without harsh clipping artifacts. All three channels feed into a shared long-tailed pair phase inverter built with matched 12AU7 (ECC82) tubes. Power Section: Cathode-Biased EL34 Excellence The Super Black\u2019s output stage utilizes two matched Gold Lion KT77 tubes \u2014 selected for tighter tolerance (\u00b15% transconductance) and extended lifespan \u2014 operating in cathode-biased Class AB configuration. Unlike fixed-bias competitors, this topology eliminates the need for bias adjustment during ",
+      "host": "gearstrings.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://equipboard.com/items/mad-professor-amplification-super-black",
+      "title": "Mad Professor Amplification Super Black \u2014 Overdrive Pedal",
+      "h1": "",
+      "excerpt": "",
+      "host": "equipboard.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://reverb.com/item/100487324-mad-professor-amplification-super-black-mini-preamp-overdrive-pedal-new-black",
+      "title": "Mad Professor Amplification Super Black Mini Preamp/Overdrive ... - Reverb",
+      "h1": "",
+      "excerpt": "",
+      "host": "reverb.com",
+      "source_kind": "reverb"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}

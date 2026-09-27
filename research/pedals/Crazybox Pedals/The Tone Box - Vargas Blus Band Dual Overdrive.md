@@ -38,3 +38,16 @@ The documented design is intended as a flexible dual overdrive for blues and roc
 1. Effects Database - Crazybox Pedals The Tone Box
 2. Guitarristas - Vargas Blues Band Dual Overdrive discussion
 3. Contemporary manufacturer link preserved in that discussion
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Crazybox Pedals's The Tone Box - Vargas Blus Band Dual Overdrive is cataloged as an overdrive pedal.
+
+### Verified sound evidence
+Crazybox Pedals The Tone Box - Vargas Blus Band Dual Overdrive
+
+### Sources checked in this pass
+1. Crazybox Pedals The Tone Box - Vargas Blus Band Dual Overdrive | Effects Database: https://www.effectsdatabase.com/model/crazybox/tonebox/vargasbluesband

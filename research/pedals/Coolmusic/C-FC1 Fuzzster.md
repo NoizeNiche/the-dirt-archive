@@ -50,3 +50,13 @@ The combination of Fuzz, Sustain, Clean and Tone controls indicates a fuzz desig
 ## Sources checked
 1. Coolmusic official guitar-effects manual, C-FC01 / FUZZSTER Distortion: https://www.coolmusic-tech.com/public/uploads/files/20210730/cefdbb91ba84309da1436720d0c02726.pdf
 2. Effects Database - Coolmusic model index: https://www.effectsdatabase.com/model/coolmusic
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Coolmusic's C-FC1 Fuzzster is cataloged as a fuzz pedal.
+
+### Sources checked in this pass
+1. Coolmusic | Effects Database: https://www.effectsdatabase.com/model/coolmusic

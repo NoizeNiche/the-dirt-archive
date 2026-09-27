@@ -41,3 +41,21 @@ The Texas Square Face is designed around the response of a Fuzz Face while prior
 1. Effects Database — Diaz Texas Square Face: https://www.effectsdatabase.com/model/diaz/texassquareface
 2. SRV Archive — Effects / Texas Square Face: https://www.srvarchive.com/effects
 3. Effects Freak — Texas Square Face collector listing: https://effectsfreak.com/effect/texas-square-face-orange-case-blue-graphics-blue-chicken-heads-original-packaging/
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+César Diaz's Diaz Texas Square Face is cataloged as a fuzz pedal.
+
+### Verified transistor/device terms
+- Germanium Fuzz.
+
+### Verified sound evidence
+Cesar Diaz built his circuit into one of SRV's dead fuzz face boxes and Stevie used it for the rest of his life.
+20:32 2024-05-03 Joe Huber (IoT) 1970 Fuzz Face ( si) vs.
+fx pedal stompbox stomp box guitar effects pedal fuzz distortion/fuzz/overdri
+
+### Sources checked in this pass
+1. Diaz Texas Square Face | Effects Database: https://www.effectsdatabase.com/model/diaz/texassquareface
