@@ -16,3 +16,21 @@
 - **Sources checked:**
   - https://www.effectsdatabase.com/model/casestudy/aspen/germanium
   - https://casestudyeffects.co/products/aspen-one
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+overdrive pedal Information The Case Study Effects Germanium Aspen is a Custom Shop reimagining of the Aspen overdrive pedal, distinguished by its use of rare germanium diodes in place of the standard silicon clipping stage.
+
+### Verified color/finish evidence
+- Visually, this Custom Shop edition is set apart with an exclusive Midnight Black finish accented by Mocha control knobs.
+
+### Verified sound evidence
+Case Study Germanium Aspen Overdrive
+overdrive pedal Information The Case Study Effects Germanium Aspen is a Custom Shop reimagining of the Aspen overdrive pedal, distinguished by its use of rare germanium diodes in place of the standard silicon clipping stage.
+These diodes transform the pedal's response, producing softer clipping, smoother highs, and an organic liveliness that silicon cannot replicate.
+
+### Sources checked in this pass
+1. Case Study Germanium Aspen Overdrive | Effects Database: https://www.effectsdatabase.com/model/casestudy/aspen/germanium

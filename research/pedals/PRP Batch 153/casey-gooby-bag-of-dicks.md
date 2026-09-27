@@ -16,3 +16,19 @@
 - **Sources checked:**
   - https://www.effectsdatabase.com/model/caseygooby/bagofdicks
   - https://www.effectsdatabase.com/updates/weekly/20110502
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+fuzz pedal has captured the sound of the Jordan Bosstone and so much more.
+
+### Verified sound evidence
+fuzz pedal has captured the sound of the Jordan Bosstone and so much more.
+You can obtain a cool octavia vibe with the fuzz control just barely up, subtle throaty tones at the midpoint and full on in your face fuzz when dimmed.
+The BOD really cuts through in live situations and the sustain will travel for days.This is a unique fuzz tone; it is not a Fuzz Face, it is not a Big Muff.
+
+### Sources checked in this pass
+1. Casey Gooby Bag Of Dicks | Effects Database: https://www.effectsdatabase.com/model/caseygooby/bagofdicks
+2. Gooby Bag of Dicks - Custom Built Fuzz: https://www.aceguitars.com.au/bagofdicks.html

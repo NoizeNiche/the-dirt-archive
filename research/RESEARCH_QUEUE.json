@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-27T09:42:29.613022+00:00",
+  "generated_at": "2026-09-27T09:44:40.266554+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,8 +10,8 @@
     "pictured": 3123,
     "complete": 3123,
     "research_pending": 0,
-    "deep_research_pending": 2011,
-    "deep_researched": 2231,
+    "deep_research_pending": 2002,
+    "deep_researched": 2240,
     "surface_ready": 4242
   },
   "next_target": {
@@ -90,13 +90,6 @@
       "pedal": "Dyna Blue Distortion",
       "catalog_type": "",
       "research_record": "./research/pedals/PRP Batch 092/Dyna Blue Distortion.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "BJFE / BJF Electronics",
-      "pedal": "Folk Fuzz 3.5%",
-      "catalog_type": "",
-      "research_record": "./research/pedals/BJFE / BJF Electronics/Folk Fuzz 3.5%.md",
       "research_level": "surface"
     },
     {
@@ -195,6 +188,13 @@
       "pedal": "FNORD",
       "catalog_type": "",
       "research_record": "./research/pedals/PRP Batch 094/FNORD.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Black Arts Toneworks",
+      "pedal": "LSTR",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 094/LSTR.md",
       "research_level": "surface"
     }
   ]
