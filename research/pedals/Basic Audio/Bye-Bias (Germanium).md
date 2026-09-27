@@ -4,51 +4,50 @@
 - **Archive parent:** Bye-Bias (Germanium)
 - **Builder:** Basic Audio
 - **Catalog type:** Fuzz
-- **Identity:** Separate Germanium version of Bye-Bias, documented by Basic Audio as essentially a different pedal from the silicon model, with added gain and a softer bias/gating response. [1]
+- **Identity:** Distinct Germanium Bye-Bias design retaining the independently biased two-stage concept while adding Gain and softer Germanium response. [1][2]
 
 ## What this pedal is
-The Germanium Bye-Bias keeps the experimental dual-bias concept of the silicon model but changes the underlying transistor technology. Basic Audio says the germanium version is a little softer and lower-gain, with broader usable areas for gated and misbiased textures. [1]
+Basic Audio explicitly treats the Germanium version as a different pedal from the silicon Bye-Bias. The Germanium model adds a Gain control and is described as softer and lower-gain, with wide bias range for gated/misbiased sounds. [1]
 
-## Controls / configuration
-- **Fuzz**
-- **Tone**
-- **Volume**
-- **Bias**
-- **Gain** on the Germanium version.
-A 2021 custom-order example also documents a power-starve control, confirming that custom Germanium configurations existed. [1][2]
+## Controls
+- **FUZZ**
+- **TONE**
+- **VOLUME**
+- **BIAS**
+- **GAIN**
+- Some custom examples add power-starve control. [1][2]
 
 ## Circuit lineage
-- Family relationship: Bye-Bias.
-- **Transistor technology:** Germanium.
-- The Germanium version is maintained as a distinct catalog record because the builder explicitly treats it as a different pedal. [1]
+- **Family:** Bye-Bias.
+- **Technology:** Germanium.
+- Separate from the silicon Bye-Bias, not a cosmetic revision. [1]
 
 ## Transistor
-- **Technology:** Germanium.
-- Exact production device part number is not publicly documented. [1][2]
+- **Germanium** technology confirmed.
+- Exact transistor part number is not publicly documented. [1][2]
 
-## Diode / clipping
+## Diode
 - Exact clipping-device type and part number are not published.
 
 ## Power
-- **Center-negative 9V** operation and battery support are documented for the parent product family. [1]
+- **Center-negative 9V DC** with battery support for the product family. [1]
 
 ## Version history
-- Silicon Bye-Bias and Germanium Bye-Bias are separate designs rather than a cosmetic revision.
-- Germanium adds gain and a softer operating response. [1]
+- Germanium and silicon versions are distinct circuit identities.
+- Custom-order examples document additional starve control. [2]
 
 ## Sound
-Basic Audio describes the Germanium version as softer and lower-gain than the silicon model, with broad bias regions capable of gating and misbiased textures. The design is intended for players who want more control over broken-up fuzz behavior. [1][2]
+Basic Audio describes the Germanium version as softer/lower-gain with broad bias regions that range from more open response through gated or deliberately misbiased textures. [1][2]
 
 ## Research confidence
-- **Identity:** High
 - **Separate-model status:** High
 - **Germanium technology:** High
-- **Gain addition:** High
+- **Controls:** High
 - **Exact transistor:** Unknown
 - **Exact diode:** Unknown
 
 ## Deep research verification
-The official Germanium Bye-Bias page was checked against a 2021 exact-model Reverb example. The sources support the distinct Germanium design, its gain addition and custom bias/starve configurations. The archive does not infer an exact germanium device number from the model family. [1][2]
+The manufacturer page was cross-checked with an exact 2021 Reverb example. The evidence confirms that the Germanium version was ordered as a distinct Basic Audio model and that custom units could carry a power-starve control in addition to Bias, Fuzz, Tone and Volume. [1][2]
 
 ## Sources checked
 1. Basic Audio — Bye-Bias (Germanium): https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-5pdl4
@@ -57,5 +56,4 @@ The official Germanium Bye-Bias page was checked against a 2021 exact-model Reve
 
 ## Photo
 - **Exact pedal photograph:** Basic Audio official product photograph.
-- **Direct image:** https://images.squarespace-cdn.com/content/v1/5da9e97016ddf940acffa2d3/1582126099285-98THKJM2VJPEHKYDQ98P/DSCF0833.jpg
-- **Source page:** Basic Audio Germanium Bye-Bias.
+- https://images.squarespace-cdn.com/content/v1/5da9e97016ddf940acffa2d3/1582126099285-98THKJM2VJPEHKYDQ98P/DSCF0833.jpg
