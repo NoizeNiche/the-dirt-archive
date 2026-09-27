@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-27T02:04:36.845918+00:00",
+  "generated_at": "2026-09-27T02:08:56.055217+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,8 +10,8 @@
     "pictured": 3019,
     "complete": 3019,
     "research_pending": 0,
-    "deep_research_pending": 2058,
-    "deep_researched": 1703,
+    "deep_research_pending": 2053,
+    "deep_researched": 1708,
     "surface_ready": 3761
   },
   "next_target": {
@@ -48,13 +48,6 @@
       "pedal": "Pepsiman",
       "catalog_type": "",
       "research_record": "./research/pedals/Barber Electronics/Pepsiman.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Basic Audio",
-      "pedal": "Eve fuzz",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Basic Audio/Eve fuzz.md",
       "research_level": "surface"
     },
     {
@@ -195,6 +188,13 @@
       "pedal": "Bass Brassmaster",
       "catalog_type": "",
       "research_record": "./research/pedals/Behringer/Bass Brassmaster.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Behringer",
+      "pedal": "Fuzz Bender",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Behringer/Fuzz Bender.md",
       "research_level": "surface"
     }
   ]

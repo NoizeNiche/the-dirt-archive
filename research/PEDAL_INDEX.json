@@ -7502,8 +7502,8 @@
       "source_page": "https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-6jkg6-k2n23",
       "research_record": "./research/pedals/Basic Audio/Eve fuzz.md",
       "image_source_url": "https://images.squarespace-cdn.com/content/v1/5da9e97016ddf940acffa2d3/1647485195666-J9D18MJ07IHC2OM7400Z/DSCF4844_1.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Basic Audio",
@@ -10819,8 +10819,8 @@
       "research_record": "./research/pedals/PRP Batch 092/Dyna Red Distortion (DRD).md",
       "image_source_url": "https://static.mercdn.net/item/detail/orig/photos/m78203852237_1.jpg?1673364729",
       "image_source_page": "https://jp.mercari.com/item/m78203852237",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "BJFE / BJF Electronics",
@@ -10833,8 +10833,8 @@
       "research_record": "./research/pedals/PRP Batch 092/Emerald Green Distortion Machine (EGDM).md",
       "image_source_url": "http://www.bjfe.jp/cdn/shop/products/EGDM-01.jpg?v=1680162707",
       "image_source_page": "https://www.bjfe.jp/products/bjfegdm4k",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "BJFE / BJF Electronics",
@@ -36206,8 +36206,8 @@
       "image": "./assets/pedals/jhs-pedals/packrat/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/JHS Pedals/PackRat.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "JHS Pedals",
@@ -37152,8 +37152,8 @@
       "image": "./assets/pedals/khdk-electronics/fallout-bass-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/KHDK Electronics/Fallout Bass Overdrive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "KHDK Electronics",
