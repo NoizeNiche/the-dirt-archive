@@ -6,7 +6,6 @@ on:
     paths:
       - research/PHOTO_FAST_KICK
       - research/PHOTO_SOURCE_OVERRIDES.csv
-      - research/PRP_TRACKER.csv
 
 permissions:
   contents: write
