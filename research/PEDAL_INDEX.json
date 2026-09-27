@@ -37848,8 +37848,8 @@
       "image": "./assets/pedals/jptr-fx/warlow-mini/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/JPTR FX/WARLOW mini.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Katanasound",
