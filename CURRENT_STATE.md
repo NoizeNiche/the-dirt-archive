@@ -3,13 +3,13 @@
 
 The active production phase is **Catalog Research Phase**. PRP1 is retained only as a legacy publication/closeout mechanism.
 
-Live catalog: **3761 total / 3761 surface-ready / 1877 deep-researched / 3761 research-linked / 3026 pictured / 3026 complete / 0 surface-missing / 1884 deep-research-pending / 735 researched-photo-pending**.
+Live catalog: **3761 total / 3761 surface-ready / 1878 deep-researched / 3761 research-linked / 3026 pictured / 3026 complete / 0 surface-missing / 1883 deep-research-pending / 735 researched-photo-pending**.
 
 **Next deep-research target:** Barber Electronics - Pepsiman.
 
 PRP1 closeout remains separate: 735 researched record(s) still lack an exact local photo.
 The research queue is generated from the canonical catalog and tracker; do not hand-edit the derived queue.
-Last refreshed: 2026-09-27T03:50:51.311311+00:00
+Last refreshed: 2026-09-27T03:52:30.764619+00:00
 <!-- AUTO:RESEARCH_PHASE_END -->
 
 ## Historical checkpoints
