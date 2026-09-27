@@ -13131,7 +13131,7 @@
   {
     "builder": "CopperSound Pedals",
     "pedal": "Foxcatcher - Overdrive & Boost",
-    "image": null,
+    "image": "./assets/pedals/coppersound-pedals/foxcatcher-overdrive-boost/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/CopperSound Pedals/Foxcatcher - Overdrive & Boost.md"
   },
@@ -22707,7 +22707,7 @@
   {
     "builder": "Maxon",
     "pedal": "OD820 Overdrive Pro+",
-    "image": null,
+    "image": "./assets/pedals/maxon/od820-overdrive-pro/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Maxon/OD820 Overdrive Pro+.md"
   },
@@ -22721,7 +22721,7 @@
   {
     "builder": "Maxon",
     "pedal": "OOD-9 Organic Overdrive",
-    "image": null,
+    "image": "./assets/pedals/maxon/ood-9-organic-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Maxon/OOD-9 Organic Overdrive.md"
   },
@@ -22735,7 +22735,7 @@
   {
     "builder": "Maxon",
     "pedal": "OSD-9",
-    "image": null,
+    "image": "./assets/pedals/maxon/osd-9/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Maxon/OSD-9.md"
   },
@@ -24387,7 +24387,7 @@
   {
     "builder": "MXR",
     "pedal": "Octavio Fuzz",
-    "image": null,
+    "image": "./assets/pedals/mxr/octavio-fuzz/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/MXR/Octavio Fuzz.md"
   },
@@ -24821,7 +24821,7 @@
   {
     "builder": "NUX Audio / NUX",
     "pedal": "Horseman",
-    "image": null,
+    "image": "./assets/pedals/nux-audio-nux/horseman/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/NUX Audio / NUX/Horseman.md"
   },
@@ -25976,14 +25976,14 @@
   {
     "builder": "Radial Tonebone",
     "pedal": "Texas-Pro",
-    "image": null,
+    "image": "./assets/pedals/radial-tonebone/texas-pro/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Radial Tonebone/Texas-Pro.md"
   },
   {
     "builder": "Radial Tonebone",
     "pedal": "Trimode",
-    "image": null,
+    "image": "./assets/pedals/radial-tonebone/trimode/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Radial Tonebone/Trimode.md"
   },
@@ -26011,7 +26011,7 @@
   {
     "builder": "Ramble FX",
     "pedal": "Twin Bender",
-    "image": null,
+    "image": "./assets/pedals/ramble-fx/twin-bender/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Ramble FX/Twin Bender.md"
   },
@@ -26410,35 +26410,35 @@
   {
     "builder": "Skreddy Pedals",
     "pedal": "Giant Meat Pie BC239",
-    "image": null,
+    "image": "./assets/pedals/skreddy-pedals/giant-meat-pie-bc239/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Skreddy Pedals/Giant Meat Pie BC239.md"
   },
   {
     "builder": "Skreddy Pedals",
     "pedal": "High Gear",
-    "image": null,
+    "image": "./assets/pedals/skreddy-pedals/high-gear/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Skreddy Pedals/High Gear.md"
   },
   {
     "builder": "Skreddy Pedals",
     "pedal": "Hybrid Fuzz Driver",
-    "image": null,
+    "image": "./assets/pedals/skreddy-pedals/hybrid-fuzz-driver/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Skreddy Pedals/Hybrid Fuzz Driver.md"
   },
   {
     "builder": "Skreddy Pedals",
     "pedal": "Hybrid Overdrive",
-    "image": null,
+    "image": "./assets/pedals/skreddy-pedals/hybrid-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Skreddy Pedals/Hybrid Overdrive.md"
   },
   {
     "builder": "Skreddy Pedals",
     "pedal": "Juicy Pig",
-    "image": null,
+    "image": "./assets/pedals/skreddy-pedals/juicy-pig/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Skreddy Pedals/Juicy Pig.md"
   },
@@ -26599,7 +26599,7 @@
   {
     "builder": "Smallsound/Bigsound",
     "pedal": "Fuck",
-    "image": null,
+    "image": "./assets/pedals/smallsound-bigsound/fuck/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Smallsound/Bigsound/Fuck.md"
   },
@@ -26662,7 +26662,7 @@
   {
     "builder": "SolidGoldFX",
     "pedal": "Lysis MKII",
-    "image": null,
+    "image": "./assets/pedals/solidgoldfx/lysis-mkii/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/SolidGoldFX/Lysis MKII.md"
   },
@@ -26753,7 +26753,7 @@
   {
     "builder": "Spaceman Effects",
     "pedal": "Saturn VI",
-    "image": null,
+    "image": "./assets/pedals/spaceman-effects/saturn-vi/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Spaceman Effects/Saturn VI.md"
   },
@@ -26774,14 +26774,14 @@
   {
     "builder": "Spaceman Effects",
     "pedal": "Sputnik III",
-    "image": null,
+    "image": "./assets/pedals/spaceman-effects/sputnik-iii/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Spaceman Effects/Sputnik III.md"
   },
   {
     "builder": "Spaceman Effects",
     "pedal": "Titan II",
-    "image": null,
+    "image": "./assets/pedals/spaceman-effects/titan-ii/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Spaceman Effects/Titan II.md"
   },
@@ -26823,7 +26823,7 @@
   {
     "builder": "Stomp Under Foot",
     "pedal": "Civil Unrest",
-    "image": null,
+    "image": "./assets/pedals/stomp-under-foot/civil-unrest/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Stomp Under Foot/Civil Unrest.md"
   },
@@ -26844,7 +26844,7 @@
   {
     "builder": "Stomp Under Foot",
     "pedal": "Dirt Preacher",
-    "image": null,
+    "image": "./assets/pedals/stomp-under-foot/dirt-preacher/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Stomp Under Foot/Dirt Preacher.md"
   },
@@ -26865,7 +26865,7 @@
   {
     "builder": "Stomp Under Foot",
     "pedal": "Elk Super Fuzz",
-    "image": null,
+    "image": "./assets/pedals/stomp-under-foot/elk-super-fuzz/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Stomp Under Foot/Elk Super Fuzz.md"
   },
@@ -26879,7 +26879,7 @@
   {
     "builder": "Stomp Under Foot",
     "pedal": "Fuzz Master 3",
-    "image": null,
+    "image": "./assets/pedals/stomp-under-foot/fuzz-master-3/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Stomp Under Foot/Fuzz Master 3.md"
   },
@@ -27117,14 +27117,14 @@
   {
     "builder": "Stone Deaf FX",
     "pedal": "PDF-1X Ghost",
-    "image": null,
+    "image": "./assets/pedals/stone-deaf-fx/pdf-1x-ghost/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Stone Deaf FX/PDF-1X Ghost.md"
   },
   {
     "builder": "Stone Deaf FX",
     "pedal": "PDF-2",
-    "image": null,
+    "image": "./assets/pedals/stone-deaf-fx/pdf-2/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Stone Deaf FX/PDF-2.md"
   },
@@ -27159,56 +27159,56 @@
   {
     "builder": "Strymon",
     "pedal": "Canoga Vintage Silicon Fuzz",
-    "image": null,
+    "image": "./assets/pedals/strymon/canoga-vintage-silicon-fuzz/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Strymon/Canoga Vintage Silicon Fuzz.md"
   },
   {
     "builder": "Strymon",
     "pedal": "Deco Tape Saturation & Doubletracker",
-    "image": null,
+    "image": "./assets/pedals/strymon/deco-tape-saturation-doubletracker/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Strymon/Deco Tape Saturation & Doubletracker.md"
   },
   {
     "builder": "Strymon",
     "pedal": "Fairfax Class A Output Stage Drive",
-    "image": null,
+    "image": "./assets/pedals/strymon/fairfax-class-a-output-stage-drive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Strymon/Fairfax Class A Output Stage Drive.md"
   },
   {
     "builder": "Strymon",
     "pedal": "Riverside Drive & Distortion",
-    "image": null,
+    "image": "./assets/pedals/strymon/riverside-drive-distortion/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Strymon/Riverside Drive & Distortion.md"
   },
   {
     "builder": "Strymon",
     "pedal": "Sunset Dual Overdrive",
-    "image": null,
+    "image": "./assets/pedals/strymon/sunset-dual-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Strymon/Sunset Dual Overdrive.md"
   },
   {
     "builder": "Subdecay",
     "pedal": "Blackstar – Ultimate Overdrive",
-    "image": null,
+    "image": "./assets/pedals/subdecay/blackstar-ultimate-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Subdecay/Blackstar – Ultimate Overdrive.md"
   },
   {
     "builder": "Subdecay",
     "pedal": "Gain Theory Overdrive",
-    "image": null,
+    "image": "./assets/pedals/subdecay/gain-theory-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Subdecay/Gain Theory Overdrive.md"
   },
   {
     "builder": "Subdecay",
     "pedal": "Harmonic Antagonizer",
-    "image": null,
+    "image": "./assets/pedals/subdecay/harmonic-antagonizer/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Subdecay/Harmonic Antagonizer.md"
   },

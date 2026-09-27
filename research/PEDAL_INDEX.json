@@ -27016,7 +27016,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/coppersound-pedals/foxcatcher-overdrive-boost/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/CopperSound Pedals/Foxcatcher - Overdrive & Boost.md",
       "image_source_page": "https://www.effectsdatabase.com/model/coppersound/foxcatcher",
@@ -43991,7 +43991,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/maxon/od820-overdrive-pro/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Maxon/OD820 Overdrive Pro+.md",
       "research_level": "surface",
@@ -44016,7 +44016,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/maxon/ood-9-organic-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Maxon/OOD-9 Organic Overdrive.md",
       "research_level": "deep",
@@ -44042,7 +44042,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/maxon/osd-9/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Maxon/OSD-9.md",
       "research_level": "deep",
@@ -46936,7 +46936,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/mxr/octavio-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/MXR/Octavio Fuzz.md",
       "research_level": "deep",
@@ -47688,7 +47688,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/nux-audio-nux/horseman/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/NUX Audio / NUX/Horseman.md",
       "research_level": "surface",
@@ -49712,7 +49712,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/radial-tonebone/texas-pro/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Radial Tonebone/Texas-Pro.md",
       "research_level": "deep",
@@ -49725,7 +49725,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/radial-tonebone/trimode/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Radial Tonebone/Trimode.md",
       "research_level": "deep",
@@ -49775,7 +49775,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/ramble-fx/twin-bender/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Ramble FX/Twin Bender.md",
       "research_level": "deep",
@@ -50471,7 +50471,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/skreddy-pedals/giant-meat-pie-bc239/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Skreddy Pedals/Giant Meat Pie BC239.md",
       "research_level": "deep",
@@ -50483,7 +50483,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/skreddy-pedals/high-gear/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Skreddy Pedals/High Gear.md",
       "research_level": "deep",
@@ -50496,7 +50496,7 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/skreddy-pedals/hybrid-fuzz-driver/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Skreddy Pedals/Hybrid Fuzz Driver.md",
       "research_level": "deep",
@@ -50508,7 +50508,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/skreddy-pedals/hybrid-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Skreddy Pedals/Hybrid Overdrive.md",
       "research_level": "deep",
@@ -50520,7 +50520,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/skreddy-pedals/juicy-pig/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Skreddy Pedals/Juicy Pig.md",
       "research_level": "deep",
@@ -50820,7 +50820,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/smallsound-bigsound/fuck/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Smallsound/Bigsound/Fuck.md",
       "research_level": "deep",
@@ -50931,7 +50931,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/solidgoldfx/lysis-mkii/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/SolidGoldFX/Lysis MKII.md",
       "research_level": "deep",
@@ -51099,7 +51099,7 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/spaceman-effects/saturn-vi/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Spaceman Effects/Saturn VI.md",
       "research_level": "deep",
@@ -51139,7 +51139,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/spaceman-effects/sputnik-iii/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Spaceman Effects/Sputnik III.md",
       "research_level": "deep",
@@ -51153,7 +51153,7 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/spaceman-effects/titan-ii/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Spaceman Effects/Titan II.md",
       "research_level": "deep",
@@ -51227,7 +51227,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/stomp-under-foot/civil-unrest/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Stomp Under Foot/Civil Unrest.md",
       "research_level": "deep",
@@ -51263,7 +51263,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/stomp-under-foot/dirt-preacher/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Stomp Under Foot/Dirt Preacher.md",
       "research_level": "deep",
@@ -51299,7 +51299,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/stomp-under-foot/elk-super-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Stomp Under Foot/Elk Super Fuzz.md",
       "research_level": "deep",
@@ -51324,7 +51324,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/stomp-under-foot/fuzz-master-3/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Stomp Under Foot/Fuzz Master 3.md",
       "research_level": "deep",
@@ -51735,7 +51735,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/stone-deaf-fx/pdf-1x-ghost/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Stone Deaf FX/PDF-1X Ghost.md",
       "research_level": "deep",
@@ -51749,7 +51749,7 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/stone-deaf-fx/pdf-2/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Stone Deaf FX/PDF-2.md",
       "research_level": "deep",
@@ -51811,7 +51811,7 @@
         "Distortion",
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/strymon/canoga-vintage-silicon-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Strymon/Canoga Vintage Silicon Fuzz.md",
       "research_level": "deep",
@@ -51823,7 +51823,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/strymon/deco-tape-saturation-doubletracker/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Strymon/Deco Tape Saturation & Doubletracker.md",
       "research_level": "deep",
@@ -51835,7 +51835,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/strymon/fairfax-class-a-output-stage-drive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Strymon/Fairfax Class A Output Stage Drive.md",
       "research_level": "deep",
@@ -51848,7 +51848,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/strymon/riverside-drive-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Strymon/Riverside Drive & Distortion.md",
       "research_level": "deep",
@@ -51860,7 +51860,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/strymon/sunset-dual-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Strymon/Sunset Dual Overdrive.md",
       "research_level": "deep",
@@ -51872,7 +51872,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/subdecay/blackstar-ultimate-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Subdecay/Blackstar – Ultimate Overdrive.md",
       "research_level": "deep",
@@ -51884,7 +51884,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/subdecay/gain-theory-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Subdecay/Gain Theory Overdrive.md",
       "research_level": "deep",
@@ -51896,7 +51896,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/subdecay/harmonic-antagonizer/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Subdecay/Harmonic Antagonizer.md",
       "research_level": "deep",
