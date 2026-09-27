@@ -13,3 +13,14 @@
 - **Research confidence:** High for FET topology, intended voicing, and the 2022 return; medium for historical/version details beyond those documented by the archived listings.
 - **Sources checked:**
   - https://reverb.com/item/58670565-cameltone-electronics-the-nard-2022
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Cameltone Electronics's The Nard is cataloged as a distortion / overdrive pedal.
+
+### Sources checked in this pass
+1. catalog/override source: https://reverb.com/item/58670565-cameltone-electronics-the-nard-2022
+2. Home | Cameltone Electronics: https://cameltoneelectronics.bigcartel.com/
