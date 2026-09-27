@@ -2182,9 +2182,9 @@ EarthQuaker Devices,Talons,Overdrive,DONE,DONE,DONE,./research/pedals/EarthQuake
 EarthQuaker Devices,Talons — High Gain Overdrive,Distortion / Overdrive,DONE,DONE,DONE,./research/pedals/EarthQuaker Devices/Talons — High Gain Overdrive.md
 EarthQuaker Devices,Terminal,Fuzz,DONE,DONE,DONE,./research/pedals/EarthQuaker Devices/Terminal.md
 EarthQuaker Devices,Terminal — Destructive Fuzz Device,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/EarthQuaker Devices/Terminal — Destructive Fuzz Device.md
-EarthQuaker Devices,Tone Reaper,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/EarthQuaker Devices/Tone Reaper.md
+EarthQuaker Devices,Tone Reaper,Fuzz,DONE,DONE,DONE,./research/pedals/EarthQuaker Devices/Tone Reaper.md
 EarthQuaker Devices,Westwood,Overdrive,DONE,DONE,DONE,./research/pedals/EarthQuaker Devices/Westwood.md
-EarthQuaker Devices,Westwood — Translucent Drive Manipulator,Distortion / Overdrive,DONE,NEEDED,NEEDED,./research/pedals/EarthQuaker Devices/Westwood — Translucent Drive Manipulator.md
+EarthQuaker Devices,Westwood — Translucent Drive Manipulator,Distortion / Overdrive,DONE,DONE,DONE,./research/pedals/EarthQuaker Devices/Westwood — Translucent Drive Manipulator.md
 EarthQuaker Devices,White Light,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/EarthQuaker Devices/White Light.md
 EarthQuaker Devices,White Light Legacy Reissue — Overdrive,Distortion / Overdrive,DONE,NEEDED,NEEDED,./research/pedals/EarthQuaker Devices/White Light Legacy Reissue — Overdrive.md
 EarthQuaker Devices,Zoar,Distortion,DONE,NEEDED,NEEDED,./research/pedals/EarthQuaker Devices/Zoar.md
@@ -2231,7 +2231,7 @@ Electro-Harmonix,Nano Operation Overlord,Overdrive,DONE,DONE,DONE,./research/ped
 Electro-Harmonix,OD Glove MOSFET Overdrive / Distortion,Overdrive,DONE,DONE,DONE,./research/pedals/Electro-Harmonix/OD Glove MOSFET Overdrive / Distortion.md
 Electro-Harmonix,Op-Amp Big Muff Pi,Fuzz,DONE,DONE,DONE,./research/pedals/Electro-Harmonix/Op-Amp Big Muff Pi.md
 Electro-Harmonix,"Pico Triboro Bridge Overdrive, Distortion & Fuzz",Fuzz,DONE,DONE,DONE,"./research/pedals/Electro-Harmonix/Pico Triboro Bridge Overdrive, Distortion & Fuzz.md"
-Electro-Harmonix,Pocket Metal Muff,Distortion,DONE,NEEDED,NEEDED,./research/pedals/Electro-Harmonix/Pocket Metal Muff.md
+Electro-Harmonix,Pocket Metal Muff,Distortion,DONE,DONE,DONE,./research/pedals/Electro-Harmonix/Pocket Metal Muff.md
 Electro-Harmonix,Ram's Head Big Muff Pi,Fuzz,DONE,DONE,DONE,./research/pedals/Electro-Harmonix/Ram's Head Big Muff Pi.md
 Electro-Harmonix,Ripped Speaker Fuzz,Fuzz,DONE,DONE,DONE,./research/pedals/Electro-Harmonix/Ripped Speaker Fuzz.md
 Electro-Harmonix,Satisfaction Plus,Fuzz,DONE,DONE,DONE,./research/pedals/Electro-Harmonix/Satisfaction Plus.md
@@ -2912,7 +2912,7 @@ Mid-Fi Electronics,House Amp,Fuzz,DONE,DONE,DONE,./research/pedals/Mid-Fi Electr
 Mid-Fi Electronics,"Magick ""i""",Overdrive,DONE,DONE,DONE,"./research/pedals/Mid-Fi Electronics/Magick ""i"".md"
 Mid-Fi Electronics,Overdrive,Overdrive,DONE,DONE,DONE,./research/pedals/Mid-Fi Electronics/Overdrive.md
 Mid-Fi Electronics,Peace Gun,Fuzz,DONE,DONE,DONE,./research/pedals/Mid-Fi Electronics/Peace Gun.md
-Mid-Fi Electronics,Psych Byke,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Mid-Fi Electronics/Psych Byke.md
+Mid-Fi Electronics,Psych Byke,Fuzz,DONE,DONE,DONE,./research/pedals/Mid-Fi Electronics/Psych Byke.md
 Mid-Fi Electronics,Random Number Generator,Fuzz,DONE,DONE,DONE,./research/pedals/Mid-Fi Electronics/Random Number Generator.md
 Mid-Fi Electronics,Rise/OverRun,Fuzz,DONE,DONE,DONE,./research/pedals/Mid-Fi Electronics/Rise/OverRun.md
 Mid-Fi Electronics,What?,Fuzz,DONE,DONE,DONE,./research/pedals/Mid-Fi Electronics/What?.md
@@ -2944,7 +2944,7 @@ Mojo Hand FX,Sericon,Overdrive,DONE,DONE,DONE,./research/pedals/Mojo Hand FX/Ser
 Mojo Hand FX,Socrates,Distortion,DONE,DONE,DONE,./research/pedals/Mojo Hand FX/Socrates.md
 Mojo Hand FX,Superlative (historical/discontinued),Overdrive,DONE,DONE,DONE,./research/pedals/Mojo Hand FX/Superlative (historical/discontinued).md
 Mojo Hand FX,Superlative,Overdrive,DONE,DONE,DONE,./research/pedals/Mojo Hand FX/Superlative.md
-Mojo Hand FX,Zephyr (historical/discontinued),Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Mojo Hand FX/Zephyr (historical/discontinued).md
+Mojo Hand FX,Zephyr (historical/discontinued),Fuzz,DONE,DONE,DONE,./research/pedals/Mojo Hand FX/Zephyr (historical/discontinued).md
 Mojo Hand FX,Zephyr,Fuzz,DONE,DONE,DONE,./research/pedals/Mojo Hand FX/Zephyr.md
 MOOER Audio / MOOER,Black Secret,Distortion,DONE,DONE,DONE,./research/pedals/MOOER Audio / MOOER/Black Secret.md
 MOOER Audio / MOOER,Blade,Distortion,DONE,DONE,DONE,./research/pedals/MOOER Audio / MOOER/Blade.md
@@ -3035,7 +3035,7 @@ Mythos Pedals,Argo Octave Fuzz,Distortion / Fuzz,DONE,DONE,DONE,./research/pedal
 Mythos Pedals,AU-79 Fuzz,Distortion / Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Mythos Pedals/AU-79 Fuzz.md
 Mythos Pedals,AU-79 Fuzz — limited / exclusive,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Mythos Pedals/AU-79 Fuzz — limited / exclusive.md
 Mythos Pedals,Big Puft Fuzz Device,Distortion / Fuzz,DONE,DONE,DONE,./research/pedals/Mythos Pedals/Big Puft Fuzz Device.md
-Mythos Pedals,Chupacabra CMOS Overdrive,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Mythos Pedals/Chupacabra CMOS Overdrive.md
+Mythos Pedals,Chupacabra CMOS Overdrive,Overdrive,DONE,DONE,DONE,./research/pedals/Mythos Pedals/Chupacabra CMOS Overdrive.md
 Mythos Pedals,D-Style Herculean Overdrive,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Mythos Pedals/D-Style Herculean Overdrive.md
 Mythos Pedals,Envy Pro Overdrive,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Mythos Pedals/Envy Pro Overdrive.md
 Mythos Pedals,Erlking Overdrive,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Mythos Pedals/Erlking Overdrive.md
@@ -3058,8 +3058,8 @@ NUX Audio / NUX,‘6ixty5ive OD,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/N
 NUX Audio / NUX,Ace of Tone,Overdrive,DONE,DONE,DONE,./research/pedals/NUX Audio / NUX/Ace of Tone.md
 NUX Audio / NUX,BC-2 Vintage Blues Core,Overdrive,DONE,DONE,DONE,./research/pedals/NUX Audio / NUX/BC-2 Vintage Blues Core.md
 NUX Audio / NUX,Brownie,Distortion,DONE,NEEDED,NEEDED,./research/pedals/NUX Audio / NUX/Brownie.md
-NUX Audio / NUX,Drive Core,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/NUX Audio / NUX/Drive Core.md
-NUX Audio / NUX,Drive Core Deluxe,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/NUX Audio / NUX/Drive Core Deluxe.md
+NUX Audio / NUX,Drive Core,Overdrive,DONE,DONE,DONE,./research/pedals/NUX Audio / NUX/Drive Core.md
+NUX Audio / NUX,Drive Core Deluxe,Overdrive,DONE,DONE,DONE,./research/pedals/NUX Audio / NUX/Drive Core Deluxe.md
 NUX Audio / NUX,Drive Core Deluxe MKII,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/NUX Audio / NUX/Drive Core Deluxe MKII.md
 NUX Audio / NUX,DS-3 Classic Distortion,Distortion,DONE,NEEDED,NEEDED,./research/pedals/NUX Audio / NUX/DS-3 Classic Distortion.md
 NUX Audio / NUX,Fireman,Distortion,DONE,NEEDED,NEEDED,./research/pedals/NUX Audio / NUX/Fireman.md
@@ -3085,15 +3085,15 @@ NUX Audio / NUX,XTC OD,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/NUX Audio 
 OKKO FX,BFGRMWB,Fuzz,DONE,DONE,DONE,./research/pedals/OKKO FX/BFGRMWB.md
 OKKO FX,Black Beast,Distortion / Fuzz,DONE,DONE,DONE,./research/pedals/OKKO FX/Black Beast.md
 OKKO FX,DIABLO DUAL,Distortion / Overdrive,DONE,DONE,DONE,./research/pedals/OKKO FX/DIABLO DUAL.md
-OKKO FX,DIABLO DUAL — 2-channel overdrive / distortion,Distortion,DONE,NEEDED,NEEDED,./research/pedals/OKKO FX/DIABLO DUAL — 2-channel overdrive / distortion.md
-OKKO FX,DIABLO GH Signature,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/OKKO FX/DIABLO GH Signature.md
+OKKO FX,DIABLO DUAL — 2-channel overdrive / distortion,Distortion,DONE,DONE,DONE,./research/pedals/OKKO FX/DIABLO DUAL — 2-channel overdrive / distortion.md
+OKKO FX,DIABLO GH Signature,Overdrive,DONE,DONE,DONE,./research/pedals/OKKO FX/DIABLO GH Signature.md
 OKKO FX,DIRTY DIABLO,Distortion,DONE,NEEDED,NEEDED,./research/pedals/OKKO FX/DIRTY DIABLO.md
 OKKO FX,Holy Grit,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/OKKO FX/Holy Grit.md
 OKKO FX,HOLY GRIT,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/OKKO FX/HOLY GRIT.md
 OKKO FX,MOTÖRBASS,Distortion,DONE,NEEDED,NEEDED,./research/pedals/OKKO FX/MOTÖRBASS.md
 OKKO FX,The Dynamist,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/OKKO FX/The Dynamist.md
 OKKO FX,TWINSONIC MKII,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/OKKO FX/TWINSONIC MKII.md
-Old Blood Noise Endeavors,Alpha Haunt,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Old Blood Noise Endeavors/Alpha Haunt.md
+Old Blood Noise Endeavors,Alpha Haunt,Fuzz,DONE,DONE,DONE,./research/pedals/Old Blood Noise Endeavors/Alpha Haunt.md
 Old Blood Noise Endeavors,Beam Splitter V2,Distortion / Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Old Blood Noise Endeavors/Beam Splitter V2.md
 Old Blood Noise Endeavors,Excess V2,Distortion,DONE,NEEDED,NEEDED,./research/pedals/Old Blood Noise Endeavors/Excess V2.md
 Old Blood Noise Endeavors,Fault V2,Distortion / Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Old Blood Noise Endeavors/Fault V2.md

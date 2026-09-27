@@ -31709,7 +31709,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/earthquaker-devices/tone-reaper/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/EarthQuaker Devices/Tone Reaper.md",
       "research_level": "surface",
@@ -31734,7 +31734,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/earthquaker-devices/westwood-translucent-drive-manipulator/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/EarthQuaker Devices/Westwood — Translucent Drive Manipulator.md",
       "research_level": "surface",
@@ -32306,7 +32306,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/electro-harmonix/pocket-metal-muff/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Electro-Harmonix/Pocket Metal Muff.md",
       "research_level": "surface",
@@ -40760,7 +40760,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/mid-fi-electronics/psych-byke/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mid-Fi Electronics/Psych Byke.md",
       "research_level": "surface",
@@ -41145,7 +41145,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/mojo-hand-fx/zephyr-historical-discontinued/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mojo Hand FX/Zephyr (historical/discontinued).md",
       "research_level": "surface",
@@ -42253,7 +42253,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/mythos-pedals/chupacabra-cmos-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mythos Pedals/Chupacabra CMOS Overdrive.md",
       "research_level": "surface",
@@ -42532,7 +42532,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/nux-audio-nux/drive-core/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/NUX Audio / NUX/Drive Core.md",
       "research_level": "surface",
@@ -42544,7 +42544,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/nux-audio-nux/drive-core-deluxe/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/NUX Audio / NUX/Drive Core Deluxe.md",
       "research_level": "surface",
@@ -42858,7 +42858,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/okko-fx/diablo-dual-2-channel-overdrive-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/OKKO FX/DIABLO DUAL — 2-channel overdrive / distortion.md",
       "research_level": "surface",
@@ -42870,7 +42870,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/okko-fx/diablo-gh-signature/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/OKKO FX/DIABLO GH Signature.md",
       "research_level": "deep",
@@ -42954,7 +42954,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/old-blood-noise-endeavors/alpha-haunt/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Old Blood Noise Endeavors/Alpha Haunt.md",
       "research_level": "deep",

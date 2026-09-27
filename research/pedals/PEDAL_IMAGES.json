@@ -15721,7 +15721,7 @@
   {
     "builder": "EarthQuaker Devices",
     "pedal": "Tone Reaper",
-    "image": null,
+    "image": "./assets/pedals/earthquaker-devices/tone-reaper/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/EarthQuaker Devices/Tone Reaper.md"
   },
@@ -15735,7 +15735,7 @@
   {
     "builder": "EarthQuaker Devices",
     "pedal": "Westwood — Translucent Drive Manipulator",
-    "image": null,
+    "image": "./assets/pedals/earthquaker-devices/westwood-translucent-drive-manipulator/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/EarthQuaker Devices/Westwood — Translucent Drive Manipulator.md"
   },
@@ -16064,7 +16064,7 @@
   {
     "builder": "Electro-Harmonix",
     "pedal": "Pocket Metal Muff",
-    "image": null,
+    "image": "./assets/pedals/electro-harmonix/pocket-metal-muff/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Electro-Harmonix/Pocket Metal Muff.md"
   },
@@ -20831,7 +20831,7 @@
   {
     "builder": "Mid-Fi Electronics",
     "pedal": "Psych Byke",
-    "image": null,
+    "image": "./assets/pedals/mid-fi-electronics/psych-byke/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Mid-Fi Electronics/Psych Byke.md"
   },
@@ -21055,7 +21055,7 @@
   {
     "builder": "Mojo Hand FX",
     "pedal": "Zephyr (historical/discontinued)",
-    "image": null,
+    "image": "./assets/pedals/mojo-hand-fx/zephyr-historical-discontinued/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Mojo Hand FX/Zephyr (historical/discontinued).md"
   },
@@ -21692,7 +21692,7 @@
   {
     "builder": "Mythos Pedals",
     "pedal": "Chupacabra CMOS Overdrive",
-    "image": null,
+    "image": "./assets/pedals/mythos-pedals/chupacabra-cmos-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Mythos Pedals/Chupacabra CMOS Overdrive.md"
   },
@@ -21853,14 +21853,14 @@
   {
     "builder": "NUX Audio / NUX",
     "pedal": "Drive Core",
-    "image": null,
+    "image": "./assets/pedals/nux-audio-nux/drive-core/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/NUX Audio / NUX/Drive Core.md"
   },
   {
     "builder": "NUX Audio / NUX",
     "pedal": "Drive Core Deluxe",
-    "image": null,
+    "image": "./assets/pedals/nux-audio-nux/drive-core-deluxe/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/NUX Audio / NUX/Drive Core Deluxe.md"
   },
@@ -22042,14 +22042,14 @@
   {
     "builder": "OKKO FX",
     "pedal": "DIABLO DUAL — 2-channel overdrive / distortion",
-    "image": null,
+    "image": "./assets/pedals/okko-fx/diablo-dual-2-channel-overdrive-distortion/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/OKKO FX/DIABLO DUAL — 2-channel overdrive / distortion.md"
   },
   {
     "builder": "OKKO FX",
     "pedal": "DIABLO GH Signature",
-    "image": null,
+    "image": "./assets/pedals/okko-fx/diablo-gh-signature/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/OKKO FX/DIABLO GH Signature.md"
   },
@@ -22098,7 +22098,7 @@
   {
     "builder": "Old Blood Noise Endeavors",
     "pedal": "Alpha Haunt",
-    "image": null,
+    "image": "./assets/pedals/old-blood-noise-endeavors/alpha-haunt/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Old Blood Noise Endeavors/Alpha Haunt.md"
   },
