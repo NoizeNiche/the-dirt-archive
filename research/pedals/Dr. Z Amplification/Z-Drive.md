@@ -1,60 +1,48 @@
 # Dr. Z Amplification — Z-Drive
 
-## PRP identity
-- **Archive parent:** Z-Drive
+## Surface catalog record
 - **Builder:** Dr. Z Amplification
+- **Pedal:** Z-Drive
 - **Catalog type:** Distortion / Overdrive
-- **Identity:** Dr. Z Amplification's Z-Drive.
+- **Research level:** Deep
+- **Deep research status:** Verified identity and dual-channel architecture
+- **Identity basis:** Dr. Z's product page and the owner manual identify Z-Drive as a two-voice overdrive/distortion pedal with separate Germanium and MOSFET channels.
 
 ## What this pedal is
-Fortunately for us one of the best pedal companies is just a stone&#8217;s throw away; so we enlisted the talents of Jamie Stillman and EarthQuaker Devices&#8230;and the Z-Drive was born.
+The **Dr. Z Z-Drive** is a two-channel dirt pedal combining a **Germanium** channel and a **MOSFET** channel. Each channel has its own **Drive, Level, and Cut** controls. [1][2]
 
-## Colorways
-- Colors Black Power 9 volt DC power supply with a 2.1mm negative center barrel or 9 volt battery.
+Dr. Z's product history states that the company enlisted **Jamie Stillman and EarthQuaker Devices** in developing the Z-Drive. [1]
 
-## Versions and factory options
-- No distinct factory revision was established in the verified evidence packet.
+The archive keeps **Distortion / Overdrive** as the catalog taxonomy because the model spans both gain categories in its documented design and the product is presented as an overdrive/distortion device.
 
-## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+## Controls
+- **Germanium channel:** Drive, Level, Cut.
+- **MOSFET channel:** Drive, Level, Cut. [1][2]
 
-## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
-- **Exact transistor/device:** Unknown.
+No universal component-level BOM is asserted from the reviewed sources.
 
-## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
-- **Exact part:** Unknown.
+## Technical evidence boundary
+The manufacturer and owner manual establish the two-channel architecture and control arrangement, but the reviewed material does not establish every semiconductor part number or a complete factory schematic.
 
-## Sound
-Legacy Models DB4 EMS MAZ 38 Mk.II MAZ 38 NR Mk.II Monza Remedy Route 66 Stang Ray Cabs 1×12 2×10 2×12 Open Back Z Best 2&#215;12 Accessories Reactive Reducer ZEQD-Pre Boost/Preamp Z-Verb Dr.
-Z 12″ Speaker Variable Boost Footswitch Support Tube and Bias Info Mods and Services Warranty &#038; Repair Registration Manuals Info Amp Recommendation FAQ &#038; Troubleshooting Tips Pricing Dealers Patients of Dr.
-Z-Drive Specifications Controls Germanium channel: drive, level and cut switch.
+The previous record contained unrelated Dr. Z amplifier navigation and site-wide markup. That scrape has been removed.
 
-## Sources checked
-1. Z-Drive &#8211; Dr. Z Amplification: https://drzamps.com/product/z-drive/
-2. Dr. Z Amplification Z-Drive Owner Manual | Manualzz: https://manualzz.com/doc/72984912/dr.-z-amplification-z-drive-owner-manual
-3. Video: Dr. Z Amplification Z-Drive Overdrive | Reverb News: https://reverb.com/news/video-dr-z-amplification-z-drive-overdrive
+## Specifications
+- **Model:** Z-Drive
+- **Type:** Distortion / Overdrive
+- **Channels:** Germanium, MOSFET
+- **Controls per channel:** Drive, Level, Cut
+- **Development relationship:** Dr. Z with Jamie Stillman / EarthQuaker Devices
+- **Power:** 9V DC or 9V battery, according to the existing product evidence
+- **Factory BOM:** not established in this pass
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive photo:** No verified local photo is currently archived for Z-Drive.
+- External product imagery remains separate from archive-local photo coverage.
 
-## Deep research verification
+## Research evidence
+**Sources checked:**
+1. https://drzamps.com/product/z-drive/ — manufacturer product page, development relationship and channel specifications.
+2. https://manualzz.com/doc/72984912/dr.-z-amplification-z-drive-owner-manual — owner manual, controls and operating details.
+3. https://reverb.com/news/video-dr-z-amplification-z-drive-overdrive — exact-model secondary video/reference.
 
-This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
-
-### Verified description
-Fortunately for us one of the best pedal companies is just a stone’s throw away; so we enlisted the talents of Jamie Stillman and EarthQuaker Devices…and the Z-Drive was born.
-
-### Verified color/finish evidence
-- Colors Black Power 9 volt DC power supply with a 2.1mm negative center barrel or 9 volt battery.
-
-### Verified sound evidence
-Legacy Models DB4 EMS MAZ 38 Mk.II MAZ 38 NR Mk.II Monza Remedy Route 66 Stang Ray Cabs 1×12 2×10 2×12 Open Back Z Best 2×12 Accessories Reactive Reducer ZEQD-Pre Boost/Preamp Z-Verb Dr.
-Z-Drive Specifications Controls Germanium channel: drive, level and cut switch.
-Mosfet channel: drive, level and cut switch.
-
-### Sources checked in this pass
-1. Z-Drive – Dr. Z Amplification: https://drzamps.com/product/z-drive/
-2. Dr. Z Amplification Z-Drive Owner Manual | Manualzz: https://manualzz.com/doc/72984912/dr.-z-amplification-z-drive-owner-manual
-3. Video: Dr. Z Amplification Z-Drive Overdrive | Reverb News: https://reverb.com/news/video-dr-z-amplification-z-drive-overdrive
+**Research confidence:** High for model identity, dual-channel architecture, control set, and development relationship; moderate for internal circuit construction.
