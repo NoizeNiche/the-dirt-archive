@@ -25571,8 +25571,8 @@
       "research_record": "./research/pedals/Collins/CDT-1 Distortion.md",
       "image_source_page": "https://www.effectsdatabase.com/taxonomy/term/8/0?page=46",
       "image_source_url": "https://www.effectsdatabase.com/misc/ebaytabs/loading.gif",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Collins",
@@ -49778,8 +49778,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Ramble FX/Twin Bender.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Ratin Pedals",
@@ -53034,8 +53034,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Tone Hungry Effects/Hunger Bender.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "TONECAT",

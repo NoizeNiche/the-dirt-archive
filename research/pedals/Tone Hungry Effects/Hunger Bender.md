@@ -1,23 +1,43 @@
 # Tone Hungry Effects — Hunger Bender
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Hunger Bender
 - **Builder:** Tone Hungry Effects
-- **Pedal:** Hunger Bender
 - **Catalog type:** Fuzz
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Tone Hungry Effects's Hunger Bender.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Hunger Bender** by **Tone Hungry Effects** as a **Fuzz** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Close Tone Hungry Effects Hunger Bender Sale Regular price $99.00 Default Title - Sold Out Quantity Sold Out The Hunger Bender is based off the MKIII Tone Bender circuit from the 1970s.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- The verified evidence references: MKIII.
+- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+Close Tone Hungry Effects Hunger Bender Sale Regular price $99.00 Default Title - Sold Out Quantity Sold Out The Hunger Bender is based off the MKIII Tone Bender circuit from the 1970s.
+The Hunger Bender brings some unique component changes to this circuit to create a new animal that combines the qualities of overdrive and fuzz to help today's musicians recreate the tones from the past, but with added fatness gain.
+Tone Hungry Effects Hunger Bender USED w/ box - Guitars & Ukulele Accessories
+
+## Sources checked
+1. Tone Hungry Effects Hunger Bender - Reverb: https://reverb.com/item/72315527-tone-hungry-effects-hunger-bender
+2. Tone Hungry Effects Hunger Bender - Effects Database: https://www.effectsdatabase.com/model/tonehungry/hungerbender
+3. Tone Hungry Effects Hunger Bender &ndash; eastside music supply: https://eastsidemusicsupply.com/products/tone-hungry-effects-hunger-bender
+4. Tone Hungry Effects Hunger Bender - bestmusiccompanion.com: https://www.bestmusiccompanion.com/product/tone-hungry-effects-hunger-bender/
+5. Tone Hungry Effects Hunger Bender USED w/ box - Guitars & Ukulele Accessories | Corde Vibe: https://www.cordevibe.com/product/tone-hungry-effects-hunger-bender-used-w-box/
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

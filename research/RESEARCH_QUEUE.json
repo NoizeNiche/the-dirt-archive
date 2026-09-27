@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-27T13:24:38.699380+00:00",
+  "generated_at": "2026-09-27T13:26:19.278915+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,8 +10,8 @@
     "pictured": 3189,
     "complete": 3189,
     "research_pending": 0,
-    "deep_research_pending": 418,
-    "deep_researched": 3824,
+    "deep_research_pending": 415,
+    "deep_researched": 3827,
     "surface_ready": 4242
   },
   "next_target": {
@@ -41,13 +41,6 @@
       "pedal": "Angry Dragon mkII - Germanium Fuzz",
       "catalog_type": "",
       "research_record": "./research/pedals/Coleman/Angry Dragon mkII - Germanium Fuzz.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Collins",
-      "pedal": "CDT-1 Distortion",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Collins/CDT-1 Distortion.md",
       "research_level": "surface"
     },
     {
@@ -195,6 +188,13 @@
       "pedal": "Reckless Driver",
       "catalog_type": "",
       "research_record": "./research/pedals/DLS Effect/Reckless Driver.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "DOD Electronics",
+      "pedal": "Bass Overdrive (FX91)",
+      "catalog_type": "",
+      "research_record": "./research/pedals/DOD Electronics/Bass Overdrive (FX91).md",
       "research_level": "surface"
     }
   ]

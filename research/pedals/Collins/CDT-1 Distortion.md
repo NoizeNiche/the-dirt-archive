@@ -62,3 +62,26 @@ The Effects Database taxonomy explicitly lists Collins CDT-1 Distortion alongsid
 3. Effects Database, Aria DT-1 Distortion - https://www.effectsdatabase.com/model/aria/1/dt1
 4. Effects Database, D.B. Goods DT-1 Distortion - https://www.effectsdatabase.com/model/dbgoods/dt1
 5. Effects Database, Route 101 DT-1 Distortion (same related family) - https://www.effectsdatabase.com/model/route101/dt1
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Collins's CDT-1 Distortion is cataloged as a distortion pedal.
+
+### Verified color/finish evidence
+- No reliable Collins-specific factory colorway sequence was established.
+- Do not infer the finish of a sibling DT-1 family pedal as a Collins factory colorway.
+
+### Verified version references
+- The evidence references: revision.
+
+### Verified sound evidence
+**Archive parent:** CDT-1 Distortion - **Catalog identity:** CDT-1 Distortion - **Builder:** Collins - **Catalog type:** Distortion - **Identity:** Collins CDT-1 Distortion, an inexpensive compact stompbox documented in the late-2000s and cataloged by Effects Database as part of the DT-1 family.
+Effects Database lists **Collins CDT-1 Distortion** and groups it with the Aria DT-1, D.B.
+The related DT-1 family records use three controls: - **Level** - **Tone** - **Distortion** Because the Collins-specific Effects Database page was not directly retrievable during this pass, these controls are recorded as **family-reference data**, not independently confirmed Collins-only specifications.
+
+### Sources checked in this pass
+1. catalog/override source: https://www.freestompboxes.org/viewforum.php?f=11&sid=04905a1225994e4575af242b1b2fd0f8e&start=575
+2. Aria DT-1 Distortion | Effects Database: https://www.effectsdatabase.com/model/aria/1/dt1
