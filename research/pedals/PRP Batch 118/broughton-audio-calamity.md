@@ -28,3 +28,6 @@ Calamity is cataloged by the archive as spanning distortion/fuzz territory. The 
 
 ## Sources checked
 1. Broughton Audio Pedal Archive, page 2: https://www.broughtonaudio.com/archive?page=2
+## Deep research verification
+
+Broughton Audio's exact current product page documents **Calamity** as a Civil War Muff-inspired bass fuzz/distortion with expanded features. Verified functions include high-impedance input for active or passive basses, low-passed clean blend, variable mids, three clipping modes, low-impedance output and operation up to 24VDC. The clip selector uses **LEDs, silicon diodes, or no diodes** for three different clipping responses. The controls include Tone, Mids, Blend and the distortion/fuzz controls shown by the manufacturer. Power is 9VDC center-negative, approximately 10mA, true bypass, with a 4.77 x 2.6 inch enclosure. Source: https://www.broughtonaudio.com/product-page/calamity
