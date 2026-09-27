@@ -1,23 +1,40 @@
 # Way Huge — Foot Pig
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Foot Pig
 - **Builder:** Way Huge
-- **Pedal:** Foot Pig
 - **Catalog type:** Fuzz
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Way Huge's Foot Pig.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Foot Pig** by **Way Huge** as a **Fuzz** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Way Huge's Foot Pig is cataloged as a fuzz pedal.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Documented terms in the verified sources: Germanium Fuzz.
+- The archive records only the component information explicitly present in these sources.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+Simple Volume, Tone, and Fuzz controls produce everything from sputtery, dying-battery tones to full harmonic sustain.
+
+## Sources checked
+1. WAY HUGE FP3 Foot Pig Fuzz [012] (09/17) - Reverb: https://reverb.com/item/101938113-way-huge-fp3-foot-pig-fuzz-012-09-17
+2. Way Huge Electronics Foot Pig - What To Know & Where To Buy: https://equipboard.com/items/way-huge-electronics-foot-pig
+3. Way Huge Foot Pig Fuzz — MrPedal: https://www.mrpedal.com/pedals/way-huge-foot-pig-fuzz
+4. Way Huge Foot Pig Fp-3 Germanium Fuzz 1996 013 - eBay: https://www.ebay.com/itm/187645958460
+5. Way Huge Foot Pig Fuzz - Effects Database: https://www.effectsdatabase.com/model/wayhuge/footpig
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
