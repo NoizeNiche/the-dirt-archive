@@ -13,3 +13,6 @@ Bee Buzz Fuzz is a dual-channel fuzz/boost based on the Roland Bee Baa. The Bee 
 
 ## Archive photo
 - **Archive status:** **No Photo Archived**
+## Deep research verification
+
+Premier Guitar identifies Bee Buzz Fuzz as a dual-channel fuzz/boost based on the **Roland Bee Baa**. The **Bee** side is a sharp 1960s-style fuzz, while **Buzz** is fuller and more aggressive, with Muff/Fuzz Face-style weight. The review documents Candy Red, Candy Blue, Denim Blue, Coppertone and Limonade production finishes. Black Cat described the model as part of its relaunch-era pedal range.
