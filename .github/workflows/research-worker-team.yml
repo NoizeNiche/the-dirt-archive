@@ -3,7 +3,8 @@ name: Research worker team
 on:
   workflow_dispatch:
   schedule:
-    - cron: '17 * * * *'
+    # Run every 15 minutes, staggered from the catalog-sync cadence.
+    - cron: '7,22,37,52 * * * *'
   push:
     paths:
       - 'research/RESEARCH_WORKER_KICK'
