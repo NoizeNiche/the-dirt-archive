@@ -13,3 +13,25 @@ The Wee Buzz is a compact, simplified version of the Black Cat Bee Buzz, both ba
 
 ## Archive photo
 - **Archive status:** **No Photo Archived**
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Your cart is empty CALL TOLL FREE: +1-877-726-0756 OR EMAIL INFO@BRIANSGUITARS.COM Music Lessons Facebook Pinterest Twitter Black Cat Wee Buzz Fuzz Pedal $175 Sold Out Black Cat Wee Buzz The Black Cat Wee Buzz is a slimmed down, more affordable version of our Bee Buzz.
+
+### Verified color/finish evidence
+- Your cart is empty CALL TOLL FREE: +1-877-726-0756 OR EMAIL INFO@BRIANSGUITARS.COM Music Lessons Facebook Pinterest Twitter Black Cat Wee Buzz Fuzz Pedal $175 Sold Out Black Cat Wee Buzz The Black Cat Wee Buzz is a slimmed down, more affordable version of our Bee Buzz.
+- The Black Cat Wee Buzz employs the same circuitry as its big brother Buzz, but comes in a smaller, more “pedalboard-friendly” size.
+- The Black Cat Wee Buzz employs the same circuitry as its big brother Buzz, but comes in a smaller, more "pedalboard-friendly" size.
+
+### Verified sound evidence
+Your cart is empty CALL TOLL FREE: +1-877-726-0756 OR EMAIL INFO@BRIANSGUITARS.COM Music Lessons Facebook Pinterest Twitter Black Cat Wee Buzz Fuzz Pedal $175 Sold Out Black Cat Wee Buzz The Black Cat Wee Buzz is a slimmed down, more affordable version of our Bee Buzz.
+But the biggest difference between the Wee and the Bee is the absence of the Boost channel… FUZZ!
+With its two switchable and distinctly different tone settings, the Bee Baa produced a roaring wall of fuzz that was unmistakably unique.
+
+### Sources checked in this pass
+1. catalog/override source: https://www.guitarjar.co.uk/magazine/press-release/black-cat-pedals-wee-buzz/
+2. Black Cat Wee Buzz Fuzz Pedal | Guitar Effects Pedal: https://briansguitars.com/products/black-cat-wee-buzz
+3. Black Cat Wee Buzz | Effects Database: https://www.effectsdatabase.com/model/blackcat/weebuzz

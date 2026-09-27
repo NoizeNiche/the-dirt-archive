@@ -19,3 +19,18 @@ Monster K-Fuzz is Black Cat's hot-rodded take on the 1960s Kay Fuzztone. The 201
 
 ## Archive photo
 - **Archive status:** **No Photo Archived**
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Black Cat Pedals's Monster K-Fuzz is cataloged as a fuzz pedal.
+
+### Verified version references
+- The evidence references: v2.
+
+### Sources checked in this pass
+1. Black Cat Monster K Fuzz v2 – Chicago Music Exchange: https://www.chicagomusicexchange.com/products/black-cat-monster-k-fuzz-v2-9573
+2. Black Cat Monster K-Fuzz Review - Premier Guitar: https://www.premierguitar.com/gear/black-cat-monster-k-fuzz-review
+3. catalog/override source: https://www.effectsdatabase.com/model/blackcat/kfuzz/monster

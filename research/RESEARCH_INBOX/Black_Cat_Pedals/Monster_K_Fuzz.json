@@ -1,0 +1,33 @@
+{
+  "builder": "Black Cat Pedals",
+  "pedal": "Monster K-Fuzz",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 3,
+  "sources": [
+    {
+      "url": "https://www.chicagomusicexchange.com/products/black-cat-monster-k-fuzz-v2-9573",
+      "title": "Black Cat Monster K Fuzz v2 &ndash; Chicago Music Exchange",
+      "h1": "",
+      "excerpt": "Black Cat Monster K Fuzz v2 &ndash; Chicago Music Exchange var productImageAndPrice = [], collectionImages = [], articleImages = [], mmLivIcons = false, mmPhosphor = false, mmFlipClock = false, mmFixesUseJquery = false, mmNumMMI = 8, mmSchemaTranslation = {}, mmMenuStrings = {\"menuStrings\":{\"default\":{\"Fresh Gear\":\"Fresh Gear\",\"Shop by Category\":\"Shop by Category\",\"Electric\":\"Electric\",\"CME Exclusive\":\"CME Exclusive\",\"Body Type\":\"Body Type\",\"Solid Body\":\"Solid Body\",\"Semi-Hollow\":\"Semi-Hollow\",\"Hollow Body\":\"Hollow Body\",\"Condition\":\"Condition\",\"New\":\"New\",\"Used\":\"Used\",\"Vintage\":\"Vintage\",\"B-Stock & Demo\":\"B-Stock & Demo\",\"Quick Picks\":\"Quick Picks\",\"Deals & Steals\":\"Deals & Steals\",\"Lefty\":\"Lefty\",\"12-String\":\"12-String\"",
+      "host": "www.chicagomusicexchange.com",
+      "source_kind": "catalog_verified"
+    },
+    {
+      "url": "https://www.premierguitar.com/gear/black-cat-monster-k-fuzz-review",
+      "title": "Black Cat Monster K-Fuzz Review - Premier Guitar",
+      "h1": "Black Cat Monster K-Fuzz Review",
+      "excerpt": "Raven.config('https://6b64f5cc8af542cbb920e0238864390a@sentry.io/147999').install(); Black Cat Monster K-Fuzz Review - Premier Guitar     Skip to content Search & Section Navigation Sign up Sign up Contact Shop Open Search Login Subscribe Site Navigation Reviews Guitars Amps Pedals Acoustic Bass News Videos Rig Rundowns Gear Demos Gear Roundups DIY Features Artists Gear Builder Profile Columns DIY Advice Gear Talk Lessons Beginner Intermediate Advanced CAGED Blues Rock Country Podcasts Shred With Shifty Wong Notes <a class=\"list__item\" href=\"/podca",
+      "host": "www.premierguitar.com",
+      "source_kind": "catalog_verified"
+    },
+    {
+      "url": "https://www.effectsdatabase.com/model/blackcat/kfuzz/monster",
+      "title": "catalog/override source",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.effectsdatabase.com",
+      "source_kind": "effects_database"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}

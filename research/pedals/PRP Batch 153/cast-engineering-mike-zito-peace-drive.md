@@ -17,3 +17,23 @@
   - https://www.effectsdatabase.com/model/castengineering/peacedrive
   - https://www.premierguitar.com/cast-engineering-releases-the-mike-zito-peace-drive
   - https://reverb.com/p/cast-engineering-mike-zito-peace-drive
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+not by manufacturer Date ▼▲ Maker ▼▲ Video ▼▲ Time ▼▲ 2017-10-05 ProGuitarShopDemos Cast Engineering Mike Zito Peace Drive 5:54 2017-05-28 CAST Engineering @midwoodguitarstudio showing a sample of what the Mike Zito Peace Drive can do, there is a whole lot of tone in this baby.
+
+### Verified color/finish evidence
+- The light on the switch corresponds with the part of the pedal that is first in the chain...red switch light matches red drive lights which means the drive is in the front of the Boost and vice versa.
+
+### Verified sound evidence
+CAST Engineering Mike Zito Peace Drive
+Mike had a very refined tone in his head that he wanted in this pedal and we nailed it per Mike.
+He also wanted a specific voicing in the Boost which has been achieved.
+
+### Sources checked in this pass
+1. CAST Engineering Releases the Mike Zito Peace Drive - Premier Guitar: https://www.premierguitar.com/cast-engineering-releases-the-mike-zito-peace-drive
+2. catalog/override source: https://reverb.com/p/cast-engineering-mike-zito-peace-drive
+3. CAST Engineering Mike Zito Peace Drive | Effects Database: https://www.effectsdatabase.com/model/castengineering/peacedrive

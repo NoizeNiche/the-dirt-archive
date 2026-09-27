@@ -17,3 +17,24 @@
   - https://reverb.com/item/64738415-cast-engineering-gypsy-haze-fuzz-octave-pedal
   - https://delicious-audio.com/cast-engineering-gypsy-haze-octave-up-fuzz-with-tap-tempo/
   - https://www.youtube.com/watch?v=2nsDqjv-QdQ
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+by Paolo De Gregorio The Gypsy Haze by Cast Engineering (check out our profile article on them here ) is an Octave up/fuzz pedal with a very unique switching system for the octave, which also has a “Stutter” mode controllable through Tap Tempo.
+
+### Verified version references
+- The evidence references: V3, V4.
+
+### Verified sound evidence
+CAST Engineering Gypsy Haze Octave Up Fuzz With Tap Tempo
+Delicious Audio Creative Pedals Creative Delay Tape Delay W/ Reverb Delay Distortion Fuzz Overdrive Dual Gain Dirt Boost Compr.
+by Paolo De Gregorio The Gypsy Haze by Cast Engineering (check out our profile article on them here ) is an Octave up/fuzz pedal with a very unique switching system for the octave, which also has a “Stutter” mode controllable through Tap Tempo.
+
+### Sources checked in this pass
+1. Cast Engineering Gypsy Haze OctaFuzz Pedal – Chicago Music Exchange: https://www.chicagomusicexchange.com/products/cast-engineering-gypsy-haze-octafuzz-pedal-66579
+2. catalog/override source: https://reverb.com/item/64738415-cast-engineering-gypsy-haze-fuzz-octave-pedal
+3. CAST Engineering Gypsy Haze Octave Up Fuzz With Tap Tempo | Delicious Audio: https://delicious-audio.com/cast-engineering-gypsy-haze-octave-up-fuzz-with-tap-tempo/
+4. Gypsy Haze: http://www.cast-engineering.com/gypsy-haze

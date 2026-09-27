@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-27T09:44:40.266554+00:00",
+  "generated_at": "2026-09-27T09:47:41.809597+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,8 +10,8 @@
     "pictured": 3123,
     "complete": 3123,
     "research_pending": 0,
-    "deep_research_pending": 2002,
-    "deep_researched": 2240,
+    "deep_research_pending": 1988,
+    "deep_researched": 2254,
     "surface_ready": 4242
   },
   "next_target": {
@@ -73,37 +73,9 @@
     },
     {
       "builder": "BJFE / BJF Electronics",
-      "pedal": "Cliff Hanger",
-      "catalog_type": "",
-      "research_record": "./research/pedals/BJFE / BJF Electronics/Cliff Hanger.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "BJFE / BJF Electronics",
       "pedal": "Cranberry Over Drive",
       "catalog_type": "",
       "research_record": "./research/pedals/PRP Batch 092/Cranberry Over Drive.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "BJFE / BJF Electronics",
-      "pedal": "Dyna Blue Distortion",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 092/Dyna Blue Distortion.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "BJFE / BJF Electronics",
-      "pedal": "Lingonberry Over Drive",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 093/Lingonberry Over Drive.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "BJFE / BJF Electronics",
-      "pedal": "Mighty Blue Overdrive",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 093/Mighty Blue Overdrive.md",
       "research_level": "surface"
     },
     {
@@ -122,37 +94,9 @@
     },
     {
       "builder": "BJFE / BJF Electronics",
-      "pedal": "Saffron Yellow Overdrive (SYOD)",
-      "catalog_type": "",
-      "research_record": "./research/pedals/BJFE / BJF Electronics/Saffron Yellow Overdrive (SYOD).md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "BJFE / BJF Electronics",
       "pedal": "Smokey Orange Fuzz",
       "catalog_type": "",
       "research_record": "./research/pedals/PRP Batch 093/Smokey Orange Fuzz.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "BJFE / BJF Electronics",
-      "pedal": "Snow White Fuzz",
-      "catalog_type": "",
-      "research_record": "./research/pedals/BJFE / BJF Electronics/Snow White Fuzz.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "BJFE / BJF Electronics",
-      "pedal": "Sparkling Yellow Overdrive (SYOD)",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 093/Sparkling Yellow Overdrive (SYOD).md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "BJFE / BJF Electronics",
-      "pedal": "Sparkling Yellow Overdrive Version 2 (SYOD V.2)",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 093/Sparkling Yellow Overdrive Version 2 (SYOD V.2).md",
       "research_level": "surface"
     },
     {
@@ -195,6 +139,62 @@
       "pedal": "LSTR",
       "catalog_type": "",
       "research_record": "./research/pedals/PRP Batch 094/LSTR.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Black Arts Toneworks",
+      "pedal": "Pharaoh",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 094/Pharaoh.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Black Arts Toneworks",
+      "pedal": "Priestess",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 095/Priestess.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Black Arts Toneworks",
+      "pedal": "Quantum Mystic",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 095/Quantum Mystic.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Black Arts Toneworks",
+      "pedal": "Revelation",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 095/Revelation.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Black Arts Toneworks",
+      "pedal": "Ritual",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 095/Ritual.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Black Arts Toneworks",
+      "pedal": "Skyboost",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 095/Skyboost.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Black Arts Toneworks",
+      "pedal": "Son of Pharaoh",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 095/Son of Pharaoh.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Black Arts Toneworks",
+      "pedal": "Tres Diablos Ruidosos",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 096/Tres Diablos Ruidosos.md",
       "research_level": "surface"
     }
   ]
