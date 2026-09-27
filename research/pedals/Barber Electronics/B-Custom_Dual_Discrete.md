@@ -1,76 +1,75 @@
 # Barber Electronics — B-Custom Dual Discrete
 
 ## PRP identity
-- Archive parent: B-Custom Dual Discrete
-- Builder: Barber Electronics
-- Catalog type: Overdrive
-- Introduction: 2008-era B-Custom program
-- Identity: A custom-configured dual-pedal enclosure, not one fixed circuit. Barber built the two sides from customer-selected Barber overdrive circuits, so the exact internal topology is unit-specific. [1][2]
+- **Archive parent:** B-Custom Dual Discrete
+- **Builder:** Barber Electronics
+- **Catalog type:** Overdrive
+- **Identity:** Customer-configurable dual overdrive in the Barber B-Custom shop, combining any two selected Barber three-knob drive circuits inside one hand-built enclosure. [1][2]
 
 ## What this pedal is
-Dual Discrete is essentially two separate Barber overdrive circuits built into one enclosure. Period documentation lists combinations such as Direct Drive SS, Tone Pump, LTD, Silver LTD and Direct Drive LG, while surviving examples show customer-specific pairings. [1][2]
+Effects Database documents the Dual Discrete as a custom pedal built from **two Barber overdrives chosen by the customer**. The documented pool includes Direct Drive SS, Tone Pump, LTD, Silver LTD and Direct Drive LG. Surviving examples confirm that the installed pair could vary from unit to unit. [1][2]
 
-## Colorways
-- Documented examples include blue and blue-sparkle custom finishes.
-- Because this was a custom-order product, enclosure finish could vary.
-- Cosmetic changes do not create separate archive parents.
+## Configurable circuit pairs
+Documented factory choices include:
+- **Direct Drive Super Sport**
+- **Tone Pump**
+- **LTD**
+- **Silver LTD**
+- **Direct Drive Low Gain**
+The exact pair is unit-specific and must be established from that individual pedal's documentation or internal inspection. [1][2]
 
-## Versions and factory modifications
-### Dual Discrete custom configuration
-Factory-installed circuit combinations documented in period references include:
-- Direct Drive SS
-- Tone Pump
-- LTD
-- Silver LTD
-- Direct Drive LG
+## Controls / layout
+Because the two installed Barber circuits could differ, there is **no single universal control map**. Barber also added extra controls to some circuits, such as mids or note shape, making an individual Dual Discrete potentially differ substantially from another example. [2]
 
-The exact circuit combination is unit-specific. A particular pedal should not have its internal circuits guessed from an exterior photograph alone. [1][2]
-
-## Factory modifications
-- The defining feature of Dual Discrete is factory customization.
-- Customer-selected Barber circuits are factory-built configurations and belong inside the parent record.
-- Aftermarket rehousings or user-built combinations are excluded.
-
-## Version changes
-No numbered production versions were established. Changes from one Dual Discrete to another are configuration differences within the custom program, not V1/V2 revisions.
+## Circuit lineage
+- Dual Discrete is a **container for two Barber drive circuits**, not a new fixed circuit topology.
+- A 2013 surviving collection record explicitly identifies an example as **LTD SR / Direct Drive SS**, illustrating the customer-specific nature of the configuration. [3]
+- The archive therefore keeps circuit identity configuration-dependent.
 
 ## Transistor
-- Type: Depends on the Barber circuits installed.
-- No single transistor type can honestly be assigned to every Dual Discrete.
+- No single transistor technology applies to every Dual Discrete.
+- Exact devices depend on the two installed Barber circuits and are **not documented universally**.
 
-## Diode
-- Type: Depends on the Barber circuits installed.
-- No universal Dual Discrete diode inventory was published.
+## Diode / clipping
+- No single diode inventory applies to every Dual Discrete.
+- Exact clipping devices depend on the installed pair.
+
+## Construction / hardware
+- B-Custom hand-built production.
+- Custom enclosure color options.
+- Barber documentation describes a compact dual-format chassis approximately **3.7 × 5.7 × 1.5 inches**.
+- True bypass.
+- Some examples include additional circuit-specific controls. [2][3]
+
+## Version / build-history notes
+- No numbered electronic revision is established.
+- Differences between units are primarily **factory configuration choices**, not V1/V2 circuit revisions.
+- Aftermarket rehousings are not treated as factory variants.
+
+## Power
+- Universal electrical specifications were not established because individual installed circuit pairs can differ.
+- The archive does not import voltage/current figures from one circuit into every Dual Discrete.
 
 ## Sound
-There is no single Dual Discrete sound because Barber built these as combinations of two other Barber overdrives. The practical identity is a pair of independent Barber drive voices in one enclosure, with configurations suited either to stacking or to contrasting low- and higher-gain textures. [1][2]
+There is no single Dual Discrete voice. The selected pair determines the gain range and tonal character. A low-gain LTD/Silver LTD side paired with a Super Sport or Direct Drive side, for example, can provide contrasting gain levels inside one chassis. [2][3]
 
 ## Research confidence
-- Identity/program: High
-- Custom configuration nature: High
-- Possible Barber circuit list: High
-- Universal transistor: Not applicable
-- Universal diode: Not applicable
-- Sound: Configuration-dependent
-
-## Photo
-- Exact pedal photograph: Reverb photograph of a real Barber Dual Discrete custom unit.
-- Direct image: https://rvb-img.reverb.com/i/s--jYz60n48--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/nbrecmjfigvya6dqut57.jpg
-- Source page: https://reverb.com/item/67970418-barber-ltd-and-super-sport-dual-discrete-2020s
-
-## Sources checked
-1. Effects Database — Barber B Custom Dual Discrete, Sept. 14, 2008: https://www.effectsdatabase.com/model/barber/bcustom/dualdiscrete
-2. Reverb — Barber LTD and Super Sport Dual Discrete actual-item listing: https://reverb.com/item/67970418-barber-ltd-and-super-sport-dual-discrete-2020s
-3. Gearmanndude — Barber Dual Discrete demonstration.
-4. Barber Electronics manufacturer information.
+- **Custom-program identity:** High
+- **Selectable Barber circuit pool:** High
+- **Configuration-dependent controls/sound:** High
+- **Exact pair for a generic record:** Unknown
+- **Universal transistor:** Not applicable
+- **Universal diode:** Not applicable
+- **Universal power specification:** Not established
 
 ## Deep research verification
+Effects Database, period user documentation and a surviving 2013 collection record were cross-checked. The evidence confirms the product's customer-selected dual-circuit architecture and shows that individual examples could combine specific Barber models such as LTD SR and Direct Drive SS. [1][2][3]
 
-This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+## Sources checked
+1. Effects Database — Barber B Custom Dual Discrete: https://www.effectsdatabase.com/model/barber/bcustom/dualdiscrete
+2. Reverb — Barber B-Custom Dual Discrete: https://reverb.com/item/42253176-barber-b-custom-dual-discrete-overdrive
+3. Guitar Gear — 2013 Barber B-Custom Dual Discrete [LTD SR/Direct Drive SS] collection record: https://guitargear.org/2013/10/29/a-serious-liquidation-sale/
 
-### Verified description
-Barber Electronics's B-Custom Dual Discrete is cataloged as an overdrive pedal.
-
-### Sources checked in this pass
-1. catalog/override source: https://reverb.com/item/42253176-barber-b-custom-dual-discrete-overdrive
-2. Barber B Custom Dual Discrete | Effects Database: https://www.effectsdatabase.com/model/barber/bcustom/dualdiscrete
+## Photo
+- **Archive status:** **Exact Photo Attached to Public Catalog**
+- **Exact-model image:** https://rvb-img.reverb.com/i/s--jYz60n48--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/nbrecmjfigvya6dqut57.jpg
