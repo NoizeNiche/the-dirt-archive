@@ -1,6 +1,6 @@
 {
-  "version": "data-20260924-prp1-cbs-arbiter-fuzz-phazer-direct-lead",
-  "count": 4204,
+  "version": "data-20260927-historical-census-sweep-01",
+  "count": 4214,
   "pedals": [
     {
       "company": "1981 Inventions",
@@ -56722,6 +56722,130 @@
       "image": null,
       "source_page": "https://doesitdoom.com/product/fuzzcoven/",
       "research_record": "./research/pedals/Does It Doom?/Fuzzcoven.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Bad Penny FX",
+      "pedal": "Dluxe Drive",
+      "types": [
+        "Overdrive"
+      ],
+      "image": null,
+      "source_page": "https://reverb.com/uk/item/52583164-bad-penny-fx-dluxe-drive",
+      "research_record": "./research/pedals/Bad Penny FX/Dluxe Drive.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Bad Penny FX",
+      "pedal": "Fuzz Controller Germanium",
+      "types": [
+        "Fuzz"
+      ],
+      "image": null,
+      "source_page": "https://www.guitarpedalx.com/news/best-of-british-pedal-builders-roundup---an-a-z-overview-in-105-parts",
+      "research_record": "./research/pedals/Bad Penny FX/Fuzz Controller Germanium.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Bad Penny FX",
+      "pedal": "Littlebox Fuzz",
+      "types": [
+        "Fuzz"
+      ],
+      "image": null,
+      "source_page": "https://www.guitarpedalx.com/news/best-of-british-pedal-builders-roundup---an-a-z-overview-in-105-parts",
+      "research_record": "./research/pedals/Bad Penny FX/Littlebox Fuzz.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Bad Penny FX",
+      "pedal": "Lollygagger Overdrive",
+      "types": [
+        "Overdrive"
+      ],
+      "image": null,
+      "source_page": "https://www.guitarpedalx.com/news/best-of-british-pedal-builders-roundup---an-a-z-overview-in-105-parts",
+      "research_record": "./research/pedals/Bad Penny FX/Lollygagger Overdrive.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Bad Penny FX",
+      "pedal": "Morse Fuzz Mini",
+      "types": [
+        "Fuzz"
+      ],
+      "image": null,
+      "source_page": "https://www.guitarpedalx.com/news/best-of-british-pedal-builders-roundup---an-a-z-overview-in-105-parts",
+      "research_record": "./research/pedals/Bad Penny FX/Morse Fuzz Mini.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Bad Penny FX",
+      "pedal": "Nerd Fuzz + Boost",
+      "types": [
+        "Fuzz",
+        "Overdrive"
+      ],
+      "image": null,
+      "source_page": "https://www.guitarpedalx.com/news/best-of-british-pedal-builders-roundup---an-a-z-overview-in-105-parts",
+      "research_record": "./research/pedals/Bad Penny FX/Nerd Fuzz + Boost.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Bad Penny FX",
+      "pedal": "Old Fuzz Mini",
+      "types": [
+        "Fuzz"
+      ],
+      "image": null,
+      "source_page": "https://www.guitarpedalx.com/news/best-of-british-pedal-builders-roundup---an-a-z-overview-in-105-parts",
+      "research_record": "./research/pedals/Bad Penny FX/Old Fuzz Mini.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Bad Penny FX",
+      "pedal": "Quagswag Fuzz Boost",
+      "types": [
+        "Fuzz",
+        "Overdrive"
+      ],
+      "image": null,
+      "source_page": "https://www.guitarpedalx.com/news/best-of-british-pedal-builders-roundup---an-a-z-overview-in-105-parts",
+      "research_record": "./research/pedals/Bad Penny FX/Quagswag Fuzz Boost.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Bad Penny FX",
+      "pedal": "Widow Dual Overdrive/Fuzz",
+      "types": [
+        "Distortion",
+        "Fuzz",
+        "Overdrive"
+      ],
+      "image": null,
+      "source_page": "https://www.guitarpedalx.com/news/best-of-british-pedal-builders-roundup---an-a-z-overview-in-105-parts",
+      "research_record": "./research/pedals/Bad Penny FX/Widow Dual Overdrive Fuzz.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Big John Effects",
+      "pedal": "BassDrive",
+      "types": [
+        "Overdrive"
+      ],
+      "image": null,
+      "source_page": "https://bigjohnmusic.com/about/",
+      "research_record": "./research/pedals/Big John Effects/BassDrive.md",
       "research_level": "surface",
       "deep_research_status": "PENDING"
     }
