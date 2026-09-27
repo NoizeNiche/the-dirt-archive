@@ -313,3 +313,5 @@ Triggered: 2026-09-27T08:26:02.824Z
 Purpose: reconcile the latest verified Bad Penny FX historical deep-research records into the canonical catalog and advance the derived queue.
 Triggered: 2026-09-27T08:26:37.292Z
 Purpose: reconcile the latest Bad Penny FX and BAE Audio deep-research records into the canonical catalog and advance the derived research queue.
+Triggered: 2026-09-27T09:08:47.476Z
+Purpose: reconcile the Baja Tech Custom deep-research batch into canonical catalog/tracker/queue state.
