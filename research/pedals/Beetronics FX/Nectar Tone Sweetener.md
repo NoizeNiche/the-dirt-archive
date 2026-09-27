@@ -1,46 +1,56 @@
-# Beetronics FX - Nectar Tone Sweetener
+# Beetronics FX — Nectar Tone Sweetener
 
 ## PRP identity
 - **Archive parent:** Nectar Tone Sweetener
 - **Builder:** Beetronics FX
 - **Catalog type:** Fuzz / Overdrive
-- **Identity:** Compact dual-mode drive/fuzz with a three-knob layout and a manual Drive/Fuzz switch.
+- **Identity:** Compact dual-mode dirt pedal switching between Drive and Fuzz, with Honey, Taste and Volume controls. [1][2]
 
-## What this pedal is
-Nectar Tone Sweetener combines two distinct gain voices in one circuit platform: a focused overdrive mode and a tight, saturated fuzz mode. Beetronics uses three controls, Honey for gain, Taste for tone, and Volume, plus a manual mode toggle. citeturn289720search0turn289720youtube105
+## Controls
+- **HONEY:** Gain.
+- **TASTE:** Tone.
+- **VOLUME:** Output.
+- **DRIVE / FUZZ** mode switch. [1]
 
-## Colorways
-- Standard black/gold artwork is documented.
-- Beetronics also produces numerous Custom Shop and limited finishes.
-
-## Versions and factory options
-### Nectar Tone Sweetener
-- Honey (gain)
-- Taste (tone)
-- Volume
-- Drive / Fuzz mode toggle
-- 9V DC center-negative
-- True bypass
-
-## Version changes
-Custom Shop and limited-edition finishes are documented, but no numbered factory circuit revision was established in the checked sources.
+## Circuit / topology
+- Two factory voicings share the same compact platform.
+- Drive mode centers on smoother overdrive; Fuzz mode increases saturation and density.
+- Exact transistor/diode topology is not published.
 
 ## Transistor
-- **Exact production transistor/device part numbers:** Not publicly documented.
+- Exact production transistor/device part numbers are not publicly documented.
 
-## Diode
-- **Exact clipping/protection arrangement:** Not publicly documented.
+## Diode / clipping
+- Exact clipping-device type and part number are not publicly documented.
+
+## Power
+- **9V DC, center-negative**.
+- True bypass. [1]
+
+## Version history
+- Standard production.
+- Custom Shop/limited finishes are cosmetic variants.
+- No numbered electronic revision established.
 
 ## Sound
-Drive mode covers smooth breakup through fuller overdrive, while Fuzz mode moves from lighter crunchy fuzz into saturated modern fuzz. The manual mode switch makes the two responses discrete, and the three controls keep the pedal easy to shape without a deep secondary control layer. citeturn289720search0turn289720youtube105
+Drive mode covers smooth breakup into fuller overdrive. Fuzz mode is denser and more saturated, reaching modern fuzz territory. The three knobs keep the pedal broad but straightforward to set. [1][2]
+
+## Research confidence
+- **Identity:** High
+- **Drive/Fuzz modes:** High
+- **Control map:** High
+- **True bypass:** High
+- **Exact active devices:** Unknown
+
+## Deep research verification
+Beetronics' official Nectar page, manuals page and independent demos were cross-checked. The evidence supports the three-knob Drive/Fuzz platform and 9V/true-bypass implementation. [1][2][3]
 
 ## Sources checked
-1. Beetronics official Nectar page: https://www.beetronicsfx.com/products/nectar-tone-sweetener-p-babee-series
-2. Beetronics manuals page: https://www.beetronicsfx.com/pages/manuals
-3. Rich Words Music review/demo: https://www.youtube.com/watch?v=tfq5mkyvOUY
-4. Sean Pierce Johnson review/demo: https://www.youtube.com/watch?v=uvH53HQHMSI
+1. Beetronics FX — Nectar Tone Sweetener: https://www.beetronicsfx.com/products/nectar-tone-sweetener-p-babee-series
+2. Beetronics FX — Manuals: https://www.beetronicsfx.com/pages/manuals
+3. Rich Words Music demo: https://www.youtube.com/watch?v=tfq5mkyvOUY
+4. Sean Pierce Johnson demo: https://www.youtube.com/watch?v=uvH53HQHMSI
 
 ## Photo
-- **Archive status:** **Exact Photo Attached to Public Catalog**
-- **Exact-model image:** https://www.beetronicsfx.com/cdn/shop/files/NC_02.jpg?v=1713379586&width=416
-- **Source page:** https://www.beetronicsfx.com/products/nectar-tone-sweetener-p-babee-series
+- **Exact pedal photograph:** Beetronics official product image.
+- https://www.beetronicsfx.com/cdn/shop/files/NC_02.jpg?v=1713379586&width=416
