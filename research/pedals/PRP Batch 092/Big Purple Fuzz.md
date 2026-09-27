@@ -12,3 +12,5 @@ A one-off deluxe BJFE fuzz combining the PPF, CAF, and a third ultra-long-sustai
 
 ## Archive photo
 - **Archive status:** **No Photo Archived**
+## Deep research verification
+The cited BJFE reference identifies Big Purple Fuzz as a one-off deluxe fuzz combining **PPF, CAF and a third ultra-long-sustain sound** in one enclosure. The reference explicitly classifies it as a Deluxe pedal. Exact control labeling and component data are not established in the reviewed source.
