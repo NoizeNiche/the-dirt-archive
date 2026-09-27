@@ -214,6 +214,18 @@ function sourcePages(builder,pedal){
       if(item.company===builder && item.pedal===pedal){
         for(const k of ['source_page','image_source_page']) if(String(item[k]||'').startsWith('http')) urls.push(item[k]);
         if(Array.isArray(item.source_pages)) for(const v of item.source_pages) if(String(v).startsWith('http')) urls.push(v);
+
+        // Reuse exact-model URLs already documented in the research record.
+        // These are not automatically trusted as evidence: they are only
+        // candidate sources. The normal identity, fetch, and foreman gates
+        // still decide whether they can advance the catalog.
+        const record=String(item.research_record||'').replace(/^\.\//,'');
+        if(record && fs.existsSync(record)){
+          const raw=fs.readFileSync(record,'utf8');
+          for(const u of raw.match(/https?:\/\/[^\s)>"']+/g)||[]){
+            urls.push(u.replace(/[.,;]+$/,''));
+          }
+        }
         break;
       }
     }
