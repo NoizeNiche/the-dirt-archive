@@ -39,3 +39,24 @@ Effects Database lists Hair Band Distortion as an exact Compulsive Audio model. 
 ## Sources checked
 1. Effects Database - Compulsive Audio: John De Luca interview: https://www.effectsdatabase.com/interviews/brands/compulsive
 2. Effects Database - weekly overview introducing Compulsive Audio: https://www.effectsdatabase.com/blog/discofreq?page=104
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Compulsive Audio's Hair Band Distortion is cataloged as a distortion pedal.
+
+### Verified color/finish evidence
+- No reliable model-specific production finish history was established.
+
+### Verified version references
+- The evidence references: revision.
+
+### Verified sound evidence
+**Builder:** Compulsive Audio - **Catalog identity:** Hair Band Distortion - **Catalog type:** Distortion - **Identity:** Early Compulsive Audio high-gain distortion model from the builder's 2010 catalog.
+Effects Database introduced Hair Band Distortion as one of Compulsive Audio's original 2010 pedal models.
+The name and catalog classification establish it as a dedicated distortion design from John De Luca's early lineup.
+
+### Sources checked in this pass
+1. catalog/override source: https://www.effectsdatabase.com/interviews/brands/compulsive

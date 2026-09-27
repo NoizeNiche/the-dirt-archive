@@ -26460,8 +26460,8 @@
       "research_record": "./research/pedals/Compulsive Audio/Hair Band Distortion.md",
       "image_source_url": "https://files.effectsdatabase.com/graphics/buymeacoffee.png",
       "image_source_page": "https://www.effectsdatabase.com/blog/discofreq?page=104",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Compulsive Audio",
@@ -32325,8 +32325,8 @@
       "image": "",
       "source_page": "https://www.effectsdatabase.com/model/deviever",
       "research_record": "./research/pedals/Devi Ever FX/PEEPlug.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Devi Ever FX",
@@ -50974,8 +50974,8 @@
       "image": "",
       "source_page": "https://www.sourceaudio.net/",
       "research_record": "./research/pedals/Source Audio/L.A. Lady Overdrive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Source Audio",
