@@ -4,58 +4,65 @@
 - **Archive parent:** SD-2 Super Over Drive
 - **Builder:** AVIA
 - **Catalog type:** Overdrive
-- **Identity:** Rare Soviet-era overdrive made in the early 1990s by the Symbol cooperative plant in Kamensk-Uralsky, using three UD1208 operational-amplifier chips.
+- **Identity:** Rare Soviet-era overdrive manufactured in the early 1990s by the Symbol cooperative plant in Kamensk-Uralsky, using three UD1208/KR140UD1208 operational amplifiers. [1][2]
 
 ## What this pedal is
-Effects Database documents the SD-2 as a small-batch USSR pedal with a three-op-amp architecture. The circuit uses three UD1208 (KR140UD1208) chips and provides Drive, Tone and Level controls.
+The SD-2 is a small-production Soviet overdrive with a three-op-amp signal architecture and a conventional Drive/Tone/Level interface. Effects Database dates it to the early 1990s and identifies the Symbol cooperative in the Sverdlovsk region as the manufacturer. [1]
 
-## Colorways
-- No reliable factory colorway chronology was verified.
-- The surviving examples are generally documented as the same metal Soviet-era enclosure family.
+## Controls / specifications
+- **DRIVE**
+- **TONE**
+- **LEVEL**
+- Maximum input level: **500mV**
+- Input resistance: **1MΩ**
+- Supply voltage: **9V**
+- Current consumption: **4mA**
+- High-frequency gain adjustment range: **±12dB**
+- Weight: approximately **0.5kg** [1]
 
-## Versions and factory options
-### SD-2 production
-- Drive
-- Tone
-- Level
-- Three KR140UD1208 / UD1208 op-amp chips
-- 1 MΩ input resistance
-- 9V supply
-- Approx. 4 mA current draw
-- Approx. 0.5 kg weight
+## Circuit architecture
+- **3 × UD1208 (KR140UD1208) op-amp chips.**
+- Analog op-amp overdrive.
+- No discrete transistor gain stage is documented by the primary archival source. [1]
 
-## Version changes
-No numbered factory revision was verified.
+## Active device
+- Exact documented devices: **UD1208 / KR140UD1208 operational amplifiers**.
+- This is stronger than a generic “op-amp-based” label because the actual Soviet op-amp family is identified. [1]
 
-## Transistor
-- **Technology:** Op-amp based analog circuit.
-- **Exact documented devices:** Three UD1208 (KR140UD1208) operational amplifiers.
-- No discrete transistor gain-stage specification was verified.
+## Diode / clipping
+- Exact clipping-diode arrangement is not publicly documented.
 
-## Diode
-- **Type:** Exact clipping-diode arrangement is not publicly documented.
+## Historical context
+- Early-1990s Soviet production.
+- Manufactured by the **Symbol** cooperative plant in Kamensk-Uralsky, Sverdlovsk region.
+- Produced in small numbers. [1]
+
+## Version history
+- No numbered hardware revision established.
+- The archive treats surviving SD-2 examples as one historical model family.
+
+## Power
+- **9V supply**.
+- **4mA current consumption.** [1]
 
 ## Sound
-The SD-2 is a compact, chip-based overdrive with a relatively broad drive range controlled by Drive and Tone rather than a complex switching matrix. Contemporary commentary places it toward the strong side of the overdrive category, with the high-frequency adjustment giving the player control over the upper voice.
+The surviving primary record establishes the SD-2 as an overdrive with a ±12dB high-frequency adjustment range. It does not provide a detailed frequency-response curve or component-level clipping description, so the archive avoids adding an unsupported tonal profile. [1]
+
+## Research confidence
+- **Identity:** High
+- **Early-1990s/Symbol origin:** High
+- **3 × UD1208:** High
+- **Controls/specifications:** High
+- **Exact diode:** Unknown
+- **Detailed schematic:** Not established
+
+## Deep research verification
+Effects Database's exact-model record was checked directly and cross-referenced against the surviving Reverb listing. The primary archival record supplies the exact op-amp devices, electrical specifications, control layout and Soviet manufacturing context. [1][2]
 
 ## Sources checked
 1. Effects Database — AVIA SD-2 Super Over Drive: https://www.effectsdatabase.com/model/avia/sd2
-2. AVIA SD-2 Reverb listing: https://reverb.com/item/20671127-avia-sd-2-super-overdrive-ultra-rare-vintage-soviet-ussr-guitar-pedal
+2. Reverb — AVIA SD-2 Super Overdrive: https://reverb.com/item/20671127-avia-sd-2-super-overdrive-ultra-rare-vintage-soviet-ussr-guitar-pedal
 
 ## Photo
 - **Archive status:** **No Photo Archived**
-- **Exact-model reference checked:** https://www.effectsdatabase.com/model/avia/sd2
-- **Archive note:** Exact-model archival images exist externally, but no stable archive asset is being promoted in this pass.
-
-## Deep research verification
-
-This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
-
-### Verified description
-AVIA's SD-2 Super Over Drive is cataloged as an overdrive pedal.
-
-### Verified sound evidence
-Specifications: Maximum input level: 500 mV Input resistance: 1 MOhm Supply voltage: 9 V Current consumption: 4 mA Adjustment range to a high frequency gain: +/- 12 dB Weight - 0,5 kg Controls including - Drive / Tone / Level.
-
-### Sources checked in this pass
-1. AVIA SD-2 Super Over Drive | Effects Database: https://www.effectsdatabase.com/model/avia/sd2
+- **Exact-model reference checked:** Effects Database exact-model record.
