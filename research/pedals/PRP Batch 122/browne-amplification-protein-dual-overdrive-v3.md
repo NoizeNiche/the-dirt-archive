@@ -33,3 +33,16 @@ The Carbon side emphasizes headroom and transparent low-gain drive, while the Na
 ## Sources checked
 1. Browne Amplification — Protein Dual Overdrive V3: https://browneamps.com/store/p/protein-dual-overdrive-v3
 2. Browne Amplification — Protein Dual Overdrive V4: https://browneamps.com/store/p/protein-dual-overdrive-v4
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Browne Amplification's Protein Dual Overdrive V3 is cataloged as an overdrive pedal.
+
+### Verified version references
+- The evidence references: V3.
+
+### Sources checked in this pass
+1. Protein Dual Overdrive V3 — Browne Amplification: https://browneamps.com/store/p/protein-dual-overdrive-v3

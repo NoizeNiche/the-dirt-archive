@@ -23,3 +23,13 @@ The available sources describe multiple production versions with different contr
 ## Sources checked
 1. Bulinski Effect Pedals product page: https://bulinskipedals.com/shop/velociraptor-diode-bass-fuzz/
 2. Made For Bass Bass Effects Database: https://www.madeforbass.com/bass-effects-database/
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Bulinski Effect Pedals's Velociraptor Diode Bass Fuzz is cataloged as a fuzz pedal.
+
+### Sources checked in this pass
+1. Velociraptor Diode Bass Fuzz - Bulinski Effect Pedals: https://bulinskipedals.com/shop/velociraptor-diode-bass-fuzz/

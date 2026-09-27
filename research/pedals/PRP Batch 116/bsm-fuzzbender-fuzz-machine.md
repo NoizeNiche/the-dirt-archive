@@ -46,3 +46,25 @@ In Fuzz Face mode, the FuzzBender emphasizes a warm, fat low end and responds st
 - **Archive status:** **No Photo Archived**
 - **Exact-model source page:** https://www.treblebooster.net/products/custom-made/fuzzbender-fuzz-machine.html
 - **Archive note:** The manufacturer page provides an exact-model product image, but the image has not yet been converted into the site's local archive asset. The browser cache should attempt this exact source on its next pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+BSM's FuzzBender Fuzz Machine is cataloged as a fuzz pedal.
+
+### Verified version references
+- The evidence references: MK4, MKIII, Mk1.
+
+### Verified diode terms
+- LED.
+
+### Verified sound evidence
+As an OEM-product, Sola Sound built Hurst's circuit, slightly modified and in a large production number, now called Tone Bender (Mk1.5) for the fellow British company Vox.
+Once developed and done, Sola Sound offered a minor number of the Tone Bender circuit under their own flag and brand.
+In fall 1966 Arbiter, the giant in the British music business, introduced a Fuzz unit under the name Fuzz Face, which looked unique, but was actually just a modification of the Vox/Sola Sound (Mk1.5).
+
+### Sources checked in this pass
+1. FuzzBender Fuzz Machine | BSM - Finest Treble Booster: https://www.treblebooster.net/products/custom-made/fuzzbender-fuzz-machine.html
+2. BSM FUZZ MODEL FUZZBENDER Test - Bonedo: https://www.bonedo.de/artikel/bsm-fuzz-model-fuzzbender/

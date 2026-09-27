@@ -1,0 +1,57 @@
+{
+  "builder": "Broughton Audio",
+  "pedal": "Locust Star",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 6,
+  "sources": [
+    {
+      "url": "https://www.broughtonaudio.com/product-page/locust-star",
+      "title": "Locust Star | Broughton Audio",
+      "h1": "",
+      "excerpt": "--> Locust Star | Broughton Audio .s__5yqle6,.s__5yqle6 *{box-sizing:border-box}.s__5yqle6.octawx6--forceBWTheme{--wut-bg-color:#fff;--wut-text-color:#000;--wut-disabled-color:#969696;--wut-placeholder-color:#646464;--wut-secondary-cta-color:#000;--wut-input-border-color:rgba(0,0,0,.6);--wut-input-hover-and-focus-border-color:#000;--wut-selection-text-bg-color:rgba(0,0,0,.2);--wut-meta-data-color:#646464;--wut-clear-button-bg-color:rgba(0,0,0,.12)}.s__5yqle6.octawx6--isOpen{height:100vh;left:0;position:fixed;top:0;width:100vw;z-index:1999}.sb66nF_{opacity:0;-webkit-transition:opacity .3s,-webkit-transform .4s;transition:opacity .2s,transform .4s;transition-timing-function:ease;z-index:2000}.s__5yqle6.octawx6--isOpen .sb66nF_{opacity:1}.sXrMDy_{background:#000;height:100%;opacity:.6;width:100%}.sea0t6S{display:inline-block}.sB85yKb{cursor:pointer;height:auto}.s_nT5Y7{clip:rect(1px 1px 1px 1px);clip:rect(1px,1px,1px,1px);border:0!important;height:1px!important;overflow:hidden;padding:0!important;position:absolute;width:1px!important}.s_1yBbs,.sxFIn18{outline:0}.s__83hk3L{display:inline-block;position:relative}.s__83hk3L.oObVFN_--fluid{display:block;width:100%}.s__3WEL5O{background-color:#fff;border-color:#000;border-radius:initial;border-style:solid;border-width:1px;padding:initial}.sdmIrUa{border-style:solid;height:0;margin:5px;position:absolute;width:0}.sSJkF3T[data-placement*=right].sr_NPpL{padding-left:5px}.sSJkF3T[data-placement*=right].sr_NPpL .sdmIrUa{border-color:transparent #000 transparent transparent;border-width:5px 5px 5px 0;left:-5px;margin-left:5px;margin-right:0}.sSJkF3T[data-placement*=left].sr_NPpL{padding-right:5px}.sSJkF3T[data-placement*=left].sr_NPpL .sdmIrUa{border-color:transparent transparent transparent #000;border-width:5px 0 5px 5px;margin-left:0;margin-right:5px;right:-5px}.sSJkF3T[data-placement*=bottom].sr_NPpL{padding-top:5px}.sSJkF3T[data-placement*=bottom].sr_NPpL .sdmIrUa{border-color:transparent transparent #000 transparent;border-width:0 5px 5px 5px;margin-bottom:0;margin-top:5px;top:-5px}.sSJkF3T[data-placement*=top].sr_NPpL{padding-bottom:5px}.sSJkF3T[data-placement*=top].sr_NPpL .sdmIrUa{border-color:#000 transparent transparent transparent;border-width:5px 5px 0 5px;bottom:-5px;margin-bottom:5px;margin-top:0}.sU7n7KR{display:inline-block;position:relative}.sU7n7KR.ojv_EdV--hasInnerWrapper{display:block}.s_zOL5L{display:flex;flex:1;justify-content:center}.sCySxZ_{cursor:pointer;height:auto}.seJYszA{clip:rect(1px 1px 1px 1px);clip:rect(1px,1px,1px,1px);border:0!important;height:1px!important;overflow:hidden;padding:0!important;position:absolute;width:1px!important}.sn9mE8K{animation:Spinner-deprecated-st-css2793037847__rotate 2s linear infinite;left:auto;top:auto}.sjdQMvo{animation:Spinner-deprecated-st-css2793037847__dash 1.5s ease-in-out infinite}.sn9mE8K.ogHEJOw--centered{position:absolute}.sn9mE8K.ogHEJOw--static,.sn9mE8K.ogHEJOw--static .sjdQMvo{animation:none}@keyframes Spinner-deprecated-st-css2793037847__rotate{to{transform:rotate(1turn)}}@keyframes Spinner-deprecated-st-css2793037847__dash{0%{stroke-dasharray:1,150;stroke-dashoffset:0}50%{stroke-dasharray:90,150;stroke-dashoffset:-35}to{stroke-dasharray:90,150;stroke-dashoffset:-124}}.s__3nXSYZ{display:flex;flex-direction:row;justify-content:center;margin:20px 0;padding-inline-start:0}.s__3nXSYZ.oqUhs2N--mobile{overflow-x:auto;width:100%}.swR6DXX.o__00E9D1--madefor{--wbu-font-stack:var(--wix-font-stack);--wbu-font-weight-regular:var(--wix-font-weight-regular);--wbu-font-weight-medium:var(--wix-font-weight-medium);--wbu-font-weight-bold:var(--wix-font-weight-bold)}.sljHbgG{--wbu-color-blue-0:#0f2ccf;--wbu-color-blue-100:#2f5dff;--wbu-color-blue-200:#597dff;--wbu-color-blue-300:#acbeff;--wbu-color-blue-400:#d5dfff;--wbu-color-blue-500:#eaefff;--wbu-color-blue-600:#f5f7ff;--wbu-color-black-0:#151414;--wbu-color-black-100:#383838;--wbu-color-black-200:#525150;--wbu-color-black-300:#767574;--wbu-color-black-400:#a8a6a5;--wbu-color-black",
+      "host": "www.broughtonaudio.com",
+      "source_kind": "manufacturer"
+    },
+    {
+      "url": "https://reverb.com/p/broughton-audio-locust-star",
+      "title": "Broughton Audio Locust Star - Reverb",
+      "h1": "",
+      "excerpt": "",
+      "host": "reverb.com",
+      "source_kind": "reverb"
+    },
+    {
+      "url": "https://www.ebay.com/itm/178167785651",
+      "title": "Broughton Audio Locust Star Distortion Pedal With Box - eBay",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.ebay.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://www.stompboxgarden.com/gear/pedal/16852/broughton-audio-locust-star",
+      "title": "Broughton Audio Locust Star Dimensions, Specs & Details",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.stompboxgarden.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://www.rockboard.de/en/pedalPedia/Broughton-Audio/Locust-Star/483082038/",
+      "title": "Locust Star by Broughton Audio | RockBoard | PedalPedia",
+      "h1": "Locust Star",
+      "excerpt": "Locust Star by Broughton Audio | RockBoard | PedalPedia Skip to main content LOG IN EXPLORE Broughton Audio Locust Star LOG IN TO SUGGEST IMPROVEMENTS OVERDRIVE DISTORTION BOOSTER EQUALIZER Description The Locust Star is an homage to the classic LM308 Rat distortion, combining an array of upgrades that make this one highly versatile dirt pedal. It is a small batch pedal and will be limited in production. The tone control of a distortion pedal can drastically change the character. A simple passive filter can only provide one dimension of tonal range. The Locust Star instead uses an active shelving EQ, creating far more possible tonal profiles. The Bass control provides more than enough low end for bass players--no clean blend is needed. The Treble control ranges from bright and raspy all the way to a dark and warm tone. To get a mid-forward tone, turn both EQ knobs down and boost the volume. To get a mid-scooped tone, turn both EQ knobs up and lower the volume. The EQ is flat with both knobs at noon. Media Videos Demo by Yaksonator (EN) Demo by jdjk7 (EN) Reviews Review by Talk Bass.com (EN) Links Product Page Technical data Width 000.00 mm Depth 000.00 mm Height 000.00 mm Circuit type analog Voltage 9V DC, center negative Current 20mA More pedals from Broughton Audio DISTORTION PREAMP OVERDRIVE DISTORTION PREAMP OVERDRIVE Broughton Audio Sentinel OVERDRIVE PREAMP DI EQUALIZER OVERDRIVE PREAMP DI EQUALIZER Broughton Audio Messenger DI EQUALIZER EQUALIZER Broughton Audio Parametric Equalizer PREAMP OVERDRIVE EQUALIZER PREAMP OVERDRIVE EQUALIZER Broughton Audio Silver Deluxe All Broughton Audio Pedals Products Pedalboards All-In-One Patchbays QuickMount PedalSafe Power Supplies and Power Cables and Connections Accessories Gear Build your own board Board Configurator PedalPedia Pedalboard Gallery QuickMount Finder Services Find a dealer Find a distributor Frequently Asked Questions Contact Current catalog News Community RockBoard Artists Achievements Your Activity Overview \u00a92026 Warwick GmbH & Co. Music Equipment KG GTC | Imprint | Privacy policy | Accessibility | Cookie Settings",
+      "host": "www.rockboard.de",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://modulargrid.net/p/broughton-audio-locust-star",
+      "title": "Broughton Audio Locust Star - Pedal on ModularGrid",
+      "h1": "Locust Star",
+      "excerpt": "Broughton Audio Locust Star - Pedal on ModularGrid Pedals Eurorack Modcan A MOTM Frac Moog Unit AE Modular Buchla Serge 500 Series Pedals FRM MKTPL Pedals Pedalboards Manufacturers Forum Marketplace Login Sign Up You have to enable Javascript to do any fancy stuff on this site! Locust Star Broughton Audio Bass Distortion Dimensions 60 mm wide 120 mm high Current Draw 20 mA / 9 V DC / Negative Center Price $180 This Pedal is discontinued. MG ID: 46304 Distortion The Locust Star is an homage to the classic LM308 Rat distortion, combining an array of upgrades that make this one highly versatile dirt pedal. It is a small batch pedal and will be limited in production. The tone control of a distortion pedal can drastically change the character. A simple passive filter can only provide one dimension of tonal range. The Locust Star instead uses an active shelving EQ, creating far more possible tonal profiles. The Bass control provides more than enough low end for bass players--no clean blend is needed. The Treble control ranges from bright and raspy all the way to a dark and warm tone. To get a mid-forward tone, turn both EQ knobs down and boost the volume. To get a mid-scooped tone, turn both EQ knobs up and lower the volume. The EQ is flat with both knobs at noon. The three position Clip switch varies the clipping between standard silicon diodes (switch down position), LEDs (switch up position), or no diodes (switch middle position). In the no diodes position, the distortion is generated in the LM308 chip. The Range knob reduces the upper mid bump and lowers the amount of gain inherent to the original unit, allowing for more of a full frequency overdrive effect. Maximum gain and upper mid bump is available when the Range knob is fully clockwise. The Locust Star uses an internal charge pump to double the incoming power supply voltage for even more headroom, allowing more range of break-up with the gain control. Using the maximum supply voltage, and selecting no-clipping mode, you get an excellent bass preamp with a touch sensitive overdrive. The headroom is large enough to easily drive a power amp to full volume. The pedal requires a DC power supply (not included). The DC supply should be a standard Boss style connector, center negative polarity. The pedal can accept 9 to 18 volts . The current draw is approximately 20 mA. The Locust Star has a true bypass switch. Dimensions: 4.77\" long x 2.6\" wide The Locust Star has a transparent finish that shows all of the imperfections of the aluminum diecast enclosure. https://www.broughtonaudio.com/product-page/locust-star submitted Nov 3rd 2023, 04:59 by _dub_ | last Change Jun 16th, 11:11 by modulargrid Marketplace sell and buy used pedals Date Region Description Price Seller 2026-08-16 Australia Velcro on back.From Broughton Audio:The Locust Star is ... $237.66 2026-05-11 USA Very good condition with velcro. Has a light scratch as... $250.00 YouTube unfiltered search results for Locust Star Buy on Reverb Broughton Audio Locust Star $234.83 Broughton Audio Locust Star $250 Broughton Audio Locust Star $250 Broughton Locust Star $159 Right Now on eBay Comments Search for Locust Star in Forum Post in a new Thread Affiliate Disclosure This page contains affiliate links from eBay , Reverb.com and other partners for which ModularGrid may be compensated. Impressum Privacy Policy Terms of Service Cookie Preferences Top The Message How much is the fish? Close",
+      "host": "modulargrid.net",
+      "source_kind": "other"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}

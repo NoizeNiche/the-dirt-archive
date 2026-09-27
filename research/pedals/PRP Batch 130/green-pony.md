@@ -29,3 +29,16 @@ The archive records Green Pony as an overdrive while keeping the tonal descripti
 
 ## Sources checked
 1. Effects Database — Build Your Own Clone catalog: https://www.effectsdatabase.com/model/byoc
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+BYOC Build Your Own Clone Green Pony Overdrive Pedal (Maxon OD-820) - Evolution Music Menu 0 Shop Sell My Gear!
+
+### Verified sound evidence
+BYOC Build Your Own Clone Green Pony Overdrive Pedal (Maxon OD-820) - Evolution Music Menu 0 Shop Sell My Gear!
+
+### Sources checked in this pass
+1. BYOC Build Your Own Clone Green Pony Overdrive Pedal (Maxon OD-820) - Evolution Music: https://evolutionmusicstore.com/products/byoc-build-your-own-clone-green-pony-overdrive-pedal-maxon-od-820

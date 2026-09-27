@@ -34,3 +34,13 @@ The Carbon V2 side is described as an open, high-headroom Bluesbreaker-inspired 
 
 ## Sources checked
 1. Browne Amplification — Ethane Dual Overdrive: https://browneamps.com/store/p/ethane-dual-overdive
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Browne Amplification's Ethane Dual Overdrive is cataloged as an overdrive pedal.
+
+### Sources checked in this pass
+1. Ethane Dual Overdrive — Browne Amplification: https://browneamps.com/store/p/ethane-dual-overdive

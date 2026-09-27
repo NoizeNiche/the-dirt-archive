@@ -33,3 +33,13 @@ Browne describes the T4 as smoother and less gain-heavy than many versions of th
 
 ## Sources checked
 1. Browne Amplification — T4 Fuzz: https://browneamps.com/store/p/m1-fuzz
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Browne Amplification's T4 Fuzz is cataloged as a fuzz pedal.
+
+### Sources checked in this pass
+1. T4 Fuzz — Browne Amplification: https://browneamps.com/store/p/m1-fuzz

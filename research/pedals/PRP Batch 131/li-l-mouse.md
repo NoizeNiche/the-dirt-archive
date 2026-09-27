@@ -27,3 +27,19 @@ The RAT circuit family is the confirmed reference point. The archive does not as
 1. Stomp Box Schematics — Li'l Mouse Kit: https://stompboxschematics.com/circuits/lil-mouse-kit-by-build-your-own-clone-byoc/
 2. Guitar Pedal X — Rat-style pedals, including BYOC Li'l Mouse: https://www.guitarpedalx.com/news/gpx-blog/12-of-the-best-rat-style-fuzz-pedals
 3. Effects Database — Build Your Own Clone catalog: https://www.effectsdatabase.com/model/byoc
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Build Your Own Clone's Li'l Mouse is cataloged as a distortion pedal.
+
+### Verified color/finish evidence
+- Δ More Schematics Based On: RAT Red Rat Add To Cart Based On: Earthqueaker Devices's Life Pedal Life Device (Compact Version) by PCB Guitar Mania Add To Cart Universal OpAmp head preamp emulators (Peavey / Bogner / MESA) project by implex Add To Cart (c) Stomp Box Schematics
+
+### Verified sound evidence
+LM308 opamp for authentic vintage tone.
+
+### Sources checked in this pass
+1. Li'l Mouse Kit by Build Your Own Clone (BYOC) - Stomp Box Schematics: https://stompboxschematics.com/circuits/lil-mouse-kit-by-build-your-own-clone-byoc/

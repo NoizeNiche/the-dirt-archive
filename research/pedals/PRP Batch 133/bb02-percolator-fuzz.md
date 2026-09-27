@@ -23,3 +23,20 @@ Buzzing Bugs describes the BB02 as a gnarly take on the classic Harmonic Percola
 ## Sources checked
 1. Buzzing Bugs Audio Devices product page: https://buzzingbugsfx.com/store/p/bb02-percolator-fuzz
 2. Buzzing Bugs demonstration listing: https://buzzingbugsfx.com/videos
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+BB02 PERCOLATOR FUZZ The BB02 Percolator Fuzz is our take on the classic Harmonic Percolator.
+
+### Verified transistor/device terms
+- silicon transistors, SILICON TRANSISTOR.
+
+### Verified sound evidence
+The two controls dynamically interact with each other, providing a myriad of tone-shaping possibilities.
+BB02 PERCOLATOR FUZZ The BB02 Percolator Fuzz is our take on the classic Harmonic Percolator.
+
+### Sources checked in this pass
+1. BB02 Percolator Fuzz — BUZZING BUGS AUDIO DEVICES: https://buzzingbugsfx.com/store/p/bb02-percolator-fuzz

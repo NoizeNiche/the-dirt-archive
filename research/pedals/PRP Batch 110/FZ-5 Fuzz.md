@@ -42,3 +42,18 @@ The FZ-5 covers several vintage-inspired fuzz families, from a classic Fuzz Face
 
 ## Archive photo
 - **Archive status:** **No Photo Archived**
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+BOSS's FZ-5 Fuzz is cataloged as a fuzz pedal.
+
+### Verified sound evidence
+Looking back at the glorious rock sounds of the ’60s and ’70s, the FZ-5 recreates its vintage fuzz through BOSS state-of-the-art COSM technology.
+Recall the fuzz-filled flavors of classic pedals, such as the Maestro FZ-1A, Fuzz Face and Octavia pedals, and kick ’em into overdrive with the FZ-5’s Boost knob.
+BOSS’ proprietary COSM technology allows guitar players to recreate classic fuzz BOOST control for more aggressive tone.
+
+### Sources checked in this pass
+1. BOSS - FZ-5 | Fuzz: https://www.boss.info/us/products/fz-5/

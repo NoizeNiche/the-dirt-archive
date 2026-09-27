@@ -34,3 +34,16 @@ The blue side supplies a lower-gain, high-headroom base, while the green side is
 1. Browne Amplification — Protein Dual Overdrive V2.2: https://browneamps.com/store/p/protein-dual-overdrive
 2. Browne Amplification — Protein Dual Overdrive V3: https://browneamps.com/store/p/protein-dual-overdrive-v3
 3. Browne Amplification — Protein Dual Overdrive V4: https://browneamps.com/store/p/protein-dual-overdrive-v4
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Browne Amplification's Protein Dual Overdrive V2.2 is cataloged as an overdrive pedal.
+
+### Verified version references
+- The evidence references: V2.
+
+### Sources checked in this pass
+1. Protein Dual Overdrive V2.2 — Browne Amplification: https://browneamps.com/store/p/protein-dual-overdrive

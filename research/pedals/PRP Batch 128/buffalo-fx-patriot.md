@@ -36,3 +36,23 @@ Patriot is a huge, low-end-heavy Muff-style fuzz aimed at thick chord work and s
 ## Sources checked
 1. Effects Database — Buffalo FX Patriot: https://www.effectsdatabase.com/model/buffalofx/patriot
 2. Buffalo FX Patriot demo: https://www.youtube.com/watch?v=XxwYyV02xtg
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Buffalo FX's Patriot is cataloged as a fuzz pedal.
+
+### Verified version references
+- The evidence references: MKII, MkII.
+
+### Verified transistor/device terms
+- Germanium Fuzz.
+
+### Verified sound evidence
+Plenty of drive, Huge low end and smooth treble.
+Standard controls - Distortion-Tone-Level True bypass switching Top mounted power Side mounted signal jacks Renown for their over the top bottom end it includes an internal trimpot to roll back the low frequencies Optional Burr Brown switchable buffer, please ask if you would like one fitted.
+
+### Sources checked in this pass
+1. Buffalo FX Patriot | Effects Database: https://www.effectsdatabase.com/model/buffalofx/patriot

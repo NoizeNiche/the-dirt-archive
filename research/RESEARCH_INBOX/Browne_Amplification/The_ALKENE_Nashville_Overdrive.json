@@ -1,0 +1,17 @@
+{
+  "builder": "Browne Amplification",
+  "pedal": "The ALKENE Nashville Overdrive",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 1,
+  "sources": [
+    {
+      "url": "https://browneamps.com/the-alkene",
+      "title": "The ALKENE Nashville Overdrive by Browne Amplification &mdash; Browne Amplification",
+      "h1": "THE ALKENE",
+      "excerpt": "The ALKENE Nashville Overdrive by Browne Amplification &mdash; Browne Amplification Skip to Content Open Menu Close Menu About STORE Podcast Merch Dealers Contact FAQ Login Account <path d=\"M4.69551 0.000432948C2.10179 0.000432948 0 2.09856 0 4.68769C0 7.27686 2.10183 9.37496 4.69551 9.37496H23.43C31.2022 28.5892 38.8567 47.8378 46.5654 67.089L39.4737 84.129C38.8799 85.5493 39.0464 87.2634 39.905 88.5418C40.7622 89.8216 42.2856 90.6283 43.8271 90.6232H122.088C124.568 90.658 126.85 88.4129 126.85 85.9359C126.85 83.4589 124.569 81.214 122.088 81.2487H50.8702L54.9305 71.5802L130.306 65.5745C132.279 65.4199 134.064 63.8849 134.512 61.9608L143.903 21.337C144.518 18.6009 142.114 15.6147 139.306 15.624H36.0522L30.9654 2.92939C30.2682 1.21146 28.4698 0 26.612 0L4.",
+      "host": "browneamps.com",
+      "source_kind": "catalog_verified"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}

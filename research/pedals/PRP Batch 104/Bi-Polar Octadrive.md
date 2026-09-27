@@ -21,3 +21,22 @@ The builder also documented the use of some NOS transistors and diodes in this m
 
 ## Archive photo
 - **Archive status:** **No Photo Archived**
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Blakemore Effects's Bi-Polar Octadrive is cataloged as a fuzz / overdrive pedal.
+
+### Verified diode terms
+- LED.
+
+### Verified sound evidence
+More from Blakemore Effects Blakemore Effects Mustang Overdrive $149.00 Instagram Facebook X Axe...
+
+### Sources checked in this pass
+1. catalog/override source: https://reverb.com/p/blakemore-effects-bi-polar-octadrive
+2. Blakemore Effects Bi-Polar Octadrive - What To Know & Where To Buy: https://equipboard.com/items/blakemore-effects-bi-polar-octadrive
+3. Bi-Polar Octadrive Review | Blakemore Effects | Guitar Effects | Reviews @ Ultimate-Guitar.Com: https://www.ultimate-guitar.com/reviews/guitar_effects/blakemore_effects/bi-polar_octadrive/
+4. Blakemore Effects Bi-Polar Octadrive | Axe... And You Shall Receive: https://www.axeandyoushallreceive.com/product/blakemore-effects-bi-polar-octadrive

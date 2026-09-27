@@ -35,3 +35,28 @@ Satan's Fingers spans from nasal, compressed fuzz into more extreme blown-out sa
 ## Sources checked
 1. Pedal of the Day — Bowman Audio Endeavors Satan's Fingers Fuzz: https://www.pedal-of-the-day.com/2022/05/13/bowman-audio-endeavors-satans-fingers-fuzz/
 2. Bowman Audio Endeavors catalog material.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+This one crushes from the moment it’s turned on – let’s see what it’s all about… Satan’s Fingers is a finely tuned Silicon Transistor fuzz pedal, with two control parameters, Volume & Fuzz.
+
+### Verified color/finish evidence
+- This effect is housed in a 125B sized flat black powder coated enclosure, as is printed with UV graphics.
+
+### Verified version references
+- The evidence references: MKII.
+
+### Verified transistor/device terms
+- Silicon Transistor.
+
+### Verified sound evidence
+Today, we’re taking a look at the Satan’s Fingers Fuzz, a sinister and opaque piece of gear that has two knobs and a ton of noise.
+This one crushes from the moment it’s turned on – let’s see what it’s all about… Satan’s Fingers is a finely tuned Silicon Transistor fuzz pedal, with two control parameters, Volume & Fuzz.
+This simple setup lets you dial in nasally spit, reminiscent of your favorite smiley face fuzz, without having to ride your guitars volume knob.
+
+### Sources checked in this pass
+1. Satan’s Fingers Fuzz: https://bowmanaudioendeavors.com/collections/current-pedals/products/satans-fingers-fuzz
+2. Bowman Audio Endeavors Satan's Fingers Fuzz - Pedal of the Day: https://www.pedal-of-the-day.com/2022/05/13/bowman-audio-endeavors-satans-fingers-fuzz/

@@ -17,3 +17,16 @@ Byron states its pedals are handmade in Columbia, Missouri. citeturn1searc
 ## Sources checked
 1. Byron Amplification pedal catalog: https://byronamplification.com/pedals
 2. Byron Amplification About / testimonials: https://byronamplification.com/about
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Byron Amplification's Phattie Overdrive is cataloged as an overdrive pedal.
+
+### Verified sound evidence
+Boost/Drive and Fuzz Sale Price: $149.00 Original Price: $159.00 sold out Kompressor Sale Price: $149.00 Original Price: $159.00 sold out Lil' Shaman Overdrive Sale Price: $149.00 Original Price: $159.00 sold out Again!
+
+### Sources checked in this pass
+1. Pedals — Byron Amplification: https://byronamplification.com/pedals

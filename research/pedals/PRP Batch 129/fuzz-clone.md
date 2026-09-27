@@ -35,3 +35,21 @@ Fuzz Clone preserves the basic Fuzz Face response while allowing the builder to 
 
 ## Sources checked
 1. Effects Database — Build Your Own Clone Fuzz Clone: https://www.effectsdatabase.com/model/byoc/fuzz
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Build Your Own Clone's Fuzz Clone is cataloged as a fuzz pedal.
+
+### Verified transistor/device terms
+- BC108, AC127, AC128, Germanium Fuzz.
+
+### Verified sound evidence
+The kit comes to the exact specs of the original Dallas Arbiter Fuzz Face circuit, but has a few extras that make this the ultimate fuzz face clone.
+With 2 gold plated transistor sockets, you can easily experiment with different pure germanium, pure silicon, or hybrid transistor combinations to find your ultimate fuzz tone.
+And the bias resistor has been replaced with an internal trimpot so you can dial in the perfect characteristic to your fuzz - anything from smooth, woolly, and sustaining to raspy, nasty and gated.
+
+### Sources checked in this pass
+1. Build Your Own Clone Fuzz Clone | Effects Database: https://www.effectsdatabase.com/model/byoc/fuzz

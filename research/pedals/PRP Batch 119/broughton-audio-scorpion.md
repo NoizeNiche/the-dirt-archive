@@ -28,3 +28,23 @@ The archive confirms Scorpion as an overdrive project but does not preserve enou
 
 ## Sources checked
 1. Broughton Audio Pedal Archive: https://www.broughtonaudio.com/archive
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+The Scorpion is a three-band EQ designed for bass guitar.
+
+### Verified sound evidence
+Unlike most overdrives that offer a baked-in signature tone, the Scorpion can be transparent or transformative.
+Allow your inherent tone to shine, or reshape it entirely into a powerful, cutting bass tone.
+The Depth knob gives complete control of the low frequency clipping, ranging from a lean, grindy tone, all the way to a full on bass distortion.
+
+### Sources checked in this pass
+1. Scorpion | Broughton Audio: https://www.broughtonaudio.com/product-page/scorpion
+2. Broughton Audio Scorpion Deluxe - Reverb: https://reverb.com/item/102230587-broughton-audio-scorpion-deluxe
+3. Broughton Audio Scorpion sound samples - TalkBass.com: https://www.talkbass.com/threads/broughton-audio-scorpion-sound-samples.1605051/
+4. Scorpion by Broughton Audio | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/Broughton-Audio/Scorpion/483061211/
+5. Broughton Audio Scorpion Dimensions, Specs & Details: https://www.stompboxgarden.com/gear/pedal/16936/broughton-audio-scorpion
+6. Scorpion — Broughton EQ Pedal | PedalFilter | PedalFilter: https://pedalfilter.com/broughton/scorpion

@@ -28,3 +28,16 @@ The maker describes the pedal as covering clean boost through fat crunch and as 
 1. Byron Amplification pedal catalog: https://byronamplification.com/pedals
 2. Byron Amplification Cowboy Overdrive demonstration: https://www.youtube.com/watch?v=ENKPumiph0M
 3. Exact-model product photograph from Byron Amplification: https://images.squarespace-cdn.com/content/v1/567322ce0e4c11f307b26a3e/1585881383291-FKYRPQHSI0C9A1HWWZE8/2020-04-02%2B18.34.59-1.jpg
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Byron Amplification's Cowboy Overdrive is cataloged as an overdrive pedal.
+
+### Verified sound evidence
+Boost/Drive and Fuzz Sale Price: $149.00 Original Price: $159.00 sold out Kompressor Sale Price: $149.00 Original Price: $159.00 sold out Lil' Shaman Overdrive Sale Price: $149.00 Original Price: $159.00 sold out Again!
+
+### Sources checked in this pass
+1. Pedals — Byron Amplification: https://byronamplification.com/pedals

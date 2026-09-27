@@ -36,3 +36,18 @@ Evolution is designed to retain articulate mids while moving from moderate drive
 
 ## Sources checked
 1. Effects Database — Buffalo FX Evolution: https://www.effectsdatabase.com/model/buffalofx/evolution
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+The roots of the evolution lie in the 70's big muff which was used as the basis of the overdrive pedal made by a world renowned UK builder in the early nineties.
+
+### Verified sound evidence
+Buffalo FX Evolution - 4 Stage Overdrive/Distortion
+The roots of the evolution lie in the 70's big muff which was used as the basis of the overdrive pedal made by a world renowned UK builder in the early nineties.
+Light drive to full on British style tube amp distortion, the Evolution cuts through with articulate mids and just the right amount of low end to really stand out in a band mix.
+
+### Sources checked in this pass
+1. Buffalo FX Evolution - 4 Stage Overdrive/Distortion | Effects Database: https://www.effectsdatabase.com/model/buffalofx/evolution

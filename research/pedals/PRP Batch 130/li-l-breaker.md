@@ -31,3 +31,16 @@ The archive records Li'l Breaker as overdrive while avoiding an unverified circu
 ## Sources checked
 1. Effects Database — Build Your Own Clone catalog: https://www.effectsdatabase.com/model/byoc
 2. Effects Database — overdrive catalog listing: https://www.effectsdatabase.com/type/overdrive/pedal?page=7
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Build Your Own Clone's Li'l Breaker is cataloged as an overdrive pedal.
+
+### Verified sound evidence
+It is popular among DIYers and boutique builders as it offers a more transparent tone compared to typical Tubescreamer clones.
+
+### Sources checked in this pass
+1. Li'l Breaker Kit by Build Your Own Clone (BYOC) - Stomp Box Schematics: https://stompboxschematics.com/circuits/lil-breaker-kit-by-build-your-own-clone-byoc/

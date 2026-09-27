@@ -46,3 +46,18 @@ The ST-2 responds to playing intensity and guitar-volume changes, moving from re
 - **Archive status:** **Exact model photo archived**
 - **Image source:** https://www.boss.info/us/products/st-2/
 - **Image source URL:** https://static.roland.com/products/st-2/images/st-2_hero.jpg
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Downloads Support Authentic Stack Amp Sounds from a Stompbox The ST-2 Power Stack delivers fat, powerful tones inspired by classic tube-based stack amps.
+
+### Verified sound evidence
+The innovative Sound knob offers immense tonal range in a single control, letting you dial in everything from mild drive to full-assault distortion.
+Secret Sauce The ST-2 puts an expressive distortion spectrum under your fingers without the punishing volume of a cranked stack amp.
+The Sound knob is uniquely BOSS, adjusting the gain and sound character at one time for fast tone shaping.
+
+### Sources checked in this pass
+1. BOSS - ST-2 | Power Stack: https://www.boss.info/us/products/st-2/

@@ -32,3 +32,13 @@ The two sides provide complementary Carbon-family responses, with the left side 
 
 ## Sources checked
 1. Browne Amplification — Carbon X Dual Overdrive: https://browneamps.com/store/p/carbon-x-dual-overdrive
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Browne Amplification's Carbon X Dual Overdrive is cataloged as an overdrive pedal.
+
+### Sources checked in this pass
+1. Carbon X Dual Overdrive — Browne Amplification: https://browneamps.com/store/p/carbon-x-dual-overdrive

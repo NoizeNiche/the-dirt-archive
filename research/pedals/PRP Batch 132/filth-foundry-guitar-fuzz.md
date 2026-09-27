@@ -17,3 +17,14 @@ The documented range runs from mild distortion through compressed velcro-style f
 
 ## Sources checked
 1. Bulinski Effect Pedals product page: https://bulinskipedals.com/shop/filth-foundry-guitar-fuzz/
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Bulinski Effect Pedals's Filth Foundry Guitar Fuzz is cataloged as a fuzz pedal.
+
+### Sources checked in this pass
+1. Filth Foundry Guitar Fuzz by Bulinski Effect Pedals - Reverb: https://reverb.com/ca/item/65993151-filth-foundry-guitar-fuzz-by-bulinski-effect-pedals
+2. Filth Foundry Guitar Fuzz - Bulinski Effect Pedals: https://bulinskipedals.com/shop/filth-foundry-guitar-fuzz/

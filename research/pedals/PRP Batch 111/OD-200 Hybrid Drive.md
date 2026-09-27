@@ -51,3 +51,21 @@ The OD-200 covers a broad spectrum from transparent and mid-focused overdrive th
 - **Archive status:** **Exact model photo archived**
 - **Image source:** https://www.boss.info/us/products/od-200/
 - **Image source URL:** https://static.roland.com/assets/images/products/main/od-200_main.jpg
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+BOSS's OD-200 Hybrid Drive is cataloged as an overdrive pedal.
+
+### Verified version references
+- The evidence references: Version 1.
+
+### Verified sound evidence
+The OD-200 Hybrid Drive brings next-level sound, feel, and flexibility to overdrive and distortion, combining decades of BOSS tone expertise with innovative technologies.
+Powered by hybrid analog/digital circuitry, this dream pedal delivers any drive tone you can imagine via 12 primary modes, 15 boost types, series/parallel gain paths, and more.
+There’s even an advanced gate on board, ideal for both eliminating noise and adding tightness to high-gain drive tones.
+
+### Sources checked in this pass
+1. BOSS - OD-200 | Hybrid Drive: https://www.boss.info/us/products/od-200/

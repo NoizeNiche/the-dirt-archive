@@ -1,0 +1,17 @@
+{
+  "builder": "Browne Amplification",
+  "pedal": "Protein Dual Overdrive",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 1,
+  "sources": [
+    {
+      "url": "https://browneamps.com/store/p/protein-dual-overdrive",
+      "title": "Protein Dual Overdrive V2.2 &mdash; Browne Amplification",
+      "h1": "",
+      "excerpt": "Protein Dual Overdrive V2.2 &mdash; Browne Amplification <header data-test=\"header\" id=\"header\" class=\" white header theme-col--primary \" data-section-theme=\"white\" data-controller=\"Header\" data-current-styles=\"{ &quot;layout&quot;: &quot;navLeft&quot;, &quot;showSocial&quot;: false, &quot;socialOptions&quot;: { &quot;socialBorderShape&quot;: &quot;square&quot;, &quot;socialBorderStyle&quot;: &quot;solid&quot;, &quot;socialBorderThickness&quot;: { &quot;unit&quot;: &quot;px&quot;, &quot;value&quot;: 40.0 } }, &quot;sectionTheme&quot;: &quot;white&quot;, &quot;menuOverlayAnimation&quot;: &quot;fade&quot;, &quot;cartStyle&quot;: &quot;cart&quot;, &quot;cartText&quot;: &quot;Cart&quot;, &quot;showEmptyCartState&quot;: true, &quot;cartOptions&quot;: { &quot;iconType&quot;: &quot;stroke-9&quot;, &quot;cartBorderShape&quot;: &quot;none&quot;, &quot;cartBorderStyle&quot;: &quot;outline&quot;, &quot;cartBorderThickness&quot;: { &quot;unit&quot;: &quot;px&quot;, &quot;value&quot;: 1.0 } }, &quot;showButton&quot;: false, &quot;showCart&quot;: true, &quot;showAccountLogin&quot;: true, &quot;headerStyle&quot;: &quot;solid&quot;, &quot;languagePicker&quot;: { &quot;enabled&quot;: false, &quot;iconEnabled&quot;: false, &quot;iconType&quot;: &quot;globe&quot;, &quot;flagShape&quot;: &quot;shiny&quot;, &quot;languageFlags&quot;: [ ] }, &quot;iconOptions&quot;: { &quot;desktopDropdownIconOptions&quot;: { &quot;size&quot;: { &quot;unit&quot;: &quot;em&quot;, &quot;value&quot;: 1.0 }, &quot;iconSpacing&quot;: { &quot;unit&quot;: &quot;em&quot;, &quot;value&quot;: 0.35 }, &quot;strokeWidth&quot;: { &quot;unit&quot;: &quot;px&quot;, &quot;value&quot;: 1.0 }, &quot;endcapType&quot;: &quot;square&quot;, &quot;folderDropdownIcon&quot;: &quot;none&quot;, &quot;languagePickerIcon&quot;: &quot;openArrowHead&quot; }, &quot;mobileDropdownIconOptions&quot;: { &quot;size&quot;: { &quot;unit&quot;: &quot;em&quot;, &quot;value&quot;: 1.0 }, &quot;iconSpacing&quot;: { &quot;unit&quot;: &quot;em&quot;, &quot;value&quot;: 0.15 }, &quot;strokeWidth&quot;: { &quot;unit&quot;: &quot;px&quot;, &quot;value&quot;: 0.5 }, &quot;endcapType&quot;: &quot;square&quot;, &quot;folderDropdownIcon&quot;: &quot;openArrowHead&quot;, &quot;languagePickerIcon&quot;: &quot;openArrowHead&quot; } }, &quot;mobileOptions&quot;: { &quot;layout&quot;: &quot;logoLeftNavRight&quot;, &quot;menuIconOptions&quot;: { &quot;style&quot;: &quot;doubleLineHamburger&quot;, &quot;thickness&quot;: { &quot;unit&quot;: &quot;px&quot;,",
+      "host": "browneamps.com",
+      "source_kind": "catalog_verified"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}

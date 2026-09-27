@@ -47,3 +47,21 @@ Standard mode preserves the familiar SD-1 mid-focused overdrive character, while
 - **Archive status:** **Exact model photo archived**
 - **Image source:** https://www.boss.info/us/products/sd-1w/
 - **Image source URL:** https://static.roland.com/products/sd-1w/images/sd-1w_hero.jpg
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Product description The SD-1W Super Overdrive Waza Craft Guitar Pedal from BOSS offers guitarists a palette of overdrive tones, from creamy leads to crunchy rhythm sounds.
+
+### Verified sound evidence
+USER MANUAL BOSS SD-1W Super Overdrive Waza Craft
+Product description The SD-1W Super Overdrive Waza Craft Guitar Pedal from BOSS offers guitarists a palette of overdrive tones, from creamy leads to crunchy rhythm sounds.
+Based on the original SD-1 Super Overdrive, but with a newly revised, all-analog discrete amplifier circuit, this pedal can be used in a wide variety of musical genres, from blues, to jazz, to rock.
+
+### Sources checked in this pass
+1. BOSS SD-1W SUPER OverDrive Owner Manual | Manualzz: https://manualzz.com/doc/65997090/boss-sd-1w-super-overdrive-owner-manual
+2. USER MANUAL BOSS SD-1W Super Overdrive Waza Craft | Search For Manual Online: https://www.search-manual.com/boss-sd-1w-super-overdrive-waza-craft-guitar-pedal-215671-manual
+3. BOSS SD-1W Super Overdrive Waza Craft Guitar Pedal manuals: https://www.manualsdir.com/models/boss/sd-1w-super-overdrive-waza-craft-guitar-pedal.html
+4. BOSS - SD-1W | SUPER OverDrive: https://www.boss.info/us/products/sd-1w/

@@ -30,3 +30,20 @@ The op-amp Muff family generally differs from transistor-era Muff circuits in at
 
 ## Sources checked
 1. Effects Database — Build Your Own Clone catalog: https://www.effectsdatabase.com/model/byoc
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Build Your Own Clone's Li'l Beaver (Opamp) is cataloged as a fuzz pedal.
+
+### Verified color/finish evidence
+- Δ More Schematics Calvin Vai by PCB Guitar Mania Add To Cart Based On: Ampeg SVT Amped S-bass by PCB Guitar Mania Add To Cart Based On: Darkglass Microtubes B7K Ultra Black Mirror VII by PCB Guitar Mania Add To Cart (c) Stomp Box Schematics
+
+### Verified sound evidence
+It is an exact replica of the opamp version of the Big Muff Pi, known for its vintage tone.
+These versions offer variations in tone and functionality, allowing you to choose the one that best suits your preferences.
+
+### Sources checked in this pass
+1. Li'l Beaver (Opamp) Kit by Build Your Own Clone (BYOC) - Stomp Box Schematics: https://stompboxschematics.com/circuits/lil-beaver-opamp-kit-by-build-your-own-clone-byoc/

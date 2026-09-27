@@ -36,3 +36,19 @@ The Bowman is intended to occupy the transparent overdrive space associated with
 ## Sources checked
 1. Bowman Audio Endeavors — The Bowman Overdrive: https://bowmanaudioendeavors.com/products/the-bowman
 2. Pedal of the Day — The Bowman Overdrive video description: https://www.youtube.com/watch?v=XEm-pZq7oDk
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Bowman Audio Endeavors's The Bowman Overdrive is cataloged as an overdrive pedal.
+
+### Verified color/finish evidence
+- UV Printed, Silver powder coated enclosures.
+
+### Verified sound evidence
+The Bowman Transparent Overdrive Circuit is hand-made with quality components, NOS Germanium Diodes, Lumberg 1/4 inch jacks, & 9V power jack.
+
+### Sources checked in this pass
+1. The Bowman Overdrive – Bowman Audio Endeavors: https://bowmanaudioendeavors.com/products/the-bowman

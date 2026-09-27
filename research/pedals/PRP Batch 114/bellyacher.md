@@ -37,3 +37,21 @@ Bellyacher is designed to move from broad, sustaining fuzz-like textures into he
 
 ## Sources checked
 1. Bowman Audio Endeavors — Bellyacher: https://bowmanaudioendeavors.com/products/bellyacher
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+With art by the incredible Ash Lowe, The Bellyacher is now available for pre-order and will ship worldwide.
+
+### Verified diode terms
+- LED.
+
+### Verified sound evidence
+The Bellyacher is a full-range distortion/sustain monster, capable of your favorite muff-type tones and so much more!
+Sustain: Controls the level of sustain/distortion of the circuit.
+Texture: This switch works in conjunction with all of the controls, depending on their settings.
+
+### Sources checked in this pass
+1. Introducing the Bellyacher: A Limited-Edition Distortion Pedal – Bowman Audio Endeavors: https://bowmanaudioendeavors.com/products/bellyacher

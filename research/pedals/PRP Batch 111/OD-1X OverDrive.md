@@ -46,3 +46,18 @@ The OD-1X aims for punchy, articulate overdrive with strong note definition and 
 - **Archive status:** **Exact model photo archived**
 - **Image source:** https://www.boss.info/us/products/od-1x/
 - **Image source URL:** https://static.roland.com/products/od-1x/image/od-1x_gal_01.jpg
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Prepare to be amazed—the inspiring and ultra-responsive OD-1X will change your thinking about overdrive pedals forever.
+
+### Verified sound evidence
+Downloads Support Plug Into the Ultimate Overdrive Experience The OD-1X launches the classic BOSS overdrive into a new era of expression, delivering unmatched performance for guitarists seeking the ultimate tone.
+Prepare to be amazed—the inspiring and ultra-responsive OD-1X will change your thinking about overdrive pedals forever.
+At every gain setting, you get lively tones that are punchy, articulate, and satisfying.
+
+### Sources checked in this pass
+1. BOSS - OD-1X | OverDrive: https://www.boss.info/us/products/od-1x/

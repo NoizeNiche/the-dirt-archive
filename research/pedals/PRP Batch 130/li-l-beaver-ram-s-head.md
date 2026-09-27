@@ -30,3 +30,19 @@ The Ram's Head designation places the kit in the saturated, sustaining Big Muff 
 
 ## Sources checked
 1. Effects Database — Build Your Own Clone catalog: https://www.effectsdatabase.com/model/byoc
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Build Your Own Clone's Li'l Beaver (Ram's Head) is cataloged as a fuzz pedal.
+
+### Verified color/finish evidence
+- Δ More Schematics Based On: Bixonic Expandora Bionic Pandora by PCB Guitar Mania Add To Cart Based On: Ampeg SVT Amped S-bass by PCB Guitar Mania Add To Cart Based On: Darkglass B3k Black Mirror by PCB Guitar Mania Add To Cart (c) Stomp Box Schematics
+
+### Verified transistor/device terms
+- BC239C.
+
+### Sources checked in this pass
+1. Li'l Beaver (Ram's Head) by Build Your Own Clone (BYOC) - Stomp Box Schematics: https://stompboxschematics.com/circuits/lil-beaver-rams-head-by-build-your-own-clone-byoc/

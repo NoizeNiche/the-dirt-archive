@@ -36,3 +36,22 @@ J-Fuzz is voiced as a surprisingly warm and full silicon fuzz, deliberately avoi
 ## Sources checked
 1. BSM — J-Fuzz Fuzz Machine: https://www.treblebooster.net/products/custom-made/j-fuzz-fuzz-machine.html
 2. RockBoard — BSM J Fuzz: https://www.rockboard.de/en/pedalPedia/BSM---Meiser-Electronics/J-Fuzz/68976195/
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+In the early version of this fuzz box, he used transistors from the Japanese "Micro Electronics" company and BSM is proud to say, that we were able to acquire a bunch of these NOS transistors, using them exclusively for the BSM J-Fuzz.
+
+### Verified transistor/device terms
+- AC30.
+
+### Verified sound evidence
+Tom Jennings was founder and master-mind of the VOX company in the late 50's, accompanied by his friend and technician Dick Denney, who engineered the famous VOX AC30 amp as well as the VOX Defiant transistor amp with a built-in fuzz circuit.
+Especially the fuzz from 1969 was different from the similar products other companies built.
+Like most fuzz boxes at this time the Jennings fuzz, used two silicone transistors, but had a much milder and rounder tone than all the others.
+
+### Sources checked in this pass
+1. J Fuzz by BSM - Meiser Electronics | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/BSM---Meiser-Electronics/J-Fuzz/68976195/
+2. J-Fuzz Fuzz Machine | BSM - Finest Treble Booster: https://www.treblebooster.net/products/custom-made/j-fuzz-fuzz-machine.html

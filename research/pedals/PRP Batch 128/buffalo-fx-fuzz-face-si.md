@@ -33,3 +33,22 @@ The silicon variant belongs to the brighter, firmer Fuzz Face family rather than
 ## Sources checked
 1. Effects Database — Buffalo FX Fuzz Face Si listing: https://www.effectsdatabase.com/model/buffalofx/fuzzface/si
 2. Effects Database — Fuzz Face family listing: https://www.effectsdatabase.com/model/proanalog/fuzzface
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Buffalo FX's Fuzz Face Si is cataloged as a fuzz pedal.
+
+### Verified version references
+- The evidence references: MkII.
+
+### Verified transistor/device terms
+- Germanium Fuzz.
+
+### Verified diode terms
+- LED.
+
+### Sources checked in this pass
+1. Buffalo FX Fuzz Face Si | Effects Database: https://www.effectsdatabase.com/model/buffalofx/fuzzface/si

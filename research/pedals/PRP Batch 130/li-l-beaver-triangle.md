@@ -30,3 +30,25 @@ The Triangle designation places the kit in the earlier Big Muff family, but the 
 
 ## Sources checked
 1. Effects Database — Build Your Own Clone catalog: https://www.effectsdatabase.com/model/byoc
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Build Your Own Clone's Li'l Beaver (Triangle) is cataloged as a fuzz pedal.
+
+### Verified color/finish evidence
+- Δ More Schematics Based On: Bixonic Expandora Bionic Pandora by PCB Guitar Mania Add To Cart Calvin Vai by PCB Guitar Mania Add To Cart Based On: Darkglass B3k Black Mirror by PCB Guitar Mania Add To Cart (c) Stomp Box Schematics
+
+### Verified version references
+- The evidence references: V1.
+
+### Verified transistor/device terms
+- 2N5133.
+
+### Verified sound evidence
+Motorola 2N5133 transistors, metal film resistors, and metallized polyester film capacitors to deliver vintage tone with reduced noise.
+
+### Sources checked in this pass
+1. Li'l Beaver (Triangle) Kit by Build Your Own Clone (BYOC) - Stomp Box Schematics: https://stompboxschematics.com/circuits/lil-beaver-triangle-kit-by-build-your-own-clone-byoc/

@@ -28,3 +28,15 @@ Evergreen is confirmed as an overdrive project, but the accessible archive listi
 
 ## Sources checked
 1. Broughton Audio Pedal Archive: https://www.broughtonaudio.com/archive
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Broughton Audio's Evergreen Overdrive is cataloged as an overdrive pedal.
+
+### Sources checked in this pass
+1. Broughton Audio Evergreen Overdrive | Reverb: https://reverb.com/p/broughton-audio-evergreen-overdrive
+2. Evergreen Overdrive | Broughton Audio: https://www.broughtonaudio.com/product-page/evergreen-overdrive
+3. Broughton Audio Evergreen Overdrive | TalkBass.com: https://www.talkbass.com/classifieds/broughton-audio-evergreen-overdrive.1679810/

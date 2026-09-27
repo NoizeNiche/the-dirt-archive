@@ -13,3 +13,16 @@ Byron states that its pedals are handmade in Columbia, Missouri, and built one a
 
 ## Sources checked
 1. Byron Amplification pedal catalog: https://byronamplification.com/pedals
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Byron Amplification's Green Concussion Fuzz is cataloged as a fuzz pedal.
+
+### Verified sound evidence
+Boost/Drive and Fuzz Sale Price: $149.00 Original Price: $159.00 sold out Kompressor Sale Price: $149.00 Original Price: $159.00 sold out Lil' Shaman Overdrive Sale Price: $149.00 Original Price: $159.00 sold out Again!
+
+### Sources checked in this pass
+1. Pedals — Byron Amplification: https://byronamplification.com/pedals

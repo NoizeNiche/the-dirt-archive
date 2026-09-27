@@ -46,3 +46,18 @@ The ML-2 is voiced for dense, extremely saturated distortion with a sharp attack
 - **Archive status:** **Exact model photo archived**
 - **Image source:** https://www.boss.info/us/products/ml-2/
 - **Image source URL:** https://static.roland.com/assets/images/products/main/ml_2_top_main.jpg
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+BOSS's ML-2 Metal Core is cataloged as a distortion pedal.
+
+### Verified sound evidence
+It easily delivers massive distortion and gain with heavy lows for playing Nu Metal, Grind Core, Industrial, Hard Core, or any genre that requires crushing sound.
+The ML-2’s ferocious and biting tone will complement and cut through any blast beats your rhythm section can create.
+Audio Library play ML-2 Sound Check play ML-2 Tone Demo 01 play ML-2 Tone Demo 02 play ML-2 Tone De
+
+### Sources checked in this pass
+1. BOSS - ML-2 | Metal Core: https://www.boss.info/us/products/ml-2/

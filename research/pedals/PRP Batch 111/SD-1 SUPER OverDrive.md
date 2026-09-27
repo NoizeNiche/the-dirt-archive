@@ -44,3 +44,28 @@ The SD-1 produces mild-to-moderate overdrive with a focused midrange and tight l
 - **Archive status:** **Exact model photo archived**
 - **Image source:** https://www.boss.info/ca/products/sd-1/
 - **Image source URL:** https://static.roland.com/products/sd-1-4a/images/sd-1_hero.jpg
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+99 Join Prime to get FREE delivery Tue, Sep 29 Add to cart Customers say Customers praise this overdrive pedal for its warm, full-chord voicing sound and its ability to take gain to new levels, with one customer noting it hits the sweet spot between tube screamer and aggressive distortion.
+
+### Verified sound evidence
+99 Join Prime to get FREE delivery Tue, Sep 29 Add to cart Customers say Customers praise this overdrive pedal for its warm, full-chord voicing sound and its ability to take gain to new levels, with one customer noting it hits the sweet spot between tube screamer and aggressive distortion.
+They find it superior to competitors, well-built, and reliable, with one mentioning it works great for tightening up high-gain amps.
+BOSS SD-1 Super OverDrive Guitar Effects Pedal
+
+### Sources checked in this pass
+1. Boss SD-1 Super Overdrive Pedal | Sweetwater: https://www.sweetwater.com/store/detail/SD1--boss-sd-1-super-overdrive-pedal
+2. open prime modal: https://www.amazon.com/clp/B0013NDBS6
+3. Boss SD-1 Super Overdrive - Reverb: https://reverb.com/p/boss-sd-1-super-overdrive
+4. BOSS SD-1 Super OverDrive Guitar Effects Pedal | Guitar Center: https://www.guitarcenter.com/BOSS/SUPER-OverDrive-SD-1-Pedal-1274034492479.gc
+5. Boss SD-1 Super Overdrive: what makes it a classic pedal | Guitar World: https://www.guitarworld.com/features/boss-sd-1-super-overdrive-pedal
+6. BOSS SD-1 Super OverDrive Pedal Instruction Manual: https://manuals.plus/asin/B09MSN7JLB
+7. BOSS SD-1 Super Overdrive Guitar Pedal User Manual - ManualsFile: https://manualsfile.com/product/k3d02kbp7sn.html
+8. Boss SD-1 Super OverDrive User Manual: https://www.generalmanual.com/Audio/Boss-SD-1-Super-OverDrive.htm
+9. Boss SD-1 Super OverDrive Owner Manual | Manualzz: https://manualzz.com/doc/html/52161304/boss-sd-1-super-overdrive-owner-manual
+10. BOSS - SD-1 | SUPER OverDrive: https://www.boss.info/us/products/sd-1/support/
+11. Boss SD-1 Super OverDrive - Effects Database: https://www.effectsdatabase.com/model/boss/compact/sd1

@@ -28,3 +28,13 @@ The archive confirms Ascalon as a past Broughton effect project, but the accessi
 
 ## Sources checked
 1. Broughton Audio Pedal Archive: https://www.broughtonaudio.com/archive
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Broughton Audio's Ascalon is cataloged as a distortion pedal.
+
+### Sources checked in this pass
+1. Ascalon | Broughton Audio: https://www.broughtonaudio.com/product-page/ascalon

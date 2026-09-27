@@ -12772,8 +12772,8 @@
       "image_source_page": "https://blackcatamps.com/",
       "image_source_page_verified": true,
       "image_source_url": "https://blackcatamps.com/wp-content/uploads/2026/08/Maintence-Page-Black-Background-1024x576.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Black CAT Amps",
@@ -12784,8 +12784,8 @@
       "image": null,
       "source_page": "https://blackcatamps.com/about-us",
       "research_record": "./research/pedals/Black CAT Amps/METAL CORE.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Black Cat Pedals",
@@ -12812,8 +12812,8 @@
       "research_record": "./research/pedals/PRP Batch 096/Bee Buzz Fuzz.md",
       "image_source_url": "https://www.premierguitar.com/media-library/image.jpg?id=25787724&width=1200&height=600&coordinates=0%2C90%2C0%2C91",
       "image_source_page": "https://www.premierguitar.com/gear/black-cat-bee-buzz-pedal-review",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Black Cat Pedals",
@@ -12831,8 +12831,8 @@
         "https://www.effectsdatabase.com/model/blackcat/d2"
       ],
       "image_source_pages_verified": true,
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Black Cat Pedals",
@@ -12852,8 +12852,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_url": "https://www.pitbullaudio.com/media/catalog/product/b/c/bcp-ds-1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=&width=800",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Black Cat Pedals",
@@ -12880,8 +12880,8 @@
       "research_record": "./research/pedals/PRP Batch 096/Monster K-Fuzz Stompbox.md",
       "image_source_url": "https://www.premierguitar.com/media-library/image.jpg?id=25723888&width=1200&height=600&coordinates=0%2C20%2C0%2C20",
       "image_source_page": "https://www.premierguitar.com/black-cat-announces-monster-k-fuzz",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Black Cat Pedals",
@@ -12925,8 +12925,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_url": "https://www.pitbullaudio.com/media/catalog/product/b/c/bcp-od-1-1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=&width=",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Black Cat Pedals",
@@ -12987,8 +12987,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_url": "https://www.premierguitar.com/media-library/image.jpg?id=25770904&width=980",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Black Cat Pedals",
@@ -13139,8 +13139,8 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/blackbox/cobalt",
       "research_record": "./research/pedals/Blackbox Music Electronics/Cobalt.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Blackbox Music Electronics",
@@ -13178,8 +13178,8 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/blackbox/ultraviolet",
       "research_record": "./research/pedals/Blackbox Music Electronics/Ultraviolet.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Blackbox Music Electronics",
@@ -13190,8 +13190,8 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/blackbox/ultraviolet2",
       "research_record": "./research/pedals/Blackbox Music Electronics/Ultraviolet 2.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Blackbox Music Electronics",
@@ -13203,8 +13203,8 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/blackbox/xray",
       "research_record": "./research/pedals/Blackbox Music Electronics/X-Ray.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Blackbox Music Electronics",
@@ -13216,8 +13216,8 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/blackbox/xray/bass",
       "research_record": "./research/pedals/Blackbox Music Electronics/X-Ray Bass!.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Blackhawk Amplifiers",
@@ -13236,8 +13236,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_url": "https://images.equipboard.com/uploads/item/image/99181/blackhawk-amplifiers-asgard-bass-fuzz-v2-m.webp?v=1754870642",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Blackhawk Amplifiers",
@@ -13273,8 +13273,8 @@
       ],
       "image_source_pages_verified": true,
       "image": "./assets/pedals/blackhawk-amplifiers/basilisk-fuzz/primary.webp",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Blackhawk Amplifiers",
@@ -13307,8 +13307,8 @@
       "image_source_page_verified": true,
       "image_source_priority": 379,
       "image_source_url": "https://preview.redd.it/blackhawk-amps-gandalf-deluex-octave-fuzz-v0-rpbxcgx5agc81.jpg?auto=webp&s=a7bd28acad092cfe32ea98d8a624e767cd9c06f6",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Blackhawk Amplifiers",
@@ -13321,8 +13321,8 @@
       "research_record": "./research/pedals/PRP Batch 100/Green Black Russian Pi Fuzz.md",
       "image_source_url": "https://assets.bigcartel.com/product_images/a9ebaab8-2a91-43c5-ba12-c8698765f4e9/green-russian-fuzz.jpg?auto=format&fit=max&h=1200&w=1200",
       "image_source_page": "https://www.blackhawkamplifiers.com/product/pi-fuzz-green-black-russian",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Blackhawk Amplifiers",
@@ -13350,8 +13350,8 @@
       "research_record": "./research/pedals/PRP Batch 100/Heimdall-3 MKII Distortion.md",
       "image_source_url": "https://assets.bigcartel.com/product_images/22c97da7-8a27-4bca-8758-350ed8a212d6/heimdall-3-mkii-distortion.jpg?auto=format&fit=max&w=2000",
       "image_source_page": "https://www.blackhawkamplifiers.com/product/heimdall-3-mkii-distortion",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Blackhawk Amplifiers",
@@ -13390,8 +13390,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_url": "https://preview.redd.it/npd-blackhawk-morgul-drive-v-2-in-a-custom-enclosure-v0-8oeu8xsgy97c1.jpeg?auto=webp&s=87886a613a9be9864ad43c93399efd91b52bd124",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Blackhawk Amplifiers",
@@ -13730,8 +13730,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_url": "https://motorcityguitar.com/cdn/shop/products/BlackoutEffectors_FubarFuzz_800x.jpg?v=1504709528",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "BlackOutEffectors",
@@ -13779,8 +13779,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_url": "https://motorcityguitar.com/cdn/shop/products/blackoutmusket_800x.jpg?v=1504709536",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "BlackOutEffectors",
@@ -14032,8 +14032,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_url": "https://files.effectsdatabase.com/gear/pics/blakemore_bipolaroctadrive_001.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Blakemore Effects",
@@ -15010,8 +15010,8 @@
       "research_record": "./research/pedals/PRP Batch 110/DS-2 TURBO Distortion.md",
       "image_source_url": "https://static.roland.com/assets/images/products/main/ds2_main.jpg",
       "image_source_page": "https://www.boss.info/us/products/ds-2/",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "BOSS",
@@ -15062,8 +15062,8 @@
       "research_record": "./research/pedals/PRP Batch 110/FZ-5 Fuzz.md",
       "image_source_url": "https://static.roland.com/assets/images/products/main/fz_5_top_main.jpg",
       "image_source_page": "https://www.boss.info/us/products/fz-5/",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "BOSS",
@@ -15114,8 +15114,8 @@
       "research_record": "./research/pedals/PRP Batch 110/JB-2 Angry Driver.md",
       "image_source_url": "https://static.roland.com/assets/images/articles/thumbnails/avp_the_boss_bd-2_blues_driver_touchstone_tn.jpg",
       "image_source_page": "https://www.boss.info/us/products/jb-2/",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "BOSS",
@@ -15142,8 +15142,8 @@
       "research_record": "./research/pedals/PRP Batch 111/ML-2 Metal Core.md",
       "image_source_page": "https://www.boss.info/us/products/ml-2/",
       "image_source_url": "https://static.roland.com/assets/images/products/main/ml_2_top_main.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "BOSS",
@@ -15156,8 +15156,8 @@
       "research_record": "./research/pedals/PRP Batch 111/MT-2 Metal Zone.md",
       "image_source_page": "https://www.boss.info/global/products/mt-2/",
       "image_source_url": "https://static.roland.com/assets/images/products/gallery/mt-2_top_gal.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "BOSS",
@@ -15182,8 +15182,8 @@
       "research_record": "./research/pedals/PRP Batch 111/MT-2W Metal Zone.md",
       "image_source_page": "https://www.boss.info/us/products/mt-2w/",
       "image_source_url": "https://static.roland.com/products/mt-2w/image/mt-2w_hero.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "BOSS",
@@ -15220,8 +15220,8 @@
       "research_record": "./research/pedals/PRP Batch 111/OD-1X OverDrive.md",
       "image_source_page": "https://www.boss.info/us/products/od-1x/",
       "image_source_url": "https://static.roland.com/products/od-1x/image/od-1x_gal_01.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "BOSS",
@@ -15246,8 +15246,8 @@
       "research_record": "./research/pedals/PRP Batch 111/OD-200 Hybrid Drive.md",
       "image_source_page": "https://www.boss.info/us/products/od-200/",
       "image_source_url": "https://static.roland.com/assets/images/products/main/od-200_main.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "BOSS",
@@ -15272,8 +15272,8 @@
       "research_record": "./research/pedals/PRP Batch 111/OD-3 OverDrive.md",
       "image_source_page": "https://www.boss.info/global/products/od-3/",
       "image_source_url": "https://www.boss.info/RolandComSite/media/assets/images/products/main/od_3_main.jpg?ext=.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "BOSS",
@@ -15284,8 +15284,8 @@
       "image": "",
       "source_page": "https://www.boss.info/us/products/odb-3/",
       "research_record": "./research/pedals/BOSS/ODB-3 Bass OverDrive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "BOSS",
@@ -15298,8 +15298,8 @@
       "research_record": "./research/pedals/PRP Batch 111/OS-2 OverDrive/Distortion.md",
       "image_source_page": "https://www.boss.info/us/products/os-2/",
       "image_source_url": "https://static.roland.com/products/os-2/image/os-2_01_gal.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "BOSS",
@@ -15324,8 +15324,8 @@
       "research_record": "./research/pedals/PRP Batch 111/SD-1 SUPER OverDrive.md",
       "image_source_page": "https://www.boss.info/ca/products/sd-1/",
       "image_source_url": "https://static.roland.com/products/sd-1-4a/images/sd-1_hero.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "BOSS",
@@ -15350,8 +15350,8 @@
       "research_record": "./research/pedals/PRP Batch 111/SD-1W SUPER OverDrive.md",
       "image_source_page": "https://www.boss.info/us/products/sd-1w/",
       "image_source_url": "https://static.roland.com/products/sd-1w/images/sd-1w_hero.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "BOSS",
@@ -15376,8 +15376,8 @@
       "research_record": "./research/pedals/PRP Batch 111/ST-2 Power Stack.md",
       "image_source_page": "https://www.boss.info/us/products/st-2/",
       "image_source_url": "https://static.roland.com/products/st-2/images/st-2_hero.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "BOSS",
@@ -15480,8 +15480,8 @@
         "https://www.effectsdatabase.com/model/bouteek/distorter"
       ],
       "image_source_pages_verified": true,
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Bouteek",
@@ -15535,8 +15535,8 @@
       "research_record": "./research/pedals/PRP Batch 114/bellyacher.md",
       "image_source_page": "https://bowmanaudioendeavors.com/products/bellyacher",
       "image_source_url": "https://bowmanaudioendeavors.com/cdn/shop/files/938359E4-7957-406F-BE4A-7B6974A8C2C4_540x.jpg?v=1724843508",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Bowman Audio Endeavors",
@@ -15549,8 +15549,8 @@
       "research_record": "./research/pedals/PRP Batch 114/odious-fuzz-octave.md",
       "image_source_page": "https://bowmanaudioendeavors.com/products/odious-fuzz-octave",
       "image_source_url": "https://bowmanaudioendeavors.com/cdn/shop/files/AA13CFFE-FB38-4E70-9510-78DCF934C82B_540x.jpg?v=1717766925",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Bowman Audio Endeavors",
@@ -15563,8 +15563,8 @@
       "research_record": "./research/pedals/PRP Batch 114/satan-s-fingers-fuzz.md",
       "image_source_page": "https://www.pedal-of-the-day.com/2022/05/13/bowman-audio-endeavors-satans-fingers-fuzz/",
       "image_source_url": "https://www.pedal-of-the-day.com/wp-content/uploads/2022/05/Bowman-Audio-Endeavors-Satans-Fingers-Fuzz.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Bowman Audio Endeavors",
@@ -15577,8 +15577,8 @@
       "research_record": "./research/pedals/PRP Batch 114/the-bowman-overdrive.md",
       "image_source_page": "https://bowmanaudioendeavors.com/products/the-bowman",
       "image_source_url": "https://bowmanaudioendeavors.com/cdn/shop/products/Bowman_Silver_Face_540x.jpg?v=1774402977",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "BoX",
@@ -15745,8 +15745,8 @@
       "research_record": "./research/pedals/PRP Batch 115/brantone-electronics-vintage-tweed-overdrive.md",
       "image_source_url": "http://hometoneblog.com/wp-content/uploads/2021/03/Vintage-Tweed-1024x819.jpeg",
       "image_source_page": "http://hometoneblog.com/2021/03/30/first-impressions-brantone-electronics-vintage-tweed-overdrive-pedal/",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Brantone Electronics",
@@ -15795,8 +15795,8 @@
       "image_source_page": "https://breakfastaudio.com/products/slab-distortion",
       "image_source_page_verified": true,
       "image_source_url": "http://breakfastaudio.com/cdn/shop/files/DSCF2827fina_5d40302e-68d3-485d-ad39-727934695c23.jpg?v=1745572598",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Breakfast Audio",
@@ -15810,8 +15810,8 @@
       "image_source_page": "https://breakfastaudio.com/products/weltschmerz-fuzz",
       "image_source_page_verified": true,
       "image_source_url": "http://breakfastaudio.com/cdn/shop/files/weltsz_9f23f3c9-a839-4050-96ba-b07d0bf845ec.jpg?v=1779301315",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "BreakFuzz",
@@ -16023,8 +16023,8 @@
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
       "image_source_priority": 348,
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Brotech Electronics",
@@ -16057,8 +16057,8 @@
       "research_record": "./research/pedals/PRP Batch 118/broughton-audio-ascalon.md",
       "image_source_page": "https://www.broughtonaudio.com/product-page/ascalon",
       "image_source_url": "https://static.wixstatic.com/media/4b9583_bc7806d94731401e893d640939e84d22~mv2.jpg/v1/fill/w_2433,h_2538,al_c,q_90,enc_avif,quality_auto/4b9583_bc7806d94731401e893d640939e84d22~mv2.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Broughton Audio",
@@ -16114,8 +16114,8 @@
       "research_record": "./research/pedals/PRP Batch 118/broughton-audio-evergreen-overdrive.md",
       "image_source_page": "https://www.broughtonaudio.com/archive",
       "image_source_url": "https://static.wixstatic.com/media/4b9583_c7cb05d63ac34260a9b010109e15d8f0~mv2.png/v1/fill/w_286,h_286,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/4b9583_c7cb05d63ac34260a9b010109e15d8f0~mv2.png",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Broughton Audio",
@@ -16128,8 +16128,8 @@
       "research_record": "./research/pedals/PRP Batch 118/broughton-audio-firebrand-fuzz.md",
       "image_source_page": "https://www.broughtonaudio.com/archive",
       "image_source_url": "https://static.wixstatic.com/media/4b9583_c7cb05d63ac34260a9b010109e15d8f0~mv2.png/v1/fill/w_286,h_286,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/4b9583_c7cb05d63ac34260a9b010109e15d8f0~mv2.png",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Broughton Audio",
@@ -16171,8 +16171,8 @@
       "research_record": "./research/pedals/PRP Batch 119/broughton-audio-locust-star.md",
       "image_source_page": "https://www.broughtonaudio.com/archive",
       "image_source_url": "https://static.wixstatic.com/media/4b9583_c7cb05d63ac34260a9b010109e15d8f0~mv2.png/v1/fill/w_286,h_286,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/4b9583_c7cb05d63ac34260a9b010109e15d8f0~mv2.png",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Broughton Audio",
@@ -16213,8 +16213,8 @@
       "research_record": "./research/pedals/PRP Batch 119/broughton-audio-scorpion.md",
       "image_source_page": "https://www.broughtonaudio.com/archive",
       "image_source_url": "https://static.wixstatic.com/media/4b9583_c7cb05d63ac34260a9b010109e15d8f0~mv2.png/v1/fill/w_286,h_286,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/4b9583_c7cb05d63ac34260a9b010109e15d8f0~mv2.png",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Broughton Audio",
@@ -16354,8 +16354,8 @@
       "research_record": "./research/pedals/PRP Batch 120/browne-amplification-carbon-x-dual-overdrive.md",
       "image_source_page": "https://browneamps.com/store/p/carbon-x-dual-overdrive",
       "image_source_url": "http://static1.squarespace.com/static/5ba25ce95cfd7946edf8fdfa/5ba42adef4e1fccc5132e57d/65b17f3904b3cb21df70a515/1788560643781/CARBONX_Black_2.png?format=1500w",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Browne Amplification",
@@ -16368,8 +16368,8 @@
       "research_record": "./research/pedals/PRP Batch 121/browne-amplification-ethane-dual-overdrive.md",
       "image_source_page": "https://browneamps.com/store/p/ethane-dual-overdive",
       "image_source_url": "http://static1.squarespace.com/static/5ba25ce95cfd7946edf8fdfa/5ba42adef4e1fccc5132e57d/68484bbab91f060aa520dd81/1788561588485/Ethane3.png?format=1500w",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Browne Amplification",
@@ -16396,8 +16396,8 @@
       "research_record": "./research/pedals/PRP Batch 121/browne-amplification-protein-dual-overdrive.md",
       "image_source_page": "https://browneamps.com/store/p/protein-dual-overdrive",
       "image_source_url": "http://static1.squarespace.com/static/5ba25ce95cfd7946edf8fdfa/5ba42adef4e1fccc5132e57d/5ba2a6ccb8a045667502bcd2/1787684883225/PV21800.png?format=1500w",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Browne Amplification",
@@ -16410,8 +16410,8 @@
       "research_record": "./research/pedals/PRP Batch 122/browne-amplification-protein-dual-overdrive-v2-2.md",
       "image_source_page": "https://browneamps.com/store/p/protein-dual-overdrive",
       "image_source_url": "http://static1.squarespace.com/static/5ba25ce95cfd7946edf8fdfa/5ba42adef4e1fccc5132e57d/5ba2a6ccb8a045667502bcd2/1787684883225/PV21800.png?format=1500w",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Browne Amplification",
@@ -16424,8 +16424,8 @@
       "research_record": "./research/pedals/PRP Batch 122/browne-amplification-protein-dual-overdrive-v3.md",
       "image_source_page": "https://browneamps.com/store/p/protein-dual-overdrive-v3",
       "image_source_url": "http://static1.squarespace.com/static/5ba25ce95cfd7946edf8fdfa/5ba42adef4e1fccc5132e57d/637e906b4fb1dc65734fc1fb/1787821485445/green1800.png?format=1500w",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Browne Amplification",
@@ -16438,8 +16438,8 @@
       "research_record": "./research/pedals/PRP Batch 122/browne-amplification-protein-dual-overdrive-v4.md",
       "image_source_page": "https://browneamps.com/store/p/protein-dual-overdrive-v4",
       "image_source_url": "http://static1.squarespace.com/static/5ba25ce95cfd7946edf8fdfa/5ba42adef4e1fccc5132e57d/67e6f6c318529b2cf93b3961/1789595519760/Protein_Green_Front.png?format=1500w",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Browne Amplification",
@@ -16452,8 +16452,8 @@
       "research_record": "./research/pedals/PRP Batch 122/browne-amplification-t4-fuzz.md",
       "image_source_page": "https://browneamps.com/store/p/m1-fuzz",
       "image_source_url": "http://static1.squarespace.com/static/5ba25ce95cfd7946edf8fdfa/5ba42adef4e1fccc5132e57d/5de9bd8396bd8d4d44e57b78/1787688138561/T4_Fix.png?format=1500w",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Browne Amplification",
@@ -16466,8 +16466,8 @@
       "research_record": "./research/pedals/PRP Batch 123/browne-amplification-the-alkene-nashville-overdrive.md",
       "image_source_page": "https://browneamps.com/the-alkene",
       "image_source_url": "http://static1.squarespace.com/static/5ba25ce95cfd7946edf8fdfa/t/618c60ae54deea04adee556d/1636589742279/browneHEADSTOCK-square.jpg?format=1500w",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Browne Amplification",
@@ -16480,8 +16480,8 @@
       "research_record": "./research/pedals/PRP Batch 123/browne-amplification-the-carbon.md",
       "image_source_page": "https://browneamps.com/store/p/the-carbon",
       "image_source_url": "http://static1.squarespace.com/static/5ba25ce95cfd7946edf8fdfa/5ba42adef4e1fccc5132e57d/619828c9616f144141b0a268/1787791366925/CarbonV2_Blue.png?format=1500w",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Browne Amplification",
@@ -16508,8 +16508,8 @@
       "research_record": "./research/pedals/PRP Batch 123/browne-amplification-the-gritador.md",
       "image_source_page": "https://browneamps.com/store/p/the-gritador",
       "image_source_url": "http://static1.squarespace.com/static/5ba25ce95cfd7946edf8fdfa/5ba42adef4e1fccc5132e57d/647ce6b4cd6f6913e4697b85/1787840095454/Gritador_Green_Front.png?format=1500w",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Browne Amplification",
@@ -16720,8 +16720,8 @@
       "research_record": "./research/pedals/PRP Batch 125/bruno-bod-1.md",
       "image_source_page": "https://www.brunoguitars.com/",
       "image_source_url": "https://static.wixstatic.com/media/da0c31_043ec3b56a204f26a41d6443968c60f7%7Emv2_d_6000_4000_s_4_2.jpg/v1/fit/w_2500,h_1330,al_c/da0c31_043ec3b56a204f26a41d6443968c60f7%7Emv2_d_6000_4000_s_4_2.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "BSM",
@@ -16754,8 +16754,8 @@
       "research_record": "./research/pedals/PRP Batch 116/bsm-fuzzbender-fuzz-machine.md",
       "image_source_page": "https://www.treblebooster.net/products/custom-made/fuzzbender-fuzz-machine.html",
       "image_source_url": "https://www.treblebooster.net/thumbs/products/fuzzbender-fuzz-machine/fuzzbender_fuzz-machine_2018_rgb-500x699.png",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "BSM",
@@ -16768,8 +16768,8 @@
       "research_record": "./research/pedals/PRP Batch 117/bsm-j-fuzz.md",
       "image_source_page": "https://www.treblebooster.net/products/custom-made/j-fuzz-fuzz-machine.html",
       "image_source_url": "https://www.treblebooster.net/thumbs/products/j-fuzz-fuzz-machine/j-fuzz_fuzz-booster_2018_rgb-500x699.png",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "BSM",
@@ -16803,8 +16803,8 @@
       "research_record": "./research/pedals/PRP Batch 117/bsm-spectrum-fuzz-booster.md",
       "image_source_page": "https://www.treblebooster.net/products/special-units/spectrum-fuzz-booster.html",
       "image_source_url": "https://www.treblebooster.net/thumbs/products/spectrum-fuzz-booster/spectrum_fuzz_booster_2018_rgb-500x699.png",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "BSQ Effects",
@@ -16817,8 +16817,8 @@
       "research_record": "./research/pedals/PRP Batch 118/bsq-effects-bo-2-bulls-on-overdrive-compressor.md",
       "image_source_page": "https://www.bsqeffects.com/pedales",
       "image_source_url": "https://cdn.prod.website-files.com/57e45fc3d0ac813956dc9506/58bf00cb41bb42b54a53067a_sb1-scuttle-buttin-quick-guide.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "BSQ Effects",
@@ -16831,8 +16831,8 @@
       "research_record": "./research/pedals/PRP Batch 118/bsq-effects-dm-2-dynamite-overdrive-compressor.md",
       "image_source_page": "https://www.bsqeffects.com/pedales",
       "image_source_url": "https://cdn.prod.website-files.com/57e45fc3d0ac813956dc9506/58bf00cb41bb42b54a53067a_sb1-scuttle-buttin-quick-guide.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "BSQ Effects",
@@ -16845,8 +16845,8 @@
       "research_record": "./research/pedals/PRP Batch 118/bsq-effects-ms-2-mean-street-distortion-booster.md",
       "image_source_page": "https://www.bsqeffects.com/pedales",
       "image_source_url": "https://cdn.prod.website-files.com/57e45fc3d0ac813956dc9506/58dbc357a06f57d60676130f_open-graph-home.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "BSQ Effects",
@@ -16859,8 +16859,8 @@
       "research_record": "./research/pedals/PRP Batch 118/bsq-effects-sb-1-scuttle-buttin-overdrive.md",
       "image_source_page": "https://www.bsqeffects.com/pedales",
       "image_source_url": "https://cdn.prod.website-files.com/57e45fc3d0ac813956dc9506/58dbc357a06f57d60676130f_open-graph-home.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Budda",
@@ -16872,8 +16872,8 @@
       "source_page": "https://www.budda.com/news/article.cfm/action/view/id/867/cat/1/article.cfm",
       "research_record": "./research/pedals/PRP Batch 127/budda-om-overdrive.md",
       "image_source_page": "https://www.budda.com/news/article.cfm/action/view/id/867/cat/1/article.cfm",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Budda",
@@ -16887,8 +16887,8 @@
       "research_record": "./research/pedals/PRP Batch 127/budda-phatbass.md",
       "image_source_page": "https://yuuto-kannami.com/otoasobi/budda-phatbass",
       "image_source_url": "https://img.yuuto-kannami.com/2015/08/BUDDA-PHATBASS.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Budda",
@@ -16964,8 +16964,8 @@
         "https://www.effectsdatabase.com/model/buffalofx/cviii"
       ],
       "image_source_pages_verified": true,
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Buffalo FX",
@@ -16985,8 +16985,8 @@
         "https://www.effectsdatabase.com/model/buffalofx/evolution"
       ],
       "image_source_pages_verified": true,
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Buffalo FX",
@@ -17009,8 +17009,8 @@
       "image_source_urls": [
         "https://files.effectsdatabase.com/gear/thumbs/buffalofx_fuzzface-ge_001.jpg"
       ],
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Buffalo FX",
@@ -17029,8 +17029,8 @@
         "https://www.effectsdatabase.com/model/buffalofx/fuzzface/si"
       ],
       "image_source_pages_verified": true,
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Buffalo FX",
@@ -17083,8 +17083,8 @@
         "https://www.effectsdatabase.com/model/buffalofx/patriot"
       ],
       "image_source_pages_verified": true,
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Buffalo FX",
@@ -17173,8 +17173,8 @@
         "https://www.effectsdatabase.com/model/buggfx/raincoat"
       ],
       "image_source_pages_verified": true,
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Build Your Own Clone",
@@ -17193,8 +17193,8 @@
         "https://www.effectsdatabase.com/model/byoc/250"
       ],
       "image_source_pages_verified": true,
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Build Your Own Clone",
@@ -17397,8 +17397,8 @@
         "https://www.effectsdatabase.com/model/byoc/fuzz"
       ],
       "image_source_pages_verified": true,
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Build Your Own Clone",
@@ -17411,8 +17411,8 @@
       "research_record": "./research/pedals/PRP Batch 130/green-pony.md",
       "image_source_url": "https://evolutionmusicstore.com/cdn/shop/products/k0vey9pcw2y1zx2incei_15f289d6-1e1e-4cec-ab32-c2be96bdfefd_600x.jpg?v=1592671036",
       "image_source_page": "https://evolutionmusicstore.com/products/byoc-build-your-own-clone-green-pony-overdrive-pedal-maxon-od-820",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Build Your Own Clone",
@@ -17439,8 +17439,8 @@
       "research_record": "./research/pedals/PRP Batch 130/li-l-beaver-nyc.md",
       "image_source_url": "https://stompboxschematics.com/wp-content/uploads/2023/09/nycpainted_large.jpg",
       "image_source_page": "https://stompboxschematics.com/circuits/lil-beaver-nyc-kit-by-build-your-own-clone-byoc/",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Build Your Own Clone",
@@ -17453,8 +17453,8 @@
       "research_record": "./research/pedals/PRP Batch 130/li-l-beaver-opamp.md",
       "image_source_url": "https://stompboxschematics.com/wp-content/uploads/2023/09/opamppainted_large.jpg",
       "image_source_page": "https://stompboxschematics.com/circuits/lil-beaver-opamp-kit-by-build-your-own-clone-byoc/",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Build Your Own Clone",
@@ -17467,8 +17467,8 @@
       "research_record": "./research/pedals/PRP Batch 130/li-l-beaver-ram-s-head.md",
       "image_source_url": "https://stompboxschematics.com/wp-content/uploads/2023/09/ramsheadpainted_dc9f91b0-3b8a-4bb3-b791-246cb08bb2b8_large.jpg",
       "image_source_page": "https://stompboxschematics.com/circuits/lil-beaver-rams-head-by-build-your-own-clone-byoc/",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Build Your Own Clone",
@@ -17481,8 +17481,8 @@
       "research_record": "./research/pedals/PRP Batch 130/li-l-beaver-russian.md",
       "image_source_url": "https://stompboxschematics.com/wp-content/uploads/2023/09/russianpainted_79dc1c8c-4680-49ab-b4f7-fc28be971892_large.jpg",
       "image_source_page": "https://stompboxschematics.com/circuits/lil-beaver-russian-kit-by-build-your-own-clone-byoc/",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Build Your Own Clone",
@@ -17496,8 +17496,8 @@
       "image_source_page": "https://stompboxschematics.com/circuits/lil-beaver-triangle-kit-by-build-your-own-clone-byoc/",
       "image_source_page_verified": true,
       "image_source_url": "https://stompboxschematics.com/wp-content/uploads/2023/09/trianglepainted_large.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Build Your Own Clone",
@@ -17510,8 +17510,8 @@
       "research_record": "./research/pedals/PRP Batch 130/li-l-breaker.md",
       "image_source_url": "https://stompboxschematics.com/wp-content/uploads/2023/09/breakerpa_large.jpg",
       "image_source_page": "https://stompboxschematics.com/circuits/lil-breaker-kit-by-build-your-own-clone-byoc/",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Build Your Own Clone",
@@ -17529,8 +17529,8 @@
         "https://www.effectsdatabase.com/model/byoc/lil/fuzz"
       ],
       "image_source_pages_verified": true,
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Build Your Own Clone",
@@ -17543,8 +17543,8 @@
       "research_record": "./research/pedals/PRP Batch 130/li-l-gray-od.md",
       "image_source_url": "https://stompboxschematics.com/wp-content/uploads/2023/09/lilgarypainted_large-134x300.jpg",
       "image_source_page": "https://stompboxschematics.com/circuits/lil-gray-od-kit-by-build-your-own-clone-byoc/",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Build Your Own Clone",
@@ -17571,8 +17571,8 @@
       "research_record": "./research/pedals/PRP Batch 131/li-l-mouse.md",
       "image_source_url": "https://stompboxschematics.com/wp-content/uploads/2023/09/lilmouse_14ecdaed-2787-4d15-a6f7-efce0a991bad_large.jpg",
       "image_source_page": "https://stompboxschematics.com/circuits/lil-mouse-kit-by-build-your-own-clone-byoc/",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Build Your Own Clone",
@@ -17774,8 +17774,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_url": "https://i0.wp.com/bulinskipedals.com/wp-content/uploads/2023/01/SMT-Velociraptor-Bass-Fuzz-1.jpg?fit=768%2C768&ssl=1",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Bulinski Effect Pedals",
@@ -17788,8 +17788,8 @@
       "research_record": "./research/pedals/PRP Batch 132/filth-foundry-guitar-fuzz.md",
       "image_source_url": "https://i0.wp.com/bulinskipedals.com/wp-content/uploads/2024/08/Filth-Foundry-Fuzz.jpg?resize=600%2C600&ssl=1",
       "image_source_page": "https://bulinskipedals.com/shop/filth-foundry-guitar-fuzz/",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Bulinski Effect Pedals",
@@ -17802,8 +17802,8 @@
       "research_record": "./research/pedals/PRP Batch 132/gnarly-bee.md",
       "image_source_url": "https://i0.wp.com/bulinskipedals.com/wp-content/uploads/2022/05/Bulinski-Gnarly-Bee-1.jpg?fit=1200%2C1200&ssl=1",
       "image_source_page": "https://bulinskipedals.com/shop/gnarly-bee-fuzzrite-clone/",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Bulinski Effect Pedals",
@@ -17816,8 +17816,8 @@
       "research_record": "./research/pedals/PRP Batch 132/hard-80-distortion.md",
       "image_source_url": "https://i0.wp.com/bulinskipedals.com/wp-content/uploads/2023/03/Bulinski-Hard-80-Distortion-1.jpg?fit=1200%2C1200&ssl=1",
       "image_source_page": "https://bulinskipedals.com/shop/hard-80-distortion/",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Bulinski Effect Pedals",
@@ -17850,8 +17850,8 @@
       "research_record": "./research/pedals/PRP Batch 133/velociraptor-diode-bass-fuzz.md",
       "image_source_page": "https://bulinskipedals.com/shop/velociraptor-diode-bass-fuzz/",
       "image_source_url": "https://i0.wp.com/bulinskipedals.com/wp-content/uploads/2022/02/Velociraptor-Product-Photo-1.jpg?w=768&ssl=1",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Buzzing Bugs Audio Devices",
@@ -17864,8 +17864,8 @@
       "research_record": "./research/pedals/PRP Batch 133/bb01-fuzz-pre-amp.md",
       "image_source_page": "https://buzzingbugsfx.com/store/p/bb01-fuzz-pre-amp",
       "image_source_url": "https://images.squarespace-cdn.com/content/v1/63e3726f5e54d90afdff92f6/1709633288661-AS2T277UDD65P6LHC9PJ/BB01%2BNEW%2BTEXTURE%2BRECC.png",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Buzzing Bugs Audio Devices",
@@ -17878,8 +17878,8 @@
       "research_record": "./research/pedals/PRP Batch 133/bb02-percolator-fuzz.md",
       "image_source_page": "https://buzzingbugsfx.com/store/p/bb02-percolator-fuzz",
       "image_source_url": "https://images.squarespace-cdn.com/content/v1/63e3726f5e54d90afdff92f6/1709633213972-CPV0XX5D3ZI4OTYFHJL5/BB02%2BNEW%2BTEXTURE.png",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Buzzing Bugs Audio Devices",
@@ -17892,8 +17892,8 @@
       "research_record": "./research/pedals/PRP Batch 133/bb04-full-range-drive.md",
       "image_source_page": "https://buzzingbugsfx.com/store/p/bb04-full-range-drive",
       "image_source_url": "https://images.squarespace-cdn.com/content/v1/63e3726f5e54d90afdff92f6/1709635190992-O2LZT7VONCE1HMFXBD2V/3.png",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Buzzing Bugs Audio Devices",
@@ -17906,8 +17906,8 @@
       "research_record": "./research/pedals/PRP Batch 133/bolster.md",
       "image_source_page": "https://buzzingbugsfx.com/store/p/bolster",
       "image_source_url": "https://images.squarespace-cdn.com/content/v1/63e3726f5e54d90afdff92f6/3205e914-8751-4ed5-815f-bfe68d701696/IMG_5316.JPG",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Buzzing Bugs Audio Devices",
@@ -17934,8 +17934,8 @@
       "research_record": "./research/pedals/PRP Batch 133/blood-drive-overdrive.md",
       "image_source_page": "https://byronamplification.com/pedals",
       "image_source_url": "https://images.squarespace-cdn.com/content/v1/567322ce0e4c11f307b26a3e/1586150032558-XQGWOHMOTKSXILD8E0BH/2020-04-05%2B20.19.05.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Byron Amplification",
@@ -17948,8 +17948,8 @@
       "research_record": "./research/pedals/PRP Batch 133/cabeza-borradora-octave-fuzz.md",
       "image_source_page": "https://byronamplification.com/pedals",
       "image_source_url": "https://images.squarespace-cdn.com/content/v1/567322ce0e4c11f307b26a3e/1574996228836-2P51QZB3X59H7OSSYIR5/2018-05-24%2B16.10.23.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Byron Amplification",
@@ -17962,8 +17962,8 @@
       "research_record": "./research/pedals/PRP Batch 133/cowboy-overdrive.md",
       "image_source_page": "https://byronamplification.com/pedals",
       "image_source_url": "https://images.squarespace-cdn.com/content/v1/567322ce0e4c11f307b26a3e/1585881383291-FKYRPQHSI0C9A1HWWZE8/2020-04-02%2B18.34.59-1.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Byron Amplification",
@@ -17976,8 +17976,8 @@
       "research_record": "./research/pedals/PRP Batch 133/dark-arts-drive-overdrive.md",
       "image_source_page": "https://byronamplification.com/pedals",
       "image_source_url": "https://images.squarespace-cdn.com/content/v1/567322ce0e4c11f307b26a3e/1585880827395-CRB5CJ86BDO0PNMD7OWN/2020-03-26%2B20.10.11.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Byron Amplification",
@@ -17990,8 +17990,8 @@
       "research_record": "./research/pedals/PRP Batch 134/green-concussion-fuzz.md",
       "image_source_page": "https://byronamplification.com/pedals",
       "image_source_url": "https://images.squarespace-cdn.com/content/v1/567322ce0e4c11f307b26a3e/1578891091385-UI03KPHJGN60JKVB31N0/MainLogo2.gif?format=1500w",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Byron Amplification",
@@ -18004,8 +18004,8 @@
       "source_page": "https://byronamplification.com/pedals",
       "research_record": "./research/pedals/PRP Batch 134/her-majesty-drive-fuzz.md",
       "image_source_page": "https://byronamplification.com/pedals",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Byron Amplification",
@@ -18018,8 +18018,8 @@
       "research_record": "./research/pedals/PRP Batch 134/jabberwocky-distortion.md",
       "image_source_page": "https://byronamplification.com/pedals",
       "image_source_url": "https://images.squarespace-cdn.com/content/v1/567322ce0e4c11f307b26a3e/1578891091385-UI03KPHJGN60JKVB31N0/MainLogo2.gif?format=1500w",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Byron Amplification",
@@ -18032,8 +18032,8 @@
       "research_record": "./research/pedals/PRP Batch 134/lil-shaman-overdrive.md",
       "image_source_page": "https://byronamplification.com/pedals/lilshaman",
       "image_source_url": "http://static1.squarespace.com/static/567322ce0e4c11f307b26a3e/5674690a0e4c117c4c56a16a/5da7f25074c9a274b52cd825/1613626941535/2019-03-06%2B21.46.43.jpg?format=1500w",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Byron Amplification",
@@ -18046,8 +18046,8 @@
       "research_record": "./research/pedals/PRP Batch 134/pai-mei-fuzz.md",
       "image_source_page": "https://byronamplification.com/pedals",
       "image_source_url": "https://images.squarespace-cdn.com/content/v1/567322ce0e4c11f307b26a3e/1578891091385-UI03KPHJGN60JKVB31N0/MainLogo2.gif?format=1500w",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Byron Amplification",
@@ -18060,8 +18060,8 @@
       "research_record": "./research/pedals/PRP Batch 134/phattie-overdrive.md",
       "image_source_page": "https://byronamplification.com/pedals",
       "image_source_url": "https://images.squarespace-cdn.com/content/v1/567322ce0e4c11f307b26a3e/1578891091385-UI03KPHJGN60JKVB31N0/MainLogo2.gif?format=1500w",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Byron Amplification",
@@ -20936,8 +20936,8 @@
       "image_source_urls": [
         "https://i.ebayimg.com/images/g/46MAAeSwo59pg-vO/s-l500.jpg"
       ],
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Cat's Eye ESP",

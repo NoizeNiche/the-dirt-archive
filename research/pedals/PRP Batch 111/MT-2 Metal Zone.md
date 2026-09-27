@@ -47,3 +47,18 @@ The MT-2 produces thick, saturated high-gain distortion with a tight, aggressive
 - **Archive status:** **Exact model photo archived**
 - **Image source:** https://www.boss.info/global/products/mt-2/
 - **Image source URL:** https://static.roland.com/assets/images/products/gallery/mt-2_top_gal.jpg
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+BOSS's MT-2 Metal Zone is cataloged as a distortion pedal.
+
+### Verified sound evidence
+Downloads Support Million-Selling High-Gain Monster Introduced way back in 1991, the iconic MT-2 Metal Zone remains the king of high-gain distortion stomps for guitarists around the world, with over one million sold and counting.
+With incredibly wide tone-shaping range and ultra-smooth sustain, the multifaceted MT-2 brings an array of rich distortion voices to any musical setting.
+Innovative Dual-Stage Gain Circuit Under the hood, the MT-2 employs an innovative analog circuit design to realize its rich, heavy voice.
+
+### Sources checked in this pass
+1. BOSS - MT-2 | Metal Zone: https://www.boss.info/global/products/mt-2/

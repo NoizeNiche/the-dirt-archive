@@ -1,17 +1,17 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-27T09:57:10.342066+00:00",
+  "generated_at": "2026-09-27T10:00:33.678690+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
   "counts": {
     "total": 4242,
     "researched": 3750,
-    "pictured": 3123,
-    "complete": 3123,
+    "pictured": 3133,
+    "complete": 3133,
     "research_pending": 0,
-    "deep_research_pending": 1833,
-    "deep_researched": 2409,
+    "deep_research_pending": 1725,
+    "deep_researched": 2517,
     "surface_ready": 4242
   },
   "next_target": {
@@ -65,136 +65,136 @@
       "research_level": "surface"
     },
     {
-      "builder": "Black CAT Amps",
-      "pedal": "DJENTTONIC",
+      "builder": "Blackhawk Amplifiers",
+      "pedal": "Ramshead Fuzz",
       "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 096/DJENTTONIC.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Black CAT Amps",
-      "pedal": "METAL CORE",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Black CAT Amps/METAL CORE.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Black Cat Pedals",
-      "pedal": "Bee Buzz Fuzz",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 096/Bee Buzz Fuzz.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Black Cat Pedals",
-      "pedal": "D-II Distortion",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 096/D-II Distortion.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Black Cat Pedals",
-      "pedal": "D&S",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 096/D&S.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Black Cat Pedals",
-      "pedal": "Monster K-Fuzz Stompbox",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 096/Monster K-Fuzz Stompbox.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Black Cat Pedals",
-      "pedal": "OD-1 Freddy Fuzz",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 097/OD-1 Freddy Fuzz.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Black Cat Pedals",
-      "pedal": "RGDP - Really Great Dirt Pedal",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 097/RGDP - Really Great Dirt Pedal.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Blackbox Music Electronics",
-      "pedal": "Cobalt",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Blackbox Music Electronics/Cobalt.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Blackbox Music Electronics",
-      "pedal": "Ultraviolet",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Blackbox Music Electronics/Ultraviolet.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Blackbox Music Electronics",
-      "pedal": "Ultraviolet 2",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Blackbox Music Electronics/Ultraviolet 2.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Blackbox Music Electronics",
-      "pedal": "X-Ray",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Blackbox Music Electronics/X-Ray.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Blackbox Music Electronics",
-      "pedal": "X-Ray Bass!",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Blackbox Music Electronics/X-Ray Bass!.md",
+      "research_record": "./research/pedals/PRP Batch 101/Ramshead Fuzz.md",
       "research_level": "surface"
     },
     {
       "builder": "Blackhawk Amplifiers",
-      "pedal": "Asgard Bass Fuzz",
+      "pedal": "Triangle Fuzz",
       "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 099/Asgard Bass Fuzz.md",
+      "research_record": "./research/pedals/PRP Batch 101/Triangle Fuzz.md",
       "research_level": "surface"
     },
     {
-      "builder": "Blackhawk Amplifiers",
-      "pedal": "Basilisk Fuzz",
+      "builder": "BlackOutEffectors",
+      "pedal": "A Seriously Special Twosome",
       "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 100/Basilisk Fuzz.md",
+      "research_record": "./research/pedals/PRP Batch 101/A Seriously Special Twosome.md",
       "research_level": "surface"
     },
     {
-      "builder": "Blackhawk Amplifiers",
-      "pedal": "Gandalf Fuzz",
+      "builder": "BlackOutEffectors",
+      "pedal": "A Very Special Twosome",
       "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 100/Gandalf Fuzz.md",
+      "research_record": "./research/pedals/PRP Batch 102/A Very Special Twosome.md",
       "research_level": "surface"
     },
     {
-      "builder": "Blackhawk Amplifiers",
-      "pedal": "Green / Black Russian Pi π Fuzz",
+      "builder": "BlackOutEffectors",
+      "pedal": "Blunderbuss Fuzz",
       "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 100/Green Black Russian Pi Fuzz.md",
+      "research_record": "./research/pedals/PRP Batch 102/Blunderbuss Fuzz.md",
       "research_level": "surface"
     },
     {
-      "builder": "Blackhawk Amplifiers",
-      "pedal": "Heimdall-3 MKII Distortion",
+      "builder": "BlackOutEffectors",
+      "pedal": "Blunderbuss Musket",
       "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 100/Heimdall-3 MKII Distortion.md",
+      "research_record": "./research/pedals/PRP Batch 102/Blunderbuss Musket.md",
       "research_level": "surface"
     },
     {
-      "builder": "Blackhawk Amplifiers",
-      "pedal": "Morgul Drive MKII",
+      "builder": "BlackOutEffectors",
+      "pedal": "Dual Gain Mantra",
       "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 100/Morgul Drive MKII.md",
+      "research_record": "./research/pedals/PRP Batch 102/Dual Gain Mantra.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "BlackOutEffectors",
+      "pedal": "Fix'd Fuzz",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 102/Fix'd Fuzz.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "BlackOutEffectors",
+      "pedal": "Fix'd Fuzz Deluxe",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 102/Fix'd Fuzz Deluxe.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "BlackOutEffectors",
+      "pedal": "Fuzz Bear",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 102/Fuzz Bear.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "BlackOutEffectors",
+      "pedal": "Special Twosome Deluxe",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 103/Special Twosome Deluxe.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "BlackOutEffectors",
+      "pedal": "Twosome Dual Fuzz",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 103/Twosome Dual Fuzz.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Bob Burt Cabinets & Pedals",
+      "pedal": "Bob Burt AH-1 Allen Hinds Signature Distortion",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 106/Bob Burt AH-1 Allen Hinds Signature Distortion.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Bob Burt Cabinets & Pedals",
+      "pedal": "Bob Burt GR8T Distortion",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 106/Bob Burt GR8T Distortion.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Bob Burt Cabinets & Pedals",
+      "pedal": "Bob Burt Overdrive",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 106/Bob Burt Overdrive.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Bondi Effects",
+      "pedal": "Del Mar Overdrive mk1",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 107/Del Mar Overdrive mk1.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Bondi Effects",
+      "pedal": "Sick As High Shredroom Editions",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 107/Sick As High Shredroom Editions.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Boot-Leg Hand Made Effects",
+      "pedal": "BLN-1.0 Blues#Nine",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 108/BLN-1.0 Blues Nine.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Boot-Leg Hand Made Effects",
+      "pedal": "HZM-1.2 Hizumi",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 109/HZM-1.2 Hizumi.md",
       "research_level": "surface"
     }
   ]

@@ -1,0 +1,25 @@
+{
+  "builder": "Bulinski Effect Pedals",
+  "pedal": "Deluxe Velociraptor Diode Bass Fuzz",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 2,
+  "sources": [
+    {
+      "url": "https://reverb.com/item/64820122-bulinski-effect-pedals-deluxe-velociraptor-diode-bass-fuzz-2022-gloss-brown",
+      "title": "catalog/override source",
+      "h1": "",
+      "excerpt": "",
+      "host": "reverb.com",
+      "source_kind": "reverb"
+    },
+    {
+      "url": "https://bulinskipedals.com/shop/deluxe-velociraptor-diode-bass-fuzz/",
+      "title": "catalog/override source",
+      "h1": "",
+      "excerpt": "",
+      "host": "bulinskipedals.com",
+      "source_kind": "catalog_verified"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}

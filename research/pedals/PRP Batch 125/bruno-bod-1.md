@@ -40,3 +40,14 @@ BOD-1 emphasizes smooth, controlled compression rather than a hard, heavily clip
 ## Sources checked
 1. Bruno Guitars — BOD-1: https://www.brunoguitars.com/
 2. Reverb — Bruno Bruno Drive BOD-1: https://reverb.com/ca/item/83361917-bruno-bruno-drive-bod-1-2010s
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Bruno's BOD-1 is cataloged as an overdrive pedal.
+
+### Sources checked in this pass
+1. catalog/override source: https://reverb.com/ca/item/83361917-bruno-bruno-drive-bod-1-2010s
+2. ​: http://macs-ohno.blogspot.jp/search/label/Bruno%20BOD-1

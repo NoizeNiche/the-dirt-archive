@@ -1,0 +1,25 @@
+{
+  "builder": "Bruno",
+  "pedal": "BOD-1",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 2,
+  "sources": [
+    {
+      "url": "https://reverb.com/ca/item/83361917-bruno-bruno-drive-bod-1-2010s",
+      "title": "catalog/override source",
+      "h1": "",
+      "excerpt": "",
+      "host": "reverb.com",
+      "source_kind": "reverb"
+    },
+    {
+      "url": "http://macs-ohno.blogspot.jp/search/label/Bruno%20BOD-1",
+      "title": "\u200b",
+      "h1": "",
+      "excerpt": "",
+      "host": "macs-ohno.blogspot.jp",
+      "source_kind": "other"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}

@@ -40,3 +40,18 @@ Spectrum is designed to move smoothly between treble-boost and fuzz territory ra
 ## Photo
 - **Archive status:** **No Photo Archived**
 - **Exact-model source page:** https://www.treblebooster.net/products/special-units/spectrum-fuzz-booster.html
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+BSM's Spectrum Fuzz Booster is cataloged as a fuzz pedal.
+
+### Verified sound evidence
+Bolin had a punchy and "in the face" sound which he created with a Sam Ash Fuzzz unit that had a controlable, treble-boosty character.
+By the end of the seventies, the Treble Booster was replaced by a new circuit from Japan, the so called Tube Screamer and other similar overdrive circuits.
+These were based on the old Treble Boosters and therefore had a very similar frequency response.
+
+### Sources checked in this pass
+1. SPECTRUM Fuzz-Booster | BSM - Finest Treble Booster: https://www.treblebooster.net/products/special-units/spectrum-fuzz-booster.html

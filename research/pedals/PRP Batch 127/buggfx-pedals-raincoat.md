@@ -37,3 +37,14 @@ Raincoat is unusually responsive to guitar volume, moving from a darker clean bo
 1. Effects Database — BuGGFX Raincoat: https://www.effectsdatabase.com/model/buggfx/raincoat
 2. PedalPCB Raincoat build document: https://docs.pedalpcb.com/project/Raincoat.pdf
 3. Chuya Online — BuGGFX Raincoat: https://www.chuya-online.com/products/147144
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+BuGGFX Pedals's Raincoat is cataloged as a distortion / fuzz / overdrive pedal.
+
+### Sources checked in this pass
+1. catalog/override source: https://www.effectsdatabase.com/model/buggfx/raincoat
+2. BuGGFX Pedals Raincoat ギターエフェクター(バグエフェクツペダルズ レインコート) | web総合楽器店 chuya-online.com: https://www.chuya-online.com/products/147144

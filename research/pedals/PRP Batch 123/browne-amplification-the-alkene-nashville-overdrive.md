@@ -31,3 +31,13 @@ The ALKENE is voiced for full, clear Nashville-style overdrive with controlled l
 
 ## Sources checked
 1. Browne Amplification — The ALKENE Nashville Overdrive: https://browneamps.com/the-alkene
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Browne Amplification's The ALKENE Nashville Overdrive is cataloged as an overdrive pedal.
+
+### Sources checked in this pass
+1. The ALKENE Nashville Overdrive by Browne Amplification — Browne Amplification: https://browneamps.com/the-alkene

@@ -31,3 +31,18 @@ The available evidence places the Distorter Preamp in the amp-like, high-gain en
 ## Sources checked
 1. Effects Database — Bouteek's 2009 introduction: https://www.effectsdatabase.com/updates/weekly/20090921
 2. Aion FX — Vortex Amp Distortion / Bouteek Distorter Preamp: https://aionfx.com/project/vortex-amp-distortion/
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Bouteek's Distorter - Preamp is cataloged as an overdrive pedal.
+
+### Verified sound evidence
+Vortex Amp Distortion / Bouteek Distorter Preamp - Aion FX
+Project overview The Vortex Amp Distortion is a recreation of the Bouteek Distorter Preamp, a limited-release pedal from 2009 that flew largely under the radar.
+The Overdriver Preamp and the Twin Drive & Boost (Ultimate Drive) were both released in 2009.
+
+### Sources checked in this pass
+1. Vortex Amp Distortion / Bouteek Distorter Preamp - Aion FX: https://aionfx.com/project/vortex-amp-distortion/

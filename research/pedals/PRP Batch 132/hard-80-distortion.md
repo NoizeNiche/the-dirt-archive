@@ -23,3 +23,17 @@ The Level control ranges from dirty boost into full distortion, while the separa
 ## Sources checked
 1. Bulinski Effect Pedals Hard 80 manual: https://bulinskipedals.com/manuals/hard-80-distortion-effect-pedal-manual.pdf
 2. Bulinski Effect Pedals shop: https://bulinskipedals.com/shop/
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Bulinski Effect Pedals's Hard 80 Distortion is cataloged as a distortion pedal.
+
+### Verified version references
+- The evidence references: V6.
+
+### Sources checked in this pass
+1. catalog/override source: https://bulinskipedals.com/manuals/hard-80-distortion-effect-pedal-manual.pdf
+2. https://i0.wp.com/bulinskipedals.com/wp-content/uploads/2023/03/Bulinski-Hard-80-Distortion-1.jpg?fit=1200%2C1200&: https://i0.wp.com/bulinskipedals.com/wp-content/uploads/2023/03/Bulinski-Hard-80-Distortion-1.jpg?fit=1200%2C1200&

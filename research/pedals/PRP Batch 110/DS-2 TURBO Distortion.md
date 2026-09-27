@@ -43,3 +43,18 @@ Turbo I ranges from gritty drive to thick distortion and responds to picking int
 
 ## Archive photo
 - **Archive status:** **No Photo Archived**
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+BOSS's DS-2 TURBO Distortion is cataloged as a distortion pedal.
+
+### Verified sound evidence
+Downloads Support Turbocharged Distortion Perfection Released in 1987, the DS-2 Turbo Distortion remains a hugely popular BOSS compact pedal and builds on the legacy of the iconic DS-1 Distortion that debuted nearly a decade earlier.
+Whether you're looking for solid crunch or scorching gain, the DS-2 has you covered.
+Complementing dual-coil pickups and smoothing out single coils, it covers everything from gritty drive to full-tilt distortion.
+
+### Sources checked in this pass
+1. BOSS - DS-2 | TURBO Distortion: https://www.boss.info/us/products/ds-2/

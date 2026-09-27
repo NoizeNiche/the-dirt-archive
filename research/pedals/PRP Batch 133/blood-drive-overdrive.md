@@ -19,3 +19,16 @@ The reviewed current Byron catalog confirms the model and provides the exact mod
 ## Sources checked
 1. Byron Amplification pedal catalog: https://byronamplification.com/pedals
 2. Exact-model product photograph from Byron Amplification: https://images.squarespace-cdn.com/content/v1/567322ce0e4c11f307b26a3e/1586150032558-XQGWOHMOTKSXILD8E0BH/2020-04-05%2B20.19.05.jpg
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Byron Amplification's Blood Drive Overdrive is cataloged as an overdrive pedal.
+
+### Verified sound evidence
+Boost/Drive and Fuzz Sale Price: $149.00 Original Price: $159.00 sold out Kompressor Sale Price: $149.00 Original Price: $159.00 sold out Lil' Shaman Overdrive Sale Price: $149.00 Original Price: $159.00 sold out Again!
+
+### Sources checked in this pass
+1. Pedals — Byron Amplification: https://byronamplification.com/pedals

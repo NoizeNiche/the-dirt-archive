@@ -32,3 +32,24 @@ The pedal is designed to move from light, touch-sensitive tweed-style overdrive 
 ## Sources checked
 1. Break The Machine — Brantone Electronics Q&A: https://www.breakthemachine.co.uk/brantone-electronics-qa/
 2. Reverb — Brantone Electronics Vintage Tweed Overdrive: https://reverb.com/item/82949274-brantone-electronics-vintage-tweed-overdrive-2019
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Posted on 30th March 2021 28th March 2021 by Stuart First Impressions: Brantone Electronics Vintage Tweed Overdrive Pedal Earlier in March, I picked up a second-hand Brantone Electronics Vintage Tweed overdrive pedal.
+
+### Verified color/finish evidence
+- In terms of feel and overdrive complexity, the NABLA Custom Black Tweed still beats it out.
+- The Vintage Tweed still feels like a pedal, whereas the Black Tweed feels like an actual amp.
+- If I could somehow Borg these two pedals together – the tone of the Vintage Tweed, and the amp-like feel of the Black Tweed – I think I’d have the perfect tweed-tone pedal.
+
+### Verified sound evidence
+Posted on 30th March 2021 28th March 2021 by Stuart First Impressions: Brantone Electronics Vintage Tweed Overdrive Pedal Earlier in March, I picked up a second-hand Brantone Electronics Vintage Tweed overdrive pedal.
+I bought a Brantone Electronics Vintage Tweed overdrive pedal, off the second hand market.
+For me, this is right up there as one of the best tweed-tone pedals I’ve played to date.
+
+### Sources checked in this pass
+1. First Impressions: Brantone Electronics Vintage Tweed Overdrive Pedal – HomeToneBlog.com: http://hometoneblog.com/2021/03/30/first-impressions-brantone-electronics-vintage-tweed-overdrive-pedal/
+2. catalog/override source: https://reverb.com/item/82949274-brantone-electronics-vintage-tweed-overdrive-2019

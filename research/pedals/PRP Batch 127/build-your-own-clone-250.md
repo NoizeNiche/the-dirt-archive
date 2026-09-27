@@ -30,3 +30,13 @@ The 250+ can be built toward the classic DOD 250 overdrive/preamp sound or the c
 
 ## Sources checked
 1. Effects Database — Build Your Own Clone 250+: https://www.effectsdatabase.com/model/byoc/250
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Build Your Own Clone's 250+ is cataloged as an overdrive pedal.
+
+### Sources checked in this pass
+1. Build Your Own Clone 250+ | Effects Database: https://www.effectsdatabase.com/model/byoc/250

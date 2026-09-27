@@ -32,3 +32,24 @@ Gritador keeps the familiar mid-forward character of the Screamer family while r
 
 ## Sources checked
 1. Browne Amplification — The Gritador: https://browneamps.com/store/p/the-gritador
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+The Gritador is our version of the classic, the version that our resident genius in chief has tweaked to perfection.
+
+### Verified color/finish evidence
+- It could be a scratch, a paint inclusion, or some other finish issue.
+- The pedal is 100% mechanically working, it’s just a case finish issue and because it is, you win!
+- Color: Select Color Green Black Matte Black Green - BLEM Black - BLEM Get notified by email when this product is in stock.
+
+### Verified version references
+- The evidence references: V3, V4, v1.
+
+### Verified sound evidence
+This is Dave's favorite version of his favorite overdrive.
+
+### Sources checked in this pass
+1. The Gritador — Browne Amplification: https://browneamps.com/store/p/the-gritador

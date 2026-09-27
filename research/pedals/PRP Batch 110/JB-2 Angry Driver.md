@@ -44,3 +44,18 @@ The Blues Driver side covers lower-gain boost and overdrive, while the Angry Cha
 
 ## Archive photo
 - **Archive status:** **No Photo Archived**
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+BOSS's JB-2 Angry Driver is cataloged as an overdrive pedal.
+
+### Verified sound evidence
+Housed in the classic BOSS compact design, the JB-2 pairs the iconic BOSS BD-2 Blues Driver with JHS Pedals’ popular Angry Charlie high-gain overdrive in a combined circuit enhanced for dual-mode operation.
+A six-way mode selector allows the player to choose between the two overdrive types or combine them in various series and parallel configurations.
+This enables the JB-2 to produce an enormous range of sounds, from subtle boost to ultra-high-gain distortion.
+
+### Sources checked in this pass
+1. BOSS - What’s New - Press Releases - 2017 - BOSS INTRODUCES JB-2 ANGRY DRIVER PEDAL: https://www.boss.info/us/whats_new/press_releases/2017/BOSS-INTRODUCES-JB-2-ANGRY-DRIVER-PEDAL/

@@ -30,3 +30,21 @@ The archive keeps the sound description at the confirmed fuzz level rather than 
 
 ## Sources checked
 1. Effects Database — Build Your Own Clone catalog: https://www.effectsdatabase.com/model/byoc
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Build Your Own Clone's Li'l Fuzz is cataloged as a fuzz pedal.
+
+### Verified transistor/device terms
+- BC108.
+
+### Verified sound evidence
+BYOC Li'l Fuzz - Pedal on ModularGrid Pedals Eurorack Modcan A MOTM Frac Moog Unit AE Modular Buchla Serge 500 Series Pedals FRM MKTPL Pedals Pedalboards Manufacturers Forum Marketplace Login Sign Up You have to enable Javascript to do any fancy stuff on this site!
+Li'l Fuzz BYOC Distortion Dimensions 39 mm wide 93 mm high Current Draw ?
+MG ID: 29834 A DIY clone of the legendary late-60's Fuzz Face, only much, much smaller.
+
+### Sources checked in this pass
+1. BYOC Li'l Fuzz - Pedal on ModularGrid: https://modulargrid.net/p/byoc-li-l-fuzz

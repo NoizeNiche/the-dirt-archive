@@ -45,3 +45,17 @@ The OD-3 has a smooth, full overdrive character with more sustain and compressio
 - **Archive status:** **Exact model photo archived**
 - **Image source:** https://www.boss.info/global/products/od-3/
 - **Image source URL:** https://www.boss.info/RolandComSite/media/assets/images/products/main/od_3_main.jpg?ext=.jpg
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Built in the tradition of the legendary BOSS overdrives, the OD-3 OverDrive pedal gives guitarists a greatly expanded range of smooth overdrive tones and improved response while staying true to the original.
+
+### Verified sound evidence
+Built in the tradition of the legendary BOSS overdrives, the OD-3 OverDrive pedal gives guitarists a greatly expanded range of smooth overdrive tones and improved response while staying true to the original.
+• < > Audio Library play OD-3 Sound Check play OD-3 Tone Demo Reverberations: Texas Guitarist Tony McGovern Tony McGovern talks BOSS pedals, Texas’s standout guitar tone, touring, studio work, and how the band stays c
+
+### Sources checked in this pass
+1. BOSS - OD-3 | OverDrive: https://www.boss.info/global/products/od-3/

@@ -34,3 +34,16 @@ Protein V4 is designed to cover clear low-gain overdrive, fuller Nashville-style
 
 ## Sources checked
 1. Browne Amplification — Protein Dual Overdrive V4: https://browneamps.com/store/p/protein-dual-overdrive-v4
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Browne Amplification's Protein Dual Overdrive V4 is cataloged as an overdrive pedal.
+
+### Verified version references
+- The evidence references: V4.
+
+### Sources checked in this pass
+1. Protein Dual Overdrive V4 — Browne Amplification: https://browneamps.com/store/p/protein-dual-overdrive-v4

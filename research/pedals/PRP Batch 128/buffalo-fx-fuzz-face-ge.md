@@ -37,3 +37,22 @@ The pedal is designed as a hot, vintage-voiced germanium Fuzz Face implementatio
 
 ## Sources checked
 1. Effects Database — Buffalo FX Fuzz Face Ge: https://www.effectsdatabase.com/model/buffalofx/fuzzface/ge
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Buffalo FX's Fuzz Face Ge is cataloged as a fuzz pedal.
+
+### Verified version references
+- The evidence references: MkII.
+
+### Verified transistor/device terms
+- Germanium Fuzz.
+
+### Verified diode terms
+- LED.
+
+### Sources checked in this pass
+1. Buffalo FX Fuzz Face Ge | Effects Database: https://www.effectsdatabase.com/model/buffalofx/fuzzface/ge

@@ -31,3 +31,24 @@ Carbon is designed as a clear, high-headroom Bluesbreaker-style overdrive. The V
 
 ## Sources checked
 1. Browne Amplification — The Carbon: https://browneamps.com/store/p/the-carbon
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Simple in design and avoiding the complicated options that can be found in other pedals of the same circuit, the Carbon is a pedal you might never turn off.
+
+### Verified color/finish evidence
+- Version: Select Version Sky Blue V2 Midnight Black V2 Sky Blue V2 - BLEM Midnight Black V2 - BLEM Get notified by email when this product is in stock.
+- The Carbon is the stand alone Blue Side of the Protein Pedal.
+- <\/p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Why Gritador?
+
+### Verified version references
+- The evidence references: V2.
+
+### Verified sound evidence
+<\/p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">This is Dave's favorite version of his favorite overdrive.
+
+### Sources checked in this pass
+1. The Carbon — Browne Amplification: https://browneamps.com/store/p/the-carbon

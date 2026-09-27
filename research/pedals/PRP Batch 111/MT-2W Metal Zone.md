@@ -49,3 +49,16 @@ Standard mode keeps the Metal Zone's dense, mid-driven distortion while improvin
 - **Archive status:** **Exact model photo archived**
 - **Image source:** https://www.boss.info/us/products/mt-2w/
 - **Image source URL:** https://static.roland.com/products/mt-2w/image/mt-2w_hero.jpg
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+BOSS's MT-2W Metal Zone is cataloged as a distortion pedal.
+
+### Verified sound evidence
+First released in 1991 and in continuous production ever since, the MT-2 Metal Zone is loved by guitarists everywhere for its thick, rich distortion and distinctive mid-focused tone.
+
+### Sources checked in this pass
+1. BOSS - What’s New - Press Releases - 2018 - BOSS ANNOUNCES DC-2W DIMENSION C AND MT-2W METAL ZONE PEDALS: https://www.boss.info/us/whats_new/press_releases/2018/BOSS-ANNOUNCES-DC-2W-DIMENSION-C-AND-MT-2W-METAL-Z/

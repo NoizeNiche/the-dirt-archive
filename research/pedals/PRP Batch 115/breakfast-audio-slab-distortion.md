@@ -34,3 +34,22 @@ SLAB is built for large, saturated distortion rather than low-gain breakup. Its 
 ## Sources checked
 1. One Thousand Pedals — Breakfast Audio SLAB DISTORTION: https://1000pedals.com/product/breakfast-audio-slab-distortion/
 2. Breakfast Audio official site: https://breakfastaudio.com/
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Breakfast Audio's SLAB DISTORTION is cataloged as a distortion pedal.
+
+### Verified color/finish evidence
+- RED MODE INDICATES DISTORTION ONLY WITH YELLOW MODE PLACING THE TRANSFORMER AT THE END OF THE SIGNAL.
+
+### Verified sound evidence
+PLEASE JOIN THE MAILING LIST AND FOLLOW ON INSTAGRAM FOR UPDATES THE SLAB IS A THREE STAGE VERSATILE HIGH GAIN DISTORTION WITH A SECOND MODE THAT THROWS A WAVEFORM CHOPPING TRANSFORMER AT THE END OF THE SIGNAL TO PRODUCE GLASSY MANGLED OCTAVE UP TONES.
+TWO OP AMP STAGES WITH AN ACTIVE BASS AND TREBLE SECTION ALLOW A DYNAMIC RANGE OF CONTROLLABLE DISTORTION FROM LOW GAIN TO BRUTAL HIGH GAIN CHUG WITH WIDE FREQUENCY OPTIONS AND PLENTY OF VOLUME.
+THE THIRD GAIN STAGE (BASED ON THE TRAYNOR TS-50/RUSTY BOX BUT MODIFIED HERE FOR GUITAR) THEN SPLITS THE FREQUENCIES INTO 3 BANDS - DISTORTING AND CLIPPING THEM SEPARATELY VIA TRANSISTORS AND ULTIMATELY RECOMBINING.
+
+### Sources checked in this pass
+1. SLAB DISTORTION – BREAKFAST AUDIO: https://breakfastaudio.com/products/slab-distortion
+2. catalog/override source: https://1000pedals.com/product/breakfast-audio-slab-distortion/

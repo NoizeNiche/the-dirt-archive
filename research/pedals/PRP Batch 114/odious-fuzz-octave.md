@@ -35,3 +35,21 @@ The fuzz side is the core high-saturation voice, while the separate octave secti
 
 ## Sources checked
 1. Bowman Audio Endeavors — Odious Fuzz Octave: https://bowmanaudioendeavors.com/products/odious-fuzz-octave
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Satans Fingers is a finely tuned Silicon Transistor fuzz pedal.
+
+### Verified transistor/device terms
+- Silicon Transistor.
+
+### Verified sound evidence
+Satans Fingers is a finely tuned Silicon Transistor fuzz pedal.
+With two control parameters Volume & Fuzz, you can dial in the nasally spit, reminiscent of your favorite smiley face without having to ride your guitars volume knob.
+Or the sweet spot between tight compressed fuzz and a total blown out mess.
+
+### Sources checked in this pass
+1. Odious Fuzz Octave – Bowman Audio Endeavors: https://bowmanaudioendeavors.com/products/odious-fuzz-octave
