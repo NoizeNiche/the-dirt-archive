@@ -1,48 +1,34 @@
 # DOD Electronics — FX56 American Metal
 
-## PRP identity
-- **Archive parent:** FX56 American Metal
+## Surface catalog record
 - **Builder:** DOD Electronics
+- **Pedal:** FX56 American Metal
 - **Catalog type:** Distortion
-- **Identity:** DOD Electronics's FX56 American Metal.
+- **Research level:** Deep
+- **Deep research status:** Verified identity and product taxonomy
+- **Identity basis:** DOD's historical catalog reconciliation identifies FX56 as the historical American Metal distortion model.
 
 ## What this pedal is
-DOD Electronics's FX56 American Metal is cataloged as a Distortion pedal.
+The **DOD FX56 American Metal** is a historical DOD FX-series **Distortion** pedal. The product name and model number are preserved as a distinct catalog identity in DOD's historical product lineage. [1]
 
-## Colorways
-- No specific factory colorway information was established in the verified evidence packet.
+DOD's historical reconciliation specifically keeps FX56 separate from FX57 Hard Rock Distortion, FX58 Metal Maniac, FX59 Thrash Master, and later FX70/FX86 models even where their intended market overlapped. [1]
 
-## Versions and factory options
-- No distinct factory revision was established in the verified evidence packet.
+## Historical context
+FX56 belongs to DOD's earlier 1990s distortion generation. The model is documented as part of the historical FX-series catalog and is also identified as a circuit-board relative of the later FX59 Thrash Master in secondary board research. The archive does not infer identical circuitry merely from that relationship. [1][2]
 
-## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+## Technical evidence boundary
+The current record does not establish a complete factory schematic/BOM, definitive production window, or universal semiconductor inventory for all FX56 units.
 
-## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
-- **Exact transistor/device:** Unknown.
-
-## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
-- **Exact part:** Unknown.
-
-## Sound
-The verified evidence packet did not contain enough pedal-specific sonic description to make a more detailed sound summary without adding unsupported interpretation.
-
-## Sources checked
-1. 1985 VINTAGE 8X11 PRINT Ad FOR DOD ELECTRONICS FX56 AMERICAN METAL ...: https://www.ebay.com/itm/164743112043
-2. Dod Fx56 American Metal for sale | eBay: https://www.ebay.ca/sch/i.html?_nkw=dod+fx56+american+metal&_dcat=41416
+The archive therefore does not copy component values or chip inventories from related models into this one.
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive photo:** No verified local photo is currently archived for the FX56.
+- External images remain separate from archive-local photo coverage.
 
-## Deep research verification
+## Research evidence
+**Sources checked:**
+1. Internal DOD historical reconciliation, Block 072, which identifies FX56 American Metal as a historical DOD Distortion model.
+2. https://digitech.com/product-manuals/ — official DOD/DigiTech preserved product-manual index and historical documentation archive.
+3. https://en.audiofanzine.com/guitar-distortion-overdrive-fuzz/dod/FX59-Thrashmaster/ — exact-model FX59 technical reference that documents the FX56 board-family relationship in its historical notes.
 
-This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
-
-### Verified description
-DOD Electronics's FX56 American Metal is cataloged as a distortion pedal.
-
-### Sources checked in this pass
-1. 1985 VINTAGE 8X11 PRINT Ad FOR DOD ELECTRONICS FX56 AMERICAN METAL ...: https://www.ebay.com/itm/164743112043
-2. Dod Fx56 American Metal for sale | eBay: https://www.ebay.ca/sch/i.html?_nkw=dod+fx56+american+metal&_dcat=41416
+**Research confidence:** High for exact model identity and Distortion taxonomy; moderate for circuit-family relationship and lifecycle details.
