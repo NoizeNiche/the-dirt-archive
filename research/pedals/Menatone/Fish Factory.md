@@ -1,23 +1,45 @@
 # Menatone — Fish Factory
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Fish Factory
 - **Builder:** Menatone
-- **Pedal:** Fish Factory
 - **Catalog type:** Distortion / Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Menatone's Fish Factory.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Fish Factory** by **Menatone** as a **Distortion / Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Fish Factory The Menatone Fish Factory is the ultimate compact tone machine.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- It consists of the 4 knob Red Snapper and the Blue Collar overdrives.
+- Now you can decide if the Red Snapper is first in the chain or the Blue Collar.
+- menatone top of page THE FINEST HANDMADE EFFECTS SINCE 1996 PEDALS HOME MOJO Red Snapper Mojo PTP Blue Collar Mojo PTP Top Boost in a Can Mojo The Law Bender Deluxe Redneck vs.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+menatone top of page THE FINEST HANDMADE EFFECTS SINCE 1996 PEDALS HOME MOJO Red Snapper Mojo PTP Blue Collar Mojo PTP Top Boost in a Can Mojo The Law Bender Deluxe Redneck vs.
+Sputnik PTP/DELUXE Red Snapper 4 Knob PTP Blue Collar PTP Das Boost PTP The Howie Deluxe None More Black Deluxe STANDARD The King.
+Top Boost in a Can Wreck'T Fish Factory MenaWatt PiG The Dirty Blonde MINI Red Snapper Mini Red Snapper 4 knob Mini Blue Collar Mini JAC Compressor Mini Thundering Revival Mini The Law Mini Hindenburg Mini Mail Bomb Mini Pleasure Trem Mini Ms.
+
+## Sources checked
+1. The Fish Factory by Menatone | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/Menatone/The-Fish-Factory/68981839/
+2. Fish Factory | menatone: https://www.menatone.com/fish-factory
+3. Menatone Fish Factory — Overdrive Pedal | Equipboard: https://equipboard.com/items/menatone-fish-factory
+4. Menatone Fish Factory - Effects Database: https://www.effectsdatabase.com/model/menatone/fishfactory
+5. Menatone Fish Factory Review - The Gear Page: https://www.thegearpage.net/board/index.php?threads/menatone-fish-factory-review.1577827/
+6. Menatone Fish Factory - Reverb: https://reverb.com/item/5565862-menatone-fish-factory
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

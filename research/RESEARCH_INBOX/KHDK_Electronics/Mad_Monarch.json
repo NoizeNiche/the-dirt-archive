@@ -1,0 +1,49 @@
+{
+  "builder": "KHDK Electronics",
+  "pedal": "Mad Monarch",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 5,
+  "sources": [
+    {
+      "url": "https://www.khdkelectronics.com/products/detail/mad-monarch-by-gary-holt/",
+      "title": "Mad Monarch by Gary Holt - KHDK Electronics",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.khdkelectronics.com",
+      "source_kind": "manufacturer"
+    },
+    {
+      "url": "https://reverb.com/item/99470330-khdk-electronics-mad-monarch-by-gary-holt-white",
+      "title": "KHDK Electronics Mad Monarch by Gary Holt - White | Reverb",
+      "h1": "",
+      "excerpt": "",
+      "host": "reverb.com",
+      "source_kind": "reverb"
+    },
+    {
+      "url": "https://www.effectsdatabase.com/model/khdk/madmonarch",
+      "title": "KHDK Electronics Mad Monarch - Gary Holt signature Preamp/Drive",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.effectsdatabase.com",
+      "source_kind": "effects_database"
+    },
+    {
+      "url": "https://riccio.io/emporium-underground/p/khdk-mad-monarch-black-with-black-knobs",
+      "title": "KHDK Electronics Mad Monarch | exclusive limited edition black | Gary Holt of Slayer and Exodus signature preamp/overdrive/distortion pedal | 1 of 3* | riccio",
+      "h1": "KHDK Electronics Mad Monarch | exclusive limited edition black | Gary Holt of Slayer and Exodus signature preamp/overdrive/distortion pedal | 1 of 3*",
+      "excerpt": "KHDK Electronics Mad Monarch | exclusive limited edition black | Gary Holt of Slayer and Exodus signature preamp/overdrive/distortion pedal | 1 of 3* | riccio Skip to Content Open Menu Close Menu music emporium underground 0 0 0 0 music emporium underground Open Menu Close Menu <div class=\"header-menu header-menu--folder-list black-bold \" data-section-theme=\"black-bold\" data-current-styles=\"{ &quot;layout&quot;: &quot;navCenter&quot;, &quot;action&quot;: { &quot;href&quot;: &quot;/covid-19&quot;, &quot;buttonText&quot;: &quot;&quot;, &quot;newWindow&quot;: false }, &quot;showSocial&quot;: true, &quot;socialOptions&quot;: { &quot;socialBorderShape&quot;: &quot;none&quot;, &quot;socialBorderStyle&quot;: &quot;outline&quot;, &quot;socialBorderThickness&quot;: { &quot;unit&quot;: &quot;px&quot;, &quot;value&quot;: 1.0 } }, &quot;sectionTheme&quot;: &quot;black-bold&quot;, &quot;menuOverlayTheme&quot;: &quot;black-bold&quot;, &quot;menuOverlayAnimation&quot;: &quot;fade&quot;, &quot;cartStyle&quot;: &quot;cart&quot;, &quot;cartText&quot;: &quot;Cart&quot;, &quot;showEmptyCartState&quot;: false, &quot;cartOptions&quot;: { &quot;iconType&quot;: &quot;stroke-6&quot;, &quot;cartBorderShape&quot;: &quot;none&quot;, &quot;cartBorderStyle&quot;: &quot;outline&quot;, &quot;cartBorderThickness&quot;: { &quot;unit&quot;: &quot;px&quot;, &quot;value&quot;: 1.0 } }, &quot;showButton&quot;: false, &quot;showCart&quot;: true, &quot;showAccountLogin&quot;: false, &quot;headerStyle&quot;: &quot;solid&quot;, &quot;languagePicker&quot;: { &quot;enabled&quot;: false, &quot;iconEnabled&quot;: false, &quot;iconType&quot;: &quot;globe&quot;, &quot;flagShape&quot;: &quot;shiny&quot;, &quot;languageFlags&quot;: [ ] }, &quot;iconOptions&quot;: { &quot;desktopDropdownIconOptions&quot;: { &quot;size&quot;: { &quot;unit&quot;: &quot;em&quot;, &quot;value&quot;: 1.0 }, &quot;iconSpacing&quot;: { &quot;unit&quot;: &quot;em&quot;, &quot;value&quot;: 0.35 }, &quot;strokeWidth&quot;: { &quot;unit&quot;: &quot;px&quot;, &quot;value&quot;: 1.0 }, &quot;endcapType&quot;: &quot;square&quot;, &quot;folderDropdownIcon&quot;: &quot;none&quot;, &quot;languagePickerIcon&quot;: &quot;openArrowHead&quot; }, &quot;mobileDropdownIconOptions&quot;: { &quot;size&quot;: { &quot;unit&quot;: &quot;em&quot;, &quot;value&quot;: 1.0 }, &quot;iconSpacing&quot;: { &quot;unit&quot;: &quot;em&quot;, &quot;value&quot;: 0.15 }, &quot;strokeWidth&quot;: { &quot;unit&quot;: &quot;px&quot;, &quot;value&quot;: 0.5 }, &quot;endcapType&quot;: &quot;square&quot;, &quot;folderDropdownIcon&quot;: &quot;openArrowHead&quot;, &quot;languagePickerIcon&quot;: &quot;openArrowHead&quot; } }, &quot;mobileOptions&quot;: { &quot;layout&quot;: &quot;logoCenterNavRight&quot;, &quot;menuIconOptions&quot;: { &quot;style&quot;: &quot;halfLineHamburger&quot;, &quot;thickness&quot;: { &quot;unit&quot;: &quot;px&quot;, &quot;value&quot;: 1.0 } } }, &quot;solidOptions&quot;: { &quot;headerOpacity&quot;: { &quot;unit&quot;: &quot;%&quot;, &quot;value&quot;: 0.0 }, &quot;blurBackground&quot;: { &quot;enabled&quot;: true, &quot;blurRadius&quot;: { &quot;unit&quot;: &quot;px&quot;, &quot;value&quot;: 12.0 } }, &quot;backgroundColor&quot;: { &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;, &quot;sitePaletteColor&quot;: { &quot;colorName&quot;: &quot;black&quot;, &quot;alphaModifier&quot;: 1.0 } }, &quot;navigationColor&quot;: { &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;, &quot;sitePaletteColor&quot;: { &quot;colorName&quot;: &quot;white&quot;, &quot;alphaModifier&quot;: 1.0 } } }, &quot;gradientOptions&quot;: { &quot;gradientType&quot;: &quot;faded&quot;, &quot;headerOpacity&quot;: { &quot;unit&quot;: &quot;%&quot;, &quot;value&quot;: 100.0 }, &quot;blurBackground&quot;: { &quot;enabled&quot;: true, &quot;blurRadius&quot;: { &quot;unit&quot;: &quot;px&quot;, &quot;value&quot;: 10.0 } }, &quot;backgroundColor&quot;: { &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;, &quot;sitePaletteColor&quot;: { &quot;colorName&qu",
+      "host": "riccio.io",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://www.musicguitarcenter.com/product/khdk-electronics-mad-monarch-gary-holt-preamp-pedal/",
+      "title": "KHDK Electronics Mad Monarch Gary Holt Preamp Pedal",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.musicguitarcenter.com",
+      "source_kind": "other"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}
