@@ -7,9 +7,9 @@ Live catalog: **4242 total / 4242 surface-ready / 3878 deep-researched / 3743 re
 
 **Next deep-research target:** DigiTech - Redline Modified Overdrive.
 
-PRP1 closeout remains separate: **375 researched record(s) still lack an exact local photo**.
+PRP1 closeout remains separate: 375 researched record(s) still lack an exact local photo.
 The research queue is generated from the canonical catalog and tracker; do not hand-edit the derived queue.
-Last refreshed: 2026-09-27T20:42:00Z
+Last refreshed: 2026-09-27T20:48:46.222851+00:00
 <!-- AUTO:RESEARCH_PHASE_END -->
 
 <!-- AUTO:RESEARCH_PHASE_START -->
