@@ -4,37 +4,58 @@
 - **Archive parent:** Virgo - Rock Overdrive
 - **Builder:** Celestial Effects
 - **Catalog type:** Overdrive
-- **Identity:** Celestial Effects Virgo Rock Overdrive, a dual-op-amp overdrive with selectable clipping.
+- **Identity:** Dual-op-amp overdrive using two paralleled TL082 amplifiers and a three-position clipping selector. [1][2]
 
-## What this pedal is
-Celestial Effects describes the Virgo as a dual-op-amp Rock Overdrive designed to cover clean boost through near-distortion. The builder says it is highly touch sensitive, transparent, and based on two paralleled TL082 op-amp amplifiers. [1][2]
+## Controls
+- **VOLUME**
+- **TONE**
+- **EDGE**
+- **GAIN**
+- Three clipping positions:
+  - Symmetrical silicon
+  - Asymmetrical MOSFET + germanium diode
+  - No clipping diodes [2]
 
-## Colorways
-- Exact-model sources document a blue enclosure example. [1]
-- A complete factory colorway sequence was not established.
+## Circuit / topology
+- Two paralleled **TL082** op-amp amplifiers.
+- No discrete transistor gain stage is documented.
+- True bypass.
+- No buffers or inline tone circuits according to the builder. [1][2]
 
-## Versions and factory options
-The documented controls include **Volume, Tone, Edge, and Gain**. The pedal also has a three-position clipping selector. [2]
+## Active device
+- **2 × TL082** op-amp amplifiers are documented as the core gain arrangement. [1][2]
 
-The selector provides:
+## Diode / clipping
 - Symmetrical silicon clipping.
-- Asymmetrical MOSFET + germanium diode clipping.
-- No clipping diodes. [2]
+- Asymmetrical **MOSFET + germanium diode** clipping.
+- No-diode position. [2]
+- Exact device part numbers are not established.
 
-The Virgo is true bypass and uses no buffers or inline tone circuits. [1][2]
+## Power
+- Exact model-specific voltage/current details are not securely preserved in the reviewed sources.
 
-## Version changes
-No reliable numbered production revision history was found in the checked sources.
+## Construction / finish
+- Blue exact-model example documented in the manufacturer/review material.
 
-## Transistor
-No discrete transistor stage is documented in the checked sources. The gain section is described as two paralleled **TL082 op-amp amplifiers**. [1][2]
-
-## Diode
-The builder documents symmetrical silicon clipping in one position, an asymmetrical MOSFET + germanium diode mix in another, and no clipping diodes in the center position. Exact diode/MOSFET part numbers were not established. [2]
+## Version history
+- No numbered electronic revision established.
 
 ## Sound
-Celestial Effects positions the Virgo from clean boost through saturated, crunchy overdrive. The dual-op-amp gain structure and clipping selector can move the response from smoother and more compressed to more open and vocal. [1][2]
+Virgo is intended to cover clean boost through saturated rock overdrive. The TL082 pair provides the gain structure, while the clipping selector changes compression and openness from symmetrical silicon through a more complex asymmetrical MOSFET/germanium arrangement to an open no-diode response. [1][2]
+
+## Research confidence
+- **Identity:** High
+- **TL082 dual-op-amp architecture:** High
+- **Three clipping modes:** High
+- **Four-control map:** High
+- **Exact diode/MOSFET part numbers:** Unknown
+
+## Deep research verification
+Celestial Effects' Virgo page and owner's manual were cross-checked. The manual supplies the exact clipping modes and the two-paralleled-TL082 architecture, while the product page establishes the model identity and control platform. [1][2]
 
 ## Sources checked
-1. Celestial Effects — Virgo Rock Overdrive: https://www.celestialeffects.com/virgo.html
+1. Celestial Effects — Virgo: https://www.celestialeffects.com/virgo.html
 2. Celestial Effects — Virgo Owner's Manual: https://www.celestialeffects.com/pdfpages/virgousermanual.pdf
+
+## Photo
+- Exact-model photo status remains handled separately.
