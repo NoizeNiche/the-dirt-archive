@@ -1,23 +1,41 @@
 # Prescription Electronics — C.O.B. (Clean Octave Blend)
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** C.O.B. (Clean Octave Blend)
 - **Builder:** Prescription Electronics
-- **Pedal:** C.O.B. (Clean Octave Blend)
 - **Catalog type:** Fuzz
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Prescription Electronics's C.O.B. (Clean Octave Blend).
 
 ## What this pedal is
-The Dirt Archive currently catalogs **C.O.B. (Clean Octave Blend)** by **Prescription Electronics** as a **Fuzz** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Login Create Account Home Prescription Electronics COB Clean Octave Blend Fuzz Pedal Prescription Electronics COB Clean Octave Blend Fuzz Pedal Product Description
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+Login Create Account Home Prescription Electronics COB Clean Octave Blend Fuzz Pedal Prescription Electronics COB Clean Octave Blend Fuzz Pedal Product Description
+(Clean Octave Blend) Octave fuzz effect with a "Blend" knob to blend clean signal with fuzz.
+For Clean Octave Tone: Use the neck pick-up on your guitar.
+
+## Sources checked
+1. Prescription C.O.B. Cl Octave – Motor City Guitar: https://motorcityguitar.com/products/prescription-electronics-cob-clean-octave-blend-fuzz-pedal
+2. Prescription Electronics COB Clean Octave Blend Fuzz Pedal - Clarinet Reeds with Balanced Tone and Durability: https://www.clarvixai.com/product/prescription-electronics-cob-clean-octave-blend-fuzz-pedal/
+3. Prescription Electronics COB Clean Octave Blend Fuzz Pedal - Meinl. Paiste. Zildjian. Dream. Turkish. The Cymbal Vault Is Open.: https://www.xcymbalvault.com/product/prescription-electronics-cob-clean-octave-blend-fuzz-pedal/
+4. Prescription Electronics COB Clean Octave Blend Fuzz Pedal | Pedals and Effects | acoguitar.com: https://www.acoguitar.com/product/prescription-electronics-cob-clean-octave-blend-fuzz-pedal/
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
