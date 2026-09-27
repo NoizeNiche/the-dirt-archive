@@ -90,9 +90,13 @@ function typeMatches(x){
 function searchMatches(x){
   if(!q)return true;
   const needle=q.toLowerCase();
+  const normalizedNeedle=normalizeSearchText(q);
   if(x.company.toLowerCase().includes(needle)||x.pedal.toLowerCase().includes(needle))return true;
-  if((variationSearchText.get(entryKey(x))||'').includes(needle))return true;
-  return String(facetRecords.get(entryKey(x))?.search||'').includes(needle);
+  if(normalizeSearchText(x.company).includes(normalizedNeedle)||normalizeSearchText(x.pedal).includes(normalizedNeedle))return true;
+  const variation=String(variationSearchText.get(entryKey(x))||'');
+  if(variation.includes(needle)||normalizeSearchText(variation).includes(normalizedNeedle))return true;
+  const facetSearch=String(facetRecords.get(entryKey(x))?.search||'');
+  return facetSearch.includes(needle)||normalizeSearchText(facetSearch).includes(normalizedNeedle);
 }
 
 function facetValues(x,group){
@@ -175,16 +179,20 @@ function builderRows(){
 function searchScore(x){
   if(!q)return 0;
   const needle=q.toLowerCase();
+  const normalizedNeedle=normalizeSearchText(q);
   const pedal=x.pedal.toLowerCase();
   const company=x.company.toLowerCase();
+  const normalizedPedal=normalizeSearchText(x.pedal);
+  const normalizedCompany=normalizeSearchText(x.company);
   const variation=(variationSearchText.get(entryKey(x))||'');
-  if(company===needle)return 0;
-  if(pedal===needle)return 1;
-  if(company.startsWith(needle))return 2;
-  if(pedal.startsWith(needle))return 3;
-  if(company.includes(needle))return 4;
-  if(pedal.includes(needle))return 5;
-  if(variation.includes(needle))return 6;
+  const normalizedVariation=normalizeSearchText(variation);
+  if(company===needle||normalizedCompany===normalizedNeedle)return 0;
+  if(pedal===needle||normalizedPedal===normalizedNeedle)return 1;
+  if(company.startsWith(needle)||normalizedCompany.startsWith(normalizedNeedle))return 2;
+  if(pedal.startsWith(needle)||normalizedPedal.startsWith(normalizedNeedle))return 3;
+  if(company.includes(needle)||normalizedCompany.includes(normalizedNeedle))return 4;
+  if(pedal.includes(needle)||normalizedPedal.includes(normalizedNeedle))return 5;
+  if(variation.includes(needle)||normalizedVariation.includes(normalizedNeedle))return 6;
   return 99;
 }
 
