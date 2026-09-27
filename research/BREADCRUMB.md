@@ -1,3 +1,13 @@
+## Beetronics deep-research checkpoint — September 27, 2026
+
+The continued deep-research pass expanded four source-rich Beetronics records using builder documentation:
+- **Fatbee Overdrive:** original JFET circuit, Howard Davis collaboration, Weight/Flavor/Honey controls, 9V center-negative power, true bypass, and Babee Series placement.
+- **Octahive V2 High Octave Buzz:** second-generation identity, BUZZZ/OCTAVE modes, Pre/Honey/Volume controls, smart footswitching behavior, 9V center-negative power, and documented high-octave fuzz character.
+- **Overhive Mid-Gain Overdrive:** Body/Hive voicing switches, Honey/Tone/Master controls, mid-gain architecture, and Blackbee Edition relationship.
+- **Swarm Fuzz Harmonizer:** analog square-wave fuzz harmonizer architecture, nine harmony intervals across two octaves, Worker/Species/Queen/Drone/Flight/Sting/Master controls, 9V center-negative power, true bypass, and gated-fuzz capability.
+
+The archive continues to leave exact transistor and diode part numbers unresolved wherever Beetronics does not publish them.
+
 ## Continued historical deep-research checkpoint — September 27, 2026
 
 A further exact-model research pass expanded the early-B catalog without relaxing identity controls:
