@@ -21,7 +21,7 @@ The historical reference does not provide a dependable complete external control
 
 ## Deep research verification
 
-The BJFE historical reference documents Dyna Blue Distortion as a **two-unit early run**, with the first unit containing an internal pot that was later exposed on top and evolved into the Sunset Wonder control arrangement. It describes the design as a dynamic, muscular distortion derived from the role occupied by Baby Blue Overdrive, but with substantially more distortion. Exact component-level details for the original Dyna Blue units are not established in the cited material. citeturn620002search1
+The BJFE historical reference documents Dyna Blue Distortion as a **two-unit early run**, with the first unit containing an internal pot that was later exposed on top and evolved into the Sunset Wonder control arrangement. It describes the design as a dynamic, muscular distortion derived from the role occupied by Baby Blue Overdrive, but with substantially more distortion. Exact component-level details for the original Dyna Blue units are not established in the cited material.
 
 ## Photo
 - **Archive status:** **No Photo Archived**
