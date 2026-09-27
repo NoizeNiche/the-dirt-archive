@@ -4,62 +4,59 @@
 - **Archive parent:** JD10 Compact Jerry Donahue Sessionmaster
 - **Builder:** Award-Session
 - **Catalog type:** Overdrive
-- **Identity:** Compact analog preamp/overdrive based around Jerry Donahue's direct-recording concept, combining Drive Depth, voicing switches, speaker simulation and three-band EQ.
+- **Identity:** Compact analog direct-recording preamp/overdrive built around Jerry Donahue's JD10 platform, with FlexiDrive-style voicing, G12T speaker simulation and Super-T EQ. [1][2]
 
 ## What this pedal is
-Effects Database documents the JD10 as a recordable stompbox version of Award-Session's earlier direct-recording preamp, first introduced in 1995. The compact unit combines Drive Depth, Rock/Classic, G12T/Norm, Treble, Middle, Bass and Output Level controls.
+Award-Session describes the JD10 as a re-focused, recordable stompbox version of its direct-recording guitar preamp first introduced in 1995. The compact design is intended to work as a normal overdrive/preamp and as a direct recording solution. [1]
 
-## Colorways
-- No reliable factory colorway chronology was verified.
-- Standard examples use a black metal enclosure; cosmetic variations are not established as circuit revisions.
+## Controls
+- **DRIVE DEPTH**
+- **ROCK / CLASSIC:** Selects alternate drive character.
+- **G12T / NORM:** Engages or bypasses the speaker-emulation function.
+- **TREBLE**
+- **MIDDLE**
+- **BASS**
+- **OUTPUT LEVEL** [1]
 
-## Versions and factory options
-### JD10 Compact
-- Drive Depth
-- Rock / Classic
-- G12T / Norm
-- Treble
-- Middle
-- Bass
-- Output Level
-- Analog signal path
-- G12T speaker-emulation function
+## Circuit / signal architecture
+- **100% analogue** architecture is documented by Award-Session.
+- **FlexiDrive:** Touch-sensitive distortion system intended to make the transition from clean to overdrive less abrupt than primitive solid-state clipping.
+- **G12T speaker simulation:** Provides a direct-recording speaker/cabinet response.
+- **Super-T EQ:** Expanded guitar-amplifier-style tone shaping. [1][2]
 
-## Version changes
-The compact JD10 is a re-focused stompbox form of the earlier direct-recording preamp concept. The later JD10 MkII is treated separately in the archive because it adds updated circuitry and additional outputs/features.
+## Active device
+- Exact transistor/op-amp part numbers are not publicly documented.
+- The archive does not infer a component recipe from the FlexiDrive name.
 
-## Transistor
-- **Technology:** Analog preamp/distortion architecture.
-- **Exact device:** Not publicly documented in the checked sources.
+## Diode / clipping
+- Exact clipping-diode arrangement is not publicly documented.
+- Award-Session's defining distortion technology is **FlexiDrive**, not a published diode specification. [2]
 
-## Diode
-- **Type:** Exact clipping-diode arrangement is not publicly documented.
+## Version relationship
+The compact JD10 is related to the earlier direct-recording JD10 platform. **JD10 MkII** is kept as a separate archive record because Award-Session documents it as the updated version with additional outputs/features. [1]
+
+## Power
+- The reviewed public sources do not preserve a complete single current/voltage specification for every JD10 production run.
 
 ## Sound
-JD10 is designed to cover clean-to-mean drive while also behaving as an amp-expander and direct-recording preamp. Classic/Rock changes the gain character, while G12T/Norm changes whether the speaker simulation is engaged.
+Award-Session positions the JD10 around classic American 4x10-style amplifier tones while extending the range into broader rock and higher-gain applications. The G12T switch is central to the direct-recording role, and Classic/Rock alters the distortion character. [1]
+
+## Research confidence
+- **Identity:** High
+- **Control set:** High
+- **FlexiDrive / G12T / Super-T architecture:** High
+- **Compact/direct-recording role:** High
+- **Exact active devices:** Unknown
+- **Exact diode:** Unknown
+- **Universal power specification:** Not established
+
+## Deep research verification
+The exact Effects Database record was checked with Award-Session's support/manual index. The evidence confirms the seven-control layout and the compact JD10's recordable-stompbox role. The support site also notes that some historical manuals and schematics were lost, so the archive does not fill missing component details by inference. [1][2]
 
 ## Sources checked
-1. Effects Database — Award-Session JD10: https://www.effectsdatabase.com/model/awardsession/jd10
-2. Award-Session manuals/support index: https://www.award-session.com/award-session_manuals.php
-3. Guitarist Magazine test reproduced online: https://www.diamondbottlenecks.com/images/NewsPage/GIT254_quick_test.pdf
+1. Effects Database — Award-Session JD10 Compact Jerry Donahue Sessionmaster: https://www.effectsdatabase.com/model/awardsession/jd10
+2. Award-Session Manuals / Support: https://www.award-session.com/award-session_manuals.php
 
 ## Photo
 - **Archive status:** **No Photo Archived**
-- **Exact-model reference checked:** https://www.effectsdatabase.com/model/awardsession/jd10
-- **Archive note:** Exact-model images exist in archival sources, but no stable archive asset is being promoted in this pass.
-
-## Deep research verification
-
-This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
-
-### Verified description
-Award-Session's JD10 Compact Jerry Donahue Sessionmaster is cataloged as an overdrive pedal.
-
-### Verified version references
-- The evidence references: MkII.
-
-### Verified sound evidence
-Primarilly modeled on the tone of those classic American 4x10" combos of the 50s and 60s revered by bluesmen the world over, this pedal goes way beyond to cover the full gambit of rock, nu-metal and nu-country tones.
-
-### Sources checked in this pass
-1. Award-Session JD10 Compact Jerry Donahue Sessionmaster | Effects Database: https://www.effectsdatabase.com/model/awardsession/jd10
+- **Exact-model reference checked:** Effects Database exact-model record.
