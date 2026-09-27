@@ -42,3 +42,6 @@ Historical family sources identify Pro Traffic as a private-label version; exact
 ## Sources checked
 1. Kit Rae - A Fuzz and Muff Pedal Timeline: https://www.kitrae.net/music/Fuzz_Big_Muff_Timeline.html
 2. Premier Guitar - The Mighty Tone Bender Fuzz: https://www.premierguitar.com/gear/fifty-years-of-filth-the-story-of-the-mighty-tone-bender-fuzz?page=2
+## Deep research verification
+
+Historical Sola Sound/Colorsound references place Pro Traffic Fuzz Unit among the late-1970s **private-label silicon Jumbo Tone Bender family**. The family commonly uses **Volume, Sustain and Tone** controls. Pro Traffic is retained as a separate catalog identity because the private-label branding is historically distinct, while enclosure and label differences are treated as variants rather than new circuits unless stronger evidence shows otherwise. Exact Pro Traffic transistor and diode part numbers remain unknown.
