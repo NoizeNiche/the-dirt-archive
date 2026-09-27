@@ -19,3 +19,6 @@ The official historical page does not expose a complete control legend, schemati
 
 ## Photo
 - Exact photo pending.
+## Deep research verification
+
+Black CAT Amps' official company history identifies **METAL CORE** as its first guitar pedal. Development began in November 2016 and the first pedal was released on **November 30, 2017**. The surviving historical source does not provide a reliable complete control legend or component list, so those details remain unknown.
