@@ -29347,6 +29347,114 @@
     },
     {
       "company": "Darkglass Electronics",
+      "pedal": "ADAM Aggressively Distorting Advanced Machine",
+      "types": [
+        "Distortion"
+      ],
+      "image": "",
+      "source_page": "https://www.effectsdatabase.com/model/darkglass/adam",
+      "research_record": "",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Darkglass Electronics",
+      "pedal": "Alpha Omicron",
+      "types": [
+        "Overdrive"
+      ],
+      "image": "",
+      "source_page": "https://www.effectsdatabase.com/model/darkglass/alphaomicron",
+      "research_record": "",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Darkglass Electronics",
+      "pedal": "Alpha-Omega",
+      "types": [
+        "Overdrive"
+      ],
+      "image": "",
+      "source_page": "https://www.effectsdatabase.com/model/darkglass/alphaomega",
+      "research_record": "",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Darkglass Electronics",
+      "pedal": "Alpha-Omega Photon",
+      "types": [
+        "Distortion"
+      ],
+      "image": "",
+      "source_page": "https://www.effectsdatabase.com/model/darkglass/alphaomegaphoton",
+      "research_record": "",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Darkglass Electronics",
+      "pedal": "Alpha-Omega Ultra",
+      "types": [
+        "Overdrive"
+      ],
+      "image": "",
+      "source_page": "https://www.effectsdatabase.com/model/darkglass/alphaomegaulta",
+      "research_record": "",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Darkglass Electronics",
+      "pedal": "DFZ Duality Fuzz Pedal v2",
+      "types": [
+        "Fuzz"
+      ],
+      "image": "",
+      "source_page": "https://www.effectsdatabase.com/model/darkglass/duality/dfz",
+      "research_record": "",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Darkglass Electronics",
+      "pedal": "Duality",
+      "types": [
+        "Fuzz"
+      ],
+      "image": "",
+      "source_page": "https://www.effectsdatabase.com/model/darkglass/duality",
+      "research_record": "",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Darkglass Electronics",
+      "pedal": "Kaamos",
+      "types": [
+        "Distortion"
+      ],
+      "image": "",
+      "source_page": "https://www.effectsdatabase.com/model/darkglass/kaamos",
+      "research_record": "",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Darkglass Electronics",
+      "pedal": "Microtubes B1K",
+      "types": [
+        "Overdrive"
+      ],
+      "image": "",
+      "source_page": "https://www.effectsdatabase.com/model/darkglass/microtubes/b1k",
+      "research_record": "",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Darkglass Electronics",
       "pedal": "Microtubes B3K",
       "types": [
         "Overdrive"
@@ -29359,6 +29467,30 @@
     },
     {
       "company": "Darkglass Electronics",
+      "pedal": "Microtubes B7K Analog Bass Preamp",
+      "types": [
+        "Overdrive"
+      ],
+      "image": "",
+      "source_page": "https://www.effectsdatabase.com/model/darkglass/microtubes/b7k",
+      "research_record": "",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Darkglass Electronics",
+      "pedal": "Microtubes B7K Ultra",
+      "types": [
+        "Overdrive"
+      ],
+      "image": "",
+      "source_page": "https://www.effectsdatabase.com/model/darkglass/microtubes/b7kultra",
+      "research_record": "",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Darkglass Electronics",
       "pedal": "Microtubes Infinity",
       "types": [
         "Distortion"
@@ -29368,6 +29500,78 @@
       "research_record": "./research/pedals/Darkglass Electronics/Microtubes Infinity.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "Darkglass Electronics",
+      "pedal": "Microtubes Vintage",
+      "types": [
+        "Overdrive"
+      ],
+      "image": "",
+      "source_page": "https://www.effectsdatabase.com/model/darkglass/microtubes/vintage",
+      "research_record": "",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Darkglass Electronics",
+      "pedal": "Microtubes Vintage Deluxe",
+      "types": [
+        "Overdrive"
+      ],
+      "image": "",
+      "source_page": "https://www.effectsdatabase.com/model/darkglass/microtubes/vintagedeluxe",
+      "research_record": "",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Darkglass Electronics",
+      "pedal": "Microtubes X",
+      "types": [
+        "Distortion"
+      ],
+      "image": "",
+      "source_page": "https://www.effectsdatabase.com/model/darkglass/microtubes/x",
+      "research_record": "",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Darkglass Electronics",
+      "pedal": "Microtubes X Ultra",
+      "types": [
+        "Distortion"
+      ],
+      "image": "",
+      "source_page": "https://www.effectsdatabase.com/model/darkglass/microtubes/xultra",
+      "research_record": "",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Darkglass Electronics",
+      "pedal": "Microtubes X7",
+      "types": [
+        "Distortion"
+      ],
+      "image": "",
+      "source_page": "https://www.effectsdatabase.com/model/darkglass/microtubes/x7",
+      "research_record": "",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Darkglass Electronics",
+      "pedal": "Vintage Ultra",
+      "types": [
+        "Overdrive"
+      ],
+      "image": "",
+      "source_page": "https://www.effectsdatabase.com/model/darkglass/vintageultra",
+      "research_record": "",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
     },
     {
       "company": "DeadastronautFX",
@@ -32948,6 +33152,18 @@
     },
     {
       "company": "Effectrode",
+      "pedal": "Helios",
+      "types": [
+        "Fuzz"
+      ],
+      "image": "",
+      "source_page": "https://www.effectsdatabase.com/model/effectrode/helios",
+      "research_record": "",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Effectrode",
       "pedal": "Mercury Tube Fuzz",
       "types": [
         "Fuzz"
@@ -34330,6 +34546,90 @@
       "research_record": "./research/pedals/Fortin/Natas Distortion.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "Fortin Amplification",
+      "pedal": "Fourteen",
+      "types": [
+        "Overdrive"
+      ],
+      "image": "",
+      "source_page": "https://www.effectsdatabase.com/model/fortin/fourteen",
+      "research_record": "",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Fortin Amplification",
+      "pedal": "Fuzz )))",
+      "types": [
+        "Fuzz"
+      ],
+      "image": "",
+      "source_page": "https://quanta-brands.jp/fortin-amplification/products/",
+      "research_record": "",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Fortin Amplification",
+      "pedal": "Hexdrive",
+      "types": [
+        "Overdrive"
+      ],
+      "image": "",
+      "source_page": "https://quanta-brands.jp/fortin-amplification/products/",
+      "research_record": "",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Fortin Amplification",
+      "pedal": "Kali",
+      "types": [
+        "Distortion"
+      ],
+      "image": "",
+      "source_page": "https://www.effectsdatabase.com/model/fortin/kali",
+      "research_record": "",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Fortin Amplification",
+      "pedal": "Meshuggah",
+      "types": [
+        "Distortion"
+      ],
+      "image": "",
+      "source_page": "https://quanta-brands.jp/fortin-amplification/products/",
+      "research_record": "",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Fortin Amplification",
+      "pedal": "Natas Distortion",
+      "types": [
+        "Distortion"
+      ],
+      "image": "",
+      "source_page": "https://www.effectsdatabase.com/model/fortin/natas",
+      "research_record": "",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Fortin Amplification",
+      "pedal": "NATAS Limited Color",
+      "types": [
+        "Distortion"
+      ],
+      "image": "",
+      "source_page": "https://quanta-brands.jp/fortin-amplification/products/",
+      "research_record": "",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
     },
     {
       "company": "Foxgear",
