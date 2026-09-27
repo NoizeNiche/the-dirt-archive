@@ -14,10 +14,44 @@ The Dirt Archive currently catalogs **Tuna Fuzz** by **Beetronics** as a **Fuzz*
 ## Catalog source
 - Catalog source page on file: https://www.beetronicsfx.com/collections/all-pedals-1
 
-## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
+## Deep research verification
 
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+This pass uses Beetronics' exact-model Tuna Fuzz documentation.
+
+### Verified description
+
+The **Tuna Fuzz** is a **three-transistor fuzz** built in a real tuna-can-style enclosure. Beetronics states that it shares some similarities with Octahive while producing a different tonal result.
+
+### Verified controls and hardware
+
+- **STINKER** knob functions as the master volume.
+- Guitar volume can be used as the effective gain control, letting the fuzz clean up substantially as the guitar volume is rolled back.
+- True bypass.
+- Beetronics advises against placing a buffer before the Tuna.
+- The PCB mounts most components directly to help reinforce the can-style enclosure.
+
+### Verified version references
+
+- Beetronics has produced standard Tuna Fuzz units plus limited-edition and custom-finish variants.
+- The archive treats those can/finish variants as subordinate editions unless evidence establishes different electronics.
+
+### Verified transistor/device terms
+
+- **Three-transistor fuzz:** explicitly documented.
+- Exact transistor part numbers: Unknown.
+
+### Verified diode terms
+
+- Exact clipping/rectifier diode: Unknown.
+
+### Verified sound evidence
+
+Beetronics describes Tuna as loud, very dynamic, vintage-fuzz-like, and responsive to guitar-volume cleanup. The builder notes that its tonal behavior can differ noticeably from Octahive despite some circuit-family similarity.
+
+### Sources checked in this pass
+
+1. Beetronics — Tuna Fuzz: https://www.beetronicsfx.com/products/tuna-fuzz
+2. Beetronics — Tuna Fuzz Silver BEE STOCK: https://www.beetronicsfx.com/products/tuna-fuzz-silver-beestock
+
+## Photo
+- **Archive status:** **Exact Photo Pending**
