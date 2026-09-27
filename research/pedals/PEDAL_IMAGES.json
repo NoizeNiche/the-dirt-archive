@@ -4569,6 +4569,13 @@
   },
   {
     "builder": "Big Ear NYC",
+    "pedal": "More More More",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/updates/weekly/20140804",
+    "research_record": "./research/pedals/Big Ear NYC/More More More.md"
+  },
+  {
+    "builder": "Big Ear NYC",
     "pedal": "Slice Of Pie",
     "image": "./assets/pedals/big-ear-nyc/slice-of-pie/primary.webp",
     "source_page": null,
@@ -4590,6 +4597,13 @@
     "source_page": null,
     "research_record": "./research/pedals/PRP Batch 081/Woodcutter NYC.md",
     "source": "verified research source"
+  },
+  {
+    "builder": "Big Ear Pedals",
+    "pedal": "Luck Drive",
+    "image": null,
+    "source_page": "https://www.bigearpedals.com/post/making-of-the-luck-drive-for-luck-reunion-2019",
+    "research_record": "./research/pedals/Big Ear Pedals/Luck Drive.md"
   },
   {
     "builder": "Big Game Pedals",
