@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-27T04:15:29.042488+00:00",
+  "generated_at": "2026-09-27T04:24:13.425043+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,191 +10,191 @@
     "pictured": 3040,
     "complete": 3040,
     "research_pending": 0,
-    "deep_research_pending": 1869,
-    "deep_researched": 1892,
+    "deep_research_pending": 1844,
+    "deep_researched": 1917,
     "surface_ready": 3761
   },
   "next_target": {
-    "builder": "Bias",
-    "pedal": "BDS-1 Distortion",
+    "builder": "Big John Effects",
+    "pedal": "Granny Puker",
     "catalog_type": "",
-    "research_record": "./research/pedals/PRP Batch 080/BDS-1 Distortion.md",
+    "research_record": "./research/pedals/PRP Batch 082/Granny Puker.md",
     "research_level": "surface"
   },
   "working_set": [
     {
-      "builder": "Bias",
-      "pedal": "BDS-1 Distortion",
+      "builder": "Big John Effects",
+      "pedal": "Granny Puker",
       "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 080/BDS-1 Distortion.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Bias",
-      "pedal": "Bias Distortion",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 080/Bias Distortion.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Bias",
-      "pedal": "Bias Over Drive",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 080/Bias Over Drive.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Big Bite Fx",
-      "pedal": "Big Bite",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 080/Big Bite.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Big Ear",
-      "pedal": "Black Betty",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 080/Black Betty.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Big Ear",
-      "pedal": "LOAF",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 080/LOAF.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Big Ear",
-      "pedal": "Slice of Pie",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 081/Slice of Pie.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Big Ear",
-      "pedal": "Woodcutter",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 081/Woodcutter.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Big Ear NYC",
-      "pedal": "Black Betty",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 081/Black Betty.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Big Ear NYC",
-      "pedal": "Frank",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 081/Frank.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Big Ear NYC",
-      "pedal": "Slice Of Pie",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 081/Slice Of Pie.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Big Ear NYC",
-      "pedal": "The LOAF Fuzz",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 081/The LOAF Fuzz.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Big Ear NYC",
-      "pedal": "Woodcutter",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 081/Woodcutter NYC.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Big Game Pedals",
-      "pedal": "Bedlam Drive III",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 081/Bedlam Drive III.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Big Game Pedals",
-      "pedal": "Everything is Alive - Modulated Resonant Fuzz",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 081/Everything is Alive - Modulated Resonant Fuzz.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Big Game Pedals",
-      "pedal": "FY-2 Fuzz",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 081/FY-2 Fuzz.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Big Game Pedals",
-      "pedal": "Nothing Is Dead Fuzz",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 082/Nothing Is Dead Fuzz.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Big Game Pedals",
-      "pedal": "Solace State",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 082/Solace State.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Big Joe Stomp Box Company",
-      "pedal": "B-301 Tube",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 082/B-301 Tube.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Big Joe Stomp Box Company",
-      "pedal": "B-309 Texas Screamer",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 082/B-309 Texas Screamer.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Big Joe Stomp Box Company",
-      "pedal": "B-502 Empire",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 082/B-502 Empire.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Big Joe Stomp Box Company",
-      "pedal": "R-402 Classic",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 082/R-402 Classic.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Big Joe Stomp Box Company",
-      "pedal": "R-403 Vintage",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 082/R-403 Vintage.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Big Joe Stomp Box Company",
-      "pedal": "R-404 Vintage II",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 082/R-404 Vintage II.md",
+      "research_record": "./research/pedals/PRP Batch 082/Granny Puker.md",
       "research_level": "surface"
     },
     {
       "builder": "Big John Effects",
-      "pedal": "Dirty Sandwich",
+      "pedal": "Hairy Balls",
       "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 082/Dirty Sandwich.md",
+      "research_record": "./research/pedals/PRP Batch 083/Hairy Balls.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Big John Effects",
+      "pedal": "Lil' John series",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 083/Lil' John series.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Big John Effects",
+      "pedal": "Obama Wah",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 083/Obama Wah.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Big John Effects",
+      "pedal": "Pocket Rocket",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 083/Pocket Rocket.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Big Knob Pedals",
+      "pedal": "Appetite for Distortion",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 083/Appetite for Distortion.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Big Knob Pedals",
+      "pedal": "Black Metallic",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 083/Black Metallic.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Big Knob Pedals",
+      "pedal": "Blues Buster",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 083/Blues Buster.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Big Knob Pedals",
+      "pedal": "Bushy Bison",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 083/Bushy Bison.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Big Knob Pedals",
+      "pedal": "Civil Warp",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 083/Civil Warp.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Big Knob Pedals",
+      "pedal": "Colour Jumbo",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 083/Colour Jumbo.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Big Knob Pedals",
+      "pedal": "Creamy Pi",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 083/Creamy Pi.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Big Knob Pedals",
+      "pedal": "D OverDrive 250",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 083/D OverDrive 250.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Big Knob Pedals",
+      "pedal": "Fuzz Barn",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 083/Fuzz Barn.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Big Knob Pedals",
+      "pedal": "Fuzz Space",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 083/Fuzz Space.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Big Knob Pedals",
+      "pedal": "Game of Tones",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 083/Game of Tones.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Big Knob Pedals",
+      "pedal": "Green Russian",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 083/Green Russian.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Big Knob Pedals",
+      "pedal": "Guv'nator",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 083/Guv'nator.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Big Knob Pedals",
+      "pedal": "I.C.B.M",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 083/I.C.B.M.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Big Monk Electronic Device Co.",
+      "pedal": "Monk Boost",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 085/Monk Boost.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Big Tone Music Brewery",
+      "pedal": "BTMB Overdrive",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 085/BTMB Overdrive.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Big Tone Music Brewery",
+      "pedal": "Classic Distortion",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 085/Classic Distortion.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Big Tone Music Brewery",
+      "pedal": "Classic Overdrive+",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 085/Classic Overdrive+.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Big Tone Music Brewery",
+      "pedal": "Germanium FuzzBender",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 086/Germanium FuzzBender.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Big Tone Music Brewery",
+      "pedal": "Parametric Overdrive",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 086/Parametric Overdrive.md",
       "research_level": "surface"
     }
   ]
