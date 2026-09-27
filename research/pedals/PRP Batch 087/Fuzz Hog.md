@@ -12,3 +12,5 @@ https://www.effectsdatabase.com/model/bigfoot/fuzzhog
 
 ## Archive photo
 - **Archive status:** **No Photo Archived**
+## Deep research verification
+The cited Effects Database record identifies Fuzz Hog as an original Bigfoot F.X. fuzz rather than a clone. Verified controls are **Volume** and **Gain**; the design uses carefully biased silicon transistors, responds strongly to picking dynamics, cleans up from the guitar volume control, and supports 9V battery or adapter power with centre-negative barrel jack and true bypass. The builder describes a fat square-wave character suitable for lead and rhythm work.
