@@ -1,23 +1,42 @@
 # Way Huge — Geisha Drive
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Geisha Drive
 - **Builder:** Way Huge
-- **Pedal:** Geisha Drive
 - **Catalog type:** Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Way Huge's Geisha Drive.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Geisha Drive** by **Way Huge** as a **Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+The Way Huge Smalls Geisha Drive is a special limited edition offering featuring colorful artwork with Japanese katakana writing.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- The Way Huge Smalls Geisha Drive is a special limited edition offering featuring colorful artwork with Japanese katakana writing.
+- Way Huge Electronics Smalls Geisha Drive WM32 Effects Pedal White
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+WAY HUGE® SMALLS™ GEISHA DRIVE Toggle menu Compare
+The Way Huge Smalls Geisha Drive creates a wide range of dynamic, touch-sensitive tones that can be dialed in from overdrive to distortion territory by adjusting your guitar’s volume knob.
+At low Drive settings, you'll get a warm, buttery goodness with a bit of velvet around the edges.
+
+## Sources checked
+1. Way Huge WM32B Smalls Geisha Drive - Reverb: https://reverb.com/p/way-huge-wm32b-smalls-geisha-drive
+2. WAY HUGE® SMALLS™ GEISHA DRIVE: https://www.jimdunlop.com/way-huge-smalls-geisha-drive/
+3. Way Huge Smalls Geisha Drive Pedal | Equipboard: https://equipboard.com/items/way-huge-smalls-geisha-drive-pedal
+4. Way Huge Electronics Smalls Geisha Drive WM32 Effects Pedal White | Guitar Center: https://www.guitarcenter.com/Way-Huge-Electronics/Smalls-Geisha-Drive-WM32-Effects-Pedal-White-1500000421598.gc
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

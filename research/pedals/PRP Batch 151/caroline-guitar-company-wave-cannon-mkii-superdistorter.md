@@ -16,3 +16,22 @@
 - **Sources checked:**
   - https://carolineguitar.com/product/wave-cannon-mkii/
   - https://www.effectsdatabase.com/model/caroline/wavecanon/mk2
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+The long story short is that this thing is an unrepentant, unapologetic distortion pedal that is totally nasty and fun.
+
+### Verified version references
+- The evidence references: MK2, MKII, MkII, version 2.
+
+### Verified sound evidence
+The long story short is that this thing is an unrepentant, unapologetic distortion pedal that is totally nasty and fun.
+This Cannon comes pre-loaded with balls (pun alert!) and is capable of going from cranked, lightly dirty amp tones to the sound of a furry Godzilla devouring a junkyard full of broken a/c window units.
+It's different from our Haymaker, which is a wide range drive pedal based around the rotation of a clipping network into different locations in the circuit, and which is intended to respond and feel like an extension of your amp.
+
+### Sources checked in this pass
+1. Caroline Guitar Company Wave Cannon MKII Superdistorter Effects Pedal: https://www.millrivermusic.com/effects-and-pedals/distortion/caroline-guitar-company-wave-cannon-mkii-superdistorter-effects-pedal-15058
+2. Caroline Guitar Company Wave Cannon MkII Superdistorter | Effects Database: https://www.effectsdatabase.com/model/caroline/wavecanon/mk2
