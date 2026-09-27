@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-27T12:02:12.476090+00:00",
+  "generated_at": "2026-09-27T12:03:56.394850+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,8 +10,8 @@
     "pictured": 3159,
     "complete": 3159,
     "research_pending": 0,
-    "deep_research_pending": 588,
-    "deep_researched": 3654,
+    "deep_research_pending": 577,
+    "deep_researched": 3665,
     "surface_ready": 4242
   },
   "next_target": {
@@ -108,13 +108,6 @@
     },
     {
       "builder": "Devi Ever : FX",
-      "pedal": "Torn's Peaker",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Devi Ever : FX/Torn's Peaker.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Devi Ever : FX",
       "pedal": "Tri-Fuzz",
       "catalog_type": "",
       "research_record": "./research/pedals/Devi Ever : FX/Tri-Fuzz.md",
@@ -195,6 +188,13 @@
       "pedal": "None promoted in this block",
       "catalog_type": "",
       "research_record": "./research/pedals/Dirty Boy/None promoted in this block.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Dirty Boy Pedals / Dirty Boy Co.",
+      "pedal": "JUNIOR DB Fuzz / Dirty Boy Jr. Fuzz",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Dirty Boy Pedals / Dirty Boy Co./JUNIOR DB Fuzz / Dirty Boy Jr. Fuzz.md",
       "research_level": "surface"
     }
   ]

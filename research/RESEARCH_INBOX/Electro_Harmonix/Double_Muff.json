@@ -1,0 +1,73 @@
+{
+  "builder": "Electro-Harmonix",
+  "pedal": "Double Muff",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 8,
+  "sources": [
+    {
+      "url": "https://reverb.com/p/electro-harmonix-double-muff",
+      "title": "Electro-Harmonix Double Muff Fuzz / Overdrive Pedal - Reverb",
+      "h1": "",
+      "excerpt": "",
+      "host": "reverb.com",
+      "source_kind": "reverb"
+    },
+    {
+      "url": "https://www.sweetwater.com/store/detail/DoubleMuff--electro-harmonix-double-muff-fuzz-overdrive-pedal",
+      "title": "Electro-Harmonix Double Muff Fuzz / Overdrive Pedal | Sweetwater",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.sweetwater.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://equipboard.com/items/electro-harmonix-double-muff",
+      "title": "Electro-Harmonix Double Muff \u2014 Fuzz Pedal | Equipboard",
+      "h1": "",
+      "excerpt": "",
+      "host": "equipboard.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://www.ebay.com/sch/i.html?_nkw=Electro-Harmonix+Double+Muff&_sop=12",
+      "title": "Electro-Harmonix Double Muff for sale | eBay",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.ebay.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://www.effectsdatabase.com/model/eh/doublemuff",
+      "title": "Electro-Harmonix Double Muff - Effects Database",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.effectsdatabase.com",
+      "source_kind": "effects_database"
+    },
+    {
+      "url": "https://www.ehx.com/wp-content/uploads/2021/01/double-muff-manual.pdf",
+      "title": "PDF DOUBLE MUFF Harmonix retailer. Repaired or replaced ... - Electro-Harmonix",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.ehx.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://manuals.plus/electro-harmonix/double-muff-classic-dual-muff-overdrive-manual",
+      "title": "electro-harmonix DOUBLE MUFF Classic Dual Muff Overdrive User Manual ...",
+      "h1": "",
+      "excerpt": "",
+      "host": "manuals.plus",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://manualzz.com/doc/13475011/electro-harmonix-double-muff-overdrive-user-manual",
+      "title": "Electro-Harmonix Double Muff Manual | AI Chat | Manualzz",
+      "h1": "",
+      "excerpt": "",
+      "host": "manualzz.com",
+      "source_kind": "other"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}

@@ -1,37 +1,39 @@
 # Devi Ever : FX — Torn's Peaker
 
 ## PRP identity
+- **Archive parent:** Torn's Peaker
 - **Builder:** Devi Ever : FX
 - **Catalog type:** Fuzz
-- **Identity:** Torn's Peaker, a silicon fuzz with a deliberately rough, compressed character.
+- **Identity:** Devi Ever : FX's Torn's Peaker.
 
 ## What this pedal is
-Devi Ever's surviving product page describes Torn's Peaker as fuzz built around grime, compression and unstable distortion, with a crunchier voice than the smoother Soda Meiser.
+The Torn's Peaker (the name is a spoonerism of 'Torn Speaker') is a silicon-based fuzz that leans toward heavy overdrive territory.
 
-## Controls / circuit
-- **Volume:** output level with substantial gain available.
-- **Texture:** sweeps from clangy high end toward heavier low-end response.
-- A later version is documented with metal knobs, side-mounted jacks and top-mounted power.
-- PedalFilter records a silicon fuzz and 9V DC power.
-- Exact silicon device and clipping components: Unknown.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Documented terms in the verified sources: Germanium Fuzz.
+- The archive records only the component information explicitly present in these sources.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
 
 ## Sound
-The builder describes thick distortion and aggressive fuzz with deliberate imperfections and compression. The surviving descriptions place it comfortably in heavy rock, metal and other high-gain fuzz contexts.
-
-## Version evidence
-The builder's later-version description documents the physical changes above. The archive keeps those details version-specific rather than applying them to every historical Torn's Peaker.
-
-## Research confidence
-- **Identity:** High.
-- **Silicon fuzz classification:** High.
-- **Volume / Texture controls:** High.
-- **Later-version physical details:** High.
-- **Exact silicon device:** Unknown.
+Torn's Peaker (125B) — Devi Ever: FX Fuzz Pedal
+© 2026 PedalFilter Clear Compare ( 0 ) Back Home Devi Ever: FX Torn's Peaker (125B) Back to results Devi Ever: FX Torn's Peaker (125B) Fuzz Silicon fuzz with crunchy overdrive character in larger 125B enclosure, ideal for shoegaze and stoner metal.
+Devi Ever has been building boutique guitar pedals by hand since 2003, creating some of the most sought-after fuzz tones used by artists like My Bloody Valentine, Nine Inch Nails, and Wilco.
 
 ## Sources checked
-1. Devi Ever FX - Torn's Peaker: https://deviever.net/products/devi-ever-fx-torns-peaker
-2. PedalFilter - Devi Ever FX Torn's Peaker (125B): https://pedalfilter.com/devi-ever-fx/torn-s-peaker-125b
+1. Torn's Peaker (125B) — Devi Ever: FX Fuzz Pedal | PedalFilter | PedalFilter: https://pedalfilter.com/devi-ever-fx/torn-s-peaker-125b
+2. Devi Ever FX Torn's Peaker &ndash; DeviEverFX: https://deviever.net/products/devi-ever-fx-torns-peaker
 
 ## Photo
-- **Archive status:** Exact Photo Pending
-- No local canonical image was promoted in this pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

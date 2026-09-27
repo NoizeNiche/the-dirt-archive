@@ -1,23 +1,42 @@
 # Retro Mechanical Labs — Mig Fuzz SE
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Mig Fuzz SE
 - **Builder:** Retro Mechanical Labs
-- **Pedal:** Mig Fuzz SE
 - **Catalog type:** Fuzz
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Retro Mechanical Labs's Mig Fuzz SE.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Mig Fuzz SE** by **Retro Mechanical Labs** as a **Fuzz** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Mig Fuzz SE Share: November 24, 2024 The Mig Fuzz Special Edition Price: $299 Domestic shipping: $free International Shipping: $35 (I will invoice you separately for the shipping) ***International shipping is a flat rate.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+Mig Fuzz SE – Retro Mechanical Labs RMLfx 2026 Site not run by AI.
+Recent Posts Electron Fuzz Custom GPI (Guitar Pedal Interface) 432k Rev2.1 Distortion Electron Fuzz Custom (Retro) EFC Studio Random thoughts: Make the world a better place with your music.
+Mig Fuzz SE Share: November 24, 2024 The Mig Fuzz Special Edition Price: $299 Domestic shipping: $free International Shipping: $35 (I will invoice you separately for the shipping) ***International shipping is a flat rate.
+
+## Sources checked
+1. Mig Fuzz SE – Retro Mechanical Labs: https://rmlfx.com/mig-fuzz-se/
+2. Mig Fuzz SE — Retro Mechanical Labs (RMLfx) | ModularBase: https://modularbase.org/modules/retro-mechanical-labs-rmlfx-mig-fuzz-se
+3. Retro Mechanical Labs Mig Fuzz SE - Reverb: https://reverb.com/item/86855039-retro-mechanical-labs-mig-fuzz-se
+4. Retro Mechanical Labs - Mig Fuzz SE - SchneidersLaden: https://schneidersladen.de/en/retro-mechanical-labs-rmlfx-mig-fuzz-se
+5. Retro Mechanical Labs (RMLfx) - Mig Fuzz SE - dj-audio.com: https://www.dj-audio.com/product/retro-mechanical-labs-rmlfx-mig-fuzz-se/
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
