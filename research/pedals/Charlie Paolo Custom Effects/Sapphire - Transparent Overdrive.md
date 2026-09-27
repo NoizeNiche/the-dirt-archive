@@ -4,38 +4,58 @@
 - **Archive parent:** Sapphire - Transparent Overdrive
 - **Builder:** Charlie Paolo Custom Effects
 - **Catalog type:** Overdrive
-- **Identity:** Charlie Paolo Custom Effects Sapphire Transparent Overdrive, a transparent overdrive with four selectable clipping modes.
+- **Identity:** Handmade analog transparent overdrive with four selectable clipping configurations: Open, Silicon, Germanium and LED. [1]
 
-## What this pedal is
-Charlie Paolo's Sapphire is documented as a transparent overdrive intended for clear, crisp rhythm and lead sounds. It adds four selectable clipping options rather than relying on a single fixed clipping arrangement. [1]
+## Clipping / architecture
+### OPEN
+- No fixed hard-clipping option.
+- Described as fuller and more open.
 
-The documented clipping choices are **Open, Silicon, Germanium, and LED**. [1]
+### SILICON
+- Harder/direct clipping with increased sustain.
 
-## Colorways
-No complete factory colorway sequence was established in the checked sources.
+### GERMANIUM
+- Smoother, punchier clipping.
 
-## Versions and factory options
-The four clipping modes are:
-- **Open:** fat and full with substantial push.
-- **Silicon:** hard/direct clipping with increased sustain.
-- **Germanium:** smooth and punchy.
-- **LED:** a blend of silicon-like bite and germanium-like smoothness. [1]
+### LED
+- Combines additional bite with a smoother overall character. [1]
 
-The pedal is handmade, analog, and true bypass. [1]
+## Controls / operation
+- Transparent overdrive platform.
+- Four selectable clipping modes.
+- Handmade analog construction.
+- True bypass. [1]
 
-No formal numbered factory V1/V2 sequence was established.
-
-## Version changes
-No reliable numbered revision history was found.
+The exact external knob labels are not fully preserved by the reviewed source.
 
 ## Transistor
-No exact-model transistor specification was established in the checked sources.
+- Exact production transistor/device part numbers are not publicly documented.
 
-## Diode
-The builder explicitly documents four clipping arrangements based on **no fixed clipping/open**, **silicon**, **germanium**, and **LED** clipping. Exact semiconductor part numbers were not established. [1]
+## Diode / clipping
+- **Four clipping arrangements:** open, silicon, germanium, LED.
+- Exact semiconductor part numbers are not established. [1]
+
+## Power
+- Exact model-specific voltage/current details are not securely preserved.
+
+## Version history
+- No numbered factory electronic revision established.
 
 ## Sound
-The Sapphire is designed to remain clear and punchy while letting the user change clipping character. The Open setting emphasizes a fuller, more open overdrive, Silicon adds harder clipping and sustain, Germanium smooths the response, and LED combines smoothness with additional bite. [1]
+The four clipping settings move the pedal from fuller/open overdrive to harder silicon, smoother germanium and brighter LED behavior. The design is intended to remain clear and transparent while allowing the clipping texture to change substantially. [1]
+
+## Research confidence
+- **Identity:** High
+- **Four clipping modes:** High
+- **Handmade analog:** High
+- **True bypass:** High
+- **Exact semiconductor devices:** Unknown
+
+## Deep research verification
+Delicious Audio's exact-model coverage was checked directly. It supplies the four clipping modes and their intended response differences, as well as handmade analog/true-bypass construction. [1]
 
 ## Sources checked
-1. Delicious Audio — Charlie Paolo Custom Effects Sapphire Transparent Overdrive: https://delicious-audio.com/charlie-paolo-custom-effects-sapphire-transparent-overdrive/
+1. Delicious Audio — Charlie Paolo Sapphire Transparent Overdrive: https://delicious-audio.com/charlie-paolo-custom-effects-sapphire-transparent-overdrive/
+
+## Photo
+- Exact-model photo status remains handled separately.
