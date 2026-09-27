@@ -4,38 +4,65 @@
 - **Archive parent:** El Gato Malo
 - **Builder:** Champion City Effects
 - **Catalog type:** Distortion
-- **Identity:** Champion City Effects El Gato Malo, an expanded LM308-based distortion with six clipping options and buffered clean blend.
+- **Identity:** Modified LM308 distortion with buffered clean blend and six selectable clipping configurations. [1][2]
 
-## What this pedal is
-RockBoard PedalPedia and an exact-model Reverb listing document the El Gato Malo as Champion City Effects' heavily modified take on a classic black LM308-based distortion. The builder retains a NOS LM308 IC but substantially changes the circuit, increases low-end response, and adds a buffered clean blend for bass use. [1][2]
+## Circuit / architecture
+- Central active device: **NOS LM308** IC.
+- Increased low-frequency response.
+- Buffered clean blend.
+- Six-position clipping selector:
+  1. NOS Silicon
+  2. NOS Germanium
+  3. Asymmetrical Silicon/Germanium
+  4. MOSFET
+  5. Asymmetrical LED/Germanium
+  6. LED [1]
 
-## Colorways
-- A 2016 exact-model Reverb example is documented as **metallic blue** with acid-engraved graphics. [2]
-- A complete factory colorway sequence was not established.
+## Controls / features
+- Six-position clipping selector.
+- Buffered clean blend.
+- Classic LM308-style distortion control set.
+- Exact complete printed control map is not fully preserved in the reviewed source, so missing labels are not reconstructed. [1][2]
 
-## Versions and factory options
-The distinguishing feature is a **six-position clipping selector** with:
-- NOS Silicon
-- NOS Germanium
-- Asymmetrical Silicon/Germanium
-- MOSFET
-- Asymmetrical LED/Germanium
-- LED [1]
+## Circuit lineage
+- **Primary family:** LM308/RAT-style distortion.
+- Champion City describes the design as a substantially modified take on a classic LM308 distortion rather than a literal untouched RAT clone. [1]
 
-The design also adds a buffered clean blend and increased low-frequency response for bass use. [1][2]
+## Transistor / active device
+- **NOS LM308** op-amp is explicitly documented. [1][2]
 
-## Version changes
-The builder explicitly describes this as a substantially modified take on the classic LM308 distortion rather than a part-for-part recreation. The exact-model evidence does not establish a numbered V1/V2 history.
+## Diode / clipping
+- Six selectable clipping families are explicitly documented as above.
+- Exact individual device part numbers are not established.
 
-## Transistor
-The central active device is a **NOS LM308 IC**, not a discrete transistor. [1][2]
+## Power
+- Exact model-specific voltage/current details are not securely preserved in the reviewed sources.
 
-## Diode
-The clipping selector provides six diode/clipping configurations including NOS silicon, NOS germanium, silicon/germanium asymmetry, MOSFET, LED/germanium asymmetry, and LED. Exact individual diode part numbers were not established. [1]
+## Construction / finish
+- 2016 exact-model Reverb example: **metallic blue** with acid-engraved graphics. [2]
+- Champion City Effects describes its builds as hand-built.
+
+## Version history
+- No numbered electronic revision established.
+- Clipping selections are factory functions, not aftermarket mods.
 
 ## Sound
-The El Gato Malo is designed to span crunchy and heavy distortion through thicker, hairier clipping textures. The six clipping modes broaden the compression and harmonic behavior, while the buffered clean blend lets players retain more unprocessed bass/guitar signal under heavy distortion. [1][2]
+The six clipping modes broaden the LM308 distortion from smoother silicon/germanium behavior through asymmetric and MOSFET/LED textures. The buffered blend retains clean low-frequency content underneath the distorted signal, supporting bass and low-tuned applications. [1][2]
+
+## Research confidence
+- **Identity:** High
+- **NOS LM308:** High
+- **Six clipping modes:** High
+- **Buffered blend:** High
+- **Metallic-blue 2016 example:** High
+- **Exact diode parts:** Unknown
+
+## Deep research verification
+RockBoard's exact-model entry and the 2016 Reverb listing were cross-checked. The evidence establishes the LM308, six clipping options, buffered blend and documented finish. [1][2]
 
 ## Sources checked
-1. RockBoard PedalPedia — Champion City Effects El Gato Malo: https://www.rockboard.de/en/pedalPedia/Champion-City-Effects/El-Gato-Malo/68976699/
-2. Reverb — Champion City Effects El Gato Malo, 2016: https://reverb.com/item/3707665-champion-city-effects-el-gato-malo-2016-acid-etched-metallic-blue
+1. RockBoard PedalPedia — El Gato Malo: https://www.rockboard.de/en/pedalPedia/Champion-City-Effects/El-Gato-Malo/68976699/
+2. Reverb — Champion City Effects El Gato Malo 2016: https://reverb.com/item/3707665-champion-city-effects-el-gato-malo-2016-acid-etched-metallic-blue
+
+## Photo
+- Exact-model photo status remains handled separately.
