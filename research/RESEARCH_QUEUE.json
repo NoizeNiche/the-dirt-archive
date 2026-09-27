@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-27T11:15:07.513280+00:00",
+  "generated_at": "2026-09-27T11:18:18.456511+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,8 +10,8 @@
     "pictured": 3140,
     "complete": 3140,
     "research_pending": 0,
-    "deep_research_pending": 1088,
-    "deep_researched": 3154,
+    "deep_research_pending": 1075,
+    "deep_researched": 3167,
     "surface_ready": 4242
   },
   "next_target": {
@@ -58,55 +58,6 @@
       "research_level": "surface"
     },
     {
-      "builder": "Bootlegger Guitar",
-      "pedal": "Tube Shooter Overdrive",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 109/Tube Shooter Overdrive.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Cameltone Electronics",
-      "pedal": "Freak Scene",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 147/cameltone-freak-scene.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Camuro",
-      "pedal": "Baci Overdrive/Distortion",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 147/camuro-baci-overdrive-distortion.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Camuro",
-      "pedal": "Caboolture Twin-Stage Overdrive",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 147/camuro-caboolture-twin-stage-overdrive.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Camuro",
-      "pedal": "Fuzz Rosso",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 147/camuro-fuzz-rosso.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Camuro",
-      "pedal": "hachi “8” Classic Modern Fuzz/Bosster",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 147/camuro-hachi-8-classic-modern-fuzz-booster.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Camuro",
-      "pedal": "Naturale",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 147/camuro-naturale.md",
-      "research_level": "surface"
-    },
-    {
       "builder": "Captain FX",
       "pedal": "Crown Jr. Overdrive / Boost",
       "catalog_type": "",
@@ -128,13 +79,6 @@
       "research_level": "surface"
     },
     {
-      "builder": "Carlsbro",
-      "pedal": "Suzz-Phase",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Carlsbro/Suzz-Phase.md",
-      "research_level": "surface"
-    },
-    {
       "builder": "Carmedon Electronics",
       "pedal": "Alpha Centauri",
       "catalog_type": "",
@@ -142,31 +86,10 @@
       "research_level": "surface"
     },
     {
-      "builder": "Caroline Guitar Company",
-      "pedal": "Icarus V2 / Icarus",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 151/caroline-guitar-company-icarus-v2-icarus.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Carvin",
-      "pedal": "Carvin UD-1 Ultra Distortion",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 152/carvin-ud-1-ultra-distortion.md",
-      "research_level": "surface"
-    },
-    {
       "builder": "CatastroFX",
       "pedal": "Deface Mk.III",
       "catalog_type": "",
       "research_record": "./research/pedals/PRP Batch 161/catastrofx-deface-mkiii.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Cave Passive Pedals",
-      "pedal": "B-Drive Grunt",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 160/cave-b-drive-grunt.md",
       "research_level": "surface"
     },
     {
@@ -184,17 +107,94 @@
       "research_level": "surface"
     },
     {
-      "builder": "Chris Custom",
-      "pedal": "DF-1 Dr.Fuzz",
+      "builder": "Chuck Pedals",
+      "pedal": "VTO",
       "catalog_type": "",
-      "research_record": "./research/pedals/Chris Custom/DF-1 Dr.Fuzz.md",
+      "research_record": "./research/pedals/Chuck Pedals/VTO.md",
       "research_level": "surface"
     },
     {
-      "builder": "Chuck Pedals",
-      "pedal": "Diver",
+      "builder": "Cicognani Engineering",
+      "pedal": "Double Decker",
       "catalog_type": "",
-      "research_record": "./research/pedals/Chuck Pedals/Diver.md",
+      "research_record": "./research/pedals/Cicognani Engineering/Double Decker.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Circle Of Tone",
+      "pedal": "Blues Overdrive",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Circle Of Tone/Blues Overdrive.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Circle Of Tone",
+      "pedal": "OVERDRIVE",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Circle Of Tone/OVERDRIVE.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Circus Freak Music",
+      "pedal": "The Bearded Lady Fuzztone",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Circus Freak Music/The Bearded Lady Fuzztone.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Citadel Electronics",
+      "pedal": "Overtuber",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Citadel Electronics/Overtuber.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Clay Jones",
+      "pedal": "CJOD Overdrive",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Clay Jones/CJOD Overdrive.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Claybridge Sound Systems / Claybridge Audio",
+      "pedal": "Fuzzmaster MKIV",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Claybridge Sound Systems / Claybridge Audio/Fuzzmaster MKIV.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Clone Bro",
+      "pedal": "Taurus",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Clone Bro/Taurus.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Coffin Gear / Coffin Case",
+      "pedal": "Batula Fuzz",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Coffin Gear / Coffin Case/Batula Fuzz.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Coggins Audio / Dinosaural",
+      "pedal": "Dan Solo Mid Booster / Drive",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Coggins Audio / Dinosaural/Dan Solo Mid Booster / Drive.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "ColdCraft Effects",
+      "pedal": "Black Dynamite MkII",
+      "catalog_type": "",
+      "research_record": "./research/pedals/ColdCraft Effects/Black Dynamite MkII.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "ColdCraft Effects",
+      "pedal": "Black Shuck OD/Distortion",
+      "catalog_type": "",
+      "research_record": "./research/pedals/ColdCraft Effects/Black Shuck OD Distortion.md",
       "research_level": "surface"
     }
   ]

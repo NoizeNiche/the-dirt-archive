@@ -14840,8 +14840,8 @@
       "image_source_pages": [
         "https://www.zzounds.com/item--BOTBTS1"
       ],
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Bootlegger Guitar",
@@ -19459,8 +19459,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_url": "https://mir-s3-cdn-cf.behance.net/project_modules/fs/d64af475727687.5c5d8af2bce12.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Cameltone Electronics",
@@ -19495,8 +19495,8 @@
       "research_record": "./research/pedals/PRP Batch 147/camuro-baci-overdrive-distortion.md",
       "image_source_page": "http://camuro.co.jp/baci-od-dist",
       "image_source_url": "http://camuro.co.jp/wp/wp-content/uploads/2015/03/baci_jumbo3.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Camuro",
@@ -19515,8 +19515,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_url": "https://engineeringdiscoveries.com/wp-content/uploads/2019/05/Untitled-1jkknnjjjknkjn.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Camuro",
@@ -19551,8 +19551,8 @@
         "https://camuro.co.jp/pedals"
       ],
       "image": "./assets/pedals/camuro/fuzz-rosso/primary.webp",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Camuro",
@@ -19565,8 +19565,8 @@
       "research_record": "./research/pedals/PRP Batch 147/camuro-hachi-8-classic-modern-fuzz-booster.md",
       "image_source_page": "https://aucview.aucfan.com/yahoo/k1028666153/",
       "image_source_url": "https://auctions.afimg.jp/k1028666153/ya/image/k1028666153.1.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Camuro",
@@ -19600,8 +19600,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_url": "https://ecdn.teacherspayteachers.com/thumbitem/Airplane-Preschool-Counting-Worksheets-14631436-1762266238/original-14631436-1.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Canned Monsters",
@@ -20090,8 +20090,8 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/carlsbro/alu",
       "research_record": "./research/pedals/Carlsbro/Suzz-Phase.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Carlson",
@@ -20222,8 +20222,8 @@
       "research_record": "./research/pedals/PRP Batch 151/caroline-guitar-company-icarus-v2-icarus.md",
       "image_source_page": "https://www.truetonemusic.com/products/used-caroline-guitar-company-icarus-v2-preamp-overdrive-boost-pedal-with-box",
       "image_source_url": "https://www.truetonemusic.com/cdn/shop/files/4-DSCF7867_809x700.jpg?v=1697666478",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Caroline Guitar Company",
@@ -20412,8 +20412,8 @@
         "https://reverb.com/item/66837475-carvin-ud-1-ultra-distortion"
       ],
       "image_source_pages_verified": true,
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Carvin",
@@ -21695,8 +21695,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_url": "https://i.ytimg.com/vi/wLAKYAJ2SMc/hqdefault.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Cave Passive Pedals",
@@ -23519,8 +23519,8 @@
       "image": "./assets/pedals/chris-custom/df-1-dr-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Chris Custom/DF-1 Dr.Fuzz.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Chris Custom",
@@ -23616,8 +23616,8 @@
       "image": "./assets/pedals/chuck-pedals/diver/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Chuck Pedals/Diver.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Chuck Pedals",
