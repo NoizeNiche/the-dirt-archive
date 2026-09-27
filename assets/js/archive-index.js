@@ -375,6 +375,8 @@ $('photoFilter').onchange=e=>{
 };
 
 $('search').value=q;
+$('researchFilter').value=selectedResearch;
+$('photoFilter').value=selectedPhoto;
 $('search').oninput=e=>{
   q=e.target.value.trim();
   selectedBuilder='';
