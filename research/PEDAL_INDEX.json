@@ -1,6 +1,6 @@
 {
-  "version": "data-20260927-historical-census-sweep-07a",
-  "count": 4237,
+  "version": "data-20260927-historical-census-sweep-07b",
+  "count": 4242,
   "pedals": [
     {
       "company": "1981 Inventions",
@@ -9404,6 +9404,66 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/behringer/compact/to100",
       "research_record": "./research/pedals/Behringer/TO100 Tube Overdrive.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Behringer",
+      "pedal": "TO800 Vintage Tube Overdrive",
+      "types": [
+        "Overdrive"
+      ],
+      "image": null,
+      "source_page": "https://www.effectsdatabase.com/model/behringer/compact/to800",
+      "research_record": "./research/pedals/Behringer/TO800 Vintage Tube Overdrive.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Behringer",
+      "pedal": "UD100 Ultra Distortion",
+      "types": [
+        "Distortion"
+      ],
+      "image": null,
+      "source_page": "https://www.effectsdatabase.com/model/behringer/compact/ud100",
+      "research_record": "./research/pedals/Behringer/UD100 Ultra Distortion.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Behringer",
+      "pedal": "UD300 Ultra Distortion",
+      "types": [
+        "Distortion"
+      ],
+      "image": null,
+      "source_page": "https://www.effectsdatabase.com/model/behringer/compact/ud300",
+      "research_record": "./research/pedals/Behringer/UD300 Ultra Distortion.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Behringer",
+      "pedal": "UM100 Ultra Metal",
+      "types": [
+        "Distortion"
+      ],
+      "image": null,
+      "source_page": "https://www.effectsdatabase.com/model/behringer/compact/um100",
+      "research_record": "./research/pedals/Behringer/UM100 Ultra Metal.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Behringer",
+      "pedal": "UM300 Ultra Metal",
+      "types": [
+        "Distortion"
+      ],
+      "image": null,
+      "source_page": "https://www.effectsdatabase.com/model/behringer/compact/um300",
+      "research_record": "./research/pedals/Behringer/UM300 Ultra Metal.md",
       "research_level": "surface",
       "deep_research_status": "PENDING"
     },
