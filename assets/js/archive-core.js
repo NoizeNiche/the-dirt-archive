@@ -30,6 +30,10 @@ function isLocalArchiveImage(item) {
   return value.startsWith('./assets/pedals/') || value.startsWith('assets/pedals/');
 }
 
+function normalizeSearchText(value) {
+  return String(value||'').toLowerCase().replace(/[^a-z0-9]+/g,'');
+}
+
 function isCatalogEntry(entry) {
   return entry?.catalog_role !== 'variation';
 }
