@@ -35,3 +35,6 @@ Historical player discussion describes the circuit as capable of Fuzz Face-like 
 ## Sources checked
 1. Analog Man - vintage effects listing
 2. Freestompboxes - Crazy Tone / Crazy Face technical discussion
+## Deep research verification
+
+Analog Man's historical inventory identifies a 1970s Crazytone fuzz as a **Japanese Fuzz Face copy**, while Freestompboxes documents Crazy Tone/Crazy Face as a related Japanese fuzz design rather than a guaranteed component-for-component Fuzz Face clone. The surviving record does not establish a universal control layout or production-wide semiconductor complement, so those details remain unknown. Historical examples are associated with the late-1960s/1970s Japanese fuzz market, but exact production dates remain uncertain.
