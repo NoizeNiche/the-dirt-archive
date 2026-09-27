@@ -121,7 +121,7 @@ function renderMarkdown(md){
 
 function showPhoto(item,label){
   const box=$('photoBox');
-  const fallbackLabel=label?'No Photo Archived · '+label:'No Photo Archived';
+  const fallbackLabel='';
   if(item && item.image){
     box.classList.add('photoHasImage');
     box.innerHTML='<img class="photoImage" src="'+esc(item.image)+'" alt="'+esc(item.company+' '+item.pedal+(label?' '+label:''))+'" referrerpolicy="no-referrer"><span class="photoFallback" hidden>'+esc(fallbackLabel)+'</span>';
@@ -134,7 +134,7 @@ function showPhoto(item,label){
     });
   }else{
     box.classList.remove('photoHasImage');
-    box.innerHTML='<span>'+esc(fallbackLabel)+'</span>';
+    box.innerHTML='<span class="photoFallback" aria-hidden="true"></span>';
   }
 }
 
@@ -156,7 +156,7 @@ function renderColorways(item, colorways){
   $('colorways').innerHTML=colorways.map((v,i)=>{
     const name=v.variation_name||v.pedal||('Variation '+(i+1));
     const media=v.image
-      ? '<img src="'+esc(v.image)+'" alt="'+esc(item.company+' '+name)+'" loading="lazy" referrerpolicy="no-referrer"><span class="thumbFallback" hidden>No Photo Archived</span>'
+      ? '<img src="'+esc(v.image)+'" alt="'+esc(item.company+' '+name)+'" loading="lazy" referrerpolicy="no-referrer"><span class="thumbFallback" hidden aria-hidden="true"></span>'
       : '<span aria-label="Photo unavailable"></span>';
     return '<button class="colorwayCard" type="button" data-variation="'+esc(name)+'" aria-pressed="false">'+
       '<span class="colorwayThumb">'+media+'</span><span class="colorwayName">'+esc(name)+'</span>'+
@@ -194,7 +194,7 @@ function renderVersions(item, versions){
     const label=v.version_label||v.pedal;
     const media=v.image
       ? '<img src="'+esc(v.image)+'" alt="'+esc(item.company+' '+label)+'" loading="lazy" referrerpolicy="no-referrer"><span class="thumbFallback" hidden>No Photo Archived</span>'
-      : '<span>No Photo Archived</span>';
+      : '<span aria-hidden="true"></span>';
     const versionType=(wantedType && wantedType!=='All' && (v.types||[]).includes(wantedType))?wantedType:'';
     return '<a class="variantCard" href="'+detailUrl(v, null, versionType)+'">'+
       '<span class="variantThumb">'+media+'</span><span class="variantName">'+esc(label)+'</span>'+
