@@ -32,3 +32,27 @@ The MK1.5 is deliberately thick and aggressive, with a large wall of fuzz at hig
 
 ## Sources checked
 1. Effects Database — Brantone Electronics Tonemaster Mk1.5: https://www.effectsdatabase.com/model/brantone/tonemaster/mk15
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+With a bit of careful tweaking of the controls, there are many different settings that bring out the best in this model of fuzz pedal.
+
+### Verified color/finish evidence
+- It uses two NOS 1960's Mullard OC75 matched & tested germanium transistors which were commonly used in the original unit, has a very neat tagboard circuit layout design, housed in a Hammond 1590BB enclosure and custom powder coated in a 'Bullion' gold finish.
+
+### Verified version references
+- The evidence references: MK1, MK2, MKI, Mk1.
+
+### Verified transistor/device terms
+- Germanium Fuzz.
+
+### Verified sound evidence
+Brantone Electronics Tonemaster Mk1.5 Germanium Fuzz
+The sound and tone from this pedal is verging on insanity and on maximum sounds as if your amp is about to blow up, with a colossal wall of thick fuzz which will send your tube amp into maximum overdrive.
+It's voiced differently to the MK2 I make and has the nasal tone of a cocked wah wah and find it a bit more aggressive and less smooth than the MK2.
+
+### Sources checked in this pass
+1. Brantone Electronics Tonemaster Mk1.5 Germanium Fuzz | Effects Database: https://www.effectsdatabase.com/model/brantone/tonemaster/mk15

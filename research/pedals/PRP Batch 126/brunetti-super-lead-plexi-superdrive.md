@@ -29,3 +29,15 @@ The Super Lead Plexi identity places the pedal in the classic British high-gain/
 
 ## Sources checked
 1. Effects Database — Brunetti Super Lead Plexi - SuperDrive: https://www.effectsdatabase.com/model/brunetti/superleadplexi
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Brunetti's Super Lead Plexi - SuperDrive is cataloged as an overdrive pedal.
+
+### Sources checked in this pass
+1. https://ca.pinterest.com/pin/also-coming-soon-from-brunetti-brunettiamps-super-lead-plexi-superdrive-httpbitly2g7swtv-b--290341507219750598/: https://ca.pinterest.com/pin/also-coming-soon-from-brunetti-brunettiamps-super-lead-plexi-superdrive-httpbitly2g7swtv-b--290341507219750598/
+2. https://www.pinterest.com/pin/also-coming-soon-from-brunetti-brunettiamps-super-lead-plexi-superdrive-httpbitly2g7swtv-br--290341507219750598/: https://www.pinterest.com/pin/also-coming-soon-from-brunetti-brunettiamps-super-lead-plexi-superdrive-httpbitly2g7swtv-br--290341507219750598/
+3. Also coming soon (?) from Brunetti (@brunettiamps): Super … | Flickr: https://www.flickr.com/photos/18151306@N00/37214121300/

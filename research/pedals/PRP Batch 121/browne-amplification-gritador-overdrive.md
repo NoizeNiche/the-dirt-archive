@@ -33,3 +33,28 @@ Gritador is built around a familiar mid-forward overdrive voice, but Browne deli
 
 ## Sources checked
 1. Browne Amplification — The Gritador: https://browneamps.com/store/p/the-gritador
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+From Stevie Ray Vaughn to John Mayer, this Tube Screamer has been part of more recordings than any other overdrive pedal.
+
+### Verified version references
+- The evidence references: V2.
+
+### Verified diode terms
+- LED.
+
+### Verified sound evidence
+Browne Amplification - Gritador Overdrive
+From Stevie Ray Vaughn to John Mayer, this Tube Screamer has been part of more recordings than any other overdrive pedal.
+This is Dave's favorite version of his favorite overdrive.
+
+### Sources checked in this pass
+1. Browne Amplification - Gritador Overdrive | Mass Street Music: https://massstreetmusic.com/products/browne-amplification-gritador-overdrive
+2. https://www.amazon.com/clp/B0DD4HW2NB: https://www.amazon.com/clp/B0DD4HW2NB
+3. Browne Amplification - Gritador Overdrive: https://www.greatmusicwarehouse.com/products/browne-amplification-gritador-overdrive/
+4. Browne Amplification Gritador Overdrive - Reverb: https://reverb.com/item/100783893-browne-amplification-gritador-overdrive
+5. Browne Amplification Gritador Overdrive | Effects Database: https://www.effectsdatabase.com/model/browne/gritador

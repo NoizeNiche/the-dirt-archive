@@ -31,3 +31,21 @@ Woodstock is intended to provide singing fuzz and sustain without the darker cha
 
 ## Sources checked
 1. Break The Machine — Brantone Electronics Q&A: https://www.breakthemachine.co.uk/brantone-electronics-qa/
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Brantone Electronics's Woodstock - Silicon Fuzz Face is cataloged as a fuzz pedal.
+
+### Verified transistor/device terms
+- silicon transistors.
+
+### Verified sound evidence
+Brantone Electronics Woodstock - Silicon Fuzz Face
+The fuzz face was originally made by Arbiter electronics in 1966.
+The circuit has been tuned for a brighter tone and until it sounded just great and I was happy with it.
+
+### Sources checked in this pass
+1. Brantone Electronics Woodstock - Silicon Fuzz Face | Effects Database: https://www.effectsdatabase.com/model/brantone/woodstock

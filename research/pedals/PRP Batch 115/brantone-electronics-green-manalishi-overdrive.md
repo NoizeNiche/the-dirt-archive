@@ -34,3 +34,18 @@ The circuit is voiced toward dynamic, British-style overdrive rather than compre
 
 ## Sources checked
 1. Effects Database — Brantone Electronics Green Manalishi Overdrive: https://www.effectsdatabase.com/model/brantone/greenmanalishi
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Brantone Electronics's Green Manalishi Overdrive is cataloged as an overdrive pedal.
+
+### Verified sound evidence
+Brantone Electronics Green Manalishi Overdrive
+In tribute to Peter, it has been a labour of love and a real pleasure spending hours listening to his tone and playing style, from his days with John Mayall's Bluesbreakers, trying to recapture that magical tone and put it all into a compact Hammond 1590BB enclosure.
+The pedal controls feature a simple but very effective volume, tone and gain with an added hi and lo power switch, for the ultimate in sustain.
+
+### Sources checked in this pass
+1. Brantone Electronics Green Manalishi Overdrive | Effects Database: https://www.effectsdatabase.com/model/brantone/greenmanalishi

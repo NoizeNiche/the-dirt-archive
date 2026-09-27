@@ -30,3 +30,18 @@ The circuit preserves the aggressive, scooped character associated with the Comp
 
 ## Sources checked
 1. Effects Database — Braking Train Pedals Frequency Control Fuzz: https://www.effectsdatabase.com/model/brakingtrain/frequencycontrolfuzz
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Braking Train Pedals's Frequency Control Fuzz is cataloged as a fuzz pedal.
+
+### Verified sound evidence
+Braking Train Pedals Frequency Control Fuzz
+Like the Companion, it has a very pronounced mid scoop but here you can also control the mid frequency and change it from around 100 Hz to a bit above 1 kHz, and really change the sound of the fuzz.
+You can also bypass the tone control and make it an angry full range fuzz.
+
+### Sources checked in this pass
+1. Braking Train Pedals Frequency Control Fuzz | Effects Database: https://www.effectsdatabase.com/model/brakingtrain/frequencycontrolfuzz
