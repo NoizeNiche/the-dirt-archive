@@ -413,6 +413,11 @@ async function targetRecord(builder,pedal,type){
     const f=fit(builder,pedal,fullText);
     if(!f.pedalHits || !f.builderHits) return null;
     const curatedExactCandidate = recordSourceUrls.has(item.x.url) || recordSourceUrls.has(u);
+    const metadataHay = norm(String(info.title||"")+" "+String(info.h1||"")+" "+u);
+    const pedalMetadataExact = pedalIdentityVariants(pedal).some(v => {
+      const n=norm(v);
+      return Boolean(n && metadataHay.includes(n));
+    });
     const target=norm(pedal);
     const bodyNorm=norm(info.body);
     if(models.length && target && !bodyNorm.includes(target)){
