@@ -4,46 +4,63 @@
 - **Archive parent:** Dornenkrone
 - **Builder:** Audio Surplus Effects
 - **Catalog type:** Distortion / Fuzz
-- **Identity:** High-gain octave fuzz from the FZ-2/Superfuzz lineage paired with an expanded HM-2-inspired tonestack.
+- **Identity:** High-gain octave fuzz from the FZ-2/Superfuzz lineage combined with an expanded HM-2-style equalizer, including a dedicated upper-treble control. [1][2]
 
 ## What this pedal is
-The builder describes Dornenkrone as a high-gain octave fuzz specifically voiced around its highly interactive EQ section. Its low, mid and high controls follow the HM-2 idea, while the additional Dorn control extends the high-frequency range above the High control.
+The builder describes Dornenkrone as an octave-fuzz circuit voiced around an unusually powerful and interactive tone stack. The octave section is tuned to work with the EQ for aggressive, chainsaw-like distortion rather than simply recreating one vintage unit. [1][2]
 
-## Colorways
-- No reliable factory colorway history was verified.
-- Current documented examples use a distressed/plain-metal presentation, but that was not established as a named colorway revision.
+## Controls / EQ
+- **LEVEL:** Output.
+- **GAIN:** Overall drive/fuzz.
+- **DORN:** Additional high-frequency control above the normal treble range.
+- **LOW:** Low EQ.
+- **MID:** Mid EQ.
+- **HIGH:** High EQ.
+The published design centers the EQ around low-tuned instruments, with the available frequency centers documented around 65Hz, 958Hz and 1278Hz. [1]
 
-## Versions and factory options
-### Dornenkrone production
-- Level
-- Dorn high-frequency control
-- Gain
-- Low, Mid and High EQ
-- Low frequency centered around approximately 65 Hz for low-tuned instruments
-- Mid around approximately 958 Hz
-- High around approximately 1278 Hz
-- 9VDC center-negative power
-- Approx. 16mA current draw
-
-## Version changes
-No numbered production revision was verified.
+## Circuit lineage
+- **Octave fuzz:** FZ-2 / Superfuzz family.
+- **Tone stack:** Expanded HM-2-inspired EQ.
+- The builder presents this as a lineage/inspiration relationship rather than claiming a one-to-one schematic copy. [1][2]
 
 ## Transistor
-- **Technology:** Solid-state.
-- **Exact device:** Not publicly documented in the builder materials checked.
+- Exact active-device part numbers are not publicly documented in the reviewed material.
 
-## Diode
-- **Type:** Exact clipping diode arrangement is not publicly documented.
+## Diode / clipping
+- Exact diode part numbers are not publicly documented.
+- The octave-fuzz architecture is documented, but the precise semiconductor recipe is not.
+
+## Construction / power
+- U.K.-built Audio Surplus Effects pedal.
+- **Power:** 9VDC center-negative.
+- **Current draw:** approximately 16mA. [1]
+The design is associated with limited-batch production. [1][2]
+
+## Version history
+- No numbered hardware revision established from the reviewed materials.
+- The defining documented architecture is the FZ-2/Superfuzz-derived octave section plus expanded HM-2 EQ.
 
 ## Sound
-Dornenkrone combines octave-fuzz aggression with a powerful, HM-2-inspired EQ, making it capable of thick chainsaw-like grind and heavily sculpted sludge tones. The Dorn control can push the top end toward harsher metallic textures or pull it back for darker, smoother sounds.
+Dornenkrone is designed for thick, aggressive octave fuzz and heavily sculpted high-gain tones. The interactive EQ can move from mid-forward and cutting toward deep, scooped, sludge-oriented textures, while DORN extends the upper-end range for harsher metallic attack. [1][2]
+
+## Research confidence
+- **Identity:** High
+- **FZ-2/Superfuzz lineage:** High
+- **HM-2-inspired EQ:** High
+- **Control set:** High
+- **EQ frequency centers:** High
+- **9V / ~16mA:** High
+- **Exact active devices:** Unknown
+- **Exact diodes:** Unknown
+
+## Deep research verification
+The Audio Surplus Effects product material and an independent 2024 demonstration/review were cross-checked. The evidence supports the octave-fuzz lineage, expanded HM-2-inspired EQ, control behavior and intended heavy/interactive sound palette. The archive keeps the exact semiconductor recipe unresolved. [1][2]
 
 ## Sources checked
 1. Audio Surplus Effects — Dornenkrone: https://audiosurpluseffects.bigcartel.com/product/dornenkrone
-2. Boring Gear Reviews — Dornenkrone demo: https://www.youtube.com/watch?v=-qaD9EHJLQk
-3. Reddit user report discussing the pedal's FZ-2/HM-2 voicing: https://www.reddit.com/r/guitarpedals/comments/1pu8al1/npd_audio_surplus_effects_dornenkrone/
+2. Boring Gear Reviews — Dornenkrone demo/review: https://www.youtube.com/watch?v=-qaD9EHJLQk
+3. Reddit — 2025 user discussion of Dornenkrone: https://www.reddit.com/r/guitarpedals/comments/1pu8al1/npd_audio_surplus_effects_dornenkrone/
 
 ## Photo
 - **Archive status:** **No Photo Archived**
-- **Exact-model reference checked:** https://audiosurpluseffects.bigcartel.com/product/dornenkrone
-- **Archive note:** Exact-model images exist on the builder page, but no stable archive image asset is being promoted in this pass.
+- **Exact-model reference checked:** builder product page.
