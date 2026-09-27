@@ -1,23 +1,41 @@
 # Wampler Pedals — Mofetta
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Mofetta
 - **Builder:** Wampler Pedals
-- **Pedal:** Mofetta
 - **Catalog type:** Distortion / Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Wampler Pedals's Mofetta.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Mofetta** by **Wampler Pedals** as a **Distortion / Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Top |' data-navmenu="off" data-hashurl="off" data-menuSlider="off" data-continue-autoplay="off" data-outside-nav="off" data-autoplay="off" > 4 5 The Wampler Mofetta Overdrive/Distortion is my tribute to the MOSFET-driven magic of a 1990s classic — the MT10 MOSTORTION tm .
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+Top |' data-navmenu="off" data-hashurl="off" data-menuSlider="off" data-continue-autoplay="off" data-outside-nav="off" data-autoplay="off" > 4 5 The Wampler Mofetta Overdrive/Distortion is my tribute to the MOSFET-driven magic of a 1990s classic — the MT10 MOSTORTION tm .
+I made sure that it delivered the classic, amp-like overdrive, massive headroom, and versatile 3-band EQ that made the original so famous.
+But I also wanted more and added a Texture Switch that introduces actual MOSFETs into the pedal's overdrive section for a bolder, more articulate tone.
+
+## Sources checked
+1. Mofetta | Wampler Pedals: https://www.wamplerpedals.com/products/distortion-overdrive/mofetta/
+2. Wampler Pedals Mofetta | AllThePedals: https://allthepedals.com/pedals/wampler-pedals-mofetta
+3. Wampler Pedals Mofetta - Overdrive/Distortion | Effects Database: https://www.effectsdatabase.com/model/wampler/mofetta
+4. Wampler Mofetta - Reverb: https://reverb.com/p/wampler-mofetta
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
