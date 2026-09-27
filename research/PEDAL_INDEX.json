@@ -44159,7 +44159,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/maxon/rod881-real-overdrive-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Maxon/ROD881 Real Overdrive / Distortion.md",
       "research_level": "surface",
@@ -44172,7 +44172,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/maxon/rtd800/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Maxon/RTD800.md",
       "research_level": "deep",
@@ -46985,7 +46985,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/mxr/slash-octave-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/MXR/Slash Octave Fuzz.md",
       "research_level": "deep",
@@ -51506,7 +51506,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/stomp-under-foot/rhinosaur/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Stomp Under Foot/Rhinosaur.md",
       "research_level": "deep",
@@ -51518,7 +51518,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/stomp-under-foot/serenity-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Stomp Under Foot/Serenity Overdrive.md",
       "research_level": "deep",
@@ -51530,7 +51530,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/stomp-under-foot/silver-foxx/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Stomp Under Foot/Silver Foxx.md",
       "research_level": "deep",
@@ -52319,7 +52319,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/tc-electronic/vintage-dual-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/TC Electronic/Vintage Dual Distortion.md",
       "research_level": "deep",
@@ -52345,7 +52345,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/tc-electronic/vpd1-vintage-pre-drive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/TC Electronic/VPD1 Vintage Pre-Drive.md",
       "research_level": "deep",
@@ -52633,7 +52633,7 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/thorpyfx/field-marshal/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/ThorpyFX/FIELD MARSHAL.md",
       "research_level": "deep",
@@ -52647,7 +52647,7 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/thorpyfx/field-marshal-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/ThorpyFX/FIELD MARSHAL — Fuzz.md",
       "research_level": "surface",
@@ -52659,7 +52659,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/thorpyfx/gunshot/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/ThorpyFX/Gunshot.md",
       "research_level": "deep",
@@ -52671,7 +52671,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/thorpyfx/hanami/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/ThorpyFX/Hanami.md",
       "research_level": "deep",
@@ -53241,7 +53241,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/union-tube-transistor/tone-druid/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Union Tube & Transistor/Tone Druid.md",
       "research_level": "deep",
@@ -53253,7 +53253,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/union-tube-transistor/tone-druid/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Union Tube & Transistor/Tone Druid+.md",
       "research_level": "deep",
@@ -53265,7 +53265,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/union-tube-transistor/tour-bender/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Union Tube & Transistor/Tour Bender.md",
       "research_level": "deep",
@@ -53277,7 +53277,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/union-tube-transistor/tsar-bomba/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Union Tube & Transistor/Tsar Bomba.md",
       "research_level": "deep",
@@ -53325,7 +53325,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/vemuram/butter-machine-michael-landau-signature-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Vemuram/Butter Machine — Michael Landau Signature Distortion.md",
       "research_level": "surface",
@@ -53337,7 +53337,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/vemuram/dj1/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Vemuram/DJ1.md",
       "research_level": "deep",
@@ -53349,7 +53349,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/vemuram/dj1-overdrive-distortion-bass-effects-identity/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Vemuram/DJ1 — overdrive / distortion bass-effects identity.md",
       "research_level": "surface",

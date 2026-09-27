@@ -22805,14 +22805,14 @@
   {
     "builder": "Maxon",
     "pedal": "ROD881 Real Overdrive / Distortion",
-    "image": null,
+    "image": "./assets/pedals/maxon/rod881-real-overdrive-distortion/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Maxon/ROD881 Real Overdrive / Distortion.md"
   },
   {
     "builder": "Maxon",
     "pedal": "RTD800",
-    "image": null,
+    "image": "./assets/pedals/maxon/rtd800/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Maxon/RTD800.md"
   },
@@ -24422,7 +24422,7 @@
   {
     "builder": "MXR",
     "pedal": "Slash Octave Fuzz",
-    "image": null,
+    "image": "./assets/pedals/mxr/slash-octave-fuzz/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/MXR/Slash Octave Fuzz.md"
   },
@@ -26991,21 +26991,21 @@
   {
     "builder": "Stomp Under Foot",
     "pedal": "Rhinosaur",
-    "image": null,
+    "image": "./assets/pedals/stomp-under-foot/rhinosaur/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Stomp Under Foot/Rhinosaur.md"
   },
   {
     "builder": "Stomp Under Foot",
     "pedal": "Serenity Overdrive",
-    "image": null,
+    "image": "./assets/pedals/stomp-under-foot/serenity-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Stomp Under Foot/Serenity Overdrive.md"
   },
   {
     "builder": "Stomp Under Foot",
     "pedal": "Silver Foxx",
-    "image": null,
+    "image": "./assets/pedals/stomp-under-foot/silver-foxx/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Stomp Under Foot/Silver Foxx.md"
   },
@@ -27453,7 +27453,7 @@
   {
     "builder": "TC Electronic",
     "pedal": "Vintage Dual Distortion",
-    "image": null,
+    "image": "./assets/pedals/tc-electronic/vintage-dual-distortion/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/TC Electronic/Vintage Dual Distortion.md"
   },
@@ -27467,7 +27467,7 @@
   {
     "builder": "TC Electronic",
     "pedal": "VPD1 Vintage Pre-Drive",
-    "image": null,
+    "image": "./assets/pedals/tc-electronic/vpd1-vintage-pre-drive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/TC Electronic/VPD1 Vintage Pre-Drive.md"
   },
@@ -27621,28 +27621,28 @@
   {
     "builder": "ThorpyFX",
     "pedal": "FIELD MARSHAL",
-    "image": null,
+    "image": "./assets/pedals/thorpyfx/field-marshal/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/ThorpyFX/FIELD MARSHAL.md"
   },
   {
     "builder": "ThorpyFX",
     "pedal": "FIELD MARSHAL — Fuzz",
-    "image": null,
+    "image": "./assets/pedals/thorpyfx/field-marshal-fuzz/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/ThorpyFX/FIELD MARSHAL — Fuzz.md"
   },
   {
     "builder": "ThorpyFX",
     "pedal": "Gunshot",
-    "image": null,
+    "image": "./assets/pedals/thorpyfx/gunshot/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/ThorpyFX/Gunshot.md"
   },
   {
     "builder": "ThorpyFX",
     "pedal": "Hanami",
-    "image": null,
+    "image": "./assets/pedals/thorpyfx/hanami/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/ThorpyFX/Hanami.md"
   },
@@ -27957,28 +27957,28 @@
   {
     "builder": "Union Tube & Transistor",
     "pedal": "Tone Druid",
-    "image": null,
+    "image": "./assets/pedals/union-tube-transistor/tone-druid/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Union Tube & Transistor/Tone Druid.md"
   },
   {
     "builder": "Union Tube & Transistor",
     "pedal": "Tone Druid+",
-    "image": null,
+    "image": "./assets/pedals/union-tube-transistor/tone-druid/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Union Tube & Transistor/Tone Druid+.md"
   },
   {
     "builder": "Union Tube & Transistor",
     "pedal": "Tour Bender",
-    "image": null,
+    "image": "./assets/pedals/union-tube-transistor/tour-bender/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Union Tube & Transistor/Tour Bender.md"
   },
   {
     "builder": "Union Tube & Transistor",
     "pedal": "Tsar Bomba",
-    "image": null,
+    "image": "./assets/pedals/union-tube-transistor/tsar-bomba/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Union Tube & Transistor/Tsar Bomba.md"
   },
@@ -28006,21 +28006,21 @@
   {
     "builder": "Vemuram",
     "pedal": "Butter Machine — Michael Landau Signature Distortion",
-    "image": null,
+    "image": "./assets/pedals/vemuram/butter-machine-michael-landau-signature-distortion/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Vemuram/Butter Machine — Michael Landau Signature Distortion.md"
   },
   {
     "builder": "Vemuram",
     "pedal": "DJ1",
-    "image": null,
+    "image": "./assets/pedals/vemuram/dj1/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Vemuram/DJ1.md"
   },
   {
     "builder": "Vemuram",
     "pedal": "DJ1 — overdrive / distortion bass-effects identity",
-    "image": null,
+    "image": "./assets/pedals/vemuram/dj1-overdrive-distortion-bass-effects-identity/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Vemuram/DJ1 — overdrive / distortion bass-effects identity.md"
   },
