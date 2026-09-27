@@ -4,40 +4,54 @@
 - **Archive parent:** Ampeg Scrambler
 - **Builder:** CBC Pedals
 - **Catalog type:** Fuzz
-- **Identity:** CBC Pedals reproduction of the vintage Ampeg Scrambler octave-fuzz/distortion design.
+- **Identity:** CBC Pedals reproduction of the vintage Ampeg Scrambler, a highly nonlinear fuzz with octave and ring-modulator-like artifacts. [1][2]
 
 ## What this pedal is
-CBC Pedals is documented as a small builder producing handwired recreations of vintage and out-of-production effects, including the Ampeg Scrambler. The original Ampeg Scrambler was introduced in 1969 and is known for a highly nonlinear fuzz character with upper-octave and ring-modulator-like artifacts. [1][2]
+CBC Pedals is documented as a small handwired builder of recreations of vintage and discontinued effects, and its catalog includes an Ampeg Scrambler reproduction. The historical Ampeg Scrambler was introduced in **1969** and used a two-control Texture/Balance interface. [1][2]
 
-## Colorways
-- No CBC-specific production colorway record was established in the reliable sources checked.
-- Cosmetic finish differences are not treated as separate versions.
+## Circuit lineage
+- **Primary reference:** Ampeg Scrambler.
+- The historical Scrambler is known for unusual nonlinear fuzz, upper-octave coloration and ring-modulator-like harmonic artifacts. [2]
+- CBC-specific component values are not published in the reviewed sources.
 
-## Versions and factory options
-### CBC Pedals Ampeg Scrambler
-- CBC-specific control layout, enclosure revisions, and production dates were not reliably documented in the sources checked.
-- The archive records this as a builder-specific reproduction rather than as the original Ampeg product.
-
-### Factory options
-- No CBC factory modification or named production option was established in the sources checked.
-
-## Version changes
-No separately named CBC production V2 or other major hardware generation was established in the sources checked.
+## Controls / build
+- CBC-specific control labeling and exact control functions are not sufficiently documented in surviving exact-builder sources.
+- The archive does not import the original Ampeg component inventory into the CBC record.
 
 ## Transistor
-- **CBC-specific transistor type:** Not established in reliable sources checked.
-- The archive does not copy the original Ampeg design's internal component claims into the CBC record without CBC-specific evidence.
+- **CBC-specific device type:** Unknown.
+- The original Ampeg Scrambler's internal devices are not treated as CBC factory evidence.
 
-## Diode
-- **CBC-specific diode type:** Not established in reliable sources checked.
+## Diode / clipping
+- **CBC-specific diode type:** Unknown.
+
+## Construction
+- CBC Pedals is described as a handwired/cottage builder producing recreations of vintage circuits. [1]
+- Exact CBC enclosure dimensions, jack brand and switching hardware are not established.
+
+## Power
+- CBC-specific voltage/current data for the Scrambler reproduction are not established in the reviewed sources.
+
+## Version history
+- No named CBC V2 or other electrical revision established.
+- Finish differences are not treated as revisions without circuit evidence.
 
 ## Sound
-The CBC unit is intended to reproduce the unusual Ampeg Scrambler family of sounds: high-gain fuzz with upper-octave coloration and unstable, ring-modulator-like harmonic artifacts. The original's blend of smooth-to-abrasive textures is the controlling historical sound reference; CBC-specific voicing differences were not documented well enough to separate them here. [2]
+The identity of the recreation is defined by the original Scrambler's unusual sound: thick fuzz with metallic/ring-modulator-like artifacts and pronounced octave coloration. CBC-specific voicing differences are not documented well enough to separate them from the historical reference. [2]
+
+## Research confidence
+- **CBC model identity:** High
+- **Ampeg Scrambler lineage:** High
+- **1969 historical reference:** High
+- **CBC-specific controls/components:** Unknown
+- **CBC-specific power:** Unknown
+
+## Deep research verification
+Equipboard's CBC builder record identifies CBC as a handwired vintage-effect recreation shop and specifically includes the Ampeg Scrambler among its reproduced circuits. Effects Database independently documents the historical Ampeg Scrambler and its distinctive two-control/nonlinear octave-fuzz identity. [1][2]
 
 ## Sources checked
-1. Equipboard — CBC Pedals: https://equipboard.com/brands/cbc-pedals
+1. Equipboard — CBC Pedals builder record: https://equipboard.com/brands/cbc-pedals
 2. Effects Database — Ampeg Scrambler: https://www.effectsdatabase.com/model/ampeg/scrambler
 
-## Research notes
-- CBC's inclusion of Ampeg Scrambler is documented at the builder/lineup level.
-- CBC-specific technical details remain intentionally conservative until a builder source or clearly attributable specimen provides stronger evidence.
+## Photo
+- **Archive status:** No exact local photo verified.
