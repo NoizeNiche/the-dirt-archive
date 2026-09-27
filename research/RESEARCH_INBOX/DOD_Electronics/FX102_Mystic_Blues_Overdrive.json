@@ -1,0 +1,25 @@
+{
+  "builder": "DOD Electronics",
+  "pedal": "FX102 Mystic Blues Overdrive",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 2,
+  "sources": [
+    {
+      "url": "https://manuals.plus/dod/fx102-mystic-blues-overdrive-manual.pdf",
+      "title": "PDF DOD FX102 Mystic Blues Overdrive Instruction Manual",
+      "h1": "",
+      "excerpt": "",
+      "host": "manuals.plus",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://www.bing.com/ck/a?!&&p=2d6cb9dad4e2c2c10c090cc97de60e54c217a0877a3979a1b10382480f62df94JmltdHM9MTc5MDQ2NzIwMA&ptn=3&ver=2&hsh=4&fclid=3359c43c-e344-620c-3c70-d3dde27c6387&u=a1aHR0cHM6Ly93d3cuZWJheS5jb20vaXRtLzI4NzU2ODM4MDY0NT9tc29ja2lkPTMzNTljNDNjZTM0NDYyMGMzYzcwZDNkZGUyN2M2Mzg3&ntb=1",
+      "title": "DOD FX102 Mystic Blues Overdrive 1990s Blue *** FREE SHIPPING",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.bing.com",
+      "source_kind": "other"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}
