@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-27T22:00:48.384439+00:00",
+  "generated_at": "2026-09-27T22:02:26.871036+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,39 +10,18 @@
     "pictured": 3409,
     "complete": 3409,
     "research_pending": 0,
-    "deep_research_pending": 341,
-    "deep_researched": 3865,
+    "deep_research_pending": 335,
+    "deep_researched": 3871,
     "surface_ready": 4206
   },
   "next_target": {
     "builder": "DOD Electronics",
-    "pedal": "FX52 Classic Fuzz",
+    "pedal": "FX76 Punkifier",
     "catalog_type": "",
-    "research_record": "./research/pedals/DOD Electronics/FX52 Classic Fuzz.md",
+    "research_record": "./research/pedals/DOD Electronics/FX76 Punkifier.md",
     "research_level": "surface"
   },
   "working_set": [
-    {
-      "builder": "DOD Electronics",
-      "pedal": "FX52 Classic Fuzz",
-      "catalog_type": "",
-      "research_record": "./research/pedals/DOD Electronics/FX52 Classic Fuzz.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "DOD Electronics",
-      "pedal": "FX57 Hard Rock Distortion",
-      "catalog_type": "",
-      "research_record": "./research/pedals/DOD Electronics/FX57 Hard Rock Distortion.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "DOD Electronics",
-      "pedal": "FX58 Metal Maniac",
-      "catalog_type": "",
-      "research_record": "./research/pedals/DOD Electronics/FX58 Metal Maniac.md",
-      "research_level": "surface"
-    },
     {
       "builder": "DOD Electronics",
       "pedal": "FX76 Punkifier",
@@ -62,13 +41,6 @@
       "pedal": "Grunge (FX69B)",
       "catalog_type": "",
       "research_record": "./research/pedals/DOD Electronics/Grunge (FX69B).md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "DOD Electronics",
-      "pedal": "Gunslinger",
-      "catalog_type": "",
-      "research_record": "./research/pedals/DOD Electronics/Gunslinger.md",
       "research_level": "surface"
     },
     {
@@ -94,23 +66,9 @@
     },
     {
       "builder": "DOD Electronics",
-      "pedal": "Performer 555 Distortion",
-      "catalog_type": "",
-      "research_record": "./research/pedals/DOD Electronics/Performer 555 Distortion.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "DOD Electronics",
       "pedal": "Supra Distortion (FX55C)",
       "catalog_type": "",
       "research_record": "./research/pedals/DOD Electronics/Supra Distortion (FX55C).md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "DOD Electronics",
-      "pedal": "YJM 308 Overdrive Preamp",
-      "catalog_type": "",
-      "research_record": "./research/pedals/DOD Electronics/YJM 308 Overdrive Preamp.md",
       "research_level": "surface"
     },
     {
@@ -195,6 +153,48 @@
       "pedal": "Erupter — Ultimate Fuzz Tone",
       "catalog_type": "",
       "research_record": "./research/pedals/EarthQuaker Devices/Erupter — Ultimate Fuzz Tone.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "EarthQuaker Devices",
+      "pedal": "Fuzz Master General — Octave Fuzz Blaster",
+      "catalog_type": "",
+      "research_record": "./research/pedals/EarthQuaker Devices/Fuzz Master General — Octave Fuzz Blaster.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "EarthQuaker Devices",
+      "pedal": "Fuzz Master General Legacy Reissue — consolidated with Fuzz Master General",
+      "catalog_type": "",
+      "research_record": "./research/pedals/EarthQuaker Devices/Fuzz Master General Legacy Reissue — consolidated with Fuzz Master General.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "EarthQuaker Devices",
+      "pedal": "Fuzz Master General Legacy Reissue — Limited Edition Octave Fuzz Blaster",
+      "catalog_type": "",
+      "research_record": "./research/pedals/EarthQuaker Devices/Fuzz Master General Legacy Reissue — Limited Edition Octave Fuzz Blaster.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "EarthQuaker Devices",
+      "pedal": "Gary — Automatic Pulse Width Modulation Fuzz and Dynamic Natural Overdrive",
+      "catalog_type": "",
+      "research_record": "./research/pedals/EarthQuaker Devices/Gary — Automatic Pulse Width Modulation Fuzz and Dynamic Natural Overdrive.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "EarthQuaker Devices",
+      "pedal": "Gray Channel — Dynamic Dirt Doubler",
+      "catalog_type": "",
+      "research_record": "./research/pedals/EarthQuaker Devices/Gray Channel — Dynamic Dirt Doubler.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "EarthQuaker Devices",
+      "pedal": "Hizumitas — Fuzz Sustainar",
+      "catalog_type": "",
+      "research_record": "./research/pedals/EarthQuaker Devices/Hizumitas — Fuzz Sustainar.md",
       "research_level": "surface"
     }
   ]

@@ -1,0 +1,17 @@
+{
+  "builder": "DOD Electronics",
+  "pedal": "Gunslinger",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 1,
+  "sources": [
+    {
+      "url": "https://digitech.com/dp/gunslinger/",
+      "title": "catalog/override source",
+      "h1": "DOD Electronics \u2014 Gunslinger",
+      "excerpt": "- **Builder:** DOD Electronics\n- **Pedal:** Gunslinger\n- **Catalog type:** Distortion / Overdrive\n- **Research level:** Deep\n- **Deep research status:** Verified identity and manufacturer taxonomy\n- **Identity basis:** DOD's product catalog identifies Gunslinger as an aggressive MOSFET distortion design; the archive retains its historical overlap classification as Distortion / Overdrive.\n\nThe **DOD Gunslinger** is a MOSFET-based dirt pedal from DOD's modern/revival-era catalog. DOD's product material explicitly characterizes it as an **aggressive MOSFET distortion**. [1]\n\nThe archive retains the existing **Distortion / Overdrive** catalog classification because the product's documented operating range includes overdrive-style use while its manufacturer identity centers on distortion.\n\nThe reviewed DOD material supports the MOSFET architecture at the product-description level but does not establish a complete production schematic or universal component BOM.\n\nThe archive therefore does not invent transistor part numbers, clipping-diode inventories, or revision-specific component values.\n\nGunslinger belongs to DOD's later pedal catalog and is separate from the historical FX-series models such as FX59, FX69B, and FX86. The archive keeps those as distinct model identities rather than merging them solely because they occupy overlapping high-gain territory. [2]\n\n- **Archive photo:** No verified local photo is currently archived for Gunslinger.\n- External product images remain separate from archive-local photo coverage.\n\n**Sources checked:**\n1. https://digitech.com/dp/gunslinger/ \u2014 first-party DOD product page identifying Gunslinger as MOSFET distortion.\n2. Internal DOD historical reconciliation, Block 072, which places Gunslinger in the DOD Distortion catalog and distinguishes it from the historical FX-series entries.\n\n**Research confidence:** High for model identity and MOSFET distortion characterization; moderate for detailed circuit construction and lifecycle.",
+      "host": "digitech.com",
+      "source_kind": "catalog_verified"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}

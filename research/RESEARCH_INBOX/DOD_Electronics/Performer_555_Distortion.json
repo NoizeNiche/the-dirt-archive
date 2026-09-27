@@ -1,0 +1,17 @@
+{
+  "builder": "DOD Electronics",
+  "pedal": "Performer 555 Distortion",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 1,
+  "sources": [
+    {
+      "url": "https://americaspedals.net/cat.html",
+      "title": "DOD Electronics \u2014 Performer 555 Distortion",
+      "h1": "DOD Electronics \u2014 Performer 555 Distortion",
+      "excerpt": "- **Builder:** DOD Electronics\n- **Pedal:** Performer 555 Distortion\n- **Catalog type:** Distortion\n- **Research level:** Deep\n- **Deep research status:** Verified identity and historical taxonomy\n- **Identity basis:** DOD historical catalog reconciliation explicitly identifies Performer 555 as a Distortion product in the DOD Performer line.\n\nThe **DOD Performer 555 Distortion** is a historical DOD **Performer-series distortion**. The exact product name is preserved in DOD's historical catalog lineage, and the archive classifies it as Distortion based on that explicit product identity. [1]\n\nPerformer 555 is kept as a distinct named model rather than being merged into the numbered FX-series distortion family. The DOD historical reconciliation treats it as part of the Performer catalog, separate from models such as FX56, FX57, FX58, and FX59. [1]\n\nThe reviewed evidence does not establish a complete production span, numbered hardware revision chronology, or universal component BOM.\n\nNo exact-model factory schematic or complete semiconductor inventory was established in this pass. The archive therefore does not assert transistor, clipping-device, or op-amp details by borrowing from related DOD circuits.\n\n- **Archive photo:** No verified local photo is currently archived for Performer 555.\n- External reference imagery remains separate from archive-local photo coverage.\n\n**Sources checked:**\n1. Internal DOD historical reconciliation, Block 072, which explicitly identifies Performer 555 Distortion as a historical DOD Distortion model.\n2. https://americaspedals.net/cat.html \u2014 authoritative historical DOD catalog archive used in the reconciliation for legacy models.\n\n**Research confidence:** High for exact model identity and Distortion taxonomy; low-to-moderate for production chronology and circuit details.",
+      "host": "americaspedals.net",
+      "source_kind": "catalog_verified"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}
