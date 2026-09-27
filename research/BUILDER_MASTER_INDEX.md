@@ -6,11 +6,11 @@ This is the canonical builder identity list for the active **Builder -> Pedals**
 
 ## Current live census
 
-- **588 canonical builder identities** are represented by the current live Builder -> Pedals block set.
-- The live research set currently includes Blocks 001-069, 071-141, and 143-224.
+- **589 canonical builder identities** are represented by the current live Builder -> Pedals block set.
+- The live research set currently includes Blocks 001-069, 071-141, 143-224, and Historical Sweeps 225-227.
 - **Block 070 is absent** and is not counted as a builder.
 - **Block 142 (Fairfield Circuitry) was removed as a duplicate** and is not part of the live block set.
-- The current builder table is reconciled through **ID 588 / Historical Sweeps 225-226**.
+- The current builder table is reconciled through **ID 589 / Historical Sweeps 225-227**.
 
 ## Rules
 
@@ -622,7 +622,7 @@ The five deep discovery dives added **28 new canonical builder identities**, IDs
 | 586 | DryBell | 224 |  |
 | 587 | Lovetone | 225 |  |
 | 588 | Pete Cornish | 226 |  |
-| 587 | Lovetone | 225 |  |
+| 589 | Industrialectric | 227 |  |
 
 ## Confirmed duplicate / merge groups in the live blocks
 
@@ -673,3 +673,7 @@ Block 225 registered **Lovetone** as canonical builder ID 587 and added its four
 ## Historical completeness sweep note
 
 Block 226 registered **Pete Cornish** as canonical builder ID 588 and added ten verified dirt-bearing standalone products: CC-1, SS-2, SS-3, G-2, GC-1, BD-1, P-1, P-2, NG-2, and NG-3. Non-dirt utility, compressor, routing, and boost-only products remain outside the dirt census.
+
+## Historical completeness sweep note
+
+Block 227 corrected an erroneous **Death By Audio — Sonic Incinerator** identity and registered **Industrialectric** as canonical builder ID 589. The verified dirt-bearing additions are **Incinerator** and **Squarewave Generator**. Exact local photos remain pending until exact-model provenance is revalidated.
