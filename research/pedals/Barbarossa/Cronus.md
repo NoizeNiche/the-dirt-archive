@@ -3,67 +3,71 @@
 ## PRP identity
 - **Archive parent:** CRONUS
 - **Builder:** Barbarossa
-- **Catalog types:** Distortion / Overdrive
-- **Introduction:** 2009-era product; Effects Database records the model in June 2009.
-- **Identity:** One parent with documented early modified origins and a later builder redesign.
+- **Catalog type:** Distortion / Overdrive
+- **Identity:** Barbarossa CRONUS, documented from the 2009-era original through a later full redesign that the builder describes as completely original. [1][2]
 
 ## What this pedal is
-CRONUS was developed to combine the muscular low-end character of overdrive with the increased saturation of distortion while retaining the perceived "string core" and dynamics of the guitar. Later Barbarossa documentation says the high-end model was refined after roughly a decade and reintroduced as a completely original design rather than a modification. [1][2]
+CRONUS was developed to combine the thickness and low-end authority of overdrive with substantially more saturation while retaining the sense of the picked string. The later design was refined after roughly a decade and is described by Barbarossa as a completely original redesign rather than a continuation of the earlier modification-based circuit. [1][2]
 
-## Colorways
-- Current documented production uses a titanium-gray matte-finished CNC-machined aluminum enclosure.
-- The current chassis is part of the later redesign.
-- Finish differences alone do not create variants.
+## Version / production history
+### Early CRONUS
+- Documented by Effects Database in **2009**.
+- Early design was modification-based.
+- Intended to retain string definition while extending overdrive into heavier distortion. [1][2]
 
-## Versions and factory production history
+### Later CRONUS
+- Substantially redesigned after approximately ten years.
+- Barbarossa describes this generation as a **completely original product**.
+- Later production uses CNC-machined aluminum construction, point-to-point wiring, cryogenic processing and internal battery provision. [2][3]
 
-### Early CRONUS — modification-based generation
-**Period:** 2009-era original design
+The archive treats these as genuine production generations but does not invent V1/V2 labels because Barbarossa does not use those names in the reviewed material.
 
-Effects Database records CRONUS as a distortion/overdrive model dating to 2009. Contemporary/current Barbarossa retailer material describes the concept as inheriting the thick character of overdrive while increasing distortion and retaining string definition. [1][2]
+## Controls / architecture
+- The later product is an overdrive/distortion platform with gain and tonal shaping designed around preserving note/string definition.
+- Exact front-panel control labels beyond the archived product identity are not reconstructed where the surviving sources are incomplete.
 
-### Later CRONUS — fully original redesign
-**Period:** Later production after approximately a decade
-
-Barbarossa's current retailer documentation explicitly says the high-end model was "brushed up" after ten years and changed from a modification-based design into a completely original product. The later version uses a CNC-machined aluminum enclosure, internal battery provision, point-to-point wiring, titanium-gray matte finish, and cryogenic processing. [2][3]
-
-**Archive treatment:** This is recorded as a meaningful production generation change, but **not** labeled V1/V2 because the builder does not present those numbered version names in the accessible documentation.
-
-## Factory modifications
-- The early modification-based design is part of the builder's historical development.
-- The later redesign is builder/factory work and is included.
-- No aftermarket or user modifications are included.
-
-## Version changes
-The important documented change is the move from an earlier modification-based CRONUS concept to a later fully original Barbarossa design after about ten years. The later version changes both the enclosure/build method and the underlying design identity, which is enough for a separate production generation inside the same parent record without creating a second CRONUS pedal. [2]
+## Circuit lineage
+- The original design had a modification-based development history.
+- The later product is explicitly described by Barbarossa as **completely original**, so no specific commercial clone lineage is assigned to that generation. [2]
 
 ## Transistor
-- **Type:** Unknown.
-- No CRONUS-specific transistor technology or part number published.
+- Exact production transistor technology and part number are **not publicly documented**.
 
-## Diode
-- **Type:** Unknown.
-- No CRONUS-specific diode documentation located.
+## Diode / clipping
+- Exact clipping diode/device technology and part number are **not publicly documented**.
+
+## Construction / hardware
+Later CRONUS documentation identifies:
+- **CNC-machined aluminum enclosure**
+- **Point-to-point wiring**
+- **Titanium-gray matte finish**
+- **Cryogenic processing**
+- Internal battery provision. [2][3]
+
+## Power
+- Later production documentation supports **9V DC** operation.
+- Exact current draw is not securely preserved in the reviewed sources.
 
 ## Sound
-CRONUS is intended to keep the thick, physical feel of overdrive while adding enough distortion saturation to produce a denser, heavier voice without losing the sense of the picked string. Barbarossa's later design philosophy emphasizes dynamic expression, wide usable gain and keeping the instrument's character audible instead of turning the distortion into a blanket of high-end fizz. [2][3]
+CRONUS is intended to retain a thick, physical overdrive feel while extending toward denser distortion, with the later design emphasizing dynamic response and preservation of the picked note/string. [2][3]
 
 ## Research confidence
 - **Identity/history:** High
-- **2009 catalog existence:** High
-- **Early-to-later production relationship:** High
-- **Exact date of redesign:** Moderate
-- **Transistor:** Unknown
-- **Diode:** Unknown
-- **Sound:** High
+- **2009 existence:** High
+- **Early-to-late redesign:** High
+- **Completely original later design:** High as builder statement
+- **CNC/point-to-point later construction:** High
+- **Exact transistor:** Unknown
+- **Exact diode:** Unknown
 
-## Photo
-- **Exact pedal photograph:** Ikebe photograph showing current CRONUS.
-- **Direct image:** https://www.ikebe-gakki.com/Contents/ProductImages/0/856327_LL.jpg
-- **Source page:** https://www.ikebe-gakki.com/Form/Product/ProductDetail.aspx?bid=ec&pid=856327&shop=0
+## Deep research verification
+Effects Database, Ishibashi and Ikebe product records were cross-checked. The evidence establishes the 2009 origin and later redesign, and the later construction details are directly supported by Japanese retailer documentation. [1][2][3]
 
 ## Sources checked
-1. Effects Database — Barbarossa Cronus, published June 23, 2009: https://www.effectsdatabase.com/model/barbarossa/cronus
-2. Ishibashi — CRONUS product history/specifications: https://store.ishibashi.co.jp/view/item/000000065004
-3. Ikebe — current CRONUS specifications and construction: https://www.ikebe-gakki.com/Form/Product/ProductDetail.aspx?bid=ec&pid=856327&shop=0
-4. Reverb/retailer historical listings used for identity confirmation.
+1. Effects Database — Barbarossa CRONUS: https://www.effectsdatabase.com/model/barbarossa/cronus
+2. Ishibashi — CRONUS product history/specification: https://store.ishibashi.co.jp/view/item/000000065004
+3. Ikebe — current CRONUS product: https://www.ikebe-gakki.com/Form/Product/ProductDetail.aspx?bid=ec&pid=856327&shop=0
+
+## Photo
+- **Exact pedal photograph:** Current CRONUS exact-model photograph.
+- https://www.ikebe-gakki.com/Contents/ProductImages/0/856327_LL.jpg
