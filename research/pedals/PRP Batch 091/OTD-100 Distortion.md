@@ -15,3 +15,5 @@ The Biyang OTD-100 is an all-tube distortion pedal built around a selected 6AX7/
 
 ## Archive photo
 - **Archive status:** **No Photo Archived**
+## Deep research verification
+The cited Effects Database, Biyang product and GuitarChina sources support the exact OTD-100 Tonefancier identity as an **all-tube distortion pedal**. The documented versions use a selected 6AX7/12AX7 family tube: Value with Chinese 6AX7, Standard with Chinese 12AX7, Professional with Russian 12AX7EH. Verified controls are **Gain, High, Bass**. The design uses an AC adapter/transformer arrangement for the tube, relay true bypass and a Biyang Interplay jack. Its published range extends from warm overdrive through sustained tube distortion to heavier distortion.
