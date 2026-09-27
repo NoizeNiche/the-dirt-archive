@@ -46,6 +46,19 @@ def identity_ok(builder,pedal,title,h1,excerpt="",url=""):
     if former_name and former_name not in variants:
         variants.append(former_name)
 
+    for value_text in (raw_pedal, core):
+        code_match=re.match(r"^(.*?)\s*\(([^()]{2,10})\)\s*$",value_text)
+        if not code_match:
+            continue
+        base_name=code_match.group(1).strip()
+        code=code_match.group(2).strip()
+        if base_name and base_name not in variants:
+            variants.append(base_name)
+            variants.append(f"{base_name} {code}")
+            variants.append(f"{code} {base_name}")
+        if re.match(r"^[A-Z0-9][A-Z0-9._-]{1,9}$",code,re.IGNORECASE) and code not in variants:
+            variants.append(code)
+
     relationship_base=re.sub(r"\s*\/\s*formerly\s+.+$","",raw_pedal,flags=re.IGNORECASE)
     relationship_base=re.sub(r"\s+legacy\s+reissue.*$","",relationship_base,flags=re.IGNORECASE)
     relationship_base=re.sub(r"\s+—\s+consolidated.*$","",relationship_base,flags=re.IGNORECASE).strip()
