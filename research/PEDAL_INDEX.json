@@ -1,6 +1,6 @@
 {
   "version": "data-20260924-prp1-cbs-arbiter-fuzz-phazer-direct-lead",
-  "count": 4139,
+  "count": 4160,
   "pedals": [
     {
       "company": "1981 Inventions",
@@ -4364,6 +4364,78 @@
       "deep_research_status": "VERIFIED"
     },
     {
+      "company": "ARC Effects",
+      "pedal": "Shepherd",
+      "types": [
+        "Fuzz"
+      ],
+      "image": null,
+      "source_page": "https://www.arceffects.com/shepherd/",
+      "research_record": "./research/pedals/ARC Effects/Shepherd.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "ARC Effects",
+      "pedal": "Big Green",
+      "types": [
+        "Fuzz"
+      ],
+      "image": null,
+      "source_page": "https://www.arceffects.com/big-green",
+      "research_record": "./research/pedals/ARC Effects/Big Green.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "ARC Effects",
+      "pedal": "Big Green Pi",
+      "types": [
+        "Fuzz"
+      ],
+      "image": null,
+      "source_page": "https://www.arceffects.com/big-green-1/",
+      "research_record": "./research/pedals/ARC Effects/Big Green Pi.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "ARC Effects",
+      "pedal": "Crimson King",
+      "types": [
+        "Fuzz"
+      ],
+      "image": null,
+      "source_page": "https://www.arceffects.com/crimson-king/",
+      "research_record": "./research/pedals/ARC Effects/Crimson King.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "ARC Effects",
+      "pedal": "Klone V2",
+      "types": [
+        "Overdrive"
+      ],
+      "image": null,
+      "source_page": "https://www.arceffects.com/klone-v2",
+      "research_record": "./research/pedals/ARC Effects/Klone V2.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "ARC Effects",
+      "pedal": "Klone",
+      "types": [
+        "Overdrive"
+      ],
+      "image": null,
+      "source_page": "https://www.effectsdatabase.com/model/arceffects/klone",
+      "research_record": "./research/pedals/ARC Effects/Klone.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
       "company": "Arcane Analog",
       "pedal": "ARCANE ANALOG FF66 FUZZ FACE",
       "types": [
@@ -7926,6 +7998,102 @@
       "image_source_url": "http://sweetlousguitars.com/cdn/shop/files/20260129_140806.jpg?v=1769737190",
       "research_level": "deep",
       "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "BBE",
+      "pedal": "427 Distortion",
+      "types": [
+        "Distortion"
+      ],
+      "image": null,
+      "source_page": "https://www.effectsdatabase.com/model/bbe/427",
+      "research_record": "./research/pedals/BBE/427 Distortion.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "BBE",
+      "pedal": "AM64 American Metal",
+      "types": [
+        "Distortion"
+      ],
+      "image": null,
+      "source_page": "https://www.effectsdatabase.com/model/bbe/am64",
+      "research_record": "./research/pedals/BBE/AM64 American Metal.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "BBE",
+      "pedal": "Blacksmith Distortion",
+      "types": [
+        "Distortion"
+      ],
+      "image": null,
+      "source_page": "https://www.effectsdatabase.com/model/bbe/blacksmith",
+      "research_record": "./research/pedals/BBE/Blacksmith Distortion.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "BBE",
+      "pedal": "Crusher",
+      "types": [
+        "Distortion"
+      ],
+      "image": null,
+      "source_page": "https://www.effectsdatabase.com/model/bbe/crusher",
+      "research_record": "./research/pedals/BBE/Crusher.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "BBE",
+      "pedal": "Distorto³",
+      "types": [
+        "Distortion"
+      ],
+      "image": null,
+      "source_page": "https://www.effectsdatabase.com/model/bbe",
+      "research_record": "./research/pedals/BBE/Distorto³.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "BBE",
+      "pedal": "Free Fuzz",
+      "types": [
+        "Fuzz"
+      ],
+      "image": null,
+      "source_page": "https://www.effectsdatabase.com/model/bbe/freefuzz",
+      "research_record": "./research/pedals/BBE/Free Fuzz.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "BBE",
+      "pedal": "Heavy-D",
+      "types": [
+        "Distortion"
+      ],
+      "image": null,
+      "source_page": "https://www.effectsdatabase.com/model/bbe",
+      "research_record": "./research/pedals/BBE/Heavy-D.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "BBE",
+      "pedal": "Windowpane - Silicon Fuzz",
+      "types": [
+        "Fuzz"
+      ],
+      "image": null,
+      "source_page": "https://www.effectsdatabase.com/model/bbe/windowpane",
+      "research_record": "./research/pedals/BBE/Windowpane - Silicon Fuzz.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
     },
     {
       "company": "BearFoot FX",
@@ -11806,6 +11974,18 @@
       "deep_research_status": "PENDING_REVIEW"
     },
     {
+      "company": "Black CAT Amps",
+      "pedal": "METAL CORE",
+      "types": [
+        "Distortion"
+      ],
+      "image": null,
+      "source_page": "https://blackcatamps.com/about-us",
+      "research_record": "./research/pedals/Black CAT Amps/METAL CORE.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
       "company": "Black Cat Pedals",
       "pedal": "Bass Octave Fuzz",
       "types": [
@@ -12161,6 +12341,81 @@
       "image_source_page": "https://www.analoguehaven.com/blackbox/inferno/",
       "research_level": "researched",
       "deep_research_status": "PENDING_REVIEW"
+    },
+    {
+      "company": "Blackbox Music Electronics",
+      "pedal": "Cobalt",
+      "types": [
+        "Overdrive"
+      ],
+      "image": null,
+      "source_page": "https://www.effectsdatabase.com/model/blackbox/cobalt",
+      "research_record": "./research/pedals/Blackbox Music Electronics/Cobalt.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Blackbox Music Electronics",
+      "pedal": "Oxygen",
+      "types": [
+        "Distortion",
+        "Overdrive"
+      ],
+      "image": null,
+      "source_page": "https://www.effectsdatabase.com/model/blackbox/oxygen",
+      "research_record": "./research/pedals/Blackbox Music Electronics/Oxygen.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Blackbox Music Electronics",
+      "pedal": "Ultraviolet",
+      "types": [
+        "Fuzz"
+      ],
+      "image": null,
+      "source_page": "https://www.effectsdatabase.com/model/blackbox/ultraviolet",
+      "research_record": "./research/pedals/Blackbox Music Electronics/Ultraviolet.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Blackbox Music Electronics",
+      "pedal": "Ultraviolet 2",
+      "types": [
+        "Fuzz"
+      ],
+      "image": null,
+      "source_page": "https://www.effectsdatabase.com/model/blackbox/ultraviolet2",
+      "research_record": "./research/pedals/Blackbox Music Electronics/Ultraviolet 2.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Blackbox Music Electronics",
+      "pedal": "X-Ray",
+      "types": [
+        "Distortion",
+        "Overdrive"
+      ],
+      "image": null,
+      "source_page": "https://www.effectsdatabase.com/model/blackbox/xray",
+      "research_record": "./research/pedals/Blackbox Music Electronics/X-Ray.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Blackbox Music Electronics",
+      "pedal": "X-Ray Bass!",
+      "types": [
+        "Distortion",
+        "Overdrive"
+      ],
+      "image": null,
+      "source_page": "https://www.effectsdatabase.com/model/blackbox/xray/bass",
+      "research_record": "./research/pedals/Blackbox Music Electronics/X-Ray Bass!.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
     },
     {
       "company": "Blackhawk Amplifiers",
