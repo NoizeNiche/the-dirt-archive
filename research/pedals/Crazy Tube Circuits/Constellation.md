@@ -57,3 +57,26 @@ The six-position architecture covers Fuzz Face, Tone Bender and RangeMaster-styl
 1. Effects Database - Crazy Tube Circuits Constellation of Fuzz
 2. Guitar Pedal X - Constellation OC45 vs CV7003
 3. Crazy Tube Circuits store
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Crazy Tube Circuits's Constellation is cataloged as a fuzz pedal.
+
+### Verified color/finish evidence
+- The original uses Valvo Black Glass OC45 transistors; the limited run (200 units) uses Texas Instruments CV7003 (mil‑spec OC44).
+- I acquired my original Blue OC45 Constellation pretty much as soon as it was announced - or back in April of 2018, and it was a mainstay of my pedal-chain for several months in a row then, and still puts in a fairly regular appearance / rotation nowadays.
+- The earliest Constellation pedals had all-white graphics onto navy blue, while latter versions of that changed the colouring of the tube icons to cyan.
+
+### Verified version references
+- The evidence references: MKI, MKII.
+
+### Verified transistor/device terms
+- Germanium Fuzz.
+
+### Sources checked in this pass
+1. Guitar Pedal X - GPX Blog - Crazy Tube Circuits Constellation OC45 vs Constellation CV7003 (OC44): https://www.guitarpedalx.com/news/gpx-blog/crazy-tube-circuits-constellation-oc45-vs-constellation-cv7003-oc44
+2. CV7003 is still up for sale: https://crazytubecircuits.com/constellationcv7003
+3. catalog/override source: https://www.effectsdatabase.com/model/crazytube/constellation

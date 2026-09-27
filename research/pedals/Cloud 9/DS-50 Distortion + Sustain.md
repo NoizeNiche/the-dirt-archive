@@ -36,3 +36,13 @@ Effects Database describes the pedal as a distortion/sustain effect. The availab
 
 ## Sources checked
 1. Effects Database — Cloud 9 DS-50 Distortion + Sustain: https://www.effectsdatabase.com/model/cloud9/ds50
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Cloud 9's DS-50 Distortion + Sustain is cataloged as a distortion pedal.
+
+### Sources checked in this pass
+1. Cloud 9 DS-50 Distortion + Sustain | Effects Database: https://www.effectsdatabase.com/model/cloud9/ds50

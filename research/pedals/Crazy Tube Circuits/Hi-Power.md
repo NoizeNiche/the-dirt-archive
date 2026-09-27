@@ -71,3 +71,24 @@ Hi-Power is designed to move from high-headroom clean and boost sounds through o
 3. Thomann - Hi Power
 4. Music Store - HI Power
 5. The Studio Rats - Hi Power demo
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Crazy Tube Circuits's Hi-Power is cataloged as a distortion / fuzz / overdrive pedal.
+
+### Verified transistor/device terms
+- BC184.
+
+### Verified sound evidence
+On the right side of the pedal, you will find a recreation of the Colorsound Power Boost featuring the true-to-the-original spec BC184 transistors running on 18V DC (via an internal voltage booster circuit) and the ultra-flexible 2-band Baxandall EQ circuit.
+Following the path of the famed British tube amplifier our circuit offers authentic amp tone and feel.
+From the big bold high-headroom clean sounds to the face-melting crunchy tones.
+
+### Sources checked in this pass
+1. Hi-Power &mdash; Crazy Tube Circuits: https://crazytubecircuits.com/hi-power
+2. Crazy Tube Circuits Hi Power review | Guitar World: https://www.guitarworld.com/reviews/crazy-tube-circuits-hi-power
+3. catalog/override source: https://www.thomannmusic.com/crazy_tube_circuits_hi_power.htm
+4. catalog/override source: https://www.musicstore.com/en_US/USD/Crazy-Tube-Circuits-HI-Power/art-GIT0064281-000

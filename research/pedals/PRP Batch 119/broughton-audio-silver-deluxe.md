@@ -29,3 +29,21 @@ The archive confirms Silver Deluxe as an overdrive project but not enough techni
 
 ## Sources checked
 1. Broughton Audio Pedal Archive, page 2: https://www.broughtonaudio.com/archive?page=2
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+The Silver Deluxe is designed to produce mild JFET overdrive when pushed.
+
+### Verified sound evidence
+The JFET topology adds some character to your signal, while the passive EQ delivers the familiar response found on many classic tube amps.
+The EQ is an exact recreation of the Fender tone stack with Mids.
+The Silver Deluxe is designed to produce mild JFET overdrive when pushed.
+
+### Sources checked in this pass
+1. Silver Deluxe | Broughton Audio: https://www.broughtonaudio.com/product-page/silver-deluxe
+2. Broughton Audio Silver Deluxe - Reverb: https://reverb.com/p/broughton-audio-silver-deluxe
+3. Broughton Audio Silver Deluxe Dimensions, Specs & Details: https://www.stompboxgarden.com/gear/pedal/16940/broughton-audio-silver-deluxe
+4. Silver Deluxe by Broughton Audio | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/Broughton-Audio/Silver-Deluxe/411896397/

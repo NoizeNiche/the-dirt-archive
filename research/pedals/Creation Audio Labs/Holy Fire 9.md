@@ -51,3 +51,13 @@ Holy Fire 9 spans clean boost through smooth overdrive and thicker distortion. T
 1. Creation Audio Labs - Holy Fire 9
 2. Creation Audio Labs - Holy Fire 9 Revisited
 3. Premier Guitar - Holy Fire review
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Creation Audio Labs's Holy Fire 9 is cataloged as a distortion / overdrive pedal.
+
+### Sources checked in this pass
+1. Holy Fire 9 Revisited: https://www.creationaudiolabs.com/single-post/holy-fire-9-revisited

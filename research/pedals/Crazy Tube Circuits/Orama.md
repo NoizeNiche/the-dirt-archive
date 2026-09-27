@@ -76,3 +76,27 @@ Orama covers articulate British-style crunch through thick, saturated drive on t
 3. Music Store - Crazy Tube Circuits Orama
 4. Gearnews - Crazy Tube Circuits Orama: Analog Dual Drive
 5. Crazy Tube Circuits Orama manual
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Every element of Orama was designed to feel alive under your hands: dynamic, reactive, and expressive.
+
+### Verified color/finish evidence
+- Two distinct voicings, RAW and BURN , extend the range from vintage-inspired textures to high-gain saturation and sonic mayhem.
+- Crazy Tube Circuits Orama · Source: Crazy Tube Circuits ADVERTISEMENT Amp Section The left side of the Orama houses the AMP section, a JFET-based circuit meticulously engineered to channel the unmistakable character of a legendary British amplifier, based on the iconic Orange OR120 .
+
+### Verified sound evidence
+Every element of Orama was designed to feel alive under your hands: dynamic, reactive, and expressive.
+Whether used as two separate voices or as one unified wall of sound, it delivers the power, response, and full spectrum of rock tone.
+It delivers everything from bluesy breakup and Classic Rock crunch to Britpop sizzle.
+
+### Sources checked in this pass
+1. Orama &mdash; Crazy Tube Circuits: https://crazytubecircuits.com/orama
+2. catalog/override source: https://www.musicstore.com/en_US/USD/Crazy-Tube-Circuits-Orama/art-GIT0064405-000
+3. Crazy Tube Circuits Orama: Analog Dual Drive: https://www.gearnews.com/crazy-tube-circuits-orama-analog-dual-drive/
+4. https://cdn.gearnews.com/wp-content/uploads/2025/12/Crazy-Tube-Circuits-Orama-Analog-Dual-Drive.jpg: https://cdn.gearnews.com/wp-content/uploads/2025/12/Crazy-Tube-Circuits-Orama-Analog-Dual-Drive.jpg
+5. Crazy Tube Circuits Orama – Musikhaus Thomann: https://www.thomann.de/de/crazy_tube_circuits_orama.htm?offid=1&affid=84
+6. catalog/override source: https://www.effectsdatabase.com/model/crazytube/orama

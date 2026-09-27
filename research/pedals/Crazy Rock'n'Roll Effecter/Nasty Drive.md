@@ -48,3 +48,16 @@ The builder targets the driven feel of a 1970s Hiwatt stack while preserving a b
 1. Crazy Rock'n'Roll Effecter - Nasty Drive
 2. Crazy Rock'n'Roll Effecter / CE shop - Nasty Drive
 3. Crazy Rock'n'Roll Effecter home/company information
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Crazy Rock'n'Roll Effecter's Nasty Drive is cataloged as an overdrive pedal.
+
+### Verified version references
+- The evidence references: v1, v16.
+
+### Sources checked in this pass
+1. Nasty Drive | Crazy Rock'n'roll Effecter: https://www.c-r-effecter.com/nasty-drive

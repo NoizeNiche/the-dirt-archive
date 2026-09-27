@@ -55,3 +55,31 @@ The Constellation OC41 retains the broad six-voice vintage fuzz/boost format. Th
 2. Musical Hobbys - Constellation OC41
 3. Coast Sonic - Constellation OC41
 4. Gear Hero - Constellation OC41
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+FF: Inspired by the Dallas Arbiter Fuzz Face, one of the most notable fuzz pedals in history VTB: Inspired by the Vox ToneBender, a brighter but at the same time “polite” fuzz pedal.
+
+### Verified color/finish evidence
+- All analog, featuring NOS Germanium transistors for smooth and deep complex tone with amazing clean-up.We hand select 3 New Old Stock Black Glass Germanium transistors for each pedal ensuring ideal performance and consistency.
+- OC41 transistor version (white and cyan print) offers more of a balanced tone.
+- We hand select 3 New Old Stock Philips OC41 Black Glass Germanium transistors for each pedal ensuring ideal performance and consistency.
+
+### Verified version references
+- The evidence references: Mk 1, MkII.
+
+### Verified transistor/device terms
+- Germanium fuzz.
+
+### Verified sound evidence
+Crazy Tube Circuits Constellation OC41 Fuzz Guitar Effect Pedal
+A multi-mode Germanium fuzz / booster inspired by british classic Fuzz boxes of the past.
+All analog, featuring NOS Germanium transistors for smooth and deep complex tone with amazing clean-up.We hand select 3 New Old Stock Black Glass Germanium transistors for each pedal ensuring ideal performance and consistency.
+
+### Sources checked in this pass
+1. Crazy Tube Circuits Constellation OC41 Fuzz Guitar Effect Pedal | Pedal | www.musicalhobbys.com: https://www.musicalhobbys.com/product/crazy-tube-circuits-constellation-oc41-fuzz-guitar-effect-pedal/
+2. Crazy Tube Circuits Constellation Fuzz-OC41 &ndash; Coast Sonic: https://coastsonic.com/products/crazy-tube-circuits-constellation-fuzz
+3. Crazy Tube Circuits Constellation OC41 Germanium Fuzz/Booster &ndash; Gear Hero: https://gearhero.com/products/crazy-tube-circuits-constellation-germanium-fuzz-booster

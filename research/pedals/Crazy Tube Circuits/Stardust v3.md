@@ -28,3 +28,26 @@ The verified research describes a low-gain Fender-style overdrive platform with 
 1. Crazy Tube Circuits - Stardust V3: https://crazytubecircuits.com/stardust-v3
 2. Premier Guitar - Stardust V3: https://www.premierguitar.com/gear/reviews/crazy-tube-circuits-stardust
 3. GearStrings - Stardust V3: https://gearstrings.com/bass/crazy-tube-circuits-stardust-v3
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+For bassists seeking organic grit without mud, compression, or sub-bass collapse, the Stardust V3 delivers a rare combination: touch-sensitive dynamics, harmonic richness, and surgical midrange articulation.
+
+### Verified color/finish evidence
+- Placed before a tube-powered bass amp (e.g., Ampeg SVT-VR or Orange AD200), the Stardust’s tube output drives the amp’s input stage with rich harmonic content, engaging natural power-tube saturation earlier—without excessive preamp compression.
+
+### Verified version references
+- The evidence references: V3, v3.
+
+### Verified sound evidence
+Crazy Tube Circuits Stardust V3: A Bassist’s Deep Dive into Tube-Driven Clarity and Dynamic Range
+Measured THD at unity gain is 0.08% (20 Hz–20 kHz, 1 Vrms input), rising to 1.4% at full drive with a smooth, even-harmonic profile peaking at +4.2 dB at 85 Hz and exhibiting only –1.1 dB attenuation at 40 Hz.
+For bassists seeking organic grit without mud, compression, or sub-bass collapse, the Stardust V3 delivers a rare combination: touch-sensitive dynamics, harmonic richness, and surgical midrange articulation.
+
+### Sources checked in this pass
+1. Stardust v3 &mdash; Crazy Tube Circuits: https://crazytubecircuits.com/stardust-v3
+2. Crazy Tube Circuits Stardust V3: A Bassist’s Deep Dive into Tube-Driven Clarity and Dynamic Range | GearStrings: https://gearstrings.com/bass/crazy-tube-circuits-stardust-v3
+3. Crazy Tube Circuits Stardust V3 Review - Premier Guitar: https://www.premierguitar.com/gear/reviews/crazy-tube-circuits-stardust

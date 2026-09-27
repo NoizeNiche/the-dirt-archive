@@ -51,3 +51,32 @@ RAW preserves the recognizable Klon/D-style dual-drive foundation but extends it
 2. Bonedo - Unobtanium Raw
 3. Thomann - Unobtanium Raw
 4. Delicious Audio - Unobtanium Raw
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Crazy Tube Circuits's Unobtanium RAW is cataloged as an overdrive pedal.
+
+### Verified color/finish evidence
+- by Paolo De Gregorio A variation of a dual Klon/Dumble overdrive released in 2022, the Crazy Tube Circuits Unobtanium Raw uses different components to offer tones more suitable for guitarists playing genres ranging from blues to rock rather than from jazz to blue.
+- Related Delicious Audio Posts: Crazy Tube Circuits Mirage Dual Reverb Crazy Tube Circuits Motherload Drive Crazy Tube Circuits Triptychon New Pedal: Crazy Tube Circuits White Whale Junior Crazy Tube Circuits Orama Crazy Tube Circuits Venus Overdrive Categories: Demos
+
+### Verified version references
+- The evidence references: MK4, MKIII, V2.
+
+### Verified diode terms
+- LED.
+
+### Verified sound evidence
+Crazy Tube Circuits Unobtanium Raw Dual Drive
+Delicious Audio Creative Pedals Creative Delay Tape Delay W/ Reverb Delay Distortion Fuzz Overdrive Dual Gain Dirt Boost Compr.
+by Paolo De Gregorio A variation of a dual Klon/Dumble overdrive released in 2022, the Crazy Tube Circuits Unobtanium Raw uses different components to offer tones more suitable for guitarists playing genres ranging from blues to rock rather than from jazz to blue.
+
+### Sources checked in this pass
+1. Unobtanium Raw &mdash; Crazy Tube Circuits: https://crazytubecircuits.com/unobtanium-raw
+2. Crazy Tube Circuits Unobtanium Raw Test - Bonedo: https://www.bonedo.de/artikel/crazy-tube-circuits-unobtanium-raw-test/
+3. Crazy Tube Circuits Unobtanium Raw – United States: https://www.thomannmusic.com/crazy_tube_circuits_unobtanium_raw.htm
+4. Crazy Tube Circuits Unobtanium Raw Dual Drive | Delicious Audio: https://delicious-audio.com/crazy-tube-circuits-unobtanium-raw-dual-drive/
+5. Crazy Tube Circuits Unobtanium Raw: https://www.awin1.com/cread.php?awinmid=67144&awinaffid=1516869&ued=https%3A%2F%2Freverb.com%2Fmarketplace%3Fquery%3DCrazy%20Tube+Circuits+Unobtanium+Raw

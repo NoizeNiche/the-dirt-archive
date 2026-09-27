@@ -30,3 +30,24 @@ The verified research describes a low-gain British channel moving toward warm cr
 2. Austin Guitar House - Ziggy V2: https://austinguitarhouse.com/ctc-ziggy-2/
 3. GuitarRockly - Ziggy V2: https://www.guitarrockly.com/product/crazy-tube-circuits-ziggy-v2-overdrive-distortion-pedal/
 4. Distinctive Guitar - Ziggy V2: https://distinctiveguitar.com/crazy-tube-circuits/crazy-tube-circuits-ziggy-v2-2-channel-overdrive/
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Crazy Tube Circuits's Ziggy V2 is cataloged as a distortion / overdrive pedal.
+
+### Verified version references
+- The evidence references: V2, V3, v2.
+
+### Verified sound evidence
+A silent relay true-bypass switching circuit selects between 2 separate overdrive/distortion channels – low and high gain - each with its own controls for ultimate versatility.
+Low gain channel is voiced after late 60s Super Bass while high gain channel sounds and responds like a late 70s Master Volume British amp.
+Gain knobs on both channels also act as voicing controls adding more bass as you turn clockwise, choosing from jangly and sparkling clean to thick crunch while tone knobs behave as a presence control adding bite to your tone.
+
+### Sources checked in this pass
+1. Ziggy v2 &mdash; Crazy Tube Circuits: https://crazytubecircuits.com/ziggy-v2
+2. catalog/override source: https://www.guitarrockly.com/product/crazy-tube-circuits-ziggy-v2-overdrive-distortion-pedal/
+3. Crazy Tube Circuits Ziggy V2 2 Channel Overdrive: https://distinctiveguitar.com/crazy-tube-circuits/crazy-tube-circuits-ziggy-v2-2-channel-overdrive/
+4. CTC Ziggy V2: https://austinguitarhouse.com/ctc-ziggy-2/

@@ -65,3 +65,27 @@ The V2 retains the warm, dynamic tube character of the original while extending 
 2. Sound House - Space Charged V2
 3. Bonedo - Space Charged V2 test
 4. ReverbZone - Space Charged V2
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Crazy Tube Circuits's Space Charged V2 is cataloged as a distortion / fuzz / overdrive pedal.
+
+### Verified version references
+- The evidence references: MK4, MKIII, V1, V12, V2, V6, v2.
+
+### Verified diode terms
+- LED.
+
+### Verified sound evidence
+The warm, authentic valve drive you get is just heartwarming.
+You can get anything from a mild boost to classic rock and heavy crunch.
+With the gain dimed and the boost engaged it will even take an already driven amp in to metal territory.
+
+### Sources checked in this pass
+1. Crazy Tube Circuits Space Charged V2 Test - Bonedo: https://www.bonedo.de/artikel/crazy-tube-circuits-space-charged-v2-test/
+2. Crazy Tube Circuits Space Charged V2 Tube Overdr. | ReverbZone: https://reverbzone.com/crazy-tube-circuits/crazy-tube-circuits-space-charged-v2-tube-overdr/
+3. LinkedIn Login, Sign in | LinkedIn: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2FshareArticle%3Fmini%3Dtrue%26url%3Dhttps%3A%2F%2Freverbzone.com%2Fcrazy-tube-circuits%2Fcrazy-tube-circuits-space-charged-v2-tube-overdr%2F
+4. Share on WhatsApp: https://api.whatsapp.com/send?text=https://reverbzone.com/crazy-tube-circuits/crazy-tube-circuits-space-charged-v2-tube-overdr/

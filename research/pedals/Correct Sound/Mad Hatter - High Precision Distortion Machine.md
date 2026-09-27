@@ -47,3 +47,14 @@ Mad Hatter combines the response of a Sunn-style preamp with the denser clipping
 1. Reverb - Correct Sound Mad Hatter High Precision Distortion Guitar Effect Pedal
 2. Reverb - Correct Sound Mad Hatter High Precision Distortion Machine
 3. Bajistas - Correct Sound Mad Hatter Precision Distortion references
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Correct Sound's Mad Hatter - High Precision Distortion Machine is cataloged as a distortion / fuzz pedal.
+
+### Sources checked in this pass
+1. catalog/override source: https://reverb.com/item/31493848-correct-sound-mad-hatter-high-precision-distortion-machine
+2. Correct Sound Mad Hatter - High Precision Distortion Machine | Effects ...: https://www.effectsdatabase.com/model/correctsound/madhatter
