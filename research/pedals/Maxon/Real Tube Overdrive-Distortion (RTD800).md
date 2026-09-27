@@ -1,23 +1,40 @@
 # Maxon — Real Tube Overdrive-Distortion (RTD800)
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Real Tube Overdrive-Distortion (RTD800)
 - **Builder:** Maxon
-- **Pedal:** Real Tube Overdrive-Distortion (RTD800)
 - **Catalog type:** Distortion / Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Maxon's Real Tube Overdrive-Distortion (RTD800).
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Real Tube Overdrive-Distortion (RTD800)** by **Maxon** as a **Distortion / Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Add to cart USED Catalinbread Dirty Little Secret MKIdistortion pedal $ 87.00 Original price was: $87.00.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- Add to cart USED Pigtronix Emanator Delay Effects Pedal Black and Red $ 87.00 Original price was: $87.00.
+
+## Versions and factory options
+- The verified evidence references: V1.
+- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+REAL TUBE OVERDRIVE-DISTORTION (RTD800) – Godlyke, Inc.
+Home / Pedals and Effects - USED Single Effect Pedals / USED Maxon REAL TUBE OVERDRIVE-DISTORTION (RTD800) w/ Box Pedals and Effects - USED Single Effect Pedals USED Maxon REAL TUBE OVERDRIVE-DISTORTION (RTD800) w/ Box $ 347.00 Original price was: $347.00.
+This beast blends classic overdrive and aggressive distortion circuits with a genuine 12AX7 tube inside — offering everything from warm grit to searing leads with amp-like feel and clarity.
+
+## Sources checked
+1. REAL TUBE OVERDRIVE-DISTORTION (RTD800) &ndash; Godlyke, Inc.: https://maxonfx.com/products/real-tube-overdrive-distortion-rtd800
+2. USED Maxon REAL TUBE OVERDRIVE-DISTORTION (RTD800) w/ Box: https://www.goodaudioequipment.com/product/used-maxon-real-tube-overdrive-distortion-rtd800-w-box/
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

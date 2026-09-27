@@ -1,23 +1,46 @@
 # Mythos Pedals — Herculean Deluxe Overdrive
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Herculean Deluxe Overdrive
 - **Builder:** Mythos Pedals
-- **Pedal:** Herculean Deluxe Overdrive
 - **Catalog type:** Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Mythos Pedals's Herculean Deluxe Overdrive.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Herculean Deluxe Overdrive** by **Mythos Pedals** as a **Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+What are the Mythos Pedals Herculean Deluxe Overdrive's key tonal traits?
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- The verified evidence references: V2.
+- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+Mythos Pedals Herculean Deluxe Overdrive - Songs That Use This Pedal and How to Dial It In
+mid-forward crunch gain premium tier Adapt to my gear Dial the Mythos Pedals Herculean Deluxe Overdrive sound in on your own rig Tonal profile Two revised Mythos drives in one box with a front-panel order switcher.
+The Herculean side (Level, Drive, Clarity, Bass) is D-style amp territory - thick syrupy leads, or smoky low-gain when Clarity comes down.
+
+## Sources checked
+1. Mythos Pedals Herculean Deluxe Overdrive - Songs That Use This Pedal and How to Dial It In | ToneMirror: https://www.tonemirror.so/pedals/mythos-herculean-deluxe
+2. Mythos Pedals Herculean Deluxe Overdrive - Reverb: https://reverb.com/p/mythos-pedals-herculean-deluxe-overdrive
+3. Mythos Pedals Herculean Deluxe Overdrive | AllThePedals: https://allthepedals.com/pedals/mythos-pedals-herculean-deluxe-overdrive
+4. Mythos Pedals Herculean Deluxe Overdrive: https://parkwaymusic.com/products/mythos-pedals-herculean-deluxe-overdrive
+5. Herculean Deluxe Overdrive by Mythos Pedals | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/Mythos-Pedals/Herculean-Deluxe-Overdrive/384144710/
+6. Herculean Deluxe Overdrive &ndash; Mythos Pedals: https://mythospedals.com/products/herculean-deluxe
+7. Mythos Pedals Herculean Deluxe - Overdrive | Effects Database: https://www.effectsdatabase.com/model/mythos/herculean/deluxe
+8. Mythos Herculean Deluxe Overdrive: https://distinctiveguitar.com/effects/mythos-herculean-deluxe-overdrive/
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

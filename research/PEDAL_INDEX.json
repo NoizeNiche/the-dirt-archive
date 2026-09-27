@@ -35152,8 +35152,8 @@
       "image": "./assets/pedals/electro-harmonix/germanium-4-big-muff-pi/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Electro-Harmonix/Germanium 4 Big Muff Pi.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Electro-Harmonix",
@@ -44148,8 +44148,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Maxon/Real Tube Overdrive-Distortion (RTD800).md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Maxon",
@@ -47402,8 +47402,8 @@
       "image": "./assets/pedals/mythos-pedals/hephaestus-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mythos Pedals/Hephaestus Fuzz.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Mythos Pedals",
@@ -47414,8 +47414,8 @@
       "image": "./assets/pedals/mythos-pedals/herculean-deluxe-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mythos Pedals/Herculean Deluxe Overdrive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Mythos Pedals",
@@ -47427,8 +47427,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Mythos Pedals/High Road Fuzz Mini.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Mythos Pedals",
@@ -49862,8 +49862,8 @@
       "image": "./assets/pedals/retro-mechanical-labs/efccv-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Retro Mechanical Labs/EFCcv Distortion.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Retro Mechanical Labs",

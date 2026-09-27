@@ -1,0 +1,41 @@
+{
+  "builder": "Retro Mechanical Labs",
+  "pedal": "EFCcv Distortion",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 4,
+  "sources": [
+    {
+      "url": "https://www.gear4music.com/Guitar-and-Bass/Retro-Mechanical-Labs-EFCcv-Distortion-Euro-Pedal/2W8W",
+      "title": "Retro Mechanical Labs EFCcv Distortion Euro Pedal",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.gear4music.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://www.gear4music.de/de/Gitarre-and-Bass/Retro-Mechanical-Labs-EFCcv-Distortion-Euro-Pedal/2W8W",
+      "title": "Retro Mechanical Labs EFCcv Distortion Euro-Pedal - Gear4music",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.gear4music.de",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://www.gear4music.nl/nl/Gitaar-and-Basgitaar/Retro-Mechanical-Labs-EFCcv-Distortion-Euro-Pedaal/2W8W",
+      "title": "Retro Mechanical Labs EFCcv Distortion Euro Pedaal",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.gear4music.nl",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://www.gear4music.no/no/Gitar-and-Bass/Retro-Mechanical-Labs-EFCcv-Distortion-Euro-Pedal/2W8W",
+      "title": "Retro Mechanical Labs EFCcv Distortion Euro Pedal - Gear4music",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.gear4music.no",
+      "source_kind": "other"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}

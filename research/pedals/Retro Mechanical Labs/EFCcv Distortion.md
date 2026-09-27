@@ -1,23 +1,39 @@
 # Retro Mechanical Labs — EFCcv Distortion
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** EFCcv Distortion
 - **Builder:** Retro Mechanical Labs
-- **Pedal:** EFCcv Distortion
 - **Catalog type:** Distortion
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Retro Mechanical Labs's EFCcv Distortion.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **EFCcv Distortion** by **Retro Mechanical Labs** as a **Distortion** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Retro Mechanical Labs's EFCcv Distortion is cataloged as a distortion pedal.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+The verified evidence packet did not contain enough pedal-specific sonic description to make a more detailed sound summary without adding unsupported interpretation.
+
+## Sources checked
+1. Retro Mechanical Labs EFCcv Distortion Euro Pedal: https://www.gear4music.com/Guitar-and-Bass/Retro-Mechanical-Labs-EFCcv-Distortion-Euro-Pedal/2W8W
+2. Retro Mechanical Labs EFCcv Distortion Euro-Pedal - Gear4music: https://www.gear4music.de/de/Gitarre-and-Bass/Retro-Mechanical-Labs-EFCcv-Distortion-Euro-Pedal/2W8W
+3. Retro Mechanical Labs EFCcv Distortion Euro Pedaal: https://www.gear4music.nl/nl/Gitaar-and-Basgitaar/Retro-Mechanical-Labs-EFCcv-Distortion-Euro-Pedaal/2W8W
+4. Retro Mechanical Labs EFCcv Distortion Euro Pedal - Gear4music: https://www.gear4music.no/no/Gitar-and-Bass/Retro-Mechanical-Labs-EFCcv-Distortion-Euro-Pedal/2W8W
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
