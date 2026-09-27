@@ -1,6 +1,6 @@
 {
   "version": "data-20260924-prp1-cbs-arbiter-fuzz-phazer-direct-lead",
-  "count": 4189,
+  "count": 4195,
   "pedals": [
     {
       "company": "1981 Inventions",
@@ -19562,6 +19562,32 @@
       "image_source_url": "https://www.tonehome.de/s/img/emotionheader.jpg",
       "research_level": "deep",
       "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "Carlsbro",
+      "pedal": "Suzz-Phase",
+      "types": [
+        "Distortion",
+        "Fuzz"
+      ],
+      "image": null,
+      "source_page": "https://www.effectsdatabase.com/model/carlsbro/alu",
+      "research_record": "./research/pedals/Carlsbro/Suzz-Phase.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Carlsbro",
+      "pedal": "Suzz Wah-Wah",
+      "types": [
+        "Fuzz",
+        "Distortion"
+      ],
+      "image": null,
+      "source_page": "https://www.effectsdatabase.com/model/carlsbro/alu",
+      "research_record": "./research/pedals/Carlsbro/Suzz Wah-Wah.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
     },
     {
       "company": "Carlson",
@@ -56537,6 +56563,54 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/casestudy/lastlight",
       "research_record": "./research/pedals/Case Study Effects/Lastlight Overdrive.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Tube Works",
+      "pedal": "901 Real Tube",
+      "types": [
+        "Overdrive"
+      ],
+      "image": null,
+      "source_page": "https://www.effectsdatabase.com/model/tubeworks",
+      "research_record": "./research/pedals/Tube Works/901 Real Tube.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Tube Works",
+      "pedal": "903 Blue Tube",
+      "types": [
+        "Overdrive"
+      ],
+      "image": null,
+      "source_page": "https://www.effectsdatabase.com/model/tubeworks",
+      "research_record": "./research/pedals/Tube Works/903 Blue Tube.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Tube Works",
+      "pedal": "910 Tube Driver",
+      "types": [
+        "Overdrive"
+      ],
+      "image": null,
+      "source_page": "https://www.effectsdatabase.com/model/tubeworks",
+      "research_record": "./research/pedals/Tube Works/910 Tube Driver.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Tube Works",
+      "pedal": "911 Tube Driver",
+      "types": [
+        "Overdrive"
+      ],
+      "image": null,
+      "source_page": "https://www.effectsdatabase.com/model/tubeworks",
+      "research_record": "./research/pedals/Tube Works/911 Tube Driver.md",
       "research_level": "surface",
       "deep_research_status": "PENDING"
     }
