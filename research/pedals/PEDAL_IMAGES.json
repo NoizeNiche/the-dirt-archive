@@ -3874,6 +3874,20 @@
   },
   {
     "builder": "Beetronics",
+    "pedal": "Nectar Tone Sweetener Drive/Fuzz",
+    "image": "",
+    "source_page": "https://www.beetronicsfx.com/collections/all-pedals-1",
+    "research_record": "./research/pedals/Beetronics/Nectar Tone Sweetener Drive/Fuzz.md"
+  },
+  {
+    "builder": "Beetronics",
+    "pedal": "Octahive V1 Upper Octave Fuzz",
+    "image": "",
+    "source_page": "https://www.beetronicsfx.com/collections/all-pedals-1",
+    "research_record": "./research/pedals/Beetronics/Octahive V1 Upper Octave Fuzz.md"
+  },
+  {
+    "builder": "Beetronics",
     "pedal": "Octahive v2 High Octave Buzz",
     "image": "",
     "source_page": "https://www.beetronicsfx.com/collections/all-pedals-1",
@@ -3920,6 +3934,13 @@
     "image": "",
     "source_page": "https://www.beetronicsfx.com/collections/drive",
     "research_record": "./research/pedals/Beetronics/Wannabee Beelateral Buzz.md"
+  },
+  {
+    "builder": "Beetronics",
+    "pedal": "Zzombee Filtremulator",
+    "image": "",
+    "source_page": "https://www.beetronicsfx.com/collections/all-pedals-1",
+    "research_record": "./research/pedals/Beetronics/Zzombee Filtremulator.md"
   },
   {
     "builder": "Beetronics FX",
@@ -18443,13 +18464,6 @@
   },
   {
     "builder": "HardWire",
-    "pedal": "none identified",
-    "image": "./assets/pedals/hardwire/none-identified/primary.webp",
-    "source_page": null,
-    "research_record": "./research/pedals/HardWire/none identified.md"
-  },
-  {
-    "builder": "HardWire",
     "pedal": "SC-2 Valve Distortion",
     "image": "./assets/pedals/hardwire/sc-2-valve-distortion/primary.webp",
     "source_page": null,
@@ -19451,6 +19465,13 @@
   },
   {
     "builder": "JHS Pedals",
+    "pedal": "73 Rams Head",
+    "image": null,
+    "source_page": "https://jhspedals.info/products/73-rams-head",
+    "research_record": "./research/pedals/JHS Pedals/73 Rams Head.md"
+  },
+  {
+    "builder": "JHS Pedals",
     "pedal": "424 Gain Stage",
     "image": "./assets/pedals/jhs-pedals/424-gain-stage/primary.webp",
     "source_page": null,
@@ -19486,6 +19507,20 @@
   },
   {
     "builder": "JHS Pedals",
+    "pedal": "Bunrunner 2 in 1",
+    "image": null,
+    "source_page": "https://jhspedals.info/products/bunrunner-hand-paint",
+    "research_record": "./research/pedals/JHS Pedals/Bunrunner 2 in 1.md"
+  },
+  {
+    "builder": "JHS Pedals",
+    "pedal": "Calhoun V2",
+    "image": null,
+    "source_page": "https://jhspedals.info/products/calhoun-hand-paint",
+    "research_record": "./research/pedals/JHS Pedals/Calhoun V2, Mike Campbell.md"
+  },
+  {
+    "builder": "JHS Pedals",
     "pedal": "Charlie Brown V4",
     "image": "./assets/pedals/jhs-pedals/charlie-brown-v4/primary.webp",
     "source_page": null,
@@ -19497,6 +19532,13 @@
     "image": "./assets/pedals/jhs-pedals/cheese-ball/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/JHS Pedals/Cheese Ball.md"
+  },
+  {
+    "builder": "JHS Pedals",
+    "pedal": "Colour Box V1",
+    "image": null,
+    "source_page": "https://jhspedals.info/products/colour-box-v1",
+    "research_record": "./research/pedals/JHS Pedals/Colour Box V1.md"
   },
   {
     "builder": "JHS Pedals",
@@ -19518,6 +19560,13 @@
     "image": "./assets/pedals/jhs-pedals/crayon/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/JHS Pedals/Crayon.md"
+  },
+  {
+    "builder": "JHS Pedals",
+    "pedal": "Double Barrel V4",
+    "image": null,
+    "source_page": "https://jhspedals.info/products/double-barrel-v4",
+    "research_record": "./research/pedals/JHS Pedals/Double Barrel V4.md"
   },
   {
     "builder": "JHS Pedals",
@@ -19563,10 +19612,24 @@
   },
   {
     "builder": "JHS Pedals",
+    "pedal": "Kilt V1",
+    "image": null,
+    "source_page": "https://jhspedals.info/products/kilt-v1-stug",
+    "research_record": "./research/pedals/JHS Pedals/Kilt V1, Stu G.md"
+  },
+  {
+    "builder": "JHS Pedals",
     "pedal": "Kilt V2",
     "image": "./assets/pedals/jhs-pedals/kilt-v2/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/JHS Pedals/Kilt V2.md"
+  },
+  {
+    "builder": "JHS Pedals",
+    "pedal": "Mini Foot Fuzz V1",
+    "image": null,
+    "source_page": "https://jhspedals.info/products/mini-foot-fuzz-v2",
+    "research_record": "./research/pedals/JHS Pedals/Mini Foot Fuzz V1.md"
   },
   {
     "builder": "JHS Pedals",
@@ -19654,10 +19717,24 @@
   },
   {
     "builder": "JHS Pedals",
+    "pedal": "Pandamonium",
+    "image": null,
+    "source_page": "https://jhspedals.info/products/pandamonium",
+    "research_record": "./research/pedals/JHS Pedals/Pandamonium.md"
+  },
+  {
+    "builder": "JHS Pedals",
     "pedal": "PG-14",
     "image": "./assets/pedals/jhs-pedals/pg-14/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/JHS Pedals/PG-14.md"
+  },
+  {
+    "builder": "JHS Pedals",
+    "pedal": "Ruby Red",
+    "image": null,
+    "source_page": "https://jhspedals.info/products/ruby-red-butch-walker",
+    "research_record": "./research/pedals/JHS Pedals/Ruby Red, Butch Walker.md"
   },
   {
     "builder": "JHS Pedals",
@@ -19672,6 +19749,20 @@
     "image": "./assets/pedals/jhs-pedals/steak-and-eggs-overdrive-compressor/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/JHS Pedals/Steak and Eggs Overdrive/Compressor.md"
+  },
+  {
+    "builder": "JHS Pedals",
+    "pedal": "SuperBolt V2",
+    "image": null,
+    "source_page": "https://jhspedals.info/products/superbolt-v2",
+    "research_record": "./research/pedals/JHS Pedals/SuperBolt V2.md"
+  },
+  {
+    "builder": "JHS Pedals",
+    "pedal": "Sweet Tea V3",
+    "image": null,
+    "source_page": "https://jhspedals.info/products/sweet-tea-v3",
+    "research_record": "./research/pedals/JHS Pedals/Sweet Tea V3.md"
   },
   {
     "builder": "JHS Pedals",
@@ -21397,13 +21488,6 @@
   },
   {
     "builder": "Marshall Amplification",
-    "pedal": "none identified",
-    "image": "./assets/pedals/marshall-amplification/none-identified/primary.webp",
-    "source_page": null,
-    "research_record": "./research/pedals/Marshall Amplification/none identified.md"
-  },
-  {
-    "builder": "Marshall Amplification",
     "pedal": "Shredmaster Vintage Reissue",
     "image": "./assets/pedals/marshall-amplification/shredmaster-vintage-reissue/primary.webp",
     "source_page": null,
@@ -22423,13 +22507,6 @@
     "image": "./assets/pedals/mesa-boogie/grid-slammer/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/MESA/Boogie/Grid Slammer.md"
-  },
-  {
-    "builder": "MESA/Boogie",
-    "pedal": "none identified",
-    "image": "./assets/pedals/mesa-boogie/none-identified/primary.webp",
-    "source_page": null,
-    "research_record": "./research/pedals/MESA/Boogie/none identified.md"
   },
   {
     "builder": "MESA/Boogie",
@@ -23963,13 +24040,6 @@
     "image": "./assets/pedals/orange-amplification/guitar-butler/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Orange Amplification/Guitar Butler.md"
-  },
-  {
-    "builder": "Orange Amplification",
-    "pedal": "none identified",
-    "image": "./assets/pedals/orange-amplification/none-identified/primary.webp",
-    "source_page": null,
-    "research_record": "./research/pedals/Orange Amplification/none identified.md"
   },
   {
     "builder": "Organic Sounds",
@@ -25989,13 +26059,6 @@
   },
   {
     "builder": "Strymon",
-    "pedal": "none identified",
-    "image": null,
-    "source_page": null,
-    "research_record": "./research/pedals/Strymon/none identified.md"
-  },
-  {
-    "builder": "Strymon",
     "pedal": "Riverside Drive & Distortion",
     "image": null,
     "source_page": null,
@@ -26231,13 +26294,6 @@
     "image": null,
     "source_page": null,
     "research_record": "./research/pedals/TC Electronic/MojoMojo Paul Gilbert Signature Overdrive.md"
-  },
-  {
-    "builder": "TC Electronic",
-    "pedal": "none identified",
-    "image": null,
-    "source_page": null,
-    "research_record": "./research/pedals/TC Electronic/none identified.md"
   },
   {
     "builder": "TC Electronic",
@@ -27386,13 +27442,6 @@
     "image": null,
     "source_page": null,
     "research_record": "./research/pedals/Voodoo Lab/GIGGITY.md"
-  },
-  {
-    "builder": "Voodoo Lab",
-    "pedal": "none",
-    "image": null,
-    "source_page": null,
-    "research_record": "./research/pedals/Voodoo Lab/none.md"
   },
   {
     "builder": "Voodoo Lab",
@@ -28807,82 +28856,5 @@
     "image": null,
     "source_page": null,
     "research_record": "./research/pedals/ZVEX Effects/Woolly Mammoth 7.md"
-  },
-  {
-    "builder": "JHS Pedals",
-    "pedal": "73 Rams Head",
-    "image": null,
-    "source_page": "https://jhspedals.info/products/73-rams-head",
-    "research_record": "./research/pedals/JHS Pedals/73 Rams Head.md"
-  },
-  {
-    "builder": "JHS Pedals",
-    "pedal": "Double Barrel V4",
-    "image": null,
-    "source_page": "https://jhspedals.info/products/double-barrel-v4",
-    "research_record": "./research/pedals/JHS Pedals/Double Barrel V4.md"
-  },
-  {
-    "builder": "JHS Pedals",
-    "pedal": "Sweet Tea V3",
-    "image": null,
-    "source_page": "https://jhspedals.info/products/sweet-tea-v3",
-    "research_record": "./research/pedals/JHS Pedals/Sweet Tea V3.md"
-  },
-  {
-    "builder": "JHS Pedals",
-    "pedal": "SuperBolt V2",
-    "image": null,
-    "source_page": "https://jhspedals.info/products/superbolt-v2",
-    "research_record": "./research/pedals/JHS Pedals/SuperBolt V2.md"
-  },
-  {
-    "builder": "JHS Pedals",
-    "pedal": "Kilt V1",
-    "image": null,
-    "source_page": "https://jhspedals.info/products/kilt-v1-stug",
-    "research_record": "./research/pedals/JHS Pedals/Kilt V1, Stu G.md"
-  },
-  {
-    "builder": "JHS Pedals",
-    "pedal": "Colour Box V1",
-    "image": null,
-    "source_page": "https://jhspedals.info/products/colour-box-v1",
-    "research_record": "./research/pedals/JHS Pedals/Colour Box V1.md"
-  },
-  {
-    "builder": "JHS Pedals",
-    "pedal": "Mini Foot Fuzz V1",
-    "image": null,
-    "source_page": "https://jhspedals.info/products/mini-foot-fuzz-v2",
-    "research_record": "./research/pedals/JHS Pedals/Mini Foot Fuzz V1.md"
-  },
-  {
-    "builder": "JHS Pedals",
-    "pedal": "Bunrunner 2 in 1",
-    "image": null,
-    "source_page": "https://jhspedals.info/products/bunrunner-hand-paint",
-    "research_record": "./research/pedals/JHS Pedals/Bunrunner 2 in 1.md"
-  },
-  {
-    "builder": "JHS Pedals",
-    "pedal": "Calhoun V2",
-    "image": null,
-    "source_page": "https://jhspedals.info/products/calhoun-hand-paint",
-    "research_record": "./research/pedals/JHS Pedals/Calhoun V2, Mike Campbell.md"
-  },
-  {
-    "builder": "JHS Pedals",
-    "pedal": "Ruby Red",
-    "image": null,
-    "source_page": "https://jhspedals.info/products/ruby-red-butch-walker",
-    "research_record": "./research/pedals/JHS Pedals/Ruby Red, Butch Walker.md"
-  },
-  {
-    "builder": "JHS Pedals",
-    "pedal": "Pandamonium",
-    "image": null,
-    "source_page": "https://jhspedals.info/products/pandamonium",
-    "research_record": "./research/pedals/JHS Pedals/Pandamonium.md"
   }
 ]
