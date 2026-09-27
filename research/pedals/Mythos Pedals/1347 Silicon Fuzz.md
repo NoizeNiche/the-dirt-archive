@@ -1,23 +1,44 @@
 # Mythos Pedals — 1347 Silicon Fuzz
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** 1347 Silicon Fuzz
 - **Builder:** Mythos Pedals
-- **Pedal:** 1347 Silicon Fuzz
 - **Catalog type:** Distortion / Fuzz
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Mythos Pedals's 1347 Silicon Fuzz.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **1347 Silicon Fuzz** by **Mythos Pedals** as a **Distortion / Fuzz** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Mythos Pedals's 1347 Silicon Fuzz is cataloged as a distortion / fuzz pedal.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- From Mythos: Built exclusively for Mass Street Music the 1347 is a Mythos homage to those round blue fuzzes that graced stages and studios in the late 1960's.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+Mythos Pedals - 1347 Silicon Fuzz - Mass Street Music Edition
+This collaboration has resulted in a two transistor Silicon Fuzz that is extremely musical and cleans up nicely with your guitar's volume knob to deliver a fuzz sweet-spot with any rig.
+Named after our address for the past 39 years, here at 1347 Massachusetts Street, this shop exclusive fuzz is already a favorite here and we couldn't be more excited to share it with you.
+
+## Sources checked
+1. 1347 Silicon Fuzz - Mythos Pedals: https://mythospedals.com/products/1347-silicon-fuzz
+2. Mythos Pedals 1347 Silicon Fuzz Pedal | Equipboard: https://equipboard.com/items/mythos-pedals-1347-silicon-fuzz
+3. Mythos Pedals - 1347 Silicon Fuzz - Mass Street Music Edition | Mass Street Music: https://massstreetmusic.com/products/mythos-pedals-1347-silicon-fuzz
+4. Used Mythos Pedals 1347 Silicon Fuzz Effect Pedal - Guitar Center: https://www.guitarcenter.com/Used/Mythos-Pedals/Used-Mythos-Pedals-1347-Silicon-Fuzz-Effect-Pedal-122726220.gc
+5. Mythos Pedals 1347 Silicon Fuzz Pedal with Box - Reverb: https://reverb.com/item/100813551-mythos-pedals-1347-silicon-fuzz-pedal-with-box
+6. Mythos Pedals 1347 Silicon Fuzz - Effects Database: https://www.effectsdatabase.com/model/mythos/1347
+7. STOMP BOX STEALS: FUZZ- MYTHOS PEDALS 1347 Silicon Fuzz ... NOS ...: https://stompboxsteals.blogspot.com/2023/08/fuzz-mythos-pedals-1347-silicon-fuzz.html
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

@@ -1,23 +1,38 @@
 # Mythos Pedals — 1N34A Mjolnir - Gold
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** 1N34A Mjolnir - Gold
 - **Builder:** Mythos Pedals
-- **Pedal:** 1N34A Mjolnir - Gold
 - **Catalog type:** Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Mythos Pedals's 1N34A Mjolnir - Gold.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **1N34A Mjolnir - Gold** by **Mythos Pedals** as a **Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Mythos Pedals's 1N34A Mjolnir - Gold is cataloged as an overdrive pedal.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- We're offering these in Silver and Gold finishes and the design is reminiscent of their inspiration.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Documented terms in the verified sources: 1N34A.
+- The archive records only the component information explicitly present in these sources.
+
+## Sound
+The amount of gain is the same, voicing, output, it's all there and tweaked in just the right way.
+Buffered Bypass Switching Internal Charge Pump (9volt Power Supply ONLY) Vintage 1N34A Diode Pair Sonic replica of Serial 1666 Klon Centaur © Internal Battery Clip Customers also like Selectable Tone Cap $15.00 ( / ) Add to cart
+Blaster Boost Kit $45.00 ( / ) Add to cart
+
+## Sources checked
+1. 1N34A Mjolnir - Gold &ndash; Mythos Pedals: https://mythospedals.com/products/1n34a-germanium-mjolnir-gold
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

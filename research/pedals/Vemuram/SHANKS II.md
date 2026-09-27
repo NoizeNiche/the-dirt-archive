@@ -1,23 +1,42 @@
 # Vemuram — SHANKS II
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** SHANKS II
 - **Builder:** Vemuram
-- **Pedal:** SHANKS II
 - **Catalog type:** Fuzz
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Vemuram's SHANKS II.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **SHANKS II** by **Vemuram** as a **Fuzz** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+The Vemuram Shanks II is designed with Fuzz Face, Tonebender and Buzzaround circuits in mind.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Documented terms in the verified sources: silicon transistors.
+- The archive records only the component information explicitly present in these sources.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+The Vemuram Shanks II is designed with Fuzz Face, Tonebender and Buzzaround circuits in mind.
+Thanks to two silicon transistors and a FET with 3 orange drop capacitors, this Fuzz is extremely dynamic and versatile.
+Thanks to the tone control, the Shanks II can handle both biting single coils and warm, full humbuckers.
+
+## Sources checked
+1. VEMURAM SHANKS II - Reverb: https://reverb.com/item/20226295-vemuram-shanks-ii
+2. Vemuram Shanks II - Fuzz - Effects Database: https://www.effectsdatabase.com/model/vemuram/shanks/2
+3. Vemuram Shanks II Silicon Fuzz | Effects: https://www.studionestio.com/product/vemuram-shanks-ii-silicon-fuzz/
+4. Vemuram Shanks II Fuzz/Boost Pedal - Effects & Pedals for Drive, Delay, Reverb & More: https://www.pedalbeam.com/product/vemuram-shanks-ii-fuzz-boost-pedal/
+5. VEMURAM SHANKS II SILICON FUZZ BOOST - chordovacraft.com: https://www.chordovacraft.com/product/vemuram-shanks-ii-silicon-fuzz-boost/
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

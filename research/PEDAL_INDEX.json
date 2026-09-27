@@ -35103,8 +35103,8 @@
       "image": "./assets/pedals/electro-harmonix/east-river-drive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Electro-Harmonix/East River Drive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Electro-Harmonix",
@@ -43612,8 +43612,8 @@
       "image": "./assets/pedals/mask-audio-electronics/little-acorn/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mask Audio Electronics/Little Acorn.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Mask Audio Electronics",
@@ -44070,8 +44070,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Maxon/Overdrive (OD808).md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Maxon",
@@ -46016,8 +46016,8 @@
       "image": "./assets/pedals/mojo-hand-fx/magistrate/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mojo Hand FX/Magistrate.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Mojo Hand FX",
@@ -47217,8 +47217,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Mythos Pedals/1347 Silicon Fuzz.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Mythos Pedals",
@@ -47229,8 +47229,8 @@
       "image": "./assets/pedals/mythos-pedals/1n34a-mjolnir-gold/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mythos Pedals/1N34A Mjolnir - Gold.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Mythos Pedals",
@@ -49328,8 +49328,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Prescription Electronics/Frantic Fuzz.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Prescription Electronics",
@@ -53688,8 +53688,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Vemuram/SHANKS II.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Vemuram",
