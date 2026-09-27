@@ -1,46 +1,59 @@
-# Beetronics FX - Tuna Fuzz
+# Beetronics FX — Tuna Fuzz
 
 ## PRP identity
 - **Archive parent:** Tuna Fuzz
 - **Builder:** Beetronics FX
 - **Catalog type:** Fuzz
-- **Identity:** Single-control vintage-style fuzz built into a real tuna can enclosure.
+- **Identity:** Single-control vintage-style fuzz housed in a real empty tuna can, using a three-transistor fuzz circuit. [1][2]
 
 ## What this pedal is
-Tuna Fuzz is Beetronics' compact can-enclosed fuzz, housed in a real empty tuna can and built around a Tunabee-shaped PCB. Beetronics documents the circuit as a three-transistor fuzz that shares some similarities with the Octahive but has a different tonal response.
+Beetronics designed Tuna Fuzz around a deliberately unusual enclosure: a real empty tuna can. The builder documents a three-transistor fuzz and notes that its circuit shares some similarities with Octahive while producing a different tonal response. [1]
 
-## Colorways
-- Standard production presentation is a silver tuna can.
-- Limited editions such as Jingle Buzz use different graphics/presentation and are treated as distinct editions where named by Beetronics.
+## Controls
+- **STINKER:** Master volume/output.
+- Guitar volume can be used to alter the gain/cleanup behavior. [1]
 
-## Versions and factory options
-### Tuna Fuzz
-- STINKER master-volume control
-- 3-transistor fuzz
-- Real empty tuna-can enclosure
-- 9V operation
-- True bypass
-- Guitar-volume interaction used for cleanup/gain control
+## Circuit / active devices
+- **Three-transistor fuzz** is documented by Beetronics.
+- The exact transistor part numbers are not publicly documented.
 
-## Version changes
-Beetronics has released limited editions of the Tuna concept, but the checked sources do not establish a numbered electrical revision of the standard Tuna Fuzz.
+## Diode / clipping
+- Exact clipping/protection devices and part numbers are not publicly documented.
 
-## Transistor
-- **Factory architecture:** Beetronics documents a three-transistor fuzz.
-- **Exact transistor part numbers:** Not publicly documented.
+## Power
+- **9V operation**. [1]
+- Exact current draw is not established in the reviewed official source.
 
-## Diode
-- **Exact clipping/protection arrangement or diode part numbers:** Not publicly documented.
+## Construction / hardware
+- Real empty tuna-can enclosure.
+- Single main control.
+- True bypass.
+- Beetronics specifically warns against placing a buffer immediately before the pedal because the circuit is designed to interact with the guitar/source impedance. [1]
+
+## Version history
+- Standard Tuna Fuzz.
+- Named limited editions such as Jingle Buzz are separate visual/edition presentations.
+- No numbered electrical revision established.
 
 ## Sound
-Tuna Fuzz is loud, dynamic, and intentionally vintage-voiced, with the guitar's volume control serving as an important part of its gain range. Beetronics specifically notes that the pedal can clean up significantly and recommends avoiding a buffer before it.
+Tuna Fuzz is deliberately dynamic and vintage-voiced. The builder emphasizes strong interaction with the guitar volume control and enough gain to move from fuzz toward cleaner/broken-up sounds when the instrument is rolled back. [1][2]
+
+## Research confidence
+- **Identity:** High
+- **Three-transistor architecture:** High
+- **Tuna-can construction:** High
+- **Guitar-volume interaction:** High
+- **Exact transistor:** Unknown
+- **Exact diode:** Unknown
+
+## Deep research verification
+Beetronics' standard Tuna Fuzz page, limited-edition page and official demo were cross-checked. The evidence supports the three-transistor fuzz, tuna-can construction, guitar-volume interaction and 9V operation. [1][2][3]
 
 ## Sources checked
-1. Beetronics official Tuna Fuzz: https://www.beetronicsfx.com/products/tuna-fuzz
-2. Beetronics Tuna Fuzz limited edition: https://www.beetronicsfx.com/products/tuna-fuzz-jingle-buzz-limited-edition
-3. Beetronics official Tuna Fuzz demo: https://www.youtube.com/watch?v=Egf2Y1wikpk
+1. Beetronics FX — Tuna Fuzz: https://www.beetronicsfx.com/products/tuna-fuzz
+2. Beetronics FX — Jingle Buzz limited edition: https://www.beetronicsfx.com/products/tuna-fuzz-jingle-buzz-limited-edition
+3. Beetronics FX — Tuna Fuzz demo: https://www.youtube.com/watch?v=Egf2Y1wikpk
 
 ## Photo
-- **Archive status:** **Exact Photo Attached to Public Catalog**
-- **Exact-model image:** https://www.beetronicsfx.com/cdn/shop/files/TunaSilver_01_5d3ef360-7055-428a-bf95-ffdd8246b88b.jpg?v=1727192076&width=1500
-- **Source page:** https://www.beetronicsfx.com/products/tuna-fuzz
+- **Exact pedal photograph:** Beetronics official Tuna Fuzz image.
+- https://www.beetronicsfx.com/cdn/shop/files/TunaSilver_01_5d3ef360-7055-428a-bf95-ffdd8246b88b.jpg?v=1727192076&width=1500
