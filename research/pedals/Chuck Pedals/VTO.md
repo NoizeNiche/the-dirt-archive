@@ -31,3 +31,6 @@ The model is documented as a vintage boost/overdrive pedal. More detailed charac
 
 ## Sources checked
 1. Effects Database — Chuck Pedals VTO: https://www.effectsdatabase.com/updates/weekly/20170116
+## Deep research verification
+
+Effects Database's exact Chuck Pedals release entry identifies **VTO** as **Vintage Boost / Overdrive** and places it among the builder's January 2017 releases. The exact-model source does not establish a complete control map, semiconductor complement, power specification or numbered revision history, so those fields remain unknown rather than being inferred from other Chuck Pedals.
