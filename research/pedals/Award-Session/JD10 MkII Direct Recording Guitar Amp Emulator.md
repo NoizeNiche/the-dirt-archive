@@ -4,67 +4,65 @@
 - **Archive parent:** JD10 MkII Direct Recording Guitar Amp Emulator
 - **Builder:** Award-Session
 - **Catalog type:** Distortion / Overdrive
-- **Identity:** Updated JD10 direct-recording preamp with FlexiDrive distortion, G12T speaker simulation, Super-T EQ, buffered tuner output and XLR main output.
+- **Identity:** Updated JD10 direct-recording preamp combining FlexiDrive distortion, G12T speaker simulation, Super-T EQ, a buffered tuner output and XLR output. [1][2]
 
 ## What this pedal is
-Award-Session's MkII builds on the original JD10 with updated circuitry and additional connectivity. Public documentation identifies it as a multipurpose overdrive, distortion, preamp, EQ and line-driver device with switchable speaker emulation.
+The JD10 MkII is a revised version of the JD10 direct-recording preamp. Effects Database describes it as an overdrive, distortion, preamp, EQ and line-driver device with switchable speaker emulation. [1]
 
-## Colorways
-- **Documented presentation:** standard black enclosure.
-- **Shadows version:** a special-edition presentation is documented in secondary-market examples.
-- No circuit change is established solely by the Shadows cosmetic name.
+## Controls / connectivity
+- **DRIVE / DEPTH**
+- **CLASSIC / ROCK**
+- **G12T / NORM**
+- **TREBLE**
+- **MIDDLE**
+- **BASS**
+- **OUTPUT LEVEL**
+- **Buffered TUNER OUT:** Always-active buffered output.
+- **XLR OUT:** Duplicates the main output.
+- Switchable speaker-emulation path. [1][2]
 
-## Versions and factory options
-### JD10 MkII
-- Drive / Depth control
-- Classic / Rock voicing
-- G12T / Norm speaker simulation
-- Treble / Middle / Bass EQ
-- Output Level
-- True-tone bypass
-- Full-time buffered tuner output
-- XLR output duplicating main output
-- 9V battery or external power in period documentation
+## Circuit architecture
+- **FlexiDrive distortion:** Touch-sensitive distortion technology used by Award-Session.
+- **G12T speaker simulation:** For direct recording or PA use.
+- **Super-T EQ:** Expanded amp-style tone shaping.
+- **Buffered tuner output:** Also useful as a signal-splitting output.
+- **XLR output:** Balanced direct connection capability is documented. [1]
 
-### 2004-era update
-Contemporary product testing identifies the 2004 upgrade as improving distortion tone and combo-amp compatibility.
+## Active device
+- Exact active-device part numbers are not publicly documented.
 
-## Version changes
-The MkII is a substantive revision of the earlier JD10. The documented changes include updated circuitry, extra outputs and the later refined distortion/speaker-emulation implementation.
+## Diode / clipping
+- Exact clipping diode arrangement is not publicly documented.
+- The archive records FlexiDrive as a proprietary distortion approach rather than assuming conventional diode clipping.
 
-## Transistor
-- **Technology:** Analog preamp/distortion architecture.
-- **Exact device:** Not publicly documented.
+## Version history
+- **JD10 → JD10 MkII:** substantive platform update.
+- The MkII adds/retains additional outputs and updated circuitry relative to the earlier JD10.
+- A 2004-era product test describes improved distortion and combo-amp compatibility in the updated generation. [1][2]
 
-## Diode
-- **Type:** Exact clipping-diode arrangement is not publicly documented.
+## Power
+- Period documentation supports external power and battery operation, but a single universal current-draw figure was not reliably established.
 
 ## Sound
-JD10 MkII is intended to cover clean, edge-of-breakup and heavier distortion while also functioning as a direct-recording device. Its three-band Super-T EQ and switchable G12T speaker simulation make the pedal usable both in front of an amplifier and directly into recording or PA systems.
+The MkII spans clean and edge-of-breakup tones through heavier distortion, while the G12T mode enables direct-recording use without a conventional speaker/microphone chain. [1][2]
+
+## Research confidence
+- **Identity:** High
+- **MkII revision:** High
+- **FlexiDrive/G12T/Super-T:** High
+- **Tuner/XLR outputs:** High
+- **Exact active devices:** Unknown
+- **Exact diode:** Unknown
+- **Universal power/current:** Not established
+
+## Deep research verification
+The exact Effects Database record was cross-checked with Award-Session's manual/support index. Award-Session notes that some historic drawings and manuals were lost, limiting component-level verification. The archive therefore records the documented architecture and leaves unpublished active-device details unresolved. [1][2]
 
 ## Sources checked
 1. Effects Database — Award-Session JD10 MkII: https://www.effectsdatabase.com/model/awardsession/jd10/mk2
-2. Award-Session manuals/support index: https://www.award-session.com/award-session_manuals.php
+2. Award-Session Manuals / Support: https://www.award-session.com/award-session_manuals.php
 3. Guitarist Magazine test: https://www.diamondbottlenecks.com/images/NewsPage/GIT254_quick_test.pdf
-4. Reverb — JD10 MkII example: https://reverb.com/item/5651463-award-session-jd10-mkii-pre-amp-pedal-stomp-box
 
 ## Photo
 - **Archive status:** **No Photo Archived**
-- **Exact-model reference checked:** https://www.effectsdatabase.com/model/awardsession/jd10/mk2
-- **Archive note:** Exact MkII images exist externally, but no stable archive asset is being promoted in this pass.
-
-## Deep research verification
-
-This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
-
-### Verified description
-Award-Session's JD10 MkII Direct Recording Guitar Amp Emulator is cataloged as a distortion / overdrive pedal.
-
-### Verified version references
-- The evidence references: MkII.
-
-### Verified sound evidence
-It can be an overdrive, distortion, preamp (with switchable speaker emulation for direct recording or live performance through a PA), EQ, line driver etc...
-
-### Sources checked in this pass
-1. Award-Session JD10 MkII Direct Recording Guitar Amp Emulator | Effects Database: https://www.effectsdatabase.com/model/awardsession/jd10/mk2
+- **Exact-model reference checked:** Effects Database exact-model record.
