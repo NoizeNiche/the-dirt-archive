@@ -4,29 +4,53 @@
 - **Archive parent:** VBL-20 Bluesy Overdrive
 - **Builder:** CNZ Audio
 - **Catalog type:** Overdrive
-- **Identity:** CNZ Audio VBL-20 Bluesy Overdrive.
+- **Identity:** Analog blues overdrive with Volume, Gain and Tone plus Normal/Fat switching. [1][2]
 
-## What this pedal is
-The Dirt Archive's Scrape C census records this exact builder/model identity and classifies it as **Overdrive**.
+## Controls
+- **VOLUME**
+- **GAIN**
+- **TONE**
+- **NORMAL / FAT** toggle. [1][2]
 
-## Colorways
-No complete factory colorway sequence was established.
-
-## Versions and factory options
-No secure exact-model version or factory-option list was established.
-
-## Version changes
-No reliable numbered revision history was established.
+## Circuit / topology
+- Analog overdrive.
+- Normal mode targets a classic tube-overdrive response.
+- Fat mode fills out the lower EQ range for a thicker response. [1]
 
 ## Transistor
-Unknown from the checked exact-model documentation.
+- Exact production transistor/device part number is not publicly documented.
 
-## Diode
-Unknown from the checked exact-model documentation.
+## Diode / clipping
+- Exact clipping-device type and part number are not publicly documented.
+
+## Power / electrical
+- **9V DC, center-negative**.
+- **10 mA**.
+- **470 kOhm input impedance**
+- **470 Ohm output impedance**
+- Solid aluminum housing and 1/4-inch I/O. [1][2]
+
+## Version history
+- No numbered electronic revision established.
 
 ## Sound
-The model is documented as overdrive. A more detailed sonic characterization is deferred until stronger exact-model evidence is available.
+Normal is intended to mimic classic tube overdrive, while Fat adds more low-frequency body. Volume controls output, Gain controls distortion amount and Tone moves between darker/deeper and brighter/screaming responses. [1][2]
+
+## Research confidence
+- **Identity:** High
+- **Normal/Fat architecture:** High
+- **Control map:** High
+- **9V / 10mA / impedance:** High
+- **Exact transistor:** Unknown
+- **Exact diode:** Unknown
+
+## Deep research verification
+CNZ's current VBL-20 product page, Effects Database record and manufacturer demonstration were cross-checked. The sources agree on the Normal/Fat modes, three knobs, 9V center-negative supply and 10mA specification. [1][2][3]
 
 ## Sources checked
-1. The Dirt Archive Scrape C census: `research/SCRAPE_C_CENSUS.csv`
-2. The Dirt Archive Research Breadcrumb - Block 191: `research/BREADCRUMB-BATCH-191.md`
+1. CNZ Audio — VBL-20 Bluesy Overdrive: https://cnzaudio.com/products/bluesy-overdrive-pedal
+2. Effects Database — VBL-20 Bluesy: https://www.effectsdatabase.com/model/cnz/bluesy
+3. CNZ Audio — Bluesy Overdrive official video: https://www.youtube.com/watch?v=ZUaw7YObsfw
+
+## Photo
+- Exact-model image status remains handled separately.
