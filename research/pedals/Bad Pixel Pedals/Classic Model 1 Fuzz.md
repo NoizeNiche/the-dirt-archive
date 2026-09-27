@@ -1,45 +1,63 @@
-# Bad Pixel Pedals - Classic Model 1 Fuzz
+# Bad Pixel Pedals — Classic Model 1 Fuzz
 
 ## PRP identity
 - **Archive parent:** Classic Model 1 Fuzz
 - **Builder:** Bad Pixel Pedals
 - **Catalog type:** Fuzz
-- **Identity:** Bad Pixel's Classic Series Model 01, a Fuzz Face-style germanium fuzz with external bias control.
+- **Identity:** Classic Series **Model 01**, a handmade germanium Fuzz Face-style fuzz with external Bias and Bakelite point-to-point construction. [1][2]
 
 ## What this pedal is
-The builder's Model 01 page presents a Fuzz Face-style germanium design using hand-selected matched transistors and a Bakelite point-to-point construction method. An external bias control is mounted on the side for real-time adjustment.
+Model 01 belongs to Bad Pixel's Classic Series, whose published construction philosophy centers on vintage-style point-to-point builds, NOS Soviet components and selected germanium transistors. [2]
 
-## Colorways
-- The documented unit is a **brown/bronze-toned textured Classic Series enclosure**.
-- The Classic Series line also uses hammered-finish Hammond enclosures; no complete model-specific colorway chronology was verified.
+## Controls
+- **Fuzz**
+- **Volume**
+- **External Bias**
+- True bypass. [1][2]
 
-## Versions and factory options
-### Model 01 / Classic Model 1
-- External bias control
-- Matched germanium transistors
-- Bakelite point-to-point construction
-- Classic Series Hammond enclosure
-- Alpha pots
-- Neutrik jacks
-- Handmade in Greece
-
-## Version changes
-No numbered revision beyond the Model 01 designation was verified in the checked sources.
+## Circuit lineage
+- **Fuzz Face family.**
+- The builder does not claim that Model 01 is an untouched historical Arbiter build, so the archive retains the broader Fuzz Face-style lineage.
 
 ## Transistor
-- **Technology:** Germanium Fuzz Face-style fuzz.
-- **Exact devices:** The builder documents matched germanium transistors but does not publish exact part numbers on the Model 01 page.
+- **Technology:** Germanium.
+- **Exact part number:** The Model 01 builder page documents matched germanium transistors but does not publish the individual device number. [1]
 
-## Diode
-- **Exact clipping/protection arrangement:** Not publicly documented in the checked sources.
+## Diode / clipping
+- Exact clipping/protection diode is not documented.
+
+## Construction / hardware
+Classic Series documentation specifies:
+- Bakelite board / point-to-point construction.
+- Alpha potentiometers.
+- Neutrik jacks.
+- NOS Soviet capacitors.
+- NOS Soviet germanium transistors.
+- Handmade / handwired in Greece. [2]
+
+## Version history
+- **Model 01** is a model designation, not a numbered circuit revision.
+- No later electronic revision has been established from the reviewed sources.
 
 ## Sound
-The builder emphasizes dynamic response and strong cleanup from the guitar volume control, with the bias control extending the usable fuzz range. The intended character is the familiar Fuzz Face family response, from cleaner guitar-volume settings into fuller fuzz with the guitar opened up.
+Bad Pixel emphasizes dynamic response and substantial cleanup from the guitar volume control. External Bias broadens the available germanium fuzz operating range. [1][2]
+
+## Research confidence
+- **Identity:** High
+- **Fuzz Face lineage:** High
+- **Germanium transistor technology:** High
+- **External Bias:** High
+- **Classic Series construction:** High
+- **Exact transistor:** Unknown
+- **Exact diode:** Unknown
+
+## Deep research verification
+The Model 01 page and Classic Series construction documentation were cross-checked. The evidence confirms the germanium Fuzz Face-style architecture, external Bias and vintage-oriented point-to-point construction. [1][2]
 
 ## Sources checked
-1. Bad Pixel Pedals, Model 01: https://badpixel.weebly.com/model-01.html
-2. Bad Pixel Pedals, Classic Series: https://badpixel.weebly.com/classic-series.html
-3. Guitar Pedal X, Best of Greek Guitar Pedals and Pedal Builders (2019): https://www.guitarpedalx.com/news/best-of-greek-guitar-pedals-and-pedal-builders
+1. Bad Pixel Pedals — Model 01: https://badpixel.weebly.com/model-01.html
+2. Bad Pixel Pedals — Classic Series: https://badpixel.weebly.com/classic-series.html
+3. Guitar Pedal X — Greek pedal builders: https://www.guitarpedalx.com/news/best-of-greek-guitar-pedals-and-pedal-builders
 
 ## Photo
 - **Archive status:** **Exact Photo Attached to Public Catalog**
