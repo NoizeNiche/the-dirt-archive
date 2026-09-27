@@ -1,23 +1,41 @@
 # JHS Pedals — State Line
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** State Line
 - **Builder:** JHS Pedals
-- **Pedal:** State Line
 - **Catalog type:** Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** JHS Pedals's State Line.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **State Line** by **JHS Pedals** as a **Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+With the same footprint, function, and order toggle as the Double Barrel, Sweet Tea, and Bunrunner, the State Line offers up two circuits that are sure to have you singing Dixie at first strum.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+In honor of this (and just because it's a fun thing to do), we bring you the State Line 2-in-1 Overdrive.
+The left side is our Charlie Brown Channel Drive...a JTM45 in a box.
+The Morning Glory has way more dirt on tap and can reach much heavier palettes of drive while retaining the original voicing of the standard Morning Glory.
+
+## Sources checked
+1. STATE LINE – JHS Pedals: https://jhspedals.info/products/state-line
+2. JHS Pedals State Line – eastside music supply: https://eastsidemusicsupply.com/products/jhs-pedals-state-line
+3. JHS Pedals State Line | Effects Database: https://www.effectsdatabase.com/model/jhspedals/stateline
+4. JHS Pedals STATE LINE | AllThePedals: https://allthepedals.com/pedals/jhs-pedals-state-line
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
