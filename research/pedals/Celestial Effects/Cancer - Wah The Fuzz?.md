@@ -3,36 +3,59 @@
 ## PRP identity
 - **Archive parent:** Cancer - Wah The Fuzz?
 - **Builder:** Celestial Effects
-- **Catalog type:** Fuzz / Overdrive
-- **Identity:** Celestial Effects Cancer Wah the Fuzz?, a four-effect analog multi-pedal combining fixed wah, octave fuzz, muscle fuzz, and tube overdrive in a fixed internal signal path.
+- **Catalog type:** Fuzz / Wah / Overdrive
+- **Identity:** Four-effect analog multi-pedal combining Fixed Wah, Octave Fuzz, Muscle Fuzz and Tube Overdrive in a fixed internal order. [1][2]
 
-## What this pedal is
-Celestial Effects and independent reviews describe the Cancer as a compact four-in-one analog pedal with a fixed internal signal path. The documented sections are Fixed Wah, Octave Fuzz, Muscle Fuzz, and Tube Overdrive. The sections can be used individually or in combination. [1][2]
+## Architecture
+### Fixed Wah
+- Front-panel **Wah Tone** control.
+- Internal **Q**, **Gain**, **Input Impedance** and **Mids Cut** trims.
+- Jumper block selects one of four center frequencies. [1]
 
-## Colorways
-- The checked exact-model sources document the Cancer as a large multi-effect enclosure but do not establish a complete factory colorway sequence.
+### Octave Fuzz
+- **FUZZ**
+- **VOLUME**
+- Octave engage/bypass switch. [1]
 
-## Versions and factory options
-The Fixed Wah section has a front-panel Wah Tone control plus internal Q, Gain, Input Impedance, and Mids Cut trimmers, with a jumper block selecting one of four center frequencies. [1]
+### Additional sections
+- **Muscle Fuzz**
+- **Tube Overdrive**
+These sections are part of the same fixed signal chain and can be combined through the internal routing. [1][2]
 
-The Octave Fuzz section provides Fuzz and Volume controls plus a switch to engage or bypass the octave function. [1]
+## Circuit / topology
+- Analog multi-effect.
+- Fixed internal ordering rather than independent patch routing.
+- Combines wah filtering, octave fuzz, another fuzz stage and tube overdrive. [1]
 
-The checked sources document the remaining Muscle Fuzz and Tube Overdrive sections as part of the same fixed chain. [2]
+## Transistor / tube
+- Exact semiconductor complement is not securely documented.
+- The presence of a tube overdrive stage is part of the documented architecture. [2]
 
-No formal numbered factory V1/V2 sequence was established.
+## Diode / clipping
+- Exact diode/clipping device part numbers are not securely documented.
 
-## Version changes
-No reliable numbered revision history was found in the checked sources.
+## Power
+- Model-specific electrical specifications are not securely preserved in the reviewed source set.
 
-## Transistor
-The checked sources describe the pedal's individual analog effect sections but do not establish exact-model transistor part numbers.
-
-## Diode
-No exact-model diode specification was established in the checked sources.
+## Version history
+- No numbered factory electronic revision established.
 
 ## Sound
-The Cancer combines fixed-wah filtering, octave-fuzz tones, a separate muscle-fuzz section, and a tube-overdrive stage. The fixed internal routing is intentionally presented as a small pre-wired pedalboard, allowing the sections to be stacked internally. [1][2]
+Cancer functions like a pre-wired pedalboard in one enclosure: wah shaping, octave fuzz, a second fuzz voice and tube overdrive can be combined through the fixed internal signal path. [1][2]
+
+## Research confidence
+- **Identity:** High
+- **Four-section architecture:** High
+- **Fixed routing:** High
+- **Internal wah trimming:** High
+- **Exact semiconductors:** Unknown
+
+## Deep research verification
+Effects Database and Premier Guitar's exact-model review were cross-checked. The combined evidence establishes the fixed four-effect concept and internal Fixed Wah/Octave Fuzz controls while leaving undocumented component values unresolved. [1][2]
 
 ## Sources checked
-1. Effects Database — Celestial Effects Cancer - Wah The Fuzz?: https://www.effectsdatabase.com/model/celestial/cancer
-2. Premier Guitar — Celestial Effects Cancer Wah The Fuzz? Pedal Review: https://www.premierguitar.com/gear/celestial-effects-cancer-wah-the-fuzz-pedal-review
+1. Effects Database — Celestial Cancer: https://www.effectsdatabase.com/model/celestial/cancer
+2. Premier Guitar — Celestial Effects Cancer Wah The Fuzz: https://www.premierguitar.com/gear/celestial-effects-cancer-wah-the-fuzz-pedal-review
+
+## Photo
+- Exact-model photo status remains handled by the photo lane.
