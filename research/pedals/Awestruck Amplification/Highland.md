@@ -4,45 +4,77 @@
 - **Archive parent:** Highland
 - **Builder:** Awestruck Amplification
 - **Catalog type:** Overdrive
-- **Identity:** Low-gain discrete overdrive built around a single-stage silicon transistor with selectable symmetrical/asymmetrical hard clipping and three BODY voicings.
+- **Identity:** Hand-wired discrete Class A overdrive using a single-stage silicon transistor, with three-way clipping and three-way voicing controls. [1][2]
 
 ## What this pedal is
-Awestruck describes Highland as a fully analog, hand-wired overdrive whose core gain stage uses one silicon transistor. The pedal adds a three-position CLIP switch and a three-position BODY switch for substantial tonal variation.
+Awestruck describes Highland as a low-gain overdrive that can move from warm, responsive boost territory into mildly unstable, fuzz-like saturation. The circuit is intentionally simple at the gain stage but broad in tonal flexibility through the CLIP and BODY switches. [1]
 
-## Colorways
-- No reliable factory colorway chronology was verified.
+## Controls
+- **LEVEL:** Overall output.
+- **GAIN:** Controls the amount of drive into the single transistor stage.
+- **TONE:** Treble amount.
+- **CLIP:** Three positions:
+  - Up: symmetrical hard clipping.
+  - Center: no hard clipping.
+  - Down: asymmetrical hard clipping.
+- **BODY:** Three voicings:
+  - Up: mid-range.
+  - Center: treble.
+  - Down: full-range. [1]
 
-## Versions and factory options
-### Highland
-- LEVEL
-- GAIN
-- TONE
-- CLIP: symmetrical / none / asymmetrical
-- BODY: mid-range / treble / full-range
-- True bypass
-- 9V center-negative operation
-- Approx. 5 mA current draw
-- Top-mounted jacks
-
-## Version changes
-No numbered factory revision was verified.
+## Circuit architecture
+- Fully analog signal path.
+- Single-stage discrete silicon transistor gain section.
+- Hard-clipping selection through the CLIP switch.
+- BODY switch changes the tonal emphasis of the circuit. [1][2]
 
 ## Transistor
 - **Technology:** Discrete silicon transistor.
-- **Exact device:** The builder documents a single-stage silicon transistor but does not publish the transistor part number.
+- **Exact transistor part number:** Not published by the builder.
 
-## Diode
-- **Type:** Hard-clipping modes are documented, but exact diode devices are not published.
+## Diode / clipping
+- **Symmetrical**, **none**, and **asymmetrical** hard-clipping modes are documented.
+- Exact clipping diode/device part numbers are not published. [1]
+
+## Construction / hardware
+- Hand-wired and assembled in the USA.
+- Alpha potentiometers.
+- WIMA capacitors.
+- Royal Ohm resistors.
+- Top-mounted jacks.
+- True bypass.
+- Compact enclosure approximately **4.8 × 2.6 × 1.6 inches**. [1]
+
+## Power
+- **9VDC center-negative**.
+- **Current draw:** approximately **5mA**.
+- Awestruck recommends isolated power rather than daisy chaining. [1][2]
+
+## Version history
+- No numbered electronic revision established.
+- CLIP and BODY positions are built-in operating modes, not separate revisions.
 
 ## Sound
-Highland is voiced for warm, transparent low-gain breakup that can become mildly unstable and fuzz-like at higher gain. The CLIP switch changes compression and clipping symmetry, while BODY moves the tonal center between mids, treble and fuller-range response.
+Awestruck characterizes Highland as warm and responsive at low gain, with the possibility of unstable/mildly fuzzy behavior as gain rises. CLIP changes compression and harmonic texture; BODY moves the tonal emphasis among midrange, treble and full-range voicings. [1]
+
+## Research confidence
+- **Identity:** High
+- **Single-stage silicon transistor:** High
+- **CLIP modes:** High
+- **BODY modes:** High
+- **5mA / 9V:** High
+- **Hand-wired construction:** High
+- **Exact transistor:** Unknown
+- **Exact clipping diode:** Unknown
+
+## Deep research verification
+The current Awestruck Highland product page and manual were checked directly. The builder documentation confirms the single-stage transistor gain structure, three CLIP modes, three BODY voicings, true bypass, construction details and published power/current specification. [1][2]
 
 ## Sources checked
 1. Awestruck Amplification — Highland: https://www.awestruckamps.com/product/highland/
-2. Highland manual: https://www.awestruckamps.com/wp-content/uploads/2024/04/HIGHLAND_MANUAL.pdf
-3. Pedal of the Day Highland demo: https://www.youtube.com/watch?v=Ovz30cD9GUo
+2. Awestruck Highland Manual: https://www.awestruckamps.com/wp-content/uploads/2024/04/HIGHLAND_MANUAL.pdf
+3. Pedal of the Day — Highland demo: https://www.youtube.com/watch?v=Ovz30cD9GUo
 
 ## Photo
 - **Archive status:** **No Photo Archived**
-- **Exact-model reference checked:** https://www.awestruckamps.com/product/highland/
-- **Archive note:** Exact product photography exists on the builder page, but no stable archive asset is being promoted in this pass.
+- **Exact-model reference checked:** Awestruck Highland product page.
