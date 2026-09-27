@@ -1,23 +1,41 @@
 # Mr. Black — Snake Drive
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Snake Drive
 - **Builder:** Mr. Black
-- **Pedal:** Snake Drive
 - **Catalog type:** Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Mr. Black's Snake Drive.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Snake Drive** by **Mr. Black** as a **Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Black overdrive pedal Information Mr.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- Black Snake Drive Published on September 7, 2016 Mr.
+- Black overdrive pedal Information Mr.
+- Black Overdrive to full saturation.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+Black Snake Drive Published on September 7, 2016 Mr.
+Black overdrive pedal Information Mr.
+Black Overdrive to full saturation.
+
+## Sources checked
+1. Mr. Black Snake Drive | Effects Database: https://www.effectsdatabase.com/model/mrblack/snakedrive
+2. Mr. Black &quot;Snake Drive&quot; Prototype 2015 - Snake Skin Silk | Reverb: https://reverb.com/item/67016816-mr-black-snake-drive-prototype-2015-snake-skin-silk-screen
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

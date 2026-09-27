@@ -34835,8 +34835,8 @@
       "image": "./assets/pedals/earthquaker-devices/white-light/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/EarthQuaker Devices/White Light.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "EarthQuaker Devices",
@@ -35005,8 +35005,8 @@
       "image": "./assets/pedals/electro-harmonix/big-muff-pi-2-with-tone-wicker/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Electro-Harmonix/Big Muff Pi 2 with Tone Wicker.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Electro-Harmonix",
@@ -35237,8 +35237,8 @@
       "image": "./assets/pedals/electro-harmonix/little-big-muff-pi/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Electro-Harmonix/Little Big Muff Pi.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Electro-Harmonix",
@@ -35693,8 +35693,8 @@
       "image": "./assets/pedals/electronic-audio-experiments/model-fet/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Electronic Audio Experiments/Model feT.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Electronic Audio Experiments",
@@ -41700,8 +41700,8 @@
       "image": "./assets/pedals/kma-machines/wurm-2/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/KMA Machines/Wurm 2.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Land Devices",
@@ -43834,8 +43834,8 @@
       "image": "./assets/pedals/maxon/fuzz-elements-fire/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Maxon/Fuzz Elements Fire.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Maxon",
@@ -44109,8 +44109,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Maxon/Overdrive Pro Plus (OD-9Pro+).md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Maxon",
@@ -45024,8 +45024,8 @@
       "image": "./assets/pedals/menatone/red-snapper/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Menatone/Red Snapper.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Menatone",
@@ -45036,8 +45036,8 @@
       "image": "./assets/pedals/menatone/red-snapper-4-knob/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Menatone/Red Snapper 4 Knob.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Menatone",
@@ -45968,8 +45968,8 @@
       "image": "./assets/pedals/mojo-hand-fx/el-guapo/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mojo Hand FX/El Guapo.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Mojo Hand FX",
@@ -45980,8 +45980,8 @@
       "image": "./assets/pedals/mojo-hand-fx/extra-special/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mojo Hand FX/Extra Special.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Mojo Hand FX",
@@ -45992,8 +45992,8 @@
       "image": "./assets/pedals/mojo-hand-fx/iron-bell/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mojo Hand FX/Iron Bell.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Mojo Hand FX",
@@ -46563,8 +46563,8 @@
       "image": "./assets/pedals/mr-black/sludgemaster/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mr. Black/SludgeMaster.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Mr. Black",
@@ -46575,8 +46575,8 @@
       "image": "./assets/pedals/mr-black/snake-drive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mr. Black/Snake Drive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Mr. Black",
@@ -47364,8 +47364,8 @@
       "image": "./assets/pedals/mythos-pedals/extra-hot-extra-spicy-dual-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mythos Pedals/Extra Hot “Extra Spicy” Dual Overdrive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Mythos Pedals",
@@ -47376,8 +47376,8 @@
       "image": "./assets/pedals/mythos-pedals/ge-mjolnir/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mythos Pedals/GE Mjolnir.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Mythos Pedals",

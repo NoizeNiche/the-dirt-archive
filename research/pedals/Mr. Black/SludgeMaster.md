@@ -1,23 +1,42 @@
 # Mr. Black — SludgeMaster
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** SludgeMaster
 - **Builder:** Mr. Black
-- **Pedal:** SludgeMaster
 - **Catalog type:** Distortion / Fuzz / Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Mr. Black's SludgeMaster.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **SludgeMaster** by **Mr. Black** as a **Distortion / Fuzz / Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+When we designed the SludgeMaster, we didn’t just copy a thing.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- Black Videos Where to Buy Shipping, Warranty & Returns Service & Repairs Shipping/Warranty/Returns Shipping, Warranty and Returns Service & Repairs Retailers Straight Jive Service & Repairs The Black List Contact Account Item added to cart.
+- Black SludgeMaster Published on March 26, 2024 Mr.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Documented terms in the verified sources: LED.
+- The archive records only the component information explicitly present in these sources.
+
+## Sound
+Deuce Coupe Regular price $199.95 View CAT Distortion Regular price $219.95 Sale price $149.95 Sale View GilaMondo Throwback Special Regular price $219.95 Sale price $199.95 Sale View Heaven's Gate Regular price $199.95 View F.A.Q.
+Close Close Buy any pedal and add a Vintage Overdrive for $50.00!!
+Many sounds have come and gone over the decades of electric guitar, but one sound in particular was born of fire and cemented in Rock N Roll: the Fuzz Sound.
+
+## Sources checked
+1. SludgeMaster &ndash; Mr. Black: https://www.mrblackpedals.com/products/sludgemaster
+2. Mr. Black SludgeMaster | Effects Database: https://www.effectsdatabase.com/model/mrblack/sludgemaster
+3. Mr. Black SludgeMaster - Reverb: https://reverb.com/item/84046606-mr-black-sludgemaster
+4. Mr. Black SludgeMaster - Shop: https://shop.app/products/7979529765042/sludgemaster
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

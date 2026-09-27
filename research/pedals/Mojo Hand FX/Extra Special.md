@@ -1,23 +1,41 @@
 # Mojo Hand FX — Extra Special
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Extra Special
 - **Builder:** Mojo Hand FX
-- **Pedal:** Extra Special
 - **Catalog type:** Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Mojo Hand FX's Extra Special.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Extra Special** by **Mojo Hand FX** as a **Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Mojo Hand FX's Extra Special is cataloged as an overdrive pedal.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- Like all Mojo Hand FX pedals, it comes in a sturdy, die-cast aluminum enclosure with true bypass switching, powder-coated finish, and UV printed artwork.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+The Extra Special excels at the medium to higher gain tones associated with those legendary amps.
+Controls include the standard Volume, Gain, and Tone knobs, along with an Accent knob that acts much like a Presence or Contour control.
+
+## Sources checked
+1. Extra Special - MojoHandFX: https://mojohandfx.com/extra-special/
+2. Mojo Hand FX Extra Special Overdrive Pedal | Equipboard: https://equipboard.com/items/mojo-hand-fx-extra-special-overdrive
+3. Mojo Hand FX EXTRA SPECIAL Guitar Effects Pedal - eBay: https://www.ebay.com/itm/298585595444
+4. MojoHand FX Extra Special High Gain Overdrive - Reverb: https://reverb.com/item/96492991-mojohand-fx-extra-special-high-gain-overdrive
+5. MojoHand FX Extra Special High Gain Overdrive: https://collarcityguitars.com/products/mojohand-fx-extra-special-high-gain-overdrive
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
