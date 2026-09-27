@@ -1,67 +1,59 @@
-# Basic Audio - Scarab Deluxe
+# Basic Audio — Scarab Deluxe
 
 ## PRP identity
 - **Archive parent:** Scarab Deluxe
 - **Builder:** Basic Audio
 - **Catalog type:** Fuzz
-- **Identity:** Silicon Tone Bender MkII-type fuzz with external bias and low-frequency input controls.
+- **Identity:** Silicon Tone Bender MkII-type fuzz with external Bias and Fat low-frequency input control, expanded from the earlier three-knob Scarab. [1][2]
 
-## What this pedal is
-Scarab Deluxe is the expanded version of Basic Audio's Scarab, using a silicon Tone Bender MkII-type core with external Bias and Fat controls. Basic Audio describes it as flexible and tight, with the Fat control changing how much low end enters the saturation circuit.
+## Controls
+- **LEVEL**
+- **TONE**
+- **FUZZ**
+- **BIAS**
+- **FAT** [1]
+FAT changes the amount of low-frequency content entering the saturation stages.
 
-## Colorways
-- Documented production examples include **green** and other finish variations.
-- Basic Audio notes that pedal colors are subject to change.
-- No complete factory colorway chronology was verified.
-
-## Versions and factory options
-### Scarab Deluxe
-- Level
-- Tone
-- Fuzz
-- Bias
-- Fat
-- Silicon Tone Bender MkII-type circuit
-- 9V DC center-negative
-- Battery snap
-
-## Version changes
-The Deluxe version adds Bias and Fat controls over the earlier three-knob Scarab. Basic Audio's description says the original Scarab was the predecessor and the Deluxe expands control over feel and transistor bias.
+## Circuit lineage
+- **Primary reference:** Tone Bender MkII.
+- Basic Audio describes Scarab Deluxe specifically as a silicon Tone Bender MkII-type circuit. [1]
 
 ## Transistor
-- **Technology:** Silicon Tone Bender MkII type.
-- **Published device identification:** Guitar Pedal X reported **4 x BC549B silicon transistors** for the Scarab Deluxe.
-- This device identification is retained as an attributed published observation rather than treated as an official Basic Audio parts list.
+- **Technology:** Silicon.
+- Guitar Pedal X reports **4 × BC549B** silicon transistors for the Scarab Deluxe; this is retained as attributed independent component information rather than a factory Basic Audio BOM. [3]
+- Exact gain grades/measurements are not documented.
 
-## Diode
-- **Exact clipping/protection arrangement:** Not publicly documented in the checked sources.
+## Diode / clipping
+- Exact clipping device/part number is not documented in the reviewed reliable sources.
+
+## Construction / power
+- **9V center-negative** operation with battery support is documented.
+- Basic Audio lists individual color variations as cosmetic. [1]
+
+## Version history
+- Scarab Deluxe is the expanded version of the earlier Scarab.
+- The major documented change is addition of external **Bias** and **Fat** controls over the earlier three-knob format. [1][2]
 
 ## Sound
-The Scarab Deluxe spans gritty gated fuzz, sustained lead tones, and lower-gain sounds near distortion/overdrive territory as Bias changes. Fat adjusts the amount of low end entering the saturation stages, letting the player move from slower, thicker fuzz toward snappier and more articulate response.
+Scarab Deluxe ranges from tighter, gated silicon fuzz into thick sustained tones. Bias changes the operating point, while Fat controls how much low end reaches the saturation stages. [1]
 
-## Sources checked
-1. Basic Audio official Scarab Deluxe page: https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-6jkg6
-2. Effects Database, Scarab Deluxe: https://www.effectsdatabase.com/model/basicaudio/scarab/deluxe
-3. Guitar Pedal X, Tone Bender comparison: https://www.guitarpedalx.com/news/gpx-blog/high-quality-near-equivalent-alternatives-to-the-boss-tb-2w-tone-bender-mkii-waza-craft-fuzz
-4. Aion FX, Anubis documentation: https://aionfx.com/project/anubis-silicon-fuzz/
-
-## Photo
-- **Archive status:** **Exact Photo Attached to Public Catalog**
-- **Exact-model image:** https://stangguitars.com/cdn/shop/files/lbhhrbb2r5fhq2skubcm_1024x1024%402x.jpg?v=1732480685
-- **Source page:** https://stangguitars.com/
+## Research confidence
+- **Identity:** High
+- **Tone Bender MkII lineage:** High
+- **Silicon technology:** High
+- **Bias/Fat additions:** High
+- **4 × BC549B:** Medium, independent attributed observation
+- **Exact diode:** Unknown
 
 ## Deep research verification
+Basic Audio's Scarab Deluxe page was checked against Effects Database and the independent Guitar Pedal X component report. The archive keeps the BC549B count explicitly attributed rather than presenting it as an official factory BOM. [1][2][3]
 
-This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+## Sources checked
+1. Basic Audio — Scarab Deluxe: https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbsbfsb3vnya-y3hb9-97e3s-6jkg6
+2. Effects Database — Scarab Deluxe: https://www.effectsdatabase.com/model/basicaudio/scarab/deluxe
+3. Guitar Pedal X — Tone Bender MKII alternatives: https://www.guitarpedalx.com/news/gpx-blog/high-quality-near-equivalent-alternatives-to-the-boss-tb-2w-tone-bender-mkii-waza-craft-fuzz
+4. Aion FX — Anubis silicon fuzz: https://aionfx.com/project/anubis-silicon-fuzz/
 
-### Verified description
-Scarab Deluxe — Basic Audio Contact Store About Menu Basic Audio Contact Store About Pedal colors are subject to change.
-
-### Verified version references
-- The evidence references: MKII.
-
-### Verified sound evidence
-← Back to Store Scarab Deluxe Scarab Deluxe from $210.00 A silicon Tonebender MKII type circuit with Variable low frequency input (FAT), Tone and Bias knobs.
-
-### Sources checked in this pass
-1. Scarab Deluxe — Basic Audio: https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-6jkg6
+## Photo
+- **Exact pedal photograph:** Existing exact-model Stang Guitars photograph.
+- **Source page:** https://stangguitars.com/
