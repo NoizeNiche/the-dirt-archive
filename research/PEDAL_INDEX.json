@@ -1,6 +1,6 @@
 {
-  "version": "data-20260927-historical-census-sweep-05",
-  "count": 4231,
+  "version": "data-20260927-historical-census-sweep-06",
+  "count": 4232,
   "pedals": [
     {
       "company": "1981 Inventions",
@@ -9560,6 +9560,19 @@
       ],
       "image_source_pages_verified": true,
       "image_source_url": "https://files.effectsdatabase.com/gear/pics/bigear_woodcutter_001.jpg",
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "Big Ear Pedals",
+      "pedal": "Luck Drive",
+      "types": [
+        "Overdrive",
+        "Boost"
+      ],
+      "image": null,
+      "source_page": "https://www.bigearpedals.com/post/making-of-the-luck-drive-for-luck-reunion-2019",
+      "research_record": "./research/pedals/Big Ear Pedals/Luck Drive.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED"
     },
