@@ -72,6 +72,9 @@ def main():
     with RESEARCH_SOURCE_OVERRIDES.open(newline="", encoding="utf-8") as handle:
         research_overrides = list(csv.DictReader(handle))
     required_research_override_fields = {"Builder", "Pedal", "Source URL", "Note"}
+    if not research_overrides:
+        raise SystemExit("RESEARCH_SOURCE_OVERRIDES.csv contains no source rows.")
+    research_source_keys = set()
     for row in research_overrides:
         if not required_research_override_fields.issubset(row.keys()):
             raise SystemExit("RESEARCH_SOURCE_OVERRIDES.csv is missing required columns.")
@@ -81,9 +84,19 @@ def main():
             raise SystemExit(f"Research source override contains an unknown catalog identity: {k}")
         if not re.match(r"^https?://", url, re.I):
             raise SystemExit(f"Research source override is not an HTTP(S) URL: {k} -> {url}")
+        source_key = (k, url)
+        if source_key in research_source_keys:
+            raise SystemExit(f"Duplicate Builder + Pedal + source URL in RESEARCH_SOURCE_OVERRIDES.csv: {k} -> {url}")
+        research_source_keys.add(source_key)
+
+    required_photo_override_fields = {"Builder", "Pedal", "Image Source Page", "Notes"}
+    if not overrides:
+        raise SystemExit("PHOTO_SOURCE_OVERRIDES.csv contains no source rows.")
     override_by_key = {}
     override_page_keys = set()
     for row in overrides:
+        if not required_photo_override_fields.issubset(row.keys()):
+            raise SystemExit("PHOTO_SOURCE_OVERRIDES.csv is missing required columns.")
         k = pair(row.get("Builder"), row.get("Pedal"))
         source_page = (row.get("Image Source Page") or "").strip()
         if k not in catalog_by_key:
