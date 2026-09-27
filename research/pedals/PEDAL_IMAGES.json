@@ -9251,6 +9251,20 @@
     "research_record": "./research/pedals/PRP Batch 150/carlsbro-carlsbro-suzz.md"
   },
   {
+    "builder": "Carlsbro",
+    "pedal": "Suzz-Phase",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/carlsbro/alu",
+    "research_record": "./research/pedals/Carlsbro/Suzz-Phase.md"
+  },
+  {
+    "builder": "Carlsbro",
+    "pedal": "Suzz Wah-Wah",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/carlsbro/alu",
+    "research_record": "./research/pedals/Carlsbro/Suzz Wah-Wah.md"
+  },
+  {
     "builder": "Carlson",
     "pedal": "E20MT Heavy Metal",
     "image": "./assets/pedals/carlson/e20mt-heavy-metal/primary.webp",
@@ -29759,5 +29773,33 @@
     "image": null,
     "source_page": "https://www.effectsdatabase.com/model/casestudy/lastlight",
     "research_record": "./research/pedals/Case Study Effects/Lastlight Overdrive.md"
+  },
+  {
+    "builder": "Tube Works",
+    "pedal": "901 Real Tube",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/tubeworks",
+    "research_record": "./research/pedals/Tube Works/901 Real Tube.md"
+  },
+  {
+    "builder": "Tube Works",
+    "pedal": "903 Blue Tube",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/tubeworks",
+    "research_record": "./research/pedals/Tube Works/903 Blue Tube.md"
+  },
+  {
+    "builder": "Tube Works",
+    "pedal": "910 Tube Driver",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/tubeworks",
+    "research_record": "./research/pedals/Tube Works/910 Tube Driver.md"
+  },
+  {
+    "builder": "Tube Works",
+    "pedal": "911 Tube Driver",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/tubeworks",
+    "research_record": "./research/pedals/Tube Works/911 Tube Driver.md"
   }
 ]

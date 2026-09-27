@@ -1,22 +1,36 @@
-# Ampeg - Scrambler
+# Ampeg — Scrambler
 
 ## PRP identity
-- Builder: Ampeg
-- Catalog type: Overdrive
-- Identity: Ampeg Scrambler bass overdrive.
+- **Archive parent:** Scrambler
+- **Builder:** Ampeg
+- **Catalog type:** Overdrive
+- **Identity:** Ampeg's Scrambler.
 
 ## What this pedal is
-The Scrambler is Ampeg's dedicated bass overdrive pedal, preserved in the modern Ampeg effects catalog alongside the SCR-DI and SGT-DI.
+Ampeg's Scrambler is cataloged as an overdrive pedal.
 
-## Circuit / controls
-Exact control layout, clipping devices and semiconductor part numbers are deferred to exact-model documentation.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
 
-## History
-Ampeg presented the Scrambler among its dedicated bass-effects releases in the mid-2010s.
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+The verified evidence packet did not contain enough pedal-specific sonic description to make a more detailed sound summary without adding unsupported interpretation.
 
 ## Sources checked
-1. Effects Database Ampeg catalog: https://www.effectsdatabase.com/model/ampeg
-2. Ampeg: https://ampeg.com/
+1. Ampeg | Effects Database: https://www.effectsdatabase.com/model/ampeg
 
 ## Photo
-- Exact photo pending.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

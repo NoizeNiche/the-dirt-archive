@@ -1,22 +1,36 @@
-# Ampeg - SGT-DI Bass Preamp & DI
+# Ampeg — SGT-DI Bass Preamp & DI
 
 ## PRP identity
-- Builder: Ampeg
-- Catalog type: Distortion / Overdrive
-- Identity: Ampeg SGT-DI bass preamp/DI with drive processing.
+- **Archive parent:** SGT-DI Bass Preamp & DI
+- **Builder:** Ampeg
+- **Catalog type:** Distortion
+- **Identity:** Ampeg's SGT-DI Bass Preamp & DI.
 
 ## What this pedal is
-SGT-DI is a bass preamp/DI product in Ampeg's later pedal lineup. The SGT section provides the dirt/amp-processing side while the unit also functions as a DI/preamp.
+Ampeg's SGT-DI Bass Preamp & DI is cataloged as a distortion pedal.
 
-## Circuit / controls
-Exact model-specific control legend and semiconductor details remain deferred to exact documentation.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
 
-## History
-Effects Database lists SGT-DI with the later Ampeg bass effects family.
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+The verified evidence packet did not contain enough pedal-specific sonic description to make a more detailed sound summary without adding unsupported interpretation.
 
 ## Sources checked
-1. Effects Database Ampeg catalog: https://www.effectsdatabase.com/model/ampeg
-2. Ampeg: https://ampeg.com/
+1. Ampeg | Effects Database: https://www.effectsdatabase.com/model/ampeg
 
 ## Photo
-- Exact photo pending.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

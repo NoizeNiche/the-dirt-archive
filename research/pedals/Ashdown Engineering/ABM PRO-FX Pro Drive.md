@@ -1,19 +1,36 @@
-# Ashdown Engineering - ABM PRO-FX Pro Drive
+# Ashdown Engineering — ABM PRO-FX Pro Drive
 
 ## PRP identity
-- Builder: Ashdown Engineering
-- Catalog type: Overdrive
-- Identity: ABM PRO-FX Pro Drive, Ashdown's bass drive pedal in the ABM PRO-FX line.
+- **Archive parent:** ABM PRO-FX Pro Drive
+- **Builder:** Ashdown Engineering
+- **Catalog type:** Overdrive
+- **Identity:** Ashdown Engineering's ABM PRO-FX Pro Drive.
 
 ## What this pedal is
-Pro Drive is preserved in Ashdown's PRO-FX catalog as a dedicated drive product. The indexed catalog confirms the model identity; detailed control and component information is deferred to exact-model documentation.
+Ashdown Engineering's ABM PRO-FX Pro Drive is cataloged as an overdrive pedal.
 
-## Circuit / controls
-Exact topology, control legend and semiconductor part numbers were not established in this surface pass.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+The verified evidence packet did not contain enough pedal-specific sonic description to make a more detailed sound summary without adding unsupported interpretation.
 
 ## Sources checked
-1. Effects Database Ashdown catalog: https://www.effectsdatabase.com/model/ashdown
-2. Ashdown Engineering: https://ashdownmusic.com/
+1. Ashdown Engineering | Effects Database: https://www.effectsdatabase.com/model/ashdown
 
 ## Photo
-- Exact photo pending.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

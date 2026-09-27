@@ -2674,8 +2674,8 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/ampeg",
       "research_record": "./research/pedals/Ampeg/Scrambler.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Ampeg",
@@ -2687,8 +2687,8 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/ampeg",
       "research_record": "./research/pedals/Ampeg/SGT-DI Bass Preamp & DI.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Amplified Nation",
@@ -4700,8 +4700,8 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/ashdown",
       "research_record": "./research/pedals/Ashdown Engineering/ABM PRO-FX Pro Drive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Ashdown Engineering",
@@ -4763,8 +4763,8 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/ashdown",
       "research_record": "./research/pedals/Ashdown Engineering/James LoMenzo Hyper Drive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Ashdown Engineering",

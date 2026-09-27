@@ -1,25 +1,36 @@
-# Ashdown Engineering - James LoMenzo Hyper Drive
+# Ashdown Engineering — James LoMenzo Hyper Drive
 
 ## PRP identity
-- Builder: Ashdown Engineering
-- Catalog type: Distortion / Overdrive
-- Identity: James LoMenzo Hyper Drive bass distortion.
+- **Archive parent:** James LoMenzo Hyper Drive
+- **Builder:** Ashdown Engineering
+- **Catalog type:** Distortion
+- **Identity:** Ashdown Engineering's James LoMenzo Hyper Drive.
 
 ## What this pedal is
-Hyper Drive is a bass distortion designed with James LoMenzo. Effects Database describes tunable mid-band filtering and a gain range from subtle breakup to large overdrive, with the processed signal mixable against the dry signal.
+Ashdown Engineering's James LoMenzo Hyper Drive is cataloged as a distortion pedal.
 
-## Controls / operation
-- Adjustable drive/distortion.
-- Tunable mid-band filtering.
-- Dry-signal mixing.
-- Exact control legend not fully reconstructed.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
 
-## History
-Effects Database dates the model to March 17, 2008.
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+The verified evidence packet did not contain enough pedal-specific sonic description to make a more detailed sound summary without adding unsupported interpretation.
 
 ## Sources checked
-1. Effects Database: https://www.effectsdatabase.com/model/ashdown
-2. Ashdown Engineering: https://ashdownmusic.com/
+1. Ashdown Engineering | Effects Database: https://www.effectsdatabase.com/model/ashdown
 
 ## Photo
-- Exact photo pending.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
