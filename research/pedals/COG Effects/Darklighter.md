@@ -3,35 +3,58 @@
 ## PRP identity
 - **Archive parent:** Darklighter
 - **Builder:** COG Effects
-- **Catalog type:** Overdrive
-- **Identity:** COG Effects Darklighter Overdrive/Boost, a classic-voiced overdrive and boost with a Bass Shift option.
+- **Catalog type:** Overdrive / Boost
+- **Identity:** Low-to-medium-gain COG overdrive/boost with In, Tone, Out and Bass Shift, designed for clean boost through rich stacking overdrive. [1][2]
 
-## What this pedal is
-COG Effects describes Darklighter as a classic-voiced overdrive covering clean boost through rich overdrive, with boosted mids and post-distortion treble attenuation. A bass version extends the low end and changes the Bass Shift voicing. [1]
+## Controls
+- **IN:** Input/gain stage control.
+- **TONE:** Post-distortion treble attenuation.
+- **OUT:** Output level.
+- **BASS SHIFT:** Changes low-frequency response.
+- True bypass. [1]
 
-## Colorways
-COG commonly uses engraved or custom-finished aluminium enclosures; no complete Darklighter finish chronology was established.
-
-## Versions and factory options
-- In, Tone, Out.
-- Bass Shift switch.
-- True bypass.
-- 9V DC.
-- Die-cast aluminium enclosure.
-- Bass version with extended low end. [1]
-
-## Version changes
-COG's discontinued archive states that Darklighter was discontinued with an **MK2 version planned**. The final MK2 specification was not established. [2]
+## Circuit / topology
+- Analog overdrive/boost.
+- COG describes a boosted-mids architecture with post-distortion treble attenuation.
+- The design is also offered in a Bass-oriented presentation with extended low end. [1]
 
 ## Transistor
-No exact transistor part number was established.
+- Exact production transistor/device part number is not publicly documented.
 
-## Diode
-No exact diode specification was established.
+## Diode / clipping
+- Exact clipping-device type and part number are not publicly documented.
+
+## Power
+- **9V DC**. [1]
+- Exact current draw is not established.
+
+## Construction
+- Die-cast aluminum enclosure.
+- COG engraving/custom finish production.
+- True bypass. [1]
+
+## Version history
+- The COG discontinued-pedals page says Darklighter was discontinued and an **MK2** was planned.
+- No final MK2 production specification is securely established, so it is not merged into the original record. [2]
 
 ## Sound
-Darklighter is designed for clean boost, front-end overdrive, stacking, or always-on amplifier line-driving. Bass Shift changes the low-frequency response for deeper guitar or bass tones. [1]
+Darklighter is designed to work as clean boost, always-on line driver, or stacked overdrive. Its Bass Shift option adds low-end range, while the Tone control shapes upper-frequency content after the distortion stage. [1]
+
+## Research confidence
+- **Identity:** High
+- **Control map:** High
+- **Boost/overdrive role:** High
+- **Bass Shift:** High
+- **MK2 planned/discontinued status:** High
+- **Exact transistor:** Unknown
+- **Exact diode:** Unknown
+
+## Deep research verification
+COG's Darklighter and discontinued-pedals pages were cross-checked. The sources support the four-control/Bass Shift architecture and document the discontinued/MK2-planned status without inventing an unverified MK2 circuit. [1][2]
 
 ## Sources checked
 1. COG Effects — Darklighter: https://www.cogeffects.co.uk/darklighter.php
 2. COG Effects — Discontinued pedals: https://www.cogeffects.co.uk/discontinued-pedals.php
+
+## Photo
+- Exact-model photo status remains handled by the photo lane.
