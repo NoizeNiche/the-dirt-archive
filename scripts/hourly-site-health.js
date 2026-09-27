@@ -322,8 +322,10 @@ async function browserCheck(liveUrl, pedals, canaries) {
         const handled=await page.evaluate(()=>{const box=document.querySelector('#photoBox');const img=box?.querySelector('img');const fallback=[...box?.querySelectorAll('span')||[]].find(s=>!s.hidden);return !!img && ((img.complete&&img.naturalWidth>0)||!!fallback)});
         if(!handled) throw new Error(`Photo did not render or fall back gracefully: ${item.company} / ${item.pedal}`);
       } else {
-        const fallback=await page.locator('#photoBox').getByText(/No Photo Archived/).count();
-        if(!fallback) throw new Error(`No Photo Archived fallback missing: ${item.company} / ${item.pedal}`);
+        const fallback=page.locator('#photoBox .photoFallback');
+        if(await fallback.count()!==1 || !(await fallback.isVisible())) {
+          throw new Error(`No-photo fallback missing: ${item.company} / ${item.pedal}`);
+        }
       }
     }
     await detail(ched,!!ched.image);
