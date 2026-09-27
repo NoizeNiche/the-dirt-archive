@@ -1,23 +1,46 @@
 # Pigtronix — Philosopher’s Gold
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Philosopher’s Gold
 - **Builder:** Pigtronix
-- **Pedal:** Philosopher’s Gold
 - **Catalog type:** Distortion / Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Pigtronix's Philosopher’s Gold.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Philosopher’s Gold** by **Pigtronix** as a **Distortion / Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Pigtronix Philosopher's Gold Compressor + Germanium Distortion Pedal Free Shipping on Orders $35+
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- The unique diode arrangement found in the Philosopher’s Gold delivers a smooth top end and rich midrange response, tailored to match the characteristics of the optical sustainer driving it.
+
+## Versions and factory options
+- The verified evidence references: V1.
+- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+Related products Hardwire TL-2 Metal Distortion $ 74.00 Pigtronix Philosopher’s Gold $ 59.00 Pigtronix Philosopher’s Gold $ 59.00 Fulltone OCD V1 Series 1 Obsessive Compulsive Drive Pedal $ 109.00 Bucket List Guitars
+Pigtronix Philosopher's Gold Compressor + Germanium Distortion Pedal Free Shipping on Orders $35+
+Philosopher’s Gold is a variation on the original Philosopher’s Tone, featuring the same optical sustain engine with the addition of an optional layer of germanium-enhanced distortion.
+
+## Sources checked
+1. Philosopher's Gold - Pigtronix: https://www.pigtronix.com/pedals/philosophers-gold/
+2. Pigtronix Philosopher's Gold Compression Effects Pedal Gold | Guitar Center: https://www.guitarcenter.com/Pigtronix/Philosophers-Gold-Compression-Effects-Pedal-Gold-1500000362803.gc
+3. Pigtronix Philosopher's Gold - Reverb: https://reverb.com/item/95685502-pigtronix-philosopher-s-gold
+4. Pigtronix Philosopher's Gold Distortion Pedal: https://bucketlistguitars.com/product/pigtronix-philosophers-gold/
+5. Pigtronix Philosopher's Gold Compressor + Germanium Distortion Pedal: https://ecgmusic.com/products/pigtronix-philosophers-gold-compressor-germanium-distortion
+6. PIGTRONIX PHILOSOPHER'S GOLD USER MANUAL Pdf Download | ManualsLib: https://www.manualslib.com/manual/2586803/Pigtronix-Philosopher-S-Gold.html
+7. Pigtronix Philosopher's Gold Owner's Manual | Manualzz: https://manualzz.com/doc/html/80756040/pigtronix-philosopher-s-gold-owner-s-manual
+8. Philosopher's Gold by Pigtronix | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/Pigtronix/Philosophers-Gold/478134991/
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
