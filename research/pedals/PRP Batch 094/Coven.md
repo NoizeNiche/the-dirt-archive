@@ -12,3 +12,8 @@ The Coven combines the Pharaoh fuzz and Black Forest overdrive in one enclosure.
 
 ## Archive photo
 - **Archive status:** **No Photo Archived**
+## Deep research verification
+
+Black Arts Toneworks' exact model description identifies Coven as a two-in-one combination of **Pharaoh fuzz** and **Black Forest overdrive**. Each circuit can operate independently or together, and the order switch changes whether Pharaoh feeds Black Forest or Black Forest feeds Pharaoh. This is a materially distinct dual-dirt product, so it remains separate from both parent pedals.
+
+Source: Black Arts Toneworks, “Ritual and Revelation,” https://blackartstoneworks.blogspot.com/2012/06/ritual-and-revelation.html
