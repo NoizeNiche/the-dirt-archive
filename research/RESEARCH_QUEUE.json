@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-27T23:41:47.927727+00:00",
+  "generated_at": "2026-09-27T23:44:03.317558+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,25 +10,18 @@
     "pictured": 3476,
     "complete": 3476,
     "research_pending": 0,
-    "deep_research_pending": 283,
-    "deep_researched": 3923,
+    "deep_research_pending": 279,
+    "deep_researched": 3927,
     "surface_ready": 4206
   },
   "next_target": {
     "builder": "DOD Electronics",
-    "pedal": "Metal X (FX70)",
+    "pedal": "Mystic Blues Overdrive (FX102)",
     "catalog_type": "",
-    "research_record": "./research/pedals/DOD Electronics/Metal X (FX70).md",
+    "research_record": "./research/pedals/DOD Electronics/Mystic Blues Overdrive (FX102).md",
     "research_level": "surface"
   },
   "working_set": [
-    {
-      "builder": "DOD Electronics",
-      "pedal": "Metal X (FX70)",
-      "catalog_type": "",
-      "research_record": "./research/pedals/DOD Electronics/Metal X (FX70).md",
-      "research_level": "surface"
-    },
     {
       "builder": "DOD Electronics",
       "pedal": "Mystic Blues Overdrive (FX102)",
@@ -195,6 +188,13 @@
       "pedal": "Archer Ikon OD",
       "catalog_type": "",
       "research_record": "./research/pedals/J. Rockett Audio Designs/Archer Ikon OD.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Jackson Audio",
+      "pedal": "Classic Vintage Fuzz",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Jackson Audio/Classic Vintage Fuzz.md",
       "research_level": "surface"
     }
   ]

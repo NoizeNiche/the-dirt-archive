@@ -33280,8 +33280,8 @@
       "image": "./assets/pedals/dod-electronics/metal-x-fx70/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/DOD Electronics/Metal X (FX70).md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "DOD Electronics",
@@ -46743,8 +46743,8 @@
       "image": "./assets/pedals/mxr/gt-od/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/MXR/GT-OD.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "MXR",
@@ -52868,8 +52868,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/ThorpyFX/THE OLD TIMER — 3-in-1 pedal with drive section.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "ThorpyFX",
@@ -53452,8 +53452,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Vemuram/Las Lunas — distortion.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Vemuram",

@@ -1,23 +1,37 @@
 # MXR — GT-OD
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** GT-OD
 - **Builder:** MXR
-- **Pedal:** GT-OD
 - **Catalog type:** Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** MXR's GT-OD.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **GT-OD** by **MXR** as a **Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+MXR's GT-OD is cataloged as an overdrive pedal.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+The verified evidence packet did not contain enough pedal-specific sonic description to make a more detailed sound summary without adding unsupported interpretation.
+
+## Sources checked
+1. Thinking about picking up the MXR GT-OD, good idea or mistake?: https://www.reddit.com/r/Guitar/comments/e2uq0/thinking_about_picking_up_the_mxr_gtod_good_idea/
+2. Used MXR GT OD GTOD Effect Pedal - Guitar Center: https://www.guitarcenter.com/Used/MXR/Used-MXR-GT-OD-GTOD-Effect-Pedal.gc
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
