@@ -1,53 +1,32 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-27T19:21:31.098445+00:00",
+  "generated_at": "2026-09-27T19:34:58.884646+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
   "counts": {
     "total": 4242,
-    "researched": 3750,
-    "pictured": 3358,
-    "complete": 3358,
+    "researched": 3743,
+    "pictured": 3351,
+    "complete": 3351,
     "research_pending": 0,
-    "deep_research_pending": 387,
-    "deep_researched": 3855,
+    "deep_research_pending": 384,
+    "deep_researched": 3858,
     "surface_ready": 4242
   },
   "next_target": {
-    "builder": "Captain FX",
-    "pedal": "Crown Jr. Overdrive / Boost",
+    "builder": "Coleman",
+    "pedal": "Angry Dragon mkII - Germanium Fuzz",
     "catalog_type": "",
-    "research_record": "./research/pedals/Captain FX/Crown Jr. Overdrive Boost.md",
+    "research_record": "./research/pedals/Coleman/Angry Dragon mkII - Germanium Fuzz.md",
     "research_level": "surface"
   },
   "working_set": [
-    {
-      "builder": "Captain FX",
-      "pedal": "Crown Jr. Overdrive / Boost",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Captain FX/Crown Jr. Overdrive Boost.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Coffin Gear / Coffin Case",
-      "pedal": "Batula Fuzz",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Coffin Gear / Coffin Case/Batula Fuzz.md",
-      "research_level": "surface"
-    },
     {
       "builder": "Coleman",
       "pedal": "Angry Dragon mkII - Germanium Fuzz",
       "catalog_type": "",
       "research_record": "./research/pedals/Coleman/Angry Dragon mkII - Germanium Fuzz.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Critically Overdriven",
-      "pedal": "E.O.D.",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Critically Overdriven/E.O.D.md",
       "research_level": "surface"
     },
     {
@@ -195,6 +174,27 @@
       "pedal": "Bass Overdrive (FX91)",
       "catalog_type": "",
       "research_record": "./research/pedals/DOD Electronics/Bass Overdrive (FX91).md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "DOD Electronics",
+      "pedal": "Carcosa Fuzz",
+      "catalog_type": "",
+      "research_record": "./research/pedals/DOD Electronics/Carcosa Fuzz.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "DOD Electronics",
+      "pedal": "D&S / D&S II Distortion & Sustainer",
+      "catalog_type": "",
+      "research_record": "./research/pedals/DOD Electronics/D&S / D&S II Distortion & Sustainer.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "DOD Electronics",
+      "pedal": "Death Metal Distortion (FX86)",
+      "catalog_type": "",
+      "research_record": "./research/pedals/DOD Electronics/Death Metal Distortion (FX86).md",
       "research_level": "surface"
     }
   ]
