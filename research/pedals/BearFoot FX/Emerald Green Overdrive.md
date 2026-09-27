@@ -1,65 +1,59 @@
-# BearFoot FX - Emerald Green Overdrive
+# BearFoot FX — Emerald Green Overdrive
 
 ## PRP identity
 - **Archive parent:** Emerald Green Overdrive
 - **Builder:** BearFoot FX
 - **Catalog type:** Overdrive
-- **Identity:** Lower-gain BearFoot evolution of the Emerald Green Distortion Machine for clean-to-medium Vox-type drive.
+- **Identity:** Lower-gain Germanium evolution of the Emerald Green Distortion Machine, with altered saturation/compression and Vox-style dynamic response. [1][2]
 
 ## What this pedal is
-Emerald Green Overdrive was created as the lower-gain counterpart to the original EGDM. BearFoot's product description says it backs down the gain stages, changes the saturation/compression points, and adjusts EQ so the circuit spends more of its range in clean-to-medium overdrive rather than high-gain distortion.
+BearFoot developed Emerald Green Overdrive as the lower-gain counterpart to EGDM. The design backs down the gain stages and changes the saturation/compression points so more of the control range lives in clean-to-medium overdrive. [1]
 
-## Colorways
-- Documented examples use BearFoot's translucent/metallic green enclosure.
-- No complete factory colorway chronology was verified.
+## Controls
+- **VOLUME**
+- **DRIVE**
+- **VOICE**
+- **TREBLE**
+The interaction between Drive and Voice is a central part of the model's response. [1][2]
 
-## Versions and factory options
-### Emerald Green Overdrive
-- Volume
-- Drive
-- Voice
-- Treble
-- Germanium circuit family
-- 8V-18V operation is documented to alter headroom.
-
-## Version changes
-The key documented change from EGDM is reduced gain with modified saturation, compression and EQ, plus the dedicated lower-gain positioning of the product. No numbered factory revision was verified.
+## Circuit lineage
+- **Primary lineage:** BJFE Emerald Green Distortion Machine.
+- **Technology:** Germanium.
+- The lower-gain product is treated as a distinct model, not a cosmetic EGDM revision. [1]
 
 ## Transistor
-- **Technology:** Germanium implementation is explicitly documented.
-- Exact production transistor part numbers are not publicly documented in the checked sources.
+- **Germanium** implementation is documented.
+- Exact transistor part number is not publicly documented.
 
-## Diode
-- **Exact clipping/protection arrangement:** Not publicly documented.
+## Diode / clipping
+- Exact clipping/protection device and part number are not publicly documented.
+
+## Power
+- Surviving references document broad **8–18V** operating range/headroom behavior; exact current draw is not established in the reviewed sources. [1]
+
+## Version history
+- Distinct lower-gain EGOD design derived from EGDM.
+- No numbered BearFoot electronic revision established.
+- Finish differences are cosmetic.
 
 ## Sound
-Emerald Green Overdrive is aimed at clean-to-medium Vox-style dirt with plenty of picking dynamics. Compared with the original EGDM, its gain ceiling is lower and the upper part of the Drive control adds more compression and sustain than additional extreme saturation.
+The EGOD is designed for clean-to-medium Vox-style overdrive with strong pick dynamics. Compared with EGDM, its gain ceiling is lower and its upper Drive range emphasizes additional compression and sustain rather than extreme distortion. [1][2]
 
-## Sources checked
-1. Tone Lounge, Bearfoot Emerald Green OD: https://tonelounge.co.nz/bearfoot-emerald-green-od/
-2. BearFoot Emerald Green Overdrive demo: https://www.youtube.com/watch?v=CQ_uYnvGhD8
-3. BearFoot Emerald Green OD demo: https://www.youtube.com/watch?v=2jAnAYSSJW0
-
-## Photo
-- **Archive status:** **No Photo Archived**
-- Exact-model imagery was confirmed visually, but the most directly associated CDN asset was no longer retrievable during the verification pass, so it was not promoted.
+## Research confidence
+- **Identity:** High
+- **EGDM lineage:** High
+- **Germanium technology:** High
+- **Four-control layout:** High
+- **Exact transistor:** Unknown
+- **Exact diode:** Unknown
 
 ## Deep research verification
+BearFoot EGOD references and RockBoard's model record were cross-checked with archived user discussion. The sources support the lower-gain position relative to EGDM, Germanium technology and dynamic response. [1][2][3]
 
-This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+## Sources checked
+1. Tone Lounge — BearFoot Emerald Green OD: https://tonelounge.co.nz/bearfoot-emerald-green-od/
+2. RockBoard PedalPedia — Emerald Green Overdrive: https://www.rockboard.de/en/pedalPedia/BearFoot-FX/Emerald-Green-Overdrive/68975145/
+3. The Gear Page — Emerald Green Overdrive review thread: https://www.thegearpage.net/board/index.php?threads/bearfoot-emerald-green-overdrive-review-long.1494533/
 
-### Verified description
-Posted on 30th July 2021 27th July 2021 by Stuart First Impression: Bearfoot FX Emerald Green Overdrive Pedal The Bearfoot FX Emerald Green Overdrive pedal.
-
-### Verified color/finish evidence
-- When I originally tried the Emerald Green Distortion , I was using my Blackstar Studio 10 6L6 amplifier.
-
-### Verified sound evidence
-Emerald Green Overdrive by BearFoot FX
-The pedal responds well to playing dynamics and has a unique voicing due to the interaction between the Distortion and Voice controls.
-Posted on 30th July 2021 27th July 2021 by Stuart First Impression: Bearfoot FX Emerald Green Overdrive Pedal The Bearfoot FX Emerald Green Overdrive pedal.
-
-### Sources checked in this pass
-1. Emerald Green Overdrive by BearFoot FX | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/BearFoot-FX/Emerald-Green-Overdrive/68975145/
-2. Review by The Gear Page (EN): https://www.thegearpage.net/board/index.php?threads/bearfoot-emerald-green-overdrive-review-long.1494533/
-3. First Impression: Bearfoot FX Emerald Green Overdrive Pedal – HomeToneBlog.com: http://hometoneblog.com/2021/07/30/first-impression-bearfoot-fx-emerald-green-overdrive-pedal/
+## Photo
+- **Archive status:** Exact-model imagery verified historically; stable local canonical asset remains pending.
