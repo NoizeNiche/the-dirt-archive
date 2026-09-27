@@ -1,6 +1,6 @@
 {
   "version": "data-20260924-prp1-cbs-arbiter-fuzz-phazer-direct-lead",
-  "count": 4068,
+  "count": 4064,
   "pedals": [
     {
       "company": "1981 Inventions",
@@ -55006,55 +55006,6 @@
       "source_page": "https://www.effectsdatabase.com/model/lovetone/ringstinger",
       "image": "",
       "research_record": "./research/pedals/Lovetone/Ring Stinger.md",
-      "research_level": "deep",
-      "deep_research_status": "VERIFIED"
-    },
-    {
-      "company": "Dinosaural",
-      "pedal": "Tube Bender",
-      "types": [
-        "Overdrive"
-      ],
-      "source_page": "https://www.effectsdatabase.com/model/dinosaural",
-      "image": "",
-      "research_record": "./research/pedals/Dinosaural/Tube Bender.md",
-      "research_level": "deep",
-      "deep_research_status": "VERIFIED"
-    },
-    {
-      "company": "Dinosaural",
-      "pedal": "OPA-101 Overdriven Pre-Amp",
-      "types": [
-        "Overdrive"
-      ],
-      "source_page": "https://www.effectsdatabase.com/model/dinosaural",
-      "image": "",
-      "research_record": "./research/pedals/Dinosaural/OPA-101 Overdriven Pre-Amp.md",
-      "research_level": "deep",
-      "deep_research_status": "VERIFIED"
-    },
-    {
-      "company": "Dinosaural",
-      "pedal": "Cogmeister",
-      "types": [
-        "Overdrive"
-      ],
-      "source_page": "https://www.effectsdatabase.com/model/dinosaural",
-      "image": "",
-      "research_record": "./research/pedals/Dinosaural/Cogmeister.md",
-      "research_level": "deep",
-      "deep_research_status": "VERIFIED"
-    },
-    {
-      "company": "Dinosaural",
-      "pedal": "Hypoid Drive",
-      "types": [
-        "Overdrive",
-        "Distortion"
-      ],
-      "source_page": "https://www.effectsdatabase.com/model/dinosaural",
-      "image": "",
-      "research_record": "./research/pedals/Dinosaural/Hypoid Drive.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED"
     }
