@@ -1,46 +1,57 @@
-# AXL - DEQ-2 Distortion EQ
+# AXL — DEQ-2 Distortion EQ
 
 ## PRP identity
 - **Archive parent:** DEQ-2 Distortion EQ
 - **Builder:** AXL
-- **Catalog type:** Distortion
-- **Identity:** Compact distortion and parametric-EQ pedal in the AXL line, published by Effects Database in 2005.
+- **Catalog type:** Distortion / Parametric EQ
+- **Identity:** AXL-branded compact distortion combined with a three-band equalizer whose middle band has a dedicated frequency control. [1]
 
 ## What this pedal is
-The DEQ-2 combines distortion with a three-band EQ section whose middle band includes a frequency control. Effects Database lists Level, Dist, High, Low, Middle, and Mid Freq as the pedal's controls.
+Effects Database documents the DEQ-2 as a distortion plus parametric-equalization pedal. The external controls are Level, Dist, High, Low, Middle and Mid Freq. [1]
 
-## Colorways
-- No reliable factory colorway chronology was verified.
-- Related Johnson DEQ-2 examples share the same control architecture, but those are retained as related products rather than used as AXL colorway evidence.
+## Controls
+- **LEVEL:** Output.
+- **DIST:** Distortion amount.
+- **HIGH:** High-frequency EQ.
+- **LOW:** Low-frequency EQ.
+- **MIDDLE:** Midrange EQ amount.
+- **MID FREQ:** Selects the center frequency of the middle band. [1]
 
-## Versions and factory options
-### DEQ-2 production
-- Level
-- Dist
-- High
-- Low
-- Middle
-- Mid Freq
-- Distortion + 3-band EQ / parametric mid section
+## Circuit / lineage context
+The exact AXL circuit topology is not published in the surviving product documentation. Effects Database places AXL DEQ-2 among multiple DEQ-2-style distortion/EQ products, including the Johnson DEQ-2 and other HM-2-adjacent designs. This catalog relationship does **not** prove a shared schematic. [1][2]
 
-## Version changes
-No numbered AXL revision was verified in the checked sources.
+## Active device
+- Exact transistor, op-amp or other active-device part numbers are not publicly documented.
 
-## Transistor
-- **Technology:** Analog distortion/EQ architecture is not fully documented at component level in the AXL record.
-- **Exact device:** Not publicly documented.
+## Diode / clipping
+- Exact clipping diode/device type is not publicly documented.
 
-## Diode
-- **Type:** Exact clipping-diode arrangement is not publicly documented.
+## Version history
+- Published in Effects Database in **2005**.
+- No AXL-specific numbered circuit revision established. [1]
+
+## Power
+- A reliable AXL-specific voltage/current specification was not established in the reviewed sources.
 
 ## Sound
-The DEQ-2 is built around broad distortion control plus active tone shaping rather than a fixed one-curve distortion voice. The Mid Freq control lets the player move the center of the middle-band adjustment, making the pedal more surgical than a basic three-knob distortion.
+The defining feature is the combination of distortion with frequency-selective EQ, especially the dedicated Mid Freq control. This gives the user a way to move the center of the midrange emphasis instead of relying on a fixed three-band curve. The archive does not assign a specific HM-2 clone identity without stronger schematic evidence. [1]
+
+## Research confidence
+- **Identity:** High
+- **Control set:** High
+- **Parametric mid band:** High
+- **2005 historical listing:** High
+- **Exact active device:** Unknown
+- **Exact diode:** Unknown
+- **Exact AXL-to-Johnson circuit relationship:** Unresolved
+
+## Deep research verification
+Effects Database's exact AXL DEQ-2 record was checked alongside its AXL catalog and related DEQ-2 listings. The exact model identity and six-control architecture are verified. The database's related-product structure is retained as contextual evidence only and is not converted into a clone/circuit claim. [1][2]
 
 ## Sources checked
-1. Effects Database - AXL DEQ-2 Distortion EQ: https://www.effectsdatabase.com/model/axl/deq2
-2. Effects Database - Johnson DEQ-2 Distortion EQ: https://www.effectsdatabase.com/model/johnson/deq2
+1. Effects Database — AXL DEQ-2 Distortion EQ: https://www.effectsdatabase.com/model/axl/deq2
+2. Effects Database — AXL catalog / related DEQ-2 records: https://www.effectsdatabase.com/model/axl
 
 ## Photo
 - **Archive status:** **No Photo Archived**
-- **Exact-model reference checked:** https://www.effectsdatabase.com/model/axl/deq2
-- **Archive note:** Exact-model catalog imagery is visible through the source database, but no stable direct image asset met the archive's photo requirement in this pass.
+- **Exact-model reference checked:** Effects Database exact-model record.
