@@ -35460,8 +35460,8 @@
       "image": "./assets/pedals/jackson-audio/asabi-overdrive-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Jackson Audio/Asabi Overdrive/Distortion.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Jackson Audio",
@@ -43938,8 +43938,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Prescription Electronics/Experience.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Prescription Electronics",
