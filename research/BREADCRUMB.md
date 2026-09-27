@@ -1,3 +1,11 @@
+## Beetronics / Behringer deep-research checkpoint — September 27, 2026
+
+Continued historical catalog research added verified exact-model material for:
+- **Beetronics:** Abelha Tropical Fuzz, Royal Jelly Fuzz/OD Blender, Tuna Fuzz, Vezzpa Octave Stinger, and Wannabee Beelateral Buzz.
+- **Behringer:** Octavia Octave Fuzz, OD100 Overdrive/Distortion, OD400 Overdrive, PO300 Power Overdrive, SM400 Super Metal, TO100 Tube Overdrive, and VD1 Vintage Distortion.
+
+The Beetronics records now capture documented voice/mode controls, routing behavior, power, switching, and builder-stated circuit architecture. The Behringer records now capture manual-verified controls, operating behavior, power/battery details, and documented sonic intent. Exact semiconductor part numbers remain unresolved where the public documentation does not expose them.
+
 ## Beetronics deep-research checkpoint — September 27, 2026
 
 The continued deep-research pass expanded four source-rich Beetronics records using builder documentation:
