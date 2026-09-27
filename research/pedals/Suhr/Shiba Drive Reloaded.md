@@ -1,23 +1,39 @@
 # Suhr — Shiba Drive Reloaded
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Shiba Drive Reloaded
 - **Builder:** Suhr
-- **Pedal:** Shiba Drive Reloaded
 - **Catalog type:** Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Suhr's Shiba Drive Reloaded.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Shiba Drive Reloaded** by **Suhr** as a **Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Analog Cabinet Emulator microMIDI Control Minimix II Buffer ISO Line Out SUHR OVERDRIVE PEDALS KIKO LOUREIRO SIGNATURE SHIBA DRIVE RELOADED The Kiko Loureiro Signature Shiba Drive Re|Loaded is the result of the collaboration between Suhr and Megadeth guitarist Kiko Loureiro.
 
-## Catalog source
-- Catalog source page on file: https://www.suhr.com/electronics/pedals/overdrive/
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- The verified evidence references: V60, V63, V70.
+- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+Analog Cabinet Emulator microMIDI Control Minimix II Buffer ISO Line Out SUHR OVERDRIVE PEDALS KIKO LOUREIRO SIGNATURE SHIBA DRIVE RELOADED The Kiko Loureiro Signature Shiba Drive Re|Loaded is the result of the collaboration between Suhr and Megadeth guitarist Kiko Loureiro.
+SUHR SHIBA DRIVE PEDAL Shiba Drive™ is a smooth sounding overdrive pedal that provides players with a wide variety of fat rhythm and warm lead tones.
+Shiba Drive is very popular among players seeking an overdrive pedal that can be used in conjunction with both their amplifier’s clean and overdrive channels.
+
+## Sources checked
+1. Overdrive | Suhr.com: https://www.suhr.com/electronics/pedals/overdrive/
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

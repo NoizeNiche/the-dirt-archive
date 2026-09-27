@@ -3859,6 +3859,69 @@
     "source": "verified research source"
   },
   {
+    "builder": "Beetronics",
+    "pedal": "Abelha Tropical Fuzz",
+    "image": "",
+    "source_page": "https://www.beetronicsfx.com/collections/all-pedals-1",
+    "research_record": ""
+  },
+  {
+    "builder": "Beetronics",
+    "pedal": "Fatbee Overdrive",
+    "image": "",
+    "source_page": "https://www.beetronicsfx.com/collections/drive",
+    "research_record": ""
+  },
+  {
+    "builder": "Beetronics",
+    "pedal": "Octahive v2 High Octave Buzz",
+    "image": "",
+    "source_page": "https://www.beetronicsfx.com/collections/all-pedals-1",
+    "research_record": ""
+  },
+  {
+    "builder": "Beetronics",
+    "pedal": "Overhive Mid-Gain Overdrive",
+    "image": "",
+    "source_page": "https://www.beetronicsfx.com/collections/drive",
+    "research_record": ""
+  },
+  {
+    "builder": "Beetronics",
+    "pedal": "Royal Jelly Fuzz/OD Blender",
+    "image": "",
+    "source_page": "https://www.beetronicsfx.com/products/royal-jelly-limited-edition-p-royal-series",
+    "research_record": ""
+  },
+  {
+    "builder": "Beetronics",
+    "pedal": "Swarm Fuzz Harmonizer",
+    "image": "",
+    "source_page": "https://www.beetronicsfx.com/collections/all-pedals-1",
+    "research_record": ""
+  },
+  {
+    "builder": "Beetronics",
+    "pedal": "Tuna Fuzz",
+    "image": "",
+    "source_page": "https://www.beetronicsfx.com/collections/all-pedals-1",
+    "research_record": ""
+  },
+  {
+    "builder": "Beetronics",
+    "pedal": "Vezzpa Octave Stinger",
+    "image": "",
+    "source_page": "https://www.beetronicsfx.com/collections/all-pedals-1",
+    "research_record": ""
+  },
+  {
+    "builder": "Beetronics",
+    "pedal": "Wannabee Beelateral Buzz",
+    "image": "",
+    "source_page": "https://www.beetronicsfx.com/collections/drive",
+    "research_record": ""
+  },
+  {
     "builder": "Beetronics FX",
     "pedal": "Abelha Tropical Fuzz",
     "image": "./assets/pedals/beetronics-fx/abelha-tropical-fuzz/primary.webp",
@@ -20158,6 +20221,13 @@
   },
   {
     "builder": "KMA Machines",
+    "pedal": "Chief Disruptor Bloodstone Edition",
+    "image": "",
+    "source_page": "https://shop.kmamachines.com/pages/products",
+    "research_record": ""
+  },
+  {
+    "builder": "KMA Machines",
     "pedal": "Dead Stag",
     "image": "./assets/pedals/kma-machines/dead-stag/primary.webp",
     "source_page": null,
@@ -20193,6 +20263,13 @@
   },
   {
     "builder": "KMA Machines",
+    "pedal": "LOGAN Desert",
+    "image": "",
+    "source_page": "https://www.kma-machines.com/",
+    "research_record": ""
+  },
+  {
+    "builder": "KMA Machines",
     "pedal": "Minos",
     "image": "./assets/pedals/kma-machines/minos/primary.webp",
     "source_page": null,
@@ -20211,6 +20288,13 @@
     "image": null,
     "source_page": null,
     "research_record": "./research/pedals/KMA Machines/Queequeq 2.md"
+  },
+  {
+    "builder": "KMA Machines",
+    "pedal": "WURHM",
+    "image": "",
+    "source_page": "https://www.kma-machines.com/",
+    "research_record": ""
   },
   {
     "builder": "KMA Machines",

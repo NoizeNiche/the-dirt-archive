@@ -1,0 +1,17 @@
+{
+  "builder": "Electronic Audio Experiments",
+  "pedal": "Dude Incredible",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 1,
+  "sources": [
+    {
+      "url": "https://www.electronicaudioexperiments.com/legacy",
+      "title": "Legacy Products &mdash; Electronic Audio Experiments",
+      "h1": "",
+      "excerpt": "Legacy Products &mdash; Electronic Audio Experiments Pedals Accessories DIY Dealers Blog Support About Menu Pedals Accessories DIY Dealers Blog Support About &times; Legacy Products The pedals below are discontinued or on indefinite hiatus. Click through for archived product pages. Some of these are available as open source designs at our DIY page . Dagger A simplified, reimagined Longsword variant with a voice of its own. \u00b5 Blaster High output JFET-powered signal booster and frequency shaper. Dude Incredible A pair of obscure drive tones forming an iconic noise rock pairing. Sending V1 Tap tempo analog delay with a colorful discrete preamplifier and an insert loop. Beholder A mangled, low-fidelity soundscape generator based on a belton brick reverb circuit. Hypersleep Bucket-brigade powered analog reverberation and multi-tap modulation. Collaborations   0xEAE Boost A razor-sharp boost/overdrive with a massive output. Part of our collaborative series with Obstructures. 0xEAE Bass Driver Adaptation of an iconic solid state bass amplifier. Part of our collaborative series with Obstructures. 0xEAE Fuzz Dangerous op amp fuzz with a blendable analog octave circuit. Part of our collaborative series with Obstructures. Eldritch Blast A gnarly, splatty intermodulation fuzz with an active EQ. Made in collaboration with Mask Audio Electronics . Newsletter Signup | Repairs and Warranty | Legacy Products | About Us \u00a9 Electronic Audio Experiments 2015-2026",
+      "host": "www.electronicaudioexperiments.com",
+      "source_kind": "manufacturer"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}
