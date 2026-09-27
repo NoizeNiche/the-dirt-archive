@@ -174,3 +174,33 @@ a:focus-visible,.pageHome:focus-visible,.action:focus-visible,.pageTypeLink:focu
 .catalogBaseline a{text-decoration:underline;text-underline-offset:2px}
 .catalogBaseline a:hover{opacity:.78}
 
+
+.siteFooter{
+  margin-top:18px;
+  padding:17px 0 24px;
+  border-top:1px solid var(--line);
+  color:#9e9b92;
+  font-size:.62rem;
+  font-weight:850;
+}
+.siteFooter .wrap{
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  gap:12px;
+}
+.siteFooter a{
+  color:#f5f3ec;
+  text-decoration:none;
+  font-weight:950;
+  text-transform:uppercase;
+  letter-spacing:.07em;
+}
+.siteFooter a:hover{text-decoration:underline}
+.siteFooter a:focus-visible{
+  outline:2px solid var(--accent);
+  outline-offset:3px;
+}
+@media(max-width:760px){
+  .siteFooter .wrap{align-items:flex-start;flex-direction:column}
+}
