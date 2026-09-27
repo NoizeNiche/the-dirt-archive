@@ -1,3 +1,13 @@
+## Continued historical deep-research checkpoint — September 27, 2026
+
+A further exact-model research pass expanded the early-B catalog without relaxing identity controls:
+- **Baja Tech Custom — Bone Bender 1.5** and **Bone Bender MKII** are now documented as distinct historical catalog identities. The original Bone Bender's germanium/Vox Tone Bender lineage is retained only as family context; undocumented revision-specific circuitry is left unresolved.
+- **Baja Tech Custom — Da MOAF Deluxe** is documented separately from the standard Da MOAF, with the standard model's Big Muff-style architecture retained only as family context until Deluxe-specific electrical evidence appears.
+- **Baja Tech Custom — Real Tube Overdrive** now includes a surviving exact-unit record documenting a 12AX7, volume/tone/gain controls, and high-voltage tube operation. The one-of-one Ukraine build is explicitly treated as unit-specific rather than universal production specification.
+- **Bad Penny FX — Morse Fuzz Mini** now includes surviving product documentation describing the compact high-gain silicon fuzz, its toggleable dual-stage boost, rear gate, single external control, and internal boost trimmers.
+
+The Bad Penny FX Germanium Fuzz Controller remains intentionally unresolved at the revision-specific technical level because available sources establish the product's existence but do not safely establish its exact circuit/control details.
+
 ## Catalog deep-research checkpoint — September 27, 2026
 
 The active deep-research lane advanced the next source-rich historical records in canonical queue order:
