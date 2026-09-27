@@ -1,40 +1,42 @@
-# EarthQuaker Devices — Sunn O))) Life Pedal — Octave Distortion + Booster
+# EarthQuaker Devices — Sunn O))) Life Pedal - Octave Distortion + Booster
 
-## PRP identity
-- **Archive parent:** Sunn O))) Life Pedal — Octave Distortion + Booster
+## Surface catalog record
 - **Builder:** EarthQuaker Devices
+- **Pedal:** Sunn O))) Life Pedal - Octave Distortion + Booster
 - **Catalog type:** Distortion / Overdrive
-- **Identity:** EarthQuaker Devices's Sunn O))) Life Pedal — Octave Distortion + Booster.
+- **Research level:** Deep
+- **Deep research status:** Verified version-specific identity
+- **Identity basis:** EarthQuaker Devices' product page identifies Life Pedal as an octave distortion and booster; the archive's evidence references a V3 version.
 
 ## What this pedal is
-EarthQuaker Devices's Sunn O))) Life Pedal — Octave Distortion + Booster is cataloged as a distortion / overdrive pedal.
+The **EarthQuaker Devices Sunn O))) Life Pedal** combines **octave distortion** with a **booster**. EarthQuaker Devices describes the circuit as heavily tuned for crushing heavy tones and says the octave section was refined to become more pronounced while retaining low-end content. [1]
 
-## Colorways
-- The “Amplitude” side is faithfully modeled after the classic “White Face” distortion unit, using modern, reliable components to last a lifetime.
+For the documented V3 form, EarthQuaker Devices added a **third footswitch** using Flexi-Switch technology to control the octave section, providing another way to shape the sound quickly. [1]
 
-## Versions and factory options
-- The verified evidence references: V3.
-- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+## Versions
+The existing evidence references **V3**. This record is therefore version-specific. The archive should not back-project V3-specific switching or voicing changes onto earlier Life Pedal versions without evidence.
 
-## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+## Technical evidence boundary
+The reviewed sources establish the octave distortion + booster architecture and V3-era third-switch feature. They do not establish a complete universal factory BOM or exact clipping-device inventory.
 
-## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
-- **Exact transistor/device:** Unknown.
+The previous record contained scraped product-page navigation text. That material has been removed.
 
-## Diode
-- Documented terms in the verified sources: LED.
-- The archive records only the component information explicitly present in these sources.
-
-## Sound
-Sunn O))) Life Pedal Octave Distortion + Booster — EarthQuaker Devices Contact Us Use the form on the right to contact us.
-The Sunn O))) Life Pedal circuit has been meticulously tweaked from the original to squeeze every last drop of heavy crushing tone available.
-The octave section has been fine tuned to make it more pronounced without losing the bottom end and we added a third footswitch, utilizing Flexi-Switch Technology®, for the octave to allow an additional method of quick and radical tone shaping.
-
-## Sources checked
-1. Sunn O))) Life Pedal Octave Distortion + Booster &mdash; EarthQuaker Devices: https://www.earthquakerdevices.com/life-pedal
-2. EarthQuaker Devices sunn O))) Life Pedal Octave Distortion + | Reverb: https://reverb.com/p/earthquaker-devices-sunn-o-life-pedal-octave-distortion-plus-booster-v3
+## Specifications
+- **Model:** Sunn O))) Life Pedal
+- **Type:** Distortion / Overdrive
+- **Functions:** Octave distortion + booster
+- **Version reference:** V3
+- **Octave control:** Dedicated third footswitch in V3 documentation
+- **Switching:** Flexi-Switch technology for the octave function
+- **Factory BOM:** not established in this pass
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive photo:** No verified local photo is currently archived for this version-specific record.
+- External product imagery remains separate from archive-local photo coverage.
+
+## Research evidence
+**Sources checked:**
+1. https://www.earthquakerdevices.com/life-pedal — manufacturer product page, Life Pedal identity and V3-era octave/boost description.
+2. https://reverb.com/p/earthquaker-devices-sunn-o-life-pedal-octave-distortion-plus-booster-v3 — exact V3 product reference.
+
+**Research confidence:** High for identity, octave distortion + booster architecture, and V3 third-switch feature; moderate for detailed circuit construction.
