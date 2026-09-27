@@ -427,7 +427,11 @@ async function targetRecord(builder,pedal,type){
   // prevents curated leads from accidentally suppressing the discovery
   // search that can supply a second independent source.
   const cachedHosts = new Set([...verifiedCache.keys()].map(host).filter(Boolean));
-  if(cachedHosts.size < 2){
+  const knownHosts = new Set(urls.map(host).filter(Boolean));
+  // Source-rich targets should validate curated leads before spending the worker
+  // budget on broad search-engine discovery. If those leads prove insufficient,
+  // a later bounded pass can reopen discovery without weakening the identity gate.
+  if(cachedHosts.size < 2 && knownHosts.size < 2){
     const queryResults = await boundedMap(queries, 3, q => search(q));
     for(const batch of queryResults){
       for(const x of batch || []) if(!found.has(x.url)) found.set(x.url,x);
