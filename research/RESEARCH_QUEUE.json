@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-27T20:54:10.195664+00:00",
+  "generated_at": "2026-09-27T20:55:47.779575+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,25 +10,18 @@
     "pictured": 3367,
     "complete": 3367,
     "research_pending": 0,
-    "deep_research_pending": 361,
-    "deep_researched": 3880,
+    "deep_research_pending": 360,
+    "deep_researched": 3881,
     "surface_ready": 4241
   },
   "next_target": {
-    "builder": "DigiTech",
-    "pedal": "X-Series Hot Rod Distortion",
+    "builder": "Dirty Boy",
+    "pedal": "JUNIOR DB Fuzz / Dirty Boy Jr. Fuzz",
     "catalog_type": "",
-    "research_record": "./research/pedals/DigiTech/X-Series Hot Rod Distortion.md",
+    "research_record": "./research/pedals/Dirty Boy/JUNIOR DB Fuzz / Dirty Boy Jr. Fuzz.md",
     "research_level": "surface"
   },
   "working_set": [
-    {
-      "builder": "DigiTech",
-      "pedal": "X-Series Hot Rod Distortion",
-      "catalog_type": "",
-      "research_record": "./research/pedals/DigiTech/X-Series Hot Rod Distortion.md",
-      "research_level": "surface"
-    },
     {
       "builder": "Dirty Boy",
       "pedal": "JUNIOR DB Fuzz / Dirty Boy Jr. Fuzz",
@@ -195,6 +188,13 @@
       "pedal": "Performer 555 Distortion",
       "catalog_type": "",
       "research_record": "./research/pedals/DOD Electronics/Performer 555 Distortion.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "DOD Electronics",
+      "pedal": "Supra Distortion (FX55C)",
+      "catalog_type": "",
+      "research_record": "./research/pedals/DOD Electronics/Supra Distortion (FX55C).md",
       "research_level": "surface"
     }
   ]

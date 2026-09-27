@@ -3,13 +3,13 @@
 
 The active production phase is **Catalog Research Phase**. PRP1 is retained only as a legacy publication/closeout mechanism.
 
-Live catalog: **4241 total / 4241 surface-ready / 3880 deep-researched / 3742 research-linked / 3367 pictured / 3367 complete / 0 surface-missing / 361 deep-research-pending / 375 researched-photo-pending**.
+Live catalog: **4241 total / 4241 surface-ready / 3881 deep-researched / 3742 research-linked / 3367 pictured / 3367 complete / 0 surface-missing / 360 deep-research-pending / 375 researched-photo-pending**.
 
-**Next deep-research target:** DigiTech - X-Series Hot Rod Distortion.
+**Next deep-research target:** Dirty Boy - JUNIOR DB Fuzz / Dirty Boy Jr. Fuzz.
 
 PRP1 closeout remains separate: 375 researched record(s) still lack an exact local photo.
 The research queue is generated from the canonical catalog and tracker; do not hand-edit the derived queue.
-Last refreshed: 2026-09-27T20:54:10.195664+00:00
+Last refreshed: 2026-09-27T20:55:47.779575+00:00
 <!-- AUTO:RESEARCH_PHASE_END -->
 
 <!-- AUTO:RESEARCH_PHASE_START -->

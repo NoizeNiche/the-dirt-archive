@@ -32749,8 +32749,8 @@
       "image": "./assets/pedals/digitech/x-series-hot-rod-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/DigiTech/X-Series Hot Rod Distortion.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "DigiTech",
