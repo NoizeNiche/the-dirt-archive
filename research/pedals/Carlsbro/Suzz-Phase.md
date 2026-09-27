@@ -20,3 +20,8 @@ Carlsbro's 1977 Effects Series documentation lists Suzz-Phase as its own product
 
 ## Photo
 - Exact photo pending.
+## Deep research verification
+
+Effects Database documents the exact **Carlsbro Suzz-Phase** as a historical Alu-series hybrid combining the Suzz fuzz and a phaser in one enclosure. Verified controls are **Gain** for the fuzz section and **Speed** for the phase section. The two effects have independent footswitches. The unit uses analog fuzz and phase circuits, 9V battery power, and a metal enclosure. Effects Database records publication on October 10, 2005.
+
+Source: https://www.effectsdatabase.com/model/carlsbro/alu/suzzphase
