@@ -1,6 +1,6 @@
 {
   "version": "data-20260924-prp1-cbs-arbiter-fuzz-phazer-direct-lead",
-  "count": 4064,
+  "count": 4067,
   "pedals": [
     {
       "company": "1981 Inventions",
@@ -55008,6 +55008,44 @@
       ],
       "source_page": "https://jhspedals.info/products/pandamonium",
       "research_record": "./research/pedals/JHS Pedals/Pandamonium.md",
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "Beetronics",
+      "pedal": "Octahive V1 Upper Octave Fuzz",
+      "types": [
+        "Fuzz"
+      ],
+      "image": "",
+      "source_page": "https://www.beetronicsfx.com/collections/all-pedals-1",
+      "research_record": "./research/pedals/Beetronics/Octahive V1 Upper Octave Fuzz.md",
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "Beetronics",
+      "pedal": "Nectar Tone Sweetener Drive/Fuzz",
+      "types": [
+        "Overdrive",
+        "Fuzz"
+      ],
+      "image": "",
+      "source_page": "https://www.beetronicsfx.com/collections/all-pedals-1",
+      "research_record": "./research/pedals/Beetronics/Nectar Tone Sweetener Drive/Fuzz.md",
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "Beetronics",
+      "pedal": "Zzombee Filtremulator",
+      "types": [
+        "Fuzz",
+        "Overdrive"
+      ],
+      "image": "",
+      "source_page": "https://www.beetronicsfx.com/collections/all-pedals-1",
+      "research_record": "./research/pedals/Beetronics/Zzombee Filtremulator.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED"
     }
