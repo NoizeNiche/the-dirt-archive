@@ -4,20 +4,30 @@
 - **Builder:** DOD Electronics
 - **Pedal:** FX57 Hard Rock Distortion
 - **Catalog type:** Distortion
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Research level:** Deep
+- **Deep research status:** Verified identity and taxonomy
+- **Identity basis:** DOD's preserved product-manual index explicitly lists FX57 as **Hard Rock Distortion**.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **FX57 Hard Rock Distortion** by **DOD Electronics** as a **Distortion** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+The **DOD FX57 Hard Rock Distortion** is a historical DOD FX-series distortion model. Its exact manufacturer designation is preserved in the official manual index, and DOD's historical reconciliation places FX57 in the Distortion category. [1][2]
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+The archive keeps the full model name **Hard Rock Distortion** rather than shortening it to FX57, because the product name itself is useful historical evidence.
+
+## Historical context
+FX57 belongs to DOD's historical FX-series distortion catalog. The reviewed reconciliation treats it as a distinct named model rather than merging it into the broader family of DOD high-gain pedals. [2]
+
+No complete factory production window, revision numbering, or component-level BOM was established in this pass.
+
+## Evidence boundary
+The current evidence is strong for the model identity and dirt taxonomy but insufficient to make universal claims about exact op-amps, clipping devices, transistor types, or revision-specific layouts. Those details remain pending exact-unit or schematic evidence.
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
+- **Archive photo:** No verified local photo is currently archived for the FX57.
+- External exact-model imagery is not counted as an archive-local asset.
 
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+## Research evidence
+**Sources checked:**
+1. https://digitech.com/product-manuals/ — official DOD/DigiTech manual index explicitly listing FX57 Hard Rock Distortion.
+2. Internal DOD historical reconciliation, Block 072, which identifies FX57 as a historical DOD Distortion model.
+
+**Research confidence:** High for exact model identity and taxonomy; moderate for historical lifecycle and technical details.
