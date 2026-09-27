@@ -4,45 +4,59 @@
 - **Archive parent:** The Superfuzz
 - **Builder:** CBC Pedals
 - **Catalog type:** Fuzz
-- **Identity:** CBC Pedals reproduction of the Univox Superfuzz / Shin-Ei FY-6 octave-fuzz circuit.
+- **Identity:** CBC Pedals reproduction of the Univox Super-Fuzz / Shin-Ei FY-6 octave fuzz, with documented Panasonic C828 transistors and germanium clipping diodes. [1][2]
 
 ## What this pedal is
-The Superfuzz is a CBC Pedals clone of the Univox Superfuzz / Shin-Ei FY-6. Surviving CBC listings describe it as an octave fuzz that uses full-wave rectification to generate an upper octave plus a smaller lower-octave component, with substantial compression and a mild ring-modulator character. The same listings describe a more compact, pedalboard-friendly enclosure than the original-style footprint. [1][2]
+CBC's own builder profile identifies it as a reproduction of the Univox Super-Fuzz / Shin-Ei FY-6. Surviving exact-model listings describe a handwired build with a modern compact enclosure, true bypass and a control set adapted for pedalboard use. [1][2]
 
-## Colorways
-- **Brushed aluminum / silver** is documented in surviving Reverb listings and product photography. [1][2]
-- No separately documented production colorway family was established in the checked sources.
+## Controls / switching
+- **BALANCE:** Balances the fuzz/octave output.
+- **EXPANDER:** Alters the operating/gain behavior.
+- **TONE** two-position switch.
+- 3PDT true bypass.
+- Top-mounted footswitch / modern pedalboard layout.
+- Neutrik jacks and Alpha pots are documented in surviving listings. [1][2]
 
-## Versions and factory options
-### The Superfuzz production
-- Balance control
-- Expander control
-- two-position Tone switch
-- top-mounted on/off footswitch
-- 3PDT true bypass
-- Neutrik jacks
-- Alpha pots
-- red LED indicator
-- 9V Boss-style adapter power
-- hand-wired construction [1][2]
-
-No numbered factory revision was reliably established.
-
-## Version changes
-No dependable numbered CBC V1/V2 sequence was identified in the surviving product listings. The documented build remains the same core Superfuzz reproduction, with the smaller enclosure and modern true-bypass/power implementation treated as part of the CBC version described by the builder material. [1][2]
+## Circuit lineage
+- **Primary lineage:** Univox **Super-Fuzz / Shin-Ei FY-6**.
+- The CBC build is a reproduction of that architecture, not a generic “Super Fuzz-style” design. [1]
 
 ## Transistor
-- **Type:** Panasonic C828 transistors.
-- The surviving CBC description identifies these as the original/rare Panasonic C828 devices used in the pedal and says they were tested and selected as transistor combinations during construction. [1][2]
+- **Documented devices:** Panasonic **C828** transistors.
+- CBC's surviving exact-model description states that the devices were tested/selected during construction. [1][2]
+- Exact gain grading is not documented.
 
-## Diode
-- **Type:** Two germanium diodes used for the square-wave clipping stage. [1][2]
-- Exact diode part numbers were not documented in the checked CBC listings.
+## Diode / clipping
+- **Two germanium diodes** are documented in the clipping/square-wave section. [1][2]
+- Exact diode part number is not established.
+
+## Power
+- **9V Boss-style** adapter/pedalboard power is documented in surviving CBC listings.
+- Current draw is not established. [1][2]
+
+## Version history
+- No reliable numbered CBC V1/V2 sequence established.
+- The compact enclosure, modern true-bypass switching and pedalboard-friendly power arrangement are treated as part of the documented CBC reproduction rather than invented revisions.
 
 ## Sound
-The Superfuzz produces the characteristic upper-octave Superfuzz response while retaining a small lower-octave component, which gives the circuit a compressed, harmonically dense feel with a mild ring-modulator edge. Its two-position Tone switch engages a 1 kHz filter that scoops the mids for a particularly fat, bass-heavy voice versus the flatter setting. [1][2]
+The Superfuzz architecture produces the characteristic doubled upper-octave effect plus a smaller lower-octave component, creating a compressed, harmonically dense sound with a mild ring-modulator edge. CBC's two-position Tone switch is documented as changing a **1 kHz** filter, moving between a flatter response and a more mids-scooped, fat voice. [1][2]
+
+## Research confidence
+- **Identity:** High
+- **Univox/Shin-Ei lineage:** High
+- **Panasonic C828 devices:** High
+- **Two germanium diodes:** High
+- **Tone-switch function:** High
+- **Exact diode part number:** Unknown
+- **Exact current draw:** Unknown
+
+## Deep research verification
+Two exact-model Reverb records independently document the CBC build as a Univox Superfuzz/FY-6 reproduction and preserve the C828 transistor and germanium-diode details. Equipboard independently identifies CBC as a handwired vintage-effect recreation builder. [1][2][3]
 
 ## Sources checked
-1. Reverb — CBC "The Superfuzz" Shin-Ei FY-6/Univox Superfuzz clone, sold listing: https://reverb.com/item/663375-cbc-the-superfuzz-shin-ei-fy-6-univox-superfuzz-clone
-2. Reverb — CBC Pedals The Superfuzz FY-6 / Panasonic C828, ended listing: https://reverb.com/ca/item/1491164-cbc-pedals-the-superfuzz-electric-guitar-fuzz-pedal-fy-6-panasonic-c828-usa-made
-3. Equipboard — CBC Pedals builder page: https://equipboard.com/brands/cbc-pedals
+1. Reverb — CBC “The Superfuzz” Shin-Ei FY-6 / Univox clone: https://reverb.com/item/663375-cbc-the-superfuzz-shin-ei-fy-6-univox-superfuzz-clone
+2. Reverb — CBC The Superfuzz, Panasonic C828: https://reverb.com/ca/item/1491164-cbc-pedals-the-superfuzz-electric-guitar-fuzz-pedal-fy-6-panasonic-c828-usa-made
+3. Equipboard — CBC Pedals: https://equipboard.com/brands/cbc-pedals
+
+## Photo
+- **Archive status:** Exact-model local photo is retained separately by the PRP/photo lane.
