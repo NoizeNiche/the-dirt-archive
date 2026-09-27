@@ -851,6 +851,13 @@
     "research_record": "./research/pedals/Aguilar/Storm King - Micro Bass Distortion/Fuzz.md"
   },
   {
+    "builder": "Aguilar",
+    "pedal": "Tone Hammer",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/aguilar/tonehammer",
+    "research_record": "./research/pedals/Aguilar/Tone Hammer.md"
+  },
+  {
     "builder": "Airis Effects",
     "pedal": "Solar Flare Overdrive",
     "image": "./assets/pedals/airis-effects/solar-flare-overdrive/primary.webp",
@@ -1204,6 +1211,41 @@
     "source_page": null,
     "research_record": "./research/pedals/PRP Batch 047/Scrambler Bass Overdrive.md",
     "photo_status": "NEEDED"
+  },
+  {
+    "builder": "Ampeg",
+    "pedal": "A-1 Distortion",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/ampeg/a",
+    "research_record": "./research/pedals/Ampeg/A-1 Distortion.md"
+  },
+  {
+    "builder": "Ampeg",
+    "pedal": "A-3 Over Drive",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/ampeg/a",
+    "research_record": "./research/pedals/Ampeg/A-3 Over Drive.md"
+  },
+  {
+    "builder": "Ampeg",
+    "pedal": "SCR-DI",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/ampeg",
+    "research_record": "./research/pedals/Ampeg/SCR-DI.md"
+  },
+  {
+    "builder": "Ampeg",
+    "pedal": "Scrambler",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/ampeg",
+    "research_record": "./research/pedals/Ampeg/Scrambler.md"
+  },
+  {
+    "builder": "Ampeg",
+    "pedal": "SGT-DI Bass Preamp & DI",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/ampeg",
+    "research_record": "./research/pedals/Ampeg/SGT-DI Bass Preamp & DI.md"
   },
   {
     "builder": "Amplified Nation",
@@ -3069,6 +3111,27 @@
     "image": "./assets/pedals/bad-cat/x-treme-tone/primary.webp",
     "source_page": "https://manuzoid.com/manuals/0D5pR-Bad%20Cat%20X-TREME%20TONE%20Operating%20instructions",
     "research_record": "./research/pedals/Bad Cat/X-Treme Tone.md"
+  },
+  {
+    "builder": "Bad Cat",
+    "pedal": "Burmese Drive - Dual Vintage Overdrive",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/badcat",
+    "research_record": "./research/pedals/Bad Cat/Burmese Drive - Dual Vintage Overdrive.md"
+  },
+  {
+    "builder": "Bad Cat",
+    "pedal": "Double Drive - Stackable Overdrive",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/badcat",
+    "research_record": "./research/pedals/Bad Cat/Double Drive - Stackable Overdrive.md"
+  },
+  {
+    "builder": "Bad Cat",
+    "pedal": "Siamese Drive - Dual Harmonic Overdrive",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/badcat",
+    "research_record": "./research/pedals/Bad Cat/Siamese Drive - Dual Harmonic Overdrive.md"
   },
   {
     "builder": "Bad Penny FX",
@@ -5207,6 +5270,20 @@
     "source_page": "https://bixonic-sound.com/products/exp2000dr",
     "research_record": "./research/pedals/PRP Batch 088/EXP2000DR Clean & Drive.md",
     "source": "verified research source"
+  },
+  {
+    "builder": "Bixonic",
+    "pedal": "EXP2000 Expandora",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/bixonic/expandora",
+    "research_record": "./research/pedals/Bixonic/EXP2000 Expandora.md"
+  },
+  {
+    "builder": "Bixonic",
+    "pedal": "EXP2001 Expandora II",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/bixonic",
+    "research_record": "./research/pedals/Bixonic/EXP2001 Expandora II.md"
   },
   {
     "builder": "BIXONIC",
