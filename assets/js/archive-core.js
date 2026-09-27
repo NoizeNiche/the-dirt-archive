@@ -25,6 +25,11 @@ function entryKey(entry) {
   return catalogKey(entry.company, entry.pedal);
 }
 
+function isLocalArchiveImage(item) {
+  const value=String(item?.image||'').trim();
+  return value.startsWith('./assets/pedals/') || value.startsWith('assets/pedals/');
+}
+
 function isCatalogEntry(entry) {
   return entry?.catalog_role !== 'variation';
 }
