@@ -3,38 +3,56 @@
 ## PRP identity
 - **Archive parent:** Sagittarius - Overdrive Boost
 - **Builder:** Celestial Effects
-- **Catalog type:** Overdrive
-- **Identity:** Celestial Effects Sagittarius Overdrive Boost, combining a transparent overdrive and the company's Scorpio Super Boost in one enclosure.
+- **Catalog type:** Overdrive / Boost
+- **Identity:** Two discrete effects wired in series: Sagittarius Overdrive and the company's Scorpio Super Boost, with selectable order. [1][2]
 
-## What this pedal is
-Celestial Effects describes the Sagittarius as two discrete effects wired in series: an overdrive section and the company's Scorpio Super Boost. A bottom-accessed pushbutton selects the order as either **Boost → Overdrive** or **Overdrive → Boost**. [1][2]
+## Controls
+- **VOLUME**
+- **DRIVE**
+- **TREBLE**
+- **BASS**
+- **BOOST**
+- Bottom-accessed order selector:
+  - **BOOST → OVERDRIVE**
+  - **OVERDRIVE → BOOST** [1][2]
 
-The overdrive section is described by the builder as an original design combining qualities associated with Timmy-style transparency and Klon-style presence. [1]
-
-## Colorways
-- Exact-model imagery documents a purple enclosure. [3]
-- A complete factory colorway sequence was not established.
-
-## Versions and factory options
-The documented control set is **Volume, Drive, Treble, Bass, and Boost**. A pushbutton selects the effect order. [1][2]
-
-The pedal is true bypass and uses no buffers. [1]
-
-No formal numbered V1/V2 sequence was established.
-
-## Version changes
-No reliable numbered production revision history was found in the checked sources.
+## Circuit lineage / architecture
+- Overdrive section is an original Celestial design drawing qualities associated by the builder with **Timmy-style transparency** and **Klon-style presence**.
+- Separate Scorpio Super Boost section.
+- Both are discrete analog effects in series. [1]
 
 ## Transistor
-No exact-model transistor part number was established in the checked sources.
+- Exact active-device part numbers are not publicly documented.
 
-## Diode
-No exact-model diode specification was established in the checked sources.
+## Diode / clipping
+- Exact clipping-device type and part number are not publicly documented.
+
+## Power / switching
+- True bypass.
+- No buffers in the signal path according to the builder.
+- Exact current/voltage details beyond the model's power documentation are not securely preserved.
+
+## Version history
+- No numbered electronic revision established.
+- Purple exact-model finish documented.
 
 ## Sound
-The overdrive section is intended to remain low in compression and high in presence, from soft boost through semi-heavy overdrive. The separate boost can precede the overdrive to push it harder or follow it to provide a larger volume increase. [1][2]
+The overdrive section is intended to stay open and relatively low-compression, from soft boost to semi-heavy overdrive. Ordering the boost before the drive pushes the drive stage harder; placing it after the drive provides more output-level lift. [1][2]
+
+## Research confidence
+- **Identity:** High
+- **Two-effect architecture:** High
+- **Order switching:** High
+- **Timmy/Klon reference:** High as builder description
+- **Exact active devices:** Unknown
+
+## Deep research verification
+The official Sagittarius page, owner's manual and exact-model Reverb listing were cross-checked. The builder sources establish the five-control interface, discrete boost/OD chain and two-way order selection. [1][2][3]
 
 ## Sources checked
-1. Celestial Effects — Sagittarius Overdrive Boost: https://www.celestialeffects.com/sagittarius.html
+1. Celestial Effects — Sagittarius: https://www.celestialeffects.com/sagittarius.html
 2. Celestial Effects — Sagittarius Owner's Manual: https://www.celestialeffects.com/pdfpages/sagittariususermanual.pdf
 3. Reverb — Celestial Effects Sagittarius Overdrive/Boost: https://reverb.com/item/15228434-celestial-effects-sagittarius-overdrive-boost
+
+## Photo
+- Exact-model photo status remains handled by the photo lane.
