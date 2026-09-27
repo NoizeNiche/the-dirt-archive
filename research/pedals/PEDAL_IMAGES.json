@@ -10933,7 +10933,7 @@
   {
     "builder": "Chaser",
     "pedal": "HM-3 Heavy Metal",
-    "image": null,
+    "image": "./assets/pedals/chaser/hm-3-heavy-metal/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Chaser/HM-3 Heavy Metal.md"
   },
@@ -12970,7 +12970,7 @@
   {
     "builder": "Coolpedals",
     "pedal": "Steam Machine",
-    "image": null,
+    "image": "./assets/pedals/coolpedals/steam-machine/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Coolpedals/Steam Machine.md"
   },
@@ -13047,7 +13047,7 @@
   {
     "builder": "Coopersonic",
     "pedal": "The Germaniac - Vintage Fuzz",
-    "image": null,
+    "image": "./assets/pedals/coopersonic/the-germaniac-vintage-fuzz/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Coopersonic/The Germaniac - Vintage Fuzz.md"
   },
@@ -13684,7 +13684,7 @@
   {
     "builder": "Cranetortoise by Albit",
     "pedal": "DD-1B Dual Distortion for Bass",
-    "image": null,
+    "image": "./assets/pedals/cranetortoise-by-albit/dd-1b-dual-distortion-for-bass/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Cranetortoise by Albit/DD-1B Dual Distortion for Bass.md"
   },
@@ -14489,7 +14489,7 @@
   {
     "builder": "Crown",
     "pedal": "FW-3 Distortion Wah Volume",
-    "image": null,
+    "image": "./assets/pedals/crown/fw-3-distortion-wah-volume/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Crown/FW-3 Distortion Wah Volume.md"
   },
@@ -14559,7 +14559,7 @@
   {
     "builder": "Cruzer (by Crafter)",
     "pedal": "EF-DT Distortion",
-    "image": null,
+    "image": "./assets/pedals/cruzer-by-crafter/ef-dt-distortion/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Cruzer (by Crafter)/EF-DT Distortion.md"
   },
@@ -24660,7 +24660,7 @@
   {
     "builder": "Mythos Pedals",
     "pedal": "Herculean Deluxe Overdrive",
-    "image": null,
+    "image": "./assets/pedals/mythos-pedals/herculean-deluxe-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Mythos Pedals/Herculean Deluxe Overdrive.md"
   },
@@ -25353,7 +25353,7 @@
   {
     "builder": "Ovaltone",
     "pedal": "OVALIZED SCREAMER 808ts",
-    "image": null,
+    "image": "./assets/pedals/ovaltone/ovalized-screamer-808ts/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Ovaltone/OVALIZED SCREAMER 808ts.md"
   },
@@ -25556,7 +25556,7 @@
   {
     "builder": "Pettyjohn Electronics",
     "pedal": "ODI",
-    "image": null,
+    "image": "./assets/pedals/pettyjohn-electronics/odi/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Pettyjohn Electronics/ODI.md"
   },
@@ -25766,21 +25766,21 @@
   {
     "builder": "Prescription Electronics",
     "pedal": "Germ",
-    "image": null,
+    "image": "./assets/pedals/prescription-electronics/germ/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Prescription Electronics/Germ.md"
   },
   {
     "builder": "Prescription Electronics",
     "pedal": "RX Overdriver",
-    "image": null,
+    "image": "./assets/pedals/prescription-electronics/rx-overdriver/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Prescription Electronics/RX Overdriver.md"
   },
   {
     "builder": "Prescription Electronics",
     "pedal": "Supernatural",
-    "image": null,
+    "image": "./assets/pedals/prescription-electronics/supernatural/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Prescription Electronics/Supernatural.md"
   },
@@ -25822,7 +25822,7 @@
   {
     "builder": "ProCo Sound",
     "pedal": "RAT 2",
-    "image": null,
+    "image": "./assets/pedals/proco-sound/rat-2/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/ProCo Sound/RAT 2.md"
   },
@@ -25836,21 +25836,21 @@
   {
     "builder": "ProCo Sound",
     "pedal": "Turbo RAT",
-    "image": null,
+    "image": "./assets/pedals/proco-sound/turbo-rat/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/ProCo Sound/Turbo RAT.md"
   },
   {
     "builder": "ProCo Sound",
     "pedal": "You Dirty RAT",
-    "image": null,
+    "image": "./assets/pedals/proco-sound/you-dirty-rat/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/ProCo Sound/You Dirty RAT.md"
   },
   {
     "builder": "Radial Engineering / Tonebone",
     "pedal": "Bassbone OD",
-    "image": null,
+    "image": "./assets/pedals/radial-engineering-tonebone/bassbone-od/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Radial Engineering / Tonebone/Bassbone OD.md"
   },
