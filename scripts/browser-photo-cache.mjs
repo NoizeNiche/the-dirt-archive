@@ -1388,7 +1388,7 @@ async function effectsDatabaseFeedImageUrls(page, pageUrl) {
                   node.getAttribute('data-bg') || '',
                   node.getAttribute('data-background-image') || ''
                 ].join(' ');
-                for (const match of raw.matchAll(/url\\((?:"|')?([^"')]+)(?:"|')?\\)/gi)) add(match[1]);
+                for (const match of raw.matchAll(/url\((?:"|')?([^"')]+)(?:"|')?\)/gi)) add(match[1]);
               }
               return [...out];
             }).catch(() => []);
@@ -1511,7 +1511,7 @@ async function richSourceImageUrls(page, pageUrl) {
           node.getAttribute('data-bg') || '',
           node.getAttribute('data-background-image') || ''
         ].join(' ');
-        for (const match of raw.matchAll(/url\\((?:"|')?([^"')]+)(?:"|')?\\)/gi)) add(match[1]);
+        for (const match of raw.matchAll(/url\((?:"|')?([^"')]+)(?:"|')?\)/gi)) add(match[1]);
       }
 
       for (const script of document.querySelectorAll('script[type="application/ld+json"]')) {
@@ -1805,7 +1805,7 @@ async function curlVerifiedSourcePageImages(entry, pageUrl) {
       ], { timeout: 8500, maxBuffer: 6 * 1024 * 1024 });
       const manufacturerHtml = String(proc.stdout || '');
       if (manufacturerHtml) {
-        const refs = manufacturerHtml.split(/\\r?\\n/)
+        const refs = manufacturerHtml.split(/\r?\n/)
           .filter(line => /drivecenter|bass|gear|product|image|jpg|jpeg|png|webp/i.test(line))
           .slice(0, 120)
           .join(' ')
@@ -1835,7 +1835,7 @@ async function curlVerifiedSourcePageImages(entry, pageUrl) {
 
   if (entry.company === 'CAT Sound' && entry.pedal === 'DriveCenter Bass') {
     try {
-      const needles = html.split(/\\r?\\n/).filter(line =>
+      const needles = html.split(/\r?\n/).filter(line =>
         /drivecenter|gear\/pics|gear\/thumbs|reverb|ebay|image|photo/i.test(line)
       ).slice(0, 80);
       console.log('CAT Sound raw source references: ' + needles.join(' ').slice(0, 30000));
@@ -2279,7 +2279,7 @@ async function recoverEntry(browser, entry, deepReview = false, recoveryDeadline
               }
               diagnostic.rawHtmlCandidates += rawVerifiedPageImageUrls(html, pageUrl).length;
 
-              if (/(^|\\.)effectsdatabase\\.com$/i.test(new URL(pageUrl).hostname)) {
+              if (/(^|\.)effectsdatabase\.com$/i.test(new URL(pageUrl).hostname)) {
                 try {
                   const externalImages = await rawVerifiedExternalSourceImages(page, entry, pageUrl);
                   diagnostic.linkedExternalCandidates += externalImages.length;
@@ -3162,7 +3162,7 @@ async function recoverEntry(browser, entry, deepReview = false, recoveryDeadline
                     img.src || '',
                     img.className || ''
                   ].join(' '));
-                  const galleryLike = /(^|\\s)(image|photo)\\s*\\d+/i.test(String(img.alt || '')) ||
+                  const galleryLike = /(^|\s)(image|photo)\s*\d+/i.test(String(img.alt || '')) ||
                     /rvb-img\\.reverb\\.com|static\\.reverb-assets\\.com/i.test(raw) ||
                     semantic > 0;
                   const nearHeading = h1Rect
