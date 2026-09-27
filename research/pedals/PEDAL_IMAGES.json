@@ -24422,7 +24422,7 @@
   {
     "builder": "MXR",
     "pedal": "Special Edition Distortion+",
-    "image": null,
+    "image": "./assets/pedals/mxr/special-edition-distortion/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/MXR/Special Edition Distortion+.md"
   },
@@ -25920,7 +25920,7 @@
   {
     "builder": "Radial Tonebone",
     "pedal": "Bones Hollywood",
-    "image": null,
+    "image": "./assets/pedals/radial-tonebone/bones-hollywood/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Radial Tonebone/Bones Hollywood.md"
   },
@@ -27005,14 +27005,14 @@
   {
     "builder": "Stomp Under Foot",
     "pedal": "Skinner Box",
-    "image": null,
+    "image": "./assets/pedals/stomp-under-foot/skinner-box/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Stomp Under Foot/Skinner Box.md"
   },
   {
     "builder": "Stomp Under Foot",
     "pedal": "Son Of A Bee",
-    "image": null,
+    "image": "./assets/pedals/stomp-under-foot/son-of-a-bee/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Stomp Under Foot/Son Of A Bee.md"
   },
@@ -27236,7 +27236,7 @@
   {
     "builder": "Subdecay",
     "pedal": "Vector – Analog Preamp",
-    "image": null,
+    "image": "./assets/pedals/subdecay/vector-analog-preamp/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Subdecay/Vector – Analog Preamp.md"
   },
@@ -27642,21 +27642,21 @@
   {
     "builder": "ThorpyFX",
     "pedal": "Judge Death Deathbringer",
-    "image": null,
+    "image": "./assets/pedals/thorpyfx/judge-death-deathbringer/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/ThorpyFX/Judge Death Deathbringer.md"
   },
   {
     "builder": "ThorpyFX",
     "pedal": "Judge Dredd Lawbringer",
-    "image": null,
+    "image": "./assets/pedals/thorpyfx/judge-dredd-lawbringer/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/ThorpyFX/Judge Dredd Lawbringer.md"
   },
   {
     "builder": "ThorpyFX",
     "pedal": "Kudu",
-    "image": null,
+    "image": "./assets/pedals/thorpyfx/kudu/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/ThorpyFX/Kudu.md"
   },
@@ -28027,28 +28027,28 @@
   {
     "builder": "Vemuram",
     "pedal": "Galea — overdrive",
-    "image": null,
+    "image": "./assets/pedals/vemuram/galea-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Vemuram/Galea — overdrive.md"
   },
   {
     "builder": "Vemuram",
     "pedal": "Jan Ray",
-    "image": null,
+    "image": "./assets/pedals/vemuram/jan-ray/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Vemuram/Jan Ray.md"
   },
   {
     "builder": "Vemuram",
     "pedal": "Jan Ray — overdrive",
-    "image": null,
+    "image": "./assets/pedals/vemuram/jan-ray-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Vemuram/Jan Ray — overdrive.md"
   },
   {
     "builder": "Vemuram",
     "pedal": "Jan Ray EXP-Mod",
-    "image": null,
+    "image": "./assets/pedals/vemuram/jan-ray-exp-mod/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Vemuram/Jan Ray EXP-Mod.md"
   },
