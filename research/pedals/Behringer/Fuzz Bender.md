@@ -1,42 +1,52 @@
-# Behringer - Fuzz Bender
+# Behringer — Fuzz Bender
 
 ## PRP identity
 - **Archive parent:** Fuzz Bender
 - **Builder:** Behringer
 - **Catalog type:** Fuzz
-- **Identity:** 1960s-style all-analog fuzz with selectable original/custom-bias voicing.
+- **Identity:** All-analog 1960s-style fuzz with Level, Attack and a factory Original/Modified voicing switch. [1]
 
-## What this pedal is
-Fuzz Bender is Behringer's 1960s-style fuzz with a simple Level and Attack control layout and a dedicated modification switch. The switch changes between the original circuit behavior and a modified version with different harmonic content.
+## Controls
+- **LEVEL:** Output.
+- **ATTACK:** Fuzz/intensity response.
+- **ORIGINAL / MODIFIED** switch: Changes the factory bias/voicing configuration. [1]
 
-## Colorways
-- Standard Behringer production finish is documented.
-- No separate factory colorway chronology was established.
-
-## Versions and factory options
-### Fuzz Bender
-- Level
-- Attack
-- Original / modified bias-voicing switch
-- All-analog circuit
-- 9V-style Behringer pedal power
-
-## Version changes
-The factory modification switch is part of the model's production feature set rather than a separate aftermarket modification. No numbered electrical revision was established in the checked sources.
+## Circuit / topology
+- **All-analog** fuzz.
+- Behringer describes the model as a 1960s-style design with an internal/factory-modified bias option.
+- The reviewed official page does not identify a specific historic commercial circuit or publish a full schematic.
 
 ## Transistor
-- **Exact production transistor/device part numbers:** Not publicly documented in the checked manufacturer material.
+- Exact production transistor/device part numbers are not publicly documented.
 
-## Diode
-- **Exact clipping/protection arrangement or diode part numbers:** Not publicly documented.
+## Diode / clipping
+- Exact clipping/protection diode type and part number are not publicly documented.
+
+## Power
+- Standard Behringer pedal power arrangement.
+- Exact model-specific current draw is not asserted without manual evidence.
+
+## Version history
+- The Original/Modified switch is a built-in feature, not an aftermarket modification.
+- No numbered electronic revision established.
 
 ## Sound
-At lower Attack settings the Fuzz Bender can cover smoother, more responsive 1960s-style fuzz, while increased Attack moves toward louder, more aggressive and sustaining sounds. The bias/mod switch changes harmonic behavior without adding another external gain stage or digital processing mode.
+Lower Attack settings cover smoother, more responsive vintage fuzz, while higher Attack settings become more saturated and aggressive. The factory bias/voicing switch changes harmonic behavior without adding a separate digital or boost section. [1]
+
+## Research confidence
+- **Identity:** High
+- **All-analog construction:** High
+- **Control map:** High
+- **Factory voicing switch:** High
+- **Exact circuit lineage:** Unknown
+- **Exact semiconductor devices:** Unknown
+
+## Deep research verification
+Behringer's official Fuzz Bender page was cross-checked directly. The product source establishes the all-analog 1960s-style identity, Level/Attack interface and Original/Modified switch. [1]
 
 ## Sources checked
-1. Behringer official Fuzz Bender: https://www.behringer.com/en/products/0709-AKL
+1. Behringer — Fuzz Bender: https://www.behringer.com/en/products/0709-AKL
 
 ## Photo
-- **Archive status:** **Exact Photo Attached to Public Catalog**
-- **Exact-model image:** https://cdn-media.empowertribe.com/f71fd340c69d481c8458bd27a81e408e/Image_BE_0709-AKL_FUZZ-BENDER_Catalog_B.png
-- **Source page:** https://www.behringer.com/en/products/0709-AKL
+- **Exact pedal photograph:** Behringer official image.
+- https://cdn-media.empowertribe.com/f71fd340c69d481c8458bd27a81e408e/Image_BE_0709-AKL_FUZZ-BENDER_Catalog_B.png
