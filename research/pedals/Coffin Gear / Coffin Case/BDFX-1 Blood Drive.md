@@ -52,3 +52,17 @@ Effects Database records the model's 2006 trade-show debut, while period press c
 2. Guitar Center — Coffin Case BDFX-1: https://www.guitarcenter.com/Coffin-Case/BDFX-1-Blood-Drive-Distortion-Pedal-1274115052943.gc
 3. Guitar World — Coffin Case BDFX-1 Blood Drive: https://www.guitarworld.com/gear/coffin-case-bdfx-1-blood-drive
 4. Guitar Center — used BDFX-1 listing: https://www.guitarcenter.com/Used/Coffin-Case/Used-2024-Coffin-Case-BDFX-1-Blood-Drive-Distortion-Effect-Pedal.gc
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Coffin Case BDFX-1 Blood Drive Distortion Pedal
+
+### Verified sound evidence
+Coffin Case BDFX-1 Blood Drive Distortion Pedal
+
+### Sources checked in this pass
+1. Coffin Case BDFX-1 Blood Drive | Guitar World: https://www.guitarworld.com/gear/coffin-case-bdfx-1-blood-drive
+2. Coffin Case BDFX-1 Blood Drive Distortion Pedal | Guitar Center: https://www.guitarcenter.com/Coffin-Case/BDFX-1-Blood-Drive-Distortion-Pedal-1274115052943.gc

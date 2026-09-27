@@ -29,3 +29,19 @@ The pedal belongs to the Tone Bender MkIII family of vintage-style fuzz circuits
 
 ## Sources checked
 1. Effects Database — Buffalo FX Tonebender Mk3 catalog listing: https://www.effectsdatabase.com/model/park/fuzzsound
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+pictures needed Buffalo FX Tonebender Mk3 Published on March 20, 2012 Buffalo FX fuzz pedal pictures needed No pictures yet...
+
+### Verified version references
+- The evidence references: Mk 1, Mk I, Mk II, Mk1, Mk3, MkI.
+
+### Verified sound evidence
+pictures needed Buffalo FX Tonebender Mk3 Published on March 20, 2012 Buffalo FX fuzz pedal pictures needed No pictures yet...
+
+### Sources checked in this pass
+1. Buffalo FX Tonebender Mk3 | Effects Database: https://www.effectsdatabase.com/model/buffalofx/tonebender/mk3

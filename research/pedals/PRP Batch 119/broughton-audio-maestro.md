@@ -28,3 +28,23 @@ Maestro is confirmed as a fuzz project in the archive, but the manufacturer list
 
 ## Sources checked
 1. Broughton Audio Pedal Archive, page 2: https://www.broughtonaudio.com/archive?page=2
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Broughton Audio's Maestro is cataloged as a fuzz pedal.
+
+### Verified transistor/device terms
+- silicon transistors.
+
+### Verified sound evidence
+Maestro Bass Fuzz by Broughton Audio
+Built with new old stock silicon transistors, an audio transformer, and silicon diodes, it reproduces the distinct octave fuzz characteristics of the original.
+
+### Sources checked in this pass
+1. Maestro | Broughton Audio: https://www.broughtonaudio.com/product-page/maestro
+2. Broughton Audio Maestro - Reverb: https://reverb.com/p/broughton-audio-maestro
+3. Maestro Bass Fuzz by Broughton Audio | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/Broughton-Audio/Maestro-Bass-Fuzz/8641666137/
+4. Broughton Audio Maestro | TalkBass.com: https://www.talkbass.com/classifieds/broughton-audio-maestro.1557582/

@@ -32,3 +32,19 @@ The RH-X belongs to the Ram's Head/Muff family and is therefore a saturated, sus
 ## Sources checked
 1. Effects Database — Buffalo FX RH-X Rams Head listing: https://www.effectsdatabase.com/model/buffalofx/rhx
 2. Effects Database — Big Muff/Ram's Head family references: https://www.effectsdatabase.com/model/jhspedals/ramshead
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Buffalo FX's RH-X Rams Head - NOS BC239c is cataloged as a fuzz pedal.
+
+### Verified version references
+- The evidence references: Mk3, MkII.
+
+### Verified transistor/device terms
+- BC108, Germanium Fuzz, BC239c.
+
+### Sources checked in this pass
+1. Buffalo FX | Effects Database: https://www.effectsdatabase.com/model/buffalofx

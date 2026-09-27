@@ -1,0 +1,17 @@
+{
+  "builder": "ColdCraft Effects",
+  "pedal": "Cascade MkII",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 1,
+  "sources": [
+    {
+      "url": "https://www.premierguitar.com/coldcraft-effects-debuts-cascade-mkii-dual-stage-overdrive",
+      "title": "Cascade MkII Dual Stage Overdrive: Coldcraft's Latest - Premier Guitar",
+      "h1": "Coldcraft Effects Debuts Cascade MkII Dual Stage Overdrive",
+      "excerpt": "Raven.config('https://6b64f5cc8af542cbb920e0238864390a@sentry.io/147999').install(); Cascade MkII Dual Stage Overdrive: Coldcraft's Latest - Premier Guitar     Skip to content Search & Section Navigation Sign up Sign up Contact Shop Open Search Login Subscribe Site Navigation Reviews Guitars Amps Pedals Acoustic Bass News Videos Rig Rundowns Gear Demos Gear Roundups DIY Features Artists Gear Builder Profile Columns DIY Advice Gear Talk Lessons Beginner Intermediate Advanced CAGED Blues Rock Country Podcasts Shred With Shifty Wong Notes 100 Guitarists Win Digital Magazine <path d=\"M23.4534 6.66663L16 14.12L8.54669 6.66663L6.66669 8.54663L14.12 16L6.66669 23.4533L8.54669 25.3333L16 17.88L23.4534 25.3333L25.3334 23.4533L17.88 16L25.3334",
+      "host": "www.premierguitar.com",
+      "source_kind": "catalog_verified"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}

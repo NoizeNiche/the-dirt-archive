@@ -38,3 +38,16 @@ Each gain stage can provide moderate drive independently, but stacking them mult
 ## Sources checked
 1. Effects Database — Cascade MkII: https://www.effectsdatabase.com/model/coldcraft/cascade/mk2
 2. Premier Guitar — Cascade MkII announcement: https://www.premierguitar.com/coldcraft-effects-debuts-cascade-mkii-dual-stage-overdrive
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+ColdCraft Effects's Cascade MkII is cataloged as an overdrive pedal.
+
+### Verified version references
+- The evidence references: MkII.
+
+### Sources checked in this pass
+1. Cascade MkII Dual Stage Overdrive: Coldcraft's Latest - Premier Guitar: https://www.premierguitar.com/coldcraft-effects-debuts-cascade-mkii-dual-stage-overdrive

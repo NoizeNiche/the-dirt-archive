@@ -15168,8 +15168,8 @@
       "image": "",
       "source_page": "https://www.effectsdatabase.com/model/boss/compact/mt2/3a",
       "research_record": "./research/pedals/BOSS/MT-2-3A 30th Anniversary Metal Zone.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "BOSS",
@@ -15232,8 +15232,8 @@
       "image": "",
       "source_page": "https://www.effectsdatabase.com/model/boss/compact/od2",
       "research_record": "./research/pedals/BOSS/OD-2 Turbo OverDrive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "BOSS",
@@ -15258,8 +15258,8 @@
       "image": "",
       "source_page": "https://www.effectsdatabase.com/model/boss/compact/od2r",
       "research_record": "./research/pedals/BOSS/OD-2R Turbo OverDrive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "BOSS",
@@ -16185,8 +16185,8 @@
       "research_record": "./research/pedals/PRP Batch 119/broughton-audio-maestro.md",
       "image_source_page": "https://www.broughtonaudio.com/archive?page=2",
       "image_source_url": "https://static.wixstatic.com/media/4b9583_e3f208948dad43e9a21fc03c7fb15e7d~mv2.jpg/v1/fill/w_286,h_286,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/4b9583_e3f208948dad43e9a21fc03c7fb15e7d~mv2.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Broughton Audio",
@@ -16199,8 +16199,8 @@
       "research_record": "./research/pedals/PRP Batch 119/broughton-audio-phase-locked-loop.md",
       "image_source_page": "https://www.broughtonaudio.com/archive?page=3",
       "image_source_url": "https://static.wixstatic.com/media/4b9583_aa95f3f0b29c425aaa6d085f804bac97~mv2_d_2801_2749_s_4_2.jpg/v1/fill/w_286,h_286,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/4b9583_aa95f3f0b29c425aaa6d085f804bac97~mv2_d_2801_2749_s_4_2.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Broughton Audio",
@@ -16270,8 +16270,8 @@
       "research_record": "./research/pedals/PRP Batch 119/broughton-audio-sunder-fuzz-10th.md",
       "image_source_page": "https://www.broughtonaudio.com/archive?page=2",
       "image_source_url": "https://static.wixstatic.com/media/4b9583_e3f208948dad43e9a21fc03c7fb15e7d~mv2.jpg/v1/fill/w_286,h_286,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/4b9583_e3f208948dad43e9a21fc03c7fb15e7d~mv2.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Broughton Audio",
@@ -17103,8 +17103,8 @@
         "https://reverb.com/item/77157311-buffalo-fx-rh-x-bc239c-76-ram-s-head-distortion-fuzz"
       ],
       "image_source_pages_verified": true,
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Buffalo FX",
@@ -17151,8 +17151,8 @@
         "https://www.effectsdatabase.com/model/buffalofx/tonebender/mk3"
       ],
       "image_source_pages_verified": true,
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "BuGGFX Pedals",
@@ -19535,8 +19535,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_url": "http://camuro.co.jp/wp/wp-content/uploads/2014/05/fatbaby_br.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Camuro",
@@ -23894,8 +23894,8 @@
       "image": "./assets/pedals/circus-freak-music/the-pickled-punk/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Circus Freak Music/The Pickled Punk.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Circus Freak Music",
@@ -24826,8 +24826,8 @@
       "image": "./assets/pedals/coffee-shop-pedals/portafilter-dual-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Coffee Shop Pedals/Portafilter Dual Overdrive.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Coffin Case",
@@ -24874,8 +24874,8 @@
       "image": "./assets/pedals/coffin-gear-coffin-case/bdfx-1-blood-drive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Coffin Gear / Coffin Case/BDFX-1 Blood Drive.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "COG Effects",
@@ -25143,8 +25143,8 @@
       "image": "./assets/pedals/coldcraft-effects/cascade-mkii/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/ColdCraft Effects/Cascade MkII.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "ColdCraft Effects",
@@ -25167,8 +25167,8 @@
       "image": "./assets/pedals/coldcraft-effects/fiesta-fuzz-mkii/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/ColdCraft Effects/Fiesta Fuzz MkII.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "ColdCraft Effects",
@@ -28177,8 +28177,8 @@
       "research_record": "./research/pedals/Crazy Tube Circuits/Black Magic.md",
       "image_source_page": "https://www.effectsdatabase.com/model/crazytube/blackmagic",
       "image_source_url": "https://files.effectsdatabase.com/gear/pics/crazytube_blackmagic_001.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Crazy Tube Circuits",

@@ -47,3 +47,35 @@ The documented design ranges from lower-gain crunch to heavily saturated, sustai
 1. Effects Database - Crazy Tube Circuits Black Magic
 2. Japanese technical/product reference
 3. Crazy Tube Circuits builder site
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+About Crazy Tube Circuits Black Magic Starlight And Ziggy Crazy Tube Circuits (CTC) is a small-batch boutique builder based in Portland, Oregon, founded by engineer and guitarist Dan Czulak in 2008.
+
+### Verified color/finish evidence
+- Black Magic MK II by Crazy Tube Circuits
+- Even at high gain settings Black Magic mk2 preserves full clarity and definition and can clean up with your guitar’s volume knob.
+- Crazy Tube Circuits Black Magic Starlight & Ziggy Review: Tube Preamp Pedals Compared
+
+### Verified version references
+- The evidence references: MK II, MKII, Mk II, MkII, V3, mk2.
+
+### Verified diode terms
+- LEDs, LED.
+
+### Verified sound evidence
+Combining the best sounds of American and British style high gain amps along with a versatile 3 band passive EQ and presence control we created a distortion effect that can cover a wide range of gain from low overdrive – crunchy sounds to fully saturated gain with huge amounts of sustain.
+Even at high gain settings Black Magic mk2 preserves full clarity and definition and can clean up with your guitar’s volume knob.
+With an assignable boost footswitch you can select to boost gain, volume or both in order to stand out for your solo without the need to change settings on the fly.
+
+### Sources checked in this pass
+1. Crazy Tube Circuits Black Magic - What To Know & Where To Buy: https://equipboard.com/items/crazy-tube-circuits-black-magic
+2. Crazy Tube Circuits &quot;Black Magic MKII&quot; - Reverb: https://reverb.com/item/40217056-crazy-tube-circuits-black-magic-mkii
+3. CRAZY TUBE CIRCUITS Black Magic MK II Effect Pedal JP: https://www.ebay.com/itm/198610336525
+4. Black Magic MK II by Crazy Tube Circuits | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/Crazy-Tube-Circuits/Black-Magic-MK-II/68976961/
+5. Crazy Tube Circuits Black Magic Starlight & Ziggy Review: Tube Preamp Pedals Compared | GearStrings: https://gearstrings.com/gear-reviews/crazy-tube-circuits-black-magic-starlight-ziggy-review
+6. Crazy Tube Circuits Black Magic MkII - Vocal & Music Products for Singers and Performers: https://www.vocalversehub.com/product/crazy-tube-circuits-black-magic-mkii/
+7. Crazy Tube Circuits Black Magic MkII | Effects Database: https://www.effectsdatabase.com/model/crazytube/blackmagic/mk2

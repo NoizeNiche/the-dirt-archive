@@ -14,3 +14,13 @@
 - **Sources checked:**
   - https://camuro.co.jp/
   - https://camuro.co.jp/pedals
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Camuro's FAT BABY Preamp/Overdrive is cataloged as an overdrive pedal.
+
+### Sources checked in this pass
+1. ハンドメイド エフェクター 委託製作、カスタマイズ│Camuro: http://camuro.co.jp/

@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-27T10:20:13.996385+00:00",
+  "generated_at": "2026-09-27T10:22:22.288206+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,8 +10,8 @@
     "pictured": 3133,
     "complete": 3133,
     "research_pending": 0,
-    "deep_research_pending": 1439,
-    "deep_researched": 2803,
+    "deep_research_pending": 1424,
+    "deep_researched": 2818,
     "surface_ready": 4242
   },
   "next_target": {
@@ -101,30 +101,9 @@
     },
     {
       "builder": "BOSS",
-      "pedal": "MT-2-3A 30th Anniversary Metal Zone",
-      "catalog_type": "",
-      "research_record": "./research/pedals/BOSS/MT-2-3A 30th Anniversary Metal Zone.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "BOSS",
       "pedal": "MZ-2 Digital Metalizer",
       "catalog_type": "",
       "research_record": "./research/pedals/BOSS/MZ-2 Digital Metalizer.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "BOSS",
-      "pedal": "OD-2 Turbo OverDrive",
-      "catalog_type": "",
-      "research_record": "./research/pedals/BOSS/OD-2 Turbo OverDrive.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "BOSS",
-      "pedal": "OD-2R Turbo OverDrive",
-      "catalog_type": "",
-      "research_record": "./research/pedals/BOSS/OD-2R Turbo OverDrive.md",
       "research_level": "surface"
     },
     {
@@ -195,6 +174,27 @@
       "pedal": "BR-1 Distortion",
       "catalog_type": "",
       "research_record": "./research/pedals/PRP Batch 115/br-tech-br-1-distortion.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Brantone Electronics",
+      "pedal": "Blue Meanie - Germanium Fuzz",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 115/brantone-electronics-blue-meanie-germanium-fuzz.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Brantone Electronics",
+      "pedal": "ToneMaster Mk2 Germanium Fuzz",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 115/brantone-electronics-tonemaster-mk2-germanium-fuzz.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Brantone Electronics",
+      "pedal": "WEM Pepbox - Official Reissue",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 115/brantone-electronics-wem-pepbox-official-reissue.md",
       "research_level": "surface"
     }
   ]
