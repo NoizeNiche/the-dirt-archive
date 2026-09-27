@@ -22,3 +22,6 @@ A Very Special Twosome is a limited-edition dual-fuzz version of Blackout Effect
 
 ## Archive photo
 - **Archive status:** **No Photo Archived**
+## Deep research verification
+
+The exact model record documents A Very Special Twosome as a limited run combining **Musket Fuzz** and **Fix'd Fuzz Deluxe**. Either side can operate independently or both can run together, with selectable stacking order. A documented ProGuitarShop-exclusive run included **100 units**. The archive treats that limited run as a distinct product identity rather than a generic Twosome finish.
