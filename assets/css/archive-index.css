@@ -621,3 +621,33 @@ main{padding:24px 0 72px}
   .grid{grid-template-columns:1fr}
 }
 
+
+.siteFooter{
+  margin-top:18px;
+  padding:17px 0 24px;
+  border-top:1px solid var(--line);
+  color:var(--muted);
+  font-size:.62rem;
+  font-weight:850;
+}
+.siteFooter .wrap{
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  gap:12px;
+}
+.siteFooter a{
+  color:var(--ink);
+  text-decoration:none;
+  font-weight:950;
+  text-transform:uppercase;
+  letter-spacing:.07em;
+}
+.siteFooter a:hover{text-decoration:underline}
+.siteFooter a:focus-visible{
+  outline:2px solid var(--acid);
+  outline-offset:3px;
+}
+@media(max-width:620px){
+  .siteFooter .wrap{align-items:flex-start;flex-direction:column}
+}
