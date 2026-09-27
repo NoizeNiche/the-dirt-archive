@@ -4,35 +4,46 @@
 - **Archive parent:** Black Stardust BC109 Silicon Fuzz
 - **Builder:** Chase Tone
 - **Catalog type:** Fuzz
-- **Identity:** Chase Tone Black Stardust BC109C Silicon Fuzz, a temperature-stable silicon Fuzz Face-style fuzz with extended bias and headroom controls.
+- **Identity:** High-gain silicon Fuzz Face-style fuzz using NOS cherry-picked BC109 transistors, with external Bias and Headroom controls. [1]
 
-## What this pedal is
-Chase Tone describes the Black Stardust as a clear, complex BC109 silicon fuzz intended to cover clean, overdrive, crunchy fuzz, and sustaining high-gain sounds. [1]
+## Controls
+- **VOLUME**
+- **FUZZ**
+- **BIAS**
+- **HEADROOM** [1]
 
-## Colorways
-- **Black Stardust** translucent star-dust powder coat is the defining documented finish. [1]
-- No complete factory colorway sequence was established.
-
-## Versions and factory options
-Controls:
-- Volume
-- Fuzz
-- Bias
-- Headroom [1]
-
-Chase Tone also documents rear-facing input/output jacks, standard 9V center-negative power, and a pedalboard-friendly trapezoidal enclosure. [1]
-
-## Version changes
-No formal numbered factory revision sequence was established.
+## Circuit lineage
+- **Primary reference:** Silicon Fuzz Face.
+- The pedal is an individual Chase Tone interpretation rather than a claim of untouched vintage component equivalence.
 
 ## Transistor
-The builder explicitly specifies **NOS cherry-picked BC109 silicon transistors**. [1]
+- **NOS cherry-picked BC109 silicon transistors.** [1]
+- Exact gain grading is not published.
 
-## Diode
-The builder documents a red LED indicator, but no exact clipping-diode specification was established.
+## Diode / clipping
+- No exact clipping-diode specification is documented.
+
+## Power
+- **9V center-negative**. [1]
+
+## Version history
+- No numbered electronic revision established.
+- Black Stardust translucent star-dust powder coat is a finish identity, not a circuit revision.
 
 ## Sound
-The Black Stardust is voiced toward clear, dynamic silicon fuzz with the Bias control ranging from warm/gated textures to more open, punchy responses. Headroom reduces low end and can improve guitar-volume cleanup and compatibility with wah and humbuckers. [1]
+Chase Tone describes Black Stardust as clear and harmonically complex, covering clean-ish gain, overdrive, crunchy fuzz and sustaining higher-gain fuzz. Bias changes operating feel, while Headroom can reduce low end and improve cleanup and wah compatibility. [1]
+
+## Research confidence
+- **Identity:** High
+- **BC109 silicon:** High
+- **Bias/Headroom:** High
+- **Exact diode:** Unknown
+
+## Deep research verification
+The Chase Tone product page directly supplies the BC109 device identity, four-control layout and Headroom/Bias behavior. No additional semiconductor claims are inferred. [1]
 
 ## Sources checked
 1. Chase Tone — Black Stardust BC109 Silicon Fuzz: https://chasetone.com/chase-tone-black-stardust-bc109-silicon-fuzz/
+
+## Photo
+- Exact-model photo status remains handled separately.
