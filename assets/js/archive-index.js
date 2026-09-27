@@ -392,11 +392,14 @@ Promise.all([loadCatalog(),loadFacets()])
   }
   const builderTotal=new Set(items.map(x=>x.company)).size;
   const picturedTotal=[...pedalImages.values()].filter(x=>Boolean(x?.image)).length;
+  const deepResearchTotal=items.filter(x=>String(x.research_level||'').toLowerCase()==='deep').length;
   $('pulsePedals').textContent=items.length.toLocaleString();
   $('pulseBuilders').textContent=builderTotal.toLocaleString();
   $('pulsePhotos').textContent=picturedTotal.toLocaleString();
   const coverage=items.length?(picturedTotal/items.length)*100:0;
   $('pulseCoverage').textContent=coverage.toFixed(1)+'%';
+  const researchCoverage=items.length?(deepResearchTotal/items.length)*100:0;
+  $('pulseResearch').textContent=researchCoverage.toFixed(1)+'%';
 
   render();
   syncUrl();
