@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-27T19:34:58.884646+00:00",
+  "generated_at": "2026-09-27T19:47:51.438189+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,107 +10,23 @@
     "pictured": 3351,
     "complete": 3351,
     "research_pending": 0,
-    "deep_research_pending": 384,
-    "deep_researched": 3858,
+    "deep_research_pending": 368,
+    "deep_researched": 3874,
     "surface_ready": 4242
   },
   "next_target": {
-    "builder": "Coleman",
-    "pedal": "Angry Dragon mkII - Germanium Fuzz",
+    "builder": "Death By Audio",
+    "pedal": "Sonic Incinerator",
     "catalog_type": "",
-    "research_record": "./research/pedals/Coleman/Angry Dragon mkII - Germanium Fuzz.md",
+    "research_record": "./research/pedals/Death By Audio/Sonic Incinerator.md",
     "research_level": "surface"
   },
   "working_set": [
-    {
-      "builder": "Coleman",
-      "pedal": "Angry Dragon mkII - Germanium Fuzz",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Coleman/Angry Dragon mkII - Germanium Fuzz.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "D&M",
-      "pedal": "Distortion",
-      "catalog_type": "",
-      "research_record": "./research/pedals/D&M/Distortion.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Danelectro",
-      "pedal": "Blue Paisley PureDrive",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Danelectro/Blue Paisley PureDrive.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Daredevil Pedals",
-      "pedal": "Necros Fuzz / Distortion",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Daredevil Pedals/Necros Fuzz / Distortion.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "DeadastronautFX",
-      "pedal": "Skinwalker",
-      "catalog_type": "",
-      "research_record": "./research/pedals/DeadastronautFX/Skinwalker.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Death By Audio",
-      "pedal": "Echo Dream 2 (fuzz function)",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Death By Audio/Echo Dream 2 (fuzz function).md",
-      "research_level": "surface"
-    },
     {
       "builder": "Death By Audio",
       "pedal": "Sonic Incinerator",
       "catalog_type": "",
       "research_record": "./research/pedals/Death By Audio/Sonic Incinerator.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Devi Ever : FX",
-      "pedal": "Tri-Fuzz",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Devi Ever : FX/Tri-Fuzz.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Devi Ever FX",
-      "pedal": "BS",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Devi Ever FX/BS.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Devi Ever FX",
-      "pedal": "Hyperion 2",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Devi Ever FX/Hyperion 2.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Devi Ever FX",
-      "pedal": "OK",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Devi Ever FX/OK.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Devi Ever FX",
-      "pedal": "The Ion",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Devi Ever FX/The Ion.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Devi Ever FX",
-      "pedal": "US",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Devi Ever FX/US.md",
       "research_level": "surface"
     },
     {
@@ -139,13 +55,6 @@
       "pedal": "JUNIOR DB Fuzz / Dirty Boy Jr. Fuzz",
       "catalog_type": "",
       "research_record": "./research/pedals/Dirty Boy/JUNIOR DB Fuzz / Dirty Boy Jr. Fuzz.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Dirty Boy",
-      "pedal": "JUNIOR DB Overdrive / Dirty Boy Jr. Overdrive",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Dirty Boy/JUNIOR DB Overdrive / Dirty Boy Jr. Overdrive.md",
       "research_level": "surface"
     },
     {
@@ -195,6 +104,97 @@
       "pedal": "Death Metal Distortion (FX86)",
       "catalog_type": "",
       "research_record": "./research/pedals/DOD Electronics/Death Metal Distortion (FX86).md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "DOD Electronics",
+      "pedal": "Flashback Fuzz (FX66)",
+      "catalog_type": "",
+      "research_record": "./research/pedals/DOD Electronics/Flashback Fuzz (FX66).md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "DOD Electronics",
+      "pedal": "FX101 Grind Rectifying Overdrive",
+      "catalog_type": "",
+      "research_record": "./research/pedals/DOD Electronics/FX101 Grind Rectifying Overdrive.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "DOD Electronics",
+      "pedal": "FX33 Buzz Box",
+      "catalog_type": "",
+      "research_record": "./research/pedals/DOD Electronics/FX33 Buzz Box.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "DOD Electronics",
+      "pedal": "FX50-B Overdrive Plus",
+      "catalog_type": "",
+      "research_record": "./research/pedals/DOD Electronics/FX50-B Overdrive Plus.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "DOD Electronics",
+      "pedal": "FX52 Classic Fuzz",
+      "catalog_type": "",
+      "research_record": "./research/pedals/DOD Electronics/FX52 Classic Fuzz.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "DOD Electronics",
+      "pedal": "FX57 Hard Rock Distortion",
+      "catalog_type": "",
+      "research_record": "./research/pedals/DOD Electronics/FX57 Hard Rock Distortion.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "DOD Electronics",
+      "pedal": "FX58 Metal Maniac",
+      "catalog_type": "",
+      "research_record": "./research/pedals/DOD Electronics/FX58 Metal Maniac.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "DOD Electronics",
+      "pedal": "FX59 Thrash Master",
+      "catalog_type": "",
+      "research_record": "./research/pedals/DOD Electronics/FX59 Thrash Master.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "DOD Electronics",
+      "pedal": "FX66 Flashback Fuzz",
+      "catalog_type": "",
+      "research_record": "./research/pedals/DOD Electronics/FX66 Flashback Fuzz.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "DOD Electronics",
+      "pedal": "FX76 Punkifier",
+      "catalog_type": "",
+      "research_record": "./research/pedals/DOD Electronics/FX76 Punkifier.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "DOD Electronics",
+      "pedal": "Grind (FX101)",
+      "catalog_type": "",
+      "research_record": "./research/pedals/DOD Electronics/Grind (FX101).md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "DOD Electronics",
+      "pedal": "Grunge (FX69B)",
+      "catalog_type": "",
+      "research_record": "./research/pedals/DOD Electronics/Grunge (FX69B).md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "DOD Electronics",
+      "pedal": "Gunslinger",
+      "catalog_type": "",
+      "research_record": "./research/pedals/DOD Electronics/Gunslinger.md",
       "research_level": "surface"
     }
   ]

@@ -12201,7 +12201,7 @@
     "builder": "Coleman",
     "pedal": "Angry Dragon mkII - Germanium Fuzz",
     "image": "./assets/pedals/coleman/angry-dragon-mkii-germanium-fuzz/primary.webp",
-    "source_page": null,
+    "source_page": "https://www.effectsdatabase.com/model/coleman/angrydragon",
     "research_record": "./research/pedals/Coleman/Angry Dragon mkII - Germanium Fuzz.md"
   },
   {
@@ -14889,7 +14889,7 @@
     "builder": "D&M",
     "pedal": "Distortion",
     "image": "./assets/pedals/d-m/distortion/primary.webp",
-    "source_page": null,
+    "source_page": "https://www.effectsdatabase.com/updates/weekly/20111017",
     "research_record": "./research/pedals/D&M/Distortion.md"
   },
   {
@@ -14924,7 +14924,7 @@
     "builder": "Danelectro",
     "pedal": "Blue Paisley PureDrive",
     "image": "./assets/pedals/danelectro/blue-paisley-puredrive/primary.webp",
-    "source_page": null,
+    "source_page": "https://reverb.com/item/54993394-danelectro-pd-01-blue-paisley-pure-drive-pedal-3065145692",
     "research_record": "./research/pedals/Danelectro/Blue Paisley PureDrive.md"
   },
   {
@@ -15183,7 +15183,7 @@
     "builder": "Daredevil Pedals",
     "pedal": "Necros Fuzz / Distortion",
     "image": "./assets/pedals/daredevil-pedals/necros-fuzz-distortion/primary.webp",
-    "source_page": null,
+    "source_page": "https://www.daredevilpedals.com/",
     "research_record": "./research/pedals/Daredevil Pedals/Necros Fuzz / Distortion.md"
   },
   {
@@ -15470,7 +15470,7 @@
     "builder": "DeadastronautFX",
     "pedal": "Skinwalker",
     "image": "./assets/pedals/deadastronautfx/skinwalker/primary.webp",
-    "source_page": null,
+    "source_page": "https://deadastronaut.wixsite.com/effects",
     "research_record": "./research/pedals/DeadastronautFX/Skinwalker.md"
   },
   {
@@ -15519,7 +15519,7 @@
     "builder": "Death By Audio",
     "pedal": "Echo Dream 2 (fuzz function)",
     "image": "./assets/pedals/death-by-audio/echo-dream-2-fuzz-function/primary.webp",
-    "source_page": null,
+    "source_page": "https://deathbyaudio.com/products/echo-dream-2",
     "research_record": "./research/pedals/Death By Audio/Echo Dream 2 (fuzz function).md"
   },
   {
@@ -15750,7 +15750,7 @@
     "builder": "Devi Ever : FX",
     "pedal": "Tri-Fuzz",
     "image": "./assets/pedals/devi-ever-fx/tri-fuzz/primary.webp",
-    "source_page": null,
+    "source_page": "https://www.fuzzgoddess.com/about/",
     "research_record": "./research/pedals/Devi Ever : FX/Tri-Fuzz.md"
   },
   {
@@ -16002,7 +16002,7 @@
     "builder": "Devi Ever FX",
     "pedal": "Hyperion 2",
     "image": "",
-    "source_page": "https://www.effectsdatabase.com/model/deviever",
+    "source_page": "https://www.effectsdatabase.com/model/deviever/hyperion/2",
     "research_record": "./research/pedals/Devi Ever FX/Hyperion 2.md"
   },
   {
@@ -16240,7 +16240,7 @@
     "builder": "Devi Ever FX",
     "pedal": "US",
     "image": "",
-    "source_page": "https://www.effectsdatabase.com/model/deviever",
+    "source_page": "https://reverb.com/p/devi-ever-fx-us-fuzz",
     "research_record": "./research/pedals/Devi Ever FX/US.md"
   },
   {
