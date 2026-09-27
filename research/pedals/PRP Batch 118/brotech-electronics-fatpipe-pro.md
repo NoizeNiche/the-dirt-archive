@@ -38,3 +38,14 @@ The manual describes the Fatpipe Pro as capable of modern metal-crunch, smoother
 ## Deep research verification
 
 Effects Database documents the exact Fatpipe Pro as a distortion pedal with **Low, Mid, High, Boost, Level, Drive** controls plus separate **Boost** and **Distortion** footswitches. The builder's product page confirms surface-mount construction in a rugged cast-aluminium chassis. Verified sound coverage runs from modern metal crunch to smoother low-gain drive, while the independent boost can operate alone as a clean volume boost. Published September 18, 2005. Source: https://www.effectsdatabase.com/model/brotech/fatpipe/pro
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Brotech Electronics's Fatpipe Pro is cataloged as a distortion pedal.
+
+### Sources checked in this pass
+1. catalog/override source: https://reverb.com/item/10541352-brotech-electronics-fatpipe-pro-distortion-and-boost-fatpipe-pro-excellent
+2. catalog/override source: https://www.effectsdatabase.com/model/brotech/fatpipe/pro

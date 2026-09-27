@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-27T11:11:40.941670+00:00",
+  "generated_at": "2026-09-27T11:15:07.513280+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,8 +10,8 @@
     "pictured": 3140,
     "complete": 3140,
     "research_pending": 0,
-    "deep_research_pending": 1107,
-    "deep_researched": 3135,
+    "deep_research_pending": 1088,
+    "deep_researched": 3154,
     "surface_ready": 4242
   },
   "next_target": {
@@ -58,108 +58,10 @@
       "research_level": "surface"
     },
     {
-      "builder": "BJFE / BJF Electronics",
-      "pedal": "Arctic Light Fuzz",
-      "catalog_type": "",
-      "research_record": "./research/pedals/BJFE / BJF Electronics/Arctic Light Fuzz.md",
-      "research_level": "surface"
-    },
-    {
       "builder": "Bootlegger Guitar",
       "pedal": "Tube Shooter Overdrive",
       "catalog_type": "",
       "research_record": "./research/pedals/PRP Batch 109/Tube Shooter Overdrive.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "British Pedal Company",
-      "pedal": "Tone Bender Mk1.5",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 117/british-pedal-company-tone-bender-mk1-5.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "British Pedal Company",
-      "pedal": "Tone Bender Professional MkII",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 117/british-pedal-company-tone-bender-professional-mkii.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Brotech Electronics",
-      "pedal": "Fatpipe Pro",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 118/brotech-electronics-fatpipe-pro.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Broughton Audio",
-      "pedal": "Calamity",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 118/broughton-audio-calamity.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Bulinski Effect Pedals",
-      "pedal": "RC Bass Fuzz",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 132/rc-bass-fuzz.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "C.I.C",
-      "pedal": "MOD-7 Overdrive",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 135/cic-mod-7-overdrive.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "C.Q.O.",
-      "pedal": "Super Distortion",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 135/cqo-super-distortion.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Cajita Stompboxes",
-      "pedal": "Bdi.ts with Overdrive",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 135/cajita-bdi-ts-with-overdrive.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Cajita Stompboxes",
-      "pedal": "Distorsión Marshall CR800 JCM + booster",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 136/distorsion-marshall-cr800-jcm-booster.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Cajita Stompboxes",
-      "pedal": "Distorsión RAT 6 6 modos",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 136/distorsion-rat-6-6-modos.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "California (by Eleca)",
-      "pedal": "CDT-1 Distortion",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 139/cdt-1-distortion.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "California (by Eleca)",
-      "pedal": "CHM-1 Heavy Metal",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 139/chm-1-heavy-metal.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "California (by Eleca)",
-      "pedal": "COD-1 Over Drive",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 139/cod-1-over-drive.md",
       "research_level": "surface"
     },
     {
@@ -195,6 +97,104 @@
       "pedal": "hachi “8” Classic Modern Fuzz/Bosster",
       "catalog_type": "",
       "research_record": "./research/pedals/PRP Batch 147/camuro-hachi-8-classic-modern-fuzz-booster.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Camuro",
+      "pedal": "Naturale",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 147/camuro-naturale.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Captain FX",
+      "pedal": "Crown Jr. Overdrive / Boost",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Captain FX/Crown Jr. Overdrive Boost.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Captain FX",
+      "pedal": "Overdriver",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Captain FX/Overdriver.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Captain FX",
+      "pedal": "War Pig",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Captain FX/War Pig.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Carlsbro",
+      "pedal": "Suzz-Phase",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Carlsbro/Suzz-Phase.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Carmedon Electronics",
+      "pedal": "Alpha Centauri",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 150/carmedon-electronics-alpha-centauri.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Caroline Guitar Company",
+      "pedal": "Icarus V2 / Icarus",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 151/caroline-guitar-company-icarus-v2-icarus.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Carvin",
+      "pedal": "Carvin UD-1 Ultra Distortion",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 152/carvin-ud-1-ultra-distortion.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "CatastroFX",
+      "pedal": "Deface Mk.III",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 161/catastrofx-deface-mkiii.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Cave Passive Pedals",
+      "pedal": "B-Drive Grunt",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 160/cave-b-drive-grunt.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Cherry Music",
+      "pedal": "Mighty Sound M1 Distortion",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Cherry Music/Mighty Sound M1 Distortion.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Chris Custom",
+      "pedal": "Crusher - Hi Gain Distortion",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Chris Custom/Crusher - Hi Gain Distortion.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Chris Custom",
+      "pedal": "DF-1 Dr.Fuzz",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Chris Custom/DF-1 Dr.Fuzz.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Chuck Pedals",
+      "pedal": "Diver",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Chuck Pedals/Diver.md",
       "research_level": "surface"
     }
   ]

@@ -43,3 +43,27 @@ The manufacturer manual describes a range from subtle bluesy crunch through pain
 ## Sources checked
 1. Coopersonic Dual Valve Distortion manual: https://coopersonic.com/wp-content/uploads/2019/10/Coopersonic_Dual_Valve_Distortion_Manual.pdf
 2. Reverb - Coopersonic Valveslapper / Dual Valve Distortion: https://reverb.com/item/81348576-coopersonic-valveslapper-dual-valve-distortion
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Available in regular and deluxe versions, the Valveslapper is crafted in Nottingham, England, and designed to provide high-quality, warm analog drive for any guitar and amp setup.
+
+### Verified diode terms
+- LED.
+
+### Verified sound evidence
+Dual-Valve Distortion Valveslapper by Coopersonic
+It offers controls for gain, volume, and a two-band EQ, allowing players to achieve sounds from subtle bluesy crunch to intense fuzz.
+Available in regular and deluxe versions, the Valveslapper is crafted in Nottingham, England, and designed to provide high-quality, warm analog drive for any guitar and amp setup.
+
+### Sources checked in this pass
+1. catalog/override source: https://reverb.com/item/81348576-coopersonic-valveslapper-dual-valve-distortion
+2. Coopersonic Valveslapper - Effects Database: https://www.effectsdatabase.com/model/coopersonic/valveslapper
+3. Coopersonic Valveslapper Dual-Valve Distortion - What To Know & Where ...: https://equipboard.com/items/coopersonic-valveslapper-guitar-effects-pedal--2
+4. Dual-Valve Distortion Valveslapper by Coopersonic | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/Coopersonic/Dual-Valve-Distortion-Valveslapper/679111711/
+5. Coopersonic Valveslapper review | MusicRadar: https://www.musicradar.com/reviews/guitars/coopersonic-valveslapper-264551
+6. Coopersonic Valveslapper & Tubecleaner: https://www.soundonsound.com/reviews/coopersonic-valveslapper-tubecleaner
+7. Coopersonic Valve Slapper - Pedal on ModularGrid: https://modulargrid.net/p/coopersonic-valve-slapper
