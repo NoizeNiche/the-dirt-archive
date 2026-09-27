@@ -1,49 +1,68 @@
-# AXiom Effects - Overdrive Preamp OP-1
+# AXiom Effects — Overdrive Preamp OP-1
 
 ## PRP identity
 - **Archive parent:** Overdrive Preamp OP-1
 - **Builder:** AXiom Effects
 - **Catalog type:** Overdrive
-- **Identity:** Handmade analog overdrive/preamp combining a 4558-based drive stage with a cascaded preamp and flexible three-band tone shaping.
+- **Identity:** Handmade 100% analog overdrive/preamp with 4558-based drive sections, cascaded PREAMP stage and broad BASS/MID/TREBLE shaping. [1]
 
 ## What this pedal is
-AXiom describes OP-1 as a traditional overdrive paired with a cascaded preamp stage, giving it more gain and shaping range than a simple single-stage drive. The builder documents 100% analog construction, a sloped MID control that moves from an American-style scoop below noon toward a more British-forward voice above noon, and true-bypass switching.
+AXiom designed OP-1 to move from transparent boost through conventional overdrive to high-gain preamp behavior. The builder presents the OVERDRIVE control as a traditional drive stage and PREAMP as a cascaded, tube-amp-like preamp stage. [1]
 
-## Colorways
-- AXiom's pedals are individually handmade with manually screen-printed graphics, so minor cosmetic variation between units is expected.
-- No formal factory colorway chronology was verified.
+## Controls
+- **LEVEL**
+- **OVERDRIVE**
+- **PREAMP**
+- **BASS**
+- **MID**
+- **TREBLE**
+- Matching color LED.
+- True bypass. [1]
 
-## Versions and factory options
-### OP-1 production
-- Level
-- Overdrive
-- Preamp
-- Bass
-- Mid
-- Treble
-- 4558-based overdrive section
-- Cascaded preamp stage
-- 100% analog circuitry
-- True bypass
+## MID behavior
+The MID control is explicitly “sloped”:
+- Below noon, it is voiced toward an **American** amp response, including Blackface-style clean/scooped-metal uses.
+- Above noon, it shifts toward a **British** amp response with stronger mids. [1]
 
-## Version changes
-No numbered factory revision was verified in the checked builder documentation.
+## Circuit architecture
+- **100% analog**
+- **4558-based overdrive sections**
+- Cascaded preamp stage.
+- Broad Bass/Mid/Treble EQ.
+- True bypass and LED indication. [1]
 
-## Transistor
-- **Technology:** Analog active-gain architecture.
-- **Exact device:** Exact transistor part numbers are not published in the checked AXiom sources.
+## Transistor / active device
+- Exact transistor/op-amp part numbers beyond the builder's **4558-based** designation are not published.
 
-## Diode
-- **Type:** Exact clipping-diode devices are not publicly documented in the checked sources.
+## Diode / clipping
+- Exact clipping-device arrangement is not publicly documented.
 
 ## Sound
-OP-1 is voiced to move from traditional overdrive into thicker preamp-driven gain while retaining substantial EQ control. Its sloped MID control changes the center of gravity from an American-style scoop toward a more British-forward response.
+AXiom describes OP-1 as capable of clean and clear boost, fat/warm overdrive, tight drive and much higher-gain preamp sounds. The builder demonstrates the pedal directly into a cab-emulation chain without a guitar amplifier. [1]
+
+## Version history
+- No numbered production revision established in the current AXiom documentation.
+- Individual pedals are handmade and may have minor graphic variations. [1]
+
+## Power
+- The current product page accessed for this pass does not expose a reliable current-draw value or connector specification, so the archive leaves those fields unresolved.
+
+## Research confidence
+- **Identity:** High
+- **4558-based overdrive:** High
+- **Cascaded preamp:** High
+- **Sloped MID behavior:** High
+- **BASS/TREBLE shaping:** High
+- **Exact passive/component values:** Unknown
+- **Exact clipping devices:** Unknown
+- **Exact supply/current:** Not established
+
+## Deep research verification
+AXiom's current OP-1 product page was checked directly. It confirms the control set, 4558-based architecture, cascaded preamp and American/British sloped MID behavior. The archive does not infer unpublished semiconductor or power specifications. [1]
 
 ## Sources checked
-1. AXiom Effects - Overdrive Preamp OP-1: https://axiomeffects.com/products/axiom-overdrive-preamp-op-1
-2. AXiom Effects FAQ: https://axiomeffects.com/pages/faq
+1. AXiom Effects — Overdrive Preamp OP-1: https://axiomeffects.com/products/axiom-overdrive-preamp-op-1
 
 ## Photo
 - **Archive status:** **No Photo Archived**
-- **Exact-model reference checked:** https://axiomeffects.com/products/axiom-overdrive-preamp-op-1
-- **Archive note:** Exact-model photography was located in external listings, but no stable directly retrievable image asset met the archive's photo requirement in this pass.
+- **Exact-model reference checked:** AXiom OP-1 product page.
