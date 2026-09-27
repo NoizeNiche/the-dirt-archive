@@ -45,3 +45,17 @@ The exact Kensington model has an official Colombo product page and exact-model 
 3. eBay - Colombo Audio Electronics Kensington: https://www.ebay.com/itm/146930628483
 4. Colombo Audio Electronics - Kensington Star: https://colomboaudioelectronics.it/prodotto/kensington-star/?lang=en
 5. Colombo Audio Electronics - Pedals / construction: https://colomboaudioelectronics.it/pedals/?lang=en
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Colombo Audio Electronics's Kensington is cataloged as an overdrive pedal.
+
+### Verified sound evidence
+Kensington - Pedale per chitarra elettrica - Vox Preamp, Overdrive - Colombo Audio Electronics /*!
+
+### Sources checked in this pass
+1. Kensington - Pedale per chitarra elettrica - Vox Preamp, Overdrive - Colombo Audio Electronics: https://colomboaudioelectronics.it/prodotto/kensington/
+2. catalog/override source: https://reverb.com/item/73400472-colombo-audio-electronics-kensington-electric-guitar-pedal-vox-preamp-overdrive

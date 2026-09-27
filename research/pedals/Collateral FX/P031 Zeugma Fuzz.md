@@ -37,3 +37,18 @@ The builder describes the completed Zeugma MKI build as sounding strong, while t
 2. Reverb - Collateral FX Zeugma (Zonk Fuzz) 2026, Hammered Blue / Aqua - https://reverb.com/item/96172740-collateral-fx-zeugma-zonk-fuzz-2026-hammered-blue-aqua
 3. Guilherme Collateral build-report/showcase listings for Zeugma: https://forum.pedalpcb.com/members/guilherme-collateral.136/showcase
 4. Collateral FX - Fuzz category, listing P031 Zeugma Fuzz: https://collateralfx.com/br/categoria-produto/fuzz/
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Collateral FX's P031 Zeugma Fuzz is cataloged as a fuzz pedal.
+
+### Verified sound evidence
+Fuzz - Collateral FX 5% DE DESCONTO VIA PIX EM TODO O SITE 5% OFF PIX
+Sobre nós Pedais Boost Buffer Chorus Compressor Distortion Fuzz Modulation Overdrive Preamp Vibe Vibrato Minha conta Depoimentos Pesquisar 0 Carregando conteúdo do carrinho...
+P031 – Zeugma Fuzz Fuzz R$ 1,500.00 no pix ou em até 12x c/ juros no cartão P027 – Element 118 Fuzz Fuzz R$ 940.00 no pix ou em até 12x c/ juros no cartão P026 – Banana Fuzz Fuzz , Preamp Este produto tem várias variantes.
+
+### Sources checked in this pass
+1. Fuzz - Collateral FX: https://collateralfx.com/br/categoria-produto/fuzz/

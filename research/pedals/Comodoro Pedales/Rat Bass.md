@@ -47,3 +47,16 @@ Effects Database and Reverb provide exact-model Rat Bass records and photographs
 1. Effects Database - Comodoro Pedales Rat Bass: https://www.effectsdatabase.com/model/comodoro/ratbass
 2. Reverb - Comodoro RAT BASS: https://reverb.com/item/73116841-comodoro-rat-bass
 3. Made For Bass - bass effects database: https://www.madeforbass.com/bass-effects-database/
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Comodoro Pedales's Rat Bass is cataloged as a distortion pedal.
+
+### Sources checked in this pass
+1. Comodoro Pedales - DOUBLE RAT BASS - Reverb: https://reverb.com/item/63751278-comodoro-pedales-double-rat-bass
+2. Comodoro Pedales Rat Bass Pedal de efecto distorsión para bajo ...: https://www.notacrea.com/product/comodoro-pedales-rat-bass-pedal-de-efecto-distorsion-para-bajo-electrico167463/
+3. Comodoro Pedales Double Rat Bass | drunkat.es: https://drunkat.es/comodoro-pedales-double-rat-bass-pedal-de-efecto-distorsion-dual-para-bajo-electrico
+4. Comodoro Pedales Double Rat Bass - Beatwave Music: https://www.beatwave-music.com/product/comodoro-pedales-double-rat-bass/

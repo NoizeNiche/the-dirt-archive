@@ -1,0 +1,25 @@
+{
+  "builder": "Bob Burt Cabinets & Pedals",
+  "pedal": "Bob Burt GR8T Distortion",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 2,
+  "sources": [
+    {
+      "url": "https://reverb.com/item/94164107-bob-burt-gr8t-distortion",
+      "title": "catalog/override source",
+      "h1": "",
+      "excerpt": "",
+      "host": "reverb.com",
+      "source_kind": "reverb"
+    },
+    {
+      "url": "https://www.effectsdatabase.com/model/bobburt/gr8t",
+      "title": "Bob Burt GR8T Distortion | Effects Database",
+      "h1": "Bob Burt GR8T Distortion",
+      "excerpt": "Bob Burt GR8T Distortion | Effects Database Skip to navigation Brands \u25bc 0-9... a... b... c... d... e... f... g... h... i... j... k... l... m... n... o... p... q... r... s... t... u... v... w... x... y... z... Effect types \u25bc boost distortion fuzz overdrive acoustic simulation amp simulation speaker/cabinet simulation chorus flanger phaser tremolo vibe vibrato other modulation pitch shifter octaver delay reverb looper/sampler hold/freeze eq filter wah fuzz-wah bitcrusher ring modulator samplerate reducer wavefolder synth effect granular effect multi effect vocal effect talkbox vocoder buffer compressor other... Countries \u25bc (country unknown) Argentina Australia Austria Belarus Belgium Brazil Bulgaria Canada Chile China Colombia Costa Rica Croatia Czech Republic Czechoslovakia DDR Denmark Dominican Republic Ecuador Egypt Estonia Finland France Germany Greece Hungary India Indonesia Iran Ireland Israel Italy Japan Latvia Lithuania Luxembourg Macedonia Malaysia Malta Mexico Moldova Monaco Morocco Netherlands New-Zealand Norway Panama Peru Philippines Poland Portugal Romania Russia Serbia Singapore Slovakia Slovenia South-Africa South-Korea Spain Sweden Switzerland Taiwan Thailand Turkey U.K. U.S.A. U.S.S.R. Ukraine Uruguay Venezuela Browse by \u25bc Enclosure type Modulation type Special \u25ba Classics Eye candy Funny Vaporware Weird Random brand Random effect Events \u25ba NAMM Musikmesse Music China Guitar Summit More... \u25bc Forum (opens in new tab) myFXDB (opens in new tab) Newsletter About How to get listed? Interviews Reviews Effects explained Books D.I.Y. Schematics Links Contact Install Effects Database App Search the database browse by brand B... Bob Burt Cabinets & Pedals browse by type distortion/fuzz/overdrive distortion browse by enclosure pedal Bob Burt GR8T Distortion Published on August 19, 2011 Bob Burt Cabinets & Pedals distortion pedal Information The Bob Burt GR8T Distortion is a hand-built pedal designed to deliver a wide spectrum of distortion tones, ranging from raw rock crunch to compressed, D-style overdrive. Unlike an overdrive circuit, where the op amp handles amplification directly, the GR8T generates distortion from gain stages positioned after the op amp, resulting in a different response to guitar volume and dynamics. This design gives the pedal a distinct feel and allows it to interact naturally with a player's touch. The GR8T is based around a single gain stage, which keeps the circuit quiet while maintaining clarity, note definition, and pure guitar tone. Central to the pedal's flexibility is an eight-position rotary switch that adjusts the amount of compression in gradual steps. Starting with no compression, each step clockwise increases compression and reshapes the distortion waveform, offering eight unique voices in one pedal. This approach avoids the complexity of multiple toggle switches and makes tonal recall easy. When combined with its gain, tone, and volume controls, the rotary switch allows the GR8T to move seamlessly between open, aggressive distortion suited to hard rock and metal, and smooth, compressed tones ideal for fusion or D-style overdrive sounds. The pedal responds well to adjustments in guitar volume, cleaning up naturally when rolled back. A precision Texas Instruments op amp was chosen for the circuit, selected as the closest modern equivalent to the LM308 chip found in some classic distortion pedals. As with all of Bob Burt's designs, premium components were used for low noise, tonal consistency, and reliability. The pedal is true bypass, built and tested by hand, and often finished with one-of-a-kind custom swirl paint jobs. Controls Level - Adjusts the overall output volume of the effect. Tone - Shapes the EQ balance of the distortion, ranging from darker to brighter tones. Gain - Sets the amount of distortion and sustain. 8-Way Rotary Switch - Introduces progressive compression in eight steps, altering the distortion character from raw and open to compressed and smooth. Connections Input ",
+      "host": "www.effectsdatabase.com",
+      "source_kind": "effects_database"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}

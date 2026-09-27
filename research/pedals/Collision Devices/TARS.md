@@ -50,3 +50,14 @@ Collision Devices maintains a dedicated TARS product page and shop listings with
 2. Perfect Circuit - Collision Devices TARS: https://www.perfectcircuit.com/collision-devices-tars.html
 3. Collision Devices - TARS shop: https://collisiondevices.com/shop/p/tars
 4. Collision Devices - TARS Black & White: https://collisiondevices.com/shop/p/tars-black-white
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Collision Devices's TARS is cataloged as a distortion / fuzz pedal.
+
+### Sources checked in this pass
+1. TARS Fuzz MS20 Filter pedal — COLLISION DEVICES: https://collisiondevices.com/tars
+2. catalog/override source: https://www.perfectcircuit.com/collision-devices-tars.html

@@ -49,3 +49,14 @@ The Colombo catalog and a current retailer image provide exact-model Rocker 83 p
 2. Colombo Audio Electronics - Pedals catalog: https://colomboaudioelectronics.it/pedals/?lang=en
 3. Anagram Marketplace - Colombo Rocker 83: https://marketplace.anagram.shop/products/colombo-rocker-83-guitar-effects-pedal
 4. Colombo Audio Electronics - Custom Pedals: https://colomboaudioelectronics.it/categoria-prodotto/custom-pedals/?lang=en
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Colombo Audio Electronics's Rocker 83 is cataloged as a distortion / overdrive pedal.
+
+### Sources checked in this pass
+1. Rocker 83 and the nostalgic 80s.: https://colomboaudioelectronics.it/blog/2023/03/23/rocker-83-nostalgic/?lang=en
+2. Anagram Marketplace — Audio Effects & Plugins: https://marketplace.anagram.shop/products/colombo-rocker-83-guitar-effects-pedal

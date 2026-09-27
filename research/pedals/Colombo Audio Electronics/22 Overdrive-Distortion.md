@@ -40,3 +40,17 @@ The manufacturer maintains a dedicated 22 Overdrive/Distortion product page with
 1. Colombo Audio Electronics - 22 Overdrive/Distortion: https://colomboaudioelectronics.it/prodotto/22_overdrive_distortion/?lang=en
 2. Colombo Audio Electronics - Pedals: https://colomboaudioelectronics.it/pedals/?lang=en
 3. Reverb - Colombo Audio Electronics 22 Overdrive/Distortion: https://reverb.com/item/94233066-colombo-audio-electronics-22-overdrive-distortion-boutique-guitar-pedal
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Colombo Audio Electronics's 22 Overdrive/Distortion is cataloged as a distortion / overdrive pedal.
+
+### Verified sound evidence
+22 Overdrive/Distortion - Boutique guitar pedal - Colombo Audio Electronics /*!
+
+### Sources checked in this pass
+1. 22 Overdrive/Distortion - Boutique guitar pedal - Colombo Audio Electronics: https://colomboaudioelectronics.it/prodotto/22_overdrive_distortion/?lang=en
+2. catalog/override source: https://reverb.com/item/94233066-colombo-audio-electronics-22-overdrive-distortion-boutique-guitar-pedal

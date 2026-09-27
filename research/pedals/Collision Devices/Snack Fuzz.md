@@ -57,3 +57,14 @@ The Collision Devices shop maintains a dedicated Snack Fuzz product page with mu
 2. Collision Devices - Snack Series introduction: https://collisiondevices.com/snackseries-introduction
 3. Effects Database - Collision Devices Snack Fuzz: https://www.effectsdatabase.com/model/collision/snack/fuzz
 4. Collision Devices - Shop: https://collisiondevices.com/shop
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Collision Devices's Snack Fuzz is cataloged as a distortion / fuzz pedal.
+
+### Sources checked in this pass
+1. Snack Fuzz — COLLISION DEVICES: https://collisiondevices.com/shop/p/snack-fuzz
+2. catalog/override source: https://www.effectsdatabase.com/model/collision/snack/fuzz

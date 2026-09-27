@@ -53,3 +53,17 @@ Reverb maintains a dedicated Black Hole Symmetry model page with a product galle
 1. Effects Database - Collision Devices Black Hole Symmetry: https://www.effectsdatabase.com/model/collision/blackholesymmetry
 2. Reverb - Collision Devices Black Hole Symmetry: https://reverb.com/p/collision-devices-black-hole-symmetry
 3. The Pedal Zone - Collision Devices Black Hole Symmetry Demo: https://thepedalzone.com/pedal-demos/collision-devices-black-hole-symmetry-demo/
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Collision Devices's Black Hole Symmetry is cataloged as a fuzz pedal.
+
+### Verified color/finish evidence
+- Collision Devices Black Hole Symmetry Demo
+
+### Sources checked in this pass
+1. catalog/override source: https://reverb.com/p/collision-devices-black-hole-symmetry
+2. Collision Devices Black Hole Symmetry Demo | The Pedal Zone: https://thepedalzone.com/pedal-demos/collision-devices-black-hole-symmetry-demo/

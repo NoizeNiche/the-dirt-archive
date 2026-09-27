@@ -44,3 +44,16 @@ A current Colombo Audio Electronics product page is available for the exact Igni
 1. Colombo Audio Electronics - Ignition: https://colomboaudioelectronics.it/prodotto/ignition-boutique-drive/?lang=en
 2. Colombo Audio Electronics - Pedals / construction: https://colomboaudioelectronics.it/pedals/?lang=en
 3. Reverb UK - Ignition Boutique Drive Pedal: https://reverb.com/uk/item/94810303-ignition-boutique-drive-pedal-handcrafted-in-italy
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Colombo Audio Electronics's Ignition is cataloged as an overdrive pedal.
+
+### Verified sound evidence
+Ignition – Boutique Drive - 100% Pure Analog Plug & Play Drive - Electric guitar pedal - Colombo Audio Electronics /*!
+
+### Sources checked in this pass
+1. Ignition – Boutique Drive - 100% Pure Analog Plug & Play Drive - Electric guitar pedal - Colombo Audio Electronics: https://colomboaudioelectronics.it/prodotto/ignition-boutique-drive/?lang=en

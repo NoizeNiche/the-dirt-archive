@@ -53,3 +53,19 @@ A current Reverb record from Colombo Audio Electronics identifies Bricks as the 
 2. Colombo Audio Electronics - Pedals: https://colomboaudioelectronics.it/pedals/?lang=en
 3. Reverb - Colombo Audio Electronics Bricks: https://reverb.com/en-fr/item/43590293-colombo-audio-electronics-bricks-david-gilmour-style-distortion-boost-fuzz-eq
 4. RockBoard PedalPedia - Colombo Audio Electronics Bricks: https://www.rockboard.de/en/pedalPedia/Colombo-Audio-Electronics/Bricks/68976875/
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Visionary, eclectic, elegant and intelligible are just some of the attributes of the guitarist from Cambridge, the Bricks wants to be our tribute to this great artist.
+
+### Verified sound evidence
+The Bricks wants to devote itself to the distortion/overdrive sector, objectively recreating as many solutions as possible adopted by Gilmour over the years.
+Bricks - Electric guitar pedal - David Gilmour style Distortion, Boost, Fuzz, EQ - Colombo Audio Electronics /*!
+
+### Sources checked in this pass
+1. catalog/override source: https://reverb.com/en-fr/item/43590293-colombo-audio-electronics-bricks-david-gilmour-style-distortion-boost-fuzz-eq
+2. Bricks by Colombo Audio Electronics | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/Colombo-Audio-Electronics/Bricks/68976875/
+3. Bricks - Electric guitar pedal - David Gilmour style Distortion, Boost, Fuzz, EQ - Colombo Audio Electronics: https://colomboaudioelectronics.it/prodotto/bricks-gilmour/?lang=en

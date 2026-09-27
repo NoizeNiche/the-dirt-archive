@@ -53,3 +53,20 @@ The official Color Audio product page provides exact-model photography, includin
 1. Color Audio - Cassette Preamp: https://coloraudio.fi/products/cassette-preamp
 2. Effects Database - Color Audio Cassette Preamp: https://www.effectsdatabase.com/model/coloraudio/cassettepreamp
 3. Little Box Effects - Color Audio Cassette Preamp: https://www.littleboxeffects.com/product/color-audio-cassette-preamp
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Color Audio's Cassette Preamp is cataloged as a fuzz / overdrive pedal.
+
+### Verified sound evidence
+From compressed cleans to blown-out fuzz, it delivers a wide range of DI tones while also serving as a versatile preamp in front of an amp.
+very dynamic and cleans up nicely with the volume knob.
+slap guitar guitar (DI) Works great as just a clean toneshaping tool with a slightly compressed tone.
+
+### Sources checked in this pass
+1. cassette preamp – color audio: https://coloraudio.fi/products/cassette-preamp
+2. Color Audio Cassette Preamp | Little Box Effects: https://www.littleboxeffects.com/product/color-audio-cassette-preamp
+3. Color Audio Cassette Preamp | Effects Database: https://www.effectsdatabase.com/model/coloraudio/cassettepreamp

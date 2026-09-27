@@ -37,3 +37,17 @@ The Colombo Audio Electronics Eruption product page contains model-specific prod
 2. Brett Kingman - Colombo Audio Electronics: Eruption OD/Distortion: https://www.youtube.com/watch?v=vWz1-JCGZkw
 3. Colombo Audio Electronics - Pedals: https://colomboaudioelectronics.it/pedals/?lang=en
 4. Reverb - Colombo Audio Electronics Eruption: https://reverb.com/item/62586982-colombo-audio-electronics-eruption-evh-distortion-pedal
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Colombo Audio Electronics's Eruption is cataloged as a distortion / overdrive pedal.
+
+### Verified sound evidence
+Eruption - Electric guitar pedal - EVH Overdrive, Distortion, Variac tone - Colombo Audio Electronics /*!
+
+### Sources checked in this pass
+1. Eruption - Electric guitar pedal - EVH Overdrive, Distortion, Variac tone - Colombo Audio Electronics: https://colomboaudioelectronics.it/prodotto/eruption-van-halen/?lang=en
+2. catalog/override source: https://reverb.com/item/62586982-colombo-audio-electronics-eruption-evh-distortion-pedal

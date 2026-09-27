@@ -49,3 +49,27 @@ Effects Database provides exact-model MKIII records and historical product image
 ## Sources checked
 1. Fuzzboxes - Vox Tone Bender MKIII: https://fuzzboxes.org/tonebendermkiii
 2. Effects Database - Sola Sound Tone Bender MKIII: https://www.effectsdatabase.com/model/solasound/tonebender/mk3
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Tone Bender MKIII pedals “plus Bass and Treble Boost” were still being advertised in the press by early 1969, 2 but it is unknown how long exactly the model remained in production.
+
+### Verified color/finish evidence
+- These newer enclosures were painted in a dark grey hammertone finish, and were printed with a far livelier and attractive set of silk-screened graphics.
+
+### Verified version references
+- The evidence references: MKIII, MKIV.
+
+### Verified transistor/device terms
+- silicon transistor, germanium transistor.
+
+### Verified sound evidence
+Vox Tone Bender MKIII Overview Introduced in 1968, the Tone Bender MKIII was the latest incarnation of the series of Tone Benders that Sola Sound had been supplying to Vox (among other brands) since 1966.
+By the time that Sola Sound were producing the MKIII, their fuzz boxes were no longer being built into cast aluminium enclosures, and instead, the MKIII appeared in a pressed steel casing.
+Sola Sound continued to supply Vox with the Tone Bender MKIII until well into the 1970s, with the fuzz circuit undergoing various further changes over the years.
+
+### Sources checked in this pass
+1. Vox Tone Bender MKIII • Fuzzboxes: https://fuzzboxes.org/tonebendermkiii

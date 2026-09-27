@@ -46,3 +46,25 @@ The ODR2 is presented as a smooth, highly responsive overdrive with enough range
 - The Reverb listing describes ODR2 as part of the Skrydstrup R&D 2000s pedal ecosystem and says the original R&D units are no longer manufactured.
 - The current Caveman Audio site identifies Steen Skrydstrup and the modern Danish company, but the archive keeps ODR2 as its own historical Skrydstrup R&D model.
 - A third-party 2014 analysis compares the ODR2 to a Pete Cornish design, but this is treated as analysis rather than controlling identity evidence and is not used to assert a circuit relationship as factory fact.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Info about the original Cornish copy: Skrydstrup R&D Overdrive ODR-2 The ODR2 is a smooth, dynamic overdrive unit designed to emulate the overdrive sounds of our highly recognized OD50 Tube Amplifier.
+
+### Verified transistor/device terms
+- AC30.
+
+### Verified diode terms
+- LED.
+
+### Verified sound evidence
+It's perfect for overdrive tones ranging from a semi-cranked AC30 to the sound of Hendrix.
+It is very dynamic - it feels like a tube amp - and will respond to every nuance in your playing.
+When switched OFF (bypassed), ODR2 acts as a unity gain line driver, capable of driving even very long cables without tonal loss or unwanted coloration.
+
+### Sources checked in this pass
+1. ODR 2 by Skrydstrup R&D | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/Skrydstrup-RD/ODR-2/68984309/
+2. Guitar FX Layouts: Skrydstrup R&D Overdrive ODR-2: https://tagboardeffects.blogspot.com/2014/05/skrydstrup-r-overdrive-odr-2.html

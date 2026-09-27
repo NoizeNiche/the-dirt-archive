@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-27T10:05:42.712395+00:00",
+  "generated_at": "2026-09-27T10:07:45.632077+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,8 +10,8 @@
     "pictured": 3133,
     "complete": 3133,
     "research_pending": 0,
-    "deep_research_pending": 1621,
-    "deep_researched": 2621,
+    "deep_research_pending": 1554,
+    "deep_researched": 2688,
     "surface_ready": 4242
   },
   "next_target": {
@@ -80,62 +80,6 @@
     },
     {
       "builder": "BlackOutEffectors",
-      "pedal": "A Seriously Special Twosome",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 101/A Seriously Special Twosome.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "BlackOutEffectors",
-      "pedal": "A Very Special Twosome",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 102/A Very Special Twosome.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "BlackOutEffectors",
-      "pedal": "Blunderbuss Fuzz",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 102/Blunderbuss Fuzz.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "BlackOutEffectors",
-      "pedal": "Blunderbuss Musket",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 102/Blunderbuss Musket.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "BlackOutEffectors",
-      "pedal": "Dual Gain Mantra",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 102/Dual Gain Mantra.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "BlackOutEffectors",
-      "pedal": "Fix'd Fuzz",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 102/Fix'd Fuzz.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "BlackOutEffectors",
-      "pedal": "Fix'd Fuzz Deluxe",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 102/Fix'd Fuzz Deluxe.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "BlackOutEffectors",
-      "pedal": "Fuzz Bear",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 102/Fuzz Bear.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "BlackOutEffectors",
       "pedal": "Special Twosome Deluxe",
       "catalog_type": "",
       "research_record": "./research/pedals/PRP Batch 103/Special Twosome Deluxe.md",
@@ -153,13 +97,6 @@
       "pedal": "Bob Burt AH-1 Allen Hinds Signature Distortion",
       "catalog_type": "",
       "research_record": "./research/pedals/PRP Batch 106/Bob Burt AH-1 Allen Hinds Signature Distortion.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Bob Burt Cabinets & Pedals",
-      "pedal": "Bob Burt GR8T Distortion",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 106/Bob Burt GR8T Distortion.md",
       "research_level": "surface"
     },
     {
@@ -195,6 +132,69 @@
       "pedal": "HZM-1.2 Hizumi",
       "catalog_type": "",
       "research_record": "./research/pedals/PRP Batch 109/HZM-1.2 Hizumi.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Boot-Leg Hand Made Effects",
+      "pedal": "HZM-2.0 Hizumi Quattro Valvole",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 109/HZM-2.0 Hizumi Quattro Valvole.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Boot-Leg Hand Made Effects",
+      "pedal": "JBK-1.0 Jaw Breaker",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 109/JBK-1.0 Jaw Breaker.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Boot-Leg Hand Made Effects",
+      "pedal": "JZF-1.0 Jazz Fuzz",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 109/JZF-1.0 Jazz Fuzz.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Boot-Leg Hand Made Effects",
+      "pedal": "RRP-1.0 Rock'n Roll Party",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 109/RRP-1.0 Rock'n Roll Party.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Bootlegger Guitar",
+      "pedal": "Tube Shooter Overdrive",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 109/Tube Shooter Overdrive.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "BOSS",
+      "pedal": "BC-2 Combo Drive",
+      "catalog_type": "",
+      "research_record": "./research/pedals/BOSS/BC-2 Combo Drive.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "BOSS",
+      "pedal": "BP-1W Booster/Preamp",
+      "catalog_type": "",
+      "research_record": "./research/pedals/BOSS/BP-1W Booster/Preamp.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "BOSS",
+      "pedal": "DA-2 Adaptive Distortion",
+      "catalog_type": "",
+      "research_record": "./research/pedals/BOSS/DA-2 Adaptive Distortion.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "BOSS",
+      "pedal": "DF-2 Super Feedbacker & Distortion",
+      "catalog_type": "",
+      "research_record": "./research/pedals/BOSS/DF-2 Super Feedbacker & Distortion.md",
       "research_level": "surface"
     }
   ]

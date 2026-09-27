@@ -34,3 +34,16 @@ Darkship is built around a less conventional signal relationship: the delay sect
 
 ## Sources checked
 1. Reverb — Boulevard Effects Darkship Fuzz/Delay: https://reverb.com/item/80160173-boulevard-effects-darkship-fuzz-delay
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Boulevard Effects's Darkship is cataloged as a fuzz pedal.
+
+### Sources checked in this pass
+1. catalog/override source: https://reverb.com/item/80160173-boulevard-effects-darkship-fuzz-delay
+2. DARKSHIP - Boulevard Effects - YouTube: https://www.youtube.com/watch?v=2z9scF4_ccw
+3. Boulevard Effects Darkship - Capture Legendary British Studio Quality ...: https://www.abbeyroadgear.com/product/boulevard-effects-darkship43331/
+4. Boulevard Effects Darkship - bestmusiccompanion.com: https://www.bestmusiccompanion.com/product/boulevard-effects-darkship/

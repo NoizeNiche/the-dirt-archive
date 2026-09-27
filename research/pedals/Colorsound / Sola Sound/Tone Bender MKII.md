@@ -46,3 +46,26 @@ Fuzzboxes and Effects Database provide model-specific MKII histories and imagery
 1. Fuzzboxes - Vox Tone Bender Professional MKII: https://fuzzboxes.org/voxtonebendermkii
 2. Seymour Duncan Forum historical discussion: https://forum.seymourduncan.com/threads/curlys-colorsound-tonebender-mk2.55824/page-2
 3. David Morrin - Sola Sound Tone Bender: https://sites.google.com/site/davidmorrinoldsite/home/trouble/troubleeffects/sola-sound-tone-bender
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Vox Tone Bender Professional MKII Overview One of the most well-known versions of the Sola Sound Tone Bender MKII is the one that was supplied, by Sola Sound (via Macari’s Musical Exchange), to Vox.
+
+### Verified color/finish evidence
+- Compared with the Sola Sound pedals from 1966, the Vox Tone Bender Professional MKII pedals were painted in silver Hammerite, and instead of Bulgin ‘chicken head’ knobs, these pedals now featured tall silver-topped knobs (similar to the current Cliff K5 knob).
+- Those silver-topped knobs were the same style that Sola Sound would continue to use on all of their effects pedals (including the Colorsound range) until well into the 1970s.
+- To reflect the change in branding, however, the ‘Sola Sound’ name was crudely obscured from the face of the pedal with a black bar, and replaced with ‘Vox’.
+
+### Verified version references
+- The evidence references: MK1, MKII, MKIII.
+
+### Verified sound evidence
+Vox Tone Bender Professional MKII Overview One of the most well-known versions of the Sola Sound Tone Bender MKII is the one that was supplied, by Sola Sound (via Macari’s Musical Exchange), to Vox.
+According to original owners’ testimonies, Vox was already selling Sola Sound-built Tone Bender [‘MK1.5’] fuzz boxes by early 1966, but these pedals weren’t formally branded as Vox products yet.
+By early 1967, Sola Sound had suspended (or at least scaled down) printing their own brand name on the Tone Bender Professional MKII, and they started branding the pedals as Vox Tone Bender Professional MKII’s instead.
+
+### Sources checked in this pass
+1. Vox Tone Bender Professional MKII • Fuzzboxes: https://fuzzboxes.org/voxtonebendermkii

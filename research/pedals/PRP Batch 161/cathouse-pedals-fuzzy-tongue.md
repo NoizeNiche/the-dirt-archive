@@ -15,3 +15,20 @@
 - **Sound:** Warm, sustained and creamy, ranging from chunky low-rumble fuzz to larger saturated tones.
 - **Research confidence:** High.
 - **Sources checked:** https://www.pedal-of-the-day.com/2017/01/09/cathouse-pedals-fuzzy-tongue-fuzz/
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+0 comments This is an image of the Fuzzy Tongue Fuzz effects pedal from Cathouse Pedals.
+
+### Verified version references
+- The evidence references: MKII.
+
+### Verified sound evidence
+0 comments This is an image of the Fuzzy Tongue Fuzz effects pedal from Cathouse Pedals.
+
+### Sources checked in this pass
+1. Cathouse Pedals Fuzzy Tongue Fuzz - Pedal of the Day: https://www.pedal-of-the-day.com/2017/01/09/cathouse-pedals-fuzzy-tongue-fuzz/cathousepedals_fuzzytonguefuzz/
+2. Fuzzy Tongue: http://cathouse.rocks/shop/fuzzy-tongue

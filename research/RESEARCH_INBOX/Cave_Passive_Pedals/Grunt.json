@@ -1,0 +1,25 @@
+{
+  "builder": "Cave Passive Pedals",
+  "pedal": "Grunt",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 2,
+  "sources": [
+    {
+      "url": "http://www.rexbass.com/2010/04/cave-passive-pedals-grunt-review.html",
+      "title": "Rex and the Bass: Cave Passive Pedals: Grunt Review",
+      "h1": "",
+      "excerpt": "Rex and the Bass: Cave Passive Pedals: Grunt Review skip to main | skip to sidebar Impressions of music and musical equipment from my point of view Subscribe To Posts Atom Posts Comments Atom Comments Friday, April 23, 2010 Cave Passive Pedals: Grunt Review Why would anybody want a passive guitar or bass effect pedal? Until recently I rarely used effect pedals (except for the trusty Boss Tuner), because of the hassles of having to use only powered pedals. What hassles? How about dead batteries and leaking batteries, or the fistfuls of heavy AC adaptors I had to keep track of if I chose not to use batteries (now where AM I going to plug in all of those adaptors)? Cave Passive Pedals has developed a line of passive pedals that do not require a battery or a clunky AC adaptor. Everything is powered by the output signal from the guitar or bass. Cave Passive Pedals is a small company in Australia (Cave is Australian for pedals, mate!), that designed their own line of boutique pedals. They build them with adult hands in Australia, not by little enslaved child hands in China or India. If you call them on the phone or send them an e-mail, you are dealing directly with the people that make them, and they are friendly and obviously have a passion about what they do for a living. Their pride in workmanship shows with these pedals. The Grunt pedal that I am writing about today is both visually and functionally flawless. The pedal itself measures about 2.75 inches wide, by 4.5 inches long and 1.75 inches tall. The chassis is powder coated glossy white, with black screen printing for the logo and control labels. The controls are simple: a two-way knob for the clean and dirty channels, and a stomp switch to bypass the effect. Open up the back of the Grunt and what do you see? Not much, the electronics are sealed to keep connections from moving around, and probably to prevent boneheads like me from heading down to the electronics store and knocking off my own brand of passive pedals. What does the Grunt actually do? The folks at Cave say that \u201cThe Grunt has the ability for you to choose either Clean for frequency boost or Dirty for an outrageous 60's sounding overdriven bass amplifier.\u201d Well, does it actually work? Hell yeah! Depending on the position of the switch, you get either a volume boost (clean), or a nice 60\u2019s/70\u2019s overdriven crunch (dirty). It really is a miracle, and can transform a dull bass tone into something that would make any rock or funk band happy. My favorite basses to use with the Grunt are my Fender 57 re-issue Precision, and my Fender 75 re-issue Jazz. Both have their original passive pickups, and this is where the GRUNT really shines. With both basses, I leave the volume controls dimed (as I always have). Just for kicks and giggles, I did try backing off on the volume pots, and this does reduce the amount of dirtiness from the pedal. I have used the Grunt with my active basses (Musicman and Sadowsky), and the clean signal boost was not as dramatic, although the dirty channel was still fun to play with. It really perked up the tone of Sadowsky original P that has a Lollar single-coil pickup in it. I have only used the Grunt with my current amplifier setup, which is a Genz Benz Shuttle 6.0, and either a Genz Benz Uber Bass 410T 4-ohm cabinet, or a Genz Benz Shuttle STL-12T cabinet. Be advised that unless you are dialing gain into the tube pre-amp stage, both the Grunt\u2019s clean and dirty boost will not be as dramatic. Cave pedals ship in a nice handmade and waxed boutique MDF box along with a microfiber cleaning cloth and some basic instructions. All Cave pedals come with a lifetime warranty, which I cannot imagine ever needing to use. They are very well made, and with the passive electronics, there really is not much to go wrong with these. But surely, if something were to go wrong, the friendly folks at Cave are just an e-mail away to help you out. The Grunt is priced at $129 AUD, which works out to $120 USD, as of today.",
+      "host": "www.rexbass.com",
+      "source_kind": "catalog_verified"
+    },
+    {
+      "url": "https://www.effectsdatabase.com/model/cavepassive/grunt",
+      "title": "catalog/override source",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.effectsdatabase.com",
+      "source_kind": "effects_database"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}

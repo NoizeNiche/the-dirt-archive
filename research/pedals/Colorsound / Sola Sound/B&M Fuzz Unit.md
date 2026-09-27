@@ -47,3 +47,17 @@ Multiple Reverb listings provide clear exact-label B&M Fuzz Unit product photogr
 2. Premier Guitar - The Mighty Tone Bender Fuzz: https://www.premierguitar.com/gear/fifty-years-of-filth-the-story-of-the-mighty-tone-bender-fuzz?page=2
 3. Reverb - Vintage early-1970s B&M Fuzz Unit: https://reverb.com/item/84765114-vintage-early-1970s-b-m-barnes-and-mullins-fuzz-unit-guitar-pedal-made-by-colorsound-tonebender-sola-sound-not-a-reissue
 4. Reverb - Vintage 70s B&M Fuzz Unit: https://reverb.com/uk/item/91450474-vintage-70-s-barnes-and-mullins-b-m-fuzz-unit-by-colorsound-clean
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Colorsound / Sola Sound's B&M Fuzz Unit is cataloged as a fuzz pedal.
+
+### Verified version references
+- The evidence references: MK3.
+
+### Sources checked in this pass
+1. catalog/override source: https://reverb.com/uk/item/91450474-vintage-70-s-barnes-and-mullins-b-m-fuzz-unit-by-colorsound-clean
+2. Buzz the Fuzz - all about Tone Bender: B&M - (Champion) Fuzz Unit: https://thetonebender.blogspot.com/2012/04/b-champion-fuzz-unit.html

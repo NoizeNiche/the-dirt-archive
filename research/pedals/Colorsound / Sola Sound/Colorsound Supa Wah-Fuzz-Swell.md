@@ -48,3 +48,26 @@ ToneHome, Effects Database, Reverb, and historical trade material provide exact-
 2. Effects Database - Colorsound Wah+Fuzz+Swell: https://www.effectsdatabase.com/model/colorsound/wahfuzzswell
 3. DelayDude - Colorsound Supa Wah Fuzz Swell: https://delaydude.de/en/effekt-raritaeten-im-portrait-colorsound-supa-wah-fuzz-swell/
 4. Reverb - Colorsound Supa Wah-Fuzz-Swell: https://reverb.com/p/colorsound-supa-wah-fuzz-swell
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Colorsound / Sola Sound's Colorsound Supa Wah-Fuzz-Swell is cataloged as a fuzz pedal.
+
+### Verified color/finish evidence
+- 7, 2026 Eurotec Black Box Faze Module, England 1980s, exc.+ Ibanez No.
+
+### Verified version references
+- The evidence references: v2, v3.
+
+### Verified sound evidence
+Diese alten Supa Wah Fuzz Swell Pedale sind so rar, dass ich nicht einmal in den unendlichen Weiten des Internets einen Schaltplan für dieses Gerät finden konnte.
+Es können cleane Swell Effekte, Fuzz oder Wah Sounds erzeugt werden.
+Das Modell, dass seinen Weg zu mir in die Werkstatt gefunden hat, lässt vermuten, dass das Supa Wah Fuzz Swell ursprünglich mal Gummistreifen an der Unterseite hatte, um ein Rutschen zu verhindern.
+
+### Sources checked in this pass
+1. Effekt Raritäten im Portrait: Colorsound Supa Wah Fuzz Swell - The effect pedal specialist: https://delaydude.de/effekt-raritaeten-im-portrait-colorsound-supa-wah-fuzz-swell/?v=0b3b97fa6688
+2. catalog/override source: https://reverb.com/p/colorsound-supa-wah-fuzz-swell
+3. TONEHOME - the World of Vintage Guitar Effects Pedals - Supa Wah-Fuzz-Swell: https://www.tonehome.de/colorsound-sola-sound/supa-wah-fuzz-swell/

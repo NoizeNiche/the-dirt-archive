@@ -1,0 +1,25 @@
+{
+  "builder": "Caroline Guitar Company",
+  "pedal": "Haymaker",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 2,
+  "sources": [
+    {
+      "url": "https://www.effectsdatabase.com/model/caroline/haymaker",
+      "title": "catalog/override source",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.effectsdatabase.com",
+      "source_kind": "effects_database"
+    },
+    {
+      "url": "https://carolineguitar.com/so-what-is-the-difference-between/",
+      "title": "So what is the difference between... - Caroline Guitar Company - Caroline Guitar Company",
+      "h1": "So what is the difference between\u2026",
+      "excerpt": "So what is the difference between... - Caroline Guitar Company - Caroline Guitar Company Dreamed, designed, and created at our small batch \u0003distortery\u2122 in Columbia, South Carolina. Products Artists About Retailers Blog My account Checkout Cart So what is the difference between\u2026 September 27, 2015 Haymaker vs. Wave Cannon v1/Cannonball vs. Wave Cannon MKII ? It\u2019s pretty simple. It\u2019s called marketing. Some people like the same thing with different names because they identify with that name or word more. Consider all the different brands of laundry detergent, shampoo, or non-craft beer out there. Don\u2019t they all share the same active ingredients? Can anyone really tell the differences among them? I mean, really? Are you so sure ? We do look forward to more cross-platform design synergies, the opportunity to monetize public-private partnerships, objectively customize competitive architectures, continually benchmark user-centric AW MAN THIS B.S. IS EXHAUSTING! How do rich dudes in suits do it? How about we just tell you the truth, try not to be too tech-y, and hope this clears it up for you? Wave Cannon 1/Cannonball: This was the pedal that got us started in 2010, and it\u2019s based on a classic 1970s DOD OD-250/ Proco Rat style frame: single op-amp pushed really hard, hard clipping to ground, and a discrete transistor buffer between the tone and volume control. We incorporated a variation of a known mod to these kinds of pedals courtesy of Phillip Ruetz that we called the Shape control (named that way because I once saw the actual shape of some treble frequencies I played go from square to sine as we changed the values), and added the feedback loop we called the Havoc control after I did it by accident on the breadboard. If I had known that we\u2019d end up making over 900 of these pedals, I would have done things very differently. Let\u2019s just say it\u2019s not going to win any design awards. It was laid out pretty poorly and they are an inefficient pain in the butt to make. My friend Wes Kuhnley of Resonant Amps once asked me why we used a single op-amp instead of a dual. My answer? When we started making these, I actually didn\u2019t know how to implement a dual op-amp for its design. That being said, these pedals can sound pretty cool, so we\u2019ve continued to make Cannonballs as the legacy of this product and incorporated more mods for fun stuff \u2013 stutter switches, different clipping diodes, voltage sag on the chip, and/or adjustable amount of current in the feedback loop. We offer these as limited releases with custom artwork, so if you like that classic, thick sound (Jason Isbell recently turned a lot of folks onto this pedal with a gorgeous Instagram vid) and would like something funky for your board with a couple weird mods, specially painted by an artist friend of ours, a Cannonball might be the ticket. Haymaker: We released Haymaker in 2014 after people asked us to make the overdrive preamp from our Kilobyte\u00ae delay into its own pedal. That would have been simple, easy, and easy money. So what did we do instead? We went with a quad op-amp design (I did use a dual for our Icarus\u2122 boost in 2011, so I wasn\u2019t trying to skip any prerequisites or anything), and pursed an idea for an asymmetrical clipping network that would be rotated into different locations in the circuit for different kinds of clipping via the three way mode switch. Haymaker, while sharing the Ruetz-inspired Shape control and a low-pass filter for a tone control, can sound really different from WC1. Mode A/soft clipping has a definitely different feel and even a different EQ response, and Mode B removes all the clipping diodes so the thing really is just overdriving the chip itself, which depending on your amp can either sound like a cranked Sunn Model T being played while being pushed down a flight of stairs, or a very harsh, brittle mess like a Jazz Chorus with slashed speakers \u2013 which can be its own kind of cool. Mode C (hard clipping) on Haymaker can be dialed to sound really, r",
+      "host": "carolineguitar.com",
+      "source_kind": "catalog_verified"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}

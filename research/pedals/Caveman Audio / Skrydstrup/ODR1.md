@@ -46,3 +46,25 @@ The ODR1 is voiced as a dynamic, amp-like overdrive with a Plexi-oriented charac
 ## Research notes
 - The current Caveman Audio site identifies Steen Skrydstrup and connects the modern company to the earlier Skrydstrup R&D work, but it does not present ODR1 as a current catalog product.
 - The archive keeps the ODR1 identity separate from later Caveman Audio products and does not infer an exact production chronology beyond the dated sources above.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Dynamic overdrive with natural harmonics right at your feet ODR1 is a smooth, dynamic overdrive, designed to emulate the overdrive sound of our highly recognized X2 Tube Amplifier.
+
+### Verified version references
+- The evidence references: V4.
+
+### Verified transistor/device terms
+- AC30.
+
+### Verified sound evidence
+Delicious Audio Creative Pedals Creative Delay Tape Delay W/ Reverb Delay Distortion Fuzz Overdrive Dual Gain Dirt Boost Compr.
+Actually, it is, but it recreates the tone of the company’s own X2 Tube Amp , employing carefully selected Germanium diodes to deliver anything from the crispiness of a semi­-cranked VOX AC30 to the grit of Hendrix’s tone.
+You can hear the sound of the Caveman ODR1 Overdrive in the video below.
+
+### Sources checked in this pass
+1. Caveman ODR1 Overdrive | Delicious Audio: https://delicious-audio.com/caveman-odr1-overdrive/
+2. catalog/override source: https://www.effectsdatabase.com/model/skrydstrup/odr1

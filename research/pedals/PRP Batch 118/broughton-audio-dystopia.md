@@ -28,3 +28,14 @@ The manufacturer archive confirms DYSTOPIA as a fuzz project but does not preser
 
 ## Sources checked
 1. Broughton Audio Pedal Archive, page 2: https://www.broughtonaudio.com/archive?page=2
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Broughton Audio's DYSTOPIA is cataloged as a fuzz pedal.
+
+### Sources checked in this pass
+1. DYSTOPIA | Broughton Audio: https://www.broughtonaudio.com/product-page/dystopia
+2. Broughton Audio Dystopia - Reverb: https://reverb.com/p/broughton-audio-dystopia

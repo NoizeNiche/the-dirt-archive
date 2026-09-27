@@ -1,0 +1,25 @@
+{
+  "builder": "Colombo Audio Electronics",
+  "pedal": "Rocker 83",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 2,
+  "sources": [
+    {
+      "url": "https://colomboaudioelectronics.it/blog/2023/03/23/rocker-83-nostalgic/?lang=en",
+      "title": "Rocker 83 and the nostalgic 80s.",
+      "h1": "Rocker 83 and the nostalgic 80s.",
+      "excerpt": "Rocker 83 and the nostalgic 80s. Skip to content <header data-elementor-type=\"header\" data-elementor-id=\"50\" class=\"elementor elementor-50 elementor-location-header\" data-elementor-post-type",
+      "host": "colomboaudioelectronics.it",
+      "source_kind": "manufacturer"
+    },
+    {
+      "url": "https://marketplace.anagram.shop/products/colombo-rocker-83-guitar-effects-pedal",
+      "title": "Anagram Marketplace \u2014 Audio Effects & Plugins",
+      "h1": "",
+      "excerpt": "Anagram Marketplace \u2014 Audio Effects & Plugins",
+      "host": "marketplace.anagram.shop",
+      "source_kind": "catalog_verified"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}

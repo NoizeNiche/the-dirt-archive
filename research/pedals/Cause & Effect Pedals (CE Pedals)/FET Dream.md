@@ -46,3 +46,14 @@ The FET Dream is designed around clear, articulate overdrive and distortion with
 3. Premier Guitar — Cause & Effect Pedals Release FET Dream (March 2, 2009): https://www.premierguitar.com/cause-effect-pedals-release-fet-dream
 4. Effects Database — Cause & Effect Pedals interview with Mark Roberts: https://www.effectsdatabase.com/interviews/brands/cepedals
 5. Cause & Effect Pedals — official site: https://www.cepedals.com/
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Cause & Effect Pedals (CE Pedals)'s FET Dream is cataloged as a distortion / overdrive pedal.
+
+### Sources checked in this pass
+1. catalog/override source: https://causeandeffectpedals.com/images/FET_Dream_User_Guide3.pdf
+2. Cause & Effect Pedals Release FET Dream - Premier Guitar: https://www.premierguitar.com/cause-effect-pedals-release-fet-dream

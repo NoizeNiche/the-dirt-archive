@@ -50,3 +50,17 @@ The Colombo Audio Electronics Father of Loud product page provides model-specifi
 3. Colombo Audio Electronics - Pedals: https://colomboaudioelectronics.it/pedals/?lang=en
 4. Colombo Audio Electronics - Custom Pedals: https://colomboaudioelectronics.it/pedali-custom/
 5. Reverb - Colombo Audio Electronics Father of Loud: https://reverb.com/item/91413283-colombo-audio-electronics-father-of-loud-x5070
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Colombo Audio Electronics's Father of Loud is cataloged as a distortion / overdrive pedal.
+
+### Verified sound evidence
+Father of Loud - Electric guitar custom pedal - Plexi 1987, 1959, JTM45, Silver Jubilee, JCM800, JCM900 Overdrive, Distortion - Colombo Audio Electronics /*!
+
+### Sources checked in this pass
+1. catalog/override source: https://reverb.com/item/91413283-colombo-audio-electronics-father-of-loud-x5070
+2. Father of Loud - Electric guitar custom pedal - Plexi 1987, 1959, JTM45, Silver Jubilee, JCM800, JCM900 Overdrive, Distortion - Colombo Audio Electronics: https://colomboaudioelectronics.it/prodotto/fatherofloud/?lang=en

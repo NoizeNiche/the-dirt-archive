@@ -1,32 +1,39 @@
-# BOSS - HM-2 Heavy Metal
+# BOSS — HM-2 Heavy Metal
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** HM-2 Heavy Metal
 - **Builder:** BOSS
-- **Pedal:** HM-2 Heavy Metal
 - **Catalog type:** Distortion
+- **Identity:** BOSS's HM-2 Heavy Metal.
 
 ## What this pedal is
-The BOSS HM-2 is a historical heavy-metal distortion pedal designed to reproduce the sound of early-1980s British stack amplifiers in a compact stompbox.
+Based on the HM-2 Heavy Metal pedal from the 1980s, the HM-2W delivers the true analog sound of the original in all its glory, coupled with numerous modern refinements for enhanced performance.
 
-## Deep research verification
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
 
-### History
-BOSS documents the original HM-2 as being produced from **1983 to 1991**. It became especially associated with Swedish death metal, while its aggressive mid-focused distortion has also found use outside metal.
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
 
-### Sound
-BOSS describes the original as having a uniquely aggressive, focused midrange and a signature “chainsaw” character when the controls are pushed fully. The later Waza Craft HM-2W was created as a modern recreation, with a standard mode intended to reproduce the original analog HM-2 sound.
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
 
-### Model boundary
-The archive keeps **HM-2 Heavy Metal** separate from **HM-2W Heavy Metal**, the later Waza Craft version with additional circuitry and a custom mode.
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
 
-### Component evidence
-The reviewed first-party material does not provide a universal original-HM-2 transistor/diode part list, so exact semiconductor details remain unresolved.
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+Produced from 1983 to 1991, the BOSS HM-2 Heavy Metal is a legend in the history of distortion pedals.
+Its signature “chainsaw tone” with all knobs maxed is the defining voice of Swedish death metal music, and the slightly milder sides of its personality can be heard on tracks from mainstream to shoegaze.
+BOSS engineers have also added audio performance improvements without affecting the original tone, including reducing the noise floor and expanding the maximum level by 3 dB.
 
 ## Sources checked
-- BOSS 50th Anniversary timeline: https://www.boss.info/jp/boss-50th-anniversary/
-- BOSS HM-2W product/history page: https://www.boss.info/global/products/hm-2w/
-- BOSS HM-2W announcement: https://www.boss.info/us/whats_new/press_releases/2021/BOSS-Announces-the-HM-2W-Heavy-Metal-Pedal/
-- Effects Database: https://www.effectsdatabase.com/model/boss/compact/hm2
+1. BOSS - What’s New - Press Releases - 2021 - BOSS ANNOUNCES THE HM-2W HEAVY METAL PEDAL: https://www.boss.info/us/whats_new/press_releases/2021/BOSS-Announces-the-HM-2W-Heavy-Metal-Pedal/
+2. HM-2：スウェーデンのデスメタル・サウンドとその先へ - BOSS Articles: https://articles.boss.info/ja/hm-2-the-sound-of-swedish-death-metal-and-beyond/
 
 ## Photo
-- **Archive status:** **Exact Photo Pending**
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

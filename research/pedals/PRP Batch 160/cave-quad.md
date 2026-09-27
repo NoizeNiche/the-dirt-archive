@@ -17,3 +17,13 @@
 - **Sources checked:**
   - https://www.cavepedals.net/shop/p/product-2-5c6mb-j8mng-zyt72-6y5rs
   - https://www.cavepedals.net/
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Cave Pedals's Quad is cataloged as an overdrive pedal.
+
+### Sources checked in this pass
+1. Quad - classic 1970s overdrive — Cave Pedals: https://www.cavepedals.net/shop/p/product-2-5c6mb-j8mng-zyt72-6y5rs

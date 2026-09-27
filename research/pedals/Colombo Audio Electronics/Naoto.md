@@ -48,3 +48,20 @@ The manufacturer hosts exact Naoto photographs, including a 600x600 model-specif
 2. Colombo Audio Electronics - Naoto model image: https://colomboaudioelectronics.it/wp-content/uploads/2020/09/Naoto-Japan-2-600x600.jpeg
 3. Reverb - Colombo Audio Electronics Naoto (Factory Version) 2020-2024: https://reverb.com/au/item/81661031-colombo-audio-electronics-naoto-factory-version-2020-2024
 4. RockBoard pedalPedia - Naoto: https://www.rockboard.de/en/pedalPedia/Colombo-Audio-Electronics/Naoto/68976885/
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Like all Colombo Audio Electronics pedals, Naoto is also fully customizable.
+
+### Verified sound evidence
+Naoto - Electric guitar pedal - 80s Overdrive/Distortion - Colombo Audio Electronics /*!
+The tone concept of the distorted guitars of that era is crucial; how to define it!?
+Solid but sharp, thick but scratchy… a perfect cross between overdrive and distortion, or can be located halfway between a Marshall JCM800 and an ADA MP1 preamp.
+
+### Sources checked in this pass
+1. Naoto - Electric guitar pedal - 80s Overdrive/Distortion - Colombo Audio Electronics: https://colomboaudioelectronics.it/prodotto/naoto-80s-distortion/?lang=en
+2. catalog/override source: https://reverb.com/au/item/81661031-colombo-audio-electronics-naoto-factory-version-2020-2024
+3. Naoto by Colombo Audio Electronics | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/Colombo-Audio-Electronics/Naoto/68976885/

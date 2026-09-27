@@ -49,3 +49,16 @@ The exact November Child model is documented on the Colombo manufacturer page, i
 ## Sources checked
 1. Colombo Audio Electronics - November Child: https://colomboaudioelectronics.it/prodotto/november-child-slash/?lang=en
 2. Colombo Audio Electronics - Pedals / construction: https://colomboaudioelectronics.it/pedals/?lang=en
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Colombo Audio Electronics's November Child is cataloged as a distortion / overdrive pedal.
+
+### Verified sound evidence
+November Child - Electric guitar pedal - Slash-Style Overdrive, Distortion, Silver Jubilee, S.I.R.
+
+### Sources checked in this pass
+1. November Child - Electric guitar pedal - Slash-Style Overdrive, Distortion, Silver Jubilee, S.I.R. Marshall - Colombo Audio Electronics: https://colomboaudioelectronics.it/prodotto/november-child-slash/?lang=en

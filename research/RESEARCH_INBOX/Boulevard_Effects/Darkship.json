@@ -1,0 +1,41 @@
+{
+  "builder": "Boulevard Effects",
+  "pedal": "Darkship",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 4,
+  "sources": [
+    {
+      "url": "https://reverb.com/item/80160173-boulevard-effects-darkship-fuzz-delay",
+      "title": "catalog/override source",
+      "h1": "",
+      "excerpt": "",
+      "host": "reverb.com",
+      "source_kind": "reverb"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=2z9scF4_ccw",
+      "title": "DARKSHIP - Boulevard Effects - YouTube",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.youtube.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://www.abbeyroadgear.com/product/boulevard-effects-darkship43331/",
+      "title": "Boulevard Effects Darkship - Capture Legendary British Studio Quality ...",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.abbeyroadgear.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://www.bestmusiccompanion.com/product/boulevard-effects-darkship/",
+      "title": "Boulevard Effects Darkship - bestmusiccompanion.com",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.bestmusiccompanion.com",
+      "source_kind": "other"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}

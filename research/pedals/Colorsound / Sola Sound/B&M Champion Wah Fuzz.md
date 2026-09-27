@@ -44,3 +44,18 @@ The Effects Database exact-model record provides historical B&M Champion Wah Fuz
 ## Sources checked
 1. Effects Database - B&M Champion Wah Fuzz: https://www.effectsdatabase.com/model/champion/champion/wahfuzz
 2. Reverb/eBay-era listings can corroborate the B&M wah/fuzz enclosure, but model identity should be verified before accepting individual marketplace photographs.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Colorsound / Sola Sound's B&M Champion Wah Fuzz is cataloged as a fuzz pedal.
+
+### Verified sound evidence
+It combines the classic Colorsound-style wah circuit with a powerful fuzz section derived from the Jumbo Tone Bender design, creating a unit capable of both smooth filter sweeps and heavy, sustaining distortion.
+Sharing its circuit lineage with other private-label Sola Sound builds such as the CSL, G.B., R.K.I., and West Wood variants, the Champion Wah Fuzz delivers the characteristic Colorsound tone - broad sweep, rich harmonics, and aggressive fuzz texture.
+The wah section provides a long, vocal sweep with a throaty response, while the fuzz circuit produces dense, saturated tones with pronounced low-end and sustain suitable for both guitar and bass.
+
+### Sources checked in this pass
+1. B&M Champion Wah Fuzz | Effects Database: https://www.effectsdatabase.com/model/champion/champion/wahfuzz

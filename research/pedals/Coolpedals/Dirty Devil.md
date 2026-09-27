@@ -58,3 +58,19 @@ The three Mode positions provide TS, NT (No Teeth), and DS (Distortion) voicings
 1. GuitarWorld.de - Coolpedals Dirty Devil review, June 12, 2008: https://www.guitarworld.de/forum/threads/review-coolpedals-dirty-devil-od-ds-boost.15886/
 2. Audiofanzine - Coolpedals Dirty Devil: https://en.audiofanzine.com/other-guitar-saturation-effect/coolpedals/Dirty-Devil/
 3. Reverb - Coolpedals Dirty Devil 2009 listing: https://reverb.com/item/95988655-boutique-coolpedals-dirty-devil-2009-distor-tube-screamer-boost
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Coolpedals's Dirty Devil is cataloged as a distortion / overdrive pedal.
+
+### Verified version references
+- The evidence references: v15.
+
+### Sources checked in this pass
+1. catalog/override source: https://reverb.com/item/95988655-boutique-coolpedals-dirty-devil-2009-distor-tube-screamer-boost
+2. Nur ein kurzer Sicherheitscheck ...: https://www.guitarworld.de/forum/threads/review-coolpedals-dirty-devil-od-ds-boost.15886/
+3. Coolpedals Dirty Devil - Other guitar saturation effect - Audiofanzine: https://en.audiofanzine.com/other-guitar-saturation-effect/coolpedals/Dirty-Devil/
+4. Coolpedals Dirty Devil - Saturation multiple ou autre saturation guitare - Audiofanzine: https://fr.audiofanzine.com/saturation-multiple-ou-autre-saturation-pour-guitare/coolpedals/Dirty-Devil/

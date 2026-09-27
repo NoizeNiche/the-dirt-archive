@@ -51,3 +51,28 @@ ToneHome, Kit Rae, and historical Colorsound material provide model-specific Ove
 2. Kit Rae - Colorsound Power Boost and Overdriver: https://www.kitrae.net/music/Music_mp3_Colorsound_Sound.html
 3. Aion FX - Plasma Vintage Drive, based on Colorsound Overdriver: https://aionfx.com/project/plasma-vintage-drive/
 4. Colorsound historical article / trade material: https://www.worldradiohistory.com/Archive-All-Music/International-Musician-%26-Recording-World/International-Musician-1978-03.pdf
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Very few of those vintage Overdriver pedals are left unmodded.
+
+### Verified color/finish evidence
+- 7, 2026 Eurotec Black Box Faze Module, England 1980s, exc.+ Ibanez No.
+- Jeff Beck using a Colorsound Overdriver in 1972 (left) and David Gilmour using the Power Boost on stage with Pink Floyd in the Netherlands in 1972 (right) The Power Boost/Overdriver is a very versatile pedal with a number of uses.
+
+### Verified version references
+- The evidence references: v2, v3.
+
+### Verified sound evidence
+Dixi CBS/Arbiter Colorsound/Sola Sound Flanger FuzzPhaze Fuzz Phazer G.B.
+Swell Gemco Tonebender Gemco WahFuzzSwell Mighty Atom Octivider Overdriver Park Wah-Swell Ring Modulator Supa Tonebender Supa Wah-Fuzz Supa Wah-Fuzz-Swell Supa Wah-Swell Supa Wah Wah Tone Bender Jumbo Tone Bender Mk.
+IV Tone Bender yellow hybrid Tremolo Wah-Fuzz-Straight Wah-Swell Wow Fuzz CosmoSound Dharma Sound EKO Electro-Harmonix Electronic Sounds Elka Dizzy Tone Eurotec fOXX Futuristic Sounds Goldsound Höfner/Hofner Ibanez InterFax Jen Jennings Electr.
+
+### Sources checked in this pass
+1. TONEHOME - the World of Vintage Guitar Effects Pedals - Overdriver: https://www.tonehome.de/colorsound-sola-sound/overdriver/
+2. Macari’s product page for the Colorsound Overdriver: http://www.macaris.co.uk/colorsound/Colorsound-Pedals/Standard-colorsound-series/p/overdriver.aspx
+3. Colorsound Overdriver and Power Boost: http://www.kitrae.net/music/Music_mp3_Colorsound_Sound.html
+4. Plasma Vintage Drive / Colorsound Overdriver - Aion FX: https://aionfx.com/project/plasma-vintage-drive/

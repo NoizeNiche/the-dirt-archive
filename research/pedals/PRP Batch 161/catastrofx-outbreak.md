@@ -15,3 +15,24 @@
 - **Sound:** Covers two distinct overdrive voices, moving from lower-gain dynamics to a higher-gain, harder-clipping character.
 - **Research confidence:** High for identity and controls; moderate for component-level details.
 - **Sources checked:** https://www.guitarpedalx.com/news/catastrofx-combines-high-velocity-and-southerly-harmonic-overdrives-in-its-singularly-potent-and-fantastic-sounding-dual-voiced-outbreak-pedal
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+I have long owned both the pedals that the Outbreak is based on, and I can vouch for the fact that that Charlie has done a superb job in carrying the full feel and dynamics of those originals across to that single board.
+
+### Verified color/finish evidence
+- The Outbreak is a highly striking design - beautifully UV-printed onto a Silver Sparkle enclosure - it’s already a marvel of a pedal - but then you find out it’s only £80, in fact when I bought mine it was discounted to £60 - I think it still is!
+
+### Verified sound evidence
+This is pretty much a blow-by-blow remake of those High Velocity and Southerly Harmonic Overdrive circuits while they’ve been combined here onto the one circuitboard.
+Controls : Level, Tone, Drive, Stage : Up is High Velocity / Down is Southerly Harmonics - and adds a hard-clipping gain stage into the mix.
+I’m not even going to dwell on the economics of the pedal - which is spectacularly well priced - I’m rather going to focus on the practicalities of having two of he best loved overdrive circuit in the same enclosure - which means it’s even easier to fit both of them onto your board.
+
+### Sources checked in this pass
+1. catalog/override source: https://reverb.com/item/91582678-catastrofx-pedals-outbreak-overdrive-preorder
+2. Guitar Pedal X - News - CatastroFX combines High Velocity and Southerly Harmonic Overdrives in its singularly potent and fantastic sounding Dual-Voiced Outbreak pedal: https://www.guitarpedalx.com/news/catastrofx-combines-high-velocity-and-southerly-harmonic-overdrives-in-its-singularly-potent-and-fantastic-sounding-dual-voiced-outbreak-pedal
+3. JavaScript is not available.: https://x.com/intent/tweet?text=https://www.guitarpedalx.com/news/catastrofx-combines-high-velocity-and-southerly-harmonic-overdrives-in-its-singularly-potent-and-fantastic-sounding-dual-voiced-outbreak-pedal&title=CatastroFX%20combines%20High%20Velocity%20and%20Southerly%20Harmonic%20Overdrives%20in%20its%20singularly%20potent%20and%20fantastic%20sounding%20Dual-Voiced%20Outbreak%20pedal
+4. Facebook: https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fshare_channel%2F%3Ftype%3Dreshare%26link%3Dhttps%253A%252F%252Fwww.guitarpedalx.com%252Fnews%252Fcatastrofx-combines-high-velocity-and-southerly-harmonic-overdrives-in-its-singularly-potent-and-fantastic-sounding-dual-voiced-outbreak-pedal%26app_id%3D966242223397117%26source_surface%3Dexternal_reshare%26display%26hashtag

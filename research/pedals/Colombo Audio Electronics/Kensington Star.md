@@ -46,3 +46,21 @@ The exact Kensington Star model is documented on Colombo's manufacturer page and
 2. RockBoard pedalPedia - Kensington Star: https://www.rockboard.de/en/pedalPedia/Colombo-Audio-Electronics/Kensington-Star/68976881/
 3. Colombo Audio Electronics - Pedals / construction: https://colomboaudioelectronics.it/pedals/?lang=en
 4. Reverb - Colombo Audio Electronics Kensington Star: https://reverb.com/item/39007983-colombo-audio-electronics-kensington-star-preamp-blue-alnico-simulator
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Colombo Audio Electronics's Kensington Star is cataloged as an overdrive pedal.
+
+### Verified transistor/device terms
+- AC30.
+
+### Verified sound evidence
+Kensington Star - Electric guitar pedal - Vox Preamp, Cabinet Simulator, Overdrive - Colombo Audio Electronics /*!
+
+### Sources checked in this pass
+1. Kensington Star - Electric guitar pedal - Vox Preamp, Cabinet Simulator, Overdrive - Colombo Audio Electronics: https://colomboaudioelectronics.it/prodotto/kensington-star/?lang=en
+2. Kensington Star by Colombo Audio Electronics | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/Colombo-Audio-Electronics/Kensington-Star/68976881/
+3. catalog/override source: https://reverb.com/item/39007983-colombo-audio-electronics-kensington-star-preamp-blue-alnico-simulator

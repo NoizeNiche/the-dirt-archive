@@ -38,3 +38,17 @@ The manufacturer maintains a dedicated Blackface Idol product page with model-sp
 1. Colombo Audio Electronics - Blackface Idol: https://colomboaudioelectronics.it/prodotto/blackface-idol/?lang=en
 2. Colombo Audio Electronics - Pedals: https://colomboaudioelectronics.it/pedals/?lang=en
 3. Reverb - Colombo Audio Electronics Blackface Idol: https://reverb.com/item/85420430-colombo-audio-electronics-blackface-idol-fender-style-overdrive-twin-deluxe-reverb
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Colombo Audio Electronics's Blackface Idol is cataloged as an overdrive pedal.
+
+### Verified sound evidence
+Blackface Idol - Electric guitar pedal - Fender-Style Twin, Super, Deluxe Reverb Overdrive - Colombo Audio Electronics /*!
+
+### Sources checked in this pass
+1. Blackface Idol - Electric guitar pedal - Fender-Style Twin, Super, Deluxe Reverb Overdrive - Colombo Audio Electronics: https://colomboaudioelectronics.it/prodotto/blackface-idol/?lang=en
+2. catalog/override source: https://reverb.com/item/85420430-colombo-audio-electronics-blackface-idol-fender-style-overdrive-twin-deluxe-reverb

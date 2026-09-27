@@ -46,3 +46,24 @@ Only photographs matching a specific generation's enclosure, label, controls, an
 ## Sources checked
 1. David Morrin - Sola Sound Tone Bender: https://sites.google.com/site/davidmorrinoldsite/home/trouble/troubleeffects/sola-sound-tone-bender
 2. GuitarPlayer - The Sola Sound Tone Bender and the Early Evolution of the Fuzz Pedal: https://www.guitarplayer.com/gear/the-sola-sound-tone-bender-and-the-early-evolution-of-the-fuzz-pedal
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+The Sola Sound Tone Bender and the Early Evolution of the Fuzz Pedal
+
+### Verified version references
+- The evidence references: V2.
+
+### Verified diode terms
+- LEDs.
+
+### Verified sound evidence
+Shunt Feedback Clipping Diodes Transformer to Diode Frequency Doubler Fuzz Face Gregory ADD-VERB Gretsch Controfuzz Gretsch Expandafuzz Guyatone VT-3 Heathkit TA-28 Fuzz Booster Hiwatt Custom Tape Echo Ibanez 850 Overdrive Ibanez Tube Screamer Line 6 DL4 Disassembly
+The Sola Sound Tone Bender and the Early Evolution of the Fuzz Pedal
+
+### Sources checked in this pass
+1. David Morrin - Sola Sound Tone Bender: https://sites.google.com/site/davidmorrinoldsite/home/trouble/troubleeffects/sola-sound-tone-bender
+2. The Sola Sound Tone Bender and the Early Evolution of the Fuzz Pedal | GuitarPlayer: https://www.guitarplayer.com/gear/the-sola-sound-tone-bender-and-the-early-evolution-of-the-fuzz-pedal

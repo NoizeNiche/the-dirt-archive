@@ -46,3 +46,16 @@ The official Colombo The One page and a current product/review ecosystem provide
 1. Colombo Audio Electronics - The One: https://colomboaudioelectronics.it/prodotto/theone/?lang=en
 2. Brett Kingman - Colombo Audio Electronics: the ONE. JMP-1-style Overdrive/Distortion: https://www.youtube.com/watch?v=nzSJcGRZlEg
 3. Colombo Audio Electronics - Custom Pedals / workshop: https://colomboaudioelectronics.it/pedali-custom/
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Colombo Audio Electronics's The One is cataloged as a distortion / overdrive pedal.
+
+### Verified sound evidence
+The One - Electric guitar pedal - 90s Marshall JMP-1 Style Overdrive, Distortion - Colombo Audio Electronics /*!
+
+### Sources checked in this pass
+1. The One - Electric guitar pedal - 90s Marshall JMP-1 Style Overdrive, Distortion - Colombo Audio Electronics: https://colomboaudioelectronics.it/prodotto/theone/?lang=en

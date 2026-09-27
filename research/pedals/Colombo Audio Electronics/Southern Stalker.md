@@ -46,3 +46,18 @@ The Colombo pedal catalog provides the exact model listing; Begnis Music has a c
 1. Colombo Audio Electronics - Pedals catalog: https://colomboaudioelectronics.it/pedals/?lang=en
 2. Begnis Music - Colombo Audio Electronics Southern Stalker: https://www.begnismusic.com/pedali-singoli/colombo-audio-electronics-southern-stalker-srv-boost-treble-booster-4444.html
 3. Colombo Audio Electronics - Treble Booster article: https://colomboaudioelectronics.it/blog/2020/06/10/treble-booster-why/
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Colombo Audio Electronics's Southern Stalker is cataloged as an overdrive pedal.
+
+### Verified sound evidence
+COLOMBO AUDIO ELECTRONICS Southern Stalker - SRV Boost/Treble Booster CONTATTI: 035/4592832
+Home EFFETTI Pedali Singoli COLOMBO AUDIO ELECTRONICS Southern Stalker - SRV Boost/Treble Booster   COLOMBO AUDIO ELECTRONICS Southern Stalker - SRV Boost/Treble Booster Cod.
+Il pedale è composto fisicamente da 2 circuiti ben distinti: Un Boost designato specificatamente per lavorare su determinate frequenze; Un Preamp/Overdrive che ricrea il tipico break-up degli amplificatori a valvole americani.
+
+### Sources checked in this pass
+1. COLOMBO AUDIO ELECTRONICS Southern Stalker - SRV Boost/Treble Booster: https://www.begnismusic.com/pedali-singoli/colombo-audio-electronics-southern-stalker-srv-boost-treble-booster-4444.html

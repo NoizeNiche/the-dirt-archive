@@ -24,3 +24,19 @@ With Gain, Tone and Level controls, the pedal can move from open, aggressive dis
 
 ## Archive photo
 - **Archive status:** **No Photo Archived**
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+A precision Texas Instruments op amp was chosen for the circuit, selected as the closest modern equivalent to the LM308 chip found in some classic distortion pedals.
+
+### Verified sound evidence
+Unlike an overdrive circuit, where the op amp handles amplification directly, the GR8T generates distortion from gain stages positioned after the op amp, resulting in a different response to guitar volume and dynamics.
+The GR8T is based around a single gain stage, which keeps the circuit quiet while maintaining clarity, note definition, and pure guitar tone.
+Starting with no compression, each step clockwise increases compression and reshapes the distortion waveform, offering eight unique voices in one pedal.
+
+### Sources checked in this pass
+1. catalog/override source: https://reverb.com/item/94164107-bob-burt-gr8t-distortion
+2. Bob Burt GR8T Distortion | Effects Database: https://www.effectsdatabase.com/model/bobburt/gr8t

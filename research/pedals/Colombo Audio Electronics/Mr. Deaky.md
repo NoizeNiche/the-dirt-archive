@@ -45,3 +45,22 @@ The exact model is documented on Colombo's manufacturer page with model-specific
 ## Sources checked
 1. Colombo Audio Electronics - Mr. Deaky: https://colomboaudioelectronics.it/prodotto/mr-deaky/?lang=en
 2. Colombo Audio Electronics - Pedals / construction: https://colomboaudioelectronics.it/pedals/?lang=en
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Colombo Audio Electronics's Mr. Deaky is cataloged as a distortion pedal.
+
+### Verified transistor/device terms
+- AC30.
+
+### Verified sound evidence
+Deaky - Electric guitar pedal - Deacy Amp, Distortion - Colombo Audio Electronics /*!
+
+### Sources checked in this pass
+1. Mr. Deaky - Electric guitar pedal - Deacy Amp, Distortion - Colombo Audio Electronics: https://colomboaudioelectronics.it/prodotto/mr-deaky/?lang=en
+2. Mr. Deaky by Colombo Audio Electronics | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/Colombo-Audio-Electronics/Mr-Deaky/68976883/
+3. Distortion and Preamp Pedal Mr. Deaky - Handmade Sound: https://www.handmadesound.com/en/product/distortion-and-preamp-pedal-mr-deaky-colombo-audio-electronics/
+4. Colombo Audio Electronics Mr. Deaky - Reverb: https://reverb.com/item/58731910-colombo-audio-electronics-mr-deaky

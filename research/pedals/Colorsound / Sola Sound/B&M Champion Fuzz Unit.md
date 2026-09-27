@@ -50,3 +50,16 @@ Reverb and historical pedal-reference sources provide exact B&M/Champion Fuzz Un
 2. Premier Guitar - The Mighty Tone Bender Fuzz: https://www.premierguitar.com/gear/fifty-years-of-filth-the-story-of-the-mighty-tone-bender-fuzz?page=2
 3. Reverb - Vintage B&M Fuzz Unit listings: https://reverb.com/uk/item/91450474-vintage-70-s-barnes-and-mullins-b-m-fuzz-unit-by-colorsound-clean
 4. Effects Database - B&M Champion Fuzz Unit: https://www.effectsdatabase.com/model/champion/champion/fuzzunit
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Colorsound / Sola Sound's B&M Champion Fuzz Unit is cataloged as a fuzz pedal.
+
+### Verified version references
+- The evidence references: MK3.
+
+### Sources checked in this pass
+1. Buzz the Fuzz - all about Tone Bender: B&M - (Champion) Fuzz Unit: https://thetonebender.blogspot.com/2012/04/b-champion-fuzz-unit.html

@@ -52,3 +52,23 @@ The exact Effects Database FY-2 record and Shin-ei's dedicated Companion FY-2 re
 2. Shin-ei - Companion FY-2 Fuzz Box Reproduction: https://shin-ei.com/COMPANION-FY2-FUZZ-BOX
 3. Tone Machines - Companion FY-2 historical version review: https://www.youtube.com/watch?v=VjbVKLmDcjg
 4. Joe Perkins - Shin-ei Companion FY-2 demonstration: https://www.youtube.com/watch?v=4nSgQaqNKs0
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Shin-ei Companion FY-2 Fuzz Box 5127999788 My Account Register Login Shopping Cart Checkout 0 item(s) - $0.00 Your shopping cart is empty!
+
+### Verified color/finish evidence
+- Solid steel construction - Original style paint (on black units) Vintage style 9 Volt battery powered with EZ Release stainless steel bottom panel.
+- Companion FY-2 Fuzz Box Reproduction Brands Shin-ei Product Code:FY-2 Availability:In Stock $349.00 Available Options COLOR Woodstock White Sea Foam Fuzz Metallic Green (+$20.00) Qty Add to Cart Related Products Vibe-Bro Chorus-Vibrato Pedal U.S.
+- $495.00 Add to Cart Astron FY-6 " Super Fuzz" BLACK FRIDAY SPECIAL PRICING!!!10% OFF COUPON FOR FUTURE PURCHASES!!
+
+### Verified sound evidence
+Shin-ei Companion FY-2 Fuzz Box 5127999788 My Account Register Login Shopping Cart Checkout 0 item(s) - $0.00 Your shopping cart is empty!
+Companion FY-2 Fuzz Box Reproduction Description NEW FY-2 SHIN-EI COMPANION FUZZ BOX REPRODUCTION !
+Awesome reproduction of the original vintage 1960's Shin-ei Companion FY-2 Fuzz!
+
+### Sources checked in this pass
+1. Shin-ei Companion FY-2 Fuzz Box: https://shin-ei.com/COMPANION-FY2-FUZZ-BOX

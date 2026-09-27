@@ -26,3 +26,13 @@ The mode switch changes the voicing between a more Tube Screamer-like response a
 
 ## Archive photo
 - **Archive status:** **No Photo Archived**
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Bootlegger Guitar's Shifty's 8 Ball Boost Drive Analog 12AT7 is cataloged as an overdrive pedal.
+
+### Sources checked in this pass
+1. Shifty’s 8 Ball Boost Drive Analog 12AT7 Electro-Harmonix Tube Pedal: https://www.bootleggerguitar.com/product-page/shiftys-8-ball-boost-drive-analog-12at7-electro-harmonix-tube-pedal

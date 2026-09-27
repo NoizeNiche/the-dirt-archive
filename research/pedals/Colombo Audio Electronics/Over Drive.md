@@ -48,3 +48,16 @@ The official Colombo product page is the primary exact-model photo source; Effec
 1. Colombo Audio Electronics - Over Drive: https://colomboaudioelectronics.it/prodotto/over-drive-1977/?lang=en
 2. Effects Database - Colombo Audio Electronics Over Drive: https://www.effectsdatabase.com/model/colombo/overdrive
 3. Colombo Audio Electronics - Custom Pedals / workshop: https://colomboaudioelectronics.it/pedali-custom/
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Colombo Audio Electronics's Over Drive is cataloged as an overdrive pedal.
+
+### Verified sound evidence
+Over Drive – Boutique Vintage Overdrive - 1977 Quad Op-Amp - Electric guitar pedal - Colombo Audio Electronics /*!
+
+### Sources checked in this pass
+1. Over Drive – Boutique Vintage Overdrive - 1977 Quad Op-Amp - Electric guitar pedal - Colombo Audio Electronics: https://colomboaudioelectronics.it/prodotto/over-drive-1977/?lang=en

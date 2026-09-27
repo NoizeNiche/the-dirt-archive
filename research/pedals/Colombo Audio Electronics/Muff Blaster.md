@@ -51,3 +51,17 @@ The official Colombo product page and an exact-model Reverb listing provide mode
 1. Colombo Audio Electronics - Muff Blaster: https://colomboaudioelectronics.it/prodotto/muffblaster/?lang=en
 2. Colombo Audio Electronics - Pedals / construction: https://colomboaudioelectronics.it/pedals/?lang=en
 3. Reverb - Colombo Audio Electronics Muff Blaster: https://reverb.com/au/item/66790174-colombo-audio-electronics-muff-blaster-fuzz-distortion-big-muff
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Colombo Audio Electronics's Muff Blaster is cataloged as a distortion / fuzz pedal.
+
+### Verified sound evidence
+Muff Blaster - Electric guitar pedal - Distortion, Fuzz, Muff - Colombo Audio Electronics /*!
+
+### Sources checked in this pass
+1. catalog/override source: https://reverb.com/au/item/66790174-colombo-audio-electronics-muff-blaster-fuzz-distortion-big-muff
+2. Muff Blaster - Electric guitar pedal - Distortion, Fuzz, Muff - Colombo Audio Electronics: https://colomboaudioelectronics.it/prodotto/muffblaster/?lang=en

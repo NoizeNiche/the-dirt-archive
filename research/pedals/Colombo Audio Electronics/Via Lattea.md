@@ -48,3 +48,16 @@ The official Via Lattea page contains model-specific imagery; Digimart also docu
 1. Colombo Audio Electronics - Via Lattea: https://colomboaudioelectronics.it/prodotto/via-lattea/?lang=en
 2. Digimart - Colombo Audio Electronics Via Lattea: https://www.digimart.net/cat13/shop4984/DS09084641/
 3. Colombo Audio Electronics - Custom Pedals / workshop: https://colomboaudioelectronics.it/pedali-custom/
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Colombo Audio Electronics's Via Lattea is cataloged as an overdrive pedal.
+
+### Verified sound evidence
+Via Lattea - Electric guitar pedal - Overdrive, Booster - Colombo Audio Electronics /*!
+
+### Sources checked in this pass
+1. Via Lattea - Electric guitar pedal - Overdrive, Booster - Colombo Audio Electronics: https://colomboaudioelectronics.it/prodotto/via-lattea/?lang=en

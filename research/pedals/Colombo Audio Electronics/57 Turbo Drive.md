@@ -36,3 +36,16 @@ The manufacturer maintains a dedicated 57 Turbo Drive product page with model-sp
 1. Colombo Audio Electronics - 57 Turbo Drive: https://colomboaudioelectronics.it/prodotto/57turbodrive/?lang=en
 2. Reverb - Colombo Audio Electronics 57 Turbo Drive: https://reverb.com/de/item/94246340-57-turbo-drive-boutique-overdrive-boost-50s-fender-style-handmade-in-italy
 3. Colombo Audio Electronics - Pedals: https://colomboaudioelectronics.it/pedals/?lang=en
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Colombo Audio Electronics's 57 Turbo Drive is cataloged as an overdrive pedal.
+
+### Verified sound evidence
+57 Turbo Drive – The Legendary Overdrive & Boost Inspired by ’50s Fender - Colombo Audio Electronics /*!
+
+### Sources checked in this pass
+1. 57 Turbo Drive – The Legendary Overdrive & Boost Inspired by ’50s Fender - Colombo Audio Electronics: https://colomboaudioelectronics.it/prodotto/57turbodrive/?lang=en

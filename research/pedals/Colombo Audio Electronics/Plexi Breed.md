@@ -53,3 +53,20 @@ The official Plexi Breed product page provides exact-model imagery, with additio
 1. Colombo Audio Electronics - Plexi Breed: https://colomboaudioelectronics.it/prodotto/plexi-breed/?lang=en
 2. Colombo Audio Electronics - Custom Pedals / workshop: https://colomboaudioelectronics.it/pedali-custom/
 3. RockBoard PedalPedia - Plexi Breed: https://www.rockboard.de/en/pedalPedia/Colombo-Audio-Electronics/Plexi-Breed/68976889/
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+COLUMBO AUDIO ELECTRONICS PLEXI BREED OD $230.00 USD None of this is new a lot of pedals boast to cover all the classic Marshalls.
+
+### Verified sound evidence
+Plexi Breed - Electric guitar pedal - Plexi 1987, 1959, JTM45 Overdrive, Distortion, Preamp - Colombo Audio Electronics /*!
+STOMP BOX STEALS: OVERDRIVE- COLUMBO AUDIO ELECTRONICS Plexi Breed ...total KILLER !!!!
+Ewing / LENARD Re-Inventions View my complete profile Saturday, May 8, 2021 OVERDRIVE- COLUMBO AUDIO ELECTRONICS Plexi Breed ...total KILLER !!!!
+
+### Sources checked in this pass
+1. Plexi Breed - Electric guitar pedal - Plexi 1987, 1959, JTM45 Overdrive, Distortion, Preamp - Colombo Audio Electronics: https://colomboaudioelectronics.it/prodotto/plexi-breed/?lang=en
+2. Plexi Breed by Colombo Audio Electronics | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/Colombo-Audio-Electronics/Plexi-Breed/68976889/
+3. STOMP BOX STEALS: OVERDRIVE- COLUMBO AUDIO ELECTRONICS Plexi Breed ...total KILLER !!!!: https://stompboxsteals.blogspot.com/2021/05/overdrive-columbo-audio-electronics_8.html

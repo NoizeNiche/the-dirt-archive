@@ -16,3 +16,23 @@
 - **Sources checked:**
   - https://www.effectsdatabase.com/model/catseye/hophed
   - https://reverb.com/uk/item/6975190-cat-s-eye-hop-hed-fuzztone-owned-by-j-mascis
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Cat's Eye ESP's Hop Hed Fuzztone is cataloged as a fuzz pedal.
+
+### Verified version references
+- The evidence references: MK III, Mk 1, Mk I, Mk II, MkI.
+
+### Verified transistor/device terms
+- germanium fuzz.
+
+### Verified sound evidence
+The Hop Hed Fuzztone faithfully reproduces Jimmy Page's Zeppelin era tone as well as many other classic fuzz sounds.
+
+### Sources checked in this pass
+1. catalog/override source: https://reverb.com/uk/item/6975190-cat-s-eye-hop-hed-fuzztone-owned-by-j-mascis
+2. Cat's Eye Hop Hed Fuzztone | Effects Database: https://www.effectsdatabase.com/model/catseye/hophed

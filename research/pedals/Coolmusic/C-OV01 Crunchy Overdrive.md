@@ -51,3 +51,13 @@ Coolmusic describes the Tone/Gain combination as producing smooth, warm, classic
 ## Sources checked
 1. Coolmusic official guitar-effects manual, C-OV01 / CRUNCHY Overdrive: https://www.coolmusic-tech.com/public/uploads/files/20210730/cefdbb91ba84309da1436720d0c02726.pdf
 2. Effects Database - Coolmusic C-OV01 Crunchy Overdrive: https://www.effectsdatabase.com/model/coolmusic/cov01
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Coolmusic's C-OV01 Crunchy Overdrive is cataloged as an overdrive pedal.
+
+### Sources checked in this pass
+1. Analog Guitar Pedal - COOLMUSIC: https://www.coolmusic-tech.com/lists/20.html

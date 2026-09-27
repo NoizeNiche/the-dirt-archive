@@ -16,3 +16,22 @@
 - **Sources checked:**
   - https://carolineguitar.com/so-what-is-the-difference-between/
   - https://www.effectsdatabase.com/model/caroline/haymaker
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Products Artists About Retailers Blog My account Checkout Cart So what is the difference between… September 27, 2015 Haymaker vs.
+
+### Verified version references
+- The evidence references: MKII, v1.
+
+### Verified sound evidence
+Wave Cannon 1/Cannonball: This was the pedal that got us started in 2010, and it’s based on a classic 1970s DOD OD-250/ Proco Rat style frame: single op-amp pushed really hard, hard clipping to ground, and a discrete transistor buffer between the tone and volume control.
+Haymaker: We released Haymaker in 2014 after people asked us to make the overdrive preamp from our Kilobyte® delay into its own pedal.
+Haymaker, while sharing the Ruetz-inspired Shape control and a low-pass filter for a tone control, can sound really different from WC1.
+
+### Sources checked in this pass
+1. catalog/override source: https://www.effectsdatabase.com/model/caroline/haymaker
+2. So what is the difference between... - Caroline Guitar Company - Caroline Guitar Company: https://carolineguitar.com/so-what-is-the-difference-between/

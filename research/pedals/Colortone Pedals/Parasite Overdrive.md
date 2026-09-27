@@ -53,3 +53,22 @@ The current Colortone product page provides exact-model Parasite imagery, and th
 1. Colortone Pedals - Parasite Overdrive 2024: https://www.colortonepedals.com/shop-colortone-pedal-effects/p/parasite-overdrive-2024
 2. Colortone Pedals - Parasite Overdrive: https://www.colortonepedals.com/shop-colortone-pedal-effects/p/parasite
 3. Joe's Pedals - Parasite Overdrive 2026: https://joespedals.com/products/parasite-overdrive-2026
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Colortone Pedals's Parasite Overdrive is cataloged as an overdrive pedal.
+
+### Verified color/finish evidence
+- (Colortone recommends use of an isolated clean Power Supply) Parasite Overdrive 2026 Similar Articles Lightspeed Organic Overdrive (WTB) $309.60 Lightspeed Organic Overdrive (Snow White) $309.60 Dungeon Crawler $309.60 View more joes-pedals-logo Created with Sketch.
+
+### Verified sound evidence
+The Parasite offers great touch sensitivity, cleanup, and dynamic response.
+At a mild drive setting the PARASITE can act as an ‘always on’ pre-amp style device adding a light organic textural sparkle to your clean sound.
+With larger amounts of drive you’ll start feeling the creamy tubelike compression, tonal breakup and harmonic complexity of a driven tube amp.
+
+### Sources checked in this pass
+1. Parasite Overdrive — COLORTONE2: https://www.colortonepedals.com/shop-colortone-pedal-effects/p/parasite-overdrive-2024
+2. Parasite Overdrive 2026 – Joe's Pedals: https://joespedals.com/products/parasite-overdrive-2026
