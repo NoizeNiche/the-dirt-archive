@@ -1,23 +1,42 @@
 # Mythos Pedals — Argo Octave Fuzz
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Argo Octave Fuzz
 - **Builder:** Mythos Pedals
-- **Pedal:** Argo Octave Fuzz
 - **Catalog type:** Distortion / Fuzz
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Mythos Pedals's Argo Octave Fuzz.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Argo Octave Fuzz** by **Mythos Pedals** as a **Distortion / Fuzz** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Mythos Pedals's Argo Octave Fuzz is cataloged as a distortion / fuzz pedal.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+For further details contact us at https://mythospedals.com/pages/contact Set Sail on a sea of Fuzz Blend in the perfect octave fuzz tone Not Your Normal Octave Fuzz The Argo is inspired by the now legendary "COB" fuzz box and pushes it into a slightly more aggressive direction.
+This Octave Up Fuzz has a very familiar tone to all the classic records we know and love but has one feature those vintage units never had, a blend control.
+The Argo is great as a stand alone fuzz box but if you utilize the blend feature you can combine it with other gain pedals to achieve sounds not normally found in a solitary unit.
+
+## Sources checked
+1. Argo Octave Fuzz &ndash; Mythos Pedals: https://mythospedals.com/products/argo-octave-fuzz
+2. Mythos Pedals Argo Octave Fuzz - Reverb: https://reverb.com/p/mythos-pedals-argo-octave-fuzz
+3. Mythos Pedals Argo Octave Fuzz Pedal | Equipboard: https://equipboard.com/items/mythos-pedals-argo-octave-fuzz
+4. Mythos Pedals Argo Octave Fuzz - American Musical Supply: https://www.americanmusical.com/p/mythos-pedals-argo-octave-fuzz
+5. Mythos Pedals Argo Octave Fuzz | Effects & pedal: https://www.guitarrockly.com/product/mythos-pedals-argo-octave-fuzz/
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
