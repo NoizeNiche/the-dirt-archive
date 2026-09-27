@@ -1,18 +1,18 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-27T21:04:25.339297+00:00",
+  "generated_at": "2026-09-27T21:07:13.942377+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
   "counts": {
-    "total": 4236,
-    "researched": 3742,
-    "pictured": 3379,
-    "complete": 3379,
+    "total": 4206,
+    "researched": 3739,
+    "pictured": 3376,
+    "complete": 3376,
     "research_pending": 0,
-    "deep_research_pending": 358,
-    "deep_researched": 3878,
-    "surface_ready": 4236
+    "deep_research_pending": 357,
+    "deep_researched": 3849,
+    "surface_ready": 4206
   },
   "next_target": {
     "builder": "DLS Effect",
@@ -191,10 +191,10 @@
       "research_level": "surface"
     },
     {
-      "builder": "Dr. Scientist — Ryan Clarke / Tanya Clarke / Neil Graham",
-      "pedal": "The Elements",
+      "builder": "Drunk Beaver",
+      "pedal": "Forest Song High Voltage Overdrive",
       "catalog_type": "",
-      "research_record": "./research/pedals/Dr. Scientist — Ryan Clarke / Tanya Clarke / Neil Graham/The Elements.md",
+      "research_record": "./research/pedals/Drunk Beaver/Forest Song High Voltage Overdrive.md",
       "research_level": "surface"
     }
   ]
