@@ -4,36 +4,54 @@
 - **Archive parent:** Grand Tarkin Mk2
 - **Builder:** COG Effects
 - **Catalog type:** Fuzz
-- **Identity:** COG Effects Grand Tarkin Mk2, an expanded bass fuzz with two switchable clean/fuzz level presets.
+- **Identity:** Second-generation Grand Tarkin bass fuzz with dual Fuzz Level and Clean Level presets selected by an A/B footswitch. [1][2]
 
-## What this pedal is
-The Mk2 retains the Grand Tarkin's bass-fuzz architecture while replacing the original Blend/Level arrangement with separate Fuzz and Clean level controls and an A/B footswitch. [1]
-
-## Versions and factory options
-- Sustain.
-- Tone.
-- Mids.
-- Two Fuzz Level controls.
-- Two Clean Level controls.
-- A/B footswitch switching the two level presets.
+## Controls / architecture
+- **SUSTAIN**
+- **TONE**
+- **MIDS**
+- **FUZZ LEVEL A / B**
+- **CLEAN LEVEL A / B**
+- **A/B** footswitch.
 - Filtered clean blend.
 - True bypass.
-- 9V DC.
-- North-mounted jacks.
-- Die-cast aluminium enclosure. [1]
+- North-mounted jacks. [1]
 
-## Version changes
-The **Mk2** is explicitly the second iteration of Grand Tarkin, adding the dual preset level architecture while retaining the core sound. [1]
+## Circuit lineage
+- **Primary lineage:** COG Tarkin / Grand Tarkin, rooted in Green Russian/Muff-style fuzz.
+- Mk2 retains the bass-fuzz platform while replacing the earlier simple level/blend arrangement with stored A/B level states. [1]
 
 ## Transistor
-Green Russian-derived fuzz lineage; exact transistor part numbers not established.
+- Exact production transistor part numbers are not established.
 
-## Diode
-No exact diode part number established.
+## Diode / clipping
+- Exact diode part numbers are not established.
+
+## Power
+- **9V DC**. [1]
+- Current draw not established.
+
+## Version history
+- **Grand Tarkin:** Original bass-fuzz design.
+- **Grand Tarkin Mk2:** second-generation redesign with separate dual Fuzz/Clean level presets and A/B footswitch. [1][2]
 
 ## Sound
-The Mk2 is built for large bass fuzz sounds with low-end retention and increased punch. [1]
+The Mk2 is intended to preserve low-end punch while providing larger bass-fuzz tones and repeatable clean/fuzz blend states. The Mids control moves the response away from a fixed Muff-style mid scoop. [1]
+
+## Research confidence
+- **Identity:** High
+- **Mk2 designation:** High
+- **A/B level presets:** High
+- **Green Russian/Muff lineage:** High
+- **Exact transistor:** Unknown
+- **Exact diode:** Unknown
+
+## Deep research verification
+Effects Database and Premier Guitar's original launch coverage were cross-checked. The evidence supports the Mk2 redesign, dual preset levels, A/B switching and retention of the Grand Tarkin bass-fuzz concept. [1][2]
 
 ## Sources checked
 1. Effects Database — Grand Tarkin Mk2: https://www.effectsdatabase.com/model/cog/tarkin/grand/mk2
-2. Premier Guitar — 2016 Tarkin / Grand Tarkin announcement: https://www.premierguitar.com/cog-effects-announces-the-tarkin-and-grand-tarkin
+2. Premier Guitar — COG Effects Tarkin / Grand Tarkin announcement: https://www.premierguitar.com/cog-effects-announces-the-tarkin-and-grand-tarkin
+
+## Photo
+- Exact-model photo status remains handled by the photo lane.
