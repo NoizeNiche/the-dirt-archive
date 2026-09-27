@@ -4,55 +4,54 @@
 - **Archive parent:** Kay Fuzz
 - **Builder:** Basic Audio
 - **Catalog type:** Fuzz
-- **Identity:** Basic Audio's octave-up interpretation of the 1968 Kay Fuzz Tone / Fuzztone family.
+- **Identity:** Octave-up fuzz based on the 1968 Kay Fuzz Tone / Fuzztone family, expanded with octave, diode-lift and FAT switching. [1][2]
 
-## What this pedal is
-Kay Fuzz is an octave-up fuzz inspired by the Kay F-1 Fuzztone/Fuzz Wah family. Basic Audio describes it as lower gain and more coarse than typical Super Fuzz and Foxx Tone Machine examples, then expands the format with diode lift, octave cut and FAT switching. [1][2]
+## Controls / switching
+- **LEVEL**
+- **FUZZ**
+- **TONE**
+- **OCTAVE ON/OFF**
+- **DIODE LIFT / ENGAGE**
+- **FAT ON/OFF** [1][2]
 
-## Colorways
-- A **bright orange enclosure with silver/white speckled graphics** is documented in Basic Audio's official photograph.
-- Basic Audio notes that colors are subject to change. [1]
-
-## Versions and factory options
-### Kay Fuzz production
-- Level, Fuzz and Tone controls
-- Octave on/off switch
-- Diode lift/engage switch
-- FAT on/off switch
-- octave-up fuzz architecture
-- center-negative 9V operation
-- battery snap [1][2]
-
-The current documented six-control configuration is substantially more elaborate than the one-control-plus-treadle original Kay design described in historical references. [2]
-
-## Version changes
-The main documented evolution is from the original Kay hardware to Basic Audio's expanded three-knob/three-switch pedal. No separate numbered Basic Audio revision was verified in the sources checked. [2]
+## Circuit lineage
+- **Primary reference:** Kay F-1 Fuzztone / Kay Fuzz Tone family.
+- Basic Audio's design deliberately expands the original concept beyond the historical one-control/treadle arrangement. [2]
 
 ## Transistor
-- **Technology:** Not publicly documented in the factory sources checked.
-- **Exact transistor/device:** Unknown.
+- Factory transistor technology/part number is not reliably documented in the reviewed Basic Audio sources.
 
-## Diode
-- **Type:** The pedal has a factory diode lift/engage control, but the exact production diode type was not documented in the reliable sources checked.
-- **Exact diode/device:** Unknown.
+## Diode / clipping
+- The pedal explicitly provides a **diode lift/engage** control.
+- Exact production diode material and part number are not published. [1]
+
+## Power
+- **9V center-negative** operation with battery support. [1]
+
+## Version history
+- No numbered Basic Audio electronic revision established.
+- The main variation is the modern expanded control set and switching.
 
 ## Sound
-Kay Fuzz is deliberately rougher and lower-gain than many Super Fuzz or Foxx Tone Machine-style octave fuzzes. The octave switch provides the strong upper-harmonic voice, while diode lift and FAT let the player thin the circuit out or add weight and change the feel. [1][2]
+Kay Fuzz is intentionally coarse and lower-gain than many Super Fuzz and Foxx Tone Machine variants. The Octave switch provides the core upper-harmonic voice; Diode Lift and FAT change the clipping density and overall weight. [1][2]
 
 ## Research confidence
 - **Identity:** High
-- **Feature set:** High
-- **Factory revision history:** Moderate
+- **Kay lineage:** High
+- **Octave-up architecture:** High
+- **Six-control/switch configuration:** High
 - **Exact transistor:** Unknown
 - **Exact diode:** Unknown
-- **Sound:** High
+
+## Deep research verification
+Basic Audio's Kay Fuzz page was cross-checked with Guitar Pedal X and RockBoard references. The evidence supports the Kay lineage, octave-up function and modern Diode Lift/FAT control system. Exact component values remain unpublished. [1][2][3]
+
+## Sources checked
+1. Basic Audio — Kay Fuzz: https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplfsb3vnya-y3hb9-97e3s-cnzrr-ksfg5-kba26-xww4t-6pcam
+2. Guitar Pedal X — Kay Octave Fuzz: https://www.guitarpedalx.com/news/and-the-20th-basic-audio-acquisition-is--the-kay-octave-fuzz
+3. RockBoard / PedalPedia — Kay Fuzz: https://www.rockboard.de/en/pedalPedia/Basic-Audio/Kay-Fuzz/68975033/
 
 ## Photo
 - **Exact pedal photograph:** Basic Audio official product photograph.
 - **Direct image:** https://images.squarespace-cdn.com/content/v1/5da9e97016ddf940acffa2d3/1579140864022-IU04IOMCXZP1MH9ILEFP/DSCF0491.jpg
-- **Source page:** https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-cnzrr-ksfg5-kba26-xww4t-6pcam
-
-## Sources checked
-1. Basic Audio — Kay Fuzz: https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-cnzrr-ksfg5-kba26-xww4t-6pcam
-2. Guitar Pedal X — Kay Octave Fuzz: https://www.guitarpedalx.com/news/and-the-20th-basic-audio-acquisition-is--the-kay-octave-fuzz
-3. RockBoard / PedalPedia — Kay Fuzz: https://www.rockboard.de/en/pedalPedia/Basic-Audio/Kay-Fuzz/68975033/
+- **Source page:** Basic Audio Kay Fuzz.
