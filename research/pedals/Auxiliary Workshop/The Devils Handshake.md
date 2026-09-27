@@ -4,40 +4,49 @@
 - **Archive parent:** The Devils Handshake
 - **Builder:** Auxiliary Workshop
 - **Catalog type:** Fuzz / Overdrive
-- **Identity:** Discontinued Auxiliary Workshop hybrid fuzz/overdrive from the builder's early Australian range.
+- **Identity:** Discontinued Auxiliary Workshop fuzz/overdrive from the builder's earlier Australian range. [1]
 
 ## What this pedal is
-Guitar Pedal X lists The Devils Handshake as one of Auxiliary Workshop's established older pedals and categorizes it as a fuzz-plus-overdrive design. Public technical documentation is scarce, so the archive does not infer a particular transistor, diode or clone topology.
+The surviving catalog evidence identifies The Devils Handshake as an older Auxiliary Workshop dirt pedal combining fuzz and overdrive functions. Public technical documentation is sparse, and no authoritative schematic or detailed control sheet was located in the reviewed sources. [1][2]
 
-## Colorways
-- No reliable factory colorway history was verified.
-
-## Versions and factory options
-### The Devils Handshake
-- Fuzz + Overdrive format
-- Discontinued model
-- No verified numbered factory revision
-- Older model from the Auxiliary Workshop range
-
-## Version changes
-No numbered factory revision was verified.
+## Controls / architecture
+- **Fuzz + overdrive** format is documented.
+- The complete external control map is not reliably preserved.
+- The design should not be assigned a specific historical clone topology without additional exact-model evidence.
 
 ## Transistor
-- **Technology:** Unknown.
-- **Exact device:** Not publicly documented.
+- Exact active-device technology is not publicly documented.
 
-## Diode
-- **Type:** Unknown.
-- **Exact device:** Not publicly documented.
+## Diode / clipping
+- Exact clipping-device information is not publicly documented.
+
+## Construction / version history
+- Discontinued / older model.
+- No numbered factory revision established.
+- The surviving evidence identifies it as part of Auxiliary Workshop's earlier Australian pedal range. [1]
+
+## Power
+- No reliable exact-model voltage/current specification established.
 
 ## Sound
-The available evidence supports a hybrid fuzz/overdrive identity rather than a single narrowly defined clipping voice. Because the surviving documentation is too thin to support a detailed control-by-control account, the archive leaves its exact tonal range open rather than guessing from the name or category.
+The available evidence supports a hybrid fuzz/overdrive identity, but not a detailed component-based or frequency-specific sound description. The archive therefore keeps the tonal description intentionally restrained.
+
+## Research confidence
+- **Identity:** High
+- **Fuzz/overdrive classification:** High
+- **Discontinued/older model:** High
+- **Exact controls:** Unknown
+- **Exact active device:** Unknown
+- **Exact diode:** Unknown
+- **Power specification:** Not established
+
+## Deep research verification
+Guitar Pedal X's catalog of Australian/New Zealand builders was rechecked alongside the Auxiliary Workshop domain reference. The evidence confirms The Devils Handshake as an older fuzz/overdrive model but does not provide enough surviving technical documentation to fill component-level fields responsibly. [1][2]
 
 ## Sources checked
-1. Guitar Pedal X — Auxiliary Workshop entry: https://www.guitarpedalx.com/news/gpx-blog/best-of-australian-and-new-zealander-guitar-pedals-and-pedal-builders
-2. Auxiliary Workshop domain reference cited by Guitar Pedal X: https://auxiliaryworkshop.com/
+1. Guitar Pedal X — Best Australian and New Zealander pedals/builders: https://www.guitarpedalx.com/news/gpx-blog/best-of-australian-and-new-zealander-guitar-pedals-and-pedal-builders
+2. Auxiliary Workshop: https://auxiliaryworkshop.com/
 
 ## Photo
 - **Archive status:** **No Photo Archived**
-- **Exact-model reference checked:** https://auxiliaryworkshop.com/
-- **Archive note:** The builder's site was not accessible through the current research interface, so no exact image asset was promoted.
+- **Exact-model reference checked:** Auxiliary Workshop / Guitar Pedal X historical references.
