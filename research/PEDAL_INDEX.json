@@ -1,6 +1,6 @@
 {
   "version": "data-20260924-prp1-cbs-arbiter-fuzz-phazer-direct-lead",
-  "count": 4178,
+  "count": 4189,
   "pedals": [
     {
       "company": "1981 Inventions",
@@ -1812,6 +1812,18 @@
       "deep_research_status": "VERIFIED"
     },
     {
+      "company": "Aguilar",
+      "pedal": "Tone Hammer",
+      "types": [
+        "Overdrive"
+      ],
+      "image": null,
+      "source_page": "https://www.effectsdatabase.com/model/aguilar/tonehammer",
+      "research_record": "./research/pedals/Aguilar/Tone Hammer.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
       "company": "Airis Effects",
       "pedal": "Solar Flare Overdrive",
       "types": [
@@ -2616,6 +2628,67 @@
       "image_source_page": "https://www.rainbowmusic.co.uk/ampeg-scrambler-bass-overdrive-effects-pedal/",
       "research_level": "deep",
       "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "Ampeg",
+      "pedal": "A-1 Distortion",
+      "types": [
+        "Distortion"
+      ],
+      "image": null,
+      "source_page": "https://www.effectsdatabase.com/model/ampeg/a",
+      "research_record": "./research/pedals/Ampeg/A-1 Distortion.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Ampeg",
+      "pedal": "A-3 Over Drive",
+      "types": [
+        "Overdrive"
+      ],
+      "image": null,
+      "source_page": "https://www.effectsdatabase.com/model/ampeg/a",
+      "research_record": "./research/pedals/Ampeg/A-3 Over Drive.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Ampeg",
+      "pedal": "SCR-DI",
+      "types": [
+        "Overdrive"
+      ],
+      "image": null,
+      "source_page": "https://www.effectsdatabase.com/model/ampeg",
+      "research_record": "./research/pedals/Ampeg/SCR-DI.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Ampeg",
+      "pedal": "Scrambler",
+      "types": [
+        "Overdrive"
+      ],
+      "image": null,
+      "source_page": "https://www.effectsdatabase.com/model/ampeg",
+      "research_record": "./research/pedals/Ampeg/Scrambler.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Ampeg",
+      "pedal": "SGT-DI Bass Preamp & DI",
+      "types": [
+        "Distortion",
+        "Overdrive"
+      ],
+      "image": null,
+      "source_page": "https://www.effectsdatabase.com/model/ampeg",
+      "research_record": "./research/pedals/Ampeg/SGT-DI Bass Preamp & DI.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
     },
     {
       "company": "Amplified Nation",
@@ -6544,6 +6617,42 @@
       "image_source_url": "https://www.clinganguitars.com/cdn/shop/files/zmz63gntegtosibmgwuz_600x600_crop_center.jpg?v=1741109845",
       "research_level": "deep",
       "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "Bad Cat",
+      "pedal": "Burmese Drive - Dual Vintage Overdrive",
+      "types": [
+        "Overdrive"
+      ],
+      "image": null,
+      "source_page": "https://www.effectsdatabase.com/model/badcat",
+      "research_record": "./research/pedals/Bad Cat/Burmese Drive - Dual Vintage Overdrive.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Bad Cat",
+      "pedal": "Double Drive - Stackable Overdrive",
+      "types": [
+        "Overdrive"
+      ],
+      "image": null,
+      "source_page": "https://www.effectsdatabase.com/model/badcat",
+      "research_record": "./research/pedals/Bad Cat/Double Drive - Stackable Overdrive.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Bad Cat",
+      "pedal": "Siamese Drive - Dual Harmonic Overdrive",
+      "types": [
+        "Overdrive"
+      ],
+      "image": null,
+      "source_page": "https://www.effectsdatabase.com/model/badcat",
+      "research_record": "./research/pedals/Bad Cat/Siamese Drive - Dual Harmonic Overdrive.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
     },
     {
       "company": "Bad Penny FX",
@@ -10858,6 +10967,34 @@
       "image_source_page": "https://bixonic-sound.com/products/exp2000dr",
       "research_level": "researched",
       "deep_research_status": "PENDING_REVIEW"
+    },
+    {
+      "company": "Bixonic",
+      "pedal": "EXP2000 Expandora",
+      "types": [
+        "Distortion",
+        "Overdrive",
+        "Fuzz"
+      ],
+      "image": null,
+      "source_page": "https://www.effectsdatabase.com/model/bixonic/expandora",
+      "research_record": "./research/pedals/Bixonic/EXP2000 Expandora.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Bixonic",
+      "pedal": "EXP2001 Expandora II",
+      "types": [
+        "Distortion",
+        "Overdrive",
+        "Fuzz"
+      ],
+      "image": null,
+      "source_page": "https://www.effectsdatabase.com/model/bixonic",
+      "research_record": "./research/pedals/Bixonic/EXP2001 Expandora II.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
     },
     {
       "company": "BIXONIC",
