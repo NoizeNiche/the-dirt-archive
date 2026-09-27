@@ -22749,21 +22749,21 @@
   {
     "builder": "Maxon",
     "pedal": "Overdrive (OD808)",
-    "image": null,
+    "image": "./assets/pedals/maxon/overdrive-od808/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Maxon/Overdrive (OD808).md"
   },
   {
     "builder": "Maxon",
     "pedal": "Overdrive Extreme (OD808X)",
-    "image": null,
+    "image": "./assets/pedals/maxon/overdrive-extreme-od808x/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Maxon/Overdrive Extreme (OD808X).md"
   },
   {
     "builder": "Maxon",
     "pedal": "Overdrive Pro (OD820)",
-    "image": null,
+    "image": "./assets/pedals/maxon/overdrive-pro-od820/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Maxon/Overdrive Pro (OD820).md"
   },
@@ -24401,7 +24401,7 @@
   {
     "builder": "MXR",
     "pedal": "Raijin Drive",
-    "image": null,
+    "image": "./assets/pedals/mxr/raijin-drive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/MXR/Raijin Drive.md"
   },
@@ -24828,7 +24828,7 @@
   {
     "builder": "NUX Audio / NUX",
     "pedal": "Metal Core",
-    "image": null,
+    "image": "./assets/pedals/nux-audio-nux/metal-core/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/NUX Audio / NUX/Metal Core.md"
   },
@@ -25962,7 +25962,7 @@
   {
     "builder": "Radial Tonebone",
     "pedal": "Plexitube",
-    "image": null,
+    "image": "./assets/pedals/radial-tonebone/plexitube/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Radial Tonebone/Plexitube.md"
   },
@@ -26445,35 +26445,35 @@
   {
     "builder": "Skreddy Pedals",
     "pedal": "Klipper",
-    "image": null,
+    "image": "./assets/pedals/skreddy-pedals/klipper/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Skreddy Pedals/Klipper.md"
   },
   {
     "builder": "Skreddy Pedals",
     "pedal": "Kusanagi",
-    "image": null,
+    "image": "./assets/pedals/skreddy-pedals/kusanagi/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Skreddy Pedals/Kusanagi.md"
   },
   {
     "builder": "Skreddy Pedals",
     "pedal": "Lunar Module Mini Deluxe",
-    "image": null,
+    "image": "./assets/pedals/skreddy-pedals/lunar-module-mini-deluxe/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Skreddy Pedals/Lunar Module Mini Deluxe.md"
   },
   {
     "builder": "Skreddy Pedals",
     "pedal": "Major Overdrive",
-    "image": null,
+    "image": "./assets/pedals/skreddy-pedals/major-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Skreddy Pedals/Major Overdrive.md"
   },
   {
     "builder": "Skreddy Pedals",
     "pedal": "Martian Tarantula",
-    "image": null,
+    "image": "./assets/pedals/skreddy-pedals/martian-tarantula/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Skreddy Pedals/Martian Tarantula.md"
   },
@@ -26837,7 +26837,7 @@
   {
     "builder": "Stomp Under Foot",
     "pedal": "Demogorgon",
-    "image": null,
+    "image": "./assets/pedals/stomp-under-foot/demogorgon/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Stomp Under Foot/Demogorgon.md"
   },
@@ -26886,7 +26886,7 @@
   {
     "builder": "Stomp Under Foot",
     "pedal": "Green Russian",
-    "image": null,
+    "image": "./assets/pedals/stomp-under-foot/green-russian/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Stomp Under Foot/Green Russian.md"
   },
@@ -26907,14 +26907,14 @@
   {
     "builder": "Stomp Under Foot",
     "pedal": "Hellephant",
-    "image": null,
+    "image": "./assets/pedals/stomp-under-foot/hellephant/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Stomp Under Foot/Hellephant.md"
   },
   {
     "builder": "Stomp Under Foot",
     "pedal": "Iron Tusk",
-    "image": null,
+    "image": "./assets/pedals/stomp-under-foot/iron-tusk/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Stomp Under Foot/Iron Tusk.md"
   },
@@ -27215,7 +27215,7 @@
   {
     "builder": "Subdecay",
     "pedal": "Liquid Sunshine",
-    "image": null,
+    "image": "./assets/pedals/subdecay/liquid-sunshine/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Subdecay/Liquid Sunshine.md"
   },
@@ -27229,7 +27229,7 @@
   {
     "builder": "Subdecay",
     "pedal": "Supernova Drive",
-    "image": null,
+    "image": "./assets/pedals/subdecay/supernova-drive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Subdecay/Supernova Drive.md"
   },
@@ -27292,7 +27292,7 @@
   {
     "builder": "Suhr",
     "pedal": "Rufus Reloaded Fuzz",
-    "image": null,
+    "image": "./assets/pedals/suhr/rufus-reloaded-fuzz/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Suhr/Rufus Reloaded Fuzz.md"
   },
@@ -27327,7 +27327,7 @@
   {
     "builder": "Supro",
     "pedal": "Supro Fuzz",
-    "image": null,
+    "image": "./assets/pedals/supro/supro-fuzz/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Supro/Supro Fuzz.md"
   },
@@ -27376,14 +27376,14 @@
   {
     "builder": "TC Electronic",
     "pedal": "Fangs Metal Distortion",
-    "image": null,
+    "image": "./assets/pedals/tc-electronic/fangs-metal-distortion/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/TC Electronic/Fangs Metal Distortion.md"
   },
   {
     "builder": "TC Electronic",
     "pedal": "Grand Magus Distortion",
-    "image": null,
+    "image": "./assets/pedals/tc-electronic/grand-magus-distortion/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/TC Electronic/Grand Magus Distortion.md"
   },
@@ -27397,14 +27397,14 @@
   {
     "builder": "TC Electronic",
     "pedal": "Magus Pro",
-    "image": null,
+    "image": "./assets/pedals/tc-electronic/magus-pro/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/TC Electronic/Magus Pro.md"
   },
   {
     "builder": "TC Electronic",
     "pedal": "MojoMojo Overdrive",
-    "image": null,
+    "image": "./assets/pedals/tc-electronic/mojomojo-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/TC Electronic/MojoMojo Overdrive.md"
   },
@@ -27488,21 +27488,21 @@
   {
     "builder": "Tech 21 NYC",
     "pedal": "Boost Distortion",
-    "image": null,
+    "image": "./assets/pedals/tech-21-nyc/boost-distortion/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Tech 21 NYC/Boost Distortion.md"
   },
   {
     "builder": "Tech 21 NYC",
     "pedal": "Boost Fuzz",
-    "image": null,
+    "image": "./assets/pedals/tech-21-nyc/boost-fuzz/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Tech 21 NYC/Boost Fuzz.md"
   },
   {
     "builder": "Tech 21 NYC",
     "pedal": "Boost Overdrive",
-    "image": null,
+    "image": "./assets/pedals/tech-21-nyc/boost-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Tech 21 NYC/Boost Overdrive.md"
   },

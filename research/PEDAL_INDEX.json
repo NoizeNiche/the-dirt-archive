@@ -44067,7 +44067,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/maxon/overdrive-od808/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Maxon/Overdrive (OD808).md",
       "research_level": "deep",
@@ -44080,7 +44080,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/maxon/overdrive-extreme-od808x/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Maxon/Overdrive Extreme (OD808X).md",
       "research_level": "deep",
@@ -44093,7 +44093,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/maxon/overdrive-pro-od820/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Maxon/Overdrive Pro (OD820).md",
       "research_level": "deep",
@@ -46961,7 +46961,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/mxr/raijin-drive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/MXR/Raijin Drive.md",
       "research_level": "deep",
@@ -47700,7 +47700,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/nux-audio-nux/metal-core/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/NUX Audio / NUX/Metal Core.md",
       "research_level": "surface",
@@ -49688,7 +49688,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/radial-tonebone/plexitube/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Radial Tonebone/Plexitube.md",
       "research_level": "deep",
@@ -50533,7 +50533,7 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/skreddy-pedals/klipper/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Skreddy Pedals/Klipper.md",
       "research_level": "deep",
@@ -50545,7 +50545,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/skreddy-pedals/kusanagi/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Skreddy Pedals/Kusanagi.md",
       "research_level": "deep",
@@ -50558,7 +50558,7 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/skreddy-pedals/lunar-module-mini-deluxe/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Skreddy Pedals/Lunar Module Mini Deluxe.md",
       "research_level": "deep",
@@ -50570,7 +50570,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/skreddy-pedals/major-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Skreddy Pedals/Major Overdrive.md",
       "research_level": "deep",
@@ -50582,7 +50582,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/skreddy-pedals/martian-tarantula/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Skreddy Pedals/Martian Tarantula.md",
       "research_level": "deep",
@@ -51251,7 +51251,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/stomp-under-foot/demogorgon/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Stomp Under Foot/Demogorgon.md",
       "research_level": "deep",
@@ -51336,7 +51336,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/stomp-under-foot/green-russian/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Stomp Under Foot/Green Russian.md",
       "research_level": "deep",
@@ -51374,7 +51374,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/stomp-under-foot/hellephant/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Stomp Under Foot/Hellephant.md",
       "research_level": "deep",
@@ -51386,7 +51386,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/stomp-under-foot/iron-tusk/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Stomp Under Foot/Iron Tusk.md",
       "research_level": "deep",
@@ -51908,7 +51908,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/subdecay/liquid-sunshine/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Subdecay/Liquid Sunshine.md",
       "research_level": "deep",
@@ -51932,7 +51932,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/subdecay/supernova-drive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Subdecay/Supernova Drive.md",
       "research_level": "deep",
@@ -52051,7 +52051,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/suhr/rufus-reloaded-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Suhr/Rufus Reloaded Fuzz.md",
       "research_level": "deep",
@@ -52111,7 +52111,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/supro/supro-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Supro/Supro Fuzz.md",
       "research_level": "deep",
@@ -52198,7 +52198,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/tc-electronic/fangs-metal-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/TC Electronic/Fangs Metal Distortion.md",
       "research_level": "deep",
@@ -52210,7 +52210,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/tc-electronic/grand-magus-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/TC Electronic/Grand Magus Distortion.md",
       "research_level": "deep",
@@ -52234,7 +52234,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/tc-electronic/magus-pro/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/TC Electronic/Magus Pro.md",
       "research_level": "deep",
@@ -52246,7 +52246,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/tc-electronic/mojomojo-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/TC Electronic/MojoMojo Overdrive.md",
       "research_level": "deep",
@@ -52395,7 +52395,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/tech-21-nyc/boost-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Tech 21 NYC/Boost Distortion.md",
       "research_level": "deep",
@@ -52407,7 +52407,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/tech-21-nyc/boost-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Tech 21 NYC/Boost Fuzz.md",
       "research_level": "deep",
@@ -52419,7 +52419,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/tech-21-nyc/boost-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Tech 21 NYC/Boost Overdrive.md",
       "research_level": "deep",
