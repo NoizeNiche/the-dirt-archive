@@ -327,8 +327,11 @@ function searchQueries(builder,pedal,sourceHosts=[]){
     ...identityAlternates.map(value=>'"'+String(value).trim()+'" "'+b+'" manual specs review'),
     '"'+p+'" "'+b+'" Reverb Effects Database',
     'site:effectsdatabase.com/model "'+b+'" "'+p+'"',
+    ...identityAlternates.map(value=>'site:effectsdatabase.com/model "'+b+'" "'+String(value).trim()+'"'),
     'site:reverb.com/item "'+b+'" "'+p+'"',
-    'site:manualslib.com "'+b+'" "'+p+'"'
+    ...identityAlternates.map(value=>'site:reverb.com/item "'+b+'" "'+String(value).trim()+'"'),
+    'site:manualslib.com "'+b+'" "'+p+'"',
+    ...identityAlternates.map(value=>'site:manualslib.com "'+b+'" "'+String(value).trim()+'"')
   ];
   // When the catalog already carries an exact-model source URL, search that
   // source host directly as a fallback. This is especially useful for small
