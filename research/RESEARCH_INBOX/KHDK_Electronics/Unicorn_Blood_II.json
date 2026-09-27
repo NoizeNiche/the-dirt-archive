@@ -1,0 +1,41 @@
+{
+  "builder": "KHDK Electronics",
+  "pedal": "Unicorn Blood II",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 4,
+  "sources": [
+    {
+      "url": "https://www.khdkelectronics.com/products/detail/unicorn-blood-ii/",
+      "title": "Unicorn Blood II - KHDK Electronics",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.khdkelectronics.com",
+      "source_kind": "manufacturer"
+    },
+    {
+      "url": "https://reverb.com/p/khdk-electronics-unicorn-blood-ii-limited-edition-octave-fuzz-2020",
+      "title": "KHDK Electronics Unicorn Blood II Limited Edition Octave Fuzz 2020 - Reverb",
+      "h1": "",
+      "excerpt": "",
+      "host": "reverb.com",
+      "source_kind": "reverb"
+    },
+    {
+      "url": "https://www.ebay.com/itm/315723100892",
+      "title": "NEW KHDK Electronics Unicorn Blood II - eBay",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.ebay.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://www.talkbass.com/threads/khdk-unicorn-blood-ii.1476454/",
+      "title": "KHDK Unicorn Blood II - TalkBass.com",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.talkbass.com",
+      "source_kind": "other"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}

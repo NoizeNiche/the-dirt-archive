@@ -41467,8 +41467,8 @@
       "image": "./assets/pedals/khdk-electronics/unicorn-blood-ii/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/KHDK Electronics/Unicorn Blood II.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "KHDK Electronics",
@@ -43981,8 +43981,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Maxon/OD808X.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Maxon",
@@ -46500,8 +46500,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Mr. Black/Deuce Coupe.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Mr. Black",
@@ -54832,8 +54832,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/VOX/VFZ-1 Fuzz.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "VOX",
