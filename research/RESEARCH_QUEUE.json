@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-27T06:58:12.396587+00:00",
+  "generated_at": "2026-09-27T07:01:16.375890+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,8 +10,8 @@
     "pictured": 3074,
     "complete": 3074,
     "research_pending": 0,
-    "deep_research_pending": 2171,
-    "deep_researched": 2059,
+    "deep_research_pending": 2166,
+    "deep_researched": 2064,
     "surface_ready": 4230
   },
   "next_target": {
@@ -34,20 +34,6 @@
       "pedal": "A-1 Distortion",
       "catalog_type": "",
       "research_record": "./research/pedals/Ampeg/A-1 Distortion.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Ashdown Engineering",
-      "pedal": "ABM PRO-FX Double Shot",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Ashdown Engineering/ABM PRO-FX Double Shot.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Ashdown Engineering",
-      "pedal": "OriginAL - Valve-Pre DI",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Ashdown Engineering/OriginAL - Valve-Pre DI.md",
       "research_level": "surface"
     },
     {
@@ -195,6 +181,20 @@
       "pedal": "Octahive v2 High Octave Buzz",
       "catalog_type": "",
       "research_record": "./research/pedals/Beetronics/Octahive v2 High Octave Buzz.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Beetronics",
+      "pedal": "Overhive Mid-Gain Overdrive",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Beetronics/Overhive Mid-Gain Overdrive.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Beetronics",
+      "pedal": "Royal Jelly Fuzz/OD Blender",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Beetronics/Royal Jelly Fuzz/OD Blender.md",
       "research_level": "surface"
     }
   ]

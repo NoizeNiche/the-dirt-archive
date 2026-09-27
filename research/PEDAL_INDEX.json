@@ -4737,8 +4737,8 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/ashdown",
       "research_record": "./research/pedals/Ashdown Engineering/ABM PRO-FX Double Shot.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Ashdown Engineering",
@@ -4861,8 +4861,8 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/ashdown/origin",
       "research_record": "./research/pedals/Ashdown Engineering/OriginAL - Valve-Pre DI.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Ashdown Engineering",
@@ -11786,8 +11786,8 @@
       "image_source_page": "https://www.bjfe.jp/en/products/bjfppf",
       "image_source_page_verified": true,
       "image_source_url": "http://www.bjfe.jp/cdn/shop/products/imgrc0066149645.jpg?v=1598426215",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "BJFE / BJF Electronics",
@@ -52076,8 +52076,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/ThorpyFX/Warthog.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "ThorpyFX",
@@ -54428,8 +54428,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Wampler Pedals/cataPulp.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Wampler Pedals",

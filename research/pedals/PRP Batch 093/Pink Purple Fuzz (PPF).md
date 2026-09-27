@@ -13,3 +13,16 @@ A vintage fuzz update released 9 March 2002 and retired in October 2007, with 17
 
 ## Archive photo
 - **Archive status:** **No Photo Archived**
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+BJFE / BJF Electronics's Pink Purple Fuzz (PPF) is cataloged as a fuzz pedal.
+
+### Verified sound evidence
+BJFE Pink Purple Fuzz コンテンツに進む WE SHIP WORLDWIDE !
+
+### Sources checked in this pass
+1. BJFE Pink Purple Fuzz: https://www.bjfe.jp/products/bjfppf

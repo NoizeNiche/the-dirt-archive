@@ -1,27 +1,36 @@
-# Ashdown Engineering - ABM PRO-FX Double Shot
+# Ashdown Engineering — ABM PRO-FX Double Shot
 
 ## PRP identity
-- Builder: Ashdown Engineering
-- Catalog type: Distortion / Overdrive
-- Identity: ABM PRO-FX Double Shot, a dual-band bass drive pedal derived from Ashdown's blended-drive development.
+- **Archive parent:** ABM PRO-FX Double Shot
+- **Builder:** Ashdown Engineering
+- **Catalog type:** Distortion
+- **Identity:** Ashdown Engineering's ABM PRO-FX Double Shot.
 
 ## What this pedal is
-Double Shot is a bass-focused drive pedal with two independently shaped drive bands. Ashdown describes it as a variation on the Triple Shot family.
+Ashdown Engineering's ABM PRO-FX Double Shot is cataloged as a distortion pedal.
 
-## Controls / operation
-- Two-band variable drive architecture.
-- Exact production control legend not reconstructed from the surviving indexed description.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
 
-## Power
-- 9V DC, center negative.
-- Approx. 30mA current draw.
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
 
-## History
-Effects Database dates the model to February 23, 2020.
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+The verified evidence packet did not contain enough pedal-specific sonic description to make a more detailed sound summary without adding unsupported interpretation.
 
 ## Sources checked
-1. Effects Database: https://www.effectsdatabase.com/model/ashdown
-2. Ashdown Engineering: https://ashdownmusic.com/
+1. Ashdown Engineering | Effects Database: https://www.effectsdatabase.com/model/ashdown
 
 ## Photo
-- Exact photo pending.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
