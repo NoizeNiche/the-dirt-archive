@@ -105,6 +105,32 @@ def resolve_catalog_key(builder, pedal, by_key):
     return None
 
 
+def source_metadata_matches_identity(source, builder, pedal):
+    hay = norm(" ".join([
+        source.get("title", ""),
+        source.get("h1", ""),
+        source.get("url", ""),
+    ])).lower()
+    builder_tokens = [token for token in norm(builder).lower().split() if len(token) >= 3]
+    if not builder_tokens or not any(token in hay for token in builder_tokens):
+        return False
+    return any(norm(value).lower() in hay for value in identity_variants(pedal))
+
+
+def orphan_packet_is_adoptable(packet):
+    sources = [source for source in packet.get("sources", []) if isinstance(source, dict)]
+    builder = packet.get("builder", "")
+    pedal = packet.get("pedal", "")
+    metadata_exact = sum(
+        1 for source in sources
+        if source_metadata_matches_identity(source, builder, pedal)
+    )
+    # Old packets are allowed to be adopted only when two independent source
+    # pages themselves identify the exact model in title/H1/URL. Body-only mentions
+    # do not qualify for this recovery path.
+    return metadata_exact >= 2
+
+
 def split_sentences(text):
     clean = norm(re.sub(r"\[[0-9]+\]", "", text))
     # Evidence excerpts can be page dumps rather than prose. Split on common
@@ -400,7 +426,7 @@ def main():
             candidate_key = (candidate.get("builder", ""), candidate.get("pedal", ""))
             if candidate_key in by_key:
                 continue
-            if resolve_catalog_key(candidate_key[0], candidate_key[1], by_key):
+            if resolve_catalog_key(candidate_key[0], candidate_key[1], by_key) and orphan_packet_is_adoptable(candidate):
                 orphan_paths.append(candidate_path)
         packet_paths = sorted(direct_paths + orphan_paths)
 
