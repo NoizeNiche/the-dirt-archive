@@ -1,46 +1,55 @@
-# Basic Audio - Solar Myth
+# Basic Audio — Solar Myth
 
 ## PRP identity
 - **Archive parent:** Solar Myth
 - **Builder:** Basic Audio
 - **Catalog type:** Fuzz
-- **Identity:** Silicon Fuzz Face-style fuzz with pre-circuit fuzz control and low-end shaping.
+- **Identity:** Silicon Fuzz Face-style fuzz with pre-circuit fuzz adjustment and low-end/fatness shaping. [1][2]
 
 ## What this pedal is
-Solar Myth is a silicon Fuzz Face-style design with a pre-circuit Fuzz control and low-end cut. Basic Audio describes the arrangement as a way to move between a lean, cutting sound and fuller, rounder fuzz.
+Solar Myth is designed around a silicon Fuzz Face-style gain core while giving the user control over how much gain and low-frequency content enters the circuit. Basic Audio presents the design as a way to move between leaner, cutting fuzz and a fuller, rounder sound. [1]
 
-## Colorways
-- The official product page contains multiple product photographs.
-- Basic Audio notes that pedal colors are subject to change.
-- No complete factory colorway chronology was verified.
+## Controls / architecture
+- Pre-circuit **FUZZ** adjustment.
+- Low-end / **FATNESS** shaping.
+- Silicon Fuzz Face-style core.
+- **9V center-negative** operation with battery support. [1][2]
 
-## Versions and factory options
-### Solar Myth
-- Pre-circuit Fuzz control
-- Low-end cut / fatness shaping
-- Center-negative 9V DC operation
-- Battery snap
-- No numbered factory version was verified.
-
-## Version changes
-No numbered production revision was established in the checked sources.
+## Circuit lineage
+- **Primary reference:** Fuzz Face.
+- Basic Audio's implementation is an interpretation rather than proof of exact historical component equivalence. [1]
 
 ## Transistor
-- **Technology:** Silicon Fuzz Face-style transistor circuit.
-- **Exact production transistor part numbers:** Not publicly documented in the checked sources.
+- **Technology:** Silicon.
+- Exact factory transistor part number is not publicly documented.
 
-## Diode
-- **Exact clipping/protection arrangement:** Not publicly documented in the checked sources.
+## Diode / clipping
+- Exact clipping-device type and part number are not publicly documented.
+
+## Version history
+- No numbered electronic revision established.
+- Product photographs with different finishes are cosmetic examples.
 
 ## Sound
-Solar Myth can be dialed toward a leaner, more cutting fuzz or toward the fat, round response associated with a fuller Fuzz Face sound. Thicker input settings tend toward more compression and slower attack, while leaner settings stay more articulate and dynamic.
+Solar Myth can be biased toward leaner and more articulate fuzz or toward thicker, rounder and more compressed tones by changing the pre-circuit fuzz and low-end controls. [1][2]
+
+## Research confidence
+- **Identity:** High
+- **Fuzz Face lineage:** High
+- **Silicon technology:** High
+- **Feature set:** High
+- **Exact transistor:** Unknown
+- **Exact diode:** Unknown
+
+## Deep research verification
+Basic Audio's official Solar Myth page and Effects Database record were cross-checked. The evidence supports the silicon Fuzz Face-style architecture and low-end/pre-circuit control concept. No exact factory semiconductor part numbers are published. [1][2]
 
 ## Sources checked
-1. Basic Audio official Solar Myth page: https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-cnzrr-ksfg5-kba26-5yxez-twy6r-snkj6-e7jng
-2. Effects Database, Solar Myth: https://www.effectsdatabase.com/model/basicaudio/solarmyth
-3. Basic Audio official catalog: https://www.basicaudio.net/
+1. Basic Audio — Solar Myth: https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbsbfsb3vnya-y3hb9-97e3s-cnzrr-ksfg5-kba26-5yxez-twy6r-snkj6-e7jng
+2. Effects Database — Basic Audio Solar Myth: https://www.effectsdatabase.com/model/basicaudio/solarmyth
+3. Basic Audio — Main catalog: https://www.basicaudio.net/
 
 ## Photo
-- **Archive status:** **Exact Photo Attached to Public Catalog**
-- **Exact-model image:** https://images.squarespace-cdn.com/content/v1/5da9e97016ddf940acffa2d3/1574394676367-IR7844ODSHXEQFLM82P1/DSCF2484-Edit.jpg
-- **Source page:** https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-cnzrr-ksfg5-kba26-5yxez-twy6r-snkj6-e7jng
+- **Exact pedal photograph:** Basic Audio official product photograph.
+- **Direct image:** https://images.squarespace-cdn.com/content/v1/5da9e97016ddf940acffa2d3/1574394676367-IR7844ODSHXEQFLM82P1/DSCF2484-Edit.jpg
+- **Source page:** Basic Audio Solar Myth.
