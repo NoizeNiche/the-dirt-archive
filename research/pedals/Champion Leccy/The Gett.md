@@ -4,38 +4,45 @@
 - **Archive parent:** The Gett
 - **Builder:** Champion Leccy
 - **Catalog type:** Fuzz
-- **Identity:** Champion Leccy The Gett, a heavily modified Black Russian Big Muff-derived fuzz.
+- **Identity:** Heavily modified Black Russian Big Muff-derived fuzz with revised tone network, Fluff/Bulge switching and a three-position Dunsh output/aggression control. [1]
 
-## What this pedal is
-Effects Database describes The Gett as a Black Russian Big Muff-based fuzz with multiple circuit changes made over its development, including a completely different tone control that avoids the classic Muff mid scoop. [1]
+## Controls
+- **LOVE:** Volume.
+- **FURZ:** Gain/fuzz.
+- **THIGH:** Tone.
+- **FLUFF:** Adds top-end emphasis.
+- **BULGE:** Changes the contour of the Tone control above noon.
+- **DUNSH:** Three-position high-output/aggressive mode. [1]
 
-Champion Leccy positions it for rhythm guitar, bass, and heavier playing, with a loud, dirty response. [1]
-
-## Colorways
-- The checked sources do not establish a fixed factory colorway sequence.
-
-## Versions and factory options
-The documented controls are:
-- **Love**: volume.
-- **Furz**: gain.
-- **Thigh**: tone.
-
-Three switches are also documented:
-- **Fluff**: adds top-end emphasis.
-- **Bulge**: changes the contour of the tone control above noon.
-- **Dunsh**: three-position high-output/aggressive mode. [1]
-
-## Version changes
-Champion Leccy states that the circuit was repeatedly revised, with parts changed, added, and rearranged over time. No formal numbered V1/V2 production chronology was established in the checked sources. [1]
+## Circuit lineage
+- **Primary reference:** Black Russian Big Muff.
+- Champion Leccy says the tone control was substantially changed from the original Muff-style network to avoid a fixed mid scoop. [1]
 
 ## Transistor
-The circuit is derived from the Black Russian Big Muff, but the checked exact-model sources do not establish a universal factory transistor part number.
+- Exact production transistor part numbers are not publicly documented.
 
-## Diode
-No exact-model diode type was securely established in the checked sources.
+## Diode / clipping
+- Exact clipping-device type and part number are not publicly documented.
+
+## Version history
+- The circuit underwent repeated development changes, with components changed, added and rearranged over time.
+- No clean numbered V1/V2 chronology is established, so those evolving builds remain development history rather than invented revisions. [1]
 
 ## Sound
-The Gett is voiced away from the traditional Muff mid scoop, giving it a thicker, more forward midrange. The Dunsh switch raises output and aggression, while the Fluff and Bulge switches reshape the upper end and tone response. [1]
+The Gett is voiced with a thicker, more forward midrange than a traditional Black Russian Muff. Fluff adds high-frequency edge, Bulge changes the Tone curve, and Dunsh increases output/aggression. [1]
+
+## Research confidence
+- **Identity:** High
+- **Black Russian lineage:** High
+- **Modified tone network:** High
+- **Fluff/Bulge/Dunsh functions:** High
+- **Exact components:** Unknown
+
+## Deep research verification
+Effects Database's exact-model record was checked directly. It establishes the Black Russian lineage, control names/functions and the repeated-development history. [1]
 
 ## Sources checked
-1. Effects Database — Champion Leccy The Gett - Black Russian Muff: https://www.effectsdatabase.com/model/championleccy/gett
+1. Effects Database — Champion Leccy The Gett: https://www.effectsdatabase.com/model/championleccy/gett
+
+## Photo
+- Exact-model photo status remains handled separately.
