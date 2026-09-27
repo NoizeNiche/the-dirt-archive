@@ -1,23 +1,35 @@
-# BOSS — OD-2 Turbo OverDrive
+# BOSS - OD-2 Turbo OverDrive
 
-## Surface catalog record
+## PRP identity
 - **Builder:** BOSS
 - **Pedal:** OD-2 Turbo OverDrive
 - **Catalog type:** Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **OD-2 Turbo OverDrive** by **BOSS** as a **Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+The BOSS OD-2 Turbo OverDrive is an analog overdrive with a selectable Turbo mode for a more forceful, higher-output voice.
 
-## Catalog source
-- Catalog source page on file: https://www.effectsdatabase.com/model/boss/compact/od2
+## Deep research verification
+
+### Controls
+- **DRIVE**
+- **TONE**
+- **LEVEL**
+- **TURBO** mode selection
+
+The Turbo mode is a distinct voicing/drive state rather than a separate pedal circuit.
+
+### Sound
+The standard mode covers conventional overdrive and amp-driving sounds. Turbo mode adds a stronger, more aggressive character with increased output and gain emphasis.
+
+### History
+The OD-2 is the original Turbo OverDrive model. It is kept separate from the later **OD-2R Turbo OverDrive**, which is a distinct later production/reissue identity.
+
+### Component evidence
+Exact transistor and clipping-diode part numbers are not established by the reviewed archive sources.
+
+## Sources checked
+- Effects Database: https://www.effectsdatabase.com/model/boss/compact/od2
+- BOSS/OD-2 owner documentation: https://manualzz.com/doc/4632024/boss-od-2-turbo-overdrive-owner-s-manual
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** **Exact Photo Pending**
