@@ -12,3 +12,14 @@ The Oath is a deliberately stripped-down fuzz. Black Arts' historical descriptio
 
 ## Archive photo
 - **Archive status:** **No Photo Archived**
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Black Arts Toneworks's Oath is cataloged as a fuzz pedal.
+
+### Sources checked in this pass
+1. catalog/override source: https://www.blackartstoneworks.com/pedal/oath/
+2. catalog/override source: https://reverb.com/p/black-arts-toneworks-oath

@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-27T09:36:33.101691+00:00",
+  "generated_at": "2026-09-27T09:42:29.613022+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,8 +10,8 @@
     "pictured": 3123,
     "complete": 3123,
     "research_pending": 0,
-    "deep_research_pending": 2024,
-    "deep_researched": 2218,
+    "deep_research_pending": 2011,
+    "deep_researched": 2231,
     "surface_ready": 4242
   },
   "next_target": {
@@ -73,23 +73,9 @@
     },
     {
       "builder": "BJFE / BJF Electronics",
-      "pedal": "Baby Blue Overdrive (BBOD)",
-      "catalog_type": "",
-      "research_record": "./research/pedals/BJFE / BJF Electronics/Baby Blue Overdrive (BBOD).md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "BJFE / BJF Electronics",
       "pedal": "Cliff Hanger",
       "catalog_type": "",
       "research_record": "./research/pedals/BJFE / BJF Electronics/Cliff Hanger.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "BJFE / BJF Electronics",
-      "pedal": "Cliff Hanger II",
-      "catalog_type": "",
-      "research_record": "./research/pedals/BJFE / BJF Electronics/Cliff Hanger II.md",
       "research_level": "surface"
     },
     {
@@ -115,23 +101,9 @@
     },
     {
       "builder": "BJFE / BJF Electronics",
-      "pedal": "Honey Bee Overdrive (HBOD)",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 093/Honey Bee Overdrive (HBOD).md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "BJFE / BJF Electronics",
       "pedal": "Lingonberry Over Drive",
       "catalog_type": "",
       "research_record": "./research/pedals/PRP Batch 093/Lingonberry Over Drive.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "BJFE / BJF Electronics",
-      "pedal": "Little Green Wonder (LGW)",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 093/Little Green Wonder (LGW).md",
       "research_level": "surface"
     },
     {
@@ -178,13 +150,6 @@
     },
     {
       "builder": "BJFE / BJF Electronics",
-      "pedal": "Sparkling Red Fuzz",
-      "catalog_type": "",
-      "research_record": "./research/pedals/BJFE / BJF Electronics/Sparkling Red Fuzz.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "BJFE / BJF Electronics",
       "pedal": "Sparkling Yellow Overdrive (SYOD)",
       "catalog_type": "",
       "research_record": "./research/pedals/PRP Batch 093/Sparkling Yellow Overdrive (SYOD).md",
@@ -195,6 +160,41 @@
       "pedal": "Sparkling Yellow Overdrive Version 2 (SYOD V.2)",
       "catalog_type": "",
       "research_record": "./research/pedals/PRP Batch 093/Sparkling Yellow Overdrive Version 2 (SYOD V.2).md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "BJFE / BJF Electronics",
+      "pedal": "Sun Burst Fuzz",
+      "catalog_type": "",
+      "research_record": "./research/pedals/BJFE / BJF Electronics/Sun Burst Fuzz.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Black Arts Toneworks",
+      "pedal": "Black Forest",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 094/Black Forest.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Black Arts Toneworks",
+      "pedal": "Coven",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 094/Coven.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Black Arts Toneworks",
+      "pedal": "Crown of Horns",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 094/Crown of Horns.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Black Arts Toneworks",
+      "pedal": "FNORD",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 094/FNORD.md",
       "research_level": "surface"
     }
   ]

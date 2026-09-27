@@ -15,3 +15,18 @@
   - https://www.rockboard.de/en/pedalPedia/Caline/CP-74-Action-Replay/68976435/
   - https://reverb.com/p/caline-cp-74-action-replay-distortion
   - https://www.effects-pedals.info/p/caline-cp-74-action-replay-distortion/
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Caline's CP-74 Action Replay - Dyna Red Distortion is cataloged as a distortion pedal.
+
+### Verified sound evidence
+The 4 knob configuration gives you all the tone options needed to reproduce the famous Plexitone sound and that identifiable classic rock distortion.
+The 4 controls are: Volume, Drive, Treble and Lomid.
+The desired combination can produce a wide and dynamic sound from just above overdrive to a crunchy distortion with lots of low dirt and growl when required.
+
+### Sources checked in this pass
+1. CP-74 Action Replay by Caline | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/Caline/CP-74-Action-Replay/68976435/
