@@ -1,6 +1,6 @@
 {
-  "version": "data-20260927-historical-census-sweep-01",
-  "count": 4214,
+  "version": "data-20260927-historical-census-sweep-02",
+  "count": 4227,
   "pedals": [
     {
       "company": "1981 Inventions",
@@ -56846,6 +56846,164 @@
       "image": null,
       "source_page": "https://bigjohnmusic.com/about/",
       "research_record": "./research/pedals/Big John Effects/BassDrive.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "B85 Audio",
+      "pedal": "Oktadrive",
+      "types": [
+        "Fuzz"
+      ],
+      "image": null,
+      "source_page": "https://www.effectsdatabase.com/model/b85",
+      "research_record": "./research/pedals/B85 Audio/Oktadrive.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "B85 Audio",
+      "pedal": "Red Lama",
+      "types": [
+        "Overdrive"
+      ],
+      "image": null,
+      "source_page": "https://www.effectsdatabase.com/model/b85",
+      "research_record": "./research/pedals/B85 Audio/Red Lama.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Backbeat Electric",
+      "pedal": "Bass Driver",
+      "types": [
+        "Overdrive"
+      ],
+      "image": null,
+      "source_page": "https://www.effectsdatabase.com/model/backbeat",
+      "research_record": "./research/pedals/Backbeat Electric/Bass Driver.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Backbeat Electric",
+      "pedal": "Blue Blender",
+      "types": [
+        "Fuzz"
+      ],
+      "image": null,
+      "source_page": "https://www.effectsdatabase.com/model/backbeat",
+      "research_record": "./research/pedals/Backbeat Electric/Blue Blender.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Backbeat Electric",
+      "pedal": "Doctor Fuzz",
+      "types": [
+        "Fuzz"
+      ],
+      "image": null,
+      "source_page": "https://www.effectsdatabase.com/model/backbeat",
+      "research_record": "./research/pedals/Backbeat Electric/Doctor Fuzz.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Bad Pixel Pedals",
+      "pedal": "F#@k You Tube Drive-Boost",
+      "types": [
+        "Overdrive"
+      ],
+      "image": null,
+      "source_page": "https://atthelivingroomstudios.com/gear/",
+      "research_record": "./research/pedals/Bad Pixel Pedals/F#@k You Tube Drive-Boost.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Baja Tech Custom",
+      "pedal": "Bone Bender 1.5",
+      "types": [
+        "Fuzz"
+      ],
+      "image": null,
+      "source_page": "https://wahwah.fandom.com/wiki/Baja_Tech_Custom",
+      "research_record": "./research/pedals/Baja Tech Custom/Bone Bender 1.5.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Baja Tech Custom",
+      "pedal": "Bone Bender MKII",
+      "types": [
+        "Fuzz"
+      ],
+      "image": null,
+      "source_page": "https://wahwah.fandom.com/wiki/Baja_Tech_Custom",
+      "research_record": "./research/pedals/Baja Tech Custom/Bone Bender MKII.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Baja Tech Custom",
+      "pedal": "Da MOAF Deluxe",
+      "types": [
+        "Fuzz"
+      ],
+      "image": null,
+      "source_page": "https://www.effectsdatabase.com/model/bajatech",
+      "research_record": "./research/pedals/Baja Tech Custom/DaMOAF Deluxe.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Baja Tech Custom",
+      "pedal": "Real Tube Overdrive",
+      "types": [
+        "Overdrive"
+      ],
+      "image": null,
+      "source_page": "https://wahwah.fandom.com/wiki/Baja_Tech_Custom",
+      "research_record": "./research/pedals/Baja Tech Custom/Real Tube Overdrive.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Balaguer Guitars",
+      "pedal": "Fission Drive",
+      "types": [
+        "Distortion",
+        "Fuzz",
+        "Overdrive"
+      ],
+      "image": null,
+      "source_page": "https://www.balaguerguitars.com/wp-content/uploads/2021/02/Balaguer-2021-Product-Catalog_compressed-2.pdf",
+      "research_record": "./research/pedals/Balaguer Guitars/Fission Drive.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Baltimore Sonic Research Institute",
+      "pedal": "Maybe The Real Treasure... Fuzz",
+      "types": [
+        "Fuzz"
+      ],
+      "image": null,
+      "source_page": "https://www.cottonwoodmusicemporium.com/collections/baltimore-sonic-research-institure",
+      "research_record": "./research/pedals/Baltimore Sonic Research Institute/Maybe The Real Treasure - Fuzz.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Baltimore Sonic Research Institute",
+      "pedal": "Magawa",
+      "types": [
+        "Distortion"
+      ],
+      "image": null,
+      "source_page": "https://empireguitars.com/collections/all?page=58",
+      "research_record": "./research/pedals/Baltimore Sonic Research Institute/Magawa.md",
       "research_level": "surface",
       "deep_research_status": "PENDING"
     }
