@@ -1,53 +1,44 @@
 # Dreadbox — Disorder
 
-## PRP identity
-- **Archive parent:** Disorder
+## Surface catalog record
 - **Builder:** Dreadbox
+- **Pedal:** Disorder
 - **Catalog type:** Fuzz
-- **Identity:** Dreadbox's Disorder.
+- **Research level:** Deep
+- **Deep research status:** Verified identity and filter/fuzz architecture
+- **Identity basis:** Dreadbox's product page and exact-model reviews identify Disorder as a fuzz with a filter section capable of self-oscillation.
 
 ## What this pedal is
-In use Lowering yourself gently into the Disorder is a simple matter of starting with the sensitivity at zero and the cutoff frequency pointing straight up – this is bypassing all the filter stuff for a pure fuzz experience.
+The **Dreadbox Disorder** is a fuzz pedal with an integrated filter system. Dreadbox's product material and exact-model reviews describe a workflow in which lowering **Sensitivity** and centering the **Cutoff** control can remove the filter contribution and expose a more direct fuzz sound. [1][3]
 
-## Colorways
-- No specific factory colorway information was established in the verified evidence packet.
+The design is unusual because the filter section is capable of **self-oscillation**, adding a synth-like behavior to the fuzz circuit. [3][4]
 
-## Versions and factory options
-- No distinct factory revision was established in the verified evidence packet.
+## Operating concept
+The documented setup advice starts with **Sensitivity** near zero and the filter **Cutoff** around its center position, which is described as bypassing most of the filter behavior for a more direct fuzz sound. Increasing the filter controls then moves the pedal toward more extreme, self-oscillating textures. [3]
 
-## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+The archive does not treat every self-oscillating filter sound as a separate effect category. Disorder remains a single Fuzz identity.
 
-## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
-- **Exact transistor/device:** Unknown.
+## Technical evidence boundary
+The reviewed sources do not establish a complete factory schematic, universal component BOM, or numbered revision chronology. LED is documented in the existing evidence packet, but no exact clipping-device inventory is asserted.
 
-## Diode
-- Documented terms in the verified sources: LED.
-- The archive records only the component information explicitly present in these sources.
+The previous record contained unrelated retailer and magazine page-navigation markup. That material has been removed.
 
-## Sound
-Dreadbox Disorder review: Could this fuzz pedal be your passport to analogue synth mayhem?
-| Guitar.com News Reviews Guides Features Magazine Tuner Deals Related Brands Dreadbox Related Tags # Distortion # Effects When you purchase through affiliate links on Guitar.com, you may contribute to our site through commissions.
-Learn more Featured Deal Epiphone J-45 EC Studio – save $40 Claim Reviews Dreadbox Disorder review: Could this fuzz pedal be your passport to analogue synth mayhem?
-
-## Sources checked
-1. Dreadbox Disorder Fuzz Pedal | Sweetwater: https://www.sweetwater.com/store/detail/Disorder--dreadbox-disorder-fuzz-pedal
-2. Dreadbox Disorder - Reverb: https://reverb.com/p/dreadbox-disorder
-3. Dreadbox Disorder review: Could this fuzz pedal be your passport to analogue synth mayhem? | Guitar.com: https://guitar.com/reviews/effects-pedal/dreadbox-disorder-review/
-4. Dreadbox Disorder Fuzz Effects Pedal with Self-Oscillating Filter &ndash; Kraft Music: https://kraftmusic.com/products/dreadbox-disorder-fuzz-effects-pedal-with-self-oscillating-filter
-5. Dreadbox Disorder Fuzz – United States: https://www.thomannmusic.com/dreadbox_disorder_fuzz.htm
+## Specifications
+- **Model:** Disorder
+- **Type:** Fuzz
+- **Filter:** Self-oscillating filter section
+- **Documented controls:** Sensitivity and Cutoff are explicitly referenced in the reviewed operating material
+- **Power/component details:** exact production BOM not established in this pass
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive photo:** No verified local photo is currently archived for Disorder.
+- External product imagery remains separate from archive-local photo coverage.
 
-## Deep research verification
+## Research evidence
+**Sources checked:**
+1. https://dreadbox-fx.com/disorder/ — first-party Dreadbox product page.
+2. https://www.sweetwater.com/store/detail/Disorder--dreadbox-disorder-fuzz-pedal — exact-model product reference.
+3. https://guitar.com/reviews/effects-pedal/dreadbox-disorder-review/ — exact-model review and filter/fuzz behavior.
+4. https://kraftmusic.com/products/dreadbox-disorder-fuzz-effects-pedal-with-self-oscillating-filter — exact-model product reference documenting the self-oscillating filter.
 
-This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
-
-### Verified description
-Dreadbox's Disorder is cataloged as a fuzz pedal.
-
-### Sources checked in this pass
-1. Disorder - Dreadbox Synthesizers: https://dreadbox-fx.com/disorder/
-2. Dreadbox Disorder Fuzz Pedal | Sweetwater: https://www.sweetwater.com/store/detail/Disorder--dreadbox-disorder-fuzz-pedal
+**Research confidence:** High for model identity, Fuzz taxonomy, and self-oscillating filter behavior; moderate for complete circuit construction.
