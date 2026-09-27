@@ -44,3 +44,7 @@ The pedal is documented as a combined wah, fuzz, and swell effect. The wah porti
 1. Effects Database — CBS-Arbiter: https://www.effectsdatabase.com/model/arbiter/cbs
 2. ToneHome — CBS/Arbiter Wah Fuzz Swell: https://www.tonehome.de/cbs-arbiter/wah-fuzz-swell/
 3. Reverb — Vintage CBS Arbiter Wah Fuzz Swell: https://reverb.com/item/11694913-vintage-cbs-arbiter-london-wah-fuzz-swell-gary-hurst-original-1970s-colorsound-sola-sound-tonebender-guitar-pedal
+
+## Deep research verification
+
+The exact CBS-Arbiter Wah-Fuzz-Swell record documents a combined **wah, fuzz and swell** effect in the 1970s Gary Hurst/Electronic Sounds family. ToneHome identifies the exact model as a CBS/Arbiter unit made in Italy; the broader Effects Database family places the CBS-Arbiter series in the 1975-1979 period. A complete factory control map and numbered revision history are not established, so the archive leaves those details unresolved rather than importing them from related Wah-Swell models.
