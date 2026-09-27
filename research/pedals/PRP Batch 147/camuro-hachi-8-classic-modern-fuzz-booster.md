@@ -13,3 +13,8 @@
 - **Research confidence:** High for the collaboration, functional layout, and stated Japanese-fuzz design goal; component-level details were not documented.
 - **Sources checked:**
   - https://camuro.co.jp/hachi-8
+## Deep research verification
+
+Camuro's primary hachi “8” page confirms this is a combined **fuzz + booster** design intended around Japanese vintage-fuzz traditions. The fuzz and booster share part of the circuit, so they cannot be operated simultaneously. A mode switch selects **fuzz or booster**, and a mini-toggle changes the fuzz/booster tone between a **fat** and **trebly** character. Camuro says the booster is voiced in the style of the pre-clean-booster era, while the fuzz aims for a distinctly Japanese character. Power is 9V via P006 battery or centre-negative adapter, with modern LED indication.
+
+Source: https://camuro.co.jp/hachi-8
