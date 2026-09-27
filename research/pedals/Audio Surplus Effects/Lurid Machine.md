@@ -4,45 +4,66 @@
 - **Archive parent:** Lurid Machine
 - **Builder:** Audio Surplus Effects
 - **Catalog type:** Distortion
-- **Identity:** Solid-state distortion/preamp based on the distinctive saturation/gain section of the Peavey Century 200H, expanded with more gain, saturation and active EQ.
+- **Identity:** Solid-state distortion/preamp based on the Peavey Century 200H gain/saturation section, expanded with active bass/treble EQ and additional saturation. [1][2]
 
 ## What this pedal is
-Lurid Machine was developed around the Peavey Century 200H gain section associated with bassist/vocalist Chris Clarke of Modern Technology. Audio Surplus Effects extends that source circuit with additional gain and saturation plus active high and low EQ controls.
+Lurid Machine was developed in collaboration with heavy noise rock duo Modern Technology around bassist/vocalist Chris Clarke's Peavey Century 200H amplifier. Audio Surplus Effects reproduces the distinctive gain section and extends it with more gain and saturation. [1][2]
 
-## Colorways
-- No reliable named factory colorway history was verified.
-- The enclosure is documented as a custom-built limited-run pedal rather than a colorway family.
+## Controls
+- **LEVEL:** Output volume.
+- **SAT:** Amount of saturation/distortion.
+- **PRE-GAIN:** Signal fed into the saturation section.
+- **HIGH:** High-frequency EQ.
+- **LOW:** Low-frequency EQ. [1]
 
-## Versions and factory options
-### Lurid Machine production
-- Level
-- Sat saturation control
-- Pre-Gain
-- High EQ
-- Low EQ
-- On-board charge pump generating an 18V-equivalent bipolar rail (+/-9V)
-- 9VDC center-negative power
-- No battery option
-
-## Version changes
-No numbered production revision was verified.
+## Circuit / architecture
+- Derived from the **Peavey Century 200H** saturation/gain section.
+- Active low and high EQ based on the source amplifier.
+- On-board charge pump generates approximately **+/-9V bipolar rails** from a 9V input to reproduce greater headroom around the amp-derived circuit. [1]
+- Audio Surplus Effects describes the result as a deliberately rough, ragged solid-state distortion.
 
 ## Transistor
-- **Technology:** Solid-state.
-- **Exact device:** Not publicly documented in the sources checked.
+- Exact active-device part numbers are not publicly documented.
 
-## Diode
-- **Type:** Exact clipping diode arrangement is not publicly documented.
+## Diode / clipping
+- Exact clipping diode arrangement is not publicly documented.
+
+## Construction / version context
+- Limited-run collaboration with Modern Technology.
+- U.K. production.
+- Current builder listing indicates small-batch production and a dedicated collaboration history. [1][2]
+
+## Power
+- **Input:** 9VDC, 2.1mm center-negative.
+- **No battery option.**
+- Higher external voltage is not supported and may damage the pedal.
+- The internal charge pump creates the bipolar rail used by the circuit. [1]
+
+## Version history
+- No numbered hardware revision established.
+- The key historical context is the Modern Technology collaboration and Peavey Century 200H source circuit.
 
 ## Sound
-The design is intended to produce rough, ragged solid-state distortion with substantial saturation and low-end authority. The active EQ gives unusually broad bass and treble shaping, while the internal higher-voltage rail is used to increase headroom around the amp-derived circuit.
+The Lurid Machine is intended to produce rough, saturated solid-state distortion with strong low-end authority. The Pre-Gain and Sat controls interact, while the High and Low EQ provide broad shaping, including substantial bass boost without the low-end loss common to some distortion designs. [1]
+
+## Research confidence
+- **Identity:** High
+- **Peavey Century 200H lineage:** High
+- **Collaboration:** High
+- **Controls:** High
+- **Charge-pump bipolar rail:** High
+- **9V center-negative:** High
+- **Exact active device:** Unknown
+- **Exact diode:** Unknown
+
+## Deep research verification
+The current Audio Surplus Effects product listing was checked against Modern Technology's official album page, which documents the collaboration and the Peavey Century 200H gain-section origin. The charge-pump/headroom description and control set are retained from the builder source. [1][2]
 
 ## Sources checked
 1. Audio Surplus Effects — Lurid Machine: https://audiosurpluseffects.bigcartel.com/product/lurid-machine
-2. Modern Technology — Conditions of Worth page describing the Lurid Machine: https://modern-technology.bandcamp.com/album/conditions-of-worth
-3. Reverb — Lurid Machine listing: https://reverb.com/item/84504846-audio-surplus-effects-lurid-machine
+2. Modern Technology — Conditions of Worth: https://modern-technology.bandcamp.com/album/conditions-of-worth
+3. PedalFilter — Lurid Machine: https://pedalfilter.com/audio-surplus-effects/lurid-machine
 
 ## Photo
 - **Archive status:** **No Photo Archived**
-- **Exact-model reference checked:** https://audiosurpluseffects.bigcartel.com/product/lurid-machine
-- **Archive note:** Exact-model images are available from the builder, but no stable archive asset is being promoted in this pass.
+- **Exact-model reference checked:** builder product page.
