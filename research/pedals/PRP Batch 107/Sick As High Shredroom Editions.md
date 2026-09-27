@@ -22,3 +22,5 @@ The circuit identity stays with the High Shredroom design: higher gain than the 
 
 ## Archive photo
 - **Archive status:** **No Photo Archived**
+## Deep research verification
+Bondi's High Shredroom platform is the higher-gain branch of Sick As, developed with Earthling Designs. The documented circuit uses internal 18V operation and active two-band EQ, with a narrower mid focus and more open top/bottom response than standard Sick As. Blackout, Graphite and Neon Pink are documented production/limited finishes of this platform, not separate circuits.
