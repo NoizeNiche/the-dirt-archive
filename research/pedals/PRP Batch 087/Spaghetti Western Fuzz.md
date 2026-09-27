@@ -12,3 +12,5 @@ https://www.effectsdatabase.com/model/bigfoot/spaghettiwestern
 
 ## Archive photo
 - **Archive status:** **No Photo Archived**
+## Deep research verification
+The cited Effects Database record identifies Spaghetti Western Fuzz as a distinct Bigfoot F.X. fuzz aimed at buzz and honk rather than smooth Fuzz Face or Big Muff tones. Verified controls are **Volume** and **Fuzz**. The source describes an early Fuzzrite/Companion-like character, strongest with single-coil guitars, and records publication on April 6, 2009.
