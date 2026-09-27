@@ -8204,6 +8204,31 @@
     },
     {
       "company": "Beetronics",
+      "pedal": "Nectar Tone Sweetener Drive/Fuzz",
+      "types": [
+        "Overdrive",
+        "Fuzz"
+      ],
+      "image": "",
+      "source_page": "https://www.beetronicsfx.com/collections/all-pedals-1",
+      "research_record": "./research/pedals/Beetronics/Nectar Tone Sweetener Drive/Fuzz.md",
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "Beetronics",
+      "pedal": "Octahive V1 Upper Octave Fuzz",
+      "types": [
+        "Fuzz"
+      ],
+      "image": "",
+      "source_page": "https://www.beetronicsfx.com/collections/all-pedals-1",
+      "research_record": "./research/pedals/Beetronics/Octahive V1 Upper Octave Fuzz.md",
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "Beetronics",
       "pedal": "Octahive v2 High Octave Buzz",
       "types": [
         "Fuzz"
@@ -8286,6 +8311,19 @@
       "research_record": "./research/pedals/Beetronics/Wannabee Beelateral Buzz.md",
       "research_level": "surface",
       "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Beetronics",
+      "pedal": "Zzombee Filtremulator",
+      "types": [
+        "Fuzz",
+        "Overdrive"
+      ],
+      "image": "",
+      "source_page": "https://www.beetronicsfx.com/collections/all-pedals-1",
+      "research_record": "./research/pedals/Beetronics/Zzombee Filtremulator.md",
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Beetronics FX",
@@ -36452,20 +36490,6 @@
     },
     {
       "company": "HardWire",
-      "pedal": "none identified",
-      "types": [
-        "Distortion",
-        "Fuzz",
-        "Overdrive"
-      ],
-      "image": "./assets/pedals/hardwire/none-identified/primary.webp",
-      "source_page": null,
-      "research_record": "./research/pedals/HardWire/none identified.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
-    },
-    {
-      "company": "HardWire",
       "pedal": "SC-2 Valve Distortion",
       "types": [
         "Distortion"
@@ -38224,6 +38248,18 @@
     },
     {
       "company": "JHS Pedals",
+      "pedal": "73 Rams Head",
+      "types": [
+        "Fuzz",
+        "Distortion"
+      ],
+      "source_page": "https://jhspedals.info/products/73-rams-head",
+      "research_record": "./research/pedals/JHS Pedals/73 Rams Head.md",
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "JHS Pedals",
       "pedal": "424 Gain Stage",
       "types": [
         "Distortion",
@@ -38285,6 +38321,30 @@
     },
     {
       "company": "JHS Pedals",
+      "pedal": "Bunrunner 2 in 1",
+      "types": [
+        "Fuzz",
+        "Overdrive"
+      ],
+      "source_page": "https://jhspedals.info/products/bunrunner-hand-paint",
+      "research_record": "./research/pedals/JHS Pedals/Bunrunner 2 in 1.md",
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "JHS Pedals",
+      "pedal": "Calhoun V2",
+      "types": [
+        "Fuzz",
+        "Overdrive"
+      ],
+      "source_page": "https://jhspedals.info/products/calhoun-hand-paint",
+      "research_record": "./research/pedals/JHS Pedals/Calhoun V2, Mike Campbell.md",
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "JHS Pedals",
       "pedal": "Charlie Brown V4",
       "types": [
         "Overdrive"
@@ -38305,6 +38365,19 @@
       "image": "./assets/pedals/jhs-pedals/cheese-ball/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/JHS Pedals/Cheese Ball.md",
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "JHS Pedals",
+      "pedal": "Colour Box V1",
+      "types": [
+        "Overdrive",
+        "Distortion",
+        "Fuzz"
+      ],
+      "source_page": "https://jhspedals.info/products/colour-box-v1",
+      "research_record": "./research/pedals/JHS Pedals/Colour Box V1.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED"
     },
@@ -38344,6 +38417,17 @@
       "image": "./assets/pedals/jhs-pedals/crayon/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/JHS Pedals/Crayon.md",
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "JHS Pedals",
+      "pedal": "Double Barrel V4",
+      "types": [
+        "Overdrive"
+      ],
+      "source_page": "https://jhspedals.info/products/double-barrel-v4",
+      "research_record": "./research/pedals/JHS Pedals/Double Barrel V4.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED"
     },
@@ -38427,6 +38511,19 @@
     },
     {
       "company": "JHS Pedals",
+      "pedal": "Kilt V1",
+      "types": [
+        "Overdrive",
+        "Distortion",
+        "Fuzz"
+      ],
+      "source_page": "https://jhspedals.info/products/kilt-v1-stug",
+      "research_record": "./research/pedals/JHS Pedals/Kilt V1, Stu G.md",
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "JHS Pedals",
       "pedal": "Kilt V2",
       "types": [
         "Overdrive"
@@ -38434,6 +38531,17 @@
       "image": "./assets/pedals/jhs-pedals/kilt-v2/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/JHS Pedals/Kilt V2.md",
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "JHS Pedals",
+      "pedal": "Mini Foot Fuzz V1",
+      "types": [
+        "Fuzz"
+      ],
+      "source_page": "https://jhspedals.info/products/mini-foot-fuzz-v2",
+      "research_record": "./research/pedals/JHS Pedals/Mini Foot Fuzz V1.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED"
     },
@@ -38586,6 +38694,18 @@
     },
     {
       "company": "JHS Pedals",
+      "pedal": "Pandamonium",
+      "types": [
+        "Fuzz",
+        "Overdrive"
+      ],
+      "source_page": "https://jhspedals.info/products/pandamonium",
+      "research_record": "./research/pedals/JHS Pedals/Pandamonium.md",
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "JHS Pedals",
       "pedal": "PG-14",
       "types": [
         "Overdrive"
@@ -38593,6 +38713,19 @@
       "image": "./assets/pedals/jhs-pedals/pg-14/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/JHS Pedals/PG-14.md",
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "JHS Pedals",
+      "pedal": "Ruby Red",
+      "types": [
+        "Overdrive",
+        "Distortion",
+        "Fuzz"
+      ],
+      "source_page": "https://jhspedals.info/products/ruby-red-butch-walker",
+      "research_record": "./research/pedals/JHS Pedals/Ruby Red, Butch Walker.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED"
     },
@@ -38619,6 +38752,29 @@
       "research_record": "./research/pedals/JHS Pedals/Steak and Eggs Overdrive/Compressor.md",
       "research_level": "surface",
       "deep_research_status": "PENDING"
+    },
+    {
+      "company": "JHS Pedals",
+      "pedal": "SuperBolt V2",
+      "types": [
+        "Overdrive"
+      ],
+      "source_page": "https://jhspedals.info/products/superbolt-v2",
+      "research_record": "./research/pedals/JHS Pedals/SuperBolt V2.md",
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "JHS Pedals",
+      "pedal": "Sweet Tea V3",
+      "types": [
+        "Overdrive",
+        "Distortion"
+      ],
+      "source_page": "https://jhspedals.info/products/sweet-tea-v3",
+      "research_record": "./research/pedals/JHS Pedals/Sweet Tea V3.md",
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "JHS Pedals",
@@ -41692,18 +41848,6 @@
     },
     {
       "company": "Marshall Amplification",
-      "pedal": "none identified",
-      "types": [
-        "Fuzz"
-      ],
-      "image": "./assets/pedals/marshall-amplification/none-identified/primary.webp",
-      "source_page": null,
-      "research_record": "./research/pedals/Marshall Amplification/none identified.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
-    },
-    {
-      "company": "Marshall Amplification",
       "pedal": "Shredmaster Vintage Reissue",
       "types": [
         "Distortion"
@@ -43512,18 +43656,6 @@
       "image": "./assets/pedals/mesa-boogie/grid-slammer/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/MESA/Boogie/Grid Slammer.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
-    },
-    {
-      "company": "MESA/Boogie",
-      "pedal": "none identified",
-      "types": [
-        "Fuzz"
-      ],
-      "image": "./assets/pedals/mesa-boogie/none-identified/primary.webp",
-      "source_page": null,
-      "research_record": "./research/pedals/MESA/Boogie/none identified.md",
       "research_level": "surface",
       "deep_research_status": "PENDING"
     },
@@ -46182,20 +46314,6 @@
       "research_record": "./research/pedals/Orange Amplification/Guitar Butler.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED"
-    },
-    {
-      "company": "Orange Amplification",
-      "pedal": "none identified",
-      "types": [
-        "Distortion",
-        "Fuzz",
-        "Overdrive"
-      ],
-      "image": "./assets/pedals/orange-amplification/none-identified/primary.webp",
-      "source_page": null,
-      "research_record": "./research/pedals/Orange Amplification/none identified.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
     },
     {
       "company": "Organic Sounds",
@@ -49763,20 +49881,6 @@
     },
     {
       "company": "Strymon",
-      "pedal": "none identified",
-      "types": [
-        "Distortion",
-        "Fuzz",
-        "Overdrive"
-      ],
-      "image": null,
-      "source_page": null,
-      "research_record": "./research/pedals/Strymon/none identified.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
-    },
-    {
-      "company": "Strymon",
       "pedal": "Riverside Drive & Distortion",
       "types": [
         "Distortion",
@@ -50197,18 +50301,6 @@
       "research_record": "./research/pedals/TC Electronic/MojoMojo Paul Gilbert Signature Overdrive.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED"
-    },
-    {
-      "company": "TC Electronic",
-      "pedal": "none identified",
-      "types": [
-        "Fuzz"
-      ],
-      "image": null,
-      "source_page": null,
-      "research_record": "./research/pedals/TC Electronic/none identified.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
     },
     {
       "company": "TC Electronic",
@@ -52240,18 +52332,6 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Voodoo Lab/GIGGITY.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
-    },
-    {
-      "company": "Voodoo Lab",
-      "pedal": "none",
-      "types": [
-        "Distortion"
-      ],
-      "image": null,
-      "source_page": null,
-      "research_record": "./research/pedals/Voodoo Lab/none.md",
       "research_level": "surface",
       "deep_research_status": "PENDING"
     },
@@ -54876,176 +54956,6 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/ZVEX Effects/Woolly Mammoth 7.md",
-      "research_level": "deep",
-      "deep_research_status": "VERIFIED"
-    },
-    {
-      "company": "JHS Pedals",
-      "pedal": "73 Rams Head",
-      "types": [
-        "Fuzz",
-        "Distortion"
-      ],
-      "source_page": "https://jhspedals.info/products/73-rams-head",
-      "research_record": "./research/pedals/JHS Pedals/73 Rams Head.md",
-      "research_level": "deep",
-      "deep_research_status": "VERIFIED"
-    },
-    {
-      "company": "JHS Pedals",
-      "pedal": "Double Barrel V4",
-      "types": [
-        "Overdrive"
-      ],
-      "source_page": "https://jhspedals.info/products/double-barrel-v4",
-      "research_record": "./research/pedals/JHS Pedals/Double Barrel V4.md",
-      "research_level": "deep",
-      "deep_research_status": "VERIFIED"
-    },
-    {
-      "company": "JHS Pedals",
-      "pedal": "Sweet Tea V3",
-      "types": [
-        "Overdrive",
-        "Distortion"
-      ],
-      "source_page": "https://jhspedals.info/products/sweet-tea-v3",
-      "research_record": "./research/pedals/JHS Pedals/Sweet Tea V3.md",
-      "research_level": "deep",
-      "deep_research_status": "VERIFIED"
-    },
-    {
-      "company": "JHS Pedals",
-      "pedal": "SuperBolt V2",
-      "types": [
-        "Overdrive"
-      ],
-      "source_page": "https://jhspedals.info/products/superbolt-v2",
-      "research_record": "./research/pedals/JHS Pedals/SuperBolt V2.md",
-      "research_level": "deep",
-      "deep_research_status": "VERIFIED"
-    },
-    {
-      "company": "JHS Pedals",
-      "pedal": "Kilt V1",
-      "types": [
-        "Overdrive",
-        "Distortion",
-        "Fuzz"
-      ],
-      "source_page": "https://jhspedals.info/products/kilt-v1-stug",
-      "research_record": "./research/pedals/JHS Pedals/Kilt V1, Stu G.md",
-      "research_level": "deep",
-      "deep_research_status": "VERIFIED"
-    },
-    {
-      "company": "JHS Pedals",
-      "pedal": "Colour Box V1",
-      "types": [
-        "Overdrive",
-        "Distortion",
-        "Fuzz"
-      ],
-      "source_page": "https://jhspedals.info/products/colour-box-v1",
-      "research_record": "./research/pedals/JHS Pedals/Colour Box V1.md",
-      "research_level": "deep",
-      "deep_research_status": "VERIFIED"
-    },
-    {
-      "company": "JHS Pedals",
-      "pedal": "Mini Foot Fuzz V1",
-      "types": [
-        "Fuzz"
-      ],
-      "source_page": "https://jhspedals.info/products/mini-foot-fuzz-v2",
-      "research_record": "./research/pedals/JHS Pedals/Mini Foot Fuzz V1.md",
-      "research_level": "deep",
-      "deep_research_status": "VERIFIED"
-    },
-    {
-      "company": "JHS Pedals",
-      "pedal": "Bunrunner 2 in 1",
-      "types": [
-        "Fuzz",
-        "Overdrive"
-      ],
-      "source_page": "https://jhspedals.info/products/bunrunner-hand-paint",
-      "research_record": "./research/pedals/JHS Pedals/Bunrunner 2 in 1.md",
-      "research_level": "deep",
-      "deep_research_status": "VERIFIED"
-    },
-    {
-      "company": "JHS Pedals",
-      "pedal": "Calhoun V2",
-      "types": [
-        "Fuzz",
-        "Overdrive"
-      ],
-      "source_page": "https://jhspedals.info/products/calhoun-hand-paint",
-      "research_record": "./research/pedals/JHS Pedals/Calhoun V2, Mike Campbell.md",
-      "research_level": "deep",
-      "deep_research_status": "VERIFIED"
-    },
-    {
-      "company": "JHS Pedals",
-      "pedal": "Ruby Red",
-      "types": [
-        "Overdrive",
-        "Distortion",
-        "Fuzz"
-      ],
-      "source_page": "https://jhspedals.info/products/ruby-red-butch-walker",
-      "research_record": "./research/pedals/JHS Pedals/Ruby Red, Butch Walker.md",
-      "research_level": "deep",
-      "deep_research_status": "VERIFIED"
-    },
-    {
-      "company": "JHS Pedals",
-      "pedal": "Pandamonium",
-      "types": [
-        "Fuzz",
-        "Overdrive"
-      ],
-      "source_page": "https://jhspedals.info/products/pandamonium",
-      "research_record": "./research/pedals/JHS Pedals/Pandamonium.md",
-      "research_level": "deep",
-      "deep_research_status": "VERIFIED"
-    },
-    {
-      "company": "Beetronics",
-      "pedal": "Octahive V1 Upper Octave Fuzz",
-      "types": [
-        "Fuzz"
-      ],
-      "image": "",
-      "source_page": "https://www.beetronicsfx.com/collections/all-pedals-1",
-      "research_record": "./research/pedals/Beetronics/Octahive V1 Upper Octave Fuzz.md",
-      "research_level": "deep",
-      "deep_research_status": "VERIFIED"
-    },
-    {
-      "company": "Beetronics",
-      "pedal": "Nectar Tone Sweetener Drive/Fuzz",
-      "types": [
-        "Overdrive",
-        "Fuzz"
-      ],
-      "image": "",
-      "source_page": "https://www.beetronicsfx.com/collections/all-pedals-1",
-      "research_record": "./research/pedals/Beetronics/Nectar Tone Sweetener Drive/Fuzz.md",
-      "research_level": "deep",
-      "deep_research_status": "VERIFIED"
-    },
-    {
-      "company": "Beetronics",
-      "pedal": "Zzombee Filtremulator",
-      "types": [
-        "Fuzz",
-        "Overdrive"
-      ],
-      "image": "",
-      "source_page": "https://www.beetronicsfx.com/collections/all-pedals-1",
-      "research_record": "./research/pedals/Beetronics/Zzombee Filtremulator.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED"
     }
