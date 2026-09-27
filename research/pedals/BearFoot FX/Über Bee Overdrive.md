@@ -1,42 +1,54 @@
-# BearFoot FX - Über Bee Overdrive
+# BearFoot FX — Über Bee Overdrive
 
 ## PRP identity
 - **Archive parent:** Über Bee Overdrive
 - **Builder:** BearFoot FX
 - **Catalog type:** Overdrive
-- **Identity:** Expanded Honey Bee-family overdrive that extends the classic Bee range upward while covering the territory between Honey Bee and Honey Beest.
+- **Identity:** Expanded Honey Bee-family overdrive positioned between Honey Bee and Honey Beest in gain, with additional tonal range and variable-voltage operation. [1][2]
 
 ## What this pedal is
-BearFoot describes the Über Bee as an expansion of the Honey Bee range. Its Drive control starts around the cleaner end of the Honey family, reaches the maximum dirt of the Honey Bee, and then continues to roughly twice that dirt density before moving into the territory better suited to the Honey Beest.
+Effects Database describes Über Bee as extending the Honey Bee range upward. Its Drive control starts around the cleaner Bee end, reaches the original Honey Bee's maximum dirt, then continues into a substantially denser drive range approaching Honey Beest territory. [1]
 
-## Colorways
-- Gold/yellow figured finishes are documented.
-- No complete factory colorway chronology was verified.
+## Circuit lineage
+- **Primary lineage:** Honey Bee Overdrive.
+- The model is an expansion of the Honey Bee family, not a simple cosmetic revision. [1]
 
-## Versions and factory options
-### Über Bee Overdrive
-- Four-control BearFoot overdrive
-- 5-15V operation
-- Honey Bee-family architecture
-- No numbered factory revision was verified.
-
-## Version changes
-No numbered production revision was established in the checked sources.
+## Controls
+- BearFoot's surviving product record identifies it as a four-control Honey Bee-family overdrive.
+- Exact printed control labels are not preserved reliably enough in the reviewed sources to reconstruct them all without guessing.
 
 ## Transistor
-- **Exact production transistor/device part numbers:** Not publicly documented in the checked sources.
+- Exact production transistor/device part numbers are not publicly documented.
 
-## Diode
-- **Exact clipping/protection arrangement:** Not publicly documented.
+## Diode / clipping
+- Exact clipping/protection device and part number are not publicly documented.
+
+## Power
+- **5–15V DC** family operation is documented by BearFoot references. [2]
+
+## Version history
+- No numbered electronic revision established.
+- Gold/yellow figured finishes are cosmetic variations.
 
 ## Sound
-Über Bee fills the gain range between the original Honey Bee and the higher-gain Honey Beest. BearFoot specifically describes it as capable of cleaner, brighter Bee sounds as well as substantially stronger dirt, with the same broad 5-15V operating approach used elsewhere in the Bee family. citeturn703842view3
+Über Bee fills the gain territory between Honey Bee and Honey Beest. Effects Database describes its Drive range as continuing past the Honey Bee's maximum dirt before approaching the much heavier Beest region. This makes the model a documented intermediate step within the Honey-family gain architecture. [1]
+
+## Research confidence
+- **Identity:** High
+- **Honey Bee lineage:** High
+- **Intermediate-gain role:** High
+- **5–15V:** High
+- **Exact control map:** Medium
+- **Exact transistor:** Unknown
+- **Exact diode:** Unknown
+
+## Deep research verification
+Effects Database's exact Über Bee record was cross-checked with BearFoot family power documentation. The gain relationship to Honey Bee/Honey Beest and the 5–15V operating family are supported, while the incomplete external control legend remains intentionally unresolved. [1][2]
 
 ## Sources checked
-1. Effects Database, Über Bee: https://www.effectsdatabase.com/model/bearfoot/uberbee
-2. BearFoot family power specifications: https://www.pedalboard.org/strom-liste/bearfoot-fx
+1. Effects Database — BearFoot Über Bee: https://www.effectsdatabase.com/model/bearfoot/uberbee
+2. BearFoot family power reference: https://www.pedalboard.org/strom-liste/bearfoot-fx
 
 ## Photo
-- **Archive status:** **Exact Photo Attached to Public Catalog**
-- **Exact-model image:** https://files.effectsdatabase.com/gear/thumbs/bearfoot_uberbee_001.jpg
-- **Source page:** https://www.effectsdatabase.com/model/bearfoot/uberbee
+- **Exact pedal photograph:** Effects Database exact-model image.
+- https://files.effectsdatabase.com/gear/thumbs/bearfoot_uberbee_001.jpg
