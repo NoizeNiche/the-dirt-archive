@@ -209,7 +209,7 @@ jobs:
           delta = after - before
           print(f"Photo foreman accepted={accepted}; canonical pictured delta={delta} (before={before}, after={after})")
           with open(__import__("os").environ["GITHUB_OUTPUT"], "a", encoding="utf-8") as fh:
-              fh.write(f"delta={delta}\\n")
+              fh.write(f"delta={delta}\n")
           if accepted > 0 and delta <= 0:
               raise SystemExit("Accepted photo recoveries did not reach canonical Picture=DONE state.")
           if delta < 0:
