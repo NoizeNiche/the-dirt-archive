@@ -377,13 +377,33 @@ def main():
 
     created = 0
     deepened = 0
+    adopted = 0
     created_paths = []
     deepened_paths = []
+    adopted_paths = []
     skipped = 0
     held = 0
     packet_paths = sorted(INBOX.rglob("*.json"))
     if allowed_files is not None:
-        packet_paths = [p for p in packet_paths if p.as_posix() in allowed_files]
+        direct_paths = [p for p in packet_paths if p.as_posix() in allowed_files]
+        direct_set = {p.as_posix() for p in direct_paths}
+        orphan_paths = []
+        for candidate_path in packet_paths:
+            if candidate_path.as_posix() in direct_set:
+                continue
+            try:
+                candidate = json.loads(candidate_path.read_text(encoding="utf-8"))
+            except Exception:
+                continue
+            if candidate.get("status") != "VERIFIED_EVIDENCE_STAGED":
+                continue
+            candidate_key = (candidate.get("builder", ""), candidate.get("pedal", ""))
+            if candidate_key in by_key:
+                continue
+            if resolve_catalog_key(candidate_key[0], candidate_key[1], by_key):
+                orphan_paths.append(candidate_path)
+        packet_paths = sorted(direct_paths + orphan_paths)
+
     for packet_path in packet_paths:
         try:
             packet = json.loads(packet_path.read_text(encoding="utf-8"))
@@ -393,11 +413,13 @@ def main():
             continue
         packet_builder = packet.get("builder", "")
         packet_pedal = packet.get("pedal", "")
+        packet_key = (packet_builder, packet_pedal)
         key = resolve_catalog_key(packet_builder, packet_pedal, by_key)
         item = by_key.get(key) if key else None
         if not item:
             held += 1
             continue
+        is_orphan = key != packet_key
         existing_revisitable = (
             str(item.get("research_level") or "").strip().lower() in {"surface", "researched"}
             and bool(item.get("research_record"))
@@ -412,10 +434,22 @@ def main():
                 deepened_paths.append(reason)
             else:
                 created_paths.append(reason)
+            if is_orphan:
+                adopted += 1
+                adopted_paths.append(reason)
         else:
             skipped += 1
     INDEX.write_text(json.dumps(catalog, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-    print(json.dumps({"created": created, "deepened": deepened, "created_paths": created_paths, "deepened_paths": deepened_paths, "skipped": skipped, "held": held}, ensure_ascii=True))
+    print(json.dumps({
+        "created": created,
+        "deepened": deepened,
+        "adopted": adopted,
+        "created_paths": created_paths,
+        "deepened_paths": deepened_paths,
+        "adopted_paths": adopted_paths,
+        "skipped": skipped,
+        "held": held,
+    }, ensure_ascii=True))
     
 
 if __name__ == "__main__":
