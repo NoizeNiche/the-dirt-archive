@@ -15,3 +15,8 @@ The reviewed source does not provide enough direct evidence to assign a specific
 1. Effects Database: https://www.effectsdatabase.com/model/cqo/superdistortion
 
 Effects Database supplies the model identity and three-knob family relationship. citeturn4view1
+## Deep research verification
+
+Effects Database documents the exact C.Q.O. **Super Distortion** as a three-knob Japanese-market distortion in the wider Super Distortion family, alongside related Coron DC-809-era variants. The source does not establish a C.Q.O.-specific schematic or component list, so those remain unresolved.
+
+Source: https://www.effectsdatabase.com/model/cqo/superdistortion
