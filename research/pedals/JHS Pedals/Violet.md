@@ -1,23 +1,42 @@
 # JHS Pedals — Violet
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Violet
 - **Builder:** JHS Pedals
-- **Pedal:** Violet
 - **Catalog type:** Distortion / Fuzz / Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** JHS Pedals's Violet.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Violet** by **JHS Pedals** as a **Distortion / Fuzz / Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+The unique three-band EQ sets the Violet apart from our other popular distortion pedals.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- JHS Pedals Violet Lari Basilio Signature Distortion/Overdrive Effects Pedal Black
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+Using this pedal is like adding a new and ultra-flexible distortion channel to your favorite clean amplifier.
+The unique three-band EQ sets the Violet apart from our other popular distortion pedals.
+We placed the Midrange control before the distortion circuit as a powerful pre-amp distortion shaping tool.
+
+## Sources checked
+1. VIOLET – JHS Pedals: https://jhspedals.info/products/the-violet
+2. open prime modal: https://www.amazon.com/clp/B0DMJY3KCZ
+3. JHS Pedals Violet Lari Basilio Signature Distortion/Overdrive Effects Pedal Black | Guitar Center: https://www.guitarcenter.com/JHS-Pedals/Violet-Lari-Basilio-Signature-Distortion-Overdrive-Effects-Pedal-Black-1500000446429.gc
+4. THE VIOLET - JHS Pedals: http://www.earthquakerec.com/the-violet.html
+5. JHS Pedals The Violet Distortion - Lari Basilio Signature Distortion ...: https://www.effectsdatabase.com/model/jhspedals/violet
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
