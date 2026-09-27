@@ -1,61 +1,56 @@
-# BearFoot FX - Pink Purple Fuzz
+# BearFoot FX — Pink Purple Fuzz
 
 ## PRP identity
 - **Archive parent:** Pink Purple Fuzz
 - **Builder:** BearFoot FX
 - **Catalog type:** Fuzz
-- **Identity:** Three-control vintage-voiced fuzz that can cover fuzz, distortion, and lower-gain drive territory.
+- **Identity:** Vintage-oriented fuzz spanning mild breakup through rich high-gain fuzz, with a broad EQ control that alters the midrange curve. [1][2]
 
 ## What this pedal is
-Pink Purple Fuzz is a BearFoot/BJF Design fuzz aimed at 1960s- and 1970s-style tones. Reverb identifies it as a 2010s U.S.-made pink-finish model, while retailer coverage describes a wide range from mild breakup to rich high-gain fuzz.
+Reverb's archive describes Pink Purple Fuzz as a fuzz that can wind down toward very mild breakup while still reaching rich singing high-gain tones. The EQ control provides substantial midrange variation across its rotation. [1]
 
-## Colorways
-- Pink is the defining documented production finish.
-- The model name itself is tied to the pink/purple enclosure treatment.
+## Controls
+- **VOLUME**
+- **FUZZ**
+- **EQ / tone**
+The exact label on surviving examples can vary, but the three-function layout is documented across the exact-model sources. [1][2]
 
-## Versions and factory options
-### Pink Purple Fuzz
-- Volume
-- Fuzz
-- EQ/tone control
-- BearFoot/BJF Design enclosure
-- No numbered factory version was verified.
-
-## Version changes
-No numbered factory revision was established in the checked sources.
+## Circuit lineage
+- BJFE/BearFoot family fuzz design.
+- No single historical clone circuit is established from the reviewed sources.
 
 ## Transistor
-- **Technology:** Exact production transistor type is not publicly documented in the checked sources.
-- DIY trace discussions exist, but they are not treated as factory component evidence.
+- Exact production transistor technology and part number are not publicly documented.
+- DIY trace discussions are not treated as factory BOM evidence.
 
-## Diode
-- **Exact clipping/protection arrangement:** Not publicly documented.
+## Diode / clipping
+- Exact clipping/protection device and part number are not publicly documented.
+
+## Power
+- Standard pedal power is documented for BearFoot examples.
+
+## Version history
+- No numbered electronic revision established.
+- Pink/purple finish is the defining presentation, not a circuit revision.
 
 ## Sound
-Pink Purple Fuzz is voiced to move unusually far across the dirt spectrum, from mild breakup and overdrive-like sounds into high-gain fuzz. The EQ control changes the midrange character, while the overall circuit is described as remaining usable across a wide range without obvious chain-position dependence.
+Pink Purple Fuzz can move from mild breakup into high-gain fuzz. Reverb/Topshelf descriptions emphasize a rich, singing region between fuzz and distortion, while the EQ control provides substantial midrange-shape variation. [1][2]
+
+## Research confidence
+- **Identity:** High
+- **Fuzz-to-breakup range:** High
+- **Three-control architecture:** High
+- **Exact transistor:** Unknown
+- **Exact diode:** Unknown
+
+## Deep research verification
+The exact Reverb product record was checked against the Topshelf Instruments listing and BearFoot/BJFE community documentation. The evidence supports the model identity, broad dirt range and EQ behavior while leaving the factory semiconductor recipe unresolved. [1][2][3]
 
 ## Sources checked
-1. Reverb, Pink Purple Fuzz: https://reverb.com/p/bearfoot-fx-pink-purple-fuzz
-2. Topshelf Instruments, Pink Purple Fuzz: https://topshelfinstruments.com.au/products/bearfoot-fx-pink-purple-fuzz-pedal-1
+1. Reverb — BearFoot FX Pink Purple Fuzz: https://reverb.com/p/bearfoot-fx-pink-purple-fuzz
+2. Topshelf Instruments — Pink Purple Fuzz: https://topshelfinstruments.com.au/products/bearfoot-fx-pink-purple-fuzz-pedal-1
 3. BearFoot/BJFE community documentation: https://www.bjornjuhl.com/forum/viewtopic.php-f%3D5%26t%3D4396.html
 
 ## Photo
-- **Archive status:** **Exact Photo Attached to Public Catalog**
-- **Exact-model image:** https://rvb-img.reverb.com/i/s--4ZjXjX7a--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/eocunac2puvk9kpbnzf6.jpg
-- **Source page:** https://reverb.com/p/bearfoot-fx-pink-purple-fuzz
-
-## Deep research verification
-
-This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
-
-### Verified description
-$0.00 (ARCHIVE) Bearfoot FX Pink Purple Fuzz Pedal Zoom Zoom Share Tweet Pin Description Guitarchives See all See all It's a fuzz, but it'll wind right down to a very mild breakup...
-
-### Verified sound evidence
-$0.00 (ARCHIVE) Bearfoot FX Pink Purple Fuzz Pedal Zoom Zoom Share Tweet Pin Description Guitarchives See all See all It's a fuzz, but it'll wind right down to a very mild breakup...
-this lives in that sweet magic between fuzz and distortion.
-It's a lovely rich singing tone, plus the EQ knob offers a whole heap of variation in midrange curve as you wind through.
-
-### Sources checked in this pass
-1. catalog/override source: https://reverb.com/p/bearfoot-fx-pink-purple-fuzz
-2. Bearfoot FX Pink Purple Fuzz Pedal – Topshelf Instruments: https://topshelfinstruments.com.au/products/bearfoot-fx-pink-purple-fuzz-pedal-1
+- **Exact pedal photograph:** Reverb exact-model image.
+- https://rvb-img.reverb.com/i/s--4ZjXjX7a--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/eocunac2puvk9kpbnzf6.jpg
