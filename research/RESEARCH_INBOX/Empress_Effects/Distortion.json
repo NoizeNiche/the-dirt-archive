@@ -1,0 +1,41 @@
+{
+  "builder": "Empress Effects",
+  "pedal": "Distortion",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 4,
+  "sources": [
+    {
+      "url": "https://empresseffects.com/products/distortion",
+      "title": "Distortion &ndash; Empress Effects Inc.",
+      "h1": "",
+      "excerpt": "Distortion &ndash; Empress Effects Inc. Products All Products Scratch & Dents Accessories Support Product Support Firmware Updates Repairs/Returns Bug Report Warranty Registration Finding a Power Supply Contact Us Artists Dealers Blog Contact Contact Us About Us Mailing List Products All Products Scratch & Dents Accessories Support Product Support Firmware Updates Repairs/Returns Bug Report Warranty Registration Finding a Power Supply Contact Us Artists Dealers Blog Contact Contact Us About Us Mailing List Overview Details Playlist Soundclips & Specs $ 109.00 USD Discontinued Distortion $ 109.00 USD We price and charge in USD because we ship globally, and most of our customers expect it. We're still 100% Canadian, we promise! &times; We price and charge in USD because we ship globally, and most of our customers expect it. We're still 100% Canadian, we promise! Discontinued User Manual English Support From mild to crunch to lead, the empress distortion does it all. This true bypass pedal offers three flavors of distortion while retaining a super tight low end andnaturally compressing like a high gain amp. The mild setting offers gentle break-up that cleans up with your volume knob. The crunch setting is tight,with good bite. The lead setting offers high gain with lots of sustain. Gain control, two bands of EQ and output control allow you to tweak the sound to taste. Features All Analog Signal Path - no digitals in here! 3 Flavors of Distortion - Select between mild, crunch and lead. Mild - gentle break-up that cleans up with your volume knob. Crunch - great for rhythm playing. Tight low end with strong bite. Lead - high gain with lots of sustain. EQ - Hi shelf and low shelf EQs let you tweak your sound. Bass - Works great on bass! True Bypass - The Empress Distortion employs true bypass, so you can be sure that it's not affecting the signal when disengaged. Small Size - The enclosure measures approximately 4.5\" by 2.5\" by 1.5\", which is delightfully small when considering all the features packed into this unit. Playlist Open playlist (JavaScript disabled) Soundclips Empress Effects \u00b7 Empress Distortion Specifications Input Impedance : 300k Output Impedance : 5k Frequency Response (-3dB) : 20Hz - 12kHz Power Input Voltage : 9V DC (Negative tip) Power Input Connector : 2.1mm barrel connector Power Consumption : ~ 35mA Enclosure Material : Die Cast Aluminum Input connector : 1/4&quot; Jack Output connector : 1/4&quot; Jack Height (Enclosure only) : 1.5&quot; Height (including controls) : 2&quot; Length : 4.5&quot; Width : 2.5&quot; Weight : 0.5 lbs Empress Blog Voting Forum Shutdown Hi everyone, I\u2019ve got some good news and some bad news. The bad news first: We\u2019re shutting down the New Features Voting Forum. Quick Links Job Openings Request for Repair/Return Warranty Registration Shipping Policy Refund Policy Terms of Service Press Discontinued Products About Us Contact FAQ Mailing List type=\"text/css\"/* LOADER */ .ml-form-embedSubmitLoad { display: inline-block; width: 20px; height: 20px; } .g-recaptcha { transform: scale(1); -webkit-transform: scale(1); transform-origin: 0 0; -webkit-transform-origin: 0 0; height: ; } .sr-only { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0, 0, 0, 0); border: 0; } .ml-form-embedSubmitLoad:after { content: \" \"; display: block; width: 11px; height: 11px; margin: 1px; border-radius: 50%; border: 4px solid var(--white); border-color: var(--white) var(--white) var(--white) var(--transparent); animation: ml-form-embedSubmitLoad 1.2s linear infinite; } @keyframes ml-form-embedSubmitLoad { 0% { transform: rotate(0deg); } 100% { transform: rotate(360deg); } } #mlb2-6600270.ml-form-embedContainer { box-sizing: border-box; display: table; margin: 0 auto; position: static; width: 100% !important; } #mlb2-6600270.ml-form-embedContainer h4, #mlb2-6600270.ml-form-embedContainer p, #mlb2-6600270.ml-form-embedContainer span, #mlb2-6600270.ml-form-embedContai",
+      "host": "empresseffects.com",
+      "source_kind": "manufacturer"
+    },
+    {
+      "url": "https://www.sweetwater.com/brand/empress-effects/distortion-overdrive-boost-pedals",
+      "title": "Empress Effects Distortion, Overdrive & Boost Pedals",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.sweetwater.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://www.perfectcircuit.com/empress-effects-distortion.html",
+      "title": "Empress Effects Distortion Analog Effect Pedal - Perfect Circuit",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.perfectcircuit.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://www.amazon.com/clp/B00DYJ9EN8",
+      "title": "Amazon.com: Empress Effects Heavy Hi-Gain Distortion Pedal",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.amazon.com",
+      "source_kind": "other"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}

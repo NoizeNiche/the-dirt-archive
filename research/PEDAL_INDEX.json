@@ -35729,8 +35729,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Empress Effects/Distortion.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Empress Effects",
@@ -46513,8 +46513,8 @@
       "image": "./assets/pedals/mr-black/deuce-coupe-old-school-laser/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mr. Black/Deuce Coupe - Old School Laser.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Mr. Black",
@@ -46525,8 +46525,8 @@
       "image": "./assets/pedals/mr-black/doomstick-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mr. Black/Doomstick Fuzz.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Mr. Black",
