@@ -23,6 +23,6 @@ The Dirt Archive currently catalogs **Snow White Fuzz** by **BJFE / BJF Electron
 - Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
 ## Deep research verification
 
-BJFE's current historical/product documentation establishes the naming lineage **Snow White Fuzz → Arctic White Fuzz → Fjallin White Fuzz**. BJFE's own forum notes that the Snow White name was later changed to Arctic White because of a naming conflict. The current Fjallin White page describes Fjallin as a later performance upgrade to the Arctic/Snow White design, with two transistors balanced for higher overall gain and improved gain balance. citeturn620002search3turn620002search0
+BJFE's current historical/product documentation establishes the naming lineage **Snow White Fuzz → Arctic White Fuzz → Fjallin White Fuzz**. BJFE's own forum notes that the Snow White name was later changed to Arctic White because of a naming conflict. The current Fjallin White page describes Fjallin as a later performance upgrade to the Arctic/Snow White design, with two transistors balanced for higher overall gain and improved gain balance.
 
 Those later Fjallin specifications are intentionally not treated as specifications for every original Snow White unit.
