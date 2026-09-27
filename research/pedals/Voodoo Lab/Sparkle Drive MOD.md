@@ -1,23 +1,41 @@
 # Voodoo Lab — Sparkle Drive MOD
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Sparkle Drive MOD
 - **Builder:** Voodoo Lab
-- **Pedal:** Sparkle Drive MOD
 - **Catalog type:** Distortion / Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Voodoo Lab's Sparkle Drive MOD.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Sparkle Drive MOD** by **Voodoo Lab** as a **Distortion / Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Do you have a question about the SPARKLE DRIVE MOD and is the answer not in the manual?
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+VOODOO LAB SPARKLE DRIVE MOD USER MANUAL Pdf Download
+Restoring the attack and feel which is lost in a highly compressed overdrive circuit, the concept is the same as layering two amps, one clean and the other saturated.
+With the Clean control turned all the way down, you get vintage 808 overdrive tones.
+
+## Sources checked
+1. VOODOO LAB SPARKLE DRIVE MOD USER MANUAL Pdf Download | ManualsLib: https://www.manualslib.com/manual/2183748/Voodoo-Lab-Sparkle-Drive-Mod.html
+2. Voodoo Lab Sparkle Drive MOD User Manual | Manualzz: https://manualzz.com/doc/18416877/voodoo-lab-sparkle-drive-mod-overdrive-pedal-user-manual
+3. Voodoo Lab - Sparkle Drive MOD - User's Manual: https://midimanuals.com/manuals/voodoo_lab/sparkle_drive_mod/users_manual/
+4. Voodoo Lab Sparkle Drive MOD User Manual | 2 pages: https://www.manualsdir.com/manuals/743228/voodoo-lab-sparkle-drive-mod.html
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

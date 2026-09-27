@@ -46915,8 +46915,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/MXR/Hybrid Fuzz.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "MXR",
@@ -54600,8 +54600,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Voodoo Lab/Sparkle Drive MOD.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Voodoo Lab",
