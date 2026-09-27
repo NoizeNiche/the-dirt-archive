@@ -4,31 +4,57 @@
 - **Archive parent:** Fuzztin Bieber
 - **Builder:** Celebrity Pedals
 - **Catalog type:** Fuzz
-- **Identity:** Celebrity Pedals Fuzztin Bieber, a handmade analog fuzz based on the Russian Big Muff with a clean/dirty blend control.
+- **Identity:** Handmade analog Russian Big Muff-inspired fuzz with a clean/dirty Blend control. [1]
 
 ## What this pedal is
-The exact-model Reverb listing states that the Fuzztin Bieber is based on the Russian Big Muff and adds a Blend control for mixing in warmth, with particular usefulness on bass. The listing identifies it as handmade, analog, and true bypass. [1]
+The exact-model Reverb listing describes Fuzztin Bieber as a **Russian Big Muff-based** fuzz with added Blend control for warmth and low-end retention. It is identified as handmade, analog and true bypass. [1]
 
-## Colorways
-- An exact-model example shows the Fuzztin Bieber artwork on a silver-toned enclosure.
-- A complete factory colorway sequence was not established.
+## Controls
+- **FUZZ**
+- **FUZZ LEVEL**
+- **BLEND**
+- **TONE** [1]
 
-## Versions and factory options
-The exact-model listing documents four controls: **Fuzz, Fuzz Level, Blend, and Tone**. [1]
-
-No formal numbered factory V1/V2 sequence was established.
-
-## Version changes
-No reliable numbered revision history was found in the checked sources.
+## Circuit lineage
+- **Primary reference:** Russian Big Muff.
+- The surviving source establishes the inspiration/foundation, not a claim of exact component equivalence with one historical Russian Muff revision. [1]
 
 ## Transistor
-No exact-model transistor part number was established in the checked sources.
+- Exact production transistor/device part numbers are not publicly documented.
 
-## Diode
-No exact-model diode specification was established in the checked sources.
+## Diode / clipping
+- Exact clipping/protection diode type and part number are not publicly documented.
+
+## Power
+- Exact model-specific voltage/current specification is not securely exposed in the reviewed exact-model source.
+
+## Construction / hardware
+- Handmade analog.
+- True bypass.
+- Silver-toned exact-model enclosure/artwork documented in the Reverb record. [1]
+
+## Version history
+- No numbered factory electronic revision established.
+- Finish differences are treated as cosmetic unless documented otherwise.
 
 ## Sound
-Celebrity Pedals describes the Fuzztin Bieber as a Russian Big Muff-based fuzz with Blend added for warmth and low-end control. The combination is intended to retain more direct guitar or bass signal while the fuzz section supplies the saturated character. [1]
+The Russian Big Muff foundation supplies the dense, sustained fuzz character, while Blend lets clean signal remain underneath the fuzz for added warmth and low-end articulation. [1]
+
+## Research confidence
+- **Identity:** High
+- **Russian Big Muff lineage:** High
+- **Four-control map:** High
+- **Blend function:** High
+- **Handmade/true bypass:** High
+- **Exact transistor:** Unknown
+- **Exact diode:** Unknown
+- **Power:** Not established
+
+## Deep research verification
+The exact-model Reverb listing was checked directly. It establishes the Russian Big Muff foundation, four-control interface, Blend function and handmade/true-bypass construction. [1]
 
 ## Sources checked
-1. Reverb — Celebrity Pedals Fuzztin Bieber Fuzz: https://reverb.com/fr/item/94450124-celebrity-pedals-fuzztin-bieber-fuzz
+1. Reverb — Celebrity Pedals Fuzztin Bieber: https://reverb.com/fr/item/94450124-celebrity-pedals-fuzztin-bieber-fuzz
+
+## Photo
+- **Archive status:** Exact-model Reverb image documented.
