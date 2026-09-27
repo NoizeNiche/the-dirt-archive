@@ -14930,8 +14930,8 @@
       "image": "",
       "source_page": "https://www.effectsdatabase.com/model/boss/compact/df2",
       "research_record": "./research/pedals/BOSS/DF-2 Super Feedbacker & Distortion.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "BOSS",
@@ -23785,8 +23785,8 @@
       "image": "./assets/pedals/circle-of-tone/quad-damage/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Circle Of Tone/Quad Damage.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Circuit Rider Effects",
@@ -24137,8 +24137,8 @@
       "image": "./assets/pedals/classic-audio-effects/stumphouse-drive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Classic Audio Effects/Stumphouse Drive.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Clay Jones",
@@ -24161,8 +24161,8 @@
       "image": "./assets/pedals/claybridge-sound-systems-claybridge-audio/fuzzmaster/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Claybridge Sound Systems / Claybridge Audio/Fuzzmaster.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Claybridge Sound Systems / Claybridge Audio",
@@ -24234,8 +24234,8 @@
       "image": "./assets/pedals/cleveland-music-co/bleepcakes-overfuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Cleveland Music Co./Bleepcakes Overfuzz.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Cleveland Music Co.",
@@ -24318,8 +24318,8 @@
       "image": "./assets/pedals/cleveland-music-co/the-heights-dynadrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Cleveland Music Co./The Heights Dynadrive.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Cleveland Music Co.",
@@ -24342,8 +24342,8 @@
       "image": "./assets/pedals/cleveland-music-co/woollybear-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Cleveland Music Co./Woollybear Fuzz.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "ClinchFX",
@@ -24355,8 +24355,8 @@
       "image": "./assets/pedals/clinchfx/blue-classic/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/ClinchFX/Blue Classic.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Clone Bro",
@@ -27143,8 +27143,8 @@
       "source_page": null,
       "research_record": "./research/pedals/Cordovox/DS-8 Mouse.md",
       "image_source_page": "https://www.effectsdatabase.com/model/cordovox/mouse",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Cordovox",
@@ -27357,8 +27357,8 @@
       "source_page": null,
       "research_record": "./research/pedals/Coron/Coron Distortion 10.md",
       "image_source_page": "https://www.effectsdatabase.com/model/coron/first/distortion10",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Coron",

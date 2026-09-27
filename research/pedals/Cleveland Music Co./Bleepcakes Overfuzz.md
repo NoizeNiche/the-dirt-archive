@@ -41,3 +41,21 @@ Bleepcakes spans transistor overdrive and rich harmonic fuzz. Lower LIFT setting
 ## Sources checked
 1. Cleveland Music Co. — Bleepcakes Overfuzz: https://clevelandmusicco.com/pedals/bleepcakes-overfuzz/
 2. Cleveland Music Co. — Overdrive & Distortion collection: https://clevelandmusicco.com/collections/overdrive-distortion
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Just know the Bleepcakes Overfuzz updates this configuration and uses modern silicon transistors to bring stability to the circuit and a tone that is identifiably Percolator-based, yet with a flavor all its own.
+
+### Verified transistor/device terms
+- silicon transistors.
+
+### Verified sound evidence
+The Bleepcakes is our spin on the mysterious Harmonic Percolator, featuring additional tone and wave shaping capabilities.
+With an adjustable diode lift control, you can dial in just the right mix of transistor overdrive and rich, harmonic fuzz.
+Share Share Link Close share Copy link View full details Sort of a fuzz.
+
+### Sources checked in this pass
+1. Bleepcakes Overfuzz &ndash; Cleveland Music Co.: https://clevelandmusicco.com/products/bleepcakes-overfuzz

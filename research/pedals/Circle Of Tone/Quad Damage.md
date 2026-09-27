@@ -37,3 +37,18 @@ The 2025 review characterizes Quad Damage as medium-to-high-gain, warm, tight, p
 
 ## Sources checked
 1. Stomp Box Steals — Circle Of Tone Quad Damage review, July 10, 2025: https://stompboxsteals.blogspot.com/2025/07/overdrive-circle-of-tone-quad-damage.html?m=0
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Circle Of Tone's Quad Damage is cataloged as a distortion / overdrive pedal.
+
+### Verified sound evidence
+STOMP BOX STEALS: OVERDRIVE- CIRCLE OF TONE Quad Damage ...another mystery pedal?
+Ewing / LENARD Re-Inventions View my complete profile Thursday, July 10, 2025 OVERDRIVE- CIRCLE OF TONE Quad Damage ...another mystery pedal?
+QUAD DAMAGE CIRCLE Of TONE $50.00 USD I stumble on to this pedal.
+
+### Sources checked in this pass
+1. STOMP BOX STEALS: OVERDRIVE- CIRCLE OF TONE Quad Damage ...another mystery pedal?: https://stompboxsteals.blogspot.com/2025/07/overdrive-circle-of-tone-quad-damage.html?m=0

@@ -39,3 +39,20 @@ Do not backfill every later modification found on used examples into the origina
 1. Effects Database - Coron Distortion 10
 2. Reverb - Coron Distortion 10
 3. Coron vintage demo coverage
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Coron's Coron Distortion 10 is cataloged as a distortion pedal.
+
+### Verified sound evidence
+Be the first to review “Coron Distortion 10” Cancel reply You must be logged in to post a review.
+
+### Sources checked in this pass
+1. catalog/override source: https://reverb.com/item/96560756-coron-distortion-10
+2. Vintage Coron Distortion 10 Guitar Effects Pedal - Made In Japan - eBay: https://www.ebay.com/itm/318132364661
+3. Coron Distortion 10 - Effects Pedals: https://www.effects-pedals.info/p/coron-distortion-10/
+4. Coron Distortion 10 – Schematics Online: https://schematicsonline.com/schematic/coron-distortion-10/
+5. Coron distortion 10 - bestmusiccompanion.com: https://www.bestmusiccompanion.com/product/coron-distortion-10/

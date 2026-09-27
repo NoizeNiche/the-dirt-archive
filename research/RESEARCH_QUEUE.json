@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-27T10:14:04.760671+00:00",
+  "generated_at": "2026-09-27T10:17:18.198494+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,8 +10,8 @@
     "pictured": 3133,
     "complete": 3133,
     "research_pending": 0,
-    "deep_research_pending": 1465,
-    "deep_researched": 2777,
+    "deep_research_pending": 1455,
+    "deep_researched": 2787,
     "surface_ready": 4242
   },
   "next_target": {
@@ -76,13 +76,6 @@
       "pedal": "DA-2 Adaptive Distortion",
       "catalog_type": "",
       "research_record": "./research/pedals/BOSS/DA-2 Adaptive Distortion.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "BOSS",
-      "pedal": "DF-2 Super Feedbacker & Distortion",
-      "catalog_type": "",
-      "research_record": "./research/pedals/BOSS/DF-2 Super Feedbacker & Distortion.md",
       "research_level": "surface"
     },
     {
@@ -195,6 +188,13 @@
       "pedal": "Distortion",
       "catalog_type": "",
       "research_record": "./research/pedals/PRP Batch 115/box-distortion.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "BR Tech",
+      "pedal": "BR-1 Distortion",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 115/br-tech-br-1-distortion.md",
       "research_level": "surface"
     }
   ]

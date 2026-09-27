@@ -43,3 +43,18 @@ Heights Dynadrive is voiced as a dynamic medium-gain overdrive with substantial 
 ## Sources checked
 1. Cleveland Music Co. — The Heights Dynadrive: https://clevelandmusicco.com/pedals/heights-dynadrive/
 2. Cleveland Music Co. — The Heights Dynadrive product listing: https://clevelandmusicco.com/products/cleveland-music-co-the-heights-dynadrive-premium-zendrive-clone
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+The Heights Dynadrive is a great-sounding, medium-gain overdrive circuit that some people are saying emulates the tone of legendary Dumble amplifiers.
+
+### Verified sound evidence
+The Heights Dynadrive is a great-sounding, medium-gain overdrive circuit that some people are saying emulates the tone of legendary Dumble amplifiers.
+While it’s a favorite of Blues guitarists, it also makes a great medium-gain rock-n-roll overdrive with a highly dynamic touch.
+And if that weren’t enough, the Heights stacks really, really well with many other drive pedals; try it before or after our EastSide Overdrive.
+
+### Sources checked in this pass
+1. The Heights Dynadrive &ndash; Cleveland Music Co.: https://clevelandmusicco.com/products/cleveland-music-co-the-heights-dynadrive-premium-zendrive-clone

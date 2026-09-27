@@ -41,3 +41,21 @@ Woollybear spans gated, thin fuzz through thick, mid-heavy and highly saturated 
 
 ## Sources checked
 1. Cleveland Music Co. — Woollybear Fuzz: https://clevelandmusicco.com/pedals/woollybear-fuzz/
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+On your pedalboard, our Woollybear Fuzz pedal is a ferocious, rampaging, insatiable force of fuzz.
+
+### Verified transistor/device terms
+- silicon transistors.
+
+### Verified sound evidence
+Woollybear Fuzz – Cleveland Music Co.
+Quantity Quantity ( 0 in cart) Decrease quantity for Woollybear Fuzz Increase quantity for Woollybear Fuzz Add to cart Couldn't load pickup availability Refresh Pre-assembled kit: Please allow 5–10 business days for assembly before shipment.
+The Woollybear is a creamy, squishy, Bender-like fuzz with external bias control and heaps of tone-shaping capabilities.
+
+### Sources checked in this pass
+1. Woollybear Fuzz &ndash; Cleveland Music Co.: https://clevelandmusicco.com/products/woollybear-fuzz

@@ -40,3 +40,21 @@ The builder positions Stumphouse as a medium-gain primary overdrive with a balan
 ## Sources checked
 1. Effects Database — Classic Audio Effects Stumphouse Drive: https://www.effectsdatabase.com/model/classicaudio/stumphouse
 2. Pedal of the Day — Stumphouse Drive: https://www.pedal-of-the-day.com/2016/12/21/classic-audio-effects-stumphouse-drive/
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+The enclosures that Classic Audio Effects are known for are some of the coolest around, and we’re super-stoked to be bringing you guys our review of their new gem, the Stumphouse Drive.
+
+### Verified version references
+- The evidence references: MKII.
+
+### Verified sound evidence
+The enclosures that Classic Audio Effects are known for are some of the coolest around, and we’re super-stoked to be bringing you guys our review of their new gem, the Stumphouse Drive.
+This inventive brown stompbox defies all pedal building logic, and introduces a rad new way to adjust the gain in your drive, building on the technology they started with their popular line of Volume Roller pedals.
+A new innovation to add to your ever-growing overdrive collection, this is not your ordinary, run-of-the-mill stompbox.
+
+### Sources checked in this pass
+1. Classic Audio Effects Stumphouse Drive - Pedal of the Day: https://www.pedal-of-the-day.com/2016/12/21/classic-audio-effects-stumphouse-drive/

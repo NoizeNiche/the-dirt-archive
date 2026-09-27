@@ -42,3 +42,23 @@ Effects Database lists the DS-8 alongside related Biyang/Tonefancier designs. Th
 1. Effects Database - Cordovox DS-8 Mouse
 2. Reverb - Cordovox DS-8 Mouse Distortion
 3. Guitar Villa - Cordovox collection
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Cordovox's DS-8 Mouse is cataloged as a distortion pedal.
+
+### Verified diode terms
+- LED.
+
+### Verified sound evidence
+Cordovox DS-8 Mouse Distortion True Bypass Guitar Effect Pedal
+Using a combination of a high-quality American chipset and classic circuitry to create a round, thick tone with lots of clarity.
+You will get a smooth and natural sound from the Normal mode, a higher output, and thicker sound can be expected from the Turbo mode, while the max mode will produce a more solid and dense tone.
+
+### Sources checked in this pass
+1. catalog/override source: https://reverb.com/item/43042852-cordovox-ds-8-mouse-distortion-true-bypass-guitar-effect-pedal
+2. Cordovox DS-8 Mouse Distortion - What To Know & Where To Buy: https://equipboard.com/items/cordovox-ds-8-mouse-distortion-true-bypass-guitar-effects-pedal
+3. Cordovox DS-8 Mouse Distortion True Bypass Guitar Effect Pedal | Welcome To Steve's Music Center !: https://www.stevesmusiccenter.net/products/cordovox-ds-8-mouse-distortion-true-bypass-guitar-effect-pedal

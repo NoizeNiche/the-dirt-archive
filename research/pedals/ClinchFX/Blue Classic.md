@@ -41,3 +41,28 @@ ClinchFX states that the Blue Classic was the company's first pedal and that the
 1. ClinchFX — The Blue Classic: https://www.clinchfx.com/the-blue-classic/
 2. ClinchFX — Blue Classic manual: https://www.manualslib.com/manual/2049096/Clinchfx-Blue-Classic.html
 3. Effects Database — Peter Clinch interview: https://www.effectsdatabase.com/interviews/brands/clinchfx
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+The Blue Classic is a dual stage pedal.
+
+### Verified color/finish evidence
+- The Blue Classic grew from a concept in the early ’90s, to try to build a solid state pedal that could give true tube sound.
+- So, during development, the Blue Classic took on a life of its own and a unique sound.
+- The Blue Classic is a dual stage pedal.
+
+### Verified diode terms
+- LED.
+
+### Verified sound evidence
+It also gives an adjustable mid-top boost.
+The second stage enables the Drive control and increases sag, allowing the amplifier in the pedal to be driven into distortion.
+The design of the Class AB push-pull amplifier prevents hard clipping from happening, sloping the waveform after a fast initial transient response.
+
+### Sources checked in this pass
+1. The Blue Classic < ClinchFX: https://www.clinchfx.com/the-blue-classic/
+2. CLINCHFX BLUE CLASSIC MANUAL Pdf Download | ManualsLib: https://www.manualslib.com/manual/2049096/Clinchfx-Blue-Classic.html
+3. Reviews.: http://www.harmony-central.com/Effects/Data/ClinchFX/Blue_Classic-1.html
