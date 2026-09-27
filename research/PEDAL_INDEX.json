@@ -33534,11 +33534,13 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/drunk-beaver/mykolaiv-soft-blooming/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Drunk Beaver/Mykolaiv Soft Blooming.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://d6a2e7ghqts3o.cloudfront.net/AcuCustom/Sitename/DAM/570/2026-GPX-16-Favourite-Drunk-Beaver-Overdrives-700.jpg",
+      "image_source_page": "https://www.guitarpedalx.com/news/16-favourite-drunk-beaver-overdrives"
     },
     {
       "company": "Drunk Beaver",
@@ -43075,11 +43077,13 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/madebymike/ultralord/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/MadeByMike/Ultralord.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://files.effectsdatabase.com/gear/pics/madebymike_ultralord_002.jpg",
+      "image_source_page": "https://www.effectsdatabase.com/model/madebymike/ultralord"
     },
     {
       "company": "Marshall Amplification",
@@ -44051,12 +44055,12 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/maxon/sd-9-sonic-distortion-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Maxon/SD-9 Sonic Distortion / Overdrive.md",
       "research_level": "surface",
       "deep_research_status": "PENDING",
-      "image_source_url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/ci/a41dc1a9de696414/1790546167570/c.QiScHRLD_x.Cqeo_pebkbPNS_LuAgsN7Ke_KnpxxA-1790546167-1.3.1.1-pT6mCQebrjtRTL1Afdany0VPjBfstdPkF2fNSFtrCMz0sbSEVk5DkJOi88FdikgzrEl.EG8KJybpu49Y8ctjzl.lhrFYn2tTc6uW0zVzLBF_lVJlJ3w54GMeDFy3xJlh2Wlbi1NdaKEw_NQiDwHasWgqodfUDISAjjPQAuxp3U6qOXQ15h4CAZf1NVsPgo6iSypy.AldUVulLeTPs83VUZ7Ac5mZLOwTXbxjNTuH5PiJ6HGug1C0NHSgiNB8xt9L7Nvl4WdxZ0.0smXnWnAkch.jtSTz1zfV4kEPQoJjcU6TYm4sRbVwrp.w3_rRVxZ2nClyME0nTLGv35iWY_OIaorUMPLx1K5C5ptiNPSFVhtX4JiEXoCUZj_sof6VnWA4NexALsakZpO8NFM_8x38xGw.VtsBkoS6Q2vMWnAYIi6dFH0xsHFpmlVpuuTrEyS_9A.rwFQGZWNczopQQbBNBpxcaUt15k7aOeKvYTHT89P749JA9iFTTZlNvE1uk.UNGfJJD9O_bvTkdfFHCbpfN9mOv1PdzDOPVu9UTIvJfoAilk6wHienUneQi01cIgCYLhQ0uhfraX9H7SZMC9IBgyk.d54OxtmJPpWWj_QndEdch5BGco76_kJCgNWbPVBWjIWAgAHzY9tLw7THmseNF8kWuHQwxn0X_vg4eenm95vWHV2wlMJVWYiam_olNV1BA66xsND5oOw_FYzzW5k03UMsz6UbKee_ygCVHQBj29E",
+      "image_source_url": "https://rvb-img.reverb.com/i/s--ccJSG5e1--/gravity=auto,quality=medium-low,width=200,height=200,format=jpeg/xzg5qnbqdck89rbano1z.jpg",
       "image_source_page": "https://reverb.com/item/96664606-maxon-sd-9-sonic-distortion-guitar-effects-pedal"
     },
     {
@@ -44106,11 +44110,13 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/maxon/sm-9pro-super-metal-pro-plus/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Maxon/SM-9Pro Super Metal Pro+.md",
       "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "deep_research_status": "PENDING",
+      "image_source_url": "http://collarcityguitars.com/cdn/shop/products/xktsoqcklebzfw31d6vh.jpg?v=1644535851",
+      "image_source_page": "https://collarcityguitars.com/products/maxon_sm9proplus_supermetalproplus"
     },
     {
       "company": "Maxon",
@@ -44215,12 +44221,12 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/maxon/tbo-9-true-tube-booster-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Maxon/TBO-9 True Tube Booster / Overdrive.md",
       "research_level": "surface",
       "deep_research_status": "PENDING",
-      "image_source_url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/ci/a41dc2255bbd69dc/1790546187338/ykJvzN5Z86QWlP4vetXwO9F75ghQnEUTu4Z553.kBCY-1790546187-1.3.1.1-PR20jpo4l14RZr7GxCI4X5S9z3zjAsCt_4T05v1O3JXJvYkWRYGS9X_uEkBCwZ5q9peNawqjlU.v8KMKhPuOmgjq6Kg7NoDSPEdTZ.AtCgwsG.3SXMrlu9XIUf4ZMBCBgE8KSPHdEqG.MspyI13l7vCmrla5p3WDvP3ejjgtkkF9gTH46WJsugN39qNGstCHxNfcDbunbdV0grTr0CB5cZgQNJ45bqJ02LmxsoEKZORzWYthRsS7LBX50eRYMeIu_RnXnrsUOrc16lTVO7r2ZXXSOLstf3O3YQJzmni0moJbUojM0hJdXH6EsXOUPwfngYtti7A4TUpr7fltOPiFeaCHwhsDKSsE.BBvvVKKD0vYCRVnF37FDUGeBGdw0dgogdUrB9rmf1Fa.lfF3Svq9Hm_kMawTguAMB2xDvmLwkOMUwoFdQUiBCLSPr_mJgmxUq9ovD_1F79lPwXSoEtfsz_uKrrJTDcXa8OtoAyj3aGmunCsIery0ANpE_OiOmsoEeAlIl7cli5G0O2rNUEohW0LZJg8X0Eelz7AmACLh5Fjhbm.UcNB0xu1mFJuxDnxl5BqAjy5jC8eIn9MviWQqTAfBqBn3jBNjgApJmf.Sq_PJ6ODdQYMpROakX6EOfUa0DfjupCV4ylaIWQTd_mjuqwUXcjsGKSPvJ.KoUsE13WXNKkBm4mR.tnTKWKdizNfprhYoSBgp.cxTPXncMJgwVzhfXIqOWIsgs3nwAj6Ss0",
+      "image_source_url": "https://static.reverb-assets.com/production-assets/webpack/images/mobile-header-background-69216940b596520c.png",
       "image_source_page": "https://reverb.com/item/92915005-maxon-tbo-9-true-tube-booster-overdrive-2010s-gold"
     },
     {
@@ -46408,11 +46414,13 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/mr-black/sour-cream-onion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mr. Black/Sour Cream & Onion.md",
       "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "deep_research_status": "PENDING",
+      "image_source_url": "http://www.chicagomusicexchange.com/cdn/shop/collections/10.01.19_-_Mr_Black_Mini_Pedals.jpg?v=1590771837",
+      "image_source_page": "https://www.chicagomusicexchange.com/collections/mr-black-pedals"
     },
     {
       "company": "Mr. Black",
@@ -46774,11 +46782,13 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/mxr/prime-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/MXR/Prime Distortion.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://www.manua.ls/thumbs/products/s/1747699-mxr-mini-iso-brick-m239.jpg",
+      "image_source_page": "https://www.manua.ls/mxr/prime-distortion-m69p/manual"
     },
     {
       "company": "MXR",
@@ -46859,11 +46869,13 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/mxr/sub-octave-bass-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/MXR/Sub Octave Bass Fuzz.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://cdn11.bigcommerce.com/s-n26aknlnlm/images/stencil/1280x1280/products/641/6494/11287000001.MAIN__79932.1663874796.jpg?c=2",
+      "image_source_page": "https://www.jimdunlop.com/mxr-sub-octave-bass-fuzz/"
     },
     {
       "company": "MXR",
@@ -46871,11 +46883,13 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/mxr/sugar-drive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/MXR/Sugar Drive.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://cdn11.bigcommerce.com/s-n26aknlnlm/products/647/images/6527/11294000001.MAIN__16352.1663874797.386.513.jpg?c=2",
+      "image_source_page": "https://www.jimdunlop.com/mxr-sugar-drive-pedal/"
     },
     {
       "company": "MXR",
@@ -46883,11 +46897,13 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/mxr/super-badass-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/MXR/Super Badass Distortion.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://cdn11.bigcommerce.com/s-n26aknlnlm/images/stencil/1280x1280/products/565/6055/11075000001.MAIN__26148.1663874791.jpg?c=2",
+      "image_source_page": "https://www.jimdunlop.com/mxr-super-badass-distortion/"
     },
     {
       "company": "MXR",
@@ -46895,11 +46911,13 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/mxr/super-badass-dynamic-o-d/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/MXR/Super Badass Dynamic O.D.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://cdn11.bigcommerce.com/s-n26aknlnlm/products/1762/images/9942/M249.MAIN__97542.1663874803.386.513.jpg?c=2",
+      "image_source_page": "https://www.jimdunlop.com/mxr-super-badass-dynamic-od/"
     },
     {
       "company": "MXR",
@@ -46907,11 +46925,13 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/mxr/super-badass-variac-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/MXR/Super Badass Variac Fuzz.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://cdn11.bigcommerce.com/s-n26aknlnlm/images/stencil/1280x1280/products/630/6429/11236000001.MAIN__71483.1663874796.jpg?c=2",
+      "image_source_page": "https://www.jimdunlop.com/mxr-super-badass-variac-fuzz/"
     },
     {
       "company": "MXR",
@@ -46919,11 +46939,13 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/mxr/timmy-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/MXR/Timmy Overdrive.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://cdn11.bigcommerce.com/s-n26aknlnlm/images/stencil/1280x1280/products/1569/8743/CSP027.MAIN__68896.1663874800.jpg?c=2",
+      "image_source_page": "https://www.jimdunlop.com/mxr-timmy-overdrive/"
     },
     {
       "company": "MXR",
@@ -46931,11 +46953,13 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/mxr/tom-morello-power-50-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/MXR/Tom Morello Power 50 Overdrive.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://static.reverb-assets.com/production-assets/webpack/images/mobile-header-background-69216940b596520c.png",
+      "image_source_page": "https://reverb.com/p/mxr-tom-morello-power-50-overdrive"
     },
     {
       "company": "MXR",
@@ -46943,11 +46967,13 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/mxr/wylde-audio-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/MXR/Wylde Audio Overdrive.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://cdn11.bigcommerce.com/s-n26aknlnlm/images/stencil/1280x1280/products/1802/10208/WA44.MAIN__60963.1692646232.jpg?c=2",
+      "image_source_page": "https://www.jimdunlop.com/mxr-wylde-audio-overdrive/"
     },
     {
       "company": "MXR",
@@ -46967,11 +46993,13 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/mxr/yngwie-malmsteen-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/MXR/Yngwie Malmsteen Overdrive.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://cdn11.bigcommerce.com/s-n26aknlnlm/images/stencil/1280x1280/products/2203/11211/YJM308.MAIN__52372.1720792122.jpg?c=2",
+      "image_source_page": "https://www.jimdunlop.com/mxr-yngwie-malmsteen-overdrive/"
     },
     {
       "company": "Mystic Effects Co",
@@ -47362,7 +47390,9 @@
       "source_page": null,
       "research_record": "./research/pedals/NUX Audio / NUX/’63 Diamond.md",
       "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "deep_research_status": "PENDING",
+      "image_source_url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/ci/a41df4303d78d647/1790548237063/dL5VYG_hQ8PxfcrxOZkX9eJ2x7ruh6tQ9Ex.TFyMwAU-1790548237-1.3.1.1-Y.fAQuK5VdrP1NR_9gY57jVt5e1t7WapBB8SyN1rRXtCBjuHg3JZ3nNI8DMQEgTBVsASDTd6bH_VPFXUjHHwn.JjmtXCeWMcMhxrhLyFIO5eSkvN9ACEfmlrGi6KNvrLgM6NCnyC6F2IGvNtVjNz279SNh_McGtiFmJKNIWv6OW3PKvl7m5utWorhPhz_I0.KArQk5C.liCAZGgzElY_k_Lh1joUO8j7prx4oePLUWmlREV1cxfGaWky0C11Vyv1nglrfwGyaTlxk..X5C1r7L7eR7iVKzDpm8h6cep9m8cEXHufAWP50T9WGb_10hjYnJHLVcImGDju2n2dTf0Vjho9go.pgebNmUL7WTd8qFoKpGiYr7Gn69X2WQrtm.9jcgO8R.hj0xJam22kRDgdKu9p77lNC.7_6Xgosyj8EB9ULCnkQHraPnb_n4.mQ00Y4Dw0b8tUpnKdjzw4xise.IYma63nnoMsAnsiC47IYDbiV3i1N7kMjZCzOnRjgTPYY_DW_l3O9HtjY0LhqEd6RcWEJd0Emg4b0oTZkAfbhQa4fxWcSZU3egm2ivj.JT6BNk6gdlrEf1azTTxh0tcjQwQw3rMN7ITC1Ppd.Fz3vOC4WodyjmGMLOHosSYMW2GVJcyuhgZJMmUko1pHu.IRXGKTJIORlbtl5AwsyZXm0cURoowvCUOZhOSyZYyLczQ3BwdrXWOir9E69HxLcN8CJATGhKzWTonTuKHwnW1wbug",
+      "image_source_page": "https://reverb.com/item/94328003-nux-reissue-series-63-diamond-overdrive-guitar-effects-pedal"
     },
     {
       "company": "NUX Audio / NUX",
@@ -47370,11 +47400,13 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/nux-audio-nux/6ixty5ive-od/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/NUX Audio / NUX/‘6ixty5ive OD.md",
       "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "deep_research_status": "PENDING",
+      "image_source_url": "https://nuxaudio.cherubtechnology.com/wp-content/uploads/2025/03/‘6ixty5ive-OD_Thumbnails-1.jpg",
+      "image_source_page": "https://nuxaudio.com/product/6ixty5iveod/"
     },
     {
       "company": "NUX Audio / NUX",
@@ -47410,7 +47442,9 @@
       "source_page": null,
       "research_record": "./research/pedals/NUX Audio / NUX/Brownie.md",
       "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "deep_research_status": "PENDING",
+      "image_source_url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/ci/a41df29f1e08a22a/1790548172860/JEts7n5lOIXELDMv8btu1wAYk3SgRJcB6nYd5BK9GuA-1790548172-1.3.1.1-mXVugdaJjL0N19SlP0Dv_1iopEqru9e0BujH54n8B8H_PSDR2Y4HHN8MShnt4QMZRn_D6lHsyxQ0F2a80CM3hx3sJqFPqU4VyNLr2EZte86_4gLiTfeyWbzls.o1j3ftFxaCuimUEc9AIYQXrCWMnWoBwsBVhFW4K9tV1Siy16dDOv3osZaGLPUSj.nP.U837Mcpj.2Alw0VoJepPGXk07.3bEokIEEvjZl1_fyoyiwWwNCuwm.3Cdlgy4B1LPtKFBMrJJnbQ5VenbcbjSlbh4dKEKgF0OEKdrxtZBR3ZevKl1QVTHu5UjjGcNV00zE3EBN8Gge1ZQWz9JWCjOoihMUWi5uLSedAUOiRea1DIe9GWuO4gSYCkH.e5zSbpnjc3CRlX6URliCkZC.M.7r.QgkmdJ0srbDKOAemSPOysRPIvman3gW82QfAkciy..no9BqswSO0gKCNbFsauqsbdNJRJ_csjao1Owc_KgcqvkjgMCAUYqO1luKQN1wWVdqDTScRt1kkeXBh7WHAcvBiuceo7fM1qKxQxTsMcwYUMnz97yOpMh1FdWHBW4rRhrXZ7kETyRh.pGg3dQTmrz.NdqHKGkn_5P49YDonrAjUTQJAHEfWMGeKIZxQoc9PU5.gUyQt3UNFI86nKzomNaBlZNG4AgOhxMvK.QIK_ok2ivLnb0n3QJqDsclDW.aih1pxhZ9iPWdfX65Um8DgvG5NSXb.KQhKSVS8yyM4DoWVK7E",
+      "image_source_page": "https://reverb.com/item/92416058-cmatmods-brownie-with-xtra-jfets"
     },
     {
       "company": "NUX Audio / NUX",
@@ -47578,7 +47612,9 @@
       "source_page": null,
       "research_record": "./research/pedals/NUX Audio / NUX/Morning Star.md",
       "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "deep_research_status": "PENDING",
+      "image_source_url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/ci/a41df3882e27eac4/1790548210197/sz82jH.3ALg7qQ_omcmeRfakTl6kUB2InohwiPqPvpk-1790548210-1.3.1.1-b62lwif2gJ6YkMEfNCgJUx06XTUGOB1mpRHSZ2yhU36012S2aE2.urhGlSyNxCVba4HLpeHG6laNER.NEFMzG2p_2zd1kv7DEhEyr3MHuWuWHztHhwMQJYW6ZsTeZyZylrVIuJrmI9we52X_J6p5PzD2jwn2jZeeKBt5KgPOoxVFjK.BieiMLT44akQr_4uT9.vmYT3L6qo49zlDYbK5TsfHqypU9BMhoULQSDFiMGueBNu6USq0QyMToFUkJ_panJoS7K7OawbeyLh0wnNLiysquPzBiX8FKJ5JvDAvjgYOyU0WqMi0Fx2ffQtJAa1M4MIkkrIgHipqKTFzx8.Bg8vxtf_6ntxnSGgh8JgFbMnB8QSRdXSdkapUgyXQFlrv21aM5FWnEechpv7.EAj9UKOkNx1hLO0hJBHIvxELCdNfVBYS740zrH_6KeT6IDkmVTQ4csdDytVmwRgZR.G1oyNmYMsUbUHT2r8ggZ9W8utTrDHzaJaFwTb1U.h0B0TH8N2AWUdevNlgEqL.wI8KktmuT45eG_jaa6Aaga5FDzyygMwFXaBPQ.c0rBz5z.Nf3zH8gUMvDP2xuMV.G1tGB10U1..ccw.DntvSdCZhm31fB.liVzMygStARhHESk_7GBEfYkuGpllCwhTcgOlz27OXYYjgQ8XhGg5n5gSrhCIEHrYViGU5fNzBiS7Dqu0Pfqm0LhgfpDgieHV5.gTBRQhXl7Ec.taV0Tk8XVeE_eI",
+      "image_source_page": "https://reverb.com/item/93902525-nux-nod-3-morning-star-overdrive-excellent-condition"
     },
     {
       "company": "NUX Audio / NUX",
@@ -47586,11 +47622,13 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/nux-audio-nux/mx-6-extreme-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/NUX Audio / NUX/MX-6 Extreme Distortion.md",
       "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "deep_research_status": "PENDING",
+      "image_source_url": "https://static.wixstatic.com/media/c16fa6_b4c2b7a89b2b48e4be89c83667260ee3~mv2.jpg/v1/fill/w_2198,h_2500,al_c,q_90,enc_avif,quality_auto/c16fa6_b4c2b7a89b2b48e4be89c83667260ee3~mv2.jpg",
+      "image_source_page": "https://www.secondhandguitar.com/product-page/nux-mx-6-extreme-distortion"
     },
     {
       "company": "NUX Audio / NUX",
@@ -47602,7 +47640,9 @@
       "source_page": null,
       "research_record": "./research/pedals/NUX Audio / NUX/OD-2 Vintage Overdrive.md",
       "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "deep_research_status": "PENDING",
+      "image_source_url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/ci/a41df4280825c67f/1790548235771/oBFdORH2UJMncpgD.GSezQIRSq3puuI8SOATtoUzeco-1790548235-1.3.1.1-6nA2l2MR3I0SzWoZ.3S5KrWT09HkIFi4n0Hsjc4tUMWi2ZsIfMmzN.F55xGSCEZHqAGLnzCxmU.VfgY1WxIxwKethlOB9mWj8EDphLku6C2fAKQCtfEhXZf2dVs1PeNrNf5.5_1A.RyJbE5i7ys8pWp48cgvREbsGnGxrIV7.7Nv_wSbGS6JxXnyVV58saQeGqZ7uH7NjuyYKWtBQRTc8oJQ0uQKiLlj_fCD7VKZMVzPkHdWw1rnXApxE0HGY_flA1nzH8YNdfw3KdC3MYxp6nU_6F_SiCEOSf8OmwBSBDuB6ehjvfpWHRjGrB.e3OAoUMgcHlGBOJFRumAxFKTjUNFmoT_6M5hiWKCrjjwuNZH4HvjztbHTxgS9Nk1CKhHaDvfa899fvpR63m4IXGjsjClp24aPup99JOlBGimj00ovE2fWoSRLkeOzvlDlOatiNelsjfshQUYZog3KTNL94_d6DDqGnAzgWbDmoLmFZ58EiM.jjgNuC.Zj9GbcR4IruoiQLmFiACP7miBef0hJ1ai.d1hDQ6szo2kSsF65Vi_vYLkvftaoU2sL4oCjDgXorv76RKgLAa01J1ZbsZi0UilDYEP8Yzkq7gulZrqP.uhMVdEyBgxN8YE_RHwNe1Ai6OPvniMrqaYp5DaY_uRgfxCPuOW5NkANlfZwGOdTwl0tg457GVAedIWe6RWjuI6r5f8PY8bKhfl_PnjEjSFYw8hqIk.mo1_wfqHBaAQFPQ4",
+      "image_source_page": "https://reverb.com/item/92846460-boss-od-2-turbo-overdrive-vintage-1980s-japan"
     },
     {
       "company": "NUX Audio / NUX",
@@ -47638,7 +47678,9 @@
       "source_page": null,
       "research_record": "./research/pedals/NUX Audio / NUX/Queen of Tone.md",
       "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "deep_research_status": "PENDING",
+      "image_source_url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/ci/a41df3f97c9dd6c7/1790548228305/.Fine4hJrJ_Lrffr6cJwtWoOTN_zYWtr6Es0wTI_SZI-1790548228-1.3.1.1-da_E6FGklrhsELfOemCP3WQaa.iuPJglAlVucdzHmq4OGzwJyEn8EK1nqozPpoPYSfytCexcAc6f5rFqikfBjBRwJ3G.BBjEXprGO.ZU8RR_sVWYpf5CAvJ6nJOfPGPxfSMmvUqYRxI7YB5vWBK7RVsdk_wgb71oFr4F1_Gt.9zTNKAGDdR.d47MavrZbe14wqeRMQK9CowgnUuOk9iuf0OmUBmB0IQ4QfGUqNZrZ19uuzWMkB28lpprpsqn6YHeVUA7se9ICQU9v8tnhXrCDuesNMENe4hqrOjGao.GnmRW0T4CCIiJyGozdZquD0scKcyMt0roFUT3wxF9WEnFSBSGilAiUgD3eW3HpteKjupHsm3fgBnTnCnMnyd8gPawDjcgbirMOYYmwIurUMiNCzeB.2gI6QB65TIYGh0yXAKqvJJ1m_XD0uqUKYAivrtL7ZwqZWSb_2nhDGPy0beDSHrEEKcee4LOSePTx5sFCaAqoFKBHamowz1sV8jKtzD9j0KrdeM7TdsIXvMhllaK.8wWP26qhyv4UeJbxjQWcV0y32shnu9us55j51Rhf8VeEGOPioIbWEbdXqz5mLnOhfix0K9yY0pZi87.KYHdL7FIxgDNaTtepwtlvfXHyE3mhi_urYM3UvjtHcCLEEatP2Aazz0cTPLgAmtXfxKEIpOJwx6WX_Aew1gq5t5kefBgKtDmq5eTfYC.Mlb3p9g.cTh6u0Z5DX6eOrHE_PK2ixQ",
+      "image_source_page": "https://reverb.com/item/100378154-nux-ndo-6-queen-of-tone-dual-overdrive-2022-present-blue"
     },
     {
       "company": "NUX Audio / NUX",
@@ -47658,11 +47700,13 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/nux-audio-nux/scream-bass-bass-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/NUX Audio / NUX/Scream Bass / Bass Overdrive.md",
       "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "deep_research_status": "PENDING",
+      "image_source_url": "https://www.cdlmusica.com/images/items/17268_f1.jpg",
+      "image_source_page": "https://www.cdlmusica.com/producto.php?pr=17268"
     },
     {
       "company": "NUX Audio / NUX",
@@ -47670,11 +47714,13 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/nux-audio-nux/steel-singer-drive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/NUX Audio / NUX/Steel Singer Drive.md",
       "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "deep_research_status": "PENDING",
+      "image_source_url": "https://medias.audiofanzine.com/images/normal/nux-steel-singer-drive-6006660.jpg",
+      "image_source_page": "https://fr.audiofanzine.com/overdrive-guitare/nux/steel-singer-drive/"
     },
     {
       "company": "NUX Audio / NUX",
@@ -47792,11 +47838,13 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/okko-fx/holy-grit/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/OKKO FX/HOLY GRIT.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://delicious-audio.com/wp-content/themes/newsight/images/header/illustration2.jpg.webp",
+      "image_source_page": "https://delicious-audio.com/okko-fx-holy-grit/"
     },
     {
       "company": "OKKO FX",
@@ -48264,11 +48312,13 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/outlaw-effects/deputy-marshall-plexi-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Outlaw Effects/Deputy Marshall Plexi Distortion.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://www.discountmusicalinstruments.com/wp-content/uploads/2026/02/cropped-23ba2f65-8651-4440-a959-e07b6f94d367.png",
+      "image_source_page": "https://www.discountmusicalinstruments.com/product/outlaw-effects-deputy-marshall-plexi-distortion/"
     },
     {
       "company": "Outlaw Effects",
@@ -48740,11 +48790,13 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/pettyjohn-electronics/gold-mkii/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Pettyjohn Electronics/GOLD MKII.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://www.electroguitarly.com/wp-content/uploads/2026/05/1778322458/pettyjohn-electronics-gold-mkii-overdrive-pedal.webp",
+      "image_source_page": "https://www.electroguitarly.com/product/pettyjohn-electronics-gold-mkii-overdrive-pedal/"
     },
     {
       "company": "Pettyjohn Electronics",
