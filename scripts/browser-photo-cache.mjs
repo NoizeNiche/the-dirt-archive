@@ -182,11 +182,25 @@ function identityPhrases(pedal) {
   const variants = new Set([
     raw,
     raw.split('(')[0].trim(),
-    raw.split(' - ')[0].trim()
+    raw.split(' - ')[0].trim(),
+    raw.split(/\s+—\s+/)[0].trim(),
+    raw.replace(/\s*\/\s*formerly\s+.+$/i, '').trim(),
+    raw.replace(/\s+legacy\s+reissue.*$/i, '').trim(),
+    raw.replace(/\s+—\s+consolidated.*$/i, '').trim()
   ]);
+  const formerMatch = raw.match(/\bformerly\s+(.+)$/i);
+  if (formerMatch) variants.add(String(formerMatch[1] || '').replace(/[\s.,;:]+$/, '').trim());
+
+  // Preserve compact model spellings for retailer/CDN metadata that removes
+  // spaces, while the full phrase remains the primary identity signal.
+  for (const value of [...variants]) {
+    const compact = normalizedIdentity(value).replace(/\s+/g, '');
+    if (compact.length >= 5) variants.add(compact);
+  }
+
   return [...variants]
     .map(normalizedIdentity)
-    .filter(value => value.length >= 5 && value.split(/\s+/).length >= 2);
+    .filter(value => value.length >= 5);
 }
 
 function pageMatchesSearchIdentity(entry, title, h1) {
