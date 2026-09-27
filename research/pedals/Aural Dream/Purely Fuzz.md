@@ -4,50 +4,63 @@
 - **Archive parent:** Purely Fuzz
 - **Builder:** Aural Dream
 - **Catalog type:** Fuzz
-- **Identity:** Compact two-voice fuzz using LED and silicon clipping options, with a simple Fuzz/Tone/Volume control set.
+- **Identity:** Compact fuzz with Fuzz, Tone and Volume controls plus selectable LED/silicon clipping, documented as a Chinese-made 9V pedal. [1][2]
 
 ## What this pedal is
-Purely Fuzz has Fuzz, Tone and Volume controls plus a two-mode LED/SI switch. Secondary documentation places the circuit in the broad Fire Red Fuzz/Rat-adjacent hard-clipping territory rather than treating the name "fuzz" as evidence of a vintage two-transistor fuzz topology.
+Purely Fuzz is a relatively simple two-voice fuzz/drive box whose main character is determined by the clipping selector. Secondary circuit commentary places it closer to a hard-clipping op-amp fuzz/drive hybrid than to a vintage germanium fuzz topology. [2][3]
 
-## Colorways
-- **Documented finish:** blue.
-- No reliable numbered colorway history was verified.
+## Controls
+- **FUZZ**
+- **TONE**
+- **VOLUME**
+- **LED / SI** clipping selector. [1]
 
-## Versions and factory options
-### Purely Fuzz
-- Fuzz
-- Tone
-- Volume
-- LED / SI clipping selector
-- True bypass
-- 9V operation
-- Compact aluminum enclosure
+## Circuit architecture
+- Hard-clipping fuzz/drive architecture is documented by secondary analysis.
+- Exact production schematic is not published by the builder.
+- The archive does not assign a specific historical clone identity without stronger primary evidence.
 
-### Clipping modes
-- **LED/SI:** LED plus silicon clipping, described as stronger in the mids with a more open response.
-- **SI:** silicon clipping with a firmer low end and deeper mid character.
+## Transistor / active device
+- Secondary circuit commentary identifies an op-amp-based architecture.
+- Exact op-amp part number is not factory documented. [3]
 
-## Version changes
-No numbered factory revision was verified.
+## Diode / clipping
+- **LED clipping**
+- **Silicon-diode clipping**
+Exact diode part numbers are not documented. [1][3]
 
-## Transistor
-- **Technology:** Secondary circuit commentary identifies an op-amp hard-clipping architecture, but the builder does not publish a complete active-device list.
-- **Exact device:** Not factory documented.
+## Construction / power
+- **Made in China**.
+- **9V battery or 9V DC**.
+- Compact enclosure approximately **6.8 × 12.5 × 5cm**.
+- Weight approximately **0.3kg**.
+- Blue finish documented for the standard example. [1]
 
-## Diode
-- **Documented options:** LED clipping and silicon-diode clipping.
-- Exact diode part numbers are not documented.
+## Version history
+- No numbered revision established.
+- The LED/SI selector is a functional mode, not a version.
 
 ## Sound
-Purely Fuzz ranges from relatively open, louder LED clipping to denser silicon clipping, giving the latter a chewier and more saturated response. Listening reports place it closer to a compact high-gain drive/fuzz hybrid than a woolly vintage fuzz, with the tone control and clipping selector doing much of the shaping.
+The LED and silicon selections give two distinct clipping behaviors, with secondary listening/circuit reports describing the LED setting as more open and the silicon setting as denser and more compressed. These are source descriptions rather than measured response curves. [1][3]
+
+## Research confidence
+- **Identity:** High
+- **Three controls:** High
+- **LED/SI clipping:** High
+- **9V battery/DC:** High
+- **Made in China:** High
+- **Exact op-amp:** Unknown
+- **Exact diode:** Unknown
+- **Exact clone lineage:** Not established
+
+## Deep research verification
+The exact-model Effects Pedals record was checked against surviving Reverb and secondary circuit commentary. The evidence consistently establishes the three-control layout, LED/SI clipping options, blue finish and 9V power arrangement; the op-amp architecture remains secondary-source information and is labeled accordingly. [1][2][3]
 
 ## Sources checked
 1. Effects Pedals — Aural Dream Purely Fuzz: https://www.effects-pedals.info/p/aural-dream-purely-fuzz/
 2. Reverb — Aural Dream Purely Fuzz: https://reverb.com/item/45635025-aural-dream-purely-fuzz
-3. Budget Pedal Chap — Purely Fuzz demo: https://www.youtube.com/watch?v=vXsUoH2EypI
-4. Stomp Box Steals — Purely Fuzz discussion of its clipping/circuit character: https://stompboxsteals.blogspot.com/2022/06/fuzz-aural-dream-purely-fuzz-fuzz-what.html
+3. Stomp Box Steals — Purely Fuzz circuit/clipping discussion: https://stompboxsteals.blogspot.com/2022/06/fuzz-aural-dream-purely-fuzz-fuzz-what.html
 
 ## Photo
 - **Archive status:** **No Photo Archived**
-- **Exact-model reference checked:** https://www.effects-pedals.info/p/aural-dream-purely-fuzz/
-- **Archive note:** Blue and other exact-model examples are documented externally, but no stable archive asset is being promoted in this pass.
+- **Exact-model reference checked:** Effects Pedals exact-model record.
