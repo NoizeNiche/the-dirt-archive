@@ -3,13 +3,13 @@
 
 The active production phase is **Catalog Research Phase**. PRP1 is retained only as a legacy publication/closeout mechanism.
 
-Live catalog: **4206 total / 4206 surface-ready / 3893 deep-researched / 3739 research-linked / 3443 pictured / 3443 complete / 0 surface-missing / 313 deep-research-pending / 296 researched-photo-pending**.
+Live catalog: **4206 total / 4206 surface-ready / 3894 deep-researched / 3739 research-linked / 3443 pictured / 3443 complete / 0 surface-missing / 312 deep-research-pending / 296 researched-photo-pending**.
 
 **Next deep-research target:** DOD Electronics - Juice Box Overdrive (FX51).
 
 PRP1 closeout remains separate: 296 researched record(s) still lack an exact local photo.
 The research queue is generated from the canonical catalog and tracker; do not hand-edit the derived queue.
-Last refreshed: 2026-09-27T22:40:15.401157+00:00
+Last refreshed: 2026-09-27T22:41:38.448158+00:00
 <!-- AUTO:RESEARCH_PHASE_END -->
 
 ## Superseded checkpoint

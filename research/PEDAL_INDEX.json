@@ -47703,8 +47703,8 @@
       "image": "./assets/pedals/nux-audio-nux/rec-to-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/NUX Audio / NUX/REC TO Distortion.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING",
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED",
       "image_source_url": "https://lirimusic.com/wp-content/uploads/2026/02/D-3.jpg",
       "image_source_page": "https://lirimusic.com/pedal-guitar-nux-rec-to-distortion/"
     },
