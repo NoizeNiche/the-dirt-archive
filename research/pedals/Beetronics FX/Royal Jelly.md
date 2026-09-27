@@ -1,49 +1,61 @@
-# Beetronics FX - Royal Jelly
+# Beetronics FX — Royal Jelly
 
 ## PRP identity
 - **Archive parent:** Royal Jelly
 - **Builder:** Beetronics FX
 - **Catalog type:** Fuzz / Overdrive
-- **Identity:** Parallel overdrive/fuzz blender with two stored blend voices, dry-signal mix, two-band EQ, and a fuzz treble boost.
+- **Identity:** Parallel overdrive/fuzz blender developed with Filipe Pampuri and Howard Davis, with two stored blend voices, dry mix, two-band EQ and fuzz treble boost. [1][2]
 
-## What this pedal is
-Royal Jelly is a purpose-built overdrive/fuzz blender developed by Filipe Pampuri with Howard Davis. It runs overdrive and fuzz in parallel and gives the player two selectable blend settings called Queen and King.
+## Controls / architecture
+- **HONEY:** Main gain control.
+- **QUEEN / KING:** Two stored overdrive/fuzz blend settings.
+- **DRY:** Clean-signal mix.
+- **VOLUME:** Output level.
+- **HI EQ:** Approximately ±10 dB.
+- **LO EQ:** Approximately ±10 dB.
+- **BUZZ:** High-frequency boost on the fuzz path.
+- Queen/King switching recalls the two blend settings. [1][2]
 
-## Colorways
-- Standard Royal Series and multiple limited/custom finishes are documented.
-- Custom Shop artwork and finish changes are retained as cosmetic variants unless a separate circuit is explicitly documented.
-
-## Versions and factory options
-### Royal Jelly
-- Honey gain control
-- Queen and King overdrive/fuzz blend settings
-- Dry mix
-- Volume
-- HI EQ, approximately ±10dB
-- LO EQ, approximately ±10dB
-- BUZZ high-frequency boost for the fuzz path
-- Queen/King mode switching
-- 9V DC center-negative
-- True bypass
-
-## Version changes
-Royal Jelly has appeared in standard Royal Series, limited-edition, and many numbered Custom Shop finishes. The checked sources do not establish a numbered electrical revision for the base circuit.
+## Circuit architecture
+- Overdrive and fuzz stages run **in parallel**.
+- Dry signal can be mixed back in.
+- Queen/King provide two stored blend settings rather than merely changing a single EQ point.
+- BUZZ specifically affects the fuzz side's upper-frequency character. [1]
 
 ## Transistor
-- **Exact production transistor/device part numbers:** Not publicly documented in the checked sources.
+- Exact production transistor/device part numbers are not publicly documented.
 
-## Diode
-- **Exact clipping/protection arrangement or diode part numbers:** Not publicly documented.
+## Diode / clipping
+- Exact clipping-device type and part number are not publicly documented.
+
+## Power
+- **9V DC, center-negative**.
+- True bypass. [1]
+
+## Version history
+- Standard Royal Jelly.
+- Limited and Custom Shop editions with different artwork/finishes.
+- No numbered electronic revision established.
 
 ## Sound
-Royal Jelly can run overdrive and fuzz separately or blend them together, with Queen and King providing two on-the-fly blend settings. The Dry control can add back clean signal for clarity and definition, while the HI/LO EQ and BUZZ switch let the fuzz side move from rounded to much more cutting.
+Royal Jelly can function as overdrive, fuzz or a blended combination of both. Dry restores articulation, while HI/LO EQ and BUZZ allow the fuzz path to move from rounded to much more cutting. Queen and King provide two on-the-fly mix states. [1][2]
+
+## Research confidence
+- **Identity:** High
+- **Parallel OD/fuzz architecture:** High
+- **Queen/King blend system:** High
+- **Dry/HI/LO/BUZZ controls:** High
+- **9V/true bypass:** High
+- **Exact active devices:** Unknown
+
+## Deep research verification
+Beetronics' Royal Jelly product documentation was cross-checked with the limited-edition page and independent MusicRadar review. The combined evidence supports the parallel architecture, stored blend concept, EQ section and fuzz-side BUZZ control. [1][2][3]
 
 ## Sources checked
-1. Beetronics official Royal Jelly: https://www.beetronicsfx.com/products/royal-jelly-limited-edition-p-royal-series
-2. Beetronics Royal Jelly limited edition: https://www.beetronicsfx.com/products/royal-jelly-le-fd
-3. MusicRadar review: https://www.musicradar.com/reviews/beetronics-royal-jelly
+1. Beetronics FX — Royal Jelly: https://www.beetronicsfx.com/products/royal-jelly-limited-edition-p-royal-series
+2. Beetronics FX — Royal Jelly Limited Edition: https://www.beetronicsfx.com/products/royal-jelly-le-fd
+3. MusicRadar — Beetronics Royal Jelly: https://www.musicradar.com/reviews/beetronics-royal-jelly
 
 ## Photo
-- **Archive status:** **Exact Photo Attached to Public Catalog**
-- **Exact-model image:** https://www.beetronicsfx.com/cdn/shop/products/RJ2021_01.jpg?v=1617996734&width=1500
-- **Source page:** https://www.beetronicsfx.com/products/royal-jelly-limited-edition-p-royal-series
+- **Exact pedal photograph:** Beetronics official Royal Jelly image.
+- https://www.beetronicsfx.com/cdn/shop/products/RJ2021_01.jpg?v=1617996734&width=1500
