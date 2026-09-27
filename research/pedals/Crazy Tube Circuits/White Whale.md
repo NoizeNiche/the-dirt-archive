@@ -1,0 +1,18 @@
+# Crazy Tube Circuits - White Whale
+
+## PRP identity
+- Builder: Crazy Tube Circuits
+- Catalog type: Distortion / Fuzz / Overdrive
+- Identity: Crazy Tube Circuits White Whale, a named dirt product in the builder's Overdrive / Distortion / Fuzz catalog.
+
+## What this pedal is
+White Whale is explicitly listed in Crazy Tube Circuits' dedicated Overdrive / Distortion / Fuzz category.
+
+## Technical details
+Exact controls, circuit topology, components and version history require exact-model documentation and are not inferred here.
+
+## Sources checked
+1. Crazy Tube Circuits - Overdrive / Distortion / Fuzz: https://crazytubecircuits.com/store/overdrive-distortion-fuzz
+
+## Photo
+- Exact photo pending.
