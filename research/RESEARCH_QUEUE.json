@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-27T22:08:43.300001+00:00",
+  "generated_at": "2026-09-27T22:19:39.737651+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,25 +10,18 @@
     "pictured": 3409,
     "complete": 3409,
     "research_pending": 0,
-    "deep_research_pending": 334,
-    "deep_researched": 3872,
+    "deep_research_pending": 332,
+    "deep_researched": 3874,
     "surface_ready": 4206
   },
   "next_target": {
     "builder": "DOD Electronics",
-    "pedal": "FX76 Punkifier",
+    "pedal": "Grind (FX101)",
     "catalog_type": "",
-    "research_record": "./research/pedals/DOD Electronics/FX76 Punkifier.md",
+    "research_record": "./research/pedals/DOD Electronics/Grind (FX101).md",
     "research_level": "surface"
   },
   "working_set": [
-    {
-      "builder": "DOD Electronics",
-      "pedal": "FX76 Punkifier",
-      "catalog_type": "",
-      "research_record": "./research/pedals/DOD Electronics/FX76 Punkifier.md",
-      "research_level": "surface"
-    },
     {
       "builder": "DOD Electronics",
       "pedal": "Grind (FX101)",
@@ -195,6 +188,13 @@
       "pedal": "Hizumitas — Fuzz Sustainar",
       "catalog_type": "",
       "research_record": "./research/pedals/EarthQuaker Devices/Hizumitas — Fuzz Sustainar.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "EarthQuaker Devices",
+      "pedal": "Hoof — Hybrid Fuzz",
+      "catalog_type": "",
+      "research_record": "./research/pedals/EarthQuaker Devices/Hoof — Hybrid Fuzz.md",
       "research_level": "surface"
     }
   ]

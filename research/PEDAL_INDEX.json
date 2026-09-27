@@ -33169,8 +33169,8 @@
       "image": "./assets/pedals/dod-electronics/fx76-punkifier/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/DOD Electronics/FX76 Punkifier.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "DOD Electronics",
@@ -41508,8 +41508,8 @@
       "image": null,
       "source_page": "https://landdevices.com/collections/catalog",
       "research_record": "./research/pedals/Land Devices/HP-2.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Land Devices",
