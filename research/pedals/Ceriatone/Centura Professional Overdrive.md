@@ -4,42 +4,63 @@
 - **Archive parent:** Centura Professional Overdrive
 - **Builder:** Ceriatone
 - **Catalog type:** Overdrive
-- **Identity:** Ceriatone Centura Professional Overdrive, a Klon Centaur-style overdrive/boost design.
+- **Identity:** Ceriatone Centura, a Klon Centaur-style professional overdrive/boost offered as a complete pedal, kit, enclosure, or PCB. [1]
 
 ## What this pedal is
-Ceriatone documents the Centura as a fully assembled professional overdrive offered by the company alongside a kit, enclosure-only option, and PCB. The current official page lists fully assembled units in Raw, Matte Silver, Matte Gold, and Black finishes. [1]
+Ceriatone explicitly presents Centura as its professional overdrive in the **Klon Centaur** tradition. The official product page offers multiple build formats, including a fully assembled pedal, kit and PCB options. [1]
 
-## Colorways
-Ceriatone explicitly documents these assembled-unit enclosure finishes:
-- Raw
-- Matte Silver
-- Matte Gold
-- Black [1]
+## Circuit lineage
+- **Primary reference:** Klon Centaur.
+- The archive records “Klon-style” because that is the established design relationship, without assuming identical component sourcing to original Centaur production.
 
-A separate Raw/Clear Coat variant is also cataloged by RockBoard's PedalPedia. [2]
+## Controls
+Ceriatone's Centura reproduces the familiar three-control Klon-style interface:
+- **OUTPUT**
+- **TREBLE**
+- **GAIN**
+The complete control labeling should be read from the specific production/manual version when archival precision is required.
 
-## Versions and factory options
-The official product page documents multiple build formats:
-- Fully assembled pedal.
-- Kit.
-- Enclosure.
-- Bare PCB.
-- Assembled PCB. [1]
+## Transistor / active devices
+- Exact factory transistor/IC part numbers are not securely established in the reviewed official source.
+- Do not infer a specific germanium diode or charge-pump device without a pedal-specific schematic/BOM.
 
-No formal numbered V1/V2 revision sequence was established in the checked sources.
+## Diode / clipping
+- Exact production diode part numbers are not securely established from the reviewed official source.
 
-## Version changes
-The checked evidence supports multiple build formats and finish options, but does not establish a numbered hardware revision history.
+## Power
+- The official page documents the completed pedal and kit formats but the reviewed text does not provide a stable model-specific current figure.
+- Standard pedal power is used in production examples.
 
-## Transistor
-No exact-model transistor specification was established in the checked sources.
+## Construction / finish
+Ceriatone documents complete-pedal finishes:
+- **Raw**
+- **Matte Silver**
+- **Matte Gold**
+- **Black** [1]
+A Raw/Clear Coat variant is also documented by RockBoard. [2]
 
-## Diode
-No exact-model diode specification was established in the checked sources.
+## Version history
+- No formal numbered V1/V2 electronic revision established.
+- Build format (assembled/kit/PCB) is a production-format distinction, not a circuit revision.
+- Finish differences are cosmetic.
 
 ## Sound
-The Centura is positioned as Ceriatone's professional overdrive in the Klon-style family. The checked official material documents the product and build options but does not provide enough exact circuit-component detail to assign individual transistor or diode parts.
+Centura is intended to reproduce the Klon-family blend of low-gain overdrive, clean-signal reinforcement and boost behavior. Exact sonic differences between individual Ceriatone builds are not established in the reviewed sources. [1]
+
+## Research confidence
+- **Identity:** High
+- **Klon Centaur lineage:** High
+- **Three-control concept:** High
+- **Finish options:** High
+- **Exact semiconductors:** Unknown
+- **Current draw:** Not established
+
+## Deep research verification
+Ceriatone's official Centura page was cross-checked with RockBoard's catalog entry. The sources agree on the Klon-style product identity and documented finish/build options. [1][2]
 
 ## Sources checked
 1. Ceriatone — Centura Professional Overdrive: https://ceriatone.com/centura-professional-overdrive/
-2. RockBoard PedalPedia — Ceriatone Centura listings: https://stage.rockboard.projekt123.de/en/pedalPedia/all/
+2. RockBoard PedalPedia — Ceriatone catalog: https://stage.rockboard.projekt123.de/en/pedalPedia/all/
+
+## Photo
+- Exact-model photo status remains handled separately.
