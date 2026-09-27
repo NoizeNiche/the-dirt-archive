@@ -1,23 +1,40 @@
 # ThorpyFX — Shaftesbury Duo Fuzz
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Shaftesbury Duo Fuzz
 - **Builder:** ThorpyFX
-- **Pedal:** Shaftesbury Duo Fuzz
 - **Catalog type:** Fuzz
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** ThorpyFX's Shaftesbury Duo Fuzz.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Shaftesbury Duo Fuzz** by **ThorpyFX** as a **Fuzz** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+ThorpyFX's Shaftesbury Duo Fuzz is cataloged as a fuzz pedal.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+Rose Morris have collaborated with ThorpyFX to meticulously recreate the Duo Fuzz, in both its original big box glory and in a more pedalboard friendly compact enclosure.
+Both follow the authentic, lower-output silicon Super-Fuzz sound.
+Compact adds footswitchable Flat/Scooped Tone; Heritage has a side-mounted switch.
+
+## Sources checked
+1. Shaftesbury Duo Fuzz Heritage Edition: https://thorpyfx.com/en-us/products/shaftesbury-duo-fuzz-heritage-edition
+2. Guitar Pedal X - GPX Blog - Rose Morris teams up with ThorpyFX to bring back its much celebrated Shaftesbury Duo Fuzz / Super-Fuzz: https://www.guitarpedalx.com/news/gpx-blog/rose-morris-teams-up-with-thorpyfx-to-bring-back-its-much-celebrated-shaftesbury-duo-fuzz--super-fuzz
+3. Shaftesbury Duo Fuzz – Rose-Morris: https://rosemorris.com/products/shaftesbury-duo-fuzz
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

@@ -1,0 +1,25 @@
+{
+  "builder": "Lovepedal / Love Pedal",
+  "pedal": "Amp Eleven",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 2,
+  "sources": [
+    {
+      "url": "https://www.lovepedal.com/",
+      "title": "Love Pedal",
+      "h1": "",
+      "excerpt": "Love Pedal Home Pedals Press Videos Custom History Contact See What\u2019s New Click for details. Watch a Video Click for details. Custom Shop Click for details. Love Pedal News Click for details. TCHULA 200lbs PURPLE PLEXI ETERNITY BURST HERMIDA ZENDRIVE DOVER DRIVE AMP ELEVEN RUBBER CHICKEN HERMIDA EPH3 &copy; All rights reserved 2026 LOVEPEDAL L.L.C. Home Pedals Press Contact Privacy Policy Terms of Service",
+      "host": "www.lovepedal.com",
+      "source_kind": "catalog_verified"
+    },
+    {
+      "url": "https://lovepedalcustomeffects.myshopify.com/",
+      "title": "LOVEPEDAL &ndash; LovePedal Custom Shop",
+      "h1": "",
+      "excerpt": "LOVEPEDAL &ndash; LovePedal Custom Shop 0 Cart Log in or Create an account LovePedal Custom Shop Home Catalog About Us Home Catalog About Us Your cart (0) BONETENDER CANDY REDEYE - RARE! $ 99.91 JMP Eleven BIG BOX! Custom Build! $ 135.11 AMP Eleven 15th Anniversary $ 188.88 Quick Links Search About Us Newsletter Follow Us Twitter Facebook YouTube Instagram Copyright &copy; 2026 LovePedal Custom Shop | Powered by Shopify",
+      "host": "lovepedalcustomeffects.myshopify.com",
+      "source_kind": "other"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}

@@ -28856,5 +28856,61 @@
     "image": null,
     "source_page": null,
     "research_record": "./research/pedals/ZVEX Effects/Woolly Mammoth 7.md"
+  },
+  {
+    "builder": "Lovetone",
+    "pedal": "Big Cheese",
+    "image": "",
+    "source_page": "https://www.effectsdatabase.com/model/lovetone/bigcheese",
+    "research_record": "./research/pedals/Lovetone/Big Cheese.md"
+  },
+  {
+    "builder": "Lovetone",
+    "pedal": "Brown Source",
+    "image": "",
+    "source_page": "https://www.effectsdatabase.com/model/lovetone/brownsource",
+    "research_record": "./research/pedals/Lovetone/Brown Source.md"
+  },
+  {
+    "builder": "Lovetone",
+    "pedal": "Cheese Source",
+    "image": "",
+    "source_page": "https://www.effectsdatabase.com/model/lovetone/cheesesource",
+    "research_record": "./research/pedals/Lovetone/Cheese Source.md"
+  },
+  {
+    "builder": "Lovetone",
+    "pedal": "Ring Stinger",
+    "image": "",
+    "source_page": "https://www.effectsdatabase.com/model/lovetone/ringstinger",
+    "research_record": "./research/pedals/Lovetone/Ring Stinger.md"
+  },
+  {
+    "builder": "Dinosaural",
+    "pedal": "Tube Bender",
+    "image": "",
+    "source_page": "https://www.effectsdatabase.com/model/dinosaural",
+    "research_record": "./research/pedals/Dinosaural/Tube Bender.md"
+  },
+  {
+    "builder": "Dinosaural",
+    "pedal": "OPA-101 Overdriven Pre-Amp",
+    "image": "",
+    "source_page": "https://www.effectsdatabase.com/model/dinosaural",
+    "research_record": "./research/pedals/Dinosaural/OPA-101 Overdriven Pre-Amp.md"
+  },
+  {
+    "builder": "Dinosaural",
+    "pedal": "Cogmeister",
+    "image": "",
+    "source_page": "https://www.effectsdatabase.com/model/dinosaural",
+    "research_record": "./research/pedals/Dinosaural/Cogmeister.md"
+  },
+  {
+    "builder": "Dinosaural",
+    "pedal": "Hypoid Drive",
+    "image": "",
+    "source_page": "https://www.effectsdatabase.com/model/dinosaural",
+    "research_record": "./research/pedals/Dinosaural/Hypoid Drive.md"
   }
 ]

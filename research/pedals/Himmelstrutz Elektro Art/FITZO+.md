@@ -1,13 +1,13 @@
-# Himmelstrutz Elektro Art — FITZO+
+# Himmelstrutz Elektro Art — FITZO
 
 ## PRP identity
-- **Archive parent:** FITZO+
+- **Archive parent:** FITZO
 - **Builder:** Himmelstrutz Elektro Art
 - **Catalog type:** Overdrive
-- **Identity:** Himmelstrutz Elektro Art's FITZO+.
+- **Identity:** Himmelstrutz Elektro Art's FITZO.
 
 ## What this pedal is
-Himmelstrutz Elektro Art's FITZO+ is cataloged as an overdrive pedal.
+Himmelstrutz Elektro Art's FITZO is cataloged as an overdrive pedal.
 
 ## Colorways
 - No specific factory colorway information was established in the verified evidence packet.
