@@ -3,37 +3,74 @@
 ## PRP identity
 - **Archive parent:** 2-Tone
 - **Builder:** Bad Cat
-- **Catalog type:** Overdrive
-- **Identity:** Bad Cat's 2-Tone.
+- **Catalog type:** Boost / Overdrive
+- **Identity:** Two-channel tube pedal with a clean/tone-boost channel and a separate pure tube overdrive channel, designed by Bad Cat around its amplifier voicing. [1][2]
 
 ## What this pedal is
-Bad Cat browse by type volume/amplification amplification preamp / clean boost browse by type distortion/fuzz/overdrive overdrive browse by enclosure pedal Bad Cat 2-Tone Published on February 15, 2006 Bad Cat boost / preamp overdrive pedal Information Bad Cat 2-Tone Channel 1 - Tone Boost: Provides a Volume or level match reference control to maintain sound play volume when accessing this Tone channel.
+Bad Cat's manual describes 2-Tone as two separate channels. Channel 1 is a Tone Boost / clean-reference stage intended for level matching and optional tone coloration without overdrive. Channel 2 is a Gain Boost stage that provides pure tube overdrive. [1]
 
-## Colorways
-- No specific factory colorway information was established in the verified evidence packet.
+## Controls
+### Channel 1
+- **VOLUME**
+- **TONE**
 
-## Versions and factory options
-- No distinct factory revision was established in the verified evidence packet.
+### Channel 2
+- **GAIN**
+- **BASS**
+- **TREBLE**
+- **MASTER**
 
-## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+The shared Bass and Treble controls are active and interactive. The pedal has separate switching for the tone-boost and gain-boost functions plus true bypass. [1]
 
-## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
-- **Exact transistor/device:** Unknown.
+## Tube / circuit architecture
+- **Two-channel tube design.**
+- Channel 1: clean/tone boost and level reference.
+- Channel 2: pure tube overdrive.
+- Active, interactive Bass/Treble network on the gain channel. [1][2]
 
-## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
-- **Exact part:** Unknown.
+## Active device
+- Tube-based, not transistor-only.
+- Exact tube type/quantity is not stated in the reviewed 2-Tone manual excerpt.
+- No exact semiconductor gain-device part number is published.
+
+## Diode / clipping
+- The manual identifies the distortion source as tube overdrive.
+- Exact clipping-diode network is not documented as the defining circuit element.
+
+## Construction / power
+- AC-powered tube pedal with supplied external AC power arrangement.
+- Bad Cat's manual warns against incorrect voltage application.
+- True bypass.
+- Three-color control-mode LED system:
+  - Green: bypass/effect state.
+  - Yellow: Tone Boost.
+  - Red: Gain Boost. [1]
+
+## Version history
+- Effects Database publication: **2006**.
+- Effects Database also links a later 2013-and-after Bad Cat pedal line record, but the reviewed sources do not establish a numbered electronic revision for 2-Tone. [2]
 
 ## Sound
-Bad Cat 2-Tone Foot Pedal | Soundpure.com 1) { setInterval(() => { if (!this.paused) this.i = (this.i + 1) % this.count }, 6000); } }, }" @mouseenter="paused = true" @mouseleave="paused = false" @focusin="paused = true" @focusout="paused = false" x-show="!dismissed" x-cloak class="ann" role="region" aria-label="Site announcement" > Free guitar clinic: Alex Skolnick of Testament, live at Sound Pure on Sun, Oct 18 at 5:00 PM.
-*/ pinSearchScroll() { document.documentElement.style.scrollPaddingTop = '0px'; }, unpinSearchScroll() { document.documentElement.style.scrollPaddingTop = ''; } }" @keydown.escape.window="open = false" @click.outside="open = false"> = 2) fetchSuggest()" @blur="unpinSearchScroll()" @keydown.enter.prevent="if (q.trim().length > 0) submitWith(q.trim())" placeholder="Search Sound Pure — guitars, mics, drums, brands… (try 'neumann u67' or 'collings')" aria-label="Search" autocomplete="off" spellcheck="false"> Search 0"> Top searches 0"> Brands 0"> Products See all results for &lsquo; &rsquo; → Pro Audio Electric Guitars Acoustics/Archtops Drums Vintage Used Specials Call Us Toll Free 888-528-9703 Local / International +1 919-682-5552 Microphones Dynamic Large Diaphragm Ribbon Small Diaphragm Stereo Drum Mic Kits Mic Components Mic Preamps 500-Series Computer Audio A/D D/A Interfaces Control Surfaces DAW PCI/Interface Cards Plug-ins Pro Tools Studio Clocks Signal Processors Compressor/Limiter Digital Effects EQs Gates Limiters Other Monitoring Headphone Amps Headphones Monitor Control Monitors Speaker Amplifiers More Summing Mixers Portable Recorders Cables Accessories Live Sound Keyboards Synths Gift Certificates Browse All Pro Audio → Featured Manufacturer Soyuz Microphones Hand-built tube and ribbon microphones from Tula, Russia.
-Sound Pure Difference Try Before You Buy Audition eligible gear in your own space.
+Bad Cat describes the Tone Boost channel as clean and largely artifact-free, while the Gain Boost channel moves from subtle warmth/crunch to thicker tube overdrive as Gain rises. The interactive Bass/Treble controls provide a wide range of tube-oriented voicings. [1]
+
+## Research confidence
+- **Identity:** High
+- **Two-channel architecture:** High
+- **Control set:** High
+- **Tube overdrive:** High
+- **Interactive Bass/Treble:** High
+- **Exact tube type:** Unknown
+- **Exact diode:** Not established
+- **Numbered revision:** Not established
+
+## Deep research verification
+Bad Cat's operating manual was checked with Effects Database and a period user description. The sources agree on the two-channel architecture, complete control layout and clean-versus-overdrive roles. The archive avoids guessing the internal tube type where the reviewed manual excerpt does not state it. [1][2][3]
 
 ## Sources checked
-1. Bad Cat 2-Tone Foot Pedal | Soundpure.com: https://www.soundpure.com/p/bad-cat-2-tone-foot-pedal/2423
-2. Bad Cat 2-Tone | Effects Database: https://www.effectsdatabase.com/model/badcat/2tone
+1. Bad Cat 2-Tone Operating Manual: https://manuzoid.com/manuals/BAw6G-Bad%20Cat%202%20TONE%20Operating%20instructions
+2. Effects Database — Bad Cat 2-Tone: https://www.effectsdatabase.com/model/badcat/2tone
+3. Bad Cat 2-Tone user discussion: https://boogieforum.com/threads/toadworks-death-rattle-v3-and-bad-cat-2-tone-pedal.4249/
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** **No Photo Archived**
+- **Exact-model reference checked:** Bad Cat 2-Tone manual / Effects Database.
