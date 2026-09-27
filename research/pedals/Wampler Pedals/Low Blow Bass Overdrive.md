@@ -1,23 +1,37 @@
 # Wampler Pedals — Low Blow Bass Overdrive
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Low Blow Bass Overdrive
 - **Builder:** Wampler Pedals
-- **Pedal:** Low Blow Bass Overdrive
 - **Catalog type:** Distortion / Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Wampler Pedals's Low Blow Bass Overdrive.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Low Blow Bass Overdrive** by **Wampler Pedals** as a **Distortion / Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Wampler Low Blow Bass Overdrive/Distortion Bass Effects Pedal The store will not work correctly when cookies are disabled.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+Wampler Low Blow Bass Overdrive/Distortion Bass Effects Pedal The store will not work correctly when cookies are disabled.
+
+## Sources checked
+1. PDF Low Blow Bass Overdrive / Distortion / Notch Filter - Wampler Pedals: https://www.wamplerpedals.com/wp-content/uploads/2019/11/low_blow.pdf
+2. Wampler Low Blow Bass Overdrive/Distortion Bass Effects Pedal: https://www.samash.com/wampler-low-blow-bass-overdrive-distortion-bass-effects-pedal-wlowblowx-p
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
