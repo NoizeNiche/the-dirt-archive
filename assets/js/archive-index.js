@@ -391,7 +391,7 @@ Promise.all([loadCatalog(),loadFacets()])
     variationSearchText.set(k,((variationSearchText.get(k)||'')+' '+text).toLowerCase());
   }
   const builderTotal=new Set(items.map(x=>x.company)).size;
-  const picturedTotal=[...pedalImages.values()].filter(x=>Boolean(x?.image)).length;
+  const picturedTotal=[...pedalImages.values()].filter(isLocalArchiveImage).length;
   const deepResearchTotal=items.filter(x=>String(x.research_level||'').toLowerCase()==='deep').length;
   $('pulsePedals').textContent=items.length.toLocaleString();
   $('pulseBuilders').textContent=builderTotal.toLocaleString();
