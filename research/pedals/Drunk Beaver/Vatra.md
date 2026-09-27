@@ -1,66 +1,44 @@
 # Drunk Beaver — Vatra
 
-## PRP identity
-- **Archive parent:** Vatra
+## Surface catalog record
 - **Builder:** Drunk Beaver
+- **Pedal:** Vatra
 - **Catalog type:** Overdrive
-- **Identity:** Drunk Beaver's Vatra.
+- **Research level:** Deep
+- **Deep research status:** Verified
+- **Identity basis:** Drunk Beaver identifies Vatra as a signature overdrive for Vlad Yarun of Karna, based on the Ibanez TS-808 with added MOSFET-oriented voicing.
 
 ## What this pedal is
-Description Warm your tone with the Vatra , the signature overdrive designed for Vlad Yarun of the Ukrainian Hutsul Metal pioneers, Karna .
+The **Drunk Beaver Vatra** is a signature overdrive developed for **Vlad Yarun**, guitarist of the Ukrainian band Karna. Drunk Beaver describes it as a heavily developed take on the **Ibanez TS-808**, tuned for use with high-gain amplifiers and a percussive attack. [1]
 
-## Colorways
-- No specific factory colorway information was established in the verified evidence packet.
+The current product page also identifies a **Buk** mode that engages MOSFET clipping and changes the low-end response. [1]
 
-## Versions and factory options
-- The verified evidence references: V2.
-- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+## Controls and versions
+The reviewed evidence references **V2** and a two-voice design. Exact frequency values and a complete factory revision sequence were not established, so the archive does not invent them.
 
-## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+An LED clipping component is explicitly referenced in the existing evidence packet. No universal semiconductor BOM is asserted.
 
-## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
-- **Exact transistor/device:** Unknown.
+## Historical relationship
+Vatra is a named signature product rather than a generic TS-style overdrive entry. The archive therefore retains the full Vatra identity and its signature association rather than merging it into a Tube Screamer family.
 
-## Diode
-- Documented terms in the verified sources: LED.
-- The archive records only the component information explicitly present in these sources.
-
-## Sound
-Drunk Beaver Pedals Vatra | Drunk Beaver Pedals Skip to main content Log In Light mode Sound effects EN English Polski Drunk Beaver EN English Polski $ International (USD) European Union (EUR) Poland (PLN) Menu Pedals Dirt Overdrive Vatra Vatra Vlad Yarun of Karna signature TS-808 with MOSFET mod 150 $ Add to cart Only 1 left in stock.
-Description Warm your tone with the Vatra , the signature overdrive designed for Vlad Yarun of the Ukrainian Hutsul Metal pioneers, Karna .
-At its core, this pedal is a heavily cultivated take on the legendary Ibanez TS-808 , specifically tuned to tighten up high-gain amplifiers and deliver the percussive attack.
-
-## Sources checked
-1. Drunk Beaver Pedals Vatra | Drunk Beaver Pedals: https://drunk-beaver.rocks/products/vatra
-2. Guitar Pedal X - GPX Blog - Drunk Beaver delivers Dual-Voice Vatra Signature High Gain Amp Booster Overdrive for Vlad Yarun, guitarist for Ukrainian &#39;Hutsul Metal&#39; band Karna: https://www.guitarpedalx.com/news/gpx-blog/drunk-beaver-delivers-dual-voice-vatra-signature-high-gain-amp-booster-overdrive-for-vlad-yarun-guitarist-for-ukrainian-hutsul-metal-band-karna
-3. Vatra by Drunk Beaver | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/Drunk-Beaver/Vatra/8333016334/
-4. Vatra — DRUNK BEAVER | Specs, Review, Onde Comprar | Pedalboard Designer: https://pedalboarddesigner.com/pedals/drunk-beaver-vatra
+## Specifications
+- **Model:** Vatra
+- **Type:** Overdrive
+- **Signature artist:** Vlad Yarun / Karna
+- **Core lineage:** Ibanez TS-808
+- **Special voicing:** Buk mode with MOSFET clipping, according to Drunk Beaver's product description
+- **Observed version reference:** V2
+- **Documented diode term:** LED
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive photo:** No verified local photo is currently archived for Vatra.
+- External product photography is not counted as archive-local photo coverage.
 
-## Deep research verification
+## Research evidence
+**Sources checked:**
+1. https://drunk-beaver.rocks/products/vatra — manufacturer product page, identity, signature relationship, TS-808 lineage, and Buk mode description.
+2. https://www.guitarpedalx.com/news/gpx-blog/drunk-beaver-delivers-dual-voice-vatra-signature-high-gain-amp-booster-overdrive-for-vlad-yarun-guitarist-for-ukrainian-hutsul-metal-band-karna — contemporary exact-model coverage.
+3. https://www.rockboard.de/en/pedalPedia/Drunk-Beaver/Vatra/8333016334/ — secondary model reference.
+4. https://pedalboarddesigner.com/pedals/drunk-beaver-vatra — secondary model/specification reference.
 
-This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
-
-### Verified description
-Description Warm your tone with the Vatra , the signature overdrive designed for Vlad Yarun of the Ukrainian Hutsul Metal pioneers, Karna .
-
-### Verified version references
-- The evidence references: V2.
-
-### Verified diode terms
-- LED.
-
-### Verified sound evidence
-Description Warm your tone with the Vatra , the signature overdrive designed for Vlad Yarun of the Ukrainian Hutsul Metal pioneers, Karna .
-At its core, this pedal is a heavily cultivated take on the legendary Ibanez TS-808 , specifically tuned to tighten up high-gain amplifiers and deliver the percussive attack.
-Flip to Buk mode to engage MOSFET clipping, which adds a grittier texture and reintroduces significantly more low-end presence for a massive, full-bodied sound.
-
-### Sources checked in this pass
-1. Drunk Beaver Pedals Vatra | Drunk Beaver Pedals: https://drunk-beaver.rocks/products/vatra
-2. Guitar Pedal X - GPX Blog - Drunk Beaver delivers Dual-Voice Vatra Signature High Gain Amp Booster Overdrive for Vlad Yarun, guitarist for Ukrainian 'Hutsul Metal' band Karna: https://www.guitarpedalx.com/news/gpx-blog/drunk-beaver-delivers-dual-voice-vatra-signature-high-gain-amp-booster-overdrive-for-vlad-yarun-guitarist-for-ukrainian-hutsul-metal-band-karna
-3. Vatra by Drunk Beaver | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/Drunk-Beaver/Vatra/8333016334/
-4. Vatra — DRUNK BEAVER | Specs, Review, Onde Comprar | Pedalboard Designer: https://pedalboarddesigner.com/pedals/drunk-beaver-vatra
+**Research confidence:** High for model identity, signature relationship, TS-808 lineage, and Buk/MOSFET description; moderate for version and component details.
