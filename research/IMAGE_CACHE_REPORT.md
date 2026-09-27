@@ -1,11 +1,11 @@
 # Pedal Image Cache Report
 
-- Cached in this run: **23**
+- Cached in this run: **10**
 - Staged browser photos converted: **0**
-- Local images retained/reorganized: **0**
+- Local images retained/reorganized: **1**
 - Download failures: **1**
-- Remaining tracker photo backlog: **307**
-- Researched, photo pending: **307**
+- Remaining tracker photo backlog: **296**
+- Researched, photo pending: **296**
 - External source images awaiting localization: **0**
 
 ## Storage layout
@@ -16,29 +16,16 @@
 
 ## Newly cached
 
-- Drunk Beaver - Mykolaiv Soft Blooming -> `./assets/pedals/drunk-beaver/mykolaiv-soft-blooming/primary.webp`
-- MXR - Prime Distortion -> `./assets/pedals/mxr/prime-distortion/primary.webp`
-- MXR - Sub Octave Bass Fuzz -> `./assets/pedals/mxr/sub-octave-bass-fuzz/primary.webp`
-- MXR - Sugar Drive -> `./assets/pedals/mxr/sugar-drive/primary.webp`
-- MXR - Super Badass Distortion -> `./assets/pedals/mxr/super-badass-distortion/primary.webp`
-- MXR - Super Badass Dynamic O.D -> `./assets/pedals/mxr/super-badass-dynamic-o-d/primary.webp`
-- MXR - Super Badass Variac Fuzz -> `./assets/pedals/mxr/super-badass-variac-fuzz/primary.webp`
-- MXR - Timmy Overdrive -> `./assets/pedals/mxr/timmy-overdrive/primary.webp`
-- MXR - Tom Morello Power 50 Overdrive -> `./assets/pedals/mxr/tom-morello-power-50-overdrive/primary.webp`
-- MXR - Wylde Audio Overdrive -> `./assets/pedals/mxr/wylde-audio-overdrive/primary.webp`
-- MXR - Yngwie Malmsteen Overdrive -> `./assets/pedals/mxr/yngwie-malmsteen-overdrive/primary.webp`
-- MadeByMike - Ultralord -> `./assets/pedals/madebymike/ultralord/primary.webp`
-- Maxon - SD-9 Sonic Distortion / Overdrive -> `./assets/pedals/maxon/sd-9-sonic-distortion-overdrive/primary.webp`
-- Maxon - SM-9Pro Super Metal Pro+ -> `./assets/pedals/maxon/sm-9pro-super-metal-pro-plus/primary.webp`
-- Maxon - TBO-9 True Tube Booster / Overdrive -> `./assets/pedals/maxon/tbo-9-true-tube-booster-overdrive/primary.webp`
-- Mr. Black - Sour Cream & Onion -> `./assets/pedals/mr-black/sour-cream-onion/primary.webp`
-- NUX Audio / NUX - MX-6 Extreme Distortion -> `./assets/pedals/nux-audio-nux/mx-6-extreme-distortion/primary.webp`
-- NUX Audio / NUX - Scream Bass / Bass Overdrive -> `./assets/pedals/nux-audio-nux/scream-bass-bass-overdrive/primary.webp`
-- NUX Audio / NUX - Steel Singer Drive -> `./assets/pedals/nux-audio-nux/steel-singer-drive/primary.webp`
-- NUX Audio / NUX - ‘6ixty5ive OD -> `./assets/pedals/nux-audio-nux/6ixty5ive-od/primary.webp`
-- OKKO FX - HOLY GRIT -> `./assets/pedals/okko-fx/holy-grit/primary.webp`
-- Outlaw Effects - Deputy Marshall Plexi Distortion -> `./assets/pedals/outlaw-effects/deputy-marshall-plexi-distortion/primary.webp`
-- Pettyjohn Electronics - GOLD MKII -> `./assets/pedals/pettyjohn-electronics/gold-mkii/primary.webp`
+- MXR - Wylde Audio Zakk Sabbath Overdrive -> `./assets/pedals/mxr/wylde-audio-zakk-sabbath-overdrive/primary.webp`
+- Maxon - ST9Pro+ Super Tube Overdrive Pro+ -> `./assets/pedals/maxon/st9pro-super-tube-overdrive-pro/primary.webp`
+- Mythos Pedals - AU-79 Fuzz -> `./assets/pedals/mythos-pedals/au-79-fuzz/primary.webp`
+- Mythos Pedals - Wildwood Mjolnir -> `./assets/pedals/mythos-pedals/wildwood-mjolnir/primary.webp`
+- NUX Audio / NUX - Brownie -> `./assets/pedals/nux-audio-nux/brownie/primary.webp`
+- NUX Audio / NUX - Mini Supa Drive -> `./assets/pedals/nux-audio-nux/mini-supa-drive/primary.webp`
+- NUX Audio / NUX - REC TO Distortion -> `./assets/pedals/nux-audio-nux/rec-to-distortion/primary.webp`
+- NUX Audio / NUX - ’63 Diamond -> `./assets/pedals/nux-audio-nux/63-diamond/primary.webp`
+- Pigtronix - Gamma Drive -> `./assets/pedals/pigtronix/gamma-drive/primary.webp`
+- Pigtronix - PolySaturator -> `./assets/pedals/pigtronix/polysaturator/primary.webp`
 
 ## Still external / failed
 
