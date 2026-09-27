@@ -2,12 +2,12 @@ name: Research evidence crew
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: '47 * * * *'
   push:
     paths:
       - 'research/RESEARCH_AUTONOMY_KICK'
-  # Autonomous evidence collection is resumed with a staggered hourly pass.
+  # Evidence reporting remains available on demand. Canonical deep research is
+  # owned by research-worker-team.yml; keeping this lane manual avoids competing
+  # for runner capacity with the 20-worker deep-research crew.
 
 permissions:
   contents: write
