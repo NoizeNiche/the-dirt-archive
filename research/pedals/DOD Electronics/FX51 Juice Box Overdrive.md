@@ -1,52 +1,61 @@
 # DOD Electronics — FX51 Juice Box Overdrive
 
-## PRP identity
-- **Archive parent:** FX51 Juice Box Overdrive
+## Surface catalog record
 - **Builder:** DOD Electronics
+- **Pedal:** FX51 Juice Box Overdrive
 - **Catalog type:** Overdrive
-- **Identity:** DOD Electronics's FX51 Juice Box Overdrive.
+- **Research level:** Deep
+- **Deep research status:** Verified
+- **Identity basis:** Exact-model DOD documentation and historical FX-series references identify the FX51 as the Juice Box Overdrive.
 
 ## What this pedal is
-DOD Electronics's FX51 Juice Box Overdrive is cataloged as a Overdrive pedal.
+The **DOD FX51 Juice Box Overdrive** is a historical DOD FX-series overdrive designed for adding distortion to a guitar signal, including use into an already-driven amplifier. The preserved DOD manual describes the unit as an overdrive with independent low- and high-frequency controls. [1]
 
-## Colorways
-- No specific factory colorway information was established in the verified evidence packet.
+The four controls are:
+- **Juice:** output level.
+- **Pulp:** low-frequency EQ.
+- **Tang:** high-frequency EQ.
+- **Sweet:** gain / amount of overdrive. [1]
 
-## Versions and factory options
-- No distinct factory revision was established in the verified evidence packet.
+DOD's manual positioning emphasizes using the FX51 to add the desired amount of distortion to a guitar that may already be running into an overdriven amplifier. The independent low/high controls make the frequency balance part of the core product identity rather than an afterthought. [1]
 
-## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+## Historical introduction and lifecycle
+Independent exact-model historical research places the FX51 introduction at **Winter NAMM 1996**. The model was notable as DOD's return to a new overdrive pedal after the earlier Classic Tube period. [2]
 
-## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
-- **Exact transistor/device:** Unknown.
+The same historical source reports that the FX51 was apparently discontinued by **early 1998**, during the transition that also included the DOD 250 reissue and the later FX102 Mystic Blues Overdrive. This is historical product-line research rather than a currently published DOD discontinuation notice. [2]
 
-## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
-- **Exact part:** Unknown.
+The current DigiTech/DOD manual archive still preserves the FX51 manual, which confirms the exact model remains part of the manufacturer's historical documentation set. [3]
 
-## Sound
-The verified evidence packet did not contain enough pedal-specific sonic description to make a more detailed sound summary without adding unsupported interpretation.
+## Operating behavior
+The DOD manual's recommended setup begins by balancing the **Juice** output against the bypassed signal. **Sweet** then sets how much overdrive is added, while **Pulp** and **Tang** adjust the bass and treble portions of the result. [1]
 
-## Sources checked
-1. DOD Electronics FX51 Juice Box Overdrive User Guide: https://manuals.plus/dod-electronics/fx51-juice-box-overdrive-manual
-2. DOD Electronics FX51 Juice Box Overdrive User Guide: https://device.report/manual/17461292
-3. DOD Electronics FX51 Juice Box Overdrive User Guide - Manuals+: https://su.manuals.plus/dod-electronics/fx51-juice-box-overdrive-manual
-4. DOD Electronics FX51 Juice Box Overdrive User Guide - Manuals+: https://fr.manuals.plus/dod-electronics/fx51-juice-box-overdrive-manual
+The archive does not translate DOD's marketing language into an objective circuit claim. “Overdrive” remains the product identity, and the control names are preserved because they are part of the historical interface.
+
+## Circuit evidence boundary
+The exact-model manual sources reviewed here establish the control architecture and intended operation but do not provide a complete production schematic/BOM for every FX51 unit.
+
+No exact transistor, clipping-diode, or op-amp inventory is asserted without model-specific hardware evidence.
+
+## Related models
+The FX51 belongs to DOD's historically documented FX-series overdrive family alongside models such as the FX50-B, FX91, FX100/101, and FX102. The archive keeps those models as separate catalog identities.
+
+## Specifications
+- **Model:** FX51 Juice Box Overdrive
+- **Type:** Overdrive
+- **Controls:** Juice, Pulp, Tang, Sweet
+- **Power:** 9V battery / DOD external adapter operation documented in the manual
+- **Historical introduction:** Winter NAMM 1996
+- **Reported production end:** early 1998, according to secondary historical research
+- **Product family:** DOD FX Series
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive photo:** No verified local photo is currently archived for the FX51.
+- External product imagery remains separate from archive-local photo coverage.
 
-## Deep research verification
+## Research evidence
+**Sources checked:**
+1. https://manuals.plus/dod-electronics/fx51-juice-box-overdrive-manual — exact-model DOD FX51 manual reproduction covering controls and operation.
+2. https://en.audiofanzine.com/guitar-distortion-overdrive-fuzz/dod/FX51-Juice-Box/ — exact-model historical reference, including Winter NAMM 1996 introduction and reported early-1998 discontinuation.
+3. https://digitech.com/product-manuals/ — current DOD/DigiTech manual index preserving the FX51 Juice Box documentation.
 
-This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
-
-### Verified description
-DOD Electronics's FX51 Juice Box Overdrive is cataloged as an overdrive pedal.
-
-### Sources checked in this pass
-1. DOD Electronics FX51 Juice Box Overdrive User Guide: https://manuals.plus/dod-electronics/fx51-juice-box-overdrive-manual
-2. DOD Electronics FX51 Juice Box Overdrive User Guide: https://device.report/manual/17461292
-3. DOD Electronics FX51 Juice Box Overdrive User Guide - Manuals+: https://su.manuals.plus/dod-electronics/fx51-juice-box-overdrive-manual
-4. DOD Electronics FX51 Juice Box Overdrive User Guide - Manuals+: https://fr.manuals.plus/dod-electronics/fx51-juice-box-overdrive-manual
+**Research confidence:** High for model identity, control set, and product purpose; moderate for exact introduction/discontinuation dates because lifecycle details rely on secondary historical catalog research.
