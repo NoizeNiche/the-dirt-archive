@@ -1,59 +1,63 @@
-# BearFoot FX - Honey Beest
+# BearFoot FX — Honey Beest
 
 ## PRP identity
 - **Archive parent:** Honey Beest
 - **Builder:** BearFoot FX
 - **Catalog type:** Overdrive
-- **Identity:** Higher-gain Honey Bee-family overdrive with a Pregain stage and four-knob control set.
+- **Identity:** Higher-gain Honey Bee-family overdrive built around an added upper-mid/treble Pregain booster, with Volume, Drive, Pregain and Nature controls. [1][2]
 
 ## What this pedal is
-Honey Beest expands the original Honey Bee circuit with a Pregain control and a different gain/EQ arrangement. Effects Database describes the Pregain as an upper-mid/treble-emphasized booster that adds another gain stage and allows the pedal to reach substantially more saturation.
+Effects Database describes Honey Beest as an expanded Honey Bee circuit. Its defining change is the **Pregain** stage, which is not a neutral linear boost: it emphasizes upper mids and treble and lets the player combine two gain stages for additional saturation and bite. [1][2]
 
-## Colorways
-- Multiple limited and hand-painted BearFoot finishes are documented.
-- No complete factory colorway chronology was verified.
+## Controls
+- **VOLUME:** Overall output.
+- **DRIVE:** Main overdrive amount and compression.
+- **PREGAIN:** Upper-mid/treble-emphasized pre-gain booster.
+- **NATURE:** Interactive EQ affecting low-end weight, treble balance and drive behavior. [1][2]
 
-## Versions and factory options
-### Honey Beest
-- Volume
-- Drive
-- Pregain
-- Nature
-- Standard examples are documented at 5-15V operation.
-- A rare early 3-knob version with fixed Pregain is documented.
-
-### Honey Beest Plus
-- A later Plus edition is documented as a dual-channel variant with independent boost controls.
-- It is not treated as the same catalog model as the base Honey Beest.
-
-## Version changes
-The family includes a rare early 3-knob configuration, the standard four-knob Honey Beest, and a later Honey Beest Plus. These are preserved as documented versions rather than collapsing the controls into one universal specification.
+## Circuit lineage
+- **Primary lineage:** Honey Bee Overdrive.
+- Expanded Honey Bee architecture with a Pregain booster.
+- BearFoot's documentation treats the Beest as a distinct higher-gain model rather than a simple cosmetic revision. [1]
 
 ## Transistor
-- **Technology:** JFET-based/field-effect gain stages are indicated by independent trace documentation.
-- **Exact factory transistor part numbers:** Not treated as confirmed from the trace because it is not an official factory parts list.
+- The available trace discussion indicates field-effect gain stages, but this is not an official factory BOM.
+- **Exact production transistor part numbers:** Not publicly established.
 
-## Diode
-- **Exact clipping/protection arrangement:** Not publicly documented in factory sources.
+## Diode / clipping
+- Exact clipping/protection device and part number are not publicly documented.
+
+## Power
+- **5–15V DC** is documented for standard Honey Beest production. [1]
+- Variable supply voltage is part of the design's headroom/response behavior.
+
+## Version history
+- Rare early **3-knob** version with fixed Pregain.
+- Standard **4-knob** Honey Beest.
+- Later **Honey Beest Plus** as a separate dual-channel product. [1][3]
+- Limited finishes and hand-painted examples are cosmetic unless an electronic difference is documented.
 
 ## Sound
-Honey Beest is the higher-gain member of the Honey Bee family, moving from low-gain amp breakup into thick, compressed overdrive as Drive and Pregain rise. The Nature/Pregain interaction changes both frequency balance and saturation, giving the pedal a broad range from warm roots-style drive to much more forceful rock tones. citeturn426330search0turn703235search6
+Honey Beest covers the original Honey Bee's low-gain warmth and pushes further into saturated overdrive. The Pregain control emphasizes upper mids/treble and adds another gain stage, while Nature and Pregain interact to control bass weight, treble and saturation. Effects Database notes that fully engaging Pregain and turning Nature toward the bass-heavy side can produce a much bigger, full-range overdrive character. [1][2]
+
+## Research confidence
+- **Identity:** High
+- **Honey Bee lineage:** High
+- **Pregain architecture:** High
+- **3-/4-knob evolution:** High
+- **5–15V operation:** High
+- **Exact transistor:** Unknown
+- **Exact diode:** Unknown
+
+## Deep research verification
+Effects Database's exact Honey Beest record, its detailed user review and an exact Reverb product page were cross-checked. Together they establish the four-control layout, Pregain function, Honey Bee lineage, rare three-knob precursor, 5–15V range and separate Plus model. [1][2][3]
 
 ## Sources checked
-1. Effects Database, Honey Beest: https://www.effectsdatabase.com/model/bearfoot/honeybeest
-2. Effects Database review: https://www.effectsdatabase.com/reviews/bearfoot/honeybeest
-3. Effects Layouts trace discussion: https://effectslayouts.blogspot.com/2018/11/bearfoot-fx-honey-beest.html
+1. Effects Database — BearFoot Honey Beest: https://www.effectsdatabase.com/model/bearfoot/honeybeest
+2. Effects Database — Honey Beest review: https://www.effectsdatabase.com/reviews/bearfoot/honeybeest
+3. Reverb — Bearfoot FX Honey Beest OD: https://reverb.com/item/1504674-bearfoot-fx-honey-beest-od-free-shipping
+4. Effects Layouts — BearFoot Honey Beest trace discussion: https://effectslayouts.blogspot.com/2018/11/bearfoot-fx-honey-beest.html
 
 ## Photo
 - **Archive status:** **No Photo Archived**
-- Exact-model imagery was confirmed, but the available image source was not promoted to the archive's stable direct-asset standard during this pass.
-
-## Deep research verification
-
-This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
-
-### Verified description
-BearFoot FX's Honey Beest is cataloged as an overdrive pedal.
-
-### Sources checked in this pass
-1. Used Bearfoot FX Honey Beest Plus Serial Number 1 with Box — Truetone Music: https://www.truetonemusic.com/products/used-bearfoot-fx-honey-beest-plus-serial-number-1-with-box
+- Exact-model imagery is known, but the current archive does not retain a stable local asset.
