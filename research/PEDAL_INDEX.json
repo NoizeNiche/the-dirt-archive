@@ -1,6 +1,6 @@
 {
   "version": "data-20260924-prp1-cbs-arbiter-fuzz-phazer-direct-lead",
-  "count": 4181,
+  "count": 4194,
   "pedals": [
     {
       "company": "1981 Inventions",
@@ -2564,6 +2564,19 @@
       "image_source_page": "https://www.alexanderpedals.com/discontinued-pedals",
       "research_level": "deep",
       "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "Alexander Pedals",
+      "pedal": "Riff Instant Tone Sanitizer",
+      "types": [
+        "Distortion",
+        "Overdrive"
+      ],
+      "image": null,
+      "source_page": "https://www.alexanderpedals.com/shop",
+      "research_record": "./research/pedals/Alexander Pedals/Riff Instant Tone Sanitizer.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
     },
     {
       "company": "Alien Amplification",
@@ -28125,6 +28138,62 @@
       "deep_research_status": "PENDING_REVIEW"
     },
     {
+      "company": "Crazy Tube Circuits",
+      "pedal": "Killer V",
+      "types": [
+        "Distortion",
+        "Fuzz",
+        "Overdrive"
+      ],
+      "image": null,
+      "source_page": "https://crazytubecircuits.com/store/overdrive-distortion-fuzz",
+      "research_record": "./research/pedals/Crazy Tube Circuits/Killer V.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Crazy Tube Circuits",
+      "pedal": "White Whale",
+      "types": [
+        "Distortion",
+        "Fuzz",
+        "Overdrive"
+      ],
+      "image": null,
+      "source_page": "https://crazytubecircuits.com/store/overdrive-distortion-fuzz",
+      "research_record": "./research/pedals/Crazy Tube Circuits/White Whale.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Crazy Tube Circuits",
+      "pedal": "White Whale v2",
+      "types": [
+        "Distortion",
+        "Fuzz",
+        "Overdrive"
+      ],
+      "image": null,
+      "source_page": "https://crazytubecircuits.com/store/overdrive-distortion-fuzz",
+      "research_record": "./research/pedals/Crazy Tube Circuits/White Whale v2.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Crazy Tube Circuits",
+      "pedal": "Sidekick",
+      "types": [
+        "Distortion",
+        "Fuzz",
+        "Overdrive"
+      ],
+      "image": null,
+      "source_page": "https://crazytubecircuits.com/store/overdrive-distortion-fuzz",
+      "research_record": "./research/pedals/Crazy Tube Circuits/Sidekick.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
       "company": "Crazybox Pedals",
       "pedal": "The Box - Massive High Gain Distortion",
       "types": [
@@ -38697,6 +38766,19 @@
       "deep_research_status": "VERIFIED"
     },
     {
+      "company": "Jackson Audio",
+      "pedal": "1484 - Twin Twelve Pedal",
+      "types": [
+        "Overdrive",
+        "Distortion"
+      ],
+      "image": null,
+      "source_page": "https://jackson.audio/collections/pedals",
+      "research_record": "./research/pedals/Jackson Audio/1484 - Twin Twelve Pedal.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
       "company": "JAM Pedals",
       "pedal": "Black Fuzz Phrase LTD",
       "types": [
@@ -47235,6 +47317,18 @@
       "research_record": "./research/pedals/Old Blood Noise Endeavors/Pardner.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "Old Blood Noise Endeavors",
+      "pedal": "Haunt Fuzz w/ Clickless Switching",
+      "types": [
+        "Fuzz"
+      ],
+      "image": null,
+      "source_page": "https://www.oldbloodnoise.com/",
+      "research_record": "./research/pedals/Old Blood Noise Endeavors/Haunt Fuzz w - Clickless Switching.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
     },
     {
       "company": "Orange Amplification",
@@ -56429,6 +56523,80 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/dinosaural",
       "research_record": "./research/pedals/Dinosaural/Tube Bender.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Dawner Prince Electronics",
+      "pedal": "DIKTATOR MKII",
+      "types": [
+        "Overdrive",
+        "Distortion"
+      ],
+      "image": null,
+      "source_page": "https://dawnerprince.com/products/diktator",
+      "research_record": "./research/pedals/Dawner Prince Electronics/DIKTATOR MKII.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Dawner Prince Electronics",
+      "pedal": "RED ROX",
+      "types": [
+        "Distortion"
+      ],
+      "image": null,
+      "source_page": "https://dawnerprince.com/",
+      "research_record": "./research/pedals/Dawner Prince Electronics/RED ROX.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Dawner Prince Electronics",
+      "pedal": "DIKTATOR",
+      "types": [
+        "Overdrive",
+        "Distortion"
+      ],
+      "image": null,
+      "source_page": "https://dawnerprince.com/products/diktator",
+      "research_record": "./research/pedals/Dawner Prince Electronics/DIKTATOR.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Land Devices",
+      "pedal": "HP-2",
+      "types": [
+        "Fuzz"
+      ],
+      "image": null,
+      "source_page": "https://landdevices.com/collections/catalog",
+      "research_record": "./research/pedals/Land Devices/HP-2.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Land Devices",
+      "pedal": "Hunter",
+      "types": [
+        "Distortion"
+      ],
+      "image": null,
+      "source_page": "https://landdevices.com/collections/catalog",
+      "research_record": "./research/pedals/Land Devices/Hunter.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Land Devices",
+      "pedal": "Moonbow",
+      "types": [
+        "Overdrive"
+      ],
+      "image": null,
+      "source_page": "https://landdevices.com/collections/catalog",
+      "research_record": "./research/pedals/Land Devices/Moonbow.md",
       "research_level": "surface",
       "deep_research_status": "PENDING"
     }
