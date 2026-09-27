@@ -3,14 +3,21 @@
 
 The active production phase is **Catalog Research Phase**. PRP1 is retained only as a legacy publication/closeout mechanism.
 
-Live catalog: **4242 total / 4242 surface-ready / 3874 deep-researched / 3743 research-linked / 3351 pictured / 3351 complete / 0 surface-missing / 368 deep-research-pending / 392 researched-photo-pending**.
+Live catalog: **4241 total / 4241 surface-ready / 3874 deep-researched / 3742 legacy-PRP-tracker-linked / 3361 pictured / 3117 deep-researched-and-pictured / 0 surface-missing / 367 deep-research-pending / 757 deep-researched-photo-pending**.
+
+The canonical catalog contains a research record for all 4241 entries. The 3742 tracker-linked figure is the remaining legacy PRP tracker population, not the size of the full research corpus.
+
+Recent research upgrades include Captain FX Crown Jr., Coffin Gear / Coffin Case Batula Fuzz, Critically Overdriven E.O.D., Coleman Angry Dragon mkII, Danelectro Blue Paisley PureDrive, Daredevil Necros, DeadastronautFX Skinwalker, Death By Audio Echo Dream 2, D&M Distortion, Devi Ever Tri-Fuzz / Hyperion 2 / US / BS / OK / The Ion, Dirty Boy Jr. Overdrive, Dr. Scientist Dungeon Crawler / Frazz Dazzler, and Radial Tonebone Hot-British V9.
+
+Catalog hygiene also removed one invalid Dirty Boy placeholder identity, its orphaned image, and its dangling legacy tracker row. The tracker is validated as a subset of the canonical catalog.
+
+The deployment audit was repaired to use the current no-photo fallback element, retain parent history for image regressions, and reject stale tracker identities. A small detail-page accessibility improvement now announces dynamically loaded breadcrumb and research content to assistive technology.
 
 **Next deep-research target:** Death By Audio - Sonic Incinerator.
 
-PRP1 closeout remains separate: 392 researched record(s) still lack an exact local photo.
-The research queue is generated from the canonical catalog and tracker; do not hand-edit the derived queue.
-Last refreshed: 2026-09-27T19:47:51.438189+00:00
-<!-- AUTO:RESEARCH_PHASE_END -->
+PRP1 closeout remains separate: **757 deep-researched record(s) still lack an exact local photo**. Photo recovery and research are intentionally tracked as separate gates.
+Last refreshed: 2026-09-27T19:55:41.477Z
+
 
 <!-- AUTO:RESEARCH_PHASE_START -->
 ## Active phase checkpoint
