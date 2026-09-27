@@ -35395,8 +35395,8 @@
       "image": "./assets/pedals/electro-harmonix/pico-triboro-bridge-overdrive-distortion-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Electro-Harmonix/Pico Triboro Bridge Overdrive, Distortion & Fuzz.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Electro-Harmonix",
@@ -42586,8 +42586,8 @@
       "image": "./assets/pedals/lovepedal/zendrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Lovepedal/Zendrive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Lovepedal",
@@ -43381,8 +43381,8 @@
       "image": "./assets/pedals/marshall-amplification/guv-nor-plus-gv-2/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Marshall Amplification/Guv'nor Plus GV-2.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Marshall Amplification",
@@ -43538,8 +43538,8 @@
       "image": "./assets/pedals/mask-audio-electronics/civil-math/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mask Audio Electronics/CIVIL MATH.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Mask Audio Electronics",
@@ -43822,8 +43822,8 @@
       "image": "./assets/pedals/maxon/fuzz-elements-ether-fe10/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Maxon/Fuzz Elements Ether (FE10).md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Maxon",
@@ -44949,8 +44949,8 @@
       "image": "./assets/pedals/menatone/mail-bomb-mini/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Menatone/Mail Bomb Mini.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Menatone",
@@ -44962,8 +44962,8 @@
       "image": "./assets/pedals/menatone/menawatt/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Menatone/MenaWatt.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Menatone",

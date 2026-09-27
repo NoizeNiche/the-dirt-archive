@@ -1,0 +1,33 @@
+{
+  "builder": "Menatone",
+  "pedal": "Mail Bomb Mini",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 3,
+  "sources": [
+    {
+      "url": "https://www.rockboard.de/en/pedalPedia/Menatone/Mail-Bomb-Mini/68981823/",
+      "title": "Mail Bomb Mini by Menatone | RockBoard | PedalPedia",
+      "h1": "Mail Bomb Mini",
+      "excerpt": "Mail Bomb Mini by Menatone | RockBoard | PedalPedia Skip to main content LOG IN EXPLORE Menatone Mail Bomb Mini LOG IN TO SUGGEST IMPROVEMENTS ENVELOPE FILTER Description The Menatone Mail Bomb mini envelope filter is the quackiest, funkiest and easiest to use filter available today. Its simple controls create a wide range of pick attack triggered wah goodness. Peak - sets the upper limit of the wah effect, Depth - sets the lower (idle) frequency, and Attack - adjusts the gain of the filter trigger. Full sized through hole parts are used throughout, no surface mount in here. Media Links Product Page Technical data Width 000.00 mm Depth 000.00 mm Height 000.00 mm Circuit type analog Voltage 9V DC, center negative Current 17mA More pedals from Menatone TREMOLO TREMOLO Menatone Pleasure Trem Mini OVERDRIVE BOOSTER OVERDRIVE BOOSTER Menatone Blue Collar BOOSTER OVERDRIVE BOOSTER OVERDRIVE Menatone Blue Collar Mini Menatone Dumbstruck All Menatone Pedals Products Pedalboards All-In-One Patchbays QuickMount PedalSafe Power Supplies and Power Cables and Connections Accessories Gear Build your own board Board Configurator PedalPedia Pedalboard Gallery QuickMount Finder Services Find a dealer Find a distributor Frequently Asked Questions Contact Current catalog News Community RockBoard Artists Achievements Your Activity Overview \u00a92026 Warwick GmbH & Co. Music Equipment KG GTC | Imprint | Privacy policy | Accessibility | Cookie Settings",
+      "host": "www.rockboard.de",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://www.menatone.com/mail-bomb-mini",
+      "title": "Mail Bomb Mini | menatone",
+      "h1": "PEDALS",
+      "excerpt": "--> Mail Bomb Mini | menatone top of page THE FINEST HANDMADE EFFECTS SINCE 1996 PEDALS HOME MOJO Red Snapper Mojo PTP Blue Collar Mojo PTP Top Boost in a Can Mojo The Law Bender Deluxe Redneck vs. Sputnik PTP/DELUXE Red Snapper 4 Knob PTP Blue Collar PTP Das Boost PTP The Howie Deluxe None More Black Deluxe STANDARD The King. Top Boost in a Can Wreck'T Fish Factory MenaWatt PiG The Dirty Blonde MINI Red Snapper Mini Red Snapper 4 knob Mini Blue Collar Mini JAC Compressor Mini Thundering Revival Mini The Law Mini Hindenburg Mini Mail Bomb Mini Pleasure Trem Mini Ms. Foxy Brown Mini PIPES IN STOCK CONTACT POLICIES DEALERS More Use tab to navigate through the menu items. Mail Bomb Mini $159 Add to Cart The Menatone Mail Bomb mini envelope filter is the quackiest, funkiest and easiest to use filter available today.  Its simple controls create a wide range of pick attack triggered wah goodness.  Peak - sets the upper limit of the wah effect, Depth - sets the lower (idle) frequency, and Attack - adjusts the gain of the filter trigger. Full sized through hole parts are used throughout,  no surface mount in here.  The Mail Bomb mini will be sold direct from Menatone only, which accounts for the amazing price.  Just like every other Menatone pedal,  each one is made by hand, one at a time in the USA Dimensions are 1.5&quot; x 3.66&quot; Power supply must be used,  no battery for the mini. Build time approx. 2-5 weeks. &copy; 2024  MENATONE bottom of page \"use strict\";(self.webpackJsonp__wix_thunderbolt_app=self.webpackJsonp__wix_thunderbolt_app||[]).push([[\"1619\"],{26350(e,t,i){i.r(t),i.d(t,{STATIC_MEDIA_URL:()=>eH,fileType:()=>v,fittingTypes:()=>r,getData:()=>eR,MEDIA_ROOT_URL:()=>ez,sdk:()=>eB,isWEBP:()=>x,alignTypes:()=>c,htmlTag:()=>u,getPlaceholder:()=>eC,getResponsiveImageProps:()=>e$,upscaleMethods:()=>m,getFileExtension:()=>k,populateGlobalFeatureSupport:()=>q});let r={SCALE_TO_FILL:\"fill\",SCALE_TO_FIT:\"fit\",STRETCH:\"stretch\",ORIGINAL_SIZE:\"original_size\",TILE:\"tile\",TILE_HORIZONTAL:\"tile_horizontal\",TILE_VERTICAL:\"tile_vertical\",FIT_AND_TILE:\"fit_and_tile\",LEGACY_STRIP_TILE:\"legacy_strip_tile\",LEGACY_STRIP_TILE_HORIZONTAL:\"legacy_strip_tile_horizontal\",LEGACY_STRIP_TILE_VERTICAL:\"legacy_strip_tile_vertical\",LEGACY_STRIP_SCALE_TO_FILL:\"legacy_strip_fill\",LEGACY_STRIP_SCALE_TO_FIT:\"legacy_strip_fit\",LEGACY_STRIP_FIT_AND_TILE:\"legacy_strip_fit_and_tile\",LEGACY_STRIP_ORIGINAL_SIZE:\"legacy_strip_original_size\",LEGACY_ORIGINAL_SIZE:\"actual_size\",LEGACY_FIT_WIDTH:\"fitWidth\",LEGACY_FIT_HEIGHT:\"fitHeight\",LEGACY_FULL:\"full\",LEGACY_BG_FIT_AND_TILE:\"legacy_tile\",LEGACY_BG_FIT_AND_TILE_HORIZONTAL:\"legacy_tile_horizontal\",LEGACY_BG_FIT_AND_TILE_VERTICAL:\"legacy_tile_vertical\",LEGACY_BG_NORMAL:\"legacy_normal\"},n=\"fill\",a=\"fill_focal\",o=\"crop\",s=\"legacy_crop\",l=\"legacy_fill\",c={CENTER:\"center\",TOP:\"top\",TOP_LEFT:\"top_left\",TOP_RIGHT:\"top_right\",BOTTOM:\"bottom\",BOTTOM_LEFT:\"bottom_left\",BOTTOM_RIGHT:\"bottom_right\",LEFT:\"left\",RIGHT:\"right\"},h={[c.CENTER]:{x:.5,y:.5},[c.TOP_LEFT]:{x:0,y:0},[c.TOP_RIGHT]:{x:1,y:0},[c.TOP]:{x:.5,y:0},[c.BOTTOM_LEFT]:{x:0,y:1},[c.BOTTOM_RIGHT]:{x:1,y:1},[c.BOTTOM]:{x:.5,y:1},[c.RIGHT]:{x:1,y:.5},[c.LEFT]:{x:0,y:.5}},d={center:\"c\",top:\"t\",top_left:\"tl\",top_right:\"tr\",bottom:\"b\",bottom_left:\"bl\",bottom_right:\"br\",left:\"l\",right:\"r\"},u={BG:\"bg\",IMG:\"img\",SVG:\"svg\"},m={AUTO:\"auto\",CLASSIC:\"classic\",SUPER:\"super\"},g={radius:\"0.66\",amount:\"1.00\",threshold:\"0.01\"},p={uri:\"\",css:{img:{},container:{}},attr:{img:{},container:{}},transformed:!1},f=[1.5,2,4],_={HIGH:{size:196e4,quality:90,maxUpscale:1},MEDIUM:{size:36e4,quality:85,maxUpscale:1},LOW:{size:16e4,quality:80,maxUpscale:1.2},TINY:{size:0,quality:80,maxUpscale:1.4}},b=\"HIGH\",T=\"MEDIUM\",I=\"contrast\",E=\"brightness\",w=\"saturation\",L=\"blur\",v={JPG:\"jpg\",JPEG:\"jpeg\",JPE:\"jpe\",PNG:\"png\",WEBP:\"webp\",WIX_ICO_MP:\"wix_ico_mp\",WIX_MP:\"wix_mp\",GIF:\"gif\",SVG:\"svg\",AVIF:\"avif\",UNRECOGNIZED:\"unrecognized\"};function A(e,...t){return function(...i){let r=i[i.length-1]||{},n=[e[0]]",
+      "host": "www.menatone.com",
+      "source_kind": "manufacturer"
+    },
+    {
+      "url": "https://reverb.com/item/99028920-menatone-mail-bomb-mini-envelope-filter-2026-guitar-effect-pedal",
+      "title": "Menatone Mail Bomb Mini Envelope Filter 2026 Guitar Effect Pedal - Reverb",
+      "h1": "",
+      "excerpt": "",
+      "host": "reverb.com",
+      "source_kind": "reverb"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}
