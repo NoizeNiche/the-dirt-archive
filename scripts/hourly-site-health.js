@@ -105,11 +105,13 @@ function checkDataIntegrity() {
   if (cKeys.size !== pedals.length) throw new Error('Duplicate Builder + Pedal identity in PEDAL_INDEX.json');
   const mKeys=new Set(manifest.map(x=>`${x.builder}\u0000${x.pedal}`));
   if (mKeys.size !== manifest.length) throw new Error('Duplicate Builder + Pedal identity in PEDAL_IMAGES.json');
-  if (tracker.size !== pedals.length) throw new Error(`Tracker row count mismatch: ${tracker.size} vs ${pedals.length}`);
-  for (const p of pedals) {
-    const k=key(p);
-    if (!tracker.has(k)) throw new Error(`Tracker missing catalog identity: ${p.company} / ${p.pedal}`);
-    const row=tracker.get(k);
+  // PRP_TRACKER.csv is the legacy PRP publication subset, not a row-for-row
+  // mirror of the full catalog. Validate every tracker row against the catalog
+  // and ensure it never grows beyond the canonical catalog population.
+  if (tracker.size > pedals.length) throw new Error(`Tracker row count exceeds catalog: ${tracker.size} vs ${pedals.length}`);
+  for (const [k,row] of tracker) {
+    const p=pedals.find(x=>key(x)===k);
+    if (!p) throw new Error(`Tracker contains unknown catalog identity: ${row.Builder} / ${row.Pedal}`);
     const info=!!p.research_record, picture=hasArchivedImage(p.image), complete=info&&picture;
     if ((row['Pedal Info']==='DONE')!==info) throw new Error(`Tracker Pedal Info mismatch: ${p.company} / ${p.pedal}`);
     if ((row.Picture==='DONE')!==picture) throw new Error(`Tracker Picture mismatch: ${p.company} / ${p.pedal}`);
