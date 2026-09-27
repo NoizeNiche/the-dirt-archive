@@ -1,23 +1,43 @@
 # Menatone — None More Black Deluxe
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** None More Black Deluxe
 - **Builder:** Menatone
-- **Pedal:** None More Black Deluxe
 - **Catalog type:** Distortion / Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Menatone's None More Black Deluxe.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **None More Black Deluxe** by **Menatone** as a **Distortion / Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+NONE MORE BLACK Top of Page None More Black Deluxe The None More Black is an ultra high gain distortion that takes concepts from all of my favorite amps from the 80s to the present.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- menatone top of page THE FINEST HANDMADE EFFECTS SINCE 1996 PEDALS HOME MOJO Red Snapper Mojo PTP Blue Collar Mojo PTP Top Boost in a Can Mojo The Law Bender Deluxe Redneck vs.
+- Sputnik PTP/DELUXE Red Snapper 4 Knob PTP Blue Collar PTP Das Boost PTP The Howie Deluxe None More Black Deluxe STANDARD The King.
+- Top Boost in a Can Wreck'T Fish Factory MenaWatt PiG The Dirty Blonde MINI Red Snapper Mini Red Snapper 4 knob Mini Blue Collar Mini JAC Compressor Mini Thundering Revival Mini The Law Mini Hindenburg Mini Mail Bomb Mini Pleasure Trem Mini Ms.
+
+## Versions and factory options
+- The verified evidence references: v4.
+- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+menatone top of page THE FINEST HANDMADE EFFECTS SINCE 1996 PEDALS HOME MOJO Red Snapper Mojo PTP Blue Collar Mojo PTP Top Boost in a Can Mojo The Law Bender Deluxe Redneck vs.
+Sputnik PTP/DELUXE Red Snapper 4 Knob PTP Blue Collar PTP Das Boost PTP The Howie Deluxe None More Black Deluxe STANDARD The King.
+Top Boost in a Can Wreck'T Fish Factory MenaWatt PiG The Dirty Blonde MINI Red Snapper Mini Red Snapper 4 knob Mini Blue Collar Mini JAC Compressor Mini Thundering Revival Mini The Law Mini Hindenburg Mini Mail Bomb Mini Pleasure Trem Mini Ms.
+
+## Sources checked
+1. None More Black Deluxe | menatone: https://www.menatone.com/none-more-black-deluxe
+2. Menatone None More Black Deluxe Overdrive Distortion Guitar Effect Ped — Truetone Music: https://www.truetonemusic.com/products/menatone-none-more-black-overdrive-distortion-guitar-effect-pedal
+3. Menatone None More Black Deluxe Headphones recommended www.menatone.com menatone #menatonecustomshop #menatonefishfactory #menatoneeffects #menatonepedals #guitar #guitareffectspedals #pedals #fxpedals #gearpassion #gearjunkie #gearporn #fenderguitar #gibsonlespaul #handmade #madeintheusa #knowyourtone #fuzz #overdrive #distortion #pedalporn #pedalpix | Menatone: https://www.facebook.com/100063669278460/videos/menatone-none-more-black-deluxe-headphones-recommendedwwwmenatonecom-menatonemen/2112726892428171/
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
