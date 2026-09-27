@@ -23,3 +23,5 @@ The Twosome Dual Fuzz combines the Fix'd Fuzz and Musket Fuzz in one enclosure. 
 
 ## Archive photo
 - **Archive status:** **No Photo Archived**
+## Deep research verification
+The exact Twosome record documents the combination of **Fix'd Fuzz** and **Musket Fuzz** in one enclosure. The original configuration used the two circuits in an A/B arrangement; later production externalized Fix'd fuzz controls and retained the Musket **Pre, Focus and Mids** controls. The Fix'd section can move from boost through multiple fuzz stages, while Musket supplies a dense Muff-family fuzz voice. Documented production versions use 9V DC without battery.
