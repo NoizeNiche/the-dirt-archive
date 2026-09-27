@@ -4,29 +4,42 @@
 - **Archive parent:** Greeny
 - **Builder:** Chicago Stompworks
 - **Catalog type:** Fuzz
-- **Identity:** Chicago Stompworks Greeny, an op-amp implementation of a Fuzz Face emulator based on a Russian designer's open design.
+- **Identity:** Op-amp Fuzz Face emulator based on a Russian open design, intentionally using an IC rather than the original Fuzz Face's discrete transistor pair. [1]
 
-## What this pedal is
-Chicago Stompworks describes Greeny as an op-amp Fuzz Face emulator built from an Attribution-ShareAlike licensed design published for PCBWay. [1]
+## Circuit lineage
+- **Primary reference:** Fuzz Face.
+- **Implementation:** op-amp emulator based on a Russian designer's published open design. [1]
 
-## Colorways
-- The builder documents an updated **Matte Green Sand** finish for the branded Greeny. [1]
-- A barebox version also exists.
+## Active device
+- **Op-amp-based** implementation.
+- Exact IC part number is not documented by Chicago Stompworks.
 
-## Versions and factory options
-The defining feature is the **op-amp Fuzz Face emulator** architecture rather than the original discrete-transistor Fuzz Face circuit. The builder offers true bypass, hand wiring, and standard 9V center-negative power/battery operation. [1]
+## Controls / construction
+- Exact printed controls are not fully preserved in the current catalog.
+- **True bypass**
+- Hand-wired production.
+- Standard **9V center-negative** or battery operation. [1]
 
-## Version changes
-The checked catalog documents a Matte Green Sand updated finish but does not establish a numbered circuit revision.
-
-## Transistor
-The model is specifically an **op-amp emulator**, so no discrete Fuzz Face transistor complement is assigned.
-
-## Diode
-No exact-model diode specification was established.
+## Version history
+- Matte Green Sand is a documented finish update.
+- No numbered electronic revision established. [1]
 
 ## Sound
-The Greeny is designed to recreate Fuzz Face-style response using an op-amp implementation. The archive avoids importing discrete-transistor specifications from the original Fuzz Face because the cataloged Greeny is a different circuit implementation. [1]
+Greeny is intended to reproduce Fuzz Face-style dynamics through an op-amp topology. The archive does not import the transistor pair or bias network from a conventional Fuzz Face because the cataloged implementation deliberately uses a different active-stage architecture. [1]
+
+## Research confidence
+- **Identity:** High
+- **Fuzz Face lineage:** High
+- **Op-amp implementation:** High
+- **True bypass/9V:** High
+- **Exact IC:** Unknown
+- **Exact diode:** Unknown
+
+## Deep research verification
+Chicago Stompworks' own catalog is the primary source and explicitly identifies Greeny as an op-amp Fuzz Face emulator. [1]
 
 ## Sources checked
-1. Chicago Stompworks — main catalog / Greeny: https://www.chicagostompworks.com/
+1. Chicago Stompworks — Greeny: https://www.chicagostompworks.com/
+
+## Photo
+- Exact-model photo status remains handled separately.
