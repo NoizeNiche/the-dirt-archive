@@ -36308,8 +36308,8 @@
       "image": "./assets/pedals/jptr-fx/bleach-seattle-guitar-destroyer/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/JPTR FX/Bleach - Seattle Guitar Destroyer.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "JPTR FX",
