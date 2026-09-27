@@ -11794,7 +11794,7 @@
   {
     "builder": "Companion",
     "pedal": "FY-6 Super Fuzz",
-    "image": null,
+    "image": "./assets/pedals/companion/fy-6-super-fuzz/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Companion/FY-6 Super Fuzz.md"
   },
@@ -13719,7 +13719,7 @@
   {
     "builder": "Custom Guitar Innovations",
     "pedal": "2 In 1 Fuzz Pedal",
-    "image": null,
+    "image": "./assets/pedals/custom-guitar-innovations/2-in-1-fuzz-pedal/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Custom Guitar Innovations/2 In 1 Fuzz Pedal.md"
   },
@@ -15749,14 +15749,14 @@
   {
     "builder": "EarthQuaker Devices",
     "pedal": "White Light Legacy Reissue — Overdrive",
-    "image": null,
+    "image": "./assets/pedals/earthquaker-devices/white-light-legacy-reissue-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/EarthQuaker Devices/White Light Legacy Reissue — Overdrive.md"
   },
   {
     "builder": "EarthQuaker Devices",
     "pedal": "Zoar",
-    "image": null,
+    "image": "./assets/pedals/earthquaker-devices/zoar/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/EarthQuaker Devices/Zoar.md"
   },
@@ -19235,7 +19235,7 @@
   {
     "builder": "Leqtique",
     "pedal": "Maestro Antique Revised EVR",
-    "image": null,
+    "image": "./assets/pedals/leqtique/maestro-antique-revised-evr/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Leqtique/Maestro Antique Revised EVR.md"
   },
@@ -19375,7 +19375,7 @@
   {
     "builder": "Lichtlaerm Audio",
     "pedal": "Total Distortion Worship MKII",
-    "image": null,
+    "image": "./assets/pedals/lichtlaerm-audio/total-distortion-worship-mkii/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Lichtlaerm Audio/Total Distortion Worship MKII.md"
   },
@@ -20075,7 +20075,7 @@
   {
     "builder": "Maxon",
     "pedal": "Fuzz Elements Wind",
-    "image": null,
+    "image": "./assets/pedals/maxon/fuzz-elements-wind/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Maxon/Fuzz Elements Wind.md"
   },
@@ -20740,7 +20740,7 @@
   {
     "builder": "Mid-Fi Electronics",
     "pedal": "Clari(not) Fuzz",
-    "image": null,
+    "image": "./assets/pedals/mid-fi-electronics/clari-not-fuzz/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Mid-Fi Electronics/Clari(not) Fuzz.md"
   },
@@ -21713,7 +21713,7 @@
   {
     "builder": "Mythos Pedals",
     "pedal": "Erlking Overdrive",
-    "image": null,
+    "image": "./assets/pedals/mythos-pedals/erlking-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Mythos Pedals/Erlking Overdrive.md"
   },
@@ -22056,7 +22056,7 @@
   {
     "builder": "OKKO FX",
     "pedal": "DIRTY DIABLO",
-    "image": null,
+    "image": "./assets/pedals/okko-fx/dirty-diablo/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/OKKO FX/DIRTY DIABLO.md"
   },
@@ -22168,14 +22168,14 @@
   {
     "builder": "Orange Amplification",
     "pedal": "Guitar Butler",
-    "image": null,
+    "image": "./assets/pedals/orange-amplification/guitar-butler/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Orange Amplification/Guitar Butler.md"
   },
   {
     "builder": "Orange Amplification",
     "pedal": "none identified",
-    "image": null,
+    "image": "./assets/pedals/orange-amplification/none-identified/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Orange Amplification/none identified.md"
   },
@@ -22196,14 +22196,14 @@
   {
     "builder": "Organic Sounds",
     "pedal": "Organic Drive \"Ares\"",
-    "image": null,
+    "image": "./assets/pedals/organic-sounds/organic-drive-ares/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Organic Sounds/Organic Drive \"Ares\".md"
   },
   {
     "builder": "Organic Sounds",
     "pedal": "Organic Drive \"CHRONOS\"",
-    "image": null,
+    "image": "./assets/pedals/organic-sounds/organic-drive-chronos/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Organic Sounds/Organic Drive \"CHRONOS\".md"
   },
