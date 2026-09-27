@@ -29,3 +29,30 @@ The model is documented as overdrive. A more detailed sonic characterization is 
 
 ## Sources checked
 1. The Dirt Archive Scrape C census: `research/SCRAPE_C_CENSUS.csv`
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+This provides more volume and bite, which transforms the Old Stone into a beastly boost pedal.
+
+### Verified color/finish evidence
+- The middle position of this switch selects two red LEDs as the clipping diodes.
+- Available in two editions: the white “uniform” enclosure, and the limited edish yellow-on-green (see pics)!
+- The middle position of this switch selects two red LEDs as clipping diodes.
+
+### Verified diode terms
+- silicon diode, LEDs.
+
+### Verified sound evidence
+Old Stone Overdrive – Cleveland Music Co.
+Quantity Quantity ( 0 in cart) Decrease quantity for Old Stone Overdrive Increase quantity for Old Stone Overdrive Sold out Couldn't load pickup availability Refresh Pre-assembled kit: Please allow 5–10 business days for assembly before shipment.
+The Old Stone Overdrive updates and supercharges the notorious green, midrange-humped stomp box that Stevie Ray helped make legendary.
+
+### Sources checked in this pass
+1. Old Stone Overdrive &ndash; Cleveland Music Co.: https://clevelandmusicco.com/products/old-stone-overdrive
+2. Used CLEVELAND MUSIC CO. OLD STONE OVERDRIVE Overdrive Pedal: https://musicgoround.com/locations/north-olmsted-oh/product/S000015292/CLEVELAND-MUSIC-CO-OLD-STONE-OVERDRIVE
+3. Cleveland Music Co Old Stone Overdrive - musicdreamshop.com: https://www.musicdreamshop.com/product/cleveland-music-co-old-stone-overdrive/
+4. Cleveland Music Co Old Stone Overdrive: https://www.guitarriot.com/shop/Pedals/p/Cleveland-Music-Co-Old-Stone-Overdrive.htm
+5. Cleveland Music Co. Old Stone Overdrive - Reverb: https://reverb.com/item/95733856-cleveland-music-co-old-stone-overdrive

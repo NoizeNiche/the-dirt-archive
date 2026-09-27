@@ -1,0 +1,25 @@
+{
+  "builder": "Creepy Fingers Effects",
+  "pedal": "Blacklight Fuzz",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 2,
+  "sources": [
+    {
+      "url": "https://creepyfingerseffects.bigcartel.com/product/blacklight-fuzz",
+      "title": "Blacklight Fuzz | Creepy Fingers Effects",
+      "h1": "Blacklight Fuzz",
+      "excerpt": "Blacklight Fuzz | Creepy Fingers Effects Cart $ 0.00 0 Products Tees Fuzz/Distortion Booster Contact Back to Site Powered by Big Cartel 0 Menu Creepy Fingers Effects Blacklight Fuzz $ 269.00 / Sold Out A new beast is born. Spawned from the unholy union of the Baldwin Burns Buzzaround and Elka Dizzytone. Three transistors cascading into a bacchanalian destruction of your sonic sensibilities. Cosmic sustain. Oceans of fuzz texture. Blend stinging treble or fat low end with the timbre control. Combine the balance knob to find your preferred volume and tone. Sustain knob goes from a subtle crunch to all out annihilation. While based on classics the Blacklight has all the modern updates. True bypass switching, LED indication (UV colored of course), and can be powered by common negative tip polarity 9v power supplies. Silicon transistors have been adapted for use in the first two positions. This ensures lower noise and a more predictable response in different temperatures. An NOS SFT type germanium is used in the third position. They are hand selected along with the germanium diode to provide rich sustain and low noise while giving good clean up with the guitar volume depending on the sustain knob position. Wima film capacitors, styroflex, and Nichicon audio grade electros are featured in the signal path. Like its namesake, the Blacklight is intended to provide a psychedelic experience. The old school hand printed silkscreen design uses a trio of ultra violet spectrum reactive paint. Get it in a pitch black room and shine the included UV keychain flashlight on it to embark on your fuzz fueled trip!",
+      "host": "creepyfingerseffects.bigcartel.com",
+      "source_kind": "manufacturer"
+    },
+    {
+      "url": "https://creepyfingersffects.bigcartel.com/product/blacklight-fuzz",
+      "title": "catalog/override source",
+      "h1": "",
+      "excerpt": "",
+      "host": "creepyfingersffects.bigcartel.com",
+      "source_kind": "catalog_verified"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}

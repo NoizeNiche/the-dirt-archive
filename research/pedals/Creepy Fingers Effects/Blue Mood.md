@@ -51,3 +51,25 @@ Blue Mood is voiced around the aggressive, sustaining and sputtering character a
 ## Photo
 - **Archive status:** No local photo archived in this research pass.
 - **Exact-model visual references checked:** Effects Database and the builder's Blue Mood product page.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Creepy Fingers Effects's Blue Mood is cataloged as a fuzz pedal.
+
+### Verified color/finish evidence
+- Creepy Fingers Effects Cart $ 0.00 0 Products Tees Fuzz/Distortion Booster Contact Back to Site Powered by Big Cartel 0 Menu Creepy Fingers Effects Blue Mood $ 269.00 / Sold Out The Blue Mood fuzz.
+
+### Verified version references
+- The evidence references: MkII.
+
+### Verified sound evidence
+Creepy Fingers Effects Cart $ 0.00 0 Products Tees Fuzz/Distortion Booster Contact Back to Site Powered by Big Cartel 0 Menu Creepy Fingers Effects Blue Mood $ 269.00 / Sold Out The Blue Mood fuzz.
+Featuring a circuit based on my favorite iteration of the Tone Bender MkII circuit: the Marshall Supafuzz.
+Hayward used a Marshall reverb/fuzz unit to achieve his soaring sputtering psychedelic tone.
+
+### Sources checked in this pass
+1. Blue Mood | Creepy Fingers Effects: https://creepyfingerseffects.bigcartel.com/product/blue-mood
+2. catalog/override source: https://reverb.com/item/59496135-creepy-fingers-blue-mood

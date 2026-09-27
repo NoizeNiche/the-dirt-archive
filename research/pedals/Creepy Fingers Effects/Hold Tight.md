@@ -52,3 +52,20 @@ Hold Tight is designed around the unruly, touch-sensitive character associated w
 ## Photo
 - **Archive status:** No local photo archived in this research pass.
 - **Exact-model visual references checked:** Creepy Fingers product page and exact Hold Tight Reverb listings.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Creepy Fingers Effects's Hold Tight is cataloged as a fuzz pedal.
+
+### Verified version references
+- The evidence references: MkI.
+
+### Verified sound evidence
+Creepy Fingers Effects Cart $ 0.00 0 Products Tees Fuzz/Distortion Booster Contact Back to Site Powered by Big Cartel 0 Menu Creepy Fingers Effects Hold Tight $ 249.00 Add to Cart My version of the Tone Bender MkI.
+
+### Sources checked in this pass
+1. Hold Tight | Creepy Fingers Effects: https://creepyfingerseffects.bigcartel.com/product/hold-tight
+2. catalog/override source: https://reverb.com/item/80544691-creepy-fingers-hold-tight-black-first-run-mki-fuzz-bender

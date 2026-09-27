@@ -36,3 +36,23 @@ Creepy Fingers describes Brummie as touch-sensitive dynamic crunch with throaty 
 1. Creepy Fingers Effects - Brummie
 2. Joe's Pedals - Brummie
 3. Creepy Fingers Effects - Fuzz/Distortion catalog
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Creepy Fingers Effects's Brummie is cataloged as a fuzz pedal.
+
+### Verified color/finish evidence
+- Black Sabbath, Judas Priest, Thin Lizzy, Scorpions, Jethro Tull, NWOBHM?
+- Brummie Similar Articles Lightspeed Organic Overdrive (WTB) $309.60 Lightspeed Organic Overdrive (Snow White) $309.60 Dungeon Crawler $309.60 View more joes-pedals-logo Created with Sketch.
+
+### Verified sound evidence
+An attempt to capture the sound of a germanium booster slamming the input of a fully cranked tube amplifier.
+A blend of touch sensitive dynamic crunch, throaty British midrange, and smooth treble.
+Brummie Similar Articles Lightspeed Organic Overdrive (WTB) $309.60 Lightspeed Organic Overdrive (Snow White) $309.60 Dungeon Crawler $309.60 View more joes-pedals-logo Created with Sketch.
+
+### Sources checked in this pass
+1. catalog/override source: https://creepyfingersffects.bigcartel.com/product/brummie
+2. Brummie &ndash; Joe's Pedals: https://joespedals.com/products/brummie

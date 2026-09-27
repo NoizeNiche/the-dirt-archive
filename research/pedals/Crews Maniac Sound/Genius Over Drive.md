@@ -51,3 +51,14 @@ G.O.D. is designed around thick, amplifier-like drive with two independently set
 ## Photo
 - **Archive status:** No local photo archived in this research pass.
 - **Exact-model visual references checked:** Reverb G.O.D listing and Crews-related product references.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Crews Maniac Sound's Genius Over Drive is cataloged as an overdrive pedal.
+
+### Sources checked in this pass
+1. catalog/override source: https://reverb.com/item/82434085-crews-maniac-sound-g-o-d-genius-over-drive
+2. 【楽天市場】こちらの商品は現在ご購入いただけません: https://transition.afl.rakuten.co.jp/items/list?surl=guitarplanet&iurl=crews_god_genius_overdrive&e=b2d890a561021cfc03f86b7346db806d452e1fc4006077f5f9e8b3936df89c9b&scid=af_pc_link_tbl&sc2id=af_101_0_0

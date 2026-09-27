@@ -48,3 +48,24 @@ The builder describes the 2024 variation as having aggressive sustain with less 
 ## Photo
 - **Archive status:** No local photo archived in this research pass.
 - **Exact-model visual references checked:** Creepy Fingers product page and exact Shatterbox Reverb listings.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Creepy Fingers Effects's Shatterbox is cataloged as a fuzz pedal.
+
+### Verified color/finish evidence
+- Also a very rare set of original custom color white Dakaware knobs.
+
+### Verified version references
+- The evidence references: MkI.
+
+### Verified sound evidence
+Creepy Fingers Effects Cart $ 0.00 0 Products Tees Fuzz/Distortion Booster Contact Back to Site Powered by Big Cartel 0 Menu Creepy Fingers Effects Shatterbox $ 319.99 / Sold Out A new color scheme and circuit variation of the Shatterbox!
+A sound that spans the garage rasp of the Maestro Fz-1 and liquid crunch of the MkI Tone Bender.
+
+### Sources checked in this pass
+1. Shatterbox | Creepy Fingers Effects: https://creepyfingerseffects.bigcartel.com/product/shatterbox
+2. catalog/override source: https://reverb.com/item/83291854-creepy-fingers-shatterbox-2024-black

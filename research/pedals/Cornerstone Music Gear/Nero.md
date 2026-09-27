@@ -39,3 +39,23 @@ Nero is a distinct catalog identity from the older Gladio Double Preamp, Gladio 
 1. Cornerstone Music Gear current catalog
 2. Guitar Pedal X - Cornerstone Nero
 3. Thomann - Cornerstone Nero
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Cornerstone Music Gear's Nero is cataloged as a fuzz / overdrive pedal.
+
+### Verified version references
+- The evidence references: MK2.
+
+### Verified transistor/device terms
+- Germanium Fuzz.
+
+### Verified sound evidence
+New duties included the Tanabe Trifecta, Audiostorm Grand Classic and MXP-1, TWA Hot Saké, Krozz Airborn and two Fuzz Face pedals.
+And I still don’t fully understand the lacklustre response to my Patreon launch - many pledged support, while few have honoured those sentiments.
+
+### Sources checked in this pass
+1. Guitar Pedal X - GPX Blog - 2024 April Pedal-Chain Update - Episode IV - Maximum Overload: https://www.guitarpedalx.com/news/gpx-blog/2024-april-pedal-chain-update---episode-iv---maximum-overload

@@ -45,3 +45,16 @@ Taco Fuzz is built around a strong upper-octave voice that becomes especially pr
 ## Photo
 - **Archive status:** No local photo archived in this research pass.
 - **Exact-model visual references checked:** Crews Taco Fuzz product material and exact-model demo.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Crews Maniac Sound's Taco Fuzz is cataloged as a fuzz pedal.
+
+### Verified sound evidence
+Crews maniac sound blog: TACO FUZZ!!
+
+### Sources checked in this pass
+1. Crews maniac sound blog: TACO FUZZ!!: https://crewsmaniacsound.blogspot.com/2010/04/taco-fuzz.html

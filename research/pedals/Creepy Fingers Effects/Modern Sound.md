@@ -51,3 +51,22 @@ Modern Sound provides the bright, scooped and aggressive character associated wi
 ## Photo
 - **Archive status:** No local photo archived in this research pass.
 - **Exact-model visual references checked:** Creepy Fingers product page and the 2024 NOS BC183 Reverb listing.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Creepy Fingers Effects Cart $ 0.00 0 Products Tees Fuzz/Distortion Booster Contact Back to Site Powered by Big Cartel 0 Menu Creepy Fingers Effects Modern Sound $ 229.00 / Sold Out The heat of Summer is upon us.
+
+### Verified diode terms
+- Led.
+
+### Verified sound evidence
+Creepy Fingers Effects Cart $ 0.00 0 Products Tees Fuzz/Distortion Booster Contact Back to Site Powered by Big Cartel 0 Menu Creepy Fingers Effects Modern Sound $ 229.00 / Sold Out The heat of Summer is upon us.
+It only took a couple seasons for Dallas Arbiter to move their Fuzz Faces to greener silicon pastures.
+A scooped midrange showcasing the bright aggressive texture you know and love.
+
+### Sources checked in this pass
+1. Modern Sound | Creepy Fingers Effects: https://creepyfingerseffects.bigcartel.com/product/modern-sound
+2. catalog/override source: https://reverb.com/item/86391288-creepy-fingers-modern-sound-nos-bc183-2024

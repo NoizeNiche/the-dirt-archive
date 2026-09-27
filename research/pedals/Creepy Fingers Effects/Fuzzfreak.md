@@ -49,3 +49,17 @@ Fuzzfreak is intentionally extreme: maximum fuzz, strong gating and a sharp, rip
 ## Photo
 - **Archive status:** No local photo archived in this research pass.
 - **Exact-model visual references checked:** Builder product page and Reverb listing.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Creepy Fingers Effects Cart $ 0.00 0 Products Tees Fuzz/Distortion Booster Contact Back to Site Powered by Big Cartel 0 Menu Creepy Fingers Effects Fuzzfreak $ 269.00 / Sold Out The Fuzzfreak is a collaboration between Creepy Fingers Effects and artist Jesse California.
+
+### Verified sound evidence
+Creepy Fingers Effects Cart $ 0.00 0 Products Tees Fuzz/Distortion Booster Contact Back to Site Powered by Big Cartel 0 Menu Creepy Fingers Effects Fuzzfreak $ 269.00 / Sold Out The Fuzzfreak is a collaboration between Creepy Fingers Effects and artist Jesse California.
+A high gain schmitt trigger fuzz awakens the beast.
+
+### Sources checked in this pass
+1. Fuzzfreak | Creepy Fingers Effects: https://creepyfingerseffects.bigcartel.com/product/fuzzfreak

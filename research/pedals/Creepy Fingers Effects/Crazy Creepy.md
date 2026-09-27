@@ -51,3 +51,21 @@ The Crazy control lets the pedal move from a smoother, richer Fuzz Face-like res
 ## Photo
 - **Archive status:** No local photo archived in this research pass.
 - **Exact-model visual reference checked:** Creepy Fingers Effects product page.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+The Creepy Fingers “Crazy Creepy” is here to make sure you win that bet.
+
+### Verified diode terms
+- led.
+
+### Verified sound evidence
+Creepy Fingers Effects Cart $ 0.00 0 Products Tees Fuzz/Distortion Booster Contact Back to Site Powered by Big Cartel 0 Menu Creepy Fingers Effects Crazy Creepy $ 269.00 / Sold Out Time to get crazy!
+Here’s a fun little fuzz from the land the rising sun.
+Built in the 70’s by Guyatone, the Crazy Face was also known as the “Fuzzie” or “Crazy Tone”.
+
+### Sources checked in this pass
+1. Crazy Creepy | Creepy Fingers Effects: https://creepyfingerseffects.bigcartel.com/product/crazy-creepy

@@ -15336,8 +15336,8 @@
       "image": "",
       "source_page": "https://www.effectsdatabase.com/model/boss/compact/sd1/4a",
       "research_record": "./research/pedals/BOSS/SD-1-4A Super OverDrive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "BOSS",
@@ -24282,8 +24282,8 @@
       "image": "./assets/pedals/cleveland-music-co/old-stone-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Cleveland Music Co./Old Stone Overdrive.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Cleveland Music Co.",
@@ -25191,8 +25191,8 @@
       "image": "./assets/pedals/coldcraft-effects/ramrod-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/ColdCraft Effects/Ramrod Distortion.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "ColdCraft Effects",
@@ -27247,8 +27247,8 @@
       "image": "./assets/pedals/cornerstone-music-gear/centurio/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Cornerstone Music Gear/Centurio.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Cornerstone Music Gear",
@@ -27295,8 +27295,8 @@
       "image": "./assets/pedals/cornerstone-music-gear/imperium-v2/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Cornerstone Music Gear/Imperium V2.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Cornerstone Music Gear",
@@ -27308,8 +27308,8 @@
       "image": "./assets/pedals/cornerstone-music-gear/nero/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Cornerstone Music Gear/Nero.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Cornerstone Music Gear",
@@ -28794,8 +28794,8 @@
       "image": "./assets/pedals/creepy-fingers-effects/blacklight-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Creepy Fingers Effects/Blacklight Fuzz.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Creepy Fingers Effects",
@@ -28806,8 +28806,8 @@
       "image": "./assets/pedals/creepy-fingers-effects/blue-mood/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Creepy Fingers Effects/Blue Mood.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Creepy Fingers Effects",
@@ -28818,8 +28818,8 @@
       "image": "./assets/pedals/creepy-fingers-effects/brummie/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Creepy Fingers Effects/Brummie.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Creepy Fingers Effects",
@@ -28830,8 +28830,8 @@
       "image": "./assets/pedals/creepy-fingers-effects/crazy-creepy/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Creepy Fingers Effects/Crazy Creepy.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Creepy Fingers Effects",
@@ -28854,8 +28854,8 @@
       "image": "./assets/pedals/creepy-fingers-effects/fuzz-nugget/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Creepy Fingers Effects/Fuzz Nugget.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Creepy Fingers Effects",
@@ -28866,8 +28866,8 @@
       "image": "./assets/pedals/creepy-fingers-effects/fuzzfreak/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Creepy Fingers Effects/Fuzzfreak.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Creepy Fingers Effects",
@@ -28892,8 +28892,8 @@
       "image": "./assets/pedals/creepy-fingers-effects/hold-tight/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Creepy Fingers Effects/Hold Tight.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Creepy Fingers Effects",
@@ -28916,8 +28916,8 @@
       "image": "./assets/pedals/creepy-fingers-effects/modern-sound/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Creepy Fingers Effects/Modern Sound.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Creepy Fingers Effects",
@@ -28928,8 +28928,8 @@
       "image": "./assets/pedals/creepy-fingers-effects/shatterbox/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Creepy Fingers Effects/Shatterbox.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Creepy Fingers Effects",
@@ -29024,8 +29024,8 @@
       "image": "./assets/pedals/crews-maniac-sound/genius-over-drive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Crews Maniac Sound/Genius Over Drive.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Crews Maniac Sound",
@@ -29062,8 +29062,8 @@
       "image": "./assets/pedals/crews-maniac-sound/taco-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Crews Maniac Sound/Taco Fuzz.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Crews Maniac Sound",
@@ -29110,8 +29110,8 @@
       "image": "./assets/pedals/crimsontone/nero-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Crimsontone/Nero Overdrive.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Crimsontone",

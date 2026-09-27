@@ -54,3 +54,29 @@ Fuzz Nugget covers thin, raspy 1960s-style fuzz through heavier, lower-end-rich 
 2. Reverb - Fuzz Nugget
 3. Axe... And You Shall Receive - Fuzz Nugget
 4. Creepy Fingers Effects - product catalog
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+The Fuzz Nugget is just that: a tasty little morsel of fuzz wrapped in a big old gold box, Eatin’ Dust and just waiting to be unleashed on the world.
+
+### Verified version references
+- The evidence references: MKII.
+
+### Verified transistor/device terms
+- silicon transistors.
+
+### Verified diode terms
+- LED.
+
+### Verified sound evidence
+The Fuzz Nugget is just that: a tasty little morsel of fuzz wrapped in a big old gold box, Eatin’ Dust and just waiting to be unleashed on the world.
+Well, let the unleashing begin… The Fuzz Nugget began its life as a straight up one-to-one Clone (of the Universe) of the Maestro Fz-1a, using all germanium transistors and running on an actual AA battery.
+This new (ish) version remedies those issues and aims to create a better catch-all 60’s fuzz.
+
+### Sources checked in this pass
+1. Creepy Fingers Effects Fuzz Nugget - Pedal of the Day: https://www.pedal-of-the-day.com/2019/11/23/creepy-fingers-effects-fuzz-nugget/
+2. catalog/override source: https://reverb.com/item/14700211-creepy-fingers-fuzz-nugget
+3. Creepy Fingers Fuzz Nugget | Axe... And You Shall Receive: https://www.axeandyoushallreceive.com/product/creepy-fingers-fuzz-nugget

@@ -1,0 +1,25 @@
+{
+  "builder": "Creepy Fingers Effects",
+  "pedal": "Hold Tight",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 2,
+  "sources": [
+    {
+      "url": "https://creepyfingerseffects.bigcartel.com/product/hold-tight",
+      "title": "Hold Tight | Creepy Fingers Effects",
+      "h1": "Hold Tight",
+      "excerpt": "Hold Tight | Creepy Fingers Effects Cart $ 0.00 0 Products Tees Fuzz/Distortion Booster Contact Back to Site Powered by Big Cartel 0 Menu Creepy Fingers Effects Hold Tight $ 249.00 Add to Cart My version of the Tone Bender MkI. A blend of silicon and germanium transistors. The Hold Tight captures the reckless abandon of the original while letting you tame the spit and crackle with the filter. Dial in the squish and bloom with the attack control. Plenty of volume on tap. Custom USA made steel enclosure. Hand silkscreened. Switchraft jacks. True bypass switching. Sheilded input wire.",
+      "host": "creepyfingerseffects.bigcartel.com",
+      "source_kind": "manufacturer"
+    },
+    {
+      "url": "https://reverb.com/item/80544691-creepy-fingers-hold-tight-black-first-run-mki-fuzz-bender",
+      "title": "catalog/override source",
+      "h1": "",
+      "excerpt": "",
+      "host": "reverb.com",
+      "source_kind": "reverb"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}

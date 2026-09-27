@@ -47,3 +47,22 @@ Nero is designed to move from a warm, relatively transparent boost into progress
 ## Photo
 - **Archive status:** No local photo archived in this research pass.
 - **Exact-model visual references checked:** Effects Database Nero page and Nero-specific review imagery references.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Though they may sound, look and act differently, there a surefire standard for a simple overdrive pedal, one that is most certainly tried and true, but also can lack imagination and creativity.
+
+### Verified version references
+- The evidence references: MKII.
+
+### Verified sound evidence
+Though they may sound, look and act differently, there a surefire standard for a simple overdrive pedal, one that is most certainly tried and true, but also can lack imagination and creativity.
+While available in a standard three-knob unit, this particular pedal is the upgraded version, the Dual Gain model.
+Featuring both Bypass and A/B stomp switches, this version lets you toggle back and forth between two completely different overdrive settings, for a super-versatile drive that’s sure not to disappoint.
+
+### Sources checked in this pass
+1. Crimsontone Nero Overdrive - Pedal of the Day: https://www.pedal-of-the-day.com/2015/12/02/crimsontone-nero-overdrive/
+2. Nero Overdrive: http://crimsontone.storenvy.com/collections/281595-pedals/products/1812790-nero
