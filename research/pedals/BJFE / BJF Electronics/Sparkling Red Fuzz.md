@@ -22,4 +22,4 @@ The Dirt Archive currently catalogs **Sparkling Red Fuzz** by **BJFE / BJF Elect
 - **Status:** Pending
 - Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
 ## Deep research verification
-BJFE Japan's current product page identifies Sparkling Red Fuzz as a thick, low-end-heavy fuzz with a distinctive sharp edge. Its circuit is described as close to **Mighty Red Distortion** and its underlying **Model R**, using CMOS transistors to produce a somewhat distortion-like fuzz character. Verified controls are **Vol, Fuzz, Treble** and power is 9V centre-negative or 9V battery. citeturn650836search1
+BJFE Japan's current product page identifies Sparkling Red Fuzz as a thick, low-end-heavy fuzz with a distinctive sharp edge. Its circuit is described as close to **Mighty Red Distortion** and its underlying **Model R**, using CMOS transistors to produce a somewhat distortion-like fuzz character. Verified controls are **Vol, Fuzz, Treble** and power is 9V centre-negative or 9V battery.
