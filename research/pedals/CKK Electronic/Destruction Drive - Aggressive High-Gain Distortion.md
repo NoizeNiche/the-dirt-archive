@@ -1,40 +1,55 @@
-# CKK Electronic — Destruction Drive - Aggressive High-Gain Distortion
+# CKK Electronic — Destruction Drive
 
 ## PRP identity
 - **Archive parent:** Destruction Drive - Aggressive High-Gain Distortion
 - **Builder:** CKK Electronic
 - **Catalog type:** Distortion
-- **Identity:** CKK Electronic Destruction Drive, an analog high-gain metal distortion with active three-band EQ and selectable midrange focus.
+- **Identity:** Analog high-gain distortion with active three-band EQ and three-way Midrange Focus switching. [1][2]
 
-## What this pedal is
-RockBoard describes the Destruction Drive as an analog high-gain distortion with Volume and Gain controls, active three-band EQ, and a selectable three-way midrange focus. [1]
+## Controls
+- **VOLUME**
+- **GAIN**
+- **BASS**
+- **MIDDLE**
+- **TREBLE**
+- **MIDRANGE FOCUS:** Three positions changing the midrange emphasis. [1][2]
 
-A Brett Kingman demo describes the same model as designed specifically for heavy rock/metal, with substantial gain and volume and a three-way Midrange focus selector. [2]
-
-## Colorways
-The checked sources establish the exact model but do not establish a complete factory colorway sequence.
-
-## Versions and factory options
-Documented:
-- Volume.
-- Gain.
-- Bass, Middle, Treble active EQ.
-- Three-position Midrange focus. [1][2]
-- 9V DC center-negative power.
-- Approx. 10 mA current draw. [1]
-
-## Version changes
-No reliable numbered hardware revision sequence was established.
+## Circuit / topology
+- Analog high-gain distortion.
+- Active three-band EQ.
+- Selectable midrange focus.
+- The reviewed sources do not publish a complete schematic or exact active-device BOM.
 
 ## Transistor
-No exact-model transistor part number was established.
+- Exact production transistor/device part number is not publicly documented.
 
-## Diode
-No exact-model diode specification was established.
+## Diode / clipping
+- Exact clipping-device type and part number are not publicly documented.
+
+## Power
+- **9V DC center-negative**.
+- Approximately **10 mA** current draw is documented by RockBoard. [1]
+
+## Version history
+- No numbered factory electronic revision established.
 
 ## Sound
-The pedal is explicitly voiced for very high-gain rock and metal. The active EQ and mid-focus selector provide substantial shaping around the aggressive core, from tighter to more forward midrange emphasis. [1][2]
+CKK positions Destruction Drive for heavy rock and metal, with substantial gain and output. The active EQ and three-way Midrange Focus provide broad control over the aggressive core, including tighter, more forward or more recessed midrange responses. [1][2]
+
+## Research confidence
+- **Identity:** High
+- **High-gain metal role:** High
+- **Five-knob + mid-focus control system:** High
+- **9V / 10mA:** High
+- **Exact transistor:** Unknown
+- **Exact diode:** Unknown
+
+## Deep research verification
+RockBoard PedalPedia and Brett Kingman's exact-model demonstration were cross-checked. The sources agree on the analog high-gain architecture, active Bass/Middle/Treble EQ, three-way Midrange Focus and heavy-rock/metal positioning. [1][2]
 
 ## Sources checked
 1. RockBoard PedalPedia — CKK Electronic Destruction Drive: https://www.rockboard.de/en/pedalPedia/Ckk-Electronic/Destruction-Drive/68976753/
 2. Brett Kingman — CKK Electronic Destruction Drive demo: https://www.youtube.com/watch?v=p4lAYr74jsc
+
+## Photo
+- Exact-model photo status remains handled by the photo lane.
