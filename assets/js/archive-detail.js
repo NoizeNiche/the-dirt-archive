@@ -86,7 +86,7 @@ function renderPageNav(items,currentItem=null){
 
 function renderMarkdown(md){
   const lines=md.split(/\r?\n/);
-  const hidden=new Set(['research confidence','photo','sources checked','prp identity']);
+  const hidden=new Set(['research confidence','photo','prp identity']);
   let html='',inList=false,skip=false;
   const inline=s=>{
     let value=esc(s)
