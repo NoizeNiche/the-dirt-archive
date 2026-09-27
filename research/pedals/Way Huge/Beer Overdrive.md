@@ -1,23 +1,45 @@
 # Way Huge — Beer Overdrive
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Beer Overdrive
 - **Builder:** Way Huge
-- **Pedal:** Beer Overdrive
 - **Catalog type:** Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Way Huge's Beer Overdrive.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Beer Overdrive** by **Way Huge** as a **Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Way Huge's Beer Overdrive is cataloged as an overdrive pedal.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- The verified evidence references: MkIII, MkIV, MkV.
+- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+Featuring simple controls for Volume, Tone, and Drive, it delivers smooth, vintage-style overdrive ideal for rock, blues, and beyond.
+Built with rugged construction and classic analog circuitry, this compact stompbox adds subtle grit or full-on crunch without losing clarity.
+Perfect for players seeking responsive, dynamic overdrive with a fun personality and pro-level sound.
+
+## Sources checked
+1. Way Huge Beer Overdrive - What To Know & Where To Buy: https://equipboard.com/items/way-huge-beer-overdrive
+2. WAY HUGE BEER OVERDRIVE Guitar Effects Pedal - eBay: https://www.ebay.com/itm/800263683486
+3. WAY HUGE Beer Overdrive Guitar Effects Pedal Used - Reverb: https://reverb.com/ca/item/93998943-way-huge-beer-overdrive-guitar-effects-pedal-used
+4. Way Huge Electronics BEER OVERDRIVE Effect Pedal - Pro-Level Distortion Effects Pedals for Live and Studio Use: https://www.pedaldistort.com/product/way-huge-electronics-beer-overdrive-effect-pedal/
+5. Used Way Huge Electronics BEER OVERDRIVE Effect Pedal: https://www.classymusicboutique.com/product/used-way-huge-electronics-beer-overdrive-effect-pedal/
+6. WAY HUGE® BEER OVERDRIVE | WHE205BR | モリダイラ楽器: https://moridaira.jp/wayhuge/products/whe205br/
+7. WAY HUGE / WHE205BR Beer Overdrive | EFFECTORPRESS(エフェクタープレス): https://effectorpress.com/effector/7845/
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
