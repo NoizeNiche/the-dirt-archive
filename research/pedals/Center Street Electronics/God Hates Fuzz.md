@@ -3,36 +3,59 @@
 ## PRP identity
 - **Archive parent:** God Hates Fuzz
 - **Builder:** Center Street Electronics
-- **Catalog type:** Fuzz
-- **Identity:** Center Street Electronics God Hates Fuzz, an oscillating fuzz with voltage-starve and stutter controls.
+- **Catalog type:** Fuzz / Oscillator
+- **Identity:** Multi-control fuzz with Starve, Gain, Control and Oscillation functions plus a Stutter footswitch. [1][2]
 
-## What this pedal is
-Pedal of the Day describes the God Hates Fuzz as an unusual fuzz oscillator pedal whose controls interact strongly with each other. The control set includes Volume, Tone, Fuzz, Starve, Gain, Control, and Oscillation, with a Stutter footswitch. [1]
+## Controls / architecture
+- **VOLUME**
+- **TONE**
+- **FUZZ**
+- **STARVE**
+- **GAIN**
+- **CONTROL**
+- **OSCILLATION**
+- **STUTTER** footswitch. [1]
 
-The Starve control reduces the power supplied to the circuit, while Oscillation changes the behavior from conventional fuzz toward unstable oscillating textures. [1]
-
-## Colorways
-- The checked sources identify the exact model but do not establish a complete factory colorway sequence.
-
-## Versions and factory options
-The documented controls include **Volume, Tone, Fuzz, Starve, Gain, Control, and Oscillation**, plus a **Stutter** footswitch. [1]
-
-Reverb confirms true bypass switching, 9V DC center-negative power, and a U.S.-made pedal. [2]
-
-No formal numbered factory V1/V2 sequence was established.
-
-## Version changes
-No reliable numbered production revision history was found in the checked sources.
+## Circuit / topology
+- Analog fuzz with an integrated oscillation section.
+- **Starve** reduces circuit supply voltage.
+- **Oscillation** changes the circuit toward unstable feedback/oscillator behavior.
+- **Stutter** acts as a signal kill in conventional operation and interacts with the oscillation function. [1]
 
 ## Transistor
-No exact-model transistor part number was established in the checked sources.
+- Exact production transistor/device part numbers are not publicly documented.
 
-## Diode
-No exact-model diode specification was established in the checked sources.
+## Diode / clipping
+- Exact clipping-device type and part number are not publicly documented.
+
+## Power
+- **9V DC, center-negative** is documented by the exact Reverb listing.
+- True bypass.
+- Exact current draw is not established. [2]
+
+## Construction / finish
+- U.S.-made.
+- Exact-model Reverb record confirms modern pedal-format enclosure. [2]
+
+## Version history
+- No numbered electronic revision established.
 
 ## Sound
-The pedal ranges from conventional fuzz to oscillating, unstable textures. Pedal of the Day notes that the Oscillation and Starve controls interact with the other controls to produce increasingly chaotic sounds. The Stutter control acts as a signal kill function in the conventional setting and takes on another tonal function when oscillation is engaged. [1]
+God Hates Fuzz can move from conventional fuzz into unstable oscillation, stutter and supply-starved textures. The controls interact heavily, especially Starve, Oscillation and Control. [1]
+
+## Research confidence
+- **Identity:** High
+- **Oscillator architecture:** High
+- **Starve/Stutter behavior:** High
+- **9V center-negative / true bypass:** High
+- **Exact components:** Unknown
+
+## Deep research verification
+Pedal of the Day's exact-model review and the Reverb listing were cross-checked. The sources agree on the seven-control plus Stutter architecture and the pedal's oscillating/starved-fuzz behavior. [1][2]
 
 ## Sources checked
 1. Pedal of the Day — Center Street Electronics God Hates Fuzz: https://www.pedal-of-the-day.com/2015/03/30/center-street-electronics-god-hates-fuzz/
 2. Reverb — Center Street Electronics God Hates Fuzz: https://reverb.com/item/2365614-center-street-electronics-c-s-e-god-hates-fuzz-pedal
+
+## Photo
+- Exact-model photo status remains handled separately.
