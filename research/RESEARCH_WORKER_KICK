@@ -21,3 +21,4 @@ Purpose: launch another bounded 20-worker research pass for historical/discontin
 [2026-09-27T09:32:42.631Z] Restart deep worker lane with cited-research source reuse enabled.
 [2026-09-27T09:36:33.813Z] Rerun research after conservative acronym-alias identity gate fix.
 [2026-09-27T09:39:04.617Z] Run provenance-aware deep research after curated-source identity gate fix.
+[2026-09-27T10:02:21.933Z] Run corrected metadata-aware deep-research workers against current main head.
