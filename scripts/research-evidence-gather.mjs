@@ -440,7 +440,7 @@ async function targetRecord(builder,pedal,type){
         // exact-model candidate even when the live page template omits the
         // model name from its HTML body. Require at least two pedal-name tokens
         // plus a builder token before applying this provenance shortcut.
-        exactPedal:Boolean(f.exactPedal || (curatedExactCandidate && f.pedalHits>=2 && f.builderHits>=1))
+        exactPedal:Boolean(f.exactPedal || (curatedExactCandidate && pedalMetadataExact && f.builderHits>=1))
       },
       signals:signals(fullText),
       sourceKind:cached?.source_kind || sourceKind(builder,u,exactCatalogUrls,item.x.url),
