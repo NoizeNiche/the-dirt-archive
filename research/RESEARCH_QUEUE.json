@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-27T00:53:39.144967+00:00",
+  "generated_at": "2026-09-27T00:55:45.784398+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,100 +10,23 @@
     "pictured": 2999,
     "complete": 2999,
     "research_pending": 0,
-    "deep_research_pending": 2229,
-    "deep_researched": 1532,
+    "deep_research_pending": 2218,
+    "deep_researched": 1543,
     "surface_ready": 3761
   },
   "next_target": {
-    "builder": "Atlas Pedal",
-    "pedal": "Bracton OverDrive",
+    "builder": "Attic Audio",
+    "pedal": "PUTTY Saturation Preamp",
     "catalog_type": "",
-    "research_record": "./research/pedals/Atlas Pedal/Bracton OverDrive.md",
+    "research_record": "./research/pedals/Attic Audio/PUTTY Saturation Preamp.md",
     "research_level": "surface"
   },
   "working_set": [
-    {
-      "builder": "Atlas Pedal",
-      "pedal": "Bracton OverDrive",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Atlas Pedal/Bracton OverDrive.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Atlas Pedal",
-      "pedal": "Sutherland OverDrive",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Atlas Pedal/Sutherland OverDrive.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Atmosfera 6",
-      "pedal": "BELMEZ Occult Fuzz Device",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Atmosfera 6/BELMEZ Occult Fuzz Device.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Atmosfera 6",
-      "pedal": "BELMEZ WITCHES Occult Fuzz",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Atmosfera 6/BELMEZ WITCHES Occult Fuzz.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Atmosfera 6",
-      "pedal": "TERROR COSMICO",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Atmosfera 6/TERROR COSMICO.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Atmosfera 6",
-      "pedal": "Thulsa Doom Hyborean Fuzz",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Atmosfera 6/Thulsa Doom Hyborean Fuzz.md",
-      "research_level": "surface"
-    },
     {
       "builder": "Attic Audio",
       "pedal": "PUTTY Saturation Preamp",
       "catalog_type": "",
       "research_record": "./research/pedals/Attic Audio/PUTTY Saturation Preamp.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Audile",
-      "pedal": "Bass TOAD - Tone Overdrive And Distortion for Bass",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Audile/Bass TOAD - Tone Overdrive And Distortion for Bass.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Audile",
-      "pedal": "TOAD - Tone Overdrive And Distortion",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Audile/TOAD - Tone Overdrive And Distortion.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Audio Aesthetic",
-      "pedal": "Midnight Drive",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Audio Aesthetic/Midnight Drive.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Audio Kitchen",
-      "pedal": "Fake Plastic Trees",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Audio Kitchen/Fake Plastic Trees.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Audio Kitchen",
-      "pedal": "The Big Trees",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Audio Kitchen/The Big Trees.md",
       "research_level": "surface"
     },
     {
@@ -195,6 +118,83 @@
       "pedal": "Doomer Fuzz",
       "catalog_type": "",
       "research_record": "./research/pedals/Audiolithe/Doomer_Fuzz.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Audiolithe",
+      "pedal": "Extinction Drive",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Audiolithe/Extinction_Drive.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Audiolithe",
+      "pedal": "La Montagne",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Audiolithe/La_Montagne.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Audiolithe",
+      "pedal": "The Empress Bass",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Audiolithe/The_Empress_Bass.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Audiostorm",
+      "pedal": "ADNA",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Audiostorm/ADNA.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Audiostorm",
+      "pedal": "F258 Drive",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Audiostorm/F258 Drive.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Audiostorm",
+      "pedal": "Otherworld Overdrive",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Audiostorm/Otherworld Overdrive.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Audiostorm",
+      "pedal": "Quad Screamer Overdrive",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Audiostorm/Quad Screamer Overdrive.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Aul Instruments",
+      "pedal": "Fuzz",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Aul Instruments/Fuzz.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Aural Dream",
+      "pedal": "Bold Distortion",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Aural Dream/Bold Distortion.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Aural Dream",
+      "pedal": "Purely Fuzz",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Aural Dream/Purely Fuzz.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Auxiliary Workshop",
+      "pedal": "The Devils Handshake",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Auxiliary Workshop/The Devils Handshake.md",
       "research_level": "surface"
     }
   ]
