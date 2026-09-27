@@ -1,48 +1,61 @@
-# Axewerx - Gain Chain
+# Axewerx — Gain Chain
 
 ## PRP identity
 - **Archive parent:** Gain Chain
 - **Builder:** Axewerx
 - **Catalog type:** Overdrive
-- **Identity:** Hand-built Canadian boost/overdrive with two transistor gain stages and switchable symmetrical clipping.
+- **Identity:** Hand-built Canadian overdrive/boost using two 2N5088 transistor gain stages, switchable BAT-41 or red-LED clipping, and a tone network placed between the gain stages. [1][2]
 
-## What this pedal is
-Axewerx describes Gain Chain as a crunchy overdrive that can also function as a powerful boost. It uses Drive, Tone, and Volume controls plus a two-way distortion switch, with the circuit built around dual transistor gain stages and switchable clipping.
+## Controls
+- **DRIVE**
+- **TONE**
+- **VOLUME**
+- **Clipping toggle:** BAT-41 / red LED. [1]
 
-## Colorways
-- No reliable production colorway chronology was verified.
-- The builder describes custom UV-printed enclosure graphics and states that the pedal is individually assembled and tested.
-
-## Versions and factory options
-### Gain Chain production
-- Drive
-- Tone
-- Volume
-- Two-way distortion toggle
-- True bypass
-- 9 VDC center-negative power
-- Hand-built in Canada
-
-## Version changes
-No numbered factory revision was verified.
+## Circuit architecture
+- Two transistor gain stages.
+- **2N5088** transistors.
+- Tone network between gain stages.
+- Selectable clipping using **BAT-41 diodes** or red LEDs. [1]
+Axewerx describes the BAT-41 setting as tighter/darker and the red-LED setting as brighter with later clipping.
 
 ## Transistor
-- **Exact device:** Axewerx documents 2N5088 transistors in the gain stages.
-- **Architecture:** Dual transistor stages with the tone network between gain stages.
+- **2 × 2N5088** documented by Axewerx. [1]
 
-## Diode
-- **Exact devices:** BAT-41 diodes and red LEDs are both documented clipping options.
-- **Behavior:** Axewerx describes BAT-41 clipping as tighter/darker and red-LED clipping as brighter/later clipping.
+## Diode / clipping
+- **BAT-41 diodes**
+- **Red LEDs**
+Both are documented clipping options. [1]
+
+## Construction / power
+- Hand-built in Canada.
+- Individually assembled/tested.
+- Custom UV-printed enclosure graphics.
+- True bypass.
+- **9VDC center-negative.** [1][2]
+
+## Version history
+- No numbered factory revision established.
+- Clipping selection is a built-in circuit option rather than a version code.
 
 ## Sound
-Gain Chain is designed to move from boost territory into crunchy overdrive and brighter, almost fuzz-like textures. The clipping switch changes both compression and spectral emphasis, with the BAT-41 side described as tighter/darker and the red-LED side as brighter/later clipping.
+Gain Chain is intended to move from strong boost into crunchy overdrive and more open, brighter saturation. Axewerx describes BAT-41 clipping as tighter/darker and the red-LED option as brighter/later clipping. [1]
+
+## Research confidence
+- **Identity:** High
+- **Two-stage transistor topology:** High
+- **2N5088:** High
+- **BAT-41/red-LED clipping:** High
+- **True bypass / 9V:** High
+- **Exact passive component values:** Unknown
+
+## Deep research verification
+Axewerx's Gain Chain product documentation was cross-checked with its current shop information. The builder explicitly documents the 2N5088 transistor pair and BAT-41/red-LED clipping alternatives. [1][2]
 
 ## Sources checked
-1. Axewerx - Gain Chain: https://axewerx.com/shop/products/pedals/the-gain-chain.html
-2. Axewerx - hand-built pedal shop: https://axewerx.com/
-3. Amps & Ehfects - Canadian-style Gain Chain overview: https://www.ehfects.ca/blog/high-gain-canadian-style
+1. Axewerx — Gain Chain: https://axewerx.com/shop/products/pedals/the-gain-chain.html
+2. Axewerx — Current shop: https://axewerx.com/
 
 ## Photo
 - **Archive status:** **No Photo Archived**
-- **Exact-model reference checked:** https://axewerx.com/shop/products/pedals/the-gain-chain.html
-- **Archive note:** The builder page exposes exact-model photography, but the currently exposed asset is served through a checkout/image proxy that is not being promoted as the archive's stable image URL in this pass.
+- **Exact-model reference checked:** Axewerx Gain Chain product page.
