@@ -6,25 +6,43 @@
 - **Catalog type:** Overdrive
 
 ## What this pedal is
-Dirty Sandwich is a multifunction pedal combining a true-bypass effects loop, adjustable loop return volume, clean boost and adjustable drive. Big John documents it for guitar, bass, synth and other signal-chain uses.
+Dirty Sandwich is a multifunction signal-chain pedal combining an adjustable effects loop, a clean boost and an adjustable drive section. Big John's official documentation also provides a dedicated Dirty Sandwich owner's manual.
 
-## Functions
-- Switchable true-bypass effects loop
-- Volume control for the loop return
-- Switchable clean booster
-- Adjustable Drive
-- True bypass
+## Functions / controls
+- **Effects loop:** Switchable true-bypass loop path.
+- **Loop return volume:** Adjustable return-level control.
+- **Boost:** Switchable clean booster.
+- **Drive:** Adjustable overdrive section.
+- **Bypass:** True bypass.
 
-## Sound
-The builder describes the Drive section as ranging from transparent overdrive toward heavier dirt while the boost provides additional level without bypassing the loop functionality.
+## Intended use
+The pedal is designed to let external effects sit inside its loop while also providing boost and drive functions in the same enclosure. Big John describes it as suitable for guitar, bass, synth and other sources.
+
+## Power
+Big John's FAQ specifies **9V DC, negative-tip / positive-ring** power for its pedals, with a One Spot or Boss-style supply recommended. The dedicated Dirty Sandwich manual is the model-specific reference point for operation.
 
 ## History
-Big John's official timeline places Dirty Sandwich in 2014, after Arnoud Faber took over the workshop in the Netherlands.
+Big John's official history places Dirty Sandwich in **2014**, after Arnoud Faber took over the workshop in the Netherlands.
+
+## Circuit / components
+Exact transistor, op-amp and diode part numbers were not established. The archive does not assign a clone lineage.
+
+## Research confidence
+- **Identity:** High.
+- **Loop + boost + drive architecture:** High.
+- **True bypass:** High.
+- **9V negative-tip power:** High at builder-family level.
+- **Exact components:** Unknown.
+
+## Deep research verification
+The official Big John FAQ, Dirty Sandwich manual listing and historical information were cross-checked. Model-specific schematic/component data was not publicly exposed in the reviewed sources.
 
 ## Sources checked
-1. Big John official product page: https://bigjohnmusic.com/?page_id=38
-2. Effects Database: https://www.effectsdatabase.com/model/bigjohn/dirtysandwich
-3. Big John official history: https://bigjohnmusic.com/about/
+1. Big John Effects FAQ: https://bigjohnmusic.com/faq/
+2. Big John Dirty Sandwich owner manual listing: https://bigjohnmusic.com/faq/
+3. Effects Database - Dirty Sandwich: https://www.effectsdatabase.com/model/bigjohn/dirtysandwich
+4. Big John Effects history: https://bigjohnmusic.com/about/
 
 ## Photo
-- **Archive status:** **No Photo Archived**
+- **Archive status:** **Exact Photo Pending**
+- No local canonical image was promoted in this pass.
