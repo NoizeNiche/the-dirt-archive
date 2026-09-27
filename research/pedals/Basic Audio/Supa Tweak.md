@@ -1,45 +1,52 @@
-# Basic Audio - Supa Tweak
+# Basic Audio — Supa Tweak
 
 ## PRP identity
 - **Archive parent:** Supa Tweak
 - **Builder:** Basic Audio
 - **Catalog type:** Fuzz
-- **Identity:** Tweaked Supa MKI-style fuzz with separate gain and bias controls, an interstage low/gain cut, and a switchable sag response.
+- **Identity:** Tweaked Supa MKI-style fuzz with separate gain and bias, an interstage low/gain cut and a switchable sag response. [1]
 
-## What this pedal is
-Supa Tweak is a modified Supa MKI concept with gain separated from bias, an interstage low/gain cut that helps the pedal clean up, and a Sag toggle. Basic Audio describes the Sag setting as increasing gain while allowing the output to sag and dip under harder pick attack.
+## Controls / architecture
+- Variable **GAIN** separate from bias.
+- **BIAS**
+- Interstage low/gain cut.
+- **SAG** toggle.
+- 9V center-negative with battery support. [1]
 
-## Colorways
-- The official product photograph documents a production finish for the model.
-- Basic Audio notes that pedal colors are subject to change.
-- No complete factory colorway chronology was verified.
-
-## Versions and factory options
-### Supa Tweak
-- Variable gain separate from bias
-- Interstage low/gain cut
-- Sag toggle
-- Center-negative 9V DC operation
-- Battery snap
-- No numbered factory version was verified.
-
-## Version changes
-The documented change from Supa MKI is the expanded control scheme: gain is separated from bias, the interstage low/gain cut improves cleanup, and the Sag toggle adds a more compressed, dipping response.
+## Circuit lineage
+- **Primary reference:** Basic Audio Supa MKI / Marshall Supa Fuzz MKI family.
+- Supa Tweak expands the lineage with more direct control over gain, bias and sag.
 
 ## Transistor
-- **Exact production transistor technology and device part numbers:** Not publicly documented in the checked sources.
+- Exact production transistor technology and device part numbers are not publicly documented.
 
-## Diode
-- **Exact clipping/protection arrangement:** Not publicly documented in the checked sources.
+## Diode / clipping
+- Exact clipping-device type and part number are not publicly documented.
+
+## Version history
+- No numbered electronic revision established.
+- The defining difference from Supa MKI is the expanded gain/bias/sag architecture. [1]
 
 ## Sound
-Supa Tweak is aimed at the responsive end of vintage fuzz, where gain, bias and interstage filtering can make the circuit clean up rather than remain equally saturated. Engaging Sag adds more gain and a noticeable output dip with a hard attack, creating a softer, more collapsing feel under picking dynamics.
+Basic Audio describes the interstage cut as improving cleanup, while the Sag toggle adds more gain and a noticeable dip under hard pick attack. The result spans open vintage fuzz through softer, collapsing and more compressed textures. [1]
+
+## Research confidence
+- **Identity:** High
+- **Supa MKI lineage:** High
+- **Gain/bias separation:** High
+- **Sag toggle:** High
+- **Exact transistor:** Unknown
+- **Exact diode:** Unknown
+
+## Deep research verification
+Basic Audio's Supa Tweak page was checked directly and compared with the documented Supa MKI family. The control changes, sag behavior and lineage are supported; exact semiconductor details are not published. [1][2]
 
 ## Sources checked
-1. Basic Audio official Supa Tweak page: https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-cnzrr-bfrf8
-2. Basic Audio official catalog: https://www.basicaudio.net/
+1. Basic Audio — Supa Tweak: https://www.basicaudio.net/store-1/5einpey75gjgckjedbfsb3vnya-y3hb9-97e3s-cnzrr-bfrf8
+2. Basic Audio — Supa MKI: https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-cnzrr-bfrf8-lcl7b
+3. Basic Audio — Main catalog: https://www.basicaudio.net/
 
 ## Photo
-- **Archive status:** **Exact Photo Attached to Public Catalog**
-- **Exact-model image:** https://images.squarespace-cdn.com/content/v1/5da9e97016ddf940acffa2d3/1574302119982-RT4EZ2V7AC37ASRPN1KL/EmptyName_25.jpg
-- **Source page:** https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-cnzrr-bfrf8
+- **Exact pedal photograph:** Basic Audio official product photograph.
+- **Direct image:** https://images.squarespace-cdn.com/content/v1/5da9e97016ddf940acffa2d3/1574302119982-RT4EZ2V7AC37ASRPN1KL/EmptyName_25.jpg
+- **Source page:** Basic Audio Supa Tweak.
