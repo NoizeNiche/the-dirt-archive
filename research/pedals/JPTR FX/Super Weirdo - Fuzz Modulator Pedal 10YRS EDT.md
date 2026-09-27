@@ -1,23 +1,38 @@
 # JPTR FX — Super Weirdo - Fuzz Modulator Pedal 10YRS EDT
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Super Weirdo - Fuzz Modulator Pedal 10YRS EDT
 - **Builder:** JPTR FX
-- **Pedal:** Super Weirdo - Fuzz Modulator Pedal 10YRS EDT
 - **Catalog type:** Fuzz
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** JPTR FX's Super Weirdo - Fuzz Modulator Pedal 10YRS EDT.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Super Weirdo - Fuzz Modulator Pedal 10YRS EDT** by **JPTR FX** as a **Fuzz** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Unlock the secrets of the universe with the ultimate fuzz pedal!
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+Unlock the secrets of the universe with the ultimate fuzz pedal!
+Introducing the game-changing SUPER WEIRDO, a Pulse Width Modulator Fuzz Pedal that will blow your mind!
+It adds mesmerizing movement and texture to your sound, giving you the power to craft everything from subtle, shimmering noise to full-blown warbles and sweeps!
+
+## Sources checked
+1. JPTR FX Super Weirdo - Fuzz Modulator Pedal 10YRS EDT: https://jptrfx.com/products/jptr-fx-super-weirdo-fuzz-modulator-pedal-10yrs-edt
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
