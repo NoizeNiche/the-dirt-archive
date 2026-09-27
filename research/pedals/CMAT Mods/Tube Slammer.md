@@ -4,39 +4,54 @@
 - **Archive parent:** Tube Slammer
 - **Builder:** CMATMODS
 - **Catalog type:** Overdrive
-- **Identity:** CMATMODS Tube Slammer, a TS-808-derived low-to-medium gain overdrive with asymmetrical clipping.
+- **Identity:** Hand-built TS-808-derived overdrive with asymmetrical clipping, enhanced gain and a tapered Tone control. [1]
 
-## What this pedal is
-Effects Database documents Tube Slammer as a hand-built overdrive based on the TS-808 with major upgrades including more gain, a tapered tone control, true bypass, low noise, and asymmetrical clipping. [1]
-
-## Colorways
-- Historical community listings document a **purple** enclosure on Tube Slammer examples. [2]
-- No complete factory colorway sequence was established.
-
-## Versions and factory options
-Documented controls:
-- Drive.
-- Level.
-- Tone.
+## Controls
+- **DRIVE**
+- **LEVEL**
+- **TONE**
 - Bright blue LED.
-- True bypass.
-- Boss/Ibanez-style footprint. [1]
+- True bypass. [1]
 
-## Version changes
-Effects Database indexes **V1** and **V2** for Tube Slammer. The later description also notes the use of 1% resistors to reduce noise. [1]
-
-A later Reverb listing documents a Tube Slammer V3 upgrade with the same three-control layout and the TS-808-derived/asymmetrical-clipping concept. [3]
+## Circuit lineage
+- **Primary reference:** TS-808.
+- CMATMODS describes the Tube Slammer as a TS-808-based design with upgrades to gain, tone response and clipping. [1]
 
 ## Transistor
-No exact-model transistor part number was established.
+- Exact discrete transistor part number is not established.
+- The circuit is op-amp-centered rather than a transistor-only fuzz architecture, but the exact production IC is not securely established for every revision.
 
-## Diode
-The circuit uses **asymmetrical clipping**, but exact diode part numbers were not established.
+## Diode / clipping
+- **Asymmetrical clipping** is documented.
+- Exact diode part numbers are not established. [1]
+
+## Power
+- Standard pedal operation is documented.
+- Exact voltage/current values are not reliably established from the reviewed exact-model sources.
+
+## Version history
+Effects Database documents **V1 and V2**. [1]
+A later Reverb listing documents a **V3** upgraded Tube Slammer retaining the three-control interface and TS-808-derived/asymmetrical-clipping concept. [3]
+The archive preserves V1/V2/V3 as historical production stages where documented rather than treating them as one undifferentiated model.
 
 ## Sound
-CMATMODS describes Tube Slammer as warm crunch with substantial bass, focused high end, and strong sustain, while preserving compatibility with single-coils, humbuckers, and P-90s. [1]
+CMATMODS describes Tube Slammer as warm crunch with substantial bass, focused high end and strong sustain, while retaining compatibility with single-coil, humbucker and P-90 pickups. [1]
+
+## Research confidence
+- **Identity:** High
+- **TS-808 lineage:** High
+- **Asymmetrical clipping:** High
+- **V1/V2/V3 history:** High
+- **Exact transistor/IC:** Unknown
+- **Exact diode:** Unknown
+
+## Deep research verification
+Effects Database was checked against a historical V3 Reverb record and surviving user discussion. The sources establish the TS-808 lineage, asymmetrical clipping, three-control interface and the documented V1/V2/V3 history. [1][2][3]
 
 ## Sources checked
 1. Effects Database — CMATMODS Tube Slammer: https://www.effectsdatabase.com/model/cmatmods/tubeslammer
-2. PRS Guitars Forum discussion describing an earlier purple Tube Slammer preceding Signa Drive: https://forums.prsguitars.com/threads/do-you-use-an-overdrive-pedal-for-your-rock-lead-sounds.55015/page-6
-3. Reverb — CMATMods Tube Slammer V3 TS808 upgrade: https://reverb.com/item/55687106-cmatmods-tube-slammer-v3-ts808-upgrade
+2. PRS Guitars Forum — historical Tube Slammer discussion: https://forums.prsguitars.com/threads/do-you-use-an-overdrive-pedal-for-your-rock-lead-sounds.55015/page-6
+3. Reverb — CMATMODS Tube Slammer V3 TS808 upgrade: https://reverb.com/item/55687106-cmatmods-tube-slammer-v3-ts808-upgrade
+
+## Photo
+- Exact-model image status remains handled separately.
