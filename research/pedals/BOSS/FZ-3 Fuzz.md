@@ -1,43 +1,32 @@
-# BOSS — FZ-3 Fuzz
+# BOSS - FZ-3 Fuzz
 
 ## PRP identity
-- **Archive parent:** FZ-3 Fuzz
 - **Builder:** BOSS
 - **Catalog type:** Fuzz
-- **Identity:** BOSS's FZ-3 Fuzz.
 
 ## What this pedal is
-About this product About this product Product Information The Boss FZ-3 Fuzz pedal is crafted as a successor of the Boss FZ-2.
+The BOSS FZ-3 is a compact analog fuzz pedal from the late 1990s, positioned as a successor to the FZ-2 Hyper Fuzz.
 
-## Colorways
-- No specific factory colorway information was established in the verified evidence packet.
+## Deep research verification
 
-## Versions and factory options
-- No distinct factory revision was established in the verified evidence packet.
+### Controls
+- **LEVEL**
+- **TONE**
+- **FUZZ**
 
-## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+### Sound and design
+The documented design covers a broad fuzz range from relatively controlled vintage-style textures toward more aggressive saturated fuzz. The compact three-knob format is a marked simplification from the FZ-2's multi-mode architecture.
 
-## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
-- **Exact transistor/device:** Unknown.
+### History
+The FZ-3 is a separate model from the FZ-2 rather than a revision of it. Surviving period documentation identifies the FZ-3 as the later successor model.
 
-## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
-- **Exact part:** Unknown.
-
-## Sound
-Boss FZ-3 Fuzz Guitar Effect Pedal for sale online
-About this product About this product Product Information The Boss FZ-3 Fuzz pedal is crafted as a successor of the Boss FZ-2.
-Sporting the Level, Tone and the Fuzz knobs, this Boss guitar effect pedal allows you to dial in the tone that he craves for.
+### Component evidence
+Exact transistor and clipping-diode part numbers are not established by the reviewed sources.
 
 ## Sources checked
-1. Boss FZ-3 Fuzz - Reverb: https://reverb.com/p/boss-fz-3-fuzz
-2. Boss FZ-3 Fuzz - What To Know & Where To Buy | Equipboard: https://equipboard.com/items/boss-fz-3-fuzz
-3. Boss FZ-3 Fuzz Guitar Effect Pedal for sale online | eBay: https://www.ebay.com/p/78732683
-4. BOSS FZ-3 Fuzz Owner's Manual | Manualzz: https://manualzz.com/doc/23902171/boss-fz-3-fuzz-pedal-owner-s-manual
-5. FZ-3 Fuzz by BOSS | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/BOSS/FZ-3-Fuzz/68975935/
-6. BOSS FZ-3 Fuzz - Effects Pedals: https://www.effects-pedals.info/p/boss-fz-3-fuzz/
+- BOSS FZ-3 owner documentation: https://manualzz.com/doc/23902171/boss-fz-3-fuzz-pedal-owner-s-manual
+- Effects Pedals: https://www.effects-pedals.info/p/boss-fz-3-fuzz/
+- Reverb model page: https://reverb.com/p/boss-fz-3-fuzz
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** **Exact Photo Pending**
