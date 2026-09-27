@@ -34414,8 +34414,8 @@
       "image": "./assets/pedals/earthquaker-devices/rancho-de-la-luna-dirt-transmitter-fuzz-driver/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/EarthQuaker Devices/Rancho de la Luna Dirt Transmitter — Fuzz Driver.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "EarthQuaker Devices",
@@ -54779,8 +54779,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Walrus Audio/Janus Fuzz/Tremolo with Joystick Control — Fuzz.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Walrus Audio",

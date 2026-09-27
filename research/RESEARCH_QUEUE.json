@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-27T23:52:02.523103+00:00",
+  "generated_at": "2026-09-27T23:54:34.251028+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,8 +10,8 @@
     "pictured": 3476,
     "complete": 3476,
     "research_pending": 0,
-    "deep_research_pending": 270,
-    "deep_researched": 3936,
+    "deep_research_pending": 268,
+    "deep_researched": 3938,
     "surface_ready": 4206
   },
   "next_target": {
@@ -27,13 +27,6 @@
       "pedal": "Mystic Blues Overdrive (FX102)",
       "catalog_type": "",
       "research_record": "./research/pedals/DOD Electronics/Mystic Blues Overdrive (FX102).md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "EarthQuaker Devices",
-      "pedal": "Rancho de la Luna Dirt Transmitter — Fuzz Driver",
-      "catalog_type": "",
-      "research_record": "./research/pedals/EarthQuaker Devices/Rancho de la Luna Dirt Transmitter — Fuzz Driver.md",
       "research_level": "surface"
     },
     {
@@ -195,6 +188,13 @@
       "pedal": "Notadümb̈le V2",
       "catalog_type": "",
       "research_record": "./research/pedals/JHS Pedals/Notadümb̈le V2.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "JHS Pedals",
+      "pedal": "Notadümblo V2",
+      "catalog_type": "",
+      "research_record": "./research/pedals/JHS Pedals/Notadümblo V2.md",
       "research_level": "surface"
     }
   ]
