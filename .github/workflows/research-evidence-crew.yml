@@ -2,7 +2,12 @@ name: Research evidence crew
 
 on:
   workflow_dispatch:
-  # Autonomous evidence collection is paused. Manual dispatch remains available.
+  schedule:
+    - cron: '47 * * * *'
+  push:
+    paths:
+      - 'research/RESEARCH_AUTONOMY_KICK'
+  # Autonomous evidence collection is resumed with a staggered hourly pass.
 
 permissions:
   contents: write
