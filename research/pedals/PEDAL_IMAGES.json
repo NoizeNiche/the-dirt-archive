@@ -5549,7 +5549,7 @@
     "source": "verified research source"
   },
   {
-    "builder": "Bixonic",
+    "builder": "BIXONIC",
     "pedal": "Axentrix A1",
     "image": "./assets/pedals/bixonic/axentrix-a1/primary.webp",
     "source_page": "https://bixonic-sound.com/pages/digital-multi-distortion-pedal-axentrix",
@@ -5557,7 +5557,7 @@
     "source": "verified research source"
   },
   {
-    "builder": "Bixonic",
+    "builder": "BIXONIC",
     "pedal": "Axentrix II",
     "image": "./assets/pedals/bixonic/axentrix-ii/primary.webp",
     "source_page": "https://bixonic-sound.com/blogs/review/axentrix-ii-reveal-at-namm-2025",
@@ -5565,14 +5565,14 @@
     "source": "verified research source"
   },
   {
-    "builder": "Bixonic",
+    "builder": "BIXONIC",
     "pedal": "EXP2000 Expandora",
     "image": null,
     "source_page": "https://www.effectsdatabase.com/model/bixonic/expandora",
     "research_record": "./research/pedals/Bixonic/EXP2000 Expandora.md"
   },
   {
-    "builder": "Bixonic",
+    "builder": "BIXONIC",
     "pedal": "EXP2000DR Clean & Drive",
     "image": "./assets/pedals/bixonic/exp2000dr-clean-drive/primary.webp",
     "source_page": "https://bixonic-sound.com/products/exp2000dr",
@@ -5580,7 +5580,7 @@
     "source": "verified research source"
   },
   {
-    "builder": "Bixonic",
+    "builder": "BIXONIC",
     "pedal": "EXP2001 Expandora II",
     "image": null,
     "source_page": "https://www.effectsdatabase.com/model/bixonic",

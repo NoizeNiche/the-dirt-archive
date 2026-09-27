@@ -37,7 +37,7 @@ This is the canonical builder identity list for the active **Builder -> Pedals**
 | 011 | Benson Amps | 119 |  |
 | 012 | Big John Effects | 048 |  |
 | 013 | Big Knob Pedals | 049 |  |
-| 014 | BIXONIC | 055 |  |
+| 014 | BIXONIC | 055 | Bixonic |
 | 015 | BJFE / BJF Electronics | 032 | BJFE / BJF Electronics |
 | 016 | Black Arts Toneworks | 101, 134, 159 |  |
 | 017 | Blackhawk Amplifiers | 051 |  |
