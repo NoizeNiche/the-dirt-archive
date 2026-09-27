@@ -1,18 +1,18 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-27T04:56:36.719291+00:00",
+  "generated_at": "2026-09-27T05:00:13.988465+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
   "counts": {
-    "total": 4025,
-    "researched": 3761,
-    "pictured": 3040,
-    "complete": 3040,
+    "total": 4064,
+    "researched": 3760,
+    "pictured": 3058,
+    "complete": 3058,
     "research_pending": 0,
-    "deep_research_pending": 2055,
-    "deep_researched": 1970,
-    "surface_ready": 4025
+    "deep_research_pending": 2083,
+    "deep_researched": 1981,
+    "surface_ready": 4064
   },
   "next_target": {
     "builder": "Beetronics",

@@ -4211,6 +4211,13 @@
   },
   {
     "builder": "Big Ear NYC",
+    "pedal": "Chaka - Octave Fuzz",
+    "image": "",
+    "source_page": "https://www.effectsdatabase.com/model/bigear/chaka",
+    "research_record": "./research/pedals/Big Ear NYC/Chaka - Octave Fuzz.md"
+  },
+  {
+    "builder": "Big Ear NYC",
     "pedal": "Frank",
     "image": "./assets/pedals/big-ear-nyc/frank/primary.webp",
     "source_page": null,
@@ -4291,6 +4298,20 @@
   },
   {
     "builder": "Big Joe Stomp Box Company",
+    "pedal": "B-302 ROCK",
+    "image": "",
+    "source_page": "https://bigjoestompbox.com/products/b-302-rock",
+    "research_record": "./research/pedals/Big Joe Stomp Box Company/B-302 ROCK.md"
+  },
+  {
+    "builder": "Big Joe Stomp Box Company",
+    "pedal": "B-303 METAL",
+    "image": "",
+    "source_page": "https://bigjoestompbox.com/products/b-303-metal",
+    "research_record": "./research/pedals/Big Joe Stomp Box Company/B-303 METAL.md"
+  },
+  {
+    "builder": "Big Joe Stomp Box Company",
     "pedal": "B-309 Texas Screamer",
     "image": "./assets/pedals/big-joe-stomp-box-company/b-309-texas-screamer/primary.webp",
     "source_page": null,
@@ -4299,11 +4320,32 @@
   },
   {
     "builder": "Big Joe Stomp Box Company",
+    "pedal": "B-312 FREAKSHOW FUZZ (SILICON)",
+    "image": "",
+    "source_page": "https://bigjoestompbox.com/products/b-312-freakshow-fuzz-silicon",
+    "research_record": "./research/pedals/Big Joe Stomp Box Company/B-312 FREAKSHOW FUZZ (SILICON).md"
+  },
+  {
+    "builder": "Big Joe Stomp Box Company",
+    "pedal": "B-313 FREAKSHOW FUZZ (GERMANIUM)",
+    "image": "",
+    "source_page": "https://bigjoestompbox.com/products/b-307g-freakshow-fuzz",
+    "research_record": "./research/pedals/Big Joe Stomp Box Company/B-313 FREAKSHOW FUZZ (GERMANIUM).md"
+  },
+  {
+    "builder": "Big Joe Stomp Box Company",
     "pedal": "B-502 Empire",
     "image": "./assets/pedals/big-joe-stomp-box-company/b-502-empire/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/PRP Batch 082/B-502 Empire.md",
     "source": "verified research source"
+  },
+  {
+    "builder": "Big Joe Stomp Box Company",
+    "pedal": "R-401 SATURATED",
+    "image": "",
+    "source_page": "https://bigjoestompbox.com/products/r-401-saturated",
+    "research_record": "./research/pedals/Big Joe Stomp Box Company/R-401 SATURATED.md"
   },
   {
     "builder": "Big Joe Stomp Box Company",
@@ -4328,6 +4370,13 @@
     "source_page": null,
     "research_record": "./research/pedals/PRP Batch 082/R-404 Vintage II.md",
     "source": "verified research source"
+  },
+  {
+    "builder": "Big Joe Stomp Box Company",
+    "pedal": "R-405 HARD",
+    "image": "",
+    "source_page": "https://bigjoestompbox.com/products/r-405-hard",
+    "research_record": "./research/pedals/Big Joe Stomp Box Company/R-405 HARD.md"
   },
   {
     "builder": "Big John Effects",
@@ -21893,6 +21942,209 @@
     "research_record": "./research/pedals/Maxon/TOD-9 True Tube Overdrive.md"
   },
   {
+    "builder": "Maxon / Nisshin Onpa",
+    "pedal": "D&S Distortion & Sustainer",
+    "image": "",
+    "source_page": "https://www.maxonfx.com/",
+    "research_record": "./research/pedals/Maxon / Nisshin Onpa/D&S Distortion & Sustainer.md"
+  },
+  {
+    "builder": "Maxon / Nisshin Onpa",
+    "pedal": "D&S II Distortion & Sustainer",
+    "image": "",
+    "source_page": "https://www.maxonfx.com/",
+    "research_record": "./research/pedals/Maxon / Nisshin Onpa/D&S II Distortion & Sustainer.md"
+  },
+  {
+    "builder": "Maxon / Nisshin Onpa",
+    "pedal": "DS830 Distortion Master",
+    "image": "",
+    "source_page": "https://www.maxonfx.com/",
+    "research_record": "./research/pedals/Maxon / Nisshin Onpa/DS830 Distortion Master.md"
+  },
+  {
+    "builder": "Maxon / Nisshin Onpa",
+    "pedal": "Fuzz Elements Air",
+    "image": "",
+    "source_page": "https://www.maxonfx.com/",
+    "research_record": "./research/pedals/Maxon / Nisshin Onpa/Fuzz Elements Air.md"
+  },
+  {
+    "builder": "Maxon / Nisshin Onpa",
+    "pedal": "Fuzz Elements Earth",
+    "image": "",
+    "source_page": "https://www.maxonfx.com/",
+    "research_record": "./research/pedals/Maxon / Nisshin Onpa/Fuzz Elements Earth.md"
+  },
+  {
+    "builder": "Maxon / Nisshin Onpa",
+    "pedal": "Fuzz Elements Ether",
+    "image": "",
+    "source_page": "https://www.maxonfx.com/",
+    "research_record": "./research/pedals/Maxon / Nisshin Onpa/Fuzz Elements Ether.md"
+  },
+  {
+    "builder": "Maxon / Nisshin Onpa",
+    "pedal": "Fuzz Elements Fire",
+    "image": "",
+    "source_page": "https://www.maxonfx.com/",
+    "research_record": "./research/pedals/Maxon / Nisshin Onpa/Fuzz Elements Fire.md"
+  },
+  {
+    "builder": "Maxon / Nisshin Onpa",
+    "pedal": "Fuzz Elements Void",
+    "image": "",
+    "source_page": "https://www.maxonfx.com/",
+    "research_record": "./research/pedals/Maxon / Nisshin Onpa/Fuzz Elements Void.md"
+  },
+  {
+    "builder": "Maxon / Nisshin Onpa",
+    "pedal": "Fuzz Elements Water",
+    "image": "",
+    "source_page": "https://www.maxonfx.com/",
+    "research_record": "./research/pedals/Maxon / Nisshin Onpa/Fuzz Elements Water.md"
+  },
+  {
+    "builder": "Maxon / Nisshin Onpa",
+    "pedal": "Fuzz Elements Wind",
+    "image": "",
+    "source_page": "https://www.maxonfx.com/",
+    "research_record": "./research/pedals/Maxon / Nisshin Onpa/Fuzz Elements Wind.md"
+  },
+  {
+    "builder": "Maxon / Nisshin Onpa",
+    "pedal": "OD-9",
+    "image": "",
+    "source_page": "https://www.maxonfx.com/",
+    "research_record": "./research/pedals/Maxon / Nisshin Onpa/OD-9.md"
+  },
+  {
+    "builder": "Maxon / Nisshin Onpa",
+    "pedal": "OD-9 Pro+",
+    "image": "",
+    "source_page": "https://www.maxonfx.com/",
+    "research_record": "./research/pedals/Maxon / Nisshin Onpa/OD-9 Pro+.md"
+  },
+  {
+    "builder": "Maxon / Nisshin Onpa",
+    "pedal": "OD808",
+    "image": "",
+    "source_page": "https://www.maxonfx.com/",
+    "research_record": "./research/pedals/Maxon / Nisshin Onpa/OD808.md"
+  },
+  {
+    "builder": "Maxon / Nisshin Onpa",
+    "pedal": "OD808X",
+    "image": "",
+    "source_page": "https://www.maxonfx.com/",
+    "research_record": "./research/pedals/Maxon / Nisshin Onpa/OD808X.md"
+  },
+  {
+    "builder": "Maxon / Nisshin Onpa",
+    "pedal": "OD820 Overdrive Pro+",
+    "image": "",
+    "source_page": "https://www.maxonfx.com/",
+    "research_record": "./research/pedals/Maxon / Nisshin Onpa/OD820 Overdrive Pro+.md"
+  },
+  {
+    "builder": "Maxon / Nisshin Onpa",
+    "pedal": "OOD-9 Organic Overdrive",
+    "image": "",
+    "source_page": "https://www.maxonfx.com/",
+    "research_record": "./research/pedals/Maxon / Nisshin Onpa/OOD-9 Organic Overdrive.md"
+  },
+  {
+    "builder": "Maxon / Nisshin Onpa",
+    "pedal": "OSD-9 Overdrive / Soft Distortion",
+    "image": "",
+    "source_page": "https://www.maxonfx.com/",
+    "research_record": "./research/pedals/Maxon / Nisshin Onpa/OSD-9 Overdrive / Soft Distortion.md"
+  },
+  {
+    "builder": "Maxon / Nisshin Onpa",
+    "pedal": "ROD881 Real Overdrive / Distortion",
+    "image": "",
+    "source_page": "https://www.maxonfx.com/",
+    "research_record": "./research/pedals/Maxon / Nisshin Onpa/ROD881 Real Overdrive / Distortion.md"
+  },
+  {
+    "builder": "Maxon / Nisshin Onpa",
+    "pedal": "RTD800 Real Tube Distortion",
+    "image": "",
+    "source_page": "https://www.maxonfx.com/",
+    "research_record": "./research/pedals/Maxon / Nisshin Onpa/RTD800 Real Tube Distortion.md"
+  },
+  {
+    "builder": "Maxon / Nisshin Onpa",
+    "pedal": "RTO700 Real Tube Overdrive",
+    "image": "",
+    "source_page": "https://www.maxonfx.com/",
+    "research_record": "./research/pedals/Maxon / Nisshin Onpa/RTO700 Real Tube Overdrive.md"
+  },
+  {
+    "builder": "Maxon / Nisshin Onpa",
+    "pedal": "SD-9 Sonic Distortion / Overdrive",
+    "image": "",
+    "source_page": "https://www.maxonfx.com/",
+    "research_record": "./research/pedals/Maxon / Nisshin Onpa/SD-9 Sonic Distortion / Overdrive.md"
+  },
+  {
+    "builder": "Maxon / Nisshin Onpa",
+    "pedal": "SD-9M Sonic Distortion Master",
+    "image": "",
+    "source_page": "https://www.maxonfx.com/",
+    "research_record": "./research/pedals/Maxon / Nisshin Onpa/SD-9M Sonic Distortion Master.md"
+  },
+  {
+    "builder": "Maxon / Nisshin Onpa",
+    "pedal": "SM-9 Super Metal",
+    "image": "",
+    "source_page": "https://www.maxonfx.com/",
+    "research_record": "./research/pedals/Maxon / Nisshin Onpa/SM-9 Super Metal.md"
+  },
+  {
+    "builder": "Maxon / Nisshin Onpa",
+    "pedal": "SM-9Pro Super Metal Pro+",
+    "image": "",
+    "source_page": "https://www.maxonfx.com/",
+    "research_record": "./research/pedals/Maxon / Nisshin Onpa/SM-9Pro Super Metal Pro+.md"
+  },
+  {
+    "builder": "Maxon / Nisshin Onpa",
+    "pedal": "SSD-9 Super Sonic Distortion",
+    "image": "",
+    "source_page": "https://www.maxonfx.com/",
+    "research_record": "./research/pedals/Maxon / Nisshin Onpa/SSD-9 Super Sonic Distortion.md"
+  },
+  {
+    "builder": "Maxon / Nisshin Onpa",
+    "pedal": "ST-9 Super Tube Screamer",
+    "image": "",
+    "source_page": "https://www.maxonfx.com/",
+    "research_record": "./research/pedals/Maxon / Nisshin Onpa/ST-9 Super Tube Screamer.md"
+  },
+  {
+    "builder": "Maxon / Nisshin Onpa",
+    "pedal": "ST9Pro+ Super Tube Overdrive Pro+",
+    "image": "",
+    "source_page": "https://www.maxonfx.com/",
+    "research_record": "./research/pedals/Maxon / Nisshin Onpa/ST9Pro+ Super Tube Overdrive Pro+.md"
+  },
+  {
+    "builder": "Maxon / Nisshin Onpa",
+    "pedal": "TBO-9 True Tube Booster / Overdrive",
+    "image": "",
+    "source_page": "https://www.maxonfx.com/",
+    "research_record": "./research/pedals/Maxon / Nisshin Onpa/TBO-9 True Tube Booster / Overdrive.md"
+  },
+  {
+    "builder": "Maxon / Nisshin Onpa",
+    "pedal": "TOD-9 True Tube Overdrive",
+    "image": "",
+    "source_page": "https://www.maxonfx.com/",
+    "research_record": "./research/pedals/Maxon / Nisshin Onpa/TOD-9 True Tube Overdrive.md"
+  },
+  {
     "builder": "McGregor Pedals",
     "pedal": "Crunch Plus Overdrive/Distortion",
     "image": "./assets/pedals/mcgregor-pedals/crunch-plus-overdrive-distortion/primary.webp",
@@ -24565,13 +24817,6 @@
     "image": null,
     "source_page": null,
     "research_record": "./research/pedals/Ramble FX/Marvel Drive.md"
-  },
-  {
-    "builder": "Ramble FX",
-    "pedal": "none currently produced",
-    "image": null,
-    "source_page": null,
-    "research_record": "./research/pedals/Ramble FX/none currently produced.md"
   },
   {
     "builder": "Ramble FX",
@@ -28564,52 +28809,80 @@
     "research_record": "./research/pedals/ZVEX Effects/Woolly Mammoth 7.md"
   },
   {
-    "builder": "Big Ear NYC",
-    "pedal": "Chaka - Octave Fuzz",
-    "image": "",
-    "source_page": "https://www.effectsdatabase.com/model/bigear/chaka",
-    "research_record": "./research/pedals/Big Ear NYC/Chaka - Octave Fuzz.md"
+    "builder": "JHS Pedals",
+    "pedal": "73 Rams Head",
+    "image": null,
+    "source_page": "https://jhspedals.info/products/73-rams-head",
+    "research_record": "./research/pedals/JHS Pedals/73 Rams Head.md"
   },
   {
-    "builder": "Big Joe Stomp Box Company",
-    "pedal": "B-302 ROCK",
-    "image": "",
-    "source_page": "https://bigjoestompbox.com/products/b-302-rock",
-    "research_record": "./research/pedals/Big Joe Stomp Box Company/B-302 ROCK.md"
+    "builder": "JHS Pedals",
+    "pedal": "Double Barrel V4",
+    "image": null,
+    "source_page": "https://jhspedals.info/products/double-barrel-v4",
+    "research_record": "./research/pedals/JHS Pedals/Double Barrel V4.md"
   },
   {
-    "builder": "Big Joe Stomp Box Company",
-    "pedal": "B-303 METAL",
-    "image": "",
-    "source_page": "https://bigjoestompbox.com/products/b-303-metal",
-    "research_record": "./research/pedals/Big Joe Stomp Box Company/B-303 METAL.md"
+    "builder": "JHS Pedals",
+    "pedal": "Sweet Tea V3",
+    "image": null,
+    "source_page": "https://jhspedals.info/products/sweet-tea-v3",
+    "research_record": "./research/pedals/JHS Pedals/Sweet Tea V3.md"
   },
   {
-    "builder": "Big Joe Stomp Box Company",
-    "pedal": "B-312 FREAKSHOW FUZZ (SILICON)",
-    "image": "",
-    "source_page": "https://bigjoestompbox.com/products/b-312-freakshow-fuzz-silicon",
-    "research_record": "./research/pedals/Big Joe Stomp Box Company/B-312 FREAKSHOW FUZZ (SILICON).md"
+    "builder": "JHS Pedals",
+    "pedal": "SuperBolt V2",
+    "image": null,
+    "source_page": "https://jhspedals.info/products/superbolt-v2",
+    "research_record": "./research/pedals/JHS Pedals/SuperBolt V2.md"
   },
   {
-    "builder": "Big Joe Stomp Box Company",
-    "pedal": "B-313 FREAKSHOW FUZZ (GERMANIUM)",
-    "image": "",
-    "source_page": "https://bigjoestompbox.com/products/b-307g-freakshow-fuzz",
-    "research_record": "./research/pedals/Big Joe Stomp Box Company/B-313 FREAKSHOW FUZZ (GERMANIUM).md"
+    "builder": "JHS Pedals",
+    "pedal": "Kilt V1",
+    "image": null,
+    "source_page": "https://jhspedals.info/products/kilt-v1-stug",
+    "research_record": "./research/pedals/JHS Pedals/Kilt V1, Stu G.md"
   },
   {
-    "builder": "Big Joe Stomp Box Company",
-    "pedal": "R-401 SATURATED",
-    "image": "",
-    "source_page": "https://bigjoestompbox.com/products/r-401-saturated",
-    "research_record": "./research/pedals/Big Joe Stomp Box Company/R-401 SATURATED.md"
+    "builder": "JHS Pedals",
+    "pedal": "Colour Box V1",
+    "image": null,
+    "source_page": "https://jhspedals.info/products/colour-box-v1",
+    "research_record": "./research/pedals/JHS Pedals/Colour Box V1.md"
   },
   {
-    "builder": "Big Joe Stomp Box Company",
-    "pedal": "R-405 HARD",
-    "image": "",
-    "source_page": "https://bigjoestompbox.com/products/r-405-hard",
-    "research_record": "./research/pedals/Big Joe Stomp Box Company/R-405 HARD.md"
+    "builder": "JHS Pedals",
+    "pedal": "Mini Foot Fuzz V1",
+    "image": null,
+    "source_page": "https://jhspedals.info/products/mini-foot-fuzz-v2",
+    "research_record": "./research/pedals/JHS Pedals/Mini Foot Fuzz V1.md"
+  },
+  {
+    "builder": "JHS Pedals",
+    "pedal": "Bunrunner 2 in 1",
+    "image": null,
+    "source_page": "https://jhspedals.info/products/bunrunner-hand-paint",
+    "research_record": "./research/pedals/JHS Pedals/Bunrunner 2 in 1.md"
+  },
+  {
+    "builder": "JHS Pedals",
+    "pedal": "Calhoun V2",
+    "image": null,
+    "source_page": "https://jhspedals.info/products/calhoun-hand-paint",
+    "research_record": "./research/pedals/JHS Pedals/Calhoun V2, Mike Campbell.md"
+  },
+  {
+    "builder": "JHS Pedals",
+    "pedal": "Ruby Red",
+    "image": null,
+    "source_page": "https://jhspedals.info/products/ruby-red-butch-walker",
+    "research_record": "./research/pedals/JHS Pedals/Ruby Red, Butch Walker.md"
+  },
+  {
+    "builder": "JHS Pedals",
+    "pedal": "Pandamonium",
+    "image": null,
+    "source_page": "https://jhspedals.info/products/pandamonium",
+    "research_record": "./research/pedals/JHS Pedals/Pandamonium.md"
   }
 ]
