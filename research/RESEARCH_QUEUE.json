@@ -1,41 +1,27 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-27T02:50:45.924090+00:00",
+  "generated_at": "2026-09-27T03:24:09.909029+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
   "counts": {
     "total": 3761,
     "researched": 3761,
-    "pictured": 3019,
-    "complete": 3019,
+    "pictured": 3026,
+    "complete": 3026,
     "research_pending": 0,
-    "deep_research_pending": 2009,
-    "deep_researched": 1752,
+    "deep_research_pending": 1886,
+    "deep_researched": 1875,
     "surface_ready": 3761
   },
   "next_target": {
-    "builder": "Barbarossa",
-    "pedal": "CRONUS",
+    "builder": "Barber Electronics",
+    "pedal": "Pepsiman",
     "catalog_type": "",
-    "research_record": "./research/pedals/Barbarossa/Cronus.md",
+    "research_record": "./research/pedals/Barber Electronics/Pepsiman.md",
     "research_level": "surface"
   },
   "working_set": [
-    {
-      "builder": "Barbarossa",
-      "pedal": "CRONUS",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Barbarossa/Cronus.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Barbarossa",
-      "pedal": "URANUS",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Barbarossa/URANUS.md",
-      "research_level": "surface"
-    },
     {
       "builder": "Barber Electronics",
       "pedal": "Pepsiman",
@@ -195,6 +181,20 @@
       "pedal": "Nothing Is Dead Fuzz",
       "catalog_type": "",
       "research_record": "./research/pedals/PRP Batch 082/Nothing Is Dead Fuzz.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Big Game Pedals",
+      "pedal": "Solace State",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 082/Solace State.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Big Joe Stomp Box Company",
+      "pedal": "B-301 Tube",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 082/B-301 Tube.md",
       "research_level": "surface"
     }
   ]

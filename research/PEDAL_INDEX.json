@@ -6890,8 +6890,8 @@
       "source_page": "https://www.ikebe-gakki.com/Form/Product/ProductDetail.aspx?bid=ec&pid=856327&shop=0",
       "research_record": "./research/pedals/Barbarossa/Cronus.md",
       "image_source_url": "https://www.ikebe-gakki.com/Contents/ProductImages/0/856327_LL.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Barbarossa",
@@ -6925,8 +6925,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_url": "https://newtool.jp/wp-content/uploads/2022/11/uranus-300-250-01.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Barber Electronics",
@@ -20386,8 +20386,8 @@
       "image": "./assets/pedals/celebrity-pedals/adam-driver/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Celebrity Pedals/Adam Driver.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Celebrity Pedals",
@@ -20398,8 +20398,8 @@
       "image": "./assets/pedals/celebrity-pedals/distorsean-paul/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Celebrity Pedals/Distorsean Paul.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Celebrity Pedals",
@@ -20410,8 +20410,8 @@
       "image": "./assets/pedals/celebrity-pedals/djent-reznor/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Celebrity Pedals/Djent Reznor.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Celebrity Pedals",
@@ -20422,8 +20422,8 @@
       "image": "./assets/pedals/celebrity-pedals/fuzzbulla/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Celebrity Pedals/Fuzzbulla.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Celebrity Pedals",
@@ -20434,8 +20434,8 @@
       "image": "./assets/pedals/celebrity-pedals/fuzztin-bieber/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Celebrity Pedals/Fuzztin Bieber.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Celestial Effects",
@@ -20446,8 +20446,8 @@
       "image": "./assets/pedals/celestial-effects/aquarius/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Celestial Effects/Aquarius.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Celestial Effects",
@@ -20459,8 +20459,8 @@
       "image": "./assets/pedals/celestial-effects/aries-beast-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Celestial Effects/Aries - Beast Distortion.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Celestial Effects",
@@ -20472,8 +20472,8 @@
       "image": "./assets/pedals/celestial-effects/cancer-wah-the-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Celestial Effects/Cancer - Wah The Fuzz?.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Celestial Effects",
@@ -20485,8 +20485,8 @@
       "image": "./assets/pedals/celestial-effects/capricorn-rock-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Celestial Effects/Capricorn - Rock Distortion.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Celestial Effects",
@@ -20497,8 +20497,8 @@
       "image": "./assets/pedals/celestial-effects/sagittarius-overdrive-boost/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Celestial Effects/Sagittarius - Overdrive Boost.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Celestial Effects",
@@ -20509,8 +20509,8 @@
       "image": "./assets/pedals/celestial-effects/taurus-blues-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Celestial Effects/Taurus - Blues Overdrive.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Celestial Effects",
@@ -20521,8 +20521,8 @@
       "image": "./assets/pedals/celestial-effects/virgo-rock-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Celestial Effects/Virgo - Rock Overdrive.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Celmo",
@@ -20533,8 +20533,8 @@
       "image": "./assets/pedals/celmo/pimento-sardine-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Celmo/Pimento Sardine Overdrive.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Celmo",
@@ -20545,8 +20545,8 @@
       "image": "./assets/pedals/celmo/sardine-can/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Celmo/Sardine Can.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Center Street Electronics",
@@ -20558,8 +20558,8 @@
       "image": "./assets/pedals/center-street-electronics/drone-station-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Center Street Electronics/Drone Station Fuzz.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Center Street Electronics",
@@ -20570,8 +20570,8 @@
       "image": "./assets/pedals/center-street-electronics/druid-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Center Street Electronics/Druid Fuzz.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Center Street Electronics",
@@ -20582,8 +20582,8 @@
       "image": "./assets/pedals/center-street-electronics/god-hates-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Center Street Electronics/God Hates Fuzz.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Center Street Electronics",
@@ -20596,8 +20596,8 @@
       "image": "./assets/pedals/center-street-electronics/godly-red/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Center Street Electronics/Godly Red.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Center Street Electronics",
@@ -20608,8 +20608,8 @@
       "image": "./assets/pedals/center-street-electronics/rasputin-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Center Street Electronics/Rasputin Fuzz.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Center Street Electronics",
@@ -20620,8 +20620,8 @@
       "image": "./assets/pedals/center-street-electronics/the-murphy/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Center Street Electronics/The Murphy.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Century",
@@ -20632,8 +20632,8 @@
       "image": "./assets/pedals/century/century-sdi-1-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Century/Century SDI-1 Distortion.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Century",
@@ -20644,8 +20644,8 @@
       "image": "./assets/pedals/century/century-shm-8-heavy-metal/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Century/Century SHM-8 Heavy Metal.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Ceriatone",
@@ -20656,8 +20656,8 @@
       "image": "./assets/pedals/ceriatone/centura-professional-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Ceriatone/Centura Professional Overdrive.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Ceriatone",
@@ -20668,8 +20668,8 @@
       "image": "./assets/pedals/ceriatone/horse-breaker/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Ceriatone/Horse Breaker.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "César Diaz",
@@ -20693,8 +20693,8 @@
       "image": "./assets/pedals/chadderbox-effects/loud-louder/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/ChadderBox Effects/Loud-Louder.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Chamber Of Sounds",
@@ -20705,8 +20705,8 @@
       "image": "./assets/pedals/chamber-of-sounds/green-genie/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Chamber Of Sounds/Green Genie.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Champion City Effects",
@@ -20717,8 +20717,8 @@
       "image": "./assets/pedals/champion-city-effects/cosmic-owl/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Champion City Effects/Cosmic Owl.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Champion City Effects",
@@ -20729,8 +20729,8 @@
       "image": "./assets/pedals/champion-city-effects/cosmonaut/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Champion City Effects/Cosmonaut.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Champion City Effects",
@@ -20741,8 +20741,8 @@
       "image": "./assets/pedals/champion-city-effects/el-gato-malo/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Champion City Effects/El Gato Malo.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Champion City Effects",
@@ -20755,8 +20755,8 @@
       "image": "./assets/pedals/champion-city-effects/ezekiel/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Champion City Effects/Ezekiel.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Champion City Effects",
@@ -20767,8 +20767,8 @@
       "image": "./assets/pedals/champion-city-effects/mjolnir-heavy-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Champion City Effects/Mjolnir Heavy Distortion.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Champion Leccy",
@@ -20780,8 +20780,8 @@
       "image": "./assets/pedals/champion-leccy/canny-fettle-boost/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Champion Leccy/Canny Fettle Boost.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Champion Leccy",
@@ -20793,8 +20793,8 @@
       "image": "./assets/pedals/champion-leccy/evil-twin/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Champion Leccy/Evil Twin.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Champion Leccy",
@@ -20806,8 +20806,8 @@
       "image": "./assets/pedals/champion-leccy/the-divvy/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Champion Leccy/The Divvy.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Champion Leccy",
@@ -20819,8 +20819,8 @@
       "image": "./assets/pedals/champion-leccy/the-dunsh/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Champion Leccy/The Dunsh.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Champion Leccy",
@@ -20831,8 +20831,8 @@
       "image": "./assets/pedals/champion-leccy/the-fat-gett/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Champion Leccy/The Fat Gett.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Champion Leccy",
@@ -20843,8 +20843,8 @@
       "image": "./assets/pedals/champion-leccy/the-gett/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Champion Leccy/The Gett.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Chancho Electronics",
@@ -20855,8 +20855,8 @@
       "image": "./assets/pedals/chancho-electronics/plumbus-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Chancho Electronics/Plumbus Fuzz.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Chandler",
@@ -20867,8 +20867,8 @@
       "image": "./assets/pedals/chandler/chandler-tube-driver/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Chandler/Chandler Tube Driver.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Chandler Limited",
@@ -20880,8 +20880,8 @@
       "image": "./assets/pedals/chandler-limited/germanium-drive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Chandler Limited/Germanium Drive.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Chaos Custom Shop / Chaos FX",
@@ -20892,8 +20892,8 @@
       "image": "./assets/pedals/chaos-custom-shop-chaos-fx/c-drive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Chaos Custom Shop - Chaos FX/C.Drive.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Chaos Custom Shop / Chaos FX",
@@ -20904,8 +20904,8 @@
       "image": "./assets/pedals/chaos-custom-shop-chaos-fx/fuzz-machine/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Chaos Custom Shop - Chaos FX/Fuzz Machine.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Chaos Custom Shop / Chaos FX",
@@ -20916,8 +20916,8 @@
       "image": "./assets/pedals/chaos-custom-shop-chaos-fx/k-o-drive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Chaos Custom Shop - Chaos FX/K.O. Drive.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Chaos Custom Shop / Chaos FX",
@@ -20930,8 +20930,8 @@
       "research_record": "./research/pedals/Chaos Custom Shop - Chaos FX/Lugola Fuzz.md",
       "image_source_url": "https://malibumusic.com/cdn/shop/files/IMG_5963.jpg?v=1771829424&width=1946",
       "image_source_page": "https://malibumusic.com/products/horrothia-fx-lutz-fuzz",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Chaos Custom Shop / Chaos FX",
@@ -20942,8 +20942,8 @@
       "image": "./assets/pedals/chaos-custom-shop-chaos-fx/x-drive-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Chaos Custom Shop - Chaos FX/X.Drive Distortion.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Chapter 53 Boutique Effects",
@@ -20954,8 +20954,8 @@
       "image": "./assets/pedals/chapter-53-boutique-effects/fuzzmaster/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Chapter 53 Boutique Effects/Fuzzmaster.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Charlie Paolo Custom Effects",
@@ -20966,8 +20966,8 @@
       "image": "./assets/pedals/charlie-paolo-custom-effects/bloodstone-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Charlie Paolo Custom Effects/Bloodstone Overdrive.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Charlie Paolo Custom Effects",
@@ -20978,8 +20978,8 @@
       "image": "./assets/pedals/charlie-paolo-custom-effects/obsidian-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Charlie Paolo Custom Effects/Obsidian Fuzz.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Charlie Paolo Custom Effects",
@@ -20990,8 +20990,8 @@
       "image": "./assets/pedals/charlie-paolo-custom-effects/sapphire-transparent-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Charlie Paolo Custom Effects/Sapphire - Transparent Overdrive.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Charlie Paolo Custom Effects",
@@ -21002,8 +21002,8 @@
       "image": "./assets/pedals/charlie-paolo-custom-effects/toothaker-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Charlie Paolo Custom Effects/Toothaker Distortion.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Charlie Pedals",
@@ -21014,8 +21014,8 @@
       "image": "./assets/pedals/charlie-pedals/theophane/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Charlie Pedals/Theophane.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Charlie Pedals",
@@ -21026,8 +21026,8 @@
       "image": "./assets/pedals/charlie-pedals/troubadour-2023/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Charlie Pedals/Troubadour 2023.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Charlie Pedals",
@@ -21038,8 +21038,8 @@
       "image": "./assets/pedals/charlie-pedals/troubadour-mki-5/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Charlie Pedals/Troubadour MKI.5.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Chase Bliss",
@@ -21063,8 +21063,8 @@
       "image": "./assets/pedals/chase-bliss-audio/bliss-factory/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Chase Bliss Audio/Bliss Factory.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Chase Bliss Audio",
@@ -21089,8 +21089,8 @@
       "image": "./assets/pedals/chase-bliss-audio/brothers-analog-gainstage/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Chase Bliss Audio/Brothers - Analog Gainstage.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Chase Bliss Audio",
@@ -21102,8 +21102,8 @@
       "image": "./assets/pedals/chase-bliss-audio/brothers-am/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Chase Bliss Audio/Brothers AM.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Chase Bliss Audio",
@@ -21114,8 +21114,8 @@
       "image": "./assets/pedals/chase-bliss-audio/condor-analog-eq-pre-filter/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Chase Bliss Audio/Condor - Analog EQ - Pre - Filter.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Chase Bliss Audio",
@@ -21126,8 +21126,8 @@
       "image": "./assets/pedals/chase-bliss-audio/condor-hifi-analog-eq-pre-filter/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Chase Bliss Audio/Condor Hifi - Analog EQ - Pre - Filter.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Chase Bliss Audio",
@@ -21138,8 +21138,8 @@
       "image": "./assets/pedals/chase-bliss-audio/dirt-bird/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Chase Bliss Audio/Dirt Bird.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Chase Bliss Audio",
@@ -21151,8 +21151,8 @@
       "image": "./assets/pedals/chase-bliss-audio/preamp-mkii/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Chase Bliss Audio/Preamp MKII.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Chase Tone",
@@ -21163,8 +21163,8 @@
       "image": "./assets/pedals/chase-tone/68-red-velvet-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Chase Tone/'68 Red Velvet Fuzz.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Chase Tone",
@@ -21175,8 +21175,8 @@
       "image": "./assets/pedals/chase-tone/black-stardust-bc109-silicon-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Chase Tone/Black Stardust BC109 Silicon Fuzz.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Chase Tone",
@@ -21188,8 +21188,8 @@
       "image": "./assets/pedals/chase-tone/blue-stardust-bc108-silicon-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Chase Tone/Blue Stardust BC108 Silicon Fuzz.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Chase Tone",
@@ -21200,8 +21200,8 @@
       "image": "./assets/pedals/chase-tone/candy-apple-red-glazed-germanium-fuzz-face/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Chase Tone/Candy Apple Red Glazed Germanium Fuzz Face.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Chase Tone",
@@ -21213,8 +21213,8 @@
       "image": "./assets/pedals/chase-tone/fuzz-fella-blue-bc108c/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Chase Tone/Fuzz Fella Blue BC108C.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Chase Tone",
@@ -21225,8 +21225,8 @@
       "image": "./assets/pedals/chase-tone/metallic-blue-stardust-hi-octave-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Chase Tone/Metallic Blue Stardust Hi-Octave Fuzz.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Chase Tone",
@@ -21237,8 +21237,8 @@
       "image": "./assets/pedals/chase-tone/purple-stardust-hi-octave-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Chase Tone/Purple Stardust Hi-Octave Fuzz.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Chase Tone",
@@ -21249,8 +21249,8 @@
       "image": "./assets/pedals/chase-tone/red-stardust-germanium-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Chase Tone/Red Stardust Germanium Fuzz.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Chase Tone",
@@ -21261,8 +21261,8 @@
       "image": "./assets/pedals/chase-tone/silver-stardust-bc183-2l-silicon-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Chase Tone/Silver Stardust BC183 2L Silicon Fuzz.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Chaser",
@@ -21274,8 +21274,8 @@
       "source_page": null,
       "research_record": "./research/pedals/Chaser/HM-3 Heavy Metal.md",
       "image_source_page": "https://www.effectsdatabase.com/model/chaser/hm3",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "CheeseBlocks Effects",
@@ -21286,8 +21286,8 @@
       "image": "./assets/pedals/cheeseblocks-effects/phoenix-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/CheeseBlocks Effects/Phoenix Fuzz.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "CheeseBlocks Effects",
@@ -21298,8 +21298,8 @@
       "image": "./assets/pedals/cheeseblocks-effects/the-cheese-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/CheeseBlocks Effects/THE Cheese Distortion.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Chellee Guitars",
@@ -21382,8 +21382,8 @@
       "image": "./assets/pedals/chemistry-design-werks/gigawatt-overdrive-delay/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Chemistry Design Werks/Gigawatt - Overdrive & Delay.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Cherry Music",
@@ -21430,8 +21430,8 @@
       "image": "./assets/pedals/chesapeake-effects/flagship-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Chesapeake Effects/Flagship Overdrive.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Chicago Iron",
@@ -21442,8 +21442,8 @@
       "image": "./assets/pedals/chicago-iron/octavian/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Chicago Iron/Octavian.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Chicago Stompworks",
@@ -21454,8 +21454,8 @@
       "image": "./assets/pedals/chicago-stompworks/black-fudge/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Chicago Stompworks/Black Fudge.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Chicago Stompworks",
@@ -21466,8 +21466,8 @@
       "image": "./assets/pedals/chicago-stompworks/fat-bald-guy/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Chicago Stompworks/Fat Bald Guy.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Chicago Stompworks",
@@ -21478,8 +21478,8 @@
       "image": "./assets/pedals/chicago-stompworks/gray-speck/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Chicago Stompworks/Gray Speck.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Chicago Stompworks",
@@ -21490,8 +21490,8 @@
       "image": "./assets/pedals/chicago-stompworks/greeny/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Chicago Stompworks/Greeny.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Chicago Stompworks",
@@ -21502,8 +21502,8 @@
       "image": "./assets/pedals/chicago-stompworks/legitimate-beef/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Chicago Stompworks/Legitimate Beef.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "ChiralityAudio",
@@ -21515,8 +21515,8 @@
       "image": "./assets/pedals/chiralityaudio/black-swan/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/ChiralityAudio/Black Swan.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "ChiralityAudio",
@@ -21527,8 +21527,8 @@
       "image": "./assets/pedals/chiralityaudio/splinter/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/ChiralityAudio/Splinter.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Chiu Luen",
@@ -21721,8 +21721,8 @@
       "image": "./assets/pedals/chowny-bass/fuzzster-bass-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Chowny Bass/Fuzzster Bass Fuzz.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Chris Custom",
@@ -22219,8 +22219,8 @@
       "image": "./assets/pedals/ckk-electronic/gambler/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/CKK Electronic/Gambler.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "CKK Electronic",
@@ -22231,8 +22231,8 @@
       "image": "./assets/pedals/ckk-electronic/honey-jar-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/CKK Electronic/Honey Jar - Overdrive.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "CKK Electronic",
@@ -22243,8 +22243,8 @@
       "image": "./assets/pedals/ckk-electronic/lunar-drive-vintage-amp-tone-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/CKK Electronic/Lunar Drive - Vintage Amp Tone Overdrive.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "CKK Electronic",
@@ -22255,8 +22255,8 @@
       "image": "./assets/pedals/ckk-electronic/royal-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/CKK Electronic/Royal Fuzz.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "CKK Electronic",
@@ -22267,8 +22267,8 @@
       "image": "./assets/pedals/ckk-electronic/scream-drive-two-gain-stage-classic-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/CKK Electronic/Scream Drive - Two Gain Stage Classic Overdrive.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Clarenzio",
@@ -22655,8 +22655,8 @@
       "image": "./assets/pedals/cmat-mods/black-plague/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/CMAT Mods/Black Plague.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "CMAT Mods",
@@ -22667,8 +22667,8 @@
       "image": "./assets/pedals/cmat-mods/brownie/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/CMAT Mods/Brownie.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "CMAT Mods",
@@ -22679,8 +22679,8 @@
       "image": "./assets/pedals/cmat-mods/butah/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/CMAT Mods/Butah.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "CMAT Mods",
@@ -22691,8 +22691,8 @@
       "image": "./assets/pedals/cmat-mods/ratified/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/CMAT Mods/Ratified.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "CMAT Mods",
@@ -22703,8 +22703,8 @@
       "image": "./assets/pedals/cmat-mods/signa-comp-drive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/CMAT Mods/Signa Comp-Drive.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "CMAT Mods",
@@ -22715,8 +22715,8 @@
       "image": "./assets/pedals/cmat-mods/signa-drive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/CMAT Mods/Signa Drive.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "CMAT Mods",
@@ -22727,8 +22727,8 @@
       "image": "./assets/pedals/cmat-mods/super-signa-drive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/CMAT Mods/Super Signa Drive.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "CMAT Mods",
@@ -22739,8 +22739,8 @@
       "image": "./assets/pedals/cmat-mods/tube-slammer/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/CMAT Mods/Tube Slammer.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "CMAT Mods",
@@ -22751,8 +22751,8 @@
       "image": "./assets/pedals/cmat-mods/tube-slammer-deluxe/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/CMAT Mods/Tube Slammer Deluxe.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "CMC Audio",
@@ -22763,8 +22763,8 @@
       "image": "./assets/pedals/cmc-audio/bi-filter-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/CMC Audio/Bi Filter Fuzz.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "CMC Audio",
@@ -22775,8 +22775,8 @@
       "image": "./assets/pedals/cmc-audio/proto-type-v2/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/CMC Audio/PROTO TYPE V2.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "CMI",
@@ -22787,8 +22787,8 @@
       "image": "./assets/pedals/cmi/cmi-fuzz-unit/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/CMI/CMI Fuzz Unit.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "CMI",
@@ -22799,8 +22799,8 @@
       "image": "./assets/pedals/cmi/wah-fuzz-swell/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/CMI/Wah Fuzz Swell.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "CNZ Audio",
@@ -22811,8 +22811,8 @@
       "image": "./assets/pedals/cnz-audio/gds-20-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/CNZ Audio/GDS-20 Distortion.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "CNZ Audio",
@@ -22823,8 +22823,8 @@
       "image": "./assets/pedals/cnz-audio/scm-20-crossfire-metal/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/CNZ Audio/SCM-20 Crossfire Metal.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "CNZ Audio",
@@ -22835,8 +22835,8 @@
       "image": "./assets/pedals/cnz-audio/sdu-20-dumble-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/CNZ Audio/SDU-20 Dumble Overdrive.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "CNZ Audio",
@@ -22847,8 +22847,8 @@
       "image": "./assets/pedals/cnz-audio/sfz-20-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/CNZ Audio/SFZ-20 Fuzz.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "CNZ Audio",
@@ -22859,8 +22859,8 @@
       "image": "./assets/pedals/cnz-audio/sod-20-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/CNZ Audio/SOD-20 Overdrive.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "CNZ Audio",
@@ -22871,8 +22871,8 @@
       "image": "./assets/pedals/cnz-audio/vbl-20-bluesy-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/CNZ Audio/VBL-20 Bluesy Overdrive.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "CNZ Audio",
@@ -22883,8 +22883,8 @@
       "image": "./assets/pedals/cnz-audio/vdu-20-dumbled-drive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/CNZ Audio/VDU-20 Dumbled Drive.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Cobrahawk",
@@ -23112,8 +23112,8 @@
       "image": "./assets/pedals/cog-effects/darklighter/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/COG Effects/Darklighter.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "COG Effects",
@@ -23124,8 +23124,8 @@
       "image": "./assets/pedals/cog-effects/dual-knightfall/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/COG Effects/Dual Knightfall.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "COG Effects",
@@ -23136,8 +23136,8 @@
       "image": "./assets/pedals/cog-effects/grand-tarkin-bass-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/COG Effects/Grand Tarkin Bass Fuzz.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "COG Effects",
@@ -23148,8 +23148,8 @@
       "image": "./assets/pedals/cog-effects/grand-tarkin-mk2/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/COG Effects/Grand Tarkin Mk2.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "COG Effects",
@@ -23160,8 +23160,8 @@
       "image": "./assets/pedals/cog-effects/knightfall/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/COG Effects/Knightfall.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "COG Effects",
@@ -23172,8 +23172,8 @@
       "image": "./assets/pedals/cog-effects/knightfall-66/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/COG Effects/Knightfall 66.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "COG Effects",
@@ -23184,8 +23184,8 @@
       "image": "./assets/pedals/cog-effects/mini-66-bass-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/COG Effects/Mini 66 Bass Overdrive.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "COG Effects",
@@ -23196,8 +23196,8 @@
       "image": "./assets/pedals/cog-effects/rogue-one-fuzz-octave/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/COG Effects/Rogue One Fuzz Octave.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "COG Effects",
@@ -23208,8 +23208,8 @@
       "image": "./assets/pedals/cog-effects/tarkin-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/COG Effects/Tarkin Fuzz.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "COG Effects",
@@ -23220,8 +23220,8 @@
       "image": "./assets/pedals/cog-effects/tarkin-mk2/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/COG Effects/Tarkin Mk2.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "COG Effects",
@@ -23232,8 +23232,8 @@
       "image": "./assets/pedals/cog-effects/tk-421-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/COG Effects/TK-421 Distortion.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "COG Effects",
@@ -23244,8 +23244,8 @@
       "image": "./assets/pedals/cog-effects/tk-421-x-bass-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/COG Effects/TK-421-X Bass Distortion.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "COG Effects",
@@ -23256,8 +23256,8 @@
       "image": "./assets/pedals/cog-effects/wet-nuns-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/COG Effects/Wet Nuns Fuzz.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Coggins Audio / Dinosaural",
