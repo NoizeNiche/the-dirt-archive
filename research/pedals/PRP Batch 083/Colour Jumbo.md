@@ -31,4 +31,4 @@ Rawer and grittier than modern Muff-style fuzzes, with a pronounced vintage char
 - **Archive status:** **No Photo Archived**
 
 ## Deep research verification
-Big Knob's current catalog confirms Colour Jumbo as a clone of the popular early-1970s Colorsound Tone Bender, using a silicon fuzz voice described as rawer and grittier than modern Muff designs. citeturn302732search0
+Big Knob's current catalog confirms Colour Jumbo as a clone of the popular early-1970s Colorsound Tone Bender, using a silicon fuzz voice described as rawer and grittier than modern Muff designs.
