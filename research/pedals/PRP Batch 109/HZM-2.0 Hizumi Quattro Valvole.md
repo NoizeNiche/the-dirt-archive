@@ -21,3 +21,5 @@ A surviving review documents the compact Level, Bottom and Hizumi control arrang
 
 ## Archive photo
 - **Archive status:** **No Photo Archived**
+## Deep research verification
+The exact HZM-2.0 Hizumi Quattro Valvole record documents a higher-spec Hizumi-family overdrive/distortion with **Level, Bottom and Hizumi** controls. A surviving review documents 9V centre-negative operation and the archive keeps HZM-2.0 separate from HZM-1.0 and HZM-1.2 because the model has a distinct control arrangement and construction presentation.
