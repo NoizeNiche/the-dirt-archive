@@ -63,6 +63,27 @@
     "research_record": "./research/pedals/6 Degrees FX/Amplitude Eleven.md"
   },
   {
+    "builder": "6 Degrees FX",
+    "pedal": "Hyper Catalyst",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/type/overdrive/pedal",
+    "research_record": "./research/pedals/6 Degrees FX/Hyper Catalyst.md"
+  },
+  {
+    "builder": "6 Degrees FX",
+    "pedal": "Rodeo Drive",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/type/overdrive/pedal",
+    "research_record": "./research/pedals/6 Degrees FX/Rodeo Drive.md"
+  },
+  {
+    "builder": "6 Degrees FX",
+    "pedal": "Sally Drive",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/type/overdrive/pedal",
+    "research_record": "./research/pedals/6 Degrees FX/Sally Drive.md"
+  },
+  {
     "builder": "A Sound Of Failure",
     "pedal": "Death Driver",
     "image": "./assets/pedals/a-sound-of-failure/death-driver/primary.webp",
@@ -1163,6 +1184,13 @@
     "source_page": null,
     "research_record": "./research/pedals/PRP Batch 047/Royal Cream.md",
     "photo_status": "NEEDED"
+  },
+  {
+    "builder": "Alexander Pedals",
+    "pedal": "Riff Instant Tone Sanitizer",
+    "image": null,
+    "source_page": "https://www.alexanderpedals.com/shop",
+    "research_record": "./research/pedals/Alexander Pedals/Riff Instant Tone Sanitizer.md"
   },
   {
     "builder": "Alien Amplification",
@@ -3601,6 +3629,27 @@
     "research_record": "./research/pedals/Barge Concepts/BP-1.md"
   },
   {
+    "builder": "Barge Concepts",
+    "pedal": "DB-1 Dual Boost",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/bargeconcepts/db1",
+    "research_record": "./research/pedals/Barge Concepts/DB-1 Dual Boost.md"
+  },
+  {
+    "builder": "Barge Concepts",
+    "pedal": "DB-2 Dual Boost",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/bargeconcepts/db2",
+    "research_record": "./research/pedals/Barge Concepts/DB-2 Dual Boost.md"
+  },
+  {
+    "builder": "Barge Concepts",
+    "pedal": "DB-3 Dual Boost",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/bargeconcepts/db3",
+    "research_record": "./research/pedals/Barge Concepts/DB-3 Dual Boost.md"
+  },
+  {
     "builder": "Baroni Lab",
     "pedal": "Angry Pig",
     "image": "./assets/pedals/baroni-lab/angry-pig/primary.webp",
@@ -5284,34 +5333,6 @@
     "image": null,
     "source_page": "https://www.effectsdatabase.com/model/bixonic",
     "research_record": "./research/pedals/Bixonic/EXP2001 Expandora II.md"
-  },
-  {
-    "builder": "BIXONIC",
-    "pedal": "AXENTRIX A1",
-    "image": "./assets/pedals/bixonic/axentrix-a1/primary.webp",
-    "source_page": null,
-    "research_record": "./research/pedals/PRP Batch 097/AXENTRIX A1.md"
-  },
-  {
-    "builder": "BIXONIC",
-    "pedal": "AXENTRIX II",
-    "image": "./assets/pedals/bixonic/axentrix-ii/primary.webp",
-    "source_page": "https://bixonic-sound.com/blogs/review/axentrix-ii-reveal-at-namm-2025",
-    "research_record": "./research/pedals/PRP Batch 097/AXENTRIX II.md"
-  },
-  {
-    "builder": "BIXONIC",
-    "pedal": "EXP2000DR",
-    "image": "./assets/pedals/bixonic/exp2000dr/primary.webp",
-    "source_page": null,
-    "research_record": "./research/pedals/PRP Batch 097/EXP2000DR.md"
-  },
-  {
-    "builder": "BIXONIC",
-    "pedal": "EXPANDORA",
-    "image": "",
-    "source_page": "https://bixonic-sound.com/pages/story",
-    "research_record": "./research/pedals/BIXONIC/EXPANDORA.md"
   },
   {
     "builder": "Biyang",
@@ -13724,6 +13745,34 @@
     "research_record": "./research/pedals/Crazy Tube Circuits/Ziggy V2.md"
   },
   {
+    "builder": "Crazy Tube Circuits",
+    "pedal": "Killer V",
+    "image": null,
+    "source_page": "https://crazytubecircuits.com/store/overdrive-distortion-fuzz",
+    "research_record": "./research/pedals/Crazy Tube Circuits/Killer V.md"
+  },
+  {
+    "builder": "Crazy Tube Circuits",
+    "pedal": "White Whale",
+    "image": null,
+    "source_page": "https://crazytubecircuits.com/store/overdrive-distortion-fuzz",
+    "research_record": "./research/pedals/Crazy Tube Circuits/White Whale.md"
+  },
+  {
+    "builder": "Crazy Tube Circuits",
+    "pedal": "White Whale v2",
+    "image": null,
+    "source_page": "https://crazytubecircuits.com/store/overdrive-distortion-fuzz",
+    "research_record": "./research/pedals/Crazy Tube Circuits/White Whale v2.md"
+  },
+  {
+    "builder": "Crazy Tube Circuits",
+    "pedal": "Sidekick",
+    "image": null,
+    "source_page": "https://crazytubecircuits.com/store/overdrive-distortion-fuzz",
+    "research_record": "./research/pedals/Crazy Tube Circuits/Sidekick.md"
+  },
+  {
     "builder": "Crazybox Pedals",
     "pedal": "The Box - Massive High Gain Distortion",
     "image": "./assets/pedals/crazybox-pedals/the-box-massive-high-gain-distortion/primary.webp",
@@ -16669,146 +16718,6 @@
     "image": "./assets/pedals/dwarfcraft-devices/zhago/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Dwarfcraft Devices/Zhago.md"
-  },
-  {
-    "builder": "Dwarfcraft Devices / Benjamin Hinz and Louise Woletz Hinz",
-    "pedal": "Abaddon",
-    "image": "",
-    "source_page": "https://dwarfcraftdevices.com/",
-    "research_record": "./research/pedals/Dwarfcraft Devices / Benjamin Hinz and Louise Woletz Hinz/Abaddon.md"
-  },
-  {
-    "builder": "Dwarfcraft Devices / Benjamin Hinz and Louise Woletz Hinz",
-    "pedal": "Baby Thundaa / Baby Thunder",
-    "image": "",
-    "source_page": "https://dwarfcraftdevices.com/",
-    "research_record": "./research/pedals/Dwarfcraft Devices / Benjamin Hinz and Louise Woletz Hinz/Baby Thundaa / Baby Thunder.md"
-  },
-  {
-    "builder": "Dwarfcraft Devices / Benjamin Hinz and Louise Woletz Hinz",
-    "pedal": "Bit Mangler",
-    "image": "",
-    "source_page": "https://dwarfcraftdevices.com/",
-    "research_record": "./research/pedals/Dwarfcraft Devices / Benjamin Hinz and Louise Woletz Hinz/Bit Mangler.md"
-  },
-  {
-    "builder": "Dwarfcraft Devices / Benjamin Hinz and Louise Woletz Hinz",
-    "pedal": "Dream Mangler",
-    "image": "",
-    "source_page": "https://dwarfcraftdevices.com/",
-    "research_record": "./research/pedals/Dwarfcraft Devices / Benjamin Hinz and Louise Woletz Hinz/Dream Mangler.md"
-  },
-  {
-    "builder": "Dwarfcraft Devices / Benjamin Hinz and Louise Woletz Hinz",
-    "pedal": "Eau Claire Thunder",
-    "image": "",
-    "source_page": "https://dwarfcraftdevices.com/",
-    "research_record": "./research/pedals/Dwarfcraft Devices / Benjamin Hinz and Louise Woletz Hinz/Eau Claire Thunder.md"
-  },
-  {
-    "builder": "Dwarfcraft Devices / Benjamin Hinz and Louise Woletz Hinz",
-    "pedal": "Gears",
-    "image": "",
-    "source_page": "https://dwarfcraftdevices.com/",
-    "research_record": "./research/pedals/Dwarfcraft Devices / Benjamin Hinz and Louise Woletz Hinz/Gears.md"
-  },
-  {
-    "builder": "Dwarfcraft Devices / Benjamin Hinz and Louise Woletz Hinz",
-    "pedal": "Hair of the Dog",
-    "image": "",
-    "source_page": "https://dwarfcraftdevices.com/",
-    "research_record": "./research/pedals/Dwarfcraft Devices / Benjamin Hinz and Louise Woletz Hinz/Hair of the Dog.md"
-  },
-  {
-    "builder": "Dwarfcraft Devices / Benjamin Hinz and Louise Woletz Hinz",
-    "pedal": "HAX",
-    "image": "",
-    "source_page": "https://dwarfcraftdevices.com/",
-    "research_record": "./research/pedals/Dwarfcraft Devices / Benjamin Hinz and Louise Woletz Hinz/HAX.md"
-  },
-  {
-    "builder": "Dwarfcraft Devices / Benjamin Hinz and Louise Woletz Hinz",
-    "pedal": "Necromancer",
-    "image": "",
-    "source_page": "https://dwarfcraftdevices.com/",
-    "research_record": "./research/pedals/Dwarfcraft Devices / Benjamin Hinz and Louise Woletz Hinz/Necromancer.md"
-  },
-  {
-    "builder": "Dwarfcraft Devices / Benjamin Hinz and Louise Woletz Hinz",
-    "pedal": "Reese Lightning",
-    "image": "",
-    "source_page": "https://dwarfcraftdevices.com/",
-    "research_record": "./research/pedals/Dwarfcraft Devices / Benjamin Hinz and Louise Woletz Hinz/Reese Lightning.md"
-  },
-  {
-    "builder": "Dwarfcraft Devices / Benjamin Hinz and Louise Woletz Hinz",
-    "pedal": "Robot Devil",
-    "image": "",
-    "source_page": "https://dwarfcraftdevices.com/",
-    "research_record": "./research/pedals/Dwarfcraft Devices / Benjamin Hinz and Louise Woletz Hinz/Robot Devil.md"
-  },
-  {
-    "builder": "Dwarfcraft Devices / Benjamin Hinz and Louise Woletz Hinz",
-    "pedal": "Rot Yr Brain",
-    "image": "",
-    "source_page": "https://dwarfcraftdevices.com/",
-    "research_record": "./research/pedals/Dwarfcraft Devices / Benjamin Hinz and Louise Woletz Hinz/Rot Yr Brain.md"
-  },
-  {
-    "builder": "Dwarfcraft Devices / Benjamin Hinz and Louise Woletz Hinz",
-    "pedal": "SheFuzz",
-    "image": "",
-    "source_page": "https://dwarfcraftdevices.com/",
-    "research_record": "./research/pedals/Dwarfcraft Devices / Benjamin Hinz and Louise Woletz Hinz/SheFuzz.md"
-  },
-  {
-    "builder": "Dwarfcraft Devices / Benjamin Hinz and Louise Woletz Hinz",
-    "pedal": "Silver Rose v2",
-    "image": "",
-    "source_page": "https://dwarfcraftdevices.com/",
-    "research_record": "./research/pedals/Dwarfcraft Devices / Benjamin Hinz and Louise Woletz Hinz/Silver Rose v2.md"
-  },
-  {
-    "builder": "Dwarfcraft Devices / Benjamin Hinz and Louise Woletz Hinz",
-    "pedal": "Spectacular Aenima",
-    "image": "",
-    "source_page": "https://dwarfcraftdevices.com/",
-    "research_record": "./research/pedals/Dwarfcraft Devices / Benjamin Hinz and Louise Woletz Hinz/Spectacular Aenima.md"
-  },
-  {
-    "builder": "Dwarfcraft Devices / Benjamin Hinz and Louise Woletz Hinz",
-    "pedal": "Surrender Dorothy",
-    "image": "",
-    "source_page": "https://dwarfcraftdevices.com/",
-    "research_record": "./research/pedals/Dwarfcraft Devices / Benjamin Hinz and Louise Woletz Hinz/Surrender Dorothy.md"
-  },
-  {
-    "builder": "Dwarfcraft Devices / Benjamin Hinz and Louise Woletz Hinz",
-    "pedal": "The Great Destroyer",
-    "image": "",
-    "source_page": "https://dwarfcraftdevices.com/",
-    "research_record": "./research/pedals/Dwarfcraft Devices / Benjamin Hinz and Louise Woletz Hinz/The Great Destroyer.md"
-  },
-  {
-    "builder": "Dwarfcraft Devices / Benjamin Hinz and Louise Woletz Hinz",
-    "pedal": "The Internet",
-    "image": "",
-    "source_page": "https://dwarfcraftdevices.com/",
-    "research_record": "./research/pedals/Dwarfcraft Devices / Benjamin Hinz and Louise Woletz Hinz/The Internet.md"
-  },
-  {
-    "builder": "Dwarfcraft Devices / Benjamin Hinz and Louise Woletz Hinz",
-    "pedal": "The Secret Destroyer",
-    "image": "",
-    "source_page": "https://dwarfcraftdevices.com/",
-    "research_record": "./research/pedals/Dwarfcraft Devices / Benjamin Hinz and Louise Woletz Hinz/The Secret Destroyer.md"
-  },
-  {
-    "builder": "Dwarfcraft Devices / Benjamin Hinz and Louise Woletz Hinz",
-    "pedal": "Zhago",
-    "image": "",
-    "source_page": "https://dwarfcraftdevices.com/",
-    "research_record": "./research/pedals/Dwarfcraft Devices / Benjamin Hinz and Louise Woletz Hinz/Zhago.md"
   },
   {
     "builder": "EarthQuaker Devices",
@@ -19854,6 +19763,13 @@
     "image": "./assets/pedals/jackson-audio/the-optimist-dual-overdrive-eq/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Jackson Audio/The Optimist Dual Overdrive & EQ.md"
+  },
+  {
+    "builder": "Jackson Audio",
+    "pedal": "1484 - Twin Twelve Pedal",
+    "image": null,
+    "source_page": "https://jackson.audio/collections/pedals",
+    "research_record": "./research/pedals/Jackson Audio/1484 - Twin Twelve Pedal.md"
   },
   {
     "builder": "JAM Pedals",
@@ -24698,6 +24614,13 @@
     "image": "./assets/pedals/old-blood-noise-endeavors/pardner/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Old Blood Noise Endeavors/Pardner.md"
+  },
+  {
+    "builder": "Old Blood Noise Endeavors",
+    "pedal": "Haunt Fuzz w/ Clickless Switching",
+    "image": null,
+    "source_page": "https://www.oldbloodnoise.com/",
+    "research_record": "./research/pedals/Old Blood Noise Endeavors/Haunt Fuzz w - Clickless Switching.md"
   },
   {
     "builder": "Orange Amplification",
@@ -29801,5 +29724,145 @@
     "image": null,
     "source_page": "https://www.effectsdatabase.com/model/tubeworks",
     "research_record": "./research/pedals/Tube Works/911 Tube Driver.md"
+  },
+  {
+    "builder": "Dinosaural",
+    "pedal": "Cogmeister",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/dinosaural",
+    "research_record": "./research/pedals/Dinosaural/Cogmeister.md"
+  },
+  {
+    "builder": "Dinosaural",
+    "pedal": "Hypoid Drive",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/dinosaural",
+    "research_record": "./research/pedals/Dinosaural/Hypoid Drive.md"
+  },
+  {
+    "builder": "Dinosaural",
+    "pedal": "OPA-101 Overdriven Pre-Amp",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/dinosaural",
+    "research_record": "./research/pedals/Dinosaural/OPA-101 Overdriven Pre-Amp.md"
+  },
+  {
+    "builder": "Dinosaural",
+    "pedal": "Tube Bender",
+    "image": null,
+    "source_page": "https://www.effectsdatabase.com/model/dinosaural",
+    "research_record": "./research/pedals/Dinosaural/Tube Bender.md"
+  },
+  {
+    "builder": "Dawner Prince Electronics",
+    "pedal": "DIKTATOR MKII",
+    "image": null,
+    "source_page": "https://dawnerprince.com/products/diktator",
+    "research_record": "./research/pedals/Dawner Prince Electronics/DIKTATOR MKII.md"
+  },
+  {
+    "builder": "Dawner Prince Electronics",
+    "pedal": "RED ROX",
+    "image": null,
+    "source_page": "https://dawnerprince.com/",
+    "research_record": "./research/pedals/Dawner Prince Electronics/RED ROX.md"
+  },
+  {
+    "builder": "Dawner Prince Electronics",
+    "pedal": "DIKTATOR",
+    "image": null,
+    "source_page": "https://dawnerprince.com/products/diktator",
+    "research_record": "./research/pedals/Dawner Prince Electronics/DIKTATOR.md"
+  },
+  {
+    "builder": "Land Devices",
+    "pedal": "HP-2",
+    "image": null,
+    "source_page": "https://landdevices.com/collections/catalog",
+    "research_record": "./research/pedals/Land Devices/HP-2.md"
+  },
+  {
+    "builder": "Land Devices",
+    "pedal": "Hunter",
+    "image": null,
+    "source_page": "https://landdevices.com/collections/catalog",
+    "research_record": "./research/pedals/Land Devices/Hunter.md"
+  },
+  {
+    "builder": "Land Devices",
+    "pedal": "Moonbow",
+    "image": null,
+    "source_page": "https://landdevices.com/collections/catalog",
+    "research_record": "./research/pedals/Land Devices/Moonbow.md"
+  },
+  {
+    "builder": "LICHTLÆRM AUDIO",
+    "pedal": "Altar",
+    "image": null,
+    "source_page": "https://lichtlaermaudio.com/shop/altar",
+    "research_record": "./research/pedals/LICHTLÆRM AUDIO/Altar.md"
+  },
+  {
+    "builder": "LICHTLÆRM AUDIO",
+    "pedal": "Medusa",
+    "image": null,
+    "source_page": "https://lichtlaermaudio.com/shop",
+    "research_record": "./research/pedals/LICHTLÆRM AUDIO/Medusa.md"
+  },
+  {
+    "builder": "LICHTLÆRM AUDIO",
+    "pedal": "Ragnarøk",
+    "image": null,
+    "source_page": "https://lichtlaermaudio.com/shop",
+    "research_record": "./research/pedals/LICHTLÆRM AUDIO/Ragnarøk.md"
+  },
+  {
+    "builder": "LICHTLÆRM AUDIO",
+    "pedal": "Total Distortion Worship MKII",
+    "image": null,
+    "source_page": "https://lichtlaermaudio.com/shop/tdw",
+    "research_record": "./research/pedals/LICHTLÆRM AUDIO/Total Distortion Worship MKII.md"
+  },
+  {
+    "builder": "LICHTLÆRM AUDIO",
+    "pedal": "Thorn",
+    "image": null,
+    "source_page": "https://lichtlaermaudio.com/shop",
+    "research_record": "./research/pedals/LICHTLÆRM AUDIO/Thorn.md"
+  },
+  {
+    "builder": "LICHTLÆRM AUDIO",
+    "pedal": "Gehenna",
+    "image": null,
+    "source_page": "https://lichtlaermaudio.com/shop",
+    "research_record": "./research/pedals/LICHTLÆRM AUDIO/Gehenna.md"
+  },
+  {
+    "builder": "LICHTLÆRM AUDIO",
+    "pedal": "The King in Yellow",
+    "image": null,
+    "source_page": "https://lichtlaermaudio.com/shop",
+    "research_record": "./research/pedals/LICHTLÆRM AUDIO/The King in Yellow.md"
+  },
+  {
+    "builder": "LICHTLÆRM AUDIO",
+    "pedal": ".Ritual.",
+    "image": null,
+    "source_page": "https://lichtlaermaudio.com/shop/ritual",
+    "research_record": "./research/pedals/LICHTLÆRM AUDIO/.Ritual..md"
+  },
+  {
+    "builder": "LICHTLÆRM AUDIO",
+    "pedal": "Aquaria",
+    "image": null,
+    "source_page": "https://lichtlaermaudio.com/shop/aquaria",
+    "research_record": "./research/pedals/LICHTLÆRM AUDIO/Aquaria.md"
+  },
+  {
+    "builder": "Does It Doom?",
+    "pedal": "Fuzzcoven",
+    "image": null,
+    "source_page": "https://doesitdoom.com/product/fuzzcoven/",
+    "research_record": "./research/pedals/Does It Doom?/Fuzzcoven.md"
   }
 ]
