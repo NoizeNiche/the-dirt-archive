@@ -38,3 +38,23 @@ With the fuzz all the way down, it’s like a screamer … MSRP: Was: Now: $185.
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Cusack Music's Screamer Fuzz V3 is cataloged as a fuzz / overdrive pedal.
+
+### Verified version references
+- The evidence references: V2, V3.
+
+### Verified sound evidence
+SKU: Cusack-ScrmrFuzzV3 UPC: 850039942259 This pedal includes all of the great tone of the Screamer Fuzz V2 with the addition of a low-pass tone control that many of our customers were asking for.
+With the fuzz all the way down, it’s like a screamer … MSRP: Was: Now: $185.00 (You save: ) Current Stock: 6 Quantity: Decrease Quantity of undefined Increase Quantity of undefined Adding to cart… The item has been added Wish List Create New Wish List Copy link: Share:
+
+### Sources checked in this pass
+1. Screamer Fuzz V3 Overdrive and Fuzz Pedal | Cusack Music: https://cusackmusic.com/screamer-fuzz-v3/
+2. Screamer Fuzz V3 - Cusack Music: https://fulleffectdistro.com/screamer-fuzz-v3/
+3. Cusack Music Screamer Fuzz V3 Fuzz Effects Pedal | Firehouse Guitars: https://www.firehouseguitars.com/product/22837526/cusack-music-screamer-fuzz-v3-fuzz-effects-pedal
+4. catalog/override source: https://reverb.com/item/92621822-cusack-music-screamer-fuzz-v3-pink-earthquakes-day-2of2

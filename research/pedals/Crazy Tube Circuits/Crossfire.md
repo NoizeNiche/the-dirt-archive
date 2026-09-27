@@ -75,3 +75,21 @@ Independent GuitarPlayer testing describes the pedal as sensitive to touch and g
 1. Crazy Tube Circuits - Crossfire
 2. GuitarPlayer - Crazy Tube Circuits Crossfire Review
 3. Guitar World - Crazy Tube Circuits Crossfire announcement
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+A clipping toggle switch selects between symmetrical (original) or asymmetrical clipping for enhanced touch-sensitive drive characteristics while a gain toggle adds more gain and alters the low frequency response making it reminiscent of placing two of the same overdrive pedals in series.
+
+### Verified sound evidence
+From the big bold lows, sparkly highs and slightly scooped mids, to the powerful sound of a solid state rectified 4x 6L6GC power amp or the sponginess of a tube rectified 2x 6L6GC power amp selectable through the headroom switch.
+Match that to the green mid-hump overdrive we’ve all grown to love, upon its inception in the late 70s, found on the right side.
+We chose to accurately recreate the circuit of this classic overdrive but with the addition of some of the most common modifications the pedal has seen throughout the years of its mass production or boutique variations.
+
+### Sources checked in this pass
+1. Crossfire — Crazy Tube Circuits: https://crazytubecircuits.com/crossfire
+2. Crazy Tube Circuits Crossfire Review | GuitarPlayer: https://www.guitarplayer.com/reviews/crazy-tube-circuits-crossfire-review
+3. Crazy Tube Circuits debuts the Crossfire, inspired by “one of the most iconic pedal/amp combinations in history” | Guitar World: https://www.guitarworld.com/news/crazy-tube-circuits-crossfire
+4. Crazy Tube Circuits Crossfire Test: SRV Sound in a Box ⋆ delamar.de: https://www.delamar.de/test/crazy-tube-circuits-crossfire-test/

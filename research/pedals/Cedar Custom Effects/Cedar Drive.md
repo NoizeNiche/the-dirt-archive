@@ -39,3 +39,21 @@ Pedal of the Day characterizes the Cedar Drive as low-to-mid gain with a warm, t
 
 ## Sources checked
 1. Pedal of the Day — Cedar Custom Effects Cedar Drive: https://www.pedal-of-the-day.com/2016/02/08/cedar-custom-effects-cedar-drive/
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+The Cedar Drive from Cedar Custom Effects is the overdrive on display today, There’s not a whole lot to figure out on this low-mid gain original design overdrive pedal, as it just consists of 3 knobs and In/Outputs.
+
+### Verified version references
+- The evidence references: MKII.
+
+### Verified sound evidence
+The Cedar Drive from Cedar Custom Effects is the overdrive on display today, There’s not a whole lot to figure out on this low-mid gain original design overdrive pedal, as it just consists of 3 knobs and In/Outputs.
+Utilizing the OPA2134 chip, which is known for having loads of clarity at high gain, the Cedar Drive maintains the original character of your guitar’s tone, while pushing your sound with a warm and thick overdrive sound.
+The Tone control acts more like a treble booster, however, which helps keep the mids and low-end in the mix until you really crank it up, at which point the high end takes over the sound.
+
+### Sources checked in this pass
+1. Cedar Custom Effects Cedar Drive - Pedal of the Day: https://www.pedal-of-the-day.com/2016/02/08/cedar-custom-effects-cedar-drive/

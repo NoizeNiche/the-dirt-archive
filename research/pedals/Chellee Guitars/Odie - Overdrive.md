@@ -38,3 +38,23 @@ Odie spans conventional TS-style overdrive, cleaner boost, and more aggressive M
 1. Premier Guitar — Chellee Odie Overdrive: https://www.premierguitar.com/chellee-guitars-introduces-the-odie-overdrive-pedal
 2. Guitar World — Chellee Odie Overdrive review: https://www.guitarworld.com/gear/gear-review-chellee-guitars-odie-overdrive-pedal
 3. Chellee Guitars — The Lineage of Odie: https://chellee.com/2014/08/lineage-odie-happened-odelya-overdrive/
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Gear Review: Chellee Guitars Odie Overdrive Pedal
+
+### Verified version references
+- The evidence references: V3.
+
+### Verified sound evidence
+Gear Review: Chellee Guitars Odie Overdrive Pedal
+The Lineage of Odie (What happened to the Odelya Overdrive?) August 27, 2014 / in Odie Overdrive / by ChelleeGuitars Back in 2007 I started dreaming of owning my own boutique modded overdrive pedal.
+The idea was to give players a pedal that was not only useful in more situations, but also give them some extra flavors to keep them from getting tired of their tone.
+
+### Sources checked in this pass
+1. Chellee Guitars Introduces the Odie Overdrive Pedal - Premier Guitar: https://www.premierguitar.com/chellee-guitars-introduces-the-odie-overdrive-pedal
+2. Gear Review: Chellee Guitars Odie Overdrive Pedal | Guitar World: https://www.guitarworld.com/gear/gear-review-chellee-guitars-odie-overdrive-pedal
+3. The Lineage of Odie (What happened to the Odelya Overdrive?) – Chellee Guitars LLC: https://chellee.com/2014/08/lineage-odie-happened-odelya-overdrive/

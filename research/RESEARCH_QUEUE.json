@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-27T10:07:45.632077+00:00",
+  "generated_at": "2026-09-27T10:10:58.369162+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,8 +10,8 @@
     "pictured": 3133,
     "complete": 3133,
     "research_pending": 0,
-    "deep_research_pending": 1554,
-    "deep_researched": 2688,
+    "deep_research_pending": 1491,
+    "deep_researched": 2751,
     "surface_ready": 4242
   },
   "next_target": {
@@ -65,122 +65,10 @@
       "research_level": "surface"
     },
     {
-      "builder": "Blackhawk Amplifiers",
-      "pedal": "Ramshead Fuzz",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 101/Ramshead Fuzz.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Blackhawk Amplifiers",
-      "pedal": "Triangle Fuzz",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 101/Triangle Fuzz.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "BlackOutEffectors",
-      "pedal": "Special Twosome Deluxe",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 103/Special Twosome Deluxe.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "BlackOutEffectors",
-      "pedal": "Twosome Dual Fuzz",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 103/Twosome Dual Fuzz.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Bob Burt Cabinets & Pedals",
-      "pedal": "Bob Burt AH-1 Allen Hinds Signature Distortion",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 106/Bob Burt AH-1 Allen Hinds Signature Distortion.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Bob Burt Cabinets & Pedals",
-      "pedal": "Bob Burt Overdrive",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 106/Bob Burt Overdrive.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Bondi Effects",
-      "pedal": "Del Mar Overdrive mk1",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 107/Del Mar Overdrive mk1.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Bondi Effects",
-      "pedal": "Sick As High Shredroom Editions",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 107/Sick As High Shredroom Editions.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Boot-Leg Hand Made Effects",
-      "pedal": "BLN-1.0 Blues#Nine",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 108/BLN-1.0 Blues Nine.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Boot-Leg Hand Made Effects",
-      "pedal": "HZM-1.2 Hizumi",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 109/HZM-1.2 Hizumi.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Boot-Leg Hand Made Effects",
-      "pedal": "HZM-2.0 Hizumi Quattro Valvole",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 109/HZM-2.0 Hizumi Quattro Valvole.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Boot-Leg Hand Made Effects",
-      "pedal": "JBK-1.0 Jaw Breaker",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 109/JBK-1.0 Jaw Breaker.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Boot-Leg Hand Made Effects",
-      "pedal": "JZF-1.0 Jazz Fuzz",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 109/JZF-1.0 Jazz Fuzz.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Boot-Leg Hand Made Effects",
-      "pedal": "RRP-1.0 Rock'n Roll Party",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 109/RRP-1.0 Rock'n Roll Party.md",
-      "research_level": "surface"
-    },
-    {
       "builder": "Bootlegger Guitar",
       "pedal": "Tube Shooter Overdrive",
       "catalog_type": "",
       "research_record": "./research/pedals/PRP Batch 109/Tube Shooter Overdrive.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "BOSS",
-      "pedal": "BC-2 Combo Drive",
-      "catalog_type": "",
-      "research_record": "./research/pedals/BOSS/BC-2 Combo Drive.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "BOSS",
-      "pedal": "BP-1W Booster/Preamp",
-      "catalog_type": "",
-      "research_record": "./research/pedals/BOSS/BP-1W Booster/Preamp.md",
       "research_level": "surface"
     },
     {
@@ -195,6 +83,118 @@
       "pedal": "DF-2 Super Feedbacker & Distortion",
       "catalog_type": "",
       "research_record": "./research/pedals/BOSS/DF-2 Super Feedbacker & Distortion.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "BOSS",
+      "pedal": "DN-2 Dyna Drive",
+      "catalog_type": "",
+      "research_record": "./research/pedals/BOSS/DN-2 Dyna Drive.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "BOSS",
+      "pedal": "DS-1-4A 40th Anniversary Distortion",
+      "catalog_type": "",
+      "research_record": "./research/pedals/BOSS/DS-1-4A 40th Anniversary Distortion.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "BOSS",
+      "pedal": "HM-3 Hyper Metal",
+      "catalog_type": "",
+      "research_record": "./research/pedals/BOSS/HM-3 Hyper Metal.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "BOSS",
+      "pedal": "MT-2-3A 30th Anniversary Metal Zone",
+      "catalog_type": "",
+      "research_record": "./research/pedals/BOSS/MT-2-3A 30th Anniversary Metal Zone.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "BOSS",
+      "pedal": "MZ-2 Digital Metalizer",
+      "catalog_type": "",
+      "research_record": "./research/pedals/BOSS/MZ-2 Digital Metalizer.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "BOSS",
+      "pedal": "OD-2 Turbo OverDrive",
+      "catalog_type": "",
+      "research_record": "./research/pedals/BOSS/OD-2 Turbo OverDrive.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "BOSS",
+      "pedal": "OD-2R Turbo OverDrive",
+      "catalog_type": "",
+      "research_record": "./research/pedals/BOSS/OD-2R Turbo OverDrive.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "BOSS",
+      "pedal": "PW-2 Power Driver",
+      "catalog_type": "",
+      "research_record": "./research/pedals/BOSS/PW-2 Power Driver.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "BOSS",
+      "pedal": "SD-1-4A Super OverDrive",
+      "catalog_type": "",
+      "research_record": "./research/pedals/BOSS/SD-1-4A Super OverDrive.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "BOSS",
+      "pedal": "SD-2 Dual OverDrive",
+      "catalog_type": "",
+      "research_record": "./research/pedals/BOSS/SD-2 Dual OverDrive.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "BOSS",
+      "pedal": "TB-2W Tone Bender",
+      "catalog_type": "",
+      "research_record": "./research/pedals/BOSS/TB-2W Tone Bender.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "BOSS",
+      "pedal": "XT-2 Xtortion",
+      "catalog_type": "",
+      "research_record": "./research/pedals/BOSS/XT-2 Xtortion.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Boulevard",
+      "pedal": "BDT-10 Distortion",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 114/bdt-10-distortion.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Boulevard",
+      "pedal": "BOD-10 Overdrive",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 114/bod-10-overdrive.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Bouteek",
+      "pedal": "Overdriver - Preamp",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 114/overdriver-preamp.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Bouteek",
+      "pedal": "Twin Drive and Boost - Ultimate Drive with Fuzz Inject",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 114/twin-drive-and-boost-ultimate-drive-with-fuzz-inject.md",
       "research_level": "surface"
     }
   ]

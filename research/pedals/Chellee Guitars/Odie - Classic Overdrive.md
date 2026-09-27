@@ -35,3 +35,26 @@ Chellee positions the Classic as the more vintage-feeling Odie flavor, with more
 1. Chellee Guitars — Odie Classic Overdrive: https://chellee.com/product/odc/
 2. Effects Database — Odie Classic Overdrive: https://www.effectsdatabase.com/model/chellee/odie/classic
 3. Premier Guitar — Quick Hit: Chellee Odie Classic Overdrive: https://www.premierguitar.com/gear/quick-hit-chellee-odie-classic-overdrive
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Chellee Guitars's Odie - Classic Overdrive is cataloged as an overdrive pedal.
+
+### Verified version references
+- The evidence references: V2, V3, Version 2.
+
+### Verified diode terms
+- Silicon diode, LED.
+
+### Verified sound evidence
+Chellee Guitars Odie - Classic Overdrive
+Vintage inspired overdrive Three drive texture settings: Silicon diode clipping, LED clipping, and clean boost.
+EQ voicing shift switch True bypass Handmade in the USA Two-year limited warranty Requires 9-18V 2.1mm DC adapter, approximately 7 mA current draw Odie Classic takes vintage gain texture and pairs it with the clarity and versatility of the Odie Modified Overdrive.
+
+### Sources checked in this pass
+1. Quick Hit: Chellee Odie Classic Overdrive - Premier Guitar: https://www.premierguitar.com/gear/quick-hit-chellee-odie-classic-overdrive
+2. Chellee Guitars Odie - Classic Overdrive | Effects Database: https://www.effectsdatabase.com/model/chellee/odie/classic
+3. Odie Classic Overdrive – Chellee Guitars LLC: https://chellee.com/product/odc/

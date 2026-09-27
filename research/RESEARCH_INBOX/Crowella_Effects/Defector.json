@@ -2,21 +2,31 @@
   "builder": "Crowella Effects",
   "pedal": "Defector",
   "status": "VERIFIED_EVIDENCE_STAGED",
-  "independent_exact_source_count": 2,
+  "independent_exact_source_count": 3,
   "sources": [
     {
       "url": "https://www.rockboard.de/en/pedalPedia/Crowella-Effects/Defector/68977027/",
       "title": "Defector by Crowella Effects | RockBoard | PedalPedia",
       "h1": "Defector",
       "excerpt": "",
-      "host": "www.rockboard.de"
+      "host": "www.rockboard.de",
+      "source_kind": "catalog_verified"
     },
     {
       "url": "https://www.facebook.com/crowellaeffects/posts/update-timedefector-pedals-expected-to-be-sent-out-on-the-28th-may-be-a-day-or-t/2476399189061525/",
       "title": "Update Time! Defector pedals -... - Crowella Effects",
       "h1": "",
       "excerpt": "",
-      "host": "www.facebook.com"
+      "host": "www.facebook.com",
+      "source_kind": "catalog_verified"
+    },
+    {
+      "url": "https://soundcloud.com/adamcrowell1990/defector-3",
+      "title": "Stream Defector 3 by Crowella | Listen online for free on SoundCloud",
+      "h1": "Defector 3 by Crowella",
+      "excerpt": "Stream Defector 3 by Crowella | Listen online for free on SoundCloud SoundCloud JavaScript is disabled You need to enable JavaScript to use SoundCloud Show me how to enable it Defector 3 by Crowella published on 2019-03-27T22:44:21Z Audio samples of the Defector pedal, on bass. Signal chain: Bass &gt; Defector &gt; UAD Apollo Twin 2 Duo &gt; Pro Tools 12 &gt; Waves CLA76 Compressor &gt; Ampeg B15N Amp Sim (additional on recordings two and three) Recorded by Daniel Keating at The Underground ANM Users who like Defector 3 Users who reposted Defector 3 Playlists containing Defector 3 More tracks like Defector 3 License: all-rights-reserved Your current browser isn't compatible with SoundCloud. Please download one of our supported browsers. Need help? Chrome | Firefox | Safari | Edge Sorry! Something went wrong Is your network connection unstable or browser outdated? I need help Popular searches",
+      "host": "soundcloud.com",
+      "source_kind": "catalog_verified"
     }
   ],
   "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."

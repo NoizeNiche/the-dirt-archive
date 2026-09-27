@@ -1,0 +1,25 @@
+{
+  "builder": "Correct Sound",
+  "pedal": "Black Sunn",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 2,
+  "sources": [
+    {
+      "url": "https://modulargrid.net/p/correct-sound-custom-black-sunn",
+      "title": "Correct Sound Custom Black Sunn - Pedal on ModularGrid",
+      "h1": "Custom Black Sunn",
+      "excerpt": "Correct Sound Custom Black Sunn - Pedal on ModularGrid Pedals Eurorack Modcan A MOTM Frac Moog Unit AE Modular Buchla Serge 500 Series Pedals FRM MKTPL Pedals Pedalboards Manufacturers Forum Marketplace Login Sign Up You have to enable Javascript to do any fancy stuff on this site! Custom Black Sunn Correct Sound Distortion Dimensions 146 mm wide 120 mm high Current Draw 1200 mA / 12 V DC Price $300 No info about availability. MG ID: 39485 Distortion Preamp Tube preamp with stone warmer in a compact body. Having combined our MT tube preamp with a stone warmer we get The Black Sunn preamp. Our new pedal has two channels. One of them is a stone channel which is built on the base of RAT Distortion pedal. The other one is a tube channel built on the base of preamp section ofSunn Model T 1973 (we use 2 tubes JJ ECC83-S). The channels can function separately as well as together. When both channels are switched on, the channels are commutated successively. The first goes RAT channel and warms channel Model T that coming afterwards . If both channels are off the signal passes directly from input to output (True bypass). Enclosure dimensions: 146x120x38mm (5.70 x 4.70 x 1.50 inch). This preamp functions from stabilize power supply 12V DC 1200 mA (not included into the set). submitted Jun 21st 2022, 16:39 by nidhogg8 | last Change Jun 16th, 11:11 by modulargrid Marketplace sell and buy used pedals YouTube unfiltered search results for Custom Black Sunn Right Now on eBay Comments Search for Custom Black Sunn in Forum Post in a new Thread Affiliate Disclosure This page contains affiliate links from eBay , Reverb.com and other partners for which ModularGrid may be compensated. Impressum Privacy Policy Terms of Service Cookie Preferences Top The Message How much is the fish? Close",
+      "host": "modulargrid.net",
+      "source_kind": "catalog_verified"
+    },
+    {
+      "url": "https://reverb.com/item/50213441-correct-sound-the-black-sunn-sunn-model-t-preamp-pedal-w-rat-distortion-built-in",
+      "title": "catalog/override source",
+      "h1": "",
+      "excerpt": "",
+      "host": "reverb.com",
+      "source_kind": "reverb"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}

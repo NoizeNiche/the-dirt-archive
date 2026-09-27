@@ -42,3 +42,14 @@ The documented design moves from overdrive/distortion toward intense fuzz as the
 ## Sources checked
 1. Effects Database - Coopersonic Dirtbox: https://www.effectsdatabase.com/model/coopersonic/dirtbox
 2. Soundgas - Coopersonic Dirtbox: https://soundgas.com/products/coopersonic-dirtbox
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Coopersonic's Dirtbox is cataloged as a distortion / fuzz / overdrive pedal.
+
+### Sources checked in this pass
+1. catalog/override source: https://www.effectsdatabase.com/model/coopersonic/dirtbox
+2. COOPERSONIC DIRTBOX FOR SALE – Soundgas: https://soundgas.com/products/coopersonic-dirtbox

@@ -16,3 +16,17 @@
 - **Sources checked:**
   - https://carolineguitar.com/product/theblues/
   - https://www.effectsdatabase.com/model/caroline
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+It’s a very straightforward circuit with a couple twists, and if someone were to say “is that all there is to it?” our reply would be “it was all that we needed.” To all the blues doctors, blues lawyers, and blues financial planners who keep our industry afloat: thank you!
+
+### Verified sound evidence
+It can go from transparent "always-on" light drive in one mode to a gnarly raw drive in the other.
+If our Hawaiian Pizza is 30% drive and 70% fuzz, this is more like 85% drive, 15% fuzz.
+
+### Sources checked in this pass
+1. THE BLUES - Caroline Guitar Company - Caroline Guitar Company: https://carolineguitar.com/product/theblues/

@@ -45,3 +45,13 @@ The builder's target is the classic British fuzz character associated with early
 
 ## Source note
 The surviving detailed public technical documentation for this exact model is the builder's exact product page. No independent component-level source was established during the archive's verification pass, so the record intentionally does not add unverified circuit or diode claims.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Crazy Rock'n'Roll Effecter's TONE BENDER M.K Ⅰ. Ⅴ is cataloged as a fuzz pedal.
+
+### Sources checked in this pass
+1. Tone Bender | Crazy Rock'n'roll Effecter: https://www.c-r-effecter.com/tone-bender

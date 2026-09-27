@@ -49,3 +49,14 @@ Reverb descriptions characterize the Strutter as particularly suited to blues-or
 ## Sources checked
 1. Effects Database - Coolpedals Strutter: https://www.effectsdatabase.com/model/coolpedals/strutter
 2. Reverb - CoolPedals Strutter: https://reverb.com/item/6993307-coolpedals-strutter
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Coolpedals's Strutter is cataloged as an overdrive pedal.
+
+### Sources checked in this pass
+1. catalog/override source: https://reverb.com/item/6993307-coolpedals-strutter
+2. catalog/override source: https://www.effectsdatabase.com/model/coolpedals/strutter

@@ -38,3 +38,28 @@ This limited production model features Germanium overdrive clipping and our orig
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+MSRP: Was: Now: $195.00 (You save ) SKU: UPC: 850039942266 Current Stock: Adding to cart… The item has been added Add to Wish List Create New Wish List Facebook Email Print Description The Cusack Music Screamer Fuzz Germanium is a new take on our classic Screamer Fuzz.
+
+### Verified color/finish evidence
+- To top it off , we also added a light pipe LED with a nickel plated brass bezel, plus a Terridium finish.
+
+### Verified version references
+- The evidence references: V2, V3.
+
+### Verified diode terms
+- LED.
+
+### Verified sound evidence
+MSRP: Was: Now: $195.00 (You save ) SKU: UPC: 850039942266 Current Stock: Adding to cart… The item has been added Add to Wish List Create New Wish List Facebook Email Print Description The Cusack Music Screamer Fuzz Germanium is a new take on our classic Screamer Fuzz.
+(Both fuzz and overdrive are in the same circuit and are inter-dependant.) We've also made it compatible with higher voltage power supplies, added a tone circuit, and equipped it with some proprietary milled aluminum knobs.
+If you are looking for a unique overdrive/fuzz that has a variety of personalities and some added sonic quirks, you've come to the right place!
+
+### Sources checked in this pass
+1. Screamer Fuzz Germanium Overdrive and Fuzz | Cusack Music: https://cusackmusic.com/screamer-fuzz-germanium/
+2. Cusack Music Screamer Fuzz Germanium: https://www.masterguitarworks.com/products/cusack-music-screamer-fuzz-germanium/

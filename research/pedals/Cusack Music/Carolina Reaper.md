@@ -37,3 +37,23 @@ The left side hosts a scalding high-gain Germanium fuzz.
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+The Carolina Reaper is true bypass, offers soft-touch switching, and independent controls for each circuit - all in a durable enclosure.
+
+### Verified transistor/device terms
+- Germanium fuzz.
+
+### Verified sound evidence
+MSRP: Was: Now: $229.00 (You save ) SKU: UPC: 850039942006 Current Stock: Adding to cart… The item has been added Add to Wish List Create New Wish List Facebook Email Print Description Thanks to the Carolina Reaper, your drive section just got a whole lot scarier.
+The left side hosts a scalding high-gain Germanium fuzz.
+However, if you dare to use both the overdrive and the fuzz together, you’ll fling open a portal to intergalactic doom.
+
+### Sources checked in this pass
+1. Carolina Reaper - Cusack Music / Haunted Labs: https://cusackmusic.com/carolina-reaper/
+2. Carolina Reaper - Cusack Music / Haunted Labs: https://fulleffectdistro.com/carolina-reaper/
+3. catalog/override source: https://www.guitarfxdirect.com/product/cusack-carolina-reaper/

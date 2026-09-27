@@ -1,0 +1,25 @@
+{
+  "builder": "Copilot FX",
+  "pedal": "Trek",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 2,
+  "sources": [
+    {
+      "url": "https://www.copilotfx.com/trek.html",
+      "title": "Copilot Fx Trek Pulse Width Fuzz Pedal",
+      "h1": "",
+      "excerpt": "Copilot Fx Trek Pulse Width Fuzz Pedal Home Blog Products Store Retailers About Forum Contact About It's a variable pulse width Fuzz pedal and oscillator. The signal at the input is converted into a square wave with an adjustable amount of the on/off time of the wave. A dry signal is run in parallel of the fuzz voice, to add some clarity, and oscillation footswitch is included to add more chaotic, morse key-ing secret alien messages. Controls Oscillation toggle: selects oscillation type. Gate: amount of signal into the circuit. Width: set the desire duty cycle. Amount: tune the pitch of the oscillation (when you press the right momentary footswitch). Vol: Amount of volume. Dry: parallel dry signal volume, to add some balance and clarity. Tone: cuts the high end to set the fuzz voice from subtle to full blast. Exp / CV Jack: external control of the width via TRS expression pedal or 0-5v cv signal. Momentary Switch: activates the oscillation Specs Silk Screened artwork with enamel ink into a powder coated aluminium case Dimensions: 4.5&quot; x 2 1/2&quot; x 2 1/2&quot; Powered only by DC 9v power Jack (center negative), no batteries option Expression Jack: external control of the pulse width, TRS expression jack or 0-5v CV. Compatible with the Broadcast , Broadband and Bandwidth Search the blog Mutations / Variations / Inventions / based around the Trek Manual Manual &copy; Copilot fx Instagram Facebook",
+      "host": "www.copilotfx.com",
+      "source_kind": "manufacturer"
+    },
+    {
+      "url": "http://copilotfx.com/data/wordpress/tag/trek/",
+      "title": "trek \u2013 Copilot Fx Blog",
+      "h1": "Tag: trek",
+      "excerpt": "trek \u2013 Copilot Fx Blog Skip to content Copilot Fx Blog Where your sonics dreams come true Menu and widgets Recent Posts Copilot Fx Brainzilla dual tap tempo lfo with sequencer pedal September 6, 2017 Copilot Fx Arrow Airwaves Supreme white noise generator with custom Artwork September 1, 2017 Copilot Fx Portal Blend Mixer Fx loop pedal with expression cv input August 24, 2017 Custom Copilot Fx Kinkilin Delay with CV controls August 19, 2017 Copilot Fx Polypus Supreme August 18, 2017 Archives September 2017 August 2017 December 2016 October 2016 August 2016 February 2016 January 2016 December 2015 November 2015 October 2015 August 2015 Categories custom orders redesign Uncategorized Meta Log in Entries RSS Comments RSS WordPress.org Tag: trek Custom Trek 10 knobber, pulse width fuzz and oscillation machine pedal This one was a request by a member of ilovefuzz, it is a super TREK, I like it so much i built 4, if you are interested email me $130 for the trek alone or $180 for the trek/broadcast combo (note that both the trek and broadcast are blems, they both have some slight scratches and were used). The 10 knobber Trek, it has a dual parallel sound, side A is a hot overdrive/distortion signal so you can add balance/clarity to the overall signal, while side B is a pulse width fuzz, you can mix and match both sides to taste. The pulse width is similar to an square wave fuzz sound, but you can shape the on/off time of the wave via the range knobs, there are 2 range knobs which are linked to the second footswitch, so you can go from 2 sounds on the fly, it also has the gate and tone knob. The second footswitch also allows to activate the oscillation, in this version there is a OSC knob to fine tune the pitch, a 4 way rotary switch (the knob on the side) to turn off the oscillation or using 3 positions to fine tune the osc range (from high pitches to low tumbling pulses), 2 extra toggles one to add modulation to the osc and other to affect it\u2019s tone. The knob on the top is to cut the fuzz signal to recreate some tremfuzz action. The second range knob also sets the amount of modulation to recreate the PWM tones. Expression/CV jack to add the modulation to the pedal. Posted on October 4, 2016 Categories custom orders Tags broadcast , fuzz , pwm , trek Proudly powered by WordPress",
+      "host": "copilotfx.com",
+      "source_kind": "manufacturer"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}

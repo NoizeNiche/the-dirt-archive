@@ -34,3 +34,17 @@ The exact model name Overdrive AMP appears in that catalog, establishing the nam
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+CUVAVE / M-VAVE's Overdrive AMP is cataloged as an overdrive pedal.
+
+### Verified sound evidence
+The exact model name Overdrive AMP appears in that catalog, establishing the named overdrive model as a product in the maker's lineup rather than an inferred generic amplifier effect.
+
+### Sources checked in this pass
+1. M-VAVE Cuvave Overdrive AMP: https://www.efectomusica.cl/mvave-overdrive-amp
+2. M-VAVE - Product Ecosystem: https://www.m-vave.com/products

@@ -2,28 +2,39 @@
   "builder": "Cusack Music",
   "pedal": "Screamer Fuzz V3",
   "status": "VERIFIED_EVIDENCE_STAGED",
-  "independent_exact_source_count": 3,
+  "independent_exact_source_count": 4,
   "sources": [
     {
       "url": "https://cusackmusic.com/screamer-fuzz-v3/",
       "title": "Screamer Fuzz V3 Overdrive and Fuzz Pedal | Cusack Music",
       "h1": "Screamer Fuzz V3 - Fuzzdrive",
       "excerpt": "MSRP: Was: Now: $185.00 (You save )",
-      "host": "cusackmusic.com"
+      "host": "cusackmusic.com",
+      "source_kind": "manufacturer"
     },
     {
       "url": "https://fulleffectdistro.com/screamer-fuzz-v3/",
       "title": "Screamer Fuzz V3 - Cusack Music",
       "h1": "Screamer Fuzz V3 - Fuzzdrive",
-      "excerpt": "SKU: Cusack-ScrmrFuzzV3 UPC: 850039942259 This pedal includes all of the great tone of the Screamer Fuzz V2 with the addition of a low-pass tone control that many of our customers were asking for. With the fuzz all the way down, it’s like a screamer … MSRP: Was: Now: $185.00 (You save: ) Current Stock: 6 Quantity: Decrease Quantity of undefined Increase Quantity of undefined Adding to cart… The item has been added Wish List Create New Wish List Copy link: Share:",
-      "host": "fulleffectdistro.com"
+      "excerpt": "SKU: Cusack-ScrmrFuzzV3 UPC: 850039942259 This pedal includes all of the great tone of the Screamer Fuzz V2 with the addition of a low-pass tone control that many of our customers were asking for. With the fuzz all the way down, it\u2019s like a screamer \u2026 MSRP: Was: Now: $185.00 (You save: ) Current Stock: 6 Quantity: Decrease Quantity of undefined Increase Quantity of undefined Adding to cart\u2026 The item has been added Wish List Create New Wish List Copy link: Share:",
+      "host": "fulleffectdistro.com",
+      "source_kind": "catalog_verified"
     },
     {
       "url": "https://www.firehouseguitars.com/product/22837526/cusack-music-screamer-fuzz-v3-fuzz-effects-pedal",
       "title": "Cusack Music Screamer Fuzz V3 Fuzz Effects Pedal | Firehouse Guitars",
       "h1": "",
       "excerpt": "",
-      "host": "www.firehouseguitars.com"
+      "host": "www.firehouseguitars.com",
+      "source_kind": "catalog_verified"
+    },
+    {
+      "url": "https://reverb.com/item/92621822-cusack-music-screamer-fuzz-v3-pink-earthquakes-day-2of2",
+      "title": "catalog/override source",
+      "h1": "",
+      "excerpt": "",
+      "host": "reverb.com",
+      "source_kind": "reverb"
     }
   ],
   "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."

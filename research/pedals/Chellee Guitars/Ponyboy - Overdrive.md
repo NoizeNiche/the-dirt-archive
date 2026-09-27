@@ -38,3 +38,24 @@ The Ponyboy is designed for a clear clean boost and transparent low-gain overdri
 ## Sources checked
 1. Chellee Guitars — Ponyboy Overdrive V3: https://chellee.com/product/ponyboy/
 2. Chellee Guitars — Version 2 Effects: https://chellee.com/version-2-effects-whats-new/
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Chellee Guitars's Ponyboy - Overdrive is cataloged as an overdrive pedal.
+
+### Verified version references
+- The evidence references: V3.
+
+### Verified diode terms
+- 1N34A.
+
+### Verified sound evidence
+Ponyboy Overdrive V3 $ 189.00 Ponyboy is a Klon Centaur based overdrive offering both a buffered clean boost with plenty of chime and a rich transparent overdrive for pushing your edge of breakup tones into singing lead.
+Ponyboy V3 is the newest evolution of the original Ponyboy Overdrive.
+My choice to avoid NOS and out of production parts has left some players feeling less enthusiastic about its higher gain sounds though.
+
+### Sources checked in this pass
+1. Ponyboy Overdrive V3 – Chellee Guitars LLC: https://chellee.com/product/ponyboy/

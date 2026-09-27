@@ -52,3 +52,22 @@ CFR is designed to cover classic clean-boost to low/medium-overdrive behavior, t
 ## Photo
 - **Archive status:** No local photo archived in this research pass.
 - **Exact-model visual references checked:** Critter builder material and exact CFR Reverb listings.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Critter Electronics's CFR Klone is cataloged as a distortion / overdrive pedal.
+
+### Verified diode terms
+- led.
+
+### Verified sound evidence
+Model III Overdrive: A Blues Breaker with a charge pump for high headroom.
+Instead of a single transistor boost after the BB such as the typical MG style circuit, there is a charge pump powered two stage pre-amp with individual controls inside.
+Think Blues Breaker tone on steroids, beefier.
+
+### Sources checked in this pass
+1. catalog/override source: https://reverb.com/item/79240618-critter-electronics-cfr-klone
+2. Critter — Critter Electronics: https://critterelectronics.com/critter

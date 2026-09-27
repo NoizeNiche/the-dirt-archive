@@ -38,3 +38,25 @@ Like the Screamer Bass, it’s Tube Screamer-inspired overdrive is modified for 
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+The Screamer Bass Fuzz is designed to fix this.
+
+### Verified version references
+- The evidence references: V2, V3.
+
+### Verified diode terms
+- LED.
+
+### Verified sound evidence
+The Screamer Bass Fuzz is designed to fix this.
+Like the Screamer Bass, it’s Tube Screamer-inspired overdrive is modified for bass guitar, but with an additional fuzz circuit for EVEN MORE GAIN.
+You can mix either the overdrive or the fuzz to your liking.
+
+### Sources checked in this pass
+1. Cusack Music Screamer Bass Fuzz - The Artisan's Corner: Where Skill Meets Imagination: https://www.artisanscornerz.com/product/cusack-music-screamer-bass-fuzz/
+2. Screamer Fuzz Bass Overdrive and Fuzz | Cusack Music: https://cusackmusic.com/screamer-fuzz-bass/

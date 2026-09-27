@@ -34,3 +34,16 @@ Critter Electronics' official Shop page lists “Critter - CRR Klone - Ships Now
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+The exact product name CRR Klone is therefore directly identified on the builder's own shop catalog.
+
+### Verified sound evidence
+Critter Electronics' official Shop page lists “Critter - CRR Klone - Ships Now!” as a distinct product, separately from the CFR Klone, Model III Overdrive, 1978R Distortion and other Critter pedals shown on the same page.
+
+### Sources checked in this pass
+1. Shop — Critter Electronics: https://critterelectronics.com/shop

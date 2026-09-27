@@ -58,3 +58,32 @@ The manufacturer describes Classic Fuzz as bright, aggressive and capable of sat
 1. Creber Instruments - Classic Fuzz
 2. Stomp Box Steals - Creber Instruments Classic Fuzz
 3. Guitar Pedal X - Creber Instruments Classic Fuzz
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+THE ‘CLASSIC FUZZ’ IS A WILD BUT VERSATILE DEVICE WHICH HAS THE POTENTIAL TO REPLICATE THE FUZZY MADNESS WE’VE ALL ENJOYED SINCE THE 1960 s .
+
+### Verified color/finish evidence
+- I recommend the $130.00 USD __TOL RED Germanium Fuzz which not only has the vintage parts but is built into an all steel sloped top period correct casing.
+- SATIN VINTAGE- STYLE ACRYLIC FINISH.
+
+### Verified version references
+- The evidence references: MkII.
+
+### Verified transistor/device terms
+- germanium Fuzz, BC108, SILICON TRANSISTORS.
+
+### Verified diode terms
+- LED.
+
+### Verified sound evidence
+STOMP BOX STEALS: FUZZ- CREBER INSTRUMENTS Classic Fuzz...
+Ewing / LENARD Re-Inventions View my complete profile Sunday, August 17, 2025 FUZZ- CREBER INSTRUMENTS Classic Fuzz...
+$200.00 USD Creber I N S T R U M E N T S CASSICFUZZ The company refers to the pedal vaguely as 60's germanium Fuzz.
+
+### Sources checked in this pass
+1. STOMP BOX STEALS: FUZZ- CREBER INSTRUMENTS Classic Fuzz... very, very good BUT ?: https://stompboxsteals.blogspot.com/2025/08/fuzz-creber-instruments-classic-fuzz.html
+2. Classic Fuzz: https://www.creberinstruments.com/page27.html

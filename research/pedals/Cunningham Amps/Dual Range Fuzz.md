@@ -39,3 +39,26 @@ Medium Gain Silicon (premium NOS BC108s) Higher Gain Silicon (premium NOS BC109s
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+by Paolo De Gregorio The Cunningham Amps Dual Range Fuzz is a high-end, hand-wired Tone Bender-inspired circuit made in New Zealand.
+
+### Verified version references
+- The evidence references: MK 1.
+
+### Verified transistor/device terms
+- BC108s, BC109s.
+
+### Verified sound evidence
+by Paolo De Gregorio The Cunningham Amps Dual Range Fuzz is a high-end, hand-wired Tone Bender-inspired circuit made in New Zealand.
+The circuit is based on the MK 1.6 of the venerable vintage fuzz, but the clipping transistor diode is customizable with these options, each hand selected and tested: Germanium (premium select NOS devices) Hybrid (one germanium and one silicon for the best of both worlds).
+We added this pedal to our article about the best Tone Bender-style pedals .
+
+### Sources checked in this pass
+1. Dual Range Fuzz - Germanium Edition | Cunningham Amps: https://www.cunninghamamps.co.nz/product-page/dual-range-fuzz-germanium
+2. Cunningham Amps Dual Range Fuzz | Delicious Audio: https://delicious-audio.com/cunningham-amps-dual-range-fuzz/
+3. Dual Range Fuzz by Cunningham Amps | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/Cunningham-Amps/Dual-Range-Fuzz/432758150/

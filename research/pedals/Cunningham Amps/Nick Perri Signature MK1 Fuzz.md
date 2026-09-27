@@ -36,3 +36,17 @@ The verified evidence packet did not contain enough pedal-specific sonic descrip
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Cunningham Amps's Nick Perri Signature MK1 Fuzz is cataloged as a fuzz pedal.
+
+### Verified version references
+- The evidence references: MK1.
+
+### Sources checked in this pass
+1. Nick Perri Signature MK1 Fuzz | Cunningham Amps: https://www.cunninghamamps.co.nz/product-page/nick-perri-signature-mk1-fuzz
+2. Cunningham Amps - Nick Perri Signature MK1 Fuzz #001 in...: https://www.facebook.com/cunninghamamps/posts/nick-perri-signature-mk1-fuzz-001-in-custom-desert-gold-finish-%EF%B8%8F%EF%B8%8Fwere-soon-to-be/935364245258470/

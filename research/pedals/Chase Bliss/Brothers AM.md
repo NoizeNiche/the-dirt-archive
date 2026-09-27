@@ -43,3 +43,23 @@ The Boost mode provides a clear, lower-gain push; Overdrive supplies a softer, o
 ## Sources checked
 1. Chase Bliss — Brothers AM story: https://www.chasebliss.com/brothers-am-story
 2. Chase Bliss Audio Brothers AM manual: https://www.manualslib.com/manual/3741440/Chase-Bliss-Audio-Brothers-Am.html
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Made in collaboration with Analog Man, Brothers AM is a triple stack of saturation based on the King of Tone transparent overdrive.
+
+### Verified version references
+- The evidence references: MKII.
+
+### Verified sound evidence
+TONE 1 & 2 C Controls the voicing, allowing you to brighten or darken the sound.
+MODE SELECTION D Selects the circuit, choosing between BOOST, OVERDRIVE, or DISTORTION.
+Made in collaboration with Analog Man, Brothers AM is a triple stack of saturation based on the King of Tone transparent overdrive.
+
+### Sources checked in this pass
+1. Brothers AM Story | Discover Your Sound Today — Chase Bliss: https://www.chasebliss.com/brothers-am-story
+2. CHASE BLISS AUDIO BROTHERS AM MANUAL Pdf Download | ManualsLib: https://www.manualslib.com/manual/3741440/Chase-Bliss-Audio-Brothers-Am.html
+3. Pinterest: https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.manualslib.com%2Fmanual%2F3741440%2FChase-Bliss-Audio-Brothers-Am.html&description=CHASE+BLISS+AUDIO+BROTHERS+AM+MANUAL+Pdf+Download

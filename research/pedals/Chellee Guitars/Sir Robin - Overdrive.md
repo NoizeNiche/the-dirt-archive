@@ -36,3 +36,25 @@ The Tone and Presence controls provide broader high-frequency shaping than a con
 ## Sources checked
 1. Chellee Guitars — Sir Robin Overdrive: https://chellee.com/product/sir-robin-overdrive/
 2. Delicious Audio — Chellee Sir Robin: https://delicious-audio.com/seen-at-namm-chellee-sir-robin-overdrive/
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Chellee Guitars's Sir Robin - Overdrive is cataloged as an overdrive pedal.
+
+### Verified version references
+- The evidence references: V2, V3.
+
+### Verified diode terms
+- LED.
+
+### Verified sound evidence
+Sir Robin Overdrive $ 179.00 Sir Robin Overdrive is a Blues Breaker based overdrive with expanded voicing options and exceptional build quality resulting in very low noise and unparalleled reliability.
+It has more headroom and a much more versatile EQ structure.
+The tone control is paired with a Presence control that acts a bit like a variable bright switch.
+
+### Sources checked in this pass
+1. Sir Robin Overdrive – Chellee Guitars LLC: https://chellee.com/product/sir-robin-overdrive/
+2. Seen At NAMM: Chellee Sir Robin Overdrive | Delicious Audio: https://delicious-audio.com/seen-at-namm-chellee-sir-robin-overdrive/

@@ -53,3 +53,32 @@ The ’55 position produces raw, loose low-end Tweed Deluxe-style overdrive with
 1. Crazy Tube Circuits - Falcon
 2. GuitarPlayer - Crazy Tube Circuits Falcon and Killer V Reviews
 3. Mark's Guitar Shop - Crazy Tube Circuits Falcon
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+The Crazy Tube Circuits Falcon is a JFET-based, boutique amp-in-a-box overdrive pedal handcrafted in Greece, engineered to meticulously emulate the preamp, phase inverter, power amp, and rectifier sag of two legendary vintage Fender amplifiers.
+
+### Verified version references
+- The evidence references: v2.
+
+### Verified transistor/device terms
+- 2N5457.
+
+### Verified diode terms
+- 1N5234B.
+
+### Verified sound evidence
+The Crazy Tube Circuits Falcon is a JFET-based, boutique amp-in-a-box overdrive pedal handcrafted in Greece, engineered to meticulously emulate the preamp, phase inverter, power amp, and rectifier sag of two legendary vintage Fender amplifiers.
+By Liam Carter July 13, 2026 What Is the Falcon Overdrive—and Why Does It Matter to Practicing Guitarists?
+For educators and serious practitioners, the Falcon isn’t just another color in the palette; it’s a pedagogical tool that rewards technique, exposes dynamic nuance, and reinforces core concepts like gain staging, impedance matching, and harmonic balance.
+
+### Sources checked in this pass
+1. Falcon — Crazy Tube Circuits: https://crazytubecircuits.com/falcon
+2. Crazy Tube Circuits Falcon: https://www.marksguitarshop.com/shop/Effect-Pedals/p/Crazy-Tube-Circuits-Falcon.htm
+3. CRAZY TUBE CIRCUITS FALCON: https://www.boxguitar.com/en/overdrive/4639-crazy-tube-circuits-falcon.html
+4. Crazy Tube Circuits Falcon - Acoustic, Electric & Bass Guitars | Crafted Sound, Reliable Performance & Timeless Style: https://www.puretoneguitar.com/product/crazy-tube-circuits-falcon/
+5. Crazy Tube Circuits Falcon and Killer V Reviews | GuitarPlayer: https://www.guitarplayer.com/reviews/crazy-tube-circuits-falcon-and-killer-v-reviews
+6. Crazy Tube Circuits Releases The Falcon Overdrive: A Deep Technical and Pedagogical Analysis for Guitarists | GearStrings: https://gearstrings.com/practice-tips/crazy-tube-circuits-releases-the-falcon-overdrive

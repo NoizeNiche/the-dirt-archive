@@ -52,3 +52,22 @@ The pedal can move from pulse-width fuzz into oscillating, Morse-like and more c
 ## Sources checked
 1. Copilot FX Trek: https://www.copilotfx.com/trek.html
 2. Copilot FX Blog - Custom Trek 10 knobber: https://copilotfx.com/data/wordpress/2016/10/
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Copilot Fx Trek Pulse Width Fuzz Pedal Home Blog Products Store Retailers About Forum Contact About It's a variable pulse width Fuzz pedal and oscillator.
+
+### Verified color/finish evidence
+- Momentary Switch: activates the oscillation Specs Silk Screened artwork with enamel ink into a powder coated aluminium case Dimensions: 4.5" x 2 1/2" x 2 1/2" Powered only by DC 9v power Jack (center negative), no batteries option Expression Jack: external control of the pulse width, TRS expression jack or 0-5v CV.
+
+### Verified sound evidence
+Copilot Fx Trek Pulse Width Fuzz Pedal Home Blog Products Store Retailers About Forum Contact About It's a variable pulse width Fuzz pedal and oscillator.
+A dry signal is run in parallel of the fuzz voice, to add some clarity, and oscillation footswitch is included to add more chaotic, morse key-ing secret alien messages.
+Tone: cuts the high end to set the fuzz voice from subtle to full blast.
+
+### Sources checked in this pass
+1. Copilot Fx Trek Pulse Width Fuzz Pedal: https://www.copilotfx.com/trek.html
+2. trek – Copilot Fx Blog: http://copilotfx.com/data/wordpress/tag/trek/

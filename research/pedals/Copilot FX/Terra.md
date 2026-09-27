@@ -47,3 +47,22 @@ Terra is designed to move across classic, swelling, velcro-like, gated/mosquito,
 
 ## Sources checked
 1. Copilot FX Terra: https://www.copilotfx.com/terra.html
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Copilot Fx Terra Fuzz Pedal Home Blog Products Store Retailers About Forum Contact About Terra is a straight up Fuzz box machine.
+
+### Verified color/finish evidence
+- Specs Silk Screened artwork with enamel ink into a powder coated aluminium case Dimensions: 4.5" x 2 1/2" x 2 1/2" Powered only by DC 9v power Jack (center negative), no batteries option Expression Jack: external control of the octave fuzz voice volume via TRS expression jack or 0-5v CV signal.
+
+### Verified sound evidence
+Copilot Fx Terra Fuzz Pedal Home Blog Products Store Retailers About Forum Contact About Terra is a straight up Fuzz box machine.
+There are 6 controls to give you the option to tailor your fuzz tone.
+The range goes from classic, swelling, velcro-ish, gated / mosquito, to straight riffing machine, octave-ish, tremfuzz .
+
+### Sources checked in this pass
+1. Copilot Fx Terra Fuzz Pedal: https://www.copilotfx.com/terra.html
+2. Mutations / Variations / Inventions / based around the terra: http://copilotfx.com/data/wordpress/tag/terra/

@@ -46,3 +46,14 @@ Copper Gear describes a very wide silicon-fuzz range, from near-clean operation 
 1. Effects Database - Copper Gear Distorta Destructo
 2. Reverb - CopperGear Distorta Destructo Fuzz Distortion
 3. Effects Database - Copper Gear: Steve Goldsborough interview
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Copper Gear's Distorta Destructo is cataloged as a distortion / fuzz pedal.
+
+### Sources checked in this pass
+1. catalog/override source: https://www.effectsdatabase.com/model/coppergear/distorta/destructo
+2. catalog/override source: https://reverb.com/item/62732649-coppergear-distorta-destructo-fuzz-distortion-copper-gear

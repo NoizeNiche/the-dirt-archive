@@ -35,3 +35,16 @@ This site contains affiliate links for which I may be compensated Cyclone OD-30 
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Cyclone's OD-30 Overdrive is cataloged as an overdrive pedal.
+
+### Sources checked in this pass
+1. Cyclone OD-30 Overdrive | Effects Database: https://www.effectsdatabase.com/model/cyclone/od30
+2. Cyclone OD-30 Overdrive Guitar Effects Pedal Tested Working ... - eBay: https://www.ebay.com/itm/800279833068
+3. Cyclone OD-30 Overdrive - Made in Japan - Reverb: https://reverb.com/item/84871677-cyclone-od-30-overdrive-made-in-japan
+4. Cyclone OD-30 Overdrive Guitar Effects Pedal Tested Working ... - eBay: https://www.ebay.co.uk/itm/800279833068

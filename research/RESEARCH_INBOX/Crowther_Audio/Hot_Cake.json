@@ -2,28 +2,39 @@
   "builder": "Crowther Audio",
   "pedal": "Hot Cake",
   "status": "VERIFIED_EVIDENCE_STAGED",
-  "independent_exact_source_count": 3,
+  "independent_exact_source_count": 4,
   "sources": [
     {
       "url": "https://www.truetonemusic.com/products/crowther-audio-hot-cake-overdrive-pedal",
-      "title": "Crowther Audio Hot Cake Overdrive Guitar Pedal Made in New Zealand V2 — Truetone Music American Express Apple Pay Diners Club Discover Google Pay Mastercard PayPal Shop Pay Venmo Visa",
+      "title": "Crowther Audio Hot Cake Overdrive Guitar Pedal Made in New Zealand V2 \u2014 Truetone Music American Express Apple Pay Diners Club Discover Google Pay Mastercard PayPal Shop Pay Venmo Visa",
       "h1": "Crowther Audio Hot Cake Overdrive Guitar Pedal Made in New Zealand V2",
       "excerpt": "SKU 20CRO001 by Crowther Audio Original price $ 249.99 - Original price $ 249.99 Original price $ 249.99 $ 249.99 - $ 249.99 Current price $ 249.99 | / Quantity Add to cart Crowther Audio Hotcake Pedal Hand-made in New Zealand by Paul Crowther, the Hotcake is a boost/overdrive pedal designed to leave the undistorted component of the guitar sound unchanged while providing a nice fat distortion sound without resorting to a treble cut circuit which will also affect the guitars tonality. Easy to use with its three controls you can get a clean volume boost by increasing the Level control, increasing the Drive will give you a thick distortion sound with a little bit of edge to it, and the Presence control adds some mid-range punch to the sounds. This is the updated version of the Hot Cake, refreshed by Paul Crowther with a newer version of the \"Bluesberry\" setting dubbed \"+Cream\" and available to activate via a toggle switch as opposed to the older version with an internal switch. There's also an extended frequency \"XLF\" switch! Two slight changes that make the already incredible Hot Cake pedal even better! The XLF setting is for X tended L ow F requency for bass etc.. The +CREAM switch has a somewhat smoother overdrive sound, even more so than the previous internal Bluesberry setting. The +CREAM setting has slightly less headroom, which means slightly more sustain but lower output level, so a small increase of the Level control setting may be required in this mode. **Please not that the Hot Cake does not include a battery. . Share this: Share on Facebook Tweet on Twitter Share on LinkedIn Pin on Pinterest Added to your cart: ** total_quantity ** | ** unit_price ** / ** unit_measure ** (- ) Cart subtotal View cart ( ) Checkout",
-      "host": "www.truetonemusic.com"
+      "host": "www.truetonemusic.com",
+      "source_kind": "catalog_verified"
     },
     {
       "url": "https://www.hotroxuk.com/the-crowther-hot-cake-distortion-v2.html",
       "title": "Crowther Audio Hot Cake Distortion V2 | Classic Overdrive & Distortion Pedal",
       "h1": "",
-      "excerpt": "Crowther Audio Hot Cake Distortion V2 £179.99 £149.99 Be the first to review this product In stock SKU CROWTHER-HC-V2 Brand Crowther Audio Size Chart Trust --:--:-- Order now, for delivery to you on - Sat 26th Sep 2026 (Delivery Options Available)",
-      "host": "www.hotroxuk.com"
+      "excerpt": "Crowther Audio Hot Cake Distortion V2 \u00a3179.99 \u00a3149.99 Be the first to review this product In stock SKU CROWTHER-HC-V2 Brand Crowther Audio Size Chart Trust --:--:-- Order now, for delivery to you on - Sat 26th Sep 2026 (Delivery Options Available)",
+      "host": "www.hotroxuk.com",
+      "source_kind": "catalog_verified"
     },
     {
       "url": "https://www.efmaniac.com/human-gear-hot-cake-old-circuit/",
-      "title": "Crowther Audio Hot Cake Old Circuitレビュー！クランチからファズまで鳴らせるオーバードライブ | 魔法の箱研究所 – エフェクターレビューサイト",
+      "title": "Crowther Audio Hot Cake Old Circuit\u30ec\u30d3\u30e5\u30fc\uff01\u30af\u30e9\u30f3\u30c1\u304b\u3089\u30d5\u30a1\u30ba\u307e\u3067\u9cf4\u3089\u305b\u308b\u30aa\u30fc\u30d0\u30fc\u30c9\u30e9\u30a4\u30d6 | \u9b54\u6cd5\u306e\u7bb1\u7814\u7a76\u6240 \u2013 \u30a8\u30d5\u30a7\u30af\u30bf\u30fc\u30ec\u30d3\u30e5\u30fc\u30b5\u30a4\u30c8",
       "h1": "",
       "excerpt": "",
-      "host": "www.efmaniac.com"
+      "host": "www.efmaniac.com",
+      "source_kind": "catalog_verified"
+    },
+    {
+      "url": "https://reverb.com/item/92569108-crowther-audio-hot-cake",
+      "title": "catalog/override source",
+      "h1": "",
+      "excerpt": "",
+      "host": "reverb.com",
+      "source_kind": "reverb"
     }
   ],
   "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."

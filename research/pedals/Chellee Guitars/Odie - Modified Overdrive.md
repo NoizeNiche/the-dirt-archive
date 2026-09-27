@@ -36,3 +36,24 @@ The Modified is intentionally more open and less compressed than a traditional T
 1. Chellee Guitars — Odie Modified Overdrive: https://chellee.com/product/odm/
 2. Effects Database — Odie Modified Overdrive: https://www.effectsdatabase.com/model/chellee/odie/modified
 3. Chellee Guitars — Version 2 Effects: https://chellee.com/version-2-effects-whats-new/
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Odie Modified Overdrive $ 179.00 Odie Modified Overdrive is a mid gain overdrive pedal with unique voicing options and tons of clean overhead.
+
+### Verified version references
+- The evidence references: V2, V3, Version 2.
+
+### Verified diode terms
+- LED.
+
+### Verified sound evidence
+Odie Modified Overdrive $ 179.00 Odie Modified Overdrive is a mid gain overdrive pedal with unique voicing options and tons of clean overhead.
+Odie Modified Overdrive is the next generation of the original Odie Overdrive.
+Transparent overdrive Three drive texture settings: Asymmetric diode clipping, Asymmetric MOSFET clipping, and clean boost.
+
+### Sources checked in this pass
+1. Odie Modified Overdrive – Chellee Guitars LLC: https://chellee.com/product/odm/

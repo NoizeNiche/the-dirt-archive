@@ -35,3 +35,17 @@ Guitar Pedals Jul 26 Written By Edge of Breakup .
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Cunningham Amps's Supa Fuzz is cataloged as a fuzz pedal.
+
+### Verified sound evidence
+Guitar Pedals Jul 26 Written By Edge of Breakup .
+
+### Sources checked in this pass
+1. Supa Fuzz - Olivetti Edition - Custom Order | Cunningham Amps: https://www.cunninghamamps.co.nz/product-page/supa-fuzz-olivetti-edition-custom-order
+2. Cunningham Amps Supa Fuzz | Guitar Pedal Demo — Edge of Breakup: https://www.edgeofbreakup.studio/latest-videos/cunningham-amps-supa-fuzz-guitar-pedal-demo

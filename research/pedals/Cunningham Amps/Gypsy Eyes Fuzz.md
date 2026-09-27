@@ -35,3 +35,14 @@ The verified evidence packet did not contain enough pedal-specific sonic descrip
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Cunningham Amps's Gypsy Eyes Fuzz is cataloged as a fuzz pedal.
+
+### Sources checked in this pass
+1. Gypsy Eyes Fuzz - Custom Order | Cunningham Amps: https://www.cunninghamamps.co.nz/product-page/gypsy-eyes-fuzz-custom-order
+2. New video day - hit my profile link to watch the full demo of the @cunninghamamps Gypsy Eyes Fuzz!! 🤯 An unbelievable NOS vintage style fuzz that has ridiculously cool volume knob cleanup on the neck, and rip roaring Jimi tones all day on 10 with the bridge 🤘 It’s one of the warmest germanium fuzzes I’ve ever played - but still with plenty of bite! Today, I’ve got it paired up with this stunning @kauerguitars Electroliner loaded with @lollarpickups Sixty Four Strat pickups and a ‘57 Tweed Princeton! 🔥 Head over to my YouTube and watch it now, and don’t forget to get on the Cunningham Amps email list so you know when Tim’s very limited fuzz drops happen! ✌️ #guitar #guitarist #guitarplayer #guitartone #fuzzpedal | Edge of Breakup: https://www.facebook.com/edgeofbreakup/videos/new-video-day-hit-my-profile-link-to-watch-the-full-demo-of-the-cunninghamamps-g/1030269442678576/

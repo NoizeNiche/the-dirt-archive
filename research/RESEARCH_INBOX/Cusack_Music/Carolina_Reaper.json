@@ -2,21 +2,31 @@
   "builder": "Cusack Music",
   "pedal": "Carolina Reaper",
   "status": "VERIFIED_EVIDENCE_STAGED",
-  "independent_exact_source_count": 2,
+  "independent_exact_source_count": 3,
   "sources": [
     {
       "url": "https://cusackmusic.com/carolina-reaper/",
       "title": "Carolina Reaper - Cusack Music / Haunted Labs",
       "h1": "Carolina Reaper - Overdrive/Fuzz",
-      "excerpt": "MSRP: Was: Now: $229.00 (You save ) SKU: UPC: 850039942006 Current Stock: Adding to cart… The item has been added Add to Wish List Create New Wish List Facebook Email Print Description Thanks to the Carolina Reaper, your drive section just got a whole lot scarier. The new dual-function pedal is the latest device from Haunted Labs – and the spawn of a diabolical collaboration with Cusack Music . The Carolina Reaper brandishes two separate-but-complementary weapons. The right side of the pedal features a high-gain Germanium overdrive circuit that will leave your guitar screaming. The left side hosts a scalding high-gain Germanium fuzz. Each circuit can be used independently. However, if you dare to use both the overdrive and the fuzz together, you’ll fling open a portal to intergalactic doom. Self-incineration has never been so easy…or so much fun. The Carolina Reaper is true bypass, offers soft-touch switching, and independent controls for each circuit - all in a durable enclosure. Specifications: • Six knobs: Volume, Bias, and Fuzz (Left side) Volume, Gain, and Tone (Right side) • True bypass soft-touch switching • Internal Bias Trimmer • Engineered and manufactured in the USA with the highest quality components • Current draw is ~30mA • 9V standard DC operation (power supply not included) – no battery compartment • Dimensions are 4.58\" L x 3.58\" W x 1.95\" H Close × Videos Hide Videos Show Videos Carolina Reaper Fuzz Overdrive Cusack Music and Haunted Labs teamed up to create this powerfu... Rig on Fire - Haunted Lab's Carolina Reaper The Carolina Reaper is a co-branded dual function pedal create... Related Products Quick view Out of stock Sub Fuzz - Analog Sub Octave Fuzz MSRP: Was: Now: $185.00 Quick view Tap-a-Fuzz Quick view Add to Cart The item has been added Sub Fuzz - Limited Edition Analog Sub Octave Fuzz MSRP: Was: Now: $185.00 Quick view Screamer Fuzz Selenium Quick view Add to Cart The item has been added Screamer Fuzz Germanium MSRP: Was: Now: $195.00",
-      "host": "cusackmusic.com"
+      "excerpt": "MSRP: Was: Now: $229.00 (You save ) SKU: UPC: 850039942006 Current Stock: Adding to cart\u2026 The item has been added Add to Wish List Create New Wish List Facebook Email Print Description Thanks to the Carolina Reaper, your drive section just got a whole lot scarier. The new dual-function pedal is the latest device from Haunted Labs \u2013 and the spawn of a diabolical collaboration with Cusack Music . The Carolina Reaper brandishes two separate-but-complementary weapons. The right side of the pedal features a high-gain Germanium overdrive circuit that will leave your guitar screaming. The left side hosts a scalding high-gain Germanium fuzz. Each circuit can be used independently. However, if you dare to use both the overdrive and the fuzz together, you\u2019ll fling open a portal to intergalactic doom. Self-incineration has never been so easy\u2026or so much fun. The Carolina Reaper is true bypass, offers soft-touch switching, and independent controls for each circuit - all in a durable enclosure. Specifications: \u2022 Six knobs: Volume, Bias, and Fuzz (Left side) Volume, Gain, and Tone (Right side) \u2022 True bypass soft-touch switching \u2022 Internal Bias Trimmer \u2022 Engineered and manufactured in the USA with the highest quality components \u2022 Current draw is ~30mA \u2022 9V standard DC operation (power supply not included) \u2013 no battery compartment \u2022 Dimensions are 4.58\" L x 3.58\" W x 1.95\" H Close \u00d7 Videos Hide Videos Show Videos Carolina Reaper Fuzz Overdrive Cusack Music and Haunted Labs teamed up to create this powerfu... Rig on Fire - Haunted Lab's Carolina Reaper The Carolina Reaper is a co-branded dual function pedal create... Related Products Quick view Out of stock Sub Fuzz - Analog Sub Octave Fuzz MSRP: Was: Now: $185.00 Quick view Tap-a-Fuzz Quick view Add to Cart The item has been added Sub Fuzz - Limited Edition Analog Sub Octave Fuzz MSRP: Was: Now: $185.00 Quick view Screamer Fuzz Selenium Quick view Add to Cart The item has been added Screamer Fuzz Germanium MSRP: Was: Now: $195.00",
+      "host": "cusackmusic.com",
+      "source_kind": "manufacturer"
     },
     {
       "url": "https://fulleffectdistro.com/carolina-reaper/",
       "title": "Carolina Reaper - Cusack Music / Haunted Labs",
       "h1": "Carolina Reaper - Overdrive/Fuzz",
-      "excerpt": "SKU: Cusack/HauntedLabs-CarolinaReaper UPC: 850039942006 Thanks to the Carolina Reaper, your drive section just got a whole lot scarier. The new dual-function pedal is the latest device from Haunted Labs – and the spawn of a diabolical collaboration with C… MSRP: Was: Now: $229.00 (You save: ) Current Stock: 4 Quantity: Decrease Quantity of undefined Increase Quantity of undefined Adding to cart… The item has been added Wish List Create New Wish List Copy link: Share:",
-      "host": "fulleffectdistro.com"
+      "excerpt": "SKU: Cusack/HauntedLabs-CarolinaReaper UPC: 850039942006 Thanks to the Carolina Reaper, your drive section just got a whole lot scarier. The new dual-function pedal is the latest device from Haunted Labs \u2013 and the spawn of a diabolical collaboration with C\u2026 MSRP: Was: Now: $229.00 (You save: ) Current Stock: 4 Quantity: Decrease Quantity of undefined Increase Quantity of undefined Adding to cart\u2026 The item has been added Wish List Create New Wish List Copy link: Share:",
+      "host": "fulleffectdistro.com",
+      "source_kind": "catalog_verified"
+    },
+    {
+      "url": "https://www.guitarfxdirect.com/product/cusack-carolina-reaper/",
+      "title": "catalog/override source",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.guitarfxdirect.com",
+      "source_kind": "catalog_verified"
     }
   ],
   "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."

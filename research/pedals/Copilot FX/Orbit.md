@@ -52,3 +52,21 @@ The manufacturer describes Orbit as capable of wacky, spaceship- and laser-like 
 1. Copilot FX Orbit: https://copilotfx.com/orbit.html
 2. Copilot FX Orbit manual: https://copilotfx.com/orbit.pdf
 3. Effects Database - Copilot FX Orbit: https://www.effectsdatabase.com/model/copilot/orbit
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Copilot Fx Orbit frequency modulator fuzz pedal Home Blog Products Store Retailers About Forum Contact About Frequency Modulated Fuzz, offering plenty of control to hack around some interesting, wacky, spaceship, laserguns type of sounds.
+
+### Verified color/finish evidence
+- Specs Silk Screened artwork with enamel ink into a powder coated aluminium case Dimensions: 4 1/2" x 2 1/2" x 2 1/2" Powered only by DC 9v power Jack (center negative), no batteries option Expression Jack: external control of the VCO frequency, TRS expression jack or 0-5v CV.
+
+### Verified sound evidence
+Copilot Fx Orbit frequency modulator fuzz pedal Home Blog Products Store Retailers About Forum Contact About Frequency Modulated Fuzz, offering plenty of control to hack around some interesting, wacky, spaceship, laserguns type of sounds.
+
+### Sources checked in this pass
+1. catalog/override source: https://www.effectsdatabase.com/model/copilot/orbit
+2. Copilot Fx Orbit frequency modulator fuzz pedal: https://copilotfx.com/orbit.html
+3. Products - Copilot Fx Pedals: http://www.copilotfx.com/products.html

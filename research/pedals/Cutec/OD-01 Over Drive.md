@@ -35,3 +35,13 @@ This site contains affiliate links for which I may be compensated Cutec OD-01 Ov
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Cutec's OD-01 Over Drive is cataloged as an overdrive pedal.
+
+### Sources checked in this pass
+1. Cutec OD-01 Over Drive | Effects Database: https://www.effectsdatabase.com/model/cutec/01/od01

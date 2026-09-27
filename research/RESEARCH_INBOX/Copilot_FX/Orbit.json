@@ -1,0 +1,33 @@
+{
+  "builder": "Copilot FX",
+  "pedal": "Orbit",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 3,
+  "sources": [
+    {
+      "url": "https://www.effectsdatabase.com/model/copilot/orbit",
+      "title": "catalog/override source",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.effectsdatabase.com",
+      "source_kind": "effects_database"
+    },
+    {
+      "url": "https://copilotfx.com/orbit.html",
+      "title": "Copilot Fx Orbit frequency modulator fuzz pedal",
+      "h1": "",
+      "excerpt": "Copilot Fx Orbit frequency modulator fuzz pedal Home Blog Products Store Retailers About Forum Contact About Frequency Modulated Fuzz, offering plenty of control to hack around some interesting, wacky, spaceship, laserguns type of sounds. How does it works? the frequency of the note at the input will move back and forth the center/reference point of the VCO, the result is mixed together so both frequencies (signal and VCO) will interact and will force the output of the incoming frequency to vary it's frequency (the total amount of of modulation will be the difference of both signals). This six knob version offers more options from the previous version (5 knob version), like wider range of the gate knob allowing more quicker decay or more sustain, the voices are independent so the vco and fuzz tones have their own volume knobs so you can set them to taste (instead of the universal mix knob) and a dry knob was added to offer the option to add more control and get more subtle tones, the toggle is set to the upper position. Controls FRQ: selects vco frequency range. EXP: fine tune for the FRQ. Gate: amount of input volume / sustain. DRY: dry signal volume. Vol: fuzz volume. VCO: vco volume. Specs Silk Screened artwork with enamel ink into a powder coated aluminium case Dimensions: 4 1/2&quot; x 2 1/2&quot; x 2 1/2&quot; Powered only by DC 9v power Jack (center negative), no batteries option Expression Jack: external control of the VCO frequency, TRS expression jack or 0-5v CV. Compatible with the Broadcast and Broadband Search the blog Mutations / Variations / Inventions / based around the Orbit Manual Manual &copy; Copilot fx Instagram Facebook",
+      "host": "copilotfx.com",
+      "source_kind": "manufacturer"
+    },
+    {
+      "url": "http://www.copilotfx.com/products.html",
+      "title": "Products - Copilot Fx Pedals",
+      "h1": "",
+      "excerpt": "Products - Copilot Fx Pedals Home Blog Products Store Retailers About Forum Contact Copilot FX Products. Anchorman FM radio pedal Arrow Airwaves Triggered White Noise Generator with instrument input Arrow Airwaves Supreme Multi Voice WNG with LFO Autodialer Envelope Expression controller Bandwidth Splits 1 CV/Expression input into 3 independent CV outs Broadband Splits 1 CV/Expression input into 3 independent expression outs Broadcast LFO pedal / Modulation expresion pedal Caracol Octave Drone Modulating Machine Cubic This design is being updated Gyroscope Filter with a tap tempo LFO Kinkilin Modulated Delay Mantis Octave Down PWM Fuzz Orbit Gated Fuzz + VCO Planetoid This design is being updated Polypus Tap Tempo Tremolo Polypus Supreme Tap Tempo Tremolo with Sequencer Portal Mixer / Blender / FX loop with expression Portal Supreme Dual loop Mixer / Blender / FX loop with envelope and expression Simulcast Short Sampler / Glitch / Stutter Robotum Ring Modulator Terra Dual parallel fuzz voices Trek Pulse Width Fuzz &copy; Copilot Fx Instagram Facebook",
+      "host": "www.copilotfx.com",
+      "source_kind": "manufacturer"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}

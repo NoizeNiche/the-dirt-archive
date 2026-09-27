@@ -21,3 +21,13 @@ The available surviving documentation is limited, so the archive records the mod
 
 ## Archive photo
 - **Archive status:** **No Photo Archived**
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Boot-Leg Hand Made Effects's BLN-1.0 Blues#Nine is cataloged as an overdrive pedal.
+
+### Sources checked in this pass
+1. Boot-Leg BLN-1.0 Blues#Nine | Effects Database: https://www.effectsdatabase.com/model/bootleg/bln10

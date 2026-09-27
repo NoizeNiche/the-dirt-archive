@@ -23,3 +23,13 @@ A surviving review documents the compact Level, Bottom and Hizumi control arrang
 - **Archive status:** **No Photo Archived**
 ## Deep research verification
 The exact HZM-2.0 Hizumi Quattro Valvole record documents a higher-spec Hizumi-family overdrive/distortion with **Level, Bottom and Hizumi** controls. A surviving review documents 9V centre-negative operation and the archive keeps HZM-2.0 separate from HZM-1.0 and HZM-1.2 because the model has a distinct control arrangement and construction presentation.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Boot-Leg Hand Made Effects's HZM-2.0 Hizumi Quattro Valvole is cataloged as a distortion / overdrive pedal.
+
+### Sources checked in this pass
+1. Boot-Leg HZM-2.0 Hizumi Quattro Valvole | Effects Database: https://www.effectsdatabase.com/model/bootleg/hzm20

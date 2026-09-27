@@ -1,0 +1,25 @@
+{
+  "builder": "Copilot FX",
+  "pedal": "Terra",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 2,
+  "sources": [
+    {
+      "url": "https://www.copilotfx.com/terra.html",
+      "title": "Copilot Fx Terra Fuzz Pedal",
+      "h1": "",
+      "excerpt": "Copilot Fx Terra Fuzz Pedal Home Blog Products Store Retailers About Forum Contact About Terra is a straight up Fuzz box machine. There are 6 controls to give you the option to tailor your fuzz tone. The range goes from classic, swelling, velcro-ish, gated / mosquito, to straight riffing machine, octave-ish, tremfuzz . Cleans well with your guitar volume control, stacks wells with other pedals, is responsive to your picking attacks and keeps its voice no matter what type of amp you decide to play. The new version provides 2 independent voices, the standard classic fuzz voice and a second scramble-y/octavish fuzz voice. Both voices share the tone, gain, bias and input control, plus a 3 way toggle, that set the amount of bass on the pedal, so you can have a fat bassy or a shredding trebble attack. There's a exp/cv jack that controls the volume of the scrambley/octavish voice, plugging a expression pedal you could do swells or plugging a broadcast you could do some tremfuzz action or fade in/out both voices for more sonic experimentation. Controls Bass Toggle: 3 way toggle switch to select the amount of bass. Bias: Voltage starve, to cut the sustain and get those velcro tones. Gain: Amount of gain. Tone: Tone control. Volume: Fuzz voice volume. Octave: Octave fuzz voice. Input: Input Gain. Exp / CV Jack: external control of the octave fuzz voice volume, via TRS expression pedal or 0-5v cv signal. Specs Silk Screened artwork with enamel ink into a powder coated aluminium case Dimensions: 4.5&quot; x 2 1/2&quot; x 2 1/2&quot; Powered only by DC 9v power Jack (center negative), no batteries option Expression Jack: external control of the octave fuzz voice volume via TRS expression jack or 0-5v CV signal. Compatible with the Broadcast , Broadband and Bandwidth Search the blog Mutations / Variations / Inventions / based around the terra Manual Manual &copy; Copilot fx Instagram Facebook",
+      "host": "www.copilotfx.com",
+      "source_kind": "manufacturer"
+    },
+    {
+      "url": "http://copilotfx.com/data/wordpress/tag/terra/",
+      "title": "Mutations / Variations / Inventions / based around the terra",
+      "h1": "",
+      "excerpt": "",
+      "host": "copilotfx.com",
+      "source_kind": "manufacturer"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}
