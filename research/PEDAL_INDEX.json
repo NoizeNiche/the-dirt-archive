@@ -4331,8 +4331,8 @@
       "research_record": "./research/pedals/PRP Batch 057/Dragon Drive V2.md",
       "image_source_page": "https://www.anodeeffects.com/pedals/p/dragondrive",
       "image_source_url": "https://images.squarespace-cdn.com/content/v1/65f1f9ca8c4d920b3a4f92ad/7f9442a9-abc9-4559-9d18-310e1627e765/IMG_7845.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Anode Effects",
@@ -5618,8 +5618,8 @@
       "research_record": "./research/pedals/Award-Session/JD20 Jerry Donahue Twin Channel Direct Recording Guitar PreAmp And Overdrive/Distortion Pedal.md",
       "image_source_page": "https://www.guitar-auctions.co.uk/sale/79/710/Award-Session-Session-Master-Compact-Jerry-Donahue-JD10-guitar-pedal-boxed",
       "image_source_url": "https://www.guitar-auctions.co.uk/public/images/Sales/79/710.JPG",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Award-Session",
@@ -37100,8 +37100,8 @@
       "image": "./assets/pedals/khdk-electronics/dark-blood/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/KHDK Electronics/Dark Blood.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "KHDK Electronics",

@@ -46,3 +46,21 @@ JD20 is designed to move from touch-sensitive clean-to-overdrive response in Cla
 - **Archive status:** **No Photo Archived**
 - **Exact-model reference checked:** https://www.effectsdatabase.com/model/awardsession/jd20
 - **Archive note:** Exact-model archival images exist, but no stable archive asset is being promoted in this pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Award-Session JD20 Jerry Donahue Twin Channel Direct Recording Guitar PreAmp And Overdrive/Distortion Pedal
+
+### Verified version references
+- The evidence references: MkII.
+
+### Verified sound evidence
+Award-Session JD20 Jerry Donahue Twin Channel Direct Recording Guitar PreAmp And Overdrive/Distortion Pedal
+Designer Stewart Ward designed this pedal as an update to the famed Jerry Donohue JD-10 Distortion pedals.
+This pedal is more than just a Distortion / Overdrive pedal.
+
+### Sources checked in this pass
+1. Award-Session JD20 Jerry Donahue Twin Channel Direct Recording Guitar PreAmp And Overdrive/Distortion Pedal | Effects Database: https://www.effectsdatabase.com/model/awardsession/jd20

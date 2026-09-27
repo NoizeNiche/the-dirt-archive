@@ -37,3 +37,24 @@ Dragon Drive V2 is voiced around a cranked Marshall-style overdrive response, bu
 ## Photo
 - **Archive status:** **Exact Photo Archived**
 - **Image source:** Exact-model Dragon Drive V2 photograph from a retailer product listing.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Anode Effects's Dragon Drive V2 is cataloged as a distortion / overdrive pedal.
+
+### Verified version references
+- The evidence references: V2.
+
+### Verified diode terms
+- LED, LEDs.
+
+### Verified sound evidence
+Reactive Distortion Image 1 of 4 Image 2 of 4 Image 3 of 4 Image 4 of 4 The Dragon Drive V2
+Reactive Distortion $179.99 Medium-high gain overdrive with 3 band EQ and external clipping diodes Dragons are in preorder and will ship in 2-3 weeks Purchase Added!
+Medium-high gain overdrive with 3 band EQ and external clipping diodes Dragons are in preorder and will ship in 2-3 weeks LED clipping overdrive has become a popular choice among guitar players that want a more realistic amp like distortion that doesn’t compress the signal too much.
+
+### Sources checked in this pass
+1. The Dragon Drive — Anode Effects: https://www.anodeeffects.com/pedals/p/dragondrive

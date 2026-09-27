@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-27T00:42:13.479113+00:00",
+  "generated_at": "2026-09-27T00:45:05.872696+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,25 +10,18 @@
     "pictured": 2999,
     "complete": 2999,
     "research_pending": 0,
-    "deep_research_pending": 2251,
-    "deep_researched": 1510,
+    "deep_research_pending": 2248,
+    "deep_researched": 1513,
     "surface_ready": 3761
   },
   "next_target": {
     "builder": "Anode Effects",
-    "pedal": "Dragon Drive V2",
+    "pedal": "MOS Fuzz",
     "catalog_type": "",
-    "research_record": "./research/pedals/PRP Batch 057/Dragon Drive V2.md",
+    "research_record": "./research/pedals/PRP Batch 057/MOS Fuzz.md",
     "research_level": "surface"
   },
   "working_set": [
-    {
-      "builder": "Anode Effects",
-      "pedal": "Dragon Drive V2",
-      "catalog_type": "",
-      "research_record": "./research/pedals/PRP Batch 057/Dragon Drive V2.md",
-      "research_level": "surface"
-    },
     {
       "builder": "Anode Effects",
       "pedal": "MOS Fuzz",
@@ -195,6 +188,13 @@
       "pedal": "Thulsa Doom Hyborean Fuzz",
       "catalog_type": "",
       "research_record": "./research/pedals/Atmosfera 6/Thulsa Doom Hyborean Fuzz.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Attic Audio",
+      "pedal": "PUTTY Saturation Preamp",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Attic Audio/PUTTY Saturation Preamp.md",
       "research_level": "surface"
     }
   ]
