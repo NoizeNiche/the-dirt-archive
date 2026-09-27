@@ -4,42 +4,57 @@
 - **Archive parent:** BELMEZ WITCHES Occult Fuzz
 - **Builder:** Atmosfera 6
 - **Catalog type:** Fuzz
-- **Identity:** One-knob heavy fuzz derived from the builder's Power Fuzz concept and Roland AD-50 gain stage.
+- **Identity:** One-control heavy fuzz derived from the builder's Power Fuzz concept and its deconstruction of the Roland AD-50 gain stage. [1][2]
 
 ## What this pedal is
-Atmosfera 6 describes BELMEZ WITCHES as one of two crushing circuits derived from deconstructing the Roland AD-50 gain stage. The minimal control set leaves much of the cleanup and texture work to the guitar volume.
+BELMEZ WITCHES is described by Atmosfera 6 as one of two crushing circuits derived from deconstructing the Roland AD-50 gain stage. The design deliberately uses very few controls, leaving guitar-volume interaction and the circuit's internal voicing to determine much of the available texture. [1]
 
-## Colorways
-- Sparkle black-champagne powder coat
-- Custom matte screen print
+## Controls / operation
+- **Single control:** Main output/gain interaction for the simplified design.
+- **True-bypass soft-switching:** Documented by the builder/listing.
+- The reviewed exact-model listings do not establish a more granular printed control legend. [1][2]
 
-## Versions and factory options
-### BELMEZ WITCHES production
-- One control
-- True-bypass soft switch
-- 30mA at 9VDC
-- 153 x 83 x 55 mm
-- Hand-wired construction
-
-## Version changes
-No numbered hardware revision was verified.
+## Circuit lineage
+- **Design lineage:** Atmosfera 6 Power Fuzz / Roland AD-50 gain-stage deconstruction.
+- This is a design lineage statement from the builder, not a claim that the pedal is an authorized Roland reproduction. [1]
 
 ## Transistor
-- **Technology:** Power Fuzz circuit derived from the Roland AD-50 gain stage.
-- **Exact device:** Not publicly documented.
+- Exact transistor/device part number is not publicly documented.
 
-## Diode
-- **Type:** Exact clipping device is not publicly documented.
-- **Exact part:** Unknown.
+## Diode / clipping
+- Exact clipping device or diode part number is not publicly documented.
+
+## Electrical / construction specifications
+The exact-model listing documents:
+- **Supply/current:** approximately **9VDC / 30mA**.
+- **Dimensions:** approximately **153 × 83 × 55 mm**.
+- **Construction:** hand-wired.
+- **Switching:** true bypass, soft switch. [1]
+
+## Version history
+- The documented difference between related BELMEZ designs is architectural rather than a numbered hardware revision.
+- A 2024 exact-model listing confirms BELMEZ WITCHES as a distinct model/run; no sequential electronic revision is established. [2]
 
 ## Sound
-It is designed for very heavy fuzz while retaining chord articulation at high gain. The pedal is highly responsive to guitar-volume changes and can move toward more classic fuzz and overdrive textures.
+The builder positions BELMEZ WITCHES as crushing heavy fuzz that retains chord articulation at high gain. The sparse control scheme makes guitar-volume interaction an important part of the pedal's usable range, from extreme saturation toward more traditional fuzz/drive textures as the instrument is rolled back. [1]
+
+## Research confidence
+- **Identity:** High
+- **Roland AD-50 gain-stage lineage:** High
+- **One-control architecture:** High
+- **30mA / 9VDC:** High
+- **153 × 83 × 55mm:** High
+- **Hand-wired / true bypass:** High
+- **Exact transistor:** Unknown
+- **Exact diode:** Unknown
+
+## Deep research verification
+The current exact-model listing was checked alongside a 2024 exact-model listing. Both support the BELMEZ WITCHES identity; the current record supplies the documented power, dimensions and hand-wired/true-bypass details. The archive does not invent unpublished semiconductor information. [1][2]
 
 ## Sources checked
-1. Reverb / ATMOSFERA6 FX — BELMEZ WITCHES: https://reverb.com/uk/item/84885282-atmosfera-6-belmez-witches-occult-fuzz
-2. Reverb — BELMEZ WITCHES 2024: https://reverb.com/en-se/item/80884745-atmosfera-6-belmez-witches-occult-fuzz-2024
+1. Reverb — Atmosfera 6 BELMEZ WITCHES: https://reverb.com/uk/item/84885282-atmosfera-6-belmez-witches-occult-fuzz
+2. Reverb — Atmosfera 6 BELMEZ WITCHES 2024: https://reverb.com/en-se/item/80884745-atmosfera-6-belmez-witches-occult-fuzz-2024
 
 ## Photo
 - **Archive status:** **No Photo Archived**
-- **Exact-model reference checked:** https://reverb.com/uk/item/84885282-atmosfera-6-belmez-witches-occult-fuzz
-- **Archive note:** Exact model identity was verified, but no stable exact-model image asset was promoted into the archive during this pass. Keep the public card at **No Photo Archived** rather than use a substitute.
+- **Exact-model reference checked:** exact-model Reverb listing.
