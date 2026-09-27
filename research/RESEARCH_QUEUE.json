@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-27T02:02:29.237888+00:00",
+  "generated_at": "2026-09-27T02:04:36.845918+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,8 +10,8 @@
     "pictured": 3019,
     "complete": 3019,
     "research_pending": 0,
-    "deep_research_pending": 2067,
-    "deep_researched": 1694,
+    "deep_research_pending": 2058,
+    "deep_researched": 1703,
     "surface_ready": 3761
   },
   "next_target": {
@@ -48,69 +48,6 @@
       "pedal": "Pepsiman",
       "catalog_type": "",
       "research_record": "./research/pedals/Barber Electronics/Pepsiman.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Baroni Lab",
-      "pedal": "Angry Pig",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Baroni Lab/Angry Pig.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Baroni Lab",
-      "pedal": "Billygoats Muff",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Baroni Lab/Billygoats Muff.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Baroni Lab",
-      "pedal": "Moon Sound",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Baroni Lab/Moon Sound.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Baroni Lab",
-      "pedal": "Morpheus",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Baroni Lab/Morpheus.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Baroni Lab",
-      "pedal": "Rat'N Box",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Baroni Lab/Rat'N Box.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Baroni Lab",
-      "pedal": "The Boutique Muff",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Baroni Lab/The Boutique Muff.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Baroni Lab",
-      "pedal": "Tubes Tone & Drive",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Baroni Lab/Tubes Tone & Drive.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Baroni Lab",
-      "pedal": "Warp Drive",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Baroni Lab/Warp Drive.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Basic Audio",
-      "pedal": "DOT",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Basic Audio/DOT.md",
       "research_level": "surface"
     },
     {
@@ -195,6 +132,69 @@
       "pedal": "Abelha Tropical Fuzz",
       "catalog_type": "",
       "research_record": "./research/pedals/Beetronics FX/Abelha Tropical Fuzz.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Beetronics FX",
+      "pedal": "Fatbee",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Beetronics FX/Fatbee.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Beetronics FX",
+      "pedal": "Nectar Tone Sweetener",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Beetronics FX/Nectar Tone Sweetener.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Beetronics FX",
+      "pedal": "Octahive V2",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Beetronics FX/Octahive V2.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Beetronics FX",
+      "pedal": "Overhive",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Beetronics FX/Overhive.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Beetronics FX",
+      "pedal": "Royal Jelly",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Beetronics FX/Royal Jelly.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Beetronics FX",
+      "pedal": "Swarm Fuzz Harmonizer",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Beetronics FX/Swarm Fuzz Harmonizer.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Beetronics FX",
+      "pedal": "Tuna Fuzz",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Beetronics FX/Tuna Fuzz.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Beetronics FX",
+      "pedal": "Vezzpa Octave Stinger",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Beetronics FX/Vezzpa Octave Stinger.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Behringer",
+      "pedal": "Bass Brassmaster",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Behringer/Bass Brassmaster.md",
       "research_level": "surface"
     }
   ]
