@@ -24,3 +24,6 @@ Ranges from vintage-style fuzz into extreme feedback squeals and self-oscillatio
 
 ## Photo
 - **Archive status:** **No Photo Archived**
+
+## Deep research verification
+Big Knob's current catalog confirms five highly interactive controls and describes Fuzz Barn as spanning authentic vintage fuzz through feedback squeals and self-oscillation. The builder's general construction standard is hand-wired analog circuitry with true-bypass 3PDT switching. Exact control names and semiconductor part numbers are not published in the reviewed product text. citeturn302732search0
