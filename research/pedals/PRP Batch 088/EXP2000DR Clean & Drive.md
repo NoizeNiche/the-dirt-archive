@@ -12,3 +12,5 @@ https://bixonic-sound.com/products/exp2000dr
 
 ## Archive photo
 - **Archive status:** **No Photo Archived**
+## Deep research verification
+The cited Bixonic product documentation supports EXP2000DR Clean & Drive as the next-generation platform with **Clean, Crunch, Distortion, Forbidden** modes, **Gain, Tone, Nuance, Level**, 3-band EQ, Modern/Classic voicings, selectable true or buffered bypass and three memories. Classic mode is explicitly intended to reproduce the 1994 original Expandora character. Exact digital hardware part numbers are not stated.
