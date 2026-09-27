@@ -14,3 +14,14 @@
 - **Sources checked:**
   - https://camuro.co.jp/baci-od-dist
   - https://camuro.co.jp/blog/baci-overdrive-distortion
+## Deep research verification
+
+Camuro's primary Baci page confirms two independent dirt sections in one enclosure, ordered **overdrive -> distortion**. Verified controls are:
+- Overdrive: **Volume, Gain, Tone, High**
+- Distortion: **Volume, Gain, Tone**
+- Side toggle changes the distortion mode.
+- The two sections can be operated individually or together.
+
+Camuro documents a major enclosure evolution: early compact-case Baci units and later large-case units retain the same basic configuration and circuit, while the larger enclosure allowed greater freedom in component selection and was intended to improve sound quality. Power is 9V via P006 battery or centre-negative DC adapter.
+
+Source: https://camuro.co.jp/baci-od-dist
