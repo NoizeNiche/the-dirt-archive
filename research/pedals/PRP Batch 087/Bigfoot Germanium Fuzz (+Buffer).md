@@ -12,3 +12,5 @@ https://www.bigfootengineering.com/store/p119/Bigfoot_Germanium_Fuzz_%28_Buffer%
 
 ## Archive photo
 - **Archive status:** **No Photo Archived**
+## Deep research verification
+The cited Bigfoot Engineering product page documents this Special Reserve model as a King Fuzz-based circuit re-biased around a **gold-pin NOS germanium transistor**. Verified controls are **Gain** and **Volume**, with an output switch selecting true or buffered bypass. The builder specifies 9VDC, no battery, greater than 5mA current draw, all-analogue construction, and hand building in England. It is documented for placement after buffers, active pickups and wireless systems.
