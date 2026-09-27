@@ -1,23 +1,41 @@
 # VOX — Trike Fuzz
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Trike Fuzz
 - **Builder:** VOX
-- **Pedal:** Trike Fuzz
 - **Catalog type:** Fuzz
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** VOX's Trike Fuzz.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Trike Fuzz** by **VOX** as a **Fuzz** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Legacy THIS PRODUCT IS NO LONGER IN PRODUCTION Legacy Trike Fuzz Sku: TG2TRFZ Documents SPECS Specs PHOTOS Photos HEAR IT Hear It Product Description This is an octave fuzz overflowing with vintage character, utilizing specially selected diodes.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+Legacy THIS PRODUCT IS NO LONGER IN PRODUCTION Legacy Trike Fuzz Sku: TG2TRFZ Documents SPECS Specs PHOTOS Photos HEAR IT Hear It Product Description This is an octave fuzz overflowing with vintage character, utilizing specially selected diodes.
+You can choose three types of octave settings: +1 or, -1 and -2, or all upward and downward octaves to obtain thick vintage fuzz sounds.
+In addition, there’s a tone control for +1 octave and a volume control for -2 octave.
+
+## Sources checked
+1. Trike Fuzz - Vox Amps: https://voxamps.com/product/trike-fuzz/
+2. PDF Double Deca Delay/Trike Fuzz Owner's Manual - zikinf.com: https://www.zikinf.com/manuels/vox-trike-fuzz-manuel-utilisateur-en-38410.pdf
+3. Vox Trike Fuzz - What To Know & Where To Buy | Equipboard: https://equipboard.com/items/vox-trike-fuzz--2
+4. Vox Trike Fuzz Dimensions, Specs & Details: https://www.stompboxgarden.com/gear/pedal/2742/vox-trike-fuzz
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

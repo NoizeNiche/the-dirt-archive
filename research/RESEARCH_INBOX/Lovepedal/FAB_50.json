@@ -1,0 +1,33 @@
+{
+  "builder": "Lovepedal",
+  "pedal": "FAB 50",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 3,
+  "sources": [
+    {
+      "url": "https://equipboard.com/items/lovepedal-fab-50",
+      "title": "Lovepedal Fab 50 - What To Know & Where To Buy | Equipboard",
+      "h1": "",
+      "excerpt": "",
+      "host": "equipboard.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://reverb.com/p/lovepedal-fab-50",
+      "title": "Lovepedal Fab 50 - Reverb",
+      "h1": "",
+      "excerpt": "",
+      "host": "reverb.com",
+      "source_kind": "reverb"
+    },
+    {
+      "url": "https://www.thegearpage.net/board/index.php?threads/tell-me-about-the-lovepedal-fab-50-tiki.1936822/",
+      "title": "Tell me about the Lovepedal Fab 50 Tiki - The Gear Page",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.thegearpage.net",
+      "source_kind": "other"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}

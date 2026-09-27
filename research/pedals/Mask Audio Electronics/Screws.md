@@ -1,23 +1,40 @@
 # Mask Audio Electronics — Screws
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Screws
 - **Builder:** Mask Audio Electronics
-- **Pedal:** Screws
 - **Catalog type:** Fuzz
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Mask Audio Electronics's Screws.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Screws** by **Mask Audio Electronics** as a **Fuzz** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Whether main character or supporting role , Screws is there , calling back to the roots of Mask Audio Electronics : simple fuzz done very gnarly .
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+If you 're looking to get your Swede on , put the Tone switch in the middle and start stacking .
+Whether main character or supporting role , Screws is there , calling back to the roots of Mask Audio Electronics : simple fuzz done very gnarly .
+Mask Audio Electronics Screws - Octave Fuzz
+
+## Sources checked
+1. Mask Audio Electronics Screws - Reverb: https://reverb.com/item/99292832-mask-audio-electronics-screws
+2. Screws &ndash; Mask Audio Electronics: https://maskaudioelectronics.com/products/screws
+3. Mask Audio Electronics Screws - Octave Fuzz | Effects Database: https://www.effectsdatabase.com/model/mask/screws
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

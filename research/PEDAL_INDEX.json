@@ -35212,8 +35212,8 @@
       "image": "./assets/pedals/electro-harmonix/hot-wax-dual-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Electro-Harmonix/Hot Wax Dual Overdrive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Electro-Harmonix",
@@ -35741,8 +35741,8 @@
       "image": "./assets/pedals/empress-effects/drive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Empress Effects/Drive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Empress Effects",
@@ -42501,8 +42501,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Lovepedal/FAB 50.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Lovepedal",
@@ -43502,8 +43502,8 @@
       "image": "./assets/pedals/mask-audio-electronics/black-math/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mask Audio Electronics/BLACK MATH.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Mask Audio Electronics",
@@ -43661,8 +43661,8 @@
       "image": "./assets/pedals/mask-audio-electronics/screws/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mask Audio Electronics/Screws.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Mask Audio Electronics",
@@ -43810,8 +43810,8 @@
       "image": "./assets/pedals/maxon/fuzz-elements-ether/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Maxon/Fuzz Elements Ether.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Maxon",
@@ -44275,8 +44275,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Maxon/SM-9 Pro+.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Maxon",
@@ -44287,8 +44287,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Maxon/SM-9 Super Metal.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Maxon",
@@ -47132,8 +47132,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/MXR/Wylde Audio Zakk Sabbath Overdrive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "MXR",
@@ -47144,8 +47144,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/MXR/Yngwie Malmsteen Overdrive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Mystic Effects Co",
@@ -50030,8 +50030,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/RYRA/The Klone.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "RYRA",
@@ -54755,8 +54755,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/VOX/Trike Fuzz.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "VOX",
@@ -56367,8 +56367,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Wren and Cuff/Anna Compact.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Wren and Cuff",
@@ -56662,8 +56662,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Wren and Cuff/Your Face 70's.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Xotic Effects",
