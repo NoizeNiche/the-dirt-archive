@@ -1,23 +1,31 @@
 # DeadastronautFX — Skinwalker
 
-## Surface catalog record
+## PRP identity
 - **Builder:** DeadastronautFX
-- **Pedal:** Skinwalker
 - **Catalog type:** Distortion
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Skinwalker Hi Gain Distortion.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Skinwalker** by **DeadastronautFX** as a **Distortion** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+The builder's surviving catalog explicitly lists Skinwalker Hi Gain Distortion.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Technical evidence
+- Exact control layout: Unknown.
+- Exact circuit topology: Unknown.
+- Exact transistor/device: Unknown.
+- Exact clipping device: Unknown.
+- Power requirement: Unknown.
+
+## Sound
+The surviving source supports the high-gain distortion classification but does not preserve enough exact model-specific detail for a fuller tonal description.
+
+## Research confidence
+- **Identity:** High.
+- **High-gain distortion classification:** High.
+- **Technical details:** Unknown.
+
+## Source
+DeadastronautFX catalog: https://deadastronaut.wixsite.com/effects
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Exact Photo Pending
+- No local canonical image was promoted in this pass.
