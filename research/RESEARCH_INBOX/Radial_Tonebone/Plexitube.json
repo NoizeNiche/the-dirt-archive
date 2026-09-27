@@ -1,0 +1,57 @@
+{
+  "builder": "Radial Tonebone",
+  "pedal": "Plexitube",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 6,
+  "sources": [
+    {
+      "url": "https://reverb.com/p/radial-tonebone-plexitube",
+      "title": "Radial Tonebone Plexitube - Reverb",
+      "h1": "",
+      "excerpt": "",
+      "host": "reverb.com",
+      "source_kind": "reverb"
+    },
+    {
+      "url": "https://equipboard.com/items/radial-tonebone-plexitube-12ax7-tube-distortion-pedal",
+      "title": "Radial Tonebone Plexitube 12AX7 Tube Distortion Pedal",
+      "h1": "",
+      "excerpt": "",
+      "host": "equipboard.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://www.sweetwater.com/store/detail/ToneBonePT--radial-tonebone-plexitube-2-channel-tube-distortion-pedal",
+      "title": "Radial Tonebone Plexitube 2-channel Tube Distortion Pedal | Sweetwater",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.sweetwater.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://www.tonebox.com/pedal/radial-tonebone-plexitube",
+      "title": "Radial Tonebone Plexitube - Tonebox.com",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.tonebox.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://www.zzounds.com/item--RADPLEXITUBE",
+      "title": "Radial Tonebone Plexitube Tube Distortion Pedal - zZounds",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.zzounds.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://www.effectsdatabase.com/model/radial/tonebone/plexitube",
+      "title": "Radial Tonebone Plexitube - Effects Database",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.effectsdatabase.com",
+      "source_kind": "effects_database"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}

@@ -1,23 +1,41 @@
 # TONECAT — Luna Overdrive
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Luna Overdrive
 - **Builder:** TONECAT
-- **Pedal:** Luna Overdrive
 - **Catalog type:** Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** TONECAT's Luna Overdrive.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Luna Overdrive** by **TONECAT** as a **Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Part of the Art of the Home of Tone collection , Luna is a versatile, touch-sensitive overdrive pedal inspired by the feel and response of classic Bluesbreaker-style overdrive.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+Part of the Art of the Home of Tone collection , Luna is a versatile, touch-sensitive overdrive pedal inspired by the feel and response of classic Bluesbreaker-style overdrive.
+With three selectable voicings , Luna moves from subtle warmth and transparent breakup to a more pronounced, dynamic drive that responds naturally to your playing.
+Designed for expressive guitarists, Luna delivers dynamic overdrive, touch-sensitive response, and versatile tonal shaping — from edge-of-breakup blues and low-gain rhythm tones to a stronger, articulate drive for leads and pushing an amp.
+
+## Sources checked
+1. Daughter Luna Overdrive | Home of Tone BluesBreaker Drive Cat Pedal &mdash; TONECAT: https://www.tonecat.life/shop/p/luna-overdrive
+2. TONECAT Luna Overdrive Pedal &ndash; DeathCloud: https://deathcloud.com/products/tonecat-luna-overdrive
+3. ToneCat Effects Luna Overdrive &ndash; Replay Guitars: https://replayguitars.com/products/tonecat-effects-luna-overdrive
+4. TONECAT Luna Overdrive BB style OD: https://www.upweymusic.au/products/tonecat-luna-overdrive-bb-style-od
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

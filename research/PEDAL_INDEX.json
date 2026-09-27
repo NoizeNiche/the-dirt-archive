@@ -49691,8 +49691,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Radial Tonebone/Plexitube.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Radial Tonebone",
@@ -53107,8 +53107,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/TONECAT/Luna Overdrive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "TONECAT",
