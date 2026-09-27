@@ -1,23 +1,39 @@
 # ThorpyFX — Shaftesbury Duo Fuzz — standard / Heritage versions consolidated
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Shaftesbury Duo Fuzz — standard / Heritage versions consolidated
 - **Builder:** ThorpyFX
-- **Pedal:** Shaftesbury Duo Fuzz — standard / Heritage versions consolidated
 - **Catalog type:** Fuzz
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** ThorpyFX's Shaftesbury Duo Fuzz — standard / Heritage versions consolidated.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Shaftesbury Duo Fuzz — standard / Heritage versions consolidated** by **ThorpyFX** as a **Fuzz** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+ThorpyFX's Shaftesbury Duo Fuzz — standard / Heritage versions consolidated is cataloged as a fuzz pedal.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+Rose Morris have collaborated with ThorpyFX to meticulously recreate the Duo Fuzz, in both its original big box glory and in a more pedalboard friendly compact enclosure.
+Originally released in the heyday of guitar effects pedal inventions and distributed by Rose Morris, the DUO FUZZ combines two unique fuzz effect voicings that can be heard on legendary recordings from the likes of Genesis and The Who.
+Rose Morris have collaborated with ThorpyFX to meticulously recreate the DUO FUZZ, in both its original big box glory and in a more pedalboard friendly compact enclosure.
+
+## Sources checked
+1. Shaftesbury Duo Fuzz Heritage Edition: https://thorpyfx.com/en-us/products/shaftesbury-duo-fuzz-heritage-edition
+2. Shaftesbury Duo Fuzz &ndash; Rose-Morris: https://rosemorris.com/products/shaftesbury-duo-fuzz
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

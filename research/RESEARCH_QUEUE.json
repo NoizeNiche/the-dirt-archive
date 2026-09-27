@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-27T23:49:03.951358+00:00",
+  "generated_at": "2026-09-27T23:49:34.132958+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,8 +10,8 @@
     "pictured": 3476,
     "complete": 3476,
     "research_pending": 0,
-    "deep_research_pending": 277,
-    "deep_researched": 3929,
+    "deep_research_pending": 271,
+    "deep_researched": 3935,
     "surface_ready": 4206
   },
   "next_target": {
@@ -34,13 +34,6 @@
       "pedal": "Rancho de la Luna Dirt Transmitter — Fuzz Driver",
       "catalog_type": "",
       "research_record": "./research/pedals/EarthQuaker Devices/Rancho de la Luna Dirt Transmitter — Fuzz Driver.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Fairfield Circuitry",
-      "pedal": "Barbershop — consolidated across V1 / Millennium Edition",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Fairfield Circuitry/Barbershop — consolidated across V1 / Millennium Edition.md",
       "research_level": "surface"
     },
     {
@@ -122,13 +115,6 @@
     },
     {
       "builder": "Himmelstrutz Elektro Art",
-      "pedal": "FETTO Jr",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Himmelstrutz Elektro Art/FETTO Jr.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Himmelstrutz Elektro Art",
       "pedal": "FETTO SC",
       "catalog_type": "",
       "research_record": "./research/pedals/Himmelstrutz Elektro Art/FETTO SC.md",
@@ -171,13 +157,6 @@
     },
     {
       "builder": "IdiotBox Effects",
-      "pedal": "No Moon 2 — coming soon",
-      "catalog_type": "",
-      "research_record": "./research/pedals/IdiotBox Effects/No Moon 2 — coming soon.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "IdiotBox Effects",
       "pedal": "PowerBoost (retired)",
       "catalog_type": "",
       "research_record": "./research/pedals/IdiotBox Effects/PowerBoost (retired).md",
@@ -195,6 +174,27 @@
       "pedal": "Classic Vintage Fuzz",
       "catalog_type": "",
       "research_record": "./research/pedals/Jackson Audio/Classic Vintage Fuzz.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "JAM Pedals",
+      "pedal": "Rattler Bass / Rattler Bass MKII",
+      "catalog_type": "",
+      "research_record": "./research/pedals/JAM Pedals/Rattler Bass / Rattler Bass MKII.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "JAM Pedals",
+      "pedal": "Tiny Pond?",
+      "catalog_type": "",
+      "research_record": "./research/pedals/JAM Pedals/Tiny Pond?.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "JHS Pedals",
+      "pedal": "Notadümb̈le V2",
+      "catalog_type": "",
+      "research_record": "./research/pedals/JHS Pedals/Notadümb̈le V2.md",
       "research_level": "surface"
     }
   ]
