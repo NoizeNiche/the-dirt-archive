@@ -2810,7 +2810,7 @@ async function recoverEntry(browser, entry, deepReview = false, recoveryDeadline
           // Normalize those escapes before extracting the exact CDN hosts.
           const html = (await page.content()).replace(/\\\//g, '/');
           const urls = [
-            ...html.matchAll(/https?:\/\/(?:rvb-img\.reverb\.com|static\.reverb-assets\.com)\/[^"'\\s<>\\]+/gi)
+            ...html.matchAll(/https?:\/\/(?:rvb-img\.reverb\.com|static\.reverb-assets\.com)\/[^"'\s<>\\]+/gi)
           ].map(match => match[0].replace(/&amp;/g, '&'));
           for (const url of [...new Set(urls)].slice(0, 24)) {
             embeddedImageCandidates.push({
@@ -3163,7 +3163,7 @@ async function recoverEntry(browser, entry, deepReview = false, recoveryDeadline
                     img.className || ''
                   ].join(' '));
                   const galleryLike = /(^|\s)(image|photo)\s*\d+/i.test(String(img.alt || '')) ||
-                    /rvb-img\\.reverb\\.com|static\\.reverb-assets\\.com/i.test(raw) ||
+                    /rvb-img\.reverb\.com|static\.reverb-assets\.com/i.test(raw) ||
                     semantic > 0;
                   const nearHeading = h1Rect
                     ? Math.abs(rect.top - h1Top) <= 2400
