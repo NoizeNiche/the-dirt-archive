@@ -4,45 +4,70 @@
 - **Archive parent:** Fake Plastic Trees
 - **Builder:** Audio Kitchen
 - **Catalog type:** Overdrive
-- **Identity:** Solid-state Class A preamp/overdrive designed as a sonic homage to The Big Trees line-output circuit.
+- **Identity:** Solid-state Class A preamp/overdrive designed as a carefully engineered homage to the line-output character of Audio Kitchen's The Big Trees amplifier. [1][2]
 
 ## What this pedal is
-Audio Kitchen describes Fake Plastic Trees (FPT) as a carefully engineered solid-state homage to the tonal character of the line output of The Big Trees. It is built as a pedalboard-friendly preamp rather than a speaker-driving amplifier.
+Audio Kitchen describes Fake Plastic Trees (FPT) as a solid-state recreation of the tonal qualities available from The Big Trees' line output. It is intended to provide the dynamic, harmonically rich character of the larger valve design in pedalboard format. [1]
 
-## Colorways
-- Die-cast aluminum enclosure
-- No color-specific circuit revision was verified.
+## Controls
+- **GAIN**
+- **ROOT:** Low-frequency control.
+- **BRANCH:** High-frequency control.
+- **VOLUME**
+The current product documentation identifies the FPT as a Class A solid-state device rather than a tube amplifier. [1][2]
 
-## Versions and factory options
-### Fake Plastic Trees production
-- Gain
-- Root (bass)
-- Branch (treble)
-- Volume
-- Footswitch to engage/bypass the pedal
-- Class A solid-state architecture
-- Hand-selected JFET devices are documented by Audio Kitchen's supporting literature
+## Circuit architecture
+Audio Kitchen identifies several defining internal elements:
+- **Class A, hand-graded JFETs**
+- A **discrete stage modeling EL84 grid-clipping behavior**
+- Custom **Mu-metal output transformer**
+- A **The Big Trees speaker-load model**
+- **Class A line driver** [1]
+This gives the archive a substantially firmer circuit description than a generic “JFET overdrive” label.
 
-## Version changes
-No numbered factory revision was verified.
+## Transistor / active device
+- **Hand-graded JFETs:** Explicitly documented by Audio Kitchen.
+- Exact JFET part number is not stated in the reviewed public product text. [1]
 
-## Transistor
-- **Technology:** Class A solid-state preamp.
-- **Device:** Hand-selected JFET devices are documented.
-- **Exact part number:** Not established from the accessible builder material.
+## Diode / clipping
+- The published architecture describes a discrete stage modeling EL84 grid clipping rather than publishing a conventional pedal clipping-diode recipe.
+- Exact diode components are not publicly documented. [1]
 
-## Diode
-- **Type:** Exact clipping diode arrangement not publicly documented.
+## Construction / hardware
+- Solid-state Class A design.
+- Custom Mu-metal output transformer.
+- Die-cast pedal enclosure.
+- The design is engineered specifically around the line-output/speaker-load behavior of The Big Trees. [1]
+
+## Version history
+- No numbered electronic revision established from the reviewed public material.
+- The defining design relationship is FPT as the solid-state line-output homage to The Big Trees. [1]
+
+## Power
+- Exact supply voltage/current was not reliably established in the reviewed public product text.
 
 ## Sound
-FPT is designed to reproduce the dynamic, harmonically rich character of The Big Trees line output without requiring a valve power stage. Demonstrations emphasize a wide dynamic range, from clean and touch-sensitive response to full crunch with picking intensity. 
+Audio Kitchen emphasizes an ultra-dynamic, highly playable response. Independent demonstration material shows the FPT moving from cleaner tones into heavier crunch as gain increases, with the pedal also being used successfully with guitar and bass rigs. These are source-described demonstrations rather than measured response curves. [1][2][3]
+
+## Research confidence
+- **Identity:** High
+- **Solid-state Class A design:** High
+- **JFET implementation:** High
+- **Discrete EL84 grid-clipping model:** High
+- **Mu-metal transformer:** High
+- **Big Trees speaker-load modeling:** High
+- **Exact JFET part:** Unknown
+- **Exact diode:** Unknown
+- **Power specification:** Not established
+
+## Deep research verification
+Audio Kitchen's current FPT product page was checked directly and cross-referenced with independent demonstration material. The manufacturer documentation provides the key internal architecture, including hand-graded JFETs, discrete EL84-grid-clipping modeling, custom Mu-metal transformer, speaker-load model and Class A line driver. [1][2]
 
 ## Sources checked
-1. Audio Kitchen — official product overview: https://www.audiokitchen.co.uk/
-2. Effects Database — Fake Plastic Trees: https://www.effectsdatabase.com/model/audiokitchen/fakeplastictrees
-3. Audio Kitchen / demonstration description: https://www.youtube.com/watch?v=HqIyBlNbPeo
+1. Audio Kitchen — Fake Plastic Trees: https://www.audiokitchen.co.uk/products/fake-plastic-trees/
+2. Audio Kitchen — Main product overview: https://www.audiokitchen.co.uk/
+3. TUNNEL OF REVERB — Fake Plastic Trees demonstration: https://www.youtube.com/watch?v=QnKroKUx72M
 
 ## Photo
 - **Archive status:** **No Photo Archived**
-- **Exact-model reference checked:** https://www.audiokitchen.co.uk/
-- **Archive note:** Exact-model identity was checked, but no stable exact-model image asset was promoted during this pass. Keep the public card at **No Photo Archived** rather than substitute another model.
+- **Exact-model reference checked:** Audio Kitchen exact-model page.
