@@ -462,11 +462,15 @@ async function targetRecord(builder,pedal,type){
   // search that can supply a second independent source.
   const cachedHosts = new Set([...verifiedCache.keys()].map(host).filter(Boolean));
   const knownHosts = new Set(urls.map(host).filter(Boolean));
-  // Source-rich targets should validate curated leads before spending the worker
-  // budget on broad search-engine discovery. If those leads prove insufficient,
-  // a later bounded pass can reopen discovery without weakening the identity gate.
-  if(cachedHosts.size < 2 && knownHosts.size < 2){
-    const queryResults = await boundedMap(queries, 3, q => search(q));
+  // Curated source hosts are only sufficient once they have actually produced
+  // verified cached evidence. Unfetched override URLs can be generic, blocked,
+  // stale, or otherwise unusable, so they must not suppress independent discovery.
+  // When two or more curated hosts are already verified, keep discovery to a small
+  // three-query tranche to preserve throughput while still checking for independent
+  // corroboration. This is especially important for historical pedal records.
+  if(cachedHosts.size < 2){
+    const discoveryQueries = knownHosts.size >= 2 ? queries.slice(0,3) : queries;
+    const queryResults = await boundedMap(discoveryQueries, 3, q => search(q));
     for(const batch of queryResults){
       for(const x of batch || []) if(!found.has(x.url)) found.set(x.url,x);
     }
