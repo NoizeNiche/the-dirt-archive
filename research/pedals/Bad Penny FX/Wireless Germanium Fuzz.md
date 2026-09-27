@@ -4,34 +4,44 @@
 - **Archive parent:** Wireless Germanium Fuzz
 - **Builder:** Bad Penny FX
 - **Catalog type:** Fuzz
-- **Identity:** Bad Penny FX's Wireless Germanium Fuzz.
+- **Identity:** Bad Penny FX germanium fuzz documented in the historical Gear Hero product record. Technical component and control documentation is sparse, so the archive does not infer a specific vintage clone circuit. [1]
 
 ## What this pedal is
-Bad Penny FX's Wireless Germanium Fuzz is cataloged as a Fuzz pedal.
-
-## Colorways
-- No specific factory colorway information was established in the verified evidence packet.
-
-## Versions and factory options
-- No distinct factory revision was established in the verified evidence packet.
-
-## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+The exact-model product record identifies Wireless Germanium Fuzz as a Bad Penny FX germanium fuzz. The surviving evidence does not disclose a complete schematic, transistor number, diode recipe or stable control map. [1]
 
 ## Transistor
-- Documented terms in the verified sources: Germanium Fuzz.
-- The archive records only the component information explicitly present in these sources.
+- **Technology:** Germanium fuzz.
+- Exact transistor part number is not published in the reviewed source.
 
-## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
-- **Exact part:** Unknown.
+## Diode / clipping
+- Exact clipping-device type and part number are unknown.
+
+## Controls
+- Complete authoritative control map not established.
+
+## Power
+- A reliable exact-model voltage/current specification was not established.
+
+## Version history
+- No numbered revision established.
 
 ## Sound
-Bad Penny FX Wireless Germanium Fuzz &ndash; Gear Hero Skip to content MENU CATEGORY Exclusives Instruments Instruments Guitars Amps Percussion Pedals Other SALE SALE Mr Intermittent&#39;s Epic Purge CLEARANCE!
-Most Popular Categories See All Categories Percussion 31 items Guitars 8 items Exclusives and Customs 2 items Outlet 13 items Hello, sign in Account List sign in Create account 0 Home Bad Penny FX Wireless Germanium Fuzz Skip to product information <img srcset="//gearhero.com/cdn/shop/products/8f79918e-a46c-4b0b-ad7b-163be490e4d7.jpg?v=1603730771&width=493 493w, //gearhero.com/cdn/shop/products/8f79918e-a46c-4b0b-ad7b-163be490e4d7.jpg?v=1603730771&width=600 600w, //gearhero.com/cdn/shop/products/8f79918e-a46c-4b0b-ad7b-163be490e4d7.jpg?v=1603730771&width=713 713w, //gearhero.com/cdn/shop/products/8f79918e-a46c-4b0b-ad7b-163be490e4d7.jpg?v=1603730771&width=823 823w, //gearhero.com/cdn/shop/products/8f79918e-a46c-4b0b-ad7b-163be490e4d7.jpg?v=1603730771&width=990 990w, //gearhero.com/cdn/shop/products/8f79918e-a46c-4b0b-ad7b-163be490e4d7.jpg?
+The surviving source supports a germanium-fuzz classification but does not provide enough authoritative circuit or sonic detail to assign a specific vintage lineage or frequency profile. [1]
+
+## Research confidence
+- **Identity:** High
+- **Germanium fuzz classification:** High
+- **Exact transistor:** Unknown
+- **Exact diode:** Unknown
+- **Control map:** Unknown
+- **Power:** Not established
+
+## Deep research verification
+The exact Gear Hero product record was rechecked. It confirms the model identity and germanium classification but does not preserve enough component-level information to support further claims. [1]
 
 ## Sources checked
-1. Bad Penny FX Wireless Germanium Fuzz &ndash; Gear Hero: https://gearhero.com/products/bad-penny-fx-wireless-germanium-fuzz
+1. Gear Hero — Bad Penny FX Wireless Germanium Fuzz: https://gearhero.com/products/bad-penny-fx-wireless-germanium-fuzz
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** **No Photo Archived**
+- **Exact-model reference checked:** Gear Hero exact-model product page.
