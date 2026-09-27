@@ -1,38 +1,54 @@
-# CKK Electronic — Lunar Drive - Vintage Amp Tone Overdrive
+# CKK Electronic — Lunar Drive
 
 ## PRP identity
 - **Archive parent:** Lunar Drive - Vintage Amp Tone Overdrive
 - **Builder:** CKK Electronic
 - **Catalog type:** Overdrive
-- **Identity:** CKK Electronic Lunar Drive, a vintage-amp-oriented overdrive with two-band EQ and selectable clipping.
+- **Identity:** Vintage-amp-oriented overdrive with Volume, Drive, Treble, Bass and a selectable clipping circuit. [1]
 
-## What this pedal is
-CKK product documentation describes Lunar Drive as an overdrive intended to recreate the character of 1960s tube amps, covering clean boost through increasingly intense overdrive. [1]
-
-## Colorways
-No complete factory colorway sequence was established.
-
-## Versions and factory options
-Documented controls/features:
-- Volume.
-- Drive.
-- Treble.
-- Bass.
-- CLIP switch selecting the clipping device.
+## Controls
+- **VOLUME**
+- **DRIVE**
+- **TREBLE**
+- **BASS**
+- **CLIP:** Changes the clipping-device configuration.
 - True bypass.
 - 9V DC or battery operation. [1]
 
-## Version changes
-No formal numbered factory revision sequence was established.
+## Circuit / topology
+- Analog overdrive.
+- CKK positions it around the character of **1960s tube amplifiers**.
+- Exact schematic and active-device BOM are not published.
 
 ## Transistor
-No exact-model transistor part number was established.
+- Exact production transistor/device part number is not publicly documented.
 
-## Diode
-The CLIP switch selects between different clipping-device configurations, but exact diode part numbers were not published in the checked source. [1]
+## Diode / clipping
+- The CLIP switch changes clipping configuration.
+- Exact diode/device types are not identified. [1]
+
+## Power
+- **9V DC or battery**. [1]
+- Current draw not established.
+
+## Version history
+- No numbered electronic revision established.
 
 ## Sound
-Lunar Drive is intended to cover clean boost, smooth light drive, and stronger overdrive while retaining a warm, dynamic character. The Treble and Bass controls provide broader amp-style tonal shaping, while the CLIP switch changes the clipping behavior. [1]
+Lunar Drive spans cleaner boost through smooth light drive and stronger overdrive. Treble/Bass provide broad amp-style shaping, while CLIP changes the saturation character. [1]
+
+## Research confidence
+- **Identity:** High
+- **1960s tube-amp target:** High
+- **Five-control map:** High
+- **CLIP switching:** High
+- **Exact clipping devices:** Unknown
+
+## Deep research verification
+CKK's surviving product archive confirms the five-control layout, 1960s tube-amp target, CLIP switching, true bypass and 9V/battery operation. [1]
 
 ## Sources checked
 1. CKK Electronic product archive / AN2 Music: https://an2music.weebly.com/ckk-electronic.html
+
+## Photo
+- Exact-model image status remains handled by the photo lane.
