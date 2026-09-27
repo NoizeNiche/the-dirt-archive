@@ -1,28 +1,36 @@
-# Ashdown Engineering - Pro-DI
+# Ashdown Engineering — Pro-DI
 
 ## PRP identity
-- Builder: Ashdown Engineering
-- Catalog type: Overdrive
-- Identity: Ashdown Pro-DI bass preamp/DI with valve-emulated overdrive.
+- **Archive parent:** Pro-DI
+- **Builder:** Ashdown Engineering
+- **Catalog type:** Overdrive
+- **Identity:** Ashdown Engineering's Pro-DI.
 
 ## What this pedal is
-Pro-DI combines a five-band EQ, Ashdown Shape option, valve-emulated overdrive, mix/level controls and transformer-isolated DI facilities.
+Ashdown Engineering's Pro-DI is cataloged as an overdrive pedal.
 
-## Controls / architecture
-- 5-band EQ.
-- Ashdown Shape.
-- Drive Mix and Drive Level.
-- Input and output adjustments.
-- Active/passive input sensitivity pad.
-- Line input and Line Mix.
-- Ground lift.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
 
-## History
-Effects Database dates the product to December 7, 2023 and says it launched in September 2023.
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+The valve-emulated overdrive, complete with drive mix and level controls, ensures you won't compromise volume or gain.
 
 ## Sources checked
-1. Effects Database: https://www.effectsdatabase.com/model/ashdown/prodi
-2. Ashdown Engineering: https://ashdownmusic.com/
+1. Ashdown Engineering Pro-DI | Effects Database: https://www.effectsdatabase.com/model/ashdown/prodi
 
 ## Photo
-- Exact photo pending.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

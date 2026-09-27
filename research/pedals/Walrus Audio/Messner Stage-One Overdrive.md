@@ -1,23 +1,40 @@
 # Walrus Audio — Messner Stage-One Overdrive
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Messner Stage-One Overdrive
 - **Builder:** Walrus Audio
-- **Pedal:** Messner Stage-One Overdrive
 - **Catalog type:** Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Walrus Audio's Messner Stage-One Overdrive.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Messner Stage-One Overdrive** by **Walrus Audio** as a **Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Walrus Audio Messner Stage-One Overdrive is available for preorder now at www.walrusaudio.com.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- It is designed to preserve the natural voice of your guitar by not coloring your tone, but giving the user the ability to dial in and out the exact amount of tone they desire.
+- The Messner comes in a white texture enclosure and can more than hold up to the demands of touring; exact size is 4.77” x 2.9” x 2.3”.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+Walrus is capturing that very environment and recreating it inside a transparent overdrive pedal.
+Walrus is ecstatic to announce the release of its newest pedal, the Messner StageOne Overdrive.
+The Messner is a low gain-transparent overdrive boasting a wide range of overdrive possibilities.
+
+## Sources checked
+1. Walrus Audio Messner Stage-One Overdrive - Vintage Guitar: https://www.vintageguitar.com/27360/walrus-audio-messner-stage-one-overdrive/
+2. Walrus Audio Announce Messner Stage-One Overdrive: https://guitarinteractivemagazine.com/news/walrus-audio-announce-messner-stage-one-overdrive/
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

@@ -1,23 +1,38 @@
 # Wampler Pedals — Dracarys Distortion
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Dracarys Distortion
 - **Builder:** Wampler Pedals
-- **Pedal:** Dracarys Distortion
 - **Catalog type:** Distortion / Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Wampler Pedals's Dracarys Distortion.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Dracarys Distortion** by **Wampler Pedals** as a **Distortion / Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Those qualities are on full display within the Dracarys Distortion.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+But tap into its decidedly modern soul, and the Dracarys will instantly morph your clean amp into one of the most savage and modern high-gain powerhouses this side of Mr.
+As Ola puts it, no matter type of high-gain tones you’re looking for, “It can definitely deliver the chug.” Brian Wampler’s ability to distill the playing experience of a cranked guitar amp into a box that fits on your pedalboard makes him among the premier effects builders in the world.
+He had to create a pedal that contained that same searing gain, percussive low end, unparalleled note clarity.
+
+## Sources checked
+1. Dracarys Distortion | Wampler Pedals: https://www.wamplerpedals.com/products/distortion-overdrive/dracarys/
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

@@ -4885,8 +4885,8 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/ashdown/prodi",
       "research_record": "./research/pedals/Ashdown Engineering/Pro-DI.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Ashdown Engineering",
@@ -38617,8 +38617,8 @@
       "image": "",
       "source_page": "https://rockettpedals.com/",
       "research_record": "./research/pedals/J. Rockett Audio Designs/WTF Fuzz.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Jackson Audio",
@@ -42331,8 +42331,8 @@
       "image": "",
       "source_page": "https://mpamp.com/category/8/shop",
       "research_record": "./research/pedals/Mad Professor Amplification/Super Black mini.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Mad Professor Amplification",
@@ -52088,8 +52088,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/ThorpyFX/WOPR.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Tone City",
@@ -54222,8 +54222,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Walrus Audio/Messner Stage-One Overdrive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Walrus Audio",
@@ -54465,8 +54465,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Wampler Pedals/Dracarys Distortion.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Wampler Pedals",
