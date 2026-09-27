@@ -3,45 +3,56 @@
 ## PRP identity
 - **Archive parent:** Evil Twin
 - **Builder:** Champion Leccy
-- **Catalog type:** Distortion / Fuzz
-- **Identity:** Champion Leccy Evil Twin, a dual-Fettle boost / oscillator design with sub-octave, resonance, tremolo-like, and oscillating textures.
+- **Catalog type:** Boost / Distortion / Fuzz / Oscillator
+- **Identity:** Two-Fettle-Boost-derived design with one side retaining boost function and the other adding octave, resonance, tremolo-like and oscillator behavior. [1][2]
 
-## What this pedal is
-Effects Database describes the Evil Twin as a combination of two Wee Fettle Boosts with additional controls that create oscillation, lower-octave randomness, frequency-dependent resonance, and tremolo-like effects. [1]
-
-Champion Leccy's 2025 release notes state that the newer limited run retained the original design's behavior while making small hardware changes, including an improved power section and an external pot in place of one original internal trim. [2]
-
-## Colorways
-- The 2025 limited run is documented by Champion Leccy as a new portrait-format enclosure with new artwork. [2]
-- A complete factory colorway sequence was not established.
-
-## Versions and factory options
-### Original Evil Twin
-Effects Database documents the original design as two independently usable Fettle Boost sides, with the second side adding the “evil” features. [1]
-
-### 2025 edition
-Champion Leccy documents the 2025 edition as a limited run with:
-- Improved power section.
-- One former internal trim moved to an external pot.
-- Portrait rather than landscape enclosure.
-- New artwork.
-- Same overall sonic behavior. [2]
-
-## Version changes
-The builder explicitly calls the later unit a new edition rather than presenting it as a completely different circuit. The 2025 edition changes hardware/layout while preserving the core functionality. [2]
+## Circuit architecture
+- Two Fettle Boost-derived sections.
+- Fettle lineage uses a **JFET** gain stage plus BJT-based later gain stage. [1]
+- The “evil” section adds lower-octave/randomized behavior, resonance and oscillation controls. [1][2]
 
 ## Transistor
-The Evil Twin is based on the Fettle Boost architecture, which Champion Leccy describes as using a **JFET** stage plus a BJT gain stage. [1][3]
+- JFET/BJT architecture inherited from the Fettle family.
+- Exact transistor part numbers are not established.
 
-Exact transistor part numbers were not established.
+## Diode / clipping
+- Exact clipping-device part numbers are not established.
 
-## Diode
-No exact-model diode specification was established.
+## Version history
+### Original Evil Twin
+- Two Fettle-derived channels.
+- Second channel adds the unusual oscillator/sub-octave/resonance functionality. [1]
+
+### 2025 limited edition
+Champion Leccy documented:
+- Improved power section.
+- One former internal trim moved to an external potentiometer.
+- Portrait-format enclosure instead of the earlier landscape layout.
+- New artwork.
+- Core behavior retained. [2]
+
+This is a documented hardware/layout update, not merely a finish change.
+
+## Power
+- Model-specific current draw is not securely preserved in the reviewed sources.
 
 ## Sound
-The standard side provides a dirty JFET boost. Engaging the Evil Twin side adds unstable textures including lower-octave randomness, resonance, tremolo-like behavior, and oscillation. The oscillation can respond to the pedal controls and the guitar's volume and pickup-selector settings. [1][2]
+The standard side supplies dirty JFET boost while the Evil side adds sub-octave randomness, resonance, tremolo-like modulation and oscillation. Champion Leccy notes that the oscillation can interact with the pedal controls and guitar settings. [1][2]
+
+## Research confidence
+- **Identity:** High
+- **Fettle lineage:** High
+- **2025 hardware update:** High
+- **Oscillator/sub-octave architecture:** High
+- **Exact devices:** Unknown
+
+## Deep research verification
+Effects Database was cross-checked with Champion Leccy's own 2025 release note and Fettle-family documentation. The sources establish both the original architecture and the documented 2025 hardware changes. [1][2][3]
 
 ## Sources checked
 1. Effects Database — Champion Leccy Evil Twin: https://www.effectsdatabase.com/model/championleccy/eviltwin
-2. Champion Leccy — Summer 2025 update / Evil Twin: https://championleccy.com/2025/06/11/summer-leccy-2025-may-you-live-in-interesting-times/
-3. Champion Leccy — The Fettle Boost vs. The Canny Fettle Boost: https://championleccy.com/2020/10/23/the-fettle-boost-vs-the-canny-fettle-boost/
+2. Champion Leccy — Summer Leccy 2025: https://championleccy.com/2025/06/11/summer-leccy-2025-may-you-live-in-interesting-times/
+3. Champion Leccy — Fettle Boost vs Canny Fettle Boost: https://championleccy.com/2020/10/23/the-fettle-boost-vs-the-canny-fettle-boost/
+
+## Photo
+- Exact-model photo status remains handled separately.
