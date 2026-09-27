@@ -4,40 +4,54 @@
 - **Archive parent:** Radio Trash Unrealistic Overdrive
 - **Builder:** Audio Surplus Effects
 - **Catalog type:** Overdrive
-- **Identity:** Lo-fi fuzzy overdrive based on the microphone preamp drive circuit of the Radio Shack / Realistic Reverb Unit.
+- **Identity:** Lo-fi fuzzy overdrive recreated from the microphone-preamp drive section of the Radio Shack / Realistic Reverb Unit, with expanded gain and output capability. [1][2]
 
 ## What this pedal is
-The builder recreated the overdriven mic-preamp sound of a cheap Radio Shack / Realistic reverb unit after using one extensively as a circuit-bent distortion source. Audio Surplus Effects then expanded the concept with more available gain and substantially more output volume.
+Audio Surplus Effects built Radio Trash after circuit-bending a Radio Shack reverb unit and becoming attached to the scuzzy overdrive generated when its mic preamp was driven hard. The pedal deliberately reproduces that blown-out character rather than cleaning it up into conventional boutique overdrive. [1]
 
-## Colorways
-- No reliable factory colorway history was verified.
-- The documented production run is a limited-batch pedal rather than a published colorway family.
+## Circuit / control context
+- Based on the **Radio Shack / Realistic Reverb Unit microphone preamp** drive circuit.
+- More available gain than the source unit.
+- More output volume than the source unit.
+- No universal external control labeling was preserved in the reviewed product page, so the archive does not invent a knob map.
 
-## Versions and factory options
-### Documented production
-- Lo-fi fuzzy overdrive based on the Radio Shack / Realistic Reverb Unit mic preamp
-- Expanded gain range relative to the source unit
-- Increased output capability relative to the source unit
-- 9-18VDC center-negative power
-- Higher operating voltage provides more headroom and less distortion
+## Active device
+- The source description characterizes the original as an **op-amp fuzz/drive**.
+- Exact production op-amp part number in the pedal is not publicly documented. [1]
 
-No numbered circuit revision was verified in the checked sources. A **Batch #2** sale is documented by the builder, but it is a sales batch rather than a proven circuit revision.
+## Diode / clipping
+- Exact clipping diode/device is not publicly documented.
 
-## Transistor
-- **Technology:** Op-amp-based source circuit, according to the builder's description.
-- **Exact device:** Not publicly documented.
+## Power
+- **9–18V DC, center-negative** power supply only.
+- Higher voltage provides more headroom and less distortion, according to the builder. [1]
+- No battery option is documented.
 
-## Diode
-- **Type:** Exact clipping diode arrangement is not publicly documented.
+## Version history
+- **Batch #2** is documented by the builder as a production sale batch.
+- No numbered electronic circuit revision has been established.
+- The batch number should therefore not be treated as a circuit-version number.
 
 ## Sound
-Radio Trash is intentionally scuzzy and lo-fi, moving from fuzzy overdrive toward harsher breakup as the gain rises. Higher-voltage operation opens the headroom and reduces distortion, while the core design stays focused on the blown-out mic-preamp character that inspired it.
+The design is deliberately fuzzy, scuzzy and lo-fi, with the distorted mic-preamp character becoming more aggressive as gain is increased. Running at higher supply voltage increases headroom and decreases distortion, while the core voice remains based on the overdriven reverb-unit preamp. [1][2]
+
+## Research confidence
+- **Identity:** High
+- **Radio Shack / Realistic mic-preamp lineage:** High
+- **Expanded gain/output:** High
+- **9–18V operation:** High
+- **Batch #2 identification:** High
+- **Exact op-amp:** Unknown
+- **Exact diode:** Unknown
+- **Full control map:** Not established
+
+## Deep research verification
+The current Audio Surplus Effects product listing was checked against a 2026 owner discussion. The owner report independently describes the pedal's fuzzy overdrive behavior, while the builder source establishes the Radio Shack/Realistic reverb-unit preamp origin, expanded gain/output and 9–18V behavior. [1][2]
 
 ## Sources checked
 1. Audio Surplus Effects — Radio Trash Unrealistic Overdrive: https://audiosurpluseffects.bigcartel.com/product/radio-trash-unrealistic-overdrive
-2. Reddit user report on a 2026 batch example: https://www.reddit.com/r/guitarpedals/comments/1uku3wg/audio_surplus_effects_radio_trash_behringer_vibe/
+2. Reddit — 2026 Radio Trash batch discussion: https://www.reddit.com/r/guitarpedals/comments/1uku3wg/audio_surplus_effects_radio_trash_behringer_vibe/
 
 ## Photo
 - **Archive status:** **No Photo Archived**
-- **Exact-model reference checked:** https://audiosurpluseffects.bigcartel.com/product/radio-trash-unrealistic-overdrive
-- **Archive note:** Exact-model images exist on the builder page, but no stable archive asset is being promoted in this pass.
+- **Exact-model reference checked:** builder product page.
