@@ -3,36 +3,60 @@
 ## PRP identity
 - **Archive parent:** Gut Ripper
 - **Builder:** B85 Audio
-- **Catalog type:** Distortion
-- **Identity:** B85 Audio's Gut Ripper.
+- **Catalog type:** Distortion / Preamp
+- **Identity:** Handcrafted high-gain distortion preamp based on the Wampler Triple Wreck circuit, modified by B85 Audio with additional gain and a buffer at the end of the distortion section. [1]
 
-## What this pedal is
-Typ: Distortion / Preamp Ovládání: Level, Gain, Treble, Middle, Bass, Crem a Face True bypass: Ano Vstup: Mono Výstup: Mono Napájení: Adaptér 9V DC Center negative (adaptér není součástí) Rozměry: cca X=94 mm, Y=124 mm, Z=51 mm ( rozměry jsou uváděny se všemi namontovanými díly, použitá krabička Hammond 1590BB ) B85 Audio Gut Ripper is a handcrafted high-gain guitar distortion preamp based on the Wampler Triple Wreck circuit, modified with several custom improvements.
+## Controls
+- **LEVEL**
+- **GAIN**
+- **TREBLE**
+- **MIDDLE**
+- **BASS**
+- **CREM**
+- **FACE**
+- True bypass. [1]
 
-## Colorways
-- No specific factory colorway information was established in the verified evidence packet.
+## Circuit lineage
+- **Primary reference:** Wampler **Triple Wreck**.
+- B85 Audio explicitly describes additional custom modifications:
+  - Increased gain.
+  - Added buffer after the distortion section to reinforce and tighten the result. [1]
+- The builder also cites Mesa/Boogie Dual Rectifier and Peavey 5150-style high-gain amplifiers as sonic references. [1]
 
-## Versions and factory options
-- No distinct factory revision was established in the verified evidence packet.
+## Active device
+- Exact transistor/op-amp part numbers are not publicly documented.
 
-## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+## Diode / clipping
+- Exact clipping-device arrangement is not publicly documented.
 
-## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
-- **Exact transistor/device:** Unknown.
+## Construction / power
+- Handcrafted floor pedal.
+- **Hammond 1590BB** enclosure.
+- Approx. **94 × 124 × 51mm**.
+- **9V DC center-negative** adapter. [1]
 
-## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
-- **Exact part:** Unknown.
+## Version history
+- No numbered electronic revision established.
+- Gut Ripper is treated as a customized Triple Wreck-derived production model.
 
 ## Sound
-Momentálně nedostupné / Currently unavailable Kód: GR Značka: B85 audio 2 500 Kč Měrná cena: Množství &plus; &minus; Do košíku Kategorie : Efekty Záruka : 2 roky Tisk Zeptat se Sdílet Tweet Zavřít ZDARMA ZDARMA Popis Videa (2) Diskuze B85 Audio Gut Ripper je ručně vyráběný podlahový hi-gain kytarový distortion preamp vycházející ze zapojení Wampler Triple Wreck, upravený o několik vlastních modifikací.
-Mezi hlavní úpravy patří navýšení gainu a přidání bufferu na konci distortion sekce, který celkově posiluje a zpevňuje výsledný zvuk.
-Zvukově je Gut Ripper inspirován moderními high-gain zesilovači typu Mesa Boogie Dual Rectifier nebo Peavey 5150.
+B85 Audio positions Gut Ripper as a high-gain distortion/preamp with additional gain and a buffered output stage intended to make the result stronger and tighter. The stated Dual Rectifier/5150 references are tonal targets, not circuit-identity claims. [1]
+
+## Research confidence
+- **Identity:** High
+- **Triple Wreck lineage:** High
+- **Custom gain/buffer modifications:** High
+- **Controls:** High
+- **9V center-negative:** High
+- **Exact active devices:** Unknown
+- **Exact diode:** Unknown
+
+## Deep research verification
+B85 Audio's current Gut Ripper listing was checked directly. It confirms the Triple Wreck basis, custom gain increase, output buffer, seven-control interface and 9V center-negative operation. [1]
 
 ## Sources checked
-1. Gut Ripper - B85 audio: https://www.b85audio.cz/gut-ripper/
+1. B85 Audio — Gut Ripper: https://www.b85audio.cz/gut-ripper/
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** **No Photo Archived**
+- **Exact-model reference checked:** B85 Audio exact-model page.
