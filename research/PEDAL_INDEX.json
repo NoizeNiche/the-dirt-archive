@@ -1,6 +1,6 @@
 {
   "version": "data-20260927-historical-census-sweep-07k",
-  "count": 4242,
+  "count": 4241,
   "pedals": [
     {
       "company": "1981 Inventions",
@@ -32887,18 +32887,6 @@
       "research_record": "./research/pedals/Dirty Boy/JUNIOR DB Overdrive / Dirty Boy Jr. Overdrive.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED"
-    },
-    {
-      "company": "Dirty Boy",
-      "pedal": "None promoted in this block",
-      "types": [
-        "Distortion"
-      ],
-      "image": "./assets/pedals/dirty-boy/none-promoted-in-this-block/primary.webp",
-      "source_page": null,
-      "research_record": "./research/pedals/Dirty Boy/None promoted in this block.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
     },
     {
       "company": "Dirty Boy",
