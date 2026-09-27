@@ -1,3 +1,12 @@
+## Catalog deep-research checkpoint — September 27, 2026
+
+The active deep-research lane advanced the next source-rich historical records in canonical queue order:
+- **Ampeg — A-1 Distortion** now has a dedicated deep-research verification section covering the 1982-1983 A-Series placement, exact controls/power/switching, the documented Guyatone/Rozz/Tora/Westbury OEM family relationship, and conservative treatment of the exact semiconductor question.
+- **B85 Audio — Oktadrive** now records the builder's one-octave-up, fixed-control design, handmade construction, 9V center-negative operation, true bypass, and the manufacturer's statement that six units were produced, with the last made February 4, 2024.
+- **Backbeat Electric — Bass Driver** now records the exact 2006 database identity and historical status while explicitly preserving the missing technical/tonal details because the surviving manufacturer page could not be retrieved in this pass.
+
+The canonical catalog/queue reconciler was kicked after the batch so these verified research-level changes can be propagated without hand-editing generated state.
+
 ## Viewer card/copy checkpoint - September 26, 2026
 
 The landing-page card presentation was cleaned after visual review:
