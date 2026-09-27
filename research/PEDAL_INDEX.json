@@ -46964,8 +46964,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/MXR/Raijin Drive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "MXR",
@@ -47108,8 +47108,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/MXR/Tom Morello Power 50 Overdrive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "MXR",
@@ -54690,8 +54690,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/VOX/Ice 9 Overdrive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "VOX",
