@@ -43526,8 +43526,8 @@
       "image": "./assets/pedals/mask-audio-electronics/cascader/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mask Audio Electronics/CASCADER.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Mask Audio Electronics",
@@ -47279,8 +47279,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Mythos Pedals/AU-79 Fuzz.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Mythos Pedals",

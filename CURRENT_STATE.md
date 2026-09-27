@@ -3,13 +3,13 @@
 
 The active production phase is **Catalog Research Phase**. PRP1 is retained only as a legacy publication/closeout mechanism.
 
-Live catalog: **4242 total / 4242 surface-ready / 3833 deep-researched / 3750 research-linked / 3218 pictured / 3218 complete / 0 surface-missing / 409 deep-research-pending / 532 researched-photo-pending**.
+Live catalog: **4242 total / 4242 surface-ready / 3835 deep-researched / 3750 research-linked / 3218 pictured / 3218 complete / 0 surface-missing / 407 deep-research-pending / 532 researched-photo-pending**.
 
 **Next deep-research target:** Captain FX - Crown Jr. Overdrive / Boost.
 
 PRP1 closeout remains separate: 532 researched record(s) still lack an exact local photo.
 The research queue is generated from the canonical catalog and tracker; do not hand-edit the derived queue.
-Last refreshed: 2026-09-27T14:00:43.529455+00:00
+Last refreshed: 2026-09-27T14:02:24.267274+00:00
 <!-- AUTO:RESEARCH_PHASE_END -->
 
 ## Historical checkpoints
