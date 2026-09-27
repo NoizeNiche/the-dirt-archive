@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-27T08:24:11.190164+00:00",
+  "generated_at": "2026-09-27T08:26:24.328432+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,37 +10,23 @@
     "pictured": 3107,
     "complete": 3107,
     "research_pending": 0,
-    "deep_research_pending": 2142,
-    "deep_researched": 2100,
+    "deep_research_pending": 2140,
+    "deep_researched": 2102,
     "surface_ready": 4242
   },
   "next_target": {
     "builder": "Bad Penny FX",
-    "pedal": "Dluxe Drive",
+    "pedal": "Fuzz Controller Germanium",
     "catalog_type": "",
-    "research_record": "./research/pedals/Bad Penny FX/Dluxe Drive.md",
+    "research_record": "./research/pedals/Bad Penny FX/Fuzz Controller Germanium.md",
     "research_level": "surface"
   },
   "working_set": [
     {
       "builder": "Bad Penny FX",
-      "pedal": "Dluxe Drive",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Bad Penny FX/Dluxe Drive.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Bad Penny FX",
       "pedal": "Fuzz Controller Germanium",
       "catalog_type": "",
       "research_record": "./research/pedals/Bad Penny FX/Fuzz Controller Germanium.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Bad Penny FX",
-      "pedal": "Littlebox Fuzz",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Bad Penny FX/Littlebox Fuzz.md",
       "research_level": "surface"
     },
     {
@@ -195,6 +181,20 @@
       "pedal": "Blacksmith Distortion",
       "catalog_type": "",
       "research_record": "./research/pedals/BBE/Blacksmith Distortion.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "BBE",
+      "pedal": "Crusher",
+      "catalog_type": "",
+      "research_record": "./research/pedals/BBE/Crusher.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "BBE",
+      "pedal": "Distorto³",
+      "catalog_type": "",
+      "research_record": "./research/pedals/BBE/Distorto³.md",
       "research_level": "surface"
     }
   ]
