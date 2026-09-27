@@ -43,3 +43,7 @@ The CBS-Arbiter Fuzz Face retains the two-control Fuzz Face format, with Volume 
 2. Reverb — Vintage 1972 CBS / Arbiter Fuzz Face, documented 2N3392 silicon example: https://reverb.com/item/5833594-vintage-1972-cbs-arbiter-fuzz-face-rare-original-dallas-arbiter-pedal-rare-2n3392-transistors-silicon-jimi-hendrix
 3. FUZZFACED — Dallas/Arbiter Fuzz Face history and CBS/Arbiter branding: https://www.fuzzfaced.net/dallas-fuzz-face.html
 4. Reverb — CBS Arbiter Fuzz Face 1973: https://reverb.com/item/17186334-cbs-arbiter-fuzz-face-1973
+
+## Deep research verification
+
+The exact CBS-Arbiter Fuzz Face record documents the 1970s CBS/Arbiter-branded continuation of the British Fuzz Face line. Verified external controls are **Volume** and **Fuzz** with battery power in the classic round enclosure. A surviving 1972 example is documented with **2N3392 silicon transistors**, but that remains unit-specific evidence rather than a universal CBS-Arbiter BOM. Grey and hammered-silver examples are documented as cosmetic period variants.
