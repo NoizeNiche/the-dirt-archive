@@ -44106,7 +44106,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/maxon/overdrive-pro-plus-od-9pro/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Maxon/Overdrive Pro Plus (OD-9Pro+).md",
       "research_level": "deep",
@@ -44119,7 +44119,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/maxon/overdrive-soft-distortion-osd-9/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Maxon/Overdrive-Soft Distortion (OSD-9).md",
       "research_level": "deep",
@@ -44132,7 +44132,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/maxon/real-tube-overdrive-rto700/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Maxon/Real Tube Overdrive (RTO700).md",
       "research_level": "deep",
@@ -46973,7 +46973,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/mxr/randy-rhoads-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/MXR/Randy Rhoads Distortion+.md",
       "research_level": "deep",
@@ -47712,7 +47712,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/nux-audio-nux/metal-core-deluxe/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/NUX Audio / NUX/Metal Core Deluxe.md",
       "research_level": "surface",
@@ -50594,7 +50594,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/skreddy-pedals/mayo-mkiii/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Skreddy Pedals/Mayo MkIII.md",
       "research_level": "deep",
@@ -50606,7 +50606,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/skreddy-pedals/mayonaise-mkiii/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Skreddy Pedals/Mayonaise MkIII.md",
       "research_level": "deep",
@@ -50689,7 +50689,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/skreddy-pedals/rubber-soul/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Skreddy Pedals/Rubber Soul.md",
       "research_level": "deep",
@@ -50701,7 +50701,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/skreddy-pedals/rust-rod/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Skreddy Pedals/Rust Rod.md",
       "research_level": "deep",
@@ -50727,7 +50727,7 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/skreddy-pedals/serenity-fuzzdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Skreddy Pedals/Serenity Fuzzdrive.md",
       "research_level": "deep",
@@ -51398,7 +51398,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/stomp-under-foot/la-scatola-nero/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Stomp Under Foot/La Scatola Nero.md",
       "research_level": "surface",
@@ -51410,7 +51410,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/stomp-under-foot/motor-honey-superdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Stomp Under Foot/Motor Honey Superdrive.md",
       "research_level": "deep",
@@ -51434,7 +51434,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/stomp-under-foot/overdrive-8-fifty-vintage-mini/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Stomp Under Foot/Overdrive 8-Fifty Vintage Mini.md",
       "research_level": "deep",
@@ -51446,7 +51446,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/stomp-under-foot/pumpkin-pi/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Stomp Under Foot/Pumpkin Pi.md",
       "research_level": "deep",
@@ -51920,7 +51920,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/subdecay/noise-theory-parallel-waveshaper-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Subdecay/Noise Theory – Parallel Waveshaper Fuzz.md",
       "research_level": "deep",
@@ -51987,7 +51987,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/suhr/kiko-loureiro-signature-shiba-drive-reloaded/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Suhr/Kiko Loureiro Signature Shiba Drive Reloaded.md",
       "research_level": "deep",
@@ -52063,7 +52063,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/suhr/shiba-drive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Suhr/Shiba Drive.md",
       "research_level": "deep",
@@ -52087,7 +52087,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/suhr/shiba-mini/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Suhr/Shiba Mini.md",
       "research_level": "deep",
@@ -52099,7 +52099,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/suhr/thornicus-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Suhr/Thornicus Fuzz.md",
       "research_level": "deep",
@@ -52271,7 +52271,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/tc-electronic/nova-drive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/TC Electronic/Nova Drive.md",
       "research_level": "deep",
@@ -52283,7 +52283,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/tc-electronic/r-ttweiler-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/TC Electronic/Röttweiler Distortion.md",
       "research_level": "deep",
@@ -52295,7 +52295,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/tc-electronic/rusty-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/TC Electronic/Rusty Fuzz.md",
       "research_level": "deep",
@@ -52432,7 +52432,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/tech-21-nyc/double-drive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Tech 21 NYC/Double Drive.md",
       "research_level": "deep",
@@ -52473,7 +52473,7 @@
         "Distortion",
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/tech-21-nyc/red-ripper/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Tech 21 NYC/Red Ripper.md",
       "research_level": "deep",
@@ -52486,7 +52486,7 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/tech-21-nyc/richie-kotzen-signature-omg/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Tech 21 NYC/Richie Kotzen Signature OMG.md",
       "research_level": "deep",
@@ -52537,7 +52537,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/thorpyfx/bunker/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/ThorpyFX/Bunker.md",
       "research_level": "deep",
@@ -52551,7 +52551,7 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/thorpyfx/bunker/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/ThorpyFX/BUNKER.md",
       "research_level": "deep",
@@ -52565,7 +52565,7 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/thorpyfx/bunker-plexi-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/ThorpyFX/BUNKER — Plexi Overdrive.md",
       "research_level": "surface",

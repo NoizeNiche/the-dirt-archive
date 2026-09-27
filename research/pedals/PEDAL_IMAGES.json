@@ -22770,21 +22770,21 @@
   {
     "builder": "Maxon",
     "pedal": "Overdrive Pro Plus (OD-9Pro+)",
-    "image": null,
+    "image": "./assets/pedals/maxon/overdrive-pro-plus-od-9pro/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Maxon/Overdrive Pro Plus (OD-9Pro+).md"
   },
   {
     "builder": "Maxon",
     "pedal": "Overdrive-Soft Distortion (OSD-9)",
-    "image": null,
+    "image": "./assets/pedals/maxon/overdrive-soft-distortion-osd-9/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Maxon/Overdrive-Soft Distortion (OSD-9).md"
   },
   {
     "builder": "Maxon",
     "pedal": "Real Tube Overdrive (RTO700)",
-    "image": null,
+    "image": "./assets/pedals/maxon/real-tube-overdrive-rto700/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Maxon/Real Tube Overdrive (RTO700).md"
   },
@@ -24408,7 +24408,7 @@
   {
     "builder": "MXR",
     "pedal": "Randy Rhoads Distortion+",
-    "image": null,
+    "image": "./assets/pedals/mxr/randy-rhoads-distortion/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/MXR/Randy Rhoads Distortion+.md"
   },
@@ -24835,7 +24835,7 @@
   {
     "builder": "NUX Audio / NUX",
     "pedal": "Metal Core Deluxe",
-    "image": null,
+    "image": "./assets/pedals/nux-audio-nux/metal-core-deluxe/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/NUX Audio / NUX/Metal Core Deluxe.md"
   },
@@ -26480,14 +26480,14 @@
   {
     "builder": "Skreddy Pedals",
     "pedal": "Mayo MkIII",
-    "image": null,
+    "image": "./assets/pedals/skreddy-pedals/mayo-mkiii/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Skreddy Pedals/Mayo MkIII.md"
   },
   {
     "builder": "Skreddy Pedals",
     "pedal": "Mayonaise MkIII",
-    "image": null,
+    "image": "./assets/pedals/skreddy-pedals/mayonaise-mkiii/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Skreddy Pedals/Mayonaise MkIII.md"
   },
@@ -26529,14 +26529,14 @@
   {
     "builder": "Skreddy Pedals",
     "pedal": "Rubber Soul",
-    "image": null,
+    "image": "./assets/pedals/skreddy-pedals/rubber-soul/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Skreddy Pedals/Rubber Soul.md"
   },
   {
     "builder": "Skreddy Pedals",
     "pedal": "Rust Rod",
-    "image": null,
+    "image": "./assets/pedals/skreddy-pedals/rust-rod/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Skreddy Pedals/Rust Rod.md"
   },
@@ -26550,7 +26550,7 @@
   {
     "builder": "Skreddy Pedals",
     "pedal": "Serenity Fuzzdrive",
-    "image": null,
+    "image": "./assets/pedals/skreddy-pedals/serenity-fuzzdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Skreddy Pedals/Serenity Fuzzdrive.md"
   },
@@ -26921,14 +26921,14 @@
   {
     "builder": "Stomp Under Foot",
     "pedal": "La Scatola Nero",
-    "image": null,
+    "image": "./assets/pedals/stomp-under-foot/la-scatola-nero/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Stomp Under Foot/La Scatola Nero.md"
   },
   {
     "builder": "Stomp Under Foot",
     "pedal": "Motor Honey Superdrive",
-    "image": null,
+    "image": "./assets/pedals/stomp-under-foot/motor-honey-superdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Stomp Under Foot/Motor Honey Superdrive.md"
   },
@@ -26942,14 +26942,14 @@
   {
     "builder": "Stomp Under Foot",
     "pedal": "Overdrive 8-Fifty Vintage Mini",
-    "image": null,
+    "image": "./assets/pedals/stomp-under-foot/overdrive-8-fifty-vintage-mini/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Stomp Under Foot/Overdrive 8-Fifty Vintage Mini.md"
   },
   {
     "builder": "Stomp Under Foot",
     "pedal": "Pumpkin Pi",
-    "image": null,
+    "image": "./assets/pedals/stomp-under-foot/pumpkin-pi/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Stomp Under Foot/Pumpkin Pi.md"
   },
@@ -27222,7 +27222,7 @@
   {
     "builder": "Subdecay",
     "pedal": "Noise Theory – Parallel Waveshaper Fuzz",
-    "image": null,
+    "image": "./assets/pedals/subdecay/noise-theory-parallel-waveshaper-fuzz/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Subdecay/Noise Theory – Parallel Waveshaper Fuzz.md"
   },
@@ -27257,7 +27257,7 @@
   {
     "builder": "Suhr",
     "pedal": "Kiko Loureiro Signature Shiba Drive Reloaded",
-    "image": null,
+    "image": "./assets/pedals/suhr/kiko-loureiro-signature-shiba-drive-reloaded/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Suhr/Kiko Loureiro Signature Shiba Drive Reloaded.md"
   },
@@ -27299,7 +27299,7 @@
   {
     "builder": "Suhr",
     "pedal": "Shiba Drive",
-    "image": null,
+    "image": "./assets/pedals/suhr/shiba-drive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Suhr/Shiba Drive.md"
   },
@@ -27313,14 +27313,14 @@
   {
     "builder": "Suhr",
     "pedal": "Shiba Mini",
-    "image": null,
+    "image": "./assets/pedals/suhr/shiba-mini/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Suhr/Shiba Mini.md"
   },
   {
     "builder": "Suhr",
     "pedal": "Thornicus Fuzz",
-    "image": null,
+    "image": "./assets/pedals/suhr/thornicus-fuzz/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Suhr/Thornicus Fuzz.md"
   },
@@ -27418,21 +27418,21 @@
   {
     "builder": "TC Electronic",
     "pedal": "Nova Drive",
-    "image": null,
+    "image": "./assets/pedals/tc-electronic/nova-drive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/TC Electronic/Nova Drive.md"
   },
   {
     "builder": "TC Electronic",
     "pedal": "Röttweiler Distortion",
-    "image": null,
+    "image": "./assets/pedals/tc-electronic/r-ttweiler-distortion/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/TC Electronic/Röttweiler Distortion.md"
   },
   {
     "builder": "TC Electronic",
     "pedal": "Rusty Fuzz",
-    "image": null,
+    "image": "./assets/pedals/tc-electronic/rusty-fuzz/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/TC Electronic/Rusty Fuzz.md"
   },
@@ -27509,7 +27509,7 @@
   {
     "builder": "Tech 21 NYC",
     "pedal": "Double Drive",
-    "image": null,
+    "image": "./assets/pedals/tech-21-nyc/double-drive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Tech 21 NYC/Double Drive.md"
   },
@@ -27530,14 +27530,14 @@
   {
     "builder": "Tech 21 NYC",
     "pedal": "Red Ripper",
-    "image": null,
+    "image": "./assets/pedals/tech-21-nyc/red-ripper/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Tech 21 NYC/Red Ripper.md"
   },
   {
     "builder": "Tech 21 NYC",
     "pedal": "Richie Kotzen Signature OMG",
-    "image": null,
+    "image": "./assets/pedals/tech-21-nyc/richie-kotzen-signature-omg/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Tech 21 NYC/Richie Kotzen Signature OMG.md"
   },
@@ -27565,21 +27565,21 @@
   {
     "builder": "ThorpyFX",
     "pedal": "Bunker",
-    "image": null,
+    "image": "./assets/pedals/thorpyfx/bunker/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/ThorpyFX/Bunker.md"
   },
   {
     "builder": "ThorpyFX",
     "pedal": "BUNKER",
-    "image": null,
+    "image": "./assets/pedals/thorpyfx/bunker/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/ThorpyFX/BUNKER.md"
   },
   {
     "builder": "ThorpyFX",
     "pedal": "BUNKER — Plexi Overdrive",
-    "image": null,
+    "image": "./assets/pedals/thorpyfx/bunker-plexi-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/ThorpyFX/BUNKER — Plexi Overdrive.md"
   },
