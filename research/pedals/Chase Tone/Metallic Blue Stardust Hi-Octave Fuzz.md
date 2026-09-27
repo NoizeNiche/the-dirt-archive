@@ -3,39 +3,47 @@
 ## PRP identity
 - **Archive parent:** Metallic Blue Stardust Hi-Octave Fuzz
 - **Builder:** Chase Tone
-- **Catalog type:** Fuzz
-- **Identity:** Chase Tone 1970s Metallic Blue Stardust Hi-Octave Fuzz, a high-octave fuzz designed around early-1970s octave-fuzz behavior with expanded note tracking and touch response.
+- **Catalog type:** Fuzz / Octave
+- **Identity:** Early-1970s-style high-octave fuzz with Output and Intensity controls, limited production and documented 2N3906 device evidence. [1][2]
 
-## What this pedal is
-Chase Tone describes the Metallic Blue Stardust as a limited-production early-1970s-style hi-octave fuzz with thick, warm even-order harmonics, increased note tracking, and strong touch dynamics. [1]
+## Controls
+- **OUTPUT**
+- **INTENSITY** [1]
 
-Effects Database places it in the octave-up fuzz category and documents the exact builder/model identity. [2]
-
-## Colorways
-- **Metallic Blue** Stardust finish is explicitly documented. [1]
-- The page describes this as part of the Stardust astronomy-inspired finish family. [1]
-
-## Versions and factory options
-Documented controls:
-- Output
-- Intensity [1]
-
-The builder explains that Output increases sustain, punch, clarity, and treble emphasis, while Intensity moves from cleaner/warm octave tones toward more saturated fuzz. [1]
-
-## Version changes
-The Metallic Blue Stardust was a limited-production model. No formal numbered factory revision sequence was established in the checked sources.
+## Circuit lineage
+- Early-1970s hi-octave fuzz family.
+- Chase Tone describes thick, warm even-order harmonics and improved note tracking relative to many vintage octave fuzzes. [1]
 
 ## Transistor
-Guitar Pedal X identifies the Metallic Blue Stardust as using a **2N3906** transistor in its documented circuit family. [2]
+- **2N3906** is identified in the independent component documentation for this model. [2]
+- The manufacturer source does not publish the complete semiconductor complement.
 
-The checked Chase Tone product page does not publish the full semiconductor complement, so the archive records the identified component without assuming additional parts.
+## Diode / clipping
+- Exact diode part number is not publicly documented.
 
-## Diode
-No exact-model diode specification was established in the checked sources.
+## Power
+- Exact model-specific voltage/current specification is not securely preserved in the reviewed sources.
+
+## Version history
+- Limited-production Metallic Blue Stardust model.
+- No numbered electronic revision established.
 
 ## Sound
-The pedal is designed for fluid hi-octave fuzz with strong note tracking and a warm, harmonically rich response. Lower Intensity settings can remain cleaner and more octave-focused, while higher settings add saturation, clipping, and treble emphasis. [1]
+Intensity moves from warmer, cleaner octave emphasis into more saturated fuzz. Chase Tone describes strong tracking and a harmonically rich, touch-sensitive response. [1]
+
+## Research confidence
+- **Identity:** High
+- **Hi-octave lineage:** High
+- **2N3906:** Medium/high, as independent component evidence
+- **Two-control map:** High
+- **Exact diode:** Unknown
+
+## Deep research verification
+Chase Tone's exact product page was cross-checked with Guitar Pedal X's documented component information. The archive scopes the 2N3906 claim to the independent evidence rather than presenting it as a full factory BOM. [1][2]
 
 ## Sources checked
-1. Chase Tone — Metallic Blue Stardust Hi-Octave: https://chasetone.com/metallic-blue-hi-octave/
+1. Chase Tone — Metallic Blue Hi-Octave: https://chasetone.com/metallic-blue-hi-octave/
 2. Guitar Pedal X — Chase Tone directory: https://www.guitarpedalx.com/news/guitar-pedal-directory---favourite-pedals-by-preferred-pedal-makers
+
+## Photo
+- Exact-model photo status remains handled separately.
