@@ -15742,7 +15742,7 @@
   {
     "builder": "EarthQuaker Devices",
     "pedal": "White Light",
-    "image": null,
+    "image": "./assets/pedals/earthquaker-devices/white-light/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/EarthQuaker Devices/White Light.md"
   },
@@ -19382,7 +19382,7 @@
   {
     "builder": "Lichtlaerm Audio",
     "pedal": "Total Distortion Worship MKII — extreme metal distortion with built-in overdrive",
-    "image": null,
+    "image": "./assets/pedals/lichtlaerm-audio/total-distortion-worship-mkii-extreme-metal-distortion-with-built-in-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Lichtlaerm Audio/Total Distortion Worship MKII — extreme metal distortion with built-in overdrive.md"
   },
@@ -19977,7 +19977,7 @@
   {
     "builder": "Maxon",
     "pedal": "DS830 Distortion Master",
-    "image": null,
+    "image": "./assets/pedals/maxon/ds830-distortion-master/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Maxon/DS830 Distortion Master.md"
   },
@@ -21699,7 +21699,7 @@
   {
     "builder": "Mythos Pedals",
     "pedal": "D-Style Herculean Overdrive",
-    "image": null,
+    "image": "./assets/pedals/mythos-pedals/d-style-herculean-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Mythos Pedals/D-Style Herculean Overdrive.md"
   },
@@ -22084,7 +22084,7 @@
   {
     "builder": "OKKO FX",
     "pedal": "The Dynamist",
-    "image": null,
+    "image": "./assets/pedals/okko-fx/the-dynamist/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/OKKO FX/The Dynamist.md"
   },
@@ -22112,28 +22112,28 @@
   {
     "builder": "Old Blood Noise Endeavors",
     "pedal": "Excess V2",
-    "image": null,
+    "image": "./assets/pedals/old-blood-noise-endeavors/excess-v2/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Old Blood Noise Endeavors/Excess V2.md"
   },
   {
     "builder": "Old Blood Noise Endeavors",
     "pedal": "Fault V2",
-    "image": null,
+    "image": "./assets/pedals/old-blood-noise-endeavors/fault-v2/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Old Blood Noise Endeavors/Fault V2.md"
   },
   {
     "builder": "Old Blood Noise Endeavors",
     "pedal": "Haunt Fuzz",
-    "image": null,
+    "image": "./assets/pedals/old-blood-noise-endeavors/haunt-fuzz/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Old Blood Noise Endeavors/Haunt Fuzz.md"
   },
   {
     "builder": "Old Blood Noise Endeavors",
     "pedal": "Pardner",
-    "image": null,
+    "image": "./assets/pedals/old-blood-noise-endeavors/pardner/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Old Blood Noise Endeavors/Pardner.md"
   },
