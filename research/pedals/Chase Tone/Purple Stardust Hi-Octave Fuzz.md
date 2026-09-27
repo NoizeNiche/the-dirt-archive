@@ -3,35 +3,47 @@
 ## PRP identity
 - **Archive parent:** Purple Stardust Hi-Octave Fuzz
 - **Builder:** Chase Tone
-- **Catalog type:** Fuzz
-- **Identity:** Chase Tone Purple Stardust Hi-Octave Fuzz, a late-1960s-style octave-fuzz pedal with extended note tracking and sustain.
+- **Catalog type:** Fuzz / Octave
+- **Identity:** Late-1960s-style high-octave fuzz with Output and Intensity controls, originally offered as a limited-production Flying Wedge pedal and later reissued. [1][2]
 
-## What this pedal is
-Chase Tone describes the Purple Stardust as a fluid, harmonically complex late-1960s-style hi-octave fuzz designed for stronger note tracking, warmth, sustain, and touch response than a basic vintage octave effect. The original flying-wedge enclosure version was a limited-production item in the 2010s. [1][2]
+## Controls
+- **OUTPUT**
+- **INTENSITY** [1][2]
 
-## Colorways
-- **Purple Stardust** finish is the defining documented colorway. [1]
-- A later reissue exists, but the checked source treats it as a successor/reissue rather than the same exact limited-run hardware. [1]
-
-## Versions and factory options
-The documented original controls include:
-- Output
-- Intensity [1][2]
-
-Effects Database describes the Output control as interacting with sustain, punch, clarity, and treble, while Intensity moves from cleaner/warm octave sounds toward more saturated fuzz. [2]
-
-## Version changes
-The original Flying Wedge Purple Stardust was a limited-production 2010s item. Chase Tone later released a reissue. [1]
+## Circuit lineage
+- Late-1960s hi-octave fuzz family.
+- Chase Tone positions the pedal for improved note tracking, warmth, sustain and touch response compared with a basic vintage octave effect. [1]
 
 ## Transistor
-No exact-model transistor specification was established in the checked sources.
+- Exact production transistor/device part numbers are not publicly documented in the reviewed sources.
 
-## Diode
-No exact-model diode specification was established.
+## Diode / clipping
+- Exact clipping-device part number is not publicly documented.
+
+## Power
+- Exact model-specific voltage/current details are not securely preserved.
+
+## Version history
+- Original **Flying Wedge** Purple Stardust was a limited-production 2010s model.
+- Later reissue is documented by Chase Tone.
+- The archive keeps the original identity and later reissue relationship separate from any unsupported circuit revision claims. [1]
 
 ## Sound
-The Purple Stardust is voiced as an articulate octave fuzz, with lower Intensity settings giving cleaner/warm octave tones and higher settings increasing saturation and treble. Chase Tone recommends the neck pickup for the most pronounced traditional octave effect. [1][2]
+Lower Intensity settings emphasize cleaner/warm octave tones, while higher Intensity settings add saturation, clipping and treble emphasis. Chase Tone notes that the neck pickup can maximize the traditional octave effect. [1][2]
+
+## Research confidence
+- **Identity:** High
+- **Late-1960s hi-octave lineage:** High
+- **Original/reissue history:** High
+- **Two-control map:** High
+- **Exact components:** Unknown
+
+## Deep research verification
+Chase Tone's original/reissue documentation and Effects Database were cross-checked. The sources establish the limited-production Flying Wedge origin, two-control interface and later reissue. [1][2]
 
 ## Sources checked
-1. Chase Tone — Purple Stardust Hi-Octave-Fuzz: https://chasetone.com/purple-stardust-hi-octave-fuzz/
+1. Chase Tone — Purple Stardust Hi-Octave Fuzz: https://chasetone.com/purple-stardust-hi-octave-fuzz/
 2. Effects Database — Chase Tone Purple Stardust: https://www.effectsdatabase.com/model/chasetone/hioctave/stardust/purple
+
+## Photo
+- Exact-model photo status remains handled separately.
