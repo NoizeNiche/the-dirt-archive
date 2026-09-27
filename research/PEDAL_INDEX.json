@@ -1,5 +1,5 @@
 {
-  "version": "data-20260927-historical-census-sweep-07g",
+  "version": "data-20260927-historical-census-sweep-07h",
   "count": 4242,
   "pedals": [
     {
@@ -19681,8 +19681,8 @@
       "image": null,
       "source_page": "https://github.com/NoizeNiche/the-dirt-archive/blob/main/research/SCRAPE_C_BLOCK_165_ADDENDUM.csv",
       "research_record": "./research/pedals/Captain FX/Overdriver.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Captain FX",
@@ -19693,8 +19693,8 @@
       "image": null,
       "source_page": "https://github.com/NoizeNiche/the-dirt-archive/blob/main/research/SCRAPE_C_BLOCK_165_ADDENDUM.csv",
       "research_record": "./research/pedals/Captain FX/War Pig.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Captain FX",
