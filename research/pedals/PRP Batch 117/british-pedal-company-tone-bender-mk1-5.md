@@ -31,3 +31,6 @@ The Mk1.5 format places the product in the early British Tone Bender fuzz family
 
 ## Sources checked
 1. Guitar Pedal X — British Pedal Company roundup: https://www.guitarpedalx.com/news/best-of-british-pedal-builders-roundup---an-a-z-overview-in-105-parts
+## Deep research verification
+
+Effects Database documents this exact British Pedal Company **MKI.5 Tone Bender** as a reproduction of the rare 1966 two-transistor Mk1.5 format. Verified specifications are **Level** and **Attack** controls, an aluminium cast casing, limited production, and **2x NOS OC75 transistors**. The source notes the original Mk1.5 transition to the grey Hammerite cast case and its association with the Beatles/Abbey Road history. Source: https://www.effectsdatabase.com/model/bpc/tonebender/mk15
