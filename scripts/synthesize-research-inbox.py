@@ -241,7 +241,7 @@ def write_record(item, tracker_type, packet):
             verified_lines.extend(sounds)
         verified_lines += ["", "### Sources checked in this pass"]
         for i, source in enumerate(sources, start=1):
-            title = norm(source.get("title")) or norm(source.get("h1")) or source.get("url")
+            title = str(source.get("title") or source.get("h1") or source.get("url") or "").strip()
             verified_lines.append(f"{i}. {title}: {source.get('url')}")
         record_path.write_text(existing_text.rstrip() + "\n" + "\n".join(verified_lines) + "\n", encoding="utf-8")
         item["research_level"] = "deep"
@@ -294,7 +294,7 @@ def write_record(item, tracker_type, packet):
         lines.append("The verified evidence packet did not contain enough pedal-specific sonic description to make a more detailed sound summary without adding unsupported interpretation.")
     lines += ["", "## Sources checked"]
     for i, source in enumerate(sources, start=1):
-        title = norm(source.get("title")) or norm(source.get("h1")) or source.get("url")
+        title = str(source.get("title") or source.get("h1") or source.get("url") or "").strip()
         lines.append(f"{i}. {title}: {source.get('url')}")
     lines += ["", "## Photo", "- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass."]
     record_path.write_text("\n".join(lines) + "\n", encoding="utf-8")
