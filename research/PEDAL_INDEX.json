@@ -1,6 +1,6 @@
 {
   "version": "data-20260924-prp1-cbs-arbiter-fuzz-phazer-direct-lead",
-  "count": 4064,
+  "count": 4137,
   "pedals": [
     {
       "company": "1981 Inventions",
@@ -55776,6 +55776,128 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/ZVEX Effects/Woolly Mammoth 7.md",
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "Pete Cornish",
+      "pedal": "CC-1",
+      "types": [
+        "Overdrive"
+      ],
+      "source_page": "https://www.petecornish.co.uk/GreySeries.html",
+      "image": "",
+      "research_record": "./research/pedals/Pete Cornish/CC-1.md",
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "Pete Cornish",
+      "pedal": "SS-2",
+      "types": [
+        "Overdrive"
+      ],
+      "source_page": "https://www.petecornish.co.uk/GreySeries.html",
+      "image": "",
+      "research_record": "./research/pedals/Pete Cornish/SS-2.md",
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "Pete Cornish",
+      "pedal": "SS-3",
+      "types": [
+        "Overdrive"
+      ],
+      "source_page": "https://www.petecornish.co.uk/GreySeries.html",
+      "image": "",
+      "research_record": "./research/pedals/Pete Cornish/SS-3.md",
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "Pete Cornish",
+      "pedal": "G-2",
+      "types": [
+        "Distortion",
+        "Overdrive"
+      ],
+      "source_page": "https://www.petecornish.co.uk/SAEG-2.html",
+      "image": "",
+      "research_record": "./research/pedals/Pete Cornish/G-2.md",
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "Pete Cornish",
+      "pedal": "GC-1",
+      "types": [
+        "Distortion",
+        "Overdrive"
+      ],
+      "source_page": "https://www.petecornish.co.uk/GreySeries.html",
+      "image": "",
+      "research_record": "./research/pedals/Pete Cornish/GC-1.md",
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "Pete Cornish",
+      "pedal": "BD-1",
+      "types": [
+        "Overdrive"
+      ],
+      "source_page": "https://www.petecornish.co.uk/GreySeries.html",
+      "image": "",
+      "research_record": "./research/pedals/Pete Cornish/BD-1.md",
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "Pete Cornish",
+      "pedal": "P-1",
+      "types": [
+        "Fuzz"
+      ],
+      "source_page": "https://www.petecornish.co.uk/GreySeries.html",
+      "image": "",
+      "research_record": "./research/pedals/Pete Cornish/P-1.md",
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "Pete Cornish",
+      "pedal": "P-2",
+      "types": [
+        "Fuzz"
+      ],
+      "source_page": "https://www.petecornish.co.uk/GreySeries.html",
+      "image": "",
+      "research_record": "./research/pedals/Pete Cornish/P-2.md",
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "Pete Cornish",
+      "pedal": "NG-2",
+      "types": [
+        "Fuzz"
+      ],
+      "source_page": "https://www.petecornish.co.uk/GreySeries.html",
+      "image": "",
+      "research_record": "./research/pedals/Pete Cornish/NG-2.md",
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "Pete Cornish",
+      "pedal": "NG-3",
+      "types": [
+        "Fuzz"
+      ],
+      "source_page": "https://www.petecornish.co.uk/deluxeseries.html",
+      "image": "",
+      "research_record": "./research/pedals/Pete Cornish/NG-3.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED"
     }
