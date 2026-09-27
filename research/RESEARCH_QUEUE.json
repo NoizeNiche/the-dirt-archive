@@ -1,200 +1,200 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-27T00:55:45.784398+00:00",
+  "generated_at": "2026-09-27T01:04:29.985370+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
   "counts": {
     "total": 3761,
     "researched": 3761,
-    "pictured": 2999,
-    "complete": 2999,
+    "pictured": 3010,
+    "complete": 3010,
     "research_pending": 0,
-    "deep_research_pending": 2218,
-    "deep_researched": 1543,
+    "deep_research_pending": 2170,
+    "deep_researched": 1591,
     "surface_ready": 3761
   },
   "next_target": {
-    "builder": "Attic Audio",
-    "pedal": "PUTTY Saturation Preamp",
+    "builder": "Azor",
+    "pedal": "AP-302 Distortion Guitar Effect Pedal",
     "catalog_type": "",
-    "research_record": "./research/pedals/Attic Audio/PUTTY Saturation Preamp.md",
+    "research_record": "./research/pedals/Azor/AP-302 Distortion Guitar Effect Pedal.md",
     "research_level": "surface"
   },
   "working_set": [
     {
-      "builder": "Attic Audio",
-      "pedal": "PUTTY Saturation Preamp",
+      "builder": "Azor",
+      "pedal": "AP-302 Distortion Guitar Effect Pedal",
       "catalog_type": "",
-      "research_record": "./research/pedals/Attic Audio/PUTTY Saturation Preamp.md",
+      "research_record": "./research/pedals/Azor/AP-302 Distortion Guitar Effect Pedal.md",
       "research_level": "surface"
     },
     {
-      "builder": "Audio Matrix",
-      "pedal": "Mini Boogee / Mini Matrix",
+      "builder": "Azor",
+      "pedal": "AP-507 Dog Distortion Guitar Effect Pedal",
       "catalog_type": "",
-      "research_record": "./research/pedals/Audio Matrix/Mini Boogee - Mini Matrix.md",
+      "research_record": "./research/pedals/Azor/AP-507 Dog Distortion Guitar Effect Pedal.md",
       "research_level": "surface"
     },
     {
-      "builder": "Audio Monk",
-      "pedal": "Fuzzpotion - Bass Fuzz",
+      "builder": "Azor",
+      "pedal": "Distortion Effect Pedal",
       "catalog_type": "",
-      "research_record": "./research/pedals/Audio Monk/Fuzzpotion - Bass Fuzz.md",
+      "research_record": "./research/pedals/Azor/Distortion Effect Pedal.md",
       "research_level": "surface"
     },
     {
-      "builder": "Audio Squared",
-      "pedal": "Major Fuzz",
+      "builder": "Azor",
+      "pedal": "Fuzz Effect Pedal",
       "catalog_type": "",
-      "research_record": "./research/pedals/Audio Squared/Major Fuzz.md",
+      "research_record": "./research/pedals/Azor/Fuzz Effect Pedal.md",
       "research_level": "surface"
     },
     {
-      "builder": "Audio Surplus Effects",
-      "pedal": "Burden",
+      "builder": "Azor",
+      "pedal": "Overdrive Effect Pedal",
       "catalog_type": "",
-      "research_record": "./research/pedals/Audio Surplus Effects/Burden.md",
+      "research_record": "./research/pedals/Azor/Overdrive Effect Pedal.md",
       "research_level": "surface"
     },
     {
-      "builder": "Audio Surplus Effects",
-      "pedal": "Dornenkrone",
+      "builder": "Azur",
+      "pedal": "FUZZ Effect Pedal",
       "catalog_type": "",
-      "research_record": "./research/pedals/Audio Surplus Effects/Dornenkrone.md",
+      "research_record": "./research/pedals/Azur/FUZZ Effect Pedal.md",
       "research_level": "surface"
     },
     {
-      "builder": "Audio Surplus Effects",
-      "pedal": "Lurid Machine",
+      "builder": "Azur",
+      "pedal": "LEON DRIVE Effect Pedal",
       "catalog_type": "",
-      "research_record": "./research/pedals/Audio Surplus Effects/Lurid Machine.md",
+      "research_record": "./research/pedals/Azur/LEON DRIVE Effect Pedal.md",
       "research_level": "surface"
     },
     {
-      "builder": "Audio Surplus Effects",
-      "pedal": "Massenpanik",
+      "builder": "Azur",
+      "pedal": "OVERDRIVE Effect Pedal",
       "catalog_type": "",
-      "research_record": "./research/pedals/Audio Surplus Effects/Massenpanik.md",
+      "research_record": "./research/pedals/Azur/OVERDRIVE Effect Pedal.md",
       "research_level": "surface"
     },
     {
-      "builder": "Audio Surplus Effects",
-      "pedal": "Radio Trash Unrealistic Overdrive",
+      "builder": "Bad Penny FX",
+      "pedal": "The Fuzz Controller V1",
       "catalog_type": "",
-      "research_record": "./research/pedals/Audio Surplus Effects/Radio Trash Unrealistic Overdrive.md",
+      "research_record": "./research/pedals/Bad Penny FX/The Fuzz Controller V1.md",
       "research_level": "surface"
     },
     {
-      "builder": "Audiobox",
-      "pedal": "Crunch Box",
+      "builder": "Bad Penny FX",
+      "pedal": "The Fuzz Controller V2",
       "catalog_type": "",
-      "research_record": "./research/pedals/Audiobox/Crunch Box.md",
+      "research_record": "./research/pedals/Bad Penny FX/The Fuzz Controller V2.md",
       "research_level": "surface"
     },
     {
-      "builder": "Audiofab",
-      "pedal": "Chonky Boi",
+      "builder": "Bad Pixel Pedals",
+      "pedal": "Bad Face Silicon",
       "catalog_type": "",
-      "research_record": "./research/pedals/Audiofab/Chonky Boi.md",
+      "research_record": "./research/pedals/Bad Pixel Pedals/Bad Face Silicon.md",
       "research_level": "surface"
     },
     {
-      "builder": "Audiofab",
-      "pedal": "Valve Warper",
+      "builder": "Bad Pixel Pedals",
+      "pedal": "Classic Model 1 Fuzz",
       "catalog_type": "",
-      "research_record": "./research/pedals/Audiofab/Valve Warper.md",
+      "research_record": "./research/pedals/Bad Pixel Pedals/Classic Model 1 Fuzz.md",
       "research_level": "surface"
     },
     {
-      "builder": "Audiolithe",
-      "pedal": "Chaosculpt Bass",
+      "builder": "Bad Pixel Pedals",
+      "pedal": "Classic Model 2 Fuzz",
       "catalog_type": "",
-      "research_record": "./research/pedals/Audiolithe/Chaosculpt_Bass.md",
+      "research_record": "./research/pedals/Bad Pixel Pedals/Classic Model 2 Fuzz.md",
       "research_level": "surface"
     },
     {
-      "builder": "Audiolithe",
-      "pedal": "Doomer Fuzz",
+      "builder": "Bad Pixel Pedals",
+      "pedal": "Classic Model 3 Fuzz",
       "catalog_type": "",
-      "research_record": "./research/pedals/Audiolithe/Doomer_Fuzz.md",
+      "research_record": "./research/pedals/Bad Pixel Pedals/Classic Model 3 Fuzz.md",
       "research_level": "surface"
     },
     {
-      "builder": "Audiolithe",
-      "pedal": "Extinction Drive",
+      "builder": "Bad Pixel Pedals",
+      "pedal": "Fuck_Fuck Twin Tube Boost Overdrive",
       "catalog_type": "",
-      "research_record": "./research/pedals/Audiolithe/Extinction_Drive.md",
+      "research_record": "./research/pedals/Bad Pixel Pedals/Fuck_Fuck Twin Tube Boost Overdrive.md",
       "research_level": "surface"
     },
     {
-      "builder": "Audiolithe",
-      "pedal": "La Montagne",
+      "builder": "Bad Pixel Pedals",
+      "pedal": "Germanium Gold Face Fuzz",
       "catalog_type": "",
-      "research_record": "./research/pedals/Audiolithe/La_Montagne.md",
+      "research_record": "./research/pedals/Bad Pixel Pedals/Germanium Gold Face Fuzz.md",
       "research_level": "surface"
     },
     {
-      "builder": "Audiolithe",
-      "pedal": "The Empress Bass",
+      "builder": "Bad Pixel Pedals",
+      "pedal": "Germanium Pink Face Fuzz",
       "catalog_type": "",
-      "research_record": "./research/pedals/Audiolithe/The_Empress_Bass.md",
+      "research_record": "./research/pedals/Bad Pixel Pedals/Germanium Pink Face Fuzz.md",
       "research_level": "surface"
     },
     {
-      "builder": "Audiostorm",
-      "pedal": "ADNA",
+      "builder": "Bad Pixel Pedals",
+      "pedal": "MKII Professional Gold Bender Fuzz",
       "catalog_type": "",
-      "research_record": "./research/pedals/Audiostorm/ADNA.md",
+      "research_record": "./research/pedals/Bad Pixel Pedals/MKII Professional Gold Bender Fuzz.md",
       "research_level": "surface"
     },
     {
-      "builder": "Audiostorm",
-      "pedal": "F258 Drive",
+      "builder": "Baddy One Shoe Pedals",
+      "pedal": "Heartbreaker",
       "catalog_type": "",
-      "research_record": "./research/pedals/Audiostorm/F258 Drive.md",
+      "research_record": "./research/pedals/Baddy One Shoe Pedals/Heartbreaker.md",
       "research_level": "surface"
     },
     {
-      "builder": "Audiostorm",
-      "pedal": "Otherworld Overdrive",
+      "builder": "Baddy One Shoe Pedals",
+      "pedal": "Honeycomb",
       "catalog_type": "",
-      "research_record": "./research/pedals/Audiostorm/Otherworld Overdrive.md",
+      "research_record": "./research/pedals/Baddy One Shoe Pedals/Honeycomb.md",
       "research_level": "surface"
     },
     {
-      "builder": "Audiostorm",
-      "pedal": "Quad Screamer Overdrive",
+      "builder": "Baddy One Shoe Pedals",
+      "pedal": "Punch & Grind",
       "catalog_type": "",
-      "research_record": "./research/pedals/Audiostorm/Quad Screamer Overdrive.md",
+      "research_record": "./research/pedals/Baddy One Shoe Pedals/Punch & Grind.md",
       "research_level": "surface"
     },
     {
-      "builder": "Aul Instruments",
-      "pedal": "Fuzz",
+      "builder": "Baddy One Shoe Pedals",
+      "pedal": "Wayfarer",
       "catalog_type": "",
-      "research_record": "./research/pedals/Aul Instruments/Fuzz.md",
+      "research_record": "./research/pedals/Baddy One Shoe Pedals/Wayfarer.md",
       "research_level": "surface"
     },
     {
-      "builder": "Aural Dream",
-      "pedal": "Bold Distortion",
+      "builder": "Baja Tech Custom",
+      "pedal": "DaMOAF Fuzz",
       "catalog_type": "",
-      "research_record": "./research/pedals/Aural Dream/Bold Distortion.md",
+      "research_record": "./research/pedals/Baja Tech Custom/DaMOAF Fuzz.md",
       "research_level": "surface"
     },
     {
-      "builder": "Aural Dream",
-      "pedal": "Purely Fuzz",
+      "builder": "Baja Tech Custom",
+      "pedal": "Das Fuzz Ge",
       "catalog_type": "",
-      "research_record": "./research/pedals/Aural Dream/Purely Fuzz.md",
+      "research_record": "./research/pedals/Baja Tech Custom/Das Fuzz Ge.md",
       "research_level": "surface"
     },
     {
-      "builder": "Auxiliary Workshop",
-      "pedal": "The Devils Handshake",
+      "builder": "Baja Tech Custom",
+      "pedal": "Top Boost TB-1",
       "catalog_type": "",
-      "research_record": "./research/pedals/Auxiliary Workshop/The Devils Handshake.md",
+      "research_record": "./research/pedals/Baja Tech Custom/Top Boost TB-1.md",
       "research_level": "surface"
     }
   ]

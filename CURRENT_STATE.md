@@ -3,13 +3,13 @@
 
 The active production phase is **Catalog Research Phase**. PRP1 is retained only as a legacy publication/closeout mechanism.
 
-Live catalog: **3761 total / 3761 surface-ready / 1543 deep-researched / 3761 research-linked / 2999 pictured / 2999 complete / 0 surface-missing / 2218 deep-research-pending / 762 researched-photo-pending**.
+Live catalog: **3761 total / 3761 surface-ready / 1591 deep-researched / 3761 research-linked / 3010 pictured / 3010 complete / 0 surface-missing / 2170 deep-research-pending / 751 researched-photo-pending**.
 
-**Next deep-research target:** Attic Audio - PUTTY Saturation Preamp.
+**Next deep-research target:** Azor - AP-302 Distortion Guitar Effect Pedal.
 
-PRP1 closeout remains separate: 762 researched record(s) still lack an exact local photo.
+PRP1 closeout remains separate: 751 researched record(s) still lack an exact local photo.
 The research queue is generated from the canonical catalog and tracker; do not hand-edit the derived queue.
-Last refreshed: 2026-09-27T00:55:45.784398+00:00
+Last refreshed: 2026-09-27T01:04:29.985370+00:00
 <!-- AUTO:RESEARCH_PHASE_END -->
 
 ## Historical checkpoints
