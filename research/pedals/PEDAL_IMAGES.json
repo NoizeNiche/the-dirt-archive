@@ -18318,7 +18318,7 @@
   {
     "builder": "Fjord Fuzz",
     "pedal": "Berserk — consolidated identity across V1/V2/V3",
-    "image": null,
+    "image": "./assets/pedals/fjord-fuzz/berserk-consolidated-identity-across-v1-v2-v3/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Fjord Fuzz/Berserk — consolidated identity across V1/V2/V3.md"
   },
@@ -22791,7 +22791,7 @@
   {
     "builder": "Maxon",
     "pedal": "Real Tube Overdrive-Distortion (RTD800)",
-    "image": null,
+    "image": "./assets/pedals/maxon/real-tube-overdrive-distortion-rtd800/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Maxon/Real Tube Overdrive-Distortion (RTD800).md"
   },
@@ -24415,7 +24415,7 @@
   {
     "builder": "MXR",
     "pedal": "Raw Dawg Overdrive",
-    "image": null,
+    "image": "./assets/pedals/mxr/raw-dawg-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/MXR/Raw Dawg Overdrive.md"
   },
@@ -24842,7 +24842,7 @@
   {
     "builder": "NUX Audio / NUX",
     "pedal": "Mini Distortion",
-    "image": null,
+    "image": "./assets/pedals/nux-audio-nux/mini-distortion/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/NUX Audio / NUX/Mini Distortion.md"
   },
@@ -26179,7 +26179,7 @@
   {
     "builder": "SBGO Effects",
     "pedal": "Creamy Fuzz",
-    "image": null,
+    "image": "./assets/pedals/sbgo-effects/creamy-fuzz/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/SBGO Effects/Creamy Fuzz.md"
   },
@@ -26585,7 +26585,7 @@
   {
     "builder": "Skreddy Pedals",
     "pedal": "Twangophile",
-    "image": null,
+    "image": "./assets/pedals/skreddy-pedals/twangophile/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Skreddy Pedals/Twangophile.md"
   },
@@ -26956,14 +26956,14 @@
   {
     "builder": "Stomp Under Foot",
     "pedal": "Ram's Head",
-    "image": null,
+    "image": "./assets/pedals/stomp-under-foot/ram-s-head/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Stomp Under Foot/Ram's Head.md"
   },
   {
     "builder": "Stomp Under Foot",
     "pedal": "Red Army",
-    "image": null,
+    "image": "./assets/pedals/stomp-under-foot/red-army/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Stomp Under Foot/Red Army.md"
   },
@@ -26977,7 +26977,7 @@
   {
     "builder": "Stomp Under Foot",
     "pedal": "Red Menace",
-    "image": null,
+    "image": "./assets/pedals/stomp-under-foot/red-menace/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Stomp Under Foot/Red Menace.md"
   },
@@ -27411,7 +27411,7 @@
   {
     "builder": "TC Electronic",
     "pedal": "MojoMojo Paul Gilbert Signature Overdrive",
-    "image": null,
+    "image": "./assets/pedals/tc-electronic/mojomojo-paul-gilbert-signature-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/TC Electronic/MojoMojo Paul Gilbert Signature Overdrive.md"
   },
@@ -27439,14 +27439,14 @@
   {
     "builder": "TC Electronic",
     "pedal": "Tube Pilot Overdrive",
-    "image": null,
+    "image": "./assets/pedals/tc-electronic/tube-pilot-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/TC Electronic/Tube Pilot Overdrive.md"
   },
   {
     "builder": "TC Electronic",
     "pedal": "Vintage Distortion",
-    "image": null,
+    "image": "./assets/pedals/tc-electronic/vintage-distortion/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/TC Electronic/Vintage Distortion.md"
   },
@@ -27544,21 +27544,21 @@
   {
     "builder": "Tech 21 NYC",
     "pedal": "XXL Bass",
-    "image": null,
+    "image": "./assets/pedals/tech-21-nyc/xxl-bass/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Tech 21 NYC/XXL Bass.md"
   },
   {
     "builder": "Tech 21 NYC",
     "pedal": "XXL Guitar",
-    "image": null,
+    "image": "./assets/pedals/tech-21-nyc/xxl-guitar/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Tech 21 NYC/XXL Guitar.md"
   },
   {
     "builder": "Tech 21 NYC",
     "pedal": "XXL Original",
-    "image": null,
+    "image": "./assets/pedals/tech-21-nyc/xxl-original/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Tech 21 NYC/XXL Original.md"
   },
@@ -27593,28 +27593,28 @@
   {
     "builder": "ThorpyFX",
     "pedal": "Electric Lightning",
-    "image": null,
+    "image": "./assets/pedals/thorpyfx/electric-lightning/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/ThorpyFX/Electric Lightning.md"
   },
   {
     "builder": "ThorpyFX",
     "pedal": "ELECTRIC LIGHTNING",
-    "image": null,
+    "image": "./assets/pedals/thorpyfx/electric-lightning/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/ThorpyFX/ELECTRIC LIGHTNING.md"
   },
   {
     "builder": "ThorpyFX",
     "pedal": "ELECTRIC LIGHTNING — Valve Overdrive",
-    "image": null,
+    "image": "./assets/pedals/thorpyfx/electric-lightning-valve-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/ThorpyFX/ELECTRIC LIGHTNING — Valve Overdrive.md"
   },
   {
     "builder": "ThorpyFX",
     "pedal": "Fallout Cloud",
-    "image": null,
+    "image": "./assets/pedals/thorpyfx/fallout-cloud/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/ThorpyFX/Fallout Cloud.md"
   },
@@ -27803,14 +27803,14 @@
   {
     "builder": "Tone City",
     "pedal": "Golden Plexi",
-    "image": null,
+    "image": "./assets/pedals/tone-city/golden-plexi/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Tone City/Golden Plexi.md"
   },
   {
     "builder": "Tone City",
     "pedal": "King of Blues",
-    "image": null,
+    "image": "./assets/pedals/tone-city/king-of-blues/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Tone City/King of Blues.md"
   },
@@ -27824,7 +27824,7 @@
   {
     "builder": "Tone Hungry Effects",
     "pedal": "Hot Molasses Mini Overdrive",
-    "image": null,
+    "image": "./assets/pedals/tone-hungry-effects/hot-molasses-mini-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Tone Hungry Effects/Hot Molasses Mini Overdrive.md"
   },
@@ -27845,14 +27845,14 @@
   {
     "builder": "TONECAT",
     "pedal": "Cutthroat Kitty Distortion",
-    "image": null,
+    "image": "./assets/pedals/tonecat/cutthroat-kitty-distortion/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/TONECAT/Cutthroat Kitty Distortion.md"
   },
   {
     "builder": "TONECAT",
     "pedal": "Fuzz a l’Huile Silicon Fuzz",
-    "image": null,
+    "image": "./assets/pedals/tonecat/fuzz-a-l-huile-silicon-fuzz/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/TONECAT/Fuzz a l’Huile Silicon Fuzz.md"
   },

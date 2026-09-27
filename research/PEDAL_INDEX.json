@@ -36223,7 +36223,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/fjord-fuzz/berserk-consolidated-identity-across-v1-v2-v3/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Fjord Fuzz/Berserk — consolidated identity across V1/V2/V3.md",
       "research_level": "surface",
@@ -44145,7 +44145,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/maxon/real-tube-overdrive-distortion-rtd800/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Maxon/Real Tube Overdrive-Distortion (RTD800).md",
       "research_level": "deep",
@@ -46985,7 +46985,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/mxr/raw-dawg-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/MXR/Raw Dawg Overdrive.md",
       "research_level": "deep",
@@ -47724,7 +47724,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/nux-audio-nux/mini-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/NUX Audio / NUX/Mini Distortion.md",
       "research_level": "surface",
@@ -50063,7 +50063,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/sbgo-effects/creamy-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/SBGO Effects/Creamy Fuzz.md",
       "research_level": "surface",
@@ -50794,7 +50794,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/skreddy-pedals/twangophile/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Skreddy Pedals/Twangophile.md",
       "research_level": "deep",
@@ -51458,7 +51458,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/stomp-under-foot/ram-s-head/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Stomp Under Foot/Ram's Head.md",
       "research_level": "deep",
@@ -51470,7 +51470,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/stomp-under-foot/red-army/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Stomp Under Foot/Red Army.md",
       "research_level": "deep",
@@ -51494,7 +51494,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/stomp-under-foot/red-menace/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Stomp Under Foot/Red Menace.md",
       "research_level": "deep",
@@ -52258,7 +52258,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/tc-electronic/mojomojo-paul-gilbert-signature-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/TC Electronic/MojoMojo Paul Gilbert Signature Overdrive.md",
       "research_level": "deep",
@@ -52307,7 +52307,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/tc-electronic/tube-pilot-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/TC Electronic/Tube Pilot Overdrive.md",
       "research_level": "deep",
@@ -52319,7 +52319,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/tc-electronic/vintage-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/TC Electronic/Vintage Distortion.md",
       "research_level": "deep",
@@ -52499,7 +52499,7 @@
         "Distortion",
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/tech-21-nyc/xxl-bass/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Tech 21 NYC/XXL Bass.md",
       "research_level": "deep",
@@ -52512,7 +52512,7 @@
         "Distortion",
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/tech-21-nyc/xxl-guitar/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Tech 21 NYC/XXL Guitar.md",
       "research_level": "deep",
@@ -52525,7 +52525,7 @@
         "Distortion",
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/tech-21-nyc/xxl-original/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Tech 21 NYC/XXL Original.md",
       "research_level": "deep",
@@ -52591,7 +52591,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/thorpyfx/electric-lightning/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/ThorpyFX/Electric Lightning.md",
       "research_level": "deep",
@@ -52605,7 +52605,7 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/thorpyfx/electric-lightning/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/ThorpyFX/ELECTRIC LIGHTNING.md",
       "research_level": "deep",
@@ -52619,7 +52619,7 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/thorpyfx/electric-lightning-valve-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/ThorpyFX/ELECTRIC LIGHTNING — Valve Overdrive.md",
       "research_level": "surface",
@@ -52631,7 +52631,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/thorpyfx/fallout-cloud/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/ThorpyFX/Fallout Cloud.md",
       "research_level": "deep",
@@ -52983,7 +52983,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/tone-city/golden-plexi/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Tone City/Golden Plexi.md",
       "research_level": "deep",
@@ -52995,7 +52995,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/tone-city/king-of-blues/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Tone City/King of Blues.md",
       "research_level": "deep",
@@ -53019,7 +53019,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/tone-hungry-effects/hot-molasses-mini-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Tone Hungry Effects/Hot Molasses Mini Overdrive.md",
       "research_level": "surface",
@@ -53055,7 +53055,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/tonecat/cutthroat-kitty-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/TONECAT/Cutthroat Kitty Distortion.md",
       "research_level": "deep",
@@ -53067,7 +53067,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/tonecat/fuzz-a-l-huile-silicon-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/TONECAT/Fuzz a l’Huile Silicon Fuzz.md",
       "research_level": "deep",
