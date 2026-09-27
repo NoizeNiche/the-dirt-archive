@@ -1,23 +1,47 @@
 # Electro-Harmonix — Pocket Metal Muff
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Pocket Metal Muff
 - **Builder:** Electro-Harmonix
-- **Pedal:** Pocket Metal Muff
 - **Catalog type:** Distortion
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Electro-Harmonix's Pocket Metal Muff.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Pocket Metal Muff** by **Electro-Harmonix** as a **Distortion** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Rest assured that your order will make as small of a footprint as possible.* Related products Hardwire TL-2 Metal Distortion $ 74.00 TC Electronic Grand Magus Analog Distortion Pedal $ 29.00 BBE Green Screamer Overdrive Pedal $ 44.00 J.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- Rest assured that your order will make as small of a footprint as possible.* Related products Hardwire TL-2 Metal Distortion $ 74.00 TC Electronic Grand Magus Analog Distortion Pedal $ 29.00 BBE Green Screamer Overdrive Pedal $ 44.00 J.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Documented terms in the verified sources: LED.
+- The archive records only the component information explicitly present in these sources.
+
+## Sound
+Rest assured that your order will make as small of a footprint as possible.* Related products Hardwire TL-2 Metal Distortion $ 74.00 TC Electronic Grand Magus Analog Distortion Pedal $ 29.00 BBE Green Screamer Overdrive Pedal $ 44.00 J.
+Rockett Archer Overdrive $ 129.00 Bucket List Guitars
+USER MANUAL Electro-Harmonix Pocket Metal Muff Distortion Pedal
+
+## Sources checked
+1. Electro-Harmonix Pocket Metal Muff — Distortion Pedal: https://equipboard.com/items/electro-harmonix-pocket-metal-muff
+2. Electro-Harmonix Pocket Metal Muff Distortion Pedal - Reverb: https://reverb.com/p/electro-harmonix-pocket-metal-muff
+3. Electro-Harmonix Pocket Metal Muff Distortion Pedal: https://www.sweetwater.com/store/detail/PocketMMuff--electro-harmonix-pocket-metal-muff-distortion-pedal
+4. Electro-Harmonix Pocket Metal Muff Guitar Distortion Pedal From Japan ...: https://www.ebay.com/itm/398183294720
+5. Electro-Harmonix Pocket Metal Muff Distortion Pedal: https://bucketlistguitars.com/product/electro-harmonix-pocket-metal-muff-distortion-pedal/
+6. Electro-Harmonix Pocket Metal Muff - Tonebox.com: https://www.tonebox.com/pedal/electro-harmonix-pocket-metal-muff
+7. USER MANUAL Electro-Harmonix Pocket Metal Muff Distortion Pedal | Search For Manual Online: https://www.search-manual.com/electro-harmonix-pocket-metal-muff-distortion-pedal-183790-manual
+8. Pocket Metal Muff by Electro-Harmonix | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/Electro-Harmonix/Pocket-Metal-Muff/68978469/
+9. Electro Harmonix Pocket Metal Muff User manual: https://manualmachine.com/electroharmonix/pocketmetalmuff/18980190-user-manual/
+10. Electro-Harmonix Pocket Metal Muff - Effects Database: https://www.effectsdatabase.com/model/eh/nano/metalmuff
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

@@ -1,0 +1,33 @@
+{
+  "builder": "VFE Pedals",
+  "pedal": "The Scream",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 3,
+  "sources": [
+    {
+      "url": "https://www.effectsdatabase.com/model/vfe/thescream",
+      "title": "VFE Pedals The Scream | Effects Database",
+      "h1": "VFE Pedals The Scream",
+      "excerpt": "VFE Pedals The Scream | Effects Database Skip to navigation Brands \u25bc 0-9... a... b... c... d... e... f... g... h... i... j... k... l... m... n... o... p... q... r... s... t... u... v... w... x... y... z... Effect types \u25bc boost distortion fuzz overdrive acoustic simulation amp simulation speaker/cabinet simulation chorus flanger phaser tremolo vibe vibrato other modulation pitch shifter octaver delay reverb looper/sampler hold/freeze eq filter wah fuzz-wah bitcrusher ring modulator samplerate reducer wavefolder synth effect granular effect multi effect vocal effect talkbox vocoder buffer compressor other... Countries \u25bc (country unknown) Argentina Australia Austria Belarus Belgium Brazil Bulgaria Canada Chile China Colombia Costa Rica Croatia Czech Republic Czechoslovakia DDR Denmark Dominican Republic Ecuador Egypt Estonia Finland France Germany Greece Hungary India Indonesia Iran Ireland Israel Italy Japan Latvia Lithuania Luxembourg Macedonia Malaysia Malta Mexico Moldova Monaco Morocco Netherlands New-Zealand Norway Panama Peru Philippines Poland Portugal Romania Russia Serbia Singapore Slovakia Slovenia South-Africa South-Korea Spain Sweden Switzerland Taiwan Thailand Turkey U.K. U.S.A. U.S.S.R. Ukraine Uruguay Venezuela Browse by \u25bc Enclosure type Modulation type Special \u25ba Classics Eye candy Funny Vaporware Weird Random brand Random effect Events \u25ba NAMM Musikmesse Music China Guitar Summit More... \u25bc Forum (opens in new tab) myFXDB (opens in new tab) Newsletter About How to get listed? Interviews Reviews Effects explained Books D.I.Y. Schematics Links Contact Install Effects Database App Search the database browse by brand V... VFE Pedals browse by type distortion/fuzz/overdrive overdrive browse by enclosure pedal VFE Pedals The Scream Published on November 24, 2009 VFE Pedals overdrive pedal Information VonRutter \"The Scream\" is essentially a clone of the classic TS808 overdrive circuit with five extra controls to customize your tone. Whether you loved or hated the original, I believe you'll love \"The Scream\". The added FAT & FILTER controls expand the tonal possibilities of the circuit immensely, as you are no longer stuck with just the mid-hump tone of the original. Here's a breakdown of the features: Only two modifications from TS808 specs: 3PDT true bypass footswitch & extended gain range (higher & lower) Large controls are standard Drive, Tone, Level of the TS808 Added FAT control, which varies a pre-existing high pass filter in the drive section. Increasing this control reduces the bass cut, but reduces drive. Range: 65-720Hz Added FILTER control, which varies a pre-existing low pass filter before the tone section. Increasing this control reduces the treble cut. Range: 650Hz-7.2kHz Added MODE 3-way switch to toggle between symmetrical (TS808), clean boost, and asymmetrical (Boss SD-1) overdrives. Internal FREQUENCY control sets the center frequency of the boost/cut from the TONE control. Ships at stock TS808 3.2kHz setting. The FAT, FILTER, TONE, and FREQUENCY controls allow you to dial in your tone for your guitar and your amp. You're not just stuck with the standard mid-hump of the stock TS808. Range: 1.2-7.2kHz Internal SMOOTH control softens the compression & increases overall output by increasing the series resistance with the clipping diodes, as done in the Marshall Bluesbreaker / King of Tone. Ships at stock zero-resistance (hardest clipping) setting. Original W20K potentiometer for TONE control 5% carbon comp resistors in the signal path for those who swear by the vintage vibe 1% metal film resitors elsewhere for tight tolerances & low noise, 5% metal film capacitors, and 2% silver solder for the purest signal flow Switchcraft enclosed jacks Water-clear green LED JRC4558D op amp installed with gold plated socket The pedal is hand-built and housed in a small 2.4\" x 4.4\" enclosure. Accepts standard Boss-style negative tip power supplies, from 9-18V. Also can be powered internally via 9V battery. Video Date \u25bc\u25b2 Ma",
+      "host": "www.effectsdatabase.com",
+      "source_kind": "effects_database"
+    },
+    {
+      "url": "https://reverb.com/item/100493522-vfe-pedals-the-scream-classic-overdrive-green-silver",
+      "title": "VFE Pedals The Scream classic overdrive - Green & Silver - Reverb",
+      "h1": "",
+      "excerpt": "",
+      "host": "reverb.com",
+      "source_kind": "reverb"
+    },
+    {
+      "url": "https://www.rockboard.de/en/pedalPedia/VFE-Pedals/The-Scream/68986101/",
+      "title": "The Scream by VFE Pedals | RockBoard | PedalPedia",
+      "h1": "The Scream",
+      "excerpt": "The Scream by VFE Pedals | RockBoard | PedalPedia Skip to main content LOG IN EXPLORE VFE Pedals The Scream LOG IN TO SUGGEST IMPROVEMENTS OVERDRIVE BOOSTER FILTER Description THE SCREAM is based on an overdrive pedal so ubiquitous that there\u2019s probably one in your grandmother\u2019s basement. Countless derivatives have been made from this core circuitry just by changing a few components. Our design allows you to re-create these sounds and find countless new ones with just the twist of a knob. Version 2 features our original HCC circuitry for new shades of tonal bliss. Media Videos Demo by intheblues (EN) Demo by Mike Hermans (EN) Reviews Review by sevenstring (EN) Review by The Gear Page (EN) Links Product Page Technical data Width 000.00 mm Depth 000.00 mm Height 000.00 mm Circuit type analog Voltage 9V DC, center negative Current 30mA More pedals from VFE Pedals VFE Pedals Old School VFE Pedals Stereo Klein Bottle (Red and Gold) OVERDRIVE OVERDRIVE VFE Pedals Dragon VFE Pedals Stereo Klein Bottle All VFE Pedals Pedals Products Pedalboards All-In-One Patchbays QuickMount PedalSafe Power Supplies and Power Cables and Connections Accessories Gear Build your own board Board Configurator PedalPedia Pedalboard Gallery QuickMount Finder Services Find a dealer Find a distributor Frequently Asked Questions Contact Current catalog News Community RockBoard Artists Achievements Your Activity Overview \u00a92026 Warwick GmbH & Co. Music Equipment KG GTC | Imprint | Privacy policy | Accessibility | Cookie Settings",
+      "host": "www.rockboard.de",
+      "source_kind": "other"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}

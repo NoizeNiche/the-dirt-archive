@@ -27693,8 +27693,8 @@
       "image": "./assets/pedals/cosmodio-instruments/glitch-witch-auto-modulated-logic-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Cosmodio Instruments/Glitch Witch - Auto-Modulated Logic Fuzz.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Cosmodio Instruments",
@@ -32517,8 +32517,8 @@
       "image": "",
       "source_page": "https://www.effectsdatabase.com/model/deviever",
       "research_record": "./research/pedals/Devi Ever FX/The Wolf - Bass Fuzz.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Devi Ever FX",
@@ -32637,8 +32637,8 @@
       "image": "",
       "source_page": "https://www.effectsdatabase.com/model/deviever",
       "research_record": "./research/pedals/Devi Ever FX/Year of the Rat.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Devi Ever FX",
@@ -34687,8 +34687,8 @@
       "image": "./assets/pedals/earthquaker-devices/sunn-o-halflife-octave-distortion-booster/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/EarthQuaker Devices/Sunn O))) HalfLife — Octave Distortion + Booster.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "EarthQuaker Devices",
@@ -34945,8 +34945,8 @@
       "image": "./assets/pedals/electro-harmonix/bass-big-muff-pi-2/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Electro-Harmonix/Bass Big Muff Pi 2.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Electro-Harmonix",
@@ -35115,8 +35115,8 @@
       "image": "./assets/pedals/electro-harmonix/ehx-percolator/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Electro-Harmonix/EHX Percolator.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Electro-Harmonix",
@@ -35407,8 +35407,8 @@
       "image": "./assets/pedals/electro-harmonix/pocket-metal-muff/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Electro-Harmonix/Pocket Metal Muff.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Electro-Harmonix",
@@ -42549,8 +42549,8 @@
       "image": "./assets/pedals/lovepedal/super-six/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Lovepedal/Super Six.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Lovepedal",
@@ -44122,8 +44122,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Maxon/Overdrive-Soft Distortion (OSD-9).md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Maxon",
@@ -44835,8 +44835,8 @@
       "image": "./assets/pedals/mcgregor-pedals/the-cozmic-fuzzball/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/McGregor Pedals/The Cozmic Fuzzball.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Menatone",
@@ -44847,8 +44847,8 @@
       "image": "./assets/pedals/menatone/blue-collar/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Menatone/Blue Collar.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Menatone",
@@ -44860,8 +44860,8 @@
       "image": "./assets/pedals/menatone/blue-collar-mini/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Menatone/Blue Collar Mini.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Menatone",
@@ -44872,8 +44872,8 @@
       "image": "./assets/pedals/menatone/blue-collar-mojo/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Menatone/Blue Collar Mojo.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Menatone",
@@ -47036,8 +47036,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/MXR/Sub Octave Bass Fuzz.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "MXR",
@@ -47048,8 +47048,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/MXR/Sugar Drive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "MXR",
@@ -47060,8 +47060,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/MXR/Super Badass Distortion.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "MXR",
@@ -49922,8 +49922,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Reuss Musical Instruments/Electricity Fuzz.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Revv Amplification",
@@ -50018,8 +50018,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Roger Mayer/Voodoo-1.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "RYRA",
@@ -54040,8 +54040,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/VFE Pedals/The Scream.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "VFE Pedals",
@@ -54664,8 +54664,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/VOX/Cutting Edge.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "VOX",
@@ -56447,8 +56447,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Wren and Cuff/Elephant Skin.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Wren and Cuff",

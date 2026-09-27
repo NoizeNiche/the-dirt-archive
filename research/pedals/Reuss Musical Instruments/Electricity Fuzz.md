@@ -1,23 +1,41 @@
 # Reuss Musical Instruments — Electricity Fuzz
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Electricity Fuzz
 - **Builder:** Reuss Musical Instruments
-- **Pedal:** Electricity Fuzz
 - **Catalog type:** Fuzz
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Reuss Musical Instruments's Electricity Fuzz.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Electricity Fuzz** by **Reuss Musical Instruments** as a **Fuzz** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+SOLD OUT - DISCONTINUED Reuss Electricity Fuzz Killer sounding hybrid fuzz based on the tonebender mark III circuit The Reuss FZ-02 Electricity Fuzz is a hybrid fuzz built with a mix of two vintage silicon transistors and a single vintage new old stock OC140 germanium transistor.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- The verified evidence references: mk III.
+- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Documented terms in the verified sources: silicon transistors, germanium transistor, BC108A, silicon transistor, germanium fuzz.
+- The archive records only the component information explicitly present in these sources.
+
+## Diode
+- Documented terms in the verified sources: LED.
+- The archive records only the component information explicitly present in these sources.
+
+## Sound
+Reuss Electricity Fuzz (discontinued)
+SOLD OUT - DISCONTINUED Reuss Electricity Fuzz Killer sounding hybrid fuzz based on the tonebender mark III circuit The Reuss FZ-02 Electricity Fuzz is a hybrid fuzz built with a mix of two vintage silicon transistors and a single vintage new old stock OC140 germanium transistor.
+At one extreme you have thin, trebly, stingy fuzz, and at the other, the pedal offers a massive, thick and bass-heavy sound.
+
+## Sources checked
+1. Reuss Electricity Fuzz (discontinued) | Reuss Musical Instruments: https://www.reusseffects.com/en-us/products/electricityfuzz
+2. Reuss FZ-02 Electricity Fuzz | Effects Database: https://www.effectsdatabase.com/model/reuss/fz02
+3. Electricity by Reuss Musical Instruments | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/Reuss-Musical-Instruments/Electricity/68983805/
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

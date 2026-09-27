@@ -62,3 +62,27 @@ Glitch Witch is designed to move from massive, modern gated fuzz into sounds rem
 3. Cosmodio Instruments Glitch Witch User Manual (hosted by Manuals.plus)
 4. Sims Music - Cosmodio Instruments lineup / Glitch Witch
 5. SpiralCasterPlaysPedals - Glitch Witch demo
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Cosmodio Instruments's Glitch Witch - Auto-Modulated Logic Fuzz is cataloged as a fuzz pedal.
+
+### Verified color/finish evidence
+- **DEV MODE:** Cosmodio also sells one-of-a-kind custom-artwork units.
+- The manufacturer states that DEV MODE units are identical in sound and function to the standard pedal; the differences are the individual artwork/appearance and limited-edition presentation.
+- Cosmetic/B-stock artwork variations do not establish a separate circuit revision.
+
+### Verified version references
+- The evidence references: MKII, revision.
+
+### Verified sound evidence
+Glitch Witch is a 100% analog auto-modulated logic fuzz.
+The manufacturer describes an original CMOS fuzz circuit with a wide, gated/full-spectrum response, plus frequency dividers that can impose rhythmic and pitch-tracking effects on the fuzz signal.
+**GATE:** controls fuzz pre-gain and the amount of gating/sustain.
+
+### Sources checked in this pass
+1. Glitch Witch &ndash; Cosmodio Instruments: https://cosmod.io/products/glitch-witch
+2. catalog/override source: https://www.simsmusic.com/blogs/blog/now-at-sims-music-cosmodio-instruments-sonic-art-for-the-adventurous-player
