@@ -428,7 +428,15 @@ async function targetRecord(builder,pedal,type){
     }
     return {
       url:u,host:host(u),title:info.title,h1:info.h1,description:info.description,
-      snippet:item.x.title,bodyExcerpt:info.body,identity:f,
+      snippet:item.x.title,bodyExcerpt:info.body,
+      identity:{
+        ...f,
+        // A URL copied from this pedal's existing curated research record is an
+        // exact-model candidate even when the live page template omits the
+        // model name from its HTML body. Require at least two pedal-name tokens
+        // plus a builder token before applying this provenance shortcut.
+        exactPedal:Boolean(f.exactPedal || (curatedExactCandidate && f.pedalHits>=2 && f.builderHits>=1))
+      },
       signals:signals(fullText),
       sourceKind:cached?.source_kind || sourceKind(builder,u,exactCatalogUrls,item.x.url),
       collectedAt:new Date().toISOString(),
