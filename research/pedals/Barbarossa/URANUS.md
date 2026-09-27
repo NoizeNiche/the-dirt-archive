@@ -1,71 +1,81 @@
 # Barbarossa — URANUS
 
 ## PRP identity
-- Archive parent: URANUS
-- Builder: Barbarossa
-- Catalog type: Overdrive
-- Introduction: Documented in 2009-era catalog/database records.
-- Identity: One parent with the explicitly documented old-model generation and later production generation inside the same parent.
+- **Archive parent:** URANUS
+- **Builder:** Barbarossa
+- **Catalog type:** Overdrive
+- **Identity:** Premium Barbarossa overdrive with documented URANUS OLD MODEL and later production generations, centered on a heavily refined Tube Screamer-style concept. [1][2][3]
 
-## What this pedal is
-URANUS is Barbarossa's premium overdrive based on a heavily refined Tube Screamer-style concept. Barbarossa emphasizes greater clarity, smoothness and openness while retaining note definition, with hand-built point-to-point construction in a machined aluminum enclosure. [1][2]
+## Circuit lineage
+- **Primary reference:** Tube Screamer-style overdrive.
+- Barbarossa presents URANUS as a substantially refined interpretation emphasizing openness, clarity, smoothness and preserved note definition rather than a stock TS response. [1]
+- The exact circuit schematic and semiconductor BOM are not published.
 
-## Colorways
-- Later production is documented in dark green matte-finished anodized aluminum.
-- The historical old model used a special green-flake finish.
-- Finish differences alone do not create versions.
-
-## Versions
-
+## Version history
 ### URANUS OLD MODEL
-- Builder designation: URANUS OLD MODEL
-- Described by Barbarossa as an Over Drive Modify Model.
+- Explicitly described as **Over Drive Modify Model**.
 - Special green-flake finish.
 - Cryogenic processing.
-- End-of-production historical model. [2]
+- Discontinued historical production. [2]
 
-### Later URANUS production generation
-- Level
-- Tone
-- Drive
-- 9V center-negative
-- point-to-point wiring
-- CNC-machined aluminum enclosure
-- dark green matte anodized finish
-- cryogenic processing [1]
+### Later URANUS
+- **LEVEL**
+- **TONE**
+- **DRIVE**
+- 9V center-negative.
+- Point-to-point wiring.
+- CNC-machined aluminum enclosure.
+- Dark-green matte anodized finish.
+- Cryogenic processing. [1][3]
 
-## Factory modifications
-The old-model URANUS is explicitly a builder modification design and is therefore part of the factory history of the parent. No post-sale user modification is included.
+The builder explicitly distinguishes the Old Model from later URANUS production, so the archive treats the change as a factory production generation rather than a cosmetic revision.
 
-## Version changes
-The builder explicitly separates URANUS OLD MODEL from the later URANUS production design. The later format changes the enclosure and presentation while retaining the basic three-control URANUS identity; the older model is documented as a modified and discontinued model. [1][2]
+## Controls
+- **LEVEL:** Output.
+- **TONE:** Tonal balance.
+- **DRIVE:** Overdrive/gain.
+These three controls are common to the documented later production generation. [1][3]
 
 ## Transistor
-- Type: Unknown.
-- No exact URANUS transistor technology or part number published.
+- Exact production transistor technology and part number are not publicly documented.
 
-## Diode
-- Type: Unknown.
-- No exact URANUS diode part number published.
+## Diode / clipping
+- Exact clipping diode/device type and part number are not publicly documented.
+
+## Construction / hardware
+Later URANUS:
+- CNC-machined aluminum enclosure.
+- Point-to-point wiring.
+- Dark-green matte anodized finish.
+- Cryogenic processing. [1][3]
+
+The older model's special green-flake finish is preserved as a historical factory presentation. [2]
+
+## Power
+- **9V DC center-negative** for the documented later production model. [1]
+- Current draw is not established.
 
 ## Sound
-URANUS is described as a smoother, clearer and more open high-end take on Tube Screamer-style overdrive, with more gain available while keeping the note center intact. Player accounts describe it as a responsive drive for lead and stacking use that remains articulate as gain rises. [1][3]
+Barbarossa describes URANUS as a refined Tube Screamer-style overdrive with greater clarity and openness. Player accounts describe useful lead/stacking behavior while retaining note definition at higher gain. [1][3]
 
 ## Research confidence
-- Identity/history: High
-- Old-model relationship: High
-- Later production generation: High
-- Transistor: Unknown
-- Diode: Unknown
-- Sound: High
+- **Identity/history:** High
+- **Old Model distinction:** High
+- **Three-control later layout:** High
+- **TS-style lineage:** High
+- **9V center-negative:** High
+- **Exact transistor:** Unknown
+- **Exact diode:** Unknown
 
-## Photo
-- Exact pedal photograph: newtool/Barbarossa photograph of a URANUS production pedal.
-- Direct image: https://newtool.jp/wp-content/uploads/2022/11/uranus-300-250-01.jpg
-- Source page: https://newtool.jp/barbarossa/uranus-2/
+## Deep research verification
+newtool's current URANUS and URANUS OLD MODEL pages were cross-checked with Effects Database and Ikebe. The sources establish the Old Model/modern production split, three-control later interface, point-to-point/CNC construction and 9V center-negative operation. [1][2][3][4]
 
 ## Sources checked
-1. newtool / Barbarossa URANUS product specification: https://newtool.jp/barbarossa/uranus-2/
-2. newtool / Barbarossa URANUS OLD MODEL: https://newtool.jp/barbarossa/uranus/
+1. newtool — Barbarossa URANUS: https://newtool.jp/barbarossa/uranus-2/
+2. newtool — Barbarossa URANUS OLD MODEL: https://newtool.jp/barbarossa/uranus/
 3. Effects Database — Barbarossa URANUS: https://www.effectsdatabase.com/model/barbarossa/uranus
-4. Ikebe URANUS product listing: https://www.ikebe-gakki.com/Form/Product/ProductDetail.aspx?bid=ec&pid=856326&shop=0
+4. Ikebe — Barbarossa URANUS: https://www.ikebe-gakki.com/Form/Product/ProductDetail.aspx?bid=ec&pid=856326&shop=0
+
+## Photo
+- **Exact pedal photograph:** Later-production URANUS photograph.
+- https://newtool.jp/wp-content/uploads/2022/11/uranus-300-250-01.jpg
