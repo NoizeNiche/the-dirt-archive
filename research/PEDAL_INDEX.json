@@ -1,6 +1,6 @@
 {
-  "version": "data-20260927-historical-census-sweep-06c",
-  "count": 4232,
+  "version": "data-20260927-historical-census-sweep-07a",
+  "count": 4237,
   "pedals": [
     {
       "company": "1981 Inventions",
@@ -13,6 +13,38 @@
       "research_record": "./research/pedals/1981 Inventions/DRV.md",
       "image_source_page": "https://www.cottonwoodmusicemporium.com/products/1981-inventions-drv-black-pink",
       "image_source_url": "https://www.cottonwoodmusicemporium.com/cdn/shop/files/medium_510fd0b7-2032-4d08-b8ac-404e919b0b8d_5000x.jpg?v=1765303337",
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "1981 Inventions",
+      "pedal": "DRV MOD 1",
+      "types": [
+        "Distortion"
+      ],
+      "image": "./assets/pedals/1981-inventions/drv-mod-1/primary.webp",
+      "source_page": "https://1981inventions.com/products/drv-mod-1",
+      "research_record": "./research/pedals/1981 Inventions/DRV MOD 1.md",
+      "catalog_role": "model",
+      "image_source_url": "https://1981inventions.com/cdn/shop/files/2883610B-D039-461A-B639-E988A20C3CAB.jpg?v=1787878144&width=533",
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "1981 Inventions",
+      "pedal": "DRV MOD 1 (WHITE)",
+      "types": [
+        "Distortion"
+      ],
+      "image": "./assets/pedals/1981-inventions/drv-mod-1/variants/white.webp",
+      "source_page": "https://1981inventions.com/products/drv-mod-1",
+      "research_record": "./research/pedals/1981 Inventions/DRV MOD 1 (WHITE).md",
+      "catalog_role": "variation",
+      "parent_pedal": "DRV MOD 1",
+      "variation_type": "colorway",
+      "variation_name": "White",
+      "image_source_page": "https://1981inventions.com/products/drv-mod-1",
+      "image_source_url": "https://1981inventions.com/cdn/shop/files/2883610B-D039-461A-B639-E988A20C3CAB.jpg?v=1787878144&width=1946",
       "research_level": "deep",
       "deep_research_status": "VERIFIED"
     },
@@ -79,38 +111,6 @@
       "research_record": "./research/pedals/1981 Inventions/LVL.md",
       "image_source_page": "https://1981inventions.com/products/forget-lvl",
       "image_source_url": "https://1981inventions.com/cdn/shop/files/DSCF5851.jpg?v=1788558906&width=1445",
-      "research_level": "deep",
-      "deep_research_status": "VERIFIED"
-    },
-    {
-      "company": "1981 Inventions",
-      "pedal": "DRV MOD 1",
-      "types": [
-        "Distortion"
-      ],
-      "image": "./assets/pedals/1981-inventions/drv-mod-1/primary.webp",
-      "source_page": "https://1981inventions.com/products/drv-mod-1",
-      "research_record": "./research/pedals/1981 Inventions/DRV MOD 1.md",
-      "catalog_role": "model",
-      "image_source_url": "https://1981inventions.com/cdn/shop/files/2883610B-D039-461A-B639-E988A20C3CAB.jpg?v=1787878144&width=533",
-      "research_level": "deep",
-      "deep_research_status": "VERIFIED"
-    },
-    {
-      "company": "1981 Inventions",
-      "pedal": "DRV MOD 1 (WHITE)",
-      "types": [
-        "Distortion"
-      ],
-      "image": "./assets/pedals/1981-inventions/drv-mod-1/variants/white.webp",
-      "source_page": "https://1981inventions.com/products/drv-mod-1",
-      "research_record": "./research/pedals/1981 Inventions/DRV MOD 1 (WHITE).md",
-      "catalog_role": "variation",
-      "parent_pedal": "DRV MOD 1",
-      "variation_type": "colorway",
-      "variation_name": "White",
-      "image_source_page": "https://1981inventions.com/products/drv-mod-1",
-      "image_source_url": "https://1981inventions.com/cdn/shop/files/2883610B-D039-461A-B639-E988A20C3CAB.jpg?v=1787878144&width=1946",
       "research_level": "deep",
       "deep_research_status": "VERIFIED"
     },
@@ -2553,6 +2553,19 @@
     },
     {
       "company": "Alexander Pedals",
+      "pedal": "Riff Instant Tone Sanitizer",
+      "types": [
+        "Distortion",
+        "Overdrive"
+      ],
+      "image": null,
+      "source_page": "https://www.alexanderpedals.com/shop",
+      "research_record": "./research/pedals/Alexander Pedals/Riff Instant Tone Sanitizer.md",
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "Alexander Pedals",
       "pedal": "Royal Cream",
       "types": [
         "Overdrive"
@@ -2562,19 +2575,6 @@
       "research_record": "./research/pedals/PRP Batch 047/Royal Cream.md",
       "image_source_url": "https://images.squarespace-cdn.com/content/v1/54a5d748e4b034981b4a71c8/1523288665915-0KI2PK409AKNHOOZT8U2/Royal_Cream_Front.jpg",
       "image_source_page": "https://www.alexanderpedals.com/discontinued-pedals",
-      "research_level": "deep",
-      "deep_research_status": "VERIFIED"
-    },
-    {
-      "company": "Alexander Pedals",
-      "pedal": "Riff Instant Tone Sanitizer",
-      "types": [
-        "Distortion",
-        "Overdrive"
-      ],
-      "image": null,
-      "source_page": "https://www.alexanderpedals.com/shop",
-      "research_record": "./research/pedals/Alexander Pedals/Riff Instant Tone Sanitizer.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED"
     },
@@ -2666,20 +2666,6 @@
     },
     {
       "company": "Ampeg",
-      "pedal": "Scrambler Bass Overdrive",
-      "types": [
-        "Overdrive"
-      ],
-      "image": "./assets/pedals/ampeg/scrambler-bass-overdrive/primary.webp",
-      "source_page": null,
-      "research_record": "./research/pedals/PRP Batch 047/Scrambler Bass Overdrive.md",
-      "image_source_url": "https://cdn11.bigcommerce.com/s-h0bqu/images/stencil/1920w/products/3959/8202/Ampeg_Scrambler_Bass_Overdrive_Effects_Pedal__67833.1735918948.png?c=2",
-      "image_source_page": "https://www.rainbowmusic.co.uk/ampeg-scrambler-bass-overdrive-effects-pedal/",
-      "research_level": "deep",
-      "deep_research_status": "VERIFIED"
-    },
-    {
-      "company": "Ampeg",
       "pedal": "A-1 Distortion",
       "types": [
         "Distortion"
@@ -2723,6 +2709,20 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/ampeg",
       "research_record": "./research/pedals/Ampeg/Scrambler.md",
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "Ampeg",
+      "pedal": "Scrambler Bass Overdrive",
+      "types": [
+        "Overdrive"
+      ],
+      "image": "./assets/pedals/ampeg/scrambler-bass-overdrive/primary.webp",
+      "source_page": null,
+      "research_record": "./research/pedals/PRP Batch 047/Scrambler Bass Overdrive.md",
+      "image_source_url": "https://cdn11.bigcommerce.com/s-h0bqu/images/stencil/1920w/products/3959/8202/Ampeg_Scrambler_Bass_Overdrive_Effects_Pedal__67833.1735918948.png?c=2",
+      "image_source_page": "https://www.rainbowmusic.co.uk/ampeg-scrambler-bass-overdrive-effects-pedal/",
       "research_level": "deep",
       "deep_research_status": "VERIFIED"
     },
@@ -4472,33 +4472,6 @@
     },
     {
       "company": "ARC Effects",
-      "pedal": "Soothsayer",
-      "types": [
-        "Distortion",
-        "Overdrive"
-      ],
-      "image": "./assets/pedals/arc-effects/soothsayer/primary.webp",
-      "source_page": "https://www.arceffects.com/soothsayer",
-      "research_record": "./research/pedals/PRP Batch 057/Soothsayer.md",
-      "image_source_page": "https://www.arceffects.com/soothsayer",
-      "image_source_url": "https://images.squarespace-cdn.com/content/v1/504a2da9e4b0060ff5df6806/0d86a47f-0495-424f-8628-2695cc96477e/AAR04678-2.jpg",
-      "research_level": "deep",
-      "deep_research_status": "VERIFIED"
-    },
-    {
-      "company": "ARC Effects",
-      "pedal": "Shepherd",
-      "types": [
-        "Fuzz"
-      ],
-      "image": null,
-      "source_page": "https://www.arceffects.com/shepherd/",
-      "research_record": "./research/pedals/ARC Effects/Shepherd.md",
-      "research_level": "deep",
-      "deep_research_status": "VERIFIED"
-    },
-    {
-      "company": "ARC Effects",
       "pedal": "Big Green",
       "types": [
         "Fuzz"
@@ -4535,6 +4508,18 @@
     },
     {
       "company": "ARC Effects",
+      "pedal": "Klone",
+      "types": [
+        "Overdrive"
+      ],
+      "image": null,
+      "source_page": "https://www.effectsdatabase.com/model/arceffects/klone",
+      "research_record": "./research/pedals/ARC Effects/Klone.md",
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "ARC Effects",
       "pedal": "Klone V2",
       "types": [
         "Overdrive"
@@ -4547,13 +4532,28 @@
     },
     {
       "company": "ARC Effects",
-      "pedal": "Klone",
+      "pedal": "Shepherd",
       "types": [
-        "Overdrive"
+        "Fuzz"
       ],
       "image": null,
-      "source_page": "https://www.effectsdatabase.com/model/arceffects/klone",
-      "research_record": "./research/pedals/ARC Effects/Klone.md",
+      "source_page": "https://www.arceffects.com/shepherd/",
+      "research_record": "./research/pedals/ARC Effects/Shepherd.md",
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "ARC Effects",
+      "pedal": "Soothsayer",
+      "types": [
+        "Distortion",
+        "Overdrive"
+      ],
+      "image": "./assets/pedals/arc-effects/soothsayer/primary.webp",
+      "source_page": "https://www.arceffects.com/soothsayer",
+      "research_record": "./research/pedals/PRP Batch 057/Soothsayer.md",
+      "image_source_page": "https://www.arceffects.com/soothsayer",
+      "image_source_url": "https://images.squarespace-cdn.com/content/v1/504a2da9e4b0060ff5df6806/0d86a47f-0495-424f-8628-2695cc96477e/AAR04678-2.jpg",
       "research_level": "deep",
       "deep_research_status": "VERIFIED"
     },
@@ -4714,21 +4714,6 @@
     },
     {
       "company": "Ashdown Engineering",
-      "pedal": "John Myung Double Drive",
-      "types": [
-        "Distortion",
-        "Fuzz"
-      ],
-      "image": "./assets/pedals/ashdown-engineering/john-myung-double-drive/primary.webp",
-      "source_page": "https://ashdownmusic.com/collections/signature-series/products/john-myung-double-drive-pedal",
-      "research_record": "./research/pedals/PRP Batch 059/John Myung Double Drive.md",
-      "image_source_page": "https://ashdownmusic.com/collections/signature-series/products/john-myung-double-drive-pedal",
-      "image_source_url": "https://ashdownmusic.com/cdn/shop/products/JMDoubleDriveFrontWEB.jpg?v=1628002635&width=1500",
-      "research_level": "deep",
-      "deep_research_status": "VERIFIED"
-    },
-    {
-      "company": "Ashdown Engineering",
       "pedal": "ABM PRO-FX Double Shot",
       "types": [
         "Distortion",
@@ -4837,6 +4822,21 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/ashdown",
       "research_record": "./research/pedals/Ashdown Engineering/JM John Myung Double Drive.md",
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "Ashdown Engineering",
+      "pedal": "John Myung Double Drive",
+      "types": [
+        "Distortion",
+        "Fuzz"
+      ],
+      "image": "./assets/pedals/ashdown-engineering/john-myung-double-drive/primary.webp",
+      "source_page": "https://ashdownmusic.com/collections/signature-series/products/john-myung-double-drive-pedal",
+      "research_record": "./research/pedals/PRP Batch 059/John Myung Double Drive.md",
+      "image_source_page": "https://ashdownmusic.com/collections/signature-series/products/john-myung-double-drive-pedal",
+      "image_source_url": "https://ashdownmusic.com/cdn/shop/products/JMDoubleDriveFrontWEB.jpg?v=1628002635&width=1500",
       "research_level": "deep",
       "deep_research_status": "VERIFIED"
     },
@@ -6615,6 +6615,66 @@
       "deep_research_status": "VERIFIED"
     },
     {
+      "company": "B85 Audio",
+      "pedal": "Oktadrive",
+      "types": [
+        "Fuzz"
+      ],
+      "image": null,
+      "source_page": "https://www.effectsdatabase.com/model/b85",
+      "research_record": "./research/pedals/B85 Audio/Oktadrive.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "B85 Audio",
+      "pedal": "Red Lama",
+      "types": [
+        "Overdrive"
+      ],
+      "image": null,
+      "source_page": "https://www.effectsdatabase.com/model/b85",
+      "research_record": "./research/pedals/B85 Audio/Red Lama.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Backbeat Electric",
+      "pedal": "Bass Driver",
+      "types": [
+        "Overdrive"
+      ],
+      "image": null,
+      "source_page": "https://www.effectsdatabase.com/model/backbeat",
+      "research_record": "./research/pedals/Backbeat Electric/Bass Driver.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Backbeat Electric",
+      "pedal": "Blue Blender",
+      "types": [
+        "Fuzz"
+      ],
+      "image": null,
+      "source_page": "https://www.effectsdatabase.com/model/backbeat",
+      "research_record": "./research/pedals/Backbeat Electric/Blue Blender.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Backbeat Electric",
+      "pedal": "Doctor Fuzz",
+      "types": [
+        "Fuzz"
+      ],
+      "image": null,
+      "source_page": "https://www.effectsdatabase.com/model/backbeat",
+      "research_record": "./research/pedals/Backbeat Electric/Doctor Fuzz.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
       "company": "Backbeat Electric",
       "pedal": "X-Bender",
       "types": [
@@ -6642,28 +6702,6 @@
       "image_source_page_verified": true,
       "image_source_priority": 84,
       "image_source_url": "https://www.soundpure.com/resources/org.apache.wicket.Application/productImage?id=2423-Bad_Cat_2_Tone_Foot_Pedal-1273d0f94a4-0-large.jpg",
-      "research_level": "deep",
-      "deep_research_status": "VERIFIED"
-    },
-    {
-      "company": "Bad Cat",
-      "pedal": "X-Treme Tone",
-      "types": [
-        "Distortion",
-        "Overdrive"
-      ],
-      "image": "./assets/pedals/bad-cat/x-treme-tone/primary.webp",
-      "source_page": "https://manuzoid.com/manuals/0D5pR-Bad%20Cat%20X-TREME%20TONE%20Operating%20instructions",
-      "research_record": "./research/pedals/Bad Cat/X-Treme Tone.md",
-      "image_source_page": "https://www.clinganguitars.com/en-us/products/77329728-bad-cat-x-treme-tone-tube-preamp-pedal-2000s-black-and-chrome",
-      "image_source_page_verified": true,
-      "image_source_priority": 395,
-      "image_source_pages": [
-        "https://www.effectsdatabase.com/model/badcat/xtremetone",
-        "https://www.clinganguitars.com/en-us/products/77329728-bad-cat-x-treme-tone-tube-preamp-pedal-2000s-black-and-chrome"
-      ],
-      "image_source_pages_verified": true,
-      "image_source_url": "https://www.clinganguitars.com/cdn/shop/files/zmz63gntegtosibmgwuz_600x600_crop_center.jpg?v=1741109845",
       "research_level": "deep",
       "deep_research_status": "VERIFIED"
     },
@@ -6704,6 +6742,76 @@
       "deep_research_status": "PENDING"
     },
     {
+      "company": "Bad Cat",
+      "pedal": "X-Treme Tone",
+      "types": [
+        "Distortion",
+        "Overdrive"
+      ],
+      "image": "./assets/pedals/bad-cat/x-treme-tone/primary.webp",
+      "source_page": "https://manuzoid.com/manuals/0D5pR-Bad%20Cat%20X-TREME%20TONE%20Operating%20instructions",
+      "research_record": "./research/pedals/Bad Cat/X-Treme Tone.md",
+      "image_source_page": "https://www.clinganguitars.com/en-us/products/77329728-bad-cat-x-treme-tone-tube-preamp-pedal-2000s-black-and-chrome",
+      "image_source_page_verified": true,
+      "image_source_priority": 395,
+      "image_source_pages": [
+        "https://www.effectsdatabase.com/model/badcat/xtremetone",
+        "https://www.clinganguitars.com/en-us/products/77329728-bad-cat-x-treme-tone-tube-preamp-pedal-2000s-black-and-chrome"
+      ],
+      "image_source_pages_verified": true,
+      "image_source_url": "https://www.clinganguitars.com/cdn/shop/files/zmz63gntegtosibmgwuz_600x600_crop_center.jpg?v=1741109845",
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "Bad Penny FX",
+      "pedal": "Dluxe Drive",
+      "types": [
+        "Overdrive"
+      ],
+      "image": null,
+      "source_page": "https://reverb.com/uk/item/52583164-bad-penny-fx-dluxe-drive",
+      "research_record": "./research/pedals/Bad Penny FX/Dluxe Drive.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Bad Penny FX",
+      "pedal": "Fuzz Controller Germanium",
+      "types": [
+        "Fuzz"
+      ],
+      "image": null,
+      "source_page": "https://www.guitarpedalx.com/news/best-of-british-pedal-builders-roundup---an-a-z-overview-in-105-parts",
+      "research_record": "./research/pedals/Bad Penny FX/Fuzz Controller Germanium.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Bad Penny FX",
+      "pedal": "Littlebox Fuzz",
+      "types": [
+        "Fuzz"
+      ],
+      "image": null,
+      "source_page": "https://www.guitarpedalx.com/news/best-of-british-pedal-builders-roundup---an-a-z-overview-in-105-parts",
+      "research_record": "./research/pedals/Bad Penny FX/Littlebox Fuzz.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Bad Penny FX",
+      "pedal": "Lollygagger Overdrive",
+      "types": [
+        "Overdrive"
+      ],
+      "image": null,
+      "source_page": "https://www.guitarpedalx.com/news/best-of-british-pedal-builders-roundup---an-a-z-overview-in-105-parts",
+      "research_record": "./research/pedals/Bad Penny FX/Lollygagger Overdrive.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
       "company": "Bad Penny FX",
       "pedal": "Morse Fuzz",
       "types": [
@@ -6716,6 +6824,56 @@
       "image_source_page": "https://gearhero.com/products/bad-penny-fx-morse-fuzz",
       "research_level": "deep",
       "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "Bad Penny FX",
+      "pedal": "Morse Fuzz Mini",
+      "types": [
+        "Fuzz"
+      ],
+      "image": null,
+      "source_page": "https://www.guitarpedalx.com/news/best-of-british-pedal-builders-roundup---an-a-z-overview-in-105-parts",
+      "research_record": "./research/pedals/Bad Penny FX/Morse Fuzz Mini.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Bad Penny FX",
+      "pedal": "Nerd Fuzz + Boost",
+      "types": [
+        "Fuzz",
+        "Overdrive"
+      ],
+      "image": null,
+      "source_page": "https://www.guitarpedalx.com/news/best-of-british-pedal-builders-roundup---an-a-z-overview-in-105-parts",
+      "research_record": "./research/pedals/Bad Penny FX/Nerd Fuzz + Boost.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Bad Penny FX",
+      "pedal": "Old Fuzz Mini",
+      "types": [
+        "Fuzz"
+      ],
+      "image": null,
+      "source_page": "https://www.guitarpedalx.com/news/best-of-british-pedal-builders-roundup---an-a-z-overview-in-105-parts",
+      "research_record": "./research/pedals/Bad Penny FX/Old Fuzz Mini.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Bad Penny FX",
+      "pedal": "Quagswag Fuzz Boost",
+      "types": [
+        "Fuzz",
+        "Overdrive"
+      ],
+      "image": null,
+      "source_page": "https://www.guitarpedalx.com/news/best-of-british-pedal-builders-roundup---an-a-z-overview-in-105-parts",
+      "research_record": "./research/pedals/Bad Penny FX/Quagswag Fuzz Boost.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
     },
     {
       "company": "Bad Penny FX",
@@ -6757,6 +6915,20 @@
       "image": "./assets/pedals/bad-penny-fx/the-fuzz-controller-v2/primary.webp",
       "research_level": "deep",
       "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "Bad Penny FX",
+      "pedal": "Widow Dual Overdrive/Fuzz",
+      "types": [
+        "Distortion",
+        "Fuzz",
+        "Overdrive"
+      ],
+      "image": null,
+      "source_page": "https://www.guitarpedalx.com/news/best-of-british-pedal-builders-roundup---an-a-z-overview-in-105-parts",
+      "research_record": "./research/pedals/Bad Penny FX/Widow Dual Overdrive Fuzz.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
     },
     {
       "company": "Bad Penny FX",
@@ -6841,6 +7013,18 @@
       "image_source_url": "https://badpixel.weebly.com/uploads/2/6/5/7/26575514/11_3_orig.jpg",
       "research_level": "deep",
       "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "Bad Pixel Pedals",
+      "pedal": "F#@k You Tube Drive-Boost",
+      "types": [
+        "Overdrive"
+      ],
+      "image": null,
+      "source_page": "https://atthelivingroomstudios.com/gear/",
+      "research_record": "./research/pedals/Bad Pixel Pedals/F#@k You Tube Drive-Boost.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
     },
     {
       "company": "Bad Pixel Pedals",
@@ -7003,6 +7187,18 @@
     },
     {
       "company": "BAE Audio",
+      "pedal": "Hot Fuzz",
+      "types": [
+        "Fuzz"
+      ],
+      "image": null,
+      "source_page": "https://ww.baeaudio.com/hot-fuzz/",
+      "research_record": "./research/pedals/BAE Audio/Hot Fuzz.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "BAE Audio",
       "pedal": "Royaltone Fuzz",
       "types": [
         "Fuzz"
@@ -7020,18 +7216,6 @@
       "image_source_url": "https://www.baeaudio.com/images/Bi-Polar-PSU/bi-polar-psu-back.jpg",
       "research_level": "deep",
       "deep_research_status": "VERIFIED"
-    },
-    {
-      "company": "BAE Audio",
-      "pedal": "Hot Fuzz",
-      "types": [
-        "Fuzz"
-      ],
-      "image": null,
-      "source_page": "https://ww.baeaudio.com/hot-fuzz/",
-      "research_record": "./research/pedals/BAE Audio/Hot Fuzz.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
     },
     {
       "company": "BAE Audio",
@@ -7058,6 +7242,42 @@
       "image_source_page": "https://effectsfreak.com/effect/baja-tech-custom-bone-bender/",
       "research_level": "deep",
       "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "Baja Tech Custom",
+      "pedal": "Bone Bender 1.5",
+      "types": [
+        "Fuzz"
+      ],
+      "image": null,
+      "source_page": "https://wahwah.fandom.com/wiki/Baja_Tech_Custom",
+      "research_record": "./research/pedals/Baja Tech Custom/Bone Bender 1.5.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Baja Tech Custom",
+      "pedal": "Bone Bender MKII",
+      "types": [
+        "Fuzz"
+      ],
+      "image": null,
+      "source_page": "https://wahwah.fandom.com/wiki/Baja_Tech_Custom",
+      "research_record": "./research/pedals/Baja Tech Custom/Bone Bender MKII.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Baja Tech Custom",
+      "pedal": "Da MOAF Deluxe",
+      "types": [
+        "Fuzz"
+      ],
+      "image": null,
+      "source_page": "https://www.effectsdatabase.com/model/bajatech",
+      "research_record": "./research/pedals/Baja Tech Custom/DaMOAF Deluxe.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
     },
     {
       "company": "Baja Tech Custom",
@@ -7122,6 +7342,18 @@
     },
     {
       "company": "Baja Tech Custom",
+      "pedal": "Real Tube Overdrive",
+      "types": [
+        "Overdrive"
+      ],
+      "image": null,
+      "source_page": "https://wahwah.fandom.com/wiki/Baja_Tech_Custom",
+      "research_record": "./research/pedals/Baja Tech Custom/Real Tube Overdrive.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Baja Tech Custom",
       "pedal": "Top Boost TB-1",
       "types": [
         "Overdrive"
@@ -7153,6 +7385,20 @@
       "image_source_url": "https://guitarbrando.com/cdn/shop/products/20201214_213456.jpg?v=1632776585",
       "research_level": "deep",
       "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "Balaguer Guitars",
+      "pedal": "Fission Drive",
+      "types": [
+        "Distortion",
+        "Fuzz",
+        "Overdrive"
+      ],
+      "image": null,
+      "source_page": "https://www.balaguerguitars.com/wp-content/uploads/2021/02/Balaguer-2021-Product-Catalog_compressed-2.pdf",
+      "research_record": "./research/pedals/Balaguer Guitars/Fission Drive.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
     },
     {
       "company": "Balaguer Guitars",
@@ -7239,6 +7485,30 @@
       "image_source_page": "https://www.bsriaudio.com/product/impossible-colors-v2-transformer-coupled-fuzz",
       "research_level": "deep",
       "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "Baltimore Sonic Research Institute",
+      "pedal": "Magawa",
+      "types": [
+        "Distortion"
+      ],
+      "image": null,
+      "source_page": "https://empireguitars.com/collections/all?page=58",
+      "research_record": "./research/pedals/Baltimore Sonic Research Institute/Magawa.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Baltimore Sonic Research Institute",
+      "pedal": "Maybe The Real Treasure... Fuzz",
+      "types": [
+        "Fuzz"
+      ],
+      "image": null,
+      "source_page": "https://www.cottonwoodmusicemporium.com/collections/baltimore-sonic-research-institure",
+      "research_record": "./research/pedals/Baltimore Sonic Research Institute/Maybe The Real Treasure - Fuzz.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
     },
     {
       "company": "Baltimore Sonic Research Institute",
@@ -8352,49 +8622,6 @@
     },
     {
       "company": "BBE",
-      "pedal": "G Screamer",
-      "types": [
-        "Overdrive"
-      ],
-      "image": "./assets/pedals/bbe/g-screamer/primary.webp",
-      "source_page": "https://www.effectsdatabase.com/model/bbe/gscreamer",
-      "research_record": "./research/pedals/BBE/G Screamer.md",
-      "image_source_page": "https://www.chicagomusicexchange.com/products/bbe-green-screamer-overdrive-pedal-1588801",
-      "image_source_page_verified": true,
-      "image_source_priority": 431,
-      "image_source_pages": [
-        "https://www.effectsdatabase.com/model/bbe/gscreamer",
-        "https://www.guitarcenter.com/BBE/Used-BBE-G-Screamer-OG1-Gus-G-Signature-Overdrive-Effect-Pedal-121885358.gc",
-        "https://www.chicagomusicexchange.com/products/bbe-green-screamer-overdrive-pedal-1588801"
-      ],
-      "image_source_pages_verified": true,
-      "image_source_url": "http://www.chicagomusicexchange.com/cdn/shop/products/bbe-effects-and-pedals-overdrive-and-boost-bbe-green-screamer-overdrive-pedal-u4095989704-29679987064967.jpg?v=1663027325",
-      "research_level": "deep",
-      "deep_research_status": "VERIFIED"
-    },
-    {
-      "company": "BBE",
-      "pedal": "Green Screamer",
-      "types": [
-        "Overdrive"
-      ],
-      "image": "./assets/pedals/bbe/green-screamer/primary.webp",
-      "source_page": null,
-      "research_record": "./research/pedals/PRP Batch 097/Green Screamer.md",
-      "image_source_page": "https://sweetlousguitars.com/products/bbe-green-screamer-2011-green",
-      "image_source_page_verified": true,
-      "image_source_priority": 447,
-      "image_source_pages": [
-        "https://www.effectsdatabase.com/model/bbe/greenscreamer",
-        "https://sweetlousguitars.com/products/bbe-green-screamer-2011-green"
-      ],
-      "image_source_pages_verified": true,
-      "image_source_url": "http://sweetlousguitars.com/cdn/shop/files/20260129_140806.jpg?v=1769737190",
-      "research_level": "deep",
-      "deep_research_status": "VERIFIED"
-    },
-    {
-      "company": "BBE",
       "pedal": "427 Distortion",
       "types": [
         "Distortion"
@@ -8464,6 +8691,49 @@
       "research_record": "./research/pedals/BBE/Free Fuzz.md",
       "research_level": "surface",
       "deep_research_status": "PENDING"
+    },
+    {
+      "company": "BBE",
+      "pedal": "G Screamer",
+      "types": [
+        "Overdrive"
+      ],
+      "image": "./assets/pedals/bbe/g-screamer/primary.webp",
+      "source_page": "https://www.effectsdatabase.com/model/bbe/gscreamer",
+      "research_record": "./research/pedals/BBE/G Screamer.md",
+      "image_source_page": "https://www.chicagomusicexchange.com/products/bbe-green-screamer-overdrive-pedal-1588801",
+      "image_source_page_verified": true,
+      "image_source_priority": 431,
+      "image_source_pages": [
+        "https://www.effectsdatabase.com/model/bbe/gscreamer",
+        "https://www.guitarcenter.com/BBE/Used-BBE-G-Screamer-OG1-Gus-G-Signature-Overdrive-Effect-Pedal-121885358.gc",
+        "https://www.chicagomusicexchange.com/products/bbe-green-screamer-overdrive-pedal-1588801"
+      ],
+      "image_source_pages_verified": true,
+      "image_source_url": "http://www.chicagomusicexchange.com/cdn/shop/products/bbe-effects-and-pedals-overdrive-and-boost-bbe-green-screamer-overdrive-pedal-u4095989704-29679987064967.jpg?v=1663027325",
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "BBE",
+      "pedal": "Green Screamer",
+      "types": [
+        "Overdrive"
+      ],
+      "image": "./assets/pedals/bbe/green-screamer/primary.webp",
+      "source_page": null,
+      "research_record": "./research/pedals/PRP Batch 097/Green Screamer.md",
+      "image_source_page": "https://sweetlousguitars.com/products/bbe-green-screamer-2011-green",
+      "image_source_page_verified": true,
+      "image_source_priority": 447,
+      "image_source_pages": [
+        "https://www.effectsdatabase.com/model/bbe/greenscreamer",
+        "https://sweetlousguitars.com/products/bbe-green-screamer-2011-green"
+      ],
+      "image_source_pages_verified": true,
+      "image_source_url": "http://sweetlousguitars.com/cdn/shop/files/20260129_140806.jpg?v=1769737190",
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "BBE",
@@ -9044,6 +9314,19 @@
     },
     {
       "company": "Behringer",
+      "pedal": "OD100 Overdrive/Distortion",
+      "types": [
+        "Overdrive",
+        "Distortion"
+      ],
+      "image": null,
+      "source_page": "https://www.effectsdatabase.com/model/behringer/compact/od100",
+      "research_record": "./research/pedals/Behringer/OD100 Overdrive/Distortion.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Behringer",
       "pedal": "OD300",
       "types": [
         "Distortion / Overdrive"
@@ -9064,6 +9347,30 @@
     },
     {
       "company": "Behringer",
+      "pedal": "OD400 Overdrive",
+      "types": [
+        "Overdrive"
+      ],
+      "image": null,
+      "source_page": "https://www.effectsdatabase.com/model/behringer/compact/od400",
+      "research_record": "./research/pedals/Behringer/OD400 Overdrive.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Behringer",
+      "pedal": "PO300 Power Overdrive",
+      "types": [
+        "Overdrive"
+      ],
+      "image": null,
+      "source_page": "https://www.effectsdatabase.com/model/behringer/compact/po300",
+      "research_record": "./research/pedals/Behringer/PO300 Power Overdrive.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Behringer",
       "pedal": "SF300 Super Fuzz",
       "types": [
         "Fuzz"
@@ -9078,6 +9385,30 @@
     },
     {
       "company": "Behringer",
+      "pedal": "SM400 Super Metal",
+      "types": [
+        "Distortion"
+      ],
+      "image": null,
+      "source_page": "https://www.effectsdatabase.com/model/behringer/compact/sm400",
+      "research_record": "./research/pedals/Behringer/SM400 Super Metal.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Behringer",
+      "pedal": "TO100 Tube Overdrive",
+      "types": [
+        "Overdrive"
+      ],
+      "image": null,
+      "source_page": "https://www.effectsdatabase.com/model/behringer/compact/to100",
+      "research_record": "./research/pedals/Behringer/TO100 Tube Overdrive.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Behringer",
       "pedal": "UZ400 Ultra Fuzz",
       "types": [
         "Fuzz"
@@ -9087,6 +9418,18 @@
       "research_record": "./research/pedals/Behringer/UZ400 Ultra Fuzz.md",
       "image_source_page": "https://www.behringer.com/en/products/0709-ACL",
       "image_source_url": "https://cdn-media.empowertribe.com/44ade04164b04517a49757f6d17e1f02/Image_BE_0709-ACL_UZ400_Web-Banner_Mobile_2023-09-13_Rev.0.jpg",
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "Benson Amps",
+      "pedal": "Chimera Fuzz",
+      "types": [
+        "Fuzz"
+      ],
+      "image": "",
+      "source_page": "https://www.bensonamps.com/guitarpedals",
+      "research_record": "./research/pedals/Benson Amps/Chimera Fuzz.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED"
     },
@@ -9399,6 +9742,19 @@
     },
     {
       "company": "Big Ear",
+      "pedal": "Luck Drive",
+      "types": [
+        "Overdrive",
+        "Boost"
+      ],
+      "image": null,
+      "source_page": "https://www.bigearpedals.com/post/making-of-the-luck-drive-for-luck-reunion-2019",
+      "research_record": "./research/pedals/Big Ear/Luck Drive.md",
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "Big Ear",
       "pedal": "Slice of Pie",
       "types": [
         "Fuzz"
@@ -9560,19 +9916,6 @@
       ],
       "image_source_pages_verified": true,
       "image_source_url": "https://files.effectsdatabase.com/gear/pics/bigear_woodcutter_001.jpg",
-      "research_level": "deep",
-      "deep_research_status": "VERIFIED"
-    },
-    {
-      "company": "Big Ear",
-      "pedal": "Luck Drive",
-      "types": [
-        "Overdrive",
-        "Boost"
-      ],
-      "image": null,
-      "source_page": "https://www.bigearpedals.com/post/making-of-the-luck-drive-for-luck-reunion-2019",
-      "research_record": "./research/pedals/Big Ear/Luck Drive.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED"
     },
@@ -9820,6 +10163,18 @@
       "research_record": "./research/pedals/Big Joe Stomp Box Company/R-405 HARD.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "Big John Effects",
+      "pedal": "BassDrive",
+      "types": [
+        "Overdrive"
+      ],
+      "image": null,
+      "source_page": "https://bigjohnmusic.com/about/",
+      "research_record": "./research/pedals/Big John Effects/BassDrive.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
     },
     {
       "company": "Big John Effects",
@@ -11070,20 +11425,6 @@
     },
     {
       "company": "Bixonic",
-      "pedal": "EXP2000DR Clean & Drive",
-      "types": [
-        "Overdrive"
-      ],
-      "image": "./assets/pedals/bixonic/exp2000dr-clean-drive/primary.webp",
-      "source_page": "https://bixonic-sound.com/products/exp2000dr",
-      "research_record": "./research/pedals/PRP Batch 088/EXP2000DR Clean & Drive.md",
-      "image_source_url": "http://bixonic-sound.com/cdn/shop/files/exp2000dr_07.jpg?v=1768892489",
-      "image_source_page": "https://bixonic-sound.com/products/exp2000dr",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
-    },
-    {
-      "company": "Bixonic",
       "pedal": "EXP2000 Expandora",
       "types": [
         "Distortion",
@@ -11095,6 +11436,20 @@
       "research_record": "./research/pedals/Bixonic/EXP2000 Expandora.md",
       "research_level": "surface",
       "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Bixonic",
+      "pedal": "EXP2000DR Clean & Drive",
+      "types": [
+        "Overdrive"
+      ],
+      "image": "./assets/pedals/bixonic/exp2000dr-clean-drive/primary.webp",
+      "source_page": "https://bixonic-sound.com/products/exp2000dr",
+      "research_record": "./research/pedals/PRP Batch 088/EXP2000DR Clean & Drive.md",
+      "image_source_url": "http://bixonic-sound.com/cdn/shop/files/exp2000dr_07.jpg?v=1768892489",
+      "image_source_page": "https://bixonic-sound.com/products/exp2000dr",
+      "research_level": "researched",
+      "deep_research_status": "PENDING_REVIEW"
     },
     {
       "company": "Bixonic",
@@ -11154,20 +11509,6 @@
     },
     {
       "company": "Biyang",
-      "pedal": "BL-8 Blue",
-      "types": [
-        "Overdrive"
-      ],
-      "image": "./assets/pedals/biyang/bl-8-blue/primary.webp",
-      "source_page": "https://www.effectsdatabase.com/model/biyang/tonefancier/bl8",
-      "research_record": "./research/pedals/PRP Batch 089/BL-8 Blue.md",
-      "image_source_url": "https://rockstockstores.com/wp-content/uploads/2022/09/vu2p4qe7dd4bbeduvhf3-600x651.jpg",
-      "image_source_page": "https://rockstockstores.com/product/biyang-tonefancier-bl-8-blue-overdrive/",
-      "research_level": "deep",
-      "deep_research_status": "VERIFIED"
-    },
-    {
-      "company": "Biyang",
       "pedal": "BL-12 Blues",
       "types": [
         "Overdrive"
@@ -11183,6 +11524,20 @@
       ],
       "image_source_pages_verified": true,
       "image_source_url": "https://http2.mlstatic.com/D_NQ_NP_890346-MLA93192723273_092025-O.webp",
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "Biyang",
+      "pedal": "BL-8 Blue",
+      "types": [
+        "Overdrive"
+      ],
+      "image": "./assets/pedals/biyang/bl-8-blue/primary.webp",
+      "source_page": "https://www.effectsdatabase.com/model/biyang/tonefancier/bl8",
+      "research_record": "./research/pedals/PRP Batch 089/BL-8 Blue.md",
+      "image_source_url": "https://rockstockstores.com/wp-content/uploads/2022/09/vu2p4qe7dd4bbeduvhf3-600x651.jpg",
+      "image_source_page": "https://rockstockstores.com/product/biyang-tonefancier-bl-8-blue-overdrive/",
       "research_level": "deep",
       "deep_research_status": "VERIFIED"
     },
@@ -11223,6 +11578,26 @@
       ],
       "image_source_pages_verified": true,
       "image_source_url": "https://www.toneteq.com/assets/uploads/product_images/160261077260.jpg",
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "Biyang",
+      "pedal": "DS-12 Distortion",
+      "types": [
+        "Distortion"
+      ],
+      "image": "./assets/pedals/biyang/ds-12-distortion/primary.webp",
+      "source_page": "https://www.effectsdatabase.com/model/biyang/tonefancier/ds12",
+      "research_record": "./research/pedals/PRP Batch 089/DS-12 Distortion.md",
+      "image_source_page": "https://reverb.com/p/biyang-classical-ds-12-distortion",
+      "image_source_page_verified": true,
+      "image_source_priority": 8,
+      "image_source_pages": [
+        "https://reverb.com/p/biyang-classical-ds-12-distortion"
+      ],
+      "image_source_pages_verified": true,
+      "image_source_url": "https://rvb-img.reverb.com/i/s--rlJSRsvl--/quality=medium-low,height=800,width=800,fit=contain/zivws8dwysxwcraaculu.jpg",
       "research_level": "deep",
       "deep_research_status": "VERIFIED"
     },
@@ -11290,21 +11665,15 @@
     },
     {
       "company": "Biyang",
-      "pedal": "DS-12 Distortion",
+      "pedal": "FZ-12 Fuzz",
       "types": [
-        "Distortion"
+        "Fuzz"
       ],
-      "image": "./assets/pedals/biyang/ds-12-distortion/primary.webp",
-      "source_page": "https://www.effectsdatabase.com/model/biyang/tonefancier/ds12",
-      "research_record": "./research/pedals/PRP Batch 089/DS-12 Distortion.md",
-      "image_source_page": "https://reverb.com/p/biyang-classical-ds-12-distortion",
-      "image_source_page_verified": true,
-      "image_source_priority": 8,
-      "image_source_pages": [
-        "https://reverb.com/p/biyang-classical-ds-12-distortion"
-      ],
-      "image_source_pages_verified": true,
-      "image_source_url": "https://rvb-img.reverb.com/i/s--rlJSRsvl--/quality=medium-low,height=800,width=800,fit=contain/zivws8dwysxwcraaculu.jpg",
+      "image": "./assets/pedals/biyang/fz-12-fuzz/primary.webp",
+      "source_page": "https://www.effectsdatabase.com/model/biyang/classic/fz12",
+      "research_record": "./research/pedals/PRP Batch 090/FZ-12 Fuzz.md",
+      "image_source_url": "https://www.effects-pedals.info/wp-content/uploads/2022/10/biyang-fz-12-fuzz-effects-pedal.jpg",
+      "image_source_page": "https://www.effects-pedals.info/p/biyang-fz-12-fuzz/",
       "research_level": "deep",
       "deep_research_status": "VERIFIED"
     },
@@ -11319,20 +11688,6 @@
       "research_record": "./research/pedals/PRP Batch 090/FZ-7 Fuzz.md",
       "image_source_url": "https://img.audiofanzine.com/images/u/product/normal/biyang-fz-7-fuzz-88586.jpg",
       "image_source_page": "https://en.audiofanzine.com/fuzz-pedal/biyang/fz-7-fuzz/",
-      "research_level": "deep",
-      "deep_research_status": "VERIFIED"
-    },
-    {
-      "company": "Biyang",
-      "pedal": "FZ-12 Fuzz",
-      "types": [
-        "Fuzz"
-      ],
-      "image": "./assets/pedals/biyang/fz-12-fuzz/primary.webp",
-      "source_page": "https://www.effectsdatabase.com/model/biyang/classic/fz12",
-      "research_record": "./research/pedals/PRP Batch 090/FZ-12 Fuzz.md",
-      "image_source_url": "https://www.effects-pedals.info/wp-content/uploads/2022/10/biyang-fz-12-fuzz-effects-pedal.jpg",
-      "image_source_page": "https://www.effects-pedals.info/p/biyang-fz-12-fuzz/",
       "research_level": "deep",
       "deep_research_status": "VERIFIED"
     },
@@ -11387,6 +11742,26 @@
     },
     {
       "company": "Biyang",
+      "pedal": "OD-12 X-Drive",
+      "types": [
+        "Overdrive"
+      ],
+      "image": "./assets/pedals/biyang/od-12-x-drive/primary.webp",
+      "source_page": "https://www.effectsdatabase.com/model/biyang/classic/od12",
+      "research_record": "./research/pedals/PRP Batch 090/OD-12 X-Drive.md",
+      "image_source_page": "https://en.audiofanzine.com/overdrive-pedal/biyang/",
+      "image_source_page_verified": true,
+      "image_source_priority": 193,
+      "image_source_pages": [
+        "https://www.effectsdatabase.com/model/biyang/classic/od12"
+      ],
+      "image_source_pages_verified": true,
+      "image_source_url": "https://img.audiofanzine.com/img/product/normal/2/5/253617.jpg?fm=pjpg&w=300&h=218&fit=fill&s=21ed522efa421e29d3daf967580469cb",
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "Biyang",
       "pedal": "OD-7 Overdrive",
       "types": [
         "Overdrive"
@@ -11418,26 +11793,6 @@
       "image_source_url": "https://files.effectsdatabase.com/gear/pics/biyang-tonefancier_od-8_001.jpg",
       "research_level": "researched",
       "deep_research_status": "PENDING_REVIEW"
-    },
-    {
-      "company": "Biyang",
-      "pedal": "OD-12 X-Drive",
-      "types": [
-        "Overdrive"
-      ],
-      "image": "./assets/pedals/biyang/od-12-x-drive/primary.webp",
-      "source_page": "https://www.effectsdatabase.com/model/biyang/classic/od12",
-      "research_record": "./research/pedals/PRP Batch 090/OD-12 X-Drive.md",
-      "image_source_page": "https://en.audiofanzine.com/overdrive-pedal/biyang/",
-      "image_source_page_verified": true,
-      "image_source_priority": 193,
-      "image_source_pages": [
-        "https://www.effectsdatabase.com/model/biyang/classic/od12"
-      ],
-      "image_source_pages_verified": true,
-      "image_source_url": "https://img.audiofanzine.com/img/product/normal/2/5/253617.jpg?fm=pjpg&w=300&h=218&fit=fill&s=21ed522efa421e29d3daf967580469cb",
-      "research_level": "deep",
-      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Biyang",
@@ -12717,6 +13072,18 @@
     },
     {
       "company": "Blackbox Music Electronics",
+      "pedal": "Cobalt",
+      "types": [
+        "Overdrive"
+      ],
+      "image": null,
+      "source_page": "https://www.effectsdatabase.com/model/blackbox/cobalt",
+      "research_record": "./research/pedals/Blackbox Music Electronics/Cobalt.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Blackbox Music Electronics",
       "pedal": "Inferno",
       "types": [
         "Fuzz"
@@ -12728,18 +13095,6 @@
       "image_source_page": "https://www.analoguehaven.com/blackbox/inferno/",
       "research_level": "researched",
       "deep_research_status": "PENDING_REVIEW"
-    },
-    {
-      "company": "Blackbox Music Electronics",
-      "pedal": "Cobalt",
-      "types": [
-        "Overdrive"
-      ],
-      "image": null,
-      "source_page": "https://www.effectsdatabase.com/model/blackbox/cobalt",
-      "research_record": "./research/pedals/Blackbox Music Electronics/Cobalt.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
     },
     {
       "company": "Blackbox Music Electronics",
@@ -14822,6 +15177,20 @@
     },
     {
       "company": "BOSS",
+      "pedal": "OD-200 Hybrid Drive",
+      "types": [
+        "Overdrive"
+      ],
+      "image": "./assets/pedals/boss/od-200-hybrid-drive/primary.webp",
+      "source_page": "https://www.boss.info/us/products/od-200/",
+      "research_record": "./research/pedals/PRP Batch 111/OD-200 Hybrid Drive.md",
+      "image_source_page": "https://www.boss.info/us/products/od-200/",
+      "image_source_url": "https://static.roland.com/assets/images/products/main/od-200_main.jpg",
+      "research_level": "researched",
+      "deep_research_status": "PENDING_REVIEW"
+    },
+    {
+      "company": "BOSS",
       "pedal": "OD-2R Turbo OverDrive",
       "types": [
         "Overdrive"
@@ -14843,20 +15212,6 @@
       "research_record": "./research/pedals/PRP Batch 111/OD-3 OverDrive.md",
       "image_source_page": "https://www.boss.info/global/products/od-3/",
       "image_source_url": "https://www.boss.info/RolandComSite/media/assets/images/products/main/od_3_main.jpg?ext=.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
-    },
-    {
-      "company": "BOSS",
-      "pedal": "OD-200 Hybrid Drive",
-      "types": [
-        "Overdrive"
-      ],
-      "image": "./assets/pedals/boss/od-200-hybrid-drive/primary.webp",
-      "source_page": "https://www.boss.info/us/products/od-200/",
-      "research_record": "./research/pedals/PRP Batch 111/OD-200 Hybrid Drive.md",
-      "image_source_page": "https://www.boss.info/us/products/od-200/",
-      "image_source_url": "https://static.roland.com/assets/images/products/main/od-200_main.jpg",
       "research_level": "researched",
       "deep_research_status": "PENDING_REVIEW"
     },
@@ -18446,6 +18801,152 @@
     },
     {
       "company": "Caline",
+      "pedal": "CP-501 Osmium - High-Gain Distortion",
+      "types": [
+        "Distortion"
+      ],
+      "image": "./assets/pedals/caline/cp-501-osmium-high-gain-distortion/primary.webp",
+      "source_page": "https://www.effectsdatabase.com/model/caline/cp500/osmium",
+      "research_record": "./research/pedals/PRP Batch 141/cp-501-osmium-high-gain-distortion.md",
+      "image_source_url": "https://cdn11.bigcommerce.com/s-qzsvj0y9o3/images/stencil/1280x1280/products/68252/481114/YCALINE144375__54024.1736852741.jpg?c=1",
+      "image_source_page": "https://richtonemusic.co.uk/caline-cp-501-osmium-high-gain-distortion-pedal-boxed-2nd-hand/",
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "Caline",
+      "pedal": "CP-501S Sathanas Distortion",
+      "types": [
+        "Distortion"
+      ],
+      "image": "./assets/pedals/caline/cp-501s-sathanas-distortion/primary.webp",
+      "source_page": "https://www.effectsdatabase.com/model/caline/cp500/sathanas",
+      "research_record": "./research/pedals/PRP Batch 141/cp-501s-sathanas-distortion.md",
+      "image_source_url": "https://myguitarshop.co.za/cdn/shop/files/Caline-CP-501-Sathanas-Distortion-Effect-Pedal-2_1024x1024.jpg?v=1686925352",
+      "image_source_page": "https://myguitarshop.co.za/products/caline-cp-501s-sathanas-distortion",
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "Caline",
+      "pedal": "CP-502 Mellow Drive",
+      "types": [
+        "Overdrive"
+      ],
+      "image": "./assets/pedals/caline/cp-502-mellow-drive/primary.webp",
+      "source_page": "https://www.effectsdatabase.com/model/caline/cp500/mellowdrive",
+      "research_record": "./research/pedals/PRP Batch 141/cp-502-mellow-drive.md",
+      "image_source_url": "https://images.nexusapp.co/assets/ff/a3/9f/488405291.jpg",
+      "image_source_page": "https://dnk.grandado.com/products/caline-cp-502-mellow-drive-pedal-overdrive-guitar-effekt-pedal-guitar-tilbehor?variant=UHJvZHVjdFZhcmlhbnQ6NDg2ODQ4MzE0",
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "Caline",
+      "pedal": "CP-503 Queen Bee Overdrive",
+      "types": [
+        "Overdrive"
+      ],
+      "image": "./assets/pedals/caline/cp-503-queen-bee-overdrive/primary.webp",
+      "source_page": "https://www.effectsdatabase.com/model/caline/cp500/queenbee",
+      "research_record": "./research/pedals/PRP Batch 141/cp-503-queen-bee-overdrive.md",
+      "image_source_url": "https://www.effects-pedals.info/wp-content/uploads/2022/10/caline-queen-bee-overdrive-effects-pedal.jpg",
+      "image_source_page": "https://www.effects-pedals.info/p/caline-cp-503-queen-bee-overdrive/",
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "Caline",
+      "pedal": "CP-504 M:Fuzz",
+      "types": [
+        "Fuzz"
+      ],
+      "image": "./assets/pedals/caline/cp-504-m-fuzz/primary.webp",
+      "source_page": "https://www.effectsdatabase.com/model/caline/cp500/mfuzz",
+      "research_record": "./research/pedals/PRP Batch 142/cp-504-m-fuzz.md",
+      "image_source_url": "https://musicexpresscanada.com/wp-content/uploads/2024/02/CP-504-A-MAIN.jpg",
+      "image_source_page": "https://musicexpresscanada.com/product/caline-cp-504-m-fuzz-classic-fuzz-guitar-effect-pedal/",
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "Caline",
+      "pedal": "CP-509 Stack Attack - Preamp Overdrive & Compressor",
+      "types": [
+        "Overdrive"
+      ],
+      "image": "./assets/pedals/caline/cp-509-stack-attack-preamp-overdrive-compressor/primary.webp",
+      "source_page": "https://www.effectsdatabase.com/model/caline/cp500/stackattack",
+      "research_record": "./research/pedals/PRP Batch 142/cp-509-stack-attack-preamp-overdrive-compressor.md",
+      "image_source_url": "https://armonicos.cl/15935-thickbox_default/caline-cp-509-stack-attack-preamp-overdrive-compressor.jpg",
+      "image_source_page": "https://armonicos.cl/pedales/caline-cp-509-stack-attack-preamp-overdrive-compressor",
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "Caline",
+      "pedal": "CP-510 Jaguar - Classic High Gain Distortion",
+      "types": [
+        "Distortion"
+      ],
+      "image": "./assets/pedals/caline/cp-510-jaguar-classic-high-gain-distortion/primary.webp",
+      "source_page": "https://www.effectsdatabase.com/model/caline/cp500/jaguar",
+      "research_record": "./research/pedals/PRP Batch 142/cp-510-jaguar-classic-high-gain-distortion.md",
+      "image_source_url": "https://images.nexusapp.co/assets/e1/81/4d/488376293.jpg",
+      "image_source_page": "https://au.vicedeal.com/products/caline-cp-510-jaguar-classic-high-gain-distortion-guitar-effect-pedal-guitar-accessories?variant=UHJvZHVjdFZhcmlhbnQ6NDI3MjQ0Mzk2",
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "Caline",
+      "pedal": "CP-511 Enchanted Tone - Highly Prized Overdrive",
+      "types": [
+        "Overdrive"
+      ],
+      "image": "./assets/pedals/caline/cp-511-enchanted-tone-highly-prized-overdrive/primary.webp",
+      "source_page": "https://www.effectsdatabase.com/model/caline/cp500/enchantedtone",
+      "research_record": "./research/pedals/PRP Batch 142/cp-511-enchanted-tone-highly-prized-overdrive.md",
+      "image_source_url": "https://www.effects-pedals.info/wp-content/uploads/2022/10/caline-enchanted-tone-highly-prized-overdrive-effects-pedal.jpg",
+      "image_source_page": "https://www.effects-pedals.info/p/caline-cp-511-enchanted-tone-highly-prized-overdrive/",
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "Caline",
+      "pedal": "CP-515 Carmilla - Hi Gain Distortion Machine",
+      "types": [
+        "Distortion"
+      ],
+      "image": "./assets/pedals/caline/cp-515-carmilla-hi-gain-distortion-machine/primary.webp",
+      "source_page": "https://www.youtube.com/watch?v=GDEoP2Lsjac",
+      "research_record": "./research/pedals/PRP Batch 142/cp-515-carmilla-hi-gain-distortion-machine.md",
+      "image_source_page": "https://www.youtube.com/watch?v=GDEoP2Lsjac",
+      "image_source_page_verified": true,
+      "image_source_priority": 117,
+      "image_source_pages": [
+        "https://www.effectsdatabase.com/model/caline/cp500/carmilla"
+      ],
+      "image_source_pages_verified": true,
+      "image_source_url": "https://i.ytimg.com/vi/AXUVkEvtuKg/hqdefault.jpg?sqp=-oaymwErCNACELwBSFryq4qpAx0IARUAAIhCGAHYAQHiAQoIGBACGAY4AUABuAL3GA==&rs=AOn4CLDPJOvxVAWJQLoIFOTr-zywwd2Glg&usqp=CCc",
+      "research_level": "researched",
+      "deep_research_status": "PENDING_REVIEW"
+    },
+    {
+      "company": "Caline",
+      "pedal": "CP-516 Orange Burst",
+      "types": [
+        "Fuzz"
+      ],
+      "image": "./assets/pedals/caline/cp-516-orange-burst/primary.webp",
+      "source_page": "https://www.effectsdatabase.com/model/caline/cp500/orangeburst",
+      "research_record": "./research/pedals/PRP Batch 142/cp-516-orange-burst.md",
+      "image_source_url": "http://globalvintage.com.au/cdn/shop/files/orangeburst_Caline.jpg?v=1740643092",
+      "image_source_page": "https://globalvintage.com.au/products/caline-cp-516-orange-burst-overdrive-versatile-boost-distortion-drive-pedal",
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "Caline",
       "pedal": "CP-53 Fuzzy Faace - Voodoo Octave",
       "types": [
         "Fuzz"
@@ -18689,152 +19190,6 @@
       "research_record": "./research/pedals/PRP Batch 144/cp-99-medusa-overdrive.md",
       "image_source_url": "https://myguitarshop.co.za/cdn/shop/products/Caline-CP-99-Medusa-Overdrive_5_1024x1024.jpg?v=1606903371",
       "image_source_page": "https://myguitarshop.co.za/products/caline-cp-99-medusa-overdrive",
-      "research_level": "deep",
-      "deep_research_status": "VERIFIED"
-    },
-    {
-      "company": "Caline",
-      "pedal": "CP-501 Osmium - High-Gain Distortion",
-      "types": [
-        "Distortion"
-      ],
-      "image": "./assets/pedals/caline/cp-501-osmium-high-gain-distortion/primary.webp",
-      "source_page": "https://www.effectsdatabase.com/model/caline/cp500/osmium",
-      "research_record": "./research/pedals/PRP Batch 141/cp-501-osmium-high-gain-distortion.md",
-      "image_source_url": "https://cdn11.bigcommerce.com/s-qzsvj0y9o3/images/stencil/1280x1280/products/68252/481114/YCALINE144375__54024.1736852741.jpg?c=1",
-      "image_source_page": "https://richtonemusic.co.uk/caline-cp-501-osmium-high-gain-distortion-pedal-boxed-2nd-hand/",
-      "research_level": "deep",
-      "deep_research_status": "VERIFIED"
-    },
-    {
-      "company": "Caline",
-      "pedal": "CP-501S Sathanas Distortion",
-      "types": [
-        "Distortion"
-      ],
-      "image": "./assets/pedals/caline/cp-501s-sathanas-distortion/primary.webp",
-      "source_page": "https://www.effectsdatabase.com/model/caline/cp500/sathanas",
-      "research_record": "./research/pedals/PRP Batch 141/cp-501s-sathanas-distortion.md",
-      "image_source_url": "https://myguitarshop.co.za/cdn/shop/files/Caline-CP-501-Sathanas-Distortion-Effect-Pedal-2_1024x1024.jpg?v=1686925352",
-      "image_source_page": "https://myguitarshop.co.za/products/caline-cp-501s-sathanas-distortion",
-      "research_level": "deep",
-      "deep_research_status": "VERIFIED"
-    },
-    {
-      "company": "Caline",
-      "pedal": "CP-502 Mellow Drive",
-      "types": [
-        "Overdrive"
-      ],
-      "image": "./assets/pedals/caline/cp-502-mellow-drive/primary.webp",
-      "source_page": "https://www.effectsdatabase.com/model/caline/cp500/mellowdrive",
-      "research_record": "./research/pedals/PRP Batch 141/cp-502-mellow-drive.md",
-      "image_source_url": "https://images.nexusapp.co/assets/ff/a3/9f/488405291.jpg",
-      "image_source_page": "https://dnk.grandado.com/products/caline-cp-502-mellow-drive-pedal-overdrive-guitar-effekt-pedal-guitar-tilbehor?variant=UHJvZHVjdFZhcmlhbnQ6NDg2ODQ4MzE0",
-      "research_level": "deep",
-      "deep_research_status": "VERIFIED"
-    },
-    {
-      "company": "Caline",
-      "pedal": "CP-503 Queen Bee Overdrive",
-      "types": [
-        "Overdrive"
-      ],
-      "image": "./assets/pedals/caline/cp-503-queen-bee-overdrive/primary.webp",
-      "source_page": "https://www.effectsdatabase.com/model/caline/cp500/queenbee",
-      "research_record": "./research/pedals/PRP Batch 141/cp-503-queen-bee-overdrive.md",
-      "image_source_url": "https://www.effects-pedals.info/wp-content/uploads/2022/10/caline-queen-bee-overdrive-effects-pedal.jpg",
-      "image_source_page": "https://www.effects-pedals.info/p/caline-cp-503-queen-bee-overdrive/",
-      "research_level": "deep",
-      "deep_research_status": "VERIFIED"
-    },
-    {
-      "company": "Caline",
-      "pedal": "CP-504 M:Fuzz",
-      "types": [
-        "Fuzz"
-      ],
-      "image": "./assets/pedals/caline/cp-504-m-fuzz/primary.webp",
-      "source_page": "https://www.effectsdatabase.com/model/caline/cp500/mfuzz",
-      "research_record": "./research/pedals/PRP Batch 142/cp-504-m-fuzz.md",
-      "image_source_url": "https://musicexpresscanada.com/wp-content/uploads/2024/02/CP-504-A-MAIN.jpg",
-      "image_source_page": "https://musicexpresscanada.com/product/caline-cp-504-m-fuzz-classic-fuzz-guitar-effect-pedal/",
-      "research_level": "deep",
-      "deep_research_status": "VERIFIED"
-    },
-    {
-      "company": "Caline",
-      "pedal": "CP-509 Stack Attack - Preamp Overdrive & Compressor",
-      "types": [
-        "Overdrive"
-      ],
-      "image": "./assets/pedals/caline/cp-509-stack-attack-preamp-overdrive-compressor/primary.webp",
-      "source_page": "https://www.effectsdatabase.com/model/caline/cp500/stackattack",
-      "research_record": "./research/pedals/PRP Batch 142/cp-509-stack-attack-preamp-overdrive-compressor.md",
-      "image_source_url": "https://armonicos.cl/15935-thickbox_default/caline-cp-509-stack-attack-preamp-overdrive-compressor.jpg",
-      "image_source_page": "https://armonicos.cl/pedales/caline-cp-509-stack-attack-preamp-overdrive-compressor",
-      "research_level": "deep",
-      "deep_research_status": "VERIFIED"
-    },
-    {
-      "company": "Caline",
-      "pedal": "CP-510 Jaguar - Classic High Gain Distortion",
-      "types": [
-        "Distortion"
-      ],
-      "image": "./assets/pedals/caline/cp-510-jaguar-classic-high-gain-distortion/primary.webp",
-      "source_page": "https://www.effectsdatabase.com/model/caline/cp500/jaguar",
-      "research_record": "./research/pedals/PRP Batch 142/cp-510-jaguar-classic-high-gain-distortion.md",
-      "image_source_url": "https://images.nexusapp.co/assets/e1/81/4d/488376293.jpg",
-      "image_source_page": "https://au.vicedeal.com/products/caline-cp-510-jaguar-classic-high-gain-distortion-guitar-effect-pedal-guitar-accessories?variant=UHJvZHVjdFZhcmlhbnQ6NDI3MjQ0Mzk2",
-      "research_level": "deep",
-      "deep_research_status": "VERIFIED"
-    },
-    {
-      "company": "Caline",
-      "pedal": "CP-511 Enchanted Tone - Highly Prized Overdrive",
-      "types": [
-        "Overdrive"
-      ],
-      "image": "./assets/pedals/caline/cp-511-enchanted-tone-highly-prized-overdrive/primary.webp",
-      "source_page": "https://www.effectsdatabase.com/model/caline/cp500/enchantedtone",
-      "research_record": "./research/pedals/PRP Batch 142/cp-511-enchanted-tone-highly-prized-overdrive.md",
-      "image_source_url": "https://www.effects-pedals.info/wp-content/uploads/2022/10/caline-enchanted-tone-highly-prized-overdrive-effects-pedal.jpg",
-      "image_source_page": "https://www.effects-pedals.info/p/caline-cp-511-enchanted-tone-highly-prized-overdrive/",
-      "research_level": "deep",
-      "deep_research_status": "VERIFIED"
-    },
-    {
-      "company": "Caline",
-      "pedal": "CP-515 Carmilla - Hi Gain Distortion Machine",
-      "types": [
-        "Distortion"
-      ],
-      "image": "./assets/pedals/caline/cp-515-carmilla-hi-gain-distortion-machine/primary.webp",
-      "source_page": "https://www.youtube.com/watch?v=GDEoP2Lsjac",
-      "research_record": "./research/pedals/PRP Batch 142/cp-515-carmilla-hi-gain-distortion-machine.md",
-      "image_source_page": "https://www.youtube.com/watch?v=GDEoP2Lsjac",
-      "image_source_page_verified": true,
-      "image_source_priority": 117,
-      "image_source_pages": [
-        "https://www.effectsdatabase.com/model/caline/cp500/carmilla"
-      ],
-      "image_source_pages_verified": true,
-      "image_source_url": "https://i.ytimg.com/vi/AXUVkEvtuKg/hqdefault.jpg?sqp=-oaymwErCNACELwBSFryq4qpAx0IARUAAIhCGAHYAQHiAQoIGBACGAY4AUABuAL3GA==&rs=AOn4CLDPJOvxVAWJQLoIFOTr-zywwd2Glg&usqp=CCc",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
-    },
-    {
-      "company": "Caline",
-      "pedal": "CP-516 Orange Burst",
-      "types": [
-        "Fuzz"
-      ],
-      "image": "./assets/pedals/caline/cp-516-orange-burst/primary.webp",
-      "source_page": "https://www.effectsdatabase.com/model/caline/cp500/orangeburst",
-      "research_record": "./research/pedals/PRP Batch 142/cp-516-orange-burst.md",
-      "image_source_url": "http://globalvintage.com.au/cdn/shop/files/orangeburst_Caline.jpg?v=1740643092",
-      "image_source_page": "https://globalvintage.com.au/products/caline-cp-516-orange-burst-overdrive-versatile-boost-distortion-drive-pedal",
       "research_level": "deep",
       "deep_research_status": "VERIFIED"
     },
@@ -19247,6 +19602,42 @@
     },
     {
       "company": "Captain FX",
+      "pedal": "Crown Jr. Overdrive / Boost",
+      "types": [
+        "Overdrive"
+      ],
+      "image": null,
+      "source_page": "https://github.com/NoizeNiche/the-dirt-archive/blob/main/research/SCRAPE_C_BLOCK_165_ADDENDUM.csv",
+      "research_record": "./research/pedals/Captain FX/Crown Jr. Overdrive Boost.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Captain FX",
+      "pedal": "Overdriver",
+      "types": [
+        "Overdrive"
+      ],
+      "image": null,
+      "source_page": "https://github.com/NoizeNiche/the-dirt-archive/blob/main/research/SCRAPE_C_BLOCK_165_ADDENDUM.csv",
+      "research_record": "./research/pedals/Captain FX/Overdriver.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Captain FX",
+      "pedal": "War Pig",
+      "types": [
+        "Fuzz"
+      ],
+      "image": null,
+      "source_page": "https://github.com/NoizeNiche/the-dirt-archive/blob/main/research/SCRAPE_C_BLOCK_165_ADDENDUM.csv",
+      "research_record": "./research/pedals/Captain FX/War Pig.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Captain FX",
       "pedal": "Yeti Fuzz",
       "types": [
         "Fuzz"
@@ -19618,19 +20009,6 @@
     },
     {
       "company": "Carlsbro",
-      "pedal": "Suzz-Phase",
-      "types": [
-        "Distortion",
-        "Fuzz"
-      ],
-      "image": null,
-      "source_page": "https://www.effectsdatabase.com/model/carlsbro/alu",
-      "research_record": "./research/pedals/Carlsbro/Suzz-Phase.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
-    },
-    {
-      "company": "Carlsbro",
       "pedal": "Suzz Wah-Wah",
       "types": [
         "Fuzz",
@@ -19639,6 +20017,19 @@
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/carlsbro/alu",
       "research_record": "./research/pedals/Carlsbro/Suzz Wah-Wah.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Carlsbro",
+      "pedal": "Suzz-Phase",
+      "types": [
+        "Distortion",
+        "Fuzz"
+      ],
+      "image": null,
+      "source_page": "https://www.effectsdatabase.com/model/carlsbro/alu",
+      "research_record": "./research/pedals/Carlsbro/Suzz-Phase.md",
       "research_level": "surface",
       "deep_research_status": "PENDING"
     },
@@ -19992,6 +20383,32 @@
       "image_source_url": "https://img1.wsimg.com/isteam/ip/143de2a1-5c3d-4271-be03-7e99fbd4d6b9/HOSSTORTION-3_GOLD-0001.jpg",
       "research_level": "researched",
       "deep_research_status": "PENDING_REVIEW"
+    },
+    {
+      "company": "Case Study Effects",
+      "pedal": "Aspen Overdrive",
+      "types": [
+        "Overdrive",
+        "Distortion",
+        "Fuzz"
+      ],
+      "image": null,
+      "source_page": "https://casestudyeffects.co/",
+      "research_record": "./research/pedals/Case Study Effects/Aspen Overdrive.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Case Study Effects",
+      "pedal": "Lastlight Overdrive",
+      "types": [
+        "Overdrive"
+      ],
+      "image": null,
+      "source_page": "https://www.effectsdatabase.com/model/casestudy/lastlight",
+      "research_record": "./research/pedals/Case Study Effects/Lastlight Overdrive.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
     },
     {
       "company": "Case Study Effects Co.",
@@ -20588,21 +21005,6 @@
     },
     {
       "company": "Catalinbread Effects",
-      "pedal": "Formula 5F6",
-      "types": [
-        "Distortion",
-        "Overdrive"
-      ],
-      "image": "./assets/pedals/catalinbread-effects/formula-5f6/primary.webp",
-      "source_page": "https://www.sweetwater.com/store/detail/Form5F6--catalinbread-formula-5f6-tweed-bassman-style-overdrive-pedal",
-      "research_record": "./research/pedals/PRP Batch 156/catalinbread-formula-5f6.md",
-      "image_source_page": "https://www.guitarcenter.com/Used/Catalinbread/Used-Catalinbread-Formula-5F6-Effect-Pedal-122296945.gc",
-      "image_source_url": "https://media.guitarcenter.com/is/image/MMGS7/000000122296945-00-600x600.jpg",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
-    },
-    {
-      "company": "Catalinbread Effects",
       "pedal": "Formula 51",
       "types": [
         "Distortion",
@@ -20628,6 +21030,21 @@
       "research_record": "./research/pedals/PRP Batch 156/catalinbread-formula-55.md",
       "image_source_page": "https://catalinbread.com/products/formula-55-new-look",
       "image_source_url": "http://catalinbread.com/cdn/shop/products/F55_shopify-01-min_1200x1200.png?v=1672793938",
+      "research_level": "researched",
+      "deep_research_status": "PENDING_REVIEW"
+    },
+    {
+      "company": "Catalinbread Effects",
+      "pedal": "Formula 5F6",
+      "types": [
+        "Distortion",
+        "Overdrive"
+      ],
+      "image": "./assets/pedals/catalinbread-effects/formula-5f6/primary.webp",
+      "source_page": "https://www.sweetwater.com/store/detail/Form5F6--catalinbread-formula-5f6-tweed-bassman-style-overdrive-pedal",
+      "research_record": "./research/pedals/PRP Batch 156/catalinbread-formula-5f6.md",
+      "image_source_page": "https://www.guitarcenter.com/Used/Catalinbread/Used-Catalinbread-Formula-5F6-Effect-Pedal-122296945.gc",
+      "image_source_url": "https://media.guitarcenter.com/is/image/MMGS7/000000122296945-00-600x600.jpg",
       "research_level": "researched",
       "deep_research_status": "PENDING_REVIEW"
     },
@@ -27234,18 +27651,6 @@
     },
     {
       "company": "Cosmosound",
-      "pedal": "CSE-3 Wah-Wah Distortion",
-      "types": [
-        "Distortion"
-      ],
-      "image": "./assets/pedals/cosmosound/cse-3-wah-wah-distortion/primary.webp",
-      "source_page": null,
-      "research_record": "./research/pedals/Cosmosound/CSE-3 Wah-Wah Distortion.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
-    },
-    {
-      "company": "Cosmosound",
       "pedal": "CSE-14 Distortion/Volume",
       "types": [
         "Distortion"
@@ -27255,6 +27660,18 @@
       "research_record": "./research/pedals/Cosmosound/CSE-14 Distortion-Volume.md",
       "image_source_url": "https://files.effectsdatabase.com/graphics/buymeacoffee.png",
       "image_source_page": "https://www.effectsdatabase.com/type/volume",
+      "research_level": "researched",
+      "deep_research_status": "PENDING_REVIEW"
+    },
+    {
+      "company": "Cosmosound",
+      "pedal": "CSE-3 Wah-Wah Distortion",
+      "types": [
+        "Distortion"
+      ],
+      "image": "./assets/pedals/cosmosound/cse-3-wah-wah-distortion/primary.webp",
+      "source_page": null,
+      "research_record": "./research/pedals/Cosmosound/CSE-3 Wah-Wah Distortion.md",
       "research_level": "researched",
       "deep_research_status": "PENDING_REVIEW"
     },
@@ -27851,6 +28268,20 @@
     },
     {
       "company": "Crazy Tube Circuits",
+      "pedal": "Killer V",
+      "types": [
+        "Distortion",
+        "Fuzz",
+        "Overdrive"
+      ],
+      "image": null,
+      "source_page": "https://crazytubecircuits.com/store/overdrive-distortion-fuzz",
+      "research_record": "./research/pedals/Crazy Tube Circuits/Killer V.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Crazy Tube Circuits",
       "pedal": "Locomotive - 12AY7 Bass Overdrive",
       "types": [
         "Overdrive"
@@ -27927,6 +28358,20 @@
       "research_record": "./research/pedals/Crazy Tube Circuits/Pin Up Fuzz.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "Crazy Tube Circuits",
+      "pedal": "Sidekick",
+      "types": [
+        "Distortion",
+        "Fuzz",
+        "Overdrive"
+      ],
+      "image": null,
+      "source_page": "https://crazytubecircuits.com/store/overdrive-distortion-fuzz",
+      "research_record": "./research/pedals/Crazy Tube Circuits/Sidekick.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
     },
     {
       "company": "Crazy Tube Circuits",
@@ -28138,47 +28583,6 @@
     },
     {
       "company": "Crazy Tube Circuits",
-      "pedal": "Ziggy v2",
-      "types": [
-        "Distortion",
-        "Fuzz",
-        "Overdrive"
-      ],
-      "image": "./assets/pedals/crazy-tube-circuits/ziggy-v2/primary.webp",
-      "source_page": null,
-      "research_record": "./research/pedals/Crazy Tube Circuits/Ziggy v2.md",
-      "research_level": "deep",
-      "deep_research_status": "VERIFIED"
-    },
-    {
-      "company": "Crazy Tube Circuits",
-      "pedal": "Ziggy V2",
-      "types": [
-        "Distortion",
-        "Overdrive"
-      ],
-      "image": "./assets/pedals/crazy-tube-circuits/ziggy-v2/primary.webp",
-      "source_page": null,
-      "research_record": "./research/pedals/Crazy Tube Circuits/Ziggy V2.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
-    },
-    {
-      "company": "Crazy Tube Circuits",
-      "pedal": "Killer V",
-      "types": [
-        "Distortion",
-        "Fuzz",
-        "Overdrive"
-      ],
-      "image": null,
-      "source_page": "https://crazytubecircuits.com/store/overdrive-distortion-fuzz",
-      "research_record": "./research/pedals/Crazy Tube Circuits/Killer V.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
-    },
-    {
-      "company": "Crazy Tube Circuits",
       "pedal": "White Whale",
       "types": [
         "Distortion",
@@ -28207,17 +28611,30 @@
     },
     {
       "company": "Crazy Tube Circuits",
-      "pedal": "Sidekick",
+      "pedal": "Ziggy v2",
       "types": [
         "Distortion",
         "Fuzz",
         "Overdrive"
       ],
-      "image": null,
-      "source_page": "https://crazytubecircuits.com/store/overdrive-distortion-fuzz",
-      "research_record": "./research/pedals/Crazy Tube Circuits/Sidekick.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "image": "./assets/pedals/crazy-tube-circuits/ziggy-v2/primary.webp",
+      "source_page": null,
+      "research_record": "./research/pedals/Crazy Tube Circuits/Ziggy v2.md",
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "Crazy Tube Circuits",
+      "pedal": "Ziggy V2",
+      "types": [
+        "Distortion",
+        "Overdrive"
+      ],
+      "image": "./assets/pedals/crazy-tube-circuits/ziggy-v2/primary.webp",
+      "source_page": null,
+      "research_record": "./research/pedals/Crazy Tube Circuits/Ziggy V2.md",
+      "research_level": "researched",
+      "deep_research_status": "PENDING_REVIEW"
     },
     {
       "company": "Crazybox Pedals",
@@ -30675,6 +31092,44 @@
       "deep_research_status": "PENDING"
     },
     {
+      "company": "Dawner Prince Electronics",
+      "pedal": "DIKTATOR",
+      "types": [
+        "Overdrive",
+        "Distortion"
+      ],
+      "image": null,
+      "source_page": "https://dawnerprince.com/products/diktator",
+      "research_record": "./research/pedals/Dawner Prince Electronics/DIKTATOR.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Dawner Prince Electronics",
+      "pedal": "DIKTATOR MKII",
+      "types": [
+        "Overdrive",
+        "Distortion"
+      ],
+      "image": null,
+      "source_page": "https://dawnerprince.com/products/diktator",
+      "research_record": "./research/pedals/Dawner Prince Electronics/DIKTATOR MKII.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Dawner Prince Electronics",
+      "pedal": "RED ROX",
+      "types": [
+        "Distortion"
+      ],
+      "image": null,
+      "source_page": "https://dawnerprince.com/",
+      "research_record": "./research/pedals/Dawner Prince Electronics/RED ROX.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
       "company": "DeadastronautFX",
       "pedal": "Black Triangle",
       "types": [
@@ -32288,6 +32743,56 @@
       "deep_research_status": "VERIFIED"
     },
     {
+      "company": "Dinosaural",
+      "pedal": "Cogmeister",
+      "types": [
+        "Overdrive",
+        "Boost"
+      ],
+      "image": null,
+      "source_page": "https://www.effectsdatabase.com/model/dinosaural",
+      "research_record": "./research/pedals/Dinosaural/Cogmeister.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Dinosaural",
+      "pedal": "Hypoid Drive",
+      "types": [
+        "Overdrive",
+        "Distortion"
+      ],
+      "image": null,
+      "source_page": "https://www.effectsdatabase.com/model/dinosaural",
+      "research_record": "./research/pedals/Dinosaural/Hypoid Drive.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Dinosaural",
+      "pedal": "OPA-101 Overdriven Pre-Amp",
+      "types": [
+        "Overdrive"
+      ],
+      "image": null,
+      "source_page": "https://www.effectsdatabase.com/model/dinosaural",
+      "research_record": "./research/pedals/Dinosaural/OPA-101 Overdriven Pre-Amp.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Dinosaural",
+      "pedal": "Tube Bender",
+      "types": [
+        "Overdrive"
+      ],
+      "image": null,
+      "source_page": "https://www.effectsdatabase.com/model/dinosaural",
+      "research_record": "./research/pedals/Dinosaural/Tube Bender.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
       "company": "Dirty Boy",
       "pedal": "AFRO FUZZ",
       "types": [
@@ -32533,6 +33038,42 @@
     },
     {
       "company": "DOD Electronics",
+      "pedal": "FX100 Even Harmonic Overdrive",
+      "types": [
+        "Overdrive"
+      ],
+      "image": "./assets/pedals/dod-electronics/fx100-even-harmonic-overdrive/primary.webp",
+      "source_page": null,
+      "research_record": "./research/pedals/DOD Electronics/FX100 Even Harmonic Overdrive.md",
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "DOD Electronics",
+      "pedal": "FX101 Grind Rectifying Overdrive",
+      "types": [
+        "Overdrive"
+      ],
+      "image": "./assets/pedals/dod-electronics/fx101-grind-rectifying-overdrive/primary.webp",
+      "source_page": null,
+      "research_record": "./research/pedals/DOD Electronics/FX101 Grind Rectifying Overdrive.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "DOD Electronics",
+      "pedal": "FX102 Mystic Blues Overdrive",
+      "types": [
+        "Overdrive"
+      ],
+      "image": "./assets/pedals/dod-electronics/fx102-mystic-blues-overdrive/primary.webp",
+      "source_page": null,
+      "research_record": "./research/pedals/DOD Electronics/FX102 Mystic Blues Overdrive.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "DOD Electronics",
       "pedal": "FX33 Buzz Box",
       "types": [
         "Distortion",
@@ -32714,42 +33255,6 @@
     },
     {
       "company": "DOD Electronics",
-      "pedal": "FX100 Even Harmonic Overdrive",
-      "types": [
-        "Overdrive"
-      ],
-      "image": "./assets/pedals/dod-electronics/fx100-even-harmonic-overdrive/primary.webp",
-      "source_page": null,
-      "research_record": "./research/pedals/DOD Electronics/FX100 Even Harmonic Overdrive.md",
-      "research_level": "deep",
-      "deep_research_status": "VERIFIED"
-    },
-    {
-      "company": "DOD Electronics",
-      "pedal": "FX101 Grind Rectifying Overdrive",
-      "types": [
-        "Overdrive"
-      ],
-      "image": "./assets/pedals/dod-electronics/fx101-grind-rectifying-overdrive/primary.webp",
-      "source_page": null,
-      "research_record": "./research/pedals/DOD Electronics/FX101 Grind Rectifying Overdrive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
-    },
-    {
-      "company": "DOD Electronics",
-      "pedal": "FX102 Mystic Blues Overdrive",
-      "types": [
-        "Overdrive"
-      ],
-      "image": "./assets/pedals/dod-electronics/fx102-mystic-blues-overdrive/primary.webp",
-      "source_page": null,
-      "research_record": "./research/pedals/DOD Electronics/FX102 Mystic Blues Overdrive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
-    },
-    {
-      "company": "DOD Electronics",
       "pedal": "Gonkulator",
       "types": [
         "Distortion"
@@ -32905,6 +33410,18 @@
       "image": "./assets/pedals/dod-electronics/yjm-308-overdrive-preamp/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/DOD Electronics/YJM 308 Overdrive Preamp.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Does It Doom?",
+      "pedal": "Fuzzcoven",
+      "types": [
+        "Fuzz"
+      ],
+      "image": null,
+      "source_page": "https://doesitdoom.com/product/fuzzcoven/",
+      "research_record": "./research/pedals/Does It Doom?/Fuzzcoven.md",
       "research_level": "surface",
       "deep_research_status": "PENDING"
     },
@@ -37917,42 +38434,6 @@
     },
     {
       "company": "Ibanez",
-      "pedal": "TS9",
-      "types": [
-        "Overdrive"
-      ],
-      "image": "./assets/pedals/ibanez/ts9/primary.webp",
-      "source_page": null,
-      "research_record": "./research/pedals/Ibanez/TS9.md",
-      "research_level": "deep",
-      "deep_research_status": "VERIFIED"
-    },
-    {
-      "company": "Ibanez",
-      "pedal": "TS9B",
-      "types": [
-        "Overdrive"
-      ],
-      "image": "./assets/pedals/ibanez/ts9b/primary.webp",
-      "source_page": null,
-      "research_record": "./research/pedals/Ibanez/TS9B.md",
-      "research_level": "deep",
-      "deep_research_status": "VERIFIED"
-    },
-    {
-      "company": "Ibanez",
-      "pedal": "TS9DX",
-      "types": [
-        "Overdrive"
-      ],
-      "image": "./assets/pedals/ibanez/ts9dx/primary.webp",
-      "source_page": null,
-      "research_record": "./research/pedals/Ibanez/TS9DX.md",
-      "research_level": "deep",
-      "deep_research_status": "VERIFIED"
-    },
-    {
-      "company": "Ibanez",
       "pedal": "TS808",
       "types": [
         "Overdrive"
@@ -37996,6 +38477,42 @@
       "image": "./assets/pedals/ibanez/ts808hwv2/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Ibanez/TS808HWV2.md",
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "Ibanez",
+      "pedal": "TS9",
+      "types": [
+        "Overdrive"
+      ],
+      "image": "./assets/pedals/ibanez/ts9/primary.webp",
+      "source_page": null,
+      "research_record": "./research/pedals/Ibanez/TS9.md",
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "Ibanez",
+      "pedal": "TS9B",
+      "types": [
+        "Overdrive"
+      ],
+      "image": "./assets/pedals/ibanez/ts9b/primary.webp",
+      "source_page": null,
+      "research_record": "./research/pedals/Ibanez/TS9B.md",
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "Ibanez",
+      "pedal": "TS9DX",
+      "types": [
+        "Overdrive"
+      ],
+      "image": "./assets/pedals/ibanez/ts9dx/primary.webp",
+      "source_page": null,
+      "research_record": "./research/pedals/Ibanez/TS9DX.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED"
     },
@@ -38648,6 +39165,19 @@
     },
     {
       "company": "Jackson Audio",
+      "pedal": "1484 - Twin Twelve Pedal",
+      "types": [
+        "Overdrive",
+        "Distortion"
+      ],
+      "image": null,
+      "source_page": "https://jackson.audio/collections/pedals",
+      "research_record": "./research/pedals/Jackson Audio/1484 - Twin Twelve Pedal.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Jackson Audio",
       "pedal": "Asabi Overdrive/Distortion",
       "types": [
         "Distortion",
@@ -38790,19 +39320,6 @@
       "research_record": "./research/pedals/Jackson Audio/The Optimist Dual Overdrive & EQ.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED"
-    },
-    {
-      "company": "Jackson Audio",
-      "pedal": "1484 - Twin Twelve Pedal",
-      "types": [
-        "Overdrive",
-        "Distortion"
-      ],
-      "image": null,
-      "source_page": "https://jackson.audio/collections/pedals",
-      "research_record": "./research/pedals/Jackson Audio/1484 - Twin Twelve Pedal.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
     },
     {
       "company": "JAM Pedals",
@@ -39071,18 +39588,6 @@
     },
     {
       "company": "JHS Pedals",
-      "pedal": "73 Rams Head",
-      "types": [
-        "Fuzz",
-        "Distortion"
-      ],
-      "source_page": "https://jhspedals.info/products/73-rams-head",
-      "research_record": "./research/pedals/JHS Pedals/73 Rams Head.md",
-      "research_level": "deep",
-      "deep_research_status": "VERIFIED"
-    },
-    {
-      "company": "JHS Pedals",
       "pedal": "424 Gain Stage",
       "types": [
         "Distortion",
@@ -39091,6 +39596,18 @@
       "image": "./assets/pedals/jhs-pedals/424-gain-stage/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/JHS Pedals/424 Gain Stage.md",
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "JHS Pedals",
+      "pedal": "73 Rams Head",
+      "types": [
+        "Fuzz",
+        "Distortion"
+      ],
+      "source_page": "https://jhspedals.info/products/73-rams-head",
+      "research_record": "./research/pedals/JHS Pedals/73 Rams Head.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED"
     },
@@ -39625,6 +40142,18 @@
       "research_record": "./research/pedals/JHS Pedals/The Violet / Violet.md",
       "research_level": "surface",
       "deep_research_status": "PENDING"
+    },
+    {
+      "company": "JHS Pedals",
+      "pedal": "Twin Twelve",
+      "types": [
+        "Overdrive"
+      ],
+      "image": "",
+      "source_page": "https://jhspedals.info/collections/discontinued-rare?page=2",
+      "research_record": "./research/pedals/JHS Pedals/Twin Twelve.md",
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "JHS Pedals",
@@ -41115,40 +41644,40 @@
       "deep_research_status": "PENDING"
     },
     {
-      "company": "Leqtique",
-      "pedal": "6/6",
+      "company": "Land Devices",
+      "pedal": "HP-2",
       "types": [
-        "Distortion"
+        "Fuzz"
       ],
-      "image": "./assets/pedals/leqtique/6-6/primary.webp",
-      "source_page": null,
-      "research_record": "./research/pedals/Leqtique/6/6.md",
-      "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "image": null,
+      "source_page": "https://landdevices.com/collections/catalog",
+      "research_record": "./research/pedals/Land Devices/HP-2.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
     },
     {
-      "company": "Leqtique",
-      "pedal": "9/9",
+      "company": "Land Devices",
+      "pedal": "Hunter",
       "types": [
         "Distortion"
       ],
-      "image": "./assets/pedals/leqtique/9-9/primary.webp",
-      "source_page": null,
-      "research_record": "./research/pedals/Leqtique/9/9.md",
-      "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "image": null,
+      "source_page": "https://landdevices.com/collections/catalog",
+      "research_record": "./research/pedals/Land Devices/Hunter.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
     },
     {
-      "company": "Leqtique",
-      "pedal": "9/9 EVR",
+      "company": "Land Devices",
+      "pedal": "Moonbow",
       "types": [
-        "Distortion"
+        "Overdrive"
       ],
-      "image": "./assets/pedals/leqtique/9-9-evr/primary.webp",
-      "source_page": null,
-      "research_record": "./research/pedals/Leqtique/9/9 EVR.md",
-      "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "image": null,
+      "source_page": "https://landdevices.com/collections/catalog",
+      "research_record": "./research/pedals/Land Devices/Moonbow.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
     },
     {
       "company": "Leqtique",
@@ -41195,6 +41724,42 @@
       "image": "./assets/pedals/leqtique/11-11-evr/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Leqtique/11/11 EVR.md",
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "Leqtique",
+      "pedal": "6/6",
+      "types": [
+        "Distortion"
+      ],
+      "image": "./assets/pedals/leqtique/6-6/primary.webp",
+      "source_page": null,
+      "research_record": "./research/pedals/Leqtique/6/6.md",
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "Leqtique",
+      "pedal": "9/9",
+      "types": [
+        "Distortion"
+      ],
+      "image": "./assets/pedals/leqtique/9-9/primary.webp",
+      "source_page": null,
+      "research_record": "./research/pedals/Leqtique/9/9.md",
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "Leqtique",
+      "pedal": "9/9 EVR",
+      "types": [
+        "Distortion"
+      ],
+      "image": "./assets/pedals/leqtique/9-9-evr/primary.webp",
+      "source_page": null,
+      "research_record": "./research/pedals/Leqtique/9/9 EVR.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED"
     },
@@ -41575,6 +42140,119 @@
       "deep_research_status": "PENDING"
     },
     {
+      "company": "LICHTLÆRM AUDIO",
+      "pedal": ".Ritual.",
+      "types": [
+        "Distortion"
+      ],
+      "image": null,
+      "source_page": "https://lichtlaermaudio.com/shop/ritual",
+      "research_record": "./research/pedals/LICHTLÆRM AUDIO/.Ritual..md",
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "LICHTLÆRM AUDIO",
+      "pedal": "Altar",
+      "types": [
+        "Overdrive",
+        "Fuzz",
+        "Distortion"
+      ],
+      "image": null,
+      "source_page": "https://lichtlaermaudio.com/shop/altar",
+      "research_record": "./research/pedals/LICHTLÆRM AUDIO/Altar.md",
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "LICHTLÆRM AUDIO",
+      "pedal": "Aquaria",
+      "types": [
+        "Overdrive"
+      ],
+      "image": null,
+      "source_page": "https://lichtlaermaudio.com/shop/aquaria",
+      "research_record": "./research/pedals/LICHTLÆRM AUDIO/Aquaria.md",
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "LICHTLÆRM AUDIO",
+      "pedal": "Gehenna",
+      "types": [
+        "Distortion",
+        "Overdrive"
+      ],
+      "image": null,
+      "source_page": "https://lichtlaermaudio.com/shop",
+      "research_record": "./research/pedals/LICHTLÆRM AUDIO/Gehenna.md",
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "LICHTLÆRM AUDIO",
+      "pedal": "Medusa",
+      "types": [
+        "Distortion"
+      ],
+      "image": null,
+      "source_page": "https://lichtlaermaudio.com/shop",
+      "research_record": "./research/pedals/LICHTLÆRM AUDIO/Medusa.md",
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "LICHTLÆRM AUDIO",
+      "pedal": "Ragnarøk",
+      "types": [
+        "Distortion",
+        "Overdrive"
+      ],
+      "image": null,
+      "source_page": "https://lichtlaermaudio.com/shop",
+      "research_record": "./research/pedals/LICHTLÆRM AUDIO/Ragnarøk.md",
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "LICHTLÆRM AUDIO",
+      "pedal": "The King in Yellow",
+      "types": [
+        "Overdrive"
+      ],
+      "image": null,
+      "source_page": "https://lichtlaermaudio.com/shop",
+      "research_record": "./research/pedals/LICHTLÆRM AUDIO/The King in Yellow.md",
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "LICHTLÆRM AUDIO",
+      "pedal": "Thorn",
+      "types": [
+        "Distortion"
+      ],
+      "image": null,
+      "source_page": "https://lichtlaermaudio.com/shop",
+      "research_record": "./research/pedals/LICHTLÆRM AUDIO/Thorn.md",
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "LICHTLÆRM AUDIO",
+      "pedal": "Total Distortion Worship MKII",
+      "types": [
+        "Distortion",
+        "Overdrive"
+      ],
+      "image": null,
+      "source_page": "https://lichtlaermaudio.com/shop/tdw",
+      "research_record": "./research/pedals/LICHTLÆRM AUDIO/Total Distortion Worship MKII.md",
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
+    },
+    {
       "company": "Limetone Audio",
       "pedal": "funther OD/DS/FZ",
       "types": [
@@ -41646,18 +42324,6 @@
     },
     {
       "company": "Lovepedal",
-      "pedal": "5E3 Deluxe",
-      "types": [
-        "Overdrive"
-      ],
-      "image": null,
-      "source_page": null,
-      "research_record": "./research/pedals/Lovepedal/5E3 Deluxe.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
-    },
-    {
-      "company": "Lovepedal",
       "pedal": "200lbs of Gold",
       "types": [
         "Fuzz",
@@ -41666,6 +42332,18 @@
       "image": "./assets/pedals/lovepedal/200lbs-of-gold/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Lovepedal/200lbs of Gold.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Lovepedal",
+      "pedal": "5E3 Deluxe",
+      "types": [
+        "Overdrive"
+      ],
+      "image": null,
+      "source_page": null,
+      "research_record": "./research/pedals/Lovepedal/5E3 Deluxe.md",
       "research_level": "surface",
       "deep_research_status": "PENDING"
     },
@@ -41865,18 +42543,6 @@
     },
     {
       "company": "Lovepedal / Love Pedal",
-      "pedal": "5E3 Deluxe",
-      "types": [
-        "Overdrive"
-      ],
-      "image": "",
-      "source_page": "https://lovepedal.com/",
-      "research_record": "./research/pedals/Lovepedal / Love Pedal/5E3 Deluxe.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
-    },
-    {
-      "company": "Lovepedal / Love Pedal",
       "pedal": "200lbs of Gold",
       "types": [
         "Overdrive",
@@ -41885,6 +42551,18 @@
       "image": "",
       "source_page": "https://lovepedal.com/",
       "research_record": "./research/pedals/Lovepedal / Love Pedal/200lbs of Gold.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Lovepedal / Love Pedal",
+      "pedal": "5E3 Deluxe",
+      "types": [
+        "Overdrive"
+      ],
+      "image": "",
+      "source_page": "https://lovepedal.com/",
+      "research_record": "./research/pedals/Lovepedal / Love Pedal/5E3 Deluxe.md",
       "research_level": "surface",
       "deep_research_status": "PENDING"
     },
@@ -46471,6 +47149,19 @@
     },
     {
       "company": "Mythos Pedals",
+      "pedal": "1347 Silicon Fuzz",
+      "types": [
+        "Distortion",
+        "Fuzz"
+      ],
+      "image": null,
+      "source_page": null,
+      "research_record": "./research/pedals/Mythos Pedals/1347 Silicon Fuzz.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Mythos Pedals",
       "pedal": "1N34A Mjolnir - Gold",
       "types": [
         "Overdrive"
@@ -46490,19 +47181,6 @@
       "image": "./assets/pedals/mythos-pedals/1n34a-mjolnir-silver/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mythos Pedals/1N34A Mjolnir - Silver.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
-    },
-    {
-      "company": "Mythos Pedals",
-      "pedal": "1347 Silicon Fuzz",
-      "types": [
-        "Distortion",
-        "Fuzz"
-      ],
-      "image": null,
-      "source_page": null,
-      "research_record": "./research/pedals/Mythos Pedals/1347 Silicon Fuzz.md",
       "research_level": "surface",
       "deep_research_status": "PENDING"
     },
@@ -46778,18 +47456,6 @@
     },
     {
       "company": "NUX Audio / NUX",
-      "pedal": "‘6ixty5ive OD",
-      "types": [
-        "Overdrive"
-      ],
-      "image": null,
-      "source_page": null,
-      "research_record": "./research/pedals/NUX Audio / NUX/‘6ixty5ive OD.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
-    },
-    {
-      "company": "NUX Audio / NUX",
       "pedal": "’59 Bassguy",
       "types": [
         "Overdrive"
@@ -46809,6 +47475,18 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/NUX Audio / NUX/’63 Diamond.md",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "NUX Audio / NUX",
+      "pedal": "‘6ixty5ive OD",
+      "types": [
+        "Overdrive"
+      ],
+      "image": null,
+      "source_page": null,
+      "research_record": "./research/pedals/NUX Audio / NUX/‘6ixty5ive OD.md",
       "research_level": "surface",
       "deep_research_status": "PENDING"
     },
@@ -47334,18 +48012,6 @@
     },
     {
       "company": "Old Blood Noise Endeavors",
-      "pedal": "Pardner",
-      "types": [
-        "Fuzz"
-      ],
-      "image": "./assets/pedals/old-blood-noise-endeavors/pardner/primary.webp",
-      "source_page": null,
-      "research_record": "./research/pedals/Old Blood Noise Endeavors/Pardner.md",
-      "research_level": "deep",
-      "deep_research_status": "VERIFIED"
-    },
-    {
-      "company": "Old Blood Noise Endeavors",
       "pedal": "Haunt Fuzz w/ Clickless Switching",
       "types": [
         "Fuzz"
@@ -47355,6 +48021,18 @@
       "research_record": "./research/pedals/Old Blood Noise Endeavors/Haunt Fuzz w - Clickless Switching.md",
       "research_level": "surface",
       "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Old Blood Noise Endeavors",
+      "pedal": "Pardner",
+      "types": [
+        "Fuzz"
+      ],
+      "image": "./assets/pedals/old-blood-noise-endeavors/pardner/primary.webp",
+      "source_page": null,
+      "research_record": "./research/pedals/Old Blood Noise Endeavors/Pardner.md",
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Orange Amplification",
@@ -47884,6 +48562,128 @@
       "image": "./assets/pedals/ovaltone/tm4086-rev-1-2/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Ovaltone/TM4086+ REV. 1.2.md",
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "Pete Cornish",
+      "pedal": "BD-1",
+      "types": [
+        "Overdrive"
+      ],
+      "source_page": "https://www.petecornish.co.uk/GreySeries.html",
+      "image": "",
+      "research_record": "./research/pedals/Pete Cornish/BD-1.md",
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "Pete Cornish",
+      "pedal": "CC-1",
+      "types": [
+        "Overdrive"
+      ],
+      "source_page": "https://www.petecornish.co.uk/GreySeries.html",
+      "image": "",
+      "research_record": "./research/pedals/Pete Cornish/CC-1.md",
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "Pete Cornish",
+      "pedal": "G-2",
+      "types": [
+        "Distortion",
+        "Overdrive"
+      ],
+      "source_page": "https://www.petecornish.co.uk/SAEG-2.html",
+      "image": "",
+      "research_record": "./research/pedals/Pete Cornish/G-2.md",
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "Pete Cornish",
+      "pedal": "GC-1",
+      "types": [
+        "Distortion",
+        "Overdrive"
+      ],
+      "source_page": "https://www.petecornish.co.uk/GreySeries.html",
+      "image": "",
+      "research_record": "./research/pedals/Pete Cornish/GC-1.md",
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "Pete Cornish",
+      "pedal": "NG-2",
+      "types": [
+        "Fuzz"
+      ],
+      "source_page": "https://www.petecornish.co.uk/GreySeries.html",
+      "image": "",
+      "research_record": "./research/pedals/Pete Cornish/NG-2.md",
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "Pete Cornish",
+      "pedal": "NG-3",
+      "types": [
+        "Fuzz"
+      ],
+      "source_page": "https://www.petecornish.co.uk/deluxeseries.html",
+      "image": "",
+      "research_record": "./research/pedals/Pete Cornish/NG-3.md",
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "Pete Cornish",
+      "pedal": "P-1",
+      "types": [
+        "Fuzz"
+      ],
+      "source_page": "https://www.petecornish.co.uk/GreySeries.html",
+      "image": "",
+      "research_record": "./research/pedals/Pete Cornish/P-1.md",
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "Pete Cornish",
+      "pedal": "P-2",
+      "types": [
+        "Fuzz"
+      ],
+      "source_page": "https://www.petecornish.co.uk/GreySeries.html",
+      "image": "",
+      "research_record": "./research/pedals/Pete Cornish/P-2.md",
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "Pete Cornish",
+      "pedal": "SS-2",
+      "types": [
+        "Overdrive"
+      ],
+      "source_page": "https://www.petecornish.co.uk/GreySeries.html",
+      "image": "",
+      "research_record": "./research/pedals/Pete Cornish/SS-2.md",
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "Pete Cornish",
+      "pedal": "SS-3",
+      "types": [
+        "Overdrive"
+      ],
+      "source_page": "https://www.petecornish.co.uk/GreySeries.html",
+      "image": "",
+      "research_record": "./research/pedals/Pete Cornish/SS-3.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED"
     },
@@ -52303,6 +53103,54 @@
       "deep_research_status": "VERIFIED"
     },
     {
+      "company": "Tube Works",
+      "pedal": "901 Real Tube",
+      "types": [
+        "Overdrive"
+      ],
+      "image": null,
+      "source_page": "https://www.effectsdatabase.com/model/tubeworks",
+      "research_record": "./research/pedals/Tube Works/901 Real Tube.md",
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "Tube Works",
+      "pedal": "903 Blue Tube",
+      "types": [
+        "Overdrive"
+      ],
+      "image": null,
+      "source_page": "https://www.effectsdatabase.com/model/tubeworks",
+      "research_record": "./research/pedals/Tube Works/903 Blue Tube.md",
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "Tube Works",
+      "pedal": "910 Tube Driver",
+      "types": [
+        "Overdrive"
+      ],
+      "image": null,
+      "source_page": "https://www.effectsdatabase.com/model/tubeworks",
+      "research_record": "./research/pedals/Tube Works/910 Tube Driver.md",
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "Tube Works",
+      "pedal": "911 Tube Driver",
+      "types": [
+        "Overdrive"
+      ],
+      "image": null,
+      "source_page": "https://www.effectsdatabase.com/model/tubeworks",
+      "research_record": "./research/pedals/Tube Works/911 Tube Driver.md",
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
+    },
+    {
       "company": "Union Tube & Transistor",
       "pedal": "Beelzebuzz",
       "types": [
@@ -54732,8 +55580,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Wampler Pedals/Plexi Drive Mini.md",
-      "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
     },
     {
       "company": "Wampler Pedals",
@@ -56281,793 +57129,6 @@
       "research_record": "./research/pedals/ZVEX Effects/Woolly Mammoth 7.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED"
-    },
-    {
-      "company": "Pete Cornish",
-      "pedal": "CC-1",
-      "types": [
-        "Overdrive"
-      ],
-      "source_page": "https://www.petecornish.co.uk/GreySeries.html",
-      "image": "",
-      "research_record": "./research/pedals/Pete Cornish/CC-1.md",
-      "research_level": "deep",
-      "deep_research_status": "VERIFIED"
-    },
-    {
-      "company": "Pete Cornish",
-      "pedal": "SS-2",
-      "types": [
-        "Overdrive"
-      ],
-      "source_page": "https://www.petecornish.co.uk/GreySeries.html",
-      "image": "",
-      "research_record": "./research/pedals/Pete Cornish/SS-2.md",
-      "research_level": "deep",
-      "deep_research_status": "VERIFIED"
-    },
-    {
-      "company": "Pete Cornish",
-      "pedal": "SS-3",
-      "types": [
-        "Overdrive"
-      ],
-      "source_page": "https://www.petecornish.co.uk/GreySeries.html",
-      "image": "",
-      "research_record": "./research/pedals/Pete Cornish/SS-3.md",
-      "research_level": "deep",
-      "deep_research_status": "VERIFIED"
-    },
-    {
-      "company": "Pete Cornish",
-      "pedal": "G-2",
-      "types": [
-        "Distortion",
-        "Overdrive"
-      ],
-      "source_page": "https://www.petecornish.co.uk/SAEG-2.html",
-      "image": "",
-      "research_record": "./research/pedals/Pete Cornish/G-2.md",
-      "research_level": "deep",
-      "deep_research_status": "VERIFIED"
-    },
-    {
-      "company": "Pete Cornish",
-      "pedal": "GC-1",
-      "types": [
-        "Distortion",
-        "Overdrive"
-      ],
-      "source_page": "https://www.petecornish.co.uk/GreySeries.html",
-      "image": "",
-      "research_record": "./research/pedals/Pete Cornish/GC-1.md",
-      "research_level": "deep",
-      "deep_research_status": "VERIFIED"
-    },
-    {
-      "company": "Pete Cornish",
-      "pedal": "BD-1",
-      "types": [
-        "Overdrive"
-      ],
-      "source_page": "https://www.petecornish.co.uk/GreySeries.html",
-      "image": "",
-      "research_record": "./research/pedals/Pete Cornish/BD-1.md",
-      "research_level": "deep",
-      "deep_research_status": "VERIFIED"
-    },
-    {
-      "company": "Pete Cornish",
-      "pedal": "P-1",
-      "types": [
-        "Fuzz"
-      ],
-      "source_page": "https://www.petecornish.co.uk/GreySeries.html",
-      "image": "",
-      "research_record": "./research/pedals/Pete Cornish/P-1.md",
-      "research_level": "deep",
-      "deep_research_status": "VERIFIED"
-    },
-    {
-      "company": "Pete Cornish",
-      "pedal": "P-2",
-      "types": [
-        "Fuzz"
-      ],
-      "source_page": "https://www.petecornish.co.uk/GreySeries.html",
-      "image": "",
-      "research_record": "./research/pedals/Pete Cornish/P-2.md",
-      "research_level": "deep",
-      "deep_research_status": "VERIFIED"
-    },
-    {
-      "company": "Pete Cornish",
-      "pedal": "NG-2",
-      "types": [
-        "Fuzz"
-      ],
-      "source_page": "https://www.petecornish.co.uk/GreySeries.html",
-      "image": "",
-      "research_record": "./research/pedals/Pete Cornish/NG-2.md",
-      "research_level": "deep",
-      "deep_research_status": "VERIFIED"
-    },
-    {
-      "company": "Pete Cornish",
-      "pedal": "NG-3",
-      "types": [
-        "Fuzz"
-      ],
-      "source_page": "https://www.petecornish.co.uk/deluxeseries.html",
-      "image": "",
-      "research_record": "./research/pedals/Pete Cornish/NG-3.md",
-      "research_level": "deep",
-      "deep_research_status": "VERIFIED"
-    },
-    {
-      "company": "JHS Pedals",
-      "pedal": "Twin Twelve",
-      "types": [
-        "Overdrive"
-      ],
-      "image": "",
-      "source_page": "https://jhspedals.info/collections/discontinued-rare?page=2",
-      "research_record": "./research/pedals/JHS Pedals/Twin Twelve.md",
-      "research_level": "deep",
-      "deep_research_status": "VERIFIED"
-    },
-    {
-      "company": "Benson Amps",
-      "pedal": "Chimera Fuzz",
-      "types": [
-        "Fuzz"
-      ],
-      "image": "",
-      "source_page": "https://www.bensonamps.com/guitarpedals",
-      "research_record": "./research/pedals/Benson Amps/Chimera Fuzz.md",
-      "research_level": "deep",
-      "deep_research_status": "VERIFIED"
-    },
-    {
-      "company": "Case Study Effects",
-      "pedal": "Aspen Overdrive",
-      "types": [
-        "Overdrive",
-        "Distortion",
-        "Fuzz"
-      ],
-      "image": null,
-      "source_page": "https://casestudyeffects.co/",
-      "research_record": "./research/pedals/Case Study Effects/Aspen Overdrive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
-    },
-    {
-      "company": "Case Study Effects",
-      "pedal": "Lastlight Overdrive",
-      "types": [
-        "Overdrive"
-      ],
-      "image": null,
-      "source_page": "https://www.effectsdatabase.com/model/casestudy/lastlight",
-      "research_record": "./research/pedals/Case Study Effects/Lastlight Overdrive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
-    },
-    {
-      "company": "Tube Works",
-      "pedal": "901 Real Tube",
-      "types": [
-        "Overdrive"
-      ],
-      "image": null,
-      "source_page": "https://www.effectsdatabase.com/model/tubeworks",
-      "research_record": "./research/pedals/Tube Works/901 Real Tube.md",
-      "research_level": "deep",
-      "deep_research_status": "VERIFIED"
-    },
-    {
-      "company": "Tube Works",
-      "pedal": "903 Blue Tube",
-      "types": [
-        "Overdrive"
-      ],
-      "image": null,
-      "source_page": "https://www.effectsdatabase.com/model/tubeworks",
-      "research_record": "./research/pedals/Tube Works/903 Blue Tube.md",
-      "research_level": "deep",
-      "deep_research_status": "VERIFIED"
-    },
-    {
-      "company": "Tube Works",
-      "pedal": "910 Tube Driver",
-      "types": [
-        "Overdrive"
-      ],
-      "image": null,
-      "source_page": "https://www.effectsdatabase.com/model/tubeworks",
-      "research_record": "./research/pedals/Tube Works/910 Tube Driver.md",
-      "research_level": "deep",
-      "deep_research_status": "VERIFIED"
-    },
-    {
-      "company": "Tube Works",
-      "pedal": "911 Tube Driver",
-      "types": [
-        "Overdrive"
-      ],
-      "image": null,
-      "source_page": "https://www.effectsdatabase.com/model/tubeworks",
-      "research_record": "./research/pedals/Tube Works/911 Tube Driver.md",
-      "research_level": "deep",
-      "deep_research_status": "VERIFIED"
-    },
-    {
-      "company": "Dinosaural",
-      "pedal": "Cogmeister",
-      "types": [
-        "Overdrive",
-        "Boost"
-      ],
-      "image": null,
-      "source_page": "https://www.effectsdatabase.com/model/dinosaural",
-      "research_record": "./research/pedals/Dinosaural/Cogmeister.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
-    },
-    {
-      "company": "Dinosaural",
-      "pedal": "Hypoid Drive",
-      "types": [
-        "Overdrive",
-        "Distortion"
-      ],
-      "image": null,
-      "source_page": "https://www.effectsdatabase.com/model/dinosaural",
-      "research_record": "./research/pedals/Dinosaural/Hypoid Drive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
-    },
-    {
-      "company": "Dinosaural",
-      "pedal": "OPA-101 Overdriven Pre-Amp",
-      "types": [
-        "Overdrive"
-      ],
-      "image": null,
-      "source_page": "https://www.effectsdatabase.com/model/dinosaural",
-      "research_record": "./research/pedals/Dinosaural/OPA-101 Overdriven Pre-Amp.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
-    },
-    {
-      "company": "Dinosaural",
-      "pedal": "Tube Bender",
-      "types": [
-        "Overdrive"
-      ],
-      "image": null,
-      "source_page": "https://www.effectsdatabase.com/model/dinosaural",
-      "research_record": "./research/pedals/Dinosaural/Tube Bender.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
-    },
-    {
-      "company": "Dawner Prince Electronics",
-      "pedal": "DIKTATOR MKII",
-      "types": [
-        "Overdrive",
-        "Distortion"
-      ],
-      "image": null,
-      "source_page": "https://dawnerprince.com/products/diktator",
-      "research_record": "./research/pedals/Dawner Prince Electronics/DIKTATOR MKII.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
-    },
-    {
-      "company": "Dawner Prince Electronics",
-      "pedal": "RED ROX",
-      "types": [
-        "Distortion"
-      ],
-      "image": null,
-      "source_page": "https://dawnerprince.com/",
-      "research_record": "./research/pedals/Dawner Prince Electronics/RED ROX.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
-    },
-    {
-      "company": "Dawner Prince Electronics",
-      "pedal": "DIKTATOR",
-      "types": [
-        "Overdrive",
-        "Distortion"
-      ],
-      "image": null,
-      "source_page": "https://dawnerprince.com/products/diktator",
-      "research_record": "./research/pedals/Dawner Prince Electronics/DIKTATOR.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
-    },
-    {
-      "company": "Land Devices",
-      "pedal": "HP-2",
-      "types": [
-        "Fuzz"
-      ],
-      "image": null,
-      "source_page": "https://landdevices.com/collections/catalog",
-      "research_record": "./research/pedals/Land Devices/HP-2.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
-    },
-    {
-      "company": "Land Devices",
-      "pedal": "Hunter",
-      "types": [
-        "Distortion"
-      ],
-      "image": null,
-      "source_page": "https://landdevices.com/collections/catalog",
-      "research_record": "./research/pedals/Land Devices/Hunter.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
-    },
-    {
-      "company": "Land Devices",
-      "pedal": "Moonbow",
-      "types": [
-        "Overdrive"
-      ],
-      "image": null,
-      "source_page": "https://landdevices.com/collections/catalog",
-      "research_record": "./research/pedals/Land Devices/Moonbow.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
-    },
-    {
-      "company": "LICHTLÆRM AUDIO",
-      "pedal": "Altar",
-      "types": [
-        "Overdrive",
-        "Fuzz",
-        "Distortion"
-      ],
-      "image": null,
-      "source_page": "https://lichtlaermaudio.com/shop/altar",
-      "research_record": "./research/pedals/LICHTLÆRM AUDIO/Altar.md",
-      "research_level": "deep",
-      "deep_research_status": "VERIFIED"
-    },
-    {
-      "company": "LICHTLÆRM AUDIO",
-      "pedal": "Medusa",
-      "types": [
-        "Distortion"
-      ],
-      "image": null,
-      "source_page": "https://lichtlaermaudio.com/shop",
-      "research_record": "./research/pedals/LICHTLÆRM AUDIO/Medusa.md",
-      "research_level": "deep",
-      "deep_research_status": "VERIFIED"
-    },
-    {
-      "company": "LICHTLÆRM AUDIO",
-      "pedal": "Ragnarøk",
-      "types": [
-        "Distortion",
-        "Overdrive"
-      ],
-      "image": null,
-      "source_page": "https://lichtlaermaudio.com/shop",
-      "research_record": "./research/pedals/LICHTLÆRM AUDIO/Ragnarøk.md",
-      "research_level": "deep",
-      "deep_research_status": "VERIFIED"
-    },
-    {
-      "company": "LICHTLÆRM AUDIO",
-      "pedal": "Total Distortion Worship MKII",
-      "types": [
-        "Distortion",
-        "Overdrive"
-      ],
-      "image": null,
-      "source_page": "https://lichtlaermaudio.com/shop/tdw",
-      "research_record": "./research/pedals/LICHTLÆRM AUDIO/Total Distortion Worship MKII.md",
-      "research_level": "deep",
-      "deep_research_status": "VERIFIED"
-    },
-    {
-      "company": "LICHTLÆRM AUDIO",
-      "pedal": "Thorn",
-      "types": [
-        "Distortion"
-      ],
-      "image": null,
-      "source_page": "https://lichtlaermaudio.com/shop",
-      "research_record": "./research/pedals/LICHTLÆRM AUDIO/Thorn.md",
-      "research_level": "deep",
-      "deep_research_status": "VERIFIED"
-    },
-    {
-      "company": "LICHTLÆRM AUDIO",
-      "pedal": "Gehenna",
-      "types": [
-        "Distortion",
-        "Overdrive"
-      ],
-      "image": null,
-      "source_page": "https://lichtlaermaudio.com/shop",
-      "research_record": "./research/pedals/LICHTLÆRM AUDIO/Gehenna.md",
-      "research_level": "deep",
-      "deep_research_status": "VERIFIED"
-    },
-    {
-      "company": "LICHTLÆRM AUDIO",
-      "pedal": "The King in Yellow",
-      "types": [
-        "Overdrive"
-      ],
-      "image": null,
-      "source_page": "https://lichtlaermaudio.com/shop",
-      "research_record": "./research/pedals/LICHTLÆRM AUDIO/The King in Yellow.md",
-      "research_level": "deep",
-      "deep_research_status": "VERIFIED"
-    },
-    {
-      "company": "LICHTLÆRM AUDIO",
-      "pedal": ".Ritual.",
-      "types": [
-        "Distortion"
-      ],
-      "image": null,
-      "source_page": "https://lichtlaermaudio.com/shop/ritual",
-      "research_record": "./research/pedals/LICHTLÆRM AUDIO/.Ritual..md",
-      "research_level": "deep",
-      "deep_research_status": "VERIFIED"
-    },
-    {
-      "company": "LICHTLÆRM AUDIO",
-      "pedal": "Aquaria",
-      "types": [
-        "Overdrive"
-      ],
-      "image": null,
-      "source_page": "https://lichtlaermaudio.com/shop/aquaria",
-      "research_record": "./research/pedals/LICHTLÆRM AUDIO/Aquaria.md",
-      "research_level": "deep",
-      "deep_research_status": "VERIFIED"
-    },
-    {
-      "company": "Does It Doom?",
-      "pedal": "Fuzzcoven",
-      "types": [
-        "Fuzz"
-      ],
-      "image": null,
-      "source_page": "https://doesitdoom.com/product/fuzzcoven/",
-      "research_record": "./research/pedals/Does It Doom?/Fuzzcoven.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
-    },
-    {
-      "company": "Bad Penny FX",
-      "pedal": "Dluxe Drive",
-      "types": [
-        "Overdrive"
-      ],
-      "image": null,
-      "source_page": "https://reverb.com/uk/item/52583164-bad-penny-fx-dluxe-drive",
-      "research_record": "./research/pedals/Bad Penny FX/Dluxe Drive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
-    },
-    {
-      "company": "Bad Penny FX",
-      "pedal": "Fuzz Controller Germanium",
-      "types": [
-        "Fuzz"
-      ],
-      "image": null,
-      "source_page": "https://www.guitarpedalx.com/news/best-of-british-pedal-builders-roundup---an-a-z-overview-in-105-parts",
-      "research_record": "./research/pedals/Bad Penny FX/Fuzz Controller Germanium.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
-    },
-    {
-      "company": "Bad Penny FX",
-      "pedal": "Littlebox Fuzz",
-      "types": [
-        "Fuzz"
-      ],
-      "image": null,
-      "source_page": "https://www.guitarpedalx.com/news/best-of-british-pedal-builders-roundup---an-a-z-overview-in-105-parts",
-      "research_record": "./research/pedals/Bad Penny FX/Littlebox Fuzz.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
-    },
-    {
-      "company": "Bad Penny FX",
-      "pedal": "Lollygagger Overdrive",
-      "types": [
-        "Overdrive"
-      ],
-      "image": null,
-      "source_page": "https://www.guitarpedalx.com/news/best-of-british-pedal-builders-roundup---an-a-z-overview-in-105-parts",
-      "research_record": "./research/pedals/Bad Penny FX/Lollygagger Overdrive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
-    },
-    {
-      "company": "Bad Penny FX",
-      "pedal": "Morse Fuzz Mini",
-      "types": [
-        "Fuzz"
-      ],
-      "image": null,
-      "source_page": "https://www.guitarpedalx.com/news/best-of-british-pedal-builders-roundup---an-a-z-overview-in-105-parts",
-      "research_record": "./research/pedals/Bad Penny FX/Morse Fuzz Mini.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
-    },
-    {
-      "company": "Bad Penny FX",
-      "pedal": "Nerd Fuzz + Boost",
-      "types": [
-        "Fuzz",
-        "Overdrive"
-      ],
-      "image": null,
-      "source_page": "https://www.guitarpedalx.com/news/best-of-british-pedal-builders-roundup---an-a-z-overview-in-105-parts",
-      "research_record": "./research/pedals/Bad Penny FX/Nerd Fuzz + Boost.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
-    },
-    {
-      "company": "Bad Penny FX",
-      "pedal": "Old Fuzz Mini",
-      "types": [
-        "Fuzz"
-      ],
-      "image": null,
-      "source_page": "https://www.guitarpedalx.com/news/best-of-british-pedal-builders-roundup---an-a-z-overview-in-105-parts",
-      "research_record": "./research/pedals/Bad Penny FX/Old Fuzz Mini.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
-    },
-    {
-      "company": "Bad Penny FX",
-      "pedal": "Quagswag Fuzz Boost",
-      "types": [
-        "Fuzz",
-        "Overdrive"
-      ],
-      "image": null,
-      "source_page": "https://www.guitarpedalx.com/news/best-of-british-pedal-builders-roundup---an-a-z-overview-in-105-parts",
-      "research_record": "./research/pedals/Bad Penny FX/Quagswag Fuzz Boost.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
-    },
-    {
-      "company": "Bad Penny FX",
-      "pedal": "Widow Dual Overdrive/Fuzz",
-      "types": [
-        "Distortion",
-        "Fuzz",
-        "Overdrive"
-      ],
-      "image": null,
-      "source_page": "https://www.guitarpedalx.com/news/best-of-british-pedal-builders-roundup---an-a-z-overview-in-105-parts",
-      "research_record": "./research/pedals/Bad Penny FX/Widow Dual Overdrive Fuzz.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
-    },
-    {
-      "company": "Big John Effects",
-      "pedal": "BassDrive",
-      "types": [
-        "Overdrive"
-      ],
-      "image": null,
-      "source_page": "https://bigjohnmusic.com/about/",
-      "research_record": "./research/pedals/Big John Effects/BassDrive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
-    },
-    {
-      "company": "B85 Audio",
-      "pedal": "Oktadrive",
-      "types": [
-        "Fuzz"
-      ],
-      "image": null,
-      "source_page": "https://www.effectsdatabase.com/model/b85",
-      "research_record": "./research/pedals/B85 Audio/Oktadrive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
-    },
-    {
-      "company": "B85 Audio",
-      "pedal": "Red Lama",
-      "types": [
-        "Overdrive"
-      ],
-      "image": null,
-      "source_page": "https://www.effectsdatabase.com/model/b85",
-      "research_record": "./research/pedals/B85 Audio/Red Lama.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
-    },
-    {
-      "company": "Backbeat Electric",
-      "pedal": "Bass Driver",
-      "types": [
-        "Overdrive"
-      ],
-      "image": null,
-      "source_page": "https://www.effectsdatabase.com/model/backbeat",
-      "research_record": "./research/pedals/Backbeat Electric/Bass Driver.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
-    },
-    {
-      "company": "Backbeat Electric",
-      "pedal": "Blue Blender",
-      "types": [
-        "Fuzz"
-      ],
-      "image": null,
-      "source_page": "https://www.effectsdatabase.com/model/backbeat",
-      "research_record": "./research/pedals/Backbeat Electric/Blue Blender.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
-    },
-    {
-      "company": "Backbeat Electric",
-      "pedal": "Doctor Fuzz",
-      "types": [
-        "Fuzz"
-      ],
-      "image": null,
-      "source_page": "https://www.effectsdatabase.com/model/backbeat",
-      "research_record": "./research/pedals/Backbeat Electric/Doctor Fuzz.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
-    },
-    {
-      "company": "Bad Pixel Pedals",
-      "pedal": "F#@k You Tube Drive-Boost",
-      "types": [
-        "Overdrive"
-      ],
-      "image": null,
-      "source_page": "https://atthelivingroomstudios.com/gear/",
-      "research_record": "./research/pedals/Bad Pixel Pedals/F#@k You Tube Drive-Boost.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
-    },
-    {
-      "company": "Baja Tech Custom",
-      "pedal": "Bone Bender 1.5",
-      "types": [
-        "Fuzz"
-      ],
-      "image": null,
-      "source_page": "https://wahwah.fandom.com/wiki/Baja_Tech_Custom",
-      "research_record": "./research/pedals/Baja Tech Custom/Bone Bender 1.5.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
-    },
-    {
-      "company": "Baja Tech Custom",
-      "pedal": "Bone Bender MKII",
-      "types": [
-        "Fuzz"
-      ],
-      "image": null,
-      "source_page": "https://wahwah.fandom.com/wiki/Baja_Tech_Custom",
-      "research_record": "./research/pedals/Baja Tech Custom/Bone Bender MKII.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
-    },
-    {
-      "company": "Baja Tech Custom",
-      "pedal": "Da MOAF Deluxe",
-      "types": [
-        "Fuzz"
-      ],
-      "image": null,
-      "source_page": "https://www.effectsdatabase.com/model/bajatech",
-      "research_record": "./research/pedals/Baja Tech Custom/DaMOAF Deluxe.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
-    },
-    {
-      "company": "Baja Tech Custom",
-      "pedal": "Real Tube Overdrive",
-      "types": [
-        "Overdrive"
-      ],
-      "image": null,
-      "source_page": "https://wahwah.fandom.com/wiki/Baja_Tech_Custom",
-      "research_record": "./research/pedals/Baja Tech Custom/Real Tube Overdrive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
-    },
-    {
-      "company": "Balaguer Guitars",
-      "pedal": "Fission Drive",
-      "types": [
-        "Distortion",
-        "Fuzz",
-        "Overdrive"
-      ],
-      "image": null,
-      "source_page": "https://www.balaguerguitars.com/wp-content/uploads/2021/02/Balaguer-2021-Product-Catalog_compressed-2.pdf",
-      "research_record": "./research/pedals/Balaguer Guitars/Fission Drive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
-    },
-    {
-      "company": "Baltimore Sonic Research Institute",
-      "pedal": "Maybe The Real Treasure... Fuzz",
-      "types": [
-        "Fuzz"
-      ],
-      "image": null,
-      "source_page": "https://www.cottonwoodmusicemporium.com/collections/baltimore-sonic-research-institure",
-      "research_record": "./research/pedals/Baltimore Sonic Research Institute/Maybe The Real Treasure - Fuzz.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
-    },
-    {
-      "company": "Baltimore Sonic Research Institute",
-      "pedal": "Magawa",
-      "types": [
-        "Distortion"
-      ],
-      "image": null,
-      "source_page": "https://empireguitars.com/collections/all?page=58",
-      "research_record": "./research/pedals/Baltimore Sonic Research Institute/Magawa.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
-    },
-    {
-      "company": "Captain FX",
-      "pedal": "Crown Jr. Overdrive / Boost",
-      "types": [
-        "Overdrive"
-      ],
-      "image": null,
-      "source_page": "https://github.com/NoizeNiche/the-dirt-archive/blob/main/research/SCRAPE_C_BLOCK_165_ADDENDUM.csv",
-      "research_record": "./research/pedals/Captain FX/Crown Jr. Overdrive Boost.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
-    },
-    {
-      "company": "Captain FX",
-      "pedal": "Overdriver",
-      "types": [
-        "Overdrive"
-      ],
-      "image": null,
-      "source_page": "https://github.com/NoizeNiche/the-dirt-archive/blob/main/research/SCRAPE_C_BLOCK_165_ADDENDUM.csv",
-      "research_record": "./research/pedals/Captain FX/Overdriver.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
-    },
-    {
-      "company": "Captain FX",
-      "pedal": "War Pig",
-      "types": [
-        "Fuzz"
-      ],
-      "image": null,
-      "source_page": "https://github.com/NoizeNiche/the-dirt-archive/blob/main/research/SCRAPE_C_BLOCK_165_ADDENDUM.csv",
-      "research_record": "./research/pedals/Captain FX/War Pig.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
     }
   ],
   "photo_architecture": "local-first"
