@@ -104,11 +104,14 @@ function renderMarkdown(md){
   };
   for(const line of lines){
     const sourceMatch=line.match(/^\s*\d+\.\s+(https?:\/\/[^\s]+)(?:\s+[—-]\s+(.+))?\s*$/);
-    if(sourceMatch&&!skip){
+    const labeledSourceMatch=line.match(/^\s*\d+\.\s+(.+?)\s*[:;-]\s+(https?:\/\/[^\s]+)\s*$/);
+    if((sourceMatch||labeledSourceMatch)&&!skip){
       if(inList){html+='</ul>';inList=false}
-      const rawUrl=sourceMatch[1].replace(/[),.;!?]+$/,'');
-      const label=rawUrl.replace(/^https?:\/\//,'').split('/')[0];
-      const description=sourceMatch[2] ? ' — '+inline(sourceMatch[2]) : '';
+      const rawUrl=(sourceMatch?.[1]||labeledSourceMatch?.[2]||'').replace(/[),.;!?]+$/,'');
+      const label=labeledSourceMatch
+        ? labeledSourceMatch[1].trim()
+        : rawUrl.replace(/^https?:\/\//,'').split('/')[0];
+      const description=sourceMatch?.[2] ? ' — '+inline(sourceMatch[2]) : '';
       html+='<p class="sourceRow"><a class="sourceLink" href="'+esc(rawUrl)+'" target="_blank" rel="noopener noreferrer">'+esc(label)+'</a>'+description+'</p>';
       continue;
     }
