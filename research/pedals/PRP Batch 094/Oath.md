@@ -4,22 +4,24 @@
 - **Builder:** Black Arts Toneworks
 - **Catalog type:** Fuzz
 
-## Research
-The Oath is a deliberately stripped-down fuzz. Black Arts' historical description is 'Commitment. No knobs. No Nonsense,' reflecting the model's fixed-voice approach. The Oath also became one half of the Destroyer combination pedal alongside the Ritual.
-
-## Source
-- https://blackartstoneworks.blogspot.com/2012/06/ritual-and-revelation.html
-
-## Archive photo
-- **Archive status:** **No Photo Archived**
+## What this pedal is
+Oath is Black Arts Toneworks' deliberately stripped-down fuzz, documented in the builder's historical material as a fixed-voice design. It later became one half of the Destroyer alongside Ritual.
 
 ## Deep research verification
 
-This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+### Architecture
+The exact-model sources support Oath as a no-frills fuzz design with no external control set. Its fixed-voice approach is part of the documented identity.
 
-### Verified description
-Black Arts Toneworks's Oath is cataloged as a fuzz pedal.
+### History
+Oath is independently documented as a standalone model and as one of the two dirt sections combined in Destroyer.
 
-### Sources checked in this pass
-1. catalog/override source: https://www.blackartstoneworks.com/pedal/oath/
-2. catalog/override source: https://reverb.com/p/black-arts-toneworks-oath
+### Component evidence
+The reviewed exact-model sources do not establish a reliable transistor or diode part list.
+
+## Sources checked
+- Black Arts Toneworks: https://www.blackartstoneworks.com/pedal/oath/
+- Reverb model page: https://reverb.com/p/black-arts-toneworks-oath
+- Black Arts Toneworks historical announcement: https://blackartstoneworks.blogspot.com/2012/06/ritual-and-revelation.html
+
+## Photo
+- **Archive status:** **No Photo Archived**
