@@ -33254,8 +33254,8 @@
       "image": "./assets/pedals/dod-electronics/juice-box-overdrive-fx51/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/DOD Electronics/Juice Box Overdrive (FX51).md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "DOD Electronics",
@@ -39649,8 +39649,8 @@
       "image": "./assets/pedals/jhs-pedals/double-dragon-octave-up-distortion-section-within-an-octave-device/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/JHS Pedals/Double Dragon — octave-up distortion section within an octave device.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "JHS Pedals",
@@ -53620,8 +53620,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Vemuram/SHANKS ODS-1 — overdrive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Vemuram",

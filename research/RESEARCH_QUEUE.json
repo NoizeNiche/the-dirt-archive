@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-27T23:35:40.168191+00:00",
+  "generated_at": "2026-09-27T23:37:16.770014+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,25 +10,18 @@
     "pictured": 3466,
     "complete": 3466,
     "research_pending": 0,
-    "deep_research_pending": 290,
-    "deep_researched": 3916,
+    "deep_research_pending": 287,
+    "deep_researched": 3919,
     "surface_ready": 4206
   },
   "next_target": {
     "builder": "DOD Electronics",
-    "pedal": "Juice Box Overdrive (FX51)",
+    "pedal": "Metal X (FX70)",
     "catalog_type": "",
-    "research_record": "./research/pedals/DOD Electronics/Juice Box Overdrive (FX51).md",
+    "research_record": "./research/pedals/DOD Electronics/Metal X (FX70).md",
     "research_level": "surface"
   },
   "working_set": [
-    {
-      "builder": "DOD Electronics",
-      "pedal": "Juice Box Overdrive (FX51)",
-      "catalog_type": "",
-      "research_record": "./research/pedals/DOD Electronics/Juice Box Overdrive (FX51).md",
-      "research_level": "surface"
-    },
     {
       "builder": "DOD Electronics",
       "pedal": "Metal X (FX70)",
@@ -195,6 +188,13 @@
       "pedal": "Lazer Phazer (retired)",
       "catalog_type": "",
       "research_record": "./research/pedals/IdiotBox Effects/Lazer Phazer (retired).md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "IdiotBox Effects",
+      "pedal": "No Moon 2 — coming soon",
+      "catalog_type": "",
+      "research_record": "./research/pedals/IdiotBox Effects/No Moon 2 — coming soon.md",
       "research_level": "surface"
     }
   ]
