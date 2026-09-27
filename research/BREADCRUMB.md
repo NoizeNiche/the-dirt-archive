@@ -525,3 +525,9 @@ The active Catalog Research Phase advanced through the Crazy Tube Circuits clust
 A scope audit removed four non-dirt Crazy Tube Circuits identities from the canonical catalog: Sidekick, Killer V, White Whale, and White Whale v2. Killer V's orphan research record was also removed. The tracker/photo-backlog synchronization was hardened so stale derived identities are automatically discarded when they no longer exist in the canonical catalog, and the main sync workflow now rebuilds PHOTO_BACKLOG.csv from the cleaned tracker.
 
 Verified live checkpoint after reconciliation: **3,761 total / 1,796 researched / 1,717 pictured / 1,717 complete / 1,965 research-pending / 79 researched-photo-pending**. The next canonical research target is **Crazybox Pedals - The Box - Massive High Gain Distortion**. A targeted evidence pass did not yet establish enough trustworthy exact-model material for publication, so that record remains queued rather than guessed.
+
+## Deep-research throughput checkpoint - September 27, 2026
+
+The Catalog Research Phase currently has **4,242/4,242 pedals surface-ready**. The verified deep lane was at **2,170 deep / 2,072 pending** in the latest committed queue snapshot. This pass directly deepened additional historical and current identities across Bad Penny FX, Big John Effects, Big Knob Pedals, Big Tone Music Brewery, Big Monk Electronic Device Co., Big White Monkey Amps, and Bigfoot Engineering, while keeping unknown component details explicitly unresolved.
+
+The worker-team cadence was tightened from hourly to **every 15 minutes**, staggered against catalog synchronization, while retaining the existing 20-way parallel worker architecture and bounded 200-target pass. A dedicated worker kick was also issued after this research batch. The queue remains derived state and will only be updated by the normal reconciliation workflow.
