@@ -4,54 +4,67 @@
 - **Archive parent:** E.O.D.
 - **Builder:** Critically Overdriven
 - **Catalog type:** Overdrive
-- **Identity:** The Critically Overdriven E.O.D., a buffered overdrive/boost with two gain ranges and an Aggressor stage.
+- **Identity:** Critically Overdriven E.O.D., a buffered overdrive/boost with two drive ranges and an Aggressor stage.
 
 ## What this pedal is
-The E.O.D. is an overdrive designed to provide clean boost plus two levels of drive while retaining the tonal character of the guitar and amplifier. Effects Database documents both **v1 and v2** material, making this a confirmed multi-revision model rather than a single undifferentiated run. [1]
+Effects Database describes the E.O.D. as an overdrive that provides clean boost plus two levels of natural-sounding overdrive while retaining the tonal character of the guitar and amplifier. The exact model page documents both **v1 and v2** material.
 
-## Colorways
-- The documented enclosure is gloss black powder coat with orange silk-screened graphics. [1]
-- Cosmetic differences are treated as colorways unless the builder identifies a functional revision.
-
-## Versions and factory options
-### E.O.D. v1
+## Controls / circuit
+### Main controls
+The documented E.O.D. controls are:
 - Gain
 - Bass/Mid
 - Treble
 - Volume
 - Aggressor footswitch
-- Buffered bypass
-- Clean boost with Gain at minimum
-- First overdrive range at moderate Gain
-- Second overdrive range through Aggressor at higher Gain
-- 9V battery or power supply [1]
+
+The E.O.D. uses **buffer bypass**, and the documented power arrangement is a 9V effect pedal powered by an internal battery or external power supply.
+
+### V2-specific control change
+Effects Database's v2 description adds a **two-way high-frequency range switch** for the Aggressor mode.
+
+### Circuit disclosure
+The reliable public sources checked do not establish the exact op-amp, transistor, diode part numbers, or a complete schematic.
+- **Exact active-device implementation:** Unknown.
+- **Exact clipping/diode device:** Unknown.
+- **Complete schematic:** Unknown.
+
+## Sound / operation
+- With **Gain** fully down, the pedal operates as a clean boost. The **Bass/Mid** and **Treble** controls can be used to match or enhance the amplifier, and **Volume** sets the boost level.
+- The first overdrive range engages through the Gain control. In this range the Bass/Mid control changes behavior and allows a symmetrical bass adjustment around the center position.
+- At higher Gain settings, the **Aggressor** switch activates the second overdrive stage while adding a volume boost. Effects Database describes this mode as useful for more aggressive tones and for increasing solo volume.
+- In v2, the added two-way switch alters the treble range available in the Aggressor mode.
+
+## Versions and factory options
+### E.O.D. v1
+Effects Database documents the original four-knob layout, Aggressor switch, buffered bypass, clean boost function, first overdrive range, second overdrive range, and 9V battery/power-supply operation.
 
 ### E.O.D. v2
-- Retains the four main controls and buffered bypass
-- Aggressor adds gain and volume boost
-- Adds a two-way high-frequency range switch for the Aggressor mode
-- Designed to retain guitar/amp character while increasing drive and output [1]
+Effects Database explicitly documents the v2 revision. The main four controls and buffered bypass remain, while the Aggressor section gains the two-way high-frequency range switch.
 
-## Version changes
-Version 2 is explicitly documented by the builder as a revision of the E.O.D. with an added high-frequency range switch in the Aggressor mode. The archive keeps v1 and v2 under the same E.O.D. parent identity, recording the functional revision here rather than creating unrelated duplicate models. [1]
+### Enclosure
+The documented enclosure is a **5.6 x 4.6 x 1.5 inch** gloss black powder-coated enclosure with orange silk-screened graphics.
 
-## Transistor
-- **Technology:** Exact active-device implementation is not publicly established in the reliable sources checked.
-- **Exact transistor/device:** Unknown.
+## Research confidence
+- **Identity:** High.
+- **v1/v2 revision history:** High.
+- **Control layout:** High.
+- **Buffered bypass:** High.
+- **9V battery/power operation:** High.
+- **Two-level overdrive plus clean boost operation:** High.
+- **V2 high-frequency range switch:** High.
+- **Exact semiconductor part numbers:** Unknown.
+- **Complete circuit schematic:** Unknown.
 
-## Diode
-- **Type:** Exact production clipping/rectifier diode details were not publicly established in the reliable sources checked.
-- **Exact part:** Unknown.
-
-## Sound
-The E.O.D. begins as a clean boost with Gain at minimum, then moves into a first overdrive range with a flexible Bass/Mid control. At higher Gain settings the Aggressor switch adds both drive and output, making the second stage suitable for thicker lead sounds or for pushing subsequent pedals, while v2 adds additional high-frequency tailoring to that stage. [1][2]
+## Deep research verification
+This pass verifies the E.O.D. against the exact-model Effects Database page and its v1/v2 documentation, with a separate contemporary demo record used only as corroborating model evidence. The archive avoids inferring a specific circuit family from generic market descriptions.
 
 ## Sources checked
-1. Effects Database — Critically Overdriven E.O.D.: https://www.effectsdatabase.com/model/criticallyoverdriven/eod
-2. Gearmanndude — Critically Overdriven EOD demo: https://www.youtube.com/watch?v=Hfpxj5kp9LI
-3. Reverb — Critically Overdriven E.O.D. used example: https://reverb.com/item/77576510-critically-overdriven-e-o-d-effector-offers-welcome
-4. Music Go Round — E.O.D. Critically Overdriven listing: https://musicgoround.com/locations/louisville-ky/product/S000281836/EOD-CRITICALLY-OVERDRIVEN
+1. Effects Database - Critically Overdriven E.O.D.: https://www.effectsdatabase.com/model/criticallyoverdriven/eod
+2. Gearmanndude - Critically Overdriven EOD Drive demo: https://www.youtube.com/watch?v=Hfpxj5kp9LI
+3. Reverb - Critically Overdriven E.O.D. used example: https://reverb.com/item/77576510-critically-overdriven-e-o-d-effector-offers-welcome
+4. Music Go Round - E.O.D. Critically Overdriven listing: https://musicgoround.com/locations/louisville-ky/product/S000281836/EOD-CRITICALLY-OVERDRIVEN
 
 ## Photo
-- **Archive status:** No local photo archived in this research pass.
-- **Exact-model visual references checked:** Effects Database v1/v2 records and exact-model used listings.
+- **Archive status:** A local catalog image is already assigned to this model.
+- This research pass does not replace or alter the existing local image asset.
