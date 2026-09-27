@@ -8854,6 +8854,18 @@
     },
     {
       "company": "Big Ear NYC",
+      "pedal": "Chaka - Octave Fuzz",
+      "types": [
+        "Fuzz"
+      ],
+      "image": "",
+      "source_page": "https://www.effectsdatabase.com/model/bigear/chaka",
+      "research_record": "./research/pedals/Big Ear NYC/Chaka - Octave Fuzz.md",
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "Big Ear NYC",
       "pedal": "Frank",
       "types": [
         "Overdrive"
@@ -9042,6 +9054,30 @@
     },
     {
       "company": "Big Joe Stomp Box Company",
+      "pedal": "B-302 ROCK",
+      "types": [
+        "Distortion"
+      ],
+      "image": "",
+      "source_page": "https://bigjoestompbox.com/products/b-302-rock",
+      "research_record": "./research/pedals/Big Joe Stomp Box Company/B-302 ROCK.md",
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "Big Joe Stomp Box Company",
+      "pedal": "B-303 METAL",
+      "types": [
+        "Distortion"
+      ],
+      "image": "",
+      "source_page": "https://bigjoestompbox.com/products/b-303-metal",
+      "research_record": "./research/pedals/Big Joe Stomp Box Company/B-303 METAL.md",
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "Big Joe Stomp Box Company",
       "pedal": "B-309 Texas Screamer",
       "types": [
         "Overdrive"
@@ -9051,6 +9087,30 @@
       "research_record": "./research/pedals/PRP Batch 082/B-309 Texas Screamer.md",
       "image_source_url": "https://bigjoestompbox.com/cdn/shop/products/11611459_800_900x.jpg?v=1522252542",
       "image_source_page": "https://bigjoestompbox.com/products/b-309-texas-screamer",
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "Big Joe Stomp Box Company",
+      "pedal": "B-312 FREAKSHOW FUZZ (SILICON)",
+      "types": [
+        "Fuzz"
+      ],
+      "image": "",
+      "source_page": "https://bigjoestompbox.com/products/b-312-freakshow-fuzz-silicon",
+      "research_record": "./research/pedals/Big Joe Stomp Box Company/B-312 FREAKSHOW FUZZ (SILICON).md",
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "Big Joe Stomp Box Company",
+      "pedal": "B-313 FREAKSHOW FUZZ (GERMANIUM)",
+      "types": [
+        "Fuzz"
+      ],
+      "image": "",
+      "source_page": "https://bigjoestompbox.com/products/b-307g-freakshow-fuzz",
+      "research_record": "./research/pedals/Big Joe Stomp Box Company/B-313 FREAKSHOW FUZZ (GERMANIUM).md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED"
     },
@@ -9066,6 +9126,18 @@
       "research_record": "./research/pedals/PRP Batch 082/B-502 Empire.md",
       "image_source_url": "https://cdn.long-mcquade.com/files/clearance/md_75_4c59db34fade8fa056b7f29e9e72d7a5_PXL_20230926_133349487.PORTRAIT.ORIGINAL.webp",
       "image_source_page": "https://www.long-mcquade.com/GearHunter/616851/BIG-JOE-STOMPBOX-COMPANY-B-502-EMPIRE.htm",
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "Big Joe Stomp Box Company",
+      "pedal": "R-401 SATURATED",
+      "types": [
+        "Distortion"
+      ],
+      "image": "",
+      "source_page": "https://bigjoestompbox.com/products/r-401-saturated",
+      "research_record": "./research/pedals/Big Joe Stomp Box Company/R-401 SATURATED.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED"
     },
@@ -9108,6 +9180,18 @@
       "research_record": "./research/pedals/PRP Batch 082/R-404 Vintage II.md",
       "image_source_url": "https://img.youtube.com/vi/p1qQPMXg79Y/hqdefault.jpg",
       "image_source_page": "https://reverb.com/item/58641520-big-joe-stomp-box-company-r-404-vintage-ii-made-in-usa",
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
+    },
+    {
+      "company": "Big Joe Stomp Box Company",
+      "pedal": "R-405 HARD",
+      "types": [
+        "Distortion"
+      ],
+      "image": "",
+      "source_page": "https://bigjoestompbox.com/products/r-405-hard",
+      "research_record": "./research/pedals/Big Joe Stomp Box Company/R-405 HARD.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED"
     },
@@ -42575,6 +42659,357 @@
       "deep_research_status": "PENDING"
     },
     {
+      "company": "Maxon / Nisshin Onpa",
+      "pedal": "D&S Distortion & Sustainer",
+      "types": [
+        "Distortion"
+      ],
+      "image": "",
+      "source_page": "https://www.maxonfx.com/",
+      "research_record": "",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Maxon / Nisshin Onpa",
+      "pedal": "D&S II Distortion & Sustainer",
+      "types": [
+        "Distortion"
+      ],
+      "image": "",
+      "source_page": "https://www.maxonfx.com/",
+      "research_record": "",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Maxon / Nisshin Onpa",
+      "pedal": "DS830 Distortion Master",
+      "types": [
+        "Distortion"
+      ],
+      "image": "",
+      "source_page": "https://www.maxonfx.com/",
+      "research_record": "",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Maxon / Nisshin Onpa",
+      "pedal": "Fuzz Elements Air",
+      "types": [
+        "Fuzz"
+      ],
+      "image": "",
+      "source_page": "https://www.maxonfx.com/",
+      "research_record": "",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Maxon / Nisshin Onpa",
+      "pedal": "Fuzz Elements Earth",
+      "types": [
+        "Fuzz"
+      ],
+      "image": "",
+      "source_page": "https://www.maxonfx.com/",
+      "research_record": "",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Maxon / Nisshin Onpa",
+      "pedal": "Fuzz Elements Ether",
+      "types": [
+        "Fuzz"
+      ],
+      "image": "",
+      "source_page": "https://www.maxonfx.com/",
+      "research_record": "",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Maxon / Nisshin Onpa",
+      "pedal": "Fuzz Elements Fire",
+      "types": [
+        "Fuzz"
+      ],
+      "image": "",
+      "source_page": "https://www.maxonfx.com/",
+      "research_record": "",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Maxon / Nisshin Onpa",
+      "pedal": "Fuzz Elements Void",
+      "types": [
+        "Fuzz"
+      ],
+      "image": "",
+      "source_page": "https://www.maxonfx.com/",
+      "research_record": "",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Maxon / Nisshin Onpa",
+      "pedal": "Fuzz Elements Water",
+      "types": [
+        "Fuzz"
+      ],
+      "image": "",
+      "source_page": "https://www.maxonfx.com/",
+      "research_record": "",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Maxon / Nisshin Onpa",
+      "pedal": "Fuzz Elements Wind",
+      "types": [
+        "Fuzz"
+      ],
+      "image": "",
+      "source_page": "https://www.maxonfx.com/",
+      "research_record": "",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Maxon / Nisshin Onpa",
+      "pedal": "OD-9",
+      "types": [
+        "Overdrive"
+      ],
+      "image": "",
+      "source_page": "https://www.maxonfx.com/",
+      "research_record": "",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Maxon / Nisshin Onpa",
+      "pedal": "OD-9 Pro+",
+      "types": [
+        "Overdrive"
+      ],
+      "image": "",
+      "source_page": "https://www.maxonfx.com/",
+      "research_record": "",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Maxon / Nisshin Onpa",
+      "pedal": "OD808",
+      "types": [
+        "Overdrive"
+      ],
+      "image": "",
+      "source_page": "https://www.maxonfx.com/",
+      "research_record": "",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Maxon / Nisshin Onpa",
+      "pedal": "OD808X",
+      "types": [
+        "Overdrive"
+      ],
+      "image": "",
+      "source_page": "https://www.maxonfx.com/",
+      "research_record": "",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Maxon / Nisshin Onpa",
+      "pedal": "OD820 Overdrive Pro+",
+      "types": [
+        "Overdrive"
+      ],
+      "image": "",
+      "source_page": "https://www.maxonfx.com/",
+      "research_record": "",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Maxon / Nisshin Onpa",
+      "pedal": "OOD-9 Organic Overdrive",
+      "types": [
+        "Overdrive"
+      ],
+      "image": "",
+      "source_page": "https://www.maxonfx.com/",
+      "research_record": "",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Maxon / Nisshin Onpa",
+      "pedal": "OSD-9 Overdrive / Soft Distortion",
+      "types": [
+        "Overdrive",
+        "Distortion"
+      ],
+      "image": "",
+      "source_page": "https://www.maxonfx.com/",
+      "research_record": "",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Maxon / Nisshin Onpa",
+      "pedal": "ROD881 Real Overdrive / Distortion",
+      "types": [
+        "Overdrive",
+        "Distortion"
+      ],
+      "image": "",
+      "source_page": "https://www.maxonfx.com/",
+      "research_record": "",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Maxon / Nisshin Onpa",
+      "pedal": "RTD800 Real Tube Distortion",
+      "types": [
+        "Overdrive",
+        "Distortion"
+      ],
+      "image": "",
+      "source_page": "https://www.maxonfx.com/",
+      "research_record": "",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Maxon / Nisshin Onpa",
+      "pedal": "RTO700 Real Tube Overdrive",
+      "types": [
+        "Overdrive"
+      ],
+      "image": "",
+      "source_page": "https://www.maxonfx.com/",
+      "research_record": "",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Maxon / Nisshin Onpa",
+      "pedal": "SD-9 Sonic Distortion / Overdrive",
+      "types": [
+        "Distortion"
+      ],
+      "image": "",
+      "source_page": "https://www.maxonfx.com/",
+      "research_record": "",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Maxon / Nisshin Onpa",
+      "pedal": "SD-9M Sonic Distortion Master",
+      "types": [
+        "Distortion"
+      ],
+      "image": "",
+      "source_page": "https://www.maxonfx.com/",
+      "research_record": "",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Maxon / Nisshin Onpa",
+      "pedal": "SM-9 Super Metal",
+      "types": [
+        "Distortion"
+      ],
+      "image": "",
+      "source_page": "https://www.maxonfx.com/",
+      "research_record": "",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Maxon / Nisshin Onpa",
+      "pedal": "SM-9Pro Super Metal Pro+",
+      "types": [
+        "Distortion"
+      ],
+      "image": "",
+      "source_page": "https://www.maxonfx.com/",
+      "research_record": "",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Maxon / Nisshin Onpa",
+      "pedal": "SSD-9 Super Sonic Distortion",
+      "types": [
+        "Distortion"
+      ],
+      "image": "",
+      "source_page": "https://www.maxonfx.com/",
+      "research_record": "",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Maxon / Nisshin Onpa",
+      "pedal": "ST-9 Super Tube Screamer",
+      "types": [
+        "Overdrive"
+      ],
+      "image": "",
+      "source_page": "https://www.maxonfx.com/",
+      "research_record": "",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Maxon / Nisshin Onpa",
+      "pedal": "ST9Pro+ Super Tube Overdrive Pro+",
+      "types": [
+        "Overdrive"
+      ],
+      "image": "",
+      "source_page": "https://www.maxonfx.com/",
+      "research_record": "",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Maxon / Nisshin Onpa",
+      "pedal": "TBO-9 True Tube Booster / Overdrive",
+      "types": [
+        "Overdrive"
+      ],
+      "image": "",
+      "source_page": "https://www.maxonfx.com/",
+      "research_record": "",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Maxon / Nisshin Onpa",
+      "pedal": "TOD-9 True Tube Overdrive",
+      "types": [
+        "Overdrive"
+      ],
+      "image": "",
+      "source_page": "https://www.maxonfx.com/",
+      "research_record": "",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
       "company": "McGregor Pedals",
       "pedal": "Crunch Plus Overdrive/Distortion",
       "types": [
@@ -47251,20 +47686,6 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Ramble FX/Marvel Drive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
-    },
-    {
-      "company": "Ramble FX",
-      "pedal": "none currently produced",
-      "types": [
-        "Distortion",
-        "Fuzz",
-        "Overdrive"
-      ],
-      "image": null,
-      "source_page": null,
-      "research_record": "./research/pedals/Ramble FX/none currently produced.md",
       "research_level": "surface",
       "deep_research_status": "PENDING"
     },
@@ -54455,90 +54876,6 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/ZVEX Effects/Woolly Mammoth 7.md",
-      "research_level": "deep",
-      "deep_research_status": "VERIFIED"
-    },
-    {
-      "company": "Big Ear NYC",
-      "pedal": "Chaka - Octave Fuzz",
-      "types": [
-        "Fuzz"
-      ],
-      "image": "",
-      "source_page": "https://www.effectsdatabase.com/model/bigear/chaka",
-      "research_record": "./research/pedals/Big Ear NYC/Chaka - Octave Fuzz.md",
-      "research_level": "deep",
-      "deep_research_status": "VERIFIED"
-    },
-    {
-      "company": "Big Joe Stomp Box Company",
-      "pedal": "B-302 ROCK",
-      "types": [
-        "Distortion"
-      ],
-      "image": "",
-      "source_page": "https://bigjoestompbox.com/products/b-302-rock",
-      "research_record": "./research/pedals/Big Joe Stomp Box Company/B-302 ROCK.md",
-      "research_level": "deep",
-      "deep_research_status": "VERIFIED"
-    },
-    {
-      "company": "Big Joe Stomp Box Company",
-      "pedal": "B-303 METAL",
-      "types": [
-        "Distortion"
-      ],
-      "image": "",
-      "source_page": "https://bigjoestompbox.com/products/b-303-metal",
-      "research_record": "./research/pedals/Big Joe Stomp Box Company/B-303 METAL.md",
-      "research_level": "deep",
-      "deep_research_status": "VERIFIED"
-    },
-    {
-      "company": "Big Joe Stomp Box Company",
-      "pedal": "B-312 FREAKSHOW FUZZ (SILICON)",
-      "types": [
-        "Fuzz"
-      ],
-      "image": "",
-      "source_page": "https://bigjoestompbox.com/products/b-312-freakshow-fuzz-silicon",
-      "research_record": "./research/pedals/Big Joe Stomp Box Company/B-312 FREAKSHOW FUZZ (SILICON).md",
-      "research_level": "deep",
-      "deep_research_status": "VERIFIED"
-    },
-    {
-      "company": "Big Joe Stomp Box Company",
-      "pedal": "B-313 FREAKSHOW FUZZ (GERMANIUM)",
-      "types": [
-        "Fuzz"
-      ],
-      "image": "",
-      "source_page": "https://bigjoestompbox.com/products/b-307g-freakshow-fuzz",
-      "research_record": "./research/pedals/Big Joe Stomp Box Company/B-313 FREAKSHOW FUZZ (GERMANIUM).md",
-      "research_level": "deep",
-      "deep_research_status": "VERIFIED"
-    },
-    {
-      "company": "Big Joe Stomp Box Company",
-      "pedal": "R-401 SATURATED",
-      "types": [
-        "Distortion"
-      ],
-      "image": "",
-      "source_page": "https://bigjoestompbox.com/products/r-401-saturated",
-      "research_record": "./research/pedals/Big Joe Stomp Box Company/R-401 SATURATED.md",
-      "research_level": "deep",
-      "deep_research_status": "VERIFIED"
-    },
-    {
-      "company": "Big Joe Stomp Box Company",
-      "pedal": "R-405 HARD",
-      "types": [
-        "Distortion"
-      ],
-      "image": "",
-      "source_page": "https://bigjoestompbox.com/products/r-405-hard",
-      "research_record": "./research/pedals/Big Joe Stomp Box Company/R-405 HARD.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED"
     }
