@@ -46822,7 +46822,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/mxr/sub-machine-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/MXR/Sub Machine Fuzz.md",
       "research_level": "deep",
@@ -52534,7 +52534,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/thorpyfx/old-timer/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/ThorpyFX/Old Timer.md",
       "research_level": "deep",
@@ -52546,7 +52546,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/thorpyfx/peacekeeper/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/ThorpyFX/Peacekeeper.md",
       "research_level": "deep",
@@ -52558,7 +52558,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/thorpyfx/rogue-trooper-fallout-cloud/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/ThorpyFX/Rogue Trooper Fallout Cloud.md",
       "research_level": "deep",
@@ -52572,7 +52572,7 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/thorpyfx/scarlet-tunic/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/ThorpyFX/SCARLET TUNIC.md",
       "research_level": "deep",
@@ -53102,7 +53102,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/universal-amplifier-corp/astrotone/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Universal Amplifier Corp/Astrotone.md",
       "research_level": "deep",
@@ -53114,7 +53114,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/universal-amplifier-corp/fuzzz-boxx/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Universal Amplifier Corp/Fuzzz Boxx.md",
       "research_level": "deep",
@@ -53234,7 +53234,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/vemuram/jan-ray-exp-mod-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Vemuram/Jan Ray EXP-Mod — overdrive.md",
       "research_level": "surface",
@@ -53246,7 +53246,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/vemuram/jan-ray-for-mateus-asato/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Vemuram/Jan Ray for Mateus Asato.md",
       "research_level": "deep",
@@ -53678,7 +53678,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/vfe-pedals/alpha-dog/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/VFE Pedals/Alpha Dog.md",
       "research_level": "deep",
@@ -53690,7 +53690,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/vfe-pedals/blues-king/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/VFE Pedals/Blues King.md",
       "research_level": "deep",
@@ -53702,7 +53702,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/vfe-pedals/dark-horse/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/VFE Pedals/Dark Horse.md",
       "research_level": "deep",
@@ -53715,7 +53715,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/vfe-pedals/distortion3/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/VFE Pedals/Distortion3.md",
       "research_level": "deep",
@@ -53740,7 +53740,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/vfe-pedals/dragon-hound/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/VFE Pedals/Dragon Hound.md",
       "research_level": "deep",

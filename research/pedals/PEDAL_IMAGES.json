@@ -25706,7 +25706,7 @@
   {
     "builder": "MXR",
     "pedal": "Sub Machine Fuzz",
-    "image": null,
+    "image": "./assets/pedals/mxr/sub-machine-fuzz/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/MXR/Sub Machine Fuzz.md"
   },
@@ -28961,28 +28961,28 @@
   {
     "builder": "ThorpyFX",
     "pedal": "Old Timer",
-    "image": null,
+    "image": "./assets/pedals/thorpyfx/old-timer/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/ThorpyFX/Old Timer.md"
   },
   {
     "builder": "ThorpyFX",
     "pedal": "Peacekeeper",
-    "image": null,
+    "image": "./assets/pedals/thorpyfx/peacekeeper/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/ThorpyFX/Peacekeeper.md"
   },
   {
     "builder": "ThorpyFX",
     "pedal": "Rogue Trooper Fallout Cloud",
-    "image": null,
+    "image": "./assets/pedals/thorpyfx/rogue-trooper-fallout-cloud/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/ThorpyFX/Rogue Trooper Fallout Cloud.md"
   },
   {
     "builder": "ThorpyFX",
     "pedal": "SCARLET TUNIC",
-    "image": null,
+    "image": "./assets/pedals/thorpyfx/scarlet-tunic/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/ThorpyFX/SCARLET TUNIC.md"
   },
@@ -29277,14 +29277,14 @@
   {
     "builder": "Universal Amplifier Corp",
     "pedal": "Astrotone",
-    "image": null,
+    "image": "./assets/pedals/universal-amplifier-corp/astrotone/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Universal Amplifier Corp/Astrotone.md"
   },
   {
     "builder": "Universal Amplifier Corp",
     "pedal": "Fuzzz Boxx",
-    "image": null,
+    "image": "./assets/pedals/universal-amplifier-corp/fuzzz-boxx/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Universal Amplifier Corp/Fuzzz Boxx.md"
   },
@@ -29354,14 +29354,14 @@
   {
     "builder": "Vemuram",
     "pedal": "Jan Ray EXP-Mod — overdrive",
-    "image": null,
+    "image": "./assets/pedals/vemuram/jan-ray-exp-mod-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Vemuram/Jan Ray EXP-Mod — overdrive.md"
   },
   {
     "builder": "Vemuram",
     "pedal": "Jan Ray for Mateus Asato",
-    "image": null,
+    "image": "./assets/pedals/vemuram/jan-ray-for-mateus-asato/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Vemuram/Jan Ray for Mateus Asato.md"
   },
@@ -29613,28 +29613,28 @@
   {
     "builder": "VFE Pedals",
     "pedal": "Alpha Dog",
-    "image": null,
+    "image": "./assets/pedals/vfe-pedals/alpha-dog/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/VFE Pedals/Alpha Dog.md"
   },
   {
     "builder": "VFE Pedals",
     "pedal": "Blues King",
-    "image": null,
+    "image": "./assets/pedals/vfe-pedals/blues-king/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/VFE Pedals/Blues King.md"
   },
   {
     "builder": "VFE Pedals",
     "pedal": "Dark Horse",
-    "image": null,
+    "image": "./assets/pedals/vfe-pedals/dark-horse/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/VFE Pedals/Dark Horse.md"
   },
   {
     "builder": "VFE Pedals",
     "pedal": "Distortion3",
-    "image": null,
+    "image": "./assets/pedals/vfe-pedals/distortion3/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/VFE Pedals/Distortion3.md"
   },
@@ -29648,7 +29648,7 @@
   {
     "builder": "VFE Pedals",
     "pedal": "Dragon Hound",
-    "image": null,
+    "image": "./assets/pedals/vfe-pedals/dragon-hound/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/VFE Pedals/Dragon Hound.md"
   },
