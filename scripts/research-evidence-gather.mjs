@@ -315,6 +315,14 @@ function searchQueries(builder,pedal,sourceHosts=[]){
     variants.push('"'+b+'" "Tone Bender"');
     variants.push('"'+b+'" "TONE BENDER M.K"');
   }
+  // Source-poor historical records need broader discovery. Keep the extra
+  // fan-out restricted to targets that have no known exact-source host.
+  if(!sourceHosts.length){
+    variants.push('"'+b+'" "'+p+'" schematic');
+    variants.push('"'+b+'" "'+p+'" teardown');
+    variants.push('site:freestompboxes.org "'+b+'" "'+p+'"');
+    variants.push('site:talkbass.com "'+b+'" "'+p+'"');
+  }
   return [...new Set(variants.filter(Boolean))];
 }
 async function targetRecord(builder,pedal,type){
