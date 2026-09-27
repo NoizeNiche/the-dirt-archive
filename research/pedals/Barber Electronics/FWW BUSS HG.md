@@ -1,29 +1,59 @@
 # Barber Electronics — FWW BUSS HG
 
 ## PRP identity
-Builder: Barber Electronics / Five Watt World. Type: Distortion / Overdrive.
+- **Archive parent:** FWW BUSS HG
+- **Builder:** Barber Electronics / Five Watt World
+- **Catalog type:** Distortion / High-Gain Overdrive
+- **Identity:** High-gain FWW BUSS variant built from B-Custom Super Sport and Barber Burn Unit circuits, with separate Super Sport/Burn Unit and High Harmonics/Ultra Dynamics switching. [1][2]
 
-## Colorways
-Blue documented.
+## What this pedal is
+Barber identifies BUSS HG as a higher-gain extension of the original FWW BUSS. It is built from the B-Custom Super Sport and Burn Unit circuits and is intended to reach further into modified-Marshall, cranked-Vox and higher-gain Dumble-style territory. [1]
 
-## Versions and version changes
-Higher-gain BUSS built from B-Custom Super Sport and Burn Unit. Volume, Tone, Drive, Super Sport/Burn Unit and High Harmonics/Ultra Dynamics. Separate named model, not a cosmetic BUSS revision.
+## Controls / switching
+- **VOLUME:** Output level.
+- **TONE:** Adjustable high-end roll-off.
+- **DRIVE:** Sustain/gain.
+- **Left toggle:** Super Sport / Burn Unit.
+- **Right toggle:** High Harmonics / Ultra Dynamics. [1]
+
+## Circuit lineage
+- **B-Custom Super Sport**
+- **Barber Burn Unit**
+- FWW collaborative architecture. [1][2]
 
 ## Transistor
-Exact device: Unknown.
+- Exact transistor/device part numbers are **not publicly documented**.
 
-## Diode
-Exact type: Unknown.
+## Diode / clipping
+- Exact clipping diode part numbers are **not publicly documented**.
+
+## Construction / hardware
+- Compact Barber hand-built production.
+- Separate higher-gain model, not a cosmetic BUSS revision.
+- Current manufacturer page documents direct-sale production. [1]
+
+## Power
+- Exact current draw and electrical specification are not established in the reviewed product page.
+
+## Version / build-history notes
+- Separate named **HG** model.
+- Distinct from the original FWW BUSS.
+- No additional numbered electronic revision established.
 
 ## Sound
-Super Sport is aggressive and British; Burn Unit is thicker. High Harmonics adds sponge/harmonics, while Ultra Dynamics opens the response.
+Barber describes Super Sport mode as classic British and more aggressive with High Harmonics; Burn Unit mode is punchier and thicker. Ultra Dynamics opens the response, while High Harmonics adds sponge-like harmonic emphasis. DRIVE controls gain/sustain through the available range. [1]
 
 ## Research confidence
-High for identity/features and colorway. Components remain unknown.
+- **Identity:** High
+- **B-Custom Super Sport/Burn Unit lineage:** High
+- **Control functions:** High
+- **Separate HG model:** High
+- **Exact transistor:** Unknown
+- **Exact diode:** Unknown
 
-## Photo
-https://images.squarespace-cdn.com/content/v1/65b06a7618b86c6c69ea8b04/937ad3c4-6b0b-415a-afe7-1000fe79bb04/BUSS_HG_BLue_edit.jpg
+## Deep research verification
+Barber's current BUSS HG page was checked against Five Watt World/independent coverage. The manufacturer source supplies exact control behavior and the distinction between Super Sport/Burn Unit and High Harmonics/Ultra Dynamics modes. [1][2]
 
-## Sources
-https://www.barberelectronics.com/fwwbusshg
-https://onethousandpedals.com/pedal/barber-fww-buss-hg
+## Sources checked
+1. Barber Electronics — FWW BUSS HG: https://www.barberelectronics.com/fwwbusshg
+2. One Thousand Pedals — Barber FWW BUSS HG: https://onethousandpedals.com/pedal/barber-fww-buss-hg
