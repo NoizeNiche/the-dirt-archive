@@ -1,23 +1,42 @@
 # Voodoo Lab — GIGGITY
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** GIGGITY
 - **Builder:** Voodoo Lab
-- **Pedal:** GIGGITY
 - **Catalog type:** Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Voodoo Lab's GIGGITY.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **GIGGITY** by **Voodoo Lab** as a **Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Voodoo Lab's GIGGITY is cataloged as an overdrive pedal.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+GIGGITY can either be placed at the front of the pedal chain like a classic overdrive or at the end, working like a front end of an amp.
+GIGGITY CONTROLS LOUDNESS – Sets the input gain for Giggity’s preamp section.
+Use low settings for clean sounds, or turn it all the way up for a little grit and compression.
+
+## Sources checked
+1. GIGGITY® Analog Overdrive + Preamp - Voodoo Lab: https://voodoolab.com/product/giggity/
+2. Voodoo Lab Giggity Analog Mastering Preamp Pedal | Sweetwater: https://www.sweetwater.com/store/detail/Giggity--voodoo-lab-giggity-analog-mastering-preamp-pedal
+3. Voodoo Lab Giggity - Reverb: https://reverb.com/p/voodoo-lab-giggity
+4. Amazon.com: https://www.amazon.com/Voodoo-Lab-Giggity-Analog-Mastering/dp/B006K1OFI6
+5. Voodoo Lab Giggity Pedal Review - Premier Guitar: https://www.premierguitar.com/gear/voodoo-lab-giggity-pedal-review
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
