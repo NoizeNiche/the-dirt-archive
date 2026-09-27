@@ -2,7 +2,7 @@
   "builder": "Mid-Fi Electronics",
   "pedal": "Glitch Computer",
   "status": "VERIFIED_EVIDENCE_STAGED",
-  "independent_exact_source_count": 6,
+  "independent_exact_source_count": 5,
   "sources": [
     {
       "url": "https://www.midfielectronics.com/glitchcomputer",
@@ -30,9 +30,9 @@
     },
     {
       "url": "https://www.effectsdatabase.com/model/midfi/glitchcomputer",
-      "title": "Mid-Fi Electronics Glitch Computer - Effects Database",
-      "h1": "",
-      "excerpt": "",
+      "title": "Mid-Fi Electronics Glitch Computer | Effects Database",
+      "h1": "Mid-Fi Electronics Glitch Computer",
+      "excerpt": "Mid-Fi Electronics Glitch Computer | Effects Database Skip to navigation Brands \u25bc 0-9... a... b... c... d... e... f... g... h... i... j... k... l... m... n... o... p... q... r... s... t... u... v... w... x... y... z... Effect types \u25bc boost distortion fuzz overdrive acoustic simulation amp simulation speaker/cabinet simulation chorus flanger phaser tremolo vibe vibrato other modulation pitch shifter octaver delay reverb looper/sampler hold/freeze eq filter wah fuzz-wah bitcrusher ring modulator samplerate reducer wavefolder synth effect granular effect multi effect vocal effect talkbox vocoder buffer compressor other... Countries \u25bc (country unknown) Argentina Australia Austria Belarus Belgium Brazil Bulgaria Canada Chile China Colombia Costa Rica Croatia Czech Republic Czechoslovakia DDR Denmark Dominican Republic Ecuador Egypt Estonia Finland France Germany Greece Hungary India Indonesia Iran Ireland Israel Italy Japan Latvia Lithuania Luxembourg Macedonia Malaysia Malta Mexico Moldova Monaco Morocco Netherlands New-Zealand Norway Panama Peru Philippines Poland Portugal Romania Russia Serbia Singapore Slovakia Slovenia South-Africa South-Korea Spain Sweden Switzerland Taiwan Thailand Turkey U.K. U.S.A. U.S.S.R. Ukraine Uruguay Venezuela Browse by \u25bc Enclosure type Modulation type Special \u25ba Classics Eye candy Funny Vaporware Weird Random brand Random effect Events \u25ba NAMM Musikmesse Music China Guitar Summit More... \u25bc Forum (opens in new tab) myFXDB (opens in new tab) Newsletter About How to get listed? Interviews Reviews Effects explained Books D.I.Y. Schematics Links Contact Install Effects Database App Search the database browse by brand M... Mid-Fi Electronics browse by type pitch/octave octaver octave fuzz octave fuzz (2 octaves down) browse by enclosure pedal Mid-Fi Electronics Glitch Computer Published on September 19, 2005 Mid-Fi Electronics octave fuzz (2 octaves down) pedal Video Date \u25bc\u25b2 Maker \u25bc\u25b2 Video \u25bc\u25b2 Time \u25bc\u25b2 2018-02-06 ProGuitarShopDemos Mid-Fi Electronics Glitch Computer 4:45 2015-07-11 RockTheEagle MidFi Glitch Computer-- Demo 4:58 2011-05-11 Bobby DeVito Bobby DeVito demo MIDFI Glitch Computer Reverend REEVES GABRELS model guitar 9:25 2008-01-27 roymystify mid-fi electronics - glitch computer pedal 5:23 Reviews NoiseGuide myFXDB user reviews No reviews yet  + Add your review Links Mid-Fi Electronics Mid-Fi Electronics Glitch Computer Where to find one? Ads! This site contains affiliate links for which I may be compensated Mid-Fi Electronics Glitch Computer for sale on eBay: World & Stores Australia Canada France Germany Italy Spain UK US Other sites your browser doesn't support AJAX? fx pedal stompbox stomp box guitar effects pedal   Searching... Twitter (opens in new tab) Facebook (opens in new tab) YouTube (opens in new tab) Instagram (opens in new tab) Privacy policy - Imprint hosted at Unix-Solutions",
       "host": "www.effectsdatabase.com",
       "source_kind": "effects_database"
     },
@@ -42,14 +42,6 @@
       "h1": "",
       "excerpt": "",
       "host": "www.talentmusicstore.com",
-      "source_kind": "other"
-    },
-    {
-      "url": "https://www.analoguehaven.com/mid-fi-electronics/glitchcomputer/",
-      "title": "Mid-Fi Electronics | Analogue Haven",
-      "h1": "",
-      "excerpt": "Mid-Fi Electronics | Analogue Haven       mid-fi electronics glitch computer price : $225.00 ---> the glitch computer is a two octave down fuzz with the ability to control tracking, enabling everything from pseudo fuzz bass, to full on random arpeggiation.",
-      "host": "www.analoguehaven.com",
       "source_kind": "other"
     }
   ],

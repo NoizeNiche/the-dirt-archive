@@ -1,23 +1,43 @@
 # Electro-Harmonix — OD Glove MOSFET Overdrive / Distortion
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** OD Glove MOSFET Overdrive / Distortion
 - **Builder:** Electro-Harmonix
-- **Pedal:** OD Glove MOSFET Overdrive / Distortion
 - **Catalog type:** Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Electro-Harmonix's OD Glove MOSFET Overdrive / Distortion.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **OD Glove MOSFET Overdrive / Distortion** by **Electro-Harmonix** as a **Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Electro-Harmonix OD Glove MOSFET Overdrive / Distortion Pedal
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+OD Glove MOSFET Overdrive / Distortion
+Not Sold Online Find Dealer Item ODGLOVE Rich, overtone laden sound that doesn’t get muddy.
+Responsive controls that take you from sparkling, clean boost through brown crunch and all the way to thick, saturated hi-gain.
+
+## Sources checked
+1. OD Glove MOSFET Overdrive / Distortion | ODGLOVE | Electro-Harmonix: https://shop.ehx.com/item/odglove/
+2. OD Glove MOSFET Overdrive / Distortion Pedal - Sweetwater: https://www.sweetwater.com/store/detail/ODGlove--electro-harmonix-od-glove-mosfet-overdrive-distortion-pedal
+3. Electro-Harmonix OD Glove MOSFET Overdrive / Distortion - Reverb: https://reverb.com/p/electro-harmonix-od-glove
+4. Electro-Harmonix OD Glove MOSFET Overdrive / Distortion Pedal | Electric Violin Shop: https://electricviolinshop.com/products/electro-harmonix-mosfet-overdrive-distortion-pedal
+5. Electro-Harmonix OD Glove MOSFET Overdrive / Distortion Pedal &ndash; Music Makers: https://www.musicmakersweb.com/products/electro-harmonix-od-glove-mosfet-overdrive-distortion-pedal
+6. Electro-Harmonix OD Glove MOSFET Overdrive / Distortion: https://gcrockboard.com/electro-harmonix-od-glove-mosfet-overdrive-distortion
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

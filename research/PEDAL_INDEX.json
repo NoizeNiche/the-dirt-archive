@@ -35371,8 +35371,8 @@
       "image": "./assets/pedals/electro-harmonix/od-glove-mosfet-overdrive-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Electro-Harmonix/OD Glove MOSFET Overdrive / Distortion.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Electro-Harmonix",
@@ -43587,8 +43587,8 @@
       "image": "./assets/pedals/mask-audio-electronics/hot-water/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mask Audio Electronics/Hot Water.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Mask Audio Electronics",
@@ -43774,8 +43774,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Maxon/Fuzz Elements Air (FA10).md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Maxon",
@@ -46487,8 +46487,8 @@
       "image": "./assets/pedals/mr-black/bb-74x/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mr. Black/BB-74x.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Mr. Black",
@@ -47475,8 +47475,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Mythos Pedals/Olympus Overdrive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Mythos Pedals",
@@ -47487,8 +47487,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Mythos Pedals/The Victor Distortion.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Mythos Pedals",
@@ -56486,8 +56486,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Wren and Cuff/Fade Font '94.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Wren and Cuff",
