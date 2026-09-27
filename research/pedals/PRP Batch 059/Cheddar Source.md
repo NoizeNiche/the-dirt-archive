@@ -1,37 +1,79 @@
-# Artisanal Effects - Cheddar Source
+# Artisanal Effects — Cheddar Source
+
+## PRP identity
+- **Archive parent:** Cheddar Source
+- **Builder:** Artisanal Effects
+- **Catalog type:** Fuzz / Overdrive
+- **Identity:** Independent dual-effect recreation combining a four-mode Big Cheese-style fuzz and a four-mode Brown Source-style overdrive in one pedal, with rear-panel access to the two effects separately. [1][2]
 
 ## What this pedal is
-Cheddar Source is Artisanal Effects' dual fuzz/overdrive recreation of the Lovetone Cheese Source, combining a four-mode Big Cheese-style fuzz with a four-mode Brown Source-style overdrive in one enclosure. The normal signal path is Fuzz into Overdrive, while independent jacks provide access to the two effects separately. [1][2]
+Artisanal Effects describes Cheddar Source as an independent recreation of the Lovetone Cheese Source. Its normal internal path is **Fuzz → Overdrive**, while additional jacks make it possible to access the fuzz and overdrive sections independently. [1]
 
-## Colorways
-- Orange and blue enclosure with Cheddar/Source artwork is documented in the builder's current product photography. [1]
+The builder explicitly states that the project is an independent recreation and not affiliated with or endorsed by Lovetone or other original manufacturers. [1]
 
-## Versions and factory options
-- Four-mode fuzz selector
-- Four-mode overdrive selector
-- Fuzz Volume / Tone controls
-- Overdrive Drive / Tone / Volume controls
-- Independent effect I/O jacks
-- 9VDC Boss-style adapter
-- 5.7 x 4.8 inch powder-coated aluminum enclosure
-- No battery snap [1]
+## Controls / architecture
+### Fuzz section
+- Four-mode selector.
+- **Volume**
+- **Tone**
+- **Fuzz**
 
-## Version changes
-No separate numbered production revision was established in the reviewed material. The defining design difference from the historical Cheese Source is the modern reproduction enclosure and current production implementation by Artisanal Effects. [1][2]
+### Overdrive section
+- Four-mode selector.
+- **Drive**
+- **Tone**
+- **Volume**
+
+### Routing / I/O
+- Normal operation: **Fuzz into Overdrive**.
+- Separate jacks are provided for independent access to each effect section. [1]
+
+## Circuit lineage
+- **Fuzz:** Lovetone Big Cheese.
+- **Overdrive:** Lovetone Brown Source.
+- Together these reproduce the two-effect architecture of the Lovetone Cheese Source. [1][2]
 
 ## Transistor
-- Exact production transistor/device part numbers are not publicly documented.
+- Exact transistor/device part numbers are **not publicly documented** in the reviewed product material.
 
-## Diode
-- Exact clipping component/diode part numbers are not publicly documented.
+## Diode / clipping
+- Exact clipping diode/device part numbers are **not publicly documented** in the reviewed product material.
+
+## Construction / hardware
+The current builder page documents:
+- Combined Big Cheese + Brown Source circuit set.
+- Four modes per section.
+- Independent effect access via additional rear jacks.
+- Modern reproduction enclosure and current production hardware.
+- Artisanal Effects lists standard **9VDC Boss-style adapter power** for this product family in its current documentation.
+Exact internal board layout and semiconductor part numbers are not published in the reviewed product material. [1][2]
+
+## Version / build-history notes
+- No separate numbered production revision was established.
+- The defining configuration is the dual fuzz/overdrive architecture with independent access to the two sections.
+- This record should remain distinct from the standalone Artisanal Cheese because Cheddar Source contains both circuits. [1]
 
 ## Sound
-The fuzz side offers bypassed, scooped-mid, flat-mid, and deliberately under-biased “cheese” modes, ranging from conventional fuzz toward fizzy, sputtering textures. The overdrive side provides a separate multi-mode gain stage, and the two sections can be stacked for a larger, more layered dirt sound. [1]
+The fuzz side supplies multiple Big Cheese-derived textures, including the characteristic restricted/overbiased “cheese” mode. The overdrive side supplies the Brown Source-derived gain stage. Running them in sequence creates the builder's intended layered dirt path, while the independent jacks allow the sections to be used separately. [1]
+The archive does not infer exact component values or a measured frequency response.
+
+## Research confidence
+- **Identity:** High
+- **Big Cheese + Brown Source architecture:** High
+- **Four modes per side:** High
+- **Fuzz→Overdrive routing:** High
+- **Independent effect I/O:** High
+- **Exact transistor:** Unknown
+- **Exact diode:** Unknown
+- **Exact component values:** Unknown
+
+## Deep research verification
+The current Artisanal Effects product page was checked directly and cross-referenced with One Thousand Pedals. The evidence confirms the dual Lovetone-derived circuit architecture, four-mode sections, normal Fuzz→Overdrive routing and independent effect access. Component-level details remain explicitly unresolved where the builder does not publish them. [1][2]
 
 ## Sources checked
-1. Artisanal Effects - Cheddar Source dual fuzz/overdrive: https://artisanaleffects.com/products/cheddar-source-cheese-source-tm-replica
-2. One Thousand Pedals - Artisanal Effects Cheddar Source: https://onethousandpedals.com/pedal/artisanal-effects-cheddar-source
+1. Artisanal Effects — Cheddar Source dual fuzz/overdrive: https://artisanaleffects.com/products/cheddar-source-cheese-source-tm-replica
+2. One Thousand Pedals — Artisanal Effects Cheddar Source: https://onethousandpedals.com/pedal/artisanal-effects-cheddar-source
 
 ## Photo
 - **Archive status:** **Exact Photo Archived**
-- **Image source:** Artisanal Effects exact-model product photograph.
+- **Image source:** Artisanal Effects exact-model product photography.
