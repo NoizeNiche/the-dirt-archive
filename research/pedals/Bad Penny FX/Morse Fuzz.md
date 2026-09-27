@@ -4,34 +4,44 @@
 - **Archive parent:** Morse Fuzz
 - **Builder:** Bad Penny FX
 - **Catalog type:** Fuzz
-- **Identity:** Bad Penny FX's Morse Fuzz.
+- **Identity:** Bad Penny FX fuzz pedal documented in surviving retailer product photography and archive material; technical component documentation is sparse. [1]
 
 ## What this pedal is
-Bad Penny FX's Morse Fuzz is cataloged as a Fuzz pedal.
+The surviving exact-model product record confirms Morse Fuzz as a Bad Penny FX fuzz pedal. The available evidence is primarily historical product/retailer material rather than a surviving manufacturer schematic, so the archive keeps its technical fields conservative. [1]
 
-## Colorways
-- No specific factory colorway information was established in the verified evidence packet.
-
-## Versions and factory options
-- No distinct factory revision was established in the verified evidence packet.
-
-## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+## Controls / architecture
+- Complete authoritative control map not established from the surviving source.
+- Exact gain topology and clipping network are unknown.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
-- **Exact transistor/device:** Unknown.
+- Exact transistor/device type is not publicly documented.
 
-## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
-- **Exact part:** Unknown.
+## Diode / clipping
+- Exact clipping device is not publicly documented.
+
+## Power
+- A reliable exact-model supply specification was not established from the reviewed source.
+
+## Version history
+- No numbered revision established.
 
 ## Sound
-Bad Penny FX Morse Fuzz &ndash; Gear Hero Skip to content MENU CATEGORY Exclusives Instruments Instruments Guitars Amps Percussion Pedals Other SALE SALE Mr Intermittent&#39;s Epic Purge CLEARANCE!
-Most Popular Categories See All Categories Percussion 31 items Guitars 8 items Exclusives and Customs 2 items Outlet 13 items Hello, sign in Account List sign in Create account 0 Home Bad Penny FX Morse Fuzz Skip to product information <img srcset="//gearhero.com/cdn/shop/products/a2fe443d-4533-4ef4-a745-05aec6f72da0.jpg?v=1603730795&width=493 493w, //gearhero.com/cdn/shop/products/a2fe443d-4533-4ef4-a745-05aec6f72da0.jpg?v=1603730795&width=600 600w, //gearhero.com/cdn/shop/products/a2fe443d-4533-4ef4-a745-05aec6f72da0.jpg?v=1603730795&width=713 713w, //gearhero.com/cdn/shop/products/a2fe443d-4533-4ef4-a745-05aec6f72da0.jpg?v=1603730795&width=823 823w, //gearhero.com/cdn/shop/products/a2fe443d-4533-4ef4-a745-05aec6f72da0.jpg?v=1603730795&width=990 990w, //gearher
+The surviving product record identifies Morse Fuzz as a fuzz unit but does not preserve enough authoritative descriptive material for a detailed circuit-specific sonic profile. [1]
+
+## Research confidence
+- **Identity:** High
+- **Fuzz classification:** High
+- **Exact controls:** Unknown
+- **Exact active device:** Unknown
+- **Exact diode:** Unknown
+- **Power:** Not established
+
+## Deep research verification
+The exact Gear Hero product record was rechecked. It confirms the model identity and historical product presentation but does not expose sufficient reliable technical data to justify further component-level claims. [1]
 
 ## Sources checked
-1. Bad Penny FX Morse Fuzz &ndash; Gear Hero: https://gearhero.com/products/bad-penny-fx-morse-fuzz
+1. Gear Hero — Bad Penny FX Morse Fuzz: https://gearhero.com/products/bad-penny-fx-morse-fuzz
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** **No Photo Archived**
+- **Exact-model reference checked:** Gear Hero exact-model product page.
