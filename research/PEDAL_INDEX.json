@@ -25238,10 +25238,10 @@
         "Fuzz"
       ],
       "image": "./assets/pedals/coleman/angry-dragon-mkii-germanium-fuzz/primary.webp",
-      "source_page": null,
+      "source_page": "https://www.effectsdatabase.com/model/coleman/angrydragon",
       "research_record": "./research/pedals/Coleman/Angry Dragon mkII - Germanium Fuzz.md",
-      "research_level": "researched",
-      "deep_research_status": "PENDING_REVIEW"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Coleman",
@@ -30249,10 +30249,10 @@
         "Overdrive"
       ],
       "image": "./assets/pedals/danelectro/blue-paisley-puredrive/primary.webp",
-      "source_page": null,
+      "source_page": "https://reverb.com/item/54993394-danelectro-pd-01-blue-paisley-pure-drive-pedal-3065145692",
       "research_record": "./research/pedals/Danelectro/Blue Paisley PureDrive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Danelectro",
@@ -30715,10 +30715,10 @@
         "Distortion"
       ],
       "image": "./assets/pedals/daredevil-pedals/necros-fuzz-distortion/primary.webp",
-      "source_page": null,
+      "source_page": "https://www.daredevilpedals.com/",
       "research_record": "./research/pedals/Daredevil Pedals/Necros Fuzz / Distortion.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Daredevil Pedals",
@@ -31220,10 +31220,10 @@
         "Distortion"
       ],
       "image": "./assets/pedals/deadastronautfx/skinwalker/primary.webp",
-      "source_page": null,
+      "source_page": "https://deadastronaut.wixsite.com/effects",
       "research_record": "./research/pedals/DeadastronautFX/Skinwalker.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "DeadastronautFX",
@@ -31314,10 +31314,10 @@
         "Overdrive"
       ],
       "image": "./assets/pedals/death-by-audio/echo-dream-2-fuzz-function/primary.webp",
-      "source_page": null,
+      "source_page": "https://deathbyaudio.com/products/echo-dream-2",
       "research_record": "./research/pedals/Death By Audio/Echo Dream 2 (fuzz function).md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Death By Audio",
