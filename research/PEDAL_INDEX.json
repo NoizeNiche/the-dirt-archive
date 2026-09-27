@@ -34424,8 +34424,8 @@
       "image": "./assets/pedals/earthquaker-devices/hoof/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/EarthQuaker Devices/Hoof.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "EarthQuaker Devices",
@@ -34810,8 +34810,8 @@
       "image": "./assets/pedals/earthquaker-devices/westwood/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/EarthQuaker Devices/Westwood.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "EarthQuaker Devices",
@@ -35803,8 +35803,8 @@
       "image": "./assets/pedals/empress-effects/multidrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Empress Effects/Multidrive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Empress Effects Inc.",
@@ -41316,8 +41316,8 @@
       "image": "./assets/pedals/khdk-electronics/paranormal/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/KHDK Electronics/Paranormal.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "KHDK Electronics",
@@ -41515,8 +41515,8 @@
       "image": "./assets/pedals/king-tone-guitar/heavyhand/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/King Tone Guitar/Heavyhand.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "King Tone Guitar",
@@ -42537,8 +42537,8 @@
       "image": "./assets/pedals/lovepedal/purple-plexi/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Lovepedal/Purple Plexi.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Lovepedal",
@@ -43490,8 +43490,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Marshall Amplification/Supa Fuzz.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Mask Audio Electronics",
@@ -53784,8 +53784,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Vertex Effects/Steel String.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Vertex Effects",
@@ -56393,8 +56393,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Wren and Cuff/Blue-Violet Caprid Small Foot.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Wren and Cuff",
