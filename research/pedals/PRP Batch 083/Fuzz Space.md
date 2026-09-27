@@ -27,3 +27,6 @@ Creamy, sustaining vintage fuzz that cleans up when the guitar volume is rolled 
 
 ## Photo
 - **Archive status:** **No Photo Archived**
+
+## Deep research verification
+Big Knob's current catalog describes Fuzz Space as a super-charged recreation of a classic fuzz using **matched NOS Russian military germanium transistors**. The builder lists Level and Attack controls, hand-wired construction, true-bypass switching and battery/power support. Exact transistor part numbers are not given in the public product description. citeturn302732search0
