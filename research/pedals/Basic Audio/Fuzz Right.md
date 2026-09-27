@@ -4,53 +4,55 @@
 - **Archive parent:** Fuzz Right
 - **Builder:** Basic Audio
 - **Catalog type:** Fuzz
-- **Identity:** Basic Audio's Germanium take on the Mosrite Fuzz Rite.
+- **Identity:** Germanium fuzz based on the Mosrite Fuzz Rite family, expanded with additional low-end and fuzz controls. [1][2]
 
 ## What this pedal is
-Fuzz Right is an aggressive Germanium fuzz based on the Mosrite Fuzz Rite. Basic Audio adds extra control over low-end weight and fuzz intensity, keeping the coarse, cutting character associated with the original family while giving the player more room to shape it. [1][2]
+Basic Audio's Fuzz Right takes the coarse, aggressive Fuzz Rite concept and gives the player more control over low-end weight and fuzz intensity. It is intentionally retained as a Germanium fuzz rather than a silicon recreation. [1]
 
-## Colorways
-- A **pale green/blue enclosure with a black-and-silver faceplate** is documented in Basic Audio's official photograph.
-- Basic Audio notes that pedal colors are subject to change, so this is a documented finish rather than a fixed production color. [1]
+## Controls / architecture
+- **FUZZ**
+- **VOLUME / LEVEL**
+- Added low-end shaping control.
+- **TONE/OUTPUT shaping** is documented in the builder's product presentation.
+- Exact printed control labels vary across surviving examples, so the archive does not force an unsupported universal label map. [1][2]
 
-## Versions and factory options
-### Fuzz Right production
-- Germanium fuzz
-- Mosrite Fuzz Rite basis
-- added low-end boost control
-- added fuzz control
-- center-negative 9V operation
-- battery snap [1]
-
-No numbered factory revision was verified in the sources checked.
-
-## Version changes
-No reliable numbered production revision sequence was found. Fuzz Right remains one parent identity in the archive.
+## Circuit lineage
+- **Primary reference:** Mosrite Fuzz Rite.
+- Basic Audio's implementation is a modern interpretation rather than a claim of untouched historical component equivalence. [1]
 
 ## Transistor
-- **Technology:** Germanium. [1]
-- **Exact transistor/device:** Unknown.
+- **Technology:** Germanium.
+- Exact production device part number is not publicly documented. [1]
 
-## Diode
-- **Type:** Not publicly documented.
-- **Exact diode/device:** Unknown.
+## Diode / clipping
+- Exact clipping-device type and part number are not publicly documented.
+
+## Power
+- **9V center-negative** operation with battery support. [1]
+
+## Version history
+- No numbered electronic revision established.
+- Cosmetic finishes are treated as colorways.
 
 ## Sound
-Fuzz Right is voiced toward the brash, coarse and cutting side of Fuzz Rite-style fuzz, but the added low-end control allows the sound to be made thicker than a lean vintage example. It is especially suited to aggressive single-note lines and abrasive chords, with the Germanium character keeping the fuzz less rigid than a typical silicon reproduction. [1][2]
+Fuzz Right stays on the brash and cutting side of the Fuzz Rite family, with extra low-end control making it possible to add weight without losing the abrasive character. [1][2]
 
 ## Research confidence
 - **Identity:** High
-- **Germanium technology:** High
-- **Factory revision history:** Moderate
+- **Germanium implementation:** High
+- **Fuzz Rite lineage:** High
 - **Exact transistor:** Unknown
-- **Diode:** Unknown
-- **Sound:** High
+- **Exact diode:** Unknown
+- **Control labels:** Medium, due to historical presentation differences
 
-## Photo
-- **Exact pedal photograph:** Basic Audio official product photograph.
-- **Direct image:** https://images.squarespace-cdn.com/content/v1/5da9e97016ddf940acffa2d3/1574394149144-8L0MKI1O8H38Q07GW8A6/IMG_0802-Edit.jpg
-- **Source page:** https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-cnzrr-ksfg5-kba26-5yxez-twy6r-snkj6-rafma
+## Deep research verification
+Basic Audio's product record was cross-checked against Guitar Pedal X's fuzz overview. Both support the Germanium Fuzz Rite lineage and the expanded control concept; exact factory semiconductor details remain unpublished. [1][2]
 
 ## Sources checked
 1. Basic Audio — Fuzz Right: https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-cnzrr-ksfg5-kba26-5yxez-twy6r-snkj6-rafma
 2. Guitar Pedal X — 12 Degrees of Saturation: https://www.guitarpedalx.com/news/gpx-blog/12-degrees-of-saturation---2020-key-fuzz-categories-edition
+
+## Photo
+- **Exact pedal photograph:** Basic Audio official product photograph.
+- **Direct image:** https://images.squarespace-cdn.com/content/v1/5da9e97016ddf940acffa2d3/1574394149144-8L0MKI1O8H38Q07GW8A6/IMG_0802-Edit.jpg
+- **Source page:** Basic Audio Fuzz Right.
