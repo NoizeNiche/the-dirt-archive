@@ -31396,6 +31396,66 @@
       "deep_research_status": "VERIFIED"
     },
     {
+      "company": "Dirty Boy Pedals / Dirty Boy Co.",
+      "pedal": "AFRO FUZZ",
+      "types": [
+        "Fuzz"
+      ],
+      "image": "",
+      "source_page": "https://www.dirtyboy.co/pages/our-effects",
+      "research_record": "",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Dirty Boy Pedals / Dirty Boy Co.",
+      "pedal": "JUNIOR DB Fuzz / Dirty Boy Jr. Fuzz",
+      "types": [
+        "Fuzz"
+      ],
+      "image": "",
+      "source_page": "https://warmaudio.com/brand-assets",
+      "research_record": "",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Dirty Boy Pedals / Dirty Boy Co.",
+      "pedal": "JUNIOR DB Overdrive / Dirty Boy Jr. Overdrive",
+      "types": [
+        "Overdrive"
+      ],
+      "image": "",
+      "source_page": "https://warmaudio.com/dirty-boy-jr-overdrive",
+      "research_record": "",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Dirty Boy Pedals / Dirty Boy Co.",
+      "pedal": "PREAMP",
+      "types": [
+        "Overdrive"
+      ],
+      "image": "",
+      "source_page": "https://www.dirtyboy.co/products/dirtyboy-preamp",
+      "research_record": "",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
+      "company": "Dirty Boy Pedals / Dirty Boy Co.",
+      "pedal": "The Magical MYSTERY FUZZ",
+      "types": [
+        "Fuzz"
+      ],
+      "image": "",
+      "source_page": "https://www.dirtyboy.co/products/the-magical-mystery-fuzz",
+      "research_record": "",
+      "research_level": "surface",
+      "deep_research_status": "PENDING"
+    },
+    {
       "company": "DLS Effect",
       "pedal": "Reckless Driver",
       "types": [
