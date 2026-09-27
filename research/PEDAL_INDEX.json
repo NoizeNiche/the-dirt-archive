@@ -1,5 +1,5 @@
 {
-  "version": "data-20260927-historical-census-sweep-07i",
+  "version": "data-20260927-historical-census-sweep-07k",
   "count": 4242,
   "pedals": [
     {
@@ -30693,8 +30693,8 @@
       "image": "./assets/pedals/daredevil-pedals/l-s-d/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Daredevil Pedals/L.S.D.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Daredevil Pedals",
@@ -30835,8 +30835,8 @@
       "image": "./assets/pedals/daredevil-pedals/ron-asheton-real-cool-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Daredevil Pedals/Ron Asheton Real Cool Fuzz.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Daredevil Pedals",
@@ -30883,8 +30883,8 @@
       "image": "./assets/pedals/daredevil-pedals/the-chicago-rat-selectable-high-gain-distortion-mode/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Daredevil Pedals/the Chicago Rat — selectable high-gain distortion mode.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Daredevil Pedals",
@@ -30895,8 +30895,8 @@
       "image": "./assets/pedals/daredevil-pedals/the-chicago-rat-selectable-over-clipped-fuzz-mode/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Daredevil Pedals/the Chicago Rat — selectable over-clipped fuzz mode.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Daredevil Pedals",
