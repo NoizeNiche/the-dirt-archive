@@ -1,63 +1,74 @@
-# BBE - G Screamer
+# BBE Sound — G Screamer OG-1
 
 ## PRP identity
 - **Archive parent:** G Screamer
 - **Builder:** BBE Sound
 - **Catalog type:** Overdrive
-- **Identity:** Gus G signature overdrive based on the BBE Green Screamer platform with a modified input-driver stage for more focused lower-mid harmonics.
+- **Identity:** Gus G signature overdrive based on BBE's Green Screamer platform, with a modified input-driver stage designed to focus additional lower-mid harmonics. [1][2]
 
 ## What this pedal is
-The G Screamer OG-1 is BBE's Gus G signature overdrive. BBE says Gus G and Paul Gagon modified the input driver feeding the distortion circuit so the pedal emphasizes lower-mid harmonics for a tighter, focused high-gain drive response.
+BBE developed the G Screamer with Gus G and Paul Gagon as a refinement of the Green Screamer concept. The stated design goal was to push more lower-mid harmonic content into the distortion stage for a tighter, more focused high-gain response. [1]
 
-## Colorways
-- The documented production finish is a black enclosure with white graphics, blue status LED, and Gus G signature artwork.
-- No factory colorway chronology was verified.
+## Controls
+- **GAIN**
+- **LEVEL**
+- **TONE**
+- True hardwire bypass.
+- Blue status LED.
+- Easy-access battery compartment. [1][2]
 
-## Versions and factory options
-### G Screamer OG-1
-- Gain, Level, Tone
-- Modified classic sequential-diode distortion circuit
-- 1 MOhm input impedance
-- 10 kOhm output impedance when engaged
-- True hardwire bypass
-- 9V battery / optional 9V DC supply
-- Blue status LED
+## Circuit architecture
+- Modified classic **sequential-diode distortion** circuit.
+- Modified input driver feeding the distortion section.
+- BBE describes the input-stage modification as the main tonal change from the Green Screamer.
+- **1MΩ input impedance** is specified for pickup loading.
+- **10kΩ output impedance** is specified when engaged. [1]
 
-## Version changes
-No numbered factory revision of the OG-1 was established in the checked sources. It should not be merged with the later Green Screamer v2, which is a separate redesigned model.
+## Active device
+- Exact op-amp/transistor part numbers are not publicly documented in the reviewed BBE sources.
 
-## Transistor
-- **Technology:** Analog diode-clipping overdrive.
-- **Exact transistor/op-amp device:** Not publicly documented in the checked sources.
+## Diode / clipping
+- **Sequential-diode clipping:** Explicitly documented.
+- Exact diode materials and part numbers are not published. [1][2]
 
-## Diode
-- **Published circuit description:** Modified sequential-diode distortion circuit.
-- **Exact diode part numbers:** Not publicly documented.
+## Construction / components
+BBE specifies:
+- **1% metal-film resistors** for consistency.
+- **High-voltage poly capacitors**.
+- **Military-spec circuit board**.
+- True hardwire bypass.
+- Designed and engineered in the USA; made in China. [1]
+
+## Power
+- **Single 9V battery** or optional 9V DC power supply.
+- Manual/retailer documentation gives a 200mA-rated external supply requirement. [2]
+- No battery-free power configuration is documented as the sole required method.
+
+## Version history
+- **G Screamer OG-1:** Gus G signature model introduced in 2013.
+- The archive keeps it separate from later Green Screamer generations because the product is documented as a distinct signature design. [3]
 
 ## Sound
-The G Screamer is voiced for tighter, more focused overdrive and distortion, with the modified input stage concentrating lower-mid harmonics. The three-control layout keeps the pedal direct and amp-facing, making it suitable for pushing an already driven rig as well as shaping a tighter lead sound.
+Gus G and BBE describe the modified input stage as concentrating lower-mid harmonics for a cleaner and tighter distortion response. BBE's product language emphasizes a more focused high-gain voice with strong harmonic drive. [1][3]
+
+## Research confidence
+- **Identity:** High
+- **Gus G / BBE collaboration:** High
+- **Sequential-diode architecture:** High
+- **Modified lower-mid input emphasis:** High
+- **1MΩ / 10kΩ impedance:** High
+- **1% metal-film / high-voltage poly / military PCB:** High
+- **Exact active device:** Unknown
+- **Exact diode part:** Unknown
+
+## Deep research verification
+BBE's official product page and its 2013 launch announcement were checked directly, with the surviving manual specification used for power details. The official sources establish the sequential-diode distortion architecture, modified input driver, control set, impedance and construction details. [1][2][3]
 
 ## Sources checked
-1. BBE Sound official G Screamer page: https://bbesound.com/products/stomp-boxes/G-Screamer_OG-1.aspx
-2. Effects Database, BBE OG-1 G Screamer: https://www.effectsdatabase.com/model/bbe/gscreamer
-3. BBE Sound News, Gus G demonstrates the G Screamer: https://www.bbesound.com/news/articles/Gus-G-Screamer.html
+1. BBE Sound — G Screamer OG-1: https://bbesound.com/products/stomp-boxes/G-Screamer_OG-1.aspx
+2. Search Manual — BBE G Screamer OG-1 manual/specification: https://www.search-manual.com/bbe-sound-g-screamer-og-1-gus-g-signature-overdrive-pedal-262311-manual
+3. Premier Guitar — BBE releases Gus G OG-1 Signature Overdrive: https://www.premierguitar.com/bbe-releases-gus-g-og-1-signature-overdrive
 
 ## Photo
 - **Archive status:** **No Photo Archived**
-- Exact-model imagery was confirmed visually, but no stable directly retrievable image asset met the archive's photo standard during this pass.
-
-## Deep research verification
-
-This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
-
-### Verified description
-Gus' new G Screamer signature overdrive is a thundering example.
-
-### Verified sound evidence
-BBE OG-1 G Screamer - Gus G signature Overdrive
-Gus' new G Screamer signature overdrive is a thundering example.
-For years, the BBE Green Screamer was Gus' overdrive pedal of choice.
-
-### Sources checked in this pass
-1. catalog/override source: https://www.guitarcenter.com/BBE/Used-BBE-G-Screamer-OG1-Gus-G-Signature-Overdrive-Effect-Pedal-121885358.gc
-2. BBE OG-1 G Screamer - Gus G signature Overdrive | Effects Database: https://www.effectsdatabase.com/model/bbe/gscreamer
+- **Exact-model reference checked:** BBE official product page.
