@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-27T02:37:34.467963+00:00",
+  "generated_at": "2026-09-27T02:50:45.924090+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,25 +10,18 @@
     "pictured": 3019,
     "complete": 3019,
     "research_pending": 0,
-    "deep_research_pending": 2048,
-    "deep_researched": 1713,
+    "deep_research_pending": 2009,
+    "deep_researched": 1752,
     "surface_ready": 3761
   },
   "next_target": {
     "builder": "Barbarossa",
-    "pedal": "CHIMAERA",
+    "pedal": "CRONUS",
     "catalog_type": "",
-    "research_record": "./research/pedals/Barbarossa/Chimaera.md",
+    "research_record": "./research/pedals/Barbarossa/Cronus.md",
     "research_level": "surface"
   },
   "working_set": [
-    {
-      "builder": "Barbarossa",
-      "pedal": "CHIMAERA",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Barbarossa/Chimaera.md",
-      "research_level": "surface"
-    },
     {
       "builder": "Barbarossa",
       "pedal": "CRONUS",
@@ -58,143 +51,150 @@
       "research_level": "surface"
     },
     {
-      "builder": "BearFoot FX",
-      "pedal": "Arctic White Fuzz",
+      "builder": "BFFX Boutique Pedals",
+      "pedal": "Demon D",
       "catalog_type": "",
-      "research_record": "./research/pedals/BearFoot FX/Arctic White Fuzz.md",
+      "research_record": "./research/pedals/PRP Batch 080/Demon D.md",
       "research_level": "surface"
     },
     {
-      "builder": "BearFoot FX",
-      "pedal": "BlueBerry Bass Overdrive",
+      "builder": "BFFX Boutique Pedals",
+      "pedal": "Guitarlab1",
       "catalog_type": "",
-      "research_record": "./research/pedals/BearFoot FX/BlueBerry Bass Overdrive.md",
+      "research_record": "./research/pedals/PRP Batch 080/Guitarlab1.md",
       "research_level": "surface"
     },
     {
-      "builder": "BearFoot FX",
-      "pedal": "Burgundy BossHorn Fuzz",
+      "builder": "BFFX Boutique Pedals",
+      "pedal": "Kairen",
       "catalog_type": "",
-      "research_record": "./research/pedals/BearFoot FX/Burgundy BossHorn Fuzz.md",
+      "research_record": "./research/pedals/PRP Batch 080/Kairen.md",
       "research_level": "surface"
     },
     {
-      "builder": "BearFoot FX",
-      "pedal": "Candy Apple Fuzz",
+      "builder": "BFFX Boutique Pedals",
+      "pedal": "Sublime",
       "catalog_type": "",
-      "research_record": "./research/pedals/BearFoot FX/Candy Apple Fuzz.md",
+      "research_record": "./research/pedals/PRP Batch 080/Sublime.md",
       "research_level": "surface"
     },
     {
-      "builder": "BearFoot FX",
-      "pedal": "Dyna Red Distortion",
+      "builder": "Bias",
+      "pedal": "BDS-1 Distortion",
       "catalog_type": "",
-      "research_record": "./research/pedals/BearFoot FX/Dyna Red Distortion.md",
+      "research_record": "./research/pedals/PRP Batch 080/BDS-1 Distortion.md",
       "research_level": "surface"
     },
     {
-      "builder": "BearFoot FX",
-      "pedal": "Emerald Green Distortion Machine",
+      "builder": "Bias",
+      "pedal": "Bias Distortion",
       "catalog_type": "",
-      "research_record": "./research/pedals/BearFoot FX/Emerald Green Distortion Machine.md",
+      "research_record": "./research/pedals/PRP Batch 080/Bias Distortion.md",
       "research_level": "surface"
     },
     {
-      "builder": "BearFoot FX",
-      "pedal": "Honey Bee Overdrive",
+      "builder": "Bias",
+      "pedal": "Bias Over Drive",
       "catalog_type": "",
-      "research_record": "./research/pedals/BearFoot FX/Honey Bee Overdrive.md",
+      "research_record": "./research/pedals/PRP Batch 080/Bias Over Drive.md",
       "research_level": "surface"
     },
     {
-      "builder": "BearFoot FX",
-      "pedal": "Silver Bee Overdrive",
+      "builder": "Big Bite Fx",
+      "pedal": "Big Bite",
       "catalog_type": "",
-      "research_record": "./research/pedals/BearFoot FX/Silver Bee Overdrive.md",
+      "research_record": "./research/pedals/PRP Batch 080/Big Bite.md",
       "research_level": "surface"
     },
     {
-      "builder": "BearFoot FX",
-      "pedal": "Über Bee Overdrive",
+      "builder": "Big Ear",
+      "pedal": "Black Betty",
       "catalog_type": "",
-      "research_record": "./research/pedals/BearFoot FX/Über Bee Overdrive.md",
+      "research_record": "./research/pedals/PRP Batch 080/Black Betty.md",
       "research_level": "surface"
     },
     {
-      "builder": "Beetronics FX",
-      "pedal": "Abelha Tropical Fuzz",
+      "builder": "Big Ear",
+      "pedal": "LOAF",
       "catalog_type": "",
-      "research_record": "./research/pedals/Beetronics FX/Abelha Tropical Fuzz.md",
+      "research_record": "./research/pedals/PRP Batch 080/LOAF.md",
       "research_level": "surface"
     },
     {
-      "builder": "Beetronics FX",
-      "pedal": "Fatbee",
+      "builder": "Big Ear",
+      "pedal": "Slice of Pie",
       "catalog_type": "",
-      "research_record": "./research/pedals/Beetronics FX/Fatbee.md",
+      "research_record": "./research/pedals/PRP Batch 081/Slice of Pie.md",
       "research_level": "surface"
     },
     {
-      "builder": "Beetronics FX",
-      "pedal": "Nectar Tone Sweetener",
+      "builder": "Big Ear",
+      "pedal": "Woodcutter",
       "catalog_type": "",
-      "research_record": "./research/pedals/Beetronics FX/Nectar Tone Sweetener.md",
+      "research_record": "./research/pedals/PRP Batch 081/Woodcutter.md",
       "research_level": "surface"
     },
     {
-      "builder": "Beetronics FX",
-      "pedal": "Octahive V2",
+      "builder": "Big Ear NYC",
+      "pedal": "Black Betty",
       "catalog_type": "",
-      "research_record": "./research/pedals/Beetronics FX/Octahive V2.md",
+      "research_record": "./research/pedals/PRP Batch 081/Black Betty.md",
       "research_level": "surface"
     },
     {
-      "builder": "Beetronics FX",
-      "pedal": "Overhive",
+      "builder": "Big Ear NYC",
+      "pedal": "Frank",
       "catalog_type": "",
-      "research_record": "./research/pedals/Beetronics FX/Overhive.md",
+      "research_record": "./research/pedals/PRP Batch 081/Frank.md",
       "research_level": "surface"
     },
     {
-      "builder": "Beetronics FX",
-      "pedal": "Royal Jelly",
+      "builder": "Big Ear NYC",
+      "pedal": "Slice Of Pie",
       "catalog_type": "",
-      "research_record": "./research/pedals/Beetronics FX/Royal Jelly.md",
+      "research_record": "./research/pedals/PRP Batch 081/Slice Of Pie.md",
       "research_level": "surface"
     },
     {
-      "builder": "Beetronics FX",
-      "pedal": "Swarm Fuzz Harmonizer",
+      "builder": "Big Ear NYC",
+      "pedal": "The LOAF Fuzz",
       "catalog_type": "",
-      "research_record": "./research/pedals/Beetronics FX/Swarm Fuzz Harmonizer.md",
+      "research_record": "./research/pedals/PRP Batch 081/The LOAF Fuzz.md",
       "research_level": "surface"
     },
     {
-      "builder": "Beetronics FX",
-      "pedal": "Tuna Fuzz",
+      "builder": "Big Ear NYC",
+      "pedal": "Woodcutter",
       "catalog_type": "",
-      "research_record": "./research/pedals/Beetronics FX/Tuna Fuzz.md",
+      "research_record": "./research/pedals/PRP Batch 081/Woodcutter NYC.md",
       "research_level": "surface"
     },
     {
-      "builder": "Beetronics FX",
-      "pedal": "Vezzpa Octave Stinger",
+      "builder": "Big Game Pedals",
+      "pedal": "Bedlam Drive III",
       "catalog_type": "",
-      "research_record": "./research/pedals/Beetronics FX/Vezzpa Octave Stinger.md",
+      "research_record": "./research/pedals/PRP Batch 081/Bedlam Drive III.md",
       "research_level": "surface"
     },
     {
-      "builder": "Behringer",
-      "pedal": "Bass Brassmaster",
+      "builder": "Big Game Pedals",
+      "pedal": "Everything is Alive - Modulated Resonant Fuzz",
       "catalog_type": "",
-      "research_record": "./research/pedals/Behringer/Bass Brassmaster.md",
+      "research_record": "./research/pedals/PRP Batch 081/Everything is Alive - Modulated Resonant Fuzz.md",
       "research_level": "surface"
     },
     {
-      "builder": "Behringer",
-      "pedal": "Fuzz Bender",
+      "builder": "Big Game Pedals",
+      "pedal": "FY-2 Fuzz",
       "catalog_type": "",
-      "research_record": "./research/pedals/Behringer/Fuzz Bender.md",
+      "research_record": "./research/pedals/PRP Batch 081/FY-2 Fuzz.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Big Game Pedals",
+      "pedal": "Nothing Is Dead Fuzz",
+      "catalog_type": "",
+      "research_record": "./research/pedals/PRP Batch 082/Nothing Is Dead Fuzz.md",
       "research_level": "surface"
     }
   ]
