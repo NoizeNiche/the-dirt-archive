@@ -4,29 +4,39 @@
 - **Archive parent:** FY-2 Fuzz
 - **Builder:** Big Game Pedals
 - **Catalog type:** Fuzz
-- **Identity:** Big Game Pedals' modified germanium FY-2-style fuzz.
+- **Identity:** Big Game's modified germanium FY-2-style fuzz.
 
 ## What this pedal is
-Pedal of the Day documents the FY-2 as a modified germanium fuzz. The design adds a Shift control for scooped versus more mid-focused voices, a bass switch and an output boost to address the low-volume behavior of vintage FY-2-type units.
+Pedal of the Day documents this FY-2 as a modified germanium fuzz intended to retain the vintage FY-2 character while addressing its limited output and tonal range.
 
-## Controls
-- **Shift:** Moves the voicing from scooped toward more mid-focused response.
-- **Bass switch:** Adds low-end options.
+## Controls / modifications
+- **Shift:** Moves the voicing between a scooped and more mid-focused response.
+- **Bass:** Low-end voicing switch.
 - **Volume:** Output.
-- **Fuzz:** Dirt/fuzz amount.
-- Internal/added boost stage increases available output.
+- **Fuzz:** Fuzz amount.
+- Added boost circuitry increases available output.
 
 ## Circuit / components
-- Uses **2N1306 germanium transistors** according to the review.
-- Exact diode arrangement was not established.
+- **Transistors:** **2N1306 germanium** devices are documented by the review.
+- Exact diode arrangement is not established.
+- No claim is made that every production unit used the same semiconductor sourcing beyond the reviewed documentation.
 
 ## Sound
-The pedal is intended to retain the broad character of the vintage FY-2 while improving volume and extending the tonal range with the added controls.
+The documented design broadens the FY-2 concept with more usable output and additional low/mid shaping, while retaining a germanium fuzz character.
+
+## Research confidence
+- **Identity:** High.
+- **Modified FY-2 concept:** High.
+- **2N1306 germanium:** High for the reviewed unit/documentation.
+- **Exact diode complement:** Unknown.
+
+## Deep research verification
+The 2017 Pedal of the Day review and demo were used to verify the modified-FY-2 premise, controls and documented 2N1306 transistor choice.
 
 ## Sources checked
-1. Pedal of the Day FY-2 review: https://www.pedal-of-the-day.com/2017/10/23/big-game-pedals-fy-2-fuzz/
-2. Pedal of the Day FY-2 demo: https://www.youtube.com/watch?v=qCtm7cQR218
+1. Pedal of the Day - Big Game FY-2 Fuzz: https://www.pedal-of-the-day.com/2017/10/23/big-game-pedals-fy-2-fuzz/
+2. Pedal of the Day video demo: https://www.youtube.com/watch?v=qCtm7cQR218
 
 ## Photo
-- **Archive status:** **No Photo Archived**
-- Stable direct archival image was not promoted during this pass.
+- **Archive status:** **Exact Photo Pending**
+- No local canonical image was promoted in this pass.
