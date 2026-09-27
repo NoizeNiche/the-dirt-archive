@@ -27,5 +27,36 @@ The v2 is described as a preamp overdrive/distortion with two gain topologies an
 1. Balaguer 2021 product catalog: https://www.balaguerguitars.com/wp-content/uploads/2021/02/Balaguer-2021-Product-Catalog_compressed-2.pdf
 2. Guitar Pedal X - Fission Drive V2: https://www.guitarpedalx.com/news/4-cool-noteworthy-overdrives-with-character-and-bite
 
+## Deep research verification
+
+This pass confirms the original **Fission Drive** identity as a distinct generation from Fission Drive v2.
+
+### Verified description
+
+Balaguer's 2021 catalog identifies **Fission Drive v2** as the second version of the Fission Drive. The archive therefore retains the original Fission Drive as a separate historical model/version page rather than treating v2 as a cosmetic revision.
+
+### Verified version relationship
+
+- **Fission Drive:** original production version.
+- **Fission Drive v2:** explicitly documented as the second version.
+- Balaguer describes v2 as re-voiced for greater clarity and attack and changed to **top-mounted jacks**.
+- The original Fission Drive's exact control layout and component complement are not independently preserved in the reviewed documentation.
+
+### Verified circuit/device information
+
+- The reviewed v2 documentation describes two gain stages with Pre/Post controls, Master, Bass, Treble and a Modern/Vintage mode.
+- Those v2 specifications are **not** assigned to the original Fission Drive.
+- **Exact original transistor/device:** Unknown.
+- **Exact original clipping/rectifier diode:** Unknown.
+
+### Verified sound evidence
+
+The documented v2 revision was intentionally re-voiced for greater clarity and attack. This establishes a meaningful generation difference while leaving the original's exact tonal voicing unresolved.
+
+### Sources checked in this pass
+
+1. Balaguer Guitars — 2021 Product Catalog: https://www.balaguerguitars.com/wp-content/uploads/2021/02/Balaguer-2021-Product-Catalog_compressed-2.pdf
+2. Guitar Pedal X — Balaguer Fission Drive V2: https://www.guitarpedalx.com/news/4-cool-noteworthy-overdrives-with-character-and-bite
+
 ## Photo
 - **Archive status:** **Exact Photo Pending**
