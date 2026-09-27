@@ -1,0 +1,25 @@
+{
+  "builder": "Menatone",
+  "pedal": "The Law Bender Deluxe",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 2,
+  "sources": [
+    {
+      "url": "https://www.menatone.com/the-law-bender",
+      "title": "The Law Bender Deluxe | menatone",
+      "h1": "PEDALS",
+      "excerpt": "--> The Law Bender Deluxe | menatone top of page THE FINEST HANDMADE EFFECTS SINCE 1996 PEDALS HOME MOJO Red Snapper Mojo PTP Blue Collar Mojo PTP Top Boost in a Can Mojo The Law Bender Deluxe Redneck vs. Sputnik PTP/DELUXE Red Snapper 4 Knob PTP Blue Collar PTP Das Boost PTP The Howie Deluxe None More Black Deluxe STANDARD The King. Top Boost in a Can Wreck'T Fish Factory MenaWatt PiG The Dirty Blonde MINI Red Snapper Mini Red Snapper 4 knob Mini Blue Collar Mini JAC Compressor Mini Thundering Revival Mini The Law Mini Hindenburg Mini Mail Bomb Mini Pleasure Trem Mini Ms. Foxy Brown Mini PIPES IN STOCK CONTACT POLICIES DEALERS More Use tab to navigate through the menu items. THE LAW BENDER $259 Add to Cart DEMOS Coming soon... The Law Bender Deluxe is the next evolution of the Menatone Law fuzz.  Based on the same circuit but with the added 'PORK' control for more gain.  The PORK control turns the first gain stage from a unity gain buffer, to a 12db exrtra boost stage similar to a MKii fuzz.  The Law Bender goes from light overdrive to full blown nastiness.  The new Deluxe version now has both silicone and germanium tranistors switchable in both stages.  The Silicon has more gain on tap and a tigher response, while the Germanium has more midrange and an organic vibe with a bit less gain.  Both provide a hugely dynamic experience with clarity and nuance not found in any other fuzz pedals.  1/2 Watt Carbon resistors and rolled poly caps are used throughout. Now with all jacks on top \u200b Build time is approx. 3-6 weeks Manual &copy; 2024  MENATONE bottom of page \"use strict\";(self.webpackJsonp__wix_thunderbolt_app=self.webpackJsonp__wix_thunderbolt_app||[]).push([[\"1619\"],{26350(e,t,i){i.r(t),i.d(t,{STATIC_MEDIA_URL:()=>eH,fileType:()=>v,fittingTypes:()=>r,getData:()=>eR,MEDIA_ROOT_URL:()=>ez,sdk:()=>eB,isWEBP:()=>x,alignTypes:()=>c,htmlTag:()=>u,getPlaceholder:()=>eC,getResponsiveImageProps:()=>e$,upscaleMethods:()=>m,getFileExtension:()=>k,populateGlobalFeatureSupport:()=>q});let r={SCALE_TO_FILL:\"fill\",SCALE_TO_FIT:\"fit\",STRETCH:\"stretch\",ORIGINAL_SIZE:\"original_size\",TILE:\"tile\",TILE_HORIZONTAL:\"tile_horizontal\",TILE_VERTICAL:\"tile_vertical\",FIT_AND_TILE:\"fit_and_tile\",LEGACY_STRIP_TILE:\"legacy_strip_tile\",LEGACY_STRIP_TILE_HORIZONTAL:\"legacy_strip_tile_horizontal\",LEGACY_STRIP_TILE_VERTICAL:\"legacy_strip_tile_vertical\",LEGACY_STRIP_SCALE_TO_FILL:\"legacy_strip_fill\",LEGACY_STRIP_SCALE_TO_FIT:\"legacy_strip_fit\",LEGACY_STRIP_FIT_AND_TILE:\"legacy_strip_fit_and_tile\",LEGACY_STRIP_ORIGINAL_SIZE:\"legacy_strip_original_size\",LEGACY_ORIGINAL_SIZE:\"actual_size\",LEGACY_FIT_WIDTH:\"fitWidth\",LEGACY_FIT_HEIGHT:\"fitHeight\",LEGACY_FULL:\"full\",LEGACY_BG_FIT_AND_TILE:\"legacy_tile\",LEGACY_BG_FIT_AND_TILE_HORIZONTAL:\"legacy_tile_horizontal\",LEGACY_BG_FIT_AND_TILE_VERTICAL:\"legacy_tile_vertical\",LEGACY_BG_NORMAL:\"legacy_normal\"},n=\"fill\",a=\"fill_focal\",o=\"crop\",s=\"legacy_crop\",l=\"legacy_fill\",c={CENTER:\"center\",TOP:\"top\",TOP_LEFT:\"top_left\",TOP_RIGHT:\"top_right\",BOTTOM:\"bottom\",BOTTOM_LEFT:\"bottom_left\",BOTTOM_RIGHT:\"bottom_right\",LEFT:\"left\",RIGHT:\"right\"},h={[c.CENTER]:{x:.5,y:.5},[c.TOP_LEFT]:{x:0,y:0},[c.TOP_RIGHT]:{x:1,y:0},[c.TOP]:{x:.5,y:0},[c.BOTTOM_LEFT]:{x:0,y:1},[c.BOTTOM_RIGHT]:{x:1,y:1},[c.BOTTOM]:{x:.5,y:1},[c.RIGHT]:{x:1,y:.5},[c.LEFT]:{x:0,y:.5}},d={center:\"c\",top:\"t\",top_left:\"tl\",top_right:\"tr\",bottom:\"b\",bottom_left:\"bl\",bottom_right:\"br\",left:\"l\",right:\"r\"},u={BG:\"bg\",IMG:\"img\",SVG:\"svg\"},m={AUTO:\"auto\",CLASSIC:\"classic\",SUPER:\"super\"},g={radius:\"0.66\",amount:\"1.00\",threshold:\"0.01\"},p={uri:\"\",css:{img:{},container:{}},attr:{img:{},container:{}},transformed:!1},f=[1.5,2,4],_={HIGH:{size:196e4,quality:90,maxUpscale:1},MEDIUM:{size:36e4,quality:85,maxUpscale:1},LOW:{size:16e4,quality:80,maxUpscale:1.2},TINY:{size:0,quality:80,maxUpscale:1.4}},b=\"HIGH\",T=\"MEDIUM\",I=\"contrast\",E=\"brightness\",w=\"saturation\",L=\"blur\",v={JPG:\"jpg\",JPEG:\"jpeg\",JPE:\"jpe\",PNG:\"png\",WEBP:\"webp\",WIX_ICO_MP:\"wix_ico_mp\",WIX_MP:\"wix_mp\",GIF:\"gif\",SVG:\"svg\",",
+      "host": "www.menatone.com",
+      "source_kind": "manufacturer"
+    },
+    {
+      "url": "https://reverb.com/item/87258344-menatone-the-law-bender-deluxe-2025-green-gold",
+      "title": "Menatone The Law Bender Deluxe 2025 - Green & Gold - Reverb",
+      "h1": "",
+      "excerpt": "",
+      "host": "reverb.com",
+      "source_kind": "reverb"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}
