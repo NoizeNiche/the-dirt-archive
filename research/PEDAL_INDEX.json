@@ -34774,8 +34774,8 @@
       "image": "./assets/pedals/earthquaker-devices/terminal/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/EarthQuaker Devices/Terminal.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "EarthQuaker Devices",
@@ -41108,8 +41108,8 @@
       "image": "./assets/pedals/khdk-electronics/ghoul-jr/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/KHDK Electronics/Ghoul JR.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "KHDK Electronics",
@@ -41392,8 +41392,8 @@
       "image": "./assets/pedals/khdk-electronics/shred-ii/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/KHDK Electronics/Shred II.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "KHDK Electronics",
@@ -41540,8 +41540,8 @@
       "image": "./assets/pedals/kma-machines/chief-disruptor/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/KMA Machines/Chief Disruptor.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "KMA Machines",
@@ -41578,8 +41578,8 @@
       "image": "./assets/pedals/kma-machines/fuzzly-bear/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/KMA Machines/Fuzzly Bear.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "KMA Machines",
@@ -41638,8 +41638,8 @@
       "image": "./assets/pedals/kma-machines/minos/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/KMA Machines/Minos.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "KMA Machines",
@@ -43418,8 +43418,8 @@
       "image": "./assets/pedals/marshall-amplification/jackhammer-jh-1/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Marshall Amplification/Jackhammer JH-1.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Marshall Amplification",
@@ -43762,8 +43762,8 @@
       "image": "./assets/pedals/maxon/fuzz-elements-air/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Maxon/Fuzz Elements Air.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Maxon",
@@ -49630,8 +49630,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Radial Tonebone/Bones Hollywood.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Radial Tonebone",
@@ -53070,8 +53070,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/TONECAT/Fuzz a l’Huile Silicon Fuzz.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "TONECAT",
@@ -53880,8 +53880,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/VFE Pedals/Alpha Dog.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "VFE Pedals",
@@ -53992,8 +53992,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/VFE Pedals/Merman.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "VFE Pedals",

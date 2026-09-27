@@ -1,23 +1,41 @@
 # VFE Pedals — Alpha Dog
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Alpha Dog
 - **Builder:** VFE Pedals
-- **Pedal:** Alpha Dog
 - **Catalog type:** Distortion
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** VFE Pedals's Alpha Dog.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Alpha Dog** by **VFE Pedals** as a **Distortion** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Derived from the classic Rat distortion pedal, the Alpha Dog expands its tone options by adding VFE's unique HCC circuitry.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+Derived from the classic Rat distortion pedal, the Alpha Dog expands its tone options by adding VFE's unique HCC circuitry.
+The HARD and SOFT controls provide an infinite continuum of voicings, from bluesy breakup, to aggressive grunge, to stoner rock (or whatever the cool kids are calling it these days) and much, much more.
+
+## Sources checked
+1. VFE Pedals Alpha Dog - What To Know & Where To Buy: https://equipboard.com/items/vfe-pedals-alpha-dog
+2. VFE PEDALS Alpha Dog - Reverb: https://reverb.com/item/37959-vfe-pedals-alpha-dog
+3. VFE Pedals Alpha Dog - Effects Database: https://www.effectsdatabase.com/model/vfe/alphadog
+4. Alpha Dog by VFE Pedals | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/VFE-Pedals/Alpha-Dog/68986053/
+5. VFE PEdals Alpha Dog: https://gaslog.app/pedals/236
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

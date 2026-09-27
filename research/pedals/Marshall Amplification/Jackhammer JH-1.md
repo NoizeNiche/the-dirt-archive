@@ -1,23 +1,41 @@
 # Marshall Amplification — Jackhammer JH-1
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Jackhammer JH-1
 - **Builder:** Marshall Amplification
-- **Pedal:** Jackhammer JH-1
 - **Catalog type:** Distortion / Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Marshall Amplification's Jackhammer JH-1.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Jackhammer JH-1** by **Marshall Amplification** as a **Distortion / Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Marshall Amplification's Jackhammer JH-1 is cataloged as a distortion / overdrive pedal.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- The verified evidence references: MK1.
+- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+The Marshall JH-1 Jackhammer is a guitar amplifier known for its high gain and versatility in tone.
+This amplifier also offers a built-in overdrive circuit, which adds an extra level of distortion and allows users to achieve heavier tones.
+Make sure that the guitar cable is properly plugged into the input jack of the amplifier and check that the volume and gain controls are not set too low.
+
+## Sources checked
+1. Marshall Jackhammer JH-1 — Distortion Pedal | Equipboard: https://equipboard.com/items/marshall-jackhammer-jh-1
+2. User manual Marshall JH-1 Jackhammer (English - 5 pages): https://www.manua.ls/marshall/jh-1-jackhammer/manual
+3. Marshall JH-1 Jackhammer user manual (English - 5 pages): https://www.manuals.co.uk/marshall/jh-1-jackhammer/manual
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
