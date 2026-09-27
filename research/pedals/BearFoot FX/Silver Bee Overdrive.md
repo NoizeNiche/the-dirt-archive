@@ -1,45 +1,60 @@
-# BearFoot FX - Silver Bee Overdrive
+# BearFoot FX — Silver Bee Overdrive
 
 ## PRP identity
 - **Archive parent:** Silver Bee Overdrive
 - **Builder:** BearFoot FX
 - **Catalog type:** Overdrive
-- **Identity:** Vintage-amp-inspired overdrive combining Silvertone and modified Deluxe-style gain ideas.
+- **Identity:** Five-control BearFoot overdrive drawing on Silvertone and modified Deluxe-style gain ideas, with Nature/Mid/Treble shaping. [1][2]
 
 ## What this pedal is
-BearFoot describes Silver Bee as inspired by Dumble-modded black-panel Deluxe Reverbs, starting with an old Silvertone and combining that with a modified silver-face Deluxe-style gain structure. Its Nature and Mid controls are designed to reshape the lower mids, bass, and selected mid frequencies.
+BearFoot describes Silver Bee as an overdrive developed around an old Silvertone reference combined with a modified silver-face Deluxe-style gain structure. Other descriptions connect the target family with Dumble-modified black-panel Deluxe Reverb behavior. [1][2]
 
-## Colorways
-- Silver face is the defining documented production finish.
-- No complete factory colorway chronology was verified.
+## Controls
+- **VOLUME**
+- **DISTORTION**
+- **NATURE**
+- **MID**
+- **TREBLE**
+Nature shapes bass/lower-mid behavior, while Mid and Treble provide additional focus and presence control. [1]
 
-## Versions and factory options
-### Silver Bee Overdrive
-- Volume
-- Distortion
-- Nature
-- Mid
-- Treble
-- 5-15V family operation is documented.
-
-## Version changes
-A later Silver Bee+ variant is documented separately and should not be merged with the base Silver Bee.
+## Circuit lineage
+- Silvertone-inspired gain behavior.
+- Modified Deluxe-style / Dumble-influenced tonal target.
+- The archive treats these as documented design references, not as proof of a schematic clone of a particular amplifier.
 
 ## Transistor
-- **Exact production transistor/device part numbers:** Not publicly documented in the checked sources.
+- Exact production transistor/device part numbers are not publicly documented.
 
-## Diode
-- **Exact clipping/protection arrangement:** Not publicly documented.
+## Diode / clipping
+- Exact clipping/protection device and part number are not publicly documented.
+
+## Power
+- **5–15V** family operating range is documented in surviving BearFoot references. [1]
+
+## Version history
+- Base **Silver Bee**.
+- Later **Silver Bee+** is maintained as a separate product.
+- Silver finish is the defining standard presentation; cosmetic differences are not circuit revisions.
 
 ## Sound
-Silver Bee is designed to move between clean bite, high-mid snarl, and warm lower-mid overdrive. The Nature control shapes low mids and bass while Mid selects and adjusts the mid emphasis, allowing either a tweed-like push or smoother Dumble-style response.
+Silver Bee is designed to cover cleaner bite, high-mid snarl and warmer lower-mid overdrive. Nature changes the low-mid/bass balance, Mid selects/adjusts the middle emphasis, and Treble refines the upper response. [1][2]
+
+## Research confidence
+- **Identity:** High
+- **Control map:** High
+- **Silvertone/Deluxe lineage:** High as source description
+- **5–15V range:** High
+- **Exact transistor:** Unknown
+- **Exact diode:** Unknown
+
+## Deep research verification
+The exact-model Poppa's Music record and BearFoot demo were cross-checked with BearFoot's family power reference. The sources support the five-control layout, Silvertone/Deluxe-oriented design target and 5–15V family range. [1][2][3]
 
 ## Sources checked
-1. Poppa's Music, BearFoot Silver Bee: https://poppasmusic.com/products/bearfoot-fx-silver-bee-overdrive-pedal
-2. BearFoot FX Silver Bee demo: https://www.youtube.com/watch?v=ERE1ZuLCKMw
-3. BearFoot family power specifications: https://www.pedalboard.org/strom-liste/bearfoot-fx
+1. Poppa's Music — BearFoot Silver Bee: https://poppasmusic.com/products/bearfoot-fx-silver-bee-overdrive-pedal
+2. BearFoot FX — Silver Bee demo: https://www.youtube.com/watch?v=ERE1ZuLCKMw
+3. BearFoot family power reference: https://www.pedalboard.org/strom-liste/bearfoot-fx
 
 ## Photo
-- **Archive status:** **Exact Photo Attached to Public Catalog**
-- **Exact-model image:** https://poppasmusic.com/cdn/shop/files/SilverBee2.jpg?v=1772563560&width=416
-- **Source page:** https://poppasmusic.com/products/bearfoot-fx-silver-bee-overdrive-pedal
+- **Exact pedal photograph:** Poppa's Music exact-model image.
+- https://poppasmusic.com/cdn/shop/files/SilverBee2.jpg?v=1772563560&width=416
