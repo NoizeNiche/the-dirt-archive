@@ -5528,6 +5528,13 @@
   },
   {
     "builder": "Black Mass Electronics",
+    "pedal": "The First Herald",
+    "image": "",
+    "source_page": "https://blackmasselectronics.com/collections/fuzz",
+    "research_record": "./research/pedals/Black Mass Electronics/The First Herald.md"
+  },
+  {
+    "builder": "Black Mass Electronics",
     "pedal": "The First Herald (Big Box)",
     "image": "./assets/pedals/black-mass-electronics/the-first-herald-big-box/primary.webp",
     "source_page": "https://blackmasselectronics.com/collections/fuzz/products/the-first-herald-big-box",
@@ -16924,10 +16931,52 @@
   },
   {
     "builder": "Electronic Audio Experiments",
+    "pedal": "0xEAE Bass Driver",
+    "image": "",
+    "source_page": "https://www.electronicaudioexperiments.com/legacy",
+    "research_record": "./research/pedals/Electronic Audio Experiments/0xEAE Bass Driver.md"
+  },
+  {
+    "builder": "Electronic Audio Experiments",
+    "pedal": "0xEAE Boost",
+    "image": "",
+    "source_page": "https://www.electronicaudioexperiments.com/legacy",
+    "research_record": "./research/pedals/Electronic Audio Experiments/0xEAE Boost.md"
+  },
+  {
+    "builder": "Electronic Audio Experiments",
+    "pedal": "0xEAE Fuzz",
+    "image": "",
+    "source_page": "https://www.electronicaudioexperiments.com/legacy",
+    "research_record": "./research/pedals/Electronic Audio Experiments/0xEAE Fuzz.md"
+  },
+  {
+    "builder": "Electronic Audio Experiments",
     "pedal": "Citadel",
     "image": null,
     "source_page": null,
     "research_record": "./research/pedals/Electronic Audio Experiments/Citadel.md"
+  },
+  {
+    "builder": "Electronic Audio Experiments",
+    "pedal": "Dagger",
+    "image": "",
+    "source_page": "https://www.electronicaudioexperiments.com/legacy",
+    "research_record": "./research/pedals/Electronic Audio Experiments/Dagger.md"
+  },
+  {
+    "builder": "Electronic Audio Experiments",
+    "pedal": "Dude Incredible",
+    "image": "",
+    "source_page": "https://www.electronicaudioexperiments.com/legacy",
+    "research_record": "./research/pedals/Electronic Audio Experiments/Dude Incredible.md"
+  },
+  {
+    "builder": "Electronic Audio Experiments",
+    "pedal": "Eldritch Blast",
+    "image": "",
+    "source_page": "https://www.electronicaudioexperiments.com/legacy",
+    "research_record": "./research/pedals/Electronic Audio Experiments/Eldritch Blast.md"
   },
   {
     "builder": "Electronic Audio Experiments",
@@ -16949,6 +16998,13 @@
     "image": "./assets/pedals/electronic-audio-experiments/halberd/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Electronic Audio Experiments/Halberd.md"
+  },
+  {
+    "builder": "Electronic Audio Experiments",
+    "pedal": "Kerria Lacca",
+    "image": "",
+    "source_page": "https://www.electronicaudioexperiments.com/legacy",
+    "research_record": "./research/pedals/Electronic Audio Experiments/Kerria Lacca.md"
   },
   {
     "builder": "Electronic Audio Experiments",
@@ -17068,6 +17124,13 @@
     "image": "./assets/pedals/fairfield-circuitry/barbershop-consolidated-across-v1-millennium-edition/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Fairfield Circuitry/Barbershop — consolidated across V1 / Millennium Edition.md"
+  },
+  {
+    "builder": "Fairfield Circuitry",
+    "pedal": "Four Eyes Fuzz",
+    "image": "",
+    "source_page": "https://fairfieldcircuitry.com/products/900",
+    "research_record": "./research/pedals/Fairfield Circuitry/Four Eyes Fuzz.md"
   },
   {
     "builder": "Fairfield Circuitry",
@@ -17750,10 +17813,129 @@
   },
   {
     "builder": "Fuzzrocious Pedals",
+    "pedal": "420 Fuzz v2",
+    "image": "",
+    "source_page": "https://fuzzrociouspedals.com/?product_cat=current",
+    "research_record": "./research/pedals/Fuzzrocious Pedals/420 Fuzz v2.md"
+  },
+  {
+    "builder": "Fuzzrocious Pedals",
+    "pedal": "Baby Furnace",
+    "image": "",
+    "source_page": "https://fuzzrociouspedals.com/?product=babyfurnace",
+    "research_record": "./research/pedals/Fuzzrocious Pedals/Baby Furnace.md"
+  },
+  {
+    "builder": "Fuzzrocious Pedals",
+    "pedal": "Blast Furnace",
+    "image": "",
+    "source_page": "https://fuzzrociouspedals.com/?product=blastfurnace",
+    "research_record": "./research/pedals/Fuzzrocious Pedals/Blast Furnace.md"
+  },
+  {
+    "builder": "Fuzzrocious Pedals",
+    "pedal": "Cat King",
+    "image": "",
+    "source_page": "https://fuzzrociouspedals.com/?product_cat=current",
+    "research_record": "./research/pedals/Fuzzrocious Pedals/Cat King.md"
+  },
+  {
+    "builder": "Fuzzrocious Pedals",
     "pedal": "Cat Tail",
     "image": "./assets/pedals/fuzzrocious-pedals/cat-tail/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Fuzzrocious Pedals/Cat Tail.md"
+  },
+  {
+    "builder": "Fuzzrocious Pedals",
+    "pedal": "Cicada Fuzz",
+    "image": "",
+    "source_page": "https://fuzzrociouspedals.com/?product_cat=retired",
+    "research_record": "./research/pedals/Fuzzrocious Pedals/Cicada Fuzz.md"
+  },
+  {
+    "builder": "Fuzzrocious Pedals",
+    "pedal": "Dark Driving",
+    "image": "",
+    "source_page": "https://fuzzrociouspedals.com/?product_cat=retired",
+    "research_record": "./research/pedals/Fuzzrocious Pedals/Dark Driving.md"
+  },
+  {
+    "builder": "Fuzzrocious Pedals",
+    "pedal": "Dark Driving v3",
+    "image": "",
+    "source_page": "https://fuzzrociouspedals.com/?product=dark-driving-v3",
+    "research_record": "./research/pedals/Fuzzrocious Pedals/Dark Driving v3.md"
+  },
+  {
+    "builder": "Fuzzrocious Pedals",
+    "pedal": "Egg Sack",
+    "image": "",
+    "source_page": "https://fuzzrociouspedals.com/?product=eggsack",
+    "research_record": "./research/pedals/Fuzzrocious Pedals/Egg Sack.md"
+  },
+  {
+    "builder": "Fuzzrocious Pedals",
+    "pedal": "Grey Stache / Heliotropic",
+    "image": "",
+    "source_page": "https://fuzzrociouspedals.com/?product_cat=current",
+    "research_record": "./research/pedals/Fuzzrocious Pedals/Grey Stache / Heliotropic.md"
+  },
+  {
+    "builder": "Fuzzrocious Pedals",
+    "pedal": "Greyfly",
+    "image": "",
+    "source_page": "https://fuzzrociouspedals.com/?product_cat=retired",
+    "research_record": "./research/pedals/Fuzzrocious Pedals/Greyfly.md"
+  },
+  {
+    "builder": "Fuzzrocious Pedals",
+    "pedal": "K-A-E-D-E-N Drive",
+    "image": "",
+    "source_page": "https://fuzzrociouspedals.com/?product_cat=retired",
+    "research_record": "./research/pedals/Fuzzrocious Pedals/K-A-E-D-E-N Drive.md"
+  },
+  {
+    "builder": "Fuzzrocious Pedals",
+    "pedal": "Li'l Fella",
+    "image": "",
+    "source_page": "https://fuzzrociouspedals.com/?product_cat=current",
+    "research_record": "./research/pedals/Fuzzrocious Pedals/Li'l Fella.md"
+  },
+  {
+    "builder": "Fuzzrocious Pedals",
+    "pedal": "M.O.T.H.",
+    "image": "",
+    "source_page": "https://fuzzrociouspedals.com/?product=moth",
+    "research_record": "./research/pedals/Fuzzrocious Pedals/M.O.T.H..md"
+  },
+  {
+    "builder": "Fuzzrocious Pedals",
+    "pedal": "Maggotor",
+    "image": "",
+    "source_page": "https://fuzzrociouspedals.com/?product=maggotor",
+    "research_record": "./research/pedals/Fuzzrocious Pedals/Maggotor.md"
+  },
+  {
+    "builder": "Fuzzrocious Pedals",
+    "pedal": "Playing Mantis",
+    "image": "",
+    "source_page": "https://fuzzrociouspedals.com/?product=playingmantis",
+    "research_record": "./research/pedals/Fuzzrocious Pedals/Playing Mantis.md"
+  },
+  {
+    "builder": "Fuzzrocious Pedals",
+    "pedal": "Ram the Manparts",
+    "image": "",
+    "source_page": "https://fuzzrociouspedals.com/?product_cat=retired",
+    "research_record": "./research/pedals/Fuzzrocious Pedals/Ram the Manparts.md"
+  },
+  {
+    "builder": "Fuzzrocious Pedals",
+    "pedal": "Wicked Jawn",
+    "image": "",
+    "source_page": "https://fuzzrociouspedals.com/?product_cat=retired",
+    "research_record": "./research/pedals/Fuzzrocious Pedals/Wicked Jawn.md"
   },
   {
     "builder": "Gamechanger Audio",
@@ -18660,6 +18842,13 @@
   },
   {
     "builder": "J. Rockett Audio Designs",
+    "pedal": "Animal Overdrive",
+    "image": "",
+    "source_page": "https://rockettpedals.com/",
+    "research_record": "./research/pedals/J. Rockett Audio Designs/Animal Overdrive.md"
+  },
+  {
+    "builder": "J. Rockett Audio Designs",
     "pedal": "Archer Ikon OD",
     "image": "./assets/pedals/j-rockett-audio-designs/archer-ikon-od/primary.webp",
     "source_page": null,
@@ -18688,10 +18877,73 @@
   },
   {
     "builder": "J. Rockett Audio Designs",
+    "pedal": "El Hombre",
+    "image": "",
+    "source_page": "https://rockettpedals.com/",
+    "research_record": "./research/pedals/J. Rockett Audio Designs/El Hombre.md"
+  },
+  {
+    "builder": "J. Rockett Audio Designs",
+    "pedal": "Flex Drive",
+    "image": "",
+    "source_page": "https://rockettpedals.com/",
+    "research_record": "./research/pedals/J. Rockett Audio Designs/Flex Drive.md"
+  },
+  {
+    "builder": "J. Rockett Audio Designs",
+    "pedal": "GTO",
+    "image": "",
+    "source_page": "https://rockettpedals.com/",
+    "research_record": "./research/pedals/J. Rockett Audio Designs/GTO.md"
+  },
+  {
+    "builder": "J. Rockett Audio Designs",
+    "pedal": "Hooligan Fuzz",
+    "image": "",
+    "source_page": "https://rockettpedals.com/",
+    "research_record": "./research/pedals/J. Rockett Audio Designs/Hooligan Fuzz.md"
+  },
+  {
+    "builder": "J. Rockett Audio Designs",
     "pedal": "HRM V2",
     "image": "./assets/pedals/j-rockett-audio-designs/hrm-v2/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/J. Rockett Audio Designs/HRM V2.md"
+  },
+  {
+    "builder": "J. Rockett Audio Designs",
+    "pedal": "iKon",
+    "image": "",
+    "source_page": "https://rockettpedals.com/",
+    "research_record": "./research/pedals/J. Rockett Audio Designs/iKon.md"
+  },
+  {
+    "builder": "J. Rockett Audio Designs",
+    "pedal": "Majestic Overdrive",
+    "image": "",
+    "source_page": "https://rockettpedals.com/",
+    "research_record": "./research/pedals/J. Rockett Audio Designs/Majestic Overdrive.md"
+  },
+  {
+    "builder": "J. Rockett Audio Designs",
+    "pedal": "Monkey Man",
+    "image": "",
+    "source_page": "https://rockettpedals.com/",
+    "research_record": "./research/pedals/J. Rockett Audio Designs/Monkey Man.md"
+  },
+  {
+    "builder": "J. Rockett Audio Designs",
+    "pedal": "Rockaway Archer",
+    "image": "",
+    "source_page": "https://rockettpedals.com/",
+    "research_record": "./research/pedals/J. Rockett Audio Designs/Rockaway Archer.md"
+  },
+  {
+    "builder": "J. Rockett Audio Designs",
+    "pedal": "WTF Fuzz",
+    "image": "",
+    "source_page": "https://rockettpedals.com/",
+    "research_record": "./research/pedals/J. Rockett Audio Designs/WTF Fuzz.md"
   },
   {
     "builder": "Jackson Audio",
@@ -23987,6 +24239,13 @@
   },
   {
     "builder": "Seymour Duncan",
+    "pedal": "FOOZ",
+    "image": "",
+    "source_page": "https://www.seymourduncan.com/",
+    "research_record": "./research/pedals/Seymour Duncan/FOOZ.md"
+  },
+  {
+    "builder": "Seymour Duncan",
     "pedal": "Lava Box",
     "image": null,
     "source_page": null,
@@ -24978,6 +25237,13 @@
     "image": null,
     "source_page": null,
     "research_record": "./research/pedals/Suhr/Shiba Drive.md"
+  },
+  {
+    "builder": "Suhr",
+    "pedal": "Shiba Drive Reloaded",
+    "image": "",
+    "source_page": "https://www.suhr.com/electronics/pedals/overdrive/",
+    "research_record": "./research/pedals/Suhr/Shiba Drive Reloaded.md"
   },
   {
     "builder": "Suhr",
