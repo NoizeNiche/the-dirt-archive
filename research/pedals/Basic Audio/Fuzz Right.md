@@ -4,49 +4,49 @@
 - **Archive parent:** Fuzz Right
 - **Builder:** Basic Audio
 - **Catalog type:** Fuzz
-- **Identity:** Germanium fuzz based on the Mosrite Fuzz Rite family, expanded with additional low-end and fuzz controls. [1][2]
+- **Identity:** Germanium Fuzz Rite-derived fuzz with additional control over fuzz amount and low-frequency weight. [1][2]
 
 ## What this pedal is
-Basic Audio's Fuzz Right takes the coarse, aggressive Fuzz Rite concept and gives the player more control over low-end weight and fuzz intensity. It is intentionally retained as a Germanium fuzz rather than a silicon recreation. [1]
+Basic Audio's Fuzz Right interprets the coarse, cutting Mosrite Fuzz Rite family with modern control over the low end and overall fuzz character. The builder identifies it as a Germanium fuzz. [1]
 
 ## Controls / architecture
 - **FUZZ**
 - **VOLUME / LEVEL**
-- Added low-end shaping control.
-- **TONE/OUTPUT shaping** is documented in the builder's product presentation.
-- Exact printed control labels vary across surviving examples, so the archive does not force an unsupported universal label map. [1][2]
+- Additional low-end shaping.
+- Surviving examples do not expose one perfectly consistent label map, so unsupported labels are not reconstructed.
 
 ## Circuit lineage
 - **Primary reference:** Mosrite Fuzz Rite.
-- Basic Audio's implementation is a modern interpretation rather than a claim of untouched historical component equivalence. [1]
+- Basic Audio presents the pedal as an interpretation/refinement, not as a documented unchanged historical clone. [1][2]
 
 ## Transistor
 - **Technology:** Germanium.
-- Exact production device part number is not publicly documented. [1]
+- Exact production device and gain/leakage data are **not publicly documented**. [1]
 
 ## Diode / clipping
-- Exact clipping-device type and part number are not publicly documented.
+- Exact clipping-device type and part number are **not publicly documented**.
 
 ## Power
-- **9V center-negative** operation with battery support. [1]
+- **9V center-negative** with battery support. [1]
 
 ## Version history
 - No numbered electronic revision established.
-- Cosmetic finishes are treated as colorways.
+- Finish variation is cosmetic.
 
 ## Sound
-Fuzz Right stays on the brash and cutting side of the Fuzz Rite family, with extra low-end control making it possible to add weight without losing the abrasive character. [1][2]
+Fuzz Right emphasizes the brash, abrasive side of the Fuzz Rite family. Additional low-end shaping lets the player add weight without removing the cutting upper character. [1][2]
 
 ## Research confidence
 - **Identity:** High
-- **Germanium implementation:** High
 - **Fuzz Rite lineage:** High
+- **Germanium technology:** High
+- **Power:** High
 - **Exact transistor:** Unknown
 - **Exact diode:** Unknown
-- **Control labels:** Medium, due to historical presentation differences
+- **Historical control labels:** Medium
 
 ## Deep research verification
-Basic Audio's product record was cross-checked against Guitar Pedal X's fuzz overview. Both support the Germanium Fuzz Rite lineage and the expanded control concept; exact factory semiconductor details remain unpublished. [1][2]
+Basic Audio's product record was checked against the builder-focused fuzz overview. Both support the Germanium Fuzz Rite lineage and expanded tonal concept; no exact semiconductor part number is published. [1][2]
 
 ## Sources checked
 1. Basic Audio — Fuzz Right: https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-cnzrr-ksfg5-kba26-5yxez-twy6r-snkj6-rafma
@@ -54,5 +54,4 @@ Basic Audio's product record was cross-checked against Guitar Pedal X's fuzz ove
 
 ## Photo
 - **Exact pedal photograph:** Basic Audio official product photograph.
-- **Direct image:** https://images.squarespace-cdn.com/content/v1/5da9e97016ddf940acffa2d3/1574394149144-8L0MKI1O8H38Q07GW8A6/IMG_0802-Edit.jpg
-- **Source page:** Basic Audio Fuzz Right.
+- https://images.squarespace-cdn.com/content/v1/5da9e97016ddf940acffa2d3/1574394149144-8L0MKI1O8H38Q07GW8A6/IMG_0802-Edit.jpg
