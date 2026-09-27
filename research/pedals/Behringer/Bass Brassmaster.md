@@ -1,44 +1,54 @@
-# Behringer - Bass Brassmaster
+# Behringer — Bass Brassmaster
 
 ## PRP identity
 - **Archive parent:** Bass Brassmaster
 - **Builder:** Behringer
 - **Catalog type:** Fuzz
-- **Identity:** Vintage-style bass/guitar/baritone fuzz with separate clean and fuzz blend controls and two voicing switches.
+- **Identity:** Vintage-style bass/guitar/baritone fuzz with separate BASS VOL and BRASS VOL paths plus Sensitivity, Brass and Harmonic controls. [1]
 
-## What this pedal is
-Bass Brassmaster is a vintage fuzz designed to work with bass, guitar, and baritone instruments while retaining clarity. Behringer presents it as a recovered “hidden gem” style circuit with separate controls for the clean bass path and fuzz path.
+## Controls / architecture
+- **BASS VOL:** Level of the lower-frequency clean/fundamental path.
+- **BRASS VOL:** Level of the fuzz/brass path.
+- **SENSITIVITY:** Fuzz/sensitivity response.
+- **BRASS:** Changes the brass/fuzz voicing.
+- **HARMONIC:** Changes harmonic character.
+The design is intended to keep low-frequency fundamentals present while adding a more aggressive fuzz layer. [1]
 
-## Colorways
-- Standard production finish is the documented Behringer enclosure.
-- No separate factory electrical colorway was established.
-
-## Versions and factory options
-### Bass Brassmaster
-- BASS VOL
-- BRASS VOL
-- SENSITIVITY
-- BRASS switch
-- HARMONIC switch
-- Designed for bass, guitar, and baritone
-- Standard Behringer stompbox power arrangement
-
-## Version changes
-No numbered factory revision was established in the checked sources.
+## Circuit / topology
+- Behringer describes Bass Brassmaster as a recovered/vintage-style circuit rather than publishing a specific historical clone identity on the reviewed product page.
+- The archive therefore does not assign a named vintage circuit without additional exact schematic evidence.
 
 ## Transistor
-- **Exact production transistor/device part numbers:** Not publicly documented in the checked manufacturer material.
+- Exact production transistor/device part numbers are not publicly documented by Behringer in the reviewed source.
 
-## Diode
-- **Exact clipping/protection arrangement or diode part numbers:** Not publicly documented.
+## Diode / clipping
+- Exact clipping/protection diode type and part number are not publicly documented.
+
+## Power
+- Standard Behringer stompbox power arrangement is documented by the product family.
+- Exact current draw is not asserted here without model-specific manual evidence. [1]
+
+## Version history
+- No numbered electronic revision established.
+- Standard production finish is treated as the canonical cosmetic presentation.
 
 ## Sound
-The Bass Brassmaster balances a clean low-frequency path against an aggressive fuzz path, making it especially useful when the instrument's fundamental needs to remain prominent. The BRASS and HARMONIC switches provide additional changes to the fuzz character and harmonic emphasis.
+The pedal is designed around a blend between a preserved low-frequency foundation and an aggressive fuzz/brass layer, allowing bass, guitar and baritone instruments to retain fundamental weight while adding harmonic saturation. [1]
+
+## Research confidence
+- **Identity:** High
+- **Control layout:** High
+- **Bass/fuzz blending concept:** High
+- **Exact circuit lineage:** Unknown
+- **Exact transistor:** Unknown
+- **Exact diode:** Unknown
+
+## Deep research verification
+Behringer's official Bass Brassmaster page was checked directly. It confirms the five-control layout and the pedal's bass/guitar/baritone orientation. The factory page does not publish enough component information to support a more specific topology claim. [1]
 
 ## Sources checked
-1. Behringer official Bass Brassmaster: https://www.behringer.com/en/products/0709-AKU
+1. Behringer — Bass Brassmaster: https://www.behringer.com/en/products/0709-AKU
 
 ## Photo
-- **Archive status:** **Exact Photo Attached to Public Catalog**
-- **Exact-model image:** https://cdn-media.empowertribe.com/e8512eeea7db4bd38e9189f0d69b6d00/Image_BE_0709-AKU_BASS-BRASSMASTER-FUZZ_Left_XL.png
-- **Source page:** https://www.behringer.com/en/products/0709-AKU
+- **Exact pedal photograph:** Behringer official image.
+- https://cdn-media.empowertribe.com/e8512eeea7db4bd38e9189f0d69b6d00/Image_BE_0709-AKU_BASS-BRASSMASTER-FUZZ_Left_XL.png
