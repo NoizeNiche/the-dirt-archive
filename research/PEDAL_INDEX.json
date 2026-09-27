@@ -32849,8 +32849,8 @@
       "image": "./assets/pedals/dirty-boy/junior-db-fuzz-dirty-boy-jr-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Dirty Boy/JUNIOR DB Fuzz / Dirty Boy Jr. Fuzz.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Dirty Boy",

@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-27T20:59:30.390183+00:00",
+  "generated_at": "2026-09-27T21:04:25.339297+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,25 +10,18 @@
     "pictured": 3379,
     "complete": 3379,
     "research_pending": 0,
-    "deep_research_pending": 359,
-    "deep_researched": 3877,
+    "deep_research_pending": 358,
+    "deep_researched": 3878,
     "surface_ready": 4236
   },
   "next_target": {
-    "builder": "Dirty Boy",
-    "pedal": "JUNIOR DB Fuzz / Dirty Boy Jr. Fuzz",
+    "builder": "DLS Effect",
+    "pedal": "Reckless Driver",
     "catalog_type": "",
-    "research_record": "./research/pedals/Dirty Boy/JUNIOR DB Fuzz / Dirty Boy Jr. Fuzz.md",
+    "research_record": "./research/pedals/DLS Effect/Reckless Driver.md",
     "research_level": "surface"
   },
   "working_set": [
-    {
-      "builder": "Dirty Boy",
-      "pedal": "JUNIOR DB Fuzz / Dirty Boy Jr. Fuzz",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Dirty Boy/JUNIOR DB Fuzz / Dirty Boy Jr. Fuzz.md",
-      "research_level": "surface"
-    },
     {
       "builder": "DLS Effect",
       "pedal": "Reckless Driver",
@@ -195,6 +188,13 @@
       "pedal": "YJM 308 Overdrive Preamp",
       "catalog_type": "",
       "research_record": "./research/pedals/DOD Electronics/YJM 308 Overdrive Preamp.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Dr. Scientist — Ryan Clarke / Tanya Clarke / Neil Graham",
+      "pedal": "The Elements",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Dr. Scientist — Ryan Clarke / Tanya Clarke / Neil Graham/The Elements.md",
       "research_level": "surface"
     }
   ]
