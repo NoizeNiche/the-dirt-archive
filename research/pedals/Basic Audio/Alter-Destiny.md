@@ -1,69 +1,68 @@
 # Basic Audio — Alter-Destiny
 
 ## PRP identity
-- Archive parent: Alter-Destiny
-- Builder: Basic Audio
-- Catalog type: Fuzz
-- Identity: Basic Audio's Alter-Destiny is a hybrid Big Muff-style fuzz with expanded EQ and midrange control. It is documented in Basic Audio's current catalog and in independent pedal references.
-- Earliest documentation located in this pass: 2015 demo references; no exact factory introduction date was established.
+- **Archive parent:** Alter-Destiny
+- **Builder:** Basic Audio
+- **Catalog type:** Fuzz
+- **Identity:** Modified Big Muff-style fuzz with expanded low/mid/high shaping, separate Mids control and a three-position high/mid voicing switch. [1][2]
 
 ## What this pedal is
-Alter-Destiny is a heavily modified Big Muff-derived design intended to retain the large, sustaining Muff character while adding much more control over the frequency balance. Basic Audio describes separate High, Mid and Low controls plus a three-position high/mid boost switch; independent references also document the five-control layout with Volume, Tone, Fuzz, Mids and Fat.
+Alter-Destiny retains the large, sustaining character associated with Muff-family fuzz while adding substantially more frequency control. Basic Audio's five-control design combines Volume, Tone, Fuzz, Mids and Fat with a three-position voicing switch. [1]
 
-## Colorways
-- Yellow enclosure with dark burgundy/maroon artwork is documented in Basic Audio's own product photograph.
-- Copper finish is documented in a Reverb product record.
-- Basic Audio explicitly notes that pedal colors are subject to change.
-- These finish differences are treated as cosmetic colorways, not separate circuit versions.
+## Controls / architecture
+- **VOLUME**
+- **TONE**
+- **FUZZ**
+- **MIDS**
+- **FAT**
+- Three-position high/mid boost switch. [1][2]
+The expanded control set is part of the pedal's core design rather than a documented numbered revision.
 
-## Versions and factory modifications
-### Alter-Destiny production
-- Volume
-- Tone
-- Fuzz
-- Mids
-- Fat
-- three-position high/mid boost switch
-- 9V center-negative operation
-- battery snap [1][2]
+## Circuit lineage
+- **Primary lineage:** Big Muff family.
+- Basic Audio describes Alter-Destiny as a modified Muff-derived circuit rather than an unchanged historical clone. [1]
+- Independent DIY work has explored 2N5088 and BAT42 substitutions, but those are build/modification evidence, not factory specifications, and are excluded from the canonical component record. [5][6]
 
-### Factory modifications
-- The expanded Mid/Fat controls and multi-position mid/high voicing switch are part of the Alter-Destiny design itself.
-- No builder-designated numbered production revision, factory MOD, or separately named circuit revision was verified in the sources checked.
+## Transistor / active device
+- Exact factory transistor part number is **not publicly documented** in the reviewed Basic Audio sources.
+- DIY build reports mentioning **2N5088** are not treated as proof of factory components. [5]
 
-## Version changes
-No numbered factory revision was established. The available documentation consistently describes the same core Alter-Destiny architecture: a modified Muff-style circuit with extended low/mid/high shaping and selectable mid/high emphasis.
+## Diode / clipping
+- Exact factory clipping diode is **not publicly documented**.
+- DIY experiments mentioning **BAT42** are explicitly excluded from the factory record. [6]
 
-## Transistor
-- Technology/type: Not publicly documented by Basic Audio in the sources checked.
-- Independent DIY discussion identifies 2N5088s as a plausible component choice for Alter-Destiny builds, but that is not factory evidence and is therefore not treated as the production pedal's confirmed transistor type.
+## Power
+- **9V center-negative** operation with battery support is documented. [1][2]
 
-## Diode
-- Type: Not publicly documented by Basic Audio in the sources checked.
-- DIY Alter-Destiny builds have experimented with BAT42 clipping diodes, but those are builder/DIY modifications and are explicitly excluded from the factory component record.
+## Version history
+- No numbered factory electronic revision established.
+- Yellow, copper and other finish examples are treated as colorways, not revisions.
+- Basic Audio notes that finishes may change over time. [1][3]
 
 ## Sound
-Alter-Destiny keeps the thick, sustaining compression associated with Muff-style fuzz while giving the player substantially more control over the mids and low end, so it can move from big and bass-heavy to leaner, clearer and more cutting. The unusually broad EQ and mid-boost switching help preserve note definition where a conventional scooped Muff can disappear in a band mix, and the pedal can clean up noticeably with the guitar volume control at lower fuzz settings.
+Alter-Destiny preserves thick, sustaining Muff-style saturation while extending control over the mids and low end. The extra mid/low-frequency shaping can help keep the fuzz more present in a mix than a conventional fixed-scoop Muff response. [1][2]
 
 ## Research confidence
-- Identity/history: High
-- Feature set: High
-- Colorways: Moderate
-- Factory-version history: Moderate
-- Exact transistor: Unknown
-- Diode: Unknown
-- Sound: High
+- **Identity:** High
+- **Big Muff lineage:** High
+- **Control/voicing system:** High
+- **9V operation:** High
+- **Exact factory transistor:** Unknown
+- **Exact factory diode:** Unknown
+- **DIY component substitutions:** Not factory evidence
 
-## Photo
-- Exact pedal photograph: Basic Audio's official Alter-Destiny product photograph.
-- Direct image: https://images.squarespace-cdn.com/content/v1/5da9e97016ddf940acffa2d3/1588267734218-NJU89QSGW3P07HMHQX90/DSCF2362-2.jpg
-- Source page: https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-6jkg6-n6nrp-7mca3
+## Deep research verification
+Basic Audio's official product page was cross-checked with Effects Database and historical independent references. The core Muff lineage and expanded control system are consistent across sources. The archive explicitly separates factory documentation from DIY reverse-engineering reports so speculative component substitutions do not become catalog facts. [1][2][5][6]
 
 ## Sources checked
-1. Basic Audio — Alter-Destiny official product page: https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-6jkg6-n6nrp-7mca3
+1. Basic Audio — Alter-Destiny: https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-6jkg6-n6nrp-7mca3
 2. Effects Database — Basic Audio Alter-Destiny: https://www.effectsdatabase.com/model/basicaudio/alterdestiny
-3. Reverb — Basic Audio Alter-Destiny product record: https://reverb.com/p/basic-audio-alter-destiny
+3. Reverb — Basic Audio Alter-Destiny: https://reverb.com/p/basic-audio-alter-destiny
 4. Guitar Pedal X — Basic Audio Compact Pedals A to Z: https://www.guitarpedalx.com/news/basic-audio-compact-pedals-a-to-z--28-fantastic-flavours-of-fuzz-since-1998
-5. Guitar Pedal X — Which Basic Audio Fuzz should I get next?: https://www.guitarpedalx.com/news/gpx-blog/which-basic-audio-fuzz-should-i-get-next
-6. PedalPCB Community — Altered States / Alter-Destiny discussion: https://forum.pedalpcb.com/threads/this-week-on-the-breadboard-altered-states.27623/
-7. PedalPCB Community — Alter-Destiny build report mentioning BAT42 clipping changes: https://forum.pedalpcb.com/threads/the-contest-of-the-summer-big-muff-edition.26572/
+5. PedalPCB — Altered States / Alter-Destiny discussion: https://forum.pedalpcb.com/threads/this-week-on-the-breadboard-altered-states.27623/
+6. PedalPCB — Alter-Destiny clipping experiments: https://forum.pedalpcb.com/threads/the-contest-of-the-summer-big-muff-edition.26572/
+
+## Photo
+- **Exact pedal photograph:** Basic Audio official product photograph.
+- **Direct image:** https://images.squarespace-cdn.com/content/v1/5da9e97016ddf940acffa2d3/1588267734218-NJU89QSGW3P07HMHQX90/DSCF2362-2.jpg
+- **Source page:** Basic Audio Alter-Destiny product page.
