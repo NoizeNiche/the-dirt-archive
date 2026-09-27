@@ -35618,8 +35618,8 @@
       "image": "./assets/pedals/electronic-audio-experiments/glaive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Electronic Audio Experiments/Glaive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Electronic Audio Experiments",
