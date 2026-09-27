@@ -412,6 +412,7 @@ async function targetRecord(builder,pedal,type){
     const fullText=info.title+' '+info.h1+' '+info.description+' '+info.body+' '+u;
     const f=fit(builder,pedal,fullText);
     if(!f.pedalHits || !f.builderHits) return null;
+    const curatedExactCandidate = recordSourceUrls.has(item.x.url) || recordSourceUrls.has(u);
     const target=norm(pedal);
     const bodyNorm=norm(info.body);
     if(models.length && target && !bodyNorm.includes(target)){
