@@ -3,13 +3,13 @@
 
 The active production phase is **Catalog Research Phase**. PRP1 is retained only as a legacy publication/closeout mechanism.
 
-Live catalog: **4206 total / 4206 surface-ready / 3852 deep-researched / 3739 research-linked / 3385 pictured / 3385 complete / 0 surface-missing / 354 deep-research-pending / 354 researched-photo-pending**.
+Live catalog: **4206 total / 4206 surface-ready / 3853 deep-researched / 3739 research-linked / 3385 pictured / 3385 complete / 0 surface-missing / 353 deep-research-pending / 354 researched-photo-pending**.
 
-**Next deep-research target:** DOD Electronics - Bass Overdrive (FX91).
+**Next deep-research target:** DOD Electronics - Carcosa Fuzz.
 
 PRP1 closeout remains separate: 354 researched record(s) still lack an exact local photo.
 The research queue is generated from the canonical catalog and tracker; do not hand-edit the derived queue.
-Last refreshed: 2026-09-27T21:44:37.812838+00:00
+Last refreshed: 2026-09-27T21:45:29.573535+00:00
 <!-- AUTO:RESEARCH_PHASE_END -->
 
 <!-- AUTO:RESEARCH_PHASE_START -->
