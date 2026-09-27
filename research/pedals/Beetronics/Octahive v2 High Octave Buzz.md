@@ -14,10 +14,45 @@ The Dirt Archive currently catalogs **Octahive v2 High Octave Buzz** by **Beetro
 ## Catalog source
 - Catalog source page on file: https://www.beetronicsfx.com/collections/all-pedals-1
 
-## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
+## Deep research verification
 
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+This pass uses Beetronics' current exact-model Octahive V2 documentation and the builder's 2023 demonstration.
+
+### Verified description
+
+The **Octahive V2** is a high-octave fuzz inspired by 1970s octave pedals. Beetronics describes two main modes: **BUZZZ** for thick, aggressive high-gain fuzz and **OCTAVE** for pronounced octave-up fuzz.
+
+### Verified controls and switching
+
+- **Pre:** acts like the guitar-volume/input-level control and can be used to find the response sweet spot for octave harmonics.
+- **Honey:** fuzz/gain control.
+- **Volume:** output.
+- Footswitch can **double-tap** to toggle BUZZZ/OCTAVE or be held for momentary switching.
+- Three configurable footswitch response profiles: Fast, Medium, and Lazy.
+- True bypass.
+- Standard **9V DC center-negative** supply; Beetronics lists approximately **50 mA** draw.
+
+### Verified version references
+
+- **Octahive V2** is explicitly documented as a second-generation model.
+- Beetronics states that V2 retains the original character while adding smart footswitching, customizable switching profiles, and expanded live control.
+
+### Verified transistor/device terms
+
+- Exact transistor/device type: Not documented in the reviewed exact-model sources.
+
+### Verified diode terms
+
+- Exact clipping/rectifier diode: Not documented.
+
+### Verified sound evidence
+
+Beetronics describes BUZZZ mode as searing, thick and aggressive high-gain fuzz and OCTAVE mode as screaming psychedelic octave-up fuzz. The builder's 2023 demonstration also describes neck-pickup/low-Pre settings as emphasizing the octave harmonics.
+
+### Sources checked in this pass
+
+1. Beetronics — Octahive V2 High Octave Fuzz: https://www.beetronicsfx.com/products/octahive-v2-high-octave-fuzz-p-babee-series
+2. Beetronics — Octahive V2 demonstration: https://www.youtube.com/watch?v=Vcvsb2qWBWI
+
+## Photo
+- **Archive status:** **Exact Photo Pending**
