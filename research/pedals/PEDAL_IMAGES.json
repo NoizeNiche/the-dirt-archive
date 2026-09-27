@@ -29395,5 +29395,19 @@
     "image": "",
     "source_page": "https://www.petecornish.co.uk/deluxeseries.html",
     "research_record": "./research/pedals/Pete Cornish/NG-3.md"
+  },
+  {
+    "builder": "JHS Pedals",
+    "pedal": "Twin Twelve",
+    "image": "",
+    "source_page": "https://jhspedals.info/collections/discontinued-rare?page=2",
+    "research_record": "./research/pedals/JHS Pedals/Twin Twelve.md"
+  },
+  {
+    "builder": "Benson Amps",
+    "pedal": "Chimera Fuzz",
+    "image": "",
+    "source_page": "https://www.bensonamps.com/guitarpedals",
+    "research_record": "./research/pedals/Benson Amps/Chimera Fuzz.md"
   }
 ]

@@ -55922,8 +55922,8 @@
       "image": "",
       "source_page": "https://www.bensonamps.com/guitarpedals",
       "research_record": "./research/pedals/Benson Amps/Chimera Fuzz.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     }
   ],
   "photo_architecture": "local-first"
