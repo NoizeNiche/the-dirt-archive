@@ -59,6 +59,9 @@ h1{margin:0;font-size:clamp(2.5rem,7vw,5.8rem);line-height:.88;letter-spacing:-.
 .statusPill.sourceCount{background:#ebe8e0;color:#514e47}
 
 .sourceLink{color:inherit;text-decoration:underline;text-decoration-thickness:1px;text-underline-offset:2px}
+.sourceRow{margin:7px 0;color:var(--muted);font-size:.76rem;line-height:1.5;padding-left:12px;border-left:2px solid var(--line)}
+.sourceRow .sourceLink{font-weight:950;color:var(--ink)}
+
 .sourceLink:hover{text-decoration-thickness:2px}
 main{padding:20px 0 60px}
 .grid{display:grid;grid-template-columns:minmax(0,1fr) 360px;gap:18px;align-items:start}
