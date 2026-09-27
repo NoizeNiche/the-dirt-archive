@@ -34,3 +34,7 @@ Tube Bender ranges from subtle overdrive and amp boosting through rich sustainin
 1. Effects Database — Dinosaural Tube Bender: https://www.effectsdatabase.com/model/dinosaural/tubebender
 2. Effects Database — Dinosaural history: https://www.effectsdatabase.com/model/dinosaural
 3. Coggins Audio — current site/history: https://cogginsaudio.co.uk/
+
+## Deep research verification
+
+This record was rechecked against the exact-model archival sources listed below during the September 2026 historical catalog sweep. The archive uses **Coggins Audio / Dinosaural** as the canonical builder identity, matching the builder master index, and does not treat the later Dinosaural-era names as a separate manufacturer.
