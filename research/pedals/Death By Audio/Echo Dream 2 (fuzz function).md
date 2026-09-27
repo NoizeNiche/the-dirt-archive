@@ -1,43 +1,52 @@
 # Death By Audio — Echo Dream 2 (fuzz function)
 
 ## PRP identity
+- **Archive parent:** Echo Dream 2 (fuzz function)
 - **Builder:** Death By Audio
 - **Catalog type:** Distortion / Fuzz / Overdrive
-- **Identity:** Echo Dream 2, specifically its post-delay fuzz/gain stage.
+- **Identity:** Death By Audio Echo Dream 2, specifically its post-delay fuzz/gain function.
 
 ## What this pedal is
-Death By Audio describes the Echo Dream 2 as a modulating echo whose Fuzz control sits after the echo. That stage ranges from clean through overdrive to fuzz, making it a qualifying dirt function even though the overall product is primarily a delay.
+Death By Audio's official Echo Dream 2 product page describes it as a **lush modulating echo** with a dedicated Fuzz control. The company states that the fuzz section is positioned after the echo and can move from clean through overdrive to fuzz, making the Echo Dream 2 a valid dirt-bearing entry for the archive even though the complete product is primarily a delay/modulation pedal.
 
-## Technical evidence
-- **MASTER:** overall output.
-- **FUZZ:** post-echo gain, from clean to overdrive to fuzz.
-- **DELAY:** delayed-signal level.
-- **D TIME:** 20 ms to about 1.2 seconds.
-- **FBACK:** delay feedback.
-- **SPEED / DEPTH:** modulation.
-- **MOD SHAPE:** sine or square.
-- Dry toggle selects dry signal or repeats-only operation.
-- Power: 40 mA; 9V battery or 9–18V DC adapter documented.
-- Exact fuzz-stage semiconductor and clipping parts: Unknown.
+## Controls / circuit behavior
+Official documentation establishes:
+- **MASTER:** overall output volume.
+- **FUZZ:** gain from clean to fuzz; the gain stage is after the echo, so increasing it distorts both the clean signal and echoes.
+- **DELAY:** level of delayed signal.
+- **D TIME:** approximately 20 ms to 1 second on the current product page; the supplied manual documents up to approximately 1.2 seconds.
+- **FBACK:** delay feedback, from slapback toward runaway oscillation.
+- **DRY toggle:** passes the dry signal or removes it so only repeats are heard.
+- **SPEED / DEPTH:** modulation controls.
+- **MOD SHAPE:** sine or square modulation.
+- **Power:** official product page documents 9V, 12V, or 18V VDC options and 40 mA current draw.
 
-## Sound
-The builder describes the fuzz stage as capable of taking the echoed signal from subtle gain to extreme fuzz. A 2020 video manual also describes the Fuzz control as the post-echo output-gain stage.
+The archive does not infer the exact fuzz semiconductor or clipping parts from the public documentation.
+- **Exact fuzz transistor/device:** Unknown.
+- **Exact clipping/diode device:** Unknown.
+- **Complete schematic:** Not publicly established in the sources reviewed.
+
+## Sound / use
+The builder describes the pedal as capable of everything from delicate echo textures to heavily fuzzed, feedback-driven sounds. Because the fuzz follows the echo in the signal path, increasing FUZZ alters both the dry guitar signal and the delayed repeats.
 
 ## History / scope
-This record deliberately documents the dirt function that qualifies Echo Dream 2 for the archive rather than misrepresenting the complete delay/modulation pedal as a conventional standalone fuzz box.
+Effects Database identifies the product as **Echo Dream 2**, published in 2013, and describes it as a new take on the Echo Dream circuit with added Fuzz and Master controls. This archive record intentionally captures the dirt function that qualifies the model for the dirt census instead of representing the full pedal as a standalone fuzz box.
 
 ## Research confidence
 - **Identity:** High.
-- **Post-delay dirt function:** High.
-- **Controls:** High.
-- **Power:** High.
+- **Post-delay fuzz stage:** High.
+- **Controls and power:** High.
+- **Fuzz/overdrive range:** High.
 - **Exact fuzz circuit components:** Unknown.
+
+## Deep research verification
+This pass cross-checks Death By Audio's current official product documentation, an English manual, and the exact Echo Dream 2 Effects Database entry. Minor manual/product-page differences in maximum delay time are preserved as source-specific documentation rather than silently normalized.
 
 ## Sources checked
 1. Death By Audio - Echo Dream 2: https://deathbyaudio.com/products/echo-dream-2
-2. Death By Audio - Echo Dream 2 video demo
-3. Echo Dream 2 manual
+2. Death By Audio - Echo Dream 2 manual: https://killerrockandroll.com/deathbyaudio/manuals/ED2/Echo-Dream-2-Manual.pdf
+3. Effects Database - Death By Audio Echo Dream 2: https://www.effectsdatabase.com/model/deathbyaudio/echodream/2
 
 ## Photo
-- **Archive status:** Exact Photo Pending
-- No local canonical image was promoted in this pass.
+- **Archive status:** A local catalog image is already assigned to this model.
+- This research pass does not replace the existing image asset.
