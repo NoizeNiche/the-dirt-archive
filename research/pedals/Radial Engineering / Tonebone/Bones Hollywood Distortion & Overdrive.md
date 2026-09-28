@@ -21,3 +21,12 @@ The Dirt Archive currently catalogs **Bones Hollywood Distortion & Overdrive** b
 ## Deep research
 - **Status:** Pending
 - Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+
+## Deep research verification
+- Effects Database identifies **Bones Hollywood Dual Distortion** as a Radial Tonebone Bones model and describes it as a solid-state relative of the Tonebone Classic.
+- The exact-model documentation describes a dual-stage drive circuit, variable drive, a two-band passive-interactive EQ, a three-position gain switch, and a three-position cut switch.
+- The source specifies standard 9V operation and places the model in the Tonebone Bones line rather than the 12AX7-equipped Classic.
+- No unsupported schematic equivalence is inferred from the shared product family.
+
+## Verification source set
+1. Effects Database — Radial Tonebone Bones Hollywood Dual Distortion: https://www.effectsdatabase.com/model/radial/tonebone/bones/hollywood
