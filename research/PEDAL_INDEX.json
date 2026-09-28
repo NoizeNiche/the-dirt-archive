@@ -39929,7 +39929,7 @@
         "Overdrive",
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/jackson-audio/1484-twin-twelve-pedal/primary.webp",
       "source_page": "https://jackson.audio/collections/pedals",
       "research_record": "./research/pedals/Jackson Audio/1484 - Twin Twelve Pedal.md",
       "research_level": "deep",
@@ -45702,7 +45702,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": "",
+      "image": "./assets/pedals/maxon-nisshin-onpa/rto700-real-tube-overdrive/primary.webp",
       "source_page": "https://www.maxonfx.com/",
       "research_record": "./research/pedals/Maxon / Nisshin Onpa/RTO700 Real Tube Overdrive.md",
       "research_level": "deep",
@@ -56725,7 +56725,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/wampler-pedals/catapulp/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Wampler Pedals/cataPulp.md",
       "research_level": "deep",

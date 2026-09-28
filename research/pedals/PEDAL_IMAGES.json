@@ -21575,7 +21575,7 @@
   {
     "builder": "Jackson Audio",
     "pedal": "1484 - Twin Twelve Pedal",
-    "image": null,
+    "image": "./assets/pedals/jackson-audio/1484-twin-twelve-pedal/primary.webp",
     "source_page": "https://jackson.audio/collections/pedals",
     "research_record": "./research/pedals/Jackson Audio/1484 - Twin Twelve Pedal.md"
   },
@@ -24673,7 +24673,7 @@
   {
     "builder": "Maxon / Nisshin Onpa",
     "pedal": "RTO700 Real Tube Overdrive",
-    "image": "",
+    "image": "./assets/pedals/maxon-nisshin-onpa/rto700-real-tube-overdrive/primary.webp",
     "source_page": "https://www.maxonfx.com/",
     "research_record": "./research/pedals/Maxon / Nisshin Onpa/RTO700 Real Tube Overdrive.md"
   },
@@ -30723,7 +30723,7 @@
   {
     "builder": "Wampler Pedals",
     "pedal": "cataPulp",
-    "image": null,
+    "image": "./assets/pedals/wampler-pedals/catapulp/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Wampler Pedals/cataPulp.md"
   },
