@@ -9,6 +9,7 @@ on:
     paths:
       - 'research/RESEARCH_WORKER_KICK'
       - 'research/RESEARCH_SOURCE_OVERRIDES.csv'
+      - 'research/PEDAL_IDENTITY_ALIASES.csv'
   # Autonomous research resumed. Scheduled, source-change, and kick-triggered passes remain bounded.
 
 permissions:
