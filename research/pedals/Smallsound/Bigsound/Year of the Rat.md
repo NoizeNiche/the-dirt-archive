@@ -1,23 +1,36 @@
 # Smallsound/Bigsound — Year of the Rat
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Year of the Rat
 - **Builder:** Smallsound/Bigsound
-- **Pedal:** Year of the Rat
 - **Catalog type:** Fuzz
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Smallsound/Bigsound Year of the Rat, an exact cataloged fuzz record.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Year of the Rat** by **Smallsound/Bigsound** as a **Fuzz** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Year of the Rat is cataloged by the archive as a Smallsound/Bigsound fuzz. The surviving exact-model image source in Temple Planner identifies the product by the Smallsound/Bigsound builder name and model title. Because the available source set does not preserve a reliable manufacturer description for this particular model, the archive does not transfer circuit or tonal claims from other Smallsound/Bigsound pedals.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No complete factory colorway sequence established.
+
+## Versions and factory options
+- **Year of the Rat:** exact cataloged model.
+- No distinct numbered factory revision established from the available exact-model source.
+
+## Version changes
+- No documented production revision history established.
+
+## Transistor
+- **Exact production transistor/device:** Not established.
+
+## Diode
+- **Exact clipping/rectification diode:** Not established.
+
+## Sound
+The available exact-model evidence confirms the pedal's identity and fuzz classification but does not provide enough reliable model-specific technical or tonal information to add more without speculation.
+
+## Sources checked
+1. Temple Planner exact-model pedal database/reference: https://www.templeplanner.com/
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Exact-model photo lead:** Temple Planner exact-model database.
+- **Archive status:** Local photo recovery is handled separately; only a verified local asset counts as pictured.
