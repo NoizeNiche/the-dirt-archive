@@ -21,3 +21,4 @@ photo-pass-2026-09-25T21:07:00Z
 [2026-09-27T22:25:08.678Z] Finish-line fast photo catch-up: expanded pass to 100 targets with 20-way recovery parallelism.
 [2026-09-27T22:26:53.390Z] Restart finish-line fast photo lane after self-chain and throughput fixes.
 reserve-hard-case-capacity 1790570399373
+CBS-Arbiter exact Effects Database deep-photo retry 1790570496618
