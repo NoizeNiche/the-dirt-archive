@@ -125,3 +125,9 @@ After a change:
 2. inspect the resulting repository state
 3. confirm the requested behavior
 4. update `CURRENT_STATE.md` and `research/BREADCRUMB.md` when the project state changes
+
+## Current mission
+
+**Accuracy, photo integrity, identity, and public usability.**
+
+The archive is now in ongoing product hardening. Exact-model photo recovery, contaminated-photo quarantine, identity-safe search and lineage, builder/enthusiast discovery tools, and rigorous browser QA are the active priorities.
