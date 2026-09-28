@@ -6,6 +6,7 @@ import { execFileSync } from 'node:child_process';
 const TRACKER = path.join(process.cwd(), 'research/PRP_TRACKER.csv');
 const OVERRIDES = path.join(process.cwd(), 'research/PHOTO_SOURCE_OVERRIDES.csv');
 const RESEARCH_SOURCE_OVERRIDES = path.join(process.cwd(), 'research/RESEARCH_SOURCE_OVERRIDES.csv');
+const PEDAL_IDENTITY_ALIASES = path.join(process.cwd(), 'research/PEDAL_IDENTITY_ALIASES.csv');
 const VERIFIED_SOURCE_CACHE = path.join(process.cwd(), 'research/RESEARCH_VERIFIED_SOURCE_CACHE.json');
 const INDEX = path.join(process.cwd(), 'research/PEDAL_INDEX.json');
 const OUT = path.join(process.cwd(), 'artifact');
@@ -33,11 +34,24 @@ function csvRows(raw) {
   return lines.slice(1).map(line=>Object.fromEntries(parse(line).map((v,i)=>[h[i],(v||'').trim()])));
 }
 function norm(v){return String(v||'').toLowerCase().replace(/\+/g,' plus ').replace(/[^a-z0-9]+/g,' ').replace(/\s+/g,' ').trim();}
+function confirmedIdentityAliases(value){
+  const raw=String(value||'').trim();
+  const out=[];
+  try{
+    const rows=csvRows(fs.readFileSync(PEDAL_IDENTITY_ALIASES,'utf8'));
+    for(const row of rows){
+      if(String(row.Status||'').trim().toUpperCase()!=='CONFIRMED') continue;
+      if(String(row['Canonical Pedal']||'').trim()===raw) out.push(String(row['Alias Pedal']||'').trim());
+      if(String(row['Alias Pedal']||'').trim()===raw) out.push(String(row['Canonical Pedal']||'').trim());
+    }
+  }catch{}
+  return out.filter(Boolean);
+}
 function slug(v){return String(v||'').trim().replace(/[^A-Za-z0-9]+/g,'_').replace(/^_+|_+$/g,'').slice(0,120)||'unknown';}
 function toks(v){return norm(v).split(/\s+/).filter(x=>x.length>=3||/\d/.test(x));}
 function pedalIdentityVariants(pedal){
   const raw=String(pedal||'').trim();
-  const variants=[raw];
+  const variants=[raw,...confirmedIdentityAliases(raw)];
   // Catalog records sometimes append a descriptive effect class after an em dash,
   // while source pages use only the model name. Treat the left-hand model name as
   // an exact identity variant without weakening ordinary hyphenated model names.
