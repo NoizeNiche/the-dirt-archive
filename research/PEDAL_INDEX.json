@@ -1,5 +1,5 @@
 {
-  "version": "data-20260928-dirt-scope-cleanup",
+  "version": "data-20260928-identity-dedup",
   "count": 4204,
   "pedals": [
     {
@@ -49809,14 +49809,14 @@
     },
     {
       "company": "Pigtronix",
-      "pedal": "Philosopher’s Tone 2",
+      "pedal": "Philosopher's Tone 2",
       "types": [
         "Distortion",
         "Overdrive"
       ],
       "image": null,
       "source_page": null,
-      "research_record": "./research/pedals/Pigtronix/Philosopher’s Tone 2.md",
+      "research_record": "./research/pedals/Pigtronix/Philosopher's Tone 2.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED"
     },
