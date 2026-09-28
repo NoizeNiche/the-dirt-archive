@@ -247,3 +247,14 @@ The repository uses a single-owner rule for every moving part:
 | Public browser behavior | `assets/js/archive-core.js` + page controllers | keep page-specific behavior out of HTML shells |
 | Deployment orchestration | `.github/workflows/deploy-pages.yml` | publish a validated tree; do not embed application logic |
 | Local browser-audit HTTP server | `scripts/serve-static.js` | serve the checked-out archive for deterministic audits; do not copy server logic into workflows |
+
+
+## Exhaustive quality audits
+
+The repository includes two heavyweight quality audits separate from the fast deployment smoke audit.
+
+`scripts/audit-detail-pages.js` renders every non-variation public catalog identity and checks exact Builder + Pedal identity, research rendering, primary photo container count/geometry, local-photo loading, and self-identifying missing-photo fallbacks.
+
+`scripts/audit-photo-content.py` audits local image integrity, blocked photo provenance, known-bad image hashes, near-blank assets, and high-confidence embedded donation/support-platform text in likely overlay zones.
+
+The scheduled/manual workflow is `.github/workflows/exhaustive-quality-audit.yml`. It is designed to catch catalog-wide presentation failures that a bounded deployment canary cannot guarantee.
