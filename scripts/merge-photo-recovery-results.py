@@ -20,17 +20,19 @@ def main():
 
     copied = 0
     seen_sources = set()
-    for source in ARTIFACTS.rglob("*.source"):
-        rel = None
+    # Current recovery artifacts package the verified image as .webp. Keep
+    # accepting legacy .source artifacts so older queued runs can still merge.
+    for source in [*ARTIFACTS.rglob("*.webp"), *ARTIFACTS.rglob("*.source")]:
         parts = source.parts
-        if "assets" in parts and "pedals" in parts:
-            i = parts.index("assets")
-            candidate = Path(*parts[i:])
-            rel = candidate
-        if rel is None:
+        if "assets" not in parts or "pedals" not in parts:
             continue
-        target = ROOT / rel
+        i = parts.index("assets")
+        target = ROOT / Path(*parts[i:])
         target.parent.mkdir(parents=True, exist_ok=True)
+        source_key = (str(target), str(source))
+        if source_key in seen_sources:
+            continue
+        seen_sources.add(source_key)
         if target.exists():
             continue
         shutil.copy2(source, target)
