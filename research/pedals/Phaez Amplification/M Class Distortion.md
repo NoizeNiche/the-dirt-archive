@@ -21,3 +21,11 @@ The Dirt Archive currently catalogs **M Class Distortion** by **Phaez Amplificat
 ## Deep research
 - **Status:** Pending
 - Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+
+## Deep research verification
+- Phaez's manufacturer lineup identifies **M Class Distortion** as a development of the builder's Guv'nor-based design.
+- The current manufacturer description highlights increased output and a Marshall JCM/Plexi-style tone stack.
+- The page also notes that the M-Class was formerly known as the Emperor+; the archive records that naming relationship without merging the models.
+
+## Verification source set
+1. Phaez Amplification — Pedals: https://phaezamplification.com/pedals/
