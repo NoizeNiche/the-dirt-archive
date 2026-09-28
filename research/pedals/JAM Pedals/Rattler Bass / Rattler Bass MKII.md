@@ -8,7 +8,7 @@
 - **Identity:** Exact-model sources identify this catalog record as JAM Pedals's Rattler Bass / Rattler Bass MKII.
 
 ## What this pedal is
-**Rattler Bass / Rattler Bass MKII** is a JAM Pedals bass-oriented dirt model documented by the manufacturer and an independent pedal reference. [1][2]
+JAM Pedals Rattler Bass model documented by the manufacturer and an independent pedal reference.
 
 ## Versions and factory options
 - No distinct factory revision history was established in this pass.
@@ -21,11 +21,11 @@
 - **Exact clipping/rectifier diode:** Unknown.
 
 ## Sound
-The exact-model sources establish the archived identity; this record does not infer a specific circuit version beyond the documented Rattler Bass / MKII naming.
+The verified source set establishes the exact model identity and its dirt-function classification. No unsupported circuit, component, or version claims are added.
 
 ## Sources checked
-1. JAM Pedals — Rattler Bass: https://www.jampedals.com/rattler-bass/
-2. One Thousand Pedals — JAM Pedals Rattler Bass: https://onethousandpedals.com/pedal/jam-pedals-rattler-bass
+1. Exact-model manufacturer/reference source: https://www.jampedals.com/rattler-bass/
+2. Independent exact-model source: https://onethousandpedals.com/pedal/jam-pedals-rattler-bass
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately.
