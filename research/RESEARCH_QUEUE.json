@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-28T11:49:56.216471+00:00",
+  "generated_at": "2026-09-28T11:51:29.453225+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,8 +10,8 @@
     "pictured": 3930,
     "complete": 3930,
     "research_pending": 0,
-    "deep_research_pending": 11,
-    "deep_researched": 4195,
+    "deep_research_pending": 9,
+    "deep_researched": 4197,
     "surface_ready": 4206
   },
   "next_target": {
@@ -44,13 +44,6 @@
       "research_level": "surface"
     },
     {
-      "builder": "Radial Engineering / Tonebone",
-      "pedal": "Bassbone OD",
-      "catalog_type": "Overdrive",
-      "research_record": "./research/pedals/Radial Engineering / Tonebone/Bassbone OD.md",
-      "research_level": "surface"
-    },
-    {
       "builder": "SBGO Effects",
       "pedal": "Creamy Fuzz",
       "catalog_type": "Fuzz",
@@ -62,13 +55,6 @@
       "pedal": "Year of the Rat",
       "catalog_type": "Fuzz",
       "research_record": "./research/pedals/Smallsound/Bigsound/Year of the Rat.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Tone Hungry Effects",
-      "pedal": "Hot Molasses Mini Overdrive",
-      "catalog_type": "Overdrive",
-      "research_record": "./research/pedals/Tone Hungry Effects/Hot Molasses Mini Overdrive.md",
       "research_level": "surface"
     },
     {

@@ -49917,8 +49917,8 @@
       "image": "./assets/pedals/radial-engineering-tonebone/bassbone-od/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Radial Engineering / Tonebone/Bassbone OD.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Radial Engineering / Tonebone",
@@ -53458,8 +53458,8 @@
       "image": "./assets/pedals/tone-hungry-effects/hot-molasses-mini-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Tone Hungry Effects/Hot Molasses Mini Overdrive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Tone Hungry Effects",
