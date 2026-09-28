@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 """Quarantine high-confidence contaminated pedal photos.
 
-Reads a photo-content audit CSV, removes only high-confidence non-product
-images from the canonical catalog, preserves the research record, rebuilds the
-photo manifest/tracker, and records the quarantined identities for review.
+Reads a photo-content audit CSV, removes only high-confidence unusable or
+non-product images from the canonical catalog, preserves the research record,
+rebuilds the photo manifest/tracker, and records the quarantined identities for review.
 
 This script intentionally does not replace an image with a guess. A quarantined
 record becomes photo-needed, the photo backlog is rebuilt, and it returns to
@@ -26,6 +26,10 @@ HIGH_PREFIXES = (
     "donation_or_platform_overlay:",
     "known_blocked_image_hash",
     "blocked_provenance:",
+    "tiny_file",
+    "tiny_dimensions",
+    "unreadable_image:",
+    "fully_or_nearly_transparent",
 )
 
 def load_audit(path: Path):
