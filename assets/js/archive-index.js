@@ -8,8 +8,10 @@ let selectedClippings=new Set((initialParams.get('clipping')||'').split(',').map
 let selectedPowers=new Set((initialParams.get('power')||'').split(',').map(x=>x.trim()).filter(Boolean));
 let selectedResearch=initialParams.get('research')||'all';
 let selectedPhoto=initialParams.get('photo')||'all';
+let selectedView=initialParams.get('view')||'grid';
 if(!['all','deep','not-deep'].includes(selectedResearch))selectedResearch='all';
 if(!['all','archived','needed'].includes(selectedPhoto))selectedPhoto='all';
+if(!['grid','table'].includes(selectedView))selectedView='grid';
 let facetRecords=new Map();let facetOptions={transistor:[],clipping:[],power:[]};
 if(!['All','Overdrive','Distortion','Fuzz'].includes(selectedType))selectedType='All';
 
@@ -72,6 +74,42 @@ function discoverPedal(){
   location.href=slugParams(picked);
 }
 
+
+function renderTable(pageItems){
+  const rows=pageItems.map(x=>{
+    const facets=facetRecords.get(entryKey(x))||{};
+    const tech=[...(facets.transistor||[]),...(facets.clipping||[])].filter(Boolean);
+    const power=(facets.power||[]).filter(Boolean);
+    const version=x.version_label||'Base record';
+    const saved=isSaved(x), compared=isInCompare(x);
+    return '<tr>'+
+      '<td><a class="tablePedal" href="'+slugParams(x)+'">'+esc(x.pedal)+'</a><span class="tableBuilder">'+esc(x.company)+'</span></td>'+
+      '<td><span class="tableMeta">'+esc(x.types?.join(', ')||'Not classified')+'</span></td>'+
+      '<td><span class="tableMeta">'+esc(version)+'</span></td>'+
+      '<td><span class="tableMeta">'+esc(tech.length?tech.join(', '):'Not documented')+(power.length?' · '+power.join(', '):'')+'</span></td>'+
+      '<td><span class="tableStatus">'+(isLocalArchiveImage(x)?'Photo archived':'Photo needed')+'</span></td>'+
+      '<td><span class="tableStatus">'+(String(x.research_level||'').toLowerCase()==='deep'?'Deep':'Not deep')+'</span></td>'+
+      '<td><div class="tableActions">'+
+        '<button class="tableAction saveTableAction '+(saved?'active':'')+'" type="button" data-action="save" data-builder="'+esc(x.company)+'" data-pedal="'+esc(x.pedal)+'">'+(saved?'Saved':'Save')+'</button>'+
+        '<button class="tableAction compareTableAction '+(compared?'compareActive':'')+'" type="button" data-action="compare" data-builder="'+esc(x.company)+'" data-pedal="'+esc(x.pedal)+'"'+(!compared&&compareState().length>=4?' disabled':'')+'>'+ (compared?'Comparing':'Compare')+'</button>'+
+      '</div></td>'+
+    '</tr>';
+  }).join('');
+  return '<div class="archiveTableWrap"><table class="archiveTable"><thead><tr>'+
+    '<th scope="col">Pedal / Builder</th><th scope="col">Type</th><th scope="col">Version</th><th scope="col">Documented tech / power</th><th scope="col">Photo</th><th scope="col">Research</th><th scope="col">Workbench</th>'+
+    '</tr></thead><tbody>'+rows+'</tbody></table></div>';
+}
+function wireTableActions(){
+  document.querySelectorAll('.tableAction').forEach(button=>{
+    button.onclick=event=>{
+      event.preventDefault();event.stopPropagation();
+      const item=items.find(x=>x.company===button.dataset.builder&&x.pedal===button.dataset.pedal);
+      if(!item)return;
+      if(button.dataset.action==='save')toggleSaved(item);
+      else{const result=toggleCompare(item);if(result.reason==='limit')openWorkbench();}
+    };
+  });
+}
 
 function renderWorkbench(){
   const panel=$('workbench');
@@ -140,6 +178,7 @@ function syncUrl(replace=true){
   if(selectedPowers.size)p.set('power',[...selectedPowers].join(','));
   if(selectedResearch!=='all')p.set('research',selectedResearch);
   if(selectedPhoto!=='all')p.set('photo',selectedPhoto);
+  if(selectedView!=='grid')p.set('view',selectedView);
   if(q)p.set('q',q);
   if(currentPage>1)p.set('page',currentPage);
   const target=p.toString()?('./index.html?'+p.toString()):'./index.html';
@@ -440,7 +479,7 @@ function render(){
     ? 'Showing '+rangeStart.toLocaleString()+'–'+rangeEnd.toLocaleString()+' of '+visible.length.toLocaleString()
     : '0')+' pedal'+(visible.length===1?'':'s')+' · '+builderCount.toLocaleString()+' builder'+(builderCount===1?'':'s');
 
-  $('grid').innerHTML=pageItems.length
+  const gridHtml=pageItems.length
     ? pageItems.map(x=>
       (()=>{
         const img=pedalImages.get(entryKey(x));
@@ -465,9 +504,18 @@ function render(){
       })()
     ).join('')
     : '<div class="empty"><strong>No pedals found</strong>Try another search, dirt type, builder, or technical filter.</div>';
-
+  const rendered=selectedView==='table'
+    ? (pageItems.length ? renderTable(pageItems) : '<div class="empty"><strong>No pedals found</strong>Try another search, dirt type, builder, or technical filter.</div>')
+    : gridHtml;
+  $('grid').innerHTML=rendered;
+  $('gridViewButton')?.classList.toggle('active',selectedView==='grid');
+  $('gridViewButton')?.setAttribute('aria-pressed',String(selectedView==='grid'));
+  $('tableViewButton')?.classList.toggle('active',selectedView==='table');
+  $('tableViewButton')?.setAttribute('aria-pressed',String(selectedView==='table'));
+  wireTableActions();
   renderPagination(totalPages);
   wireCardActions();
+  wireTableActions();
   renderWorkbench();
   if(normalized)syncUrl(true);
 }
@@ -506,6 +554,8 @@ async function copyViewLink(){
 $('clearFilters').onclick=clearFilters;
 $('discoverPedal').onclick=discoverPedal;
 $('copyViewLink').onclick=copyViewLink;
+$('gridViewButton').onclick=()=>{selectedView='grid';currentPage=1;syncUrl(false);render();};
+$('tableViewButton').onclick=()=>{selectedView='table';currentPage=1;syncUrl(false);render();};
 $('workbenchButton').onclick=()=>{if($('workbench')?.hidden)openWorkbench();else closeWorkbench();};
 $('closeWorkbench').onclick=closeWorkbench;
 $('clearSaved').onclick=clearSaved;
