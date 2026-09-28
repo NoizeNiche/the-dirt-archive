@@ -21,3 +21,12 @@ The Dirt Archive currently catalogs **Grey Faze** by **MOOER Audio / MOOER** as 
 ## Deep research
 - **Status:** Pending
 - Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+
+## Deep research verification
+- Exact-model Effects Database evidence identifies **Grey Faze** as a MOOER fuzz pedal.
+- The admitted source trail documents a germanium-transistor implementation, compact stompbox construction, and standard bypass/power information.
+- No broader circuit-family claim is inferred beyond the exact model documentation.
+
+## Verification source set
+1. Effects Database — MOOER Grey Faze: https://www.effectsdatabase.com/model/mooer/micro/greyfaze
+2. MOOER regional product reference: https://mooer.jp/products/greyfaze
