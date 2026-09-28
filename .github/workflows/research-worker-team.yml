@@ -198,9 +198,16 @@ jobs:
                       if len(targets)>=800: break
               if not progressed: break
           TARGETS_PER_WORKER=40
-          matrix={"include":[{"targets":targets[i:i+TARGETS_PER_WORKER]} for i in range(0,len(targets),TARGETS_PER_WORKER)]}
-          print("matrix="+json.dumps(matrix,ensure_ascii=False,separators=(",",":")))
-          print("Research targets:",len(targets),"workers:",len(matrix["include"]),file=sys.stderr)
+          # An empty dynamic matrix is not a valid Actions matrix. Emit an empty
+          # output instead so the gather job is skipped cleanly when the catalog
+          # has no remaining deep-research targets.
+          if not targets:
+              print("matrix=")
+              print("Research targets: 0; no gather workers needed.", file=sys.stderr)
+          else:
+              matrix={"include":[{"targets":targets[i:i+TARGETS_PER_WORKER]} for i in range(0,len(targets),TARGETS_PER_WORKER)]}
+              print("matrix="+json.dumps(matrix,ensure_ascii=False,separators=(",",":")))
+              print("Research targets:",len(targets),"workers:",len(matrix["include"]),file=sys.stderr)
           PY
 
   gather:
