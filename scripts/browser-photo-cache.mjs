@@ -14,6 +14,7 @@ const TRACKER = path.join(ROOT, 'research/PRP_TRACKER.csv');
 const PHOTO_REVIEW_QUEUE = path.join(ROOT, 'research/PHOTO_REVIEW_QUEUE.csv');
 const PHOTO_RECOVERY_MANIFEST = path.join(ROOT, 'photo-recovery-results.json');
 const PEDAL_IDENTITY_ALIASES = path.join(ROOT, 'research/PEDAL_IDENTITY_ALIASES.csv');
+const PHOTO_SOURCE_BLOCKLIST = path.join(ROOT, 'research/PHOTO_SOURCE_BLOCKLIST.json');
 const LIMIT = Math.max(1, Number(process.env.PHOTO_BROWSER_CACHE_LIMIT || 90));
 const CONCURRENCY = Math.max(1, Number(process.env.PHOTO_BROWSER_CACHE_CONCURRENCY || 8));
 const PRIORITY_COMPANY = String(process.env.PHOTO_BROWSER_CACHE_PRIORITY_COMPANY || '').trim().toLowerCase();
@@ -31,6 +32,26 @@ const MAX_RECOVERY_ATTEMPTS = Math.max(1, Number(process.env.PHOTO_BROWSER_MAX_R
 const MAX_DEEP_REVIEW_CYCLES = Math.max(1, Number(process.env.PHOTO_BROWSER_MAX_DEEP_REVIEW_CYCLES || 8));
 const REVISIT_PARKED = String(process.env.PHOTO_BROWSER_REVISIT_PARKED || 'false').toLowerCase() !== 'false';
 let manifestOwnersByImage = new Map();
+
+let photoBlockRules = [];
+try {
+  const policy = JSON.parse(fs.readFileSync(PHOTO_SOURCE_BLOCKLIST, 'utf8'));
+  photoBlockRules = Array.isArray(policy.rules) ? policy.rules : [];
+} catch {}
+function isBlockedByPhotoPolicy(value) {
+  const raw = String(value || '');
+  const lowered = raw.toLowerCase();
+  return photoBlockRules.some(rule => {
+    const kind = String(rule?.type || '');
+    const pattern = String(rule?.pattern || '');
+    if (!pattern) return false;
+    try {
+      if (kind === 'exact_url') return lowered === pattern.toLowerCase();
+      if (kind.endsWith('_regex')) return new RegExp(pattern, 'i').test(lowered);
+    } catch {}
+    return false;
+  });
+}
 
 function key(builder, pedal) {
   return builder + '\\0' + pedal;
