@@ -344,3 +344,14 @@ The Builder Archive is a derived view over the canonical catalog and does not cr
 The canonical photo state advanced to **4,162 pictured / 40 researched-photo-pending** during the latest recovery work. Photo trust hardening now includes pixel-aware contamination auditing, 24-way exhaustive photo-content scanning, objective quarantine for donation/support overlays, blocked hashes, blocked provenance, tiny/unreadable/transparent assets, duplicate-byte rejection during recovery, generic-source-page demotion, and a review-only lane for ambiguous dark/low-detail images.
 
 Public catalog cards now always expose exact pedal + builder identity and explicit photo state, even when the exact photo is unavailable. Exact pedal pages also carry the record identity into the correction workflow.
+
+
+## Photo/layout quality hardening checkpoint - September 28, 2026
+
+A public detail-page layout issue was identified from visual review: missing primary photos could reserve an oversized portrait canvas, creating a large blank area above the actual information. The detail photo container was changed to a bounded landscape presentation with a compact minimum/maximum height, while missing-photo fallbacks retain the exact pedal and builder identity.
+
+The deployment browser audit now checks primary photo container count and geometry, and an exhaustive detail-page audit has been added for all public catalog identities.
+
+The existing photo-content auditor was retained as the canonical contamination checker and made worker-count configurable. Its high-confidence OCR/provenance checks specifically target embedded donation/support overlays such as “Buy Me a Coffee.”
+
+An independent exhaustive quality workflow now runs manually and on a daily schedule, with push triggers for changes that can affect public photo/detail rendering.
