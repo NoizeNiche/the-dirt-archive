@@ -562,6 +562,7 @@ function render(){
             '<span class="cardBody">'+
               '<span class="name">'+esc(x.pedal)+'</span>'+
               '<span class="builderNameCard">'+esc(x.company)+'</span>'+
+              '<span class="cardPhotoStatus '+(img&&isLocalArchiveImage(img)?'hasPhoto':'needsPhoto')+'">'+(img&&isLocalArchiveImage(img)?'Exact photo archived':'Exact photo pending')+'</span>'+
               (x.version_label ? '<span class="cardVersion">'+esc(x.version_label)+'</span>' : '')+
               (q && searchMatchReason(x) ? '<span class="searchMatchReason">'+esc(searchMatchReason(x))+'</span>' : '')+
               '<span class="chips">'+x.types.map(t=>'<span class="chip">'+esc(t)+'</span>').join('')+'</span>'+
