@@ -51,7 +51,8 @@ function versionFamilyLabel(item){
 }
 function compareLinks(item){
   const parts=[
-    '<a class="action" href="'+esc(detailUrl(item,null,''))+'">Open record</a>'
+    '<a class="action" href="'+esc(detailUrl(item,null,''))+'">Open record</a>',
+    '<button class="action compareRemove" type="button" data-remove-builder="'+esc(item.company)+'" data-remove-pedal="'+esc(item.pedal)+'" aria-label="Remove '+esc(item.company+' '+item.pedal)+' from comparison">Remove</button>'
   ];
   return parts.join('');
 }
@@ -70,6 +71,12 @@ function renderComparison(items, facets){
     '<th scope="col"><span class="comparePedalName">'+esc(item.pedal)+'</span><span class="compareBuilder">'+esc(item.company)+'</span><div class="compareLinks">'+compareLinks(item)+'</div></th>'
   ).join('')+'</tr>';
   document.getElementById('comparisonHead').innerHTML=headRows;
+  document.querySelectorAll('[data-remove-builder]').forEach(button=>{
+    button.onclick=()=>{
+      const item=items.find(x=>x.company===button.dataset.removeBuilder&&x.pedal===button.dataset.removePedal);
+      if(item)toggleCompare(item);
+    };
+  });
   const rows=[
     ['Photo',item=>comparePhoto(item),true],
     ['Dirt type',item=>'<div class="compareValue">'+esc(compareText(item.types))+'</div>'],
@@ -100,7 +107,11 @@ Promise.all([loadCatalog(),loadFacets()]).then(([data,facets])=>{
   const selected=readWorkbench().compare;
   const items=findWorkbenchEntries(allItems,selected).filter(isCatalogEntry);
   renderComparison(items,facets);
-  document.getElementById('copyCompareLink')?.addEventListener('click',()=>copyComparisonLink(items));
+  document.getElementById('copyCompareLink')?.addEventListener('click',()=>{
+    const currentSelection=readWorkbench().compare;
+    const currentItems=findWorkbenchEntries(allItems,currentSelection).filter(isCatalogEntry);
+    copyComparisonLink(currentItems);
+  });
 }).catch(error=>{
   document.getElementById('compareMeta').textContent='Comparison data could not be loaded.';
   console.error(error);
