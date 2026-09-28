@@ -1,23 +1,36 @@
 # NUX Audio / NUX — ’63 Diamond
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** ’63 Diamond
 - **Builder:** NUX Audio / NUX
-- **Pedal:** ’63 Diamond
 - **Catalog type:** Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** NUX Audio / NUX's ’63 Diamond.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **’63 Diamond** by **NUX Audio / NUX** as a **Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+NUX Audio / NUX's ’63 Diamond is cataloged as an overdrive pedal.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+The Dirt Archive currently catalogs **’63 Diamond** by **NUX Audio / NUX** as a **Overdrive** pedal.
+
+## Sources checked
+1. catalog/override source: https://reverb.com/item/94328003-nux-reissue-series-63-diamond-overdrive-guitar-effects-pedal
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

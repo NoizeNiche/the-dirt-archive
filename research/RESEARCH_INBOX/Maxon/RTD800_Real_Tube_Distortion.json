@@ -1,0 +1,19 @@
+{
+  "builder": "Maxon",
+  "pedal": "RTD800 Real Tube Distortion",
+  "original_builder": "Maxon",
+  "original_pedal": "RTD800 Real Tube Distortion",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 1,
+  "sources": [
+    {
+      "url": "https://www.effectsdatabase.com/model/maxon/retube/rtd800",
+      "title": "catalog/override source",
+      "h1": "Maxon \u2014 RTD800 Real Tube Distortion",
+      "excerpt": "- **Builder:** Maxon\n- **Pedal:** RTD800 Real Tube Distortion\n- **Catalog type:** Distortion / Overdrive\n- **Research level:** Surface\n- **Deep research status:** Pending\n- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.\n\nThe Dirt Archive currently catalogs **RTD800 Real Tube Distortion** by **Maxon** as a **Distortion / Overdrive** pedal. This statement is limited to the archive\u2019s catalog classification. Deeper technical, historical, and sonic details remain pending verification.\n\n- No source page is recorded in the current catalog metadata.\n\n- **Archive photo:** No verified local photo is currently archived.\n- Photo provenance and validation are handled separately from this surface research record.\n\n- **Status:** Pending\n- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive\u2019s research foreman.",
+      "host": "www.effectsdatabase.com",
+      "source_kind": "effects_database"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}

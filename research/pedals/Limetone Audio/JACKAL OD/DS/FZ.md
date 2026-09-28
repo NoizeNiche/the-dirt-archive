@@ -1,23 +1,37 @@
 # Limetone Audio — JACKAL OD/DS/FZ
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** JACKAL OD/DS/FZ
 - **Builder:** Limetone Audio
-- **Pedal:** JACKAL OD/DS/FZ
 - **Catalog type:** Distortion / Fuzz / Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Limetone Audio's JACKAL OD/DS/FZ.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **JACKAL OD/DS/FZ** by **Limetone Audio** as a **Distortion / Fuzz / Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Limetone Audio's JACKAL OD/DS/FZ is cataloged as a distortion / fuzz / overdrive pedal.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- The verified evidence references: Version2.
+- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Documented terms in the verified sources: AC208MS.
+- The archive records only the component information explicitly present in these sources.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+The Dirt Archive currently catalogs **JACKAL OD/DS/FZ** by **Limetone Audio** as a **Distortion / Fuzz / Overdrive** pedal.
+
+## Sources checked
+1. JACKAL | Limetone Audio: https://limetoneaudio.com/prd_jackaldc.html
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

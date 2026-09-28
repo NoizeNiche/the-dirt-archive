@@ -1,0 +1,19 @@
+{
+  "builder": "Visual Sound / Truetone",
+  "pedal": "Double Trouble",
+  "original_builder": "Visual Sound / Truetone",
+  "original_pedal": "Double Trouble",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 1,
+  "sources": [
+    {
+      "url": "https://reverb.com/item/92985338-visual-sound-double-trouble",
+      "title": "catalog/override source",
+      "h1": "Visual Sound / Truetone \u2014 Double Trouble",
+      "excerpt": "- **Builder:** Visual Sound / Truetone\n- **Pedal:** Double Trouble\n- **Catalog type:** Overdrive\n- **Research level:** Surface\n- **Deep research status:** Pending\n- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.\n\nThe Dirt Archive currently catalogs **Double Trouble** by **Visual Sound / Truetone** as a **Overdrive** pedal. This statement is limited to the archive\u2019s catalog classification. Deeper technical, historical, and sonic details remain pending verification.\n\n- No source page is recorded in the current catalog metadata.\n\n- **Archive photo:** No verified local photo is currently archived.\n- Photo provenance and validation are handled separately from this surface research record.\n\n- **Status:** Pending\n- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive\u2019s research foreman.",
+      "host": "reverb.com",
+      "source_kind": "reverb"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}

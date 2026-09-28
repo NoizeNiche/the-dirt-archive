@@ -1,23 +1,37 @@
 # Visual Sound / Truetone — V2 Route 66
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** V2 Route 66
 - **Builder:** Visual Sound / Truetone
-- **Pedal:** V2 Route 66
 - **Catalog type:** Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Visual Sound / Truetone's V2 Route 66.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **V2 Route 66** by **Visual Sound / Truetone** as a **Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Visual Sound / Truetone's V2 Route 66 is cataloged as an overdrive pedal.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- The verified evidence references: V2.
+- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+The Dirt Archive currently catalogs **V2 Route 66** by **Visual Sound / Truetone** as a **Overdrive** pedal.
+
+## Sources checked
+1. catalog/override source: https://reverb.com/item/92411804-visual-sound-route-66-v2-2010s-tan
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

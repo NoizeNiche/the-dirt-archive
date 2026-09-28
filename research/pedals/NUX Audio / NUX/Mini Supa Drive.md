@@ -1,23 +1,38 @@
 # NUX Audio / NUX — Mini Supa Drive
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Mini Supa Drive
 - **Builder:** NUX Audio / NUX
-- **Pedal:** Mini Supa Drive
 - **Catalog type:** Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** NUX Audio / NUX's Mini Supa Drive.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Mini Supa Drive** by **NUX Audio / NUX** as a **Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+NUX Audio / NUX's Mini Supa Drive is cataloged as an overdrive pedal.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+بازگشت به فروشگاه خانه / افکت / دیستورشن، اوردرایو، بوستر NUX Supa Drive مینی پدال اوردرایو True Bypass کنترل‌های Level ،Tone و Drive توضیحات توضیحات تکمیلی نظرات (0) پدال مینی اوردرایو NUX FOD5 SUPA DRIVE FOD5 Supa Drive، یک مینی پدال اوردرایو انالوگ برای گیتاریست‌ها است.
+اولین کسی باشید که دیدگاهی می نویسد “NUX Supa Drive” لغو پاسخ برای فرستادن دیدگاه، باید وارد شده باشید.
+The Dirt Archive currently catalogs **Mini Supa Drive** by **NUX Audio / NUX** as a **Overdrive** pedal.
+
+## Sources checked
+1. خرید پدال اوردرایو ناکس NUX Supa Drive - گیتار ایران: https://guitariran.com/product/nux-fod5-supa-drive-mini-pedal/
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

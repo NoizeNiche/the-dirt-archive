@@ -4,55 +4,42 @@
 - **Archive parent:** Super Bass Octave Fuzz
 - **Builder:** Katanasound
 - **Catalog type:** Fuzz
-- **Research level:** Deep
-- **Deep research status:** Verified
-- **Identity:** The exact model is identified in Katanasound/Freedom Custom Guitar Research documentation as **Super Bass Fuzz "重低音"**, model **KS-EF-06**. [1][2]
+- **Identity:** Katanasound's Super Bass Octave Fuzz.
 
 ## What this pedal is
-Katanasound describes the **Super Bass Fuzz "重低音"** as an octave fuzz designed specifically for bass. The manufacturer documentation says the design can blend the clean signal with the fuzz signal so the bass line remains easier to hear, while the octave switch adds an upper-octave component. [1][2]
+Katanasound's Super Bass Octave Fuzz is cataloged as a fuzz pedal.
+
+## Colorways
+- No distinct factory colorway system was established in the sources checked.
+- For in-store sales we accept all major credit cards (VISA, Mastercard, Discover, American Express), Cashier’s Check, Money Order, and that green stuff they call Cash.
 
 ## Versions and factory options
-- **Model number:** KS-EF-06. [1]
-- The available manufacturer documentation establishes the original Super Bass Fuzz product identity; no separate factory revision chronology was established.
-- No distinct factory colorway system was established in the sources checked.
+- The verified evidence references: V8, revision, v.6, v5.
+- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
 
 ## Version changes
-- No separate factory version history was established.
-- The archive's displayed name **Super Bass Octave Fuzz** refers to this exact Super Bass Fuzz "重低音" identity rather than treating similarly described octave-fuzz circuits as separate evidence. [1]
-
-## Controls
-- **Dry:** dry-signal level. [1]
-- **Balance:** clean/fuzz blend control. [1]
-- **Tone:** tone control. [1]
-- **Sustain:** fuzz sustain control. [1]
-- **On/Off:** true-bypass effect switching. [1]
-- **Octave:** switches the upper-octave fuzz component. [2]
-
-## Circuit / architecture
-The manufacturer describes the pedal as an octave fuzz with a clean/fuzz blend. [1][2] A 2024 independent layout reference also identifies a schematic for the Katanasound Super Bass Fuzz, but the archive does not infer component-level topology or production parts from that layout alone. [3]
+- No specific factory version changes were established in the verified evidence packet.
 
 ## Transistor
-- **Exact production transistor/device:** Unknown.
-- No manufacturer source checked here establishes a transistor part number.
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
 
 ## Diode
-- **Exact clipping/rectifier diode:** Unknown.
-- No manufacturer source checked here establishes a diode part number.
-
-## Power and physical specification
-- **Power:** 9VDC. [1]
-- **Model number:** KS-EF-06. [1]
-- **Dimensions:** 125 × 96 × 56 mm. [1]
-- **Weight:** 376 g excluding battery. [1]
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
 
 ## Sound
-The manufacturer characterizes the pedal around heavy bass fuzz, upper-octave fuzz, clean/fuzz blending, and maintaining the core of the bass signal within a strong distorted sound. [1] Those are manufacturer descriptions rather than independent measurements.
+Katanasound describes the **Super Bass Fuzz "重低音"** as an octave fuzz designed specifically for bass.
+The manufacturer documentation says the design can blend the clean signal with the fuzz signal so the bass line remains easier to hear, while the octave switch adds an upper-octave component.
+The available manufacturer documentation establishes the original Super Bass Fuzz product identity; no separate factory revision chronology was established.
 
 ## Sources checked
-1. **Freedom Custom Guitar Research / KATANASOUND — Super Bass Fuzz "重低音":** https://global.fcgrtokyo.com/elements/typeId/4/seriesId/4/id/43.html
-2. **KATANASOUND — Super Bass Fuzz manual:** https://global.fcgrtokyo.com/dl/4197/attachment/7ed0fd/SuperBassFuzzManual.pdf
-3. **Dirtbox Layouts — Katanasound Super Bass Fuzz:** https://dirtboxlayouts.blogspot.com/2024/06/katanasound-super-bass-fuzz.html
+1. catalog/override source: https://dirtboxlayouts.blogspot.com/2024/06/katanasound-super-bass-fuzz.html
+2. catalog/override source: https://reverb.com/item/3283218-katanasound-super-bass-fuzz-bass-octave-fuzz-pedal
+3. Katanasound Super Bass Fuzz Bass Octave Fuzz Pedal - Gbase: https://www.gbase.com/gear/katanasound-super-bass-fuzz
+4. https://guitars.gbase.com/aza/user/gear/katanasound-super-bass-fuzz-bass-octave-fuzz-pe.jpg?maxheight=1200&maxwidth=1200: https://guitars.gbase.com/aza/user/gear/katanasound-super-bass-fuzz-bass-octave-fuzz-pe.jpg?maxheight=1200&maxwidth=1200
+5. Katanasound Super Bass Fuzz Bass Octave Fuzz Pedal &mdash; Andy Babiuk's Fab Gear: https://www.andybabiuksfabgear.com/whats-new-aiZQV/p/katanasound-super-bass-fuzz-bass-octave-fuzz-pedal
+6. catalog/override source: https://global.fcgrtokyo.com/dl/4197/attachment/7ed0fd/SuperBassFuzzManual.pdf
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately.
-- Exact-model photo provenance remains governed by the archive's Builder + Pedal identity gate.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

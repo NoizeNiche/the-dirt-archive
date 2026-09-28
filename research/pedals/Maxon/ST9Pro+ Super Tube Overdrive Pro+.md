@@ -1,23 +1,36 @@
 # Maxon — ST9Pro+ Super Tube Overdrive Pro+
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** ST9Pro+ Super Tube Overdrive Pro+
 - **Builder:** Maxon
-- **Pedal:** ST9Pro+ Super Tube Overdrive Pro+
 - **Catalog type:** Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Maxon's ST9Pro+ Super Tube Overdrive Pro+.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **ST9Pro+ Super Tube Overdrive Pro+** by **Maxon** as a **Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Maxon's ST9Pro+ Super Tube Overdrive Pro+ is cataloged as an overdrive pedal.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+The Dirt Archive currently catalogs **ST9Pro+ Super Tube Overdrive Pro+** by **Maxon** as a **Overdrive** pedal.
+
+## Sources checked
+1. Maxon ST-9 Pro+ Super Tube Pro Plus: https://www.musicaccessories.gr/en-gb/effects-guitar-bass-vocal-general/stomp-boxes-guitar-bass-general/guitar-effect-stomp-general/effect-stompbox-guitar-distortion/maxon-st-9-pro-super-tube-pro-plus-maxst9.html
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

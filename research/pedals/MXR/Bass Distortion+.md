@@ -1,23 +1,42 @@
 # MXR — Bass Distortion+
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Bass Distortion+
 - **Builder:** MXR
-- **Pedal:** Bass Distortion+
 - **Catalog type:** Distortion
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** MXR's Bass Distortion+.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Bass Distortion+** by **MXR** as a **Distortion** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Back in the day, if you wanted to use a distortion pedal and keep your low end intact, you had to split your clean and dirty signals between two amps.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Documented terms in the verified sources: LED.
+- The archive records only the component information explicitly present in these sources.
+
+## Sound
+The Dirt Archive currently catalogs **Bass Distortion+** by **MXR** as a **Distortion** pedal.
+The item has been added Add to Wish List Create Wish List Email Print Close × Description The MXR Bass Distortion dishes out big gnarly tones with all the low end your bottom-dwelling heart desires.
+Working closely with indie pedal phenom, bass dirt guru, and Fuzzrocious Pedals founder Ryan Ratajski, we took a famously nasty sounding distortion circuit and re-tooled it for the modern working bass player.
+
+## Sources checked
+1. MXR Bass Distortion Effects Pedal - Reverb: https://reverb.com/item/15842307-mxr-bass-distortion-effects-pedal
+2. MXR M85 Bass Distortion — Bass Effects Pedal | Equipboard: https://equipboard.com/items/mxr-m85-bass-distortion-effects-pedal
+3. MXR Bass Distortion Effects Pedal: https://islandmusicco.com/mxr-bass-distortion-effects-pedal/
+4. MXR Bass Distortion M85 Review: Grit Without Losing Lows: https://playbassbetter.com/blog/mxr-bass-distortion-m85-review/
+5. MXR M85 Bass Distortion Effects Pedal | Guitar Center: https://www.guitarcenter.com/MXR/M85-Bass-Distortion-Effects-Pedal-1421336342281.gc
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

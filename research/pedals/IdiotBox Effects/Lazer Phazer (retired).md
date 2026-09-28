@@ -4,43 +4,37 @@
 - **Archive parent:** Lazer Phazer (retired)
 - **Builder:** IdiotBox Effects
 - **Catalog type:** Fuzz
-- **Research level:** Deep
-- **Deep research status:** Verified
-- **Identity:** The exact model is identified by IdiotBox Effects' retired-design page as the **Lazer Phazer**, a limited-run oscillating square-wave fuzz. [1]
+- **Identity:** IdiotBox Effects's Lazer Phazer (retired).
 
 ## What this pedal is
-IdiotBox describes the **Lazer Phazer** as an **oscillating square wave fuzz** related to its Lazer Fuzz, but with sweeping frequency action. The builder states that the run was limited to **13 units**. [1]
+IdiotBox Effects's Lazer Phazer (retired) is cataloged as a fuzz pedal.
 
-## Versions and factory options
-- **Limited run:** 13 units, according to the builder. [1]
-- No separate factory revision chronology was established.
+## Colorways
 - No distinct factory colorway system was established from the verified evidence.
 
+## Versions and factory options
+- The verified evidence references: revision.
+- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+
 ## Version changes
-- The builder describes the Lazer Phazer as similar to the Lazer Fuzz while adding sweeping frequency action. [1]
-- No later factory revisions were established.
+- No specific factory version changes were established in the verified evidence packet.
 
 ## Transistor
-- **Exact production transistor/device:** Unknown.
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
 
 ## Diode
-- **Exact clipping/rectifier diode:** Unknown.
-
-## Controls
-- **FREQ:** controls the frequency range. [1]
-- **SPEED:** controls sweep speed. [1]
-- **VOL:** controls output volume. [1]
-
-## Circuit / architecture
-The builder explicitly identifies the unit as an **oscillating square wave fuzz**. [1] No schematic, component-level design, or exact oscillator/divider topology was established from the verified source.
+- Documented terms in the verified sources: LEDs, LED.
+- The archive records only the component information explicitly present in these sources.
 
 ## Sound
-IdiotBox characterizes the pedal around oscillating square-wave fuzz and a sweeping frequency effect. [1] More specific sonic claims are intentionally left unresolved because the official description does not establish them.
+ORANGE CYCLE The Orange Cycle was a super fun 8 step square wave sequencer where each step had its own tone frequency control adjustable from high pitch blip to super low buzz and everywhere in between.
+For even more control the -MASTER TONE would change the pitch of all 8 steps at once!
+RAINBOTRON The Rainbotron was a super fun noise box that utilized 6 cascading LEDs the color of the rainbow to interact with a light sensitive tone control.
 
 ## Sources checked
-1. **IdiotBox Effects — Retired Designs:** https://www.idiotboxeffects.com/product/retired-designs
-2. **TalkBass — Idiotbox Repoman discussion (historical mention of Lazer Phazer):** https://www.talkbass.com/threads/idiotbox-repoman.1504191/
+1. Retired Designs | IdiotBox Effects: https://www.idiotboxeffects.com/product/retired-designs
+2. catalog/override source: https://www.talkbass.com/threads/idiotbox-repoman.1504191/
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately.
-- No verified local exact-model photo was created by this research pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

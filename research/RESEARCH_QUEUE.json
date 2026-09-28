@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-28T09:15:55.470226+00:00",
+  "generated_at": "2026-09-28T09:16:35.415183+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,72 +10,23 @@
     "pictured": 3841,
     "complete": 3841,
     "research_pending": 0,
-    "deep_research_pending": 178,
-    "deep_researched": 4028,
+    "deep_research_pending": 130,
+    "deep_researched": 4076,
     "surface_ready": 4206
   },
   "next_target": {
-    "builder": "Fjord Fuzz",
-    "pedal": "Fjord-Fuzz Super-Fuzz",
-    "catalog_type": "Fuzz",
-    "research_record": "./research/pedals/Fjord Fuzz/Fjord-Fuzz Super-Fuzz.md",
+    "builder": "JAM Pedals",
+    "pedal": "Tiny Pond?",
+    "catalog_type": "Distortion / Overdrive",
+    "research_record": "./research/pedals/JAM Pedals/Tiny Pond?.md",
     "research_level": "surface"
   },
   "working_set": [
-    {
-      "builder": "Fjord Fuzz",
-      "pedal": "Fjord-Fuzz Super-Fuzz",
-      "catalog_type": "Fuzz",
-      "research_record": "./research/pedals/Fjord Fuzz/Fjord-Fuzz Super-Fuzz.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Fulltone",
-      "pedal": "Hi-Mu",
-      "catalog_type": "Distortion / Overdrive",
-      "research_record": "./research/pedals/Fulltone/Hi-Mu.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "IdiotBox Effects",
-      "pedal": "Holy Trooper Fuzz (retired)",
-      "catalog_type": "Fuzz",
-      "research_record": "./research/pedals/IdiotBox Effects/Holy Trooper Fuzz (retired).md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "IdiotBox Effects",
-      "pedal": "Lazer Phazer (retired)",
-      "catalog_type": "Fuzz",
-      "research_record": "./research/pedals/IdiotBox Effects/Lazer Phazer (retired).md",
-      "research_level": "surface"
-    },
     {
       "builder": "JAM Pedals",
       "pedal": "Tiny Pond?",
       "catalog_type": "Distortion / Overdrive",
       "research_record": "./research/pedals/JAM Pedals/Tiny Pond?.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "JHS Pedals",
-      "pedal": "Notadümblo V2",
-      "catalog_type": "Overdrive",
-      "research_record": "./research/pedals/JHS Pedals/Notadümblo V2.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Katanasound",
-      "pedal": "Super Bass Octave Fuzz",
-      "catalog_type": "Fuzz",
-      "research_record": "./research/pedals/Katanasound/Super Bass Octave Fuzz.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Keeley Electronics",
-      "pedal": "Dark Side Fuzz/Phaser",
-      "catalog_type": "Fuzz",
-      "research_record": "./research/pedals/Keeley Electronics/Dark Side Fuzz/Phaser.md",
       "research_level": "surface"
     },
     {
@@ -86,115 +37,164 @@
       "research_level": "surface"
     },
     {
-      "builder": "Limetone Audio",
-      "pedal": "funther OD/DS/FZ",
-      "catalog_type": "Distortion / Fuzz / Overdrive",
-      "research_record": "./research/pedals/Limetone Audio/funther OD/DS/FZ.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Limetone Audio",
-      "pedal": "fuzzhog proto OD/DS/FZ",
-      "catalog_type": "Distortion / Fuzz / Overdrive",
-      "research_record": "./research/pedals/Limetone Audio/fuzzhog proto OD/DS/FZ.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Limetone Audio",
-      "pedal": "JACKAL MIDNIGHT OD/DS/FZ",
-      "catalog_type": "Distortion / Fuzz / Overdrive",
-      "research_record": "./research/pedals/Limetone Audio/JACKAL MIDNIGHT OD/DS/FZ.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Limetone Audio",
-      "pedal": "JACKAL OD/DS/FZ",
-      "catalog_type": "Distortion / Fuzz / Overdrive",
-      "research_record": "./research/pedals/Limetone Audio/JACKAL OD/DS/FZ.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Lovepedal",
-      "pedal": "COT 50 / Church of Tone 50",
+      "builder": "Marshall Amplification",
+      "pedal": "Guv'nor Vintage Reissue Pedal",
       "catalog_type": "Overdrive",
-      "research_record": "./research/pedals/Lovepedal/COT 50 / Church of Tone 50.md",
+      "research_record": "./research/pedals/Marshall Amplification/Guv'nor Vintage Reissue Pedal.md",
       "research_level": "surface"
     },
     {
-      "builder": "Lovepedal",
-      "pedal": "COT 50 Boost / Overdrive",
+      "builder": "Marshall Amplification",
+      "pedal": "JCM800 Overdrive Pedal",
       "catalog_type": "Overdrive",
-      "research_record": "./research/pedals/Lovepedal/COT 50 Boost / Overdrive.md",
+      "research_record": "./research/pedals/Marshall Amplification/JCM800 Overdrive Pedal.md",
       "research_level": "surface"
     },
     {
-      "builder": "Mad Professor Amplification",
-      "pedal": "Albert's Overdrive",
+      "builder": "Marshall Amplification",
+      "pedal": "JCM900 Overdrive Pedal",
       "catalog_type": "Overdrive",
-      "research_record": "./research/pedals/Mad Professor Amplification/Albert's Overdrive.md",
+      "research_record": "./research/pedals/Marshall Amplification/JCM900 Overdrive Pedal.md",
       "research_level": "surface"
     },
     {
-      "builder": "Mad Professor Amplification",
-      "pedal": "Blueberry Bass Overdrive",
+      "builder": "Marshall Amplification",
+      "pedal": "JVM Overdrive Pedal",
       "catalog_type": "Overdrive",
-      "research_record": "./research/pedals/Mad Professor Amplification/Blueberry Bass Overdrive.md",
+      "research_record": "./research/pedals/Marshall Amplification/JVM Overdrive Pedal.md",
       "research_level": "surface"
     },
     {
-      "builder": "Mad Professor Amplification",
-      "pedal": "Sweet Honey Overdrive Handwired",
-      "catalog_type": "Overdrive",
-      "research_record": "./research/pedals/Mad Professor Amplification/Sweet Honey Overdrive Handwired.md",
+      "builder": "Marshall Amplification",
+      "pedal": "Shredmaster Vintage Reissue",
+      "catalog_type": "Distortion",
+      "research_record": "./research/pedals/Marshall Amplification/Shredmaster Vintage Reissue.md",
       "research_level": "surface"
     },
     {
-      "builder": "MadeByMike",
-      "pedal": "Dist²",
-      "catalog_type": "Distortion / Overdrive",
-      "research_record": "./research/pedals/MadeByMike/Dist².md",
+      "builder": "Marshall Amplification",
+      "pedal": "Shredmaster Vintage Reissue Pedal",
+      "catalog_type": "Distortion",
+      "research_record": "./research/pedals/Marshall Amplification/Shredmaster Vintage Reissue Pedal.md",
       "research_level": "surface"
     },
     {
-      "builder": "MadeByMike",
-      "pedal": "Germanium Fuzz Face",
+      "builder": "Mask Audio Electronics",
+      "pedal": "Ears Come To Die (historical limited-edition Fuzz Lab)",
       "catalog_type": "Fuzz",
-      "research_record": "./research/pedals/MadeByMike/Germanium Fuzz Face.md",
+      "research_record": "./research/pedals/Mask Audio Electronics/Ears Come To Die (historical limited-edition Fuzz Lab).md",
       "research_level": "surface"
     },
     {
-      "builder": "MadeByMike",
-      "pedal": "Saltstorm Overdrive",
-      "catalog_type": "Overdrive",
-      "research_record": "./research/pedals/MadeByMike/Saltstorm Overdrive.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Marshall Amplification",
-      "pedal": "Drivemaster Vintage Reissue",
+      "builder": "Maxon",
+      "pedal": "D&S",
       "catalog_type": "Distortion / Overdrive",
-      "research_record": "./research/pedals/Marshall Amplification/Drivemaster Vintage Reissue.md",
+      "research_record": "./research/pedals/Maxon/D&S.md",
       "research_level": "surface"
     },
     {
-      "builder": "Marshall Amplification",
-      "pedal": "Drivemaster Vintage Reissue Pedal",
+      "builder": "Maxon",
+      "pedal": "D&S II",
       "catalog_type": "Distortion / Overdrive",
-      "research_record": "./research/pedals/Marshall Amplification/Drivemaster Vintage Reissue Pedal.md",
+      "research_record": "./research/pedals/Maxon/D&S II.md",
       "research_level": "surface"
     },
     {
-      "builder": "Marshall Amplification",
-      "pedal": "DSL Overdrive Pedal",
-      "catalog_type": "Overdrive",
-      "research_record": "./research/pedals/Marshall Amplification/DSL Overdrive Pedal.md",
+      "builder": "Maxon",
+      "pedal": "OD820 Overdrive Pro+",
+      "catalog_type": "Distortion / Overdrive",
+      "research_record": "./research/pedals/Maxon/OD820 Overdrive Pro+.md",
       "research_level": "surface"
     },
     {
-      "builder": "Marshall Amplification",
-      "pedal": "Guv'nor Vintage Reissue",
+      "builder": "Maxon",
+      "pedal": "OSD-9 Overdrive / Soft Distortion",
       "catalog_type": "Overdrive",
-      "research_record": "./research/pedals/Marshall Amplification/Guv'nor Vintage Reissue.md",
+      "research_record": "./research/pedals/Maxon/OSD-9 Overdrive / Soft Distortion.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Maxon",
+      "pedal": "ROD881 Real Overdrive / Distortion",
+      "catalog_type": "Distortion / Overdrive",
+      "research_record": "./research/pedals/Maxon/ROD881 Real Overdrive / Distortion.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Maxon",
+      "pedal": "SD-9 Sonic Distortion / Overdrive",
+      "catalog_type": "Overdrive",
+      "research_record": "./research/pedals/Maxon/SD-9 Sonic Distortion / Overdrive.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Maxon",
+      "pedal": "SM-9Pro Super Metal Pro+",
+      "catalog_type": "Overdrive",
+      "research_record": "./research/pedals/Maxon/SM-9Pro Super Metal Pro+.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Maxon / Nisshin Onpa",
+      "pedal": "OD-9",
+      "catalog_type": "Overdrive",
+      "research_record": "./research/pedals/Maxon / Nisshin Onpa/OD-9.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Maxon / Nisshin Onpa",
+      "pedal": "OD-9 Pro+",
+      "catalog_type": "Overdrive",
+      "research_record": "./research/pedals/Maxon / Nisshin Onpa/OD-9 Pro+.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Maxon / Nisshin Onpa",
+      "pedal": "OOD-9 Organic Overdrive",
+      "catalog_type": "Overdrive",
+      "research_record": "./research/pedals/Maxon / Nisshin Onpa/OOD-9 Organic Overdrive.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Maxon / Nisshin Onpa",
+      "pedal": "OSD-9 Overdrive / Soft Distortion",
+      "catalog_type": "Overdrive / Distortion",
+      "research_record": "./research/pedals/Maxon / Nisshin Onpa/OSD-9 Overdrive / Soft Distortion.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Maxon / Nisshin Onpa",
+      "pedal": "SD-9 Sonic Distortion / Overdrive",
+      "catalog_type": "Distortion",
+      "research_record": "./research/pedals/Maxon / Nisshin Onpa/SD-9 Sonic Distortion / Overdrive.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Maxon / Nisshin Onpa",
+      "pedal": "SD-9M Sonic Distortion Master",
+      "catalog_type": "Distortion",
+      "research_record": "./research/pedals/Maxon / Nisshin Onpa/SD-9M Sonic Distortion Master.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Maxon / Nisshin Onpa",
+      "pedal": "SM-9 Super Metal",
+      "catalog_type": "Distortion",
+      "research_record": "./research/pedals/Maxon / Nisshin Onpa/SM-9 Super Metal.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Maxon / Nisshin Onpa",
+      "pedal": "SSD-9 Super Sonic Distortion",
+      "catalog_type": "Distortion",
+      "research_record": "./research/pedals/Maxon / Nisshin Onpa/SSD-9 Super Sonic Distortion.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Maxon / Nisshin Onpa",
+      "pedal": "ST-9 Super Tube Screamer",
+      "catalog_type": "Overdrive",
+      "research_record": "./research/pedals/Maxon / Nisshin Onpa/ST-9 Super Tube Screamer.md",
       "research_level": "surface"
     }
   ]

@@ -1,0 +1,19 @@
+{
+  "builder": "Radial Engineering / Tonebone",
+  "pedal": "Classic V9",
+  "original_builder": "Radial Engineering / Tonebone",
+  "original_pedal": "Classic V9",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 1,
+  "sources": [
+    {
+      "url": "https://reverb.com/item/97644518-radial-tonebone-classic-v9-distortion-pedal-2010s-black-grey-purple",
+      "title": "catalog/override source",
+      "h1": "Radial Engineering / Tonebone \u2014 Classic V9",
+      "excerpt": "- **Builder:** Radial Engineering / Tonebone\n- **Pedal:** Classic V9\n- **Catalog type:** Distortion\n- **Research level:** Surface\n- **Deep research status:** Pending\n- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.\n\nThe Dirt Archive currently catalogs **Classic V9** by **Radial Engineering / Tonebone** as a **Distortion** pedal. This statement is limited to the archive\u2019s catalog classification. Deeper technical, historical, and sonic details remain pending verification.\n\n- No source page is recorded in the current catalog metadata.\n\n- **Archive photo:** No verified local photo is currently archived.\n- Photo provenance and validation are handled separately from this surface research record.\n\n- **Status:** Pending\n- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive\u2019s research foreman.",
+      "host": "reverb.com",
+      "source_kind": "reverb"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}
