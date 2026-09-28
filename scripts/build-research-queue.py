@@ -44,7 +44,7 @@ def main():
     # than rediscovery. Keep ordering deterministic within each tier.
     source_override_counts = {}
     source_override_tiers = {}
-    source_override_keys = {}
+    source_override_rows = []
 
     def builder_variants(value):
         raw = str(value or "").strip().casefold()
@@ -79,9 +79,9 @@ def main():
                         tier = 1
                     for key in builder_variants(builder):
                         variant_key = (key, pedal.casefold())
-                        source_override_keys.setdefault(variant_key, True)
                         source_override_counts[variant_key] = source_override_counts.get(variant_key, 0) + 1
                         source_override_tiers[variant_key] = min(source_override_tiers.get(variant_key, tier), tier)
+                        source_override_rows.append((key, pedal.casefold(), tier))
 
     researched = 0
     pictured = 0
@@ -136,22 +136,29 @@ def main():
             )
 
     deep_research_pending = research_pending + deep_research_pending
+    def source_priority_for(item):
+        builder_keys = builder_variants(item.get("builder"))
+        pedal_key = str(item.get("pedal") or "").strip().casefold()
+        matches = []
+        for (source_key, source_pedal, tier) in source_override_rows:
+            if source_key not in builder_keys:
+                continue
+            # Accept exact model names plus stable model-code prefixes, e.g.
+            # "OOD-9" -> "OOD-9 Organic Overdrive". Never use loose substring
+            # matching that could cross unrelated model identities.
+            exact_or_code_prefix = (
+                pedal_key == source_pedal
+                or pedal_key.startswith(source_pedal + " ")
+                or source_pedal.startswith(pedal_key + " ")
+            )
+            if exact_or_code_prefix:
+                count = source_override_counts.get((source_key, source_pedal), 0)
+                matches.append((tier, -count))
+        return min(matches, default=(3, 0))
+
     deep_research_pending.sort(
         key=lambda item: (
-            min(
-                (
-                    source_override_tiers.get(key, 3)
-                    for key in source_key_variants(item.get("builder"), item.get("pedal"))
-                ),
-                default=3,
-            ),
-            -max(
-                (
-                    source_override_counts.get(key, 0)
-                    for key in source_key_variants(item.get("builder"), item.get("pedal"))
-                ),
-                default=0,
-            ),
+            source_priority_for(item),
             str(item.get("builder") or "").casefold(),
             str(item.get("pedal") or "").casefold(),
         )
