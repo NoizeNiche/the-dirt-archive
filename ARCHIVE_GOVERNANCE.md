@@ -310,3 +310,19 @@ Historical checkpoint records belong in the history files, not in permanent rule
 ## 16. Core principle
 
 **One rule. One owner. One source of truth. One recoverable checkpoint.**
+
+
+## 10. Collector workbench
+
+The public site may provide optional collector utilities that sit above the canonical catalog without modifying it.
+
+Allowed local utility state:
+- saved exact Builder + Pedal records
+- temporary comparison selections of up to four exact public records
+- explicit share links for a comparison set
+
+These utilities are device-local by default. They must not create canonical catalog facts, research claims, rankings, ratings, seller scores, or market-value judgments.
+
+Comparison is descriptive only. It may expose explicitly documented catalog/facet fields and record relationships, but must not turn incomplete evidence into an opinion score.
+
+Internal research administration remains private to the maintenance layer. Public pedal pages should not expose internal labels such as Research confidence, Sources checked, PRP terminology, or internal evidence grades.
