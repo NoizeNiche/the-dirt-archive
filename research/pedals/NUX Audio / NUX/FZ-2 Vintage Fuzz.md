@@ -1,23 +1,38 @@
 # NUX Audio / NUX — FZ-2 Vintage Fuzz
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** FZ-2 Vintage Fuzz
 - **Builder:** NUX Audio / NUX
-- **Pedal:** FZ-2 Vintage Fuzz
 - **Catalog type:** Fuzz
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** NUX FZ-2 Vintage Fuzz.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **FZ-2 Vintage Fuzz** by **NUX Audio / NUX** as a **Fuzz** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+The FZ-2 Vintage Fuzz is a NUX fuzz pedal documented in Effects Database's historical NUX catalog. The exact-model record was published January 23, 2008 and classifies the FZ-2 as a fuzz pedal.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- Exact factory colorway information was not established from the surviving documentation reviewed.
+
+## Versions and factory options
+- **FZ-2 Vintage Fuzz:** exact cataloged model.
+- No documented factory revision split established from the surviving manufacturer-linked material.
+
+## Version changes
+- No documented production revision established.
+
+## Transistor
+- **Exact production transistor/device:** Not established in the surviving manufacturer-linked documentation reviewed.
+
+## Diode
+- **Exact production clipping diode/device:** Not established in the surviving manufacturer-linked documentation reviewed.
+
+## Sound
+The surviving exact-model documentation confirms the FZ-2 as a fuzz unit but does not preserve enough manufacturer sound information to make detailed tonal claims responsibly. Contemporary NUX-era user indexing also identifies the model consistently as a vintage fuzz.
+
+## Sources checked
+1. Effects Database exact-model record: https://www.effectsdatabase.com/model/nux/fz2
+2. Effects Database NUX brand index: https://www.effectsdatabase.com/model/nux
+3. Exact-model retailer reference: https://www.kombik.com/catalog/view/nux-fz-2-vintage-fuzz/
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Exact-model photo lead:** Effects Database exact-model record and exact-model retailer reference.
+- **Archive status:** Local photo recovery is handled separately; only a verified local asset counts as pictured.
