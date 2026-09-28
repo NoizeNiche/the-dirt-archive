@@ -17555,9 +17555,11 @@
   {
     "builder": "Devi Ever FX",
     "pedal": "Hypnomangler",
-    "image": "",
+    "image": "./assets/pedals/devi-ever-fx/hypnomangler/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/deviever",
-    "research_record": "./research/pedals/Devi Ever FX/Hypnomangler.md"
+    "research_record": "./research/pedals/Devi Ever FX/Hypnomangler.md",
+    "image_source_url": "https://rvb-img.reverb.com/i/s--a8fDfyhP--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/umq0akfjgluq1aeljgsl.jpg",
+    "image_source_page": "https://reverb.com/p/devi-ever-fx-hypnomangler"
   },
   {
     "builder": "Devi Ever FX",
@@ -21973,9 +21975,11 @@
   {
     "builder": "JHS Pedals",
     "pedal": "Mini Foot Fuzz V1",
-    "image": null,
+    "image": "./assets/pedals/jhs-pedals/mini-foot-fuzz-v1/primary.webp",
     "source_page": "https://jhspedals.info/products/mini-foot-fuzz-v2",
-    "research_record": "./research/pedals/JHS Pedals/Mini Foot Fuzz V1.md"
+    "research_record": "./research/pedals/JHS Pedals/Mini Foot Fuzz V1.md",
+    "image_source_url": "https://jhspedals.info/cdn/shop/files/mini-foot-fuzz-top_1100x.jpg?v=1711720803",
+    "image_source_page": "https://jhspedals.info/products/mini-foot-fuzz-v2"
   },
   {
     "builder": "JHS Pedals",
@@ -22974,9 +22978,11 @@
   {
     "builder": "Land Devices",
     "pedal": "HP-2",
-    "image": null,
+    "image": "./assets/pedals/land-devices/hp-2/primary.webp",
     "source_page": "https://landdevices.com/collections/catalog",
-    "research_record": "./research/pedals/Land Devices/HP-2.md"
+    "research_record": "./research/pedals/Land Devices/HP-2.md",
+    "image_source_url": "https://landdevices.com/cdn/shop/files/HP_OH_1_4-3copy.jpg?v=1748114045&width=416",
+    "image_source_page": "https://landdevices.com/products/hp-2"
   },
   {
     "builder": "Land Devices",
@@ -27027,23 +27033,26 @@
   {
     "builder": "Pete Cornish",
     "pedal": "BD-1",
-    "image": "",
+    "image": "./assets/pedals/pete-cornish/bd-1/primary.webp",
     "source_page": "https://www.petecornish.co.uk/GreySeries.html",
-    "research_record": "./research/pedals/Pete Cornish/BD-1.md"
+    "research_record": "./research/pedals/Pete Cornish/BD-1.md",
+    "image_source_url": "https://www.petecornish.co.uk/BD-1-pic-WEB.jpg"
   },
   {
     "builder": "Pete Cornish",
     "pedal": "CC-1",
-    "image": "",
+    "image": "./assets/pedals/pete-cornish/cc-1/primary.webp",
     "source_page": "https://www.petecornish.co.uk/GreySeries.html",
-    "research_record": "./research/pedals/Pete Cornish/CC-1.md"
+    "research_record": "./research/pedals/Pete Cornish/CC-1.md",
+    "image_source_url": "https://www.petecornish.co.uk/CC-1_edited-1.jpg"
   },
   {
     "builder": "Pete Cornish",
     "pedal": "G-2",
-    "image": "",
+    "image": "./assets/pedals/pete-cornish/g-2/primary.webp",
     "source_page": "https://www.petecornish.co.uk/SAEG-2.html",
-    "research_record": "./research/pedals/Pete Cornish/G-2.md"
+    "research_record": "./research/pedals/Pete Cornish/G-2.md",
+    "image_source_url": "https://www.petecornish.co.uk/G-2_edited-1.jpg"
   },
   {
     "builder": "Pete Cornish",
@@ -27069,9 +27078,11 @@
   {
     "builder": "Pete Cornish",
     "pedal": "P-1",
-    "image": "",
+    "image": "./assets/pedals/pete-cornish/p-1/primary.webp",
     "source_page": "https://www.petecornish.co.uk/GreySeries.html",
-    "research_record": "./research/pedals/Pete Cornish/P-1.md"
+    "research_record": "./research/pedals/Pete Cornish/P-1.md",
+    "image_source_url": "https://cdn.rockboard.de/common/image_ef2a3a99-6890-4731-a410-3bb001acc4a9.webp",
+    "image_source_page": "https://www.petecornish.co.uk/SAEP-1.html"
   },
   {
     "builder": "Pete Cornish",
@@ -27083,9 +27094,10 @@
   {
     "builder": "Pete Cornish",
     "pedal": "SS-2",
-    "image": "",
+    "image": "./assets/pedals/pete-cornish/ss-2/primary.webp",
     "source_page": "https://www.petecornish.co.uk/GreySeries.html",
-    "research_record": "./research/pedals/Pete Cornish/SS-2.md"
+    "research_record": "./research/pedals/Pete Cornish/SS-2.md",
+    "image_source_url": "https://www.petecornish.co.uk/SS-2_edited-1.jpg"
   },
   {
     "builder": "Pete Cornish",
@@ -27097,23 +27109,26 @@
   {
     "builder": "Pete Cornish / Pete Cornish Effects",
     "pedal": "BD-1 Bass Driver",
-    "image": "",
+    "image": "./assets/pedals/pete-cornish-pete-cornish-effects/bd-1-bass-driver/primary.webp",
     "source_page": "https://petecornish.co.uk/deluxeseries.html",
-    "research_record": "./research/pedals/Pete Cornish / Pete Cornish Effects/BD-1 Bass Driver.md"
+    "research_record": "./research/pedals/Pete Cornish / Pete Cornish Effects/BD-1 Bass Driver.md",
+    "image_source_url": "https://www.petecornish.co.uk/BD-1-pic-WEB.jpg"
   },
   {
     "builder": "Pete Cornish / Pete Cornish Effects",
     "pedal": "CC-1 Cornish Crunch",
-    "image": "",
+    "image": "./assets/pedals/pete-cornish-pete-cornish-effects/cc-1-cornish-crunch/primary.webp",
     "source_page": "https://petecornish.co.uk/deluxeseries.html",
-    "research_record": "./research/pedals/Pete Cornish / Pete Cornish Effects/CC-1 Cornish Crunch.md"
+    "research_record": "./research/pedals/Pete Cornish / Pete Cornish Effects/CC-1 Cornish Crunch.md",
+    "image_source_url": "https://www.petecornish.co.uk/CC-1_edited-1.jpg"
   },
   {
     "builder": "Pete Cornish / Pete Cornish Effects",
     "pedal": "G-2",
-    "image": "",
+    "image": "./assets/pedals/pete-cornish-pete-cornish-effects/g-2/primary.webp",
     "source_page": "https://petecornish.co.uk/bfg2.html",
-    "research_record": "./research/pedals/Pete Cornish / Pete Cornish Effects/G-2.md"
+    "research_record": "./research/pedals/Pete Cornish / Pete Cornish Effects/G-2.md",
+    "image_source_url": "https://www.petecornish.co.uk/G-2_edited-1.jpg"
   },
   {
     "builder": "Pete Cornish / Pete Cornish Effects",
@@ -27132,16 +27147,19 @@
   {
     "builder": "Pete Cornish / Pete Cornish Effects",
     "pedal": "NG-3",
-    "image": "",
+    "image": "./assets/pedals/pete-cornish-pete-cornish-effects/ng-3/primary.webp",
     "source_page": "https://petecornish.co.uk/deluxeseries.html",
-    "research_record": "./research/pedals/Pete Cornish / Pete Cornish Effects/NG-3.md"
+    "research_record": "./research/pedals/Pete Cornish / Pete Cornish Effects/NG-3.md",
+    "image_source_url": "https://www.petecornish.co.uk/NG-3_edited-1.jpg"
   },
   {
     "builder": "Pete Cornish / Pete Cornish Effects",
     "pedal": "P-1",
-    "image": "",
+    "image": "./assets/pedals/pete-cornish-pete-cornish-effects/p-1/primary.webp",
     "source_page": "https://petecornish.co.uk/bfp1.html",
-    "research_record": "./research/pedals/Pete Cornish / Pete Cornish Effects/P-1.md"
+    "research_record": "./research/pedals/Pete Cornish / Pete Cornish Effects/P-1.md",
+    "image_source_url": "https://cdn.rockboard.de/common/image_ef2a3a99-6890-4731-a410-3bb001acc4a9.webp",
+    "image_source_page": "https://www.rockboard.de/en/pedalPedia/Pete-Cornish/P-1/68983435/"
   },
   {
     "builder": "Pete Cornish / Pete Cornish Effects",
@@ -27153,9 +27171,10 @@
   {
     "builder": "Pete Cornish / Pete Cornish Effects",
     "pedal": "SS-2 Soft Sustain",
-    "image": "",
+    "image": "./assets/pedals/pete-cornish-pete-cornish-effects/ss-2-soft-sustain/primary.webp",
     "source_page": "https://petecornish.co.uk/bfss2.html",
-    "research_record": "./research/pedals/Pete Cornish / Pete Cornish Effects/SS-2 Soft Sustain.md"
+    "research_record": "./research/pedals/Pete Cornish / Pete Cornish Effects/SS-2 Soft Sustain.md",
+    "image_source_url": "https://www.petecornish.co.uk/SS-2_edited-1.jpg"
   },
   {
     "builder": "Pete Cornish / Pete Cornish Effects",
@@ -30341,9 +30360,11 @@
   {
     "builder": "VOX",
     "pedal": "Cutting Edge",
-    "image": null,
+    "image": "./assets/pedals/vox/cutting-edge/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/VOX/Cutting Edge.md"
+    "research_record": "./research/pedals/VOX/Cutting Edge.md",
+    "image_source_url": "https://voxamps.com/wp-content/uploads/2020/01/CUTTING_EDGE_front_rev.png",
+    "image_source_page": "https://voxamps.com/product/cutting-edge/"
   },
   {
     "builder": "VOX",

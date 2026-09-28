@@ -32724,19 +32724,24 @@
       "types": [
         "Fuzz"
       ],
-      "image": "",
+      "image": "./assets/pedals/devi-ever-fx/hypnomangler/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/deviever",
       "research_record": "./research/pedals/Devi Ever FX/Hypnomangler.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://equipboard.com/c/fuzz-effects-pedals/devi-ever",
+      "image_source_page": "https://reverb.com/p/devi-ever-fx-hypnomangler",
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/deviever/hypnomangler",
-        "https://equipboard.com/c/fuzz-effects-pedals/devi-ever"
+        "https://equipboard.com/c/fuzz-effects-pedals/devi-ever",
+        "https://reverb.com/p/devi-ever-fx-hypnomangler"
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1300
+      "image_source_priority": 100000,
+      "image_source_url": "https://rvb-img.reverb.com/i/s--a8fDfyhP--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/umq0akfjgluq1aeljgsl.jpg",
+      "image_source_urls": [
+        "https://rvb-img.reverb.com/i/s--a8fDfyhP--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/umq0akfjgluq1aeljgsl.jpg"
+      ]
     },
     {
       "company": "Devi Ever FX",
@@ -40669,13 +40674,19 @@
       "research_record": "./research/pedals/JHS Pedals/Mini Foot Fuzz V1.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://jhspedals.info/collections/discontinued-rare?page=2",
+      "image_source_page": "https://jhspedals.info/products/mini-foot-fuzz-v2",
       "image_source_pages": [
-        "https://jhspedals.info/collections/discontinued-rare?page=2"
+        "https://jhspedals.info/collections/discontinued-rare?page=2",
+        "https://jhspedals.info/products/mini-foot-fuzz-v2"
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1073
+      "image_source_priority": 100000,
+      "image_source_url": "https://jhspedals.info/cdn/shop/files/mini-foot-fuzz-top_1100x.jpg?v=1711720803",
+      "image_source_urls": [
+        "https://jhspedals.info/cdn/shop/files/mini-foot-fuzz-top_1100x.jpg?v=1711720803"
+      ],
+      "image": "./assets/pedals/jhs-pedals/mini-foot-fuzz-v1/primary.webp"
     },
     {
       "company": "JHS Pedals",
@@ -42467,18 +42478,23 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/land-devices/hp-2/primary.webp",
       "source_page": "https://landdevices.com/collections/catalog",
       "research_record": "./research/pedals/Land Devices/HP-2.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://landdevices.com/collections/catalog",
+      "image_source_page": "https://landdevices.com/products/hp-2",
       "image_source_pages": [
-        "https://landdevices.com/collections/catalog"
+        "https://landdevices.com/collections/catalog",
+        "https://landdevices.com/products/hp-2"
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1111
+      "image_source_priority": 100000,
+      "image_source_url": "https://landdevices.com/cdn/shop/files/HP_OH_1_4-3copy.jpg?v=1748114045&width=416",
+      "image_source_urls": [
+        "https://landdevices.com/cdn/shop/files/HP_OH_1_4-3copy.jpg?v=1748114045&width=416"
+      ]
     },
     {
       "company": "Land Devices",
@@ -49849,7 +49865,7 @@
         "Overdrive"
       ],
       "source_page": "https://www.petecornish.co.uk/GreySeries.html",
-      "image": "",
+      "image": "./assets/pedals/pete-cornish/bd-1/primary.webp",
       "research_record": "./research/pedals/Pete Cornish/BD-1.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
@@ -49860,7 +49876,11 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1283
+      "image_source_priority": 100000,
+      "image_source_url": "https://www.petecornish.co.uk/BD-1-pic-WEB.jpg",
+      "image_source_urls": [
+        "https://www.petecornish.co.uk/BD-1-pic-WEB.jpg"
+      ]
     },
     {
       "company": "Pete Cornish",
@@ -49869,18 +49889,23 @@
         "Overdrive"
       ],
       "source_page": "https://www.petecornish.co.uk/GreySeries.html",
-      "image": "",
+      "image": "./assets/pedals/pete-cornish/cc-1/primary.webp",
       "research_record": "./research/pedals/Pete Cornish/CC-1.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://www.petecornish.co.uk/SAECC-1.html",
+      "image_source_page": "https://www.petecornish.co.uk/bfcc-1.html",
       "image_source_pages": [
         "https://www.petecornish.co.uk/GreySeries.html",
-        "https://www.petecornish.co.uk/SAECC-1.html"
+        "https://www.petecornish.co.uk/SAECC-1.html",
+        "https://www.petecornish.co.uk/bfcc-1.html"
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1284
+      "image_source_priority": 100000,
+      "image_source_url": "https://www.petecornish.co.uk/CC-1_edited-1.jpg",
+      "image_source_urls": [
+        "https://www.petecornish.co.uk/CC-1_edited-1.jpg"
+      ]
     },
     {
       "company": "Pete Cornish",
@@ -49890,7 +49915,7 @@
         "Overdrive"
       ],
       "source_page": "https://www.petecornish.co.uk/SAEG-2.html",
-      "image": "",
+      "image": "./assets/pedals/pete-cornish/g-2/primary.webp",
       "research_record": "./research/pedals/Pete Cornish/G-2.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
@@ -49901,7 +49926,11 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1285
+      "image_source_priority": 100000,
+      "image_source_url": "https://www.petecornish.co.uk/G-2_edited-1.jpg",
+      "image_source_urls": [
+        "https://www.petecornish.co.uk/G-2_edited-1.jpg"
+      ]
     },
     {
       "company": "Pete Cornish",
@@ -49968,19 +49997,24 @@
         "Fuzz"
       ],
       "source_page": "https://www.petecornish.co.uk/GreySeries.html",
-      "image": "",
+      "image": "./assets/pedals/pete-cornish/p-1/primary.webp",
       "research_record": "./research/pedals/Pete Cornish/P-1.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://petecornish.co.uk/bfp1.html",
+      "image_source_page": "https://www.petecornish.co.uk/SAEP-1.html",
       "image_source_pages": [
         "https://www.petecornish.co.uk/GreySeries.html",
         "https://www.petecornish.co.uk/SAEP1.html",
-        "https://petecornish.co.uk/bfp1.html"
+        "https://petecornish.co.uk/bfp1.html",
+        "https://www.petecornish.co.uk/SAEP-1.html"
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1286
+      "image_source_priority": 100000,
+      "image_source_url": "https://cdn.rockboard.de/common/image_ef2a3a99-6890-4731-a410-3bb001acc4a9.webp",
+      "image_source_urls": [
+        "https://cdn.rockboard.de/common/image_ef2a3a99-6890-4731-a410-3bb001acc4a9.webp"
+      ]
     },
     {
       "company": "Pete Cornish",
@@ -50009,7 +50043,7 @@
         "Overdrive"
       ],
       "source_page": "https://www.petecornish.co.uk/GreySeries.html",
-      "image": "",
+      "image": "./assets/pedals/pete-cornish/ss-2/primary.webp",
       "research_record": "./research/pedals/Pete Cornish/SS-2.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
@@ -50020,7 +50054,11 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1287
+      "image_source_priority": 100000,
+      "image_source_url": "https://www.petecornish.co.uk/SS-2_edited-1.jpg",
+      "image_source_urls": [
+        "https://www.petecornish.co.uk/SS-2_edited-1.jpg"
+      ]
     },
     {
       "company": "Pete Cornish",
@@ -50047,7 +50085,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": "",
+      "image": "./assets/pedals/pete-cornish-pete-cornish-effects/bd-1-bass-driver/primary.webp",
       "source_page": "https://petecornish.co.uk/deluxeseries.html",
       "research_record": "./research/pedals/Pete Cornish / Pete Cornish Effects/BD-1 Bass Driver.md",
       "research_level": "deep",
@@ -50060,7 +50098,11 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1288
+      "image_source_priority": 100000,
+      "image_source_url": "https://www.petecornish.co.uk/BD-1-pic-WEB.jpg",
+      "image_source_urls": [
+        "https://www.petecornish.co.uk/BD-1-pic-WEB.jpg"
+      ]
     },
     {
       "company": "Pete Cornish / Pete Cornish Effects",
@@ -50068,20 +50110,25 @@
       "types": [
         "Overdrive"
       ],
-      "image": "",
+      "image": "./assets/pedals/pete-cornish-pete-cornish-effects/cc-1-cornish-crunch/primary.webp",
       "source_page": "https://petecornish.co.uk/deluxeseries.html",
       "research_record": "./research/pedals/Pete Cornish / Pete Cornish Effects/CC-1 Cornish Crunch.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://www.petecornish.co.uk/SAECC-1.html",
+      "image_source_page": "https://www.petecornish.co.uk/bfcc-1.html",
       "image_source_pages": [
         "https://petecornish.co.uk/deluxeseries.html",
         "https://www.petecornish.co.uk/GreySeries.html",
-        "https://www.petecornish.co.uk/SAECC-1.html"
+        "https://www.petecornish.co.uk/SAECC-1.html",
+        "https://www.petecornish.co.uk/bfcc-1.html"
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1289
+      "image_source_priority": 100000,
+      "image_source_url": "https://www.petecornish.co.uk/CC-1_edited-1.jpg",
+      "image_source_urls": [
+        "https://www.petecornish.co.uk/CC-1_edited-1.jpg"
+      ]
     },
     {
       "company": "Pete Cornish / Pete Cornish Effects",
@@ -50090,7 +50137,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": "",
+      "image": "./assets/pedals/pete-cornish-pete-cornish-effects/g-2/primary.webp",
       "source_page": "https://petecornish.co.uk/bfg2.html",
       "research_record": "./research/pedals/Pete Cornish / Pete Cornish Effects/G-2.md",
       "research_level": "deep",
@@ -50103,7 +50150,11 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1290
+      "image_source_priority": 100000,
+      "image_source_url": "https://www.petecornish.co.uk/G-2_edited-1.jpg",
+      "image_source_urls": [
+        "https://www.petecornish.co.uk/G-2_edited-1.jpg"
+      ]
     },
     {
       "company": "Pete Cornish / Pete Cornish Effects",
@@ -50151,18 +50202,23 @@
       "types": [
         "Fuzz"
       ],
-      "image": "",
+      "image": "./assets/pedals/pete-cornish-pete-cornish-effects/ng-3/primary.webp",
       "source_page": "https://petecornish.co.uk/deluxeseries.html",
       "research_record": "./research/pedals/Pete Cornish / Pete Cornish Effects/NG-3.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://petecornish.co.uk/deluxeseries.html",
+      "image_source_page": "https://www.petecornish.co.uk/bfng-3.html",
       "image_source_pages": [
-        "https://petecornish.co.uk/deluxeseries.html"
+        "https://petecornish.co.uk/deluxeseries.html",
+        "https://www.petecornish.co.uk/bfng-3.html"
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1227
+      "image_source_priority": 100000,
+      "image_source_url": "https://www.petecornish.co.uk/NG-3_edited-1.jpg",
+      "image_source_urls": [
+        "https://www.petecornish.co.uk/NG-3_edited-1.jpg"
+      ]
     },
     {
       "company": "Pete Cornish / Pete Cornish Effects",
@@ -50171,19 +50227,24 @@
         "Fuzz",
         "Distortion"
       ],
-      "image": "",
+      "image": "./assets/pedals/pete-cornish-pete-cornish-effects/p-1/primary.webp",
       "source_page": "https://petecornish.co.uk/bfp1.html",
       "research_record": "./research/pedals/Pete Cornish / Pete Cornish Effects/P-1.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://petecornish.co.uk/bfp1.html",
+      "image_source_page": "https://www.rockboard.de/en/pedalPedia/Pete-Cornish/P-1/68983435/",
       "image_source_pages": [
         "https://www.petecornish.co.uk/SAEP1.html",
-        "https://petecornish.co.uk/bfp1.html"
+        "https://petecornish.co.uk/bfp1.html",
+        "https://www.rockboard.de/en/pedalPedia/Pete-Cornish/P-1/68983435/"
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1291
+      "image_source_priority": 100000,
+      "image_source_url": "https://cdn.rockboard.de/common/image_ef2a3a99-6890-4731-a410-3bb001acc4a9.webp",
+      "image_source_urls": [
+        "https://cdn.rockboard.de/common/image_ef2a3a99-6890-4731-a410-3bb001acc4a9.webp"
+      ]
     },
     {
       "company": "Pete Cornish / Pete Cornish Effects",
@@ -50212,7 +50273,7 @@
         "Overdrive",
         "Distortion"
       ],
-      "image": "",
+      "image": "./assets/pedals/pete-cornish-pete-cornish-effects/ss-2-soft-sustain/primary.webp",
       "source_page": "https://petecornish.co.uk/bfss2.html",
       "research_record": "./research/pedals/Pete Cornish / Pete Cornish Effects/SS-2 Soft Sustain.md",
       "research_level": "deep",
@@ -50224,7 +50285,11 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1292
+      "image_source_priority": 100000,
+      "image_source_url": "https://www.petecornish.co.uk/SS-2_edited-1.jpg",
+      "image_source_urls": [
+        "https://www.petecornish.co.uk/SS-2_edited-1.jpg"
+      ]
     },
     {
       "company": "Pete Cornish / Pete Cornish Effects",
@@ -56023,7 +56088,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/vox/cutting-edge/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/VOX/Cutting Edge.md",
       "research_level": "deep",
@@ -56034,7 +56099,11 @@
       "image_source_page": "https://voxamps.com/product/cutting-edge/",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 990
+      "image_source_priority": 100000,
+      "image_source_url": "https://voxamps.com/wp-content/uploads/2020/01/CUTTING_EDGE_front_rev.png",
+      "image_source_urls": [
+        "https://voxamps.com/wp-content/uploads/2020/01/CUTTING_EDGE_front_rev.png"
+      ]
     },
     {
       "company": "VOX",
