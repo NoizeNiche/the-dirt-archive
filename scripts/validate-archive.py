@@ -573,6 +573,8 @@ def main():
         raise SystemExit("Builder archive page is missing its required runtime assets.")
     identify_text = IDENTIFY.read_text(encoding="utf-8")
     corrections_text = CORRECTIONS.read_text(encoding="utf-8")
+    if "./assets/js/archive-corrections.js" not in corrections_text:
+        raise SystemExit("Correction page is missing its runtime script.")
     if "./assets/css/archive-corrections.css" not in corrections_text:
         raise SystemExit("Correction page is missing its stylesheet.")
     if "./assets/js/archive-identify.js" not in identify_text or "./assets/css/archive-identify.css" not in identify_text:
