@@ -86,7 +86,7 @@ jobs:
           PHOTO_BROWSER_FRESH_RECOVERY_DEADLINE_MS: "45000"
           PHOTO_BROWSER_MAX_RECOVERY_ATTEMPTS: "8"
           PHOTO_BROWSER_MAX_DEEP_REVIEW_CYCLES: "3"
-        run: node scripts/browser-photo-cache.mjs
+        run: timeout 720s node scripts/browser-photo-cache.mjs
 
       - name: Package recovered sources as individually verifiable results
         shell: bash
