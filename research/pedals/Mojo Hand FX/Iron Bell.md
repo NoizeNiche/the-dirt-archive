@@ -4,45 +4,52 @@
 - **Archive parent:** Iron Bell
 - **Builder:** Mojo Hand FX
 - **Catalog type:** Fuzz
-- **Identity:** Mojo Hand FX's Iron Bell.
+- **Research level:** Deep
+- **Deep research status:** Verified
+- **Identity:** Mojo Hand FX Iron Bell fuzz.
+
+## Deep research verification
+- **Exact-model evidence:** Verified against multiple exact-model product pages and independent model documentation.
 
 ## What this pedal is
-Unlike the Colossus Fuzz which is based on the Russian/Civil War era Muff, the Iron Bell is voiced to be very open and rich, with an almost 3D-like harmonic quality.
+Mojo Hand FX presents Iron Bell as an open, rich fuzz platform associated with David Gilmour-style applications, while explicitly stating that it is **not based on any particular Muff circuit**. [1]
 
-## Colorways
-- © 2026 PedalFilter Clear Compare ( 0 ) Back Home Mojo Hand FX Iron Bell Back to results Black Mojo Hand FX Iron Bell Fuzz Gilmour-inspired Muff with Colour control for presence—3D-like harmonic quality, wide yet focused voicing.
-- Iron Bell in Rusty finish If your looking for a dead on Muff clone to stack with compressors and overdrives the Iron Bell isn't what your looking for.
-- While not my first thought I was surprised when I played Steve Vai's For the Love of God and Blue Powder with this pedal.
+## Controls
+- **GAIN**
+- **TONE**
+- **COLOUR:** presence/high-frequency shaping
+- **VOLUME** [1][2]
 
-## Versions and factory options
-- The verified evidence references: V2.
-- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
-
-## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+## Circuit / architecture
+Mojo Hand FX describes Iron Bell as a broad, focused fuzz platform rather than a clone of one specific Big Muff variant. [1]
+The verified evidence does not establish a complete production schematic or component-level semiconductor list.
 
 ## Transistor
-- Documented terms in the verified sources: Germanium Fuzz.
-- The archive records only the component information explicitly present in these sources.
+- **Documented source terminology:** “Germanium Fuzz” appears in the retained evidence, but the exact production transistor complement is not established.
+- **Exact production transistor/device:** Unknown.
 
 ## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
-- **Exact part:** Unknown.
+- **Exact production clipping diode:** Unknown.
+
+## Version history
+- The retained packet references a **V2** version, but does not establish a complete v1-to-v2 circuit change list.
+- The archive therefore keeps Iron Bell as one catalog identity.
+
+## Power and physical specification
+- **Power:** standard center-negative 9VDC supply or 9V battery. [1]
+- **Current draw:** approximately 12mA. [1][2]
+- **Bypass:** true bypass. [1][2]
+- **Dimensions:** approximately 4.8 × 2.62 × 1.55 inches. [1]
 
 ## Sound
-It’s clear that no sole effect can duplicate the “Gilmour sound," but when it comes to fuzz his go to unit for the majority of his career has been the legendary Big Muff.
-However, with so many different incarnations and variants being employed at different time periods, his tone has remained extremely difficult and elusive to pin down.
-Unlike the Colossus Fuzz which is based on the Russian/Civil War era Muff, the Iron Bell is voiced to be very open and rich, with an almost 3D-like harmonic quality.
+Mojo Hand FX characterizes Iron Bell around an open, rich, harmonically dimensional fuzz response with additional presence shaping through Colour. Independent testing also describes it as smoother and more controlled than many Muff-style fuzzes. [1][3]
 
 ## Sources checked
-1. Mojo Hand FX Iron Bell - Reverb: https://reverb.com/p/mojo-hand-fx-iron-bell
-2. Mojo Hand FX Iron Bell — Fuzz Pedal | Equipboard: https://equipboard.com/items/mojo-hand-fx-iron-bell
-3. Iron Bell - MojoHandFX: https://fulleffectdistro.com/iron-bell/
-4. Mojo Hand FX Iron Bell - &quot;Gilmour&quot; Fuzz Pedal &ndash; Rock City Sound: https://rockcityusa.com/products/mojo-hand-fx-iron-bell-gilmour-fuzz-pedal
-5. Mojo Hand FX Iron Bell - Tonebox.com: https://www.tonebox.com/pedal/mojo-hand-fx-iron-bell
-6. Iron Bell by Mojo Hand Fx | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/Mojo-Hand-Fx/Iron-Bell/68982047/
-7. Iron Bell — Mojo Hand FX Fuzz Pedal | PedalFilter | PedalFilter: https://pedalfilter.com/mojo-hand-fx/iron-bell
-8. The ADHD Guitarist: Mojo Hand Fx Iron Bell Review: https://adhdguitarist.blogspot.com/2016/11/mojo-hand-fx-iron-bell-review.html
+1. **Full Effect Distro — Iron Bell:** https://fulleffectdistro.com/iron-bell/
+2. **RockBoard PedalPedia — Iron Bell:** https://www.rockboard.de/en/pedalPedia/Mojo-Hand-Fx/Iron-Bell/68982047/
+3. **The ADHD Guitarist — Mojo Hand FX Iron Bell Review:** https://adhdguitarist.blogspot.com/2016/11/mojo-hand-fx-iron-bell-review.html
+4. **PedalFilter — Iron Bell:** https://pedalfilter.com/mojo-hand-fx/iron-bell
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately.
+- Exact-model photo provenance remains governed by the archive's photo identity gate.
