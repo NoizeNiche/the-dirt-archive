@@ -6,7 +6,8 @@ images from the canonical catalog, preserves the research record, rebuilds the
 photo manifest/tracker, and records the quarantined identities for review.
 
 This script intentionally does not replace an image with a guess. A quarantined
-record becomes photo-needed and returns to the normal recovery lane.
+record becomes photo-needed, the photo backlog is rebuilt, and it returns to
+the normal recovery lane.
 """
 
 from __future__ import annotations
@@ -106,6 +107,7 @@ def main():
     # Rebuild the derived mirror/tracker through their canonical owners.
     subprocess.run(["python", "scripts/sync_prp_catalog.py"], check=True)
     subprocess.run(["python", "scripts/sync-prp-tracker.py"], check=True)
+    subprocess.run(["python", "scripts/sync-photo-backlog.py"], check=True)
 
     # Remove quarantined local assets only when no other catalog identity owns
     # the exact same path.
