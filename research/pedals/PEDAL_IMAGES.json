@@ -3569,7 +3569,7 @@
     "image": null,
     "source_page": "https://www.effectsdatabase.com/model/backbeat",
     "research_record": "./research/pedals/Backbeat Electric/Bass Driver.md",
-    "image_source_page": "https://www.effectsdatabase.com/model/backbeat/bassdriver"
+    "image_source_page": "https://www.backbeat-electric.com/bass_driver.html"
   },
   {
     "builder": "Backbeat Electric",
@@ -4950,7 +4950,7 @@
     "image": "",
     "source_page": "https://www.beetronicsfx.com/collections/all-pedals-1",
     "research_record": "./research/pedals/Beetronics/Nectar Tone Sweetener Drive/Fuzz.md",
-    "image_source_page": "https://www.beetronicsfx.com/products/nectar-tone-sweetener"
+    "image_source_page": "https://www.beetronicsfx.com/collections/all-pedals-1"
   },
   {
     "builder": "Beetronics",
@@ -4958,7 +4958,7 @@
     "image": "",
     "source_page": "https://www.beetronicsfx.com/collections/all-pedals-1",
     "research_record": "./research/pedals/Beetronics/Octahive V1 Upper Octave Fuzz.md",
-    "image_source_page": "https://www.beetronicsfx.com/products/octahive-v1"
+    "image_source_page": "https://www.beetronicsfx.com/collections/all-pedals-1"
   },
   {
     "builder": "Beetronics",
@@ -5028,7 +5028,7 @@
     "image": "",
     "source_page": "https://www.beetronicsfx.com/collections/all-pedals-1",
     "research_record": "./research/pedals/Beetronics/Zzombee Filtremulator.md",
-    "image_source_page": "https://www.beetronicsfx.com/pages/manuals"
+    "image_source_page": "https://www.beetronicsfx.com/collections/all-pedals-1"
   },
   {
     "builder": "Beetronics FX",
@@ -21597,7 +21597,7 @@
     "image": "",
     "source_page": "https://rockettpedals.com/",
     "research_record": "./research/pedals/J. Rockett Audio Designs/iKon.md",
-    "image_source_page": "https://rockettpedals.com/"
+    "image_source_page": "https://rockettpedals.com/wp-content/uploads/2022/12/ikon-manual.pdf"
   },
   {
     "builder": "J. Rockett Audio Designs",
@@ -21923,9 +21923,11 @@
   {
     "builder": "JHS Pedals",
     "pedal": "Calhoun V2",
-    "image": null,
+    "image": "./assets/pedals/jhs-pedals/calhoun-v2/primary.webp",
     "source_page": "https://jhspedals.info/products/calhoun-hand-paint",
-    "research_record": "./research/pedals/JHS Pedals/Calhoun V2, Mike Campbell.md"
+    "research_record": "./research/pedals/JHS Pedals/Calhoun V2, Mike Campbell.md",
+    "image_source_url": "https://jhspedals.info/cdn/shop/files/JHS-Pedals-Big-Calhoun-Handpaint-front_1100x.jpg?v=1723733727",
+    "image_source_page": "https://jhspedals.info/products/calhoun-hand-paint"
   },
   {
     "builder": "JHS Pedals",
@@ -22025,7 +22027,8 @@
     "pedal": "Kilt V1",
     "image": null,
     "source_page": "https://jhspedals.info/products/kilt-v1-stug",
-    "research_record": "./research/pedals/JHS Pedals/Kilt V1, Stu G.md"
+    "research_record": "./research/pedals/JHS Pedals/Kilt V1, Stu G.md",
+    "image_source_page": "https://jhspedals.info/products/kilt-v1-stug"
   },
   {
     "builder": "JHS Pedals",
@@ -22144,9 +22147,11 @@
   {
     "builder": "JHS Pedals",
     "pedal": "Ruby Red",
-    "image": null,
+    "image": "./assets/pedals/jhs-pedals/ruby-red/primary.webp",
     "source_page": "https://jhspedals.info/products/ruby-red-butch-walker",
-    "research_record": "./research/pedals/JHS Pedals/Ruby Red, Butch Walker.md"
+    "research_record": "./research/pedals/JHS Pedals/Ruby Red, Butch Walker.md",
+    "image_source_url": "https://jhspedals.info/cdn/shop/files/JHS-Pedals-Ruby-Red-top_1100x.jpg?v=1711720019",
+    "image_source_page": "https://jhspedals.info/products/ruby-red-butch-walker"
   },
   {
     "builder": "JHS Pedals",
@@ -22165,16 +22170,20 @@
   {
     "builder": "JHS Pedals",
     "pedal": "SuperBolt V2",
-    "image": null,
+    "image": "./assets/pedals/jhs-pedals/superbolt-v2/primary.webp",
     "source_page": "https://jhspedals.info/products/superbolt-v2",
-    "research_record": "./research/pedals/JHS Pedals/SuperBolt V2.md"
+    "research_record": "./research/pedals/JHS Pedals/SuperBolt V2.md",
+    "image_source_url": "https://jhspedals.info/cdn/shop/files/JHSPedalsSuperboltV2_1100x.png?v=1698431635",
+    "image_source_page": "https://jhspedals.info/products/superbolt-v2"
   },
   {
     "builder": "JHS Pedals",
     "pedal": "Sweet Tea V3",
-    "image": null,
+    "image": "./assets/pedals/jhs-pedals/sweet-tea-v3/primary.webp",
     "source_page": "https://jhspedals.info/products/sweet-tea-v3",
-    "research_record": "./research/pedals/JHS Pedals/Sweet Tea V3.md"
+    "research_record": "./research/pedals/JHS Pedals/Sweet Tea V3.md",
+    "image_source_url": "https://jhspedals.info/cdn/shop/files/JHS-Pedals-SweetTeaV3-SizeEdit_1100x.jpg?v=1751053039",
+    "image_source_page": "https://jhspedals.info/products/sweet-tea-v3"
   },
   {
     "builder": "JHS Pedals",
@@ -22195,7 +22204,8 @@
     "pedal": "Twin Twelve",
     "image": "",
     "source_page": "https://jhspedals.info/collections/discontinued-rare?page=2",
-    "research_record": "./research/pedals/JHS Pedals/Twin Twelve.md"
+    "research_record": "./research/pedals/JHS Pedals/Twin Twelve.md",
+    "image_source_page": "https://jhspedals.info/collections/discontinued-rare?page=2"
   },
   {
     "builder": "JHS Pedals",
@@ -22942,9 +22952,11 @@
   {
     "builder": "KMA Machines",
     "pedal": "Chief Disruptor Bloodstone Edition",
-    "image": "",
+    "image": "./assets/pedals/kma-machines/chief-disruptor-bloodstone-edition/primary.webp",
     "source_page": "https://shop.kmamachines.com/pages/products",
-    "research_record": "./research/pedals/KMA Machines/Chief Disruptor Bloodstone Edition.md"
+    "research_record": "./research/pedals/KMA Machines/Chief Disruptor Bloodstone Edition.md",
+    "image_source_url": "https://shop.kmamachines.com/cdn/shop/files/kma-cdbs-direct_store-1000x.jpg?v=1783610068&width=800",
+    "image_source_page": "https://shop.kmamachines.com/pages/products"
   },
   {
     "builder": "KMA Machines",
@@ -22984,9 +22996,11 @@
   {
     "builder": "KMA Machines",
     "pedal": "LOGAN Desert",
-    "image": "",
+    "image": "./assets/pedals/kma-machines/logan-desert/primary.webp",
     "source_page": "https://www.kma-machines.com/",
-    "research_record": "./research/pedals/KMA Machines/LOGAN Desert.md"
+    "research_record": "./research/pedals/KMA Machines/LOGAN Desert.md",
+    "image_source_url": "https://kmamachines.com/wp-content/uploads/2026/07/kma-cd_bs-buynowbg-ls.webp",
+    "image_source_page": "https://kmamachines.com/"
   },
   {
     "builder": "KMA Machines",
@@ -23012,9 +23026,11 @@
   {
     "builder": "KMA Machines",
     "pedal": "WURHM",
-    "image": "",
+    "image": "./assets/pedals/kma-machines/wurhm/primary.webp",
     "source_page": "https://www.kma-machines.com/",
-    "research_record": "./research/pedals/KMA Machines/WURHM.md"
+    "research_record": "./research/pedals/KMA Machines/WURHM.md",
+    "image_source_url": "https://kmamachines.com/wp-content/uploads/2026/07/kma-cd_bs-buynowbg-ls.webp",
+    "image_source_page": "https://kmamachines.com/"
   },
   {
     "builder": "KMA Machines",
@@ -23035,21 +23051,24 @@
     "pedal": "HP-2",
     "image": null,
     "source_page": "https://landdevices.com/collections/catalog",
-    "research_record": "./research/pedals/Land Devices/HP-2.md"
+    "research_record": "./research/pedals/Land Devices/HP-2.md",
+    "image_source_page": "https://landdevices.com/collections/catalog"
   },
   {
     "builder": "Land Devices",
     "pedal": "Hunter",
     "image": null,
     "source_page": "https://landdevices.com/collections/catalog",
-    "research_record": "./research/pedals/Land Devices/Hunter.md"
+    "research_record": "./research/pedals/Land Devices/Hunter.md",
+    "image_source_page": "https://landdevices.com/collections/catalog"
   },
   {
     "builder": "Land Devices",
     "pedal": "Moonbow",
     "image": null,
     "source_page": "https://landdevices.com/collections/catalog",
-    "research_record": "./research/pedals/Land Devices/Moonbow.md"
+    "research_record": "./research/pedals/Land Devices/Moonbow.md",
+    "image_source_page": "https://landdevices.com/collections/catalog"
   },
   {
     "builder": "Leqtique",
@@ -23306,65 +23325,78 @@
   {
     "builder": "LICHTLÆRM AUDIO",
     "pedal": ".Ritual.",
-    "image": null,
+    "image": "./assets/pedals/lichtl-rm-audio/ritual/primary.webp",
     "source_page": "https://lichtlaermaudio.com/shop/ritual",
-    "research_record": "./research/pedals/LICHTLÆRM AUDIO/.Ritual..md"
+    "research_record": "./research/pedals/LICHTLÆRM AUDIO/.Ritual..md",
+    "image_source_url": "https://images.squarespace-cdn.com/content/v1/5cd82168840b1640b019cfdf/1659898975485-U148QY43SYHVTTIUT6YA/Ritual_Front.png",
+    "image_source_page": "https://lichtlaermaudio.com/shop/ritual"
   },
   {
     "builder": "LICHTLÆRM AUDIO",
     "pedal": "Altar",
-    "image": null,
+    "image": "./assets/pedals/lichtl-rm-audio/altar/primary.webp",
     "source_page": "https://lichtlaermaudio.com/shop/altar",
-    "research_record": "./research/pedals/LICHTLÆRM AUDIO/Altar.md"
+    "research_record": "./research/pedals/LICHTLÆRM AUDIO/Altar.md",
+    "image_source_url": "https://images.squarespace-cdn.com/content/v1/5cd82168840b1640b019cfdf/1659898443426-ULWQF1FTCGNHCR8NRMOE/Altar_Front.png",
+    "image_source_page": "https://lichtlaermaudio.com/shop/altar"
   },
   {
     "builder": "LICHTLÆRM AUDIO",
     "pedal": "Aquaria",
-    "image": null,
+    "image": "./assets/pedals/lichtl-rm-audio/aquaria/primary.webp",
     "source_page": "https://lichtlaermaudio.com/shop/aquaria",
-    "research_record": "./research/pedals/LICHTLÆRM AUDIO/Aquaria.md"
+    "research_record": "./research/pedals/LICHTLÆRM AUDIO/Aquaria.md",
+    "image_source_url": "https://images.squarespace-cdn.com/content/v1/5cd82168840b1640b019cfdf/a0e51b2b-aeca-4679-8d9b-f9e48afcab70/Aquaria_v2_Front.png",
+    "image_source_page": "https://lichtlaermaudio.com/shop/aquaria"
   },
   {
     "builder": "LICHTLÆRM AUDIO",
     "pedal": "Gehenna",
     "image": null,
     "source_page": "https://lichtlaermaudio.com/shop",
-    "research_record": "./research/pedals/LICHTLÆRM AUDIO/Gehenna.md"
+    "research_record": "./research/pedals/LICHTLÆRM AUDIO/Gehenna.md",
+    "image_source_page": "https://lichtlaermaudio.com/shop"
   },
   {
     "builder": "LICHTLÆRM AUDIO",
     "pedal": "Medusa",
     "image": null,
     "source_page": "https://lichtlaermaudio.com/shop",
-    "research_record": "./research/pedals/LICHTLÆRM AUDIO/Medusa.md"
+    "research_record": "./research/pedals/LICHTLÆRM AUDIO/Medusa.md",
+    "image_source_page": "https://lichtlaermaudio.com/shop"
   },
   {
     "builder": "LICHTLÆRM AUDIO",
     "pedal": "Ragnarøk",
     "image": null,
     "source_page": "https://lichtlaermaudio.com/shop",
-    "research_record": "./research/pedals/LICHTLÆRM AUDIO/Ragnarøk.md"
+    "research_record": "./research/pedals/LICHTLÆRM AUDIO/Ragnarøk.md",
+    "image_source_page": "https://lichtlaermaudio.com/shop"
   },
   {
     "builder": "LICHTLÆRM AUDIO",
     "pedal": "The King in Yellow",
     "image": null,
     "source_page": "https://lichtlaermaudio.com/shop",
-    "research_record": "./research/pedals/LICHTLÆRM AUDIO/The King in Yellow.md"
+    "research_record": "./research/pedals/LICHTLÆRM AUDIO/The King in Yellow.md",
+    "image_source_page": "https://lichtlaermaudio.com/shop"
   },
   {
     "builder": "LICHTLÆRM AUDIO",
     "pedal": "Thorn",
     "image": null,
     "source_page": "https://lichtlaermaudio.com/shop",
-    "research_record": "./research/pedals/LICHTLÆRM AUDIO/Thorn.md"
+    "research_record": "./research/pedals/LICHTLÆRM AUDIO/Thorn.md",
+    "image_source_page": "https://lichtlaermaudio.com/shop"
   },
   {
     "builder": "LICHTLÆRM AUDIO",
     "pedal": "Total Distortion Worship MKII",
-    "image": null,
+    "image": "./assets/pedals/lichtl-rm-audio/total-distortion-worship-mkii/primary.webp",
     "source_page": "https://lichtlaermaudio.com/shop/tdw",
-    "research_record": "./research/pedals/LICHTLÆRM AUDIO/Total Distortion Worship MKII.md"
+    "research_record": "./research/pedals/LICHTLÆRM AUDIO/Total Distortion Worship MKII.md",
+    "image_source_url": "https://images.squarespace-cdn.com/content/v1/5cd82168840b1640b019cfdf/1557743833959-FDOC3KFS2ZLF2BZTUHC0/LichtLaerm_schnitt_weiss.png?format=300w",
+    "image_source_page": "https://lichtlaermaudio.com/shop/tdw"
   },
   {
     "builder": "Limetone Audio",
@@ -23532,119 +23564,144 @@
     "pedal": "200lbs of Gold",
     "image": "",
     "source_page": "https://lovepedal.com/",
-    "research_record": "./research/pedals/Lovepedal / Love Pedal/200lbs of Gold.md"
+    "research_record": "./research/pedals/Lovepedal / Love Pedal/200lbs of Gold.md",
+    "image_source_page": "https://www.lovepedal.com/"
   },
   {
     "builder": "Lovepedal / Love Pedal",
     "pedal": "5E3 Deluxe",
     "image": "",
     "source_page": "https://lovepedal.com/",
-    "research_record": "./research/pedals/Lovepedal / Love Pedal/5E3 Deluxe.md"
+    "research_record": "./research/pedals/Lovepedal / Love Pedal/5E3 Deluxe.md",
+    "image_source_page": "https://www.lovepedal.com/"
   },
   {
     "builder": "Lovepedal / Love Pedal",
     "pedal": "Amp 50",
     "image": "",
     "source_page": "https://lovepedal.com/",
-    "research_record": "./research/pedals/Lovepedal / Love Pedal/Amp 50.md"
+    "research_record": "./research/pedals/Lovepedal / Love Pedal/Amp 50.md",
+    "image_source_page": "https://www.lovepedal.com/"
   },
   {
     "builder": "Lovepedal / Love Pedal",
     "pedal": "Amp Eleven",
-    "image": "",
+    "image": "./assets/pedals/lovepedal-love-pedal/amp-eleven/primary.webp",
     "source_page": "https://lovepedal.com/",
-    "research_record": "./research/pedals/Lovepedal / Love Pedal/Amp Eleven.md"
+    "research_record": "./research/pedals/Lovepedal / Love Pedal/Amp Eleven.md",
+    "image_source_url": "https://www.lovepedal.com/wp-content/uploads/2026/02/rubberchicNIVO.png",
+    "image_source_page": "https://www.lovepedal.com/"
   },
   {
     "builder": "Lovepedal / Love Pedal",
     "pedal": "COT 50 / Church of Tone 50",
     "image": "",
     "source_page": "https://lovepedal.com/",
-    "research_record": "./research/pedals/Lovepedal / Love Pedal/COT 50 / Church of Tone 50.md"
+    "research_record": "./research/pedals/Lovepedal / Love Pedal/COT 50 / Church of Tone 50.md",
+    "image_source_page": "https://www.lovepedal.com/"
   },
   {
     "builder": "Lovepedal / Love Pedal",
     "pedal": "Dover Drive",
-    "image": "",
+    "image": "./assets/pedals/lovepedal-love-pedal/dover-drive/primary.webp",
     "source_page": "https://lovepedal.com/",
-    "research_record": "./research/pedals/Lovepedal / Love Pedal/Dover Drive.md"
+    "research_record": "./research/pedals/Lovepedal / Love Pedal/Dover Drive.md",
+    "image_source_url": "https://www.lovepedal.com/wp-content/uploads/2026/02/rubberchicNIVO.png",
+    "image_source_page": "https://www.lovepedal.com/"
   },
   {
     "builder": "Lovepedal / Love Pedal",
     "pedal": "Eternity Burst",
-    "image": "",
+    "image": "./assets/pedals/lovepedal-love-pedal/eternity-burst/primary.webp",
     "source_page": "https://lovepedal.com/",
-    "research_record": "./research/pedals/Lovepedal / Love Pedal/Eternity Burst.md"
+    "research_record": "./research/pedals/Lovepedal / Love Pedal/Eternity Burst.md",
+    "image_source_url": "https://www.lovepedal.com/wp-content/uploads/2026/02/rubberchicNIVO.png",
+    "image_source_page": "https://www.lovepedal.com/"
   },
   {
     "builder": "Lovepedal / Love Pedal",
     "pedal": "Eternity Overdrive",
-    "image": "",
+    "image": "./assets/pedals/lovepedal-love-pedal/eternity-overdrive/primary.webp",
     "source_page": "https://lovepedal.com/",
-    "research_record": "./research/pedals/Lovepedal / Love Pedal/Eternity Overdrive.md"
+    "research_record": "./research/pedals/Lovepedal / Love Pedal/Eternity Overdrive.md",
+    "image_source_url": "https://www.lovepedal.com/wp-content/uploads/2026/02/rubberchicNIVO.png",
+    "image_source_page": "https://www.lovepedal.com/"
   },
   {
     "builder": "Lovepedal / Love Pedal",
     "pedal": "FAB 50",
     "image": "",
     "source_page": "https://lovepedal.com/",
-    "research_record": "./research/pedals/Lovepedal / Love Pedal/FAB 50.md"
+    "research_record": "./research/pedals/Lovepedal / Love Pedal/FAB 50.md",
+    "image_source_page": "https://www.lovepedal.com/"
   },
   {
     "builder": "Lovepedal / Love Pedal",
     "pedal": "Kalamazoo",
     "image": "",
     "source_page": "https://lovepedal.com/",
-    "research_record": "./research/pedals/Lovepedal / Love Pedal/Kalamazoo.md"
+    "research_record": "./research/pedals/Lovepedal / Love Pedal/Kalamazoo.md",
+    "image_source_page": "https://www.lovepedal.com/"
   },
   {
     "builder": "Lovepedal / Love Pedal",
     "pedal": "Mosferatu",
     "image": "",
     "source_page": "https://lovepedal.com/",
-    "research_record": "./research/pedals/Lovepedal / Love Pedal/Mosferatu.md"
+    "research_record": "./research/pedals/Lovepedal / Love Pedal/Mosferatu.md",
+    "image_source_page": "https://www.lovepedal.com/"
   },
   {
     "builder": "Lovepedal / Love Pedal",
     "pedal": "Purple Plexi",
-    "image": "",
+    "image": "./assets/pedals/lovepedal-love-pedal/purple-plexi/primary.webp",
     "source_page": "https://lovepedal.com/",
-    "research_record": "./research/pedals/Lovepedal / Love Pedal/Purple Plexi.md"
+    "research_record": "./research/pedals/Lovepedal / Love Pedal/Purple Plexi.md",
+    "image_source_url": "https://www.lovepedal.com/wp-content/uploads/2026/02/rubberchicNIVO.png",
+    "image_source_page": "https://www.lovepedal.com/"
   },
   {
     "builder": "Lovepedal / Love Pedal",
     "pedal": "Super Six",
     "image": "",
     "source_page": "https://lovepedal.com/",
-    "research_record": "./research/pedals/Lovepedal / Love Pedal/Super Six.md"
+    "research_record": "./research/pedals/Lovepedal / Love Pedal/Super Six.md",
+    "image_source_page": "https://www.lovepedal.com/"
   },
   {
     "builder": "Lovepedal / Love Pedal",
     "pedal": "Tchula",
-    "image": "",
+    "image": "./assets/pedals/lovepedal-love-pedal/tchula/primary.webp",
     "source_page": "https://lovepedal.com/",
-    "research_record": "./research/pedals/Lovepedal / Love Pedal/Tchula.md"
+    "research_record": "./research/pedals/Lovepedal / Love Pedal/Tchula.md",
+    "image_source_url": "https://www.lovepedal.com/wp-content/uploads/2026/02/rubberchicNIVO.png",
+    "image_source_page": "https://www.lovepedal.com/"
   },
   {
     "builder": "Lovepedal / Love Pedal",
     "pedal": "Tiki Drive",
     "image": "",
     "source_page": "https://lovepedal.com/",
-    "research_record": "./research/pedals/Lovepedal / Love Pedal/Tiki Drive.md"
+    "research_record": "./research/pedals/Lovepedal / Love Pedal/Tiki Drive.md",
+    "image_source_page": "https://www.lovepedal.com/"
   },
   {
     "builder": "Lovepedal / Love Pedal",
     "pedal": "Zendrive",
-    "image": "",
+    "image": "./assets/pedals/lovepedal-love-pedal/zendrive/primary.webp",
     "source_page": "https://lovepedal.com/",
-    "research_record": "./research/pedals/Lovepedal / Love Pedal/Zendrive.md"
+    "research_record": "./research/pedals/Lovepedal / Love Pedal/Zendrive.md",
+    "image_source_url": "https://www.lovepedal.com/wp-content/uploads/2026/02/rubberchicNIVO.png",
+    "image_source_page": "https://www.lovepedal.com/"
   },
   {
     "builder": "Lovepedal / Love Pedal",
     "pedal": "Zendrive 2",
-    "image": "",
+    "image": "./assets/pedals/lovepedal-love-pedal/zendrive-2/primary.webp",
     "source_page": "https://lovepedal.com/",
-    "research_record": "./research/pedals/Lovepedal / Love Pedal/Zendrive 2.md"
+    "research_record": "./research/pedals/Lovepedal / Love Pedal/Zendrive 2.md",
+    "image_source_url": "https://www.lovepedal.com/wp-content/uploads/2026/02/rubberchicNIVO.png",
+    "image_source_page": "https://www.lovepedal.com/"
   },
   {
     "builder": "Lovetone",
