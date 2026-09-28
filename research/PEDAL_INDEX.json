@@ -134,7 +134,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": "./assets/pedals/6-degrees-fx/hyper-catalyst/primary.webp",
+      "image": null,
       "source_page": "https://www.effectsdatabase.com/type/overdrive/pedal",
       "research_record": "./research/pedals/6 Degrees FX/Hyper Catalyst.md",
       "research_level": "deep",
@@ -277,10 +277,9 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": "./assets/pedals/a-da/final-phase/primary.webp",
+      "image": null,
       "source_page": "https://www.fullcompass.com/prod/558032-a-da-amplification-discontinued-final-phase-reissue-of-a-da-final-phase-guitar-pedal",
       "research_record": "./research/pedals/A/DA/Final Phase.md",
-      "image_source_url": "https://www.fullcompass.com/common/products/sm/333323.jpg",
       "research_level": "deep",
       "deep_research_status": "VERIFIED"
     },
@@ -1125,10 +1124,9 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": "./assets/pedals/acoustic-imaginearing/quantumdrive/primary.webp",
+      "image": null,
       "source_page": "https://www.acousticimaginearing.com/",
       "research_record": "./research/pedals/Acoustic Imaginearing/QuantumDrive.md",
-      "image_source_url": "https://www.acousticimaginearing.com/images/ssthumb.jpg",
       "image_source_page": "https://www.acousticimaginearing.com/",
       "research_level": "deep",
       "deep_research_status": "VERIFIED"
@@ -1480,10 +1478,9 @@
       "types": [
         "Fuzz"
       ],
-      "image": "./assets/pedals/addrock-musical-products/hism-scism/primary.webp",
+      "image": null,
       "source_page": "https://reverb.com/item/94436181-addrock-hism-scism-silicon-fuzz-pedal",
       "research_record": "./research/pedals/Addrock Musical Products/Hism Scism.md",
-      "image_source_url": "https://files.effectsdatabase.com/gear/thumbs/addrock_hismscism_001.jpg",
       "image_source_page": "https://www.effectsdatabase.com/model/addrock/hismscism",
       "research_level": "deep",
       "deep_research_status": "VERIFIED"
@@ -1979,7 +1976,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": "./assets/pedals/akai/blues-overdrive/primary.webp",
+      "image": null,
       "source_page": "https://www.zzounds.com/item--AKABLUESOD",
       "research_record": "./research/pedals/Akai/Blues Overdrive.md",
       "image_source_page": "https://www.zzounds.com/item--AKABLUESOD",
@@ -3029,10 +3026,9 @@
       "types": [
         "Overdrive"
       ],
-      "image": "./assets/pedals/amptweaker/tight-drive/primary.webp",
+      "image": null,
       "source_page": "https://www.fullcompass.com",
       "research_record": "./research/pedals/Amptweaker/Tight_Drive.md",
-      "image_source_url": "https://www.fullcompass.com/common/products/sm/513892.jpg",
       "research_level": "deep",
       "deep_research_status": "VERIFIED"
     },
@@ -3325,10 +3321,9 @@
       "types": [
         "Distortion"
       ],
-      "image": "./assets/pedals/amt-electronics/dm-3-distmachine/primary.webp",
+      "image": null,
       "source_page": "https://www.jrrshop.com/amt-electronics-dist-machine-analog-distortion-pedal.html",
       "research_record": "./research/pedals/PRP Batch 049/DM-3 DistMachine.md",
-      "image_source_url": "https://www.jrrshop.com/media/catalog/product/cache/1/thumbnail/78x78/a66540e506afa74ed63da765fad2ca0b/a/m/amtelectronicsdistmachine.jpg",
       "image_source_page": "https://www.jrrshop.com/amt-electronics-dist-machine-analog-distortion-pedal.html",
       "research_level": "deep",
       "deep_research_status": "VERIFIED"
@@ -4483,12 +4478,11 @@
       "types": [
         "Fuzz"
       ],
-      "image": "./assets/pedals/arc-effects/big-green/primary.webp",
+      "image": null,
       "source_page": "https://www.arceffects.com/big-green",
       "research_record": "./research/pedals/ARC Effects/Big Green.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_url": "https://images.squarespace-cdn.com/content/v1/504a2da9e4b0060ff5df6806/1387306372817-M4OD7IG839BAVXKLRYQX/%22+Sticker.png?format=300w",
       "image_source_page": "https://www.arceffects.com/big-green"
     },
     {
@@ -4497,12 +4491,11 @@
       "types": [
         "Fuzz"
       ],
-      "image": "./assets/pedals/arc-effects/big-green-pi/primary.webp",
+      "image": null,
       "source_page": "https://www.arceffects.com/big-green-1/",
       "research_record": "./research/pedals/ARC Effects/Big Green Pi.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_url": "https://images.squarespace-cdn.com/content/v1/504a2da9e4b0060ff5df6806/1387306372817-M4OD7IG839BAVXKLRYQX/%22+Sticker.png?format=300w",
       "image_source_page": "https://www.arceffects.com/big-green-1/"
     },
     {
@@ -4511,12 +4504,11 @@
       "types": [
         "Fuzz"
       ],
-      "image": "./assets/pedals/arc-effects/crimson-king/primary.webp",
+      "image": null,
       "source_page": "https://www.arceffects.com/crimson-king/",
       "research_record": "./research/pedals/ARC Effects/Crimson King.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_url": "https://images.squarespace-cdn.com/content/v1/504a2da9e4b0060ff5df6806/1387306372817-M4OD7IG839BAVXKLRYQX/%22+Sticker.png?format=300w",
       "image_source_page": "https://www.arceffects.com/crimson-king/"
     },
     {
@@ -4525,12 +4517,11 @@
       "types": [
         "Overdrive"
       ],
-      "image": "./assets/pedals/arc-effects/klone/primary.webp",
+      "image": null,
       "source_page": "https://www.effectsdatabase.com/model/arceffects/klone",
       "research_record": "./research/pedals/ARC Effects/Klone.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_url": "https://files.effectsdatabase.com/gear/thumbs/arceffects_klone_001.jpg",
       "image_source_page": "https://www.effectsdatabase.com/model/arceffects/klone"
     },
     {
@@ -4539,12 +4530,11 @@
       "types": [
         "Overdrive"
       ],
-      "image": "./assets/pedals/arc-effects/klone-v2/primary.webp",
+      "image": null,
       "source_page": "https://www.arceffects.com/klone-v2",
       "research_record": "./research/pedals/ARC Effects/Klone V2.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_url": "https://images.squarespace-cdn.com/content/v1/504a2da9e4b0060ff5df6806/1387306372817-M4OD7IG839BAVXKLRYQX/%22+Sticker.png?format=300w",
       "image_source_page": "https://www.arceffects.com/klone-v2"
     },
     {
@@ -4553,12 +4543,11 @@
       "types": [
         "Fuzz"
       ],
-      "image": "./assets/pedals/arc-effects/shepherd/primary.webp",
+      "image": null,
       "source_page": "https://www.arceffects.com/shepherd/",
       "research_record": "./research/pedals/ARC Effects/Shepherd.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_url": "https://images.squarespace-cdn.com/content/v1/504a2da9e4b0060ff5df6806/1387306372817-M4OD7IG839BAVXKLRYQX/%22+Sticker.png?format=300w",
       "image_source_page": "https://www.arceffects.com/shepherd/"
     },
     {
@@ -4738,7 +4727,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": "./assets/pedals/ashdown-engineering/abm-pro-fx-double-shot/primary.webp",
+      "image": null,
       "source_page": "https://www.effectsdatabase.com/model/ashdown",
       "research_record": "./research/pedals/Ashdown Engineering/ABM PRO-FX Double Shot.md",
       "research_level": "deep",
@@ -4750,7 +4739,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": "./assets/pedals/ashdown-engineering/abm-pro-fx-pro-drive/primary.webp",
+      "image": null,
       "source_page": "https://www.effectsdatabase.com/model/ashdown",
       "research_record": "./research/pedals/Ashdown Engineering/ABM PRO-FX Pro Drive.md",
       "research_level": "deep",
@@ -4767,7 +4756,7 @@
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
       "image_source_page": "https://www.effectsdatabase.com/model/ashdown",
-      "image": "./assets/pedals/ashdown-engineering/agm-pro-fx-retro-drive/primary.webp"
+      "image": null
     },
     {
       "company": "Ashdown Engineering",
@@ -4775,7 +4764,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": "./assets/pedals/ashdown-engineering/agm-pro-fx-vintage-fuzz/primary.webp",
+      "image": null,
       "source_page": "https://www.effectsdatabase.com/model/ashdown",
       "research_record": "./research/pedals/Ashdown Engineering/AGM PRO-FX Vintage Fuzz.md",
       "research_level": "deep",
@@ -4788,7 +4777,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": "./assets/pedals/ashdown-engineering/bass-drive-plus/primary.webp",
+      "image": null,
       "source_page": "https://www.effectsdatabase.com/model/ashdown",
       "research_record": "./research/pedals/Ashdown Engineering/Bass Drive Plus.md",
       "research_level": "deep",
@@ -4801,7 +4790,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": "./assets/pedals/ashdown-engineering/geezer-butler-pedal-of-doom/primary.webp",
+      "image": null,
       "source_page": "https://www.effectsdatabase.com/model/ashdown",
       "research_record": "./research/pedals/Ashdown Engineering/Geezer Butler Pedal Of Doom.md",
       "research_level": "deep",
@@ -4829,7 +4818,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": "./assets/pedals/ashdown-engineering/james-lomenzo-mega-drive/primary.webp",
+      "image": null,
       "source_page": "https://www.effectsdatabase.com/model/ashdown",
       "research_record": "./research/pedals/Ashdown Engineering/James LoMenzo Mega Drive.md",
       "research_level": "deep",
@@ -4940,11 +4929,10 @@
       "types": [
         "Distortion"
       ],
-      "image": "./assets/pedals/asheville-guitar-pedals/fuzz-driver-distortion/primary.webp",
+      "image": null,
       "source_page": "https://www.effectsdatabase.com/model/ashevillegp/fuzzdriver",
       "research_record": "./research/pedals/PRP Batch 059/Fuzz Driver Distortion.md",
       "image_source_page": "https://www.effectsdatabase.com/model/ashevillegp/fuzzdriver",
-      "image_source_url": "https://files.effectsdatabase.com/gear/thumbs/ashevillegp_fuzzdriver_001.jpg",
       "research_level": "deep",
       "deep_research_status": "VERIFIED"
     },
@@ -5024,10 +5012,9 @@
       "types": [
         "Overdrive"
       ],
-      "image": "./assets/pedals/atlas-pedal/bracton-overdrive/primary.webp",
+      "image": null,
       "source_page": "https://www.atlaspedal.com/bracton-overdrive",
       "research_record": "./research/pedals/Atlas Pedal/Bracton OverDrive.md",
-      "image_source_url": "https://static.wixstatic.com/media/be2f54_2039ecf3a58d453480375aa67fbde45d~mv2.png/v1/fill/w_190,h_54,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/be2f54_2039ecf3a58d453480375aa67fbde45d~mv2.png",
       "image_source_page": "https://www.atlaspedal.com/bracton-overdrive",
       "research_level": "deep",
       "deep_research_status": "VERIFIED"
@@ -5038,10 +5025,9 @@
       "types": [
         "Overdrive"
       ],
-      "image": "./assets/pedals/atlas-pedal/sutherland-overdrive/primary.webp",
+      "image": null,
       "source_page": "https://www.atlaspedal.com/sutherland-overdrive",
       "research_record": "./research/pedals/Atlas Pedal/Sutherland OverDrive.md",
-      "image_source_url": "https://static.wixstatic.com/media/be2f54_2039ecf3a58d453480375aa67fbde45d~mv2.png/v1/fill/w_190,h_54,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/be2f54_2039ecf3a58d453480375aa67fbde45d~mv2.png",
       "image_source_page": "https://www.atlaspedal.com/sutherland-overdrive",
       "research_level": "deep",
       "deep_research_status": "VERIFIED"
@@ -6752,7 +6738,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": "./assets/pedals/bad-cat/burmese-drive-dual-vintage-overdrive/primary.webp",
+      "image": null,
       "source_page": "https://www.effectsdatabase.com/model/badcat",
       "research_record": "./research/pedals/Bad Cat/Burmese Drive - Dual Vintage Overdrive.md",
       "research_level": "deep",
@@ -6764,7 +6750,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": "./assets/pedals/bad-cat/double-drive-stackable-overdrive/primary.webp",
+      "image": null,
       "source_page": "https://www.effectsdatabase.com/model/badcat",
       "research_record": "./research/pedals/Bad Cat/Double Drive - Stackable Overdrive.md",
       "research_level": "deep",
@@ -6776,7 +6762,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": "./assets/pedals/bad-cat/siamese-drive-dual-harmonic-overdrive/primary.webp",
+      "image": null,
       "source_page": "https://www.effectsdatabase.com/model/badcat",
       "research_record": "./research/pedals/Bad Cat/Siamese Drive - Dual Harmonic Overdrive.md",
       "research_level": "deep",
@@ -7342,7 +7328,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": "./assets/pedals/baja-tech-custom/da-moaf-deluxe/primary.webp",
+      "image": null,
       "source_page": "https://www.effectsdatabase.com/model/bajatech",
       "research_record": "./research/pedals/Baja Tech Custom/DaMOAF Deluxe.md",
       "research_level": "deep",
@@ -9773,14 +9759,10 @@
       "types": [
         "Overdrive"
       ],
-      "image": "./assets/pedals/bffx-boutique-pedals/demon-d/primary.webp",
+      "image": null,
       "source_page": null,
       "research_record": "./research/pedals/PRP Batch 080/Demon D.md",
       "image_source_page": "https://equipboard.com/items/bffx-demon-d",
-      "image_source_pages": [
-        "https://equipboard.com/items/bffx-demon-d"
-      ],
-      "image_source_url": "https://images.equipboard.com/uploads/item/image/43102/bffx-demon-d-xl.webp?v=1789812021",
       "research_level": "deep",
       "deep_research_status": "VERIFIED"
     },
@@ -9907,17 +9889,11 @@
       "types": [
         "Fuzz"
       ],
-      "image": "./assets/pedals/big-ear/black-betty/primary.webp",
+      "image": null,
       "source_page": null,
       "research_record": "./research/pedals/PRP Batch 080/Black Betty.md",
       "image_source_page": "https://www.bigearpedals.com/product-page/black-betty-fuzz-blem",
-      "image_source_page_verified": true,
       "image_source_priority": 73,
-      "image_source_pages": [
-        "https://www.bigearpedals.com/product-page/black-betty-fuzz-blem"
-      ],
-      "image_source_pages_verified": true,
-      "image_source_url": "https://static.wixstatic.com/media/8e3756_67e9e7334f474c1e8e75b640da4d5f42~mv2.png/v1/crop/x_0,y_9,w_1721,h_769/fill/w_132,h_60,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8e3756_67e9e7334f474c1e8e75b640da4d5f42~mv2.png",
       "research_level": "deep",
       "deep_research_status": "VERIFIED"
     },
@@ -9927,18 +9903,11 @@
       "types": [
         "Fuzz"
       ],
-      "image": "./assets/pedals/big-ear/loaf/primary.webp",
+      "image": null,
       "source_page": null,
       "research_record": "./research/pedals/PRP Batch 080/LOAF.md",
       "image_source_page": "https://www.bigearpedals.com/product-page/loaf",
-      "image_source_page_verified": true,
       "image_source_priority": 444,
-      "image_source_pages": [
-        "https://www.effectsdatabase.com/model/bigear/loaf",
-        "https://www.bigearpedals.com/product-page/loaf"
-      ],
-      "image_source_pages_verified": true,
-      "image_source_url": "https://static.wixstatic.com/media/8e3756_2fcaf61277f848a3a87e21ae0e4cfd34%7Emv2.jpg/v1/fill/w_192%2Ch_192%2Clg_1%2Cusm_0.66_1.00_0.01/8e3756_2fcaf61277f848a3a87e21ae0e4cfd34%7Emv2.jpg",
       "research_level": "deep",
       "deep_research_status": "VERIFIED"
     },
@@ -9974,17 +9943,11 @@
       "types": [
         "Distortion"
       ],
-      "image": "./assets/pedals/big-ear/woodcutter/primary.webp",
+      "image": null,
       "source_page": null,
       "research_record": "./research/pedals/PRP Batch 081/Woodcutter.md",
       "image_source_page": "https://www.bigearpedals.com/product-page/woodcutter",
-      "image_source_page_verified": true,
       "image_source_priority": 225,
-      "image_source_pages": [
-        "https://www.bigearpedals.com/product-page/woodcutter"
-      ],
-      "image_source_pages_verified": true,
-      "image_source_url": "https://static.wixstatic.com/media/8e3756_67e9e7334f474c1e8e75b640da4d5f42~mv2.png/v1/crop/x_0,y_9,w_1721,h_769/fill/w_132,h_60,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8e3756_67e9e7334f474c1e8e75b640da4d5f42~mv2.png",
       "research_level": "deep",
       "deep_research_status": "VERIFIED"
     },
@@ -9994,18 +9957,11 @@
       "types": [
         "Fuzz"
       ],
-      "image": "./assets/pedals/big-ear-nyc/black-betty/primary.webp",
+      "image": null,
       "source_page": null,
       "research_record": "./research/pedals/PRP Batch 081/Black Betty.md",
       "image_source_page": "https://www.bigearpedals.com/product-page/betty-white-fuzz-blem",
-      "image_source_page_verified": true,
       "image_source_priority": 446,
-      "image_source_pages": [
-        "https://reverb.com/p/big-ear-nyc-betty-fuzz",
-        "https://www.bigearpedals.com/product-page/betty-white-fuzz-blem"
-      ],
-      "image_source_pages_verified": true,
-      "image_source_url": "https://static.wixstatic.com/media/8e3756_2fcaf61277f848a3a87e21ae0e4cfd34%7Emv2.jpg/v1/fill/w_192%2Ch_192%2Clg_1%2Cusm_0.66_1.00_0.01/8e3756_2fcaf61277f848a3a87e21ae0e4cfd34%7Emv2.jpg",
       "research_level": "deep",
       "deep_research_status": "VERIFIED"
     },
@@ -10055,7 +10011,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": "./assets/pedals/big-ear-nyc/more-more-more/primary.webp",
+      "image": null,
       "source_page": "https://www.effectsdatabase.com/updates/weekly/20140804",
       "research_record": "./research/pedals/Big Ear NYC/More More More.md",
       "research_level": "deep",
@@ -10067,17 +10023,11 @@
       "types": [
         "Fuzz"
       ],
-      "image": "./assets/pedals/big-ear-nyc/slice-of-pie/primary.webp",
+      "image": null,
       "source_page": null,
       "research_record": "./research/pedals/PRP Batch 081/Slice Of Pie.md",
       "image_source_page": "https://www.bigearpedals.com/product-page/slice-of-pie-b-stock",
-      "image_source_page_verified": true,
       "image_source_priority": 75,
-      "image_source_pages": [
-        "https://www.bigearpedals.com/product-page/slice-of-pie-b-stock"
-      ],
-      "image_source_pages_verified": true,
-      "image_source_url": "https://static.wixstatic.com/media/8e3756_67e9e7334f474c1e8e75b640da4d5f42~mv2.png/v1/crop/x_0,y_9,w_1721,h_769/fill/w_132,h_60,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8e3756_67e9e7334f474c1e8e75b640da4d5f42~mv2.png",
       "research_level": "deep",
       "deep_research_status": "VERIFIED"
     },
@@ -10087,17 +10037,11 @@
       "types": [
         "Fuzz"
       ],
-      "image": "./assets/pedals/big-ear-nyc/the-loaf-fuzz/primary.webp",
+      "image": null,
       "source_page": null,
       "research_record": "./research/pedals/PRP Batch 081/The LOAF Fuzz.md",
       "image_source_page": "https://www.bigearpedals.com/product-page/loaf",
-      "image_source_page_verified": true,
       "image_source_priority": 57,
-      "image_source_pages": [
-        "https://www.bigearpedals.com/product-page/loaf"
-      ],
-      "image_source_pages_verified": true,
-      "image_source_url": "https://static.wixstatic.com/media/8e3756_2fcaf61277f848a3a87e21ae0e4cfd34%7Emv2.jpg/v1/fill/w_192%2Ch_192%2Clg_1%2Cusm_0.66_1.00_0.01/8e3756_2fcaf61277f848a3a87e21ae0e4cfd34%7Emv2.jpg",
       "research_level": "deep",
       "deep_research_status": "VERIFIED"
     },
@@ -12930,12 +12874,10 @@
       "types": [
         "Distortion"
       ],
-      "image": "./assets/pedals/black-cat-amps/djenttonic/primary.webp",
+      "image": null,
       "source_page": "https://blackcatamps.com/",
       "research_record": "./research/pedals/PRP Batch 096/DJENTTONIC.md",
       "image_source_page": "https://blackcatamps.com/",
-      "image_source_page_verified": true,
-      "image_source_url": "https://blackcatamps.com/wp-content/uploads/2026/08/Maintence-Page-Black-Background-1024x576.jpg",
       "research_level": "deep",
       "deep_research_status": "VERIFIED"
     },
@@ -13275,12 +13217,11 @@
       "types": [
         "Fuzz"
       ],
-      "image": "./assets/pedals/black-mass-electronics/the-first-herald/primary.webp",
+      "image": null,
       "source_page": "https://blackmasselectronics.com/collections/fuzz",
       "research_record": "./research/pedals/Black Mass Electronics/The First Herald.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_url": "https://blackmasselectronics.com/cdn/shop/files/blackmass_410x.png?v=1738535982",
       "image_source_page": "https://blackmasselectronics.com/products/the-first-herald"
     },
     {
@@ -14638,14 +14579,10 @@
       "types": [
         "Fuzz"
       ],
-      "image": "./assets/pedals/bogner-amplification/oxford/primary.webp",
+      "image": null,
       "source_page": "https://www.sweetwater.com/store/detail/Oxford--bogner-oxford-fuzz-pedal",
       "research_record": "./research/pedals/PRP Batch 107/Oxford.md",
       "image_source_page": "https://www.zzounds.com/item--BOGOXFORD",
-      "image_source_pages": [
-        "https://www.zzounds.com/item--BOGOXFORD"
-      ],
-      "image_source_url": "https://cf1.zzounds.com/media/productmedia/fit%2C2018by3200/quality%2C85/BP_Oxford_top_2000x2000-59ed25a1c8dcaad50f6692787029d58f.jpg",
       "research_level": "deep",
       "deep_research_status": "VERIFIED"
     },
@@ -15029,13 +14966,10 @@
       "types": [
         "Overdrive"
       ],
-      "image": "./assets/pedals/bootlegger-guitar/tube-shooter-overdrive/primary.webp",
+      "image": null,
       "source_page": "https://www.effectsdatabase.com/updates/weekly/20161017",
       "research_record": "./research/pedals/PRP Batch 109/Tube Shooter Overdrive.md",
       "image_source_page": "https://www.zzounds.com/item--BOTBTS1",
-      "image_source_pages": [
-        "https://www.zzounds.com/item--BOTBTS1"
-      ],
       "research_level": "deep",
       "deep_research_status": "VERIFIED"
     },
@@ -15283,12 +15217,11 @@
       "types": [
         "Distortion"
       ],
-      "image": "./assets/pedals/boss/hm-2-heavy-metal/primary.webp",
+      "image": null,
       "source_page": "https://www.effectsdatabase.com/model/boss/compact/hm2",
       "research_record": "./research/pedals/BOSS/HM-2 Heavy Metal.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_url": "https://static.roland.com/assets/promos/png/menu_eurus_gs-1.png",
       "image_source_page": "https://www.boss.info/us/whats_new/press_releases/2021/BOSS-Announces-the-HM-2W-Heavy-Metal-Pedal/"
     },
     {
@@ -15381,7 +15314,7 @@
       "types": [
         "Distortion"
       ],
-      "image": "./assets/pedals/boss/mt-2-3a-30th-anniversary-metal-zone/primary.webp",
+      "image": null,
       "source_page": "https://www.effectsdatabase.com/model/boss/compact/mt2/3a",
       "research_record": "./research/pedals/BOSS/MT-2-3A 30th Anniversary Metal Zone.md",
       "research_level": "deep",
@@ -15422,12 +15355,11 @@
       "types": [
         "Overdrive"
       ],
-      "image": "./assets/pedals/boss/od-1-overdrive/primary.webp",
+      "image": null,
       "source_page": "https://www.effectsdatabase.com/model/boss/compact/od1",
       "research_record": "./research/pedals/BOSS/OD-1 OverDrive.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_url": "https://static.roland.com/assets/promos/png/menu_tr-1000.png",
       "image_source_page": "https://www.roland.com/us/products/rc_boss_effects_pedals/support/"
     },
     {
@@ -15977,12 +15909,10 @@
       "types": [
         "Fuzz"
       ],
-      "image": "./assets/pedals/brantone-electronics/wem-pepbox-official-reissue/primary.webp",
+      "image": null,
       "source_page": null,
       "research_record": "./research/pedals/PRP Batch 115/brantone-electronics-wem-pepbox-official-reissue.md",
       "image_source_page": "https://www.breakthemachine.co.uk/brantone-electronics-qa/",
-      "image_source_page_verified": true,
-      "image_source_url": "https://www.breakthemachine.co.uk/wp-content/themes/btm/public/images/red-grunge-bg.png",
       "research_level": "deep",
       "deep_research_status": "VERIFIED"
     },
@@ -17091,7 +17021,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": "./assets/pedals/budda/om-overdrive/primary.webp",
+      "image": null,
       "source_page": "https://www.budda.com/news/article.cfm/action/view/id/867/cat/1/article.cfm",
       "research_record": "./research/pedals/PRP Batch 127/budda-om-overdrive.md",
       "image_source_page": "https://www.budda.com/news/article.cfm/action/view/id/867/cat/1/article.cfm",
@@ -17742,16 +17672,11 @@
       "types": [
         "Fuzz"
       ],
-      "image": "./assets/pedals/build-your-own-clone/li-l-fuzz/primary.webp",
+      "image": null,
       "source_page": null,
       "research_record": "./research/pedals/PRP Batch 130/li-l-fuzz.md",
       "image_source_page": "https://buildyourownclone.com/collections/fuzz/products/lil-fuzz-kit",
-      "image_source_page_verified": true,
       "image_source_priority": 499,
-      "image_source_pages": [
-        "https://www.effectsdatabase.com/model/byoc/lil/fuzz"
-      ],
-      "image_source_pages_verified": true,
       "research_level": "deep",
       "deep_research_status": "VERIFIED"
     },
@@ -18348,17 +18273,11 @@
       "types": [
         "Distortion"
       ],
-      "image": "./assets/pedals/byw-audio/blacky-blower/primary.webp",
+      "image": null,
       "source_page": "https://bywaudio.com/index.php/product/blacky-blower/",
       "research_record": "./research/pedals/PRP Batch 135/byw-blacky-blower.md",
       "image_source_page": "https://bywaudio.com/index.php/product/blacky-blower/",
-      "image_source_page_verified": true,
       "image_source_priority": 261,
-      "image_source_pages": [
-        "https://bywaudio.com/index.php/product/blacky-blower/"
-      ],
-      "image_source_pages_verified": true,
-      "image_source_url": "https://bywaudio.com/wp-content/uploads/2020/01/la_blacky_blower_nixe_800-100x100.jpg",
       "research_level": "deep",
       "deep_research_status": "VERIFIED"
     },
@@ -19910,7 +19829,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": "./assets/pedals/captain-fx/war-pig/primary.webp",
+      "image": null,
       "source_page": "https://github.com/NoizeNiche/the-dirt-archive/blob/main/research/SCRAPE_C_BLOCK_165_ADDENDUM.csv",
       "research_record": "./research/pedals/Captain FX/War Pig.md",
       "research_level": "deep",
@@ -20287,7 +20206,7 @@
         "Fuzz",
         "Distortion"
       ],
-      "image": "./assets/pedals/carlsbro/suzz-wah-wah/primary.webp",
+      "image": null,
       "source_page": "https://www.effectsdatabase.com/model/carlsbro/alu",
       "research_record": "./research/pedals/Carlsbro/Suzz Wah-Wah.md",
       "research_level": "deep",
@@ -21077,15 +20996,10 @@
       "types": [
         "Fuzz"
       ],
-      "image": "./assets/pedals/cat-s-eye-esp/hop-hed-fuzztone/primary.webp",
+      "image": null,
       "source_page": "https://www.effectsdatabase.com/model/catseye/hophed",
       "research_record": "./research/pedals/PRP Batch 155/cat-s-eye-hop-hed-fuzztone.md",
       "image_source_page": "https://reverb.com/uk/item/6975190-cat-s-eye-hop-hed-fuzztone-owned-by-j-mascis",
-      "image_source_pages": [
-        "https://www.effectsdatabase.com/model/catseye/hophed",
-        "https://equipboard.com/items/cat-s-eye-hop-hed-fuzztone"
-      ],
-      "image_source_url": "https://rvb-img.reverb.com/i/s--G2yQdSys--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/ruyzerihp5ffrdy3cyiu.jpg",
       "research_level": "deep",
       "deep_research_status": "VERIFIED"
     },
@@ -23196,7 +23110,7 @@
       "types": [
         "Distortion"
       ],
-      "image": "./assets/pedals/chaser/hm-3-heavy-metal/primary.webp",
+      "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Chaser/HM-3 Heavy Metal.md",
       "image_source_page": "https://www.effectsdatabase.com/model/chaser/hm3",
@@ -25721,13 +25635,8 @@
       "image_source_page": "https://www.effectsdatabase.com/taxonomy/term/8/0?page=46",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_pages": [
-        "https://www.effectsdatabase.com/taxonomy/term/8/0?page=46"
-      ],
-      "image_source_pages_verified": true,
-      "image_source_page_verified": true,
       "image_source_priority": 504,
-      "image": "./assets/pedals/collins/cdt-1-distortion/primary.webp"
+      "image": null
     },
     {
       "company": "Collins",
@@ -25735,7 +25644,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": "./assets/pedals/collins/cod-1-pro-over-drive/primary.webp",
+      "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Collins/COD-1 Pro Over Drive.md",
       "research_level": "deep",
@@ -25806,10 +25715,9 @@
         "Distortion",
         "Fuzz"
       ],
-      "image": "./assets/pedals/collision-devices/snack-fuzz/primary.webp",
+      "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Collision Devices/Snack Fuzz.md",
-      "image_source_url": "https://images.squarespace-cdn.com/content/v1/613fafff5a3c44773121cc57/fd683af6-085c-49f2-972e-2a5a27e2de45/SP.jpeg?format=100w",
       "image_source_page": "https://collisiondevices.com/shop/p/snack-fuzz",
       "research_level": "deep",
       "deep_research_status": "VERIFIED"
@@ -26494,7 +26402,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": "./assets/pedals/commune/senturion-preamp-500/primary.webp",
+      "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Commune/Senturion Preamp 500.md",
       "research_level": "deep",
@@ -26532,7 +26440,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": "./assets/pedals/comodoro-pedales/botfly-fuzz/primary.webp",
+      "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Comodoro Pedales/Botfly Fuzz.md",
       "research_level": "deep",
@@ -26585,7 +26493,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": "./assets/pedals/companion/fy-6-super-fuzz/primary.webp",
+      "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Companion/FY-6 Super Fuzz.md",
       "image_source_page": "https://www.effectsdatabase.com/model/shinei/companion/fy6",
@@ -26610,7 +26518,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": "./assets/pedals/compulsive-audio/face-off-fuzz/primary.webp",
+      "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Compulsive Audio/Face-Off Fuzz.md",
       "research_level": "deep",
@@ -26779,7 +26687,7 @@
       "types": [
         "Distortion"
       ],
-      "image": "./assets/pedals/coolmusic/c-di01-insane-distortion/primary.webp",
+      "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Coolmusic/C-DI01 Insane Distortion.md",
       "research_level": "deep",
@@ -26791,7 +26699,7 @@
       "types": [
         "Distortion"
       ],
-      "image": "./assets/pedals/coolmusic/c-di02-classic-distortion/primary.webp",
+      "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Coolmusic/C-DI02 Classic Distortion.md",
       "research_level": "deep",
@@ -26803,7 +26711,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": "./assets/pedals/coolmusic/c-fc1-fuzzster/primary.webp",
+      "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Coolmusic/C-FC1 Fuzzster.md",
       "research_level": "deep",
@@ -26815,7 +26723,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": "./assets/pedals/coolmusic/c-ov01-crunchy-overdrive/primary.webp",
+      "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Coolmusic/C-OV01 Crunchy Overdrive.md",
       "image_source_page": "https://www.effectsdatabase.com/model/coolmusic/cov01",
@@ -26884,7 +26792,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": "./assets/pedals/coolpedals/steam-machine/primary.webp",
+      "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Coolpedals/Steam Machine.md",
       "image_source_page": "https://www.effectsdatabase.com/model/coolpedals/steammachine",
@@ -27006,7 +26914,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": "./assets/pedals/coopersonic/mini-tube-overdrive/primary.webp",
+      "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Coopersonic/Mini Tube Overdrive.md",
       "research_level": "deep",
@@ -27043,7 +26951,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": "./assets/pedals/coopersonic/twin-tube-overdrive/primary.webp",
+      "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Coopersonic/Twin Tube Overdrive.md",
       "image_source_page": "https://www.effectsdatabase.com/model/coopersonic",
@@ -27140,7 +27048,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": "./assets/pedals/copper-gear/black-howler/primary.webp",
+      "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Copper Gear/Black Howler.md",
       "research_level": "deep",
@@ -27171,7 +27079,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": "./assets/pedals/copper-gear/distorta-azura/primary.webp",
+      "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Copper Gear/Distorta Azura.md",
       "research_level": "deep",
@@ -27526,7 +27434,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": "./assets/pedals/cornerstone-music-gear/sparkle-dynamic-overdrive/primary.webp",
+      "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Cornerstone Music Gear/Sparkle - Dynamic Overdrive.md",
       "research_level": "deep",
@@ -27550,13 +27458,12 @@
       "types": [
         "Distortion"
       ],
-      "image": "./assets/pedals/coron/coron-distortion-10/primary.webp",
+      "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Coron/Coron Distortion 10.md",
       "image_source_page": "https://www.effectsdatabase.com/model/coron/first/distortion10",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED",
-      "image_source_url": "https://files.effectsdatabase.com/gear/thumbs/coron_distortion10_001.jpg"
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Coron",
@@ -27564,7 +27471,7 @@
       "types": [
         "Distortion"
       ],
-      "image": "./assets/pedals/coron/coron-distortion-15/primary.webp",
+      "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Coron/Coron Distortion 15.md",
       "research_level": "deep",
@@ -28195,7 +28102,7 @@
       "types": [
         "Distortion"
       ],
-      "image": "./assets/pedals/cranetortoise-by-albit/dd-1b-dual-distortion-for-bass/primary.webp",
+      "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Cranetortoise by Albit/DD-1B Dual Distortion for Bass.md",
       "image_source_page": "https://www.effectsdatabase.com/model/cranetortoise",
@@ -28973,7 +28880,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": "./assets/pedals/creation-audio-labs/holy-fire-classic/primary.webp",
+      "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Creation Audio Labs/Holy Fire Classic.md",
       "research_level": "deep",
@@ -29590,7 +29497,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": "./assets/pedals/crotronics/firestarter/primary.webp",
+      "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Crotronics/Firestarter.md",
       "research_level": "deep",
@@ -29653,7 +29560,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": "./assets/pedals/crown/fuzz-and-treble-booster/primary.webp",
+      "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Crown/Fuzz and Treble Booster.md",
       "image_source_page": "https://www.effectsdatabase.com/model/crown/fuzztreblebooster",
@@ -29666,7 +29573,7 @@
       "types": [
         "Distortion"
       ],
-      "image": "./assets/pedals/crown/fw-3-distortion-wah-volume/primary.webp",
+      "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Crown/FW-3 Distortion Wah Volume.md",
       "image_source_page": "https://www.effectsdatabase.com/model/crown/fw3",
@@ -29794,7 +29701,7 @@
       "types": [
         "Distortion"
       ],
-      "image": "./assets/pedals/cruzer-by-crafter/ef-dt-distortion/primary.webp",
+      "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Cruzer (by Crafter)/EF-DT Distortion.md",
       "image_source_page": "https://www.effectsdatabase.com/model/crafter/cruzer/distortion",
@@ -31992,7 +31899,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": "./assets/pedals/devi-ever-fx/90/primary.webp",
+      "image": null,
       "source_page": "https://www.effectsdatabase.com/model/deviever",
       "research_record": "./research/pedals/Devi Ever FX/'90.md",
       "research_level": "deep",
@@ -32539,20 +32446,13 @@
       "types": [
         "Fuzz"
       ],
-      "image": "./assets/pedals/devi-ever-fx/mirro-safety-bag-fuzz/primary.webp",
+      "image": null,
       "source_page": "https://www.effectsdatabase.com/model/deviever",
       "research_record": "./research/pedals/Devi Ever FX/Mirro Safety Bag Fuzz.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
       "image_source_page": "https://www.gearaffe.com/brands/devi-ever",
-      "image_source_pages": [
-        "https://www.effectsdatabase.com/model/deviever",
-        "https://www.gearaffe.com/brands/devi-ever"
-      ],
-      "image_source_pages_verified": true,
-      "image_source_page_verified": true,
-      "image_source_priority": 1443,
-      "image_source_url": "https://www.gearaffe.com/mascots/reg-head-header.png"
+      "image_source_priority": 1443
     },
     {
       "company": "Devi Ever FX",
@@ -32561,7 +32461,7 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": "./assets/pedals/devi-ever-fx/nd-never-drive/primary.webp",
+      "image": null,
       "source_page": "https://www.effectsdatabase.com/model/deviever",
       "research_record": "./research/pedals/Devi Ever FX/ND Never Drive.md",
       "research_level": "deep",
@@ -32573,7 +32473,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": "./assets/pedals/devi-ever-fx/noise-floor/primary.webp",
+      "image": null,
       "source_page": "https://www.effectsdatabase.com/model/deviever",
       "research_record": "./research/pedals/Devi Ever FX/Noise Floor.md",
       "research_level": "deep",
@@ -32616,7 +32516,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": "./assets/pedals/devi-ever-fx/peeplug/primary.webp",
+      "image": null,
       "source_page": "https://www.effectsdatabase.com/model/deviever",
       "research_record": "./research/pedals/Devi Ever FX/PEEPlug.md",
       "research_level": "deep",
@@ -33144,7 +33044,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": "./assets/pedals/dinosaural/cogmeister/primary.webp",
+      "image": null,
       "source_page": "https://www.effectsdatabase.com/model/dinosaural",
       "research_record": "./research/pedals/Dinosaural/Cogmeister.md",
       "research_level": "deep",
@@ -33157,7 +33057,7 @@
         "Overdrive",
         "Distortion"
       ],
-      "image": "./assets/pedals/dinosaural/hypoid-drive/primary.webp",
+      "image": null,
       "source_page": "https://www.effectsdatabase.com/model/dinosaural",
       "research_record": "./research/pedals/Dinosaural/Hypoid Drive.md",
       "research_level": "deep",
@@ -33190,18 +33090,12 @@
       "types": [
         "Overdrive"
       ],
-      "image": "./assets/pedals/dinosaural/tube-bender/primary.webp",
+      "image": null,
       "source_page": "https://www.effectsdatabase.com/model/dinosaural",
       "research_record": "./research/pedals/Dinosaural/Tube Bender.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
       "image_source_page": "https://ftp.amplifiedparts.com/pedal-guides/build-project-dinosaural-tubebender",
-      "image_source_pages": [
-        "https://www.effectsdatabase.com/model/dinosaural",
-        "https://ftp.amplifiedparts.com/pedal-guides/build-project-dinosaural-tubebender"
-      ],
-      "image_source_pages_verified": true,
-      "image_source_page_verified": true,
       "image_source_priority": 1315
     },
     {
@@ -34592,7 +34486,7 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": "./assets/pedals/earthquaker-devices/gary/primary.webp",
+      "image": null,
       "source_page": null,
       "research_record": "./research/pedals/EarthQuaker Devices/Gary.md",
       "image_source_page": "https://www.earthquakerdevices.com/devices",
@@ -34622,13 +34516,8 @@
       "image_source_page": "https://www.earthquakerdevices.com/legacy",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_pages": [
-        "https://www.earthquakerdevices.com/legacy"
-      ],
-      "image_source_pages_verified": true,
-      "image_source_page_verified": true,
       "image_source_priority": 676,
-      "image": "./assets/pedals/earthquaker-devices/gray-channel/primary.webp"
+      "image": null
     },
     {
       "company": "EarthQuaker Devices",
@@ -34697,7 +34586,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": "./assets/pedals/earthquaker-devices/hoof-reaper/primary.webp",
+      "image": null,
       "source_page": null,
       "research_record": "./research/pedals/EarthQuaker Devices/Hoof Reaper.md",
       "image_source_page": "https://www.earthquakerdevices.com/legacy",
@@ -34734,7 +34623,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": "./assets/pedals/earthquaker-devices/palisades/primary.webp",
+      "image": null,
       "source_page": null,
       "research_record": "./research/pedals/EarthQuaker Devices/Palisades.md",
       "image_source_page": "https://www.earthquakerdevices.com/legacy",
@@ -34760,7 +34649,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": "./assets/pedals/earthquaker-devices/park-fuzz-sound/primary.webp",
+      "image": null,
       "source_page": null,
       "research_record": "./research/pedals/EarthQuaker Devices/Park Fuzz Sound.md",
       "image_source_page": "https://www.earthquakerdevices.com/legacy",
@@ -34785,7 +34674,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": "./assets/pedals/earthquaker-devices/plumes/primary.webp",
+      "image": null,
       "source_page": null,
       "research_record": "./research/pedals/EarthQuaker Devices/Plumes.md",
       "image_source_page": "https://www.earthquakerdevices.com/devices",
@@ -35816,7 +35705,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": "./assets/pedals/electronic-audio-experiments/citadel/primary.webp",
+      "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Electronic Audio Experiments/Citadel.md",
       "research_level": "deep",
@@ -36354,12 +36243,11 @@
       "types": [
         "Overdrive"
       ],
-      "image": "./assets/pedals/fender/smolder-acoustic-overdrive/primary.webp",
+      "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Fender/Smolder Acoustic Overdrive.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_url": "https://m.media-amazon.com/images/I/41C8w9fTmrL.jpg",
       "image_source_page": "https://www.amazon.com/Fender-Smolder-Acoustic-Overdrive-Electric/dp/B07T752D6R"
     },
     {
@@ -36775,7 +36663,7 @@
       "types": [
         "Distortion"
       ],
-      "image": "./assets/pedals/foxgear/bass-muffin/primary.webp",
+      "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Foxgear/Bass Muffin.md",
       "research_level": "deep",
@@ -36885,7 +36773,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": "./assets/pedals/foxpedal/the-city-v2/primary.webp",
+      "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Foxpedal/The City V2.md",
       "research_level": "deep",
@@ -37389,12 +37277,11 @@
       "types": [
         "Fuzz"
       ],
-      "image": "./assets/pedals/fuzzrocious-pedals/baby-furnace/primary.webp",
+      "image": null,
       "source_page": "https://fuzzrociouspedals.com/?product=babyfurnace",
       "research_record": "./research/pedals/Fuzzrocious Pedals/Baby Furnace.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_url": "https://fuzzrociouspedals.com/wp-content/uploads/2020/02/Official_demo_GUITAR-2-100x100.jpg",
       "image_source_page": "https://fuzzrociouspedals.com/?product=babyfurnace"
     },
     {
@@ -37403,12 +37290,11 @@
       "types": [
         "Fuzz"
       ],
-      "image": "./assets/pedals/fuzzrocious-pedals/blast-furnace/primary.webp",
+      "image": null,
       "source_page": "https://fuzzrociouspedals.com/?product=blastfurnace",
       "research_record": "./research/pedals/Fuzzrocious Pedals/Blast Furnace.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_url": "https://fuzzrociouspedals.com/wp-content/uploads/2017/01/blastfurnace_site-100x100.jpg",
       "image_source_page": "https://fuzzrociouspedals.com/?product=blastfurnace"
     },
     {
@@ -37474,12 +37360,11 @@
         "Overdrive",
         "Distortion"
       ],
-      "image": "./assets/pedals/fuzzrocious-pedals/dark-driving-v3/primary.webp",
+      "image": null,
       "source_page": "https://fuzzrociouspedals.com/?product=dark-driving-v3",
       "research_record": "./research/pedals/Fuzzrocious Pedals/Dark Driving v3.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_url": "https://fuzzrociouspedals.com/wp-content/uploads/2023/01/OFFICIAL_DEMO_GUITAR-100x100.jpg",
       "image_source_page": "https://fuzzrociouspedals.com/?product=dark-driving-v3"
     },
     {
@@ -37560,12 +37445,11 @@
         "Overdrive",
         "Fuzz"
       ],
-      "image": "./assets/pedals/fuzzrocious-pedals/m-o-t-h/primary.webp",
+      "image": null,
       "source_page": "https://fuzzrociouspedals.com/?product=moth",
       "research_record": "./research/pedals/Fuzzrocious Pedals/M.O.T.H..md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_url": "https://fuzzrociouspedals.com/wp-content/uploads/2020/02/Official_Demo_BASS-2-100x100.jpg",
       "image_source_page": "https://fuzzrociouspedals.com/?product=moth"
     },
     {
@@ -37589,12 +37473,11 @@
         "Overdrive",
         "Distortion"
       ],
-      "image": "./assets/pedals/fuzzrocious-pedals/playing-mantis/primary.webp",
+      "image": null,
       "source_page": "https://fuzzrociouspedals.com/?product=playingmantis",
       "research_record": "./research/pedals/Fuzzrocious Pedals/Playing Mantis.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_url": "https://fuzzrociouspedals.com/wp-content/uploads/2020/02/Official_Demo_BASS-1-100x100.jpg",
       "image_source_page": "https://fuzzrociouspedals.com/?product=playingmantis"
     },
     {
@@ -37775,7 +37658,7 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": "./assets/pedals/greer-amps/ghetto-stomp/primary.webp",
+      "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Greer Amps/Ghetto Stomp.md",
       "research_level": "deep",
@@ -37837,7 +37720,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": "./assets/pedals/greer-amps/little-samson/primary.webp",
+      "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Greer Amps/Little Samson.md",
       "research_level": "deep",
@@ -39475,12 +39358,11 @@
       "types": [
         "Fuzz"
       ],
-      "image": "./assets/pedals/j-rockett-audio-designs/hooligan-fuzz/primary.webp",
+      "image": null,
       "source_page": "https://rockettpedals.com/",
       "research_record": "./research/pedals/J. Rockett Audio Designs/Hooligan Fuzz.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_url": "https://assets.rbl.ms/62183840/origin.png",
       "image_source_page": "https://www.premierguitar.com/j-rockett-audio-designs-unveils-the-hooligan-fuzz"
     },
     {
@@ -39667,7 +39549,7 @@
       "research_record": "./research/pedals/Jackson Audio/Goat Head.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image": "./assets/pedals/jackson-audio/goat-head/primary.webp"
+      "image": null
     },
     {
       "company": "Jackson Audio",
@@ -39679,7 +39561,7 @@
       "research_record": "./research/pedals/Jackson Audio/Golden Boy Mini Overdrive.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image": "./assets/pedals/jackson-audio/golden-boy-mini-overdrive/primary.webp"
+      "image": null
     },
     {
       "company": "Jackson Audio",
@@ -39687,7 +39569,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": "./assets/pedals/jackson-audio/golden-boy-transparent-overdrive/primary.webp",
+      "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Jackson Audio/Golden Boy Transparent Overdrive.md",
       "research_level": "deep",
@@ -41142,7 +41024,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": "./assets/pedals/keeley-electronics/monterey-rotary-fuzz-vibe/primary.webp",
+      "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Keeley Electronics/Monterey Rotary Fuzz Vibe.md",
       "research_level": "deep",
@@ -42478,7 +42360,7 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": "./assets/pedals/lichtlaerm-audio/medusa/primary.webp",
+      "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Lichtlaerm Audio/Medusa.md",
       "research_level": "deep",
@@ -43485,7 +43367,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": "./assets/pedals/mad-professor-amplification/golden-cello/primary.webp",
+      "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Mad Professor Amplification/Golden Cello.md",
       "research_level": "deep",
@@ -43529,7 +43411,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": "./assets/pedals/mad-professor-amplification/little-tweedy-drive/primary.webp",
+      "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Mad Professor Amplification/Little Tweedy Drive.md",
       "research_level": "deep",
@@ -43638,7 +43520,7 @@
       "types": [
         "Distortion"
       ],
-      "image": "./assets/pedals/mad-professor-amplification/stone-grey-distortion/primary.webp",
+      "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Mad Professor Amplification/Stone Grey Distortion.md",
       "research_level": "deep",
@@ -43803,7 +43685,7 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": "./assets/pedals/madebymike/dual-drive/primary.webp",
+      "image": null,
       "source_page": null,
       "research_record": "./research/pedals/MadeByMike/Dual Drive.md",
       "research_level": "deep",
@@ -43815,7 +43697,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": "./assets/pedals/madebymike/fuzzy-beetle/primary.webp",
+      "image": null,
       "source_page": null,
       "research_record": "./research/pedals/MadeByMike/Fuzzy Beetle.md",
       "research_level": "deep",
@@ -43841,7 +43723,7 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": "./assets/pedals/madebymike/rat-muff/primary.webp",
+      "image": null,
       "source_page": null,
       "research_record": "./research/pedals/MadeByMike/RAT/MUFF.md",
       "research_level": "deep",
@@ -44160,7 +44042,7 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": "./assets/pedals/mask-audio-electronics/germanium-part-garden/primary.webp",
+      "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Mask Audio Electronics/Germanium Part Garden.md",
       "research_level": "deep",
@@ -44750,12 +44632,11 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": "./assets/pedals/maxon/rod881/primary.webp",
+      "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Maxon/ROD881.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_url": "https://media.guitarcenter.com/is/image/MMGS7/155083000000000-00-86x86.jpg",
       "image_source_page": "https://www.guitarcenter.com/Maxon/ROD881-Real-Tube-Overdrive-Distortion-Guitar-Effects-Pedal-1274115045617.gc"
     },
     {
@@ -44806,7 +44687,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": "./assets/pedals/maxon/rto700/primary.webp",
+      "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Maxon/RTO700.md",
       "research_level": "deep",
@@ -44947,7 +44828,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": "./assets/pedals/maxon/ssd-9-super-sonic-distortion/primary.webp",
+      "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Maxon/SSD-9 Super Sonic Distortion.md",
       "research_level": "deep",
@@ -45226,7 +45107,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": "./assets/pedals/maxon-nisshin-onpa/od-9/primary.webp",
+      "image": null,
       "source_page": "https://www.maxonfx.com/",
       "research_record": "./research/pedals/Maxon / Nisshin Onpa/OD-9.md",
       "research_level": "deep",
@@ -45239,7 +45120,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": "./assets/pedals/maxon-nisshin-onpa/od-9-pro/primary.webp",
+      "image": null,
       "source_page": "https://www.maxonfx.com/",
       "research_record": "./research/pedals/Maxon / Nisshin Onpa/OD-9 Pro+.md",
       "research_level": "deep",
@@ -45290,7 +45171,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": "./assets/pedals/maxon-nisshin-onpa/od820-overdrive-pro/primary.webp",
+      "image": null,
       "source_page": "https://www.maxonfx.com/",
       "research_record": "./research/pedals/Maxon / Nisshin Onpa/OD820 Overdrive Pro+.md",
       "research_level": "deep",
@@ -45318,7 +45199,7 @@
         "Overdrive",
         "Distortion"
       ],
-      "image": "./assets/pedals/maxon-nisshin-onpa/osd-9-overdrive-soft-distortion/primary.webp",
+      "image": null,
       "source_page": "https://www.maxonfx.com/",
       "research_record": "./research/pedals/Maxon / Nisshin Onpa/OSD-9 Overdrive / Soft Distortion.md",
       "research_level": "deep",
@@ -45332,7 +45213,7 @@
         "Overdrive",
         "Distortion"
       ],
-      "image": "./assets/pedals/maxon-nisshin-onpa/rod881-real-overdrive-distortion/primary.webp",
+      "image": null,
       "source_page": "https://www.maxonfx.com/",
       "research_record": "./research/pedals/Maxon / Nisshin Onpa/ROD881 Real Overdrive / Distortion.md",
       "research_level": "deep",
@@ -45365,17 +45246,12 @@
       "types": [
         "Overdrive"
       ],
-      "image": "./assets/pedals/maxon-nisshin-onpa/rto700-real-tube-overdrive/primary.webp",
+      "image": null,
       "source_page": "https://www.maxonfx.com/",
       "research_record": "./research/pedals/Maxon / Nisshin Onpa/RTO700 Real Tube Overdrive.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
       "image_source_page": "https://maxonfx.com/",
-      "image_source_pages": [
-        "https://maxonfx.com/"
-      ],
-      "image_source_pages_verified": true,
-      "image_source_page_verified": true,
       "image_source_priority": 1170
     },
     {
@@ -45384,7 +45260,7 @@
       "types": [
         "Distortion"
       ],
-      "image": "./assets/pedals/maxon-nisshin-onpa/sd-9-sonic-distortion-overdrive/primary.webp",
+      "image": null,
       "source_page": "https://www.maxonfx.com/",
       "research_record": "./research/pedals/Maxon / Nisshin Onpa/SD-9 Sonic Distortion / Overdrive.md",
       "research_level": "deep",
@@ -45431,17 +45307,12 @@
       "types": [
         "Distortion"
       ],
-      "image": "./assets/pedals/maxon-nisshin-onpa/sm-9pro-super-metal-pro/primary.webp",
+      "image": null,
       "source_page": "https://www.maxonfx.com/",
       "research_record": "./research/pedals/Maxon / Nisshin Onpa/SM-9Pro Super Metal Pro+.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
       "image_source_page": "https://maxonfx.com/",
-      "image_source_pages": [
-        "https://maxonfx.com/"
-      ],
-      "image_source_pages_verified": true,
-      "image_source_page_verified": true,
       "image_source_priority": 1171
     },
     {
@@ -45450,7 +45321,7 @@
       "types": [
         "Distortion"
       ],
-      "image": "./assets/pedals/maxon-nisshin-onpa/ssd-9-super-sonic-distortion/primary.webp",
+      "image": null,
       "source_page": "https://www.maxonfx.com/",
       "research_record": "./research/pedals/Maxon / Nisshin Onpa/SSD-9 Super Sonic Distortion.md",
       "research_level": "deep",
@@ -46910,7 +46781,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": "./assets/pedals/mojo-hand-fx/rounder/primary.webp",
+      "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Mojo Hand FX/Rounder.md",
       "research_level": "deep",
@@ -47635,7 +47506,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": "./assets/pedals/mxr/evh-5150-overdrive/primary.webp",
+      "image": null,
       "source_page": null,
       "research_record": "./research/pedals/MXR/EVH 5150 Overdrive.md",
       "research_level": "deep",
@@ -47745,12 +47616,11 @@
       "types": [
         "Distortion"
       ],
-      "image": "./assets/pedals/mxr/prime-distortion/primary.webp",
+      "image": null,
       "source_page": null,
       "research_record": "./research/pedals/MXR/Prime Distortion.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_url": "https://www.manua.ls/thumbs/products/s/1747699-mxr-mini-iso-brick-m239.jpg",
       "image_source_page": "https://www.manua.ls/mxr/prime-distortion-m69p/manual"
     },
     {
@@ -48751,7 +48621,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": "./assets/pedals/okko-fx/diablo-dual/primary.webp",
+      "image": null,
       "source_page": null,
       "research_record": "./research/pedals/OKKO FX/DIABLO DUAL.md",
       "research_level": "deep",
@@ -48787,7 +48657,7 @@
       "types": [
         "Distortion"
       ],
-      "image": "./assets/pedals/okko-fx/dirty-diablo/primary.webp",
+      "image": null,
       "source_page": null,
       "research_record": "./research/pedals/OKKO FX/DIRTY DIABLO.md",
       "research_level": "deep",
@@ -48811,12 +48681,11 @@
       "types": [
         "Fuzz"
       ],
-      "image": "./assets/pedals/okko-fx/holy-grit/primary.webp",
+      "image": null,
       "source_page": null,
       "research_record": "./research/pedals/OKKO FX/HOLY GRIT.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_url": "https://delicious-audio.com/wp-content/themes/newsight/images/header/illustration2.jpg.webp",
       "image_source_page": "https://delicious-audio.com/okko-fx-holy-grit/"
     },
     {
@@ -48939,7 +48808,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": "./assets/pedals/old-blood-noise-endeavors/pardner/primary.webp",
+      "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Old Blood Noise Endeavors/Pardner.md",
       "research_level": "deep",
@@ -50082,7 +49951,7 @@
       "types": [
         "Distortion"
       ],
-      "image": "./assets/pedals/phaez-amplification/daisycutter/primary.webp",
+      "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Phaez Amplification/Daisycutter.md",
       "research_level": "deep",
@@ -50200,7 +50069,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": "./assets/pedals/pigtronix/fat-drive/primary.webp",
+      "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Pigtronix/FAT Drive.md",
       "research_level": "deep",
@@ -50333,7 +50202,7 @@
         "Distortion",
         "Fuzz"
       ],
-      "image": "./assets/pedals/pigtronix/star-eater/primary.webp",
+      "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Pigtronix/Star Eater.md",
       "research_level": "deep",
@@ -50473,7 +50342,7 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": "./assets/pedals/prescription-electronics/yardbox/primary.webp",
+      "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Prescription Electronics/Yardbox.md",
       "research_level": "deep",
@@ -50551,12 +50420,11 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": "./assets/pedals/proco-sound/solo/primary.webp",
+      "image": null,
       "source_page": null,
       "research_record": "./research/pedals/ProCo Sound/SOLO.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_url": "https://static.audiofanzine.com/img/interface/menu/univers/white/394.png?w=52&h=52&fm=png&s=16752d8ac22fbca0fb6f77f62c7a3739",
       "image_source_page": "https://en.audiofanzine.com/guitar-distortion-overdrive-fuzz/proco-sound/rat-solo/user_reviews/"
     },
     {
@@ -51175,7 +51043,7 @@
       "types": [
         "Distortion"
       ],
-      "image": "./assets/pedals/sbgo-effects/dark-bass-anger/primary.webp",
+      "image": null,
       "source_page": null,
       "research_record": "./research/pedals/SBGO Effects/Dark Bass Anger.md",
       "research_level": "deep",
@@ -51997,15 +51865,9 @@
       "research_record": "./research/pedals/SolidGoldFX/If 6 Was 9 BC183 MKII.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_pages": [
-        "https://solidgoldfx.com/products/if-6-was-9-bc183-mkii-fuzz"
-      ],
       "image_source_page": "https://solidgoldfx.com/products/if-6-was-9-bc183-mkii-fuzz",
-      "image_source_pages_verified": true,
-      "image_source_page_verified": true,
       "image_source_priority": 1323,
-      "image": "./assets/pedals/solidgoldfx/if-6-was-9-bc183-mkii/primary.webp",
-      "image_source_url": "https://solidgoldfx.com/cdn/shop/files/DSC07680_10x10.jpg?v=1653978510"
+      "image": null
     },
     {
       "company": "SolidGoldFX",
@@ -52017,15 +51879,9 @@
       "research_record": "./research/pedals/SolidGoldFX/Imperial MKII.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_pages": [
-        "https://reverb.com/p/solidgoldfx-imperial-mkii"
-      ],
       "image_source_page": "https://reverb.com/p/solidgoldfx-imperial-mkii",
-      "image_source_pages_verified": true,
-      "image_source_page_verified": true,
       "image_source_priority": 1324,
-      "image": "./assets/pedals/solidgoldfx/imperial-mkii/primary.webp",
-      "image_source_url": "https://rvb-img.reverb.com/i/s--2GFcgzOS--/gravity=auto,quality=medium-low,width=200,height=200,format=jpeg/h9w7xoxxkjqooaxezr39.png"
+      "image": null
     },
     {
       "company": "SolidGoldFX",
@@ -52476,7 +52332,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": "./assets/pedals/stomp-under-foot/hellephant/primary.webp",
+      "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Stomp Under Foot/Hellephant.md",
       "research_level": "deep",
@@ -52668,7 +52524,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": "./assets/pedals/stomp-under-foot/son-of-a-bee/primary.webp",
+      "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Stomp Under Foot/Son Of A Bee.md",
       "research_level": "deep",
@@ -52716,7 +52572,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": "./assets/pedals/stomp-under-foot/the-shag-mkii/primary.webp",
+      "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Stomp Under Foot/The Shag MkII.md",
       "research_level": "deep",
@@ -53023,7 +52879,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": "./assets/pedals/subdecay/blackstar-ultimate-overdrive/primary.webp",
+      "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Subdecay/Blackstar – Ultimate Overdrive.md",
       "research_level": "deep",
@@ -53345,7 +53201,7 @@
       "types": [
         "Distortion"
       ],
-      "image": "./assets/pedals/tc-electronic/fangs-metal-distortion/primary.webp",
+      "image": null,
       "source_page": null,
       "research_record": "./research/pedals/TC Electronic/Fangs Metal Distortion.md",
       "research_level": "deep",
@@ -53454,7 +53310,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": "./assets/pedals/tc-electronic/tube-pilot-overdrive/primary.webp",
+      "image": null,
       "source_page": null,
       "research_record": "./research/pedals/TC Electronic/Tube Pilot Overdrive.md",
       "research_level": "deep",
@@ -53632,7 +53488,7 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": "./assets/pedals/tech-21-nyc/richie-kotzen-signature-omg/primary.webp",
+      "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Tech 21 NYC/Richie Kotzen Signature OMG.md",
       "research_level": "deep",
@@ -54731,12 +54587,11 @@
       "types": [
         "Fuzz"
       ],
-      "image": "./assets/pedals/vemuram/myriad/primary.webp",
+      "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Vemuram/Myriad.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_url": "https://guitars.gbase.com/aza/user/site/1778876649-hdr-1d-site.jpg?maxwidth=1600",
       "image_source_page": "https://www.gbase.com/gear?q=vemuram%20myriad"
     },
     {
@@ -55258,7 +55113,7 @@
       "types": [
         "Distortion"
       ],
-      "image": "./assets/pedals/vfe-pedals/rup-mkii/primary.webp",
+      "image": null,
       "source_page": null,
       "research_record": "./research/pedals/VFE Pedals/RUP mkII.md",
       "research_level": "deep",
@@ -56708,7 +56563,7 @@
       "types": [
         "Distortion"
       ],
-      "image": "./assets/pedals/wampler-pedals/plextortion/primary.webp",
+      "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Wampler Pedals/Plextortion.md",
       "research_level": "deep",
@@ -56734,7 +56589,7 @@
       "types": [
         "Distortion"
       ],
-      "image": "./assets/pedals/wampler-pedals/slostortion/primary.webp",
+      "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Wampler Pedals/SLOstortion.md",
       "research_level": "deep",
@@ -56994,10 +56849,9 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": "./assets/pedals/way-huge/fat-sandwich/primary.webp",
+      "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Way Huge/Fat Sandwich.md",
-      "image_source_url": "https://i.ebayimg.com/images/g/sTwAAeSwUy9pdvEP/s-l100.jpg",
       "image_source_page": "https://www.effectsdatabase.com/model/wayhuge/dunlop/whe301",
       "research_level": "deep",
       "deep_research_status": "VERIFIED"
@@ -57316,7 +57170,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": "./assets/pedals/way-huge/stone-burner/primary.webp",
+      "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Way Huge/Stone Burner.md",
       "research_level": "deep",
@@ -57506,7 +57360,7 @@
         "Distortion",
         "Fuzz"
       ],
-      "image": "./assets/pedals/wren-and-cuff/eye-see-78/primary.webp",
+      "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Wren and Cuff/Eye See '78.md",
       "research_level": "deep",
@@ -57519,7 +57373,7 @@
         "Distortion",
         "Fuzz"
       ],
-      "image": "./assets/pedals/wren-and-cuff/eye-see-78-og/primary.webp",
+      "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Wren and Cuff/Eye See '78 OG.md",
       "research_level": "deep",
@@ -57726,7 +57580,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": "./assets/pedals/xotic-effects/ac-booster-v2-overdrive/primary.webp",
+      "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Xotic Effects/AC Booster V2 — Overdrive.md",
       "research_level": "deep",
@@ -57750,7 +57604,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": "./assets/pedals/xotic-effects/ah-booster-allen-hinds-overdrive/primary.webp",
+      "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Xotic Effects/AH Booster Allen Hinds — Overdrive.md",
       "research_level": "deep",
@@ -57798,7 +57652,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": "./assets/pedals/xotic-effects/bass-rc-booster-v2-bass-boost-drive-product/primary.webp",
+      "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Xotic Effects/Bass RC Booster V2 — bass boost/drive product.md",
       "research_level": "deep",
@@ -57872,7 +57726,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": "./assets/pedals/xotic-effects/sl-drive-distortion-overdrive/primary.webp",
+      "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Xotic Effects/SL Drive — Distortion / Overdrive.md",
       "research_level": "deep",
@@ -58183,7 +58037,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": "./assets/pedals/zvex-effects/mastotron/primary.webp",
+      "image": null,
       "source_page": null,
       "research_record": "./research/pedals/ZVEX Effects/Mastotron.md",
       "research_level": "deep",
