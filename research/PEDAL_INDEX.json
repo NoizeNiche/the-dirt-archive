@@ -4752,11 +4752,13 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/ashdown-engineering/abm-pro-fx-double-shot/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/ashdown",
       "research_record": "./research/pedals/Ashdown Engineering/ABM PRO-FX Double Shot.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://files.effectsdatabase.com/brands/thumbs/ashdown_000.jpg",
+      "image_source_page": "https://www.effectsdatabase.com/model/ashdown"
     },
     {
       "company": "Ashdown Engineering",
@@ -9480,11 +9482,13 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/behringer/od400-overdrive/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/behringer/compact/od400",
       "research_record": "./research/pedals/Behringer/OD400 Overdrive.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://files.effectsdatabase.com/gear/pics/behringer_od400_001.jpg",
+      "image_source_page": "https://www.effectsdatabase.com/model/behringer/compact/od400"
     },
     {
       "company": "Behringer",
@@ -9572,11 +9576,13 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/behringer/wd300-warp-distortion/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/behringer/compact/wd300",
       "research_record": "./research/pedals/Behringer/WD300 Warp Distortion.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://files.effectsdatabase.com/gear/thumbs/behringer_wd300_001.jpg",
+      "image_source_page": "https://www.effectsdatabase.com/model/behringer/compact/wd300"
     },
     {
       "company": "Behringer",
@@ -31163,11 +31169,13 @@
       "types": [
         "Distortion"
       ],
-      "image": "",
+      "image": "./assets/pedals/darkglass-electronics/alpha-omega-photon/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/darkglass/alphaomegaphoton",
       "research_record": "./research/pedals/Darkglass Electronics/Alpha-Omega Photon.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://files.effectsdatabase.com/gear/thumbs/darkglass_alphaomega_001.jpg",
+      "image_source_page": "https://www.effectsdatabase.com/model/darkglass/alphaomegaphoton"
     },
     {
       "company": "Darkglass Electronics",
@@ -31187,11 +31195,13 @@
       "types": [
         "Fuzz"
       ],
-      "image": "",
+      "image": "./assets/pedals/darkglass-electronics/dfz-duality-fuzz-pedal-v2/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/darkglass/duality/dfz",
       "research_record": "./research/pedals/Darkglass Electronics/DFZ Duality Fuzz Pedal v2.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://files.effectsdatabase.com/gear/pics/darkglass_duality_001.jpg",
+      "image_source_page": "https://www.effectsdatabase.com/model/darkglass/duality/dfz"
     },
     {
       "company": "Darkglass Electronics",

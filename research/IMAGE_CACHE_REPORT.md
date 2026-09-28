@@ -1,11 +1,11 @@
 # Pedal Image Cache Report
 
-- Cached in this run: **7**
+- Cached in this run: **5**
 - Staged browser photos converted: **0**
 - Local images retained/reorganized: **0**
 - Download failures: **1**
-- Remaining tracker photo backlog: **406**
-- Researched, photo pending: **406**
+- Remaining tracker photo backlog: **401**
+- Researched, photo pending: **401**
 - External source images awaiting localization: **0**
 
 ## Storage layout
@@ -16,13 +16,11 @@
 
 ## Newly cached
 
-- BJFE / BJF Electronics - Sun Burst Fuzz -> `./assets/pedals/bjfe-bjf-electronics/sun-burst-fuzz/primary.webp`
-- Carlsbro - Suzz Wah-Wah -> `./assets/pedals/carlsbro/suzz-wah-wah/primary.webp`
-- Darkglass Electronics - Microtubes B7K Analog Bass Preamp -> `./assets/pedals/darkglass-electronics/microtubes-b7k-analog-bass-preamp/primary.webp`
-- Darkglass Electronics - Microtubes X Ultra -> `./assets/pedals/darkglass-electronics/microtubes-x-ultra/primary.webp`
-- Devi Ever FX - BS -> `./assets/pedals/devi-ever-fx/bs/primary.webp`
-- Devi Ever FX - Bi-Fuzz -> `./assets/pedals/devi-ever-fx/bi-fuzz/primary.webp`
-- Devi Ever FX - Devine Hammer -> `./assets/pedals/devi-ever-fx/devine-hammer/primary.webp`
+- Ashdown Engineering - ABM PRO-FX Double Shot -> `./assets/pedals/ashdown-engineering/abm-pro-fx-double-shot/primary.webp`
+- Behringer - OD400 Overdrive -> `./assets/pedals/behringer/od400-overdrive/primary.webp`
+- Behringer - WD300 Warp Distortion -> `./assets/pedals/behringer/wd300-warp-distortion/primary.webp`
+- Darkglass Electronics - Alpha-Omega Photon -> `./assets/pedals/darkglass-electronics/alpha-omega-photon/primary.webp`
+- Darkglass Electronics - DFZ Duality Fuzz Pedal v2 -> `./assets/pedals/darkglass-electronics/dfz-duality-fuzz-pedal-v2/primary.webp`
 
 ## Still external / failed
 
