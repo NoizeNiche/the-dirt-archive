@@ -618,3 +618,17 @@ The canonical Builder Master Index now records the retired labels as observed al
 The canonical builder master uses **BIXONIC** for builder ID 014. The active catalog was carrying the same builder as **Bixonic**. Because the builder master already defines the canonical identity and there were no competing BIXONIC catalog records, this was normalized as a spelling-only builder identity correction.
 
 Five existing Bixonic pedal records were reassigned to **BIXONIC** without removing any pedal models: Axentrix A1, Axentrix II, EXP2000 Expandora, EXP2000DR Clean & Drive, and EXP2001 Expandora II. Their research files and photo/manifest identity keys were updated to match the canonical builder spelling.
+
+
+## Collector product-hardening checkpoint - September 28, 2026
+
+The archive's catalog and research lanes remain complete, with exact-photo recovery still the active production gate. A collector-oriented workbench has now been added without introducing accounts, ratings, rankings, or marketplace mechanics.
+
+### Changes
+- Added device-local Saved records for exact Builder + Pedal identities.
+- Added device-local exact-record comparison for up to four public records.
+- Added comparison fields for dirt type, version label, explicitly documented transistor/clipping/power facets, research level, local-photo state, version-family relationship, and representative demo when documented.
+- Preserved selection order during comparison rather than re-sorting to catalog order.
+- Added deployment and structural-validation coverage for the new comparison page.
+
+The workbench is a utility layer over the canonical archive, not a second source of truth. It intentionally avoids popularity scores, purchase recommendations, seller rankings, or market-value judgments.
