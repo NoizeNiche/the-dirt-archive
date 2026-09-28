@@ -1,23 +1,33 @@
 # KHDK Electronics — Unicorn Blood II — octave fuzz
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Unicorn Blood II — octave fuzz
 - **Builder:** KHDK Electronics
-- **Pedal:** Unicorn Blood II — octave fuzz
 - **Catalog type:** Fuzz
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Research level:** Deep
+- **Deep research status:** Verified
+- **Identity:** Exact-model sources identify KHDK Electronics's Unicorn Blood II — octave fuzz.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Unicorn Blood II — octave fuzz** by **KHDK Electronics** as a **Fuzz** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Unicorn Blood II is a KHDK Electronics limited-edition octave fuzz documented by KHDK and multiple independent listings. [1][2][3][4]
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Versions and factory options
+- No complete factory revision chronology was established in this pass.
+- No additional version or finish claims are inferred beyond the exact-model source set.
+
+## Transistor
+- **Exact production transistor/device:** Unknown.
+
+## Diode
+- **Exact clipping/rectifier diode:** Unknown.
+
+## Sound
+The verified sources establish the exact model and octave-fuzz role. No component details are inferred without exact supporting evidence. [1][2]
+
+## Sources checked
+1. KHDK Electronics — Unicorn Blood II: https://www.khdkelectronics.com/products/detail/unicorn-blood-ii/
+2. Reverb — KHDK Unicorn Blood II: https://reverb.com/p/khdk-electronics-unicorn-blood-ii-limited-edition-octave-fuzz-2020
+3. TalkBass — KHDK Unicorn Blood II: https://www.talkbass.com/threads/khdk-unicorn-blood-ii.1476454/
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately.
