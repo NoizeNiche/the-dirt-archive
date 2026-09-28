@@ -412,8 +412,10 @@ function searchMatchReason(x){
   const normalizedCompany=normalizeSearchText(x.company);
   const variation=(variationSearchText.get(entryKey(x))||'');
   const normalizedVariation=normalizeSearchText(variation);
-  const facetSearch=String(facetRecords.get(entryKey(x))?.search||'');
+  const facetRecord=facetRecords.get(entryKey(x))||{};
+  const facetSearch=String(facetRecord.search||'');
   const normalizedFacet=normalizeSearchText(facetSearch);
+  const aliases=Array.isArray(facetRecord.aliases)?facetRecord.aliases:[];
 
   if(company===needle||normalizedCompany===normalizedNeedle)return 'Exact builder match';
   if(pedal===needle||normalizedPedal===normalizedNeedle)return 'Exact pedal match';
@@ -422,6 +424,7 @@ function searchMatchReason(x){
   if(company.includes(needle)||normalizedCompany.includes(normalizedNeedle))return 'Builder contains search';
   if(pedal.includes(needle)||normalizedPedal.includes(normalizedNeedle))return 'Pedal contains search';
   if(variation.includes(needle)||normalizedVariation.includes(normalizedNeedle))return 'Version or colorway match';
+  if(aliases.some(alias=>normalizeSearchText(alias).includes(normalizedNeedle)))return 'Confirmed historical alias match';
   if(facetSearch.includes(needle)||normalizedFacet.includes(normalizedNeedle))return 'Documented technical match';
   return '';
 }
