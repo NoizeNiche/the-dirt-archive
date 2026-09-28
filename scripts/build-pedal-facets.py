@@ -186,7 +186,7 @@ def build() -> dict:
         )
 
         power_values: list[str] = []
-        for section_name in POWER_SECTION_NAMES:
+        for section_name in POWER_SECTION_NAMES + ("versions and factory options",):
             section = parsed.get(section_name, "")
             if section:
                 power_values.extend(section.splitlines())
