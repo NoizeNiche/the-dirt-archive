@@ -2723,11 +2723,13 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/ampeg/scrambler/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/ampeg",
       "research_record": "./research/pedals/Ampeg/Scrambler.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://files.effectsdatabase.com/brands/thumbs/ampeg_000.jpg",
+      "image_source_page": "https://www.effectsdatabase.com/model/ampeg"
     },
     {
       "company": "Ampeg",
@@ -8854,11 +8856,13 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/bbe/windowpane-silicon-fuzz/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/bbe/windowpane",
       "research_record": "./research/pedals/BBE/Windowpane - Silicon Fuzz.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://files.effectsdatabase.com/gear/pics/bbe_windowpane_001.jpg",
+      "image_source_page": "https://www.effectsdatabase.com/model/bbe/windowpane"
     },
     {
       "company": "BearFoot FX",
@@ -12037,11 +12041,13 @@
       "types": [
         "Fuzz"
       ],
-      "image": "",
+      "image": "./assets/pedals/bjfe-bjf-electronics/arctic-light-fuzz/primary.webp",
       "source_page": "https://www.bjornjuhl.com/forum/viewtopic.php-f%3D6%26t%3D1555.html",
       "research_record": "./research/pedals/BJFE / BJF Electronics/Arctic Light Fuzz.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "http://i270.photobucket.com/albums/jj112/DonnerBox/bjf1.jpg",
+      "image_source_page": "https://www.bjornjuhl.com/forum/viewtopic.php-f%3D6%26t%3D1555.html"
     },
     {
       "company": "BJFE / BJF Electronics",
@@ -12069,11 +12075,13 @@
       "types": [
         "Overdrive"
       ],
-      "image": "",
+      "image": "./assets/pedals/bjfe-bjf-electronics/baby-blue-overdrive-bbod/primary.webp",
       "source_page": "https://www.bjornjuhl.com/forum/viewtopic.php-f%3D6%26t%3D1555.html",
       "research_record": "./research/pedals/BJFE / BJF Electronics/Baby Blue Overdrive (BBOD).md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "http://i270.photobucket.com/albums/jj112/DonnerBox/bjf1.jpg",
+      "image_source_page": "https://www.bjornjuhl.com/forum/viewtopic.php-f%3D6%26t%3D1555.html"
     },
     {
       "company": "BJFE / BJF Electronics",
@@ -12427,11 +12435,13 @@
       "types": [
         "Fuzz"
       ],
-      "image": "",
+      "image": "./assets/pedals/bjfe-bjf-electronics/snow-white-fuzz/primary.webp",
       "source_page": "https://www.bjornjuhl.com/forum/viewtopic.php-f%3D6%26t%3D1555.html",
       "research_record": "./research/pedals/BJFE / BJF Electronics/Snow White Fuzz.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "http://i270.photobucket.com/albums/jj112/DonnerBox/bjf1.jpg",
+      "image_source_page": "https://www.bjornjuhl.com/forum/viewtopic.php-f%3D6%26t%3D1555.html"
     },
     {
       "company": "BJFE / BJF Electronics",
@@ -19875,11 +19885,13 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/captain-fx/war-pig/primary.webp",
       "source_page": "https://github.com/NoizeNiche/the-dirt-archive/blob/main/research/SCRAPE_C_BLOCK_165_ADDENDUM.csv",
       "research_record": "./research/pedals/Captain FX/War Pig.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://r.bing.com/rp/3sti29Lev-2zsaRcJkEL_QbLxuU.png",
+      "image_source_page": "https://github.com/NoizeNiche/the-dirt-archive/blob/main/research/SCRAPE_C_BLOCK_165_ADDENDUM.csv"
     },
     {
       "company": "Captain FX",
@@ -31091,11 +31103,13 @@
       "types": [
         "Distortion"
       ],
-      "image": "",
+      "image": "./assets/pedals/darkglass-electronics/adam-aggressively-distorting-advanced-machine/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/darkglass/adam",
       "research_record": "./research/pedals/Darkglass Electronics/ADAM Aggressively Distorting Advanced Machine.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://files.effectsdatabase.com/gear/pics/darkglass_adam_002.jpg",
+      "image_source_page": "https://www.effectsdatabase.com/model/darkglass/adam"
     },
     {
       "company": "Darkglass Electronics",
@@ -31167,11 +31181,13 @@
       "types": [
         "Fuzz"
       ],
-      "image": "",
+      "image": "./assets/pedals/darkglass-electronics/duality/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/darkglass/duality",
       "research_record": "./research/pedals/Darkglass Electronics/Duality.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://files.effectsdatabase.com/gear/pics/darkglass_duality_002.jpg",
+      "image_source_page": "https://www.effectsdatabase.com/model/darkglass/duality"
     },
     {
       "company": "Darkglass Electronics",
@@ -31227,11 +31243,13 @@
       "types": [
         "Overdrive"
       ],
-      "image": "",
+      "image": "./assets/pedals/darkglass-electronics/microtubes-b7k-ultra/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/darkglass/microtubes/b7kultra",
       "research_record": "./research/pedals/Darkglass Electronics/Microtubes B7K Ultra.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://cdn.shopify.com/s/files/1/0735/5065/9813/files/Darkglass-Microtubes-B7K-Product-Gal-1.png",
+      "image_source_page": "https://www.effectsdatabase.com/model/darkglass/microtubes/b7kultra"
     },
     {
       "company": "Darkglass Electronics",
@@ -31301,11 +31319,13 @@
       "types": [
         "Distortion"
       ],
-      "image": "",
+      "image": "./assets/pedals/darkglass-electronics/microtubes-x7/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/darkglass/microtubes/x7",
       "research_record": "./research/pedals/Darkglass Electronics/Microtubes X7.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://files.effectsdatabase.com/gear/pics/darkglass_microtubes-x7_001.jpg",
+      "image_source_page": "https://www.effectsdatabase.com/model/darkglass/microtubes/x7"
     },
     {
       "company": "Darkglass Electronics",
@@ -31328,11 +31348,13 @@
         "Overdrive",
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/dawner-prince-electronics/diktator/primary.webp",
       "source_page": "https://dawnerprince.com/products/diktator",
       "research_record": "./research/pedals/Dawner Prince Electronics/DIKTATOR.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://dawnerprince.com/cdn/shop/products/diktator-top.jpg?v=1593783827&width=200",
+      "image_source_page": "https://dawnerprince.com/products/diktator"
     },
     {
       "company": "Dawner Prince Electronics",
@@ -31341,11 +31363,13 @@
         "Overdrive",
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/dawner-prince-electronics/diktator-mkii/primary.webp",
       "source_page": "https://dawnerprince.com/products/diktator",
       "research_record": "./research/pedals/Dawner Prince Electronics/DIKTATOR MKII.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://dawnerprince.com/cdn/shop/products/diktator-3-4.jpg?v=1594920164&width=2400",
+      "image_source_page": "https://dawnerprince.com/products/diktator"
     },
     {
       "company": "Dawner Prince Electronics",
