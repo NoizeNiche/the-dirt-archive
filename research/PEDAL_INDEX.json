@@ -6702,12 +6702,13 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/b85-audio/red-lama/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/b85",
       "research_record": "./research/pedals/B85 Audio/Red Lama.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://www.effectsdatabase.com/model/b85/redlama"
+      "image_source_page": "https://www.b85audio.cz/",
+      "image_source_url": "https://cdn.myshoptet.com/usr/www.b85audio.cz/user/shop/detail/132-1_chatgpt-image-22--3--2026-17-31-17.png?ff=1&x=423&y=318&q=85&ts=69c019a7&sg=2175fb9d"
     },
     {
       "company": "Backbeat Electric",
@@ -22356,17 +22357,17 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/cbs-arbiter/cbs-arbiter-fuzz-phazer/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/CBS-Arbiter/CBS-Arbiter Fuzz Phazer.md",
-      "image_source_page": "https://www.freestompboxes.org/viewtopic.php?t=3214",
+      "image_source_page": "https://www.effectsdatabase.com/model/arbiter/cbs/fuzzphazer",
       "image_source_page_verified": true,
       "image_source_pages_verified": true,
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/arbiter/cbs/fuzzphazer"
       ],
       "image_source_priority": 100000,
-      "image_source_url": "https://files.effectsdatabase.com/gear/pics/arbiter-cbs_fuzzphazer_001.jpg",
+      "image_source_url": "https://files.effectsdatabase.com/gear/pics/cbs-arbiter_fuzzphazer_001.jpg",
       "image_source_urls": [
         "https://files.effectsdatabase.com/gear/pics/arbiter-cbs_fuzzphazer_001.jpg",
         "https://files.effectsdatabase.com/gear/thumbs/arbiter-cbs_fuzzphazer_001.jpg",
@@ -26707,12 +26708,13 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/compulsive-audio/face-off-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Compulsive Audio/Face-Off Fuzz.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/compulsive/fuzz/faceoff",
+      "image_source_page": "https://www.effectsdatabase.com/blog/discofreq?page=104",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://files.effectsdatabase.com/graphics/google-preferred-source-sq.png"
     },
     {
       "company": "Compulsive Audio",
@@ -43383,12 +43385,13 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/mad-professor-amplification/fire-red-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mad Professor Amplification/Fire Red Fuzz.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://www.effectsdatabase.com/model/madprofessor/fireredfuzz"
+      "image_source_page": "https://reverb.com/p/mad-professor-fire-red-fuzz",
+      "image_source_url": "https://static.reverb-assets.com/production-assets/webpack/images/mobile-header-background-69216940b596520c.png"
     },
     {
       "company": "Mad Professor Amplification",
@@ -43412,7 +43415,8 @@
       "source_page": "https://mpamp.com/product/102/little-green-wonder-handwired",
       "research_record": "./research/pedals/Mad Professor Amplification/Little Green Wonder.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_page": "https://mpamp.com/product/102/little-green-wonder-handwired"
     },
     {
       "company": "Mad Professor Amplification",
@@ -43484,12 +43488,13 @@
       "types": [
         "Overdrive"
       ],
-      "image": "",
+      "image": "./assets/pedals/mad-professor-amplification/royal-blue-overdrive-custom/primary.webp",
       "source_page": "https://mpamp.com/category/8/shop",
       "research_record": "./research/pedals/Mad Professor Amplification/Royal Blue Overdrive Custom.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://kc-music.jp/mad-professor/royal-blue-overdrive-custom.html"
+      "image_source_page": "https://kc-music.jp/mad-professor/royal-blue-overdrive-custom.html",
+      "image_source_url": "https://kc-music.jp/mad-professor/img/rbo_custom.png"
     },
     {
       "company": "Mad Professor Amplification",
@@ -43535,12 +43540,13 @@
       "types": [
         "Overdrive"
       ],
-      "image": "",
+      "image": "./assets/pedals/mad-professor-amplification/super-black/primary.webp",
       "source_page": "https://mpamp.com/category/8/shop",
       "research_record": "./research/pedals/Mad Professor Amplification/Super Black.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://reverb.com/item/100487324-mad-professor-amplification-super-black-mini-preamp-overdrive-pedal-new-black"
+      "image_source_page": "https://reverb.com/item/100487324-mad-professor-amplification-super-black-mini-preamp-overdrive-pedal-new-black",
+      "image_source_url": "https://rvb-img.reverb.com/i/s--ZyK211jB--/gravity=auto,quality=medium-low,width=200,height=200,format=jpeg/xem1m8que3omy9lxrwws.jpg"
     },
     {
       "company": "Mad Professor Amplification",
@@ -44923,11 +44929,13 @@
       "types": [
         "Distortion"
       ],
-      "image": "",
+      "image": "./assets/pedals/maxon-nisshin-onpa/d-s-distortion-sustainer/primary.webp",
       "source_page": "https://www.maxonfx.com/",
       "research_record": "./research/pedals/Maxon / Nisshin Onpa/D&S Distortion & Sustainer.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://maxonfx.com/cdn/shop/products/Maxon-Reissue-DandS-300px.png?v=1543863020",
+      "image_source_page": "https://maxonfx.com/products/reissue-series-effects-pedals-d-s-distortion-sustainer"
     },
     {
       "company": "Maxon / Nisshin Onpa",
@@ -44939,7 +44947,8 @@
       "source_page": "https://www.maxonfx.com/",
       "research_record": "./research/pedals/Maxon / Nisshin Onpa/D&S II Distortion & Sustainer.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_page": "https://maxonfx.com/products/reissue-series-effects-pedals-d-s-ii-2-distortion-sustainer"
     },
     {
       "company": "Maxon / Nisshin Onpa",
@@ -44951,7 +44960,8 @@
       "source_page": "https://www.maxonfx.com/",
       "research_record": "./research/pedals/Maxon / Nisshin Onpa/DS830 Distortion Master.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_page": "https://maxonfx.com/"
     },
     {
       "company": "Maxon / Nisshin Onpa",
@@ -44963,7 +44973,8 @@
       "source_page": "https://www.maxonfx.com/",
       "research_record": "./research/pedals/Maxon / Nisshin Onpa/Fuzz Elements Air.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_page": "https://maxonfx.com/"
     },
     {
       "company": "Maxon / Nisshin Onpa",
@@ -44975,7 +44986,8 @@
       "source_page": "https://www.maxonfx.com/",
       "research_record": "./research/pedals/Maxon / Nisshin Onpa/Fuzz Elements Earth.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_page": "https://maxonfx.com/"
     },
     {
       "company": "Maxon / Nisshin Onpa",
@@ -44987,7 +44999,8 @@
       "source_page": "https://www.maxonfx.com/",
       "research_record": "./research/pedals/Maxon / Nisshin Onpa/Fuzz Elements Ether.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_page": "https://maxonfx.com/"
     },
     {
       "company": "Maxon / Nisshin Onpa",
@@ -44999,7 +45012,8 @@
       "source_page": "https://www.maxonfx.com/",
       "research_record": "./research/pedals/Maxon / Nisshin Onpa/Fuzz Elements Fire.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_page": "https://maxonfx.com/"
     },
     {
       "company": "Maxon / Nisshin Onpa",
@@ -45011,7 +45025,8 @@
       "source_page": "https://www.maxonfx.com/",
       "research_record": "./research/pedals/Maxon / Nisshin Onpa/Fuzz Elements Void.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_page": "https://maxonfx.com/"
     },
     {
       "company": "Maxon / Nisshin Onpa",
@@ -45023,7 +45038,8 @@
       "source_page": "https://www.maxonfx.com/",
       "research_record": "./research/pedals/Maxon / Nisshin Onpa/Fuzz Elements Water.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_page": "https://maxonfx.com/"
     },
     {
       "company": "Maxon / Nisshin Onpa",
@@ -45035,7 +45051,8 @@
       "source_page": "https://www.maxonfx.com/",
       "research_record": "./research/pedals/Maxon / Nisshin Onpa/Fuzz Elements Wind.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_page": "https://maxonfx.com/"
     },
     {
       "company": "Maxon / Nisshin Onpa",
@@ -45073,7 +45090,8 @@
       "source_page": "https://www.maxonfx.com/",
       "research_record": "./research/pedals/Maxon / Nisshin Onpa/OD808.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_page": "https://maxonfx.com/"
     },
     {
       "company": "Maxon / Nisshin Onpa",

@@ -1,11 +1,11 @@
 # Pedal Image Cache Report
 
-- Cached in this run: **3**
+- Cached in this run: **7**
 - Staged browser photos converted: **0**
 - Local images retained/reorganized: **0**
-- Download failures: **1**
-- Remaining tracker photo backlog: **208**
-- Researched, photo pending: **208**
+- Download failures: **0**
+- Remaining tracker photo backlog: **201**
+- Researched, photo pending: **201**
 - External source images awaiting localization: **0**
 
 ## Storage layout
@@ -16,12 +16,12 @@
 
 ## Newly cached
 
-- Devi Ever FX - DF Disaster Fuzz -> `./assets/pedals/devi-ever-fx/df-disaster-fuzz/primary.webp`
-- Devi Ever FX - DN Destructo Noctavia -> `./assets/pedals/devi-ever-fx/dn-destructo-noctavia/primary.webp`
-- Devi Ever FX - Disaster Fuzz -> `./assets/pedals/devi-ever-fx/disaster-fuzz/primary.webp`
+- B85 Audio - Red Lama -> `./assets/pedals/b85-audio/red-lama/primary.webp`
+- CBS-Arbiter - CBS-Arbiter Fuzz Phazer -> `./assets/pedals/cbs-arbiter/cbs-arbiter-fuzz-phazer/primary.webp`
+- Compulsive Audio - Face-Off Fuzz -> `./assets/pedals/compulsive-audio/face-off-fuzz/primary.webp`
+- Mad Professor Amplification - Fire Red Fuzz -> `./assets/pedals/mad-professor-amplification/fire-red-fuzz/primary.webp`
+- Mad Professor Amplification - Royal Blue Overdrive Custom -> `./assets/pedals/mad-professor-amplification/royal-blue-overdrive-custom/primary.webp`
+- Mad Professor Amplification - Super Black -> `./assets/pedals/mad-professor-amplification/super-black/primary.webp`
+- Maxon / Nisshin Onpa - D&S Distortion & Sustainer -> `./assets/pedals/maxon-nisshin-onpa/d-s-distortion-sustainer/primary.webp`
 
-## Still external / failed
-
-- CBS-Arbiter - CBS-Arbiter Fuzz Phazer: https://files.effectsdatabase.com/gear/pics/arbiter-cbs_fuzzphazer_001.jpg: curl: (22) The requested URL returned error: 404 | https://files.effectsdatabase.com/gear/thumbs/arbiter-cbs_fuzzphazer_001.jpg: curl: (22) The requested URL returned error: 404 | https://files.effectsdatabase.com/gear/pics/arbiter-cbs_fuzzphazer_01.jpg: curl: (22) The requested URL returned error: 404 | https://files.effectsdatabase.com/gear/thumbs/arbiter-cbs_fuzzphazer_01.jpg: curl: (22) The requested URL returned error: 404 (`https://files.effectsdatabase.com/gear/pics/arbiter-cbs_fuzzphazer_001.jpg`)
-
-These records remain externally referenced until a later cache run succeeds.
+All pictured pedal images are locally cached.
