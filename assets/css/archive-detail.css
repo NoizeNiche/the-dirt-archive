@@ -216,3 +216,14 @@ a:focus-visible,.pageHome:focus-visible,.action:focus-visible,.pageTypeLink:focu
 .action.compareActive{background:var(--accent);border-color:var(--accent);color:#111}
 .action:disabled{opacity:.45;cursor:default}
 .action:focus-visible{outline:2px solid var(--accent);outline-offset:3px}
+
+.familyParent,.familySibling{display:block;color:inherit;text-decoration:none}
+.familyParent{padding:10px 11px;border:1px solid var(--line);border-radius:10px;background:#f3f1eb}
+.familyParent:hover,.familySibling:hover{border-color:#99948a}
+.familyParent strong{display:block;margin-top:4px;font-size:.78rem;line-height:1.1}
+.familyParent span:not(.familyRole){display:block;margin-top:3px;color:var(--muted);font-size:.58rem;font-weight:800}
+.familyParent.current{background:#ebe8e0}
+.familyRole{display:block;color:var(--muted);font-size:.5rem;font-weight:950;letter-spacing:.08em;text-transform:uppercase}
+.familySiblings{display:flex;gap:6px;align-items:center;flex-wrap:wrap;margin-top:7px}
+.familySiblings .familyRole{flex:0 0 100%;margin-bottom:1px}
+.familySibling{padding:7px 9px;border:1px solid var(--line);border-radius:8px;background:#fff;color:var(--ink);font-size:.55rem;font-weight:900}
