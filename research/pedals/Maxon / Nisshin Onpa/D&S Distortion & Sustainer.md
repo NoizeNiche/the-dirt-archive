@@ -4,33 +4,35 @@
 - **Archive parent:** D&S Distortion & Sustainer
 - **Builder:** Maxon / Nisshin Onpa
 - **Catalog type:** Distortion
+- **Research level:** Deep
+- **Deep research status:** Verified
 - **Identity:** Maxon / Nisshin Onpa's D&S Distortion & Sustainer.
 
-## What this pedal is
-Maxon / Nisshin Onpa's D&S Distortion & Sustainer is cataloged as a distortion pedal.
+## Deep research verification
+- **Exact-model evidence:** Verified against the Maxon/Godlyke catalog entry retained in the research inbox.
 
-## Colorways
-- No specific factory colorway information was established in the verified evidence packet.
+## What this pedal is
+The verified manufacturer-hosted catalog entry identifies **D&S Distortion & Sustainer** as a Maxon / Nisshin Onpa distortion model. [1]
+The retained packet does not expose enough model-specific technical text to support a fuller component-level description, so the archive keeps those fields explicitly unresolved.
 
 ## Versions and factory options
-- No distinct factory revision was established in the verified evidence packet.
+- No distinct factory revision was established in the retained verified packet.
 
-## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+## Controls
+- **Exact control list:** Unresolved from the retained manufacturer excerpt.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
-- **Exact transistor/device:** Unknown.
+- **Exact production transistor/device:** Unknown.
 
 ## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
-- **Exact part:** Unknown.
+- **Exact production clipping diode:** Unknown.
 
 ## Sound
-The Dirt Archive currently catalogs **D&S Distortion & Sustainer** by **Maxon / Nisshin Onpa** as a **Distortion** pedal.
+The retained manufacturer catalog verifies the model identity and distortion classification. No additional sonic claims are promoted without model-specific source text. [1]
 
 ## Sources checked
-1. Maxon Guitar Effects Pedals : Buy Online : Reviews : Official Website &ndash; Godlyke, Inc.: https://maxonfx.com/
+1. **Maxon / Nisshin Onpa — official catalog:** https://maxonfx.com/
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately.
+- Exact-model photo provenance remains governed by the archive's photo identity gate.
