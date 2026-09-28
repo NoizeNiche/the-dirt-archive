@@ -73,6 +73,15 @@ function renderResults(){
   const rows=filteredIdentify(), meta=$('resultMeta'), grid=$('resultGrid');
   $('resultTitle').textContent=rows.length===identifyItems.length?'All archived dirt pedals':rows.length===1?'1 possible match':rows.length.toLocaleString()+' possible matches';
   meta.textContent=(rows.length||0).toLocaleString()+' matching record'+(rows.length===1?'':'s');
+  const why=[];
+  if(selectedIdentifyType!=='All')why.push(selectedIdentifyType);
+  if(selectedIdentifyBuilder)why.push(selectedIdentifyBuilder);
+  for(const value of selectedIdentifyTransistors)why.push(value+' transistor');
+  for(const value of selectedIdentifyClippings)why.push(value+' clipping');
+  for(const value of selectedIdentifyPowers)why.push(value+' power');
+  if(identifyPhotoOnly)why.push('exact archived photo');
+  if(identifyQuery)why.push('marking/text: '+identifyQuery);
+  $('identifyWhy').textContent=why.length?'Showing only records that match: '+why.join(' · '):'Add clues above to narrow the archive.';
   const u=new URL('./index.html',location.href);
   if(selectedIdentifyType!=='All')u.searchParams.set('type',selectedIdentifyType);
   if(selectedIdentifyBuilder)u.searchParams.set('builder',selectedIdentifyBuilder);
@@ -90,7 +99,8 @@ function renderResults(){
     if(facet.transistor?.length)bits.push(facet.transistor.join('/'));
     if(facet.clipping?.length)bits.push(facet.clipping.join('/'));
     const image=isLocalArchiveImage(item)?'<img src="'+esc(item.image)+'" alt="'+esc(item.company+' '+item.pedal)+' pedal" loading="lazy" decoding="async" referrerpolicy="no-referrer">':'<span class="identifyNoPhoto">Exact photo not archived</span>';
-    return '<a class="identifyResult" href="'+esc(makeIdentifyUrl(item))+'"><span class="identifyResultMedia">'+image+'</span><span class="identifyResultBody"><span class="identifyResultName">'+esc(item.pedal)+'</span><span class="identifyResultBuilder">'+esc(item.company)+'</span><span class="identifyResultBits">'+esc(bits.join(' · '))+'</span></span></a>';
+    const photoState=isLocalArchiveImage(item)?'Exact photo archived':'Exact photo pending';
+    return '<a class="identifyResult" href="'+esc(makeIdentifyUrl(item))+'"><span class="identifyResultMedia">'+image+'</span><span class="identifyResultBody"><span class="identifyResultName">'+esc(item.pedal)+'</span><span class="identifyResultBuilder">'+esc(item.company)+'</span><span class="identifyResultPhoto '+(isLocalArchiveImage(item)?'hasPhoto':'needsPhoto')+'">'+photoState+'</span><span class="identifyResultBits">'+esc(bits.join(' · '))+'</span></span></a>';
   }).join('')||'<div class="empty"><strong>No exact archive matches</strong><p>Remove one clue or try a different documented term. The archive does not infer missing facts.</p></div>';
   if(rows.length>48)grid.insertAdjacentHTML('beforeend','<div class="identifyMore">Showing the first 48 matches. Open results in the archive for the full filtered set.</div>');
 }
