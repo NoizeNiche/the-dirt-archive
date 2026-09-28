@@ -32035,11 +32035,13 @@
       "types": [
         "Fuzz"
       ],
-      "image": "",
+      "image": "./assets/pedals/devi-ever-fx/05-25-punch-love/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/deviever",
       "research_record": "./research/pedals/Devi Ever FX/05/25 Punch Love.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://files.effectsdatabase.com/brands/pics/deviever_001.jpg",
+      "image_source_page": "https://www.effectsdatabase.com/model/deviever"
     },
     {
       "company": "Devi Ever FX",
@@ -32502,11 +32504,13 @@
       "types": [
         "Overdrive"
       ],
-      "image": "",
+      "image": "./assets/pedals/devi-ever-fx/kp-karaoke-party/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/deviever",
       "research_record": "./research/pedals/Devi Ever FX/KP Karaoke Party.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://files.effectsdatabase.com/brands/pics/deviever_001.jpg",
+      "image_source_page": "https://www.effectsdatabase.com/model/deviever"
     },
     {
       "company": "Devi Ever FX",
@@ -32891,11 +32895,13 @@
       "types": [
         "Fuzz"
       ],
-      "image": "",
+      "image": "./assets/pedals/devi-ever-fx/truly-beautiful-legend-of-fuzz/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/deviever",
       "research_record": "./research/pedals/Devi Ever FX/Truly Beautiful Legend Of Fuzz.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://files.effectsdatabase.com/brands/pics/deviever_001.jpg",
+      "image_source_page": "https://www.effectsdatabase.com/model/deviever"
     },
     {
       "company": "Devi Ever FX",
@@ -35120,11 +35126,13 @@
       "types": [
         "Fuzz"
       ],
-      "image": "",
+      "image": "./assets/pedals/effectrode/helios/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/effectrode/helios",
       "research_record": "./research/pedals/Effectrode/Helios.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://files.effectsdatabase.com/gear/pics/effectrode_helios-preview_002.jpg",
+      "image_source_page": "https://www.effectsdatabase.com/model/effectrode/helios"
     },
     {
       "company": "Effectrode",
