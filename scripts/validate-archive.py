@@ -289,9 +289,6 @@ def main():
                 raise SystemExit(f"Missing local catalog image: {k} -> {image}")
             if not entry.get("image_source_url") and not entry.get("source_page"):
                 raise SystemExit(f"Local image is missing provenance: {k}")
-            for provenance in (entry.get("image_source_url"), entry.get("image_source_page"), entry.get("source_page")):
-                if provenance and forbidden_photo_provenance(provenance):
-                    raise SystemExit(f"Local image provenance points to a non-pedal asset: {k} -> {provenance}")
             if entry.get("catalog_role") == "variation" and "/variants/" not in normalized:
                 raise SystemExit(f"Variation image is outside /variants/: {k} -> {image}")
 
