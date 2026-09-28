@@ -19942,12 +19942,14 @@
   {
     "builder": "Jackson Audio",
     "pedal": "Goat Head",
+    "image": null,
     "source_page": null,
     "research_record": "./research/pedals/Jackson Audio/Goat Head.md"
   },
   {
     "builder": "Jackson Audio",
     "pedal": "Golden Boy Mini Overdrive",
+    "image": null,
     "source_page": null,
     "research_record": "./research/pedals/Jackson Audio/Golden Boy Mini Overdrive.md"
   },
@@ -26499,12 +26501,14 @@
   {
     "builder": "SolidGoldFX",
     "pedal": "If 6 Was 9 BC183 MKII",
+    "image": null,
     "source_page": null,
     "research_record": "./research/pedals/SolidGoldFX/If 6 Was 9 BC183 MKII.md"
   },
   {
     "builder": "SolidGoldFX",
     "pedal": "Imperial MKII",
+    "image": null,
     "source_page": null,
     "research_record": "./research/pedals/SolidGoldFX/Imperial MKII.md"
   },
