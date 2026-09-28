@@ -1,7 +1,7 @@
 const builderParams=new URLSearchParams(location.search);
 const requestedBuilder=builderParams.get('builder')||'';
 const PAGE_SIZE_BUILDER=48;
-let builderAll=[],builderItems=[],builderType='All',builderQuery='',builderPage=Math.max(1,parseInt(builderParams.get('page')||'1',10)||1);
+let builderAll=[],builderItems=[],builderType='All',builderPhoto='all',builderQuery='',builderPage=Math.max(1,parseInt(builderParams.get('page')||'1',10)||1);
 
 function builderDetail(item){
   return detailUrl(item,null,item.types?.[0]||'');
@@ -44,6 +44,8 @@ function filteredBuilderItems(){
   return builderItems.filter(item=>{
     const typeOk=builderType==='All'||(item.types||[]).includes(builderType);
     if(!typeOk)return false;
+    const photoOk=builderPhoto==='all'||(builderPhoto==='archived'&&isLocalArchiveImage(item))||(builderPhoto==='needed'&&!isLocalArchiveImage(item));
+    if(!photoOk)return false;
     if(!needle)return true;
     const text=normalizeSearchText([item.pedal,item.version_label,...(item.types||[])].join(' '));
     return text.includes(needle);
@@ -70,10 +72,30 @@ function renderBuilderTypes(items){
   });
 }
 
+function renderBuilderPhotos(items){
+  const counts={
+    all:items.length,
+    archived:items.filter(isLocalArchiveImage).length,
+    needed:items.filter(item=>!isLocalArchiveImage(item)).length
+  };
+  const options=[['all','All photos'],['archived','Photo archived'],['needed','Photo needed']];
+  $('builderPhotoToggle').innerHTML=options.map(([value,label])=>
+    '<button class="builderPhotoButton '+(builderPhoto===value?'active':'')+'" type="button" data-builder-photo="'+value+'" aria-pressed="'+(builderPhoto===value?'true':'false')+'">'+
+      esc(label)+'<span>'+counts[value].toLocaleString()+'</span></button>'
+  ).join('');
+  document.querySelectorAll('[data-builder-photo]').forEach(btn=>btn.onclick=()=>{
+    builderPhoto=btn.dataset.builderPhoto;
+    builderPage=1;
+    syncBuilderUrl();
+    renderBuilder();
+  });
+}
+
 function syncBuilderUrl(){
   const url=new URL(location.href);
   if(builderQuery)url.searchParams.set('q',builderQuery);else url.searchParams.delete('q');
   if(builderType!=='All')url.searchParams.set('type',builderType);else url.searchParams.delete('type');
+  if(builderPhoto!=='all')url.searchParams.set('photo',builderPhoto);else url.searchParams.delete('photo');
   if(builderPage>1)url.searchParams.set('page',String(builderPage));else url.searchParams.delete('page');
   history.replaceState({},'',url.href);
 }
@@ -86,6 +108,7 @@ function renderBuilder(){
   const pageItems=visible.slice(start,start+PAGE_SIZE_BUILDER);
 
   renderBuilderTypes(builderItems);
+  renderBuilderPhotos(builderItems);
   $('builderMeta').textContent=visible.length
     ? 'Showing '+(start+1).toLocaleString()+'–'+Math.min(start+PAGE_SIZE_BUILDER,visible.length).toLocaleString()+' of '+visible.length.toLocaleString()+' records'
     : '0 records match this builder view';
@@ -183,6 +206,7 @@ Promise.all([loadCatalog()]).then(([data])=>{
   const initialType=builderParams.get('type')||'All';
   builderType=['All','Overdrive','Distortion','Fuzz'].includes(initialType)?initialType:'All';
   builderQuery=builderParams.get('q')||'';
+  builderPhoto=['all','archived','needed'].includes(builderParams.get('photo')||'')?(builderParams.get('photo')||'all'):'all';
   $('builderSearch').value=builderQuery;
   renderBuilderHeader();
   renderBuilderStats();
