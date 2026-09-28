@@ -11,6 +11,7 @@ on:
       - 'index.html'
       - 'pedal.html'
       - 'pedal-detail.html'
+      - 'compare.html'
       - 'methodology.html'
       - 'audit.html'
       - '404.html'
