@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-28T04:24:18.061026+00:00",
+  "generated_at": "2026-09-28T04:25:32.584311+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,8 +10,8 @@
     "pictured": 3639,
     "complete": 3639,
     "research_pending": 0,
-    "deep_research_pending": 201,
-    "deep_researched": 4005,
+    "deep_research_pending": 200,
+    "deep_researched": 4006,
     "surface_ready": 4206
   },
   "next_target": {
@@ -27,13 +27,6 @@
       "pedal": "Fjord-Fuzz Super-Fuzz",
       "catalog_type": "",
       "research_record": "./research/pedals/Fjord Fuzz/Fjord-Fuzz Super-Fuzz.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Fjord Fuzz",
-      "pedal": "Mjølner",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Fjord Fuzz/Mjølner.md",
       "research_level": "surface"
     },
     {
@@ -195,6 +188,13 @@
       "pedal": "Unicorn Blood II — octave fuzz",
       "catalog_type": "",
       "research_record": "./research/pedals/KHDK Electronics/Unicorn Blood II — octave fuzz.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "KMA Machines",
+      "pedal": "Queequeq 2",
+      "catalog_type": "",
+      "research_record": "./research/pedals/KMA Machines/Queequeq 2.md",
       "research_level": "surface"
     }
   ]
