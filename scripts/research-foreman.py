@@ -5,6 +5,7 @@ This layer never guesses undocumented pedal facts and never publishes weak
 machine-written prose as canonical research. It creates a verified evidence
 inbox for the main research pass.
 """
+import csv
 import json
 import re
 import sys
