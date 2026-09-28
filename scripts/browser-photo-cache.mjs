@@ -4471,6 +4471,11 @@ function imageBytesLookComplete(bytes, contentType = '') {
 
     const out = target(entry);
     const sourceOut = out.replace(/\.webp$/i, '.source');
+    // Persist the canonical image path on the catalog entry immediately. The
+    // recovery artifact packagers use the catalog image field to locate the
+    // generated .source file; without this assignment successful browser
+    // recoveries are found but never make it into the publication artifact.
+    entry.image = relativeAssetPath(out);
     fs.mkdirSync(path.dirname(out), { recursive: true });
     fs.writeFileSync(sourceOut, selectedBytes);
 
