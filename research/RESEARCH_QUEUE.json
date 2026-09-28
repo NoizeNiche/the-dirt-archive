@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-28T11:18:34.235083+00:00",
+  "generated_at": "2026-09-28T11:20:17.652338+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,8 +10,8 @@
     "pictured": 3930,
     "complete": 3930,
     "research_pending": 0,
-    "deep_research_pending": 36,
-    "deep_researched": 4170,
+    "deep_research_pending": 31,
+    "deep_researched": 4175,
     "surface_ready": 4206
   },
   "next_target": {
@@ -37,13 +37,6 @@
       "research_level": "surface"
     },
     {
-      "builder": "Retro Mechanical Labs",
-      "pedal": "432k Rev 2.1 Distortion",
-      "catalog_type": "Distortion",
-      "research_record": "./research/pedals/Retro Mechanical Labs/432k Rev 2.1 Distortion.md",
-      "research_level": "surface"
-    },
-    {
       "builder": "Reuss Musical Instruments",
       "pedal": "Backslide Overdrive",
       "catalog_type": "Overdrive",
@@ -65,20 +58,6 @@
       "research_level": "surface"
     },
     {
-      "builder": "ReevesElectro",
-      "pedal": "Leo Twelve",
-      "catalog_type": "Overdrive",
-      "research_record": "./research/pedals/ReevesElectro/Leo Twelve.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "ReevesElectro",
-      "pedal": "ZO Zonk Machine MK2",
-      "catalog_type": "Fuzz",
-      "research_record": "./research/pedals/ReevesElectro/ZO Zonk Machine MK2.md",
-      "research_level": "surface"
-    },
-    {
       "builder": "SBGO Effects",
       "pedal": "Creamy Fuzz",
       "catalog_type": "Fuzz",
@@ -86,17 +65,24 @@
       "research_level": "surface"
     },
     {
-      "builder": "Sitek Guitar Electronics",
-      "pedal": "Wuffy Fuzzy Distortion",
-      "catalog_type": "Distortion / Fuzz",
-      "research_record": "./research/pedals/Sitek Guitar Electronics/Wuffy Fuzzy Distortion.md",
+      "builder": "TONECAT",
+      "pedal": "Brutus",
+      "catalog_type": "Overdrive",
+      "research_record": "./research/pedals/TONECAT/Brutus.md",
       "research_level": "surface"
     },
     {
-      "builder": "RYRA",
-      "pedal": "The Klone V2",
-      "catalog_type": "Overdrive",
-      "research_record": "./research/pedals/RYRA/The Klone V2.md",
+      "builder": "Vemuram",
+      "pedal": "Myriad w/loop Fuzz Pedal",
+      "catalog_type": "Fuzz",
+      "research_record": "./research/pedals/Vemuram/Myriad w/loop Fuzz Pedal.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Vemuram",
+      "pedal": "Myriad w/loop Fuzz Pedal — fuzz / loop-mix identity",
+      "catalog_type": "Fuzz",
+      "research_record": "./research/pedals/Vemuram/Myriad w/loop Fuzz Pedal — fuzz / loop-mix identity.md",
       "research_level": "surface"
     },
     {
@@ -142,27 +128,6 @@
       "research_level": "surface"
     },
     {
-      "builder": "TONECAT",
-      "pedal": "Brutus",
-      "catalog_type": "Overdrive",
-      "research_record": "./research/pedals/TONECAT/Brutus.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Vemuram",
-      "pedal": "Myriad w/loop Fuzz Pedal",
-      "catalog_type": "Fuzz",
-      "research_record": "./research/pedals/Vemuram/Myriad w/loop Fuzz Pedal.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Vemuram",
-      "pedal": "Myriad w/loop Fuzz Pedal — fuzz / loop-mix identity",
-      "catalog_type": "Fuzz",
-      "research_record": "./research/pedals/Vemuram/Myriad w/loop Fuzz Pedal — fuzz / loop-mix identity.md",
-      "research_level": "surface"
-    },
-    {
       "builder": "Vemuram",
       "pedal": "Myriad — fuzz / hybrid fuzz + loop identity",
       "catalog_type": "Fuzz",
@@ -195,6 +160,41 @@
       "pedal": "Jekyll & Hyde (original)",
       "catalog_type": "Distortion",
       "research_record": "./research/pedals/Visual Sound / Truetone/Jekyll & Hyde (original).md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Visual Sound / Truetone",
+      "pedal": "Open Road",
+      "catalog_type": "Overdrive",
+      "research_record": "./research/pedals/Visual Sound / Truetone/Open Road.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Visual Sound / Truetone",
+      "pedal": "Son of Hyde",
+      "catalog_type": "Distortion",
+      "research_record": "./research/pedals/Visual Sound / Truetone/Son of Hyde.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Visual Sound / Truetone",
+      "pedal": "V2 Jekyll & Hyde",
+      "catalog_type": "Distortion / Overdrive",
+      "research_record": "./research/pedals/Visual Sound / Truetone/V2 Jekyll & Hyde.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Visual Sound / Truetone",
+      "pedal": "V2 Son of Hyde",
+      "catalog_type": "Distortion",
+      "research_record": "./research/pedals/Visual Sound / Truetone/V2 Son of Hyde.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Visual Sound / Truetone",
+      "pedal": "VS-XO",
+      "catalog_type": "Overdrive",
+      "research_record": "./research/pedals/Visual Sound / Truetone/VS-XO.md",
       "research_level": "surface"
     }
   ]

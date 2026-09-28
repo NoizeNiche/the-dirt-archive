@@ -50239,8 +50239,8 @@
       "image": "./assets/pedals/reeveselectro/leo-twelve/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/ReevesElectro/Leo Twelve.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "ReevesElectro",
@@ -50251,8 +50251,8 @@
       "image": "./assets/pedals/reeveselectro/zo-zonk-machine-mk2/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/ReevesElectro/ZO Zonk Machine MK2.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Retro Mechanical Labs",
@@ -50263,8 +50263,8 @@
       "image": "./assets/pedals/retro-mechanical-labs/432k-rev-2-1-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Retro Mechanical Labs/432k Rev 2.1 Distortion.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Retro Mechanical Labs",
@@ -50467,8 +50467,8 @@
       "image": "./assets/pedals/ryra/the-klone-v2/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/RYRA/The Klone V2.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "SBGO Effects",
@@ -50736,8 +50736,8 @@
       "image": "./assets/pedals/sitek-guitar-electronics/wuffy-fuzzy-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Sitek Guitar Electronics/Wuffy Fuzzy Distortion.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Skreddy Pedals",
