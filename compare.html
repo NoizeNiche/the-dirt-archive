@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Expires" content="0">
+<title>Compare Pedals · The Dirt Archive</title>
+<meta name="description" content="Compare exact guitar dirt pedal records side by side in The Dirt Archive.">
+<link rel="canonical" href="./compare.html">
+<link rel="stylesheet" href="./assets/css/archive-compare.css">
+</head>
+<body>
+<a class="skipLink" href="#mainContent">Skip to content</a>
+<header class="siteHeaderDetail">
+  <div class="wrap">
+    <a class="back" href="./index.html">← Back to the archive</a>
+    <div class="crumb">Collector workspace</div>
+    <h1>Compare pedals</h1>
+    <p class="sub">Put exact records side by side without turning the archive into a ranking.</p>
+  </div>
+</header>
+<main id="mainContent" class="wrap">
+  <section class="panel">
+    <div class="compareHead">
+      <div>
+        <div class="label">Exact-record comparison</div>
+        <p id="compareMeta">Loading comparison…</p>
+      </div>
+      <button id="clearCompare" class="action" type="button">Clear comparison</button>
+    </div>
+    <div id="empty" class="empty" hidden>
+      <strong>Nothing selected yet</strong>
+      <p>Return to the archive and choose up to four exact pedal records with Compare.</p>
+      <a class="action primary" href="./index.html">Browse the archive</a>
+    </div>
+    <div class="tableWrap" id="comparisonWrap" hidden>
+      <table class="comparison" id="comparison">
+        <thead id="comparisonHead"></thead>
+        <tbody id="comparisonBody"></tbody>
+      </table>
+    </div>
+  </section>
+</main>
+<footer class="siteFooter"><div class="wrap"><span>The Dirt Archive · exact records, not rankings</span><span><a href="./index.html">Archive</a><a href="./methodology.html">Methodology</a></span></div></footer>
+<script src="./assets/js/archive-core.js" defer></script>
+<script src="./assets/js/archive-compare.js" defer></script>
+</body>
+</html>
