@@ -17,6 +17,7 @@ INDEX = Path("research/PEDAL_INDEX.json")
 TRACKER = Path("research/PRP_TRACKER.csv")
 INBOX = Path("research/RESEARCH_INBOX")
 RESEARCH_ROOT = Path("research/pedals")
+ALIAS_PATH = Path("research/PEDAL_IDENTITY_ALIASES.csv")
 
 SOUND_WORDS = re.compile(
     r"\b(sound|tone|gain|fuzz|drive|overdrive|distortion|response|texture|"
@@ -54,6 +55,16 @@ def slug(value):
 def identity_variants(value):
     raw = norm(value).lower()
     variants = {raw}
+    # Explicit archive aliases are data, not heuristics. CONFIRMED aliases may
+    # resolve directly; REVIEW aliases still require the ordinary source gates.
+    try:
+        for row in csv.DictReader(ALIAS_PATH.open(newline="", encoding="utf-8")):
+            if str(row.get("Canonical Pedal") or "").strip().lower() == raw and str(row.get("Status") or "").strip().upper() == "CONFIRMED":
+                variants.add(norm(row.get("Alias Pedal")).lower())
+            if str(row.get("Alias Pedal") or "").strip().lower() == raw and str(row.get("Status") or "").strip().upper() == "CONFIRMED":
+                variants.add(norm(row.get("Canonical Pedal")).lower())
+    except Exception:
+        pass
     core = re.split(r"\s+—\s+", raw, maxsplit=1)[0].strip()
     if core:
         variants.add(core)
