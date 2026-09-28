@@ -21,3 +21,11 @@ The Dirt Archive currently catalogs **OD-3 Overdrive** by **NUX Audio / NUX** as
 ## Deep research
 - **Status:** Pending
 - Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+
+## Deep research verification
+- Effects Database identifies **OD-3 Overdrive** as the exact NUX model.
+- The documented control set is Level, Tone, and Drive, with true-bypass switching and the published battery/adapter power arrangement.
+- The archive records these exact-model facts without assigning an unsupported circuit lineage.
+
+## Verification source set
+1. Effects Database — NUX OD-3 Overdrive: https://www.effectsdatabase.com/model/nux/2012/od3
