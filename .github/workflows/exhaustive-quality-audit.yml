@@ -1,6 +1,20 @@
 name: Exhaustive detail and photo quality audit
 
 on:
+  push:
+    branches: [main]
+    paths:
+      - 'pedal-detail.html'
+      - 'assets/css/archive-detail.css'
+      - 'assets/js/archive-detail.js'
+      - 'assets/js/archive-core.js'
+      - 'research/PEDAL_INDEX.json'
+      - 'assets/pedals/**'
+      - 'scripts/audit-detail-pages.js'
+      - 'scripts/audit-photo-content.py'
+      - 'scripts/browser-photo-cache.mjs'
+      - 'research/PHOTO_SOURCE_BLOCKLIST.json'
+      - '.github/workflows/exhaustive-quality-audit.yml'
   workflow_dispatch:
   schedule:
     - cron: '17 4 * * *'
