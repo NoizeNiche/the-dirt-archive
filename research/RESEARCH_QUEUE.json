@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-28T11:12:51.459428+00:00",
+  "generated_at": "2026-09-28T11:13:58.875470+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,8 +10,8 @@
     "pictured": 3930,
     "complete": 3930,
     "research_pending": 0,
-    "deep_research_pending": 43,
-    "deep_researched": 4163,
+    "deep_research_pending": 41,
+    "deep_researched": 4165,
     "surface_ready": 4206
   },
   "next_target": {
@@ -66,13 +66,6 @@
     },
     {
       "builder": "Radial Engineering / Tonebone",
-      "pedal": "Bones Hollywood Distortion & Overdrive",
-      "catalog_type": "Distortion / Overdrive",
-      "research_record": "./research/pedals/Radial Engineering / Tonebone/Bones Hollywood Distortion & Overdrive.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Radial Engineering / Tonebone",
       "pedal": "Bones London Dual-Mode Distortion",
       "catalog_type": "Distortion",
       "research_record": "./research/pedals/Radial Engineering / Tonebone/Bones London Dual-Mode Distortion.md",
@@ -104,13 +97,6 @@
       "pedal": "Tonebone Plexitube",
       "catalog_type": "Distortion",
       "research_record": "./research/pedals/Radial Engineering / Tonebone/Tonebone Plexitube.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Radial Engineering / Tonebone",
-      "pedal": "Tonebone Trimode",
-      "catalog_type": "Distortion / Overdrive",
-      "research_record": "./research/pedals/Radial Engineering / Tonebone/Tonebone Trimode.md",
       "research_level": "surface"
     },
     {
@@ -195,6 +181,20 @@
       "pedal": "Brutus",
       "catalog_type": "Overdrive",
       "research_record": "./research/pedals/TONECAT/Brutus.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Vemuram",
+      "pedal": "Myriad w/loop Fuzz Pedal",
+      "catalog_type": "Fuzz",
+      "research_record": "./research/pedals/Vemuram/Myriad w/loop Fuzz Pedal.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Vemuram",
+      "pedal": "Myriad w/loop Fuzz Pedal — fuzz / loop-mix identity",
+      "catalog_type": "Fuzz",
+      "research_record": "./research/pedals/Vemuram/Myriad w/loop Fuzz Pedal — fuzz / loop-mix identity.md",
       "research_level": "surface"
     }
   ]

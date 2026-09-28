@@ -49930,8 +49930,8 @@
       "image": "./assets/pedals/radial-engineering-tonebone/bones-hollywood-distortion-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Radial Engineering / Tonebone/Bones Hollywood Distortion & Overdrive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Radial Engineering / Tonebone",
@@ -50042,8 +50042,8 @@
       "image": "./assets/pedals/radial-engineering-tonebone/tonebone-trimode/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Radial Engineering / Tonebone/Tonebone Trimode.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Radial Tonebone",
