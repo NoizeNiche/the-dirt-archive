@@ -52,6 +52,16 @@ jobs:
                   if b and p and u.startswith(("http://", "https://")):
                       photo_source_keys.add((b, p))
 
+          # Research-source overrides are also useful photo candidates. They are
+          # not treated as photo provenance automatically, but they are exact
+          # model pages the browser can inspect for product imagery.
+          research_source_keys = set()
+          with open("research/RESEARCH_SOURCE_OVERRIDES.csv", newline="", encoding="utf-8") as fh:
+              for row in csv.DictReader(fh):
+                  b, p, u = row.get("Builder", "").strip(), row.get("Pedal", "").strip(), row.get("Source URL", "").strip()
+                  if b and p and u.startswith(("http://", "https://")):
+                      research_source_keys.add((b, p))
+
           review_by_key = {}
           review_path = Path("research/PHOTO_REVIEW_QUEUE.csv")
           if review_path.exists():
@@ -83,10 +93,12 @@ jobs:
                   priority = 0
               elif source_ready:
                   priority = 1
-              elif catalog_source:
+              elif key in research_source_keys:
                   priority = 2
-              else:
+              elif catalog_source:
                   priority = 3
+              else:
+                  priority = 4
 
               targets.append({
                   "builder": b,
