@@ -81,7 +81,7 @@ def forbidden_photo_provenance(value):
         parsed = urlparse(str(value or ""))
         haystack = (parsed.netloc + parsed.path + ("?" + parsed.query if parsed.query else "")).lower()
         basename = parsed.path.rstrip("/").split("/")[-1]
-        if re.search(r"(?:buymeacoffee|patreon|donate|donation|sponsor|payment|checkout|support(?:[-_]?us)?|tracking|pixel|analytics|consent)", haystack, re.I):
+        if re.search(r"(?:buymeacoffee|patreon|donate|donation|sponsor|payment|checkout|support(?:[-_]?us)?(?:[/_.-]|$)|tracking|pixel|analytics|consent)", haystack, re.I):
             return True
         if re.search(r"(?:logo|favicon|sprite|avatar|badge|icon|social|banner|widget|placeholder|spinner)(?:[-_.]|$)", basename, re.I):
             return True
@@ -328,6 +328,9 @@ def main():
                 raise SystemExit(f"Missing local catalog image: {k} -> {image}")
             if not entry.get("image_source_url") and not entry.get("source_page"):
                 raise SystemExit(f"Local image is missing provenance: {k}")
+            for provenance in (entry.get("image_source_url"), entry.get("image_source_page"), entry.get("source_page")):
+                if provenance and forbidden_photo_provenance(provenance):
+                    raise SystemExit(f"Local image provenance is blocked by photo policy: {k} -> {provenance}")
             if entry.get("catalog_role") == "variation" and "/variants/" not in normalized:
                 raise SystemExit(f"Variation image is outside /variants/: {k} -> {image}")
 
