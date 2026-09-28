@@ -19,6 +19,7 @@ import subprocess
 from pathlib import Path
 
 from PIL import Image, ImageStat, ImageFilter
+from concurrent.futures import ThreadPoolExecutor, as_completed
 
 ROOT = Path(".")
 INDEX = ROOT / "research/PEDAL_INDEX.json"
@@ -26,6 +27,7 @@ ASSETS = ROOT / "assets/pedals"
 KICK = ROOT / "research/PHOTO_CONTENT_AUDIT_KICK"
 HIGH_CONFIDENCE = (
     "buy me a coffee",
+    "buy me coffee",
     "buymeacoffee",
     "ko-fi",
     "ko fi",
@@ -37,7 +39,7 @@ HIGH_CONFIDENCE = (
 )
 
 def norm(value: str) -> str:
-    return re.sub(r"s+", " ", str(value or "").strip().lower())
+    return re.sub(r"\\s+", " ", str(value or "").strip().lower())
 
 def catalog_map():
     data = json.loads(INDEX.read_text(encoding="utf-8"))
@@ -85,18 +87,17 @@ def ocr_text(image_path: Path) -> str:
         import pytesseract
         with Image.open(image_path) as image:
             image = image.convert("RGB")
-            image.thumbnail((1200, 1200), Image.Resampling.LANCZOS)
-            bands = []
+            image.thumbnail((900, 900), Image.Resampling.LANCZOS)
+            text = norm(pytesseract.image_to_string(image, config="--psm 11"))
+            if any(term in text for term in HIGH_CONFIDENCE):
+                return text
+            # Most unwanted donation/platform overlays appear at the top or
+            # bottom edge of listing screenshots. Only run a second OCR pass
+            # when the full-frame result was inconclusive.
             w, h = image.size
-            bands.append(image)
-            if h > 250:
-                bands.extend([
-                    image.crop((0, 0, w, min(h, int(h * 0.32)))),
-                    image.crop((0, int(h * 0.68), w, h)),
-                    image.crop((int(w * 0.60), 0, w, h)),
-                ])
-            text = " ".join(pytesseract.image_to_string(b, config="--psm 11") for b in bands)
-            return norm(text)
+            edge_band = image.crop((0, max(0, int(h * 0.72)), w, h))
+            text += " " + norm(pytesseract.image_to_string(edge_band, config="--psm 11"))
+            return text
     except Exception:
         return ""
 
@@ -171,24 +172,31 @@ def main():
     targets = resolve_targets(mode)
     rows = []
     high = []
-    for image_path, entry in sorted(targets.items()):
+    ordered_targets = sorted(targets.items())
+    def audit_one(pair):
+        image_path, entry = pair
         path = ROOT / image_path
         if not path.is_file():
-            flags = ["missing_local_file"]
-            ocr = ""
+            flags, ocr = ["missing_local_file"], ""
         else:
             flags, ocr = inspect(path)
-        status = "SUSPECT" if flags else "PASS"
-        if any(flag.startswith("donation_or_platform_overlay:") for flag in flags):
-            high.append((entry.get("company") or "", entry.get("pedal") or "", image_path, flags))
-        rows.append({
+        row = {
             "Builder": entry.get("company") or "",
             "Pedal": entry.get("pedal") or "",
             "Image": image_path,
-            "Status": status,
+            "Status": "SUSPECT" if flags else "PASS",
             "Flags": "; ".join(flags),
             "OCR": ocr[:1200],
-        })
+        }
+        contaminated = any(flag.startswith("donation_or_platform_overlay:") for flag in flags)
+        return row, contaminated
+    with ThreadPoolExecutor(max_workers=max(2, min(6, (os.cpu_count() or 4)))) as executor:
+        futures = [executor.submit(audit_one, pair) for pair in ordered_targets]
+        results = [future.result() for future in futures]
+    for row, contaminated in results:
+        rows.append(row)
+        if contaminated:
+            high.append((row["Builder"], row["Pedal"], row["Image"], row["Flags"]))
 
     output = Path(args.output)
     write_csv(rows, output)
