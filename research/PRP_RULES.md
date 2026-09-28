@@ -84,6 +84,19 @@ A visually convincing image is not enough. The product identity must line up wit
 
 When no qualifying exact image can be confirmed, leave the picture unresolved. The public site must display **No Photo Archived**.
 
+## 6A. Research source hierarchy
+
+For pedal information, use the following order of operations:
+
+- **Manufacturer/builder first:** current product pages, official manuals, official archive pages, and other first-party documentation for the exact model/version.
+- **Reliable historical manufacturer/catalog material next:** archived official pages, established historical catalogs, manuals, and manufacturer documentation.
+- **Verified exact-model secondary sources are fully acceptable:** Reverb, reputable retailers, Effects Database, established pedal databases, reliable used-market listings, and credible reference/teardown pages may supply facts or photographs when the exact Builder + Pedal and relevant version can be positively matched.
+- **Cross-check before promotion:** verify model name, builder, version, enclosure/controls, markings, and other distinguishing details available from the source. A search result or generic listing is not enough by itself.
+- **Match the source to the claim:** use only the specific facts the evidence supports. A secondary source may establish identity, controls, historical existence, or a photograph without being treated as a manufacturer statement.
+- **Do not discard good secondary evidence simply because it is secondary.** Exact identity and source reliability matter more than source category alone.
+
+For photographs, the same principle applies: manufacturer imagery is the preferred starting point, but a verified exact-model Reverb, retailer, database, or archival image may be archived when it clearly depicts the cataloged pedal/version.
+
 ## 7. Local photo contract
 
 Verified public photos are stored locally.
