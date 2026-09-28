@@ -1,23 +1,37 @@
-# Mr. Black — Jalapeño
+# Mr. Black — Jalapeno
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Jalapeno
 - **Builder:** Mr. Black
-- **Pedal:** Jalapeño
 - **Catalog type:** Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Mr. Black's Jalapeno.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Jalapeño** by **Mr. Black** as a **Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Mr. Black's Jalapeno is cataloged as an overdrive pedal.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- SILVER: Pigtronix Mothership 2 Analogue Synth — compact redesign, twin toggles, 10 dials in five dual‐concentric stacks; stereo.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Documented terms in the verified sources: LED.
+- The archive records only the component information explicitly present in these sources.
+
+## Sound
+Top 25 spans modulation, overdrive, fuzz, distortion and utility.
+
+## Sources checked
+1. catalog/override source: https://reverb.com/item/83327118-mr-black-jalapeno-ltd-ed-version-jds-50-overdrive
+2. Guitar Pedal X - GPX Blog - 2017 New Guitar Pedals of the Year: https://www.guitarpedalx.com/news/gpx-blog/2017-new-guitar-pedals-of-the-year
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

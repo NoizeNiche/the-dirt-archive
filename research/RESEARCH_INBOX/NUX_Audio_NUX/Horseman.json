@@ -4,7 +4,7 @@
   "original_builder": "NUX Audio / NUX",
   "original_pedal": "Horseman",
   "status": "VERIFIED_EVIDENCE_STAGED",
-  "independent_exact_source_count": 4,
+  "independent_exact_source_count": 3,
   "sources": [
     {
       "url": "https://nuxaudio.com/product/horseman/",
@@ -28,14 +28,6 @@
       "h1": "",
       "excerpt": "NUX EFX: How did we develop NUX Horseman Overdrive? (Tribute to Klon Centaur) Thursday, June 27, 2019 How did we develop NUX Horseman Overdrive? (Tribute to Klon Centaur) Blog Contribution: Monk Li    ( Taiwan ) Marketing Director NUX | Cherub Technology. The legendary transparent overdrive Klon Centaur. We believe every guitarist knows Klon Centaur and also wants to have one on their collection. But if you want to purchase one, you need to check your wallet and have good luck to find a good condition one. The day of today, the current price of Golden Centaur icon Klon is around $2900 The Klon Centaur is a guitar overdrive pedal developed by Bill Finnegan between 1990 and 1994.The pedals were made manually by Finnegan. The Centaur is characterized as a \"transparent\" overdrive, meaning it adds gain to the signal without significantly altering the tone of the guitar. (We also love the transparent sound, it's so juicy!) About 8,000 units were built between 1994 and 2000. Guitarists praised the clear, uncolored tone of the boosted signal. The circuit had unique characteristics, most noticeably the use of an IC MAX1044 voltage converter . The voltage converter drives 18 volts to the operational amplifier which is the core of the circuit; at this voltage the response of the amplifier is different than at 9 volt, since its slew rate depends on the voltage supply. The higher the voltage supply, the higher the order of harmonics, the operational amplifier will generate, and the more \"metallic\" the sound. (In our view, it's a kind of urban legend, because the frequency is higher than 15K Hz, most people couldn't hear that.) Note: For analog drive circuit, the most important thing to double 9V to 18V is to increase the headroom. Depending on the settings of the control knobs, the pedal can act mostly as a clean boost, adding mostly volume and minimal coloring to the sound. This can be used to drive the input valve stage of the amplifier to use the characteristic distortion sound of an overdriven guitar amp. Alternatively (or additionally) the controls can be set to distort the sound signal in the pedal, where two germanium diodes can perform waveform clipping (see clipping (audio)). The \"gain\" knob is a double potentiometer (a \"dual-ganged gain pot\" ) , which controls bass and middle frequencies. Other knobs are treble and volume. (Our view: to analysis the circuit, it has DRIVE path(middle) and DRY SIGNAL path(below) , so the GAIN knob controls the blending of DRIVE and DRY SIGNAL as chaos. The blending design makes us fell \"transparent\".) The Input Buffer The input stage is a simple buffer based on the TL072 op-amp. The task of this circuit is to isolate the guitar pedal electronics from the external world, providing a high input impedance (avoiding sound coloration) and DC isolation. Germanium Clipping Diodes . According to Bill Finnegan (Klon Centaur Designer), the type of diodes used in the Op-Amp Stage make a great difference in the sound: \"These diodes are the most important factor in how the circuit sounds when it's being used to create distortion\" 1n34a \"I have always used a germanium diode with the part number 1N34A, but you should understand that this particular part has since the 1950s or so been manufactured by literally hundreds of different companies, and having listened to as many different ones as I have, I can say with confidence that they all sound somewhat different in my circuit, and often they sound VERY different.\" The clipping diodes define the distortion sound signature, it is built using 2 back to back diodes that shunt the signal to ground, this clipping method gives a hard-clipping sound also used in many other pedals (MXR Distortion+, RAT and Boss-DS1).  Gain Calculation  NUX Horseman As we love Centaur and we want to replicate the sound with an affordable price, so we try to figure out the way to bring the sound back. As you guys know Klon has Golden one and Silver one, even Bill Finnegan (Klon Centaur Desig",
       "host": "nuxefx.blogspot.com",
-      "source_kind": "other"
-    },
-    {
-      "url": "https://nux.cherubtechnology.com/download/Manual/Effects/Min_Core_Series_Stompboxes/Horseman_NOD1/NUX_NOD1_UserManual_English.pdf",
-      "title": "Download",
-      "h1": "",
-      "excerpt": "",
-      "host": "nux.cherubtechnology.com",
       "source_kind": "other"
     }
   ],

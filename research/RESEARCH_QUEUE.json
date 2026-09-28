@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-28T11:08:08.025310+00:00",
+  "generated_at": "2026-09-28T11:09:49.662697+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,8 +10,8 @@
     "pictured": 3921,
     "complete": 3921,
     "research_pending": 0,
-    "deep_research_pending": 56,
-    "deep_researched": 4150,
+    "deep_research_pending": 54,
+    "deep_researched": 4152,
     "surface_ready": 4206
   },
   "next_target": {
@@ -44,17 +44,10 @@
       "research_level": "surface"
     },
     {
-      "builder": "NUX Audio / NUX",
-      "pedal": "DS-3 Classic Distortion",
-      "catalog_type": "Distortion",
-      "research_record": "./research/pedals/NUX Audio / NUX/DS-3 Classic Distortion.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Mr. Black",
-      "pedal": "Jalapeño",
+      "builder": "Pigdog Pedals",
+      "pedal": "GO",
       "catalog_type": "Overdrive",
-      "research_record": "./research/pedals/Mr. Black/Jalapeño.md",
+      "research_record": "./research/pedals/Pigdog Pedals/GO.md",
       "research_level": "surface"
     },
     {
@@ -135,13 +128,6 @@
       "research_level": "surface"
     },
     {
-      "builder": "Pigdog Pedals",
-      "pedal": "GO",
-      "catalog_type": "Overdrive",
-      "research_record": "./research/pedals/Pigdog Pedals/GO.md",
-      "research_level": "surface"
-    },
-    {
       "builder": "Radial Engineering / Tonebone",
       "pedal": "Bassbone OD",
       "catalog_type": "Overdrive",
@@ -195,6 +181,20 @@
       "pedal": "Tonebone Plexitube",
       "catalog_type": "Distortion",
       "research_record": "./research/pedals/Radial Engineering / Tonebone/Tonebone Plexitube.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Radial Engineering / Tonebone",
+      "pedal": "Tonebone Trimode",
+      "catalog_type": "Distortion / Overdrive",
+      "research_record": "./research/pedals/Radial Engineering / Tonebone/Tonebone Trimode.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "ReevesElectro",
+      "pedal": "2n2FACE Silicon FuzzFace",
+      "catalog_type": "Fuzz",
+      "research_record": "./research/pedals/ReevesElectro/2n2FACE Silicon FuzzFace.md",
       "research_level": "surface"
     }
   ]

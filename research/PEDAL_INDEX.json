@@ -46859,8 +46859,8 @@
       "image": "./assets/pedals/mr-black/jalape-o/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mr. Black/Jalapeño.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Mr. Black",
@@ -47993,8 +47993,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/NUX Audio / NUX/DS-3 Classic Distortion.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "NUX Audio / NUX",
