@@ -5,6 +5,8 @@ import csv
 import json
 import re
 import sys
+
+from PIL import Image
 from pathlib import Path
 
 ROOT = Path(".")
@@ -143,6 +145,18 @@ def main():
                     f"Picture=DONE has non-product photo provenance for {k}: "
                     + ", ".join(red_flags)
                 )
+            try:
+                with Image.open(asset) as im:
+                    if im.width < 200 or im.height < 200:
+                        raise SystemExit(
+                            f"Picture=DONE has a too-small local photo for {k}: "
+                            f"{im.width}x{im.height}"
+                        )
+                    im.verify()
+            except SystemExit:
+                raise
+            except Exception as exc:
+                raise SystemExit(f"Picture=DONE has an unreadable local photo for {k}: {exc}")
         else:
             pending_tracker.add(k)
             asset = local_asset(image)
