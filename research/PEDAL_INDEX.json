@@ -9558,11 +9558,13 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/behringer/xd300-distortion-x/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/behringer/compact/xd300",
       "research_record": "./research/pedals/Behringer/XD300 Distortion X.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://files.effectsdatabase.com/gear/thumbs/behringer_xd300_001.jpg",
+      "image_source_page": "https://www.effectsdatabase.com/model/behringer/compact/xd300"
     },
     {
       "company": "Behringer",
@@ -9570,11 +9572,13 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/behringer/zentara-overdrive/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/behringer/zentara",
       "research_record": "./research/pedals/Behringer/Zentara Overdrive.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://cdn-media.empowertribe.com/d60fcac6d0134070a359a8eda6faea1a/Image_BE_0709-AKP_ZENTARA-OVERDRIVE_Rear_XL.png",
+      "image_source_page": "https://www.behringer.com/en/products/0709-AKP"
     },
     {
       "company": "Benson Amps",
@@ -9973,11 +9977,13 @@
       "types": [
         "Fuzz"
       ],
-      "image": "",
+      "image": "./assets/pedals/big-ear-nyc/chaka-octave-fuzz/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/bigear/chaka",
       "research_record": "./research/pedals/Big Ear NYC/Chaka - Octave Fuzz.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://cdn.shopify.com/s/files/1/0916/0836/files/call-us_240x.png?v=1596576144",
+      "image_source_page": "https://www.themusiczoo.com/blogs/news/big-ear-nyc-pedals"
     },
     {
       "company": "Big Ear NYC",
@@ -12114,11 +12120,13 @@
       "types": [
         "Distortion"
       ],
-      "image": "",
+      "image": "./assets/pedals/bjfe-bjf-electronics/cliff-hanger/primary.webp",
       "source_page": "https://www.bjornjuhl.com/forum/viewtopic.php-f%3D6%26t%3D1555.html",
       "research_record": "./research/pedals/BJFE / BJF Electronics/Cliff Hanger.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "http://i270.photobucket.com/albums/jj112/DonnerBox/bjf1.jpg",
+      "image_source_page": "https://www.bjornjuhl.com/forum/viewtopic.php-f%3D6%26t%3D1555.html"
     },
     {
       "company": "BJFE / BJF Electronics",
@@ -15032,11 +15040,13 @@
       "types": [
         "Overdrive"
       ],
-      "image": "",
+      "image": "./assets/pedals/boss/bp-1w-booster-preamp/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/boss/compact/wazacraft/bp1w",
       "research_record": "./research/pedals/BOSS/BP-1W Booster/Preamp.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://cdn.mos.cms.futurecdn.net/flexiimages/2pyzk5gy2u1776694356.png",
+      "image_source_page": "https://www.guitarworld.com/reviews/boss-bp-1w-booster-preamp"
     },
     {
       "company": "BOSS",
@@ -15068,11 +15078,13 @@
       "types": [
         "Overdrive"
       ],
-      "image": "",
+      "image": "./assets/pedals/boss/dn-2-dyna-drive/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/boss/compact/dn2",
       "research_record": "./research/pedals/BOSS/DN-2 Dyna Drive.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://files.effectsdatabase.com/gear/pics/boss_dn-2_002.jpg",
+      "image_source_page": "https://www.effectsdatabase.com/model/boss/compact/dn2"
     },
     {
       "company": "BOSS",
@@ -15162,11 +15174,13 @@
       "types": [
         "Fuzz"
       ],
-      "image": "",
+      "image": "./assets/pedals/boss/fz-2-hyper-fuzz/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/boss/compact/fz2",
       "research_record": "./research/pedals/BOSS/FZ-2 Hyper Fuzz.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://static-data2.manualslib.com/storage/pdf67/335/33409/3340831/images/fz2_hyper_fuzz_1_bg.jpg",
+      "image_source_page": "https://www.manualslib.com/manual/3340831/Boss-Fz-2-Hyper-Fuzz.html"
     },
     {
       "company": "BOSS",
@@ -15410,11 +15424,13 @@
       "types": [
         "Overdrive"
       ],
-      "image": "",
+      "image": "./assets/pedals/boss/odb-3-bass-overdrive/primary.webp",
       "source_page": "https://www.boss.info/us/products/odb-3/",
       "research_record": "./research/pedals/BOSS/ODB-3 Bass OverDrive.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://static.roland.com/assets/images/products/main/odb_3_main.jpg",
+      "image_source_page": "https://www.boss.info/us/products/odb-3/"
     },
     {
       "company": "BOSS",
@@ -15462,11 +15478,13 @@
       "types": [
         "Overdrive"
       ],
-      "image": "",
+      "image": "./assets/pedals/boss/sd-1-4a-super-overdrive/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/boss/compact/sd1/4a",
       "research_record": "./research/pedals/BOSS/SD-1-4A Super OverDrive.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://images.equipboard.com/uploads/item/image/103426/boss-sd-1-4a-40th-anniversary-xl.webp?v=1790424901",
+      "image_source_page": "https://equipboard.com/items/boss-sd-1-4a-40th-anniversary"
     },
     {
       "company": "BOSS",
@@ -15488,11 +15506,13 @@
       "types": [
         "Overdrive"
       ],
-      "image": "",
+      "image": "./assets/pedals/boss/sd-2-dual-overdrive/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/boss/compact/sd2",
       "research_record": "./research/pedals/BOSS/SD-2 Dual OverDrive.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://files.effectsdatabase.com/gear/thumbs/boss_sd-2_001.jpg",
+      "image_source_page": "https://www.effectsdatabase.com/model/boss/compact/sd2"
     },
     {
       "company": "BOSS",
@@ -29647,12 +29667,13 @@
         "Distortion",
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/crucial-audio/das-g-tterd-mmerung/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Crucial Audio/Das Götterdämmerung.md",
-      "image_source_page": "https://crucialaudio.com/wp-content/uploads/2018/03/DieGotterdammerung_Manual_electronic_A.pdf",
+      "image_source_page": "https://www.effectsdatabase.com/model/crucial/gotterdammerung",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://files.effectsdatabase.com/gear/thumbs/crucial_gotterdammerung_003.jpg"
     },
     {
       "company": "Crushsound",
