@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-28T11:43:52.650772+00:00",
+  "generated_at": "2026-09-28T11:44:44.204894+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -72,10 +72,10 @@
       "research_level": "surface"
     },
     {
-      "builder": "Smallsound/Bigsound",
-      "pedal": "Year of the Rat",
-      "catalog_type": "Fuzz",
-      "research_record": "./research/pedals/Smallsound/Bigsound/Year of the Rat.md",
+      "builder": "Xotic Effects",
+      "pedal": "BB Preamp V1.5 — Boost / Overdrive",
+      "catalog_type": "Overdrive",
+      "research_record": "./research/pedals/Xotic Effects/BB Preamp V1.5 — Boost / Overdrive.md",
       "research_level": "surface"
     },
     {
@@ -83,6 +83,13 @@
       "pedal": "La Scatola Nero",
       "catalog_type": "Fuzz",
       "research_record": "./research/pedals/Stomp Under Foot/La Scatola Nero.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Smallsound/Bigsound",
+      "pedal": "Year of the Rat",
+      "catalog_type": "Fuzz",
+      "research_record": "./research/pedals/Smallsound/Bigsound/Year of the Rat.md",
       "research_level": "surface"
     },
     {
@@ -125,13 +132,6 @@
       "pedal": "Red Llama 3.0",
       "catalog_type": "Overdrive",
       "research_record": "./research/pedals/Way Huge/Red Llama 3.0.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Xotic Effects",
-      "pedal": "BB Preamp V1.5 — Boost / Overdrive",
-      "catalog_type": "Overdrive",
-      "research_record": "./research/pedals/Xotic Effects/BB Preamp V1.5 — Boost / Overdrive.md",
       "research_level": "surface"
     }
   ]
