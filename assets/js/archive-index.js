@@ -225,6 +225,30 @@ function searchScore(x){
   return 99;
 }
 
+function searchMatchReason(x){
+  if(!q)return '';
+  const needle=q.toLowerCase();
+  const normalizedNeedle=normalizeSearchText(q);
+  const pedal=x.pedal.toLowerCase();
+  const company=x.company.toLowerCase();
+  const normalizedPedal=normalizeSearchText(x.pedal);
+  const normalizedCompany=normalizeSearchText(x.company);
+  const variation=(variationSearchText.get(entryKey(x))||'');
+  const normalizedVariation=normalizeSearchText(variation);
+  const facetSearch=String(facetRecords.get(entryKey(x))?.search||'');
+  const normalizedFacet=normalizeSearchText(facetSearch);
+
+  if(company===needle||normalizedCompany===normalizedNeedle)return 'Exact builder match';
+  if(pedal===needle||normalizedPedal===normalizedNeedle)return 'Exact pedal match';
+  if(company.startsWith(needle)||normalizedCompany.startsWith(normalizedNeedle))return 'Builder starts with search';
+  if(pedal.startsWith(needle)||normalizedPedal.startsWith(normalizedNeedle))return 'Pedal starts with search';
+  if(company.includes(needle)||normalizedCompany.includes(normalizedNeedle))return 'Builder contains search';
+  if(pedal.includes(needle)||normalizedPedal.includes(normalizedNeedle))return 'Pedal contains search';
+  if(variation.includes(needle)||normalizedVariation.includes(normalizedNeedle))return 'Version or colorway match';
+  if(facetSearch.includes(needle)||normalizedFacet.includes(normalizedNeedle))return 'Documented technical match';
+  return '';
+}
+
 function filteredItems(){
   const result=items.filter(x=>
     typeMatches(x)&&
@@ -353,6 +377,7 @@ function render(){
           '<span class="cardBody">'+
             '<span class="name">'+esc(x.pedal)+'</span>'+
             '<span class="builderNameCard">'+esc(x.company)+'</span>'+
+            (q && searchMatchReason(x) ? '<span class="searchMatchReason">'+esc(searchMatchReason(x))+'</span>' : '')+
             '<span class="chips">'+x.types.map(t=>'<span class="chip">'+esc(t)+'</span>').join('')+'</span>'+
           '</span>'+
         '</a>';
