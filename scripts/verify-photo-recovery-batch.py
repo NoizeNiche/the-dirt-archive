@@ -10,9 +10,25 @@ except Exception:
 
 ROOT = Path(".")
 ARTIFACTS = ROOT / "recovery-artifacts"
+PHOTO_SOURCE_BLOCKLIST = ROOT / "research/PHOTO_SOURCE_BLOCKLIST.json"
 
 def http(v):
     return str(v or "").startswith(("http://", "https://"))
+
+def load_blocked_url(value):
+    raw = str(value or "").strip().lower()
+    try:
+        policy = json.loads(PHOTO_SOURCE_BLOCKLIST.read_text(encoding="utf-8"))
+        for rule in policy.get("rules", []):
+            kind = str(rule.get("type") or "")
+            pattern = str(rule.get("pattern") or "")
+            if kind == "exact_url" and raw == pattern.lower():
+                return True
+            if kind.endswith("_regex") and pattern and re.search(pattern, raw, re.I):
+                return True
+    except Exception:
+        pass
+    return False
 
 def main():
     verdicts = []
@@ -70,6 +86,9 @@ def main():
                                 ok = False
                                 reason = "recovered photo contains a high-confidence donation/platform overlay: " + hit
                 source_url = str(result.get("image_source_url") or "").lower()
+                if load_blocked_url(source_url):
+                    ok = False
+                    reason = "recovered image URL is blocked by the shared photo source policy"
                 forbidden = re.search(r"(?:favicon|(?:^|[/_.-])(?:logo|loading|spinner|placeholder|sprite|avatar|badge|icon|social|banner|widget)(?:[/_.?-]|$))", source_url)
                 if forbidden:
                     ok = False
