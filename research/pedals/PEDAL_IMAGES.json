@@ -27663,14 +27663,14 @@
   {
     "builder": "ThorpyFX",
     "pedal": "Warthog",
-    "image": null,
+    "image": "./assets/pedals/thorpyfx/warthog/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/ThorpyFX/Warthog.md"
   },
   {
     "builder": "ThorpyFX",
     "pedal": "WOPR",
-    "image": null,
+    "image": "./assets/pedals/thorpyfx/wopr/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/ThorpyFX/WOPR.md"
   },
@@ -28048,14 +28048,14 @@
   {
     "builder": "Vemuram",
     "pedal": "Oz — fuzz",
-    "image": null,
+    "image": "./assets/pedals/vemuram/oz-fuzz/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Vemuram/Oz — fuzz.md"
   },
   {
     "builder": "Vemuram",
     "pedal": "Rage e",
-    "image": null,
+    "image": "./assets/pedals/vemuram/rage-e/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Vemuram/Rage e.md"
   },
@@ -28321,7 +28321,7 @@
   {
     "builder": "Vick Audio",
     "pedal": "73 Ram's Head",
-    "image": null,
+    "image": "./assets/pedals/vick-audio/73-ram-s-head/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Vick Audio/73 Ram's Head.md"
   },
@@ -28601,7 +28601,7 @@
   {
     "builder": "VOX",
     "pedal": "V830 Distortion Booster",
-    "image": null,
+    "image": "./assets/pedals/vox/v830-distortion-booster/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/VOX/V830 Distortion Booster.md"
   },
@@ -28699,7 +28699,7 @@
   {
     "builder": "Walrus Audio",
     "pedal": "Fundamental Series Distortion",
-    "image": null,
+    "image": "./assets/pedals/walrus-audio/fundamental-series-distortion/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Walrus Audio/Fundamental Series Distortion.md"
   },
@@ -29035,28 +29035,28 @@
   {
     "builder": "Wampler Pedals",
     "pedal": "Plexi Drive Mini",
-    "image": null,
+    "image": "./assets/pedals/wampler-pedals/plexi-drive-mini/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Wampler Pedals/Plexi Drive Mini.md"
   },
   {
     "builder": "Wampler Pedals",
     "pedal": "Plexi-Drive",
-    "image": null,
+    "image": "./assets/pedals/wampler-pedals/plexi-drive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Wampler Pedals/Plexi-Drive.md"
   },
   {
     "builder": "Wampler Pedals",
     "pedal": "Plextortion",
-    "image": null,
+    "image": "./assets/pedals/wampler-pedals/plextortion/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Wampler Pedals/Plextortion.md"
   },
   {
     "builder": "Wampler Pedals",
     "pedal": "Ratsbane",
-    "image": null,
+    "image": "./assets/pedals/wampler-pedals/ratsbane/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Wampler Pedals/Ratsbane.md"
   },
@@ -29238,7 +29238,7 @@
   {
     "builder": "Way Huge",
     "pedal": "Green Rhino MkV",
-    "image": null,
+    "image": "./assets/pedals/way-huge/green-rhino-mkv/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Way Huge/Green Rhino MkV.md"
   },
@@ -29441,7 +29441,7 @@
   {
     "builder": "Wren and Cuff",
     "pedal": "Blue-Violet Caprid Small Foot",
-    "image": null,
+    "image": "./assets/pedals/wren-and-cuff/blue-violet-caprid-small-foot/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Wren and Cuff/Blue-Violet Caprid Small Foot.md"
   },
@@ -29462,7 +29462,7 @@
   {
     "builder": "Wren and Cuff",
     "pedal": "Caprid Small Foot",
-    "image": null,
+    "image": "./assets/pedals/wren-and-cuff/caprid-small-foot/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Wren and Cuff/Caprid Small Foot.md"
   },
@@ -29476,14 +29476,14 @@
   {
     "builder": "Wren and Cuff",
     "pedal": "Eye See '78",
-    "image": null,
+    "image": "./assets/pedals/wren-and-cuff/eye-see-78/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Wren and Cuff/Eye See '78.md"
   },
   {
     "builder": "Wren and Cuff",
     "pedal": "Eye See '78 OG",
-    "image": null,
+    "image": "./assets/pedals/wren-and-cuff/eye-see-78-og/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Wren and Cuff/Eye See '78 OG.md"
   },
@@ -29595,7 +29595,7 @@
   {
     "builder": "Xotic Effects",
     "pedal": "AC Booster V2 — Overdrive",
-    "image": null,
+    "image": "./assets/pedals/xotic-effects/ac-booster-v2-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Xotic Effects/AC Booster V2 — Overdrive.md"
   },
@@ -29609,28 +29609,28 @@
   {
     "builder": "Xotic Effects",
     "pedal": "AH Booster Allen Hinds — Overdrive",
-    "image": null,
+    "image": "./assets/pedals/xotic-effects/ah-booster-allen-hinds-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Xotic Effects/AH Booster Allen Hinds — Overdrive.md"
   },
   {
     "builder": "Xotic Effects",
     "pedal": "Bass BB Preamp V1.5",
-    "image": null,
+    "image": "./assets/pedals/xotic-effects/bass-bb-preamp-v1-5/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Xotic Effects/Bass BB Preamp V1.5.md"
   },
   {
     "builder": "Xotic Effects",
     "pedal": "Bass BB Preamp V1.5 — Bass Boost / Overdrive",
-    "image": null,
+    "image": "./assets/pedals/xotic-effects/bass-bb-preamp-v1-5-bass-boost-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Xotic Effects/Bass BB Preamp V1.5 — Bass Boost / Overdrive.md"
   },
   {
     "builder": "Xotic Effects",
     "pedal": "Bass RC Booster V2",
-    "image": null,
+    "image": "./assets/pedals/xotic-effects/bass-rc-booster-v2/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Xotic Effects/Bass RC Booster V2.md"
   },
@@ -29700,7 +29700,7 @@
   {
     "builder": "Xvive Audio",
     "pedal": "Golden Brownie",
-    "image": null,
+    "image": "./assets/pedals/xvive-audio/golden-brownie/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Xvive Audio/Golden Brownie.md"
   },
@@ -29749,7 +29749,7 @@
   {
     "builder": "Zander Circuitry",
     "pedal": "Surplus",
-    "image": null,
+    "image": "./assets/pedals/zander-circuitry/surplus/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Zander Circuitry/Surplus.md"
   },
@@ -29763,7 +29763,7 @@
   {
     "builder": "ZVEX Effects",
     "pedal": "'59 Sound",
-    "image": null,
+    "image": "./assets/pedals/zvex-effects/59-sound/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/ZVEX Effects/'59 Sound.md"
   },
@@ -29777,7 +29777,7 @@
   {
     "builder": "ZVEX Effects",
     "pedal": "Box of Metal",
-    "image": null,
+    "image": "./assets/pedals/zvex-effects/box-of-metal/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/ZVEX Effects/Box of Metal.md"
   },

@@ -52879,7 +52879,7 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/thorpyfx/warthog/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/ThorpyFX/Warthog.md",
       "research_level": "deep",
@@ -52891,7 +52891,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/thorpyfx/wopr/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/ThorpyFX/WOPR.md",
       "research_level": "deep",
@@ -53545,7 +53545,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/vemuram/oz-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Vemuram/Oz — fuzz.md",
       "research_level": "surface",
@@ -53557,7 +53557,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/vemuram/rage-e/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Vemuram/Rage e.md",
       "research_level": "deep",
@@ -54017,7 +54017,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/vick-audio/73-ram-s-head/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Vick Audio/73 Ram's Head.md",
       "research_level": "deep",
@@ -54515,7 +54515,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/vox/v830-distortion-booster/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/VOX/V830 Distortion Booster.md",
       "research_level": "deep",
@@ -54698,7 +54698,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/walrus-audio/fundamental-series-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Walrus Audio/Fundamental Series Distortion.md",
       "research_level": "deep",
@@ -55336,7 +55336,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/wampler-pedals/plexi-drive-mini/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Wampler Pedals/Plexi Drive Mini.md",
       "research_level": "deep",
@@ -55348,7 +55348,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/wampler-pedals/plexi-drive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Wampler Pedals/Plexi-Drive.md",
       "research_level": "deep",
@@ -55360,7 +55360,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/wampler-pedals/plextortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Wampler Pedals/Plextortion.md",
       "research_level": "deep",
@@ -55374,7 +55374,7 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/wampler-pedals/ratsbane/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Wampler Pedals/Ratsbane.md",
       "research_level": "deep",
@@ -55715,7 +55715,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/way-huge/green-rhino-mkv/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Way Huge/Green Rhino MkV.md",
       "research_level": "deep",
@@ -56089,7 +56089,7 @@
         "Distortion",
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/wren-and-cuff/blue-violet-caprid-small-foot/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Wren and Cuff/Blue-Violet Caprid Small Foot.md",
       "research_level": "deep",
@@ -56130,7 +56130,7 @@
         "Distortion",
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/wren-and-cuff/caprid-small-foot/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Wren and Cuff/Caprid Small Foot.md",
       "research_level": "deep",
@@ -56156,7 +56156,7 @@
         "Distortion",
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/wren-and-cuff/eye-see-78/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Wren and Cuff/Eye See '78.md",
       "research_level": "deep",
@@ -56169,7 +56169,7 @@
         "Distortion",
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/wren-and-cuff/eye-see-78-og/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Wren and Cuff/Eye See '78 OG.md",
       "research_level": "deep",
@@ -56382,7 +56382,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/xotic-effects/ac-booster-v2-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Xotic Effects/AC Booster V2 — Overdrive.md",
       "research_level": "deep",
@@ -56408,7 +56408,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/xotic-effects/ah-booster-allen-hinds-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Xotic Effects/AH Booster Allen Hinds — Overdrive.md",
       "research_level": "deep",
@@ -56420,7 +56420,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/xotic-effects/bass-bb-preamp-v1-5/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Xotic Effects/Bass BB Preamp V1.5.md",
       "research_level": "deep",
@@ -56432,7 +56432,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/xotic-effects/bass-bb-preamp-v1-5-bass-boost-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Xotic Effects/Bass BB Preamp V1.5 — Bass Boost / Overdrive.md",
       "research_level": "deep",
@@ -56444,7 +56444,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/xotic-effects/bass-rc-booster-v2/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Xotic Effects/Bass RC Booster V2.md",
       "research_level": "deep",
@@ -56566,7 +56566,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/xvive-audio/golden-brownie/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Xvive Audio/Golden Brownie.md",
       "research_level": "deep",
@@ -56661,7 +56661,7 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/zander-circuitry/surplus/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Zander Circuitry/Surplus.md",
       "research_level": "deep",
@@ -56685,7 +56685,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/zvex-effects/59-sound/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/ZVEX Effects/'59 Sound.md",
       "research_level": "deep",
@@ -56711,7 +56711,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/zvex-effects/box-of-metal/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/ZVEX Effects/Box of Metal.md",
       "research_level": "deep",
