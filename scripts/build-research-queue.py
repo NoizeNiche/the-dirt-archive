@@ -43,6 +43,7 @@ def main():
     # material queued and can spend its limited worker budget on promotion rather
     # than rediscovery. Keep ordering deterministic within each tier.
     source_override_counts = {}
+    source_override_tiers = {}
     source_path = Path("research/RESEARCH_SOURCE_OVERRIDES.csv")
     if source_path.is_file():
         with source_path.open(newline="", encoding="utf-8") as handle:
@@ -50,9 +51,20 @@ def main():
                 builder = str(source_row.get("Builder") or "").strip().casefold()
                 pedal = str(source_row.get("Pedal") or "").strip().casefold()
                 url = str(source_row.get("Source URL") or "").strip()
+                note = str(source_row.get("Note") or "").strip().casefold()
                 if builder and pedal and url:
                     key = (builder, pedal)
                     source_override_counts[key] = source_override_counts.get(key, 0) + 1
+                    tier = 2
+                    if any(term in note for term in (
+                        "official", "manufacturer", "exact maxon/godlyke", "exact mi audio",
+                        "exact mojo hand", "exact marshall", "exact fulltone", "exact limetone",
+                        "exact katanasound", "exact keeley", "exact madebymike", "exact jam"
+                    )):
+                        tier = 0
+                    elif "exact-model" in note or "exact model" in note:
+                        tier = 1
+                    source_override_tiers[key] = min(source_override_tiers.get(key, tier), tier)
 
     researched = 0
     pictured = 0
@@ -109,10 +121,10 @@ def main():
     deep_research_pending = research_pending + deep_research_pending
     deep_research_pending.sort(
         key=lambda item: (
-            0 if source_override_counts.get(
+            source_override_tiers.get(
                 (str(item.get("builder") or "").strip().casefold(),
-                 str(item.get("pedal") or "").strip().casefold())
-            ) else 1,
+                 str(item.get("pedal") or "").strip().casefold()), 3
+            ),
             -source_override_counts.get(
                 (str(item.get("builder") or "").strip().casefold(),
                  str(item.get("pedal") or "").strip().casefold()), 0
