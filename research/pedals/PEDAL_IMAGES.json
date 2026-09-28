@@ -15434,7 +15434,7 @@
   {
     "builder": "Dawner Prince Electronics",
     "pedal": "RED ROX",
-    "image": null,
+    "image": "./assets/pedals/dawner-prince-electronics/red-rox/primary.webp",
     "source_page": "https://dawnerprince.com/",
     "research_record": "./research/pedals/Dawner Prince Electronics/RED ROX.md"
   },
@@ -28678,7 +28678,7 @@
   {
     "builder": "Walrus Audio",
     "pedal": "Eons Five-State Fuzz — Fuzz",
-    "image": null,
+    "image": "./assets/pedals/walrus-audio/eons-five-state-fuzz-fuzz/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Walrus Audio/Eons Five-State Fuzz — Fuzz.md"
   },
