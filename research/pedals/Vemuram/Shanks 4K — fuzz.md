@@ -1,23 +1,37 @@
 # Vemuram — Shanks 4K — fuzz
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Shanks 4K — fuzz
 - **Builder:** Vemuram
-- **Pedal:** Shanks 4K — fuzz
 - **Catalog type:** Fuzz
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Vemuram's Shanks 4K — fuzz.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Shanks 4K — fuzz** by **Vemuram** as a **Fuzz** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Vemuram's Shanks 4K — fuzz is cataloged as a fuzz pedal.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+The verified evidence packet did not contain enough pedal-specific sonic description to make a more detailed sound summary without adding unsupported interpretation.
+
+## Sources checked
+1. Vemuram Shanks 4K Fuzz - Reverb: https://reverb.com/p/vemuram-shanks-4k-fuzz
+2. Vemuram Shanks 4K Fuzz 167775 - eBay: https://www.ebay.com/itm/306832787461
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
