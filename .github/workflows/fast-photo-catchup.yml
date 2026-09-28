@@ -33,16 +33,82 @@ jobs:
         run: |
           python - <<'PY' >> "$GITHUB_OUTPUT"
           import csv, json, sys
+          from pathlib import Path
+
           rows = list(csv.DictReader(open("research/PRP_TRACKER.csv", newline="", encoding="utf-8")))
+          catalog = json.load(open("research/PEDAL_INDEX.json", encoding="utf-8"))
+          catalog_by_key = {
+              (str(p.get("company") or "").strip(), str(p.get("pedal") or "").strip()): p
+              for p in catalog.get("pedals", [])
+          }
+
+          # Curated source overrides and the review queue are the strongest signals
+          # that a record can be recovered now. Prefer them over alphabetical order
+          # so source-rich and stubborn records stop starving behind the raw census.
+          photo_source_keys = set()
+          with open("research/PHOTO_SOURCE_OVERRIDES.csv", newline="", encoding="utf-8") as fh:
+              for row in csv.DictReader(fh):
+                  b, p, u = row.get("Builder", "").strip(), row.get("Pedal", "").strip(), row.get("Image Source Page", "").strip()
+                  if b and p and u.startswith(("http://", "https://")):
+                      photo_source_keys.add((b, p))
+
+          review_by_key = {}
+          review_path = Path("research/PHOTO_REVIEW_QUEUE.csv")
+          if review_path.exists():
+              with review_path.open(newline="", encoding="utf-8") as fh:
+                  for row in csv.DictReader(fh):
+                      review_by_key[(row.get("Builder", "").strip(), row.get("Pedal", "").strip())] = row
+
+          targets = []
+          for row in rows:
+              if row.get("Pedal Info") != "DONE" or row.get("Picture") == "DONE":
+                  continue
+              b, p = row.get("Builder", "").strip(), row.get("Pedal", "").strip()
+              key = (b, p)
+              review = review_by_key.get(key, {})
+              catalog_item = catalog_by_key.get(key, {})
+              status = str(review.get("Status") or "").strip().upper()
+              attempts = int(review.get("Attempts") or 0)
+              source_ready = key in photo_source_keys
+              catalog_source = bool(
+                  str(catalog_item.get("image_source_page") or "").strip()
+                  or str(catalog_item.get("image_source_url") or "").strip()
+                  or str(catalog_item.get("source_page") or "").strip()
+              )
+
+              # Hard review cases always get the first slots. Exact curated photo
+              # sources come next, followed by other records already carrying
+              # image/source provenance, then the ordinary census backlog.
+              if status in {"DEEP_REVIEW", "PARKED"}:
+                  priority = 0
+              elif source_ready:
+                  priority = 1
+              elif catalog_source:
+                  priority = 2
+              else:
+                  priority = 3
+
+              targets.append({
+                  "builder": b,
+                  "pedal": p,
+                  "_priority": priority,
+                  "_attempts": attempts,
+                  "_order": len(targets),
+              })
+
+          targets.sort(key=lambda x: (
+              x["_priority"],
+              x["_attempts"],
+              x["builder"].casefold(),
+              x["pedal"].casefold(),
+              x["_order"],
+          ))
           targets = [
-              {"builder": r["Builder"], "pedal": r["Pedal"]}
-              for r in rows
-              if r.get("Pedal Info") == "DONE" and r.get("Picture") != "DONE"
+              {"builder": t["builder"], "pedal": t["pedal"]}
+              for t in targets[:100]
           ]
-          targets.sort(key=lambda x: (x["builder"].casefold(), x["pedal"].casefold()))
-          targets = targets[:100]
           print("matrix=" + json.dumps({"include": targets}, ensure_ascii=False, separators=(",", ":")))
-          print(f"Prepared {len(targets)} photo targets (bounded to 100 per pass).", file=sys.stderr)
+          print(f"Prepared {len(targets)} prioritized photo targets (hard cases and curated sources first; bounded to 100 per pass).", file=sys.stderr)
           PY
 
   recover:
