@@ -417,14 +417,14 @@ def main():
     for marker, source in (
         ("PHOTO_RECOVERY_MANIFEST", PHOTO_CACHE.read_text(encoding="utf-8")),
         ("recoveredRecords", PHOTO_CACHE.read_text(encoding="utf-8")),
-        ("photo-recovery-results.json", FAST_PHOTO.read_text(encoding="utf-8")),
+        ("photo-recovery-results.json", fast_photo_workflow),
         ("POWER_OPTIONS", facet_builder_text),
         ('"power": list(POWER_OPTIONS)', facet_builder_text),
         ("selectedPowers", index_viewer_text),
         ("powerFacetOptions", home_text),
     ):
         if marker not in source:
-            raise SystemExit(f"Power facet integration is incomplete: {marker}")
+            raise SystemExit(f"Viewer/recovery integration is incomplete: {marker}")
     if "build-pedal-facets.py" not in research_workflow:
         raise SystemExit("Research worker publication is not refreshing the technical facet index.")
     if "build-pedal-facets.py" not in synth_workflow:
