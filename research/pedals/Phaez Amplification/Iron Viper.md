@@ -21,3 +21,10 @@ The Dirt Archive currently catalogs **Iron Viper** by **Phaez Amplification** as
 ## Deep research
 - **Status:** Pending
 - Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+
+## Deep research verification
+- Phaez's manufacturer pedal lineup identifies **Iron Viper** and describes it as based on the BJFe Dyna Red Distortion.
+- The record is retained as the exact Phaez model and does not infer additional component values or revision history beyond the builder's published description.
+
+## Verification source set
+1. Phaez Amplification — Pedals: https://phaezamplification.com/pedals/
