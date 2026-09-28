@@ -35,3 +35,12 @@ The Dirt Archive currently catalogs **CHIME3** by **Pettyjohn Electronics** as a
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+## Deep research verification
+- Pettyjohn's manufacturer page identifies CHIME3 as a low-gain **Cubed** overdrive with a transformer-coupled design.
+- The documented clipping options include NOS germanium and silicon / LED choices.
+- The page documents an inductor-based midrange circuit, standard Level / Drive / Lows / Highs controls, and an internal 36V supply architecture.
+- The manufacturer specifies true-bypass operation and a compact enclosure of approximately 3.7 × 4.72 × 2.22 inches.
+- No unsupported transistor or diode part-number claim is added beyond the clipping devices explicitly described by the manufacturer.
+
+## Deep research verification
+- Exact-model manufacturer and lineage sources were checked against the catalog identity before promotion.
