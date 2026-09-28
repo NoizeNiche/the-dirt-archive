@@ -1,2 +1,2 @@
-Photo population pass — direct image trigger fixed — 2026-09-28T06:17:00-07:00
-Use the newest exact manufacturer, retailer, Reverb, database, and direct-image sources; recover exact local pedal images and publish only validator-approved assets.
+Exact-photo recovery pass — use newest manufacturer and verified secondary sources — 2026-09-28T05:52:00-07:00
+Recover exact local primary.webp assets from current source tables; match exact model/version; reject mismatches; publish verified assets only.
