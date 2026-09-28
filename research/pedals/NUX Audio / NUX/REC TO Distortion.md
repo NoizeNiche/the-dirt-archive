@@ -4,36 +4,42 @@
 - **Archive parent:** REC TO Distortion
 - **Builder:** NUX Audio / NUX
 - **Catalog type:** Distortion
-- **Identity:** NUX Audio / NUX's REC TO Distortion.
+- **Research level:** Deep
+- **Deep research status:** Verified
+- **Identity:** NUX REC TO Distortion.
+
+## Deep research verification
+- **Exact-model evidence:** Verified against an exact-model product listing retained in the research inbox.
 
 ## What this pedal is
-NUX Audio / NUX's REC TO Distortion is cataloged as a distortion pedal.
+The retained exact-model source describes REC TO Distortion as a **heavy distortion** intended for hard rock and metal, with a high-frequency boost and true bypass. It also identifies an **MKII** version. [1]
 
-## Colorways
-- No specific factory colorway information was established in the verified evidence packet.
+## Version history
+- **MKII** is explicitly referenced by the verified evidence packet. [1]
+- A complete earlier-version change history was not established.
 
-## Versions and factory options
-- The verified evidence references: MKII.
-- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+## Controls and functions
+The surviving verified source identifies the pedal's high-gain distortion and high-frequency boost functions, but does not provide a sufficiently reliable complete control-panel transcription.
+- **Exact control list:** Unresolved.
 
-## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+## Circuit / architecture
+The verified source does not establish a complete production schematic, op-amp identity, transistor complement, or clipping-device bill of materials.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
-- **Exact transistor/device:** Unknown.
+- **Exact production transistor/device:** Unknown.
 
 ## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
-- **Exact part:** Unknown.
+- **Exact production clipping diode:** Unknown.
+
+## Bypass
+- **True bypass:** documented. [1]
 
 ## Sound
-Pedal này được thiết kế để tạo ra âm sắc mạnh mẽ, gai góc, cùng với khả năng boost dải cao giúp tiếng đàn thêm “sắc bén” và nổi bật trong mọi bản phối.
-True Bypass Giữ Nguyên Âm Thanh Gốc Sử dụng mạch true bypass , Rec To Distortion giúp tín hiệu guitar đi qua hoàn toàn sạch sẽ khi pedal không kích hoạt, đảm bảo âm thanh nguyên bản và độ trung thực tối đa.
-Hiệu ứng: Heavy distortion dành cho hard rock và metal
+The retained source characterizes REC TO Distortion as a strong, aggressive heavy-distortion pedal for hard rock and metal, with high-frequency boost intended to sharpen the guitar sound. [1]
 
 ## Sources checked
-1. Pedal Guitar Nux Rec To Distortion - LiRi Music: https://lirimusic.com/pedal-guitar-nux-rec-to-distortion/
+1. **LiRi Music — NUX REC TO Distortion:** https://lirimusic.com/pedal-guitar-nux-rec-to-distortion/
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately.
+- Exact-model photo provenance remains governed by the archive's photo identity gate.
