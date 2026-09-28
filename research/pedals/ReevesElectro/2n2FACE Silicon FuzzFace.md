@@ -1,23 +1,39 @@
 # ReevesElectro — 2n2FACE Silicon FuzzFace
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** 2n2FACE Silicon FuzzFace
 - **Builder:** ReevesElectro
-- **Pedal:** 2n2FACE Silicon FuzzFace
 - **Catalog type:** Fuzz
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** ReevesElectro's 2n2FACE Silicon FuzzFace.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **2n2FACE Silicon FuzzFace** by **ReevesElectro** as a **Fuzz** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+I build these fuzz pedals in my garden workshop in Northamptonshire UK.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- FaceLift version introduced 28 July 2021 with bigger enclosure, top jacks, red LED and amended internal layout.
+- I finish the entire pedal to a standard that I think looks as good inside, as it sounds on the outside.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Documented terms in the verified sources: 2n2222a.
+- The archive records only the component information explicitly present in these sources.
+
+## Diode
+- Documented terms in the verified sources: LED.
+- The archive records only the component information explicitly present in these sources.
+
+## Sound
+Not the case with the 2n2Face, unity is around the 9 to 10 0'clock mark on the volume with the fuzz maxed.
+The FuzzFace, the guitar players utility pedal, put in at the front of your pedal chain and max the fuzz dial, then control the gain from your guitars volume, its that simple.
+No fizzy or spitty decay and nice tight bass response that is forward in the tone.
+
+## Sources checked
+1. 2n2FACE – High Volume Silicon FuzzFa(e &ndash; ReevesElectro Point to Point Guitar Pedals: https://reeveselectro.co.uk/products/2n2face-silicon-fuzzface
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

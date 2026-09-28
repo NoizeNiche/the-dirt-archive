@@ -3,13 +3,13 @@
 
 The active production phase is **Catalog Research Phase**. PRP1 is retained only as a legacy publication/closeout mechanism.
 
-Live catalog: **4206 total / 4206 surface-ready / 4165 deep-researched / 4206 research-linked / 3930 pictured / 3930 complete / 0 surface-missing / 41 deep-research-pending / 276 researched-photo-pending**.
+Live catalog: **4206 total / 4206 surface-ready / 4170 deep-researched / 4206 research-linked / 3930 pictured / 3930 complete / 0 surface-missing / 36 deep-research-pending / 276 researched-photo-pending**.
 
 **Next deep-research target:** NUX Audio / NUX - BC-2 Vintage Blues Core.
 
 PRP1 closeout remains separate: 276 researched record(s) still lack an exact local photo.
 The research queue is generated from the canonical catalog and tracker; do not hand-edit the derived queue.
-Last refreshed: 2026-09-28T11:17:40.850474+00:00
+Last refreshed: 2026-09-28T11:18:23.227591+00:00
 <!-- AUTO:RESEARCH_PHASE_END -->
 
 ## Superseded checkpoint

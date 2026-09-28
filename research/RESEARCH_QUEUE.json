@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-28T11:17:40.850474+00:00",
+  "generated_at": "2026-09-28T11:18:23.227591+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,8 +10,8 @@
     "pictured": 3930,
     "complete": 3930,
     "research_pending": 0,
-    "deep_research_pending": 41,
-    "deep_researched": 4165,
+    "deep_research_pending": 36,
+    "deep_researched": 4170,
     "surface_ready": 4206
   },
   "next_target": {
@@ -34,13 +34,6 @@
       "pedal": "Tonebone Plexitube",
       "catalog_type": "Distortion",
       "research_record": "./research/pedals/Radial Engineering / Tonebone/Tonebone Plexitube.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "ReevesElectro",
-      "pedal": "2n2FACE Silicon FuzzFace",
-      "catalog_type": "Fuzz",
-      "research_record": "./research/pedals/ReevesElectro/2n2FACE Silicon FuzzFace.md",
       "research_level": "surface"
     },
     {
@@ -69,27 +62,6 @@
       "pedal": "Bassbone OD",
       "catalog_type": "Overdrive",
       "research_record": "./research/pedals/Radial Engineering / Tonebone/Bassbone OD.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Radial Engineering / Tonebone",
-      "pedal": "Bones London Dual-Mode Distortion",
-      "catalog_type": "Distortion",
-      "research_record": "./research/pedals/Radial Engineering / Tonebone/Bones London Dual-Mode Distortion.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Radial Engineering / Tonebone",
-      "pedal": "Regency Overdrive and Boost",
-      "catalog_type": "Overdrive",
-      "research_record": "./research/pedals/Radial Engineering / Tonebone/Regency Overdrive and Boost.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Radial Engineering / Tonebone",
-      "pedal": "Tonebone Hot British",
-      "catalog_type": "Distortion",
-      "research_record": "./research/pedals/Radial Engineering / Tonebone/Tonebone Hot British.md",
       "research_level": "surface"
     },
     {
@@ -132,13 +104,6 @@
       "pedal": "Driven-Parallel Overdrive",
       "catalog_type": "Overdrive",
       "research_record": "./research/pedals/Mystic Effects Co/Driven-Parallel Overdrive.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Radial Engineering / Tonebone",
-      "pedal": "Bones Texas Dual Mode Overdrive",
-      "catalog_type": "Overdrive",
-      "research_record": "./research/pedals/Radial Engineering / Tonebone/Bones Texas Dual Mode Overdrive.md",
       "research_level": "surface"
     },
     {
@@ -195,6 +160,41 @@
       "pedal": "Myriad w/loop Fuzz Pedal — fuzz / loop-mix identity",
       "catalog_type": "Fuzz",
       "research_record": "./research/pedals/Vemuram/Myriad w/loop Fuzz Pedal — fuzz / loop-mix identity.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Vemuram",
+      "pedal": "Myriad — fuzz / hybrid fuzz + loop identity",
+      "catalog_type": "Fuzz",
+      "research_record": "./research/pedals/Vemuram/Myriad — fuzz / hybrid fuzz + loop identity.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Vick Audio",
+      "pedal": "V2 Violet Ram",
+      "catalog_type": "Fuzz",
+      "research_record": "./research/pedals/Vick Audio/V2 Violet Ram.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Visual Sound / Truetone",
+      "pedal": "Angry Fuzz",
+      "catalog_type": "Fuzz",
+      "research_record": "./research/pedals/Visual Sound / Truetone/Angry Fuzz.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Visual Sound / Truetone",
+      "pedal": "Jekyll & Hyde",
+      "catalog_type": "Distortion / Overdrive",
+      "research_record": "./research/pedals/Visual Sound / Truetone/Jekyll & Hyde.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Visual Sound / Truetone",
+      "pedal": "Jekyll & Hyde (original)",
+      "catalog_type": "Distortion",
+      "research_record": "./research/pedals/Visual Sound / Truetone/Jekyll & Hyde (original).md",
       "research_level": "surface"
     }
   ]

@@ -1,23 +1,38 @@
 # Radial Engineering / Tonebone — Tonebone Hot British
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Tonebone Hot British
 - **Builder:** Radial Engineering / Tonebone
-- **Pedal:** Tonebone Hot British
 - **Catalog type:** Distortion
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Radial Engineering / Tonebone's Tonebone Hot British.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Tonebone Hot British** by **Radial Engineering / Tonebone** as a **Distortion** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Real 12AX7 tube for warm natural tone Powerful EQ for extreme tonal flexibility Retains note clarity even at high gain Photos The Tonebone Hot British is tube distortion at its best!
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- The carefully crafted controls are easily manipulated to create an incredible array of textures that range from old school Deep Purple and Tom Shultz’s unique Boston sound to Queen’s Brian May or right into the boldest Metallica.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+Hot British 12AX7 Tube Distortion Pedal Part # R800 7020 Photos About the Hot British High-gain double-stack ‘plexi-in-a-box’!
+Real 12AX7 tube for warm natural tone Powerful EQ for extreme tonal flexibility Retains note clarity even at high gain Photos The Tonebone Hot British is tube distortion at its best!
+The design begins with a triple gain stage that combines the control and dynamics of solid-state with the warmth and harmonic generation only possible from a real 12AX7 tube.
+
+## Sources checked
+1. Hot British - Radial Engineering: https://www.radialeng.com/product/hot-british-legacy
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
