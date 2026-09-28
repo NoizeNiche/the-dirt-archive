@@ -1,7 +1,7 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-28T15:07:41.216124+00:00",
-  "active_phase": "Catalog Research Phase",
+  "generated_at": "2026-09-28T15:22:21.621724+00:00",
+  "active_phase": "Photo Recovery & Production QA",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
   "counts": {
