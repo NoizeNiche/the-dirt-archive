@@ -126,6 +126,7 @@
           <div class="heroTools">
             <button id="discoverPedal" class="discoverButton" type="button">Discover</button>
             <button id="copyViewLink" class="discoverButton" type="button">Copy view link</button>
+            <button id="workbenchButton" class="discoverButton" type="button" aria-expanded="false" aria-controls="workbench">Workbench <span id="workbenchCount">0</span></button>
             <div class="meta" id="meta" aria-live="polite">Loading…</div>
           </div>
         </div>
@@ -152,6 +153,30 @@
           </div>
         </div>
         <div class="rule"></div>
+        <section class="workbench" id="workbench" hidden aria-label="Collector workbench">
+          <div class="workbenchHead">
+            <div>
+              <div class="heroEyebrow">Collector tools</div>
+              <h3>Workbench</h3>
+            </div>
+            <button class="workbenchClose" id="closeWorkbench" type="button" aria-label="Close workbench">×</button>
+          </div>
+          <div class="workbenchGrid">
+            <section class="workbenchBlock">
+              <div class="workbenchBlockHead"><strong>Saved</strong><span id="savedCount">0</span></div>
+              <div class="workbenchList" id="savedList"><p class="workbenchEmpty">Save pedals here to build a private reference list on this device.</p></div>
+              <button class="workbenchClear" id="clearSaved" type="button" hidden>Clear saved</button>
+            </section>
+            <section class="workbenchBlock">
+              <div class="workbenchBlockHead"><strong>Compare</strong><span id="compareCount">0 / 4</span></div>
+              <div class="workbenchList" id="compareList"><p class="workbenchEmpty">Select up to four exact records to compare.</p></div>
+              <div class="workbenchActions">
+                <a class="action primary" id="openCompare" href="./compare.html">Open comparison</a>
+                <button class="workbenchClear" id="clearCompare" type="button" hidden>Clear compare</button>
+              </div>
+            </section>
+          </div>
+        </section>
         <div class="grid" id="grid"></div>
         <div class="paginationWrap" id="paginationWrap" hidden>
           <nav class="pagination" id="pagination" aria-label="Pedal catalog pages"></nav>
