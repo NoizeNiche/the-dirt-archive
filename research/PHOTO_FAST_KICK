@@ -1,2 +1,2 @@
-Photo population pass — batched worker engine — 2026-09-28T07:10:00-07:00
-Process 50 unresolved exact-photo records in one Playwright worker using 8-way concurrency; manufacturer pages first, verified exact secondary sources second.
+Photo population pass — 90-target batch / 10-way concurrency — 2026-09-28T07:22:00-07:00
+Populate unresolved researched records from exact manufacturer pages first, then verified exact secondary sources.
