@@ -330,3 +330,10 @@ The deep-research lane is operating with a 20-worker matrix, **20 targets per wo
 Pages deployment no longer triggers on research-markdown-only changes; it follows public catalog/facet changes. A redundant hourly evidence-only workflow was also removed from the automatic schedule so it does not compete with the canonical deep-research lane.
 
 The latest completed worker pass was successful and the resulting public deployment was verified. Deep research remains the active research backlog, while exact-photo recovery remains a separate gate.
+
+
+## Builder-to-enthusiast product checkpoint - September 28, 2026
+
+A builder-focused usability pass was translated into public enthusiast value. The archive now includes a query-driven Builder Archive page that turns an existing builder filter into a deeper historical catalog view, with catalog/family/version/edition/photo summaries, in-builder search, dirt-type filters, and version-family context. Pedal detail pages now link directly to the Builder Archive while retaining a separate filtered-catalog link.
+
+The Builder Archive is a derived view over the canonical catalog and does not create a second builder data source or expose internal research administration.
