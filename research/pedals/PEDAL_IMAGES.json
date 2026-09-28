@@ -19998,7 +19998,7 @@
   {
     "builder": "JAM Pedals",
     "pedal": "Double Dreamer",
-    "image": null,
+    "image": "./assets/pedals/jam-pedals/double-dreamer/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/JAM Pedals/Double Dreamer.md"
   },
@@ -21265,7 +21265,7 @@
   {
     "builder": "KMA Machines",
     "pedal": "Queequeq 2",
-    "image": null,
+    "image": "./assets/pedals/kma-machines/queequeq-2/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/KMA Machines/Queequeq 2.md"
   },
@@ -22021,7 +22021,7 @@
   {
     "builder": "Mad Professor Amplification",
     "pedal": "Mighty Red Distortion",
-    "image": null,
+    "image": "./assets/pedals/mad-professor-amplification/mighty-red-distortion/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Mad Professor Amplification/Mighty Red Distortion.md"
   },
@@ -28020,7 +28020,7 @@
   {
     "builder": "Vemuram",
     "pedal": "Myriad Fuzz — fuzz",
-    "image": null,
+    "image": "./assets/pedals/vemuram/myriad-fuzz-fuzz/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Vemuram/Myriad Fuzz — fuzz.md"
   },
@@ -28405,7 +28405,7 @@
   {
     "builder": "Visual Sound / Truetone",
     "pedal": "Route 808",
-    "image": null,
+    "image": "./assets/pedals/visual-sound-truetone/route-808/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Visual Sound / Truetone/Route 808.md"
   },

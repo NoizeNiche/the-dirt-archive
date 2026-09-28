@@ -39531,7 +39531,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/jam-pedals/double-dreamer/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/JAM Pedals/Double Dreamer.md",
       "research_level": "deep",
@@ -41793,7 +41793,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/kma-machines/queequeq-2/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/KMA Machines/Queequeq 2.md",
       "research_level": "deep",
@@ -43144,7 +43144,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/mad-professor-amplification/mighty-red-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mad Professor Amplification/Mighty Red Distortion.md",
       "research_level": "deep",
@@ -53851,7 +53851,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/vemuram/myriad-fuzz-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Vemuram/Myriad Fuzz — fuzz.md",
       "research_level": "deep",
@@ -54526,7 +54526,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/visual-sound-truetone/route-808/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Visual Sound / Truetone/Route 808.md",
       "research_level": "deep",
