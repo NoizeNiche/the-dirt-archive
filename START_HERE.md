@@ -33,13 +33,13 @@ When resuming after an interruption:
 
 ## 3. Current mission
 
-The active production phase is the **Catalog Research Phase**.
+The active production phase is **Photo Recovery & Production QA**. The canonical research queue is complete, and the remaining researched records are being pushed through exact-photo recovery.
 
-Research the remaining canonical catalog records in catalog order, synchronize their research records into the public catalog, and let photo recovery proceed as a separate lane.
+Alongside that finish line, the public product is being hardened around collector usefulness: fast discovery, exact-record comparison, local saved records, accessible navigation, and evidence-respecting presentation.
 
-**PRP1 is no longer the active research phase.** Its remaining Fuzz Phazer work is treated as a legacy photo/publication closeout only.
+**PRP1 is no longer the active research phase.** Its remaining Fuzz Phazer work is treated as legacy photo/publication closeout only.
 
-The live counts, next research target, latest completed pass, and current blockers belong in `CURRENT_STATE.md`.
+The live counts, latest completed pass, and current blockers belong in `CURRENT_STATE.md`.
 
 ## 4. Public site model
 
