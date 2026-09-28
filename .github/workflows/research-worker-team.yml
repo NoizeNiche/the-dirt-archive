@@ -266,7 +266,7 @@ jobs:
           gh api --method POST "repos/$GITHUB_REPOSITORY/actions/workflows/sync-prp-tracker.yml/dispatches" -f ref=main
           # The worker can also recover older VERIFIED_EVIDENCE_STAGED packets that
           # were stranded in the inbox by an interrupted or older publication pass.
-          stranded_staged=$(python -c 'import json,pathlib; p=pathlib.Path("research-evidence/foreman-summary.json"); print(int(json.loads(p.read_text(encoding="utf-8")).get("staged",0)) if p.exists() else 0')
+          stranded_staged=$(python -c 'import json,pathlib; p=pathlib.Path("research-evidence/foreman-summary.json"); print(int(json.loads(p.read_text(encoding="utf-8")).get("staged",0)) if p.exists() else 0)')
           if git diff --cached --quiet && [ "${stranded_staged:-0}" -eq 0 ]; then
             echo "No new or stranded verified research evidence packets; tracker-sync dispatched."
             exit 0
