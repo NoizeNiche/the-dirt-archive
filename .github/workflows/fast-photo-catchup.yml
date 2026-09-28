@@ -107,13 +107,31 @@ jobs:
           from pathlib import Path
 
           root = Path(".")
-          manifest_path = root / "photo-recovery-results.json"
-          if not manifest_path.is_file():
-              print("No recovery manifest produced; this pass recovered no photo candidates.")
+          manifest_paths = [
+              root / "photo-recovery-direct-results.json",
+              root / "photo-recovery-results.json",
+          ]
+          recovered_rows = []
+          seen_keys = set()
+          for manifest_path in manifest_paths:
+              if not manifest_path.is_file():
+                  continue
+              try:
+                  data = json.loads(manifest_path.read_text(encoding="utf-8"))
+              except Exception as exc:
+                  print(f"Skipping unreadable recovery manifest {manifest_path}: {exc}")
+                  continue
+              for row in data.get("recovered") or []:
+                  identity = (str(row.get("builder") or ""), str(row.get("pedal") or ""))
+                  if not identity[0] or not identity[1] or identity in seen_keys:
+                      continue
+                  seen_keys.add(identity)
+                  recovered_rows.append(row)
+
+          if not recovered_rows:
+              print("No recovery manifests produced; this pass recovered no photo candidates.")
               raise SystemExit(0)
 
-          data = json.loads(manifest_path.read_text(encoding="utf-8"))
-          recovered_rows = data.get("recovered") or []
           packaged = 0
 
           for row in recovered_rows:
@@ -148,7 +166,7 @@ jobs:
 
           print(f"Packaged {packaged} photo recoveries from {len(recovered_rows)} actual recovery results.")
           PY
-          rm -f photo-recovery-results.json
+          rm -f photo-recovery-direct-results.json photo-recovery-results.json
 
       - name: Upload recovery artifact
         uses: actions/upload-artifact@v4
