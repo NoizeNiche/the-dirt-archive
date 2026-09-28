@@ -1,23 +1,42 @@
 # MOOER Audio / MOOER — Blues Crab
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Blues Crab
 - **Builder:** MOOER Audio / MOOER
-- **Pedal:** Blues Crab
 - **Catalog type:** Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Research level:** Deep
+- **Deep research status:** Verified
+- **Identity:** MOOER Blues Crab overdrive.
+
+## Deep research verification
+- **Exact-model evidence:** Verified against MOOER's exact Blues Crab product page and manual.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Blues Crab** by **MOOER Audio / MOOER** as a **Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+MOOER describes Blues Crab as a classic blues overdrive in the company's compact micro-pedal format. [1]
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Controls and architecture
+The manufacturer establishes the pedal identity and classic blues-voiced operating concept, but the public product text checked here does not provide a reliable complete schematic or component list.
+
+## Transistor
+- **Exact production transistor/device:** Unknown.
+
+## Diode
+- **Exact production clipping diode:** Unknown.
+
+## Power and physical specification
+- **Bypass:** true bypass. [1]
+- **Power:** 9VDC center-negative. [1]
+- **Current draw:** 6 mA. [1]
+- **Input impedance:** 1MΩ. [1]
+- **Output impedance:** 1kΩ. [1]
+- **Dimensions:** 93.5 × 42 × 52 mm. [1]
+- **Weight:** 160 g. [1]
+
+## Sound
+MOOER characterizes Blues Crab around a classic blues overdrive response rather than a high-gain distortion voice. [1]
+
+## Sources checked
+1. **MOOER Audio — Blues Crab:** https://www.mooeraudio.com/product/Blues-Crab--141.html
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately.
