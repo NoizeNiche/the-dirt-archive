@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-28T04:51:28.176263+00:00",
+  "generated_at": "2026-09-28T04:51:36.375504+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,8 +10,8 @@
     "pictured": 3639,
     "complete": 3639,
     "research_pending": 0,
-    "deep_research_pending": 181,
-    "deep_researched": 4025,
+    "deep_research_pending": 178,
+    "deep_researched": 4028,
     "surface_ready": 4206
   },
   "next_target": {
@@ -143,13 +143,6 @@
     },
     {
       "builder": "Mad Professor Amplification",
-      "pedal": "Sweet Honey Overdrive Custom",
-      "catalog_type": "Overdrive",
-      "research_record": "./research/pedals/Mad Professor Amplification/Sweet Honey Overdrive Custom.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Mad Professor Amplification",
       "pedal": "Sweet Honey Overdrive Handwired",
       "catalog_type": "Overdrive",
       "research_record": "./research/pedals/Mad Professor Amplification/Sweet Honey Overdrive Handwired.md",
@@ -178,23 +171,30 @@
     },
     {
       "builder": "Marshall Amplification",
-      "pedal": "Bluesbreaker Vintage Reissue",
-      "catalog_type": "Overdrive",
-      "research_record": "./research/pedals/Marshall Amplification/Bluesbreaker Vintage Reissue.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Marshall Amplification",
-      "pedal": "Bluesbreaker Vintage Reissue Pedal",
-      "catalog_type": "Overdrive",
-      "research_record": "./research/pedals/Marshall Amplification/Bluesbreaker Vintage Reissue Pedal.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Marshall Amplification",
       "pedal": "Drivemaster Vintage Reissue",
       "catalog_type": "Distortion / Overdrive",
       "research_record": "./research/pedals/Marshall Amplification/Drivemaster Vintage Reissue.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Marshall Amplification",
+      "pedal": "Drivemaster Vintage Reissue Pedal",
+      "catalog_type": "Distortion / Overdrive",
+      "research_record": "./research/pedals/Marshall Amplification/Drivemaster Vintage Reissue Pedal.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Marshall Amplification",
+      "pedal": "DSL Overdrive Pedal",
+      "catalog_type": "Overdrive",
+      "research_record": "./research/pedals/Marshall Amplification/DSL Overdrive Pedal.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Marshall Amplification",
+      "pedal": "Guv'nor Vintage Reissue",
+      "catalog_type": "Overdrive",
+      "research_record": "./research/pedals/Marshall Amplification/Guv'nor Vintage Reissue.md",
       "research_level": "surface"
     }
   ]
