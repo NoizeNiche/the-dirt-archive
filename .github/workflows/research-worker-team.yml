@@ -240,7 +240,9 @@ jobs:
   foreman:
     name: Research foreman
     needs: gather
-    if: ${{ always() }}
+    # Do not wake the publication foreman for an intentionally skipped empty gather matrix.
+    # Still run it after real gather success or partial failure.
+    if: ${{ needs.gather.result == 'success' || needs.gather.result == 'failure' }}
     runs-on: ubuntu-latest
     outputs:
       canonical_delta: ${{ steps.publish.outputs.canonical_delta }}
