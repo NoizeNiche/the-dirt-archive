@@ -10,6 +10,9 @@ on:
       - research/PHOTO_SOURCE_OVERRIDES.csv
       - research/PHOTO_DIRECT_IMAGE_OVERRIDES.csv
       - research/PEDAL_IDENTITY_ALIASES.csv
+      - scripts/browser-photo-cache.mjs
+      - scripts/cache-pedal-images.py
+      - scripts/merge-photo-recovery-results.py
 
 permissions:
   contents: write
