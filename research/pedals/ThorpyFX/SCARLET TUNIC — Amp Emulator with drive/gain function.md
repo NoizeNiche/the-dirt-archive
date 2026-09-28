@@ -1,23 +1,42 @@
 # ThorpyFX — SCARLET TUNIC — Amp Emulator with drive/gain function
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** SCARLET TUNIC — Amp Emulator with drive/gain function
 - **Builder:** ThorpyFX
-- **Pedal:** SCARLET TUNIC — Amp Emulator with drive/gain function
 - **Catalog type:** Distortion / Fuzz / Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** ThorpyFX's SCARLET TUNIC — Amp Emulator with drive/gain function.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **SCARLET TUNIC — Amp Emulator with drive/gain function** by **ThorpyFX** as a **Distortion / Fuzz / Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+ThorpyFX's SCARLET TUNIC — Amp Emulator with drive/gain function is cataloged as a distortion / fuzz / overdrive pedal.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Documented terms in the verified sources: AC30.
+- The archive records only the component information explicitly present in these sources.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+Fitted with a high-quality, custom audio transformer, this pedal breathes, reacts, and distorts with the exact feel and dynamic response of a full-sized tube amplifier.
+The Origin of a Legend: The Syd Barrett Tone Originally commissioned by Lee Harris (Saucerful of Secrets) to authentically replicate the elusive vintage amp tones of Pink Floyd’s Syd Barrett, the Scarlet Tunic was born to emulate the rare Selmer Treble and Bass 50.
+ThorpyFX nailed the Selmer tone, but pushed the design even further.
+
+## Sources checked
+1. SCARLET TUNIC | Amp Emulator: https://thorpyfx.com/en-us/products/scarlet-tunic
+2. ThorpyFX Scarlet Tunic Analog Amp Emulator - Reverb: https://reverb.com/p/thorpyfx-scarlet-tunic-analog-amp-emulator
+3. ThorpyFX Scarlet Tunic - What To Know & Where To Buy: https://equipboard.com/items/thorpyfx-scarlet-tunic
+4. ThorpyFX Scarlet Tunic | Vintage Analog Amp Emulator Pedal - Cottonwood Music Emporium: https://www.cottonwoodmusicemporium.com/products/thorpyfx-scarlet-tunic
+5. ThorpyFX Scarlet Tunic &ndash; Soft Noise Audio: https://softnoiseaudio.com/products/thorpy-fx-scarlet-tunic
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

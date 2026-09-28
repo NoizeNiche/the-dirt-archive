@@ -1,0 +1,25 @@
+{
+  "builder": "Walrus Audio",
+  "pedal": "Eras Five-State Distortion \u2014 Distortion",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 2,
+  "sources": [
+    {
+      "url": "https://equipboard.com/items/walrus-audio-eras-five-state-distortion",
+      "title": "Walrus Audio Eras Five-State Distortion Pedal | Equipboard",
+      "h1": "",
+      "excerpt": "",
+      "host": "equipboard.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://reverb.com/p/walrus-audio-eras-five-state-distortion",
+      "title": "Walrus Audio Eras Five-State Distortion - Reverb",
+      "h1": "",
+      "excerpt": "",
+      "host": "reverb.com",
+      "source_kind": "reverb"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}

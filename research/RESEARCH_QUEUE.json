@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-28T00:55:01.666985+00:00",
+  "generated_at": "2026-09-28T00:56:44.232289+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,8 +10,8 @@
     "pictured": 3502,
     "complete": 3502,
     "research_pending": 0,
-    "deep_research_pending": 249,
-    "deep_researched": 3957,
+    "deep_research_pending": 225,
+    "deep_researched": 3981,
     "surface_ready": 4206
   },
   "next_target": {
@@ -136,23 +136,9 @@
     },
     {
       "builder": "IdiotBox Effects",
-      "pedal": "Lazer Fuzz (retired)",
-      "catalog_type": "",
-      "research_record": "./research/pedals/IdiotBox Effects/Lazer Fuzz (retired).md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "IdiotBox Effects",
       "pedal": "Lazer Phazer (retired)",
       "catalog_type": "",
       "research_record": "./research/pedals/IdiotBox Effects/Lazer Phazer (retired).md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "IdiotBox Effects",
-      "pedal": "PowerBoost (retired)",
-      "catalog_type": "",
-      "research_record": "./research/pedals/IdiotBox Effects/PowerBoost (retired).md",
       "research_level": "surface"
     },
     {
@@ -195,6 +181,20 @@
       "pedal": "Notadümblo V2",
       "catalog_type": "",
       "research_record": "./research/pedals/JHS Pedals/Notadümblo V2.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "JHS Pedals",
+      "pedal": "Notadümbळë V2",
+      "catalog_type": "",
+      "research_record": "./research/pedals/JHS Pedals/Notadümbळë V2.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "JHS Pedals",
+      "pedal": "Steak and Eggs Overdrive/Compressor",
+      "catalog_type": "",
+      "research_record": "./research/pedals/JHS Pedals/Steak and Eggs Overdrive/Compressor.md",
       "research_level": "surface"
     }
   ]

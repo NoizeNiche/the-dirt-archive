@@ -38563,8 +38563,8 @@
       "image": "./assets/pedals/idiotbox-effects/lazer-fuzz-retired/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/IdiotBox Effects/Lazer Fuzz (retired).md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "IdiotBox Effects",
@@ -38689,8 +38689,8 @@
       "image": "./assets/pedals/idiotbox-effects/powerboost-retired/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/IdiotBox Effects/PowerBoost (retired).md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "IdiotBox Effects",
@@ -40793,8 +40793,8 @@
       "image": "./assets/pedals/khdk-electronics/abyss-bass-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/KHDK Electronics/Abyss — bass overdrive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "KHDK Electronics",
@@ -40817,8 +40817,8 @@
       "image": "./assets/pedals/khdk-electronics/ascendancy-dual-dirt-pedal-with-overdrive-sections/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/KHDK Electronics/Ascendancy — dual dirt pedal with overdrive sections.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "KHDK Electronics",
@@ -41856,8 +41856,8 @@
       "image": "./assets/pedals/lichtlaerm-audio/medusa-grinding-death-metal-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Lichtlaerm Audio/Medusa — grinding death metal distortion.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Lichtlaerm Audio",
@@ -41968,8 +41968,8 @@
       "image": "./assets/pedals/lichtlaerm-audio/thorn-signature-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Lichtlaerm Audio/Thorn — signature distortion.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Lichtlaerm Audio",
@@ -47155,8 +47155,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Mythos Pedals/AU-79 Fuzz — limited / exclusive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Mythos Pedals",
@@ -47303,8 +47303,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Mythos Pedals/High Road Fuzz Mini — limited / exclusive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Mythos Pedals",
@@ -47813,8 +47813,8 @@
       "image": "./assets/pedals/okko-fx/diablo-dual-2-channel-overdrive-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/OKKO FX/DIABLO DUAL — 2-channel overdrive / distortion.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "OKKO FX",
@@ -48166,8 +48166,8 @@
       "image": "./assets/pedals/origin-effects/dcx-boost-boost-drive-product-with-overdrive-use/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Origin Effects/DCX Boost — boost/drive product with overdrive use.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Origin Effects",
@@ -52486,8 +52486,8 @@
       "image": "./assets/pedals/thorpyfx/bunker-plexi-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/ThorpyFX/BUNKER — Plexi Overdrive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "ThorpyFX",
@@ -52540,8 +52540,8 @@
       "image": "./assets/pedals/thorpyfx/electric-lightning-valve-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/ThorpyFX/ELECTRIC LIGHTNING — Valve Overdrive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "ThorpyFX",
@@ -52580,8 +52580,8 @@
       "image": "./assets/pedals/thorpyfx/field-marshal-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/ThorpyFX/FIELD MARSHAL — Fuzz.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "ThorpyFX",
@@ -52706,8 +52706,8 @@
       "image": "./assets/pedals/thorpyfx/scarlet-tunic-amp-emulator-with-drive-gain-function/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/ThorpyFX/SCARLET TUNIC — Amp Emulator with drive/gain function.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "ThorpyFX",
@@ -52810,8 +52810,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/ThorpyFX/THE J — Lazy J x ThorpyFX collaboration.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "ThorpyFX",
@@ -53260,8 +53260,8 @@
       "image": "./assets/pedals/vemuram/butter-machine-michael-landau-signature-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Vemuram/Butter Machine — Michael Landau Signature Distortion.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Vemuram",
@@ -53284,8 +53284,8 @@
       "image": "./assets/pedals/vemuram/dj1-overdrive-distortion-bass-effects-identity/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Vemuram/DJ1 — overdrive / distortion bass-effects identity.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Vemuram",
@@ -53308,8 +53308,8 @@
       "image": "./assets/pedals/vemuram/galea-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Vemuram/Galea — overdrive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Vemuram",
@@ -53356,8 +53356,8 @@
       "image": "./assets/pedals/vemuram/jan-ray-exp-mod-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Vemuram/Jan Ray EXP-Mod — overdrive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Vemuram",
@@ -54689,8 +54689,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Walrus Audio/Eras Five-State Distortion — Distortion.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Walrus Audio",
@@ -54752,8 +54752,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Walrus Audio/Iron Horse LM308 Distortion — Distortion.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Walrus Audio",
@@ -56411,8 +56411,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Xotic Effects/AH Booster Allen Hinds — Overdrive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Xotic Effects",
@@ -56435,8 +56435,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Xotic Effects/Bass BB Preamp V1.5 — Bass Boost / Overdrive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Xotic Effects",
@@ -56459,8 +56459,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Xotic Effects/Bass RC Booster V2 — bass boost/drive product.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Xotic Effects",

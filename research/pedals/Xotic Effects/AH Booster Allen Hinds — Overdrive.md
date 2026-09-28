@@ -1,23 +1,42 @@
 # Xotic Effects — AH Booster Allen Hinds — Overdrive
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** AH Booster Allen Hinds — Overdrive
 - **Builder:** Xotic Effects
-- **Pedal:** AH Booster Allen Hinds — Overdrive
 - **Catalog type:** Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Xotic Effects's AH Booster Allen Hinds — Overdrive.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **AH Booster Allen Hinds — Overdrive** by **Xotic Effects** as a **Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+The Xotic Effects AH Booster Allen Hinds pedal revives a legendary overdrive pedal with modern enhancements.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- The verified evidence references: MKII.
+- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+The Xotic Effects AH Booster Allen Hinds pedal revives a legendary overdrive pedal with modern enhancements.
+Designed as a tribute to Allen Hinds' favorite distortion stompbox, the AC-Comp, this updated version gives you a tight yet smooth overdriven tone with more control and headroom.
+Three Compression Settings Dial in Your Overdrive With three different compression settings, you can choose how much sustain and distortion you want.
+
+## Sources checked
+1. Xotic Effects AH Booster Allen Hinds Effects Pedal | Music & Arts: https://www.musicarts.com/xotic-ah-booster-allen-hinds-effects-pedal-main0540118
+2. Xotic Effects AH Booster Allen Hinds Effects Pedal Silver Sparkle: https://www.promusicsupplies.com/product/xotic-effects-ah-booster-allen-hinds-effects-pedal-silver-sparkle/
+3. Fuzz & Boost Effects Pedals | Guitar Center: https://www.guitarcenter.com/Xotic-Effects/AH-Booster-Allen-Hinds-Effects-Pedal-Silver-Sparkle-1500000438684.gc?template=0y7n73MAL4Km
+4. Xotic Effects AH Booster Allen Hinds - Percussion Instruments for Rhythm and Live Play: https://www.perxora.com/product/xotic-effects-ah-booster-allen-hinds/
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
