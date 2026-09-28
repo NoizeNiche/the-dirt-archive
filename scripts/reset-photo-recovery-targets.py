@@ -12,6 +12,8 @@ import json
 import os
 import re
 
+from PIL import Image
+
 from pathlib import Path
 
 INDEX = Path("research/PEDAL_INDEX.json")
@@ -127,6 +129,15 @@ def main():
             asset = Path(str(image)[2:] if str(image).startswith("./") else str(image))
             if not asset.is_file():
                 reasons.append("missing local photo")
+            else:
+                try:
+                    with Image.open(asset) as im:
+                        if min(im.width, im.height) < 16:
+                            reasons.append(f"obviously corrupt photo dimensions {im.width}x{im.height}")
+                        else:
+                            im.verify()
+                except Exception as exc:
+                    reasons.append("unreadable local photo: " + str(exc))
         if not reasons:
             continue
 
