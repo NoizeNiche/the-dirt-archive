@@ -2,6 +2,9 @@ name: Sync PRP tracker
 
 on:
   workflow_dispatch:
+  push:
+    paths:
+      - research/RESEARCH_WORKER_KICK
 
 permissions:
   contents: write
