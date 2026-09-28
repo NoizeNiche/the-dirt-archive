@@ -153,7 +153,8 @@
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
       "image_source_page": "https://www.effectsdatabase.com/type/overdrive/pedal",
-      "photo_recovery_note": "Previous image provenance was an Effects Database donation graphic, not a pedal photograph. Exact-photo recovery required."
+      "photo_recovery_note": "Previous image provenance was an Effects Database donation graphic, not a pedal photograph. Exact-photo recovery required.",
+      "image": "./assets/pedals/6-degrees-fx/rodeo-drive/primary.webp"
     },
     {
       "company": "6 Degrees FX",
@@ -166,7 +167,8 @@
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
       "image_source_page": "https://www.effectsdatabase.com/type/overdrive/pedal",
-      "photo_recovery_note": "Previous image provenance was an Effects Database donation graphic, not a pedal photograph. Exact-photo recovery required."
+      "photo_recovery_note": "Previous image provenance was an Effects Database donation graphic, not a pedal photograph. Exact-photo recovery required.",
+      "image": "./assets/pedals/6-degrees-fx/sally-drive/primary.webp"
     },
     {
       "company": "A Sound Of Failure",
@@ -4855,7 +4857,8 @@
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
       "image_source_page": "https://www.effectsdatabase.com/model/ashdown",
-      "photo_recovery_note": "Previous image provenance was an Effects Database donation graphic, not a pedal photograph. Exact-photo recovery required."
+      "photo_recovery_note": "Previous image provenance was an Effects Database donation graphic, not a pedal photograph. Exact-photo recovery required.",
+      "image": "./assets/pedals/ashdown-engineering/james-lomenzo-hyper-drive/primary.webp"
     },
     {
       "company": "Ashdown Engineering",
@@ -4883,7 +4886,8 @@
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
       "image_source_page": "https://www.effectsdatabase.com/model/ashdown",
-      "photo_recovery_note": "Previous image provenance was an Effects Database donation graphic, not a pedal photograph. Exact-photo recovery required."
+      "photo_recovery_note": "Previous image provenance was an Effects Database donation graphic, not a pedal photograph. Exact-photo recovery required.",
+      "image": "./assets/pedals/ashdown-engineering/jm-john-myung-double-drive/primary.webp"
     },
     {
       "company": "Ashdown Engineering",
@@ -6743,7 +6747,8 @@
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
       "image_source_page": "https://www.effectsdatabase.com/model/backbeat",
-      "photo_recovery_note": "Previous image provenance was an Effects Database donation graphic, not a pedal photograph. Exact-photo recovery required."
+      "photo_recovery_note": "Previous image provenance was an Effects Database donation graphic, not a pedal photograph. Exact-photo recovery required.",
+      "image": "./assets/pedals/backbeat-electric/blue-blender/primary.webp"
     },
     {
       "company": "Backbeat Electric",
@@ -7341,7 +7346,8 @@
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
       "image_source_page": "https://www.effectsdatabase.com/model/bae",
-      "photo_recovery_note": "Previous image provenance was an Effects Database donation graphic, not a pedal photograph. Exact-photo recovery required."
+      "photo_recovery_note": "Previous image provenance was an Effects Database donation graphic, not a pedal photograph. Exact-photo recovery required.",
+      "image": "./assets/pedals/bae-audio/tonestack-fuzz/primary.webp"
     },
     {
       "company": "Baja Tech Custom",
@@ -11756,7 +11762,8 @@
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
       "image_source_page": "https://www.effectsdatabase.com/model/bixonic",
-      "photo_recovery_note": "Previous image provenance was an Effects Database donation graphic, not a pedal photograph. Exact-photo recovery required."
+      "photo_recovery_note": "Previous image provenance was an Effects Database donation graphic, not a pedal photograph. Exact-photo recovery required.",
+      "image": "./assets/pedals/bixonic/exp2001-expandora-ii/primary.webp"
     },
     {
       "company": "Biyang",
@@ -26549,7 +26556,8 @@
       "image_source_page": "https://www.effectsdatabase.com/taxonomy/term/8/0?page=46",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "photo_recovery_note": "Previous image provenance was an Effects Database donation graphic, not a pedal photograph. Exact-photo recovery required."
+      "photo_recovery_note": "Previous image provenance was an Effects Database donation graphic, not a pedal photograph. Exact-photo recovery required.",
+      "image": "./assets/pedals/colortone-fx-pedal-tank/gainer/primary.webp"
     },
     {
       "company": "ColorTone Fx / Pedal Tank",
@@ -26817,7 +26825,8 @@
       "image_source_page": "https://www.effectsdatabase.com/blog/discofreq?page=104",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "photo_recovery_note": "Previous image provenance was an Effects Database donation graphic, not a pedal photograph. Exact-photo recovery required."
+      "photo_recovery_note": "Previous image provenance was an Effects Database donation graphic, not a pedal photograph. Exact-photo recovery required.",
+      "image": "./assets/pedals/compulsive-audio/hair-band-distortion/primary.webp"
     },
     {
       "company": "Compulsive Audio",
@@ -26830,7 +26839,8 @@
       "image_source_page": "https://www.effectsdatabase.com/type/octave/fuzz/1up",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "photo_recovery_note": "Previous image provenance was an Effects Database donation graphic, not a pedal photograph. Exact-photo recovery required."
+      "photo_recovery_note": "Previous image provenance was an Effects Database donation graphic, not a pedal photograph. Exact-photo recovery required.",
+      "image": "./assets/pedals/compulsive-audio/jimi-octave-fuzz/primary.webp"
     },
     {
       "company": "Compulsive Audio",
@@ -26843,7 +26853,8 @@
       "image_source_page": "https://www.effectsdatabase.com/blog/discofreq?page=104",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "photo_recovery_note": "Previous image provenance was an Effects Database donation graphic, not a pedal photograph. Exact-photo recovery required."
+      "photo_recovery_note": "Previous image provenance was an Effects Database donation graphic, not a pedal photograph. Exact-photo recovery required.",
+      "image": "./assets/pedals/compulsive-audio/texas-holdem-zz/primary.webp"
     },
     {
       "company": "Compulsive Audio",
@@ -27116,7 +27127,8 @@
       "image_source_page": "https://www.effectsdatabase.com/model/coolsound",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "photo_recovery_note": "Previous image provenance was an Effects Database donation graphic, not a pedal photograph. Exact-photo recovery required."
+      "photo_recovery_note": "Previous image provenance was an Effects Database donation graphic, not a pedal photograph. Exact-photo recovery required.",
+      "image": "./assets/pedals/coolsound/a127-dirty-bass/primary.webp"
     },
     {
       "company": "Coopersonic",
@@ -28106,7 +28118,8 @@
       "image_source_page": "https://www.effectsdatabase.com/type/volume",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "photo_recovery_note": "Previous image provenance was an Effects Database donation graphic, not a pedal photograph. Exact-photo recovery required."
+      "photo_recovery_note": "Previous image provenance was an Effects Database donation graphic, not a pedal photograph. Exact-photo recovery required.",
+      "image": "./assets/pedals/cosmosound/cse-14-distortion-volume/primary.webp"
     },
     {
       "company": "Cosmosound",
@@ -45416,7 +45429,7 @@
       "types": [
         "Distortion"
       ],
-      "image": "",
+      "image": "./assets/pedals/maxon-nisshin-onpa/ds830-distortion-master/primary.webp",
       "source_page": "https://www.maxonfx.com/",
       "research_record": "./research/pedals/Maxon / Nisshin Onpa/DS830 Distortion Master.md",
       "research_level": "deep",
@@ -45459,7 +45472,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": "",
+      "image": "./assets/pedals/maxon-nisshin-onpa/fuzz-elements-earth/primary.webp",
       "source_page": "https://www.maxonfx.com/",
       "research_record": "./research/pedals/Maxon / Nisshin Onpa/Fuzz Elements Earth.md",
       "research_level": "deep",
@@ -45478,7 +45491,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": "",
+      "image": "./assets/pedals/maxon-nisshin-onpa/fuzz-elements-ether/primary.webp",
       "source_page": "https://www.maxonfx.com/",
       "research_record": "./research/pedals/Maxon / Nisshin Onpa/Fuzz Elements Ether.md",
       "research_level": "deep",
@@ -45497,7 +45510,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": "",
+      "image": "./assets/pedals/maxon-nisshin-onpa/fuzz-elements-fire/primary.webp",
       "source_page": "https://www.maxonfx.com/",
       "research_record": "./research/pedals/Maxon / Nisshin Onpa/Fuzz Elements Fire.md",
       "research_level": "deep",
@@ -45516,7 +45529,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": "",
+      "image": "./assets/pedals/maxon-nisshin-onpa/fuzz-elements-void/primary.webp",
       "source_page": "https://www.maxonfx.com/",
       "research_record": "./research/pedals/Maxon / Nisshin Onpa/Fuzz Elements Void.md",
       "research_level": "deep",
@@ -45535,7 +45548,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": "",
+      "image": "./assets/pedals/maxon-nisshin-onpa/fuzz-elements-water/primary.webp",
       "source_page": "https://www.maxonfx.com/",
       "research_record": "./research/pedals/Maxon / Nisshin Onpa/Fuzz Elements Water.md",
       "research_level": "deep",
@@ -45554,7 +45567,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": "",
+      "image": "./assets/pedals/maxon-nisshin-onpa/fuzz-elements-wind/primary.webp",
       "source_page": "https://www.maxonfx.com/",
       "research_record": "./research/pedals/Maxon / Nisshin Onpa/Fuzz Elements Wind.md",
       "research_level": "deep",
@@ -45599,7 +45612,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": "",
+      "image": "./assets/pedals/maxon-nisshin-onpa/od808/primary.webp",
       "source_page": "https://www.maxonfx.com/",
       "research_record": "./research/pedals/Maxon / Nisshin Onpa/OD808.md",
       "research_level": "deep",
@@ -45618,7 +45631,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": "",
+      "image": "./assets/pedals/maxon-nisshin-onpa/od808x/primary.webp",
       "source_page": "https://www.maxonfx.com/",
       "research_record": "./research/pedals/Maxon / Nisshin Onpa/OD808X.md",
       "research_level": "deep",
@@ -45693,7 +45706,7 @@
         "Overdrive",
         "Distortion"
       ],
-      "image": "",
+      "image": "./assets/pedals/maxon-nisshin-onpa/rtd800-real-tube-distortion/primary.webp",
       "source_page": "https://www.maxonfx.com/",
       "research_record": "./research/pedals/Maxon / Nisshin Onpa/RTD800 Real Tube Distortion.md",
       "research_level": "deep",
@@ -45778,7 +45791,7 @@
       "types": [
         "Distortion"
       ],
-      "image": "",
+      "image": "./assets/pedals/maxon-nisshin-onpa/sm-9pro-super-metal-pro/primary.webp",
       "source_page": "https://www.maxonfx.com/",
       "research_record": "./research/pedals/Maxon / Nisshin Onpa/SM-9Pro Super Metal Pro+.md",
       "research_level": "deep",
@@ -45824,7 +45837,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": "",
+      "image": "./assets/pedals/maxon-nisshin-onpa/st9pro-super-tube-overdrive-pro/primary.webp",
       "source_page": "https://www.maxonfx.com/",
       "research_record": "./research/pedals/Maxon / Nisshin Onpa/ST9Pro+ Super Tube Overdrive Pro+.md",
       "research_level": "deep",

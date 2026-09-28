@@ -72,14 +72,14 @@
   {
     "builder": "6 Degrees FX",
     "pedal": "Rodeo Drive",
-    "image": null,
+    "image": "./assets/pedals/6-degrees-fx/rodeo-drive/primary.webp",
     "source_page": "https://www.effectsdatabase.com/type/overdrive/pedal",
     "research_record": "./research/pedals/6 Degrees FX/Rodeo Drive.md"
   },
   {
     "builder": "6 Degrees FX",
     "pedal": "Sally Drive",
-    "image": null,
+    "image": "./assets/pedals/6-degrees-fx/sally-drive/primary.webp",
     "source_page": "https://www.effectsdatabase.com/type/overdrive/pedal",
     "research_record": "./research/pedals/6 Degrees FX/Sally Drive.md"
   },
@@ -2326,7 +2326,7 @@
   {
     "builder": "Ashdown Engineering",
     "pedal": "James LoMenzo Hyper Drive",
-    "image": null,
+    "image": "./assets/pedals/ashdown-engineering/james-lomenzo-hyper-drive/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/ashdown",
     "research_record": "./research/pedals/Ashdown Engineering/James LoMenzo Hyper Drive.md"
   },
@@ -2340,7 +2340,7 @@
   {
     "builder": "Ashdown Engineering",
     "pedal": "JM John Myung Double Drive",
-    "image": null,
+    "image": "./assets/pedals/ashdown-engineering/jm-john-myung-double-drive/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/ashdown",
     "research_record": "./research/pedals/Ashdown Engineering/JM John Myung Double Drive.md"
   },
@@ -3143,7 +3143,7 @@
   {
     "builder": "Backbeat Electric",
     "pedal": "Blue Blender",
-    "image": null,
+    "image": "./assets/pedals/backbeat-electric/blue-blender/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/backbeat",
     "research_record": "./research/pedals/Backbeat Electric/Blue Blender.md"
   },
@@ -3416,7 +3416,7 @@
   {
     "builder": "BAE Audio",
     "pedal": "Tonestack Fuzz",
-    "image": null,
+    "image": "./assets/pedals/bae-audio/tonestack-fuzz/primary.webp",
     "source_page": "https://www.baeaudio.com/",
     "research_record": "./research/pedals/BAE Audio/Tonestack Fuzz.md"
   },
@@ -5582,7 +5582,7 @@
   {
     "builder": "BIXONIC",
     "pedal": "EXP2001 Expandora II",
-    "image": null,
+    "image": "./assets/pedals/bixonic/exp2001-expandora-ii/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/bixonic",
     "research_record": "./research/pedals/Bixonic/EXP2001 Expandora II.md"
   },
@@ -12683,7 +12683,7 @@
   {
     "builder": "ColorTone Fx / Pedal Tank",
     "pedal": "Gainer",
-    "image": null,
+    "image": "./assets/pedals/colortone-fx-pedal-tank/gainer/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/ColorTone Fx / Pedal Tank/Gainer.md"
   },
@@ -12823,21 +12823,21 @@
   {
     "builder": "Compulsive Audio",
     "pedal": "Hair Band Distortion",
-    "image": null,
+    "image": "./assets/pedals/compulsive-audio/hair-band-distortion/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Compulsive Audio/Hair Band Distortion.md"
   },
   {
     "builder": "Compulsive Audio",
     "pedal": "Jimi - Octave Fuzz",
-    "image": null,
+    "image": "./assets/pedals/compulsive-audio/jimi-octave-fuzz/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Compulsive Audio/Jimi - Octave Fuzz.md"
   },
   {
     "builder": "Compulsive Audio",
     "pedal": "Texas Holdem ZZ",
-    "image": null,
+    "image": "./assets/pedals/compulsive-audio/texas-holdem-zz/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Compulsive Audio/Texas Holdem ZZ.md"
   },
@@ -12977,7 +12977,7 @@
   {
     "builder": "Coolsound",
     "pedal": "A127 Dirty Bass",
-    "image": null,
+    "image": "./assets/pedals/coolsound/a127-dirty-bass/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Coolsound/A127 Dirty Bass.md"
   },
@@ -13509,7 +13509,7 @@
   {
     "builder": "Cosmosound",
     "pedal": "CSE-14 Distortion/Volume",
-    "image": null,
+    "image": "./assets/pedals/cosmosound/cse-14-distortion-volume/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Cosmosound/CSE-14 Distortion-Volume.md"
   },
@@ -22826,7 +22826,7 @@
   {
     "builder": "Maxon / Nisshin Onpa",
     "pedal": "DS830 Distortion Master",
-    "image": "",
+    "image": "./assets/pedals/maxon-nisshin-onpa/ds830-distortion-master/primary.webp",
     "source_page": "https://www.maxonfx.com/",
     "research_record": "./research/pedals/Maxon / Nisshin Onpa/DS830 Distortion Master.md"
   },
@@ -22840,42 +22840,42 @@
   {
     "builder": "Maxon / Nisshin Onpa",
     "pedal": "Fuzz Elements Earth",
-    "image": "",
+    "image": "./assets/pedals/maxon-nisshin-onpa/fuzz-elements-earth/primary.webp",
     "source_page": "https://www.maxonfx.com/",
     "research_record": "./research/pedals/Maxon / Nisshin Onpa/Fuzz Elements Earth.md"
   },
   {
     "builder": "Maxon / Nisshin Onpa",
     "pedal": "Fuzz Elements Ether",
-    "image": "",
+    "image": "./assets/pedals/maxon-nisshin-onpa/fuzz-elements-ether/primary.webp",
     "source_page": "https://www.maxonfx.com/",
     "research_record": "./research/pedals/Maxon / Nisshin Onpa/Fuzz Elements Ether.md"
   },
   {
     "builder": "Maxon / Nisshin Onpa",
     "pedal": "Fuzz Elements Fire",
-    "image": "",
+    "image": "./assets/pedals/maxon-nisshin-onpa/fuzz-elements-fire/primary.webp",
     "source_page": "https://www.maxonfx.com/",
     "research_record": "./research/pedals/Maxon / Nisshin Onpa/Fuzz Elements Fire.md"
   },
   {
     "builder": "Maxon / Nisshin Onpa",
     "pedal": "Fuzz Elements Void",
-    "image": "",
+    "image": "./assets/pedals/maxon-nisshin-onpa/fuzz-elements-void/primary.webp",
     "source_page": "https://www.maxonfx.com/",
     "research_record": "./research/pedals/Maxon / Nisshin Onpa/Fuzz Elements Void.md"
   },
   {
     "builder": "Maxon / Nisshin Onpa",
     "pedal": "Fuzz Elements Water",
-    "image": "",
+    "image": "./assets/pedals/maxon-nisshin-onpa/fuzz-elements-water/primary.webp",
     "source_page": "https://www.maxonfx.com/",
     "research_record": "./research/pedals/Maxon / Nisshin Onpa/Fuzz Elements Water.md"
   },
   {
     "builder": "Maxon / Nisshin Onpa",
     "pedal": "Fuzz Elements Wind",
-    "image": "",
+    "image": "./assets/pedals/maxon-nisshin-onpa/fuzz-elements-wind/primary.webp",
     "source_page": "https://www.maxonfx.com/",
     "research_record": "./research/pedals/Maxon / Nisshin Onpa/Fuzz Elements Wind.md"
   },
@@ -22896,14 +22896,14 @@
   {
     "builder": "Maxon / Nisshin Onpa",
     "pedal": "OD808",
-    "image": "",
+    "image": "./assets/pedals/maxon-nisshin-onpa/od808/primary.webp",
     "source_page": "https://www.maxonfx.com/",
     "research_record": "./research/pedals/Maxon / Nisshin Onpa/OD808.md"
   },
   {
     "builder": "Maxon / Nisshin Onpa",
     "pedal": "OD808X",
-    "image": "",
+    "image": "./assets/pedals/maxon-nisshin-onpa/od808x/primary.webp",
     "source_page": "https://www.maxonfx.com/",
     "research_record": "./research/pedals/Maxon / Nisshin Onpa/OD808X.md"
   },
@@ -22938,7 +22938,7 @@
   {
     "builder": "Maxon / Nisshin Onpa",
     "pedal": "RTD800 Real Tube Distortion",
-    "image": "",
+    "image": "./assets/pedals/maxon-nisshin-onpa/rtd800-real-tube-distortion/primary.webp",
     "source_page": "https://www.maxonfx.com/",
     "research_record": "./research/pedals/Maxon / Nisshin Onpa/RTD800 Real Tube Distortion.md"
   },
@@ -22973,7 +22973,7 @@
   {
     "builder": "Maxon / Nisshin Onpa",
     "pedal": "SM-9Pro Super Metal Pro+",
-    "image": "",
+    "image": "./assets/pedals/maxon-nisshin-onpa/sm-9pro-super-metal-pro/primary.webp",
     "source_page": "https://www.maxonfx.com/",
     "research_record": "./research/pedals/Maxon / Nisshin Onpa/SM-9Pro Super Metal Pro+.md"
   },
@@ -22994,7 +22994,7 @@
   {
     "builder": "Maxon / Nisshin Onpa",
     "pedal": "ST9Pro+ Super Tube Overdrive Pro+",
-    "image": "",
+    "image": "./assets/pedals/maxon-nisshin-onpa/st9pro-super-tube-overdrive-pro/primary.webp",
     "source_page": "https://www.maxonfx.com/",
     "research_record": "./research/pedals/Maxon / Nisshin Onpa/ST9Pro+ Super Tube Overdrive Pro+.md"
   },
