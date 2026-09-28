@@ -218,6 +218,7 @@ def main():
     parser.add_argument("--mode", choices=["auto","all","changed"], default="auto")
     parser.add_argument("--output", default="photo-content-audit.csv")
     parser.add_argument("--fail-high-confidence", action="store_true")
+    parser.add_argument("--workers", type=int, default=max(2, min(8, (os.cpu_count() or 4))))
     parser.add_argument("--shard", type=int, default=0)
     parser.add_argument("--shards", type=int, default=1)
     args = parser.parse_args()
@@ -278,7 +279,7 @@ def main():
             or any(flag.startswith("unreadable_image:") for flag in flags)
         )
         return row, contaminated
-    with ThreadPoolExecutor(max_workers=max(2, min(6, (os.cpu_count() or 4)))) as executor:
+    with ThreadPoolExecutor(max_workers=max(2, min(8, args.workers))) as executor:
         futures = [executor.submit(audit_one, pair) for pair in ordered_targets]
         results = [future.result() for future in futures]
     for row, contaminated in results:
