@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-28T04:35:17.622944+00:00",
+  "generated_at": "2026-09-28T04:36:44.090641+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,8 +10,8 @@
     "pictured": 3639,
     "complete": 3639,
     "research_pending": 0,
-    "deep_research_pending": 185,
-    "deep_researched": 4021,
+    "deep_research_pending": 184,
+    "deep_researched": 4022,
     "surface_ready": 4206
   },
   "next_target": {
@@ -90,13 +90,6 @@
       "pedal": "Super Phat Mod Mini",
       "catalog_type": "Distortion / Overdrive",
       "research_record": "./research/pedals/Keeley Electronics/Super Phat Mod Mini.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "KMA Machines",
-      "pedal": "Queequeq 2",
-      "catalog_type": "Fuzz",
-      "research_record": "./research/pedals/KMA Machines/Queequeq 2.md",
       "research_level": "surface"
     },
     {
@@ -195,6 +188,13 @@
       "pedal": "Saltstorm Overdrive",
       "catalog_type": "Overdrive",
       "research_record": "./research/pedals/MadeByMike/Saltstorm Overdrive.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Marshall Amplification",
+      "pedal": "1959 Overdrive Pedal",
+      "catalog_type": "Overdrive",
+      "research_record": "./research/pedals/Marshall Amplification/1959 Overdrive Pedal.md",
       "research_level": "surface"
     }
   ]
