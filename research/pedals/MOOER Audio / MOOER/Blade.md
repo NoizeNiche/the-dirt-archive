@@ -1,23 +1,48 @@
 # MOOER Audio / MOOER — Blade
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Blade
 - **Builder:** MOOER Audio / MOOER
-- **Pedal:** Blade
 - **Catalog type:** Distortion
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Research level:** Deep
+- **Deep research status:** Verified
+- **Identity:** MOOER Blade distortion pedal.
+
+## Deep research verification
+- **Exact-model evidence:** Verified against MOOER's exact Blade product page.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Blade** by **MOOER Audio / MOOER** as a **Distortion** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+MOOER lists the Blade as a compact distortion with three boost modes that alter the high-frequency emphasis around the distortion voice. [1]
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Controls and modes
+- **Gain:** distortion amount.
+- **Tone:** tonal balance.
+- **Volume:** output.
+- **Boost:** **Lo Boost / Boost Off / Hi Boost**. Lo Boost applies a smaller high-frequency boost; Hi Boost applies a stronger boost. [1]
+
+## Architecture
+The manufacturer documentation establishes the operating modes and external behavior but does not publish a complete schematic or production semiconductor complement.
+
+## Transistor
+- **Exact production transistor/device:** Unknown.
+
+## Diode
+- **Exact production clipping diode:** Unknown.
+
+## Power and physical specification
+- **Bypass:** true bypass. [1]
+- **Power:** 9VDC center-negative. [1]
+- **Current draw:** 20 mA. [1]
+- **Input impedance:** 1MΩ. [1]
+- **Output impedance:** 470Ω. [1]
+- **Dimensions:** 93.5 × 42 × 52 mm. [1]
+- **Weight:** 160 g. [1]
+
+## Sound
+MOOER's three boost settings provide progressively different high-frequency emphasis, letting the same distortion voice be matched to different pickup, amp, and gain situations. [1]
+
+## Sources checked
+1. **MOOER Audio — Blade:** https://www.mooeraudio.com/product/Blade--148.html
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately.
