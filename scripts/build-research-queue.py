@@ -219,7 +219,7 @@ def main():
     if next_target:
         target_text = f"{next_target['builder']} - {next_target['pedal']}"
     else:
-        target_text = "None. Research queue is complete."
+        target_text = "None. Research queue is complete"
 
     closeout = (
         f"PRP1 closeout remains separate: {photo_pending} researched record(s) "
