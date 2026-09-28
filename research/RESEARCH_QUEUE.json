@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-28T09:37:37.843006+00:00",
+  "generated_at": "2026-09-28T09:38:01.663237+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,8 +10,8 @@
     "pictured": 3854,
     "complete": 3854,
     "research_pending": 0,
-    "deep_research_pending": 105,
-    "deep_researched": 4101,
+    "deep_research_pending": 103,
+    "deep_researched": 4103,
     "surface_ready": 4206
   },
   "next_target": {
@@ -90,20 +90,6 @@
       "pedal": "Classic Distortion",
       "catalog_type": "Distortion",
       "research_record": "./research/pedals/MI Audio / MI Effects/Classic Distortion.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "MI Audio / MI Effects",
-      "pedal": "Crunch Box",
-      "catalog_type": "Distortion",
-      "research_record": "./research/pedals/MI Audio / MI Effects/Crunch Box.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "MI Audio / MI Effects",
-      "pedal": "Super Crunch Box V2",
-      "catalog_type": "Distortion",
-      "research_record": "./research/pedals/MI Audio / MI Effects/Super Crunch Box V2.md",
       "research_level": "surface"
     },
     {
@@ -195,6 +181,20 @@
       "pedal": "Green Mile",
       "catalog_type": "Overdrive",
       "research_record": "./research/pedals/MOOER Audio / MOOER/Green Mile.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "MOOER Audio / MOOER",
+      "pedal": "Greenwood",
+      "catalog_type": "Overdrive",
+      "research_record": "./research/pedals/MOOER Audio / MOOER/Greenwood.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "MOOER Audio / MOOER",
+      "pedal": "Grey Faze",
+      "catalog_type": "Fuzz",
+      "research_record": "./research/pedals/MOOER Audio / MOOER/Grey Faze.md",
       "research_level": "surface"
     }
   ]

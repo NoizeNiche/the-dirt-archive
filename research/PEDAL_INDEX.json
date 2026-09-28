@@ -45546,8 +45546,8 @@
       "image": "./assets/pedals/mi-audio-mi-effects/crunch-box/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/MI Audio / MI Effects/Crunch Box.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "MI Audio / MI Effects",
@@ -45607,8 +45607,8 @@
       "image": "./assets/pedals/mi-audio-mi-effects/super-crunch-box-v2/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/MI Audio / MI Effects/Super Crunch Box V2.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "MI Audio / MI Effects",
