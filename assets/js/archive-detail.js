@@ -498,6 +498,9 @@ loadCatalog()
   $('crumb').textContent=(item.types||[]).join(' · ')+' · '+item.company;
   $('name').textContent=item.pedal;
   $('builder').textContent=item.company;
+  const builderArchiveUrl=new URL('./builder.html',location.href);builderArchiveUrl.searchParams.set('builder',item.company);
+  $('builderLink').href=builderArchiveUrl.href;
+  const builderFilterUrl=contextIndexUrl();builderFilterUrl.searchParams.set('builder',item.company);$('builderFilterLink').href=builderFilterUrl.href;
 
   $('types').innerHTML=(item.types||[]).map(t=>'<span class="chip">'+esc(t)+'</span>').join('');
   showPhoto(item);
