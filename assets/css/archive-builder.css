@@ -39,3 +39,9 @@
 @media(max-width:820px){.builderHeroTop{align-items:flex-start;flex-direction:column}.builderStats{grid-template-columns:repeat(3,minmax(0,1fr))}.builderControls{align-items:stretch;flex-direction:column}.builderSearchWrap{width:100%}.builderTypeToggle{justify-content:flex-start}}
 @media(max-width:620px){.builderStats{grid-template-columns:repeat(2,minmax(0,1fr))}.builderGrid{grid-template-columns:repeat(2,minmax(0,1fr))}.builderCardName{font-size:.65rem}.builderActions{width:100%}.builderActions .action{flex:1}}
 @media(max-width:440px){.builderStats{grid-template-columns:1fr 1fr}.builderStats strong{font-size:1rem}}
+
+.builderPhotoToggle{display:flex;gap:4px;flex-wrap:wrap}
+.builderPhotoButton{border:1px solid #b9b8b0;border-radius:10px;background:transparent;color:var(--ink);padding:8px 10px;font-size:.55rem;font-weight:950;text-transform:uppercase;letter-spacing:.06em;cursor:pointer}
+.builderPhotoButton:hover{background:#efede6}.builderPhotoButton.active{background:var(--deep);border-color:var(--deep);color:#f7f5ef}
+.builderPhotoButton span{margin-left:5px;color:var(--muted);font-variant-numeric:tabular-nums}.builderPhotoButton.active span{color:#c9ff5e}
+.builderPhotoButton:focus-visible{outline:2px solid var(--acid);outline-offset:2px}
