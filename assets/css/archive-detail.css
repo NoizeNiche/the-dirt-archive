@@ -211,3 +211,7 @@ a:focus-visible,.pageHome:focus-visible,.action:focus-visible,.pageTypeLink:focu
 @media(max-width:760px){
   .siteFooter .wrap{align-items:flex-start;flex-direction:column}
 }
+
+.action.compareActive{background:var(--accent);border-color:var(--accent);color:#111}
+.action:disabled{opacity:.45;cursor:default}
+.action:focus-visible{outline:2px solid var(--accent);outline-offset:3px}
