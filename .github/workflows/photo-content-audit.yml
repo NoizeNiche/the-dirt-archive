@@ -7,6 +7,7 @@ on:
       - 'research/PEDAL_INDEX.json'
       - 'research/PHOTO_CONTENT_AUDIT_KICK'
       - 'scripts/audit-photo-content.py'
+      - 'research/PHOTO_SOURCE_BLOCKLIST.json'
       - '.github/workflows/photo-content-audit.yml'
   workflow_dispatch:
   schedule:
