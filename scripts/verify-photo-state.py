@@ -147,9 +147,9 @@ def main():
                 )
             try:
                 with Image.open(asset) as im:
-                    if im.width < 200 or im.height < 200:
+                    if min(im.width, im.height) < 160 or max(im.width, im.height) / min(im.width, im.height) > 3.0:
                         raise SystemExit(
-                            f"Picture=DONE has a too-small local photo for {k}: "
+                            f"Picture=DONE has a thumbnail/banner-sized local photo for {k}: "
                             f"{im.width}x{im.height}"
                         )
                     im.verify()
