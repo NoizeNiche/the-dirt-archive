@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 import json
 import re
+import hashlib
 from pathlib import Path
 from PIL import Image
 try:
@@ -11,6 +12,8 @@ except Exception:
 ROOT = Path(".")
 ARTIFACTS = ROOT / "recovery-artifacts"
 PHOTO_SOURCE_BLOCKLIST = ROOT / "research/PHOTO_SOURCE_BLOCKLIST.json"
+INDEX = ROOT / "research/PEDAL_INDEX.json"
+ASSET_ROOT = ROOT / "assets/pedals"
 
 def http(v):
     return str(v or "").startswith(("http://", "https://"))
@@ -30,8 +33,30 @@ def load_blocked_url(value):
         pass
     return False
 
+
+def local_image_hashes():
+    hashes = {}
+    try:
+        catalog = json.loads(INDEX.read_text(encoding="utf-8")).get("pedals", [])
+    except Exception:
+        return hashes
+    for entry in catalog:
+        image = str(entry.get("image") or "").strip()
+        if not image or image.startswith(("http://","https://")):
+            continue
+        path = ROOT / image.lstrip("./")
+        if not path.is_file():
+            continue
+        try:
+            digest = hashlib.sha256(path.read_bytes()).hexdigest()
+        except OSError:
+            continue
+        hashes.setdefault(digest, []).append((entry.get("company") or "", entry.get("pedal") or ""))
+    return hashes
+
 def main():
     verdicts = []
+    existing_hashes = local_image_hashes()
     if not ARTIFACTS.exists():
         print("Photo foreman: no artifacts.")
         return
@@ -73,6 +98,9 @@ def main():
                     else:
                         with Image.open(candidate) as im:
                             im.verify()
+                            if im.width < 120 or im.height < 120:
+                                ok = False
+                                reason = "specific recovered image dimensions below 120px"
                         if pytesseract is not None:
                             with Image.open(candidate) as im:
                                 probe = im.convert("RGB")
@@ -85,6 +113,12 @@ def main():
                             if hit:
                                 ok = False
                                 reason = "recovered photo contains a high-confidence donation/platform overlay: " + hit
+                candidate_hash = hashlib.sha256(candidate.read_bytes()).hexdigest() if candidate and candidate.is_file() else ""
+                identity = (str(result.get("builder") or ""), str(result.get("pedal") or ""))
+                reused = [pair for pair in existing_hashes.get(candidate_hash, []) if pair != identity]
+                if reused:
+                    ok = False
+                    reason = "recovered image bytes already belong to another catalog identity: " + "; ".join(f"{b} / {p}" for b,p in reused[:4])
                 source_url = str(result.get("image_source_url") or "").lower()
                 if load_blocked_url(source_url):
                     ok = False
