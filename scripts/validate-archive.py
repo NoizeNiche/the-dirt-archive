@@ -3,6 +3,7 @@
 
 from __future__ import annotations
 import csv
+import hashlib
 import json
 import re
 import subprocess
@@ -83,6 +84,31 @@ def main():
         raise SystemExit("PEDAL_INDEX.json and PEDAL_IMAGES.json identities disagree.")
 
     catalog_by_key = {pair(x.get("company"), x.get("pedal")): x for x in pedals}
+
+    local_image_owners = {}
+    for entry in pedals:
+        image = entry.get("image")
+        if not image or re.match(r"^https?://", str(image), re.I):
+            continue
+        image_path = local(image)
+        if not image_path.is_file():
+            continue
+        digest = hashlib.sha256(image_path.read_bytes()).hexdigest()
+        local_image_owners.setdefault(digest, []).append(
+            pair(entry.get("company"), entry.get("pedal"))
+        )
+    duplicate_local_blobs = {
+        digest: keys for digest, keys in local_image_owners.items() if len(set(keys)) > 1
+    }
+    if duplicate_local_blobs:
+        examples = "; ".join(
+            digest[:12] + ": " + ", ".join(f"{builder} / {pedal}" for builder, pedal in keys)
+            for digest, keys in list(duplicate_local_blobs.items())[:8]
+        )
+        raise SystemExit(
+            "Distinct pedal identities share identical local image bytes. "
+            "Review photo provenance before publication: " + examples
+        )
 
     with PHOTO_SOURCE_OVERRIDES.open(newline="", encoding="utf-8") as handle:
         overrides = list(csv.DictReader(handle))
