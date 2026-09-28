@@ -4,47 +4,51 @@
 - **Archive parent:** ThunderClaw
 - **Builder:** Mr. Black
 - **Catalog type:** Distortion / Overdrive
-- **Identity:** Mr. Black's ThunderClaw.
+- **Research level:** Deep
+- **Deep research status:** Verified
+- **Identity:** Mr. Black ThunderClaw high-gain distortion.
+
+## Deep research verification
+- **Exact-model evidence:** Verified against Mr. Black's exact product page and independent tracing documentation.
 
 ## What this pedal is
-Close ThunderClaw Sale Regular price $199.95 Default Title - $199.95 USD Quantity Add to Cart Purpose built to bring the heavies, the ThunerClaw is one mean, heavy and powerful distortion pedal, but cruelty doesn’t always exclude grace...
+Mr. Black describes ThunderClaw as a fully analog, high-headroom distortion with active tone controls, an active low-impedance output stage, and an internal split-rail power supply. [1]
 
-## Colorways
-- Black Videos Where to Buy Shipping, Warranty & Returns Service & Repairs Shipping/Warranty/Returns Shipping, Warranty and Returns Service & Repairs Retailers Straight Jive Service & Repairs The Black List Contact Account Item added to cart.
-- Black ThunderClaw ThunderClaw The Mr.
-- Black ThunderClaw is a high-gain distortion pedal for electric guitars, offering a wide range of tones with its Output, Distort, Bass, and Treble controls.
+## Controls
+- **DISTORT:** distortion/gain control. [1][2]
+- **BASS:** active bass boost/cut. [1][2]
+- **TREBLE:** active treble boost/cut. [1][2]
+- **VOLUME:** active master output control. [1][2]
 
-## Versions and factory options
-- The verified evidence references: revision.
-- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
-
-## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+## Circuit / architecture
+The manufacturer documents internal **+/-9V split-rail operation** from a 9VDC input. [1] Aion FX's 2024 tracing journal identifies an op-amp boost followed by back-to-back diodes to ground in the input/clipping region, cascaded active tone controls, and an active output stage. Aion also documents a bipolar charge-pump power supply. [3]
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
-- **Exact transistor/device:** Unknown.
+- **Exact production transistor/device:** Not established in the verified manufacturer/tracing material.
 
 ## Diode
-- Documented terms in the verified sources: LED.
-- The archive records only the component information explicitly present in these sources.
+- **Documented clipping:** back-to-back diodes to ground in the traced clipping section. [3]
+- **Exact production diode part number:** The verified sources checked do not establish a production part number.
+
+## Power and physical specification
+- **Input:** 9VDC, 2.1mm negative center. [1]
+- **Internal supply:** +/-9V split rail. [1][3]
+- **Current draw:** approximately 27mA. [1]
+- **Input impedance:** approximately 480kΩ. [1]
+- **Output impedance:** approximately 1kΩ. [1]
+- **Bypass:** true bypass. [1]
+
+## Version/history
+Aion FX dates the original ThunderClaw release to **2014** and documents two traced units as electrically identical, with unpopulated pads suggesting development experimentation rather than a confirmed production revision. [3]
 
 ## Sound
-Deuce Coupe Regular price $199.95 View CAT Distortion Regular price $219.95 Sale price $149.95 Sale View GilaMondo Throwback Special Regular price $219.95 Sale price $199.95 Sale View Heaven's Gate Regular price $199.95 View F.A.Q.
-Close Close Buy any pedal and add a Vintage Overdrive for $50.00!!
-Close ThunderClaw Sale Regular price $199.95 Default Title - $199.95 USD Quantity Add to Cart Purpose built to bring the heavies, the ThunerClaw is one mean, heavy and powerful distortion pedal, but cruelty doesn’t always exclude grace...
+Mr. Black describes ThunderClaw as aggressive but dynamic, with a strong low end and active treble/bass shaping. The manufacturer also notes that the high-gain circuit can clean up from volume reduction at its input. [1]
 
 ## Sources checked
-1. ThunderClaw &ndash; Mr. Black: https://www.mrblackpedals.com/products/thunderclaw
-2. Mr. Black Thunderclaw Distortion - Reverb: https://reverb.com/p/mr-black-thunderclaw-distortion
-3. Mr. Black ThunderClaw — Overdrive Pedal | Equipboard: https://equipboard.com/items/mr-black-thunderclaw
-4. Mr. Black ThunderClaw | AllThePedals: https://allthepedals.com/pedals/mr-black-thunderclaw
-5. Tracing Journal: Mr. Black Thunderclaw - Aion FX: https://aionfx.com/news/tracing-journal-mr-black-thunderclaw/
-6. PDF high-gain distortion machine: https://mrblack.jackdeville.com/manuals/thunderclaw-manual.pdf
-7. Mr. Black ThunderClaw Manual: AI Chat & PDF Download | Manualzz: https://manualzz.com/doc/6460393/mr.-black-thunderclaw-guitar-effects-pedal-instruction-ma...
-8. Mr. Black ThunderClaw – Read, Download & Print Free | Manual.ly: https://en.manual.ly/mr-black/mr-black-thunderclaw/manual
-9. Thunderclaw by Mr. Black | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/Mr-Black/Thunderclaw/68982567/
-10. Mr. Black Thunderclaw - Effects Database: https://www.effectsdatabase.com/model/mrblack/thunderclaw
+1. **Mr. Black — ThunderClaw:** https://www.mrblackpedals.com/products/thunderclaw
+2. **AllThePedals — Mr. Black ThunderClaw:** https://allthepedals.com/pedals/mr-black-thunderclaw
+3. **Aion FX — Tracing Journal: Mr. Black Thunderclaw:** https://aionfx.com/news/tracing-journal-mr-black-thunderclaw/
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately.
+- Exact-model photo provenance remains governed by the archive's photo identity gate.
