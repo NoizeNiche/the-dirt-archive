@@ -333,18 +333,39 @@ function updateMetaDescription(item){
   const title=item.pedal+' · The Dirt Archive';
   const description='Explore '+item.pedal+', a '+types+' pedal by '+item.company+', in The Dirt Archive.';
   const url=location.href.split('#')[0];
+  const image=item?.image && /^\.?\/assets\/pedals\//.test(String(item.image))
+    ? new URL(String(item.image).replace(/^\.\//,''),location.href).href
+    : '';
   const meta=document.querySelector('meta[name="description"]');
   if(meta)meta.setAttribute('content',description);
+  const canonical=document.querySelector('link[rel="canonical"]');
+  if(canonical)canonical.setAttribute('href',url);
   document.title=title;
   for(const [selector,content] of [
     ['meta[property="og:title"]',title],
     ['meta[property="og:description"]',description],
     ['meta[property="og:url"]',url],
+    ['meta[property="og:image"]',image],
     ['meta[name="twitter:title"]',title],
-    ['meta[name="twitter:description"]',description]
+    ['meta[name="twitter:description"]',description],
+    ['meta[name="twitter:image"]',image]
   ]){
     const el=document.querySelector(selector);
     if(el)el.setAttribute('content',content);
+  }
+
+  const structured=document.getElementById('pedalStructuredData');
+  if(structured){
+    structured.textContent=JSON.stringify({
+      '@context':'https://schema.org',
+      '@type':'Product',
+      name:item.pedal,
+      brand:{'@type':'Brand',name:item.company},
+      category:types,
+      description:description,
+      url:url,
+      ...(image?{image:[image]}:{})
+    });
   }
 }
 
