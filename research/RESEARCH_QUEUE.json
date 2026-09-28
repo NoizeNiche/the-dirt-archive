@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-28T04:39:26.910361+00:00",
+  "generated_at": "2026-09-28T04:40:39.651261+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,8 +10,8 @@
     "pictured": 3639,
     "complete": 3639,
     "research_pending": 0,
-    "deep_research_pending": 184,
-    "deep_researched": 4022,
+    "deep_research_pending": 183,
+    "deep_researched": 4023,
     "surface_ready": 4206
   },
   "next_target": {
@@ -108,13 +108,6 @@
     },
     {
       "builder": "Limetone Audio",
-      "pedal": "JACKAL MIDNIGHT ADD CBF OD/DS/FZ",
-      "catalog_type": "Distortion / Fuzz / Overdrive",
-      "research_record": "./research/pedals/Limetone Audio/JACKAL MIDNIGHT ADD CBF OD/DS/FZ.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Limetone Audio",
       "pedal": "JACKAL MIDNIGHT OD/DS/FZ",
       "catalog_type": "Distortion / Fuzz / Overdrive",
       "research_record": "./research/pedals/Limetone Audio/JACKAL MIDNIGHT OD/DS/FZ.md",
@@ -195,6 +188,13 @@
       "pedal": "1959 Overdrive Pedal",
       "catalog_type": "Overdrive",
       "research_record": "./research/pedals/Marshall Amplification/1959 Overdrive Pedal.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Marshall Amplification",
+      "pedal": "Bluesbreaker Vintage Reissue",
+      "catalog_type": "Overdrive",
+      "research_record": "./research/pedals/Marshall Amplification/Bluesbreaker Vintage Reissue.md",
       "research_level": "surface"
     }
   ]
