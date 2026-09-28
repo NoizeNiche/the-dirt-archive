@@ -12,6 +12,15 @@ The research queue is generated from the canonical catalog and tracker; do not h
 Last refreshed: 2026-09-28T21:20:46.010499+00:00
 <!-- AUTO:RESEARCH_PHASE_END -->
 
+## 100-builder advisory checkpoint - September 28, 2026
+
+A synthetic 100-builder advisory council was added using 100 canonical builder identities already represented in the archive. The panel is grounded in publicly documented builder practices and is explicitly not presented as private interviews, votes, or endorsements.
+
+The strongest builder-facing needs were accurate product identity, discontinued-model preservation, revision/lineage context, manuals and official support links, builder correction/contribution intake, exact-photo contribution, collaboration context, and careful treatment of custom/one-off work.
+
+Detailed council matrix: research/100_BUILDER_COUNCIL.md.
+
+
 ## Synthetic 100-user usability checkpoint - September 28, 2026
 
 A 100-session synthetic usability exercise was run against the current public interaction model. The sessions covered 20 visitor archetypes including shoppers, players, collectors, repair technicians, studio users, DIY builders, historians, mobile visitors, beginners, and archivists. This is hypothesis-generating product research, not real user analytics.
