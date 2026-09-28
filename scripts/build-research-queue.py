@@ -188,10 +188,13 @@ def main():
     )
     next_target = deep_research_pending[0] if deep_research_pending else None
 
+    photo_pending = max(researched - pictured, 0)
+    active_phase = "Catalog Research Phase" if deep_research_pending else ("Photo Recovery & Production QA" if photo_pending else "Complete")
+
     queue = {
         "version": "catalog-research-phase-v2",
         "generated_at": datetime.now(timezone.utc).isoformat(),
-        "active_phase": "Catalog Research Phase",
+        "active_phase": active_phase,
         "canonical_source": "research/PEDAL_INDEX.json",
         "status_source": "research/PRP_TRACKER.csv",
         "counts": {
@@ -213,7 +216,6 @@ def main():
         encoding="utf-8",
     )
 
-    photo_pending = max(researched - pictured, 0)
     if next_target:
         target_text = f"{next_target['builder']} - {next_target['pedal']}"
     else:
@@ -229,7 +231,7 @@ def main():
     block = (
         f"{START}\n"
         "## Active phase checkpoint\n\n"
-        "The active production phase is **Catalog Research Phase**. "
+        f"The active production phase is **{active_phase}**. "
         "PRP1 is retained only as a legacy publication/closeout mechanism.\n\n"
         f"Live catalog: **{len(pedals)} total / {surface_ready} surface-ready / {deep_researched} deep-researched / "
         f"{researched} research-linked / {pictured} pictured / {complete} complete / "
