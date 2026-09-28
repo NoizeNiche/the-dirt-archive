@@ -28454,7 +28454,7 @@
   {
     "builder": "Visual Sound / Truetone",
     "pedal": "VS-XO",
-    "image": null,
+    "image": "./assets/pedals/visual-sound-truetone/vs-xo/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Visual Sound / Truetone/VS-XO.md"
   },
@@ -29693,7 +29693,7 @@
   {
     "builder": "Xotic Effects",
     "pedal": "Soul Driven — Mid-boost Overdrive",
-    "image": null,
+    "image": "./assets/pedals/xotic-effects/soul-driven-mid-boost-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Xotic Effects/Soul Driven — Mid-boost Overdrive.md"
   },
