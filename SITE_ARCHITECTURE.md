@@ -162,6 +162,15 @@ Bulk photo caching also processes pictured records that still use an external im
 
 The internal `research/pedals/PEDAL_IMAGES.json` manifest mirrors the same local image path and provenance.
 
+## Public discoverability layer
+
+The public archive includes two derived crawler-facing files:
+
+- `sitemap.xml` is generated from `research/PEDAL_INDEX.json` by `scripts/build-sitemap.py`. It contains one URL for each non-variation public pedal record plus the archive, methodology, and audit pages.
+- `robots.txt` permits normal crawling and points crawlers at the generated sitemap.
+
+These files are derived publication state. They must not become an independent list of pedal identities; the canonical catalog remains `research/PEDAL_INDEX.json`.
+
 ## Operational ownership map - September 21, 2026
 
 The repository uses a single-owner rule for every moving part:
