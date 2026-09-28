@@ -32355,7 +32355,9 @@
       "source_page": "https://www.effectsdatabase.com/model/deviever",
       "research_record": "./research/pedals/Devi Ever FX/Fuzz.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://assets.equipboard.com/assets/tailwind_layout/equipboard-logo-dark-0246d7d7decd172d03928e89654287c57c5251d0a87146c42edcc342f4443033.svg",
+      "image_source_page": "https://equipboard.com/items/devi-ever-fx-vintage-fuzz-master"
     },
     {
       "company": "Devi Ever FX",
@@ -32654,11 +32656,13 @@
       "types": [
         "Fuzz"
       ],
-      "image": "",
+      "image": "./assets/pedals/devi-ever-fx/punch-love/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/deviever",
       "research_record": "./research/pedals/Devi Ever FX/Punch Love.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://files.effectsdatabase.com/brands/pics/deviever_001.jpg",
+      "image_source_page": "https://www.effectsdatabase.com/model/deviever"
     },
     {
       "company": "Devi Ever FX",
@@ -32794,11 +32798,13 @@
       "types": [
         "Fuzz"
       ],
-      "image": "",
+      "image": "./assets/pedals/devi-ever-fx/sucka-punch/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/deviever",
       "research_record": "./research/pedals/Devi Ever FX/Sucka Punch.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://files.effectsdatabase.com/brands/pics/deviever_001.jpg",
+      "image_source_page": "https://www.effectsdatabase.com/model/deviever"
     },
     {
       "company": "Devi Ever FX",
@@ -33119,11 +33125,13 @@
         "Overdrive",
         "Boost"
       ],
-      "image": null,
+      "image": "./assets/pedals/dinosaural/cogmeister/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/dinosaural",
       "research_record": "./research/pedals/Dinosaural/Cogmeister.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://files.effectsdatabase.com/brands/thumbs/dinosaural_000.jpg",
+      "image_source_page": "https://www.effectsdatabase.com/model/dinosaural"
     },
     {
       "company": "Dinosaural",
@@ -35735,11 +35743,13 @@
       "types": [
         "Overdrive"
       ],
-      "image": "",
+      "image": "./assets/pedals/electronic-audio-experiments/0xeae-bass-driver/primary.webp",
       "source_page": "https://www.electronicaudioexperiments.com/legacy",
       "research_record": "./research/pedals/Electronic Audio Experiments/0xEAE Bass Driver.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://images.squarespace-cdn.com/content/v1/56a5a0e242f55268768a0c2b/0ac39b4e-d012-4a88-969f-7d358ad70bb8/DSCF0153.jpg?format=500w",
+      "image_source_page": "https://www.electronicaudioexperiments.com/legacy"
     },
     {
       "company": "Electronic Audio Experiments",
@@ -35747,11 +35757,13 @@
       "types": [
         "Overdrive"
       ],
-      "image": "",
+      "image": "./assets/pedals/electronic-audio-experiments/0xeae-boost/primary.webp",
       "source_page": "https://www.electronicaudioexperiments.com/legacy",
       "research_record": "./research/pedals/Electronic Audio Experiments/0xEAE Boost.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://images.squarespace-cdn.com/content/v1/56a5a0e242f55268768a0c2b/0ac39b4e-d012-4a88-969f-7d358ad70bb8/DSCF0153.jpg?format=500w",
+      "image_source_page": "https://www.electronicaudioexperiments.com/legacy"
     },
     {
       "company": "Electronic Audio Experiments",
@@ -35759,11 +35771,13 @@
       "types": [
         "Fuzz"
       ],
-      "image": "",
+      "image": "./assets/pedals/electronic-audio-experiments/0xeae-fuzz/primary.webp",
       "source_page": "https://www.electronicaudioexperiments.com/legacy",
       "research_record": "./research/pedals/Electronic Audio Experiments/0xEAE Fuzz.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://images.squarespace-cdn.com/content/v1/56a5a0e242f55268768a0c2b/0ac39b4e-d012-4a88-969f-7d358ad70bb8/DSCF0153.jpg?format=500w",
+      "image_source_page": "https://www.electronicaudioexperiments.com/legacy"
     },
     {
       "company": "Electronic Audio Experiments",
@@ -35783,11 +35797,13 @@
       "types": [
         "Overdrive"
       ],
-      "image": "",
+      "image": "./assets/pedals/electronic-audio-experiments/dagger/primary.webp",
       "source_page": "https://www.electronicaudioexperiments.com/legacy",
       "research_record": "./research/pedals/Electronic Audio Experiments/Dagger.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://images.squarespace-cdn.com/content/v1/56a5a0e242f55268768a0c2b/0ac39b4e-d012-4a88-969f-7d358ad70bb8/DSCF0153.jpg?format=500w",
+      "image_source_page": "https://www.electronicaudioexperiments.com/legacy"
     },
     {
       "company": "Electronic Audio Experiments",
@@ -35796,11 +35812,13 @@
         "Overdrive",
         "Fuzz"
       ],
-      "image": "",
+      "image": "./assets/pedals/electronic-audio-experiments/dude-incredible/primary.webp",
       "source_page": "https://www.electronicaudioexperiments.com/legacy",
       "research_record": "./research/pedals/Electronic Audio Experiments/Dude Incredible.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://images.squarespace-cdn.com/content/v1/56a5a0e242f55268768a0c2b/1579323085488-0OYREVBK09IH99XB0163/Mu%252BBlaster1.jpg?format=500w",
+      "image_source_page": "https://www.electronicaudioexperiments.com/legacy"
     },
     {
       "company": "Electronic Audio Experiments",
@@ -35808,11 +35826,13 @@
       "types": [
         "Fuzz"
       ],
-      "image": "",
+      "image": "./assets/pedals/electronic-audio-experiments/eldritch-blast/primary.webp",
       "source_page": "https://www.electronicaudioexperiments.com/legacy",
       "research_record": "./research/pedals/Electronic Audio Experiments/Eldritch Blast.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://images.squarespace-cdn.com/content/v1/56a5a0e242f55268768a0c2b/0ac39b4e-d012-4a88-969f-7d358ad70bb8/DSCF0153.jpg?format=500w",
+      "image_source_page": "https://www.electronicaudioexperiments.com/legacy"
     },
     {
       "company": "Electronic Audio Experiments",
@@ -35859,11 +35879,13 @@
         "Overdrive",
         "Fuzz"
       ],
-      "image": "",
+      "image": "./assets/pedals/electronic-audio-experiments/kerria-lacca/primary.webp",
       "source_page": "https://www.electronicaudioexperiments.com/legacy",
       "research_record": "./research/pedals/Electronic Audio Experiments/Kerria Lacca.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://images.squarespace-cdn.com/content/v1/56a5a0e242f55268768a0c2b/0ac39b4e-d012-4a88-969f-7d358ad70bb8/DSCF0153.jpg?format=500w",
+      "image_source_page": "https://www.electronicaudioexperiments.com/legacy"
     },
     {
       "company": "Electronic Audio Experiments",
