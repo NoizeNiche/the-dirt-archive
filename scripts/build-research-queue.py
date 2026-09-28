@@ -45,6 +45,7 @@ def main():
     source_override_counts = {}
     source_override_tiers = {}
     source_override_rows = []
+    source_override_urls = {}
 
     def builder_variants(value):
         raw = str(value or "").strip().casefold()
@@ -82,6 +83,7 @@ def main():
                         source_override_counts[variant_key] = source_override_counts.get(variant_key, 0) + 1
                         source_override_tiers[variant_key] = min(source_override_tiers.get(variant_key, tier), tier)
                         source_override_rows.append((key, pedal.casefold(), tier))
+                    source_override_urls[url] = min(source_override_urls.get(url, tier), tier)
 
     researched = 0
     pictured = 0
@@ -136,6 +138,8 @@ def main():
             )
 
     deep_research_pending = research_pending + deep_research_pending
+    source_record_cache = {}
+
     def source_priority_for(item):
         builder_keys = builder_variants(item.get("builder"))
         pedal_key = str(item.get("pedal") or "").strip().casefold()
@@ -143,9 +147,6 @@ def main():
         for (source_key, source_pedal, tier) in source_override_rows:
             if source_key not in builder_keys:
                 continue
-            # Accept exact model names plus stable model-code prefixes, e.g.
-            # "OOD-9" -> "OOD-9 Organic Overdrive". Never use loose substring
-            # matching that could cross unrelated model identities.
             exact_or_code_prefix = (
                 pedal_key == source_pedal
                 or pedal_key.startswith(source_pedal + " ")
@@ -154,6 +155,28 @@ def main():
             if exact_or_code_prefix:
                 count = source_override_counts.get((source_key, source_pedal), 0)
                 matches.append((tier, -count))
+
+        record_path = str(item.get("research_record") or "").strip()
+        if record_path:
+            record_file = Path(record_path[2:] if record_path.startswith("./") else record_path)
+            if record_file.is_file():
+                cache_key = record_file.as_posix()
+                record_text = source_record_cache.get(cache_key)
+                if record_text is None:
+                    try:
+                        record_text = record_file.read_text(encoding="utf-8", errors="replace")
+                    except OSError:
+                        record_text = ""
+                    source_record_cache[cache_key] = record_text
+                for url, tier in source_override_urls.items():
+                    if url in record_text:
+                        matches.append((tier, -1))
+
+        catalog_source = str(item.get("source_page") or "").strip()
+        for url, tier in source_override_urls.items():
+            if catalog_source and catalog_source == url:
+                matches.append((tier, -1))
+
         return min(matches, default=(3, 0))
 
     deep_research_pending.sort(
