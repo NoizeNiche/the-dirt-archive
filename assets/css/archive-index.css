@@ -691,3 +691,6 @@ main{padding:24px 0 72px}
 @media(max-width:620px){
   .siteFooter .wrap{align-items:flex-start;flex-direction:column}
 }
+
+
+@media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}.card,.typeButton,.builder{transition:none!important}}
