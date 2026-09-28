@@ -1,6 +1,8 @@
 {
   "builder": "Marshall Amplification",
   "pedal": "1959 Overdrive Pedal",
+  "original_builder": "Marshall Amplification",
+  "original_pedal": "1959 Overdrive Pedal",
   "status": "VERIFIED_EVIDENCE_STAGED",
   "independent_exact_source_count": 2,
   "sources": [

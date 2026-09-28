@@ -1,23 +1,40 @@
-# JHS Pedals — Notadümbळë V2
+# JHS Pedals — Notadumbळe V2
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Notadumbळe V2
 - **Builder:** JHS Pedals
-- **Pedal:** Notadümbळë V2
 - **Catalog type:** Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** JHS Pedals's Notadumbळe V2.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Notadümbळë V2** by **JHS Pedals** as a **Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+JHS Pedals's Notadumbळe V2 is cataloged as an overdrive pedal.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- The verified evidence references: V1, V2.
+- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+The V1 accidentally had the wrong boost circuit.
+The first was the A Box Later, a device Howard Dumble built sometime in the 1980s as a buffer preamp boost with a built-in effects loop.
+The second unit was the Dumble BBC-1, a far more obscure preamp boost.
+
+## Sources checked
+1. NOTADÜMBLË V2 &ndash; JHS Pedals: https://jhspedals.info/products/notadumble-v2
+2. catalog/override source: https://www.effectsdatabase.com/model/jhspedals/notadumble/v2
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
