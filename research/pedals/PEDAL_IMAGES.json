@@ -14526,14 +14526,18 @@
     "pedal": "Terra",
     "image": "./assets/pedals/copilot-fx/terra/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/Copilot FX/Terra.md"
+    "research_record": "./research/pedals/Copilot FX/Terra.md",
+    "image_source_url": "https://www.copilotfx.com/terra.JPG",
+    "image_source_page": "https://www.copilotfx.com/terra.html"
   },
   {
     "builder": "Copilot FX",
     "pedal": "Trek",
     "image": "./assets/pedals/copilot-fx/trek/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/Copilot FX/Trek.md"
+    "research_record": "./research/pedals/Copilot FX/Trek.md",
+    "image_source_url": "https://copilotfx.com/trekscreen.png",
+    "image_source_page": "https://www.copilotfx.com/trek.html"
   },
   {
     "builder": "Copper Gear",
@@ -17484,7 +17488,8 @@
     "image": "",
     "source_page": "https://www.effectsdatabase.com/model/deviever",
     "research_record": "./research/pedals/Devi Ever FX/Fuzz.md",
-    "image_source_url": "https://assets.equipboard.com/assets/tailwind_layout/equipboard-logo-dark-0246d7d7decd172d03928e89654287c57c5251d0a87146c42edcc342f4443033.svg"
+    "image_source_url": "https://assets.equipboard.com/assets/tailwind_layout/equipboard-logo-dark-0246d7d7decd172d03928e89654287c57c5251d0a87146c42edcc342f4443033.svg",
+    "image_source_page": "https://www.effectsdatabase.com/model/deviever/fuzz"
   },
   {
     "builder": "Devi Ever FX",

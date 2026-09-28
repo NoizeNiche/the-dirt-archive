@@ -27293,7 +27293,11 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 604
+      "image_source_priority": 100000,
+      "image_source_url": "https://www.copilotfx.com/terra.JPG",
+      "image_source_urls": [
+        "https://www.copilotfx.com/terra.JPG"
+      ]
     },
     {
       "company": "Copilot FX",
@@ -27312,7 +27316,11 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 605
+      "image_source_priority": 100000,
+      "image_source_url": "https://copilotfx.com/trekscreen.png",
+      "image_source_urls": [
+        "https://copilotfx.com/trekscreen.png"
+      ]
     },
     {
       "company": "Copper Gear",
