@@ -1,2 +1,2 @@
-Small prioritized photo pass — 2026-09-28T08:20:00-07:00
-Use the new candidate scoring and 50-record rotation. Recover exact pedal images from manufacturer sources first, then verified exact-model secondary sources.
+Photo population pass — rotating queue prep fixed — 2026-09-28T06:31:00-07:00
+Run the 50-record rotating exact-photo recovery window using current source overrides and highest-quality candidate ordering.
