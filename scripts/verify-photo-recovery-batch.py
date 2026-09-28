@@ -48,9 +48,9 @@ def main():
                         reason = "specific recovered image too small"
                     else:
                         with Image.open(candidate) as im:
-                            if im.width < 200 or im.height < 200:
+                            if min(im.width, im.height) < 160 or max(im.width, im.height) / min(im.width, im.height) > 3.0:
                                 ok = False
-                                reason = "specific recovered image dimensions too small"
+                                reason = "specific recovered image dimensions look like a thumbnail/banner"
                             im.verify()
                 source_url = str(result.get("image_source_url") or "").lower()
                 forbidden = re.search(r"(?:favicon|(?:^|[/_.-])(?:logo|loading|spinner|placeholder|sprite|avatar|badge|icon|social|banner|widget)(?:[/_.?-]|$))", source_url)
