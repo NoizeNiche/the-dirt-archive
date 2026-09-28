@@ -1,11 +1,11 @@
 # Pedal Image Cache Report
 
-- Cached in this run: **9**
+- Cached in this run: **11**
 - Staged browser photos converted: **0**
 - Local images retained/reorganized: **0**
 - Download failures: **1**
-- Remaining tracker photo backlog: **392**
-- Researched, photo pending: **392**
+- Remaining tracker photo backlog: **381**
+- Researched, photo pending: **381**
 - External source images awaiting localization: **0**
 
 ## Storage layout
@@ -16,15 +16,17 @@
 
 ## Newly cached
 
-- Ashdown Engineering - James LoMenzo Mega Drive -> `./assets/pedals/ashdown-engineering/james-lomenzo-mega-drive/primary.webp`
-- Ashdown Engineering - OriginAL - Valve-Pre DI -> `./assets/pedals/ashdown-engineering/original-valve-pre-di/primary.webp`
-- BOSS - TB-2W Tone Bender -> `./assets/pedals/boss/tb-2w-tone-bender/primary.webp`
-- Blackbox Music Electronics - X-Ray -> `./assets/pedals/blackbox-music-electronics/x-ray/primary.webp`
-- Devi Ever FX - Bass Fuzz -> `./assets/pedals/devi-ever-fx/bass-fuzz/primary.webp`
-- Devi Ever FX - Devi Special -> `./assets/pedals/devi-ever-fx/devi-special/primary.webp`
-- Devi Ever FX - Heaven's Gate -> `./assets/pedals/devi-ever-fx/heaven-s-gate/primary.webp`
-- Devi Ever FX - Hounds Tooth -> `./assets/pedals/devi-ever-fx/hounds-tooth/primary.webp`
-- Devi Ever FX - KF Krackle Fuzz -> `./assets/pedals/devi-ever-fx/kf-krackle-fuzz/primary.webp`
+- ARC Effects - Klone -> `./assets/pedals/arc-effects/klone/primary.webp`
+- Ashdown Engineering - NM2 Nate Mendel Double Distortion -> `./assets/pedals/ashdown-engineering/nm2-nate-mendel-double-distortion/primary.webp`
+- BOSS - OD-2 Turbo OverDrive -> `./assets/pedals/boss/od-2-turbo-overdrive/primary.webp`
+- Darkglass Electronics - Microtubes B1K -> `./assets/pedals/darkglass-electronics/microtubes-b1k/primary.webp`
+- Devi Ever FX - '90 -> `./assets/pedals/devi-ever-fx/90/primary.webp`
+- Devi Ever FX - Bit Mangler -> `./assets/pedals/devi-ever-fx/bit-mangler/primary.webp`
+- Devi Ever FX - Dream Mangler -> `./assets/pedals/devi-ever-fx/dream-mangler/primary.webp`
+- Devi Ever FX - Drone Fuck Drone -> `./assets/pedals/devi-ever-fx/drone-fuck-drone/primary.webp`
+- Devi Ever FX - Helios -> `./assets/pedals/devi-ever-fx/helios/primary.webp`
+- Devi Ever FX - Heroin Lifestyle -> `./assets/pedals/devi-ever-fx/heroin-lifestyle/primary.webp`
+- Devi Ever FX - Love Fuzz -> `./assets/pedals/devi-ever-fx/love-fuzz/primary.webp`
 
 ## Still external / failed
 

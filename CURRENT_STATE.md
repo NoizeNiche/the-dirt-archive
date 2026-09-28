@@ -3,13 +3,13 @@
 
 The active production phase is **Catalog Research Phase**. PRP1 is retained only as a legacy publication/closeout mechanism.
 
-Live catalog: **4206 total / 4206 surface-ready / 4028 deep-researched / 4206 research-linked / 3814 pictured / 3814 complete / 0 surface-missing / 178 deep-research-pending / 392 researched-photo-pending**.
+Live catalog: **4206 total / 4206 surface-ready / 4028 deep-researched / 4206 research-linked / 3825 pictured / 3825 complete / 0 surface-missing / 178 deep-research-pending / 381 researched-photo-pending**.
 
 **Next deep-research target:** Fjord Fuzz - Fjord-Fuzz Super-Fuzz.
 
-PRP1 closeout remains separate: 392 researched record(s) still lack an exact local photo.
+PRP1 closeout remains separate: 381 researched record(s) still lack an exact local photo.
 The research queue is generated from the canonical catalog and tracker; do not hand-edit the derived queue.
-Last refreshed: 2026-09-28T08:49:02.194494+00:00
+Last refreshed: 2026-09-28T08:49:56.528581+00:00
 <!-- AUTO:RESEARCH_PHASE_END -->
 
 ## Superseded checkpoint
