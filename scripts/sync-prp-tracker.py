@@ -101,6 +101,12 @@ def main():
         key = (pedal.get("company"), pedal.get("pedal"))
         if key in seen_keys:
             continue
+        # The tracker is the research-phase status surface. Do not materialize
+        # surface placeholders as "researched"; only deep/researched catalog
+        # records belong in the tracker research-complete population.
+        level = str(pedal.get("research_level") or "").strip().lower()
+        if level not in {"deep", "researched"}:
+            continue
         types = pedal.get("types")
         if isinstance(types, list):
             catalog_type = " / ".join(str(value) for value in types if str(value).strip())
