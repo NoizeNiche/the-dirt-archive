@@ -283,6 +283,11 @@ jobs:
           path: recovery-artifacts
       - name: Install image tooling
         run: python -m pip install --disable-pip-version-check pillow
+
+      - name: Run recovered-photo content gate
+        run: |
+          python scripts/audit-photo-content.py --mode changed --output /tmp/photo-content-audit.csv --fail-high-confidence
+
       - name: Photo Foreman verifies recovered artifacts
         run: python scripts/verify-photo-recovery-batch.py
       - name: Verify every recovered image
