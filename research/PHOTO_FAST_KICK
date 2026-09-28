@@ -1,2 +1,2 @@
-Small exact-photo pass — 2026-09-28T07:30:00-07:00
-Use the now-clean photo source table. Manufacturer pages first, verified exact-model Reverb/retailer/database pages second. Archive confirmed local images and reconcile the tracker.
+Small rotating photo pass — 2026-09-28T07:58:00-07:00
+Use the updated 50-record rotating batch logic and current exact-model source table. Manufacturer pages first, verified exact-model secondary sources next. Archive confirmed local images only.
