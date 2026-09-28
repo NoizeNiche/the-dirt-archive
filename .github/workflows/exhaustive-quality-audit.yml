@@ -1,0 +1,65 @@
+name: Exhaustive detail and photo quality audit
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 4 * * *'
+
+permissions:
+  contents: read
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v7
+        with:
+          fetch-depth: 2
+
+      - name: Setup Node
+        uses: actions/setup-node@v7
+        with:
+          node-version: 20
+
+      - name: Install Playwright
+        run: |
+          npm install --no-save playwright@1.63.0
+          npx playwright install --with-deps chromium
+
+      - name: Build technical facet index
+        run: python scripts/build-pedal-facets.py
+
+      - name: Validate archive
+        run: python scripts/validate-archive.py
+
+      - name: Start local archive server
+        run: |
+          node scripts/serve-static.js >/tmp/dirt-archive-audit-server.log 2>&1 &
+          echo $! > /tmp/dirt-archive-audit-server.pid
+
+      - name: Audit every public pedal detail page
+        env:
+          DETAIL_AUDIT_WORKERS: 8
+        run: node scripts/audit-detail-pages.js
+
+      - name: Install OCR engine
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y tesseract-ocr
+          python -m pip install pillow pytesseract
+
+      - name: Scan every archived photo for donation overlays and corrupt assets
+        run: python scripts/audit-photo-content.py --mode all --workers 8 --output photo-content-audit.csv
+
+      - name: Upload audit reports
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: dirt-archive-exhaustive-audit
+          path: |
+            detail-page-audit-report.json
+            photo-content-audit.csv
+            /tmp/dirt-archive-audit-server.log
+          if-no-files-found: warn
