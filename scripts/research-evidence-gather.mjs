@@ -33,7 +33,7 @@ function csvRows(raw) {
   const h=parse(lines[0]);
   return lines.slice(1).map(line=>Object.fromEntries(parse(line).map((v,i)=>[h[i],(v||'').trim()])));
 }
-function norm(v){return String(v||'').toLowerCase().replace(/\+/g,' plus ').replace(/[^a-z0-9]+/g,' ').replace(/\s+/g,' ').trim();}
+function norm(v){return String(v||'').normalize('NFKD').toLowerCase().replace(/[øØ]/g,'o').replace(/[æÆ]/g,'ae').replace(/[œŒ]/g,'oe').replace(/ß/g,'ss').replace(/\+/g,' plus ').replace(/[\u0300-\u036f]/g,'').replace(/[^a-z0-9]+/g,' ').replace(/\s+/g,' ').trim();}
 function confirmedIdentityAliases(value){
   const raw=String(value||'').trim();
   const out=[];
