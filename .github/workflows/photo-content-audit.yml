@@ -1,0 +1,47 @@
+name: Photo content audit
+
+on:
+  push:
+    paths:
+      - 'assets/pedals/**'
+      - 'research/PEDAL_INDEX.json'
+      - 'research/PHOTO_CONTENT_AUDIT_KICK'
+      - 'scripts/audit-photo-content.py'
+      - '.github/workflows/photo-content-audit.yml'
+  workflow_dispatch:
+  schedule:
+    - cron: "17 6 * * 0"
+
+permissions:
+  contents: read
+
+jobs:
+  audit:
+    name: Audit photo pixels
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v7
+        with:
+          fetch-depth: 2
+
+      - name: Install OCR/image tooling
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y tesseract-ocr
+          python -m pip install --disable-pip-version-check pillow pytesseract
+
+      - name: Run photo content audit
+        env:
+          PHOTO_CONTENT_AUDIT_MODE: ${{ github.event_name == 'schedule' && 'all' || 'auto' }}
+        run: |
+          python scripts/audit-photo-content.py --mode auto --output /tmp/photo-content-audit.csv --fail-high-confidence
+
+      - name: Upload audit report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: photo-content-audit
+          path: /tmp/photo-content-audit.csv
+          retention-days: 14
