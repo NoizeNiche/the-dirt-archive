@@ -63,4 +63,6 @@ per-target verified host gate and fetch concurrency 1790571226503
 [2026-09-28T08:55Z] Continue bounded deep-research lane after exact-identity search UX update; prioritize source-rich frontier and regenerate derived state.
 2026-09-28T09:10:00Z
 Recover stranded VERIFIED_EVIDENCE_STAGED packets after publication handoff fix; continue bounded frontier research.
+2026-09-28T09:22:00Z
+Retry bounded research publication after fixing stranded-packet handoff syntax; recover prior verified packets and publish canonical depth.
 
