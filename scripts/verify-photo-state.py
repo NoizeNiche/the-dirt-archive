@@ -56,7 +56,7 @@ def suspicious_photo_provenance(manifest_entry, catalog_entry):
         reasons.append("generic template source")
     if re.search(r"(^|[/_-])logo(?:\\d*)?(?:\\.[a-z0-9]+)?([/?#=&_-]|$)", joined):
         reasons.append("logo asset source")
-    if re.search(r"(?:favicon|(?:^|[/_.-])(?:loading|spinner|placeholder|sprite|avatar|badge|icon|social|banner|widget)(?:[/_.?-]|$))", joined):
+    if re.search(r"(?:favicon|(?:^|[/_.-])(?:loading|spinner|placeholder|sprite|avatar|badge|social|widget)(?:[/_.?-]|$))", joined):
         reasons.append("site asset source")
     return reasons
 
