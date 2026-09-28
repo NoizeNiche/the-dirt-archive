@@ -23297,7 +23297,7 @@
   {
     "builder": "LICHTLÆRM AUDIO",
     "pedal": "Thorn",
-    "image": null,
+    "image": "./assets/pedals/lichtl-rm-audio/thorn/primary.webp",
     "source_page": "https://lichtlaermaudio.com/shop",
     "research_record": "./research/pedals/LICHTLÆRM AUDIO/Thorn.md"
   },
@@ -23608,7 +23608,7 @@
   {
     "builder": "Lovetone",
     "pedal": "Brown Source",
-    "image": "",
+    "image": "./assets/pedals/lovetone/brown-source/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/lovetone/brownsource",
     "research_record": "./research/pedals/Lovetone/Brown Source.md"
   },

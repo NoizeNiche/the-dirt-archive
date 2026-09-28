@@ -43100,7 +43100,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/lichtl-rm-audio/thorn/primary.webp",
       "source_page": "https://lichtlaermaudio.com/shop",
       "research_record": "./research/pedals/LICHTLÆRM AUDIO/Thorn.md",
       "research_level": "deep",
@@ -43676,7 +43676,7 @@
         "Overdrive"
       ],
       "source_page": "https://www.effectsdatabase.com/model/lovetone/brownsource",
-      "image": "",
+      "image": "./assets/pedals/lovetone/brown-source/primary.webp",
       "research_record": "./research/pedals/Lovetone/Brown Source.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
