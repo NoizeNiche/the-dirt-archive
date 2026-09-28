@@ -136,7 +136,7 @@ jobs:
           }
 
           for attempt in 1 2 3; do
-            if git push origin HEAD:main; then
+            if timeout 30s env GIT_TERMINAL_PROMPT=0 git push origin HEAD:main; then
               echo "Published emergency photo recovery."
               gh api --method POST "repos/$GITHUB_REPOSITORY/actions/workflows/deploy-pages.yml/dispatches" -f ref=main || true
               exit 0
