@@ -1,23 +1,38 @@
 # Vemuram — Myriad w/loop Fuzz Pedal
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Myriad w/loop Fuzz Pedal
 - **Builder:** Vemuram
-- **Pedal:** Myriad w/loop Fuzz Pedal
 - **Catalog type:** Fuzz
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Vemuram's Myriad w/loop Fuzz Pedal.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Myriad w/loop Fuzz Pedal** by **Vemuram** as a **Fuzz** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Vemuram Myriad Josh Smith Fuzz Pedal Loop & Dry Mix
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- (Please see the attached matrix table inside the control manual for more details) The Mix can be controlled by an expression pedal or the control knob on the center of the pedal (red knob).
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Documented terms in the verified sources: Silicon transistors.
+- The archive records only the component information explicitly present in these sources.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+Vemuram Myriad Josh Smith Fuzz Pedal Loop & Dry Mix
+This pedal is a mixture of the Myriad Fuzz, Loop, and a mixer that can do literally “Myriad” of combinations.
+The fuzz can be switched between 2 outputs and lets you mix the loop and the fuzz if the signal is in the wet chain.
+
+## Sources checked
+1. Vemuram Myriad Josh Smith Fuzz Pedal Loop & Dry Mix | Vision Guitar: https://www.visionguitar.com/products/vemuram-myriad-josh-smith-signature-fuzz-pedal-loop-dry-mix
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

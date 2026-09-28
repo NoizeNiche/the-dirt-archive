@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-28T11:20:43.166961+00:00",
+  "generated_at": "2026-09-28T11:22:47.713321+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,8 +10,8 @@
     "pictured": 3930,
     "complete": 3930,
     "research_pending": 0,
-    "deep_research_pending": 31,
-    "deep_researched": 4175,
+    "deep_research_pending": 28,
+    "deep_researched": 4178,
     "surface_ready": 4206
   },
   "next_target": {
@@ -62,27 +62,6 @@
       "pedal": "Creamy Fuzz",
       "catalog_type": "Fuzz",
       "research_record": "./research/pedals/SBGO Effects/Creamy Fuzz.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "TONECAT",
-      "pedal": "Brutus",
-      "catalog_type": "Overdrive",
-      "research_record": "./research/pedals/TONECAT/Brutus.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Vemuram",
-      "pedal": "Myriad w/loop Fuzz Pedal",
-      "catalog_type": "Fuzz",
-      "research_record": "./research/pedals/Vemuram/Myriad w/loop Fuzz Pedal.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Vemuram",
-      "pedal": "Myriad w/loop Fuzz Pedal — fuzz / loop-mix identity",
-      "catalog_type": "Fuzz",
-      "research_record": "./research/pedals/Vemuram/Myriad w/loop Fuzz Pedal — fuzz / loop-mix identity.md",
       "research_level": "surface"
     },
     {
@@ -195,6 +174,27 @@
       "pedal": "VS-XO",
       "catalog_type": "Overdrive",
       "research_record": "./research/pedals/Visual Sound / Truetone/VS-XO.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Walrus Audio",
+      "pedal": "Ages Five-State Overdrive — Overdrive",
+      "catalog_type": "Distortion / Fuzz",
+      "research_record": "./research/pedals/Walrus Audio/Ages Five-State Overdrive — Overdrive.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Walrus Audio",
+      "pedal": "Eons Five-State Fuzz — Fuzz",
+      "catalog_type": "Distortion / Overdrive",
+      "research_record": "./research/pedals/Walrus Audio/Eons Five-State Fuzz — Fuzz.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Way Huge",
+      "pedal": "Red Llama 3.0",
+      "catalog_type": "Overdrive",
+      "research_record": "./research/pedals/Way Huge/Red Llama 3.0.md",
       "research_level": "surface"
     }
   ]

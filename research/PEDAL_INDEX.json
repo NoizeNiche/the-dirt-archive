@@ -53484,8 +53484,8 @@
       "image": "./assets/pedals/tonecat/brutus/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/TONECAT/Brutus.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "TONECAT",
@@ -54032,8 +54032,8 @@
       "image": "./assets/pedals/vemuram/myriad-w-loop-fuzz-pedal/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Vemuram/Myriad w/loop Fuzz Pedal.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Vemuram",
@@ -54044,8 +54044,8 @@
       "image": "./assets/pedals/vemuram/myriad-w-loop-fuzz-pedal-fuzz-loop-mix-identity/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Vemuram/Myriad w/loop Fuzz Pedal — fuzz / loop-mix identity.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Vemuram",
