@@ -1,23 +1,39 @@
 # MOOER Audio / MOOER — Ultra Drive
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Ultra Drive
 - **Builder:** MOOER Audio / MOOER
-- **Pedal:** Ultra Drive
 - **Catalog type:** Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** MOOER Audio / MOOER's Ultra Drive.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Ultra Drive** by **MOOER Audio / MOOER** as a **Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+MOOER Audio / MOOER's Ultra Drive is cataloged as an overdrive pedal.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- The verified evidence references: MKII.
+- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+Extra: For high gain, and more tube like distortion.
+Ultra: For a fatter drive tone, and a wider distortion range.
+The Dirt Archive currently catalogs **Ultra Drive** by **MOOER Audio / MOOER** as a **Overdrive** pedal.
+
+## Sources checked
+1. Ultra Drive MKⅡ_MOOER Audio: https://www.mooeraudio.com/product/Ultra-Drive-MK%E2%85%A1--115.html
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

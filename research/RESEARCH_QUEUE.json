@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-28T11:07:20.181581+00:00",
+  "generated_at": "2026-09-28T11:07:49.861227+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,60 +10,18 @@
     "pictured": 3921,
     "complete": 3921,
     "research_pending": 0,
-    "deep_research_pending": 68,
-    "deep_researched": 4138,
+    "deep_research_pending": 56,
+    "deep_researched": 4150,
     "surface_ready": 4206
   },
   "next_target": {
     "builder": "NUX Audio / NUX",
-    "pedal": "Horseman",
+    "pedal": "Ace of Tone",
     "catalog_type": "Overdrive",
-    "research_record": "./research/pedals/NUX Audio / NUX/Horseman.md",
+    "research_record": "./research/pedals/NUX Audio / NUX/Ace of Tone.md",
     "research_level": "surface"
   },
   "working_set": [
-    {
-      "builder": "NUX Audio / NUX",
-      "pedal": "Horseman",
-      "catalog_type": "Overdrive",
-      "research_record": "./research/pedals/NUX Audio / NUX/Horseman.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Pettyjohn Electronics",
-      "pedal": "CHIME3",
-      "catalog_type": "Overdrive",
-      "research_record": "./research/pedals/Pettyjohn Electronics/CHIME3.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Pettyjohn Electronics",
-      "pedal": "IRON3",
-      "catalog_type": "Overdrive",
-      "research_record": "./research/pedals/Pettyjohn Electronics/IRON3.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "MOOER Audio / MOOER",
-      "pedal": "Ultra Drive",
-      "catalog_type": "Overdrive",
-      "research_record": "./research/pedals/MOOER Audio / MOOER/Ultra Drive.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Pettyjohn Electronics",
-      "pedal": "GOLD3",
-      "catalog_type": "Overdrive",
-      "research_record": "./research/pedals/Pettyjohn Electronics/GOLD3.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Phaez Amplification",
-      "pedal": "Alligator Overdrive",
-      "catalog_type": "Overdrive",
-      "research_record": "./research/pedals/Phaez Amplification/Alligator Overdrive.md",
-      "research_level": "surface"
-    },
     {
       "builder": "NUX Audio / NUX",
       "pedal": "Ace of Tone",
@@ -100,6 +58,27 @@
       "research_level": "surface"
     },
     {
+      "builder": "MOOER Audio / MOOER",
+      "pedal": "Grey Faze",
+      "catalog_type": "Fuzz",
+      "research_record": "./research/pedals/MOOER Audio / MOOER/Grey Faze.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "MOOER Audio / MOOER",
+      "pedal": "Rumble Drive",
+      "catalog_type": "Overdrive",
+      "research_record": "./research/pedals/MOOER Audio / MOOER/Rumble Drive.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Mystic Effects Co",
+      "pedal": "Driven-Parallel Overdrive",
+      "catalog_type": "Overdrive",
+      "research_record": "./research/pedals/Mystic Effects Co/Driven-Parallel Overdrive.md",
+      "research_level": "surface"
+    },
+    {
       "builder": "NUX Audio / NUX",
       "pedal": "HG-5 Modern High Gain",
       "catalog_type": "Distortion",
@@ -115,72 +94,9 @@
     },
     {
       "builder": "NUX Audio / NUX",
-      "pedal": "Metal Core",
-      "catalog_type": "Distortion",
-      "research_record": "./research/pedals/NUX Audio / NUX/Metal Core.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "NUX Audio / NUX",
-      "pedal": "Metal Core Deluxe",
-      "catalog_type": "Distortion",
-      "research_record": "./research/pedals/NUX Audio / NUX/Metal Core Deluxe.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "NUX Audio / NUX",
-      "pedal": "Mini Distortion",
-      "catalog_type": "Distortion",
-      "research_record": "./research/pedals/NUX Audio / NUX/Mini Distortion.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "NUX Audio / NUX",
       "pedal": "OD-3 Overdrive",
       "catalog_type": "Overdrive",
       "research_record": "./research/pedals/NUX Audio / NUX/OD-3 Overdrive.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "NUX Audio / NUX",
-      "pedal": "Scream Bass / Bass Overdrive",
-      "catalog_type": "Overdrive",
-      "research_record": "./research/pedals/NUX Audio / NUX/Scream Bass / Bass Overdrive.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "NUX Audio / NUX",
-      "pedal": "’59 Bassguy",
-      "catalog_type": "Overdrive",
-      "research_record": "./research/pedals/NUX Audio / NUX/’59 Bassguy.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "MOOER Audio / MOOER",
-      "pedal": "Grey Faze",
-      "catalog_type": "Fuzz",
-      "research_record": "./research/pedals/MOOER Audio / MOOER/Grey Faze.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "MOOER Audio / MOOER",
-      "pedal": "Rumble Drive",
-      "catalog_type": "Overdrive",
-      "research_record": "./research/pedals/MOOER Audio / MOOER/Rumble Drive.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "MOOER Audio / MOOER",
-      "pedal": "Thunderball",
-      "catalog_type": "Distortion / Fuzz",
-      "research_record": "./research/pedals/MOOER Audio / MOOER/Thunderball.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Mystic Effects Co",
-      "pedal": "Driven-Parallel Overdrive",
-      "catalog_type": "Overdrive",
-      "research_record": "./research/pedals/Mystic Effects Co/Driven-Parallel Overdrive.md",
       "research_level": "surface"
     },
     {
@@ -195,6 +111,90 @@
       "pedal": "SD-9M Sonic Distortion Master",
       "catalog_type": "Distortion",
       "research_record": "./research/pedals/Maxon / Nisshin Onpa/SD-9M Sonic Distortion Master.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Phaez Amplification",
+      "pedal": "Emperor Distortion",
+      "catalog_type": "Distortion",
+      "research_record": "./research/pedals/Phaez Amplification/Emperor Distortion.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Phaez Amplification",
+      "pedal": "Iron Viper",
+      "catalog_type": "Distortion",
+      "research_record": "./research/pedals/Phaez Amplification/Iron Viper.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Phaez Amplification",
+      "pedal": "M Class Distortion",
+      "catalog_type": "Distortion",
+      "research_record": "./research/pedals/Phaez Amplification/M Class Distortion.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Pigdog Pedals",
+      "pedal": "GO",
+      "catalog_type": "Overdrive",
+      "research_record": "./research/pedals/Pigdog Pedals/GO.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Radial Engineering / Tonebone",
+      "pedal": "Bassbone OD",
+      "catalog_type": "Overdrive",
+      "research_record": "./research/pedals/Radial Engineering / Tonebone/Bassbone OD.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Radial Engineering / Tonebone",
+      "pedal": "Bones Hollywood Distortion & Overdrive",
+      "catalog_type": "Distortion / Overdrive",
+      "research_record": "./research/pedals/Radial Engineering / Tonebone/Bones Hollywood Distortion & Overdrive.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Radial Engineering / Tonebone",
+      "pedal": "Bones London Dual-Mode Distortion",
+      "catalog_type": "Distortion",
+      "research_record": "./research/pedals/Radial Engineering / Tonebone/Bones London Dual-Mode Distortion.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Radial Engineering / Tonebone",
+      "pedal": "Bones Texas Dual Mode Overdrive",
+      "catalog_type": "Overdrive",
+      "research_record": "./research/pedals/Radial Engineering / Tonebone/Bones Texas Dual Mode Overdrive.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Radial Engineering / Tonebone",
+      "pedal": "Regency Overdrive and Boost",
+      "catalog_type": "Overdrive",
+      "research_record": "./research/pedals/Radial Engineering / Tonebone/Regency Overdrive and Boost.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Radial Engineering / Tonebone",
+      "pedal": "Tonebone Classic",
+      "catalog_type": "Distortion / Overdrive",
+      "research_record": "./research/pedals/Radial Engineering / Tonebone/Tonebone Classic.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Radial Engineering / Tonebone",
+      "pedal": "Tonebone Hot British",
+      "catalog_type": "Distortion",
+      "research_record": "./research/pedals/Radial Engineering / Tonebone/Tonebone Hot British.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Radial Engineering / Tonebone",
+      "pedal": "Tonebone Plexitube",
+      "catalog_type": "Distortion",
+      "research_record": "./research/pedals/Radial Engineering / Tonebone/Tonebone Plexitube.md",
       "research_level": "surface"
     }
   ]
