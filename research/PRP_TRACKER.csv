@@ -1672,7 +1672,7 @@ CopperSound Pedals,Mystique Germanium Fuzz & Boost,Fuzz,DONE,DONE,DONE,./researc
 CopperSound Pedals,Mystique Germanium Fuzz & Boost (Limited Edition),Fuzz,DONE,DONE,DONE,./research/pedals/CopperSound Pedals/Mystique Germanium Fuzz & Boost (Limited Edition).md
 CopperSound Pedals,Renegade Multi-Bias Fuzz,Fuzz,DONE,DONE,DONE,./research/pedals/CopperSound Pedals/Renegade Multi-Bias Fuzz.md
 CopperSound Pedals,Strategy Overdrive & Preamp,Overdrive,DONE,DONE,DONE,./research/pedals/CopperSound Pedals/Strategy Overdrive & Preamp.md
-Cordovox,DS-8 Mouse,Distortion,DONE,NEEDED,NEEDED,./research/pedals/Cordovox/DS-8 Mouse.md
+Cordovox,DS-8 Mouse,Distortion,DONE,DONE,DONE,./research/pedals/Cordovox/DS-8 Mouse.md
 Cordovox,DS-9 Distortion,Distortion,DONE,DONE,DONE,./research/pedals/Cordovox/DS-9 Distortion.md
 Cordovox,FZ-7 Fuzz,Fuzz,DONE,DONE,DONE,./research/pedals/Cordovox/FZ-7 Fuzz.md
 Cordovox,OD-7 Overdrive,Overdrive,DONE,DONE,DONE,./research/pedals/Cordovox/OD-7 Overdrive.md
@@ -3486,8 +3486,8 @@ Vemuram,Myriad w/loop Fuzz Pedal — fuzz / loop-mix identity,Fuzz,DONE,DONE,DON
 Vemuram,Oz,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Vemuram/Oz.md
 Vemuram,Oz — fuzz,Fuzz,DONE,DONE,DONE,./research/pedals/Vemuram/Oz — fuzz.md
 Vemuram,Rage e,Overdrive,DONE,DONE,DONE,./research/pedals/Vemuram/Rage e.md
-Vemuram,Rage e — overdrive,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Vemuram/Rage e — overdrive.md
-Vemuram,Shanks 4K,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Vemuram/Shanks 4K.md
+Vemuram,Rage e — overdrive,Overdrive,DONE,DONE,DONE,./research/pedals/Vemuram/Rage e — overdrive.md
+Vemuram,Shanks 4K,Fuzz,DONE,DONE,DONE,./research/pedals/Vemuram/Shanks 4K.md
 Vemuram,Shanks 4K — fuzz,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Vemuram/Shanks 4K — fuzz.md
 Vemuram,SHANKS II,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Vemuram/SHANKS II.md
 Vemuram,SHANKS II — fuzz,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Vemuram/SHANKS II — fuzz.md
@@ -3517,13 +3517,13 @@ VFE Pedals,Triumvirate,Distortion,DONE,DONE,DONE,./research/pedals/VFE Pedals/Tr
 VFE Pedals,Woodchipper,Fuzz,DONE,DONE,DONE,./research/pedals/VFE Pedals/Woodchipper.md
 Vick Audio,73 Ram's Head,Fuzz,DONE,DONE,DONE,./research/pedals/Vick Audio/73 Ram's Head.md
 Vick Audio,V2 Violet Ram,Fuzz,DONE,DONE,DONE,./research/pedals/Vick Audio/V2 Violet Ram.md
-Visual Sound / Truetone,Angry Fuzz,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Visual Sound / Truetone/Angry Fuzz.md
+Visual Sound / Truetone,Angry Fuzz,Fuzz,DONE,DONE,DONE,./research/pedals/Visual Sound / Truetone/Angry Fuzz.md
 Visual Sound / Truetone,Custom Shop Overdrive,Overdrive,DONE,DONE,DONE,./research/pedals/Visual Sound / Truetone/Custom Shop Overdrive.md
 Visual Sound / Truetone,Double Trouble,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Visual Sound / Truetone/Double Trouble.md
 Visual Sound / Truetone,Drivetrain / GarageTone Drivetrain,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Visual Sound / Truetone/Drivetrain / GarageTone Drivetrain.md
 Visual Sound / Truetone,GarageTone Chainsaw Distortion,Distortion,DONE,NEEDED,NEEDED,./research/pedals/Visual Sound / Truetone/GarageTone Chainsaw Distortion.md
 Visual Sound / Truetone,Jekyll & Hyde,Distortion / Overdrive,DONE,DONE,DONE,./research/pedals/Visual Sound / Truetone/Jekyll & Hyde.md
-Visual Sound / Truetone,Jekyll & Hyde (original),Distortion,DONE,NEEDED,NEEDED,./research/pedals/Visual Sound / Truetone/Jekyll & Hyde (original).md
+Visual Sound / Truetone,Jekyll & Hyde (original),Distortion,DONE,DONE,DONE,./research/pedals/Visual Sound / Truetone/Jekyll & Hyde (original).md
 Visual Sound / Truetone,Open Road,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Visual Sound / Truetone/Open Road.md
 Visual Sound / Truetone,Route 66,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Visual Sound / Truetone/Route 66.md
 Visual Sound / Truetone,Route 66 American Overdrive,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Visual Sound / Truetone/Route 66 American Overdrive.md
@@ -3556,7 +3556,7 @@ VOX,V810 Valvetone,Overdrive,DONE,DONE,DONE,./research/pedals/VOX/V810 Valvetone
 VOX,V828 Tone Bender,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/VOX/V828 Tone Bender.md
 VOX,V829 Tone Bender,Fuzz,DONE,DONE,DONE,./research/pedals/VOX/V829 Tone Bender.md
 VOX,V830 Distortion Booster,Fuzz,DONE,DONE,DONE,./research/pedals/VOX/V830 Distortion Booster.md
-VOX,VFZ-1 Fuzz,Fuzz / Overdrive,DONE,NEEDED,NEEDED,./research/pedals/VOX/VFZ-1 Fuzz.md
+VOX,VFZ-1 Fuzz,Fuzz / Overdrive,DONE,DONE,DONE,./research/pedals/VOX/VFZ-1 Fuzz.md
 VOX,VOX 7001 Distortion,Distortion,DONE,DONE,DONE,./research/pedals/VOX/VOX 7001 Distortion.md
 Walrus Audio,385 Overdrive,Overdrive,DONE,DONE,DONE,./research/pedals/Walrus Audio/385 Overdrive.md
 Walrus Audio,385 Overdrive MKII,Distortion / Fuzz / Overdrive,DONE,DONE,DONE,./research/pedals/Walrus Audio/385 Overdrive MKII.md
@@ -3570,7 +3570,7 @@ Walrus Audio,Eons Five-State Fuzz — Fuzz,Distortion / Overdrive,DONE,NEEDED,NE
 Walrus Audio,Eras Five-State Distortion,Distortion / Fuzz / Overdrive,DONE,DONE,DONE,./research/pedals/Walrus Audio/Eras Five-State Distortion.md
 Walrus Audio,Eras Five-State Distortion — Distortion,Fuzz / Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Walrus Audio/Eras Five-State Distortion — Distortion.md
 Walrus Audio,Fundamental Series Distortion,Distortion,DONE,DONE,DONE,./research/pedals/Walrus Audio/Fundamental Series Distortion.md
-Walrus Audio,Fundamental Series Drive,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Walrus Audio/Fundamental Series Drive.md
+Walrus Audio,Fundamental Series Drive,Overdrive,DONE,DONE,DONE,./research/pedals/Walrus Audio/Fundamental Series Drive.md
 Walrus Audio,Fundamental Series Fuzz,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Walrus Audio/Fundamental Series Fuzz.md
 Walrus Audio,Iron Horse LM308 Distortion,Distortion / Fuzz / Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Walrus Audio/Iron Horse LM308 Distortion.md
 Walrus Audio,Iron Horse LM308 Distortion — Distortion,Fuzz / Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Walrus Audio/Iron Horse LM308 Distortion — Distortion.md
@@ -3621,10 +3621,10 @@ Wampler Pedals,Plexi Drive Mini,Distortion / Overdrive,DONE,DONE,DONE,./research
 Wampler Pedals,Plexi-Drive,Overdrive,DONE,DONE,DONE,./research/pedals/Wampler Pedals/Plexi-Drive.md
 Wampler Pedals,Plextortion,Distortion,DONE,DONE,DONE,./research/pedals/Wampler Pedals/Plextortion.md
 Wampler Pedals,Ratsbane,Distortion / Fuzz / Overdrive,DONE,DONE,DONE,./research/pedals/Wampler Pedals/Ratsbane.md
-Wampler Pedals,SLOstortion,Distortion,DONE,NEEDED,NEEDED,./research/pedals/Wampler Pedals/SLOstortion.md
+Wampler Pedals,SLOstortion,Distortion,DONE,DONE,DONE,./research/pedals/Wampler Pedals/SLOstortion.md
 Wampler Pedals,Sovereign Distortion,Distortion,DONE,DONE,DONE,./research/pedals/Wampler Pedals/Sovereign Distortion.md
 Wampler Pedals,tcd,Distortion / Overdrive,DONE,DONE,DONE,./research/pedals/Wampler Pedals/tcd.md
-Wampler Pedals,the Compulsion Drive (tcd),Distortion,DONE,NEEDED,NEEDED,./research/pedals/Wampler Pedals/the Compulsion Drive (tcd).md
+Wampler Pedals,the Compulsion Drive (tcd),Distortion,DONE,DONE,DONE,./research/pedals/Wampler Pedals/the Compulsion Drive (tcd).md
 Wampler Pedals,The Doctor,Distortion,DONE,NEEDED,NEEDED,./research/pedals/Wampler Pedals/The Doctor.md
 Wampler Pedals,Thirty Something,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Wampler Pedals/Thirty Something.md
 Wampler Pedals,Tom Quayle: Dual Fusion,Distortion / Overdrive,DONE,DONE,DONE,./research/pedals/Wampler Pedals/Tom Quayle: Dual Fusion.md
@@ -3642,7 +3642,7 @@ Way Huge,Camel Toe MkII,Overdrive,DONE,DONE,DONE,./research/pedals/Way Huge/Came
 Way Huge,Conquistador Fuzzstortion,Distortion / Fuzz,DONE,DONE,DONE,./research/pedals/Way Huge/Conquistador Fuzzstortion.md
 Way Huge,Doom Hammer,Fuzz,DONE,DONE,DONE,./research/pedals/Way Huge/Doom Hammer.md
 Way Huge,Fat Sandwich,Distortion / Overdrive,DONE,DONE,DONE,./research/pedals/Way Huge/Fat Sandwich.md
-Way Huge,Foot Pig,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Way Huge/Foot Pig.md
+Way Huge,Foot Pig,Fuzz,DONE,DONE,DONE,./research/pedals/Way Huge/Foot Pig.md
 Way Huge,Fuzz Box,Fuzz,DONE,DONE,DONE,./research/pedals/Way Huge/Fuzz Box.md
 Way Huge,Geisha Drive,Overdrive,DONE,DONE,DONE,./research/pedals/Way Huge/Geisha Drive.md
 Way Huge,Green Rhino MkIV,Overdrive,DONE,DONE,DONE,./research/pedals/Way Huge/Green Rhino MkIV.md
@@ -3651,8 +3651,8 @@ Way Huge,Havalina Germanium Fuzz,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Way H
 Way Huge,Jumbo Fuzz Swollen Pickle XXX,Fuzz,DONE,DONE,DONE,./research/pedals/Way Huge/Jumbo Fuzz Swollen Pickle XXX.md
 Way Huge,Overrated Special,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Way Huge/Overrated Special.md
 Way Huge,Pork & Pickle,Fuzz / Overdrive,DONE,DONE,DONE,./research/pedals/Way Huge/Pork & Pickle.md
-Way Huge,Pork Loin,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Way Huge/Pork Loin.md
-Way Huge,Red Llama 3.0,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Way Huge/Red Llama 3.0.md
+Way Huge,Pork Loin,Overdrive,DONE,DONE,DONE,./research/pedals/Way Huge/Pork Loin.md
+Way Huge,Red Llama 3.0,Overdrive,DONE,DONE,DONE,./research/pedals/Way Huge/Red Llama 3.0.md
 Way Huge,Russian-Pickle,Fuzz,DONE,DONE,DONE,./research/pedals/Way Huge/Russian-Pickle.md
 Way Huge,Saucy Box Overdrive,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Way Huge/Saucy Box Overdrive.md
 Way Huge,Smalls Conspiracy Theory,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Way Huge/Smalls Conspiracy Theory.md
@@ -3679,13 +3679,13 @@ Wren and Cuff,Blue-Violet Caprid Small Foot,Distortion / Fuzz,DONE,DONE,DONE,./r
 Wren and Cuff,Box of War OG Reissue,Distortion / Fuzz,DONE,DONE,DONE,./research/pedals/Wren and Cuff/Box of War OG Reissue.md
 Wren and Cuff,Box of War Small Foot,Distortion / Fuzz,DONE,DONE,DONE,./research/pedals/Wren and Cuff/Box of War Small Foot.md
 Wren and Cuff,Caprid Small Foot,Distortion / Fuzz,DONE,DONE,DONE,./research/pedals/Wren and Cuff/Caprid Small Foot.md
-Wren and Cuff,Elephant Skin,Distortion / Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Wren and Cuff/Elephant Skin.md
+Wren and Cuff,Elephant Skin,Distortion / Fuzz,DONE,DONE,DONE,./research/pedals/Wren and Cuff/Elephant Skin.md
 Wren and Cuff,Eye See '78,Distortion / Fuzz,DONE,DONE,DONE,./research/pedals/Wren and Cuff/Eye See '78.md
 Wren and Cuff,Eye See '78 OG,Distortion / Fuzz,DONE,DONE,DONE,./research/pedals/Wren and Cuff/Eye See '78 OG.md
-Wren and Cuff,Fade Font '94,Distortion / Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Wren and Cuff/Fade Font '94.md
-Wren and Cuff,Forest for the Trees,Distortion / Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Wren and Cuff/Forest for the Trees.md
-Wren and Cuff,Hangman-2D,Distortion / Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Wren and Cuff/Hangman-2D.md
-Wren and Cuff,J Mascis Garbage Face,Distortion / Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Wren and Cuff/J Mascis Garbage Face.md
+Wren and Cuff,Fade Font '94,Distortion / Fuzz,DONE,DONE,DONE,./research/pedals/Wren and Cuff/Fade Font '94.md
+Wren and Cuff,Forest for the Trees,Distortion / Fuzz,DONE,DONE,DONE,./research/pedals/Wren and Cuff/Forest for the Trees.md
+Wren and Cuff,Hangman-2D,Distortion / Fuzz,DONE,DONE,DONE,./research/pedals/Wren and Cuff/Hangman-2D.md
+Wren and Cuff,J Mascis Garbage Face,Distortion / Fuzz,DONE,DONE,DONE,./research/pedals/Wren and Cuff/J Mascis Garbage Face.md
 Wren and Cuff,J Mascis Garbage Face Jr,Distortion / Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Wren and Cuff/J Mascis Garbage Face Jr.md
 Wren and Cuff,OG Caprid,Distortion / Fuzz,DONE,DONE,DONE,./research/pedals/Wren and Cuff/OG Caprid.md
 Wren and Cuff,Pickle Pie B,Distortion / Fuzz,DONE,DONE,DONE,./research/pedals/Wren and Cuff/Pickle Pie B.md
@@ -3703,11 +3703,11 @@ Xotic Effects,AH Booster Allen Hinds — Overdrive,Overdrive,DONE,DONE,DONE,./re
 Xotic Effects,Bass BB Preamp V1.5,Overdrive,DONE,DONE,DONE,./research/pedals/Xotic Effects/Bass BB Preamp V1.5.md
 Xotic Effects,Bass BB Preamp V1.5 — Bass Boost / Overdrive,Overdrive,DONE,DONE,DONE,./research/pedals/Xotic Effects/Bass BB Preamp V1.5 — Bass Boost / Overdrive.md
 Xotic Effects,Bass RC Booster V2,Overdrive,DONE,DONE,DONE,./research/pedals/Xotic Effects/Bass RC Booster V2.md
-Xotic Effects,Bass RC Booster V2 — bass boost/drive product,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Xotic Effects/Bass RC Booster V2 — bass boost/drive product.md
-Xotic Effects,BB Preamp V1.5,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Xotic Effects/BB Preamp V1.5.md
-Xotic Effects,BB Preamp V1.5 — Boost / Overdrive,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Xotic Effects/BB Preamp V1.5 — Boost / Overdrive.md
-Xotic Effects,RC Booster V2,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Xotic Effects/RC Booster V2.md
-Xotic Effects,RC Booster V2 — Transparent Boost with gain / dirt function,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Xotic Effects/RC Booster V2 — Transparent Boost with gain / dirt function.md
+Xotic Effects,Bass RC Booster V2 — bass boost/drive product,Overdrive,DONE,DONE,DONE,./research/pedals/Xotic Effects/Bass RC Booster V2 — bass boost/drive product.md
+Xotic Effects,BB Preamp V1.5,Overdrive,DONE,DONE,DONE,./research/pedals/Xotic Effects/BB Preamp V1.5.md
+Xotic Effects,BB Preamp V1.5 — Boost / Overdrive,Overdrive,DONE,DONE,DONE,./research/pedals/Xotic Effects/BB Preamp V1.5 — Boost / Overdrive.md
+Xotic Effects,RC Booster V2,Overdrive,DONE,DONE,DONE,./research/pedals/Xotic Effects/RC Booster V2.md
+Xotic Effects,RC Booster V2 — Transparent Boost with gain / dirt function,Overdrive,DONE,DONE,DONE,./research/pedals/Xotic Effects/RC Booster V2 — Transparent Boost with gain / dirt function.md
 Xotic Effects,SL Drive,Overdrive,DONE,DONE,DONE,./research/pedals/Xotic Effects/SL Drive.md
 Xotic Effects,SL Drive — Distortion / Overdrive,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Xotic Effects/SL Drive — Distortion / Overdrive.md
 Xotic Effects,Soul Driven,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Xotic Effects/Soul Driven.md
@@ -3724,12 +3724,12 @@ Zander Circuitry,Terra Firma,Distortion,DONE,DONE,DONE,./research/pedals/Zander 
 ZVEX Effects,'59 Sound,Distortion,DONE,DONE,DONE,./research/pedals/ZVEX Effects/'59 Sound.md
 ZVEX Effects,Basstortion,Distortion,DONE,DONE,DONE,./research/pedals/ZVEX Effects/Basstortion.md
 ZVEX Effects,Box of Metal,Distortion,DONE,DONE,DONE,./research/pedals/ZVEX Effects/Box of Metal.md
-ZVEX Effects,Box of Rock,Distortion,DONE,NEEDED,NEEDED,./research/pedals/ZVEX Effects/Box of Rock.md
-ZVEX Effects,Distortron,Distortion,DONE,NEEDED,NEEDED,./research/pedals/ZVEX Effects/Distortron.md
-ZVEX Effects,Double Rock,Distortion,DONE,NEEDED,NEEDED,./research/pedals/ZVEX Effects/Double Rock.md
+ZVEX Effects,Box of Rock,Distortion,DONE,DONE,DONE,./research/pedals/ZVEX Effects/Box of Rock.md
+ZVEX Effects,Distortron,Distortion,DONE,DONE,DONE,./research/pedals/ZVEX Effects/Distortron.md
+ZVEX Effects,Double Rock,Distortion,DONE,DONE,DONE,./research/pedals/ZVEX Effects/Double Rock.md
 ZVEX Effects,Fat Fuzz Factory,Fuzz,DONE,DONE,DONE,./research/pedals/ZVEX Effects/Fat Fuzz Factory.md
-ZVEX Effects,Fuzz Factory,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/ZVEX Effects/Fuzz Factory.md
-ZVEX Effects,Fuzz Factory 7,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/ZVEX Effects/Fuzz Factory 7.md
+ZVEX Effects,Fuzz Factory,Fuzz,DONE,DONE,DONE,./research/pedals/ZVEX Effects/Fuzz Factory.md
+ZVEX Effects,Fuzz Factory 7,Fuzz,DONE,DONE,DONE,./research/pedals/ZVEX Effects/Fuzz Factory 7.md
 ZVEX Effects,Fuzz Factory Vertical,Fuzz,DONE,DONE,DONE,./research/pedals/ZVEX Effects/Fuzz Factory Vertical.md
 ZVEX Effects,Fuzz Probe,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/ZVEX Effects/Fuzz Probe.md
 ZVEX Effects,Fuzzolo,Fuzz,DONE,DONE,DONE,./research/pedals/ZVEX Effects/Fuzzolo.md

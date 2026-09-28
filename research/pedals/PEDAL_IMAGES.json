@@ -13187,7 +13187,7 @@
   {
     "builder": "Cordovox",
     "pedal": "DS-8 Mouse",
-    "image": null,
+    "image": "./assets/pedals/cordovox/ds-8-mouse/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Cordovox/DS-8 Mouse.md"
   },
@@ -28062,14 +28062,14 @@
   {
     "builder": "Vemuram",
     "pedal": "Rage e — overdrive",
-    "image": null,
+    "image": "./assets/pedals/vemuram/rage-e-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Vemuram/Rage e — overdrive.md"
   },
   {
     "builder": "Vemuram",
     "pedal": "Shanks 4K",
-    "image": null,
+    "image": "./assets/pedals/vemuram/shanks-4k/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Vemuram/Shanks 4K.md"
   },
@@ -28335,7 +28335,7 @@
   {
     "builder": "Visual Sound / Truetone",
     "pedal": "Angry Fuzz",
-    "image": null,
+    "image": "./assets/pedals/visual-sound-truetone/angry-fuzz/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Visual Sound / Truetone/Angry Fuzz.md"
   },
@@ -28377,7 +28377,7 @@
   {
     "builder": "Visual Sound / Truetone",
     "pedal": "Jekyll & Hyde (original)",
-    "image": null,
+    "image": "./assets/pedals/visual-sound-truetone/jekyll-hyde-original/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Visual Sound / Truetone/Jekyll & Hyde (original).md"
   },
@@ -28608,7 +28608,7 @@
   {
     "builder": "VOX",
     "pedal": "VFZ-1 Fuzz",
-    "image": null,
+    "image": "./assets/pedals/vox/vfz-1-fuzz/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/VOX/VFZ-1 Fuzz.md"
   },
@@ -28706,7 +28706,7 @@
   {
     "builder": "Walrus Audio",
     "pedal": "Fundamental Series Drive",
-    "image": null,
+    "image": "./assets/pedals/walrus-audio/fundamental-series-drive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Walrus Audio/Fundamental Series Drive.md"
   },
@@ -29063,7 +29063,7 @@
   {
     "builder": "Wampler Pedals",
     "pedal": "SLOstortion",
-    "image": null,
+    "image": "./assets/pedals/wampler-pedals/slostortion/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Wampler Pedals/SLOstortion.md"
   },
@@ -29084,7 +29084,7 @@
   {
     "builder": "Wampler Pedals",
     "pedal": "the Compulsion Drive (tcd)",
-    "image": null,
+    "image": "./assets/pedals/wampler-pedals/the-compulsion-drive-tcd/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Wampler Pedals/the Compulsion Drive (tcd).md"
   },
@@ -29210,7 +29210,7 @@
   {
     "builder": "Way Huge",
     "pedal": "Foot Pig",
-    "image": null,
+    "image": "./assets/pedals/way-huge/foot-pig/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Way Huge/Foot Pig.md"
   },
@@ -29273,14 +29273,14 @@
   {
     "builder": "Way Huge",
     "pedal": "Pork Loin",
-    "image": null,
+    "image": "./assets/pedals/way-huge/pork-loin/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Way Huge/Pork Loin.md"
   },
   {
     "builder": "Way Huge",
     "pedal": "Red Llama 3.0",
-    "image": null,
+    "image": "./assets/pedals/way-huge/red-llama-3-0/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Way Huge/Red Llama 3.0.md"
   },
@@ -29469,7 +29469,7 @@
   {
     "builder": "Wren and Cuff",
     "pedal": "Elephant Skin",
-    "image": null,
+    "image": "./assets/pedals/wren-and-cuff/elephant-skin/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Wren and Cuff/Elephant Skin.md"
   },
@@ -29490,28 +29490,28 @@
   {
     "builder": "Wren and Cuff",
     "pedal": "Fade Font '94",
-    "image": null,
+    "image": "./assets/pedals/wren-and-cuff/fade-font-94/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Wren and Cuff/Fade Font '94.md"
   },
   {
     "builder": "Wren and Cuff",
     "pedal": "Forest for the Trees",
-    "image": null,
+    "image": "./assets/pedals/wren-and-cuff/forest-for-the-trees/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Wren and Cuff/Forest for the Trees.md"
   },
   {
     "builder": "Wren and Cuff",
     "pedal": "Hangman-2D",
-    "image": null,
+    "image": "./assets/pedals/wren-and-cuff/hangman-2d/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Wren and Cuff/Hangman-2D.md"
   },
   {
     "builder": "Wren and Cuff",
     "pedal": "J Mascis Garbage Face",
-    "image": null,
+    "image": "./assets/pedals/wren-and-cuff/j-mascis-garbage-face/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Wren and Cuff/J Mascis Garbage Face.md"
   },
@@ -29637,35 +29637,35 @@
   {
     "builder": "Xotic Effects",
     "pedal": "Bass RC Booster V2 — bass boost/drive product",
-    "image": null,
+    "image": "./assets/pedals/xotic-effects/bass-rc-booster-v2-bass-boost-drive-product/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Xotic Effects/Bass RC Booster V2 — bass boost/drive product.md"
   },
   {
     "builder": "Xotic Effects",
     "pedal": "BB Preamp V1.5",
-    "image": null,
+    "image": "./assets/pedals/xotic-effects/bb-preamp-v1-5/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Xotic Effects/BB Preamp V1.5.md"
   },
   {
     "builder": "Xotic Effects",
     "pedal": "BB Preamp V1.5 — Boost / Overdrive",
-    "image": null,
+    "image": "./assets/pedals/xotic-effects/bb-preamp-v1-5-boost-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Xotic Effects/BB Preamp V1.5 — Boost / Overdrive.md"
   },
   {
     "builder": "Xotic Effects",
     "pedal": "RC Booster V2",
-    "image": null,
+    "image": "./assets/pedals/xotic-effects/rc-booster-v2/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Xotic Effects/RC Booster V2.md"
   },
   {
     "builder": "Xotic Effects",
     "pedal": "RC Booster V2 — Transparent Boost with gain / dirt function",
-    "image": null,
+    "image": "./assets/pedals/xotic-effects/rc-booster-v2-transparent-boost-with-gain-dirt-function/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Xotic Effects/RC Booster V2 — Transparent Boost with gain / dirt function.md"
   },
@@ -29784,21 +29784,21 @@
   {
     "builder": "ZVEX Effects",
     "pedal": "Box of Rock",
-    "image": null,
+    "image": "./assets/pedals/zvex-effects/box-of-rock/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/ZVEX Effects/Box of Rock.md"
   },
   {
     "builder": "ZVEX Effects",
     "pedal": "Distortron",
-    "image": null,
+    "image": "./assets/pedals/zvex-effects/distortron/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/ZVEX Effects/Distortron.md"
   },
   {
     "builder": "ZVEX Effects",
     "pedal": "Double Rock",
-    "image": null,
+    "image": "./assets/pedals/zvex-effects/double-rock/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/ZVEX Effects/Double Rock.md"
   },
@@ -29812,14 +29812,14 @@
   {
     "builder": "ZVEX Effects",
     "pedal": "Fuzz Factory",
-    "image": null,
+    "image": "./assets/pedals/zvex-effects/fuzz-factory/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/ZVEX Effects/Fuzz Factory.md"
   },
   {
     "builder": "ZVEX Effects",
     "pedal": "Fuzz Factory 7",
-    "image": null,
+    "image": "./assets/pedals/zvex-effects/fuzz-factory-7/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/ZVEX Effects/Fuzz Factory 7.md"
   },
