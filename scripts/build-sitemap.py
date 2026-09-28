@@ -27,7 +27,7 @@ def public_url(builder: str, pedal: str) -> str:
         BASE
         + "pedal-detail.html?builder="
         + quote(builder, safe="")
-        + "&amp;pedal="
+        + "&pedal="
         + quote(pedal, safe="")
     )
 
