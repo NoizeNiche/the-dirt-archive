@@ -4,35 +4,44 @@
 - **Archive parent:** Mini Supa Drive
 - **Builder:** NUX Audio / NUX
 - **Catalog type:** Overdrive
-- **Identity:** NUX Audio / NUX's Mini Supa Drive.
+- **Research level:** Deep
+- **Deep research status:** Verified
+- **Identity:** NUX FOD5 Supa Drive Mini.
+
+## Deep research verification
+- **Exact-model evidence:** Verified against the exact-model product listing retained in the research inbox.
 
 ## What this pedal is
-NUX Audio / NUX's Mini Supa Drive is cataloged as an overdrive pedal.
+The retained exact-model listing identifies the Mini Supa Drive as the **NUX FOD5 Supa Drive**, a mini analog overdrive pedal with true bypass and three primary controls. [1]
 
-## Colorways
-- No specific factory colorway information was established in the verified evidence packet.
+## Controls
+- **DRIVE**
+- **TONE**
+- **LEVEL** [1]
 
-## Versions and factory options
-- No distinct factory revision was established in the verified evidence packet.
-
-## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+## Circuit / architecture
+The verified source describes the FOD5 as an **analog** mini overdrive. [1]
+A complete production schematic, op-amp identity, transistor complement, and clipping-device bill of materials were not established by the retained source.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
-- **Exact transistor/device:** Unknown.
+- **Exact production transistor/device:** Unknown.
 
 ## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
-- **Exact part:** Unknown.
+- **Exact production clipping diode:** Unknown.
+
+## Power and switching
+- **True bypass:** documented. [1]
+- **Exact operating-voltage/current specification:** Not established in the retained source.
+
+## Version / identity
+- **FOD5 Supa Drive:** exact model code associated with the Mini Supa Drive identity in the source. [1]
 
 ## Sound
-بازگشت به فروشگاه خانه / افکت / دیستورشن، اوردرایو، بوستر NUX Supa Drive مینی پدال اوردرایو True Bypass کنترل‌های Level ،Tone و Drive توضیحات توضیحات تکمیلی نظرات (0) پدال مینی اوردرایو NUX FOD5 SUPA DRIVE FOD5 Supa Drive، یک مینی پدال اوردرایو انالوگ برای گیتاریست‌ها است.
-اولین کسی باشید که دیدگاهی می نویسد “NUX Supa Drive” لغو پاسخ برای فرستادن دیدگاه، باید وارد شده باشید.
-The Dirt Archive currently catalogs **Mini Supa Drive** by **NUX Audio / NUX** as a **Overdrive** pedal.
+The source describes the FOD5 as an analog overdrive intended for guitar use, but does not provide enough verified technical or tonal detail for a fuller archive characterization. [1]
 
 ## Sources checked
-1. خرید پدال اوردرایو ناکس NUX Supa Drive - گیتار ایران: https://guitariran.com/product/nux-fod5-supa-drive-mini-pedal/
+1. **Guitar Iran — NUX Supa Drive / FOD5:** https://guitariran.com/product/nux-fod5-supa-drive-mini-pedal/
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately.
+- Exact-model photo provenance remains governed by the archive's photo identity gate.
