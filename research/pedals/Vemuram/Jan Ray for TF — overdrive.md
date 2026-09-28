@@ -1,23 +1,49 @@
 # Vemuram — Jan Ray for TF — overdrive
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Jan Ray for TF — overdrive
 - **Builder:** Vemuram
-- **Pedal:** Jan Ray for TF — overdrive
 - **Catalog type:** Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Research level:** Deep
+- **Deep research status:** Verified
+- **Identity:** Vemuram Jan Ray for TF, the Tomo Fujita limited model.
+
+## Deep research verification
+- **Exact-model evidence:** Verified against multiple exact-model listings documenting the Jan Ray for TF as a limited Tomo Fujita model.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Jan Ray for TF — overdrive** by **Vemuram** as a **Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+The Jan Ray for TF is a limited Vemuram model based on the Jan Ray, adjusted under Tomo Fujita's supervision. The documented version uses lower gain and a brighter tonal balance than the standard Jan Ray, with Bass and Treble centered around Fujita's preferred EQ setting. [1][2]
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Version / identity
+- **Limited model:** Jan Ray for TF. [1]
+- **Designer/artist association:** Tomo Fujita. [1][2]
+- The retained evidence does not establish a separate electrical revision.
+
+## Controls and voicing
+- **Bass**
+- **Treble**
+- **Gain**
+- **Volume** [1][2]
+
+The documented TF tuning uses more restrained gain and a slightly brighter tone than a standard Jan Ray. [1]
+
+## Circuit / architecture
+The verified sources establish the model as a Jan Ray-derived overdrive but do not disclose a complete production schematic or component-level semiconductor list.
+
+## Transistor
+- **Exact production transistor/device:** Unknown.
+
+## Diode
+- **Exact production clipping diode:** Unknown.
+
+## Sound
+Exact-model descriptions emphasize a low-gain, touch-sensitive Jan Ray family response with a slightly brighter tone and reduced maximum gain. [1][2]
+
+## Sources checked
+1. **AudioCans — Vemuram Jan Ray for TF:** https://www.audiocans.com/product/used-vemuram-jan-ray-for-tf-06/
+2. **GuitarPlayGear — Vemuram Jan Ray for TF:** https://www.guitarplaygear.com/product/used-vemuram-jan-ray-for-tf-06/
+3. **Stompbox Garden — Vemuram Jan Ray for TF:** https://www.stompboxgarden.com/gear/pedal/3937/vemuram-jan-ray-for-tf
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately.
+- Exact-model photo provenance remains governed by the archive's photo identity gate.
