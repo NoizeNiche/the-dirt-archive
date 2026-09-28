@@ -37,6 +37,54 @@
       "pattern": "challenges\\.cloudflare\\.com/cdn-cgi/challenge-platform",
       "reason": "Cloudflare challenge artwork, not an exact pedal photograph.",
       "severity": "hard_block"
+    },
+    {
+      "type": "url_regex",
+      "pattern": "files\\.effectsdatabase\\.com/(?:brands/(?:pics|thumbs)|graphics/google-preferred-source)",
+      "reason": "Effects Database brand/default artwork, not an exact pedal photograph.",
+      "severity": "hard_block"
+    },
+    {
+      "type": "url_regex",
+      "pattern": "(^|https?://)i\\.ytimg\\.com/vi/",
+      "reason": "YouTube video thumbnail, not an exact pedal product photograph.",
+      "severity": "hard_block"
+    },
+    {
+      "type": "url_regex",
+      "pattern": "(^|https?://)r\\.bing\\.com/rp/",
+      "reason": "Bing UI/search asset, not an exact pedal product photograph.",
+      "severity": "hard_block"
+    },
+    {
+      "type": "url_regex",
+      "pattern": "/(?:backgrounds|footer(?:_|-)?background)(?:/|_|-)",
+      "reason": "Generic site background/footer artwork, not an exact pedal product photograph.",
+      "severity": "hard_block"
+    },
+    {
+      "type": "url_regex",
+      "pattern": "/(?:ogp|open[-_]?graph|social[-_]?preview)(?:[/_.-]|$)",
+      "reason": "Social/OGP preview artwork, not an exact pedal product photograph.",
+      "severity": "hard_block"
+    },
+    {
+      "type": "url_regex",
+      "pattern": "/(?:main[-_]?logo|mainlogo)(?:[/_.-]|$)",
+      "reason": "Generic builder/site logo asset, not an exact pedal product photograph.",
+      "severity": "hard_block"
+    },
+    {
+      "type": "url_regex",
+      "pattern": "quanta-brands\\.jp/.*(?:/OGP\\.|/ogp\\.)",
+      "reason": "Quanta Brands OGP artwork, not an exact pedal product photograph.",
+      "severity": "hard_block"
+    },
+    {
+      "type": "url_regex",
+      "pattern": "fuzzgoddess\\.com/img/workbench-",
+      "reason": "Generic workbench/site image, not an exact pedal product photograph.",
+      "severity": "hard_block"
     }
   ]
 }
