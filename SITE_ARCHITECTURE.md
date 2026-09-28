@@ -71,6 +71,19 @@ Both modes use the same search, dirt-type, builder, technical, coverage, paginat
 
 The table view is descriptive and intentionally omits unsupported or inferred technical values. Missing values remain explicitly undocumented.
 
+## Builder archive
+
+The public site includes a query-driven Builder Archive view at builder.html?builder={Builder}. It is a derived view over research/PEDAL_INDEX.json, not a second builder data store.
+
+A builder archive page may show:
+- canonical dirt-pedal records for that builder
+- counts for cataloged records, product families, documented versions, cosmetic editions, and exact local photographs
+- dirt-type counts and an in-builder text search
+- version-family relationships and parent/child context
+- direct links to exact pedal records
+
+The page is descriptive and historical. It does not assign builder ratings, popularity, quality scores, or marketplace status. Official manuals, support resources, and builder-submitted corrections can be added later only through structured data/review workflows; the page must not guess external builder URLs.
+
 ## Individual pedal page
 
 The normal pedal page stays approachable:
