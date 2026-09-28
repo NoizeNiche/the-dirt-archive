@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Expires" content="0">
+<title>Identify a Pedal · The Dirt Archive</title>
+<meta name="description" content="Narrow an unknown guitar dirt pedal using documented builder, dirt type, technical, power, and name clues.">
+<link rel="canonical" href="./identify.html">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="The Dirt Archive">
+<meta property="og:title" content="Identify a Pedal · The Dirt Archive">
+<meta property="og:description" content="Narrow an unknown guitar dirt pedal using documented archive clues.">
+<link rel="stylesheet" href="./assets/css/archive-index.css">
+<link rel="stylesheet" href="./assets/css/archive-identify.css">
+</head>
+<body>
+<a class="skipLink" href="#mainContent">Skip to content</a>
+<header class="siteHeader">
+  <div class="wrap">
+    <div class="headerRow">
+      <div class="brandBlock">
+        <a class="brandLink" href="./index.html">The Dirt Archive</a>
+        <p class="kicker">PEDAL IDENTIFICATION</p>
+      </div>
+      <div class="headerNote"><strong>Narrow it down. Don't guess.</strong><br>Use documented archive facts to reduce an unknown pedal to a manageable set of records.</div>
+    </div>
+  </div>
+</header>
+
+<main id="mainContent" class="wrap">
+  <div class="boardSurface identifySurface">
+    <section class="identifyHero">
+      <div class="heroEyebrow">Identify a pedal</div>
+      <h1>What do you know about it?</h1>
+      <p class="identifyIntro">Start with one clue or combine several. Results are possible archive matches, not an automatic identification. Missing documentation stays missing.</p>
+
+      <div class="identifyGrid">
+        <section class="identifyPanel">
+          <div class="identifyPanelHead"><strong>1. Dirt family</strong><span>optional</span></div>
+          <div class="identifyChoices" id="typeChoices"></div>
+        </section>
+
+        <section class="identifyPanel">
+          <div class="identifyPanelHead"><strong>2. Builder</strong><span>optional</span></div>
+          <div class="identifyBuilderWrap">
+            <span class="searchIcon">⌕</span>
+            <input id="builderSearch" class="search" type="search" placeholder="Builder name…" aria-label="Builder name">
+            <div id="builderSuggestions" class="identifySuggestions" hidden></div>
+          </div>
+          <button id="clearBuilder" class="identifyClear" type="button" hidden>Clear builder</button>
+          <div id="builderChosen" class="identifyChosen" hidden></div>
+        </section>
+
+        <section class="identifyPanel">
+          <div class="identifyPanelHead"><strong>3. Documented electronics</strong><span>only what the archive knows</span></div>
+          <div class="identifyFacetGroup"><span>Transistor</span><div id="transistorChoices" class="identifyChoices"></div></div>
+          <div class="identifyFacetGroup"><span>Clipping</span><div id="clippingChoices" class="identifyChoices"></div></div>
+        </section>
+
+        <section class="identifyPanel">
+          <div class="identifyPanelHead"><strong>4. Power</strong><span>optional</span></div>
+          <div id="powerChoices" class="identifyChoices"></div>
+        </section>
+
+        <section class="identifyPanel identifyPanelWide">
+          <div class="identifyPanelHead"><strong>5. Name or marking clue</strong><span>optional</span></div>
+          <div class="identifyTextWrap">
+            <span class="searchIcon">⌕</span>
+            <input id="clueSearch" class="search" type="search" placeholder="Type any visible name, number, or marking…" aria-label="Name or marking clue">
+          </div>
+          <p class="identifyHint">Searches the canonical pedal name, builder, documented aliases, versions, colorways, and research-derived descriptive text.</p>
+        </section>
+      </div>
+
+      <section class="identifyResultsPanel">
+        <div class="identifyResultHead">
+          <div>
+            <div class="heroEyebrow">Possible matches</div>
+            <h2 id="resultTitle">All archived dirt pedals</h2>
+          </div>
+          <div class="identifyResultMeta" id="resultMeta" aria-live="polite">Loading…</div>
+        </div>
+        <div class="identifyActions">
+          <button class="action" id="resetIdentify" type="button">Reset clues</button>
+          <a class="action primary" id="openResults" href="./index.html">Open results in archive</a>
+        </div>
+        <div id="resultGrid" class="identifyResultGrid"></div>
+      </section>
+    </section>
+  </div>
+</main>
+
+<footer class="siteFooter"><div class="wrap"><span>The Dirt Archive · narrow the unknown</span><span><a href="./index.html">Archive</a><a href="./builders.html">Builders</a><a href="./methodology.html">Methodology</a></span></div></footer>
+<script src="./assets/js/archive-core.js" defer></script>
+<script src="./assets/js/archive-identify.js" defer></script>
+</body>
+</html>
