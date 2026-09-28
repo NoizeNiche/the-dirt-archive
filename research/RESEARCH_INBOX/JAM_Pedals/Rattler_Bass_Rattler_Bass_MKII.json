@@ -1,0 +1,25 @@
+{
+  "builder": "JAM Pedals",
+  "pedal": "Rattler Bass / Rattler Bass MKII",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 2,
+  "sources": [
+    {
+      "url": "https://www.jampedals.com/rattler-bass/",
+      "title": "catalog/override source",
+      "h1": "JAM Pedals \u2014 Rattler Bass / Rattler Bass MKII",
+      "excerpt": "- **Archive parent:** Rattler Bass / Rattler Bass MKII\n- **Builder:** JAM Pedals\n- **Research level:** Deep\n- **Deep research status:** Verified\n- **Identity:** Exact-model sources identify this catalog record as JAM Pedals's Rattler Bass / Rattler Bass MKII.\n\nJAM Pedals Rattler Bass model documented by the manufacturer and an independent pedal reference.\n\n- No distinct factory revision history was established in this pass.\n- No additional factory options are inferred beyond the exact-model source set.\n\n- **Exact production transistor/device:** Unknown.\n\n- **Exact clipping/rectifier diode:** Unknown.\n\nThe verified source set establishes the exact model identity and its dirt-function classification. No unsupported circuit, component, or version claims are added.\n\n1. Exact-model manufacturer/reference source: https://www.jampedals.com/rattler-bass/\n2. Independent exact-model source: https://onethousandpedals.com/pedal/jam-pedals-rattler-bass\n\n- **Archive status:** Photo recovery is handled separately.",
+      "host": "www.jampedals.com",
+      "source_kind": "manufacturer"
+    },
+    {
+      "url": "https://onethousandpedals.com/pedal/jam-pedals-rattler-bass",
+      "title": "JAM Pedals Rattler Bass \u2014 Distortion Pedal Specs & Where to Buy | one thousand pedals",
+      "h1": "JAM Pedals Rattler Bass",
+      "excerpt": "JAM Pedals Rattler Bass \u2014 Distortion Pedal Specs & Where to Buy | one thousand pedals one thousand pedals / JAM Pedals / Rattler Bass JAM Pedals Rattler Bass Distortion (Bass Distortion) \u00b7 $279 From $279 Category Distortion Signal Analog Circuit Custom op-amp distortion (bass-voiced) The JAM Pedals Rattler Bass is an analog bass Distortion pedal based on the Custom op-amp distortion (bass-voiced), with L (Output Level), G (Gain), T (Tone), M (Mix clean/distorted) controls, made in Greece. From $279. Full specifications Category Distortion (Bass Distortion) Circuit / based on Custom op-amp distortion (bass-voiced) Signal Analog Controls L (Output Level), G (Gain), T (Tone), M (Mix clean/distorted) Footswitches 2 (ON/OFF; High-Gain stage) Bypass True Bypass True bypass Yes Power 9V DC Power draw 40 mA Dimensions 7.5 x 12 x 5.6 cm / 2.9 x 4.7 x 2.2 in Weight 280 g / 0.6 lbs Country of manufacture Greece Where to buy Visit JAM Pedals &rarr; More from JAM Pedals Red Muck Bass Bass Fuzz / Muff \u00b7 $279 Red Muck mk.2 Big Muff-style Fuzz / Distortion \u00b7 $279 Tubedreamer Tube Screamer-style Overdrive \u00b7 $279 WaterFall BBD Chorus / Vibrato \u00b7 $299 WaterFall Bass Bass BBD Chorus / Vibrato \u00b7 $299 Delay Llama mk.3 Analog BBD Delay \u00b7 $319 Harmonious Monk Harmonic Tremolo \u00b7 $319 Double Dreamer Dual Overdrive (Tubedreamer + Lucydreamer) \u00b7 $359 See all JAM Pedals pedals &rarr; Similar pedals Closest matches from other makers, by spec and circuit. Damnation Audio Bass Amp Grinder Bass Distortion (RAT-style) \u00b7 $229 Wampler Ratsbane RAT-style Distortion (fuzz/distortion crossover) \u00b7 $149.97 JHS Pedals PackRat 9-way ProCo RAT (multi-mode) \u00b7 $249 Browse all Distortion pedals &rarr; one thousand pedals \u00b7 Specs from the manufacturer; blanks left blank, never guessed. Prices in USD, base (&ldquo;from&rdquo;) price where a pedal has options.\n- **Archive parent:** Rattler Bass / Rattler Bass MKII\n- **Builder:** JAM Pedals\n- **Research level:** Deep\n- **Deep research status:** Verified\n- **Identity:** Exact-model sources identify this catalog record as JAM Pedals's Rattler Bass / Rattler Bass MKII.\n\nJAM Pedals Rattler Bass model documented by the manufacturer and an independent pedal reference.\n\n- No distinct factory revision history was established in this pass.\n- No additional factory options are inferred beyond the exact-model source set.\n\n- **Exact production transistor/device:** Unknown.\n\n- **Exact clipping/rectifier diode:** Unknown.\n\nThe verified source set establishes the exact model identity and its dirt-function classification. No unsupported circuit, component, or version claims are added.\n\n1. Exact-model manufacturer/reference source: https://www.jampedals.com/rattler-bass/\n2. Independent exact-model source: https://onethousandpedals.com/pedal/jam-pedals-rattler-bass\n\n- **Archive status:** Photo recovery is handled separately.",
+      "host": "onethousandpedals.com",
+      "source_kind": "catalog_verified"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}

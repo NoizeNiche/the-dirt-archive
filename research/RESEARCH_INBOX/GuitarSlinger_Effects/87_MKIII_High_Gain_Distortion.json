@@ -1,0 +1,25 @@
+{
+  "builder": "GuitarSlinger Effects",
+  "pedal": "87 MKIII High Gain Distortion",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 2,
+  "sources": [
+    {
+      "url": "https://www.guitarslingerproducts.com/en/GuitarSlinger-Effects/Wiring-Kits-Pedals-More/Pedals/87-MKIII-High-Gain-Distortion-Pedal-Legendary-87-Guitar-Sound.html",
+      "title": "catalog/override source",
+      "h1": "GuitarSlinger Effects \u2014 87 MKIII High Gain Distortion",
+      "excerpt": "- **Archive parent:** 87 MKIII High Gain Distortion\n- **Builder:** GuitarSlinger Effects\n- **Research level:** Deep\n- **Deep research status:** Verified\n- **Identity:** Exact-model sources identify this catalog record as GuitarSlinger Effects's 87 MKIII High Gain Distortion.\n\nGuitarSlinger Effects high-gain distortion pedal documented by the manufacturer and an independent Reverb listing.\n\n- No distinct factory revision history was established in this pass.\n- No additional factory options are inferred beyond the exact-model source set.\n\n- **Exact production transistor/device:** Unknown.\n\n- **Exact clipping/rectifier diode:** Unknown.\n\nThe verified source set establishes the exact model identity and its dirt-function classification. No unsupported circuit, component, or version claims are added.\n\n1. Exact-model manufacturer/reference source: https://www.guitarslingerproducts.com/en/GuitarSlinger-Effects/Wiring-Kits-Pedals-More/Pedals/87-MKIII-High-Gain-Distortion-Pedal-Legendary-87-Guitar-Sound.html\n2. Independent exact-model source: https://reverb.com/item/47911865-guitar-slinger-87-mkiii\n\n- **Archive status:** Photo recovery is handled separately.",
+      "host": "www.guitarslingerproducts.com",
+      "source_kind": "catalog_verified"
+    },
+    {
+      "url": "https://reverb.com/item/47911865-guitar-slinger-87-mkiii",
+      "title": "catalog/override source",
+      "h1": "GuitarSlinger Effects \u2014 87 MKIII High Gain Distortion",
+      "excerpt": "- **Archive parent:** 87 MKIII High Gain Distortion\n- **Builder:** GuitarSlinger Effects\n- **Research level:** Deep\n- **Deep research status:** Verified\n- **Identity:** Exact-model sources identify this catalog record as GuitarSlinger Effects's 87 MKIII High Gain Distortion.\n\nGuitarSlinger Effects high-gain distortion pedal documented by the manufacturer and an independent Reverb listing.\n\n- No distinct factory revision history was established in this pass.\n- No additional factory options are inferred beyond the exact-model source set.\n\n- **Exact production transistor/device:** Unknown.\n\n- **Exact clipping/rectifier diode:** Unknown.\n\nThe verified source set establishes the exact model identity and its dirt-function classification. No unsupported circuit, component, or version claims are added.\n\n1. Exact-model manufacturer/reference source: https://www.guitarslingerproducts.com/en/GuitarSlinger-Effects/Wiring-Kits-Pedals-More/Pedals/87-MKIII-High-Gain-Distortion-Pedal-Legendary-87-Guitar-Sound.html\n2. Independent exact-model source: https://reverb.com/item/47911865-guitar-slinger-87-mkiii\n\n- **Archive status:** Photo recovery is handled separately.",
+      "host": "reverb.com",
+      "source_kind": "reverb"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}
