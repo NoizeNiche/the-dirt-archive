@@ -42988,7 +42988,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": "",
+      "image": "./assets/pedals/mad-professor-amplification/sweet-honey-overdrive-custom/primary.webp",
       "source_page": "https://mpamp.com/category/8/shop",
       "research_record": "./research/pedals/Mad Professor Amplification/Sweet Honey Overdrive Custom.md",
       "research_level": "deep",
@@ -43013,7 +43013,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": "",
+      "image": "./assets/pedals/mad-professor-amplification/sweet-honey-overdrive-handwired/primary.webp",
       "source_page": "https://mpamp.com/category/8/shop",
       "research_record": "./research/pedals/Mad Professor Amplification/Sweet Honey Overdrive Handwired.md",
       "research_level": "surface",
@@ -49223,7 +49223,7 @@
         "Distortion",
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/pigtronix/star-eater/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Pigtronix/Star Eater.md",
       "research_level": "deep",
@@ -54714,7 +54714,7 @@
         "Distortion",
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/walrus-audio/ages-five-state-overdrive-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Walrus Audio/Ages Five-State Overdrive — Overdrive.md",
       "research_level": "surface",
@@ -54918,7 +54918,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/walrus-audio/mayflower-mid-range-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Walrus Audio/Mayflower Mid-Range Overdrive.md",
       "research_level": "deep",
@@ -54946,7 +54946,7 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/walrus-audio/melee-wall-of-noise-distortion-reverb/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Walrus Audio/Melee: Wall of Noise — Distortion + Reverb.md",
       "research_level": "deep",
@@ -54958,7 +54958,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/walrus-audio/messner-stage-one-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Walrus Audio/Messner Stage-One Overdrive.md",
       "research_level": "deep",
@@ -54972,7 +54972,7 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/walrus-audio/silt-harmonic-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Walrus Audio/Silt Harmonic Fuzz.md",
       "research_level": "deep",
@@ -54985,7 +54985,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/walrus-audio/silt-harmonic-fuzz-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Walrus Audio/Silt Harmonic Fuzz — Fuzz.md",
       "research_level": "deep",
@@ -54997,7 +54997,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/walrus-audio/voyager-preamp-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Walrus Audio/Voyager Preamp/Overdrive.md",
       "research_level": "deep",
@@ -55011,7 +55011,7 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/walrus-audio/voyager-preamp-overdrive-mkii/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Walrus Audio/Voyager Preamp/Overdrive MKII.md",
       "research_level": "deep",
@@ -55024,7 +55024,7 @@
         "Distortion",
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/walrus-audio/voyager-preamp-overdrive-mkii-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Walrus Audio/Voyager Preamp/Overdrive MKII — Overdrive.md",
       "research_level": "deep",
@@ -55036,7 +55036,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/walrus-audio/warhorn-mid-range-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Walrus Audio/Warhorn Mid-Range Overdrive.md",
       "research_level": "deep",
@@ -55640,7 +55640,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/wampler-pedals/tweed-57/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Wampler Pedals/Tweed '57.md",
       "research_level": "deep",
@@ -55667,7 +55667,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/wampler-pedals/underdog/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Wampler Pedals/UnderDog.md",
       "research_level": "deep",
@@ -55679,7 +55679,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/wampler-pedals/velvet-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Wampler Pedals/Velvet Fuzz.md",
       "research_level": "deep",
@@ -55961,7 +55961,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/way-huge/smalls-geisha-drive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Way Huge/Smalls Geisha Drive.md",
       "research_level": "deep",
@@ -55985,7 +55985,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/way-huge/smalls-overrated-special/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Way Huge/Smalls Overrated Special.md",
       "research_level": "deep",
@@ -56064,7 +56064,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/way-huge/sto/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Way Huge/STO.md",
       "research_level": "deep",
@@ -56076,7 +56076,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/way-huge/stone-burner/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Way Huge/Stone Burner.md",
       "research_level": "deep",
@@ -56953,7 +56953,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/zvex-effects/mastotron/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/ZVEX Effects/Mastotron.md",
       "research_level": "deep",
@@ -56989,7 +56989,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/zvex-effects/woolly-mammoth-7/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/ZVEX Effects/Woolly Mammoth 7.md",
       "research_level": "deep",

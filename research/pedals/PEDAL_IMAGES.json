@@ -23567,7 +23567,7 @@
   {
     "builder": "Mad Professor Amplification",
     "pedal": "Sweet Honey Overdrive Custom",
-    "image": "",
+    "image": "./assets/pedals/mad-professor-amplification/sweet-honey-overdrive-custom/primary.webp",
     "source_page": "https://mpamp.com/category/8/shop",
     "research_record": "./research/pedals/Mad Professor Amplification/Sweet Honey Overdrive Custom.md",
     "image_source_page": "https://kc-music.jp/mad-professor/sweet-honey-overdrive-custom.html"
@@ -23582,7 +23582,7 @@
   {
     "builder": "Mad Professor Amplification",
     "pedal": "Sweet Honey Overdrive Handwired",
-    "image": "",
+    "image": "./assets/pedals/mad-professor-amplification/sweet-honey-overdrive-handwired/primary.webp",
     "source_page": "https://mpamp.com/category/8/shop",
     "research_record": "./research/pedals/Mad Professor Amplification/Sweet Honey Overdrive Handwired.md",
     "image_source_page": "https://mpamp.com/product/93/sweet-honey-overdrive-handwired"
@@ -27125,7 +27125,7 @@
   {
     "builder": "Pigtronix",
     "pedal": "Star Eater",
-    "image": null,
+    "image": "./assets/pedals/pigtronix/star-eater/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Pigtronix/Star Eater.md"
   },
@@ -30241,7 +30241,7 @@
   {
     "builder": "Walrus Audio",
     "pedal": "Ages Five-State Overdrive — Overdrive",
-    "image": null,
+    "image": "./assets/pedals/walrus-audio/ages-five-state-overdrive-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Walrus Audio/Ages Five-State Overdrive — Overdrive.md"
   },
@@ -30353,7 +30353,7 @@
   {
     "builder": "Walrus Audio",
     "pedal": "Mayflower Mid-Range Overdrive",
-    "image": null,
+    "image": "./assets/pedals/walrus-audio/mayflower-mid-range-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Walrus Audio/Mayflower Mid-Range Overdrive.md"
   },
@@ -30367,56 +30367,56 @@
   {
     "builder": "Walrus Audio",
     "pedal": "Melee: Wall of Noise — Distortion + Reverb",
-    "image": null,
+    "image": "./assets/pedals/walrus-audio/melee-wall-of-noise-distortion-reverb/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Walrus Audio/Melee: Wall of Noise — Distortion + Reverb.md"
   },
   {
     "builder": "Walrus Audio",
     "pedal": "Messner Stage-One Overdrive",
-    "image": null,
+    "image": "./assets/pedals/walrus-audio/messner-stage-one-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Walrus Audio/Messner Stage-One Overdrive.md"
   },
   {
     "builder": "Walrus Audio",
     "pedal": "Silt Harmonic Fuzz",
-    "image": null,
+    "image": "./assets/pedals/walrus-audio/silt-harmonic-fuzz/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Walrus Audio/Silt Harmonic Fuzz.md"
   },
   {
     "builder": "Walrus Audio",
     "pedal": "Silt Harmonic Fuzz — Fuzz",
-    "image": null,
+    "image": "./assets/pedals/walrus-audio/silt-harmonic-fuzz-fuzz/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Walrus Audio/Silt Harmonic Fuzz — Fuzz.md"
   },
   {
     "builder": "Walrus Audio",
     "pedal": "Voyager Preamp/Overdrive",
-    "image": null,
+    "image": "./assets/pedals/walrus-audio/voyager-preamp-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Walrus Audio/Voyager Preamp/Overdrive.md"
   },
   {
     "builder": "Walrus Audio",
     "pedal": "Voyager Preamp/Overdrive MKII",
-    "image": null,
+    "image": "./assets/pedals/walrus-audio/voyager-preamp-overdrive-mkii/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Walrus Audio/Voyager Preamp/Overdrive MKII.md"
   },
   {
     "builder": "Walrus Audio",
     "pedal": "Voyager Preamp/Overdrive MKII — Overdrive",
-    "image": null,
+    "image": "./assets/pedals/walrus-audio/voyager-preamp-overdrive-mkii-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Walrus Audio/Voyager Preamp/Overdrive MKII — Overdrive.md"
   },
   {
     "builder": "Walrus Audio",
     "pedal": "Warhorn Mid-Range Overdrive",
-    "image": null,
+    "image": "./assets/pedals/walrus-audio/warhorn-mid-range-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Walrus Audio/Warhorn Mid-Range Overdrive.md"
   },
@@ -30748,7 +30748,7 @@
   {
     "builder": "Wampler Pedals",
     "pedal": "Tweed '57",
-    "image": null,
+    "image": "./assets/pedals/wampler-pedals/tweed-57/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Wampler Pedals/Tweed '57.md"
   },
@@ -30763,14 +30763,14 @@
   {
     "builder": "Wampler Pedals",
     "pedal": "UnderDog",
-    "image": null,
+    "image": "./assets/pedals/wampler-pedals/underdog/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Wampler Pedals/UnderDog.md"
   },
   {
     "builder": "Wampler Pedals",
     "pedal": "Velvet Fuzz",
-    "image": null,
+    "image": "./assets/pedals/wampler-pedals/velvet-fuzz/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Wampler Pedals/Velvet Fuzz.md"
   },
@@ -30931,7 +30931,7 @@
   {
     "builder": "Way Huge",
     "pedal": "Smalls Geisha Drive",
-    "image": null,
+    "image": "./assets/pedals/way-huge/smalls-geisha-drive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Way Huge/Smalls Geisha Drive.md"
   },
@@ -30945,7 +30945,7 @@
   {
     "builder": "Way Huge",
     "pedal": "Smalls Overrated Special",
-    "image": null,
+    "image": "./assets/pedals/way-huge/smalls-overrated-special/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Way Huge/Smalls Overrated Special.md"
   },
@@ -30990,14 +30990,14 @@
   {
     "builder": "Way Huge",
     "pedal": "STO",
-    "image": null,
+    "image": "./assets/pedals/way-huge/sto/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Way Huge/STO.md"
   },
   {
     "builder": "Way Huge",
     "pedal": "Stone Burner",
-    "image": null,
+    "image": "./assets/pedals/way-huge/stone-burner/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Way Huge/Stone Burner.md"
   },
@@ -31489,7 +31489,7 @@
   {
     "builder": "ZVEX Effects",
     "pedal": "Mastotron",
-    "image": null,
+    "image": "./assets/pedals/zvex-effects/mastotron/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/ZVEX Effects/Mastotron.md"
   },
@@ -31510,7 +31510,7 @@
   {
     "builder": "ZVEX Effects",
     "pedal": "Woolly Mammoth 7",
-    "image": null,
+    "image": "./assets/pedals/zvex-effects/woolly-mammoth-7/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/ZVEX Effects/Woolly Mammoth 7.md"
   }
