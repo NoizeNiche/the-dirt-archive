@@ -1,11 +1,11 @@
 # Pedal Image Cache Report
 
-- Cached in this run: **3**
+- Cached in this run: **7**
 - Staged browser photos converted: **0**
 - Local images retained/reorganized: **0**
 - Download failures: **1**
-- Remaining tracker photo backlog: **352**
-- Researched, photo pending: **352**
+- Remaining tracker photo backlog: **345**
+- Researched, photo pending: **345**
 - External source images awaiting localization: **0**
 
 ## Storage layout
@@ -16,9 +16,13 @@
 
 ## Newly cached
 
-- BOSS - DF-2 Super Feedbacker & Distortion -> `./assets/pedals/boss/df-2-super-feedbacker-distortion/primary.webp`
-- Devi Ever FX - GZ Goddess Zero -> `./assets/pedals/devi-ever-fx/gz-goddess-zero/primary.webp`
-- Devi Ever FX - US -> `./assets/pedals/devi-ever-fx/us/primary.webp`
+- Devi Ever FX - Black Spider -> `./assets/pedals/devi-ever-fx/black-spider/primary.webp`
+- Devi Ever FX - LP Let's Play -> `./assets/pedals/devi-ever-fx/lp-let-s-play/primary.webp`
+- Devi Ever FX - VF Vintage Fuzz Master -> `./assets/pedals/devi-ever-fx/vf-vintage-fuzz-master/primary.webp`
+- Devi Ever FX - War Horse -> `./assets/pedals/devi-ever-fx/war-horse/primary.webp`
+- MadeByMike - Germanium Fuzz Face -> `./assets/pedals/madebymike/germanium-fuzz-face/primary.webp`
+- Maxon - OSD-9 Overdrive / Soft Distortion -> `./assets/pedals/maxon/osd-9-overdrive-soft-distortion/primary.webp`
+- Maxon / Nisshin Onpa - TBO-9 True Tube Booster / Overdrive -> `./assets/pedals/maxon-nisshin-onpa/tbo-9-true-tube-booster-overdrive/primary.webp`
 
 ## Still external / failed
 

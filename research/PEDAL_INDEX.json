@@ -32151,11 +32151,13 @@
       "types": [
         "Fuzz"
       ],
-      "image": "",
+      "image": "./assets/pedals/devi-ever-fx/black-spider/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/deviever",
       "research_record": "./research/pedals/Devi Ever FX/Black Spider.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://files.effectsdatabase.com/brands/thumbs/deviever_000.jpg",
+      "image_source_page": "https://www.effectsdatabase.com/model/deviever"
     },
     {
       "company": "Devi Ever FX",
@@ -32531,11 +32533,13 @@
       "types": [
         "Overdrive"
       ],
-      "image": "",
+      "image": "./assets/pedals/devi-ever-fx/lp-let-s-play/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/deviever",
       "research_record": "./research/pedals/Devi Ever FX/LP Let's Play.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://files.effectsdatabase.com/brands/pics/deviever_001.jpg",
+      "image_source_page": "https://www.effectsdatabase.com/model/deviever"
     },
     {
       "company": "Devi Ever FX",
@@ -32894,11 +32898,13 @@
       "types": [
         "Fuzz"
       ],
-      "image": "",
+      "image": "./assets/pedals/devi-ever-fx/vf-vintage-fuzz-master/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/deviever",
       "research_record": "./research/pedals/Devi Ever FX/VF Vintage Fuzz Master.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://files.effectsdatabase.com/brands/pics/deviever_001.jpg",
+      "image_source_page": "https://www.effectsdatabase.com/model/deviever"
     },
     {
       "company": "Devi Ever FX",
@@ -32918,11 +32924,13 @@
       "types": [
         "Fuzz"
       ],
-      "image": "",
+      "image": "./assets/pedals/devi-ever-fx/war-horse/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/deviever",
       "research_record": "./research/pedals/Devi Ever FX/War Horse.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://files.effectsdatabase.com/brands/pics/deviever_001.jpg",
+      "image_source_page": "https://www.effectsdatabase.com/model/deviever"
     },
     {
       "company": "Devi Ever FX",
@@ -43397,12 +43405,13 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/madebymike/germanium-fuzz-face/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/MadeByMike/Germanium Fuzz Face.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://www.madebymike.co.uk/germaniumfuzzface.shtml"
+      "image_source_page": "https://www.effectsdatabase.com/model/madebymike/germaniumfuzzface",
+      "image_source_url": "https://files.effectsdatabase.com/brands/thumbs/madebymike_000.jpg"
     },
     {
       "company": "MadeByMike",
@@ -44215,11 +44224,13 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/maxon/osd-9-overdrive-soft-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Maxon/OSD-9 Overdrive / Soft Distortion.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://maxonfx.com/cdn/shop/products/Maxon-9Series-OSD9-300px.png?v=1543941571",
+      "image_source_page": "https://maxonfx.com/products/overdrive-soft-distortion-osd-9"
     },
     {
       "company": "Maxon",
@@ -44736,7 +44747,8 @@
       "source_page": "https://www.maxonfx.com/",
       "research_record": "./research/pedals/Maxon / Nisshin Onpa/OD-9.md",
       "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "deep_research_status": "PENDING",
+      "image_source_page": "https://maxonfx.com/collections/nine-series/overdrive"
     },
     {
       "company": "Maxon / Nisshin Onpa",
@@ -44748,7 +44760,8 @@
       "source_page": "https://www.maxonfx.com/",
       "research_record": "./research/pedals/Maxon / Nisshin Onpa/OD-9 Pro+.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_page": "https://maxonfx.com/collections/nine-series/overdrive"
     },
     {
       "company": "Maxon / Nisshin Onpa",
@@ -44809,7 +44822,8 @@
       "source_page": "https://www.maxonfx.com/",
       "research_record": "./research/pedals/Maxon / Nisshin Onpa/OSD-9 Overdrive / Soft Distortion.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_page": "https://maxonfx.com/collections/nine-series/distortion"
     },
     {
       "company": "Maxon / Nisshin Onpa",
@@ -44907,7 +44921,8 @@
       "source_page": "https://www.maxonfx.com/",
       "research_record": "./research/pedals/Maxon / Nisshin Onpa/SSD-9 Super Sonic Distortion.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_page": "https://maxonfx.com/products/super-sonic-distortion-ssd-9"
     },
     {
       "company": "Maxon / Nisshin Onpa",
@@ -44939,11 +44954,13 @@
       "types": [
         "Overdrive"
       ],
-      "image": "",
+      "image": "./assets/pedals/maxon-nisshin-onpa/tbo-9-true-tube-booster-overdrive/primary.webp",
       "source_page": "https://www.maxonfx.com/",
       "research_record": "./research/pedals/Maxon / Nisshin Onpa/TBO-9 True Tube Booster / Overdrive.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://maxonfx.com/cdn/shop/products/Maxon-9Series-TBO9-300px.png?v=1543941573",
+      "image_source_page": "https://maxonfx.com/products/true-tube-booster-overdrive-tbo-9"
     },
     {
       "company": "Maxon / Nisshin Onpa",
