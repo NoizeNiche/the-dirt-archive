@@ -132,8 +132,8 @@ def main():
             else:
                 try:
                     with Image.open(asset) as im:
-                        if min(im.width, im.height) < 16:
-                            reasons.append(f"obviously corrupt photo dimensions {im.width}x{im.height}")
+                        if min(im.width, im.height) < 64:
+                            reasons.append(f"obviously tiny/corrupt photo dimensions {im.width}x{im.height}")
                         else:
                             im.verify()
                 except Exception as exc:
