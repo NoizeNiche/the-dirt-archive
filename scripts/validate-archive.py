@@ -45,6 +45,22 @@ def archived_image(image):
     normalized = image.replace("\\", "/").lstrip("./")
     return normalized.startswith("assets/pedals/") and (ROOT / normalized).is_file()
 
+def forbidden_photo_provenance(value):
+    try:
+        from urllib.parse import urlparse
+        parsed = urlparse(str(value or ""))
+        haystack = (parsed.netloc + parsed.path + ("?" + parsed.query if parsed.query else "")).lower()
+        basename = parsed.path.rstrip("/").split("/")[-1]
+        if re.search(r"(?:buymeacoffee|patreon|donate|donation|sponsor|payment|checkout|support(?:[-_]?us)?|tracking|pixel|analytics|consent)", haystack, re.I):
+            return True
+        if re.search(r"(?:logo|favicon|sprite|avatar|badge|icon|social|banner|widget|placeholder|spinner)(?:[-_.]|$)", basename, re.I):
+            return True
+        if re.search(r"/graphics/(?:buymeacoffee|donate|support|sponsor|payment|banner|widget)", parsed.path, re.I):
+            return True
+    except Exception:
+        return False
+    return False
+
 def main():
     required = (INDEX, MANIFEST, TRACKER, PHOTO_REVIEW_QUEUE, PHOTO_BACKLOG, PHOTO_SOURCE_OVERRIDES, RESEARCH_SOURCE_OVERRIDES, APPLY_PHOTO_SOURCE_OVERRIDES, CORE, INDEX_JS, DETAIL_JS, DEPLOY_AUDIT, LIVE_AUDIT, STATIC_SERVER, PHOTO_CACHE, FACET_BUILDER, HOME, DETAIL, LEGACY, DEPLOY)
     missing = [p.relative_to(ROOT).as_posix() for p in required if not p.is_file()]
@@ -166,6 +182,9 @@ def main():
                 raise SystemExit(f"Missing local catalog image: {k} -> {image}")
             if not entry.get("image_source_url") and not entry.get("source_page"):
                 raise SystemExit(f"Local image is missing provenance: {k}")
+            for provenance in (entry.get("image_source_url"), entry.get("image_source_page"), entry.get("source_page")):
+                if provenance and forbidden_photo_provenance(provenance):
+                    raise SystemExit(f"Local image provenance points to a non-pedal asset: {k} -> {provenance}")
             if entry.get("catalog_role") == "variation" and "/variants/" not in normalized:
                 raise SystemExit(f"Variation image is outside /variants/: {k} -> {image}")
 
@@ -327,6 +346,8 @@ def main():
         raise SystemExit("Browser photo cache is not prioritizing exact direct-image overrides.")
     if "function screenshotImageDocumentCandidate" not in photo_cache_script:
         raise SystemExit("Browser photo cache is missing the direct image-document capture fallback.")
+    if "function isLikelyNonPedalAssetUrl" not in photo_cache_script:
+        raise SystemExit("Browser photo cache is missing the global non-pedal asset veto.")
     if "pedalInfoDone" not in photo_cache_script:
         raise SystemExit("Browser photo cache is not prioritizing researched records that only need photos.")
     if 'or re.match(r"^https?://"' not in cache_script:
