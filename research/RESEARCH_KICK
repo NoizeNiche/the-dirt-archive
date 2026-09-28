@@ -1,3 +1,4 @@
 research-kick 2026-09-28T08:36:00-07:00
 Photo/catalog integrity reconciliation kick: contaminated-photo cleanup and tracker resync.
 Facet parser correction and canonical photo-state reconciliation.
+Rebuild facets from nested research evidence headings.
