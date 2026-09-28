@@ -148,6 +148,7 @@ def ocr_text(image_path: Path) -> str:
 def inspect(path: Path):
     flags = []
     ocr = ""
+    digest = ""
     try:
         with Image.open(path) as image:
             image.verify()
@@ -226,12 +227,8 @@ def main():
             flags, ocr, digest = ["missing_local_file"], "", ""
         else:
             flags, ocr, digest = inspect(path)
-            try:
-                digest = hashlib.sha256(path.read_bytes()).hexdigest()
-                if digest in bad_hashes:
-                    flags.append("known_blocked_image_hash")
-            except Exception:
-                pass
+            if digest in bad_hashes:
+                flags.append("known_blocked_image_hash")
             for field in ("image_source_url", "image_source_page", "source_page"):
                 matched = blocked_source(entry.get(field), rules)
                 if matched:
