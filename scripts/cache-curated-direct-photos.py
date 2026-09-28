@@ -16,6 +16,7 @@ import csv
 import io
 import json
 import re
+import subprocess
 import urllib.request
 from pathlib import Path
 
@@ -77,24 +78,54 @@ def target_path(entry: dict) -> Path:
     return ASSET_ROOT / slug(builder) / slug(pedal) / "primary.source"
 
 
-def fetch(url: str) -> bytes:
-    req = urllib.request.Request(
-        url,
-        headers={
-            "User-Agent": USER_AGENT,
-            "Accept": "image/avif,image/webp,image/apng,image/jpeg,image/png,image/*,*/*;q=0.8",
-            "Accept-Language": "en-US,en;q=0.9",
-        },
-        method="GET",
-    )
-    with urllib.request.urlopen(req, timeout=TIMEOUT) as response:
-        data = response.read()
-        content_type = str(response.headers.get("Content-Type") or "").lower()
-        if not content_type.startswith("image/"):
-            raise RuntimeError(f"unexpected content type: {content_type or 'missing'}")
+def fetch(url: str, source_page: str = "") -> bytes:
+    last_error: Exception | None = None
+
+    try:
+        req = urllib.request.Request(
+            url,
+            headers={
+                "User-Agent": USER_AGENT,
+                "Accept": "image/avif,image/webp,image/apng,image/jpeg,image/png,image/*,*/*;q=0.8",
+                "Accept-Language": "en-US,en;q=0.9",
+                **({"Referer": source_page} if source_page else {}),
+            },
+            method="GET",
+        )
+        with urllib.request.urlopen(req, timeout=TIMEOUT) as response:
+            data = response.read()
+            content_type = str(response.headers.get("Content-Type") or "").lower()
+            if not content_type.startswith("image/"):
+                raise RuntimeError(f"unexpected content type: {content_type or 'missing'}")
+            if len(data) < MIN_BYTES:
+                raise RuntimeError(f"payload too small: {len(data)} bytes")
+            return data
+    except Exception as exc:
+        last_error = exc
+
+    # Some retail/CDN image hosts behave differently for curl than urllib.
+    # Retry with the same browser identity and the verified source page as the
+    # Referer before abandoning a curator-supplied exact image URL.
+    try:
+        command = [
+            "curl", "-L", "--fail", "--silent", "--show-error", "--compressed",
+            "--retry", "2", "--retry-delay", "1",
+            "--connect-timeout", "5", "--max-time", str(TIMEOUT),
+            "-A", USER_AGENT,
+            "-H", "Accept: image/avif,image/webp,image/apng,image/jpeg,image/png,image/*,*/*;q=0.8",
+        ]
+        if source_page:
+            command.extend(["-e", source_page])
+        command.append(url)
+        proc = subprocess.run(command, check=True, capture_output=True, timeout=TIMEOUT + 8)
+        data = proc.stdout or b""
         if len(data) < MIN_BYTES:
-            raise RuntimeError(f"payload too small: {len(data)} bytes")
+            raise RuntimeError(f"curl payload too small: {len(data)} bytes")
         return data
+    except Exception as exc:
+        last_error = exc
+
+    raise RuntimeError(str(last_error or "image request failed"))
 
 
 def validate(data: bytes) -> tuple[int, int]:
@@ -159,7 +190,7 @@ def main() -> None:
         # Newest curated row wins. Older rows remain browser/cache fallbacks.
         image_url, source_page = rows[-1]
         try:
-            data = fetch(image_url)
+            data = fetch(image_url, source_page)
             width, height = validate(data)
             target.parent.mkdir(parents=True, exist_ok=True)
             target.write_bytes(data)
