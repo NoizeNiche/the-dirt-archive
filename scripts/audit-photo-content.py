@@ -292,7 +292,7 @@ def main():
     bad_hash_count = sum("known_blocked_image_hash" in row["Flags"] for row in rows)
     print(f"Photo content audit mode={mode}; shard={args.shard}/{args.shards}; checked={len(rows)}; suspects={len(suspects)}; high_confidence={len(high)}; known_bad_hash_matches={bad_hash_count}")
     for builder, pedal, image, flags in high:
-        print(f"HIGH-CONFIDENCE PHOTO CONTAMINATION: {builder} / {pedal} -> {image} :: {', '.join(flags)}")
+        print(f"HIGH-CONFIDENCE PHOTO CONTAMINATION: {builder} / {pedal} -> {image} :: {flags}")
     if suspects:
         for row in suspects[:100]:
             print(f"PHOTO SUSPECT: {row['Builder']} / {row['Pedal']} -> {row['Image']} :: {row['Flags']}")
