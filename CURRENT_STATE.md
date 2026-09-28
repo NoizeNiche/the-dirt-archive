@@ -3,13 +3,13 @@
 
 The active production phase is **Catalog Research Phase**. PRP1 is retained only as a legacy publication/closeout mechanism.
 
-Live catalog: **4206 total / 4206 surface-ready / 4203 deep-researched / 4206 research-linked / 3998 pictured / 3998 complete / 0 surface-missing / 3 deep-research-pending / 208 researched-photo-pending**.
+Live catalog: **4206 total / 4206 surface-ready / 4204 deep-researched / 4206 research-linked / 3998 pictured / 3998 complete / 0 surface-missing / 2 deep-research-pending / 208 researched-photo-pending**.
 
-**Next deep-research target:** Maxon / Nisshin Onpa - SD-9M Sonic Distortion Master.
+**Next deep-research target:** Smallsound/Bigsound - Year of the Rat.
 
 PRP1 closeout remains separate: 208 researched record(s) still lack an exact local photo.
 The research queue is generated from the canonical catalog and tracker; do not hand-edit the derived queue.
-Last refreshed: 2026-09-28T12:25:38.580692+00:00
+Last refreshed: 2026-09-28T12:27:02.996712+00:00
 <!-- AUTO:RESEARCH_PHASE_END -->
 
 ## Superseded checkpoint
