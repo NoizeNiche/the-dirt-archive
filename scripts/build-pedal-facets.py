@@ -23,6 +23,10 @@ TRANSISTOR_LABELS = (
     "Exact transistor/device",
     "Exact transistor type",
 )
+POWER_SECTION_NAMES = ("power", "power supply", "power requirements", "power input", "operating voltage")
+
+POWER_OPTIONS = ("9V", "12V", "18V", "24V", "Battery", "Center-negative", "Center-positive", "USB", "Phantom power")
+
 DIODE_LABELS = (
     "Technology",
     "Exact diode type",
@@ -33,6 +37,30 @@ DIODE_LABELS = (
 
 VALID_TRANSISTOR = ("Germanium", "Silicon", "JFET", "MOSFET", "Tube", "Mixed")
 VALID_CLIPPING = ("Germanium", "Silicon", "LED", "MOSFET", "Mixed")
+
+def classify_power(text: str) -> list[str]:
+    value = re.sub(r"[*_]", "", text).replace(chr(96), "").strip().lower()
+    if not value or any(term in value for term in (
+        "unknown",
+        "not documented",
+        "not publicly documented",
+        "not established",
+        "not specified",
+        "not reliably documented",
+    )):
+        return []
+
+    found: list[str] = []
+    if re.search(r"\b9\s*v(?:dc)?\b|\b9v\b", value): found.append("9V")
+    if re.search(r"\b12\s*v(?:dc)?\b|\b12v\b", value): found.append("12V")
+    if re.search(r"\b18\s*v(?:dc)?\b|\b18v\b", value): found.append("18V")
+    if re.search(r"\b24\s*v(?:dc)?\b|\b24v\b", value): found.append("24V")
+    if re.search(r"\bbatter(?:y|ies)\b", value): found.append("Battery")
+    if re.search(r"center[ -]?negative|centre[ -]?negative", value): found.append("Center-negative")
+    if re.search(r"center[ -]?positive|centre[ -]?positive", value): found.append("Center-positive")
+    if re.search(r"\busb\b", value): found.append("USB")
+    if re.search(r"phantom\s+power|48\s*v\s+phantom", value): found.append("Phantom power")
+    return [item for item in POWER_OPTIONS if item in found]
 
 
 def sections(markdown: str) -> dict[str, str]:
@@ -157,6 +185,17 @@ def build() -> dict:
             DIODE_LABELS,
         )
 
+        power_values: list[str] = []
+        for section_name in POWER_SECTION_NAMES:
+            section = parsed.get(section_name, "")
+            if section:
+                power_values.extend(section.splitlines())
+        if not power_values:
+            power_values = labelled_values(
+                identity_section,
+                ("Power", "Power supply", "Power requirements", "Power input", "Operating voltage"),
+            )
+
         transistor: list[str] = []
         for value in transistor_values:
             for item in classify(value, VALID_TRANSISTOR):
@@ -173,6 +212,12 @@ def build() -> dict:
             transistor = ["Mixed"]
         if "Germanium" in clipping and "Silicon" in clipping:
             clipping = ["Mixed"]
+
+        power: list[str] = []
+        for value in power_values:
+            for item in classify_power(value):
+                if item not in power:
+                    power.append(item)
 
         search_text = " ".join(
             value.strip()
@@ -192,6 +237,7 @@ def build() -> dict:
         records[key] = {
             **({"transistor": transistor} if transistor else {}),
             **({"clipping": clipping} if clipping else {}),
+            **({"power": power} if power else {}),
             **({"search": search_text} if search_text else {}),
         }
 
@@ -201,6 +247,7 @@ def build() -> dict:
         "options": {
             "transistor": list(VALID_TRANSISTOR),
             "clipping": list(VALID_CLIPPING),
+            "power": list(POWER_OPTIONS),
         },
     }
     result["_build"] = {
