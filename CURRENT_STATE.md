@@ -3,7 +3,7 @@
 
 The active production phase is **Photo Recovery & Production QA**. PRP1 is retained only as a legacy publication/closeout mechanism.
 
-Live catalog: **4202 total / 4202 surface-ready / 4202 deep-researched / 4202 research-linked / 3986 pictured / 3986 complete / 0 surface-missing / 0 deep-research-pending / 216 researched-photo-pending**.
+Live catalog: **4202 total / 4202 surface-ready / 4202 deep-researched / 4202 research-linked / 4162 pictured / 4162 complete / 0 surface-missing / 0 deep-research-pending / 40 researched-photo-pending**.
 
 **Next deep-research target:** None. Research queue is complete.
 
@@ -337,3 +337,10 @@ The latest completed worker pass was successful and the resulting public deploym
 A builder-focused usability pass was translated into public enthusiast value. The archive now includes a query-driven Builder Archive page that turns an existing builder filter into a deeper historical catalog view, with catalog/family/version/edition/photo summaries, in-builder search, dirt-type filters, and version-family context. Pedal detail pages now link directly to the Builder Archive while retaining a separate filtered-catalog link.
 
 The Builder Archive is a derived view over the canonical catalog and does not create a second builder data source or expose internal research administration.
+
+
+## Photo trust hardening checkpoint - September 28, 2026
+
+The canonical photo state advanced to **4,162 pictured / 40 researched-photo-pending** during the latest recovery work. Photo trust hardening now includes pixel-aware contamination auditing, 24-way exhaustive photo-content scanning, objective quarantine for donation/support overlays, blocked hashes, blocked provenance, tiny/unreadable/transparent assets, duplicate-byte rejection during recovery, generic-source-page demotion, and a review-only lane for ambiguous dark/low-detail images.
+
+Public catalog cards now always expose exact pedal + builder identity and explicit photo state, even when the exact photo is unavailable. Exact pedal pages also carry the record identity into the correction workflow.
