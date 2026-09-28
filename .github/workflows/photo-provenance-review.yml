@@ -1,0 +1,30 @@
+name: Photo provenance review
+
+on:
+  push:
+    paths:
+      - 'research/PEDAL_INDEX.json'
+      - 'research/PEDAL_IMAGES.json'
+      - 'scripts/audit-photo-provenance.py'
+  workflow_dispatch:
+  schedule:
+    - cron: "17 9 * * 6"
+
+permissions:
+  contents: read
+
+jobs:
+  review:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v7
+      - name: Run provenance review
+        run: python scripts/audit-photo-provenance.py
+      - name: Upload provenance review
+        uses: actions/upload-artifact@v7
+        with:
+          name: photo-provenance-review
+          path: research/PHOTO_PROVENANCE_REVIEW.csv
+          retention-days: 14
