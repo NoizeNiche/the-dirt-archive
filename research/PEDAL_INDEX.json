@@ -8769,11 +8769,13 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/bbe/distorto/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/bbe",
       "research_record": "./research/pedals/BBE/Distorto³.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://files.effectsdatabase.com/brands/thumbs/bbe_000.jpg",
+      "image_source_page": "https://www.effectsdatabase.com/model/bbe"
     },
     {
       "company": "BBE",
@@ -9506,11 +9508,13 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/behringer/sm400-super-metal/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/behringer/compact/sm400",
       "research_record": "./research/pedals/Behringer/SM400 Super Metal.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://files.effectsdatabase.com/gear/pics/behringer_sm400_001.jpg",
+      "image_source_page": "https://www.effectsdatabase.com/model/behringer/compact/sm400"
     },
     {
       "company": "Behringer",
@@ -15232,11 +15236,13 @@
       "types": [
         "Distortion"
       ],
-      "image": "",
+      "image": "./assets/pedals/boss/hm-2-heavy-metal/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/boss/compact/hm2",
       "research_record": "./research/pedals/BOSS/HM-2 Heavy Metal.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://static.roland.com/assets/promos/png/menu_eurus_gs-1.png",
+      "image_source_page": "https://www.boss.info/us/whats_new/press_releases/2021/BOSS-Announces-the-HM-2W-Heavy-Metal-Pedal/"
     },
     {
       "company": "BOSS",
@@ -19845,7 +19851,9 @@
       "source_page": "https://github.com/NoizeNiche/the-dirt-archive/blob/main/research/SCRAPE_C_BLOCK_165_ADDENDUM.csv",
       "research_record": "./research/pedals/Captain FX/Crown Jr. Overdrive Boost.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://opengraph.githubassets.com/5432ac528de2385384657bd4d676e62f8c4eaa2748d80a24aa1aecb2c46891e5/NoizeNiche/the-dirt-archive",
+      "image_source_page": "https://github.com/NoizeNiche/the-dirt-archive/blob/main/research/SCRAPE_C_BLOCK_165_ADDENDUM.csv"
     },
     {
       "company": "Captain FX",
@@ -31109,11 +31117,13 @@
       "types": [
         "Overdrive"
       ],
-      "image": "",
+      "image": "./assets/pedals/darkglass-electronics/alpha-omega/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/darkglass/alphaomega",
       "research_record": "./research/pedals/Darkglass Electronics/Alpha-Omega.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://files.effectsdatabase.com/gear/thumbs/darkglass_alphaomega_001.jpg",
+      "image_source_page": "https://www.effectsdatabase.com/model/darkglass/alphaomega"
     },
     {
       "company": "Darkglass Electronics",
@@ -31265,11 +31275,13 @@
       "types": [
         "Distortion"
       ],
-      "image": "",
+      "image": "./assets/pedals/darkglass-electronics/microtubes-x/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/darkglass/microtubes/x",
       "research_record": "./research/pedals/Darkglass Electronics/Microtubes X.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://files.effectsdatabase.com/gear/thumbs/darkglass_microtubes-x_001.jpg",
+      "image_source_page": "https://www.effectsdatabase.com/model/darkglass/microtubes/x"
     },
     {
       "company": "Darkglass Electronics",
@@ -31301,11 +31313,13 @@
       "types": [
         "Overdrive"
       ],
-      "image": "",
+      "image": "./assets/pedals/darkglass-electronics/vintage-ultra/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/darkglass/vintageultra",
       "research_record": "./research/pedals/Darkglass Electronics/Vintage Ultra.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://files.effectsdatabase.com/brands/thumbs/darkglass_000.jpg",
+      "image_source_page": "https://www.effectsdatabase.com/model/darkglass/vintageultra"
     },
     {
       "company": "Dawner Prince Electronics",
