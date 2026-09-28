@@ -372,6 +372,7 @@ function render(){
   if(selectedResearch==='not-deep')titleParts.push('Not deep');
   if(selectedPhoto==='archived')titleParts.push('Exact photo');
   if(selectedPhoto==='needed')titleParts.push('Photo needed');
+  for(const value of selectedPowers)titleParts.push(value+' power');
   $('title').textContent=titleParts.length?titleParts.join(' · '):'All Pedals';
 
   const rangeStart=visible.length?pageStart+1:0;
@@ -516,7 +517,8 @@ Promise.all([loadCatalog(),loadFacets()])
   facetRecords=new Map(Object.entries(facets?.records||{}));
   facetOptions={
     transistor:Array.isArray(facets?.options?.transistor)?facets.options.transistor:[],
-    clipping:Array.isArray(facets?.options?.clipping)?facets.options.clipping:[]
+    clipping:Array.isArray(facets?.options?.clipping)?facets.options.clipping:[],
+    power:Array.isArray(facets?.options?.power)?facets.options.power:[]
   };
 
   pedalImages=new Map();
