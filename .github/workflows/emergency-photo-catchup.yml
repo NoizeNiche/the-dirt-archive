@@ -56,6 +56,8 @@ jobs:
 
       - name: Apply curated exact photo leads
         run: python scripts/apply-photo-source-overrides.py
+      - name: Recover curated direct photos first
+        run: python scripts/cache-curated-direct-photos.py
       - name: Clear known-invalid photo state
         run: python scripts/reset-photo-recovery-targets.py
 
