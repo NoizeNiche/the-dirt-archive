@@ -57116,7 +57116,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/wampler-pedals/thirty-something/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Wampler Pedals/Thirty Something.md",
       "research_level": "deep",
@@ -57124,10 +57124,11 @@
       "image_source_pages": [
         "https://www.wamplerpedals.com/wp-content/uploads/2019/11/thirty_something.pdf"
       ],
-      "image_source_page": "https://www.wamplerpedals.com/wp-content/uploads/2019/11/thirty_something.pdf",
+      "image_source_page": "https://reverb.com/p/wampler-thirty-something",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 979
+      "image_source_priority": 979,
+      "image_source_url": "https://rvb-img.reverb.com/i/s--THZKGm0z--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/e6dag2nijdjqqz8px26n.jpg"
     },
     {
       "company": "Wampler Pedals",
