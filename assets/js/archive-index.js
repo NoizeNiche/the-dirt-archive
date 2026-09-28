@@ -501,7 +501,11 @@ function renderPagination(totalPages){
   nav.querySelectorAll('[data-page]').forEach(btn=>btn.onclick=()=>{
     currentPage=Number(btn.dataset.page)||1;
     syncUrl(false);render();
-    document.querySelector('.heroPanel')?.scrollIntoView({behavior:'smooth',block:'start'});
+    const reducedMotion=window.matchMedia?.('(prefers-reduced-motion: reduce)').matches;
+    document.querySelector('.heroPanel')?.scrollIntoView({
+      behavior: reducedMotion ? 'auto' : 'smooth',
+      block: 'start'
+    });
   });
 }
 
