@@ -6,6 +6,9 @@
 - **Catalog type:** Distortion / Fuzz / Overdrive
 - **Identity:** Mr. Black's SludgeMaster.
 
+## Deep research verification
+- **Exact-model evidence:** Verified against Mr. Black's exact product page and Effects Database record.
+
 ## What this pedal is
 When we designed the SludgeMaster, we didn’t just copy a thing.
 
