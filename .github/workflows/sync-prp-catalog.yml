@@ -41,6 +41,9 @@ jobs:
 
       - name: Synchronize research records into canonical catalog and photo manifest
         run: python scripts/sync_prp_catalog.py
+      - name: Build documented pedal facets
+        run: python scripts/build-pedal-facets.py
+
       - name: Clear known-invalid photo state
         run: python scripts/reset-photo-recovery-targets.py
 
@@ -95,6 +98,7 @@ jobs:
             git reset --hard origin/main
             python scripts/generate-surface-records.py
             python scripts/sync_prp_catalog.py
+            python scripts/build-pedal-facets.py
             python scripts/reset-photo-recovery-targets.py
             python scripts/sync-prp-tracker.py
             python scripts/build-research-queue.py
