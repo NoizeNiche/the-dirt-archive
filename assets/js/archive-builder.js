@@ -167,7 +167,7 @@ function renderNotFound(){
   $('builderIntro').textContent='The requested builder is not represented by a canonical public catalog identity.';
   $('builderGrid').innerHTML='<div class="empty"><strong>Builder not found</strong><p>Return to the archive and choose a builder from the indexed catalog.</p><a class="action primary" href="./index.html">Browse builders</a></div>';
   $('builderMeta').textContent='No builder catalog loaded';
-  $('builderControls').style.display='none';
+  document.querySelector('.builderControls')?.setAttribute('hidden','');
 }
 
 Promise.all([loadCatalog()]).then(([data])=>{
