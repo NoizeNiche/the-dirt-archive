@@ -407,6 +407,21 @@ def main():
         raise SystemExit("Home page is not wired to external assets.")
     if 'class="skipLink" href="#mainContent"' not in home_text or 'id="mainContent"' not in home_text:
         raise SystemExit("Home page is missing its keyboard skip-to-content path.")
+    if '<link rel="canonical" href="./index.html">' not in home_text:
+        raise SystemExit("Home page is missing its canonical URL.")
+    if 'application/ld+json' not in home_text or 'SearchAction' not in home_text:
+        raise SystemExit("Home page is missing archive search structured data.")
+    if '<link rel="canonical" href="./pedal-detail.html">' not in detail_text:
+        raise SystemExit("Pedal detail page is missing its canonical URL hook.")
+    if 'meta[property="og:url"]' not in detail_text or 'meta[property="og:image"]' not in detail_text:
+        raise SystemExit("Pedal detail page is missing Open Graph URL/image hooks.")
+    if 'id="pedalStructuredData"' not in detail_text:
+        raise SystemExit("Pedal detail page is missing structured-data hook.")
+    detail_js = (ROOT / "assets/js/archive-detail.js").read_text(encoding="utf-8")
+    if "const canonicalUrl=new URL('./pedal-detail.html',location.href)" not in detail_js:
+        raise SystemExit("Pedal detail canonical URL is not normalized to the base record identity.")
+    if "pedalStructuredData" not in detail_js:
+        raise SystemExit("Pedal detail JavaScript is not populating structured data.")
     if 'class="skipLink" href="#mainContent"' not in detail_text or 'id="mainContent"' not in detail_text:
         raise SystemExit("Detail page is missing its keyboard skip-to-content path.")
     detail_js_text = DETAIL_JS.read_text(encoding="utf-8")
