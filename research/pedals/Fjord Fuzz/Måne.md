@@ -1,23 +1,40 @@
-# Fjord Fuzz — Måne
+# Fjord Fuzz — Mane
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Mane
 - **Builder:** Fjord Fuzz
-- **Pedal:** Måne
 - **Catalog type:** Fuzz
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Fjord Fuzz's Mane.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Måne** by **Fjord Fuzz** as a **Fuzz** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+The Mane is a joyride in pedal format - where you most definitely need an expression pedal - it’s an incomplete experience without one of those.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- For us proper Fjord Fuzz pedal fans - that have been there since the early days, what attracted us first to the brand - apart from the original striking Copper and Black Enclosures - were those raw and full-fat properly unfettered and wholly unlimited and unrestricted saturated fuzz sounds.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Documented terms in the verified sources: BC848, Silicon Transistors.
+- The archive records only the component information explicitly present in these sources.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+The fuzz side offers Low Gain + High Dynamics or High Gain + Low Dynamics, Fuzz Gain and Fuzz Level; the filter provides Twin-T Band Pass or Resonant Low Pass, Filter Cutoff and Filter Level.
+Low Gain is dynamic, starved and spitty; High Gain is steadily full-on and Tone Bender-ish.
+BC848 Silicon Transistors deliver richly textured fuzz, with useful guitar-volume cleanup.
+
+## Sources checked
+1. Fjord Fuzz MÅNE *GREY/WHITE/BLUE* — Pedal Empire: https://www.pedalempire.com.au/products/fjord-fuzz-mane-grey-white-blue
+2. Guitar Pedal X - GPX Blog - Fjord Fuzz returns to its roots with the visceral fuzz rollercoaster - Måne 2 x 2 Dynamic Filter Fuzz: https://www.guitarpedalx.com/news/gpx-blog/fjord-fuzz-returns-to-its-roots-with-the-visceral-fuzz-rollercoaster---mane-2-x-2-dynamic-filter-fuzz
+3. Fjord Fuzz Webstore: https://fjordfuzz.no/mane/
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

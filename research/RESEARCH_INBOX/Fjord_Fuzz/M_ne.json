@@ -1,0 +1,33 @@
+{
+  "builder": "Fjord Fuzz",
+  "pedal": "M\u00e5ne",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 3,
+  "sources": [
+    {
+      "url": "https://www.pedalempire.com.au/products/fjord-fuzz-mane-grey-white-blue",
+      "title": "Fjord Fuzz M\u00c5NE *GREY/WHITE/BLUE* \u2014 Pedal Empire",
+      "h1": "Fjord Fuzz M\u00c5NE *GREY/WHITE/BLUE*",
+      "excerpt": "Fjord Fuzz M\u00c5NE *GREY/WHITE/BLUE* \u2014 Pedal Empire Skip to content <path d=\"M17 5v17h-10v-17h10zm2-5h-2v3h-10c-1.104 0-2",
+      "host": "www.pedalempire.com.au",
+      "source_kind": "catalog_verified"
+    },
+    {
+      "url": "https://www.guitarpedalx.com/news/gpx-blog/fjord-fuzz-returns-to-its-roots-with-the-visceral-fuzz-rollercoaster---mane-2-x-2-dynamic-filter-fuzz",
+      "title": "Guitar Pedal X - GPX Blog - Fjord Fuzz returns to its roots with the visceral fuzz rollercoaster - M\u00e5ne 2 x 2 Dynamic Filter Fuzz",
+      "h1": "Fjord Fuzz returns to its roots with the visceral fuzz rollercoaster - M\u00e5ne 2 x 2 Dynamic Filter Fuzz",
+      "excerpt": "Guitar Pedal X - GPX Blog - Fjord Fuzz returns to its roots with the visceral fuzz rollercoaster - M\u00e5ne 2 x 2 Dynamic Filter Fuzz ao link News GPX AI Forums Notifications Popular Highlights 4 of a Kind 12 Degrees of Saturation ArtistArray Best in Class Best of Brands Builder Profiles Colours Expo Guitar Pedal 101 Iconic Gear In Memoriam Pedal Chain Pedal Planet Trifecta Versus Index News GPX AI Forums Notifications Popular Highlights 4 of a Kind 12 Degrees of Saturation ArtistArray Best in Class Best of Brands Builder Profiles Colours Expo Guitar Pedal 101 Iconic Gear In Memoriam Pedal Chain Pedal Planet Trifecta Versus Index Enter a search term Search Remember Login Register | Reset Password Xploration \u2022 Curation \u2022 Recommendation News GPX AI Forums Notifications Popular Highlights 4 of a Kind 12 Degrees of Saturation ArtistArray Best in Class Best of Brands Builder Profiles Colours Expo Guitar Pedal 101 Iconic Gear In Memoriam Pedal Chain Pedal Planet Trifecta Versus Index News GPX AI Forums Notifications Popular Highlights 4 of a Kind 12 Degrees of Saturation ArtistArray Best in Class Best of Brands Builder Profiles Colours Expo Guitar Pedal 101 Iconic Gear In Memoriam Pedal Chain Pedal Planet Trifecta Versus Index Enter a search term Search Remember Login Register | Reset Password Filter content by area of interest Amps Boost and Overdrive Delay Distortion Fuzz Guitars Modulation Pitch Reverb Utility All All Fjord Fuzz returns to its roots with the visceral fuzz rollercoaster - M\u00e5ne 2 x 2 Dynamic Filter Fuzz Sep 11, 2024 08:00 by  Stefan Karlsson Fjord Fuzz Fuzz Fuzz Face Style Fuzz Gated and Velcro Fuzz Modulated Fuzz Silicon Fuzz + - Full Article Read Summary Key Points Fjord Fuzz\u2019s M\u00e5ne 2 x 2 Dynamic Filter Fuzz combines silicon fuzz with a dynamic filter. The fuzz side offers Low Gain + High Dynamics or High Gain + Low Dynamics, Fuzz Gain and Fuzz Level; the filter provides Twin-T Band Pass or Resonant Low Pass, Filter Cutoff and Filter Level. An expression pedal is essential for the Filter Cutoff. Low Gain is dynamic, starved and spitty; High Gain is steadily full-on and Tone Bender-ish. BC848 Silicon Transistors deliver richly textured fuzz, with useful guitar-volume cleanup. It retails for $229 and equivalent; no date or \u00a3 price is provided. For us proper Fjord Fuzz pedal fans - that have been there since the early days, what attracted us first to the brand - apart from the original striking Copper and Black Enclosures - were those raw and full-fat properly unfettered and wholly unlimited and unrestricted saturated fuzz sounds. The M\u00e5ne is a joyride in pedal format - where you most definitely need an expression pedal - it\u2019s an incomplete experience without one of those. The controls are very simple here : FUZZ SIDE } Fuzz Gain (Big Knob), Fuzz Type : Low Gain + High Dynamics / High Gain + Low Dynamics, Fuzz Level, Fuzz Bypass / Engage Footswitch. FILTER SID E } Filter Cutoff (Big Knob), Filter Type : Band Pass Filter / Resonant Low Pass Filter, Filter Level, Filter Bypass / Engage Footswitch. Note that there is also an internal trim-pot for the Resonant Filter Feedback - which I did not feel the need to adjust! You start of by attaching your expression pedal to the Filter Cutoff EXP Port at the base of the pedal, and then you\u2019re best off setting Fuzz Mode to Low Gain, Fuzz Gain to 3 o\u2019c, same as the Fuzz Level. With the Low Gain Fuzz - it remains fully dynamic and you can control and trigger it via playing style and pick-attack, and of course via your guitar volume knob. While the High Gain Fuzz (Tone Bender-ish) is pretty much steadily full-on. The guitar volume will bring the Low Gain Fuzz back to mostly clean - while you have the most fun with the filter interacting with a a properly fuzzy voicing. My preference is for the Resonant LPF side of the Filter - and as I use an expression pedal the Filter Cuttoff knob is irrelevant, while the Filter Level sounds about right for me at 3 o\u2019c. There\u2019s all kinds of interest",
+      "host": "www.guitarpedalx.com",
+      "source_kind": "catalog_verified"
+    },
+    {
+      "url": "https://fjordfuzz.no/mane/",
+      "title": "Fjord Fuzz Webstore",
+      "h1": "",
+      "excerpt": "",
+      "host": "fjordfuzz.no",
+      "source_kind": "manufacturer"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}

@@ -36075,8 +36075,8 @@
       "image": "./assets/pedals/fjord-fuzz/m-ne/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Fjord Fuzz/Måne.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Fjord Fuzz",
@@ -40903,8 +40903,8 @@
       "image": "./assets/pedals/khdk-electronics/fallout-bass-overdrive-bass-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/KHDK Electronics/Fallout Bass Overdrive — bass overdrive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "KHDK Electronics",
@@ -41137,8 +41137,8 @@
       "image": "./assets/pedals/khdk-electronics/paranormal-parametric-eq-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/KHDK Electronics/Paranormal — parametric EQ overdrive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "KHDK Electronics",

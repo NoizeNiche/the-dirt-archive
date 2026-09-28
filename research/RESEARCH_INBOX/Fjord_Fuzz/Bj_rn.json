@@ -1,0 +1,57 @@
+{
+  "builder": "Fjord Fuzz",
+  "pedal": "Bj\u00f8rn",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 6,
+  "sources": [
+    {
+      "url": "https://tgt11.com/en/products/fjord-fuzz-bjorn-fuzz",
+      "title": "Fjord Fuzz Bjorn Fuzz &ndash; These Go To 11",
+      "h1": "",
+      "excerpt": "Fjord Fuzz Bjorn Fuzz &ndash; These Go To 11 \u0393 (function(){var wpmLoader=function(){\"use strict\";var e=/Googlebot|Storebot-Google|bingbot|Baiduspider|YandexBot|DuckDuckBot|Slurp|facebookexternalhit|Twitterbot|LinkedInBot|Applebot|AdsBot-Google|Mediapartners-Google|APIs-Google|PetalBot|SemrushBot|AhrefsBot|MJ12bot|DotBot|Acunetix|PerplexityBot|Perplexity-User/i,t=/bytedance/i;function i(){try{var e=document.cookie;if(!e||\"string\"!=typeof e)return;for(var t=0,i=e.split(\";\");t 0&&e.length 4&&void 0!==arguments[4]?arguments[4]:{};try{var p=c.trekkieShim;!0!==p&&\"true\"!==p||null!=window.__TREKKIE_SHIM_QUEUE||(window.__TREKKIE_SHIM_QUEUE=[])}catch(e){}var f,v,h,y,g=(v=(f={modern:/Edge?\\/(1{2}[4-9]|1[2-9]\\d|[2-9]\\d{2}|\\d{4,})\\.\\d+(\\.\\d+|)|Firefox\\/(1{2}[4-9]|1[2-9]\\d|[2-9]\\d{2}|\\d{4,})\\.\\d+(\\.\\d+|)|Chrom(ium|e)\\/(9{2}|\\d{3,})\\.\\d+(\\.\\d+|)|(Maci|X1{2}).+ Version\\/(15\\.\\d+|(1[6-9]|[2-9]\\d|\\d{3,})\\.\\d+)([,.]\\d+|)( \\(\\w+\\)|)( Mobile\\/\\w+|) Safari\\/|Chrome.+OPR\\/(9{2}|\\d{3,})\\.\\d+\\.\\d+|(CPU[ +]OS|iPhone[ +]OS|CPU[ +]iPhone|CPU IPhone OS|CPU iPad OS)[ +]+(15[._]\\d+|(1[6-9]|[2-9]\\d|\\d{3,})[._]\\d+)([._]\\d+|)|Android:?[ /-](14[89]|1[5-9]\\d|[2-9]\\d{2}|\\d{4,})(\\.\\d+|)(\\.\\d+|)|Android.+Firefox\\/(15\\d|1[6-9]\\d|[2-9]\\d{2}|\\d{4,})\\.\\d+(\\.\\d+|)|Android.+Chrom(ium|e)\\/(14[89]|1[5-9]\\d|[2-9]\\d{2}|\\d{4,})\\.\\d+(\\.\\d+|)|SamsungBrowser\\/([2-9]\\d|\\d{3,})\\.\\d+/,legacy:/Edge?\\/(1[6-9]|[2-9]\\d|\\d{3,})\\.\\d+(\\.\\d+|)|Firefox\\/(5[4-9]|[6-9]\\d|\\d{3,})\\.\\d+(\\.\\d+|)|Chrom(ium|e)\\/(5[1-9]|[6-9]\\d|\\d{3,})\\.\\d+(\\.\\d+|)([\\d.]+$|.*Safari\\/(?![\\d.]+ Edge\\/[\\d.]+$))|(Maci|X1{2}).+ Version\\/(10\\.\\d+|(1[1-9]|[2-9]\\d|\\d{3,})\\.\\d+)([,.]\\d+|)( \\(\\w+\\)|)( Mobile\\/\\w+|) Safari\\/|Chrome.+OPR\\/(3[89]|[4-9]\\d|\\d{3,})\\.\\d+\\.\\d+|(CPU[ +]OS|iPhone[ +]OS|CPU[ +]iPhone|CPU IPhone OS|CPU iPad OS)[ +]+(10[._]\\d+|(1[1-9]|[2-9]\\d|\\d{3,})[._]\\d+)([._]\\d+|)|Android:?[ /-](14[89]|1[5-9]\\d|[2-9]\\d{2}|\\d{4,})(\\.\\d+|)(\\.\\d+|)|Mobile Safari.+OPR\\/([89]\\d|\\d{3,})\\.\\d+\\.\\d+|Android.+Firefox\\/(15\\d|1[6-9]\\d|[2-9]\\d{2}|\\d{4,})\\.\\d+(\\.\\d+|)|Android.+Chrom(ium|e)\\/(14[89]|1[5-9]\\d|[2-9]\\d{2}|\\d{4,})\\.\\d+(\\.\\d+|)|Android.+(UC? ?Browser|UCWEB|U3)[ /]?(15\\.([5-9]|\\d{2,})|(1[6-9]|[2-9]\\d|\\d{3,})\\.\\d+)\\.\\d+|SamsungBrowser\\/(5\\.\\d+|([6-9]|\\d{2,})\\.\\d+)|Android.+MQ{2}Browser\\/(14(\\.(9|\\d{2,})|)|(1[5-9]|[2-9]\\d|\\d{3,})(\\.\\d+|))(\\.\\d+|)|K[Aa][Ii]OS\\/(3\\.\\d+|([4-9]|\\d{2,})\\.\\d+)(\\.\\d+|)/}).modern,h=f.legacy,(y=navigator.userAgent).match(e)?\"bot\":y.match(v)?\"modern\":y.match(h)?\"legacy\":y.match(t)?\"bot\":\"unknown\"),m=function(e){var t,i,n=r(e,128);try{var a=window.performance,d=null==(t=null==a?void 0:a.getEntriesByType)?void 0:t.call(a,\"navigation\")[0];if(!d)return{requestId:n,navigationType:o(a)};var s=\"type\"in d?r(d.type,64):void 0,u=\"serverTiming\"in d&&Array.isArray(d.serverTiming)?d.serverTiming:[];return{requestId:null!=n?n:r(null==(i=u.find(function(e){return\"requestID\"===e.name}))?void 0:i.description,128),navigationType:s}}catch(e){return{requestId:n}}}(c.requestId),w=function(e){var t=e.version,r=e.browserTarget,o=e.surface,a=e.shopId,d=e.monorailEndpoint,s=window.location.href;return{emit:function(e){var u=e.status,l=e.errorMsg,c=e.failureReason,p=e.useKeepaliveFallback,f=void 0!==p&&p,v=e.navigationType,h=e.pagehidePersisted,y=e.requestId,g=e.trekkieState;if(d){var m,w;try{var b=(new Date).getTime();m=JSON.stringify({metadata:{event_sent_at_ms:b},events:[{schema_id:\"web_pixels_manager_load/3.3\",payload:{version:t,bundle_target:r,page_url:s,status:u,surface:o,error_msg:l,failure_reason:c,navigation_type:v,pagehide_persisted:h,request_id:y,trekkie_state:g,shop_id:a,visit_token:i()},metadata:{event_created_at_ms:b}}]})}catch(e){return}try{if(\"function\"==typeof window.navigator.sendBeacon&&-1===(w=window.navigator.userAgent).indexOf(\"iPhone; CPU iPhone OS 12_\")&&-1===w.indexOf(\"iPad; CPU OS 12_\")&&-1===w.indexOf(\"iPod touch; CPU iPhone OS 12_\")&&window.navigator.sendBeacon.bind(window.navigator)(d,m))return}catch(e){}if(f)try{\"function\"==typeof window.fetch&&window.fetch(d,{method:\"POST\",headers:{\"Content-Typ",
+      "host": "tgt11.com",
+      "source_kind": "catalog_verified"
+    },
+    {
+      "url": "https://reverb.com/item/90902381-fjord-fuzz-bjorn-fuzz-guitar-effect-pedal-made-in-norway-truetone-colors",
+      "title": "catalog/override source",
+      "h1": "",
+      "excerpt": "",
+      "host": "reverb.com",
+      "source_kind": "reverb"
+    },
+    {
+      "url": "https://www.pedalempire.com.au/products/fjord-fuzz-bjorn",
+      "title": "Fjord Fuzz BJ\u00d8RN \u2014 Pedal Empire",
+      "h1": "Fjord Fuzz BJ\u00d8RN",
+      "excerpt": "Fjord Fuzz BJ\u00d8RN \u2014 Pedal Empire Skip to content (07) 3892 3292 Shop 2/12 Lucy St, Moorooka Effecting musicians Since 2010 Sign in / Register Cancel <svg aria-hidden=\"true\" focusable=\"false\" role=\"",
+      "host": "www.pedalempire.com.au",
+      "source_kind": "catalog_verified"
+    },
+    {
+      "url": "https://pedalfilter.com/fjord-fuzz/bjorn",
+      "title": "Pedal Not Found | PedalFilter",
+      "h1": "",
+      "excerpt": "Pedal Not Found | PedalFilter Skip to main content The guitar pedal database Search pedals The fastest, most visual guitar pedal database. All signal, no noise. About \u2022 Collections \u2022 Blog \u2022 Compare \u2022 Privacy Policy \u2022 Terms of Service \u2022 Submit a pedal \u2022 \u00a9 2026 PedalFilter Clear Compare ( 0 )",
+      "host": "pedalfilter.com",
+      "source_kind": "catalog_verified"
+    },
+    {
+      "url": "https://fr.audiofanzine.com/fuzz-guitare/fjord-fuzz/bj-rn/",
+      "title": "Fjord Fuzz Bj\u00f8rn - Fuzz guitare - Audiofanzine",
+      "h1": "",
+      "excerpt": "Fjord Fuzz Bj\u00f8rn - Fuzz guitare - Audiofanzine .hamburger{padding:0;display:inline-block;cursor:pointer;transition-property:opacity,filter;transition-duration:.15s;transition-timing-function:linear;font:inherit;color:inherit;text-transform:none;background-color:transparent;border:0;margin:0;overflow:visible}.hamburger:hover{opacity:.7}.hamburger.is-active:hover{opacity:.7}.hamburger.is-active .hamburger-inner,.hamburger.is-active .hamburger-inner::before,.hamburger.is-active .hamburger-inner::after{background-color:#fff}.hamburger-box{width:24px;display:flex;position:relative;align-self:center;height:16px}.hamburger-inner{display:block;top:50%;margin-top:-2px}.hamburger-inner,.hamburger-inner::before,.hamburger-inner::after{width:24px;height:2px;background-color:#fff;border-radius:4px;position:absolute;transition-property:transform;transition-duration:.15s;transition-timing-function:ease}.hamburger-inner::before,.hamburger-inner::after{content:\"\";display:block}.hamburger-inner::before{top:-6px}.hamburger-inner::after{top:-12px !important}.hamburger--collapse .hamburger-inner{top:auto;bottom:0;transition-duration:.13s;transition-delay:.13s;transition-timing-function:cubic-bezier(0.55,0.055,0.675,0.19)}.hamburger--collapse .hamburger-inner::after{top:-20px;transition:top .2s .2s cubic-bezier(0.33333,0.66667,0.66667,1),opacity .1s linear}.hamburger--collapse .hamburger-inner::before{transition:top .12s .2s cubic-bezier(0.33333,0.66667,0.66667,1),transform .13s cubic-bezier(0.55,0.055,0.675,0.19)}.hamburger--collapse.is-active .hamburger-inner{transform:translate3d(0,-6px,0) rotate(-45deg);transition-delay:.22s;transition-timing-function:cubic-bezier(0.215,0.61,0.355,1)}.hamburger--collapse.is-active .hamburger-inner::after{top:0;opacity:0;transition:top .2s cubic-bezier(0.33333,0,0.66667,0.33333),opacity .1s .22s linear}.hamburger--collapse.is-active .hamburger-inner::before{top:0;transform:rotate(-90deg);transition:top .1s .16s cubic-bezier(0.33333,0,0.66667,0.33333),transform .13s .25s cubic-bezier(0.215,0.61,0.355,1)}@font-face{font-family:'Open Sans Condensed';font-style:normal;font-weight:700;font-display:optional;src:url('https://static.audiofanzine.com/styles/webfonts/open-sans-condensed-v15-latin-700.eot');src:local(''),url('https://static.audiofanzine.com/styles/webfonts/open-sans-condensed-v15-latin-700.eot?#iefix') format('embedded-opentype'),url('https://static.audiofanzine.com/styles/webfonts/open-sans-condensed-v15-latin-700.woff2') format('woff2'),url('https://static.audiofanzine.com/styles/webfonts/open-sans-condensed-v15-latin-700.woff') format('woff'),url('https://static.audiofanzine.com/styles/webfonts/open-sans-condensed-v15-latin-700.ttf') format('truetype'),url('https://static.audiofanzine.com/styles/webfonts/open-sans-condensed-v15-latin-700.svg#OpenSansCondensed') format('svg')}@keyframes jump-shaking{0%{transform:translateX(0)}25%{transform:translateY(-6px)}35%{transform:translateY(-6px) rotate(2deg)}55%{transform:translateY(-6px) rotate(-2deg)}65%{transform:translateY(-6px) rotate(2deg)}75%{transform:translateY(-6px) rotate(-2deg)}100%{transform:translateY(0) rotate(0)}}article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block}article iframe{max-width:100%}[v-cloak]{display:none !important}.clearfix:after{content:\".\";display:block;clear:both;visibility:hidden;line-height:0;height:0}.clearfix{display:inline-block}.pull-right{float:right}.pull-left{float:left}.align-center{text-align:center}html[xmlns] .clearfix{display:block}* html .clearfix{height:1%}*{padding:0;margin:0}p{margin:1em 0}.main-text{font-size:1em;line-height:1.4em}body{--basic-text:#000;--text-color:#223240;--text-color-invert:#fff;--text-color-light:#6d8193;--text-color-light-grey:#383c3f;--text-color-lighter:#afafaf;--text-color-dark:#213146;--text-color-blue-light:#718192;--subtext-color-light:#6d8193;--text-grey-blue-light:#607182;--text-grey-blue-light-2:#657688;--text-grey-blue-light-3:#899daf;--text-",
+      "host": "fr.audiofanzine.com",
+      "source_kind": "catalog_verified"
+    },
+    {
+      "url": "https://en.audiofanzine.com/fuzz-pedal/fjord-fuzz/bj-rn/",
+      "title": "Fjord Fuzz Bj\u00f8rn - Fuzz pedal - Audiofanzine",
+      "h1": "",
+      "excerpt": "Fjord Fuzz Bj\u00f8rn - Fuzz pedal - Audiofanzine <link h",
+      "host": "en.audiofanzine.com",
+      "source_kind": "other"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}

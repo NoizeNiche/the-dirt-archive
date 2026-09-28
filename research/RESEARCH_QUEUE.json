@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-28T04:21:38.434553+00:00",
+  "generated_at": "2026-09-28T04:22:28.291210+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,25 +10,18 @@
     "pictured": 3639,
     "complete": 3639,
     "research_pending": 0,
-    "deep_research_pending": 206,
-    "deep_researched": 4000,
+    "deep_research_pending": 202,
+    "deep_researched": 4004,
     "surface_ready": 4206
   },
   "next_target": {
     "builder": "Fjord Fuzz",
-    "pedal": "Bjørn",
+    "pedal": "Bufo",
     "catalog_type": "",
-    "research_record": "./research/pedals/Fjord Fuzz/Bjørn.md",
+    "research_record": "./research/pedals/Fjord Fuzz/Bufo.md",
     "research_level": "surface"
   },
   "working_set": [
-    {
-      "builder": "Fjord Fuzz",
-      "pedal": "Bjørn",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Fjord Fuzz/Bjørn.md",
-      "research_level": "surface"
-    },
     {
       "builder": "Fjord Fuzz",
       "pedal": "Bufo",
@@ -41,13 +34,6 @@
       "pedal": "Fjord-Fuzz Super-Fuzz",
       "catalog_type": "",
       "research_record": "./research/pedals/Fjord Fuzz/Fjord-Fuzz Super-Fuzz.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Fjord Fuzz",
-      "pedal": "Måne",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Fjord Fuzz/Måne.md",
       "research_level": "surface"
     },
     {
@@ -178,13 +164,6 @@
     },
     {
       "builder": "KHDK Electronics",
-      "pedal": "Fallout Bass Overdrive — bass overdrive",
-      "catalog_type": "",
-      "research_record": "./research/pedals/KHDK Electronics/Fallout Bass Overdrive — bass overdrive.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "KHDK Electronics",
       "pedal": "Ghoul JR — overdrive",
       "catalog_type": "",
       "research_record": "./research/pedals/KHDK Electronics/Ghoul JR — overdrive.md",
@@ -195,6 +174,27 @@
       "pedal": "In Waves — Trivium metal tone shaper / dirt product",
       "catalog_type": "",
       "research_record": "./research/pedals/KHDK Electronics/In Waves — Trivium metal tone shaper / dirt product.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "KHDK Electronics",
+      "pedal": "Night of the Living Shred — high-gain preamp / dirt product",
+      "catalog_type": "",
+      "research_record": "./research/pedals/KHDK Electronics/Night of the Living Shred — high-gain preamp / dirt product.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "KHDK Electronics",
+      "pedal": "Scuzz Box — germanium-voiced fuzz",
+      "catalog_type": "",
+      "research_record": "./research/pedals/KHDK Electronics/Scuzz Box — germanium-voiced fuzz.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "KHDK Electronics",
+      "pedal": "Shred II — high-gain dirt product",
+      "catalog_type": "",
+      "research_record": "./research/pedals/KHDK Electronics/Shred II — high-gain dirt product.md",
       "research_level": "surface"
     }
   ]
