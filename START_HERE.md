@@ -17,7 +17,21 @@ Use `research/RESEARCH_QUEUE.json` as the current derived working view. It is ge
 
 Then inspect the actual repository and determine the current live state. Do not rely on conversation history, stale checkpoint text, or memory.
 
-## 2. Current mission
+## 2. Session recovery protocol
+
+Chat sessions and individual tool calls can end unexpectedly due to request limits, connection interruptions, or execution timeouts. The project therefore must never depend on chat memory.
+
+When resuming after an interruption:
+1. Read `CURRENT_STATE.md` for the latest canonical counts and active phase.
+2. Read `research/RESEARCH_QUEUE.json` for the current derived frontier. Never hand-edit it.
+3. Inspect the newest Git commits to see what actually landed.
+4. Inspect the relevant canonical records and source tables before changing anything.
+5. Treat committed repository state as durable progress, even when the previous chat stopped mid-task.
+6. Continue from the newest canonical state, not from an assumed conversational checkpoint.
+
+**Recovery rule: the repository remembers; the chat does not.**
+
+## 3. Current mission
 
 The active production phase is the **Catalog Research Phase**.
 
@@ -27,7 +41,7 @@ Research the remaining canonical catalog records in catalog order, synchronize t
 
 The live counts, next research target, latest completed pass, and current blockers belong in `CURRENT_STATE.md`.
 
-## 3. Public site model
+## 4. Public site model
 
 The public archive is deliberately simple:
 
@@ -52,7 +66,7 @@ The public detail page contains:
 
 Internal research administration does not belong on the public page.
 
-## 4. Canonical data ownership
+## 5. Canonical data ownership
 
 The archive follows a **one rule, one owner, one source of truth** model.
 
@@ -75,7 +89,7 @@ The archive follows a **one rule, one owner, one source of truth** model.
 
 Do not create a competing implementation of one of these responsibilities.
 
-## 5. Photo rules
+## 6. Photo rules
 
 A picture counts only when it belongs to the exact cataloged pedal/version.
 
@@ -87,7 +101,7 @@ Do not replace a missing exact photo with a visually similar pedal, different ve
 
 The public fallback for an unresolved exact photo is **No Photo Archived**.
 
-## 6. Research and PRP rules
+## 7. Research and PRP rules
 
 The active Catalog Research Phase is governed by `research/RESEARCH_PHASE_RULES.md`.
 
@@ -95,7 +109,7 @@ PRP status remains useful as a derived completion state and PRP1 remains useful 
 
 Read `research/PRP_RULES.md` only when working on PRP-specific completion or photo-publication behavior.
 
-## 7. Change discipline
+## 8. Change discipline
 
 Before a change:
 
