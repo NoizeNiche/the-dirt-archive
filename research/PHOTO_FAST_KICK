@@ -1,2 +1,2 @@
-Small photo recovery pass — 2026-09-28T06:06:00-07:00
-Work the existing exact-model source leads first. Manufacturer pages first, then verified exact-model secondary pages. Convert confirmed matches into local archived images.
+Finish-line photo recovery kick — 2026-09-28T05:55:00-07:00
+Use current PHOTO_SOURCE_OVERRIDES.csv and prioritize exact-model manufacturer pages first, then verified exact secondary sources. Recover local photos only when the exact pedal/version is confirmed.
