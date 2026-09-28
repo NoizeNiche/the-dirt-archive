@@ -29,6 +29,7 @@ LIVE_AUDIT = ROOT / "scripts/live-photo-audit.js"
 HOME = ROOT / "index.html"
 DETAIL = ROOT / "pedal-detail.html"
 COMPARE = ROOT / "compare.html"
+BUILDER = ROOT / "builder.html"
 LEGACY = ROOT / "pedal.html"
 DEPLOY = ROOT / ".github/workflows/deploy-pages.yml"
 STATIC_SERVER = ROOT / "scripts/serve-static.js"
@@ -69,7 +70,7 @@ def forbidden_photo_provenance(value):
     return False
 
 def main():
-    required = (INDEX, MANIFEST, TRACKER, PHOTO_REVIEW_QUEUE, PHOTO_BACKLOG, PHOTO_SOURCE_OVERRIDES, PHOTO_DIRECT_IMAGE_OVERRIDES, RESEARCH_SOURCE_OVERRIDES, APPLY_PHOTO_SOURCE_OVERRIDES, CORE, INDEX_JS, DETAIL_JS, DEPLOY_AUDIT, LIVE_AUDIT, STATIC_SERVER, PHOTO_CACHE, FACET_BUILDER, HOME, DETAIL, COMPARE, LEGACY, DEPLOY, SITEMAP, ROBOTS, SITEMAP_BUILDER)
+    required = (INDEX, MANIFEST, TRACKER, PHOTO_REVIEW_QUEUE, PHOTO_BACKLOG, PHOTO_SOURCE_OVERRIDES, PHOTO_DIRECT_IMAGE_OVERRIDES, RESEARCH_SOURCE_OVERRIDES, APPLY_PHOTO_SOURCE_OVERRIDES, CORE, INDEX_JS, DETAIL_JS, DEPLOY_AUDIT, LIVE_AUDIT, STATIC_SERVER, PHOTO_CACHE, FACET_BUILDER, HOME, DETAIL, COMPARE, BUILDER, LEGACY, DEPLOY, SITEMAP, ROBOTS, SITEMAP_BUILDER)
     missing = [p.relative_to(ROOT).as_posix() for p in required if not p.is_file()]
     if missing:
         raise SystemExit("Missing required archive files: " + ", ".join(missing))
@@ -499,6 +500,9 @@ def main():
     if 'id="pedalStructuredData"' not in detail_text:
         raise SystemExit("Pedal detail page is missing structured-data hook.")
     detail_js = (ROOT / "assets/js/archive-detail.js").read_text(encoding="utf-8")
+    builder_text = BUILDER.read_text(encoding="utf-8")
+    if "./assets/js/archive-builder.js" not in builder_text or "./assets/css/archive-builder.css" not in builder_text:
+        raise SystemExit("Builder archive page is missing its required runtime assets.")
     if "const canonicalUrl=new URL('./pedal-detail.html',location.href)" not in detail_js:
         raise SystemExit("Pedal detail canonical URL is not normalized to the base record identity.")
     if "pedalStructuredData" not in detail_js:
