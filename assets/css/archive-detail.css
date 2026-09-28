@@ -231,3 +231,11 @@ a:focus-visible,.pageHome:focus-visible,.action:focus-visible,.pageTypeLink:focu
 .photoHelp{display:flex;align-items:center;gap:6px;flex-wrap:wrap;margin-top:8px;color:var(--muted);font-size:.58rem;font-weight:760;line-height:1.4}
 .photoHelp a{color:var(--ink);font-weight:950;text-decoration:underline;text-underline-offset:2px}
 .photoHelp a:hover{color:var(--accent)}
+
+.familySection{margin-top:16px;padding-top:16px;border-top:1px solid var(--line)}
+.familyCard{border:1px solid var(--line);border-radius:12px;background:#f6f3eb;overflow:hidden}
+.familyCardLink{display:grid;gap:4px;padding:11px 12px;color:inherit;text-decoration:none}
+.familyCardLink:hover{background:#efede6}
+.familyCardLink:focus-visible{outline:2px solid var(--accent);outline-offset:-2px}
+.familyCardEyebrow{font-size:.5rem;font-weight:950;text-transform:uppercase;letter-spacing:.08em;color:var(--muted)}
+.familyCardLink strong{font-size:.78rem;line-height:1.15}.familyCardLink span:last-child{font-size:.57rem;font-weight:800;color:var(--muted)}
