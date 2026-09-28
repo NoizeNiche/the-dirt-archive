@@ -5,11 +5,11 @@ The active production phase is **Catalog Research Phase**. PRP1 is retained only
 
 Live catalog: **4206 total / 4206 surface-ready / 4138 deep-researched / 4206 research-linked / 3921 pictured / 3921 complete / 0 surface-missing / 68 deep-research-pending / 285 researched-photo-pending**.
 
-**Next deep-research target:** MOOER Audio / MOOER - Ultra Drive.
+**Next deep-research target:** NUX Audio / NUX - Horseman.
 
 PRP1 closeout remains separate: 285 researched record(s) still lack an exact local photo.
 The research queue is generated from the canonical catalog and tracker; do not hand-edit the derived queue.
-Last refreshed: 2026-09-28T11:02:47.049611+00:00
+Last refreshed: 2026-09-28T11:05:14.751711+00:00
 <!-- AUTO:RESEARCH_PHASE_END -->
 
 ## Superseded checkpoint
