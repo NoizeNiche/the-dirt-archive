@@ -2376,7 +2376,7 @@ async function recoverEntry(browser, entry, deepReview = false, recoveryDeadline
     });
 
     async function curlImageCandidate(candidate) {
-      if (!candidate?.url || !/^https?:/i.test(String(candidate.url))) return null;
+      if (!candidate?.url || !/^https?:/i.test(String(candidate.url)) || isLikelyNonPedalAssetUrl(candidate.url)) return null;
       let tempDir = null;
       try {
         const cookies = await page.context().cookies(
@@ -2461,7 +2461,21 @@ async function recoverEntry(browser, entry, deepReview = false, recoveryDeadline
       return null;
     }
 
-    function imageBytesLookComplete(bytes, contentType = '') {
+    function isLikelyNonPedalAssetUrl(value) {
+  try {
+    const url = new URL(String(value || ''));
+    const haystack = (url.hostname + url.pathname + url.search).toLowerCase();
+    const basename = url.pathname.split('/').filter(Boolean).pop() || '';
+    if (/(?:buymeacoffee|patreon|donate|donation|sponsor|payment|checkout|support(?:[-_]?us)?|tracking|pixel|analytics|consent)/i.test(haystack)) return true;
+    if (/(?:logo|favicon|sprite|avatar|badge|icon|social|banner|widget|placeholder|spinner)(?:[-_.]|$)/i.test(basename)) return true;
+    if (/\/graphics\/(?:buymeacoffee|donate|support|sponsor|payment|banner|widget)/i.test(url.pathname)) return true;
+    return false;
+  } catch {
+    return false;
+  }
+}
+
+function imageBytesLookComplete(bytes, contentType = '') {
       if (!bytes || bytes.length < 3000) return false;
       const type = String(contentType || '').toLowerCase();
       // PNG: signature plus terminal IEND chunk. This catches the truncated
@@ -2508,7 +2522,7 @@ async function recoverEntry(browser, entry, deepReview = false, recoveryDeadline
 
     async function tryImages(list) {
       const candidates = list
-        .filter(candidate => candidate?.url)
+        .filter(candidate => candidate?.url && !isLikelyNonPedalAssetUrl(candidate.url))
         .slice(0, CANDIDATE_LIMIT);
 
       // Test the bounded candidate set concurrently. The old implementation
@@ -2664,7 +2678,7 @@ async function recoverEntry(browser, entry, deepReview = false, recoveryDeadline
     async function screenshotRawVerifiedImageCandidate(candidate) {
       if (!candidate?.rawVerifiedPageImage || !candidate.url) return null;
       const normalizedUrl = String(candidate.url || '');
-      if (/(logo|avatar|icon|sprite|favicon|banner|badge|payment|social|tracking|pixel)/i.test(normalizedUrl)) return null;
+      if (isLikelyNonPedalAssetUrl(normalizedUrl)) return null;
       if (!/(?:\.(?:jpe?g|png|webp|gif)(?:[?#].*)?$|\/gear\/(?:pics|thumbs)\/)/i.test(normalizedUrl)) return null;
       try {
         const capture = await page.evaluate(async src => {
