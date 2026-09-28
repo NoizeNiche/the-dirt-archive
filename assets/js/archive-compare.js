@@ -1,3 +1,4 @@
+let facetRecords=new Map();
 const COMPARE_PLACEHOLDER='Not documented';
 function compareText(value){
   if(Array.isArray(value))return value.length?value.join(', '):COMPARE_PLACEHOLDER;
