@@ -2500,6 +2500,7 @@ async function recoverEntry(browser, entry, deepReview = false, recoveryDeadline
     const url = new URL(String(value || ''));
     const haystack = (url.hostname + url.pathname + url.search).toLowerCase();
     const basename = url.pathname.split('/').filter(Boolean).pop() || '';
+    if (isBlockedByPhotoPolicy(value)) return true;
     if (/(?:buymeacoffee|patreon|donate|donation|sponsor|payment|checkout|support(?:[-_]?us)?|tracking|pixel|analytics|consent)/i.test(haystack)) return true;
     if (/(?:logo|favicon|sprite|avatar|badge|icon|social|banner|widget|placeholder|spinner)(?:[-_.]|$)/i.test(basename)) return true;
     if (/\/graphics\/(?:buymeacoffee|donate|support|sponsor|payment|banner|widget)/i.test(url.pathname)) return true;
