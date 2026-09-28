@@ -21,3 +21,12 @@ The Dirt Archive currently catalogs **Tonebone Trimode** by **Radial Engineering
 ## Deep research
 - **Status:** Pending
 - Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+
+## Deep research verification
+- Effects Database identifies **Tonebone Trimode** as a Radial Tonebone model using a 12AX7 and a dual-stage drive architecture.
+- The exact-model source documents three operating states: True Bypass Clean, Rhythm, and Solo.
+- Rhythm and Solo use separate drive/gain behavior, while the Solo path includes a mid-boost; the pedal also includes an effects loop on the lead/solo channel.
+- The exact-model source distinguishes Trimode from the earlier Classic while retaining the Tonebone tube-based design family.
+
+## Verification source set
+1. Effects Database — Radial Tonebone Trimode: https://www.effectsdatabase.com/model/radial/tonebone/trimode
