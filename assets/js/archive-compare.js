@@ -1,3 +1,32 @@
+function encodeCompareKeys(keys){
+  try{return btoa(encodeURIComponent(JSON.stringify(keys||[])))}catch{return ''}
+}
+function decodeCompareKeys(value){
+  try{
+    const parsed=JSON.parse(decodeURIComponent(atob(value||'')));
+    return Array.isArray(parsed)?parsed.filter(x=>typeof x==='string'): [];
+  }catch{return []}
+}
+async function copyComparisonLink(items){
+  const url=new URL(location.href);
+  const keys=items.map(workbenchKey);
+  if(keys.length)url.searchParams.set('compare',encodeCompareKeys(keys));else url.searchParams.delete('compare');
+  let copied=false;
+  try{
+    await navigator.clipboard.writeText(url.href);
+    copied=true;
+  }catch{
+    const input=document.createElement('textarea');
+    input.value=url.href;input.setAttribute('readonly','');input.style.position='fixed';input.style.opacity='0';
+    document.body.appendChild(input);input.select();copied=document.execCommand('copy');input.remove();
+  }
+  const button=document.getElementById('copyCompareLink');
+  if(button){
+    const original=button.textContent;
+    button.textContent=copied?'Link copied':'Copy failed';
+    setTimeout(()=>button.textContent=original,1500);
+  }
+}
 let facetRecords=new Map();
 const COMPARE_PLACEHOLDER='Not documented';
 function compareText(value){
@@ -53,9 +82,19 @@ function renderComparison(items, facets){
 }
 Promise.all([loadCatalog(),loadFacets()]).then(([data,facets])=>{
   const allItems=data.pedals||[];
+  const params=new URLSearchParams(location.search);
+  const shared=params.get('compare');
+  if(shared){
+    const valid=decodeCompareKeys(shared).filter(key=>allItems.some(item=>isCatalogEntry(item)&&workbenchKey(item)===key)).slice(0,4);
+    if(valid.length){
+      const current=readWorkbench();
+      writeWorkbench({saved:current.saved,compare:valid});
+    }
+  }
   const selected=readWorkbench().compare;
   const items=findWorkbenchEntries(allItems,selected).filter(isCatalogEntry);
   renderComparison(items,facets);
+  document.getElementById('copyCompareLink')?.addEventListener('click',()=>copyComparisonLink(items));
 }).catch(error=>{
   document.getElementById('compareMeta').textContent='Comparison data could not be loaded.';
   console.error(error);
