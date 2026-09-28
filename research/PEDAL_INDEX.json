@@ -46654,8 +46654,8 @@
       "image": "./assets/pedals/mooer-audio-mooer/rage-machine/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/MOOER Audio / MOOER/Rage Machine.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "MOOER Audio / MOOER",
@@ -46703,8 +46703,8 @@
       "image": "./assets/pedals/mooer-audio-mooer/triangle-buff/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/MOOER Audio / MOOER/Triangle Buff.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "MOOER Audio / MOOER",
@@ -53857,8 +53857,8 @@
       "image": "./assets/pedals/vemuram/jan-ray-for-tf-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Vemuram/Jan Ray for TF — overdrive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Vemuram",
@@ -53991,8 +53991,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Vemuram/Oz.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Vemuram",

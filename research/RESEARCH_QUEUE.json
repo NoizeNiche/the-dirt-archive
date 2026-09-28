@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-28T10:38:59.206208+00:00",
+  "generated_at": "2026-09-28T10:40:43.234826+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,8 +10,8 @@
     "pictured": 3899,
     "complete": 3899,
     "research_pending": 0,
-    "deep_research_pending": 85,
-    "deep_researched": 4121,
+    "deep_research_pending": 81,
+    "deep_researched": 4125,
     "surface_ready": 4206
   },
   "next_target": {
@@ -87,13 +87,6 @@
     },
     {
       "builder": "MOOER Audio / MOOER",
-      "pedal": "Rage Machine",
-      "catalog_type": "Distortion",
-      "research_record": "./research/pedals/MOOER Audio / MOOER/Rage Machine.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "MOOER Audio / MOOER",
       "pedal": "Rumble Drive",
       "catalog_type": "Overdrive",
       "research_record": "./research/pedals/MOOER Audio / MOOER/Rumble Drive.md",
@@ -111,13 +104,6 @@
       "pedal": "Thunderball",
       "catalog_type": "Distortion / Fuzz",
       "research_record": "./research/pedals/MOOER Audio / MOOER/Thunderball.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "MOOER Audio / MOOER",
-      "pedal": "Triangle Buff",
-      "catalog_type": "Fuzz",
-      "research_record": "./research/pedals/MOOER Audio / MOOER/Triangle Buff.md",
       "research_level": "surface"
     },
     {
@@ -195,6 +181,20 @@
       "pedal": "DS-3 Classic Distortion",
       "catalog_type": "Distortion",
       "research_record": "./research/pedals/NUX Audio / NUX/DS-3 Classic Distortion.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "NUX Audio / NUX",
+      "pedal": "Fireman",
+      "catalog_type": "Distortion",
+      "research_record": "./research/pedals/NUX Audio / NUX/Fireman.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "NUX Audio / NUX",
+      "pedal": "FZ-2 Vintage Fuzz",
+      "catalog_type": "Fuzz",
+      "research_record": "./research/pedals/NUX Audio / NUX/FZ-2 Vintage Fuzz.md",
       "research_level": "surface"
     }
   ]
