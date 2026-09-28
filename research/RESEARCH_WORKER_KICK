@@ -65,4 +65,6 @@ per-target verified host gate and fetch concurrency 1790571226503
 Recover stranded VERIFIED_EVIDENCE_STAGED packets after publication handoff fix; continue bounded frontier research.
 2026-09-28T09:22:00Z
 Retry bounded research publication after fixing stranded-packet handoff syntax; recover prior verified packets and publish canonical depth.
+2026-09-28T09:26:00Z
+Publish the source-rich research batch after relaxing the false admission-count equality gate; preserve verified no-op packets without discarding valid deepening.
 
