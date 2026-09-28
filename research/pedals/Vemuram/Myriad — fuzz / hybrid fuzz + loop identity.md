@@ -1,23 +1,38 @@
 # Vemuram — Myriad — fuzz / hybrid fuzz + loop identity
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Myriad — fuzz / hybrid fuzz + loop identity
 - **Builder:** Vemuram
-- **Pedal:** Myriad — fuzz / hybrid fuzz + loop identity
 - **Catalog type:** Fuzz
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Vemuram's Myriad — fuzz / hybrid fuzz + loop identity.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Myriad — fuzz / hybrid fuzz + loop identity** by **Vemuram** as a **Fuzz** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Plus, in my opinion the best fuzz pedal in the world." www.vemuram.com Myriad compared to ...
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- The Mix can be controlled by an expression pedal or the control knob on the center of the pedal(red knob).
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Documented terms in the verified sources: Silicon transistors.
+- The archive records only the component information explicitly present in these sources.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+It's a versatile fuzz that allows for a "Myriad" of combinations, combining the fuzz, loop and mixer effects.
+This pedal is a mixture of the Myriad Fuzz, Loop, and a mixer that can do literally "Myriad" of combinations.
+The fuzz can be switched between 2 ouputs and lets you mix the loop and the fuzz if the signal is in the wet chain.
+
+## Sources checked
+1. Vemuram Myriad | AllThePedals: https://allthepedals.com/pedals/vemuram-myriad
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

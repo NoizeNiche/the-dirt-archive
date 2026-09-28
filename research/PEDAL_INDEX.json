@@ -53996,8 +53996,8 @@
       "image": "./assets/pedals/vemuram/myriad-fuzz-hybrid-fuzz-loop-identity/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Vemuram/Myriad — fuzz / hybrid fuzz + loop identity.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Vemuram",
@@ -54645,8 +54645,8 @@
       "image": "./assets/pedals/visual-sound-truetone/jekyll-hyde-original/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Visual Sound / Truetone/Jekyll & Hyde (original).md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Visual Sound / Truetone",
@@ -54657,8 +54657,8 @@
       "image": "./assets/pedals/visual-sound-truetone/open-road/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Visual Sound / Truetone/Open Road.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Visual Sound / Truetone",
@@ -54746,8 +54746,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Visual Sound / Truetone/V2 Son of Hyde.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Visual Sound / Truetone",

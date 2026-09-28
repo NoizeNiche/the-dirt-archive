@@ -4,38 +4,38 @@
 - **Archive parent:** V2 Son of Hyde
 - **Builder:** Visual Sound / Truetone
 - **Catalog type:** Distortion
-- **Identity:** Visual Sound V2 Series Son of Hyde, the standalone single-pedal version of the Hyde distortion circuit from Jekyll & Hyde.
+- **Identity:** Visual Sound / Truetone's V2 Son of Hyde.
 
 ## What this pedal is
-The V2 Son of Hyde is a standalone distortion pedal derived from the Hyde side of the Visual Sound Jekyll & Hyde. The V2 manual identifies it as the distortion channel in a single-effect format, while contemporary review coverage describes it as a British-voiced, lower-compression alternative to the more American-voiced Route 808.
+Visual Sound / Truetone's V2 Son of Hyde is cataloged as a distortion pedal.
 
 ## Colorways
-- V2 Series enclosure with the characteristic raised protective ridge above the controls.
-- No reliably documented factory colorway split was established for this exact catalog record.
+- No specific factory colorway information was established in the verified evidence packet.
 
 ## Versions and factory options
-- **V2 Son of Hyde:** standalone V2-series version of the Hyde distortion section.
-- The manual documents the external **Drive, Treble, Mid, and Volume** controls plus a **Bright** switch.
-- A hidden/internal bass control is documented in contemporary teardown coverage; later versions reportedly changed or removed the internal adjustment. The archive does not treat that later production change as a separate public version without stronger factory documentation.
+- The verified evidence references: V2.
+- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
 
 ## Version changes
-- The documented V2 design uses the standalone Son of Hyde enclosure and control set rather than the dual-pedal Jekyll & Hyde format.
-- Contemporary service/teardown documentation identifies internal bass and noise-gate adjustments on some V2-era units.
+- No specific factory version changes were established in the verified evidence packet.
 
 ## Transistor
-- **Exact production transistor/device:** Not established in the manufacturer documentation reviewed.
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
 
 ## Diode
-- **Exact production clipping diode/device:** Not established in the manufacturer documentation reviewed.
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
 
 ## Sound
-The Son of Hyde covers a wide distortion range, from lower-gain edgy drive into more saturated British-voiced distortion. Premier Guitar's period review noted that it could work as an overdrive at lower gain, becoming dynamic and responsive when the Drive and Mid controls were kept down, while higher settings pushed it into more aggressive classic-rock and metal territory.
+The Dirt Archive currently catalogs **V2 Son of Hyde** by **Visual Sound / Truetone** as a **Distortion** pedal.
+Visual Sound V2 Series V2SOH Son of Hyde Distortion Guitar Effects Pedal
 
 ## Sources checked
-1. Visual Sound / Truetone Son of Hyde manual: https://www.audiomaster.sk/files/product/2/15/3248/data/VSO_V2SOH_dok_1.pdf
-2. Premier Guitar, “More to Stomp On: 8 Stompboxes Reviewed”: https://www.premierguitar.com/more-to-stomp-on-8-stompboxes-reviewed
-3. Reverb exact-model reference: https://reverb.com/p/visual-sound-son-of-hyde
+1. catalog/override source: https://truetone.com/wp-content/uploads/2017/10/V2-Son-of-Hyde-Sample-Settings.pdf
+2. Visual Sound V2 Series V2SOH Son of Hyde Distortion Guitar Effects Pedal | Guitar Center: https://www.guitarcenter.com/Visual-Sound/V2-Series-V2SOH-Son-of-Hyde-Distortion-Guitar-Effects-Pedal-1274115035989.gc
+3. catalog/override source: https://www.effectsdatabase.com/model/visualsound/sonofhyde
+4. catalog/override source: https://www.truetone.com/MANUALS/V3JH-Instructions-rev-2.pdf
 
 ## Photo
-- **Exact-model photo lead:** Reverb exact-model reference above.
-- **Archive status:** Local photo recovery is handled separately; only a verified local asset counts as pictured.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

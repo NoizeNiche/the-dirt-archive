@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-28T11:38:31.690467+00:00",
+  "generated_at": "2026-09-28T11:38:36.343620+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,25 +10,18 @@
     "pictured": 3930,
     "complete": 3930,
     "research_pending": 0,
-    "deep_research_pending": 23,
-    "deep_researched": 4183,
+    "deep_research_pending": 19,
+    "deep_researched": 4187,
     "surface_ready": 4206
   },
   "next_target": {
-    "builder": "Visual Sound / Truetone",
-    "pedal": "V2 Son of Hyde",
-    "catalog_type": "Distortion",
-    "research_record": "./research/pedals/Visual Sound / Truetone/V2 Son of Hyde.md",
+    "builder": "NUX Audio / NUX",
+    "pedal": "BC-2 Vintage Blues Core",
+    "catalog_type": "Overdrive",
+    "research_record": "./research/pedals/NUX Audio / NUX/BC-2 Vintage Blues Core.md",
     "research_level": "surface"
   },
   "working_set": [
-    {
-      "builder": "Visual Sound / Truetone",
-      "pedal": "V2 Son of Hyde",
-      "catalog_type": "Distortion",
-      "research_record": "./research/pedals/Visual Sound / Truetone/V2 Son of Hyde.md",
-      "research_level": "surface"
-    },
     {
       "builder": "NUX Audio / NUX",
       "pedal": "BC-2 Vintage Blues Core",
@@ -79,13 +72,6 @@
       "research_level": "surface"
     },
     {
-      "builder": "Vemuram",
-      "pedal": "Myriad — fuzz / hybrid fuzz + loop identity",
-      "catalog_type": "Fuzz",
-      "research_record": "./research/pedals/Vemuram/Myriad — fuzz / hybrid fuzz + loop identity.md",
-      "research_level": "surface"
-    },
-    {
       "builder": "Smallsound/Bigsound",
       "pedal": "Year of the Rat",
       "catalog_type": "Fuzz",
@@ -118,20 +104,6 @@
       "pedal": "Jekyll & Hyde",
       "catalog_type": "Distortion / Overdrive",
       "research_record": "./research/pedals/Visual Sound / Truetone/Jekyll & Hyde.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Visual Sound / Truetone",
-      "pedal": "Jekyll & Hyde (original)",
-      "catalog_type": "Distortion",
-      "research_record": "./research/pedals/Visual Sound / Truetone/Jekyll & Hyde (original).md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Visual Sound / Truetone",
-      "pedal": "Open Road",
-      "catalog_type": "Overdrive",
-      "research_record": "./research/pedals/Visual Sound / Truetone/Open Road.md",
       "research_level": "surface"
     },
     {
