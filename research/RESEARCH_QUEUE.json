@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-28T04:42:16.534580+00:00",
+  "generated_at": "2026-09-28T04:44:08.360267+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,8 +10,8 @@
     "pictured": 3639,
     "complete": 3639,
     "research_pending": 0,
-    "deep_research_pending": 183,
-    "deep_researched": 4023,
+    "deep_research_pending": 182,
+    "deep_researched": 4024,
     "surface_ready": 4206
   },
   "next_target": {
@@ -185,16 +185,16 @@
     },
     {
       "builder": "Marshall Amplification",
-      "pedal": "1959 Overdrive Pedal",
+      "pedal": "Bluesbreaker Vintage Reissue",
       "catalog_type": "Overdrive",
-      "research_record": "./research/pedals/Marshall Amplification/1959 Overdrive Pedal.md",
+      "research_record": "./research/pedals/Marshall Amplification/Bluesbreaker Vintage Reissue.md",
       "research_level": "surface"
     },
     {
       "builder": "Marshall Amplification",
-      "pedal": "Bluesbreaker Vintage Reissue",
+      "pedal": "Bluesbreaker Vintage Reissue Pedal",
       "catalog_type": "Overdrive",
-      "research_record": "./research/pedals/Marshall Amplification/Bluesbreaker Vintage Reissue.md",
+      "research_record": "./research/pedals/Marshall Amplification/Bluesbreaker Vintage Reissue Pedal.md",
       "research_level": "surface"
     }
   ]

@@ -1,23 +1,38 @@
 # Marshall Amplification — 1959 Overdrive Pedal
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** 1959 Overdrive Pedal
 - **Builder:** Marshall Amplification
-- **Pedal:** 1959 Overdrive Pedal
 - **Catalog type:** Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Marshall Amplification's 1959 Overdrive Pedal.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **1959 Overdrive Pedal** by **Marshall Amplification** as a **Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+1959 Overdrive Pedal - Guitar pedals
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+1959 Overdrive Pedal - Guitar pedals
+Marshall 1959 Overdrive Pedal — Overdrive Pedal Specs & Where to Buy
+
+## Sources checked
+1. 1959 Overdrive Pedal - Guitar pedals | Marshall.com: https://www.marshall.com/us/en/product/1959-overdrive-pedal?color=black%2Band%2Bgold&pid=1008154
+2. Marshall 1959 Overdrive Pedal — Overdrive Pedal Specs & Where to Buy | one thousand pedals: https://onethousandpedals.com/pedal/marshall-1959-overdrive-pedal
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

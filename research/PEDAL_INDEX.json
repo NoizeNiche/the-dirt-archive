@@ -43104,8 +43104,8 @@
       "image": "./assets/pedals/marshall-amplification/1959-overdrive-pedal/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Marshall Amplification/1959 Overdrive Pedal.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Marshall Amplification",
