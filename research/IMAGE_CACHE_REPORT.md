@@ -1,11 +1,11 @@
 # Pedal Image Cache Report
 
-- Cached in this run: **5**
+- Cached in this run: **9**
 - Staged browser photos converted: **0**
 - Local images retained/reorganized: **0**
 - Download failures: **1**
-- Remaining tracker photo backlog: **401**
-- Researched, photo pending: **401**
+- Remaining tracker photo backlog: **392**
+- Researched, photo pending: **392**
 - External source images awaiting localization: **0**
 
 ## Storage layout
@@ -16,11 +16,15 @@
 
 ## Newly cached
 
-- Ashdown Engineering - ABM PRO-FX Double Shot -> `./assets/pedals/ashdown-engineering/abm-pro-fx-double-shot/primary.webp`
-- Behringer - OD400 Overdrive -> `./assets/pedals/behringer/od400-overdrive/primary.webp`
-- Behringer - WD300 Warp Distortion -> `./assets/pedals/behringer/wd300-warp-distortion/primary.webp`
-- Darkglass Electronics - Alpha-Omega Photon -> `./assets/pedals/darkglass-electronics/alpha-omega-photon/primary.webp`
-- Darkglass Electronics - DFZ Duality Fuzz Pedal v2 -> `./assets/pedals/darkglass-electronics/dfz-duality-fuzz-pedal-v2/primary.webp`
+- Ashdown Engineering - James LoMenzo Mega Drive -> `./assets/pedals/ashdown-engineering/james-lomenzo-mega-drive/primary.webp`
+- Ashdown Engineering - OriginAL - Valve-Pre DI -> `./assets/pedals/ashdown-engineering/original-valve-pre-di/primary.webp`
+- BOSS - TB-2W Tone Bender -> `./assets/pedals/boss/tb-2w-tone-bender/primary.webp`
+- Blackbox Music Electronics - X-Ray -> `./assets/pedals/blackbox-music-electronics/x-ray/primary.webp`
+- Devi Ever FX - Bass Fuzz -> `./assets/pedals/devi-ever-fx/bass-fuzz/primary.webp`
+- Devi Ever FX - Devi Special -> `./assets/pedals/devi-ever-fx/devi-special/primary.webp`
+- Devi Ever FX - Heaven's Gate -> `./assets/pedals/devi-ever-fx/heaven-s-gate/primary.webp`
+- Devi Ever FX - Hounds Tooth -> `./assets/pedals/devi-ever-fx/hounds-tooth/primary.webp`
+- Devi Ever FX - KF Krackle Fuzz -> `./assets/pedals/devi-ever-fx/kf-krackle-fuzz/primary.webp`
 
 ## Still external / failed
 
