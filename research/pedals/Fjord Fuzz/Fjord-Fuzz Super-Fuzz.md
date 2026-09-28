@@ -13,7 +13,7 @@ The official Fjord Fuzz video from August 2018 describes the **Fjord-Fuzz** as a
 
 The same official description says the pedal was intended as a massive-sounding fuzz with particularly thick bass, and notes that the octave behavior differs from Foxx Tone Machine-style fuzzes because the Fjord Fuzz version does not gate out. These are builder-stated performance descriptions, not independent measurements. [1]
 
-Independent historical coverage from Guitar Pedal X lists the Fjord-Fuzz Super-Fuzz among Daniel Thornhill's earlier additional fuzz models and places it alongside other Fjord Fuzz experiments that preceded the later established range. [2]
+Independent historical coverage from Guitar Pedal X lists the Fjord-Fuzz Super-Fuzz among Daniel Thornhill's earlier additional fuzz models, distinct from the later Gjallarhorn and other established-range models. [2] The same 2019 profile describes the later Gjallarhorn as a high-gain Super-Fuzz variant and separately names the earlier Fjord-Fuzz Super-Fuzz, supporting separate catalog identities. [2]
 
 ## Versions and factory options
 - The verified evidence establishes the documented **2018 small-run version**.
