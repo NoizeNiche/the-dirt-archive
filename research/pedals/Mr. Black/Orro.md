@@ -4,45 +4,48 @@
 - **Archive parent:** Orro
 - **Builder:** Mr. Black
 - **Catalog type:** Overdrive
-- **Identity:** Mr. Black's Orro.
+- **Research level:** Deep
+- **Deep research status:** Verified
+- **Identity:** Mr. Black Orro overdrive.
+
+## Deep research verification
+- **Exact-model evidence:** Verified against multiple exact-model listings, including the manufacturer-linked product description and Effects Database.
 
 ## What this pedal is
-Black Orro Overdrive is a shelved 2011 design from the Portland pedal pioneer that was luckily rescued from the vault 11 years later.
+Mr. Black describes Orro as a shelved 2011 design that was later released from the vault. It is a standalone overdrive with a tonal relationship to the classic Blues Breaker family but a different circuit topology, with more gain and output. [1][2]
 
-## Colorways
-- Black SKU: MB-ORRO-A2 $199.95 (You save ) Current Stock: Quantity: Decrease Quantity of undefined Increase Quantity of undefined Adding to cart… The item has been added Add to Wish List Create Wish List Email Print Close × Description The Mr.
-- Black Orro Overdrive is a shelved 2011 design from the Portland pedal pioneer that was luckily rescued from the vault 11 years later.
-- Black Orro is touch responsive and articulate like an amp with three simple controls for Drive, Tone, and Level.
+## Controls
+- **DRIVE**
+- **TONE**
+- **LEVEL** [2][3]
 
-## Versions and factory options
-- The verified evidence references: V2.
-- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
-
-## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+## Circuit / architecture
+Effects Database describes the Orro as an original Jack Deville circuit rather than a direct Blues Breaker copy. The verified sources establish matched input/output impedance and true-bypass switching, but do not publish a complete production schematic. [1][2]
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
-- **Exact transistor/device:** Unknown.
+- **Exact production transistor/device:** Unknown.
 
 ## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
-- **Exact part:** Unknown.
+- **Exact production clipping diode:** Unknown.
+
+## Version history
+- **Original design:** 2011, shelved. [1]
+- **Later release:** rediscovered and put into production in the early 2020s. [2]
+- The retained packet references **V2**, but no complete component-level revision list is established.
+
+## Power and switching
+- **Bypass:** true bypass. [2]
+- Full current draw and impedance values were not established in the strongest retained source text.
 
 ## Sound
-escape }}\" class=\"boost-sd__modal\" id=\"boost-sd__modal-quickview\" data-product-id='{{ productData.id }}' data-product='{{ productData
-Black Orro Overdrive is a shelved 2011 design from the Portland pedal pioneer that was luckily rescued from the vault 11 years later.
-Orro offers more gain, more tonal control, and more overall output compared to a traditional Blues Breaker, as well as matched input/output impedance and true-bypass switching.
+Mr. Black characterizes Orro around touch responsiveness, articulation, increased gain and output, and a balanced Tone control. Exact-model descriptions frame it as a “Blues Breaker relative” rather than a clone. [1][2]
 
 ## Sources checked
-1. Mr. Black Orro - Reverb: https://reverb.com/item/102271035-mr-black-orro
-2. Mr. Black Orro Amp-Like Overdrive Effect Pedal &ndash; Russo Music: https://www.russomusic.com/products/mr-black-orro-overdrive-effect-pedal
-3. Mr. Black Orro Overdrive Pedal - eBay: https://www.ebay.com/itm/266757471059
-4. Mr. Black Orro Overdrive Pedal - soundandstagedirect.com: https://www.soundandstagedirect.com/product/mr-black-orro-overdrive-pedal/
-5. Mr. Black Orro Overdrive Pedal: https://islandmusicco.com/mr-black-orro-overdrive-pedal/
-6. Mr. Black Orro - Overdrive | Effects Database: https://www.effectsdatabase.com/model/mrblack/orro
-7. Mr Black Orro Overdrive Pedal: https://shop.jrieckmusic.com/shop/c/p/Mr-Black-Orro-Overdrive-Pedal-x101060005.htm
-8. STOMP BOX STEALS: OVERDRIVE- MR BLACK Orro OD ___NEW ___ Brit Box: https://stompboxsteals.blogspot.com/2023/01/overdrive-mr-black-orro-od-new-brit-box.html
+1. **Effects Database — Mr. Black Orro:** https://www.effectsdatabase.com/model/mrblack/orro
+2. **Island Music Co — Mr. Black Orro Overdrive:** https://islandmusicco.com/mr-black-orro-overdrive-pedal/
+3. **Russo Music — Mr. Black Orro:** https://www.russomusic.com/products/mr-black-orro-overdrive-effect-pedal/
+4. **J. Rieck Music — Mr. Black Orro:** https://shop.jrieckmusic.com/shop/c/p/Mr-Black-Orro-Overdrive-Pedal-x101060005.htm
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately.
+- Exact-model photo provenance remains governed by the archive's photo identity gate.
