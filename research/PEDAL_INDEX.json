@@ -4774,7 +4774,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/ashdown-engineering/agm-pro-fx-retro-drive/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/ashdown",
       "research_record": "./research/pedals/Ashdown Engineering/AGM PRO-FX Retro Drive.md",
       "research_level": "deep",
@@ -51538,7 +51538,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/stomp-under-foot/red-army-vintage-mini/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Stomp Under Foot/Red Army Vintage Mini.md",
       "research_level": "deep",
@@ -53755,7 +53755,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/vemuram/shanks-ii/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Vemuram/SHANKS II.md",
       "research_level": "deep",
@@ -53767,7 +53767,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/vemuram/shanks-ii-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Vemuram/SHANKS II — fuzz.md",
       "research_level": "deep",
@@ -53815,7 +53815,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/vemuram/spiritone-char-signature-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Vemuram/Spiritone Char Signature — overdrive.md",
       "research_level": "deep",
@@ -54245,7 +54245,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/visual-sound-truetone/garagetone-chainsaw-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Visual Sound / Truetone/GarageTone Chainsaw Distortion.md",
       "research_level": "surface",
@@ -54996,7 +54996,7 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/walrus-audio/melee-wall-of-noise/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Walrus Audio/Melee: Wall of Noise.md",
       "research_level": "deep",
@@ -55897,7 +55897,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/way-huge/havalina-germanium-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Way Huge/Havalina Germanium Fuzz.md",
       "research_level": "deep",
@@ -55988,7 +55988,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/way-huge/saucy-box-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Way Huge/Saucy Box Overdrive.md",
       "research_level": "deep",
@@ -56062,7 +56062,7 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/way-huge/smalls-pork-pickle/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Way Huge/Smalls Pork & Pickle.md",
       "research_level": "deep",
