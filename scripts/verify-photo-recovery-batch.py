@@ -38,6 +38,10 @@ def main():
                     ok = ok and v.get("strongSearchIdentity") is True and float(v.get("sourceScore") or 0) >= 120
                 image_file = str(result.get("imageFile") or "").lstrip("./")
                 candidate = d / image_file if image_file else None
+                # Older recovery artifacts recorded the temporary .source path
+                # even though the uploaded artifact contains the packaged .webp.
+                if candidate and not candidate.is_file() and image_file.lower().endswith(".source"):
+                    candidate = d / (image_file[:-7] + ".webp")
                 if not candidate or not candidate.is_file():
                     ok = False
                     reason = "specific recovered image file missing"
