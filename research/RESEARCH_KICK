@@ -1,2 +1,2 @@
-Finish-line deep-research reconciliation kick — 2026-09-28T11:12:30-07:00
-Reconcile newly verified deep research records, rebuild tracker/queue, validate, and deploy derived state.
+Finish-line deep-research reconciliation kick — 2026-09-28T11:13:30-07:00
+Reconcile all newly verified deep records after the latest promotion batch, rebuild derived state, validate, and deploy when public files change.
