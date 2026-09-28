@@ -43,15 +43,25 @@ jobs:
               for p in catalog.get("pedals", [])
           }
 
-          # Curated source overrides and the review queue are the strongest signals
-          # that a record can be recovered now. Prefer them over alphabetical order
-          # so source-rich and stubborn records stop starving behind the raw census.
+          # Curated source overrides, direct image overrides, and the review queue
+          # are the strongest signals that a record can be recovered now. Prefer
+          # known direct images first, then exact source pages, then broader provenance,
+          # so source-rich records stop starving behind the raw census.
           photo_source_keys = set()
           with open("research/PHOTO_SOURCE_OVERRIDES.csv", newline="", encoding="utf-8") as fh:
               for row in csv.DictReader(fh):
                   b, p, u = row.get("Builder", "").strip(), row.get("Pedal", "").strip(), row.get("Image Source Page", "").strip()
                   if b and p and u.startswith(("http://", "https://")):
                       photo_source_keys.add((b, p))
+
+          direct_image_keys = set()
+          direct_path = Path("research/PHOTO_DIRECT_IMAGE_OVERRIDES.csv")
+          if direct_path.exists():
+              with direct_path.open(newline="", encoding="utf-8") as fh:
+                  for row in csv.DictReader(fh):
+                      b, p, u = row.get("Builder", "").strip(), row.get("Pedal", "").strip(), row.get("Image URL", "").strip()
+                      if b and p and u.startswith(("http://", "https://")):
+                          direct_image_keys.add((b, p))
 
           # Research-source overrides are also useful photo candidates. They are
           # not treated as photo provenance automatically, but they are exact
@@ -90,16 +100,18 @@ jobs:
               # Hard review cases always get the first slots. Exact curated photo
               # sources come next, followed by other records already carrying
               # image/source provenance, then the ordinary census backlog.
-              if status in {"DEEP_REVIEW", "PARKED"}:
+              if key in direct_image_keys:
                   priority = 0
-              elif source_ready:
+              elif status in {"DEEP_REVIEW", "PARKED"}:
                   priority = 1
-              elif key in research_source_keys:
+              elif source_ready:
                   priority = 2
-              elif catalog_source:
+              elif key in research_source_keys:
                   priority = 3
-              else:
+              elif catalog_source:
                   priority = 4
+              else:
+                  priority = 5
 
               targets.append({
                   "builder": b,
