@@ -1830,76 +1830,88 @@ function deepReviewSourcePageEligible(pageUrl) {
 }
 
 async function curlVerifiedSourcePageImages(entry, pageUrl) {
-  if (entry.company === 'CAT Sound' && entry.pedal === 'DriveCenter Bass') {
-    const manufacturerPage = 'https://www.catsound.cn/?p=6';
+  if (!deepReviewSourcePageEligible(pageUrl)) return [];
+
+  const fetchHtml = async url => {
     try {
       const proc = await execFileAsync('curl', [
-        '-L', '--silent', '--show-error', '--compressed',
+        '-L', '--fail', '--silent', '--show-error', '--compressed',
         '--connect-timeout', '3', '--max-time', '7',
         '-A', 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/140.0.0.0 Safari/537.36',
         '-H', 'Accept-Language: en-US,en;q=0.9',
-        String(manufacturerPage)
-      ], { timeout: 8500, maxBuffer: 6 * 1024 * 1024 });
-      const manufacturerHtml = String(proc.stdout || '');
-      if (manufacturerHtml) {
-        const refs = manufacturerHtml.split(/\r?\n/)
-          .filter(line => /drivecenter|bass|gear|product|image|jpg|jpeg|png|webp/i.test(line))
-          .slice(0, 120)
-          .join(' ')
-          .slice(0, 30000);
-        console.log('CAT Sound manufacturer raw references: ' + refs);
-      } else {
-        console.log('CAT Sound manufacturer raw references: EMPTY');
-      }
-    } catch (err) {
-      console.log('CAT Sound manufacturer raw fetch failed: ' + String(err?.message || err));
+        String(url)
+      ], { timeout: 8500, maxBuffer: 8 * 1024 * 1024 });
+      return String(proc.stdout || '');
+    } catch {
+      return '';
+    }
+  };
+
+  const directHtml = await fetchHtml(pageUrl);
+  const bodies = [];
+  if (directHtml) bodies.push({ html: directHtml, proxied: false });
+
+  // Hard historical/product pages can be publicly readable but return an
+  // anti-bot shell to direct HTTP clients. Use a bounded Jina HTML proxy only
+  // when the direct page produced no usable image URLs. The original source page
+  // remains the provenance recorded on every recovered image.
+  if (!directHtml || rawVerifiedPageImageUrls(directHtml, pageUrl).length === 0) {
+    const target = String(pageUrl).replace(/^https?:\\/\\//i, '');
+    for (const proxyUrl of [
+      'https://r.jina.ai/http://' + target,
+      'https://r.jina.ai/https://' + target
+    ]) {
+      const proxyHtml = await fetchHtml(proxyUrl);
+      if (proxyHtml) bodies.push({ html: proxyHtml, proxied: true });
     }
   }
 
-  if (!deepReviewSourcePageEligible(pageUrl)) return [];
-  let html = '';
-  try {
-    const proc = await execFileAsync('curl', [
-      '-L', '--silent', '--show-error', '--compressed',
-      '--connect-timeout', '3', '--max-time', '6',
-      '-A', 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/140.0.0.0 Safari/537.36',
-      '-H', 'Accept-Language: en-US,en;q=0.9',
-      String(pageUrl)
-    ], { timeout: 7500, maxBuffer: 6 * 1024 * 1024 });
-    html = String(proc.stdout || '');
-  } catch {}
-  if (!html) return [];
+  if (!bodies.length) return [];
 
-  if (entry.company === 'CAT Sound' && entry.pedal === 'DriveCenter Bass') {
-    try {
-      const needles = html.split(/\r?\n/).filter(line =>
-        /drivecenter|gear\/pics|gear\/thumbs|reverb|ebay|image|photo/i.test(line)
-      ).slice(0, 80);
-      console.log('CAT Sound raw source references: ' + needles.join(' ').slice(0, 30000));
-    } catch {}
+  const out = [];
+  for (const { html, proxied } of bodies) {
+    const title = (html.match(/<title[^>]*>([\\s\\S]*?)<\\/title>/i) || [,''])[1]
+      .replace(/<[^>]+>/g, ' ').replace(/\\s+/g, ' ').trim();
+    const h1 = (html.match(/<h1[^>]*>([\\s\\S]*?)<\\/h1>/i) || [,''])[1]
+      .replace(/<[^>]+>/g, ' ').replace(/\\s+/g, ' ').trim();
+    const body = html
+      .replace(/<script[\\s\\S]*?<\\/script>/gi, ' ')
+      .replace(/<style[\\s\\S]*?<\\/style>/gi, ' ')
+      .replace(/<[^>]+>/g, ' ')
+      .replace(/\\s+/g, ' ')
+      .slice(0, 300000);
+
+    const exactSource =
+      entry.image_source_pages_verified === true ||
+      entry.image_source_page_verified === true ||
+      pageMatchesIdentity(entry, title + ' ' + body, h1) ||
+      reverbListingMatchesIdentity(entry, pageUrl, title, h1);
+    if (!exactSource) continue;
+
+    for (const url of rawVerifiedPageImageUrls(html, pageUrl)) {
+      out.push({
+        url,
+        sourcePage: pageUrl,
+        sourceScore: proxied ? 150 : 165,
+        rawVerifiedPageImage: true
+      });
+    }
+
+    // Jina can return Markdown with image links instead of the original HTML.
+    // Recover those exact image URLs without changing the recorded source page.
+    for (const match of html.matchAll(/!\\[[^\\]]*\\]\\((https?:\\/\\/[^)]+)\\)/g)) {
+      const url = String(match[1] || '').trim();
+      if (!url || isLikelyNonPedalAssetUrl(url)) continue;
+      out.push({
+        url,
+        sourcePage: pageUrl,
+        sourceScore: proxied ? 145 : 160,
+        rawVerifiedPageImage: true
+      });
+    }
   }
 
-  const title = (html.match(/<title[^>]*>([\s\S]*?)<\/title>/i) || [,''])[1]
-    .replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim();
-  const h1 = (html.match(/<h1[^>]*>([\s\S]*?)<\/h1>/i) || [,''])[1]
-    .replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim();
-  const body = html
-    .replace(/<script[\s\S]*?<\/script>/gi, ' ')
-    .replace(/<style[\s\S]*?<\/style>/gi, ' ')
-    .replace(/<[^>]+>/g, ' ')
-    .replace(/\s+/g, ' ')
-    .slice(0, 300000);
-
-  if (!pageMatchesIdentity(entry, title + ' ' + body, h1) &&
-      !reverbListingMatchesIdentity(entry, pageUrl, title, h1)) return [];
-
-  const imageUrls = rawVerifiedPageImageUrls(html, pageUrl);
-  return imageUrls.map(url => ({
-    url,
-    sourcePage: pageUrl,
-    sourceScore: 165,
-    rawVerifiedPageImage: true
-  }));
+  return [...new Map(out.map(x => [x.url, x])).values()].slice(0, 48);
 }
 
 async function recoverEntry(browser, entry, deepReview = false, recoveryDeadlineMs = RECOVERY_DEADLINE_MS) {
