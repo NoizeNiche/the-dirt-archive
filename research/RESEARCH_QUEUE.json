@@ -1,18 +1,18 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-28T12:32:34.554051+00:00",
+  "generated_at": "2026-09-28T12:34:31.297861+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
   "counts": {
-    "total": 4205,
-    "researched": 4205,
+    "total": 4204,
+    "researched": 4204,
     "pictured": 4004,
     "complete": 4004,
     "research_pending": 0,
     "deep_research_pending": 1,
-    "deep_researched": 4204,
-    "surface_ready": 4205
+    "deep_researched": 4203,
+    "surface_ready": 4204
   },
   "next_target": {
     "builder": "JAM Pedals",
