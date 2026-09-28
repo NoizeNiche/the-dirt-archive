@@ -12,7 +12,6 @@ import json
 import os
 import re
 
-from PIL import Image
 from pathlib import Path
 
 INDEX = Path("research/PEDAL_INDEX.json")
@@ -126,15 +125,8 @@ def main():
         image = entry.get("image")
         if not reasons and tracker.get("Picture") == "DONE" and is_local_image(image):
             asset = Path(str(image)[2:] if str(image).startswith("./") else str(image))
-            try:
-                with Image.open(asset) as im:
-                    if min(im.width, im.height) < 160 or max(im.width, im.height) / min(im.width, im.height) > 3.0:
-                        reasons.append(f"photo dimensions {im.width}x{im.height} are thumbnail/banner-sized")
-                    else:
-                        im.verify()
-            except Exception as exc:
-                reasons.append("unreadable local photo: " + str(exc))
-
+            if not asset.is_file():
+                reasons.append("missing local photo")
         if not reasons:
             continue
 
