@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-28T11:11:51.965683+00:00",
+  "generated_at": "2026-09-28T11:12:45.388712+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -41,6 +41,34 @@
       "pedal": "FZ-2 Vintage Fuzz",
       "catalog_type": "Fuzz",
       "research_record": "./research/pedals/NUX Audio / NUX/FZ-2 Vintage Fuzz.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Phaez Amplification",
+      "pedal": "Emperor Distortion",
+      "catalog_type": "Distortion",
+      "research_record": "./research/pedals/Phaez Amplification/Emperor Distortion.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Phaez Amplification",
+      "pedal": "Iron Viper",
+      "catalog_type": "Distortion",
+      "research_record": "./research/pedals/Phaez Amplification/Iron Viper.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Phaez Amplification",
+      "pedal": "M Class Distortion",
+      "catalog_type": "Distortion",
+      "research_record": "./research/pedals/Phaez Amplification/M Class Distortion.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Radial Engineering / Tonebone",
+      "pedal": "Tonebone Classic",
+      "catalog_type": "Distortion / Overdrive",
+      "research_record": "./research/pedals/Radial Engineering / Tonebone/Tonebone Classic.md",
       "research_level": "surface"
     },
     {
@@ -100,27 +128,6 @@
       "research_level": "surface"
     },
     {
-      "builder": "Phaez Amplification",
-      "pedal": "Emperor Distortion",
-      "catalog_type": "Distortion",
-      "research_record": "./research/pedals/Phaez Amplification/Emperor Distortion.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Phaez Amplification",
-      "pedal": "Iron Viper",
-      "catalog_type": "Distortion",
-      "research_record": "./research/pedals/Phaez Amplification/Iron Viper.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Phaez Amplification",
-      "pedal": "M Class Distortion",
-      "catalog_type": "Distortion",
-      "research_record": "./research/pedals/Phaez Amplification/M Class Distortion.md",
-      "research_level": "surface"
-    },
-    {
       "builder": "Radial Engineering / Tonebone",
       "pedal": "Bassbone OD",
       "catalog_type": "Overdrive",
@@ -153,13 +160,6 @@
       "pedal": "Regency Overdrive and Boost",
       "catalog_type": "Overdrive",
       "research_record": "./research/pedals/Radial Engineering / Tonebone/Regency Overdrive and Boost.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Radial Engineering / Tonebone",
-      "pedal": "Tonebone Classic",
-      "catalog_type": "Distortion / Overdrive",
-      "research_record": "./research/pedals/Radial Engineering / Tonebone/Tonebone Classic.md",
       "research_level": "surface"
     },
     {
