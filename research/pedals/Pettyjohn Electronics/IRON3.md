@@ -35,3 +35,13 @@ The Dirt Archive currently catalogs **IRON3** by **Pettyjohn Electronics** as a 
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+## Deep research verification
+- Pettyjohn's manufacturer page identifies IRON3 as a **Cubed** organic magnetic overdrive.
+- The documented circuit uses JRC4558-based soft clipping and an iron-core transformer, with selectable clipping options.
+- The pedal includes an inductor-based midrange section and a clean-mix control for blending the dry path.
+- The manufacturer documents the internal 36V supply architecture, true-bypass operation, and approximately 3.7 × 4.72 × 3 inch dimensions.
+- No exact production transistor/device type is asserted because it is not established by the admitted sources.
+
+## Verification source set
+1. Pettyjohn Electronics — IRON3: https://www.pettyjohnelectronics.com/product-page/iron3
+2. Effects Database — Pettyjohn Iron lineage: https://www.effectsdatabase.com/model/pettyjohn/iron
