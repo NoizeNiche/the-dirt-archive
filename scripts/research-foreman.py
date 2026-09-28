@@ -7,6 +7,7 @@ inbox for the main research pass.
 """
 import csv
 import json
+from functools import lru_cache
 import re
 import sys
 import unicodedata
@@ -92,6 +93,26 @@ def identity_ok(builder,pedal,title,h1,excerpt="",url=""):
             return True
     return False
 
+def load_confirmed_aliases():
+    aliases={}
+    try:
+        for row in csv.DictReader(ALIAS_PATH.open(newline="",encoding="utf-8")):
+            if str(row.get("Status") or "").strip().upper()!="CONFIRMED":
+                continue
+            canonical=str(row.get("Canonical Pedal") or "").strip()
+            alias=str(row.get("Alias Pedal") or "").strip()
+            if canonical and alias:
+                aliases.setdefault(canonical,set()).add(alias)
+                aliases.setdefault(alias,set()).add(canonical)
+    except Exception:
+        pass
+    return aliases
+
+
+CONFIRMED_ALIASES=load_confirmed_aliases()
+
+
+@lru_cache(maxsize=4096)
 def catalog_identity_variants(value):
     raw=str(value or "").strip()
     variants={raw}
@@ -122,36 +143,32 @@ def catalog_identity_variants(value):
     if relationship_base:
         variants.add(relationship_base)
 
-    try:
-        for row in csv.DictReader(ALIAS_PATH.open(newline="",encoding="utf-8")):
-            if str(row.get("Status") or "").strip().upper()!="CONFIRMED":
-                continue
-            canonical=str(row.get("Canonical Pedal") or "").strip()
-            alias=str(row.get("Alias Pedal") or "").strip()
-            if canonical==raw and alias:
-                variants.add(alias)
-            elif alias==raw and canonical:
-                variants.add(canonical)
-    except Exception:
-        pass
+    for alias in CONFIRMED_ALIASES.get(raw,set()):
+        variants.add(alias)
 
     return {norm(v) for v in variants if str(v).strip()}
 
 
-def resolve_catalog_key(builder,pedal,catalog_keys):
+def build_catalog_identity_index(catalog_keys):
+    index={}
+    for key in catalog_keys:
+        builder,catalog_pedal=key
+        builder_norm=norm(builder)
+        for variant in catalog_identity_variants(catalog_pedal):
+            index.setdefault((builder_norm,variant),set()).add(key)
+    return index
+
+
+def resolve_catalog_key(builder,pedal,catalog_index,catalog_keys):
     exact=(builder,pedal)
     if exact in catalog_keys:
         return exact
     builder_norm=norm(builder)
     packet_variants=catalog_identity_variants(pedal)
-    matches=[]
-    for key in catalog_keys:
-        catalog_builder,catalog_pedal=key
-        if norm(catalog_builder)!=builder_norm:
-            continue
-        if packet_variants & catalog_identity_variants(catalog_pedal):
-            matches.append(key)
-    return matches[0] if len(matches)==1 else None
+    matches=set()
+    for variant in packet_variants:
+        matches.update(catalog_index.get((builder_norm,variant),set()))
+    return next(iter(matches)) if len(matches)==1 else None
 
 
 def source_is_strong_single(source):
@@ -169,6 +186,7 @@ def source_is_strong_single(source):
 def main():
     catalog=json.loads(INDEX.read_text(encoding="utf-8"))
     keys={(x.get("company"),x.get("pedal")) for x in catalog.get("pedals",[])}
+    catalog_index=build_catalog_identity_index(keys)
     INBOX.mkdir(parents=True,exist_ok=True)
     staged=0; held=0
     staged_files=[]
@@ -179,7 +197,7 @@ def main():
         for dossier in dossiers:
             b=str(dossier.get("builder","")).strip()
             p=str(dossier.get("pedal","")).strip()
-            canonical_key=resolve_catalog_key(b,p,keys)
+            canonical_key=resolve_catalog_key(b,p,catalog_index,keys)
             if not canonical_key:
                 continue
             canonical_builder,canonical_pedal=canonical_key
