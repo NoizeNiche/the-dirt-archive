@@ -1,6 +1,6 @@
 {
-  "version": "data-20260928-identity-cleanup",
-  "count": 4205,
+  "version": "data-20260928-dirt-scope-cleanup",
+  "count": 4204,
   "pedals": [
     {
       "company": "1981 Inventions",
@@ -56144,18 +56144,6 @@
       "image": "./assets/pedals/wampler-pedals/the-compulsion-drive-tcd/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Wampler Pedals/the Compulsion Drive (tcd).md",
-      "research_level": "deep",
-      "deep_research_status": "VERIFIED"
-    },
-    {
-      "company": "Wampler Pedals",
-      "pedal": "The Doctor",
-      "types": [
-        "Distortion"
-      ],
-      "image": null,
-      "source_page": null,
-      "research_record": "./research/pedals/Wampler Pedals/The Doctor.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED"
     },
