@@ -24,7 +24,7 @@ jobs:
             curl -L --silent --show-error --compressed --connect-timeout 8 --max-time 20 -A "Mozilla/5.0 The Dirt Archive sitemap probe" "$u" > "/tmp/ctc/$n.txt" || true
           done
           grep -RniE "falcon|overdrive" /tmp/ctc || true
-      - uses: actions/upload-artifact@v4
+      - uses: actions/upload-artifact@v7
         with:
           name: ctc-sitemap-probe
           path: /tmp/ctc/
