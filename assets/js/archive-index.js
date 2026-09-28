@@ -72,6 +72,65 @@ function discoverPedal(){
   location.href=slugParams(picked);
 }
 
+
+function renderWorkbench(){
+  const panel=$('workbench');
+  const data=readWorkbench();
+  const saved=findWorkbenchEntries(allItems,data.saved).filter(isCatalogEntry);
+  const compare=findWorkbenchEntries(allItems,data.compare).filter(isCatalogEntry);
+  const button=$('workbenchButton');
+  if(button) button.setAttribute('aria-expanded',String(!panel?.hidden));
+  $('workbenchCount').textContent=String(saved.length);
+  $('savedCount').textContent=saved.length.toLocaleString();
+  $('compareCount').textContent=compare.length.toLocaleString()+' / 4';
+  $('clearSaved').hidden=!saved.length;
+  $('clearCompare').hidden=!compare.length;
+  $('savedList').innerHTML=saved.length ? saved.map(item=>
+    '<div class="workbenchItem"><a class="workbenchItemText" href="'+esc(workbenchDetailHref(item))+'"><span class="workbenchItemName">'+esc(item.pedal)+'</span><span class="workbenchItemBuilder">'+esc(item.company)+'</span></a><button class="workbenchItemButton" type="button" data-workbench-action="unsave" data-builder="'+esc(item.company)+'" data-pedal="'+esc(item.pedal)+'">Remove</button></div>'
+  ).join('') : '<p class="workbenchEmpty">Save pedals here to build a private reference list on this device.</p>';
+  $('compareList').innerHTML=compare.length ? compare.map(item=>
+    '<div class="workbenchItem"><a class="workbenchItemText" href="'+esc(workbenchDetailHref(item))+'"><span class="workbenchItemName">'+esc(item.pedal)+'</span><span class="workbenchItemBuilder">'+esc(item.company)+'</span></a><button class="workbenchItemButton" type="button" data-workbench-action="uncompare" data-builder="'+esc(item.company)+'" data-pedal="'+esc(item.pedal)+'">Remove</button></div>'
+  ).join('') : '<p class="workbenchEmpty">Select up to four exact records to compare.</p>';
+  $('openCompare').textContent=compare.length>1?'Compare '+compare.length+' pedals':'Open comparison';
+  document.querySelectorAll('[data-workbench-action]').forEach(button=>{
+    button.onclick=()=>{
+      const item=allItems.find(x=>x.company===button.dataset.builder&&x.pedal===button.dataset.pedal);
+      if(!item)return;
+      if(button.dataset.workbenchAction==='unsave')toggleSaved(item);else toggleCompare(item);
+    };
+  });
+  document.querySelectorAll('.saveAction,.compareAction').forEach(button=>{
+    const item=items.find(x=>x.company===button.dataset.builder&&x.pedal===button.dataset.pedal);
+    if(!item)return;
+    const saved=isSaved(item), compared=isInCompare(item);
+    if(button.dataset.action==='save'){button.classList.toggle('active',saved);button.setAttribute('aria-pressed',String(saved));button.textContent=saved?'Saved':'Save';}
+    else{button.classList.toggle('compareActive',compared);button.setAttribute('aria-pressed',String(compared));button.textContent=compared?'Comparing':'Compare';button.disabled=!compared&&compareState().length>=4;}
+  });
+}
+
+function wireCardActions(){
+  document.querySelectorAll('.cardAction').forEach(button=>{
+    button.onclick=event=>{
+      event.preventDefault(); event.stopPropagation();
+      const item=items.find(x=>x.company===button.dataset.builder&&x.pedal===button.dataset.pedal);
+      if(!item)return;
+      if(button.dataset.action==='save')toggleSaved(item);
+      else{const result=toggleCompare(item);if(result.reason==='limit')openWorkbench();}
+    };
+  });
+}
+
+function workbenchDetailHref(item){ return slugParams(item); }
+
+function openWorkbench(){
+  const panel=$('workbench');if(!panel)return;
+  panel.hidden=false;$('workbenchButton')?.setAttribute('aria-expanded','true');renderWorkbench();
+}
+
+function closeWorkbench(){
+  const panel=$('workbench');if(!panel)return;
+  panel.hidden=true;$('workbenchButton')?.setAttribute('aria-expanded','false');
+}
 function syncUrl(replace=true){
   const p=new URLSearchParams();
   if(selectedType!=='All')p.set('type',selectedType);
