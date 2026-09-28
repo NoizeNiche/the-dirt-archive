@@ -328,6 +328,41 @@ function renderRecordStatus(item,markdown=''){
     '<span class="statusPill '+(hasPhoto?'photo':'photoMissing')+'">'+(hasPhoto?'Exact archive photo':'Exact local photo pending')+'</span>';
 }
 
+
+function syncWorkbenchButtons(item){
+  const save=$('savePedal');
+  const compare=$('comparePedal');
+  const counts=workbenchCounts();
+  if(save){
+    const saved=isSaved(item);
+    save.textContent=saved?'Saved to workbench':'Save pedal';
+    save.setAttribute('aria-pressed',String(saved));
+  }
+  if(compare){
+    const compared=isInCompare(item);
+    compare.textContent=compared?'Comparing':'Compare';
+    compare.classList.toggle('compareActive',compared);
+    compare.setAttribute('aria-pressed',String(compared));
+    compare.disabled=!compared && counts.compare>=4;
+    compare.title=compare.disabled?'Comparison holds up to four exact records.':'';
+  }
+}
+function wireWorkbenchButtons(item){
+  $('savePedal')?.addEventListener('click',()=>{
+    toggleSaved(item);
+    syncWorkbenchButtons(item);
+  });
+  $('comparePedal')?.addEventListener('click',()=>{
+    const result=toggleCompare(item);
+    syncWorkbenchButtons(item);
+    if(result.reason==='limit'){
+      window.location.href='./compare.html';
+    }
+  });
+  window.addEventListener('workbenchchange',()=>syncWorkbenchButtons(item));
+  syncWorkbenchButtons(item);
+}
+
 function updateMetaDescription(item){
   const types=(item.types||[]).filter(Boolean).join(', ')||'guitar dirt';
   const title=item.pedal+' · The Dirt Archive';
@@ -469,6 +504,7 @@ loadCatalog()
 
   $('types').innerHTML=(item.types||[]).map(t=>'<span class="chip">'+esc(t)+'</span>').join('');
   showPhoto(item);
+  wireWorkbenchButtons(item);
 
   const colorways=allItems.filter(x=>x.catalog_role==='variation'&&x.company===item.company&&x.parent_pedal===item.pedal);
   const versions=allItems.filter(x=>isCatalogEntry(x)&&x.version_of===entryKey(item));
