@@ -1,6 +1,6 @@
 # Pedal Image Cache Report
 
-- Cached in this run: **4**
+- Cached in this run: **0**
 - Staged browser photos converted: **0**
 - Local images retained/reorganized: **0**
 - Download failures: **1**
@@ -13,13 +13,6 @@
 - Primary image: `assets/pedals/{builder}/{pedal}/primary.webp`
 - Colorway/edition image: `assets/pedals/{builder}/{pedal}/variants/{variant}.webp`
 - Original source URL remains stored as `image_source_url`.
-
-## Newly cached
-
-- Darkglass Electronics - Microtubes Vintage Deluxe -> `./assets/pedals/darkglass-electronics/microtubes-vintage-deluxe/primary.webp`
-- Devi Ever FX - Little Shit -> `./assets/pedals/devi-ever-fx/little-shit/primary.webp`
-- Devi Ever FX - Shoe Gazer -> `./assets/pedals/devi-ever-fx/shoe-gazer/primary.webp`
-- Does It Doom? - Fuzzcoven -> `./assets/pedals/does-it-doom/fuzzcoven/primary.webp`
 
 ## Still external / failed
 
