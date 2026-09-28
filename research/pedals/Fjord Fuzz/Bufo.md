@@ -1,23 +1,38 @@
 # Fjord Fuzz — Bufo
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Bufo
 - **Builder:** Fjord Fuzz
-- **Pedal:** Bufo
 - **Catalog type:** Fuzz
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Research level:** Deep
+- **Deep research status:** Verified
+- **Identity:** Independent historical sources explicitly identify Bufo as a Fjord Fuzz fuzz-drive / fuzz pedal.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Bufo** by **Fjord Fuzz** as a **Fuzz** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+**Bufo** is a historical Fjord Fuzz dirt pedal documented as a “croaky fuzz-drive.” Guitar Pedal X lists Bufo among Daniel Thornhill's Fjord Fuzz creations, while Proghurst documents a Fjord Fuzz Bufo on a guitar rig and identifies it as one of the builder's fuzz pedals. [1][2]
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Versions and factory options
+- The verified sources establish the historical model identity.
+- No distinct factory revision history or documented factory colorway was established in this pass.
+
+## Version changes
+- No specific version chronology was established from the verified sources.
+
+## Transistor
+- **Exact production transistor/device:** Unknown.
+- The verified Bufo sources do not establish a specific production transistor part number.
+
+## Diode
+- **Exact clipping/rectifier diode:** Unknown.
+- The verified Bufo sources do not establish a specific production diode part number.
+
+## Sound
+Guitar Pedal X describes Bufo as a croaky fuzz-drive. The Proghurst source independently places a Bufo on a guitarist's pedalboard among other Fjord Fuzz fuzz pedals. [1][2]
+
+## Sources checked
+1. Guitar Pedal X — Fjord Fuzz: Daniel Thornhill's Cutting Edge Futuristic Fuzz Pedals: https://www.guitarpedalx.com/news/gpx-blog/fjord-fuzz---daniel-thornhills-cutting-edge-futuristic-fuzz-pedals-from-the-west-coast-of-norway
+2. Proghurst — Shaman Elephant: Wide Awake But Still Asleep Review & Interview: https://proghurst.co.uk/2020/06/shaman-elephant-wide-awake-but-still-asleep-review-interview/
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately.
+- Exact product-photo leads remain in the photo source ledger.
