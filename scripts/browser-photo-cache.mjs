@@ -430,28 +430,38 @@ function researchRecordSourcePages(entry) {
   }
 }
 
+function isGenericSourcePage(url) {
+  try {
+    const parsed = new URL(url);
+    const host = parsed.hostname.toLowerCase();
+    const pathName = parsed.pathname.toLowerCase();
+    if (/(^|\\.)reverb\\.com$/i.test(host) && /^\\/?$/.test(pathName)) return true;
+    if (host.includes('effectsdatabase.com') &&
+        /\\/(?:type|taxonomy|tag|category|brands?|search|blog|news|articles?)\\b/i.test(pathName)) return true;
+    if (/(?:^|\\/)(?:search|results|archive|archives)(?:[/?]|$)/i.test(pathName)) return true;
+    if (/(?:^|\\/)(?:blog|news|article|articles|review|reviews|guide|guides)(?:[/?]|$)/i.test(pathName)) return true;
+    return false;
+  } catch {
+    return true;
+  }
+}
+
 function preferredSourcePage(entry) {
   const imagePage = entry.image_source_page || null;
   const sourcePage = entry.source_page || null;
-  if (!imagePage) return sourcePage;
-  try {
-    const parsed = new URL(imagePage);
-    const isGenericReverbHome =
-      /(^|\.)reverb\.com$/i.test(parsed.hostname) &&
-      /^\/?$/.test(parsed.pathname);
-    if (isGenericReverbHome && sourcePage) return sourcePage;
-  } catch {}
-  return imagePage;
+  if (imagePage && !isGenericSourcePage(imagePage)) return imagePage;
+  if (sourcePage && !isGenericSourcePage(sourcePage)) return sourcePage;
+  return imagePage || sourcePage || null;
 }
 
 function preferredSourcePages(entry) {
   const pages = Array.isArray(entry.image_source_pages)
-    ? entry.image_source_pages.filter(value => /^https?:/i.test(String(value || '')))
+    ? entry.image_source_pages.filter(value => /^https?:/i.test(String(value || '')) && !isGenericSourcePage(value))
     : [];
   const preferred = preferredSourcePage(entry);
-  const researchPages = researchRecordSourcePages(entry);
+  const researchPages = researchRecordSourcePages(entry).filter(value => !isGenericSourcePage(value));
   const combined = [];
-  if (preferred && /^https?:/i.test(preferred)) combined.push(preferred);
+  if (preferred && /^https?:/i.test(preferred) && !isGenericSourcePage(preferred)) combined.push(preferred);
   combined.push(...researchPages);
   combined.push(...pages);
   return [...new Set(combined)].slice(0, 8);
