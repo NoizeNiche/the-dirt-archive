@@ -21,3 +21,12 @@ The Dirt Archive currently catalogs **GO** by **Pigdog Pedals** as a **Overdrive
 ## Deep research
 - **Status:** Pending
 - Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+
+## Deep research verification
+- Pigdog's manufacturer shop identifies GO as **GO (Germanium Overdrive) V1**.
+- The builder states that the circuit uses germanium-type transistors, reflecting the builder's established background in germanium fuzz construction.
+- The record is retained as an overdrive rather than inferring a more specific circuit family from appearance or controls.
+- The current manufacturer page is the primary source for the exact model identity.
+
+## Verification source set
+1. Pigdog Pedals — Shop: https://www.pigdogpedals.com/shop/
