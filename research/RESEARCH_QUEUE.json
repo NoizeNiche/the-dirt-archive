@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-28T04:31:44.989817+00:00",
+  "generated_at": "2026-09-28T04:32:10.351451+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,8 +10,8 @@
     "pictured": 3639,
     "complete": 3639,
     "research_pending": 0,
-    "deep_research_pending": 191,
-    "deep_researched": 4015,
+    "deep_research_pending": 185,
+    "deep_researched": 4021,
     "surface_ready": 4206
   },
   "next_target": {
@@ -93,48 +93,6 @@
       "research_level": "surface"
     },
     {
-      "builder": "KHDK Electronics",
-      "pedal": "Ghoul JR — overdrive",
-      "catalog_type": "",
-      "research_record": "./research/pedals/KHDK Electronics/Ghoul JR — overdrive.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "KHDK Electronics",
-      "pedal": "In Waves — Trivium metal tone shaper / dirt product",
-      "catalog_type": "",
-      "research_record": "./research/pedals/KHDK Electronics/In Waves — Trivium metal tone shaper / dirt product.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "KHDK Electronics",
-      "pedal": "Night of the Living Shred — high-gain preamp / dirt product",
-      "catalog_type": "",
-      "research_record": "./research/pedals/KHDK Electronics/Night of the Living Shred — high-gain preamp / dirt product.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "KHDK Electronics",
-      "pedal": "Scuzz Box — germanium-voiced fuzz",
-      "catalog_type": "",
-      "research_record": "./research/pedals/KHDK Electronics/Scuzz Box — germanium-voiced fuzz.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "KHDK Electronics",
-      "pedal": "Shred II — high-gain dirt product",
-      "catalog_type": "",
-      "research_record": "./research/pedals/KHDK Electronics/Shred II — high-gain dirt product.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "KHDK Electronics",
-      "pedal": "Unicorn Blood II — octave fuzz",
-      "catalog_type": "",
-      "research_record": "./research/pedals/KHDK Electronics/Unicorn Blood II — octave fuzz.md",
-      "research_level": "surface"
-    },
-    {
       "builder": "KMA Machines",
       "pedal": "Queequeq 2",
       "catalog_type": "",
@@ -195,6 +153,48 @@
       "pedal": "Albert's Overdrive",
       "catalog_type": "",
       "research_record": "./research/pedals/Mad Professor Amplification/Albert's Overdrive.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Mad Professor Amplification",
+      "pedal": "Blueberry Bass Overdrive",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Mad Professor Amplification/Blueberry Bass Overdrive.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Mad Professor Amplification",
+      "pedal": "Sweet Honey Overdrive Custom",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Mad Professor Amplification/Sweet Honey Overdrive Custom.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Mad Professor Amplification",
+      "pedal": "Sweet Honey Overdrive Handwired",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Mad Professor Amplification/Sweet Honey Overdrive Handwired.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "MadeByMike",
+      "pedal": "Dist²",
+      "catalog_type": "",
+      "research_record": "./research/pedals/MadeByMike/Dist².md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "MadeByMike",
+      "pedal": "Germanium Fuzz Face",
+      "catalog_type": "",
+      "research_record": "./research/pedals/MadeByMike/Germanium Fuzz Face.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "MadeByMike",
+      "pedal": "Saltstorm Overdrive",
+      "catalog_type": "",
+      "research_record": "./research/pedals/MadeByMike/Saltstorm Overdrive.md",
       "research_level": "surface"
     }
   ]
