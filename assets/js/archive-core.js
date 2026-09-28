@@ -93,3 +93,91 @@ function loadCatalog() {
 
   return archiveCatalogPromise;
 }
+
+const LOCAL_WORKBENCH_KEY = 'dirt-archive-workbench-v1';
+
+function readWorkbench(){
+  try{
+    const raw=localStorage.getItem(LOCAL_WORKBENCH_KEY);
+    const data=raw?JSON.parse(raw):{};
+    return {
+      saved:Array.isArray(data.saved)?data.saved.filter(v=>typeof v==='string'):[],
+      compare:Array.isArray(data.compare)?data.compare.filter(v=>typeof v==='string').slice(0,4):[]
+    };
+  }catch{
+    return {saved:[],compare:[]};
+  }
+}
+
+function writeWorkbench(data){
+  try{
+    localStorage.setItem(LOCAL_WORKBENCH_KEY,JSON.stringify({
+      saved:[...new Set(data.saved||[])],
+      compare:[...new Set(data.compare||[])].slice(0,4)
+    }));
+  }catch{}
+}
+
+function workbenchKey(entry){ return entryKey(entry); }
+
+function isSaved(entry){
+  return readWorkbench().saved.includes(workbenchKey(entry));
+}
+
+function toggleSaved(entry){
+  const data=readWorkbench();
+  const key=workbenchKey(entry);
+  const index=data.saved.indexOf(key);
+  if(index>=0)data.saved.splice(index,1);
+  else data.saved.unshift(key);
+  writeWorkbench(data);
+  window.dispatchEvent(new CustomEvent('workbenchchange'));
+  return index<0;
+}
+
+function compareState(){
+  return readWorkbench().compare;
+}
+
+function isInCompare(entry){
+  return compareState().includes(workbenchKey(entry));
+}
+
+function toggleCompare(entry){
+  const data=readWorkbench();
+  const key=workbenchKey(entry);
+  const index=data.compare.indexOf(key);
+  if(index>=0){
+    data.compare.splice(index,1);
+  }else{
+    if(data.compare.length>=4)return {added:false,reason:'limit'};
+    data.compare.push(key);
+  }
+  writeWorkbench(data);
+  window.dispatchEvent(new CustomEvent('workbenchchange'));
+  return {added:index<0,reason:null};
+}
+
+function clearCompare(){
+  const data=readWorkbench();
+  data.compare=[];
+  writeWorkbench(data);
+  window.dispatchEvent(new CustomEvent('workbenchchange'));
+}
+
+function clearSaved(){
+  const data=readWorkbench();
+  data.saved=[];
+  writeWorkbench(data);
+  window.dispatchEvent(new CustomEvent('workbenchchange'));
+}
+
+function workbenchCounts(){
+  const data=readWorkbench();
+  return {saved:data.saved.length,compare:data.compare.length};
+}
+
+function findWorkbenchEntries(items, keys){
+  const wanted=new Set(keys||[]);
+  return (items||[]).filter(item=>wanted.has(workbenchKey(item)));
+}
