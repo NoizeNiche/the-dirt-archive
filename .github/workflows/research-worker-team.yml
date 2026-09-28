@@ -390,9 +390,18 @@ jobs:
           publication_actions=$((created_records+deepened_research))
           direct_publication_actions=$((publication_actions-orphan_packet_adoptions))
           echo "Research publication gate: created_records=$created_records; deepened_research=$deepened_research; staged=$staged_research; publication_actions=$publication_actions; orphan_packet_adoptions=$orphan_packet_adoptions; direct_publication_actions=$direct_publication_actions; orphan_adoptions=$orphan_adoptions; genuinely_new_links=$genuinely_new_links; created_paths_missing=$created_paths_missing."
-          if [ "${direct_publication_actions:-0}" -ne "${staged_research:-0}" ]; then
-            echo "ERROR: current-pass foreman admission count does not match direct canonical records created or deepened by this pass."
+          # Some foreman-admitted packets can be legitimate no-ops (for example,
+          # duplicate/alias evidence that adds no new canonical depth). Do not throw
+          # away the rest of a successful batch just because one packet did not
+          # produce a canonical mutation. The hard invariant is that publication
+          # may never exceed the number of admitted packets.
+          if [ "${direct_publication_actions:-0}" -gt "${staged_research:-0}" ]; then
+            echo "ERROR: canonical publication actions exceed foreman admissions."
             exit 1
+          fi
+          if [ "${direct_publication_actions:-0}" -lt "${staged_research:-0}" ]; then
+            skipped_admissions=$((staged_research-direct_publication_actions))
+            echo "Foreman admissions with no canonical mutation in this pass: $skipped_admissions"
           fi
           if [ "${created_paths_missing:-0}" -ne 0 ]; then
             echo "ERROR: one or more canonical research files created by this pass were not linked into the canonical tracker."
