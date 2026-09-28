@@ -1,21 +1,21 @@
 Builder,Pedal,Catalog Type,Status,Attempts,Last Failure,Deep Review Cycles
-Pete Cornish / Pete Cornish Effects,P-1,,DEEP_REVIEW,1,recovery hard timeout exceeded,2
-Ampeg,A-1 Distortion,,DEEP_REVIEW,2,recovery hard timeout exceeded,2
-BOSS,MT-2-3A 30th Anniversary Metal Zone,,DEEP_REVIEW,2,recovery hard timeout exceeded,1
-Collins,CSD-1 Pro Super Dust,,DEEP_REVIEW,2,recovery hard timeout exceeded,2
-Columbus,OVD-5 Overdrive,,DEEP_REVIEW,2,recovery hard timeout exceeded,2
-Devi Ever FX,Hypnomangler,,DEEP_REVIEW,2,recovery hard timeout exceeded,2
-Devi Ever FX,Soda Might,,DEEP_REVIEW,2,recovery hard timeout exceeded,2
-Pete Cornish,BD-1,,DEEP_REVIEW,2,recovery hard timeout exceeded,1
-Pete Cornish,CC-1,,DEEP_REVIEW,2,recovery hard timeout exceeded,1
-Pete Cornish,G-2,,DEEP_REVIEW,2,recovery hard timeout exceeded,1
-Pete Cornish,P-1,,DEEP_REVIEW,2,recovery hard timeout exceeded,1
-Pete Cornish,SS-2,,DEEP_REVIEW,2,recovery hard timeout exceeded,1
-Pete Cornish / Pete Cornish Effects,BD-1 Bass Driver,,DEEP_REVIEW,2,recovery hard timeout exceeded,1
-Pete Cornish / Pete Cornish Effects,CC-1 Cornish Crunch,,DEEP_REVIEW,2,recovery hard timeout exceeded,1
-Pete Cornish / Pete Cornish Effects,G-2,,DEEP_REVIEW,2,recovery hard timeout exceeded,1
-Vertex Effects,Ultra Phonix,,DEEP_REVIEW,2,recovery hard timeout exceeded,1
-Pete Cornish / Pete Cornish Effects,NG-3,,DEEP_REVIEW,3,"no usable exact-model image candidate found [{""sourceHost"":""petecornish.co.uk"",""sourcePageLoaded"":true,""sourceIdentityMatch"":true,""sourceImageCandidates"":0,""linkedExternalCandidates"":0,""sourceScreenshotCaptured"":false,""makerFallbackTried"":true,""soldCandidates"":0,""verifiedSoldCandidates"":0,""imageSearchCandidates"":0,""verifiedSearchCandidates"":0,""rawHtmlCandidates"":0}]",
-Pete Cornish / Pete Cornish Effects,P-2,,DEEP_REVIEW,3,recovery hard timeout exceeded,
-Pete Cornish / Pete Cornish Effects,SS-2 Soft Sustain,,DEEP_REVIEW,3,recovery hard timeout exceeded,1
-Pete Cornish / Pete Cornish Effects,SS-3 Soft Sustain,,DEEP_REVIEW,3,recovery hard timeout exceeded,
+Pete Cornish / Pete Cornish Effects,P-1,,DEEP_REVIEW,2,"no usable exact-model image candidate found [{""sourceHost"":""petecornish.co.uk"",""sourcePageLoaded"":true,""sourceIdentityMatch"":true,""sourceImageCandidates"":0,""linkedExternalCandidates"":0,""sourceScreenshotCaptured"":false,""makerFallbackTried"":true,""soldCandidates"":0,""verifiedSoldCandidates"":0,""imageSearchCandidates"":0,""verifiedSearchCandidates"":0,""rawHtmlCandidates"":0}]",2
+Ampeg,A-1 Distortion,,DEEP_REVIEW,3,recovery hard timeout exceeded,2
+BOSS,MT-2-3A 30th Anniversary Metal Zone,,DEEP_REVIEW,3,recovery hard timeout exceeded,1
+Collins,CSD-1 Pro Super Dust,,DEEP_REVIEW,3,recovery hard timeout exceeded,2
+Columbus,OVD-5 Overdrive,,DEEP_REVIEW,3,recovery hard timeout exceeded,2
+Devi Ever FX,Hypnomangler,,DEEP_REVIEW,3,recovery hard timeout exceeded,2
+Devi Ever FX,Soda Might,,DEEP_REVIEW,3,recovery hard timeout exceeded,2
+Pete Cornish,BD-1,,DEEP_REVIEW,3,"no usable exact-model image candidate found [{""sourceHost"":""www.petecornish.co.uk"",""sourcePageLoaded"":true,""sourceIdentityMatch"":true,""sourceImageCandidates"":0,""linkedExternalCandidates"":0,""sourceScreenshotCaptured"":false,""makerFallbackTried"":true,""soldCandidates"":0,""verifiedSoldCandidates"":0,""imageSearchCandidates"":0,""verifiedSearchCandidates"":0,""rawHtmlCandidates"":0}]",1
+Pete Cornish,CC-1,,DEEP_REVIEW,3,"no usable exact-model image candidate found [{""sourceHost"":""www.petecornish.co.uk"",""sourcePageLoaded"":true,""sourceIdentityMatch"":true,""sourceImageCandidates"":0,""linkedExternalCandidates"":0,""sourceScreenshotCaptured"":false,""makerFallbackTried"":true,""soldCandidates"":0,""verifiedSoldCandidates"":0,""imageSearchCandidates"":0,""verifiedSearchCandidates"":0,""rawHtmlCandidates"":0}]",1
+Pete Cornish,G-2,,DEEP_REVIEW,3,"no usable exact-model image candidate found [{""sourceHost"":""www.petecornish.co.uk"",""sourcePageLoaded"":true,""sourceIdentityMatch"":true,""sourceImageCandidates"":0,""linkedExternalCandidates"":0,""sourceScreenshotCaptured"":false,""makerFallbackTried"":true,""soldCandidates"":0,""verifiedSoldCandidates"":0,""imageSearchCandidates"":0,""verifiedSearchCandidates"":0,""rawHtmlCandidates"":0}]",1
+Pete Cornish,P-1,,DEEP_REVIEW,3,recovery hard timeout exceeded,1
+Pete Cornish,SS-2,,DEEP_REVIEW,3,"no usable exact-model image candidate found [{""sourceHost"":""www.petecornish.co.uk"",""sourcePageLoaded"":true,""sourceIdentityMatch"":true,""sourceImageCandidates"":0,""linkedExternalCandidates"":0,""sourceScreenshotCaptured"":false,""makerFallbackTried"":true,""soldCandidates"":0,""verifiedSoldCandidates"":0,""imageSearchCandidates"":0,""verifiedSearchCandidates"":0,""rawHtmlCandidates"":24}]",1
+Pete Cornish / Pete Cornish Effects,BD-1 Bass Driver,,DEEP_REVIEW,3,"no usable exact-model image candidate found [{""sourceHost"":""www.petecornish.co.uk"",""sourcePageLoaded"":true,""sourceIdentityMatch"":true,""sourceImageCandidates"":0,""linkedExternalCandidates"":0,""sourceScreenshotCaptured"":false,""makerFallbackTried"":true,""soldCandidates"":0,""verifiedSoldCandidates"":0,""imageSearchCandidates"":0,""verifiedSearchCandidates"":0,""rawHtmlCandidates"":0}]",1
+Pete Cornish / Pete Cornish Effects,CC-1 Cornish Crunch,,DEEP_REVIEW,3,"no usable exact-model image candidate found [{""sourceHost"":""www.petecornish.co.uk"",""sourcePageLoaded"":true,""sourceIdentityMatch"":true,""sourceImageCandidates"":0,""linkedExternalCandidates"":0,""sourceScreenshotCaptured"":false,""makerFallbackTried"":true,""soldCandidates"":0,""verifiedSoldCandidates"":0,""imageSearchCandidates"":0,""verifiedSearchCandidates"":0,""rawHtmlCandidates"":0}]",1
+Pete Cornish / Pete Cornish Effects,G-2,,DEEP_REVIEW,3,"no usable exact-model image candidate found [{""sourceHost"":""www.petecornish.co.uk"",""sourcePageLoaded"":true,""sourceIdentityMatch"":true,""sourceImageCandidates"":0,""linkedExternalCandidates"":0,""sourceScreenshotCaptured"":false,""makerFallbackTried"":true,""soldCandidates"":0,""verifiedSoldCandidates"":0,""imageSearchCandidates"":0,""verifiedSearchCandidates"":0,""rawHtmlCandidates"":0}]",1
+Vertex Effects,Ultra Phonix,,DEEP_REVIEW,3,recovery hard timeout exceeded,1
+Pete Cornish / Pete Cornish Effects,NG-3,,DEEP_REVIEW,4,"no usable exact-model image candidate found [{""sourceHost"":""petecornish.co.uk"",""sourcePageLoaded"":true,""sourceIdentityMatch"":true,""sourceImageCandidates"":0,""linkedExternalCandidates"":0,""sourceScreenshotCaptured"":false,""makerFallbackTried"":true,""soldCandidates"":0,""verifiedSoldCandidates"":0,""imageSearchCandidates"":0,""verifiedSearchCandidates"":0,""rawHtmlCandidates"":0}]",
+Pete Cornish / Pete Cornish Effects,P-2,,DEEP_REVIEW,4,"no usable exact-model image candidate found [{""sourceHost"":""www.petecornish.co.uk"",""sourcePageLoaded"":true,""sourceIdentityMatch"":true,""sourceImageCandidates"":0,""linkedExternalCandidates"":0,""sourceScreenshotCaptured"":false,""makerFallbackTried"":true,""soldCandidates"":0,""verifiedSoldCandidates"":0,""imageSearchCandidates"":0,""verifiedSearchCandidates"":0,""rawHtmlCandidates"":0}]",
+Pete Cornish / Pete Cornish Effects,SS-2 Soft Sustain,,DEEP_REVIEW,4,"no usable exact-model image candidate found [{""sourceHost"":""www.petecornish.co.uk"",""sourcePageLoaded"":true,""sourceIdentityMatch"":true,""sourceImageCandidates"":0,""linkedExternalCandidates"":0,""sourceScreenshotCaptured"":false,""makerFallbackTried"":true,""soldCandidates"":0,""verifiedSoldCandidates"":0,""imageSearchCandidates"":0,""verifiedSearchCandidates"":0,""rawHtmlCandidates"":0}]",1
+Pete Cornish / Pete Cornish Effects,SS-3 Soft Sustain,,DEEP_REVIEW,4,recovery hard timeout exceeded,
