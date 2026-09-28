@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-28T11:12:45.388712+00:00",
+  "generated_at": "2026-09-28T11:12:51.459428+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,25 +10,18 @@
     "pictured": 3930,
     "complete": 3930,
     "research_pending": 0,
-    "deep_research_pending": 53,
-    "deep_researched": 4153,
+    "deep_research_pending": 43,
+    "deep_researched": 4163,
     "surface_ready": 4206
   },
   "next_target": {
-    "builder": "Pigdog Pedals",
-    "pedal": "GO",
+    "builder": "NUX Audio / NUX",
+    "pedal": "BC-2 Vintage Blues Core",
     "catalog_type": "Overdrive",
-    "research_record": "./research/pedals/Pigdog Pedals/GO.md",
+    "research_record": "./research/pedals/NUX Audio / NUX/BC-2 Vintage Blues Core.md",
     "research_level": "surface"
   },
   "working_set": [
-    {
-      "builder": "Pigdog Pedals",
-      "pedal": "GO",
-      "catalog_type": "Overdrive",
-      "research_record": "./research/pedals/Pigdog Pedals/GO.md",
-      "research_level": "surface"
-    },
     {
       "builder": "NUX Audio / NUX",
       "pedal": "BC-2 Vintage Blues Core",
@@ -44,73 +37,10 @@
       "research_level": "surface"
     },
     {
-      "builder": "Phaez Amplification",
-      "pedal": "Emperor Distortion",
-      "catalog_type": "Distortion",
-      "research_record": "./research/pedals/Phaez Amplification/Emperor Distortion.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Phaez Amplification",
-      "pedal": "Iron Viper",
-      "catalog_type": "Distortion",
-      "research_record": "./research/pedals/Phaez Amplification/Iron Viper.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Phaez Amplification",
-      "pedal": "M Class Distortion",
-      "catalog_type": "Distortion",
-      "research_record": "./research/pedals/Phaez Amplification/M Class Distortion.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Radial Engineering / Tonebone",
-      "pedal": "Tonebone Classic",
-      "catalog_type": "Distortion / Overdrive",
-      "research_record": "./research/pedals/Radial Engineering / Tonebone/Tonebone Classic.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "MOOER Audio / MOOER",
-      "pedal": "Grey Faze",
-      "catalog_type": "Fuzz",
-      "research_record": "./research/pedals/MOOER Audio / MOOER/Grey Faze.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "MOOER Audio / MOOER",
-      "pedal": "Rumble Drive",
-      "catalog_type": "Overdrive",
-      "research_record": "./research/pedals/MOOER Audio / MOOER/Rumble Drive.md",
-      "research_level": "surface"
-    },
-    {
       "builder": "Mystic Effects Co",
       "pedal": "Driven-Parallel Overdrive",
       "catalog_type": "Overdrive",
       "research_record": "./research/pedals/Mystic Effects Co/Driven-Parallel Overdrive.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "NUX Audio / NUX",
-      "pedal": "HG-5 Modern High Gain",
-      "catalog_type": "Distortion",
-      "research_record": "./research/pedals/NUX Audio / NUX/HG-5 Modern High Gain.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "NUX Audio / NUX",
-      "pedal": "HG-6 High Gain Distortion",
-      "catalog_type": "Distortion",
-      "research_record": "./research/pedals/NUX Audio / NUX/HG-6 High Gain Distortion.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "NUX Audio / NUX",
-      "pedal": "OD-3 Overdrive",
-      "catalog_type": "Overdrive",
-      "research_record": "./research/pedals/NUX Audio / NUX/OD-3 Overdrive.md",
       "research_level": "surface"
     },
     {
@@ -195,6 +125,76 @@
       "pedal": "Leo Twelve",
       "catalog_type": "Overdrive",
       "research_record": "./research/pedals/ReevesElectro/Leo Twelve.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "ReevesElectro",
+      "pedal": "ZO Zonk Machine MK2",
+      "catalog_type": "Fuzz",
+      "research_record": "./research/pedals/ReevesElectro/ZO Zonk Machine MK2.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Retro Mechanical Labs",
+      "pedal": "432k Rev 2.1 Distortion",
+      "catalog_type": "Distortion",
+      "research_record": "./research/pedals/Retro Mechanical Labs/432k Rev 2.1 Distortion.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Reuss Musical Instruments",
+      "pedal": "Backslide Overdrive",
+      "catalog_type": "Overdrive",
+      "research_record": "./research/pedals/Reuss Musical Instruments/Backslide Overdrive.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "RYRA",
+      "pedal": "The Klone V2",
+      "catalog_type": "Overdrive",
+      "research_record": "./research/pedals/RYRA/The Klone V2.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "SBGO Effects",
+      "pedal": "Creamy Fuzz",
+      "catalog_type": "Fuzz",
+      "research_record": "./research/pedals/SBGO Effects/Creamy Fuzz.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Sitek Guitar Electronics",
+      "pedal": "Wuffy Fuzzy Distortion",
+      "catalog_type": "Distortion / Fuzz",
+      "research_record": "./research/pedals/Sitek Guitar Electronics/Wuffy Fuzzy Distortion.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Smallsound/Bigsound",
+      "pedal": "Year of the Rat",
+      "catalog_type": "Fuzz",
+      "research_record": "./research/pedals/Smallsound/Bigsound/Year of the Rat.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Stomp Under Foot",
+      "pedal": "La Scatola Nero",
+      "catalog_type": "Fuzz",
+      "research_record": "./research/pedals/Stomp Under Foot/La Scatola Nero.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Tone Hungry Effects",
+      "pedal": "Hot Molasses Mini Overdrive",
+      "catalog_type": "Overdrive",
+      "research_record": "./research/pedals/Tone Hungry Effects/Hot Molasses Mini Overdrive.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "TONECAT",
+      "pedal": "Brutus",
+      "catalog_type": "Overdrive",
+      "research_record": "./research/pedals/TONECAT/Brutus.md",
       "research_level": "surface"
     }
   ]
