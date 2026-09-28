@@ -227,3 +227,7 @@ a:focus-visible,.pageHome:focus-visible,.action:focus-visible,.pageTypeLink:focu
 .familySiblings{display:flex;gap:6px;align-items:center;flex-wrap:wrap;margin-top:7px}
 .familySiblings .familyRole{flex:0 0 100%;margin-bottom:1px}
 .familySibling{padding:7px 9px;border:1px solid var(--line);border-radius:8px;background:#fff;color:var(--ink);font-size:.55rem;font-weight:900}
+
+.photoHelp{display:flex;align-items:center;gap:6px;flex-wrap:wrap;margin-top:8px;color:var(--muted);font-size:.58rem;font-weight:760;line-height:1.4}
+.photoHelp a{color:var(--ink);font-weight:950;text-decoration:underline;text-underline-offset:2px}
+.photoHelp a:hover{color:var(--accent)}
