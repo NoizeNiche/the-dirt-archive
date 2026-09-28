@@ -916,3 +916,7 @@ main{padding:24px 0 72px}
 
 .toolLink{text-decoration:none;display:inline-flex;align-items:center;justify-content:center}
 .toolLink:hover{color:#111;text-decoration:none}
+
+.cardPhotoStatus{display:inline-block;margin-top:7px;font-size:.5rem;font-weight:950;letter-spacing:.07em;text-transform:uppercase}
+.cardPhotoStatus.hasPhoto{color:#5e6656}
+.cardPhotoStatus.needsPhoto{color:#9a6152}
