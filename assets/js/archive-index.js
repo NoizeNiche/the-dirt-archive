@@ -447,20 +447,28 @@ function render(){
         const media=img&&img.image
           ? '<div class="cardMedia"><img class="cardImage" src="'+esc(img.image)+'" alt="'+esc(x.company+' '+x.pedal)+' pedal" loading="lazy" decoding="async" referrerpolicy="no-referrer" onerror="this.hidden=true;this.nextElementSibling.hidden=false"><div class="cardPlaceholder" hidden aria-label="Photo unavailable"></div></div>'
           : '<div class="cardPlaceholder" aria-label="Photo unavailable"></div>';
-        return '<a class="card" href="'+slugParams(x)+'">'+
-          media+
-          '<span class="cardBody">'+
-            '<span class="name">'+esc(x.pedal)+'</span>'+
-            '<span class="builderNameCard">'+esc(x.company)+'</span>'+
-            (q && searchMatchReason(x) ? '<span class="searchMatchReason">'+esc(searchMatchReason(x))+'</span>' : '')+
-            '<span class="chips">'+x.types.map(t=>'<span class="chip">'+esc(t)+'</span>').join('')+'</span>'+
-          '</span>'+
-        '</a>';
+        return '<article class="card">'+
+          '<a class="cardLink" href="'+slugParams(x)+'">'+
+            media+
+            '<span class="cardBody">'+
+              '<span class="name">'+esc(x.pedal)+'</span>'+
+              '<span class="builderNameCard">'+esc(x.company)+'</span>'+
+              (q && searchMatchReason(x) ? '<span class="searchMatchReason">'+esc(searchMatchReason(x))+'</span>' : '')+
+              '<span class="chips">'+x.types.map(t=>'<span class="chip">'+esc(t)+'</span>').join('')+'</span>'+
+            '</span>'+
+          '</a>'+
+          '<div class="cardActions">'+
+            '<button class="cardAction saveAction" type="button" data-action="save" data-builder="'+esc(x.company)+'" data-pedal="'+esc(x.pedal)+'" aria-pressed="'+isSaved(x)+'">'+(isSaved(x)?'Saved':'Save')+'</button>'+
+            '<button class="cardAction compareAction" type="button" data-action="compare" data-builder="'+esc(x.company)+'" data-pedal="'+esc(x.pedal)+'" aria-pressed="'+isInCompare(x)+'"'+(!isInCompare(x)&&compareState().length>=4?' disabled':'')+'>'+ (isInCompare(x)?'Comparing':'Compare')+'</button>'+
+          '</div>'+
+        '</article>';
       })()
     ).join('')
     : '<div class="empty"><strong>No pedals found</strong>Try another search, dirt type, builder, or technical filter.</div>';
 
   renderPagination(totalPages);
+  wireCardActions();
+  renderWorkbench();
   if(normalized)syncUrl(true);
 }
 
@@ -498,6 +506,11 @@ async function copyViewLink(){
 $('clearFilters').onclick=clearFilters;
 $('discoverPedal').onclick=discoverPedal;
 $('copyViewLink').onclick=copyViewLink;
+$('workbenchButton').onclick=()=>{if($('workbench')?.hidden)openWorkbench();else closeWorkbench();};
+$('closeWorkbench').onclick=closeWorkbench;
+$('clearSaved').onclick=clearSaved;
+$('clearCompare').onclick=clearCompare;
+window.addEventListener('workbenchchange',()=>{renderWorkbench();wireCardActions();});
 $('researchFilter').onchange=e=>{
   selectedResearch=e.target.value;
   currentPage=1;
