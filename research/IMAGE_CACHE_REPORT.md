@@ -1,11 +1,11 @@
 # Pedal Image Cache Report
 
-- Cached in this run: **7**
+- Cached in this run: **4**
 - Staged browser photos converted: **0**
 - Local images retained/reorganized: **0**
 - Download failures: **1**
-- Remaining tracker photo backlog: **345**
-- Researched, photo pending: **345**
+- Remaining tracker photo backlog: **341**
+- Researched, photo pending: **341**
 - External source images awaiting localization: **0**
 
 ## Storage layout
@@ -16,13 +16,10 @@
 
 ## Newly cached
 
-- Devi Ever FX - Black Spider -> `./assets/pedals/devi-ever-fx/black-spider/primary.webp`
-- Devi Ever FX - LP Let's Play -> `./assets/pedals/devi-ever-fx/lp-let-s-play/primary.webp`
-- Devi Ever FX - VF Vintage Fuzz Master -> `./assets/pedals/devi-ever-fx/vf-vintage-fuzz-master/primary.webp`
-- Devi Ever FX - War Horse -> `./assets/pedals/devi-ever-fx/war-horse/primary.webp`
-- MadeByMike - Germanium Fuzz Face -> `./assets/pedals/madebymike/germanium-fuzz-face/primary.webp`
-- Maxon - OSD-9 Overdrive / Soft Distortion -> `./assets/pedals/maxon/osd-9-overdrive-soft-distortion/primary.webp`
-- Maxon / Nisshin Onpa - TBO-9 True Tube Booster / Overdrive -> `./assets/pedals/maxon-nisshin-onpa/tbo-9-true-tube-booster-overdrive/primary.webp`
+- Darkglass Electronics - Microtubes Vintage Deluxe -> `./assets/pedals/darkglass-electronics/microtubes-vintage-deluxe/primary.webp`
+- Devi Ever FX - Little Shit -> `./assets/pedals/devi-ever-fx/little-shit/primary.webp`
+- Devi Ever FX - Shoe Gazer -> `./assets/pedals/devi-ever-fx/shoe-gazer/primary.webp`
+- Does It Doom? - Fuzzcoven -> `./assets/pedals/does-it-doom/fuzzcoven/primary.webp`
 
 ## Still external / failed
 

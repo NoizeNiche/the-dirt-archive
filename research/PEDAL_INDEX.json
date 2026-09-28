@@ -31348,11 +31348,13 @@
       "types": [
         "Overdrive"
       ],
-      "image": "",
+      "image": "./assets/pedals/darkglass-electronics/microtubes-vintage-deluxe/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/darkglass/microtubes/vintagedeluxe",
       "research_record": "./research/pedals/Darkglass Electronics/Microtubes Vintage Deluxe.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://files.effectsdatabase.com/gear/thumbs/darkglass_microtubes-vintage_001.jpg",
+      "image_source_page": "https://www.effectsdatabase.com/model/darkglass/microtubes/vintagedeluxe"
     },
     {
       "company": "Darkglass Electronics",
@@ -32507,11 +32509,13 @@
       "types": [
         "Fuzz"
       ],
-      "image": "",
+      "image": "./assets/pedals/devi-ever-fx/little-shit/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/deviever",
       "research_record": "./research/pedals/Devi Ever FX/Little Shit.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://files.effectsdatabase.com/brands/pics/deviever_001.jpg",
+      "image_source_page": "https://www.effectsdatabase.com/model/deviever"
     },
     {
       "company": "Devi Ever FX",
@@ -32700,11 +32704,13 @@
       "types": [
         "Fuzz"
       ],
-      "image": "",
+      "image": "./assets/pedals/devi-ever-fx/shoe-gazer/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/deviever",
       "research_record": "./research/pedals/Devi Ever FX/Shoe Gazer.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://files.effectsdatabase.com/brands/pics/deviever_001.jpg",
+      "image_source_page": "https://www.effectsdatabase.com/model/deviever"
     },
     {
       "company": "Devi Ever FX",
@@ -33711,11 +33717,13 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/does-it-doom/fuzzcoven/primary.webp",
       "source_page": "https://doesitdoom.com/product/fuzzcoven/",
       "research_record": "./research/pedals/Does It Doom?/Fuzzcoven.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://doesitdoom.com/wp-content/uploads/2020/02/DoomboardFrontPedals-300x300.jpg",
+      "image_source_page": "https://doesitdoom.com/product/fuzzcoven/"
     },
     {
       "company": "Dophix",
@@ -45540,7 +45548,8 @@
       "source_page": null,
       "research_record": "./research/pedals/MI Audio / MI Effects/Classic Distortion.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_page": "https://www.youtube.com/watch?v=R8WJMAGWeZw"
     },
     {
       "company": "MI Audio / MI Effects",
