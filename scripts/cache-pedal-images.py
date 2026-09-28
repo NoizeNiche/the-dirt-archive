@@ -22,12 +22,39 @@ INDEX_PATH = ROOT / "research/PEDAL_INDEX.json"
 MANIFEST_PATH = ROOT / "research/pedals/PEDAL_IMAGES.json"
 REPORT_PATH = ROOT / "research/IMAGE_CACHE_REPORT.md"
 TRACKER_PATH = ROOT / "research/PRP_TRACKER.csv"
+PHOTO_SOURCE_BLOCKLIST = ROOT / "research/PHOTO_SOURCE_BLOCKLIST.json"
 ASSET_ROOT = ROOT / "assets/pedals"
 MAX_BYTES = 25 * 1024 * 1024
 TARGET_BUILDER = os.environ.get("PHOTO_CACHE_TARGET_BUILDER", "").strip()
 TARGET_PEDAL = os.environ.get("PHOTO_CACHE_TARGET_PEDAL", "").strip()
 MANIFEST_OWNERS = {}
+PHOTO_BLOCK_PATTERNS = []
 
+
+def load_photo_blocklist():
+    global PHOTO_BLOCK_PATTERNS
+    try:
+        data = json.loads(PHOTO_SOURCE_BLOCKLIST.read_text(encoding="utf-8"))
+        PHOTO_BLOCK_PATTERNS = [
+            (str(rule.get("type") or ""), str(rule.get("pattern") or ""), str(rule.get("severity") or ""))
+            for rule in data.get("rules", [])
+            if str(rule.get("pattern") or "")
+        ]
+    except Exception:
+        PHOTO_BLOCK_PATTERNS = []
+
+def blocked_photo_url(value):
+    text = str(value or "")
+    lowered = text.lower()
+    for kind, pattern, _severity in PHOTO_BLOCK_PATTERNS:
+        try:
+            if kind == "exact_url" and text.strip().lower() == pattern.strip().lower():
+                return True
+            if kind.endswith("_regex") and re.search(pattern, lowered, re.I):
+                return True
+        except re.error:
+            continue
+    return False
 
 def key(builder, pedal):
     return f"{builder}\0{pedal}"
@@ -159,6 +186,8 @@ def image_candidates_from_page(page_url):
 
 
 def fetch_image(url, referer=None):
+    if blocked_photo_url(url):
+        raise RuntimeError("photo source is blocked by PHOTO_SOURCE_BLOCKLIST")
     headers = {
         "User-Agent": "Mozilla/5.0 (compatible; The Dirt Archive image cache/1.0)",
         "Accept": "image/avif,image/webp,image/apng,image/jpeg,image/png,image/*,*/*;q=0.8",
@@ -378,6 +407,7 @@ def convert_staged_sources():
 def main():
     from concurrent.futures import ThreadPoolExecutor, as_completed
 
+    load_photo_blocklist()
     staged_converted = convert_staged_sources()
     if staged_converted:
         print(f"Converted {staged_converted} staged browser-recovery photos into canonical WebP assets.")
