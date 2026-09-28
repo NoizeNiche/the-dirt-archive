@@ -1400,9 +1400,11 @@
   {
     "builder": "Ampeg",
     "pedal": "A-1 Distortion",
-    "image": null,
+    "image": "./assets/pedals/ampeg/a-1-distortion/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/ampeg/a",
-    "research_record": "./research/pedals/Ampeg/A-1 Distortion.md"
+    "research_record": "./research/pedals/Ampeg/A-1 Distortion.md",
+    "image_source_url": "https://files.effectsdatabase.com/gear/pics/ampeg_a-1_001.jpg",
+    "image_source_page": "https://www.effectsdatabase.com/model/ampeg/a/1"
   },
   {
     "builder": "Ampeg",
@@ -29990,9 +29992,11 @@
   {
     "builder": "Vertex Effects",
     "pedal": "Ultra Phonix",
-    "image": null,
+    "image": "./assets/pedals/vertex-effects/ultra-phonix/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/Vertex Effects/Ultra Phonix.md"
+    "research_record": "./research/pedals/Vertex Effects/Ultra Phonix.md",
+    "image_source_url": "https://files.effectsdatabase.com/gear/pics/vertex_ultraphonix-namm2018_001.jpg",
+    "image_source_page": "https://www.effectsdatabase.com/model/vertex/ultraphonix"
   },
   {
     "builder": "Vertex Effects",

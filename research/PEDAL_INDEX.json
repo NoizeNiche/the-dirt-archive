@@ -2689,19 +2689,20 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/ampeg/a-1-distortion/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/ampeg/a",
       "research_record": "./research/pedals/Ampeg/A-1 Distortion.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://www.ebay.com/itm/147206348797",
+      "image_source_page": "https://www.effectsdatabase.com/model/ampeg/a/1",
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/ampeg/a/1",
         "https://www.ebay.com/itm/147206348797"
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1293
+      "image_source_priority": 1293,
+      "image_source_url": "https://files.effectsdatabase.com/gear/pics/ampeg_a-1_001.jpg"
     },
     {
       "company": "Ampeg",
@@ -55449,7 +55450,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/vertex-effects/ultra-phonix/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Vertex Effects/Ultra Phonix.md",
       "research_level": "deep",
@@ -55458,10 +55459,11 @@
         "https://www.guitarcenter.com/Used/Vertex-Effects/Used-Vertex-Effects-Ultra-Phonix-Overdrive-Effect-Pedal.gc",
         "https://www.vertexeffects.com/uploads/docs/d847f4dc-e86e-4c3c-8ee3-dc00a5f8018a.pdf"
       ],
-      "image_source_page": "https://www.vertexeffects.com/uploads/docs/d847f4dc-e86e-4c3c-8ee3-dc00a5f8018a.pdf",
+      "image_source_page": "https://www.effectsdatabase.com/model/vertex/ultraphonix",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1263
+      "image_source_priority": 1263,
+      "image_source_url": "https://files.effectsdatabase.com/gear/pics/vertex_ultraphonix-namm2018_001.jpg"
     },
     {
       "company": "Vertex Effects",
