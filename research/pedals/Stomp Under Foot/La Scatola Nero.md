@@ -1,23 +1,40 @@
 # Stomp Under Foot — La Scatola Nero
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** La Scatola Nero
 - **Builder:** Stomp Under Foot
-- **Pedal:** La Scatola Nero
 - **Catalog type:** Fuzz
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Stomp Under Foot La Scatola Nero octave-fuzz pedal.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **La Scatola Nero** by **Stomp Under Foot** as a **Fuzz** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+La Scatola Nero is an octave-fuzz design from Stomp Under Foot developed after a request from Ben McLeod of All Them Witches for a different fuzz with an added octave function. Exact-model retailer and Reverb records identify it specifically as an octave-fuzz pedal.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- Exact factory colorway sequence was not established in the sources reviewed.
+- Treat finish differences as cosmetic unless the builder documents a materially different product/version.
+
+## Versions and factory options
+- **La Scatola Nero:** exact cataloged model.
+- Built around a fuzz voice with an added octave function.
+- No numbered factory revision was established from the exact-model sources reviewed.
+
+## Version changes
+- No separate production revision history was established from the available manufacturer/retailer records.
+
+## Transistor
+- **Exact production transistor/device:** Not established in the available exact-model sources.
+
+## Diode
+- **Exact clipping/rectification diode:** Not established in the available exact-model sources.
+
+## Sound
+The documented concept combines a fuzz voice with a switchable octave character, giving the pedal a more aggressive upper-register texture than a conventional fuzz alone. The model was specifically created to provide a distinct fuzz voice with an added octave function.
+
+## Sources checked
+1. Chicago Music Exchange exact-model listing: https://www.chicagomusicexchange.com/products/stomp-under-foot-la-scatola-nera-octave-fuzz-pedal-1124057
+2. Reverb exact-model listing: https://reverb.com/item/31542492-stomp-under-foot-la-scatola-nera-octave-fuzz-pedal
+3. Guitar Pedal X pedal directory reference: https://www.guitarpedalx.com/news/gpx-blog/guitar-pedal-directory---favourite-pedals-by-preferred-pedal-makers
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Exact-model photo lead:** Chicago Music Exchange exact-model listing and Reverb exact-model listing.
+- **Archive status:** Local photo recovery is handled separately; only a verified local asset counts as pictured.
