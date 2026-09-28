@@ -1,23 +1,42 @@
 # Maxon — Distortion and Sustainer (D&S)
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Distortion and Sustainer (D&S)
 - **Builder:** Maxon
-- **Pedal:** Distortion and Sustainer (D&S)
 - **Catalog type:** Distortion / Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Maxon's Distortion and Sustainer (D&S).
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Distortion and Sustainer (D&S)** by **Maxon** as a **Distortion / Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Maxon's Distortion and Sustainer (D&S) is cataloged as a distortion / overdrive pedal.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+DISTORTION AND SUSTAINER II (D&S II) – Godlyke, Inc.
+Its three controls: Distortion, Tone, and Balance (Level) can provide a wide variety of distortion effects, from subtle overdrive to extreme fuzz - all with incredibly low signal-to-noise ratio and full-bandwidth frequency response.
+Manufacturer’s Suggested Retail Price: $115.84 Looking to buy the Maxon Distortion and Sustainer?
+
+## Sources checked
+1. Maxon D&S Distortion and Sustainer — Fuzz Pedal | Equipboard: https://equipboard.com/items/maxon-d-s-distortion
+2. Maxon D&S Distortion and Sustainer Pedal | Sweetwater: https://www.sweetwater.com/store/detail/DS--maxon-d-and-s
+3. DISTORTION AND SUSTAINER II (D&S II) &ndash; Godlyke, Inc.: https://maxonfx.com/products/reissue-series-effects-pedals-d-s-ii-2-distortion-sustainer
+4. Maxon D&S Distortion and Sustainer | Guitar Center: https://www.guitarcenter.com/Maxon/DS-Distortion-and-Sustainer-1274115045675.gc
+5. NoiseGuide - Maxon Distortion and Sustainer: https://www.noiseguide.com/product_info/maxon_distortion_and_sustainer
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

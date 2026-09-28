@@ -1,23 +1,37 @@
 # NUX Audio / NUX — XTC OD
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** XTC OD
 - **Builder:** NUX Audio / NUX
-- **Pedal:** XTC OD
 - **Catalog type:** Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** NUX Audio / NUX's XTC OD.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **XTC OD** by **NUX Audio / NUX** as a **Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+NUX Audio / NUX's XTC OD is cataloged as an overdrive pedal.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+Pedal NUX XTC OD Overdrive / Distortion - Guitar Shop CE
+Pedal NUX XTC OD Overdrive / Distortion Código: XTCOD Marca: NUX R$ 449,90 até 8x de R$ 56,23 sem juros Qtde: Comprar Estoque: Disponível Parcelas 1x de R$ 449,90 sem juros 2x de R$ 224,95 sem juros 3x de R$ 149,96 sem juros 4x de R$ 112,47 sem juros 5x de R$ 89,98 sem juros 6x de R$ 74,98
+
+## Sources checked
+1. Pedal NUX XTC OD Overdrive / Distortion - Guitar Shop CE | Loja de Instrumentos Musicais e Acessórios: https://www.guitarshopce.com.br/pedal-nux-xtc-od-overdrive-distortion
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

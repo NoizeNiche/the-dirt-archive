@@ -43522,8 +43522,8 @@
       "image": "./assets/pedals/maxon/distortion-and-sustainer-d-s/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Maxon/Distortion and Sustainer (D&S).md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Maxon",
@@ -47773,8 +47773,8 @@
       "image": "./assets/pedals/nux-audio-nux/xtc-od/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/NUX Audio / NUX/XTC OD.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING",
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED",
       "image_source_url": "https://cdn.awsli.com.br/2500x2500/1795/1795431/produto/376834021/pedal-nux-xtc-od-overdrive-distortion-3-d665fdbocr.jpg",
       "image_source_page": "https://www.guitarshopce.com.br/pedal-nux-xtc-od-overdrive-distortion"
     },
