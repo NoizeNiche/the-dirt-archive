@@ -21,3 +21,11 @@ The Dirt Archive currently catalogs **HG-6 High Gain Distortion** by **NUX Audio
 ## Deep research
 - **Status:** Pending
 - Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+
+## Deep research verification
+- Effects Database identifies the **HG-6 High Gain Distortion** as the 2012 die-cast successor-style NUX model.
+- The exact-model source documents three gain stages, FET-based tube-amplifier simulation, active mid EQ, and true-bypass switching.
+- No circuit equivalence with other NUX high-gain models is inferred.
+
+## Verification source set
+1. Effects Database — NUX HG-6 High Gain Distortion: https://www.effectsdatabase.com/model/nux/2012/hg6
