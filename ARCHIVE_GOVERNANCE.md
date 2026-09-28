@@ -336,3 +336,15 @@ These utilities are device-local by default. They must not create canonical cata
 Comparison is descriptive only. It may expose explicitly documented catalog/facet fields and record relationships, but must not turn incomplete evidence into an opinion score.
 
 Internal research administration remains private to the maintenance layer. Public pedal pages should not expose internal labels such as Research confidence, Sources checked, PRP terminology, or internal evidence grades.
+
+
+### Photo content quality
+
+A photo is not considered acceptable merely because the file loads. The archive should reject or review:
+- donation/support platform graphics embedded in the asset
+- payment or sponsor overlays
+- generic site artwork, logos, avatars, banners, badges, or UI graphics
+- corrupt, tiny, nearly blank, or effectively transparent image files
+- any image whose exact Builder + Pedal identity cannot be established
+
+Content-quality audits may use conservative OCR to detect high-confidence platform phrases such as “Buy Me a Coffee,” Patreon, Ko-fi, and similar donation prompts. OCR findings are review signals, not automatic identity claims.
