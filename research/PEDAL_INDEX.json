@@ -4816,11 +4816,13 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/ashdown-engineering/geezer-butler-pedal-of-doom/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/ashdown",
       "research_record": "./research/pedals/Ashdown Engineering/Geezer Butler Pedal Of Doom.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://files.effectsdatabase.com/brands/thumbs/ashdown_000.jpg",
+      "image_source_page": "https://www.effectsdatabase.com/model/ashdown"
     },
     {
       "company": "Ashdown Engineering",
@@ -6780,11 +6782,13 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/bad-cat/siamese-drive-dual-harmonic-overdrive/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/badcat",
       "research_record": "./research/pedals/Bad Cat/Siamese Drive - Dual Harmonic Overdrive.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://files.effectsdatabase.com/brands/thumbs/badcat_000.jpg",
+      "image_source_page": "https://www.effectsdatabase.com/model/badcat"
     },
     {
       "company": "Bad Cat",
@@ -7346,11 +7350,13 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/baja-tech-custom/da-moaf-deluxe/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/bajatech",
       "research_record": "./research/pedals/Baja Tech Custom/DaMOAF Deluxe.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://files.effectsdatabase.com/brands/thumbs/bajatech_000.jpg",
+      "image_source_page": "https://www.effectsdatabase.com/model/bajatech"
     },
     {
       "company": "Baja Tech Custom",
@@ -9426,11 +9432,13 @@
         "Overdrive",
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/behringer/od100-overdrive-distortion/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/behringer/compact/od100",
       "research_record": "./research/pedals/Behringer/OD100 Overdrive/Distortion.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://files.effectsdatabase.com/gear/pics/behringer-compact_od100_001.jpg",
+      "image_source_page": "https://www.effectsdatabase.com/model/behringer/compact/od100"
     },
     {
       "company": "Behringer",
@@ -9470,11 +9478,13 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/behringer/po300-power-overdrive/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/behringer/compact/po300",
       "research_record": "./research/pedals/Behringer/PO300 Power Overdrive.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://files.effectsdatabase.com/gear/pics/behringer_po300_001.jpg",
+      "image_source_page": "https://www.effectsdatabase.com/model/behringer/compact/po300"
     },
     {
       "company": "Behringer",
@@ -11612,11 +11622,13 @@
         "Overdrive",
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/bixonic/exp2000-expandora/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/bixonic/expandora",
       "research_record": "./research/pedals/Bixonic/EXP2000 Expandora.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://files.effectsdatabase.com/gear/pics/bixonic_expandora-exp-2000r_001.jpg",
+      "image_source_page": "https://www.effectsdatabase.com/model/bixonic/expandora"
     },
     {
       "company": "BIXONIC",
@@ -15000,11 +15012,13 @@
       "types": [
         "Overdrive"
       ],
-      "image": "",
+      "image": "./assets/pedals/boss/bc-2-combo-drive/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/boss/compact/bc2",
       "research_record": "./research/pedals/BOSS/BC-2 Combo Drive.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://static.reverb-assets.com/production-assets/webpack/images/mobile-header-background-69216940b596520c.png",
+      "image_source_page": "https://reverb.com/p/boss-bc-2-combo-drive"
     },
     {
       "company": "BOSS",
@@ -15054,11 +15068,13 @@
       "types": [
         "Distortion"
       ],
-      "image": "",
+      "image": "./assets/pedals/boss/da-2-adaptive-distortion/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/boss/compact/da2",
       "research_record": "./research/pedals/BOSS/DA-2 Adaptive Distortion.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://files.effectsdatabase.com/gear/pics/boss_da-2_002.jpg",
+      "image_source_page": "https://www.effectsdatabase.com/model/boss/compact/da2"
     },
     {
       "company": "BOSS",
@@ -15188,11 +15204,13 @@
       "types": [
         "Fuzz"
       ],
-      "image": "",
+      "image": "./assets/pedals/boss/fz-3-fuzz/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/boss/compact/fz3",
       "research_record": "./research/pedals/BOSS/FZ-3 Fuzz.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://files.effectsdatabase.com/gear/pics/boss_fz-3_001.jpg",
+      "image_source_page": "https://www.effectsdatabase.com/model/boss/compact/fz3"
     },
     {
       "company": "BOSS",
@@ -15334,11 +15352,13 @@
       "types": [
         "Distortion"
       ],
-      "image": "",
+      "image": "./assets/pedals/boss/mz-2-digital-metalizer/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/boss/compact/mz2",
       "research_record": "./research/pedals/BOSS/MZ-2 Digital Metalizer.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://files.effectsdatabase.com/gear/thumbs/boss_mz-2_001.jpg",
+      "image_source_page": "https://www.effectsdatabase.com/model/boss/compact/mz2"
     },
     {
       "company": "BOSS",
@@ -15346,11 +15366,13 @@
       "types": [
         "Overdrive"
       ],
-      "image": "",
+      "image": "./assets/pedals/boss/od-1-overdrive/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/boss/compact/od1",
       "research_record": "./research/pedals/BOSS/OD-1 OverDrive.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://static.roland.com/assets/promos/png/menu_tr-1000.png",
+      "image_source_page": "https://www.roland.com/us/products/rc_boss_effects_pedals/support/"
     },
     {
       "company": "BOSS",
@@ -15398,11 +15420,13 @@
       "types": [
         "Overdrive"
       ],
-      "image": "",
+      "image": "./assets/pedals/boss/od-2r-turbo-overdrive/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/boss/compact/od2r",
       "research_record": "./research/pedals/BOSS/OD-2R Turbo OverDrive.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://files.effectsdatabase.com/gear/thumbs/boss_od-2r_001.jpg",
+      "image_source_page": "https://www.effectsdatabase.com/model/boss/compact/od2r"
     },
     {
       "company": "BOSS",
@@ -15452,11 +15476,13 @@
       "types": [
         "Overdrive"
       ],
-      "image": "",
+      "image": "./assets/pedals/boss/pw-2-power-driver/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/boss/compact/pw2",
       "research_record": "./research/pedals/BOSS/PW-2 Power Driver.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://files.effectsdatabase.com/gear/pics/boss_pw-2_001.jpg",
+      "image_source_page": "https://www.effectsdatabase.com/model/boss/compact/pw2"
     },
     {
       "company": "BOSS",
@@ -19827,11 +19853,13 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/captain-fx/overdriver/primary.webp",
       "source_page": "https://github.com/NoizeNiche/the-dirt-archive/blob/main/research/SCRAPE_C_BLOCK_165_ADDENDUM.csv",
       "research_record": "./research/pedals/Captain FX/Overdriver.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://rvb-img.reverb.com/i/s--uTA8Kl4r--/gravity=auto,quality=medium-low,width=200,height=200,format=jpeg/wi8ungpjcaydqe5ukf1l.jpg",
+      "image_source_page": "https://reverb.com/item/39999294-captain-fx-overdriver-based-on-colorsound-overdriver-power-boost-throbak-overdrive-boost"
     },
     {
       "company": "Captain FX",
@@ -31067,11 +31095,13 @@
       "types": [
         "Overdrive"
       ],
-      "image": "",
+      "image": "./assets/pedals/darkglass-electronics/alpha-omicron/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/darkglass/alphaomicron",
       "research_record": "./research/pedals/Darkglass Electronics/Alpha Omicron.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://files.effectsdatabase.com/gear/thumbs/darkglass_alphaomicron_001.jpg",
+      "image_source_page": "https://www.effectsdatabase.com/model/darkglass/alphaomicron"
     },
     {
       "company": "Darkglass Electronics",
