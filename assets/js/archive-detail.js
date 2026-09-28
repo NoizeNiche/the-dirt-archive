@@ -332,7 +332,10 @@ function updateMetaDescription(item){
   const types=(item.types||[]).filter(Boolean).join(', ')||'guitar dirt';
   const title=item.pedal+' · The Dirt Archive';
   const description='Explore '+item.pedal+', a '+types+' pedal by '+item.company+', in The Dirt Archive.';
-  const url=location.href.split('#')[0];
+  const canonicalUrl=new URL('./pedal-detail.html',location.href);
+  canonicalUrl.searchParams.set('builder',item.company);
+  canonicalUrl.searchParams.set('pedal',item.pedal);
+  const url=canonicalUrl.href;
   const image=item?.image && /^\.?\/assets\/pedals\//.test(String(item.image))
     ? new URL(String(item.image).replace(/^\.\//,''),location.href).href
     : '';
