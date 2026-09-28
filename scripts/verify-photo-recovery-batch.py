@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 import json
+import re
 from pathlib import Path
 from PIL import Image
 
@@ -47,10 +48,15 @@ def main():
                         reason = "specific recovered image too small"
                     else:
                         with Image.open(candidate) as im:
-                            if im.width < 80 or im.height < 80:
+                            if im.width < 200 or im.height < 200:
                                 ok = False
                                 reason = "specific recovered image dimensions too small"
                             im.verify()
+                source_url = str(result.get("image_source_url") or "").lower()
+                forbidden = re.search(r"(?:favicon|(?:^|[/_.-])(?:logo|loading|spinner|placeholder|sprite|avatar|badge|icon|social|banner|widget)(?:[/_.?-]|$))", source_url)
+                if forbidden:
+                    ok = False
+                    reason = "recovered image URL looks like a site asset rather than a product photo"
             except Exception as exc:
                 ok = False
                 reason = "verification error: " + str(exc)
