@@ -4,45 +4,53 @@
 - **Archive parent:** DMBL
 - **Builder:** Mojo Hand FX
 - **Catalog type:** Overdrive
-- **Identity:** Mojo Hand FX's DMBL.
+- **Research level:** Deep
+- **Deep research status:** Verified
+- **Identity:** Mojo Hand FX DMBL overdrive.
+
+## Deep research verification
+- **Exact-model evidence:** Verified against multiple exact-model listings, including RockBoard and a detailed product listing.
 
 ## What this pedal is
-Featuring Burr Brown op-amps and germanium clipping diodes, the DMBL’s circuit is fine tuned with all of the elastic and touch responsive characteristics that helped make it’s inspiration legendary.
+The DMBL is documented as Mojo Hand FX's take on a high-end, touch-responsive overdrive with rich harmonic content, spongy low end, and pronounced midrange character. [1][2]
 
-## Colorways
-- No specific factory colorway information was established in the verified evidence packet.
+## Circuit / architecture
+RockBoard documents **Burr Brown op-amps** and **germanium clipping diodes** in the DMBL circuit. [1]
+The exact production op-amp part number and diode part number were not established beyond those documented device classes.
 
-## Versions and factory options
-- No distinct factory revision was established in the verified evidence packet.
-
-## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+## Controls and modes
+- **GAIN**
+- **TREBLE**
+- **BASS**
+- **VOLUME**
+- **2-way tone switch:** up smoother bottom/flatter EQ; down more pronounced bite/midrange growl. [2]
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
-- **Exact transistor/device:** Unknown.
+- **Exact production transistor/device:** Unknown.
 
 ## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
-- **Exact part:** Unknown.
+- **Documented device class:** germanium clipping diodes. [1]
+- **Exact production diode part number:** Unknown.
+
+## Op amp
+- **Documented device family:** Burr Brown op-amps. [1]
+- **Exact production part number:** Unknown.
+
+## Power and physical specification
+- **Power:** center-negative 9VDC supply or 9V battery. [2]
+- **Current draw:** approximately 12mA. [1][2]
+- **Bypass:** true bypass. [1][2]
+- **Dimensions:** approximately 4.8 × 2.62 × 1.55 inches. [2]
 
 ## Sound
-Mojo Hand FX DMBL - Guitar Pedals for Tone, Drive & Creative Sound FLASH SALE: EVERYTHING HALF PRICE!
-Mojo Hand FX DMBL $159.00 $79.50 Holy Grail Amp OverdriveThe DMBL is Mojo Hand FX's take on what many consider to be the Holy Grail of overdrive tones." Rich in harmonic content with a spongy low end and growling mid-range.
-High-end, audio grade Burr Brown chips for hifi signal clarity -Germanium clipping diodes for natural, touch sensitive overdrive -2-way tone toggle (up: smooth bottom/flatter EQ, down: pronounced bite/midrange growl) -Excellent choice for bass!
+The source material describes the DMBL around rich harmonics, a spongy low end, growling mids, touch-responsive overdrive, and a tone switch that shifts between smoother and more biting response. [1][2]
 
 ## Sources checked
-1. Mojo Hand FX DMBL - Reverb: https://reverb.com/p/mojo-hand-fx-dmbl
-2. Mojo Hand FX DMBL — Overdrive Pedal | Equipboard: https://equipboard.com/items/mojo-hand-fx-dmbl
-3. Mojo Hand FX DMBL Overdrive Pedal - eBay: https://www.ebay.com/itm/800707080770
-4. Mojo Hand FX DMBL Overdrive: https://bsmusicshop.com/products/mojo-hand-fx-dmbl-overdrive
-5. Mojo Hand FX DMBL Overdrive | Effects & Pedals: https://www.crestguitar.com/product/mojo-hand-fx-dmbl-overdrive/
-6. DMBL by Mojo Hand Fx | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/Mojo-Hand-Fx/DMBL/68982041/
-7. Mojo Hand FX DMBL Drive Review - MojoHand - Everything Blues™: https://mojohand.com/mojo-hand-fx-review/
-8. Mojo Hand FX DMBL Dimensions, Specs & Details: https://www.stompboxgarden.com/gear/pedal/4987/mojo-hand-fx-dmbl
-9. Mojo Hand FX DMBL - Guitar Pedals for Tone, Drive & Creative Sound: https://www.riffpedal.com/product/mojo-hand-fx-dmbl/
-10. Mojo Hand FX DMBL - Pedal on ModularGrid: https://modulargrid.net/p/mojo-hand-fx-dmbl
-11. Mojo Hand FX DMBL | Effects Database: https://www.effectsdatabase.com/model/mojohand/dmbl
+1. **RockBoard PedalPedia — DMBL:** https://www.rockboard.de/en/pedalPedia/Mojo-Hand-Fx/DMBL/68982041/
+2. **B's Music Shop — Mojo Hand FX DMBL Overdrive:** https://bsmusicshop.com/products/mojo-hand-fx-dmbl-overdrive
+3. **Reverb — Mojo Hand FX DMBL:** https://reverb.com/p/mojo-hand-fx-dmbl
+4. **Effects Database — Mojo Hand FX DMBL:** https://www.effectsdatabase.com/model/mojohand/dmbl
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately.
+- Exact-model photo provenance remains governed by the archive's photo identity gate.
