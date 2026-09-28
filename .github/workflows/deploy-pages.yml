@@ -15,6 +15,7 @@ on:
       - 'builder.html'
       - 'builders.html'
       - 'identify.html'
+      - 'corrections.html'
       - 'methodology.html'
       - 'audit.html'
       - '404.html'
