@@ -192,25 +192,33 @@ def build() -> dict:
             continue
         records_seen += 1
 
-        transistor_values = labelled_values(
-            parsed.get("transistor", ""),
-            TRANSISTOR_LABELS,
-        )
-        diode_values = labelled_values(
-            parsed.get("diode", ""),
-            DIODE_LABELS,
-        )
-
+        transistor_values: list[str] = []
+        diode_values: list[str] = []
         power_values: list[str] = []
-        for section_name in POWER_SECTION_NAMES + ("versions and factory options",):
-            section = parsed.get(section_name, "")
-            if section:
-                power_values.extend(section.splitlines())
-        if not power_values:
-            power_values = labelled_values(
-                identity_section,
-                ("Power", "Power supply", "Power requirements", "Power input", "Operating voltage"),
-            )
+
+        for section_name, section_text in parsed.items():
+            normalized_name = section_name.lower()
+            if any(term in normalized_name for term in ("transistor", "semiconductor", "device architecture")) and "diode" not in normalized_name:
+                transistor_values.extend(labelled_values(section_text, TRANSISTOR_LABELS))
+                transistor_values.append(section_text)
+            if any(term in normalized_name for term in ("diode", "clipping", "rectifier")):
+                diode_values.extend(labelled_values(section_text, DIODE_LABELS))
+                diode_values.append(section_text)
+            if any(term in normalized_name for term in POWER_SECTION_NAMES) or normalized_name in {"versions and factory options", "verified controls and hardware", "controls and hardware"}:
+                power_values.extend(section_text.splitlines())
+
+        transistor_values.extend(labelled_values(
+            identity_section,
+            ("Technology", "Exact transistor/device", "Exact transistor type"),
+        ))
+        diode_values.extend(labelled_values(
+            identity_section,
+            ("Exact diode type", "Exact clipping diode/device", "Exact clipping diode", "Clipping device"),
+        ))
+        power_values.extend(labelled_values(
+            identity_section,
+            ("Power", "Power supply", "Power requirements", "Power input", "Operating voltage"),
+        ))
 
         transistor: list[str] = []
         for value in transistor_values:
@@ -240,6 +248,14 @@ def build() -> dict:
             identity_section,
             ("Identity", "Archive parent", "Catalog type"),
         ) + aliases
+        for section_name, section_text in parsed.items():
+            if any(term in section_name for term in (
+                "what this pedal is", "verified description", "history",
+                "controls", "sound", "circuit", "version changes",
+                "versions and factory options", "application", "features"
+            )):
+                if section_text:
+                    search_values.append(section_text)
         search_text = " ".join(value.strip() for value in search_values if value.strip()).lower()
 
         if not transistor and not clipping and not search_text:
