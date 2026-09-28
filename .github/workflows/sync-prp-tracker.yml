@@ -22,14 +22,17 @@ jobs:
       - name: Synchronize photo backlog from tracker
         run: python scripts/sync-photo-backlog.py
 
-      - name: Commit tracker and photo backlog changes
+      - name: Rebuild research phase queue from tracker
+        run: python scripts/build-research-queue.py
+
+      - name: Commit tracker, photo backlog, and queue changes
         run: |
-          if git diff --quiet -- research/PRP_TRACKER.csv research/PHOTO_BACKLOG.csv; then
-            echo "PRP tracker and photo backlog already match the catalog."
+          if git diff --quiet -- research/PRP_TRACKER.csv research/PHOTO_BACKLOG.csv research/RESEARCH_QUEUE.json CURRENT_STATE.md; then
+            echo "PRP tracker, photo backlog, queue, and state already match the catalog."
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add research/PRP_TRACKER.csv research/PHOTO_BACKLOG.csv
+          git add research/PRP_TRACKER.csv research/PHOTO_BACKLOG.csv research/RESEARCH_QUEUE.json CURRENT_STATE.md
           git commit -m "Sync PRP tracker and photo backlog with catalog state"
           git push
