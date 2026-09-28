@@ -8,6 +8,9 @@
 - **Deep research status:** Verified
 - **Identity:** Maxon OD-9 Pro+, the OD-9-based overdrive with switchable 9/18V operation and a mid-boost stage.
 
+## Deep research verification
+- **Exact-model evidence:** Verified against the cited manufacturer documentation in this record.
+
 ## What this pedal is
 Maxon/Godlyke documents the OD-9 Pro+ as an OD-9-based overdrive with additional gain and low-end at 18V, plus a switchable mid boost centered around approximately 800 Hz. [1]
 
