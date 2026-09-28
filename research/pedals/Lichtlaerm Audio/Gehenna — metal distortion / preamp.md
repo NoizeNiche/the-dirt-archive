@@ -1,23 +1,45 @@
 # Lichtlaerm Audio — Gehenna — metal distortion / preamp
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Gehenna — metal distortion / preamp
 - **Builder:** Lichtlaerm Audio
-- **Pedal:** Gehenna — metal distortion / preamp
 - **Catalog type:** Distortion / Fuzz / Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Lichtlaerm Audio's Gehenna — metal distortion / preamp.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Gehenna — metal distortion / preamp** by **Lichtlaerm Audio** as a **Distortion / Fuzz / Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+The Gehenna was designed to be used as a distortion pedal in front of a clean amp but also lends itself for use as a preamp due to it’s immense output level and flexible EQ - you may want to use extreme settings especially on the presence & treble controls for this, tho!
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- The Gehenna is our take on a highly flexible metal distortion: from classic NWOBHM to early 2000s Core-music, from raw Black and Death Metal to super tight and modern Djent - it’s all in there!
+- Instead of adding a separate boost in front of the distortion section we added a second, footswitchable gain-control that let’s you switch between two levels of gain inside the insane spectrum that the Gehenna offers: the on-state of Gain I is indicated through the blue LED.
+- Distortion + Preamp Lichtlaerm Gold / Black $229.00 Add to cart Need help?
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Documented terms in the verified sources: LED.
+- The archive records only the component information explicitly present in these sources.
+
+## Sound
+handmade in Berlin Contact Shop Shop Gehenna - Metal Distortion / Preamp Previous PandorA – Compact Power Amplifier Next Altar – Dual Gain Monolith
+Boost · Fuzz · Distortion Gehenna - Metal Distortion / Preamp Gehenna - Metal Distortion / Preamp €199.00 incl.
+The Gehenna is our take on a highly flexible metal distortion: from classic NWOBHM to early 2000s Core-music, from raw Black and Death Metal to super tight and modern Djent - it’s all in there!
+
+## Sources checked
+1. NEW Lichtlaerm Audio Gehenna - Metal Distortion / Preamp - Northerner &ndash; Northerner Guitars: https://northernerguitars.com/products/new-lichtlaerm-audio-gehenna-metal-distortion-preamp
+2. Gehenna Distortion Preamp | LICHTLÆRM AUDIO: https://lichtlaermaudio.com/shop/gehenna
+3. Lichtlaerm Audio Gehenna | Distortion and Preamp Guitar Pedal &ndash; Cult FX: https://cultfx.com/products/gehenna
+4. Lichtlaerm Audio &quot;Gehenna&quot; - Preamp/Distortion & Boost - Reverb: https://reverb.com/item/28857234-lichtlaerm-audio-gehenna-preamp-distortion-boost
+5. Gehenna - Lichtlaerm Audio Wiki: https://lichtlaerm-audio.fandom.com/wiki/Gehenna
+6. LICHTLAERM AUDIO &quot;Gehenna&quot; - Evil Greed: https://evilgreed.com/products/lichtlaerm-audio-gehenna
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
