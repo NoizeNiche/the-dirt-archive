@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-28T11:15:22.279172+00:00",
+  "generated_at": "2026-09-28T11:16:30.599997+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -30,31 +30,24 @@
       "research_level": "surface"
     },
     {
+      "builder": "Radial Engineering / Tonebone",
+      "pedal": "Tonebone Plexitube",
+      "catalog_type": "Distortion",
+      "research_record": "./research/pedals/Radial Engineering / Tonebone/Tonebone Plexitube.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "ReevesElectro",
+      "pedal": "2n2FACE Silicon FuzzFace",
+      "catalog_type": "Fuzz",
+      "research_record": "./research/pedals/ReevesElectro/2n2FACE Silicon FuzzFace.md",
+      "research_level": "surface"
+    },
+    {
       "builder": "NUX Audio / NUX",
       "pedal": "FZ-2 Vintage Fuzz",
       "catalog_type": "Fuzz",
       "research_record": "./research/pedals/NUX Audio / NUX/FZ-2 Vintage Fuzz.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Mystic Effects Co",
-      "pedal": "Driven-Parallel Overdrive",
-      "catalog_type": "Overdrive",
-      "research_record": "./research/pedals/Mystic Effects Co/Driven-Parallel Overdrive.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "JAM Pedals",
-      "pedal": "Tiny Pond?",
-      "catalog_type": "Distortion / Overdrive",
-      "research_record": "./research/pedals/JAM Pedals/Tiny Pond?.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Maxon / Nisshin Onpa",
-      "pedal": "SD-9M Sonic Distortion Master",
-      "catalog_type": "Distortion",
-      "research_record": "./research/pedals/Maxon / Nisshin Onpa/SD-9M Sonic Distortion Master.md",
       "research_level": "surface"
     },
     {
@@ -73,13 +66,6 @@
     },
     {
       "builder": "Radial Engineering / Tonebone",
-      "pedal": "Bones Texas Dual Mode Overdrive",
-      "catalog_type": "Overdrive",
-      "research_record": "./research/pedals/Radial Engineering / Tonebone/Bones Texas Dual Mode Overdrive.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Radial Engineering / Tonebone",
       "pedal": "Regency Overdrive and Boost",
       "catalog_type": "Overdrive",
       "research_record": "./research/pedals/Radial Engineering / Tonebone/Regency Overdrive and Boost.md",
@@ -93,17 +79,31 @@
       "research_level": "surface"
     },
     {
-      "builder": "Radial Engineering / Tonebone",
-      "pedal": "Tonebone Plexitube",
-      "catalog_type": "Distortion",
-      "research_record": "./research/pedals/Radial Engineering / Tonebone/Tonebone Plexitube.md",
+      "builder": "Mystic Effects Co",
+      "pedal": "Driven-Parallel Overdrive",
+      "catalog_type": "Overdrive",
+      "research_record": "./research/pedals/Mystic Effects Co/Driven-Parallel Overdrive.md",
       "research_level": "surface"
     },
     {
-      "builder": "ReevesElectro",
-      "pedal": "2n2FACE Silicon FuzzFace",
-      "catalog_type": "Fuzz",
-      "research_record": "./research/pedals/ReevesElectro/2n2FACE Silicon FuzzFace.md",
+      "builder": "Radial Engineering / Tonebone",
+      "pedal": "Bones Texas Dual Mode Overdrive",
+      "catalog_type": "Overdrive",
+      "research_record": "./research/pedals/Radial Engineering / Tonebone/Bones Texas Dual Mode Overdrive.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "JAM Pedals",
+      "pedal": "Tiny Pond?",
+      "catalog_type": "Distortion / Overdrive",
+      "research_record": "./research/pedals/JAM Pedals/Tiny Pond?.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Maxon / Nisshin Onpa",
+      "pedal": "SD-9M Sonic Distortion Master",
+      "catalog_type": "Distortion",
+      "research_record": "./research/pedals/Maxon / Nisshin Onpa/SD-9M Sonic Distortion Master.md",
       "research_level": "surface"
     },
     {
