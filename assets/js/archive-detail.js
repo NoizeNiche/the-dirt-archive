@@ -178,7 +178,7 @@ function renderColorways(item, colorways){
   $('colorways').innerHTML=colorways.map((v,i)=>{
     const name=v.variation_name||v.pedal||('Variation '+(i+1));
     const media=v.image
-      ? '<img src="'+esc(v.image)+'" alt="'+esc(item.company+' '+name)+'" loading="lazy" referrerpolicy="no-referrer"><span class="thumbFallback" hidden aria-hidden="true"></span>'
+      ? '<img src="'+esc(v.image)+'" alt="'+esc(item.company+' '+name)+'" loading="lazy" decoding="async" referrerpolicy="no-referrer"><span class="thumbFallback" hidden aria-hidden="true"></span>'
       : '<span aria-label="Photo unavailable"></span>';
     return '<button class="colorwayCard" type="button" data-variation="'+esc(name)+'" aria-pressed="false">'+
       '<span class="colorwayThumb">'+media+'</span><span class="colorwayName">'+esc(name)+'</span>'+
@@ -215,7 +215,7 @@ function renderVersions(item, versions){
   $('versions').innerHTML=versions.map(v=>{
     const label=v.version_label||v.pedal;
     const media=v.image
-      ? '<img src="'+esc(v.image)+'" alt="'+esc(item.company+' '+label)+'" loading="lazy" referrerpolicy="no-referrer"><span class="thumbFallback" hidden></span>'
+      ? '<img src="'+esc(v.image)+'" alt="'+esc(item.company+' '+label)+'" loading="lazy" decoding="async" referrerpolicy="no-referrer"><span class="thumbFallback" hidden></span>'
       : '<span aria-hidden="true"></span>';
     const versionType=(wantedType && wantedType!=='All' && (v.types||[]).includes(wantedType))?wantedType:'';
     return '<a class="variantCard" href="'+detailUrl(v, null, versionType)+'">'+
@@ -280,7 +280,7 @@ function renderRelated(allItems,item){
   target.innerHTML=candidates.map(x=>{
     const relationType=wantedType&&wantedType!=='All'&&(x.types||[]).includes(wantedType)?wantedType:'';
     const media=x.image
-      ? '<img src="'+esc(x.image)+'" alt="'+esc(x.company+' '+x.pedal)+' pedal" loading="lazy" referrerpolicy="no-referrer"><span class="thumbFallback" hidden></span>'
+      ? '<img src="'+esc(x.image)+'" alt="'+esc(x.company+' '+x.pedal)+' pedal" loading="lazy" decoding="async" referrerpolicy="no-referrer"><span class="thumbFallback" hidden></span>'
       : '<span></span>';
     return '<a class="relatedCard" href="'+detailUrl(x,null,relationType)+'">'+
       '<span class="relatedThumb">'+media+'</span>'+
