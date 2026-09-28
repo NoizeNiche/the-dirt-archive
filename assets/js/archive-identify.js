@@ -80,6 +80,7 @@ function renderResults(){
   if(selectedIdentifyTransistors.size)u.searchParams.set('transistor',[...selectedIdentifyTransistors].join(','));
   if(selectedIdentifyClippings.size)u.searchParams.set('clipping',[...selectedIdentifyClippings].join(','));
   if(selectedIdentifyPowers.size)u.searchParams.set('power',[...selectedIdentifyPowers].join(','));
+  if(identifyPhotoOnly)u.searchParams.set('photo','archived');
   $('openResults').href=u.href;
   $('photoOnly').checked=identifyPhotoOnly;
   grid.innerHTML=rows.slice(0,48).map(item=>{
