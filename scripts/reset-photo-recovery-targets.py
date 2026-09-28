@@ -11,6 +11,8 @@ import csv
 import json
 import os
 import re
+
+from PIL import Image
 from pathlib import Path
 
 INDEX = Path("research/PEDAL_INDEX.json")
@@ -113,13 +115,25 @@ def main():
             ),
             None,
         )
-        if not tracker or tracker.get("Picture") == "DONE":
+        if not tracker:
             continue
 
         reasons = suspicious_values(entry)
         manifest_entry = manifest_map.get(target_key)
         if not reasons and manifest_entry:
             reasons = suspicious_values(manifest_entry)
+
+        image = entry.get("image")
+        if not reasons and tracker.get("Picture") == "DONE" and is_local_image(image):
+            asset = Path(str(image)[2:] if str(image).startswith("./") else str(image))
+            try:
+                with Image.open(asset) as im:
+                    if im.width < 200 or im.height < 200:
+                        reasons.append(f"photo dimensions {im.width}x{im.height}")
+                    else:
+                        im.verify()
+            except Exception as exc:
+                reasons.append("unreadable local photo: " + str(exc))
 
         if not reasons:
             continue
