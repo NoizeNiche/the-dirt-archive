@@ -4941,6 +4941,13 @@ function imageBytesLookComplete(bytes, contentType = '') {
         verification: result.result.verification || {}
       });
     }
+
+    // Persist after each recovery batch so a hard process cutoff preserves
+    // every successful recovery completed before the cutoff.
+    fs.writeFileSync(
+      PHOTO_RECOVERY_MANIFEST,
+      JSON.stringify({ version: 1, recovered: recoveredRecords }, null, 2) + '\n'
+    );
   }
 
   fs.writeFileSync(INDEX, JSON.stringify(catalog, null, 2) + '\n');
