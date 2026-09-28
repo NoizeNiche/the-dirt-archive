@@ -43,6 +43,12 @@ function comparePhoto(item){
     ? '<img class="comparePhoto" src="'+esc(image)+'" alt="'+esc(item.company+' '+item.pedal)+'">'
     : '<div class="noPhoto">No exact archive photo</div>';
 }
+function versionFamilyLabel(item){
+  const raw=String(item?.version_of||'').trim();
+  if(!raw)return COMPARE_PLACEHOLDER;
+  const parts=raw.split('\u0000');
+  return parts.length===2 ? parts[0]+' · '+parts[1] : raw;
+}
 function compareLinks(item){
   const parts=[
     '<a class="action" href="'+esc(detailUrl(item,null,''))+'">Open record</a>'
@@ -73,7 +79,7 @@ function renderComparison(items, facets){
     ['Power',item=>'<div class="compareValue">'+esc(compareFacet(item,'power'))+'</div>'],
     ['Research',item=>'<div class="compareValue">'+esc(String(item.research_level||'').trim()||COMPARE_PLACEHOLDER)+'</div>'],
     ['Archived photo',item=>'<div class="compareValue">'+(isLocalArchiveImage(item)?'Yes':'No')+'</div>'],
-    ['Version family',item=>'<div class="compareValue">'+esc(String(item.version_of||'').trim()||COMPARE_PLACEHOLDER)+'</div>'],
+    ['Version family',item=>'<div class="compareValue">'+esc(versionFamilyLabel(item))+'</div>'],
     ['Representative demo',item=>item.youtube_demo?.url?'<a class="action" href="'+esc(item.youtube_demo.url)+'" target="_blank" rel="noopener">'+esc(item.youtube_demo.title||'Watch demo')+'</a>':'<div class="compareMuted">'+COMPARE_PLACEHOLDER+'</div>']
   ];
   document.getElementById('comparisonBody').innerHTML=rows.map(row=>
