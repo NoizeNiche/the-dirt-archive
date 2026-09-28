@@ -21,8 +21,9 @@ permissions:
 
 concurrency:
   group: dirt-photo-recovery-v4
-  # Serialize all automatic photo catch-up passes so duplicate runners do not compete for the same records.
-  cancel-in-progress: false
+  # A fresh finish-line pass supersedes a stale one. Never let an old browser
+  # recovery worker occupy the only photo lane while a newer pass is ready.
+  cancel-in-progress: true
 
 jobs:
   recover:
