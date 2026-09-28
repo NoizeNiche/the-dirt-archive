@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-28T12:14:06.015242+00:00",
+  "generated_at": "2026-09-28T12:18:46.663924+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -30,6 +30,13 @@
       "research_level": "surface"
     },
     {
+      "builder": "Mystic Effects Co",
+      "pedal": "Driven-Parallel Overdrive",
+      "catalog_type": "Overdrive",
+      "research_record": "./research/pedals/Mystic Effects Co/Driven-Parallel Overdrive.md",
+      "research_level": "surface"
+    },
+    {
       "builder": "Smallsound/Bigsound",
       "pedal": "Year of the Rat",
       "catalog_type": "Fuzz",
@@ -37,10 +44,10 @@
       "research_level": "surface"
     },
     {
-      "builder": "Mystic Effects Co",
-      "pedal": "Driven-Parallel Overdrive",
-      "catalog_type": "Overdrive",
-      "research_record": "./research/pedals/Mystic Effects Co/Driven-Parallel Overdrive.md",
+      "builder": "Vick Audio",
+      "pedal": "V2 Violet Ram",
+      "catalog_type": "Fuzz",
+      "research_record": "./research/pedals/Vick Audio/V2 Violet Ram.md",
       "research_level": "surface"
     },
     {
@@ -55,13 +62,6 @@
       "pedal": "SD-9M Sonic Distortion Master",
       "catalog_type": "Distortion",
       "research_record": "./research/pedals/Maxon / Nisshin Onpa/SD-9M Sonic Distortion Master.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Vick Audio",
-      "pedal": "V2 Violet Ram",
-      "catalog_type": "Fuzz",
-      "research_record": "./research/pedals/Vick Audio/V2 Violet Ram.md",
       "research_level": "surface"
     }
   ]
