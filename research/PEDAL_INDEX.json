@@ -9314,12 +9314,13 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": "",
+      "image": "./assets/pedals/beetronics/zzombee-filtremulator/primary.webp",
       "source_page": "https://www.beetronicsfx.com/collections/all-pedals-1",
       "research_record": "./research/pedals/Beetronics/Zzombee Filtremulator.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://www.beetronicsfx.com/collections/all-pedals-1"
+      "image_source_page": "https://www.beetronicsfx.com/products/zzombee-filtremulator",
+      "image_source_url": "https://www.beetronicsfx.com/cdn/shop/products/Zzombee_01.jpg?v=1653525688&width=1500"
     },
     {
       "company": "Beetronics FX",
@@ -9587,12 +9588,13 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/behringer/to100-tube-overdrive/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/behringer/compact/to100",
       "research_record": "./research/pedals/Behringer/TO100 Tube Overdrive.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://www.effectsdatabase.com/model/behringer/compact/to100"
+      "image_source_page": "https://www.effectsdatabase.com/model/behringer/compact/to100",
+      "image_source_url": "https://files.effectsdatabase.com/gear/pics/behringer_to-100_001.jpg"
     },
     {
       "company": "Behringer",
@@ -9614,12 +9616,13 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/behringer/vd1-vintage-distortion/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/behringer/vintage/vd1",
       "research_record": "./research/pedals/Behringer/VD1 Vintage Distortion.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://www.effectsdatabase.com/model/behringer/vintage/vd1"
+      "image_source_page": "https://www.effectsdatabase.com/model/behringer/vintage/vd1",
+      "image_source_url": "https://files.effectsdatabase.com/gear/pics/behringer-vintage_vd1_001.jpg"
     },
     {
       "company": "Behringer",
@@ -15429,7 +15432,7 @@
       "research_record": "./research/pedals/BOSS/MT-2-3A 30th Anniversary Metal Zone.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://www.sweetwater.com/store/detail/MT23A--boss-mt-2-3a-30th-anniversary-metal-zone-distortion-pedal?cond=MT23Ad1"
+      "image_source_page": "https://www.boss.info/CMSPages/GetFile.aspx?guid=6c73d95d-72a0-4324-bc8b-b3ef9a3d415"
     },
     {
       "company": "BOSS",
@@ -31267,7 +31270,7 @@
       "research_record": "./research/pedals/Darkglass Electronics/Alpha-Omega Ultra.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://www.effectsdatabase.com/model/darkglass/alphaomega"
+      "image_source_page": "https://www.darkglass.com/pages/alpha-omega-ultra-manual"
     },
     {
       "company": "Darkglass Electronics",
@@ -31526,7 +31529,7 @@
       "research_record": "./research/pedals/DeadastronautFX/EasyDriver.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://deadastronaut.wixsite.com/effects"
+      "image_source_page": "https://deadastronaut.wixsite.com/effects/easydrivepcbdeadastronautfx"
     },
     {
       "company": "DeadastronautFX",
@@ -32140,12 +32143,13 @@
         "Distortion",
         "Fuzz"
       ],
-      "image": "",
+      "image": "./assets/pedals/devi-ever-fx/bdsm-big-distortion-sound-machine/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/deviever",
       "research_record": "./research/pedals/Devi Ever FX/BDSM - Big Distortion Sound Machine.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://www.effectsdatabase.com/model/deviever/bdsm"
+      "image_source_page": "https://www.effectsdatabase.com/model/deviever/bdsm",
+      "image_source_url": "https://files.effectsdatabase.com/gear/thumbs/deviever_bdsm_001.jpg"
     },
     {
       "company": "Devi Ever FX",
@@ -32376,12 +32380,13 @@
       "types": [
         "Overdrive"
       ],
-      "image": "",
+      "image": "./assets/pedals/devi-ever-fx/eb-electric-brown/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/deviever",
       "research_record": "./research/pedals/Devi Ever FX/EB Electric Brown.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://www.effectsdatabase.com/model/deviever"
+      "image_source_page": "https://www.effectsdatabase.com/model/deviever",
+      "image_source_url": "https://files.effectsdatabase.com/brands/thumbs/deviever_000.jpg"
     },
     {
       "company": "Devi Ever FX",
@@ -45103,7 +45108,8 @@
       "source_page": "https://www.maxonfx.com/",
       "research_record": "./research/pedals/Maxon / Nisshin Onpa/OD808X.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_page": "https://maxonfx.com/"
     },
     {
       "company": "Maxon / Nisshin Onpa",
@@ -45115,7 +45121,8 @@
       "source_page": "https://www.maxonfx.com/",
       "research_record": "./research/pedals/Maxon / Nisshin Onpa/OD820 Overdrive Pro+.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_page": "https://maxonfx.com/collections/nine-series/overdrive"
     },
     {
       "company": "Maxon / Nisshin Onpa",
@@ -45123,11 +45130,13 @@
       "types": [
         "Overdrive"
       ],
-      "image": "",
+      "image": "./assets/pedals/maxon-nisshin-onpa/ood-9-organic-overdrive/primary.webp",
       "source_page": "https://www.maxonfx.com/",
       "research_record": "./research/pedals/Maxon / Nisshin Onpa/OOD-9 Organic Overdrive.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://maxonfx.com/cdn/shop/products/Maxon-9Series-OOD9-300px.png?v=1543862985",
+      "image_source_page": "https://maxonfx.com/products/nine-series-guitar-effects-pedals-organic-overdrive-ood-9"
     },
     {
       "company": "Maxon / Nisshin Onpa",
@@ -45154,7 +45163,8 @@
       "source_page": "https://www.maxonfx.com/",
       "research_record": "./research/pedals/Maxon / Nisshin Onpa/ROD881 Real Overdrive / Distortion.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_page": "https://maxonfx.com/collections/real-tube-ii"
     },
     {
       "company": "Maxon / Nisshin Onpa",
@@ -45167,7 +45177,8 @@
       "source_page": "https://www.maxonfx.com/",
       "research_record": "./research/pedals/Maxon / Nisshin Onpa/RTD800 Real Tube Distortion.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_page": "https://maxonfx.com/"
     },
     {
       "company": "Maxon / Nisshin Onpa",
@@ -45179,7 +45190,8 @@
       "source_page": "https://www.maxonfx.com/",
       "research_record": "./research/pedals/Maxon / Nisshin Onpa/RTO700 Real Tube Overdrive.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_page": "https://maxonfx.com/"
     },
     {
       "company": "Maxon / Nisshin Onpa",
@@ -45191,7 +45203,8 @@
       "source_page": "https://www.maxonfx.com/",
       "research_record": "./research/pedals/Maxon / Nisshin Onpa/SD-9 Sonic Distortion / Overdrive.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_page": "https://maxonfx.com/collections/nine-series/distortion"
     },
     {
       "company": "Maxon / Nisshin Onpa",

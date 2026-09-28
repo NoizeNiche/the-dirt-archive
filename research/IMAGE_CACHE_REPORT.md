@@ -1,11 +1,11 @@
 # Pedal Image Cache Report
 
-- Cached in this run: **7**
+- Cached in this run: **6**
 - Staged browser photos converted: **0**
 - Local images retained/reorganized: **0**
 - Download failures: **0**
-- Remaining tracker photo backlog: **201**
-- Researched, photo pending: **201**
+- Remaining tracker photo backlog: **193**
+- Researched, photo pending: **193**
 - External source images awaiting localization: **0**
 
 ## Storage layout
@@ -16,12 +16,11 @@
 
 ## Newly cached
 
-- B85 Audio - Red Lama -> `./assets/pedals/b85-audio/red-lama/primary.webp`
-- CBS-Arbiter - CBS-Arbiter Fuzz Phazer -> `./assets/pedals/cbs-arbiter/cbs-arbiter-fuzz-phazer/primary.webp`
-- Compulsive Audio - Face-Off Fuzz -> `./assets/pedals/compulsive-audio/face-off-fuzz/primary.webp`
-- Mad Professor Amplification - Fire Red Fuzz -> `./assets/pedals/mad-professor-amplification/fire-red-fuzz/primary.webp`
-- Mad Professor Amplification - Royal Blue Overdrive Custom -> `./assets/pedals/mad-professor-amplification/royal-blue-overdrive-custom/primary.webp`
-- Mad Professor Amplification - Super Black -> `./assets/pedals/mad-professor-amplification/super-black/primary.webp`
-- Maxon / Nisshin Onpa - D&S Distortion & Sustainer -> `./assets/pedals/maxon-nisshin-onpa/d-s-distortion-sustainer/primary.webp`
+- Beetronics - Zzombee Filtremulator -> `./assets/pedals/beetronics/zzombee-filtremulator/primary.webp`
+- Behringer - TO100 Tube Overdrive -> `./assets/pedals/behringer/to100-tube-overdrive/primary.webp`
+- Behringer - VD1 Vintage Distortion -> `./assets/pedals/behringer/vd1-vintage-distortion/primary.webp`
+- Devi Ever FX - BDSM - Big Distortion Sound Machine -> `./assets/pedals/devi-ever-fx/bdsm-big-distortion-sound-machine/primary.webp`
+- Devi Ever FX - EB Electric Brown -> `./assets/pedals/devi-ever-fx/eb-electric-brown/primary.webp`
+- Maxon / Nisshin Onpa - OOD-9 Organic Overdrive -> `./assets/pedals/maxon-nisshin-onpa/ood-9-organic-overdrive/primary.webp`
 
 All pictured pedal images are locally cached.
