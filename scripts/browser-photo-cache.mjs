@@ -165,8 +165,14 @@ function confirmedIdentityAliases(value) {
 
 function normalizedIdentity(value) {
   return String(value || '')
+    .normalize('NFKD')
     .toLowerCase()
+    .replace(/[øØ]/g, 'o')
+    .replace(/[æÆ]/g, 'ae')
+    .replace(/[œŒ]/g, 'oe')
+    .replace(/ß/g, 'ss')
     .replace(/\+/g, ' plus ')
+    .replace(/[\u0300-\u036f]/g, '')
     .replace(/[^a-z0-9]+/g, ' ')
     .replace(/\s+/g, ' ')
     .trim();
