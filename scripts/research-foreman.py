@@ -8,6 +8,7 @@ inbox for the main research pass.
 import json
 import re
 import sys
+import unicodedata
 from pathlib import Path
 
 sys.stdout.reconfigure(errors="backslashreplace")
@@ -17,8 +18,12 @@ INBOX=Path("research/RESEARCH_INBOX")
 INDEX=Path("research/PEDAL_INDEX.json")
 
 def norm(v):
-    safe = str(v or "").encode("utf-8", "backslashreplace").decode("utf-8")
-    return re.sub(r"\s+", " ", re.sub(r"[^a-z0-9]+", " ", safe.lower())).strip()
+    safe = str(v or "").strip().lower()
+    safe = safe.replace("ø","o").replace("æ","ae").replace("œ","oe").replace("ß","ss")
+    safe = unicodedata.normalize("NFKD", safe)
+    safe = "".join(ch for ch in safe if not unicodedata.combining(ch))
+    safe = safe.encode("utf-8", "backslashreplace").decode("utf-8")
+    return re.sub(r"\s+", " ", re.sub(r"[^a-z0-9]+", " ", safe)).strip()
 
 def slug(v):
     return re.sub(r"[^A-Za-z0-9]+","_",str(v or "").strip()).strip("_")[:120] or "unknown"
