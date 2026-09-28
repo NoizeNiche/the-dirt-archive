@@ -415,6 +415,9 @@ def main():
     index_viewer_text = INDEX_JS.read_text(encoding="utf-8")
     home_text = HOME.read_text(encoding="utf-8")
     for marker, source in (
+        ("PHOTO_RECOVERY_MANIFEST", PHOTO_CACHE.read_text(encoding="utf-8")),
+        ("recoveredRecords", PHOTO_CACHE.read_text(encoding="utf-8")),
+        ("photo-recovery-results.json", FAST_PHOTO.read_text(encoding="utf-8")),
         ("POWER_OPTIONS", facet_builder_text),
         ('"power": list(POWER_OPTIONS)', facet_builder_text),
         ("selectedPowers", index_viewer_text),
