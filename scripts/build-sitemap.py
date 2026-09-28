@@ -22,6 +22,10 @@ def xml_escape(value: str) -> str:
     )
 
 
+def builder_url(builder: str) -> str:
+    return BASE + "builder.html?builder=" + quote(builder, safe="")
+
+
 def public_url(builder: str, pedal: str) -> str:
     return (
         BASE
