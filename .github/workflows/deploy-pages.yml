@@ -11,6 +11,8 @@ on:
       - 'index.html'
       - 'pedal.html'
       - 'pedal-detail.html'
+      - 'methodology.html'
+      - 'audit.html'
       - 'assets/**'
       - 'research/PEDAL_INDEX.json'
       - 'research/PEDAL_FACETS.json'
