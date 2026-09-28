@@ -21,3 +21,11 @@ The Dirt Archive currently catalogs **Emperor Distortion** by **Phaez Amplificat
 ## Deep research
 - **Status:** Pending
 - Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+
+## Deep research verification
+- Phaez's manufacturer pedal lineup identifies **Emperor Distortion** as the builder's take on the Marshall Guv'nor circuit.
+- The same manufacturer page places Emperor within the builder's current distortion lineup and documents its relationship to the M-Class development.
+- The archive does not convert the builder's circuit description into a claim of exact schematic equivalence with the original Marshall pedal.
+
+## Verification source set
+1. Phaez Amplification — Pedals: https://phaezamplification.com/pedals/
