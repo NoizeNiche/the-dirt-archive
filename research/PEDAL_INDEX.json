@@ -22359,7 +22359,7 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/CBS-Arbiter/CBS-Arbiter Fuzz Phazer.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/arbiter/cbs/fuzzphazer",
+      "image_source_page": "https://www.freestompboxes.org/viewtopic.php?t=3214",
       "image_source_page_verified": true,
       "image_source_pages_verified": true,
       "image_source_pages": [
@@ -32304,12 +32304,13 @@
       "types": [
         "Fuzz"
       ],
-      "image": "",
+      "image": "./assets/pedals/devi-ever-fx/df-disaster-fuzz/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/deviever",
       "research_record": "./research/pedals/Devi Ever FX/DF Disaster Fuzz.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://www.effectsdatabase.com/model/deviever/df"
+      "image_source_page": "https://www.effectsdatabase.com/model/deviever/df",
+      "image_source_url": "https://files.effectsdatabase.com/gear/thumbs/deviever_ar-df_001.jpg"
     },
     {
       "company": "Devi Ever FX",
@@ -32317,12 +32318,13 @@
       "types": [
         "Fuzz"
       ],
-      "image": "",
+      "image": "./assets/pedals/devi-ever-fx/disaster-fuzz/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/deviever",
       "research_record": "./research/pedals/Devi Ever FX/Disaster Fuzz.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://www.effectsdatabase.com/model/deviever/disasterfuzz"
+      "image_source_page": "https://www.effectsdatabase.com/model/deviever/disasterfuzz",
+      "image_source_url": "https://files.effectsdatabase.com/gear/thumbs/deviever_distasterfuzz_001.jpg"
     },
     {
       "company": "Devi Ever FX",
@@ -32330,12 +32332,13 @@
       "types": [
         "Fuzz"
       ],
-      "image": "",
+      "image": "./assets/pedals/devi-ever-fx/dn-destructo-noctavia/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/deviever",
       "research_record": "./research/pedals/Devi Ever FX/DN Destructo Noctavia.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://www.effectsdatabase.com/model/deviever/dn"
+      "image_source_page": "https://www.effectsdatabase.com/model/deviever/dn",
+      "image_source_url": "https://files.effectsdatabase.com/gear/thumbs/deviever_ar-dn_001.jpg"
     },
     {
       "company": "Devi Ever FX",

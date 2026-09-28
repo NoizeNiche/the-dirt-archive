@@ -1,11 +1,11 @@
 # Pedal Image Cache Report
 
-- Cached in this run: **19**
+- Cached in this run: **3**
 - Staged browser photos converted: **0**
 - Local images retained/reorganized: **0**
 - Download failures: **1**
-- Remaining tracker photo backlog: **211**
-- Researched, photo pending: **211**
+- Remaining tracker photo backlog: **208**
+- Researched, photo pending: **208**
 - External source images awaiting localization: **0**
 
 ## Storage layout
@@ -16,25 +16,9 @@
 
 ## Newly cached
 
-- JHS Pedals - Calhoun V2 -> `./assets/pedals/jhs-pedals/calhoun-v2/primary.webp`
-- JHS Pedals - Ruby Red -> `./assets/pedals/jhs-pedals/ruby-red/primary.webp`
-- JHS Pedals - SuperBolt V2 -> `./assets/pedals/jhs-pedals/superbolt-v2/primary.webp`
-- JHS Pedals - Sweet Tea V3 -> `./assets/pedals/jhs-pedals/sweet-tea-v3/primary.webp`
-- KMA Machines - Chief Disruptor Bloodstone Edition -> `./assets/pedals/kma-machines/chief-disruptor-bloodstone-edition/primary.webp`
-- KMA Machines - LOGAN Desert -> `./assets/pedals/kma-machines/logan-desert/primary.webp`
-- KMA Machines - WURHM -> `./assets/pedals/kma-machines/wurhm/primary.webp`
-- LICHTLÆRM AUDIO - .Ritual. -> `./assets/pedals/lichtl-rm-audio/ritual/primary.webp`
-- LICHTLÆRM AUDIO - Altar -> `./assets/pedals/lichtl-rm-audio/altar/primary.webp`
-- LICHTLÆRM AUDIO - Aquaria -> `./assets/pedals/lichtl-rm-audio/aquaria/primary.webp`
-- LICHTLÆRM AUDIO - Total Distortion Worship MKII -> `./assets/pedals/lichtl-rm-audio/total-distortion-worship-mkii/primary.webp`
-- Lovepedal / Love Pedal - Amp Eleven -> `./assets/pedals/lovepedal-love-pedal/amp-eleven/primary.webp`
-- Lovepedal / Love Pedal - Dover Drive -> `./assets/pedals/lovepedal-love-pedal/dover-drive/primary.webp`
-- Lovepedal / Love Pedal - Eternity Burst -> `./assets/pedals/lovepedal-love-pedal/eternity-burst/primary.webp`
-- Lovepedal / Love Pedal - Eternity Overdrive -> `./assets/pedals/lovepedal-love-pedal/eternity-overdrive/primary.webp`
-- Lovepedal / Love Pedal - Purple Plexi -> `./assets/pedals/lovepedal-love-pedal/purple-plexi/primary.webp`
-- Lovepedal / Love Pedal - Tchula -> `./assets/pedals/lovepedal-love-pedal/tchula/primary.webp`
-- Lovepedal / Love Pedal - Zendrive -> `./assets/pedals/lovepedal-love-pedal/zendrive/primary.webp`
-- Lovepedal / Love Pedal - Zendrive 2 -> `./assets/pedals/lovepedal-love-pedal/zendrive-2/primary.webp`
+- Devi Ever FX - DF Disaster Fuzz -> `./assets/pedals/devi-ever-fx/df-disaster-fuzz/primary.webp`
+- Devi Ever FX - DN Destructo Noctavia -> `./assets/pedals/devi-ever-fx/dn-destructo-noctavia/primary.webp`
+- Devi Ever FX - Disaster Fuzz -> `./assets/pedals/devi-ever-fx/disaster-fuzz/primary.webp`
 
 ## Still external / failed
 
