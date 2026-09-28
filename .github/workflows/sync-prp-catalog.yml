@@ -44,7 +44,7 @@ jobs:
       - name: Synchronize photo backlog from tracker
         run: python scripts/sync-photo-backlog.py
 
-      - name: Build Catalog Research Phase queue
+      - name: Build research queue and project state
         run: python scripts/build-research-queue.py
 
       - name: Build public sitemap
