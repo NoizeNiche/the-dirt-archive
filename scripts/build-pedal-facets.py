@@ -69,16 +69,20 @@ def sections(markdown: str) -> dict[str, str]:
     current: str | None = None
     bucket: list[str] = []
     for line in markdown.splitlines():
-        match = re.match(r"^##\s+(.+?)\s*$", line)
+        match = re.match(r"^#{2,6}\s+(.+?)\s*$", line)
         if match:
             if current is not None:
-                result[current] = "\n".join(bucket).strip()
+                text = "\n".join(bucket).strip()
+                if text:
+                    result[current] = (result.get(current, "") + "\n" + text).strip()
             current = match.group(1).strip().lower()
             bucket = []
         elif current is not None:
             bucket.append(line)
     if current is not None:
-        result[current] = "\n".join(bucket).strip()
+        text = "\n".join(bucket).strip()
+        if text:
+            result[current] = (result.get(current, "") + "\n" + text).strip()
     return result
 
 
