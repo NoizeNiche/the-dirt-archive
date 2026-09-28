@@ -246,6 +246,8 @@ jobs:
           path: research-evidence
       - name: Verify and admit only strong evidence packets
         run: python scripts/research-foreman.py
+      - name: Recover stranded verified inbox packets
+        run: python scripts/include-stranded-research.py
       - name: Publish verified research and canonical records
         id: publish
         env:
@@ -262,8 +264,11 @@ jobs:
           # bounded pass finds no new evidence packets. This also repairs tracker
           # drift after catalog growth without waiting for another research publish.
           gh api --method POST "repos/$GITHUB_REPOSITORY/actions/workflows/sync-prp-tracker.yml/dispatches" -f ref=main
-          if git diff --cached --quiet; then
-            echo "No new verified research evidence packets; tracker-sync dispatched."
+          # The worker can also recover older VERIFIED_EVIDENCE_STAGED packets that
+          # were stranded in the inbox by an interrupted or older publication pass.
+          stranded_staged=$(python -c 'import json,pathlib; p=pathlib.Path("research-evidence/foreman-summary.json"); print(int(json.loads(p.read_text(encoding="utf-8")).get("staged",0)) if p.exists() else 0')
+          if git diff --cached --quiet && [ "${stranded_staged:-0}" -eq 0 ]; then
+            echo "No new or stranded verified research evidence packets; tracker-sync dispatched."
             exit 0
           fi
 
