@@ -27768,9 +27768,11 @@
   {
     "builder": "Tube Works",
     "pedal": "903 Blue Tube",
-    "image": null,
+    "image": "./assets/pedals/tube-works/903-blue-tube/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/tubeworks",
-    "research_record": "./research/pedals/Tube Works/903 Blue Tube.md"
+    "research_record": "./research/pedals/Tube Works/903 Blue Tube.md",
+    "image_source_url": "https://static.reverb-assets.com/production-assets/webpack/images/mobile-header-background-69216940b596520c.png",
+    "image_source_page": "https://reverb.com/p/tube-works-903-blue-tube-1987-1997"
   },
   {
     "builder": "Tube Works",

@@ -54601,7 +54601,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/tube-works/903-blue-tube/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/tubeworks",
       "research_record": "./research/pedals/Tube Works/903 Blue Tube.md",
       "research_level": "deep",
@@ -54613,7 +54613,8 @@
       "image_source_page": "https://reverb.com/p/tube-works-903-blue-tube-1987-1997",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1451
+      "image_source_priority": 1451,
+      "image_source_url": "https://static.reverb-assets.com/production-assets/webpack/images/mobile-header-background-69216940b596520c.png"
     },
     {
       "company": "Tube Works",
