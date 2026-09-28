@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-28T11:51:55.363939+00:00",
+  "generated_at": "2026-09-28T11:52:42.151711+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,8 +10,8 @@
     "pictured": 3930,
     "complete": 3930,
     "research_pending": 0,
-    "deep_research_pending": 9,
-    "deep_researched": 4197,
+    "deep_research_pending": 6,
+    "deep_researched": 4200,
     "surface_ready": 4206
   },
   "next_target": {
@@ -27,27 +27,6 @@
       "pedal": "BC-2 Vintage Blues Core",
       "catalog_type": "Overdrive",
       "research_record": "./research/pedals/NUX Audio / NUX/BC-2 Vintage Blues Core.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Reuss Musical Instruments",
-      "pedal": "Backslide Overdrive",
-      "catalog_type": "Overdrive",
-      "research_record": "./research/pedals/Reuss Musical Instruments/Backslide Overdrive.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Visual Sound / Truetone",
-      "pedal": "VS-XO",
-      "catalog_type": "Overdrive",
-      "research_record": "./research/pedals/Visual Sound / Truetone/VS-XO.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "SBGO Effects",
-      "pedal": "Creamy Fuzz",
-      "catalog_type": "Fuzz",
-      "research_record": "./research/pedals/SBGO Effects/Creamy Fuzz.md",
       "research_level": "surface"
     },
     {

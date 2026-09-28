@@ -50335,8 +50335,8 @@
       "image": "./assets/pedals/reuss-musical-instruments/backslide-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Reuss Musical Instruments/Backslide Overdrive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Reuss Musical Instruments",
@@ -50491,8 +50491,8 @@
       "image": "./assets/pedals/sbgo-effects/creamy-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/SBGO Effects/Creamy Fuzz.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "SBGO Effects",
@@ -54786,8 +54786,8 @@
       "image": "./assets/pedals/visual-sound-truetone/vs-xo/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Visual Sound / Truetone/VS-XO.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Voodoo Lab",
