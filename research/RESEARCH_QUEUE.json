@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-28T04:27:33.605752+00:00",
+  "generated_at": "2026-09-28T04:27:58.929940+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,8 +10,8 @@
     "pictured": 3639,
     "complete": 3639,
     "research_pending": 0,
-    "deep_research_pending": 200,
-    "deep_researched": 4006,
+    "deep_research_pending": 192,
+    "deep_researched": 4014,
     "surface_ready": 4206
   },
   "next_target": {
@@ -30,31 +30,10 @@
       "research_level": "surface"
     },
     {
-      "builder": "Friedman Amplification",
-      "pedal": "BE-OD",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Friedman Amplification/BE-OD.md",
-      "research_level": "surface"
-    },
-    {
       "builder": "Fulltone",
       "pedal": "Hi-Mu",
       "catalog_type": "",
       "research_record": "./research/pedals/Fulltone/Hi-Mu.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "GuitarSlinger Effects",
-      "pedal": "87 MKIII High Gain Distortion",
-      "catalog_type": "",
-      "research_record": "./research/pedals/GuitarSlinger Effects/87 MKIII High Gain Distortion.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Hungry Robot",
-      "pedal": "FZ",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Hungry Robot/FZ.md",
       "research_level": "surface"
     },
     {
@@ -69,27 +48,6 @@
       "pedal": "Lazer Phazer (retired)",
       "catalog_type": "",
       "research_record": "./research/pedals/IdiotBox Effects/Lazer Phazer (retired).md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "J. Rockett Audio Designs",
-      "pedal": "Archer Ikon OD",
-      "catalog_type": "",
-      "research_record": "./research/pedals/J. Rockett Audio Designs/Archer Ikon OD.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Jackson Audio",
-      "pedal": "Classic Vintage Fuzz",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Jackson Audio/Classic Vintage Fuzz.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "JAM Pedals",
-      "pedal": "Rattler Bass / Rattler Bass MKII",
-      "catalog_type": "",
-      "research_record": "./research/pedals/JAM Pedals/Rattler Bass / Rattler Bass MKII.md",
       "research_level": "surface"
     },
     {
@@ -111,20 +69,6 @@
       "pedal": "Notadümbळë V2",
       "catalog_type": "",
       "research_record": "./research/pedals/JHS Pedals/Notadümbळë V2.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "JHS Pedals",
-      "pedal": "Steak and Eggs Overdrive/Compressor",
-      "catalog_type": "",
-      "research_record": "./research/pedals/JHS Pedals/Steak and Eggs Overdrive/Compressor.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "JHS Pedals",
-      "pedal": "The Violet / Violet",
-      "catalog_type": "",
-      "research_record": "./research/pedals/JHS Pedals/The Violet / Violet.md",
       "research_level": "surface"
     },
     {
@@ -195,6 +139,62 @@
       "pedal": "Queequeq 2",
       "catalog_type": "",
       "research_record": "./research/pedals/KMA Machines/Queequeq 2.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Limetone Audio",
+      "pedal": "funther OD/DS/FZ",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Limetone Audio/funther OD/DS/FZ.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Limetone Audio",
+      "pedal": "fuzzhog proto OD/DS/FZ",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Limetone Audio/fuzzhog proto OD/DS/FZ.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Limetone Audio",
+      "pedal": "JACKAL MIDNIGHT ADD CBF OD/DS/FZ",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Limetone Audio/JACKAL MIDNIGHT ADD CBF OD/DS/FZ.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Limetone Audio",
+      "pedal": "JACKAL MIDNIGHT OD/DS/FZ",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Limetone Audio/JACKAL MIDNIGHT OD/DS/FZ.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Limetone Audio",
+      "pedal": "JACKAL OD/DS/FZ",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Limetone Audio/JACKAL OD/DS/FZ.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Lovepedal",
+      "pedal": "COT 50 / Church of Tone 50",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Lovepedal/COT 50 / Church of Tone 50.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Lovepedal",
+      "pedal": "COT 50 Boost / Overdrive",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Lovepedal/COT 50 Boost / Overdrive.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Mad Professor Amplification",
+      "pedal": "Albert's Overdrive",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Mad Professor Amplification/Albert's Overdrive.md",
       "research_level": "surface"
     }
   ]
