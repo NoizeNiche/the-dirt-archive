@@ -27282,7 +27282,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/copilot-fx/terra/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Copilot FX/Terra.md",
       "image_source_page": "https://www.copilotfx.com/terra.html",
@@ -27301,7 +27301,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/copilot-fx/trek/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Copilot FX/Trek.md",
       "image_source_page": "https://www.copilotfx.com/trek.html",
@@ -32372,7 +32372,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": "",
+      "image": "./assets/pedals/devi-ever-fx/cherry-pop/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/deviever",
       "research_record": "./research/pedals/Devi Ever FX/Cherry Pop.md",
       "research_level": "deep",
@@ -33098,7 +33098,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": "",
+      "image": "./assets/pedals/devi-ever-fx/super-massive-black-hole/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/deviever",
       "research_record": "./research/pedals/Devi Ever FX/Super Massive Black Hole.md",
       "research_level": "deep",
@@ -33500,7 +33500,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/dinosaural/tube-bender/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/dinosaural",
       "research_record": "./research/pedals/Dinosaural/Tube Bender.md",
       "research_level": "deep",
@@ -36453,7 +36453,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": "",
+      "image": "./assets/pedals/fairfield-circuitry/four-eyes-fuzz/primary.webp",
       "source_page": "https://fairfieldcircuitry.com/products/900",
       "research_record": "./research/pedals/Fairfield Circuitry/Four Eyes Fuzz.md",
       "research_level": "deep",
@@ -38358,7 +38358,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/greer-amps/sweetback-driver/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Greer Amps/Sweetback Driver.md",
       "research_level": "deep",
@@ -39871,7 +39871,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": "",
+      "image": "./assets/pedals/j-rockett-audio-designs/rockaway-archer/primary.webp",
       "source_page": "https://rockettpedals.com/",
       "research_record": "./research/pedals/J. Rockett Audio Designs/Rockaway Archer.md",
       "research_level": "deep",
@@ -43682,7 +43682,7 @@
         "Distortion"
       ],
       "source_page": "https://www.effectsdatabase.com/model/lovetone/ringstinger",
-      "image": "",
+      "image": "./assets/pedals/lovetone/ring-stinger/primary.webp",
       "research_record": "./research/pedals/Lovetone/Ring Stinger.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
@@ -43812,7 +43812,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": "",
+      "image": "./assets/pedals/mad-professor-amplification/little-green-wonder-handwired/primary.webp",
       "source_page": "https://mpamp.com/product/102/little-green-wonder-handwired",
       "research_record": "./research/pedals/Mad Professor Amplification/Little Green Wonder Handwired.md",
       "research_level": "deep",
@@ -43869,7 +43869,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": "",
+      "image": "./assets/pedals/mad-professor-amplification/royal-blue-overdrive/primary.webp",
       "source_page": "https://mpamp.com/product/10/royal-blue-overdrive",
       "research_record": "./research/pedals/Mad Professor Amplification/Royal Blue Overdrive.md",
       "research_level": "deep",
@@ -43902,7 +43902,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": "",
+      "image": "./assets/pedals/mad-professor-amplification/ruby-red-booster/primary.webp",
       "source_page": "https://mpamp.com/product/41/ruby-red-booster",
       "research_record": "./research/pedals/Mad Professor Amplification/Ruby Red Booster.md",
       "research_level": "deep",
@@ -43921,7 +43921,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": "",
+      "image": "./assets/pedals/mad-professor-amplification/simble-overdrive-mk2/primary.webp",
       "source_page": "https://mpamp.com/product/62/simble-overdrive-mk2",
       "research_record": "./research/pedals/Mad Professor Amplification/Simble Overdrive Mk2.md",
       "research_level": "deep",
@@ -45710,7 +45710,7 @@
       "types": [
         "Distortion"
       ],
-      "image": "",
+      "image": "./assets/pedals/maxon-nisshin-onpa/sm-9-super-metal/primary.webp",
       "source_page": "https://www.maxonfx.com/",
       "research_record": "./research/pedals/Maxon / Nisshin Onpa/SM-9 Super Metal.md",
       "research_level": "deep",
@@ -53979,7 +53979,7 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/thorpyfx/cogmeister/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/ThorpyFX/Cogmeister.md",
       "research_level": "deep",
@@ -54581,7 +54581,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/tube-works/901-real-tube/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/tubeworks",
       "research_record": "./research/pedals/Tube Works/901 Real Tube.md",
       "research_level": "deep",
@@ -54622,7 +54622,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/tube-works/910-tube-driver/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/tubeworks",
       "research_record": "./research/pedals/Tube Works/910 Tube Driver.md",
       "research_level": "deep",
@@ -54642,7 +54642,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/tube-works/911-tube-driver/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/tubeworks",
       "research_record": "./research/pedals/Tube Works/911 Tube Driver.md",
       "research_level": "deep",
@@ -55177,7 +55177,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/vemuram/shanks-ods-1-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Vemuram/SHANKS ODS-1 — overdrive.md",
       "research_level": "deep",
@@ -55759,7 +55759,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/visual-sound-truetone/v2-jekyll-hyde/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Visual Sound / Truetone/V2 Jekyll & Hyde.md",
       "research_level": "deep",
@@ -57641,7 +57641,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/wmd-devices/geiger-counter/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/WMD Devices/Geiger Counter.md",
       "research_level": "deep",

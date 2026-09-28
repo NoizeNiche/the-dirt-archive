@@ -14524,14 +14524,14 @@
   {
     "builder": "Copilot FX",
     "pedal": "Terra",
-    "image": null,
+    "image": "./assets/pedals/copilot-fx/terra/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Copilot FX/Terra.md"
   },
   {
     "builder": "Copilot FX",
     "pedal": "Trek",
-    "image": null,
+    "image": "./assets/pedals/copilot-fx/trek/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Copilot FX/Trek.md"
   },
@@ -17378,7 +17378,7 @@
   {
     "builder": "Devi Ever FX",
     "pedal": "Cherry Pop",
-    "image": "",
+    "image": "./assets/pedals/devi-ever-fx/cherry-pop/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/deviever",
     "research_record": "./research/pedals/Devi Ever FX/Cherry Pop.md"
   },
@@ -17754,7 +17754,7 @@
   {
     "builder": "Devi Ever FX",
     "pedal": "Super Massive Black Hole",
-    "image": "",
+    "image": "./assets/pedals/devi-ever-fx/super-massive-black-hole/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/deviever",
     "research_record": "./research/pedals/Devi Ever FX/Super Massive Black Hole.md"
   },
@@ -17962,7 +17962,7 @@
   {
     "builder": "Dinosaural",
     "pedal": "Tube Bender",
-    "image": null,
+    "image": "./assets/pedals/dinosaural/tube-bender/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/dinosaural",
     "research_record": "./research/pedals/Dinosaural/Tube Bender.md"
   },
@@ -19651,7 +19651,7 @@
   {
     "builder": "Fairfield Circuitry",
     "pedal": "Four Eyes Fuzz",
-    "image": "",
+    "image": "./assets/pedals/fairfield-circuitry/four-eyes-fuzz/primary.webp",
     "source_page": "https://fairfieldcircuitry.com/products/900",
     "research_record": "./research/pedals/Fairfield Circuitry/Four Eyes Fuzz.md"
   },
@@ -20714,7 +20714,7 @@
   {
     "builder": "Greer Amps",
     "pedal": "Sweetback Driver",
-    "image": null,
+    "image": "./assets/pedals/greer-amps/sweetback-driver/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Greer Amps/Sweetback Driver.md"
   },
@@ -21558,7 +21558,7 @@
   {
     "builder": "J. Rockett Audio Designs",
     "pedal": "Rockaway Archer",
-    "image": "",
+    "image": "./assets/pedals/j-rockett-audio-designs/rockaway-archer/primary.webp",
     "source_page": "https://rockettpedals.com/",
     "research_record": "./research/pedals/J. Rockett Audio Designs/Rockaway Archer.md"
   },
@@ -23620,7 +23620,7 @@
   {
     "builder": "Lovetone",
     "pedal": "Ring Stinger",
-    "image": "",
+    "image": "./assets/pedals/lovetone/ring-stinger/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/lovetone/ringstinger",
     "research_record": "./research/pedals/Lovetone/Ring Stinger.md"
   },
@@ -23691,7 +23691,7 @@
   {
     "builder": "Mad Professor Amplification",
     "pedal": "Little Green Wonder Handwired",
-    "image": "",
+    "image": "./assets/pedals/mad-professor-amplification/little-green-wonder-handwired/primary.webp",
     "source_page": "https://mpamp.com/product/102/little-green-wonder-handwired",
     "research_record": "./research/pedals/Mad Professor Amplification/Little Green Wonder Handwired.md"
   },
@@ -23719,7 +23719,7 @@
   {
     "builder": "Mad Professor Amplification",
     "pedal": "Royal Blue Overdrive",
-    "image": "",
+    "image": "./assets/pedals/mad-professor-amplification/royal-blue-overdrive/primary.webp",
     "source_page": "https://mpamp.com/product/10/royal-blue-overdrive",
     "research_record": "./research/pedals/Mad Professor Amplification/Royal Blue Overdrive.md"
   },
@@ -23734,14 +23734,14 @@
   {
     "builder": "Mad Professor Amplification",
     "pedal": "Ruby Red Booster",
-    "image": "",
+    "image": "./assets/pedals/mad-professor-amplification/ruby-red-booster/primary.webp",
     "source_page": "https://mpamp.com/product/41/ruby-red-booster",
     "research_record": "./research/pedals/Mad Professor Amplification/Ruby Red Booster.md"
   },
   {
     "builder": "Mad Professor Amplification",
     "pedal": "Simble Overdrive Mk2",
-    "image": "",
+    "image": "./assets/pedals/mad-professor-amplification/simble-overdrive-mk2/primary.webp",
     "source_page": "https://mpamp.com/product/62/simble-overdrive-mk2",
     "research_record": "./research/pedals/Mad Professor Amplification/Simble Overdrive Mk2.md"
   },
@@ -24689,7 +24689,7 @@
   {
     "builder": "Maxon / Nisshin Onpa",
     "pedal": "SM-9 Super Metal",
-    "image": "",
+    "image": "./assets/pedals/maxon-nisshin-onpa/sm-9-super-metal/primary.webp",
     "source_page": "https://www.maxonfx.com/",
     "research_record": "./research/pedals/Maxon / Nisshin Onpa/SM-9 Super Metal.md"
   },
@@ -29256,7 +29256,7 @@
   {
     "builder": "ThorpyFX",
     "pedal": "Cogmeister",
-    "image": null,
+    "image": "./assets/pedals/thorpyfx/cogmeister/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/ThorpyFX/Cogmeister.md"
   },
@@ -29581,7 +29581,7 @@
   {
     "builder": "Tube Works",
     "pedal": "901 Real Tube",
-    "image": null,
+    "image": "./assets/pedals/tube-works/901-real-tube/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/tubeworks",
     "research_record": "./research/pedals/Tube Works/901 Real Tube.md"
   },
@@ -29596,14 +29596,14 @@
   {
     "builder": "Tube Works",
     "pedal": "910 Tube Driver",
-    "image": null,
+    "image": "./assets/pedals/tube-works/910-tube-driver/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/tubeworks",
     "research_record": "./research/pedals/Tube Works/910 Tube Driver.md"
   },
   {
     "builder": "Tube Works",
     "pedal": "911 Tube Driver",
-    "image": null,
+    "image": "./assets/pedals/tube-works/911-tube-driver/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/tubeworks",
     "research_record": "./research/pedals/Tube Works/911 Tube Driver.md"
   },
@@ -29905,7 +29905,7 @@
   {
     "builder": "Vemuram",
     "pedal": "SHANKS ODS-1 — overdrive",
-    "image": null,
+    "image": "./assets/pedals/vemuram/shanks-ods-1-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Vemuram/SHANKS ODS-1 — overdrive.md"
   },
@@ -30226,7 +30226,7 @@
   {
     "builder": "Visual Sound / Truetone",
     "pedal": "V2 Jekyll & Hyde",
-    "image": null,
+    "image": "./assets/pedals/visual-sound-truetone/v2-jekyll-hyde/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Visual Sound / Truetone/V2 Jekyll & Hyde.md"
   },
@@ -31249,7 +31249,7 @@
   {
     "builder": "WMD Devices",
     "pedal": "Geiger Counter",
-    "image": null,
+    "image": "./assets/pedals/wmd-devices/geiger-counter/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/WMD Devices/Geiger Counter.md"
   },
