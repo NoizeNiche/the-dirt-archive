@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-28T11:43:41.076619+00:00",
+  "generated_at": "2026-09-28T11:43:45.501416+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,8 +10,8 @@
     "pictured": 3930,
     "complete": 3930,
     "research_pending": 0,
-    "deep_research_pending": 19,
-    "deep_researched": 4187,
+    "deep_research_pending": 16,
+    "deep_researched": 4190,
     "surface_ready": 4206
   },
   "next_target": {
@@ -48,13 +48,6 @@
       "pedal": "VS-XO",
       "catalog_type": "Overdrive",
       "research_record": "./research/pedals/Visual Sound / Truetone/VS-XO.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "NUX Audio / NUX",
-      "pedal": "FZ-2 Vintage Fuzz",
-      "catalog_type": "Fuzz",
-      "research_record": "./research/pedals/NUX Audio / NUX/FZ-2 Vintage Fuzz.md",
       "research_level": "surface"
     },
     {
@@ -135,24 +128,10 @@
       "research_level": "surface"
     },
     {
-      "builder": "WMD Devices",
-      "pedal": "Geiger Counter Pro",
-      "catalog_type": "Distortion",
-      "research_record": "./research/pedals/WMD Devices/Geiger Counter Pro.md",
-      "research_level": "surface"
-    },
-    {
       "builder": "Xotic Effects",
       "pedal": "BB Preamp V1.5 — Boost / Overdrive",
       "catalog_type": "Overdrive",
       "research_record": "./research/pedals/Xotic Effects/BB Preamp V1.5 — Boost / Overdrive.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Xotic Effects",
-      "pedal": "Soul Driven — Mid-boost Overdrive",
-      "catalog_type": "Overdrive",
-      "research_record": "./research/pedals/Xotic Effects/Soul Driven — Mid-boost Overdrive.md",
       "research_level": "surface"
     }
   ]
