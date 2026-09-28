@@ -2,10 +2,10 @@
 
 - Cached in this run: **0**
 - Staged browser photos converted: **0**
-- Local images retained/reorganized: **0**
-- Download failures: **1**
-- Remaining tracker photo backlog: **60**
-- Researched, photo pending: **60**
+- Local images retained/reorganized: **1**
+- Download failures: **0**
+- Remaining tracker photo backlog: **59**
+- Researched, photo pending: **59**
 - External source images awaiting localization: **0**
 
 ## Storage layout
@@ -14,8 +14,4 @@
 - Colorway/edition image: `assets/pedals/{builder}/{pedal}/variants/{variant}.webp`
 - Original source URL remains stored as `image_source_url`.
 
-## Still external / failed
-
-- BOSS - MT-2-3A 30th Anniversary Metal Zone: https://rvb-img.reverb.com/image/upload/s--roDGV5Kc--/f_auto%2Ct_large/v1629992328/byqovu79pjwkripuafit.jpg: curl: (22) The requested URL returned error: 401 (`https://rvb-img.reverb.com/image/upload/s--roDGV5Kc--/f_auto%2Ct_large/v1629992328/byqovu79pjwkripuafit.jpg`)
-
-These records remain externally referenced until a later cache run succeeds.
+All pictured pedal images are locally cached.
