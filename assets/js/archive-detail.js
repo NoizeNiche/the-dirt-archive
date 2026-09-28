@@ -146,7 +146,7 @@ function showPhoto(item,label){
   const fallbackLabel='';
   if(item && item.image){
     box.classList.add('photoHasImage');
-    box.innerHTML='<img class="photoImage" src="'+esc(item.image)+'" alt="'+esc(item.company+' '+item.pedal+(label?' '+label:''))+'" referrerpolicy="no-referrer"><span class="photoFallback" hidden>'+esc(fallbackLabel)+'</span>';
+    box.innerHTML='<img class="photoImage" src="'+esc(item.image)+'" alt="'+esc(item.company+' '+item.pedal+(label?' '+label:''))+'" decoding="async" referrerpolicy="no-referrer"><span class="photoFallback" hidden>'+esc(fallbackLabel)+'</span>';
     const image=box.querySelector('.photoImage');
     const fallback=box.querySelector('.photoFallback');
     image.addEventListener('error',()=>{
