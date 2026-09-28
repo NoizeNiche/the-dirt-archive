@@ -17,7 +17,7 @@ Completeness is valuable only when it does not come at the expense of correctnes
 
 ## Current reality
 
-The canonical catalog currently contains 4,202 records. After the September 28 photo reconciliation, the canonical catalog and PRP tracker agree on 3,986 pictured records and 216 photo-pending records.
+The canonical catalog currently contains 4,202 records. After the latest recovery/reconciliation work, the canonical catalog and PRP tracker agree on 4,162 pictured records and 40 photo-pending records.
 
 A repository-level asset audit also surfaced a large number of exact duplicate image-byte groups and orphaned local assets. Duplicate groups are review candidates, not automatic proof that every repeated photograph is wrong. Cross-builder repetition, tiny assets, generic provenance, blocked-source provenance, and pixel-level donation/platform overlays are the highest-risk classes.
 
