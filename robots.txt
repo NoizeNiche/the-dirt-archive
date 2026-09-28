@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://noizeniche.github.io/the-dirt-archive/sitemap.xml
