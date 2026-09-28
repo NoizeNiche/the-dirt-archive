@@ -4,35 +4,46 @@
 - **Archive parent:** ‘6ixty5ive OD
 - **Builder:** NUX Audio / NUX
 - **Catalog type:** Overdrive
-- **Identity:** NUX Audio / NUX's ‘6ixty5ive OD.
+- **Research level:** Deep
+- **Deep research status:** Verified
+- **Identity:** NUX ‘6ixty5ive OD.
+
+## Deep research verification
+- **Exact-model evidence:** Verified against the exact NUX Audio manufacturer product page.
 
 ## What this pedal is
-NUX Audio / NUX's ‘6ixty5ive OD is cataloged as an overdrive pedal.
+NUX describes the ‘6ixty5ive OD as a Reissue Series overdrive inspired by the VEMURAM Jan Ray and voiced around the clear, punchy character of 1960s Fender Black Panel amplifiers. The manufacturer describes it as an analog overdrive with sustain and natural compression. [1]
 
-## Colorways
-- – OP AMP Simulates the Characteristic Overdrive of Black Panel Tube Amplifiers.
+## Circuit / architecture
+- **Analog circuit.** [1]
+- **Gain stage:** JRC4558 op amp. [1]
+- **Saturation trimmer:** internal saturation adjustment. [1]
+- NUX describes an op-amp stage intended to emulate the characteristic overdrive behavior of Black Panel tube amplifiers. [1]
 
-## Versions and factory options
-- No distinct factory revision was established in the verified evidence packet.
-
-## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+## Controls and switching
+The manufacturer page establishes the pedal's operating controls and internal saturation adjustment, with **true-bypass hardware switching**. [1]
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
-- **Exact transistor/device:** Unknown.
+- **Exact production transistor/device:** Not established in the manufacturer documentation.
 
 ## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
-- **Exact part:** Unknown.
+- **Exact production clipping diode:** Not established in the manufacturer documentation.
+
+## Power and physical specification
+- **Power:** 9VDC or 9V battery. [1]
+- **Input impedance:** 1MΩ. [1]
+- **Output impedance:** 10kΩ. [1]
+- **Current draw:** less than 20mA. [1]
+- **Dimensions:** 121 × 77 × 48 mm. [1]
+- **Weight:** 230g. [1]
+- **Bypass:** true bypass. [1]
 
 ## Sound
-It’s an easy-to-handle glassy overdrive that retains the characteristics of the guitar with great sustain and natural compression.
-NUX ‘6ixty5ive Overdrive is inspired by VEMURAM Jan Ray.
-– Analog Circuit with JRC4558 Gain Stage.
+NUX describes the ‘6ixty5ive OD as a glassy Black Panel-style overdrive with clear punch, sustained notes, and natural compression while retaining the instrument's character. [1]
 
 ## Sources checked
-1. '6ixty5ive OD - NUX Audio: https://nuxaudio.com/product/6ixty5iveod/
+1. **NUX Audio — ‘6ixty5ive OD:** https://nuxaudio.com/product/6ixty5iveod/
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately.
+- Exact-model photo provenance remains governed by the archive's photo identity gate.
