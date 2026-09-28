@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-28T09:39:08.514896+00:00",
+  "generated_at": "2026-09-28T09:40:00.521132+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,8 +10,8 @@
     "pictured": 3854,
     "complete": 3854,
     "research_pending": 0,
-    "deep_research_pending": 102,
-    "deep_researched": 4104,
+    "deep_research_pending": 98,
+    "deep_researched": 4108,
     "surface_ready": 4206
   },
   "next_target": {
@@ -83,34 +83,6 @@
       "pedal": "TOD-9 True Tube Overdrive",
       "catalog_type": "Overdrive",
       "research_record": "./research/pedals/Maxon / Nisshin Onpa/TOD-9 True Tube Overdrive.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Mojo Hand FX",
-      "pedal": "Crosstown Rasta",
-      "catalog_type": "Fuzz",
-      "research_record": "./research/pedals/Mojo Hand FX/Crosstown Rasta.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Mojo Hand FX",
-      "pedal": "Pompeii (historical/limited)",
-      "catalog_type": "Fuzz",
-      "research_record": "./research/pedals/Mojo Hand FX/Pompeii (historical/limited).md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Mojo Hand FX",
-      "pedal": "Rounder (historical/discontinued)",
-      "catalog_type": "Fuzz",
-      "research_record": "./research/pedals/Mojo Hand FX/Rounder (historical/discontinued).md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Mojo Hand FX",
-      "pedal": "Superlative (historical/discontinued)",
-      "catalog_type": "Overdrive",
-      "research_record": "./research/pedals/Mojo Hand FX/Superlative (historical/discontinued).md",
       "research_level": "surface"
     },
     {
@@ -195,6 +167,34 @@
       "pedal": "Hustle Drive",
       "catalog_type": "Distortion",
       "research_record": "./research/pedals/MOOER Audio / MOOER/Hustle Drive.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "MOOER Audio / MOOER",
+      "pedal": "MooerFog / Fog",
+      "catalog_type": "Fuzz",
+      "research_record": "./research/pedals/MOOER Audio / MOOER/MooerFog / Fog.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "MOOER Audio / MOOER",
+      "pedal": "Rage Machine",
+      "catalog_type": "Distortion",
+      "research_record": "./research/pedals/MOOER Audio / MOOER/Rage Machine.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "MOOER Audio / MOOER",
+      "pedal": "Rumble Drive",
+      "catalog_type": "Overdrive",
+      "research_record": "./research/pedals/MOOER Audio / MOOER/Rumble Drive.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "MOOER Audio / MOOER",
+      "pedal": "Solo",
+      "catalog_type": "Distortion",
+      "research_record": "./research/pedals/MOOER Audio / MOOER/Solo.md",
       "research_level": "surface"
     }
   ]
