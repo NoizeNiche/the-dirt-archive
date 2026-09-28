@@ -51,14 +51,8 @@ jobs:
           restore-keys: |
             photo-emergency-playwright-${{ runner.os }}-
 
-      - name: Ensure Chromium
-        shell: bash
-        run: |
-          if compgen -G "$HOME/.cache/ms-playwright/chromium-*" > /dev/null; then
-            echo "Playwright Chromium restored from cache."
-          else
-            npx playwright install --with-deps chromium
-          fi
+      - name: Ensure Chromium and system dependencies
+        run: npx playwright install --with-deps chromium
 
       - name: Apply curated exact photo leads
         run: python scripts/apply-photo-source-overrides.py
