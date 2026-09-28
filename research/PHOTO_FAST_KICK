@@ -1,2 +1,2 @@
-Small exact-photo pass — 2026-09-28T05:58:00-07:00
-Prioritize the oldest PHOTO_NEEDED records that already have exact-model source leads. Manufacturer pages first; verified exact-model database/retailer pages next. Archive only exact matching local images.
+Small photo recovery pass — 2026-09-28T06:06:00-07:00
+Work the existing exact-model source leads first. Manufacturer pages first, then verified exact-model secondary pages. Convert confirmed matches into local archived images.
