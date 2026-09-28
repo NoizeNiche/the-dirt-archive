@@ -54,6 +54,12 @@ def main():
         complete_done = bool(row and row.get("PRP Complete") == "DONE")
         level = str(item.get("research_level") or "").strip().lower()
         has_record = bool(item.get("research_record"))
+        catalog_type = (
+            item.get("type")
+            or item.get("dirt_type")
+            or (row.get("Catalog Type") if row else "")
+            or ""
+        )
 
         researched += int(info_done)
         pictured += int(picture_done)
@@ -68,7 +74,7 @@ def main():
                     {
                         "builder": item.get("company"),
                         "pedal": item.get("pedal"),
-                        "catalog_type": item.get("type") or item.get("dirt_type") or "",
+                        "catalog_type": catalog_type,
                         "research_record": item.get("research_record") or "",
                         "research_level": "surface",
                     }
