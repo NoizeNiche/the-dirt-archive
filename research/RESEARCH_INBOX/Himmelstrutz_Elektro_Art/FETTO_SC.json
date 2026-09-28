@@ -1,0 +1,25 @@
+{
+  "builder": "Himmelstrutz Elektro Art",
+  "pedal": "FETTO SC",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 2,
+  "sources": [
+    {
+      "url": "https://www.himmelstrutz.com/downloads/himmelstrutz-fetto-sc-owners-manual-001-web.pdf",
+      "title": "catalog/override source",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.himmelstrutz.com",
+      "source_kind": "catalog_verified"
+    },
+    {
+      "url": "https://www.reverb.com/item/2756717-himmelstrutz-fetto-sc-2010-s-white",
+      "title": "catalog/override source",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.reverb.com",
+      "source_kind": "reverb"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}

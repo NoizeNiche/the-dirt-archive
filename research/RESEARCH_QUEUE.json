@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-28T04:15:09.906959+00:00",
+  "generated_at": "2026-09-28T04:15:26.441418+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,8 +10,8 @@
     "pictured": 3639,
     "complete": 3639,
     "research_pending": 0,
-    "deep_research_pending": 210,
-    "deep_researched": 3996,
+    "deep_research_pending": 207,
+    "deep_researched": 3999,
     "surface_ready": 4206
   },
   "next_target": {
@@ -76,20 +76,6 @@
       "pedal": "87 MKIII High Gain Distortion",
       "catalog_type": "",
       "research_record": "./research/pedals/GuitarSlinger Effects/87 MKIII High Gain Distortion.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Himmelstrutz Elektro Art",
-      "pedal": "FETTO 9.0",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Himmelstrutz Elektro Art/FETTO 9.0.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Himmelstrutz Elektro Art",
-      "pedal": "FETTO SC",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Himmelstrutz Elektro Art/FETTO SC.md",
       "research_level": "surface"
     },
     {
@@ -195,6 +181,20 @@
       "pedal": "Super Phat Mod Mini",
       "catalog_type": "",
       "research_record": "./research/pedals/Keeley Electronics/Super Phat Mod Mini.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "KHDK Electronics",
+      "pedal": "Fallout Bass Overdrive — bass overdrive",
+      "catalog_type": "",
+      "research_record": "./research/pedals/KHDK Electronics/Fallout Bass Overdrive — bass overdrive.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "KHDK Electronics",
+      "pedal": "Ghoul JR — overdrive",
+      "catalog_type": "",
+      "research_record": "./research/pedals/KHDK Electronics/Ghoul JR — overdrive.md",
       "research_level": "surface"
     }
   ]

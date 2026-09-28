@@ -37693,8 +37693,8 @@
       "image": "./assets/pedals/himmelstrutz-elektro-art/fetto-9-0/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Himmelstrutz Elektro Art/FETTO 9.0.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Himmelstrutz Elektro Art",
@@ -37789,8 +37789,8 @@
       "image": "./assets/pedals/himmelstrutz-elektro-art/fetto-sc/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Himmelstrutz Elektro Art/FETTO SC.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Himmelstrutz Elektro Art",
@@ -41111,8 +41111,8 @@
       "image": "./assets/pedals/khdk-electronics/no-1-tube-like-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/KHDK Electronics/No.1 — tube-like overdrive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "KHDK Electronics",
