@@ -1,6 +1,6 @@
 {
-  "version": "data-20260928-identity-dedup",
-  "count": 4204,
+  "version": "data-20260928-pigtronix-dedup",
+  "count": 4203,
   "pedals": [
     {
       "company": "1981 Inventions",
@@ -49791,19 +49791,6 @@
       "image": "./assets/pedals/pigtronix/philosopher-s-gold/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Pigtronix/Philosopher’s Gold.md",
-      "research_level": "deep",
-      "deep_research_status": "VERIFIED"
-    },
-    {
-      "company": "Pigtronix",
-      "pedal": "Philosopher's Tone 2",
-      "types": [
-        "Distortion",
-        "Overdrive"
-      ],
-      "image": null,
-      "source_page": null,
-      "research_record": "./research/pedals/Pigtronix/Philosopher's Tone 2.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED"
     },
