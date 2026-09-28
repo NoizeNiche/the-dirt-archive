@@ -1,11 +1,11 @@
 # Pedal Image Cache Report
 
-- Cached in this run: **11**
+- Cached in this run: **5**
 - Staged browser photos converted: **0**
 - Local images retained/reorganized: **0**
 - Download failures: **1**
-- Remaining tracker photo backlog: **379**
-- Researched, photo pending: **379**
+- Remaining tracker photo backlog: **374**
+- Researched, photo pending: **374**
 - External source images awaiting localization: **0**
 
 ## Storage layout
@@ -16,17 +16,11 @@
 
 ## Newly cached
 
-- ARC Effects - Klone -> `./assets/pedals/arc-effects/klone/primary.webp`
-- Ashdown Engineering - NM2 Nate Mendel Double Distortion -> `./assets/pedals/ashdown-engineering/nm2-nate-mendel-double-distortion/primary.webp`
-- BOSS - OD-2 Turbo OverDrive -> `./assets/pedals/boss/od-2-turbo-overdrive/primary.webp`
-- Darkglass Electronics - Microtubes B1K -> `./assets/pedals/darkglass-electronics/microtubes-b1k/primary.webp`
-- Devi Ever FX - '90 -> `./assets/pedals/devi-ever-fx/90/primary.webp`
-- Devi Ever FX - Bit Mangler -> `./assets/pedals/devi-ever-fx/bit-mangler/primary.webp`
-- Devi Ever FX - Dream Mangler -> `./assets/pedals/devi-ever-fx/dream-mangler/primary.webp`
-- Devi Ever FX - Drone Fuck Drone -> `./assets/pedals/devi-ever-fx/drone-fuck-drone/primary.webp`
-- Devi Ever FX - Helios -> `./assets/pedals/devi-ever-fx/helios/primary.webp`
-- Devi Ever FX - Heroin Lifestyle -> `./assets/pedals/devi-ever-fx/heroin-lifestyle/primary.webp`
-- Devi Ever FX - Love Fuzz -> `./assets/pedals/devi-ever-fx/love-fuzz/primary.webp`
+- BIXONIC - EXP2001 Expandora II -> `./assets/pedals/bixonic/exp2001-expandora-ii/primary.webp`
+- Backbeat Electric - Blue Blender -> `./assets/pedals/backbeat-electric/blue-blender/primary.webp`
+- Devi Ever FX - AE Aenima -> `./assets/pedals/devi-ever-fx/ae-aenima/primary.webp`
+- Devi Ever FX - Hyperion 2 -> `./assets/pedals/devi-ever-fx/hyperion-2/primary.webp`
+- Devi Ever FX - OK -> `./assets/pedals/devi-ever-fx/ok/primary.webp`
 
 ## Still external / failed
 
