@@ -159,6 +159,12 @@ function renderBuilderHeader(){
   document.title=requestedBuilder+' Builder Archive · The Dirt Archive';
   const meta=document.querySelector('meta[name="description"]');
   if(meta)meta.setAttribute('content','Browse '+requestedBuilder+' overdrive, distortion, and fuzz records in The Dirt Archive.');
+  const canonical=new URL('./builder.html',location.href);
+  canonical.searchParams.set('builder',requestedBuilder);
+  document.querySelector('link[rel="canonical"]')?.setAttribute('href',canonical.href);
+  document.querySelector('meta[property="og:url"]')?.setAttribute('content',canonical.href);
+  document.querySelector('meta[property="og:title"]')?.setAttribute('content',document.title);
+  document.querySelector('meta[property="og:description"]')?.setAttribute('content','Browse '+requestedBuilder+' overdrive, distortion, and fuzz records in The Dirt Archive.');
 }
 
 function renderNotFound(){
