@@ -93,6 +93,9 @@ jobs:
       - name: Apply current exact source leads
         run: python scripts/apply-photo-source-overrides.py
 
+      - name: Recover curated direct photos first
+        run: python scripts/cache-curated-direct-photos.py
+
       - name: Try verified direct image fallback
         shell: bash
         env:
