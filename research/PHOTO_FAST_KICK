@@ -1,2 +1,2 @@
-Finish-line photo pass — small batch — 2026-09-28T05:22:00-07:00
-Prioritize exact-model photo recovery from manufacturer pages first, then verified exact-model retailer/Reverb/database pages. Publish only confirmed local images.
+Small exact-photo pass — 2026-09-28T05:58:00-07:00
+Prioritize the oldest PHOTO_NEEDED records that already have exact-model source leads. Manufacturer pages first; verified exact-model database/retailer pages next. Archive only exact matching local images.
