@@ -1,17 +1,17 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-28T09:16:35.415183+00:00",
+  "generated_at": "2026-09-28T09:19:55.385096+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
   "counts": {
     "total": 4206,
     "researched": 4206,
-    "pictured": 3841,
-    "complete": 3841,
+    "pictured": 3846,
+    "complete": 3846,
     "research_pending": 0,
-    "deep_research_pending": 130,
-    "deep_researched": 4076,
+    "deep_research_pending": 128,
+    "deep_researched": 4078,
     "surface_ready": 4206
   },
   "next_target": {
@@ -55,13 +55,6 @@
       "pedal": "JCM900 Overdrive Pedal",
       "catalog_type": "Overdrive",
       "research_record": "./research/pedals/Marshall Amplification/JCM900 Overdrive Pedal.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Marshall Amplification",
-      "pedal": "JVM Overdrive Pedal",
-      "catalog_type": "Overdrive",
-      "research_record": "./research/pedals/Marshall Amplification/JVM Overdrive Pedal.md",
       "research_level": "surface"
     },
     {
@@ -128,13 +121,6 @@
       "research_level": "surface"
     },
     {
-      "builder": "Maxon",
-      "pedal": "SM-9Pro Super Metal Pro+",
-      "catalog_type": "Overdrive",
-      "research_record": "./research/pedals/Maxon/SM-9Pro Super Metal Pro+.md",
-      "research_level": "surface"
-    },
-    {
       "builder": "Maxon / Nisshin Onpa",
       "pedal": "OD-9",
       "catalog_type": "Overdrive",
@@ -195,6 +181,20 @@
       "pedal": "ST-9 Super Tube Screamer",
       "catalog_type": "Overdrive",
       "research_record": "./research/pedals/Maxon / Nisshin Onpa/ST-9 Super Tube Screamer.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Maxon / Nisshin Onpa",
+      "pedal": "TBO-9 True Tube Booster / Overdrive",
+      "catalog_type": "Overdrive",
+      "research_record": "./research/pedals/Maxon / Nisshin Onpa/TBO-9 True Tube Booster / Overdrive.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Maxon / Nisshin Onpa",
+      "pedal": "TOD-9 True Tube Overdrive",
+      "catalog_type": "Overdrive",
+      "research_record": "./research/pedals/Maxon / Nisshin Onpa/TOD-9 True Tube Overdrive.md",
       "research_level": "surface"
     }
   ]

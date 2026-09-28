@@ -43597,8 +43597,8 @@
       "image": "./assets/pedals/marshall-amplification/jvm-overdrive-pedal/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Marshall Amplification/JVM Overdrive Pedal.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Marshall Amplification",
@@ -44458,8 +44458,8 @@
       "image": "./assets/pedals/maxon/sm-9pro-super-metal-pro-plus/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Maxon/SM-9Pro Super Metal Pro+.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING",
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED",
       "image_source_url": "http://collarcityguitars.com/cdn/shop/products/xktsoqcklebzfw31d6vh.jpg?v=1644535851",
       "image_source_page": "https://collarcityguitars.com/products/maxon_sm9proplus_supermetalproplus"
     },
