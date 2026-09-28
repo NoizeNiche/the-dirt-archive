@@ -41,11 +41,18 @@ def main() -> None:
         and str(item.get("pedal") or "").strip()
     ]
 
+    builders = sorted({
+        str(item["company"]).strip()
+        for item in pedals
+        if str(item.get("company") or "").strip()
+    }, key=str.casefold)
+
     urls = [
         BASE,
         BASE + "methodology.html",
         BASE + "audit.html",
         BASE + "compare.html",
+        *[builder_url(builder) for builder in builders],
         *[public_url(str(item["company"]).strip(), str(item["pedal"]).strip()) for item in pedals],
     ]
 
