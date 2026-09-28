@@ -4,38 +4,37 @@
 - **Archive parent:** Supa Dirty Rooster
 - **Builder:** Stomp Under Foot
 - **Catalog type:** Fuzz
-- **Identity:** Stomp Under Foot's Supa Dirty Rooster.
+- **Identity:** Stomp Under Foot Supa Dirty Rooster fuzz.
 
 ## What this pedal is
-Stomp Under Foot's Supa Dirty Rooster is cataloged as a fuzz pedal.
+The Supa Dirty Rooster is a Stomp Under Foot fuzz documented in Effects Database and exact-model used listings. The archived model record identifies a V4-era version, while Reverb and Guitar Center listings provide exact-model product references and photographs.
 
 ## Colorways
-- No specific factory colorway information was established in the verified evidence packet.
+- Exact factory colorway sequence is not established.
+- Special finishes in used listings are treated as cosmetic unless they represent a documented material revision.
 
 ## Versions and factory options
-- The verified evidence references: v4.
-- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+- **V4:** version referenced in the surviving exact-model source set.
+- Exact control-level options are not fully preserved in the available sources.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- The archive records V4 as an identified production version.
+- No complete earlier/later revision chronology was established.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
-- **Exact transistor/device:** Unknown.
+- Exact production transistor/device information was not established in the available exact-model sources.
 
 ## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
-- **Exact part:** Unknown.
+- Exact production clipping/rectification diode information was not established in the available exact-model sources.
 
 ## Sound
-The verified evidence packet did not contain enough pedal-specific sonic description to make a more detailed sound summary without adding unsupported interpretation.
+The surviving exact-model evidence establishes the Supa Dirty Rooster as a fuzz and identifies V4 production. More detailed tonal descriptions vary across used-market references, so the archive keeps the core description focused on the exact model rather than importing claims from unrelated Stomp Under Foot pedals.
 
 ## Sources checked
-1. Stomp Under Foot Supa Dirty Rooster | Effects Database: https://www.effectsdatabase.com/model/stompunderfoot/dirtyrooster/supa
-2. Used Stomp Under Foot Supa Dirty Rooster Effect Pedal: https://www.guitarcenter.com/Used/Stomp-Under-Foot/Supa-Dirty-Rooster-Effect-Pedal-113278240.gc
-3. Stomp Under Foot SUPA DIRTY ROOSTER - Fuzz | Reverb: https://reverb.com/item/92369867-stomp-under-foot-supa-dirty-rooster-fuzz
-4. Facebook: https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fstompunderfoot%2Fposts%2Famazing-supa-dirty-rooster-demo-by-gearmanndudehttpyoutubem9zyw6hxapi%2F671315226275316%2F
-5. https://www.pinterest.com/pin/stomp-under-foot-supa-dirty-rooster-new-old-stock--18084835986747109/: https://www.pinterest.com/pin/stomp-under-foot-supa-dirty-rooster-new-old-stock--18084835986747109/
+1. Effects Database exact-model record: https://www.effectsdatabase.com/model/stompunderfoot/dirtyrooster/supa
+2. Exact-model Reverb listing: https://reverb.com/item/92369867-stomp-under-foot-supa-dirty-rooster-fuzz
+3. Guitar Center used exact-model listing: https://www.guitarcenter.com/Used/Stomp-Under-Foot/Supa-Dirty-Rooster-Effect-Pedal-113278240.gc
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Exact-model photo lead:** Reverb and Guitar Center exact-model listings.
+- **Archive status:** Local photo recovery is handled separately; only a verified local asset counts as pictured.
