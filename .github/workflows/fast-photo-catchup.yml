@@ -123,7 +123,7 @@ jobs:
                   "image": image,
                   "image_source_url": entry.get("image_source_url"),
                   "image_source_page": entry.get("image_source_page"),
-                  "imageFile": image_path.with_suffix(".source").as_posix(),
+                  "imageFile": image_path.as_posix(),
                   "verification": {
                       "identityVerified": True,
                       "method": "verified_source_page",
