@@ -135,7 +135,11 @@ jobs:
               )
               recovered += 1
 
-          print(f"Packaged {recovered} recovered pedal sources.")
+          source_files = list((root / "assets/pedals").rglob("*.source"))
+          result_files = list((root / "artifact" / "recoveries").glob("*/photo-recovery-result.json"))
+          if source_files and not result_files:
+              raise SystemExit("Photo recovery produced .source assets but packaged zero recovery results.")
+          print(f"Packaged {recovered} recovered pedal sources; source_files={len(source_files)} result_files={len(result_files)}.")
           PY
 
       - name: Upload recovery artifact
