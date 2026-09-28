@@ -23,6 +23,12 @@ A repository-level asset audit also surfaced a large number of exact duplicate i
 
 The current project also has separate Builder Directory, Builder Archive, Identify a Pedal, Corrections, Workbench, comparison, Grid/Table browse, URL-sharing, and photo-content audit layers.
 
+## Phase 1A - Current photo findings
+
+The September 28, 2026 full-library audit is now sharded into 24 parallel scans. Each scan checks the local photo payload, dimensions, known blocked hashes, source-policy violations, and edge-zone OCR for high-confidence donation/platform overlays.
+
+Automatic quarantine handles objective failures. Ambiguous dark/low-detail imagery enters a review-only queue.
+
 ## Phase 1 - Photo Trust Gate (highest priority)
 
 ### A. Never publish a known non-product asset
