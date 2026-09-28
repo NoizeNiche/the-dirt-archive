@@ -408,6 +408,17 @@ def main():
             raise SystemExit(f"Operational queue hardening is missing: {marker}")
     if "build-pedal-facets.py" not in deploy_text:
         raise SystemExit("Deployment workflow is not generating the public technical facet index.")
+    facet_builder_text = FACET_BUILDER.read_text(encoding="utf-8")
+    index_viewer_text = INDEX_JS.read_text(encoding="utf-8")
+    home_text = HOME.read_text(encoding="utf-8")
+    for marker, source in (
+        ("POWER_OPTIONS", facet_builder_text),
+        ('"power": list(POWER_OPTIONS)', facet_builder_text),
+        ("selectedPowers", index_viewer_text),
+        ("powerFacetOptions", home_text),
+    ):
+        if marker not in source:
+            raise SystemExit(f"Power facet integration is incomplete: {marker}")
     if "build-pedal-facets.py" not in research_workflow:
         raise SystemExit("Research worker publication is not refreshing the technical facet index.")
     if "build-pedal-facets.py" not in synth_workflow:
