@@ -402,6 +402,9 @@ def main():
         ("cancel-in-progress: false", cache_workflow),
         ("dirt-research-synthesis", synth_workflow),
         ("workflow_dispatch:", synth_workflow),
+        ("timeout 30s env GIT_TERMINAL_PROMPT=0 git push", fast_photo_workflow),
+        ("timeout 30s env GIT_TERMINAL_PROMPT=0 git push", cache_workflow),
+        ("timeout 30s env GIT_TERMINAL_PROMPT=0 git push", parallel_photo_workflow),
     )
     for marker, source in required_queue_hardening:
         if marker not in source:
