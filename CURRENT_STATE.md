@@ -12,6 +12,20 @@ The research queue is generated from the canonical catalog and tracker; do not h
 Last refreshed: 2026-09-28T21:05:15.407464+00:00
 <!-- AUTO:RESEARCH_PHASE_END -->
 
+## Collector product-hardening checkpoint - September 28, 2026
+
+The archive's catalog and research lanes remain complete, with exact-photo recovery still the active production gate. A collector-oriented workbench has now been added without introducing accounts, ratings, rankings, or marketplace mechanics.
+
+### Changes
+- Added device-local Saved records for exact Builder + Pedal identities.
+- Added device-local exact-record comparison for up to four public records.
+- Added comparison fields for dirt type, version label, explicitly documented transistor/clipping/power facets, research level, local-photo state, version-family relationship, and representative demo when documented.
+- Preserved selection order during comparison rather than re-sorting to catalog order.
+- Added deployment and structural-validation coverage for the new comparison page.
+
+The workbench is a utility layer over the canonical archive, not a second source of truth. It intentionally avoids popularity scores, purchase recommendations, seller rankings, or market-value judgments.
+
+
 ## Superseded checkpoint
 This older checkpoint is retained for historical reference only. It is not the current catalog state.
 
