@@ -312,6 +312,7 @@ jobs:
               published_sha="$(git rev-parse HEAD)"
               gh api --method POST "repos/$GITHUB_REPOSITORY/actions/workflows/deploy-pages.yml/dispatches" -f ref=main
               echo "Pages deployment dispatched for $published_sha; photo recovery lane does not wait on deployment."
+              exit 0
             fi
             echo "Parallel photo push race; rehydrating all recovery artifacts on latest main (attempt $attempt/5)."
             git fetch origin main
