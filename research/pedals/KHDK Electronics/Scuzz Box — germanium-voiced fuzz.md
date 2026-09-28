@@ -1,23 +1,33 @@
 # KHDK Electronics — Scuzz Box — germanium-voiced fuzz
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Scuzz Box — germanium-voiced fuzz
 - **Builder:** KHDK Electronics
-- **Pedal:** Scuzz Box — germanium-voiced fuzz
 - **Catalog type:** Fuzz
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Research level:** Deep
+- **Deep research status:** Verified
+- **Identity:** Exact-model sources identify KHDK Electronics's Scuzz Box — germanium-voiced fuzz.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Scuzz Box — germanium-voiced fuzz** by **KHDK Electronics** as a **Fuzz** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Scuzz Box is a KHDK Electronics fuzz pedal documented by the manufacturer, Reverb, Effects Database, and independent dealer references. [1][2][3][4]
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Versions and factory options
+- No complete factory revision chronology was established in this pass.
+- No additional version or finish claims are inferred beyond the exact-model source set.
+
+## Transistor
+- **Exact production transistor/device:** Unknown.
+
+## Diode
+- **Exact clipping/rectifier diode:** Unknown.
+
+## Sound
+The verified sources identify Scuzz Box as a fuzz pedal. The archive does not infer a specific transistor part from the 'germanium-voiced' descriptor alone. [1][3]
+
+## Sources checked
+1. KHDK Electronics — Scuzz Box: https://www.khdkelectronics.com/products/detail/scuzz-box-fuzz/
+2. Reverb — KHDK Scuzz Box: https://reverb.com/item/31872244-khdk-electronics-scuzz-box-fuzz
+3. Effects Database — KHDK Scuzz Box: https://www.effectsdatabase.com/model/khdk/scuzzbox
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately.
