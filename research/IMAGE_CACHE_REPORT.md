@@ -1,11 +1,11 @@
 # Pedal Image Cache Report
 
-- Cached in this run: **10**
+- Cached in this run: **7**
 - Staged browser photos converted: **0**
 - Local images retained/reorganized: **0**
 - Download failures: **1**
-- Remaining tracker photo backlog: **415**
-- Researched, photo pending: **415**
+- Remaining tracker photo backlog: **408**
+- Researched, photo pending: **408**
 - External source images awaiting localization: **0**
 
 ## Storage layout
@@ -16,16 +16,13 @@
 
 ## Newly cached
 
-- Add+ Pedals - Der Fuzzer -> `./assets/pedals/add-pedals/der-fuzzer/primary.webp`
-- Ashdown Engineering - AGM PRO-FX Vintage Fuzz -> `./assets/pedals/ashdown-engineering/agm-pro-fx-vintage-fuzz/primary.webp`
-- Ashdown Engineering - OriginAL Norman Watt-Roy Pre-DI -> `./assets/pedals/ashdown-engineering/original-norman-watt-roy-pre-di/primary.webp`
-- BOSS - DS-1-4A 40th Anniversary Distortion -> `./assets/pedals/boss/ds-1-4a-40th-anniversary-distortion/primary.webp`
-- BOSS - HM-3 Hyper Metal -> `./assets/pedals/boss/hm-3-hyper-metal/primary.webp`
-- BOSS - XT-2 Xtortion -> `./assets/pedals/boss/xt-2-xtortion/primary.webp`
-- Bad Cat - Burmese Drive - Dual Vintage Overdrive -> `./assets/pedals/bad-cat/burmese-drive-dual-vintage-overdrive/primary.webp`
-- Darkglass Electronics - Kaamos -> `./assets/pedals/darkglass-electronics/kaamos/primary.webp`
-- Darkglass Electronics - Microtubes Vintage -> `./assets/pedals/darkglass-electronics/microtubes-vintage/primary.webp`
-- Devi Ever FX - Devistortion -> `./assets/pedals/devi-ever-fx/devistortion/primary.webp`
+- BJFE / BJF Electronics - Sun Burst Fuzz -> `./assets/pedals/bjfe-bjf-electronics/sun-burst-fuzz/primary.webp`
+- Carlsbro - Suzz Wah-Wah -> `./assets/pedals/carlsbro/suzz-wah-wah/primary.webp`
+- Darkglass Electronics - Microtubes B7K Analog Bass Preamp -> `./assets/pedals/darkglass-electronics/microtubes-b7k-analog-bass-preamp/primary.webp`
+- Darkglass Electronics - Microtubes X Ultra -> `./assets/pedals/darkglass-electronics/microtubes-x-ultra/primary.webp`
+- Devi Ever FX - BS -> `./assets/pedals/devi-ever-fx/bs/primary.webp`
+- Devi Ever FX - Bi-Fuzz -> `./assets/pedals/devi-ever-fx/bi-fuzz/primary.webp`
+- Devi Ever FX - Devine Hammer -> `./assets/pedals/devi-ever-fx/devine-hammer/primary.webp`
 
 ## Still external / failed
 

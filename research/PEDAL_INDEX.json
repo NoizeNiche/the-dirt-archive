@@ -12499,11 +12499,13 @@
       "types": [
         "Fuzz"
       ],
-      "image": "",
+      "image": "./assets/pedals/bjfe-bjf-electronics/sun-burst-fuzz/primary.webp",
       "source_page": "https://www.bjornjuhl.com/forum/viewtopic.php-f%3D6%26t%3D1555.html",
       "research_record": "./research/pedals/BJFE / BJF Electronics/Sun Burst Fuzz.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "http://i270.photobucket.com/albums/jj112/DonnerBox/bjf1.jpg",
+      "image_source_page": "https://www.bjornjuhl.com/forum/viewtopic.php-f%3D6%26t%3D1555.html"
     },
     {
       "company": "Black Arts Toneworks",
@@ -20285,11 +20287,13 @@
         "Fuzz",
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/carlsbro/suzz-wah-wah/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/carlsbro/alu",
       "research_record": "./research/pedals/Carlsbro/Suzz Wah-Wah.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://files.effectsdatabase.com/graphics/google-preferred-source-sq.png",
+      "image_source_page": "https://www.effectsdatabase.com/model/carlsbro/alu"
     },
     {
       "company": "Carlsbro",
@@ -31247,11 +31251,13 @@
       "types": [
         "Overdrive"
       ],
-      "image": "",
+      "image": "./assets/pedals/darkglass-electronics/microtubes-b7k-analog-bass-preamp/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/darkglass/microtubes/b7k",
       "research_record": "./research/pedals/Darkglass Electronics/Microtubes B7K Analog Bass Preamp.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://rvb-img.reverb.com/i/s--H3NptFaZ--/gravity=auto,quality=medium-low,width=200,height=200,format=jpeg/dudsvkwl9jiqxz4rkhcu.png",
+      "image_source_page": "https://reverb.com/p/darkglass-electronics-microtubes-b7k-analog-bass-preamp"
     },
     {
       "company": "Darkglass Electronics",
@@ -31325,11 +31331,13 @@
       "types": [
         "Distortion"
       ],
-      "image": "",
+      "image": "./assets/pedals/darkglass-electronics/microtubes-x-ultra/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/darkglass/microtubes/xultra",
       "research_record": "./research/pedals/Darkglass Electronics/Microtubes X Ultra.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://files.effectsdatabase.com/gear/thumbs/darkglass_microtubes-x_001.jpg",
+      "image_source_page": "https://www.effectsdatabase.com/model/darkglass/microtubes/xultra"
     },
     {
       "company": "Darkglass Electronics",
@@ -32052,11 +32060,13 @@
       "types": [
         "Fuzz"
       ],
-      "image": "",
+      "image": "./assets/pedals/devi-ever-fx/bi-fuzz/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/deviever",
       "research_record": "./research/pedals/Devi Ever FX/Bi-Fuzz.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://files.effectsdatabase.com/brands/pics/deviever_001.jpg",
+      "image_source_page": "https://www.effectsdatabase.com/model/deviever"
     },
     {
       "company": "Devi Ever FX",
@@ -32100,11 +32110,13 @@
       "types": [
         "Fuzz"
       ],
-      "image": "",
+      "image": "./assets/pedals/devi-ever-fx/bs/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/deviever",
       "research_record": "./research/pedals/Devi Ever FX/BS.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://www.fuzzgoddess.com/img/workbench-2003.webp?v=mt23e385",
+      "image_source_page": "https://www.fuzzgoddess.com/about/"
     },
     {
       "company": "Devi Ever FX",
@@ -32149,11 +32161,13 @@
         "Distortion",
         "Fuzz"
       ],
-      "image": "",
+      "image": "./assets/pedals/devi-ever-fx/devine-hammer/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/deviever",
       "research_record": "./research/pedals/Devi Ever FX/Devine Hammer.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://files.effectsdatabase.com/brands/pics/deviever_001.jpg",
+      "image_source_page": "https://www.effectsdatabase.com/model/deviever"
     },
     {
       "company": "Devi Ever FX",
