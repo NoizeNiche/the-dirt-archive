@@ -3,41 +3,53 @@
 ## PRP identity
 - **Archive parent:** Deuce Coupe
 - **Builder:** Mr. Black
-- **Catalog type:** Distortion / Overdrive
-- **Identity:** Mr. Black's Deuce Coupe.
+- **Catalog type:** Overdrive
+- **Research level:** Deep
+- **Deep research status:** Verified
+- **Identity:** Mr. Black Deuce Coupe, current production design derived from the original 2011 release.
+
+## Deep research verification
+- **Exact-model evidence:** Verified against Mr. Black's current Deuce Coupe product page and independent exact-model records.
 
 ## What this pedal is
-The Deuce Coupe is truly an instrument unto itself, ardently finding its home as an extension of your guitar’s natural expression while seamlessly integrating with your amplifier’s unique voice.
+Mr. Black states that the Deuce Coupe was originally released in late 2011 and has since been reborn as a current production model with the same core dynamic overdrive concept plus an external Ultra Boost control and two soft-touch footswitches. [1]
 
-## Colorways
-- Black Videos Where to Buy Shipping, Warranty & Returns Service & Repairs Shipping/Warranty/Returns Shipping, Warranty and Returns Service & Repairs Retailers Straight Jive Service & Repairs The Black List Contact Account Item added to cart.
-- Black Deuce Coupe returns to deliver the same incredibly dynamic, naturally responsive overdrive and boost that garnered the reverence, admiration, and esteem that the original Deuce Coupe earned over a decade ago.
-- Black Deuce Coupe - High Output Electric Guitar Pickups for Modern Metal Sound Storewide 50% Discount!
+## Circuit / architecture
+The builder describes the current Deuce Coupe as a 100% analog, high-headroom signal path with an internal **+/-9V split-rail supply**. [1]
+The current design's Drive channel provides up to **+40.8dB** gain, while the Ultra channel reaches up to **+56.5dB** according to the manufacturer. [1]
 
-## Versions and factory options
-- No distinct factory revision was established in the verified evidence packet.
+## Controls and switching
+- Three primary overdrive controls. [1]
+- **Ultra Boost:** externally adjustable boost control. [1]
+- **Drive / Ultra:** two footswitchable channels. [1]
+- **Soft-touch footswitches:** current production. [1]
+- **Click-Less true bypass:** current production. [1]
 
-## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+The exact names of the three primary control knobs are not fully reproduced in the retained manufacturer excerpt.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
-- **Exact transistor/device:** Unknown.
+- **Exact production transistor/device:** Unknown.
 
 ## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
-- **Exact part:** Unknown.
+- **Exact production clipping diode:** Unknown.
+
+## Power and technical specification
+- **Internal supply:** +/-9V split rail. [1]
+- **Bypass:** click-less true bypass. [1]
+- Full current/input/output impedance figures were not established in the retained manufacturer excerpt.
+
+## Version history
+- **Original release:** late 2011. [1]
+- **Current reborn version:** external Ultra Boost control, two soft-touch footswitches, and modernized click-less true-bypass switching. [1]
 
 ## Sound
-Deuce Coupe Regular price $199.95 View CAT Distortion Regular price $219.95 Sale price $149.95 Sale View GilaMondo Throwback Special Regular price $219.95 Sale price $199.95 Sale View Heaven's Gate Regular price $199.95 View F.A.Q.
-Close Close Buy any pedal and add a Vintage Overdrive for $50.00!!
-Now boasting two soft-touch foot-switches, external Ultra Boost control, and modernized Click-Less™ true-bypass switching, the Mr.
+Mr. Black characterizes the Deuce Coupe around clear, open, natural, responsive, high-headroom overdrive and strong dynamic interaction with guitar volume and picking. [1]
 
 ## Sources checked
-1. Deuce Coupe &ndash; Mr. Black: https://www.mrblackpedals.com/products/deuce-coupe
-2. Mr. Black Deuce Coupe - Reverb: https://reverb.com/p/mr-black-deuce-coupe
-3. Mr. Black Deuce Coupe — Overdrive Pedal | Equipboard: https://equipboard.com/items/mr-black-deuce-coupe
-4. Mr. Black Deuce Coupe - High Output Electric Guitar Pickups for Modern Metal Sound: https://www.gtrpupelec.com/product/mr-black-deuce-coupe/
+1. **Mr. Black — Deuce Coupe:** https://www.mrblackpedals.com/products/deuce-coupe
+2. **Reverb — Mr. Black Deuce Coupe:** https://reverb.com/p/mr-black-deuce-coupe
+3. **PedalFilter / other exact-model records retained in the research packet.**
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately.
+- Exact-model photo provenance remains governed by the archive's photo identity gate.
