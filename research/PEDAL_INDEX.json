@@ -9556,11 +9556,10 @@
       "types": [
         "Fuzz"
       ],
-      "image": "./assets/pedals/behringer/uz400-ultra-fuzz/primary.webp",
+      "image": null,
       "source_page": "https://www.behringer.com/en/products/0709-ACL",
       "research_record": "./research/pedals/Behringer/UZ400 Ultra Fuzz.md",
       "image_source_page": "https://www.behringer.com/en/products/0709-ACL",
-      "image_source_url": "https://cdn-media.empowertribe.com/44ade04164b04517a49757f6d17e1f02/Image_BE_0709-ACL_UZ400_Web-Banner_Mobile_2023-09-13_Rev.0.jpg",
       "research_level": "deep",
       "deep_research_status": "VERIFIED"
     },
@@ -34593,10 +34592,9 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": "./assets/pedals/earthquaker-devices/gary/primary.webp",
+      "image": null,
       "source_page": null,
       "research_record": "./research/pedals/EarthQuaker Devices/Gary.md",
-      "image_source_url": "https://images.squarespace-cdn.com/content/v1/57cebe2c03596e075fca5f24/1504035677294-A4WOO6UFR7G92HZBNAOV/EarthQuaker-Logo.jpg?format=1500w",
       "image_source_page": "https://www.earthquakerdevices.com/devices",
       "research_level": "deep",
       "deep_research_status": "VERIFIED"
@@ -34699,10 +34697,9 @@
       "types": [
         "Fuzz"
       ],
-      "image": "./assets/pedals/earthquaker-devices/hoof-reaper/primary.webp",
+      "image": null,
       "source_page": null,
       "research_record": "./research/pedals/EarthQuaker Devices/Hoof Reaper.md",
-      "image_source_url": "https://images.squarespace-cdn.com/content/v1/57cebe2c03596e075fca5f24/1504035677294-A4WOO6UFR7G92HZBNAOV/EarthQuaker-Logo.jpg?format=1500w",
       "image_source_page": "https://www.earthquakerdevices.com/legacy",
       "research_level": "deep",
       "deep_research_status": "VERIFIED"
@@ -34737,10 +34734,9 @@
       "types": [
         "Overdrive"
       ],
-      "image": "./assets/pedals/earthquaker-devices/palisades/primary.webp",
+      "image": null,
       "source_page": null,
       "research_record": "./research/pedals/EarthQuaker Devices/Palisades.md",
-      "image_source_url": "https://images.squarespace-cdn.com/content/v1/57cebe2c03596e075fca5f24/1504035677294-A4WOO6UFR7G92HZBNAOV/EarthQuaker-Logo.jpg?format=1500w",
       "image_source_page": "https://www.earthquakerdevices.com/legacy",
       "research_level": "deep",
       "deep_research_status": "VERIFIED"
@@ -34764,10 +34760,9 @@
       "types": [
         "Fuzz"
       ],
-      "image": "./assets/pedals/earthquaker-devices/park-fuzz-sound/primary.webp",
+      "image": null,
       "source_page": null,
       "research_record": "./research/pedals/EarthQuaker Devices/Park Fuzz Sound.md",
-      "image_source_url": "https://images.squarespace-cdn.com/content/v1/57cebe2c03596e075fca5f24/1504035677294-A4WOO6UFR7G92HZBNAOV/EarthQuaker-Logo.jpg?format=1500w",
       "image_source_page": "https://www.earthquakerdevices.com/legacy",
       "research_level": "deep",
       "deep_research_status": "VERIFIED"
@@ -34790,10 +34785,9 @@
       "types": [
         "Overdrive"
       ],
-      "image": "./assets/pedals/earthquaker-devices/plumes/primary.webp",
+      "image": null,
       "source_page": null,
       "research_record": "./research/pedals/EarthQuaker Devices/Plumes.md",
-      "image_source_url": "https://images.squarespace-cdn.com/content/v1/57cebe2c03596e075fca5f24/1504035677294-A4WOO6UFR7G92HZBNAOV/EarthQuaker-Logo.jpg?format=1500w",
       "image_source_page": "https://www.earthquakerdevices.com/devices",
       "research_level": "deep",
       "deep_research_status": "VERIFIED"
