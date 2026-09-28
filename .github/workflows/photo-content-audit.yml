@@ -33,6 +33,10 @@ jobs:
           sudo apt-get install -y tesseract-ocr
           python -m pip install --disable-pip-version-check pillow pytesseract
 
+      - name: Run duplicate photo audit
+        run: |
+          python scripts/audit-photo-duplicates.py --output /tmp/photo-duplicate-review.csv
+
       - name: Run photo content audit
         env:
           PHOTO_CONTENT_AUDIT_MODE: ${{ github.event_name == 'schedule' && 'all' || 'auto' }}
@@ -44,5 +48,7 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: photo-content-audit
-          path: /tmp/photo-content-audit.csv
+          path: |
+            /tmp/photo-content-audit.csv
+            /tmp/photo-duplicate-review.csv
           retention-days: 14
