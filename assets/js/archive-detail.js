@@ -143,12 +143,15 @@ function renderMarkdown(md){
 
 function showPhoto(item,label){
   const box=$('photoBox');
-  const fallbackLabel='';
+  const identityName=label||item?.pedal||'Pedal';
+  const identityBuilder=item?.company||'Builder not recorded';
+  const fallbackMarkup='<span class="photoFallback"><span class="photoFallbackEyebrow">Exact photo not archived</span><strong>'+esc(identityName)+'</strong><span>'+esc(identityBuilder)+'</span></span>';
   if(item && item.image){
     box.classList.add('photoHasImage');
-    box.innerHTML='<img class="photoImage" src="'+esc(item.image)+'" alt="'+esc(item.company+' '+item.pedal+(label?' '+label:''))+'" decoding="async" referrerpolicy="no-referrer"><span class="photoFallback" hidden>'+esc(fallbackLabel)+'</span>';
+    box.innerHTML='<img class="photoImage" src="'+esc(item.image)+'" alt="'+esc(item.company+' '+item.pedal+(label?' '+label:''))+'" decoding="async" referrerpolicy="no-referrer">'+fallbackMarkup;
     const image=box.querySelector('.photoImage');
     const fallback=box.querySelector('.photoFallback');
+    fallback.hidden=true;
     image.addEventListener('error',()=>{
       image.hidden=true;
       fallback.hidden=false;
@@ -156,7 +159,7 @@ function showPhoto(item,label){
     });
   }else{
     box.classList.remove('photoHasImage');
-    box.innerHTML='<span class="photoFallback" aria-hidden="true"></span>';
+    box.innerHTML=fallbackMarkup;
   }
 }
 
