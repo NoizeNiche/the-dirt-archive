@@ -12,6 +12,7 @@ const INDEX = path.join(ROOT, 'research/PEDAL_INDEX.json');
 const MANIFEST = path.join(ROOT, 'research/pedals/PEDAL_IMAGES.json');
 const TRACKER = path.join(ROOT, 'research/PRP_TRACKER.csv');
 const PHOTO_REVIEW_QUEUE = path.join(ROOT, 'research/PHOTO_REVIEW_QUEUE.csv');
+const PHOTO_RECOVERY_MANIFEST = path.join(ROOT, 'photo-recovery-results.json');
 const PEDAL_IDENTITY_ALIASES = path.join(ROOT, 'research/PEDAL_IDENTITY_ALIASES.csv');
 const LIMIT = Math.max(1, Number(process.env.PHOTO_BROWSER_CACHE_LIMIT || 90));
 const CONCURRENCY = Math.max(1, Number(process.env.PHOTO_BROWSER_CACHE_CONCURRENCY || 8));
@@ -4866,6 +4867,7 @@ function imageBytesLookComplete(bytes, contentType = '') {
   let recovered = 0;
   let attempted = 0;
   const failures = [];
+  const recoveredRecords = [];
 
   for (let cursor = 0; cursor < candidates.length; cursor += CONCURRENCY) {
     const batch = candidates.slice(cursor, cursor + CONCURRENCY);
@@ -4929,11 +4931,24 @@ function imageBytesLookComplete(bytes, contentType = '') {
         m.image_source_url = result.result.imageUrl;
         if (result.result.sourcePage) m.image_source_page = result.result.sourcePage;
       }
+      recoveredRecords.push({
+        builder: entry.company || entry.builder || '',
+        pedal: entry.pedal || '',
+        image: entry.image || '',
+        image_source_url: result.result.imageUrl || '',
+        image_source_page: result.result.sourcePage || null,
+        imageFile: result.result.imageFile || '',
+        verification: result.result.verification || {}
+      });
     }
   }
 
   fs.writeFileSync(INDEX, JSON.stringify(catalog, null, 2) + '\n');
   fs.writeFileSync(MANIFEST, JSON.stringify(manifest, null, 2) + '\n');
+  fs.writeFileSync(
+    PHOTO_RECOVERY_MANIFEST,
+    JSON.stringify({ version: 1, recovered: recoveredRecords }, null, 2) + '\n'
+  );
   writeReviewQueue([...reviewByKey.values()].sort((a, b) =>
     (Number(a.Attempts) || 0) - (Number(b.Attempts) || 0) ||
     String(a.Builder).localeCompare(String(b.Builder)) ||
