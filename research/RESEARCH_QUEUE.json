@@ -1,34 +1,27 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-28T04:05:17.061297+00:00",
+  "generated_at": "2026-09-28T04:11:38.061374+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
   "counts": {
     "total": 4206,
-    "researched": 3739,
-    "pictured": 3628,
-    "complete": 3628,
+    "researched": 4193,
+    "pictured": 3639,
+    "complete": 3639,
     "research_pending": 0,
-    "deep_research_pending": 211,
-    "deep_researched": 3995,
+    "deep_research_pending": 210,
+    "deep_researched": 3996,
     "surface_ready": 4206
   },
   "next_target": {
-    "builder": "DOD Electronics",
-    "pedal": "Mystic Blues Overdrive (FX102)",
+    "builder": "Fjord Fuzz",
+    "pedal": "Bjørn",
     "catalog_type": "",
-    "research_record": "./research/pedals/DOD Electronics/Mystic Blues Overdrive (FX102).md",
+    "research_record": "./research/pedals/Fjord Fuzz/Bjørn.md",
     "research_level": "surface"
   },
   "working_set": [
-    {
-      "builder": "DOD Electronics",
-      "pedal": "Mystic Blues Overdrive (FX102)",
-      "catalog_type": "",
-      "research_record": "./research/pedals/DOD Electronics/Mystic Blues Overdrive (FX102).md",
-      "research_level": "surface"
-    },
     {
       "builder": "Fjord Fuzz",
       "pedal": "Bjørn",
@@ -195,6 +188,13 @@
       "pedal": "Dark Side Fuzz/Phaser",
       "catalog_type": "",
       "research_record": "./research/pedals/Keeley Electronics/Dark Side Fuzz/Phaser.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Keeley Electronics",
+      "pedal": "Super Phat Mod Mini",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Keeley Electronics/Super Phat Mod Mini.md",
       "research_level": "surface"
     }
   ]
