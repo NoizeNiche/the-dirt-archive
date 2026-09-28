@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-28T09:38:01.663237+00:00",
+  "generated_at": "2026-09-28T09:39:08.514896+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,8 +10,8 @@
     "pictured": 3854,
     "complete": 3854,
     "research_pending": 0,
-    "deep_research_pending": 103,
-    "deep_researched": 4103,
+    "deep_research_pending": 102,
+    "deep_researched": 4104,
     "surface_ready": 4206
   },
   "next_target": {
@@ -83,13 +83,6 @@
       "pedal": "TOD-9 True Tube Overdrive",
       "catalog_type": "Overdrive",
       "research_record": "./research/pedals/Maxon / Nisshin Onpa/TOD-9 True Tube Overdrive.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "MI Audio / MI Effects",
-      "pedal": "Classic Distortion",
-      "catalog_type": "Distortion",
-      "research_record": "./research/pedals/MI Audio / MI Effects/Classic Distortion.md",
       "research_level": "surface"
     },
     {
@@ -195,6 +188,13 @@
       "pedal": "Grey Faze",
       "catalog_type": "Fuzz",
       "research_record": "./research/pedals/MOOER Audio / MOOER/Grey Faze.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "MOOER Audio / MOOER",
+      "pedal": "Hustle Drive",
+      "catalog_type": "Distortion",
+      "research_record": "./research/pedals/MOOER Audio / MOOER/Hustle Drive.md",
       "research_level": "surface"
     }
   ]
