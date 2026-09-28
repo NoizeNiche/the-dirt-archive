@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-28T11:35:09.868623+00:00",
+  "generated_at": "2026-09-28T11:36:24.700518+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,8 +10,8 @@
     "pictured": 3930,
     "complete": 3930,
     "research_pending": 0,
-    "deep_research_pending": 28,
-    "deep_researched": 4178,
+    "deep_research_pending": 23,
+    "deep_researched": 4183,
     "surface_ready": 4206
   },
   "next_target": {
@@ -79,34 +79,6 @@
       "research_level": "surface"
     },
     {
-      "builder": "Visual Sound / Truetone",
-      "pedal": "Son of Hyde",
-      "catalog_type": "Distortion",
-      "research_record": "./research/pedals/Visual Sound / Truetone/Son of Hyde.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Visual Sound / Truetone",
-      "pedal": "V2 Jekyll & Hyde",
-      "catalog_type": "Distortion / Overdrive",
-      "research_record": "./research/pedals/Visual Sound / Truetone/V2 Jekyll & Hyde.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Walrus Audio",
-      "pedal": "Ages Five-State Overdrive — Overdrive",
-      "catalog_type": "Distortion / Fuzz",
-      "research_record": "./research/pedals/Walrus Audio/Ages Five-State Overdrive — Overdrive.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Walrus Audio",
-      "pedal": "Eons Five-State Fuzz — Fuzz",
-      "catalog_type": "Distortion / Overdrive",
-      "research_record": "./research/pedals/Walrus Audio/Eons Five-State Fuzz — Fuzz.md",
-      "research_level": "surface"
-    },
-    {
       "builder": "Vemuram",
       "pedal": "Myriad — fuzz / hybrid fuzz + loop identity",
       "catalog_type": "Fuzz",
@@ -139,13 +111,6 @@
       "pedal": "Driven-Parallel Overdrive",
       "catalog_type": "Overdrive",
       "research_record": "./research/pedals/Mystic Effects Co/Driven-Parallel Overdrive.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Visual Sound / Truetone",
-      "pedal": "Angry Fuzz",
-      "catalog_type": "Fuzz",
-      "research_record": "./research/pedals/Visual Sound / Truetone/Angry Fuzz.md",
       "research_level": "surface"
     },
     {
@@ -195,6 +160,27 @@
       "pedal": "Red Llama 3.0",
       "catalog_type": "Overdrive",
       "research_record": "./research/pedals/Way Huge/Red Llama 3.0.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "WMD Devices",
+      "pedal": "Geiger Counter Pro",
+      "catalog_type": "Distortion",
+      "research_record": "./research/pedals/WMD Devices/Geiger Counter Pro.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Xotic Effects",
+      "pedal": "BB Preamp V1.5 — Boost / Overdrive",
+      "catalog_type": "Overdrive",
+      "research_record": "./research/pedals/Xotic Effects/BB Preamp V1.5 — Boost / Overdrive.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Xotic Effects",
+      "pedal": "Soul Driven — Mid-boost Overdrive",
+      "catalog_type": "Overdrive",
+      "research_record": "./research/pedals/Xotic Effects/Soul Driven — Mid-boost Overdrive.md",
       "research_level": "surface"
     }
   ]
