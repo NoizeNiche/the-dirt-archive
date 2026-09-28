@@ -26485,13 +26485,6 @@
     "research_record": "./research/pedals/Smallsound/Bigsound/Mini.md"
   },
   {
-    "builder": "Smallsound/Bigsound",
-    "pedal": "Year of the Rat",
-    "image": "./assets/pedals/smallsound-bigsound/year-of-the-rat/primary.webp",
-    "source_page": null,
-    "research_record": "./research/pedals/Smallsound/Bigsound/Year of the Rat.md"
-  },
-  {
     "builder": "SolidGoldFX",
     "pedal": "76 MKII",
     "image": "./assets/pedals/solidgoldfx/76-mkii/primary.webp",

@@ -1,34 +1,27 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-28T12:28:22.811274+00:00",
+  "generated_at": "2026-09-28T12:29:25.688581+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
   "counts": {
-    "total": 4206,
-    "researched": 4206,
-    "pictured": 3998,
-    "complete": 3998,
+    "total": 4205,
+    "researched": 4205,
+    "pictured": 3997,
+    "complete": 3997,
     "research_pending": 0,
-    "deep_research_pending": 2,
+    "deep_research_pending": 1,
     "deep_researched": 4204,
-    "surface_ready": 4206
+    "surface_ready": 4205
   },
   "next_target": {
-    "builder": "Smallsound/Bigsound",
-    "pedal": "Year of the Rat",
-    "catalog_type": "Fuzz",
-    "research_record": "./research/pedals/Smallsound/Bigsound/Year of the Rat.md",
+    "builder": "JAM Pedals",
+    "pedal": "Tiny Pond?",
+    "catalog_type": "Distortion / Overdrive",
+    "research_record": "./research/pedals/JAM Pedals/Tiny Pond?.md",
     "research_level": "surface"
   },
   "working_set": [
-    {
-      "builder": "Smallsound/Bigsound",
-      "pedal": "Year of the Rat",
-      "catalog_type": "Fuzz",
-      "research_record": "./research/pedals/Smallsound/Bigsound/Year of the Rat.md",
-      "research_level": "surface"
-    },
     {
       "builder": "JAM Pedals",
       "pedal": "Tiny Pond?",
