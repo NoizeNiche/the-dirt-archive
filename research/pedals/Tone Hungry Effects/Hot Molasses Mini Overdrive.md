@@ -1,23 +1,36 @@
 # Tone Hungry Effects — Hot Molasses Mini Overdrive
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Hot Molasses Mini Overdrive
 - **Builder:** Tone Hungry Effects
-- **Pedal:** Hot Molasses Mini Overdrive
 - **Catalog type:** Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Tone Hungry Effects mini Hot Molasses Overdrive, also described in contemporary builder coverage as a Fuzz Drive.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Hot Molasses Mini Overdrive** by **Tone Hungry Effects** as a **Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+The Hot Molasses Mini Overdrive is a compact overdrive from Canadian boutique builder Tone Hungry Effects. Guitar Pedal X's contemporary Canadian-pedal directory identifies it specifically as the builder's mini Hot Molasses Overdrive and places it alongside the company's other boutique fuzz and overdrive designs.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No complete factory colorway sequence established from the surviving source reviewed.
+
+## Versions and factory options
+- **Mini Hot Molasses Overdrive:** exact cataloged model.
+- No distinct numbered factory revision established from the source reviewed.
+
+## Version changes
+- No documented production revision history established.
+
+## Transistor
+- **Exact production transistor/device:** Not established in the available source.
+
+## Diode
+- **Exact clipping/rectification diode:** Not established in the available source.
+
+## Sound
+Contemporary builder coverage places the Hot Molasses in Tone Hungry Effects' compact fuzz/overdrive range and describes it as a mini overdrive/fuzz-drive design. More detailed control-by-control or circuit information is not preserved in the source reviewed, so the archive does not invent those details.
+
+## Sources checked
+1. Guitar Pedal X, Best of Canadian Guitar Pedals and Pedal Builders: https://www.guitarpedalx.com/news/gpx-blog/best-of-canadian-guitar-pedals-and-pedal-builders
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Exact-model photo lead:** Guitar Pedal X exact builder/model coverage.
+- **Archive status:** Local photo recovery is handled separately; only a verified local asset counts as pictured.
