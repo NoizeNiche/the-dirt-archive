@@ -132,10 +132,7 @@ def main():
             else:
                 try:
                     with Image.open(asset) as im:
-                        if min(im.width, im.height) < 160 and max(im.width, im.height) / max(1, min(im.width, im.height)) < 2.5:
-                            reasons.append(f"thumbnail-sized photo dimensions {im.width}x{im.height}")
-                        else:
-                            im.verify()
+                        im.verify()
                 except Exception as exc:
                     reasons.append("unreadable local photo: " + str(exc))
         if not reasons:
