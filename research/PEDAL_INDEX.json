@@ -15492,14 +15492,19 @@
       "research_record": "./research/pedals/BOSS/MT-2-3A 30th Anniversary Metal Zone.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://www.boss.info/CMSPages/GetFile.aspx?guid=6c73d95d-72a0-4324-bc8b-b3ef9a3d415",
+      "image_source_page": "https://reverb.com/item/43630176-boss-mt-2-3a-30th-anniversary-metal-zone",
       "image_source_pages": [
         "https://www.sweetwater.com/store/detail/MT23A--boss-mt-2-3a-30th-anniversary-metal-zone-distortion-pedal?cond=MT23Ad1",
-        "https://www.boss.info/CMSPages/GetFile.aspx?guid=6c73d95d-72a0-4324-bc8b-b3ef9a3d415"
+        "https://www.boss.info/CMSPages/GetFile.aspx?guid=6c73d95d-72a0-4324-bc8b-b3ef9a3d415",
+        "https://reverb.com/item/43630176-boss-mt-2-3a-30th-anniversary-metal-zone"
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1267
+      "image_source_priority": 100000,
+      "image_source_url": "https://rvb-img.reverb.com/image/upload/s--roDGV5Kc--/f_auto%2Ct_large/v1629992328/byqovu79pjwkripuafit.jpg",
+      "image_source_urls": [
+        "https://rvb-img.reverb.com/image/upload/s--roDGV5Kc--/f_auto%2Ct_large/v1629992328/byqovu79pjwkripuafit.jpg"
+      ]
     },
     {
       "company": "BOSS",
