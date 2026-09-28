@@ -1,2 +1,2 @@
-Small exact-photo recovery pass — 2026-09-28T07:12:00-07:00
-Use the newest exact-model secondary fallbacks now present in PHOTO_SOURCE_OVERRIDES.csv. Manufacturer pages first, then verified exact-model Reverb/retailer/database sources. Archive confirmed local images only.
+Small exact-photo pass — 2026-09-28T07:30:00-07:00
+Use the now-clean photo source table. Manufacturer pages first, verified exact-model Reverb/retailer/database pages second. Archive confirmed local images and reconcile the tracker.
