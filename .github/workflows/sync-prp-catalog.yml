@@ -47,6 +47,9 @@ jobs:
       - name: Build Catalog Research Phase queue
         run: python scripts/build-research-queue.py
 
+      - name: Build public sitemap
+        run: python scripts/build-sitemap.py
+
       - name: Validate archive structure
         run: python scripts/validate-archive.py
 
@@ -88,7 +91,7 @@ jobs:
             python scripts/build-research-queue.py
             python scripts/validate-archive.py
             python scripts/sync-photo-backlog.py
-            git add research/PEDAL_INDEX.json research/pedals/PEDAL_IMAGES.json research/PRP_TRACKER.csv research/PHOTO_BACKLOG.csv research/RESEARCH_QUEUE.json CURRENT_STATE.md
+            git add research/PEDAL_INDEX.json research/pedals/PEDAL_IMAGES.json research/PRP_TRACKER.csv research/PHOTO_BACKLOG.csv research/RESEARCH_QUEUE.json CURRENT_STATE.md sitemap.xml
             if git diff --cached --quiet; then
               echo "Newest main already contains synchronized research state."
               exit 0
