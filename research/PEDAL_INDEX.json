@@ -25557,12 +25557,13 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/collins/cod-1-pro-over-drive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Collins/COD-1 Pro Over Drive.md",
       "image_source_page": "https://www.effectsdatabase.com/model/collins/1pro",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://files.effectsdatabase.com/brands/thumbs/collins-1pro_000.jpg"
     },
     {
       "company": "Collins",
@@ -35937,11 +35938,13 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/fender/smolder-acoustic-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Fender/Smolder Acoustic Overdrive.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://m.media-amazon.com/images/I/41C8w9fTmrL.jpg",
+      "image_source_page": "https://www.amazon.com/Fender-Smolder-Acoustic-Overdrive-Electric/dp/B07T752D6R"
     },
     {
       "company": "Fender",
@@ -37573,11 +37576,13 @@
         "Distortion",
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/greer-amps/texas-voodoo/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Greer Amps/Texas Voodoo.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://files.effectsdatabase.com/gear/pics/greer_texasvoodoo_001.jpg",
+      "image_source_page": "https://www.effectsdatabase.com/model/greer/texasvoodoo"
     },
     {
       "company": "Greer Amps",
@@ -38023,11 +38028,13 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/hudson-electronics/motorcycle-limited-collaboration-with-joe-s-pedals/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Hudson Electronics/Motorcycle — limited collaboration with Joe's Pedals.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://i0.wp.com/hudsonelectronicsuk.com/wp-content/uploads/2024/12/Hudson_motorcycleBSAred_1024x1024.webp?resize=324%2C324&ssl=1",
+      "image_source_page": "https://hudsonelectronicsuk.com/product/motorcycle/"
     },
     {
       "company": "Hudson Electronics",
@@ -38089,7 +38096,8 @@
       "source_page": null,
       "research_record": "./research/pedals/Hungry Robot/FZ.md",
       "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "deep_research_status": "PENDING",
+      "image_source_page": "https://www.hungryrobotpedals.com/hr-fz"
     },
     {
       "company": "Hungry Robot",
@@ -44071,11 +44079,13 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/maxon/sd-9m-sonic-distortion-master/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Maxon/SD-9M Sonic Distortion Master.md",
       "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "deep_research_status": "PENDING",
+      "image_source_url": "https://www.bradsguitargarage.com.au/assets/full/M-SD9.jpg?20251213134441",
+      "image_source_page": "https://www.bradsguitargarage.com.au/maxon-sd9-sonic-distortion"
     },
     {
       "company": "Maxon",
@@ -47676,12 +47686,12 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/nux-audio-nux/plexi-crunch/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/NUX Audio / NUX/Plexi Crunch.md",
       "research_level": "surface",
       "deep_research_status": "PENDING",
-      "image_source_url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/ci/a41dfd2d0fdcdf0a/1790548605179/xAdBo8ceSArEbmj9wJdvvuCCleEXl0C3IuKD27A9Fmc-1790548605-1.3.1.1-dIl_JGi5tawNiMr2dS9rLX87gJyVD_NPZymL2.JOZVy_1e0uiVhktPAmrLMEewKSblGoAAcXCX873.jaBtYnRL3a0aMaYqWakbRJzvAS4TJ6Ri3Q2_FKFBON2PC90M2qahySM1RGt7gGCFCXUCMKzNwCPU7hbdd2FWslKpRO5_McERn88ciBHRwSfCVW9lynUHWMihigS4qm655uQdP7eWSzlQ1yvFMRRZW1wADKw_xanZusx76.AE0g0LzH2IZFsfdVsSyyUCDthiJYF_GmnPAZ7u3djbEvGzwKraTOUoybmgzcDPvvd8EtY9PLTEboGcBKVkrqJmmr4efdFjl2o4S767ppubtbVBJtZoXX6beVtv.RzhG1ZPutwFqhGaIAovsWkGtrfH_tcAPWAkdO_iAbAMl5fNixPxA.p32NMxJYahjwSkYgOW_LBd_zecD7NFh.ObkBKl3aR62j_3pTkgQYjfswgYxvgV5o1iwpV1tJXH0ariobAz9_jteM0jFz5FC2bi9LlBenHtFVN6Eg.F1TvGBtzQaGvXswKxkDLPpjt8CFgK3Z4BqzrL.riOOtlQSgae1VDDGOF.1QIsI0xUF7ErCbALXmHUzyj5rIasNsul2ecPgGvp1p.Db.iL5pcdYKk3zU2AqHayAvrvwF_OprnIqaBtOoPD3lNnj3RaSjvouPu56NSnrxnhlUxi_eMfx2.tAR7Gn4d5fiUfpiWjTpxfzcRgfLD9esGQvdZTA",
+      "image_source_url": "https://rvb-img.reverb.com/i/s--t-84T-uh--/gravity=auto,quality=medium-low,width=200,height=200,format=jpeg/n1xrih5wc4x8cu8axb4r.jpg",
       "image_source_page": "https://reverb.com/item/94562562-nux-reissue-series-plexi-crunch-2010s-grey"
     },
     {
@@ -47760,11 +47770,13 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/nux-audio-nux/xtc-od/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/NUX Audio / NUX/XTC OD.md",
       "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "deep_research_status": "PENDING",
+      "image_source_url": "https://cdn.awsli.com.br/2500x2500/1795/1795431/produto/376834021/pedal-nux-xtc-od-overdrive-distortion-3-d665fdbocr.jpg",
+      "image_source_page": "https://www.guitarshopce.com.br/pedal-nux-xtc-od-overdrive-distortion"
     },
     {
       "company": "OKKO FX",
@@ -47872,11 +47884,13 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/okko-fx/mot-rbass/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/OKKO FX/MOTÖRBASS.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://rvb-img.reverb.com/i/s--lR5J1R4k--/quality=medium-low,height=800,width=800,fit=contain/jjouqisjrp3zqkhcqfo3.jpg",
+      "image_source_page": "https://reverb.com/item/15757006-okko-motorbass-rock-n-roll-bass-distortion"
     },
     {
       "company": "OKKO FX",
@@ -52951,11 +52965,13 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/tone-hungry-effects/hunger-bender/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Tone Hungry Effects/Hunger Bender.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://files.effectsdatabase.com/gear/pics/tonehungry_hungerbender_001.jpg",
+      "image_source_page": "https://www.effectsdatabase.com/model/tonehungry/hungerbender"
     },
     {
       "company": "TONECAT",
@@ -53461,11 +53477,13 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/vemuram/myriad/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Vemuram/Myriad.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://guitars.gbase.com/aza/user/site/1778876649-hdr-1d-site.jpg?maxwidth=1600",
+      "image_source_page": "https://www.gbase.com/gear?q=vemuram%20myriad"
     },
     {
       "company": "Vemuram",
@@ -53933,11 +53951,13 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/vfe-pedals/proto-od/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/VFE Pedals/Proto OD.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://files.effectsdatabase.com/gear/pics/vonrutter_prototype-od-3_001.jpg",
+      "image_source_page": "https://www.effectsdatabase.com/model/vfe/protood/3"
     },
     {
       "company": "VFE Pedals",
@@ -54069,7 +54089,9 @@
       "source_page": null,
       "research_record": "./research/pedals/Visual Sound / Truetone/Double Trouble.md",
       "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "deep_research_status": "PENDING",
+      "image_source_url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/ci/a41faf0c0ab72b22/1790566376562/vcrznDO.mHpCz1qm6frIYfq2q9RT4Nj6imxHxpxkvng-1790566376-1.3.1.1-OI5F5UBgbu0lpfBBwi0tUYVVmGHUBzKBPrVocYTYbTMfbiQv2oTYUZdSUAzOWc6jVYUX1BAYyqyhZldVH.ya2cTAhP8nnGNwV5kVCbcIMG_ZNhMXcwWWTgKCwI03R_vc.j.uHHW0eqfKoGbltaWgTPQpippddAbKFQpIJlzaym6Scpb4RkJ3yHveAanWyZpgYhmg.5FHiF06rpjkwrpkmX8rdc92vCFe56QBQHQO.6y4gWld9j.iHqOpzCCKG62YeTmL.8xgp2J9lgRdt6mUY0y3TxUJ9V9WmwXwzSbZFtKRznbpEgCD0sWYQw4ut.Ia6Rnz5CI5YOVD6kPghdDquCrKWMAs7DYib.JFSIhyExSd2GUhs37YoahU7ZcZC2GVeYy7WO.OtVC9ntihFe3qlupiPT3Gz_8ujertYee9C7sVRemM4.8nsUYwVNosOSDwkVbQIq6Fnz953y4XVwXV.1UT0dvcu9NlTsUp8zKOrImWXPmUPnEtzJyGLUalHI5jYkfG15NjDZM81io3maa9M9pNUJ0K8BLnEThJiGBWVgZwFQ4nnO9j1wCSlHK8m2SiX31EwO4AMOwlSUJ_AMZmlYxXZ9PigpcsgWbf.LK4loVDH2LWkgXzNezuzuc8HzXH2G3auaxOx59xfJa3sfpRyvCvCzKRVtig5Hpszvae5esR9K_bvhd1JKtoI0ApKWOyKvtmigbvU8.I3Rv8W9BjxO2B2DDvrAhR5d1nbgLE.mU",
+      "image_source_page": "https://reverb.com/item/92985338-visual-sound-double-trouble"
     },
     {
       "company": "Visual Sound / Truetone",
@@ -54081,7 +54103,9 @@
       "source_page": null,
       "research_record": "./research/pedals/Visual Sound / Truetone/Drivetrain / GarageTone Drivetrain.md",
       "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "deep_research_status": "PENDING",
+      "image_source_url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/ci/a41faf0f5a102a91/1790566377093/UZpdRyeQVhlc_rW09Kpf4WpGBSwjEcmZoFbAVf.15PM-1790566377-1.3.1.1-9NS12a7X0T4xreLs035sINj3QnkdYzO71cJSqlsR9__ef9RIWfw6zeMSnk1DpYQ3ZEesBR4BcWOgzJlS2aSdFBl4gFeD_QSU7JCd9pWTY8pbDiIqqkF3N83SSNViJrig5ANFVwy6zdpS8s9BrbbdTH9LkclaUsXck.O2bVndGsVOyr7UuA6iLSVcUHQb6ysQApiOvp3cShdu8wylVE1WvF2m48Fj4Lj9FhEPCoVSjk715iSOPn6k09gNbcN4e4Vr8qCldQbz.v5VWyyu_pKXSbddf5vYpOwmsP3ybRO9U3_LmbMqP6s79FzvgO4VZa9AvLEs_sIYaNwugaoM0K8f8EnAF6B7A0RFjx915nAz_Leep3lR3uBiDe2b6047mhxyXXpEEWodEAl8KJzxxjyOUdGYhGcKb6pLHUFhQhFl5ZwtnJeHAWgXYz1Wks_VOAhTn_orRKyrVGR5WbHa9sPkxqZdgJrhP22rZPycKJPCGqHhFb8lg_m4jxpX1irfI9WcPndpywCbumEd1Uc5fHGwqhV3LWY35sTRlzC9ABRTmpfLgdTGTJQ_19XyxKcHjSm7YvDokcNAQO51WyEdgmOMRBVvv_4KNusPiCQp96bb9r4HpqVBVDHHkFt_s_uk1QW725hi9arBBTbjL6GCu6JYrrnLGLH4EBNYRBo1J0GUde5T5xi9Ow2WfPjmBo9tYf4OEtkqC3HAZz_66TiZP6CB3y8e3RxSaoYiUnyxHzyXRJg",
+      "image_source_page": "https://reverb.com/item/92461177-visual-sound-garagetone-series-drivetrain-overdrive"
     },
     {
       "company": "Visual Sound / Truetone",
@@ -54093,7 +54117,9 @@
       "source_page": null,
       "research_record": "./research/pedals/Visual Sound / Truetone/GarageTone Chainsaw Distortion.md",
       "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "deep_research_status": "PENDING",
+      "image_source_url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/ci/a41faf1f6a55cbae/1790566379676/iM5kVkoJQeOO9OjV8p615jouQ4GGsnhoF9bqR2uDQjc-1790566379-1.3.1.1-4XLxD6ScYXe12AfA.p6cBL_jOdXd1uEXQhva.pBHJW7FDopLBDYlUnt.hm5YNcZ0JzPOA32zjGj3hEZAaTsoy4jGp2_e3Ca2AUpDMuX_7TCXg5SDw3I23m6NGudD1PDIH0W26dUjIROHIcDmOutXLmVJzFIdOI2_UHo2YhE6j8yQEaRo0BdxUwt1SSb3WAb1ja2y391AKKzTQj26taUgofrV0w9T5rJgOmmQVtCLR6bI.XJXMm2hzAQEAbG7qLqIYPe2GTndUNmMkox9IsvxEI1XHMgYBzq2XYyGP2n0xs12hEnYCBaEjdrV72COilJoeHHKNRI5N8zNDY_ZY26SNMbvQi7z8gxgWH9CRc0v9PiWUjUvrHA2pdZGTLr_yZwlogHmLNPGJhutoZZHtTbBfudflQPD4Mb07F59ewENOvUID1UKJR9604bQy2XoM2foneXq3L1JAtkir0zXeR9b9jEnI1Dm9JvvU96i3oBhD7xMEAssnJIH2ei5JvCT06jpJqyiU6AvafJI0zvZX_yjhK338F11fGHL3eCKXAOOFZW84_w7D1kntrlaDRqXDABuG9VKTnaHAxk_10UK6Ma7rg_yi5x160aeBmTDaz.9U3MvtCIXNnre46Gw2I7mA5OAFYI_LZjRN7EIVHoGYyA3tl2m2e19oTaX83LnuL.Zz9PEaow9FGtKVZJWOEj_azUTWNdg6893Fkj9YdtFH8psB9a2C6dKAl7tnAqBKFVQItE",
+      "image_source_page": "https://reverb.com/item/100694785-visual-sound-garagetone-chainsaw-distortion-garage-tone-metal"
     },
     {
       "company": "Visual Sound / Truetone",
@@ -54154,7 +54180,9 @@
       "source_page": null,
       "research_record": "./research/pedals/Visual Sound / Truetone/Route 66 American Overdrive.md",
       "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "deep_research_status": "PENDING",
+      "image_source_url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/ci/a41faf592b82720b/1790566388865/fDHbxUeXSm4t_UMkY8jicyeeXHTCexWhX2uu4K0uvwY-1790566388-1.3.1.1-hvINZeNi6UejFn7scixesJXZG3T1fUG.4m_Ji7CQEApClS6pb0ZYkw8kp.gGT9Miei9WTHtUkIpPeOdTpORwKiUMfxcZVi4kc205Jw7IDnuiEPteU_qyj__eTzN2KkOyy5ide0SJb0Hp5lGFib1OAPPpEJqCs8vMtP117cK.14D5vGsmbhT.KCHzHnoTX_7nZtmTTWTv2jOOJpl_HnujXJ3H3GYpqhgrsD2otz.Y09uMrg8hkqmWZvlHYzzIvScZU8GXvtORephTve5PkLDyrDiASIkAFEmo8LI5eEfz..4npDav0MpvyiNe17OKLpNMoqWwbh8oOv2ArWKORRFJPdpBlzTlbJtHGjl5AoPibQlrNnkkzfyOap7faQThet5NVEFeYS44Pv.HC.HUGFvSurGsy0LRbs4quu_HS2HCF4v1nwEc1KmaWFIY9Av2VkH1zEcQ7ZDL.FypGCmnFGhJWPRKoCVr.gAijnIKCJ8vV2eYOjqz4mDVgHmH_hXdjccMy5cArHUtGsQGIxWIc.fM7UxcjWs8KIOJ60Zq6ez9ioplwLi7m4zJIBRfJMMFBjoe2rj_DsP0aijLOLuZT9bCwashvJufH1CMHAGLdSAKG2ln4G.kJqwX_3P5JknfmQmvCG84FipDsHb5NiCIha5DRStiSc73_rGYm.7IpKj5mrbtyPUYy0J27NoCS5xgqb__2snkQOLe6mIxeV9FHp2jcM7UiSmdlgfMN_pWfEHV.qc",
+      "image_source_page": "https://reverb.com/item/97637992-truetone-route-66-american-overdrive-compressor-pedal-version-3-v3-visual-sound"
     },
     {
       "company": "Visual Sound / Truetone",
@@ -54203,7 +54231,9 @@
       "source_page": null,
       "research_record": "./research/pedals/Visual Sound / Truetone/V2 Route 66.md",
       "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "deep_research_status": "PENDING",
+      "image_source_url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/ci/a41faf84caaa1e27/1790566395892/QjHcLcqE2Ci16u6lZUTX5b5qGyOGHJaVmxHUlWQ4MHs-1790566395-1.3.1.1-euulGRQ_7oMGauezCyTOSACA9INr917i0PgWcB0d2UTMg_o1yNA.USQfNxGuhBmhWppl9QtoB8Rftm7cuNMkqlDNOiFYR1HnVbWjFHKEkQcfAhlLqzmG_qK3bq6JLoKKp.MmUehpkpV18J_7sZIdJNCwCQAjhxU9oXEmfgPNpX0XBjHj59D9JkuE9A51gmA3w8Fvu0HkfivB5qNks_yTrCM2p5E0j0iHBu77bX6auJ3.xHtR3xIPCzN1eKjF_8aheEH0py5H_rxxyqWNyvwFsqJDgu4N5prGa9Yb.GMFMaqSeoXw2fF1ZcSb.AuB0ZJ4DOLaPXz40Sgy7KGrD4c_O5XmamjrKuqyGhslSYEhvcX5.i9hRR6ktwOtQcGjXjwglzthSKSG3U5J4uNI_g5E1ScJRo687W5V.FRxxWIprMY5USKSCoH6Dr8MSmK6BvYzlTmfaiXlaQS9c2tJ7WSDqRd24g.KGZgmEtB.PTTRGB1mTUH9Vn.4IiJSLSZfTgH4Zfa094ePMVIAhADh7og1zk41qzKGwPyMoHVyxFO0pY2BfQNI2z3tzRksNujnFNx8AiS06nZke182dl.gcFw0iaSGi_zlwdkHJnyKFeD7Fp2vIfpcYECICmQ4kvUDZ9k5DTCA7L_osaDuhbekDCZ1I_5FbxIoEFZCS6Z7XLyLZUIjhxGPgHOquHhyEBc4k8aBu_YR2E1z7ZpvXClZ0j7FATUVjyR4jXv7IscIIqjdSM0",
+      "image_source_page": "https://reverb.com/item/92411804-visual-sound-route-66-v2-2010s-tan"
     },
     {
       "company": "Visual Sound / Truetone",
@@ -54223,11 +54253,13 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/visual-sound-truetone/v3-vs-xo/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Visual Sound / Truetone/V3 VS-XO.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://www.usarhythmgear.com/wp-content/uploads/2026/2/1770372544/visual-sound-truetone-v3-vs-xo-dual-od-1770372551.webp",
+      "image_source_page": "https://www.usarhythmgear.com/product/visual-sound-truetone-v3-vs-xo-dual-od/"
     },
     {
       "company": "Visual Sound / Truetone",
@@ -54235,11 +54267,13 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/visual-sound-truetone/vans-warped-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Visual Sound / Truetone/Vans Warped Distortion.md",
       "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "deep_research_status": "PENDING",
+      "image_source_url": "https://guitarhouse.com.ua/content/images/5/800x800l80mc0/pedal-efektiv-visual-sound-vans-warped-distortion-25348181786931.jpg",
+      "image_source_page": "https://guitarhouse.com.ua/pedal-efektiv-visual-sound-vans-warped-distortion/"
     },
     {
       "company": "Visual Sound / Truetone",
@@ -54399,11 +54433,13 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/vox/mystic-edge/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/VOX/Mystic Edge.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://voxamps.com/wp-content/uploads/2019/01/AC30S1-AC30-One-Twelve.png",
+      "image_source_page": "https://voxamps.com/product/mystic-edge/"
     },
     {
       "company": "VOX",
@@ -54451,11 +54487,13 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/vox/trike-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/VOX/Trike Fuzz.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://images.equipboard.com/uploads/item/image/85035/vox-trike-fuzz-xl.webp?v=1790424786",
+      "image_source_page": "https://equipboard.com/items/vox-trike-fuzz--2"
     },
     {
       "company": "VOX",
