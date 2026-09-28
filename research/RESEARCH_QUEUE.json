@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-28T11:16:30.599997+00:00",
+  "generated_at": "2026-09-28T11:16:51.476519+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -44,6 +44,20 @@
       "research_level": "surface"
     },
     {
+      "builder": "Retro Mechanical Labs",
+      "pedal": "432k Rev 2.1 Distortion",
+      "catalog_type": "Distortion",
+      "research_record": "./research/pedals/Retro Mechanical Labs/432k Rev 2.1 Distortion.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Reuss Musical Instruments",
+      "pedal": "Backslide Overdrive",
+      "catalog_type": "Overdrive",
+      "research_record": "./research/pedals/Reuss Musical Instruments/Backslide Overdrive.md",
+      "research_level": "surface"
+    },
+    {
       "builder": "NUX Audio / NUX",
       "pedal": "FZ-2 Vintage Fuzz",
       "catalog_type": "Fuzz",
@@ -79,6 +93,41 @@
       "research_level": "surface"
     },
     {
+      "builder": "ReevesElectro",
+      "pedal": "Leo Twelve",
+      "catalog_type": "Overdrive",
+      "research_record": "./research/pedals/ReevesElectro/Leo Twelve.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "ReevesElectro",
+      "pedal": "ZO Zonk Machine MK2",
+      "catalog_type": "Fuzz",
+      "research_record": "./research/pedals/ReevesElectro/ZO Zonk Machine MK2.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "SBGO Effects",
+      "pedal": "Creamy Fuzz",
+      "catalog_type": "Fuzz",
+      "research_record": "./research/pedals/SBGO Effects/Creamy Fuzz.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Sitek Guitar Electronics",
+      "pedal": "Wuffy Fuzzy Distortion",
+      "catalog_type": "Distortion / Fuzz",
+      "research_record": "./research/pedals/Sitek Guitar Electronics/Wuffy Fuzzy Distortion.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "RYRA",
+      "pedal": "The Klone V2",
+      "catalog_type": "Overdrive",
+      "research_record": "./research/pedals/RYRA/The Klone V2.md",
+      "research_level": "surface"
+    },
+    {
       "builder": "Mystic Effects Co",
       "pedal": "Driven-Parallel Overdrive",
       "catalog_type": "Overdrive",
@@ -104,55 +153,6 @@
       "pedal": "SD-9M Sonic Distortion Master",
       "catalog_type": "Distortion",
       "research_record": "./research/pedals/Maxon / Nisshin Onpa/SD-9M Sonic Distortion Master.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "ReevesElectro",
-      "pedal": "Leo Twelve",
-      "catalog_type": "Overdrive",
-      "research_record": "./research/pedals/ReevesElectro/Leo Twelve.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "ReevesElectro",
-      "pedal": "ZO Zonk Machine MK2",
-      "catalog_type": "Fuzz",
-      "research_record": "./research/pedals/ReevesElectro/ZO Zonk Machine MK2.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Retro Mechanical Labs",
-      "pedal": "432k Rev 2.1 Distortion",
-      "catalog_type": "Distortion",
-      "research_record": "./research/pedals/Retro Mechanical Labs/432k Rev 2.1 Distortion.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Reuss Musical Instruments",
-      "pedal": "Backslide Overdrive",
-      "catalog_type": "Overdrive",
-      "research_record": "./research/pedals/Reuss Musical Instruments/Backslide Overdrive.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "RYRA",
-      "pedal": "The Klone V2",
-      "catalog_type": "Overdrive",
-      "research_record": "./research/pedals/RYRA/The Klone V2.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "SBGO Effects",
-      "pedal": "Creamy Fuzz",
-      "catalog_type": "Fuzz",
-      "research_record": "./research/pedals/SBGO Effects/Creamy Fuzz.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Sitek Guitar Electronics",
-      "pedal": "Wuffy Fuzzy Distortion",
-      "catalog_type": "Distortion / Fuzz",
-      "research_record": "./research/pedals/Sitek Guitar Electronics/Wuffy Fuzzy Distortion.md",
       "research_level": "surface"
     },
     {
