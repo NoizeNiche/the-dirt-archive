@@ -8,7 +8,7 @@
 - **Identity:** Exact-model sources identify this catalog record as J. Rockett Audio Designs's Archer Ikon OD.
 
 ## What this pedal is
-**Archer Ikon OD** is a J. Rockett Audio Designs overdrive pedal documented by the manufacturer and independent review/reference sources. [1][2]
+J. Rockett Audio Designs overdrive documented by the manufacturer and independent review coverage.
 
 ## Versions and factory options
 - No distinct factory revision history was established in this pass.
@@ -21,11 +21,11 @@
 - **Exact clipping/rectifier diode:** Unknown.
 
 ## Sound
-The verified sources establish the exact model identity and overdrive role. No component or revision claim is made without exact supporting evidence.
+The verified source set establishes the exact model identity and its dirt-function classification. No unsupported circuit, component, or version claims are added.
 
 ## Sources checked
-1. J. Rockett Audio Designs — Archer Ikon manual: https://rockettpedals.com/wp-content/uploads/2022/12/ikon-manual.pdf
-2. Sound On Sound — J. Rockett Archer Ikon: https://www.soundonsound.com/reviews/j-rockett-archer-archer-ikon
+1. Exact-model manufacturer/reference source: https://rockettpedals.com/wp-content/uploads/2022/12/ikon-manual.pdf
+2. Independent exact-model source: https://www.soundonsound.com/reviews/j-rockett-archer-archer-ikon
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately.
