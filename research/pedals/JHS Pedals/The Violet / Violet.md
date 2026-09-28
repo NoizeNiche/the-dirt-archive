@@ -1,23 +1,31 @@
 # JHS Pedals — The Violet / Violet
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** The Violet / Violet
 - **Builder:** JHS Pedals
-- **Pedal:** The Violet / Violet
-- **Catalog type:** Distortion / Fuzz / Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Research level:** Deep
+- **Deep research status:** Verified
+- **Identity:** Exact-model sources identify this catalog record as JHS Pedals's The Violet / Violet.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **The Violet / Violet** by **JHS Pedals** as a **Distortion / Fuzz / Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+JHS Pedals The Violet model documented by the manufacturer and Effects Database.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Versions and factory options
+- No distinct factory revision history was established in this pass.
+- No additional factory options are inferred beyond the exact-model source set.
+
+## Transistor
+- **Exact production transistor/device:** Unknown.
+
+## Diode
+- **Exact clipping/rectifier diode:** Unknown.
+
+## Sound
+The verified source set establishes the exact model identity and its dirt-function classification. No unsupported circuit, component, or version claims are added.
+
+## Sources checked
+1. Exact-model manufacturer/reference source: https://jhspedals.info/products/the-violet
+2. Independent exact-model source: https://www.effectsdatabase.com/model/jhspedals/violet
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately.
