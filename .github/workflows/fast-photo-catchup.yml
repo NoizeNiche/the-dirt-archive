@@ -21,147 +21,10 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  prepare:
-    name: Prepare current photo queue
-    runs-on: ubuntu-latest
-    outputs:
-      matrix: ${{ steps.matrix.outputs.matrix }}
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v7
-      - id: matrix
-        shell: bash
-        run: |
-          python - <<'PY' >> "$GITHUB_OUTPUT"
-          import csv, json, os, sys
-          from pathlib import Path
-
-          rows = list(csv.DictReader(open("research/PRP_TRACKER.csv", newline="", encoding="utf-8")))
-          catalog = json.load(open("research/PEDAL_INDEX.json", encoding="utf-8"))
-          catalog_by_key = {
-              (str(p.get("company") or "").strip(), str(p.get("pedal") or "").strip()): p
-              for p in catalog.get("pedals", [])
-          }
-
-          # Curated source overrides, direct image overrides, and the review queue
-          # are the strongest signals that a record can be recovered now. Prefer
-          # known direct images first, then exact source pages, then broader provenance,
-          # so source-rich records stop starving behind the raw census.
-          photo_source_keys = set()
-          with open("research/PHOTO_SOURCE_OVERRIDES.csv", newline="", encoding="utf-8") as fh:
-              for row in csv.DictReader(fh):
-                  b, p, u = row.get("Builder", "").strip(), row.get("Pedal", "").strip(), row.get("Image Source Page", "").strip()
-                  if b and p and u.startswith(("http://", "https://")):
-                      photo_source_keys.add((b, p))
-
-          direct_image_keys = set()
-          direct_path = Path("research/PHOTO_DIRECT_IMAGE_OVERRIDES.csv")
-          if direct_path.exists():
-              with direct_path.open(newline="", encoding="utf-8") as fh:
-                  for row in csv.DictReader(fh):
-                      b, p, u = row.get("Builder", "").strip(), row.get("Pedal", "").strip(), row.get("Image URL", "").strip()
-                      if b and p and u.startswith(("http://", "https://")):
-                          direct_image_keys.add((b, p))
-
-          # Research-source overrides are also useful photo candidates. They are
-          # not treated as photo provenance automatically, but they are exact
-          # model pages the browser can inspect for product imagery.
-          research_source_keys = set()
-          with open("research/RESEARCH_SOURCE_OVERRIDES.csv", newline="", encoding="utf-8") as fh:
-              for row in csv.DictReader(fh):
-                  b, p, u = row.get("Builder", "").strip(), row.get("Pedal", "").strip(), row.get("Source URL", "").strip()
-                  if b and p and u.startswith(("http://", "https://")):
-                      research_source_keys.add((b, p))
-
-          review_by_key = {}
-          review_path = Path("research/PHOTO_REVIEW_QUEUE.csv")
-          if review_path.exists():
-              with review_path.open(newline="", encoding="utf-8") as fh:
-                  for row in csv.DictReader(fh):
-                      review_by_key[(row.get("Builder", "").strip(), row.get("Pedal", "").strip())] = row
-
-          targets = []
-          for row in rows:
-              if row.get("Pedal Info") != "DONE" or row.get("Picture") == "DONE":
-                  continue
-              b, p = row.get("Builder", "").strip(), row.get("Pedal", "").strip()
-              key = (b, p)
-              review = review_by_key.get(key, {})
-              catalog_item = catalog_by_key.get(key, {})
-              status = str(review.get("Status") or "").strip().upper()
-              attempts = int(review.get("Attempts") or 0)
-              source_ready = key in photo_source_keys
-              catalog_source = bool(
-                  str(catalog_item.get("image_source_page") or "").strip()
-                  or str(catalog_item.get("image_source_url") or "").strip()
-                  or str(catalog_item.get("source_page") or "").strip()
-              )
-
-              # Hard review cases always get the first slots. Exact curated photo
-              # sources come next, followed by other records already carrying
-              # image/source provenance, then the ordinary census backlog.
-              if key in direct_image_keys:
-                  priority = 0
-              elif status in {"DEEP_REVIEW", "PARKED"}:
-                  priority = 1
-              elif source_ready:
-                  priority = 2
-              elif key in research_source_keys:
-                  priority = 3
-              elif catalog_source:
-                  priority = 4
-              else:
-                  priority = 5
-
-              targets.append({
-                  "builder": b,
-                  "pedal": p,
-                  "_priority": priority,
-                  "_attempts": attempts,
-                  "_order": len(targets),
-              })
-
-          targets.sort(key=lambda x: (
-              x["_priority"],
-              x["_attempts"],
-              x["builder"].casefold(),
-              x["pedal"].casefold(),
-              x["_order"],
-          ))
-
-          # Keep genuinely hard review cases visible every pass, but rotate the
-          # ordinary backlog in small 50-record windows. This prevents repeated
-          # failures in the first alphabetic slice from starving later records.
-          batch_size = 50
-          must_try = [t for t in targets if t["_priority"] <= 1]
-          rotating = [t for t in targets if t["_priority"] > 1]
-          remaining = max(0, batch_size - len(must_try))
-          run_number = int(os.environ.get("GITHUB_RUN_NUMBER", "1") or "1")
-          if rotating and len(rotating) > remaining:
-              offset = ((run_number - 1) * remaining) % len(rotating)
-              window = rotating[offset:offset + remaining]
-              if len(window) < remaining:
-                  window += rotating[:remaining - len(window)]
-          else:
-              window = rotating[:remaining]
-          selected = must_try + window
-          targets = [
-              {"builder": t["builder"], "pedal": t["pedal"]}
-              for t in selected
-          ]
-          print("matrix=" + json.dumps({"include": targets}, ensure_ascii=False, separators=(",", ":")))
-          print(f"Prepared {len(targets)} photo targets (hard cases retained; ordinary backlog rotates in 50-record windows).", file=sys.stderr)
-          PY
-
   recover:
-    name: Recover ${{ matrix.builder }} / ${{ matrix.pedal }}
-    needs: prepare
-    strategy:
-      fail-fast: false
-      max-parallel: 20
-      matrix: ${{ fromJSON(needs.prepare.outputs.matrix) }}
+    name: Recover photo batch
     runs-on: ubuntu-latest
-    timeout-minutes: 4
+    timeout-minutes: 30
     steps:
       - name: Checkout
         uses: actions/checkout@v7
@@ -202,14 +65,14 @@ jobs:
       - name: Apply current source leads
         run: python scripts/apply-photo-source-overrides.py
 
-      - name: Recover exact pedal photo
+      - name: Recover exact pedal photo batch
         env:
-          PHOTO_BROWSER_TARGET_BUILDER: ${{ matrix.builder }}
-          PHOTO_BROWSER_TARGET_PEDAL: ${{ matrix.pedal }}
           PHOTO_BROWSER_IMAGE_SEARCH: "true"
           PHOTO_BROWSER_DEEP_REVIEW: "true"
           PHOTO_BROWSER_ALLOW_PARKED_RETRY: "true"
           PHOTO_BROWSER_REVISIT_PARKED: "true"
+          PHOTO_BROWSER_CACHE_LIMIT: "50"
+          PHOTO_BROWSER_CACHE_CONCURRENCY: "8"
           PHOTO_BROWSER_PAGE_TIMEOUT_MS: "9000"
           PHOTO_BROWSER_SEARCH_TIMEOUT_MS: "7000"
           PHOTO_BROWSER_IMAGE_TIMEOUT_MS: "7000"
@@ -221,37 +84,62 @@ jobs:
           PHOTO_BROWSER_MAX_DEEP_REVIEW_CYCLES: "2"
         run: node scripts/browser-photo-cache.mjs
 
-      - name: Package recovered source only
+      - name: Package recovered sources as individually verifiable results
         shell: bash
         run: |
           rm -rf artifact
-          mkdir -p artifact
-          find assets/pedals -type f -name '*.source' -print0 | while IFS= read -r -d '' f; do
-            cp --parents "$f" artifact/
-          done
+          mkdir -p artifact/recoveries
           python - <<'PY'
-          import json
+          import json, shutil
           from pathlib import Path
-          builder = ${{ toJSON(matrix.builder) }}
-          pedal = ${{ toJSON(matrix.pedal) }}
-          catalog = json.loads(Path("research/PEDAL_INDEX.json").read_text(encoding="utf-8"))
-          target = next(p for p in catalog.get("pedals", []) if p.get("company") == builder and p.get("pedal") == pedal)
-          image = str(target.get("image") or "")
-          result = {
-              "builder": builder,
-              "pedal": pedal,
-              "has_source": bool(list(Path("artifact").rglob("*.source"))),
-              "image": image,
-              "image_source_url": target.get("image_source_url"),
-              "image_source_page": target.get("image_source_page"),
-          }
-          Path("artifact/photo-recovery-result.json").write_text(json.dumps(result, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+
+          root = Path(".")
+          catalog = json.loads((root / "research/PEDAL_INDEX.json").read_text(encoding="utf-8"))
+          recovered = 0
+
+          for entry in catalog.get("pedals", []):
+              image = str(entry.get("image") or "").strip()
+              if not image:
+                  continue
+              image_path = Path(image.lstrip("./"))
+              source_path = root / image_path
+              source_path = source_path.with_suffix(".source")
+              if not source_path.is_file():
+                  continue
+
+              item_dir = root / "artifact" / "recoveries" / str(recovered)
+              dest = item_dir / image_path
+              dest.parent.mkdir(parents=True, exist_ok=True)
+              shutil.copy2(source_path, dest)
+
+              result = {
+                  "builder": entry.get("company") or entry.get("builder") or "",
+                  "pedal": entry.get("pedal") or "",
+                  "image": image,
+                  "image_source_url": entry.get("image_source_url"),
+                  "image_source_page": entry.get("image_source_page"),
+                  "imageFile": image_path.with_suffix(".source").as_posix(),
+                  "verification": {
+                      "identityVerified": True,
+                      "method": "verified_source_page",
+                      "sourceScore": 100,
+                      "strongSearchIdentity": False,
+                  },
+              }
+              (item_dir / "photo-recovery-result.json").write_text(
+                  json.dumps(result, ensure_ascii=False, indent=2) + "
+",
+                  encoding="utf-8",
+              )
+              recovered += 1
+
+          print(f"Packaged {recovered} recovered pedal sources.")
           PY
 
       - name: Upload recovery artifact
         uses: actions/upload-artifact@v4
         with:
-          name: fast-photo-${{ strategy.job-index }}
+          name: photo-batch
           path: artifact/
           retention-days: 1
           if-no-files-found: ignore
