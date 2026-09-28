@@ -141,3 +141,13 @@ The scheduled Archive Improvement Scout appends new ideas here after reviewing i
 **Duplicate/overlap check:** Legacy-ID continuity refines canonical identifiers/version handling; exact-version comparison refines family/version navigation; explainable matches refines exact-identity search; research-state sorting refines completeness/known-unknowns; source snapshots refine provenance; collection badges refine saved collector lists; typed relationships refine the existing relationship layer. No new marketplace rankings, seller scores, popularity systems, or purchase recommendations were added.
 
 **Research boundary:** Capability-level inspiration only. Do not copy protected wording, branding, page composition, or proprietary interaction treatments. No public-site redesign was performed during this scouting pass.
+
+### [2026-09-28] Production-hardening implementation pass
+
+- **Implemented:** evidence-only Power facet in the public archive explorer. It reads explicitly documented power information from Power-related sections and factory-option notes, then exposes shareable multi-select URL state.
+- **Implemented:** canonical sitemap validation against the current public catalog, plus a refresh of stale pedal URLs.
+- **Implemented:** curator-table identity validation for photo source, direct-image, and research-source overrides.
+- **Implemented:** unified photo-state cleanup across catalog sync and photo-recovery lanes, including conservative thumbnail/corrupt-image detection and obvious site-asset provenance vetoes.
+- **Implemented:** recovery workflow hardening so stale browser passes are cancelled and long-running recovery/publish processes have bounded runtime.
+- **Implemented:** lazy image decoding on browse/detail views and confirmed catalog/facet fetches use no-store caching.
+- **Status:** these are production changes, not future candidates. Remaining collector-oriented capabilities such as saved lists, provenance timelines, completeness dimensions, and artist relationships remain deferred until the photo finish line and final launch QA are complete.
