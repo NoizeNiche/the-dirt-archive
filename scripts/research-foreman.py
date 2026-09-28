@@ -11,6 +11,8 @@ import sys
 import unicodedata
 from pathlib import Path
 
+ALIAS_PATH=Path("research/PEDAL_IDENTITY_ALIASES.csv")
+
 sys.stdout.reconfigure(errors="backslashreplace")
 
 ART=Path("research-evidence")
@@ -89,6 +91,68 @@ def identity_ok(builder,pedal,title,h1,excerpt="",url=""):
             return True
     return False
 
+def catalog_identity_variants(value):
+    raw=str(value or "").strip()
+    variants={raw}
+    core=re.split(r"\s+—\s+",raw,maxsplit=1)[0].strip()
+    if core:
+        variants.add(core)
+
+    former=re.search(r"\bformerly\s+(.+)$",raw,re.IGNORECASE)
+    if former:
+        variants.add(re.sub(r"[\s.,;:]+$","",former.group(1)).strip())
+
+    for value_text in (raw,core):
+        match=re.match(r"^(.*?)\s*\(([^()]{2,10})\)\s*$",value_text)
+        if not match:
+            continue
+        base=match.group(1).strip()
+        code=match.group(2).strip()
+        if base:
+            variants.add(base)
+            variants.add(f"{base} {code}")
+            variants.add(f"{code} {base}")
+        if re.match(r"^[A-Z0-9][A-Z0-9._-]{1,9}$",code,re.IGNORECASE):
+            variants.add(code)
+
+    relationship_base=re.sub(r"\s*\/\s*formerly\s+.+$","",raw,flags=re.IGNORECASE)
+    relationship_base=re.sub(r"\s+legacy\s+reissue.*$","",relationship_base,flags=re.IGNORECASE)
+    relationship_base=re.sub(r"\s+—\s+consolidated.*$","",relationship_base,flags=re.IGNORECASE).strip()
+    if relationship_base:
+        variants.add(relationship_base)
+
+    try:
+        for row in csv.DictReader(ALIAS_PATH.open(newline="",encoding="utf-8")):
+            if str(row.get("Status") or "").strip().upper()!="CONFIRMED":
+                continue
+            canonical=str(row.get("Canonical Pedal") or "").strip()
+            alias=str(row.get("Alias Pedal") or "").strip()
+            if canonical==raw and alias:
+                variants.add(alias)
+            elif alias==raw and canonical:
+                variants.add(canonical)
+    except Exception:
+        pass
+
+    return {norm(v) for v in variants if str(v).strip()}
+
+
+def resolve_catalog_key(builder,pedal,catalog_keys):
+    exact=(builder,pedal)
+    if exact in catalog_keys:
+        return exact
+    builder_norm=norm(builder)
+    packet_variants=catalog_identity_variants(pedal)
+    matches=[]
+    for key in catalog_keys:
+        catalog_builder,catalog_pedal=key
+        if norm(catalog_builder)!=builder_norm:
+            continue
+        if packet_variants & catalog_identity_variants(catalog_pedal):
+            matches.append(key)
+    return matches[0] if len(matches)==1 else None
+
+
 def source_is_strong_single(source):
     kind = str(source.get("source_kind") or "").strip().lower()
     excerpt = str(source.get("excerpt") or "").strip()
@@ -114,7 +178,10 @@ def main():
         for dossier in dossiers:
             b=str(dossier.get("builder","")).strip()
             p=str(dossier.get("pedal","")).strip()
-            if (b,p) not in keys: continue
+            canonical_key=resolve_catalog_key(b,p,keys)
+            if not canonical_key:
+                continue
+            canonical_builder,canonical_pedal=canonical_key
             good=[]; seen=set()
             raw_sources=dossier.get("sources",[]) if isinstance(dossier.get("sources"),list) else []
             for s in raw_sources:
@@ -125,7 +192,7 @@ def main():
                 title=s.get("title","")
                 h1=s.get("h1","")
                 excerpt=s.get("excerpt",s.get("bodyExcerpt",""))
-                if exact and identity_ok(b,p,title,h1,excerpt,s.get("url","")):
+                if exact and identity_ok(canonical_builder,canonical_pedal,title,h1,excerpt,s.get("url","")):
                     seen.add(h)
                     good.append({
                         "url":s.get("url"),
@@ -137,13 +204,15 @@ def main():
                     })
             if len(good)<2 and not (len(good)==1 and source_is_strong_single(good[0])):
                 held+=1
-                print("HOLD",b,"/",p,"independent_exact_sources=",len(good))
+                print("HOLD",canonical_builder,"/",canonical_pedal,"independent_exact_sources=",len(good))
                 continue
-            out=INBOX/slug(b)/(slug(p)+".json")
+            out=INBOX/slug(canonical_builder)/(slug(canonical_pedal)+".json")
             out.parent.mkdir(parents=True,exist_ok=True)
             out.write_text(json.dumps({
-                "builder":b,
-                "pedal":p,
+                "builder":canonical_builder,
+                "pedal":canonical_pedal,
+                "original_builder":b,
+                "original_pedal":p,
                 "status":"VERIFIED_EVIDENCE_STAGED",
                 "independent_exact_source_count":len(good),
                 "sources":good,
@@ -151,7 +220,7 @@ def main():
             },ensure_ascii=True,indent=2)+"\n",encoding="utf-8")
             staged+=1
             staged_files.append(out.as_posix())
-            print("STAGED",b,"/",p,"sources=",len(good))
+            print("STAGED",canonical_builder,"/",canonical_pedal,"sources=",len(good))
     summary = {"staged": staged, "held": held, "staged_files": staged_files}
     Path("research-evidence/foreman-summary.json").write_text(
         json.dumps(summary, ensure_ascii=True, indent=2) + "\n",
