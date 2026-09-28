@@ -53,7 +53,7 @@ let archiveFacetsPromise = null;
 function loadFacets() {
   if (archiveFacetsPromise) return archiveFacetsPromise;
 
-  archiveFacetsPromise = fetch(ARCHIVE_FACETS_INDEX, {cache: 'no-store'})
+  archiveFacetsPromise = fetch(ARCHIVE_FACETS_INDEX, {cache: 'no-cache'})
     .then(response => {
       if (!response.ok) return {version: 1, records: {}, options: {}};
       return response.json();
@@ -74,7 +74,7 @@ function loadFacets() {
 function loadCatalog() {
   if (archiveCatalogPromise) return archiveCatalogPromise;
 
-  archiveCatalogPromise = fetch(ARCHIVE_DATA_INDEX, {cache: 'no-store'})
+  archiveCatalogPromise = fetch(ARCHIVE_DATA_INDEX, {cache: 'no-cache'})
     .then(response => {
       if (!response.ok) throw new Error('Catalog request failed: HTTP ' + response.status);
       return response.json();
