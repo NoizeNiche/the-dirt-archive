@@ -47152,7 +47152,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/mythos-pedals/au-79-fuzz-limited-exclusive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mythos Pedals/AU-79 Fuzz — limited / exclusive.md",
       "research_level": "deep",
@@ -47300,7 +47300,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/mythos-pedals/high-road-fuzz-mini-limited-exclusive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mythos Pedals/High Road Fuzz Mini — limited / exclusive.md",
       "research_level": "deep",
@@ -47690,7 +47690,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/nux-audio-nux/queen-of-tone/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/NUX Audio / NUX/Queen of Tone.md",
       "research_level": "surface",
@@ -47746,7 +47746,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/nux-audio-nux/tube-man-mkii/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/NUX Audio / NUX/Tube Man MKII.md",
       "research_level": "surface",
@@ -52807,7 +52807,7 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/thorpyfx/the-j-lazy-j-x-thorpyfx-collaboration/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/ThorpyFX/THE J — Lazy J x ThorpyFX collaboration.md",
       "research_level": "deep",
@@ -52835,7 +52835,7 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/thorpyfx/the-kudu-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/ThorpyFX/The KUDU — Overdrive.md",
       "research_level": "deep",
@@ -52851,7 +52851,7 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/thorpyfx/the-old-timer/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/ThorpyFX/The OLD TIMER.md",
       "research_level": "deep",
@@ -52865,7 +52865,7 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/thorpyfx/the-old-timer-3-in-1-pedal-with-drive-section/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/ThorpyFX/THE OLD TIMER — 3-in-1 pedal with drive section.md",
       "research_level": "deep",
@@ -52999,7 +52999,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/tonecat/hugo-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/TONECAT/Hugo Overdrive.md",
       "research_level": "deep",
@@ -53012,7 +53012,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/tonecat/lola-drive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/TONECAT/Lola Drive.md",
       "research_level": "deep",
@@ -53024,7 +53024,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/tonecat/luna-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/TONECAT/Luna Overdrive.md",
       "research_level": "deep",
@@ -53037,7 +53037,7 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/tonecat/sir-fuzzington/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/TONECAT/Sir Fuzzington.md",
       "research_level": "deep",
@@ -53449,7 +53449,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/vemuram/las-lunas-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Vemuram/Las Lunas — distortion.md",
       "research_level": "deep",
@@ -53509,7 +53509,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/vemuram/myriad-w-loop-fuzz-pedal/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Vemuram/Myriad w/loop Fuzz Pedal.md",
       "research_level": "surface",
@@ -53521,7 +53521,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/vemuram/myriad-w-loop-fuzz-pedal-fuzz-loop-mix-identity/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Vemuram/Myriad w/loop Fuzz Pedal — fuzz / loop-mix identity.md",
       "research_level": "surface",
@@ -54102,7 +54102,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/visual-sound-truetone/jekyll-hyde/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Visual Sound / Truetone/Jekyll & Hyde.md",
       "research_level": "surface",
@@ -54646,7 +54646,7 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/walrus-audio/eons-five-state-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Walrus Audio/Eons Five-State Fuzz.md",
       "research_level": "deep",
@@ -54673,7 +54673,7 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/walrus-audio/eras-five-state-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Walrus Audio/Eras Five-State Distortion.md",
       "research_level": "deep",
@@ -55228,7 +55228,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/wampler-pedals/mofetta/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Wampler Pedals/Mofetta.md",
       "research_level": "deep",
@@ -55299,7 +55299,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/wampler-pedals/pinnacle-deluxe-v2/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Wampler Pedals/Pinnacle Deluxe v2.md",
       "research_level": "deep",
@@ -55311,7 +55311,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/wampler-pedals/pinnacle-standard/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Wampler Pedals/Pinnacle Standard.md",
       "research_level": "deep",
@@ -55323,7 +55323,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/wampler-pedals/plexi-drive-deluxe/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Wampler Pedals/Plexi Drive Deluxe.md",
       "research_level": "deep",
@@ -55679,7 +55679,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/way-huge/fuzz-box/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Way Huge/Fuzz Box.md",
       "research_level": "deep",
@@ -55691,7 +55691,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/way-huge/geisha-drive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Way Huge/Geisha Drive.md",
       "research_level": "deep",
@@ -55703,7 +55703,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/way-huge/green-rhino-mkiv/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Way Huge/Green Rhino MkIV.md",
       "research_level": "deep",
@@ -56036,7 +56036,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/wmd-devices/geiger-counter-pro/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/WMD Devices/Geiger Counter Pro.md",
       "research_level": "surface",
@@ -56049,7 +56049,7 @@
         "Distortion",
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/wren-and-cuff/ace-octave-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Wren and Cuff/Ace Octave Fuzz.md",
       "research_level": "deep",
@@ -56063,7 +56063,7 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/wren-and-cuff/anna-compact/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Wren and Cuff/Anna Compact.md",
       "research_level": "deep",
@@ -56076,7 +56076,7 @@
         "Distortion",
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/wren-and-cuff/blue-violet-caprid-og/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Wren and Cuff/Blue-Violet Caprid OG.md",
       "research_level": "deep",
