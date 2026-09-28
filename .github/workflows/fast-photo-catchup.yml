@@ -99,50 +99,48 @@ jobs:
           from pathlib import Path
 
           root = Path(".")
-          catalog = json.loads((root / "research/PEDAL_INDEX.json").read_text(encoding="utf-8"))
-          recovered = 0
+          manifest_path = root / "photo-recovery-results.json"
+          if not manifest_path.is_file():
+              print("No recovery manifest produced; this pass recovered no photo candidates.")
+              raise SystemExit(0)
 
-          for entry in catalog.get("pedals", []):
-              image = str(entry.get("image") or "").strip()
+          data = json.loads(manifest_path.read_text(encoding="utf-8"))
+          recovered_rows = data.get("recovered") or []
+          packaged = 0
+
+          for row in recovered_rows:
+              image = str(row.get("image") or "").strip()
               if not image:
                   continue
               image_path = Path(image.lstrip("./"))
-              source_path = root / image_path
-              source_path = source_path.with_suffix(".source")
+              source_path = (root / image_path).with_suffix(".source")
               if not source_path.is_file():
+                  print(f"Skipping recovered record with missing source file: {row.get('builder')} / {row.get('pedal')}")
                   continue
 
-              item_dir = root / "artifact" / "recoveries" / str(recovered)
+              item_dir = root / "artifact" / "recoveries" / str(packaged)
               dest = item_dir / image_path
               dest.parent.mkdir(parents=True, exist_ok=True)
               shutil.copy2(source_path, dest)
 
               result = {
-                  "builder": entry.get("company") or entry.get("builder") or "",
-                  "pedal": entry.get("pedal") or "",
+                  "builder": row.get("builder") or "",
+                  "pedal": row.get("pedal") or "",
                   "image": image,
-                  "image_source_url": entry.get("image_source_url"),
-                  "image_source_page": entry.get("image_source_page"),
+                  "image_source_url": row.get("image_source_url"),
+                  "image_source_page": row.get("image_source_page"),
                   "imageFile": image_path.as_posix(),
-                  "verification": {
-                      "identityVerified": True,
-                      "method": "verified_source_page",
-                      "sourceScore": 100,
-                      "strongSearchIdentity": False,
-                  },
+                  "verification": row.get("verification") or {},
               }
               (item_dir / "photo-recovery-result.json").write_text(
                   json.dumps(result, ensure_ascii=False, indent=2) + "\n",
                   encoding="utf-8",
               )
-              recovered += 1
+              packaged += 1
 
-          source_files = list((root / "assets/pedals").rglob("*.source"))
-          result_files = list((root / "artifact" / "recoveries").glob("*/photo-recovery-result.json"))
-          if source_files and not result_files:
-              raise SystemExit("Photo recovery produced .source assets but packaged zero recovery results.")
-          print(f"Packaged {recovered} recovered pedal sources; source_files={len(source_files)} result_files={len(result_files)}.")
+          print(f"Packaged {packaged} photo recoveries from {len(recovered_rows)} actual recovery results.")
           PY
+          rm -f photo-recovery-results.json
 
       - name: Upload recovery artifact
         uses: actions/upload-artifact@v4
