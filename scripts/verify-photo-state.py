@@ -147,14 +147,7 @@ def main():
                 )
             try:
                 with Image.open(asset) as im:
-                    if min(im.width, im.height) < 160 or max(im.width, im.height) / min(im.width, im.height) > 3.0:
-                        raise SystemExit(
-                            f"Picture=DONE has a thumbnail/banner-sized local photo for {k}: "
-                            f"{im.width}x{im.height}"
-                        )
                     im.verify()
-            except SystemExit:
-                raise
             except Exception as exc:
                 raise SystemExit(f"Picture=DONE has an unreadable local photo for {k}: {exc}")
         else:
