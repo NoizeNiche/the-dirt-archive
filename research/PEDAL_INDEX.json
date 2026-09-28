@@ -1862,11 +1862,13 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/aguilar/tone-hammer/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/aguilar/tonehammer",
       "research_record": "./research/pedals/Aguilar/Tone Hammer.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://files.effectsdatabase.com/gear/pics/aguilar_tonehammer-silver_001.jpg",
+      "image_source_page": "https://www.effectsdatabase.com/model/aguilar/tonehammer"
     },
     {
       "company": "Airis Effects",
@@ -4827,11 +4829,13 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/ashdown-engineering/james-lomenzo-hyper-drive/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/ashdown",
       "research_record": "./research/pedals/Ashdown Engineering/James LoMenzo Hyper Drive.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://files.effectsdatabase.com/graphics/buymeacoffee.png",
+      "image_source_page": "https://www.effectsdatabase.com/model/ashdown"
     },
     {
       "company": "Ashdown Engineering",
@@ -4852,11 +4856,13 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/ashdown-engineering/jm-john-myung-double-drive/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/ashdown",
       "research_record": "./research/pedals/Ashdown Engineering/JM John Myung Double Drive.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://files.effectsdatabase.com/graphics/buymeacoffee.png",
+      "image_source_page": "https://www.effectsdatabase.com/model/ashdown"
     },
     {
       "company": "Ashdown Engineering",
@@ -4929,11 +4935,13 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/ashdown-engineering/triple-shot-blended-drive/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/ashdown",
       "research_record": "./research/pedals/Ashdown Engineering/Triple Shot - Blended Drive.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://ashdownmusic.com/cdn/shop/files/FRONT_602b8a72-37d1-41ba-a219-dc7907e3329b.jpg?v=1687868063&width=1000",
+      "image_source_page": "https://ashdownmusic.com/collections/pedals-1/products/ashdown-triple-shot"
     },
     {
       "company": "Asheville Guitar Pedals",
@@ -6703,11 +6711,13 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/backbeat-electric/doctor-fuzz/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/backbeat",
       "research_record": "./research/pedals/Backbeat Electric/Doctor Fuzz.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://files.effectsdatabase.com/brands/thumbs/backbeat_000.jpg",
+      "image_source_page": "https://www.effectsdatabase.com/model/backbeat"
     },
     {
       "company": "Backbeat Electric",
@@ -7280,11 +7290,13 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/bae-audio/tonestack-fuzz/primary.webp",
       "source_page": "https://www.baeaudio.com/",
       "research_record": "./research/pedals/BAE Audio/Tonestack Fuzz.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://files.effectsdatabase.com/graphics/buymeacoffee.png",
+      "image_source_page": "https://www.effectsdatabase.com/model/bae"
     },
     {
       "company": "Baja Tech Custom",
@@ -8709,11 +8721,13 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/bbe/am64-american-metal/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/bbe/am64",
       "research_record": "./research/pedals/BBE/AM64 American Metal.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://files.effectsdatabase.com/gear/pics/bbe_am64_001.jpg",
+      "image_source_page": "https://www.effectsdatabase.com/model/bbe/am64"
     },
     {
       "company": "BBE",
@@ -9568,11 +9582,13 @@
       "types": [
         "Fuzz"
       ],
-      "image": "",
+      "image": "./assets/pedals/benson-amps/chimera-fuzz/primary.webp",
       "source_page": "https://www.bensonamps.com/guitarpedals",
       "research_record": "./research/pedals/Benson Amps/Chimera Fuzz.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://images.squarespace-cdn.com/content/v1/56c5480140261d141ef9243c/317c49ea-1bb9-4045-a962-98a1f0d807e7/germ-boost_01_0679.jpg",
+      "image_source_page": "https://www.bensonamps.com/guitarpedals"
     },
     {
       "company": "Benson Amps",
@@ -9888,11 +9904,13 @@
         "Overdrive",
         "Boost"
       ],
-      "image": null,
+      "image": "./assets/pedals/big-ear/luck-drive/primary.webp",
       "source_page": "https://www.bigearpedals.com/post/making-of-the-luck-drive-for-luck-reunion-2019",
       "research_record": "./research/pedals/Big Ear/Luck Drive.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://i.ytimg.com/vi/0d2haJ-y55g/hqdefault.jpg",
+      "image_source_page": "https://www.bigearpedals.com/post/making-of-the-luck-drive-for-luck-reunion-2019"
     },
     {
       "company": "Big Ear",
@@ -9994,11 +10012,13 @@
         "Overdrive",
         "Boost"
       ],
-      "image": null,
+      "image": "./assets/pedals/big-ear-nyc/more-more-more/primary.webp",
       "source_page": "https://www.effectsdatabase.com/updates/weekly/20140804",
       "research_record": "./research/pedals/Big Ear NYC/More More More.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://files.effectsdatabase.com/graphics/google-preferred-source-sq.png",
+      "image_source_page": "https://www.effectsdatabase.com/updates/weekly/20140804"
     },
     {
       "company": "Big Ear NYC",
@@ -10168,11 +10188,13 @@
       "types": [
         "Distortion"
       ],
-      "image": "",
+      "image": "./assets/pedals/big-joe-stomp-box-company/b-302-rock/primary.webp",
       "source_page": "https://bigjoestompbox.com/products/b-302-rock",
       "research_record": "./research/pedals/Big Joe Stomp Box Company/B-302 ROCK.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://bigjoestompbox.com/cdn/shop/products/Untitled-1_0001s_0002_ROCK_900x.jpg?v=1521666541",
+      "image_source_page": "https://bigjoestompbox.com/products/b-302-rock"
     },
     {
       "company": "Big Joe Stomp Box Company",
@@ -10180,11 +10202,13 @@
       "types": [
         "Distortion"
       ],
-      "image": "",
+      "image": "./assets/pedals/big-joe-stomp-box-company/b-303-metal/primary.webp",
       "source_page": "https://bigjoestompbox.com/products/b-303-metal",
       "research_record": "./research/pedals/Big Joe Stomp Box Company/B-303 METAL.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://bigjoestompbox.com/cdn/shop/products/11455786_800_2_900x.jpg?v=1522264538",
+      "image_source_page": "https://bigjoestompbox.com/products/b-303-metal"
     },
     {
       "company": "Big Joe Stomp Box Company",
@@ -10206,11 +10230,13 @@
       "types": [
         "Fuzz"
       ],
-      "image": "",
+      "image": "./assets/pedals/big-joe-stomp-box-company/b-312-freakshow-fuzz-silicon/primary.webp",
       "source_page": "https://bigjoestompbox.com/products/b-312-freakshow-fuzz-silicon",
       "research_record": "./research/pedals/Big Joe Stomp Box Company/B-312 FREAKSHOW FUZZ (SILICON).md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://bigjoestompbox.com/cdn/shop/products/B-312FreakshowFuzz_Silicon_300x.jpg?v=1530303718",
+      "image_source_page": "https://bigjoestompbox.com/products/b-312-freakshow-fuzz-silicon"
     },
     {
       "company": "Big Joe Stomp Box Company",
@@ -10218,11 +10244,13 @@
       "types": [
         "Fuzz"
       ],
-      "image": "",
+      "image": "./assets/pedals/big-joe-stomp-box-company/b-313-freakshow-fuzz-germanium/primary.webp",
       "source_page": "https://bigjoestompbox.com/products/b-307g-freakshow-fuzz",
       "research_record": "./research/pedals/Big Joe Stomp Box Company/B-313 FREAKSHOW FUZZ (GERMANIUM).md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://bigjoestompbox.com/cdn/shop/products/B-313FreakshowFuzz_Germanium_900x.jpg?v=1530303756",
+      "image_source_page": "https://bigjoestompbox.com/products/b-307g-freakshow-fuzz"
     },
     {
       "company": "Big Joe Stomp Box Company",
@@ -10245,11 +10273,13 @@
       "types": [
         "Distortion"
       ],
-      "image": "",
+      "image": "./assets/pedals/big-joe-stomp-box-company/r-401-saturated/primary.webp",
       "source_page": "https://bigjoestompbox.com/products/r-401-saturated",
       "research_record": "./research/pedals/Big Joe Stomp Box Company/R-401 SATURATED.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://bigjoestompbox.com/cdn/shop/products/Untitled-1_0005_Layer_1_900x.jpg?v=1521559665",
+      "image_source_page": "https://bigjoestompbox.com/products/r-401-saturated"
     },
     {
       "company": "Big Joe Stomp Box Company",
@@ -10299,11 +10329,13 @@
       "types": [
         "Distortion"
       ],
-      "image": "",
+      "image": "./assets/pedals/big-joe-stomp-box-company/r-405-hard/primary.webp",
       "source_page": "https://bigjoestompbox.com/products/r-405-hard",
       "research_record": "./research/pedals/Big Joe Stomp Box Company/R-405 HARD.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://bigjoestompbox.com/cdn/shop/products/Untitled-1_0002_11464156_800_900x.jpg?v=1521554428",
+      "image_source_page": "https://bigjoestompbox.com/products/r-405-hard"
     },
     {
       "company": "Big John Effects",
@@ -10311,11 +10343,13 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/big-john-effects/bassdrive/primary.webp",
       "source_page": "https://bigjohnmusic.com/about/",
       "research_record": "./research/pedals/Big John Effects/BassDrive.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://bigjohnmusic.com/wp-content/uploads/2026/06/arnoud2026.jpg",
+      "image_source_page": "https://bigjohnmusic.com/about/"
     },
     {
       "company": "Big John Effects",
@@ -12092,11 +12126,13 @@
       "types": [
         "Distortion"
       ],
-      "image": "",
+      "image": "./assets/pedals/bjfe-bjf-electronics/cliff-hanger-ii/primary.webp",
       "source_page": "https://www.bjornjuhl.com/forum/viewtopic.php-f%3D6%26t%3D1555.html",
       "research_record": "./research/pedals/BJFE / BJF Electronics/Cliff Hanger II.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "http://i270.photobucket.com/albums/jj112/DonnerBox/bjf1.jpg",
+      "image_source_page": "https://www.bjornjuhl.com/forum/viewtopic.php-f%3D6%26t%3D1555.html"
     },
     {
       "company": "BJFE / BJF Electronics",
@@ -12200,11 +12236,13 @@
       "types": [
         "Fuzz"
       ],
-      "image": "",
+      "image": "./assets/pedals/bjfe-bjf-electronics/folk-fuzz-3-5/primary.webp",
       "source_page": "https://www.bjornjuhl.com/forum/viewtopic.php-f%3D6%26t%3D1555.html",
       "research_record": "./research/pedals/BJFE / BJF Electronics/Folk Fuzz 3.5%.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "http://i270.photobucket.com/albums/jj112/DonnerBox/bjf1.jpg",
+      "image_source_page": "https://www.bjornjuhl.com/forum/viewtopic.php-f%3D6%26t%3D1555.html"
     },
     {
       "company": "BJFE / BJF Electronics",
@@ -12317,11 +12355,13 @@
       "types": [
         "Distortion"
       ],
-      "image": "",
+      "image": "./assets/pedals/bjfe-bjf-electronics/rebel-red-distortion/primary.webp",
       "source_page": "https://www.bjornjuhl.com/forum/viewtopic.php-f%3D6%26t%3D1555.html",
       "research_record": "./research/pedals/BJFE / BJF Electronics/Rebel Red Distortion.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "http://i270.photobucket.com/albums/jj112/DonnerBox/bjf1.jpg",
+      "image_source_page": "https://www.bjornjuhl.com/forum/viewtopic.php-f%3D6%26t%3D1555.html"
     },
     {
       "company": "BJFE / BJF Electronics",
@@ -12329,11 +12369,13 @@
       "types": [
         "Overdrive"
       ],
-      "image": "",
+      "image": "./assets/pedals/bjfe-bjf-electronics/saffron-yellow-overdrive-syod/primary.webp",
       "source_page": "https://www.bjornjuhl.com/forum/viewtopic.php-f%3D6%26t%3D1555.html",
       "research_record": "./research/pedals/BJFE / BJF Electronics/Saffron Yellow Overdrive (SYOD).md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "http://i270.photobucket.com/albums/jj112/DonnerBox/bjf1.jpg",
+      "image_source_page": "https://www.bjornjuhl.com/forum/viewtopic.php-f%3D6%26t%3D1555.html"
     },
     {
       "company": "BJFE / BJF Electronics",
@@ -12373,11 +12415,13 @@
       "types": [
         "Fuzz"
       ],
-      "image": "",
+      "image": "./assets/pedals/bjfe-bjf-electronics/sparkling-red-fuzz/primary.webp",
       "source_page": "https://www.bjornjuhl.com/forum/viewtopic.php-f%3D6%26t%3D1555.html",
       "research_record": "./research/pedals/BJFE / BJF Electronics/Sparkling Red Fuzz.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "http://i270.photobucket.com/albums/jj112/DonnerBox/bjf1.jpg",
+      "image_source_page": "https://www.bjornjuhl.com/forum/viewtopic.php-f%3D6%26t%3D1555.html"
     },
     {
       "company": "BJFE / BJF Electronics",
@@ -13191,11 +13235,13 @@
       "types": [
         "Fuzz"
       ],
-      "image": "",
+      "image": "./assets/pedals/black-mass-electronics/the-first-herald/primary.webp",
       "source_page": "https://blackmasselectronics.com/collections/fuzz",
       "research_record": "./research/pedals/Black Mass Electronics/The First Herald.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://blackmasselectronics.com/cdn/shop/files/blackmass_410x.png?v=1738535982",
+      "image_source_page": "https://blackmasselectronics.com/products/the-first-herald"
     },
     {
       "company": "Black Mass Electronics",
@@ -13244,11 +13290,13 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/blackbox-music-electronics/oxygen/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/blackbox/oxygen",
       "research_record": "./research/pedals/Blackbox Music Electronics/Oxygen.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://files.effectsdatabase.com/gear/pics/blackbox-oohlala_oxygen_001.jpg",
+      "image_source_page": "https://www.effectsdatabase.com/model/blackbox/oxygen"
     },
     {
       "company": "Blackbox Music Electronics",
