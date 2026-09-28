@@ -67,4 +67,4 @@ Recover stranded VERIFIED_EVIDENCE_STAGED packets after publication handoff fix;
 Retry bounded research publication after fixing stranded-packet handoff syntax; recover prior verified packets and publish canonical depth.
 2026-09-28T09:26:00Z
 Publish the source-rich research batch after relaxing the false admission-count equality gate; preserve verified no-op packets without discarding valid deepening.
-
+[2026-09-28T10:14:59.301Z] Deadline push: force another bounded 20-worker research pass from current canonical frontier.
