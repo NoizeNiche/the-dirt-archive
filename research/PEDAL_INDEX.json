@@ -13450,7 +13450,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/blackbox-music-electronics/ultraviolet/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/blackbox/ultraviolet",
       "research_record": "./research/pedals/Blackbox Music Electronics/Ultraviolet.md",
       "research_level": "deep",
@@ -13462,7 +13462,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1319
+      "image_source_priority": 1319,
+      "image_source_url": "https://rvb-img.reverb.com/i/s--EEmSKWMh--/gravity=auto,quality=medium-low,width=200,height=200,format=jpeg/d6aynkocutldgy3tkvlf.jpg"
     },
     {
       "company": "Blackbox Music Electronics",
