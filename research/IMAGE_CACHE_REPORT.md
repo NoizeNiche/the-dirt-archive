@@ -1,11 +1,11 @@
 # Pedal Image Cache Report
 
-- Cached in this run: **4**
+- Cached in this run: **9**
 - Staged browser photos converted: **0**
 - Local images retained/reorganized: **0**
 - Download failures: **1**
-- Remaining tracker photo backlog: **285**
-- Researched, photo pending: **285**
+- Remaining tracker photo backlog: **276**
+- Researched, photo pending: **276**
 - External source images awaiting localization: **0**
 
 ## Storage layout
@@ -16,10 +16,15 @@
 
 ## Newly cached
 
-- J. Rockett Audio Designs - Animal Overdrive -> `./assets/pedals/j-rockett-audio-designs/animal-overdrive/primary.webp`
-- J. Rockett Audio Designs - El Hombre -> `./assets/pedals/j-rockett-audio-designs/el-hombre/primary.webp`
-- J. Rockett Audio Designs - Flex Drive -> `./assets/pedals/j-rockett-audio-designs/flex-drive/primary.webp`
-- J. Rockett Audio Designs - GTO -> `./assets/pedals/j-rockett-audio-designs/gto/primary.webp`
+- AboveGroundFX - Rocks Hard -> `./assets/pedals/abovegroundfx/rocks-hard/primary.webp`
+- Devi Ever FX - ND Never Drive -> `./assets/pedals/devi-ever-fx/nd-never-drive/primary.webp`
+- J. Rockett Audio Designs - Hooligan Fuzz -> `./assets/pedals/j-rockett-audio-designs/hooligan-fuzz/primary.webp`
+- J. Rockett Audio Designs - Majestic Overdrive -> `./assets/pedals/j-rockett-audio-designs/majestic-overdrive/primary.webp`
+- J. Rockett Audio Designs - Monkey Man -> `./assets/pedals/j-rockett-audio-designs/monkey-man/primary.webp`
+- J. Rockett Audio Designs - WTF Fuzz -> `./assets/pedals/j-rockett-audio-designs/wtf-fuzz/primary.webp`
+- JHS Pedals - 73 Rams Head -> `./assets/pedals/jhs-pedals/73-rams-head/primary.webp`
+- JHS Pedals - Colour Box V1 -> `./assets/pedals/jhs-pedals/colour-box-v1/primary.webp`
+- JHS Pedals - Double Barrel V4 -> `./assets/pedals/jhs-pedals/double-barrel-v4/primary.webp`
 
 ## Still external / failed
 

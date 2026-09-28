@@ -1,27 +1,34 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-28T11:10:01.356863+00:00",
+  "generated_at": "2026-09-28T11:10:55.065713+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
   "counts": {
     "total": 4206,
     "researched": 4206,
-    "pictured": 3921,
-    "complete": 3921,
+    "pictured": 3930,
+    "complete": 3930,
     "research_pending": 0,
     "deep_research_pending": 54,
     "deep_researched": 4152,
     "surface_ready": 4206
   },
   "next_target": {
-    "builder": "NUX Audio / NUX",
-    "pedal": "Ace of Tone",
+    "builder": "Pigdog Pedals",
+    "pedal": "GO",
     "catalog_type": "Overdrive",
-    "research_record": "./research/pedals/NUX Audio / NUX/Ace of Tone.md",
+    "research_record": "./research/pedals/Pigdog Pedals/GO.md",
     "research_level": "surface"
   },
   "working_set": [
+    {
+      "builder": "Pigdog Pedals",
+      "pedal": "GO",
+      "catalog_type": "Overdrive",
+      "research_record": "./research/pedals/Pigdog Pedals/GO.md",
+      "research_level": "surface"
+    },
     {
       "builder": "NUX Audio / NUX",
       "pedal": "Ace of Tone",
@@ -41,13 +48,6 @@
       "pedal": "FZ-2 Vintage Fuzz",
       "catalog_type": "Fuzz",
       "research_record": "./research/pedals/NUX Audio / NUX/FZ-2 Vintage Fuzz.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Pigdog Pedals",
-      "pedal": "GO",
-      "catalog_type": "Overdrive",
-      "research_record": "./research/pedals/Pigdog Pedals/GO.md",
       "research_level": "surface"
     },
     {

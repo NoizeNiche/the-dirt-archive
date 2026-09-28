@@ -582,7 +582,9 @@
       "image_source_pages_verified": true,
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://www.effectsdatabase.com/model/aboveground/rockshard"
+      "image_source_page": "https://www.effectsdatabase.com/model/aboveground/rockshard",
+      "image_source_url": "https://files.effectsdatabase.com/gear/thumbs/aboveground_rockshard-snamm2010_001.jpg",
+      "image": "./assets/pedals/abovegroundfx/rocks-hard/primary.webp"
     },
     {
       "company": "Absolutely Analog",
@@ -32589,11 +32591,13 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": "",
+      "image": "./assets/pedals/devi-ever-fx/nd-never-drive/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/deviever",
       "research_record": "./research/pedals/Devi Ever FX/ND Never Drive.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://files.effectsdatabase.com/graphics/google-preferred-source-sq.png",
+      "image_source_page": "https://www.effectsdatabase.com/model/deviever"
     },
     {
       "company": "Devi Ever FX",
@@ -39411,11 +39415,13 @@
       "types": [
         "Fuzz"
       ],
-      "image": "",
+      "image": "./assets/pedals/j-rockett-audio-designs/hooligan-fuzz/primary.webp",
       "source_page": "https://rockettpedals.com/",
       "research_record": "./research/pedals/J. Rockett Audio Designs/Hooligan Fuzz.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://assets.rbl.ms/62183840/origin.png",
+      "image_source_page": "https://www.premierguitar.com/j-rockett-audio-designs-unveils-the-hooligan-fuzz"
     },
     {
       "company": "J. Rockett Audio Designs",
@@ -39447,11 +39453,13 @@
       "types": [
         "Overdrive"
       ],
-      "image": "",
+      "image": "./assets/pedals/j-rockett-audio-designs/majestic-overdrive/primary.webp",
       "source_page": "https://rockettpedals.com/",
       "research_record": "./research/pedals/J. Rockett Audio Designs/Majestic Overdrive.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://rockettpedals.com/wp-content/uploads/2024/08/hero-image.jpg",
+      "image_source_page": "https://rockettpedals.com/"
     },
     {
       "company": "J. Rockett Audio Designs",
@@ -39459,11 +39467,13 @@
       "types": [
         "Overdrive"
       ],
-      "image": "",
+      "image": "./assets/pedals/j-rockett-audio-designs/monkey-man/primary.webp",
       "source_page": "https://rockettpedals.com/",
       "research_record": "./research/pedals/J. Rockett Audio Designs/Monkey Man.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://rockettpedals.com/wp-content/uploads/2024/08/hero-image.jpg",
+      "image_source_page": "https://rockettpedals.com/"
     },
     {
       "company": "J. Rockett Audio Designs",
@@ -39483,11 +39493,13 @@
       "types": [
         "Fuzz"
       ],
-      "image": "",
+      "image": "./assets/pedals/j-rockett-audio-designs/wtf-fuzz/primary.webp",
       "source_page": "https://rockettpedals.com/",
       "research_record": "./research/pedals/J. Rockett Audio Designs/WTF Fuzz.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://willcuttguitars.com/cdn/shop/files/wgslogo1311R_410x.png?v=1767731832",
+      "image_source_page": "https://willcuttguitars.com/products/j-rockett-audio-designs-wtf-fuzz"
     },
     {
       "company": "Jackson Audio",
@@ -39936,7 +39948,10 @@
       "source_page": "https://jhspedals.info/products/73-rams-head",
       "research_record": "./research/pedals/JHS Pedals/73 Rams Head.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://jhspedals.info/cdn/shop/files/JHS-Pedals-73-RamsHead-top_1100x.jpg?v=1711719222",
+      "image_source_page": "https://jhspedals.info/products/73-rams-head",
+      "image": "./assets/pedals/jhs-pedals/73-rams-head/primary.webp"
     },
     {
       "company": "JHS Pedals",
@@ -40046,7 +40061,10 @@
       "source_page": "https://jhspedals.info/products/colour-box-v1",
       "research_record": "./research/pedals/JHS Pedals/Colour Box V1.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://jhspedals.info/cdn/shop/files/JHS-Colourbox-top-3_1100x.jpg?v=1711720153",
+      "image_source_page": "https://jhspedals.info/products/colour-box-v1",
+      "image": "./assets/pedals/jhs-pedals/colour-box-v1/primary.webp"
     },
     {
       "company": "JHS Pedals",
@@ -40096,7 +40114,10 @@
       "source_page": "https://jhspedals.info/products/double-barrel-v4",
       "research_record": "./research/pedals/JHS Pedals/Double Barrel V4.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://jhspedals.info/cdn/shop/files/JHS-Pedals-DoubleBarrelV4-SizeEdit_1100x.jpg?v=1751052942",
+      "image_source_page": "https://jhspedals.info/products/double-barrel-v4",
+      "image": "./assets/pedals/jhs-pedals/double-barrel-v4/primary.webp"
     },
     {
       "company": "JHS Pedals",
