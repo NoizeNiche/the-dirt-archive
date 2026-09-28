@@ -15,6 +15,7 @@ INDEX = ROOT / "research/PEDAL_INDEX.json"
 MANIFEST = ROOT / "research/pedals/PEDAL_IMAGES.json"
 BACKLOG = ROOT / "research/PHOTO_BACKLOG.csv"
 QUEUE = ROOT / "research/PHOTO_REVIEW_QUEUE.csv"
+PHOTO_SOURCE_BLOCKLIST = ROOT / "research/PHOTO_SOURCE_BLOCKLIST.json"
 
 
 def key(builder, pedal):
@@ -48,6 +49,23 @@ def suspicious_photo_provenance(manifest_entry, catalog_entry):
     ]
     joined = " ".join(values).lower()
     reasons = []
+    try:
+        policy = json.loads(PHOTO_SOURCE_BLOCKLIST.read_text(encoding="utf-8"))
+        for value in values:
+            lowered = str(value or "").lower()
+            for rule in policy.get("rules", []):
+                kind = str(rule.get("type") or "")
+                pattern = str(rule.get("pattern") or "")
+                if kind == "exact_url" and lowered == pattern.lower():
+                    reasons.append("blocked source policy: " + (rule.get("reason") or pattern))
+                elif kind == "url_regex" and pattern:
+                    try:
+                        if re.search(pattern, lowered, re.I):
+                            reasons.append("blocked source policy: " + (rule.get("reason") or pattern))
+                    except re.error:
+                        pass
+    except Exception:
+        pass
     if re.search(r"(^|[/.?=&_-])favicon(?:\\.ico)?([/?#=&_.-]|$)", joined):
         reasons.append("favicon source")
     if re.search(r"freepnglogos\\.com", joined):
