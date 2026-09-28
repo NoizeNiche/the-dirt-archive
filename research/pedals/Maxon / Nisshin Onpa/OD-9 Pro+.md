@@ -1,23 +1,48 @@
 # Maxon / Nisshin Onpa — OD-9 Pro+
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** OD-9 Pro+
 - **Builder:** Maxon / Nisshin Onpa
-- **Pedal:** OD-9 Pro+
 - **Catalog type:** Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Research level:** Deep
+- **Deep research status:** Verified
+- **Identity:** Maxon OD-9 Pro+, the OD-9-based overdrive with switchable 9/18V operation and a mid-boost stage.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **OD-9 Pro+** by **Maxon / Nisshin Onpa** as a **Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Maxon/Godlyke documents the OD-9 Pro+ as an OD-9-based overdrive with additional gain and low-end at 18V, plus a switchable mid boost centered around approximately 800 Hz. [1]
 
-## Catalog source
-- Catalog source page on file: https://www.maxonfx.com/
+## Controls
+- **DRIVE**
+- **TONE**
+- **LEVEL**
+- **BOOST/NORMAL** switch
+- **9/18V** operation switch [1]
+
+## Circuit / architecture
+The documented signal path begins with a JFET buffer, followed by a switchable op-amp mid-boost stage whose clipping diodes sit in the feedback loop. The signal then enters the standard OD-9-style clipping op amp with feedback-loop diodes, followed by filtering, an active tone stage, volume, and an op-amp output boost stage. A NJM2374A voltage-conversion IC creates the higher internal voltage swing. [1]
+
+## Transistor
+- **Documented device class:** JFET buffer. [1]
+- **Exact production JFET part number:** Not established in the verified product text.
+
+## Diode
+- **Documented function:** clipping diodes in the mid-boost and main clipping op-amp feedback paths. [1]
+- **Exact diode part number:** Unknown.
+
+## Power and physical specification
+- **Input power:** 9V battery or special AC adaptor. [1]
+- **9/18V operation:** documented. [1]
+- **Maximum gain:** 43 dB normal / 46 dB boost at the documented test frequencies. [1]
+- **Dimensions:** 74 × 124 × 54 mm. [1]
+- **Weight:** 580 g. [1]
+- **True bypass:** mechanical Fujisoku 4PDT switching. [1]
+
+## Sound
+Maxon describes the 9V mode as close to the standard OD-9 character with added mid boost, while 18V operation increases headroom, low end, dynamics, saturation, and pick response. [1]
+
+## Sources checked
+1. **Maxon / Godlyke — Overdrive Pro Plus (OD-9Pro+):** https://maxonfx.com/products/overdrive-pro-plus-od-9pro
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately.
+- Exact-model photo provenance remains governed by the archive's photo identity gate.
