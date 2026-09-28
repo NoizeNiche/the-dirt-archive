@@ -4794,12 +4794,10 @@
       "types": [
         "Overdrive"
       ],
-      "image": "./assets/pedals/ashdown-engineering/agm-pro-fx-retro-drive/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/ashdown",
       "research_record": "./research/pedals/Ashdown Engineering/AGM PRO-FX Retro Drive.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_url": "https://www.effectsdatabase.com/misc/ebaytabs/loading.gif",
       "image_source_page": "https://www.effectsdatabase.com/model/ashdown"
     },
     {
@@ -25903,11 +25901,9 @@
       "types": [
         "Distortion"
       ],
-      "image": "./assets/pedals/collins/cdt-1-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Collins/CDT-1 Distortion.md",
       "image_source_page": "https://www.effectsdatabase.com/taxonomy/term/8/0?page=46",
-      "image_source_url": "https://www.effectsdatabase.com/misc/ebaytabs/loading.gif",
       "research_level": "deep",
       "deep_research_status": "VERIFIED"
     },
@@ -32578,12 +32574,10 @@
       "types": [
         "Fuzz"
       ],
-      "image": "",
       "source_page": "https://www.effectsdatabase.com/model/deviever",
       "research_record": "./research/pedals/Devi Ever FX/Fuzz.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_url": "https://assets.equipboard.com/assets/tailwind_layout/equipboard-logo-dark-0246d7d7decd172d03928e89654287c57c5251d0a87146c42edcc342f4443033.svg",
       "image_source_page": "https://www.effectsdatabase.com/model/deviever/fuzz",
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/deviever/fuzz"
@@ -34942,10 +34936,8 @@
       "types": [
         "Overdrive"
       ],
-      "image": "./assets/pedals/earthquaker-devices/gray-channel/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/EarthQuaker Devices/Gray Channel.md",
-      "image_source_url": "https://www.earthquakerdevices.com/universal/svg/social-accounts.svg",
       "image_source_page": "https://www.earthquakerdevices.com/legacy",
       "research_level": "deep",
       "deep_research_status": "VERIFIED"

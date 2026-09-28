@@ -2298,7 +2298,6 @@
   {
     "builder": "Ashdown Engineering",
     "pedal": "AGM PRO-FX Retro Drive",
-    "image": "./assets/pedals/ashdown-engineering/agm-pro-fx-retro-drive/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/ashdown",
     "research_record": "./research/pedals/Ashdown Engineering/AGM PRO-FX Retro Drive.md"
   },
@@ -12368,7 +12367,6 @@
   {
     "builder": "Collins",
     "pedal": "CDT-1 Distortion",
-    "image": "./assets/pedals/collins/cdt-1-distortion/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Collins/CDT-1 Distortion.md"
   },
@@ -15924,7 +15922,6 @@
   {
     "builder": "Devi Ever FX",
     "pedal": "Fuzz",
-    "image": "",
     "source_page": "https://www.effectsdatabase.com/model/deviever",
     "research_record": "./research/pedals/Devi Ever FX/Fuzz.md"
   },
@@ -17170,7 +17167,6 @@
   {
     "builder": "EarthQuaker Devices",
     "pedal": "Gray Channel",
-    "image": "./assets/pedals/earthquaker-devices/gray-channel/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/EarthQuaker Devices/Gray Channel.md"
   },
