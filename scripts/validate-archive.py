@@ -90,6 +90,7 @@ def main():
         "https://noizeniche.github.io/the-dirt-archive/",
         "https://noizeniche.github.io/the-dirt-archive/methodology.html",
         "https://noizeniche.github.io/the-dirt-archive/audit.html",
+        "https://noizeniche.github.io/the-dirt-archive/compare.html",
     }
     robots_text = ROBOTS.read_text(encoding="utf-8")
     if "Sitemap: https://noizeniche.github.io/the-dirt-archive/sitemap.xml" not in robots_text:
