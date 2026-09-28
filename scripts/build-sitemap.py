@@ -53,6 +53,7 @@ def main() -> None:
 
     urls = [
         BASE,
+        BASE + "builders.html",
         BASE + "methodology.html",
         BASE + "audit.html",
         BASE + "compare.html",
