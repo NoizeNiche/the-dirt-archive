@@ -6719,12 +6719,12 @@
       "types": [
         "Fuzz"
       ],
-      "image": "./assets/pedals/backbeat-electric/blue-blender/primary.webp",
+      "image": null,
       "source_page": "https://www.effectsdatabase.com/model/backbeat",
       "research_record": "./research/pedals/Backbeat Electric/Blue Blender.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_url": "https://files.effectsdatabase.com/graphics/buymeacoffee.png",
+      "image_source_url": null,
       "image_source_page": "https://www.effectsdatabase.com/model/backbeat"
     },
     {
@@ -11684,12 +11684,12 @@
         "Overdrive",
         "Fuzz"
       ],
-      "image": "./assets/pedals/bixonic/exp2001-expandora-ii/primary.webp",
+      "image": null,
       "source_page": "https://www.effectsdatabase.com/model/bixonic",
       "research_record": "./research/pedals/Bixonic/EXP2001 Expandora II.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_url": "https://files.effectsdatabase.com/graphics/buymeacoffee.png",
+      "image_source_url": null,
       "image_source_page": "https://www.effectsdatabase.com/model/bixonic"
     },
     {
