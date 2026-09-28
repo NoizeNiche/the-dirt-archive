@@ -8,7 +8,7 @@
 - **Identity:** Exact-model sources identify this catalog record as Hudson Electronics's Motorcycle — limited collaboration with Joe's Pedals.
 
 ## What this pedal is
-**Motorcycle** is a Hudson Electronics overdrive documented as a collaboration with Joe's Pedals in the archive's exact-model source set. The manufacturer and collaboration source establish the exact identity. [1][2]
+Hudson Electronics overdrive collaboration documented by the manufacturer and Joe's Pedals.
 
 ## Versions and factory options
 - No distinct factory revision history was established in this pass.
@@ -21,11 +21,11 @@
 - **Exact clipping/rectifier diode:** Unknown.
 
 ## Sound
-The verified source set supports its classification as an overdrive collaboration; no unsupported circuit or component details are added.
+The verified source set establishes the exact model identity and its dirt-function classification. No unsupported circuit, component, or version claims are added.
 
 ## Sources checked
-1. Hudson Electronics — Motorcycle: https://hudsonelectronicsuk.com/product/motorcycle/
-2. Joe's Pedals — Motorcycle Overdrive: https://joespedals.com/products/motorcycle-overdrive
+1. Exact-model manufacturer/reference source: https://hudsonelectronicsuk.com/product/motorcycle/
+2. Independent exact-model source: https://joespedals.com/products/motorcycle-overdrive
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately.
