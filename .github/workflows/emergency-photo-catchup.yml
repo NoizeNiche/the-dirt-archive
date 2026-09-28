@@ -14,7 +14,7 @@ permissions:
 
 concurrency:
   group: dirt-photo-emergency-v1
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 jobs:
   recover:
@@ -89,7 +89,7 @@ jobs:
 
       - name: Publish recovered photos
         env:
-          GH_TOKEN: ${{ github.token }}
+          GH_TOKEN: \${{ github.token }}
         shell: bash
         run: |
           git config user.name "github-actions[bot]"
@@ -109,18 +109,51 @@ jobs:
 
           git commit -m "Archive emergency verified pedal photos"
 
+          resolve_rebase() {
+            for f in CURRENT_STATE.md research/RESEARCH_QUEUE.json research/PRP_TRACKER.csv research/PHOTO_BACKLOG.csv research/IMAGE_CACHE_REPORT.md research/PHOTO_REVIEW_QUEUE.csv; do
+              if git ls-files -u -- "$f" | grep -q .; then
+                git checkout --theirs -- "$f"
+                git add "$f"
+              fi
+            done
+
+            for f in research/PEDAL_INDEX.json research/pedals/PEDAL_IMAGES.json; do
+              if git ls-files -u -- "$f" | grep -q .; then
+                git checkout --ours -- "$f"
+                git add "$f"
+              fi
+            done
+
+            for f in $(git diff --name-only --diff-filter=U); do
+              echo "Unresolved conflict in $f"
+              exit 1
+            done
+
+            GIT_EDITOR=true git rebase --continue
+          }
+
           for attempt in 1 2 3; do
             if git push origin HEAD:main; then
               echo "Published emergency photo recovery."
               gh api --method POST "repos/$GITHUB_REPOSITORY/actions/workflows/deploy-pages.yml/dispatches" -f ref=main || true
               exit 0
             fi
+
             echo "Push race on attempt $attempt. Rebasing onto latest main."
             git fetch origin main
-            git rebase origin/main || {
-              echo "Rebase conflict; leaving the recovery commit available in this run for inspection."
-              git rebase --abort || true
-              exit 1
-            }
+            if ! git rebase origin/main; then
+              resolve_rebase
+            fi
+
+            python scripts/sync-prp-tracker.py
+            python scripts/sync-photo-backlog.py
+            python scripts/prune-photo-review-queue.py
+            python scripts/build-research-queue.py
+            python scripts/refresh-image-cache-report.py
+            python scripts/verify-photo-state.py
+            python scripts/validate-archive.py
+
+            git add assets/pedals research/PEDAL_INDEX.json research/pedals/PEDAL_IMAGES.json research/PRP_TRACKER.csv research/RESEARCH_QUEUE.json CURRENT_STATE.md research/IMAGE_CACHE_REPORT.md research/PHOTO_REVIEW_QUEUE.csv research/PHOTO_BACKLOG.csv
+            git commit --amend --no-edit
           done
           exit 1
