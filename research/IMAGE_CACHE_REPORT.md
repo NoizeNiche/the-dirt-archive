@@ -1,11 +1,11 @@
 # Pedal Image Cache Report
 
-- Cached in this run: **5**
+- Cached in this run: **3**
 - Staged browser photos converted: **0**
 - Local images retained/reorganized: **0**
 - Download failures: **1**
-- Remaining tracker photo backlog: **355**
-- Researched, photo pending: **355**
+- Remaining tracker photo backlog: **352**
+- Researched, photo pending: **352**
 - External source images awaiting localization: **0**
 
 ## Storage layout
@@ -16,11 +16,9 @@
 
 ## Newly cached
 
-- Accel Audio - Stompzilla Fuzz -> `./assets/pedals/accel-audio/stompzilla-fuzz/primary.webp`
-- Bad Cat - Double Drive - Stackable Overdrive -> `./assets/pedals/bad-cat/double-drive-stackable-overdrive/primary.webp`
-- Devi Ever FX - Noise Floor -> `./assets/pedals/devi-ever-fx/noise-floor/primary.webp`
-- Devi Ever FX - PEEPlug -> `./assets/pedals/devi-ever-fx/peeplug/primary.webp`
-- Devi Ever FX - Soda Meiser 4K -> `./assets/pedals/devi-ever-fx/soda-meiser-4k/primary.webp`
+- BOSS - DF-2 Super Feedbacker & Distortion -> `./assets/pedals/boss/df-2-super-feedbacker-distortion/primary.webp`
+- Devi Ever FX - GZ Goddess Zero -> `./assets/pedals/devi-ever-fx/gz-goddess-zero/primary.webp`
+- Devi Ever FX - US -> `./assets/pedals/devi-ever-fx/us/primary.webp`
 
 ## Still external / failed
 

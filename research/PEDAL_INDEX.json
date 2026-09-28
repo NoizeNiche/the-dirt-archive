@@ -15136,11 +15136,13 @@
       "types": [
         "Distortion"
       ],
-      "image": "",
+      "image": "./assets/pedals/boss/df-2-super-feedbacker-distortion/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/boss/compact/df2",
       "research_record": "./research/pedals/BOSS/DF-2 Super Feedbacker & Distortion.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://files.effectsdatabase.com/gear/pics/boss_df-2_002.jpg",
+      "image_source_page": "https://www.effectsdatabase.com/model/boss/compact/df2"
     },
     {
       "company": "BOSS",
@@ -32369,11 +32371,13 @@
       "types": [
         "Fuzz"
       ],
-      "image": "",
+      "image": "./assets/pedals/devi-ever-fx/gz-goddess-zero/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/deviever",
       "research_record": "./research/pedals/Devi Ever FX/GZ Goddess Zero.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://files.effectsdatabase.com/brands/pics/deviever_001.jpg",
+      "image_source_page": "https://www.effectsdatabase.com/model/deviever"
     },
     {
       "company": "Devi Ever FX",
@@ -32876,11 +32880,13 @@
       "types": [
         "Fuzz"
       ],
-      "image": "",
+      "image": "./assets/pedals/devi-ever-fx/us/primary.webp",
       "source_page": "https://reverb.com/p/devi-ever-fx-us-fuzz",
       "research_record": "./research/pedals/Devi Ever FX/US.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://static.reverb-assets.com/production-assets/webpack/images/mobile-header-background-69216940b596520c.png",
+      "image_source_page": "https://reverb.com/p/devi-ever-fx-us-fuzz"
     },
     {
       "company": "Devi Ever FX",
