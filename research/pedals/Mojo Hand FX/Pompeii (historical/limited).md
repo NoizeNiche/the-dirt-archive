@@ -1,23 +1,49 @@
 # Mojo Hand FX — Pompeii (historical/limited)
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Pompeii (historical/limited)
 - **Builder:** Mojo Hand FX
-- **Pedal:** Pompeii (historical/limited)
 - **Catalog type:** Fuzz
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Research level:** Deep
+- **Deep research status:** Verified
+- **Identity:** Mojo Hand FX Limited Edition Pompeii Fuzz.
+
+## Deep research verification
+- **Exact-model evidence:** Verified against exact-model Mojo Hand FX/Prymaxe-era product description and historical demo material.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Pompeii (historical/limited)** by **Mojo Hand FX** as a **Fuzz** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+The Pompeii was the second release in Mojo Hand FX's **Future Vintage Series**, presented as a limited-edition fuzz with a modernized control set and high output. Historical product material identifies it as a Floyd-inspired fuzz circuit. [1][2]
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Circuit / architecture
+Historical product material identifies **two matched BC109 silicon transistors**. [1]
+The pedal adds a **BODY** control to a fuzz/level design, giving additional control over the EQ curve compared with a minimal two-control fuzz.
+
+## Controls
+- **GAIN**
+- **LEVEL / VOLUME**
+- **BODY** [1][2]
+
+The BODY control is described as a simplified version of the tone stack used in Mojo Hand FX's Iron Bell. [1]
+
+## Transistor
+- **Documented devices:** two matched BC109 silicon transistors. [1]
+- **Exact production part variation across all 250 units:** Not independently established.
+
+## Diode
+- **Exact production clipping diode:** Unknown.
+
+## Limited-edition history
+- **Future Vintage Series #2.** [1]
+- **Limited to 250 numbered units**, 001 through 250. [1]
+- Each unit originally included a signed certificate of authenticity. [1]
+
+## Sound
+Historical product material describes the Pompeii as a searing, high-output silicon fuzz with a modernized tone-shaping approach. [1][2]
+
+## Sources checked
+1. **Prymaxe — Mojo Hand FX Pompeii historical product/demo description:** https://www.youtube.com/watch?v=CfY1zfXkaKU
+2. **Mojo Music / Mojo Peppa Sauce — Mojo Hand FX Pompeii Fuzz:** https://www.mojopeppasauce.ca/products/mojo-hand-fx-pompeii-fuzz-pedal
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately.
+- Exact-model photo provenance remains governed by the archive's photo identity gate.
