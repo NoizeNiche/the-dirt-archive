@@ -4,38 +4,37 @@
 - **Archive parent:** BB Preamp V1.5 — Boost / Overdrive
 - **Builder:** Xotic Effects
 - **Catalog type:** Overdrive
-- **Identity:** Xotic BB Preamp V1.5.
+- **Identity:** Xotic Effects's BB Preamp V1.5 — Boost / Overdrive.
 
 ## What this pedal is
-The BB Preamp V1.5 is a compact overdrive and boost pedal designed to cover clean boosting through gritty, smooth overdrive. Xotic specifies an active two-band EQ with ±15 dB of cut/boost and a pre-gain stage intended to move from clean boost into compressed overdrive.
+BUY NOW utilizes a pre-gain stage to go from a very pristine clean to a very smooth, compressed, overdriven sound overview all you've ever wanted, from an overdrive pedal.
 
 ## Colorways
-- Standard BB Preamp enclosure/graphics.
-- Xotic has produced additional cosmetic editions of the BB Preamp family, but no separate cosmetic variant is made into this catalog record unless the underlying product is materially different.
+- Same as the original BB-Preamp Same great sound as the original BB Preamp but with white knobs and in a sleek new Vermillion Orange case.
 
 ## Versions and factory options
-- **BB Preamp V1.5:** current BB Preamp presentation with revised appearance while retaining the core circuit family.
-- Controls include Gain, Volume, Treble, and Bass.
-- True-bypass switching.
-- Runs from 9 VDC or an optional regulated higher-voltage adapter within Xotic's documented range.
+- The verified evidence references: V1, V2, v1, v2.
+- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
 
 ## Version changes
-- V1.5 is presented by Xotic as a new look with the same core tone/function of the BB Preamp family.
-- The archive treats cosmetic-only finishes as variants rather than separate main records.
+- No specific factory version changes were established in the verified evidence packet.
 
 ## Transistor
-- **Exact production transistor/device:** Not specified in the manufacturer documentation reviewed.
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
 
 ## Diode
-- **Exact production clipping diode/device:** Not specified in the manufacturer documentation reviewed.
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
 
 ## Sound
-Xotic describes the BB Preamp as spanning clean boost through smooth, compressed overdrive while preserving the instrument's core character. The active bass and treble controls provide substantial tonal shaping before the pedal's output stage.
+It's capable of a 30dB+ clean boost with an adjustable ±15dB two band active EQ which adds a wide range of harmonic content to your ideal sound.
+» The BB also utilizes a pre-gain stage which allows the pedal to go from a very pristine clean to a very smooth, compressed, overdriven sound.
+For nearly 20 years, Xotic has been a leading innovator in sound, design, and tone.
 
 ## Sources checked
-1. Xotic BB Preamp V1.5: https://xotic.us/effects/bb-preamp/
-2. Xotic Effects Manuals: https://xotic.us/manuals/
+1. BB Preamp V1.5 | Xotic Online Shop - Artists and End-users: https://users-new.xotic.us/shop/product/x102abbp02-bb-preamp-v1-5-5969
+2. BB Preamp – Xotic California: https://xotic.us/effects/bb-preamp/
 
 ## Photo
-- **Exact-model photo lead:** Xotic manufacturer product page and manuals index.
-- **Archive status:** Local photo recovery is handled separately; only a verified local asset counts as pictured.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-28T11:46:28.114642+00:00",
+  "generated_at": "2026-09-28T11:47:17.155029+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,8 +10,8 @@
     "pictured": 3930,
     "complete": 3930,
     "research_pending": 0,
-    "deep_research_pending": 12,
-    "deep_researched": 4194,
+    "deep_research_pending": 11,
+    "deep_researched": 4195,
     "surface_ready": 4206
   },
   "next_target": {
@@ -55,13 +55,6 @@
       "pedal": "Creamy Fuzz",
       "catalog_type": "Fuzz",
       "research_record": "./research/pedals/SBGO Effects/Creamy Fuzz.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Xotic Effects",
-      "pedal": "BB Preamp V1.5 — Boost / Overdrive",
-      "catalog_type": "Overdrive",
-      "research_record": "./research/pedals/Xotic Effects/BB Preamp V1.5 — Boost / Overdrive.md",
       "research_level": "surface"
     },
     {

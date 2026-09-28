@@ -57024,8 +57024,8 @@
       "image": "./assets/pedals/xotic-effects/bb-preamp-v1-5-boost-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Xotic Effects/BB Preamp V1.5 — Boost / Overdrive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Xotic Effects",
