@@ -412,6 +412,17 @@ def main():
     fast_photo_workflow = (ROOT / ".github/workflows/fast-photo-catchup.yml").read_text(encoding="utf-8")
     parallel_photo_workflow = (ROOT / ".github/workflows/parallel-photo-recovery.yml").read_text(encoding="utf-8")
     synth_workflow = (ROOT / ".github/workflows/research-synthesis.yml").read_text(encoding="utf-8")
+    facet_index_path = ROOT / "research/PEDAL_FACETS.json"
+    try:
+        facet_index = json.loads(facet_index_path.read_text(encoding="utf-8"))
+        facet_records = facet_index.get("records") or {}
+        facet_options = facet_index.get("options") or {}
+        if len(facet_records) == 0 and len(pedals) > 500:
+            raise SystemExit("PEDAL_FACETS.json is empty for a large canonical archive.")
+        if not all(isinstance(facet_options.get(name), list) and facet_options.get(name) for name in ("transistor", "clipping", "power")):
+            raise SystemExit("PEDAL_FACETS.json is missing documented facet option sets.")
+    except FileNotFoundError:
+        raise SystemExit("PEDAL_FACETS.json is missing.")
     architecture_text = (ROOT / "SITE_ARCHITECTURE.md").read_text(encoding="utf-8")
     cache_workflow = (ROOT / ".github/workflows/cache-pedal-images.yml").read_text(encoding="utf-8")
 
