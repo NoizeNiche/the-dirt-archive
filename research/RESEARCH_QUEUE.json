@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-28T00:56:44.232289+00:00",
+  "generated_at": "2026-09-28T00:59:31.836883+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,8 +10,8 @@
     "pictured": 3502,
     "complete": 3502,
     "research_pending": 0,
-    "deep_research_pending": 225,
-    "deep_researched": 3981,
+    "deep_research_pending": 222,
+    "deep_researched": 3984,
     "surface_ready": 4206
   },
   "next_target": {
@@ -76,20 +76,6 @@
       "pedal": "Hi-Mu",
       "catalog_type": "",
       "research_record": "./research/pedals/Fulltone/Hi-Mu.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Greer Amps",
-      "pedal": "No.9 Drive and Distortion",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Greer Amps/No.9 Drive and Distortion.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Greer Amps",
-      "pedal": "Reactor #4",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Greer Amps/Reactor #4.md",
       "research_level": "surface"
     },
     {
@@ -195,6 +181,20 @@
       "pedal": "Steak and Eggs Overdrive/Compressor",
       "catalog_type": "",
       "research_record": "./research/pedals/JHS Pedals/Steak and Eggs Overdrive/Compressor.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "JHS Pedals",
+      "pedal": "The Violet / Violet",
+      "catalog_type": "",
+      "research_record": "./research/pedals/JHS Pedals/The Violet / Violet.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Katanasound",
+      "pedal": "Super Bass Octave Fuzz",
+      "catalog_type": "",
+      "research_record": "./research/pedals/Katanasound/Super Bass Octave Fuzz.md",
       "research_level": "surface"
     }
   ]

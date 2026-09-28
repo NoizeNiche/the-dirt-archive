@@ -37402,8 +37402,8 @@
       "image": "./assets/pedals/greer-amps/no-9-drive-and-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Greer Amps/No.9 Drive and Distortion.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Greer Amps",
@@ -37441,8 +37441,8 @@
       "image": "./assets/pedals/greer-amps/reactor-4/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Greer Amps/Reactor #4.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Greer Amps",
@@ -40973,8 +40973,8 @@
       "image": "./assets/pedals/khdk-electronics/gojira-drive-harmonic-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/KHDK Electronics/Gojira Drive — harmonic overdrive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "KHDK Electronics",
