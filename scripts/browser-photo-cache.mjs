@@ -4715,19 +4715,22 @@ async function recoverEntry(browser, entry, deepReview = false, recoveryDeadline
       .slice(0, remainingHardSlots);
     const hardCases = [...directHardCases, ...highAttemptCases];
 
-    // Put the complete researched-photo catch-up set first. It is intentionally
-    // allowed to exceed HARD_CASE_SLOTS because these are the records blocking
-    // the next phase. The remaining capacity goes to ordinary unresolved work.
-    const catchUpCases = researchedPhotoCases;
+    // Reserve HARD_CASE_SLOTS in every bulk pass. The previous implementation
+    // let the researched-photo catch-up set consume all LIMIT slots, which made
+    // parked/high-attempt records effectively starve forever despite the comments
+    // above promising dedicated hard-case capacity.
+    const catchUpBudget = Math.max(0, LIMIT - hardCases.length);
+    const catchUpCases = researchedPhotoCases.slice(0, catchUpBudget);
     const catchUpKeys = new Set(catchUpCases.map(entry => key(entry.company, entry.pedal)));
+    const hardCaseKeys = new Set(hardCases.map(entry => key(entry.company, entry.pedal)));
     const freshPool = normalCandidates.length
       ? [...normalCandidates, ...deepCandidates]
       : deepCandidates;
     const freshCases = freshPool
-      .filter(entry => !catchUpKeys.has(key(entry.company, entry.pedal)))
-      .slice(0, Math.max(0, LIMIT - catchUpCases.length));
+      .filter(entry => !catchUpKeys.has(key(entry.company, entry.pedal)) && !hardCaseKeys.has(key(entry.company, entry.pedal)))
+      .slice(0, Math.max(0, LIMIT - catchUpCases.length - hardCases.length));
 
-    const activePool = [...catchUpCases, ...hardCases, ...freshCases]
+    const activePool = [...hardCases, ...catchUpCases, ...freshCases]
       .filter((entry, index, pool) => pool.findIndex(x => key(x.company, x.pedal) === key(entry.company, entry.pedal)) === index);
 
     const selected = [];
