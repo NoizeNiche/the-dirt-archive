@@ -147,9 +147,9 @@ def main():
                 )
             try:
                 with Image.open(asset) as im:
-                    if min(im.width, im.height) < 16:
+                    if min(im.width, im.height) < 64:
                         raise SystemExit(
-                            f"Picture=DONE has an obviously corrupt local photo for {k}: "
+                            f"Picture=DONE has an obviously tiny/corrupt local photo for {k}: "
                             f"{im.width}x{im.height}"
                         )
                     im.verify()
