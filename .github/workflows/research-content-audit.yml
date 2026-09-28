@@ -1,0 +1,29 @@
+name: Research content audit
+
+on:
+  push:
+    paths:
+      - 'research/pedals/**'
+      - 'scripts/audit-research-content.py'
+  workflow_dispatch:
+  schedule:
+    - cron: "43 7 * * 0"
+
+permissions:
+  contents: read
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v7
+      - name: Audit research prose
+        run: python scripts/audit-research-content.py --output /tmp/research-content-audit.csv
+      - name: Upload review report
+        uses: actions/upload-artifact@v4
+        with:
+          name: research-content-audit
+          path: /tmp/research-content-audit.csv
+          retention-days: 14
