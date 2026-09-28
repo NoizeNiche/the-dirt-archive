@@ -433,8 +433,12 @@ jobs:
               if git diff-tree --no-commit-id --name-only -r HEAD | grep -Eq '^(research/pedals/|research/PEDAL_INDEX\.json|research/PRP_TRACKER\.csv|research/PHOTO_BACKLOG\.csv|index\.html|pedal-detail\.html)'; then
                 echo "Canonical research/catalog state changed; dispatching photo recovery and Pages deployment."
                 published_sha="$(git rev-parse HEAD)"
-                gh api --method POST "repos/$GITHUB_REPOSITORY/actions/workflows/fast-photo-catchup.yml/dispatches" -f ref=main
-                gh api --method POST "repos/$GITHUB_REPOSITORY/actions/workflows/deploy-pages.yml/dispatches" -f ref=main
+                if ! gh api --method POST "repos/$GITHUB_REPOSITORY/actions/workflows/fast-photo-catchup.yml/dispatches" -f ref=main; then
+                  echo "Photo recovery dispatch was not accepted; the published research commit remains on main and the scheduled/photo-on-push lanes will continue."
+                fi
+                if ! gh api --method POST "repos/$GITHUB_REPOSITORY/actions/workflows/deploy-pages.yml/dispatches" -f ref=main; then
+                  echo "Pages deployment dispatch was not accepted; the published research commit remains on main and deploy-on-push will handle it."
+                fi
                 echo "Photo recovery and Pages deployments dispatched for $published_sha; research lane does not block on deployment."
               fi
               exit 0
