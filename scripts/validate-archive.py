@@ -95,6 +95,15 @@ def main():
         "https://noizeniche.github.io/the-dirt-archive/audit.html",
         "https://noizeniche.github.io/the-dirt-archive/compare.html",
     }
+    expected_builders = {
+        "https://noizeniche.github.io/the-dirt-archive/builder.html?builder="
+        + quote(str(builder).strip(), safe="")
+        for builder in {
+            str(item.get("company") or "").strip()
+            for item in pedals
+            if str(item.get("company") or "").strip()
+        }
+    }
     robots_text = ROBOTS.read_text(encoding="utf-8")
     if "Sitemap: https://noizeniche.github.io/the-dirt-archive/sitemap.xml" not in robots_text:
         raise SystemExit("robots.txt is missing the archive sitemap declaration.")
@@ -108,7 +117,7 @@ def main():
         and str(item.get("pedal") or "").strip()
     ]
     from urllib.parse import quote
-    expected_sitemap = set(expected_static)
+    expected_sitemap = set(expected_static) | expected_builders
     for item in sitemap_pedals:
         expected_sitemap.add(
             "https://noizeniche.github.io/the-dirt-archive/pedal-detail.html?builder="
