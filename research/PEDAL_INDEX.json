@@ -1,6 +1,6 @@
 {
-  "version": "data-20260927-historical-census-sweep-07k",
-  "count": 4206,
+  "version": "data-20260928-identity-cleanup",
+  "count": 4205,
   "pedals": [
     {
       "company": "1981 Inventions",
@@ -51431,18 +51431,6 @@
       "research_record": "./research/pedals/Smallsound/Bigsound/Mini.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED"
-    },
-    {
-      "company": "Smallsound/Bigsound",
-      "pedal": "Year of the Rat",
-      "types": [
-        "Fuzz"
-      ],
-      "image": "./assets/pedals/smallsound-bigsound/year-of-the-rat/primary.webp",
-      "source_page": null,
-      "research_record": "./research/pedals/Smallsound/Bigsound/Year of the Rat.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
     },
     {
       "company": "SolidGoldFX",
