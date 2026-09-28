@@ -1,23 +1,33 @@
 # KHDK Electronics — Ghoul JR — overdrive
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Ghoul JR — overdrive
 - **Builder:** KHDK Electronics
-- **Pedal:** Ghoul JR — overdrive
-- **Catalog type:** Distortion / Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Catalog type:** Overdrive / Distortion
+- **Research level:** Deep
+- **Deep research status:** Verified
+- **Identity:** Exact-model sources identify KHDK Electronics's Ghoul JR — overdrive.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Ghoul JR — overdrive** by **KHDK Electronics** as a **Distortion / Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Ghoul JR is a KHDK Electronics mini overdrive associated with Kirk Hammett. The exact model is identified by KHDK's product page and multiple independent references. [1][2][3]
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Versions and factory options
+- No complete factory revision chronology was established in this pass.
+- No additional version or finish claims are inferred beyond the exact-model source set.
+
+## Transistor
+- **Exact production transistor/device:** Unknown.
+
+## Diode
+- **Exact clipping/rectifier diode:** Unknown.
+
+## Sound
+The manufacturer and independent sources consistently classify Ghoul JR as an overdrive. [1][3]
+
+## Sources checked
+1. KHDK Electronics — Ghoul JR: https://www.khdkelectronics.com/products/detail/ghoul-jr/
+2. Guitar World — KHDK Ghoul Jr review: https://www.guitarworld.com/gear/review-khdk-electronics-ghoul-jr-overdrive
+3. Reverb — KHDK Ghoul JR: https://www.reverb.com/item/47601236-khdk-electronics-ghoul-jr-signature-overdrive-pedal-by-kirk-hammett-of-metallica
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately.
