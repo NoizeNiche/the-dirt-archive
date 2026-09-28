@@ -16,6 +16,7 @@ PHOTO_REVIEW_QUEUE = ROOT / "research/PHOTO_REVIEW_QUEUE.csv"
 PHOTO_BACKLOG = ROOT / "research/PHOTO_BACKLOG.csv"
 PHOTO_SOURCE_OVERRIDES = ROOT / "research/PHOTO_SOURCE_OVERRIDES.csv"
 RESEARCH_SOURCE_OVERRIDES = ROOT / "research/RESEARCH_SOURCE_OVERRIDES.csv"
+IDENTITY_ALIASES = ROOT / "research/PEDAL_IDENTITY_ALIASES.csv"
 APPLY_PHOTO_SOURCE_OVERRIDES = ROOT / "scripts/apply-photo-source-overrides.py"
 CORE = ROOT / "assets/js/archive-core.js"
 INDEX_JS = ROOT / "assets/js/archive-index.js"
@@ -71,6 +72,35 @@ def main():
         overrides = list(csv.DictReader(handle))
     with RESEARCH_SOURCE_OVERRIDES.open(newline="", encoding="utf-8") as handle:
         research_overrides = list(csv.DictReader(handle))
+    if IDENTITY_ALIASES.is_file():
+        with IDENTITY_ALIASES.open(newline="", encoding="utf-8") as handle:
+            identity_aliases = list(csv.DictReader(handle))
+        required_identity_alias_fields = {"Builder", "Canonical Pedal", "Alias Pedal", "Reason", "Status"}
+        alias_pairs = set()
+        allowed_alias_statuses = {"CONFIRMED", "REVIEW"}
+        for row in identity_aliases:
+            if not required_identity_alias_fields.issubset(row.keys()):
+                raise SystemExit("PEDAL_IDENTITY_ALIASES.csv is missing required columns.")
+            builder = (row.get("Builder") or "").strip()
+            canonical = (row.get("Canonical Pedal") or "").strip()
+            alias = (row.get("Alias Pedal") or "").strip()
+            status = (row.get("Status") or "").strip().upper()
+            if not builder or not canonical or not alias or canonical == alias:
+                raise SystemExit(f"Invalid identity alias row: {row}")
+            if status not in allowed_alias_statuses:
+                raise SystemExit(f"Invalid identity alias status: {row}")
+            k = (builder, canonical, alias)
+            if k in alias_pairs:
+                raise SystemExit(f"Duplicate identity alias: {k}")
+            alias_pairs.add(k)
+            if (builder, canonical) not in catalog_by_key:
+                raise SystemExit(f"Identity alias canonical pedal is not in catalog: {k}")
+            if (builder, alias) not in catalog_by_key:
+                # REVIEW aliases can intentionally describe malformed legacy
+                # spellings, but they still must resolve to a real archive identity
+                # before they are promoted to CONFIRMED.
+                if status == "CONFIRMED":
+                    raise SystemExit(f"Confirmed identity alias is not in catalog: {k}")
     required_research_override_fields = {"Builder", "Pedal", "Source URL", "Note"}
     if not research_overrides:
         raise SystemExit("RESEARCH_SOURCE_OVERRIDES.csv contains no source rows.")
