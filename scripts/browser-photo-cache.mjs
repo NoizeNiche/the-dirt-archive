@@ -1856,7 +1856,7 @@ async function curlVerifiedSourcePageImages(entry, pageUrl) {
   // when the direct page produced no usable image URLs. The original source page
   // remains the provenance recorded on every recovered image.
   if (!directHtml || rawVerifiedPageImageUrls(directHtml, pageUrl).length === 0) {
-    const target = String(pageUrl).replace(/^https?:\\/\\//i, '');
+    const target = String(pageUrl).replace(/^https?:\/\//i, '');
     for (const proxyUrl of [
       'https://r.jina.ai/http://' + target,
       'https://r.jina.ai/https://' + target
@@ -1870,15 +1870,15 @@ async function curlVerifiedSourcePageImages(entry, pageUrl) {
 
   const out = [];
   for (const { html, proxied } of bodies) {
-    const title = (html.match(/<title[^>]*>([\\s\\S]*?)<\\/title>/i) || [,''])[1]
-      .replace(/<[^>]+>/g, ' ').replace(/\\s+/g, ' ').trim();
-    const h1 = (html.match(/<h1[^>]*>([\\s\\S]*?)<\\/h1>/i) || [,''])[1]
-      .replace(/<[^>]+>/g, ' ').replace(/\\s+/g, ' ').trim();
+    const title = (html.match(/<title[^>]*>([\s\S]*?)<\/title>/i) || [,''])[1]
+      .replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim();
+    const h1 = (html.match(/<h1[^>]*>([\s\S]*?)<\/h1>/i) || [,''])[1]
+      .replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim();
     const body = html
-      .replace(/<script[\\s\\S]*?<\\/script>/gi, ' ')
-      .replace(/<style[\\s\\S]*?<\\/style>/gi, ' ')
+      .replace(/<script[\s\S]*?<\/script>/gi, ' ')
+      .replace(/<style[\s\S]*?<\/style>/gi, ' ')
       .replace(/<[^>]+>/g, ' ')
-      .replace(/\\s+/g, ' ')
+      .replace(/\s+/g, ' ')
       .slice(0, 300000);
 
     const exactSource =
@@ -1899,7 +1899,7 @@ async function curlVerifiedSourcePageImages(entry, pageUrl) {
 
     // Jina can return Markdown with image links instead of the original HTML.
     // Recover those exact image URLs without changing the recorded source page.
-    for (const match of html.matchAll(/!\\[[^\\]]*\\]\\((https?:\\/\\/[^)]+)\\)/g)) {
+    for (const match of html.matchAll(/!\[[^\]]*\]\((https?:\/\/[^)]+)\)/g)) {
       const url = String(match[1] || '').trim();
       if (!url || isLikelyNonPedalAssetUrl(url)) continue;
       out.push({
