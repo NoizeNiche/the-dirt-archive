@@ -6,6 +6,9 @@
 - **Catalog type:** Distortion / Overdrive
 - **Identity:** Maxon's OD820 Overdrive Pro+.
 
+## Deep research verification
+- **Exact-model evidence:** Verified against the cited manufacturer documentation in this record.
+
 ## What this pedal is
 Maxon's OD820 Overdrive Pro+ is cataloged as a distortion / overdrive pedal.
 
