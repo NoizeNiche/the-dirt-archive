@@ -256,7 +256,7 @@ jobs:
           PY
 
       - name: Upload next CBC research artifact
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7
         with:
           name: next-cbc-prp-research
           path: artifact/next-cbc/
@@ -329,7 +329,7 @@ jobs:
           PY
 
       - name: Upload exact CBC lead probe
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7
         with:
           name: exact-cbc-leads
           path: artifact/lead-probes/exact-leads.json
@@ -380,7 +380,7 @@ jobs:
           PY
 
       - name: Upload exact CBC Reverb evidence
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7
         with:
           name: exact-cbc-reverb-evidence
           path: artifact/reverb-exact/
@@ -434,7 +434,7 @@ jobs:
           PY
 
       - name: Upload exact indexed Reverb image candidates
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7
         with:
           name: exact-cbc-reverb-indexed
           path: artifact/reverb-indexed/
@@ -453,7 +453,7 @@ jobs:
           identify artifact/cbc-percolator-youtube-thumb.jpg 2>/dev/null || true
 
       - name: Upload CBC-specific thumbnail artifact
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7
         with:
           name: cbc-harmonic-percolator-thumbnail
           path: artifact/cbc-percolator-youtube-thumb.jpg

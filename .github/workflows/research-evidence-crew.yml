@@ -38,7 +38,7 @@ jobs:
           RESEARCH_RESULT_LIMIT: "5"
         run: node scripts/research-evidence-gather.mjs
       - name: Upload evidence dossier
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7
         with:
           name: research-evidence-${{ matrix.worker }}
           path: artifact/research-evidence.json
