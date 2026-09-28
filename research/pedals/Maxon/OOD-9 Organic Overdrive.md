@@ -4,39 +4,47 @@
 - **Archive parent:** OOD-9 Organic Overdrive
 - **Builder:** Maxon
 - **Catalog type:** Overdrive
-- **Identity:** Maxon's OOD-9 Organic Overdrive.
+- **Research level:** Deep
+- **Deep research status:** Verified
+- **Identity:** Maxon OOD-9 Organic Overdrive.
+
+## Deep research verification
+- **Exact-model evidence:** Verified against Maxon/Godlyke product documentation cited below.
 
 ## What this pedal is
-Far be it for Maxon to disappoint - the new Maxon OOD-9 Organic Overdrive is based around the same re-vamped OD880 circuit as the OSD-9 Overdrive/Soft Distortion.
-
-## Colorways
-- No specific factory colorway information was established in the verified evidence packet.
+Maxon describes the OOD-9 as an updated version of the company's OD880-era overdrive concept. The manufacturer says the OOD-9 uses current-production NJM/JRC 4558 op amps in place of the NOS 741 devices used in the OSD-9, giving it a related but somewhat more present high-frequency response. [1]
 
 ## Versions and factory options
-- No distinct factory revision was established in the verified evidence packet.
-
-## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- The OOD-9 is part of Maxon's 9-Series family. [1]
+- No separate factory revision chronology was established in the verified manufacturer material.
+- No distinct factory colorway system was established.
 
 ## Transistor
-- Documented terms in the verified sources: AC210N.
-- The archive records only the component information explicitly present in these sources.
+- **Documented device:** 2SK246 JFET input buffer. [1]
+- **Exact full transistor complement:** Not established.
 
-## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
-- **Exact part:** Unknown.
+## Op amps and diodes
+- **Gain-stage op amps:** current-production NJM/JRC 4558 devices. [1]
+- **Clipping:** the verified manufacturer page describes the OOD-9 as based on the OSD-9 circuit but does not state an exact production clipping-diode part number. [1]
+- **Exact diode part:** Unknown.
+
+## Controls
+- The verified manufacturer page establishes the OOD-9 as the updated OSD-9/OD880-derived overdrive, but the archived product text checked here does not provide a complete control-panel transcription.
+- **Exact control list:** Not fully established in this pass.
+
+## Circuit / architecture
+Maxon states that the OOD-9 takes the resurrected OSD-9 circuit and replaces the NOS 741 op amps with current-production NJM/JRC 4558s. The product is presented as a low-gain dynamic overdrive with regulated 9V operation and mechanical true bypass. [1]
+
+## Power and switching
+- **Operating voltage:** regulated 9VDC. [1]
+- **Switching:** true bypass. [1]
 
 ## Sound
-And while the arguments rage as to which version sounds best and whether the year the IC was manufactured will affect the tonality of the pedal, the fact remains that most tone junkies are hooked on the sound of the 4558.
-Far be it for Maxon to disappoint - the new Maxon OOD-9 Organic Overdrive is based around the same re-vamped OD880 circuit as the OSD-9 Overdrive/Soft Distortion.
-The difference in tone is subtle but sublime.
+Maxon characterizes the OOD-9 as a low-gain, dynamic overdrive that works well as an amp booster and provides a warm, open sound with more pronounced high-frequency response than the OSD-9. [1]
 
 ## Sources checked
-1. Maxon OOD-9 Organic Overdrive Pedal | Equipboard: https://equipboard.com/items/maxon-ood-9-organic-overdrive-pedal
-2. Maxon OOD-9 Organic Overdrive | Effects Database: https://www.effectsdatabase.com/model/maxon/9/ood9
-3. Maxon 9-Series OOD-9 Organic Overdrive Pedal: https://getmyguitar.com/product/maxon-9-series-ood-9-organic-overdrive-pedal/
-4. Maxon OOD-9 Organic Overdrive - www.musicgearexperts.com: https://www.musicgearexperts.com/product/maxon-ood-9-organic-overdrive/
-5. Maxon OOD9 organic overdrive: https://aifineguitars.com/products/maxon-ood9-199
+1. **Maxon / Godlyke — Organic Overdrive (OOD-9):** https://maxonfx.com/products/nine-series-guitar-effects-pedals-organic-overdrive-ood-9
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately.
+- Exact-model photo provenance remains governed by the archive's photo identity gate.
