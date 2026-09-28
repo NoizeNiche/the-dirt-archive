@@ -39306,11 +39306,13 @@
       "types": [
         "Overdrive"
       ],
-      "image": "",
+      "image": "./assets/pedals/j-rockett-audio-designs/animal-overdrive/primary.webp",
       "source_page": "https://rockettpedals.com/",
       "research_record": "./research/pedals/J. Rockett Audio Designs/Animal Overdrive.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://rockettpedals.com/wp-content/uploads/2024/08/hero-image.jpg",
+      "image_source_page": "https://rockettpedals.com/"
     },
     {
       "company": "J. Rockett Audio Designs",
@@ -39366,11 +39368,13 @@
       "types": [
         "Overdrive"
       ],
-      "image": "",
+      "image": "./assets/pedals/j-rockett-audio-designs/el-hombre/primary.webp",
       "source_page": "https://rockettpedals.com/",
       "research_record": "./research/pedals/J. Rockett Audio Designs/El Hombre.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://rockettpedals.com/wp-content/uploads/2024/08/hero-image.jpg",
+      "image_source_page": "https://rockettpedals.com/"
     },
     {
       "company": "J. Rockett Audio Designs",
@@ -39379,11 +39383,13 @@
         "Overdrive",
         "Fuzz"
       ],
-      "image": "",
+      "image": "./assets/pedals/j-rockett-audio-designs/flex-drive/primary.webp",
       "source_page": "https://rockettpedals.com/",
       "research_record": "./research/pedals/J. Rockett Audio Designs/Flex Drive.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://rockettpedals.com/wp-content/uploads/2024/08/hero-image.jpg",
+      "image_source_page": "https://rockettpedals.com/"
     },
     {
       "company": "J. Rockett Audio Designs",
@@ -39391,11 +39397,13 @@
       "types": [
         "Overdrive"
       ],
-      "image": "",
+      "image": "./assets/pedals/j-rockett-audio-designs/gto/primary.webp",
       "source_page": "https://rockettpedals.com/",
       "research_record": "./research/pedals/J. Rockett Audio Designs/GTO.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://rockettpedals.com/wp-content/uploads/2024/08/hero-image.jpg",
+      "image_source_page": "https://rockettpedals.com/"
     },
     {
       "company": "J. Rockett Audio Designs",

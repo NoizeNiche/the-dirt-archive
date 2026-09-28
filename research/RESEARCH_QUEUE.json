@@ -1,14 +1,14 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-28T11:00:35.647151+00:00",
+  "generated_at": "2026-09-28T11:02:04.316221+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
   "counts": {
     "total": 4206,
     "researched": 4206,
-    "pictured": 3917,
-    "complete": 3917,
+    "pictured": 3921,
+    "complete": 3921,
     "research_pending": 0,
     "deep_research_pending": 71,
     "deep_researched": 4135,
