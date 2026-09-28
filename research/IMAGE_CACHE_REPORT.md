@@ -1,11 +1,11 @@
 # Pedal Image Cache Report
 
-- Cached in this run: **12**
+- Cached in this run: **10**
 - Staged browser photos converted: **0**
 - Local images retained/reorganized: **0**
 - Download failures: **1**
-- Remaining tracker photo backlog: **425**
-- Researched, photo pending: **425**
+- Remaining tracker photo backlog: **415**
+- Researched, photo pending: **415**
 - External source images awaiting localization: **0**
 
 ## Storage layout
@@ -16,18 +16,16 @@
 
 ## Newly cached
 
-- Ampeg - Scrambler -> `./assets/pedals/ampeg/scrambler/primary.webp`
-- BBE - Windowpane - Silicon Fuzz -> `./assets/pedals/bbe/windowpane-silicon-fuzz/primary.webp`
-- BJFE / BJF Electronics - Arctic Light Fuzz -> `./assets/pedals/bjfe-bjf-electronics/arctic-light-fuzz/primary.webp`
-- BJFE / BJF Electronics - Baby Blue Overdrive (BBOD) -> `./assets/pedals/bjfe-bjf-electronics/baby-blue-overdrive-bbod/primary.webp`
-- BJFE / BJF Electronics - Snow White Fuzz -> `./assets/pedals/bjfe-bjf-electronics/snow-white-fuzz/primary.webp`
-- Captain FX - War Pig -> `./assets/pedals/captain-fx/war-pig/primary.webp`
-- Darkglass Electronics - ADAM Aggressively Distorting Advanced Machine -> `./assets/pedals/darkglass-electronics/adam-aggressively-distorting-advanced-machine/primary.webp`
-- Darkglass Electronics - Duality -> `./assets/pedals/darkglass-electronics/duality/primary.webp`
-- Darkglass Electronics - Microtubes B7K Ultra -> `./assets/pedals/darkglass-electronics/microtubes-b7k-ultra/primary.webp`
-- Darkglass Electronics - Microtubes X7 -> `./assets/pedals/darkglass-electronics/microtubes-x7/primary.webp`
-- Dawner Prince Electronics - DIKTATOR -> `./assets/pedals/dawner-prince-electronics/diktator/primary.webp`
-- Dawner Prince Electronics - DIKTATOR MKII -> `./assets/pedals/dawner-prince-electronics/diktator-mkii/primary.webp`
+- Add+ Pedals - Der Fuzzer -> `./assets/pedals/add-pedals/der-fuzzer/primary.webp`
+- Ashdown Engineering - AGM PRO-FX Vintage Fuzz -> `./assets/pedals/ashdown-engineering/agm-pro-fx-vintage-fuzz/primary.webp`
+- Ashdown Engineering - OriginAL Norman Watt-Roy Pre-DI -> `./assets/pedals/ashdown-engineering/original-norman-watt-roy-pre-di/primary.webp`
+- BOSS - DS-1-4A 40th Anniversary Distortion -> `./assets/pedals/boss/ds-1-4a-40th-anniversary-distortion/primary.webp`
+- BOSS - HM-3 Hyper Metal -> `./assets/pedals/boss/hm-3-hyper-metal/primary.webp`
+- BOSS - XT-2 Xtortion -> `./assets/pedals/boss/xt-2-xtortion/primary.webp`
+- Bad Cat - Burmese Drive - Dual Vintage Overdrive -> `./assets/pedals/bad-cat/burmese-drive-dual-vintage-overdrive/primary.webp`
+- Darkglass Electronics - Kaamos -> `./assets/pedals/darkglass-electronics/kaamos/primary.webp`
+- Darkglass Electronics - Microtubes Vintage -> `./assets/pedals/darkglass-electronics/microtubes-vintage/primary.webp`
+- Devi Ever FX - Devistortion -> `./assets/pedals/devi-ever-fx/devistortion/primary.webp`
 
 ## Still external / failed
 
