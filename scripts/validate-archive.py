@@ -17,6 +17,7 @@ TRACKER = ROOT / "research/PRP_TRACKER.csv"
 PHOTO_REVIEW_QUEUE = ROOT / "research/PHOTO_REVIEW_QUEUE.csv"
 PHOTO_BACKLOG = ROOT / "research/PHOTO_BACKLOG.csv"
 PHOTO_SOURCE_OVERRIDES = ROOT / "research/PHOTO_SOURCE_OVERRIDES.csv"
+PHOTO_DIRECT_IMAGE_OVERRIDES = ROOT / "research/PHOTO_DIRECT_IMAGE_OVERRIDES.csv"
 RESEARCH_SOURCE_OVERRIDES = ROOT / "research/RESEARCH_SOURCE_OVERRIDES.csv"
 IDENTITY_ALIASES = ROOT / "research/PEDAL_IDENTITY_ALIASES.csv"
 APPLY_PHOTO_SOURCE_OVERRIDES = ROOT / "scripts/apply-photo-source-overrides.py"
@@ -67,7 +68,7 @@ def forbidden_photo_provenance(value):
     return False
 
 def main():
-    required = (INDEX, MANIFEST, TRACKER, PHOTO_REVIEW_QUEUE, PHOTO_BACKLOG, PHOTO_SOURCE_OVERRIDES, RESEARCH_SOURCE_OVERRIDES, APPLY_PHOTO_SOURCE_OVERRIDES, CORE, INDEX_JS, DETAIL_JS, DEPLOY_AUDIT, LIVE_AUDIT, STATIC_SERVER, PHOTO_CACHE, FACET_BUILDER, HOME, DETAIL, LEGACY, DEPLOY, SITEMAP, ROBOTS, SITEMAP_BUILDER)
+    required = (INDEX, MANIFEST, TRACKER, PHOTO_REVIEW_QUEUE, PHOTO_BACKLOG, PHOTO_SOURCE_OVERRIDES, PHOTO_DIRECT_IMAGE_OVERRIDES, RESEARCH_SOURCE_OVERRIDES, APPLY_PHOTO_SOURCE_OVERRIDES, CORE, INDEX_JS, DETAIL_JS, DEPLOY_AUDIT, LIVE_AUDIT, STATIC_SERVER, PHOTO_CACHE, FACET_BUILDER, HOME, DETAIL, LEGACY, DEPLOY, SITEMAP, ROBOTS, SITEMAP_BUILDER)
     missing = [p.relative_to(ROOT).as_posix() for p in required if not p.is_file()]
     if missing:
         raise SystemExit("Missing required archive files: " + ", ".join(missing))
@@ -156,11 +157,14 @@ def main():
 
     with PHOTO_SOURCE_OVERRIDES.open(newline="", encoding="utf-8") as handle:
         overrides = list(csv.DictReader(handle))
+    with PHOTO_DIRECT_IMAGE_OVERRIDES.open(newline="", encoding="utf-8") as handle:
+        direct_overrides = list(csv.DictReader(handle))
     with RESEARCH_SOURCE_OVERRIDES.open(newline="", encoding="utf-8") as handle:
         research_overrides = list(csv.DictReader(handle))
 
     for label, rows in (
         ("PHOTO_SOURCE_OVERRIDES.csv", overrides),
+        ("PHOTO_DIRECT_IMAGE_OVERRIDES.csv", direct_overrides),
         ("RESEARCH_SOURCE_OVERRIDES.csv", research_overrides),
     ):
         for row in rows:
