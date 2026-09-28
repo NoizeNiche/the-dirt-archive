@@ -8,6 +8,9 @@
 - **Deep research status:** Verified
 - **Identity:** Maxon SD-9 Sonic Distortion, a reissue of the classic 1980s distortion design.
 
+## Deep research verification
+- **Exact-model evidence:** Verified against the cited manufacturer documentation in this record.
+
 ## What this pedal is
 Maxon describes the SD-9 as a reissue of its classic 1980s distortion pedal. The manufacturer documents a wide operating range that spans mid-gain overdrive through fuzz, plus strong sustain, volume clean-up, and a versatile Tone control. [1]
 
