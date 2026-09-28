@@ -14,8 +14,10 @@ def main():
     if not ARTIFACTS.exists():
         print("Photo foreman: no artifacts.")
         return
-    for d in [p for p in ARTIFACTS.iterdir() if p.is_dir()]:
-        files = list(d.rglob("photo-recovery-result.json"))
+    result_files = sorted(ARTIFACTS.rglob("photo-recovery-result.json"))
+    for result_file in result_files:
+        d = result_file.parent
+        files = [result_file]
         result = {}
         ok = True
         reason = "accepted by photo foreman"
