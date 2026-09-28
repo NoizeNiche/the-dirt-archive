@@ -19,6 +19,19 @@ The public data flow is:
 - `assets/pedals/**` owns local public photo assets.
 - `image_source_url` / `image_source_page` retain photo provenance.
 
+## Source hierarchy
+
+For pedal research, use this evidence hierarchy:
+
+1. **Manufacturer/builder documentation first.** Prefer the manufacturer's current product page, official manual, official archive page, or other first-party documentation when it directly identifies the exact model/version.
+2. **Reliable historical manufacturer/catalog material next.** Use archived manufacturer pages, established catalog records, manuals, and historical documentation when the original product page is no longer available.
+3. **Exact-model secondary sources are allowed and encouraged when verified.** Reverb, reputable retailers, Effects Database, established pedal databases, teardown/reference sites, and other reliable used-market or archival sources may supply product facts or photographs when the page clearly matches the exact Builder + Pedal and version.
+4. **Cross-check secondary evidence before promotion.** For an exact-model claim or photo, verify the visible/product identity, model/version naming, builder, controls or enclosure details, and any other distinguishing evidence available on the source. Do not accept a search-engine result, generic category page, or merely similar-looking pedal as proof by itself.
+5. **Use the narrowest supported claim.** A secondary source can fill a documented gap without being treated as first-party evidence. Do not invent certainty where the source only supports existence, identity, a control list, or a historical fact.
+6. **Do not reject useful secondary evidence merely because it is secondary.** The controlling question is whether the source reliably identifies the exact pedal and supports the specific claim or image being added.
+
+This hierarchy applies to both research facts and photo discovery. Manufacturer evidence remains the preferred starting point, but verified Reverb, retailer, database, and archival evidence is valid when it is exact-model evidence.
+
 ## Research work order
 
 Research proceeds in canonical catalog order.
