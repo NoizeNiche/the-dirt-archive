@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 """Clear known-invalid local photo state before a recovery pass.
 
-This utility only resets records that are still Picture=NEEDED in the live
-tracker and whose existing local photo provenance is one of the archive's
-known non-product classes. Curated source-page leads are preserved so the next
-browser recovery pass can retry them.
+The utility preserves healthy pictured records. It resets only records with
+known non-product provenance or a missing local asset, whether the tracker
+currently says Picture=NEEDED or Picture=DONE. Curated source-page leads are
+preserved so the next browser recovery pass can retry them.
 """
 
 import csv
