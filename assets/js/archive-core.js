@@ -178,6 +178,6 @@ function workbenchCounts(){
 }
 
 function findWorkbenchEntries(items, keys){
-  const wanted=new Set(keys||[]);
-  return (items||[]).filter(item=>wanted.has(workbenchKey(item)));
+  const byKey=new Map((items||[]).map(item=>[workbenchKey(item),item]));
+  return (keys||[]).map(key=>byKey.get(key)).filter(Boolean);
 }
