@@ -4,33 +4,38 @@
 - **Archive parent:** RTO700 Real Tube Overdrive
 - **Builder:** Maxon / Nisshin Onpa
 - **Catalog type:** Overdrive
-- **Identity:** Maxon / Nisshin Onpa's RTO700 Real Tube Overdrive.
+- **Research level:** Deep
+- **Deep research status:** Verified
+- **Identity:** Maxon / Nisshin Onpa RTO700 Real Tube Overdrive.
+
+## Deep research verification
+- **Exact-model evidence:** Verified against the Maxon/Godlyke catalog capture with the exact model identity in the page heading.
 
 ## What this pedal is
-Maxon / Nisshin Onpa's RTO700 Real Tube Overdrive is cataloged as an overdrive pedal.
-
-## Colorways
-- No specific factory colorway information was established in the verified evidence packet.
+The verified Maxon/Godlyke catalog identifies the RTO700 as the **Real Tube Overdrive** model in the Maxon range. [1]
+The retained packet does not expose enough model-specific technical text to support a full circuit description, so the archive keeps those fields unresolved.
 
 ## Versions and factory options
-- No distinct factory revision was established in the verified evidence packet.
+- No distinct factory revision was established in the retained verified packet.
 
-## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+## Controls
+- **Exact control list:** Unresolved from the retained manufacturer catalog capture.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
-- **Exact transistor/device:** Unknown.
+- **Exact production transistor/device:** Unknown.
 
 ## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
-- **Exact part:** Unknown.
+- **Exact production clipping diode:** Unknown.
+
+## Circuit / architecture
+The model is explicitly placed in Maxon's **Real Tube** family. The retained source does not establish a complete schematic, tube type, or semiconductor BOM for this exact model.
 
 ## Sound
-The Dirt Archive currently catalogs **RTO700 Real Tube Overdrive** by **Maxon / Nisshin Onpa** as a **Overdrive** pedal.
+No detailed tonal claim is promoted beyond the exact model classification, because the retained manufacturer capture does not provide enough model-specific text.
 
 ## Sources checked
-1. Maxon Guitar Effects Pedals : Buy Online : Reviews : Official Website &ndash; Godlyke, Inc.: https://maxonfx.com/
+1. **Maxon / Nisshin Onpa official catalog:** https://maxonfx.com/
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately.
+- Exact-model photo provenance remains governed by the archive's photo identity gate.
