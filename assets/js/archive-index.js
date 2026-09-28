@@ -8,7 +8,7 @@ let selectedClippings=new Set((initialParams.get('clipping')||'').split(',').map
 let selectedPowers=new Set((initialParams.get('power')||'').split(',').map(x=>x.trim()).filter(Boolean));
 let selectedResearch=initialParams.get('research')||'all';
 let selectedPhoto=initialParams.get('photo')||'all';
-let selectedView=initialParams.get('view')||'grid';
+let selectedView=initialParams.get('view')||'grid';let suggestionIndex=-1;let suggestionItems=[];
 if(!['all','deep','not-deep'].includes(selectedResearch))selectedResearch='all';
 if(!['all','archived','needed'].includes(selectedPhoto))selectedPhoto='all';
 if(!['grid','table'].includes(selectedView))selectedView='grid';
@@ -54,6 +54,8 @@ function clearFilters(){
   selectedType='All';
   selectedBuilder='';
   q='';
+  suggestionIndex=-1;
+  suggestionItems=[];
   selectedTransistors.clear();
   selectedClippings.clear();
   selectedPowers.clear();
@@ -65,6 +67,67 @@ function clearFilters(){
   $('search').value='';
   syncUrl(false);
   render();
+}
+
+function clearSearch(){
+  q='';
+  suggestionIndex=-1;
+  suggestionItems=[];
+  currentPage=1;
+  $('search').value='';
+  syncUrl(false);
+  render();
+  $('search')?.focus();
+}
+
+function hideSearchSuggestions(){
+  suggestionIndex=-1;
+  const box=$('searchSuggestions');
+  const search=$('search');
+  if(box)box.hidden=true;
+  if(search){
+    search.setAttribute('aria-expanded','false');
+    search.removeAttribute('aria-activedescendant');
+  }
+}
+
+function renderSearchSuggestions(){
+  const box=$('searchSuggestions');
+  const search=$('search');
+  if(!box||!search)return;
+  if(!q||!items.length){
+    suggestionItems=[];
+    hideSearchSuggestions();
+    return;
+  }
+  suggestionItems=filteredItems().slice(0,7);
+  if(!suggestionItems.length){
+    hideSearchSuggestions();
+    return;
+  }
+  if(suggestionIndex>=suggestionItems.length)suggestionIndex=-1;
+  box.innerHTML=suggestionItems.map((item,index)=>
+    '<button class="searchSuggestion '+(index===suggestionIndex?'active':'')+'" id="searchSuggestion-'+index+'" type="button" role="option" aria-selected="'+(index===suggestionIndex?'true':'false')+'" data-suggestion-index="'+index+'">'+
+      '<span class="searchSuggestionMain"><strong>'+esc(item.pedal)+'</strong><span>'+esc(item.company)+'</span></span>'+
+      '<span class="searchSuggestionReason">'+esc(searchMatchReason(item))+'</span>'+
+    '</button>'
+  ).join('');
+  box.hidden=false;
+  search.setAttribute('aria-expanded','true');
+  if(suggestionIndex>=0)search.setAttribute('aria-activedescendant','searchSuggestion-'+suggestionIndex);
+  box.querySelectorAll('[data-suggestion-index]').forEach(button=>{
+    button.onclick=()=>{
+      const item=suggestionItems[Number(button.dataset.suggestionIndex)];
+      if(item)location.href=slugParams(item);
+    };
+  });
+}
+
+function moveSearchSuggestion(delta){
+  if(!suggestionItems.length)renderSearchSuggestions();
+  if(!suggestionItems.length)return;
+  suggestionIndex=(suggestionIndex+delta+suggestionItems.length)%suggestionItems.length;
+  renderSearchSuggestions();
 }
 
 function discoverPedal(){
@@ -118,7 +181,8 @@ function renderWorkbench(){
   const compare=findWorkbenchEntries(allItems,data.compare).filter(isCatalogEntry);
   const button=$('workbenchButton');
   if(button) button.setAttribute('aria-expanded',String(!panel?.hidden));
-  $('workbenchCount').textContent=String(saved.length);
+  $('workbenchCount').textContent=saved.length ? (saved.length.toLocaleString()+' saved'+(compare.length?' · '+compare.length.toLocaleString()+' compare':'')) : (compare.length ? compare.length.toLocaleString()+' compare' : '0');
+  button?.setAttribute('aria-label','Workbench, '+saved.length+' saved, '+compare.length+' comparing');
   $('savedCount').textContent=saved.length.toLocaleString();
   $('compareCount').textContent=compare.length.toLocaleString()+' / 4';
   $('clearSaved').hidden=!saved.length;
@@ -479,6 +543,9 @@ function render(){
     ? 'Showing '+rangeStart.toLocaleString()+'–'+rangeEnd.toLocaleString()+' of '+visible.length.toLocaleString()
     : '0')+' pedal'+(visible.length===1?'':'s')+' · '+builderCount.toLocaleString()+' builder'+(builderCount===1?'':'s');
 
+  const emptyResults= q
+    ? '<div class="empty"><strong>No pedals found</strong><p>Nothing matches “'+esc(q)+'” in the current view.</p><button class="emptyAction" type="button" data-empty-action="search">Clear search</button></div>'
+    : '<div class="empty"><strong>No pedals found</strong><p>Try another dirt type, builder, technical filter, or coverage setting.</p><button class="emptyAction" type="button" data-empty-action="filters">Reset filters</button></div>';
   const gridHtml=pageItems.length
     ? pageItems.map(x=>
       (()=>{
@@ -503,9 +570,9 @@ function render(){
         '</article>';
       })()
     ).join('')
-    : '<div class="empty"><strong>No pedals found</strong>Try another search, dirt type, builder, or technical filter.</div>';
+    : emptyResults;
   const rendered=selectedView==='table'
-    ? (pageItems.length ? renderTable(pageItems) : '<div class="empty"><strong>No pedals found</strong>Try another search, dirt type, builder, or technical filter.</div>')
+    ? (pageItems.length ? renderTable(pageItems) : emptyResults)
     : gridHtml;
   $('grid').innerHTML=rendered;
   $('gridViewButton')?.classList.toggle('active',selectedView==='grid');
@@ -516,6 +583,9 @@ function render(){
   renderPagination(totalPages);
   wireCardActions();
   renderWorkbench();
+  const emptyAction=document.querySelector('[data-empty-action]');
+  if(emptyAction)emptyAction.onclick=()=>emptyAction.dataset.emptyAction==='search'?clearSearch():clearFilters();
+  renderSearchSuggestions();
   if(normalized)syncUrl(true);
 }
 
@@ -578,24 +648,35 @@ $('researchFilter').value=selectedResearch;
 $('photoFilter').value=selectedPhoto;
 $('search').oninput=e=>{
   q=e.target.value.trim();
+  suggestionIndex=-1;
   selectedBuilder='';
   currentPage=1;
   syncUrl(true);
   render();
 };
 
+document.addEventListener('click',event=>{
+  const wrap=document.querySelector('.searchWrap');
+  if(wrap&&!wrap.contains(event.target))hideSearchSuggestions();
+});
+
 window.addEventListener('keydown',e=>{
   if(e.key==='/'&&document.activeElement?.tagName!=='INPUT'&&document.activeElement?.tagName!=='TEXTAREA'){
     e.preventDefault();
     $('search')?.focus();
   }
-  if(e.key==='Escape'&&document.activeElement?.tagName==='INPUT'&&document.activeElement?.id==='search'&&q){
+  if(e.key==='Escape'&&document.activeElement?.tagName==='INPUT'&&document.activeElement?.id==='search'){
+    if(q){e.preventDefault();clearSearch();return}
+    hideSearchSuggestions();
+  }
+  if((e.key==='ArrowDown'||e.key==='ArrowUp')&&document.activeElement?.id==='search'){
+    if(!q)return;
     e.preventDefault();
-    q='';
-    $('search').value='';
-    currentPage=1;
-    syncUrl(true);
-    render();
+    moveSearchSuggestion(e.key==='ArrowDown'?1:-1);
+  }
+  if(e.key==='Enter'&&document.activeElement?.id==='search'&&suggestionIndex>=0&&suggestionItems[suggestionIndex]){
+    e.preventDefault();
+    location.href=slugParams(suggestionItems[suggestionIndex]);
   }
 });
 
