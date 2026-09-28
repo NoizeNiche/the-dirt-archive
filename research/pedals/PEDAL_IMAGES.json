@@ -9365,9 +9365,10 @@
   {
     "builder": "Captain FX",
     "pedal": "Crown Jr. Overdrive / Boost",
-    "image": null,
+    "image": "./assets/pedals/captain-fx/crown-jr-overdrive-boost/primary.webp",
     "source_page": "https://github.com/NoizeNiche/the-dirt-archive/blob/main/research/SCRAPE_C_BLOCK_165_ADDENDUM.csv",
-    "research_record": "./research/pedals/Captain FX/Crown Jr. Overdrive Boost.md"
+    "research_record": "./research/pedals/Captain FX/Crown Jr. Overdrive Boost.md",
+    "image_source_url": "https://opengraph.githubassets.com/5432ac528de2385384657bd4d676e62f8c4eaa2748d80a24aa1aecb2c46891e5/NoizeNiche/the-dirt-archive"
   },
   {
     "builder": "Captain FX",
@@ -28426,9 +28427,10 @@
   {
     "builder": "Visual Sound / Truetone",
     "pedal": "V2 Route 66",
-    "image": null,
+    "image": "./assets/pedals/visual-sound-truetone/v2-route-66/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/Visual Sound / Truetone/V2 Route 66.md"
+    "research_record": "./research/pedals/Visual Sound / Truetone/V2 Route 66.md",
+    "image_source_url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/ci/a41faf84caaa1e27/1790566395892/QjHcLcqE2Ci16u6lZUTX5b5qGyOGHJaVmxHUlWQ4MHs-1790566395-1.3.1.1-euulGRQ_7oMGauezCyTOSACA9INr917i0PgWcB0d2UTMg_o1yNA.USQfNxGuhBmhWppl9QtoB8Rftm7cuNMkqlDNOiFYR1HnVbWjFHKEkQcfAhlLqzmG_qK3bq6JLoKKp.MmUehpkpV18J_7sZIdJNCwCQAjhxU9oXEmfgPNpX0XBjHj59D9JkuE9A51gmA3w8Fvu0HkfivB5qNks_yTrCM2p5E0j0iHBu77bX6auJ3.xHtR3xIPCzN1eKjF_8aheEH0py5H_rxxyqWNyvwFsqJDgu4N5prGa9Yb.GMFMaqSeoXw2fF1ZcSb.AuB0ZJ4DOLaPXz40Sgy7KGrD4c_O5XmamjrKuqyGhslSYEhvcX5.i9hRR6ktwOtQcGjXjwglzthSKSG3U5J4uNI_g5E1ScJRo687W5V.FRxxWIprMY5USKSCoH6Dr8MSmK6BvYzlTmfaiXlaQS9c2tJ7WSDqRd24g.KGZgmEtB.PTTRGB1mTUH9Vn.4IiJSLSZfTgH4Zfa094ePMVIAhADh7og1zk41qzKGwPyMoHVyxFO0pY2BfQNI2z3tzRksNujnFNx8AiS06nZke182dl.gcFw0iaSGi_zlwdkHJnyKFeD7Fp2vIfpcYECICmQ4kvUDZ9k5DTCA7L_osaDuhbekDCZ1I_5FbxIoEFZCS6Z7XLyLZUIjhxGPgHOquHhyEBc4k8aBu_YR2E1z7ZpvXClZ0j7FATUVjyR4jXv7IscIIqjdSM0"
   },
   {
     "builder": "Visual Sound / Truetone",
@@ -28587,7 +28589,7 @@
   {
     "builder": "VOX",
     "pedal": "V828 Tone Bender",
-    "image": null,
+    "image": "./assets/pedals/vox/v828-tone-bender/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/VOX/V828 Tone Bender.md"
   },
