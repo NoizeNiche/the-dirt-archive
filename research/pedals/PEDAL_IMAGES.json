@@ -24798,7 +24798,8 @@
     "pedal": "SM-9Pro Super Metal Pro+",
     "image": "",
     "source_page": "https://www.maxonfx.com/",
-    "research_record": "./research/pedals/Maxon / Nisshin Onpa/SM-9Pro Super Metal Pro+.md"
+    "research_record": "./research/pedals/Maxon / Nisshin Onpa/SM-9Pro Super Metal Pro+.md",
+    "image_source_page": "https://maxonfx.com/"
   },
   {
     "builder": "Maxon / Nisshin Onpa",
@@ -24810,16 +24811,19 @@
   {
     "builder": "Maxon / Nisshin Onpa",
     "pedal": "ST-9 Super Tube Screamer",
-    "image": "",
+    "image": "./assets/pedals/maxon-nisshin-onpa/st-9-super-tube-screamer/primary.webp",
     "source_page": "https://www.maxonfx.com/",
-    "research_record": "./research/pedals/Maxon / Nisshin Onpa/ST-9 Super Tube Screamer.md"
+    "research_record": "./research/pedals/Maxon / Nisshin Onpa/ST-9 Super Tube Screamer.md",
+    "image_source_url": "https://www.rockboard.de/backgrounds/footer_background.webp",
+    "image_source_page": "https://www.rockboard.de/en/pedalPedia/Maxon/ST-9-Super-Tube-Screamer/8083767612/"
   },
   {
     "builder": "Maxon / Nisshin Onpa",
     "pedal": "ST9Pro+ Super Tube Overdrive Pro+",
     "image": "",
     "source_page": "https://www.maxonfx.com/",
-    "research_record": "./research/pedals/Maxon / Nisshin Onpa/ST9Pro+ Super Tube Overdrive Pro+.md"
+    "research_record": "./research/pedals/Maxon / Nisshin Onpa/ST9Pro+ Super Tube Overdrive Pro+.md",
+    "image_source_page": "https://maxonfx.com/"
   },
   {
     "builder": "Maxon / Nisshin Onpa",
@@ -24832,9 +24836,11 @@
   {
     "builder": "Maxon / Nisshin Onpa",
     "pedal": "TOD-9 True Tube Overdrive",
-    "image": "",
+    "image": "./assets/pedals/maxon-nisshin-onpa/tod-9-true-tube-overdrive/primary.webp",
     "source_page": "https://www.maxonfx.com/",
-    "research_record": "./research/pedals/Maxon / Nisshin Onpa/TOD-9 True Tube Overdrive.md"
+    "research_record": "./research/pedals/Maxon / Nisshin Onpa/TOD-9 True Tube Overdrive.md",
+    "image_source_url": "https://maxonfx.com/cdn/shop/products/Maxon-9Series-TOD9-300px.png?v=1543862976",
+    "image_source_page": "https://maxonfx.com/products/true-tube-overdrive-tod-9"
   },
   {
     "builder": "McGregor Pedals",
@@ -25343,128 +25349,164 @@
   {
     "builder": "Mid-Fi Electronics / Doug Tuttle",
     "pedal": "Another/An-other (Fuzz Version)",
-    "image": "",
+    "image": "./assets/pedals/mid-fi-electronics-doug-tuttle/another-an-other-fuzz-version/primary.webp",
     "source_page": "https://midfielectronics.com/",
-    "research_record": "./research/pedals/Mid-Fi Electronics / Doug Tuttle/Another/An-other (Fuzz Version).md"
+    "research_record": "./research/pedals/Mid-Fi Electronics / Doug Tuttle/Another/An-other (Fuzz Version).md",
+    "image_source_url": "https://www.midfielectronics.com/images/HEADER-mobile2.png",
+    "image_source_page": "https://www.midfielectronics.com/"
   },
   {
     "builder": "Mid-Fi Electronics / Doug Tuttle",
     "pedal": "Clari(not) Fuzz",
-    "image": "",
+    "image": "./assets/pedals/mid-fi-electronics-doug-tuttle/clari-not-fuzz/primary.webp",
     "source_page": "https://midfielectronics.com/",
-    "research_record": "./research/pedals/Mid-Fi Electronics / Doug Tuttle/Clari(not) Fuzz.md"
+    "research_record": "./research/pedals/Mid-Fi Electronics / Doug Tuttle/Clari(not) Fuzz.md",
+    "image_source_url": "https://www.midfielectronics.com/images/HEADER-mobile2.png",
+    "image_source_page": "https://www.midfielectronics.com/"
   },
   {
     "builder": "Mid-Fi Electronics / Doug Tuttle",
     "pedal": "Cocoon",
-    "image": "",
+    "image": "./assets/pedals/mid-fi-electronics-doug-tuttle/cocoon/primary.webp",
     "source_page": "https://midfielectronics.com/",
-    "research_record": "./research/pedals/Mid-Fi Electronics / Doug Tuttle/Cocoon.md"
+    "research_record": "./research/pedals/Mid-Fi Electronics / Doug Tuttle/Cocoon.md",
+    "image_source_url": "https://www.midfielectronics.com/images/HEADER-mobile2.png",
+    "image_source_page": "https://www.midfielectronics.com/"
   },
   {
     "builder": "Mid-Fi Electronics / Doug Tuttle",
     "pedal": "Country Fuzz",
-    "image": "",
+    "image": "./assets/pedals/mid-fi-electronics-doug-tuttle/country-fuzz/primary.webp",
     "source_page": "https://midfielectronics.com/",
-    "research_record": "./research/pedals/Mid-Fi Electronics / Doug Tuttle/Country Fuzz.md"
+    "research_record": "./research/pedals/Mid-Fi Electronics / Doug Tuttle/Country Fuzz.md",
+    "image_source_url": "https://www.midfielectronics.com/images/HEADER-mobile2.png",
+    "image_source_page": "https://www.midfielectronics.com/"
   },
   {
     "builder": "Mid-Fi Electronics / Doug Tuttle",
     "pedal": "Demo Tape Fuzz",
-    "image": "",
+    "image": "./assets/pedals/mid-fi-electronics-doug-tuttle/demo-tape-fuzz/primary.webp",
     "source_page": "https://midfielectronics.com/",
-    "research_record": "./research/pedals/Mid-Fi Electronics / Doug Tuttle/Demo Tape Fuzz.md"
+    "research_record": "./research/pedals/Mid-Fi Electronics / Doug Tuttle/Demo Tape Fuzz.md",
+    "image_source_url": "https://www.midfielectronics.com/images/HEADER-mobile2.png",
+    "image_source_page": "https://www.midfielectronics.com/"
   },
   {
     "builder": "Mid-Fi Electronics / Doug Tuttle",
     "pedal": "Faulty Channel",
-    "image": "",
+    "image": "./assets/pedals/mid-fi-electronics-doug-tuttle/faulty-channel/primary.webp",
     "source_page": "https://midfielectronics.com/",
-    "research_record": "./research/pedals/Mid-Fi Electronics / Doug Tuttle/Faulty Channel.md"
+    "research_record": "./research/pedals/Mid-Fi Electronics / Doug Tuttle/Faulty Channel.md",
+    "image_source_url": "https://www.midfielectronics.com/images/HEADER-mobile2.png",
+    "image_source_page": "https://www.midfielectronics.com/"
   },
   {
     "builder": "Mid-Fi Electronics / Doug Tuttle",
     "pedal": "Full Frequency Overdrive",
-    "image": "",
+    "image": "./assets/pedals/mid-fi-electronics-doug-tuttle/full-frequency-overdrive/primary.webp",
     "source_page": "https://midfielectronics.com/",
-    "research_record": "./research/pedals/Mid-Fi Electronics / Doug Tuttle/Full Frequency Overdrive.md"
+    "research_record": "./research/pedals/Mid-Fi Electronics / Doug Tuttle/Full Frequency Overdrive.md",
+    "image_source_url": "https://www.midfielectronics.com/images/HEADER-mobile2.png",
+    "image_source_page": "https://www.midfielectronics.com/"
   },
   {
     "builder": "Mid-Fi Electronics / Doug Tuttle",
     "pedal": "Fuzz Wall",
-    "image": "",
+    "image": "./assets/pedals/mid-fi-electronics-doug-tuttle/fuzz-wall/primary.webp",
     "source_page": "https://midfielectronics.com/",
-    "research_record": "./research/pedals/Mid-Fi Electronics / Doug Tuttle/Fuzz Wall.md"
+    "research_record": "./research/pedals/Mid-Fi Electronics / Doug Tuttle/Fuzz Wall.md",
+    "image_source_url": "https://www.midfielectronics.com/images/HEADER-mobile2.png",
+    "image_source_page": "https://www.midfielectronics.com/"
   },
   {
     "builder": "Mid-Fi Electronics / Doug Tuttle",
     "pedal": "Glitch Computer",
-    "image": "",
+    "image": "./assets/pedals/mid-fi-electronics-doug-tuttle/glitch-computer/primary.webp",
     "source_page": "https://midfielectronics.com/",
-    "research_record": "./research/pedals/Mid-Fi Electronics / Doug Tuttle/Glitch Computer.md"
+    "research_record": "./research/pedals/Mid-Fi Electronics / Doug Tuttle/Glitch Computer.md",
+    "image_source_url": "https://www.midfielectronics.com/images/HEADER-mobile2.png",
+    "image_source_page": "https://www.midfielectronics.com/"
   },
   {
     "builder": "Mid-Fi Electronics / Doug Tuttle",
     "pedal": "Hieracium",
-    "image": "",
+    "image": "./assets/pedals/mid-fi-electronics-doug-tuttle/hieracium/primary.webp",
     "source_page": "https://midfielectronics.com/",
-    "research_record": "./research/pedals/Mid-Fi Electronics / Doug Tuttle/Hieracium.md"
+    "research_record": "./research/pedals/Mid-Fi Electronics / Doug Tuttle/Hieracium.md",
+    "image_source_url": "https://www.midfielectronics.com/images/HEADER-mobile2.png",
+    "image_source_page": "https://www.midfielectronics.com/"
   },
   {
     "builder": "Mid-Fi Electronics / Doug Tuttle",
     "pedal": "House Amp",
-    "image": "",
+    "image": "./assets/pedals/mid-fi-electronics-doug-tuttle/house-amp/primary.webp",
     "source_page": "https://midfielectronics.com/",
-    "research_record": "./research/pedals/Mid-Fi Electronics / Doug Tuttle/House Amp.md"
+    "research_record": "./research/pedals/Mid-Fi Electronics / Doug Tuttle/House Amp.md",
+    "image_source_url": "https://www.midfielectronics.com/images/HEADER-mobile2.png",
+    "image_source_page": "https://www.midfielectronics.com/"
   },
   {
     "builder": "Mid-Fi Electronics / Doug Tuttle",
     "pedal": "Magick \"i\"",
-    "image": "",
+    "image": "./assets/pedals/mid-fi-electronics-doug-tuttle/magick-i/primary.webp",
     "source_page": "https://midfielectronics.com/",
-    "research_record": "./research/pedals/Mid-Fi Electronics / Doug Tuttle/Magick \"i\".md"
+    "research_record": "./research/pedals/Mid-Fi Electronics / Doug Tuttle/Magick \"i\".md",
+    "image_source_url": "https://www.midfielectronics.com/images/EE634D74-8E7D-4127-944E-085F53D1034E.jpeg",
+    "image_source_page": "https://www.midfielectronics.com/magicki"
   },
   {
     "builder": "Mid-Fi Electronics / Doug Tuttle",
     "pedal": "Peace Gun",
-    "image": "",
+    "image": "./assets/pedals/mid-fi-electronics-doug-tuttle/peace-gun/primary.webp",
     "source_page": "https://midfielectronics.com/",
-    "research_record": "./research/pedals/Mid-Fi Electronics / Doug Tuttle/Peace Gun.md"
+    "research_record": "./research/pedals/Mid-Fi Electronics / Doug Tuttle/Peace Gun.md",
+    "image_source_url": "https://www.midfielectronics.com/images/HEADER-mobile2.png",
+    "image_source_page": "https://www.midfielectronics.com/"
   },
   {
     "builder": "Mid-Fi Electronics / Doug Tuttle",
     "pedal": "Psych Byke",
-    "image": "",
+    "image": "./assets/pedals/mid-fi-electronics-doug-tuttle/psych-byke/primary.webp",
     "source_page": "https://midfielectronics.com/",
-    "research_record": "./research/pedals/Mid-Fi Electronics / Doug Tuttle/Psych Byke.md"
+    "research_record": "./research/pedals/Mid-Fi Electronics / Doug Tuttle/Psych Byke.md",
+    "image_source_url": "https://www.midfielectronics.com/images/HEADER-mobile2.png",
+    "image_source_page": "https://www.midfielectronics.com/"
   },
   {
     "builder": "Mid-Fi Electronics / Doug Tuttle",
     "pedal": "Random Number Generator",
-    "image": "",
+    "image": "./assets/pedals/mid-fi-electronics-doug-tuttle/random-number-generator/primary.webp",
     "source_page": "https://midfielectronics.com/",
-    "research_record": "./research/pedals/Mid-Fi Electronics / Doug Tuttle/Random Number Generator.md"
+    "research_record": "./research/pedals/Mid-Fi Electronics / Doug Tuttle/Random Number Generator.md",
+    "image_source_url": "https://www.midfielectronics.com/images/HEADER-mobile2.png",
+    "image_source_page": "https://www.midfielectronics.com/"
   },
   {
     "builder": "Mid-Fi Electronics / Doug Tuttle",
     "pedal": "Rise/OverRun",
-    "image": "",
+    "image": "./assets/pedals/mid-fi-electronics-doug-tuttle/rise-overrun/primary.webp",
     "source_page": "https://midfielectronics.com/",
-    "research_record": "./research/pedals/Mid-Fi Electronics / Doug Tuttle/Rise/OverRun.md"
+    "research_record": "./research/pedals/Mid-Fi Electronics / Doug Tuttle/Rise/OverRun.md",
+    "image_source_url": "https://www.midfielectronics.com/images/HEADER-mobile2.png",
+    "image_source_page": "https://www.midfielectronics.com/"
   },
   {
     "builder": "Mid-Fi Electronics / Doug Tuttle",
     "pedal": "What?",
-    "image": "",
+    "image": "./assets/pedals/mid-fi-electronics-doug-tuttle/what/primary.webp",
     "source_page": "https://midfielectronics.com/",
-    "research_record": "./research/pedals/Mid-Fi Electronics / Doug Tuttle/What?.md"
+    "research_record": "./research/pedals/Mid-Fi Electronics / Doug Tuttle/What?.md",
+    "image_source_url": "https://www.midfielectronics.com/images/HEADER-mobile2.png",
+    "image_source_page": "https://www.midfielectronics.com/"
   },
   {
     "builder": "Mid-Fi Electronics / Doug Tuttle",
     "pedal": "Yard Sale",
-    "image": "",
+    "image": "./assets/pedals/mid-fi-electronics-doug-tuttle/yard-sale/primary.webp",
     "source_page": "https://midfielectronics.com/",
-    "research_record": "./research/pedals/Mid-Fi Electronics / Doug Tuttle/Yard Sale.md"
+    "research_record": "./research/pedals/Mid-Fi Electronics / Doug Tuttle/Yard Sale.md",
+    "image_source_url": "https://www.midfielectronics.com/images/HEADER-mobile2.png",
+    "image_source_page": "https://www.midfielectronics.com/"
   },
   {
     "builder": "Mojo Hand FX",
@@ -26497,9 +26539,11 @@
   {
     "builder": "NUX Audio / NUX",
     "pedal": "DS-3 Classic Distortion",
-    "image": null,
+    "image": "./assets/pedals/nux-audio-nux/ds-3-classic-distortion/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/NUX Audio / NUX/DS-3 Classic Distortion.md"
+    "research_record": "./research/pedals/NUX Audio / NUX/DS-3 Classic Distortion.md",
+    "image_source_url": "https://static.reverb-assets.com/production-assets/webpack/images/mobile-header-background-69216940b596520c.png",
+    "image_source_page": "https://reverb.com/p/nux-ds-3-classic-distortion"
   },
   {
     "builder": "NUX Audio / NUX",
@@ -26769,9 +26813,11 @@
   {
     "builder": "Old Blood Noise Endeavors",
     "pedal": "Haunt Fuzz w/ Clickless Switching",
-    "image": null,
+    "image": "./assets/pedals/old-blood-noise-endeavors/haunt-fuzz-w-clickless-switching/primary.webp",
     "source_page": "https://www.oldbloodnoise.com/",
-    "research_record": "./research/pedals/Old Blood Noise Endeavors/Haunt Fuzz w - Clickless Switching.md"
+    "research_record": "./research/pedals/Old Blood Noise Endeavors/Haunt Fuzz w - Clickless Switching.md",
+    "image_source_url": "https://images.squarespace-cdn.com/content/v1/6467b64a7c9d9e5cdae9a3ea/0b5b1f81-e745-4de9-a589-8e809f9d842a/holeykdsOBNElogo-06.png?format=1500w",
+    "image_source_page": "https://www.oldbloodnoise.com/pedals/haunt"
   },
   {
     "builder": "Old Blood Noise Endeavors",
@@ -26860,23 +26906,29 @@
   {
     "builder": "Origin Effects",
     "pedal": "Bassrig '64 Black Panel",
-    "image": "",
+    "image": "./assets/pedals/origin-effects/bassrig-64-black-panel/primary.webp",
     "source_page": "https://origineffects.com/product-category/overdrive/",
-    "research_record": "./research/pedals/Origin Effects/Bassrig '64 Black Panel.md"
+    "research_record": "./research/pedals/Origin Effects/Bassrig '64 Black Panel.md",
+    "image_source_url": "https://origineffects.com/wp-content/uploads/2022/09/Peter-Frampton-2000x2000-1.jpg",
+    "image_source_page": "https://origineffects.com/product-category/overdrive/"
   },
   {
     "builder": "Origin Effects",
     "pedal": "Bassrig Fifteen",
-    "image": "",
+    "image": "./assets/pedals/origin-effects/bassrig-fifteen/primary.webp",
     "source_page": "https://origineffects.com/product-category/overdrive/",
-    "research_record": "./research/pedals/Origin Effects/Bassrig Fifteen.md"
+    "research_record": "./research/pedals/Origin Effects/Bassrig Fifteen.md",
+    "image_source_url": "https://origineffects.com/wp-content/uploads/2022/09/Peter-Frampton-2000x2000-1.jpg",
+    "image_source_page": "https://origineffects.com/product-category/overdrive/"
   },
   {
     "builder": "Origin Effects",
     "pedal": "Bassrig Super Vintage",
-    "image": "",
+    "image": "./assets/pedals/origin-effects/bassrig-super-vintage/primary.webp",
     "source_page": "https://origineffects.com/product-category/overdrive/",
-    "research_record": "./research/pedals/Origin Effects/Bassrig Super Vintage.md"
+    "research_record": "./research/pedals/Origin Effects/Bassrig Super Vintage.md",
+    "image_source_url": "https://origineffects.com/wp-content/uploads/2022/09/Peter-Frampton-2000x2000-1.jpg",
+    "image_source_page": "https://origineffects.com/product-category/overdrive/"
   },
   {
     "builder": "Origin Effects",
@@ -26944,9 +26996,11 @@
   {
     "builder": "Origin Effects",
     "pedal": "RevivalDRIVE",
-    "image": "",
+    "image": "./assets/pedals/origin-effects/revivaldrive/primary.webp",
     "source_page": "https://origineffects.com/discontinued-products/",
-    "research_record": "./research/pedals/Origin Effects/RevivalDRIVE.md"
+    "research_record": "./research/pedals/Origin Effects/RevivalDRIVE.md",
+    "image_source_url": "https://origineffects.com/wp-content/uploads/2022/09/Peter-Frampton-2000x2000-1.jpg",
+    "image_source_page": "https://origineffects.com/product-category/overdrive/"
   },
   {
     "builder": "Origin Effects",
@@ -26958,9 +27012,11 @@
   {
     "builder": "Origin Effects",
     "pedal": "RevivalDRIVE Hot Rod Edition",
-    "image": "",
+    "image": "./assets/pedals/origin-effects/revivaldrive-hot-rod-edition/primary.webp",
     "source_page": "https://origineffects.com/discontinued-products/",
-    "research_record": "./research/pedals/Origin Effects/RevivalDRIVE Hot Rod Edition.md"
+    "research_record": "./research/pedals/Origin Effects/RevivalDRIVE Hot Rod Edition.md",
+    "image_source_url": "https://origineffects.com/wp-content/uploads/2022/09/Peter-Frampton-2000x2000-1.jpg",
+    "image_source_page": "https://origineffects.com/product-category/overdrive/"
   },
   {
     "builder": "Outlaw Effects",
@@ -27094,140 +27150,160 @@
     "pedal": "BD-1",
     "image": "",
     "source_page": "https://www.petecornish.co.uk/GreySeries.html",
-    "research_record": "./research/pedals/Pete Cornish/BD-1.md"
+    "research_record": "./research/pedals/Pete Cornish/BD-1.md",
+    "image_source_page": "https://www.petecornish.co.uk/GreySeries.html"
   },
   {
     "builder": "Pete Cornish",
     "pedal": "CC-1",
     "image": "",
     "source_page": "https://www.petecornish.co.uk/GreySeries.html",
-    "research_record": "./research/pedals/Pete Cornish/CC-1.md"
+    "research_record": "./research/pedals/Pete Cornish/CC-1.md",
+    "image_source_page": "https://www.petecornish.co.uk/GreySeries.html"
   },
   {
     "builder": "Pete Cornish",
     "pedal": "G-2",
     "image": "",
     "source_page": "https://www.petecornish.co.uk/SAEG-2.html",
-    "research_record": "./research/pedals/Pete Cornish/G-2.md"
+    "research_record": "./research/pedals/Pete Cornish/G-2.md",
+    "image_source_page": "https://www.petecornish.co.uk/SAEG-2.html"
   },
   {
     "builder": "Pete Cornish",
     "pedal": "GC-1",
     "image": "",
     "source_page": "https://www.petecornish.co.uk/GreySeries.html",
-    "research_record": "./research/pedals/Pete Cornish/GC-1.md"
+    "research_record": "./research/pedals/Pete Cornish/GC-1.md",
+    "image_source_page": "https://www.petecornish.co.uk/GreySeries.html"
   },
   {
     "builder": "Pete Cornish",
     "pedal": "NG-2",
     "image": "",
     "source_page": "https://www.petecornish.co.uk/GreySeries.html",
-    "research_record": "./research/pedals/Pete Cornish/NG-2.md"
+    "research_record": "./research/pedals/Pete Cornish/NG-2.md",
+    "image_source_page": "https://www.petecornish.co.uk/GreySeries.html"
   },
   {
     "builder": "Pete Cornish",
     "pedal": "NG-3",
     "image": "",
     "source_page": "https://www.petecornish.co.uk/deluxeseries.html",
-    "research_record": "./research/pedals/Pete Cornish/NG-3.md"
+    "research_record": "./research/pedals/Pete Cornish/NG-3.md",
+    "image_source_page": "https://petecornish.co.uk/deluxeseries.html"
   },
   {
     "builder": "Pete Cornish",
     "pedal": "P-1",
     "image": "",
     "source_page": "https://www.petecornish.co.uk/GreySeries.html",
-    "research_record": "./research/pedals/Pete Cornish/P-1.md"
+    "research_record": "./research/pedals/Pete Cornish/P-1.md",
+    "image_source_page": "https://www.petecornish.co.uk/SAEP1.html"
   },
   {
     "builder": "Pete Cornish",
     "pedal": "P-2",
     "image": "",
     "source_page": "https://www.petecornish.co.uk/GreySeries.html",
-    "research_record": "./research/pedals/Pete Cornish/P-2.md"
+    "research_record": "./research/pedals/Pete Cornish/P-2.md",
+    "image_source_page": "https://www.petecornish.co.uk/SAEP2.html"
   },
   {
     "builder": "Pete Cornish",
     "pedal": "SS-2",
     "image": "",
     "source_page": "https://www.petecornish.co.uk/GreySeries.html",
-    "research_record": "./research/pedals/Pete Cornish/SS-2.md"
+    "research_record": "./research/pedals/Pete Cornish/SS-2.md",
+    "image_source_page": "https://www.petecornish.co.uk/GreySeries.html"
   },
   {
     "builder": "Pete Cornish",
     "pedal": "SS-3",
     "image": "",
     "source_page": "https://www.petecornish.co.uk/GreySeries.html",
-    "research_record": "./research/pedals/Pete Cornish/SS-3.md"
+    "research_record": "./research/pedals/Pete Cornish/SS-3.md",
+    "image_source_page": "https://www.petecornish.co.uk/GreySeries.html"
   },
   {
     "builder": "Pete Cornish / Pete Cornish Effects",
     "pedal": "BD-1 Bass Driver",
     "image": "",
     "source_page": "https://petecornish.co.uk/deluxeseries.html",
-    "research_record": "./research/pedals/Pete Cornish / Pete Cornish Effects/BD-1 Bass Driver.md"
+    "research_record": "./research/pedals/Pete Cornish / Pete Cornish Effects/BD-1 Bass Driver.md",
+    "image_source_page": "https://www.petecornish.co.uk/GreySeries.html"
   },
   {
     "builder": "Pete Cornish / Pete Cornish Effects",
     "pedal": "CC-1 Cornish Crunch",
     "image": "",
     "source_page": "https://petecornish.co.uk/deluxeseries.html",
-    "research_record": "./research/pedals/Pete Cornish / Pete Cornish Effects/CC-1 Cornish Crunch.md"
+    "research_record": "./research/pedals/Pete Cornish / Pete Cornish Effects/CC-1 Cornish Crunch.md",
+    "image_source_page": "https://www.petecornish.co.uk/GreySeries.html"
   },
   {
     "builder": "Pete Cornish / Pete Cornish Effects",
     "pedal": "G-2",
     "image": "",
     "source_page": "https://petecornish.co.uk/bfg2.html",
-    "research_record": "./research/pedals/Pete Cornish / Pete Cornish Effects/G-2.md"
+    "research_record": "./research/pedals/Pete Cornish / Pete Cornish Effects/G-2.md",
+    "image_source_page": "https://www.petecornish.co.uk/SAEG-2.html"
   },
   {
     "builder": "Pete Cornish / Pete Cornish Effects",
     "pedal": "GC-1 High Gain Crunch",
     "image": "",
     "source_page": "https://petecornish.co.uk/deluxeseries.html",
-    "research_record": "./research/pedals/Pete Cornish / Pete Cornish Effects/GC-1 High Gain Crunch.md"
+    "research_record": "./research/pedals/Pete Cornish / Pete Cornish Effects/GC-1 High Gain Crunch.md",
+    "image_source_page": "https://www.petecornish.co.uk/GreySeries.html"
   },
   {
     "builder": "Pete Cornish / Pete Cornish Effects",
     "pedal": "NG-2",
     "image": "",
     "source_page": "https://petecornish.co.uk/deluxeseries.html",
-    "research_record": "./research/pedals/Pete Cornish / Pete Cornish Effects/NG-2.md"
+    "research_record": "./research/pedals/Pete Cornish / Pete Cornish Effects/NG-2.md",
+    "image_source_page": "https://www.petecornish.co.uk/GreySeries.html"
   },
   {
     "builder": "Pete Cornish / Pete Cornish Effects",
     "pedal": "NG-3",
     "image": "",
     "source_page": "https://petecornish.co.uk/deluxeseries.html",
-    "research_record": "./research/pedals/Pete Cornish / Pete Cornish Effects/NG-3.md"
+    "research_record": "./research/pedals/Pete Cornish / Pete Cornish Effects/NG-3.md",
+    "image_source_page": "https://petecornish.co.uk/deluxeseries.html"
   },
   {
     "builder": "Pete Cornish / Pete Cornish Effects",
     "pedal": "P-1",
     "image": "",
     "source_page": "https://petecornish.co.uk/bfp1.html",
-    "research_record": "./research/pedals/Pete Cornish / Pete Cornish Effects/P-1.md"
+    "research_record": "./research/pedals/Pete Cornish / Pete Cornish Effects/P-1.md",
+    "image_source_page": "https://www.petecornish.co.uk/SAEP1.html"
   },
   {
     "builder": "Pete Cornish / Pete Cornish Effects",
     "pedal": "P-2",
     "image": "",
     "source_page": "https://petecornish.co.uk/bfp2.html",
-    "research_record": "./research/pedals/Pete Cornish / Pete Cornish Effects/P-2.md"
+    "research_record": "./research/pedals/Pete Cornish / Pete Cornish Effects/P-2.md",
+    "image_source_page": "https://www.petecornish.co.uk/SAEP2.html"
   },
   {
     "builder": "Pete Cornish / Pete Cornish Effects",
     "pedal": "SS-2 Soft Sustain",
     "image": "",
     "source_page": "https://petecornish.co.uk/bfss2.html",
-    "research_record": "./research/pedals/Pete Cornish / Pete Cornish Effects/SS-2 Soft Sustain.md"
+    "research_record": "./research/pedals/Pete Cornish / Pete Cornish Effects/SS-2 Soft Sustain.md",
+    "image_source_page": "https://www.petecornish.co.uk/GreySeries.html"
   },
   {
     "builder": "Pete Cornish / Pete Cornish Effects",
     "pedal": "SS-3 Soft Sustain",
     "image": "",
     "source_page": "https://petecornish.co.uk/deluxeseries.html",
-    "research_record": "./research/pedals/Pete Cornish / Pete Cornish Effects/SS-3 Soft Sustain.md"
+    "research_record": "./research/pedals/Pete Cornish / Pete Cornish Effects/SS-3 Soft Sustain.md",
+    "image_source_page": "https://www.petecornish.co.uk/GreySeries.html"
   },
   {
     "builder": "Pettyjohn Electronics",
@@ -27354,7 +27430,8 @@
     "pedal": "GO",
     "image": null,
     "source_page": null,
-    "research_record": "./research/pedals/Pigdog Pedals/GO.md"
+    "research_record": "./research/pedals/Pigdog Pedals/GO.md",
+    "image_source_page": "https://www.pigdogpedals.com/shop/"
   },
   {
     "builder": "Pigtronix",
