@@ -20,7 +20,7 @@ permissions:
   actions: write
 
 concurrency:
-  group: dirt-photo-recovery-v3
+  group: dirt-photo-recovery-v4
   # Serialize all automatic photo catch-up passes so duplicate runners do not compete for the same records.
   cancel-in-progress: false
 
