@@ -3136,7 +3136,7 @@
   {
     "builder": "Backbeat Electric",
     "pedal": "Bass Driver",
-    "image": null,
+    "image": "./assets/pedals/backbeat-electric/bass-driver/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/backbeat",
     "research_record": "./research/pedals/Backbeat Electric/Bass Driver.md"
   },
