@@ -11,6 +11,7 @@ import html
 import csv
 import json
 import re
+import unicodedata
 from pathlib import Path
 
 INDEX = Path("research/PEDAL_INDEX.json")
@@ -45,6 +46,9 @@ COLOR_RE = re.compile(
 
 def norm(value):
     text = html.unescape(re.sub(r"\s+", " ", str(value or "").strip()))
+    text = text.replace("ø","o").replace("Ø","O").replace("æ","ae").replace("Æ","AE").replace("œ","oe").replace("Œ","OE").replace("ß","ss")
+    text = unicodedata.normalize("NFKD", text)
+    text = "".join(ch for ch in text if not unicodedata.combining(ch))
     return text.encode("utf-8", "backslashreplace").decode("utf-8")
 
 
