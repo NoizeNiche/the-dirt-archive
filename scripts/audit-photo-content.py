@@ -17,6 +17,7 @@ import os
 import re
 import subprocess
 from pathlib import Path
+from urllib.request import Request, urlopen
 
 from PIL import Image, ImageStat, ImageFilter
 from concurrent.futures import ThreadPoolExecutor, as_completed
@@ -24,6 +25,7 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 ROOT = Path(".")
 INDEX = ROOT / "research/PEDAL_INDEX.json"
 ASSETS = ROOT / "assets/pedals"
+PHOTO_SOURCE_BLOCKLIST = ROOT / "research/PHOTO_SOURCE_BLOCKLIST.json"
 KICK = ROOT / "research/PHOTO_CONTENT_AUDIT_KICK"
 HIGH_CONFIDENCE = (
     "buy me a coffee",
@@ -40,6 +42,48 @@ HIGH_CONFIDENCE = (
 
 def norm(value: str) -> str:
     return re.sub(r"\s+", " ", str(value or "").strip().lower())
+
+def load_source_blocklist():
+    try:
+        data = json.loads(PHOTO_SOURCE_BLOCKLIST.read_text(encoding="utf-8"))
+        return data.get("rules", []) if isinstance(data, dict) else []
+    except Exception:
+        return []
+
+def blocked_source(value: str, rules) -> str:
+    raw = str(value or "").strip().lower()
+    for rule in rules:
+        kind = str(rule.get("type") or "")
+        pattern = str(rule.get("pattern") or "")
+        if not pattern:
+            continue
+        if kind == "exact_url" and raw == pattern.lower():
+            return pattern
+        if kind.endswith("_regex"):
+            try:
+                if re.search(pattern, raw, re.I):
+                    return pattern
+            except re.error:
+                pass
+    return ""
+
+def known_bad_image_hashes(rules):
+    hashes = {}
+    for rule in rules:
+        if str(rule.get("type") or "") != "exact_url":
+            continue
+        url = str(rule.get("pattern") or "").strip()
+        if not re.match(r"^https?://", url, re.I):
+            continue
+        try:
+            req = Request(url, headers={"User-Agent": "Mozilla/5.0 The Dirt Archive photo audit/1.0"})
+            with urlopen(req, timeout=8) as response:
+                data = response.read(5 * 1024 * 1024 + 1)
+            if len(data) <= 5 * 1024 * 1024:
+                hashes[hashlib.sha256(data).hexdigest()] = url
+        except Exception:
+            pass
+    return hashes
 
 def catalog_map():
     data = json.loads(INDEX.read_text(encoding="utf-8"))
@@ -169,6 +213,8 @@ def main():
             if "research/PHOTO_CONTENT_AUDIT_KICK" in changed_text:
                 mode = "all"
 
+    rules = load_source_blocklist()
+    bad_hashes = known_bad_image_hashes(rules)
     targets = resolve_targets(mode)
     rows = []
     high = []
@@ -180,6 +226,16 @@ def main():
             flags, ocr = ["missing_local_file"], ""
         else:
             flags, ocr = inspect(path)
+            try:
+                digest = hashlib.sha256(path.read_bytes()).hexdigest()
+                if digest in bad_hashes:
+                    flags.append("known_blocked_image_hash")
+            except Exception:
+                pass
+            for field in ("image_source_url", "image_source_page", "source_page"):
+                matched = blocked_source(entry.get(field), rules)
+                if matched:
+                    flags.append("blocked_provenance:" + field + ":" + matched)
         row = {
             "Builder": entry.get("company") or "",
             "Pedal": entry.get("pedal") or "",
@@ -188,7 +244,7 @@ def main():
             "Flags": "; ".join(flags),
             "OCR": ocr[:1200],
         }
-        contaminated = any(flag.startswith("donation_or_platform_overlay:") for flag in flags)
+        contaminated = any(flag.startswith("donation_or_platform_overlay:") for flag in flags) or "known_blocked_image_hash" in flags or any(flag.startswith("blocked_provenance:") for flag in flags)
         return row, contaminated
     with ThreadPoolExecutor(max_workers=max(2, min(6, (os.cpu_count() or 4)))) as executor:
         futures = [executor.submit(audit_one, pair) for pair in ordered_targets]
@@ -201,7 +257,7 @@ def main():
     output = Path(args.output)
     write_csv(rows, output)
     suspects = [row for row in rows if row["Status"] == "SUSPECT"]
-    print(f"Photo content audit mode={mode}; checked={len(rows)}; suspects={len(suspects)}; high_confidence={len(high)}")
+    print(f"Photo content audit mode={mode}; checked={len(rows)}; suspects={len(suspects)}; high_confidence={len(high)}; known_bad_hash_matches={sum("known_blocked_image_hash" in row["Flags"] for row in rows)}")
     for builder, pedal, image, flags in high:
         print(f"HIGH-CONFIDENCE PHOTO CONTAMINATION: {builder} / {pedal} -> {image} :: {', '.join(flags)}")
     if suspects:
