@@ -33,7 +33,7 @@ jobs:
         shell: bash
         run: |
           python - <<'PY' >> "$GITHUB_OUTPUT"
-          import csv, json, sys
+          import csv, json, os, sys
           from pathlib import Path
 
           rows = list(csv.DictReader(open("research/PRP_TRACKER.csv", newline="", encoding="utf-8")))
