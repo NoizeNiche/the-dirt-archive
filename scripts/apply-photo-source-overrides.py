@@ -11,6 +11,7 @@ before older curated records.
 
 import csv
 import json
+import re
 from pathlib import Path
 
 INDEX = Path("research/PEDAL_INDEX.json")
@@ -20,6 +21,16 @@ DIRECT_OVERRIDES = Path("research/PHOTO_DIRECT_IMAGE_OVERRIDES.csv")
 
 def key(builder: str, pedal: str) -> tuple[str, str]:
     return (builder.strip(), pedal.strip())
+
+def is_known_site_asset(value: str) -> bool:
+    haystack = str(value or "").strip().lower()
+    return bool(
+        re.search(r"(^|[/.?=&_-])favicon(?:\\.ico)?([/?#=&_.-]|$)", haystack)
+        or "freepnglogos.com" in haystack
+        or "playground.com/templates/" in haystack
+        or re.search(r"(^|[/_-])logo(?:\\d*)?(?:\\.[a-z0-9]+)?([/?#=&_-]|$)", haystack)
+        or re.search(r"(?:^|[/.?=&_-])(?:loading|spinner|placeholder|sprite|avatar|badge|social|widget)(?:[/.?#=&_-]|$)", haystack)
+    )
 
 
 def main() -> None:
@@ -79,10 +90,13 @@ def main() -> None:
             stale_single = str(entry.get("image_source_url") or "").strip()
             if stale_single:
                 stale_urls.append(stale_single)
-            stale_reverb = "rvb-img.reverb.com" in stale_image.lower() or any(
+            stale_bad_asset = is_known_site_asset(stale_image) or any(
+                is_known_site_asset(value) for value in stale_urls
+            )
+            stale_reverb = "rvb-img.reverb.com" in stale_image or any(
                 "rvb-img.reverb.com" in value.lower() for value in stale_urls
             )
-            if stale_reverb:
+            if stale_bad_asset or stale_reverb:
                 entry.pop("image_source_url", None)
                 entry.pop("image_source_urls", None)
                 entry.pop("image", None)
