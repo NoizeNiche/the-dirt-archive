@@ -23284,16 +23284,20 @@
   {
     "builder": "LICHTLÆRM AUDIO",
     "pedal": "Ragnarøk",
-    "image": null,
+    "image": "./assets/pedals/lichtl-rm-audio/ragnar-k/primary.webp",
     "source_page": "https://lichtlaermaudio.com/shop",
-    "research_record": "./research/pedals/LICHTLÆRM AUDIO/Ragnarøk.md"
+    "research_record": "./research/pedals/LICHTLÆRM AUDIO/Ragnarøk.md",
+    "image_source_url": "https://images.squarespace-cdn.com/content/v1/5cd82168840b1640b019cfdf/1557843497919-HBFUT46FS935VHPAPFDB/image-asset.jpeg",
+    "image_source_page": "https://lichtlaermaudio.com/shop"
   },
   {
     "builder": "LICHTLÆRM AUDIO",
     "pedal": "The King in Yellow",
-    "image": null,
+    "image": "./assets/pedals/lichtl-rm-audio/the-king-in-yellow/primary.webp",
     "source_page": "https://lichtlaermaudio.com/shop",
-    "research_record": "./research/pedals/LICHTLÆRM AUDIO/The King in Yellow.md"
+    "research_record": "./research/pedals/LICHTLÆRM AUDIO/The King in Yellow.md",
+    "image_source_url": "https://images.squarespace-cdn.com/content/v1/5cd82168840b1640b019cfdf/1557843497919-HBFUT46FS935VHPAPFDB/image-asset.jpeg",
+    "image_source_page": "https://lichtlaermaudio.com/shop"
   },
   {
     "builder": "LICHTLÆRM AUDIO",
