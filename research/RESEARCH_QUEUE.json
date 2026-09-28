@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-28T09:49:56.148381+00:00",
+  "generated_at": "2026-09-28T09:50:25.409347+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,8 +10,8 @@
     "pictured": 3861,
     "complete": 3861,
     "research_pending": 0,
-    "deep_research_pending": 94,
-    "deep_researched": 4112,
+    "deep_research_pending": 93,
+    "deep_researched": 4113,
     "surface_ready": 4206
   },
   "next_target": {
@@ -48,13 +48,6 @@
       "pedal": "SD-9M Sonic Distortion Master",
       "catalog_type": "Distortion",
       "research_record": "./research/pedals/Maxon / Nisshin Onpa/SD-9M Sonic Distortion Master.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Maxon / Nisshin Onpa",
-      "pedal": "SM-9 Super Metal",
-      "catalog_type": "Distortion",
-      "research_record": "./research/pedals/Maxon / Nisshin Onpa/SM-9 Super Metal.md",
       "research_level": "surface"
     },
     {
@@ -195,6 +188,13 @@
       "pedal": "Ultra Drive MKII",
       "catalog_type": "Distortion",
       "research_record": "./research/pedals/MOOER Audio / MOOER/Ultra Drive MKII.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Mr. Black",
+      "pedal": "Barbeque Fuzz",
+      "catalog_type": "Fuzz",
+      "research_record": "./research/pedals/Mr. Black/Barbeque Fuzz.md",
       "research_level": "surface"
     }
   ]
