@@ -134,11 +134,13 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/6-degrees-fx/hyper-catalyst/primary.webp",
       "source_page": "https://www.effectsdatabase.com/type/overdrive/pedal",
       "research_record": "./research/pedals/6 Degrees FX/Hyper Catalyst.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://files.effectsdatabase.com/graphics/google-preferred-source-sq.png",
+      "image_source_page": "https://www.effectsdatabase.com/type/overdrive/pedal"
     },
     {
       "company": "6 Degrees FX",
@@ -158,11 +160,13 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/6-degrees-fx/sally-drive/primary.webp",
       "source_page": "https://www.effectsdatabase.com/type/overdrive/pedal",
       "research_record": "./research/pedals/6 Degrees FX/Sally Drive.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://files.effectsdatabase.com/graphics/buymeacoffee.png",
+      "image_source_page": "https://www.effectsdatabase.com/type/overdrive/pedal"
     },
     {
       "company": "A Sound Of Failure",
@@ -2685,11 +2689,13 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/ampeg/a-3-over-drive/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/ampeg/a",
       "research_record": "./research/pedals/Ampeg/A-3 Over Drive.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://files.effectsdatabase.com/brands/pics/ampeg-a_001.jpg",
+      "image_source_page": "https://www.effectsdatabase.com/model/ampeg/a"
     },
     {
       "company": "Ampeg",
@@ -2736,11 +2742,13 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/ampeg/sgt-di-bass-preamp-di/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/ampeg",
       "research_record": "./research/pedals/Ampeg/SGT-DI Bass Preamp & DI.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://files.effectsdatabase.com/brands/thumbs/ampeg_000.jpg",
+      "image_source_page": "https://www.effectsdatabase.com/model/ampeg"
     },
     {
       "company": "Amplified Nation",
@@ -4479,11 +4487,13 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/arc-effects/big-green/primary.webp",
       "source_page": "https://www.arceffects.com/big-green",
       "research_record": "./research/pedals/ARC Effects/Big Green.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://images.squarespace-cdn.com/content/v1/504a2da9e4b0060ff5df6806/1387306372817-M4OD7IG839BAVXKLRYQX/%22+Sticker.png?format=300w",
+      "image_source_page": "https://www.arceffects.com/big-green"
     },
     {
       "company": "ARC Effects",
@@ -4491,11 +4501,13 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/arc-effects/big-green-pi/primary.webp",
       "source_page": "https://www.arceffects.com/big-green-1/",
       "research_record": "./research/pedals/ARC Effects/Big Green Pi.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://images.squarespace-cdn.com/content/v1/504a2da9e4b0060ff5df6806/1387306372817-M4OD7IG839BAVXKLRYQX/%22+Sticker.png?format=300w",
+      "image_source_page": "https://www.arceffects.com/big-green-1/"
     },
     {
       "company": "ARC Effects",
@@ -4503,11 +4515,13 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/arc-effects/crimson-king/primary.webp",
       "source_page": "https://www.arceffects.com/crimson-king/",
       "research_record": "./research/pedals/ARC Effects/Crimson King.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://images.squarespace-cdn.com/content/v1/504a2da9e4b0060ff5df6806/1387306372817-M4OD7IG839BAVXKLRYQX/%22+Sticker.png?format=300w",
+      "image_source_page": "https://www.arceffects.com/crimson-king/"
     },
     {
       "company": "ARC Effects",
@@ -4527,11 +4541,13 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/arc-effects/klone-v2/primary.webp",
       "source_page": "https://www.arceffects.com/klone-v2",
       "research_record": "./research/pedals/ARC Effects/Klone V2.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://images.squarespace-cdn.com/content/v1/504a2da9e4b0060ff5df6806/1387306372817-M4OD7IG839BAVXKLRYQX/%22+Sticker.png?format=300w",
+      "image_source_page": "https://www.arceffects.com/klone-v2"
     },
     {
       "company": "ARC Effects",
@@ -4539,11 +4555,13 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/arc-effects/shepherd/primary.webp",
       "source_page": "https://www.arceffects.com/shepherd/",
       "research_record": "./research/pedals/ARC Effects/Shepherd.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://images.squarespace-cdn.com/content/v1/504a2da9e4b0060ff5df6806/1387306372817-M4OD7IG839BAVXKLRYQX/%22+Sticker.png?format=300w",
+      "image_source_page": "https://www.arceffects.com/shepherd/"
     },
     {
       "company": "ARC Effects",
@@ -4734,11 +4752,13 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/ashdown-engineering/abm-pro-fx-pro-drive/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/ashdown",
       "research_record": "./research/pedals/Ashdown Engineering/ABM PRO-FX Pro Drive.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://files.effectsdatabase.com/graphics/google-preferred-source-sq.png",
+      "image_source_page": "https://www.effectsdatabase.com/model/ashdown"
     },
     {
       "company": "Ashdown Engineering",
@@ -4750,7 +4770,9 @@
       "source_page": "https://www.effectsdatabase.com/model/ashdown",
       "research_record": "./research/pedals/Ashdown Engineering/AGM PRO-FX Retro Drive.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://www.effectsdatabase.com/misc/ebaytabs/loading.gif",
+      "image_source_page": "https://www.effectsdatabase.com/model/ashdown"
     },
     {
       "company": "Ashdown Engineering",
@@ -4771,11 +4793,13 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/ashdown-engineering/bass-drive-plus/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/ashdown",
       "research_record": "./research/pedals/Ashdown Engineering/Bass Drive Plus.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://files.effectsdatabase.com/brands/thumbs/ashdown_000.jpg",
+      "image_source_page": "https://www.effectsdatabase.com/model/ashdown"
     },
     {
       "company": "Ashdown Engineering",
@@ -6772,11 +6796,13 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/bad-penny-fx/dluxe-drive/primary.webp",
       "source_page": "https://reverb.com/uk/item/52583164-bad-penny-fx-dluxe-drive",
       "research_record": "./research/pedals/Bad Penny FX/Dluxe Drive.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://d6a2e7ghqts3o.cloudfront.net/AcuCustom/Sitename/DAM/542/2023-GPX-Best-of-British-Builders-V2-700.jpg",
+      "image_source_page": "https://www.guitarpedalx.com/news/best-of-british-pedal-builders-roundup---an-a-z-overview-in-105-parts"
     },
     {
       "company": "Bad Penny FX",
@@ -6784,11 +6810,13 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/bad-penny-fx/fuzz-controller-germanium/primary.webp",
       "source_page": "https://www.guitarpedalx.com/news/best-of-british-pedal-builders-roundup---an-a-z-overview-in-105-parts",
       "research_record": "./research/pedals/Bad Penny FX/Fuzz Controller Germanium.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://d6a2e7ghqts3o.cloudfront.net/AcuCustom/Sitename/DAM/542/2023-GPX-Best-of-British-Builders-V2-700.jpg",
+      "image_source_page": "https://www.guitarpedalx.com/news/best-of-british-pedal-builders-roundup---an-a-z-overview-in-105-parts"
     },
     {
       "company": "Bad Penny FX",
@@ -6796,11 +6824,13 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/bad-penny-fx/littlebox-fuzz/primary.webp",
       "source_page": "https://www.guitarpedalx.com/news/best-of-british-pedal-builders-roundup---an-a-z-overview-in-105-parts",
       "research_record": "./research/pedals/Bad Penny FX/Littlebox Fuzz.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://d6a2e7ghqts3o.cloudfront.net/AcuCustom/Sitename/DAM/542/2023-GPX-Best-of-British-Builders-V2-700.jpg",
+      "image_source_page": "https://www.guitarpedalx.com/news/best-of-british-pedal-builders-roundup---an-a-z-overview-in-105-parts"
     },
     {
       "company": "Bad Penny FX",
@@ -6808,11 +6838,13 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/bad-penny-fx/lollygagger-overdrive/primary.webp",
       "source_page": "https://www.guitarpedalx.com/news/best-of-british-pedal-builders-roundup---an-a-z-overview-in-105-parts",
       "research_record": "./research/pedals/Bad Penny FX/Lollygagger Overdrive.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://d6a2e7ghqts3o.cloudfront.net/AcuCustom/Sitename/DAM/542/2023-GPX-Best-of-British-Builders-V2-700.jpg",
+      "image_source_page": "https://www.guitarpedalx.com/news/best-of-british-pedal-builders-roundup---an-a-z-overview-in-105-parts"
     },
     {
       "company": "Bad Penny FX",
@@ -6834,11 +6866,13 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/bad-penny-fx/morse-fuzz-mini/primary.webp",
       "source_page": "https://www.guitarpedalx.com/news/best-of-british-pedal-builders-roundup---an-a-z-overview-in-105-parts",
       "research_record": "./research/pedals/Bad Penny FX/Morse Fuzz Mini.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://d6a2e7ghqts3o.cloudfront.net/AcuCustom/Sitename/DAM/542/2023-GPX-Best-of-British-Builders-V2-700.jpg",
+      "image_source_page": "https://www.guitarpedalx.com/news/best-of-british-pedal-builders-roundup---an-a-z-overview-in-105-parts"
     },
     {
       "company": "Bad Penny FX",
@@ -6847,11 +6881,13 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/bad-penny-fx/nerd-fuzz-boost/primary.webp",
       "source_page": "https://www.guitarpedalx.com/news/best-of-british-pedal-builders-roundup---an-a-z-overview-in-105-parts",
       "research_record": "./research/pedals/Bad Penny FX/Nerd Fuzz + Boost.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://d6a2e7ghqts3o.cloudfront.net/AcuCustom/Sitename/DAM/542/2023-GPX-Best-of-British-Builders-V2-700.jpg",
+      "image_source_page": "https://www.guitarpedalx.com/news/best-of-british-pedal-builders-roundup---an-a-z-overview-in-105-parts"
     },
     {
       "company": "Bad Penny FX",
@@ -6859,11 +6895,13 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/bad-penny-fx/old-fuzz-mini/primary.webp",
       "source_page": "https://www.guitarpedalx.com/news/best-of-british-pedal-builders-roundup---an-a-z-overview-in-105-parts",
       "research_record": "./research/pedals/Bad Penny FX/Old Fuzz Mini.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://d6a2e7ghqts3o.cloudfront.net/AcuCustom/Sitename/DAM/542/2023-GPX-Best-of-British-Builders-V2-700.jpg",
+      "image_source_page": "https://www.guitarpedalx.com/news/best-of-british-pedal-builders-roundup---an-a-z-overview-in-105-parts"
     },
     {
       "company": "Bad Penny FX",
@@ -6872,11 +6910,13 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/bad-penny-fx/quagswag-fuzz-boost/primary.webp",
       "source_page": "https://www.guitarpedalx.com/news/best-of-british-pedal-builders-roundup---an-a-z-overview-in-105-parts",
       "research_record": "./research/pedals/Bad Penny FX/Quagswag Fuzz Boost.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://d6a2e7ghqts3o.cloudfront.net/AcuCustom/Sitename/DAM/542/2023-GPX-Best-of-British-Builders-V2-700.jpg",
+      "image_source_page": "https://www.guitarpedalx.com/news/best-of-british-pedal-builders-roundup---an-a-z-overview-in-105-parts"
     },
     {
       "company": "Bad Penny FX",
@@ -6927,11 +6967,13 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/bad-penny-fx/widow-dual-overdrive-fuzz/primary.webp",
       "source_page": "https://www.guitarpedalx.com/news/best-of-british-pedal-builders-roundup---an-a-z-overview-in-105-parts",
       "research_record": "./research/pedals/Bad Penny FX/Widow Dual Overdrive Fuzz.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://d6a2e7ghqts3o.cloudfront.net/AcuCustom/Sitename/DAM/542/2023-GPX-Best-of-British-Builders-V2-700.jpg",
+      "image_source_page": "https://www.guitarpedalx.com/news/best-of-british-pedal-builders-roundup---an-a-z-overview-in-105-parts"
     },
     {
       "company": "Bad Penny FX",
@@ -7023,11 +7065,13 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/bad-pixel-pedals/f-k-you-tube-drive-boost/primary.webp",
       "source_page": "https://atthelivingroomstudios.com/gear/",
       "research_record": "./research/pedals/Bad Pixel Pedals/F#@k You Tube Drive-Boost.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://atthelivingroomstudios.com/assets/uploads/2019/06/DnR-CinemixII-Analog-Console-275x275.jpg",
+      "image_source_page": "https://atthelivingroomstudios.com/gear/"
     },
     {
       "company": "Bad Pixel Pedals",
@@ -7194,11 +7238,13 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/bae-audio/hot-fuzz/primary.webp",
       "source_page": "https://ww.baeaudio.com/hot-fuzz/",
       "research_record": "./research/pedals/BAE Audio/Hot Fuzz.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://ww.baeaudio.com/wp-content/uploads/2018/01/dave-stewart-hot-fuzz.jpg",
+      "image_source_page": "https://ww.baeaudio.com/hot-fuzz/"
     },
     {
       "company": "BAE Audio",
@@ -7252,11 +7298,13 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/baja-tech-custom/bone-bender-1-5/primary.webp",
       "source_page": "https://wahwah.fandom.com/wiki/Baja_Tech_Custom",
       "research_record": "./research/pedals/Baja Tech Custom/Bone Bender 1.5.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://files.effectsdatabase.com/gear/thumbs/bajatech_bonebender_001.jpg",
+      "image_source_page": "https://www.effectsdatabase.com/model/bajatech/bonebender"
     },
     {
       "company": "Baja Tech Custom",
@@ -7264,11 +7312,13 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/baja-tech-custom/bone-bender-mkii/primary.webp",
       "source_page": "https://wahwah.fandom.com/wiki/Baja_Tech_Custom",
       "research_record": "./research/pedals/Baja Tech Custom/Bone Bender MKII.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://files.effectsdatabase.com/gear/pics/bajatech_bonebender_001.jpg",
+      "image_source_page": "https://www.effectsdatabase.com/model/bajatech/bonebender"
     },
     {
       "company": "Baja Tech Custom",
@@ -7349,11 +7399,13 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/baja-tech-custom/real-tube-overdrive/primary.webp",
       "source_page": "https://wahwah.fandom.com/wiki/Baja_Tech_Custom",
       "research_record": "./research/pedals/Baja Tech Custom/Real Tube Overdrive.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://img.youtube.com/vi/pFZrge6Kpes/hqdefault.jpg",
+      "image_source_page": "https://reverb.com/item/68668840-baja-tech-custom-real-tube-overdrive-distortion-preamp-12ax7-pedal-made-in-ukraine"
     },
     {
       "company": "Baja Tech Custom",
@@ -7397,11 +7449,13 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/balaguer-guitars/fission-drive/primary.webp",
       "source_page": "https://www.balaguerguitars.com/wp-content/uploads/2021/02/Balaguer-2021-Product-Catalog_compressed-2.pdf",
       "research_record": "./research/pedals/Balaguer Guitars/Fission Drive.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://d6a2e7ghqts3o.cloudfront.net/AcuCustom/Sitename/DAM/522/2021GPX4OverdrivesWithBite700.jpg",
+      "image_source_page": "https://www.guitarpedalx.com/news/4-cool-noteworthy-overdrives-with-character-and-bite"
     },
     {
       "company": "Balaguer Guitars",
@@ -7495,11 +7549,13 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/baltimore-sonic-research-institute/magawa/primary.webp",
       "source_page": "https://empireguitars.com/collections/all?page=58",
       "research_record": "./research/pedals/Baltimore Sonic Research Institute/Magawa.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://empireguitars.com/cdn/shop/products/medium_c3b00e41-5566-4aec-b160-f3d07c0e44eb_360x.jpg?v=1769790864",
+      "image_source_page": "https://empireguitars.com/collections/all?page=58"
     },
     {
       "company": "Baltimore Sonic Research Institute",
@@ -8629,11 +8685,13 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/bbe/427-distortion/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/bbe/427",
       "research_record": "./research/pedals/BBE/427 Distortion.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://cdn.mos.cms.futurecdn.net/flexiimages/2pyzk5gy2u1776694356.png",
+      "image_source_page": "https://www.guitarworld.com/magazine/review-bbe-427-fd-427p-distortion-pedal"
     },
     {
       "company": "BBE",
@@ -8689,11 +8747,13 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/bbe/free-fuzz/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/bbe/freefuzz",
       "research_record": "./research/pedals/BBE/Free Fuzz.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://files.effectsdatabase.com/gear/pics/bbe_freefuzz_001.jpg",
+      "image_source_page": "https://www.effectsdatabase.com/model/bbe/freefuzz"
     },
     {
       "company": "BBE",
@@ -9093,11 +9153,13 @@
         "Overdrive",
         "Fuzz"
       ],
-      "image": "",
+      "image": "./assets/pedals/beetronics/royal-jelly-fuzz-od-blender/primary.webp",
       "source_page": "https://www.beetronicsfx.com/products/royal-jelly-limited-edition-p-royal-series",
       "research_record": "./research/pedals/Beetronics/Royal Jelly Fuzz/OD Blender.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://www.beetronicsfx.com/cdn/shop/products/RJ2021_01.jpg?v=1617996734&width=1500",
+      "image_source_page": "https://www.beetronicsfx.com/products/royal-jelly-limited-edition-p-royal-series"
     },
     {
       "company": "Beetronics",
@@ -38092,12 +38154,13 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/hungry-robot/fz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Hungry Robot/FZ.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://www.hungryrobotpedals.com/hr-fz"
+      "image_source_page": "https://www.effectsdatabase.com/model/hungryrobot/fz",
+      "image_source_url": "https://files.effectsdatabase.com/gear/pics/hungryrobot_fz_001.jpg"
     },
     {
       "company": "Hungry Robot",
@@ -41471,7 +41534,8 @@
       "source_page": null,
       "research_record": "./research/pedals/KMA Machines/Queequeq 2.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_page": "https://www.rockboard.de/en/pedalPedia/KMA-Machines/Queequeq-2/68980943/"
     },
     {
       "company": "KMA Machines",
@@ -42928,7 +42992,8 @@
       "source_page": "https://mpamp.com/category/8/shop",
       "research_record": "./research/pedals/Mad Professor Amplification/Sweet Honey Overdrive Custom.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_page": "https://kc-music.jp/mad-professor/sweet-honey-overdrive-custom.html"
     },
     {
       "company": "Mad Professor Amplification",
@@ -42952,7 +43017,8 @@
       "source_page": "https://mpamp.com/category/8/shop",
       "research_record": "./research/pedals/Mad Professor Amplification/Sweet Honey Overdrive Handwired.md",
       "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "deep_research_status": "PENDING",
+      "image_source_page": "https://mpamp.com/product/93/sweet-honey-overdrive-handwired"
     },
     {
       "company": "Mad Professor Amplification",
@@ -43001,7 +43067,8 @@
       "source_page": null,
       "research_record": "./research/pedals/MadeByMike/Dist².md",
       "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "deep_research_status": "PENDING",
+      "image_source_page": "https://www.madebymike.co.uk/dist2.shtml"
     },
     {
       "company": "MadeByMike",
@@ -43053,7 +43120,8 @@
       "source_page": null,
       "research_record": "./research/pedals/MadeByMike/Germanium Fuzz Face.md",
       "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "deep_research_status": "PENDING",
+      "image_source_page": "https://www.madebymike.co.uk/germaniumfuzzface.shtml"
     },
     {
       "company": "MadeByMike",
