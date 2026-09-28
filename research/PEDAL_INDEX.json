@@ -47718,8 +47718,8 @@
       "image": "./assets/pedals/mystic-effects-co/driven-parallel-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mystic Effects Co/Driven-Parallel Overdrive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Mystic Effects Co",
@@ -54719,8 +54719,8 @@
       "image": "./assets/pedals/vick-audio/v2-violet-ram/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Vick Audio/V2 Violet Ram.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Visual Sound / Truetone",

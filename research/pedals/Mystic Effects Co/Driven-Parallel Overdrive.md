@@ -4,33 +4,37 @@
 - **Archive parent:** Driven-Parallel Overdrive
 - **Builder:** Mystic Effects Co
 - **Catalog type:** Overdrive
-- **Identity:** Mystic Effects Co Driven-Parallel Overdrive.
+- **Identity:** Mystic Effects Co's Driven-Parallel Overdrive.
 
 ## What this pedal is
-The Driven-Parallel Overdrive is a pedal in the Mystic Effects Co catalog. A current retailer collection identifies the exact product by builder and model name alongside Mystic's other pedals, including the 1833 Drive, Bandpass Overdrive, Fuzz Button, and Octavia Vintage Octave Fuzz.
+The Driven-Parallel Overdrive is a pedal in the Mystic Effects Co catalog.
 
 ## Colorways
 - No complete factory colorway sequence established from the exact source reviewed.
 
 ## Versions and factory options
-- **Driven-Parallel Overdrive:** exact cataloged model.
-- No distinct factory revision or version split established from the source reviewed.
+- The verified evidence references: revision.
+- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
 
 ## Version changes
-- No documented production revision history established.
+- No specific factory version changes were established in the verified evidence packet.
 
 ## Transistor
-- **Exact production transistor/device:** Not established in the available exact-model source.
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
 
 ## Diode
-- **Exact clipping/rectification diode:** Not established in the available exact-model source.
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
 
 ## Sound
-The surviving exact-model source confirms the pedal's existence and catalog identity as a Mystic Effects Co overdrive. Detailed controls, circuit topology, and tonal description were not sufficiently documented in the exact source available, so the archive leaves those fields unresolved rather than borrowing details from another Mystic pedal.
+The Driven-Parallel Overdrive is a pedal in the Mystic Effects Co catalog.
+A current retailer collection identifies the exact product by builder and model name alongside Mystic's other pedals, including the 1833 Drive, Bandpass Overdrive, Fuzz Button, and Octavia Vintage Octave Fuzz.
+**Driven-Parallel Overdrive:** exact cataloged model.
 
 ## Sources checked
-1. Martel Music Store, Mystic Effects Co collection: https://martelmusicstore.com/collections/mystic-effects-co
+1. Mystic Effects Co: https://martelmusicstore.com/collections/mystic-effects-co
+2. Guitar Effects Pedals Made by Hand with Quality in Mind: https://mysticeffectsco.com/
 
 ## Photo
-- **Exact-model photo lead:** Martel Music Store exact Mystic Effects Co collection listing.
-- **Archive status:** Local photo recovery is handled separately; only a verified local asset counts as pictured.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

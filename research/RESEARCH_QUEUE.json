@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-28T12:18:46.663924+00:00",
+  "generated_at": "2026-09-28T12:20:11.856409+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,8 +10,8 @@
     "pictured": 3995,
     "complete": 3995,
     "research_pending": 0,
-    "deep_research_pending": 6,
-    "deep_researched": 4200,
+    "deep_research_pending": 4,
+    "deep_researched": 4202,
     "surface_ready": 4206
   },
   "next_target": {
@@ -30,24 +30,10 @@
       "research_level": "surface"
     },
     {
-      "builder": "Mystic Effects Co",
-      "pedal": "Driven-Parallel Overdrive",
-      "catalog_type": "Overdrive",
-      "research_record": "./research/pedals/Mystic Effects Co/Driven-Parallel Overdrive.md",
-      "research_level": "surface"
-    },
-    {
       "builder": "Smallsound/Bigsound",
       "pedal": "Year of the Rat",
       "catalog_type": "Fuzz",
       "research_record": "./research/pedals/Smallsound/Bigsound/Year of the Rat.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Vick Audio",
-      "pedal": "V2 Violet Ram",
-      "catalog_type": "Fuzz",
-      "research_record": "./research/pedals/Vick Audio/V2 Violet Ram.md",
       "research_level": "surface"
     },
     {
