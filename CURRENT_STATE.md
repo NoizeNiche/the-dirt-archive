@@ -16,7 +16,7 @@ Last refreshed: 2026-09-28T21:06:50.612451+00:00
 
 The canonical catalog is **4,202 records**, with **4,202 deep-researched** and **4,143 pictured**. The remaining exact-photo gate is now **59 researched-photo-pending**, down from the earlier 77-record snapshot.
 
-The public product now includes a device-local collector workbench for saving exact records and comparing up to four exact records side by side. Comparison is descriptive only and does not expose internal research administration or produce ratings/rankings.
+The public product now includes a device-local collector workbench for saving exact records and comparing up to four exact records side by side. Comparison is descriptive only and does not expose internal research administration or produce ratings/rankings. The archive index also now supports a URL-preserved Grid/Table browse toggle, with the same filters and workbench actions in both modes.
 
 The photo recovery lane has also been hardened with a deterministic curated-direct-image path, and newly added source leads no longer cancel an active fast recovery pass.
 
