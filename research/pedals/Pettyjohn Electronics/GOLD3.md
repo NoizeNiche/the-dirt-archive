@@ -34,3 +34,12 @@ The Dirt Archive currently catalogs **GOLD3** by **Pettyjohn Electronics** as a 
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+## Deep research verification
+- Pettyjohn's manufacturer page identifies GOLD3 as the **Cubed** full-range magnetic overdrive.
+- The documented architecture includes a transformer, an inductor-based midrange control, and multiple clipping options.
+- The manufacturer page explicitly documents D9E and 1N34A germanium clipping devices among the available clipping arrangements.
+- The pedal uses an internal 36V supply architecture and the documented Cubed control set includes gain, level, and EQ functions.
+- No additional circuit topology is inferred beyond the manufacturer's published description.
+
+## Verification source set
+1. Pettyjohn Electronics — GOLD3: https://www.pettyjohnelectronics.com/product-page/gold3
