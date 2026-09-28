@@ -44751,7 +44751,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": "",
+      "image": "./assets/pedals/maxon-nisshin-onpa/od-9/primary.webp",
       "source_page": "https://www.maxonfx.com/",
       "research_record": "./research/pedals/Maxon / Nisshin Onpa/OD-9.md",
       "research_level": "deep",
@@ -44764,7 +44764,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": "",
+      "image": "./assets/pedals/maxon-nisshin-onpa/od-9-pro/primary.webp",
       "source_page": "https://www.maxonfx.com/",
       "research_record": "./research/pedals/Maxon / Nisshin Onpa/OD-9 Pro+.md",
       "research_level": "deep",
@@ -44826,7 +44826,7 @@
         "Overdrive",
         "Distortion"
       ],
-      "image": "",
+      "image": "./assets/pedals/maxon-nisshin-onpa/osd-9-overdrive-soft-distortion/primary.webp",
       "source_page": "https://www.maxonfx.com/",
       "research_record": "./research/pedals/Maxon / Nisshin Onpa/OSD-9 Overdrive / Soft Distortion.md",
       "research_level": "deep",
@@ -44925,7 +44925,7 @@
       "types": [
         "Distortion"
       ],
-      "image": "",
+      "image": "./assets/pedals/maxon-nisshin-onpa/ssd-9-super-sonic-distortion/primary.webp",
       "source_page": "https://www.maxonfx.com/",
       "research_record": "./research/pedals/Maxon / Nisshin Onpa/SSD-9 Super Sonic Distortion.md",
       "research_level": "deep",
@@ -45544,7 +45544,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/mi-audio-mi-effects/classic-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/MI Audio / MI Effects/Classic Distortion.md",
       "research_level": "deep",

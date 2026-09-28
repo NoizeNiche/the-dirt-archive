@@ -24509,7 +24509,7 @@
   {
     "builder": "Maxon / Nisshin Onpa",
     "pedal": "OD-9",
-    "image": "",
+    "image": "./assets/pedals/maxon-nisshin-onpa/od-9/primary.webp",
     "source_page": "https://www.maxonfx.com/",
     "research_record": "./research/pedals/Maxon / Nisshin Onpa/OD-9.md",
     "image_source_page": "https://maxonfx.com/collections/nine-series/overdrive"
@@ -24517,7 +24517,7 @@
   {
     "builder": "Maxon / Nisshin Onpa",
     "pedal": "OD-9 Pro+",
-    "image": "",
+    "image": "./assets/pedals/maxon-nisshin-onpa/od-9-pro/primary.webp",
     "source_page": "https://www.maxonfx.com/",
     "research_record": "./research/pedals/Maxon / Nisshin Onpa/OD-9 Pro+.md",
     "image_source_page": "https://maxonfx.com/collections/nine-series/overdrive"
@@ -24553,7 +24553,7 @@
   {
     "builder": "Maxon / Nisshin Onpa",
     "pedal": "OSD-9 Overdrive / Soft Distortion",
-    "image": "",
+    "image": "./assets/pedals/maxon-nisshin-onpa/osd-9-overdrive-soft-distortion/primary.webp",
     "source_page": "https://www.maxonfx.com/",
     "research_record": "./research/pedals/Maxon / Nisshin Onpa/OSD-9 Overdrive / Soft Distortion.md",
     "image_source_page": "https://maxonfx.com/collections/nine-series/distortion"
@@ -24610,7 +24610,7 @@
   {
     "builder": "Maxon / Nisshin Onpa",
     "pedal": "SSD-9 Super Sonic Distortion",
-    "image": "",
+    "image": "./assets/pedals/maxon-nisshin-onpa/ssd-9-super-sonic-distortion/primary.webp",
     "source_page": "https://www.maxonfx.com/",
     "research_record": "./research/pedals/Maxon / Nisshin Onpa/SSD-9 Super Sonic Distortion.md",
     "image_source_page": "https://maxonfx.com/products/super-sonic-distortion-ssd-9"
@@ -24955,7 +24955,7 @@
   {
     "builder": "MI Audio / MI Effects",
     "pedal": "Classic Distortion",
-    "image": null,
+    "image": "./assets/pedals/mi-audio-mi-effects/classic-distortion/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/MI Audio / MI Effects/Classic Distortion.md",
     "image_source_page": "https://www.youtube.com/watch?v=R8WJMAGWeZw"
