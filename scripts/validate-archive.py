@@ -29,6 +29,8 @@ LIVE_AUDIT = ROOT / "scripts/live-photo-audit.js"
 HOME = ROOT / "index.html"
 DETAIL = ROOT / "pedal-detail.html"
 COMPARE = ROOT / "compare.html"
+PHOTO_CONTENT_AUDIT = ROOT / "scripts/audit-photo-content.py"
+PHOTO_CONTENT_WORKFLOW = ROOT / ".github/workflows/photo-content-audit.yml"
 BUILDER = ROOT / "builder.html"
 LEGACY = ROOT / "pedal.html"
 DEPLOY = ROOT / ".github/workflows/deploy-pages.yml"
@@ -70,7 +72,7 @@ def forbidden_photo_provenance(value):
     return False
 
 def main():
-    required = (INDEX, MANIFEST, TRACKER, PHOTO_REVIEW_QUEUE, PHOTO_BACKLOG, PHOTO_SOURCE_OVERRIDES, PHOTO_DIRECT_IMAGE_OVERRIDES, RESEARCH_SOURCE_OVERRIDES, APPLY_PHOTO_SOURCE_OVERRIDES, CORE, INDEX_JS, DETAIL_JS, DEPLOY_AUDIT, LIVE_AUDIT, STATIC_SERVER, PHOTO_CACHE, FACET_BUILDER, HOME, DETAIL, COMPARE, BUILDER, LEGACY, DEPLOY, SITEMAP, ROBOTS, SITEMAP_BUILDER)
+    required = (INDEX, MANIFEST, TRACKER, PHOTO_REVIEW_QUEUE, PHOTO_BACKLOG, PHOTO_SOURCE_OVERRIDES, PHOTO_DIRECT_IMAGE_OVERRIDES, RESEARCH_SOURCE_OVERRIDES, APPLY_PHOTO_SOURCE_OVERRIDES, CORE, INDEX_JS, DETAIL_JS, DEPLOY_AUDIT, LIVE_AUDIT, STATIC_SERVER, PHOTO_CACHE, FACET_BUILDER, HOME, DETAIL, COMPARE, BUILDER, LEGACY, PHOTO_CONTENT_AUDIT, PHOTO_CONTENT_WORKFLOW, DEPLOY, SITEMAP, ROBOTS, SITEMAP_BUILDER)
     missing = [p.relative_to(ROOT).as_posix() for p in required if not p.is_file()]
     if missing:
         raise SystemExit("Missing required archive files: " + ", ".join(missing))
