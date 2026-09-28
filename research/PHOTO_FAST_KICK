@@ -1,2 +1,2 @@
-Small rotating photo pass — 2026-09-28T07:58:00-07:00
-Use the updated 50-record rotating batch logic and current exact-model source table. Manufacturer pages first, verified exact-model secondary sources next. Archive confirmed local images only.
+Photo population pass — prioritized candidate ordering — 2026-09-28T06:24:00-07:00
+Use exact manufacturer pages first, then verified exact secondary sources. Prefer highest-quality exact image candidates before attempting fallbacks.
