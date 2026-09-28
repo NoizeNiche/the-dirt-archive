@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-28T11:10:55.065713+00:00",
+  "generated_at": "2026-09-28T11:11:28.584290+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,8 +10,8 @@
     "pictured": 3930,
     "complete": 3930,
     "research_pending": 0,
-    "deep_research_pending": 54,
-    "deep_researched": 4152,
+    "deep_research_pending": 53,
+    "deep_researched": 4153,
     "surface_ready": 4206
   },
   "next_target": {
@@ -27,13 +27,6 @@
       "pedal": "GO",
       "catalog_type": "Overdrive",
       "research_record": "./research/pedals/Pigdog Pedals/GO.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "NUX Audio / NUX",
-      "pedal": "Ace of Tone",
-      "catalog_type": "Overdrive",
-      "research_record": "./research/pedals/NUX Audio / NUX/Ace of Tone.md",
       "research_level": "surface"
     },
     {
@@ -195,6 +188,13 @@
       "pedal": "2n2FACE Silicon FuzzFace",
       "catalog_type": "Fuzz",
       "research_record": "./research/pedals/ReevesElectro/2n2FACE Silicon FuzzFace.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "ReevesElectro",
+      "pedal": "Leo Twelve",
+      "catalog_type": "Overdrive",
+      "research_record": "./research/pedals/ReevesElectro/Leo Twelve.md",
       "research_level": "surface"
     }
   ]
