@@ -205,6 +205,7 @@ def main() -> None:
     recovered = 0
     skipped = 0
     failed = 0
+    direct_results = []
 
     for k, rows in direct.items():
         entry = catalog_by_key.get(k)
@@ -234,6 +235,20 @@ def main() -> None:
             width, height = validate(data)
             target.parent.mkdir(parents=True, exist_ok=True)
             target.write_bytes(data)
+            direct_results.append({
+                "builder": k[0],
+                "pedal": k[1],
+                "image": "./" + target.with_suffix(".webp").as_posix(),
+                "image_source_url": image_url,
+                "image_source_page": source_page,
+                "imageFile": "./" + target.with_suffix(".webp").as_posix(),
+                "verification": {
+                    "method": "direct_exact",
+                    "identityVerified": True,
+                    "sourceScore": 1400,
+                    "strongSearchIdentity": False,
+                },
+            })
             print(
                 f"Staged exact direct photo: {k[0]} / {k[1]} "
                 f"({width}x{height}) from {source_page}"
@@ -243,10 +258,15 @@ def main() -> None:
             failed += 1
             print(f"Direct photo failed: {k[0]} / {k[1]} -> {image_url}: {exc}")
 
+    (ROOT / "photo-recovery-direct-results.json").write_text(
+        json.dumps({"version": 1, "recovered": direct_results}, ensure_ascii=False, indent=2) + "\n",
+        encoding="utf-8",
+    )
+
     print(
         "Curated direct-photo lane complete: "
         f"recovered={recovered}, skipped={skipped}, failed={failed}, "
-        f"pending_with_direct_overrides={len(direct)}"
+        f"pending_with_direct_overrides={len(direct)}, manifest_rows={len(direct_results)}"
     )
 
 
