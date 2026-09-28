@@ -169,6 +169,9 @@ jobs:
 
       - name: Install image tooling
         run: python -m pip install --disable-pip-version-check pillow
+      - name: Clear known-invalid photo state
+        run: python scripts/reset-photo-recovery-targets.py
+
       - name: Photo Foreman verifies recovered artifacts
         run: python scripts/verify-photo-recovery-batch.py
 
