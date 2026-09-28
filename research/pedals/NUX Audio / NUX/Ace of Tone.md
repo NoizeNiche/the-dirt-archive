@@ -21,3 +21,13 @@ The Dirt Archive currently catalogs **Ace of Tone** by **NUX Audio / NUX** as a 
 ## Deep research
 - **Status:** Pending
 - Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+## Deep research verification
+- NUX's manufacturer page identifies Ace of Tone as a dual overdrive with two distinct drive sections.
+- The documented modes are **FAT** and **SHINE**, and the manufacturer describes the circuits as drawing from TubeMan-style and Morning Star-style overdrive voices.
+- The page documents selectable buffered-bypass / true-bypass behavior and a 9V / 18V operating selection.
+- Published specifications list approximately 9V / 100mA operation, 105 × 115 × 58 mm dimensions, and 440 g weight.
+- No circuit-clone claim beyond the manufacturer's stated design description is added.
+
+## Verification source set
+1. NUX Audio — Ace of Tone: https://nuxaudio.com/product/aceoftone/
+2. Effects Database — NUX Ace of Tone: https://www.effectsdatabase.com/model/nux/aceoftone
