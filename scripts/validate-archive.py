@@ -215,7 +215,7 @@ def main():
                 raise SystemExit(f"Photo quarantine contains an unknown catalog identity: {k}")
             if not (row.get("Image") or "").strip():
                 raise SystemExit(f"Photo quarantine record has no original image path: {k}")
-        with PHOTO_SOURCE_OVERRIDES.open(newline="", encoding="utf-8") as handle:
+    with PHOTO_SOURCE_OVERRIDES.open(newline="", encoding="utf-8") as handle:
         overrides = list(csv.DictReader(handle))
     with PHOTO_DIRECT_IMAGE_OVERRIDES.open(newline="", encoding="utf-8") as handle:
         direct_overrides = list(csv.DictReader(handle))
