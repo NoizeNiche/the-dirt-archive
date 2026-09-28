@@ -147,7 +147,7 @@ def main():
                 )
             try:
                 with Image.open(asset) as im:
-                    if if min(im.width, im.height) < 160 and max(im.width, im.height) / max(1, min(im.width, im.height)) < 2.5:
+                    if min(im.width, im.height) < 160 and max(im.width, im.height) / max(1, min(im.width, im.height)) < 2.5:
                         raise SystemExit(
                             f"Picture=DONE has an thumbnail-sized local photo for {k}: "
                             f"{im.width}x{im.height}"
