@@ -4,42 +4,47 @@
 - **Archive parent:** El Guapo
 - **Builder:** Mojo Hand FX
 - **Catalog type:** Fuzz
-- **Identity:** Mojo Hand FX's El Guapo.
+- **Research level:** Deep
+- **Deep research status:** Verified
+- **Identity:** Mojo Hand FX El Guapo voltage-starved fuzz.
+
+## Deep research verification
+- **Exact-model evidence:** Verified against the exact Mojo Hand FX manufacturer product page and RockBoard model record.
 
 ## What this pedal is
-After 85 hours of testing across studio tracking, live gigs (indie rock, blues, garage), and home practice—paired with Stratocasters, Telecasters, Les Pauls, and various tube amps—the El Guapo delivers consistently musical breakup with exceptional touch sensitivity and amp-like sag.
+Mojo Hand FX describes El Guapo as an ultra-flexible fuzz machine that can move from nasty, gnarly high-gain fuzz through classic fuzz and down toward almost-overdrive behavior. [1]
 
-## Colorways
-- It’s not a high-gain monster or a transparent boost, but a nuanced, mid-forward overdrive that excels at Mojo Hand Fx El Guapo review contexts where feel, articulation, and natural compression matter most: blues-rock rhythm work, expressive lead lines, and low-volume bedroom tone shaping.
-- First Impressions: Build Quality, Setup, and Physical Design Unboxing reveals a matte black powder-coated aluminum chassis (4.5" × 2.5" × 1.75") with recessed, knurled metal knobs and a heavy-duty, gold-plated ¼" input/output jack set.
-- The layout is minimalist: three knobs (Gain, Tone, Level), a single footswitch (latching, LED-lit blue), and no status indicator for bypass.
+## Circuit / architecture
+The defining **STARVE** control changes the voltage/current fed to the circuit's second transistor stage. As Starve is increased, the circuit is driven toward more unstable and saturated behavior. [1]
 
-## Versions and factory options
-- No distinct factory revision was established in the verified evidence packet.
-
-## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+## Controls
+- **CUT:** cuts low frequencies as turned up. [1]
+- **STARVE:** cuts current to the second transistor stage as turned up. [1]
+- **VOLUME:** overall output level. [1]
+- **GAIN:** controls input signal to the fuzz circuit. [1]
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
-- **Exact transistor/device:** Unknown.
+- The manufacturer explicitly identifies a **second transistor stage** affected by the Starve control. [1]
+- **Exact production transistor part numbers:** Unknown.
 
 ## Diode
-- Documented terms in the verified sources: LED.
-- The archive records only the component information explicitly present in these sources.
+- **Exact production clipping diode:** Unknown.
+
+## Power and physical specification
+- **Power:** center-negative 9VDC or 9V battery. [1]
+- **Current draw:** approximately 2mA. [1]
+- **Bypass:** true bypass. [1]
+- **Dimensions:** approximately 4.8 × 2.62 × 1.55 inches. [1]
+- **Circuit type:** analog. [2]
 
 ## Sound
-Mojo Hand Fx El Guapo Review: Deep Dive on This Analog Overdrive/Distortion Pedal
-After 85 hours of testing across studio tracking, live gigs (indie rock, blues, garage), and home practice—paired with Stratocasters, Telecasters, Les Pauls, and various tube amps—the El Guapo delivers consistently musical breakup with exceptional touch sensitivity and amp-like sag.
-It’s not a high-gain monster or a transparent boost, but a nuanced, mid-forward overdrive that excels at Mojo Hand Fx El Guapo review contexts where feel, articulation, and natural compression matter most: blues-rock rhythm work, expressive lead lines, and low-volume bedroom tone shaping.
+The builder characterizes El Guapo around highly variable fuzz behavior, with Starve producing progressively more unstable textures and Cut tightening the low-frequency response. [1]
 
 ## Sources checked
-1. Mojo Hand Fx El Guapo Review: Deep Dive on This Analog Overdrive/Distortion Pedal | GearStrings: https://gearstrings.com/gear-reviews/mojo-hand-fx-el-guapo-review
-2. Mojo Hand Fx El Guapo Review - Premier Guitar: https://www.premierguitar.com/gear/mojo-hand-fx-el-guapo-review
-3. El Guapo - MojoHandFX: https://mojohandfx.com/el-guapo/
-4. Mojo Hand FX El Guapo Dimensions, Specs & Details: https://www.stompboxgarden.com/gear/pedal/4990/mojo-hand-fx-el-guapo
-5. El Guapo by Mojo Hand Fx | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/Mojo-Hand-Fx/El-Guapo/68982043/
-6. Mojo Hand FX El Guapo - guitarsandeffects.com: https://www.guitarsandeffects.com/27a11a05pedals/8Aelguapo.html
+1. **Mojo Hand FX — El Guapo:** https://mojohandfx.com/el-guapo/
+2. **RockBoard PedalPedia — El Guapo:** https://www.rockboard.de/en/pedalPedia/Mojo-Hand-Fx/El-Guapo/68982043/
+3. **Premier Guitar — Mojo Hand FX El Guapo Review:** https://www.premierguitar.com/gear/mojo-hand-fx-el-guapo-review
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately.
+- Exact-model photo provenance remains governed by the archive's photo identity gate.
