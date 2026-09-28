@@ -1,3 +1,9 @@
+## Builder-to-enthusiast product checkpoint - September 28, 2026
+
+Translated builder advisory needs into enthusiast-facing product improvements. Added a query-driven Builder Archive with catalog summaries, family/version/edition context, dirt-type filtering, in-builder search, exact photo count, and direct record links. Pedal detail pages now link to the Builder Archive while retaining the filtered builder catalog path.
+
+Repository validation and deployment browser audit now include the Builder Archive contract.
+
 ## 100-builder advisory checkpoint - September 28, 2026
 
 Added a synthetic builder advisory council grounded in public builder documentation and practices. The council focuses on accuracy, historical preservation, revision lineage, official documentation/support, builder correction intake, exact-photo contributions, collaborations, and custom/one-off classification.
