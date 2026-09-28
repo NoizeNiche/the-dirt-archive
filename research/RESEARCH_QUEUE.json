@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-28T10:58:25.430464+00:00",
+  "generated_at": "2026-09-28T11:00:21.036941+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,25 +10,18 @@
     "pictured": 3917,
     "complete": 3917,
     "research_pending": 0,
-    "deep_research_pending": 81,
-    "deep_researched": 4125,
+    "deep_research_pending": 71,
+    "deep_researched": 4135,
     "surface_ready": 4206
   },
   "next_target": {
-    "builder": "Mojo Hand FX",
-    "pedal": "Zephyr (historical/discontinued)",
-    "catalog_type": "Fuzz",
-    "research_record": "./research/pedals/Mojo Hand FX/Zephyr (historical/discontinued).md",
+    "builder": "MOOER Audio / MOOER",
+    "pedal": "Ultra Drive",
+    "catalog_type": "Overdrive",
+    "research_record": "./research/pedals/MOOER Audio / MOOER/Ultra Drive.md",
     "research_level": "surface"
   },
   "working_set": [
-    {
-      "builder": "Mojo Hand FX",
-      "pedal": "Zephyr (historical/discontinued)",
-      "catalog_type": "Fuzz",
-      "research_record": "./research/pedals/Mojo Hand FX/Zephyr (historical/discontinued).md",
-      "research_level": "surface"
-    },
     {
       "builder": "MOOER Audio / MOOER",
       "pedal": "Ultra Drive",
@@ -38,30 +31,16 @@
     },
     {
       "builder": "MOOER Audio / MOOER",
-      "pedal": "Ultra Drive MKII",
+      "pedal": "Eight Hands",
       "catalog_type": "Distortion",
-      "research_record": "./research/pedals/MOOER Audio / MOOER/Ultra Drive MKII.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Mask Audio Electronics",
-      "pedal": "Ears Come To Die (historical limited-edition Fuzz Lab)",
-      "catalog_type": "Fuzz",
-      "research_record": "./research/pedals/Mask Audio Electronics/Ears Come To Die (historical limited-edition Fuzz Lab).md",
+      "research_record": "./research/pedals/MOOER Audio / MOOER/Eight Hands.md",
       "research_level": "surface"
     },
     {
       "builder": "MOOER Audio / MOOER",
-      "pedal": "Solo",
-      "catalog_type": "Distortion",
-      "research_record": "./research/pedals/MOOER Audio / MOOER/Solo.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Mr. Black",
-      "pedal": "Barbeque Fuzz",
-      "catalog_type": "Fuzz",
-      "research_record": "./research/pedals/Mr. Black/Barbeque Fuzz.md",
+      "pedal": "Greenwood",
+      "catalog_type": "Overdrive",
+      "research_record": "./research/pedals/MOOER Audio / MOOER/Greenwood.md",
       "research_level": "surface"
     },
     {
@@ -80,44 +59,9 @@
     },
     {
       "builder": "NUX Audio / NUX",
-      "pedal": "Drive Core",
-      "catalog_type": "Overdrive",
-      "research_record": "./research/pedals/NUX Audio / NUX/Drive Core.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "NUX Audio / NUX",
-      "pedal": "Drive Core Deluxe",
-      "catalog_type": "Overdrive",
-      "research_record": "./research/pedals/NUX Audio / NUX/Drive Core Deluxe.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "NUX Audio / NUX",
-      "pedal": "Drive Core Deluxe MKII",
-      "catalog_type": "Overdrive",
-      "research_record": "./research/pedals/NUX Audio / NUX/Drive Core Deluxe MKII.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "NUX Audio / NUX",
-      "pedal": "Fireman",
-      "catalog_type": "Distortion",
-      "research_record": "./research/pedals/NUX Audio / NUX/Fireman.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "NUX Audio / NUX",
       "pedal": "FZ-2 Vintage Fuzz",
       "catalog_type": "Fuzz",
       "research_record": "./research/pedals/NUX Audio / NUX/FZ-2 Vintage Fuzz.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "MOOER Audio / MOOER",
-      "pedal": "Blue Faze",
-      "catalog_type": "Fuzz",
-      "research_record": "./research/pedals/MOOER Audio / MOOER/Blue Faze.md",
       "research_level": "surface"
     },
     {
@@ -132,34 +76,6 @@
       "pedal": "Grey Faze",
       "catalog_type": "Fuzz",
       "research_record": "./research/pedals/MOOER Audio / MOOER/Grey Faze.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "JAM Pedals",
-      "pedal": "Tiny Pond?",
-      "catalog_type": "Distortion / Overdrive",
-      "research_record": "./research/pedals/JAM Pedals/Tiny Pond?.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Maxon / Nisshin Onpa",
-      "pedal": "SD-9M Sonic Distortion Master",
-      "catalog_type": "Distortion",
-      "research_record": "./research/pedals/Maxon / Nisshin Onpa/SD-9M Sonic Distortion Master.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "MOOER Audio / MOOER",
-      "pedal": "Eight Hands",
-      "catalog_type": "Distortion",
-      "research_record": "./research/pedals/MOOER Audio / MOOER/Eight Hands.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "MOOER Audio / MOOER",
-      "pedal": "Greenwood",
-      "catalog_type": "Overdrive",
-      "research_record": "./research/pedals/MOOER Audio / MOOER/Greenwood.md",
       "research_level": "surface"
     },
     {
@@ -184,6 +100,20 @@
       "research_level": "surface"
     },
     {
+      "builder": "JAM Pedals",
+      "pedal": "Tiny Pond?",
+      "catalog_type": "Distortion / Overdrive",
+      "research_record": "./research/pedals/JAM Pedals/Tiny Pond?.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Maxon / Nisshin Onpa",
+      "pedal": "SD-9M Sonic Distortion Master",
+      "catalog_type": "Distortion",
+      "research_record": "./research/pedals/Maxon / Nisshin Onpa/SD-9M Sonic Distortion Master.md",
+      "research_level": "surface"
+    },
+    {
       "builder": "Mr. Black",
       "pedal": "Jalapeño",
       "catalog_type": "Overdrive",
@@ -195,6 +125,76 @@
       "pedal": "Driven-Parallel Overdrive",
       "catalog_type": "Overdrive",
       "research_record": "./research/pedals/Mystic Effects Co/Driven-Parallel Overdrive.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "NUX Audio / NUX",
+      "pedal": "HG-5 Modern High Gain",
+      "catalog_type": "Distortion",
+      "research_record": "./research/pedals/NUX Audio / NUX/HG-5 Modern High Gain.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "NUX Audio / NUX",
+      "pedal": "HG-6 High Gain Distortion",
+      "catalog_type": "Distortion",
+      "research_record": "./research/pedals/NUX Audio / NUX/HG-6 High Gain Distortion.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "NUX Audio / NUX",
+      "pedal": "Horseman",
+      "catalog_type": "Overdrive",
+      "research_record": "./research/pedals/NUX Audio / NUX/Horseman.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "NUX Audio / NUX",
+      "pedal": "Metal Core",
+      "catalog_type": "Distortion",
+      "research_record": "./research/pedals/NUX Audio / NUX/Metal Core.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "NUX Audio / NUX",
+      "pedal": "Metal Core Deluxe",
+      "catalog_type": "Distortion",
+      "research_record": "./research/pedals/NUX Audio / NUX/Metal Core Deluxe.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "NUX Audio / NUX",
+      "pedal": "Mini Distortion",
+      "catalog_type": "Distortion",
+      "research_record": "./research/pedals/NUX Audio / NUX/Mini Distortion.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "NUX Audio / NUX",
+      "pedal": "OD-3 Overdrive",
+      "catalog_type": "Overdrive",
+      "research_record": "./research/pedals/NUX Audio / NUX/OD-3 Overdrive.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "NUX Audio / NUX",
+      "pedal": "Scream Bass / Bass Overdrive",
+      "catalog_type": "Overdrive",
+      "research_record": "./research/pedals/NUX Audio / NUX/Scream Bass / Bass Overdrive.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "NUX Audio / NUX",
+      "pedal": "’59 Bassguy",
+      "catalog_type": "Overdrive",
+      "research_record": "./research/pedals/NUX Audio / NUX/’59 Bassguy.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Pettyjohn Electronics",
+      "pedal": "CHIME3",
+      "catalog_type": "Overdrive",
+      "research_record": "./research/pedals/Pettyjohn Electronics/CHIME3.md",
       "research_level": "surface"
     }
   ]

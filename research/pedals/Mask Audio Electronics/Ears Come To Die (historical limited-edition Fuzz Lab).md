@@ -1,23 +1,38 @@
 # Mask Audio Electronics — Ears Come To Die (historical limited-edition Fuzz Lab)
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Ears Come To Die (historical limited-edition Fuzz Lab)
 - **Builder:** Mask Audio Electronics
-- **Pedal:** Ears Come To Die (historical limited-edition Fuzz Lab)
 - **Catalog type:** Fuzz
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Mask Audio Electronics's Ears Come To Die (historical limited-edition Fuzz Lab).
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Ears Come To Die (historical limited-edition Fuzz Lab)** by **Mask Audio Electronics** as a **Fuzz** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Mask Audio Electronics's Ears Come To Die (historical limited-edition Fuzz Lab) is cataloged as a fuzz pedal.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+Default Title - $7.00 USD Quantity Add to Cart Originally released as a limited edition Fuzz Lab, The Ears Come To Die fuzz is now available for all as a DIY Project.
+Ears Come To Die is a Fuzz that will make the paint melt off your walls.
+The Dirt Archive currently catalogs **Ears Come To Die (historical limited-edition Fuzz Lab)** by **Mask Audio Electronics** as a **Fuzz** pedal.
+
+## Sources checked
+1. EARS COME TO DIE DIY &ndash; Mask Audio Electronics: https://maskaudioelectronics.com/products/ears-come-do-die-diy
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

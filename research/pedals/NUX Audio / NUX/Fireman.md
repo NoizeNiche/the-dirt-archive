@@ -1,23 +1,40 @@
 # NUX Audio / NUX — Fireman
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Fireman
 - **Builder:** NUX Audio / NUX
-- **Pedal:** Fireman
 - **Catalog type:** Distortion
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** NUX Audio / NUX's Fireman.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Fireman** by **NUX Audio / NUX** as a **Distortion** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+FIREMAN is based on the legendary amplifier builder’s famous distortion pedal.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+FIREMAN is based on the legendary amplifier builder’s famous distortion pedal.
+It’s a very amp-like distortion pedal with Modern Brown Sound.
+We designed it with 2 independent VOLUME, GAIN control knobs to fit rhythm and solo applications.
+
+## Sources checked
+1. Fireman - NUX Audio: https://nuxaudio.com/product/fireman/
+2. https://nuxaudio.cherubtechnology.com/wp-content/uploads/2025/03/Fireman-NDS-5_W_01.jpg: https://nuxaudio.cherubtechnology.com/wp-content/uploads/2025/03/Fireman-NDS-5_W_01.jpg
+3. Download: https://nux.cherubtechnology.com/download/Manual/Effects/Verdugo_Series_Stompboxes/Fireman_NDS5/NUX_NDS5_UserManual_English.pdf
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
