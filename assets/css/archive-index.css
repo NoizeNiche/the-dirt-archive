@@ -501,6 +501,16 @@ main{padding:24px 0 72px}
   font-weight:900;
   line-height:1.15;
 }
+.searchMatchReason{
+  display:block;
+  margin-top:7px;
+  color:var(--ink);
+  font-size:.55rem;
+  font-weight:900;
+  line-height:1.2;
+  letter-spacing:.04em;
+  text-transform:uppercase;
+}
 .builderNameCard{
   display:block;
   margin-top:5px;
