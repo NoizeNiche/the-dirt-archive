@@ -553,7 +553,7 @@ function render(){
     ? pageItems.map(x=>
       (()=>{
         const img=pedalImages.get(entryKey(x));
-        const media=img&&img.image
+        const media=img&&isLocalArchiveImage(img)&&img.image
           ? '<div class="cardMedia"><img class="cardImage" src="'+esc(img.image)+'" alt="'+esc(x.company+' '+x.pedal)+' pedal" loading="lazy" decoding="async" referrerpolicy="no-referrer" onerror="this.hidden=true;this.nextElementSibling.hidden=false"><div class="cardPlaceholder" hidden aria-label="Exact photo not archived"><span class="placeholderEyebrow">Exact photo not archived</span><strong class="placeholderName">'+esc(x.pedal)+'</strong><span class="placeholderBuilder">'+esc(x.company)+'</span></div></div>'
           : '<div class="cardPlaceholder" aria-label="Exact photo not archived"><span class="placeholderEyebrow">Exact photo not archived</span><strong class="placeholderName">'+esc(x.pedal)+'</strong><span class="placeholderBuilder">'+esc(x.company)+'</span></div>';
         return '<article class="card">'+
