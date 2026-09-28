@@ -912,3 +912,4 @@ main{padding:24px 0 72px}
   .searchSuggestion{align-items:flex-start;flex-direction:column;gap:4px}
   .searchSuggestionReason{text-align:left}
 }
+.cardVersion{display:inline-block;margin-top:6px;padding:3px 5px;border-radius:6px;background:var(--deep);color:#f7f5ef;font-size:.49rem;font-weight:950;text-transform:uppercase;letter-spacing:.06em}
