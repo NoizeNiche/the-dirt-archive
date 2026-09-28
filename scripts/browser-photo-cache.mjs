@@ -12,6 +12,7 @@ const INDEX = path.join(ROOT, 'research/PEDAL_INDEX.json');
 const MANIFEST = path.join(ROOT, 'research/pedals/PEDAL_IMAGES.json');
 const TRACKER = path.join(ROOT, 'research/PRP_TRACKER.csv');
 const PHOTO_REVIEW_QUEUE = path.join(ROOT, 'research/PHOTO_REVIEW_QUEUE.csv');
+const PEDAL_IDENTITY_ALIASES = path.join(ROOT, 'research/PEDAL_IDENTITY_ALIASES.csv');
 const LIMIT = Math.max(1, Number(process.env.PHOTO_BROWSER_CACHE_LIMIT || 90));
 const CONCURRENCY = Math.max(1, Number(process.env.PHOTO_BROWSER_CACHE_CONCURRENCY || 8));
 const PRIORITY_COMPANY = String(process.env.PHOTO_BROWSER_CACHE_PRIORITY_COMPANY || '').trim().toLowerCase();
@@ -147,6 +148,21 @@ function target(entry) {
   return path.join(ROOT, 'assets/pedals', builderSlug, pedalSlug, 'primary.webp');
 }
 
+function confirmedIdentityAliases(value) {
+  const raw = String(value || '').trim();
+  const out = [];
+  try {
+    const markdown = fs.readFileSync(PEDAL_IDENTITY_ALIASES, 'utf8');
+    const rows = csvRows(markdown);
+    for (const row of rows) {
+      if (String(row.Status || '').trim().toUpperCase() !== 'CONFIRMED') continue;
+      if (String(row['Canonical Pedal'] || '').trim() === raw) out.push(String(row['Alias Pedal'] || '').trim());
+      if (String(row['Alias Pedal'] || '').trim() === raw) out.push(String(row['Canonical Pedal'] || '').trim());
+    }
+  } catch {}
+  return out.filter(Boolean);
+}
+
 function normalizedIdentity(value) {
   return String(value || '')
     .toLowerCase()
@@ -181,6 +197,7 @@ function identityPhrases(pedal) {
   const raw = String(pedal || '').trim();
   const variants = new Set([
     raw,
+    ...confirmedIdentityAliases(raw),
     raw.split('(')[0].trim(),
     raw.split(' - ')[0].trim(),
     raw.split(/\s+—\s+/)[0].trim(),
