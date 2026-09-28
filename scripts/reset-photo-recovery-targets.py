@@ -50,6 +50,8 @@ def suspicious_values(entry):
         reasons.append("generic template source")
     if re.search(r"(^|[/_-])logo(?:\\d*)?(?:\\.[a-z0-9]+)?([/?#=&_-]|$)", joined):
         reasons.append("logo asset source")
+    if re.search(r"(?:favicon|(?:^|[/.?=&_-])(?:loading|spinner|placeholder|sprite|avatar|badge|icon|social|banner|widget)(?:[/.?#=&_-]|$))", joined):
+        reasons.append("site asset source")
     return reasons
 
 
@@ -85,7 +87,7 @@ def main():
         targets = {
             key(row.get("Builder"), row.get("Pedal"))
             for row in tracker_rows
-            if row.get("Pedal Info") == "DONE" and row.get("Picture") != "DONE"
+            if row.get("Pedal Info") == "DONE"
         }
 
     catalog_map = {
