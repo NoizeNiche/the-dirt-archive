@@ -3,6 +3,10 @@ import json
 import re
 from pathlib import Path
 from PIL import Image
+try:
+    import pytesseract
+except Exception:
+    pytesseract = None
 
 ROOT = Path(".")
 ARTIFACTS = ROOT / "recovery-artifacts"
@@ -53,6 +57,18 @@ def main():
                     else:
                         with Image.open(candidate) as im:
                             im.verify()
+                        if pytesseract is not None:
+                            with Image.open(candidate) as im:
+                                probe = im.convert("RGB")
+                                probe.thumbnail((1000, 1000), Image.Resampling.LANCZOS)
+                                text = " ".join(pytesseract.image_to_string(
+                                    band, config="--psm 11"
+                                ) for band in [probe]).lower()
+                            suspicious = ("buy me a coffee", "buymeacoffee", "ko-fi", "patreon", "paypal.me", "cash.app", "venmo")
+                            hit = next((term for term in suspicious if term in text), None)
+                            if hit:
+                                ok = False
+                                reason = "recovered photo contains a high-confidence donation/platform overlay: " + hit
                 source_url = str(result.get("image_source_url") or "").lower()
                 forbidden = re.search(r"(?:favicon|(?:^|[/_.-])(?:logo|loading|spinner|placeholder|sprite|avatar|badge|icon|social|banner|widget)(?:[/_.?-]|$))", source_url)
                 if forbidden:
