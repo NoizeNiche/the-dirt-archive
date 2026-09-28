@@ -28758,9 +28758,11 @@
   {
     "builder": "Stomp Under Foot",
     "pedal": "Windhand Fuzz",
-    "image": null,
+    "image": "./assets/pedals/stomp-under-foot/windhand-fuzz/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/Stomp Under Foot/Windhand Fuzz.md"
+    "research_record": "./research/pedals/Stomp Under Foot/Windhand Fuzz.md",
+    "image_source_url": "https://rvb-img.reverb.com/i/s--fu_cUTdB--/gravity=auto,quality=medium-low,width=200,height=200,format=jpeg/rwxf8n1jswavqf8vnflh.jpg",
+    "image_source_page": "https://reverb.com/item/2096955-stomp-under-foot-windhand-fuzz-purple-sparkle"
   },
   {
     "builder": "Stone Deaf FX",
