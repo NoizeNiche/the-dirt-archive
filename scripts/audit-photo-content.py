@@ -39,7 +39,7 @@ HIGH_CONFIDENCE = (
 )
 
 def norm(value: str) -> str:
-    return re.sub(r"\\s+", " ", str(value or "").strip().lower())
+    return re.sub(r"\s+", " ", str(value or "").strip().lower())
 
 def catalog_map():
     data = json.loads(INDEX.read_text(encoding="utf-8"))
