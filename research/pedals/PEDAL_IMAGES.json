@@ -25569,13 +25569,6 @@
   },
   {
     "builder": "Pigtronix",
-    "pedal": "Philosopher’s Tone 2",
-    "image": null,
-    "source_page": null,
-    "research_record": "./research/pedals/Pigtronix/Philosopher’s Tone 2.md"
-  },
-  {
-    "builder": "Pigtronix",
     "pedal": "PolySaturator",
     "image": "./assets/pedals/pigtronix/polysaturator/primary.webp",
     "source_page": null,
