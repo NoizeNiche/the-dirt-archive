@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-28T11:25:34.322993+00:00",
+  "generated_at": "2026-09-28T11:35:09.868623+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -15,13 +15,20 @@
     "surface_ready": 4206
   },
   "next_target": {
-    "builder": "NUX Audio / NUX",
-    "pedal": "BC-2 Vintage Blues Core",
-    "catalog_type": "Overdrive",
-    "research_record": "./research/pedals/NUX Audio / NUX/BC-2 Vintage Blues Core.md",
+    "builder": "Visual Sound / Truetone",
+    "pedal": "V2 Son of Hyde",
+    "catalog_type": "Distortion",
+    "research_record": "./research/pedals/Visual Sound / Truetone/V2 Son of Hyde.md",
     "research_level": "surface"
   },
   "working_set": [
+    {
+      "builder": "Visual Sound / Truetone",
+      "pedal": "V2 Son of Hyde",
+      "catalog_type": "Distortion",
+      "research_record": "./research/pedals/Visual Sound / Truetone/V2 Son of Hyde.md",
+      "research_level": "surface"
+    },
     {
       "builder": "NUX Audio / NUX",
       "pedal": "BC-2 Vintage Blues Core",
@@ -41,6 +48,13 @@
       "pedal": "Backslide Overdrive",
       "catalog_type": "Overdrive",
       "research_record": "./research/pedals/Reuss Musical Instruments/Backslide Overdrive.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Visual Sound / Truetone",
+      "pedal": "VS-XO",
+      "catalog_type": "Overdrive",
+      "research_record": "./research/pedals/Visual Sound / Truetone/VS-XO.md",
       "research_level": "surface"
     },
     {
@@ -65,24 +79,38 @@
       "research_level": "surface"
     },
     {
-      "builder": "Mystic Effects Co",
-      "pedal": "Driven-Parallel Overdrive",
-      "catalog_type": "Overdrive",
-      "research_record": "./research/pedals/Mystic Effects Co/Driven-Parallel Overdrive.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "JAM Pedals",
-      "pedal": "Tiny Pond?",
-      "catalog_type": "Distortion / Overdrive",
-      "research_record": "./research/pedals/JAM Pedals/Tiny Pond?.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Maxon / Nisshin Onpa",
-      "pedal": "SD-9M Sonic Distortion Master",
+      "builder": "Visual Sound / Truetone",
+      "pedal": "Son of Hyde",
       "catalog_type": "Distortion",
-      "research_record": "./research/pedals/Maxon / Nisshin Onpa/SD-9M Sonic Distortion Master.md",
+      "research_record": "./research/pedals/Visual Sound / Truetone/Son of Hyde.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Visual Sound / Truetone",
+      "pedal": "V2 Jekyll & Hyde",
+      "catalog_type": "Distortion / Overdrive",
+      "research_record": "./research/pedals/Visual Sound / Truetone/V2 Jekyll & Hyde.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Walrus Audio",
+      "pedal": "Ages Five-State Overdrive — Overdrive",
+      "catalog_type": "Distortion / Fuzz",
+      "research_record": "./research/pedals/Walrus Audio/Ages Five-State Overdrive — Overdrive.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Walrus Audio",
+      "pedal": "Eons Five-State Fuzz — Fuzz",
+      "catalog_type": "Distortion / Overdrive",
+      "research_record": "./research/pedals/Walrus Audio/Eons Five-State Fuzz — Fuzz.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Vemuram",
+      "pedal": "Myriad — fuzz / hybrid fuzz + loop identity",
+      "catalog_type": "Fuzz",
+      "research_record": "./research/pedals/Vemuram/Myriad — fuzz / hybrid fuzz + loop identity.md",
       "research_level": "surface"
     },
     {
@@ -107,17 +135,10 @@
       "research_level": "surface"
     },
     {
-      "builder": "Vemuram",
-      "pedal": "Myriad — fuzz / hybrid fuzz + loop identity",
-      "catalog_type": "Fuzz",
-      "research_record": "./research/pedals/Vemuram/Myriad — fuzz / hybrid fuzz + loop identity.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Vick Audio",
-      "pedal": "V2 Violet Ram",
-      "catalog_type": "Fuzz",
-      "research_record": "./research/pedals/Vick Audio/V2 Violet Ram.md",
+      "builder": "Mystic Effects Co",
+      "pedal": "Driven-Parallel Overdrive",
+      "catalog_type": "Overdrive",
+      "research_record": "./research/pedals/Mystic Effects Co/Driven-Parallel Overdrive.md",
       "research_level": "surface"
     },
     {
@@ -149,45 +170,24 @@
       "research_level": "surface"
     },
     {
-      "builder": "Visual Sound / Truetone",
-      "pedal": "Son of Hyde",
-      "catalog_type": "Distortion",
-      "research_record": "./research/pedals/Visual Sound / Truetone/Son of Hyde.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Visual Sound / Truetone",
-      "pedal": "V2 Jekyll & Hyde",
+      "builder": "JAM Pedals",
+      "pedal": "Tiny Pond?",
       "catalog_type": "Distortion / Overdrive",
-      "research_record": "./research/pedals/Visual Sound / Truetone/V2 Jekyll & Hyde.md",
+      "research_record": "./research/pedals/JAM Pedals/Tiny Pond?.md",
       "research_level": "surface"
     },
     {
-      "builder": "Visual Sound / Truetone",
-      "pedal": "V2 Son of Hyde",
+      "builder": "Maxon / Nisshin Onpa",
+      "pedal": "SD-9M Sonic Distortion Master",
       "catalog_type": "Distortion",
-      "research_record": "./research/pedals/Visual Sound / Truetone/V2 Son of Hyde.md",
+      "research_record": "./research/pedals/Maxon / Nisshin Onpa/SD-9M Sonic Distortion Master.md",
       "research_level": "surface"
     },
     {
-      "builder": "Visual Sound / Truetone",
-      "pedal": "VS-XO",
-      "catalog_type": "Overdrive",
-      "research_record": "./research/pedals/Visual Sound / Truetone/VS-XO.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Walrus Audio",
-      "pedal": "Ages Five-State Overdrive — Overdrive",
-      "catalog_type": "Distortion / Fuzz",
-      "research_record": "./research/pedals/Walrus Audio/Ages Five-State Overdrive — Overdrive.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Walrus Audio",
-      "pedal": "Eons Five-State Fuzz — Fuzz",
-      "catalog_type": "Distortion / Overdrive",
-      "research_record": "./research/pedals/Walrus Audio/Eons Five-State Fuzz — Fuzz.md",
+      "builder": "Vick Audio",
+      "pedal": "V2 Violet Ram",
+      "catalog_type": "Fuzz",
+      "research_record": "./research/pedals/Vick Audio/V2 Violet Ram.md",
       "research_level": "surface"
     },
     {
