@@ -179,7 +179,7 @@ def inspect(path: Path):
     for phrase in HIGH_CONFIDENCE:
         if phrase in ocr:
             flags.append("donation_or_platform_overlay:" + phrase)
-    return flags, ocr
+    return flags, ocr, digest
 
 def write_csv(rows, output):
     with output.open("w", newline="", encoding="utf-8") as handle:
@@ -223,9 +223,9 @@ def main():
         image_path, entry = pair
         path = ROOT / image_path
         if not path.is_file():
-            flags, ocr = ["missing_local_file"], ""
+            flags, ocr, digest = ["missing_local_file"], "", ""
         else:
-            flags, ocr = inspect(path)
+            flags, ocr, digest = inspect(path)
             try:
                 digest = hashlib.sha256(path.read_bytes()).hexdigest()
                 if digest in bad_hashes:
@@ -257,7 +257,8 @@ def main():
     output = Path(args.output)
     write_csv(rows, output)
     suspects = [row for row in rows if row["Status"] == "SUSPECT"]
-    print(f"Photo content audit mode={mode}; checked={len(rows)}; suspects={len(suspects)}; high_confidence={len(high)}; known_bad_hash_matches={sum("known_blocked_image_hash" in row["Flags"] for row in rows)}")
+    bad_hash_count = sum("known_blocked_image_hash" in row["Flags"] for row in rows)
+    print(f"Photo content audit mode={mode}; checked={len(rows)}; suspects={len(suspects)}; high_confidence={len(high)}; known_bad_hash_matches={bad_hash_count}")
     for builder, pedal, image, flags in high:
         print(f"HIGH-CONFIDENCE PHOTO CONTAMINATION: {builder} / {pedal} -> {image} :: {', '.join(flags)}")
     if suspects:
