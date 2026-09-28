@@ -128,8 +128,8 @@ def main():
             asset = Path(str(image)[2:] if str(image).startswith("./") else str(image))
             try:
                 with Image.open(asset) as im:
-                    if im.width < 200 or im.height < 200:
-                        reasons.append(f"photo dimensions {im.width}x{im.height}")
+                    if min(im.width, im.height) < 160 or max(im.width, im.height) / min(im.width, im.height) > 3.0:
+                        reasons.append(f"photo dimensions {im.width}x{im.height} are thumbnail/banner-sized")
                     else:
                         im.verify()
             except Exception as exc:
