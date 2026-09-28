@@ -1,3 +1,9 @@
+## 100-builder advisory checkpoint - September 28, 2026
+
+Added a synthetic builder advisory council grounded in public builder documentation and practices. The council focuses on accuracy, historical preservation, revision lineage, official documentation/support, builder correction intake, exact-photo contributions, collaborations, and custom/one-off classification.
+
+Detailed matrix: research/100_BUILDER_COUNCIL.md.
+
 ## Synthetic 100-user usability checkpoint - September 28, 2026
 
 Ran a 100-session synthetic usability pass across 20 visitor archetypes and used the recurring friction points to drive the next viewer-hardening batch. The exercise is explicitly synthetic and is not a substitute for real visitor analytics.
