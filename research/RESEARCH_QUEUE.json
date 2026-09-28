@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-28T09:31:21.990228+00:00",
+  "generated_at": "2026-09-28T09:31:37.115818+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,8 +10,8 @@
     "pictured": 3851,
     "complete": 3851,
     "research_pending": 0,
-    "deep_research_pending": 121,
-    "deep_researched": 4085,
+    "deep_research_pending": 115,
+    "deep_researched": 4091,
     "surface_ready": 4206
   },
   "next_target": {
@@ -27,13 +27,6 @@
       "pedal": "Tiny Pond?",
       "catalog_type": "Distortion / Overdrive",
       "research_record": "./research/pedals/JAM Pedals/Tiny Pond?.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Keeley Electronics",
-      "pedal": "Super Phat Mod Mini",
-      "catalog_type": "Distortion / Overdrive",
-      "research_record": "./research/pedals/Keeley Electronics/Super Phat Mod Mini.md",
       "research_level": "surface"
     },
     {
@@ -55,13 +48,6 @@
       "pedal": "D&S II",
       "catalog_type": "Distortion / Overdrive",
       "research_record": "./research/pedals/Maxon/D&S II.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Maxon",
-      "pedal": "OD820 Overdrive Pro+",
-      "catalog_type": "Distortion / Overdrive",
-      "research_record": "./research/pedals/Maxon/OD820 Overdrive Pro+.md",
       "research_level": "surface"
     },
     {
@@ -94,20 +80,6 @@
     },
     {
       "builder": "Maxon / Nisshin Onpa",
-      "pedal": "OSD-9 Overdrive / Soft Distortion",
-      "catalog_type": "Overdrive / Distortion",
-      "research_record": "./research/pedals/Maxon / Nisshin Onpa/OSD-9 Overdrive / Soft Distortion.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Maxon / Nisshin Onpa",
-      "pedal": "SD-9 Sonic Distortion / Overdrive",
-      "catalog_type": "Distortion",
-      "research_record": "./research/pedals/Maxon / Nisshin Onpa/SD-9 Sonic Distortion / Overdrive.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Maxon / Nisshin Onpa",
       "pedal": "SD-9M Sonic Distortion Master",
       "catalog_type": "Distortion",
       "research_record": "./research/pedals/Maxon / Nisshin Onpa/SD-9M Sonic Distortion Master.md",
@@ -122,23 +94,9 @@
     },
     {
       "builder": "Maxon / Nisshin Onpa",
-      "pedal": "SSD-9 Super Sonic Distortion",
-      "catalog_type": "Distortion",
-      "research_record": "./research/pedals/Maxon / Nisshin Onpa/SSD-9 Super Sonic Distortion.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Maxon / Nisshin Onpa",
       "pedal": "ST-9 Super Tube Screamer",
       "catalog_type": "Overdrive",
       "research_record": "./research/pedals/Maxon / Nisshin Onpa/ST-9 Super Tube Screamer.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Maxon / Nisshin Onpa",
-      "pedal": "TBO-9 True Tube Booster / Overdrive",
-      "catalog_type": "Overdrive",
-      "research_record": "./research/pedals/Maxon / Nisshin Onpa/TBO-9 True Tube Booster / Overdrive.md",
       "research_level": "surface"
     },
     {
@@ -195,6 +153,48 @@
       "pedal": "Neo Fuzz",
       "catalog_type": "Fuzz",
       "research_record": "./research/pedals/MI Audio / MI Effects/Neo Fuzz.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "MI Audio / MI Effects",
+      "pedal": "Super Blues Pro",
+      "catalog_type": "Fuzz / Overdrive",
+      "research_record": "./research/pedals/MI Audio / MI Effects/Super Blues Pro.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "MI Audio / MI Effects",
+      "pedal": "Super Crunch Box V2",
+      "catalog_type": "Distortion",
+      "research_record": "./research/pedals/MI Audio / MI Effects/Super Crunch Box V2.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "MI Audio / MI Effects",
+      "pedal": "Tube Zone Overdrive",
+      "catalog_type": "Overdrive",
+      "research_record": "./research/pedals/MI Audio / MI Effects/Tube Zone Overdrive.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Mojo Hand FX",
+      "pedal": "Crosstown Rasta",
+      "catalog_type": "Fuzz",
+      "research_record": "./research/pedals/Mojo Hand FX/Crosstown Rasta.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Mojo Hand FX",
+      "pedal": "Pompeii (historical/limited)",
+      "catalog_type": "Fuzz",
+      "research_record": "./research/pedals/Mojo Hand FX/Pompeii (historical/limited).md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Mojo Hand FX",
+      "pedal": "Rounder (historical/discontinued)",
+      "catalog_type": "Fuzz",
+      "research_record": "./research/pedals/Mojo Hand FX/Rounder (historical/discontinued).md",
       "research_level": "surface"
     }
   ]
