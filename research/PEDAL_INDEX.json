@@ -50029,8 +50029,8 @@
       "image": "./assets/pedals/radial-engineering-tonebone/tonebone-plexitube/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Radial Engineering / Tonebone/Tonebone Plexitube.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Radial Engineering / Tonebone",
@@ -51826,8 +51826,8 @@
       "image": "./assets/pedals/stomp-under-foot/la-scatola-nero/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Stomp Under Foot/La Scatola Nero.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Stomp Under Foot",
@@ -54633,8 +54633,8 @@
       "image": "./assets/pedals/visual-sound-truetone/jekyll-hyde/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Visual Sound / Truetone/Jekyll & Hyde.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Visual Sound / Truetone",
@@ -56336,8 +56336,8 @@
       "image": "./assets/pedals/way-huge/red-llama-3-0/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Way Huge/Red Llama 3.0.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Way Huge",

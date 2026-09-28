@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-28T11:45:45.827039+00:00",
+  "generated_at": "2026-09-28T11:45:51.515507+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,8 +10,8 @@
     "pictured": 3930,
     "complete": 3930,
     "research_pending": 0,
-    "deep_research_pending": 16,
-    "deep_researched": 4190,
+    "deep_research_pending": 12,
+    "deep_researched": 4194,
     "surface_ready": 4206
   },
   "next_target": {
@@ -27,13 +27,6 @@
       "pedal": "BC-2 Vintage Blues Core",
       "catalog_type": "Overdrive",
       "research_record": "./research/pedals/NUX Audio / NUX/BC-2 Vintage Blues Core.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Radial Engineering / Tonebone",
-      "pedal": "Tonebone Plexitube",
-      "catalog_type": "Distortion",
-      "research_record": "./research/pedals/Radial Engineering / Tonebone/Tonebone Plexitube.md",
       "research_level": "surface"
     },
     {
@@ -65,24 +58,10 @@
       "research_level": "surface"
     },
     {
-      "builder": "Visual Sound / Truetone",
-      "pedal": "Jekyll & Hyde",
-      "catalog_type": "Distortion / Overdrive",
-      "research_record": "./research/pedals/Visual Sound / Truetone/Jekyll & Hyde.md",
-      "research_level": "surface"
-    },
-    {
       "builder": "Xotic Effects",
       "pedal": "BB Preamp V1.5 — Boost / Overdrive",
       "catalog_type": "Overdrive",
       "research_record": "./research/pedals/Xotic Effects/BB Preamp V1.5 — Boost / Overdrive.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Stomp Under Foot",
-      "pedal": "La Scatola Nero",
-      "catalog_type": "Fuzz",
-      "research_record": "./research/pedals/Stomp Under Foot/La Scatola Nero.md",
       "research_level": "surface"
     },
     {
@@ -125,13 +104,6 @@
       "pedal": "V2 Violet Ram",
       "catalog_type": "Fuzz",
       "research_record": "./research/pedals/Vick Audio/V2 Violet Ram.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Way Huge",
-      "pedal": "Red Llama 3.0",
-      "catalog_type": "Overdrive",
-      "research_record": "./research/pedals/Way Huge/Red Llama 3.0.md",
       "research_level": "surface"
     }
   ]
