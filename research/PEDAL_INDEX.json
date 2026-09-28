@@ -9201,7 +9201,7 @@
         "Overdrive",
         "Fuzz"
       ],
-      "image": "",
+      "image": "./assets/pedals/beetronics/nectar-tone-sweetener-drive-fuzz/primary.webp",
       "source_page": "https://www.beetronicsfx.com/collections/all-pedals-1",
       "research_record": "./research/pedals/Beetronics/Nectar Tone Sweetener Drive/Fuzz.md",
       "research_level": "deep",
@@ -9214,7 +9214,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1257
+      "image_source_priority": 1257,
+      "image_source_url": "https://www.beetronicsfx.com/cdn/shop/files/NC_01.jpg?v=1694538201&width=1500"
     },
     {
       "company": "Beetronics",
@@ -33509,7 +33510,7 @@
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
       "image_source_priority": 1314,
-      "image_source_url": "https://rvb-img.reverb.com/i/s--KZ_Xuv0i--/quality=medium-low,height=800,width=800,fit=contain/g6jg7xqocovtdowb33tx.jpg"
+      "image_source_url": "https://rvb-img.reverb.com/i/s--PezvXuY8--/gravity=auto,quality=medium-low,width=200,height=200,format=jpeg/w8yqkfarwzaujv37mck5.jpg"
     },
     {
       "company": "Dinosaural",
@@ -52306,7 +52307,8 @@
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
       "image_source_priority": 1323,
-      "image": "./assets/pedals/solidgoldfx/if-6-was-9-bc183-mkii/primary.webp"
+      "image": "./assets/pedals/solidgoldfx/if-6-was-9-bc183-mkii/primary.webp",
+      "image_source_url": "https://solidgoldfx.com/cdn/shop/files/DSC07680_10x10.jpg?v=1653978510"
     },
     {
       "company": "SolidGoldFX",
