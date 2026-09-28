@@ -5,3 +5,5 @@ Builder,Canonical Pedal,Alias Pedal,Reason,Status
 "JHS Pedals","The Violet","The Violet / Violet","Archive descriptor variant of the same JHS model title","REVIEW"
 "JHS Pedals","The Violet","Violet","Short title variant of the same JHS model title","REVIEW"
 "Keeley Electronics","Super Phat Mod","Super Phat Mod Mini","Current seed uses a Mini suffix, but exact-model web references found document Super Phat Mod; identity remains unresolved.","REVIEW"
+"Keeley Electronics","Dark Side Fuzz/Phaser","Dark Side","Canonical catalog descriptor expands the exact Keeley Dark Side model identity; official and independent exact-model sources identify the same pedal","CONFIRMED"
+"Katanasound","Super Bass Octave Fuzz","Super Bass Fuzz","Manufacturer identifies the exact KS-EF-06 model as Super Bass Fuzz; archive catalog uses Super Bass Octave Fuzz as its display label","CONFIRMED"
