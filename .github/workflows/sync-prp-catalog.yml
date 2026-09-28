@@ -9,6 +9,7 @@ on:
       - 'scripts/sync_prp_catalog.py'
       - 'scripts/generate-surface-records.py'
       - 'scripts/build-research-queue.py'
+      - 'scripts/reset-photo-recovery-targets.py'
       - 'research/pedals/**'
   schedule:
     - cron: '*/15 * * * *'
@@ -37,6 +38,9 @@ jobs:
 
       - name: Synchronize research records into canonical catalog and photo manifest
         run: python scripts/sync_prp_catalog.py
+      - name: Clear known-invalid photo state
+        run: python scripts/reset-photo-recovery-targets.py
+
 
       - name: Synchronize tracker from canonical catalog
         run: python scripts/sync-prp-tracker.py
