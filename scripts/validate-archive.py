@@ -31,6 +31,7 @@ DETAIL = ROOT / "pedal-detail.html"
 COMPARE = ROOT / "compare.html"
 PHOTO_CONTENT_AUDIT = ROOT / "scripts/audit-photo-content.py"
 PHOTO_CONTENT_WORKFLOW = ROOT / ".github/workflows/photo-content-audit.yml"
+PHOTO_SOURCE_BLOCKLIST = ROOT / "research/PHOTO_SOURCE_BLOCKLIST.json"
 BUILDER = ROOT / "builder.html"
 LEGACY = ROOT / "pedal.html"
 DEPLOY = ROOT / ".github/workflows/deploy-pages.yml"
@@ -57,6 +58,19 @@ def archived_image(image):
 
 def forbidden_photo_provenance(value):
     try:
+        raw = str(value or "")
+        policy = json.loads(PHOTO_SOURCE_BLOCKLIST.read_text(encoding="utf-8"))
+        lowered = raw.lower()
+        for rule in policy.get("rules", []):
+            kind = str(rule.get("type") or "")
+            pattern = str(rule.get("pattern") or "")
+            if kind == "exact_url" and lowered == pattern.lower():
+                return True
+            if kind.endswith("_regex") and pattern and re.search(pattern, lowered, re.I):
+                return True
+    except Exception:
+        pass
+    try:
         from urllib.parse import urlparse
         parsed = urlparse(str(value or ""))
         haystack = (parsed.netloc + parsed.path + ("?" + parsed.query if parsed.query else "")).lower()
@@ -72,7 +86,7 @@ def forbidden_photo_provenance(value):
     return False
 
 def main():
-    required = (INDEX, MANIFEST, TRACKER, PHOTO_REVIEW_QUEUE, PHOTO_BACKLOG, PHOTO_SOURCE_OVERRIDES, PHOTO_DIRECT_IMAGE_OVERRIDES, RESEARCH_SOURCE_OVERRIDES, APPLY_PHOTO_SOURCE_OVERRIDES, CORE, INDEX_JS, DETAIL_JS, DEPLOY_AUDIT, LIVE_AUDIT, STATIC_SERVER, PHOTO_CACHE, FACET_BUILDER, HOME, DETAIL, COMPARE, BUILDER, LEGACY, PHOTO_CONTENT_AUDIT, PHOTO_CONTENT_WORKFLOW, DEPLOY, SITEMAP, ROBOTS, SITEMAP_BUILDER)
+    required = (INDEX, MANIFEST, TRACKER, PHOTO_REVIEW_QUEUE, PHOTO_BACKLOG, PHOTO_SOURCE_OVERRIDES, PHOTO_DIRECT_IMAGE_OVERRIDES, RESEARCH_SOURCE_OVERRIDES, APPLY_PHOTO_SOURCE_OVERRIDES, CORE, INDEX_JS, DETAIL_JS, DEPLOY_AUDIT, LIVE_AUDIT, STATIC_SERVER, PHOTO_CACHE, FACET_BUILDER, HOME, DETAIL, COMPARE, BUILDER, LEGACY, PHOTO_CONTENT_AUDIT, PHOTO_CONTENT_WORKFLOW, PHOTO_SOURCE_BLOCKLIST, DEPLOY, SITEMAP, ROBOTS, SITEMAP_BUILDER)
     missing = [p.relative_to(ROOT).as_posix() for p in required if not p.is_file()]
     if missing:
         raise SystemExit("Missing required archive files: " + ", ".join(missing))
