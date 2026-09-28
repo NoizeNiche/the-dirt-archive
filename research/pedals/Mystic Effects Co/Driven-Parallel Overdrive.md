@@ -1,23 +1,36 @@
 # Mystic Effects Co — Driven-Parallel Overdrive
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Driven-Parallel Overdrive
 - **Builder:** Mystic Effects Co
-- **Pedal:** Driven-Parallel Overdrive
 - **Catalog type:** Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Mystic Effects Co Driven-Parallel Overdrive.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Driven-Parallel Overdrive** by **Mystic Effects Co** as a **Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+The Driven-Parallel Overdrive is a pedal in the Mystic Effects Co catalog. A current retailer collection identifies the exact product by builder and model name alongside Mystic's other pedals, including the 1833 Drive, Bandpass Overdrive, Fuzz Button, and Octavia Vintage Octave Fuzz.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No complete factory colorway sequence established from the exact source reviewed.
+
+## Versions and factory options
+- **Driven-Parallel Overdrive:** exact cataloged model.
+- No distinct factory revision or version split established from the source reviewed.
+
+## Version changes
+- No documented production revision history established.
+
+## Transistor
+- **Exact production transistor/device:** Not established in the available exact-model source.
+
+## Diode
+- **Exact clipping/rectification diode:** Not established in the available exact-model source.
+
+## Sound
+The surviving exact-model source confirms the pedal's existence and catalog identity as a Mystic Effects Co overdrive. Detailed controls, circuit topology, and tonal description were not sufficiently documented in the exact source available, so the archive leaves those fields unresolved rather than borrowing details from another Mystic pedal.
+
+## Sources checked
+1. Martel Music Store, Mystic Effects Co collection: https://martelmusicstore.com/collections/mystic-effects-co
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Exact-model photo lead:** Martel Music Store exact Mystic Effects Co collection listing.
+- **Archive status:** Local photo recovery is handled separately; only a verified local asset counts as pictured.
