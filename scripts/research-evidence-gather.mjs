@@ -496,7 +496,11 @@ async function targetRecord(builder,pedal,type){
   const ranked=candidates.map(x=>({x,f:fit(builder,pedal,x.title+' '+x.url)}))
     .sort((a,b)=>b.f.score-a.f.score).slice(0,12);
   const fetched = await boundedMap(ranked, 3, async item => {
-    const curatedExactCandidate = recordSourceUrls.has(item.x.url) || recordSourceUrls.has(item.x.url.split('#')[0]);
+    const curatedExactCandidate =
+      recordSourceUrls.has(item.x.url) ||
+      recordSourceUrls.has(item.x.url.split('#')[0]) ||
+      exactCatalogUrls.has(item.x.url) ||
+      exactCatalogUrls.has(item.x.url.split('#')[0]);
     const cached=verifiedCache.get(item.x.url);
     const p=cached ? null : await get(item.x.url);
     const baseInfo=cached
