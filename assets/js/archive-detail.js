@@ -212,7 +212,18 @@ function renderColorways(item, colorways){
   }
 }
 
-function renderVersionFamily(item, allItems){\n  const section=$('versionFamilySection');\n  const target=$('versionFamily');\n  if(!section||!target)return;\n  const parentKey=String(item?.version_of||'').trim();\n  const parent=parentKey ? allItems.find(x=>isCatalogEntry(x)&&entryKey(x)===parentKey) : null;\n  const children=allItems.filter(x=>isCatalogEntry(x)&&x.version_of===entryKey(item)&&entryKey(x)!==entryKey(item));\n  if(!parent&&!children.length){section.hidden=true;target.innerHTML='';return}\n  const parentLink=parent\n    ? '<a class="familyParent" href="'+esc(detailUrl(parent,null,wantedType))+'"><span class="familyRole">Parent record</span><strong>'+esc(parent.pedal)+'</strong><span>'+esc(parent.company)+'</span></a>'\n    : '<div class="familyParent current"><span class="familyRole">Base record</span><strong>'+esc(item.pedal)+'</strong><span>'+esc(item.company)+'</span></div>';\n  const siblingHtml=children.length\n    ? '<div class="familySiblings"><span class="familyRole">Documented versions from this record</span>'+children.map(v=>'<a class="familySibling" href="'+esc(detailUrl(v,null,wantedType))+'">'+esc(v.version_label||v.pedal)+'</a>').join('')+'</div>'\n    : '';\n  target.innerHTML=parentLink+siblingHtml;\n  section.hidden=false;\n}\n\nfunction renderVersions(item, versions){
+function renderVersionFamily(item, allItems){\n  const section=$('versionFamilySection');\n  const target=$('versionFamily');\n  if(!section||!target)return;\n  const parentKey=String(item?.version_of||'').trim();\n  const parent=parentKey ? allItems.find(x=>isCatalogEntry(x)&&entryKey(x)===parentKey) : null;\n  const children=allItems.filter(x=>isCatalogEntry(x)&&x.version_of===entryKey(item)&&entryKey(x)!==entryKey(item));\n  if(!parent&&!children.length){section.hidden=true;target.innerHTML='';return}\n  const parentLink=parent\n    ? '<a class="familyParent" href="'+esc(detailUrl(parent,null,wantedType))+'"><span class="familyRole">Parent record</span><strong>'+esc(parent.pedal)+'</strong><span>'+esc(parent.company)+'</span></a>'\n    : '<div class="familyParent current"><span class="familyRole">Base record</span><strong>'+esc(item.pedal)+'</strong><span>'+esc(item.company)+'</span></div>';\n  const siblingHtml=children.length\n    ? '<div class="familySiblings"><span class="familyRole">Documented versions from this record</span>'+children.map(v=>'<a class="familySibling" href="'+esc(detailUrl(v,null,wantedType))+'">'+esc(v.version_label||v.pedal)+'</a>').join('')+'</div>'\n    : '';\n  target.innerHTML=parentLink+siblingHtml;\n  section.hidden=false;\n}\n\nfunction renderFamily(item, allItems){
+  const section=$('familySection'),card=$('familyCard');
+  if(!section||!card)return;
+  if(!item?.version_of){section.hidden=true;card.innerHTML='';return}
+  const parent=allItems.find(x=>isCatalogEntry(x)&&entryKey(x)===item.version_of);
+  if(!parent){section.hidden=true;card.innerHTML='';return}
+  const type=(wantedType&&parent.types?.includes(wantedType))?wantedType:'';
+  card.innerHTML='<a class="familyCardLink" href="'+esc(detailUrl(parent,null,type))+'"><span class="familyCardEyebrow">Parent model</span><strong>'+esc(parent.pedal)+'</strong><span>'+esc(parent.company)+'</span></a>';
+  section.hidden=false;
+}
+
+function renderVersions(item, versions){
   if(!versions.length){$('versionsSection').hidden=true;return}
   $('versionsSection').hidden=false;
   $('versions').innerHTML=versions.map(v=>{
@@ -519,6 +530,7 @@ loadCatalog()
 
   renderVersionFamily(item,allItems);
   renderColorways(item,colorways);
+  renderFamily(item,allItems);
   renderVersions(item,versions);
   renderDemo(item);
   renderRelated(allItems,item);
