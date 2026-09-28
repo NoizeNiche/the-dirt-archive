@@ -1,23 +1,41 @@
 # Vemuram — Myriad Fuzz — fuzz
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Myriad Fuzz — fuzz
 - **Builder:** Vemuram
-- **Pedal:** Myriad Fuzz — fuzz
 - **Catalog type:** Fuzz
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Vemuram's Myriad Fuzz — fuzz.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Myriad Fuzz — fuzz** by **Vemuram** as a **Fuzz** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+admin 22 September 2026 22 min read GG-ARTICLE-TOP Almost every fuzz pedal ever built is an argument about one transistor family.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Documented terms in the verified sources: silicon transistor, germanium transistor, Silicon transistors.
+- The archive records only the component information explicitly present in these sources.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+admin 22 September 2026 22 min read GG-ARTICLE-TOP Almost every fuzz pedal ever built is an argument about one transistor family.
+GG-ARTICLE-AFTER-INTRO The Vemuram Myriad Fuzz refuses to pick.
+How to Get the Tone ↓ The short version The Myriad Fuzz is a hybrid germanium/silicon fuzz, hand-built by Vemuram in Tokyo in a solid brass enclosure, developed with American blues guitarist and producer Josh Smith.
+
+## Sources checked
+1. Vemuram Myriad Fuzz: Josh Smith's Hybrid Fuzz Beast: https://guitargangsters.net/rank808-vemuram-myriad-fuzz/
+2. Vemuram Myriad Fuzz - What To Know & Where To Buy | Equipboard: https://equipboard.com/items/vemuram-myriad-fuzz
+3. Vemuram Myriad Fuzz - Reverb: https://reverb.com/p/vemuram-myriad-fuzz
+4. Vemuram Myriad Fuzz | AllThePedals: https://allthepedals.com/pedals/vemuram-myriad-fuzz/
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

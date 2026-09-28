@@ -1,23 +1,39 @@
 # Keeley Electronics — Mk3 Driver — Andy Timmons Full Range Overdrive
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Mk3 Driver — Andy Timmons Full Range Overdrive
 - **Builder:** Keeley Electronics
-- **Pedal:** Mk3 Driver — Andy Timmons Full Range Overdrive
 - **Catalog type:** Fuzz / Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Keeley Electronics's Mk3 Driver — Andy Timmons Full Range Overdrive.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Mk3 Driver — Andy Timmons Full Range Overdrive** by **Keeley Electronics** as a **Fuzz / Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+Keeley Electronics's Mk3 Driver — Andy Timmons Full Range Overdrive is cataloged as a fuzz / overdrive pedal.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- The verified evidence references: MK3, Mk3.
+- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+Keeley Electronics - MK3 Driver - Andy Timmons Full Range Overdrive Menu Your Cart Menu Home Products PEDALBOARDS CADEN SERIES 2 HEXA FLATBOARD SERIES 4 KIRK SERIES 3 <a href="https://gcrockboard.com/pe
+escape }}\" class=\"boost-sd__modal\" id=\"boost-sd__modal-quickview\" data-product-id='{{ productData.id }}' data-product='{{ productData
+
+## Sources checked
+1. Keeley Electronics - MK3 Driver - Andy Timmons Full Range Overdrive: https://gcrockboard.com/keeley-electronics-mk3-driver-andy-timmons-full-range-overdrive
+2. Keeley Electronics Mk3 Driver - Andy Timmons Full Range Overdrive Effe &ndash; Russo Music: https://www.russomusic.com/products/keeley-electronics-mk3-driver-andy-timmons-full-range-overdrive-effect-pedal
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

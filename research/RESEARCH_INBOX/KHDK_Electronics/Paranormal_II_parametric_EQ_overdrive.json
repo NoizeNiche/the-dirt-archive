@@ -1,0 +1,41 @@
+{
+  "builder": "KHDK Electronics",
+  "pedal": "Paranormal II \u2014 parametric EQ overdrive",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 4,
+  "sources": [
+    {
+      "url": "https://www.khdkelectronics.com/products/detail/paranormal-ii/",
+      "title": "Paranormal II | KHDK Electronics",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.khdkelectronics.com",
+      "source_kind": "manufacturer"
+    },
+    {
+      "url": "https://equipboard.com/items/khdk-electronics-paranormal-ii-limited-edition-gary-holt-signature-parametric-eq-overdrive",
+      "title": "KHDK Electronics Paranormal II Limited Edition Gary Holt Signature ...",
+      "h1": "",
+      "excerpt": "",
+      "host": "equipboard.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://reverb.com/p/khdk-electronics-paranormal-ii-limited-edition-gary-holt-signature-parametric-eq-slash-overdrive",
+      "title": "KHDK Electronics Paranormal II Limited Edition Gary Holt ... - Reverb",
+      "h1": "",
+      "excerpt": "",
+      "host": "reverb.com",
+      "source_kind": "reverb"
+    },
+    {
+      "url": "https://www.ebay.com/itm/407193138283",
+      "title": "KHDK Electronics Paranormal II Overdrive Pedal - eBay",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.ebay.com",
+      "source_kind": "other"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}
