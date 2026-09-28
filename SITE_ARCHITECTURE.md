@@ -162,6 +162,37 @@ Bulk photo caching also processes pictured records that still use an external im
 
 The internal `research/pedals/PEDAL_IMAGES.json` manifest mirrors the same local image path and provenance.
 
+
+## Collector workbench
+
+The public archive now includes an optional, device-local collector workbench.
+
+### Saved records
+
+Visitors can save exact Builder + Pedal records to browser-local storage. Saved state is private to that device and is not part of canonical archive data.
+
+Saved records should always point to exact catalog identities. If a record is later retired from the canonical catalog, the stale saved key is ignored rather than redirected by guesswork.
+
+### Exact-record comparison
+
+Visitors can select up to four exact public records and open a side-by-side comparison page. The comparison is deliberately descriptive rather than ranked.
+
+The comparison surface may show:
+- exact pedal name and builder
+- dirt type
+- explicit version label
+- explicitly documented transistor/clipping/power facets
+- research level
+- exact local-photo availability
+- version-family relationship
+- representative demo when documented
+
+Comparison state is device-local and temporary. It must not become a popularity, quality, market-value, or recommendation score.
+
+### Product principle
+
+The workbench is a utility layer over the archive rather than a second catalog. Canonical identity, research prose, technical facet data, and photo provenance continue to come from their existing owners.
+
 ## Public discoverability layer
 
 The public archive includes two derived crawler-facing files:
