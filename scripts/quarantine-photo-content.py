@@ -64,7 +64,9 @@ def main():
             "Builder": key[0],
             "Pedal": key[1],
             "Image": image,
-            "Flags": row.get("Flags", ""),
+            "Image Source URL": entry.get("image_source_url") or "",
+            "Image Source Page": entry.get("image_source_page") or entry.get("source_page") or "",
+            "Reason": row.get("Flags", ""),
         })
         if args.dry_run:
             continue
@@ -96,7 +98,7 @@ def main():
             seen.add(marker)
 
     with QUARANTINE.open("w", newline="", encoding="utf-8") as handle:
-        fields = ["Builder","Pedal","Image","Flags"]
+        fields = ["Builder","Pedal","Image","Image Source URL","Image Source Page","Reason"]
         writer = csv.DictWriter(handle, fieldnames=fields)
         writer.writeheader()
         writer.writerows(prior)
