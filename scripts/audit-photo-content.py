@@ -174,6 +174,7 @@ def inspect(path: Path):
             edge_mean = ImageStat.Stat(edge).mean
             if sum(edge_mean) / 3 < 3 and variance < 30:
                 flags.append("extremely_low_visual_detail")
+            digest = hashlib.sha256(path.read_bytes()).hexdigest()
             ocr = ocr_text(path)
     except Exception as exc:
         flags.append("unreadable_image:" + str(exc)[:120])
@@ -241,7 +242,17 @@ def main():
             "Flags": "; ".join(flags),
             "OCR": ocr[:1200],
         }
-        contaminated = any(flag.startswith("donation_or_platform_overlay:") for flag in flags) or "known_blocked_image_hash" in flags or any(flag.startswith("blocked_provenance:") for flag in flags)
+        # Tiny/corrupt local images are not acceptable canonical photos. The
+        # recovery/cache lane already enforces the same 3000-byte and 120px
+        # minimums, so these failures can safely return to photo recovery.
+        contaminated = (
+            any(flag.startswith("donation_or_platform_overlay:") for flag in flags)
+            or "known_blocked_image_hash" in flags
+            or any(flag.startswith("blocked_provenance:") for flag in flags)
+            or "tiny_file" in flags
+            or "tiny_dimensions" in flags
+            or any(flag.startswith("unreadable_image:") for flag in flags)
+        )
         return row, contaminated
     with ThreadPoolExecutor(max_workers=max(2, min(6, (os.cpu_count() or 4)))) as executor:
         futures = [executor.submit(audit_one, pair) for pair in ordered_targets]
