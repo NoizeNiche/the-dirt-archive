@@ -49168,7 +49168,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/pigtronix/xl-fat-drive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Pigtronix/XL FAT Drive.md",
       "research_level": "deep",
@@ -52979,7 +52979,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/tonecat/brutus/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/TONECAT/Brutus.md",
       "research_level": "surface",
@@ -53647,7 +53647,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/vemuram/shanks-ods-1/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Vemuram/SHANKS ODS-1.md",
       "research_level": "deep",
@@ -54085,7 +54085,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/visual-sound-truetone/double-trouble/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Visual Sound / Truetone/Double Trouble.md",
       "research_level": "surface",
@@ -54099,7 +54099,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/visual-sound-truetone/drivetrain-garagetone-drivetrain/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Visual Sound / Truetone/Drivetrain / GarageTone Drivetrain.md",
       "research_level": "surface",
@@ -54152,7 +54152,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/visual-sound-truetone/open-road/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Visual Sound / Truetone/Open Road.md",
       "research_level": "surface",
@@ -54176,7 +54176,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/visual-sound-truetone/route-66-american-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Visual Sound / Truetone/Route 66 American Overdrive.md",
       "research_level": "surface",
@@ -54202,7 +54202,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/visual-sound-truetone/son-of-hyde/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Visual Sound / Truetone/Son of Hyde.md",
       "research_level": "surface",
@@ -54724,7 +54724,7 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/walrus-audio/eras-five-state-distortion-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Walrus Audio/Eras Five-State Distortion — Distortion.md",
       "research_level": "deep",
@@ -54760,7 +54760,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/walrus-audio/fundamental-series-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Walrus Audio/Fundamental Series Fuzz.md",
       "research_level": "deep",
@@ -54774,7 +54774,7 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/walrus-audio/iron-horse-lm308-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Walrus Audio/Iron Horse LM308 Distortion.md",
       "research_level": "deep",
@@ -54787,7 +54787,7 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/walrus-audio/iron-horse-lm308-distortion-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Walrus Audio/Iron Horse LM308 Distortion — Distortion.md",
       "research_level": "deep",
@@ -54801,7 +54801,7 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/walrus-audio/janus-fuzz-tremolo-with-joystick-control/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Walrus Audio/Janus Fuzz/Tremolo with Joystick Control.md",
       "research_level": "deep",
@@ -54814,7 +54814,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/walrus-audio/janus-fuzz-tremolo-with-joystick-control-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Walrus Audio/Janus Fuzz/Tremolo with Joystick Control — Fuzz.md",
       "research_level": "deep",
@@ -54826,7 +54826,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/walrus-audio/jupiter-multi-clip-fuzz-v2/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Walrus Audio/Jupiter Multi-Clip Fuzz V2.md",
       "research_level": "deep",
@@ -55545,7 +55545,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/wampler-pedals/tumnus/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Wampler Pedals/Tumnus.md",
       "research_level": "deep",
@@ -55791,7 +55791,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/way-huge/overrated-special/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Way Huge/Overrated Special.md",
       "research_level": "deep",
@@ -55868,7 +55868,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/way-huge/smalls-conspiracy-theory/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Way Huge/Smalls Conspiracy Theory.md",
       "research_level": "deep",
@@ -55880,7 +55880,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/way-huge/smalls-doom-hammer-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Way Huge/Smalls Doom Hammer Fuzz.md",
       "research_level": "deep",
@@ -56272,7 +56272,7 @@
         "Distortion",
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/wren-and-cuff/j-mascis-garbage-face-jr/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Wren and Cuff/J Mascis Garbage Face Jr.md",
       "research_level": "deep",
@@ -56328,7 +56328,7 @@
         "Distortion",
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/wren-and-cuff/tall-font-russian/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Wren and Cuff/Tall Font Russian.md",
       "research_level": "deep",
@@ -56340,7 +56340,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/wren-and-cuff/two-five-drive-boost/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Wren and Cuff/Two-Five Drive Boost.md",
       "research_level": "deep",
@@ -56383,7 +56383,7 @@
         "Distortion",
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/wren-and-cuff/your-face-60-s/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Wren and Cuff/Your Face 60's.md",
       "research_level": "deep",
@@ -56396,7 +56396,7 @@
         "Distortion",
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/wren-and-cuff/your-face-70-s/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Wren and Cuff/Your Face 70's.md",
       "research_level": "deep",
@@ -56568,7 +56568,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/xotic-effects/sl-drive-distortion-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Xotic Effects/SL Drive — Distortion / Overdrive.md",
       "research_level": "deep",
@@ -56580,7 +56580,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/xotic-effects/soul-driven/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Xotic Effects/Soul Driven.md",
       "research_level": "deep",
@@ -56849,7 +56849,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/zvex-effects/fuzz-probe/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/ZVEX Effects/Fuzz Probe.md",
       "research_level": "deep",
@@ -56873,7 +56873,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/zvex-effects/machine/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/ZVEX Effects/Machine.md",
       "research_level": "deep",
@@ -56897,7 +56897,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/zvex-effects/octane-3/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/ZVEX Effects/Octane 3.md",
       "research_level": "deep",
@@ -56909,7 +56909,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/zvex-effects/woolly-mammoth/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/ZVEX Effects/Woolly Mammoth.md",
       "research_level": "deep",

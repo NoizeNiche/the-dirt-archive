@@ -25591,7 +25591,7 @@
   {
     "builder": "Pigtronix",
     "pedal": "XL FAT Drive",
-    "image": null,
+    "image": "./assets/pedals/pigtronix/xl-fat-drive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Pigtronix/XL FAT Drive.md"
   },
@@ -27712,7 +27712,7 @@
   {
     "builder": "TONECAT",
     "pedal": "Brutus",
-    "image": null,
+    "image": "./assets/pedals/tonecat/brutus/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/TONECAT/Brutus.md"
   },
@@ -28097,7 +28097,7 @@
   {
     "builder": "Vemuram",
     "pedal": "SHANKS ODS-1",
-    "image": null,
+    "image": "./assets/pedals/vemuram/shanks-ods-1/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Vemuram/SHANKS ODS-1.md"
   },
@@ -28349,16 +28349,18 @@
   {
     "builder": "Visual Sound / Truetone",
     "pedal": "Double Trouble",
-    "image": null,
+    "image": "./assets/pedals/visual-sound-truetone/double-trouble/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/Visual Sound / Truetone/Double Trouble.md"
+    "research_record": "./research/pedals/Visual Sound / Truetone/Double Trouble.md",
+    "image_source_url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/ci/a41faf0c0ab72b22/1790566376562/vcrznDO.mHpCz1qm6frIYfq2q9RT4Nj6imxHxpxkvng-1790566376-1.3.1.1-OI5F5UBgbu0lpfBBwi0tUYVVmGHUBzKBPrVocYTYbTMfbiQv2oTYUZdSUAzOWc6jVYUX1BAYyqyhZldVH.ya2cTAhP8nnGNwV5kVCbcIMG_ZNhMXcwWWTgKCwI03R_vc.j.uHHW0eqfKoGbltaWgTPQpippddAbKFQpIJlzaym6Scpb4RkJ3yHveAanWyZpgYhmg.5FHiF06rpjkwrpkmX8rdc92vCFe56QBQHQO.6y4gWld9j.iHqOpzCCKG62YeTmL.8xgp2J9lgRdt6mUY0y3TxUJ9V9WmwXwzSbZFtKRznbpEgCD0sWYQw4ut.Ia6Rnz5CI5YOVD6kPghdDquCrKWMAs7DYib.JFSIhyExSd2GUhs37YoahU7ZcZC2GVeYy7WO.OtVC9ntihFe3qlupiPT3Gz_8ujertYee9C7sVRemM4.8nsUYwVNosOSDwkVbQIq6Fnz953y4XVwXV.1UT0dvcu9NlTsUp8zKOrImWXPmUPnEtzJyGLUalHI5jYkfG15NjDZM81io3maa9M9pNUJ0K8BLnEThJiGBWVgZwFQ4nnO9j1wCSlHK8m2SiX31EwO4AMOwlSUJ_AMZmlYxXZ9PigpcsgWbf.LK4loVDH2LWkgXzNezuzuc8HzXH2G3auaxOx59xfJa3sfpRyvCvCzKRVtig5Hpszvae5esR9K_bvhd1JKtoI0ApKWOyKvtmigbvU8.I3Rv8W9BjxO2B2DDvrAhR5d1nbgLE.mU"
   },
   {
     "builder": "Visual Sound / Truetone",
     "pedal": "Drivetrain / GarageTone Drivetrain",
-    "image": null,
+    "image": "./assets/pedals/visual-sound-truetone/drivetrain-garagetone-drivetrain/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/Visual Sound / Truetone/Drivetrain / GarageTone Drivetrain.md"
+    "research_record": "./research/pedals/Visual Sound / Truetone/Drivetrain / GarageTone Drivetrain.md",
+    "image_source_url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/ci/a41faf0f5a102a91/1790566377093/UZpdRyeQVhlc_rW09Kpf4WpGBSwjEcmZoFbAVf.15PM-1790566377-1.3.1.1-9NS12a7X0T4xreLs035sINj3QnkdYzO71cJSqlsR9__ef9RIWfw6zeMSnk1DpYQ3ZEesBR4BcWOgzJlS2aSdFBl4gFeD_QSU7JCd9pWTY8pbDiIqqkF3N83SSNViJrig5ANFVwy6zdpS8s9BrbbdTH9LkclaUsXck.O2bVndGsVOyr7UuA6iLSVcUHQb6ysQApiOvp3cShdu8wylVE1WvF2m48Fj4Lj9FhEPCoVSjk715iSOPn6k09gNbcN4e4Vr8qCldQbz.v5VWyyu_pKXSbddf5vYpOwmsP3ybRO9U3_LmbMqP6s79FzvgO4VZa9AvLEs_sIYaNwugaoM0K8f8EnAF6B7A0RFjx915nAz_Leep3lR3uBiDe2b6047mhxyXXpEEWodEAl8KJzxxjyOUdGYhGcKb6pLHUFhQhFl5ZwtnJeHAWgXYz1Wks_VOAhTn_orRKyrVGR5WbHa9sPkxqZdgJrhP22rZPycKJPCGqHhFb8lg_m4jxpX1irfI9WcPndpywCbumEd1Uc5fHGwqhV3LWY35sTRlzC9ABRTmpfLgdTGTJQ_19XyxKcHjSm7YvDokcNAQO51WyEdgmOMRBVvv_4KNusPiCQp96bb9r4HpqVBVDHHkFt_s_uk1QW725hi9arBBTbjL6GCu6JYrrnLGLH4EBNYRBo1J0GUde5T5xi9Ow2WfPjmBo9tYf4OEtkqC3HAZz_66TiZP6CB3y8e3RxSaoYiUnyxHzyXRJg"
   },
   {
     "builder": "Visual Sound / Truetone",
@@ -28384,7 +28386,7 @@
   {
     "builder": "Visual Sound / Truetone",
     "pedal": "Open Road",
-    "image": null,
+    "image": "./assets/pedals/visual-sound-truetone/open-road/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Visual Sound / Truetone/Open Road.md"
   },
@@ -28398,9 +28400,10 @@
   {
     "builder": "Visual Sound / Truetone",
     "pedal": "Route 66 American Overdrive",
-    "image": null,
+    "image": "./assets/pedals/visual-sound-truetone/route-66-american-overdrive/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/Visual Sound / Truetone/Route 66 American Overdrive.md"
+    "research_record": "./research/pedals/Visual Sound / Truetone/Route 66 American Overdrive.md",
+    "image_source_url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/ci/a41faf592b82720b/1790566388865/fDHbxUeXSm4t_UMkY8jicyeeXHTCexWhX2uu4K0uvwY-1790566388-1.3.1.1-hvINZeNi6UejFn7scixesJXZG3T1fUG.4m_Ji7CQEApClS6pb0ZYkw8kp.gGT9Miei9WTHtUkIpPeOdTpORwKiUMfxcZVi4kc205Jw7IDnuiEPteU_qyj__eTzN2KkOyy5ide0SJb0Hp5lGFib1OAPPpEJqCs8vMtP117cK.14D5vGsmbhT.KCHzHnoTX_7nZtmTTWTv2jOOJpl_HnujXJ3H3GYpqhgrsD2otz.Y09uMrg8hkqmWZvlHYzzIvScZU8GXvtORephTve5PkLDyrDiASIkAFEmo8LI5eEfz..4npDav0MpvyiNe17OKLpNMoqWwbh8oOv2ArWKORRFJPdpBlzTlbJtHGjl5AoPibQlrNnkkzfyOap7faQThet5NVEFeYS44Pv.HC.HUGFvSurGsy0LRbs4quu_HS2HCF4v1nwEc1KmaWFIY9Av2VkH1zEcQ7ZDL.FypGCmnFGhJWPRKoCVr.gAijnIKCJ8vV2eYOjqz4mDVgHmH_hXdjccMy5cArHUtGsQGIxWIc.fM7UxcjWs8KIOJ60Zq6ez9ioplwLi7m4zJIBRfJMMFBjoe2rj_DsP0aijLOLuZT9bCwashvJufH1CMHAGLdSAKG2ln4G.kJqwX_3P5JknfmQmvCG84FipDsHb5NiCIha5DRStiSc73_rGYm.7IpKj5mrbtyPUYy0J27NoCS5xgqb__2snkQOLe6mIxeV9FHp2jcM7UiSmdlgfMN_pWfEHV.qc"
   },
   {
     "builder": "Visual Sound / Truetone",
@@ -28412,7 +28415,7 @@
   {
     "builder": "Visual Sound / Truetone",
     "pedal": "Son of Hyde",
-    "image": null,
+    "image": "./assets/pedals/visual-sound-truetone/son-of-hyde/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Visual Sound / Truetone/Son of Hyde.md"
   },
@@ -28692,7 +28695,7 @@
   {
     "builder": "Walrus Audio",
     "pedal": "Eras Five-State Distortion — Distortion",
-    "image": null,
+    "image": "./assets/pedals/walrus-audio/eras-five-state-distortion-distortion/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Walrus Audio/Eras Five-State Distortion — Distortion.md"
   },
@@ -28713,42 +28716,42 @@
   {
     "builder": "Walrus Audio",
     "pedal": "Fundamental Series Fuzz",
-    "image": null,
+    "image": "./assets/pedals/walrus-audio/fundamental-series-fuzz/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Walrus Audio/Fundamental Series Fuzz.md"
   },
   {
     "builder": "Walrus Audio",
     "pedal": "Iron Horse LM308 Distortion",
-    "image": null,
+    "image": "./assets/pedals/walrus-audio/iron-horse-lm308-distortion/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Walrus Audio/Iron Horse LM308 Distortion.md"
   },
   {
     "builder": "Walrus Audio",
     "pedal": "Iron Horse LM308 Distortion — Distortion",
-    "image": null,
+    "image": "./assets/pedals/walrus-audio/iron-horse-lm308-distortion-distortion/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Walrus Audio/Iron Horse LM308 Distortion — Distortion.md"
   },
   {
     "builder": "Walrus Audio",
     "pedal": "Janus Fuzz/Tremolo with Joystick Control",
-    "image": null,
+    "image": "./assets/pedals/walrus-audio/janus-fuzz-tremolo-with-joystick-control/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Walrus Audio/Janus Fuzz/Tremolo with Joystick Control.md"
   },
   {
     "builder": "Walrus Audio",
     "pedal": "Janus Fuzz/Tremolo with Joystick Control — Fuzz",
-    "image": null,
+    "image": "./assets/pedals/walrus-audio/janus-fuzz-tremolo-with-joystick-control-fuzz/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Walrus Audio/Janus Fuzz/Tremolo with Joystick Control — Fuzz.md"
   },
   {
     "builder": "Walrus Audio",
     "pedal": "Jupiter Multi-Clip Fuzz V2",
-    "image": null,
+    "image": "./assets/pedals/walrus-audio/jupiter-multi-clip-fuzz-v2/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Walrus Audio/Jupiter Multi-Clip Fuzz V2.md"
   },
@@ -29126,7 +29129,7 @@
   {
     "builder": "Wampler Pedals",
     "pedal": "Tumnus",
-    "image": null,
+    "image": "./assets/pedals/wampler-pedals/tumnus/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Wampler Pedals/Tumnus.md"
   },
@@ -29259,7 +29262,7 @@
   {
     "builder": "Way Huge",
     "pedal": "Overrated Special",
-    "image": null,
+    "image": "./assets/pedals/way-huge/overrated-special/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Way Huge/Overrated Special.md"
   },
@@ -29301,14 +29304,14 @@
   {
     "builder": "Way Huge",
     "pedal": "Smalls Conspiracy Theory",
-    "image": null,
+    "image": "./assets/pedals/way-huge/smalls-conspiracy-theory/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Way Huge/Smalls Conspiracy Theory.md"
   },
   {
     "builder": "Way Huge",
     "pedal": "Smalls Doom Hammer Fuzz",
-    "image": null,
+    "image": "./assets/pedals/way-huge/smalls-doom-hammer-fuzz/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Way Huge/Smalls Doom Hammer Fuzz.md"
   },
@@ -29518,7 +29521,7 @@
   {
     "builder": "Wren and Cuff",
     "pedal": "J Mascis Garbage Face Jr",
-    "image": null,
+    "image": "./assets/pedals/wren-and-cuff/j-mascis-garbage-face-jr/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Wren and Cuff/J Mascis Garbage Face Jr.md"
   },
@@ -29546,14 +29549,14 @@
   {
     "builder": "Wren and Cuff",
     "pedal": "Tall Font Russian",
-    "image": null,
+    "image": "./assets/pedals/wren-and-cuff/tall-font-russian/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Wren and Cuff/Tall Font Russian.md"
   },
   {
     "builder": "Wren and Cuff",
     "pedal": "Two-Five Drive Boost",
-    "image": null,
+    "image": "./assets/pedals/wren-and-cuff/two-five-drive-boost/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Wren and Cuff/Two-Five Drive Boost.md"
   },
@@ -29574,14 +29577,14 @@
   {
     "builder": "Wren and Cuff",
     "pedal": "Your Face 60's",
-    "image": null,
+    "image": "./assets/pedals/wren-and-cuff/your-face-60-s/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Wren and Cuff/Your Face 60's.md"
   },
   {
     "builder": "Wren and Cuff",
     "pedal": "Your Face 70's",
-    "image": null,
+    "image": "./assets/pedals/wren-and-cuff/your-face-70-s/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Wren and Cuff/Your Face 70's.md"
   },
@@ -29679,14 +29682,14 @@
   {
     "builder": "Xotic Effects",
     "pedal": "SL Drive — Distortion / Overdrive",
-    "image": null,
+    "image": "./assets/pedals/xotic-effects/sl-drive-distortion-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Xotic Effects/SL Drive — Distortion / Overdrive.md"
   },
   {
     "builder": "Xotic Effects",
     "pedal": "Soul Driven",
-    "image": null,
+    "image": "./assets/pedals/xotic-effects/soul-driven/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Xotic Effects/Soul Driven.md"
   },
@@ -29833,7 +29836,7 @@
   {
     "builder": "ZVEX Effects",
     "pedal": "Fuzz Probe",
-    "image": null,
+    "image": "./assets/pedals/zvex-effects/fuzz-probe/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/ZVEX Effects/Fuzz Probe.md"
   },
@@ -29847,7 +29850,7 @@
   {
     "builder": "ZVEX Effects",
     "pedal": "Machine",
-    "image": null,
+    "image": "./assets/pedals/zvex-effects/machine/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/ZVEX Effects/Machine.md"
   },
@@ -29861,14 +29864,14 @@
   {
     "builder": "ZVEX Effects",
     "pedal": "Octane 3",
-    "image": null,
+    "image": "./assets/pedals/zvex-effects/octane-3/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/ZVEX Effects/Octane 3.md"
   },
   {
     "builder": "ZVEX Effects",
     "pedal": "Woolly Mammoth",
-    "image": null,
+    "image": "./assets/pedals/zvex-effects/woolly-mammoth/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/ZVEX Effects/Woolly Mammoth.md"
   },
