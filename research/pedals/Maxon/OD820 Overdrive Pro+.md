@@ -34,7 +34,7 @@ OVERDRIVE PRO (OD820) – Godlyke, Inc.
 The Dirt Archive currently catalogs **OD820 Overdrive Pro+** by **Maxon** as a **Distortion / Overdrive** pedal.
 
 ## Sources checked
-1. OVERDRIVE PRO (OD820) &ndash; Godlyke, Inc.: https://maxonfx.com/products/distortion-master-ds830
+1. OVERDRIVE PRO (OD820) &ndash; Godlyke, Inc.: https://maxonfx.com/collections/nine-series/overdrive
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
