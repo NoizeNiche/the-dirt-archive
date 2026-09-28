@@ -12,6 +12,15 @@ The research queue is generated from the canonical catalog and tracker; do not h
 Last refreshed: 2026-09-28T21:13:58.253282+00:00
 <!-- AUTO:RESEARCH_PHASE_END -->
 
+## Synthetic 100-user usability checkpoint - September 28, 2026
+
+A 100-session synthetic usability exercise was run against the current public interaction model. The sessions covered 20 visitor archetypes including shoppers, players, collectors, repair technicians, studio users, DIY builders, historians, mobile visitors, beginners, and archivists. This is hypothesis-generating product research, not real user analytics.
+
+The audit identified recurring opportunities around search discovery, first-time orientation, comparison pruning, zero-result recovery, keyboard search, Workbench state visibility, photo-coverage wording, and shared-state context. The first implementation pass added keyboard-accessible search suggestions, direct zero-result recovery, clearer Workbench counts, per-record comparison removal, and current-state comparison-link copying.
+
+Detailed session matrix: research/100_USER_SIMULATION.md.
+
+
 ## Current product + recovery checkpoint - September 28, 2026
 
 The canonical catalog is **4,202 records**, with **4,202 deep-researched** and **4,143 pictured**. The remaining exact-photo gate is now **59 researched-photo-pending**, down from the earlier 77-record snapshot.
