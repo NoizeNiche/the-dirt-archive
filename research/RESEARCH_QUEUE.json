@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-28T09:50:25.409347+00:00",
+  "generated_at": "2026-09-28T09:50:54.183704+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,8 +10,8 @@
     "pictured": 3861,
     "complete": 3861,
     "research_pending": 0,
-    "deep_research_pending": 93,
-    "deep_researched": 4113,
+    "deep_research_pending": 92,
+    "deep_researched": 4114,
     "surface_ready": 4206
   },
   "next_target": {
@@ -34,13 +34,6 @@
       "pedal": "Ears Come To Die (historical limited-edition Fuzz Lab)",
       "catalog_type": "Fuzz",
       "research_record": "./research/pedals/Mask Audio Electronics/Ears Come To Die (historical limited-edition Fuzz Lab).md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Maxon / Nisshin Onpa",
-      "pedal": "OOD-9 Organic Overdrive",
-      "catalog_type": "Overdrive",
-      "research_record": "./research/pedals/Maxon / Nisshin Onpa/OOD-9 Organic Overdrive.md",
       "research_level": "surface"
     },
     {
@@ -195,6 +188,13 @@
       "pedal": "Barbeque Fuzz",
       "catalog_type": "Fuzz",
       "research_record": "./research/pedals/Mr. Black/Barbeque Fuzz.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Mr. Black",
+      "pedal": "Jalapeño",
+      "catalog_type": "Overdrive",
+      "research_record": "./research/pedals/Mr. Black/Jalapeño.md",
       "research_level": "surface"
     }
   ]
