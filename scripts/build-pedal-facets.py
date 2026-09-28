@@ -17,6 +17,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 INDEX = ROOT / "research/PEDAL_INDEX.json"
 OUTPUT = ROOT / "research/PEDAL_FACETS.json"
+IDENTITY_ALIASES = ROOT / "research/PEDAL_IDENTITY_ALIASES.csv"
 
 TRANSISTOR_LABELS = (
     "Technology",
@@ -141,6 +142,21 @@ def build() -> dict:
     }
 
     records: dict[str, dict[str, list[str]]] = {}
+    aliases_by_key: dict[tuple[str, str], list[str]] = {}
+    if IDENTITY_ALIASES.is_file():
+        import csv
+        with IDENTITY_ALIASES.open(newline="", encoding="utf-8") as handle:
+            for row in csv.DictReader(handle):
+                if str(row.get("Status") or "").strip().upper() != "CONFIRMED":
+                    continue
+                key = (
+                    str(row.get("Builder") or "").strip(),
+                    str(row.get("Canonical Pedal") or "").strip(),
+                )
+                alias = str(row.get("Alias Pedal") or "").strip()
+                if key[0] and key[1] and alias:
+                    aliases_by_key.setdefault(key, []).append(alias)
+
     tracked = subprocess.run(
         ["git", "ls-tree", "-r", "--name-only", "HEAD", "--", "research/pedals"],
         cwd=ROOT,
@@ -219,16 +235,12 @@ def build() -> dict:
                 if item not in power:
                     power.append(item)
 
-        search_text = " ".join(
-            value.strip()
-            for value in (
-                labelled_values(
-                    identity_section,
-                    ("Identity", "Archive parent", "Catalog type"),
-                )
-            )
-            if value.strip()
-        ).lower()
+        aliases = list(dict.fromkeys(aliases_by_key.get(key_tuple, [])))
+        search_values = labelled_values(
+            identity_section,
+            ("Identity", "Archive parent", "Catalog type"),
+        ) + aliases
+        search_text = " ".join(value.strip() for value in search_values if value.strip()).lower()
 
         if not transistor and not clipping and not search_text:
             continue
@@ -238,6 +250,7 @@ def build() -> dict:
             **({"transistor": transistor} if transistor else {}),
             **({"clipping": clipping} if clipping else {}),
             **({"power": power} if power else {}),
+            **({"aliases": aliases} if aliases else {}),
             **({"search": search_text} if search_text else {}),
         }
 
