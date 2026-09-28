@@ -1,2 +1,2 @@
-Photo population pass — prioritized candidate ordering — 2026-09-28T06:24:00-07:00
-Use exact manufacturer pages first, then verified exact secondary sources. Prefer highest-quality exact image candidates before attempting fallbacks.
+Small prioritized photo pass — 2026-09-28T08:20:00-07:00
+Use the new candidate scoring and 50-record rotation. Recover exact pedal images from manufacturer sources first, then verified exact-model secondary sources.
