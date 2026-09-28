@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-28T04:22:55.515921+00:00",
+  "generated_at": "2026-09-28T04:23:30.906883+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,25 +10,18 @@
     "pictured": 3639,
     "complete": 3639,
     "research_pending": 0,
-    "deep_research_pending": 202,
-    "deep_researched": 4004,
+    "deep_research_pending": 201,
+    "deep_researched": 4005,
     "surface_ready": 4206
   },
   "next_target": {
     "builder": "Fjord Fuzz",
-    "pedal": "Bufo",
+    "pedal": "Fjord-Fuzz Super-Fuzz",
     "catalog_type": "",
-    "research_record": "./research/pedals/Fjord Fuzz/Bufo.md",
+    "research_record": "./research/pedals/Fjord Fuzz/Fjord-Fuzz Super-Fuzz.md",
     "research_level": "surface"
   },
   "working_set": [
-    {
-      "builder": "Fjord Fuzz",
-      "pedal": "Bufo",
-      "catalog_type": "",
-      "research_record": "./research/pedals/Fjord Fuzz/Bufo.md",
-      "research_level": "surface"
-    },
     {
       "builder": "Fjord Fuzz",
       "pedal": "Fjord-Fuzz Super-Fuzz",
@@ -195,6 +188,13 @@
       "pedal": "Shred II — high-gain dirt product",
       "catalog_type": "",
       "research_record": "./research/pedals/KHDK Electronics/Shred II — high-gain dirt product.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "KHDK Electronics",
+      "pedal": "Unicorn Blood II — octave fuzz",
+      "catalog_type": "",
+      "research_record": "./research/pedals/KHDK Electronics/Unicorn Blood II — octave fuzz.md",
       "research_level": "surface"
     }
   ]
