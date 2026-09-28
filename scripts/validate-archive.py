@@ -440,6 +440,8 @@ def main():
         raise SystemExit("Photo cache workflow batch limit is not the optimized 120-record window.")
     if 'PHOTO_BROWSER_RECOVERY_DEADLINE_MS: "75000"' not in cache_workflow:
         raise SystemExit("Photo cache workflow recovery deadline is not the optimized 75-second window.")
+    if "cache: 'no-cache'" not in CORE.read_text(encoding="utf-8"):
+        raise SystemExit("Catalog/facet fetches are not using revalidating browser caches.")
     cache_script = (ROOT / "scripts/cache-pedal-images.py").read_text(encoding="utf-8")
     photo_cache_script = (ROOT / "scripts/browser-photo-cache.mjs").read_text(encoding="utf-8")
     if "directImageOverride" not in photo_cache_script or "candidates.filter(candidate => candidate.directImageOverride)" not in photo_cache_script:
