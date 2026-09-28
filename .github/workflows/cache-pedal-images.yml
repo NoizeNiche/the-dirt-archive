@@ -161,7 +161,7 @@ jobs:
           # on a race we rebuild them from the newest main while preserving the
           # verified binary photo batch from this cache commit.
           for attempt in 1 2 3 4 5; do
-            if git push; then
+            if timeout 30s env GIT_TERMINAL_PROMPT=0 git push; then
               if git diff-tree --no-commit-id --name-only -r HEAD | grep -Eq '^(assets/|research/PEDAL_INDEX\\.json)'; then
                 echo "Public photo/catalog files changed; dispatching Pages deployment."
                 published_sha="$(git rev-parse HEAD)"
