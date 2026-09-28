@@ -21,3 +21,11 @@ The Dirt Archive currently catalogs **HG-5 Modern High Gain** by **NUX Audio / N
 ## Deep research
 - **Status:** Pending
 - Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+
+## Deep research verification
+- Effects Database identifies the **HG-5 Modern High Gain** as a MOOER/NUX-era high-gain distortion design with three gain stages.
+- The admitted documentation describes a fully discrete circuit, FET-based tube-amplifier simulation, and an active midrange EQ section.
+- These statements are limited to the exact model page and are not generalized to the later HG-6 design.
+
+## Verification source set
+1. Effects Database — NUX HG-5 Modern High Gain: https://www.effectsdatabase.com/model/nux/hg5
