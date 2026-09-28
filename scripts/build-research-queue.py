@@ -38,6 +38,22 @@ def main():
 
     tracker = {(r.get("Builder"), r.get("Pedal")): r for r in rows}
 
+    # Exact source overrides are a stronger operational signal than raw
+    # alphabetical order: they mean the research lane already has model-specific
+    # material queued and can spend its limited worker budget on promotion rather
+    # than rediscovery. Keep ordering deterministic within each tier.
+    source_override_counts = {}
+    source_path = Path("research/RESEARCH_SOURCE_OVERRIDES.csv")
+    if source_path.is_file():
+        with source_path.open(newline="", encoding="utf-8") as handle:
+            for source_row in csv.DictReader(handle):
+                builder = str(source_row.get("Builder") or "").strip().casefold()
+                pedal = str(source_row.get("Pedal") or "").strip().casefold()
+                url = str(source_row.get("Source URL") or "").strip()
+                if builder and pedal and url:
+                    key = (builder, pedal)
+                    source_override_counts[key] = source_override_counts.get(key, 0) + 1
+
     researched = 0
     pictured = 0
     complete = 0
@@ -91,6 +107,20 @@ def main():
             )
 
     deep_research_pending = research_pending + deep_research_pending
+    deep_research_pending.sort(
+        key=lambda item: (
+            0 if source_override_counts.get(
+                (str(item.get("builder") or "").strip().casefold(),
+                 str(item.get("pedal") or "").strip().casefold())
+            ) else 1,
+            -source_override_counts.get(
+                (str(item.get("builder") or "").strip().casefold(),
+                 str(item.get("pedal") or "").strip().casefold()), 0
+            ),
+            str(item.get("builder") or "").casefold(),
+            str(item.get("pedal") or "").casefold(),
+        )
+    )
     next_target = deep_research_pending[0] if deep_research_pending else None
 
     queue = {
