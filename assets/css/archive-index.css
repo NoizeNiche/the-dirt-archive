@@ -479,17 +479,19 @@ main{padding:24px 0 72px}
   width:100%;
   height:100%;
   place-items:center;
+  align-content:center;
+  gap:6px;
   padding:18px;
-  color:#97928a;
+  color:#79746c;
   background:
     linear-gradient(135deg,rgba(0,0,0,.025) 25%,transparent 25%) 0 0/12px 12px,
     #eeebe3;
-  font-size:.62rem;
-  font-weight:950;
-  letter-spacing:.09em;
   text-align:center;
   text-transform:uppercase;
 }
+.placeholderEyebrow{font-size:.47rem;font-weight:950;letter-spacing:.1em;color:#97928a}
+.placeholderName{max-width:90%;font-size:.75rem;line-height:1.05;letter-spacing:-.015em;color:var(--ink)}
+.placeholderBuilder{max-width:90%;font-size:.53rem;line-height:1.15;font-weight:850;letter-spacing:.05em;color:var(--muted)}
 .cardBody{
   display:block;
   padding:12px 13px 13px;
