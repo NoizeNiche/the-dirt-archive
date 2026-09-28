@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Expires" content="0">
+<title>Builder Archive · The Dirt Archive</title>
+<meta name="description" content="Browse a pedal builder's archived overdrive, distortion, and fuzz catalog in The Dirt Archive.">
+<link rel="canonical" href="./builder.html">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="The Dirt Archive">
+<meta property="og:title" content="Builder Archive · The Dirt Archive">
+<meta property="og:description" content="Browse an archived pedal builder catalog in The Dirt Archive.">
+<link rel="stylesheet" href="./assets/css/archive-index.css">
+<link rel="stylesheet" href="./assets/css/archive-builder.css">
+</head>
+<body>
+<a class="skipLink" href="#mainContent">Skip to content</a>
+<header class="siteHeader">
+  <div class="wrap">
+    <div class="headerRow">
+      <div class="brandBlock">
+        <a class="brandLink" href="./index.html">The Dirt Archive</a>
+        <p class="kicker">BUILDER ARCHIVE</p>
+      </div>
+      <div class="headerNote"><strong id="builderHeadline">Loading builder…</strong><br>Explore the builder's dirt catalog, versions, editions, and archived photography.</div>
+    </div>
+  </div>
+</header>
+
+<main id="mainContent" class="wrap" data-page="builder">
+  <div class="boardSurface builderSurface">
+    <section class="builderHero">
+      <div class="builderHeroTop">
+        <div>
+          <a class="backLink" href="./index.html">← Back to the archive</a>
+          <div class="heroEyebrow">Builder catalog</div>
+          <h1 id="builderName">Builder</h1>
+          <p id="builderIntro">Loading archived catalog…</p>
+        </div>
+        <div class="builderActions">
+          <a class="action primary" id="builderFilterLink" href="./index.html">View in archive</a>
+          <button class="action" id="shareBuilder" type="button">Share builder</button>
+        </div>
+      </div>
+
+      <div class="builderStats" aria-label="Builder archive summary">
+        <div><strong id="statPedals">—</strong><span>cataloged records</span></div>
+        <div><strong id="statFamilies">—</strong><span>product families</span></div>
+        <div><strong id="statVersions">—</strong><span>documented versions</span></div>
+        <div><strong id="statEditions">—</strong><span>colorways & editions</span></div>
+        <div><strong id="statPhotos">—</strong><span>exact photos</span></div>
+      </div>
+
+      <div class="builderControls">
+        <div class="builderSearchWrap">
+          <span class="searchIcon">⌕</span>
+          <input id="builderSearch" class="search" type="search" placeholder="Search this builder's catalog…" aria-label="Search this builder's catalog">
+        </div>
+        <div class="builderTypeToggle" id="builderTypeToggle" role="group" aria-label="Filter builder catalog by dirt type"></div>
+      </div>
+
+      <div class="builderMeta" id="builderMeta" aria-live="polite">Loading…</div>
+      <div class="builderGrid" id="builderGrid"></div>
+      <nav class="builderPagination" id="builderPagination" aria-label="Builder catalog pages" hidden></nav>
+    </section>
+  </div>
+</main>
+
+<footer class="siteFooter"><div class="wrap"><span>The Dirt Archive · a working census of guitar dirt</span><span><a href="./methodology.html">Methodology</a><a href="./audit.html" class="footerLink">Audit</a></span></div></footer>
+<script src="./assets/js/archive-core.js" defer></script>
+<script src="./assets/js/archive-builder.js" defer></script>
+</body>
+</html>
