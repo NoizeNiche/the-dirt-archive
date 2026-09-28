@@ -38,3 +38,11 @@ BUY THIS PEDAL US$89 I think the M-Class is the REFERENCE STANDARD in distortion
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+## Deep research verification
+- Phaez Amplification's current 2026 pedal lineup identifies **Alligator Overdrive** as a new July 2026 offering.
+- The manufacturer describes the pedal as using a Fender Twin / Blackface-style tone stack for its tonal control.
+- The current manufacturer page identifies the product as handmade by Phaez and places it within the builder's current M-Class pedal lineup.
+- Because the manufacturer page is the primary admitted source and does not provide a complete historical revision record, no additional version history is inferred.
+
+## Verification source set
+1. Phaez Amplification — Pedals: https://phaezamplification.com/pedals/
