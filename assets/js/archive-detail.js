@@ -86,7 +86,7 @@ function renderPageNav(items,currentItem=null){
 
 function renderMarkdown(md){
   const lines=md.split(/\r?\n/);
-  const hidden=new Set(['research confidence','photo','prp identity']);
+  const hidden=new Set(['research confidence','photo','prp identity','sources checked','sources']);
   let html='',inList=false,skip=false;
   const inline=s=>{
     let value=esc(s)
@@ -308,9 +308,6 @@ function renderRecordStatus(item,markdown=''){
   const statusMatch=source.match(/\*\*Deep research status:\*\*\s*([^\n]+)/i);
   const level=String(levelMatch?.[1]||item?.research_level||'').trim().toLowerCase();
   const status=String(statusMatch?.[1]||'').trim().toLowerCase();
-  const sourceSection=source.match(/##\s+Sources checked[\s\S]*?(?=\n##\s|\n#\s|$)/i)?.[0]||'';
-  const sourceCount=(sourceSection.match(/https?:\/\/[^\s)]+/g)||[]).length;
-
   const researchLabel=level==='deep'?'Deep research':level==='surface'?'Surface research':'Research status unrecorded';
   const researchClass=level==='deep'?'verified':level==='surface'?'surface':'unknown';
 
@@ -324,7 +321,7 @@ function renderRecordStatus(item,markdown=''){
   target.innerHTML=
     '<span class="statusPill '+researchClass+'">'+esc(researchLabel)+'</span>'+
     (evidenceLabel?'<span class="statusPill '+(status.includes('identity conflict')?'conflict':'evidence')+'">'+esc(evidenceLabel)+'</span>':'')+
-    (sourceCount?'<span class="statusPill sourceCount">'+sourceCount+' source'+(sourceCount===1?'':'s')+'</span>':'')+
+    ''+
     '<span class="statusPill '+(hasPhoto?'photo':'photoMissing')+'">'+(hasPhoto?'Exact archive photo':'Exact local photo pending')+'</span>';
 }
 
