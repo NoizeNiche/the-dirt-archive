@@ -18,6 +18,7 @@ import json
 import re
 import subprocess
 import urllib.request
+from urllib.parse import quote
 from pathlib import Path
 
 from PIL import Image, UnidentifiedImageError
@@ -125,6 +126,36 @@ def fetch(url: str, source_page: str = "") -> bytes:
     except Exception as exc:
         last_error = exc
 
+    # Finish-line exact-image leads sometimes live behind a CDN that rejects
+    # direct requests but is still fetchable through a plain image relay.
+    # The bytes are still sourced from the curator-supplied exact image URL;
+    # the relay only changes transport.
+    proxy_urls = [
+        "https://wsrv.nl/?url=" + quote(url, safe=""),
+        "https://images.weserv.nl/?url=" + quote(url, safe=""),
+        "https://external-content.duckduckgo.com/iu/?u=" + quote(url, safe="") + "&f=1&nofb=1",
+    ]
+    for proxy_url in proxy_urls:
+        try:
+            command = [
+                "curl", "-L", "--fail", "--silent", "--show-error", "--compressed",
+                "--connect-timeout", "5", "--max-time", str(TIMEOUT),
+                "-A", USER_AGENT,
+                "-H", "Accept: image/avif,image/webp,image/apng,image/jpeg,image/png,image/*,*/*;q=0.8",
+                proxy_url,
+            ]
+            proc = subprocess.run(command, check=True, capture_output=True, timeout=TIMEOUT + 8)
+            data = proc.stdout or b""
+            if len(data) < MIN_BYTES:
+                continue
+            try:
+                validate(data)
+            except Exception:
+                continue
+            return data
+        except Exception as exc:
+            last_error = exc
+
     raise RuntimeError(str(last_error or "image request failed"))
 
 
@@ -184,8 +215,17 @@ def main() -> None:
 
         target = target_path(entry)
         if target.exists():
-            skipped += 1
-            continue
+            try:
+                validate(target.read_bytes())
+                skipped += 1
+                continue
+            except Exception:
+                # A stale/corrupt staged source must not permanently suppress
+                # recovery retries for an otherwise valid exact-image lead.
+                try:
+                    target.unlink()
+                except Exception:
+                    pass
 
         # Newest curated row wins. Older rows remain browser/cache fallbacks.
         image_url, source_page = rows[-1]
