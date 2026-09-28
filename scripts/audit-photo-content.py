@@ -97,9 +97,12 @@ def catalog_map():
             out[path] = entry
     return out
 
-def resolve_targets(mode: str):
+def resolve_targets(mode: str, shard: int = 0, shards: int = 1):
     mapped = catalog_map()
     if mode == "all":
+        items = sorted(mapped.items())
+        if shards > 1:
+            return dict(items[shard::shards])
         return mapped
     changed = []
     try:
@@ -127,21 +130,38 @@ def resolve_targets(mode: str):
     return dict(items)
 
 def ocr_text(image_path: Path) -> str:
+    """Scan likely overlay zones rather than OCRing the entire product photo.
+
+    Donation/platform overlays typically live along the top or bottom edges.
+    Keeping OCR to compact edge bands makes exhaustive archive sweeps practical
+    while retaining the high-confidence phrases that trigger quarantine.
+    """
     try:
         import pytesseract
         with Image.open(image_path) as image:
             image = image.convert("RGB")
-            image.thumbnail((900, 900), Image.Resampling.LANCZOS)
-            text = norm(pytesseract.image_to_string(image, config="--psm 11"))
-            if any(term in text for term in HIGH_CONFIDENCE):
-                return text
-            # Most unwanted donation/platform overlays appear at the top or
-            # bottom edge of listing screenshots. Only run a second OCR pass
-            # when the full-frame result was inconclusive.
+            image.thumbnail((620, 620), Image.Resampling.LANCZOS)
             w, h = image.size
-            edge_band = image.crop((0, max(0, int(h * 0.72)), w, h))
-            text += " " + norm(pytesseract.image_to_string(edge_band, config="--psm 11"))
-            return text
+            bands = [
+                image.crop((0, 0, w, max(1, int(h * 0.18)))),
+                image.crop((0, max(0, int(h * 0.72)), w, h)),
+            ]
+            texts = []
+            for band in bands:
+                try:
+                    value = pytesseract.image_to_string(
+                        band,
+                        config="--psm 11",
+                        timeout=3,
+                    )
+                except Exception:
+                    value = ""
+                text_value = norm(value)
+                if text_value:
+                    texts.append(text_value)
+                    if any(term in text_value for term in HIGH_CONFIDENCE):
+                        break
+            return " ".join(texts)
     except Exception:
         return ""
 
@@ -198,7 +218,11 @@ def main():
     parser.add_argument("--mode", choices=["auto","all","changed"], default="auto")
     parser.add_argument("--output", default="photo-content-audit.csv")
     parser.add_argument("--fail-high-confidence", action="store_true")
+    parser.add_argument("--shard", type=int, default=0)
+    parser.add_argument("--shards", type=int, default=1)
     args = parser.parse_args()
+    if args.shards < 1 or args.shard < 0 or args.shard >= args.shards:
+        raise SystemExit("--shard must be between 0 and --shards-1")
 
     mode = "all" if args.mode == "all" else ("changed" if args.mode == "changed" else "auto")
     if os.environ.get("PHOTO_CONTENT_AUDIT_MODE") in {"all","changed"}:
@@ -217,7 +241,7 @@ def main():
 
     rules = load_source_blocklist()
     bad_hashes = known_bad_image_hashes(rules)
-    targets = resolve_targets(mode)
+    targets = resolve_targets(mode, args.shard, args.shards)
     rows = []
     high = []
     ordered_targets = sorted(targets.items())
@@ -266,7 +290,7 @@ def main():
     write_csv(rows, output)
     suspects = [row for row in rows if row["Status"] == "SUSPECT"]
     bad_hash_count = sum("known_blocked_image_hash" in row["Flags"] for row in rows)
-    print(f"Photo content audit mode={mode}; checked={len(rows)}; suspects={len(suspects)}; high_confidence={len(high)}; known_bad_hash_matches={bad_hash_count}")
+    print(f"Photo content audit mode={mode}; shard={args.shard}/{args.shards}; checked={len(rows)}; suspects={len(suspects)}; high_confidence={len(high)}; known_bad_hash_matches={bad_hash_count}")
     for builder, pedal, image, flags in high:
         print(f"HIGH-CONFIDENCE PHOTO CONTAMINATION: {builder} / {pedal} -> {image} :: {', '.join(flags)}")
     if suspects:
