@@ -14,6 +14,8 @@ on:
       - 'methodology.html'
       - 'audit.html'
       - '404.html'
+      - 'sitemap.xml'
+      - 'robots.txt'
       - 'assets/**'
       - 'research/PEDAL_INDEX.json'
       - 'research/PEDAL_FACETS.json'
