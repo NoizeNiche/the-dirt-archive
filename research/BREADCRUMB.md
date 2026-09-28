@@ -1,3 +1,16 @@
+## Synthetic 100-user usability checkpoint - September 28, 2026
+
+Ran a 100-session synthetic usability pass across 20 visitor archetypes and used the recurring friction points to drive the next viewer-hardening batch. The exercise is explicitly synthetic and is not a substitute for real visitor analytics.
+
+Implemented from the pass:
+- Keyboard-accessible search suggestions with match reasons.
+- Direct recovery controls for zero-result searches.
+- Workbench launcher now surfaces saved and compare state together.
+- Comparison columns now have individual Remove controls.
+- Comparison-link copying reads the current selection at click time.
+
+Detailed matrix: research/100_USER_SIMULATION.md.
+
 ## Beetronics / Behringer deep-research checkpoint — September 27, 2026
 
 Continued historical catalog research added verified exact-model material for:
