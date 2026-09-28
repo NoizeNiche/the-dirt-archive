@@ -515,7 +515,6 @@ function render(){
   wireTableActions();
   renderPagination(totalPages);
   wireCardActions();
-  wireTableActions();
   renderWorkbench();
   if(normalized)syncUrl(true);
 }
