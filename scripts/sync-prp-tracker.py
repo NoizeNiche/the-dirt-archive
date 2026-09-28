@@ -51,13 +51,16 @@ def main():
     changed = 0
     research_preserved = 0
     stale_rows = 0
+    added_rows = 0
     valid_rows = []
+    seen_keys = set()
     for row in rows:
         key = (row.get("Builder"), row.get("Pedal"))
         pedal = by_key.get(key)
         if pedal is None:
             stale_rows += 1
             continue
+        seen_keys.add(key)
 
         tracker_record = row.get("Research Record") or ""
         catalog_record = pedal.get("research_record") or ""
@@ -91,8 +94,40 @@ def main():
                 changed += 1
         valid_rows.append(row)
 
+    # The canonical catalog can grow faster than the tracker. Add every catalog
+    # identity that has no tracker row so research/photo counters remain aligned
+    # with the full 4,206-record census. Existing rows remain preserve-first.
+    for pedal in pedals:
+        key = (pedal.get("company"), pedal.get("pedal"))
+        if key in seen_keys:
+            continue
+        types = pedal.get("types")
+        if isinstance(types, list):
+            catalog_type = " / ".join(str(value) for value in types if str(value).strip())
+        else:
+            catalog_type = str(pedal.get("type") or pedal.get("dirt_type") or "").strip()
+        catalog_record = pedal.get("research_record") or ""
+        if catalog_record and not record_exists(catalog_record):
+            raise SystemExit(
+                f"Catalog research record file is missing while creating tracker row: {key} -> {catalog_record}"
+            )
+        info_done = bool(catalog_record)
+        picture_done = image_is_usable(pedal.get("image"))
+        valid_rows.append({
+            "Builder": pedal.get("company") or "",
+            "Pedal": pedal.get("pedal") or "",
+            "Catalog Type": catalog_type,
+            "Pedal Info": "DONE" if info_done else "NEEDED",
+            "Picture": "DONE" if picture_done else "NEEDED",
+            "PRP Complete": "DONE" if info_done and picture_done else "NEEDED",
+            "Research Record": catalog_record,
+        })
+        seen_keys.add(key)
+        added_rows += 1
+
     if stale_rows:
         changed += stale_rows
+    changed += added_rows
 
     with TRACKER_PATH.open("w", newline="", encoding="utf-8") as handle:
         writer = csv.DictWriter(handle, fieldnames=fieldnames, lineterminator="\n")
@@ -101,6 +136,7 @@ def main():
 
     print(
         f"PRP tracker synchronized safely: {changed} changes across {len(valid_rows)} valid rows; "
+        f"{added_rows} missing catalog identities added; "
         f"{research_preserved} existing research links preserved against stale catalog links; "
         f"{stale_rows} stale catalog identities removed."
     )
