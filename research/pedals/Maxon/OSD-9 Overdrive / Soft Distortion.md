@@ -8,6 +8,9 @@
 - **Deep research status:** Verified
 - **Identity:** Maxon OSD-9 Overdrive/Soft Distortion, the modern reissue of the OD880.
 
+## Deep research verification
+- **Exact-model evidence:** Verified against the cited manufacturer documentation in this record.
+
 ## What this pedal is
 Maxon describes the OSD-9 as a reissue of its first overdrive, the OD880, originally released circa 1977. The manufacturer describes it as a low-gain, natural overdrive with a tube-amp-like response and booster use. [1]
 
