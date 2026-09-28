@@ -33,6 +33,7 @@ PHOTO_CONTENT_AUDIT = ROOT / "scripts/audit-photo-content.py"
 PHOTO_CONTENT_WORKFLOW = ROOT / ".github/workflows/photo-content-audit.yml"
 PHOTO_SOURCE_BLOCKLIST = ROOT / "research/PHOTO_SOURCE_BLOCKLIST.json"
 BUILDER = ROOT / "builder.html"
+BUILDERS = ROOT / "builders.html"
 LEGACY = ROOT / "pedal.html"
 DEPLOY = ROOT / ".github/workflows/deploy-pages.yml"
 STATIC_SERVER = ROOT / "scripts/serve-static.js"
@@ -86,7 +87,7 @@ def forbidden_photo_provenance(value):
     return False
 
 def main():
-    required = (INDEX, MANIFEST, TRACKER, PHOTO_REVIEW_QUEUE, PHOTO_BACKLOG, PHOTO_SOURCE_OVERRIDES, PHOTO_DIRECT_IMAGE_OVERRIDES, RESEARCH_SOURCE_OVERRIDES, APPLY_PHOTO_SOURCE_OVERRIDES, CORE, INDEX_JS, DETAIL_JS, DEPLOY_AUDIT, LIVE_AUDIT, STATIC_SERVER, PHOTO_CACHE, FACET_BUILDER, HOME, DETAIL, COMPARE, BUILDER, LEGACY, PHOTO_CONTENT_AUDIT, PHOTO_CONTENT_WORKFLOW, PHOTO_SOURCE_BLOCKLIST, DEPLOY, SITEMAP, ROBOTS, SITEMAP_BUILDER)
+    required = (INDEX, MANIFEST, TRACKER, PHOTO_REVIEW_QUEUE, PHOTO_BACKLOG, PHOTO_SOURCE_OVERRIDES, PHOTO_DIRECT_IMAGE_OVERRIDES, RESEARCH_SOURCE_OVERRIDES, APPLY_PHOTO_SOURCE_OVERRIDES, CORE, INDEX_JS, DETAIL_JS, DEPLOY_AUDIT, LIVE_AUDIT, STATIC_SERVER, PHOTO_CACHE, FACET_BUILDER, HOME, DETAIL, COMPARE, BUILDER, BUILDERS, LEGACY, PHOTO_CONTENT_AUDIT, PHOTO_CONTENT_WORKFLOW, PHOTO_SOURCE_BLOCKLIST, DEPLOY, SITEMAP, ROBOTS, SITEMAP_BUILDER)
     missing = [p.relative_to(ROOT).as_posix() for p in required if not p.is_file()]
     if missing:
         raise SystemExit("Missing required archive files: " + ", ".join(missing))
@@ -108,6 +109,7 @@ def main():
         "https://noizeniche.github.io/the-dirt-archive/methodology.html",
         "https://noizeniche.github.io/the-dirt-archive/audit.html",
         "https://noizeniche.github.io/the-dirt-archive/compare.html",
+        "https://noizeniche.github.io/the-dirt-archive/builders.html",
     }
     robots_text = ROBOTS.read_text(encoding="utf-8")
     if "Sitemap: https://noizeniche.github.io/the-dirt-archive/sitemap.xml" not in robots_text:
@@ -543,6 +545,9 @@ def main():
     builder_text = BUILDER.read_text(encoding="utf-8")
     if "./assets/js/archive-builder.js" not in builder_text or "./assets/css/archive-builder.css" not in builder_text:
         raise SystemExit("Builder archive page is missing its required runtime assets.")
+    builders_text = (ROOT / "builders.html").read_text(encoding="utf-8")
+    if "./assets/js/archive-builders.js" not in builders_text or "./assets/css/archive-builders.css" not in builders_text:
+        raise SystemExit("Builder directory page is missing its required runtime assets.")
     if "const canonicalUrl=new URL('./pedal-detail.html',location.href)" not in detail_js:
         raise SystemExit("Pedal detail canonical URL is not normalized to the base record identity.")
     if "pedalStructuredData" not in detail_js:
