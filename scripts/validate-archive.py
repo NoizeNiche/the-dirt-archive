@@ -158,6 +158,18 @@ def main():
         overrides = list(csv.DictReader(handle))
     with RESEARCH_SOURCE_OVERRIDES.open(newline="", encoding="utf-8") as handle:
         research_overrides = list(csv.DictReader(handle))
+
+    for label, rows in (
+        ("PHOTO_SOURCE_OVERRIDES.csv", overrides),
+        ("RESEARCH_SOURCE_OVERRIDES.csv", research_overrides),
+    ):
+        for row in rows:
+            builder = (row.get("Builder") or "").strip()
+            pedal = (row.get("Pedal") or "").strip()
+            if builder and pedal and (builder, pedal) not in catalog_by_key:
+                raise SystemExit(
+                    f"{label} contains an orphaned catalog identity: {builder} / {pedal}"
+                )
     if IDENTITY_ALIASES.is_file():
         with IDENTITY_ALIASES.open(newline="", encoding="utf-8") as handle:
             identity_aliases = list(csv.DictReader(handle))
