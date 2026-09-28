@@ -1,0 +1,19 @@
+{
+  "builder": "Marshall Amplification",
+  "pedal": "Shredmaster Vintage Reissue",
+  "original_builder": "Marshall Amplification",
+  "original_pedal": "Shredmaster Vintage Reissue",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 1,
+  "sources": [
+    {
+      "url": "https://www.marshall.com/in/en/support/amps/support-for-shredmaster-vintage-reissue-pedal",
+      "title": "Support for Shredmaster Vintage Reissue Pedal | Marshall.com",
+      "h1": "Marshall Amplification \u2014 Shredmaster Vintage Reissue",
+      "excerpt": "Support for Shredmaster Vintage Reissue Pedal | Marshall.com Skip navigation Business solutions Membership Find a retailer Outlet Amps Amps Speakers Speakers Headphones Headphones Drums Drums Backstage Backstage Marshall Records Marshall Records Hendrix Hendrix Skip to chat Support Support Amps Support for Shredmaster Vintage Reissue Pedal Powered by either a 9V battery or 9V DC power adaptor, the Shredmaster Vintage Reissue pedal authentically replicates the original Shredmaster pedal sound. Quick assists Documents Warranty and Repairs Learn the basics Follow these steps to set up and start using your Shredmaster Vintage Reissue Pedal PRODUCT DETAILS INPUTS/OUTPUTS 1 x 1/4&quot; jack input and output MATERIAL Steel chassis POWER 9V battery or a 9V DC power adaptor (not included) CONTROLS Adjustable gain, bass, contour, treble and volume controls PRODUCT DETAILS Documents User Manual (opens in a new window) Declaration of Conformity (opens in a new window) Learn Support Support Basic EQ Support Support Wider EQ Support Support Reverb Support Support Amps technologies Support Support Heads and Combos Support Support Modulation Support Support Delay Beginners Beginners How to choose your first guitar amp: beginner buying guide <source type=\"image/jpeg\" sizes=\"auto, (min-width: 769px) 33\n- **Builder:** Marshall Amplification\n- **Pedal:** Shredmaster Vintage Reissue\n- **Catalog type:** Distortion\n- **Research level:** Surface\n- **Deep research status:** Pending\n- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.\n\nThe Dirt Archive currently catalogs **Shredmaster Vintage Reissue** by **Marshall Amplification** as a **Distortion** pedal. This statement is limited to the archive\u2019s catalog classification. Deeper technical, historical, and sonic details remain pending verification.\n\n- No source page is recorded in the current catalog metadata.\n\n- **Archive photo:** No verified local photo is currently archived.\n- Photo provenance and validation are handled separately from this surface research record.\n\n- **Status:** Pending\n- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive\u2019s research foreman.",
+      "host": "www.marshall.com",
+      "source_kind": "catalog_verified"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}

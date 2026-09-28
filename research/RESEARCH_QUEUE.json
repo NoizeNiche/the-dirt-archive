@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-28T09:24:06.115972+00:00",
+  "generated_at": "2026-09-28T09:26:57.738849+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,8 +10,8 @@
     "pictured": 3851,
     "complete": 3851,
     "research_pending": 0,
-    "deep_research_pending": 128,
-    "deep_researched": 4078,
+    "deep_research_pending": 121,
+    "deep_researched": 4085,
     "surface_ready": 4206
   },
   "next_target": {
@@ -34,41 +34,6 @@
       "pedal": "Super Phat Mod Mini",
       "catalog_type": "Distortion / Overdrive",
       "research_record": "./research/pedals/Keeley Electronics/Super Phat Mod Mini.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Marshall Amplification",
-      "pedal": "Guv'nor Vintage Reissue Pedal",
-      "catalog_type": "Overdrive",
-      "research_record": "./research/pedals/Marshall Amplification/Guv'nor Vintage Reissue Pedal.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Marshall Amplification",
-      "pedal": "JCM800 Overdrive Pedal",
-      "catalog_type": "Overdrive",
-      "research_record": "./research/pedals/Marshall Amplification/JCM800 Overdrive Pedal.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Marshall Amplification",
-      "pedal": "JCM900 Overdrive Pedal",
-      "catalog_type": "Overdrive",
-      "research_record": "./research/pedals/Marshall Amplification/JCM900 Overdrive Pedal.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Marshall Amplification",
-      "pedal": "Shredmaster Vintage Reissue",
-      "catalog_type": "Distortion",
-      "research_record": "./research/pedals/Marshall Amplification/Shredmaster Vintage Reissue.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Marshall Amplification",
-      "pedal": "Shredmaster Vintage Reissue Pedal",
-      "catalog_type": "Distortion",
-      "research_record": "./research/pedals/Marshall Amplification/Shredmaster Vintage Reissue Pedal.md",
       "research_level": "surface"
     },
     {
@@ -101,23 +66,9 @@
     },
     {
       "builder": "Maxon",
-      "pedal": "OSD-9 Overdrive / Soft Distortion",
-      "catalog_type": "Overdrive",
-      "research_record": "./research/pedals/Maxon/OSD-9 Overdrive / Soft Distortion.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Maxon",
       "pedal": "ROD881 Real Overdrive / Distortion",
       "catalog_type": "Distortion / Overdrive",
       "research_record": "./research/pedals/Maxon/ROD881 Real Overdrive / Distortion.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Maxon",
-      "pedal": "SD-9 Sonic Distortion / Overdrive",
-      "catalog_type": "Overdrive",
-      "research_record": "./research/pedals/Maxon/SD-9 Sonic Distortion / Overdrive.md",
       "research_level": "surface"
     },
     {
@@ -195,6 +146,55 @@
       "pedal": "TOD-9 True Tube Overdrive",
       "catalog_type": "Overdrive",
       "research_record": "./research/pedals/Maxon / Nisshin Onpa/TOD-9 True Tube Overdrive.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "MI Audio / MI Effects",
+      "pedal": "Blue Boy Deluxe",
+      "catalog_type": "Overdrive",
+      "research_record": "./research/pedals/MI Audio / MI Effects/Blue Boy Deluxe.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "MI Audio / MI Effects",
+      "pedal": "Classic Distortion",
+      "catalog_type": "Distortion",
+      "research_record": "./research/pedals/MI Audio / MI Effects/Classic Distortion.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "MI Audio / MI Effects",
+      "pedal": "Cross Over Drive",
+      "catalog_type": "Overdrive",
+      "research_record": "./research/pedals/MI Audio / MI Effects/Cross Over Drive.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "MI Audio / MI Effects",
+      "pedal": "Crunch Box",
+      "catalog_type": "Distortion",
+      "research_record": "./research/pedals/MI Audio / MI Effects/Crunch Box.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "MI Audio / MI Effects",
+      "pedal": "GI Fuzz",
+      "catalog_type": "Fuzz",
+      "research_record": "./research/pedals/MI Audio / MI Effects/GI Fuzz.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "MI Audio / MI Effects",
+      "pedal": "Megalith Delta",
+      "catalog_type": "Distortion",
+      "research_record": "./research/pedals/MI Audio / MI Effects/Megalith Delta.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "MI Audio / MI Effects",
+      "pedal": "Neo Fuzz",
+      "catalog_type": "Fuzz",
+      "research_record": "./research/pedals/MI Audio / MI Effects/Neo Fuzz.md",
       "research_level": "surface"
     }
   ]

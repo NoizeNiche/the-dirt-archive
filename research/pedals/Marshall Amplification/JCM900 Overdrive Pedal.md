@@ -1,23 +1,37 @@
 # Marshall Amplification — JCM900 Overdrive Pedal
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** JCM900 Overdrive Pedal
 - **Builder:** Marshall Amplification
-- **Pedal:** JCM900 Overdrive Pedal
 - **Catalog type:** Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Marshall Amplification's JCM900 Overdrive Pedal.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **JCM900 Overdrive Pedal** by **Marshall Amplification** as a **Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+JCM900 Overdrive Pedal - Guitar pedals
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- No specific factory colorway information was established in the verified evidence packet.
+
+## Versions and factory options
+- No distinct factory revision was established in the verified evidence packet.
+
+## Version changes
+- No specific factory version changes were established in the verified evidence packet.
+
+## Transistor
+- Exact production transistor/device information was not established in the verified evidence packet.
+- **Exact transistor/device:** Unknown.
+
+## Diode
+- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- **Exact part:** Unknown.
+
+## Sound
+JCM900 Overdrive Pedal - Guitar pedals
+The Dirt Archive currently catalogs **JCM900 Overdrive Pedal** by **Marshall Amplification** as a **Overdrive** pedal.
+
+## Sources checked
+1. JCM900 Overdrive Pedal - Guitar pedals | Marshall.com: https://www.marshall.com/us/en/product/jcm900-overdrive-pedal?pid=1008156
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

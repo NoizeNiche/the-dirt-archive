@@ -43558,8 +43558,8 @@
       "image": "./assets/pedals/marshall-amplification/guv-nor-vintage-reissue-pedal/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Marshall Amplification/Guv'nor Vintage Reissue Pedal.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Marshall Amplification",
@@ -43583,8 +43583,8 @@
       "image": "./assets/pedals/marshall-amplification/jcm800-overdrive-pedal/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Marshall Amplification/JCM800 Overdrive Pedal.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Marshall Amplification",
@@ -43595,8 +43595,8 @@
       "image": "./assets/pedals/marshall-amplification/jcm900-overdrive-pedal/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Marshall Amplification/JCM900 Overdrive Pedal.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Marshall Amplification",
@@ -43619,8 +43619,8 @@
       "image": "./assets/pedals/marshall-amplification/shredmaster-vintage-reissue/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Marshall Amplification/Shredmaster Vintage Reissue.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Marshall Amplification",
@@ -43631,8 +43631,8 @@
       "image": "./assets/pedals/marshall-amplification/shredmaster-vintage-reissue-pedal/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Marshall Amplification/Shredmaster Vintage Reissue Pedal.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Marshall Amplification",
@@ -44212,8 +44212,8 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Maxon/OSD-9 Overdrive / Soft Distortion.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING"
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "Maxon",
@@ -44411,8 +44411,8 @@
       "image": "./assets/pedals/maxon/sd-9-sonic-distortion-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Maxon/SD-9 Sonic Distortion / Overdrive.md",
-      "research_level": "surface",
-      "deep_research_status": "PENDING",
+      "research_level": "deep",
+      "deep_research_status": "VERIFIED",
       "image_source_url": "https://rvb-img.reverb.com/i/s--ccJSG5e1--/gravity=auto,quality=medium-low,width=200,height=200,format=jpeg/xzg5qnbqdck89rbano1z.jpg",
       "image_source_page": "https://reverb.com/item/96664606-maxon-sd-9-sonic-distortion-guitar-effects-pedal"
     },
