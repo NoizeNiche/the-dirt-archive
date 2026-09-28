@@ -59,6 +59,18 @@ Main-page cards represent public model/version entries only. Variation records s
 
 Search should eventually be able to match useful variation names back to their parent model without displaying the variation as a second card.
 
+
+## Browse modes
+
+The main archive supports two synchronized public browse modes:
+
+- **Grid** for visual recognition and fast scanning of archived pedal photography.
+- **Table** for dense research-oriented scanning across Builder, exact pedal, dirt type, version, documented technical/power data, photo state, research state, and workbench actions.
+
+Both modes use the same search, dirt-type, builder, technical, coverage, pagination, and URL state. Switching modes does not change the underlying result set.
+
+The table view is descriptive and intentionally omits unsupported or inferred technical values. Missing values remain explicitly undocumented.
+
 ## Individual pedal page
 
 The normal pedal page stays approachable:
