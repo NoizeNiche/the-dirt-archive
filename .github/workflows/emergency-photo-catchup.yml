@@ -56,6 +56,9 @@ jobs:
 
       - name: Apply curated exact photo leads
         run: python scripts/apply-photo-source-overrides.py
+      - name: Clear known-invalid photo state
+        run: python scripts/reset-photo-recovery-targets.py
+
 
       - name: Recover a bounded photo batch
         env:
