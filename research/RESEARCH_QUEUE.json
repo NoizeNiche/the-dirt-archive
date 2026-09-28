@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-28T09:31:54.658889+00:00",
+  "generated_at": "2026-09-28T09:32:17.592167+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,8 +10,8 @@
     "pictured": 3851,
     "complete": 3851,
     "research_pending": 0,
-    "deep_research_pending": 115,
-    "deep_researched": 4091,
+    "deep_research_pending": 114,
+    "deep_researched": 4092,
     "surface_ready": 4206
   },
   "next_target": {
@@ -62,13 +62,6 @@
       "pedal": "OD-9",
       "catalog_type": "Overdrive",
       "research_record": "./research/pedals/Maxon / Nisshin Onpa/OD-9.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "Maxon / Nisshin Onpa",
-      "pedal": "OD-9 Pro+",
-      "catalog_type": "Overdrive",
-      "research_record": "./research/pedals/Maxon / Nisshin Onpa/OD-9 Pro+.md",
       "research_level": "surface"
     },
     {
@@ -195,6 +188,13 @@
       "pedal": "Rounder (historical/discontinued)",
       "catalog_type": "Fuzz",
       "research_record": "./research/pedals/Mojo Hand FX/Rounder (historical/discontinued).md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "Mojo Hand FX",
+      "pedal": "Superlative (historical/discontinued)",
+      "catalog_type": "Overdrive",
+      "research_record": "./research/pedals/Mojo Hand FX/Superlative (historical/discontinued).md",
       "research_level": "surface"
     }
   ]
