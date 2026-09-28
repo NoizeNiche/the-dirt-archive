@@ -4,39 +4,37 @@
 - **Archive parent:** SM-9 Pro+
 - **Builder:** Maxon
 - **Catalog type:** Distortion / Overdrive
-- **Identity:** Maxon's SM-9 Pro+.
+- **Identity:** Maxon SM-9 Pro+ Super Metal.
 
 ## What this pedal is
-Maxon's SM-9 Pro+ is cataloged as a distortion / overdrive pedal.
+The SM-9 Pro+ is a high-gain distortion pedal from Maxon's 9-Series family, marketed as a Super Metal model. The design includes a gain-dependent midrange boost and supports 18V operation for a more open response.
 
 ## Colorways
-- No specific factory colorway information was established in the verified evidence packet.
+- Standard Maxon 9-Series enclosure/graphics.
+- No distinct factory colorway split established for this record.
 
 ## Versions and factory options
-- No distinct factory revision was established in the verified evidence packet.
+- **SM-9 Pro+:** exact cataloged model.
+- Gain control simultaneously raises the **1 kHz midrange band by up to 20 dB** as gain is increased.
+- The pedal supports **18V** operation; the stabilized higher-voltage mode provides improved frequency response and less compression than 9V operation.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- No separate production revision established from the sources reviewed.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
-- **Exact transistor/device:** Unknown.
+- **Exact production transistor/device:** Not established in the reviewed documentation.
 
 ## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
-- **Exact part:** Unknown.
+- **Exact clipping/rectification diode:** Not established in the reviewed documentation.
 
 ## Sound
-Gain simultaneously boosts the 1kHz midrange band by up to 20dB as gain is increased.
-The 18V operation is stabilized, providing improved frequency response and less compression than the 9V operation.
-Be the first to review “Maxon SM-9 Pro+ Super Metal Distortion Guitar Effects Pedal” Cancel reply Your email address will not be published.
+The SM-9 Pro+ is voiced for dense, high-gain distortion with a pronounced midrange lift tied to the gain control. Its 18V operating mode is documented as opening the response and reducing compression compared with 9V operation.
 
 ## Sources checked
-1. Maxon SM-9 Pro+ Super Metal Distortion Pedal | Equipboard: https://equipboard.com/items/maxon-sm-9-plus-super-metal-distortion-pedal
-2. Maxon SM-9 Pro+ Distortion | Reverb: https://reverb.com/item/588923-maxon-sm-9-pro-distortion
-3. Maxon SM-9 Pro+ Super Metal Distortion Guitar Effects Pedal - Natural Reverb Effects Pedals That Create Dreamy Soundscapes: https://www.tonereverb.com/product/maxon-sm-9-pro-super-metal-distortion-guitar-effects-pedal/
-4. Maxon SM-9 Pro+ Super Metal Distortion Guitar Effects Pedal - Pro-Level Distortion Effects Pedals for Live and Studio Use: https://www.pedaldistort.com/product/maxon-sm-9-pro-super-metal-distortion-guitar-effects-pedal/
-5. Maxon SM-9 Pro+ Super Metal Distortion Guitar Effects Pedal | Guitar Center: https://www.guitarcenter.com/Maxon/SM-9-Pro-Plus-Super-Metal-Distortion-Guitar-Effects-Pedal-from-Nine-Series-1274115045635.gc
+1. Maxon SM-9 Pro+ exact-model reference: https://reverb.com/item/588923-maxon-sm-9-pro-distortion
+2. Maxon SM-9 Pro+ retailer reference: https://www.muziker.com/maxon-sm-9-pro-plus-super-metal
+3. Guitar Center exact-model reference: https://www.guitarcenter.com/Maxon/SM-9-Pro-Plus-Super-Metal-Distortion-Guitar-Effects-Pedal-from-Nine-Series-1274115045635.gc
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Exact-model photo lead:** exact-model Reverb, retailer and Guitar Center records.
+- **Archive status:** Local photo recovery is handled separately; only a verified local asset counts as pictured.
