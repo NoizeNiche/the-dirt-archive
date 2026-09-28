@@ -19,6 +19,24 @@
       "pattern": "(?:^|[-_.])(logo|favicon|sprite|avatar|badge|icon|social|banner|widget|placeholder|spinner)(?:[-_.]|$)",
       "reason": "Generic site artwork or UI asset, not an exact pedal photograph.",
       "severity": "hard_block"
+    },
+    {
+      "type": "url_regex",
+      "pattern": "files\\.effectsdatabase\\.com/(?:brands/thumbs|graphics/google-preferred-source)",
+      "reason": "Effects Database brand/default artwork, not an exact pedal photograph.",
+      "severity": "hard_block"
+    },
+    {
+      "type": "url_regex",
+      "pattern": "static\\.reverb-assets\\.com/.*(?:shop-brand-default|brand-default)",
+      "reason": "Reverb generic shop/brand default artwork, not an exact pedal photograph.",
+      "severity": "hard_block"
+    },
+    {
+      "type": "url_regex",
+      "pattern": "challenges\\.cloudflare\\.com/cdn-cgi/challenge-platform",
+      "reason": "Cloudflare challenge artwork, not an exact pedal photograph.",
+      "severity": "hard_block"
     }
   ]
 }
