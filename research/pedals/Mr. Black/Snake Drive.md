@@ -4,38 +4,38 @@
 - **Archive parent:** Snake Drive
 - **Builder:** Mr. Black
 - **Catalog type:** Overdrive
-- **Identity:** Mr. Black's Snake Drive.
+- **Research level:** Deep
+- **Deep research status:** Verified
+- **Identity:** Mr. Black Snake Drive.
+
+## Deep research verification
+- **Exact-model evidence:** Verified against the exact Effects Database record and an exact 2015 prototype listing.
 
 ## What this pedal is
-Black overdrive pedal Information Mr.
+Effects Database identifies the Snake Drive as an original Jack Deville design from Mr. Black, published as an overdrive pedal with a **limited run of 9 pedals**. [1]
 
-## Colorways
-- Black Snake Drive Published on September 7, 2016 Mr.
-- Black overdrive pedal Information Mr.
-- Black Overdrive to full saturation.
+## Versions and history
+- **Limited run:** 9 pedals. [1]
+- A separate Reverb listing documents a **2015 Snake Drive prototype** with a snake-skin silk-screen finish. [2]
+- The evidence does not establish a broader production revision sequence.
 
-## Versions and factory options
-- No distinct factory revision was established in the verified evidence packet.
-
-## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+## Controls
+- The verified sources establish overdrive gain/saturation behavior but do not provide a reliable complete front-panel control transcription.
+- **Exact control list:** Unresolved.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
-- **Exact transistor/device:** Unknown.
+- **Exact production transistor/device:** Unknown.
 
 ## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
-- **Exact part:** Unknown.
+- **Exact production clipping diode:** Unknown.
 
 ## Sound
-Black Snake Drive Published on September 7, 2016 Mr.
-Black overdrive pedal Information Mr.
-Black Overdrive to full saturation.
+Effects Database describes the Snake Drive as capable of moving from overdrive into full saturation. [1]
 
 ## Sources checked
-1. Mr. Black Snake Drive | Effects Database: https://www.effectsdatabase.com/model/mrblack/snakedrive
-2. Mr. Black &quot;Snake Drive&quot; Prototype 2015 - Snake Skin Silk | Reverb: https://reverb.com/item/67016816-mr-black-snake-drive-prototype-2015-snake-skin-silk-screen
+1. **Effects Database — Mr. Black Snake Drive:** https://www.effectsdatabase.com/model/mrblack/snakedrive
+2. **Reverb — Mr. Black “Snake Drive” Prototype 2015:** https://reverb.com/item/67016816-mr-black-snake-drive-prototype-2015-snake-skin-silk-screen
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately.
+- Exact-model photo provenance remains governed by the archive's photo identity gate.
