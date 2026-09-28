@@ -2,11 +2,6 @@ name: Photo content quarantine
 
 on:
   workflow_dispatch:
-    inputs:
-      audit_artifact:
-        description: "Path to an audit CSV available in the checked-out workspace"
-        required: true
-        default: "/tmp/photo-content-audit.csv"
 
 permissions:
   contents: write
