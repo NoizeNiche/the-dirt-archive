@@ -26,6 +26,7 @@ INDEX = ROOT / "research/PEDAL_INDEX.json"
 TRACKER = ROOT / "research/PRP_TRACKER.csv"
 DIRECT = ROOT / "research/PHOTO_DIRECT_IMAGE_OVERRIDES.csv"
 ASSET_ROOT = ROOT / "assets/pedals"
+PHOTO_SOURCE_BLOCKLIST = ROOT / "research/PHOTO_SOURCE_BLOCKLIST.json"
 
 USER_AGENT = (
     "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
@@ -34,6 +35,25 @@ USER_AGENT = (
 TIMEOUT = 15
 MIN_BYTES = 3000
 
+
+def load_blocklist() -> list[tuple[str,str]]:
+    try:
+        data = json.loads(PHOTO_SOURCE_BLOCKLIST.read_text(encoding="utf-8"))
+        return [(str(rule.get("type") or ""), str(rule.get("pattern") or "")) for rule in data.get("rules", []) if rule.get("pattern")]
+    except Exception:
+        return []
+
+def blocked_photo_url(value: str, rules: list[tuple[str,str]]) -> bool:
+    lowered = str(value or "").lower()
+    for kind, pattern in rules:
+        try:
+            if kind == "exact_url" and lowered == pattern.lower():
+                return True
+            if kind.endswith("_regex") and re.search(pattern, lowered, re.I):
+                return True
+        except re.error:
+            continue
+    return False
 
 def key(builder: str, pedal: str) -> tuple[str, str]:
     return builder.strip(), pedal.strip()
@@ -94,6 +114,7 @@ def validate(data: bytes) -> tuple[int, int]:
 
 
 def main() -> None:
+    block_rules = load_blocklist()
     if not (INDEX.exists() and TRACKER.exists() and DIRECT.exists()):
         print("Direct-photo lane skipped: required archive files are missing.")
         return
@@ -116,7 +137,7 @@ def main() -> None:
             k = key(row.get("Builder", ""), row.get("Pedal", ""))
             image_url = str(row.get("Image URL") or "").strip()
             source_page = str(row.get("Image Source Page") or "").strip()
-            if k in pending and image_url and source_page and is_http_image_url(image_url):
+            if k in pending and image_url and source_page and is_http_image_url(image_url) and not blocked_photo_url(image_url, block_rules):
                 direct.setdefault(k, []).append((image_url, source_page))
 
     recovered = 0
