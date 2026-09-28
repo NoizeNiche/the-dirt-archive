@@ -1,6 +1,6 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-28T09:33:48.718137+00:00",
+  "generated_at": "2026-09-28T09:34:59.057845+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
@@ -10,8 +10,8 @@
     "pictured": 3854,
     "complete": 3854,
     "research_pending": 0,
-    "deep_research_pending": 112,
-    "deep_researched": 4094,
+    "deep_research_pending": 109,
+    "deep_researched": 4097,
     "surface_ready": 4206
   },
   "next_target": {
@@ -101,13 +101,6 @@
     },
     {
       "builder": "MI Audio / MI Effects",
-      "pedal": "Cross Over Drive",
-      "catalog_type": "Overdrive",
-      "research_record": "./research/pedals/MI Audio / MI Effects/Cross Over Drive.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "MI Audio / MI Effects",
       "pedal": "Crunch Box",
       "catalog_type": "Distortion",
       "research_record": "./research/pedals/MI Audio / MI Effects/Crunch Box.md",
@@ -122,23 +115,9 @@
     },
     {
       "builder": "MI Audio / MI Effects",
-      "pedal": "Megalith Delta",
-      "catalog_type": "Distortion",
-      "research_record": "./research/pedals/MI Audio / MI Effects/Megalith Delta.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "MI Audio / MI Effects",
       "pedal": "Neo Fuzz",
       "catalog_type": "Fuzz",
       "research_record": "./research/pedals/MI Audio / MI Effects/Neo Fuzz.md",
-      "research_level": "surface"
-    },
-    {
-      "builder": "MI Audio / MI Effects",
-      "pedal": "Super Blues Pro",
-      "catalog_type": "Fuzz / Overdrive",
-      "research_record": "./research/pedals/MI Audio / MI Effects/Super Blues Pro.md",
       "research_level": "surface"
     },
     {
@@ -195,6 +174,27 @@
       "pedal": "Black Secret",
       "catalog_type": "Distortion",
       "research_record": "./research/pedals/MOOER Audio / MOOER/Black Secret.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "MOOER Audio / MOOER",
+      "pedal": "Blade",
+      "catalog_type": "Distortion",
+      "research_record": "./research/pedals/MOOER Audio / MOOER/Blade.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "MOOER Audio / MOOER",
+      "pedal": "Blue Faze",
+      "catalog_type": "Fuzz",
+      "research_record": "./research/pedals/MOOER Audio / MOOER/Blue Faze.md",
+      "research_level": "surface"
+    },
+    {
+      "builder": "MOOER Audio / MOOER",
+      "pedal": "Blues Crab",
+      "catalog_type": "Overdrive",
+      "research_record": "./research/pedals/MOOER Audio / MOOER/Blues Crab.md",
       "research_level": "surface"
     }
   ]
