@@ -6,6 +6,7 @@ import csv
 import hashlib
 import json
 import re
+import xml.etree.ElementTree as ET
 import subprocess
 from pathlib import Path
 
@@ -31,6 +32,9 @@ DEPLOY = ROOT / ".github/workflows/deploy-pages.yml"
 STATIC_SERVER = ROOT / "scripts/serve-static.js"
 PHOTO_CACHE = ROOT / "scripts/browser-photo-cache.mjs"
 FACET_BUILDER = ROOT / "scripts/build-pedal-facets.py"
+SITEMAP = ROOT / "sitemap.xml"
+ROBOTS = ROOT / "robots.txt"
+SITEMAP_BUILDER = ROOT / "scripts/build-sitemap.py"
 
 def pair(a, b):
     return (a, b)
@@ -68,8 +72,48 @@ def main():
     if missing:
         raise SystemExit("Missing required archive files: " + ", ".join(missing))
 
+    sitemap_text = SITEMAP.read_text(encoding="utf-8")
+    try:
+        sitemap_root = ET.fromstring(sitemap_text)
+    except ET.ParseError as exc:
+        raise SystemExit(f"Invalid sitemap.xml: {exc}")
+    sitemap_locs = [
+        node.text.strip()
+        for node in sitemap_root.iter()
+        if node.tag.endswith("loc") and node.text and node.text.strip()
+    ]
+    if len(sitemap_locs) != len(set(sitemap_locs)):
+        raise SystemExit("sitemap.xml contains duplicate URLs.")
+    expected_static = {
+        "https://noizeniche.github.io/the-dirt-archive/",
+        "https://noizeniche.github.io/the-dirt-archive/methodology.html",
+        "https://noizeniche.github.io/the-dirt-archive/audit.html",
+    }
+    robots_text = ROBOTS.read_text(encoding="utf-8")
+    if "Sitemap: https://noizeniche.github.io/the-dirt-archive/sitemap.xml" not in robots_text:
+        raise SystemExit("robots.txt is missing the archive sitemap declaration.")
+
     catalog = json.loads(INDEX.read_text(encoding="utf-8"))
     manifest = json.loads(MANIFEST.read_text(encoding="utf-8"))
+    sitemap_pedals = [
+        item for item in catalog.get("pedals", [])
+        if item.get("catalog_role") != "variation"
+        and str(item.get("company") or "").strip()
+        and str(item.get("pedal") or "").strip()
+    ]
+    from urllib.parse import quote
+    expected_sitemap = set(expected_static)
+    for item in sitemap_pedals:
+        expected_sitemap.add(
+            "https://noizeniche.github.io/the-dirt-archive/pedal-detail.html?builder="
+            + quote(str(item.get("company")).strip(), safe="")
+            + "&pedal="
+            + quote(str(item.get("pedal")).strip(), safe="")
+        )
+    if set(sitemap_locs) != expected_sitemap:
+        raise SystemExit(
+            f"sitemap.xml does not match the canonical catalog: expected {len(expected_sitemap)} URLs, found {len(sitemap_locs)}."
+        )
     pedals = catalog.get("pedals", [])
     if catalog.get("count") != len(pedals):
         raise SystemExit("PEDAL_INDEX.json count does not match pedals length.")
