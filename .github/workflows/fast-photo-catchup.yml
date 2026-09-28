@@ -48,7 +48,9 @@ jobs:
 
       - name: Install tooling
         run: |
-          python -m pip install --disable-pip-version-check pillow
+          python -m pip install --disable-pip-version-check pillow pytesseract
+          sudo apt-get update
+          sudo apt-get install -y tesseract-ocr
           npm install --no-save playwright@1.63.0
 
       - name: Cache Playwright browser
@@ -92,6 +94,9 @@ jobs:
           PHOTO_BROWSER_MAX_DEEP_REVIEW_CYCLES: "3"
         run: timeout 720s node scripts/browser-photo-cache.mjs
 
+      - name: Run recovered-photo content gate
+        run: |
+          python scripts/audit-photo-content.py --mode changed --output /tmp/recovered-photo-content-audit.csv --fail-high-confidence
       - name: Package recovered sources as individually verifiable results
         shell: bash
         run: |
