@@ -2693,7 +2693,8 @@
       "source_page": "https://www.effectsdatabase.com/model/ampeg/a",
       "research_record": "./research/pedals/Ampeg/A-1 Distortion.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_page": "https://www.effectsdatabase.com/model/ampeg/a/1"
     },
     {
       "company": "Ampeg",
@@ -6691,7 +6692,9 @@
       "source_page": "https://www.effectsdatabase.com/model/b85",
       "research_record": "./research/pedals/B85 Audio/Oktadrive.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://cdn.myshoptet.com/usr/www.b85audio.cz/user/shop360/big/102_oktadrive.jpg?ff=1&x=1024&y=768&q=85&ts=62d80e63&sg=161563f2",
+      "image_source_page": "https://www.b85audio.cz/oktadrive/"
     },
     {
       "company": "B85 Audio",
@@ -6703,7 +6706,8 @@
       "source_page": "https://www.effectsdatabase.com/model/b85",
       "research_record": "./research/pedals/B85 Audio/Red Lama.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_page": "https://www.effectsdatabase.com/model/b85/redlama"
     },
     {
       "company": "Backbeat Electric",
@@ -6715,7 +6719,8 @@
       "source_page": "https://www.effectsdatabase.com/model/backbeat",
       "research_record": "./research/pedals/Backbeat Electric/Bass Driver.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_page": "https://www.effectsdatabase.com/model/backbeat/bassdriver"
     },
     {
       "company": "Backbeat Electric",
@@ -9157,7 +9162,9 @@
       "source_page": "https://www.beetronicsfx.com/collections/all-pedals-1",
       "research_record": "./research/pedals/Beetronics/Abelha Tropical Fuzz.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://www.beetronicsfx.com/cdn/shop/files/AB_01.jpg?v=1700501751&width=1500",
+      "image_source_page": "https://www.beetronicsfx.com/products/abelha-tropical-fuzz"
     },
     {
       "company": "Beetronics",
@@ -9169,7 +9176,9 @@
       "source_page": "https://www.beetronicsfx.com/collections/drive",
       "research_record": "./research/pedals/Beetronics/Fatbee Overdrive.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://www.beetronicsfx.com/cdn/shop/products/Fatbee-Front-Shadow.jpg?v=1612416947&width=1500",
+      "image_source_page": "https://www.beetronicsfx.com/products/fatbee-overdrive"
     },
     {
       "company": "Beetronics",
@@ -9182,7 +9191,8 @@
       "source_page": "https://www.beetronicsfx.com/collections/all-pedals-1",
       "research_record": "./research/pedals/Beetronics/Nectar Tone Sweetener Drive/Fuzz.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_page": "https://www.beetronicsfx.com/products/nectar-tone-sweetener"
     },
     {
       "company": "Beetronics",
@@ -9194,7 +9204,8 @@
       "source_page": "https://www.beetronicsfx.com/collections/all-pedals-1",
       "research_record": "./research/pedals/Beetronics/Octahive V1 Upper Octave Fuzz.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_page": "https://www.beetronicsfx.com/products/octahive-v1"
     },
     {
       "company": "Beetronics",
@@ -9206,7 +9217,9 @@
       "source_page": "https://www.beetronicsfx.com/collections/all-pedals-1",
       "research_record": "./research/pedals/Beetronics/Octahive v2 High Octave Buzz.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://www.beetronicsfx.com/cdn/shop/files/OC_01.jpg?v=1685572148&width=1500",
+      "image_source_page": "https://www.beetronicsfx.com/products/octahive-v2-high-octave-fuzz-p-babee-series"
     },
     {
       "company": "Beetronics",
@@ -9218,7 +9231,9 @@
       "source_page": "https://www.beetronicsfx.com/collections/drive",
       "research_record": "./research/pedals/Beetronics/Overhive Mid-Gain Overdrive.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://www.beetronicsfx.com/cdn/shop/products/OV_BlackbeeEdition_01.jpg?v=1667928368&width=1500",
+      "image_source_page": "https://www.beetronicsfx.com/products/overhive-mid-gain-overdrive-the-blackbee-edition"
     },
     {
       "company": "Beetronics",
@@ -9245,7 +9260,9 @@
       "source_page": "https://www.beetronicsfx.com/collections/all-pedals-1",
       "research_record": "./research/pedals/Beetronics/Swarm Fuzz Harmonizer.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://www.beetronicsfx.com/cdn/shop/products/SW_2178_01.jpg?v=1634594245&width=1500",
+      "image_source_page": "https://www.beetronicsfx.com/products/swarm-fuzz-harmonizer-custom-shop-p-sw2178"
     },
     {
       "company": "Beetronics",
@@ -9257,7 +9274,9 @@
       "source_page": "https://www.beetronicsfx.com/collections/all-pedals-1",
       "research_record": "./research/pedals/Beetronics/Tuna Fuzz.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://www.beetronicsfx.com/cdn/shop/files/TunaSilver_01_5d3ef360-7055-428a-bf95-ffdd8246b88b.jpg?v=1727192076&width=1500",
+      "image_source_page": "https://www.beetronicsfx.com/products/tuna-fuzz"
     },
     {
       "company": "Beetronics",
@@ -9269,7 +9288,9 @@
       "source_page": "https://www.beetronicsfx.com/collections/all-pedals-1",
       "research_record": "./research/pedals/Beetronics/Vezzpa Octave Stinger.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://www.beetronicsfx.com/cdn/shop/products/Vezzpa_05.jpg?v=1713379769&width=1500",
+      "image_source_page": "https://www.beetronicsfx.com/products/vezzpa-octave-stinger-babee-series"
     },
     {
       "company": "Beetronics",
@@ -9281,7 +9302,9 @@
       "source_page": "https://www.beetronicsfx.com/collections/drive",
       "research_record": "./research/pedals/Beetronics/Wannabee Beelateral Buzz.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://www.beetronicsfx.com/cdn/shop/files/WB_01.jpg?v=1707851259&width=1500",
+      "image_source_page": "https://www.beetronicsfx.com/products/wannabee-beelateral-buzz-bee-stock"
     },
     {
       "company": "Beetronics",
@@ -9294,7 +9317,8 @@
       "source_page": "https://www.beetronicsfx.com/collections/all-pedals-1",
       "research_record": "./research/pedals/Beetronics/Zzombee Filtremulator.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_page": "https://www.beetronicsfx.com/pages/manuals"
     },
     {
       "company": "Beetronics FX",
@@ -9566,7 +9590,8 @@
       "source_page": "https://www.effectsdatabase.com/model/behringer/compact/to100",
       "research_record": "./research/pedals/Behringer/TO100 Tube Overdrive.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_page": "https://www.effectsdatabase.com/model/behringer/compact/to100"
     },
     {
       "company": "Behringer",
@@ -9592,7 +9617,8 @@
       "source_page": "https://www.effectsdatabase.com/model/behringer/vintage/vd1",
       "research_record": "./research/pedals/Behringer/VD1 Vintage Distortion.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_page": "https://www.effectsdatabase.com/model/behringer/vintage/vd1"
     },
     {
       "company": "Behringer",
@@ -12986,7 +13012,8 @@
       "source_page": "https://blackcatamps.com/about-us",
       "research_record": "./research/pedals/Black CAT Amps/METAL CORE.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_page": "https://blackcatamps.com/about-us"
     },
     {
       "company": "Black Cat Pedals",
@@ -13343,7 +13370,8 @@
       "source_page": "https://www.effectsdatabase.com/model/blackbox/cobalt",
       "research_record": "./research/pedals/Blackbox Music Electronics/Cobalt.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_page": "https://www.effectsdatabase.com/model/blackbox/cobalt"
     },
     {
       "company": "Blackbox Music Electronics",
@@ -13384,7 +13412,8 @@
       "source_page": "https://www.effectsdatabase.com/model/blackbox/ultraviolet",
       "research_record": "./research/pedals/Blackbox Music Electronics/Ultraviolet.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_page": "https://www.effectsdatabase.com/model/blackbox/ultraviolet"
     },
     {
       "company": "Blackbox Music Electronics",
@@ -13396,7 +13425,8 @@
       "source_page": "https://www.effectsdatabase.com/model/blackbox/ultraviolet2",
       "research_record": "./research/pedals/Blackbox Music Electronics/Ultraviolet 2.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_page": "https://www.effectsdatabase.com/model/blackbox/ultraviolet2"
     },
     {
       "company": "Blackbox Music Electronics",
@@ -13424,7 +13454,8 @@
       "source_page": "https://www.effectsdatabase.com/model/blackbox/xray/bass",
       "research_record": "./research/pedals/Blackbox Music Electronics/X-Ray Bass!.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_page": "https://www.effectsdatabase.com/model/blackbox/xray/bass"
     },
     {
       "company": "Blackhawk Amplifiers",
@@ -15396,7 +15427,8 @@
       "source_page": "https://www.effectsdatabase.com/model/boss/compact/mt2/3a",
       "research_record": "./research/pedals/BOSS/MT-2-3A 30th Anniversary Metal Zone.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_page": "https://www.sweetwater.com/store/detail/MT23A--boss-mt-2-3a-30th-anniversary-metal-zone-distortion-pedal?cond=MT23Ad1"
     },
     {
       "company": "BOSS",
@@ -20346,7 +20378,8 @@
       "source_page": "https://www.effectsdatabase.com/model/carlsbro/alu",
       "research_record": "./research/pedals/Carlsbro/Suzz-Phase.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_page": "https://www.effectsdatabase.com/model/carlsbro/alu/suzzphase"
     },
     {
       "company": "Carlson",
@@ -28571,7 +28604,9 @@
       "source_page": "https://crazytubecircuits.com/store/overdrive-distortion-fuzz",
       "research_record": "./research/pedals/Crazy Tube Circuits/Killer V.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://images.squarespace-cdn.com/content/v1/55ae0893e4b0f896046f0f37/b7e839ca-d3a6-419e-8df8-ddcf67f7be55/killerVnewSQ.jpg?format=500w",
+      "image_source_page": "https://crazytubecircuits.com/killerv"
     },
     {
       "company": "Crazy Tube Circuits",
@@ -28664,7 +28699,9 @@
       "source_page": "https://crazytubecircuits.com/store/overdrive-distortion-fuzz",
       "research_record": "./research/pedals/Crazy Tube Circuits/Sidekick.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://images.squarespace-cdn.com/content/v1/55ae0893e4b0f896046f0f37/e1212a39-dbd3-46b3-8d7a-2f1fa1de86c7/sidekick-jr_SQ.jpg?format=500w",
+      "image_source_page": "https://crazytubecircuits.com/sidekick-jr"
     },
     {
       "company": "Crazy Tube Circuits",
@@ -28886,7 +28923,9 @@
       "source_page": "https://crazytubecircuits.com/store/overdrive-distortion-fuzz",
       "research_record": "./research/pedals/Crazy Tube Circuits/White Whale.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://images.squarespace-cdn.com/content/v1/55ae0893e4b0f896046f0f37/647b6eb9-1931-492c-a231-efa445774774/white-whale-mkII-SQ.jpg?format=500w",
+      "image_source_page": "https://crazytubecircuits.com/white-whale-v2"
     },
     {
       "company": "Crazy Tube Circuits",
@@ -28900,7 +28939,9 @@
       "source_page": "https://crazytubecircuits.com/store/overdrive-distortion-fuzz",
       "research_record": "./research/pedals/Crazy Tube Circuits/White Whale v2.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://images.squarespace-cdn.com/content/v1/55ae0893e4b0f896046f0f37/647b6eb9-1931-492c-a231-efa445774774/white-whale-mkII-SQ.jpg?format=500w",
+      "image_source_page": "https://crazytubecircuits.com/white-whale-v2"
     },
     {
       "company": "Crazy Tube Circuits",
@@ -31223,7 +31264,8 @@
       "source_page": "https://www.effectsdatabase.com/model/darkglass/alphaomegaulta",
       "research_record": "./research/pedals/Darkglass Electronics/Alpha-Omega Ultra.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_page": "https://www.effectsdatabase.com/model/darkglass/alphaomega"
     },
     {
       "company": "Darkglass Electronics",
@@ -32100,7 +32142,8 @@
       "source_page": "https://www.effectsdatabase.com/model/deviever",
       "research_record": "./research/pedals/Devi Ever FX/BDSM - Big Distortion Sound Machine.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_page": "https://www.effectsdatabase.com/model/deviever/bdsm"
     },
     {
       "company": "Devi Ever FX",
@@ -32138,7 +32181,9 @@
       "source_page": "https://www.effectsdatabase.com/model/deviever",
       "research_record": "./research/pedals/Devi Ever FX/BIT Legend Of Fuzz.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://malibumusic.com/cdn/shop/files/Screenshot_2025-08-07_at_12.54.19_AM.png?v=1754553303&width=800",
+      "image_source_page": "https://malibumusic.com/products/devi-ever-fx-bit-legend-of-fuzz"
     },
     {
       "company": "Devi Ever FX",
@@ -32192,7 +32237,8 @@
       "source_page": "https://www.effectsdatabase.com/model/deviever",
       "research_record": "./research/pedals/Devi Ever FX/Cherry Pop.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_page": "https://www.effectsdatabase.com/model/deviever/cherrypop"
     },
     {
       "company": "Devi Ever FX",
@@ -32262,7 +32308,8 @@
       "source_page": "https://www.effectsdatabase.com/model/deviever",
       "research_record": "./research/pedals/Devi Ever FX/DF Disaster Fuzz.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_page": "https://www.effectsdatabase.com/model/deviever/df"
     },
     {
       "company": "Devi Ever FX",
@@ -32274,7 +32321,8 @@
       "source_page": "https://www.effectsdatabase.com/model/deviever",
       "research_record": "./research/pedals/Devi Ever FX/Disaster Fuzz.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_page": "https://www.effectsdatabase.com/model/deviever/disasterfuzz"
     },
     {
       "company": "Devi Ever FX",
@@ -32286,7 +32334,8 @@
       "source_page": "https://www.effectsdatabase.com/model/deviever",
       "research_record": "./research/pedals/Devi Ever FX/DN Destructo Noctavia.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_page": "https://www.effectsdatabase.com/model/deviever/dn"
     },
     {
       "company": "Devi Ever FX",
@@ -32326,7 +32375,8 @@
       "source_page": "https://www.effectsdatabase.com/model/deviever",
       "research_record": "./research/pedals/Devi Ever FX/EB Electric Brown.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_page": "https://www.effectsdatabase.com/model/deviever"
     },
     {
       "company": "Devi Ever FX",
@@ -32338,7 +32388,8 @@
       "source_page": "https://www.effectsdatabase.com/model/deviever",
       "research_record": "./research/pedals/Devi Ever FX/Eye of God.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_page": "https://www.effectsdatabase.com/model/deviever"
     },
     {
       "company": "Devi Ever FX",
@@ -32366,7 +32417,7 @@
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
       "image_source_url": "https://assets.equipboard.com/assets/tailwind_layout/equipboard-logo-dark-0246d7d7decd172d03928e89654287c57c5251d0a87146c42edcc342f4443033.svg",
-      "image_source_page": "https://equipboard.com/items/devi-ever-fx-vintage-fuzz-master"
+      "image_source_page": "https://www.effectsdatabase.com/model/deviever/fuzz"
     },
     {
       "company": "Devi Ever FX",
@@ -32378,7 +32429,9 @@
       "source_page": "https://www.effectsdatabase.com/model/deviever",
       "research_record": "./research/pedals/Devi Ever FX/God Zilla.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://www.musicriff.com/wp-content/uploads/2026/3/1773135313/devi-ever-fx-gza-god-zilla-dual-mode-fuzz-guitar-effect-pedal-1773135323.webp",
+      "image_source_page": "https://www.musicriff.com/product/devi-ever-fx-gza-god-zilla-dual-mode-fuzz-guitar-effect-pedal/"
     },
     {
       "company": "Devi Ever FX",
@@ -32460,7 +32513,8 @@
       "source_page": "https://www.effectsdatabase.com/model/deviever",
       "research_record": "./research/pedals/Devi Ever FX/Hyperion.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_page": "https://deviever.net/products/devi-ever-fx-hyperion"
     },
     {
       "company": "Devi Ever FX",
@@ -32486,7 +32540,8 @@
       "source_page": "https://www.effectsdatabase.com/model/deviever",
       "research_record": "./research/pedals/Devi Ever FX/Hypnomangler.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_page": "https://www.effectsdatabase.com/model/deviever/hypnomangler"
     },
     {
       "company": "Devi Ever FX",
@@ -32582,7 +32637,8 @@
       "source_page": "https://www.effectsdatabase.com/model/deviever",
       "research_record": "./research/pedals/Devi Ever FX/Mirro Safety Bag Fuzz.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_page": "https://www.effectsdatabase.com/model/deviever"
     },
     {
       "company": "Devi Ever FX",
@@ -32637,7 +32693,8 @@
       "source_page": "https://www.effectsdatabase.com/model/deviever",
       "research_record": "./research/pedals/Devi Ever FX/PEEP.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_page": "https://www.effectsdatabase.com/model/deviever/peep"
     },
     {
       "company": "Devi Ever FX",
@@ -32663,7 +32720,8 @@
       "source_page": "https://www.effectsdatabase.com/model/deviever",
       "research_record": "./research/pedals/Devi Ever FX/Punch Hate.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_page": "https://www.effectsdatabase.com/model/deviever/punchhate"
     },
     {
       "company": "Devi Ever FX",
@@ -32697,11 +32755,13 @@
       "types": [
         "Fuzz"
       ],
-      "image": "",
+      "image": "./assets/pedals/devi-ever-fx/ruby/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/deviever",
       "research_record": "./research/pedals/Devi Ever FX/Ruby.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://rvb-img.reverb.com/i/s--YvZEMRW---/gravity=auto,quality=medium-low,width=200,height=200,format=jpeg/aqcxh1puqvshzvamo3xx.jpg",
+      "image_source_page": "https://reverb.com/item/88917314-devi-ever-fx-ruby"
     },
     {
       "company": "Devi Ever FX",
@@ -32751,11 +32811,13 @@
       "types": [
         "Fuzz"
       ],
-      "image": "",
+      "image": "./assets/pedals/devi-ever-fx/sm-soda-meiser/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/deviever",
       "research_record": "./research/pedals/Devi Ever FX/SM Soda Meiser.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://files.effectsdatabase.com/brands/thumbs/deviever_000.jpg",
+      "image_source_page": "https://www.effectsdatabase.com/model/deviever"
     },
     {
       "company": "Devi Ever FX",
@@ -32781,7 +32843,8 @@
       "source_page": "https://www.effectsdatabase.com/model/deviever",
       "research_record": "./research/pedals/Devi Ever FX/Soda Might.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_page": "https://www.effectsdatabase.com/model/deviever/sodamight"
     },
     {
       "company": "Devi Ever FX",
@@ -32793,7 +32856,8 @@
       "source_page": "https://www.effectsdatabase.com/model/deviever",
       "research_record": "./research/pedals/Devi Ever FX/Stimulus Fuzz.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_page": "https://www.effectsdatabase.com/model/deviever"
     },
     {
       "company": "Devi Ever FX",
@@ -32833,7 +32897,8 @@
       "source_page": "https://www.effectsdatabase.com/model/deviever",
       "research_record": "./research/pedals/Devi Ever FX/Super Massive Black Hole.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_page": "https://www.effectsdatabase.com/model/deviever"
     },
     {
       "company": "Devi Ever FX",
@@ -32845,7 +32910,8 @@
       "source_page": "https://www.effectsdatabase.com/model/deviever",
       "research_record": "./research/pedals/Devi Ever FX/The Ion.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_page": "https://www.effectsdatabase.com/model/deviever"
     },
     {
       "company": "Devi Ever FX",
@@ -32857,7 +32923,8 @@
       "source_page": "https://www.effectsdatabase.com/model/deviever",
       "research_record": "./research/pedals/Devi Ever FX/The Wolf - Bass Fuzz.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_page": "https://www.effectsdatabase.com/model/deviever"
     },
     {
       "company": "Devi Ever FX",
@@ -33005,7 +33072,8 @@
       "source_page": "https://www.effectsdatabase.com/model/deviever",
       "research_record": "./research/pedals/Devi Ever FX/ZG Zero Good.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_page": "https://www.effectsdatabase.com/model/deviever"
     },
     {
       "company": "Diamond",
@@ -33185,7 +33253,8 @@
       "source_page": "https://www.effectsdatabase.com/model/dinosaural",
       "research_record": "./research/pedals/Dinosaural/OPA-101 Overdriven Pre-Amp.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_page": "https://www.effectsdatabase.com/model/dinosaural"
     },
     {
       "company": "Dinosaural",
@@ -33197,7 +33266,8 @@
       "source_page": "https://www.effectsdatabase.com/model/dinosaural",
       "research_record": "./research/pedals/Dinosaural/Tube Bender.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_page": "https://www.effectsdatabase.com/model/dinosaural"
     },
     {
       "company": "Dirty Boy",
@@ -34023,7 +34093,8 @@
       "source_page": null,
       "research_record": "./research/pedals/Dwarfcraft Devices/Abaddon.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_page": "https://www.effectsdatabase.com/model/dwarfcraft/abaddon"
     },
     {
       "company": "Dwarfcraft Devices",
@@ -36135,7 +36206,8 @@
       "source_page": "https://fairfieldcircuitry.com/products/900",
       "research_record": "./research/pedals/Fairfield Circuitry/Four Eyes Fuzz.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_page": "https://fairfieldcircuitry.com/products/900"
     },
     {
       "company": "Fairfield Circuitry",
@@ -36653,7 +36725,8 @@
       "source_page": "https://www.effectsdatabase.com/model/fortin/fourteen",
       "research_record": "./research/pedals/Fortin Amplification/Fourteen.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_page": "https://www.effectsdatabase.com/model/fortin/fourteen"
     },
     {
       "company": "Fortin Amplification",
@@ -36693,7 +36766,8 @@
       "source_page": "https://www.effectsdatabase.com/model/fortin/kali",
       "research_record": "./research/pedals/Fortin Amplification/Kali.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_page": "https://www.effectsdatabase.com/model/fortin/kali"
     },
     {
       "company": "Fortin Amplification",
@@ -36719,7 +36793,8 @@
       "source_page": "https://www.effectsdatabase.com/model/fortin/natas",
       "research_record": "./research/pedals/Fortin Amplification/Natas Distortion.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_page": "https://www.effectsdatabase.com/model/fortin/natas"
     },
     {
       "company": "Fortin Amplification",
@@ -38006,7 +38081,8 @@
       "source_page": null,
       "research_record": "./research/pedals/Greer Amps/Sweetback Driver.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_page": "https://www.effectsdatabase.com/model/greer/sweetbackdriver"
     },
     {
       "company": "Greer Amps",
@@ -38352,7 +38428,8 @@
       "source_page": "https://himmelstrutz.com/download/",
       "research_record": "./research/pedals/Himmelstrutz Elektro Art/Under Over.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_page": "https://www.himmelstrutz.com/download/"
     },
     {
       "company": "Himmelstrutz Elektro Art",
@@ -38364,7 +38441,8 @@
       "source_page": "https://himmelstrutz.com/download/",
       "research_record": "./research/pedals/Himmelstrutz Elektro Art/Under Overdriver.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_page": "https://www.himmelstrutz.com/download/"
     },
     {
       "company": "Horizon Devices",
@@ -38387,11 +38465,13 @@
         "Distortion",
         "Fuzz"
       ],
-      "image": "",
+      "image": "./assets/pedals/hudson-electronics/bc-24v-pg/primary.webp",
       "source_page": "https://hudsonelectronicsuk.com/product/bc-24v-pg/",
       "research_record": "./research/pedals/Hudson Electronics/BC-24V-PG.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://i0.wp.com/hudsonelectronicsuk.com/wp-content/uploads/2016/05/bc-24v-pg-angle.png?fit=1200%2C1200&",
+      "image_source_page": "https://hudsonelectronicsuk.com/product/bc-24v-pg/"
     },
     {
       "company": "Hudson Electronics",
@@ -38401,11 +38481,13 @@
         "Distortion",
         "Fuzz"
       ],
-      "image": "",
+      "image": "./assets/pedals/hudson-electronics/bc-24v-usa/primary.webp",
       "source_page": "https://hudsonelectronicsuk.com/product/bc-24v-usa/",
       "research_record": "./research/pedals/Hudson Electronics/BC-24V-USA.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://i0.wp.com/hudsonelectronicsuk.com/wp-content/uploads/2016/09/bc-24v-usa-turquoise-green-angle-tight.jpg?fit=2063%2C2063&",
+      "image_source_page": "https://hudsonelectronicsuk.com/product/bc-24v-usa/"
     },
     {
       "company": "Hudson Electronics",
@@ -39445,7 +39527,8 @@
       "source_page": "https://rockettpedals.com/",
       "research_record": "./research/pedals/J. Rockett Audio Designs/iKon.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_page": "https://rockettpedals.com/"
     },
     {
       "company": "J. Rockett Audio Designs",
@@ -39485,7 +39568,8 @@
       "source_page": "https://rockettpedals.com/",
       "research_record": "./research/pedals/J. Rockett Audio Designs/Rockaway Archer.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_page": "https://rockettpedals.com/"
     },
     {
       "company": "J. Rockett Audio Designs",
@@ -39512,7 +39596,8 @@
       "source_page": "https://jackson.audio/collections/pedals",
       "research_record": "./research/pedals/Jackson Audio/1484 - Twin Twelve Pedal.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_page": "https://jackson.audio/collections/pedals"
     },
     {
       "company": "Jackson Audio",
@@ -40232,7 +40317,8 @@
       "source_page": "https://jhspedals.info/products/mini-foot-fuzz-v2",
       "research_record": "./research/pedals/JHS Pedals/Mini Foot Fuzz V1.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_page": "https://jhspedals.info/collections/discontinued-rare?page=2"
     },
     {
       "company": "JHS Pedals",
@@ -43110,7 +43196,8 @@
       "image": "",
       "research_record": "./research/pedals/Lovetone/Big Cheese.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_page": "https://www.effectsdatabase.com/model/lovetone/bigcheese"
     },
     {
       "company": "Lovetone",
@@ -43122,7 +43209,8 @@
       "image": "",
       "research_record": "./research/pedals/Lovetone/Brown Source.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_page": "https://www.effectsdatabase.com/model/lovetone/brownsource"
     },
     {
       "company": "Lovetone",
@@ -43132,10 +43220,12 @@
         "Overdrive"
       ],
       "source_page": "https://www.effectsdatabase.com/model/lovetone/cheesesource",
-      "image": "",
+      "image": "./assets/pedals/lovetone/cheese-source/primary.webp",
       "research_record": "./research/pedals/Lovetone/Cheese Source.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://files.effectsdatabase.com/gear/pics/lovetone_cheesesource_001.jpg",
+      "image_source_page": "https://www.effectsdatabase.com/model/lovetone/cheesesource"
     },
     {
       "company": "Lovetone",
@@ -43148,7 +43238,8 @@
       "image": "",
       "research_record": "./research/pedals/Lovetone/Ring Stinger.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_page": "https://www.effectsdatabase.com/model/lovetone/ringstinger"
     },
     {
       "company": "Lunastone Pedals",
@@ -43233,7 +43324,7 @@
       "research_record": "./research/pedals/Mad Professor Amplification/Fire Red Fuzz.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://mpamp.com/files/manuals/Fire%20Red%20Fuzz%20HW%20manual.pdf"
+      "image_source_page": "https://www.effectsdatabase.com/model/madprofessor/fireredfuzz"
     },
     {
       "company": "Mad Professor Amplification",
@@ -43269,7 +43360,8 @@
       "source_page": "https://mpamp.com/product/102/little-green-wonder-handwired",
       "research_record": "./research/pedals/Mad Professor Amplification/Little Green Wonder Handwired.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_page": "https://mpamp.com/product/102/little-green-wonder-handwired"
     },
     {
       "company": "Mad Professor Amplification",
@@ -43319,7 +43411,8 @@
       "source_page": "https://mpamp.com/product/10/royal-blue-overdrive",
       "research_record": "./research/pedals/Mad Professor Amplification/Royal Blue Overdrive.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_page": "https://mpamp.com/product/10/royal-blue-overdrive"
     },
     {
       "company": "Mad Professor Amplification",
@@ -43331,7 +43424,8 @@
       "source_page": "https://mpamp.com/category/8/shop",
       "research_record": "./research/pedals/Mad Professor Amplification/Royal Blue Overdrive Custom.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_page": "https://kc-music.jp/mad-professor/royal-blue-overdrive-custom.html"
     },
     {
       "company": "Mad Professor Amplification",
@@ -43343,7 +43437,8 @@
       "source_page": "https://mpamp.com/product/41/ruby-red-booster",
       "research_record": "./research/pedals/Mad Professor Amplification/Ruby Red Booster.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_page": "https://mpamp.com/product/41/ruby-red-booster"
     },
     {
       "company": "Mad Professor Amplification",
@@ -43355,7 +43450,8 @@
       "source_page": "https://mpamp.com/product/62/simble-overdrive-mk2",
       "research_record": "./research/pedals/Mad Professor Amplification/Simble Overdrive Mk2.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_page": "https://mpamp.com/product/62/simble-overdrive-mk2"
     },
     {
       "company": "Mad Professor Amplification",
@@ -43379,7 +43475,8 @@
       "source_page": "https://mpamp.com/category/8/shop",
       "research_record": "./research/pedals/Mad Professor Amplification/Super Black.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_page": "https://reverb.com/item/100487324-mad-professor-amplification-super-black-mini-preamp-overdrive-pedal-new-black"
     },
     {
       "company": "Mad Professor Amplification",
@@ -43387,11 +43484,13 @@
       "types": [
         "Overdrive"
       ],
-      "image": "",
+      "image": "./assets/pedals/mad-professor-amplification/super-black-mini/primary.webp",
       "source_page": "https://mpamp.com/category/8/shop",
       "research_record": "./research/pedals/Mad Professor Amplification/Super Black mini.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://rvb-img.reverb.com/i/s--ZyK211jB--/gravity=auto,quality=medium-low,width=200,height=200,format=jpeg/xem1m8que3omy9lxrwws.jpg",
+      "image_source_page": "https://reverb.com/item/100487324-mad-professor-amplification-super-black-mini-preamp-overdrive-pedal-new-black"
     },
     {
       "company": "Mad Professor Amplification",
@@ -43403,7 +43502,8 @@
       "source_page": "https://mpamp.com/product/1/sweet-honey-overdrive",
       "research_record": "./research/pedals/Mad Professor Amplification/Sweet Honey Overdrive.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_page": "https://mpamp.com/product/1/sweet-honey-overdrive"
     },
     {
       "company": "Mad Professor Amplification",
@@ -43453,7 +43553,8 @@
       "source_page": "https://mpamp.com/product/40/sweet-honey-overdrive-japan-limited-edition",
       "research_record": "./research/pedals/Mad Professor Amplification/Sweet Honey Overdrive Japan Edition.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_page": "https://mpamp.com/product/40/sweet-honey-overdrive-japan-limited-edition"
     },
     {
       "company": "Mad Professor Amplification",
@@ -44524,7 +44625,8 @@
       "source_page": null,
       "research_record": "./research/pedals/Maxon/RTO700.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_page": "https://www.gear4music.com/Guitar-and-Bass/Maxon-RTO700-Real-Tube-Overdrive-Pedal/1QYP"
     },
     {
       "company": "Maxon",
@@ -44588,13 +44690,13 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/maxon/sm-9-pro/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Maxon/SM-9 Pro+.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_url": "https://assets.equipboard.com/assets/tailwind_layout/equipboard-logo-1e25fc159c9d63aa323fbda202cc8be6a6b41480df1a1feb7fc0a952087872a7.svg",
-      "image_source_page": "https://equipboard.com/items/maxon-sm-9-plus-super-metal-distortion-pedal"
+      "image_source_url": "https://muzikercdn.com/uploads/products/443/44312/thumb_large_d_gallery_base_a499c9bf.jpg",
+      "image_source_page": "https://www.muziker.com/maxon-sm-9-pro-plus-super-metal"
     },
     {
       "company": "Maxon",

@@ -1,11 +1,11 @@
 # Pedal Image Cache Report
 
-- Cached in this run: **9**
+- Cached in this run: **7**
 - Staged browser photos converted: **0**
 - Local images retained/reorganized: **0**
 - Download failures: **1**
-- Remaining tracker photo backlog: **237**
-- Researched, photo pending: **237**
+- Remaining tracker photo backlog: **230**
+- Researched, photo pending: **230**
 - External source images awaiting localization: **0**
 
 ## Storage layout
@@ -16,15 +16,13 @@
 
 ## Newly cached
 
-- AboveGroundFX - Rocks Hard -> `./assets/pedals/abovegroundfx/rocks-hard/primary.webp`
-- Devi Ever FX - ND Never Drive -> `./assets/pedals/devi-ever-fx/nd-never-drive/primary.webp`
-- J. Rockett Audio Designs - Hooligan Fuzz -> `./assets/pedals/j-rockett-audio-designs/hooligan-fuzz/primary.webp`
-- J. Rockett Audio Designs - Majestic Overdrive -> `./assets/pedals/j-rockett-audio-designs/majestic-overdrive/primary.webp`
-- J. Rockett Audio Designs - Monkey Man -> `./assets/pedals/j-rockett-audio-designs/monkey-man/primary.webp`
-- J. Rockett Audio Designs - WTF Fuzz -> `./assets/pedals/j-rockett-audio-designs/wtf-fuzz/primary.webp`
-- JHS Pedals - 73 Rams Head -> `./assets/pedals/jhs-pedals/73-rams-head/primary.webp`
-- JHS Pedals - Colour Box V1 -> `./assets/pedals/jhs-pedals/colour-box-v1/primary.webp`
-- JHS Pedals - Double Barrel V4 -> `./assets/pedals/jhs-pedals/double-barrel-v4/primary.webp`
+- Devi Ever FX - Ruby -> `./assets/pedals/devi-ever-fx/ruby/primary.webp`
+- Devi Ever FX - SM Soda Meiser -> `./assets/pedals/devi-ever-fx/sm-soda-meiser/primary.webp`
+- Hudson Electronics - BC-24V-PG -> `./assets/pedals/hudson-electronics/bc-24v-pg/primary.webp`
+- Hudson Electronics - BC-24V-USA -> `./assets/pedals/hudson-electronics/bc-24v-usa/primary.webp`
+- Lovetone - Cheese Source -> `./assets/pedals/lovetone/cheese-source/primary.webp`
+- Mad Professor Amplification - Super Black mini -> `./assets/pedals/mad-professor-amplification/super-black-mini/primary.webp`
+- Maxon - SM-9 Pro+ -> `./assets/pedals/maxon/sm-9-pro/primary.webp`
 
 ## Still external / failed
 
