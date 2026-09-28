@@ -1914,7 +1914,8 @@
       "company": "AJ Peat",
       "pedal": "Dirty Buzzard - Overdrive",
       "types": [
-        "Fuzz & Distortion"
+        "Fuzz",
+        "Distortion"
       ],
       "image": "./assets/pedals/aj-peat/dirty-buzzard-overdrive/primary.webp",
       "source_page": "https://ajpeat.com/products/dirty-buzzard",
@@ -9348,7 +9349,8 @@
       "company": "Beetronics FX",
       "pedal": "Royal Jelly",
       "types": [
-        "Fuzz / Overdrive"
+        "Fuzz",
+        "Overdrive"
       ],
       "image": "./assets/pedals/beetronics-fx/royal-jelly/primary.webp",
       "source_page": "https://www.beetronicsfx.com/products/royal-jelly-limited-edition-p-royal-series",
@@ -9461,7 +9463,8 @@
       "company": "Behringer",
       "pedal": "OD300",
       "types": [
-        "Distortion / Overdrive"
+        "Distortion",
+        "Overdrive"
       ],
       "image": "./assets/pedals/behringer/od300/primary.webp",
       "source_page": "https://www.behringer.com/en/products/0709-ADX",
@@ -9663,7 +9666,8 @@
       "company": "Benson Amps",
       "pedal": "Germanium Preamp Pedal",
       "types": [
-        "Fuzz / Overdrive"
+        "Fuzz",
+        "Overdrive"
       ],
       "image": "./assets/pedals/benson-amps/germanium-preamp-pedal/primary.webp",
       "source_page": "https://www.bensonamps.com/guitarpedals/germaniumpreamp",
@@ -9691,7 +9695,8 @@
       "company": "Benson Amps",
       "pedal": "Preamp Pedal",
       "types": [
-        "Fuzz / Overdrive"
+        "Fuzz",
+        "Overdrive"
       ],
       "image": "./assets/pedals/benson-amps/preamp-pedal/primary.webp",
       "source_page": "https://www.bensonamps.com/guitarpedals/preamp",
@@ -9942,8 +9947,7 @@
       "company": "Big Ear",
       "pedal": "Luck Drive",
       "types": [
-        "Overdrive",
-        "Boost"
+        "Overdrive"
       ],
       "image": null,
       "source_page": "https://www.bigearpedals.com/post/making-of-the-luck-drive-for-luck-reunion-2019",
@@ -10050,8 +10054,7 @@
       "company": "Big Ear NYC",
       "pedal": "More More More",
       "types": [
-        "Overdrive",
-        "Boost"
+        "Overdrive"
       ],
       "image": null,
       "source_page": "https://www.effectsdatabase.com/updates/weekly/20140804",
@@ -19471,7 +19474,8 @@
       "company": "Caline",
       "pedal": "DCP-02 Brutus",
       "types": [
-        "Distortion / Overdrive"
+        "Distortion",
+        "Overdrive"
       ],
       "image": "./assets/pedals/caline/dcp-02-brutus/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/caline/dcp/brutus",
@@ -19541,7 +19545,8 @@
       "company": "Caline",
       "pedal": "DCP-08 Nightwolf",
       "types": [
-        "Fuzz / Overdrive"
+        "Fuzz",
+        "Overdrive"
       ],
       "image": "./assets/pedals/caline/dcp-08-nightwolf/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/caline/dcp/dcp08",
@@ -33138,8 +33143,7 @@
       "company": "Dinosaural",
       "pedal": "Cogmeister",
       "types": [
-        "Overdrive",
-        "Boost"
+        "Overdrive"
       ],
       "image": null,
       "source_page": "https://www.effectsdatabase.com/model/dinosaural",
