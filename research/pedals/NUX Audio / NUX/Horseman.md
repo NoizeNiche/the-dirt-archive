@@ -40,3 +40,14 @@ Gold Mode mimics its classic predecessor; the transparent Gold Centaur overdrive
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+## Deep research verification
+- The NUX manufacturer page documents Horseman as a two-mode overdrive with **Gold** and **Silver** modes.
+- The same source documents an internal OP-AMP voltage-converter stage that drives the op-amp at a higher internal voltage, plus selectable bypass behavior.
+- Published manufacturer specifications identify 9V / 100mA operation and a compact chassis measuring approximately 94 × 51 × 53 mm.
+- A NUX development article and the product manual are retained in the source trail as corroborating evidence for the model and its design history.
+- No exact production transistor/device type is asserted here because the admitted sources do not establish one consistently.
+
+## Verification source set
+1. NUX Audio — Horseman: https://nuxaudio.com/product/horseman/
+2. NUX EFX — How did we develop NUX Horseman Overdrive?: https://nuxefx.blogspot.com/2019/06/how-do-we-develop-nux-horseman-tribute.html
+3. NUX Horseman user manual: https://nux.cherubtechnology.com/download/Manual/Effects/Min_Core_Series_Stompboxes/Horseman_NOD1/NUX_NOD1_UserManual_English.pdf
