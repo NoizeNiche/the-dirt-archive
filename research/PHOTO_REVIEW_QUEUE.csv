@@ -1,21 +1,21 @@
 Builder,Pedal,Catalog Type,Status,Attempts,Last Failure,Deep Review Cycles
-Pete Cornish / Pete Cornish Effects,NG-3,,DEEP_REVIEW,0,DEEP_REVIEW_STARTED cycle 1 after parked-photo cutoff.,1
-Pete Cornish / Pete Cornish Effects,P-2,,DEEP_REVIEW,0,DEEP_REVIEW_STARTED cycle 1 after parked-photo cutoff.,1
-Pete Cornish / Pete Cornish Effects,SS-3 Soft Sustain,,DEEP_REVIEW,0,DEEP_REVIEW_STARTED cycle 1 after parked-photo cutoff.,1
-Pete Cornish / Pete Cornish Effects,SS-2 Soft Sustain,,DEEP_REVIEW,1,"no usable exact-model image candidate found [{""sourceHost"":""www.petecornish.co.uk"",""sourcePageLoaded"":true,""sourceIdentityMatch"":true,""sourceImageCandidates"":0,""linkedExternalCandidates"":0,""sourceScreenshotCaptured"":false,""makerFallbackTried"":true,""soldCandidates"":0,""verifiedSoldCandidates"":0,""imageSearchCandidates"":0,""verifiedSearchCandidates"":0,""rawHtmlCandidates"":0}]",2
-Pete Cornish / Pete Cornish Effects,P-1,,DEEP_REVIEW,4,"no usable exact-model image candidate found [{""sourceHost"":""petecornish.co.uk"",""sourcePageLoaded"":true,""sourceIdentityMatch"":true,""sourceImageCandidates"":0,""linkedExternalCandidates"":0,""sourceScreenshotCaptured"":false,""makerFallbackTried"":true,""soldCandidates"":0,""verifiedSoldCandidates"":0,""imageSearchCandidates"":0,""verifiedSearchCandidates"":0,""rawHtmlCandidates"":0}]",2
-Ampeg,A-1 Distortion,,PARKED,5,PARKED after 5 deep-review attempts: recovery hard timeout exceeded,2
-BOSS,MT-2-3A 30th Anniversary Metal Zone,,PARKED,5,PARKED after 5 deep-review attempts: recovery hard timeout exceeded,1
+BOSS,MT-2-3A 30th Anniversary Metal Zone,,DEEP_REVIEW,1,recovery hard timeout exceeded,2
+Pete Cornish,BD-1,,DEEP_REVIEW,1,recovery hard timeout exceeded,2
+Pete Cornish,CC-1,,DEEP_REVIEW,1,recovery hard timeout exceeded,2
+Pete Cornish,G-2,,DEEP_REVIEW,1,recovery hard timeout exceeded,2
+Pete Cornish,P-1,,DEEP_REVIEW,1,recovery hard timeout exceeded,2
+Pete Cornish,SS-2,,DEEP_REVIEW,1,recovery hard timeout exceeded,2
+Pete Cornish / Pete Cornish Effects,BD-1 Bass Driver,,DEEP_REVIEW,1,recovery hard timeout exceeded,2
+Pete Cornish / Pete Cornish Effects,CC-1 Cornish Crunch,,DEEP_REVIEW,1,recovery hard timeout exceeded,2
+Pete Cornish / Pete Cornish Effects,G-2,,DEEP_REVIEW,1,recovery hard timeout exceeded,2
+Pete Cornish / Pete Cornish Effects,NG-3,,DEEP_REVIEW,1,"no usable exact-model image candidate found [{""sourceHost"":""petecornish.co.uk"",""sourcePageLoaded"":true,""sourceIdentityMatch"":true,""sourceImageCandidates"":0,""linkedExternalCandidates"":0,""sourceScreenshotCaptured"":false,""makerFallbackTried"":true,""soldCandidates"":0,""verifiedSoldCandidates"":0,""imageSearchCandidates"":0,""verifiedSearchCandidates"":0,""rawHtmlCandidates"":0}]",1
+Pete Cornish / Pete Cornish Effects,P-2,,DEEP_REVIEW,1,recovery hard timeout exceeded,1
+Pete Cornish / Pete Cornish Effects,SS-3 Soft Sustain,,DEEP_REVIEW,1,recovery hard timeout exceeded,1
+Vertex Effects,Ultra Phonix,,DEEP_REVIEW,1,recovery hard timeout exceeded,2
+Pete Cornish / Pete Cornish Effects,SS-2 Soft Sustain,,DEEP_REVIEW,2,recovery hard timeout exceeded,2
 Collins,CSD-1 Pro Super Dust,,PARKED,5,PARKED after 5 deep-review attempts: recovery hard timeout exceeded,2
 Columbus,OVD-5 Overdrive,,PARKED,5,PARKED after 5 deep-review attempts: recovery hard timeout exceeded,2
-Devi Ever FX,Hypnomangler,,PARKED,5,PARKED after 5 deep-review attempts: recovery hard timeout exceeded,2
-Devi Ever FX,Soda Might,,PARKED,5,PARKED after 5 deep-review attempts: recovery hard timeout exceeded,2
-Pete Cornish,BD-1,,PARKED,5,"PARKED after 5 deep-review attempts: no usable exact-model image candidate found [{""sourceHost"":""www.petecornish.co.uk"",""sourcePageLoaded"":true,""sourceIdentityMatch"":true,""sourceImageCandidates"":0,""linkedExternalCandidates"":0,""sourceScreenshotCaptured"":false,""makerFallbackTried"":true,""soldCandidates"":0,""verifiedSoldCandidates"":0,""imageSearchCandidates"":0,""verifiedSearchCandidates"":0,""rawHtmlCandidates"":0}]",1
-Pete Cornish,CC-1,,PARKED,5,"PARKED after 5 deep-review attempts: no usable exact-model image candidate found [{""sourceHost"":""www.petecornish.co.uk"",""sourcePageLoaded"":true,""sourceIdentityMatch"":true,""sourceImageCandidates"":0,""linkedExternalCandidates"":0,""sourceScreenshotCaptured"":false,""makerFallbackTried"":true,""soldCandidates"":0,""verifiedSoldCandidates"":0,""imageSearchCandidates"":0,""verifiedSearchCandidates"":0,""rawHtmlCandidates"":0}]",1
-Pete Cornish,G-2,,PARKED,5,"PARKED after 5 deep-review attempts: no usable exact-model image candidate found [{""sourceHost"":""www.petecornish.co.uk"",""sourcePageLoaded"":true,""sourceIdentityMatch"":true,""sourceImageCandidates"":0,""linkedExternalCandidates"":0,""sourceScreenshotCaptured"":false,""makerFallbackTried"":true,""soldCandidates"":0,""verifiedSoldCandidates"":0,""imageSearchCandidates"":0,""verifiedSearchCandidates"":0,""rawHtmlCandidates"":0}]",1
-Pete Cornish,P-1,,PARKED,5,"PARKED after 5 deep-review attempts: no usable exact-model image candidate found [{""sourceHost"":""petecornish.co.uk"",""sourcePageLoaded"":true,""sourceIdentityMatch"":true,""sourceImageCandidates"":0,""linkedExternalCandidates"":0,""sourceScreenshotCaptured"":false,""makerFallbackTried"":true,""soldCandidates"":0,""verifiedSoldCandidates"":0,""imageSearchCandidates"":0,""verifiedSearchCandidates"":0,""rawHtmlCandidates"":0}]",1
-Pete Cornish,SS-2,,PARKED,5,"PARKED after 5 deep-review attempts: no usable exact-model image candidate found [{""sourceHost"":""www.petecornish.co.uk"",""sourcePageLoaded"":true,""sourceIdentityMatch"":true,""sourceImageCandidates"":0,""linkedExternalCandidates"":0,""sourceScreenshotCaptured"":false,""makerFallbackTried"":true,""soldCandidates"":0,""verifiedSoldCandidates"":0,""imageSearchCandidates"":0,""verifiedSearchCandidates"":0,""rawHtmlCandidates"":24}]",1
-Pete Cornish / Pete Cornish Effects,BD-1 Bass Driver,,PARKED,5,"PARKED after 5 deep-review attempts: no usable exact-model image candidate found [{""sourceHost"":""www.petecornish.co.uk"",""sourcePageLoaded"":true,""sourceIdentityMatch"":true,""sourceImageCandidates"":0,""linkedExternalCandidates"":0,""sourceScreenshotCaptured"":false,""makerFallbackTried"":true,""soldCandidates"":0,""verifiedSoldCandidates"":0,""imageSearchCandidates"":0,""verifiedSearchCandidates"":0,""rawHtmlCandidates"":0}]",1
-Pete Cornish / Pete Cornish Effects,CC-1 Cornish Crunch,,PARKED,5,"PARKED after 5 deep-review attempts: no usable exact-model image candidate found [{""sourceHost"":""www.petecornish.co.uk"",""sourcePageLoaded"":true,""sourceIdentityMatch"":true,""sourceImageCandidates"":0,""linkedExternalCandidates"":0,""sourceScreenshotCaptured"":false,""makerFallbackTried"":true,""soldCandidates"":0,""verifiedSoldCandidates"":0,""imageSearchCandidates"":0,""verifiedSearchCandidates"":0,""rawHtmlCandidates"":0}]",1
-Pete Cornish / Pete Cornish Effects,G-2,,PARKED,5,"PARKED after 5 deep-review attempts: no usable exact-model image candidate found [{""sourceHost"":""www.petecornish.co.uk"",""sourcePageLoaded"":true,""sourceIdentityMatch"":true,""sourceImageCandidates"":0,""linkedExternalCandidates"":0,""sourceScreenshotCaptured"":false,""makerFallbackTried"":true,""soldCandidates"":0,""verifiedSoldCandidates"":0,""imageSearchCandidates"":0,""verifiedSearchCandidates"":0,""rawHtmlCandidates"":0}]",1
-Vertex Effects,Ultra Phonix,,PARKED,5,PARKED after 5 deep-review attempts: recovery hard timeout exceeded,1
+Pete Cornish / Pete Cornish Effects,P-1,,PARKED,5,PARKED after 5 deep-review attempts: recovery hard timeout exceeded,2
+Ampeg,A-1 Distortion,,PARKED,6,PARKED after 5 automatic photo attempts: recovery hard timeout exceeded,2
+Devi Ever FX,Hypnomangler,,PARKED,6,PARKED after 5 automatic photo attempts: recovery hard timeout exceeded,2
+Devi Ever FX,Soda Might,,PARKED,6,PARKED after 5 automatic photo attempts: recovery hard timeout exceeded,2
