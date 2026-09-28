@@ -5,6 +5,7 @@
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Pedal not found · The Dirt Archive</title>
 <meta name="description" content="That pedal record could not be found in The Dirt Archive.">
+<meta name="robots" content="noindex,follow">
 <link rel="stylesheet" href="./assets/css/archive-methodology.css">
 </head>
 <body>
@@ -13,11 +14,27 @@
     <div class="label">404 · Missing record</div>
     <h1 style="font-size:clamp(3rem,10vw,7rem);line-height:.86;letter-spacing:-.07em;margin:10px 0 16px">That pedal slipped off the board.</h1>
     <p>The address you followed does not resolve to a catalog page. The record may have moved, been consolidated, or never existed in the current census.</p>
+    <form id="missingSearch" class="notFoundSearch" role="search">
+      <label for="missingSearchInput" class="label">Search the archive</label>
+      <div class="notFoundSearchRow">
+        <input id="missingSearchInput" name="q" type="search" placeholder="Try a pedal or builder…" autocomplete="off">
+        <button class="action primary" type="submit">Search</button>
+      </div>
+    </form>
     <div class="methodFooter">
       <a class="action primary" href="./index.html">Back to the archive</a>
       <a class="action" href="./methodology.html">Read the methodology</a>
     </div>
   </section>
 </main>
+<script>
+document.getElementById('missingSearch')?.addEventListener('submit',event=>{
+  event.preventDefault();
+  const q=document.getElementById('missingSearchInput')?.value.trim();
+  const url=new URL('./index.html',location.href);
+  if(q)url.searchParams.set('q',q);
+  location.href=url.href;
+});
+</script>
 </body>
 </html>
