@@ -1,2 +1,2 @@
-Populate pass — consume latest exact pedal/photo sources — 2026-09-28T04:58:00-07:00
-Use current canonical catalog and source tables; recover exact local photos and publish only validator-approved changes.
+Populate exact-photo backlog — use newest manufacturer and verified secondary exact-model sources — 2026-09-28T05:12:00-07:00
+Recover local primary.webp assets for exact cataloged pedal/model/version records; reject mismatches; publish only verified images.
