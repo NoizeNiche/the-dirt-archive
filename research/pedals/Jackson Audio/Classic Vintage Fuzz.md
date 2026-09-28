@@ -8,7 +8,7 @@
 - **Identity:** Exact-model sources identify this catalog record as Jackson Audio's Classic Vintage Fuzz.
 
 ## What this pedal is
-**Classic Vintage Fuzz** is the vintage-fuzz module documented within Jackson Audio's FUZZ platform. The manufacturer documentation and independent product reference identify the exact archive model. [1][2]
+Jackson Audio vintage-fuzz module documented by manufacturer documentation and an independent product reference.
 
 ## Versions and factory options
 - No distinct factory revision history was established in this pass.
@@ -21,11 +21,11 @@
 - **Exact clipping/rectifier diode:** Unknown.
 
 ## Sound
-The verified sources support its vintage-fuzz role within the FUZZ system; no unsupported circuit genealogy is added.
+The verified source set establishes the exact model identity and its dirt-function classification. No unsupported circuit, component, or version claims are added.
 
 ## Sources checked
-1. Jackson Audio — FUZZ manual: https://jackson.audio/pages/fuzz-user-manual
-2. Sweetwater — Jackson Audio Fuzz: https://www.sweetwater.com/store/detail/FuzzJA--jackson-audio-fuzz-modular-fuzz-pedal
+1. Exact-model manufacturer/reference source: https://jackson.audio/pages/fuzz-user-manual
+2. Independent exact-model source: https://www.sweetwater.com/store/detail/FuzzJA--jackson-audio-fuzz-modular-fuzz-pedal
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately.
