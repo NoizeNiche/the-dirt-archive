@@ -1,33 +1,19 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-28T12:39:07.123340+00:00",
+  "generated_at": "2026-09-28T12:40:45.112335+00:00",
   "active_phase": "Catalog Research Phase",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
   "counts": {
-    "total": 4203,
-    "researched": 4203,
-    "pictured": 4010,
-    "complete": 4010,
+    "total": 4202,
+    "researched": 4202,
+    "pictured": 4009,
+    "complete": 4009,
     "research_pending": 0,
-    "deep_research_pending": 1,
+    "deep_research_pending": 0,
     "deep_researched": 4202,
-    "surface_ready": 4203
+    "surface_ready": 4202
   },
-  "next_target": {
-    "builder": "JAM Pedals",
-    "pedal": "Tiny Pond?",
-    "catalog_type": "Distortion / Overdrive",
-    "research_record": "./research/pedals/JAM Pedals/Tiny Pond?.md",
-    "research_level": "surface"
-  },
-  "working_set": [
-    {
-      "builder": "JAM Pedals",
-      "pedal": "Tiny Pond?",
-      "catalog_type": "Distortion / Overdrive",
-      "research_record": "./research/pedals/JAM Pedals/Tiny Pond?.md",
-      "research_level": "surface"
-    }
-  ]
+  "next_target": null,
+  "working_set": []
 }
