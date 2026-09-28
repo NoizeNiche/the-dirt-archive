@@ -2298,6 +2298,7 @@
   {
     "builder": "Ashdown Engineering",
     "pedal": "AGM PRO-FX Retro Drive",
+    "image": null,
     "source_page": "https://www.effectsdatabase.com/model/ashdown",
     "research_record": "./research/pedals/Ashdown Engineering/AGM PRO-FX Retro Drive.md"
   },
@@ -12367,6 +12368,7 @@
   {
     "builder": "Collins",
     "pedal": "CDT-1 Distortion",
+    "image": null,
     "source_page": null,
     "research_record": "./research/pedals/Collins/CDT-1 Distortion.md"
   },
@@ -15922,6 +15924,7 @@
   {
     "builder": "Devi Ever FX",
     "pedal": "Fuzz",
+    "image": null,
     "source_page": "https://www.effectsdatabase.com/model/deviever",
     "research_record": "./research/pedals/Devi Ever FX/Fuzz.md"
   },
@@ -17167,6 +17170,7 @@
   {
     "builder": "EarthQuaker Devices",
     "pedal": "Gray Channel",
+    "image": null,
     "source_page": null,
     "research_record": "./research/pedals/EarthQuaker Devices/Gray Channel.md"
   },
@@ -19938,14 +19942,12 @@
   {
     "builder": "Jackson Audio",
     "pedal": "Goat Head",
-    "image": "./assets/pedals/jackson-audio/goat-head/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Jackson Audio/Goat Head.md"
   },
   {
     "builder": "Jackson Audio",
     "pedal": "Golden Boy Mini Overdrive",
-    "image": "./assets/pedals/jackson-audio/golden-boy-mini-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Jackson Audio/Golden Boy Mini Overdrive.md"
   },
@@ -26497,14 +26499,12 @@
   {
     "builder": "SolidGoldFX",
     "pedal": "If 6 Was 9 BC183 MKII",
-    "image": "./assets/pedals/solidgoldfx/if-6-was-9-bc183-mkii/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/SolidGoldFX/If 6 Was 9 BC183 MKII.md"
   },
   {
     "builder": "SolidGoldFX",
     "pedal": "Imperial MKII",
-    "image": "./assets/pedals/solidgoldfx/imperial-mkii/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/SolidGoldFX/Imperial MKII.md"
   },

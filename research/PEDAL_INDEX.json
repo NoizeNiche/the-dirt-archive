@@ -39985,7 +39985,6 @@
       "types": [
         "Fuzz"
       ],
-      "image": "./assets/pedals/jackson-audio/goat-head/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Jackson Audio/Goat Head.md",
       "research_level": "deep",
@@ -39997,7 +39996,6 @@
       "types": [
         "Overdrive"
       ],
-      "image": "./assets/pedals/jackson-audio/golden-boy-mini-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Jackson Audio/Golden Boy Mini Overdrive.md",
       "research_level": "deep",
@@ -52256,7 +52254,6 @@
       "types": [
         "Fuzz"
       ],
-      "image": "./assets/pedals/solidgoldfx/if-6-was-9-bc183-mkii/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/SolidGoldFX/If 6 Was 9 BC183 MKII.md",
       "research_level": "deep",
@@ -52268,7 +52265,6 @@
       "types": [
         "Fuzz"
       ],
-      "image": "./assets/pedals/solidgoldfx/imperial-mkii/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/SolidGoldFX/Imperial MKII.md",
       "research_level": "deep",
