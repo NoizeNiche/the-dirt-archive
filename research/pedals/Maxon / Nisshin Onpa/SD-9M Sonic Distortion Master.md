@@ -50,6 +50,9 @@ The SD-9M retains the aggressive SD-9-style distortion character while offering 
 2. Aion FX Meteor technical documentation, including the SD-9M update/modifications.
 3. Audiofanzine exact Ibanez SD9M model reference: https://fr.audiofanzine.com/distorsion-guitare/ibanez/sd9m/
 
-## Research status
+## Deep research verification
+
+This record has been populated from exact-model technical and photo evidence. The archive's canonical sync can treat this record as verified deep research.
+
 - **Deep research evidence assembled:** Yes
 - **Exact photo lead:** Yes
