@@ -244,6 +244,8 @@ jobs:
       - uses: actions/download-artifact@v5
         with:
           path: research-evidence
+      - name: Ensure foreman inbox exists
+        run: mkdir -p research-evidence
       - name: Verify and admit only strong evidence packets
         run: python scripts/research-foreman.py
       - name: Recover stranded verified inbox packets
