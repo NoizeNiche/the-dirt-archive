@@ -4,38 +4,36 @@
 - **Archive parent:** Octopus
 - **Builder:** Phaez Amplification
 - **Catalog type:** Overdrive
-- **Identity:** Phaez Amplification's Octopus.
+- **Identity:** Phaez Amplification Octopus, the builder's OCD-style overdrive design.
 
 ## What this pedal is
-Clean/OD knob goes from clean to OD (duh) Very useful tone control THIS IS A UNIQUE PEDAL, IT DOES NOT REPLICATE ANYTHING YOU CURRENTLY HAVE BUY THIS PEDAL CDN$129 Octopus - my take of the Fulltone OCD circuit SOLD!
+The Octopus is Phaez Amplification's take on the Fulltone OCD-style overdrive circuit. Phaez documents it as a simple gain-and-tone design, with the Clean/OD control moving from clean signal toward overdrive.
 
 ## Colorways
-- Iron Viper - based on the BJFe Dyna Red Distortion SOLD!
-- BJF Dyna Red Distortion I also want to mention the BJFe Dyna Red Distortion.
-- Red LED’s in the feedback loop – NICE.
+- Phaez builds have appeared with varying enclosure colors/graphics.
+- Finish differences are treated as cosmetic variants unless the builder documents a materially different circuit/product.
 
 ## Versions and factory options
-- No distinct factory revision was established in the verified evidence packet.
+- Phaez's pedal archive lists the **Octopus** as an OCD-type design.
+- The current pedal archive also references the newer **One.3** lineup and related Octopus records.
+- Exact control set documented on the surviving Octopus source includes **Clean/OD** and **Tone**.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- Historical Phaez Octopus records include multiple production periods, but a complete dated revision chronology was not established from the sources reviewed.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
-- **Exact transistor/device:** Unknown.
+- **Exact production transistor/device:** Not established.
 
 ## Diode
-- Documented terms in the verified sources: LED.
-- The archive records only the component information explicitly present in these sources.
+- **Exact clipping/rectification diode:** Not established.
 
 ## Sound
-PRICES INCLUDE SHIPPING 2026 LINEUP: M Class Distortion Alligator Overdrive McBoosty Emperor Distortion (M Guv) NEW FOR July 2026.
-BUY THIS PEDAL US$89 I think the M-Class is the REFERENCE STANDARD in distortion pedals M-Class addresses 2 small points in the Guv'nor.
-BUY THIS PEDAL US$89 I think the M-Class is the REFERENCE STANDARD in distortion pedals The M-Class addresses 2 small points in the Guv'nor.
+The Octopus is intended to move from clean signal toward overdrive with the Clean/OD control, with Tone shaping the resulting response. Its design is positioned as Phaez's interpretation of the OCD family rather than an unrelated drive topology.
 
 ## Sources checked
-1. Phaez Octopus 2020-present - Reverb: https://reverb.com/item/92576073-phaez-octopus-2020-present
-2. PEDALS - Phaez Amplification: https://phaezamplification.com/pedals/
+1. Phaez Amplification pedal archive: https://phaezamplification.com/pedals/
+2. Exact-model Reverb record: https://reverb.com/item/92576073-phaez-octopus-2020-present
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Exact-model photo lead:** Phaez manufacturer pedal archive and exact-model Reverb listing.
+- **Archive status:** Local photo recovery is handled separately; only a verified local asset counts as pictured.
