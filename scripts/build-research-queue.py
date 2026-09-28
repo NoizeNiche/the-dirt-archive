@@ -44,17 +44,30 @@ def main():
     # than rediscovery. Keep ordering deterministic within each tier.
     source_override_counts = {}
     source_override_tiers = {}
+    source_override_keys = {}
+
+    def builder_variants(value):
+        raw = str(value or "").strip().casefold()
+        variants = {raw}
+        if " / " in raw:
+            variants.add(raw.split(" / ", 1)[0].strip())
+        if "/" in raw:
+            variants.add(raw.split("/", 1)[0].strip())
+        return {v for v in variants if v}
+
+    def source_key_variants(builder, pedal):
+        pedal_key = str(pedal or "").strip().casefold()
+        return {(b, pedal_key) for b in builder_variants(builder)}
+
     source_path = Path("research/RESEARCH_SOURCE_OVERRIDES.csv")
     if source_path.is_file():
         with source_path.open(newline="", encoding="utf-8") as handle:
             for source_row in csv.DictReader(handle):
-                builder = str(source_row.get("Builder") or "").strip().casefold()
-                pedal = str(source_row.get("Pedal") or "").strip().casefold()
+                builder = str(source_row.get("Builder") or "").strip()
+                pedal = str(source_row.get("Pedal") or "").strip()
                 url = str(source_row.get("Source URL") or "").strip()
                 note = str(source_row.get("Note") or "").strip().casefold()
                 if builder and pedal and url:
-                    key = (builder, pedal)
-                    source_override_counts[key] = source_override_counts.get(key, 0) + 1
                     tier = 2
                     if any(term in note for term in (
                         "official", "manufacturer", "exact maxon/godlyke", "exact mi audio",
@@ -64,7 +77,11 @@ def main():
                         tier = 0
                     elif "exact-model" in note or "exact model" in note:
                         tier = 1
-                    source_override_tiers[key] = min(source_override_tiers.get(key, tier), tier)
+                    for key in builder_variants(builder):
+                        variant_key = (key, pedal.casefold())
+                        source_override_keys.setdefault(variant_key, True)
+                        source_override_counts[variant_key] = source_override_counts.get(variant_key, 0) + 1
+                        source_override_tiers[variant_key] = min(source_override_tiers.get(variant_key, tier), tier)
 
     researched = 0
     pictured = 0
@@ -121,13 +138,19 @@ def main():
     deep_research_pending = research_pending + deep_research_pending
     deep_research_pending.sort(
         key=lambda item: (
-            source_override_tiers.get(
-                (str(item.get("builder") or "").strip().casefold(),
-                 str(item.get("pedal") or "").strip().casefold()), 3
+            min(
+                (
+                    source_override_tiers.get(key, 3)
+                    for key in source_key_variants(item.get("builder"), item.get("pedal"))
+                ),
+                default=3,
             ),
-            -source_override_counts.get(
-                (str(item.get("builder") or "").strip().casefold(),
-                 str(item.get("pedal") or "").strip().casefold()), 0
+            -max(
+                (
+                    source_override_counts.get(key, 0)
+                    for key in source_key_variants(item.get("builder"), item.get("pedal"))
+                ),
+                default=0,
             ),
             str(item.get("builder") or "").casefold(),
             str(item.get("pedal") or "").casefold(),
