@@ -4,40 +4,39 @@
 - **Archive parent:** Doomstick Fuzz
 - **Builder:** Mr. Black
 - **Catalog type:** Fuzz
-- **Identity:** Mr. Black's Doomstick Fuzz.
+- **Research level:** Deep
+- **Deep research status:** Verified
+- **Identity:** Mr. Black Doomstick Fuzz.
+
+## Deep research verification
+- **Exact-model evidence:** Verified against the exact Effects Database record plus supporting exact-model listings.
 
 ## What this pedal is
-Mr. Black's Doomstick Fuzz is cataloged as a fuzz pedal.
+Mr. Black's Doomstick is documented as a deliberately simple, heavy fuzz with a **single control**. Effects Database dates the model to March 24, 2018. [1]
 
-## Colorways
-- Black Doomstick Fuzz Published on March 24, 2018 Mr.
-- Black Doomstick Fuzz - Your Complete Music Store – Instruments, Vinyl & More FLASH SALE: EVERYTHING HALF PRICE!
-- Black Doomstick Fuzz” Cancel reply Your email address will not be published.
+## Controls
+- **Single control:** overall fuzz/level behavior. [1][2]
 
-## Versions and factory options
-- No distinct factory revision was established in the verified evidence packet.
-
-## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+## Circuit / architecture
+The retained exact-model evidence does not disclose a complete schematic or semiconductor bill of materials. The archive therefore does not infer a transistor or clipping-device complement.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
-- **Exact transistor/device:** Unknown.
+- **Exact production transistor/device:** Unknown.
 
 ## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
-- **Exact part:** Unknown.
+- **Exact production clipping diode:** Unknown.
+
+## Version/history
+- **Published:** 2018 in the exact Effects Database record. [1]
+- No separate production revision was established.
 
 ## Sound
-Black Doomstick Fuzz Published on March 24, 2018 Mr.
-Black Doomstick Fuzz - Your Complete Music Store – Instruments, Vinyl & More FLASH SALE: EVERYTHING HALF PRICE!
-Black Doomstick Fuzz” Cancel reply Your email address will not be published.
+The builder's retained description is intentionally blunt: Doomstick is a one-control fuzz aimed at very heavy, “doom” textures. [1][2]
 
 ## Sources checked
-1. Mr. Black Doomstick Fuzz | Effects Database: https://www.effectsdatabase.com/model/mrblack/doomstick
-2. Mr. Black Doomstick Fuzz - Reverb: https://reverb.com/item/97560410-mr-black-doomstick-fuzz
-3. Mr. Black Doomstick Fuzz - Your Complete Music Store – Instruments, Vinyl & More: https://www.vinylstorex.com/product/mr-black-doomstick-fuzz/
-4. Mr. Black Doomstick Fuzz &ndash; eastside music supply: https://eastsidemusicsupply.com/products/mr-black-doomstick-fuzz
+1. **Effects Database — Mr. Black Doomstick Fuzz:** https://www.effectsdatabase.com/model/mrblack/doomstick
+2. **eastside music supply — Mr. Black Doomstick Fuzz:** https://eastsidemusicsupply.com/products/mr-black-doomstick-fuzz
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately.
+- Exact-model photo provenance remains governed by the archive's photo identity gate.
