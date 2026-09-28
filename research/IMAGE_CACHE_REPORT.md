@@ -1,11 +1,11 @@
 # Pedal Image Cache Report
 
-- Cached in this run: **11**
+- Cached in this run: **5**
 - Staged browser photos converted: **0**
 - Local images retained/reorganized: **0**
 - Download failures: **1**
-- Remaining tracker photo backlog: **360**
-- Researched, photo pending: **360**
+- Remaining tracker photo backlog: **355**
+- Researched, photo pending: **355**
 - External source images awaiting localization: **0**
 
 ## Storage layout
@@ -16,17 +16,11 @@
 
 ## Newly cached
 
-- BIXONIC - EXP2001 Expandora II -> `./assets/pedals/bixonic/exp2001-expandora-ii/primary.webp`
-- Backbeat Electric - Blue Blender -> `./assets/pedals/backbeat-electric/blue-blender/primary.webp`
-- Barge Concepts - DB-1 Dual Boost -> `./assets/pedals/barge-concepts/db-1-dual-boost/primary.webp`
-- Barge Concepts - DB-3 Dual Boost -> `./assets/pedals/barge-concepts/db-3-dual-boost/primary.webp`
-- Behringer - Octavia - Octave Fuzz -> `./assets/pedals/behringer/octavia-octave-fuzz/primary.webp`
-- Colorsound / Sola Sound - Sola Sound Bum Fuzz Unit -> `./assets/pedals/colorsound-sola-sound/sola-sound-bum-fuzz-unit/primary.webp`
-- Devi Ever FX - 33 Silver Crank -> `./assets/pedals/devi-ever-fx/33-silver-crank/primary.webp`
-- Devi Ever FX - Fortune -> `./assets/pedals/devi-ever-fx/fortune/primary.webp`
-- Devi Ever FX - Ruiner -> `./assets/pedals/devi-ever-fx/ruiner/primary.webp`
-- Devi Ever FX - Silver Rose -> `./assets/pedals/devi-ever-fx/silver-rose/primary.webp`
-- MXR - Jail Guitar Doors Overdrive -> `./assets/pedals/mxr/jail-guitar-doors-overdrive/primary.webp`
+- Accel Audio - Stompzilla Fuzz -> `./assets/pedals/accel-audio/stompzilla-fuzz/primary.webp`
+- Bad Cat - Double Drive - Stackable Overdrive -> `./assets/pedals/bad-cat/double-drive-stackable-overdrive/primary.webp`
+- Devi Ever FX - Noise Floor -> `./assets/pedals/devi-ever-fx/noise-floor/primary.webp`
+- Devi Ever FX - PEEPlug -> `./assets/pedals/devi-ever-fx/peeplug/primary.webp`
+- Devi Ever FX - Soda Meiser 4K -> `./assets/pedals/devi-ever-fx/soda-meiser-4k/primary.webp`
 
 ## Still external / failed
 
