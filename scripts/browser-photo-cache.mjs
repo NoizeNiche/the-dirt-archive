@@ -2032,7 +2032,7 @@ async function recoverEntry(browser, entry, deepReview = false, recoveryDeadline
     const directImageUrls = Array.isArray(entry.image_source_urls) && entry.image_source_urls.length
       ? entry.image_source_urls.filter(value => /^https?:/i.test(String(value || "")))
       : (entry.image_source_url && /^https?:/i.test(entry.image_source_url) ? [entry.image_source_url] : []);
-    for (const imageUrl of [...new Set(directImageUrls)].slice(0, 3)) {
+    for (const imageUrl of [...new Set(directImageUrls)].filter(url => !isLikelyNonPedalAssetUrl(url)).slice(0, 3)) {
       candidates.push({
         url: imageUrl,
         sourcePage: entry.image_source_page || entry.source_page || null,
@@ -2045,10 +2045,10 @@ async function recoverEntry(browser, entry, deepReview = false, recoveryDeadline
     // Try them before spending time loading/searching the source page. This makes
     // hard-case recovery cheap when the source CDN itself is the only obstacle.
     let selectedResult = await tryImages(
-      candidates.filter(candidate => candidate.directImageOverride)
+      filterNonPedalCandidates(candidates.filter(candidate => candidate.directImageOverride))
     );
     if (!selectedResult) {
-      for (const candidate of candidates.filter(candidate => candidate.directImageOverride).slice(0, 3)) {
+      for (const candidate of filterNonPedalCandidates(candidates.filter(candidate => candidate.directImageOverride)).slice(0, 3)) {
         const shot = await screenshotDirectImageCandidate(candidate);
         if (shot) {
           selectedResult = { candidate, bytes: shot.bytes };
@@ -2191,9 +2191,10 @@ async function recoverEntry(browser, entry, deepReview = false, recoveryDeadline
         const legacyFeedImages = /([.]|^)effectsdatabase[.]com$/i.test(new URL(pageUrl).hostname)
           ? await effectsDatabaseFeedImageUrls(page, pageUrl)
           : [];
+        const safeLegacyFeedImages = legacyFeedImages.filter(url => !isLikelyNonPedalAssetUrl(url));
 
-        const legacyFeedSet = new Set(legacyFeedImages);
-        for (const raw of [...imageData, ...richImageData, ...legacyFeedImages]) {
+        const legacyFeedSet = new Set(safeLegacyFeedImages);
+        for (const raw of [...imageData, ...richImageData, ...safeLegacyFeedImages]) {
           for (const part of String(raw).split(/\s+/)) {
             if (/^https?:/i.test(part)) {
               const legacyExactImage =
@@ -2505,7 +2506,11 @@ async function recoverEntry(browser, entry, deepReview = false, recoveryDeadline
       return null;
     }
 
-    function isLikelyNonPedalAssetUrl(value) {
+    function filterNonPedalCandidates(candidates) {
+  return (candidates || []).filter(candidate => !isLikelyNonPedalAssetUrl(candidate?.url || candidate));
+}
+
+function isLikelyNonPedalAssetUrl(value) {
   try {
     const url = new URL(String(value || ''));
     const haystack = (url.hostname + url.pathname + url.search).toLowerCase();
