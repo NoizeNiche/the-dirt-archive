@@ -45,6 +45,7 @@ def main() -> None:
         BASE,
         BASE + "methodology.html",
         BASE + "audit.html",
+        BASE + "compare.html",
         *[public_url(str(item["company"]).strip(), str(item["pedal"]).strip()) for item in pedals],
     ]
 
