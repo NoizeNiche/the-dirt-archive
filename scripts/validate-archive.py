@@ -32,6 +32,9 @@ COMPARE = ROOT / "compare.html"
 PHOTO_CONTENT_AUDIT = ROOT / "scripts/audit-photo-content.py"
 PHOTO_CONTENT_WORKFLOW = ROOT / ".github/workflows/photo-content-audit.yml"
 PHOTO_SOURCE_BLOCKLIST = ROOT / "research/PHOTO_SOURCE_BLOCKLIST.json"
+PHOTO_CONTENT_QUARANTINE = ROOT / "research/PHOTO_CONTENT_QUARANTINE.csv"
+QUARANTINE_SCRIPT = ROOT / "scripts/quarantine-photo-content.py"
+QUARANTINE_WORKFLOW = ROOT / ".github/workflows/photo-content-quarantine.yml"
 BUILDER = ROOT / "builder.html"
 BUILDERS = ROOT / "builders.html"
 IDENTIFY = ROOT / "identify.html"
@@ -88,7 +91,7 @@ def forbidden_photo_provenance(value):
     return False
 
 def main():
-    required = (INDEX, MANIFEST, TRACKER, PHOTO_REVIEW_QUEUE, PHOTO_BACKLOG, PHOTO_SOURCE_OVERRIDES, PHOTO_DIRECT_IMAGE_OVERRIDES, RESEARCH_SOURCE_OVERRIDES, APPLY_PHOTO_SOURCE_OVERRIDES, CORE, INDEX_JS, DETAIL_JS, DEPLOY_AUDIT, LIVE_AUDIT, STATIC_SERVER, PHOTO_CACHE, FACET_BUILDER, HOME, DETAIL, COMPARE, BUILDER, BUILDERS, IDENTIFY, LEGACY, PHOTO_CONTENT_AUDIT, PHOTO_CONTENT_WORKFLOW, PHOTO_SOURCE_BLOCKLIST, DEPLOY, SITEMAP, ROBOTS, SITEMAP_BUILDER)
+    required = (INDEX, MANIFEST, TRACKER, PHOTO_REVIEW_QUEUE, PHOTO_BACKLOG, PHOTO_SOURCE_OVERRIDES, PHOTO_DIRECT_IMAGE_OVERRIDES, RESEARCH_SOURCE_OVERRIDES, APPLY_PHOTO_SOURCE_OVERRIDES, CORE, INDEX_JS, DETAIL_JS, DEPLOY_AUDIT, LIVE_AUDIT, STATIC_SERVER, PHOTO_CACHE, FACET_BUILDER, HOME, DETAIL, COMPARE, BUILDER, BUILDERS, IDENTIFY, LEGACY, PHOTO_CONTENT_AUDIT, PHOTO_CONTENT_WORKFLOW, PHOTO_SOURCE_BLOCKLIST, PHOTO_CONTENT_QUARANTINE, QUARANTINE_SCRIPT, QUARANTINE_WORKFLOW, DEPLOY, SITEMAP, ROBOTS, SITEMAP_BUILDER)
     missing = [p.relative_to(ROOT).as_posix() for p in required if not p.is_file()]
     if missing:
         raise SystemExit("Missing required archive files: " + ", ".join(missing))
@@ -194,7 +197,23 @@ def main():
             "Review photo provenance before publication: " + examples
         )
 
-    with PHOTO_SOURCE_OVERRIDES.open(newline="", encoding="utf-8") as handle:
+    with PHOTO_CONTENT_QUARANTINE.open(newline="", encoding="utf-8") as handle:
+        quarantine = list(csv.DictReader(handle))
+    required_quarantine_fields = {"Builder","Pedal","Image","Image Source URL","Image Source Page","Reason"}
+    if quarantine:
+        if not required_quarantine_fields.issubset(quarantine[0].keys()):
+            raise SystemExit("PHOTO_CONTENT_QUARANTINE.csv is missing required columns.")
+        qkeys = set()
+        for row in quarantine:
+            k = pair(row.get("Builder"), row.get("Pedal"))
+            if k in qkeys:
+                raise SystemExit(f"Duplicate photo quarantine identity: {k}")
+            qkeys.add(k)
+            if k not in catalog_by_key:
+                raise SystemExit(f"Photo quarantine contains an unknown catalog identity: {k}")
+            if not (row.get("Image") or "").strip():
+                raise SystemExit(f"Photo quarantine record has no original image path: {k}")
+        with PHOTO_SOURCE_OVERRIDES.open(newline="", encoding="utf-8") as handle:
         overrides = list(csv.DictReader(handle))
     with PHOTO_DIRECT_IMAGE_OVERRIDES.open(newline="", encoding="utf-8") as handle:
         direct_overrides = list(csv.DictReader(handle))
