@@ -1,2 +1,2 @@
-Small exact-photo pass — 2026-09-28T06:52:00-07:00
-Use the existing 201 unresolved records and their exact source leads. Manufacturer pages first, verified exact-model Reverb/retailer/database pages second. Save confirmed local images and reconcile the tracker.
+Photo population pass — 2026-09-28T06:02:00-07:00
+Use current exact-model source overrides. Manufacturer pages first; verified exact Reverb, retailer, database, and archival pages are valid fallbacks. Populate only exact pedal/version images.
