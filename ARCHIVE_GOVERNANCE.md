@@ -137,6 +137,16 @@ Do not substitute:
 
 The public fallback for an unresolved exact photo is **No Photo Archived**.
 
+
+## 7.1 Photo content integrity
+
+Photo validation has two public-quality gates:
+
+1. **Automatic rejection** for objective failures such as donation/support overlays, known blocked hashes, blocked provenance, tiny/corrupt files, unreadable assets, or near-transparent files.
+2. **Review-only escalation** for ambiguous visual cases such as unusually dark, low-detail, or otherwise difficult photographs. These are not automatically deleted because legitimate vintage/black pedal photographs can share those visual characteristics.
+
+A rejected photo returns the record to photo-needed state. The research record and quarantine history remain intact so recovery can resume without identity loss.
+
 ## 8. Local photo architecture
 
 Verified images are stored locally so the public site does not depend on an external image host.
