@@ -4,35 +4,40 @@
 - **Archive parent:** Steel Singer Drive
 - **Builder:** NUX Audio / NUX
 - **Catalog type:** Overdrive
-- **Identity:** NUX Audio / NUX's Steel Singer Drive.
+- **Research level:** Deep
+- **Deep research status:** Verified
+- **Identity:** NUX Steel Singer Drive.
+
+## Deep research verification
+- **Exact-model evidence:** Verified against two exact-model Audiofanzine records retained in the research inbox.
 
 ## What this pedal is
-NUX Audio / NUX's Steel Singer Drive is cataloged as an overdrive pedal.
+The verified records identify Steel Singer Drive as an NUX overdrive pedal and reference a **v15** production/documentation version. [1][2]
 
-## Colorways
-- No specific factory colorway information was established in the verified evidence packet.
+## Version history
+- **v15** is explicitly referenced by the verified evidence packet. [1]
+- A complete v1-to-v15 production change history was not established in the surviving sources.
 
-## Versions and factory options
-- The verified evidence references: v15.
-- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+## Controls
+The surviving exact-model sources establish the pedal as an overdrive but do not provide a reliable, complete control-panel transcription in the evidence retained by the archive.
+- **Exact control list:** Unresolved.
 
-## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+## Circuit / architecture
+The verified exact-model sources do not disclose a complete production schematic or semiconductor bill of materials.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
-- **Exact transistor/device:** Unknown.
+- **Exact production transistor/device:** Unknown.
 
 ## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
-- **Exact part:** Unknown.
+- **Exact production clipping diode:** Unknown.
 
 ## Sound
-The verified evidence packet did not contain enough pedal-specific sonic description to make a more detailed sound summary without adding unsupported interpretation.
+The verified sources support the pedal's overdrive identity, but the retained evidence is insufficient for a detailed manufacturer-authored sonic description. The archive leaves that section conservative rather than importing unrelated NUX model descriptions. [1][2]
 
 ## Sources checked
-1. NUX Steel Singer Drive - Overdrive guitare - Audiofanzine: https://fr.audiofanzine.com/overdrive-guitare/nux/steel-singer-drive/
-2. NUX Steel Singer Drive - Overdrive pedal - Audiofanzine: https://en.audiofanzine.com/overdrive-pedal/nux/steel-singer-drive/
+1. **Audiofanzine — NUX Steel Singer Drive (French):** https://fr.audiofanzine.com/overdrive-guitare/nux/steel-singer-drive/
+2. **Audiofanzine — NUX Steel Singer Drive (English):** https://en.audiofanzine.com/overdrive-pedal/nux/steel-singer-drive/
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately.
+- Exact-model photo provenance remains governed by the archive's photo identity gate.
