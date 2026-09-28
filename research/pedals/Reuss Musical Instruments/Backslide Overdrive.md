@@ -1,23 +1,39 @@
 # Reuss Musical Instruments — Backslide Overdrive
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** Backslide Overdrive
 - **Builder:** Reuss Musical Instruments
-- **Pedal:** Backslide Overdrive
 - **Catalog type:** Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Identity:** Reuss Backslide Overdrive.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Backslide Overdrive** by **Reuss Musical Instruments** as a **Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+The Reuss Backslide Overdrive is a boutique overdrive based on the builder's interpretation of the mid-1980s Tokai TOD-1 Overdrive. Reuss describes the pedal as using rare vintage semiconductors and a mechanical true-bypass switching scheme.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Colorways
+- **Metallic baby blue** powder-coated enclosure with silk-screened graphics.
+
+## Versions and factory options
+- First production batch was limited to **30 pedals** according to Reuss.
+- Internal **clipping switch** can select the stock asymmetrical clipping arrangement or a symmetrical arrangement.
+- Internal **fat switch** extends the low-frequency response by approximately one octave.
+- Runs from a standard 9 V pedal supply or battery and is documented by the manufacturer as tolerating up to 18 V for increased headroom.
+
+## Version changes
+- No separate factory revision was established in the manufacturer page reviewed.
+
+## Transistor
+- Reuss identifies **C2021E transistors** as part of the vintage semiconductor set used in the Backslide.
+
+## Diode
+- Reuss identifies **1S2473 clipping diodes** and distinguishes the stock asymmetrical arrangement from the alternate symmetrical setting.
+
+## Sound
+Reuss describes the Backslide as a clear, punchy, dynamic take on the Tokai circuit, with less noise and a more refined response. The internal clipping switch moves between the edgier stock asymmetrical response and a softer, more compressed symmetrical response, while the fat switch adds substantial low-end extension.
+
+## Sources checked
+1. Reuss Backslide Overdrive manufacturer page: https://www.reusseffects.com/products/backslide
+2. Reuss product collection: https://www.reusseffects.com/collections/all
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Exact-model photo lead:** Reuss manufacturer product page above.
+- **Archive status:** Local photo recovery is handled separately; only a verified local asset counts as pictured.
