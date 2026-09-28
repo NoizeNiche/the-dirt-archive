@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "purpose": "High-confidence non-product image source policy for The Dirt Archive photo recovery.",
+  "rules": [
+    {
+      "type": "exact_url",
+      "pattern": "https://files.effectsdatabase.com/graphics/buymeacoffee.png",
+      "reason": "Effects Database donation graphic, not a pedal photograph.",
+      "severity": "hard_block"
+    },
+    {
+      "type": "url_regex",
+      "pattern": "(?:buymeacoffee|patreon|ko[-_ ]?fi|paypal(?:\\.me|\\.com)?|cash\\.app|venmo|donat(?:e|ion)|sponsor(?:ship)?|checkout|payment)",
+      "reason": "Donation, payment, or support asset rather than an exact pedal photograph.",
+      "severity": "hard_block"
+    },
+    {
+      "type": "basename_regex",
+      "pattern": "(?:^|[-_.])(logo|favicon|sprite|avatar|badge|icon|social|banner|widget|placeholder|spinner)(?:[-_.]|$)",
+      "reason": "Generic site artwork or UI asset, not an exact pedal photograph.",
+      "severity": "hard_block"
+    }
+  ]
+}
