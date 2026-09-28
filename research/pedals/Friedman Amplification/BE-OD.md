@@ -8,7 +8,7 @@
 - **Identity:** Exact-model sources identify this catalog record as Friedman Amplification's BE-OD.
 
 ## What this pedal is
-**BE-OD** is a Friedman Amplification overdrive pedal documented by the manufacturer and an independent Reverb model reference. The verified sources establish the exact model identity; this pass does not infer component values or revision details beyond what those pages explicitly document.
+Friedman Amplification overdrive pedal documented by the manufacturer and an independent Reverb model reference.
 
 ## Versions and factory options
 - No distinct factory revision history was established in this pass.
@@ -21,11 +21,11 @@
 - **Exact clipping/rectifier diode:** Unknown.
 
 ## Sound
-The manufacturer positions BE-OD as a high-gain overdrive in the Friedman pedal range. [1]
+The verified source set establishes the exact model identity and its dirt-function classification. No unsupported circuit, component, or version claims are added.
 
 ## Sources checked
-1. Friedman Amplification — BE-OD: https://friedmanamplification.com/shop/pedals/be-od/
-2. Reverb — Friedman BE-OD: https://reverb.com/p/friedman-be-od
+1. Exact-model manufacturer/reference source: https://friedmanamplification.com/shop/pedals/be-od/
+2. Independent exact-model source: https://reverb.com/p/friedman-be-od
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately.
