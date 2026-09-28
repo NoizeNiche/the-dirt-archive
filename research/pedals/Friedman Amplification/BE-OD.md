@@ -1,23 +1,31 @@
 # Friedman Amplification — BE-OD
 
-## Surface catalog record
+## PRP identity
+- **Archive parent:** BE-OD
 - **Builder:** Friedman Amplification
-- **Pedal:** BE-OD
-- **Catalog type:** Distortion / Overdrive
-- **Research level:** Surface
-- **Deep research status:** Pending
-- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
+- **Research level:** Deep
+- **Deep research status:** Verified
+- **Identity:** Exact-model sources identify this catalog record as Friedman Amplification's BE-OD.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **BE-OD** by **Friedman Amplification** as a **Distortion / Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
+**BE-OD** is a Friedman Amplification overdrive pedal documented by the manufacturer and an independent Reverb model reference. The verified sources establish the exact model identity; this pass does not infer component values or revision details beyond what those pages explicitly document.
 
-## Catalog source
-- No source page is recorded in the current catalog metadata.
+## Versions and factory options
+- No distinct factory revision history was established in this pass.
+- No additional factory options are inferred beyond the exact-model source set.
+
+## Transistor
+- **Exact production transistor/device:** Unknown.
+
+## Diode
+- **Exact clipping/rectifier diode:** Unknown.
+
+## Sound
+The manufacturer positions BE-OD as a high-gain overdrive in the Friedman pedal range. [1]
+
+## Sources checked
+1. Friedman Amplification — BE-OD: https://friedmanamplification.com/shop/pedals/be-od/
+2. Reverb — Friedman BE-OD: https://reverb.com/p/friedman-be-od
 
 ## Photo
-- **Archive photo:** No verified local photo is currently archived.
-- Photo provenance and validation are handled separately from this surface research record.
-
-## Deep research
-- **Status:** Pending
-- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
+- **Archive status:** Photo recovery is handled separately.
