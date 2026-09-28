@@ -4,38 +4,48 @@
 - **Archive parent:** Extra Special
 - **Builder:** Mojo Hand FX
 - **Catalog type:** Overdrive
-- **Identity:** Mojo Hand FX's Extra Special.
+- **Research level:** Deep
+- **Deep research status:** Verified
+- **Identity:** Mojo Hand FX Extra Special high-gain overdrive.
+
+## Deep research verification
+- **Exact-model evidence:** Verified against the exact Mojo Hand FX manufacturer product page and supporting model records.
 
 ## What this pedal is
-Mojo Hand FX's Extra Special is cataloged as an overdrive pedal.
+Mojo Hand FX describes Extra Special as an expansion of the DMBL concept, aimed at medium- to higher-gain tones while retaining a broad usable range. [1]
 
-## Colorways
-- Like all Mojo Hand FX pedals, it comes in a sturdy, die-cast aluminum enclosure with true bypass switching, powder-coated finish, and UV printed artwork.
+## Controls and voicing
+- **GAIN**
+- **ACCENT:** Presence/Contour-like control.
+- **VOLUME**
+- **TONE**
+- **2-way tone toggle:** up Jazz, cutting high frequencies; down Rock. [1]
 
-## Versions and factory options
-- No distinct factory revision was established in the verified evidence packet.
-
-## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+## Circuit / architecture
+The verified manufacturer page establishes the control architecture and gain/voicing behavior but does not publish a complete production schematic or exact semiconductor complement.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
-- **Exact transistor/device:** Unknown.
+- **Exact production transistor/device:** Unknown.
 
 ## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
-- **Exact part:** Unknown.
+- **Exact production clipping diode:** Unknown.
+
+## Power and physical specification
+- **Power:** center-negative 9VDC supply or 9V battery. [1]
+- **Current draw:** approximately 11mA. [1]
+- **Bypass:** true bypass. [1]
+- **Dimensions:** approximately 4.8 × 2.62 × 1.55 inches. [1]
+- **Enclosure:** die-cast aluminum. [1]
+- **Finish:** powder-coated with UV-printed artwork. [1]
 
 ## Sound
-The Extra Special excels at the medium to higher gain tones associated with those legendary amps.
-Controls include the standard Volume, Gain, and Tone knobs, along with an Accent knob that acts much like a Presence or Contour control.
+Mojo Hand FX positions Extra Special around medium- to higher-gain overdrive, with Accent acting like presence/contour shaping and the Jazz/Rock toggle changing the high-frequency voice. [1]
 
 ## Sources checked
-1. Extra Special - MojoHandFX: https://mojohandfx.com/extra-special/
-2. Mojo Hand FX Extra Special Overdrive Pedal | Equipboard: https://equipboard.com/items/mojo-hand-fx-extra-special-overdrive
-3. Mojo Hand FX EXTRA SPECIAL Guitar Effects Pedal - eBay: https://www.ebay.com/itm/298585595444
-4. MojoHand FX Extra Special High Gain Overdrive - Reverb: https://reverb.com/item/96492991-mojohand-fx-extra-special-high-gain-overdrive
-5. MojoHand FX Extra Special High Gain Overdrive: https://collarcityguitars.com/products/mojohand-fx-extra-special-high-gain-overdrive
+1. **Mojo Hand FX — Extra Special:** https://mojohandfx.com/extra-special/
+2. **Equipboard — Mojo Hand FX Extra Special:** https://equipboard.com/items/mojo-hand-fx-extra-special-overdrive
+3. **Reverb — Mojo Hand FX Extra Special:** https://reverb.com/item/96492991-mojohand-fx-extra-special-high-gain-overdrive
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately.
+- Exact-model photo provenance remains governed by the archive's photo identity gate.
