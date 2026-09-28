@@ -125,6 +125,13 @@ def main():
         raise SystemExit("PEDAL_INDEX.json count does not match pedals length.")
 
     catalog_keys = [pair(x.get("company"), x.get("pedal")) for x in pedals]
+    blank_identity = [
+        pair(x.get("company"), x.get("pedal"))
+        for x in pedals
+        if not str(x.get("company") or "").strip() or not str(x.get("pedal") or "").strip()
+    ]
+    if blank_identity:
+        raise SystemExit("Canonical catalog contains blank Builder + Pedal identity: " + str(blank_identity[:12]))
     manifest_keys = [pair(x.get("builder"), x.get("pedal")) for x in manifest]
     if len(catalog_keys) != len(set(catalog_keys)):
         raise SystemExit("Duplicate Builder + Pedal identity in PEDAL_INDEX.json.")
