@@ -2523,9 +2523,18 @@ function imageBytesLookComplete(bytes, contentType = '') {
     async function tryImages(list) {
       const candidates = list
         .filter(candidate => candidate?.url && !isLikelyNonPedalAssetUrl(candidate.url))
+        .sort((a, b) => {
+          const score = candidate => {
+            const sourceScore = Number(candidate?.sourceScore) || 0;
+            const exact = candidate?.exactPhrase || candidate?.directImageOverride || candidate?.strongSearchIdentity ? 500 : 0;
+            const raw = candidate?.rawVerifiedPageImage || candidate?.linkedExactSourceImage || candidate?.embeddedImage ? 200 : 0;
+            return sourceScore + exact + raw;
+          };
+          return score(b) - score(a);
+        })
         .slice(0, CANDIDATE_LIMIT);
 
-      // Test the bounded candidate set concurrently. The old implementation
+      // Test the highest-quality bounded candidate set concurrently. The old implementation
       // serialized every CDN request, so one blocked image host could stall an
       // entire pedal attempt. Parallel requests preserve the same identity rules
       // while dramatically reducing wall-clock time.
