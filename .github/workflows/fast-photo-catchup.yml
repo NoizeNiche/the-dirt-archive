@@ -234,7 +234,7 @@ jobs:
           fi
           git commit -m "Archive fast verified pedal photos"
           for attempt in 1 2 3 4 5; do
-            if git push origin main; then
+            if timeout 30s env GIT_TERMINAL_PROMPT=0 git push origin main; then
               published_sha="$(git rev-parse HEAD)"
               if ! gh api --method POST "repos/$GITHUB_REPOSITORY/actions/workflows/deploy-pages.yml/dispatches" -f ref=main; then
                 echo "Pages deployment dispatch was not accepted; the published photo commit remains on main and deploy-on-push will handle it."
