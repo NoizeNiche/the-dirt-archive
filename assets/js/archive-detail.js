@@ -212,7 +212,25 @@ function renderColorways(item, colorways){
   }
 }
 
-function renderVersionFamily(item, allItems){\n  const section=$('versionFamilySection');\n  const target=$('versionFamily');\n  if(!section||!target)return;\n  const parentKey=String(item?.version_of||'').trim();\n  const parent=parentKey ? allItems.find(x=>isCatalogEntry(x)&&entryKey(x)===parentKey) : null;\n  const children=allItems.filter(x=>isCatalogEntry(x)&&x.version_of===entryKey(item)&&entryKey(x)!==entryKey(item));\n  if(!parent&&!children.length){section.hidden=true;target.innerHTML='';return}\n  const parentLink=parent\n    ? '<a class="familyParent" href="'+esc(detailUrl(parent,null,wantedType))+'"><span class="familyRole">Parent record</span><strong>'+esc(parent.pedal)+'</strong><span>'+esc(parent.company)+'</span></a>'\n    : '<div class="familyParent current"><span class="familyRole">Base record</span><strong>'+esc(item.pedal)+'</strong><span>'+esc(item.company)+'</span></div>';\n  const siblingHtml=children.length\n    ? '<div class="familySiblings"><span class="familyRole">Documented versions from this record</span>'+children.map(v=>'<a class="familySibling" href="'+esc(detailUrl(v,null,wantedType))+'">'+esc(v.version_label||v.pedal)+'</a>').join('')+'</div>'\n    : '';\n  target.innerHTML=parentLink+siblingHtml;\n  section.hidden=false;\n}\n\nfunction renderFamily(item, allItems){
+function renderVersionFamily(item, allItems){
+  const section=$('versionFamilySection');
+  const target=$('versionFamily');
+  if(!section||!target)return;
+  const parentKey=String(item?.version_of||'').trim();
+  const parent=parentKey ? allItems.find(x=>isCatalogEntry(x)&&entryKey(x)===parentKey) : null;
+  const children=allItems.filter(x=>isCatalogEntry(x)&&x.version_of===entryKey(item)&&entryKey(x)!==entryKey(item));
+  if(!parent&&!children.length){section.hidden=true;target.innerHTML='';return}
+  const parentLink=parent
+    ? '<a class="familyParent" href="'+esc(detailUrl(parent,null,wantedType))+'"><span class="familyRole">Parent record</span><strong>'+esc(parent.pedal)+'</strong><span>'+esc(parent.company)+'</span></a>'
+    : '<div class="familyParent current"><span class="familyRole">Base record</span><strong>'+esc(item.pedal)+'</strong><span>'+esc(item.company)+'</span></div>';
+  const siblingHtml=children.length
+    ? '<div class="familySiblings"><span class="familyRole">Documented versions from this record</span>'+children.map(v=>'<a class="familySibling" href="'+esc(detailUrl(v,null,wantedType))+'">'+esc(v.version_label||v.pedal)+'</a>').join('')+'</div>'
+    : '';
+  target.innerHTML=parentLink+siblingHtml;
+  section.hidden=false;
+}
+
+function renderFamily(item, allItems){
   const section=$('familySection'),card=$('familyCard');
   if(!section||!card)return;
   if(!item?.version_of){section.hidden=true;card.innerHTML='';return}
@@ -221,88 +239,6 @@ function renderVersionFamily(item, allItems){\n  const section=$('versionFamilyS
   const type=(wantedType&&parent.types?.includes(wantedType))?wantedType:'';
   card.innerHTML='<a class="familyCardLink" href="'+esc(detailUrl(parent,null,type))+'"><span class="familyCardEyebrow">Parent model</span><strong>'+esc(parent.pedal)+'</strong><span>'+esc(parent.company)+'</span></a>';
   section.hidden=false;
-}
-
-function renderVersions(item, versions){
-  if(!versions.length){$('versionsSection').hidden=true;return}
-  $('versionsSection').hidden=false;
-  $('versions').innerHTML=versions.map(v=>{
-    const label=v.version_label||v.pedal;
-    const media=v.image
-      ? '<img src="'+esc(v.image)+'" alt="'+esc(item.company+' '+label)+'" loading="lazy" decoding="async" referrerpolicy="no-referrer"><span class="thumbFallback" hidden></span>'
-      : '<span aria-hidden="true"></span>';
-    const versionType=(wantedType && wantedType!=='All' && (v.types||[]).includes(wantedType))?wantedType:'';
-    return '<a class="variantCard" href="'+detailUrl(v, null, versionType)+'">'+
-      '<span class="variantThumb">'+media+'</span><span class="variantName">'+esc(label)+'</span>'+
-    '</a>';
-  }).join('');
-  wireThumbnailFallbacks('.variantThumb img');
-}
-
-async function sharePedal(){
-  const button=$('sharePedal');
-  if(!button)return;
-  const shareData={title:document.title,url:location.href};
-  try{
-    if(navigator.share){
-      await navigator.share(shareData);
-      return;
-    }
-    if(navigator.clipboard){
-      await navigator.clipboard.writeText(location.href);
-    }else{
-      const input=document.createElement('input');
-      input.value=location.href;
-      input.setAttribute('readonly','');
-      input.style.position='fixed';
-      input.style.opacity='0';
-      document.body.appendChild(input);
-      input.select();
-      document.execCommand('copy');
-      input.remove();
-    }
-    const original=button.textContent;
-    button.textContent='Link copied';
-    setTimeout(()=>{button.textContent=original},1400);
-  }catch(error){
-    if(error?.name!=='AbortError')console.warn('Could not share pedal link.',error);
-  }
-}
-
-function renderRelated(allItems,item){
-  const currentKey=entryKey(item);
-  const currentTypes=new Set(item.types||[]);
-  const candidates=allItems
-    .filter(x=>isCatalogEntry(x)&&entryKey(x)!==currentKey)
-    .map(x=>{
-      const sameBuilder=x.company===item.company;
-      const sameType=(x.types||[]).some(t=>currentTypes.has(t));
-      const score=sameBuilder&&sameType?0:sameBuilder?1:sameType?2:3;
-      return {item:x,score};
-    })
-    .filter(x=>x.score<3)
-    .sort((a,b)=>a.score-b.score||a.item.pedal.localeCompare(b.item.pedal)||a.item.company.localeCompare(b.item.company))
-    .slice(0,6)
-    .map(x=>x.item);
-
-  const section=$('relatedSection');
-  const target=$('related');
-  if(!section||!target)return;
-  if(!candidates.length){section.hidden=true;target.innerHTML='';return}
-
-  section.hidden=false;
-  target.innerHTML=candidates.map(x=>{
-    const relationType=wantedType&&wantedType!=='All'&&(x.types||[]).includes(wantedType)?wantedType:'';
-    const media=x.image
-      ? '<img src="'+esc(x.image)+'" alt="'+esc(x.company+' '+x.pedal)+' pedal" loading="lazy" decoding="async" referrerpolicy="no-referrer"><span class="thumbFallback" hidden></span>'
-      : '<span></span>';
-    return '<a class="relatedCard" href="'+detailUrl(x,null,relationType)+'">'+
-      '<span class="relatedThumb">'+media+'</span>'+
-      '<span class="relatedName">'+esc(x.pedal)+'</span>'+
-      '<span class="relatedBuilder">'+esc(x.company)+'</span>'+
-    '</a>';
-  }).join('');
-  wireThumbnailFallbacks('.relatedThumb img');
 }
 
 function renderDemo(item){
