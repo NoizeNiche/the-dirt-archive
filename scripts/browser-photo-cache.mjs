@@ -4641,6 +4641,38 @@ function imageBytesLookComplete(bytes, contentType = '') {
   // backlog so a stubborn hard case can never consume an entire run repeatedly.
   // Once the normal researched-photo backlog is empty, the same scheduler opens
   // the deep-review queue and works through it.
+  // Backlog fallback: the generated PHOTO_BACKLOG.csv is a second source of
+  // truth for the unresolved researched-photo gate. If a tracker/catalog key
+  // mismatch ever makes an otherwise valid backlog record disappear from
+  // orderedCandidates, recover it here instead of silently running a no-op pass.
+  if (!TARGET_BUILDER && !TARGET_PEDAL && fs.existsSync(path.join(ROOT, 'research/PHOTO_BACKLOG.csv'))) {
+    try {
+      const backlogRows = csvRows(fs.readFileSync(path.join(ROOT, 'research/PHOTO_BACKLOG.csv'), 'utf8'));
+      const backlogKeys = new Set(backlogRows
+        .filter(row => String(row.Picture || '').trim().toUpperCase() !== 'DONE')
+        .filter(row => String(row.Action || '').trim().toUpperCase() === 'PHOTO_NEEDED' ||
+          String(row['PRP Complete'] || '').trim().toUpperCase() === 'NEEDED')
+        .map(row => key(row.Builder, row.Pedal)));
+      const orderedKeys = new Set(orderedCandidates.map(entry => key(entry.company, entry.pedal)));
+      const fallbackCandidates = (catalog.pedals || [])
+        .filter(entry => backlogKeys.has(key(entry.company, entry.pedal)))
+        .filter(entry => !orderedKeys.has(key(entry.company, entry.pedal)))
+        .filter(entry => entry.research_record)
+        .filter(entry => trackerMeta.get(key(entry.company, entry.pedal))?.pictureDone !== true)
+        .sort((a, b) => {
+          const aPriority = Number(a.image_source_priority) || 0;
+          const bPriority = Number(b.image_source_priority) || 0;
+          return bPriority - aPriority || String(a.company).localeCompare(String(b.company)) || String(a.pedal).localeCompare(String(b.pedal));
+        });
+      if (fallbackCandidates.length) {
+        orderedCandidates.push(...fallbackCandidates);
+        console.log('Photo backlog fallback restored ' + fallbackCandidates.length + ' candidate(s) that were missing from the tracker/catalog join.');
+      }
+    } catch (err) {
+      console.log('Photo backlog fallback probe failed: ' + String(err?.message || err));
+    }
+  }
+
   let candidates = orderedCandidates;
   if (!TARGET_BUILDER && !TARGET_PEDAL) {
     const normalCandidates = orderedCandidates.filter(entry => {
