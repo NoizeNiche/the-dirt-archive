@@ -128,12 +128,29 @@ jobs:
               x["pedal"].casefold(),
               x["_order"],
           ))
+
+          # Keep genuinely hard review cases visible every pass, but rotate the
+          # ordinary backlog in small 50-record windows. This prevents repeated
+          # failures in the first alphabetic slice from starving later records.
+          batch_size = 50
+          must_try = [t for t in targets if t["_priority"] <= 1]
+          rotating = [t for t in targets if t["_priority"] > 1]
+          remaining = max(0, batch_size - len(must_try))
+          run_number = int(os.environ.get("GITHUB_RUN_NUMBER", "1") or "1")
+          if rotating and len(rotating) > remaining:
+              offset = ((run_number - 1) * remaining) % len(rotating)
+              window = rotating[offset:offset + remaining]
+              if len(window) < remaining:
+                  window += rotating[:remaining - len(window)]
+          else:
+              window = rotating[:remaining]
+          selected = must_try + window
           targets = [
               {"builder": t["builder"], "pedal": t["pedal"]}
-              for t in targets[:100]
+              for t in selected
           ]
           print("matrix=" + json.dumps({"include": targets}, ensure_ascii=False, separators=(",", ":")))
-          print(f"Prepared {len(targets)} prioritized photo targets (hard cases and curated sources first; bounded to 100 per pass).", file=sys.stderr)
+          print(f"Prepared {len(targets)} photo targets (hard cases retained; ordinary backlog rotates in 50-record windows).", file=sys.stderr)
           PY
 
   recover:
