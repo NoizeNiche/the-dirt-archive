@@ -6719,12 +6719,12 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/backbeat-electric/blue-blender/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/backbeat",
       "research_record": "./research/pedals/Backbeat Electric/Blue Blender.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_url": null,
+      "image_source_url": "https://files.effectsdatabase.com/graphics/buymeacoffee.png",
       "image_source_page": "https://www.effectsdatabase.com/model/backbeat"
     },
     {
@@ -8114,11 +8114,13 @@
         "Overdrive",
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/barge-concepts/db-1-dual-boost/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/bargeconcepts/db1",
       "research_record": "./research/pedals/Barge Concepts/DB-1 Dual Boost.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://files.effectsdatabase.com/gear/pics/bargeconcepts_db-1_001.jpg",
+      "image_source_page": "https://www.effectsdatabase.com/model/bargeconcepts/db1"
     },
     {
       "company": "Barge Concepts",
@@ -8140,11 +8142,13 @@
         "Overdrive",
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/barge-concepts/db-3-dual-boost/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/bargeconcepts/db3",
       "research_record": "./research/pedals/Barge Concepts/DB-3 Dual Boost.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://files.effectsdatabase.com/gear/pics/bargeconcepts_db-3_001.jpg",
+      "image_source_page": "https://www.effectsdatabase.com/model/bargeconcepts/db3"
     },
     {
       "company": "Baroni Lab",
@@ -9445,11 +9449,13 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/behringer/octavia-octave-fuzz/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/behringer/octavia",
       "research_record": "./research/pedals/Behringer/Octavia - Octave Fuzz.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://files.effectsdatabase.com/gear/pics/behringer_octavia_001.jpg",
+      "image_source_page": "https://www.effectsdatabase.com/model/behringer/octavia"
     },
     {
       "company": "Behringer",
@@ -11684,12 +11690,12 @@
         "Overdrive",
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/bixonic/exp2001-expandora-ii/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/bixonic",
       "research_record": "./research/pedals/Bixonic/EXP2001 Expandora II.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_url": null,
+      "image_source_url": "https://files.effectsdatabase.com/graphics/buymeacoffee.png",
       "image_source_page": "https://www.effectsdatabase.com/model/bixonic"
     },
     {
@@ -26342,12 +26348,13 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/colorsound-sola-sound/sola-sound-bum-fuzz-unit/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Colorsound / Sola Sound/Sola Sound Bum Fuzz Unit.md",
-      "image_source_page": "https://sites.google.com/site/davidmorrinoldsite/home/trouble/troubleeffects/sola-sound-tone-bender",
+      "image_source_page": "https://reverb.com/item/45906769-sola-sound-bum-fuzz-unit-fuzz-pedal",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://rvb-img.reverb.com/i/s--63gEjF83--/gravity=auto,quality=medium-low,width=200,height=200,format=jpeg/vensedobfuf2uu2rrtsa.jpg"
     },
     {
       "company": "Colorsound / Sola Sound",
@@ -31462,7 +31469,7 @@
       "research_record": "./research/pedals/DeadastronautFX/EasyDriver.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://deadastronaut.wixsite.com/effects/easydrivepcbdeadastronautfx"
+      "image_source_page": "https://deadastronaut.wixsite.com/effects"
     },
     {
       "company": "DeadastronautFX",
@@ -32031,11 +32038,13 @@
       "types": [
         "Fuzz"
       ],
-      "image": "",
+      "image": "./assets/pedals/devi-ever-fx/33-silver-crank/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/deviever",
       "research_record": "./research/pedals/Devi Ever FX/33 Silver Crank.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://files.effectsdatabase.com/brands/thumbs/deviever_devi_fxdb-shirt_001.jpg",
+      "image_source_page": "https://www.effectsdatabase.com/model/deviever"
     },
     {
       "company": "Devi Ever FX",
@@ -32318,11 +32327,13 @@
       "types": [
         "Fuzz"
       ],
-      "image": "",
+      "image": "./assets/pedals/devi-ever-fx/fortune/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/deviever",
       "research_record": "./research/pedals/Devi Ever FX/Fortune.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://files.effectsdatabase.com/brands/pics/deviever_001.jpg",
+      "image_source_page": "https://www.effectsdatabase.com/model/deviever"
     },
     {
       "company": "Devi Ever FX",
@@ -32659,11 +32670,13 @@
       "types": [
         "Fuzz"
       ],
-      "image": "",
+      "image": "./assets/pedals/devi-ever-fx/ruiner/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/deviever",
       "research_record": "./research/pedals/Devi Ever FX/Ruiner.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://files.effectsdatabase.com/brands/pics/deviever_001.jpg",
+      "image_source_page": "https://www.effectsdatabase.com/model/deviever"
     },
     {
       "company": "Devi Ever FX",
@@ -32683,11 +32696,13 @@
       "types": [
         "Fuzz"
       ],
-      "image": "",
+      "image": "./assets/pedals/devi-ever-fx/silver-rose/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/deviever",
       "research_record": "./research/pedals/Devi Ever FX/Silver Rose.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://files.effectsdatabase.com/brands/pics/deviever_001.jpg",
+      "image_source_page": "https://www.effectsdatabase.com/model/deviever"
     },
     {
       "company": "Devi Ever FX",
@@ -39520,7 +39535,8 @@
       "source_page": null,
       "research_record": "./research/pedals/JAM Pedals/Double Dreamer.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_page": "https://jampedals.com/shop/double-dreamer/?v=bf391b589afb"
     },
     {
       "company": "JAM Pedals",
@@ -41782,7 +41798,7 @@
       "research_record": "./research/pedals/KMA Machines/Queequeq 2.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://www.rockboard.de/en/pedalPedia/KMA-Machines/Queequeq-2/68980943/"
+      "image_source_page": "https://shop.kmamachines.com/pages/products"
     },
     {
       "company": "KMA Machines",
@@ -43058,7 +43074,8 @@
       "source_page": null,
       "research_record": "./research/pedals/Mad Professor Amplification/Fire Red Fuzz.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_page": "https://mpamp.com/files/manuals/Fire%20Red%20Fuzz%20HW%20manual.pdf"
     },
     {
       "company": "Mad Professor Amplification",
@@ -43131,7 +43148,8 @@
       "source_page": null,
       "research_record": "./research/pedals/Mad Professor Amplification/Mighty Red Distortion.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_page": "https://mpamp.com/product/48/mighty-red-distortion"
     },
     {
       "company": "Mad Professor Amplification",
@@ -47089,11 +47107,13 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/mxr/jail-guitar-doors-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/MXR/Jail Guitar Doors Overdrive.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://cdn11.bigcommerce.com/s-n26aknlnlm/images/stencil/1280x1280/products/2340/11858/JGD2.MAIN__12656.1757437236.jpg?c=2",
+      "image_source_page": "https://www.jimdunlop.com/mxr-jail-guitar-doors-overdrive/"
     },
     {
       "company": "MXR",
@@ -52634,7 +52654,8 @@
       "source_page": null,
       "research_record": "./research/pedals/Tech 21 NYC/Bass Boost Fuzz.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_page": "https://www.tech21nyc.com/t21manuals/Boost_BassFuzz_OM.pdf"
     },
     {
       "company": "Tech 21 NYC",
@@ -55836,7 +55857,8 @@
       "source_page": null,
       "research_record": "./research/pedals/Wampler Pedals/Triple Wreck.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_page": "https://www.wamplerpedals.com/wp-content/uploads/2019/11/Triple_Wreck.pdf"
     },
     {
       "company": "Wampler Pedals",

@@ -1,11 +1,11 @@
 # Pedal Image Cache Report
 
-- Cached in this run: **5**
+- Cached in this run: **11**
 - Staged browser photos converted: **0**
 - Local images retained/reorganized: **0**
 - Download failures: **1**
-- Remaining tracker photo backlog: **374**
-- Researched, photo pending: **374**
+- Remaining tracker photo backlog: **365**
+- Researched, photo pending: **365**
 - External source images awaiting localization: **0**
 
 ## Storage layout
@@ -18,9 +18,15 @@
 
 - BIXONIC - EXP2001 Expandora II -> `./assets/pedals/bixonic/exp2001-expandora-ii/primary.webp`
 - Backbeat Electric - Blue Blender -> `./assets/pedals/backbeat-electric/blue-blender/primary.webp`
-- Devi Ever FX - AE Aenima -> `./assets/pedals/devi-ever-fx/ae-aenima/primary.webp`
-- Devi Ever FX - Hyperion 2 -> `./assets/pedals/devi-ever-fx/hyperion-2/primary.webp`
-- Devi Ever FX - OK -> `./assets/pedals/devi-ever-fx/ok/primary.webp`
+- Barge Concepts - DB-1 Dual Boost -> `./assets/pedals/barge-concepts/db-1-dual-boost/primary.webp`
+- Barge Concepts - DB-3 Dual Boost -> `./assets/pedals/barge-concepts/db-3-dual-boost/primary.webp`
+- Behringer - Octavia - Octave Fuzz -> `./assets/pedals/behringer/octavia-octave-fuzz/primary.webp`
+- Colorsound / Sola Sound - Sola Sound Bum Fuzz Unit -> `./assets/pedals/colorsound-sola-sound/sola-sound-bum-fuzz-unit/primary.webp`
+- Devi Ever FX - 33 Silver Crank -> `./assets/pedals/devi-ever-fx/33-silver-crank/primary.webp`
+- Devi Ever FX - Fortune -> `./assets/pedals/devi-ever-fx/fortune/primary.webp`
+- Devi Ever FX - Ruiner -> `./assets/pedals/devi-ever-fx/ruiner/primary.webp`
+- Devi Ever FX - Silver Rose -> `./assets/pedals/devi-ever-fx/silver-rose/primary.webp`
+- MXR - Jail Guitar Doors Overdrive -> `./assets/pedals/mxr/jail-guitar-doors-overdrive/primary.webp`
 
 ## Still external / failed
 
