@@ -457,7 +457,7 @@ async function targetRecord(builder,pedal,type){
   // from those pages before relying on search-engine discovery. This is
   // especially useful for punctuation-heavy vintage model names that search
   // engines may normalize poorly.
-  const minedLinks = await boundedMap(urls, 3, async u => {
+  const minedLinks = await boundedMap(urls, 5, async u => {
     if(verifiedCache.has(u)) return [];
     const page=await get(u);
     if(!page) return [];
@@ -477,7 +477,9 @@ async function targetRecord(builder,pedal,type){
   // either URL may be dead, blocked, or redirect to an unusable page. This
   // prevents curated leads from accidentally suppressing the discovery
   // search that can supply a second independent source.
-  const cachedHosts = new Set([...verifiedCache.keys()].map(host).filter(Boolean));
+  const cachedHosts = new Set(
+    urls.filter(u => verifiedCache.has(u)).map(host).filter(Boolean)
+  );
   const knownHosts = new Set(urls.map(host).filter(Boolean));
   // Curated source hosts are only sufficient once they have actually produced
   // verified cached evidence. Unfetched override URLs can be generic, blocked,
@@ -495,7 +497,7 @@ async function targetRecord(builder,pedal,type){
   const candidates=[...found.values()];
   const ranked=candidates.map(x=>({x,f:fit(builder,pedal,x.title+' '+x.url)}))
     .sort((a,b)=>b.f.score-a.f.score).slice(0,12);
-  const fetched = await boundedMap(ranked, 3, async item => {
+  const fetched = await boundedMap(ranked, 5, async item => {
     const curatedExactCandidate =
       recordSourceUrls.has(item.x.url) ||
       recordSourceUrls.has(item.x.url.split('#')[0]) ||
