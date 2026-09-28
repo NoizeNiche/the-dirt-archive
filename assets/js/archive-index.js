@@ -222,6 +222,8 @@ function searchScore(x){
   if(company.includes(needle)||normalizedCompany.includes(normalizedNeedle))return 4;
   if(pedal.includes(needle)||normalizedPedal.includes(normalizedNeedle))return 5;
   if(variation.includes(needle)||normalizedVariation.includes(normalizedNeedle))return 6;
+  const facetSearch=String(facetRecords.get(entryKey(x))?.search||'');
+  if(facetSearch.includes(needle)||normalizeSearchText(facetSearch).includes(normalizedNeedle))return 7;
   return 99;
 }
 
@@ -451,6 +453,14 @@ window.addEventListener('keydown',e=>{
   if(e.key==='/'&&document.activeElement?.tagName!=='INPUT'&&document.activeElement?.tagName!=='TEXTAREA'){
     e.preventDefault();
     $('search')?.focus();
+  }
+  if(e.key==='Escape'&&document.activeElement?.tagName==='INPUT'&&document.activeElement?.id==='search'&&q){
+    e.preventDefault();
+    q='';
+    $('search').value='';
+    currentPage=1;
+    syncUrl(true);
+    render();
   }
 });
 
