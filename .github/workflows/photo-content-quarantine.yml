@@ -73,7 +73,9 @@ jobs:
           merge-multiple: true
 
       - name: Merge audit reports
-        run: python scripts/merge-photo-audit.py /tmp/photo-audit-shards --output /tmp/photo-content-audit.csv
+        run: |
+          python scripts/merge-photo-audit.py /tmp/photo-audit-shards --output /tmp/photo-content-audit.csv
+          cp /tmp/photo-quality-review.csv research/PHOTO_QUALITY_REVIEW.csv
 
       - name: Quarantine high-confidence contamination
         run: python scripts/quarantine-photo-content.py /tmp/photo-content-audit.csv
