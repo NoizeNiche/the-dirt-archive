@@ -1,2 +1,2 @@
-Photo population pass — exact Effects Database leads — 2026-09-28T06:58:00-07:00
-Use current exact-model photo sources; preserve exact identity and cache only verified pedal/version images.
+Photo population pass — batched worker engine — 2026-09-28T07:10:00-07:00
+Process 50 unresolved exact-photo records in one Playwright worker using 8-way concurrency; manufacturer pages first, verified exact secondary sources second.
