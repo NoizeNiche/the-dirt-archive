@@ -27,6 +27,7 @@
   <div class="boardSurface correctionSurface">
     <section class="correctionHero">
       <div class="heroEyebrow">Correction channel</div>
+      <div class="correctionContext" id="correctionContext" hidden></div>
       <h1>Help keep the archive accurate.</h1>
       <p class="correctionIntro">The Dirt Archive is maintained as a factual reference. Builders, collectors, repair techs, historians, and other visitors can report missing pedals, wrong model identities, version distinctions, inaccurate photographs, or better source material.</p>
 
@@ -46,7 +47,7 @@
       </div>
 
       <div class="correctionActions">
-        <a class="action primary" href="https://github.com/NoizeNiche/the-dirt-archive/issues/new?template=archive-correction.md">Open correction form</a>
+        <a class="action primary" id="openCorrectionForm" href="https://github.com/NoizeNiche/the-dirt-archive/issues/new?template=archive-correction.md">Open correction form</a>
         <a class="action" href="./index.html">Back to archive</a>
         <a class="action" href="./builders.html">Browse builders</a>
       </div>
@@ -57,5 +58,6 @@
 </main>
 
 <footer class="siteFooter"><div class="wrap"><span>The Dirt Archive · accuracy over guesses</span><span><a href="./index.html">Archive</a><a href="./builders.html">Builders</a><a href="./identify.html">Identify</a></span></div></footer>
+<script src="./assets/js/archive-corrections.js" defer></script>
 </body>
 </html>
