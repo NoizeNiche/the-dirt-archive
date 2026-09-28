@@ -9,6 +9,7 @@ on:
       - 'scripts/sync_prp_catalog.py'
       - 'scripts/generate-surface-records.py'
       - 'scripts/build-research-queue.py'
+      - 'research/pedals/**'
   schedule:
     - cron: '*/15 * * * *'
   workflow_dispatch:
