@@ -50,7 +50,7 @@ ThorpyFX has released the Kudu, a new overdrive pedal designed by founder Adrian
 - ThorpyFX has released the Kudu, a new overdrive pedal designed by founder Adrian Thorpe to complement rather than color an amplifier's natural voice.
 - The Bad Cash, Silver Spurs, Black Swamp, The FreaQ, Steam, and Tremonator represent a broad statement from a new builder staking territory in a market dominated by established names.
 
-### Verified transistor/device terms
+### Verified amp references
 - AC30.
 
 ### Verified sound evidence
