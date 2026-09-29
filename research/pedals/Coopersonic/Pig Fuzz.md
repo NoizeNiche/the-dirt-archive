@@ -1,4 +1,4 @@
-# Coopersonic - Pig Fuzz
+# Coopersonic — Pig Fuzz
 
 ## Research identity
 - **Builder:** Coopersonic
@@ -7,52 +7,32 @@
 - **Identity:** Silicon fuzz based on the Jordan Boss Tone circuit with a high-impedance FET buffer and enlarged capacitors.
 
 ## What this pedal is
-Coopersonic states that Pig Fuzz uses a silicon fuzz circuit based on the Jordan Boss Tone, combined with a high-impedance FET buffer and larger capacitors for a fatter response. The manufacturer describes high-gain operation that can become unstable and generate low-octave and brutal fuzz textures. [1]
-
-## Controls
-The checked manufacturer page does not expose a reliable complete control list in text.
+Coopersonic describes Pig Fuzz as a silicon fuzz based on the Jordan Boss Tone, modified with a high-impedance FET buffer and larger capacitors for a fatter response.
 
 ## Versions and factory options
-- **Circuit:** silicon fuzz based on Jordan Boss Tone, with high-impedance FET buffer. [1]
-- **Power:** 9V DC Boss-type adapter only; no battery. [1]
-- **Versions:** footswitch and desktop versions. [1]
-- **Additional capacitors:** larger capacitors are documented as part of the design change from the referenced Boss Tone circuit. [1]
+- Footswitch and desktop versions are documented.
+- 9V DC adapter only; no battery.
+- Larger capacitors are part of the documented design change.
 
 ## Version changes
-The footswitch and desktop versions are retained as documented form factors rather than treated as circuit revisions. [1]
+- Footswitch and desktop versions are treated as form-factor options rather than separate circuits.
 
 ## Construction
-The design uses a silicon fuzz stage with a high-impedance FET buffer and larger capacitors. [1]
+The design uses a silicon fuzz stage with a high-impedance FET buffer.
 
 ## Transistor
-- **Fuzz device family:** silicon transistors. [1]
-- **Buffer device:** high-impedance FET buffer. [1]
+- Silicon transistors in the fuzz circuit.
+- High-impedance FET buffer.
 - Exact part numbers are not documented.
 
 ## Diode
-- **Exact clipping/rectification diode/device:** Not publicly documented.
+- Exact clipping/rectification diode/device is not publicly documented.
 
 ## Sound
-Coopersonic describes very high gain, with instability at high settings that can generate low octaves and aggressive fuzz. [1]
-
-## Photo provenance
-- Manufacturer exact-model page: https://coopersonic.com/product/spam-fuzz/
-- Manufacturer page includes footswitch and desktop product images. [1]
+Coopersonic describes very high gain and unstable behavior at extreme settings, including low-octave and aggressive fuzz textures.
 
 ## Sources checked
 1. Coopersonic - Pig Fuzz: https://coopersonic.com/product/spam-fuzz/
 
-## Deep research verification
-
-This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
-
-### Verified description
-Coopersonic's Pig Fuzz is cataloged as a fuzz pedal.
-
-### Verified sound evidence
-Pig Fuzz – coopersonic coopersonic hand-built, high-quality effects pedals Pig Fuzz now available, it’s sick… Plenty of Germaniacs in stock.
-The can has then been filled with a silicon fuzz circuit based on the renowned Jordan Boss Tone, but with a high impedance FET buffer, bigger capacitors for a fatter sound and of course like most things Coopersonic, stupid amounts of gain.
-This will get quite unstable at high gain giving low octaves and brutal fuzz.
-
-### Sources checked in this pass
-1. Pig Fuzz – coopersonic: https://coopersonic.com/product/spam-fuzz/
+## Photo
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.

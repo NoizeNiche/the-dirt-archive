@@ -1,4 +1,4 @@
-# Coolmusic - Multiple Distortion
+# Coolmusic — Multiple Distortion
 
 ## Research identity
 - **Builder:** Coolmusic
@@ -7,66 +7,40 @@
 - **Identity:** Coolmusic digital heavy-metal distortion pedal offering six selectable distortion effects.
 
 ## What this pedal is
-Effects Database describes the Coolmusic Multiple Distortion as a digital heavy-metal distortion pedal with six distortion effects to choose from. It includes volume and gain adjustment plus low-, middle- and high-frequency controls. [1]
+The Multiple Distortion is a digital distortion pedal with six selectable distortion effects. Effects Database and the manufacturer's documentation show separate level/gain controls plus Low, Mid and High frequency shaping.
 
 ## Controls
-The documented control set is:
 - **Mode**
 - **Level**
 - **Gain**
 - **Low**
 - **Mid**
-- **High** [1]
+- **High**
 
-The manufacturer manual additionally shows the same six-function control layout for the COOLMUSIC MULTIPLE Distortion product family. [2]
-
-## Colorways
-- Compact aluminum-alloy enclosure is documented.
-- Cosmetic differences are not treated as revisions without direct evidence.
+## Construction and power
+- Digital DSP-based effects processing.
+- Aluminum-alloy enclosure.
+- 1/4-inch mono input/output.
+- 9V DC center-negative adapter.
+- Approx. 115 × 66 × 35 mm.
+- Approx. 210 g.
 
 ## Versions and factory options
-- **Power:** 9V DC center-negative adapter. [1]
-- **Signal:** 1/4-inch monaural input/output.
-- **Enclosure:** aluminum alloy.
-- **Size:** approximately 115 × 66 × 35 mm in the manufacturer's manual. [2]
-- **Weight:** approximately 210g bare metal in the documented product specifications. [1]
-
-## Version changes
-No reliable numbered hardware revision sequence was established.
-
-## Construction
-This model is explicitly digital and offers six selectable distortion effects. [1]
+- No reliable numbered hardware revision was established.
 
 ## Transistor
-- **Principal effect architecture:** digital DSP processing.
-- Exact supporting device list not documented.
+- Principal effect architecture is digital DSP.
+- Supporting semiconductor list is not documented.
 
 ## Diode
-- **Exact clipping/rectification diode/device:** Not publicly documented.
+- Exact clipping/rectification device is not publicly documented.
 
 ## Sound
-The pedal is designed around six selectable heavy-metal distortion modes with broad three-band frequency shaping and separate level/gain controls. [1]
-
-## Photo provenance
-- Exact-model recovery lead: https://www.effectsdatabase.com/model/coolmusic/multipledistortion
-- Manufacturer manual/product family: https://www.coolmusic-tech.com/public/uploads/files/20210817/be18d63c4bd7cefb50e387bf47e91a3b.pdf
+The pedal is designed around six selectable heavy-metal distortion voices with broad three-band EQ shaping. More specific circuit descriptions are not asserted without additional documentation.
 
 ## Sources checked
 1. Effects Database - Coolmusic Multiple Distortion: https://www.effectsdatabase.com/model/coolmusic/multipledistortion
 2. Coolmusic official Multiple Distortion manual: https://www.coolmusic-tech.com/public/uploads/files/20210817/be18d63c4bd7cefb50e387bf47e91a3b.pdf
 
-## Deep research verification
-
-This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
-
-### Verified description
-Coolmusic's Multiple Distortion is cataloged as a distortion pedal.
-
-### Verified sound evidence
-Multiple Distortion Coolmusic Link Multiple Distortion Type Distortion - Popularity - Average Price - - Status Unknown - Genealogy Our Genealogy Project attempts to create a family tree of all gain effects by mapping the pedal(s) that directly preceded them.
-
-### Sources checked in this pass
-1. CoolMusic Multiple Distortion Pedal: https://www.onlypedals.com/Cool-Music-Multi-Distortion-Pedal
-2. COOLMUSIC MULTIPLE Distortion Pedal Free Shipping Special Price: https://www.ebay.com/itm/800397781883
-3. Coolmusic Multiple Distortion 2020s - Silver - Reverb: https://reverb.com/item/98491926-coolmusic-multiple-distortion-2020s-silver
-4. Coolmusic Multiple Distortion | AllThePedals: https://allthepedals.com/pedals/coolmusic-multiple-distortion
+## Photo
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.

@@ -1,63 +1,43 @@
-# Coopersonic - Dual-Valve Distortion (Regular)
+# Coopersonic — Dual-Valve Distortion (Regular)
 
 ## Research identity
 - **Builder:** Coopersonic
 - **Catalog identity:** Dual-Valve Distortion (Regular)
 - **Catalog type:** Distortion
-- **Identity:** Regular version of Coopersonic's Dual-Valve Distortion, using Soviet military 6N2P-EV valves.
+- **Identity:** Regular version of Coopersonic's Dual-Valve Distortion.
 
 ## What this pedal is
-Coopersonic describes the Dual-Valve Distortion as the pedal that started the company's pedal line. The regular version uses two Soviet Military 6N2P-EV valves running at high voltage and is designed to cover drive from subtle crunch through extreme distortion. [1]
-
-## Controls
-Coopersonic documents a powerful two-band EQ but does not provide a reliable complete control list in the checked public page. [1]
+The regular Dual-Valve Distortion is a two-valve, high-voltage distortion pedal. Coopersonic describes it as the model that started the company's pedal line and uses Soviet military 6N2P-EV valves.
 
 ## Versions and factory options
-- **Valves:** two Soviet Military 6N2P-EV valves. [1]
-- **Power:** international AC adapter supplied; Coopersonic's FAQ specifies 12V DC, 500mA, centre-positive for the valve pedals. [2]
-- **Switching:** true bypass. [1]
-- **Enclosure:** diecast metal case. [1]
-- **Indicator:** high-brightness red LED. [1]
+- **Valves:** two Soviet Military 6N2P-EV.
+- Two-band EQ.
+- True bypass.
+- Die-cast metal enclosure.
+- High-brightness red LED.
+- Coopersonic's valve-pedal FAQ specifies 12V DC, 500mA, centre-positive operation.
 
 ## Version changes
-The regular and deluxe versions are intentionally retained as separate catalog identities. The deluxe replaces the former Deluxe Valve Overdrive and uses different valves/component changes. [1]
+- The regular and Deluxe versions are separate catalog identities.
+- The Deluxe uses different valves/component changes and replaced the former Deluxe Valve Overdrive.
 
 ## Construction
-The pedal uses two high-voltage valves in a hand-built Coopersonic design, with a two-band EQ. The public material does not provide a complete component-level schematic. [1][3]
+The public material does not provide a complete component-level schematic.
 
 ## Transistor
-- **Principal gain devices:** vacuum valves, not a transistor gain stage.
-- Exact supporting semiconductor device list not documented.
+- Primary gain devices are vacuum valves, not a transistor gain stage.
+- Exact supporting semiconductor devices are not documented.
 
 ## Diode
-- **Exact clipping/rectification diode/device:** Not publicly documented.
+- Exact clipping/rectification diode/device is not publicly documented.
 
 ## Sound
-Coopersonic describes a range from subtle crunch to over-the-top distortion, with enough gain to reach fuzz-like behavior at higher drive settings. [1]
-
-## Photo provenance
-- Manufacturer: https://coopersonic.com/product/dual-valve-distortion-regular/
-- Manufacturer manual: https://coopersonic.com/wp-content/uploads/2019/10/Coopersonic_Dual_Valve_Distortion_Manual.pdf
+The regular version covers subtle crunch through very high-gain distortion, with fuzz-like behavior possible at extreme settings.
 
 ## Sources checked
 1. Coopersonic - Dual-Valve Distortion (Regular): https://coopersonic.com/product/dual-valve-distortion-regular/
 2. Coopersonic FAQ Pedals: https://coopersonic.com/faq-pedals/
 3. Coopersonic Dual Valve Distortion manual: https://coopersonic.com/wp-content/uploads/2019/10/Coopersonic_Dual_Valve_Distortion_Manual.pdf
 
-## Deep research verification
-
-This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
-
-### Verified description
-Home / distortion / Dual-Valve Distortion (Regular) Dual-Valve Distortion (Regular) £ 200.00 The Dual Valve Distortion is offered in two versions, this regular version with Soviet Military 6N2P-EV valves and the Deluxe version.
-
-### Verified diode terms
-- LED.
-
-### Verified sound evidence
-Dual-Valve Distortion (Regular) – coopersonic coopersonic hand-built, high-quality effects pedals Pig Fuzz now available, it’s sick… Plenty of Germaniacs in stock.
-Home / distortion / Dual-Valve Distortion (Regular) Dual-Valve Distortion (Regular) £ 200.00 The Dual Valve Distortion is offered in two versions, this regular version with Soviet Military 6N2P-EV valves and the Deluxe version.
-The Deluxe version replaces our “Deluxe Valve Overdrive”, and has vintage Mullard ECC81 valves fitted, and some component changes.
-
-### Sources checked in this pass
-1. Dual-Valve Distortion (Regular) – coopersonic: https://coopersonic.com/product/dual-valve-distortion-regular/
+## Photo
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.
