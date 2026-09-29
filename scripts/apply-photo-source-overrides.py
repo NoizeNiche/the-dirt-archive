@@ -17,6 +17,7 @@ from pathlib import Path
 INDEX = Path("research/PEDAL_INDEX.json")
 OVERRIDES = Path("research/PHOTO_SOURCE_OVERRIDES.csv")
 DIRECT_OVERRIDES = Path("research/PHOTO_DIRECT_IMAGE_OVERRIDES.csv")
+MANUAL_REVIEW = Path("research/PHOTO_MANUAL_REVIEW.csv")
 
 
 def key(builder: str, pedal: str) -> tuple[str, str]:
@@ -45,6 +46,19 @@ def main() -> None:
             source_page = row.get("Image Source Page", "").strip()
             if builder and pedal and source_page:
                 overrides.setdefault(key(builder, pedal), []).append((source_page, row_index, ""))
+
+    manual_verified = {}
+    if MANUAL_REVIEW.exists():
+        with MANUAL_REVIEW.open(newline="", encoding="utf-8") as handle:
+            for row in csv.DictReader(handle):
+                if str(row.get("Status") or "").strip().upper() != "VERIFIED_PRIMARY":
+                    continue
+                builder = row.get("Builder", "").strip()
+                pedal = row.get("Pedal", "").strip()
+                image_url = row.get("Image URL", "").strip()
+                source_page = row.get("Source Page", "").strip()
+                if builder and pedal:
+                    manual_verified[key(builder, pedal)] = (source_page, image_url)
 
     direct_overrides = {}
     if DIRECT_OVERRIDES.exists():
@@ -113,12 +127,26 @@ def main() -> None:
             # historical representative. When competing direct leads exist,
             # require an explicit PHOTO REVIEW: PRIMARY marker before exposing
             # a direct URL to the fast publication lane.
-            reviewed = [row for row in direct if "photo review: primary" in str(row[3] or "").lower()]
-            if len(direct) > 1 and not reviewed:
+            reviewed = [
+                row for row in direct
+                if entry_key in manual_verified
+                and manual_verified[entry_key][1]
+                and row[1] == manual_verified[entry_key][1]
+                and "photo review: primary" in str(row[3] or "").lower()
+            ]
+            if not reviewed:
+                matching_manual = [
+                    row for row in direct
+                    if entry_key in manual_verified
+                    and manual_verified[entry_key][1]
+                    and row[1] == manual_verified[entry_key][1]
+                ]
+                reviewed = matching_manual[-1:] if matching_manual else []
+            if reviewed:
+                primary = reviewed[-1]
+                primary_page, primary_priority = primary[0], 1000000
+            elif direct:
                 primary_page, primary_priority = direct[-1][0], 50000
-            else:
-                primary = reviewed[-1] if reviewed else direct[-1]
-                primary_page, primary_priority = primary[0], 1000000 if reviewed else 100000
         else:
             primary_page, primary_priority, _ = override[-1]
         if entry.get("image_source_pages") != pages:
@@ -141,21 +169,25 @@ def main() -> None:
             # recovery worker intentionally bounds direct-image retries.
             # Older rows remain as fallbacks, but must not crowd the newest
             # verified image out of the first retry window.
-            reviewed = [row for row in direct if "photo review: primary" in str(row[3] or "").lower()]
-            if len(direct) > 1 and not reviewed:
-                # Competing image URLs remain available as source-page evidence,
-                # but are not copied into the direct fast lane until reviewed.
+            manual_image = manual_verified.get(entry_key, ("", ""))[1]
+            reviewed = [
+                row for row in direct
+                if manual_image and row[1] == manual_image
+            ]
+            if reviewed:
+                primary = reviewed[-1]
+                direct_urls = list(dict.fromkeys(
+                    image_url for _, image_url, _, _ in reversed(reviewed)
+                ))
+                direct_page = primary[0]
+                direct_url = primary[1]
+            else:
+                # Unreviewed direct URLs remain research leads only. Do not expose
+                # them as catalog image_source_url fields that the browser lane can
+                # treat as high-confidence direct images.
                 direct_urls = []
                 direct_page = direct[-1][0]
                 direct_url = ""
-            else:
-                ordered_direct = reviewed[-1:] + [row for row in reversed(direct) if row not in reviewed]
-                direct_urls = list(dict.fromkeys(
-                    image_url for _, image_url, _, _ in ordered_direct
-                ))
-                primary = reviewed[-1] if reviewed else direct[-1]
-                direct_page = primary[0]
-                direct_url = primary[1]
             if entry.get("image_source_page") != direct_page:
                 entry["image_source_page"] = direct_page
             if direct_url:
