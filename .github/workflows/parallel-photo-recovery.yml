@@ -11,10 +11,10 @@ permissions:
   actions: write
 
 concurrency:
-  group: dirt-photo-recovery-v3
+  group: dirt-photo-publishing-v1
   # Keep only the newest legacy recovery attempt; stale queued passes block
   # the strict visual-review lane without adding value.
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 jobs:
   prepare:
