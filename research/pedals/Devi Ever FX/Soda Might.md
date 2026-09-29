@@ -9,7 +9,7 @@
 
 ## What this pedal is
 
-Devi Ever FX's Soda Might is cataloged as a fuzz pedal.
+Soda Might Published on January 15, 2012 Devi Ever FX fuzz pedal Information Devi Ever FX The Soda Might (formerly known as the 33 or Silver Crank) is a classic muff like fuzz with a distinctive short decay.
 
 ## Colorways
 
@@ -47,3 +47,26 @@ The verified evidence packet did not contain enough pedal-specific sonic descrip
 ## Photo
 
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Soda Might Published on January 15, 2012 Devi Ever FX fuzz pedal Information Devi Ever FX The Soda Might (formerly known as the 33 or Silver Crank) is a classic muff like fuzz with a distinctive short decay.
+
+### Verified version references
+- The evidence references: MK2.
+
+### Verified transistor/device terms
+- Germanium Fuzz.
+
+### Verified sound evidence
+Soda Might Published on January 15, 2012 Devi Ever FX fuzz pedal Information Devi Ever FX The Soda Might (formerly known as the 33 or Silver Crank) is a classic muff like fuzz with a distinctive short decay.
+A great devi fuzz for those looking for something big like the Soda Meiser, but with out all the insanity.
+Soda Might is just one of the gain stages from the Soda Meiser.
+
+### Sources checked in this pass
+1. Один момент…: https://pedalzoo.ru/devi-ever-fx-soda-might.html
+2. Devi Ever FX Soda Might педаль фузз купить в Москве в интернет-магазине Kombik: https://www.kombik.com/catalog/view/devi-ever-fx-soda-might/
+3. Devi Ever FX Soda Might | Effects Database: https://www.effectsdatabase.com/model/deviever/sodamight
