@@ -22,9 +22,10 @@ permissions:
 
 concurrency:
   group: dirt-photo-recovery-v4
-  # Photo publication is rehydration-safe. Let a running finish-line pass finish
-  # so a second source commit cannot cancel already-recovered work.
-  cancel-in-progress: false
+  # Rehydrate from the latest main snapshot on every pass. A stale browser
+  # recovery run is disposable because a newer pass can safely repeat the
+  # same exact-source work without publishing partial state.
+  cancel-in-progress: true
 
 jobs:
   recover:
