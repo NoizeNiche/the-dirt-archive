@@ -3,38 +3,35 @@
 ## PRP identity
 - **Archive parent:** Red Snapper 4 Knob Mini
 - **Builder:** Menatone
-- **Catalog type:** Distortion / Overdrive
+- **Catalog type:** Overdrive
 - **Identity:** Menatone's Red Snapper 4 Knob Mini.
 
 ## What this pedal is
-Red Snapper 4 Knob Mini $159 Add to Cart This is the mini version of the Red Snapper, because pedal board space is the most expensive real estate on earth.
-
-## Colorways
-- menatone top of page THE FINEST HANDMADE EFFECTS SINCE 1996 PEDALS HOME MOJO Red Snapper Mojo PTP Blue Collar Mojo PTP Top Boost in a Can Mojo The Law Bender Deluxe Redneck vs.
-- Sputnik PTP/DELUXE Red Snapper 4 Knob PTP Blue Collar PTP Das Boost PTP The Howie Deluxe None More Black Deluxe STANDARD The King.
-- Top Boost in a Can Wreck'T Fish Factory MenaWatt PiG The Dirty Blonde MINI Red Snapper Mini Red Snapper 4 knob Mini Blue Collar Mini JAC Compressor Mini Thundering Revival Mini The Law Mini Hindenburg Mini Mail Bomb Mini Pleasure Trem Mini Ms.
+The 4 Knob Mini is the compact version of Menatone's four-control Red Snapper. Menatone states that it uses the same circuit as the 4 Knob Red Snapper and retains the Hi Cut function.
 
 ## Versions and factory options
-- No distinct factory revision was established in the verified evidence packet.
+- Same circuit as the 4 Knob Red Snapper.
+- **Hi Cut** control.
+- Through-hole construction.
+- Handmade in the USA.
+- 9V power supply only, no battery.
+- Approx. 1.5 × 3.66 inches.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- The defining difference from the simpler Red Snapper Mini is the four-knob/Hi Cut configuration.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
-- **Exact transistor/device:** Unknown.
+- Exact production semiconductor complement was not established.
 
 ## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
-- **Exact part:** Unknown.
+- Exact clipping-device information was not established.
 
 ## Sound
-menatone top of page THE FINEST HANDMADE EFFECTS SINCE 1996 PEDALS HOME MOJO Red Snapper Mojo PTP Blue Collar Mojo PTP Top Boost in a Can Mojo The Law Bender Deluxe Redneck vs.
-Sputnik PTP/DELUXE Red Snapper 4 Knob PTP Blue Collar PTP Das Boost PTP The Howie Deluxe None More Black Deluxe STANDARD The King.
-Top Boost in a Can Wreck'T Fish Factory MenaWatt PiG The Dirty Blonde MINI Red Snapper Mini Red Snapper 4 knob Mini Blue Collar Mini JAC Compressor Mini Thundering Revival Mini The Law Mini Hindenburg Mini Mail Bomb Mini Pleasure Trem Mini Ms.
+Hi Cut allows the gain to be pushed by the Bite control while reducing the added brightness later in the circuit.
 
 ## Sources checked
-1. Red Snapper 4 knob Mini | menatone: https://www.menatone.com/copy-of-red-snapper-mini
+1. Menatone - Red Snapper 4 Knob Mini: https://www.menatone.com/copy-of-red-snapper-mini
+2. Menatone - Mini pedals: https://www.menatone.com/mini
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.
