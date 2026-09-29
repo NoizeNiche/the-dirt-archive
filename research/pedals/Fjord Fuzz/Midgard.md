@@ -7,38 +7,33 @@
 - **Identity:** Fjord Fuzz's Midgard.
 
 ## What this pedal is
-The Fjord Fuzz Midgard does two, and the second one is the reason to buy it.
+Midgard combines a fuzz circuit with an optional buffer and pickup-simulator section placed before the fuzz. The separate input for that front-end feature makes it possible to integrate Midgard with a wider range of signal-chain configurations.
 
 ## Colorways
-- No specific factory colorway information was established in the verified evidence packet.
+- Black Sand and other limited finishes are documented across the product's production.
+- No complete finish chronology was established.
 
 ## Versions and factory options
-- No distinct factory revision was established in the verified evidence packet.
-
-## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- Fuzz circuit.
+- Optional buffer/pickup simulator.
+- Separate input for the buffer/pickup-simulator function.
+- Silicon **BC108** transistor terminology is documented.
+- No complete numbered production revision chronology was established.
 
 ## Transistor
-- Documented terms in the verified sources: BC108.
-- The archive records only the component information explicitly present in these sources.
+- **Documented device:** BC108.
+- Exact production complement is not established.
 
 ## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
-- **Exact part:** Unknown.
+- Exact clipping-device information was not established.
 
 ## Sound
-Similar to many fuzzes before it, MIDGARD let’s you add a buffer and a pickup simulator in front of the fuzz circuit itself.
-This makes it so that the fuzz no longer cares about whatever you might stick in front of it, but unlike other pedals like it, MIDGARD has a fully separate input jack just for this feature.
-The bypass switch only toggles the fuzz circuit.
+Midgard is designed to preserve predictable fuzz behavior even when other pedals precede it. The pickup simulator/buffer can feed the fuzz with a controlled source and is independently routable.
 
 ## Sources checked
-1. Fjord Fuzz MIDGARD Fuzz New from Authorized Dealer - Black Sand - Reverb: https://reverb.com/item/99379691-fjord-fuzz-midgard-fuzz-new-from-authorized-dealer-black-sand
-2. Fjord Fuzz MIDGARD: https://www.infinityguitars.com/store/p2094/Fjord_Fuzz_MIDGARD.html
-3. New Pedal: Fjord Fuzz Midgard | Delicious Audio: https://delicious-audio.com/fjord-fuzz-midgard/
-4. Fjord Fuzz Midgard Pedal - Free Shipping in Canada: https://electricmojoguitars.com/products/fjord-fuzz-midgard
-5. Fjord Fuzz MIDGARD Fuzz Pedal (Black Sand) EFFECTS - NEW - eBay: https://www.ebay.com/itm/307050979482
-6. Fjord Fuzz Midgard Fuzz & Reamplifier Martel Music Custom Purple: https://martelmusicstore.com/products/fjord-fuzz-midgard-fuzz-reamplifier
-7. Fjord Fuzz Midgard Black Sand – Volt Music Store: https://www.voltmusicstore.com/products/fjord-fuzz
+1. Fjord Fuzz - Midgard references: https://fjordfuzz.com/
+2. Delicious Audio - Midgard: https://delicious-audio.com/fjord-fuzz-midgard/
+3. Reverb - Fjord Fuzz Midgard: https://reverb.com/item/99379691-fjord-fuzz-midgard-fuzz-new-from-authorized-dealer-black-sand
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.
