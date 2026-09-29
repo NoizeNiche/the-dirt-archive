@@ -78,16 +78,30 @@ def load_identity_quarantine() -> dict[tuple[str, str], set[str]]:
 
 
 def load_hash_quarantine() -> set[tuple[str, str]]:
-    rows: set[tuple[str, str]] = set()
+    # Only cross-builder byte collisions are hard quarantines. Same-builder
+    # collisions remain review evidence because legitimate aliases, variants,
+    # and shared manufacturer photography can be byte-identical.
+    rows = []
     try:
         with PHOTO_HASH_QUARANTINE.open(newline="", encoding="utf-8") as handle:
-            for row in csv.DictReader(handle):
-                k = key(row.get("Builder", ""), row.get("Pedal", ""))
-                if k[0] and k[1]:
-                    rows.add(k)
+            rows = list(csv.DictReader(handle))
     except Exception:
-        pass
-    return rows
+        return set()
+
+    builders_by_hash = {}
+    for row in rows:
+        digest = str(row.get("Blob SHA256") or "").strip()
+        builder = str(row.get("Builder", "")).strip()
+        if digest and builder:
+            builders_by_hash.setdefault(digest, set()).add(builder)
+
+    hard = set()
+    for row in rows:
+        digest = str(row.get("Blob SHA256") or "").strip()
+        k = key(row.get("Builder", ""), row.get("Pedal", ""))
+        if k[0] and k[1] and len(builders_by_hash.get(digest, set())) > 1:
+            hard.add(k)
+    return hard
 
 
 def slug(value: str) -> str:
