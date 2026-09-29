@@ -51,7 +51,6 @@ The DS-1 produces a tight, hard-edged distortion with smooth sustain and strong 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
 
 ### Verified description
-99 Join Prime to get FREE delivery Wed, Sep 30 Add to cart Customers say Customers praise this distortion pedal for its wide range of sounds, with one mentioning it can produce AC/DC and Van Halen tones.
 
 ### Verified color/finish evidence
 - Since its birth in 1978, this orange rectangle has been punk’s companion, metal’s prelude, and bedroom shredders’ first hit of gain.
@@ -63,7 +62,6 @@ This pass adds only claims supported by the newly admitted exact-model evidence.
 - LED.
 
 ### Verified sound evidence
-99 Join Prime to get FREE delivery Wed, Sep 30 Add to cart Customers say Customers praise this distortion pedal for its wide range of sounds, with one mentioning it can produce AC/DC and Van Halen tones.
 Boss DS-1 Distortion – United States Served with love!
 409939 , not included) Dimensions (W x D x H): 73 x 129 x 59 mm Weight: 360 g 30 30-Day Money-Back Guarantee 3 3-Year Thomann Warranty Item number 102371 Sales Unit 1 piece(s) Overdrive No Distortion Yes Fuzz No Metal No Try out the effects live Test the actual effects in real time with our exclusive technology.
 
