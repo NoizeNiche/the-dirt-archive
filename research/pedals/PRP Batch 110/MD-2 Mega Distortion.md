@@ -60,8 +60,6 @@ BOSS's MD-2 Mega Distortion is cataloged as a distortion pedal.
 ### Verified sound evidence
 Boss MD-2 Mega Distortion – United States Served with love!
 409939 ) Dimensions (W x D x H): 73 x 129 x 59 mm Weight: 395 g 30 30-Day Money-Back Guarantee 3 3-Year Thomann Warranty Available since February 2002 Item number 152191 Sales Unit 1 piece(s) Overdrive No Distortion Yes Fuzz No Metal Yes $ 93 The shipping costs are calculated on the checkout page.
-Add to cart Customers say Customers like the guitar pedal's sound quality, particularly its throaty distortion and sustain.
-
 ### Sources checked in this pass
 1. catalog/override source: https://specialtytraders.com/products/boss-md-2-mega-distortion
 2. Boss MD-2 Mega Distortion Pedal - Reverb: https://reverb.com/p/boss-md-2-mega-distortion
