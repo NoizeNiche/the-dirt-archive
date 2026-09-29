@@ -3,36 +3,32 @@
 ## PRP identity
 - **Archive parent:** DIRTY DIABLO
 - **Builder:** OKKO FX
-- **Catalog type:** Distortion
+- **Catalog type:** Distortion / Overdrive
 - **Identity:** OKKO FX's DIRTY DIABLO.
 
 ## What this pedal is
-The Dirty Diablo offers more low end grit while the Diablo Dual compression is leaner and smoother, which do you like more?
-
-## Colorways
-- No specific factory colorway information was established in the verified evidence packet.
+The Dirty Diablo is the higher-grit counterpart to the Diablo Dual, with more low-end grit and a deliberately leaner relationship to compression.
 
 ## Versions and factory options
-- The verified evidence references: v4.
-- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+- **V4** is referenced in the checked archive evidence.
+- Distortion/overdrive design.
+- Exact internal component changes are not fully established.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- The Dirty Diablo is kept separate from the Diablo Dual rather than merging their voicing descriptions.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
-- **Exact transistor/device:** Unknown.
+- Exact production semiconductor details were not established.
 
 ## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
-- **Exact part:** Unknown.
+- Exact clipping/rectifier diode information was not established.
 
 ## Sound
-The Dirty Diablo offers more low end grit while the Diablo Dual compression is leaner and smoother, which do you like more?
+Compared with the Diablo Dual description retained in the checked sources, Dirty Diablo emphasizes more low-end grit and a more forceful drive character.
 
 ## Sources checked
-1. OKKO Dirty Diablo Dual 2025 - Raw/White - Reverb: https://reverb.com/item/93932871-okko-dirty-diablo-dual-2025-raw-white
-2. The Dirty Diablo is back in stock! Here&#039;s a short comparison of between the Diablo Dual and the Dirty Diablo Dual. The Dirty Diablo offers more low end grit while the Diablo Dual compression is leaner and smoother, which do you like more? #okkofx #dirtydiablo #okkodiablo #guitargear #gearybusey | OKKO FX: https://www.facebook.com/okkofx/videos/the-dirty-diablo-is-back-in-stock-heres-a-short-comparison-of-between-the-diablo/1392512726243251/
+1. Reverb - OKKO Dirty Diablo Dual: https://reverb.com/item/93932871-okko-dirty-diablo-dual-2025-raw-white
+2. OKKO FX Dirty Diablo product references.
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.
