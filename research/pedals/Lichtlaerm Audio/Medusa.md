@@ -3,41 +3,36 @@
 ## PRP identity
 - **Archive parent:** Medusa
 - **Builder:** Lichtlaerm Audio
-- **Catalog type:** Distortion / Fuzz / Overdrive
+- **Catalog type:** Distortion
 - **Identity:** Lichtlaerm Audio's Medusa.
 
 ## What this pedal is
-Close Lichtlaerm Audio Medusa Swedish Death Machine Sale Regular price $229.00 Default Title - $229.00 USD Quantity Add to Cart The Medusa is the successor of the probably most infamous pedal created during Lichtlaerms first life: the Breathe//Die.
-
-## Colorways
-- No specific factory colorway information was established in the verified evidence packet.
+Medusa is a compact HM-2-style distortion developed with Berlin band Breathe//Die. It moves the boost function into the main circuit and adds a noise-reduction section and expanded low-end control.
 
 ## Versions and factory options
-- No distinct factory revision was established in the verified evidence packet.
+- HM-2-style distortion architecture.
+- Integrated boost.
+- Noise-reduction circuit.
+- **Cut** control for shaping low-frequency content.
+- Compact enclosure.
+- No complete numbered revision history was established.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- No complete dated hardware revision chronology was established.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
-- **Exact transistor/device:** Unknown.
+- Exact production semiconductor details were not established.
 
 ## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
-- **Exact part:** Unknown.
+- Exact clipping/rectifier diode information was not established.
 
 ## Sound
-As a collaboration with local Berlin band “Breathe//Die” it was the first HM2-style pedal to feature a noise reduction circuit, boost and an extended feature set in a compact enclosure.
-They took the first design and moved the boost into the core circuit resulting in up to three times the gain the classic chainsaw pedal offers you while also allowing you in to use the well-known cut control to shape the low end and create punchy palm mutes that the original was never capable of.
-With great power comes great responsibility: meaning with all the gain and high output volume you can’t avoid a certain level of noise.
+Medusa is designed for a tighter and more forceful version of the classic HM-2 chainsaw sound, with enough low-end control for punchier palm mutes and a higher-gain range than the original reference circuit.
 
 ## Sources checked
-1. Lichtlaerm Audio Medusa Swedish Death Machine &ndash; eastside music supply: https://eastsidemusicsupply.com/products/lichtlaerm-audio-medusa
-2. Lichtlaerm Audio Medusa - What To Know Where To Buy: https://equipboard.com/items/lichtlaerm-audio-medusa
-3. Medusa - Lichtlaerm Audio Wiki: https://lichtlaerm-audio.fandom.com/wiki/Medusa
-4. Lichtlaerm Audio Medusa, the ultimate HM2 for my fellow ... - Reddit: https://www.reddit.com/r/guitarpedals/comments/16pfpae/lichtlaerm_audio_medusa_the_ultimate_hm2_for_my/
-5. Lichtlaerm Audio Medusa - Grinding Death Metal Distortion: https://reverb.com/item/78986555-lichtlaerm-audio-medusa-grinding-death-metal-distortion
-6. Lichtlaerm Audio Medusa - audiofusionus.com: https://www.audiofusionus.com/product/lichtlaerm-audio-medusa/
+1. Lichtlaerm Audio Medusa - Eastside Music Supply: https://eastsidemusicsupply.com/products/lichtlaerm-audio-medusa
+2. Equipboard - Lichtlaerm Audio Medusa: https://equipboard.com/items/lichtlaerm-audio-medusa
+3. Reverb - Lichtlaerm Audio Medusa: https://reverb.com/item/78986555-lichtlaerm-audio-medusa-grinding-death-metal-distortion
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.
