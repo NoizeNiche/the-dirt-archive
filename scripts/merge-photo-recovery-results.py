@@ -3,6 +3,7 @@
 
 import json
 import shutil
+import re
 from pathlib import Path
 
 ROOT = Path(".")
@@ -29,7 +30,7 @@ def blocked_photo_url(value: str) -> bool:
         try:
             if kind == "exact_url" and lowered == pattern.lower():
                 return True
-            if kind.endswith("_regex") and __import__("re").search(pattern, lowered, __import__("re").I):
+            if kind.endswith("_regex") and re.search(pattern, lowered, re.I):
                 return True
         except Exception:
             continue
