@@ -33,6 +33,7 @@ PHOTO_BLOCK_PATTERNS = []
 MANUAL_VERIFIED_PHOTOS = set()
 HARD_QUARANTINED_PHOTOS = set()
 RESEARCHED_PHOTO_PENDING_KEYS = set()
+PROTECTED_SHARED_ASSETS = set()
 
 
 def load_photo_blocklist():
@@ -387,6 +388,8 @@ def cache_entry_prepare(entry):
         and entry_key not in MANUAL_VERIFIED_PHOTOS
         and entry_key in RESEARCHED_PHOTO_PENDING_KEYS
     ):
+        if str(target) in PROTECTED_SHARED_ASSETS:
+            return ("clear", entry, None, "shared asset protected by verified sibling")
         for candidate in (target, target.with_suffix(".source")):
             try:
                 if candidate.exists() and candidate.is_file():
@@ -577,7 +580,14 @@ def main():
     catalog = json.loads(INDEX_PATH.read_text(encoding="utf-8"))
     manifest = json.loads(MANIFEST_PATH.read_text(encoding="utf-8"))
 
-    global MANIFEST_OWNERS
+    global MANIFEST_OWNERS, PROTECTED_SHARED_ASSETS
+    PROTECTED_SHARED_ASSETS = {
+        str(Path(str(entry.get("image")).lstrip("./")))
+        for entry in catalog.get("pedals", [])
+        if key(entry.get("company") or entry.get("builder"), entry.get("pedal")) in MANUAL_VERIFIED_PHOTOS
+        and is_local(str(entry.get("image") or ""))
+    }
+
     MANIFEST_OWNERS = {
         str(row.get("image")): {
             "builder": row.get("builder") or row.get("company") or "",
