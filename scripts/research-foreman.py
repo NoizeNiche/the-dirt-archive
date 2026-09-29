@@ -171,9 +171,88 @@ def resolve_catalog_key(builder,pedal,catalog_index,catalog_keys):
     return next(iter(matches)) if len(matches)==1 else None
 
 
+SCRAPE_RESIDUE_MARKERS = (
+    "skip to navigation", "skip to content", "browse by", "effect types",
+    "countries", "install effects database app", "forum", "newsletter",
+    "reviews myfxdb user reviews", "where to find one", "add to cart",
+    "shopping cart", "shop pay", "gear card", "javascript is disabled",
+    "related brands", "related tags", "my account", "log in", "sign in",
+    "mobile gift card", "payment methods", "menu"
+)
+
+
+def scrape_residue_score(text):
+    low = str(text or "").lower()
+    score = sum(low.count(marker) for marker in SCRAPE_RESIDUE_MARKERS)
+    score += 2 * len(re.findall(r"\b(?:display|font-family|margin|padding|background|color)\s*:\s*[^;{}]+;", low))
+    score += 2 * len(re.findall(r"\b(?:var|const|let)\s+[A-Za-z_$][\w$]*\s*=", low))
+    score += 2 * len(re.findall(r"["']variants["']\s*:\s*\[", low))
+    if len(low) > 7000 and score < 4 and low.count(" | ") > 35:
+        score += 4
+    return score
+
+
+def clean_evidence_excerpt(text, builder="", pedal=""):
+    value = str(text or "")
+    value = re.sub(r"<script[\s\S]*?</script>", " ", value, flags=re.I)
+    value = re.sub(r"<style[\s\S]*?</style>", " ", value, flags=re.I)
+    value = re.sub(r"<[^>]+>", " ", value)
+    value = re.sub(r"\\x[0-9a-fA-F]{2}", " ", value)
+
+    # Page scrapers frequently prepend a giant navigation shell before the
+    # exact product heading. When the exact pedal name is present, discard a
+    # navigation-heavy prefix and retain the product body that follows it.
+    identity_variants = [str(pedal or "").strip()]
+    core = re.split(r"\s+—\s+", str(pedal or "").strip(), maxsplit=1)[0].strip()
+    if core and core not in identity_variants:
+        identity_variants.append(core)
+    for identity in identity_variants:
+        if len(identity) < 3:
+            continue
+        match = re.search(re.escape(identity), value, flags=re.I)
+        if match and match.start() > 0 and scrape_residue_score(value[:match.start()]) >= 3:
+            value = value[match.start():]
+            break
+
+    # Drop common footer/navigation tails when they occur after the product
+    # copy. This prevents UI labels from becoming canonical evidence.
+    tail_markers = (
+        "Video all |", "Reviews myFXDB user reviews", "Where to find one?",
+        "Related brands", "Related tags", "Install Effects Database App"
+    )
+    lower = value.lower()
+    cut = None
+    for marker in tail_markers:
+        pos = lower.find(marker.lower(), 300)
+        if pos >= 0:
+            cut = pos if cut is None else min(cut, pos)
+    if cut is not None:
+        value = value[:cut]
+
+    # CSS/JSON residue can survive HTML stripping on some sources.
+    value = re.sub(r"\{[^{}]{0,3000}\}", " ", value, flags=re.S)
+    value = re.sub(r"--[a-z0-9_-]+\s*:\s*[^;{}]+;?", " ", value, flags=re.I)
+    value = re.sub(r"\\s+", " ", value).strip()
+    return value[:6000]
+
+
+def source_has_usable_excerpt(source, builder, pedal):
+    raw = str(source.get("excerpt") or source.get("bodyExcerpt") or "")
+    cleaned = clean_evidence_excerpt(raw, builder, pedal)
+    if len(cleaned) < 40:
+        return False
+    residue = scrape_residue_score(cleaned)
+    if residue >= 5:
+        # A source can carry one or two UI labels legitimately. Five or more
+        # distinct residue signals means the excerpt is dominated by scraping
+        # rather than pedal-specific evidence.
+        return False
+    return True
+
+
 def source_is_strong_single(source):
     kind = str(source.get("source_kind") or "").strip().lower()
-    excerpt = str(source.get("excerpt") or "").strip()
+    excerpt = clean_evidence_excerpt(source.get("excerpt"), source.get("builder", ""), source.get("pedal", "")).strip()
     if kind in {"manufacturer", "effects_database", "reverb"}:
         return len(excerpt) >= 160
     # A curated catalog/override URL has already been tied to this exact
@@ -212,15 +291,18 @@ def main():
                 h1=s.get("h1","")
                 excerpt=s.get("excerpt",s.get("bodyExcerpt",""))
                 if exact and identity_ok(canonical_builder,canonical_pedal,title,h1,excerpt,s.get("url","")):
-                    seen.add(h)
-                    good.append({
+                    cleaned_excerpt=clean_evidence_excerpt(excerpt,canonical_builder,canonical_pedal)
+                    candidate={
                         "url":s.get("url"),
                         "title":title,
                         "h1":h1,
-                        "excerpt":str(excerpt or "")[:6000],
+                        "excerpt":cleaned_excerpt,
                         "host":h,
                         "source_kind":s.get("source_kind",s.get("sourceKind","other"))
-                    })
+                    }
+                    if source_has_usable_excerpt(candidate,canonical_builder,canonical_pedal):
+                        seen.add(h)
+                        good.append(candidate)
             if len(good)<2 and not (len(good)==1 and source_is_strong_single(good[0])):
                 held+=1
                 print("HOLD",canonical_builder,"/",canonical_pedal,"independent_exact_sources=",len(good))
