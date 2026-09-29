@@ -7,7 +7,6 @@ on:
       - 'index.html'
       - 'pedal.html'
       - 'pedal-detail.html'
-      - 'assets/**'
       - 'research/PEDAL_INDEX.json'
       - 'research/PRP_TRACKER.csv'
       - 'research/RESEARCH_QUEUE.json'
