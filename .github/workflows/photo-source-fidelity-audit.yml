@@ -19,6 +19,11 @@ on:
 permissions:
   contents: read
 
+concurrency:
+  group: dirt-photo-source-fidelity
+  # Fidelity audits are replaceable when a newer photo/source snapshot arrives.
+  cancel-in-progress: true
+
 jobs:
   audit:
     name: Compare pictured photos to declared sources
