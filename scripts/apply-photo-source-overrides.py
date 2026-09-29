@@ -109,11 +109,16 @@ def main() -> None:
                 if direct_page not in pages:
                     pages.append(direct_page)
         if direct:
-            # Direct overrides are append-only research leads. The newest verified
-            # lead is the one we actually want the browser to try first, otherwise
-            # an old blocked/expired CDN URL can keep shadowing a newer exact photo.
+            # A newer marketplace photograph is not automatically a better
+            # historical representative. When competing direct leads exist,
+            # require an explicit PHOTO REVIEW: PRIMARY marker before exposing
+            # a direct URL to the fast publication lane.
             reviewed = [row for row in direct if "photo review: primary" in str(row[3] or "").lower()]
-            primary_page, primary_priority = (reviewed[-1][0], 1000000) if reviewed else (direct[-1][0], 100000)
+            if len(direct) > 1 and not reviewed:
+                primary_page, primary_priority = direct[-1][0], 50000
+            else:
+                primary = reviewed[-1] if reviewed else direct[-1]
+                primary_page, primary_priority = primary[0], 1000000 if reviewed else 100000
         else:
             primary_page, primary_priority, _ = override[-1]
         if entry.get("image_source_pages") != pages:
@@ -137,19 +142,32 @@ def main() -> None:
             # Older rows remain as fallbacks, but must not crowd the newest
             # verified image out of the first retry window.
             reviewed = [row for row in direct if "photo review: primary" in str(row[3] or "").lower()]
-            ordered_direct = reviewed[-1:] + [row for row in reversed(direct) if row not in reviewed]
-            direct_urls = list(dict.fromkeys(
-                image_url for _, image_url, _, _ in ordered_direct
-            ))
-            primary = reviewed[-1] if reviewed else direct[-1]
-            direct_page = primary[0]
-            direct_url = primary[1]
+            if len(direct) > 1 and not reviewed:
+                # Competing image URLs remain available as source-page evidence,
+                # but are not copied into the direct fast lane until reviewed.
+                direct_urls = []
+                direct_page = direct[-1][0]
+                direct_url = ""
+            else:
+                ordered_direct = reviewed[-1:] + [row for row in reversed(direct) if row not in reviewed]
+                direct_urls = list(dict.fromkeys(
+                    image_url for _, image_url, _, _ in ordered_direct
+                ))
+                primary = reviewed[-1] if reviewed else direct[-1]
+                direct_page = primary[0]
+                direct_url = primary[1]
             if entry.get("image_source_page") != direct_page:
                 entry["image_source_page"] = direct_page
-            if entry.get("image_source_url") != direct_url:
-                entry["image_source_url"] = direct_url
+            if direct_url:
+                if entry.get("image_source_url") != direct_url:
+                    entry["image_source_url"] = direct_url
+            else:
+                entry.pop("image_source_url", None)
             if entry.get("image_source_urls") != direct_urls:
-                entry["image_source_urls"] = direct_urls
+                if direct_urls:
+                    entry["image_source_urls"] = direct_urls
+                else:
+                    entry.pop("image_source_urls", None)
             if entry.get("image_source_page_verified") is not True:
                 entry["image_source_page_verified"] = True
         changed += 1
