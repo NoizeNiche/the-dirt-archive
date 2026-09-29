@@ -16,6 +16,11 @@ on:
 permissions:
   contents: read
 
+concurrency:
+  group: dirt-photo-content-audit
+  # Photo content audits are replaceable. Prefer the newest catalog snapshot.
+  cancel-in-progress: true
+
 jobs:
   audit:
     name: Audit photo pixels
