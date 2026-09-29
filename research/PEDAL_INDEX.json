@@ -36397,7 +36397,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1422
+      "image_source_priority": 1422,
+      "image_source_url": "https://images.squarespace-cdn.com/content/v1/56a5a0e242f55268768a0c2b/039b2e5f-5bfb-4855-9f44-1044dfe68f0d/DSCF0153.jpg?format=750w"
     },
     {
       "company": "Electronic Audio Experiments",
@@ -44701,10 +44702,11 @@
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
       "image_source_priority": 1000000,
-      "image_source_url": "https://rvb-img.reverb.com/image/upload/s--_eiS7j05--/f_auto%2Ct_large/v1586532236/xzsudazx480uxo8slrek.jpg",
+      "image_source_url": "https://rvb-img.reverb.com/i/s--BEb6in60--/gravity=auto,quality=medium-low,width=200,height=200,format=jpeg/ws9lmbe5ke1atp8vaby3.jpg",
       "image_source_urls": [
         "https://rvb-img.reverb.com/image/upload/s--_eiS7j05--/f_auto%2Ct_large/v1586532236/xzsudazx480uxo8slrek.jpg"
-      ]
+      ],
+      "image": "./assets/pedals/madebymike/fuzzy-beetle/primary.webp"
     },
     {
       "company": "MadeByMike",
@@ -45132,7 +45134,8 @@
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
       "image_source_page": "https://maskaudioelectronics.com/products/part-garden",
-      "image": ""
+      "image": "",
+      "image_source_url": "https://maskaudioelectronics.com/cdn/shop/files/20250920_092003_160x160.jpg?v=1769883161"
     },
     {
       "company": "Mask Audio Electronics",
