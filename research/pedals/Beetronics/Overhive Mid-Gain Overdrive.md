@@ -9,9 +9,7 @@
 - **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Overhive Mid-Gain Overdrive** by **Beetronics** as a **Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
-
-## Catalog source
+The Overhive is a **mid-gain overdrive** designed to enhance an amplifier's natural character with warmth, clarity and bite. Beetronics describes its response as dynamic and touch-sensitive, moving from smooth edge-of-breakup tones to punchier saturation. citeturn694465search4turn694465search6\n\n## Catalog source
 - Catalog source page on file: https://www.beetronicsfx.com/collections/drive
 
 ## Deep research verification
