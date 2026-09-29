@@ -39,7 +39,7 @@ This pass adds only claims supported by the newly admitted exact-model evidence.
 Build Your Own Clone's Li'l Beaver (Ram's Head) is cataloged as a fuzz pedal.
 
 ### Verified color/finish evidence
-- Δ More Schematics Based On: Bixonic Expandora Bionic Pandora by PCB Guitar Mania Add To Cart Based On: Ampeg SVT Amped S-bass by PCB Guitar Mania Add To Cart Based On: Darkglass B3k Black Mirror by PCB Guitar Mania Add To Cart (c) Stomp Box Schematics
+
 
 ### Verified transistor/device terms
 - BC239C.
