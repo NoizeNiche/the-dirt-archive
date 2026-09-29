@@ -8794,7 +8794,8 @@
     "source_page": "https://browneamps.com/the-alkene",
     "research_record": "./research/pedals/PRP Batch 120/browne-amplification-alkene-nashville-drive.md",
     "source": null,
-    "image_source_url": "https://images.squarespace-cdn.com/content/v1/5ba25ce95cfd7946edf8fdfa/3f86189a-5221-473d-9168-e095fa989157/browneHEADSTOCKpng.png?format=1500w"
+    "image_source_url": "https://images.squarespace-cdn.com/content/v1/5ba25ce95cfd7946edf8fdfa/3f86189a-5221-473d-9168-e095fa989157/browneHEADSTOCKpng.png?format=1500w",
+    "image_source_page": "https://browneamps.com/the-alkene"
   },
   {
     "builder": "Browne Amplification",
@@ -8802,7 +8803,9 @@
     "image": null,
     "source_page": "https://browneamps.com/the-alkene",
     "research_record": "./research/pedals/PRP Batch 120/browne-amplification-atom-nashville-drive.md",
-    "source": null
+    "source": null,
+    "image_source_url": "https://www.chicagomusicexchange.com/cdn/shop/files/icon-phone_small.png?v=1696215025",
+    "image_source_page": "https://www.chicagomusicexchange.com/products/browne-amplification-atom-nashville-drive-overdrive-1677355"
   },
   {
     "builder": "Browne Amplification",
@@ -8883,7 +8886,8 @@
     "source_page": "https://browneamps.com/the-alkene",
     "research_record": "./research/pedals/PRP Batch 123/browne-amplification-the-alkene-nashville-overdrive.md",
     "source": null,
-    "image_source_url": "https://images.squarespace-cdn.com/content/v1/5ba25ce95cfd7946edf8fdfa/3f86189a-5221-473d-9168-e095fa989157/browneHEADSTOCKpng.png?format=1500w"
+    "image_source_url": "https://images.squarespace-cdn.com/content/v1/5ba25ce95cfd7946edf8fdfa/3f86189a-5221-473d-9168-e095fa989157/browneHEADSTOCKpng.png?format=1500w",
+    "image_source_page": "https://browneamps.com/the-alkene"
   },
   {
     "builder": "Browne Amplification",
@@ -9686,7 +9690,9 @@
     "builder": "Byron Amplification",
     "pedal": "Green Concussion Fuzz",
     "source_page": "https://byronamplification.com/pedals",
-    "research_record": "./research/pedals/PRP Batch 134/green-concussion-fuzz.md"
+    "research_record": "./research/pedals/PRP Batch 134/green-concussion-fuzz.md",
+    "image_source_url": "https://images.squarespace-cdn.com/content/v1/567322ce0e4c11f307b26a3e/1578891091385-UI03KPHJGN60JKVB31N0/MainLogo2.gif?format=1500w",
+    "image_source_page": "https://byronamplification.com/pedals"
   },
   {
     "builder": "Byron Amplification",
@@ -9714,7 +9720,9 @@
     "builder": "Byron Amplification",
     "pedal": "Pai Mei Fuzz",
     "source_page": "https://byronamplification.com/pedals",
-    "research_record": "./research/pedals/PRP Batch 134/pai-mei-fuzz.md"
+    "research_record": "./research/pedals/PRP Batch 134/pai-mei-fuzz.md",
+    "image_source_url": "https://images.squarespace-cdn.com/content/v1/567322ce0e4c11f307b26a3e/1578891091385-UI03KPHJGN60JKVB31N0/MainLogo2.gif?format=1500w",
+    "image_source_page": "https://byronamplification.com/pedals"
   },
   {
     "builder": "Byron Amplification",
@@ -9727,7 +9735,9 @@
     "builder": "Byron Amplification",
     "pedal": "Poder Del Alma Fuzz",
     "source_page": "https://byronamplification.com/pedals",
-    "research_record": "./research/pedals/PRP Batch 134/poder-del-alma-fuzz.md"
+    "research_record": "./research/pedals/PRP Batch 134/poder-del-alma-fuzz.md",
+    "image_source_url": "https://images.squarespace-cdn.com/content/v1/567322ce0e4c11f307b26a3e/1578891091385-UI03KPHJGN60JKVB31N0/MainLogo2.gif?format=1500w",
+    "image_source_page": "https://byronamplification.com/pedals"
   },
   {
     "builder": "Byron Amplification",
@@ -11903,7 +11913,9 @@
     "builder": "Champion City Effects",
     "pedal": "El Gato Malo",
     "source_page": null,
-    "research_record": "./research/pedals/Champion City Effects/El Gato Malo.md"
+    "research_record": "./research/pedals/Champion City Effects/El Gato Malo.md",
+    "image_source_url": "https://rvb-img.reverb.com/i/s--kfmC3aSZ--/quality=medium-low,height=800,width=800,fit=contain/yeqhyx6eymch5ld9e22x.jpg",
+    "image_source_page": "https://reverb.com/item/3707665-champion-city-effects-el-gato-malo-2016-acid-etched-metallic-blue"
   },
   {
     "builder": "Champion City Effects",
@@ -14345,7 +14357,9 @@
     "builder": "Coopersonic",
     "pedal": "Mini Tube Overdrive",
     "source_page": null,
-    "research_record": "./research/pedals/Coopersonic/Mini Tube Overdrive.md"
+    "research_record": "./research/pedals/Coopersonic/Mini Tube Overdrive.md",
+    "image_source_url": "https://coopersonic.com/wp-content/uploads/2019/08/cropped-Upside_Down_Bandmaster_Reverb_small-by_rob_Robinette.jpg",
+    "image_source_page": "https://coopersonic.com/user-manuals/"
   },
   {
     "builder": "Coopersonic",
@@ -14372,7 +14386,9 @@
     "builder": "Coopersonic",
     "pedal": "Valveslapper",
     "source_page": null,
-    "research_record": "./research/pedals/Coopersonic/Valveslapper.md"
+    "research_record": "./research/pedals/Coopersonic/Valveslapper.md",
+    "image_source_url": "https://rvb-img.reverb.com/i/s--zWvnYwHX--/quality=medium-low,height=800,width=800,fit=contain,rotate=270/kdbvt60axcciuw5mk23m.jpg",
+    "image_source_page": "https://reverb.com/item/81348576-coopersonic-valveslapper-dual-valve-distortion"
   },
   {
     "builder": "Copilot FX",
@@ -15671,7 +15687,8 @@
     "image": null,
     "source_page": null,
     "research_record": "./research/pedals/Critter Electronics/CRR Klone.md",
-    "image_source_url": "https://images.squarespace-cdn.com/content/v1/63619e9dabfe51395296538b/1778634239999-ETUJVQBT6MLJIRHQHBAO/948B4035-774F-4523-A025-09AB290D2232.jpeg?format=1500w"
+    "image_source_url": "https://images.squarespace-cdn.com/content/v1/63619e9dabfe51395296538b/1778634239999-ETUJVQBT6MLJIRHQHBAO/948B4035-774F-4523-A025-09AB290D2232.jpeg?format=1500w",
+    "image_source_page": "https://critterelectronics.com/shop"
   },
   {
     "builder": "Critter Electronics",
@@ -17527,7 +17544,8 @@
     "image": "",
     "source_page": "https://www.effectsdatabase.com/model/deviever",
     "research_record": "./research/pedals/Devi Ever FX/Stimulus Fuzz.md",
-    "image_source_url": "https://deviever.net/cdn/shop/products/DeviEverVintageFuzzMasterTop_2048x.jpg?v=1588185315"
+    "image_source_url": "https://deviever.net/cdn/shop/products/DeviEverVintageFuzzMasterTop_2048x.jpg?v=1588185315",
+    "image_source_page": "https://deviever.net/collections/all?page=2"
   },
   {
     "builder": "Devi Ever FX",
@@ -19647,7 +19665,9 @@
     "builder": "Fjord Fuzz",
     "pedal": "Odin",
     "source_page": null,
-    "research_record": "./research/pedals/Fjord Fuzz/Odin.md"
+    "research_record": "./research/pedals/Fjord Fuzz/Odin.md",
+    "image_source_url": "https://www.perfectcircuit.com/media/catalog/product/cache/03a2eb1bf90f8f063037025367d57dc8/F/j/FjordFuzz_ODIN_N13-11223_01.webp",
+    "image_source_page": "https://www.perfectcircuit.com/fjord-fuzz-odin.html"
   },
   {
     "builder": "Fjord Fuzz",
@@ -20317,7 +20337,9 @@
     "builder": "Greer Amps",
     "pedal": "Ghetto Stomp",
     "source_page": null,
-    "research_record": "./research/pedals/Greer Amps/Ghetto Stomp.md"
+    "research_record": "./research/pedals/Greer Amps/Ghetto Stomp.md",
+    "image_source_url": "https://images.equipboard.com/uploads/item/image/31114/greer-amps-ghetto-stomp-overdrive(2)-xl.webp?v=1790424373",
+    "image_source_page": "https://equipboard.com/items/greer-amps-ghetto-stomp-overdrive"
   },
   {
     "builder": "Greer Amps",
@@ -20365,7 +20387,9 @@
     "builder": "Greer Amps",
     "pedal": "Moonshot Germanium Pre",
     "source_page": null,
-    "research_record": "./research/pedals/Greer Amps/Moonshot Germanium Pre.md"
+    "research_record": "./research/pedals/Greer Amps/Moonshot Germanium Pre.md",
+    "image_source_url": "https://www.greeramps.com/cdn/shop/files/GREER-76-SLANT_280x@2x.png?v=1613708416",
+    "image_source_page": "https://www.greeramps.com/products/moonshot-germanium-pre"
   },
   {
     "builder": "Greer Amps",
@@ -22658,7 +22682,8 @@
     "image": null,
     "source_page": "https://www.kma-machines.com/",
     "research_record": "./research/pedals/KMA Machines/LOGAN Desert.md",
-    "image_source_url": "https://kmamachines.com/wp-content/uploads/2023/11/chief_disruptor_led_hover-350px.png"
+    "image_source_url": "https://kmamachines.com/wp-content/uploads/2023/11/chief_disruptor_led_hover-350px.png",
+    "image_source_page": "https://kmamachines.com/"
   },
   {
     "builder": "KMA Machines",
@@ -22686,7 +22711,8 @@
     "image": null,
     "source_page": "https://www.kma-machines.com/",
     "research_record": "./research/pedals/KMA Machines/WURHM.md",
-    "image_source_url": "https://kmamachines.com/wp-content/uploads/2023/11/chief_disruptor_led_hover-350px.png"
+    "image_source_url": "https://kmamachines.com/wp-content/uploads/2023/11/chief_disruptor_led_hover-350px.png",
+    "image_source_page": "https://kmamachines.com/"
   },
   {
     "builder": "KMA Machines",
@@ -23234,7 +23260,8 @@
     "image": null,
     "source_page": "https://lovepedal.com/",
     "research_record": "./research/pedals/Lovepedal / Love Pedal/Amp Eleven.md",
-    "image_source_url": "https://www.lovepedal.com/wp-content/uploads/2026/02/PurplePLEXIbNIVO.png"
+    "image_source_url": "https://www.lovepedal.com/wp-content/uploads/2026/02/PurplePLEXIbNIVO.png",
+    "image_source_page": "https://www.lovepedal.com/"
   },
   {
     "builder": "Lovepedal / Love Pedal",
@@ -23249,7 +23276,8 @@
     "image": null,
     "source_page": "https://lovepedal.com/",
     "research_record": "./research/pedals/Lovepedal / Love Pedal/Dover Drive.md",
-    "image_source_url": "https://www.lovepedal.com/wp-content/uploads/2026/02/PurplePLEXIbNIVO.png"
+    "image_source_url": "https://www.lovepedal.com/wp-content/uploads/2026/02/PurplePLEXIbNIVO.png",
+    "image_source_page": "https://www.lovepedal.com/"
   },
   {
     "builder": "Lovepedal / Love Pedal",
@@ -23257,7 +23285,8 @@
     "image": null,
     "source_page": "https://lovepedal.com/",
     "research_record": "./research/pedals/Lovepedal / Love Pedal/Eternity Burst.md",
-    "image_source_url": "https://www.lovepedal.com/wp-content/uploads/2026/02/PurplePLEXIbNIVO.png"
+    "image_source_url": "https://www.lovepedal.com/wp-content/uploads/2026/02/PurplePLEXIbNIVO.png",
+    "image_source_page": "https://www.lovepedal.com/"
   },
   {
     "builder": "Lovepedal / Love Pedal",
@@ -23265,7 +23294,8 @@
     "image": null,
     "source_page": "https://lovepedal.com/",
     "research_record": "./research/pedals/Lovepedal / Love Pedal/Eternity Overdrive.md",
-    "image_source_url": "https://www.lovepedal.com/wp-content/uploads/2026/02/PurplePLEXIbNIVO.png"
+    "image_source_url": "https://www.lovepedal.com/wp-content/uploads/2026/02/PurplePLEXIbNIVO.png",
+    "image_source_page": "https://www.lovepedal.com/"
   },
   {
     "builder": "Lovepedal / Love Pedal",
@@ -23294,7 +23324,8 @@
     "image": null,
     "source_page": "https://lovepedal.com/",
     "research_record": "./research/pedals/Lovepedal / Love Pedal/Purple Plexi.md",
-    "image_source_url": "https://www.lovepedal.com/wp-content/uploads/2026/02/PurplePLEXIbNIVO.png"
+    "image_source_url": "https://www.lovepedal.com/wp-content/uploads/2026/02/PurplePLEXIbNIVO.png",
+    "image_source_page": "https://www.lovepedal.com/"
   },
   {
     "builder": "Lovepedal / Love Pedal",
@@ -23309,7 +23340,8 @@
     "image": null,
     "source_page": "https://lovepedal.com/",
     "research_record": "./research/pedals/Lovepedal / Love Pedal/Tchula.md",
-    "image_source_url": "https://www.lovepedal.com/wp-content/uploads/2026/02/PurplePLEXIbNIVO.png"
+    "image_source_url": "https://www.lovepedal.com/wp-content/uploads/2026/02/PurplePLEXIbNIVO.png",
+    "image_source_page": "https://www.lovepedal.com/"
   },
   {
     "builder": "Lovepedal / Love Pedal",
@@ -23324,7 +23356,8 @@
     "image": null,
     "source_page": "https://lovepedal.com/",
     "research_record": "./research/pedals/Lovepedal / Love Pedal/Zendrive.md",
-    "image_source_url": "https://www.lovepedal.com/wp-content/uploads/2026/02/PurplePLEXIbNIVO.png"
+    "image_source_url": "https://www.lovepedal.com/wp-content/uploads/2026/02/PurplePLEXIbNIVO.png",
+    "image_source_page": "https://www.lovepedal.com/"
   },
   {
     "builder": "Lovepedal / Love Pedal",
@@ -23332,7 +23365,8 @@
     "image": null,
     "source_page": "https://lovepedal.com/",
     "research_record": "./research/pedals/Lovepedal / Love Pedal/Zendrive 2.md",
-    "image_source_url": "https://www.lovepedal.com/wp-content/uploads/2026/02/PurplePLEXIbNIVO.png"
+    "image_source_url": "https://www.lovepedal.com/wp-content/uploads/2026/02/PurplePLEXIbNIVO.png",
+    "image_source_page": "https://www.lovepedal.com/"
   },
   {
     "builder": "Lovetone",
@@ -24967,67 +25001,89 @@
     "builder": "Mid-Fi Electronics / Doug Tuttle",
     "pedal": "Another/An-other (Fuzz Version)",
     "source_page": "https://midfielectronics.com/",
-    "research_record": "./research/pedals/Mid-Fi Electronics / Doug Tuttle/Another/An-other (Fuzz Version).md"
+    "research_record": "./research/pedals/Mid-Fi Electronics / Doug Tuttle/Another/An-other (Fuzz Version).md",
+    "image_source_url": "https://www.midfielectronics.com/images/HEADER-mobile2.png",
+    "image_source_page": "https://www.midfielectronics.com/"
   },
   {
     "builder": "Mid-Fi Electronics / Doug Tuttle",
     "pedal": "Clari(not) Fuzz",
     "source_page": "https://midfielectronics.com/",
-    "research_record": "./research/pedals/Mid-Fi Electronics / Doug Tuttle/Clari(not) Fuzz.md"
+    "research_record": "./research/pedals/Mid-Fi Electronics / Doug Tuttle/Clari(not) Fuzz.md",
+    "image_source_url": "https://www.midfielectronics.com/images/HEADER-mobile2.png",
+    "image_source_page": "https://www.midfielectronics.com/"
   },
   {
     "builder": "Mid-Fi Electronics / Doug Tuttle",
     "pedal": "Cocoon",
     "source_page": "https://midfielectronics.com/",
-    "research_record": "./research/pedals/Mid-Fi Electronics / Doug Tuttle/Cocoon.md"
+    "research_record": "./research/pedals/Mid-Fi Electronics / Doug Tuttle/Cocoon.md",
+    "image_source_url": "https://www.midfielectronics.com/images/HEADER-mobile2.png",
+    "image_source_page": "https://www.midfielectronics.com/"
   },
   {
     "builder": "Mid-Fi Electronics / Doug Tuttle",
     "pedal": "Country Fuzz",
     "source_page": "https://midfielectronics.com/",
-    "research_record": "./research/pedals/Mid-Fi Electronics / Doug Tuttle/Country Fuzz.md"
+    "research_record": "./research/pedals/Mid-Fi Electronics / Doug Tuttle/Country Fuzz.md",
+    "image_source_url": "https://www.midfielectronics.com/images/HEADER-mobile2.png",
+    "image_source_page": "https://www.midfielectronics.com/"
   },
   {
     "builder": "Mid-Fi Electronics / Doug Tuttle",
     "pedal": "Demo Tape Fuzz",
     "source_page": "https://midfielectronics.com/",
-    "research_record": "./research/pedals/Mid-Fi Electronics / Doug Tuttle/Demo Tape Fuzz.md"
+    "research_record": "./research/pedals/Mid-Fi Electronics / Doug Tuttle/Demo Tape Fuzz.md",
+    "image_source_url": "https://www.midfielectronics.com/images/HEADER-mobile2.png",
+    "image_source_page": "https://www.midfielectronics.com/"
   },
   {
     "builder": "Mid-Fi Electronics / Doug Tuttle",
     "pedal": "Faulty Channel",
     "source_page": "https://midfielectronics.com/",
-    "research_record": "./research/pedals/Mid-Fi Electronics / Doug Tuttle/Faulty Channel.md"
+    "research_record": "./research/pedals/Mid-Fi Electronics / Doug Tuttle/Faulty Channel.md",
+    "image_source_url": "https://www.midfielectronics.com/images/HEADER-mobile2.png",
+    "image_source_page": "https://www.midfielectronics.com/"
   },
   {
     "builder": "Mid-Fi Electronics / Doug Tuttle",
     "pedal": "Full Frequency Overdrive",
     "source_page": "https://midfielectronics.com/",
-    "research_record": "./research/pedals/Mid-Fi Electronics / Doug Tuttle/Full Frequency Overdrive.md"
+    "research_record": "./research/pedals/Mid-Fi Electronics / Doug Tuttle/Full Frequency Overdrive.md",
+    "image_source_url": "https://www.midfielectronics.com/images/HEADER-mobile2.png",
+    "image_source_page": "https://www.midfielectronics.com/"
   },
   {
     "builder": "Mid-Fi Electronics / Doug Tuttle",
     "pedal": "Fuzz Wall",
     "source_page": "https://midfielectronics.com/",
-    "research_record": "./research/pedals/Mid-Fi Electronics / Doug Tuttle/Fuzz Wall.md"
+    "research_record": "./research/pedals/Mid-Fi Electronics / Doug Tuttle/Fuzz Wall.md",
+    "image_source_url": "https://www.midfielectronics.com/images/HEADER-mobile2.png",
+    "image_source_page": "https://www.midfielectronics.com/"
   },
   {
     "builder": "Mid-Fi Electronics / Doug Tuttle",
     "pedal": "Glitch Computer",
     "source_page": "https://midfielectronics.com/",
-    "research_record": "./research/pedals/Mid-Fi Electronics / Doug Tuttle/Glitch Computer.md"
+    "research_record": "./research/pedals/Mid-Fi Electronics / Doug Tuttle/Glitch Computer.md",
+    "image_source_url": "https://www.midfielectronics.com/images/HEADER-mobile2.png",
+    "image_source_page": "https://www.midfielectronics.com/"
   },
   {
     "builder": "Mid-Fi Electronics / Doug Tuttle",
     "pedal": "Hieracium",
     "source_page": "https://midfielectronics.com/",
-    "research_record": "./research/pedals/Mid-Fi Electronics / Doug Tuttle/Hieracium.md"
+    "research_record": "./research/pedals/Mid-Fi Electronics / Doug Tuttle/Hieracium.md",
+    "image_source_url": "https://www.midfielectronics.com/images/HEADER-mobile2.png",
+    "image_source_page": "https://www.midfielectronics.com/"
   },
   {
     "builder": "Mid-Fi Electronics / Doug Tuttle",
     "pedal": "House Amp",
     "source_page": "https://midfielectronics.com/",
-    "research_record": "./research/pedals/Mid-Fi Electronics / Doug Tuttle/House Amp.md"
+    "research_record": "./research/pedals/Mid-Fi Electronics / Doug Tuttle/House Amp.md",
+    "image_source_url": "https://www.midfielectronics.com/images/HEADER-mobile2.png",
+    "image_source_page": "https://www.midfielectronics.com/"
   },
   {
     "builder": "Mid-Fi Electronics / Doug Tuttle",
@@ -25041,37 +25097,49 @@
     "builder": "Mid-Fi Electronics / Doug Tuttle",
     "pedal": "Peace Gun",
     "source_page": "https://midfielectronics.com/",
-    "research_record": "./research/pedals/Mid-Fi Electronics / Doug Tuttle/Peace Gun.md"
+    "research_record": "./research/pedals/Mid-Fi Electronics / Doug Tuttle/Peace Gun.md",
+    "image_source_url": "https://www.midfielectronics.com/images/HEADER-mobile2.png",
+    "image_source_page": "https://www.midfielectronics.com/"
   },
   {
     "builder": "Mid-Fi Electronics / Doug Tuttle",
     "pedal": "Psych Byke",
     "source_page": "https://midfielectronics.com/",
-    "research_record": "./research/pedals/Mid-Fi Electronics / Doug Tuttle/Psych Byke.md"
+    "research_record": "./research/pedals/Mid-Fi Electronics / Doug Tuttle/Psych Byke.md",
+    "image_source_url": "https://www.midfielectronics.com/images/HEADER-mobile2.png",
+    "image_source_page": "https://www.midfielectronics.com/"
   },
   {
     "builder": "Mid-Fi Electronics / Doug Tuttle",
     "pedal": "Random Number Generator",
     "source_page": "https://midfielectronics.com/",
-    "research_record": "./research/pedals/Mid-Fi Electronics / Doug Tuttle/Random Number Generator.md"
+    "research_record": "./research/pedals/Mid-Fi Electronics / Doug Tuttle/Random Number Generator.md",
+    "image_source_url": "https://www.midfielectronics.com/images/HEADER-mobile2.png",
+    "image_source_page": "https://www.midfielectronics.com/"
   },
   {
     "builder": "Mid-Fi Electronics / Doug Tuttle",
     "pedal": "Rise/OverRun",
     "source_page": "https://midfielectronics.com/",
-    "research_record": "./research/pedals/Mid-Fi Electronics / Doug Tuttle/Rise/OverRun.md"
+    "research_record": "./research/pedals/Mid-Fi Electronics / Doug Tuttle/Rise/OverRun.md",
+    "image_source_url": "https://www.midfielectronics.com/images/HEADER-mobile2.png",
+    "image_source_page": "https://www.midfielectronics.com/"
   },
   {
     "builder": "Mid-Fi Electronics / Doug Tuttle",
     "pedal": "What?",
     "source_page": "https://midfielectronics.com/",
-    "research_record": "./research/pedals/Mid-Fi Electronics / Doug Tuttle/What?.md"
+    "research_record": "./research/pedals/Mid-Fi Electronics / Doug Tuttle/What?.md",
+    "image_source_url": "https://www.midfielectronics.com/images/HEADER-mobile2.png",
+    "image_source_page": "https://www.midfielectronics.com/"
   },
   {
     "builder": "Mid-Fi Electronics / Doug Tuttle",
     "pedal": "Yard Sale",
     "source_page": "https://midfielectronics.com/",
-    "research_record": "./research/pedals/Mid-Fi Electronics / Doug Tuttle/Yard Sale.md"
+    "research_record": "./research/pedals/Mid-Fi Electronics / Doug Tuttle/Yard Sale.md",
+    "image_source_url": "https://www.midfielectronics.com/images/HEADER-mobile2.png",
+    "image_source_page": "https://www.midfielectronics.com/"
   },
   {
     "builder": "Mojo Hand FX",
@@ -26457,19 +26525,25 @@
     "builder": "Origin Effects",
     "pedal": "Bassrig '64 Black Panel",
     "source_page": "https://origineffects.com/product-category/overdrive/",
-    "research_record": "./research/pedals/Origin Effects/Bassrig '64 Black Panel.md"
+    "research_record": "./research/pedals/Origin Effects/Bassrig '64 Black Panel.md",
+    "image_source_url": "https://origineffects.com/wp-content/uploads/2022/09/Peter-Frampton-2000x2000-1.jpg",
+    "image_source_page": "https://origineffects.com/product-category/overdrive/"
   },
   {
     "builder": "Origin Effects",
     "pedal": "Bassrig Fifteen",
     "source_page": "https://origineffects.com/product-category/overdrive/",
-    "research_record": "./research/pedals/Origin Effects/Bassrig Fifteen.md"
+    "research_record": "./research/pedals/Origin Effects/Bassrig Fifteen.md",
+    "image_source_url": "https://origineffects.com/wp-content/uploads/2022/09/Peter-Frampton-2000x2000-1.jpg",
+    "image_source_page": "https://origineffects.com/product-category/overdrive/"
   },
   {
     "builder": "Origin Effects",
     "pedal": "Bassrig Super Vintage",
     "source_page": "https://origineffects.com/product-category/overdrive/",
-    "research_record": "./research/pedals/Origin Effects/Bassrig Super Vintage.md"
+    "research_record": "./research/pedals/Origin Effects/Bassrig Super Vintage.md",
+    "image_source_url": "https://origineffects.com/wp-content/uploads/2024/07/Halcyon-Blue-Main-Product-Shot.jpg",
+    "image_source_page": "https://origineffects.com/product-category/overdrive/"
   },
   {
     "builder": "Origin Effects",
@@ -29260,7 +29334,9 @@
     "builder": "Tube Works",
     "pedal": "911 Tube Driver",
     "source_page": "https://www.effectsdatabase.com/model/tubeworks",
-    "research_record": "./research/pedals/Tube Works/911 Tube Driver.md"
+    "research_record": "./research/pedals/Tube Works/911 Tube Driver.md",
+    "image_source_url": "https://rvb-img.reverb.com/i/s---IpyDWYQ--/quality=medium-low,height=800,width=800,fit=contain/msn4wirnqxl4m3ltqqsi.jpg",
+    "image_source_page": "https://reverb.com/p/tube-works-911-tube-driver-1998-2005"
   },
   {
     "builder": "Union Tube & Transistor",

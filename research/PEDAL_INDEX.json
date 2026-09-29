@@ -16651,7 +16651,7 @@
       ],
       "source_page": "https://browneamps.com/the-alkene",
       "research_record": "./research/pedals/PRP Batch 120/browne-amplification-alkene-nashville-drive.md",
-      "image_source_page": "https://www.browneamps.com/store/p/the-alkene-nashville-overdrive",
+      "image_source_page": "https://browneamps.com/the-alkene",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
       "image_source_pages": [
@@ -16678,7 +16678,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 50000
+      "image_source_priority": 50000,
+      "image_source_url": "https://www.chicagomusicexchange.com/cdn/shop/files/icon-phone_small.png?v=1696215025"
     },
     {
       "company": "Browne Amplification",
@@ -16800,7 +16801,7 @@
       ],
       "source_page": "https://browneamps.com/the-alkene",
       "research_record": "./research/pedals/PRP Batch 123/browne-amplification-the-alkene-nashville-overdrive.md",
-      "image_source_page": "https://www.browneamps.com/store/p/the-alkene-nashville-overdrive",
+      "image_source_page": "https://browneamps.com/the-alkene",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
       "image_source_pages": [
@@ -18331,7 +18332,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 50000
+      "image_source_priority": 50000,
+      "image_source_url": "https://images.squarespace-cdn.com/content/v1/567322ce0e4c11f307b26a3e/1578891091385-UI03KPHJGN60JKVB31N0/MainLogo2.gif?format=1500w"
     },
     {
       "company": "Byron Amplification",
@@ -18389,7 +18391,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 50000
+      "image_source_priority": 50000,
+      "image_source_url": "https://images.squarespace-cdn.com/content/v1/567322ce0e4c11f307b26a3e/1578891091385-UI03KPHJGN60JKVB31N0/MainLogo2.gif?format=1500w"
     },
     {
       "company": "Byron Amplification",
@@ -18419,7 +18422,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 50000
+      "image_source_priority": 50000,
+      "image_source_url": "https://images.squarespace-cdn.com/content/v1/567322ce0e4c11f307b26a3e/1578891091385-UI03KPHJGN60JKVB31N0/MainLogo2.gif?format=1500w"
     },
     {
       "company": "Byron Amplification",
@@ -22820,7 +22824,8 @@
       "image_source_page": "https://reverb.com/item/3707665-champion-city-effects-el-gato-malo-2016-acid-etched-metallic-blue",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 50000
+      "image_source_priority": 50000,
+      "image_source_url": "https://rvb-img.reverb.com/i/s--kfmC3aSZ--/quality=medium-low,height=800,width=800,fit=contain/yeqhyx6eymch5ld9e22x.jpg"
     },
     {
       "company": "Champion City Effects",
@@ -27250,10 +27255,11 @@
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/coopersonic"
       ],
-      "image_source_page": "https://www.effectsdatabase.com/model/coopersonic",
+      "image_source_page": "https://coopersonic.com/user-manuals/",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 600
+      "image_source_priority": 600,
+      "image_source_url": "https://coopersonic.com/wp-content/uploads/2019/08/cropped-Upside_Down_Bandmaster_Reverb_small-by_rob_Robinette.jpg"
     },
     {
       "company": "Coopersonic",
@@ -27309,7 +27315,8 @@
       "image_source_page": "https://reverb.com/item/81348576-coopersonic-valveslapper-dual-valve-distortion",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 595
+      "image_source_priority": 595,
+      "image_source_url": "https://rvb-img.reverb.com/i/s--zWvnYwHX--/quality=medium-low,height=800,width=800,fit=contain,rotate=270/kdbvt60axcciuw5mk23m.jpg"
     },
     {
       "company": "Copilot FX",
@@ -33073,7 +33080,7 @@
       "research_record": "./research/pedals/Devi Ever FX/Stimulus Fuzz.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://www.effectsdatabase.com/model/deviever",
+      "image_source_page": "https://deviever.net/collections/all?page=2",
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/deviever"
       ],
@@ -36872,7 +36879,8 @@
       "image_source_page": "https://www.perfectcircuit.com/fjord-fuzz-odin.html",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1373
+      "image_source_priority": 1373,
+      "image_source_url": "https://www.perfectcircuit.com/media/catalog/product/cache/03a2eb1bf90f8f063037025367d57dc8/F/j/FjordFuzz_ODIN_N13-11223_01.webp"
     },
     {
       "company": "Fjord Fuzz",
@@ -38088,10 +38096,11 @@
       "image_source_pages": [
         "https://www.greeramps.com/blogs/news/12647709-new-products-390-od-2014-ghetto-stomp"
       ],
-      "image_source_page": "https://www.greeramps.com/blogs/news/12647709-new-products-390-od-2014-ghetto-stomp",
+      "image_source_page": "https://equipboard.com/items/greer-amps-ghetto-stomp-overdrive",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1372
+      "image_source_priority": 1372,
+      "image_source_url": "https://images.equipboard.com/uploads/item/image/31114/greer-amps-ghetto-stomp-overdrive(2)-xl.webp?v=1790424373"
     },
     {
       "company": "Greer Amps",
@@ -38190,7 +38199,8 @@
       "image_source_page": "https://www.greeramps.com/products/moonshot-germanium-pre",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1371
+      "image_source_priority": 1371,
+      "image_source_url": "https://www.greeramps.com/cdn/shop/files/GREER-76-SLANT_280x@2x.png?v=1613708416"
     },
     {
       "company": "Greer Amps",
@@ -46944,7 +46954,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1173
+      "image_source_priority": 1173,
+      "image_source_url": "https://www.midfielectronics.com/images/HEADER-mobile2.png"
     },
     {
       "company": "Mid-Fi Electronics / Doug Tuttle",
@@ -46962,7 +46973,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1174
+      "image_source_priority": 1174,
+      "image_source_url": "https://www.midfielectronics.com/images/HEADER-mobile2.png"
     },
     {
       "company": "Mid-Fi Electronics / Doug Tuttle",
@@ -46980,7 +46992,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1175
+      "image_source_priority": 1175,
+      "image_source_url": "https://www.midfielectronics.com/images/HEADER-mobile2.png"
     },
     {
       "company": "Mid-Fi Electronics / Doug Tuttle",
@@ -46998,7 +47011,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1176
+      "image_source_priority": 1176,
+      "image_source_url": "https://www.midfielectronics.com/images/HEADER-mobile2.png"
     },
     {
       "company": "Mid-Fi Electronics / Doug Tuttle",
@@ -47016,7 +47030,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1177
+      "image_source_priority": 1177,
+      "image_source_url": "https://www.midfielectronics.com/images/HEADER-mobile2.png"
     },
     {
       "company": "Mid-Fi Electronics / Doug Tuttle",
@@ -47034,7 +47049,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1178
+      "image_source_priority": 1178,
+      "image_source_url": "https://www.midfielectronics.com/images/HEADER-mobile2.png"
     },
     {
       "company": "Mid-Fi Electronics / Doug Tuttle",
@@ -47052,7 +47068,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1179
+      "image_source_priority": 1179,
+      "image_source_url": "https://www.midfielectronics.com/images/HEADER-mobile2.png"
     },
     {
       "company": "Mid-Fi Electronics / Doug Tuttle",
@@ -47070,7 +47087,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1180
+      "image_source_priority": 1180,
+      "image_source_url": "https://www.midfielectronics.com/images/HEADER-mobile2.png"
     },
     {
       "company": "Mid-Fi Electronics / Doug Tuttle",
@@ -47088,7 +47106,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1181
+      "image_source_priority": 1181,
+      "image_source_url": "https://www.midfielectronics.com/images/HEADER-mobile2.png"
     },
     {
       "company": "Mid-Fi Electronics / Doug Tuttle",
@@ -47106,7 +47125,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1182
+      "image_source_priority": 1182,
+      "image_source_url": "https://www.midfielectronics.com/images/HEADER-mobile2.png"
     },
     {
       "company": "Mid-Fi Electronics / Doug Tuttle",
@@ -47124,7 +47144,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1183
+      "image_source_priority": 1183,
+      "image_source_url": "https://www.midfielectronics.com/images/HEADER-mobile2.png"
     },
     {
       "company": "Mid-Fi Electronics / Doug Tuttle",
@@ -47156,7 +47177,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1186
+      "image_source_priority": 1186,
+      "image_source_url": "https://www.midfielectronics.com/images/HEADER-mobile2.png"
     },
     {
       "company": "Mid-Fi Electronics / Doug Tuttle",
@@ -47174,7 +47196,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1187
+      "image_source_priority": 1187,
+      "image_source_url": "https://www.midfielectronics.com/images/HEADER-mobile2.png"
     },
     {
       "company": "Mid-Fi Electronics / Doug Tuttle",
@@ -47192,7 +47215,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1188
+      "image_source_priority": 1188,
+      "image_source_url": "https://www.midfielectronics.com/images/HEADER-mobile2.png"
     },
     {
       "company": "Mid-Fi Electronics / Doug Tuttle",
@@ -47210,7 +47234,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1189
+      "image_source_priority": 1189,
+      "image_source_url": "https://www.midfielectronics.com/images/HEADER-mobile2.png"
     },
     {
       "company": "Mid-Fi Electronics / Doug Tuttle",
@@ -47228,7 +47253,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1190
+      "image_source_priority": 1190,
+      "image_source_url": "https://www.midfielectronics.com/images/HEADER-mobile2.png"
     },
     {
       "company": "Mid-Fi Electronics / Doug Tuttle",
@@ -47247,7 +47273,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1191
+      "image_source_priority": 1191,
+      "image_source_url": "https://www.midfielectronics.com/images/HEADER-mobile2.png"
     },
     {
       "company": "Mojo Hand FX",
@@ -49678,7 +49705,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1192
+      "image_source_priority": 1192,
+      "image_source_url": "https://origineffects.com/wp-content/uploads/2022/09/Peter-Frampton-2000x2000-1.jpg"
     },
     {
       "company": "Origin Effects",
@@ -49696,7 +49724,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1193
+      "image_source_priority": 1193,
+      "image_source_url": "https://origineffects.com/wp-content/uploads/2022/09/Peter-Frampton-2000x2000-1.jpg"
     },
     {
       "company": "Origin Effects",
@@ -49714,7 +49743,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1195
+      "image_source_priority": 1195,
+      "image_source_url": "https://origineffects.com/wp-content/uploads/2024/07/Halcyon-Blue-Main-Product-Shot.jpg"
     },
     {
       "company": "Origin Effects",
@@ -55079,7 +55109,8 @@
       "image_source_page": "https://reverb.com/p/tube-works-911-tube-driver-1998-2005",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1312
+      "image_source_priority": 1312,
+      "image_source_url": "https://rvb-img.reverb.com/i/s---IpyDWYQ--/quality=medium-low,height=800,width=800,fit=contain/msn4wirnqxl4m3ltqqsi.jpg"
     },
     {
       "company": "Union Tube & Transistor",
