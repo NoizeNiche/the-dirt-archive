@@ -7,38 +7,43 @@
 - **Identity:** Tallon Electric's ABR-OD.
 
 ## What this pedal is
-ABR-OD &ndash; Tallon Electric Skip to content Home Products Contact About Search More Home Products Contact About More Search Account Cart 0 ABR-OD Nobody shreds like August Burns Red 22 reviews Constellations Green Stripe Gold Stripe U Logo Black $189.00 ADD TO CART The ABR-OD is the only overdrive on earth with the specific EQ, clipping, and tonal balances preferred by August Burns Red guitarists JB Brubaker, Brent Rambler, and Dustin Davidson.
+The ABR-OD is a performance-oriented overdrive developed with August Burns Red guitarists JB Brubaker, Brent Rambler, and Dustin Davidson. Tallon describes its voicing as tailored for tight, articulate high-gain rigs and low tunings.
 
 ## Colorways
-- ABR-OD &ndash; Tallon Electric Skip to content Home Products Contact About Search More Home Products Contact About More Search Account Cart 0 ABR-OD Nobody shreds like August Burns Red 22 reviews Constellations Green Stripe Gold Stripe U Logo Black $189.00 ADD TO CART The ABR-OD is the only overdrive on earth with the specific EQ, clipping, and tonal balances preferred by August Burns Red guitarists JB Brubaker, Brent Rambler, and Dustin Davidson.
-- Scientist Dusky Amps Dwarfcraft Devices Earthquaker Devices Electro Harmonix Eventide Fat Foot Effects Fuzzrocious Gamechanger Audio Greer Amps Hologram Electronics JAM Pedals JHS Jext Telez Korg Mantic Mattoverse Electronics Maxon Meris Midnight Electronics Morley Mr Black MXR Mythos Neunaber Old Blood Noise Endeavors Pettyjohn Electronics Pigtronix Rabbit Hole FX RaingerFX Red Panda RT Electronics Ryra Skreddy Sonic Research Source Audio Spaceman Strymon TC Electronic Tomkat Walrus Audio Way Huge Yellowcake Zvex used pedals and effects instruments acoustic guitars electric guitars bass guitars power supplies strings & accessories amplifiers synthesizers / keys drum machines / samplers pro audio, tape echos, etc..
-- Scientist Dusky Amps Dwarfcraft Devices Earthquaker Devices Electro Harmonix Eventide Fat Foot Effects Fuzzrocious Gamechanger Audio Greer Amps Hologram Electronics JAM Pedals JHS Jext Telez Korg Mantic Mattoverse Electronics Maxon Meris Midnight Electronics Morley Mr Black MXR Mythos Neunaber Old Blood Noise Endeavors Pettyjohn Electronics Pigtronix Rabbit Hole FX RaingerFX Red Panda RT Electronics Ryra Skreddy Sonic Research Source Audio Spaceman Strymon TC Electronic Tomkat Walrus Audio Way Huge Yellowcake Zvex Electro-Harmonix Percolator Regular price $99 View Electro-Harmonix Bass Big Muff Pi 2 Regular price $122 View Electro-Harmonix Deluxe Big Muff 2 Regular price $188.20 View Electro-Harmonix Big Muff Pi 2 Regular price $122 View used pedals and effects instruments acoustic guitars electric guitars bass guitars power supplies strings & accessories amplifiers synthesizers / keys drum machines / samplers pro audio, tape echos, etc..
+- Documented finishes include **Constellations, Green Stripe, Gold Stripe, and U Logo Black**.
+- Finish editions do not automatically represent circuit revisions.
 
 ## Versions and factory options
-- No distinct factory revision was established in the verified evidence packet.
+- **LEVEL:** overall output volume.
+- **BITE:** presence and pick-attack emphasis.
+- **DRIVE:** crunchy gain and compression before a high-gain amplifier.
+- **EQ toggle:**
+  - **DROP:** maintains clear low end with added top-end bite, optimized for low tunings.
+  - **TIGHT:** tighter, punchier foundation for high-gain rigs.
+- 9VDC, 2.1mm center-negative power required.
+- Batteries are not accepted.
+- Power consumption: 30mA.
+- Soft-touch momentary footswitch.
+- Enclosure: 4.7 x 3.75 x 1.75 inches.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- No complete numbered production revision chronology was established in the checked sources.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
+- Exact production transistor/device information was not established in the checked sources.
 - **Exact transistor/device:** Unknown.
 
 ## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- Tallon describes the ABR-OD's clipping/tonal balance but does not publish the exact clipping-device part number.
 - **Exact part:** Unknown.
 
 ## Sound
-ABR-OD &ndash; Tallon Electric Skip to content Home Products Contact About Search More Home Products Contact About More Search Account Cart 0 ABR-OD Nobody shreds like August Burns Red 22 reviews Constellations Green Stripe Gold Stripe U Logo Black $189.00 ADD TO CART The ABR-OD is the only overdrive on earth with the specific EQ, clipping, and tonal balances preferred by August Burns Red guitarists JB Brubaker, Brent Rambler, and Dustin Davidson.
-CONTROLS: + LEVEL: Sets the overall output volume BITE: Emphasizes your presence and pick attack DRIVE: Treat your signal to some crunchy gain and compression before it hits your high gain amp The EQ TOGGLE selects between two distinct voicings: DROP mode maintains a clear low end and top it off with some sizzle.
-TIGHT mode is the ideal foundation for building a nimble, punchy tone.
+The ABR-OD is designed to tighten and shape the front end of a high-gain amplifier. DROP emphasizes low-end clarity for lower tunings, while TIGHT favors a punchier response. The BITE control adds presence and pick attack without changing the core drive identity.
 
 ## Sources checked
-1. ABR-OD &ndash; Tallon Electric: https://tallonelectric.com/products/augustburnsred
-2. Tallon Electric ABR-OD - Reverb: https://reverb.com/item/91472791-tallon-electric-abr-od
-3. Tallon Electric ABR-OD: https://parkwaymusic.com/products/abr-od
-4. Tallon Electric ABR-OD - What To Know Where To Buy: https://equipboard.com/items/tallon-electric-abr-od
-5. Tallon Electric ABR-OD &ndash; eastside music supply: https://eastsidemusicsupply.com/products/tallon-electric-abr-od
+1. Tallon Electric - ABR-OD: https://tallonelectric.com/products/augustburnsred
+2. Tallon Electric - Pedals: https://tallonelectric.com/collections/frontpage
+3. Reverb - Tallon Electric ABR-OD: https://reverb.com/item/91472791-tallon-electric-abr-od
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.

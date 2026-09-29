@@ -3,43 +3,43 @@
 ## PRP identity
 - **Archive parent:** Blue-Violet Caprid Small Foot
 - **Builder:** Wren and Cuff
-- **Catalog type:** Distortion / Fuzz
+- **Catalog type:** Fuzz
 - **Identity:** Wren and Cuff's Blue-Violet Caprid Small Foot.
 
 ## What this pedal is
-Qty Add to Cart Description The Wren and Cuff Blue-Violet Caprid Small Foot is a beast of a fuzz, hailing from the classic halls of 70s-era Muff circuits, specifically the famed Violet-era Ram’s head muffs.
+The Blue-Violet Caprid Small Foot is the compact version of Wren and Cuff's Blue Violet Caprid. Wren and Cuff describes it as a pedalboard-friendly recreation of the violet-era Ram's Head Big Muff family.
 
 ## Colorways
-- Wren and Cuff – Blue-Violet Caprid Small Foot
-- Qty Add to Cart Description The Wren and Cuff Blue-Violet Caprid Small Foot is a beast of a fuzz, hailing from the classic halls of 70s-era Muff circuits, specifically the famed Violet-era Ram’s head muffs.
-- Now in a smaller package (and cheaper!) than the large-enclosure Blue-Violet, this small foot pedal holds true to the inspiration and tone found in the original.
+- Standard model uses a **blue** finish.
+- The smaller enclosure is distinct from the larger Blue Violet Caprid OG finish and construction.
 
 ## Versions and factory options
-- The verified evidence references: V2.
-- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+- Same core circuit family as the Blue Violet Caprid OG.
+- True hard-wire bypass.
+- 9VDC negative-tip adapter or 9V battery.
+- Current draw: 5mA.
+- Dimensions: 4.8 x 2.6 x 1.6 inches.
+- The Small Foot uses modern component construction while matching the OG component values.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- The defining difference from the Blue Violet Caprid OG is the compact enclosure and updated component/layout implementation.
+- Wren and Cuff says the sound is very close to the OG, but not identical.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
-- **Exact transistor/device:** Unknown.
+- Wren and Cuff documents **three hand-selected orange-dot transistors and one violet-dot transistor**.
+- These transistors are hand-matched for the desired gain range.
+- Exact semiconductor part numbers are not given.
 
 ## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- Exact clipping/rectifier diode information was not established in the checked sources.
 - **Exact part:** Unknown.
 
 ## Sound
-Qty Add to Cart Description The Wren and Cuff Blue-Violet Caprid Small Foot is a beast of a fuzz, hailing from the classic halls of 70s-era Muff circuits, specifically the famed Violet-era Ram’s head muffs.
-The sound of this pedal is an amazing representation of what a fuzz should sound like.
-Featuring a sustain that sings and resonates, rich, detailed top and low end, with that signature scoop in the mids that muffs are known for, though the violet muffs had a smoother, gentler scoop that doesn’t get buried in the mix and retains that creamy tone.
+The Small Foot is voiced for rich, violin-like sustain with a slightly aggressive edge and the smoother mid scoop associated with the violet-era Muff family. Wren and Cuff notes that its modern construction produces small tonal differences from the larger OG version.
 
 ## Sources checked
-1. Wren and Cuff Blue-Violet Caprid Small Foot — Fuzz Pedal: https://equipboard.com/items/wren-and-cuff-blue-violet-caprid-small-foot
-2. Wren and Cuff Blue-Violet Caprid Small Foot - Reverb: https://reverb.com/p/wren-and-cuff-blue-violet-caprid-small-foot
-3. Wren and Cuff – Blue-Violet Caprid Small Foot | Effects & Pedals: https://www.crestguitar.com/product/wren-and-cuff-blue-violet-caprid-small-foot/
-4. Wren and Cuff Blue-Violet Caprid Small Foot — MrPedal: https://www.mrpedal.com/pedals/wren-and-cuff-blue-violet-caprid-small-foot
-5. Wren and Cuff - Blue-Violet Caprid Small Foot | Mass Street Music: https://massstreetmusic.com/products/wren-and-cuff-blue-violet-caprid-small-foot
+1. Wren and Cuff - Blue Violet Caprid Small Foot: https://www.wrenandcuff.com/products/blue-violet-sm-ft-x6y24
+2. Wren and Cuff - Blue Violet Caprid Small Foot B-Stock / description: https://www.wrenandcuff.com/blems-and-bstock-public/blue-violet-sm-ft-lz2nm-bhwcz
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.

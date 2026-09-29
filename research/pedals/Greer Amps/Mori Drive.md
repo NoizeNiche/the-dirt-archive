@@ -7,42 +7,40 @@
 - **Identity:** Greer Amps's Mori Drive.
 
 ## What this pedal is
-Mori Drive - Greer Amps Menu Cart Home About Us PRODUCTS Pedals Amps Merch Merch Dealers-Artists Dealers Artists Contact Us CONTACT WARRANTY REPAIRS POLICIES My Account Continue Shopping Your Cart is Empty Want free shipping on pedals?
+The Mori Drive is Greer Amps' take on a familiar mid-hump overdrive family. Greer describes it as inspired by vintage Tube Screamer circuitry and tuned between classic TS and K-style frequency ranges.
 
 ## Colorways
-- Greer Amps Mori Drive &ndash; Moze Guitars Skip to content Search HOME INSTRUMENTS ACOUSTIC GUITARS ELECTRIC GUITARS BASSES LAPSTEELS AMPLIFIERS EFFECTS UKULELE MANDOLIN / BANJO HARMONICAS Sold Items DEALS ACCESSORIES ALL STRINGS ELECTRIC GUITAR STRINGS ACOUSTIC GUITAR STRINGS CLASSICAL GUITAR STRINGS BASS STRINGS BANJO STRINGS MANDOLIN STRINGS UKULELE STRINGS GUITAR PICKS TUNERS STRAPS POLISH AND MAINTENANCE INSTRUMENT CASES INSTRUMENT STANDS MERCH LESSONS REPAIRS CONTACT US Account Site navigation Search Search Cart Menu Site navigation HOME INSTRUMENTS ACOUSTIC GUITARS ELECTRIC GUITARS BASSES LAPSTEELS AMPLIFIERS EFFECTS UKULELE MANDOLIN / BANJO HARMONICAS Sold Items DEALS ACCESSORIES ACCESSORIES All ALL STRINGS ELECTRIC GUITAR STRINGS ACOUSTIC GUITAR STRINGS CLASSICAL GUITAR STRINGS BASS STRINGS BANJO STRINGS MANDOLIN STRINGS UKULELE STRINGS GUITAR PICKS TUNERS STRAPS POLISH AND MAINTENANCE INSTRUMENT CASES INSTRUMENT STANDS Clik™ ETI Acoustic Guitar Capo - Standard - Smokey Black Nickel Sold View Duplicate SKU: All Parts Schaller Chrome Strap Locks AP-0681-010 | 39.95 | AP-0681-010 Regular price $39.95 View MERCH LESSONS REPAIRS CONTACT US Account Item added to cart.
+- No complete factory colorway chronology was established in the checked sources.
 
 ## Versions and factory options
-- No distinct factory revision was established in the verified evidence packet.
+- Classic mid-focused overdrive.
+- Wide sweet-spot tone control.
+- Asymmetrical clipping.
+- True bypass.
+- 9V battery or 9V center-negative 2.1mm supply.
+- 7mA at 9V, 9mA at 18V.
+- Greer documents a **JRC4558** chip in the circuit.
+- Enclosure dimensions: 3.68 x 4.67 x 1.18 inches.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- No complete numbered production revision chronology was established in the checked sources.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
+- The JRC4558 is an IC/op-amp rather than a transistor.
+- Exact transistor complement was not established in the checked sources.
 - **Exact transistor/device:** Unknown.
 
 ## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- Greer documents asymmetrical clipping but does not establish the exact clipping-device part number.
 - **Exact part:** Unknown.
 
 ## Sound
-Mori Drive - Greer Amps Menu Cart Home About Us PRODUCTS Pedals Amps Merch Merch Dealers-Artists Dealers Artists Contact Us CONTACT WARRANTY REPAIRS POLICIES My Account Continue Shopping Your Cart is Empty Want free shipping on pedals?
-Home About Us PRODUCTS ▾ Pedals Amps Merch Merch Dealers-Artists ▾ Dealers Artists Contact Us ▾ CONTACT WARRANTY REPAIRS POLICIES Cart Home / Products / Mori Drive Mori Drive $249.00 Qty Add to Cart WE ARE BUILDING MORE MORI DRIVES!!!
-The Mori Drive: for years, we have been asked to build a drive based on that old vintage standby that so many love with the famous “mid hump”…we have finally landed on a set of tweaks with this type of circuit that we believe fits with the other drives in our line, and makes all of our test amps sing.
+The Mori Drive combines the familiar mid-focused response of a Tube Screamer-style circuit with a somewhat broader TS/K-style frequency range. Greer emphasizes smoother clipping, strong output, and stacking compatibility.
 
 ## Sources checked
-1. Mori Drive - Greer Amps: https://www.greeramps.com/products/mori-drive
-2. Greer Amps Mori Drive — Overdrive Pedal | Equipboard: https://equipboard.com/items/greer-amps-mori-drive
-3. Greer Amps Mori Drive &ndash; Grayson&#39;s Tune Town: https://graysonstunetown.com/products/greer-amps-mori-drive
-4. Greer Amps Mori Drive - Reverb: https://reverb.com/item/99611828-greer-amps-mori-drive
-5. Greer Amps Mori Drive: https://aifineguitars.com/products/greer-amps-mori-drive
-6. Greer Amps Mori Drive &ndash; Coast Sonic: https://coastsonic.com/products/greer-amps-mori-drive
-7. Greer Amps Mori Drive &ndash; Moze Guitars: https://www.mozeguitars.com/products/greer-amps-mori-drive
-8. Greer Amps Mori Drive Overdrive Pedal User Manual: https://device.report/manual/20750951
-9. Greer Amps Mori Drive Dimensions, Specs Details: https://www.stompboxgarden.com/gear/pedal/17584/greer-amps-mori-drive
-10. Greer Amps Mori Drive - Effects Database: https://www.effectsdatabase.com/model/greer/moridrive
-11. Greer Amps Mori Drive: https://www.franksmusiccentre.ca/shop/c/p/Greer-Amps-Mori-Drive-x103803653.htm
+1. Greer Amps - Mori Drive: https://www.greeramps.com/products/mori-drive
+2. Greer Amps - Pedals: https://www.greeramps.com/collections/pedals
+3. Effects Database - Greer Amps Mori Drive: https://www.effectsdatabase.com/model/greer/moridrive
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.

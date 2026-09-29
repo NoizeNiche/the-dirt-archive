@@ -7,43 +7,41 @@
 - **Identity:** Greer Amps's Royal Velvet.
 
 ## What this pedal is
-Royal Velvet - Greer Amps Menu Cart Home About Us PRODUCTS Pedals Amps Merch Merch Dealers-Artists Dealers Artists Contact Us CONTACT WARRANTY REPAIRS POLICIES My Account Continue Shopping Your Cart is Empty Want free shipping on pedals?
+The Royal Velvet is a Class-A British-style drive and preamp from Greer Amps. Greer designed it around the character of a Vox-style AC amplifier and the company's Thunderbolt 30, using a steel-core transformer derived from the SOMA63 platform.
 
 ## Colorways
-- Home About Us PRODUCTS ▾ Pedals Amps Merch Merch Dealers-Artists ▾ Dealers Artists Contact Us ▾ CONTACT WARRANTY REPAIRS POLICIES Cart Home / Products / Royal Velvet Royal Velvet $229.00 Color Standard Green Custom Black Qty Add to Cart MAP--$229.00 Enclosure Dimensions (in): 4.77" x 2.6" x 1.39" Power: 9-18 volt neg.
-- Related products Sale WALRUS AUDIO Julia V2 Analog Chorus/Vibrato &#36;103.50 &#36;207.00 Sale WREN and CUFF Ace Octave Fuzz &#36;94.00 &#36;187.99 Sale ANALOG ALIEN Bucket Seat &#36;107.00 &#36;213.99 Sale JHS Little Black Buffer &#36;45.00 &#36;90.00 About Us 3031 Montgomery Street, Savannah, Georgia 31405, United States [email&#160;protected] Extended Range Electric Guitars Quick Links Home Contact Us My Account Shipping & delivery Useful Links Cart Return & Refund Policy Terms & Conditions Privacy Policy Sign Up Newsletter Sign Up for Our Newsletter to get Latest Updates and Offers.
+- Current Greer documentation shows **Standard Green** and **Custom Black** options.
+- No complete historical finish chronology was established.
 
 ## Versions and factory options
-- The verified evidence references: MKII, V2.
-- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+- Class-A British drive/preamp architecture.
+- Steel-core transformer.
+- Can be used as a preamp and stacked with other drive pedals.
+- True bypass.
+- 9V battery or standard negative-center 2.1mm power supply.
+- 9-18V operation.
+- Current draw: 15mA at 9V.
+- Enclosure dimensions: 4.77 x 2.6 x 1.39 inches.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- No complete numbered production revision chronology was established.
+- “MKII” or “V2” references in older reseller captures are not treated as confirmed revisions without supporting Greer documentation.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
+- The checked sources emphasize the transformer/Class-A architecture but do not publish a complete transistor/device list.
 - **Exact transistor/device:** Unknown.
 
 ## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- Exact clipping/rectifier diode information was not established in the checked sources.
 - **Exact part:** Unknown.
 
 ## Sound
-The Royal Velvet Class-A British Drive and Pre nails the feel and tone of two of Nick Greer’s favorite amps.
-In that world, you’d end up with a sound machine much like the Royal Velvet.
-This British drive and pre features the same transformer as the previously released, award winning SOMA63.
+At 9V the Royal Velvet provides British-style grind with some compression; at 18V Greer describes a stiffer response and more clean headroom. The EQ is voiced between AC-style and Thunderbolt-style British tones.
 
 ## Sources checked
-1. Royal Velvet - Greer Amps: https://www.greeramps.com/products/royal-velvet
-2. Greer Amps Royal Velvet - Reverb: https://reverb.com/p/greer-royal-velvet
-3. Greer Amps Royal Velvet — Overdrive Pedal | Equipboard: https://equipboard.com/items/greer-amps-royal-velvet
-4. Greer Amps Royal Velvet: https://www.musiclshop.com/products/greer-amps-royal-velvet/
-5. Greer Amps - Royal Velvet: https://gcrockboard.com/greer-amps-royal-velvet
-6. Greer Amps Royal Velvet Pedal: https://milanomusic.com/greer-amps-royal-velvet-pedal/
-7. Greer Amps Royal Velvet Class-A British Drive &#038; Pre | Effect Pedals | acoguitar.com: https://www.acoguitar.com/product/greer-amps-royal-velvet-class-a-british-drive-pre/
-8. Greer Amps Royal Velvet Dimensions, Specs Details: https://www.stompboxgarden.com/gear/pedal/2355/greer-amps-royal-velvet
-9. Royal Velvet by Greer Amps | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/Greer-Amps/Royal-Velvet/627459644/
-10. GREER AMPS Royal Velvet | Pedals and FX | guitarxrange.com: https://www.guitarxrange.com/product/greer-amps-royal-velvet/
+1. Greer Amps - Royal Velvet: https://www.greeramps.com/products/royal-velvet
+2. Greer Amps - Pedals: https://www.greeramps.com/collections/pedals
+3. Effects Database - Greer Amps Royal Velvet: https://www.effectsdatabase.com/model/greer/royalvelvet
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.
