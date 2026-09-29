@@ -209,10 +209,13 @@ def clean_evidence_excerpt(text, builder="", pedal=""):
     for identity in identity_variants:
         if len(identity) < 3:
             continue
-        match = re.search(re.escape(identity), value, flags=re.I)
-        if match and match.start() > 0 and scrape_residue_score(value[:match.start()]) >= 3:
-            value = value[match.start():]
-            break
+        for match in re.finditer(re.escape(identity), value, flags=re.I):
+            if match.start() > 0 and scrape_residue_score(value[:match.start()]) >= 3:
+                value = value[match.start():]
+                break
+        else:
+            continue
+        break
 
     # Drop common footer/navigation tails when they occur after the product
     # copy. This prevents UI labels from becoming canonical evidence.
