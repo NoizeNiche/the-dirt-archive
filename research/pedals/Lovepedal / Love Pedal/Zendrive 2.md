@@ -7,31 +7,29 @@
 - **Identity:** Lovepedal / Love Pedal's Zendrive 2.
 
 ## What this pedal is
-Lovepedal / Love Pedal's Zendrive 2 is cataloged as an overdrive pedal.
+Zendrive 2 is a limited Hermida Audio/Lovepedal version of the Zendrive using high-voltage FET technology intended to emulate a 12AX7-style tube stage.
 
 ## Colorways
-- No specific factory colorway information was established in the verified evidence packet.
+- A documented 2016 production batch used a gold finish.
 
 ## Versions and factory options
-- No distinct factory revision was established in the verified evidence packet.
-
-## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- High-voltage FET architecture.
+- Limited production.
+- 9V/18V operation is documented.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
-- **Exact transistor/device:** Unknown.
+- **High-voltage FET** technology is documented.
+- Exact device part number was not established.
 
 ## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
-- **Exact part:** Unknown.
+- Exact clipping-device information was not established.
 
 ## Sound
-TCHULA 200lbs PURPLE PLEXI ETERNITY BURST HERMIDA ZENDRIVE DOVER DRIVE AMP ELEVEN RUBBER CHICKEN HERMIDA EPH3 © All rights reserved 2026 LOVEPEDAL L.L.C.
-The Dirt Archive currently catalogs **Zendrive 2** by **Lovepedal / Love Pedal** as a **Overdrive** pedal.
+Open, dynamic low-to-medium gain with tube-style response.
 
 ## Sources checked
-1. Love Pedal: https://www.lovepedal.com/
+1. Lovepedal - Zendrive 2: https://www.lovepedal.com/zendrive-2/
+2. Effects Database - Lovepedal Zendrive 2: https://www.effectsdatabase.com/model/lovepedal/zendrive2
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.
