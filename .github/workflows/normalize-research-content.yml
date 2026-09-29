@@ -1,0 +1,44 @@
+name: Normalize research content
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - research/CLEANUP_RESEARCH_KICK
+      - scripts/clean-research-content.py
+      - scripts/audit-research-content.py
+
+permissions:
+  contents: write
+
+concurrency:
+  group: dirt-research-content-normalizer-v1
+  cancel-in-progress: false
+
+jobs:
+  normalize:
+    name: Normalize research records
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          fetch-depth: 0
+      - name: Clean research content
+        run: python scripts/clean-research-content.py
+      - name: Audit normalized research content
+        run: python scripts/audit-research-content.py --output /tmp/research-content-audit.csv
+      - name: Validate archive
+        run: python scripts/validate-archive.py
+      - name: Commit cleanup
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add research/pedals
+          if git diff --cached --quiet; then
+            echo "No research normalization changes."
+            exit 0
+          fi
+          git commit -m "Normalize research content structure"
+          git push origin main
