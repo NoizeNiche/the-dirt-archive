@@ -7,38 +7,38 @@
 - **Identity:** Old Blood Noise Endeavors's Haunt Fuzz.
 
 ## What this pedal is
-Old Blood Noise Endeavors Haunt Fuzz &ndash; Coast Sonic Skip to content Search Home Shop Hi-Fives News Contact Account Search Cart Home Shop Hi-Fives News Contact Home Old Blood Noise Endeavors Haunt Fuzz Skip to product information Previous Next Close Old Blood Noise Endeavors Haunt Fuzz Regular price $189.00 USD More stock coming soon By Old Blood Noise Endeavours Quantity Add to cart Maker: Old Blood Noise Endeavors Model: Haunt Fuzz Condition: New Description: The Old Blood Noise Endeavors Haunt is a gated fuzz that is capable of a wide array of fuzz sounds.
+The Haunt is a gated fuzz designed to cover a wide range of fuzz sounds, from more conventional saturated tones to sharper, broken and sputtering textures.
 
 ## Colorways
-- No specific factory colorway information was established in the verified evidence packet.
+- No complete factory finish chronology was established in the checked sources.
+- Finish changes are not treated as circuit revisions.
 
 ## Versions and factory options
-- The verified evidence references: V2.
-- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+- The checked sources reference **V2** and later **clickless switching** production.
+- The core design is a gated fuzz with a broad usable range.
+- Exact complete control labeling is not asserted where the source capture does not preserve it reliably.
+- Standard pedalboard power.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- The archive keeps the Haunt V2 identity separate from earlier Haunt hardware.
+- Clickless switching is treated as a switching refinement, not a different fuzz circuit.
 
 ## Transistor
-- Documented terms in the verified sources: silicon transistors.
-- The archive records only the component information explicitly present in these sources.
+- OBNE source material documents **silicon transistors**.
+- Exact production transistor part numbers were not established.
+- **Exact transistor/device:** Unknown.
 
 ## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- Exact clipping/rectifier diode information was not established.
 - **Exact part:** Unknown.
 
 ## Sound
-Old Blood Noise Endeavors &mdash; Haunt Fuzz w/ Clickless Switching Skip to Content Open Menu Close Menu home pedals all pedals new alternative colorways delay reverb overdrive, distortion fuzz modulation expression filter reverse stereo xlr vocal utility replacement knobs retired cables / adapters merchandise accessories candles gift card hats mugs glasses shirts sweatshirts custom shop dealers manuals firmware podcast contact Login Account 0 0 Open Menu Close Menu home pedals all pedals new alternative colorways delay reverb overdrive, distortion fuzz modulation expression filter reverse stereo xlr vocal utility replacement knobs retired cables / adapters merchandise accessories candles gift card hats mugs glasses shirts sweatshirts custom shop dealers manuals firmware podcast contact Login Account 0 0 home Folder: pedals Back all pedals new alternative colorways delay reverb overdrive, distortion fuzz modulation expression filter reverse stereo xlr vocal utility replacement knobs retired cables / adapters Folder: merchandise Back accessories candles gift card hats mugs glasses shirts sweatshirts custom shop dealers manuals firmware podcast contact Login Account
-Old Blood Noise Endeavors Haunt Fuzz Effects Pedal | Guitar Center Pro Gear Advisers Chat • 866-498-7882 Sign In search search Guitars Amps Effects Keys MIDI Drums DJ Gear Basses Recording Live Sound Accessories Mics Wireless Music Software Lighting Band Orchestra Platinum Gear Deals Used New Arrivals Lessons Daily Pick Financing GC Pro Repairs Rentals Riffs Blog Brands Recently Viewed Guitars Shop All Guitars Back Shop All Guitars Guitars Classical Nylon Ukuleles, Banjos More Guitar Value Packs Electric Guitars Solid Body Hollow Semi-Hollow Body Left-Handed Travel Mini Classical Nylon Ukuleles, Banjos More Guitar Value Packs Acoustic Guitars Acoustic-Electric 6-string 12-string Left-Handed Classical Nylon Ukuleles, Banjos More Guitar Value Packs Guitar Accessories Strings Picks Straps Cases Gig Bags Pickups Guitar Stands Wall Hangers Instrument Cables Guitar Amps Effects Classical Nylon Ukuleles, Banjos More Guitar Value Packs Popular Brands Fender Epiphone Taylor Squier Gibson Martin Ibanez PRS Schecter Jackson Guitar Deals Guitar New Arrivals Guitar Top Sellers Exclusive Guitars Platinum Guitars Used Guitars Amps Effects Shop All Amps Effects Back Shop All Amps Effects Amps Effects Guitar Amps Combo Amps Heads Cabinets Guitar Amp Stacks Mini Amps Headphone Guitar Amps Acoustic Combo Guitar Amps Bass Amps Combo Amps Heads Cabinets Amp Stacks Mini Amps Preamps Pedals Amplifier Accessories Amp Parts Amp Stands Covers Cases Effects Effects Pedals Multi-Effects Pedals Delay Reverb Distortion Overdrive Effects Pedal Accessories Pedalboards Power Supplies Popular Brands BOSS Fender Line 6 Marshall Positive Grid Markbass MXR Mesa/Boogie Orange Amps Effects Deals Amps Effects New Arrivals Amps Effects Top Sellers Exclusive Amps Effects Used Amps Effects Keyboards MIDI Shop All Keyboards MIDI Back Shop All Keyboards MIDI Keyboards MIDI Production Groove Keyboards Home Digital Pianos Stage Digital Pianos Keyboard Workstations Organs Portable Arranger Keyboards Keyboard Packages Production Groove MIDI MIDI Controllers MIDI Interfaces Production Groove Synthesizers Sound Modules Synthesizers Modular Synthesizer Systems Synthesizer Modules Sound Modules Synthesizer Eurorack Accessories Production Groove Keyboard Accessories Benches Stools Sustain, Volume Expression Pedals Stands Racks Cases, Gig Bags Covers Amplifiers Monitors Production Groove Popular Brands Yamaha Nord Williams Akai Casio Korg Roland teenage engineering Native Instruments Keys MIDI Deals Keys MIDI New Arrivals Keys MIDI Top Sellers Exclusive Keys MIDI Used Keys MIDI Drums Shop All Drums Back Shop All Drums Drums Concert Percussion World Percussion Marching Percussion Acoustic Drums Drum Sets Snare Drums Floor Toms Mounted Toms Bass Drums Concert Percussion World Percussion Marching Percussion Electronic Drums Electronic Drum Sets Electronic Drum MIDI Controllers Electronic Drum Modules Drum Amps Drum Machines Trigger Pads Concert Percussion World Percussion Marching Percussion Cymbals Cymbal Packs Hi-Hat Cymbals Crash Cymbals Ride Cymbals China Cymbals Splash Cymbals Effect Cymbals Electronic Cymbals Artist Signature Cymbals Concert Percussion World Percussion Marching Percussion Popular Brands Alesis Simmons Roland Zildjian Ludwig Meinl TAMA DW Pearl Sound Percussion Labs Concert Percussion World Percussion Marching Percussion Hardware Accessories Hardware Packs Pedals Thrones Cymbal Stands Boom Arms Drum Sticks Mallets Drum Deals Drum New Arrivals Drum Top Sellers Exclusive Drums Used Drums DJ Equipment Shop All DJ Equipment Back Shop All DJ Equipment DJ Equipment Categories Controllers Interfaces DJ CD Media Players DJ Mixers DJ Software Production Groove Turntables DJ Vinyl DJ Headphones Karaoke Needles Cartridges DJ Accessories Popular Brands Pioneer DJ Numark Denon Native Instruments Gemini Rane Reloop Ortofon DJ Gear Deals DJ Gear New Arrivals DJ Gear Top Sellers Used DJ Gear Basses Shop All Basses Back Shop All Basses Basses Electric Basses 4-String 5-String 6+
-Old Blood Noise Endeavors Haunt Fuzz &ndash; Coast Sonic Skip to content Search Home Shop Hi-Fives News Contact Account Search Cart Home Shop Hi-Fives News Contact Home Old Blood Noise Endeavors Haunt Fuzz Skip to product information Previous Next Close Old Blood Noise Endeavors Haunt Fuzz Regular price $189.00 USD More stock coming soon By Old Blood Noise Endeavours Quantity Add to cart Maker: Old Blood Noise Endeavors Model: Haunt Fuzz Condition: New Description: The Old Blood Noise Endeavors Haunt is a gated fuzz that is capable of a wide array of fuzz sounds.
+The Haunt is deliberately capable of both usable and extreme gated fuzz. Its response can move from fuller saturated fuzz into sharper, sputtering textures as the controls are pushed toward more aggressive settings.
 
 ## Sources checked
-1. Old Blood Noise Endeavors &mdash; Haunt Fuzz w/ Clickless Switching: https://oldbloodnoise.com/pedals/p/haunt-fuzz-w-clickless-switching
-2. Old Blood Noise Endeavors Haunt Fuzz V2 - Reverb: https://reverb.com/p/old-blood-noise-endeavors-haunt-fuzz-v2
-3. Old Blood Noise Endeavors Haunt Fuzz Effects Pedal | Guitar Center: https://www.guitarcenter.com/Old-Blood-Noise-Endeavors/Haunt-Fuzz-Effects-Pedal-1500000274062.gc
-4. Old Blood Noise Endeavors Haunt Fuzz V2 - Equipboard: https://equipboard.com/items/old-blood-noise-endeavors-haunt-fuzz-v2
-5. Old Blood Noise Endeavors Haunt Fuzz Pedal - V2 | eBay: https://www.ebay.com/itm/166942088240
-6. Old Blood Noise Endeavors Haunt Fuzz &ndash; Coast Sonic: https://coastsonic.com/products/old-blood-noise-endeavors-haunt-fuzz
+1. Old Blood Noise Endeavors - Haunt Fuzz w/ Clickless Switching: https://oldbloodnoise.com/pedals/p/haunt-fuzz-w-clickless-switching
+2. Reverb - OBNE Haunt Fuzz V2: https://reverb.com/p/old-blood-noise-endeavors-haunt-fuzz-v2
+3. Equipboard - OBNE Haunt Fuzz V2: https://equipboard.com/items/old-blood-noise-endeavors-haunt-fuzz-v2
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.

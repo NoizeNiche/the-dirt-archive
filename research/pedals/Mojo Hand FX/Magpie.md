@@ -7,41 +7,38 @@
 - **Identity:** Mojo Hand FX's Magpie.
 
 ## What this pedal is
-Note: the ten Magpie we presently have in stock were built to commemorate our final run of Kensrue Rooks, and are powdercoated with the matching Seafoam Pearl finish the Kensrue Rook has.
+The Magpie is a low-to-medium gain overdrive with a dedicated boost setting. In the middle switch position, the clipping diodes are removed from the signal path so the pedal behaves as a clean signal boost for pushing an amplifier.
 
 ## Colorways
-- Note: the ten Magpie we presently have in stock were built to commemorate our final run of Kensrue Rooks, and are powdercoated with the matching Seafoam Pearl finish the Kensrue Rook has.
+- A documented special run used **Seafoam Pearl**, matching the final Kensrue Rook finish.
+- Finish changes are treated as editions unless a circuit change is documented.
 
 ## Versions and factory options
-- The verified evidence references: V1, V2, V3.
-- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+- Low-to-medium gain overdrive.
+- Middle switch position operates as **Boost**.
+- Boost mode removes the clipping diodes from the clipping section.
+- Exact external control labels beyond the documented boost function are not asserted without a matching manual.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- The checked research material references V1, V2, and V3, but does not provide a complete revision chronology.
+- The archive does not assign every reseller revision label to a specific circuit.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
+- Exact production semiconductor details were not established.
 - **Exact transistor/device:** Unknown.
 
 ## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- The boost position explicitly removes the clipping diodes from the clipping section.
+- Exact production diode types are not established.
 - **Exact part:** Unknown.
 
 ## Sound
-It’s great for low to medium gain sounds.
-The middle position is the “Boost” setting.
-It removes diodes from the clipping section allowing for a nice signal boost that’s great for pushing the front end of your favorite tube amp.
+Magpie is designed for low-to-medium gain drive with enough output to push a tube amplifier. The Boost setting removes diode clipping for a louder, cleaner push, while the drive modes provide the pedal's overdrive range.
 
 ## Sources checked
-1. Magpie - MojoHandFX: https://mojohandfx.com/magpie/
-2. Mojo Hand FX Magpie Overdrive - Reverb: https://reverb.com/p/mojo-hand-fx-magpie
-3. Magpie - MojoHandFX: https://fulleffectdistro.com/magpie/
-4. Mojo Hand FX Magpie — Overdrive Pedal | Equipboard: https://equipboard.com/items/mojo-hand-fx-magpie-overdrive
-5. Mojo Hand FX Magpie Overdrive - Guitar FX Direct: https://www.guitarfxdirect.com/product/mojo-hand-fx-magpie-overdrive/
-6. Mojo Hand FX Magpie Dimensions, Specs & Details: https://www.stompboxgarden.com/gear/pedal/4997/mojo-hand-fx-magpie
-7. Mojo Hand FX Magpie Pedal | Effects & Pedals: https://www.crestguitar.com/product/mojo-hand-fx-magpie-pedal/
-8. Magpie by Mojo Hand Fx | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/Mojo-Hand-Fx/Magpie/68982051/
-9. Magpie — Mojo Hand FX Overdrive Pedal | PedalFilter | PedalFilter: https://pedalfilter.com/mojo-hand-fx/magpie
+1. Mojo Hand FX - Magpie: https://mojohandfx.com/magpie/
+2. Reverb - Mojo Hand FX Magpie: https://reverb.com/p/mojo-hand-fx-magpie
+3. Effects Database - Mojo Hand FX Magpie: https://www.effectsdatabase.com/model/mojohand/magpie
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.

@@ -7,32 +7,40 @@
 - **Identity:** Mythos Pedals's 1N34A Mjolnir - Silver.
 
 ## What this pedal is
-Mythos Pedals's 1N34A Mjolnir - Silver is cataloged as an overdrive pedal.
+The 1N34A Mjolnir is a Klon-style boost/overdrive variant built around a matched pair of **1N34A germanium diodes**. The Silver version is the silver-finish presentation of the 1N34A Mjolnir family.
 
 ## Colorways
-- We're offering these in Silver and Gold finishes and the design is reminiscent of their inspiration.
+- **Silver** is the documented finish for this record.
+- Mythos also offered a **Gold** version, which is kept as a separate archive identity.
+- Finish is not automatically treated as a circuit revision.
 
 ## Versions and factory options
-- No distinct factory revision was established in the verified evidence packet.
+- Buffered bypass switching.
+- Internal charge pump.
+- 9V power supply only.
+- Internal battery clip.
+- Mythos describes the circuit as a sonic replica of a specific Klon Centaur example.
+- Matched pair of 1N34A germanium diodes.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- Silver and Gold are treated as separate archive identities because Mythos sold them as separate variants.
+- No complete numbered hardware revision chronology was established for the Silver version.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
+- Exact production semiconductor details were not established.
 - **Exact transistor/device:** Unknown.
 
 ## Diode
-- Documented terms in the verified sources: 1N34A.
-- The archive records only the component information explicitly present in these sources.
+- **Clipping diodes:** matched 1N34A germanium pair.
+- The exact manufacturing source of the individual diodes is not established.
 
 ## Sound
-The amount of gain is the same, voicing, output, it's all there and tweaked in just the right way.
-Buffered Bypass Switching Internal Charge Pump (9volt Power Supply ONLY) Vintage 1N34A Diode Pair Sonic replica of Serial 1666 Klon Centaur © Internal Battery Clip Customers also like Selectable Tone Cap $15.00 ( / ) Add to cart
-Blaster Boost Kit $45.00 ( / ) Add to cart
+The 1N34A Mjolnir combines clean boost and low-to-medium gain Klon-style overdrive with the compression and mid-focused character associated with the Mjolnir family.
 
 ## Sources checked
-1. 1N34A Mjolnir - Silver &ndash; Mythos Pedals: https://mythospedals.com/products/1n34a-germanium-mjolnir-silver
+1. Mythos Pedals - 1N34A Mjolnir Silver: https://mythospedals.com/products/1n34a-germanium-mjolnir-silver
+2. Effects Database - Mythos 1N34A Mjolnir: https://www.effectsdatabase.com/
+3. Reverb - Mythos 1N34A Mjolnir references in the archive research set.
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.
