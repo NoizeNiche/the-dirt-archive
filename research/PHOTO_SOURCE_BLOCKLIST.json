@@ -85,6 +85,126 @@
       "pattern": "fuzzgoddess\\.com/img/workbench-",
       "reason": "Generic workbench/site image, not an exact pedal product photograph.",
       "severity": "hard_block"
+    },
+    {
+      "type": "exact_url",
+      "pattern": "https://images.squarespace-cdn.com/content/v1/504a2da9e4b0060ff5df6806/1387306372817-M4OD7IG839BAVXKLRYQX/%22+Sticker.png?format=300w",
+      "reason": "ARC Effects sticker graphic reused as multiple pedal photos.",
+      "severity": "hard_block"
+    },
+    {
+      "type": "exact_url",
+      "pattern": "https://d6a2e7ghqts3o.cloudfront.net/AcuCustom/Sitename/DAM/542/2023-GPX-Best-of-British-Builders-V2-700.jpg",
+      "reason": "Guitar Pedal X roundup artwork reused as multiple unrelated builder photos.",
+      "severity": "hard_block"
+    },
+    {
+      "type": "url_regex",
+      "pattern": "static\\.reverb-assets\\.com/production-assets/webpack/images/mobile-header-background-",
+      "reason": "Reverb mobile header background, not a pedal photograph.",
+      "severity": "hard_block"
+    },
+    {
+      "type": "exact_url",
+      "pattern": "http://static1.squarespace.com/static/5ba25ce95cfd7946edf8fdfa/t/618c60ae54deea04adee556d/1636589742279/browneHEADSTOCK-square.jpg?format=1500w",
+      "reason": "Browne Amplification headstock artwork, not a pedal photograph.",
+      "severity": "hard_block"
+    },
+    {
+      "type": "exact_url",
+      "pattern": "https://images.squarespace-cdn.com/content/v1/567322ce0e4c11f307b26a3e/1578891091385-UI03KPHJGN60JKVB31N0/MainLogo2.gif?format=1500w",
+      "reason": "Byron Amplification logo artwork, not a pedal photograph.",
+      "severity": "hard_block"
+    },
+    {
+      "type": "exact_url",
+      "pattern": "https://images.squarespace-cdn.com/content/v1/56a5a0e242f55268768a0c2b/0ac39b4e-d012-4a88-969f-7d358ad70bb8/DSCF0153.jpg?format=500w",
+      "reason": "Electronic Audio Experiments group/site image reused across multiple pedals.",
+      "severity": "hard_block"
+    },
+    {
+      "type": "exact_url",
+      "pattern": "https://quanta-brands.jp/fortin-amplification/wp-content/uploads/sites/2/2024/04/240327_Fortin-OGP.png",
+      "reason": "Fortin Amplification OGP artwork, not an exact pedal photograph.",
+      "severity": "hard_block"
+    },
+    {
+      "type": "exact_url",
+      "pattern": "https://fuzzrociouspedals.com/wp-content/uploads/2025/11/gshelio_feb2026_site-237x187.jpg",
+      "reason": "Fuzzrocious site/category image reused across multiple unrelated pedals.",
+      "severity": "hard_block"
+    },
+    {
+      "type": "exact_url",
+      "pattern": "https://fuzzrociouspedals.com/wp-content/uploads/2023/06/cosmicbullshark_june2023_site-237x187.jpg",
+      "reason": "Fuzzrocious site/category image reused across multiple unrelated pedals.",
+      "severity": "hard_block"
+    },
+    {
+      "type": "exact_url",
+      "pattern": "https://rockettpedals.com/wp-content/uploads/2024/08/hero-image.jpg",
+      "reason": "J. Rockett site hero image reused across multiple unrelated pedals.",
+      "severity": "hard_block"
+    },
+    {
+      "type": "exact_url",
+      "pattern": "https://www.lovepedal.com/wp-content/uploads/2026/02/rubberchicNIVO.png",
+      "reason": "Lovepedal site artwork reused across multiple unrelated pedals.",
+      "severity": "hard_block"
+    },
+    {
+      "type": "exact_url",
+      "pattern": "https://www.midfielectronics.com/images/HEADER-mobile2.png",
+      "reason": "Mid-Fi site header artwork reused across many unrelated pedals.",
+      "severity": "hard_block"
+    },
+    {
+      "type": "exact_url",
+      "pattern": "https://origineffects.com/wp-content/uploads/2022/09/Peter-Frampton-2000x2000-1.jpg",
+      "reason": "Origin Effects artist/marketing artwork reused across unrelated pedals.",
+      "severity": "hard_block"
+    },
+    {
+      "type": "exact_url",
+      "pattern": "https://kmamachines.com/wp-content/uploads/2026/07/kma-cd_bs-buynowbg-ls.webp",
+      "reason": "KMA Machines site buy-now background artwork, not an exact pedal photograph.",
+      "severity": "hard_block"
+    },
+    {
+      "type": "exact_url",
+      "pattern": "http://i270.photobucket.com/albums/jj112/DonnerBox/bjf1.jpg",
+      "reason": "BJFE forum-family image reused across many distinct pedal identities.",
+      "severity": "hard_block"
+    },
+    {
+      "type": "exact_url",
+      "pattern": "https://rvb-img.reverb.com/i/s--t-84T-uh--/gravity=auto,quality=medium-low,width=200,height=200,format=jpeg/n1xrih5wc4x8cu8axb4r.jpg",
+      "reason": "One 200px Reverb thumbnail is incorrectly reused across multiple unrelated NUX and Wampler models.",
+      "severity": "hard_block"
+    },
+    {
+      "type": "exact_url",
+      "pattern": "https://files.effectsdatabase.com/gear/thumbs/darkglass_alphaomega_001.jpg",
+      "reason": "Effects Database Alpha-Omega image reused for the distinct Alpha-Omega Photon model.",
+      "severity": "hard_block"
+    },
+    {
+      "type": "exact_url",
+      "pattern": "https://files.effectsdatabase.com/gear/thumbs/darkglass_microtubes-vintage_001.jpg",
+      "reason": "Effects Database Microtubes Vintage image reused for the distinct Vintage Deluxe model.",
+      "severity": "hard_block"
+    },
+    {
+      "type": "exact_url",
+      "pattern": "https://files.effectsdatabase.com/gear/thumbs/darkglass_microtubes-x_001.jpg",
+      "reason": "Effects Database Microtubes X image reused for the distinct X Ultra model.",
+      "severity": "hard_block"
+    },
+    {
+      "type": "exact_url",
+      "pattern": "https://www.bashsmusic.com.au/wp-content/uploads/VOX-PFINDER10RD_3-1000x717.webp",
+      "reason": "VOX Pathfinder 10 amplifier image incorrectly reused as multiple pedal photos.",
+      "severity": "hard_block"
     }
   ]
 }
