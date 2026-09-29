@@ -1,6 +1,8 @@
 {
   "builder": "All-Pedal",
   "pedal": "Alcmene Overdrive",
+  "original_builder": "All-Pedal",
+  "original_pedal": "Alcmene Overdrive",
   "status": "VERIFIED_EVIDENCE_STAGED",
   "independent_exact_source_count": 1,
   "sources": [

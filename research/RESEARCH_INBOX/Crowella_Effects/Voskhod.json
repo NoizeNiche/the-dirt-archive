@@ -4,7 +4,7 @@
   "original_builder": "Crowella Effects",
   "original_pedal": "Voskhod",
   "status": "VERIFIED_EVIDENCE_STAGED",
-  "independent_exact_source_count": 1,
+  "independent_exact_source_count": 2,
   "sources": [
     {
       "url": "https://foundsound.com.au/products/42483",
@@ -12,6 +12,14 @@
       "h1": "Crowella Effects Voskhod Bass Distortion",
       "excerpt": "Crowella Effects Voskhod Bass Distortion USED Regular price $179.00 AUD $179.00 AUD Shipping calculated at checkout. Local taxes and duties may apply. Add to cart Couldn't load pickup availability Refresh",
       "host": "foundsound.com.au",
+      "source_kind": "catalog_verified"
+    },
+    {
+      "url": "https://www.rockboard.de/en/pedalPedia/Crowella-Effects/Voskhod/68977029/",
+      "title": "Voskhod by Crowella Effects | RockBoard | PedalPedia",
+      "h1": "Voskhod",
+      "excerpt": "Voskhod by Crowella Effects | RockBoard | PedalPedia Skip to main content LOG IN EXPLORE Crowella Effects Voskhod LOG IN TO SUGGEST IMPROVEMENTS DISTORTION Description Dominate your low end with the Crowella Effects Voskhod, a tweaked version of a Russian Big Muff Pi, with added clean blend for any bassists delight! Media Videos Official Product Video (EN) Links Product Page Technical data Width 000.00 mm Depth 000.00 mm Height 000.00 mm Circuit type analog Voltage 9V DC, center negative Current 10mA More pedals from Crowella Effects OVERDRIVE OVERDRIVE Crowella Effects Animated OVERDRIVE OVERDRIVE Crowella Effects Defector All Crowella Effects Pedals Products Pedalboards All-In-One Patchbays QuickMount PedalSafe Power Supplies and Power Cables and Connections Accessories Gear Build your own board Board Configurator PedalPedia Pedalboard Gallery QuickMount Finder Services Find a dealer Find a distributor Frequently Asked Questions Contact Current catalog News Community RockBoard Artists Achievements Your Activity Overview \u00a92026 Warwick GmbH & Co. Music Equipment KG GTC | Imprint | Privacy policy | Accessibility | Cookie Settings",
+      "host": "www.rockboard.de",
       "source_kind": "catalog_verified"
     }
   ],
