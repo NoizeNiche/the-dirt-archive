@@ -13,6 +13,7 @@ on:
       - 'scripts/audit-detail-pages.js'
       - 'scripts/audit-photo-content.py'
       - 'scripts/audit-pictured-photo-hash-collisions.py'
+      - 'scripts/build-photo-hash-review.py'
       - 'scripts/audit-photo-identity.py'
       - 'research/PHOTO_DIRECT_IMAGE_OVERRIDES.csv'
       - 'research/PHOTO_MANUAL_REVIEW.csv'
@@ -74,6 +75,9 @@ jobs:
       - name: Audit suspicious cross-identity photo reuse
         run: python scripts/audit-pictured-photo-hash-collisions.py --output photo-hash-collision-audit.csv
 
+      - name: Build same-builder photo review roster
+        run: python scripts/build-photo-hash-review.py
+
       - name: Audit photographed pedal identity
         run: python scripts/audit-photo-identity.py --workers 8 --output photo-identity-audit.csv
 
@@ -86,6 +90,7 @@ jobs:
             detail-page-audit-report.json
             photo-content-audit.csv
             photo-hash-collision-audit.csv
+            research/PHOTO_HASH_REVIEW.csv
             photo-identity-audit.csv
             /tmp/dirt-archive-audit-server.log
           if-no-files-found: warn
