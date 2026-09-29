@@ -301,13 +301,6 @@ async function main() {
           results.push(out);
           continue;
         }
-        if (!entry.sourceUrl || !/^https?:\/\//i.test(entry.sourceUrl)) {
-          out.Status = 'NO_DIRECT_SOURCE';
-          out.Note = 'No direct image source URL is recorded for comparison.';
-          results.push(out);
-          continue;
-        }
-
         let localBytes;
         try {
           localBytes = fs.readFileSync(local);
@@ -320,6 +313,28 @@ async function main() {
         }
 
         try {
+          if (!entry.sourceUrl || !/^https?:\/\//i.test(entry.sourceUrl)) {
+            const rendered = await renderedSourcePageImage(page, entry);
+            if (!rendered?.bytes || !rendered.identityVerified) {
+              out.Status = entry.sourcePage ? 'SOURCE_UNAVAILABLE' : 'NO_SOURCE';
+              out.Note = entry.sourcePage
+                ? 'No direct image URL; exact source-page image could not be rendered with identity verification.'
+                : 'No direct image source URL or source page is recorded for comparison.';
+              results.push(out);
+              continue;
+            }
+
+            out.SourceURL = rendered.imageUrl || '';
+            out.SourceSHA256 = sha256(rendered.bytes);
+            const comparison = await compareImages(page, localBytes, 'image/webp', rendered.bytes, rendered.type);
+            out.Status = comparison.verdict;
+            out.Hamming = comparison.hammingDistance;
+            out.SampleError = comparison.sampleError;
+            out.Note = 'Compared archived image against a rendered image from the identity-verified source page because no direct image URL was recorded.';
+            results.push(out);
+            continue;
+          }
+
           const response = await page.request.get(entry.sourceUrl, { timeout: TIMEOUT });
           const type = String(response.headers()['content-type'] || '').toLowerCase();
           const sourceBytes = await response.body();
