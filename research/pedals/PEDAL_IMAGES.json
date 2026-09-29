@@ -6481,7 +6481,6 @@
   {
     "builder": "Blackhawk Amplifiers",
     "pedal": "Valkyrie Drive",
-    "image": "./assets/pedals/blackhawk-amplifiers/valkyrie-drive/primary.webp",
     "source_page": "https://www.blackhawkamplifiers.com/product/uruk-hai-parallel-mkii",
     "research_record": "./research/pedals/PRP Batch 101/Valkyrie Drive.md"
   },
@@ -13985,7 +13984,6 @@
   {
     "builder": "Crazy Tube Circuits",
     "pedal": "White Whale",
-    "image": "./assets/pedals/crazy-tube-circuits/white-whale/primary.webp",
     "source_page": "https://crazytubecircuits.com/store/overdrive-distortion-fuzz",
     "research_record": "./research/pedals/Crazy Tube Circuits/White Whale.md"
   },
@@ -19243,7 +19241,6 @@
   {
     "builder": "Hudson Electronics",
     "pedal": "Broadcast AP-II",
-    "image": "./assets/pedals/hudson-electronics/broadcast-ap-ii/primary.webp",
     "source_page": "https://hudsonelectronicsuk.com/product-category/pedals/",
     "research_record": "./research/pedals/Hudson Electronics/Broadcast AP-II.md"
   },
@@ -21976,7 +21973,6 @@
   {
     "builder": "Mad Professor Amplification",
     "pedal": "Super Black",
-    "image": "./assets/pedals/mad-professor-amplification/super-black/primary.webp",
     "source_page": "https://mpamp.com/category/8/shop",
     "research_record": "./research/pedals/Mad Professor Amplification/Super Black.md"
   },
