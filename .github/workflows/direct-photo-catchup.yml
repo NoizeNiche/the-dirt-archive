@@ -18,6 +18,7 @@ on:
       - scripts/merge-photo-recovery-results.py
       - scripts/verify-photo-recovery-batch.py
       - scripts/verify-photo-state.py
+      - scripts/reset-photo-recovery-targets.py
       - scripts/prune-orphaned-photo-assets.py
 
 permissions:
