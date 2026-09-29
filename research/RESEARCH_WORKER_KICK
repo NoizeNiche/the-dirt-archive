@@ -1,2 +1,5 @@
 Research quality rehabilitation pass — 2026-09-29T10:54:00-07:00
 Rebuild the research queue and re-evidence shallow or weak public pedal information. Preserve exact Builder + Pedal identity, replace only weak visible prose with stronger exact-model evidence, and do not invent unsupported circuit or sound claims.
+
+Worker lane isolation kick 2026-09-29T18:08Z
+Run the quality-research queue now that the research worker has its own concurrency group.
