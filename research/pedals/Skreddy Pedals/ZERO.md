@@ -57,6 +57,5 @@ Sounds like a cranked up, distorted, high-gain amp, with an obscene amount of vo
 1. Big Muff variants | Fuzz | ZERO | Skreddy Pedals: https://skreddypedals.com/zero
 2. Skreddy Pedals Zero | Effects Database: https://www.effectsdatabase.com/model/skreddy/zero
 3. Skreddy Pedals | ZERO | Skreddy Pedals: https://www.skreddypedals.com/zero?manufacturer_id=2
-4. Facebook: https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fshare_channel%2F%3Ftype%3Dreshare%26link%3Dhttps%253A%252F%252Fskreddypedals.com%252Fzero%26app_id%3D966242223397117%26source_surface%3Dexternal_reshare%26display%26hashtag
 5. JavaScript is not available.: https://x.com/intent/tweet/?text=ZERO+-+https%3A%2F%2Fskreddypedals.com%2Fzero
 6. Pinterest: https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Fskreddypedals.com%2Fzero

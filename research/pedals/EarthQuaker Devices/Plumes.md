@@ -65,4 +65,3 @@ Gain: This controls the amount of drive.
 2. EarthQuaker Devices Plumes Overdrive Review & Guide: https://guitargangsters.net/rank679-earthquaker-devices-plumes/
 3. EarthQuaker Devices Plumes Review - Premier Guitar: https://www.premierguitar.com/gear/earthquaker-devices-plumes-review
 4. JavaScript is not available.: https://x.com/intent/tweet?url=https%3A%2F%2Fguitargangsters.net%2Frank679-earthquaker-devices-plumes%2F&
-5. Facebook: https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fshare_channel%2F%3Ftype%3Dreshare%26link%3Dhttps%253A%252F%252Fguitargangsters.net%252Frank679-earthquaker-devices-plumes%252F%26app_id%3D966242223397117%26source_surface%3Dexternal_reshare%26display%26hashtag

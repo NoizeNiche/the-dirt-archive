@@ -62,6 +62,5 @@ Thick and fuzzy but articulate, with an old school feel Modeled sonically on the
 ### Sources checked in this pass
 1. Big Muff variants | Fuzz | Ernie | Skreddy Pedals: https://skreddypedals.com/ernie
 2. Skreddy Pedals Ernie | Effects Database: https://www.effectsdatabase.com/model/skreddy/ernie
-3. Facebook: https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fshare_channel%2F%3Ftype%3Dreshare%26link%3Dhttps%253A%252F%252Fskreddypedals.com%252Fernie%26app_id%3D966242223397117%26source_surface%3Dexternal_reshare%26display%26hashtag
 4. JavaScript is not available.: https://x.com/intent/tweet/?text=Ernie+-+https%3A%2F%2Fskreddypedals.com%2Fernie
 5. Pinterest: https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Fskreddypedals.com%2Fernie

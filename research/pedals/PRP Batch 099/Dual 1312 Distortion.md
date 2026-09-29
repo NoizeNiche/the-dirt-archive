@@ -47,5 +47,4 @@ Accolades: 10/10 Rating from Guitar.com Editor's Choice from Guitar.com Favorite
 1. Dual 1312 Distortion - Black Mass Electronics: https://blackmasselectronics.com/collections/pedals/products/dual-1312-distortion
 2. Dual 1312 Distortion — Black Mass Electronics Distortion Pedal | PedalFilter | PedalFilter: https://pedalfilter.com/black-mass-electronics/dual-1312-distortion
 3. JavaScript is not available.: https://x.com/intent/tweet?text=Dual%201312%20Distortion&url=https://blackmasselectronics.com/products/dual-1312-distortion
-4. Facebook: https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fshare_channel%2F%3Ftype%3Dreshare%26link%3Dhttps%253A%252F%252Fblackmasselectronics.com%252Fproducts%252Fdual-1312-distortion%26app_id%3D966242223397117%26source_surface%3Dexternal_reshare%26display%26hashtag
 5. Pinterest: https://www.pinterest.com/pin/create/button/?url=https://blackmasselectronics.com/products/dual-1312-distortion&description=Dual%201312%20Distortion&media=https://blackmasselectronics.com/cdn/shop/files/black-mass-electronics-dual-1312-distortion-high-gloss-black-32795847131216_600x.jpg?v=1732757322

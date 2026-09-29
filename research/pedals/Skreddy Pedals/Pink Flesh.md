@@ -61,6 +61,5 @@ Published on August 19, 2007 Skreddy Pedals distortion pedal Information Skreddy
 ### Sources checked in this pass
 1. Fuzz | Pink Flesh | Skreddy Pedals: https://skreddypedals.com/pink-flesh
 2. Skreddy Pedals Pink Flesh | Effects Database: https://www.effectsdatabase.com/model/skreddy/pinkflesh
-3. Facebook: https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fshare_channel%2F%3Ftype%3Dreshare%26link%3Dhttps%253A%252F%252Fskreddypedals.com%252Fpink-flesh%26app_id%3D966242223397117%26source_surface%3Dexternal_reshare%26display%26hashtag
 4. JavaScript is not available.: https://x.com/intent/tweet/?text=Pink+Flesh+-+https%3A%2F%2Fskreddypedals.com%2Fpink-flesh
 5. Pinterest: https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Fskreddypedals.com%2Fpink-flesh

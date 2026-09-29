@@ -31,7 +31,6 @@ The Thrash switch converts the basic tone into a heavier, more mid-scooped tone 
 
 ## Sources checked
 1. Used Amptweaker Fat Metal — GUITARSOFA SHOP: https://www.guitarsofa.com/effects/amptweaker-fat-metal
-2. Facebook: https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fshare_channel%2F%3Ftype%3Dreshare%26link%3Dhttps%253A%252F%252Fwww.guitarsofa.com%252Feffects%252Famptweaker-fat-metal%26app_id%3D966242223397117%26source_surface%3Dexternal_reshare%26display%26hashtag
 3. JavaScript is not available.: https://x.com/intent/tweet?url=https%3A%2F%2Fwww.guitarsofa.com%2Feffects%2Famptweaker-fat-metal&text=This+used+FatMetal+Pro+is+designed+for+...
 
 ## Photo

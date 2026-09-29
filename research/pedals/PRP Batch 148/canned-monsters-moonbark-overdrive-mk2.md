@@ -41,6 +41,5 @@ Moonbark is constructed using two LM386 chips connected together to achieve high
 
 ### Sources checked in this pass
 1. Moonbark Overdrive MK2: https://cannedmonsters.com/products/Moonbark-Overdrive-MK2-p687243111
-2. Facebook: https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fshare_channel%2F%3Ftype%3Dreshare%26link%3Dhttps%253A%252F%252Fcannedmonsters.com%252Fproducts%252FMoonbark-Overdrive-MK2-p687243111%26app_id%3D966242223397117%26source_surface%3Dexternal_reshare%26display%26hashtag
 3. JavaScript is not available.: https://x.com/intent/tweet/?text=Moonbark+Overdrive+MK2&url=https%3A%2F%2Fcannedmonsters.com%2Fproducts%2FMoonbark-Overdrive-MK2-p687243111
 4. Pinterest: https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Fcannedmonsters.com%2Fproducts%2FMoonbark-Overdrive-MK2-p687243111&media=https%3A%2F%2Fd2j6dbq0eux0bg.cloudfront.net%2Fimages%2F104215928%2F4493304005.jpg&description=Moonbark+Overdrive+MK2

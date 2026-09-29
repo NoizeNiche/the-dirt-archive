@@ -36,6 +36,5 @@ The TS808 is a more open and brighter sound, switch to the TS9 Settings and serv
 
 ### Sources checked in this pass
 1. Caline CP-76 "Captain Silver" Overdrive – My Guitar Shop: https://myguitarshop.co.za/products/caline-cp-76-captain-silver-overdrive
-2. Facebook: https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fshare_channel%2F%3Ftype%3Dreshare%26link%3Dhttps%253A%252F%252Fmyguitarshop.co.za%252Fproducts%252Fcaline-cp-76-captain-silver-overdrive%26app_id%3D966242223397117%26source_surface%3Dexternal_reshare%26display%26hashtag
 3. Tweet on Twitter: https://twitter.com/share?text=Caline%20CP-76%20%22Captain%20Silver%22%20Overdrive&url=https://myguitarshop.co.za/products/caline-cp-76-captain-silver-overdrive
 4. Pinterest: https://www.pinterest.com/pin/create/button/?url=https://myguitarshop.co.za/products/caline-cp-76-captain-silver-overdrive&media=//myguitarshop.co.za/cdn/shop/products/Caline-CP-76-Captain-Silver-Overdrive_1_1024x1024.jpg?v=1606902668&description=Caline%20CP-76%20%22Captain%20Silver%22%20Overdrive

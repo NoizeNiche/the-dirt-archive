@@ -35,6 +35,5 @@ Boorocks's KUMI Distortion AK-1 is cataloged as a distortion pedal.
 
 ### Sources checked in this pass
 1. BOOROCKS／KUMI Distortion AK-1 - TOKYO EFFECTOR: https://tokyo-effector.jp/2013/09/29/boorocks%EF%BC%8Fkumi-distortion-ak-1/
-2. Facebook: https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fshare_channel%2F%3Ftype%3Dreshare%26link%3Dhttps%253A%252F%252Ftokyo-effector.jp%252F2013%252F09%252F29%252Fboorocks%25EF%25BC%258Fkumi-distortion-ak-1%252F%26app_id%3D966242223397117%26source_surface%3Dexternal_reshare%26display%26hashtag
 3. Pinterest: https://www.pinterest.com/pin/create/link/?url=https://tokyo-effector.jp/2013/09/29/boorocks%ef%bc%8fkumi-distortion-ak-1/&media=&description=BOOROCKS%EF%BC%8FKUMI+Distortion+AK-1
 4. 安達久美モデル ディストーション誕生！！ | 安達久美 club PANGAEA Fan - 楽天ブログ: https://plaza.rakuten.co.jp/sumiko030326/diary/201207060000/

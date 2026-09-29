@@ -61,4 +61,3 @@ GG-ARTICLE-AFTER-INTRO The Vemuram Myriad Fuzz refuses to pick.
 1. Vemuram Myriad Fuzz: Josh Smith's Hybrid Fuzz Beast: https://guitargangsters.net/rank808-vemuram-myriad-fuzz/
 2. Vemuram Myriad Fuzz | AllThePedals: https://allthepedals.com/pedals/vemuram-myriad-fuzz/
 3. JavaScript is not available.: https://x.com/intent/tweet?url=https%3A%2F%2Fguitargangsters.net%2Frank808-vemuram-myriad-fuzz%2F&
-4. Facebook: https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fshare_channel%2F%3Ftype%3Dreshare%26link%3Dhttps%253A%252F%252Fguitargangsters.net%252Frank808-vemuram-myriad-fuzz%252F%26app_id%3D966242223397117%26source_surface%3Dexternal_reshare%26display%26hashtag

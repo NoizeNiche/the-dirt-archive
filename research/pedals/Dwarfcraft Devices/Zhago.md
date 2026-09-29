@@ -56,4 +56,3 @@ How about a clean boost for breakfast?
 3. Dwarfcraft Devices Zhago Brand New - Gbase: https://www.gbase.com/gear/dwarfcraft-devices-zhago
 4. https://guitars.gbase.com/aza/user/gear/dwarfcraft-devices-zhago-1-OPS8Vxx.jpg?maxheight=1200&maxwidth=1200: https://guitars.gbase.com/aza/user/gear/dwarfcraft-devices-zhago-1-OPS8Vxx.jpg?maxheight=1200&maxwidth=1200
 5. Pinterest: https://www.pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.gbase.com%2Fgear%2Fdwarfcraft-devices-zhago&media=https%3A%2F%2Fguitars.gbase.com%2Faza%2Fuser%2Fgear%2Fdwarfcraft-devices-zhago-1-OPS8Vxx.jpg%3Fmaxheight%3D500%26maxwidth%3D500&description=Dwarfcraft%20Devices%20Zhago%20Brand%20New
-6. Facebook: https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fshare_channel%2F%3Ftype%3Dreshare%26link%3Dhttp%253A%252F%252Fwww.gbase.com%252Fgear%252Fdwarfcraft-devices-zhago%26app_id%3D966242223397117%26source_surface%3Dexternal_reshare%26display%26hashtag

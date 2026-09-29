@@ -48,6 +48,5 @@ Great sounding boutique guitar effects pedal The OD-Boost from Black Cat Pedals 
 
 ### Sources checked in this pass
 1. Black Cat OD-Boost | Make'n Music: https://www.makenmusic.com/products/black-cat-pedals-od-boost-fuzz-overdrive-clean-boost-guitar-effects
-2. Facebook: https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fshare_channel%2F%3Ftype%3Dreshare%26link%3Dhttps%253A%252F%252Fwww.makenmusic.com%252Fproducts%252Fblack-cat-pedals-od-boost-fuzz-overdrive-clean-boost-guitar-effects%26app_id%3D966242223397117%26source_surface%3Dexternal_reshare%26display%26hashtag
 3. Black Cat OD-Boost Review - Premier Guitar: https://www.premierguitar.com/gear/black-cat-od-boost-review
 4. Black Cat OD-Boost Pedal: https://www.buyanalogman.com/ProductDetails.php?ProductCode=BC-OD-Boost

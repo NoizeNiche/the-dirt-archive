@@ -56,6 +56,5 @@ The results are killer distortion tones, blissed-out fuzz , droning, synth effec
 ### Sources checked in this pass
 1. Evil Pumpkin - ANALOG MUSIC COMPANY: https://www.analogmusic.company/evil-pumpkin
 2. Analog Music Company The Evil Pumpkin Synth Fuzz - Pedal of the Day: https://www.pedal-of-the-day.com/2020/10/10/analog-music-company-the-evil-pumpkin-synth-fuzz/
-3. Facebook: https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fshare_channel%2F%3Ftype%3Dreshare%26link%3Dhttps%253A%252F%252Fwww.analogmusic.company%252Fnews-projects-highlights%252Fwe-shipped-all-the-evil-pumpkins%26app_id%3D966242223397117%26source_surface%3Dexternal_reshare%26display%26hashtag
 4. JavaScript is not available.: https://x.com/intent/tweet?source=https%3A%2F%2Fwww.analogmusic.company%2Fnews-projects-highlights%2Fwe-shipped-all-the-evil-pumpkins&text=We+shipped+all+the+Evil+Pumpkins:%20https%3A%2F%2Fwww.analogmusic.company%2Fnews-projects-highlights%2Fwe-shipped-all-the-evil-pumpkins
 5. Pinterest: https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.analogmusic.company%2Fnews-projects-highlights%2Fwe-shipped-all-the-evil-pumpkins&description=We+shipped+all+the+Evil+Pumpkins

@@ -37,5 +37,4 @@ I found when I was playing at lower fuzz volumes I liked more treble, but as I t
 ### Sources checked in this pass
 1. Kill Chain - Black Mass Electronics: https://blackmasselectronics.com/products/kill-chain
 2. JavaScript is not available.: https://x.com/intent/tweet?text=Kill%20Chain&url=https://blackmasselectronics.com/products/kill-chain
-3. Facebook: https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fshare_channel%2F%3Ftype%3Dreshare%26link%3Dhttps%253A%252F%252Fblackmasselectronics.com%252Fproducts%252Fkill-chain%26app_id%3D966242223397117%26source_surface%3Dexternal_reshare%26display%26hashtag
 4. Pinterest: https://www.pinterest.com/pin/create/button/?url=https://blackmasselectronics.com/products/kill-chain&description=Kill%20Chain&media=https://blackmasselectronics.com/cdn/shop/files/black-mass-electronics-kill-chain-1195962783_600x.jpg?v=1759502941

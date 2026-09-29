@@ -66,5 +66,4 @@ The RUMBLE control tailors the bass response of the circuit, from tight overdriv
 1. Rumblefuzz II - Spaceman Effects American Express Apple Pay Diners Club Discover Google Pay Mastercard PayPal Visa: https://spacemaneffects.com/products/rumblefuzz-ii
 2. Spaceman Rumblefuzz II | Effects Database: https://www.effectsdatabase.com/model/spaceman/rumblefuzz/2
 3. JavaScript is not available.: https://x.com/intent/tweet?text=Rumblefuzz%20II&url=https://spacemaneffects.com/products/rumblefuzz-ii
-4. Facebook: https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fshare_channel%2F%3Ftype%3Dreshare%26link%3Dhttps%253A%252F%252Fspacemaneffects.com%252Fproducts%252Frumblefuzz-ii%26app_id%3D966242223397117%26source_surface%3Dexternal_reshare%26display%26hashtag
 5. Pinterest: https://www.pinterest.com/pin/create/button/?url=https://spacemaneffects.com/products/rumblefuzz-ii&description=Rumblefuzz%20II&media=https://spacemaneffects.com/cdn/shop/files/Rumblefuzz-Black2_600x.jpg?v=1757034023

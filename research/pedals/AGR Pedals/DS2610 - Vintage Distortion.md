@@ -54,7 +54,6 @@ This responsiveness allows the player to shape saturation, texture, and clarity 
 
 ### Sources checked in this pass
 1. AGR Pedals DS2610 - Vintage Distortion | Effects Database: https://www.effectsdatabase.com/model/agrpedals/ds2610
-2. Verify Your Identity: https://www.bodegaaurrera.com.mx/blocked?url=L2lwL2N1ZXJkYXMvZC0xMS12aW50YWdlLWRpc3RvcnRpb24tZ3VpdGFyLWVmZmVjdC1wZWRhbC13aXRoLXZvbHVtZS1maWx0ZXItYW5kLWRpc3RvcnRpb24tY29udHJvbC1lbGVjdHJpYy1ndWl0YXItYWNjZXNzb3JpZXMvMDA3NzAxMDI1MzUxMDA=&uuid=6849e58c-bc31-11f1-a2aa-224307cb7186&vid=&g=b
 
 ## Deep research verification
 
@@ -79,4 +78,3 @@ This responsiveness allows the player to shape saturation, texture, and clarity 
 
 ### Sources checked in this pass
 1. AGR Pedals DS2610 - Vintage Distortion | Effects Database: https://www.effectsdatabase.com/model/agrpedals/ds2610
-2. Verify Your Identity: https://www.bodegaaurrera.com.mx/blocked?url=L2lwL2N1ZXJkYXMvZC0xMS12aW50YWdlLWRpc3RvcnRpb24tZ3VpdGFyLWVmZmVjdC1wZWRhbC13aXRoLXZvbHVtZS1maWx0ZXItYW5kLWRpc3RvcnRpb24tY29udHJvbC1lbGVjdHJpYy1ndWl0YXItYWNjZXNzb3JpZXMvMDA3NzAxMDI1MzUxMDA=&uuid=bba8771c-bc31-11f1-bb03-bddb59449b92&vid=&g=b

@@ -55,6 +55,5 @@ The clipping switch allows you to choose from smooth, bluesy breakup, open and f
 1. Freya Overdrive/Booster | Sitek Guitar Electronics: https://www.sitek.rocks/product/freya-overdrive-booster/
 2. Sitek Guitar Electronics Announces the Freya Overdrive/Booster - Bass Magazine: https://bassmagazine.com/sitek-guitar-electronics-announces-the-freya-overdrive-booster/
 3. Sitek Launches Freya Overdrive/Booster for Guitarists - Premier Guitar: https://www.premierguitar.com/sitek-guitar-electronics-introduces-the-freya-overdrive-booster
-4. Facebook: https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fshare_channel%2F%3Ftype%3Dreshare%26link%3Dhttps%253A%252F%252Fwww.sitek.rocks%252Fproduct%252Ffreya-overdrive-booster%252F%26app_id%3D966242223397117%26source_surface%3Dexternal_reshare%26display%26hashtag
 5. https://twitter.com/share?url=https://www.sitek.rocks/product/freya-overdrive-booster/&text=Freya%20Overdrive/Booster: https://twitter.com/share?url=https://www.sitek.rocks/product/freya-overdrive-booster/&text=Freya%20Overdrive/Booster
 6. Pinterest: https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.sitek.rocks%2Fproduct%2Ffreya-overdrive-booster%2F&description=Freya%20Overdrive/Booster&media=https%3A%2F%2Fwww.sitek.rocks%2Fwp-content%2Fuploads%2F2020%2F07%2FFreyaKatalog1.png

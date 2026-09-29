@@ -33,6 +33,5 @@ Agregando Fuzz RBmuff - TBmuff $105.000,00 $0,00 3 cuotas sin interés de $35.00
 
 ### Sources checked in this pass
 1. Fuzz Womut para Bajo Eléctrico - Sonido Distorsionado: https://pedalescajita.mitiendanube.com/productos/fuzz-womut-para-bajo/
-2. Facebook: https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fshare_channel%2F%3Ftype%3Dreshare%26link%3Dhttps%253A%252F%252Fpedalescajita.mitiendanube.com%252Fproductos%252Ffuzz-womut-para-bajo%252F%26app_id%3D966242223397117%26source_surface%3Dexternal_reshare%26display%26hashtag
 3. https://twitter.com/share?url=https://pedalescajita.mitiendanube.com/productos/fuzz-womut-para-bajo/: https://twitter.com/share?url=https://pedalescajita.mitiendanube.com/productos/fuzz-womut-para-bajo/
 4. Pinterest: https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Fpedalescajita.mitiendanube.com%2Fproductos%2Ffuzz-womut-para-bajo%2F&media=https%3A%2F%2Fdcdn-us.mitiendanube.com%2Fstores%2F006%2F279%2F558%2Fproducts%2Fwomut-2-316f26bd12976b374b17496807877643-480-0.webp&description=

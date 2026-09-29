@@ -62,4 +62,3 @@ With 6 different clipping voices, 5 bandwidth settings and 2 gain channels, you 
 2. EarthQuaker Palisades: The Biggest Tube Screamer Ever: https://guitargangsters.net/rank823-earthquaker-devices-palisades/
 3. EarthQuaker Devices Palisades Mega Ultimate Overdrive Guitar Effects Pedal | Guitar Center: https://www.guitarcenter.com/EarthQuaker-Devices/Palisades-Mega-Ultimate-Overdrive-Guitar-Effects-Pedal-1401720420180.gc
 4. JavaScript is not available.: https://x.com/intent/tweet?url=https%3A%2F%2Fguitargangsters.net%2Frank823-earthquaker-devices-palisades%2F&
-5. Facebook: https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fshare_channel%2F%3Ftype%3Dreshare%26link%3Dhttps%253A%252F%252Fguitargangsters.net%252Frank823-earthquaker-devices-palisades%252F%26app_id%3D966242223397117%26source_surface%3Dexternal_reshare%26display%26hashtag

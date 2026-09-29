@@ -42,5 +42,4 @@ Arcane Analog's BUZZSAW is cataloged as a fuzz pedal.
 ### Sources checked in this pass
 1. ARCANE ANALOG Buzzsaw (with Master Volume)【Buzzaround系ファズ】《エフェクター》 : ギタープラネット Yahoo!ショップ - 通販 - Yahoo!ショッピング: https://store.shopping.yahoo.co.jp/guitarplanet/arcane-analog-buzzsaw.html
 2. Yahoo! JAPAN ID登録 - Yahoo! JAPAN: https://account.edit.yahoo.co.jp/signup?.src=shp&.done=https://store.shopping.yahoo.co.jp/guitarplanet/arcane-analog-buzzsaw.html
-3. 文字認証を行います - Yahoo! JAPAN: https://login.yahoo.co.jp/ncaptcha?.src=shp&.done=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fguitarplanet%2Farcane-analog-buzzsaw.html
 4. https://buyee.jp/item/yahoo/shopping/guitarplanet_arcane-analog-buzzsaw?lang=chs&rc=yshop: https://buyee.jp/item/yahoo/shopping/guitarplanet_arcane-analog-buzzsaw?lang=chs&rc=yshop

@@ -45,7 +45,6 @@ All the way down, you have a full and present fuzz, but turn it up to add some o
 ### Sources checked in this pass
 1. The First Herald (Big Box) - Black Mass Electronics: https://blackmasselectronics.com/collections/fuzz/products/the-first-herald-big-box
 2. JavaScript is not available.: https://x.com/intent/tweet?text=The%20First%20Herald%20(Big%20Box)&url=https://blackmasselectronics.com/products/the-first-herald-big-box
-3. Facebook: https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fshare_channel%2F%3Ftype%3Dreshare%26link%3Dhttps%253A%252F%252Fblackmasselectronics.com%252Fproducts%252Fthe-first-herald-big-box%26app_id%3D966242223397117%26source_surface%3Dexternal_reshare%26display%26hashtag
 4. Pinterest: https://www.pinterest.com/pin/create/button/?url=https://blackmasselectronics.com/products/the-first-herald-big-box&description=The%20First%20Herald%20(Big%20Box)&media=https://blackmasselectronics.com/cdn/shop/files/black-mass-electronics-the-first-herald-big-box-1195587879_600x.jpg?v=1759265221
 5. BLACK MASS ELECTRONICS The First Herald (Big Box) Fuzz & Boost: https://www.ebay.com/itm/178486370647
 6. Black Mass Electronics The First Herald (Big Box) | Break The Machine: https://www.breakthemachine.co.uk/product/black-mass-electronics-the-first-herald-big-box/

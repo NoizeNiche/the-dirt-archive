@@ -53,7 +53,6 @@ Set Fuzz first, add Octave, then use Wear to soften it.
 ### Sources checked in this pass
 1. Guitar Pedal X - GPX Blog - Citadel Electronics' Vector Hybrid Octave Fuzz is a super shapeable killer sounding Fuzz of that genre: https://www.guitarpedalx.com/news/gpx-blog/citadel-electronics-vector-hybrid-octave-fuzz-is-a-super-shapeable-killer-sounding-fuzz-of-that-genre
 2. JavaScript is not available.: https://x.com/intent/tweet?text=https://www.guitarpedalx.com/news/gpx-blog/citadel-electronics-vector-hybrid-octave-fuzz-is-a-super-shapeable-killer-sounding-fuzz-of-that-genre&title=Citadel%20Electronics%27%20Vector%20Hybrid%20Octave%20Fuzz%20is%20a%20super%20shapeable%20killer%20sounding%20Fuzz%20of%20that%20genre
-3. Facebook: https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fshare_channel%2F%3Ftype%3Dreshare%26link%3Dhttps%253A%252F%252Fwww.guitarpedalx.com%252Fnews%252Fgpx-blog%252Fcitadel-electronics-vector-hybrid-octave-fuzz-is-a-super-shapeable-killer-sounding-fuzz-of-that-genre%26app_id%3D966242223397117%26source_surface%3Dexternal_reshare%26display%26hashtag
 4. Citadel Electronics Vector Octave Fuzz Pedal - Andertons Music Co: https://www.andertons.co.uk/citadel-electronics-vector-hybrid-octave-fuzz-/
 5. catalog/override source: https://www.effectsdatabase.com/model/citadel/vector
 6. Citadel Vector – Musikhaus Thomann: https://www.thomann.de/de/citadel_vector.htm?

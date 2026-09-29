@@ -54,9 +54,7 @@ He expressed to me that he was actually looking for a new distortion pedal for h
 
 ### Sources checked in this pass
 1. The Lineage of Odie (What happened to the Odelya Overdrive?) – Chellee Guitars LLC: https://chellee.com/2014/08/lineage-odie-happened-odelya-overdrive/
-2. Facebook: https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fshare_channel%2F%3Ftype%3Dreshare%26link%3Dhttps%253A%252F%252Fchellee.com%252F2014%252F08%252Flineage-odie-happened-odelya-overdrive%252F%26app_id%3D966242223397117%26source_surface%3Dexternal_reshare%26display%26hashtag
 3. Share on WhatsApp: https://api.whatsapp.com/send?text=https://chellee.com/2014/08/lineage-odie-happened-odelya-overdrive/
 4. Pinterest: https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Fchellee.com%2F2014%2F08%2Flineage-odie-happened-odelya-overdrive%2F&
-5. Register - Login: https://www.tumblr.com/login?redirect_to=%2Fwidgets%2Fshare%2Ftool%3FshareSource%3Dlegacy%26canonicalUrl%3D%26url%3Dhttps%253A%252F%252Fchellee.com%252F2014%252F08%252Flineage-odie-happened-odelya-overdrive%252F%26posttype%3Dlink%26title%3D%26caption%3D%26content%3Dhttps%253A%252F%252Fchellee.com%252F2014%252F08%252Flineage-odie-happened-odelya-overdrive%252F&source=login_register_required
 6. VK.com | VK: https://m.vk.com/share.php?url=https%3A%2F%2Fchellee.com%2F2014%2F08%2Flineage-odie-happened-odelya-overdrive%2F
 7. Share on Reddit: https://reddit.com/submit?url=https://chellee.com/2014/08/lineage-odie-happened-odelya-overdrive/&
