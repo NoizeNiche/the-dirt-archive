@@ -10,6 +10,7 @@ eligible for direct publication.
 from __future__ import annotations
 
 import csv
+import json
 from pathlib import Path
 
 MANUAL = Path("research/PHOTO_MANUAL_REVIEW.csv")
