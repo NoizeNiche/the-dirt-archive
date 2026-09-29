@@ -327,6 +327,77 @@ def replace_section_body(markdown: str, heading: str, body: str) -> str:
     return updated if count else markdown
 
 
+
+VISIBLE_SCRAPE_MARKERS = (
+    "javascript is disabled",
+    "enable javascript",
+    "add to cart",
+    "add to wishlist",
+    "view wishlist",
+    "gear card",
+    "gear catalog",
+    "report incorrect information",
+    "my pedalboards",
+    "add to my pedalboard",
+    "soundcloud",
+    "you may also like",
+    "related products",
+    "related items",
+    "shopping bag",
+    "checkout",
+    "quantity",
+    "cookie policy",
+    "privacy policy",
+    "american express",
+    "mastercard",
+    "paypal",
+    "shop pay",
+    "visa",
+    "©",
+    "published on",
+)
+
+
+def obvious_scrape_payload(text: str) -> bool:
+    visible = markdown_visible(text)
+    lower = visible.lower()
+    if any(marker in lower for marker in VISIBLE_SCRAPE_MARKERS):
+        return True
+    if re.search(r"\b\d{1,3}(?:,\d{3})+\s+views\b", lower):
+        return True
+    if sum(1 for marker in ("home", "blog", "categories", "authors", "about", "contact") if marker in lower) >= 3:
+        return True
+    if sum(1 for marker in ("facebook", "instagram", "tiktok", "twitter", "threads", "youtube", "pinterest") if marker in lower) >= 2:
+        return True
+    if sum(1 for marker in ("american express", "mastercard", "paypal", "shop pay", "visa", "discover", "diners club") if marker in lower) >= 2:
+        return True
+    return False
+
+
+def archive_catalog_identity(markdown: str) -> tuple[str, str, str]:
+    title_match = re.search(r"^#\s+.+?\s+—\s+(.+?)\s*$", markdown, re.M)
+    builder_match = re.search(r"^\s*-\s+\*\*Builder:\*\*\s+(.+?)\s*$", markdown, re.M)
+    type_match = re.search(r"^\s*-\s+\*\*Catalog type:\*\*\s+(.+?)\s*$", markdown, re.M)
+    pedal = title_match.group(1).strip() if title_match else ""
+    builder = builder_match.group(1).strip() if builder_match else ""
+    catalog_type = type_match.group(1).strip() if type_match else "effect"
+    return builder, pedal, catalog_type
+
+
+def sanitize_visible_sections(markdown: str) -> str:
+    builder, pedal, catalog_type = archive_catalog_identity(markdown)
+    updated = markdown
+    for heading in ("What this pedal is", "Sound"):
+        body = section_text(updated, heading)
+        if not body or not obvious_scrape_payload(body):
+            continue
+        if heading == "What this pedal is" and builder and pedal:
+            replacement = f"{builder}'s {pedal} is cataloged in the archive as a {catalog_type} pedal."
+        else:
+            replacement = "No verified pedal-specific sonic summary is currently established in the archive."
+        updated = replace_section_body(updated, heading, replacement)
+    return updated
+
 def promote_verified_prose(markdown: str) -> str:
     title_match = re.search(r"^#\s+.+?\s+—\s+(.+?)\s*$", markdown, re.M)
     pedal = title_match.group(1).strip() if title_match else ""
@@ -339,6 +410,7 @@ def promote_verified_prose(markdown: str) -> str:
         weak_visible_description(markdown)
         and pedal
         and strong_verified_description(verified_description, pedal)
+        and not obvious_scrape_payload(verified_description)
     ):
         updated = replace_section_body(
             updated,
@@ -349,10 +421,14 @@ def promote_verified_prose(markdown: str) -> str:
     verified_sound = candidate_lines(
         deep_verified_subsection(updated, "Verified sound evidence")
     )
-    if weak_visible_sound(updated) and strong_verified_sound(verified_sound):
+    if (
+        weak_visible_sound(updated)
+        and strong_verified_sound(verified_sound)
+        and not obvious_scrape_payload(verified_sound)
+    ):
         updated = replace_section_body(updated, "Sound", verified_sound)
 
-    return updated
+    return sanitize_visible_sections(updated)
 
 def clean_file(path: Path) -> bool:
     original = path.read_text(encoding="utf-8", errors="replace")
