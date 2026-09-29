@@ -16,6 +16,7 @@ from pathlib import Path
 MANUAL = Path("research/PHOTO_MANUAL_REVIEW.csv")
 DIRECT = Path("research/PHOTO_DIRECT_IMAGE_OVERRIDES.csv")
 INDEX = Path("research/PEDAL_INDEX.json")
+TRACKER = Path("research/PRP_TRACKER.csv")
 
 
 def key(row: dict) -> tuple[str, str]:
@@ -88,20 +89,32 @@ def main() -> None:
     except Exception as exc:
         errors.append(f"Could not parse catalog for manual-photo sync: {exc}")
 
+    pending_keys = set()
+    try:
+        with TRACKER.open(newline="", encoding="utf-8") as handle:
+            for row in csv.DictReader(handle):
+                if str(row.get("Picture") or "").strip().upper() != "DONE":
+                    pending_keys.add((str(row.get("Builder") or "").strip(),
+                                      str(row.get("Pedal") or "").strip()))
+    except Exception as exc:
+        errors.append(f"Could not parse tracker for manual-photo sync: {exc}")
+
     verified_keys = set(approved)
     for identity, row in catalog.items():
+        if identity not in pending_keys:
+            continue
         source_url = str(row.get("image_source_url") or "").strip()
         source_urls = [str(v or "").strip() for v in (row.get("image_source_urls") or []) if str(v or "").strip()]
         if source_url or source_urls:
             if identity not in verified_keys:
-                errors.append(f"Catalog exposes unreviewed direct photo URL: {identity}")
+                errors.append(f"Pending catalog record exposes unreviewed direct photo URL: {identity}")
             else:
                 approved_url = str(approved[identity].get("Image URL") or "").strip()
                 if source_url and source_url != approved_url:
-                    errors.append(f"Catalog direct image URL differs from visually verified URL: {identity}")
+                    errors.append(f"Pending catalog direct image URL differs from visually verified URL: {identity}")
                 bad_extras = [value for value in source_urls if value != approved_url]
                 if bad_extras:
-                    errors.append(f"Catalog retains unreviewed direct image fallback URLs: {identity}")
+                    errors.append(f"Pending catalog retains unreviewed direct image fallback URLs: {identity}")
 
     if errors:
         print("Photo manual-review synchronization FAILED:")
