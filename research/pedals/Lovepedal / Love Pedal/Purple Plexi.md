@@ -7,30 +7,27 @@
 - **Identity:** Lovepedal / Love Pedal's Purple Plexi.
 
 ## What this pedal is
-Lovepedal / Love Pedal's Purple Plexi is cataloged as an overdrive pedal.
-
-## Colorways
-- No specific factory colorway information was established in the verified evidence packet.
+Purple Plexi is a British-style overdrive designed around Plexi/Marshall-type breakup.
 
 ## Versions and factory options
-- No distinct factory revision was established in the verified evidence packet.
+- **Drive** and **Tone** controls are documented on the two-knob format.
+- Old School Build is a documented parts/layout variant.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- The Old School Build changed layout and components and widened the Drive response.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
-- **Exact transistor/device:** Unknown.
+- Exact production semiconductor details were not established.
 
 ## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
-- **Exact part:** Unknown.
+- Exact clipping-device information was not established.
 
 ## Sound
-TCHULA 200lbs PURPLE PLEXI ETERNITY BURST HERMIDA ZENDRIVE DOVER DRIVE AMP ELEVEN RUBBER CHICKEN HERMIDA EPH3 © All rights reserved 2026 LOVEPEDAL L.L.C.
+Medium-gain British overdrive that can be pushed into thicker Marshall-style distortion.
 
 ## Sources checked
-1. Love Pedal: https://www.lovepedal.com/
+1. Lovepedal - Purple Plexi: https://www.lovepedal.com/purple-plexi/
+2. Lovepedal - History: https://www.lovepedal.com/history/
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.
