@@ -56,6 +56,6 @@ As per standard onboard function, the delay and reverb effect sections of Sideki
 
 ### Sources checked in this pass
 1. Amazon.com: Crazy Tube Circuits Sidekick Jr. Multi-Effects Pedal : Musical Instruments: https://www.amazon.com/Crazy-Tube-Circuits-Sidekick-Multi-Effects/dp/B0FM8SXRVJ
-2. Sidekick-Jr &mdash; Crazy Tube Circuits: https://crazytubecircuits.com/sidekick-jr
+2. Sidekick-Jr — Crazy Tube Circuits: https://crazytubecircuits.com/sidekick-jr
 3. Crazy Tube Circuits Sidekick Jr modulation, delay and reverb pedal review | MusicRadar: https://www.musicradar.com/reviews/crazy-tube-circuits-sidekick-jr-modulation-delay-and-reverb-pedal-review
 4. Test de la pédale Crazy Tube Circuits Sidekick JR - Audiofanzine: https://fr.audiofanzine.com/multieffet-guitare-electrique/crazy-tube-circuits/sidekick-jr/editorial/tests/test-de-la-pedale-crazy-tube-circuits-sidekick-jr.html

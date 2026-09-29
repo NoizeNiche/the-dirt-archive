@@ -71,7 +71,27 @@ The Aul design belongs to the early Fuzzrite sound family, with a direct two-tra
 
 ## Deep research verification
 
-Effects Database, Fuzzboxes and the historical Guild Foxey Lady record were cross-checked. The evidence supports Aul Instruments as an early Mike Matthews production source, establishes the close Fuzzrite lineage and preserves the greenish-grey wrinkle-finish/silicon-transistor context. The archive avoids assigning exact transistor part numbers where the surviving evidence does not identify them. [1][2][3]
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+v1: Mosrite version The first version of the Guild Foxey Lady was built by Mosrite in 1968, using the same silicon transistor circuit as the Mosrite Fuzzrite designed by Ed Sanner.
+
+### Verified version references
+- The evidence references: v1, v2, v3, v4, v5.
+
+### Verified transistor/device terms
+- silicon transistor.
+
+### Verified sound evidence
+Each version reflected a different stage in Guild's OEM partnerships, beginning with a rebranded Mosrite Fuzzrite and later evolving through Electro-Harmonix designs that paralleled the Axis Fuzz and early Big Muff circuits.
+When fuzz pedals became commercially successful, Dronge commissioned Moseley to produce a Guild branded version of the Fuzzrite.
+
+### Sources checked in this pass
+1. Guild Foxey Lady - Distortion & Sustain Unit | Effects Database: https://www.effectsdatabase.com/model/guild/foxeylady
+
+## What this pedal is
+
+v1: Mosrite version The first version of the Guild Foxey Lady was built by Mosrite in 1968, using the same silicon transistor circuit as the Mosrite Fuzzrite designed by Ed Sanner.
 
 ## Sources checked
 
@@ -83,43 +103,3 @@ Effects Database, Fuzzboxes and the historical Guild Foxey Lady record were cros
 
 - **Archive status:** **No Photo Archived**
 - **Exact-model reference checked:** Aul Instruments / historical Fuzzrite sources.
-
-## Deep research verification
-
-This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
-
-### Verified description
-v1: Mosrite version The first version of the Guild Foxey Lady was built by Mosrite in 1968, using the same silicon transistor circuit as the Mosrite Fuzzrite designed by Ed Sanner.
-
-### Verified version references
-- The evidence references: v1, v2, v3, v4, v5.
-
-### Verified transistor/device terms
-- silicon transistor.
-
-### Verified sound evidence
-Each version reflected a different stage in Guild's OEM partnerships, beginning with a rebranded Mosrite Fuzzrite and later evolving through Electro-Harmonix designs that paralleled the Axis Fuzz and early Big Muff circuits.
-When fuzz pedals became commercially successful, Dronge commissioned Moseley to produce a Guild branded version of the Fuzzrite.
-
-### Sources checked in this pass
-1. Guild Foxey Lady - Distortion & Sustain Unit | Effects Database: https://www.effectsdatabase.com/model/guild/foxeylady
-
-## Deep research verification
-
-This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
-
-### Verified description
-v1: Mosrite version The first version of the Guild Foxey Lady was built by Mosrite in 1968, using the same silicon transistor circuit as the Mosrite Fuzzrite designed by Ed Sanner.
-
-### Verified version references
-- The evidence references: v1, v2, v3, v4, v5.
-
-### Verified transistor/device terms
-- silicon transistor.
-
-### Verified sound evidence
-Each version reflected a different stage in Guild's OEM partnerships, beginning with a rebranded Mosrite Fuzzrite and later evolving through Electro-Harmonix designs that paralleled the Axis Fuzz and early Big Muff circuits.
-When fuzz pedals became commercially successful, Dronge commissioned Moseley to produce a Guild branded version of the Fuzzrite.
-
-### Sources checked in this pass
-1. Guild Foxey Lady - Distortion & Sustain Unit | Effects Database: https://www.effectsdatabase.com/model/guild/foxeylady

@@ -9,7 +9,7 @@
 
 ## What this pedal is
 
-James LoMenzo Hyper Drive Published on March 17, 2008 Ashdown Engineering distortion pedal Musikmesse Frankfurt 2008 Information Ashdown A unique bass distortion pedal developed in conjunction with James LoMenzo.
+Ashdown Engineering's James LoMenzo Hyper Drive is cataloged in the archive as a Distortion pedal.
 
 ## Colorways
 

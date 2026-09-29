@@ -9,7 +9,7 @@
 
 ## What this pedal is
 
-Soda Might Published on January 15, 2012 Devi Ever FX fuzz pedal Information Devi Ever FX The Soda Might (formerly known as the 33 or Silver Crank) is a classic muff like fuzz with a distinctive short decay.
+Devi Ever FX's Soda Might is cataloged in the archive as a Fuzz pedal.
 
 ## Colorways
 

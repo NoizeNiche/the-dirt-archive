@@ -43,7 +43,30 @@ Godly Red ranges from lower-gain overdrive into thicker distortion/fuzz-like sat
 
 ## Deep research verification
 
-The Center Street overview and Sound House Japan product listing were cross-checked. Both support the Red Llama-derived identity, simple three-function control system and broad overdrive-to-fuzz operating range. [1][2]
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+They have three pedals (videos will be below :D), Rasputin Fuzz – $149.99 – 1 volume knob, 1 fuzz knob and two dark/bright switches The Murphy – $149.99 – 1 drive knob, 1 tone knob, 1 level knob Godly Red – $149.99 – 1 gain knob, 1 volume knob, 1 god switch C.S.E is rolling out two new pedals.
+
+### Verified color/finish evidence
+- They started with a clone of the Way Huge Red Llama (excellent choice) and the TS808.
+- These clones developed into the Godly Red and The Murphy and so it began!
+- They have three pedals (videos will be below :D), Rasputin Fuzz – $149.99 – 1 volume knob, 1 fuzz knob and two dark/bright switches The Murphy – $149.99 – 1 drive knob, 1 tone knob, 1 level knob Godly Red – $149.99 – 1 gain knob, 1 volume knob, 1 god switch C.S.E is rolling out two new pedals.
+
+### Verified version references
+- The evidence references: Mk II.
+
+### Verified sound evidence
+They have three pedals (videos will be below :D), Rasputin Fuzz – $149.99 – 1 volume knob, 1 fuzz knob and two dark/bright switches The Murphy – $149.99 – 1 drive knob, 1 tone knob, 1 level knob Godly Red – $149.99 – 1 gain knob, 1 volume knob, 1 god switch C.S.E is rolling out two new pedals.
+A simple, one knob fuzz in the Druid Fuzz for $99.99, and a reverb pedal based around the Box of Hall reverb circuit for $149.99.
+In addition to the Volume, Tone, and Drive controls, you get a 100Hz EQ knob to cut or boost your low end by 12dB.
+
+### Sources checked in this pass
+1. NVGgear | New and Vintage Guitar Gear!: https://nvggear.wordpress.com/
+
+## What this pedal is
+
+They have three pedals (videos will be below :D), Rasputin Fuzz – $149.99 – 1 volume knob, 1 fuzz knob and two dark/bright switches The Murphy – $149.99 – 1 drive knob, 1 tone knob, 1 level knob Godly Red – $149.99 – 1 gain knob, 1 volume knob, 1 god switch C.S.E is rolling out two new pedals.
 
 ## Sources checked
 
@@ -53,118 +76,3 @@ The Center Street overview and Sound House Japan product listing were cross-chec
 ## Photo
 
 - Exact-model photo status remains handled separately.
-
-## Deep research verification
-
-This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
-
-### Verified description
-They have three pedals (videos will be below :D), Rasputin Fuzz – $149.99 – 1 volume knob, 1 fuzz knob and two dark/bright switches The Murphy – $149.99 – 1 drive knob, 1 tone knob, 1 level knob Godly Red – $149.99 – 1 gain knob, 1 volume knob, 1 god switch C.S.E is rolling out two new pedals.
-
-### Verified color/finish evidence
-- They started with a clone of the Way Huge Red Llama (excellent choice) and the TS808.
-- These clones developed into the Godly Red and The Murphy and so it began!
-- They have three pedals (videos will be below :D), Rasputin Fuzz – $149.99 – 1 volume knob, 1 fuzz knob and two dark/bright switches The Murphy – $149.99 – 1 drive knob, 1 tone knob, 1 level knob Godly Red – $149.99 – 1 gain knob, 1 volume knob, 1 god switch C.S.E is rolling out two new pedals.
-
-### Verified version references
-- The evidence references: Mk II.
-
-### Verified sound evidence
-They have three pedals (videos will be below :D), Rasputin Fuzz – $149.99 – 1 volume knob, 1 fuzz knob and two dark/bright switches The Murphy – $149.99 – 1 drive knob, 1 tone knob, 1 level knob Godly Red – $149.99 – 1 gain knob, 1 volume knob, 1 god switch C.S.E is rolling out two new pedals.
-A simple, one knob fuzz in the Druid Fuzz for $99.99, and a reverb pedal based around the Box of Hall reverb circuit for $149.99.
-In addition to the Volume, Tone, and Drive controls, you get a 100Hz EQ knob to cut or boost your low end by 12dB.
-
-### Sources checked in this pass
-1. NVGgear | New and Vintage Guitar Gear!: https://nvggear.wordpress.com/
-
-## Deep research verification
-
-This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
-
-### Verified description
-They have three pedals (videos will be below :D), Rasputin Fuzz – $149.99 – 1 volume knob, 1 fuzz knob and two dark/bright switches The Murphy – $149.99 – 1 drive knob, 1 tone knob, 1 level knob Godly Red – $149.99 – 1 gain knob, 1 volume knob, 1 god switch C.S.E is rolling out two new pedals.
-
-### Verified color/finish evidence
-- They started with a clone of the Way Huge Red Llama (excellent choice) and the TS808.
-- These clones developed into the Godly Red and The Murphy and so it began!
-- They have three pedals (videos will be below :D), Rasputin Fuzz – $149.99 – 1 volume knob, 1 fuzz knob and two dark/bright switches The Murphy – $149.99 – 1 drive knob, 1 tone knob, 1 level knob Godly Red – $149.99 – 1 gain knob, 1 volume knob, 1 god switch C.S.E is rolling out two new pedals.
-
-### Verified version references
-- The evidence references: Mk II.
-
-### Verified sound evidence
-They have three pedals (videos will be below :D), Rasputin Fuzz – $149.99 – 1 volume knob, 1 fuzz knob and two dark/bright switches The Murphy – $149.99 – 1 drive knob, 1 tone knob, 1 level knob Godly Red – $149.99 – 1 gain knob, 1 volume knob, 1 god switch C.S.E is rolling out two new pedals.
-A simple, one knob fuzz in the Druid Fuzz for $99.99, and a reverb pedal based around the Box of Hall reverb circuit for $149.99.
-In addition to the Volume, Tone, and Drive controls, you get a 100Hz EQ knob to cut or boost your low end by 12dB.
-
-### Sources checked in this pass
-1. NVGgear | New and Vintage Guitar Gear!: https://nvggear.wordpress.com/
-
-## Deep research verification
-
-This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
-
-### Verified description
-They have three pedals (videos will be below :D), Rasputin Fuzz – $149.99 – 1 volume knob, 1 fuzz knob and two dark/bright switches The Murphy – $149.99 – 1 drive knob, 1 tone knob, 1 level knob Godly Red – $149.99 – 1 gain knob, 1 volume knob, 1 god switch C.S.E is rolling out two new pedals.
-
-### Verified color/finish evidence
-- They started with a clone of the Way Huge Red Llama (excellent choice) and the TS808.
-- These clones developed into the Godly Red and The Murphy and so it began!
-- They have three pedals (videos will be below :D), Rasputin Fuzz – $149.99 – 1 volume knob, 1 fuzz knob and two dark/bright switches The Murphy – $149.99 – 1 drive knob, 1 tone knob, 1 level knob Godly Red – $149.99 – 1 gain knob, 1 volume knob, 1 god switch C.S.E is rolling out two new pedals.
-
-### Verified version references
-- The evidence references: Mk II.
-
-### Verified sound evidence
-They have three pedals (videos will be below :D), Rasputin Fuzz – $149.99 – 1 volume knob, 1 fuzz knob and two dark/bright switches The Murphy – $149.99 – 1 drive knob, 1 tone knob, 1 level knob Godly Red – $149.99 – 1 gain knob, 1 volume knob, 1 god switch C.S.E is rolling out two new pedals.
-A simple, one knob fuzz in the Druid Fuzz for $99.99, and a reverb pedal based around the Box of Hall reverb circuit for $149.99.
-In addition to the Volume, Tone, and Drive controls, you get a 100Hz EQ knob to cut or boost your low end by 12dB.
-
-### Sources checked in this pass
-1. NVGgear | New and Vintage Guitar Gear!: https://nvggear.wordpress.com/
-
-## Deep research verification
-
-This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
-
-### Verified description
-They have three pedals (videos will be below :D), Rasputin Fuzz – $149.99 – 1 volume knob, 1 fuzz knob and two dark/bright switches The Murphy – $149.99 – 1 drive knob, 1 tone knob, 1 level knob Godly Red – $149.99 – 1 gain knob, 1 volume knob, 1 god switch C.S.E is rolling out two new pedals.
-
-### Verified color/finish evidence
-- They started with a clone of the Way Huge Red Llama (excellent choice) and the TS808.
-- These clones developed into the Godly Red and The Murphy and so it began!
-- They have three pedals (videos will be below :D), Rasputin Fuzz – $149.99 – 1 volume knob, 1 fuzz knob and two dark/bright switches The Murphy – $149.99 – 1 drive knob, 1 tone knob, 1 level knob Godly Red – $149.99 – 1 gain knob, 1 volume knob, 1 god switch C.S.E is rolling out two new pedals.
-
-### Verified version references
-- The evidence references: Mk II.
-
-### Verified sound evidence
-They have three pedals (videos will be below :D), Rasputin Fuzz – $149.99 – 1 volume knob, 1 fuzz knob and two dark/bright switches The Murphy – $149.99 – 1 drive knob, 1 tone knob, 1 level knob Godly Red – $149.99 – 1 gain knob, 1 volume knob, 1 god switch C.S.E is rolling out two new pedals.
-A simple, one knob fuzz in the Druid Fuzz for $99.99, and a reverb pedal based around the Box of Hall reverb circuit for $149.99.
-In addition to the Volume, Tone, and Drive controls, you get a 100Hz EQ knob to cut or boost your low end by 12dB.
-
-### Sources checked in this pass
-1. NVGgear | New and Vintage Guitar Gear!: https://nvggear.wordpress.com/
-
-## Deep research verification
-
-This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
-
-### Verified description
-They have three pedals (videos will be below :D), Rasputin Fuzz – $149.99 – 1 volume knob, 1 fuzz knob and two dark/bright switches The Murphy – $149.99 – 1 drive knob, 1 tone knob, 1 level knob Godly Red – $149.99 – 1 gain knob, 1 volume knob, 1 god switch C.S.E is rolling out two new pedals.
-
-### Verified color/finish evidence
-- They started with a clone of the Way Huge Red Llama (excellent choice) and the TS808.
-- These clones developed into the Godly Red and The Murphy and so it began!
-- They have three pedals (videos will be below :D), Rasputin Fuzz – $149.99 – 1 volume knob, 1 fuzz knob and two dark/bright switches The Murphy – $149.99 – 1 drive knob, 1 tone knob, 1 level knob Godly Red – $149.99 – 1 gain knob, 1 volume knob, 1 god switch C.S.E is rolling out two new pedals.
-
-### Verified version references
-- The evidence references: Mk II.
-
-### Verified sound evidence
-They have three pedals (videos will be below :D), Rasputin Fuzz – $149.99 – 1 volume knob, 1 fuzz knob and two dark/bright switches The Murphy – $149.99 – 1 drive knob, 1 tone knob, 1 level knob Godly Red – $149.99 – 1 gain knob, 1 volume knob, 1 god switch C.S.E is rolling out two new pedals.
-A simple, one knob fuzz in the Druid Fuzz for $99.99, and a reverb pedal based around the Box of Hall reverb circuit for $149.99.
-In addition to the Volume, Tone, and Drive controls, you get a 100Hz EQ knob to cut or boost your low end by 12dB.
-
-### Sources checked in this pass
-1. NVGgear | New and Vintage Guitar Gear!: https://nvggear.wordpress.com/

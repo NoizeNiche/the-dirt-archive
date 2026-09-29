@@ -9,7 +9,7 @@
 
 ## What this pedal is
 
-DeuceTone Rat Distortion Guitar Effects Pedal ProCo Effects ProCo DeuceTone Rat Distortion Guitar Effects Pedal Default Title - $299.99 USD $299.99 Quantity Add to Cart Description This is the ultimate Swiss army knife for the analog guitarist.
+This is the ultimate Swiss army knife for the analog guitarist.
 
 ## Colorways
 
@@ -55,10 +55,10 @@ The Clean RAT is a clean boost, a tone only available in the Deucetone RAT.
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
 
 ### Verified description
-DeuceTone Rat Distortion Guitar Effects Pedal ProCo Effects ProCo DeuceTone Rat Distortion Guitar Effects Pedal Default Title - $299.99 USD $299.99 Quantity Add to Cart Description This is the ultimate Swiss army knife for the analog guitarist.
+This is the ultimate Swiss army knife for the analog guitarist.
 
 ### Verified sound evidence
-DeuceTone Rat Distortion Guitar Effects Pedal ProCo Effects ProCo DeuceTone Rat Distortion Guitar Effects Pedal Default Title - $299.99 USD $299.99 Quantity Add to Cart Description This is the ultimate Swiss army knife for the analog guitarist.
+This is the ultimate Swiss army knife for the analog guitarist.
 Consisting of two independent RAT units, each Deucetone channel can be used separately, in stereo, or cascaded together for the most insane distortion on earth.
 The Clean RAT is a clean boost, a tone only available in the Deucetone RAT.
 

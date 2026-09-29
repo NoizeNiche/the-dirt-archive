@@ -52,26 +52,6 @@ Moonbow is listed as a Land Devices overdrive with resonant-filter behavior.
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
 
 ### Verified description
-Moonbow is listed as a Land Devices overdrive with resonant-filter behavior.
-
-### Verified color/finish evidence
-- No specific factory colorway information was established in the verified evidence packet.
-
-### Verified version references
-- The evidence references: revision.
-
-### Verified sound evidence
-Moonbow is listed as a Land Devices overdrive with resonant-filter behavior.
-**Archive parent:** Moonbow - **Builder:** Land Devices - **Catalog type:** Overdrive - **Identity:** Land Devices's Moonbow.
-
-### Sources checked in this pass
-1. Moonbow – Resonant Filter Overdrive – Land Devices: https://landdevices.com/products/moonbow
-
-## Deep research verification
-
-This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
-
-### Verified description
 MG ID: 55022 Filtered Overdrive Moonbow is an adaptation of a classic voltage-controlled dual-mode filter paired with a hot-rodded version of the channel strip from our Mixer.
 
 ### Verified version references
