@@ -182,6 +182,16 @@ def main():
     }
 
     identity_quarantine = load_identity_quarantine()
+    manual_review = set()
+    try:
+        with (Path("research/PHOTO_MANUAL_REVIEW.csv")).open(newline="", encoding="utf-8") as handle:
+            manual_review = {
+                key(row.get("Builder"), row.get("Pedal"))
+                for row in csv.DictReader(handle)
+                if str(row.get("Status") or "").strip().upper() == "VERIFIED_PRIMARY"
+            }
+    except Exception:
+        pass
     hash_quarantine = load_hash_quarantine()
     reset = 0
     removed = []
@@ -213,7 +223,7 @@ def main():
         source_values.extend(str(value or "") for value in (entry.get("image_source_pages") or []))
         if not reasons:
             reasons.extend(identity_quarantine_reasons(target_key, source_values, identity_quarantine))
-        if not reasons and target_key in hash_quarantine and tracker.get("Picture") == "DONE":
+        if not reasons and target_key in hash_quarantine and target_key not in manual_review and tracker.get("Picture") == "DONE":
             reasons.append("byte-identical photo quarantine")
         if not reasons:
             blocked = blocked_photo_values(source_values)
