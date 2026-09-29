@@ -7,35 +7,34 @@
 - **Identity:** TONECAT's Lola Drive.
 
 ## What this pedal is
-Default Title Error Quantity must be 1 or more Add to cart Adding product to your cart Lola Drive is a British-Marshall-style amp-in-a-box overdrive pedal delivering the unmistakable crunch, sustain and attitude of classic Marshall JCM800 high gain valve tones.
+The Lola Drive is a British-style amp-in-a-box overdrive designed around the character of a pushed Marshall JCM800-style amplifier.
 
 ## Colorways
-- Designed for players chasing classic rock, hard rock and blues-rock tones, Lola provides the raw energy, dynamic response and natural compression associated with iconic British stacks.
+- No complete factory colorway chronology was established in the checked sources.
 
 ## Versions and factory options
-- No distinct factory revision was established in the verified evidence packet.
+- Amp-in-a-box design.
+- High-gain British-style voicing.
+- The checked product material does not establish a numbered hardware revision.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- No complete dated production revision chronology was established.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
+- Exact production transistor/device information was not established in the checked sources.
 - **Exact transistor/device:** Unknown.
 
 ## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- Exact clipping/rectifier diode information was not established in the checked sources.
 - **Exact part:** Unknown.
 
 ## Sound
-Default Title Error Quantity must be 1 or more Add to cart Adding product to your cart Lola Drive is a British-Marshall-style amp-in-a-box overdrive pedal delivering the unmistakable crunch, sustain and attitude of classic Marshall JCM800 high gain valve tones.
-From vintage rock rhythm sounds to roaring high-gain leads, Lola brings iconic British tube amp character to any rig.
-The roar of a pushed British valve amplifier — crunchy chords, aggressive mids, singing sustain and harmonically rich distortion — has shaped generations of rock music.
+Lola Drive emphasizes British-stack crunch, aggressive mids, sustain, and high-gain distortion. The checked product sources specifically position it as a JCM800-style drive.
 
 ## Sources checked
-1. Lola Drive JCM800 Style Overdrive Cat Themed Pedal – British Crunch Distortion &mdash; TONECAT: https://www.tonecat.life/shop/p/lola-drive-marshall-in-a-box
-2. TONECAT Lola Drive Pedal &ndash; DeathCloud: https://deathcloud.com/products/tonecat-lola-drive
-3. TONECAT Tone Demo: Lola Drive - Marshall in a box based on JCM800 ...: https://www.youtube.com/watch?v=ECJZKvgZI2o
-4. TONECAT Lola Drive JCM800 style drive: https://www.upweymusic.au/products/tonecat-lola-drive-jcm800-style-drive
+1. TONECAT - Lola Drive: https://www.tonecat.life/shop/p/lola-drive-marshall-in-a-box
+2. DeathCloud - TONECAT Lola Drive: https://deathcloud.com/products/tonecat-lola-drive
+3. TONECAT demo: https://www.youtube.com/watch?v=ECJZKvgZI2o
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.
