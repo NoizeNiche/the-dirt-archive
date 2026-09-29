@@ -48,7 +48,7 @@ Sitek Guitar Electronics's Cocoa Distortion is cataloged as a distortion pedal.
 ### Verified version references
 - The evidence references: v4.
 
-### Verified transistor/device terms
+### Verified amp references
 - AC15.
 
 ### Verified sound evidence
