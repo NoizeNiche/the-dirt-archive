@@ -161,6 +161,14 @@ def main():
         for row in manual_review
         if str(row.get("Status") or "").strip().upper() == "VERIFIED_PRIMARY"
     }
+    # A curated direct-image override explicitly marked PHOTO REVIEW: PRIMARY
+    # is equivalent manual evidence for collision/quarantine purposes.
+    for row in direct_overrides:
+        if "photo review: primary" in str(row.get("Notes") or "").lower():
+            builder = str(row.get("Builder") or "").strip()
+            pedal = str(row.get("Pedal") or "").strip()
+            if builder and pedal:
+                manual_verified_keys.add((builder, pedal))
     identity_quarantine = load_identity_quarantine()
     hash_quarantine = load_hash_quarantine()
 
