@@ -13,10 +13,31 @@ ROOT = Path(".")
 ARTIFACTS = ROOT / "recovery-artifacts"
 PHOTO_SOURCE_BLOCKLIST = ROOT / "research/PHOTO_SOURCE_BLOCKLIST.json"
 INDEX = ROOT / "research/PEDAL_INDEX.json"
+MANUAL_REVIEW = ROOT / "research/PHOTO_MANUAL_REVIEW.csv"
 ASSET_ROOT = ROOT / "assets/pedals"
 
 def http(v):
     return str(v or "").startswith(("http://", "https://"))
+
+def load_manual_verified():
+    approved = {}
+    try:
+        with MANUAL_REVIEW.open(newline="", encoding="utf-8") as handle:
+            for row in csv.DictReader(handle):
+                if str(row.get("Status") or "").strip().upper() != "VERIFIED_PRIMARY":
+                    continue
+                identity = (
+                    str(row.get("Builder") or "").strip(),
+                    str(row.get("Pedal") or "").strip(),
+                )
+                image_url = str(row.get("Image URL") or "").strip()
+                source_page = str(row.get("Source Page") or "").strip()
+                if identity[0] and identity[1] and image_url:
+                    approved[identity] = (image_url, source_page)
+    except Exception:
+        pass
+    return approved
+
 
 def load_blocked_url(value):
     raw = str(value or "").strip().lower()
@@ -55,6 +76,7 @@ def local_image_hashes():
     return hashes
 
 def main():
+    manual_verified = load_manual_verified()
     verdicts = []
     existing_hashes = local_image_hashes()
     if not ARTIFACTS.exists():
@@ -79,6 +101,23 @@ def main():
                 ok = bool(result.get("builder")) and bool(result.get("pedal")) and http(result.get("image_source_url")) and http(result.get("image_source_page"))
                 ok = ok and v.get("identityVerified") is True
                 ok = ok and method in {"direct_exact","exact_source_page","verified_image_search","verified_source_page"}
+
+                identity = (
+                    str(result.get("builder") or "").strip(),
+                    str(result.get("pedal") or "").strip(),
+                )
+                approved = manual_verified.get(identity)
+                if approved:
+                    approved_url, approved_page = approved
+                    if str(result.get("image_source_url") or "").strip() != approved_url:
+                        ok = False
+                        reason = "recovered image URL is not the manually verified primary image"
+                    elif approved_page and str(result.get("image_source_page") or "").strip() != approved_page:
+                        ok = False
+                        reason = "recovered source page does not match the manually verified primary source"
+                else:
+                    ok = False
+                    reason = "pending recovery has no manually verified primary photo"
                 if method == "verified_image_search":
                     ok = ok and v.get("strongSearchIdentity") is True and float(v.get("sourceScore") or 0) >= 120
                 image_file = str(result.get("imageFile") or "").lstrip("./")
