@@ -3,40 +3,39 @@
 ## PRP identity
 - **Archive parent:** Monterey Rotary Fuzz Vibe
 - **Builder:** Keeley Electronics
-- **Catalog type:** Fuzz
+- **Catalog type:** Fuzz / Modulation
 - **Identity:** Keeley Electronics's Monterey Rotary Fuzz Vibe.
 
 ## What this pedal is
-There are two channels on the Monterey Rotary Fuzz Vibe, and these can be configured to give you five different sounds.
+The Monterey combines fuzz with rotary-style modulation and multiple operating modes. Keeley designed the two-channel platform to cover five main effect combinations.
 
 ## Colorways
-- No specific factory colorway information was established in the verified evidence packet.
+- Custom Shop editions and standard artwork are documented.
+- No complete factory colorway chronology was established.
 
 ## Versions and factory options
-- No distinct factory revision was established in the verified evidence packet.
+- Two main channels.
+- Five documented sound combinations across the fuzz and rotary/vibe sections.
+- Rotary/vibe modulation section.
+- Fuzz section with multiple tonal settings.
+- No complete numbered hardware revision history was established.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- Custom Shop presentation is treated as a finish/product edition, not as a separate circuit revision without further evidence.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
-- **Exact transistor/device:** Unknown.
+- Exact production semiconductor details were not established.
 
 ## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
-- **Exact part:** Unknown.
+- Exact clipping-device part was not established.
 
 ## Sound
-Keeley Electronics Monterey Rotary Fuzz Vibe Guitar Effects Pedal
-Keeley Electronics Monterey Rotary Fuzz Vibe - Cedar Grove Guitars
-Acoustic Guitars and Folk Instruments FREE SHIPPING ON ORDERS OVER $30 Cart Home Shop Acoustic Guitar Pickup Soprano Ukulel Acoustic Electric Guitar Baritone Horn Music Stand Woodwind Analog Mixer Home / Effect / Keeley Electronics Monterey Rotary Fuzz Vibe Sale!
+Monterey combines aggressive fuzz with rotary/vibe modulation for psychedelic, swirling and heavily saturated textures. The separate effect sections allow the user to emphasize either the fuzz or modulation side or combine them.
 
 ## Sources checked
-1. https://robertkeeley.com/product/monterey-rotary-fuzz-vibe-custom-shop-edition/: https://robertkeeley.com/product/monterey-rotary-fuzz-vibe-custom-shop-edition/
-2. Keeley Electronics Monterey Rotary Fuzz Vibe Guitar Effects Pedal | Guitar Center: https://www.guitarcenter.com/Keeley/Monterey-Workstation-Fuzz-Guitar-Effects-Pedal-1500000019045.gc
-3. Keeley Electronics Monterey Rotary Fuzz Vibe - Cedar Grove Guitars | Acoustic Guitars and Folk Instruments: https://www.cedargroveguitars.com/product/keeley-electronics-monterey-rotary-fuzz-vibe/
-4. Keeley Electronics - Monterey - Rotary Fuzz Vibe: https://gcrockboard.com/keeley-electronics-monterey-rotary-fuzz-vibe
-5. Keeley Electronics Monterey Rotary Fuzz Vibe | Effects: https://www.galleryflowlab.com/product/keeley-electronics-monterey-rotary-fuzz-vibe/
+1. Keeley Electronics - Monterey Rotary Fuzz Vibe Custom Shop: https://robertkeeley.com/product/monterey-rotary-fuzz-vibe-custom-shop-edition/
+2. Reverb - Keeley Monterey: https://reverb.com/p/keeley-monterey-rotary-fuzz-vibe
+3. Effects Database - Keeley Monterey: https://www.effectsdatabase.com/model/keeley/monterey
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.
