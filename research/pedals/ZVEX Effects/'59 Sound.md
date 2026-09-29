@@ -7,11 +7,10 @@
 - **Identity:** ZVEX Effects's '59 Sound.
 
 ## What this pedal is
-ZVEX Effects ’59 Sound Vertical $ 249.00 $ 124.50 ZVEX Effects '59 Sound VerticalThe 59 Sound is based on the legendary 1959 Tweed Fender Bassman.
+The ZVEX Effects ’59 Sound is a distortion pedal based on the 1959 Tweed Fender Bassman. ZVEX describes it as a modification of the Box of Rock circuit developed to capture the character of a ’59 Bassman. [1]
 
 ## Colorways
-- If you want custom artwork on your pedal, see the custom requests page .
-- Home Guitar Pedals Custom Pedals Mod Bench + Neon Signs The Candela Vibrophase Merch Modular Dealers Artists Custom Galleries Info Repairs Get Custom Artwork Terms 2019 Catalog PDF Download Photo Pack ZVEX Effects Info Email Search Menu ZVEX Effects Info Email Search Home Guitar Pedals Custom Pedals Mod Bench + Neon Signs The Candela Vibrophase Merch Modular Dealers Artists Custom Galleries Info Repairs Get Custom Artwork Terms 2019 Catalog PDF Download Photo Pack Filter All Amps Boost Distortion Fuzz Meter Microphone Misc.
+- Hand-painted colors and graphic details may vary between individual pedals. These cosmetic differences do not define a separate circuit model on the product page. [1]
 
 ## Versions and factory options
 - No distinct factory revision was established in the verified evidence packet.
@@ -27,10 +26,7 @@ ZVEX Effects ’59 Sound Vertical $ 249.00 $ 124.50 ZVEX Effects '59 Sound Verti
 - **Exact part:** Unknown.
 
 ## Sound
-'59 Sound — ZVEX Effects For Fastest Service: If you need repairs, technical help, or replacement parts, see our repairs page , or contact repairs@zvex.com .
-Home Guitar Pedals Custom Pedals Mod Bench + Neon Signs The Candela Vibrophase Merch Modular Dealers Artists Custom Galleries Info Repairs Get Custom Artwork Terms 2019 Catalog PDF Download Photo Pack ZVEX Effects Info Email Search Menu ZVEX Effects Info Email Search Home Guitar Pedals Custom Pedals Mod Bench + Neon Signs The Candela Vibrophase Merch Modular Dealers Artists Custom Galleries Info Repairs Get Custom Artwork Terms 2019 Catalog PDF Download Photo Pack Filter All Amps Boost Distortion Fuzz Meter Microphone Misc.
-Mod Modulation Octave Phaser Sampler Step Sequencer Tremolo Vibrato Volume Wah Yvette Young Guitar Pedals ← Back to Guitar Pedals '59 Sound '59 Sound $399.00 Hand painted pedals feature a lifetime warranty.
-
+ZVEX describes the ’59 Sound as capturing the character of a 1959 Tweed Fender Bassman, with a wide range of textures that responds to the guitar’s volume control. The circuit was developed by modifying a Box of Rock platform to achieve the desired Bassman character. [1]
 ## Sources checked
 1. '59 Sound — ZVEX Effects: https://www.zvex.com/guitar-pedals/59-sound-hand-painted-guitar-effects-pedal
 2. ZVEX Effects '59 Sound Vertical: https://www.masterguitarworks.com/products/zvex-effects-59-sound-vertical/
