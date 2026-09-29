@@ -3,40 +3,34 @@
 ## PRP identity
 - **Archive parent:** Mosferatu
 - **Builder:** Lovepedal
-- **Catalog type:** Overdrive
+- **Catalog type:** Overdrive / Distortion
 - **Identity:** Lovepedal's Mosferatu.
 
 ## What this pedal is
-Lovepedal Mosferatu is pretty damn cool
-
-## Colorways
-- Rest assured that your order will make as small of a footprint as possible.* Related products Rocktron Reaction Chorus $ 44.00 1981 Inventions DRV Gold Germanium $ 229.00 Flamma FC14 Analog Chorus $ 24.00 Tone Bakery Creme Double 2015 $ 109.00 Bucket List Guitars
+The Mosferatu is an Alfonso Hermida/Lovepedal overdrive developed alongside the Zendrive family. Surviving examples span lower-gain and higher-gain presentations, but the archive does not merge every named version into one component-specific record.
 
 ## Versions and factory options
-- The verified evidence references: V2.
-- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+- The checked archive evidence references **V2**.
+- Three-knob examples are documented.
+- Historic examples vary in control layout and enclosure presentation.
+- No complete numbered hardware chronology was established.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- The archive keeps the V2 reference while avoiding unsupported claims that every Mosferatu shares the same component complement.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
-- **Exact transistor/device:** Unknown.
+- Exact production transistor/device information was not established for the family record.
 
 ## Diode
-- Documented terms in the verified sources: LED.
-- The archive records only the component information explicitly present in these sources.
+- LED indicator is documented on surviving examples; exact clipping-device information was not established.
 
 ## Sound
-Rest assured that your order will make as small of a footprint as possible.* Related products Rocktron Reaction Chorus $ 44.00 1981 Inventions DRV Gold Germanium $ 229.00 Flamma FC14 Analog Chorus $ 24.00 Tone Bakery Creme Double 2015 $ 109.00 Bucket List Guitars
-So this last time around still no Kalamazoo but the Mosferatu Low Gain was $50.
-I thought it was going to be a fuzz but it really is more of a straight overdrive/distortion pedal.
+The Mosferatu is generally the higher-gain, hairier counterpart to the smoother Zendrive concept. Surviving examples are described as warm and responsive to guitar-volume changes, moving from overdrive toward thicker distortion.
 
 ## Sources checked
-1. Lovepedal Mosferatu - Reverb: https://reverb.com/item/91371461-lovepedal-mosferatu
-2. Lovepedal Mosferatu Pedal | Bucket List Guitars: https://bucketlistguitars.com/product/lovepedal-mosferatu-2/
-3. Lovepedal Mosferatu is pretty damn cool | Seymour Duncan Forums: https://forum.seymourduncan.com/threads/lovepedal-mosferatu-is-pretty-damn-cool.331297/
-4. Perf and PCB Effects Layouts: Hermida/Lovepedal Mosferatu (3-knob): https://effectslayouts.blogspot.com/2019/07/hermidalovepedal-mosferatu-3-knob.html
+1. Reverb - Lovepedal Mosferatu: https://reverb.com/item/91371461-lovepedal-mosferatu
+2. Effects Layouts - Hermida/Lovepedal Mosferatu: https://effectslayouts.blogspot.com/2019/07/hermidalovepedal-mosferatu-3-knob.html
+3. Effects Database - Lovepedal Mosferatu: https://www.effectsdatabase.com/model/lovepedal/mosferatu
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.
