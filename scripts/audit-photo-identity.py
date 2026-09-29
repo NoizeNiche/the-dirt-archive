@@ -121,9 +121,9 @@ def build_builder_index(catalog):
     return by_builder
 
 
-def probable_conflicts(entry, text, builder_models):
+def probable_conflicts(entry, text, builder_models, all_builder_tokens):
     if not text:
-        return [], []
+        return [], [], []
 
     target_norm = norm(entry["pedal"])
     target_tokens = set(strong_tokens(entry["pedal"]))
@@ -151,7 +151,22 @@ def probable_conflicts(entry, text, builder_models):
                 "token_hits": hits,
             })
 
-    return target_hits, suspicious
+    builder_hits = sorted(
+        builder for builder, tokens_for_builder in all_builder_tokens.items()
+        if builder != entry["builder"]
+        and tokens_for_builder
+        and any(
+            re.search(r"\\b" + re.escape(token) + r"\\b", text)
+            for token in tokens_for_builder
+        )
+    )
+    target_builder_hits = sorted(
+        token for token in all_builder_tokens.get(entry["builder"], set())
+        if re.search(r"\\b" + re.escape(token) + r"\\b", text)
+    )
+    builder_conflicts = builder_hits[:5] if builder_hits and not target_builder_hits else []
+
+    return target_hits, suspicious, builder_conflicts
 
 
 def main() -> int:
@@ -176,6 +191,12 @@ def main() -> int:
         for row in catalog
     }
     builder_index = build_builder_index(catalog)
+    builder_tokens = {}
+    for builder in builder_index:
+        builder_tokens[builder] = set(
+            token for token in strong_tokens(builder)
+            if token not in {"audio", "effects", "pedals", "electronics", "devices"}
+        )
 
     targets = []
     for tracker in tracker_rows:
@@ -234,13 +255,14 @@ def main() -> int:
     report_rows = []
     for identity, entry, path in targets:
         text_value = ocr_results.get(identity, "")
-        target_hits, probable = probable_conflicts(
+        target_hits, probable, builder_conflicts = probable_conflicts(
             {
                 "builder": identity[0],
                 "pedal": identity[1],
             },
             text_value,
             builder_index.get(identity[0], []),
+            builder_tokens,
         )
 
         status = "PASS"
@@ -251,6 +273,9 @@ def main() -> int:
         if probable:
             status = "REVIEW"
             reasons.append("OCR strongly matches another same-builder model")
+        if builder_conflicts:
+            status = "REVIEW"
+            reasons.append("OCR appears to name a different builder")
 
         report_rows.append({
             "Builder": identity[0],
@@ -263,6 +288,7 @@ def main() -> int:
                 f"{item['other_pedal']} [{','.join(item['token_hits'])}]"
                 for item in probable
             ),
+            "OCR Suspected Other Builders": " | ".join(builder_conflicts),
             "OCR Text": text_value[:1000],
             "Duplicate SHA256": duplicate_flags.get(identity, {}).get("sha256", ""),
         })
@@ -274,7 +300,7 @@ def main() -> int:
     with output.open("w", newline="", encoding="utf-8") as fh:
         writer = csv.DictWriter(fh, fieldnames=list(report_rows[0].keys()) if report_rows else [
             "Builder", "Pedal", "Image", "Status", "Reasons",
-            "OCR Target Tokens", "OCR Suspected Other Models", "OCR Text", "Duplicate SHA256"
+            "OCR Target Tokens", "OCR Suspected Other Models", "OCR Suspected Other Builders", "OCR Text", "Duplicate SHA256"
         ])
         writer.writeheader()
         writer.writerows(report_rows)
