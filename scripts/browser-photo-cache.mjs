@@ -1018,10 +1018,19 @@ async function linkedExactSourceCandidates(page, entry, sourcePageUsed, deepRevi
 async function imageSearchCandidates(page, entry, deepReview = false) {
   if (!IMAGE_SEARCH_ENABLED) return [];
 
-  // One exact query is enough for a distinctive model name. Repeating four
-  // near-identical searches was multiplying runtime without materially improving
-  // identity coverage.
-  const queries = [entry.company + ' "' + entry.pedal + '" guitar pedal'];
+  // Normal recovery uses one exact query. Deep-review holdouts get a small
+  // set of exact-name variants because obscure/discontinued pedals are often
+  // indexed under punctuation, abbreviated builder names, or slightly different
+  // marketplace phrasing. Every accepted result still passes the source-page
+  // identity gate below.
+  const exactQuery = entry.company + ' "' + entry.pedal + '" guitar pedal';
+  const queries = deepReview
+    ? [
+        exactQuery,
+        '"' + entry.pedal + '" "' + entry.company + '"',
+        '"' + entry.pedal + '" ' + entry.company + ' effects pedal'
+      ].filter((value, index, list) => value && list.indexOf(value) === index)
+    : [exactQuery];
 
   const merged = new Map();
 
@@ -1169,9 +1178,17 @@ async function imageSearchCandidates(page, entry, deepReview = false) {
   // metadata is less stable than Bing's, so collect only image/source pairs
   // that can be tied back to an external source page. The source page is still
   // checked by the normal identity gate later.
-  // Keep Google as a second independent image index, but use one exact
-  // builder/model query instead of another multi-query sweep.
-  const googleQueries = ['"' + entry.company + '" "' + entry.pedal + '" pedal'];
+  // Keep Google as a second independent image index. Mirror the bounded
+  // deep-review query expansion used for Bing, but never expand beyond the
+  // exact builder/model identity.
+  const googleExact = '"' + entry.company + '" "' + entry.pedal + '" pedal';
+  const googleQueries = deepReview
+    ? [
+        googleExact,
+        '"' + entry.pedal + '" "' + entry.company + '"',
+        '"' + entry.pedal + '" ' + entry.company + ' guitar pedal'
+      ].filter((value, index, list) => value && list.indexOf(value) === index)
+    : [googleExact];
 
   for (const query of googleQueries) {
     const searchUrl = 'https://www.google.com/search?udm=2&hl=en&gl=us&q=' + encodeURIComponent(query);
