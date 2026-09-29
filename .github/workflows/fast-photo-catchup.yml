@@ -98,6 +98,9 @@ jobs:
           PHOTO_BROWSER_MAX_DEEP_REVIEW_CYCLES: "3"
         run: timeout 720s node scripts/browser-photo-cache.mjs
 
+      - name: Reset photo state discovered during browser recovery
+        run: python scripts/reset-photo-recovery-targets.py
+
       - name: Run recovered-photo content gate
         run: |
           python scripts/audit-photo-content.py --mode changed --output /tmp/recovered-photo-content-audit.csv --fail-high-confidence
