@@ -41,9 +41,9 @@ def main() -> None:
     overrides = {}
     with OVERRIDES.open(newline="", encoding="utf-8") as handle:
         for row_index, row in enumerate(csv.DictReader(handle), start=1):
-            builder = row.get("Builder", "").strip()
-            pedal = row.get("Pedal", "").strip()
-            source_page = row.get("Image Source Page", "").strip()
+            builder = str(row.get("Builder") or "").strip()
+            pedal = str(row.get("Pedal") or "").strip()
+            source_page = str(row.get("Image Source Page") or "").strip()
             if builder and pedal and source_page:
                 overrides.setdefault(key(builder, pedal), []).append((source_page, row_index, ""))
 
@@ -55,7 +55,7 @@ def main() -> None:
                     continue
                 builder = row.get("Builder", "").strip()
                 pedal = row.get("Pedal", "").strip()
-                image_url = row.get("Image URL", "").strip()
+                image_url = str(row.get("Image URL") or "").strip()
                 source_page = row.get("Source Page", "").strip()
                 if builder and pedal:
                     manual_verified[key(builder, pedal)] = (source_page, image_url)
@@ -69,7 +69,7 @@ def main() -> None:
                 source_page = row.get("Image Source Page", "").strip()
                 image_url = row.get("Image URL", "").strip()
                 if builder and pedal and source_page and image_url:
-                    notes = row.get("Notes", "").strip()
+                    notes = str(row.get("Notes") or "").strip()
                     direct_overrides.setdefault(key(builder, pedal), []).append((source_page, image_url, row_index, notes))
 
     with INDEX.open(encoding="utf-8") as handle:
