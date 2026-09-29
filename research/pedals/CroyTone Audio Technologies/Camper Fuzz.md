@@ -7,7 +7,7 @@
 - **Identity:** CroyTone Audio Technologies's Camper Fuzz.
 
 ## What this pedal is
-CroyTone Audio Technologies's Camper Fuzz is cataloged as a Fuzz pedal.
+CroyTone Audio Technologies's Camper Fuzz is cataloged as a Fuzz pedal. The builder's current product collection lists Camper Fuzz as a product. [1]
 
 ## Colorways
 - No specific factory colorway information was established in the verified evidence packet.
@@ -27,10 +27,10 @@ CroyTone Audio Technologies's Camper Fuzz is cataloged as a Fuzz pedal.
 - **Exact part:** Unknown.
 
 ## Sound
-Camper Fuzz &ndash; Croy Tone Audio Technologies Skip to content Facebook Instagram 日本全国からの郵送修理に対応 Home Repair Restoration Repair Restoration Overview Amplifier Repair Synthesizer Repair Recording Equipment Repair Effects Pedal Repair Vintage Restorations Mail-In Repairs Repair FAQ Bench Journal Shop Shop CroyTone Products Boutique Guitars Used and Vintage Mother Mary Company Straps Contact Contact Repair Inquiry Contact Us Log in Country/region United States | USD $ Search Afghanistan AFN ؋ Åland Islands EUR € Albania ALL L Algeria DZD د.ج Andorra EUR € Angola JPY ¥ Argentina JPY ¥ Armenia AMD դր.
+No pedal-specific sonic description was established in the verified evidence packet.
 
 ## Sources checked
-1. Camper Fuzz &ndash; Croy Tone Audio Technologies: https://croytoneaudio.com/en/products/camper-fuzz
+1. CroyTone Audio Technologies — product collection: https://croytoneaudio.com/en/collections/all
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
