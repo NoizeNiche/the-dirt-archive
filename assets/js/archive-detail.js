@@ -112,6 +112,27 @@ function isObviousScrapeResidue(line){
   return false;
 }
 
+
+function cleanSourceLabel(label,url){
+  let value=decodeResearchEntities(String(label||'')).replace(/\s+/g,' ').trim();
+  let host='';
+  try{host=new URL(url,location.href).hostname.replace(/^www\./,'').toLowerCase()}catch(e){}
+  const navNoise=/(?:facebook|youtube|instagram|tiktok|threads)\b.*(?:facebook|youtube|instagram|tiktok|threads)\b|(?:mobile gift card|gear card|menu|search|login|account).*(?:facebook|youtube|instagram|tiktok|threads)/i;
+  if(!value)return host||'Source';
+  if(value.length>120 || navNoise.test(value)){
+    const known={
+      'guitarcenter.com':'Guitar Center',
+      'sweetwater.com':'Sweetwater',
+      'musicradar.com':'MusicRadar',
+      'reverb.com':'Reverb',
+      'robertkeeley.com':'Keeley Electronics',
+      'perfectcircuit.com':'Perfect Circuit'
+    };
+    return known[host]||host||value.slice(0,96).replace(/\s+$/,'')+'…';
+  }
+  return value;
+}
+
 function renderMarkdown(md){
   const rawLines=String(md||'').split(/\r?\n/);
   const lines=rawLines.map(line=>isResearchSourceCitation(line)?decodeResearchEntities(line):decodeResearchEntities(line))
@@ -138,9 +159,9 @@ function renderMarkdown(md){
     if((sourceMatch||labeledSourceMatch)&&!skip){
       if(inList){html+='</ul>';inList=false}
       const rawUrl=(sourceMatch?.[1]||labeledSourceMatch?.[2]||'').replace(/[),.;!?]+$/,'');
-      const label=labeledSourceMatch
+      const label=cleanSourceLabel(labeledSourceMatch
         ? labeledSourceMatch[1].trim()
-        : rawUrl.replace(/^https?:\/\//,'').split('/')[0];
+        : rawUrl.replace(/^https?:\/\//,'').split('/')[0],rawUrl);
       const description=sourceMatch?.[2] ? ' — '+inline(sourceMatch[2]) : '';
       html+='<p class="sourceRow"><a class="sourceLink" href="'+esc(rawUrl)+'" target="_blank" rel="noopener noreferrer">'+esc(label)+'</a>'+description+'</p>';
       continue;
