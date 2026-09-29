@@ -13681,10 +13681,8 @@
       "types": [
         "Overdrive"
       ],
-      "image": "./assets/pedals/blackhawk-amplifiers/valkyrie-drive/primary.webp",
       "source_page": "https://www.blackhawkamplifiers.com/product/uruk-hai-parallel-mkii",
       "research_record": "./research/pedals/PRP Batch 101/Valkyrie Drive.md",
-      "image_source_url": "https://assets.bigcartel.com/product_images/22cd516c-f46a-44c4-805e-4066de41deeb/uruk-hai-parallel-mkii.jpg?auto=format&fit=max&h=1200&w=1200",
       "image_source_page": "https://www.blackhawkamplifiers.com/product/uruk-hai-parallel-mkii",
       "research_level": "deep",
       "deep_research_status": "VERIFIED"
@@ -28733,12 +28731,10 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": "./assets/pedals/crazy-tube-circuits/white-whale/primary.webp",
       "source_page": "https://crazytubecircuits.com/store/overdrive-distortion-fuzz",
       "research_record": "./research/pedals/Crazy Tube Circuits/White Whale.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_url": "https://images.squarespace-cdn.com/content/v1/55ae0893e4b0f896046f0f37/647b6eb9-1931-492c-a231-efa445774774/white-whale-mkII-SQ.jpg?format=500w",
       "image_source_page": "https://crazytubecircuits.com/white-whale-v2"
     },
     {
@@ -38331,12 +38327,10 @@
         "Distortion",
         "Fuzz"
       ],
-      "image": "./assets/pedals/hudson-electronics/broadcast-ap-ii/primary.webp",
       "source_page": "https://hudsonelectronicsuk.com/product-category/pedals/",
       "research_record": "./research/pedals/Hudson Electronics/Broadcast AP-II.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_url": "https://i0.wp.com/hudsonelectronicsuk.com/wp-content/uploads/2016/09/bc-24v-usa-turquoise-green-angle-tight.jpg?w=1960&ssl=1",
       "image_source_page": "https://hudsonelectronicsuk.com/product-category/pedals/"
     },
     {
@@ -43440,13 +43434,11 @@
       "types": [
         "Overdrive"
       ],
-      "image": "./assets/pedals/mad-professor-amplification/super-black/primary.webp",
       "source_page": "https://mpamp.com/category/8/shop",
       "research_record": "./research/pedals/Mad Professor Amplification/Super Black.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://reverb.com/item/100487324-mad-professor-amplification-super-black-mini-preamp-overdrive-pedal-new-black",
-      "image_source_url": "https://rvb-img.reverb.com/i/s--ZyK211jB--/gravity=auto,quality=medium-low,width=200,height=200,format=jpeg/xem1m8que3omy9lxrwws.jpg"
+      "image_source_page": "https://reverb.com/item/100487324-mad-professor-amplification-super-black-mini-preamp-overdrive-pedal-new-black"
     },
     {
       "company": "Mad Professor Amplification",
