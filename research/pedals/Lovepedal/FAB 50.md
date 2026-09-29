@@ -7,32 +7,33 @@
 - **Identity:** Lovepedal's FAB 50.
 
 ## What this pedal is
-Lovepedal's FAB 50 is cataloged as a fuzz / overdrive pedal.
+The FAB 50 is the pedal that established Lovepedal as a boutique effects maker. Lovepedal's own history describes it as a one-knob circuit that produces cranked-Marshall-style overdrive at lower settings and nasty fuzz at higher settings.
 
 ## Colorways
-- No specific factory colorway information was established in the verified evidence packet.
+- Numerous limited finishes and special artwork versions exist.
+- No complete chronological colorway list was established.
 
 ## Versions and factory options
-- No distinct factory revision was established in the verified evidence packet.
+- One-knob control layout.
+- Simplified, low-interaction design.
+- No complete numbered factory revision chronology was established.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- Later FAB 50 variants and finishes exist, but the checked sources do not establish a complete circuit-revision sequence.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
-- **Exact transistor/device:** Unknown.
+- Exact production transistor/device information was not established.
 
 ## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
-- **Exact part:** Unknown.
+- Exact clipping/rectifier diode information was not established.
 
 ## Sound
-The verified evidence packet did not contain enough pedal-specific sonic description to make a more detailed sound summary without adding unsupported interpretation.
+FAB 50 moves from lower-gain British-style overdrive into fuzz as the gain is increased. Lovepedal describes it as the one-knob pedal that launched the brand's subsequent Mini Line and wider catalog.
 
 ## Sources checked
-1. Lovepedal Fab 50 - What To Know & Where To Buy | Equipboard: https://equipboard.com/items/lovepedal-fab-50
-2. Lovepedal Fab 50 - Reverb: https://reverb.com/p/lovepedal-fab-50
-3. Tell me about the Lovepedal Fab 50 Tiki - The Gear Page: https://www.thegearpage.net/board/index.php?threads/tell-me-about-the-lovepedal-fab-50-tiki.1936822/
+1. Lovepedal - History: https://www.lovepedal.com/history/
+2. Lovepedal - About Us: https://lovepedalcustomeffects.myshopify.com/pages/about-us
+3. Effects Database - Lovepedal FAB 50: https://www.effectsdatabase.com/model/lovepedal/fab50
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.
