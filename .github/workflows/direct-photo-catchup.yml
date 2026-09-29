@@ -26,7 +26,7 @@ permissions:
   actions: write
 
 concurrency:
-  group: dirt-direct-photo-recovery-v1
+  group: dirt-photo-publishing-v1
   # Let an active direct-photo recovery finish. New triggers can wait in the
   # concurrency queue rather than interrupting a verified publication pass.
   cancel-in-progress: false
