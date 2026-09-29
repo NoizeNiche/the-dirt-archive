@@ -4,7 +4,7 @@
   "original_builder": "Add+ Pedals",
   "original_pedal": "Der Fuzzer",
   "status": "VERIFIED_EVIDENCE_STAGED",
-  "independent_exact_source_count": 2,
+  "independent_exact_source_count": 1,
   "sources": [
     {
       "url": "https://www.effectsdatabase.com/model/addplus/derfuzzer",
@@ -13,14 +13,6 @@
       "excerpt": "Der Fuzzer Published on March 31, 2011 Add+ Pedals fuzz pedal Reviews myFXDB user reviews No reviews yet + Add your review Links Add+ Pedals Add+ Der Fuzzer Where to find one? Ads! This site contains affiliate links for which I may be compensated Add+ Der Fuzzer for sale on eBay: World & Stores Australia Canada France Germany Italy Spain UK US Other sites your browser doesn't support AJAX? fx pedal stompbox stomp box guitar effects pedal fuzz distortion/fuzz/overdrive dirt grit Searching... Twitter (opens in new tab) Facebook (opens in new tab) YouTube (opens in new tab) Instagram (opens in new tab) Privacy policy - Imprint hosted at Unix-Solutions",
       "host": "www.effectsdatabase.com",
       "source_kind": "effects_database"
-    },
-    {
-      "url": "https://guitarpedalfinder.com/brands/Add%2B%20Pedals",
-      "title": "Add+ Pedals Guitar Pedals | PedalFinder",
-      "h1": "Guitar Pedal Finder",
-      "excerpt": "Add+ Pedals Guitar Pedals | PedalFinder Guitar Pedal Finder Explore Brands Guides Pedalboards FAQ Home / Brands / Add+ Pedals Add+ Pedals Add+ Pedals is a guitar effects pedal manufacturer creating innovative and inspiring effects for musicians. Their pedals are designed to help players achieve their ideal tone and explore new sonic territories. 32 pedals Add+ Pedals A/B Box Switcher Add+ Pedals Analog Delay Delay Add+ Pedals Analog Delay 2 Delay Load More Guitar Pedal Finder Discover your perfect guitar tone with our comprehensive database of effects pedals and AI-powered recommendations. Explore Pedal Database Brands AI Search Guides Pedalboards Legal Privacy Policy Terms of Service FAQ \u00a9 2026 Guitar Pedal Finder. Crafted for musicians, by musicians. Add+ Pedals Blues Player Overdrive Add+ Pedals Booster Boost Add+ Pedals Chorususs Chorus Add+ Pedals Comp-Tainer Compressor Add+ Pedals Der Fuzzer Fuzz Add+ Pedals Distortion Distortion Add+ Pedals Fuzz Face Fuzz Add+ Pedals Fuzz Machine Fuzz Add+ Pedals Great White Overdrive",
-      "host": "guitarpedalfinder.com",
-      "source_kind": "other"
     }
   ],
   "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
