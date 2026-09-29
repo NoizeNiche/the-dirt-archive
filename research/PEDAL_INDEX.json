@@ -41864,7 +41864,7 @@
       "research_record": "./research/pedals/Keeley Electronics/Red Dirt Germanium Overdrive.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://reverb.com/item/1628420-keeley-red-dirt-germanium-overdrive-effect-pedal",
+      "image_source_page": "https://www.rockboard.de/en/pedalPedia/Keeley-Electronics/Red-Dirt-Germanium/154445638/",
       "image_source_pages": [
         "https://www.rockboard.de/en/pedalPedia/Keeley-Electronics/Red-Dirt-Germanium/154445638/",
         "https://reverb.com/item/92935776-keeley-electronics-red-dirt-germanium-overdrive-pedal",
@@ -41872,7 +41872,12 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1411
+      "image_source_priority": 1000000,
+      "image_source_url": "https://cdn.rockboard.de/common/image_154445638.webp",
+      "image_source_urls": [
+        "https://cdn.rockboard.de/common/image_154445638.webp"
+      ],
+      "image": "./assets/pedals/keeley-electronics/red-dirt-germanium-overdrive/primary.webp"
     },
     {
       "company": "Keeley Electronics",
@@ -41906,7 +41911,12 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 50000
+      "image_source_priority": 1000000,
+      "image_source_url": "https://rvb-img.reverb.com/i/s--mz-r7vK3--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/hrdu4lk4y8hc8bdd3cl4.jpg",
+      "image_source_urls": [
+        "https://rvb-img.reverb.com/i/s--mz-r7vK3--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/hrdu4lk4y8hc8bdd3cl4.jpg"
+      ],
+      "image": "./assets/pedals/keeley-electronics/red-dirt-overdrive/primary.webp"
     },
     {
       "company": "Keeley Electronics",
@@ -44683,7 +44693,11 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 50000
+      "image_source_priority": 1000000,
+      "image_source_url": "https://www.madebymike.co.uk/pedals/fuzzy/fuzzy1.JPG",
+      "image_source_urls": [
+        "https://www.madebymike.co.uk/pedals/fuzzy/fuzzy1.JPG"
+      ]
     },
     {
       "company": "MadeByMike",
@@ -45110,7 +45124,8 @@
       "research_record": "./research/pedals/Mask Audio Electronics/PART GARDEN.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://maskaudioelectronics.com/products/part-garden"
+      "image_source_page": "https://maskaudioelectronics.com/products/part-garden",
+      "image": ""
     },
     {
       "company": "Mask Audio Electronics",
@@ -49384,7 +49399,12 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 50000
+      "image_source_priority": 1000000,
+      "image_source_url": "https://www.musicjunction.com.au/cdn/shop/files/NX63_1.png?v=1761532069&width=2048",
+      "image_source_urls": [
+        "https://www.musicjunction.com.au/cdn/shop/files/NX63_1.png?v=1761532069&width=2048"
+      ],
+      "image": "./assets/pedals/nux-audio-nux/63-diamond/primary.webp"
     },
     {
       "company": "NUX Audio / NUX",
