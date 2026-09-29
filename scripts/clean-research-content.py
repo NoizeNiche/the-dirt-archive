@@ -184,6 +184,45 @@ def clean_known_shell(line: str) -> str | None:
         return None
     return line
 
+
+def clean_source_label(line: str) -> str:
+    if not SOURCE_LINE.match(line):
+        return line
+    labeled = re.match(r"^\s*(\d+)\.\s+(.+?)\s*[:;-]\s+(https?://\S+)\s*$", line)
+    if not labeled:
+        return line
+    number, label, url = labeled.groups()
+    label = re.sub(r"\s+", " ", html.unescape(label)).strip()
+    noisy = (
+        len(label) > 160
+        or bool(re.search(
+            r"(?:facebook|youtube|instagram|tiktok|threads)\b.*(?:facebook|youtube|instagram|tiktok|threads)\b|"
+            r"(?:mobile gift card|gear card|menu|search|login|account).*(?:facebook|youtube|instagram|tiktok|threads)",
+            label,
+            re.I,
+        ))
+    )
+    if not noisy:
+        return line
+    try:
+        host = re.sub(r"^www\.", "", re.match(r"https?://([^/]+)", url, re.I).group(1))
+    except (AttributeError, TypeError):
+        host = ""
+    if not host:
+        return line
+    known = {
+        "guitarcenter.com": "Guitar Center",
+        "sweetwater.com": "Sweetwater",
+        "musicradar.com": "MusicRadar",
+        "reverb.com": "Reverb",
+        "robertkeeley.com": "Keeley Electronics",
+        "perfectcircuit.com": "Perfect Circuit",
+        "premierguitar.com": "Premier Guitar",
+        "effectsdatabase.com": "Effects Database",
+    }
+    short = known.get(host, host)
+    return f"{number}. {short}: {url}"
+
 def clean_file(path: Path) -> bool:
     original = path.read_text(encoding="utf-8", errors="replace")
     out: list[str] = []
@@ -200,6 +239,11 @@ def clean_file(path: Path) -> bool:
             if heading.group(1) == "#" and " — " in heading.group(2):
                 current_pedal = heading.group(2).split(" — ", 1)[1].strip()
         stripped = line.strip()
+        source_cleaned = clean_source_label(line)
+        if source_cleaned != line:
+            line = source_cleaned
+            changed = True
+            stripped = line.strip()
         if strong_code(line) or strong_shell(line):
             changed = True
             continue
