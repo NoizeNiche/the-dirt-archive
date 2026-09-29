@@ -30,6 +30,8 @@ PATTERNS = [
     ("html_entity_in_prose", re.compile(r"&(?:nbsp|quot|amp|#39|#x27);", re.I)),
     ("cookie_privacy", re.compile(r"cookie policy|privacy policy|terms of use|all rights reserved", re.I)),
     ("commerce_prompt", re.compile(r"add to cart|buy now|shopping cart|free shipping|\bin stock\b(?!\s+mode\b)|out of stock", re.I)),
+    ("scrape_dump", re.compile(r"(?=.{500,})(?:skip to navigation|effect types|browse by|countries|install effects database app).*(?:newsletter|where to find one|search the database|myfxdb user reviews)", re.I)),
+    ("literal_escape_residue", re.compile(r"\\\\[nrt]")),
 ]
 
 DEVICE_TERMS = re.compile(
@@ -138,6 +140,17 @@ def audit_research_structure(lines: list[str], path: Path) -> list[dict[str, obj
             "Text": text[:1200],
         })
 
+    heading_counts: dict[str, list[int]] = {}
+    for lineno, raw in enumerate(lines, 1):
+        heading = re.match(r"^##\s+(.+?)\s*$", raw)
+        if heading:
+            key = heading.group(1).strip().lower()
+            heading_counts.setdefault(key, []).append(lineno)
+    for key in ("what this pedal is", "sound", "photo", "sources checked", "deep research verification"):
+        positions = heading_counts.get(key, [])
+        if len(positions) > 1:
+            add(positions[1], "duplicate_section", f"Section '{key}' appears {len(positions)} times.")
+            
     what = sections.get("what this pedal is", [])
     what_text = clean_visible_text(" ".join(text for _, text in what))
     generic = (
