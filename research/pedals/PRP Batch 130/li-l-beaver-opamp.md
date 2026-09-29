@@ -39,7 +39,7 @@ This pass adds only claims supported by the newly admitted exact-model evidence.
 Build Your Own Clone's Li'l Beaver (Opamp) is cataloged as a fuzz pedal.
 
 ### Verified color/finish evidence
-- Δ More Schematics Calvin Vai by PCB Guitar Mania Add To Cart Based On: Ampeg SVT Amped S-bass by PCB Guitar Mania Add To Cart Based On: Darkglass Microtubes B7K Ultra Black Mirror VII by PCB Guitar Mania Add To Cart (c) Stomp Box Schematics
+
 
 ### Verified sound evidence
 It is an exact replica of the opamp version of the Big Muff Pi, known for its vintage tone.
