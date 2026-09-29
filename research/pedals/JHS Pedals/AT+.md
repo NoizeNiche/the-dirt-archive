@@ -7,37 +7,29 @@
 - **Identity:** JHS Pedals's AT+.
 
 ## What this pedal is
-The drive channel of the AT+ is identical to our original AT pedal.
-
-## Colorways
-- 4 years ago Great tone, gorgeous red...
+The AT+ is Andy Timmons' signature JHS overdrive, developed from the original AT and its Angry Charlie-based lineage.
 
 ## Versions and factory options
-- The verified evidence references: V1, V12, V6.
-- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+- Drive channel is based on the original AT.
+- Additional gain/boost capability is added for the AT+ configuration.
+- No complete numbered production revision chronology was established.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- The AT+ is a separate signature model derived from the original AT rather than a generic Angry Charlie version.
 
 ## Transistor
-- Documented terms in the verified sources: AC15.
-- The archive records only the component information explicitly present in these sources.
+- Exact production semiconductor details were not established.
 
 ## Diode
-- Documented terms in the verified sources: LED.
-- The archive records only the component information explicitly present in these sources.
+- LED indicator is documented; exact clipping-device information was not established.
 
 ## Sound
-$0.00 USD AT+ $219.00 USD Zoom Zoom AT+ $219.00 USD − { $dispatch('change'); }) " > + Add to Cart ANDY TIMMONS SIGNATURE OVERDRIVE In 2016 we brought you Andy Timmons’ artist signature pedal, the AT or @, and we're really proud to bring you the next iteration of this phenomenal stomp box: The AT+.
-The JHS Pedals AT is Andy Timmons’ signature overdrive pedal that gives Andy his unmistakable lead and rhythm tone.
-Upon purchasing a JHS Angry Charlie in 2013, Andy began using it as his primary tone and soon after got in touch with Josh Scott about modifying it for his needs.
+The AT+ is designed for Andy Timmons-style lead and rhythm overdrive, covering articulate lower-gain drive through more saturated singing tones.
 
 ## Sources checked
-1. JHS Pedals The AT+ - Effects Database: https://www.effectsdatabase.com/model/jhspedals/at/plus
-2. JHS Pedals The AT+ Overdrive Pedal - Reverb: https://reverb.com/item/98587028-jhs-pedals-the-at-overdrive-pedal
-3. AT+ – JHS Pedals: https://jhspedals.info/products/at
-4. JHS Pedals The AT+ – United States: https://www.thomannmusic.com/jhs_pedals_the_at_433583.htm
-5. JHS Pedals The AT+ | ReverbZone: https://reverbzone.com/jhs-pedals/jhs-pedals-the-at-433583/
+1. JHS Pedals - AT+: https://jhspedals.info/products/at
+2. Effects Database - JHS AT+: https://www.effectsdatabase.com/model/jhspedals/at/plus
+3. Reverb - JHS AT: https://reverb.com/item/98587028-jhs-pedals-the-at-overdrive-pedal
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.

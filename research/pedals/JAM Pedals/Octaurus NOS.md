@@ -7,39 +7,30 @@
 - **Identity:** JAM Pedals's Octaurus NOS.
 
 ## What this pedal is
-With its simple and intuitive layout, the Octaurus NOS is designed to bring powerful fuzz tones to your fingertips, whether youre riffing hard or carving out rich, expressive leads.
+Octaurus NOS is an octave fuzz designed around thick, full-bodied fuzz with strong power-chord definition and a scooped voice.
 
 ## Colorways
-- View Gator GPT-BLACK Pedal Board with Carry Bag - Small $ 83.99 Original price was: $83.99.
+- No complete factory colorway chronology was established.
 
 ## Versions and factory options
-- No distinct factory revision was established in the verified evidence packet.
-
-## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- Silicon-transistor fuzz architecture is documented.
+- No complete numbered production revision history was established.
+- The later **Ultron Octaurus** is treated as a separate product identity.
 
 ## Transistor
-- Documented terms in the verified sources: silicon transistors.
-- The archive records only the component information explicitly present in these sources.
+- **Silicon transistors** are documented.
+- Exact transistor part numbers were not established.
 
 ## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
-- **Exact part:** Unknown.
+- Exact clipping/rectifier diode information was not established.
 
 ## Sound
-Bold, full-bodied octave fuzz tones
-Power-Chord Definition: Overdrive-like clarity for open power chords while preserving tightness and girth with a scooped voicing.
-Full Range Voicing: Offers a singing fuzz quality that soars in the mix.
+Octaurus NOS combines octave-fuzz harmonics with enough note definition for power chords. Its voicing can remain full and clear while producing a singing, sustaining fuzz character.
 
 ## Sources checked
-1. JAM Pedals Octaurus NOS - Reverb: https://reverb.com/p/jam-pedals-octaurus-nos
-2. JAM Pedals Octaurus NOS - What To Know & Where To Buy: https://equipboard.com/items/jam-pedals-octaurus-nos
-3. Octaurus NOS - JAM pedals: https://old.jampedals.com/octaurus-nos/
-4. Jam Pedals Octaurus NOS *Free Shipping in the USA* – Empire Guitars: https://empireguitars.com/products/jam-pedals-octaurus-nos-free-shipping-in-the-usa
-5. JAM Pedals Octaurus NOS | Effects: https://www.durableguitars.com/product/jam-pedals-octaurus-nos/
-6. "Ultron" Octaurus NOS: https://www.jampedals.com/products/ultron-octaurus
-7. JAM Pedals Octaurus NOS Octa-Fuzz - Wholesale Guitars Sheet Music Drums Effects and Accessories: https://www.musicbrandsupply.com/product/jam-pedals-octaurus-nos-octa-fuzz/
-8. JAM Pedals Octaurus NOS – Volt Music Store: https://www.voltmusicstore.com/products/jam-pedals-octaurus-nos
+1. JAM Pedals - Octaurus NOS: https://old.jampedals.com/octaurus-nos/
+2. Reverb - JAM Octaurus NOS: https://reverb.com/p/jam-pedals-octaurus-nos
+3. Effects Database - JAM Octaurus NOS: https://www.effectsdatabase.com/model/jampedals/octaurusnos
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.

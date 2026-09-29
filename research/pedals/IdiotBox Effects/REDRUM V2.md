@@ -7,39 +7,36 @@
 - **Identity:** IdiotBox Effects's REDRUM V2.
 
 ## What this pedal is
-IdiotBox Effects's REDRUM V2 is cataloged as a distortion pedal.
+REDRUM V2 updates IdiotBox Effects' original RAT-style distortion by retaining its Drive control while adding Grind and Level controls and expanded control over the original HM-2-style tone stack.
 
 ## Colorways
-- Also, the artwork is an improvement as well.
+- Artwork changed between production presentations.
+- No complete factory colorway chronology was established.
 
 ## Versions and factory options
-- The verified evidence references: V2, v2.
-- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+- **DRIVE**
+- **GRIND**
+- **LEVEL**
+- Internal DIP switches control the High, Mid and Low portions of the tone stack.
+- Each tone-stack band can be set to minimum, maximum, or controlled through Grind.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- V2 provides more external and internal tone control than the original Redrum design.
+- The original used a single distortion control with an internal volume and fixed tone-stack approach.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
-- **Exact transistor/device:** Unknown.
+- Exact production transistor/device information was not established.
 
 ## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
-- **Exact part:** Unknown.
+- Exact clipping/rectifier diode information was not established.
 
 ## Sound
-Shipping MAILING LIST Contact Back to site REDRUM V2 $ 139.00 1 of 2 Select option Select option TWO WEEK BUILD TIME Qty $ 139.00 Add to cart View cart The original Redrum was a RAT style distortion running into a maxed out HM-2 style tone stack, with one knob for distortion control and an internal volume control.
-The original DRIVE knob is still there but now the GRIND and LEVEL controls give you more tone and volume options on the fly!
-Plus there is an internal DIP switch bank where each of the High, Mid and Low of the original tone stack can each separately be set for min/max or to be controled by the GRIND knob!!
+REDRUM V2 combines RAT-like distortion with the aggressive EQ character associated with an HM-2-style tone stack, while giving the player more live control over gain, volume and EQ interaction.
 
 ## Sources checked
-1. REDRUM V2 | IdiotBox Effects: https://www.idiotboxeffects.com/product/redrum-v2
-2. IdiotBox Effects Redrum Distortion V2 *NEW* (Overlook Hotel Carpet Graphic) - 742377662824: https://www.jacksguitarcheology.com/shop/c/p/IdiotBox-Effects-Redrum-V2-NEW-2026---Black-x75636782.htm
-3. IdiotBox Effects Redrum V2 - Reverb: https://reverb.com/item/94224262-idiotbox-effects-redrum-v2
-4. IdiotBox Effects Redrum v2 Dimensions, Specs & Details: https://www.stompboxgarden.com/gear/pedal/2839/idiotbox-effects-redrum-v2
-5. IdiotBox Effects Redrum V2 (2023 - Black) - lasonemusic.com: https://www.lasonemusic.com/product/idiotbox-effects-redrum-v2-2023-black/
-6. IdiotBox Effects REDRUM V2 - Capture Legendary British Studio Quality ...: https://www.abbeyroadgear.com/product/idiotbox-effects-redrum-v241573/
-7. IDIOTBOX EFFECTS Redrum V2 | Peerless Music: https://www.peerlessmusic.com.au/product/idiotbox-effects-redrum-v2/
+1. IdiotBox Effects - REDRUM V2: https://www.idiotboxeffects.com/product/redrum-v2
+2. Reverb - REDRUM V2: https://reverb.com/item/94224262-idiotbox-effects-redrum-v2
+3. Stompboxgarden - REDRUM V2: https://www.stompboxgarden.com/gear/pedal/2839/idiotbox-effects-redrum-v2
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.
