@@ -44,6 +44,8 @@ function sleep(ms){ return new Promise(resolve => setTimeout(resolve, ms)); }
       const photos=[document.querySelector('#photoBox')].filter(Boolean);
       const image=photo?.querySelector('.photoImage');
       const fallback=photo?.querySelector('.photoFallback');
+      const fallbackStyle=fallback ? getComputedStyle(fallback) : null;
+      const fallbackVisible=!!fallback && !fallback.hidden && fallbackStyle?.display !== 'none' && fallbackStyle?.visibility !== 'hidden';
       const rect=photo?.getBoundingClientRect();
       const main=document.querySelector('#mainContent');
       const board=document.querySelector('.boardSurface');
@@ -66,6 +68,7 @@ function sleep(ms){ return new Promise(resolve => setTimeout(resolve, ms)); }
         imageLoaded:!!image && image.complete && image.naturalWidth>0,
         imageSrc:image?.getAttribute('src')||'',
         fallbackCount:fallback?1:0,
+        fallbackVisible,
         fallbackText:(fallback?.textContent||'').trim(),
         headerHeight:headerRect?.height||0,
         headerToMainGap:mainRect && headerRect ? Math.max(0,mainRect.top-(headerRect.bottom)) : 0,
@@ -82,7 +85,7 @@ function sleep(ms){ return new Promise(resolve => setTimeout(resolve, ms)); }
     if(result.researchLength<=40) problems.push('Pedal Info unexpectedly short');
     if(result.photoCount!==1 || result.photoBoxCount!==1) problems.push('unexpected primary photo container count');
     if(result.photoHeight>600) problems.push('primary photo container oversized');
-    if(result.fallbackCount===1 && result.photoHeight>220) problems.push('no-photo fallback reserves excessive vertical space');
+    if(result.fallbackVisible && result.photoHeight>220) problems.push('no-photo fallback reserves excessive vertical space');
     if(result.headerToMainGap>48) problems.push('excessive gap between detail header and main content');
     if(result.pageMainTopGap>2) problems.push('unexpected top gap before detail record');
     if(result.firstContentTopGap>2) problems.push('unexpected top gap inside detail content');
