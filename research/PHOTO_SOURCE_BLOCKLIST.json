@@ -184,24 +184,6 @@
     },
     {
       "type": "exact_url",
-      "pattern": "https://files.effectsdatabase.com/gear/thumbs/darkglass_alphaomega_001.jpg",
-      "reason": "Effects Database Alpha-Omega image reused for the distinct Alpha-Omega Photon model.",
-      "severity": "hard_block"
-    },
-    {
-      "type": "exact_url",
-      "pattern": "https://files.effectsdatabase.com/gear/thumbs/darkglass_microtubes-vintage_001.jpg",
-      "reason": "Effects Database Microtubes Vintage image reused for the distinct Vintage Deluxe model.",
-      "severity": "hard_block"
-    },
-    {
-      "type": "exact_url",
-      "pattern": "https://files.effectsdatabase.com/gear/thumbs/darkglass_microtubes-x_001.jpg",
-      "reason": "Effects Database Microtubes X image reused for the distinct X Ultra model.",
-      "severity": "hard_block"
-    },
-    {
-      "type": "exact_url",
       "pattern": "https://www.bashsmusic.com.au/wp-content/uploads/VOX-PFINDER10RD_3-1000x717.webp",
       "reason": "VOX Pathfinder 10 amplifier image incorrectly reused as multiple pedal photos.",
       "severity": "hard_block"
@@ -250,12 +232,6 @@
     },
     {
       "type": "exact_url",
-      "pattern": "https://cdn.rockboard.de/common/image_ef2a3a99-6890-4731-a410-3bb001acc4a9.webp",
-      "reason": "RockBoard image reused across distinct Pete Cornish P-1 catalog identities; use exact manufacturer imagery instead.",
-      "severity": "hard_block"
-    },
-    {
-      "type": "exact_url",
       "pattern": "https://www.bsriaudio.com/images/the-pasture/BSRI+Logo.png",
       "reason": "Baltimore Sonic Research Institute logo artwork, not the FZZ pedal photograph.",
       "severity": "hard_block"
@@ -298,20 +274,8 @@
     },
     {
       "type": "exact_url",
-      "pattern": "https://assets.rbl.ms/62183840/origin.png",
-      "reason": "Article image used for an Audio Surplus effects roundup; filename context identifies the separate O.K. Doomer rather than Burden.",
-      "severity": "hard_block"
-    },
-    {
-      "type": "exact_url",
       "pattern": "https://www.blackhawkamplifiers.com/wp-content/uploads/2021/03/windhand-fuzz.jpg",
       "reason": "Windhand LBM Fuzz image, not the separate Blackhawk Ramshead Fuzz model.",
-      "severity": "hard_block"
-    },
-    {
-      "type": "exact_url",
-      "pattern": "https://assets.bigcartel.com/product_images/22cd516c-f46a-44c4-805e-4066de41deeb/uruk-hai-parallel-mkii.jpg?auto=format&fit=max&h=1200&w=1200",
-      "reason": "Blackhawk Uruk-Hai MKII image, not the separate Valkyrie Drive model.",
       "severity": "hard_block"
     },
     {
@@ -328,8 +292,8 @@
     },
     {
       "type": "exact_url",
-      "pattern": "https://fortinamps.com/wp-content/uploads/2024/08/NATAS_header.jpg",
-      "reason": "Fortin NATAS product-page header artwork, not a separately verified pedal photograph for the NATAS Distortion record.",
+      "pattern": "https://assets.rbl.ms/npdy_sotb_audio-surplus-effects-o-k-doomer-v0-389qssoc66sc1.jpg",
+      "reason": "Article image whose filename identifies the separate Audio Surplus O.K. Doomer, not the Burden model.",
       "severity": "hard_block"
     }
   ]
