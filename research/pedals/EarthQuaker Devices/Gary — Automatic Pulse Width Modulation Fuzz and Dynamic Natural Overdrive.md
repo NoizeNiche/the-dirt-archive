@@ -32,7 +32,7 @@ Gary started as a simple request to create a compact version of the now disconti
 The result is a dynamic and destructive pulse width modulated fuzz paired with a natural-sounding op-amp overdrive.
 
 ## Sources checked
-1. Gary Automatic Pulse Width Modulation Fuzz and Dynamic Natural Overdrive &mdash; EarthQuaker Devices: https://www.earthquakerdevices.com/gary
+1. Gary Automatic Pulse Width Modulation Fuzz and Dynamic Natural Overdrive — EarthQuaker Devices: https://www.earthquakerdevices.com/gary
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

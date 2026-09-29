@@ -30,7 +30,7 @@ Maxon's Fuzz Elements Air (FA10) is cataloged as a fuzz pedal.
 Maxon Fuzz Elements Air (FA10) – Godlyke, Inc.
 
 ## Sources checked
-1. Maxon Fuzz Elements Air (FA10) &ndash; Godlyke, Inc.: https://maxonfx.com/products/fuzz-elements-series-guitar-effects-pedals-air-fa10
+1. Maxon Fuzz Elements Air (FA10) – Godlyke, Inc.: https://maxonfx.com/products/fuzz-elements-series-guitar-effects-pedals-air-fa10
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

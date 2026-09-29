@@ -32,7 +32,6 @@ JAM Pedals's Red Muck mk.2 is cataloged as a distortion / overdrive pedal.
 ## Sound
 JAM pedals Red Muck mk.2 Fuzz/Distortion – United States Served with love!
 Fuzz $230 Compare 1 Wampler Golden Jubilee Overdrive/Dist.
-$229 Compare 8 JAM pedals LucyDreamer Bass Overdrive $239 Compare 4 JAM pedals LucyDreamer Overdrive $220 Compare <div class="fx-product-box__image-wrapper fx-background-color--neut
 
 ## Sources checked
 1. JAM Pedals Red Muck Mk.2 — Fuzz Pedal | Equipboard: https://equipboard.com/items/jam-pedasl-red-muck-mk-2

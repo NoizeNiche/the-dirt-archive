@@ -34,7 +34,7 @@ Full Frequency Overdrive by Mid-Fi Electronics
 ## Sources checked
 1. Mid-Fi Electronics ::: Full Frequency Overdrive: https://www.midfielectronics.com/full-frequency-overdrive
 2. Mid-Fi Electronics FULL FREQUENCY OVERDRIVE - Reverb: https://reverb.com/item/97421445-mid-fi-electronics-full-frequency-overdrive
-3. Mid-Fi Electronics Full Frequency Overdrive Pedal &ndash; DeathCloud: https://deathcloud.com/products/mid-fi-electronics-full-frequency-overdrive
+3. Mid-Fi Electronics Full Frequency Overdrive Pedal – DeathCloud: https://deathcloud.com/products/mid-fi-electronics-full-frequency-overdrive
 4. Mid-Fi Electronics Overdrive | Effects Database: https://www.effectsdatabase.com/model/midfi/overdrive
 5. Full Frequency Overdrive by Mid-Fi Electronics | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/Mid-Fi-Electronics/Full-Frequency-Overdrive/543959997/
 6. Mid-Fi Electronics FULL FREQUENCY OVERDRIVE - TC楽器 - TCGAKKI: https://tcgakki.com/en/products/mid-fi-electronics-full-frequency-overdrive

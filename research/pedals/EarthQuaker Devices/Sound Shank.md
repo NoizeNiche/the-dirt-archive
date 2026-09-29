@@ -32,7 +32,7 @@ It has been updated for a wider gain range, negative ground for the use of a sta
 Loads of gain textures on tap through the use of the Sustain control.
 
 ## Sources checked
-1. Sound Shank &mdash; EarthQuaker Devices: https://www.earthquakerdevices.com/sound-shank
+1. Sound Shank — EarthQuaker Devices: https://www.earthquakerdevices.com/sound-shank
 2. EarthQuaker Devices Sound Shank — Fuzz Pedal | Equipboard: https://equipboard.com/items/earthquaker-devices-sound-shank
 3. EarthQuaker Devices Sound Shank - Reverb: https://reverb.com/p/earthquaker-devices-sound-shank
 4. EarthQuaker Devices Sound Shank | Effects Database: https://www.effectsdatabase.com/model/earthquaker/soundshank

@@ -33,7 +33,7 @@ When it comes to his distortion, his weapon of choice since 2010 has been The Ta
 A Tall Font Russian , no mods needed, with a foot-switch that adds an extra gain stage when things need to go, “To eleven”, in the words of Nigel Tufnel.
 
 ## Sources checked
-1. Elephant Skin &mdash; Wren and Cuff: https://www.wrenandcuff.com/products/elephant-skin
+1. Elephant Skin — Wren and Cuff: https://www.wrenandcuff.com/products/elephant-skin
 2. Wren and Cuff Elephant Skin — Fuzz Pedal | Equipboard: https://equipboard.com/items/wren-and-cuff-elephant-skin
 3. Wren and Cuff Elephant Skin: https://austinguitarhouse.com/elephant-skin/
 4. Wren and Cuff Elephant Skin Troy Sanders Signature Fuzz: https://reverb.com/p/wren-and-cuff-elephant-skin-troy-sanders-signature-fuzz

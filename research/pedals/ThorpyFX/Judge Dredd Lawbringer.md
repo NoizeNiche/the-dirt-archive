@@ -28,7 +28,6 @@ ThorpyFX's Judge Dredd Lawbringer is cataloged as an overdrive pedal.
 - **Exact part:** Unknown.
 
 ## Sound
-Overdrive $259.00 $259.00 $0.00 Unit price / per Shipping calculated at checkout.
 Overdrive Increase quantity for JUDGE DREDD LAWBRINGER
 Overdrive Add to cart Description "I AM THE LAW" The Lawbringer overdrive aims to place Law above all else in line with Judge Dredds singular uncompromising attitude.
 

@@ -30,7 +30,7 @@ The 1484 - Twin Twelve Pedal is a named Jackson Audio product based around the v
 The verified evidence packet did not contain enough pedal-specific sonic description to make a more detailed sound summary without adding unsupported interpretation.
 
 ## Sources checked
-1. Pedals &ndash; Jackson Audio: https://jackson.audio/collections/pedals
+1. Pedals – Jackson Audio: https://jackson.audio/collections/pedals
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

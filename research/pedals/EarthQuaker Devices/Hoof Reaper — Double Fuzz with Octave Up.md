@@ -32,7 +32,7 @@ Fuzz: Controls the sustain and nature 7.
 The Hoof is a no-fuss, easy-to-use device capable of sounds from warm, gritty overdrive to a huge, sustaining fuzz.
 
 ## Sources checked
-1. Hoof Reaper Double Fuzz with Octave Up &mdash; EarthQuaker Devices: https://www.earthquakerdevices.com/hoof-reaper
+1. Hoof Reaper Double Fuzz with Octave Up — EarthQuaker Devices: https://www.earthquakerdevices.com/hoof-reaper
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

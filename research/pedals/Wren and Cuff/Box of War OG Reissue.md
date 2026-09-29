@@ -27,7 +27,6 @@ The Box of War is a true recreation of the famous “Civil War” fuzz pedals fr
 - **Exact part:** Unknown.
 
 ## Sound
-Home Pedals All Pedals Muffs Distortion/Fuzz Boost and Compression Info Shipping Warranty Repairs Artists About Us FAQ's Gift Cards Apparel Dealers Contact B-Stock $299.99 The famed “Civil War” muffer, recreated True hard-wire bypass 9V battery or 2.1mm adapter Super heavy duty folded steel enclosure Made in the USA Lifetime warranty Add To Cart We’ve brought it back!
 The Box of War is a true recreation of the famous “Civil War” fuzz pedals from the 90’s.
 The tone is in the details we like to say… Rest assured we have spared nothing in researching this rare, much-loved, but cheaply made famous fuzzer.
 

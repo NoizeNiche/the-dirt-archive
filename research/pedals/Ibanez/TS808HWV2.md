@@ -34,9 +34,9 @@ After numerous prototypes, we concluded the JRC NJM4558 op-amp was essential to 
 
 ## Sources checked
 1. IBANEZ TS808HWV2 OWNER'S MANUAL Pdf Download | ManualsLib: https://www.manualslib.com/manual/3647065/Ibanez-Ts808hwv2.html
-2. Ibanez TS808HWV2 Tube Screamer Overdrive Pro - Owner&#x27;s Manual ...: https://manuals.plus/m/4325c147a39e4ce2d1e277b1a449cbeadc1bbd29e093e2f84f70d6e4616779f8
+2. Ibanez TS808HWV2 Tube Screamer Overdrive Pro - Owner's Manual ...: https://manuals.plus/m/4325c147a39e4ce2d1e277b1a449cbeadc1bbd29e093e2f84f70d6e4616779f8
 3. TS808HWV2 | TUBE SCREAMER | EFFECTS | PRODUCTS | Ibanez guitars | Europe: https://www.ibanez.com/eu/products/detail/ts808hwv2_01.html
-4. Ibanez TS808HWV2 Overdrive Effects Pedal Sparkle Green Owner&#x27;s Manual: https://device.report/manual/17966866
+4. Ibanez TS808HWV2 Overdrive Effects Pedal Sparkle Green Owner's Manual: https://device.report/manual/17966866
 5. Ibanez TS808HWv2 Dimensions, Specs Details: https://www.stompboxgarden.com/gear/pedal/16596/ibanez-ts808hwv2
 6. Ibanez launches $300 hand-wired TS808HWV2 Tube Screamer | Guitar World: https://www.guitarworld.com/gear/guitar-pedals/ibanez-ts808hwv2
 

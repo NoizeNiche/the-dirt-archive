@@ -50,4 +50,4 @@ It combines distortion with the adaptive noise gate technology found on our Dyna
 The gate detector is placed before the distortion circuit for precise signal control.
 
 ### Sources checked in this pass
-1. Particle Drive &mdash; Citadel Electronics: https://www.citadel-electronics.com/products/p/particledrive
+1. Particle Drive — Citadel Electronics: https://www.citadel-electronics.com/products/p/particledrive

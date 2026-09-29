@@ -33,7 +33,7 @@ Collaborations 0xEAE Boost A razor-sharp boost/overdrive with a massive output.
 0xEAE Fuzz Dangerous op amp fuzz with a blendable analog octave circuit.
 
 ## Sources checked
-1. Legacy Products &mdash; Electronic Audio Experiments: https://www.electronicaudioexperiments.com/legacy
+1. Legacy Products — Electronic Audio Experiments: https://www.electronicaudioexperiments.com/legacy
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

@@ -31,7 +31,7 @@ Old Blood Noise Endeavors's Haunt Fuzz w/ Clickless Switching is cataloged as a 
 The verified evidence packet did not contain enough pedal-specific sonic description to make a more detailed sound summary without adding unsupported interpretation.
 
 ## Sources checked
-1. Old Blood Noise Endeavors &mdash; home: https://oldbloodnoise.com/
+1. Old Blood Noise Endeavors — home: https://oldbloodnoise.com/
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

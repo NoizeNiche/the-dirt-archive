@@ -28,15 +28,14 @@ Beam Splitter V2 has: Buffered trails or true bypass switching Presets Expressio
 - The archive records only the component information explicitly present in these sources.
 
 ## Sound
-Old Blood Noise Endeavors &mdash; Beam Splitter V2 Skip to Content Open Menu Close Menu home pedals all pedals new alternative colorways delay reverb overdrive, distortion fuzz modulation expression filter reverse stereo xlr vocal utility replacement knobs retired cables / adapters merchandise accessories candles gift card hats mugs glasses shirts sweatshirts custom shop dealers manuals firmware podcast contact Login Account 0 0 Open Menu Close Menu home pedals all pedals new alternative colorways delay reverb overdrive, distortion fuzz modulation expression filter reverse stereo xlr vocal utility replacement knobs retired cables / adapters merchandise accessories candles gift card hats mugs glasses shirts sweatshirts custom shop dealers manuals firmware podcast contact Login Account 0 0 home Folder: pedals Back all pedals new alternative colorways delay reverb overdrive, distortion fuzz modulation expression filter reverse stereo xlr vocal utility replacement knobs retired cables / adapters Folder: merchandise Back accessories candles gift card hats mugs glasses shirts sweatshirts custom shop dealers manuals firmware podcast contact Login Account Beam Splitter takes one signal and makes three copies of it, taking three different overdrive voices and sending two of them through individual delay lines.
 It is specifically our way of creating a huge sound out of a regular one.
 Beam Splitter V2 $379.00 Beam Splitter takes one signal and makes three copies of it, taking three different overdrive voices and sending two of them through individual delay lines.
 
 ## Sources checked
-1. Old Blood Noise Endeavors &mdash; Beam Splitter V2: https://oldbloodnoise.com/beamsplitter
+1. Old Blood Noise Endeavors — Beam Splitter V2: https://oldbloodnoise.com/beamsplitter
 2. Old Blood Noise Endeavors Beam Splitter V2 - Reverb: https://reverb.com/p/old-blood-noise-endeavors-beam-splitter-v2
 3. Old Blood Noise Endeavors Beam Splitter V2 Cool – United States: https://www.thomannmusic.com/old_blood_noise_endeavors_beam_splitter_v2_cool.htm
-4. Old Blood Noise Endeavors Beam Splitter V2 Advanced &quot;Trereo&quot; Distortion Pedal - Shadow | Guitar Center: https://www.guitarcenter.com/Old-Blood-Noise-Endeavors/Beam-Splitter-V2-Advanced-Trereo-Distortion-Pedal-Shadow-1500000491323.gc
+4. Old Blood Noise Endeavors Beam Splitter V2 Advanced "Trereo" Distortion Pedal - Shadow | Guitar Center: https://www.guitarcenter.com/Old-Blood-Noise-Endeavors/Beam-Splitter-V2-Advanced-Trereo-Distortion-Pedal-Shadow-1500000491323.gc
 5. Old Blood Noise Endeavors Beam Splitter V2 - Equipboard: https://equipboard.com/items/old-blood-noise-endeavors-beam-splitter-v2
 
 ## Photo

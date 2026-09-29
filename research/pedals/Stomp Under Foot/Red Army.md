@@ -7,7 +7,6 @@
 - **Identity:** Stomp Under Foot's Red Army.
 
 ## What this pedal is
-Checkout Close Your bag is empty Browse our collection of handmade fuzz, overdrive, and distortion pedals.
 
 ## Colorways
 - Sonically, the Red Army stands apart from other Russian Big Muffs.
@@ -30,7 +29,6 @@ Checkout Close Your bag is empty Browse our collection of handmade fuzz, overdri
 
 ## Sound
 It offers slightly less low end than the Civil War that followed and delivers a grittier, more aggressive fuzz that is closer in texture to the later Green Russian, but with its own raw character.
-Checkout Close Your bag is empty Browse our collection of handmade fuzz, overdrive, and distortion pedals.
 Service with a Smile Stomp Under Foot Red Army Vintage Mini Fuzz Effect Pedal $279.99 SKU: 174008 Quantity Minus Plus The rare Mike Matthews Red Army Overdrive was the first fuzz pedal produced under the Sovtek name in Russia, circa 1990.
 
 ## Sources checked

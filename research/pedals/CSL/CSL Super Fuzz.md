@@ -33,7 +33,7 @@ The verified evidence packet did not contain enough pedal-specific sonic descrip
 ## Sources checked
 1. CSL Super Fuzz - What To Know Where To Buy | Equipboard: https://equipboard.com/items/csl-super-fuzz
 2. CSL Super Fuzz - Effects Database: https://www.effectsdatabase.com/model/csl/superfuzz
-3. CSL Super Fuzz - MKIV Tone Bender (Like Ed O&#x27;Brien&#x27;s) - Reverb: https://reverb.com/item/28172100-csl-super-fuzz-mkiv-tone-bender-like-ed-o-brien-s
+3. CSL Super Fuzz - MKIV Tone Bender (Like Ed O'Brien's) - Reverb: https://reverb.com/item/28172100-csl-super-fuzz-mkiv-tone-bender-like-ed-o-brien-s
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

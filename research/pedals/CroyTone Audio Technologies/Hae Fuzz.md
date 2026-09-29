@@ -30,7 +30,7 @@ CroyTone Audio Technologies's Hae Fuzz is cataloged as a fuzz pedal.
 The verified evidence packet did not contain enough pedal-specific sonic description to make a more detailed sound summary without adding unsupported interpretation.
 
 ## Sources checked
-1. Hae Fuzz &ndash; Croy Tone Audio Technologies: https://croytoneaudio.com/en/products/hae-fuzz
+1. Hae Fuzz – Croy Tone Audio Technologies: https://croytoneaudio.com/en/products/hae-fuzz
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

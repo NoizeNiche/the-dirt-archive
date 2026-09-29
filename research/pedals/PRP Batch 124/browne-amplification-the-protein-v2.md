@@ -51,4 +51,4 @@ Born from years of experience with inconsistent backline amps, the Protein V2 wa
 
 ### Sources checked in this pass
 1. Browne Amplification The Protein v2 - Dual Overdrive: https://www.effectsdatabase.com/model/browne/protein/v2
-2. Browne Amplification Protein Dual Overdrive V2 &ndash; The Vibrato Bar: https://thevibratobar.com/products/browne-amplification-protein-dual-overdrive-v2
+2. Browne Amplification Protein Dual Overdrive V2 – The Vibrato Bar: https://thevibratobar.com/products/browne-amplification-protein-dual-overdrive-v2

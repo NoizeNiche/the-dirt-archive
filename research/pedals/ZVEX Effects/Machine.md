@@ -7,7 +7,7 @@
 - **Identity:** ZVEX Effects's Machine.
 
 ## What this pedal is
-&larr; Back to Custom Pedals Machine — 51-60 sold out Machine — 51-60 $449.00 This is a one-of-a-kind hand painted pedal by Lisa McGrath (LJM).
+← Back to Custom Pedals Machine — 51-60 sold out Machine — 51-60 $449.00 This is a one-of-a-kind hand painted pedal by Lisa McGrath (LJM).
 
 ## Colorways
 - If you want custom artwork on your pedal, see the custom requests page .
@@ -28,11 +28,11 @@
 
 ## Sound
 Add To Cart Creates a noisy oscillation of triple-frequency triangle waves that will cut through any amount of distortion in any pedal or amp with a sweeping, industrial grind, making it a truly unique fuzz.
-Take the old conventions: of in on the right, out on the left, battery connected when input plug is in place, use this pedal before that one for a certain sound, reverse for another, positive ground, negative ground, pedal switching systems&#8230; we&#8217;re living in a &#8216;been there, done that&#8217; pedal world.
-Most every guitarist is familiar with the limitations of putting one fuzz or distortion into another&#8230; losing the detail but perhaps gaining that fun &#8220;shutdown&#8221; effect as one overloads the other, and the &#8220;where&#8217;s my fuzz?&#8221; experience of playing a fuzz into a really dirty amp.
+Take the old conventions: of in on the right, out on the left, battery connected when input plug is in place, use this pedal before that one for a certain sound, reverse for another, positive ground, negative ground, pedal switching systems… we’re living in a ‘been there, done that’ pedal world.
+Most every guitarist is familiar with the limitations of putting one fuzz or distortion into another… losing the detail but perhaps gaining that fun “shutdown” effect as one overloads the other, and the “where’s my fuzz?” experience of playing a fuzz into a really dirty amp.
 
 ## Sources checked
-1. Machine &mdash; 51-60 &mdash; ZVEX Effects: https://www.zvex.com/custom-store/machine-51-60-guitar-effects-pedal
+1. Machine — 51-60 — ZVEX Effects: https://www.zvex.com/custom-store/machine-51-60-guitar-effects-pedal
 2. ZVEX EFFECTS Machine - Premium Percussion Instruments Drums Gear: https://www.snarebay.com/product/zvex-effects-machine/
 3. ZVEX Effects Machine - Unique Hand Painted (1 of 1): https://www.electroguitarly.com/product/zvex-effects-machine-unique-hand-painted-1-of-1/
 4. Amazon.com: ZVEX EFFECTS Machine : Musical Instruments: https://www.amazon.com/ZVEX-Effects-EFFECTS-Machine/dp/B00XK89AXM

@@ -33,7 +33,7 @@ But Claudio’s response was, “Can we keep all the options?” He loved the ve
 The Anna Compact is primarily an overdrive pedal.
 
 ## Sources checked
-1. Anna Compact &mdash; Wren and Cuff: https://www.wrenandcuff.com/anna-compact
+1. Anna Compact — Wren and Cuff: https://www.wrenandcuff.com/anna-compact
 2. Wren and Cuff Anna Compact Claudio Sanchez Signature | Reverb: https://reverb.com/p/wren-and-cuff-anna-compact-claudio-sanchez-signature-overdrive-slash-fuzz
 3. Used Wren And Cuff ANNA COMPACT Effect Pedal - Guitar Center: https://www.guitarcenter.com/Used/Wren-And-Cuff/Used-Wren-And-Cuff-ANNA-COMPACT-Effect-Pedal-122838094.gc
 4. Wren And Cuff Used Wren And Cuff ANNA COMPACT Effect Pedal | Musician's Friend: https://www.musiciansfriend.com/amplifiers-effects/used-wren-and-cuff-used-wren-and-cuff-anna-compact-effect-pedal/122838094

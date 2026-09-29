@@ -36,7 +36,7 @@ The Westwood's Drive control sets the level of gain for a near-clean boost at lo
 ## Sources checked
 1. EARTHQUAKER DEVICES WESTWOOD MANUAL Pdf Download | ManualsLib: https://www.manualslib.com/manual/3809382/Earthquaker-Devices-Westwood.html
 2. Earthquaker Devices EarthQuaker Devices Westwood ... - ManualShelf: https://www.manualshelf.com/manual/earthquaker-devices/westwood/user-guide-english.html
-3. Westwood Translucent Drive Manipulator &mdash; EarthQuaker Devices: https://www.earthquakerdevices.com/westwood
+3. Westwood Translucent Drive Manipulator — EarthQuaker Devices: https://www.earthquakerdevices.com/westwood
 4. EarthQuaker Devices Westwood — Overdrive Pedal | Equipboard: https://equipboard.com/items/earthquaker-devices-westwood-translucent-drive-manipulator
 5. Earthquaker Devices Westwood Distortion & Overdrive User Guide: https://manualzz.com/doc/html/52940508/earthquaker-devices-westwood-distortion-and-overdrive-user-...
 6. EarthQuaker Devices Westwood Overdrive Effects Pedal - Reverb: https://reverb.com/item/96942667-earthquaker-devices-westwood-overdrive-effects-pedal

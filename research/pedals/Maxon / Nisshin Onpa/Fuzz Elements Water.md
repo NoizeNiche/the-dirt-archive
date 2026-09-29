@@ -30,7 +30,7 @@ Maxon / Nisshin Onpa's Fuzz Elements Water is cataloged as a fuzz pedal.
 The Dirt Archive currently catalogs **Fuzz Elements Water** by **Maxon / Nisshin Onpa** as a **Fuzz** pedal.
 
 ## Sources checked
-1. Maxon Guitar Effects Pedals : Buy Online : Reviews : Official Website &ndash; Godlyke, Inc.: https://maxonfx.com/
+1. Maxon Guitar Effects Pedals : Buy Online : Reviews : Official Website – Godlyke, Inc.: https://maxonfx.com/
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

@@ -35,7 +35,7 @@ Explore LCFR: The Second Coming More diabolical than ever Explore Night of the L
 1. Deathscream by Kreator | KHDK Electronics: https://www.khdkelectronics.com/products/detail/deathscream-by-kreator/
 2. KHDK Electronics Kreator Deathscream Guitar Effect: https://www.purevinylaudio.com/product/khdk-electronics-kreator-deathscream-guitar-effect/
 3. KHDK Electronics Deathscream by Kreator - Reverb: https://reverb.com/item/94490612-khdk-electronics-deathscream-by-kreator
-4. NEW KHDK Electronics Deathscream by Kreator &ndash; Northerner Guitars: https://northernerguitars.com/products/new-khdk-electronics-deathscream-by-kreator
+4. NEW KHDK Electronics Deathscream by Kreator – Northerner Guitars: https://northernerguitars.com/products/new-khdk-electronics-deathscream-by-kreator
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

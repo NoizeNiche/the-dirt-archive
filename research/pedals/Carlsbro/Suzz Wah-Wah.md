@@ -30,7 +30,7 @@ Carlsbro's Suzz Wah-Wah is cataloged as a fuzz pedal.
 The series covers a wide spectrum of effects: Distortion and Dynamics : Suzz , Sustain Modulation : Phase 1 , Phase 2 , Chorus , Flanger Time-Based Effects : Echo , A.D.T.
 
 ## Sources checked
-1. Carlsbro &quot;Alu&quot; series | Effects Database: https://www.effectsdatabase.com/model/carlsbro/alu
+1. Carlsbro "Alu" series | Effects Database: https://www.effectsdatabase.com/model/carlsbro/alu
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

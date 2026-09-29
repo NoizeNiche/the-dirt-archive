@@ -27,7 +27,6 @@ ThorpyFX's The KUDU — Overdrive is cataloged as a distortion / fuzz / overdriv
 - **Exact part:** Unknown.
 
 ## Sound
-Overdrive $237.00 $237.00 Unit price / per Shipping calculated at checkout.
 Overdrive Increase quantity for The KUDU
 Overdrive Add to cart Description KUDU is the drive enhancer you never knew you needed.
 

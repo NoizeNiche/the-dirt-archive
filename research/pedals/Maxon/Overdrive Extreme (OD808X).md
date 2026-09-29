@@ -31,9 +31,9 @@ Maxon Overdrive Extreme (OD808X) – Godlyke, Inc.
 OVERDRIVE EXTREME (OD808X) – Godlyke Distributing, Inc.
 
 ## Sources checked
-1. Maxon Overdrive Extreme (OD808X) &ndash; Godlyke, Inc.: https://maxonfx.com/products/maxon-compact-series-guitar-effects-pedals-overdrive-extreme-od808x
+1. Maxon Overdrive Extreme (OD808X) – Godlyke, Inc.: https://maxonfx.com/products/maxon-compact-series-guitar-effects-pedals-overdrive-extreme-od808x
 2. MAXON OVERDRIVE EXTREME (OD808X) - soundhavenpro.com: https://www.soundhavenpro.com/product/maxon-overdrive-extreme-od808x/
-3. OVERDRIVE EXTREME (OD808X) &ndash; Godlyke Distributing, Inc.: https://godlyke.com/products/maxon-overdrive-extreme-od808x
+3. OVERDRIVE EXTREME (OD808X) – Godlyke Distributing, Inc.: https://godlyke.com/products/maxon-overdrive-extreme-od808x
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

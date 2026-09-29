@@ -30,7 +30,7 @@ Mojo Hand FX's Rounder is cataloged as a fuzz pedal.
 The verified evidence packet did not contain enough pedal-specific sonic description to make a more detailed sound summary without adding unsupported interpretation.
 
 ## Sources checked
-1. Mojo Hand FX Rounder Fuzz &ndash; Chicago Music Exchange: https://www.chicagomusicexchange.com/products/mojo-hand-fx-rounder-fuzz-15326
+1. Mojo Hand FX Rounder Fuzz – Chicago Music Exchange: https://www.chicagomusicexchange.com/products/mojo-hand-fx-rounder-fuzz-15326
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

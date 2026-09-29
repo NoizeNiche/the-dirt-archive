@@ -27,7 +27,6 @@ Wren and Cuff's Box of War Small Foot is cataloged as a Distortion / Fuzz pedal.
 - **Exact part:** Unknown.
 
 ## Sound
-Home Pedals All Pedals Muffs Distortion/Fuzz Boost and Compression Info Shipping Warranty Repairs Artists About Us FAQ's Gift Cards Apparel Dealers Contact B-Stock sold out $199.99 RUSSIAN MUFF DISTORTION METICULOUSLY RECREATED True hard-wire bypass 9V battery or 2.1mm adapter "Small Foot" Enclosure Made in the USA Lifetime warranty Add To Cart Read the Review!
 The tone is in the details I like to say… Rest assured we have spared nothing in researching this rare, much-loved, but cheaply made BM pi.
 Very closely related to the Tall Font BM’s, the Civil War’s have a bit darker and a bit fuzzier tone.
 

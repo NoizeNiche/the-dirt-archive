@@ -7,7 +7,6 @@
 - **Identity:** Stomp Under Foot's Pumpkin Pi.
 
 ## What this pedal is
-Checkout Close Your bag is empty Browse our collection of handmade fuzz, overdrive, and distortion pedals.
 
 ## Colorways
 - No specific factory colorway information was established in the verified evidence packet.
@@ -30,7 +29,6 @@ Checkout Close Your bag is empty Browse our collection of handmade fuzz, overdri
 ## Sound
 Its velcro-like fuzz is perfect for thick, chunky chords and searing leads.
 Dialing back the gain gives you added control, revealing a warmer, sweeter tone for more nuanced playing.
-Checkout Close Your bag is empty Browse our collection of handmade fuzz, overdrive, and distortion pedals.
 
 ## Sources checked
 1. Pumpkin Pi – Stomp Under Foot: https://stompunderfoot.com/products/pumpkin-pi

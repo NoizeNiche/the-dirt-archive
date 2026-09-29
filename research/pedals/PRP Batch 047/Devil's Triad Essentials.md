@@ -30,7 +30,7 @@ All-Pedal's Devil's Triad Essentials is cataloged as an overdrive pedal.
 The verified evidence packet did not contain enough pedal-specific sonic description to make a more detailed sound summary without adding unsupported interpretation.
 
 ## Sources checked
-1. All-Pedal - Devil&#39;s Triad Essentials &ndash; LEP INTERNATIONAL: https://lep-international.jp/products/all-pedal-devils-triad-essentials
+1. All-Pedal - Devil's Triad Essentials – LEP INTERNATIONAL: https://lep-international.jp/products/all-pedal-devils-triad-essentials
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

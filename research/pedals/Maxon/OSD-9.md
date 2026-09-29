@@ -34,7 +34,7 @@ Maxon 9-Series OSD-9 Overdrive/Soft Distortion Pedal $ 99.50 $ 199.00 Review The
 
 ## Sources checked
 1. Maxon 9-Series OSD-9 Overdrive/Soft Distortion Pedal | Guitar Center: https://www.guitarcenter.com/Maxon/9-Series-OSD-9-Overdrive-Soft-Distortion-Pedal-1274115045728.gc
-2. OVERDRIVE-SOFT DISTORTION (OSD-9) &ndash; Godlyke, Inc.: https://maxonfx.com/products/overdrive-soft-distortion-osd-9
+2. OVERDRIVE-SOFT DISTORTION (OSD-9) – Godlyke, Inc.: https://maxonfx.com/products/overdrive-soft-distortion-osd-9
 3. Maxon 9-Series OSD-9 Overdrive/Soft Distortion Pedal - Versatile Instruments for Modern Musicians: https://www.soundquiver.com/product/maxon-9-series-osd-9-overdrive-soft-distortion-pedal/
 4. Maxon OSD-9 Overdrive Soft Distortion - Effects Database: https://www.effectsdatabase.com/model/maxon/9/osd9
 5. Maxon OSD-9 Overdrive Soft Distortion - tonebox.com: https://www.tonebox.com/pedal/maxon-osd-9-overdrive-soft-distortion

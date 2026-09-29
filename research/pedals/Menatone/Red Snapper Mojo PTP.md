@@ -36,7 +36,7 @@ Top Boost in a Can Wreck'T Fish Factory MenaWatt PiG The Dirty Blonde MINI Red S
 ## Sources checked
 1. Red Snapper Mojo PTP | menatone: https://www.menatone.com/red-snapper-mojo-ptp
 2. Menatone Red Snapper Mojo PTP Overdrive Pedal Custom top | Reverb: https://reverb.com/item/98803661-menatone-red-snapper-mojo-ptp-overdrive-pedal-custom-top-jacks-2025-red
-3. Menatone - Red Snapper Mojo PTP &ndash; LEP INTERNATIONAL: https://lep-international.jp/products/menatone-red-snapper-mojo-ptp
+3. Menatone - Red Snapper Mojo PTP – LEP INTERNATIONAL: https://lep-international.jp/products/menatone-red-snapper-mojo-ptp
 4. Menatone Red Snapper Mojo PTP edition hand wired With Quality ... - eBay: https://www.ebay.ca/itm/167956983842
 5. Menatone Red Snapper Mojo PTP（新品/送料無料）【楽器検索デジマート】: https://www.digimart.net/cat13/shop4773/DS10568789/
 

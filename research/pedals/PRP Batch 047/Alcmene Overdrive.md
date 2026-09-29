@@ -30,7 +30,7 @@ All-Pedal's Alcmene Overdrive is cataloged as an overdrive pedal.
 The verified evidence packet did not contain enough pedal-specific sonic description to make a more detailed sound summary without adding unsupported interpretation.
 
 ## Sources checked
-1. All-Pedal - Alcmene Overdrive &ndash; LEP INTERNATIONAL: https://lep-international.jp/products/all-pedal-alcmene-overdrive
+1. All-Pedal - Alcmene Overdrive – LEP INTERNATIONAL: https://lep-international.jp/products/all-pedal-alcmene-overdrive
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

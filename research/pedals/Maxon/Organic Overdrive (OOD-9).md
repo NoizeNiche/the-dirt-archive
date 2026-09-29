@@ -30,7 +30,7 @@ Maxon's Organic Overdrive (OOD-9) is cataloged as a distortion / overdrive pedal
 Maxon Organic Overdrive (OOD-9) – Godlyke, Inc.
 
 ## Sources checked
-1. Maxon Organic Overdrive (OOD-9) &ndash; Godlyke, Inc.: https://maxonfx.com/products/nine-series-guitar-effects-pedals-organic-overdrive-ood-9
+1. Maxon Organic Overdrive (OOD-9) – Godlyke, Inc.: https://maxonfx.com/products/nine-series-guitar-effects-pedals-organic-overdrive-ood-9
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

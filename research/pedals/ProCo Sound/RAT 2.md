@@ -34,7 +34,7 @@ The only thing that may confuse some players is that the typical tone control on
 
 ## Sources checked
 1. ProCo Sound RAT 2 - Distortion - Audiofanzine: https://en.audiofanzine.com/guitar-distortion-overdrive-fuzz/proco-sound/rat-2/
-2. ProCo RAT 2 &ndash; The #1 Best-Selling Distortion/Fuzz Pedal &ndash; cigilovic.com: https://cigilovic.com/gear-reviews/proco-rat-2-review/
+2. ProCo RAT 2 – The #1 Best-Selling Distortion/Fuzz Pedal – cigilovic.com: https://cigilovic.com/gear-reviews/proco-rat-2-review/
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

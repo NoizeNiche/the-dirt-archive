@@ -36,7 +36,7 @@ This mean little box combines the shaggy vintage tones of the La Machine Fuzz wi
 1. MXR® SUB MACHINE® FUZZ - Dunlop: https://www.jimdunlop.com/mxr-sub-machine-fuzz/
 2. MXR Sub Machine Fuzz Pedal Review: A Sonic Juggernaut for Modern Tone ...: https://sonicmetric.com/mxr-sub-machine-fuzz-pedal-review-a-sonic-juggernaut-for-modern-tone-chasers/
 3. MXR M225 Custom Shop Sub Machine Fuzz Pedal - Reverb: https://reverb.com/p/mxr-m225-sub-machine-fuzz
-4. MXR M225 Sub Machine Fuzz &ndash; Chicago Music Exchange: https://www.chicagomusicexchange.com/products/mxr-m225-sub-machine-fuzz-15519
+4. MXR M225 Sub Machine Fuzz – Chicago Music Exchange: https://www.chicagomusicexchange.com/products/mxr-m225-sub-machine-fuzz-15519
 5. MXR M225 Custom Shop Sub Machine Fuzz Pedal | Equipboard: https://equipboard.com/items/mxr-m225-custom-shop-sub-machine-fuzz-pedal
 6. User manual MXR SUB MACHINE FUZZ M225 (English - 2 pages): https://www.manua.ls/mxr/sub-machine-fuzz-m225/manual
 7. MXR Sub Machine Fuzz M225 Instruction Manual: https://manuals.plus/asin/B01ATRWRXG

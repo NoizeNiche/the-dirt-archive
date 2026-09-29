@@ -48,6 +48,6 @@ Measured THD at unity gain is 0.08% (20 Hz–20 kHz, 1 Vrms input), rising to 1.
 For bassists seeking organic grit without mud, compression, or sub-bass collapse, the Stardust V3 delivers a rare combination: touch-sensitive dynamics, harmonic richness, and surgical midrange articulation.
 
 ### Sources checked in this pass
-1. Stardust v3 &mdash; Crazy Tube Circuits: https://crazytubecircuits.com/stardust-v3
+1. Stardust v3 — Crazy Tube Circuits: https://crazytubecircuits.com/stardust-v3
 2. Crazy Tube Circuits Stardust V3: A Bassist’s Deep Dive into Tube-Driven Clarity and Dynamic Range | GearStrings: https://gearstrings.com/bass/crazy-tube-circuits-stardust-v3
 3. Crazy Tube Circuits Stardust V3 Review - Premier Guitar: https://www.premierguitar.com/gear/reviews/crazy-tube-circuits-stardust

@@ -33,7 +33,7 @@ You know, that epically huge and super saturated tone (some might call it big an
 
 ## Sources checked
 1. CHIEF DISRUPTOR – Fundamental Fuzz/Distortion | KMA Machines: https://kmamachines.com/machines/chief-disruptor/
-2. KMA Machines CHIEF DISRUPTOR &ndash; KMA Machines - Direct: https://shop.kmamachines.com/products/kma-machines-chief-disruptor
+2. KMA Machines CHIEF DISRUPTOR – KMA Machines - Direct: https://shop.kmamachines.com/products/kma-machines-chief-disruptor
 3. KMA Machines Chief Disruptor — Fuzz Pedal | Equipboard: https://equipboard.com/items/kma-machines-kma-audio-machines-chief-disrupter-fundamental-fuzz-distortion
 4. KMA Machines Chief Distuptor Fundamental Fuzz/Distortion - Cottonwood Music Emporium: https://www.cottonwoodmusicemporium.com/products/kma-machines-chief-distuptor
 5. Chief Disruptor by KMA Machines | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/KMA-Machines/Chief-Disruptor/68980923/

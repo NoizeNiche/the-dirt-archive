@@ -48,4 +48,3 @@ The fuzz is described as a constant fuzz stage with a Gain control and frequency
 - **Archive status:** **Exact model archived**
 - **Source:** Rich Tone Music second-hand listing for Adventure Audio Demogorgon.
 - **Image source page:** https://richtonemusic.co.uk/adventure-audio-demogorgon-2nd-hand/
-

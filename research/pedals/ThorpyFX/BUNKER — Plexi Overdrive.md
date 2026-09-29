@@ -28,7 +28,6 @@ ThorpyFX's BUNKER — Plexi Overdrive is cataloged as a distortion / fuzz / over
 - **Exact part:** Unknown.
 
 ## Sound
-Plexi Overdrive $237.00 $237.00 Unit price / per Shipping calculated at checkout.
 Plexi Overdrive Increase quantity for BUNKER
 Plexi Overdrive Add to cart Description The Bunker is a plexi style overdrive based around the original Lovetone Brown Source pedal.
 

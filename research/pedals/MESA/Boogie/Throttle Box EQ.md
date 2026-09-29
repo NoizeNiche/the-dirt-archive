@@ -37,7 +37,7 @@ Like the original, this expanded Throttle Box includes two Modes, but on this ve
 3. Mesa/Boogie Throttle Box EQ 5-Band Graphic EQ Pedal: https://equipboard.com/items/mesa-boogie-throttle-box-eq-5-band-graphic-eq
 4. Mesa/Boogie Throttle Box EQ review | MusicRadar: https://www.musicradar.com/reviews/guitars/mesa-boogie-throttle-box-eq-608955
 5. MESA/Boogie Throttle Box Equalizer Pedal Black | Guitar Center: https://www.guitarcenter.com/Mesa-Boogie/Throttle-Box-Equalizer-Pedal-Black-1500000347409.gc
-6. Mesa Boogie Throttle Box EQ &ndash; eastside music supply: https://eastsidemusicsupply.com/products/mesa-boogie-throttle-box-eq
+6. Mesa Boogie Throttle Box EQ – eastside music supply: https://eastsidemusicsupply.com/products/mesa-boogie-throttle-box-eq
 7. MESA/Boogie THROTTLE BOX EQ Owner's Manual | AI Chat | Manualzz: https://manualzz.com/doc/1892936/mesa-boogie-throttle-box-eq-owner-s-manual
 8. Throttle Box EQ | MESA/Boogie®: https://production.mesaboogie.com/pedals--related/drive-pedals/throttle-box-eq.html
 9. Mesa/Boogie Throttle Box EQ — Tone Guide | ToneStakr: https://tonestakr.com/gear/distortion/mesa-boogie-throttle-box-eq/

@@ -35,7 +35,7 @@ The Blue Collar is Menatone's other long-running overdrive, dating to around 199
 
 ## Sources checked
 1. Blue Collar PTP — Menatone Overdrive Pedal | PedalFilter | PedalFilter: https://pedalfilter.com/menatone/blue-collar-ptp
-2. Menatone - Custom Shop Blue Collar PTP &ndash; LEP INTERNATIONAL: https://lep-international.jp/products/menatoneblueptp
+2. Menatone - Custom Shop Blue Collar PTP – LEP INTERNATIONAL: https://lep-international.jp/products/menatoneblueptp
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

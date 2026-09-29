@@ -76,7 +76,7 @@ It uses a dual-triode tube in a modern pedalboard-sized enclosure and adds a thr
 **Gain / Drive:** amount of tube overdrive.
 
 ### Sources checked in this pass
-1. Venus &mdash; Crazy Tube Circuits: https://crazytubecircuits.com/venus
+1. Venus — Crazy Tube Circuits: https://crazytubecircuits.com/venus
 2. Crazy Tube Circuits Venus review – 2025’s must-have overdrive? | Guitar.com: https://guitar.com/reviews/effects-pedal/hands-on-crazy-tube-circuits-venus-review/
 3. Crazy Tube Circuits Venus review | Guitar World: https://www.guitarworld.com/gear/effects-pedals/crazy-tube-circuits-venus-review
 4. Crazy Tube Circuits Venus – United States: https://www.thomannmusic.com/crazy_tube_circuits_venus.htm

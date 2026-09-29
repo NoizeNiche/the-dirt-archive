@@ -30,7 +30,7 @@ Hunter is a stereo distortion product in the Land Devices catalog.
 Hunter is a stereo distortion product in the Land Devices catalog.
 
 ## Sources checked
-1. Effect pedals and utility devices &ndash; Land Devices: https://landdevices.com/collections/catalog
+1. Effect pedals and utility devices – Land Devices: https://landdevices.com/collections/catalog
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

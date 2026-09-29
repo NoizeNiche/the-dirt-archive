@@ -29,7 +29,6 @@
 - **Exact part:** Unknown.
 
 ## Sound
-1962X 2-Mode Limited British Overdrive by Keeley Electronics | RockBoard | PedalPedia Skip to main content LOG IN EXPLORE Keeley Electronics 1962X 2-Mode Limited British Overdrive LOG IN TO SUGGEST IMPROVEMENTS BOOSTER OVERDRIVE PREAMP Description Our Keeley 1962X 2-Mode Limited British Overdrive has a wealth of great classic Bluesbreaker tones ready at a moments notice, so what could make it better?
 The 1962x is a limited version of our 1962, built in batches when we have the supply, with an additional “KT88” high headroom mode utilizing MOSFET clipping.
 In the “KT66” mode you will get the same performance and gain range you get in the standard 1962, from mild light breakup all the way to full saturation.
 

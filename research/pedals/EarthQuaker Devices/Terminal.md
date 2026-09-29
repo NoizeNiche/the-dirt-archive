@@ -33,7 +33,7 @@ The Terminal is our take on the elusive vintage JAX fuzz.
 These units are increasingly hard to come by, and are better known by most of us as the Shin-Ei Companion Fuzz.
 
 ## Sources checked
-1. Terminal &mdash; EarthQuaker Devices: https://www.earthquakerdevices.com/terminal
+1. Terminal — EarthQuaker Devices: https://www.earthquakerdevices.com/terminal
 2. EarthQuaker Devices Terminal Destructive Fuzz Device - Reverb: https://reverb.com/p/earthquaker-devices-terminal-destructive-fuzz-2010s-black
 3. EarthQuaker Devices Terminal Review - Premier Guitar: https://www.premierguitar.com/gear/earthquaker-devices-terminal-review
 4. Earthquaker Devices Terminal Review: A Deep Dive into the Piano-Focused Analog Delay Pedal | GearStrings: https://gearstrings.com/piano/earthquaker-devices-terminal-review

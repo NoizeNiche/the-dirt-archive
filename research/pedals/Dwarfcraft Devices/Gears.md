@@ -27,7 +27,7 @@ Dwarfcraft Devices browse by type eq/excite/filter/wah filter browse by type pit
 - The archive records only the component information explicitly present in these sources.
 
 ## Sound
-Effect types &#9660; boost distortion fuzz overdrive acoustic simulation amp simulation speaker/cabinet simulation chorus flanger phaser tremolo vibe vibrato other modulation pitch shifter octaver delay reverb looper/sampler hold/freeze eq filter wah fuzz-wah bitcrusher ring modulator samplerate reducer wavefolder synth effect granular effect multi effect vocal effect talkbox vocoder buffer compressor other...
+Effect types ▼ boost distortion fuzz overdrive acoustic simulation amp simulation speaker/cabinet simulation chorus flanger phaser tremolo vibe vibrato other modulation pitch shifter octaver delay reverb looper/sampler hold/freeze eq filter wah fuzz-wah bitcrusher ring modulator samplerate reducer wavefolder synth effect granular effect multi effect vocal effect talkbox vocoder buffer compressor other...
 Eau Claire, WI - February 9, 2015 - Gears is many things; an overdrive, sub octave generator, and resonant filter and expression pedal input.
 The overdrive is a fixed sound that can be mixed from silent to LOUD - just like the OG Robot Devil This signal is fed into a clock divider, which puts out a square wave (or two) we can mix into the output.
 

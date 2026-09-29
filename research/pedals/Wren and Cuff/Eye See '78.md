@@ -33,7 +33,7 @@ Essentially, it removes the passive tone stack from the circuit for a volume boo
 Of course, this switch renders the tone control useless, but we’re guessing that in this mode, you won’t miss it—this switch is just too cool.
 
 ## Sources checked
-1. Eye See '78 &mdash; Wren and Cuff: https://www.wrenandcuff.com/products/eye-see-78
+1. Eye See '78 — Wren and Cuff: https://www.wrenandcuff.com/products/eye-see-78
 2. Wren and Cuff Eye See '78 OG - Reverb: https://reverb.com/p/wren-and-cuff-eye-see-78-og
 3. Wren and Cuff See Eye ’78 Review - Premier Guitar: https://www.premierguitar.com/gear/reviews/wren-and-cuff-eye-see-78
 4. Wren And Cuff Eye See '78 OG Fuzz Effects Pedal Pink/Stainless Steel | Guitar Center: https://www.guitarcenter.com/Wren-And-Cuff/Eye-See-78-OG-Fuzz-Effects-Pedal-Pink-Stainless-Steel-1500000409704.gc

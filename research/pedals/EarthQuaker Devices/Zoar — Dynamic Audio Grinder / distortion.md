@@ -32,7 +32,7 @@ Free -Day Shipping Get it by when you order within Get it if you order in Price:
 It has been finely tuned to create a highly tweakable hi-fi and modern sounding distortion, but with the ghosts of old school circuitry to deliver a grind that is both instantly familiar and delightfully unique.
 
 ## Sources checked
-1. Zoar Dynamic Audio Grinder &mdash; EarthQuaker Devices: https://www.earthquakerdevices.com/zoar
+1. Zoar Dynamic Audio Grinder — EarthQuaker Devices: https://www.earthquakerdevices.com/zoar
 2. catalog/override source: https://www.effectsdatabase.com/model/earthquaker/zoar
 3. EarthQuaker Devices Zoar Dynamic Audio Grinder Review - Premier Guitar: https://www.premierguitar.com/gear/reviews/earthquaker-zoar
 

@@ -30,7 +30,7 @@ Maxon's Super Sonic Distortion (SSD-9) is cataloged as a distortion / overdrive 
 SUPER SONIC DISTORTION (SSD-9) – Godlyke, Inc.
 
 ## Sources checked
-1. SUPER SONIC DISTORTION (SSD-9) &ndash; Godlyke, Inc.: https://maxonfx.com/products/super-sonic-distortion-ssd-9
+1. SUPER SONIC DISTORTION (SSD-9) – Godlyke, Inc.: https://maxonfx.com/products/super-sonic-distortion-ssd-9
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

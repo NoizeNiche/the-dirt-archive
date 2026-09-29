@@ -31,7 +31,7 @@ The Dirt Archive currently catalogs **Warp Drive LTD** by **Stone Deaf FX** as a
 Catalog source page on file: https://www.stonedeaffx.com/collections/distortion-pedals - **Archive photo:** No verified local photo is currently archived.
 
 ## Sources checked
-1. Distortion Pedals &ndash; Stone Deaf: https://www.stonedeaffx.com/collections/distortion-pedals
+1. Distortion Pedals – Stone Deaf: https://www.stonedeaffx.com/collections/distortion-pedals
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

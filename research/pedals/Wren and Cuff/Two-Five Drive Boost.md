@@ -32,7 +32,7 @@ The response is super reactive, and the overall feel of the pedal is much differ
 Voice Switch: The voice switch allows you to configure the clipping section of the pedal in two different ways Voice switch toggled down, there are two Mosfet transistors used as diodes, and a germanium diode as well used to create a super rich, saturated gain (sorta Marshall™ like).
 
 ## Sources checked
-1. Two-Five Drive Boost &mdash; Wren and Cuff: https://www.wrenandcuff.com/products/two-five-drive-boost
+1. Two-Five Drive Boost — Wren and Cuff: https://www.wrenandcuff.com/products/two-five-drive-boost
 2. Wren and Cuff Two Five Drive/Boost - Reverb: https://reverb.com/p/wren-and-cuff-two-five-drive-slash-boost
 3. Two-Five Drive Boost — Wren And Cuff Overdrive Pedal | PedalFilter | PedalFilter: https://pedalfilter.com/wren-and-cuff/two-five-drive-boost
 4. Wren and Cuff Two-Five Drive Boost Effect Pedal (New) | eBay: https://www.ebay.com/itm/278196119480

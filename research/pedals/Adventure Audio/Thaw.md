@@ -30,7 +30,7 @@ Adventure Audio's Thaw is cataloged as a fuzz pedal.
 The verified evidence packet did not contain enough pedal-specific sonic description to make a more detailed sound summary without adding unsupported interpretation.
 
 ## Sources checked
-1. Adventure Audio Thaw Fuzz &ndash; Chicago Music Exchange: https://www.chicagomusicexchange.com/products/adventure-audio-thaw-fuzz-849007
+1. Adventure Audio Thaw Fuzz – Chicago Music Exchange: https://www.chicagomusicexchange.com/products/adventure-audio-thaw-fuzz-849007
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

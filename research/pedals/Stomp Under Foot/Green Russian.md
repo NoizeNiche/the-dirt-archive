@@ -7,7 +7,6 @@
 - **Identity:** Stomp Under Foot's Green Russian.
 
 ## What this pedal is
-Checkout Close Your bag is empty Browse our collection of handmade fuzz, overdrive, and distortion pedals.
 
 ## Colorways
 - Rest assured that your order will make as small of a footprint as possible.* Related products Keeley Fuzz Head $ 99.00 Electro-Harmonix Big Muff Pi V3 (Red & Black) $ 479.00 EarthQuaker Devices Hoof Hybrid Fuzz $ 114.00 Dunlop JH-3S Jimi Hendrix Signature System Octave Fuzz $ 99.00 Bucket List Guitars
@@ -30,7 +29,6 @@ Checkout Close Your bag is empty Browse our collection of handmade fuzz, overdri
 
 ## Sound
 A favorite among guitarists and bass players alike, its simple three-knob layout lets you dial in everything from wooly breakup to a massive wall of fuzz.
-Checkout Close Your bag is empty Browse our collection of handmade fuzz, overdrive, and distortion pedals.
 Rest assured that your order will make as small of a footprint as possible.* Related products Keeley Fuzz Head $ 99.00 Electro-Harmonix Big Muff Pi V3 (Red & Black) $ 479.00 EarthQuaker Devices Hoof Hybrid Fuzz $ 114.00 Dunlop JH-3S Jimi Hendrix Signature System Octave Fuzz $ 99.00 Bucket List Guitars
 
 ## Sources checked

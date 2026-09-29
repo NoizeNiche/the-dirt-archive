@@ -28,12 +28,12 @@ The Foxxton Woods is one of our nastiest, wildest pedals.
 - The archive records only the component information explicitly present in these sources.
 
 ## Sound
-Foxxton Woods &#8211; Zander Circuitry Home Store About FAQs/Terms Dealers Contact 0 Basket Home / Fuzz / Foxxton Woods Foxxton Woods 174,00 &euro; The upper octave fuzz generator.
+Foxxton Woods – Zander Circuitry Home Store About FAQs/Terms Dealers Contact 0 Basket Home / Fuzz / Foxxton Woods Foxxton Woods 174,00 € The upper octave fuzz generator.
 Embrace the filth and embrace the fuzz.
 It’s our take on a very special felt-covered octave fuzz from the 1970s.
 
 ## Sources checked
-1. Foxxton Woods &#8211; Zander Circuitry: https://zandercircuitry.com/product/foxxton-woods/
+1. Foxxton Woods – Zander Circuitry: https://zandercircuitry.com/product/foxxton-woods/
 2. New Zander Circuitry Foxxton Woods Octave Fuzz Generator | Reverb: https://reverb.com/item/50679065-new-zander-circuitry-foxxton-woods-octave-fuzz-generator-guitar-effects-pedal
 3. Zander Circuitry Introduces The Foxxton Woods Fuzz and Surplus Overdrive: A Dual-Path Exploration of Vintage-Inspired Saturation | GearStrings: https://gearstrings.com/music-theory/zander-circuitry-introduces-the-foxxton-woods-fuzz-and-surplus-overdrive
 

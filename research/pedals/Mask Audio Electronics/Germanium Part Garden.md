@@ -32,7 +32,7 @@ If you crank everything up, and get the Texture cooking, you will still have a t
 But as soon as you back off that you have something that I've never done with the MAE line; Clear, articulate overdrive.
 
 ## Sources checked
-1. Germanium Part Garden &ndash; Mask Audio Electronics: https://maskaudioelectronics.com/products/ge-part-garden
+1. Germanium Part Garden – Mask Audio Electronics: https://maskaudioelectronics.com/products/ge-part-garden
 2. Mask Audio Electronics Germanium Part Garden - Wholesale Guitars Sheet Music Drums Effects and Accessories: https://www.musicbrandsupply.com/product/mask-audio-electronics-germanium-part-garden/
 3. Mask Audio Electronics Germanium Part Garden: https://www.planetbandmusicstore.com/product/mask-audio-electronics-germanium-part-garden/
 4. Mask Audio Electronics Germanium Part Garden - Shop: https://shop.app/products/7257455329457/germanium-part-garden

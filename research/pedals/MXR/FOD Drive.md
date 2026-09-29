@@ -38,7 +38,7 @@ One of the amps was modified for super scooped high-gain saturation, while the o
 3. MXR M251 FOD Drive — Overdrive Pedal | Equipboard: https://equipboard.com/items/mxr-m251-fod-drive
 4. MXR M251 FOD Drive - Reverb: https://reverb.com/p/mxr-m-251-fod-drive
 5. MXR FOD Drive review | Guitar World: https://www.guitarworld.com/reviews/mxr-fod-drive-review
-6. It&rsquo;s an open secret that the MXR FOD Drive is the Dookie Drive circuit under a different name, and for just $99 you can get the tones from Green Day&rsquo;s best album on your pedalboard this Cyber Monday | MusicRadar: https://www.musicradar.com/guitars/guitar-pedals/its-an-open-secret-that-the-mxr-fod-drive-is-the-dookie-drive-circuit-under-a-different-name-and-for-just-usd99-you-can-get-the-tones-from-green-days-best-album-on-your-pedalboard-this-cyber-monday
+6. It’s an open secret that the MXR FOD Drive is the Dookie Drive circuit under a different name, and for just $99 you can get the tones from Green Day’s best album on your pedalboard this Cyber Monday | MusicRadar: https://www.musicradar.com/guitars/guitar-pedals/its-an-open-secret-that-the-mxr-fod-drive-is-the-dookie-drive-circuit-under-a-different-name-and-for-just-usd99-you-can-get-the-tones-from-green-days-best-album-on-your-pedalboard-this-cyber-monday
 7. M251 FOD DRIVE by MXR | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/MXR/M251-FOD-DRIVE/160433106/
 
 ## Photo

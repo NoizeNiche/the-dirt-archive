@@ -27,8 +27,8 @@ Ibanez's SD9M is cataloged as a Distortion pedal.
 - The archive records only the component information explicitly present in these sources.
 
 ## Sound
-IBANEZ SD9M OWNER'S MANUAL Pdf Download | ManualsLib Sign In Upload Download Add to my manuals Delete from my manuals Share URL of this page: HTML Link: IBANEZ SD9M OWNER&#039;S MANUAL Pdf Download '> Pinterest Bookmark this page Add Manual will be automatically added to "My Manuals" Print this page &times; Bookmark added &times; Added to my manuals Manuals Brands Ibanez Manuals Music Pedal SD9M Owner's manual Ibanez SD9M Owner's Manual Sonic distortion mod.
-&#x25CF; When the LED indicator dims, the sound quality will drop significantly.
+IBANEZ SD9M OWNER'S MANUAL Pdf Download | ManualsLib Sign In Upload Download Add to my manuals Delete from my manuals Share URL of this page: HTML Link: IBANEZ SD9M OWNER'S MANUAL Pdf Download '> Pinterest Bookmark this page Add Manual will be automatically added to "My Manuals" Print this page × Bookmark added × Added to my manuals Manuals Brands Ibanez Manuals Music Pedal SD9M Owner's manual Ibanez SD9M Owner's Manual Sonic distortion mod.
+● When the LED indicator dims, the sound quality will drop significantly.
 
 ## Sources checked
 1. Ibanez SD9M Sonic Distortion Mod - Reverb: https://reverb.com/p/ibanez-sd9m-sonic-distortion-mod

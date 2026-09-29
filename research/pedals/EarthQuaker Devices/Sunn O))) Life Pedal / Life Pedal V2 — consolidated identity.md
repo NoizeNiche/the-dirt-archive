@@ -34,7 +34,7 @@ https://reverb.com/p/earthquaker-devices-sunn-o-life-pedal-octave-distortion-plu
 
 ## Sources checked
 1. catalog/override source: https://reverb.com/p/earthquaker-devices-sunn-o-life-pedal-octave-distortion-plus-booster-v3
-2. Sunn O))) Life Pedal Octave Distortion + Booster &mdash; EarthQuaker Devices: https://www.earthquakerdevices.com/life-pedal
+2. Sunn O))) Life Pedal Octave Distortion + Booster — EarthQuaker Devices: https://www.earthquakerdevices.com/life-pedal
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

@@ -36,7 +36,7 @@ Mid-Fi Electronics ::: Peace Gun HOME PEDALS PURCHASE Peace Gun Intermodulating 
 3. Mid-Fi Electronics Peace Gun 2024 - Various - Reverb: https://reverb.com/item/82473665-mid-fi-electronics-peace-gun-2024-various
 4. Mid-Fi Electronics Peace Gun Fuzz v1 Pedal | Equipboard: https://equipboard.com/items/mid-fi-electronics-peace-gun-fuzz-v1
 5. Mid-Fi Electronics Peace Gun | Effects Database: https://www.effectsdatabase.com/model/midfi/peacegun
-6. Mid-Fi Electronics Peace Gun Pedal &ndash; DeathCloud: https://deathcloud.com/products/mid-fi-electronics-peace-gun
+6. Mid-Fi Electronics Peace Gun Pedal – DeathCloud: https://deathcloud.com/products/mid-fi-electronics-peace-gun
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

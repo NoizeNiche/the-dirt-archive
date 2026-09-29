@@ -31,7 +31,6 @@ Who is it for Reviews Tech Specs Our latest analysis of the music taste of peopl
 
 ## Sound
 Daredevil Pedals Op Amp Fuzz V5: Good Match For Your Taste?
-Skip to main content MUSICnGEAR 2 million gear recommendations & counting Blog Interviews Genres Brands Artists Guitars and Basses Distortion Pedals More What&#039;s good for me?
 New Indie Folk / Folktronica / Chamber Pop - September 2026 Latest activity A Plácido Domingo fan took the test for Thomann Classica Flamenco 1F 2 hours 14 min ago Blog Interviews Genres Brands Artists Daredevil Pedals Op Amp Fuzz V5 Home Guitar and Bass Effects Distortion Pedals Daredevil Pedals Daredevil Pedals Op...
 
 ## Sources checked

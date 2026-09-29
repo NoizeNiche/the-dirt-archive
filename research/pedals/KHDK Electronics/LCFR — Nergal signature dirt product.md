@@ -36,7 +36,7 @@ Wield unholy high-gain power with this aggressive Overdrive/Booster Silkscreened
 1. LCFR | KHDK Electronics: https://www.khdkelectronics.com/products/detail/lcfr/
 2. KHDK Electronics LCFR by Nergal - Reverb: https://reverb.com/p/khdk-electronics-lcfr-by-nergal
 3. KHDK Electronics LCFR Boost Pedal | Equipboard: https://equipboard.com/items/khdk-electronics-lcfr-boost-pedal
-4. KHDK Electronics LCFR by Nergal - Acid Burnt &ndash; EGA Guitars: https://egaguitars.com/products/khdk-electronics-lcfr-by-nergal-acid-burnt
+4. KHDK Electronics LCFR by Nergal - Acid Burnt – EGA Guitars: https://egaguitars.com/products/khdk-electronics-lcfr-by-nergal-acid-burnt
 5. KHDK Electronics LCFR by Nergal - Acid Burnt | eBay: https://www.ebay.com/itm/406523765553
 
 ## Photo

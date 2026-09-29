@@ -31,7 +31,7 @@ King Tone Guitar's Duellist V3 is cataloged as an overdrive pedal.
 Condition: Brand New KING TONE GUITA
 
 ## Sources checked
-1. Duellist V3 by KING TONE GUITAR &ndash; Ikebe Musical Instruments Store: https://global.ikebe-gakki.com/products/861698
+1. Duellist V3 by KING TONE GUITAR – Ikebe Musical Instruments Store: https://global.ikebe-gakki.com/products/861698
 2. King Tone Guitar The Duellist V3 - Bucket List Guitars: https://bucketlistguitars.com/product/king-tone-guitar-the-duellist-v3/
 3. KING TONE GUITAR Duellist V3 - Reverb: https://reverb.com/item/98760225-king-tone-guitar-duellist-v3
 4. King Tone Guitar Duellist v3 | Uni•Sound: https://www.uni-sound.hk/product-page/king-tone-guitar-duellist-v3

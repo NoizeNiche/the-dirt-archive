@@ -33,11 +33,11 @@ Combining a NPN and PNP transistor pair give you some familiar gain sounds but i
 All while retaining that classic fuzz clean up we all want from these sort of pedals.
 
 ## Sources checked
-1. Hephaestus Fuzz &ndash; Mythos Pedals: https://mythospedals.com/products/hephaestus-mini-fuzz
+1. Hephaestus Fuzz – Mythos Pedals: https://mythospedals.com/products/hephaestus-mini-fuzz
 2. Mythos Pedals Hephaestus Fuzz Pedal | Equipboard: https://equipboard.com/items/mythos-hephaestus
 3. Mythos Pedals Hephaestus Fuzz | AllThePedals: https://allthepedals.com/pedals/mythos-pedals-hephaestus-fuzz/
-4. Mythos Pedals Hephaestus Fuzz &ndash; High Voltage Guitars: https://highvoltageguitars.com/products/mythos-pedals-hephaestus-fuzz
-5. Mythos Pedals Hephaestus Fuzz &ndash; Coast Sonic: https://coastsonic.com/products/mythos-pedals-hephaestus-fuzz
+4. Mythos Pedals Hephaestus Fuzz – High Voltage Guitars: https://highvoltageguitars.com/products/mythos-pedals-hephaestus-fuzz
+5. Mythos Pedals Hephaestus Fuzz – Coast Sonic: https://coastsonic.com/products/mythos-pedals-hephaestus-fuzz
 6. Mythos Pedals Hephaestus Fuzz - Reverb: https://reverb.com/item/69886648-mythos-pedals-hephaestus-fuzz
 7. Mythos Pedals Hephaestus Fuzz - Acoustic Guitar Spruce Top with ...: https://www.crestguitar.com/product/mythos-pedals-hephaestus-fuzz/
 8. Mythos Pedals Hephaestus Fuzz - Piano & Keyboard Guide: Reviews, Tips & Tutorials: https://www.keyboardcreator.com/product/mythos-pedals-hephaestus-fuzz/

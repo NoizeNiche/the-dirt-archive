@@ -43,8 +43,8 @@ The Affogato was designed with asymmetrical clipping for natural tube-like respo
 Watch Demo Video × 3-band EQ tone shaping Use the 3-band EQ to shape and mold your sound to be something completely unique.
 
 ### Sources checked in this pass
-1. Affogato Fuzz &ndash; Coffee Shop Pedals: https://coffeeshoppedals.com/products/affogato-fuzz
-2. Affogato Fuzz FX Pedal | Coffee Shop Pedals &ndash; Pedal Jungle: https://pedaljungle.com/products/coffee-shop-pedals-affogato-fuzz-fx-pedal
+1. Affogato Fuzz – Coffee Shop Pedals: https://coffeeshoppedals.com/products/affogato-fuzz
+2. Affogato Fuzz FX Pedal | Coffee Shop Pedals – Pedal Jungle: https://pedaljungle.com/products/coffee-shop-pedals-affogato-fuzz-fx-pedal
 3. Coffee Shop Pedals Affogato Fuzz Pedal | Reverb: https://reverb.com/item/91543319-coffee-shop-pedals-affogato-fuzz-pedal
 4. Coffee Shop Pedals Affogato Fuzz - Extensive Musical Instruments and Accessories Marketplace: https://www.megamelod.com/product/coffee-shop-pedals-affogato-fuzz/
 5. Coffee Shop Pedals Affogato Fuzz: Unique Analog Effect Pedal: https://www.westmusic.com/coffee-shop-pedals-affogato-fuzz-358065

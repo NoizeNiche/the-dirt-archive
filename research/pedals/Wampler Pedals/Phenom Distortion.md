@@ -28,7 +28,6 @@ The Phenom Distortion is a dynamic distortion pedal which uses JFET based clippi
 
 ## Sound
 The Phenom Distortion is a dynamic distortion pedal which uses JFET based clipping instead of Op-amp and Diode based clipping and is loosely based on legendary “5150” style tones.
-In stock Phenom Distortion quantity Add to cart Watch video
 The Wampler Phenom Distortion is a versatile pedal in the Collective Series, designed to deliver a wide range of tones from smooth, punchy rhythm sounds to soaring lead tones.
 
 ## Sources checked

@@ -34,7 +34,7 @@ Manufacturer’s Suggested Retail Price: $115.84 Looking to buy the Maxon Distor
 ## Sources checked
 1. Maxon D&S Distortion and Sustainer — Fuzz Pedal | Equipboard: https://equipboard.com/items/maxon-d-s-distortion
 2. Maxon D&S Distortion and Sustainer Pedal | Sweetwater: https://www.sweetwater.com/store/detail/DS--maxon-d-and-s
-3. DISTORTION AND SUSTAINER II (D&S II) &ndash; Godlyke, Inc.: https://maxonfx.com/products/reissue-series-effects-pedals-d-s-ii-2-distortion-sustainer
+3. DISTORTION AND SUSTAINER II (D&S II) – Godlyke, Inc.: https://maxonfx.com/products/reissue-series-effects-pedals-d-s-ii-2-distortion-sustainer
 4. Maxon D&S Distortion and Sustainer | Guitar Center: https://www.guitarcenter.com/Maxon/DS-Distortion-and-Sustainer-1274115045675.gc
 5. NoiseGuide - Maxon Distortion and Sustainer: https://www.noiseguide.com/product_info/maxon_distortion_and_sustainer
 

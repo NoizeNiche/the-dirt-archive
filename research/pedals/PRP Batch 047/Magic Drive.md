@@ -27,7 +27,7 @@ Alien Rabbit's Magic Drive is cataloged as an overdrive pedal.
 - **Exact part:** Unknown.
 
 ## Sound
-not by manufacturer Date &#x25BC;&#x25B2; Maker &#x25BC;&#x25B2; Video &#x25BC;&#x25B2; Time &#x25BC;&#x25B2; 2011-12-30 Alien Rabbit magic drive +Gibson????
+not by manufacturer Date ▼▲ Maker ▼▲ Video ▼▲ Time ▼▲ 2011-12-30 Alien Rabbit magic drive +Gibson????
 外星兔說明 5:28 2010-07-23 madlee0110 20100724 My Alien Rabbit Magic Drive大抽獎美女特別來賓！11，12，13 1:44 2010-07-23 Alien Rabbit 20100724 My Alien Rabbit Magic Drive?????????...
 
 ## Sources checked

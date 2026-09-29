@@ -34,7 +34,7 @@ The original schematic for Rosac Nu Fuzz is somewhat of a mystery so I used my o
 It is full-on fuzz all the time and uses crude wide range Tone control to change the character from big and warm to sizzling and blown out.
 
 ## Sources checked
-1. Spires Fuzz Doubler &mdash; EarthQuaker Devices: https://www.earthquakerdevices.com/spires
+1. Spires Fuzz Doubler — EarthQuaker Devices: https://www.earthquakerdevices.com/spires
 2. EarthQuaker Devices Spires — Fuzz Pedal | Equipboard: https://equipboard.com/items/earthquaker-devices-spires
 3. EarthQuaker Devices Spires Nu Face Double Fuzz - Reverb: https://reverb.com/p/earthquaker-devices-spires-fuzz
 4. EarthQuaker Devices Spires Double Fuzz Pedal | Sweetwater: https://www.sweetwater.com/store/detail/Spires--earthquaker-devices-spires-double-fuzz-pedal

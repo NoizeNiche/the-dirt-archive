@@ -33,7 +33,7 @@ The first was the A Box Later, a device Howard Dumble built sometime in the 1980
 The second unit was the Dumble BBC-1, a far more obscure preamp boost.
 
 ## Sources checked
-1. NOTADÜMBLË V2 &ndash; JHS Pedals: https://jhspedals.info/products/notadumble-v2
+1. NOTADÜMBLË V2 – JHS Pedals: https://jhspedals.info/products/notadumble-v2
 2. catalog/override source: https://www.effectsdatabase.com/model/jhspedals/notadumble/v2
 
 ## Photo

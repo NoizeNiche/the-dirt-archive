@@ -38,7 +38,7 @@ The Herculean side (Level, Drive, Clarity, Bass) is D-style amp territory - thic
 3. Mythos Pedals Herculean Deluxe Overdrive | AllThePedals: https://allthepedals.com/pedals/mythos-pedals-herculean-deluxe-overdrive
 4. Mythos Pedals Herculean Deluxe Overdrive: https://parkwaymusic.com/products/mythos-pedals-herculean-deluxe-overdrive
 5. Herculean Deluxe Overdrive by Mythos Pedals | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/Mythos-Pedals/Herculean-Deluxe-Overdrive/384144710/
-6. Herculean Deluxe Overdrive &ndash; Mythos Pedals: https://mythospedals.com/products/herculean-deluxe
+6. Herculean Deluxe Overdrive – Mythos Pedals: https://mythospedals.com/products/herculean-deluxe
 7. Mythos Pedals Herculean Deluxe - Overdrive | Effects Database: https://www.effectsdatabase.com/model/mythos/herculean/deluxe
 8. Mythos Herculean Deluxe Overdrive: https://distinctiveguitar.com/effects/mythos-herculean-deluxe-overdrive/
 

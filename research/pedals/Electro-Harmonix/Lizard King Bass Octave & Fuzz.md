@@ -32,7 +32,7 @@ The verified evidence packet did not contain enough pedal-specific sonic descrip
 
 ## Sources checked
 1. Lizard King Bass Octave & Fuzz - Electro-Harmonix: https://www.eharmonixsounds.com/lizard-king-bass-octave-amp-fuzz/
-2. Electro-Harmonix Lizard King Bass Octave & Fuzz Electric Bass Guitar E &ndash; Chuck Levin's Washington Music Center: https://chucklevins.com/products/electro-harmonix-lizard-king-bass-octave-fuzz-electric-bass-guitar-effects-pedal
+2. Electro-Harmonix Lizard King Bass Octave & Fuzz Electric Bass Guitar E – Chuck Levin's Washington Music Center: https://chucklevins.com/products/electro-harmonix-lizard-king-bass-octave-fuzz-electric-bass-guitar-effects-pedal
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

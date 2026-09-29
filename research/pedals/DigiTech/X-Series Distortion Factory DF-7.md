@@ -6,7 +6,7 @@
 - **Identity:** DigiTech X-Series Distortion Factory DF-7.
 
 ## What this pedal is
-The **DF-7 Distortion Factory** is a physical DigiTech X-Series distortion-modeling stompbox. Effects Database dates its product record to **August 10, 2005** and identifies it as a DigiTech X Series distortion pedal. DigiTech's manual describes it as a pedal containing seven modeled distortion sounds, with additional EQ control for shaping each model. 
+The **DF-7 Distortion Factory** is a physical DigiTech X-Series distortion-modeling stompbox. Effects Database dates its product record to **August 10, 2005** and identifies it as a DigiTech X Series distortion pedal. DigiTech's manual describes it as a pedal containing seven modeled distortion sounds, with additional EQ control for shaping each model.
 
 ## Controls
 The physical DF-7 uses four top-panel control positions, with the first three implemented as dual concentric controls:

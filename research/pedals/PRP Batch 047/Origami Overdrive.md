@@ -29,7 +29,7 @@ Alien Amplification's Origami Overdrive is cataloged as an overdrive pedal.
 
 ## Sound
 Alien Amplification Origami Overdrive
-not by manufacturer Date &#x25BC;&#x25B2; Maker &#x25BC;&#x25B2; Video &#x25BC;&#x25B2; Time &#x25BC;&#x25B2; 2017-04-11 Alien Amplification Nosso parceiro Leandro Farias mostrando seu talento e também o overdrive Origami.
+not by manufacturer Date ▼▲ Maker ▼▲ Video ▼▲ Time ▼▲ 2017-04-11 Alien Amplification Nosso parceiro Leandro Farias mostrando seu talento e também o overdrive Origami.
 :) Debora Marc testando o overdrive Alien Origami.
 
 ## Sources checked

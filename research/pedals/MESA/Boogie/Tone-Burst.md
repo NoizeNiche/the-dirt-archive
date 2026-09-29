@@ -33,7 +33,7 @@ MESA/Boogie Tone-Burst Boost/Overdrive Effects Pedal Black
 MESA/BOOGIE TONE-BURST OWNER'S MANUAL Pdf Download
 
 ## Sources checked
-1. Mesa/Boogie Tone-Burst &ndash; Gibson: https://www.gibson.com/products/mesa-boogie-tone-burst
+1. Mesa/Boogie Tone-Burst – Gibson: https://www.gibson.com/products/mesa-boogie-tone-burst
 2. Tone-Burst™ - MESA/Boogie®: https://legacy.mesaboogie.com/pedals--related/boost-pedals/tone-burst.html
 3. Mesa/Boogie Tone-Burst Clean Boost Pedal | Sweetwater: https://www.sweetwater.com/store/detail/ToneBurst--mesa-boogie-tone-burst-clean-boost-pedal
 4. Mesa/Boogie Tone-Burst Boost Pedal | Equipboard: https://equipboard.com/items/mesa-engineering-tone-burst-boost-pedal

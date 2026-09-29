@@ -35,7 +35,7 @@ The days of digging around online for quality vintage fuzz (along with spending 
 1. Mojo Hand FX One Ton Bee - Reverb: https://reverb.com/p/mojo-hand-fx-one-ton-bee
 2. Mojo Hand FX One Ton Bee — Fuzz Pedal | Equipboard: https://equipboard.com/items/mojo-hand-fx-one-ton-bee
 3. Mojo Hand FX One Ton Bee - Live Sound Equipment: https://www.livesoundequipment.com/product/mojo-hand-fx-one-ton-bee/
-4. Mojo Hand FX One Ton Bee &ndash; Coast Sonic: https://coastsonic.com/products/mojo-hand-fx-one-ton-bee
+4. Mojo Hand FX One Ton Bee – Coast Sonic: https://coastsonic.com/products/mojo-hand-fx-one-ton-bee
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

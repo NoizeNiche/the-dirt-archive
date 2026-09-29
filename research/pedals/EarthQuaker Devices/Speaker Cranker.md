@@ -33,7 +33,7 @@ not a booster) THIS DEVICE IS NO LONGER IN PRODUCTION Speaker Cranker™ Overdri
 Think of it as sticking an extra preamp tube in your amplifier for more overdrive.
 
 ## Sources checked
-1. Speaker Cranker Overdrive &mdash; EarthQuaker Devices: https://www.earthquakerdevices.com/speaker-cranker
+1. Speaker Cranker Overdrive — EarthQuaker Devices: https://www.earthquakerdevices.com/speaker-cranker
 2. EarthQuaker Devices Speaker Cranker — Overdrive Pedal: https://equipboard.com/items/earthquaker-devices-speaker-cranker
 3. EarthQuaker Devices Speaker Cranker Overdrive V2 - Reverb: https://reverb.com/p/earthquaker-devices-speaker-cranker-overdrive-v2
 4. EarthQuaker Devices Speaker Cranker V2 Overdrive | Guitar Center: https://www.guitarcenter.com/EarthQuaker-Devices/Speaker-Cranker-V2-Overdrive-1500000030087.gc

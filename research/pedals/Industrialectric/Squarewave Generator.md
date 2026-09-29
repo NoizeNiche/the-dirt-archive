@@ -47,4 +47,3 @@ This pass adds the exact Industrialectric **Squarewave Generator** identity to t
 ## Photo
 - **Archive status:** **Exact Photo Pending**
 - No local canonical image was promoted in this pass.
-

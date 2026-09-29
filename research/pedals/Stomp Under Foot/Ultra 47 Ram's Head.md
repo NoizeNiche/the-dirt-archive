@@ -7,7 +7,6 @@
 - **Identity:** Stomp Under Foot's Ultra 47 Ram's Head.
 
 ## What this pedal is
-Checkout Close Your bag is empty Browse our collection of handmade fuzz, overdrive, and distortion pedals.
 
 ## Colorways
 - No specific factory colorway information was established in the verified evidence packet.
@@ -27,7 +26,6 @@ Checkout Close Your bag is empty Browse our collection of handmade fuzz, overdri
 - **Exact part:** Unknown.
 
 ## Sound
-Checkout Close Your bag is empty Browse our collection of handmade fuzz, overdrive, and distortion pedals.
 
 ## Sources checked
 1. ULTRA 47 RAM'S HEAD – Stomp Under Foot: https://stompunderfoot.com/products/ultra-47

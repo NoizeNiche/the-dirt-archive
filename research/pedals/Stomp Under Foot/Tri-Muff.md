@@ -29,7 +29,6 @@ Ram's Head®, Civil War®, Tri-Muff® Other product names and logos are trademar
 
 ## Sound
 Delivering a gritty, wooly fuzz on chords with a sweet, creamy smoothness on leads.
-Checkout Close Your bag is empty Browse our collection of handmade fuzz, overdrive, and distortion pedals.
 Monstrous fuzz with a throaty, wooly, gritty break-up on the lower notes and a sweet, full, blooming, smooth fuzz on leads.
 
 ## Sources checked

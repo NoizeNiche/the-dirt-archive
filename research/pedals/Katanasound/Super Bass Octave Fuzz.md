@@ -38,7 +38,7 @@ The available manufacturer documentation establishes the original Super Bass Fuz
 2. catalog/override source: https://reverb.com/item/3283218-katanasound-super-bass-fuzz-bass-octave-fuzz-pedal
 3. Katanasound Super Bass Fuzz Bass Octave Fuzz Pedal - Gbase: https://www.gbase.com/gear/katanasound-super-bass-fuzz
 4. https://guitars.gbase.com/aza/user/gear/katanasound-super-bass-fuzz-bass-octave-fuzz-pe.jpg?maxheight=1200&maxwidth=1200: https://guitars.gbase.com/aza/user/gear/katanasound-super-bass-fuzz-bass-octave-fuzz-pe.jpg?maxheight=1200&maxwidth=1200
-5. Katanasound Super Bass Fuzz Bass Octave Fuzz Pedal &mdash; Andy Babiuk's Fab Gear: https://www.andybabiuksfabgear.com/whats-new-aiZQV/p/katanasound-super-bass-fuzz-bass-octave-fuzz-pedal
+5. Katanasound Super Bass Fuzz Bass Octave Fuzz Pedal — Andy Babiuk's Fab Gear: https://www.andybabiuksfabgear.com/whats-new-aiZQV/p/katanasound-super-bass-fuzz-bass-octave-fuzz-pedal
 6. catalog/override source: https://global.fcgrtokyo.com/dl/4197/attachment/7ed0fd/SuperBassFuzzManual.pdf
 
 ## Photo

@@ -30,7 +30,7 @@ Maxon's Fuzz Elements Ether (FE10) is cataloged as a fuzz pedal.
 Maxon Fuzz Elements Ether (FE10) – Godlyke, Inc.
 
 ## Sources checked
-1. Maxon Fuzz Elements Ether (FE10) &ndash; Godlyke, Inc.: https://maxonfx.com/products/fuzz-elements-series-guitar-effects-pedals-ether-fe10
+1. Maxon Fuzz Elements Ether (FE10) – Godlyke, Inc.: https://maxonfx.com/products/fuzz-elements-series-guitar-effects-pedals-ether-fe10
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

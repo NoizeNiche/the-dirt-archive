@@ -28,7 +28,6 @@ The Dirt Archive currently catalogs **Myriad w/loop Fuzz Pedal — fuzz / loop-m
 
 ## Sound
 Josh Smith Signature Hybrid Fuzz + Loop (Mix) Pedal For the best experience at Peach, we recommend booking an appointment How & Why?
-Josh Smith Signature Hybrid Fuzz + Loop (Mix) Pedal £ 0.00 or Add to Basket FINANCE CLOSE HAVE A QUESTION?
 The Dirt Archive currently catalogs **Myriad w/loop Fuzz Pedal — fuzz / loop-mix identity** by **Vemuram** as a **Fuzz** pedal.
 
 ## Sources checked

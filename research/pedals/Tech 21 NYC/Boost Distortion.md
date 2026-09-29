@@ -32,7 +32,7 @@ And we call them Boost pedals for a reason.
 Alongside a wealth of hot driven tones, there is a powerful boost function that delivers up to an incredible 21dB of clean boost, which can be used independently from the effect.
 
 ## Sources checked
-1. Boost Distortion &#8211; Tech 21 NYC: https://www.tech21nyc.com/products/effects/boost-distortion/
+1. Boost Distortion – Tech 21 NYC: https://www.tech21nyc.com/products/effects/boost-distortion/
 2. Tech 21 NYC Boost Distortion Dimensions, Specs Details: https://www.stompboxgarden.com/gear/pedal/3472/tech-21-nyc-boost-distortion
 3. TECH 21 NYC BOOST DISTORTION METALLIC: https://www.boxguitar.com/en/distortion/6684-tech-21-nyc-boost-distortion-metallic.html
 

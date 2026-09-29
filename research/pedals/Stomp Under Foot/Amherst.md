@@ -30,7 +30,6 @@ We are extremely pleased to present the Amherst Fuzz; built from Matt’s traced
 ## Sound
 We are extremely pleased to present the Amherst Fuzz; built from Matt’s traced schematic of J’s famous muff using modern equivalent components in order to make it more feasible, reliable and affordable.
 The results are an extremely dynamic fuzz with a beautiful wide range of useful tones – far from the one trick pony’s that some muffs can be.
-View details Stomp Under Foot X Coast Sonic - The Amherst Fuzz Close Stomp Under Foot X Coast Sonic - The Amherst Fuzz Add to cart Need cables?
 
 ## Sources checked
 1. Stomp Under Foot Amherst - Reverb: https://reverb.com/item/100354350-stomp-under-foot-amherst

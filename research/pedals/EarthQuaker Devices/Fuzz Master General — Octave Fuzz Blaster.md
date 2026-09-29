@@ -32,7 +32,7 @@ We added a “Voice” toggle to further enhance your dirt desires and wrangle a
 This has a huge impact on the characteristics of fuzz tone, upper octave clarity and output level.
 
 ## Sources checked
-1. Fuzz Master General &mdash; EarthQuaker Devices: https://www.earthquakerdevices.com/fuzz-master-general
+1. Fuzz Master General — EarthQuaker Devices: https://www.earthquakerdevices.com/fuzz-master-general
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

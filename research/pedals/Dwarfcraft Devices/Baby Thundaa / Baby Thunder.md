@@ -27,7 +27,7 @@ Dwarfcraft Devices browse by type mix/route/switch feedback loop browse by type 
 - **Exact part:** Unknown.
 
 ## Sound
-Effect types &#9660; boost distortion fuzz overdrive acoustic simulation amp simulation speaker/cabinet simulation chorus flanger phaser tremolo vibe vibrato other modulation pitch shifter octaver delay reverb looper/sampler hold/freeze eq filter wah fuzz-wah bitcrusher ring modulator samplerate reducer wavefolder synth effect granular effect multi effect vocal effect talkbox vocoder buffer compressor other...
+Effect types ▼ boost distortion fuzz overdrive acoustic simulation amp simulation speaker/cabinet simulation chorus flanger phaser tremolo vibe vibrato other modulation pitch shifter octaver delay reverb looper/sampler hold/freeze eq filter wah fuzz-wah bitcrusher ring modulator samplerate reducer wavefolder synth effect granular effect multi effect vocal effect talkbox vocoder buffer compressor other...
 Dwarfcraft Devices browse by type mix/route/switch feedback loop browse by type distortion/fuzz/overdrive fuzz browse by enclosure pedal events 2011 NAMM 2011 Dwarfcraft Devices Baby Thundaa / Baby Thunder Published on April 4, 2011 Dwarfcraft Devices feedback loop fuzz pedal NAMM 2011 2016 2016 NAMM 2011 NAMM 2011 Ronald Raygun edition (of 9).
 You get 4 good old fashioned knobs- Volume, Tone, Distortion, Feedback, 2 exciting toggles- Tone Bypass, Feedback and one BIG STOMP switch to make it go on and off.
 

@@ -30,7 +30,7 @@ Maxon / Nisshin Onpa's ROD881 Real Overdrive / Distortion is cataloged as an ove
 The Dirt Archive currently catalogs **ROD881 Real Overdrive / Distortion** by **Maxon / Nisshin Onpa** as a **Overdrive / Distortion** pedal.
 
 ## Sources checked
-1. Maxon Guitar Effects Pedals : Buy Online : Reviews : Official Website &ndash; Godlyke, Inc.: https://maxonfx.com/
+1. Maxon Guitar Effects Pedals : Buy Online : Reviews : Official Website – Godlyke, Inc.: https://maxonfx.com/
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

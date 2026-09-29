@@ -30,8 +30,8 @@ TONECAT's Cutthroat Kitty Distortion is cataloged as a distortion pedal.
 The verified evidence packet did not contain enough pedal-specific sonic description to make a more detailed sound summary without adding unsupported interpretation.
 
 ## Sources checked
-1. Cutthroat Kitty Distortion Guitar Effect Cat Pedal - TONECAT boutique DS-1 Distortion Reinvention &mdash; TONECAT: https://www.tonecat.life/shop/p/pre-order-cutthroat-kitty-distortion
-2. TONECAT Cutthroat Kitty Distortion Pedal &ndash; DeathCloud: https://deathcloud.com/products/tonecat-cutthroat-kitty-distortion
+1. Cutthroat Kitty Distortion Guitar Effect Cat Pedal - TONECAT boutique DS-1 Distortion Reinvention — TONECAT: https://www.tonecat.life/shop/p/pre-order-cutthroat-kitty-distortion
+2. TONECAT Cutthroat Kitty Distortion Pedal – DeathCloud: https://deathcloud.com/products/tonecat-cutthroat-kitty-distortion
 3. TONECAT Cutthroat Kitty Distortion - DS-1 Style Distortion - | Reverb: https://reverb.com/item/92287074-tonecat-cutthroat-kitty-distortion-ds-1-style-distortion-bespoke-artwork
 
 ## Photo

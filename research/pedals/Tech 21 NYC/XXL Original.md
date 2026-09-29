@@ -32,7 +32,7 @@ The same setting, when played in a tight, controlled manner, will yield more of 
 The median point of Warp yields traditional distortion, well suited for chords and rhythm parts.
 
 ## Sources checked
-1. XXL Original &#8211; Tech 21 NYC: https://www.tech21nyc.com/archive/xxl/
+1. XXL Original – Tech 21 NYC: https://www.tech21nyc.com/archive/xxl/
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

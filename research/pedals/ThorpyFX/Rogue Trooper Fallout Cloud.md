@@ -28,7 +28,6 @@ The Rogue Trooper Fallout Cloud, embodies the dark vengeful theme of the dystopi
 - **Exact part:** Unknown.
 
 ## Sound
-Fuzz $259.00 $259.00 Unit price / per Shipping calculated at checkout.
 Fuzz Increase quantity for ROGUE TROOPER FALLOUT CLOUD
 Fuzz Add to cart Description Having survived the Quartz Zone massacre, the ROGUE TROOPER is here to exact revenge along with his colleagues Biochips implanted in his Gun, Bag and Helmet.
 

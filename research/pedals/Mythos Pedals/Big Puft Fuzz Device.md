@@ -32,11 +32,11 @@ It has a smooth and moderate amount of gain, a ton of output if needed and a ton
 Don't let the Big Puft playful appearance fool you, this is an aggressive and versatile fuzz pedal.
 
 ## Sources checked
-1. Big Puft Fuzz Device &ndash; Mythos Pedals: https://mythospedals.com/products/big-puft-fuzz
-2. Mythos Pedals Big Puft Fuzz Device &ndash; High Voltage Guitars: https://highvoltageguitars.com/products/mythos-pedals-big-puft-fuzz-device
+1. Big Puft Fuzz Device – Mythos Pedals: https://mythospedals.com/products/big-puft-fuzz
+2. Mythos Pedals Big Puft Fuzz Device – High Voltage Guitars: https://highvoltageguitars.com/products/mythos-pedals-big-puft-fuzz-device
 3. Mythos Pedals Big Puft Fuzz Device - Reverb: https://reverb.com/item/100927378-mythos-pedals-big-puft-fuzz-device
 4. Mythos Pedals Big Puft Fuzz Device - beatcraftlab.com: https://www.beatcraftlab.com/product/mythos-pedals-big-puft-fuzz-device/
-5. Mythos Pedals Big Puft Fuzz Device &ndash; Flipside Music: https://flipside-music.com/products/mythos-pedals-big-puft-fuzz-device
+5. Mythos Pedals Big Puft Fuzz Device – Flipside Music: https://flipside-music.com/products/mythos-pedals-big-puft-fuzz-device
 6. Mythos Pedals Big Puft Fuzz Device | Effect Pedals | acoguitar.com: https://www.acoguitar.com/product/mythos-pedals-big-puft-fuzz-device/
 
 ## Photo

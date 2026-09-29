@@ -7,7 +7,6 @@
 - **Identity:** DigiTech's X-Series Tone Driver.
 
 ## What this pedal is
-X-Series Tone Driver by DigiTech | RockBoard | PedalPedia Skip to main content LOG IN EXPLORE DigiTech X-Series Tone Driver LOG IN TO SUGGEST IMPROVEMENTS OVERDRIVE DISTORTION Description DigiTech The Tone Driver effect pedal uses multi-distortion technology to create a range of different overdrive pedal sounds to enhance your playing.
 
 ## Colorways
 - No specific factory colorway information was established in the verified evidence packet.
@@ -27,7 +26,6 @@ X-Series Tone Driver by DigiTech | RockBoard | PedalPedia Skip to main content L
 - **Exact part:** Unknown.
 
 ## Sound
-X-Series Tone Driver by DigiTech | RockBoard | PedalPedia Skip to main content LOG IN EXPLORE DigiTech X-Series Tone Driver LOG IN TO SUGGEST IMPROVEMENTS OVERDRIVE DISTORTION Description DigiTech The Tone Driver effect pedal uses multi-distortion technology to create a range of different overdrive pedal sounds to enhance your playing.
 The pedal also has four controls that can be used to change the sound produced by the pedal.
 A Level knob determines how much the pedal affects the sound, a Tone knob controls how much the high frequencies are attenuated and boosted, the Gain knob controls the amount of distortion and the Morph knob determines how much the individual overdrive voices morph with each other.
 

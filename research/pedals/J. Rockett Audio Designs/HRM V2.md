@@ -7,7 +7,7 @@
 - **Identity:** J. Rockett Audio Designs's HRM V2.
 
 ## What this pedal is
-The HRM V2 is designed to achieve the overdriven sounds of a D s tyle amp with the HRM E Q mod&quot; This EQ mo d cr eates a v ery low- mid centric thro aty soun d wh ere t he g uitar fre quen cies liv e&quot; The touc h sensitivity and quickness gives the effect of immediacy and cuts through the mix.
+The HRM V2 is designed to achieve the overdriven sounds of a D s tyle amp with the HRM E Q mod" This EQ mo d cr eates a v ery low- mid centric thro aty soun d wh ere t he g uitar fre quen cies liv e" The touc h sensitivity and quickness gives the effect of immediacy and cuts through the mix.
 
 ## Colorways
 - No specific factory colorway information was established in the verified evidence packet.

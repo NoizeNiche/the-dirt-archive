@@ -51,7 +51,6 @@ This pass adds only claims supported by the newly admitted exact-model evidence.
 This pedal brings the classic Tone Bender circuit into the modern age with an LED indicator and a 9vDC power jack, so you can tell when your pedal is on, and never have to worry about changing that pesky battery!
 
 ### Verified color/finish evidence
-- Close Colorsound / Sola Sound Hybrid Tone Bender - Used Sale Regular price $699.00 Default Title - Sold Out Quantity Sold Out The reissue of the infamous "Yellow Hybrid" Tone Bender from Sola Sound / Colorsound.
 
 ### Verified version references
 - The evidence references: V2.
@@ -63,11 +62,10 @@ This pedal brings the classic Tone Bender circuit into the modern age with an LE
 - LED, LEDs.
 
 ### Verified sound evidence
-Close Colorsound / Sola Sound Hybrid Tone Bender - Used Sale Regular price $699.00 Default Title - Sold Out Quantity Sold Out The reissue of the infamous "Yellow Hybrid" Tone Bender from Sola Sound / Colorsound.
 This pedal brings the classic Tone Bender circuit into the modern age with an LED indicator and a 9vDC power jack, so you can tell when your pedal is on, and never have to worry about changing that pesky battery!
 These pedals sound beautiful when cranked and have the ability for your volume pedal to clean it all up to a nice lower gain dirt box.
 
 ### Sources checked in this pass
-1. Colorsound / Sola Sound Hybrid Tone Bender - Used &ndash; eastside music supply: https://eastsidemusicsupply.com/products/colorsound-sola-sound-hybrid-tone-bender-used
+1. Colorsound / Sola Sound Hybrid Tone Bender - Used – eastside music supply: https://eastsidemusicsupply.com/products/colorsound-sola-sound-hybrid-tone-bender-used
 2. David Morrin - Sola Sound Tone Bender: https://sites.google.com/site/davidmorrinoldsite/home/trouble/troubleeffects/sola-sound-tone-bender
 3. The Sola Sound Tone Bender and the Early Evolution of the Fuzz Pedal | GuitarPlayer: https://www.guitarplayer.com/gear/the-sola-sound-tone-bender-and-the-early-evolution-of-the-fuzz-pedal

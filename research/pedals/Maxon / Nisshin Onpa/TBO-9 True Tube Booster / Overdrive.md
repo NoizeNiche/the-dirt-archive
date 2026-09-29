@@ -31,7 +31,7 @@ TRUE TUBE BOOSTER-OVERDRIVE (TBO-9) – Godlyke, Inc.
 The Dirt Archive currently catalogs **TBO-9 True Tube Booster / Overdrive** by **Maxon / Nisshin Onpa** as a **Overdrive** pedal.
 
 ## Sources checked
-1. TRUE TUBE BOOSTER-OVERDRIVE (TBO-9) &ndash; Godlyke, Inc.: https://maxonfx.com/products/true-tube-booster-overdrive-tbo-9
+1. TRUE TUBE BOOSTER-OVERDRIVE (TBO-9) – Godlyke, Inc.: https://maxonfx.com/products/true-tube-booster-overdrive-tbo-9
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

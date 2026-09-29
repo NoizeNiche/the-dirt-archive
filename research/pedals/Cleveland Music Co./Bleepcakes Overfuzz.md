@@ -58,4 +58,4 @@ With an adjustable diode lift control, you can dial in just the right mix of tra
 Share Share Link Close share Copy link View full details Sort of a fuzz.
 
 ### Sources checked in this pass
-1. Bleepcakes Overfuzz &ndash; Cleveland Music Co.: https://clevelandmusicco.com/products/bleepcakes-overfuzz
+1. Bleepcakes Overfuzz – Cleveland Music Co.: https://clevelandmusicco.com/products/bleepcakes-overfuzz

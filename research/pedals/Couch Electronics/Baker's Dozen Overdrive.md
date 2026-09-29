@@ -81,4 +81,4 @@ This pedal ranges from a clean boost to medium-gain overdrive , maintains a fair
 1. catalog/override source: https://reverb.com/item/87240609-couch-electronics-baker-s-dozen-overdrive-pedal
 2. couch electronics - Baker's Dozen overdrive | Couch Electronics | Analog Guitar Pedals: https://www.couchelectronics.com/pedals/p/bakers-dozen
 3. Couch Electronics Baker's Dozen Overdrive - Pedal of the Day: https://www.pedal-of-the-day.com/2024/12/12/couch-electronics-bakers-dozen-overdrive/
-4. Couch Electronics - Baker's Dozen Overdrive &ndash; LEP INTERNATIONAL: https://lep-international.jp/products/couch-electronics-bakers-dozen-overdrive
+4. Couch Electronics - Baker's Dozen Overdrive – LEP INTERNATIONAL: https://lep-international.jp/products/couch-electronics-bakers-dozen-overdrive

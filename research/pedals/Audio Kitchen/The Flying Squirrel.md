@@ -55,7 +55,6 @@ This pass adds only claims supported by the newly admitted exact-model evidence.
 The impetus was to create the biggest-sounding, richest, fruitiest, most syrupy, decadently harmonic drive and fuzz pedal I could deliver.
 
 ### Verified sound evidence
-escape }}\" class=\"boost-sd__modal\" id=\"boost-sd__modal-quickview\" data-product-id='{{ productData.id }}' data-product='{{ productData
 Audio Kitchen The Flying Squirrel Fuzz
 The impetus was to create the biggest-sounding, richest, fruitiest, most syrupy, decadently harmonic drive and fuzz pedal I could deliver.
 

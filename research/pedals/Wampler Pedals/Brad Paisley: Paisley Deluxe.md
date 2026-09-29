@@ -46,7 +46,6 @@ This pass adds only claims supported by the newly admitted exact-model evidence.
 It's with this in mind that Wampler combined Brad's two favorite Wampler tones in the Paisley Deluxe dual overdrive pedal.
 
 ### Verified sound evidence
-Top |' data-navmenu="off" data-hashurl="off" data-menuSlider="off" data-continue-autoplay="off" data-outside-nav="off" data-autoplay="off" > 4 5 Wampler's relationship with Brad Paisley goes back to a time way before his signature Paisley Drive pedal.
 In fact, thanks to the way it produced similar tones to the lauded Nobels ODR-S with more control for fine-tuning his sound, the first Wampler pedal Brad fell in love with was the since-discontinued Underdog overdrive.
 It's with this in mind that Wampler combined Brad's two favorite Wampler tones in the Paisley Deluxe dual overdrive pedal.
 

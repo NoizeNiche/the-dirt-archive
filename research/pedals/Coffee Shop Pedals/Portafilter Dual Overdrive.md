@@ -73,5 +73,5 @@ Two Fully Customizable Sides Each drive circuit comes with a 3-band EQ and selec
 Program the sides independently for versatile setups, or sync them for a stacked dual-drive sound.
 
 ### Sources checked in this pass
-1. Portafilter Dual Overdrive &ndash; Coffee Shop Pedals: https://coffeeshoppedals.com/products/portafilter-dual-overdrive
+1. Portafilter Dual Overdrive – Coffee Shop Pedals: https://coffeeshoppedals.com/products/portafilter-dual-overdrive
 2. Coffee Shop Pedals Portafilter Dual Overdrive — Overdrive Pedal Specs & Where to Buy | one thousand pedals: https://onethousandpedals.com/pedal/coffee-shop-pedals-portafilter-dual-overdrive

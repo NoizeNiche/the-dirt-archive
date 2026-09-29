@@ -32,7 +32,7 @@ The presence control gives you a wide range of top-end contour and the active 3 
 The Talons can be powered at the standard 9v for a warmer amp-like tone or at 18v for greater headroom, more volume and a brighter, stiffer grind.
 
 ## Sources checked
-1. Talons &mdash; EarthQuaker Devices: https://www.earthquakerdevices.com/talons
+1. Talons — EarthQuaker Devices: https://www.earthquakerdevices.com/talons
 2. EarthQuaker Devices Talons Pedal Review - Premier Guitar: https://www.premierguitar.com/gear/earthquaker-devices-talons-pedal-review
 3. catalog/override source: https://www.effectsdatabase.com/model/earthquaker/talons
 

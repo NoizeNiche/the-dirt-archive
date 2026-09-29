@@ -34,11 +34,11 @@ The gain ranged from clean to high gain to suit all Jazz, Fusion, and Shred genr
 The low cut was controlled so that it would not affect the texture of the distortion at any point, and so that the "audibility" could be adjusted to suit the playing environment.
 
 ## Sources checked
-1. Redemptionist EVR (aka RED EVR &ndash; Leqtiqueshop: https://leqtique.ch/en/products/redevr-release
+1. Redemptionist EVR (aka RED EVR – Leqtiqueshop: https://leqtique.ch/en/products/redevr-release
 2. Leqtique / Redemptionistの特徴と使い方などをレビュー。幅広いジャンルの歪みを作れる万能ペダル。: https://beginner-effector.com/leqtique-redemptionist/
 3. Leqtique Redemptionist - Reverb: https://reverb.com/item/3204663-leqtique-redemptionist
 4. LEQTIQUE EVR Redemptionist EVR DS10259269 - eBay: https://www.ebay.com/itm/278039679263
-5. 【万能歪み】Leqtique Redemptionist レビュー：５年使ったからわかる特徴と使い方 &#8211; とたんブログ: https://www.life.betterkiso.com/leqtique-redemptionist/
+5. 【万能歪み】Leqtique Redemptionist レビュー：５年使ったからわかる特徴と使い方 – とたんブログ: https://www.life.betterkiso.com/leqtique-redemptionist/
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

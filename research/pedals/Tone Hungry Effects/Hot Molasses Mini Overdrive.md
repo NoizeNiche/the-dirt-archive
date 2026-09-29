@@ -34,7 +34,7 @@ From Tone Hungry Effects The Hot Molasses is a great new overdrive from Tone Hun
 The Hot Molasses is built to offer the sound of a small combo amp that is driven to it’s limits.
 
 ## Sources checked
-1. Tone Hungry Effects Hot Molasses Overdrive (Used) &ndash; Acoustic Music Shop: https://www.acousticmusicshop.com/products/tone-hungry-effects-hot-molasses-overdrive-used
+1. Tone Hungry Effects Hot Molasses Overdrive (Used) – Acoustic Music Shop: https://www.acousticmusicshop.com/products/tone-hungry-effects-hot-molasses-overdrive-used
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

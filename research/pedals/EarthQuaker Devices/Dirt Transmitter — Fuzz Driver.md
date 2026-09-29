@@ -32,7 +32,7 @@ The Dirt Transmitter uses rare-Earth precious Silicon metal transistors for a bi
 The “Bias” control starves the transistors of necessary electrical current, resulting in a gated, or “dying battery” sound for space-age Velcro-like fuzz tones.
 
 ## Sources checked
-1. Dirt Transmitter &mdash; EarthQuaker Devices: https://www.earthquakerdevices.com/dirt-transmitter
+1. Dirt Transmitter — EarthQuaker Devices: https://www.earthquakerdevices.com/dirt-transmitter
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

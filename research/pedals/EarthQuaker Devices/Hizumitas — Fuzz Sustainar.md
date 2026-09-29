@@ -32,7 +32,7 @@ The Hizumitas is a faithful sonic recreation of her go-to distortion which has b
 Sustain: More distortion and sustain clockwise; less counterclockwise.
 
 ## Sources checked
-1. Hizumitas Fuzz Sustainar &mdash; EarthQuaker Devices: https://www.earthquakerdevices.com/hizumitas
+1. Hizumitas Fuzz Sustainar — EarthQuaker Devices: https://www.earthquakerdevices.com/hizumitas
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

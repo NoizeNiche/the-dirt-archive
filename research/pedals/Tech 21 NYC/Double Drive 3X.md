@@ -10,7 +10,7 @@
 The 100% analog Double Drive 3X is a 3-channel, fully programmable version of its single channel predecessor and features active 3-band EQ.
 
 ## Colorways
-- Add to cart All Products Deering Nylon Banjo Strap &#8211; Black &#36; 12.95 Original price was: &#036;12.95.
+- Add to cart All Products Deering Nylon Banjo Strap – Black $ 12.95 Original price was: $12.95.
 
 ## Versions and factory options
 - No distinct factory revision was established in the verified evidence packet.
@@ -32,7 +32,7 @@ The 100% analog Double Drive 3X is a 3-channel, fully programmable version of it
 The expanded tone section gives you even greater flexibility to create incredible and original tones.
 
 ## Sources checked
-1. Double Drive 3X &#8211; Tech 21 NYC: https://www.tech21nyc.com/archive/double-drive-3x/
+1. Double Drive 3X – Tech 21 NYC: https://www.tech21nyc.com/archive/double-drive-3x/
 2. Tech 21 NYC Double Drive 3X - Elegant Classical Guitars Crafted for Rich Tone, Smooth Playability, and Lasting Performance: https://www.typicalguitars.com/product/tech-21-nyc-double-drive-3x/
 3. TECH 21 NYC Double Drive 3X Mod Pedal In Mint Condition NIB ... - eBay: https://www.ebay.com/itm/157911150605
 4. Tech 21 NYC Double Drive 3X - Programmable Analog | Reverb UK: https://reverb.com/uk/item/95417162-tech-21-nyc-double-drive-3x-programmable-analog-overdrive-distortion-made-in-usa

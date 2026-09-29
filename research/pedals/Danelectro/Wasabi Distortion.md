@@ -27,7 +27,7 @@ Yes No Submitted by skinsuit from Toronto (14 points) on Dec 28, 2004 picked up 
 - **Exact part:** Unknown.
 
 ## Sound
-GearBug - Danelectro Wasabi Distortion AX-1 gearbug .com Music gear info and reviews Search FAQ Sign In Danelectro Wasabi Distortion AX-1 &laquo; Previous Item Next Item &raquo; Close Close - Thick, fat distortion with nearly endless sustain 4 EQ presets - Separate bass and treble controls - Multilevel Lead Boost - Wet/dry mix control - Secret Slap Echo Doubler - Pickup selector - Rugged die-cast case Manufacturer&#8217;s Suggested Retail Price: &#36;129.00 Looking to buy the Danelectro Wasabi Distortion AX-1?
+GearBug - Danelectro Wasabi Distortion AX-1 gearbug .com Music gear info and reviews Search FAQ Sign In Danelectro Wasabi Distortion AX-1 « Previous Item Next Item » Close Close - Thick, fat distortion with nearly endless sustain 4 EQ presets - Separate bass and treble controls - Multilevel Lead Boost - Wet/dry mix control - Secret Slap Echo Doubler - Pickup selector - Rugged die-cast case Manufacturer’s Suggested Retail Price: $129.00 Looking to buy the Danelectro Wasabi Distortion AX-1?
 Add to My Bookmarks All items from Danelectro Add your review User Reviews of the Danelectro Wasabi Distortion AX-1 Submitted by AULOS from Hereford Uk (488 points) on Jun 4, 2008 I used to use this to make a tube amp match a modern amp for the style of music I was playing at the time.
 It's a cool shape, based on a car, but the tone is tiny and really high gain.
 

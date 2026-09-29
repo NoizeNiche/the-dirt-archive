@@ -34,7 +34,7 @@ Two toggle switches are responsible for different tonal and gain shapes, and wit
 Another original feature is a Dynamic-O-Meter™ (Diktator’s eyes), which is a visual indicator of the drive’s dynamic response.
 
 ## Sources checked
-1. DIKTATOR Preamp/OD/Distortion &ndash; Dawner Prince Electronics: https://dawnerprince.com/products/Diktator
+1. DIKTATOR Preamp/OD/Distortion – Dawner Prince Electronics: https://dawnerprince.com/products/Diktator
 2. Diktator Owner's Manual in pdf... - Dawner Prince Electronics: https://www.facebook.com/dawnerprince/posts/diktator-owners-manual-in-pdf-version/391998040815347/
 3. Dawner Prince Electronics Dawner Prince Diktator MKII - What To Know ...: https://equipboard.com/items/dawner-prince-electronics-dawner-prince-diktator-mkii
 4. Dawner Prince Electronics Diktator - Effects Pedals: https://www.effects-pedals.info/p/dawner-prince-electronics-diktator/

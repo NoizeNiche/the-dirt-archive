@@ -31,7 +31,7 @@ BRUTUS – Dynamic Crunch & Overdrive Pedal
 The Dirt Archive currently catalogs **Brutus** by **TONECAT** as a **Overdrive** pedal.
 
 ## Sources checked
-1. BRUTUS – Dynamic Crunch & Overdrive Pedal | TONECAT &mdash; TONECAT: https://www.tonecat.life/shop/p/tonecat-brutus-overdrive
+1. BRUTUS – Dynamic Crunch & Overdrive Pedal | TONECAT — TONECAT: https://www.tonecat.life/shop/p/tonecat-brutus-overdrive
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

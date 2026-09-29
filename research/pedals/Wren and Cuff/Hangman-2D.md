@@ -35,7 +35,7 @@ As with many of our recreations, it became an obsession and difficult task to re
 Surprisingly though, one trait it does not possess is the extreme scoop to the mids many associate with “Heavy Metal.” One of the secrets to it’s tone is the somewhat strange configuration of it’s “color mix” section.
 
 ## Sources checked
-1. Hangman-2D &mdash; Wren and Cuff: https://www.wrenandcuff.com/products/hangman-2d
+1. Hangman-2D — Wren and Cuff: https://www.wrenandcuff.com/products/hangman-2d
 2. Wren and Cuff Hangman 2D: https://guitarpedalshoppe.com/Wren-and-Cuff-Hangman-2D
 3. Wren and Cuff Hangman 2D - Reverb: https://reverb.com/p/wren-and-cuff-hangman-2d
 4. Wren and Cuff Hangman-2D - What To Know & Where To Buy: https://equipboard.com/items/wren-and-cuff-hang-man-2-distortion-pedal

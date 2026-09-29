@@ -33,7 +33,7 @@ Mask Audio Electronics Screws - Octave Fuzz
 
 ## Sources checked
 1. Mask Audio Electronics Screws - Reverb: https://reverb.com/item/99292832-mask-audio-electronics-screws
-2. Screws &ndash; Mask Audio Electronics: https://maskaudioelectronics.com/products/screws
+2. Screws – Mask Audio Electronics: https://maskaudioelectronics.com/products/screws
 3. Mask Audio Electronics Screws - Octave Fuzz | Effects Database: https://www.effectsdatabase.com/model/mask/screws
 
 ## Photo

@@ -34,7 +34,7 @@ Simplicity is Key The Chupacabra CMOS Overdrive is made for those that love usin
 
 ## Sources checked
 1. Mythos Pedals Chupacabra CMOS Overdrive Pedal | Equipboard: https://equipboard.com/items/mythos-pedals-chupacabra-overdrive-fuzz
-2. Chupacabra CMOS Overdrive &ndash; Mythos Pedals: https://mythospedals.com/products/chupacabra-cmos-overdrive
+2. Chupacabra CMOS Overdrive – Mythos Pedals: https://mythospedals.com/products/chupacabra-cmos-overdrive
 3. Mythos Pedals Chupacabra CMOS Overdrive | ReverbZone: https://reverbzone.com/mythos-pedals/mythos-pedals-chupacabra-cmos-overdrive/
 4. Mythos Pedals Chupacabra CMOS Overdrive - Solid Body Electric Guitars with Stage-Ready Tone: https://www.axisguitar.com/product/mythos-pedals-chupacabra-cmos-overdrive/
 5. PDF Chupacabra CMOS Overdrive Manual V1: https://www.zikinf.com/manuels/mythos-pedals-chupacabra-manuel-utilisateur-en-98381.pdf

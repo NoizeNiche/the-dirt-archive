@@ -33,7 +33,7 @@ Mid-Fi Electronics Rise/OverRun Pedal Review This pedal starts by adding a gritt
 ## Sources checked
 1. Mid-Fi Electronics ::: Rise/OverRun: https://www.midfielectronics.com/rise-overrun
 2. Mid-Fi Electronics Rise/OverRun 2025 - Various - Reverb: https://reverb.com/item/93495313-mid-fi-electronics-rise-overrun-2025-various
-3. Mid-Fi Electronics Rise/OverRun: A Reactive Fuzz-Filter Pedal &ndash; DeathCloud: https://deathcloud.com/blogs/gear-news/mid-fi-electronics-rise-overrun-a-reactive-fuzz-filter-pedal
+3. Mid-Fi Electronics Rise/OverRun: A Reactive Fuzz-Filter Pedal – DeathCloud: https://deathcloud.com/blogs/gear-news/mid-fi-electronics-rise-overrun-a-reactive-fuzz-filter-pedal
 4. The Mid-Fi Electronics Rise/OverRun is pure chaos in pedal form! Your signal gets fuzzed, split into parallel filters, then modulated by a staircase waveform that reacts to your playing. Lower notes = slower movement Higher notes = faster movement How would you use the Rise/OverRun? Let us know in the comments! @midfielectronics #midfielectronics #guitar #guitarpedals #guitargear #pedalboard #tonefordays | DeathCloud: https://www.facebook.com/DeathCloudUSA/videos/the-mid-fi-electronics-riseoverrun-is-pure-chaos-in-pedal-form-your-signal-gets-/1736299004383962/
 5. Mid-Fi Electronics Rise/OverRun Pedal Random Color | Effects Pedal: https://www.micinstrument.com/product/mid-fi-electronics-rise-overrun-pedal-random-color/
 

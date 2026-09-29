@@ -33,7 +33,7 @@ Large, CTS Pots: They give you a smooth, even sweep throughout the range of the 
 Fat Switch: Provides a significant bass boost and simultaneous high cut – this makes the pedal more suitable for bass guitar, lower tunings, as well as fattening up and smoothing low gain settings, making this a good candidate for overdrive use.
 
 ## Sources checked
-1. ProCo Sound FAT RAT &ndash; Lonestar Music Depot: https://lonestarmusicdepot.com/products/proco-sound-fat-rat
+1. ProCo Sound FAT RAT – Lonestar Music Depot: https://lonestarmusicdepot.com/products/proco-sound-fat-rat
 2. ProCo Sound FAT RAT 703272234660| eBay: https://www.ebay.com/itm/137475394462
 3. ProCo Sound Fat Rat - Distortion - Audiofanzine: https://en.audiofanzine.com/guitar-distortion-overdrive-fuzz/proco-sound/fat-rat/
 4. ProCo Sound FAT RAT - Reverb: https://reverb.com/item/99057817-proco-sound-fat-rat

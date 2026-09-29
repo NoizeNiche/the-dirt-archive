@@ -27,13 +27,13 @@ ZVEX Effects's Fuzz Factory 7 is cataloged as a fuzz pedal.
 - **Exact part:** Unknown.
 
 ## Sound
-Fuzz Factory 7 &mdash; ZVEX Effects For Fastest Service: If you need repairs, technical help, or replacement parts, see our repairs page , or contact repairs@zvex.com .
-Mod Modulation Octave Phaser Sampler Step Sequencer Tremolo Vibrato Volume Wah Yvette Young Guitar Pedals &larr; Back to Guitar Pedals Fuzz Factory 7 Fuzz Factory 7 $499.00 Hand painted pedals feature a lifetime warranty.
+Fuzz Factory 7 — ZVEX Effects For Fastest Service: If you need repairs, technical help, or replacement parts, see our repairs page , or contact repairs@zvex.com .
+Mod Modulation Octave Phaser Sampler Step Sequencer Tremolo Vibrato Volume Wah Yvette Young Guitar Pedals ← Back to Guitar Pedals Fuzz Factory 7 Fuzz Factory 7 $499.00 Hand painted pedals feature a lifetime warranty.
 Quantity: Add To Cart The next edition of our Fuzz Factory 7, using two NOS 1960s GT308 germanium transistors (from Ukraine) Germanium transistors.
 
 ## Sources checked
-1. Fuzz Factory 7 &mdash; ZVEX Effects: https://www.zvex.com/guitar-pedals/fuzz-factory-7-guitar-effects-pedal
-2. Fuzz Factory 7 &mdash; ZVEX Effects: https://zvex.mom/guitar-pedals/fuzz-factory-7-guitar-effects-pedal
+1. Fuzz Factory 7 — ZVEX Effects: https://www.zvex.com/guitar-pedals/fuzz-factory-7-guitar-effects-pedal
+2. Fuzz Factory 7 — ZVEX Effects: https://zvex.mom/guitar-pedals/fuzz-factory-7-guitar-effects-pedal
 3. ZVEX Effects Fuzz Factory 7 (Hand Painted) - Reverb: https://reverb.com/item/97804000-zvex-effects-fuzz-factory-7-hand-painted
 4. ZVex Effects Fuzz Factory 7 Pedal Factory Scratch Dent B Stock | eBay: https://www.ebay.com/itm/168593990743
 

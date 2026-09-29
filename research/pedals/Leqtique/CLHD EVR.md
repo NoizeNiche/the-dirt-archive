@@ -7,7 +7,6 @@
 - **Identity:** Leqtique's CLHD EVR.
 
 ## What this pedal is
-CLHD EVR Manual &ndash; Leqtiqueshop Skip to content Submit Close search Leqtiqueshop Submit Search Log in Cart CLHD EVR Manual This is the manual page for Leqtique EVR -CLHD EVR.
 
 ## Colorways
 - No specific factory colorway information was established in the verified evidence packet.
@@ -32,7 +31,7 @@ On a regular CLHD, this Low-Cut is turned all the way to the left (no low-cut), 
 In addition, the original CLHD had a vulnerability in the internal boost IC, which meant that repeatedly plugging and unplugging the power supply without the input jack plugged in would damage the IC and prevent it from operating.
 
 ## Sources checked
-1. CLHD EVR Manual &ndash; Leqtiqueshop: https://leqtique.ch/en/pages/clhd-evr-manual
+1. CLHD EVR Manual – Leqtiqueshop: https://leqtique.ch/en/pages/clhd-evr-manual
 2. Leqtique CLHD EVR | Reverb France: https://reverb.com/fr/item/101517155-leqtique-clhd-evr
 3. LEQTIQUE EVR CLHD EVR #143 New 1621368 LEQTIQUE EVR【楽器検索｜Jギター】: https://www.j-guitar.com/products/detail.php?id=1621368&lang=en
 

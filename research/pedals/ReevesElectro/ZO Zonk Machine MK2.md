@@ -33,7 +33,7 @@ Open media 9 in modal Play video ZO: - Zonk Machine MK2 Silicon Fuzz with NOS Tr
 Open media 10 in modal Play video ZO: - Zonk Machine MK2 Silicon Fuzz with NOS Transistors opens full screen video in same window.
 
 ## Sources checked
-1. ZO: Zonk Machine MK2 Silicon Fuzz Pedal | NOS Sprague 2N2926 Transistors | UK Made &ndash; ReevesElectro Point to Point Guitar Pedals: https://reeveselectro.co.uk/products/zo-zonk-machine-mk2-silicon-fuzz-with-nos-transistors
+1. ZO: Zonk Machine MK2 Silicon Fuzz Pedal | NOS Sprague 2N2926 Transistors | UK Made – ReevesElectro Point to Point Guitar Pedals: https://reeveselectro.co.uk/products/zo-zonk-machine-mk2-silicon-fuzz-with-nos-transistors
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

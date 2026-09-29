@@ -34,7 +34,7 @@ The Klone RYRA Distortion Dimensions 119 mm wide 94 mm high Current Draw ?
 ## Sources checked
 1. Ryra The Klone - Reverb: https://reverb.com/p/ryra-the-klone
 2. RYRA The Klone — Overdrive Pedal | Equipboard: https://equipboard.com/items/ryra-klone-overdrive
-3. Ryra &quot;The Klone&quot; - Matt's Music Center: https://mattsmusic.com/product/ryra-the-klone/
+3. Ryra "The Klone" - Matt's Music Center: https://mattsmusic.com/product/ryra-the-klone/
 4. RYRA Guitars | Rock Your Repaired Amp | The Klone Pedal: https://theklonepedal.com/node/12
 5. The Klone Pedal by Ryra | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/Ryra/The-Klone-Pedal/68984071/
 6. RYRA The Klone - Pedal on ModularGrid: https://modulargrid.net/p/ryra-the-klone

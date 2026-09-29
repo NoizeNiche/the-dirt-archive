@@ -39,7 +39,7 @@ It's based on a rare overdrive pedal that has acquired a mythical reputation amo
 5. MXR Sugar Drive Review - Premier Guitar: https://www.premierguitar.com/gear/mxr-sugar-drive-review
 6. MXR M-294 Sugar Drive | Effects Database: https://www.effectsdatabase.com/model/mxr/dunlop/m294
 7. MXR Sugar Drive - Reverb: https://reverb.com/item/15182834-mxr-sugar-drive
-8. Effects Pedals &gt; MXR M294 | Sugar Drive: https://www.peachguitars.com/effects/mxr-sugar-drive.htm
+8. Effects Pedals > MXR M294 | Sugar Drive: https://www.peachguitars.com/effects/mxr-sugar-drive.htm
 9. MXR M294 Sugar Drive — Overdrive Pedal | Equipboard: https://equipboard.com/items/mxr-m294-sugar-drive-mini-effects-pedal
 10. Video Mxr Sugar Drive Review: A Practical Guide to Its 90s Classic Overdrive Sound | GearStrings: https://gearstrings.com/guitars/video-mxr-sugar-drive-90s-overdrive-analysis
 

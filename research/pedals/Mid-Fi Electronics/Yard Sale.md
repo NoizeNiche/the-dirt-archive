@@ -32,7 +32,7 @@ Designed with a pair of Soviet-era silicon transistors, it produces a blown-out,
 
 ## Sources checked
 1. Mid-Fi Electronics ::: Yard Sale: https://www.midfielectronics.com/yard-sale-
-2. Mid-Fi Electronics Yard Sale Pedal &ndash; DeathCloud: https://deathcloud.com/products/mid-fi-electronics-yard-sale
+2. Mid-Fi Electronics Yard Sale Pedal – DeathCloud: https://deathcloud.com/products/mid-fi-electronics-yard-sale
 3. Mid-Fi Electronics Yard Sale Pedal - talentmusicstore.com: https://www.talentmusicstore.com/product/mid-fi-electronics-yard-sale-pedal/
 4. Mid-Fi Electronics Yard Sale - Reverb: https://reverb.com/item/82110067-mid-fi-electronics-yard-sale
 5. Mid-Fi Electronics Yard Sale Pedal - Simplifying Digital Life with Intelligent and Innovative Technology Experiences: https://www.simplifyingk.com/product/mid-fi-electronics-yard-sale-pedal/

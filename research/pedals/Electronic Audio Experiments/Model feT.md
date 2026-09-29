@@ -33,10 +33,10 @@ Most famous Model T tones come from putting a distortion or fuzz in front of the
 This broadens the range of gain and—in the true spirit of the original amp—allows for massive headroom and volume output.
 
 ## Sources checked
-1. Model feT &mdash; Electronic Audio Experiments: https://www.electronicaudioexperiments.com/pedals/model-fet
+1. Model feT — Electronic Audio Experiments: https://www.electronicaudioexperiments.com/pedals/model-fet
 2. Electronic Audio Experiments Model feT V3 - Reverb: https://reverb.com/p/electronic-audio-experiments-model-fet-v3
 3. Electronic Audio Experiments Model feT — Distortion Pedal: https://equipboard.com/items/electronic-audio-experiments-model-fet
-4. Electronic Audio Experiments Model feT &ndash; Coast Sonic: https://coastsonic.com/products/electronic-audio-experiments
+4. Electronic Audio Experiments Model feT – Coast Sonic: https://coastsonic.com/products/electronic-audio-experiments
 5. Electronic Audio Experiments Model feT Preamp Pedal - Andertons Music Co.: https://www.andertons.co.uk/electronic-audio-experiments-model-fet-preamp-pedal/
 6. model feT by Electronic Audio Experiments | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/Electronic-Audio-Experiments/model-feT/68978591/
 7. Electronic Audio Experiments Model FET Dimensions, Specs & Details: https://www.stompboxgarden.com/gear/pedal/2406/electronic-audio-experiments-model-fet

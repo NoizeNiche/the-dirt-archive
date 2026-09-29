@@ -35,7 +35,7 @@ The gain ranged from clean to high gain to suit all Jazz, Fusion, and Shred genr
 The low cut was controlled so that it would not affect the texture of the distortion at any point, and so that the "audibility" could be adjusted to suit the playing environment.
 
 ## Sources checked
-1. Redemptionist EVR (aka RED EVR &ndash; Leqtiqueshop: https://leqtique.ch/en/products/redevr-release
+1. Redemptionist EVR (aka RED EVR – Leqtiqueshop: https://leqtique.ch/en/products/redevr-release
 2. Leqtique EVR Redemptionist EVR (NEW) - Reverb: https://reverb.com/item/95180175-leqtique-evr-redemptionist-evr-new
 3. LEQTIQUE EVR Redemptionist EVR DS10259269 - eBay: https://www.ebay.com/itm/278039679263
 4. Leqtique「Redemptionist EVR」レビュー：濁りのない華やかな歪み: https://effector-life.com/redemptionist-evr/

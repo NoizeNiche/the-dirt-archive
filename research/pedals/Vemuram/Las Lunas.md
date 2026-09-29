@@ -30,7 +30,6 @@ Vemuram's Las Lunas is cataloged as a distortion pedal.
 ## Sound
 Tone shaping is managed by a three-band passive EQ with wide-ranging controls for bass, midrange tone, and upper-register treble.
 Vemuram Las Lunas Distortion Overdrive – United States Served with love!
-30 30-Day Money-Back Guarantee 3 3-Year Thomann Warranty Available since July 2026 Item number 648093 Sales Unit 1 piece(s) Overdrive Yes Distortion Yes Fuzz No Metal No $ 449 The shipping costs are calculated on the checkout page.
 
 ## Sources checked
 1. Vemuram Las Lunas: 2 Drive Modes and a Rare Trimmer Pair: https://mijguitarguide.com/new-releases/vemuram-las-lunas-distortion/

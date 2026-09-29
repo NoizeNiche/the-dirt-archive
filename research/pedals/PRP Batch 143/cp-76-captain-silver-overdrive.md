@@ -24,10 +24,8 @@ This pass adds only claims supported by the newly admitted exact-model evidence.
 Caline's CP-76 Captain Silver Overdrive is cataloged as an overdrive pedal.
 
 ### Verified color/finish evidence
-- Default Title - Sold Out Quantity Sold Out The Caline CP-76 "Captain Silver" Overdrive is another pedal inspired by the Tube Screamer but with the bonus of having two versions in one pedal.
 
 ### Verified sound evidence
-Default Title - Sold Out Quantity Sold Out The Caline CP-76 "Captain Silver" Overdrive is another pedal inspired by the Tube Screamer but with the bonus of having two versions in one pedal.
 It produces the iconic blues and rock overdrive sound but with the choice of TS808 or TS9 settings.
 The TS808 is a more open and brighter sound, switch to the TS9 Settings and serve up a tighter more compressed tone.
 

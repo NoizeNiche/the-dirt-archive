@@ -33,7 +33,7 @@ Having said all that, the best thing about the drive section of this little hot 
 
 ## Sources checked
 1. Reviewed: Mad Professor Amplification Bluebird Overdrive Pedal - Mixdown Magazine: https://mixdownmag.com.au/reviews/guitars/reviewed-mad-professor-amplification-bluebird-overdrive-pedal/
-2. Mad Prof. Bluebird OD Delay &ndash; Motor City Guitar: https://motorcityguitar.com/products/mad-professor-bluebird-overdrive-delay-pedal?variant=45057425102
+2. Mad Prof. Bluebird OD Delay – Motor City Guitar: https://motorcityguitar.com/products/mad-professor-bluebird-overdrive-delay-pedal?variant=45057425102
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

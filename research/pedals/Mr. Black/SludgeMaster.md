@@ -36,7 +36,7 @@ Close Close Buy any pedal and add a Vintage Overdrive for $50.00!!
 Many sounds have come and gone over the decades of electric guitar, but one sound in particular was born of fire and cemented in Rock N Roll: the Fuzz Sound.
 
 ## Sources checked
-1. SludgeMaster &ndash; Mr. Black: https://www.mrblackpedals.com/products/sludgemaster
+1. SludgeMaster – Mr. Black: https://www.mrblackpedals.com/products/sludgemaster
 2. Mr. Black SludgeMaster | Effects Database: https://www.effectsdatabase.com/model/mrblack/sludgemaster
 3. Mr. Black SludgeMaster - Reverb: https://reverb.com/item/84046606-mr-black-sludgemaster
 4. Mr. Black SludgeMaster - Shop: https://shop.app/products/7979529765042/sludgemaster

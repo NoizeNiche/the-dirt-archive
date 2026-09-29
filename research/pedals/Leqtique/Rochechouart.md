@@ -33,7 +33,7 @@ This pedal has a nice, compressed tone that both cuts through a mix and is well-
 
 ## Sources checked
 1. Leqtique Rochechouart - Reverb: https://reverb.com/item/75014012-leqtique-rochechouart
-2. Leqtique Rochechouart &mdash; Tonexcellence.com: https://www.tonexcellence.com/all-tonex-presets/p/leqtique-rochechouart
+2. Leqtique Rochechouart — Tonexcellence.com: https://www.tonexcellence.com/all-tonex-presets/p/leqtique-rochechouart
 3. Leqtique / Rochechouart | STIFF SLACK WEBSHOP: https://www.stiffslack.shop/shopdetail/000000000992/
 4. LEQTIQUE ROCHECHOUART | Guitar Overdrive Effect Pedal in Good ... - eBay: https://www.ebay.com/itm/357455109862
 5. Leqtique”Rochechouart” : 【○八】マルハチBlog: https://maruhatch.exblog.jp/24503282/

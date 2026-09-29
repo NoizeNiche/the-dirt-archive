@@ -7,10 +7,8 @@
 - **Identity:** J. Rockett Audio Designs's Blue Note Select.
 
 ## What this pedal is
-Rockett Audio Designs Blue Note Select LOG IN TO SUGGEST IMPROVEMENTS OVERDRIVE BOOSTER Description The Blue Note Select is a “V2” of our favorite circuit.
 
 ## Colorways
-- Rockett Audio Designs Blue Note Select LOG IN TO SUGGEST IMPROVEMENTS OVERDRIVE BOOSTER Description The Blue Note Select is a “V2” of our favorite circuit.
 - The original Blue Note Pro Series was the first and that included the “Hot” switch.
 - The newest Blue Note Select not only includes the”hot” switch but also includes major improvements to the looks, the sound and the overall feel, all in a very small package.
 
@@ -30,7 +28,6 @@ Rockett Audio Designs Blue Note Select LOG IN TO SUGGEST IMPROVEMENTS OVERDRIVE 
 - **Exact part:** Unknown.
 
 ## Sound
-Rockett Audio Designs Blue Note Select LOG IN TO SUGGEST IMPROVEMENTS OVERDRIVE BOOSTER Description The Blue Note Select is a “V2” of our favorite circuit.
 The newest Blue Note Select not only includes the”hot” switch but also includes major improvements to the looks, the sound and the overall feel, all in a very small package.
 This could be our best overall low gain drive.
 

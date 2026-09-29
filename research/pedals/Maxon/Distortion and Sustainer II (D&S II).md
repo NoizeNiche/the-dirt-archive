@@ -30,7 +30,7 @@ Maxon's Distortion and Sustainer II (D&S II) is cataloged as a distortion / over
 DISTORTION AND SUSTAINER II (D&S II) – Godlyke, Inc.
 
 ## Sources checked
-1. DISTORTION AND SUSTAINER II (D&S II) &ndash; Godlyke, Inc.: https://maxonfx.com/products/reissue-series-effects-pedals-d-s-ii-2-distortion-sustainer
+1. DISTORTION AND SUSTAINER II (D&S II) – Godlyke, Inc.: https://maxonfx.com/products/reissue-series-effects-pedals-d-s-ii-2-distortion-sustainer
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

@@ -33,7 +33,7 @@ Devi Ever has been building boutique guitar pedals by hand since 2003, creating 
 
 ## Sources checked
 1. Torn's Peaker (125B) — Devi Ever: FX Fuzz Pedal | PedalFilter | PedalFilter: https://pedalfilter.com/devi-ever-fx/torn-s-peaker-125b
-2. Devi Ever FX Torn's Peaker &ndash; DeviEverFX: https://deviever.net/products/devi-ever-fx-torns-peaker
+2. Devi Ever FX Torn's Peaker – DeviEverFX: https://deviever.net/products/devi-ever-fx-torns-peaker
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

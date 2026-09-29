@@ -29,7 +29,7 @@ Ampeg's Scrambler Bass Overdrive is cataloged as an overdrive pedal.
 ## Sound
 Dial in a huge range of overdrive from subtle to screaming.
 Add in a touch of highs, then blend in with your dry signal to create the perfect tone.
-It&rsquo;s pure analog Ampeg overdrive that&rsquo;s super affordable.
+It’s pure analog Ampeg overdrive that’s super affordable.
 
 ## Sources checked
 1. Ampeg Scrambler Bass Overdrive Effects Pedal: https://www.rainbowmusic.co.uk/ampeg-scrambler-bass-overdrive-effects-pedal/

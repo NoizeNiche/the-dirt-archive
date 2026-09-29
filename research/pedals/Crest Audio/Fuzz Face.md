@@ -59,5 +59,5 @@ Crest Audio's Fuzz Face is cataloged as a fuzz pedal.
 ### Sources checked in this pass
 1. Crest Audio Fuzz Face 1980s - Reverb: https://reverb.com/item/97586715-crest-audio-fuzz-face-1980s
 2. Vintage Crest Audio Fuzz Face Effects Pedal BC109 Free US S&H - eBay: https://www.ebay.com/itm/197278381122
-3. Crest Audio &quot;Dallas Arbiter&quot; Fuzz Face BC109C Reissue - Equipboard: https://equipboard.com/items/dallas-arbiter-fuzz-face-bc109c-reissue
+3. Crest Audio "Dallas Arbiter" Fuzz Face BC109C Reissue - Equipboard: https://equipboard.com/items/dallas-arbiter-fuzz-face-bc109c-reissue
 4. Fuzz Face reissue by Crest Audio (late 1980s version) • FXDB ...: https://forum.effectsdatabase.com/viewtopic.php?f=6&t=274

@@ -55,4 +55,4 @@ Brummie Similar Articles Lightspeed Organic Overdrive (WTB) $309.60 Lightspeed O
 
 ### Sources checked in this pass
 1. catalog/override source: https://creepyfingersffects.bigcartel.com/product/brummie
-2. Brummie &ndash; Joe's Pedals: https://joespedals.com/products/brummie
+2. Brummie – Joe's Pedals: https://joespedals.com/products/brummie

@@ -34,7 +34,7 @@ Custom Tones is thrilled to unveil the ETHOS 60â€™s Dual Harmonic Bias Trem (60â
 Building on the foundation of our original single unit Harmonic Bias Trem, this Dual version elevates your sound experience with complete STEREO capability, plus the versatility of series CASCADE configuration.
 
 ## Sources checked
-1. Boutique Guitar Effects &amp; Ethos Guitar FX - Shop Now: https://customtonesinc.com/
+1. Boutique Guitar Effects & Ethos Guitar FX - Shop Now: https://customtonesinc.com/
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

@@ -73,7 +73,7 @@ With an assignable boost footswitch you can select to boost gain, volume or both
 
 ### Sources checked in this pass
 1. Crazy Tube Circuits Black Magic - What To Know & Where To Buy: https://equipboard.com/items/crazy-tube-circuits-black-magic
-2. Crazy Tube Circuits &quot;Black Magic MKII&quot; - Reverb: https://reverb.com/item/40217056-crazy-tube-circuits-black-magic-mkii
+2. Crazy Tube Circuits "Black Magic MKII" - Reverb: https://reverb.com/item/40217056-crazy-tube-circuits-black-magic-mkii
 3. CRAZY TUBE CIRCUITS Black Magic MK II Effect Pedal JP: https://www.ebay.com/itm/198610336525
 4. Black Magic MK II by Crazy Tube Circuits | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/Crazy-Tube-Circuits/Black-Magic-MK-II/68976961/
 5. Crazy Tube Circuits Black Magic Starlight & Ziggy Review: Tube Preamp Pedals Compared | GearStrings: https://gearstrings.com/gear-reviews/crazy-tube-circuits-black-magic-starlight-ziggy-review

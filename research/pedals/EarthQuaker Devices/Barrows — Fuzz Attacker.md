@@ -33,7 +33,7 @@ The phase-corrected and buffered output ensures it plays nice with other pedals 
 This isn’t just another fuzz box – it’s a portal to the fabled tones that have haunted the dreams of fuzz fanatics for decades.
 
 ## Sources checked
-1. Barrows Fuzz Attacker &mdash; EarthQuaker Devices: https://www.earthquakerdevices.com/barrows
+1. Barrows Fuzz Attacker — EarthQuaker Devices: https://www.earthquakerdevices.com/barrows
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

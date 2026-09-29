@@ -29,7 +29,6 @@ The Guitar Pedal Directory Effect Pedals Manufacturers Effect Types Guitar Effec
 - **Exact part:** Unknown.
 
 ## Sound
-Riverside Drive & Distortion quantity Add to cart A new world of drive.
 To deliver a new world of harmonically rich, incredibly versatile, tube-inspired drive sounds.
 We didn’t want to build just another distortion or overdrive.
 

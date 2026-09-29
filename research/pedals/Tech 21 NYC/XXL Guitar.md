@@ -32,7 +32,7 @@ The median point of Warp yields traditional distortion, well suited for chords a
 At minimum settings there are higher amounts of even harmonics, producing an overdrive like that of a Class A tube amp.
 
 ## Sources checked
-1. XXL Guitar &#8211; Tech 21 NYC: https://www.tech21nyc.com/archive/xxl-guitar/
+1. XXL Guitar – Tech 21 NYC: https://www.tech21nyc.com/archive/xxl-guitar/
 2. Tech 21 Nyc Xxl Guitar Edition No.m628 | eBay: https://www.ebay.com/itm/146941167789
 3. Tech 21 NYC XXL Guitar Bass Petal With Digitech RP80 Processor: https://www.ebay.ca/itm/168445411868
 

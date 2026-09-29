@@ -28,7 +28,6 @@ Wampler Pedals Plexi Drive Mini Overdrive Pedal - Premium Guitar Strings Sets
 - The archive records only the component information explicitly present in these sources.
 
 ## Sound
-Top |' data-navmenu="off" data-hashurl="off" data-menuSlider="off" data-continue-autoplay="off" data-outside-nav="off" data-autoplay="off" > 4 5 First there was the Plexi-Drive.
 Then there was the Plexi-Drive Deluxe.
 Now Wampler Pedals brings you the all new Plexi-Drive Mini.
 

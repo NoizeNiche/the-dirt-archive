@@ -74,6 +74,6 @@ Falcon is a JFET-based amp-in-a-box overdrive designed to recreate the behavior 
 
 ### Sources checked in this pass
 1. catalog/override source: https://www.musicstore.com/en_OT/EUR/Crazy-Tube-Circuits-Falcon-Classic-Tweed-Brownface-Overdrive/art-GIT0064285-000
-2. Falcon &mdash; Crazy Tube Circuits: https://crazytubecircuits.com/falcon
+2. Falcon — Crazy Tube Circuits: https://crazytubecircuits.com/falcon
 3. Crazy Tube Circuits introduces the Falcon | Guitar.com: https://guitar.com/news/crazy-tube-circuits-introduces-the-falcon/
 4. Crazy Tube Circuits Falcon and Killer V Reviews | GuitarPlayer: https://www.guitarplayer.com/reviews/crazy-tube-circuits-falcon-and-killer-v-reviews

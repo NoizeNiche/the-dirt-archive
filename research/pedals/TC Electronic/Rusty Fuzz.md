@@ -29,7 +29,6 @@ Privacy Terms Accessibility Back to Products RUSTY FUZZ Silicon-Based Transistor
 - The archive records only the component information explicitly present in these sources.
 
 ## Sound
-RUSTY FUZZ | TC Electronic Skip to main content Products About Support Stores EN Join the Tribe Professional sound for everyone.
 Privacy Terms Accessibility Back to Products RUSTY FUZZ Silicon-Based Transistor Fuzz with Vintage Gated and Velcro-Like Fuzz Tones 1 / 4 Zoom View in fullscreen RUSTY FUZZ Silicon-Based Transistor Fuzz with Vintage Gated and Velcro-Like Fuzz Tones Share Overview Learning Features Downloads About this product Silicon-Based Transistor Fuzz with Vintage Gated and Velcro-Like Fuzz Tones RUSTY FUZZ RUSTY FUZZ delivers those vintage silicon-based fuzz tones of yesteryear that we’ve all come to know and love, but at a price point so low everyone can play along.
 From silky-smooth sustain to ripping velcro-fuzz tones, RUSTY FUZZ does it all!
 
@@ -43,7 +42,7 @@ From silky-smooth sustain to ripping velcro-fuzz tones, RUSTY FUZZ does it all!
 7. Quick Hit: TC Electronic Rusty Fuzz - Premier Guitar: https://www.premierguitar.com/gear/quick-hit-tc-electronic-rusty-fuzz
 8. NPD: TC Electronic Rusty Fuzz : r/guitarpedals - Reddit: https://www.reddit.com/r/guitarpedals/comments/129p12m/npd_tc_electronic_rusty_fuzz/
 9. User manual TC Electronic Rusty Fuzz (English - 6 pages): https://www.manua.ls/tc-electronic/rusty-fuzz/manual
-10. TC Electronic RUSTY FUZZ Guitar and Bass Owner&#x27;s Manual: https://manualzz.com/doc/html/55349082/tc-electronic-rusty-fuzz-guitar-and-bass-owner-s-manual
+10. TC Electronic RUSTY FUZZ Guitar and Bass Owner's Manual: https://manualzz.com/doc/html/55349082/tc-electronic-rusty-fuzz-guitar-and-bass-owner-s-manual
 11. TC ELECTRONIC RUSTY FUZZ QUICK START MANUAL Pdf Download | ManualsLib: https://www.manualslib.com/manual/1467917/Tc-Electronic-Rusty-Fuzz.html
 
 ## Photo

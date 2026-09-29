@@ -7,7 +7,6 @@
 - **Identity:** Henretta Engineering's H-Bomb.
 
 ## What this pedal is
-Raven.config('https://6b64f5cc8af542cbb920e0238864390a@sentry.io/147999').install(); Henretta Engineering Introduces the H-Bomb Trembrato - Premier Guitar &#32; &#32; Skip to content Search & Section Navigation Sign up Sign up Contact Shop Open Search Login Subscribe Site Navigation Reviews Guitars Amps Pedals Acoustic Bass News Videos Rig Rundowns Gear Demos Gear Roundups DIY Features Artists Gear Builder Profile Columns DIY Advice Gear Talk Lessons Beginner Intermediate Advanced CAGED Blues Rock Country Podcasts Shred With Shifty Wong Notes 100 Guitarists Win Digital Magazine close Search <div
 
 ## Colorways
 - No specific factory colorway information was established in the verified evidence packet.

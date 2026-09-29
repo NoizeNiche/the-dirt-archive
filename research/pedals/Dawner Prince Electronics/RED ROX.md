@@ -11,7 +11,6 @@ Dawner Prince Electronics's RED ROX is cataloged as a distortion pedal.
 
 ## Colorways
 - Cart 0 EFFECTS Eclipsa Boonar Tube Deluxe Ltd Diktator MKII Red Rox Viberator Boonar Starla Pulse DISCONTINUED MERCHANDISE DEALERS NEWS INFO About Artists FAQs CONTACT ECLIPSA That rotary sound.
-- RED ROX Distortion Added to Cart View Cart or Continue Shopping .
 - RED ROX Grease melting distortion READ MORE NEWS The Development of Eclipsa — From Reference to Instrument As you can probably tell if you have been keeping up with my work for a while, or if yo...
 
 ## Versions and factory options
@@ -30,12 +29,10 @@ Dawner Prince Electronics's RED ROX is cataloged as a distortion pedal.
 - **Exact part:** Unknown.
 
 ## Sound
-DIKTATOR MKII Preamp/Boost/Overdrive Added to Cart View Cart or Continue Shopping .
-RED ROX Distortion Added to Cart View Cart or Continue Shopping .
 RED ROX Grease melting distortion READ MORE NEWS The Development of Eclipsa — From Reference to Instrument As you can probably tell if you have been keeping up with my work for a while, or if yo...
 
 ## Sources checked
-1. DAWNER PRINCE ELECTRONICS | Musical Machinery &ndash; Dawner Prince Electronics: https://dawnerprince.com/
+1. DAWNER PRINCE ELECTRONICS | Musical Machinery – Dawner Prince Electronics: https://dawnerprince.com/
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

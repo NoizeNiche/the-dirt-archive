@@ -33,7 +33,7 @@ Free -Day Shipping Get it by when you order within Get it if you order in Price:
 There is breadth and luminosity of color, vast sonic cosmoses, and flashes of abstract color (synthetic and objective) through resulting themes which emerged from the mastered depths of saturation and circuits between the two players and their mountains of gear.
 
 ## Sources checked
-1. Sunn O))) HalfLife Octave Distortion + Booster &mdash; EarthQuaker Devices: https://www.earthquakerdevices.com/half-life
+1. Sunn O))) HalfLife Octave Distortion + Booster — EarthQuaker Devices: https://www.earthquakerdevices.com/half-life
 2. EarthQuaker Devices Sunn O))) HalfLife Octave Distortion + Booster - Reverb: https://reverb.com/p/earthquaker-devices-sunn-o-halflife-octave-distortion-plus-booster
 3. Sunn O))) and EarthQuaker Devices Unleash the HalfLife Octave Distortion + Booster – No Treble: https://www.notreble.com/buzz/2026/06/16/sunn-o-and-earthquaker-devices-unleash-the-halflife-octave-distortion-booster/
 

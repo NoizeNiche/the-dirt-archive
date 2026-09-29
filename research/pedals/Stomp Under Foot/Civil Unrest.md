@@ -7,7 +7,6 @@
 - **Identity:** Stomp Under Foot's Civil Unrest.
 
 ## What this pedal is
-Checkout Close Your bag is empty Browse our collection of handmade fuzz, overdrive, and distortion pedals.
 
 ## Colorways
 - Each unit is hand-soldered on a 12-layer PCB with gold-plated through-hole pads, housed in a 4.75" × 2.5" × 1.75" brushed aluminum enclosure (0.080" thick, 6061-T6 alloy), weighing 425 grams.
@@ -30,7 +29,6 @@ Checkout Close Your bag is empty Browse our collection of handmade fuzz, overdri
 ## Sound
 Set the mids around 9 o’clock and you are right in that signature Civil War tone.
 From there, use the mids and tone together to move through the range of Russian fuzz sounds.
-Checkout Close Your bag is empty Browse our collection of handmade fuzz, overdrive, and distortion pedals.
 
 ## Sources checked
 1. Civil Unrest – Stomp Under Foot: https://stompunderfoot.com/products/civil-unrest

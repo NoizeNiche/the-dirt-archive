@@ -34,7 +34,7 @@ Power chords will sound thicker and crunchier, a little more ragged around the e
 ## Sources checked
 1. EarthQuaker Devices Special Cranker manual (English - 2 pages): https://www.manual.nz/earthquaker-devices/special-cranker/manual
 2. EarthQuaker Devices Special Cranker Operation Manual | Manualzz: https://manualzz.com/doc/70661855/earthquaker-devices-special-cranker-operation-manual
-3. Special Cranker An Overdrive You Can Trust &mdash; EarthQuaker Devices: https://www.earthquakerdevices.com/special-cranker
+3. Special Cranker An Overdrive You Can Trust — EarthQuaker Devices: https://www.earthquakerdevices.com/special-cranker
 4. EarthQuaker Devices Special Cranker review | Guitar World: https://www.guitarworld.com/reviews/earthquaker-devices-special-cranker-review
 
 ## Photo

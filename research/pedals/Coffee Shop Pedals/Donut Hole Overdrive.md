@@ -43,7 +43,7 @@ huge volume Powerful volume control with enough output to drive your amp into na
 tone control Wide-sweep tone control ranges from smooth and dark to crisp and bright.
 
 ### Sources checked in this pass
-1. Donut Hole Overdrive &ndash; Coffee Shop Pedals: https://coffeeshoppedals.com/products/donut-hole-overdrive
+1. Donut Hole Overdrive – Coffee Shop Pedals: https://coffeeshoppedals.com/products/donut-hole-overdrive
 2. Coffee Shop Pedals Donut Hole Overdrive - Boost Your Tone Today!: https://www.westmusic.com/coffee-shop-pedals-donut-hole-overdrive-358066
 3. Coffee Shop Pedals Donut Hole Overdrive - Extensive Musical Instruments and Accessories Marketplace: https://www.megamelod.com/product/coffee-shop-pedals-donut-hole-overdrive/
 4. Coffee Shop Pedals Donut Hole Overdrive - Reverb: https://reverb.com/item/53791708-coffee-shop-pedals-donut-hole-overdrive

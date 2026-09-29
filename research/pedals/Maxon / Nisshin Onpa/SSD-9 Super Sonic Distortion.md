@@ -31,7 +31,7 @@ SUPER SONIC DISTORTION (SSD-9) – Godlyke, Inc.
 The Dirt Archive currently catalogs **SSD-9 Super Sonic Distortion** by **Maxon / Nisshin Onpa** as a **Distortion** pedal.
 
 ## Sources checked
-1. SUPER SONIC DISTORTION (SSD-9) &ndash; Godlyke, Inc.: https://maxonfx.com/products/super-sonic-distortion-ssd-9
+1. SUPER SONIC DISTORTION (SSD-9) – Godlyke, Inc.: https://maxonfx.com/products/super-sonic-distortion-ssd-9
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

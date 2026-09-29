@@ -32,7 +32,7 @@ THIS DEVICE IS NO LONGER IN PRODUCTION Dunes™ Mini Mega Ultimate Overdrive Dun
 We’ve stripped away all the glitz and glamour of the original Palisades, leaving only the bare essentials required for a rippin’ mid-boosting transparent overdrive.
 
 ## Sources checked
-1. Dunes Mini Mega Ultimate Overdrive &mdash; EarthQuaker Devices: https://www.earthquakerdevices.com/dunes
+1. Dunes Mini Mega Ultimate Overdrive — EarthQuaker Devices: https://www.earthquakerdevices.com/dunes
 2. EarthQuaker Devices Dunes - Mini Mega Ultimate Overdrive | Effects Database: https://www.effectsdatabase.com/model/earthquaker/dunes
 
 ## Photo

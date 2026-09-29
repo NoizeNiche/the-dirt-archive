@@ -35,7 +35,7 @@ We've done octave fuzz but we never landed on a sub octave circuit that felt at 
 CONTROLS VOLUME controls the master output level with extra boost available.
 
 ## Sources checked
-1. DOUBLE DRAGON &ndash; JHS Pedals: https://jhspedals.info/products/double-dragon
+1. DOUBLE DRAGON – JHS Pedals: https://jhspedals.info/products/double-dragon
 2. JHS Pedals Double Dragon Lo-fi Octave Pedal: https://www.long-mcquade.com/488595/Guitars/Pedals-Effects/JHS-Pedals/Double-Dragon-Lo-fi-Octave-Pedal.htm
 3. JHS Pedals Double Dragon - Dual Octaver | Effects Database: https://www.effectsdatabase.com/model/jhspedals/doubledragon
 4. JHS Pedals Double Dragon Lo-Fi Octave Device - Pedal of the Day: https://www.pedal-of-the-day.com/2026/03/08/jhs-pedals-double-dragon-lo-fi-octave-device/

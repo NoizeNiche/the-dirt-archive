@@ -34,7 +34,7 @@ The RED EVR has a stronger treble than the Leqtique - RED, which makes it slight
 
 ## Sources checked
 1. Leqtique CLHD (Caeruleum Lightdrive High Definition) - Reverb: https://reverb.com/item/100942859-leqtique-clhd-caeruleum-lightdrive-high-definition
-2. Caeruleum Lightdrive High Definition EVR (aka CLHD EVR) &ndash; Leqtiqueshop: https://leqtique.ch/en/products/clhd-evr
+2. Caeruleum Lightdrive High Definition EVR (aka CLHD EVR) – Leqtiqueshop: https://leqtique.ch/en/products/clhd-evr
 3. Leqtique Caeruleum Lightdrive High Definition 【】 | eBay: https://www.ebay.com/itm/206250543554
 4. LEQTIQUE CLHD Caeruleum Lightdrive High Definition Overdrive for Guitar ...: https://www.guitarmusicalsupply.com/product/leqtique-clhd-caeruleum-lightdrive-high-definition-overdrive-for-guitar-sn-78-04-08/
 

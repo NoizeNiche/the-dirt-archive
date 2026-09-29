@@ -33,7 +33,7 @@ The Sunn O))) Life Pedal circuit has been meticulously tweaked from the original
 The octave section has been fine tuned to make it more pronounced without losing the bottom end and we added a third footswitch, utilizing Flexi-Switch Technology®, for the octave to allow an additional method of quick and radical tone shaping.
 
 ## Sources checked
-1. Sunn O))) Life Pedal Octave Distortion + Booster &mdash; EarthQuaker Devices: https://www.earthquakerdevices.com/life-pedal
+1. Sunn O))) Life Pedal Octave Distortion + Booster — EarthQuaker Devices: https://www.earthquakerdevices.com/life-pedal
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

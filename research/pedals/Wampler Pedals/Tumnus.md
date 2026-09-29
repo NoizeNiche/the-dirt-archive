@@ -28,7 +28,6 @@ Wampler has painstakingly and faithfully reproduced that magical tone in all its
 - **Exact part:** Unknown.
 
 ## Sound
-Top |' data-navmenu="off" data-hashurl="off" data-menuSlider="off" data-continue-autoplay="off" data-outside-nav="off" data-autoplay="off" > 4 5 There is one overdrive circuit to this day has been the most talked about, the most sought after, and the most mythical of them all.
 Wampler has painstakingly and faithfully reproduced that magical tone in all its glory in an unbelievably small package, and its name is Tumnus.
 Stack it with another pedal to help push or shape the total amount of gain, use it as a stand alone overdrive, or use it as a slightly dirty boost to push the front end of your amp over the edge.
 

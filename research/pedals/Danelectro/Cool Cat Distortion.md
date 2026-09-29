@@ -28,7 +28,6 @@ Danelectro's Cool Cat Distortion is cataloged as a distortion pedal.
 - **Exact part:** Unknown.
 
 ## Sound
-PedalPedia Skip to main content LOG IN EXPLORE Danelectro Cool Cat Distortion LOG IN TO SUGGEST IMPROVEMENTS DISTORTION Description The Cool Cat CD-1 Distortion from Danelectro gives you a metal stomp box for the price of a plastic one.
 If you’re finicky about tone, the Cool Cat will have you purring.
 The Cool Cat Distortion brings all the rage of a cranked British tube amp to your tone.
 

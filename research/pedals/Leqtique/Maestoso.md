@@ -34,8 +34,8 @@ However, by temporarily moving my base to Iceland in 2024, I was able to gain so
 ## Sources checked
 1. Leqtique Maestoso - Reverb: https://reverb.com/item/98142330-leqtique-maestoso
 2. Leqtique MAT Maestoso - Effects Database: https://www.effectsdatabase.com/model/leqtique/mat
-3. 「Leqtique Maestoso」レビュー！レクティークの解釈するODペダル | 魔法の箱研究所 &#8211; エフェクターレビューサイト: https://www.efmaniac.com/leqtique-maestoso/
-4. Maestoso EVR (aka MAT EVR &ndash; Leqtiqueshop: https://leqtique.ch/en/products/matevr-release
+3. 「Leqtique Maestoso」レビュー！レクティークの解釈するODペダル | 魔法の箱研究所 – エフェクターレビューサイト: https://www.efmaniac.com/leqtique-maestoso/
+4. Maestoso EVR (aka MAT EVR – Leqtiqueshop: https://leqtique.ch/en/products/matevr-release
 5. Leqtique Maestoso MAT Overdrive Pedal Made in Japan High Gain TS ... - eBay: https://www.ebay.com/itm/366643062125
 6. Leqtique Maestoso Supreme Dimensions, Specs Details: https://www.stompboxgarden.com/gear/pedal/16958/leqtique-maestoso-supreme
 

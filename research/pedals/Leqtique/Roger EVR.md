@@ -33,7 +33,7 @@ In environments where you need to choose one unit to produce all kinds of sounds
 The RED EVR has a stronger treble than the Leqtique - RED, which makes it slightly closer to the Beryl, but I still think its greatest strength is its medium-high gain distortion sound, so although it is certainly versatile, it is also very different, including in terms of the difference in tone.
 
 ## Sources checked
-1. Roger EVR &ndash; Leqtiqueshop: https://leqtique.ch/en/products/roger-evr
+1. Roger EVR – Leqtiqueshop: https://leqtique.ch/en/products/roger-evr
 2. Leqtique Roger EVR [Leqtique] DS10478178 - eBay: https://www.ebay.com/itm/257537530671
 3. Leqtique EVR Roger EVR (NEW) - Reverb: https://reverb.com/item/95180176-leqtique-evr-roger-evr-new
 4. LEQTIQUE EVR Roger EVR（新品/送料無料）【楽器検索デジマート】: https://www.digimart.net/cat13/shop77/DS10237797/

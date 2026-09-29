@@ -34,7 +34,7 @@ Open Box Maxon FW10 Fuzz Elements - Wind Fuzz Guitar Effects Pedal
 FW10 Maxon Fuzz Elements Wind Pedal
 
 ## Sources checked
-1. Maxon Fuzz Elements Wind (FW10) &ndash; Godlyke, Inc.: https://maxonfx.com/products/fuzz-elements-series-guitar-effects-pedals-water-fwa10
+1. Maxon Fuzz Elements Wind (FW10) – Godlyke, Inc.: https://maxonfx.com/products/fuzz-elements-series-guitar-effects-pedals-water-fwa10
 2. Maxon FW10 Fuzz Elements Wind - Reverb: https://reverb.com/p/maxon-fw10-fuzz-elements-wind
 3. Maxon FW10 Fuzz Elements Wind - What To Know & Where To Buy: https://equipboard.com/items/maxon-fuzz-elements-wind-guitar-fuzz-pedal
 4. Maxon Fuzz Elements Wind - Tonebox.com: https://www.tonebox.com/pedal/maxon-fuzz-elements-wind

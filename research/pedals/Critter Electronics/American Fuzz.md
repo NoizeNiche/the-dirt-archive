@@ -64,4 +64,4 @@ Think Blues Breaker tone on steroids, beefier.
 
 ### Sources checked in this pass
 1. catalog/override source: https://reverb.com/item/94057226-critter-electronics-american-fuzz
-2. Critter &mdash; Critter Electronics: https://critterelectronics.com/critter
+2. Critter — Critter Electronics: https://critterelectronics.com/critter

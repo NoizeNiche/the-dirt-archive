@@ -7,7 +7,6 @@
 - **Identity:** Ibanez's JD9.
 
 ## What this pedal is
-Raven.config('https://6b64f5cc8af542cbb920e0238864390a@sentry.io/147999').install(); Ibanez JD9 Jet Driver Pedal Review - Premier Guitar &#32; &#32; Skip to content Search & Section Navigation Sign up Sign up Contact Shop Open Search Login Subscribe Site Navigation Reviews Guitars Amps Pedals Acoustic Bass News Videos Rig Rundowns Gear Demos Gear Roundups DIY Features Artists Gear Builder Profile Columns <div class=
 
 ## Colorways
 - No specific factory colorway information was established in the verified evidence packet.

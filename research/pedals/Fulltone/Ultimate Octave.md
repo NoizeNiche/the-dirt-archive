@@ -29,7 +29,6 @@ Fulltone's Ultimate Octave is cataloged as a fuzz pedal.
 
 ## Sound
 Fulltone Ultimate Octave Fuzz/Octave – United States Served with love!
-30 30-Day Money-Back Guarantee 3 3-Year Thomann Warranty Available since December 2025 Item number 630844 Sales Unit 1 piece(s) Overdrive No Distortion No Fuzz Yes Metal No Effect Types Fuzz, Octaver $ 274 The shipping costs are calculated on the checkout page.
 The Fat/Bright switch changes the entire contour, affecting both the fuzz and the octave, so you can choose either the thicker, mid-forward “Fat” setting or the more open “Bright” setting with defined highs and a slightly scooped mid-range.
 
 ## Sources checked

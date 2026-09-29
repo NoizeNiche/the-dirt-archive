@@ -34,7 +34,7 @@ THIS DEVICE IS NO LONGER IN PRODUCTION Gray Channel® Dynamic Dirt Doubler The G
 It is based around a classic hard-clipping gray box overdrive (subtle hint, huh), one of my all-time favorites.
 
 ## Sources checked
-1. Gray Channel Dynamic Dirt Doubler &mdash; EarthQuaker Devices: https://www.earthquakerdevices.com/gray-channel
+1. Gray Channel Dynamic Dirt Doubler — EarthQuaker Devices: https://www.earthquakerdevices.com/gray-channel
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

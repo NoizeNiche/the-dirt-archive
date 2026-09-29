@@ -41,7 +41,7 @@ EarthQuaker Devices Tone Reaper Fuzz – Controls, SubPlexes & Rig Builder
 6. EarthQuaker Devices Tone Reaper | Effects Database: https://www.effectsdatabase.com/model/earthquaker/tonereaper
 7. EarthQuaker Devices Tone Reaper Fuzz – Controls, SubPlexes & Rig Builder | PedalPlex: https://pedalplex.com/gear/earthquaker-devices-tone-reaper-fuzz.html
 8. EarthQuaker Devices Tone Reaper Dimensions, Specs & Details: https://www.stompboxgarden.com/gear/pedal/181/earthquaker-devices-tone-reaper
-9. EarthQuaker Devices Tone Reaper Fuzz &ndash; Clingan Guitars: https://www.clinganguitars.com/en-us/products/earthquaker-devices-tone-reaper-fuzz
+9. EarthQuaker Devices Tone Reaper Fuzz – Clingan Guitars: https://www.clinganguitars.com/en-us/products/earthquaker-devices-tone-reaper-fuzz
 10. Tone Reaper > About EarthQuaker Devices: http://elevationboutiques.com/About_EarthQuaker_Devices/Tone_Reaper/
 
 ## Photo

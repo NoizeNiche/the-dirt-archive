@@ -34,7 +34,7 @@ Two input channels with independent tone shaping.
 Built-in overdrive with **Drive**, **Mix**, and **Tone** controls.
 
 ## Sources checked
-1. Radial Tonebone Bassbone OD &ndash; Chicago Music Exchange: https://www.chicagomusicexchange.com/products/radial-tonebone-bassbone-od-55175
+1. Radial Tonebone Bassbone OD – Chicago Music Exchange: https://www.chicagomusicexchange.com/products/radial-tonebone-bassbone-od-55175
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

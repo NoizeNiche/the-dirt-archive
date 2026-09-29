@@ -34,7 +34,7 @@ Sputnik PTP/DELUXE Red Snapper 4 Knob PTP Blue Collar PTP Das Boost PTP The Howi
 Top Boost in a Can Wreck'T Fish Factory MenaWatt PiG The Dirty Blonde MINI Red Snapper Mini Red Snapper 4 knob Mini Blue Collar Mini JAC Compressor Mini Thundering Revival Mini The Law Mini Hindenburg Mini Mail Bomb Mini Pleasure Trem Mini Ms.
 
 ## Sources checked
-1. Menatone - Blue Collar Mojo PTP &ndash; LEP INTERNATIONAL: https://lep-international.jp/products/menatone-blue-collar-mojo-ptp
+1. Menatone - Blue Collar Mojo PTP – LEP INTERNATIONAL: https://lep-international.jp/products/menatone-blue-collar-mojo-ptp
 2. Menatone Blue Collar Mojo PTP New 1602066 Menatone(メナトーン)【楽器検索｜Jギター】: https://www.j-guitar.com/products/detail.php?id=1602066&lang=en
 3. Menatone Blue Collar Mojo PTP（新品/送料無料）【楽器検索デジマート】: https://www.digimart.net/cat13/shop4773/DS10582986/
 4. Menatone Blue Collar Mojo PTP�b�~���[�W�b�N�����hKEY: https://www.musicland.co.jp/fs/musiclandkey/mntn-blue-collar-mojo-ptp

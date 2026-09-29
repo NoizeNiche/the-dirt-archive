@@ -32,7 +32,7 @@ THIS DEVICE IS NO LONGER IN PRODUCTION Palisades® Mega Ultimate Overdrive The P
 With 6 different clipping voices, 5 bandwidth settings and 2 gain channels, you will be hard-pressed to not find a setting that will wipe every mid-boosting overdrive off your board.
 
 ## Sources checked
-1. Palisades Mega Ultimate Overdrive &mdash; EarthQuaker Devices: https://www.earthquakerdevices.com/palisades
+1. Palisades Mega Ultimate Overdrive — EarthQuaker Devices: https://www.earthquakerdevices.com/palisades
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

@@ -7,7 +7,6 @@
 - **Identity:** All-Pedal's Slamurai Bushido Drive.
 
 ## What this pedal is
-Used ALL PEDAL SLAMURAI BUSHIDO DRIVE Overdrive Pedal Skip to main content Plato's Closet Store Once Upon a Child Store Play It Again Sports Store Style Encore Store Music Go Round Store Own One of Our Award-Winning Franchises!
 
 ## Colorways
 - No specific factory colorway information was established in the verified evidence packet.
@@ -27,7 +26,6 @@ Used ALL PEDAL SLAMURAI BUSHIDO DRIVE Overdrive Pedal Skip to main content Plato
 - **Exact part:** Unknown.
 
 ## Sound
-Used ALL PEDAL SLAMURAI BUSHIDO DRIVE Overdrive Pedal Skip to main content Plato's Closet Store Once Upon a Child Store Play It Again Sports Store Style Encore Store Music Go Round Store Own One of Our Award-Winning Franchises!
 
 ## Sources checked
 1. Used ALL PEDAL SLAMURAI BUSHIDO DRIVE Overdrive Pedal: https://musicgoround.com/locations/aurora-co/product/S000116378/ALL-PEDAL-SLAMURAI-BUSHIDO-DRIVE

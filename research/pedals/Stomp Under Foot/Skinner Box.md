@@ -7,7 +7,6 @@
 - **Identity:** Stomp Under Foot's Skinner Box.
 
 ## What this pedal is
-Checkout Close Your bag is empty Browse our collection of handmade fuzz, overdrive, and distortion pedals.
 
 ## Colorways
 - Rodent Of Unusual Size Build Your Own Clone Mighty Mouse Chicago Stompworks Mister Vermin CMATMODS Black Plague DreamTone Molly The Cat Freakshow Effects Brown Rabbit Fr
@@ -30,7 +29,6 @@ Checkout Close Your bag is empty Browse our collection of handmade fuzz, overdri
 ## Sound
 Known mainly as a distortion, it also works great as an overdrive.
 With the gain set between 11 and 12 o’clock, it delivers a clear, balanced overdriven tone that responds to your picking and cleans up with your guitar’s volume.
-Checkout Close Your bag is empty Browse our collection of handmade fuzz, overdrive, and distortion pedals.
 
 ## Sources checked
 1. Skinner Box – Stomp Under Foot: https://stompunderfoot.com/products/skinner-box

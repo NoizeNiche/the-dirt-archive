@@ -40,7 +40,7 @@ The V829 was based on the circuitry of the V828 Tone Bender that was produced du
 4. Vox V829 Tone Bender Fuzz Pedal | Bucket List Guitars: https://bucketlistguitars.com/product/vox-v829-tone-bender/
 5. Vox V829 Tone Bender Germanium Charged Fuzz - Equipboard: https://equipboard.com/items/vox-tone-bender-germanium-fuzz-v829
 6. Vox V829 Tone Bender Fuzz | Effects Database: https://www.effectsdatabase.com/model/vox/v829
-7. Vox USA V829 Tone Bender tonebender Germanium Charged Fuzz Pedal &ndash; Atomic Music: https://atomicmusic.com/products/vox-usa-v829-tone-bender-tonebender-germanium-charged-fuzz-pedal
+7. Vox USA V829 Tone Bender tonebender Germanium Charged Fuzz Pedal – Atomic Music: https://atomicmusic.com/products/vox-usa-v829-tone-bender-tonebender-germanium-charged-fuzz-pedal
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

@@ -33,7 +33,7 @@ The verified evidence packet did not contain enough pedal-specific sonic descrip
 1. Blue Collar Mojo | menatone: https://www.menatone.com/product-page/blue-collar-mojo
 2. Menatone Blue Collar Mojo 2026 - Reverb: https://reverb.com/item/100021244-menatone-blue-collar-mojo-2026
 3. Menatone Blue Collar Mojo PTP New 1602066 Menatone(メナトーン)【楽器検索｜Jギター】: https://www.j-guitar.com/products/detail.php?id=1602066&lang=en
-4. Menatone - Blue Collar Mojo PTP &ndash; LEP INTERNATIONAL: https://lep-international.jp/products/menatone-blue-collar-mojo-ptp
+4. Menatone - Blue Collar Mojo PTP – LEP INTERNATIONAL: https://lep-international.jp/products/menatone-blue-collar-mojo-ptp
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

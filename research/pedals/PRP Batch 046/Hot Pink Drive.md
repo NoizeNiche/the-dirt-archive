@@ -28,14 +28,14 @@ Alexander Pedals's Hot Pink Drive is cataloged as an overdrive pedal.
 - **Exact part:** Unknown.
 
 ## Sound
-&#x27;alexander pedals hot pink drive&#x27;
+'alexander pedals hot pink drive'
 The sound of all your neon nights on the Sunset Strip, now in a convenient and easy to swallow form.
 Drive: Adjusts the gain and distortion of the pedal.
 
 ## Sources checked
-1. &#x27;alexander pedals hot pink drive&#x27; | Gear Search - Gbase: https://www.gbase.com/gear?q=alexander%20pedals%20hot%20pink%20drive
+1. 'alexander pedals hot pink drive' | Gear Search - Gbase: https://www.gbase.com/gear?q=alexander%20pedals%20hot%20pink%20drive
 2. Alexander Pedals Hot Pink Drive | Effects Database: https://www.effectsdatabase.com/model/alexander/hotpinkdrive
-3. Support &mdash; Alexander: https://www.alexanderpedals.com/support
+3. Support — Alexander: https://www.alexanderpedals.com/support
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

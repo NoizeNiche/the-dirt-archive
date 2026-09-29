@@ -27,7 +27,6 @@ The Germanium Tumnus is a versatile addition to any pedal board.
 - The archive records only the component information explicitly present in these sources.
 
 ## Sound
-Top |' data-navmenu="off" data-hashurl="off" data-menuSlider="off" data-continue-autoplay="off" data-outside-nav="off" data-autoplay="off" > 4 5 SOLD OUT There is one overdrive circuit to this day that has been among the most talked about, the most sought after, and the most mythical of them all.
 It‘s that legendary tone that every guitarist dreams of.
 The allure of that original overdrive had a lot to do with a very specific “secret” germanium diode, dubbed “unobtanium” by the original creator, Bill Finnegan.
 

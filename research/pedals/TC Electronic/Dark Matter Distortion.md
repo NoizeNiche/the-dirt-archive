@@ -27,7 +27,6 @@ TC Electronic's Dark Matter Distortion is cataloged as a Distortion pedal.
 - **Exact part:** Unknown.
 
 ## Sound
-DARK MATTER DISTORTION | TC Electronic Skip to main content Products About Support Stores EN Join the Tribe Professional sound for everyone.
 Privacy Terms Accessibility Back to Products DARK MATTER DISTORTION 1 / 5 Zoom View in fullscreen DARK MATTER DISTORTION Share Overview Learning Downloads About this product
 
 ## Sources checked

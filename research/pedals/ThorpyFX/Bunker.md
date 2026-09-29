@@ -28,9 +28,7 @@ Plexi Overdrive Add to cart Description The Bunker is a plexi style overdrive ba
 - **Exact part:** Unknown.
 
 ## Sound
-Plexi Overdrive Skip to content Quality effects pedals, handmade in the UK SIGN UP FOR THORPYFX NEWS Want to know when new stuff is about to drop?
 Plexi Overdrive Skip to product information Close BUNKER
-Plexi Overdrive $237.00 $237.00 Unit price / per Shipping calculated at checkout.
 
 ## Sources checked
 1. BUNKER | Plexi Overdrive: https://thorpyfx.com/en-us/products/the-bunker-drive-pedal-1

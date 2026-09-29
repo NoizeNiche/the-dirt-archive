@@ -31,7 +31,7 @@ EarthQuaker Devices's Sound Shank — Germanium Fuzz is cataloged as a fuzz peda
 The verified evidence packet did not contain enough pedal-specific sonic description to make a more detailed sound summary without adding unsupported interpretation.
 
 ## Sources checked
-1. Legacy Products &mdash; EarthQuaker Devices: https://www.earthquakerdevices.com/legacy
+1. Legacy Products — EarthQuaker Devices: https://www.earthquakerdevices.com/legacy
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

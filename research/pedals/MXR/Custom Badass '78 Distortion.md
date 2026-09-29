@@ -37,7 +37,7 @@ We took a classic distortion circuit and hot-rodded it to the next level for ove
 3. MXR M78 Custom Badass '78 Distortion Pedal | Sweetwater: https://www.sweetwater.com/store/detail/CustomBad78--mxr-m78-custom-badass-78-distortion-pedal
 4. MXR Custom Badass '78 Distortion Pedal Review - Premier Guitar: https://www.premierguitar.com/mxr-custom-badass-78-distortion-pedal-review
 5. MXR M78 Custom Badass '78 Distortion Pedal | Equipboard: https://equipboard.com/items/mxr-m78-custom-badass-78-distortion-pedal
-6. MXR M78 Custom Badass '78 Distortion Pedal &mdash; David's Guitar Loft: https://www.davidsguitarloft.com/amps-pedals/p/mxr-m78-78-distortion
+6. MXR M78 Custom Badass '78 Distortion Pedal — David's Guitar Loft: https://www.davidsguitarloft.com/amps-pedals/p/mxr-m78-78-distortion
 7. MXR Custom Badass '78 Distortion Settings Guide: https://tonestakr.com/gear/distortion/mxr-badass-78-distortion/settings/
 
 ## Photo

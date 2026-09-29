@@ -43,7 +43,7 @@ Fender Pugilist Distortion Effects Pedal | Guitar Center Pro Gear Advisers Chat 
 9. User manual Fender Pugilist Distortion (English - 8 pages): https://www.manua.ls/fender/pugilist-distortion/manual
 10. FENDER PUGILIST DISTORTION MANUAL Pdf Download | ManualsLib: https://www.manualslib.com/manual/1484494/Fender-Pugilist-Distortion.html
 11. Fender Pugilist Distortion user manual (English - 8 pages): https://www.manuals.co.uk/fender/pugilist-distortion/manual
-12. Fender Pugilist Distortion Guitar Pedal: Owner&#x27;s Manual and Specifications: https://manuals.plus/m/85c97dd65ca3197d00b20b8dc5aa60b436733a4095b21424b3556b601be5e69c
+12. Fender Pugilist Distortion Guitar Pedal: Owner's Manual and Specifications: https://manuals.plus/m/85c97dd65ca3197d00b20b8dc5aa60b436733a4095b21424b3556b601be5e69c
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

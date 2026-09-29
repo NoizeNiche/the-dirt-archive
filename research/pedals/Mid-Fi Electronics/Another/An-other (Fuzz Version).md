@@ -34,7 +34,7 @@ The Another/An-other Fuzz takes your guitar signal, splits it in two, and lets o
 ## Sources checked
 1. Mid-Fi Electronics ::: Another/An-other (Fuzz Version): https://www.midfielectronics.com/another-an-other-fuzz-version
 2. Mid-Fi Electronics Another/An-other (Fuzz Version) Pedal Random Color: https://www.crestguitar.com/product/mid-fi-electronics-another-an-other-fuzz-version-pedal-random-color/
-3. Mid-Fi Electronics Another/An-other (Fuzz Version) Pedal &ndash; DeathCloud: https://deathcloud.com/products/mid-fi-electronics-another-an-other-fuzz-version
+3. Mid-Fi Electronics Another/An-other (Fuzz Version) Pedal – DeathCloud: https://deathcloud.com/products/mid-fi-electronics-another-an-other-fuzz-version
 4. Mid-Fi Electronics Another/An-other (Fuzz Version) Pedal: https://www.soundfusionmusic.com/product/mid-fi-electronics-another-an-other-fuzz-version-pedal/
 5. Mid-Fi Electronics Another/An-other (Fuzz Version) Pedal: https://www.talentmusicstore.com/product/mid-fi-electronics-another-an-other-fuzz-version-pedal/
 6. Mid-Fi Electronics Another/An-other (Fuzz Version) Pedal - Simplifying Digital Life with Intelligent and Innovative Technology Experiences: https://www.simplifyingk.com/product/mid-fi-electronics-another-an-other-fuzz-version-pedal/

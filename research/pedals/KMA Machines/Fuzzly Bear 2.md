@@ -34,7 +34,7 @@ Hence, we greatly refined the circuit for the original FUZZLY BEAR, to get the e
 
 ## Sources checked
 1. FUZZLY BEAR 2 – Analog Silicon Fuzz | KMA Machines: https://kmamachines.com/machines/fuzzly-bear-2/
-2. KMA Machines FUZZLY BEAR 2 &ndash; KMA Machines - Direct: https://shop.kmamachines.com/products/kma-machines-fuzzly-bear-2
+2. KMA Machines FUZZLY BEAR 2 – KMA Machines - Direct: https://shop.kmamachines.com/products/kma-machines-fuzzly-bear-2
 3. KMA Fuzzly Bear 2 | Boutique Jordan Bosstone Style Silicon Fuzz - Cottonwood Music Emporium: https://www.cottonwoodmusicemporium.com/products/kma-machines-fuzzly-bear-2
 4. KMA Machines FUZZLY BEAR 2 Silicon Fuzz - vertexaudiogear.com: https://www.vertexaudiogear.com/product/kma-machines-fuzzly-bear-2-silicon-fuzz/
 5. KMA Machines FUZZLY BEAR 2 | The Pedal Zone: https://thepedalzone.com/product/kma-machines-fuzzly-bear-2/

@@ -33,7 +33,7 @@ Don't like the way that a traditional FF fuzz knob is only useful at the last en
 Wren And Cuff Your Face 60's Fuzz Effects Pedal
 
 ## Sources checked
-1. Your Face 60's &mdash; Wren and Cuff: https://www.wrenandcuff.com/products/your-face-60s
+1. Your Face 60's — Wren and Cuff: https://www.wrenandcuff.com/products/your-face-60s
 2. Wren and Cuff Your Face 60's — Fuzz Pedal | Equipboard: https://equipboard.com/items/wren-and-cuff-your-face-60-s
 3. Wren and Cuff The Your Face 60's: https://austinguitarhouse.com/the-your-face-60s/
 4. Wren And Cuff Your Face 60's Fuzz Effects Pedal | Guitar Center: https://www.guitarcenter.com/Wren-And-Cuff/Your-Face-60s-Fuzz-Effects-Pedal-1500000279074.gc

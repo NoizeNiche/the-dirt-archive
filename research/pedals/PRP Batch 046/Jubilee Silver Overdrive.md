@@ -30,7 +30,7 @@ Alexander Pedals's Jubilee Silver Overdrive is cataloged as an overdrive pedal.
 The verified evidence packet did not contain enough pedal-specific sonic description to make a more detailed sound summary without adding unsupported interpretation.
 
 ## Sources checked
-1. Alexander Pedals Jubilee Silver Overdrive Pedal &ndash; Chicago Music Exchange: https://www.chicagomusicexchange.com/products/alexander-pedals-jubilee-silver-overdrive-pedal-1240008
+1. Alexander Pedals Jubilee Silver Overdrive Pedal – Chicago Music Exchange: https://www.chicagomusicexchange.com/products/alexander-pedals-jubilee-silver-overdrive-pedal-1240008
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

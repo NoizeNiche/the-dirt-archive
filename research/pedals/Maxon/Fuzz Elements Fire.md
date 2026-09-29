@@ -33,7 +33,7 @@ or younger male fan of Jimi Hendrix from Georgia People that took the "IS IT GOO
 " 4.2 Review of Maxon ST9Pro+ I tested the Maxon ST9Pro+ for several weeks across clean and high-gain amps to see whether this modern Super Tube iteration actually brings something new to the table - and it does.
 
 ## Sources checked
-1. Maxon Fuzz Elements Fire (FF10) &ndash; Godlyke, Inc.: https://maxonfx.com/products/fuzz-elements-series-guitar-effects-pedals-fire-ff10
+1. Maxon Fuzz Elements Fire (FF10) – Godlyke, Inc.: https://maxonfx.com/products/fuzz-elements-series-guitar-effects-pedals-fire-ff10
 2. Maxon FF10 Fuzz Elements Fire - Reverb: https://reverb.com/p/maxon-ff10-fuzz-elements-fire
 3. Maxon FF10 Fuzz Elements Fire Pedal | Equipboard: https://equipboard.com/items/maxon-fuzz-elements-fire-guitar-fuzz-pedal
 4. Maxon FF10 Fuzz Elements Fire Fuzz Pedal | Sweetwater: https://www.sweetwater.com/store/detail/FF10d2--maxon-ff10-fuzz-elements-fire-fuzz-pedal

@@ -33,11 +33,11 @@ The Empress Drive gives you the tools to shape your own.
 Instead of locking you into a single flavour of overdrive, it lets you shape the harmonic structure that determines how a drive sounds and responds.
 
 ## Sources checked
-1. Drive &ndash; Empress Effects Inc.: https://empresseffects.com/products/drive
+1. Drive – Empress Effects Inc.: https://empresseffects.com/products/drive
 2. Empress Effects Drive Analog Overdrive Pedal | Sweetwater: https://www.sweetwater.com/store/detail/EmpDrive--empress-effects-drive-analog-overdrive-pedal
 3. Amazon.com: https://www.amazon.com/Empress-Effects-Drive-Analog-Overdrive/dp/B0H3R5ZR3P
 4. Empress Effects Drive Distortion Pedal DRIV B&H Photo Video: https://www.bhphotovideo.com/c/product/1963032-REG/empress_effects_empress_drive_distortion_pedal.html
-5. Empress Effects DRIVE Pedal Review: Is It Worth the Price? &mdash; Landon Media Inc.: https://www.landonmediainc.com/blogs/empress-effects-drive-review
+5. Empress Effects DRIVE Pedal Review: Is It Worth the Price? — Landon Media Inc.: https://www.landonmediainc.com/blogs/empress-effects-drive-review
 6. EMPRESS EFFECTS DRIVE USER MANUAL Pdf Download | ManualsLib: https://www.manualslib.com/manual/4548079/Empress-Effects-Drive.html
 7. User manual Empress Effects Drive (English - 13 pages): https://www.manua.ls/empress-effects/drive/manual
 8. DRIVE by Empress Effects | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/Empress-Effects/DRIVE/8481805158/

@@ -27,11 +27,10 @@ Adventure Audio's Fuzz Peaks II is cataloged as a fuzz pedal.
 - **Exact part:** Unknown.
 
 ## Sound
-Adventure Audio Fuzz Peaks II &ndash; eastside music supply Skip to content Search what we do eastside exclusives merch new pedals & effects new effects by brand Adventure Audio Alexander AWOL Bandpass Electronics Barn3 Big Ear Boss Caroline Chase Bliss Coppersound Digitech Dr.
 STILL SOUNDS FUCKING SICK ON GUITAR, BUT THE CLEAN BLEND LETS YOUR LOWS COME THROUGH UNDISTORTED FOR A DEEPER BASS TONE.
 
 ## Sources checked
-1. Adventure Audio Fuzz Peaks II &ndash; eastside music supply: https://eastsidemusicsupply.com/products/adventure-audio-fuzz-peaks-ii
+1. Adventure Audio Fuzz Peaks II – eastside music supply: https://eastsidemusicsupply.com/products/adventure-audio-fuzz-peaks-ii
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

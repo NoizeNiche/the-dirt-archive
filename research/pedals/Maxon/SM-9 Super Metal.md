@@ -35,7 +35,7 @@ The five knob control setup gives you all sorts of sculpting possibilities to bo
 2. RARE Maxon SM-9 Super Metal Distortion Pedal Made in Japan ... - eBay: https://www.ebay.com/itm/163619960469
 3. Maxon Sm-9 Super Metal Pedal, Holy Grail or Novelty Dud??: https://www.reddit.com/r/guitarpedals/comments/p5zgr2/maxon_sm9_super_metal_pedal_holy_grail_or_novelty/
 4. Maxon SM-9 Super Metal - Effects Database: https://www.effectsdatabase.com/model/maxon/9/sm9
-5. Maxon SM-9 Super Metal Distortion Pedal 1984 &ndash; Topshelf Instruments: https://topshelfinstruments.com.au/products/maxon-sm-9-super-metal-distortion-pedal
+5. Maxon SM-9 Super Metal Distortion Pedal 1984 – Topshelf Instruments: https://topshelfinstruments.com.au/products/maxon-sm-9-super-metal-distortion-pedal
 6. Maxon SM-9 Super Metal (MIJ) - Gbase: https://www.gbase.com/gear/maxon-sm-9-super-metal
 
 ## Photo

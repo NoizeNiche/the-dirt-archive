@@ -30,7 +30,7 @@
 The verified evidence packet did not contain enough pedal-specific sonic description to make a more detailed sound summary without adding unsupported interpretation.
 
 ## Sources checked
-1. DRV MOD 2 TEAL &ndash; 1981 Inventions: https://1981inventions.com/products/drv-mod-2
+1. DRV MOD 2 TEAL – 1981 Inventions: https://1981inventions.com/products/drv-mod-2
 2. 1981 Inventions DRV Mod 2 Overdrive - Teal - Reverb: https://reverb.com/item/101421563-1981-inventions-drv-mod-2-overdrive-teal
 
 ## Photo

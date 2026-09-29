@@ -33,7 +33,7 @@ ZVEX Effects Double Rock Hand-Painted – Dual-Channel Distortion Pedal - Cotton
 / Save up to % Save % Save up to Save Sale Sold out In stock Free Shipping on Most Orders Menu Shop by Brand New Stuff Guitars Deimel Guitarworks Kauer Guitars Revelator Guitars Vintage & Used Guitars Amplifiers Benson Amps Divided by 13 Greer Amps Milkman Sound Seymour Duncan Swart Amplifier Co.
 
 ## Sources checked
-1. Double Rock &mdash; ZVEX Effects: https://www.zvex.com/guitar-pedals/double-rock-guitar-effects-pedal
+1. Double Rock — ZVEX Effects: https://www.zvex.com/guitar-pedals/double-rock-guitar-effects-pedal
 2. ZVEX Effects Double Rock Hand-Painted – Dual-Channel Distortion Pedal - Cottonwood Music Emporium: https://www.cottonwoodmusicemporium.com/products/zvex-double-rock-handpainted
 3. ZVEX Effects Double Rock Vexter Distortion/Boost Pedal: https://www.lasonemusic.com/product/zvex-effects-double-rock-vexter-distortion-boost-pedal/
 4. Amazon.com: ZVEX Effects Double Rock Vexter Series Distortion Boost Guitar Pedal : Musical Instruments: https://www.amazon.com/Effects-Double-Rock-Vexter-Distortion/dp/B014O6L07W

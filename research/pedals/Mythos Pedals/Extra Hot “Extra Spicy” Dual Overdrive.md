@@ -32,10 +32,10 @@ The "Take Out" side is an updated version of the drive from our Air Lane Drive/ 
 The Flavor control allows you to adjust the Gain with the Sauce being a Volume control.
 
 ## Sources checked
-1. Extra Hot &quot;Extra Spicy&quot; Dual Overdrive &ndash; Mythos Pedals: https://mythospedals.com/products/extra-hot-extra-spicy-dual-overdrive
-2. Mythos Pedals Extra Hot &quot;Extra Spicy&quot; Dual Overdrive Pedal: https://equipboard.com/items/mythos-pedals-extra-hot-extra-spicy-dual-overdrive
-3. Mythos Pedals Extra Hot &quot;Extra Spicy&quot; Dual Overdrive 2025 - | Reverb: https://reverb.com/item/96489750-mythos-pedals-extra-hot-extra-spicy-dual-overdrive-2025-black
-4. Mythos Pedals Extra Hot &quot;Extra Spicy&quot; - Dual Overdrive | Effects Database: https://www.effectsdatabase.com/model/mythos/extrahot/extraspicy
+1. Extra Hot "Extra Spicy" Dual Overdrive – Mythos Pedals: https://mythospedals.com/products/extra-hot-extra-spicy-dual-overdrive
+2. Mythos Pedals Extra Hot "Extra Spicy" Dual Overdrive Pedal: https://equipboard.com/items/mythos-pedals-extra-hot-extra-spicy-dual-overdrive
+3. Mythos Pedals Extra Hot "Extra Spicy" Dual Overdrive 2025 - | Reverb: https://reverb.com/item/96489750-mythos-pedals-extra-hot-extra-spicy-dual-overdrive-2025-black
+4. Mythos Pedals Extra Hot "Extra Spicy" - Dual Overdrive | Effects Database: https://www.effectsdatabase.com/model/mythos/extrahot/extraspicy
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

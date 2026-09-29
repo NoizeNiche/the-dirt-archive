@@ -28,12 +28,12 @@ At its heart, Barrows features a trio of carefully matched germanium transistors
 - **Exact part:** Unknown.
 
 ## Sound
-Barrows Fuzz Attacker &mdash; EarthQuaker Devices Contact Us Use the form on the right to contact us.
+Barrows Fuzz Attacker — EarthQuaker Devices Contact Us Use the form on the right to contact us.
 Devices Dealers Blog About Studios OnomatoPedal Merch EarthQuaker Devices Info Email Search Menu EarthQuaker Devices Info Email Search Devices Dealers Blog About Studios OnomatoPedal Merch Barrows Barrows® Fuzz Attacker Please enable your browserís JS to load this productís data.
 Barrows pays homage to the iconic MKII circuit while adding modern refinements that would make even the most discerning vintage purist weep tears of harmonic joy.
 
 ## Sources checked
-1. Barrows Fuzz Attacker &mdash; EarthQuaker Devices: https://www.earthquakerdevices.com/barrows
+1. Barrows Fuzz Attacker — EarthQuaker Devices: https://www.earthquakerdevices.com/barrows
 2. EarthQuaker Devices Barrows Fuzz Pedal - White | Sweetwater: https://www.sweetwater.com/store/detail/Barrows--earthquaker-devices-barrows-fuzz-pedal
 3. EarthQuaker Devices Barrows Fuzz Attacker - Reverb: https://reverb.com/p/earthquaker-devices-barrows-fuzz-attacker
 4. EarthQuaker Devices Barrows review – titchy with a huge voice | Guitar.com: https://guitar.com/reviews/effects-pedal/hands-on-earthquaker-devices-barrows-review/

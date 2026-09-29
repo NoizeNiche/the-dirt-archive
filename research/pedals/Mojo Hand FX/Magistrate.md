@@ -34,7 +34,7 @@ The Magistrate runs at 18v internally providing an awesome amount of headroom fo
 ## Sources checked
 1. Mojo Hand FX Magistrate Distortion Pedal - Reverb: https://reverb.com/p/mojo-hand-fx-magistrate
 2. Mojo Hand FX Magistrate — Distortion Pedal | Equipboard: https://equipboard.com/items/mojo-hand-fx-magistrate-distortion-pedal
-3. Mojo Hand FX Magistrate Distortion &ndash; Mojo Peppa Sauce | Mojo Music Inc.: https://www.mojopeppasauce.ca/products/magistrate-distortion
+3. Mojo Hand FX Magistrate Distortion – Mojo Peppa Sauce | Mojo Music Inc.: https://www.mojopeppasauce.ca/products/magistrate-distortion
 4. Magistrate — Mojo Hand FX Distortion Pedal | PedalFilter | PedalFilter: https://pedalfilter.com/mojo-hand-fx/magistrate
 
 ## Photo

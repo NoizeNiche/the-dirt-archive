@@ -32,7 +32,7 @@ Inspired by Devi Ever and EHX fuzzes, we combined a smooth fuzz with a low gain 
 Pressing the left footswitch brings in an additional fuzz at the beginning of the chain, overloading the other stages for an extremely saturated signal.
 
 ## Sources checked
-1. CASCADER &ndash; Mask Audio Electronics: https://maskaudioelectronics.com/products/cascader
+1. CASCADER – Mask Audio Electronics: https://maskaudioelectronics.com/products/cascader
 2. Mask Audio Electronics Cascader - Reverb: https://reverb.com/item/94581646-mask-audio-electronics-cascader
 3. Cascader — Mask Audio Electronics Fuzz Pedal | PedalFilter | PedalFilter: https://pedalfilter.com/mask-audio-electronics/cascader
 4. Mask Audio Electronics Cascader - musicdreamshop.com: https://www.musicdreamshop.com/product/mask-audio-electronics-cascader/

@@ -29,11 +29,10 @@ Do you have a question about the OD-9 and is the answer not in the manual?
 ## Sound
 Maxon Overdrive (OD-9) – Godlyke, Inc.
 Maxon OD-9 Overdrive – United States Served with love!
-9 V Manganese dry cell (S-006P) battery Made in Japan 30 30-Day Money-Back Guarantee 3 3-Year Thomann Warranty Available since March 2003 Item number 160755 Sales Unit 1 piece(s) Overdrive Yes Distortion No Fuzz No Metal No $ 149 The shipping costs are calculated on the checkout page.
 
 ## Sources checked
 1. Maxon OD-9 Overdrive Reissue - Reverb: https://reverb.com/p/maxon-od-9-overdrive
-2. Maxon Overdrive (OD-9) &ndash; Godlyke, Inc.: https://maxonfx.com/products/nine-series-guitar-effects-pedals-overdrive-od-9
+2. Maxon Overdrive (OD-9) – Godlyke, Inc.: https://maxonfx.com/products/nine-series-guitar-effects-pedals-overdrive-od-9
 3. Maxon OD-9 Overdrive Effects Pedal | Guitar Center: https://www.guitarcenter.com/Maxon/OD-9-Overdrive-Effects-Pedal-1274115045618.gc
 4. Maxon OD-9 Overdrive Pedal | Sweetwater: https://www.sweetwater.com/store/detail/OD9--maxon-od-9-overdrive-pedal
 5. Maxon OD-9 Overdrive – United States: https://www.thomannmusic.com/maxon_od9_overdrive_bodeneffektgeraet.htm

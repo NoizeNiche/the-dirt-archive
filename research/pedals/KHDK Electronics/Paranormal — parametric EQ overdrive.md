@@ -31,7 +31,7 @@ KHDK Electronics's Paranormal — parametric EQ overdrive is cataloged as a dist
 The verified evidence packet did not contain enough pedal-specific sonic description to make a more detailed sound summary without adding unsupported interpretation.
 
 ## Sources checked
-1. Limited Edition KHDK Electronics The Gary Holt &quot;Paranormal&quot; Parametric ...: https://equipboard.com/items/limited-edition-khdk-electronics-the-gary-holt-paranormal-parametric-eq-overdrive
+1. Limited Edition KHDK Electronics The Gary Holt "Paranormal" Parametric ...: https://equipboard.com/items/limited-edition-khdk-electronics-the-gary-holt-paranormal-parametric-eq-overdrive
 2. KHDK Electronics Paranormal - Égaliseur paramétrique pour guitare - Audiofanzine: https://fr.audiofanzine.com/egaliseur-parametrique-pour-guitare/khdk-electronics/paranormal-parametric-eq-overdrive/
 
 ## Photo

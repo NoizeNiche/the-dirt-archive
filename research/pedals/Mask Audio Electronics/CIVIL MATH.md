@@ -34,7 +34,7 @@ I gave the muff side a lower gain transistor set to really give it a different t
 And then in true MAE fashion, I then took the boost section and completely reconfigured it with double the gain of the normal boost to completely smash it to bits.
 
 ## Sources checked
-1. CIVIL MATH &ndash; Mask Audio Electronics: https://maskaudioelectronics.com/products/civil-math
+1. CIVIL MATH – Mask Audio Electronics: https://maskaudioelectronics.com/products/civil-math
 2. Mask Audio Electronics Civil Math - Reverb: https://reverb.com/item/73762767-mask-audio-electronics-civil-math
 3. Mask Audio Electronics Civil Math Distortion Pedal: https://www.nstuffmusic.com/p-169245-mask-audio-civil-math-distortion-pedal.aspx
 4. Mask Audio Electronics Civil Math - musicdreamshop.com: https://www.musicdreamshop.com/product/mask-audio-electronics-civil-math/

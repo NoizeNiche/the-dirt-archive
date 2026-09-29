@@ -30,7 +30,6 @@ Caroline Guitar Company's Olympia is cataloged as a distortion / fuzz / overdriv
 
 ### Verified sound evidence
 Caroline Olympia Fuzz Archives - Caroline Guitar Company - Caroline Guitar Company Dreamed, designed, and created at our small batch distortery™ in Columbia, South Carolina.
-Products Artists About Retailers Blog My account Checkout Cart Caroline Olympia Fuzz Support our Kickstarter to launch the Olympia Fuzz!
 July 26, 2011 We’re running a fundraising campaign through Kickstarter to launch the follow up to our acclaimed Wave Cannon™ overdriver: the OLYMPIA fuzz.
 
 ### Sources checked in this pass

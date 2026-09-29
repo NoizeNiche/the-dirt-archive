@@ -35,7 +35,7 @@ Volume, Tone, and Drive controls round out a straightforward user interface so y
 ## Sources checked
 1. Way Huge Smalls Overrated Special — Overdrive Pedal: https://equipboard.com/items/way-huge-smalls-overrated-special-overdrive
 2. Way Huge WM28 Smalls Overrated Special Overdrive - Reverb: https://reverb.com/p/way-huge-wm28-smalls-overrated-special-overdrive
-3. Way Huge Smalls Overrated Special Overdrive &ndash; Joe Bonamassa Official Store: https://shop.jbonamassa.com/products/way-huge-smalls-overrated-special-overdrive
+3. Way Huge Smalls Overrated Special Overdrive – Joe Bonamassa Official Store: https://shop.jbonamassa.com/products/way-huge-smalls-overrated-special-overdrive
 4. WAY HUGE® SMALLS™ OVERRATED SPECIAL™ OVERDRIVE - Dunlop: https://www.jimdunlop.com/way-huge-smalls-overrated-special-overdrive/
 5. Dunlop WM28 WAY HUGE SMALLS OVERRATED SPECIAL OVERDRIVE Manual: https://manualzz.com/doc/54998093/dunlop-wm28-way-huge-smalls-overrated-special-overdrive-m...
 6. SMALLS OVERRATED SPECIAL by Way Huge | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/Way-Huge/SMALLS-OVERRATED-SPECIAL/192204793/

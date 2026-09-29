@@ -22,7 +22,6 @@
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
 
 ### Verified description
-Products Artists About Retailers Blog My account Checkout Cart So what is the difference between… September 27, 2015 Haymaker vs.
 
 ### Verified version references
 - The evidence references: MKII, v1.

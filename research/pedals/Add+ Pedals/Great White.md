@@ -10,7 +10,7 @@
 Add+ Pedals browse by type distortion/fuzz/overdrive overdrive browse by enclosure pedal Add+ Great White Published on March 31, 2011 Add+ Pedals overdrive pedal Reviews myFXDB user reviews No reviews yet + Add your review Links Add+ Pedals Add+ Great White Where to find one?
 
 ## Colorways
-- Add+ Great White | Effects Database Skip to navigation Brands &#9660; 0-9...
+- Add+ Great White | Effects Database Skip to navigation Brands ▼ 0-9...
 - Add+ Pedals browse by type distortion/fuzz/overdrive overdrive browse by enclosure pedal Add+ Great White Published on March 31, 2011 Add+ Pedals overdrive pedal Reviews myFXDB user reviews No reviews yet + Add your review Links Add+ Pedals Add+ Great White Where to find one?
 - This site contains affiliate links for which I may be compensated Add+ Great White for sale on eBay: World & Stores Australia Canada France Germany Italy Spain UK US Other sites your browser doesn't support AJAX?
 
@@ -29,7 +29,7 @@ Add+ Pedals browse by type distortion/fuzz/overdrive overdrive browse by enclosu
 - **Exact part:** Unknown.
 
 ## Sound
-Effect types &#9660; boost distortion fuzz overdrive acoustic simulation amp simulation speaker/cabinet simulation chorus flanger phaser tremolo vibe vibrato other modulation pitch shifter octaver delay reverb looper/sampler hold/freeze eq filter wah fuzz-wah bitcrusher ring modulator samplerate reducer wavefolder synth effect granular effect multi effect vocal effect talkbox vocoder buffer compressor other...
+Effect types ▼ boost distortion fuzz overdrive acoustic simulation amp simulation speaker/cabinet simulation chorus flanger phaser tremolo vibe vibrato other modulation pitch shifter octaver delay reverb looper/sampler hold/freeze eq filter wah fuzz-wah bitcrusher ring modulator samplerate reducer wavefolder synth effect granular effect multi effect vocal effect talkbox vocoder buffer compressor other...
 Add+ Pedals browse by type distortion/fuzz/overdrive overdrive browse by enclosure pedal Add+ Great White Published on March 31, 2011 Add+ Pedals overdrive pedal Reviews myFXDB user reviews No reviews yet + Add your review Links Add+ Pedals Add+ Great White Where to find one?
 fx pedal stompbox stomp box guitar effects pedal overdrive over drive gain saturation distortion/fuzz/overdrive dirt grit Searching...
 

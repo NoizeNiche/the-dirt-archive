@@ -28,13 +28,12 @@ MXR's Jail Guitar Doors Overdrive is cataloged as an overdrive pedal.
 - **Exact part:** Unknown.
 
 ## Sound
-escape }}\" class=\"boost-sd__modal\" id=\"boost-sd__modal-quickview\" data-product-id='{{ productData.id }}' data-product='{{ productData
 MXR® JAIL GUITAR DOORS OVERDRIVE Toggle menu Compare
 True Pyrex Smoothness Dense Pyrex glass boosts sustain and keeps your tone warm and even, with a perfectly consistent surface that glides without drag.
 
 ## Sources checked
 1. MXR Jail Guitar Doors Overdrive Pedal | Sweetwater: https://www.sweetwater.com/store/detail/JGDoorsOD--mxr-jail-guitar-doors-overdrive-pedal
-2. MXR Jail Guitar Doors Overdrive Effect Pedal &ndash; Russo Music: https://www.russomusic.com/products/mxr-jail-guitar-doors-overdrive-effect-pedal
+2. MXR Jail Guitar Doors Overdrive Effect Pedal – Russo Music: https://www.russomusic.com/products/mxr-jail-guitar-doors-overdrive-effect-pedal
 3. MXR® JAIL GUITAR DOORS OVERDRIVE: https://www.jimdunlop.com/mxr-jail-guitar-doors-overdrive/
 4. MXR Jail Guitar Doors Overdrive Effects Pedal Black and White | Guitar Center: https://www.guitarcenter.com/MXR/Jail-Guitar-Doors-Overdrive-Effects-Pedal-Black-and-White-1500000469871.gc
 5. MXR Jail Guitar Doors Overdrive Pedal | Equipboard: https://equipboard.com/items/mxr-jail-guitar-doors-overdrive-pedal

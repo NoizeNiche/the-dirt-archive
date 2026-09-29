@@ -36,7 +36,7 @@ The latest 2023 iteration has a slight reduction in low mids, a tuned Treble kno
 1. Mythos Pedals Wildwood Mjolnir | Effects Database: https://www.effectsdatabase.com/model/mythos/wildwood
 2. Mythos Pedals Wildwood Mjolnir Overdrive - Reverb: https://reverb.com/item/102186287-mythos-pedals-wildwood-mjolnir-overdrive
 3. Wildwood Mjolnir by Mythos Pedals | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/Mythos-Pedals/Wildwood-Mjolnir/309502714/
-4. Mythos Pedals Wildwood Guitars Edition Mjolnir Overdrive &ndash; Tonefest Guitar Gallery: https://www.tonefestguitargallery.com/products/mythos-pedals-wildwood-guitars-edition-mjolnir-overdrive
+4. Mythos Pedals Wildwood Guitars Edition Mjolnir Overdrive – Tonefest Guitar Gallery: https://www.tonefestguitargallery.com/products/mythos-pedals-wildwood-guitars-edition-mjolnir-overdrive
 5. Mythos Pedals Wildwood Guitars Edition Mjolnir Overdrive - Natural Cane Saxophone Reeds for Warm Classic Jazz Tones: https://www.reedsax.com/product/mythos-pedals-wildwood-guitars-edition-mjolnir-overdrive/
 
 ## Photo

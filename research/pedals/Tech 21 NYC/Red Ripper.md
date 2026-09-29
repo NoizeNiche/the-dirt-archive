@@ -34,8 +34,8 @@ More than a simple distortion box, the Red Ripper responds to the dynamics of yo
 Play harder for more fuzz and higher harmonics, ease up for less fuzz and enhanced lower harmonics.
 
 ## Sources checked
-1. Red Ripper &#8211; Tech 21 NYC: https://www.tech21nyc.com/archive/red-ripper/
-2. Amazon.com: Tech 21 NYC Red Ripper Bass Distortion Pedal with 2 FREE 6&quot; Cables : Musical Instruments: https://www.amazon.com/Tech-Ripper-Distortion-Pedal-Cables/dp/B00FZZOZVK
+1. Red Ripper – Tech 21 NYC: https://www.tech21nyc.com/archive/red-ripper/
+2. Amazon.com: Tech 21 NYC Red Ripper Bass Distortion Pedal with 2 FREE 6" Cables : Musical Instruments: https://www.amazon.com/Tech-Ripper-Distortion-Pedal-Cables/dp/B00FZZOZVK
 3. Tech 21 NYC Red Ripper Dimensions, Specs Details: https://www.stompboxgarden.com/gear/pedal/3484/tech-21-nyc-red-ripper
 
 ## Photo

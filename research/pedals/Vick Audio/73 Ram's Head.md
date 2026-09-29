@@ -40,7 +40,7 @@ The sustain control allows you to optimize long sustain with a hint of harmonic 
 5. Vick Audio 73 Ram's Head | Effects Database: https://www.effectsdatabase.com/model/vickaudio/pi/73ramshead
 6. 73 Ram’s Head by Vick Audio | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/Vick-Audio/73-Ramevgs-Head/68986117/
 7. Vick Audio '73 Ram's Head - Songs That Use This Pedal and How to Dial It In | ToneMirror: https://www.tonemirror.so/pedals/vick-audio-73-rams-head
-8. The Vick Audio 73 Ram’s Head&mdash;A Vintage Big Muff Repro I Can Love &mdash; Anatomy of Tone: https://www.anatomyoftone.com/home/vick-audio-73-rams-head
+8. The Vick Audio 73 Ram’s Head—A Vintage Big Muff Repro I Can Love — Anatomy of Tone: https://www.anatomyoftone.com/home/vick-audio-73-rams-head
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

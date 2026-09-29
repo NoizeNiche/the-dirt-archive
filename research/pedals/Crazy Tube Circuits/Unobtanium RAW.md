@@ -75,7 +75,7 @@ Delicious Audio Creative Pedals Creative Delay Tape Delay W/ Reverb Delay Distor
 by Paolo De Gregorio A variation of a dual Klon/Dumble overdrive released in 2022, the Crazy Tube Circuits Unobtanium Raw uses different components to offer tones more suitable for guitarists playing genres ranging from blues to rock rather than from jazz to blue.
 
 ### Sources checked in this pass
-1. Unobtanium Raw &mdash; Crazy Tube Circuits: https://crazytubecircuits.com/unobtanium-raw
+1. Unobtanium Raw — Crazy Tube Circuits: https://crazytubecircuits.com/unobtanium-raw
 2. Crazy Tube Circuits Unobtanium Raw Test - Bonedo: https://www.bonedo.de/artikel/crazy-tube-circuits-unobtanium-raw-test/
 3. Crazy Tube Circuits Unobtanium Raw – United States: https://www.thomannmusic.com/crazy_tube_circuits_unobtanium_raw.htm
 4. Crazy Tube Circuits Unobtanium Raw Dual Drive | Delicious Audio: https://delicious-audio.com/crazy-tube-circuits-unobtanium-raw-dual-drive/

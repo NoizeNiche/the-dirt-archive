@@ -31,7 +31,7 @@ The Bass Edition features a level-compensated Tone control.
 The Bass Edition is an excellent companion to the SansAmp Bass Driver DI, especially for those times when considerably more distortion is desired.
 
 ## Sources checked
-1. XXL Bass &#8211; Tech 21 NYC: https://www.tech21nyc.com/archive/xxl-bass/
+1. XXL Bass – Tech 21 NYC: https://www.tech21nyc.com/archive/xxl-bass/
 2. Tech 21 NYC XXL Bass Edition Analog Distortion Pedal for Bass ... - eBay: https://www.ebay.com/itm/188630076769
 3. Tech 21 NYC - XXL Bass Pedal *ON HOLD* - *SOLD*: https://www.basschat.co.uk/topic/490367-tech-21-nyc-xxl-bass-pedal-on-hold-sold/
 

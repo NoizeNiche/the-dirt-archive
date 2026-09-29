@@ -36,7 +36,7 @@ This pass verifies the exact model against Daredevil Pedals' official current ca
 
 ## Sources checked
 1. Daredevil Pedals - official site: https://www.daredevilpedals.com/
- 
+
 ## Photo
 - **Archive status:** A local catalog image is already assigned to this model.
 - This research pass does not replace the existing image asset.

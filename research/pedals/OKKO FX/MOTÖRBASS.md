@@ -10,7 +10,7 @@
 Okko FX - MOTÖRBASS The store will not work correctly in the case when cookies are disabled.
 
 ## Colorways
-- --> --> Direkt zum Inhalt &#x2B;49&#x20;711&#x20;95832052 info&#x40;effekt-boutique.de Mein Konto Veränderung Mein Konto Mein Wunschzettel Anmelden Ein Konto erstellen Warenkorb Sprache deutsch english Navigation umschalten Suche Suche Erweiterte Suche Suche Menü Marken 1981 Inventions Alexander Anasounds Animal Factory Audible Disease Barefoot Buttons Bearfoot FX Beetronics Believable Audio Benson Black Arts Toneworks Black Cat Pedals Bleak District Electric Bogner Amplification Bondi Effects Boredbrain British Pedal Company Browne Amplification Caroline Guitar Company Catalinbread Center Street Electronics Chase Bliss Audio Cioks Clouds Hill Effects Collision Gears Console Pedals Crazy Tube Circuits Cusack Music Damage Control Darkglass Electronics Dawner Prince Death by Audio Del Rey Custom Shop Demedash Effects Demon Pedals Diamond Pedals Dr.
+- --> --> Direkt zum Inhalt +49 711 95832052 info@effekt-boutique.de Mein Konto Veränderung Mein Konto Mein Wunschzettel Anmelden Ein Konto erstellen Warenkorb Sprache deutsch english Navigation umschalten Suche Suche Erweiterte Suche Suche Menü Marken 1981 Inventions Alexander Anasounds Animal Factory Audible Disease Barefoot Buttons Bearfoot FX Beetronics Believable Audio Benson Black Arts Toneworks Black Cat Pedals Bleak District Electric Bogner Amplification Bondi Effects Boredbrain British Pedal Company Browne Amplification Caroline Guitar Company Catalinbread Center Street Electronics Chase Bliss Audio Cioks Clouds Hill Effects Collision Gears Console Pedals Crazy Tube Circuits Cusack Music Damage Control Darkglass Electronics Dawner Prince Death by Audio Del Rey Custom Shop Demedash Effects Demon Pedals Diamond Pedals Dr.
 - Paired with carefully chosen filtering, this massive headroom ensures for a raw but tight distortion sound all across the fretboard.
 
 ## Versions and factory options
@@ -34,7 +34,7 @@ It would be presumptuous to claim you could get the exact sound of the iconic mo
 
 ## Sources checked
 1. OKKO FX Motörbass | USA - musicstore.com: https://www.musicstore.com/en_US/USD/OKKO-FX-Motoerbass/art-BAS0009405-000
-2. OKKO MOTÖRBASS Rock&#x27;n&#x27;Roll Bass Distortion - Reverb: https://reverb.com/item/15757006-okko-motorbass-rock-n-roll-bass-distortion
+2. OKKO MOTÖRBASS Rock'n'Roll Bass Distortion - Reverb: https://reverb.com/item/15757006-okko-motorbass-rock-n-roll-bass-distortion
 3. Okko FX - MOTÖRBASS: https://www.effekt-boutique.de/okko-fx-motorbass.html
 4. OKKO FX Motörbass: https://www.goodmusicalgear.com/product/okko-fx-motorbass/
 5. OKKO FX Motörbass - www.musicequipmenthub.com: https://www.musicequipmenthub.com/product/okko-fx-motorbass/

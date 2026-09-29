@@ -34,11 +34,11 @@ Delicious Audio Creative Pedals Creative Delay Tape Delay W/ Reverb Delay Distor
 by Paolo De Gregorio The Rainger FX Pull Focus , by the London-based kind of quirky pedals, is an analog distortion circuit (borrowed from previous units like the Reverb-X) routed into a second, faded-in digital effect, that can be either a chorus or a reverb.
 
 ## Sources checked
-1. PULL FOCUS &mdash; Rainger FX: https://www.raingerfx.com/shop/p/pull-focus
+1. PULL FOCUS — Rainger FX: https://www.raingerfx.com/shop/p/pull-focus
 2. https://www.amazon.com/clp/B0DH9L6GYK: https://www.amazon.com/clp/B0DH9L6GYK
-3. Rainger FX Pull Focus &ndash; Soft Noise Audio: https://softnoiseaudio.com/products/rainger-fx-pull-focus
+3. Rainger FX Pull Focus – Soft Noise Audio: https://softnoiseaudio.com/products/rainger-fx-pull-focus
 4. Rainger FX Pull Focus Distortion + Chorus/Reverb | Delicious Audio: https://delicious-audio.com/rainger-fx-pull-focus/
-5. RAINGER FX PULL FOCUS &ndash; Detroit Modular: https://www.detroitmodular.com/products/rainger-fx-pull-focus
+5. RAINGER FX PULL FOCUS – Detroit Modular: https://www.detroitmodular.com/products/rainger-fx-pull-focus
 6. Rainger FX Pull Focus Distortion Pedal w/Fade-In | Reverb: https://reverb.com/item/84917416-rainger-fx-pull-focus-distortion-pedal-w-fade-in-chorus-reverb
 7. RAINGER FX PULL FOCUS USER MANUAL Pdf Download | ManualsLib: https://www.manualslib.com/manual/3659555/Rainger-Fx-Pull-Focus.html
 8. Rainger FX Pull Focus High Gain Distortion Pedal User Manual: https://manuals.plus/rainger-fx/pull-focus-high-gain-distortion-pedal-manual

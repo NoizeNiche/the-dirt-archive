@@ -33,7 +33,7 @@ If you need a mild boost, mid gain drive or pretty cranked dirt sound it's all h
 Plug a T-style guitar into this pedal and then into a Black panel amp and you have that iconic Nashville overdrive sound.
 
 ## Sources checked
-1. Erlking Overdrive &ndash; Mythos Pedals: https://mythospedals.com/products/erlking-overdrive
+1. Erlking Overdrive – Mythos Pedals: https://mythospedals.com/products/erlking-overdrive
 2. Mythos Pedals Erlking Overdrive | Bucket List Guitars: https://bucketlistguitars.com/product/mythos-pedals-erlking-overdrive/
 3. New Mythos Pedals Erlking Overdrive - Reverb: https://reverb.com/item/4753837-new-mythos-pedals-erlking-overdrive
 4. Mythos Pedals Erlking Overdrive - Shop: https://shop.app/products/10320631070999/erlking-overdrive

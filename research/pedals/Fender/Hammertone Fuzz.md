@@ -7,7 +7,7 @@
 - **Identity:** Fender's Hammertone Fuzz.
 
 ## What this pedal is
-Review: Fender Hammertone Fuzz - Mixdown Magazine READING Review: Fender Hammertone Fuzz Subscribe X Subscribe to Mixdown Magazine Select State NSW QLD VIC ACT TAS SA WA NT --> Subscribe News Features Reviews Directory Giveaways Videos Magazines Privacy &#038; Policies Advertise Contact Terms &#038; Conditions Reviews 20.06.2022 Review: Fender Hammertone Fuzz Words by Luke Shields Fender Australia | Price: $159 We may think it unimaginably prehistoric, but many moons ago, at the dawn of rock and roll, if you wanted anything other than a crystal clear electrified signal from your instrument, one of two things needed to happen.
+Review: Fender Hammertone Fuzz - Mixdown Magazine READING Review: Fender Hammertone Fuzz Subscribe X Subscribe to Mixdown Magazine Select State NSW QLD VIC ACT TAS SA WA NT --> Subscribe News Features Reviews Directory Giveaways Videos Magazines Privacy & Policies Advertise Contact Terms & Conditions Reviews 20.06.2022 Review: Fender Hammertone Fuzz Words by Luke Shields Fender Australia | Price: $159 We may think it unimaginably prehistoric, but many moons ago, at the dawn of rock and roll, if you wanted anything other than a crystal clear electrified signal from your instrument, one of two things needed to happen.
 
 ## Colorways
 - That signature screech is underpinned by a hefty waft of low end, customary of most fuzzes, harnessed by a particularly broad sweeping tone knob that will bring you from royal blue, through electric purple, out the other side to blinding yellow syn, aesthetically speaking.
@@ -27,9 +27,9 @@ Review: Fender Hammertone Fuzz - Mixdown Magazine READING Review: Fender Hammert
 - The archive records only the component information explicitly present in these sources.
 
 ## Sound
-Review: Fender Hammertone Fuzz - Mixdown Magazine READING Review: Fender Hammertone Fuzz Subscribe X Subscribe to Mixdown Magazine Select State NSW QLD VIC ACT TAS SA WA NT --> Subscribe News Features Reviews Directory Giveaways Videos Magazines Privacy &#038; Policies Advertise Contact Terms &#038; Conditions Reviews 20.06.2022 Review: Fender Hammertone Fuzz Words by Luke Shields Fender Australia | Price: $159 We may think it unimaginably prehistoric, but many moons ago, at the dawn of rock and roll, if you wanted anything other than a crystal clear electrified signal from your instrument, one of two things needed to happen.
+Review: Fender Hammertone Fuzz - Mixdown Magazine READING Review: Fender Hammertone Fuzz Subscribe X Subscribe to Mixdown Magazine Select State NSW QLD VIC ACT TAS SA WA NT --> Subscribe News Features Reviews Directory Giveaways Videos Magazines Privacy & Policies Advertise Contact Terms & Conditions Reviews 20.06.2022 Review: Fender Hammertone Fuzz Words by Luke Shields Fender Australia | Price: $159 We may think it unimaginably prehistoric, but many moons ago, at the dawn of rock and roll, if you wanted anything other than a crystal clear electrified signal from your instrument, one of two things needed to happen.
 These machines, originally intended to give guitar players an abundance of clean headroom to wander around in, inevitably took the merest of nudges to max out said headroom by the grace of a few minor wiring oversights.
-Upstarts like Junior Barnard, Goree Carter, Chuck Berry, Link Wray, Dave Davies, and a raft of slick-haired ne&#8217;er-do-wells pushed their amps as hard as they could, certainly beyond the point of warranty coverage, and in doing so, inspired millions of others to seek that fuzzed-out sound for themselves.
+Upstarts like Junior Barnard, Goree Carter, Chuck Berry, Link Wray, Dave Davies, and a raft of slick-haired ne’er-do-wells pushed their amps as hard as they could, certainly beyond the point of warranty coverage, and in doing so, inspired millions of others to seek that fuzzed-out sound for themselves.
 
 ## Sources checked
 1. Fender Hammertone Fuzz - Reverb: https://reverb.com/p/fender-hammertone-fuzz

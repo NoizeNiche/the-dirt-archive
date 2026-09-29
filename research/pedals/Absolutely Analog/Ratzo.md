@@ -29,7 +29,7 @@ Absolutely Analog browse by type distortion/fuzz/overdrive distortion browse by 
 - The archive records only the component information explicitly present in these sources.
 
 ## Sound
-Effect types &#9660; boost distortion fuzz overdrive acoustic simulation amp simulation speaker/cabinet simulation chorus flanger phaser tremolo vibe vibrato other modulation pitch shifter octaver delay reverb looper/sampler hold/freeze eq filter wah fuzz-wah bitcrusher ring modulator samplerate reducer wavefolder synth effect granular effect multi effect vocal effect talkbox vocoder buffer compressor other...
+Effect types ▼ boost distortion fuzz overdrive acoustic simulation amp simulation speaker/cabinet simulation chorus flanger phaser tremolo vibe vibrato other modulation pitch shifter octaver delay reverb looper/sampler hold/freeze eq filter wah fuzz-wah bitcrusher ring modulator samplerate reducer wavefolder synth effect granular effect multi effect vocal effect talkbox vocoder buffer compressor other...
 Absolutely Analog browse by type distortion/fuzz/overdrive distortion browse by enclosure pedal Absolutely Analog Ratzo Published on March 19, 2008 Absolutely Analog distortion pedal Information Absolutely Analog Absolutely Analog's "Ratzo" - Picture the original black box with some major improvements.
 The tone of legends in a brand new box!
 

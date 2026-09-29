@@ -7,7 +7,7 @@
 - **Identity:** Danelectro's Cool Cat Drive.
 
 ## What this pedal is
-Here&#8217;s the current state of play in my Guitar Overdrive Pedal Shootout.
+Here’s the current state of play in my Guitar Overdrive Pedal Shootout.
 
 ## Colorways
 - No specific factory colorway information was established in the verified evidence packet.
@@ -29,8 +29,8 @@ Here&#8217;s the current state of play in my Guitar Overdrive Pedal Shootout.
 
 ## Sound
 Review of the Danelectro Cool Cat Drive V2.
-Here&#8217;s the current state of play in my Guitar Overdrive Pedal Shootout.
-Joyo Ultimate Drive &#8211; Too dark, too scooped, too twitchy.
+Here’s the current state of play in my Guitar Overdrive Pedal Shootout.
+Joyo Ultimate Drive – Too dark, too scooped, too twitchy.
 
 ## Sources checked
 1. Danelectro Cool Cat Drive - Reverb: https://reverb.com/p/danelectro-cool-cat-drive-v2

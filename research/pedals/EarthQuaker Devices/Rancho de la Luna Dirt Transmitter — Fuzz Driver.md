@@ -32,7 +32,7 @@ These transistors are lower gain and have a warmth similar to germanium transist
 But they also have the top-end grind typical of silicon-based fuzz pedals, which adds to the mids and helps cut through.
 
 ## Sources checked
-1. Rancho de la Luna Dirt Transmitter &mdash; EarthQuaker Devices: https://www.earthquakerdevices.com/rancho-de-la-luna-dirt-transmitter
+1. Rancho de la Luna Dirt Transmitter — EarthQuaker Devices: https://www.earthquakerdevices.com/rancho-de-la-luna-dirt-transmitter
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

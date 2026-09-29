@@ -29,12 +29,11 @@ For Black Friday 2025 Mythos Pedals is releasing The Victor, a tribute to one of
 - **Exact part:** Unknown.
 
 ## Sound
-For further details contact us at https://mythospedals.com/pages/contact Click here to be notified by email when The Victor Distortion becomes available.
 For Black Friday 2025 Mythos Pedals is releasing The Victor, a tribute to one of the most iconic hard clipping distortion pedals of all time.
 Sonically The Victor has an improved Filter and Distortion control, with a better range and taper.
 
 ## Sources checked
-1. The Victor Distortion &ndash; Mythos Pedals: https://mythospedals.com/products/the-victor-distortion
+1. The Victor Distortion – Mythos Pedals: https://mythospedals.com/products/the-victor-distortion
 2. Mythos Pedals The Victor Distortion - What To Know & Where To Buy ...: https://equipboard.com/items/mythos-pedals-the-victor-distortion
 3. Mythos Pedals The Victor - Distortion | Effects Database: https://www.effectsdatabase.com/model/mythos/victor
 4. Mythos Pedals The Victor Distortion - Black Friday 2025 - Reverb: https://reverb.com/item/93805697-mythos-pedals-the-victor-distortion-black-friday-2025

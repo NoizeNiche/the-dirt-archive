@@ -37,7 +37,7 @@ It all began in the original Way Huge garage lab back in 1998 when Jeorge Tripps
 3. Way Huge Electronics WM45 Smalls Doom Hammer Fuzz Effects Pedal Gray | Guitar Center: https://www.guitarcenter.com/Way-Huge-Electronics/WM45-Smalls-Doom-Hammer-Fuzz-Effects-Pedal-Gray-1500000467867.gc
 4. Way Huge Smalls Doom Hammer Fuzz - What To Know & Where To Buy: https://equipboard.com/items/way-huge-smalls-doom-hammer-fuzz-pedal
 5. Way Huge WM45 Smalls Doom Hammer Fuzz - Reverb: https://reverb.com/p/way-huge-wm45-smalls-doom-hammer-fuzz
-6. Way Huge Smalls Doom Hammer Fuzz Review &ndash; Russo Music: https://www.russomusic.com/blogs/reviews/way-huge-smalls-doom-hammer-fuzz-review
+6. Way Huge Smalls Doom Hammer Fuzz Review – Russo Music: https://www.russomusic.com/blogs/reviews/way-huge-smalls-doom-hammer-fuzz-review
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

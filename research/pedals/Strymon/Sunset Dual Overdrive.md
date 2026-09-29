@@ -28,7 +28,6 @@ We studied six circuit types found in many truly timeless and iconic overdrive a
 - **Exact part:** Unknown.
 
 ## Sound
-Sunset Dual Overdrive quantity Add to cart Classic overdrive sound, x2.
 Sunset gives you the best of the best classic overdrive circuits, custom voiced for instantly gratifying control over a huge range of sought-after tones.
 We studied six circuit types found in many truly timeless and iconic overdrive and boost pedals, and put our takes on all six of them into a single two-channel unit.
 

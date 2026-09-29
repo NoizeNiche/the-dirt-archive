@@ -32,7 +32,7 @@ Free -Day Shipping Get it by when you order within Get it if you order in Price:
 We hand-match our NOS Germanium transistors to exacting specifications for pedal-to-pedal consistency, taking the guesswork out of your fuzz purchase, and guaranteeing that your Hoof delivers the same smooth, natural, and harmonically-rich sustain as all your friends’ Hoofs.
 
 ## Sources checked
-1. Hoof Hybrid Fuzz &mdash; EarthQuaker Devices: https://www.earthquakerdevices.com/hoof
+1. Hoof Hybrid Fuzz — EarthQuaker Devices: https://www.earthquakerdevices.com/hoof
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

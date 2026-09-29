@@ -35,7 +35,7 @@ With newly added selectable diode clip circuitry and low-end boost circuitry, mo
 1. ST9pro+: http://maxon.jp/effects_n/st9pro+_n_e.html
 2. SUPER TUBE PRO PLUS (ST9Pro+) - Godlyke, Inc.: https://maxonfx.com/products/super-tube-pro-plus-st9pro
 3. Maxon ST9Pro+ - Guitar Pedal / Effect | Max Guitar: https://max.guitars/en/st-9-pro
-4. Maxon ST9Pro+ Super Tube Pro+ Overdrive Pedal &ndash; Chicago Music Exchange: https://www.chicagomusicexchange.com/products/maxon-st9pro-super-tube-pro-overdrive-pedal-1341690
+4. Maxon ST9Pro+ Super Tube Pro+ Overdrive Pedal – Chicago Music Exchange: https://www.chicagomusicexchange.com/products/maxon-st9pro-super-tube-pro-overdrive-pedal-1341690
 5. MAXON / ST9Pro+ -Super Tube- Booster Overdrive ST9-Pro+ Maxon NEW - eBay: https://www.ebay.com/itm/406696623304
 
 ## Photo

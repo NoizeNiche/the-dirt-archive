@@ -32,9 +32,9 @@ With three selectable voicings , Luna moves from subtle warmth and transparent b
 Designed for expressive guitarists, Luna delivers dynamic overdrive, touch-sensitive response, and versatile tonal shaping — from edge-of-breakup blues and low-gain rhythm tones to a stronger, articulate drive for leads and pushing an amp.
 
 ## Sources checked
-1. Daughter Luna Overdrive | Home of Tone BluesBreaker Drive Cat Pedal &mdash; TONECAT: https://www.tonecat.life/shop/p/luna-overdrive
-2. TONECAT Luna Overdrive Pedal &ndash; DeathCloud: https://deathcloud.com/products/tonecat-luna-overdrive
-3. ToneCat Effects Luna Overdrive &ndash; Replay Guitars: https://replayguitars.com/products/tonecat-effects-luna-overdrive
+1. Daughter Luna Overdrive | Home of Tone BluesBreaker Drive Cat Pedal — TONECAT: https://www.tonecat.life/shop/p/luna-overdrive
+2. TONECAT Luna Overdrive Pedal – DeathCloud: https://deathcloud.com/products/tonecat-luna-overdrive
+3. ToneCat Effects Luna Overdrive – Replay Guitars: https://replayguitars.com/products/tonecat-effects-luna-overdrive
 4. TONECAT Luna Overdrive BB style OD: https://www.upweymusic.au/products/tonecat-luna-overdrive-bb-style-od
 
 ## Photo

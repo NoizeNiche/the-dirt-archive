@@ -30,7 +30,7 @@ Maxon's Overdrive Pro (OD820) is cataloged as a distortion / overdrive pedal.
 OVERDRIVE PRO (OD820) – Godlyke, Inc.
 
 ## Sources checked
-1. OVERDRIVE PRO (OD820) &ndash; Godlyke, Inc.: https://maxonfx.com/products/distortion-master-ds830
+1. OVERDRIVE PRO (OD820) – Godlyke, Inc.: https://maxonfx.com/products/distortion-master-ds830
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

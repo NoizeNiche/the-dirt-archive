@@ -31,10 +31,10 @@ The gain control is incredibly interactive allowing for intense over the top oct
 So while most people are cloning and tweaking the Big Muff… it looks like some people are beginning to find it more useful to clone and tweak the Hyperion… and rightfully, because a modern age, deserves a modern high gain fuzz worth imitating.
 
 ## Sources checked
-1. Devi Ever FX Hyperion &ndash; DeviEverFX: https://deviever.net/products/devi-ever-fx-hyperion
+1. Devi Ever FX Hyperion – DeviEverFX: https://deviever.net/products/devi-ever-fx-hyperion
 2. Devi Ever FX Hyperion - Effects Database: https://www.effectsdatabase.com/model/deviever/hyperion
 3. devi ever fx HYPERION Fuzz Effects Pedal - eBay: https://www.ebay.com/itm/800480496868
-4. Devi Ever FX Hyperion &ndash; Malibu Music: https://malibumusic.com/products/devi-ever-fx-hyperion
+4. Devi Ever FX Hyperion – Malibu Music: https://malibumusic.com/products/devi-ever-fx-hyperion
 5. [pedaltest] Devi Ever FX / Hyperion - YouTube: https://www.youtube.com/watch?v=8mkXIWHZu3U
 6. Devi Ever FX Hyperion | Pedal - electroguitarly.com: https://www.electroguitarly.com/product/devi-ever-fx-hyperion/
 7. Devi Ever FX Hyperion Fuzz Brand New, $100.00 - Gbase: https://www.gbase.com/gear/devi-ever-fx-hyperion-fuzz

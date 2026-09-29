@@ -32,7 +32,7 @@ This true bypass pedal offers three flavors of distortion while retaining a supe
 The lead setting offers high gain with lots of sustain.
 
 ## Sources checked
-1. Distortion &ndash; Empress Effects Inc.: https://empresseffects.com/products/distortion
+1. Distortion – Empress Effects Inc.: https://empresseffects.com/products/distortion
 2. Empress Effects Distortion, Overdrive & Boost Pedals: https://www.sweetwater.com/brand/empress-effects/distortion-overdrive-boost-pedals
 3. Empress Effects Distortion Analog Effect Pedal - Perfect Circuit: https://www.perfectcircuit.com/empress-effects-distortion.html
 4. Amazon.com: Empress Effects Heavy Hi-Gain Distortion Pedal: https://www.amazon.com/clp/B00DYJ9EN8

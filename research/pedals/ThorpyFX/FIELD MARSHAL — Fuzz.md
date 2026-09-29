@@ -28,7 +28,6 @@ ThorpyFX's FIELD MARSHAL — Fuzz is cataloged as a distortion / fuzz / overdriv
 - **Exact part:** Unknown.
 
 ## Sound
-Fuzz $248.00 $248.00 Unit price / per Shipping calculated at checkout.
 Fuzz Increase quantity for FIELD MARSHAL
 Fuzz Add to cart Description The FIELD MARSHAL MKII is a MKII version of the Lovetone Big Cheese fuzz.
 

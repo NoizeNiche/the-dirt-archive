@@ -46,5 +46,5 @@ Controls Volume - a master volume control for the output of the pedal Trigger - 
 1. Phase Locked Loop | Broughton Audio: https://www.broughtonaudio.com/product-page/phase-locked-loop
 2. Broughton Audio Phase Locked Loop Dimensions, Specs & Details: https://www.stompboxgarden.com/gear/pedal/16923/broughton-audio-phase-locked-loop
 3. Broughton Audio Phase Locked Loop - Reverb: https://reverb.com/p/broughton-audio-phase-locked-loop
-4. Broughton Audio - Phase Locked Loop &mdash; PLLFuzz: https://www.pllfuzz.com/gallery/broughton-audio-phase-locked-loop
+4. Broughton Audio - Phase Locked Loop — PLLFuzz: https://www.pllfuzz.com/gallery/broughton-audio-phase-locked-loop
 5. Phase Locked Loop by Broughton Audio | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/Broughton-Audio/Phase-Locked-Loop/483092542/

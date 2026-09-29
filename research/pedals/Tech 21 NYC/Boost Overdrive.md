@@ -32,10 +32,10 @@ And we call them Boost pedals for a reason.
 Alongside a wealth of hot driven tones, there is a powerful boost function that delivers up to an incredible 21dB of clean boost, which can be used independently from the effect.
 
 ## Sources checked
-1. Boost Overdrive &#8211; Tech 21 NYC: https://www.tech21nyc.com/archive/boost-overdrive/
+1. Boost Overdrive – Tech 21 NYC: https://www.tech21nyc.com/archive/boost-overdrive/
 2. Tech 21 NYC Boost Overdrive Dimensions, Specs Details: https://www.stompboxgarden.com/gear/pedal/3474/tech-21-nyc-boost-overdrive
-3. Tech 21 NYC Boost Overdrive &ndash; Tonefest Guitar Gallery: https://www.tonefestguitargallery.com/products/tech-21-nyc-boost-overdrive
-4. Tech 21 NYC Boost Overdrive - Mother&#x27;s Day Exclusive — Guitars ...: https://www.vibrantp.com/product/tech-21-nyc-boost-overdrive/
+3. Tech 21 NYC Boost Overdrive – Tonefest Guitar Gallery: https://www.tonefestguitargallery.com/products/tech-21-nyc-boost-overdrive
+4. Tech 21 NYC Boost Overdrive - Mother's Day Exclusive — Guitars ...: https://www.vibrantp.com/product/tech-21-nyc-boost-overdrive/
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

@@ -36,7 +36,7 @@ And it sounds equally poisonous; in contrast to classic fuzz (as they were earli
 2. Maxon SD-9 Sonic Distortion Pedal | Sweetwater: https://www.sweetwater.com/store/detail/SDist9--maxon-sd-9-sonic-distortion-pedal
 3. Maxon SD-9 Sonic Distortion – United States: https://www.thomannmusic.com/maxon_sd9_sonic_distortion_verzerrer.htm
 4. Maxon SD-9 Sonic Distortion Pedal | Equipboard: https://equipboard.com/items/maxon-sd-9-sonic-distortion
-5. MAXON SD-9 Sonic Distortion (B-STOCK) &ndash; Godlyke Distributing, Inc.: https://godlyke.com/products/maxon-sd-9-sonic-distortion-used-by-scott-henderson-b-stock
+5. MAXON SD-9 Sonic Distortion (B-STOCK) – Godlyke Distributing, Inc.: https://godlyke.com/products/maxon-sd-9-sonic-distortion-used-by-scott-henderson-b-stock
 6. Maxon SD-9 Sonic Distortion - Effects Database: https://www.effectsdatabase.com/model/maxon/9/sd9
 7. Maxon SD-9 Sonic Distortion Effects Pedal | Guitar Center: https://www.guitarcenter.com/Maxon/SD-9-Sonic-Distortion-1274115045624.gc
 8. Maxon SD-9 Sonic Distortion - Bucket List Guitars: https://bucketlistguitars.com/product/maxon-sd-9-sonic-distortion/

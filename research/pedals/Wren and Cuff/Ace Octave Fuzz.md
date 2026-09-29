@@ -33,7 +33,7 @@ A much different pedal than the Tycobrahe Octavia or Univox Superfuzz, this peda
 The “Tone” toggle switch provides the option of a more mid-range focused sound, or a fat girthy sound with tons of extra lows.
 
 ## Sources checked
-1. Ace Octave Fuzz &mdash; Wren and Cuff: https://www.wrenandcuff.com/products/ace-octave-fuzz
+1. Ace Octave Fuzz — Wren and Cuff: https://www.wrenandcuff.com/products/ace-octave-fuzz
 2. Wren and Cuff Ace Octave Fuzz Pedal | Equipboard: https://equipboard.com/items/wren-and-cuff-ace-octave-fuzz
 3. Amazon.com: https://www.amazon.com/Wren-Cuff-Ace-Octave-Fuzz/dp/B01GQMJIL2
 4. Wren And Cuff Ace Octave Fuzz Effects Pedal | Guitar Center: https://www.guitarcenter.com/Wren-And-Cuff/Ace-Octave-Fuzz-Effects-Pedal-1500000279123.gc

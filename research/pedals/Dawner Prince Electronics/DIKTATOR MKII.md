@@ -33,7 +33,7 @@ The drive sections were transformed into a more flexible tube amp-style overdriv
 We fine-tuned the active tone control for precise adjustments across the frequency spectrum.
 
 ## Sources checked
-1. DIKTATOR MKII Preamp/Boost/Overdrive &ndash; Dawner Prince Electronics: https://dawnerprince.com/products/diktator-mkii
+1. DIKTATOR MKII Preamp/Boost/Overdrive – Dawner Prince Electronics: https://dawnerprince.com/products/diktator-mkii
 2. Dawner Prince Electronics Dawner Prince Diktator MKII - What To Know ...: https://equipboard.com/items/dawner-prince-electronics-dawner-prince-diktator-mkii
 3. Dawner Prince Electronics Diktator MKII | Reverb: https://reverb.com/item/1399835-dawner-prince-electronics-diktator-mkii-preamp-boost-overdrive
 4. Dawner Prince Electronics releases Diktator MKII: https://dshowmusic.com/dawner-prince-electronics-diktator-mkii/

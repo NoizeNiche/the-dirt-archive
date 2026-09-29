@@ -36,10 +36,10 @@ We celebrate his monumental legacy with this recreation of his own MXR Distortio
 ## Sources checked
 1. RANDY RHOADS MXR® SPECIAL EDITION DISTORTION+: https://www.jimdunlop.com/randy-rhoads-mxr-special-edition-distortion/
 2. open prime modal: https://www.amazon.com/clp/B0FPQ6FBFL
-3. RANDY RHOADS MXR® SPECIAL EDITION DISTORTION+ &ndash; Angel City Guitars: https://angelcityguitars.com/products/randy-rhoads-mxr%C2%AE-special-edition-distortion
-4. RANDY RHOADS MXR SPECIAL EDITION DISTORTION+ &ndash; Brookline Guitar: https://brooklineguitar.com/products/randy-rhoads-mxr-special-edition-distortion
+3. RANDY RHOADS MXR® SPECIAL EDITION DISTORTION+ – Angel City Guitars: https://angelcityguitars.com/products/randy-rhoads-mxr%C2%AE-special-edition-distortion
+4. RANDY RHOADS MXR SPECIAL EDITION DISTORTION+ – Brookline Guitar: https://brooklineguitar.com/products/randy-rhoads-mxr-special-edition-distortion
 5. Randy Rhoads MXR® Special Edition Distortion+ - Rock City Music Co.: https://rockcitymusicco.com/products/randy-rhoads-mxr%C2%AE-special-edition-distortion
-6. RANDY RHOADS MXR&reg; SPECIAL EDITION DISTORTION+: https://bsmusicshop.com/products/randy-rhoads-mxr-r-special-edition-distortion
+6. RANDY RHOADS MXR® SPECIAL EDITION DISTORTION+: https://bsmusicshop.com/products/randy-rhoads-mxr-r-special-edition-distortion
 7. MXR Randy Rhoads Special Edition Distortion+ Guitar Pedal: https://manuals.plus/m/fb182096fe87eba2574d14356c3e4132542e602b2fec0171e6d6a8b724d2ac80
 8. MXR RR104 Randy Rhoads Special Edition Distortion+ | Effects Database: https://www.effectsdatabase.com/model/mxr/dunlop/rr104
 9. MXR RR-104 Randy Rhoads Special Edition Distortion+: https://www.freestompboxes.org/viewtopic.php?t=33621

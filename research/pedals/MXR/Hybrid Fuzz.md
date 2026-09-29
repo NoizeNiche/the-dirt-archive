@@ -34,7 +34,7 @@ Combining the snarling, high-gain aggression of a silicon transistor and the smo
 ## Sources checked
 1. MXR® HYBRID FUZZ: https://www.jimdunlop.com/mxr-hybrid-fuzz/
 2. MXR Hybrid Germanium/Silicon Fuzz Review - Premier Guitar: https://www.premierguitar.com/gear/reviews/mxr-hybrid-fuzz
-3. MXR might have just made the most versatile Fuzz Face ever &ndash; and it only has two controls | Guitar World: https://www.guitarworld.com/news/mxr-hybrid-fuzz
+3. MXR might have just made the most versatile Fuzz Face ever – and it only has two controls | Guitar World: https://www.guitarworld.com/news/mxr-hybrid-fuzz
 4. open prime modal: https://www.amazon.com/clp/B0C3MT6CFS
 5. MXR CSP041 Hybrid Fuzz - Reverb: https://reverb.com/p/mxr-csp041-hybrid-fuzz
 6. MXR Custom Shop Hybrid Fuzz Pedal | Sweetwater: https://www.sweetwater.com/store/detail/HybridFuzz--mxr-custom-shop-hybrid-fuzz-pedal

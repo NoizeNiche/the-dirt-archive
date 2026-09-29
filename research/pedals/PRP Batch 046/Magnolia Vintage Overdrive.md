@@ -28,7 +28,7 @@ Alexander Pedals's Magnolia Vintage Overdrive is cataloged as an overdrive pedal
 
 ## Sound
 
-Featuring a fully adjustable tone stack and two selectable drive modes, it&#8217;s as comfortable as your favorite jeans.
+Featuring a fully adjustable tone stack and two selectable drive modes, it’s as comfortable as your favorite jeans.
 Drive: Adjusts the gain and distortion of the pedal.
 
 ## Sources checked

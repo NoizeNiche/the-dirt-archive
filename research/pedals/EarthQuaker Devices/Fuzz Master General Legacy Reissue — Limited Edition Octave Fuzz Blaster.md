@@ -34,7 +34,7 @@ This has a huge impact on the characteristics of fuzz tone, upper octave clarity
 
 ## Sources checked
 1. EarthQuaker Devices Fuzz Master General | Effects Database: https://www.effectsdatabase.com/model/earthquaker/fuzzmaster
-2. Legacy Products &mdash; EarthQuaker Devices: https://www.earthquakerdevices.com/legacy
+2. Legacy Products — EarthQuaker Devices: https://www.earthquakerdevices.com/legacy
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

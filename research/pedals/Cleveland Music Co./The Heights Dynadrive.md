@@ -57,4 +57,4 @@ While it’s a favorite of Blues guitarists, it also makes a great medium-gain r
 And if that weren’t enough, the Heights stacks really, really well with many other drive pedals; try it before or after our EastSide Overdrive.
 
 ### Sources checked in this pass
-1. The Heights Dynadrive &ndash; Cleveland Music Co.: https://clevelandmusicco.com/products/cleveland-music-co-the-heights-dynadrive-premium-zendrive-clone
+1. The Heights Dynadrive – Cleveland Music Co.: https://clevelandmusicco.com/products/cleveland-music-co-the-heights-dynadrive-premium-zendrive-clone

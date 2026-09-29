@@ -32,7 +32,7 @@ The single "More" knob only controls the output of the circuit so it's up to you
 With everything dimed it's a powerful blooming fuzz sound that sounds great hitting a pushed amplifier.
 
 ## Sources checked
-1. Golden Fleece Fuzz &ndash; Mythos Pedals: https://mythospedals.com/products/golden-fleece-fuzz
+1. Golden Fleece Fuzz – Mythos Pedals: https://mythospedals.com/products/golden-fleece-fuzz
 2. Mythos Pedals Golden Fleece Fuzz - Reverb: https://reverb.com/item/95144045-mythos-pedals-golden-fleece-fuzz
 3. Mythos Pedals Golden Fleece Fuzz Overdrive Tested Working: https://www.ebay.com/itm/227533670034
 4. Mythos Pedals Golden Fleece Fuzz: https://parkwaymusic.com/products/mythos-pedals-golden-fleece

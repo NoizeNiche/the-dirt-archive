@@ -30,7 +30,7 @@ KMA Machines's Chief Disruptor Bloodstone Edition is cataloged as a fuzz pedal.
 The Dirt Archive currently catalogs **Chief Disruptor Bloodstone Edition** by **KMA Machines** as a **Fuzz / Distortion** pedal.
 
 ## Sources checked
-1. Products &ndash; KMA Machines - Direct: https://shop.kmamachines.com/pages/products
+1. Products – KMA Machines - Direct: https://shop.kmamachines.com/pages/products
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

@@ -52,4 +52,4 @@ This pass adds only claims supported by the newly admitted exact-model evidence.
 Collision Devices's Singularity is cataloged as a distortion / fuzz pedal.
 
 ### Sources checked in this pass
-1. Singularity - one knob fuzz &mdash; COLLISION DEVICES: https://collisiondevices.com/singularity
+1. Singularity - one knob fuzz — COLLISION DEVICES: https://collisiondevices.com/singularity

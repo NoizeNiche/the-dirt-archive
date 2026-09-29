@@ -32,7 +32,7 @@ The available evidence consistently associates **D&S Distortion & Sustainer** an
 Effects Database identifies the **Maxon OD-802 D&S II** as a Maxon 808-series distortion/sustain pedal and dates the D&S II to **1974**.
 
 ## Sources checked
-1. DISTORTION AND SUSTAINER II (D&S II) &ndash; Godlyke, Inc.: https://maxonfx.com/products/reissue-series-effects-pedals-d-s-ii-2-distortion-sustainer
+1. DISTORTION AND SUSTAINER II (D&S II) – Godlyke, Inc.: https://maxonfx.com/products/reissue-series-effects-pedals-d-s-ii-2-distortion-sustainer
 2. Maxon OD-802 D & S II Distortion/Sustainer | Effects Database: https://www.effectsdatabase.com/model/maxon/808/od802
 3. catalog/override source: https://images.thomann.de/pics/prod/161651_Manual.pdf
 4. Product Manuals - DigiTech: https://digitech.com/product-manuals/

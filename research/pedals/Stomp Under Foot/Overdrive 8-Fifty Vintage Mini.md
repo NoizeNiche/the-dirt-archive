@@ -7,7 +7,6 @@
 - **Identity:** Stomp Under Foot's Overdrive 8-Fifty Vintage Mini.
 
 ## What this pedal is
-Checkout Close Your bag is empty Browse our collection of handmade fuzz, overdrive, and distortion pedals.
 
 ## Colorways
 - No specific factory colorway information was established in the verified evidence packet.
@@ -28,7 +27,6 @@ Checkout Close Your bag is empty Browse our collection of handmade fuzz, overdri
 
 ## Sound
 The result is a fuller, more balanced sound that retains its body as the tone control is turned up, along with smooth, harmonically rich gain that delivers classic sustain while preserving clarity and note definition.
-Checkout Close Your bag is empty Browse our collection of handmade fuzz, overdrive, and distortion pedals.
 
 ## Sources checked
 1. OD850 Muff Fuzz Ram's Head – Stomp Under Foot: https://stompunderfoot.com/products/overdrive-8-fifty-vintage-mini

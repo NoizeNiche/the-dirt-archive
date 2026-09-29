@@ -34,7 +34,7 @@ Turn the gain up, and you get a milky warm sea of sustain, earthy lows, and a ri
 Built with hand-selected vintage-style components in a heavy-duty folded-steel enclosure for a saturated, even tone with warm sustain, deep lows, and the classic Muff mid-scoop.
 
 ## Sources checked
-1. Blue-Violet Caprid OG &mdash; Wren and Cuff: https://www.wrenandcuff.com/products/blue-violet-caprid-og
+1. Blue-Violet Caprid OG — Wren and Cuff: https://www.wrenandcuff.com/products/blue-violet-caprid-og
 2. Wren and Cuff Blue-Violet Caprid OG - Equipboard: https://equipboard.com/items/wren-and-cuff-blue-violet-caprid-og
 3. Wren and Cuff Blue-Violet Caprid OG: https://martelmusicstore.com/products/wrenandcuffblue-violetcapridog
 4. Wren and Cuff Blue-Violet Caprid OG - Reverb: https://reverb.com/p/wren-and-cuff-blue-violet-caprid-og

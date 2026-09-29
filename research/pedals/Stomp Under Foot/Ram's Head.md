@@ -30,7 +30,6 @@ Ram's Head®, Civil War®, Tri-Muff® Other product names and logos are trademar
 ## Sound
 Balanced tone, lots of sustain, harmonics and a ton of fuzz makes the Ram's Head a favorite among fuzz users.
 This version has warm, creamy, fuzz that make chords evenly balanced and full while retaining string clarity.
-Checkout Close Your bag is empty Browse our collection of handmade fuzz, overdrive, and distortion pedals.
 
 ## Sources checked
 1. Ram's Head – Stomp Under Foot: https://stompunderfoot.com/products/rams-head

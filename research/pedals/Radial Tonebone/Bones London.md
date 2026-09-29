@@ -33,7 +33,7 @@ The verified evidence packet did not contain enough pedal-specific sonic descrip
 1. Radial Tonebone Bones London - Reverb: https://reverb.com/p/radial-tonebone-bones-london
 2. Radial Tonebone Bones London — Overdrive Pedal | Equipboard: https://equipboard.com/items/radial-tonebone-bones-london
 3. Radial Tonebone Bones London Dual Distortion | Effects Database: https://www.effectsdatabase.com/model/radial/tonebone/bones/london
-4. Radial Tonebone Bones London Dual Distortion (In Box) &ndash; GuitarFX: https://guitarfx.eu/products/radial-tonebone-bones-london-dual-distortion-in-box
+4. Radial Tonebone Bones London Dual Distortion (In Box) – GuitarFX: https://guitarfx.eu/products/radial-tonebone-bones-london-dual-distortion-in-box
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

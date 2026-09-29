@@ -7,7 +7,7 @@
 - **Identity:** Dwarfcraft Devices's Surrender Dorothy.
 
 ## What this pedal is
-Dwarfcraft Devices browse by type distortion/fuzz/overdrive fuzz browse by enclosure pedal events 2013 NAMM 2013 Dwarfcraft Devices Surrender Dorothy Published on April 10, 2012 Dwarfcraft Devices fuzz pedal NAMM 2013 design design NAMM 2013 NAMM 2013 Video all | by manufacturer | not by manufacturer Date &#x25BC;&#x25B2; Maker &#x25BC;&#x25B2; Video &#x25BC;&#x25B2; Time &#x25BC;&#x25B2; 2014-12-09 Dwarfcraft Devices Surrender Dorothy makes an appearance on the upcoming Dwarfcraft XXXMAS song!
+Dwarfcraft Devices browse by type distortion/fuzz/overdrive fuzz browse by enclosure pedal events 2013 NAMM 2013 Dwarfcraft Devices Surrender Dorothy Published on April 10, 2012 Dwarfcraft Devices fuzz pedal NAMM 2013 design design NAMM 2013 NAMM 2013 Video all | by manufacturer | not by manufacturer Date ▼▲ Maker ▼▲ Video ▼▲ Time ▼▲ 2014-12-09 Dwarfcraft Devices Surrender Dorothy makes an appearance on the upcoming Dwarfcraft XXXMAS song!
 
 ## Colorways
 - No specific factory colorway information was established in the verified evidence packet.

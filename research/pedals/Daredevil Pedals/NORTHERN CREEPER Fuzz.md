@@ -10,7 +10,6 @@
 Daredevil Pedals's NORTHERN CREEPER Fuzz is cataloged as a Fuzz pedal.
 
 ## Colorways
-- And You Shall Receive Skip to main content Boutique Vintage Guitar Effects, Guitars Amplifiers 🇺🇸 USD 🇨🇦 CAD 0 items Menu Search Search Main navigation Catalog Home Brands What&#039;s Hot Search Search Store info News About Contact Daredevil Pedals NORTHERN CREEPER Fuzz Brand: Daredevil Pedals $169.00 Body -Med to High gain silicon Fuzz circuit -Vintage, balanced EQ range for great lows and lots of mid bite The same classic circuit as the original, new artwork design as of 2020.
 
 ## Versions and factory options
 - No distinct factory revision was established in the verified evidence packet.
@@ -28,7 +27,6 @@ Daredevil Pedals's NORTHERN CREEPER Fuzz is cataloged as a Fuzz pedal.
 
 ## Sound
 Daredevil Pedals NORTHERN CREEPER Fuzz | Axe...
-And You Shall Receive Skip to main content Boutique Vintage Guitar Effects, Guitars Amplifiers 🇺🇸 USD 🇨🇦 CAD 0 items Menu Search Search Main navigation Catalog Home Brands What&#039;s Hot Search Search Store info News About Contact Daredevil Pedals NORTHERN CREEPER Fuzz Brand: Daredevil Pedals $169.00 Body -Med to High gain silicon Fuzz circuit -Vintage, balanced EQ range for great lows and lots of mid bite The same classic circuit as the original, new artwork design as of 2020.
 This is the best all around fuzz tone imho, balanced, gritty, sweet, and loads of sustain.
 
 ## Sources checked

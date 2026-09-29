@@ -7,7 +7,6 @@
 - **Identity:** Stomp Under Foot's Violet Menace Ram's Head.
 
 ## What this pedal is
-Checkout Close Your bag is empty Browse our collection of handmade fuzz, overdrive, and distortion pedals.
 
 ## Colorways
 - No specific factory colorway information was established in the verified evidence packet.

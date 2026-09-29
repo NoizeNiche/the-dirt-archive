@@ -34,7 +34,7 @@ Furthermore, there’s an “Edge” setting that enables users to add an edgy, 
 
 ## Sources checked
 1. King Tone Guitar HeavyHand V2 - Reverb: https://reverb.com/p/king-tone-guitar-heavyhand-v2
-2. King Tone Guitar HeavyHand &ndash; Guitars Rebellion: https://www.guitarsrebellion.com/en/products/king-tone-guitar-heavyhand
+2. King Tone Guitar HeavyHand – Guitars Rebellion: https://www.guitarsrebellion.com/en/products/king-tone-guitar-heavyhand
 3. KING TONE GUITAR HEAVYHAND Used Overdrive | eBay: https://www.ebay.com/itm/287051806866
 4. King Tone Guitar HeavyHand V2 Overdrive / Distortion: https://www.440hz.it/en/pedal-effects/6095-King-Tone-Guitar-HeavyHand-V2-Overdrive-Distortion-2000000140513.html
 5. KING TONE GUITAR / HEAVYHAND - Ishibashi Music Corporation.: https://intl.ishibashi.co.jp/ja/products/12-2800003625754

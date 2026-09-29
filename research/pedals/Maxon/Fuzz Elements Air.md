@@ -32,7 +32,7 @@ Maxon Fuzz Elements Air Guitar Fuzz Pedal
 Pioneered by Shin-Ei, the Super Fuzz witnessed incarnations under different brands, including Memphis, Shaftesbury, Apollo, JAX, Tiesco, and… Where to buy Affiliate link — we may earn a commission.
 
 ## Sources checked
-1. Maxon Fuzz Elements Air (FA10) &ndash; Godlyke, Inc.: https://maxonfx.com/products/fuzz-elements-series-guitar-effects-pedals-air-fa10
+1. Maxon Fuzz Elements Air (FA10) – Godlyke, Inc.: https://maxonfx.com/products/fuzz-elements-series-guitar-effects-pedals-air-fa10
 2. Maxon Fuzz Elements Air Guitar Fuzz Pedal | Guitar Center: https://www.guitarcenter.com/Maxon/Fuzz-Elements-Air-Guitar-Fuzz-Pedal-1399909208699.gc
 3. Maxon FA10 Fuzz Elements Air Pedal | Equipboard: https://equipboard.com/items/maxon-fuzz-elements-air-guitar-fuzz-pedal
 4. Maxon Fuzz Elements Air - Tonebox.com: https://www.tonebox.com/pedal/maxon-fuzz-elements-air

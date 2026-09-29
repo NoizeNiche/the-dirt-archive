@@ -35,7 +35,7 @@ Sku: 710137067257 Brand: WAY HUGE Saucy Box From the visionary depths of the Way
 1. Way Huge WHE205 Saucy Box Overdrive - Reverb: https://reverb.com/p/way-huge-whe205-saucy-box-overdrive
 2. Way Huge Saucy Box Overdrive Pedal | Sweetwater: https://www.sweetwater.com/store/detail/SaucyBox--way-huge-saucy-box-overdrive-pedal
 3. Way Huge Saucy Box Overdrive review | MusicRadar: https://www.musicradar.com/reviews/guitars/way-huge-saucy-box-overdrive-619283
-4. Way Huge WHE205 Saucy Box OD &ndash; Motor City Guitar: https://motorcityguitar.com/products/way-huge-whe205-saucy-box-overdrive-br-pedal?variant=45058457230
+4. Way Huge WHE205 Saucy Box OD – Motor City Guitar: https://motorcityguitar.com/products/way-huge-whe205-saucy-box-overdrive-br-pedal?variant=45058457230
 5. Way Huge Saucy Box Overdrive Dimensions, Specs & Details: https://www.stompboxgarden.com/gear/pedal/1249/way-huge-saucy-box-overdrive
 6. Way Huge Pedals Saucy Box™ Overdrive images, videos, reviews, and more ...: https://rigshare.com/products/saucy-box-overdrive-503649
 7. Way Huge WHE205 Saucy Box Overdrive Guitar Effects Pedal - Natural Reverb Effects Pedals That Create Dreamy Soundscapes: https://www.tonereverb.com/product/way-huge-whe205-saucy-box-overdrive-guitar-effects-pedal/

@@ -32,7 +32,7 @@ With only three controls, this deceptively powerful pedal offers you everything 
 A Tone On/Off switch allows you remove the Tone control from the circuit, opening up a whole new world of midrange grind.
 
 ## Sources checked
-1. Chelsea Low End Fuzz Driver &mdash; EarthQuaker Devices: https://www.earthquakerdevices.com/chelsea
+1. Chelsea Low End Fuzz Driver — EarthQuaker Devices: https://www.earthquakerdevices.com/chelsea
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

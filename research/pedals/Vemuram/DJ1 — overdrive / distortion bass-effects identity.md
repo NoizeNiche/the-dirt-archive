@@ -33,7 +33,7 @@ Vemuram DJ1 Darryl Jones Signature Bass Overdrive and Distortion Pedal
 ## Sources checked
 1. Vemuram DJ1 Darryl Jones Signature Overdrive/Distortion: https://reverb.com/p/vemuram-dj1-darryl-jones-signature-overdrive-slash-distortion
 2. Vemuram DJ1 Darryl Jones Signature Bass Overdrive - Equipboard: https://equipboard.com/items/vemuram-dj1-darryl-jones-signature-bass-overdrive-distortion
-3. Vemuram DJ1 Bass Overdrive Pedal Darryl Jones Signature &ndash; Lauzon Music: https://lauzonmusic.com/products/vemuram-dj1-bass-overdrive-pedal-darryl-jones-signature
+3. Vemuram DJ1 Bass Overdrive Pedal Darryl Jones Signature – Lauzon Music: https://lauzonmusic.com/products/vemuram-dj1-bass-overdrive-pedal-darryl-jones-signature
 4. Vemuram DJ1 Darryl Jones Signature Bass Overdrive and Distortion Pedal | Cream City Music: https://www.creamcitymusic.com/vemuram-dj1-darryl-jones-signature-bass-overdrive-and-distortion-pedal/
 5. Vemuram DJ1 - Bass Overdrive/Distortion: https://www.ukmusicinstruments.com/product/vemuram-dj1-bass-overdrive-distortion/
 

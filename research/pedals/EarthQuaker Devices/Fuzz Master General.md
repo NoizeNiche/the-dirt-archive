@@ -32,7 +32,7 @@ We added a “Voice” toggle to further enhance your dirt desires and wrangle a
 This has a huge impact on the characteristics of fuzz tone, upper octave clarity and output level.
 
 ## Sources checked
-1. Fuzz Master General &mdash; EarthQuaker Devices: https://www.earthquakerdevices.com/fuzz-master-general
+1. Fuzz Master General — EarthQuaker Devices: https://www.earthquakerdevices.com/fuzz-master-general
 2. EarthQuaker Devices Fuzz Master General Octave Fuzz Blaster: https://reverb.com/p/earthquaker-devices-fuzz-master-general
 3. EarthQuaker Devices Fuzz Master General Pedal | Equipboard: https://equipboard.com/items/earthquaker-devices-fuzz-master-general
 4. EarthQuaker Devices Fuzz Master General Review - Premier Guitar: https://www.premierguitar.com/gear/earthquaker-devices-fuzz-master-general-review

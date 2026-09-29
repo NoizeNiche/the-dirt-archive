@@ -7,7 +7,6 @@
 - **Identity:** IdiotBox Effects's Blasteroid Fuzz.
 
 ## What this pedal is
-Blasteroid Fuzz by Idiotbox Effects | RockBoard | PedalPedia Skip to main content LOG IN EXPLORE Idiotbox Effects Blasteroid Fuzz LOG IN TO SUGGEST IMPROVEMENTS FUZZ Description The Blasteroid Fuzz is a monstrous vintage fuzz that&#x27;s a faithful, no-frills clone of the elusive Earth Sounds Research Graphic Fuzz.
 
 ## Colorways
 - No specific factory colorway information was established in the verified evidence packet.
@@ -27,8 +26,7 @@ Blasteroid Fuzz by Idiotbox Effects | RockBoard | PedalPedia Skip to main conten
 - **Exact part:** Unknown.
 
 ## Sound
-Blasteroid Fuzz by Idiotbox Effects | RockBoard | PedalPedia Skip to main content LOG IN EXPLORE Idiotbox Effects Blasteroid Fuzz LOG IN TO SUGGEST IMPROVEMENTS FUZZ Description The Blasteroid Fuzz is a monstrous vintage fuzz that&#x27;s a faithful, no-frills clone of the elusive Earth Sounds Research Graphic Fuzz.
-It delivers thick, roaring fuzz, and it&#x27;s LOUD.
+It delivers thick, roaring fuzz, and it's LOUD.
 What makes it stand out is its distinctive microphonic, wah‑like filter character that adds reactive, animated tone, like the pedal itself comes alive.
 
 ## Sources checked

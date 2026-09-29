@@ -32,7 +32,7 @@ The verified evidence packet did not contain enough pedal-specific sonic descrip
 ## Sources checked
 1. Greer Amps Razor Burn - What To Know Where To Buy: https://equipboard.com/items/greer-amps-razor-burn
 2. Greer Amps Razor Burn - Effects Database: https://www.effectsdatabase.com/model/greer/razorburn
-3. [NPD] Greer Amps &quot;Razor Burn&quot; Fuzz pedal. : r/guitarpedals - Reddit: https://www.reddit.com/r/guitarpedals/comments/3yofei/npd_greer_amps_razor_burn_fuzz_pedal/
+3. [NPD] Greer Amps "Razor Burn" Fuzz pedal. : r/guitarpedals - Reddit: https://www.reddit.com/r/guitarpedals/comments/3yofei/npd_greer_amps_razor_burn_fuzz_pedal/
 4. Greer Razor Burn - Reverb: https://reverb.com/p/greer-razor-burn
 
 ## Photo

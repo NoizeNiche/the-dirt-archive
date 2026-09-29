@@ -30,7 +30,7 @@ Stone Deaf FX's Fig Fumb LTD is cataloged as a fuzz pedal.
 The Dirt Archive currently catalogs **Fig Fumb LTD** by **Stone Deaf FX** as a **Fuzz** pedal.
 
 ## Sources checked
-1. Products &ndash; Stone Deaf: https://www.stonedeaffx.com/collections/all
+1. Products – Stone Deaf: https://www.stonedeaffx.com/collections/all
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

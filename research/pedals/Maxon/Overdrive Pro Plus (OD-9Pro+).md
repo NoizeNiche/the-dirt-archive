@@ -30,7 +30,7 @@ Maxon's Overdrive Pro Plus (OD-9Pro+) is cataloged as a distortion / overdrive p
 OVERDRIVE PRO PLUS (OD-9Pro+) – Godlyke, Inc.
 
 ## Sources checked
-1. OVERDRIVE PRO PLUS (OD-9Pro+) &ndash; Godlyke, Inc.: https://maxonfx.com/products/overdrive-pro-plus-od-9pro
+1. OVERDRIVE PRO PLUS (OD-9Pro+) – Godlyke, Inc.: https://maxonfx.com/products/overdrive-pro-plus-od-9pro
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

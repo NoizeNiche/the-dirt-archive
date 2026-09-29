@@ -32,8 +32,8 @@ Well spoken, well dressed, and rather particular about tone.
 PRE-ORDER Sir Fuzzington Sir Fuzzington Drive is a British Marshall Stack & Vintage Fuzz Dual drive Pedal On one side, a disciplined British Marshall stack-inspired circuit—tight, articulate, and always in control.
 
 ## Sources checked
-1. Sir Fuzzington | British Stack & Vintage Fuzz Dual Guitar Pedal | TONECAT &mdash; TONECAT: https://www.tonecat.life/sir-fuzzington-dual-overdrive-fuzz-pedal
-2. TONECAT Sir Fuzzington Dual Drive & Fuzz Pedal &ndash; DeathCloud: https://deathcloud.com/products/tonecat-sir-fuzzington-dual-drive-fuzz
+1. Sir Fuzzington | British Stack & Vintage Fuzz Dual Guitar Pedal | TONECAT — TONECAT: https://www.tonecat.life/sir-fuzzington-dual-overdrive-fuzz-pedal
+2. TONECAT Sir Fuzzington Dual Drive & Fuzz Pedal – DeathCloud: https://deathcloud.com/products/tonecat-sir-fuzzington-dual-drive-fuzz
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

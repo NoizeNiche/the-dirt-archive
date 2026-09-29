@@ -28,7 +28,6 @@ DeadastronautFX's EasyDriver is cataloged as an overdrive pedal.
 
 ## Sound
 ​ Whether its a fuzz to a multi tap ambient delay I'm sure you'll find something you would like to add to your arsenal of effects sounds...
-<span style="font-size:17px;" class="wixui-ric - **Builder:** DeadastronautFX - **Catalog type:** Overdrive - **Identity:** EasyDriver Overdrive.
 The builder's surviving catalog explicitly lists EasyDriver Overdrive.
 
 ## Sources checked

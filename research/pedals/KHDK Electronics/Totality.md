@@ -32,7 +32,7 @@ The verified evidence packet did not contain enough pedal-specific sonic descrip
 ## Sources checked
 1. Totality by VMan of Slipknot - KHDK Electronics: https://www.khdkelectronics.com/products/detail/totality-by-vman-of-slipknot/
 2. KHDK Electronics Totality by VMan of Slipknot - Reverb: https://reverb.com/item/94281440-khdk-electronics-totality-by-vman-of-slipknot
-3. NEW KHDK Electronics Totality by VMan of Slipknot &ndash; Northerner Guitars: https://northernerguitars.com/products/new-khdk-electronics-totality-by-vman-of-slipknot
+3. NEW KHDK Electronics Totality by VMan of Slipknot – Northerner Guitars: https://northernerguitars.com/products/new-khdk-electronics-totality-by-vman-of-slipknot
 4. KHDK Electronics Totality Basgitarr effektpedal - wp2se: https://www.swedenmusicsupply.com/product/khdk-electronics-totality-basgitarr-effektpedal/
 5. KHDK Electronics TOTALITY V-Man (from Slipknot) Signature Bass ...: https://www.talkbass.com/threads/khdk-electronics-totality-v-man-from-slipknot-signature-bass-distortion.1628316/
 

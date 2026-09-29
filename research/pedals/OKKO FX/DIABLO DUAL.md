@@ -30,7 +30,7 @@
 ## Sound
 Okko FX Diablo Dual Overdrive | Delicious Audio Creative Pedals Creative Delay Tape Delay W/ Reverb Delay Distortion Fuzz Overdrive Dual Gain Dirt Boost Compr.
 + Dynamics Dynamics EQ Filter Wah Filter+EQ Lo-Fi 8 Bit Lo-fi Chorus Flanger Phaser Tremolo Uni-Vibe Modulation Pitch Shifter Octaver pitch Multiverb Reverb Spring Reverb Reverb CV In Granular Synth Pedals Synth Effect Guides Monthly Lists Shopping Guides Coverage Schedule Facebook Stompbox Exhibit Okko FX Diablo Dual Overdrive Updated Oct.
-4, 2023 | by Paolo De Gregorio The Diablo overdrive (now out of production) was one of OKKO &#8216;s most successful stompbox designs, featuring some novel fine-tuning controls like the Headroom switch (which ups the circuit&#8217;s headroom to 18v), the Feed knob (controlling the amount of bass in the input signal) and the Body knob (affecting mids and dynamics).
+4, 2023 | by Paolo De Gregorio The Diablo overdrive (now out of production) was one of OKKO ‘s most successful stompbox designs, featuring some novel fine-tuning controls like the Headroom switch (which ups the circuit’s headroom to 18v), the Feed knob (controlling the amount of bass in the input signal) and the Body knob (affecting mids and dynamics).
 
 ## Sources checked
 1. Okko FX Diablo Dual Overdrive | Delicious Audio: https://delicious-audio.com/okko-fx-diablo-dual-overdrive/

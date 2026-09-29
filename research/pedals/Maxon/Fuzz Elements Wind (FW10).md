@@ -30,7 +30,7 @@ Maxon's Fuzz Elements Wind (FW10) is cataloged as a fuzz pedal.
 Maxon Fuzz Elements Wind (FW10) – Godlyke, Inc.
 
 ## Sources checked
-1. Maxon Fuzz Elements Wind (FW10) &ndash; Godlyke, Inc.: https://maxonfx.com/products/fuzz-elements-series-guitar-effects-pedals-water-fwa10
+1. Maxon Fuzz Elements Wind (FW10) – Godlyke, Inc.: https://maxonfx.com/products/fuzz-elements-series-guitar-effects-pedals-water-fwa10
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

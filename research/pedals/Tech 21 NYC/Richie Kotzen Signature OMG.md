@@ -29,12 +29,12 @@ Tech 21 NYC's Richie Kotzen Signature OMG is cataloged as a fuzz / overdrive ped
 
 ## Sound
 Tech 21 NYC - Richie Kotzen Signature OMG Overdrive demo...
-It took many prototypes to get the OMG pedal to sound &#8211;and feel&#8211; the way Richie wanted it.
+It took many prototypes to get the OMG pedal to sound –and feel– the way Richie wanted it.
 The all-analog OMG has a unique, slightly asymmetrical distortion that emulates single power tube Class A amplifiers, but with a tighter, quicker and snappier response.
 
 ## Sources checked
 1. Tech 21 NYC - Richie Kotzen Signature OMG Overdrive demo...: https://www.facebook.com/tech21nyc/posts/richie-kotzen-signature-omg-overdrive-demo-just-posted-by-the-inimitable-brett-k/624463597590123/
-2. OMG &#8211; Tech 21 NYC: https://www.tech21nyc.com/archive/omg/
+2. OMG – Tech 21 NYC: https://www.tech21nyc.com/archive/omg/
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

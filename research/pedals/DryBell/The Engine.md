@@ -7,7 +7,7 @@
 - **Identity:** DryBell's The Engine.
 
 ## What this pedal is
-Sporting a &#8220;Foundation Preamp&#8221; subtitle, the DryBell The Engine is a fully analog, high headroom, extremely versatile dual preamp that aims at covering all the classic, British, &#8217;60s-inspired overdriven tones on any type of amp, at any level you may fancy.
+Sporting a “Foundation Preamp” subtitle, the DryBell The Engine is a fully analog, high headroom, extremely versatile dual preamp that aims at covering all the classic, British, ’60s-inspired overdriven tones on any type of amp, at any level you may fancy.
 
 ## Colorways
 - No specific factory colorway information was established in the verified evidence packet.
@@ -29,7 +29,7 @@ Sporting a &#8220;Foundation Preamp&#8221; subtitle, the DryBell The Engine is a
 ## Sound
 DryBell The Engine Dual Preamp | Delicious Audio Creative Pedals Creative Delay Tape Delay W/ Reverb Delay Distortion Fuzz Overdrive Dual Gain Dirt Boost Compr.
 11, 2025 | by Alex Maiolo Our Croatian friends at DryBell , who have built a super-solid reputation with their Uni-Vibe emulations and the more recent utility pedal Unit67 , unveiled at our NAMM 2020 Stompbox Booth a prototype of their first preamp/overdrive, and it looked right away like something special.
-Sporting a &#8220;Foundation Preamp&#8221; subtitle, the DryBell The Engine is a fully analog, high headroom, extremely versatile dual preamp that aims at covering all the classic, British, &#8217;60s-inspired overdriven tones on any type of amp, at any level you may fancy.
+Sporting a “Foundation Preamp” subtitle, the DryBell The Engine is a fully analog, high headroom, extremely versatile dual preamp that aims at covering all the classic, British, ’60s-inspired overdriven tones on any type of amp, at any level you may fancy.
 
 ## Sources checked
 1. DryBell The Engine: British Amp in A Box + EQ/Boost: https://drybell.com/product/the-engine/

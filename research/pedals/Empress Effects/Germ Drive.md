@@ -35,7 +35,7 @@ Page 2 Introduction True to the tweed tube amps of the 50’s, the germ drive de
 ## Sources checked
 1. EMPRESS EFFECTS GERM DRIVE USER MANUAL Pdf Download | ManualsLib: https://www.manualslib.com/manual/1324996/Empress-Effects-Germ-Drive.html
 2. Empress Effects Germ Drive : Manual: https://www.manualshelf.com/manual/empress-effects/germ-drive/manual-english.html
-3. Germ Drive &ndash; Empress Effects Inc.: https://empresseffects.com/products/germ-drive
+3. Germ Drive – Empress Effects Inc.: https://empresseffects.com/products/germ-drive
 4. Empress Effects germ drive User Manual | AI Chat & PDF | Manualzz: https://manualzz.com/doc/6699041/empress-effects-germ-drive-overdrive-pedal-user-manual
 5. Empress Effects Germ Drive manuals: https://empress-effects.manymanuals.com/audio-accessories/germ-drive
 6. Empress Effects Germ Drive | Effects Database: https://www.effectsdatabase.com/model/empress/germdrive

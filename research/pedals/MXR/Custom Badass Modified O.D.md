@@ -35,7 +35,7 @@ Current Stock: Quantity: Decrease Quantity: Increase Quantity: Add to Bag atc-pr
 1. MXR Custom Badass Modified O.D. Pedal Review - Premier Guitar: https://www.premierguitar.com/gear/mxr-custom-badass-modified-o-d-pedal-review
 2. MXR® CUSTOM BADASS™ MODIFIED O.D. - Dunlop: https://www.jimdunlop.com/mxr-custom-badass-modified-o-d/
 3. MXR CUSTOM BADASS MODIFIED O.D. | AllThePedals: https://allthepedals.com/pedals/mxr-custom-badass-modified-od
-4. MXR Custom Badass Modified O.D. &ndash; Angel City Guitars: https://angelcityguitars.com/products/mxr-custom-badass-modified-o-d
+4. MXR Custom Badass Modified O.D. – Angel City Guitars: https://angelcityguitars.com/products/mxr-custom-badass-modified-o-d
 5. Custom Badass Modified O.D. — MXR Overdrive Pedal | PedalFilter | PedalFilter: https://pedalfilter.com/mxr/custom-badass-modified-o-d
 
 ## Photo

@@ -34,7 +34,7 @@ In addition, we squeezed it into a smaller and more pedal board friendly enclosu
 
 ## Sources checked
 1. WURM 2 – High-Gain Distortion with Active 4-Band EQ | KMA Machines: https://kmamachines.com/machines/wurm-2/
-2. KMA Machines WURM 2 &ndash; KMA Machines - Direct: https://shop.kmamachines.com/products/kma-machines-wurm-2
+2. KMA Machines WURM 2 – KMA Machines - Direct: https://shop.kmamachines.com/products/kma-machines-wurm-2
 3. KMA Wurm 2 | The Ultimate HM-2 Style Swedish Chainsaw Distortion - Cottonwood Music Emporium: https://www.cottonwoodmusicemporium.com/products/kma-machines-wurm-2
 4. KMA Audio Machines Wurm 2 - Reverb: https://reverb.com/p/kma-audio-machines-wurm-2
 5. KMA Machines KMA Audio Machines Wurm 2 | Equipboard: https://equipboard.com/items/kma-machines-kma-audio-machines-wurm-2

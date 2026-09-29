@@ -27,7 +27,6 @@ The Wampler Belle Overdrive is a versatile overdrive pedal designed to deliver a
 - The archive records only the component information explicitly present in these sources.
 
 ## Sound
-With the Belle, Brian Wampler has taken a classic low gain overdrive circuit and tweaked it to perfection… In stock Belle Overdrive quantity Add to cart Watch video
 The Wampler Belle Overdrive is a versatile overdrive pedal designed to deliver a range of tones, from clean boosts to crunchy overdrives and medium distortion.
 It offers a unique bass control and a 'Color' control for tone shaping, along with a side-mounted compression switch.
 

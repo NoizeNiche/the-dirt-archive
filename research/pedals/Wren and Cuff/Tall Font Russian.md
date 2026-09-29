@@ -33,7 +33,7 @@ After some investigation I found that they’re very, very, similar in tone, par
 After custom tweaking those pots, I realized that this was one of the things responsible for keeping the low-mid range from getting to mucky and is also a factor in the more over-drive type qu
 
 ## Sources checked
-1. Tall Font Russian &mdash; Wren and Cuff: https://www.wrenandcuff.com/products/tall-font-russian
+1. Tall Font Russian — Wren and Cuff: https://www.wrenandcuff.com/products/tall-font-russian
 2. Wren and Cuff Tall Font Russian Fuzz - Reverb: https://reverb.com/p/wren-and-cuff-tall-font-russian-fuzz
 3. Wren and Cuff Tall Font Russian — Fuzz Pedal | Equipboard: https://equipboard.com/items/wren-and-cuff-tall-font-russian
 4. Wren and Cuff Tall Font Russian: https://martelmusicstore.com/products/wrenandcufftallfontrussian

@@ -27,12 +27,11 @@ Dirty Boy's The Magical MYSTERY FUZZ is cataloged as a Fuzz pedal.
 - **Exact part:** Unknown.
 
 ## Sound
-The Magical MYSTERY FUZZ &ndash; Dirty Boy Co.
-Skip to content Instagram TikTok ALL PRODUCTS ARE MANUFACTURED BY HAND WITH THE REAL TONE ⚡ TURNAROUND TIME IS 6-8 WEEKS.
+The Magical MYSTERY FUZZ – Dirty Boy Co.
 The Magical MYSTERY FUZZ The Magical MYSTERY FUZZ Regular price $399.00 USD Regular price Sale price $399.00 USD Unit price / per Sale Sold out Taxes included.
 
 ## Sources checked
-1. The Magical MYSTERY FUZZ &ndash; Dirty Boy Co.: https://www.dirtyboy.co/products/the-magical-mystery-fuzz
+1. The Magical MYSTERY FUZZ – Dirty Boy Co.: https://www.dirtyboy.co/products/the-magical-mystery-fuzz
 2. Dirty Boy Pedals The Magical Mystery Fuzz | Effects Database: https://www.effectsdatabase.com/model/dirtyboy/magicalmystery
 3. Dirty Boy The Magical Mystery Fuzz - Reverb: https://reverb.com/item/99469785-dirty-boy-the-magical-mystery-fuzz
 4. Dirty Boy The Magical MYSTERY FUZZ - Guitar Pedals For You: https://www.guitarpedalsforyou.com/products/dirty-boy-the-magical-mystery-fuzz
@@ -54,7 +53,6 @@ Dirty Boy's The Magical MYSTERY FUZZ is cataloged as a fuzz pedal.
 ### Verified sound evidence
 The Magical MYSTERY FUZZ – Dirty Boy Co.
 The Magical MYSTERY FUZZ The Magical MYSTERY FUZZ Regular price $399.00 USD Regular price Sale price $399.00 USD Unit price / per Sale Sold out Taxes included.
-Quantity ( 0 in cart) Decrease quantity for The Magical MYSTERY FUZZ Increase quantity for The Magical MYSTERY FUZZ Sold out Couldn't load pickup availability Refresh The Magical Mystery Fuzz A germanium fuzz like no other.
 
 ### Sources checked in this pass
 1. The Magical MYSTERY FUZZ – Dirty Boy Co.: https://www.dirtyboy.co/products/the-magical-mystery-fuzz

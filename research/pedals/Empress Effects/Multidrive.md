@@ -35,7 +35,7 @@ The multidrive allows you to blend Overdrive, Distortion and Fuzz together, crea
 Let the sustain of fuzz, the bite of distortion and the clarity and note definition of overdrive all work together!
 
 ## Sources checked
-1. Multidrive &ndash; Empress Effects Inc.: https://empresseffects.com/products/multidrive
+1. Multidrive – Empress Effects Inc.: https://empresseffects.com/products/multidrive
 2. EMPRESS EFFECTS MULTIDRIVE USER MANUAL Pdf Download | ManualsLib: https://www.manualslib.com/manual/939501/Empress-Effects-Multidrive.html
 3. Empress Effects Multidrive Pedal Review - Premier Guitar: https://www.premierguitar.com/gear/empress-effects-multidrive-pedal-review
 4. Empress Effects Multidrive — Overdrive Pedal | Equipboard: https://equipboard.com/items/empress-effects-multidrive-overdrive-guitar-effects-pedal

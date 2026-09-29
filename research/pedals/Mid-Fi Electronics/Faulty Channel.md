@@ -33,7 +33,7 @@ The verified evidence packet did not contain enough pedal-specific sonic descrip
 1. Mid-Fi Electronics Faulty Channel - Golden - Reverb: https://reverb.com/item/101953527-mid-fi-electronics-faulty-channel-golden
 2. Mid-Fi Electronics ::: Faulty Channel: https://www.midfielectronics.com/faulty-channel-
 3. Mid-Fi Electronics Guitar Effects Pedal Faulty Channel Used: https://www.ebay.com/itm/117155241708
-4. Mid-Fi Electronics Faulty Channel Pedal &ndash; DeathCloud: https://deathcloud.com/products/mid-fi-electronics-faulty-channel
+4. Mid-Fi Electronics Faulty Channel Pedal – DeathCloud: https://deathcloud.com/products/mid-fi-electronics-faulty-channel
 5. Mid-Fi Electronics Faulty Channel Pedal - talentmusicstore.com: https://www.talentmusicstore.com/product/mid-fi-electronics-faulty-channel-pedal/
 
 ## Photo

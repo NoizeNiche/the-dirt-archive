@@ -36,7 +36,7 @@ ThorpyFX nailed the Selmer tone, but pushed the design even further.
 2. ThorpyFX Scarlet Tunic Analog Amp Emulator - Reverb: https://reverb.com/p/thorpyfx-scarlet-tunic-analog-amp-emulator
 3. ThorpyFX Scarlet Tunic - What To Know & Where To Buy: https://equipboard.com/items/thorpyfx-scarlet-tunic
 4. ThorpyFX Scarlet Tunic | Vintage Analog Amp Emulator Pedal - Cottonwood Music Emporium: https://www.cottonwoodmusicemporium.com/products/thorpyfx-scarlet-tunic
-5. ThorpyFX Scarlet Tunic &ndash; Soft Noise Audio: https://softnoiseaudio.com/products/thorpy-fx-scarlet-tunic
+5. ThorpyFX Scarlet Tunic – Soft Noise Audio: https://softnoiseaudio.com/products/thorpy-fx-scarlet-tunic
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

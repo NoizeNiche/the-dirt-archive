@@ -33,7 +33,7 @@ Rose Morris have collaborated with ThorpyFX to meticulously recreate the DUO FUZ
 
 ## Sources checked
 1. Shaftesbury Duo Fuzz Heritage Edition: https://thorpyfx.com/en-us/products/shaftesbury-duo-fuzz-heritage-edition
-2. Shaftesbury Duo Fuzz &ndash; Rose-Morris: https://rosemorris.com/products/shaftesbury-duo-fuzz
+2. Shaftesbury Duo Fuzz – Rose-Morris: https://rosemorris.com/products/shaftesbury-duo-fuzz
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

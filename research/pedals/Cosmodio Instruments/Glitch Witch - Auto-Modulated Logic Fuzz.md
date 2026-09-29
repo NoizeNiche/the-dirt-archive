@@ -84,5 +84,5 @@ The manufacturer describes an original CMOS fuzz circuit with a wide, gated/full
 **GATE:** controls fuzz pre-gain and the amount of gating/sustain.
 
 ### Sources checked in this pass
-1. Glitch Witch &ndash; Cosmodio Instruments: https://cosmod.io/products/glitch-witch
+1. Glitch Witch – Cosmodio Instruments: https://cosmod.io/products/glitch-witch
 2. catalog/override source: https://www.simsmusic.com/blogs/blog/now-at-sims-music-cosmodio-instruments-sonic-art-for-the-adventurous-player

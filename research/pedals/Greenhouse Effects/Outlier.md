@@ -7,7 +7,6 @@
 - **Identity:** Greenhouse Effects's Outlier.
 
 ## What this pedal is
-OUTLIER / OD DIST &mdash; GREENHOUSE EFFECTS Skip to Content Open Menu Close Menu GREENHOUSE EFFECTS SHOP PEDALS MERCH DEALERS ABOUT CONTACT THE STORY 0 0 GREENHOUSE EFFECTS SHOP PEDALS MERCH DEALERS ABOUT CONTACT THE STORY 0 0 Open Menu Close Menu Folder: SHOP Back PEDALS MERCH DEALERS Folder: ABOUT Back CONTACT THE STORY PEDALS &rsaquo; OUTLIER / OD amp; DIST Image 1 of 1 OUTLIER / OD DIST $199.00 Overdrive and Distortion The past is only a sonic guide with this versatile and highly-capable drive/distortion.
 
 ## Colorways
 - No specific factory colorway information was established in the verified evidence packet.
@@ -27,12 +26,11 @@ OUTLIER / OD DIST &mdash; GREENHOUSE EFFECTS Skip to Content Open Menu Close Men
 - **Exact part:** Unknown.
 
 ## Sound
-OUTLIER / OD DIST &mdash; GREENHOUSE EFFECTS Skip to Content Open Menu Close Menu GREENHOUSE EFFECTS SHOP PEDALS MERCH DEALERS ABOUT CONTACT THE STORY 0 0 GREENHOUSE EFFECTS SHOP PEDALS MERCH DEALERS ABOUT CONTACT THE STORY 0 0 Open Menu Close Menu Folder: SHOP Back PEDALS MERCH DEALERS Folder: ABOUT Back CONTACT THE STORY PEDALS &rsaquo; OUTLIER / OD amp; DIST Image 1 of 1 OUTLIER / OD DIST $199.00 Overdrive and Distortion The past is only a sonic guide with this versatile and highly-capable drive/distortion.
-Consider the internal signal chain: Op-Amp Buffered Input &gt; Op-Amp Gain Stage &gt; FET Gain Stage &gt; Op-Amp Gain Stage &gt; Cabinet Simulator &gt; Active EQ &gt; Volume Control &gt; BJT Output Buffer.
+Consider the internal signal chain: Op-Amp Buffered Input > Op-Amp Gain Stage > FET Gain Stage > Op-Amp Gain Stage > Cabinet Simulator > Active EQ > Volume Control > BJT Output Buffer.
 The Outlier represents the miniaturization of a whole series of circuitry functions and combines them into one unit while disguising their capability in an easy to use drive pedal with typical controls that can access all the power and control that the complex structure offers.
 
 ## Sources checked
-1. OUTLIER / OD DIST &mdash; GREENHOUSE EFFECTS: https://www.gheffects.com/pedals/p/outlier
+1. OUTLIER / OD DIST — GREENHOUSE EFFECTS: https://www.gheffects.com/pedals/p/outlier
 2. Greenhouse Effects Outlier - Overdrive/Distortion - Effects Database: https://www.effectsdatabase.com/model/greenhouse/outlier
 
 ## Photo

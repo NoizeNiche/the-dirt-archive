@@ -27,7 +27,7 @@ Dwarfcraft Devices browse by type distortion/fuzz/overdrive fuzz browse by type 
 - **Exact part:** Unknown.
 
 ## Sound
-Effect types &#9660; boost distortion fuzz overdrive acoustic simulation amp simulation speaker/cabinet simulation chorus flanger phaser tremolo vibe vibrato other modulation pitch shifter octaver delay reverb looper/sampler hold/freeze eq filter wah fuzz-wah bitcrusher ring modulator samplerate reducer wavefolder synth effect granular effect multi effect vocal effect talkbox vocoder buffer compressor other...
+Effect types ▼ boost distortion fuzz overdrive acoustic simulation amp simulation speaker/cabinet simulation chorus flanger phaser tremolo vibe vibrato other modulation pitch shifter octaver delay reverb looper/sampler hold/freeze eq filter wah fuzz-wah bitcrusher ring modulator samplerate reducer wavefolder synth effect granular effect multi effect vocal effect talkbox vocoder buffer compressor other...
 Dwarfcraft Devices browse by type distortion/fuzz/overdrive fuzz browse by type sound source oscillator browse by enclosure pedal Dwarfcraft Devices The Secret Destoryer Published on November 5, 2011 Dwarfcraft Devices fuzz oscillator pedal Information A FuzzHugger.com-exclusive, the Secret Destroyer is a deluxe version of the Great Destroyer, packing in all the controls of the Great Destroyer--plus an added fifth knob that controls a third gain stage and more oscillation!
 Rhythmically self-oscillation chip-based sicko fuzz!
 

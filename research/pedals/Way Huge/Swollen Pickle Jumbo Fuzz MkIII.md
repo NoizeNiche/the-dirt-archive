@@ -29,7 +29,6 @@ Way Huge's Swollen Pickle Jumbo Fuzz MkIII is cataloged as a Fuzz pedal.
 
 ## Sound
 Review The Way Huge Smalls Swollen Pickle Jumbo Fuzz concentrates allthe potent flavors of its predecessors into a super pedalboard-friendlyhousing with a simpler interface.
-The Loudness, Sustain, and Filtercontrols to season your sound to taste while the Scoop s $109.60 $54.80 Quantity : Add to cart
 
 ## Sources checked
 1. Way Huge Smalls WM41 Swollen Pickle Jumbo Fuzz MKIII - Macdaddy Music: https://www.macdaddymusicstore.com/way-huge-smalls-wm41-swollen-pickle-jumbo-fuzz-mkiii/

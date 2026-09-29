@@ -32,7 +32,7 @@ It utilizes internal bipolar power, which gives you more dynamics and all the he
 The end result is a three-dimensional tone with added clarity that really pushes a nice tube amp over the edge.
 
 ## Sources checked
-1. Blumes Low Signal Shredder &mdash; EarthQuaker Devices: https://www.earthquakerdevices.com/blumes
+1. Blumes Low Signal Shredder — EarthQuaker Devices: https://www.earthquakerdevices.com/blumes
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

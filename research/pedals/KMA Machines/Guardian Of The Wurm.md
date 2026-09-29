@@ -33,9 +33,9 @@ We’ve never tried to hide the fact that the WURM Distortion is our unabashed s
 
 ## Sources checked
 1. GUARDIAN of the WURM – High-Gain Distortion and Noise Gate | KMA Machines: https://kmamachines.com/machines/guardian-of-the-wurm/
-2. KMA Machines GUARDIAN of the WURM &ndash; KMA Machines - Direct: https://shop.kmamachines.com/products/kma-machines-guardian-of-the-wurm
+2. KMA Machines GUARDIAN of the WURM – KMA Machines - Direct: https://shop.kmamachines.com/products/kma-machines-guardian-of-the-wurm
 3. KMA Machines Guardian of the Wurm — Distortion Pedal: https://equipboard.com/items/kma-audio-machines-guardian-of-the-wurm
-4. KMA Machines Guardian of the Wurm Metal Distortion Pedal with Noise Ga &ndash; Z String Music: https://zstringmusic.com/products/kma-machines-guardian-of-the-worm
+4. KMA Machines Guardian of the Wurm Metal Distortion Pedal with Noise Ga – Z String Music: https://zstringmusic.com/products/kma-machines-guardian-of-the-worm
 5. KMA Machines GUARDIAN of the WURM | The Pedal Zone: https://thepedalzone.com/product/kma-machines-guardian-of-the-wurm/
 6. KMA Machines Guardian of the Wurm Distortion Pedal - Cottonwood Music Emporium: https://www.cottonwoodmusicemporium.com/products/kma-machines-guardian-of-the-wurm
 

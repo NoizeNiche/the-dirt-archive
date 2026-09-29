@@ -32,7 +32,7 @@ The reimagined tone control is finely tuned to sculpt low end, clear top end, an
 Gain: This controls the amount of drive.
 
 ## Sources checked
-1. Plumes Small Signal Shredder &mdash; EarthQuaker Devices: https://www.earthquakerdevices.com/plumes
+1. Plumes Small Signal Shredder — EarthQuaker Devices: https://www.earthquakerdevices.com/plumes
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

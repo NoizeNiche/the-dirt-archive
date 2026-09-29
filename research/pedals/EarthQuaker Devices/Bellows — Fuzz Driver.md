@@ -32,7 +32,7 @@ Stoke the fires in the seventh circle of tone with the Bellows!
 The Bellows isn’t based on anything in particular, but it straddles the line between amp-like grit and fuzzy saturation, with a bunch of useful distorted places in between, capturing nearly every era of Rock-and-Roll in a box.
 
 ## Sources checked
-1. Bellows Fuzz Driver &mdash; EarthQuaker Devices: https://www.earthquakerdevices.com/bellows
+1. Bellows Fuzz Driver — EarthQuaker Devices: https://www.earthquakerdevices.com/bellows
 2. EarthQuaker Devices Bellows - Fuzzdriver | Effects Database: https://www.effectsdatabase.com/model/earthquaker/bellows
 
 ## Photo

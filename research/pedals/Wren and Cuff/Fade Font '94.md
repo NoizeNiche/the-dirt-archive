@@ -32,10 +32,10 @@ Recreate the legendary high-gain, papery grit, and commanding, focused low-end t
 That pedal finds its beauty on the opposite end of the spectrum because of its oddball low output, low gain bordering on overdrive, and less extreme tone range.
 
 ## Sources checked
-1. Fade Font ’94 – High-Gain Vintage BM Distortion Recreation &mdash; Wren and Cuff: https://www.wrenandcuff.com/products/fade-font-94
+1. Fade Font ’94 – High-Gain Vintage BM Distortion Recreation — Wren and Cuff: https://www.wrenandcuff.com/products/fade-font-94
 2. Wren and Cuff Fade Font '94 - Reverb: https://reverb.com/p/wren-and-cuff-fade-font-94
-3. Wren and Cuff Fade Font '94 &ndash; Flipside Music: https://flipside-music.com/products/wren-and-cuff-fade-font-94
-4. Wren and Cuff Fade Font ’94 &ndash; Coast Sonic: https://coastsonic.com/products/wren-and-cuff-fade-font-94
+3. Wren and Cuff Fade Font '94 – Flipside Music: https://flipside-music.com/products/wren-and-cuff-fade-font-94
+4. Wren and Cuff Fade Font ’94 – Coast Sonic: https://coastsonic.com/products/wren-and-cuff-fade-font-94
 5. Wren and Cuff Fade Font ’94 Review - Premier Guitar: https://www.premierguitar.com/reviews/pedals/wren-cuff-fade-font-review
 
 ## Photo

@@ -11,7 +11,7 @@ OK Close MENU SEARCH SHARE FOLLOW US : NEWS NEWS INDEX FEATURE PRODUCTS EVENTS I
 
 ## Colorways
 - Red LEDs (light emitting diodes) are used in this mode, like the Marshall Guv'nor, but not with enough power to light them up as much as in the Guv'nor.
-- Generated from the text of customer reviews Quality (45) Sound quality (22) Tone (15) Versatility (10) Compatibility (9) Value for money (9) Pedal quality (8) Modes (7) Product details Brand Ibanez Style Boom microphone stand with a telescoping boom arm Color Green Product Dimensions 2.91&#34;L x 2.09&#34;W x 4.88&#34;H Item Weight 1.3 pounds Voltage 240 volts Similar to your pick Page {currentPage} of {totalPages} Amazon's Choice BOSS BOSS CH-1 SUPER Chorus Classic Compact Chorus Effects Pedal | Classic Compact Chorus Effects Pedal.
+- Generated from the text of customer reviews Quality (45) Sound quality (22) Tone (15) Versatility (10) Compatibility (9) Value for money (9) Pedal quality (8) Modes (7) Product details Brand Ibanez Style Boom microphone stand with a telescoping boom arm Color Green Product Dimensions 2.91"L x 2.09"W x 4.88"H Item Weight 1.3 pounds Voltage 240 volts Similar to your pick Page {currentPage} of {totalPages} Amazon's Choice BOSS BOSS CH-1 SUPER Chorus Classic Compact Chorus Effects Pedal | Classic Compact Chorus Effects Pedal.
 
 ## Versions and factory options
 - The verified evidence references: V4.

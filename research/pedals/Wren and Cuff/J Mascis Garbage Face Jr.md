@@ -33,7 +33,7 @@ Following its release, there were requests for a stripped down three knob versio
 Fuzz Pedal Chicago Music Exchange Description Last year, Wren and Cuff released the Garbage Face, their J Mascis signature pedal.
 
 ## Sources checked
-1. J Mascis Garbage Face Jr &mdash; Wren and Cuff: https://www.wrenandcuff.com/products/garbage-face-jr
+1. J Mascis Garbage Face Jr — Wren and Cuff: https://www.wrenandcuff.com/products/garbage-face-jr
 2. Wren and Cuff J Mascis Garbage Face Jr Dimensions, Specs & Details: https://www.stompboxgarden.com/gear/pedal/15772/wren-and-cuff-j-mascis-garbage-face-jr
 3. Wren and Cuff J Mascis Garbage Face Jr — Fuzz Pedal: https://equipboard.com/items/wren-cuff-garbage-j-mascis-face-jr
 4. Wren and Cuff J Mascis Garbage Face Jr - Reverb: https://reverb.com/item/50197695-wren-and-cuff-j-mascis-garbage-face-jr

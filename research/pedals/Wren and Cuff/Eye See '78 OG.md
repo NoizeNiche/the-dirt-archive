@@ -33,7 +33,7 @@ Essentially, the tone bypass switch removes the passive tone stack from the circ
 Of course, this switch renders the tone control useless, but we’re guessing that in this mode, you won’t miss it—this switch is just too cool.
 
 ## Sources checked
-1. Eye See '78 OG &mdash; Wren and Cuff: https://www.wrenandcuff.com/products/eye-see-78-og
+1. Eye See '78 OG — Wren and Cuff: https://www.wrenandcuff.com/products/eye-see-78-og
 2. Wren and Cuff Eye See '78 OG - Reverb: https://reverb.com/p/wren-and-cuff-eye-see-78-og
 3. Wren And Cuff Eye See '78 OG Fuzz Effects Pedal Pink/Stainless Steel | Guitar Center: https://www.guitarcenter.com/Wren-And-Cuff/Eye-See-78-OG-Fuzz-Effects-Pedal-Pink-Stainless-Steel-1500000409704.gc
 4. Wren and Cuff Eye See 78 OG: https://www.guitarriot.com/shop/Pedals/p/Wren-and-Cuff-Eye-See-78-OG.htm

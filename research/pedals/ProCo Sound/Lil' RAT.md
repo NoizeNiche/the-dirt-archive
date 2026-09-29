@@ -31,7 +31,7 @@ ProCo Sound's Lil' RAT is cataloged as a distortion / overdrive pedal.
 The verified evidence packet did not contain enough pedal-specific sonic description to make a more detailed sound summary without adding unsupported interpretation.
 
 ## Sources checked
-1. Proco Sound LIL RAT Distortion Pedal &ndash; Portland Music Company: https://portlandmusiccompany.com/products/proco-sound-lil-rat-distortion-pedal
+1. Proco Sound LIL RAT Distortion Pedal – Portland Music Company: https://portlandmusiccompany.com/products/proco-sound-lil-rat-distortion-pedal
 2. ProCo Sound LiL' RAT - Distortion - Audiofanzine: https://en.audiofanzine.com/guitar-distortion-overdrive-fuzz/proco-sound/proco-lil-rat/
 
 ## Photo

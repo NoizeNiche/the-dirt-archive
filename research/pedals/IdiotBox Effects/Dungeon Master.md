@@ -10,8 +10,8 @@
 (Pennsylvania) "This Dungeon Master is badass.
 
 ## Colorways
-- IdiotBox Effects Dungeon Master *NEW* (2025 - Black/White) - 607111482116 Skip Navigation Website Accessibility jacksguitarcheology@gmail.com Like, follow or friend: @jackguitarcheology Vintage &bull; Weirdo &bull; Locally Made &bull; Parts &bull; Accessories &bull; Merch &bull; Deals Toggle navigation &#9776; Menu Menu Home Shop &#8964; Home Shop Home Product Directory New Listings Rubber Bridges Gibson Parts Gift Cards About &#8964; Welcome!
-- Rocks Newsletter Nashville Guitar Repair Masterlist Rubber Bridges Shop Policies Press and Reviews Friends of Jack's Guitarcheology Jobs at Jack's Guitarcheology Services &#8964; Service Menu Consignment Layaway Get a Quote Repair Appraisals Brokering Gallery Videos Image Gallery (Guitarchive) Contact THE GUITARCHIVE Login IdiotBox Effects Dungeon Master *NEW* (2025 - Black/White) IdiotBox Effects Dungeon Master *NEW* (2025 - Black/White) 36 ?
+- IdiotBox Effects Dungeon Master *NEW* (2025 - Black/White) - 607111482116 Skip Navigation Website Accessibility jacksguitarcheology@gmail.com Like, follow or friend: @jackguitarcheology Vintage • Weirdo • Locally Made • Parts • Accessories • Merch • Deals Toggle navigation ☰ Menu Menu Home Shop ⌄ Home Shop Home Product Directory New Listings Rubber Bridges Gibson Parts Gift Cards About ⌄ Welcome!
+- Rocks Newsletter Nashville Guitar Repair Masterlist Rubber Bridges Shop Policies Press and Reviews Friends of Jack's Guitarcheology Jobs at Jack's Guitarcheology Services ⌄ Service Menu Consignment Layaway Get a Quote Repair Appraisals Brokering Gallery Videos Image Gallery (Guitarchive) Contact THE GUITARCHIVE Login IdiotBox Effects Dungeon Master *NEW* (2025 - Black/White) IdiotBox Effects Dungeon Master *NEW* (2025 - Black/White) 36 ?
 
 ## Versions and factory options
 - No distinct factory revision was established in the verified evidence packet.
@@ -36,7 +36,7 @@ Tons of volume, tons of gain, tons of sustain and tons of character.
 1. Dungeon Master | IdiotBox Effects: https://www.idiotboxeffects.com/product/dungeon-master
 2. IdiotBox Effects Dungeon Master - Reverb: https://reverb.com/p/idiotbox-effects-dungeon-master
 3. IdiotBox Effects Dungeon Master *NEW* (2025 - Black/White) - 607111482116: https://www.jacksguitarcheology.com/shop/c/p/IdiotBox-Effects-Dungeon-Master-NEW-2025---BlackWhite-x97713470.htm
-4. Idiotbox Effects Dungeon Master &ndash; Coast Sonic: https://coastsonic.com/products/idiotbox-effects-dungeon-master
+4. Idiotbox Effects Dungeon Master – Coast Sonic: https://coastsonic.com/products/idiotbox-effects-dungeon-master
 5. Idiotbox Effects Dungeon Master — Fuzz Pedal | Equipboard: https://equipboard.com/items/idiotbox-dungeon-master
 
 ## Photo

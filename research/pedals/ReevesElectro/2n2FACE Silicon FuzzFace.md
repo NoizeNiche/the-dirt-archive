@@ -33,7 +33,7 @@ The FuzzFace, the guitar players utility pedal, put in at the front of your peda
 No fizzy or spitty decay and nice tight bass response that is forward in the tone.
 
 ## Sources checked
-1. 2n2FACE – High Volume Silicon FuzzFa(e &ndash; ReevesElectro Point to Point Guitar Pedals: https://reeveselectro.co.uk/products/2n2face-silicon-fuzzface
+1. 2n2FACE – High Volume Silicon FuzzFa(e – ReevesElectro Point to Point Guitar Pedals: https://reeveselectro.co.uk/products/2n2face-silicon-fuzzface
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

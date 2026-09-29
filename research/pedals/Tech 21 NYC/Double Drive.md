@@ -10,7 +10,7 @@
 Tech 21 NYC's Double Drive is cataloged as a distortion / overdrive pedal.
 
 ## Colorways
-- Add to cart All Products Deering Nylon Banjo Strap &#8211; Black &#36; 12.95 Original price was: &#036;12.95.
+- Add to cart All Products Deering Nylon Banjo Strap – Black $ 12.95 Original price was: $12.95.
 
 ## Versions and factory options
 - No distinct factory revision was established in the verified evidence packet.
@@ -32,7 +32,7 @@ Instead of just blending these tones, it feeds one into the other for massive �
 CONTROLS INCLUDE DRIVE A controls the amount of Class A power amp output stage distortion (like Vox AC30®-style amp), rich in even harmonics.
 
 ## Sources checked
-1. Double Drive &#8211; Tech 21 NYC: https://www.tech21nyc.com/archive/double-drive/
+1. Double Drive – Tech 21 NYC: https://www.tech21nyc.com/archive/double-drive/
 2. TECH 21 NYC Double Drive 3X Mod Pedal In Mint Condition NIB ... - eBay: https://www.ebay.com/itm/157911150605
 3. Tech 21 NYC Double Drive 3X - Elegant Classical Guitars Crafted for Rich Tone, Smooth Playability, and Lasting Performance: https://www.typicalguitars.com/product/tech-21-nyc-double-drive-3x/
 

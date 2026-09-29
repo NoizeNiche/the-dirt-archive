@@ -29,10 +29,10 @@ The Guitar Pedal Directory Effect Pedals Manufacturers Effect Types Guitar Effec
 ## Sound
 The tone control adjusts brightness and there’s a high-headroom low-noise boost.
 The Guitar Pedal Directory Effect Pedals Manufacturers Effect Types Guitar Effect Pedal by ZVEX Effects Box of Rock - Vertical The ZVex Box of Rock Vertical is a compact overdrive pedal that replicates the sound of a classic amp stack.
-The ZVex Box of Rock Vertical is a compact overdrive pedal that replicates the sound of a classic amp stack, offering rich distortion and a &quot;rock&quot; tone with a signature touch of ZVex&#x27;s unique voice.
+The ZVex Box of Rock Vertical is a compact overdrive pedal that replicates the sound of a classic amp stack, offering rich distortion and a "rock" tone with a signature touch of ZVex's unique voice.
 
 ## Sources checked
-1. Box of Rock Vertical &mdash; ZVEX Effects: https://www.zvex.com/guitar-pedals/box-of-rock-vertical
+1. Box of Rock Vertical — ZVEX Effects: https://www.zvex.com/guitar-pedals/box-of-rock-vertical
 2. Box of Rock - Vertical by ZVEX Effects | The Guitar Pedal Directory: https://www.theguitarpedaldirectory.com/pedals/box-of-rock-vertical
 
 ## Photo

@@ -33,7 +33,7 @@ The Au79 has less gain and less bass than a standard Fleece so it’s slightly m
 Technical Specs Stacks great with overdrive pedals Blurs the line between fuzz and overdrive.
 
 ## Sources checked
-1. AU-79 Fuzz &ndash; Mythos Pedals: https://mythospedals.com/products/au-79-fuzz
+1. AU-79 Fuzz – Mythos Pedals: https://mythospedals.com/products/au-79-fuzz
 2. Mythos Pedals AU-79 Fuzz Pedal | Equipboard: https://equipboard.com/items/mythos-pedals-mythos-au79-golden-fleece-fuzz
 3. Mythos Pedals AU-79 Fuzz - Effects Database: https://www.effectsdatabase.com/model/mythos/au79
 4. Mythos Pedals AU-79 Fuzz - Shop: https://shop.app/products/8494226211095/au-79-fuzz

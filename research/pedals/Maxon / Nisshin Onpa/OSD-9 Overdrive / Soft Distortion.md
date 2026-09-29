@@ -31,7 +31,7 @@ Maxon 9-Series Guitar Effects Pedals – tagged "Distortion" – Godlyke, Inc.
 The Dirt Archive currently catalogs **OSD-9 Overdrive / Soft Distortion** by **Maxon / Nisshin Onpa** as a **Overdrive / Distortion** pedal.
 
 ## Sources checked
-1. Maxon 9-Series Guitar Effects Pedals &ndash; tagged "Distortion" &ndash; Godlyke, Inc.: https://maxonfx.com/collections/nine-series/distortion
+1. Maxon 9-Series Guitar Effects Pedals – tagged "Distortion" – Godlyke, Inc.: https://maxonfx.com/collections/nine-series/distortion
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

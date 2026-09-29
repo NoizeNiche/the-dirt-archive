@@ -32,7 +32,7 @@ The four adjustment knobs allow you to model your guitar sound in a variety of w
 You can make it sound transparent and melodic, or smooth and dense.
 
 ## Sources checked
-1. Sun Beam Magic Drive &mdash; Aleks K Production: https://www.alekskproduction.com/shop/p/sun-beam-magic-drive
+1. Sun Beam Magic Drive — Aleks K Production: https://www.alekskproduction.com/shop/p/sun-beam-magic-drive
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

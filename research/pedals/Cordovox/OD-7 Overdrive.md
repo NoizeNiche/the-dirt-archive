@@ -58,4 +58,4 @@ True bypass footswitch design ensure effectively conversion of bypass and effect
 Ask a question Name Email Message Send Share Share on Facebook Tweet Tweet on Twitter Pin it Pin on Pinterest You may also like Quick view OD-7 Overdrive Cordovox Regular price $119.00 Sale price $89.99 Save $29.01 Guitar Villa Guitar Villa 228 Nazareth Pike (Rt.
 
 ### Sources checked in this pass
-1. OD-7 Overdrive &ndash; Shop Guitar Villa: https://guitar-villa.com/products/xdrive-overdrive-distortion
+1. OD-7 Overdrive – Shop Guitar Villa: https://guitar-villa.com/products/xdrive-overdrive-distortion

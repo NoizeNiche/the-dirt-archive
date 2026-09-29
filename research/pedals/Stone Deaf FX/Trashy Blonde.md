@@ -30,7 +30,7 @@ Stone Deaf FX's Trashy Blonde is cataloged as an overdrive pedal.
 The Dirt Archive currently catalogs **Trashy Blonde** by **Stone Deaf FX** as a **Overdrive / Distortion** pedal.
 
 ## Sources checked
-1. Support &ndash; Stone Deaf: https://www.stonedeaffx.com/pages/support
+1. Support – Stone Deaf: https://www.stonedeaffx.com/pages/support
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

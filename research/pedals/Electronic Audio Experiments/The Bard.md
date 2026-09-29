@@ -33,9 +33,9 @@ Because we love a weird passion project, we editorialized our favorite parts of 
 The clean tones are clear and sparkly, with a gentle dip in the midrange thanks to the passive tone stack.
 
 ## Sources checked
-1. Electronic Audio Experiments Bard - Solid State Overdrive Preamp &mdash; Electronic Audio Experiments: https://www.electronicaudioexperiments.com/pedals/bard
+1. Electronic Audio Experiments Bard - Solid State Overdrive Preamp — Electronic Audio Experiments: https://www.electronicaudioexperiments.com/pedals/bard
 2. Electronic Audio Experiments The Bard - Reverb: https://reverb.com/p/electronic-audio-experiments-the-bard
-3. Electronic Audio Experiments The Bard &ndash; Soft Noise Audio: https://softnoiseaudio.com/products/electronic-audio-experiments-the-bard
+3. Electronic Audio Experiments The Bard – Soft Noise Audio: https://softnoiseaudio.com/products/electronic-audio-experiments-the-bard
 4. Electronic Audio Experiments The Bard: https://www.bestmusicproducts.com/product/electronic-audio-experiments-the-bard/
 5. Electronic Audio Experiments The Bard - Effects Database: https://www.effectsdatabase.com/model/electronicaudioexperiments/bard
 6. Electronic Audio Experiments The Bard Preamp Effects Pedal: https://www.millrivermusic.com/effects-and-pedals-overdrive-and-boost-131/electronic-audio-experiments-the-bard-preamp-effects-pedal-84835569

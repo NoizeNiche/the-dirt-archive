@@ -33,11 +33,11 @@ Muff sounds, overdrive sounds, boosts, and more.
 Adjust the muff circuit at 20 different points, switch between germanium or silicon transistors, completely bypass the tone section for a whole other pallet of tones and more.
 
 ## Sources checked
-1. Forest for the Trees BM20-Ultra &mdash; Wren and Cuff: https://www.wrenandcuff.com/products/forest-for-the-trees
+1. Forest for the Trees BM20-Ultra — Wren and Cuff: https://www.wrenandcuff.com/products/forest-for-the-trees
 2. Wren and Cuff Forest for the Trees - Reverb: https://reverb.com/p/wren-and-cuff-forest-for-the-trees
 3. Wren and Cuff Forest for the Trees — Distortion Pedal: https://equipboard.com/items/wren-and-cuff-forest-for-the-trees
 4. AGH | Wren And Cuff Forest for the Trees: https://austinguitarhouse.com/wren-and-cuff-forest-ofthetrees/
-5. Wren and Cuff Forest for the Trees &ndash; Coast Sonic: https://coastsonic.com/products/wren-and-cuff-de-la-riva
+5. Wren and Cuff Forest for the Trees – Coast Sonic: https://coastsonic.com/products/wren-and-cuff-de-la-riva
 6. Wren and Cuff Forest for the Trees | Effects Database: https://www.effectsdatabase.com/model/wrencuff/forestforthetrees
 7. WREN AND CUFF FOREST FOR THE TREES BM20-ULTRA QUICK START MANUAL Pdf Download | ManualsLib: https://www.manualslib.com/manual/3459912/Wren-And-Cuff-Forest-For-The-Trees-Bm20-Ultra.html
 8. Forest for the Trees by Wren and Cuff | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/Wren-and-Cuff/Forest-for-the-Trees/192204955/

@@ -30,7 +30,7 @@ Maxon's Distortion Master (DS830) is cataloged as a distortion / overdrive pedal
 Maxon Distortion Master (DS830) – Godlyke, Inc.
 
 ## Sources checked
-1. Maxon Distortion Master (DS830) &ndash; Godlyke, Inc.: https://maxonfx.com/products/vintage-series-effects-pedals-ds-830-distortion-master
+1. Maxon Distortion Master (DS830) – Godlyke, Inc.: https://maxonfx.com/products/vintage-series-effects-pedals-ds-830-distortion-master
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

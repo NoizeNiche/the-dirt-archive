@@ -34,7 +34,7 @@ There’s plenty of low end on tap, and paired with the velcro-y, gated texture 
 I put it through its paces in my bass distortion shootout alongside other bass fuzz and distortion pedals, and on either instrument it feels like a mix of a Big Muff and a starved Tonebender, inheriting a bit of both.
 
 ## Sources checked
-1. Woolly Mammoth &mdash; ZVEX Effects: https://www.zvex.com/guitar-pedals/woolly-mammoth-guitar-effects-pedal
+1. Woolly Mammoth — ZVEX Effects: https://www.zvex.com/guitar-pedals/woolly-mammoth-guitar-effects-pedal
 2. ZVEX Effects Woolly Mammoth Demo Review | Loopy Demos: https://loopydemos.com/demos/zvex-effects-woolly-mammoth/
 3. ZVEX Effects Woolly Mammoth Vexter Fuzz Pedal (For Guitar Bass) - eBay: https://www.ebay.com/itm/197061343001
 4. Zvex Woolly Mammoth - Reverb: https://reverb.com/p/zvex-woolly-mammoth

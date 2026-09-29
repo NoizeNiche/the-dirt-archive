@@ -81,5 +81,5 @@ All analog, featuring NOS Germanium transistors for smooth and deep complex tone
 
 ### Sources checked in this pass
 1. Crazy Tube Circuits Constellation OC41 Fuzz Guitar Effect Pedal | Pedal | www.musicalhobbys.com: https://www.musicalhobbys.com/product/crazy-tube-circuits-constellation-oc41-fuzz-guitar-effect-pedal/
-2. Crazy Tube Circuits Constellation Fuzz-OC41 &ndash; Coast Sonic: https://coastsonic.com/products/crazy-tube-circuits-constellation-fuzz
-3. Crazy Tube Circuits Constellation OC41 Germanium Fuzz/Booster &ndash; Gear Hero: https://gearhero.com/products/crazy-tube-circuits-constellation-germanium-fuzz-booster
+2. Crazy Tube Circuits Constellation Fuzz-OC41 – Coast Sonic: https://coastsonic.com/products/crazy-tube-circuits-constellation-fuzz
+3. Crazy Tube Circuits Constellation OC41 Germanium Fuzz/Booster – Gear Hero: https://gearhero.com/products/crazy-tube-circuits-constellation-germanium-fuzz-booster

@@ -33,7 +33,7 @@ Controls: Volume knob: lots of gain on tap Control knob: changes fuzz intensity 
 
 ## Sources checked
 1. Devi Ever FX Bit Legend Of Fuzz - eBay: https://www.ebay.com/itm/389682688651
-2. Devi Ever FX Bit Legend Of Fuzz &ndash; Malibu Music: https://malibumusic.com/products/devi-ever-fx-bit-legend-of-fuzz
+2. Devi Ever FX Bit Legend Of Fuzz – Malibu Music: https://malibumusic.com/products/devi-ever-fx-bit-legend-of-fuzz
 3. Devi Ever FX BIT Legend Of Fuzz | Effects Database: https://www.effectsdatabase.com/model/deviever/bit
 
 ## Photo

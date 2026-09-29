@@ -30,7 +30,7 @@ Mr. Black's Sour Cream & Onion is cataloged as an overdrive pedal.
 The verified evidence packet did not contain enough pedal-specific sonic description to make a more detailed sound summary without adding unsupported interpretation.
 
 ## Sources checked
-1. Mr. Black Pedals &ndash; Chicago Music Exchange: https://www.chicagomusicexchange.com/collections/mr-black-pedals
+1. Mr. Black Pedals – Chicago Music Exchange: https://www.chicagomusicexchange.com/collections/mr-black-pedals
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

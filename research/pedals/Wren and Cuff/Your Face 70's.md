@@ -32,7 +32,7 @@ Truly an ultra-smooth high-gain silicon 70’s style fuzzer with all the right t
 Wren And Cuff Your Face 70's Fuzz Effects Pedal
 
 ## Sources checked
-1. Your Face 70's &mdash; Wren and Cuff: https://www.wrenandcuff.com/products/your-face-70s
+1. Your Face 70's — Wren and Cuff: https://www.wrenandcuff.com/products/your-face-70s
 2. Wren and Cuff Your Face 70's — Fuzz Pedal | Equipboard: https://equipboard.com/items/wren-and-cuff-your-face
 3. Wren And Cuff Your Face 70's Fuzz Effects Pedal | Guitar Center: https://www.guitarcenter.com/Wren-And-Cuff/Your-Face-70s-Fuzz-Effects-Pedal-1500000279075.gc
 4. Wren and Cuff The Your Face 70's: https://austinguitarhouse.com/the-your-face-70s-red/

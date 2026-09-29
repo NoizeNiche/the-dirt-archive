@@ -30,7 +30,7 @@ Maxon's Fuzz Elements Water (FWA10) is cataloged as a fuzz pedal.
 Maxon Fuzz Elements Water (FWA10) – Godlyke, Inc.
 
 ## Sources checked
-1. Maxon Fuzz Elements Water (FWA10) &ndash; Godlyke, Inc.: https://maxonfx.com/products/fuzz-elements-series-guitar-effects-pedals-water-fwa10-1
+1. Maxon Fuzz Elements Water (FWA10) – Godlyke, Inc.: https://maxonfx.com/products/fuzz-elements-series-guitar-effects-pedals-water-fwa10-1
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

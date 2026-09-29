@@ -30,7 +30,7 @@ CroyTone Audio Technologies's Suzumebachi Fuzz is cataloged as a fuzz pedal.
 The verified evidence packet did not contain enough pedal-specific sonic description to make a more detailed sound summary without adding unsupported interpretation.
 
 ## Sources checked
-1. Suzumebachi Fuzz &ndash; Croy Tone Audio Technologies: https://croytoneaudio.com/en/products/suzumebachi-fuzz
+1. Suzumebachi Fuzz – Croy Tone Audio Technologies: https://croytoneaudio.com/en/products/suzumebachi-fuzz
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

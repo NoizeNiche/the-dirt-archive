@@ -25,8 +25,6 @@ This pass adds only claims supported by the newly admitted exact-model evidence.
 Caline's CP-99 Medusa - Overdrive is cataloged as an overdrive pedal.
 
 ### Verified sound evidence
-Close Close Caline CP-99 "Medusa" Overdrive SALE Regular price R 1,250.00 Sold Out Shipping calculated at checkout.
-Default Title - Sold Out Quantity Sold Out The Caline CP-99 "Medusa" Overdrive is inspired by the original Centaur and is a higher gain, more compact version of our CP-43 "Pegasus" overdrive.
 This golden beauty uses the Volume, Tone and Gain controls to exude warm, analog overdrive and boost tones with ease.
 
 ### Sources checked in this pass

@@ -47,7 +47,7 @@ Low gain channel is voiced after late 60s Super Bass while high gain channel sou
 Gain knobs on both channels also act as voicing controls adding more bass as you turn clockwise, choosing from jangly and sparkling clean to thick crunch while tone knobs behave as a presence control adding bite to your tone.
 
 ### Sources checked in this pass
-1. Ziggy v2 &mdash; Crazy Tube Circuits: https://crazytubecircuits.com/ziggy-v2
+1. Ziggy v2 — Crazy Tube Circuits: https://crazytubecircuits.com/ziggy-v2
 2. catalog/override source: https://www.guitarrockly.com/product/crazy-tube-circuits-ziggy-v2-overdrive-distortion-pedal/
 3. Crazy Tube Circuits Ziggy V2 2 Channel Overdrive: https://distinctiveguitar.com/crazy-tube-circuits/crazy-tube-circuits-ziggy-v2-2-channel-overdrive/
 4. CTC Ziggy V2: https://austinguitarhouse.com/ctc-ziggy-2/

@@ -32,7 +32,7 @@ Can be violin smooth and sustaining, but can be raunchy and drivey when you roll
 Med-heavy mid-scoop, heavy saturation on tap.
 
 ## Sources checked
-1. Caprid Small Foot &mdash; Wren and Cuff: https://www.wrenandcuff.com/products/caprid-small-foot
+1. Caprid Small Foot — Wren and Cuff: https://www.wrenandcuff.com/products/caprid-small-foot
 2. Wren and Cuff Caprid Small Foot — Fuzz Pedal | Equipboard: https://equipboard.com/items/wren-and-cuff-caprid-small-foot
 3. Wren And Cuff Caprid Small Foot: https://www.guitarriot.com/shop/Pedals/p/Wren-And-Cuff-Caprid-Small-Foot.htm
 4. Wren And Cuff Caprid Small Foot Legendary Distortion/Overdrive/Fuzz Effects Pedal RiversandTestlegacy | Guitar Center: https://www.guitarcenter.com/Wren-And-Cuff/Caprid-Small-Foot-Fuzz-Effects-Pedal-RiversandTestlegacy-1500000279259.gc

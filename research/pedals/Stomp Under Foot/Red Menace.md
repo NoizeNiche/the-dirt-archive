@@ -7,7 +7,6 @@
 - **Identity:** Stomp Under Foot's Red Menace.
 
 ## What this pedal is
-Checkout Close Your bag is empty Browse our collection of handmade fuzz, overdrive, and distortion pedals.
 
 ## Colorways
 - As one of the first modified pedals in the Stomp Under Foot lineup, the Red Menace captures the best qualities of both classic designs while introducing modern flexibility.
@@ -32,7 +31,6 @@ Checkout Close Your bag is empty Browse our collection of handmade fuzz, overdri
 ## Sound
 The gritty, low-end strikes the perfect balance between deep bass and articulate clarity, allowing each note to punch through the fuzz without becoming muddy.
 The high end delivers the sweet, singing sustain reminiscent of later Triangles, making it ideal for soaring leads and the added mids control lets you to fine-tune your presence in the mix from classic scooped to a mid-forward tone to punch through a dense band setting.
-Checkout Close Your bag is empty Browse our collection of handmade fuzz, overdrive, and distortion pedals.
 
 ## Sources checked
 1. Red Menace – Stomp Under Foot: https://stompunderfoot.com/products/red-menace

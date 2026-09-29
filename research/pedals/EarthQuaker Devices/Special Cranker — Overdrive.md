@@ -32,7 +32,7 @@ Free -Day Shipping Get it by when you order within Get it if you order in Price:
 Think of it as sticking an extra preamp tube in your amplifier for more saturation.
 
 ## Sources checked
-1. Special Cranker An Overdrive You Can Trust &mdash; EarthQuaker Devices: https://www.earthquakerdevices.com/special-cranker
+1. Special Cranker An Overdrive You Can Trust — EarthQuaker Devices: https://www.earthquakerdevices.com/special-cranker
 2. EarthQuaker Special Cranker Overdrive Pedal Review - Premier Guitar: https://www.premierguitar.com/gear/reviews/earthquaker-special-cranker
 3. catalog/override source: https://www.effectsdatabase.com/model/earthquaker/specialcranker
 

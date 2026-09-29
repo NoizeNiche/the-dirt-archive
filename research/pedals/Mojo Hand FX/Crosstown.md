@@ -35,7 +35,7 @@ First up is the full range TONE control which allows you to tailor the Crosstown
 1. Mojo Hand FX Crosstown Fuzz - Reverb: https://reverb.com/p/mojo-hand-fx-crosstown
 2. Mojo Hand FX Crosstown — Fuzz Pedal | Equipboard: https://equipboard.com/items/mojo-hand-fx-crosstown
 3. Amazon.com: https://www.amazon.com/Crosstown-Mojo-Hand-FX/dp/B00XMUNTU8
-4. Mojo Hand FX Crosstown - Classic Germanium/Silicon Fuzz Pedal &ndash; Rock City Sound: https://rockcityusa.com/products/mojo-hand-fx-crosstown-classic-germanium-silicon-fuzz-pedal
+4. Mojo Hand FX Crosstown - Classic Germanium/Silicon Fuzz Pedal – Rock City Sound: https://rockcityusa.com/products/mojo-hand-fx-crosstown-classic-germanium-silicon-fuzz-pedal
 5. Guitar Pedal X - GPX Blog - Mojo Hand FX revives its Crosstown Hybrid 2-Transistor Fuzz - available in Classic and Rasta Editions: https://www.guitarpedalx.com/news/gpx-blog/mojo-hand-fx-revives-its-crosstown-hybrid-2-transistor-fuzz-available-in-classic-and-rasta-editions
 6. Crosstown by Mojo Hand Fx | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/Mojo-Hand-Fx/Crosstown/68982037/
 7. Mojo Hand FX Crosstown Dimensions, Specs & Details: https://www.stompboxgarden.com/gear/pedal/4986/mojo-hand-fx-crosstown

@@ -7,7 +7,6 @@
 - **Identity:** Greer Amps's Moonshot Germanium Pre.
 
 ## What this pedal is
-Moonshot Germanium Pre by Greer Amps | RockBoard | PedalPedia Skip to main content LOG IN EXPLORE Greer Amps Moonshot Germanium Pre LOG IN TO SUGGEST IMPROVEMENTS PREAMP Description The Greer Amps Moonshot is our take on a true classic circuit.
 
 ## Colorways
 - No specific factory colorway information was established in the verified evidence packet.

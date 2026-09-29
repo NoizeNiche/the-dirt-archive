@@ -27,7 +27,6 @@ JAM Pedals's Octaurus is cataloged as a fuzz pedal.
 - The archive records only the component information explicitly present in these sources.
 
 ## Sound
-30 30-Day Money-Back Guarantee 3 3-Year Thomann Warranty Available since April 2025 Item number 612643 Sales Unit 1 piece(s) Overdrive No Distortion No Fuzz Yes Metal No $ 229 The shipping costs are calculated on the checkout page.
 JAM Pedals Octaurus Analog Silicon Octave Fuzz - Dual Voicing & Clipping Handmade Greece
 
 ## Sources checked

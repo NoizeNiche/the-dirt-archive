@@ -27,12 +27,11 @@ As was the case during the Leqtique era, the 9/9 EVR is the flagship distortion 
 - **Exact part:** Unknown.
 
 ## Sound
-9/9 EVR &ndash; Leqtiqueshop Skip to content Submit Close search Leqtiqueshop Submit Search Log in Cart 9/9 EVR Regular price $210.00 Sale Default Title - Sold out Quantity Sold out 9/9 EVR Gallery The Leqtique 9/9, released in 2013, has been our brand's best-selling distortion model for many years.
 Even now, 12 years later, the only distortion pedals that use the four-stage depletion-type MOSFETs that make up the 9/9 solely as the distortion element are this pedal, the 10/10, and its variations (6/6, etc.).
 The technique of using a type of transistor called a FET as a substitute for a vacuum tube within an amplifier circuit is now widely used because it produces a significantly different circuit and sound from those that use an op-amp, which is the most common method of creating distortion effects.
 
 ## Sources checked
-1. 9/9 EVR &ndash; Leqtiqueshop: https://leqtique.ch/en/products/99evr-release
+1. 9/9 EVR – Leqtiqueshop: https://leqtique.ch/en/products/99evr-release
 2. Leqtique 9/9 EVR Distortion Boutique made in Japan - Reverb: https://reverb.com/item/102304597-leqtique-9-9-evr-distortion-boutique-made-in-japan
 
 ## Photo

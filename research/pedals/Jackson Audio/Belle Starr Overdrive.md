@@ -30,7 +30,7 @@ Jackson Audio's Belle Starr Overdrive is cataloged as an overdrive pedal.
 The verified evidence packet did not contain enough pedal-specific sonic description to make a more detailed sound summary without adding unsupported interpretation.
 
 ## Sources checked
-1. Belle Starr Overdrive &ndash; Jackson Audio: https://jackson.audio/products/bellestarr
+1. Belle Starr Overdrive – Jackson Audio: https://jackson.audio/products/bellestarr
 2. Jackson Audio Belle Starr Overdrive Pedal - Stainless Steel: https://www.sweetwater.com/store/detail/BelleStarrStl--jackson-audio-belle-starr-overdrive-pedal-stainless-steel
 3. Jackson Audio Belle Starr Overdrive w/ box | Reverb: https://reverb.com/item/94431253-jackson-audio-belle-starr-overdrive-w-box
 

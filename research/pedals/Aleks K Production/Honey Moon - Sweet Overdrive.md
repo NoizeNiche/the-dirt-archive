@@ -31,7 +31,7 @@ Aleks K Production's Honey Moon - Sweet Overdrive is cataloged as an overdrive p
 The verified evidence packet did not contain enough pedal-specific sonic description to make a more detailed sound summary without adding unsupported interpretation.
 
 ## Sources checked
-1. Honey Moon Sweet Overdrive V3 &mdash; Aleks K Production: https://www.alekskproduction.com/shop/p/honey-moon-sweet-overdrive-2
+1. Honey Moon Sweet Overdrive V3 — Aleks K Production: https://www.alekskproduction.com/shop/p/honey-moon-sweet-overdrive-2
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

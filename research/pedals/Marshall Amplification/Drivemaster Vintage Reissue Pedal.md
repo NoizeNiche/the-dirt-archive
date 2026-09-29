@@ -31,7 +31,7 @@ The Dirt Archive currently catalogs **Drivemaster Vintage Reissue Pedal** by **M
 
 ## Sources checked
 1. The Drivemaster pedal unleashes your guitar's true potential | Marshall.com: https://www.marshall.com/us/en/product/drivemaster-vintage-reissue-pedal?pid=1007077
-2. The Guv&rsquo;Nor, Drivemaster, Bluesbreaker and Shredmaster return as Marshall officially reissues its famous vintage stompbox range | MusicRadar: https://www.musicradar.com/news/marshall-vintage-reissue-pedals
+2. The Guv’Nor, Drivemaster, Bluesbreaker and Shredmaster return as Marshall officially reissues its famous vintage stompbox range | MusicRadar: https://www.musicradar.com/news/marshall-vintage-reissue-pedals
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

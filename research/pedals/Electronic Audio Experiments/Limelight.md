@@ -33,11 +33,11 @@ While loosely based in the “breaker” lineage, we made significant changes to
 An independent front-end boost rounds out the package, perfect for adding power to clean tones or pushing the overdrive side into heavy distortion.
 
 ## Sources checked
-1. EAE x Touche Amore Limelight &mdash; Electronic Audio Experiments: https://www.electronicaudioexperiments.com/pedals/limelight
+1. EAE x Touche Amore Limelight — Electronic Audio Experiments: https://www.electronicaudioexperiments.com/pedals/limelight
 2. Electronic Audio Experiments Limelight V2 — Overdrive Pedal: https://equipboard.com/items/electronic-audio-experiments-limelight-v2
 3. Electronic Audio Experiments x Touche Amore Limelight - Reverb: https://reverb.com/p/electronic-audio-experiments-touche-amore-limelight
-4. Electronic Audio Experiments Limelight V2 Dual Channel Overdrive Effec &ndash; Russo Music: https://www.russomusic.com/products/electronic-audio-experiments-limelight-v2-dual-overdrive-effect-pedal
-5. Electronic Audio Experiments Limelight Dual Overdrive Effects Pedal &ndash; Chuck Levin's Washington Music Center: https://chucklevins.com/products/electronic-audio-experiments-limelight-dual-overdrive-effects-pedal
+4. Electronic Audio Experiments Limelight V2 Dual Channel Overdrive Effec – Russo Music: https://www.russomusic.com/products/electronic-audio-experiments-limelight-v2-dual-overdrive-effect-pedal
+5. Electronic Audio Experiments Limelight Dual Overdrive Effects Pedal – Chuck Levin's Washington Music Center: https://chucklevins.com/products/electronic-audio-experiments-limelight-dual-overdrive-effects-pedal
 6. PDF Technical Manual - Umbrella Company: https://umbrella-company.jp/corporate/wp-content/uploads/2024/08/Electronic-Audio-Experiments-Limelight-manual-JP-fixed.pdf
 7. Electronic Audio Experiments Limelight - Dual Channel Overdrive | Effects Database: https://www.effectsdatabase.com/model/electronicaudioexperiments/limelight
 8. Electronic Audio Experiments Limelight V2 Overdrive | Delicious Audio: https://delicious-audio.com/electronic-audio-experiments-limelight-v2/

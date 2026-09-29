@@ -28,7 +28,6 @@ Circuits Components Effects 101 Effects and Chains Support Contact Policies How 
 - The archive records only the component information explicitly present in these sources.
 
 ## Sound
-Marc Price: $259 + shipping $259 $233.10 (10% off) 50% deposit $116.55 Quantity qty Add To Cart Ripping high gain oldschool fuzz Clips
 Manual The 2 transistors are piggybacked for better tone (lower noise than single transistors), giving this circuit 4 transistors total.
 The extra controls let you emulate different classic fuzz tones from the 60's and early 70's along with improvements for some of the issues those early fuzzes had (noise reduction, adjustable tone, and adjustable input resistance).
 

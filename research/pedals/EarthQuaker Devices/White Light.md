@@ -35,7 +35,7 @@ Think OD250 or Distortion+ without being overly derivative, a new voice to an ol
 We think you’ll find that it is much more dynamic, open and harmonically rich than these classic overdrives it shares its lineage with.
 
 ## Sources checked
-1. White Light Legacy Reissue &mdash; EarthQuaker Devices: https://www.earthquakerdevices.com/white-light-reissue
+1. White Light Legacy Reissue — EarthQuaker Devices: https://www.earthquakerdevices.com/white-light-reissue
 2. EarthQuaker Devices White Light Overdrive - Reverb: https://reverb.com/p/earthquaker-devices-white-light-overdrive
 3. EarthQuaker Devices White Light — Overdrive Pedal | Equipboard: https://equipboard.com/items/earthquaker-devices-white-light
 4. EarthQuaker Devices White Light Overdrive: https://www.soundlumepro.com/products/earthquaker-devices-white-light-overdrive/

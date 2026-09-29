@@ -30,7 +30,7 @@
 The verified evidence packet did not contain enough pedal-specific sonic description to make a more detailed sound summary without adding unsupported interpretation.
 
 ## Sources checked
-1. Forget and Not Slow Down LVL &ndash; 1981 Inventions: https://1981inventions.com/products/forget-lvl
+1. Forget and Not Slow Down LVL – 1981 Inventions: https://1981inventions.com/products/forget-lvl
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

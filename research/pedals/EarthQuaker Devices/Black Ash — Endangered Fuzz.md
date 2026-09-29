@@ -32,7 +32,7 @@ Controls Fuzz: Adjusts the amount of gain.
 Counterclockwise for less fuzz, clockwise for more fuzz.
 
 ## Sources checked
-1. Black Ash Endangered Fuzz &mdash; EarthQuaker Devices: https://www.earthquakerdevices.com/black-ash
+1. Black Ash Endangered Fuzz — EarthQuaker Devices: https://www.earthquakerdevices.com/black-ash
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

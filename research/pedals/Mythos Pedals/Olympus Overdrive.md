@@ -33,7 +33,7 @@ Known by many as a “Klon-Killer” and for good reason, it’s a powerful yet 
 The Presence and Gain controls work together to achieve anything from smooth lead tones to bright and chimey rhythm sounds.
 
 ## Sources checked
-1. Olympus Overdrive &ndash; Mythos Pedals: https://mythospedals.com/products/olympus-overdrive
+1. Olympus Overdrive – Mythos Pedals: https://mythospedals.com/products/olympus-overdrive
 2. Mythos Pedals Olympus Overdrive Pedal | Equipboard: https://equipboard.com/items/mythos-pedals-olympus
 3. Mythos Pedals Olympus Overdrive - Reverb: https://reverb.com/p/mythos-pedals-olympus-overdrive
 4. Mythos Pedals Olympus Overdrive Pedal: https://spicersmusic.com/products/olympus-overdrive

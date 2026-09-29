@@ -33,7 +33,7 @@ Contemporary exact-model records identify it as an octave-fuzz design developed 
 The model combines a fuzz voice with an added octave function, giving it a more aggressive upper-register texture than a conventional fuzz alone.
 
 ## Sources checked
-1. Stomp Under Foot La Scatola Nera Octave-Fuzz Pedal &ndash; Chicago Music Exchange: https://www.chicagomusicexchange.com/products/stomp-under-foot-la-scatola-nera-octave-fuzz-pedal-1124057
+1. Stomp Under Foot La Scatola Nera Octave-Fuzz Pedal – Chicago Music Exchange: https://www.chicagomusicexchange.com/products/stomp-under-foot-la-scatola-nera-octave-fuzz-pedal-1124057
 2. catalog/override source: https://reverb.com/item/31542492-stomp-under-foot-la-scatola-nera-octave-fuzz-pedal
 
 ## Photo

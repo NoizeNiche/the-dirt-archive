@@ -88,7 +88,7 @@ Following the path of the famed British tube amplifier our circuit offers authen
 From the big bold high-headroom clean sounds to the face-melting crunchy tones.
 
 ### Sources checked in this pass
-1. Hi-Power &mdash; Crazy Tube Circuits: https://crazytubecircuits.com/hi-power
+1. Hi-Power — Crazy Tube Circuits: https://crazytubecircuits.com/hi-power
 2. Crazy Tube Circuits Hi Power review | Guitar World: https://www.guitarworld.com/reviews/crazy-tube-circuits-hi-power
 3. catalog/override source: https://www.thomannmusic.com/crazy_tube_circuits_hi_power.htm
 4. catalog/override source: https://www.musicstore.com/en_US/USD/Crazy-Tube-Circuits-HI-Power/art-GIT0064281-000

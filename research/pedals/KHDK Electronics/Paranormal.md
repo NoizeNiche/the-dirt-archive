@@ -32,7 +32,7 @@ The verified evidence packet did not contain enough pedal-specific sonic descrip
 ## Sources checked
 1. KHDK Electronics Paranormal II Limited Edition Gary Holt Signature ...: https://equipboard.com/items/khdk-electronics-paranormal-ii-limited-edition-gary-holt-signature-parametric-eq-overdrive
 2. Paranormal II | KHDK Electronics: https://www.khdkelectronics.com/products/detail/paranormal-ii/
-3. KHDK Electronics The Gary Holt &quot;Paranormal&quot; Parametric EQ Overdrive: https://www.effectsdatabase.com/model/khdk/paranormal
+3. KHDK Electronics The Gary Holt "Paranormal" Parametric EQ Overdrive: https://www.effectsdatabase.com/model/khdk/paranormal
 4. KHDK Electronics Paranormal II Limited Edition Gary Holt ... - Reverb: https://reverb.com/p/khdk-electronics-paranormal-ii-limited-edition-gary-holt-signature-parametric-eq-slash-overdrive
 
 ## Photo

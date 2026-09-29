@@ -32,7 +32,7 @@ The empress fuzz is true bypass and has gain control, two bands of EQ and output
 Classic Fuzz - Offers lots of gain with smooth, rich sustain.
 
 ## Sources checked
-1. Fuzz &ndash; Empress Effects Inc.: https://empresseffects.com/products/fuzz
+1. Fuzz – Empress Effects Inc.: https://empresseffects.com/products/fuzz
 2. Empress Effects Fuzz Pedal - Reverb: https://reverb.com/item/67134843-empress-effects-fuzz-pedal
 3. Empress Effects Analog Fuzz Guitar Effects Pedal | Guitar Center: https://www.guitarcenter.com/Empress-Effects/Analog-Fuzz-Guitar-Effects-Pedal-1378221680911.gc
 4. Empress Effects Fuzz Pedal - totalmusicusa.com: https://www.totalmusicusa.com/product/empress-effects-fuzz-pedal/

@@ -30,7 +30,6 @@ The GUNSHOT was designed to be the overdrive to beat all others.
 - The archive records only the component information explicitly present in these sources.
 
 ## Sound
-Overdrive $237.00 $237.00 $0.00 Unit price / per Shipping calculated at checkout.
 Overdrive Increase quantity for GUNSHOT
 Overdrive Add to cart Description The all new look GUNSHOT (MKIIB)!
 

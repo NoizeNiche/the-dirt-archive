@@ -51,7 +51,6 @@ Browne Amplification's The Protein v4 is cataloged as an overdrive pedal.
 - The evidence references: V2, V4, v4.
 
 ### Verified sound evidence
-escape }}\" class=\"boost-sd__modal\" id=\"boost-sd__modal-quickview\" data-product-id='{{ productData.id }}' data-product='{{ productData
 The Protein Dual Overdrive V4 is a collaboration between David Brown and guitarist/producer Adam Sniegowski.
 After years on the road and in the studio using unpredictable backline amps, Adam approached Dave with a goal: create a dual overdrive that would sound great no matter what it was plugged into.
 

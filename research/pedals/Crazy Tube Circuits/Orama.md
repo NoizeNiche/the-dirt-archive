@@ -94,7 +94,7 @@ Whether used as two separate voices or as one unified wall of sound, it delivers
 It delivers everything from bluesy breakup and Classic Rock crunch to Britpop sizzle.
 
 ### Sources checked in this pass
-1. Orama &mdash; Crazy Tube Circuits: https://crazytubecircuits.com/orama
+1. Orama — Crazy Tube Circuits: https://crazytubecircuits.com/orama
 2. catalog/override source: https://www.musicstore.com/en_US/USD/Crazy-Tube-Circuits-Orama/art-GIT0064405-000
 3. Crazy Tube Circuits Orama: Analog Dual Drive: https://www.gearnews.com/crazy-tube-circuits-orama-analog-dual-drive/
 4. https://cdn.gearnews.com/wp-content/uploads/2025/12/Crazy-Tube-Circuits-Orama-Analog-Dual-Drive.jpg: https://cdn.gearnews.com/wp-content/uploads/2025/12/Crazy-Tube-Circuits-Orama-Analog-Dual-Drive.jpg

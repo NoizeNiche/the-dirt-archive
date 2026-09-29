@@ -23,7 +23,6 @@ This pass adds only claims supported by the newly admitted exact-model evidence.
 ### Verified description
 
 ### Verified sound evidence
-Close Close Caline CP-501S Sathanas Distortion 1 review SALE Regular price R 1,250.00 2 available Shipping calculated at checkout.
 Used to boost an amp into distortion, this pedal is ideal for lead lines and solos, or with the Distortion control pushed and going into a clean platform, the Sathanas emulates a cranked 100W stack that could blow down walls!
 
 ### Sources checked in this pass

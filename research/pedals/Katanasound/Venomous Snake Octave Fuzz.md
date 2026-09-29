@@ -7,7 +7,6 @@
 - **Identity:** Katanasound's Venomous Snake Octave Fuzz.
 
 ## What this pedal is
-Katanasound Venomous Snake Octave Fuzz Pedal &mdash; Andy Babiuk&#39;s Fab Gear Skip to Content Open Menu Close Menu Home What's New Guitars Shop All Sale Items Vintage and Used Guitars Limited and Rare Guitars Beatle Guitars and Gear C.F.
 
 ## Colorways
 - No specific factory colorway information was established in the verified evidence packet.
@@ -27,12 +26,11 @@ Katanasound Venomous Snake Octave Fuzz Pedal &mdash; Andy Babiuk&#39;s Fab Gear 
 - **Exact part:** Unknown.
 
 ## Sound
-Katanasound Venomous Snake Octave Fuzz Pedal &mdash; Andy Babiuk&#39;s Fab Gear Skip to Content Open Menu Close Menu Home What's New Guitars Shop All Sale Items Vintage and Used Guitars Limited and Rare Guitars Beatle Guitars and Gear C.F.
 
 ## Sources checked
 1. Katanasound Venomous Snake Octave Fuzz Pedal | Reverb: https://reverb.com/item/3283086-katanasound-venomous-snake-octave-fuzz-pedal
 2. Katanasound Venomous Snake Octave Fuzz Pedal: https://www.stringanddrum.com/product/katanasound-venomous-snake-octave-fuzz-pedal267972/
-3. Katanasound Venomous Snake Octave Fuzz Pedal &mdash; Andy Babiuk&#39;s Fab Gear: https://www.andybabiuksfabgear.com/whats-new-aiZQV/p/katanasound-venomous-snake-octave-fuzz-pedal
+3. Katanasound Venomous Snake Octave Fuzz Pedal — Andy Babiuk's Fab Gear: https://www.andybabiuksfabgear.com/whats-new-aiZQV/p/katanasound-venomous-snake-octave-fuzz-pedal
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

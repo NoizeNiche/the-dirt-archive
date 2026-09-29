@@ -32,7 +32,7 @@ The Terminal is our take on the elusive vintage JAX fuzz.
 These units are increasingly hard to come by, and are better known by most of us as the Shin-Ei Companion Fuzz.
 
 ## Sources checked
-1. Terminal &mdash; EarthQuaker Devices: https://www.earthquakerdevices.com/terminal
+1. Terminal — EarthQuaker Devices: https://www.earthquakerdevices.com/terminal
 2. catalog/override source: https://www.effectsdatabase.com/model/earthquaker/terminal
 
 ## Photo

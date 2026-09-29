@@ -7,7 +7,6 @@
 - **Identity:** Amptweaker's Bass BluesFuzz.
 
 ## What this pedal is
-PedalPedia Skip to main content LOG IN EXPLORE Amptweaker BluesFuzz Jr LOG IN TO SUGGEST IMPROVEMENTS FUZZ BOOSTER Description The BluesFuzz Jr fuzz pedal is based on the BluesFuzz Limited, a sought-after 49 piece model that used a low gain germanium transistor with boost, mid EQ, and Tight attack switch.
 
 ## Colorways
 - No specific factory colorway information was established in the verified evidence packet.
@@ -29,8 +28,7 @@ PedalPedia Skip to main content LOG IN EXPLORE Amptweaker BluesFuzz Jr LOG IN TO
 
 ## Sound
 – Ed Sheeran unter Druck Magazin / Features 35 Jahre Nirvana „Nevermind“: So entstand der legendäre Sound von Kurt
-PedalPedia Skip to main content LOG IN EXPLORE Amptweaker BluesFuzz Jr LOG IN TO SUGGEST IMPROVEMENTS FUZZ BOOSTER Description The BluesFuzz Jr fuzz pedal is based on the BluesFuzz Limited, a sought-after 49 piece model that used a low gain germanium transistor with boost, mid EQ, and Tight attack switch.
-It shares most of the tone-tweaking features available on its larger counterpart, while eliminating some features most players don&#x27;t need in order to shrink down the size and weight.
+It shares most of the tone-tweaking features available on its larger counterpart, while eliminating some features most players don't need in order to shrink down the size and weight.
 
 ## Sources checked
 1. Amptweaker Bass BluesFuzz JR Test - Bonedo: https://www.bonedo.de/artikel/amptweaker-bass-bluesfuzz-jr-test/

@@ -34,11 +34,11 @@ Changing Lanes At its core the Argo Boost Deluxe is the same topology as the Arg
 This allows you to have a pair of gain stages that are perfect in front of a drive pedal or drive amp.
 
 ## Sources checked
-1. Argo Boost Deluxe &ndash; Mythos Pedals: https://mythospedals.com/products/argo-boost-deluxe
+1. Argo Boost Deluxe – Mythos Pedals: https://mythospedals.com/products/argo-boost-deluxe
 2. Mythos Pedals - Argo Boost Deluxe | Mass Street Music: https://massstreetmusic.com/products/mythos-pedals-argo-boost-deluxe
 3. Mythos Pedals Argo Boost Deluxe - What To Know & Where To Buy: https://equipboard.com/items/mythos-pedals-argo-boost-deluxe
 4. Mythos Pedals - Argo Boost Deluxe - harptoneo.com: https://www.harptoneo.com/product/mythos-pedals-argo-boost-deluxe/
-5. Mythos Pedals Argo Boost Deluxe &ndash; Coast Sonic: https://coastsonic.com/products/mythos-pedals-argo-boost-deluxe
+5. Mythos Pedals Argo Boost Deluxe – Coast Sonic: https://coastsonic.com/products/mythos-pedals-argo-boost-deluxe
 6. Mythos Pedals Argo Boost Deluxe Dimensions, Specs & Details: https://www.stompboxgarden.com/gear/pedal/4196/mythos-pedals-argo-boost-deluxe
 
 ## Photo

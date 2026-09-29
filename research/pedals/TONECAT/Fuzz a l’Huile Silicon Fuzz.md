@@ -32,7 +32,7 @@ Built around a classic silicon fuzz face–style topology, this handmade fuzz pe
 🚚 Free Shipping Australia-wide 🇦🇺 Hand-built in Melbourne ♾️ Limited-Lifetime Warranty Pairs well with your tone.
 
 ## Sources checked
-1. Fuzz à l’Huile | Boutique Silicon Fuzz Face Style Pedal ($99 Fuzz Pedal + Maurice the Mackerel) &mdash; TONECAT: https://www.tonecat.life/shop/p/tonecat-fuzz-a-lhuile-silicon-fuzz-vintage-distortion-fuzz
+1. Fuzz à l’Huile | Boutique Silicon Fuzz Face Style Pedal ($99 Fuzz Pedal + Maurice the Mackerel) — TONECAT: https://www.tonecat.life/shop/p/tonecat-fuzz-a-lhuile-silicon-fuzz-vintage-distortion-fuzz
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

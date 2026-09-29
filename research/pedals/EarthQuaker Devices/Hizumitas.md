@@ -34,7 +34,7 @@ Sustain: More distortion and sustain clockwise; less counterclockwise.
 
 ## Sources checked
 1. Hizumitas EarthQuaker Devices Fuzz Sustainar Pedal User Manual: https://manuals.plus/hizumitas/earthquaker-devices-fuzz-sustainar-pedal-manual
-2. Hizumitas Fuzz Sustainar &mdash; EarthQuaker Devices: https://www.earthquakerdevices.com/hizumitas
+2. Hizumitas Fuzz Sustainar — EarthQuaker Devices: https://www.earthquakerdevices.com/hizumitas
 3. Hizumitas Earthquaker Devices Fuzz Sustainar Pedal User Manual: https://manualsee.com/blog/WizUM0jrd.html
 4. Hizumitas EarthQuaker Devices Fuzz Sustainar Pedal User Manual: https://device.report/manual/4400535
 5. EarthQuaker Devices Hizumitas — Fuzz Pedal | Equipboard: https://equipboard.com/items/earthquaker-devices-hizumitas

@@ -35,7 +35,7 @@ A rich and full sound with natural compression without any high-end loss and a t
 2. Vemuram Karen Overdrive - Reverb: https://reverb.com/item/971288-vemuram-karen-overdrive
 3. Vemuram Karen – StompLab: https://stomplab.net/projects/vemuram-karen
 4. Karen by Vemuram | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/Vemuram/Karen/68985997/
-5. Vemuram Karen &ndash; Tonefest Guitar Gallery: https://www.tonefestguitargallery.com/products/vemuram-karen
+5. Vemuram Karen – Tonefest Guitar Gallery: https://www.tonefestguitargallery.com/products/vemuram-karen
 6. 「VEMURAM Karen」ディストーションエフェクターをレビュー | 魔法の箱研究所 – エフェクターレビューサイト: https://www.efmaniac.com/vemuram-karen/
 
 ## Photo

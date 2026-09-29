@@ -34,7 +34,7 @@ Higher voltage levels result in more headroom.
 
 ## Sources checked
 1. Xotic Effects Bass RC Booster V2 - What To Know & Where To Buy: https://equipboard.com/items/xotic-effects-bass-rc-booster-v2
-2. Xotic Effects Bass RC Booster V2 &ndash; Coast Sonic: https://coastsonic.com/products/xotic-effects-bass-rc-booster-v2
+2. Xotic Effects Bass RC Booster V2 – Coast Sonic: https://coastsonic.com/products/xotic-effects-bass-rc-booster-v2
 3. Rockster Music - XOTIC Effects Bass RC Booster V2 - Bass Booster - Xotic - Bass Guitars - Bass Effects and Power Supplies - Inspirace vaší hudbou: https://www.rockster.us/Bass-Guitars/Bass-Effects-and-Power-Supplies/XOTIC-Effects-Bass-RC-Booster-V2-Bass-Booster
 4. New Xotic Effects Bass RC Booster V2 Bass Guitar Effects Pedal: https://www.ebay.com/itm/267675436547
 5. Xotic Effects Bass RC Booster V2 - creativeaudioshop.com: https://www.creativeaudioshop.com/product/xotic-effects-bass-rc-booster-v2/

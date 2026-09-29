@@ -7,7 +7,6 @@
 - **Identity:** Vemuram's Butter Machine.
 
 ## What this pedal is
-No results found View all results 0 Your cart is empty Continue shopping Clear Close Zoom Zoom Vemuram Butter Machine SKU: butter Condition Condition Guide We grade items based on Reverb's grading system: Mint 'Open box' or the cleanest examples and include original case candy, etc.
 
 ## Colorways
 - No specific factory colorway information was established in the verified evidence packet.
@@ -27,7 +26,6 @@ No results found View all results 0 Your cart is empty Continue shopping Clear C
 - **Exact part:** Unknown.
 
 ## Sound
-Vemuram Butter Machine Skip to content NO SALES TAX OUTSIDE MN ◆ FREE PRO SETUPS 2 YEAR WARRANTY ◆ FREE SHIPPING* Menu Search New Arrivals Guitars+ Electrics Anderson Danelectro ESP / LTD Eastman Epiphone Fender G&L Gibson Gretsch Ibanez Music Man Novo Paul Reed Smith Rickenbacker Schecter Suhr All Electrics Stevie's Picks Acoustics Boucher Bourgeois Eastman Gibson Martin Larrivée Santa Cruz Taylor All Acoustics Basses Fender Hamer Lakland Music Man Reverend Schecter All Bass Guitars Folk Banjos Mandolins Resonator Guitars Ukuleles All Folk Instruments Shop by Style Flying V High-End Left Handed Les Paul SG Stratocaster Telecaster Vintage Used Vintage Amps Effects Shop by Brand Danelectro Fulltone Jam Pedals Keeley Koch Mad Professor MXR Peterson Sabbadius Seymour Duncan T-Rex Vemuram Vox All Effects Shop by Style Used Overdrive Comp/Boost Delay Distortion Modulation Multi-Effects All Effects Accessories Repairs Media About Us Contact Stevie&#39;s Guitars - Guitars.net Search Login Cart 0 items 0 New Arrivals Guitars+ Vintage Amps Effects Accessories Repairs Media About Us Contact Account Guitars+ Electrics Acoustics Basses Folk Shop by Style Effects Shop by Brand Shop by Style Electrics Anderson Danelectro ESP / LTD Eastman Epiphone Fender G&L Gibson Gretsch Ibanez Music Man Novo Paul Reed Smith Rickenbacker Schecter Suhr All Electrics Stevie's Picks Acoustics Boucher Bourgeois Eastman Gibson Martin Larrivée Santa Cruz Taylor All Acoustics Basses Fender Hamer Lakland Music Man Reverend Schecter All Bass Guitars Folk Banjos Mandolins Resonator Guitars Ukuleles All Folk Instruments Shop by Style Flying V High-End Left Handed Les Paul SG Stratocaster Telecaster Vintage Used Shop by Brand Danelectro Fulltone Jam Pedals Keeley Koch Mad Professor MXR Peterson Sabbadius Seymour Duncan T-Rex Vemuram Vox All Effects Shop by Style Used Overdrive Comp/Boost Delay Distortion Modulation Multi-Effects All Effects Searching...
 These have a great full sound without becoming tubby, and flexible tone controls with the mix of the Tone knob with the Low Mid and Sparkle trim-pots.
 Plenty of gain on tap and Landau-esque whammy bar manuvers fall right out of your hands.
 

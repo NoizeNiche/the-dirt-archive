@@ -27,7 +27,6 @@ Whether you are playing sold out shows or rocking out by yourself – the Plexi-
 - The archive records only the component information explicitly present in these sources.
 
 ## Sound
-Top |' data-navmenu="off" data-hashurl="off" data-menuSlider="off" data-continue-autoplay="off" data-outside-nav="off" data-autoplay="off" > 4 5 Based on the classic Wampler Pedal “Plexi-Drive”, the Plexi-Drive Deluxe builds on the foundation of the original and gives you considerably more control to shape your tone.
 With a 3 band active EQ and additional brightness control, the Plexi-Drive Deluxe takes a huge step forward into the modern era of pedals.
 Complete with the perfectly voiced pregain booster, you can achieve almost any Plexi tone from virtually any amp.
 

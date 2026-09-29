@@ -28,12 +28,11 @@ What Mythos Pedals say about the Mjolnir Overdrive The Mjolnir Overdrive The Mjo
 - The archive records only the component information explicitly present in these sources.
 
 ## Sound
-The Mjolnir Overdrive View in your space Mjolnir Overdrive Title Default Title Default Title - $199.00 USD Sale price Regular price $199.00 ( / ) Quantity − + loading...
 The Mjolnir has a bit less gain, less mid honk, and more low end push compared to other "klones".
 This gives the drive a slightly smoother sound as the op-amps clip and help push the hard clipped diodes.
 
 ## Sources checked
-1. Mjolnir Overdrive &ndash; Mythos Pedals: https://mythospedals.com/products/mjolnir
+1. Mjolnir Overdrive – Mythos Pedals: https://mythospedals.com/products/mjolnir
 2. Mythos Pedals Mjolnir Overdrive - Reverb: https://reverb.com/p/mythos-pedals-mjolnir-overdrive
 3. Mythos Pedals Mjolnir Overdrive Pedal | Equipboard: https://equipboard.com/items/mythos-pedals-mjolnir
 4. Amazon.com: https://www.amazon.com/Mythos-Pedals-MYTH-MJOLNIR-Mjolnir-Overdrive/dp/B0BMSH6ZML

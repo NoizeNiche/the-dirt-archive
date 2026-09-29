@@ -33,7 +33,7 @@ Maybe set up one side as a fake PLL bass clobbering its way through an overdrive
 side MORE : Input gain into the unit.
 
 ## Sources checked
-1. MAYBE &ndash; Mask Audio Electronics: https://maskaudioelectronics.com/products/maybe
+1. MAYBE – Mask Audio Electronics: https://maskaudioelectronics.com/products/maybe
 2. Mask Audio Electronics MAYBE - Shop: https://shop.app/products/7135614271665/maybe
 3. Mask Audio Electronics MAYBE? | Axe... And You Shall Receive: https://www.axeandyoushallreceive.com/product/mask-audio-electronics-maybe
 4. Mask Audio Electronics MAYBE? - Martin Sunset - musicdreamshop.com: https://www.musicdreamshop.com/product/mask-audio-electronics-maybe-martin-sunset/

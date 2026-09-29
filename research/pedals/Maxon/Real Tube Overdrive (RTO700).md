@@ -30,7 +30,7 @@ Maxon's Real Tube Overdrive (RTO700) is cataloged as a distortion / overdrive pe
 REAL TUBE OVERDRIVE (RTO700) – Godlyke, Inc.
 
 ## Sources checked
-1. REAL TUBE OVERDRIVE (RTO700) &ndash; Godlyke, Inc.: https://maxonfx.com/products/real-tube-overdrive-rto700
+1. REAL TUBE OVERDRIVE (RTO700) – Godlyke, Inc.: https://maxonfx.com/products/real-tube-overdrive-rto700
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

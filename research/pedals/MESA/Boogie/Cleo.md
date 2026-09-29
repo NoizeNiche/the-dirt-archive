@@ -33,10 +33,10 @@ Cleo™ commands the lower end of the gain scale anchoring Blues, Roots, Indie R
 With sweet, open top end clarity and not too much saturation, it allows you to craft anything from a subtle boost up through urgent mid gain drive to harmonically-rich overdrive, all in the spirit of Tradition.
 
 ## Sources checked
-1. Mesa/Boogie Cleo &ndash; Gibson: https://www.gibson.com/products/mesa-boogie-cleo
+1. Mesa/Boogie Cleo – Gibson: https://www.gibson.com/products/mesa-boogie-cleo
 2. Mesa/Boogie Cleo Transparent Boost / Overdrive Pedal: https://www.sweetwater.com/store/detail/Cleo--mesa-boogie-cleo-transparent-boost-overdrive-pedal
 3. Mesa/Boogie Cleo — Overdrive Pedal | Equipboard: https://equipboard.com/items/mesa-boogie-cleo
-4. Mesa/Boogie Cleo &ndash; Lidgett Music: https://www.lidgettmusic.com/products/mesaboogie-cleo
+4. Mesa/Boogie Cleo – Lidgett Music: https://www.lidgettmusic.com/products/mesaboogie-cleo
 5. Mesa Boogie CLEO Overdrive Pedal | MESA/Boogie®: https://legacy.mesaboogie.com/pedals--related/drive-pedals/cleo.html
 6. Mesa/Boogie Cleo, Dynaplex and Gold Mine Review | GuitarPlayer: https://www.guitarplayer.com/reviews/mesaboogie-cleo-dynaplex-and-gold-mine-review
 7. Mesa/Boogie Cleo Transparent Boost / Overdrive Pedal Pedal Settings: https://www.guitarchalk.com/mesa-boogie-cleo-transparent-boost-overdrive-pedal-settings/

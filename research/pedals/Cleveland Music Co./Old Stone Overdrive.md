@@ -47,11 +47,10 @@ This provides more volume and bite, which transforms the Old Stone into a beastl
 
 ### Verified sound evidence
 Old Stone Overdrive – Cleveland Music Co.
-Quantity Quantity ( 0 in cart) Decrease quantity for Old Stone Overdrive Increase quantity for Old Stone Overdrive Sold out Couldn't load pickup availability Refresh Pre-assembled kit: Please allow 5–10 business days for assembly before shipment.
 The Old Stone Overdrive updates and supercharges the notorious green, midrange-humped stomp box that Stevie Ray helped make legendary.
 
 ### Sources checked in this pass
-1. Old Stone Overdrive &ndash; Cleveland Music Co.: https://clevelandmusicco.com/products/old-stone-overdrive
+1. Old Stone Overdrive – Cleveland Music Co.: https://clevelandmusicco.com/products/old-stone-overdrive
 2. Used CLEVELAND MUSIC CO. OLD STONE OVERDRIVE Overdrive Pedal: https://musicgoround.com/locations/north-olmsted-oh/product/S000015292/CLEVELAND-MUSIC-CO-OLD-STONE-OVERDRIVE
 3. Cleveland Music Co Old Stone Overdrive - musicdreamshop.com: https://www.musicdreamshop.com/product/cleveland-music-co-old-stone-overdrive/
 4. Cleveland Music Co Old Stone Overdrive: https://www.guitarriot.com/shop/Pedals/p/Cleveland-Music-Co-Old-Stone-Overdrive.htm

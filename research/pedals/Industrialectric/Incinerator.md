@@ -64,5 +64,4 @@ This pass replaces the mistaken Death By Audio attribution with the verified **I
 
 ## Photo
 - **Archive status:** **Exact Photo Pending**
-- A previously archived image existed under the discarded Death By Audio/Sonic Incinerator identity. It has **not** been promoted to this record because its exact-model provenance has not yet been revalidated. 
-
+- A previously archived image existed under the discarded Death By Audio/Sonic Incinerator identity. It has **not** been promoted to this record because its exact-model provenance has not yet been revalidated.

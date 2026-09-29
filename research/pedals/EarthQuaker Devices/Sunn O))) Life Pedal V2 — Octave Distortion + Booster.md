@@ -33,7 +33,7 @@ The results are astounding: there is breadth and luminosity of colour, vast soni
 The Life Pedal is designed to represent the core front end chain used in those sessions, to drive the tubes of the band’s multiple vintage Sunn O))) Model T amplifiers (or take your fancy) into overload ecstasy.
 
 ## Sources checked
-1. Sunn O))) Life Pedal Octave Distortion + Booster &mdash; EarthQuaker Devices: https://www.earthquakerdevices.com/life-pedal-v2
+1. Sunn O))) Life Pedal Octave Distortion + Booster — EarthQuaker Devices: https://www.earthquakerdevices.com/life-pedal-v2
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

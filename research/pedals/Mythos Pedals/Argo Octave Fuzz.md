@@ -32,7 +32,7 @@ This Octave Up Fuzz has a very familiar tone to all the classic records we know 
 The Argo is great as a stand alone fuzz box but if you utilize the blend feature you can combine it with other gain pedals to achieve sounds not normally found in a solitary unit.
 
 ## Sources checked
-1. Argo Octave Fuzz &ndash; Mythos Pedals: https://mythospedals.com/products/argo-octave-fuzz
+1. Argo Octave Fuzz – Mythos Pedals: https://mythospedals.com/products/argo-octave-fuzz
 2. Mythos Pedals Argo Octave Fuzz - Reverb: https://reverb.com/p/mythos-pedals-argo-octave-fuzz
 3. Mythos Pedals Argo Octave Fuzz Pedal | Equipboard: https://equipboard.com/items/mythos-pedals-argo-octave-fuzz
 4. Mythos Pedals Argo Octave Fuzz - American Musical Supply: https://www.americanmusical.com/p/mythos-pedals-argo-octave-fuzz

@@ -29,11 +29,10 @@ Keeley Electronics's Mk3 Driver — Andy Timmons Full Range Overdrive is catalog
 
 ## Sound
 Keeley Electronics - MK3 Driver - Andy Timmons Full Range Overdrive Menu Your Cart Menu Home Products PEDALBOARDS CADEN SERIES 2 HEXA FLATBOARD SERIES 4 KIRK SERIES 3 <a href="https://gcrockboard.com/pe
-escape }}\" class=\"boost-sd__modal\" id=\"boost-sd__modal-quickview\" data-product-id='{{ productData.id }}' data-product='{{ productData
 
 ## Sources checked
 1. Keeley Electronics - MK3 Driver - Andy Timmons Full Range Overdrive: https://gcrockboard.com/keeley-electronics-mk3-driver-andy-timmons-full-range-overdrive
-2. Keeley Electronics Mk3 Driver - Andy Timmons Full Range Overdrive Effe &ndash; Russo Music: https://www.russomusic.com/products/keeley-electronics-mk3-driver-andy-timmons-full-range-overdrive-effect-pedal
+2. Keeley Electronics Mk3 Driver - Andy Timmons Full Range Overdrive Effe – Russo Music: https://www.russomusic.com/products/keeley-electronics-mk3-driver-andy-timmons-full-range-overdrive-effect-pedal
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

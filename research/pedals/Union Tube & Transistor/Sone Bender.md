@@ -7,7 +7,7 @@
 - **Identity:** Union Tube & Transistor's Sone Bender.
 
 ## What this pedal is
-Sone Bender &mdash; Union Tube Transistor Welcome Shop Dealers Buzz Contact Welcome Shop Dealers Buzz Contact Union Tube Transistor is based in East Vancouver, BC Canada.
+Sone Bender — Union Tube Transistor Welcome Shop Dealers Buzz Contact Welcome Shop Dealers Buzz Contact Union Tube Transistor is based in East Vancouver, BC Canada.
 
 ## Colorways
 - No specific factory colorway information was established in the verified evidence packet.
@@ -28,11 +28,11 @@ Sone Bender &mdash; Union Tube Transistor Welcome Shop Dealers Buzz Contact Welc
 
 ## Sound
 Our pursuit of great tone is its own reward.
-&larr; Back to Shop Sone Bender Sone Bender $650.00 The Sone Bender is a germanium fuzz that borrows from the 60's classics but with updated usability.
+← Back to Shop Sone Bender Sone Bender $650.00 The Sone Bender is a germanium fuzz that borrows from the 60's classics but with updated usability.
 We wanted a fuzz that took from the gain of a Tone Bender but the ability to clean up like a Fuzz Face.
 
 ## Sources checked
-1. Sone Bender &mdash; Union Tube Transistor: https://www.uniontone.com/shop/sone-bender
+1. Sone Bender — Union Tube Transistor: https://www.uniontone.com/shop/sone-bender
 2. Union Tube Transistor Sone Bender - What To Know Where To Buy: https://equipboard.com/items/union-tube-transistor-sone-bender
 3. Union Tube Transistor Sone Bender - Effects Database: https://www.effectsdatabase.com/model/uniontubetransistor/sonebender
 4. Union Tube Transistor Sone Bender Fuzz - Reverb: https://reverb.com/p/union-tube-and-transistor-sone-bender-fuzz

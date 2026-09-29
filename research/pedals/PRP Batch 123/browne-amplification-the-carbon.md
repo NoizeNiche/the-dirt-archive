@@ -41,13 +41,11 @@ Simple in design and avoiding the complicated options that can be found in other
 
 ### Verified color/finish evidence
 - The Carbon is the stand alone Blue Side of the Protein Pedal.
-- <\/p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Why Gritador?
 
 ### Verified version references
 - The evidence references: V2.
 
 ### Verified sound evidence
-<\/p><p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">This is Dave's favorite version of his favorite overdrive.
 
 ### Sources checked in this pass
 1. The Carbon — Browne Amplification: https://browneamps.com/store/p/the-carbon

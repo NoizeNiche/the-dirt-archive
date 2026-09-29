@@ -47,5 +47,5 @@ The original Double Decker is documented as a **two-channel** overdrive/preampli
 Historical retailer documentation describes the channels as covering edge-of-breakup through higher-gain British lead sounds and supports use either into an amplifier or as a recording front end.
 
 ### Sources checked in this pass
-1. Gurus 1959 Double Decker - A Pedalboard Essential &ndash; Soundgas: https://soundgas.com/blogs/blog/gurus-1959-double-decker-a-pedalboard-essential
+1. Gurus 1959 Double Decker - A Pedalboard Essential – Soundgas: https://soundgas.com/blogs/blog/gurus-1959-double-decker-a-pedalboard-essential
 2. TRIPLE DECKER - Cicognani Engineering: https://www.cicognani.eu/triple-decker/

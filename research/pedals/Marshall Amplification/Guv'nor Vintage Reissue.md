@@ -31,7 +31,7 @@ The Dirt Archive currently catalogs **Guv'nor Vintage Reissue** by **Marshall Am
 
 ## Sources checked
 1. The Guv'nor pedal is ideal for smooth overdriven tones | Marshall.com: https://www.marshall.com/us/en/product/guvnor-vintage-reissue-pedal?pid=1007075
-2. The Guv&rsquo;Nor, Drivemaster, Bluesbreaker and Shredmaster return as Marshall officially reissues its famous vintage stompbox range | MusicRadar: https://www.musicradar.com/news/marshall-vintage-reissue-pedals
+2. The Guv’Nor, Drivemaster, Bluesbreaker and Shredmaster return as Marshall officially reissues its famous vintage stompbox range | MusicRadar: https://www.musicradar.com/news/marshall-vintage-reissue-pedals
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

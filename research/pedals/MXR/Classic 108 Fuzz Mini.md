@@ -36,7 +36,7 @@ This Classic 108 Fuzz also has the same no-nonsense control interface—just cra
 2. MXR M296 Classic 108 Fuzz Mini Pedal | Sweetwater: https://www.sweetwater.com/store/detail/M296--mxr-m296-classic-108-fuzz-mini-pedal
 3. Amazon.com: MXR® Classic 108 Fuzz Mini: https://www.amazon.com/clp/B079G2MSSQ
 4. MXR Classic 108 Fuzz Mini Review - SixStringSensei: https://sixstringsensei.com/1813/mxr-classic-108-fuzz-mini-review/
-5. MXR Classic 108 Fuzz Mini &ndash; Empire Music: https://empiremusic.com/products/mxr-classic-108-fuzz-mini
+5. MXR Classic 108 Fuzz Mini – Empire Music: https://empiremusic.com/products/mxr-classic-108-fuzz-mini
 6. MXR M296 Classic 108 Fuzz Mini – United States: https://www.thomannmusic.com/dunlop_mxr_m296_classic_108_fuzz_mini.htm
 7. MXR Classic 108 Fuzz Mini Guitar Pedal Instruction Manual M296: https://manuals.plus/asin/B079G2MSSQ
 8. Mxr M296 Classic 108 Fuzz Mini Guitar Effects Pedal User Manual: https://manualsee.com/blog/FqAOqGNXk.html

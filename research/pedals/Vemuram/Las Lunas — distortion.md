@@ -29,7 +29,6 @@ Vemuram's Las Lunas — distortion is cataloged as a distortion pedal.
 
 ## Sound
 Vemuram Las Lunas Distortion Overdrive – United States Served with love!
-30 30-Day Money-Back Guarantee 3 3-Year Thomann Warranty Available since July 2026 Item number 648093 Sales Unit 1 piece(s) Overdrive Yes Distortion Yes Fuzz No Metal No $ 449 The shipping costs are calculated on the checkout page.
 Baggs McPherson Reunion Blues Universal Audio Whirlwind Dingwall James Tyler Beard Bourgeois Dunable Ernie Ball JTG Tallon Electric Vertex Yamaha Bare Knuckle Pickups Fryette Mogami The Guitar Sanctuary Voodoo Lab Music Nomad SKB Tone King V
 
 ## Sources checked

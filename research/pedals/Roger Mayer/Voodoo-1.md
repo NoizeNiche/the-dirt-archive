@@ -35,7 +35,7 @@ The TONE CONTROL is of advanced design and has been optimised to compliment vari
 1. Roger Mayer Voodoo-1 — Overdrive Pedal | Equipboard: https://equipboard.com/items/roger-mayer-voodoo-1
 2. Guitar Effects Pedals by Roger Mayer - Voodoo-1: https://www.roger-mayer.co.uk/voodoo_1.htm
 3. Roger Mayer Voodoo-1 Classic - Reverb: https://reverb.com/p/roger-mayer-voodoo-1-classic
-4. Roger Mayer Voodoo-1 &ndash; Clingan Guitars: https://www.clinganguitars.com/en-us/products/roger-mayer-voodoo-1
+4. Roger Mayer Voodoo-1 – Clingan Guitars: https://www.clinganguitars.com/en-us/products/roger-mayer-voodoo-1
 5. Roger Mayer Voodoo-1 - Songs That Use This Pedal and How to Dial It In | ToneMirror: https://www.tonemirror.so/pedals/roger-mayer-voodoo-1
 6. Roger Mayer Voodoo-1 Classic | Effects Database: https://www.effectsdatabase.com/model/rogermayer/classic/voodoo/1
 

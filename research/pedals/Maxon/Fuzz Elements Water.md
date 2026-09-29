@@ -33,7 +33,7 @@ Maxon Fuzz Elements Water Guitar Fuzz Pedal
 Fuzz Elements Water — Maxon Fuzz Pedal
 
 ## Sources checked
-1. Maxon Fuzz Elements Water (FWA10) &ndash; Godlyke, Inc.: https://maxonfx.com/products/fuzz-elements-series-guitar-effects-pedals-water-fwa10-1
+1. Maxon Fuzz Elements Water (FWA10) – Godlyke, Inc.: https://maxonfx.com/products/fuzz-elements-series-guitar-effects-pedals-water-fwa10-1
 2. Maxon FWA10 Fuzz Elements Water Pedal | Equipboard: https://equipboard.com/items/maxon-fuzz-elements-water-guitar-fuzz-pedal
 3. Maxon Fuzz Elements Water Guitar Fuzz Pedal | Guitar Center: https://www.guitarcenter.com/Maxon/Fuzz-Elements-Water-Guitar-Fuzz-Pedal-1399909208693.gc
 4. Maxon FWA10 Fuzz Elements Water Review - Premier Guitar: https://www.premierguitar.com/gear/maxon-fwa10-fuzz-elements-water-review

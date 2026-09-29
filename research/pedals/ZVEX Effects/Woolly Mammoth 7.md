@@ -32,7 +32,7 @@ This is a departure from the original Woolly with its single tone knob.
 The tone stack allows for expanded tone shaping capability.
 
 ## Sources checked
-1. Woolly Mammoth 7 &mdash; ZVEX Effects: https://www.zvex.com/guitar-pedals/woolly-mammoth-7-guitar-effects-pedal
+1. Woolly Mammoth 7 — ZVEX Effects: https://www.zvex.com/guitar-pedals/woolly-mammoth-7-guitar-effects-pedal
 2. ZVEX Effects Woolly Mammoth 7 Hand-Painted - eBay: https://www.ebay.com/itm/137251674652
 3. ZVEX Effects Woolly Mammoth 7 Hand-Painted – Advanced Fuzz Pedal - Cottonwood Music Emporium: https://www.cottonwoodmusicemporium.com/products/zvex-woolly-mammoth-7
 4. ZVEX Effects Woolly Mammoth 7 Hand Painted Pedal - Vintage King: https://www.micandmonitor.com/product/zvex-effects-woolly-mammoth-7-hand-painted-pedal-vintage-king63626/

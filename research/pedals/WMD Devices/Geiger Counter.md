@@ -34,7 +34,7 @@ The Geiger Counter's tone control blends muffled low-mids with chimey and clear 
 ## Sources checked
 1. https://www.amazon.com/clp/B015X6KNUC: https://www.amazon.com/clp/B015X6KNUC
 2. WMD Devices Geiger Counter High Gain Preamp/ 8-Bit Computer Guitar ...: https://www.promusicfactory.com/product/wmd-devices-geiger-counter-high-gain-preamp-8-bit-computer-guitar-pedal/
-3. WMD Devices Geiger Counter Eurorack Edition &ndash; Geargas Store: https://www.geargasstore.com/products/wmd-devices-geiger-counter-eurorack-edition?variant=89466182
+3. WMD Devices Geiger Counter Eurorack Edition – Geargas Store: https://www.geargasstore.com/products/wmd-devices-geiger-counter-eurorack-edition?variant=89466182
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

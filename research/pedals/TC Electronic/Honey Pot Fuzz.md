@@ -7,7 +7,7 @@
 - **Identity:** TC Electronic's Honey Pot Fuzz.
 
 ## What this pedal is
-ls TC Electronic guitars · TC Electronic Honey Pot Fuzz manual 7.5 · 1 give review PDF manual · 4 pages English tutorial questions specs TC Electronic Honey Pot Fuzz TC Electronic HONEY POT FUZZ Vintage-Flavored Fuzz Pedal with Massive Wall of Tones and Miles of Sustain Quick Start Guide (EN) Controls (1) Inp ut /O ut put j ac k s – Con nec t a ¼&quot; cab le f ro m your guitar to the INPUT jack, and connect a cable from the OUTPUT jack to your amplier.
+ls TC Electronic guitars · TC Electronic Honey Pot Fuzz manual 7.5 · 1 give review PDF manual · 4 pages English tutorial questions specs TC Electronic Honey Pot Fuzz TC Electronic HONEY POT FUZZ Vintage-Flavored Fuzz Pedal with Massive Wall of Tones and Miles of Sustain Quick Start Guide (EN) Controls (1) Inp ut /O ut put j ac k s – Con nec t a ¼" cab le f ro m your guitar to the INPUT jack, and connect a cable from the OUTPUT jack to your amplier.
 
 ## Colorways
 - No specific factory colorway information was established in the verified evidence packet.
@@ -28,7 +28,7 @@ ls TC Electronic guitars · TC Electronic Honey Pot Fuzz manual 7.5 · 1 give re
 
 ## Sound
 User manual TC Electronic Honey Pot Fuzz (English - 4 pages) Manua .
-ls TC Electronic guitars · TC Electronic Honey Pot Fuzz manual 7.5 · 1 give review PDF manual · 4 pages English tutorial questions specs TC Electronic Honey Pot Fuzz TC Electronic HONEY POT FUZZ Vintage-Flavored Fuzz Pedal with Massive Wall of Tones and Miles of Sustain Quick Start Guide (EN) Controls (1) Inp ut /O ut put j ac k s – Con nec t a ¼&quot; cab le f ro m your guitar to the INPUT jack, and connect a cable from the OUTPUT jack to your amplier.
+ls TC Electronic guitars · TC Electronic Honey Pot Fuzz manual 7.5 · 1 give review PDF manual · 4 pages English tutorial questions specs TC Electronic Honey Pot Fuzz TC Electronic HONEY POT FUZZ Vintage-Flavored Fuzz Pedal with Massive Wall of Tones and Miles of Sustain Quick Start Guide (EN) Controls (1) Inp ut /O ut put j ac k s – Con nec t a ¼" cab le f ro m your guitar to the INPUT jack, and connect a cable from the OUTPUT jack to your amplier.
 (4) SUSTAIN – Adjusts the amount of overdrive and saturation.
 
 ## Sources checked

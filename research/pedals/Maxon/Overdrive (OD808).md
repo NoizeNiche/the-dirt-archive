@@ -30,7 +30,7 @@ Maxon's Overdrive (OD808) is cataloged as a distortion / overdrive pedal.
 Maxon Overdrive (OD808) – Godlyke, Inc.
 
 ## Sources checked
-1. Maxon Overdrive (OD808) &ndash; Godlyke, Inc.: https://maxonfx.com/products/reissue-series-guitar-effects-pedals-maxon-overdrive-od808
+1. Maxon Overdrive (OD808) – Godlyke, Inc.: https://maxonfx.com/products/reissue-series-guitar-effects-pedals-maxon-overdrive-od808
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

@@ -32,7 +32,7 @@ When’s the last time you turned up your favorite fuzz pedal to anything but el
 Controls Bias: This control has a center detent for the “perfect” fuzz setting.
 
 ## Sources checked
-1. Erupter Ultimate Fuzz Tone &mdash; EarthQuaker Devices: https://www.earthquakerdevices.com/erupter
+1. Erupter Ultimate Fuzz Tone — EarthQuaker Devices: https://www.earthquakerdevices.com/erupter
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

@@ -32,7 +32,7 @@ We kept the tightness and clarity you loved about the Hoof, along with the wide 
 In their place, we installed a set of four specially selected Silicon transistors for cleaner cleans, higher gain, improved temperature stability, and a grittier, grindier, nastier fuzz tone with over 4x the gain of the original Hoof.
 
 ## Sources checked
-1. Cloven Hoof Fuzz Grinder &mdash; EarthQuaker Devices: https://www.earthquakerdevices.com/cloven-hoof
+1. Cloven Hoof Fuzz Grinder — EarthQuaker Devices: https://www.earthquakerdevices.com/cloven-hoof
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

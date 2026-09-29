@@ -33,7 +33,7 @@ VAT, plus shipping (mitttel) Short supply Shipping time : 3-7 Working days Add t
 
 ## Sources checked
 1. DEADASTRONAUTFX X-FUZZ II PEDAL - Reverb: https://reverb.com/item/75744010-deadastronautfx-x-fuzz-ii-pedal
-2. Build your own guitar effects pedal &quot;X-FUZZ II. PCB Deadastronautfx ...: https://www.ebay.co.uk/itm/254345303136
+2. Build your own guitar effects pedal "X-FUZZ II. PCB Deadastronautfx ...: https://www.ebay.co.uk/itm/254345303136
 3. X-FUZZ II pedal (deadastronautfx) - eBay: https://www.ebay.com.au/itm/256004639985
 4. X-Fuzz II kit, 27,00 �: https://www.musikding.de/X-Fuzz-II-kit
 

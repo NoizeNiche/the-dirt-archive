@@ -30,7 +30,7 @@ Alexander Pedals's Royal Cream is cataloged as an overdrive pedal.
 The verified evidence packet did not contain enough pedal-specific sonic description to make a more detailed sound summary without adding unsupported interpretation.
 
 ## Sources checked
-1. Discontinued Pedals &mdash; Alexander: https://www.alexanderpedals.com/discontinued-pedals
+1. Discontinued Pedals — Alexander: https://www.alexanderpedals.com/discontinued-pedals
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

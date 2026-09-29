@@ -33,7 +33,7 @@ Drive: Adjusts the amount of overdrive.
 Clockwise to boost, counterclockwise to cut.
 
 ## Sources checked
-1. Westwood Translucent Drive Manipulator &mdash; EarthQuaker Devices: https://www.earthquakerdevices.com/westwood
+1. Westwood Translucent Drive Manipulator — EarthQuaker Devices: https://www.earthquakerdevices.com/westwood
 2. EarthQuaker Devices Westwood Review | Guitar.com: https://guitar.com/reviews/effects-pedal/earthquaker-devices-westwood/
 3. catalog/override source: https://www.effectsdatabase.com/model/earthquaker/westwood
 

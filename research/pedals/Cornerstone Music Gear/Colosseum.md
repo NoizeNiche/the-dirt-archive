@@ -49,4 +49,4 @@ This pass adds only claims supported by the newly admitted exact-model evidence.
 Cornerstone Music Gear's Colosseum is cataloged as an overdrive pedal.
 
 ### Sources checked in this pass
-1. Cornerstone asked players for pedal ideas &ndash; and turned their two-in-one Klon/Bluesbreaker stompbox dreams into a reality | Guitar World: https://www.guitarworld.com/news/cornerstone-colosseum-pedal
+1. Cornerstone asked players for pedal ideas – and turned their two-in-one Klon/Bluesbreaker stompbox dreams into a reality | Guitar World: https://www.guitarworld.com/news/cornerstone-colosseum-pedal

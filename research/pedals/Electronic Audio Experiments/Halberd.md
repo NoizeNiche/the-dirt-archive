@@ -36,7 +36,7 @@ The up position (Clang) adds a significant high mid boost, to achieve more aggre
 ## Sources checked
 1. ELECTRONIC AUDIO EXPERIMENTS HALBERD TECHNICAL MANUAL Pdf Download | ManualsLib: https://www.manualslib.com/manual/2468655/Electronic-Audio-Experiments-Halberd.html
 2. Electronic Audio Experiments Halberd Technical Document: https://manualzz.com/doc/67945940/electronic-audio-experiments-halberd-technical-document
-3. Halberd &mdash; Electronic Audio Experiments: https://www.electronicaudioexperiments.com/pedals/halberd
+3. Halberd — Electronic Audio Experiments: https://www.electronicaudioexperiments.com/pedals/halberd
 4. Halberd v2 by Electronic Audio Experiments | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/Electronic-Audio-Experiments/Halberd-v2/68978583/
 
 ## Photo

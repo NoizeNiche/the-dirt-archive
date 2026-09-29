@@ -30,7 +30,7 @@ Fairfield Circuitry's Four Eyes Fuzz is cataloged as a fuzz pedal.
 The Dirt Archive currently catalogs **Four Eyes Fuzz** by **Fairfield Circuitry** as a **Fuzz** pedal.
 
 ## Sources checked
-1. ~900 &ndash; Fairfield Circuitry: https://fairfieldcircuitry.com/products/900
+1. ~900 – Fairfield Circuitry: https://fairfieldcircuitry.com/products/900
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

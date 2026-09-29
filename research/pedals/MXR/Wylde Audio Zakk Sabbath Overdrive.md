@@ -36,7 +36,7 @@ With a simple Output, Tone, and Gain control layout, setup is fast and easy so t
 2. MXR® WYLDE AUDIO ZAKK SABBATH OVERDRIVE: https://www.jimdunlop.com/mxr-wylde-audio-zakk-sabbath-overdrive/
 3. MXR® Wylde Audio Zakk Sabbath Overdrive - GN Music: https://gnmusic.us/product/mxr-wylde-audio-zakk-sabbath-overdrive/
 4. MXR Wylde Audio Zakk Sabbath Overdrive Pedal - Sweetwater: https://www.sweetwater.com/store/detail/ZWODPurp--mxr-wylde-audio-zakk-sabbath-overdrive-pedal-purple
-5. MXR Limited Edition Wylde Audio Zakk Sabbath Overdrive Effect Pedal &ndash; Russo Music: https://www.russomusic.com/products/mxr-limited-edition-wylde-audio-zakk-sabbath-overdrive-effect-pedal
+5. MXR Limited Edition Wylde Audio Zakk Sabbath Overdrive Effect Pedal – Russo Music: https://www.russomusic.com/products/mxr-limited-edition-wylde-audio-zakk-sabbath-overdrive-effect-pedal
 6. MXR Wylde Audio Zakk Sabbath Limited-Edition Overdrive Pedal - Purple | Guitar Center: https://www.guitarcenter.com/MXR/Wylde-Audio-Zakk-Sabbath-Overdrive-Pedal-Purple-1500000486696.gc
 7. MXR Wylde Audio Zakk Sabbath Overdrive Pedal - WA44ZS — Truetone Music: https://www.truetonemusic.com/products/mxr-wylde-audio-zakk-sabbath-overdrive-pedal
 

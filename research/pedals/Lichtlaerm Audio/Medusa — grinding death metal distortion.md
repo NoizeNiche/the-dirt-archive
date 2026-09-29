@@ -34,7 +34,7 @@ With great power comes great responsibility: meaning with all the gain and high 
 ## Sources checked
 1. Medusa - Lichtlaerm Audio Wiki: https://lichtlaerm-audio.fandom.com/wiki/Medusa
 2. Lichtlaerm Audio Medusa - What To Know & Where To Buy: https://equipboard.com/items/lichtlaerm-audio-medusa
-3. Lichtlaerm Audio Medusa Swedish Death Machine &ndash; eastside music supply: https://eastsidemusicsupply.com/products/lichtlaerm-audio-medusa
+3. Lichtlaerm Audio Medusa Swedish Death Machine – eastside music supply: https://eastsidemusicsupply.com/products/lichtlaerm-audio-medusa
 4. Lichtlaerm Audio Medusa - Reverb: https://reverb.com/p/lichtlaerm-audio-medusa-2024-2026
 5. Lichtlaerm Audio Medusa - Songs That Use This Pedal and How to Dial It In | ToneMirror: https://www.tonemirror.so/pedals/lichtlaerm-medusa
 

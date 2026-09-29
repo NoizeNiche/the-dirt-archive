@@ -34,7 +34,7 @@ So plug-in and let Logan guide you into a new era of overdrive.
 
 ## Sources checked
 1. LOGAN – Transcended Low-Mid Gain Overdrive | KMA Machines: https://kmamachines.com/machines/logan/
-2. KMA Machines LOGAN &ndash; KMA Machines - Direct: https://shop.kmamachines.com/products/kma-machines-logan
+2. KMA Machines LOGAN – KMA Machines - Direct: https://shop.kmamachines.com/products/kma-machines-logan
 3. KMA Logan Overdrive | Parametric Mid-EQ & High-Headroom Preamp - Cottonwood Music Emporium: https://www.cottonwoodmusicemporium.com/products/kma-machines-logan
 4. Logan | KMA Machines: https://www.kmamachinesjp.com/products/logan
 5. KMA Machines Logan Transcend Drive — Overdrive Pedal: https://equipboard.com/items/kma-machines-logan

@@ -28,7 +28,7 @@ DigiTech X-Series Bass Driver Search for Effects Pedals, Brands or Artists Toggl
 
 ## Sound
 DigiTech X-Series Bass Driver Search for Effects Pedals, Brands or Artists Toggle navigation Accessories Batteries Patch Cables Pedal Boards Power Supplies Bass Effects Pedals Chorus Pedals Compressor Pedals Distortion Pedals Envelope Filter Pedals EQ Pedals Expander Pedals Flanger Pedals Fuzz Pedals Limiter Enhancer Pedals Multi-Effects Pedals Octave Pedals Overdrive Pedals Synthesizer Pedals Tuner Pedals Wah Pedals Guitar Effects Pedals Acoustic Pedals Amp Simulation Pedals Chorus Pedals Compressor Pedals Delay Pedals Distortion Pedals Envelope Filter Pedals EQ Pedals Flanger Pedals Fuzz Pedals Line Selector Pedals Multi-Effects Pedals Noise Gate Pedals Octave Pedals Overdrive Pedals Phase Shifter Pedals Pitch Shift Pedals Preamp Pedals Reverb Pedals Rotary Sound Pedals Synthesizer Pedals Talk Box Pedals Tremolo Pedals Tuner Pedals Volume Pedals Wah Pedals Whammy Pedals Manufacturers Akai Art Ashdown Engineering Behringer Boss Carl Martin Crowther Danelectro Digitech Electro Harmonix Ernie Ball IK Multimedia Ibanez Jim Dunlop Korg Line 6 MXR Moog Rocktron Roland Seymour Duncan Vox Z-Vex Zoom Artist Profiles My Account Products Bass Effects Pedals Overdrive Pedals DigiTech X-Series Bass Driver DigiTech X-Series Bass Driver Be the first to review this product.
-Tweet The Bass Driver&#8482; features three different bass overdrive distortion pedal models to select from.
+Tweet The Bass Driver™ features three different bass overdrive distortion pedal models to select from.
 Go from a light overdrive to all out Stonerrock Fuzz or morph in between.
 
 ## Sources checked

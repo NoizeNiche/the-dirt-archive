@@ -35,7 +35,7 @@ This enables the Hollywood to efficiently drive the guitar signal when using lon
 1. Radial Tonebone Bones Hollywood - Reverb: https://reverb.com/p/radial-tonebone-bones-hollywood
 2. Radial Tonebone Bones Hollywood — Overdrive Pedal | Equipboard: https://equipboard.com/items/radial-tonebone-bones-hollywood
 3. Radial Tonebone Bones Hollywood Dual Distortion | Effects Database: https://www.effectsdatabase.com/model/radial/tonebone/bones/hollywood
-4. Radial Tonebone Bones Hollywood &ndash; Intersalg: https://intersalg.no/products/radial-tonebone-bones-hollywood
+4. Radial Tonebone Bones Hollywood – Intersalg: https://intersalg.no/products/radial-tonebone-bones-hollywood
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

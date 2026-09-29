@@ -27,7 +27,6 @@ Organic Sounds’ first-ever original OverDrive pedal.
 - **Exact part:** Unknown.
 
 ## Sound
-escape }}\" class=\"boost-sd__modal\" id=\"boost-sd__modal-quickview\" data-product-id='{{ productData.id }}' data-product='{{ productData
 ORGANIC SOUNDS Organic Drive "Hydra" - Your Complete Music Store – Instruments, Vinyl & More FLASH SALE: EVERYTHING HALF PRICE!
 Organic Sounds’ first-ever original OverDrive pedal.
 
