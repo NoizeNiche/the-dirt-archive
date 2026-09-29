@@ -3,43 +3,41 @@
 ## PRP identity
 - **Archive parent:** Smallbox Overdrive Pedal
 - **Builder:** Friedman Amplification
-- **Catalog type:** Distortion / Overdrive
+- **Catalog type:** Overdrive
 - **Identity:** Friedman Amplification's Smallbox Overdrive Pedal.
 
 ## What this pedal is
-$ 199.99 SMALLBOX OVERDRIVE PEDAL quantity Add to cart z Same intuitive control set as the amplifier You can now get the same tonal versatility, sensitivity and harmonically rich overdrive as this legendary amp with Friedman’s new Small Box overdrive pedal.
+The Smallbox Overdrive is the pedal version of Friedman Amplification's SmallBox amplifier voice. Friedman describes it as an amp-style overdrive capable of moving from dirty boost and Plexi-like breakup into higher-gain British distortion.
 
 ## Colorways
-- No specific factory colorway information was established in the verified evidence packet.
+- The documented production finish is the Friedman-style **black enclosure**.
+- No complete finish chronology was established.
 
 ## Versions and factory options
-- The verified evidence references: MKII.
-- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+- Friedman uses a control set based on the SmallBox amplifier.
+- **Gain structure** switch changes the character and saturation range.
+- Standard pedalboard power operation.
+- True bypass.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- The checked sources do not establish a complete numbered production revision history for the original Smallbox Overdrive pedal.
+- The archive keeps later Friedman drive products separate.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
+- Exact production semiconductor details were not established in the checked sources.
 - **Exact transistor/device:** Unknown.
 
 ## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- Exact clipping/rectifier diode information was not established.
 - **Exact part:** Unknown.
 
 ## Sound
-$ 199.99 SMALLBOX OVERDRIVE PEDAL quantity Add to cart z Same intuitive control set as the amplifier You can now get the same tonal versatility, sensitivity and harmonically rich overdrive as this legendary amp with Friedman’s new Small Box overdrive pedal.
- Your perfect shade of rock from vintage Plexi goodness to high gain madness.
- British rock at its best You can go from screaming high gain to a killer dirty boost by simply rolling the pedal’s gain knob back and flipping the gain structure switch.
+The Smallbox covers vintage British crunch, dirty boost, and higher-gain rock distortion. Rolling back the Gain and using the gain-structure switch can move the pedal toward a lower-gain amp-pushing sound.
 
 ## Sources checked
-1. SMALLBOX OVERDRIVE PEDAL | Friedman Amplification: https://friedmanamplification.com/shop/pedals/smallbox-overdrive-pedal/
-2. Friedman Amplification Smallbox Overdrive pedal: https://www.toneforgehub.com/product/friedman-amplification-smallbox-overdrive-pedal69483/
-3. Friedman Amplification Smallbox Overdrive Pedal | Overdrive/Distortion Pedal | hardwaredrum.com: https://www.hardwaredrum.com/product/friedman-amplification-smallbox-overdrive-pedal/
-4. Friedman Amplification Smallbox Overdrive Pedal freeshipping - Impulse Music Co.: https://www.impulsemusicco.com/products/friedman-amplification-smallbox-overdrive-pedal
-5. Friedman Amplification Smallbox Overdrive Pedal: https://www.promusicgearstore.com/product/friedman-amplification-smallbox-overdrive-pedal/
-6. Friedman Amplification Smallbox Overdrive Pedal - Shop: https://shop.app/products/6182303269046/friedman-amplification-smallbox-overdrive-pedal
-7. Friedman Amplification Smallbox Overdrive pedal - Macdaddy Music: https://www.macdaddymusicstore.com/friedman-amplification-smallbox-overdrive-pedal/
+1. Friedman Amplification - Smallbox Overdrive Pedal: https://friedmanamplification.com/shop/pedals/smallbox-overdrive-pedal/
+2. Friedman Amplification - SmallBox amplifier references in the archive research set.
+3. Effects Database - Friedman Smallbox: https://www.effectsdatabase.com/
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.

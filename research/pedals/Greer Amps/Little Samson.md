@@ -3,39 +3,39 @@
 ## PRP identity
 - **Archive parent:** Little Samson
 - **Builder:** Greer Amps
-- **Catalog type:** Distortion / Overdrive
+- **Catalog type:** Overdrive / Distortion
 - **Identity:** Greer Amps's Little Samson.
 
 ## What this pedal is
-Little Samson — Greer Amps Overdrive Pedal | PedalFilter | PedalFilter Skip to main content The guitar pedal database Search pedals The fastest, most visual guitar pedal database.
+The Little Samson is an Andy Elliott signature high-gain drive developed by Greer Amps at the request of Elliott Guitars. The goal was a do-it-all drive that could provide natural, higher-gain overdrive without becoming thin or brittle.
 
 ## Colorways
-- About • Collections • Blog • Compare • Privacy Policy • Terms of Service • Submit a pedal • © 2026 PedalFilter The guitar pedal database Search pedals You May Also Like 3rd Power Roosevelt Drive A3 Stompbox Angel Bad Cat Burmese Drive Previous Lightspeed Next Mizuki Blue
+- No complete factory finish chronology was established in the checked sources.
 
 ## Versions and factory options
-- No distinct factory revision was established in the verified evidence packet.
+- High-gain overdrive design.
+- Designed around a broad, full response.
+- Greer builds the model in its standard small-format enclosure.
+- No verified complete control transcription was recovered from the checked exact-model sources, so controls are not guessed.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- No complete numbered production revision chronology was established.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
+- Exact production semiconductor details were not established in the checked sources.
 - **Exact transistor/device:** Unknown.
 
 ## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- Exact clipping/rectifier diode information was not established.
 - **Exact part:** Unknown.
 
 ## Sound
-Little Samson — Greer Amps Overdrive Pedal | PedalFilter | PedalFilter Skip to main content The guitar pedal database Search pedals The fastest, most visual guitar pedal database.
-About • Collections • Blog • Compare • Privacy Policy • Terms of Service • Submit a pedal • © 2026 PedalFilter Clear Compare ( 0 ) Back Home Greer Amps Little Samson Back to results Greer Amps Little Samson Overdrive Andy Elliott signature high-gain drive.
-The Little Samson was built at the request of Andy Elliott of Elliott Guitars, who wanted a do-it-all drive with natural, higher gain that still stays full.
+The Little Samson was designed as an all-purpose higher-gain drive with enough low-end body to remain full at saturated settings. It was developed specifically to function as a flexible main overdrive rather than a narrowly voiced effect.
 
 ## Sources checked
-1. Greer Amps Little Samson - Tonebox.com: https://www.tonebox.com/pedal/greer-amps-little-samson
-2. Greer Amps × Elliott Guitars &quot;Little Samson&quot; Overdrive Pedal - eBay: https://www.ebay.com/itm/327318427653
-3. Greer Amps Little Samson | Elliott Guitars - Reverb: https://reverb.com/item/9879098-greer-amps-little-samson-elliott-guitars
-4. Little Samson — Greer Amps Overdrive Pedal | PedalFilter | PedalFilter: https://pedalfilter.com/greer-amps/little-samson
+1. Tonebox - Greer Amps Little Samson: https://www.tonebox.com/pedal/greer-amps-little-samson
+2. Reverb - Greer Amps Little Samson / Elliott Guitars: https://reverb.com/item/9879098-greer-amps-little-samson-elliott-guitars
+3. PedalFilter - Greer Amps Little Samson: https://pedalfilter.com/greer-amps/little-samson
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.
