@@ -7,35 +7,30 @@
 - **Identity:** Mid-Fi Electronics's Magick "i".
 
 ## What this pedal is
-Mid-Fi Electronics's Magick "i" is cataloged as an overdrive pedal.
-
-## Colorways
-- No specific factory colorway information was established in the verified evidence packet.
+Magick "i" is a Mid-Fi overdrive designed around a flexible, amp-like gain response. The archive retains the unusual lower-case/quoted spelling used by the builder.
 
 ## Versions and factory options
-- No distinct factory revision was established in the verified evidence packet.
+- 100% true bypass.
+- 9V DC operation.
+- Hand-wired production.
+- No reliable numbered hardware revision was established.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- No complete dated revision chronology was established.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
-- **Exact transistor/device:** Unknown.
+- Exact production semiconductor details were not established.
 
 ## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
-- **Exact part:** Unknown.
+- Exact clipping-device information was not established.
 
 ## Sound
-Mid-Fi Electronics Magick I - Overdrive
+Magick "i" is designed as a responsive overdrive rather than an extreme fuzz or metal distortion. The checked sources do not support more specific component-level claims.
 
 ## Sources checked
-1. Mid-Fi Electronics Magick &quot;i&quot; — Overdrive Pedal | Equipboard: https://equipboard.com/items/mid-fi-electronics-magick-i
-2. mid-fi electronics Magick i Overdrive - eBay: https://www.ebay.com/itm/198661836682
-3. Mid-Fi Electronics Magick &quot;i&quot; - Reverb: https://reverb.com/item/95284038-mid-fi-electronics-magick-i
-4. Mid-Fi Electronics Magick &quot;i&quot; (White) &quot;Free Shipping in the US&quot; &ndash; Empire Guitars: https://empireguitars.com/products/mid-fi-electronics-magick-i-free-shipping-in-the-us-copy
-5. Mid-Fi Electronics Magick i Review - Premier Guitar: https://www.premierguitar.com/gear/mid-fi-electronics-magick-i-review
-6. Mid-Fi Electronics Magick I - Overdrive | Effects Database: https://www.effectsdatabase.com/model/midfi/magicki
+1. Mid-Fi Electronics - Pedals: https://www.midfielectronics.com/pedals
+2. Premier Guitar - Magick "i" review: https://www.premierguitar.com/gear/mid-fi-electronics-magick-i-review
+3. Reverb - Mid-Fi Magick "i": https://reverb.com/item/95284038-mid-fi-electronics-magick-i
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.
