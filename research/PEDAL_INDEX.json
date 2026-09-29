@@ -17230,7 +17230,13 @@
       "research_record": "./research/pedals/PRP Batch 118/bsq-effects-bo-2-bulls-on-overdrive-compressor.md",
       "image_source_page": "https://www.bsqeffects.com/pedales",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_pages": [
+        "https://www.bsqeffects.com/pedales"
+      ],
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 1429
     },
     {
       "company": "BSQ Effects",
@@ -17242,7 +17248,13 @@
       "research_record": "./research/pedals/PRP Batch 118/bsq-effects-dm-2-dynamite-overdrive-compressor.md",
       "image_source_page": "https://www.bsqeffects.com/pedales",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_pages": [
+        "https://www.bsqeffects.com/pedales"
+      ],
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 1430
     },
     {
       "company": "BSQ Effects",
@@ -31678,7 +31690,13 @@
       "research_record": "./research/pedals/Darkglass Electronics/Microtubes B1K.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://reverb.com/p/darkglass-electronics-microtubes-b1k-cmos-bass-overdrive"
+      "image_source_page": "https://thedarkglass.shop/products/b1k",
+      "image_source_pages": [
+        "https://thedarkglass.shop/products/b1k"
+      ],
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 1443
     },
     {
       "company": "Darkglass Electronics",
@@ -31762,7 +31780,13 @@
       "research_record": "./research/pedals/Darkglass Electronics/Microtubes Vintage Deluxe.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://www.effectsdatabase.com/model/darkglass/microtubes/vintagedeluxe"
+      "image_source_page": "https://www.effectsdatabase.com/model/darkglass/microtubes/vintagedeluxe",
+      "image_source_pages": [
+        "https://www.effectsdatabase.com/model/darkglass/microtubes/vintagedeluxe"
+      ],
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 1456
     },
     {
       "company": "Darkglass Electronics",
@@ -31774,7 +31798,13 @@
       "research_record": "./research/pedals/Darkglass Electronics/Microtubes X.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://www.effectsdatabase.com/model/darkglass/microtubes/x"
+      "image_source_page": "https://www.effectsdatabase.com/model/darkglass/microtubes/x",
+      "image_source_pages": [
+        "https://www.effectsdatabase.com/model/darkglass/microtubes/x"
+      ],
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 1444
     },
     {
       "company": "Darkglass Electronics",
@@ -31786,7 +31816,13 @@
       "research_record": "./research/pedals/Darkglass Electronics/Microtubes X Ultra.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://www.effectsdatabase.com/model/darkglass/microtubes/xultra"
+      "image_source_page": "https://www.effectsdatabase.com/model/darkglass/microtubes/xultra",
+      "image_source_pages": [
+        "https://www.effectsdatabase.com/model/darkglass/microtubes/xultra"
+      ],
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 1445
     },
     {
       "company": "Darkglass Electronics",
@@ -36355,7 +36391,7 @@
       "research_record": "./research/pedals/Electronic Audio Experiments/Dagger.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://www.electronicaudioexperiments.com/legacy",
+      "image_source_page": "https://www.electronicaudioexperiments.com/legacy/dagger",
       "image_source_pages": [
         "https://www.electronicaudioexperiments.com/legacy/dagger"
       ],
@@ -38154,7 +38190,14 @@
       "research_record": "./research/pedals/Fuzzrocious Pedals/Wicked Jawn.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://fuzzrociouspedals.com/?product_cat=retired"
+      "image_source_page": "https://fuzzrociouspedals.com/?product=wickedjawn",
+      "image_source_pages": [
+        "https://fuzzrociouspedals.com/?product=wickedjawn"
+      ],
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 1452,
+      "image": "./assets/pedals/fuzzrocious-pedals/wicked-jawn/primary.webp"
     },
     {
       "company": "Gamechanger Audio",
@@ -44614,7 +44657,13 @@
       "research_record": "./research/pedals/MadeByMike/Dual Drive.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://www.facebook.com/MadeByMikePedals/posts/pedals-870-and-871-the-scream-box-is-a-custom-dual-drive-pedal-the-dream-box-wit/1410415319021706/"
+      "image_source_page": "https://www.madebymike.co.uk/",
+      "image_source_pages": [
+        "https://www.madebymike.co.uk/"
+      ],
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 1440
     },
     {
       "company": "MadeByMike",
@@ -45061,8 +45110,7 @@
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
       "image_source_page": "https://maskaudioelectronics.com/products/part-garden",
-      "image": "",
-      "image_source_url": "https://maskaudioelectronics.com/cdn/shop/files/20250920_092003_160x160.jpg?v=1769883161"
+      "image": ""
     },
     {
       "company": "Mask Audio Electronics",
@@ -51157,7 +51205,13 @@
       "research_record": "./research/pedals/Phaez Amplification/Daisycutter.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://www.facebook.com/PhaezAmplification/posts/some-was-looking-for-an-old-schematic-early-daisycutter-with-a-5e3-deluxe-style-/2400322746741334/"
+      "image_source_page": "https://phaezamplification.com/pedals/",
+      "image_source_pages": [
+        "https://phaezamplification.com/pedals/"
+      ],
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 1441
     },
     {
       "company": "Phaez Amplification",
@@ -51249,7 +51303,13 @@
       "research_record": "./research/pedals/Pigtronix/Bass FAT Drive.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://www.talkbass.com/threads/pigtronix-bass-fat-drive-whats-the-verdict.989433/"
+      "image_source_page": "https://equipboard.com/items/pigtronix-bass-fat-drive",
+      "image_source_pages": [
+        "https://reverb.com/p/pigtronix-bass-fat-drive"
+      ],
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 1454
     },
     {
       "company": "Pigtronix",
@@ -51276,7 +51336,13 @@
       "research_record": "./research/pedals/Pigtronix/FAT Drive.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://www.premierguitar.com/gear/pigtronix-fat-drive-pedal-review"
+      "image_source_page": "https://www.premierguitar.com/gear/pigtronix-fat-drive-pedal-review",
+      "image_source_pages": [
+        "https://www.premierguitar.com/gear/pigtronix-fat-drive-pedal-review"
+      ],
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 1455
     },
     {
       "company": "Pigtronix",
@@ -51404,7 +51470,13 @@
       "research_record": "./research/pedals/Pigtronix/PolySaturator.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://www.buyanalogman.com/Pigtronix_PolySaturator_p/pig%20polysaturator.htm"
+      "image_source_page": "https://www.effectsdatabase.com/model/pigtronix/polysaturator",
+      "image_source_pages": [
+        "https://www.effectsdatabase.com/model/pigtronix/polysaturator"
+      ],
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 1453
     },
     {
       "company": "Pigtronix",
@@ -51416,7 +51488,14 @@
       "source_page": null,
       "research_record": "./research/pedals/Pigtronix/Star Eater.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_pages": [
+        "https://www.pigtronix.com/pedals/star-eater/"
+      ],
+      "image_source_page": "https://www.pigtronix.com/pedals/star-eater/",
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 1431
     },
     {
       "company": "Pigtronix",
@@ -52210,7 +52289,13 @@
       "research_record": "./research/pedals/RYRA/The Klone.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://mattsmusic.com/product/ryra-the-klone/"
+      "image_source_page": "https://theklonepedal.com/the-klone-pedal",
+      "image_source_pages": [
+        "https://theklonepedal.com/the-klone-pedal"
+      ],
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 1442
     },
     {
       "company": "RYRA",
@@ -52258,7 +52343,13 @@
       "research_record": "./research/pedals/SBGO Effects/Dark Bass Anger.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://www.facebook.com/SBGOeffects/posts/the-new-postapocaliptic-finish-for-the-last-version-of-our-dark-bass-anger-disto/2071625202887171/"
+      "image_source_page": "https://sbgo-effects.com/en/",
+      "image_source_pages": [
+        "https://sbgo-effects.com/en/"
+      ],
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 1439
     },
     {
       "company": "SBGO Effects",
@@ -53049,7 +53140,14 @@
       "source_page": null,
       "research_record": "./research/pedals/SolidGoldFX/BETA-V Bass Preamp.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_pages": [
+        "https://solidgoldfx.com/products/beta-v"
+      ],
+      "image_source_page": "https://solidgoldfx.com/products/beta-v",
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 1432
     },
     {
       "company": "SolidGoldFX",
@@ -53418,7 +53516,13 @@
       "research_record": "./research/pedals/Stomp Under Foot/Astoria.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://coastsonic.com/products/stomp-under-foot-x-coast-sonic-the-astoria"
+      "image_source_page": "https://www.effectsdatabase.com/model/stompunderfoot/bigmuff/astoria",
+      "image_source_pages": [
+        "https://www.effectsdatabase.com/model/stompunderfoot/bigmuff/astoria"
+      ],
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 1433
     },
     {
       "company": "Stomp Under Foot",
@@ -53491,7 +53595,14 @@
       "source_page": null,
       "research_record": "./research/pedals/Stomp Under Foot/Dirt Preacher.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_pages": [
+        "https://www.effectsdatabase.com/model/stompunderfoot/dirtpreacher"
+      ],
+      "image_source_page": "https://www.effectsdatabase.com/model/stompunderfoot/dirtpreacher",
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 1434
     },
     {
       "company": "Stomp Under Foot",
@@ -56321,7 +56432,14 @@
       "source_page": null,
       "research_record": "./research/pedals/VFE Pedals/Dragon Hound.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_pages": [
+        "https://www.rockboard.de/en/pedalPedia/VFE-Pedals/Dragon-Hound/68986069/"
+      ],
+      "image_source_page": "https://www.rockboard.de/en/pedalPedia/VFE-Pedals/Dragon-Hound/68986069/",
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 1450
     },
     {
       "company": "VFE Pedals",
@@ -56370,7 +56488,14 @@
       "source_page": null,
       "research_record": "./research/pedals/VFE Pedals/Merman.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_pages": [
+        "https://www.rockboard.de/en/pedalPedia/VFE-Pedals/Merman/68986081/"
+      ],
+      "image_source_page": "https://www.rockboard.de/en/pedalPedia/VFE-Pedals/Merman/68986081/",
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 1451
     },
     {
       "company": "VFE Pedals",
@@ -56942,9 +57067,15 @@
       ],
       "source_page": null,
       "research_record": "./research/pedals/VOX/Silk Drive.md",
-      "image_source_page": "https://www.bashsmusic.com.au/product/vox-pathfinder-10-limited-edition-red/",
+      "image_source_page": "https://voxamps.com/en-gb/product/silk-drive/",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_pages": [
+        "https://voxamps.com/en-gb/product/silk-drive/"
+      ],
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 1435
     },
     {
       "company": "VOX",
@@ -57444,7 +57575,14 @@
       "source_page": null,
       "research_record": "./research/pedals/Walrus Audio/Voyager Preamp/Overdrive MKII — Overdrive.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_pages": [
+        "https://www.walrusaudio.com/collections/overdrive-fuzz-distortion"
+      ],
+      "image_source_page": "https://www.walrusaudio.com/collections/overdrive-fuzz-distortion",
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 1437
     },
     {
       "company": "Walrus Audio",
@@ -58166,9 +58304,15 @@
       ],
       "source_page": null,
       "research_record": "./research/pedals/Way Huge/Conquistador Fuzzstortion.md",
-      "image_source_page": "https://reverb.com/item/92476051-way-huge-conquistador-fuzzstortion-pedal",
+      "image_source_page": "https://www.jimdunlop.com/way-huge-conquistador-fuzzstortion/",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_pages": [
+        "https://www.jimdunlop.com/way-huge-conquistador-fuzzstortion/"
+      ],
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 1446
     },
     {
       "company": "Way Huge",
@@ -58290,7 +58434,14 @@
       "source_page": null,
       "research_record": "./research/pedals/Way Huge/Overrated Special.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_pages": [
+        "https://www.jimdunlop.com/way-huge-smalls-overrated-special-overdrive/"
+      ],
+      "image_source_page": "https://www.jimdunlop.com/way-huge-smalls-overrated-special-overdrive/",
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 1447
     },
     {
       "company": "Way Huge",
@@ -58344,7 +58495,14 @@
       "source_page": null,
       "research_record": "./research/pedals/Way Huge/Russian-Pickle.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_pages": [
+        "https://www.jimdunlop.com/way-huge-smalls-russian-pickle-fuzz/"
+      ],
+      "image_source_page": "https://www.jimdunlop.com/way-huge-smalls-russian-pickle-fuzz/",
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 1448
     },
     {
       "company": "Way Huge",
@@ -58355,7 +58513,14 @@
       "source_page": null,
       "research_record": "./research/pedals/Way Huge/Saucy Box Overdrive.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_pages": [
+        "https://www.sweetwater.com/store/detail/SaucyBox--way-huge-saucy-box-overdrive-pedal"
+      ],
+      "image_source_page": "https://motorcityguitar.com/products/way-huge-whe205-saucy-box-overdrive-br-pedal?variant=45058457230",
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 1449
     },
     {
       "company": "Way Huge",
@@ -59062,7 +59227,14 @@
       "source_page": null,
       "research_record": "./research/pedals/Xotic Effects/Bass BB Preamp V1.5.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_pages": [
+        "https://guitarpedalshoppe.com/xotic-effects-bass-bb-pre"
+      ],
+      "image_source_page": "https://guitarpedalshoppe.com/xotic-effects-bass-bb-pre",
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 1457
     },
     {
       "company": "Xotic Effects",
@@ -59170,7 +59342,14 @@
       "source_page": null,
       "research_record": "./research/pedals/Xotic Effects/SL Drive — Distortion / Overdrive.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_pages": [
+        "https://xotic.us/effects/sl-drive/"
+      ],
+      "image_source_page": "https://xotic.us/effects/sl-drive/",
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 1438
     },
     {
       "company": "Xotic Effects",
