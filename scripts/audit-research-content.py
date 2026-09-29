@@ -53,6 +53,26 @@ MISMATCH_REFERENCES = re.compile(
     re.I,
 )
 
+def norm_identity(value: str) -> str:
+    return re.sub(r"\s+", " ", re.sub(r"[^a-z0-9]+", " ", str(value or "").casefold())).strip()
+
+
+def load_catalog_models() -> dict[str, list[str]]:
+    models: dict[str, list[str]] = {}
+    index_path = ROOT / "research/PEDAL_INDEX.json"
+    try:
+        catalog = __import__("json").loads(index_path.read_text(encoding="utf-8"))
+    except Exception:
+        return models
+    for item in catalog.get("pedals", []):
+        builder = str(item.get("company") or "").strip()
+        pedal = str(item.get("pedal") or "").strip()
+        if not builder or not pedal or item.get("catalog_role") == "variation":
+            continue
+        models.setdefault(builder, []).append(pedal)
+    return models
+
+
 def is_source_line(line: str) -> bool:
     return bool(re.match(r"^\s*\d+\.\s+.+https?://", line, re.I))
 
@@ -180,6 +200,35 @@ def audit_research_structure(lines: list[str], path: Path) -> list[dict[str, obj
     # Deep research verification is intentionally not scored here. Strong records
     # often keep detailed verified fields under the primary record headings while
     # this marker only identifies the evidence pass.
+
+    # Flag repeated exact references to a different model from the same builder
+    # when they occur inside the public description/sound sections. This is a
+    # review signal for cross-product contamination, not an automatic rewrite.
+    catalog_models = load_catalog_models()
+    title_match = re.match(r"^#\\s+(.+?)\\s+—\\s+(.+?)\\s*$", lines[0] if lines else "")
+    current_builder = title_match.group(1).strip() if title_match else ""
+    current_pedal = title_match.group(2).strip() if title_match else ""
+    sibling_models = [
+        model for model in catalog_models.get(current_builder, [])
+        if model.casefold() != current_pedal.casefold() and len(norm_identity(model)) >= 7
+    ]
+    for sibling in sorted(sibling_models, key=len, reverse=True):
+        needle = norm_identity(sibling)
+        hits = 0
+        first_line = 1
+        section_name = ""
+        for lineno, raw in enumerate(lines, 1):
+            heading = re.match(r"^#{2,6}\\s+(.+?)\\s*$", raw)
+            if heading:
+                section_name = heading.group(1).strip().lower()
+                continue
+            if section_name not in {"what this pedal is", "sound"}:
+                continue
+            if needle and needle in norm_identity(raw):
+                hits += 1
+                first_line = min(first_line, lineno)
+        if hits >= 2:
+            add(first_line, "sibling_model_reference", f"Public prose references sibling model '{sibling}' {hits} times; review for cross-product contamination.")
 
     for lineno, raw in enumerate(lines, 1):
         if is_source_line(raw):
