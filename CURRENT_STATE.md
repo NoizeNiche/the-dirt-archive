@@ -3,7 +3,7 @@
 
 The active production phase is **Photo Recovery & Production QA**. PRP1 is retained only as a legacy publication/closeout mechanism.
 
-Live catalog: **4202 total / 4202 surface-ready / 4202 deep-researched / 4202 research-linked / 3984 pictured / 3984 complete / 0 surface-missing / 0 deep-research-pending / 218 researched-photo-pending**.
+Live catalog: **4202 total / 4202 surface-ready / 4202 deep-researched / 4202 research-linked / 3988 pictured / 3988 complete / 0 surface-missing / 0 deep-research-pending / 214 researched-photo-pending**.
 
 **Next deep-research target:** None. Research queue is complete.
 
@@ -32,7 +32,7 @@ Detailed session matrix: research/100_USER_SIMULATION.md.
 
 ## Current product + recovery checkpoint - September 28, 2026
 
-The canonical catalog is **4,202 records**, with **4,202 deep-researched** and **4,143 pictured**. The remaining exact-photo gate is now **59 researched-photo-pending**, down from the earlier 77-record snapshot.
+The canonical catalog is **4,202 records**, with **4,202 deep-researched** and **3,988 pictured**. The remaining exact-photo gate is now **214 researched-photo-pending**.
 
 The public product now includes a device-local collector workbench for saving exact records and comparing up to four exact records side by side. Comparison is descriptive only and does not expose internal research administration or produce ratings/rankings. The archive index also now supports a URL-preserved Grid/Table browse toggle, with the same filters and workbench actions in both modes.
 
