@@ -3,39 +3,37 @@
 ## PRP identity
 - **Archive parent:** Golden Pearl
 - **Builder:** Friedman Amplification
-- **Catalog type:** Distortion / Overdrive
+- **Catalog type:** Overdrive
 - **Identity:** Friedman Amplification's Golden Pearl.
 
 ## What this pedal is
-Built in the USA, and designed to withstand decades of abuse, the Golden Pearl is a must have pedal for any guitar player.
+The Golden Pearl is a transparent, lower-gain overdrive designed to push an already-driven amplifier into additional saturation or create semi-broken-up tones through a clean amp.
 
 ## Colorways
-- No specific factory colorway information was established in the verified evidence packet.
+- No complete factory finish chronology was established.
 
 ## Versions and factory options
-- No distinct factory revision was established in the verified evidence packet.
+- Lower-gain overdrive architecture.
+- Responsive controls.
+- Three-position high-frequency cut switch.
+- Built in the USA.
+- No complete numbered production revision history was established.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- No complete dated hardware revision chronology was established.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
-- **Exact transistor/device:** Unknown.
+- Exact production semiconductor details were not established.
 
 ## Diode
-- Documented terms in the verified sources: LED.
-- The archive records only the component information explicitly present in these sources.
+- LED indicator is documented; exact clipping-device part was not established.
 
 ## Sound
-$ 169.99 Out of stock z Transparent, lower gain overdrive pedal designed to push already overdriven amps into seductive saturation.
-Also use the Golden Pearl into a clean amp to achieve that elusive semi-broken up tone.
- Designed to please the ultimate tone connoisseur Responsive controls along with the three-position high-frequency cut switch, let you custom tailor the pedal to your amp.
+Golden Pearl is designed for transparent, lower-gain drive. It can add harmonic saturation to an already-overdriven amplifier or push a clean amp toward semi-broken-up tones, with the high-frequency cut switch adapting the response to the rig.
 
 ## Sources checked
-1. GOLDEN PEARL | Friedman Amplification: https://friedmanamplification.com/shop/pedals/golden-pearl/
-2. Friedman Amplification Golden Pearl Overdrive Effects Pedal: https://www.soundandstrings.com/product/friedman-amplification-golden-pearl-overdrive-effects-pedal-26459/
-3. Friedman Amplification Golden Pearl - Tonebox.com: https://www.tonebox.com/pedal/friedman-amplification-golden-pearl
-4. New Friedman Amplification GOLDEN PEARL Guitar Compact ... - Reverb: https://reverb.com/item/53495607-new-friedman-amplification-golden-pearl-guitar-compact-overdrive-gain-pedal
+1. Friedman Amplification - Golden Pearl: https://friedmanamplification.com/shop/pedals/golden-pearl/
+2. Reverb - Friedman Golden Pearl: https://reverb.com/item/53495607-new-friedman-amplification-golden-pearl-guitar-compact-overdrive-gain-pedal
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.
