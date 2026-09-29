@@ -23,10 +23,13 @@ CODE_MARKERS = (
     "<header ", "</header", "<footer ", "</footer",
 )
 COMMERCE_UI = (
-    "add to cart", "add to basket", "quantity", "product variants",
-    "view cart", "checkout", "sold out", "regular price",
-    "click here to be notified",
+    "add to cart", "add to basket", "buy now", "shopping cart",
+    "product variants", "view cart", "checkout", "sold out",
+    "regular price", "quantity", "notify me when this product is available",
+    "related items", "quick view", "sku:", "free shipping",
 )
+
+SOURCE_LINE = re.compile(r"^\s*\d+\.\s+.+https?://", re.I)
 
 def strong_shell(line: str) -> bool:
     lower = line.lower()
@@ -40,32 +43,57 @@ def strong_code(line: str) -> bool:
     lower = line.lower()
     if any(marker in lower for marker in CODE_MARKERS):
         return True
-    return bool(re.search(r"<[a-z][^>]+>.*[{};]", line, re.I)
-                or re.search(r"\b(?:data-[a-z-]+|class=|style=)=", line, re.I))
+    return bool(
+        re.search(r"<[a-z][^>]+>.*[{};]", line, re.I)
+        or re.search(r"\b(?:data-[a-z-]+|class=|style=)=", line, re.I)
+    )
 
 def strong_commerce(line: str) -> bool:
     lower = line.lower()
     if not any(marker in lower for marker in COMMERCE_UI):
         return False
-    if "add to cart" in lower or "add to basket" in lower:
-        m = re.search(r"add to (?:cart|basket)", line, re.I)
-        tail = line[m.end():].strip(" -:|") if m else ""
-        return len(tail) < 45 or not re.search(r"[A-Za-z]{4,}", tail)
-    return ("product variants" in lower or "view cart" in lower or "checkout" in lower
-            or "click here to be notified" in lower
-            or ("quantity" in lower and ("regular price" in lower or "sold out" in lower)))
+    if "related items" in lower or "quick view" in lower:
+        return True
+    if re.search(r"\b(?:add to cart|add to basket|buy now)\b", lower):
+        return True
+    if "quantity" in lower and re.search(r"\b(?:price|cart|sku|product|decrease|increase)\b", lower):
+        return True
+    if "product variants" in lower or "view cart" in lower or "checkout" in lower:
+        return True
+    if "regular price" in lower or "notify me when this product is available" in lower:
+        return True
+    if "sold out" in lower and re.search(r"\b(?:add to cart|quantity|price|default title)\b", lower):
+        return True
+    if "free shipping" in lower and ("we ship" in lower or "in stock" in lower or re.search(r"\$\s*\d", lower)):
+        return True
+    if "sku:" in lower and re.search(r"\b(?:buy now|add to cart|description)\b", lower):
+        return True
+    return False
 
 def clean_commerce_line(line: str) -> str | None:
     if not strong_commerce(line):
         return line
     lower = line.lower()
 
-    # Keep the substantive description after a shopping-page preamble.
-    desc = re.search(r"\bdescription\s*:\s*", line, re.I)
-    if desc:
-        tail = line[desc.end():].strip(" -:|")
-        if len(tail) >= 40:
-            return tail
+    # Never rewrite a numbered source citation. Titles are allowed to contain
+    # ordinary shopping vocabulary and must remain part of the evidence trail.
+    if SOURCE_LINE.match(line):
+        return line
+
+    # Unrelated product carousels belong to the source page, not pedal research.
+    related = re.search(r"\brelated items\b", line, re.I)
+    if related:
+        prefix = line[:related.start()].strip(" -:|")
+        return prefix if len(prefix) >= 30 and "add to cart" not in prefix.lower() else None
+
+    # Store shells commonly expose a substantive description after one of
+    # these labels. Keep the research prose and discard everything before it.
+    for marker in (r"product\s+description", r"\bdescription\s*:?\s*", r"\binfo\s*&\s*specs\b"):
+        m = re.search(marker, line, re.I)
+        if m:
+            tail = line[m.end():].strip(" -:|")
+            if len(tail) >= 35:
+                return tail
 
     m = re.search(r"\badd to (?:cart|basket)\b", line, re.I)
     if m:
@@ -79,15 +107,30 @@ def clean_commerce_line(line: str) -> str | None:
             or "amazon's choice" in lower_tail
         ):
             return None
-        # Some stores append a useful product description after the button.
-        if len(tail) >= 35 and re.search(r"[A-Za-z]{4,}", tail):
-            return tail
-        return None
+        # Strip common review/store navigation after a usable product blurb.
+        m_manual = re.search(r"\bManual\s+", tail, re.I)
+        if m_manual:
+            tail = tail[m_manual.end():].strip()
+        return tail if len(tail) >= 35 and re.search(r"[A-Za-z]{4,}", tail) else None
 
-    if re.search(r"\b(?:amazon's choice|free shipping)\b", lower) and not re.search(r"\b(?:description|the |this |our |a |an )\b", lower):
-        return None
-    # Price/availability fragments without a useful description are pure UI.
-    if re.search(r"\b(?:regular price|quantity|product variants|view cart|checkout|sold out)\b", lower):
+    m = re.search(r"\bbuy now\b", line, re.I)
+    if m:
+        tail = line[m.end():].strip(" -:|")
+        return tail if len(tail) >= 35 and re.search(r"[A-Za-z]{4,}", tail) else None
+
+    # Product-specific store headers that put the real prose after a status tag.
+    for marker in (r"\blimited edition\b", r"\bfrom the [A-Z][A-Za-z0-9'’ -]+\b"):
+        m = re.search(marker, line, re.I)
+        if m:
+            tail = line[m.end():].strip(" -:|")
+            if len(tail) >= 35:
+                return tail
+
+    if "free shipping" in lower and "we ship" in lower:
+        tail = re.sub(r"^.*?\bwe ship[^.]*\.\s*", "", line, flags=re.I).strip()
+        return tail if len(tail) >= 35 else None
+
+    if re.search(r"\b(?:regular price|quantity|product variants|view cart|checkout|sold out|sku:)\b", lower):
         return None
     return None
 
