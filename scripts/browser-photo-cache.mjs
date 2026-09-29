@@ -1333,13 +1333,20 @@ async function effectsDatabaseFeedImageUrls(page, pageUrl) {
           // modern model path naturally derives "arbiter_cbs_model_001".
           const pathParts = suffix.split('/').filter(Boolean);
           const legacySlugVariants = new Set([legacySlug]);
-          if (pathParts.length >= 3) {
-            const hyphenBrand = pathParts.slice(0, 2).join('-');
-            const rest = pathParts.slice(2).join('_');
-            const hyphenatedBrandSlug = (hyphenBrand + '_' + rest)
+          if (pathParts.length >= 2) {
+            // Effects Database commonly flattens nested model paths by keeping
+            // the builder segment, then joining the remaining model segments
+            // with hyphens. For example:
+            // /model/coppergear/brontide/device -> coppergear_brontide-device_001.jpg
+            const flattenedModelSlug = (pathParts[0] + '_' + pathParts.slice(1).join('-'))
               .replace(/[^a-z0-9._-]+/gi, '_')
               .replace(/^_+|_+$/g, '');
-            if (hyphenatedBrandSlug) legacySlugVariants.add(hyphenatedBrandSlug);
+            if (flattenedModelSlug) legacySlugVariants.add(flattenedModelSlug);
+
+            const flattenedUnderscoreSlug = (pathParts[0] + '_' + pathParts.slice(1).join('_'))
+              .replace(/[^a-z0-9._-]+/gi, '_')
+              .replace(/^_+|_+$/g, '');
+            if (flattenedUnderscoreSlug) legacySlugVariants.add(flattenedUnderscoreSlug);
           }
           for (const variant of legacySlugVariants) {
             for (const suffixVariant of ['', '_001', '_01', '_1']) {
