@@ -38,7 +38,7 @@ Buzzing Bugs Audio Devices's BB01 Fuzz Pre-Amp is cataloged as a fuzz pedal.
 ### Verified color/finish evidence
 - It’s actually uncanny how effectively this thing can turn a black-panel Fender combo into a clean-ish AC30.
 
-### Verified transistor/device terms
+### Verified amp references
 - AC30.
 
 ### Verified sound evidence
