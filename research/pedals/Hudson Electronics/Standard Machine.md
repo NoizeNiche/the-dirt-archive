@@ -7,7 +7,8 @@
 - **Identity:** Hudson Electronics's Standard Machine.
 
 ## What this pedal is
-Hudson Electronics's Standard Machine is cataloged as a fuzz pedal.
+
+STANDARD MACHINE STANDARD MACHINE The Standard Machine is a sonic replica of the Ibanez Standard Fuzz.
 
 ## Colorways
 - No specific factory colorway information was established in the verified evidence packet.
@@ -36,3 +37,25 @@ Super fat and compressed octave fuzz tone which nail those 60’s, 70’s tones 
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+STANDARD MACHINE STANDARD MACHINE The Standard Machine is a sonic replica of the Ibanez Standard Fuzz.
+
+### Verified color/finish evidence
+- No specific factory colorway information was established in the verified evidence packet.
+
+### Verified version references
+- The evidence references: revision.
+
+### Verified sound evidence
+STANDARD MACHINE STANDARD MACHINE The Standard Machine is a sonic replica of the Ibanez Standard Fuzz.
+It is very close in tone (and electrically) to the classic Shin-ei built Superfuzz, but with more of everything.
+More fuzz, more volume, more extreme!
+
+### Sources checked in this pass
+1. STANDARD MACHINE – HUDSON ELECTRONICS UK: https://hudsonelectronicsuk.com/product/standard-machine/
+2. Hudson Electronics Standard Machine Ibanez Standard Fuzz Replica - Reverb: https://reverb.com/item/331673-hudson-electronics-standard-machine-ibanez-standard-fuzz-replica

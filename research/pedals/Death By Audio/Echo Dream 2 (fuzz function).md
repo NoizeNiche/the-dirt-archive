@@ -237,3 +237,20 @@ FUZZ Sets the amount of gain, from clean to fuzzed-out bliss.
 1. ECHO DREAM 2 - Death By Audio: https://deathbyaudio.com/products/echo-dream-2
 2. catalog/override source: https://killerrockandroll.com/deathbyaudio/manuals/ED2/Echo-Dream-2-Manual.pdf
 3. catalog/override source: https://www.effectsdatabase.com/model/deathbyaudio/echodream/2
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Death By Audio's Echo Dream 2 (fuzz function) is cataloged as a distortion / fuzz / overdrive pedal.
+
+### Verified sound evidence
+Echo Dream 2 (fuzz function) - **Builder:** Death By Audio - **Catalog type:** Distortion / Fuzz / Overdrive - **Identity:** Death By Audio Echo Dream 2, specifically its post-delay fuzz/gain function.
+Death By Audio's official Echo Dream 2 product page describes it as a **lush modulating echo** with a dedicated Fuzz control.
+The company states that the fuzz section is positioned after the echo and can move from clean through overdrive to fuzz, making the Echo Dream 2 a valid dirt-bearing entry for the archive even though the complete product is primarily a delay/modulation pedal.
+
+### Sources checked in this pass
+1. ECHO DREAM 2 - Death By Audio: https://deathbyaudio.com/products/echo-dream-2
+2. catalog/override source: https://killerrockandroll.com/deathbyaudio/manuals/ED2/Echo-Dream-2-Manual.pdf
+3. catalog/override source: https://www.effectsdatabase.com/model/deathbyaudio/echodream/2

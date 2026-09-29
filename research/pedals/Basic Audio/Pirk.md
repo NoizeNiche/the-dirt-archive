@@ -282,3 +282,24 @@ The low-end selector changes how much bass reaches the circuit, while Bias and G
 2. catalog/override source: https://reverb.com/item/55114779-basic-audio-pirk-fuzz-pedal
 3. Pirk — Basic Audio: https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9
 4. catalog/override source: https://images.squarespace-cdn.com/content/v1/5da9e97016ddf940acffa2d/1574292054623-XUHJAD1DVXR2AJRM6DT7/DSCF3861-Edit.jpg
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Pirk — Basic Audio Contact Store About Menu Basic Audio Contact Store About Pedal colors are subject to change.
+
+### Verified version references
+- The evidence references: revision, v1.
+
+### Verified sound evidence
+**Archive parent:** Pirk - **Builder:** Basic Audio - **Catalog type:** Fuzz / Drive - **Identity:** Harmonic Percolator-derived fuzz/drive with external Bias, a three-position low-end selector and Level/Tone/Gain controls.
+**LEVEL** - **TONE** - **GAIN** - **BIAS** - **Three-way low-end boost** selector.
+The low-end selector changes how much bass reaches the circuit, while Bias and Gain alter saturation and broken-up response.
+
+### Sources checked in this pass
+1. catalog/override source: https://coastsonic.com/collections/basic-audio/products/basic-audio-pirk-fuzz
+2. catalog/override source: https://reverb.com/item/55114779-basic-audio-pirk-fuzz-pedal
+3. Pirk &mdash; Basic Audio: https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9
+4. catalog/override source: https://images.squarespace-cdn.com/content/v1/5da9e97016ddf940acffa2d/1574292054623-XUHJAD1DVXR2AJRM6DT7/DSCF3861-Edit.jpg

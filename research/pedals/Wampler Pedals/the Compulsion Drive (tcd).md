@@ -8,6 +8,8 @@
 
 ## What this pedal is
 
+The Compulsion Drive (TCD) by Wampler Pedals is a high-performance overdrive and distortion pedal designed by Brian Wampler as a refined reinterpretation of one of the most iconic distortion circuits in modern guitar history.
+
 ## Colorways
 - No specific factory colorway information was established in the verified evidence packet.
 
@@ -34,3 +36,25 @@ Whether you’re chasing articulate crunch, harmonically rich saturation, or soa
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+The Compulsion Drive (TCD) by Wampler Pedals is a high-performance overdrive and distortion pedal designed by Brian Wampler as a refined reinterpretation of one of the most iconic distortion circuits in modern guitar history.
+
+### Verified color/finish evidence
+- No specific factory colorway information was established in the verified evidence packet.
+
+### Verified version references
+- The evidence references: revision.
+
+### Verified sound evidence
+The Compulsion Drive (TCD) by Wampler Pedals is a high-performance overdrive and distortion pedal designed by Brian Wampler as a refined reinterpretation of one of the most iconic distortion circuits in modern guitar history.
+Built to capture the dynamic response, harmonic richness, and amp-like feel of the original design, The Compulsion Drive merges raw tonal aggression with sophisticated EQ control.
+Its circuit architecture allows for a wide range of gain textures, from articulate low-gain crunch to harmonically dense high-gain distortion, while retaining exceptional touch sensitivity and note definition.
+
+### Sources checked in this pass
+1. Wampler Pedals TCD - The Compulsion Drive | Effects Database: https://www.effectsdatabase.com/model/wampler/tcd
+2. tcd | Wampler Pedals: https://www.wamplerpedals.com/products/distortion-overdrive/tcd/

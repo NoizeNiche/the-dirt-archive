@@ -114,3 +114,29 @@ The builder/demo description positions Obsidian as a vintage-style fuzz with a s
 ### Sources checked in this pass
 1. catalog/override source: https://www.effectsdatabase.com/model/charliepaolo/obsidianfuzz
 2. Charlie Paolo Custom Effects — Obsidian Fuzz: https://www.youtube.com/watch?v=LFUXlbh25Tg
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Each Obsidian Fuzz is carefully handmade from start to finish using the highest quality analog components available and is true bypass to maintain the tone of your guitar and amp.
+
+### Verified color/finish evidence
+- Each Obsidian Fuzz is carefully handmade from start to finish using the highest quality analog components available and is true bypass to maintain the tone of your guitar and amp.
+- Each Obsidian Fuzz is carefully handmade from start to finish using the highest quality analog componen - **Archive p
+
+### Verified version references
+- The evidence references: revision.
+
+### Verified transistor/device terms
+- BC108.
+
+### Verified sound evidence
+Effects Database places Obsidian Fuzz among the builder's **2017** releases.
+The builder/demo description positions Obsidian as a vintage-style fuzz with a strong, raw drive character.
+Charlie Paolo Custom Effects — Obsidian Fuzz demo: https://www.youtube.com/watch?v=LFUXlbh25Tg 2.
+
+### Sources checked in this pass
+1. Charlie Paolo Custom Effects — Obsidian Fuzz: https://www.youtube.com/watch?v=LFUXlbh25Tg
+2. catalog/override source: https://www.effectsdatabase.com/model/charliepaolo/obsidianfuzz

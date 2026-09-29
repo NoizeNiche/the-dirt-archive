@@ -8,6 +8,7 @@
 
 ## What this pedal is
 
+Mofetta Overdrive/Distortion is my tribute to the MOSFET-driven magic of a 1990s classic — the MT10 MOSTORTION tm .
 
 ## Colorways
 - No specific factory colorway information was established in the verified evidence packet.
@@ -73,6 +74,30 @@ This pass adds only claims supported by the newly admitted exact-model evidence.
 - The evidence references: revision.
 
 ### Verified sound evidence
+I made sure that it delivered the classic, amp-like overdrive, massive headroom, and versatile 3-band EQ that made the original so famous.
+But I also wanted more and added a Texture Switch that introduces actual MOSFETs into the pedal's overdrive section for a bolder, more articulate tone.
+
+### Sources checked in this pass
+1. Mofetta | Wampler Pedals: https://www.wamplerpedals.com/products/distortion-overdrive/mofetta/
+2. Wampler Pedals Mofetta | AllThePedals: https://allthepedals.com/pedals/wampler-pedals-mofetta
+3. Wampler Pedals Mofetta - Overdrive/Distortion | Effects Database: https://www.effectsdatabase.com/model/wampler/mofetta
+4. Wampler Mofetta - Reverb: https://reverb.com/p/wampler-mofetta
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Mofetta Overdrive/Distortion is my tribute to the MOSFET-driven magic of a 1990s classic — the MT10 MOSTORTION tm .
+
+### Verified color/finish evidence
+- No specific factory colorway information was established in the verified evidence packet.
+
+### Verified version references
+- The evidence references: revision.
+
+### Verified sound evidence
+Mofetta Overdrive/Distortion is my tribute to the MOSFET-driven magic of a 1990s classic — the MT10 MOSTORTION tm .
 I made sure that it delivered the classic, amp-like overdrive, massive headroom, and versatile 3-band EQ that made the original so famous.
 But I also wanted more and added a Texture Switch that introduces actual MOSFETs into the pedal's overdrive section for a bolder, more articulate tone.
 

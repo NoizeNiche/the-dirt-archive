@@ -8,6 +8,8 @@
 
 ## What this pedal is
 
+Each circuit is designed so that, when used together, they cascade into each o - **Archive parent:** Motor Honey Superdrive - **Builder:** Stomp Under Foot - **Catalog type:** Overdrive - **Identity:** Stomp Under Foot's Motor Honey Superdrive.
+
 ## Colorways
 - No specific factory colorway information was established in the verified evidence packet.
 
@@ -36,3 +38,26 @@ This wasn’t about making another overdrive, it was about creating something th
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Each circuit is designed so that, when used together, they cascade into each o - **Archive parent:** Motor Honey Superdrive - **Builder:** Stomp Under Foot - **Catalog type:** Overdrive - **Identity:** Stomp Under Foot's Motor Honey Superdrive.
+
+### Verified color/finish evidence
+- No specific factory colorway information was established in the verified evidence packet.
+
+### Verified version references
+- The evidence references: revision.
+
+### Verified sound evidence
+Motor Honey Superdrive - **Builder:** Stomp Under Foot - **Catalog type:** Overdrive - **Identity:** Stomp Under Foot's Motor Honey Superdrive.
+Each circuit is designed so that, when used together, they cascade into each other without altering your overall tone.
+I’m known for fuzz, and that is exactly why this pedal is different.
+
+### Sources checked in this pass
+1. Motor Honey Superdrive &ndash; Stomp Under Foot: https://stompunderfoot.com/products/motor-honey-superdrive
+2. Stomp Under Foot Motor Honey Superdrive &ndash; Coast Sonic: https://coastsonic.com/products/stomp-under-foot-motor-honey-superdrive
+3. Stomp Under Foot Motor Honey Superdrive | Reverb: https://reverb.com/item/99269036-stomp-under-foot-motor-honey-superdrive

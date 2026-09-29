@@ -301,3 +301,26 @@ Based on a dual Mosfet circuit, this is a pedal that slightly colors your tone a
 1. Chadderbox Effects Loud/Louder V3 | Delicious Audio: https://delicious-audio.com/chadderbox-effects-loud-louder/
 2. LOUD/LOUDER — ChadderBox Effects: https://www.chadderboxeffects.com/pedals/loudlouder
 3. Loud/Louder: https://reverb.grsm.io/DeliciousAudio771?search_term=chadderbox+Loud/Louder
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+by Paolo De Gregorio The Chadderbox Effects Loud/Louder is a simple two-knob, two-footswitch pedals that provides two boosts in one pedal, with the right channel delivering more gain and a thicker sound.
+
+### Verified color/finish evidence
+- Color options include White, Blue, Pink, 80's, and B-stock variants.
+
+### Verified version references
+- The evidence references: V2, V3, v3.
+
+### Verified sound evidence
+Delicious Audio Creative Pedals Creative Delay Tape Delay W/ Reverb Delay Distortion Fuzz Overdrive Dual Gain Dirt Boost Compr.
+by Paolo De Gregorio The Chadderbox Effects Loud/Louder is a simple two-knob, two-footswitch pedals that provides two boosts in one pedal, with the right channel delivering more gain and a thicker sound.
+Based on a dual Mosfet circuit, this is a pedal that slightly colors your tone and can provide a wide range of gain options, since the two channels can be run stacked on top of each other (left into right) or separately, in which case activating one channel deactivates the other one.
+
+### Sources checked in this pass
+1. Chadderbox Effects Loud/Louder V3 | Delicious Audio: https://delicious-audio.com/chadderbox-effects-loud-louder/
+2. LOUD/LOUDER &mdash; ChadderBox Effects: https://www.chadderboxeffects.com/pedals/loudlouder
+3. Loud/Louder: https://reverb.grsm.io/DeliciousAudio771?search_term=chadderbox+Loud/Louder

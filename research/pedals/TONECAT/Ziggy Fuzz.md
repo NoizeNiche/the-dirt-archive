@@ -7,7 +7,8 @@
 - **Identity:** TONECAT's Ziggy Fuzz.
 
 ## What this pedal is
-TONECAT's Ziggy Fuzz is cataloged as a Fuzz pedal.
+
+Ziggy Fuzz - Gold Special Edition $259.00 Sold Out Get notified by email when this product is in stock.
 
 ## Colorways
 - No specific factory colorway information was established in the verified evidence packet.
@@ -54,4 +55,26 @@ This cat fuzz that thrives on instability — because sometimes chaos is exactly
 
 ### Sources checked in this pass
 1. Brother Ziggy Fuzz Special Edition | Home of Tone Multi-Bias Fuzz Cat Pedal — TONECAT: https://www.tonecat.life/shop/p/brother-ziggy-fuzz-special-edition
+2. TONECAT Ziggy Fuzz Multi Bias Fuzz: https://www.upweymusic.au/products/tonecat-ziggy-fuzz-multi-bias-fuzz
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Ziggy Fuzz - Gold Special Edition $259.00 Sold Out Get notified by email when this product is in stock.
+
+### Verified color/finish evidence
+- No specific factory colorway information was established in the verified evidence packet.
+
+### Verified version references
+- The evidence references: revision, v1.
+
+### Verified sound evidence
+Ziggy Fuzz - Gold Special Edition $259.00 Sold Out Get notified by email when this product is in stock.
+From the Art of the Home of Tone collection , Ziggy is wild, unpredictable, and unapologetic.
+This cat fuzz that thrives on instability — because sometimes chaos is exactly what the song needs.
+
+### Sources checked in this pass
+1. Brother Ziggy Fuzz Special Edition | Home of Tone Multi-Bias Fuzz Cat Pedal &mdash; TONECAT: https://www.tonecat.life/shop/p/brother-ziggy-fuzz-special-edition
 2. TONECAT Ziggy Fuzz Multi Bias Fuzz: https://www.upweymusic.au/products/tonecat-ziggy-fuzz-multi-bias-fuzz

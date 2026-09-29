@@ -60,3 +60,26 @@ Behringer's official product documentation was cross-checked with independent ci
 ## Photo
 - **Exact pedal photograph:** Behringer official image.
 - https://cdn-media.empowertribe.com/405868682109473884a2ea03df32b205/Image_BE_0709-ACK_SF300_Left_XL.png
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Fuzz 1 is the denser classic Super Fuzz/FZ-2-styl - **Archive parent:** SF300 Super Fuzz - **Builder:** Behringer - **Catalog type:** Fuzz / Distortion / Boost - **Identity:** Three-mode analog pedal widely documented as closely following the Boss FZ-2 Hyper Fuzz, itself a modified Univox Super Fuzz/FY-6-family design.
+
+### Verified version references
+- The evidence references: revision, v3.
+
+### Verified diode terms
+- 1N34A, 1N4001, 1N4148, LED.
+
+### Verified sound evidence
+**LEVEL** - **GAIN** - **TREBLE** - **BASS** - **FUZZ 1** - **FUZZ 2** - **BOOST** - Three-position mode system selects **Fuzz 1 / Fuzz 2 / Boost**.
+**Primary lineage:** Boss **FZ-2 Hyper Fuzz**.
+The FZ-2 itself is documented in circuit-analysis communities as a modified Univox Super Fuzz / Shin-Ei FY-6-family design.
+
+### Sources checked in this pass
+1. Behringer — SF300 Super Fuzz: https://cdn-media.empowertribe.com/405868682109473884a2ea03df32b205/Image_BE_0709-ACK_SF300_Left_XL.png
+2. SF300 | Behringer: https://www.behringer.com/en/products/0709-ACK
+3. catalog/override source: https://www.freestompboxes.org/viewtopic.php?t=2824

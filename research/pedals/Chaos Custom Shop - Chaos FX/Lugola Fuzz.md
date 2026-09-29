@@ -303,3 +303,26 @@ Chaos Custom Shop Lugola Fuzz — Fuzz Pedal Specs & Where to Buy
 1. Chaos Custom Shop Lugola Fuzz — Fuzz Pedal Specs & Where to Buy | one thousand pedals: https://onethousandpedals.com/pedal/chaos-custom-shop-lugola-fuzz
 2. Lugola Fuzz - CHAOS CUSTOM SHOP: https://chaos-fx.pl/lugolafuzz.html
 3. Horrothia FX Lutz Fuzz Guitar Pedal – Malibu Music: https://malibumusic.com/products/horrothia-fx-lutz-fuzz
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Lugola Fuzz is intended to preserve the dynamic, touch-responsive Fuzz Face character while allowing more direct adjustment of the operating point and tonal contour.
+
+### Verified version references
+- The evidence references: revision.
+
+### Verified transistor/device terms
+- Germanium Fuzz.
+
+### Verified sound evidence
+Chaos Custom Shop Lugola Fuzz — Fuzz Pedal Specs & Where to Buy
+**Archive parent:** Lugola Fuzz - **Builder:** Chaos Custom Shop / Chaos FX - **Catalog type:** Fuzz - **Identity:** Analog Hendrix-era Fuzz Face-style fuzz made in Poland, with external Bias and Contour controls.
+**BIAS** - **CONTOUR** - **FUZZ** - **VOLUME** - True bypass.
+
+### Sources checked in this pass
+1. Chaos Custom Shop Lugola Fuzz — Fuzz Pedal Specs & Where to Buy | one thousand pedals: https://onethousandpedals.com/pedal/chaos-custom-shop-lugola-fuzz
+2. Lugola Fuzz - CHAOS CUSTOM SHOP: https://chaos-fx.pl/lugolafuzz.html
+3. Horrothia FX Lutz Fuzz Guitar Pedal &ndash; Malibu Music: https://malibumusic.com/products/horrothia-fx-lutz-fuzz
