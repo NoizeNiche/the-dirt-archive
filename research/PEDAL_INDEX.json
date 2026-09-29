@@ -33054,7 +33054,7 @@
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
       "image_source_priority": 1060,
-      "image_source_url": "https://files.effectsdatabase.com/gear/thumbs/deviever_peep_001.jpg"
+      "image_source_url": "https://files.effectsdatabase.com/gear/pics/deviever_peep_001.jpg"
     },
     {
       "company": "Devi Ever FX",
@@ -44241,7 +44241,8 @@
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
       "image_source_priority": 50000,
-      "image": ""
+      "image": "./assets/pedals/mad-professor-amplification/golden-cello/primary.webp",
+      "image_source_url": "https://www.russomusic.com/cdn/shop/files/ISS14518CMadProfessorUsedGoldenCelloDelayDistortionWBox.jpg?v=1690752637&width=1200"
     },
     {
       "company": "Mad Professor Amplification",
@@ -45058,7 +45059,9 @@
       "research_record": "./research/pedals/Mask Audio Electronics/PART GARDEN.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://maskaudioelectronics.com/products/part-garden"
+      "image_source_page": "https://maskaudioelectronics.com/products/part-garden",
+      "image_source_url": "https://maskaudioelectronics.com/cdn/shop/files/20250920_092003_160x160.jpg?v=1769883161",
+      "image": ""
     },
     {
       "company": "Mask Audio Electronics",
