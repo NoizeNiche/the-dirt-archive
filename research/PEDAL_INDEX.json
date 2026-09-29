@@ -16651,9 +16651,15 @@
       ],
       "source_page": "https://browneamps.com/the-alkene",
       "research_record": "./research/pedals/PRP Batch 120/browne-amplification-alkene-nashville-drive.md",
-      "image_source_page": "https://browneamps.com/the-alkene",
+      "image_source_page": "https://www.browneamps.com/store/p/the-alkene-nashville-overdrive",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_pages": [
+        "https://www.browneamps.com/store/p/the-alkene-nashville-overdrive"
+      ],
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 1369
     },
     {
       "company": "Browne Amplification",
@@ -16793,9 +16799,15 @@
       ],
       "source_page": "https://browneamps.com/the-alkene",
       "research_record": "./research/pedals/PRP Batch 123/browne-amplification-the-alkene-nashville-overdrive.md",
-      "image_source_page": "https://browneamps.com/the-alkene",
+      "image_source_page": "https://www.browneamps.com/store/p/the-alkene-nashville-overdrive",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_pages": [
+        "https://www.browneamps.com/store/p/the-alkene-nashville-overdrive"
+      ],
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 1370
     },
     {
       "company": "Browne Amplification",
@@ -22800,12 +22812,13 @@
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
       "image_source_pages": [
-        "https://www.rockboard.de/en/pedalPedia/Champion-City-Effects/El-Gato-Malo/68976699/"
+        "https://www.rockboard.de/en/pedalPedia/Champion-City-Effects/El-Gato-Malo/68976699/",
+        "https://reverb.com/item/3707665-champion-city-effects-el-gato-malo-2016-acid-etched-metallic-blue"
       ],
-      "image_source_page": "https://www.rockboard.de/en/pedalPedia/Champion-City-Effects/El-Gato-Malo/68976699/",
+      "image_source_page": "https://reverb.com/item/3707665-champion-city-effects-el-gato-malo-2016-acid-etched-metallic-blue",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 637
+      "image_source_priority": 50000
     },
     {
       "company": "Champion City Effects",
@@ -36848,7 +36861,14 @@
       "source_page": null,
       "research_record": "./research/pedals/Fjord Fuzz/Odin.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_pages": [
+        "https://www.perfectcircuit.com/fjord-fuzz-odin.html"
+      ],
+      "image_source_page": "https://www.perfectcircuit.com/fjord-fuzz-odin.html",
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 1373
     },
     {
       "company": "Fjord Fuzz",
@@ -38060,7 +38080,14 @@
       "source_page": null,
       "research_record": "./research/pedals/Greer Amps/Ghetto Stomp.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_pages": [
+        "https://www.greeramps.com/blogs/news/12647709-new-products-390-od-2014-ghetto-stomp"
+      ],
+      "image_source_page": "https://www.greeramps.com/blogs/news/12647709-new-products-390-od-2014-ghetto-stomp",
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 1372
     },
     {
       "company": "Greer Amps",
@@ -38152,7 +38179,14 @@
       "source_page": null,
       "research_record": "./research/pedals/Greer Amps/Moonshot Germanium Pre.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_pages": [
+        "https://www.greeramps.com/products/moonshot-germanium-pre"
+      ],
+      "image_source_page": "https://www.greeramps.com/products/moonshot-germanium-pre",
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 1371
     },
     {
       "company": "Greer Amps",
