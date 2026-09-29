@@ -87,6 +87,9 @@ jobs:
           PHOTO_BROWSER_MAX_DEEP_REVIEW_CYCLES: "2"
         run: node scripts/browser-photo-cache.mjs
 
+      - name: Reset photo state discovered during browser recovery
+        run: python scripts/reset-photo-recovery-targets.py
+
       - name: Convert recovered images and synchronize state
         run: |
           python scripts/cache-pedal-images.py
