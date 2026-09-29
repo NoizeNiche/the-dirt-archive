@@ -47,16 +47,6 @@ header{padding:26px 0 20px;border-bottom:1px solid var(--line);background:rgba(2
 .crumb{color:var(--muted);font-size:.72rem;font-weight:900;text-transform:uppercase;letter-spacing:.08em;margin-bottom:9px}
 h1{margin:0;font-size:clamp(2.5rem,7vw,5.8rem);line-height:.88;letter-spacing:-.065em}
 .sub{margin:12px 0 0;color:var(--muted);font-size:.85rem;font-weight:800}
-.recordStatus{display:flex;flex-wrap:wrap;gap:6px;margin-top:10px}
-.statusPill{display:inline-flex;align-items:center;min-height:25px;padding:5px 8px;border:1px solid var(--line);border-radius:999px;background:#f5f2ea;color:var(--muted);font-size:.59rem;font-weight:950;letter-spacing:.06em;text-transform:uppercase}
-.statusPill.verified{background:#e7f6a3;border-color:#c9df62;color:#273000}
-.statusPill.surface{background:#eee9df;color:#5d594f}
-.statusPill.unknown{background:#f1eee7;color:#777167}
-.statusPill.photo{background:#ece9df;color:#48453f}
-.statusPill.photoMissing{background:#f3ede5;color:#8a5d3a}
-.statusPill.evidence{background:#e9f5aa;border-color:#c9df62;color:#273000}
-.statusPill.conflict{background:#f7e5d9;border-color:#ddb89e;color:#744425}
-.statusPill.sourceCount{background:#ebe8e0;color:#514e47}
 
 .sourceLink{color:inherit;text-decoration:underline;text-decoration-thickness:1px;text-underline-offset:2px}
 .sourceRow{margin:7px 0;color:var(--muted);font-size:.76rem;line-height:1.5;padding-left:12px;border-left:2px solid var(--line)}
@@ -142,7 +132,7 @@ body::before{
   background-position:0 0,9px 12px;background-size:18px 18px,19px 19px;
 }
 .siteHeaderDetail{padding:12px 0 7px;border-bottom:1px solid #3c3d39;background:linear-gradient(180deg,#1c1d1a,#151614)}
-.siteHeaderDetail .back{margin-bottom:10px}.siteHeaderDetail .crumb{margin-bottom:6px}.siteHeaderDetail h1{font-size:clamp(2.25rem,5.3vw,4.6rem);line-height:.9}.siteHeaderDetail .sub{margin-top:7px}.siteHeaderDetail .recordStatus{margin-top:7px}.crumb{color:#92918a}.sub{color:#9c9a92}h1{color:#f6f4ee}
+.siteHeaderDetail .back{margin-bottom:10px}.siteHeaderDetail .crumb{margin-bottom:6px}.siteHeaderDetail h1{font-size:clamp(2.25rem,5.3vw,4.6rem);line-height:.9}.siteHeaderDetail .sub{margin-top:7px}.crumb{color:#92918a}.sub{color:#9c9a92}h1{color:#f6f4ee}
 main{padding:8px 0 60px}
 .boardSurface{
   position:relative;overflow:hidden;padding:18px 28px 28px;border:1px solid #10110f;border-radius:14px 14px 22px 22px;

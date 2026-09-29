@@ -24,9 +24,13 @@ This is the white production finish of the DRV MOD 1. 1981 Inventions describes 
 ## Version changes
 No additional circuit change is documented for the white finish. It is retained as the white catalog presentation of MOD 1.
 
+## Device architecture
+- Op-amp based distortion circuit.
+- Burr Brown OPA2134 op amp is documented by 1981 Inventions. [1]
+
 ## Transistor
-- **Technology:** Op-amp based distortion circuit.
-- **Exact transistor/device:** Not publicly documented.
+- Exact production transistor/device information was not separately documented.
+- **Exact transistor/device:** Unknown.
 
 ## Diode
 - **Type:** Exact production clipping diodes are not publicly documented.
