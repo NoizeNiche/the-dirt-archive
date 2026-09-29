@@ -28,7 +28,11 @@ Himmelstrutz Elektro Art's FETTO Apache is cataloged as a Overdrive pedal.
 
 ## Sound
 
-No verified pedal-specific sonic summary is currently established in the archive.
+Himmelstrutz Elektro Art FETTO Apache Home News Amps Pedals Custom Shop Download About Contact Himmelstrutz Elektro Art FETTO Apache: X-Power Overdrive AVAILABLE ON DEMAND BACKGROUND While ‍making ‍our ‍remarkable ‍ FETTO ‍LaRocca ‍for ‍sure ‍we ‍got ‍curious: ‍how ‍can ‍this ‍thing ‍both ‍sound ‍and ‍feel ‍so ‍good?
+
+The question though in this case was: Why is FETTO LaRocca so punchy, so dynamic, so articulated, so “real” and why do not transistor/solid state solutions react/sound or feel anywhere close to tubes in about every case?
+
+‍Without ‍a ‍doubt ‍we ‍say ‍this ‍is ‍the ‍most ‍powerful, ‍punchy, ‍dynamic, ‍articulated ‍solid ‍state ‍guitar ‍overdrive ‍we ‍have yet ‍experienced – actually ‍also ‍tube ‍versions ‍included: ‍rhythmic, ‍light, ‍real!
 
 ## Sources checked
 1. Himmelstrutz Elektro Art FETTO Apache: https://www.himmelstrutz.com/fetto-apache/
@@ -36,6 +40,28 @@ No verified pedal-specific sonic summary is currently established in the archive
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Himmelstrutz Elektro Art's FETTO Apache is cataloged as a Overdrive pedal.
+
+### Verified color/finish evidence
+- ‍Feb ‍2010 ‍and ‍further ‍on: ‍White ‍with ‍grey/silver ‍print CONTROLS PUSH SWITCH ► GIMME – True bypass of the high voltage (DC 375/220 volts!) Overdrive/Distortion.
+
+### Verified version references
+- The evidence references: revision.
+
+### Verified sound evidence
+Himmelstrutz Elektro Art FETTO Apache Home News Amps Pedals Custom Shop Download About Contact Himmelstrutz Elektro Art FETTO Apache: X-Power Overdrive AVAILABLE ON DEMAND BACKGROUND While ‍making ‍our ‍remarkable ‍ FETTO ‍LaRocca ‍for ‍sure ‍we ‍got ‍curious: ‍how ‍can ‍this ‍thing ‍both ‍sound ‍and ‍feel ‍so ‍good?
+The question though in this case was: Why is FETTO LaRocca so punchy, so dynamic, so articulated, so “real” and why do not transistor/solid state solutions react/sound or feel anywhere close to tubes in about every case?
+‍Without ‍a ‍doubt ‍we ‍say ‍this ‍is ‍the ‍most ‍powerful, ‍punchy, ‍dynamic, ‍articulated ‍solid ‍state ‍guitar ‍overdrive ‍we ‍have yet ‍experienced – actually ‍also ‍tube ‍versions ‍included: ‍rhythmic, ‍light, ‍real!
+
+### Sources checked in this pass
+1. Himmelstrutz Elektro Art FETTO Apache: https://www.himmelstrutz.com/fetto-apache/
+2. Himmelstrutz Elektro Art: https://gtarfx.com/guitarpedal/manufacturer/himmelstrutz-elektro-art
 
 ## Deep research verification
 

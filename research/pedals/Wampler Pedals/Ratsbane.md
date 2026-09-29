@@ -8,6 +8,7 @@
 
 ## What this pedal is
 
+Top |' data-navmenu="off" data-hashurl="off" data-menuSlider="off" data-continue-autoplay="off" data-outside-nav="off" data-autoplay="off" > 4 5 If you are looking for a single pedal solution with multiple degrees of gain from light overdrive to full out saturated fuzz tones, then you’ll surely love the Ratsbane.
 
 ## Colorways
 - No specific factory colorway information was established in the verified evidence packet.
@@ -56,6 +57,34 @@ This pass adds only claims supported by the newly admitted exact-model evidence.
 - The evidence references: V2, revision.
 
 ### Verified sound evidence
+The full, dynamic range, and sheer sonic force of this circuit is what makes it a true king amongst distortion pedals.
+Turn the distortion control all the way down for a deep but powerful gain booster.
+
+### Sources checked in this pass
+1. Ratsbane | Wampler Pedals: https://www.wamplerpedals.com/products/fuzz/ratsbane/
+2. Wampler Pedals Ratsbane - High-Gain Distortion | Effects Database: https://www.effectsdatabase.com/model/wampler/ratsbane
+3. Wampler Pedals Ratsbane - Effects Pedals: https://www.effects-pedals.info/p/wampler-pedals-ratsbane/
+4. Wampler Ratsbane Distortion Effects Pedal Gray - Natural Reverb Effects Pedals That Create Dreamy Soundscapes: https://www.tonereverb.com/product/wampler-ratsbane-distortion-effects-pedal-gray/
+5. Wampler Ratsbane — Distortion Pedal | Equipboard: https://equipboard.com/items/wampler-ratsbane
+6. Wampler Ratsbane Distortion Effects Pedal Gray | Guitar Center: https://www.guitarcenter.com/Wampler/Ratsbane-Distortion-Effects-Pedal-Gray-1500000344973.gc
+7. PDF Wampler Ratsbane-Overdrive Manual 9-10-20.indd 1 11/1/21 2:21 PM: https://manuals.plus/m/07f266641985a7baec42d5445483f7b5802f31aa039fd1a8dd2d4a5bfa222178_optim.pdf
+8. PDF Wampler Ratsbane-Overdrive Manual 9-10-20 - Bax Music: https://www.bax-shop.nl/downloads/products/9000-0119-6816/wampler_-ratsbane-overdrive_manual-9-10-20.pdf
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Top |' data-navmenu="off" data-hashurl="off" data-menuSlider="off" data-continue-autoplay="off" data-outside-nav="off" data-autoplay="off" > 4 5 If you are looking for a single pedal solution with multiple degrees of gain from light overdrive to full out saturated fuzz tones, then you’ll surely love the Ratsbane.
+
+### Verified color/finish evidence
+- No specific factory colorway information was established in the verified evidence packet.
+
+### Verified version references
+- The evidence references: V2, revision.
+
+### Verified sound evidence
+Top |' data-navmenu="off" data-hashurl="off" data-menuSlider="off" data-continue-autoplay="off" data-outside-nav="off" data-autoplay="off" > 4 5 If you are looking for a single pedal solution with multiple degrees of gain from light overdrive to full out saturated fuzz tones, then you’ll surely love the Ratsbane.
 The full, dynamic range, and sheer sonic force of this circuit is what makes it a true king amongst distortion pedals.
 Turn the distortion control all the way down for a deep but powerful gain booster.
 

@@ -117,3 +117,25 @@ Controlled Chaos Controls on the BASS BRASSMASTER FUZZ allow you to adjust how m
 ### Sources checked in this pass
 1. Behringer — Bass Brassmaster: https://cdn-media.empowertribe.com/e8512eeea7db4bd38e9189f0d69b6d00/Image_BE_0709-AKU_BASS-BRASSMASTER-FUZZ_Left_XL.png
 2. BASS BRASSMASTER FUZZ | Behringer: https://www.behringer.com/en/products/0709-AKU
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Controlled Chaos Controls on the BASS BRASSMASTER FUZZ allow you to adjust how much of your clean sound is mixed in (BASS VOL), fuzz mix (BRASS VOL) as well as the amount of fuzz distortion (SENSITIVITY).
+
+### Verified color/finish evidence
+- Standard production finish is treated as the canonical cosmetic presentation.
+
+### Verified version references
+- The evidence references: revision.
+
+### Verified sound evidence
+**BRASS VOL:** Level of the fuzz/brass path.
+**SENSITIVITY:** Fuzz/sensitivity response.
+**BRASS:** Changes the brass/fuzz voicing.
+
+### Sources checked in this pass
+1. Behringer — Bass Brassmaster: https://cdn-media.empowertribe.com/e8512eeea7db4bd38e9189f0d69b6d00/Image_BE_0709-AKU_BASS-BRASSMASTER-FUZZ_Left_XL.png
+2. BASS BRASSMASTER FUZZ | Behringer: https://www.behringer.com/en/products/0709-AKU

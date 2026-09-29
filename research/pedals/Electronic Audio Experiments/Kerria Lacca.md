@@ -7,7 +7,8 @@
 - **Identity:** Electronic Audio Experiments's Kerria Lacca.
 
 ## What this pedal is
-Electronic Audio Experiments's Kerria Lacca is cataloged as an overdrive pedal.
+
+The Kerria Lacca swaps out EAE’s vintage-style Percolator for our Lil Pig and, much like any other time we show up, the result is mayhem.
 
 ## Colorways
 - No specific factory colorway information was established in the verified evidence packet.
@@ -36,3 +37,28 @@ Collaborations 0xEAE Boost A razor-sharp boost/overdrive with a massive output.
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+The Kerria Lacca swaps out EAE’s vintage-style Percolator for our Lil Pig and, much like any other time we show up, the result is mayhem.
+
+### Verified color/finish evidence
+- No specific factory colorway information was established in the verified evidence packet.
+
+### Verified version references
+- The evidence references: V1, revision.
+
+### Verified sound evidence
+Electrofoods / Electronic Audio Experiments Kerria Lacca Other/unknown PreAmp Distortion Dimensions 105 mm wide 118 mm high Current Draw ?
+MG ID: 33123 Cornfed preamp/porkolating fuzz combo pal John Snyder from Electronic Audio Experiments is the modern father of the absurdly well-considered analog dirt circuit.
+This is like the tone knob on your guitar, but backwards - the further clockwise you go, the more highs you cut.
+
+### Sources checked in this pass
+1. Facebook: https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2FElectronicAudioExperiments%2Fphotos%2Fhere-is-the-kerria-lacca-our-collaboration-with-electrofoodspedals-featuring-two%2F2438793153063399%2F
+2. Other/unknown Electrofoods / Electronic Audio Experiments Kerria Lacca - Pedal on ModularGrid: https://modulargrid.net/p/other-unknown-electrofoods-electronic-audio-experiments-kerria-lacca
+3. Kerria Lacca &mdash; ELECTROFOODS ULTD: https://www.electrofoods.space/kerria-lacca
+4. KERRIA LACCA | Electrofoods Ultd: https://store.electrofoods.space/product/kerria-lacca
+5. Legacy Products &mdash; Electronic Audio Experiments: https://www.electronicaudioexperiments.com/legacy

@@ -103,3 +103,23 @@ DEADASTRONAUTFX SKINWALKER HI GAIN DISTORTION PCB.
 1. SKINWALKER by deadastronautfx: https://deadastronaut.wixsite.com/effects/skinwalker
 2. DeadastronautFX — Skinwalker: https://www.youtube.com/watch?v=XTbQg5HZQVY
 3. Thermionic Effects - Thermionic Studios: https://thermionic-studios.com/wiki/index.php?title=Thermionic_Effects
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+A separate builder video published December 29, 2017 is titled **SKINWALKER hi Gain distortion** and states that the designer developed it as a high-gain metal distortion, with PCB projects available.
+
+### Verified transistor/device terms
+- 2n5457.
+
+### Verified sound evidence
+DEADASTRONAUTFX SKINWALKER HI GAIN DISTORTION PCB.
+'SKINWALKER High gain distortion PREAMP ​ Get ready to chunk up some heavy riffs and screaming solos with the skinwalker.
+​ uses J201 or 2n5457 FETS in a mu-amp configuration for low noise hi gain ​ go straight in with your guitar on a clean channel or alternatively put the skinwalker in your amps send return loop and use the skinwalker as a preamp.
+
+### Sources checked in this pass
+1. SKINWALKER by deadastronautfx: https://deadastronaut.wixsite.com/effects/skinwalker
+2. DeadastronautFX — Skinwalker: https://www.youtube.com/watch?v=XTbQg5HZQVY
+3. Thermionic Effects - Thermionic Studios: https://thermionic-studios.com/wiki/index.php?title=Thermionic_Effects

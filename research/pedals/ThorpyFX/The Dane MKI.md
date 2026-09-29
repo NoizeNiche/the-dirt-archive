@@ -8,7 +8,7 @@
 
 ## What this pedal is
 
-THE DANE MKI THE DANE is a creation designed to meet the exacting needs of Danish Pete.
+I/O Normal TRS Quantity Decrease quantity for THE DANE MKI Increase quantity for THE DANE MKI Add to cart Description THE DANE MKI THE DANE is a creation designed to meet the exacting needs of Danish Pete.
 
 ## Colorways
 - No specific factory colorway information was established in the verified evidence packet.
@@ -45,6 +45,28 @@ This pass adds only claims supported by the newly admitted exact-model evidence.
 
 ### Verified description
 THE DANE MKI THE DANE is a creation designed to meet the exacting needs of Danish Pete.
+
+### Verified color/finish evidence
+- No specific factory colorway information was established in the verified evidence packet.
+
+### Verified version references
+- The evidence references: MKI, mki, revision.
+
+### Verified sound evidence
+THE DANE has two sides - a complex light to medium gain overdrive on the left and a high headroom super clean boost on the right.
+The pedal is designed so that the boost runs into the drive side.
+This yields three distinct tonal variations ranging from clean boost all the way through to full and fat saturation.
+
+### Sources checked in this pass
+1. THE DANE MKI: https://thorpyfx.com/en-us/products/the-dane-overdrive-and-booster-peter-danish-pete-honores-signature-pedal
+2. ThorpyFX Ltd THE DANE MKI - Shop: https://shop.app/products/1469690052721/the-dane-mki
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+I/O Normal TRS Quantity Decrease quantity for THE DANE MKI Increase quantity for THE DANE MKI Add to cart Description THE DANE MKI THE DANE is a creation designed to meet the exacting needs of Danish Pete.
 
 ### Verified color/finish evidence
 - No specific factory colorway information was established in the verified evidence packet.

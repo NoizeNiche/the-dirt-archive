@@ -129,3 +129,30 @@ CD4049 chip, big 330uf cap - incredible amount of volume output from this pedal,
 ### Sources checked in this pass
 1. LEGITIMATE BEEF boost pedal: https://www.chicagostompworks.com/store/p184/LEGITIMATE_BEEF_boost_pedal.html
 2. catalog/override source: https://www.pedalboard.org/strom-liste/chicago-stompworks/
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+The builder positions Legitimate Beef as a warm, rumbly and unusually loud boost/overdrive that preserves low end and is intended to push an amplifier's front end.
+
+### Verified color/finish evidence
+- LEGITIMATE BEEF boost pedal Home HANDBUILT PEDALS MICRO PEDALS BARE BOX DEALS ACCESSORIES HANDBUILT PEDALS > LEGITIMATE BEEF boost pedal LEGITIMATE BEEF boost pedal SKU: $59.99 $59.99 Unavailable per item LEGITIMATE BEEF: The Chicago Stompworks recreation of the original Red Llama pedal - huge db output, warm crunch...
+- **Primary reference:** Way Huge **Red Llama** / Tube Sound Fuzz family.
+- Exact control labeling follows the simple Red Llama-style boost/drive concept.
+
+### Verified version references
+- The evidence references: revision.
+
+### Verified diode terms
+- LED.
+
+### Verified sound evidence
+LEGITIMATE BEEF boost pedal Home HANDBUILT PEDALS MICRO PEDALS BARE BOX DEALS ACCESSORIES HANDBUILT PEDALS > LEGITIMATE BEEF boost pedal LEGITIMATE BEEF boost pedal SKU: $59.99 $59.99 Unavailable per item LEGITIMATE BEEF: The Chicago Stompworks recreation of the original Red Llama pedal - huge db output, warm crunch...
+CD4049 chip, big 330uf cap - incredible amount of volume output from this pedal, and a super warm rumbly overdrive that doesn't thin out or lose ANY bottom end.
+**Primary reference:** Way Huge **Red Llama** / Tube Sound Fuzz family.
+
+### Sources checked in this pass
+1. LEGITIMATE BEEF boost pedal: https://www.chicagostompworks.com/store/p184/LEGITIMATE_BEEF_boost_pedal.html
+2. catalog/override source: https://www.pedalboard.org/strom-liste/chicago-stompworks/

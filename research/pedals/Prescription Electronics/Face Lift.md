@@ -27,7 +27,11 @@ Prescription Electronics's Face Lift is cataloged as a fuzz pedal.
 
 ## Sound
 
-No verified pedal-specific sonic summary is currently established in the archive.
+**Archive parent:** Face Lift - **Builder:** Prescription Electronics - **Catalog type:** Fuzz - **Identity:** Prescription Electronics's Face Lift.
+
+Prescription Electronics's Face Lift is cataloged as a fuzz pedal.
+
+Forums Specialty Area The Tone Zone and Gig Rigs JavaScript is disabled.
 
 ## Sources checked
 1. Prescription Electronics Face Lift 1990s - Early 3 Knob | Reverb: https://reverb.com/item/92037850-prescription-electronics-face-lift-1990s-early-3-knob-version-white
@@ -38,6 +42,32 @@ No verified pedal-specific sonic summary is currently established in the archive
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Prescription Electronics's Face Lift is cataloged as a fuzz pedal.
+
+### Verified color/finish evidence
+- No specific factory colorway information was established in the verified evidence packet.
+- Reverb: https://reverb.com/item/92037850-prescription-electronics-face-lift-1990s-early-3-knob-version-white 2.
+
+### Verified version references
+- The evidence references: revision.
+
+### Verified sound evidence
+**Archive parent:** Face Lift - **Builder:** Prescription Electronics - **Catalog type:** Fuzz - **Identity:** Prescription Electronics's Face Lift.
+Prescription Electronics's Face Lift is cataloged as a fuzz pedal.
+Forums Specialty Area The Tone Zone and Gig Rigs JavaScript is disabled.
+
+### Sources checked in this pass
+1. Prescription Electronics Face Lift 1990s - Early 3 Knob | Reverb: https://reverb.com/item/92037850-prescription-electronics-face-lift-1990s-early-3-knob-version-white
+2. Prescription Electronics Face Lift (Three Knob Silicon): https://equipboard.com/items/prescription-electronics-face-lift-three-knob-silicon
+3. Prescription Electronics Face Lift report | The Les Paul Forum: https://www.lespaulforum.com/index.php?threads/prescription-electronics-face-lift-report.57154/
+4. Prescription Electronics Inc Face Lift | eBay: https://www.ebay.com/itm/188831681201
+5. Prescription Electronics Face Lift - Effects Database: https://www.effectsdatabase.com/model/prescription/facelift
 
 ## Deep research verification
 

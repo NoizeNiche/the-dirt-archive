@@ -7,7 +7,8 @@
 - **Identity:** LICHTLÆRM AUDIO's Medusa.
 
 ## What this pedal is
-LICHTLÆRM AUDIO's Medusa is cataloged as a distortion pedal.
+
+EU VAT/Mwst., plus shipping The Medusa is the successor of the probably most infamous pedal we created during Lichtlaerms first life: the Breathe//Die.
 
 ## Colorways
 - No specific factory colorway information was established in the verified evidence packet.
@@ -36,3 +37,22 @@ Chorus · Vibrato · Tape Warble · Memory Blur €199.00 PandorA – Compact Po
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+EU VAT/Mwst., plus shipping The Medusa is the successor of the probably most infamous pedal we created during Lichtlaerms first life: the Breathe//Die.
+
+### Verified color/finish evidence
+- So now you can decide between the filthy distortion of the black/orange box made famous in Sweden or a modern in-your-face kind of saturation that still has access to the infamous EQ of the HM2.
+
+### Verified sound evidence
+handmade in Berlin Contact Shop Shop Medusa - Grinding Death Metal Distortion Next Ragnarok - Apocalyptic Tube Distortion//Preamp Medusa - Grinding Death Metal Distortion Medusa - Grinding Death Metal Distortion €199.00 incl.
+As a collaboration with local Berlin band “Breathe//Die” it was the first HM2-style pedal to feature a noise reduction circuit, boost and an extended feature set in a compact enclosure.
+We took the first design and moved the boost into the core circuit resulting in up to three times the gain the classic chainsaw pedal offers you while also allowing you in to use our well-known cut control to shape the low end and create punchy palm mutes that the original was never capable of.
+
+### Sources checked in this pass
+1. Death Metal Chainsaw Distortion | LICHTLÆRM AUDIO: https://lichtlaermaudio.com/shop/medusa
+2. Lichtlærm Audio - Medusa | Distorsion énorme inpirée de la HM2 État Neuf: https://palf.fr/saturation/distorsion/disto-metal/lichtlaerm-audio-medusa.html
