@@ -334,6 +334,27 @@ def strong_verified_sound(candidate: str) -> bool:
     )
 
 
+def fallback_verified_sound(markdown: str) -> str:
+    deep = section_text(markdown, "Deep research verification")
+    if not deep:
+        return ""
+    kept = []
+    for raw in deep.splitlines():
+        value = raw.strip()
+        if not value or value.startswith(("-", "*", "Source:")):
+            continue
+        visible = markdown_visible(value)
+        lower = visible.lower()
+        if len(visible) < 90 or obvious_scrape_payload(visible):
+            continue
+        if re.search(
+            r"\b(?:sound|tone|voic|fuzz|distortion|overdrive|response|texture|saturation|breakup|grit|boost|crunch|dynamic|sustain|harmonic|aggressive|warm|sweet|buzzy|spitting|thick|tight|high-gain|low-gain)\b",
+            lower,
+        ):
+            kept.append(visible)
+    return "\n".join(kept[:4]).strip()
+
+
 def replace_section_body(markdown: str, heading: str, body: str) -> str:
     pattern = re.compile(
         rf"(?ms)^##\s+{re.escape(heading)}\s*$\n.*?(?=^##\s+|\Z)"
@@ -454,8 +475,10 @@ def promote_verified_prose(markdown: str) -> str:
         )
 
     verified_sound = candidate_lines(
-        deep_verified_subsection(updated, "Verified sound evidence")
+        deep_verified_subsection(markdown, "Verified sound evidence")
     )
+    if not strong_verified_sound(verified_sound):
+        verified_sound = fallback_verified_sound(markdown)
     if (
         weak_visible_sound(updated)
         and strong_verified_sound(verified_sound)
