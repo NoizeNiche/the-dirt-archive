@@ -7,59 +7,36 @@
 - **Identity:** Dwarfcraft Devices's Silver Rose v2.
 
 ## What this pedal is
-Dwarfcraft Devices Silver Rose v2 (3 customer reviews) &#36;350.00 &#36;149.00 Dwarfcraft Devices Silver Rose v2 Fuzz PedalThis thing should probably be called the Drama Queen, given the history.
+The Silver Rose v2 combines a Super Fuzz-style circuit with Dwarfcraft's **Eau Claire Thunder** fuzz architecture and an additional EQ section. The result covers raspy, mid-scooped classic fuzz as well as warmer, woollier and more aggressive distortion textures.
 
 ## Colorways
-- No specific factory colorway information was established in the verified evidence packet.
+- No complete factory colorway chronology was established in the checked sources.
 
 ## Versions and factory options
-- The verified evidence references: V2, v2.
-- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+- **Silver Rose v2** is the documented second-generation model.
+- Combines the Super Fuzz-derived side with Eau Claire Thunder-style circuitry.
+- Dedicated EQ section expands the range of the combined fuzz voices.
+- Exact control names and production component details vary by source and are not over-specified here.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- The record is explicitly for **v2**.
+- Earlier Silver Rose hardware is not merged into the v2 specification.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
+- Exact production semiconductor details were not established in the checked sources.
 - **Exact transistor/device:** Unknown.
 
 ## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- Exact clipping/rectifier diode information was not established.
 - **Exact part:** Unknown.
 
 ## Sound
-Dwarfcraft Devices Silver Rose v2 | Pedals and Effects | acoguitar.com FREE SHIPPING ON ORDERS OVER $30 Cart Home 6 String Acoustic Guitars Acoustic Guitars Beginners Acoustic Guitars Classical Guitars Left Handed Acoustic Guitars Left Handed Classical 12 String Acoustic Guitars Strings Acoustic Acoustic Guitar Accessories Bass Guitars Acoustic Bass Guitars Beginners Bass Guitars Fretless Basses Strings Bass Left Handed Bass Guitars Short Scale Basses Solid Body Basses 4 String Bass Guitars 5 String Bass Guitars 6 String Bass Guitars Electric Guitars Guitars Electric 3/4 Sized Electric Guitars 7 String Electric Guitars 8 String Electric Guitars Beginners Electric Guitars Solid Body Electric Guitars Strings Electric Left Handed Electric Guitars Semi Acoustic & Hollow Body Guitars Electric Guitar Accessories Electric Guitar Amps Electric Guitar Pedals Acoustic Guitar Drums Drum Parts Drum Sticks Drum Sticks & Brushe Drumheads Guitars Parts Accessories Amplifier Pedals Pedals and Effects Strap Effect Pedals Effects Fuzz Effects Overdrive Effects Processor Shop Home &#47; Pedals and Effects &#47; Dwarfcraft Devices Silver Rose v2 Sale!
-Dwarfcraft Devices Silver Rose v2 (3 customer reviews) &#36;350.00 &#36;149.00 Dwarfcraft Devices Silver Rose v2 Fuzz PedalThis thing should probably be called the Drama Queen, given the history.
-This monster pedal combines a version of the classic Superfuzz circuit with a Dwarfcraft Eau Claire Thunder, along side an EQ that will get Add to cart SKU: L60673588 Category: Pedals and Effects Description Additional information Reviews Introduction Dwarfcraft Devices Silver Rose v2 Fuzz Pedal This thing should probably be called the Drama Queen, given the history.
+The Super Fuzz side supplies raspy classic-rock and mid-scooped fuzz textures. The Eau Claire Thunder side adds a warmer, woollier character with aggressive distortion available at higher settings. The EQ section lets the combined voice be shaped toward different amplifier and instrument contexts.
 
 ## Sources checked
-1. Dwarfcraft Devices Silver Rose v2 - What To Know Where To Buy: https://equipboard.com/items/dwarfcraft-devices-silver-rose-v2
-2. Dwarfcraft Devices Silver Rose v2 | Pedals and Effects | acoguitar.com: https://www.acoguitar.com/product/dwarfcraft-devices-silver-rose-v2/
-3. Dwarfcraft Devices Sil Rose V2 &ndash; Motor City Guitar: https://motorcityguitar.com/products/dwarfcraft-devices-silver-rose-v2?variant=45056542030
+1. Equipboard - Dwarfcraft Silver Rose v2: https://equipboard.com/items/dwarfcraft-devices-silver-rose-v2
+2. Effects Database - Dwarfcraft Silver Rose: https://www.effectsdatabase.com/model/dwarfcraft/silverrose
+3. Reverb - Dwarfcraft Silver Rose V2: https://reverb.com/item/94161004-dwarfcraft-devices-silver-rose-v2
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
-
-## Deep research verification
-
-This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
-
-### Verified description
-Sku: DWARFSILVRSVT Brand: Dwarfcraft Devices Dwarfcraft Devices Silver Rose v2 Fuzz Pedal This thing should probably be called the Drama Queen, given the history.
-
-### Verified version references
-- The evidence references: V2, v2.
-
-### Verified sound evidence
-Sku: DWARFSILVRSVT Brand: Dwarfcraft Devices Dwarfcraft Devices Silver Rose v2 Fuzz Pedal This thing should probably be called the Drama Queen, given the history.
-You can get those old school Superfuzz tones, from raspy classic rock to a mid-scooped doomy fuzz.
-On the ECT side, you can get the other end of the spectrum - warm and wooly, with plenty of aggressive distortion on tap.
-
-### Sources checked in this pass
-1. Dwarfcraft Devices Silver Rose V2 - Reverb: https://reverb.com/item/94161004-dwarfcraft-devices-silver-rose-v2
-2. Dwarfcraft Devices Silver Rose v2 - What To Know Where To Buy: https://equipboard.com/items/dwarfcraft-devices-silver-rose-v2
-3. Dwarfcraft Devices Sil Rose V2 – Motor City Guitar: https://motorcityguitar.com/products/dwarfcraft-devices-silver-rose-v2?variant=45056542030
-4. Dwarfcraft Devices Silver Rose v2 - Guitar Picks for Clean Tone, Grip Control: https://www.brightstrumpicks.com/product/dwarfcraft-devices-silver-rose-v2/
-5. Dwarfcraft Devices Silver Rose v2 | Pedals and Effects | acoguitar.com: https://www.acoguitar.com/product/dwarfcraft-devices-silver-rose-v2/
-6. Dwarfcraft Devices Silver Rose v2 - Clarinet Reeds with Balanced Tone and Durability: https://www.clarvixai.com/product/dwarfcraft-devices-silver-rose-v2/
-7. Dwarfcraft Devices Silver Rose v2 - musicequipmentbase.com: https://www.musicequipmentbase.com/product/dwarfcraft-devices-silver-rose-v2/
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.

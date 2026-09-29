@@ -3,56 +3,40 @@
 ## PRP identity
 - **Archive parent:** Thee Treble Overload
 - **Builder:** Death By Audio
-- **Catalog type:** Distortion / Fuzz / Overdrive
+- **Catalog type:** Overdrive / Treble Boost
 - **Identity:** Death By Audio's Thee Treble Overload.
 
 ## What this pedal is
-THEE TREBLE OVERLOAD $250.00 | / Notify me when this product is available: Notify me when this product is available: Qty Add to cart Legendary piercing tone, reimagined Thee Treble Overload revives the coveted treble boost circuit from the infamous limited-edition pedal, Thee Fuzz Warr Overload - this time packed with extra features and unleashed as its own weapon.
+Thee Treble Overload expands the treble-boost circuit originally used in Thee Fuzz Warr Overload. Death By Audio describes it as a high-gain, dual-mono treble boost/overdrive designed to cut bass, tighten the signal, and push an amplifier or other effects chain into increasingly aggressive saturation.
 
 ## Colorways
-- No specific factory colorway information was established in the verified evidence packet.
+- No complete factory colorway chronology was established in the checked sources.
 
 ## Versions and factory options
-- No distinct factory revision was established in the verified evidence packet.
+- **Drive/Level** controls are provided for the boost/overdrive section.
+- **Limit** control sets the usable output range.
+- Dual-mono operation supports stereo or two-channel signal chains.
+- Designed to run external effects, keyboards, drum machines, and other line-level-ish sources into overdrive as well as guitar rigs.
+- Standard 9V DC operation.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- Thee Treble Overload is a separate production model descended from the treble-boost section of Thee Fuzz Warr Overload.
+- No complete numbered production revision chronology was established.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
+- Exact production semiconductor details were not established in the checked sources.
 - **Exact transistor/device:** Unknown.
 
 ## Diode
-- Documented terms in the verified sources: LED.
-- The archive records only the component information explicitly present in these sources.
+- Exact clipping/rectifier diode information was not established.
+- **Exact part:** Unknown.
 
 ## Sound
-THEE TREBLE OVERLOAD $250.00 | / Notify me when this product is available: Notify me when this product is available: Qty Add to cart Legendary piercing tone, reimagined Thee Treble Overload revives the coveted treble boost circuit from the infamous limited-edition pedal, Thee Fuzz Warr Overload - this time packed with extra features and unleashed as its own weapon.
-It slices through any mix with razor-sharp precision, adding just the right edge to make your signal sound mean, bright, and alive.
-To achieve that bite, Thee Treble Overload carves away bass, tightening your tone and bringing definition to whatever sound you feed it.
+The pedal emphasizes upper-mid presence and attack while removing low-frequency weight. Death By Audio describes nearly 60dB of gain and a Limit control that can take the sound from cutting boost into heavily overdriven territory.
 
 ## Sources checked
-1. THEE TREBLE OVERLOAD - DEATH BY AUDIO - Death By Audio: https://deathbyaudio.com/products/thee-treble-overload
-2. Amazon.com: Death by Audio Thee Treble Overload - Treble Booster Guitar Effects Pedal : Musical Instruments: https://www.amazon.com/Death-Audio-Thee-Treble-Overload/dp/B0GCPD8361
+1. Death By Audio - Thee Treble Overload: https://deathbyaudio.com/products/thee-treble-overload
+2. Death By Audio - Manuals: https://deathbyaudio.com/pages/manuals
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
-
-## Deep research verification
-
-This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
-
-### Verified description
-Thee Treble Overload is dual mono, meaning it can process stereo chains, perfect for blasting your stereo reverbs, choruses, delays, keyboards, or drum machines straight into overdrive.
-
-### Verified diode terms
-- LED.
-
-### Verified sound evidence
-To achieve that bite, Thee Treble Overload carves away bass, tightening your tone and bringing definition to whatever sound you feed it.
-Details Armed with nearly 60dB of gain and a LIMIT control, you can push it from a cutting boost to crispy obliteration while still keeping your output balanced with the rest of the band.
-Thee Treble Overload is dual mono, meaning it can process stereo chains, perfect for blasting your stereo reverbs, choruses, delays, keyboards, or drum machines straight into overdrive.
-
-### Sources checked in this pass
-1. THEE TREBLE OVERLOAD - DEATH BY AUDIO - Death By Audio: https://deathbyaudio.com/products/thee-treble-overload
-2. Amazon.com: Death by Audio Thee Treble Overload - Treble Booster Guitar Effects Pedal : Musical Instruments: https://www.amazon.com/Death-Audio-Thee-Treble-Overload/dp/B0GCPD8361
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.
