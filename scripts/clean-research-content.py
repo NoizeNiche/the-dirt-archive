@@ -223,6 +223,137 @@ def clean_source_label(line: str) -> str:
     short = known.get(host, host)
     return f"{number}. {short}: {url}"
 
+
+def markdown_visible(text: str) -> str:
+    text = re.sub(r"https?://\S+", "", html.unescape(text or ""))
+    text = re.sub(r"\[[^\]]+\]\([^)]+\)", " ", text)
+    text = re.sub(r"[*_\`#>-]", " ", text)
+    return re.sub(r"\s+", " ", text).strip()
+
+
+def section_text(markdown: str, heading: str) -> str:
+    match = re.search(
+        rf"(?ms)^##\s+{re.escape(heading)}\s*$\n(.*?)(?=^##\s+|\Z)",
+        markdown,
+    )
+    return match.group(1).strip() if match else ""
+
+
+def deep_verified_subsection(markdown: str, subheading: str) -> str:
+    deep = section_text(markdown, "Deep research verification")
+    if not deep:
+        return ""
+    match = re.search(
+        rf"(?ms)^###\s+{re.escape(subheading)}\s*$\n(.*?)(?=^###\s+|\Z)",
+        deep,
+    )
+    return match.group(1).strip() if match else ""
+
+
+def candidate_lines(text: str) -> str:
+    lines = []
+    for raw in str(text or "").splitlines():
+        value = raw.strip()
+        if not value or value.startswith(("Source:", "Sources:")):
+            continue
+        visible = markdown_visible(value)
+        if visible:
+            lines.append(visible)
+    return "\n".join(lines).strip()
+
+
+def weak_visible_description(markdown: str) -> bool:
+    text = markdown_visible(section_text(markdown, "What this pedal is"))
+    return bool(
+        len(text) < 90
+        or re.fullmatch(
+            r".{0,30}(?:is|are)\s+(?:cataloged|listed|classified)\s+as\s+\w+.*",
+            text,
+            re.I,
+        )
+    )
+
+
+def weak_visible_sound(markdown: str) -> bool:
+    text = markdown_visible(section_text(markdown, "Sound"))
+    return bool(
+        len(text) < 90
+        or re.search(
+            r"did not contain enough .*?(?:pedal-specific|product-specific).*?(?:description|evidence)|"
+            r"not enough .*? to make a more detailed sound summary",
+            text,
+            re.I,
+        )
+    )
+
+
+def strong_verified_description(candidate: str, pedal: str) -> bool:
+    visible = markdown_visible(candidate)
+    return (
+        len(visible) >= 90
+        and pedal.casefold() in visible.casefold()
+        and not re.search(
+            r"\b(?:is|are)\s+(?:cataloged|listed|classified)\s+as\b",
+            visible,
+            re.I,
+        )
+        and bool(
+            re.search(
+                r"\b(?:is|are|designed|developed|delivers|offers|features|combines|uses|includes)\b",
+                visible,
+                re.I,
+            )
+        )
+    )
+
+
+def strong_verified_sound(candidate: str) -> bool:
+    visible = markdown_visible(candidate)
+    return len(visible) >= 90 and bool(
+        re.search(
+            r"\b(?:tone|gain|fuzz|drive|distortion|overdrive|response|texture|saturation|breakup|grit|boost|crunch|dynamic|headroom)\b",
+            visible,
+            re.I,
+        )
+    )
+
+
+def replace_section_body(markdown: str, heading: str, body: str) -> str:
+    pattern = re.compile(
+        rf"(?ms)^##\s+{re.escape(heading)}\s*$\n.*?(?=^##\s+|\Z)"
+    )
+    replacement = f"## {heading}\n\n{body.strip()}\n\n"
+    updated, count = pattern.subn(replacement, markdown, count=1)
+    return updated if count else markdown
+
+
+def promote_verified_prose(markdown: str) -> str:
+    title_match = re.search(r"^#\s+.+?\s+—\s+(.+?)\s*$", markdown, re.M)
+    pedal = title_match.group(1).strip() if title_match else ""
+    updated = markdown
+
+    verified_description = candidate_lines(
+        deep_verified_subsection(markdown, "Verified description")
+    )
+    if (
+        weak_visible_description(markdown)
+        and pedal
+        and strong_verified_description(verified_description, pedal)
+    ):
+        updated = replace_section_body(
+            updated,
+            "What this pedal is",
+            verified_description,
+        )
+
+    verified_sound = candidate_lines(
+        deep_verified_subsection(updated, "Verified sound evidence")
+    )
+    if weak_visible_sound(updated) and strong_verified_sound(verified_sound):
+        updated = replace_section_body(updated, "Sound", verified_sound)
+
+    return updated
+
 def clean_file(path: Path) -> bool:
     original = path.read_text(encoding="utf-8", errors="replace")
     out: list[str] = []
@@ -300,6 +431,10 @@ def clean_file(path: Path) -> bool:
     while out and not out[-1].strip():
         out.pop()
     new = "\n".join(out) + "\n"
+    promoted = promote_verified_prose(new)
+    if promoted != new:
+        new = promoted
+        changed = True
     if new != original:
         path.write_text(new, encoding="utf-8")
         changed = True
