@@ -1,6 +1,6 @@
 # Pedal Image Cache Report
 
-- Cached in this run: **3**
+- Cached in this run: **0**
 - Staged browser photos converted: **0**
 - Local images retained/reorganized: **0**
 - Download failures: **2**
@@ -13,12 +13,6 @@
 - Primary image: `assets/pedals/{builder}/{pedal}/primary.webp`
 - Colorway/edition image: `assets/pedals/{builder}/{pedal}/variants/{variant}.webp`
 - Original source URL remains stored as `image_source_url`.
-
-## Newly cached
-
-- CBC Pedals - The Drive -> `./assets/pedals/cbc-pedals/the-drive/primary.webp`
-- Champion City Effects - El Gato Malo -> `./assets/pedals/champion-city-effects/el-gato-malo/primary.webp`
-- Greer Amps - Ghetto Stomp -> `./assets/pedals/greer-amps/ghetto-stomp/primary.webp`
 
 ## Still external / failed
 
