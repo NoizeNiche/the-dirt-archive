@@ -55,7 +55,8 @@ def main() -> None:
                 source_page = row.get("Image Source Page", "").strip()
                 image_url = row.get("Image URL", "").strip()
                 if builder and pedal and source_page and image_url:
-                    direct_overrides.setdefault(key(builder, pedal), []).append((source_page, image_url, row_index))
+                    notes = row.get("Notes", "").strip()
+                    direct_overrides.setdefault(key(builder, pedal), []).append((source_page, image_url, row_index, notes))
 
     with INDEX.open(encoding="utf-8") as handle:
         catalog = json.load(handle)
@@ -104,14 +105,15 @@ def main() -> None:
         override = override or []
         pages = list(dict.fromkeys(page for page, _, _ in override))
         if direct:
-            for direct_page, _, _ in direct:
+            for direct_page, _, _, _ in direct:
                 if direct_page not in pages:
                     pages.append(direct_page)
         if direct:
             # Direct overrides are append-only research leads. The newest verified
             # lead is the one we actually want the browser to try first, otherwise
             # an old blocked/expired CDN URL can keep shadowing a newer exact photo.
-            primary_page, primary_priority = direct[-1][0], 100000
+            reviewed = [row for row in direct if "photo review: primary" in str(row[3] or "").lower()]
+            primary_page, primary_priority = (reviewed[-1][0], 1000000) if reviewed else (direct[-1][0], 100000)
         else:
             primary_page, primary_priority, _ = override[-1]
         if entry.get("image_source_pages") != pages:
@@ -134,11 +136,14 @@ def main() -> None:
             # recovery worker intentionally bounds direct-image retries.
             # Older rows remain as fallbacks, but must not crowd the newest
             # verified image out of the first retry window.
+            reviewed = [row for row in direct if "photo review: primary" in str(row[3] or "").lower()]
+            ordered_direct = reviewed[-1:] + [row for row in reversed(direct) if row not in reviewed]
             direct_urls = list(dict.fromkeys(
-                image_url for _, image_url, _ in reversed(direct)
+                image_url for _, image_url, _, _ in ordered_direct
             ))
-            direct_page = direct[-1][0]
-            direct_url = direct[-1][1]
+            primary = reviewed[-1] if reviewed else direct[-1]
+            direct_page = primary[0]
+            direct_url = primary[1]
             if entry.get("image_source_page") != direct_page:
                 entry["image_source_page"] = direct_page
             if entry.get("image_source_url") != direct_url:
