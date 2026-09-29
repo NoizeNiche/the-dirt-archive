@@ -109,6 +109,8 @@ def main():
     tracker = load_csv(TRACKER)
     backlog = load_csv(BACKLOG)
     queue = load_csv(QUEUE)
+    direct_overrides = load_csv(DIRECT_OVERRIDES) if DIRECT_OVERRIDES.exists() else []
+    manual_review = load_csv(MANUAL_REVIEW) if MANUAL_REVIEW.exists() else []
 
     index_data = load_json(INDEX)
     manifest_data = load_json(MANIFEST)
@@ -207,6 +209,53 @@ def main():
         status = row.get("Status", "")
         if status not in {"DEEP_REVIEW", "PARKED"}:
             raise SystemExit(f"Unsupported photo review status: {row.get('Builder')} / {row.get('Pedal')} -> {status}")
+
+    # Competing direct-image leads require an explicit manual primary review.
+    # This mirrors the fast downloader's safety gate and prevents a later append
+    # from becoming canonical merely because it is newer.
+    direct_groups = {}
+    direct_primary = {}
+    for row in direct_overrides:
+        k = key(row.get("Builder"), row.get("Pedal"))
+        image_url = str(row.get("Image URL") or "").strip()
+        if not image_url:
+            continue
+        direct_groups.setdefault(k, set()).add(image_url)
+        if "photo review: primary" in str(row.get("Notes") or "").lower():
+            direct_primary.setdefault(k, []).append(row)
+
+    pending_keys = {
+        key(row.get("Builder"), row.get("Pedal"))
+        for row in tracker
+        if row.get("Pedal Info") == "DONE" and row.get("Picture") != "DONE"
+    }
+    for k, images in direct_groups.items():
+        if len(images) > 1:
+            primaries = direct_primary.get(k, [])
+            if len(primaries) != 1 and k in pending_keys:
+                raise SystemExit(
+                    f"Competing direct photos require exactly one PHOTO REVIEW: PRIMARY for pending identity: {k}"
+                )
+
+    manual_keys = set()
+    for row in manual_review:
+        k = key(row.get("Builder"), row.get("Pedal"))
+        if k in manual_keys:
+            raise SystemExit(f"Duplicate manual primary review identity: {k}")
+        manual_keys.add(k)
+        if str(row.get("Status") or "") != "VERIFIED_PRIMARY":
+            raise SystemExit(f"Unsupported manual photo review status: {k}")
+        matching = [
+            candidate for candidate in direct_overrides
+            if key(candidate.get("Builder"), candidate.get("Pedal")) == k
+            and candidate.get("Image URL") == row.get("Image URL")
+            and candidate.get("Image Source Page") == row.get("Source Page")
+            and "photo review: primary" in str(candidate.get("Notes") or "").lower()
+        ]
+        if len(matching) != 1:
+            raise SystemExit(
+                f"Manual photo review does not resolve to one primary override: {k}"
+            )
 
     print(
         "Photo/research integrity check passed: "
