@@ -26,9 +26,9 @@ permissions:
 
 concurrency:
   group: dirt-photo-recovery-v4
-  # Let a running recovery finish. Frequent source/QA commits should not
-  # repeatedly cancel a long browser pass before it reaches its merge stage.
-  cancel-in-progress: false
+  # Finish-line recovery is replaceable. A newer strict visual-review run is
+  # more valuable than an older queued pass, so stale work should yield.
+  cancel-in-progress: true
 
 jobs:
   recover:
