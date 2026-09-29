@@ -4827,15 +4827,13 @@
       "research_record": "./research/pedals/Ashdown Engineering/AGM PRO-FX Retro Drive.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://www.effectsdatabase.com/model/ashdown/profx/retrodrive",
+      "image_source_page": "https://ashdownmusic.com/collections/last-chance/products/b-stock-agm-pro-fx-retro-drive",
       "image_source_pages": [
         "https://ashdownmusic.com/collections/last-chance/products/b-stock-agm-pro-fx-retro-drive"
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1387,
-      "image": "",
-      "image_source_url": "https://files.effectsdatabase.com/gear/pics/ashdown_profx-retrodrive_001.jpg"
+      "image_source_priority": 1387
     },
     {
       "company": "Ashdown Engineering",
@@ -23053,12 +23051,13 @@
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
       "image_source_pages": [
-        "https://www.rockboard.de/en/pedalPedia/Chaos-Custom-Shop/CDrive/8124434788/"
+        "https://www.rockboard.de/en/pedalPedia/Chaos-Custom-Shop/CDrive/8124434788/",
+        "https://www.guitarpedalx.com/news/gpx-blog/best-of-polish-guitar-pedals-and-pedal-builders"
       ],
-      "image_source_page": "https://www.rockboard.de/en/pedalPedia/Chaos-Custom-Shop/CDrive/8124434788/",
+      "image_source_page": "https://www.guitarpedalx.com/news/gpx-blog/best-of-polish-guitar-pedals-and-pedal-builders",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 638
+      "image_source_priority": 1419
     },
     {
       "company": "Chaos Custom Shop / Chaos FX",
@@ -25941,12 +25940,13 @@
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
       "image_source_pages": [
-        "https://reverb.com/item/96172740-collateral-fx-zeugma-zonk-fuzz-2026-hammered-blue-aqua"
+        "https://reverb.com/item/96172740-collateral-fx-zeugma-zonk-fuzz-2026-hammered-blue-aqua",
+        "https://collateralfx.com/br/"
       ],
-      "image_source_page": "https://reverb.com/item/96172740-collateral-fx-zeugma-zonk-fuzz-2026-hammered-blue-aqua",
+      "image_source_page": "https://collateralfx.com/br/",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 502
+      "image_source_priority": 1418
     },
     {
       "company": "Collateral FX",
@@ -39293,13 +39293,14 @@
       "research_record": "./research/pedals/Ibanez/TK999OD.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://www.ibanez.com/usa/products/detail/tk999od_01.html",
+      "image_source_page": "https://reverb.com/item/93736823-ibanez-tk999od-tube-king-overdrive-incl-box-adapter-and-ruby-12ax7ac5-tube-ecc82-currently-installed",
       "image_source_pages": [
-        "https://www.ibanez.com/usa/products/detail/tk999od_01.html"
+        "https://www.ibanez.com/usa/products/detail/tk999od_01.html",
+        "https://reverb.com/item/93736823-ibanez-tk999od-tube-king-overdrive-incl-box-adapter-and-ruby-12ax7ac5-tube-ecc82-currently-installed"
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1375
+      "image_source_priority": 1410
     },
     {
       "company": "Ibanez",
@@ -41752,14 +41753,15 @@
       "research_record": "./research/pedals/Keeley Electronics/Red Dirt Germanium Overdrive.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://reverb.com/item/92935776-keeley-electronics-red-dirt-germanium-overdrive-pedal",
+      "image_source_page": "https://reverb.com/item/1628420-keeley-red-dirt-germanium-overdrive-effect-pedal",
       "image_source_pages": [
         "https://www.rockboard.de/en/pedalPedia/Keeley-Electronics/Red-Dirt-Germanium/154445638/",
-        "https://reverb.com/item/92935776-keeley-electronics-red-dirt-germanium-overdrive-pedal"
+        "https://reverb.com/item/92935776-keeley-electronics-red-dirt-germanium-overdrive-pedal",
+        "https://reverb.com/item/1628420-keeley-red-dirt-germanium-overdrive-effect-pedal"
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1399
+      "image_source_priority": 1411
     },
     {
       "company": "Keeley Electronics",
@@ -42784,9 +42786,7 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1395,
-      "image": "",
-      "image_source_url": "https://cdn.shopify.com/s/files/1/0022/5850/1693/files/1864.jpg?v=1739536452"
+      "image_source_priority": 1395
     },
     {
       "company": "Leqtique",
@@ -44196,15 +44196,15 @@
       "research_record": "./research/pedals/Mad Professor Amplification/Golden Cello.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://www.effectsdatabase.com/model/madprofessor/goldencello",
+      "image_source_page": "https://www.chicagomusicexchange.com/products/mad-professor-golden-cello-2364961",
       "image_source_pages": [
-        "https://www.effectsdatabase.com/model/madprofessor/goldencello"
+        "https://www.effectsdatabase.com/model/madprofessor/goldencello",
+        "https://www.chicagomusicexchange.com/products/mad-professor-golden-cello-2364961"
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1405,
-      "image": "",
-      "image_source_url": "https://files.effectsdatabase.com/gear/thumbs/madprofessor_goldencello_001.jpg"
+      "image_source_priority": 50000,
+      "image": ""
     },
     {
       "company": "Mad Professor Amplification",
@@ -49288,14 +49288,14 @@
       "research_record": "./research/pedals/NUX Audio / NUX/’63 Diamond.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://reverb.com/item/94328003-nux-reissue-series-63-diamond-overdrive-guitar-effects-pedal",
-      "image_source_url": "https://www.zebramuzik.co.uk/wp-content/uploads/2024/10/NuX-63-Diamond-Overdrive-Pedal-Front-1024x1024.jpg",
+      "image_source_page": "https://www.musicjunction.com.au/products/nux-reissue-series-63-diamond-effects-pedal",
       "image_source_pages": [
-        "https://reverb.com/item/94328003-nux-reissue-series-63-diamond-overdrive-guitar-effects-pedal"
+        "https://reverb.com/item/94328003-nux-reissue-series-63-diamond-overdrive-guitar-effects-pedal",
+        "https://www.musicjunction.com.au/products/nux-reissue-series-63-diamond-effects-pedal"
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1401
+      "image_source_priority": 50000
     },
     {
       "company": "NUX Audio / NUX",
@@ -50180,9 +50180,7 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1409,
-      "image": "",
-      "image_source_url": "https://origineffects.com/wp-content/uploads/2022/11/Origin-Effects-M-EQ-Driver-Main-Feature-Image.jpg"
+      "image_source_priority": 1409
     },
     {
       "company": "Origin Effects",
@@ -56211,7 +56209,14 @@
       "source_page": null,
       "research_record": "./research/pedals/VFE Pedals/Blues King.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_pages": [
+        "https://reverb.com/item/110788-vfe-pedals-blues-king-scratch-n-dent"
+      ],
+      "image_source_page": "https://reverb.com/item/110788-vfe-pedals-blues-king-scratch-n-dent",
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 1412
     },
     {
       "company": "VFE Pedals",
@@ -56222,7 +56227,14 @@
       "source_page": null,
       "research_record": "./research/pedals/VFE Pedals/Dark Horse.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_pages": [
+        "https://reverb.com/p/vfe-dark-horse"
+      ],
+      "image_source_page": "https://reverb.com/p/vfe-dark-horse",
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 1413
     },
     {
       "company": "VFE Pedals",
@@ -56345,7 +56357,14 @@
       "source_page": null,
       "research_record": "./research/pedals/VFE Pedals/RUP mkII.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_pages": [
+        "https://www.vfepedals.com/product-page/rup"
+      ],
+      "image_source_page": "https://www.vfepedals.com/product-page/rup",
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 1414
     },
     {
       "company": "VFE Pedals",
@@ -57336,7 +57355,14 @@
       "source_page": null,
       "research_record": "./research/pedals/Walrus Audio/Voyager Preamp/Overdrive.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_pages": [
+        "https://www.walrusaudio.com/products/voyager-overdrive"
+      ],
+      "image_source_page": "https://www.walrusaudio.com/products/voyager-overdrive",
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 1416
     },
     {
       "company": "Walrus Audio",
@@ -57349,7 +57375,14 @@
       "source_page": null,
       "research_record": "./research/pedals/Walrus Audio/Voyager Preamp/Overdrive MKII.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_pages": [
+        "https://www.walrusaudio.com/products/voyager-preamp-overdrive-mkii-2024-black-friday-edition"
+      ],
+      "image_source_page": "https://www.walrusaudio.com/products/voyager-preamp-overdrive-mkii-2024-black-friday-edition",
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 1417
     },
     {
       "company": "Walrus Audio",
@@ -57842,7 +57875,14 @@
       "source_page": null,
       "research_record": "./research/pedals/Wampler Pedals/SLOstortion.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_pages": [
+        "https://reverb.com/item/2660402-wampler-slostortion"
+      ],
+      "image_source_page": "https://reverb.com/item/2660402-wampler-slostortion",
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 1415
     },
     {
       "company": "Wampler Pedals",
@@ -58211,7 +58251,7 @@
       ],
       "source_page": null,
       "research_record": "./research/pedals/Way Huge/Pork & Pickle.md",
-      "image_source_page": "https://www.westsidedistribution.com/way-huge-pork-pickle-bass-overdrive-fuzz/",
+      "image_source_page": "https://www.musicradar.com/news/namm-2018-way-huge-serves-up-its-first-ever-bass-pedal-the-pork-pickle",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
       "image_source_pages": [
@@ -58219,9 +58259,7 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1382,
-      "image": "",
-      "image_source_url": "https://www.westsidedistribution.com/wp-content/uploads/2018/01/PorkandPickle.jpg"
+      "image_source_priority": 1382
     },
     {
       "company": "Way Huge",
