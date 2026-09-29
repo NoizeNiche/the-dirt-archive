@@ -4366,7 +4366,7 @@ function imageBytesLookComplete(bytes, contentType = '') {
       const rankedSearchResults = searchResults
         .map(result => ({ result, fit: imageSearchScore(entry, result) }))
         .sort((a, b) => b.fit.score - a.fit.score);
-      const verifyLimit = deepReview ? Math.min(4, SEARCH_VERIFY_LIMIT) : SEARCH_VERIFY_LIMIT;
+      const verifyLimit = deepReview ? Math.min(8, SEARCH_VERIFY_LIMIT) : SEARCH_VERIFY_LIMIT;
       for (const ranked of rankedSearchResults.slice(0, verifyLimit)) {
         const result = ranked.result;
         const fit = ranked.fit;
