@@ -10,6 +10,7 @@ on:
       - research/PHOTO_SOURCE_OVERRIDES.csv
       - research/PHOTO_MANUAL_REVIEW.csv
       - research/PHOTO_IDENTITY_QUARANTINE.csv
+      - research/PHOTO_HASH_QUARANTINE.csv
       - research/PHOTO_SOURCE_BLOCKLIST.json
       - research/PHOTO_DIRECT_IMAGE_OVERRIDES.csv
       - research/PEDAL_IDENTITY_ALIASES.csv
