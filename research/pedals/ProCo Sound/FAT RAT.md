@@ -7,7 +7,7 @@
 - **Identity:** ProCo Sound's FAT RAT.
 
 ## What this pedal is
-Product variants Default Title - $179.00 Quantity ( 0 in cart) Decrease quantity for ProCo Sound FAT RAT Increase quantity for ProCo Sound FAT RAT Add to cart Couldn't load pickup availability Refresh The FATRAT is the newest member of the RAT family.
+The FAT RAT is the newest member of the RAT family.
 
 ## Colorways
 - No specific factory colorway information was established in the verified evidence packet.
