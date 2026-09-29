@@ -55,13 +55,20 @@ jobs:
       - name: Ensure Chromium and system dependencies
         run: npx playwright install --with-deps chromium
 
-      - name: Clear known-invalid photo state
+      - name: Reset known-contaminated EAE photo
         env:
           PHOTO_RESET_TARGET_BUILDER: "Electronic Audio Experiments"
           PHOTO_RESET_TARGET_PEDAL: "0xEAE Fuzz"
         run: python scripts/reset-photo-recovery-targets.py
 
       - name: Apply curated exact photo leads
+        run: python scripts/apply-photo-source-overrides.py
+      - name: Recover curated direct photos first
+        run: python scripts/cache-curated-direct-photos.py
+      - name: Clear other known-invalid photo state
+        run: python scripts/reset-photo-recovery-targets.py
+
+      - name: Recover a bounded photo batch
         run: python scripts/apply-photo-source-overrides.py
       - name: Recover curated direct photos first
         run: python scripts/cache-curated-direct-photos.py
