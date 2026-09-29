@@ -7,7 +7,6 @@
 - **Identity:** Keeley Electronics's Manis Overdrive.
 
 ## What this pedal is
-Keeley Electronics - Manis - Overdrive Pedal Menu Your Cart Menu Home Products PEDALBOARDS CADEN SERIES 2 HEXA FLATBOARD SERIES 4 KIRK SERIES 3 CHAMP SERIES 2 <li class="menu-item
 
 ## Colorways
 - No specific factory colorway information was established in the verified evidence packet.
