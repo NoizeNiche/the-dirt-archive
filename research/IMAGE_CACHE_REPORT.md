@@ -1,11 +1,11 @@
 # Pedal Image Cache Report
 
-- Cached in this run: **0**
+- Cached in this run: **1**
 - Staged browser photos converted: **0**
 - Local images retained/reorganized: **0**
-- Download failures: **2**
-- Remaining tracker photo backlog: **220**
-- Researched, photo pending: **220**
+- Download failures: **1**
+- Remaining tracker photo backlog: **219**
+- Researched, photo pending: **219**
 - External source images awaiting localization: **0**
 
 ## Storage layout
@@ -14,9 +14,12 @@
 - Colorway/edition image: `assets/pedals/{builder}/{pedal}/variants/{variant}.webp`
 - Original source URL remains stored as `image_source_url`.
 
+## Newly cached
+
+- MadeByMike - Dist² -> `./assets/pedals/madebymike/dist/primary.webp`
+
 ## Still external / failed
 
 - Devi Ever FX - Punch Hate: https://rvb-img.reverb.com/i/s--TTRoGVsg--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/brmozdssq8pmksnri4t4.jpg: curl: (22) The requested URL returned error: 500 (`https://rvb-img.reverb.com/i/s--TTRoGVsg--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/brmozdssq8pmksnri4t4.jpg`)
-- MadeByMike - Dist²: https://rvb-img.reverb.com/i/s--9G2Ox9ab--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/hcoax2vagtauovn8yjov.jpg: curl: (22) The requested URL returned error: 500 (`https://rvb-img.reverb.com/i/s--9G2Ox9ab--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/hcoax2vagtauovn8yjov.jpg`)
 
 These records remain externally referenced until a later cache run succeeds.
