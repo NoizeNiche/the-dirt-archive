@@ -15,7 +15,7 @@ import html
 import subprocess
 from pathlib import Path
 
-from PIL import Image, ImageOps
+from PIL import Image, ImageFile, ImageOps
 
 ROOT = Path(".")
 INDEX_PATH = ROOT / "research/PEDAL_INDEX.json"
@@ -68,13 +68,43 @@ def normalize_mislabelled_webp_assets():
                 normalized += 1
                 print(f"Normalized mislabelled WebP asset: {path} ({source_format} -> WEBP)")
         except Exception as exc:
-            print(f"Could not normalize {path}: {exc}")
+            # Some legacy sources were saved with a truncated image stream.
+            # Only on a normalizer read failure, retry once with Pillow's
+            # truncated-image loader, then verify the newly encoded WebP before
+            # replacing the source file. This never bypasses the later
+            # identity/provenance checks.
+            repaired = False
+            tmp = path.with_name(path.name + ".normalize.tmp")
             try:
-                tmp = path.with_name(path.name + ".normalize.tmp")
                 if tmp.exists():
                     tmp.unlink()
-            except OSError:
-                pass
+                ImageFile.LOAD_TRUNCATED_IMAGES = True
+                with Image.open(path) as source:
+                    source.load()
+                    img = ImageOps.exif_transpose(source)
+                    img = img.convert("RGBA" if "A" in img.getbands() else "RGB")
+                    img.save(tmp, "WEBP", quality=88, method=6)
+                with Image.open(tmp) as check:
+                    check.verify()
+                    if str(check.format or "").upper() != "WEBP":
+                        raise RuntimeError(f"repaired output reported as {check.format or 'unknown'}")
+                    if check.width < 120 or check.height < 120:
+                        raise RuntimeError("repaired output dimensions below 120px")
+                os.replace(tmp, path)
+                repaired = True
+                normalized += 1
+                print(f"Repaired truncated image stream and normalized WebP asset: {path} ({source_format} -> WEBP)")
+            except Exception as repair_exc:
+                print(f"Could not normalize {path}: {exc}; truncated-stream repair failed: {repair_exc}")
+                try:
+                    if tmp.exists():
+                        tmp.unlink()
+                except OSError:
+                    pass
+            finally:
+                ImageFile.LOAD_TRUNCATED_IMAGES = False
+            if repaired:
+                continue
     return normalized
 
 
