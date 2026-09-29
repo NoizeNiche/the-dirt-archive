@@ -20269,7 +20269,9 @@
     "pedal": "Wicked Jawn",
     "image": "./assets/pedals/fuzzrocious-pedals/wicked-jawn/primary.webp",
     "source_page": "https://fuzzrociouspedals.com/?product_cat=retired",
-    "research_record": "./research/pedals/Fuzzrocious Pedals/Wicked Jawn.md"
+    "research_record": "./research/pedals/Fuzzrocious Pedals/Wicked Jawn.md",
+    "image_source_url": "https://fuzzrociouspedals.com/wp-content/uploads/2019/08/wickedjawn_site-450x355.jpg",
+    "image_source_page": "https://fuzzrociouspedals.com/?product=wickedjawn"
   },
   {
     "builder": "Gamechanger Audio",
@@ -23854,7 +23856,9 @@
     "pedal": "PART GARDEN",
     "source_page": null,
     "research_record": "./research/pedals/Mask Audio Electronics/PART GARDEN.md",
-    "image": ""
+    "image": "",
+    "image_source_url": "https://maskaudioelectronics.com/cdn/shop/files/20250920_092003_160x160.jpg?v=1769883161",
+    "image_source_page": "https://maskaudioelectronics.com/products/part-garden"
   },
   {
     "builder": "Mask Audio Electronics",
@@ -30733,7 +30737,9 @@
     "pedal": "Conquistador Fuzzstortion",
     "image": null,
     "source_page": null,
-    "research_record": "./research/pedals/Way Huge/Conquistador Fuzzstortion.md"
+    "research_record": "./research/pedals/Way Huge/Conquistador Fuzzstortion.md",
+    "image_source_url": "https://cdn11.bigcommerce.com/s-n26aknlnlm/images/stencil/1280x1280/products/635/6459/11240600001.MAIN__91842.1663874796.jpg?c=2",
+    "image_source_page": "https://www.jimdunlop.com/way-huge-conquistador-fuzzstortion/"
   },
   {
     "builder": "Way Huge",

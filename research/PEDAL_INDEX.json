@@ -38197,7 +38197,8 @@
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
       "image_source_priority": 1452,
-      "image": "./assets/pedals/fuzzrocious-pedals/wicked-jawn/primary.webp"
+      "image": "./assets/pedals/fuzzrocious-pedals/wicked-jawn/primary.webp",
+      "image_source_url": "https://fuzzrociouspedals.com/wp-content/uploads/2019/08/wickedjawn_site-450x355.jpg"
     },
     {
       "company": "Gamechanger Audio",
@@ -45110,7 +45111,8 @@
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
       "image_source_page": "https://maskaudioelectronics.com/products/part-garden",
-      "image": ""
+      "image": "",
+      "image_source_url": "https://maskaudioelectronics.com/cdn/shop/files/20250920_092003_160x160.jpg?v=1769883161"
     },
     {
       "company": "Mask Audio Electronics",
@@ -58312,7 +58314,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1446
+      "image_source_priority": 1446,
+      "image_source_url": "https://cdn11.bigcommerce.com/s-n26aknlnlm/images/stencil/1280x1280/products/635/6459/11240600001.MAIN__91842.1663874796.jpg?c=2"
     },
     {
       "company": "Way Huge",
