@@ -28,7 +28,6 @@ The Contraband is a single-knob fuzz pedal that ravages your guitar signal and g
 - **Exact part:** Unknown.
 
 ## Sound
-Contraband Fuzz FREE SHIPPING We ship most orders within 1-3 business days.
 But rumor has it that someone is smuggling fuzz — the most-coveted contraband — back into circulation.
 The Contraband is a single-knob fuzz machine that ravages your guitar signal and generates a metallic wall of sound.
 
