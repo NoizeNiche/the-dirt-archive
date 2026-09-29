@@ -141,9 +141,9 @@ body::before{
   background-image:radial-gradient(rgba(255,255,255,.06) .8px,transparent .8px),radial-gradient(rgba(0,0,0,.25) .7px,transparent .7px);
   background-position:0 0,9px 12px;background-size:18px 18px,19px 19px;
 }
-.siteHeaderDetail{padding:18px 0 12px;border-bottom:1px solid #3c3d39;background:linear-gradient(180deg,#1c1d1a,#151614)}
-.crumb{color:#92918a}.sub{color:#9c9a92}h1{color:#f6f4ee}
-main{padding:12px 0 60px}
+.siteHeaderDetail{padding:12px 0 7px;border-bottom:1px solid #3c3d39;background:linear-gradient(180deg,#1c1d1a,#151614)}
+.siteHeaderDetail .back{margin-bottom:10px}.siteHeaderDetail .crumb{margin-bottom:6px}.siteHeaderDetail h1{font-size:clamp(2.25rem,5.3vw,4.6rem);line-height:.9}.siteHeaderDetail .sub{margin-top:7px}.siteHeaderDetail .recordStatus{margin-top:7px}.crumb{color:#92918a}.sub{color:#9c9a92}h1{color:#f6f4ee}
+main{padding:8px 0 60px}
 .boardSurface{
   position:relative;overflow:hidden;padding:18px 28px 28px;border:1px solid #10110f;border-radius:14px 14px 22px 22px;
   background:repeating-linear-gradient(0deg,#30312e 0,#30312e 31px,#262725 31px,#262725 62px);
@@ -241,4 +241,4 @@ a:focus-visible,.pageHome:focus-visible,.action:focus-visible,.pageTypeLink:focu
 .familyCardLink strong{font-size:.78rem;line-height:1.15}.familyCardLink span:last-child{font-size:.57rem;font-weight:800;color:var(--muted)}
 
 .photoFallback strong{overflow-wrap:anywhere}
-@media(max-width:760px){.photo{aspect-ratio:4/3;max-height:480px;min-height:220px}}
+@media(max-width:760px){.siteHeaderDetail{padding:10px 0 6px}.siteHeaderDetail h1{font-size:clamp(2.2rem,10.5vw,4rem)}.photo{aspect-ratio:4/3;max-height:480px;min-height:220px}}
