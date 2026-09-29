@@ -7,34 +7,30 @@
 - **Identity:** Mid-Fi Electronics's Full Frequency Overdrive.
 
 ## What this pedal is
-Great anywhere in your effects chain, and won't gobble up all the level of that super loud fuzz pedal you placed before it.
-
-## Colorways
-- No specific factory colorway information was established in the verified evidence packet.
+Full Frequency Overdrive is a Mid-Fi analog overdrive designed to remain comparatively full-bandwidth and avoid the compressed, mid-focused response associated with many traditional drive pedals.
 
 ## Versions and factory options
-- No distinct factory revision was established in the verified evidence packet.
+- 100% true bypass.
+- 9V DC operation.
+- Hand-wired by Doug Tuttle.
+- The checked sources do not establish a reliable numbered hardware revision.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- No complete dated revision chronology was established.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
-- **Exact transistor/device:** Unknown.
+- Exact production semiconductor details were not established.
 
 ## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
-- **Exact part:** Unknown.
+- Exact clipping-device information was not established.
 
 ## Sound
-Mid-Fi Electronics ::: Full Frequency Overdrive HOME PEDALS PURCHASE Full Frequency Overdrive Never thought I’d have to design an “uncompressed” “transparent” overdrive.
-Great anywhere in your effects chain, and won't gobble up all the level of that super loud fuzz pedal you placed before it.
+The defining goal is an open, relatively uncompressed overdrive that can be used before or after other effects without swallowing their level or dramatically rewriting the source tone.
 
 ## Sources checked
-1. Mid-Fi Electronics ::: Full Frequency Overdrive: https://www.midfielectronics.com/full-frequency-overdrive
-2. Mid-Fi Electronics FULL FREQUENCY OVERDRIVE - Reverb: https://reverb.com/item/67117106-mid-fi-electronics-full-frequency-overdrive
-3. Mid-Fi Electronics Full Frequency Overdrive (White) &quot;Free Shipping in &ndash; Empire Guitars: https://empireguitars.com/products/mid-fi-electronics-full-frequency-overdrive-white-free-shipping-in-the-usa
-4. mid-fi electronics FULL FREQUENCY OVERDRIVE 479932 | eBay: https://www.ebay.com/itm/307136253800
+1. Mid-Fi Electronics - Full Frequency Overdrive: https://www.midfielectronics.com/full-frequency-overdrive
+2. Mid-Fi Electronics - Pedals: https://www.midfielectronics.com/pedals
+3. Reverb - Full Frequency Overdrive: https://reverb.com/item/67117106-mid-fi-electronics-full-frequency-overdrive
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.
