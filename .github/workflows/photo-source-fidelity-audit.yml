@@ -7,8 +7,6 @@ on:
     paths:
       - 'research/PEDAL_INDEX.json'
       - 'research/pedals/PEDAL_IMAGES.json'
-      - 'research/PRP_TRACKER.csv'
-      - 'assets/pedals/**'
       - 'research/PHOTO_DIRECT_IMAGE_OVERRIDES.csv'
       - 'research/PHOTO_MANUAL_REVIEW.csv'
       - 'scripts/audit-photo-source-fidelity.js'
