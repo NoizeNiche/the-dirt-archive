@@ -42,7 +42,7 @@ a{color:inherit}
 .pageMain{min-width:0}
 .wrap{width:min(1480px,calc(100% - 28px));margin:auto}
 header{padding:26px 0 20px;border-bottom:1px solid var(--line);background:rgba(243,240,232,.95);backdrop-filter:blur(12px)}
-.back{display:inline-flex;align-items:center;gap:7px;text-decoration:none;font-size:.72rem;font-weight:950;text-transform:uppercase;letter-spacing:.07em;margin-bottom:24px}
+.back{display:inline-flex;align-items:center;gap:7px;text-decoration:none;font-size:.72rem;font-weight:950;text-transform:uppercase;letter-spacing:.07em;margin-bottom:16px}
 .back:hover{text-decoration:underline}
 .crumb{color:var(--muted);font-size:.72rem;font-weight:900;text-transform:uppercase;letter-spacing:.08em;margin-bottom:9px}
 h1{margin:0;font-size:clamp(2.5rem,7vw,5.8rem);line-height:.88;letter-spacing:-.065em}
@@ -141,11 +141,11 @@ body::before{
   background-image:radial-gradient(rgba(255,255,255,.06) .8px,transparent .8px),radial-gradient(rgba(0,0,0,.25) .7px,transparent .7px);
   background-position:0 0,9px 12px;background-size:18px 18px,19px 19px;
 }
-.siteHeaderDetail{padding:22px 0 18px;border-bottom:1px solid #3c3d39;background:linear-gradient(180deg,#1c1d1a,#151614)}
+.siteHeaderDetail{padding:18px 0 12px;border-bottom:1px solid #3c3d39;background:linear-gradient(180deg,#1c1d1a,#151614)}
 .crumb{color:#92918a}.sub{color:#9c9a92}h1{color:#f6f4ee}
-main{padding:18px 0 60px}
+main{padding:12px 0 60px}
 .boardSurface{
-  position:relative;overflow:hidden;padding:28px;border:1px solid #10110f;border-radius:14px 14px 22px 22px;
+  position:relative;overflow:hidden;padding:18px 28px 28px;border:1px solid #10110f;border-radius:14px 14px 22px 22px;
   background:repeating-linear-gradient(0deg,#30312e 0,#30312e 31px,#262725 31px,#262725 62px);
   box-shadow:inset 0 1px 0 rgba(255,255,255,.08),inset 0 -10px 24px rgba(0,0,0,.35),0 28px 70px rgba(0,0,0,.35)
 }
