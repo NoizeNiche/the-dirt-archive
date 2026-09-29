@@ -7,36 +7,32 @@
 - **Identity:** Fortin's Natas Distortion.
 
 ## What this pedal is
-Fortin Natas Distortion Pedal – United States Served with love!
+The Natas is a high-gain Fortin distortion designed around the aggressive response of Fortin's amplifier designs. The checked sources support a metal-oriented, tight high-gain identity but do not establish a complete component-level schematic.
 
 ## Colorways
-- No specific factory colorway information was established in the verified evidence packet.
+- No complete factory colorway chronology was established.
 
 ## Versions and factory options
-- No distinct factory revision was established in the verified evidence packet.
+- High-gain distortion architecture.
+- Designed for tight low end and aggressive saturation.
+- No reliable numbered hardware revision was established.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- No complete dated production revision chronology was established.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
-- **Exact transistor/device:** Unknown.
+- Exact production semiconductor details were not established.
 
 ## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
-- **Exact part:** Unknown.
+- Exact clipping/rectifier diode information was not established.
 
 ## Sound
-Fortin Natas Distortion Pedal – United States Served with love!
-Fortin Natas Distortion - Cedar Grove Guitars
-Acoustic Guitars and Folk Instruments FREE SHIPPING ON ORDERS OVER $30 Cart Home Shop Acoustic Guitar Pickup Soprano Ukulel Acoustic Electric Guitar Baritone Horn Music Stand Woodwind Analog Mixer Home / Effect / Fortin Natas Distortion Sale!
+Natas is designed for forceful, high-gain distortion with a tight response suited to down-tuned and metal-oriented playing. More specific EQ or circuit claims are omitted without stronger documentation.
 
 ## Sources checked
-1. Fortin Amplification Natas Distortion - Reverb: https://reverb.com/p/fortin-amplification-natas-distortion
-2. Fortin Natas Distortion Pedal – United States: https://www.thomannmusic.com/fortin_natas_distortion_pedal.htm
-3. Fortin Amplification Natas Distortion - What To Know & Where To Buy: https://equipboard.com/items/fortin-amplification-natas-distortion
-4. Fortin Natas Distortion - Cedar Grove Guitars | Acoustic Guitars and Folk Instruments: https://www.cedargroveguitars.com/product/fortin-natas-distortion/
-5. Fortin Natas Distortion - Pro-Level Distortion Effects Pedals for Live and Studio Use: https://www.pedaldistort.com/product/fortin-natas-distortion/
+1. Fortin Natas - Reverb: https://reverb.com/p/fortin-amplification-natas-distortion
+2. Equipboard - Fortin Natas: https://equipboard.com/items/fortin-amplification-natas-distortion
+3. Thomann - Fortin Natas: https://www.thomannmusic.com/fortin_natas_distortion_pedal.htm
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.
