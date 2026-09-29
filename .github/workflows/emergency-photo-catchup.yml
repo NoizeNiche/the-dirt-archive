@@ -14,9 +14,8 @@ permissions:
 
 concurrency:
   group: dirt-photo-emergency-v1
-  # Finish a bounded emergency pass instead of canceling it when a new source
-  # lead or kick commit arrives.
-  cancel-in-progress: false
+  # A newer emergency pass supersedes an older queued attempt.
+  cancel-in-progress: true
 
 jobs:
   recover:
