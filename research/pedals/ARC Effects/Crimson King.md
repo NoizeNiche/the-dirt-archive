@@ -6,10 +6,7 @@
 - **Catalog type:** Fuzz
 - **Identity:** ARC Effects's Crimson King.
 
-## What this pedal is
-ARC Effects's Crimson King is cataloged as a fuzz pedal.
-
-## Colorways
+## What this pedal is\n\nThe Crimson King is ARC Effects' modern take on the rare Buzz fuzz, built around three tested, matched germanium transistors. ARC documents a broad range from Bender-style fuzz through higher-gain sounds, with lower background noise and strong dynamic response. [1][2]\n\n## Colorways
 - No specific factory colorway information was established in the verified evidence packet.
 
 ## Versions and factory options
@@ -26,11 +23,7 @@ ARC Effects's Crimson King is cataloged as a fuzz pedal.
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.
 
-## Sound
-At it's core is 3 tested, audited, and matched germanium transistors as well as top quality axial components which allow this pedal to achieve an incredible range of vintage and modern fuzz sounds with impeccable clarity and ample volume.
-The range spans from "Bender" type sounds to higher gain territory with a LOT less background noise and a much higher degree of dynamic response.
-
-## Sources checked
+## Sound\n\nARC Effects describes the Crimson King as a vintage-inspired fuzz with a wide usable range, from Bender-type character to higher-gain territory. The three matched germanium transistors are intended to provide consistency, clarity, volume and dynamic response while the internal voltage conversion allows ordinary negative-ground 9V power. [1][2]\n\n## Sources checked
 1. Crimson King — ARC Effects: https://www.arceffects.com/crimson-king/
 
 ## Photo

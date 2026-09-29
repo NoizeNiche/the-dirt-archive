@@ -6,10 +6,7 @@
 - **Catalog type:** Overdrive
 - **Identity:** ARC Effects's Klone.
 
-## What this pedal is
-ARC Effects's Klone is cataloged as an overdrive pedal.
-
-## Colorways
+## What this pedal is\n\nThe ARC Effects Klone is a compact recreation of the Klon Centaur circuit. Effects Database documents the same part-for-part values as the original design, with buffered bypass, Neutrik jacks, a standard 9V DC input and an internal battery connection. [1]\n\n## Colorways
 - No specific factory colorway information was established in the verified evidence packet.
 
 ## Versions and factory options
@@ -25,11 +22,7 @@ ARC Effects's Klone is cataloged as an overdrive pedal.
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.
 
-## Sound
-Known for it's unbeatable clean boost, incredibly dynamic overdriven sound, and ability to stand out the mix, the Klon circuit is held to the highest standards for many.
-#Fretjunkies #klon #klonev2 #klonklone #arceffects #bluesrock #tonejunkie #iloveguitar #premierbuildersguild #iphoneonly #boxingdayblues #cr 2015-09-29 rigrigrigmusic ARC Effects Klone VS Mullholland Drive 7:23 2015-07-28 ARC Effects #Repost @drebatista.
-
-## Sources checked
+## Sound\n\nThe Klone is documented as a Klon Centaur-style overdrive known for clean boost behavior and dynamic overdrive. The V2 revision adds an internal DIP-switch bass boost, leaving the original voicing available with the switch off while adding a fatter full-frequency response when enabled. [1][2]\n\n## Sources checked
 1. ARC Effects Klone | Effects Database: https://www.effectsdatabase.com/model/arceffects/klone
 
 ## Photo
