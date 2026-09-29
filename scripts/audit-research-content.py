@@ -32,6 +32,7 @@ PATTERNS = [
     ("commerce_prompt", re.compile(r"add to cart|buy now|shopping cart|free shipping|\bin stock\b(?!\s+mode\b)|out of stock", re.I)),
     ("scrape_dump", re.compile(r"(?=.{500,})(?:skip to navigation|effect types|browse by|countries|install effects database app).*(?:newsletter|where to find one|search the database|myfxdb user reviews)", re.I)),
     ("literal_escape_residue", re.compile(r"\\[nrt]")),
+    ("generic_revision_placeholder", re.compile(r"^[-*]?\\s*The evidence references:\\s*revision\\.?\\s*$", re.I)),
 ]
 
 DEVICE_TERMS = re.compile(
