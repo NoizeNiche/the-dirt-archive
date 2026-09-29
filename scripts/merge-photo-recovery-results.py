@@ -9,6 +9,31 @@ ROOT = Path(".")
 ARTIFACTS = ROOT / "recovery-artifacts"
 INDEX = ROOT / "research/PEDAL_INDEX.json"
 MANIFEST = ROOT / "research/pedals/PEDAL_IMAGES.json"
+PHOTO_SOURCE_BLOCKLIST = ROOT / "research/PHOTO_SOURCE_BLOCKLIST.json"
+
+
+def blocked_photo_url(value: str) -> bool:
+    raw = str(value or "").strip()
+    if not raw:
+        return False
+    lowered = raw.lower()
+    try:
+        policy = json.loads(PHOTO_SOURCE_BLOCKLIST.read_text(encoding="utf-8"))
+    except Exception:
+        return False
+    for rule in policy.get("rules", []):
+        kind = str(rule.get("type") or "")
+        pattern = str(rule.get("pattern") or "")
+        if not pattern:
+            continue
+        try:
+            if kind == "exact_url" and lowered == pattern.lower():
+                return True
+            if kind.endswith("_regex") and __import__("re").search(pattern, lowered, __import__("re").I):
+                return True
+        except Exception:
+            continue
+    return False
 
 def main():
     results = []
@@ -50,15 +75,21 @@ def main():
         mentry = manifest_by_key.get(key)
         if not entry:
             continue
-        if row.get("image_source_url"):
-            entry["image_source_url"] = row["image_source_url"]
-        if row.get("image_source_page"):
-            entry["image_source_page"] = row["image_source_page"]
+        source_url = str(row.get("image_source_url") or "").strip()
+        source_page = str(row.get("image_source_page") or "").strip()
+        if source_url and not blocked_photo_url(source_url):
+            entry["image_source_url"] = source_url
+        elif blocked_photo_url(source_url):
+            entry.pop("image_source_url", None)
+        if source_page:
+            entry["image_source_page"] = source_page
         if mentry:
-            if row.get("image_source_url"):
-                mentry["image_source_url"] = row["image_source_url"]
-            if row.get("image_source_page"):
-                mentry["image_source_page"] = row["image_source_page"]
+            if source_url and not blocked_photo_url(source_url):
+                mentry["image_source_url"] = source_url
+            elif blocked_photo_url(source_url):
+                mentry.pop("image_source_url", None)
+            if source_page:
+                mentry["image_source_page"] = source_page
         provenance += 1
 
     INDEX.write_text(json.dumps(catalog, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
