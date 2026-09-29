@@ -7,39 +7,34 @@
 - **Identity:** MESA/Boogie's Gold Mine.
 
 ## What this pedal is
-Mesa/Boogie Gold Mine - Strings, Keys, Drums, and Wind Instruments Designed for Exceptional Sound FREE SHIPPING Over $30
+Gold Mine is the highest-gain member of MESA/Boogie's Cleo/DynaPlex/Gold Mine drive trio. MESA describes it as smooth high gain with a harmonic edge that can move between Boogie-style saturation and British-flavoured character.
 
 ## Colorways
-- Progressing along the gain spectrum, the transparent boost/overdrive CLEO is joined by the vintage inspired, medium gain DYNAPLEX and the higher gain GOLD MINE.
+- Gold-finish enclosure presentation is documented.
+- No complete factory colorway chronology was established.
 
 ## Versions and factory options
-- The verified evidence references: v2.
-- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+- High-gain overdrive architecture.
+- Broad gain range.
+- Hand-built production.
+- The checked source set references **V2**, but does not establish a full internal revision chronology.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- V2 is kept as a documented reference without inventing component-level changes.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
-- **Exact transistor/device:** Unknown.
+- Exact production semiconductor details were not established.
 
 ## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
-- **Exact part:** Unknown.
+- Exact clipping/rectifier diode information was not established.
 
 ## Sound
-Now here are three exciting new hand-built overdrive pedals spanning the entire range of gain and stylistic spectrum.
-Gold Mine tops the gain spectrum with soaring, smooth high gain that tips the hat to Boogie, but also includes a harmonic edge thats borderline Brit in character.
-Not that you cant dial gain back for sweet, subtle overdriveyou canbut the true character emerges as gain goes up and heavier saturation begins.
+Gold Mine moves from subtle overdrive at lower gain to smooth, saturated high-gain tones. MESA's description emphasizes a harmonic character that bridges Boogie-style saturation and British-flavoured drive.
 
 ## Sources checked
-1. Mesa/Boogie Gold Mine &ndash; Gibson: https://www.gibson.com/products/mesa-boogie-gold-mine
-2. Mesa/Boogie Gold Mine Overdrive Pedal | Sweetwater: https://www.sweetwater.com/store/detail/Goldmine--mesa-boogie-gold-mine-overdrive-pedal
-3. Mesa Boogie Gold Mine Overdrive Pedal | MESA/Boogie®: https://legacy.mesaboogie.com/pedals--related/drive-pedals/gold-mine.html
-4. Mesa/Boogie Gold Mine Overdrive Pedal | Equipboard: https://equipboard.com/items/mesa-boogie-gold-mine-overdrive-pedal
-5. Mesa/Boogie Cleo, Dynaplex and Gold Mine Review | GuitarPlayer: https://www.guitarplayer.com/reviews/mesaboogie-cleo-dynaplex-and-gold-mine-review
-6. Mesa/Boogie Gold Mine - Strings, Keys, Drums, and Wind Instruments Designed for Exceptional Sound: https://www.metalmus.com/product/mesa-boogie-gold-mine/
-7. MESA/Boogie Gold Mine User Manual | Manualzz: https://manualzz.com/doc/67037642/mesa-boogie-gold-mine-user-manual
+1. MESA/Boogie Gold Mine - Gibson: https://www.gibson.com/products/mesa-boogie-gold-mine
+2. MESA/Boogie legacy Gold Mine: https://legacy.mesaboogie.com/pedals--related/drive-pedals/gold-mine.html
+3. GuitarPlayer - Cleo, DynaPlex and Gold Mine: https://www.guitarplayer.com/reviews/mesaboogie-cleo-dynaplex-and-gold-mine-review
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.
