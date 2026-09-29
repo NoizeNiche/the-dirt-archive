@@ -7,35 +7,36 @@
 - **Identity:** Lovepedal's Amp Eleven.
 
 ## What this pedal is
-Amp Eleven Review: The versatility in sounds are good but better are the few...
+The Amp Eleven is an analog low-to-medium gain overdrive with a separate footswitchable boost channel. Lovepedal describes it as producing fat, organic tube-amp-like tone with independent bass and tone controls.
 
 ## Colorways
-- No specific factory colorway information was established in the verified evidence packet.
+- No complete factory finish chronology was established.
 
 ## Versions and factory options
-- No distinct factory revision was established in the verified evidence packet.
+- **Level**
+- **Drive**
+- **Bass**
+- **Tone**
+- Separate boost footswitch/channel.
+- 9V battery or 9-18VDC external supply.
+- True bypass.
+- Approximately 4mA current draw.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- No complete numbered production revision chronology was established.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
-- **Exact transistor/device:** Unknown.
+- Exact production semiconductor details were not established.
 
 ## Diode
-- Documented terms in the verified sources: LED.
-- The archive records only the component information explicitly present in these sources.
+- LED indicator is documented; exact clipping-device information was not established.
 
 ## Sound
-Then, he couples the overdrive with an additional boost circuit.
-Kick the boost footswitch and you can instantly pivot from gritty rhythm riffs to screaming leads…or anything in between.
-You're probably already familiar with stompboxes that offer overdrive and boost.
+The Amp Eleven ranges from smooth, round edge-of-breakup overdrive into mild distortion. The independent boost can raise the signal for lead tones without requiring the main drive control to be reset.
 
 ## Sources checked
-1. Lovepedal Amp Eleven (2012-2020) - What To Know & Where To Buy: https://equipboard.com/items/lovepedal-amp-eleven-effects-pedal
-2. Lovepedal Amp Eleven - Reverb: https://reverb.com/p/lovepedal-amp-eleven
-3. Amp Eleven Review: The versatility in sounds are good but better are the few... | Lovepedal | Guitar Effects | Reviews @ Ultimate-Guitar.Com: https://www.ultimate-guitar.com/reviews/guitar_effects/lovepedal/amp_eleven/43906
-4. Lovepedal Amp Eleven | Effects Database: https://www.effectsdatabase.com/model/lovepedal/ampeleven
+1. Lovepedal - Amp Eleven: https://www.lovepedal.com/pedals/amp-eleven/
+2. Effects Database - Lovepedal Amp Eleven: https://www.effectsdatabase.com/model/lovepedal/ampeleven
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.
