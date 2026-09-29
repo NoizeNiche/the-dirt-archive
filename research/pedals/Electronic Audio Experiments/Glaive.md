@@ -7,35 +7,28 @@
 - **Identity:** Electronic Audio Experiments's Glaive.
 
 ## What this pedal is
-Close Electronic Audio Experiments Glaive Sale Regular price $249.00 Default Title - $249.00 USD Quantity Add to Cart T he Electronic Audio Experiments Glaive is the most dangerous gain device in the EAE lineup.
-
-## Colorways
-- No specific factory colorway information was established in the verified evidence packet.
+The Glaive is an op-amp fuzz built for extreme gain and octave-up texture. EAE describes it as a deliberately aggressive circuit with very high gain and a metallic, articulate character.
 
 ## Versions and factory options
-- The verified evidence references: Version 1, v1.
-- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
-
-## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- **Version 1** is documented in the checked source set.
+- Op-amp fuzz architecture.
+- **Texture** control blends a full-wave-rectified signal into the fuzz path, adding upper-octave content.
+- No complete production revision chronology was established.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
-- **Exact transistor/device:** Unknown.
+- Primary gain architecture is op-amp based.
+- Exact semiconductor complement was not established.
 
 ## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
-- **Exact part:** Unknown.
+- Exact clipping-device part was not established.
 
 ## Sound
-This discordant yet deceptively versatile op amp fuzz is capable of over +80dB of gain.
-On its own, the raw distortion character is dynamic and articulate, with a metallic edge.
-Texture blends in a full-wave rectified analog signal, producing an octave up that gets fed into the fuzz input.
+Glaive can move from articulate, sharp-edged distortion into extreme fuzz. Texture introduces octave-up harmonic content before the fuzz input for more complex and aggressive sounds.
 
 ## Sources checked
-1. Glaive Octave Fuzz &mdash; Electronic Audio Experiments: https://www.electronicaudioexperiments.com/pedals/glaive
-2. Electronic Audio Experiments Glaive Fuzz Pedal - Reverb: https://reverb.com/item/94596029-electronic-audio-experiments-glaive-fuzz-pedal
-3. Electronic Audio Experiments Glaive &ndash; eastside music supply: https://eastsidemusicsupply.com/products/electronic-audio-experiments-glaive
+1. Electronic Audio Experiments - Glaive: https://www.electronicaudioexperiments.com/pedals/glaive
+2. Reverb - EAE Glaive: https://reverb.com/item/94596029-electronic-audio-experiments-glaive-fuzz-pedal
+3. Effects Database - EAE Glaive: https://www.effectsdatabase.com/model/electronicaudioexperiments/glaive
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.
