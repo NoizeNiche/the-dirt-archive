@@ -26,10 +26,36 @@ Fuzzrocious Pedals's Greyfly is cataloged as a fuzz pedal.
 - **Exact part:** Unknown.
 
 ## Sound
+
 The Dirt Archive currently catalogs **Greyfly** by **Fuzzrocious Pedals** as a **Fuzz** pedal.
+
+**Archive parent:** Greyfly - **Builder:** Fuzzrocious Pedals - **Catalog type:** Fuzz - **Identity:** Fuzzrocious Pedals's Greyfly.
+
+Fuzzrocious Pedals's Greyfly is cataloged as a fuzz pedal.
 
 ## Sources checked
 1. Retired | FUZZROCIOUS PEDALS: https://fuzzrociouspedals.com/?product_cat=retired
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Fuzzrocious Pedals's Greyfly is cataloged as a fuzz pedal.
+
+### Verified color/finish evidence
+- No specific factory colorway information was established in the verified evidence packet.
+
+### Verified version references
+- The evidence references: revision.
+
+### Verified sound evidence
+The Dirt Archive currently catalogs **Greyfly** by **Fuzzrocious Pedals** as a **Fuzz** pedal.
+**Archive parent:** Greyfly - **Builder:** Fuzzrocious Pedals - **Catalog type:** Fuzz - **Identity:** Fuzzrocious Pedals's Greyfly.
+Fuzzrocious Pedals's Greyfly is cataloged as a fuzz pedal.
+
+### Sources checked in this pass
+1. Retired | FUZZROCIOUS PEDALS: https://fuzzrociouspedals.com/?product_cat=retired

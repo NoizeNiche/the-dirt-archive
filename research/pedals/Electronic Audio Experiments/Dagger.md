@@ -7,7 +7,8 @@
 - **Identity:** Electronic Audio Experiments's Dagger.
 
 ## What this pedal is
-Electronic Audio Experiments's Dagger is cataloged as an overdrive pedal.
+
+The Electronic Audio Experiments Dagger is a simplified and miniaturized iteration of our Longsword op amp drive.
 
 ## Colorways
 - No specific factory colorway information was established in the verified evidence packet.
@@ -36,3 +37,24 @@ Collaborations 0xEAE Boost A razor-sharp boost/overdrive with a massive output.
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+The Electronic Audio Experiments Dagger is a simplified and miniaturized iteration of our Longsword op amp drive.
+
+### Verified color/finish evidence
+- No specific factory colorway information was established in the verified evidence packet.
+
+### Verified version references
+- The evidence references: V1, V2, V4, revision.
+
+### Verified sound evidence
+The Dagger can be operated at 18V for more headroom and clarity.
+The Electronic Audio Experiments Dagger is a simplified and miniaturized iteration of our Longsword op amp drive.
+We streamlined the circuit into its core gain stages and dual band shelving EQ, for the ideal match of simplicity and flexibility.
+
+### Sources checked in this pass
+1. Dagger &mdash; Electronic Audio Experiments: https://www.electronicaudioexperiments.com/legacy/dagger

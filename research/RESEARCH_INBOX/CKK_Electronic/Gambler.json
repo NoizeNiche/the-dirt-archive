@@ -1,0 +1,27 @@
+{
+  "builder": "CKK Electronic",
+  "pedal": "Gambler",
+  "original_builder": "CKK Electronic",
+  "original_pedal": "Gambler",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 2,
+  "sources": [
+    {
+      "url": "https://reverb.com/item/92293594-ckk-electronic-the-gambler",
+      "title": "catalog/override source",
+      "h1": "CKK Electronic \u2014 Gambler",
+      "excerpt": "- **Archive parent:** Gambler\n- **Builder:** CKK Electronic\n- **Catalog type:** Overdrive\n- **Identity:** Transparent, dynamic overdrive with Volume, Gain, Tone and a low-frequency boost, documented at 9V/battery operation and approximately 10 mA. [1][2]\n\n- **VOLUME:** Output.\n- **GAIN:** Drive amount.\n- **TONE:** Tonal balance.\n- **LOW-FREQUENCY BOOST:** Adds low-end body.\n- Three gain-stage range is documented in the retailer description. [1][2]\n\n- Analog overdrive.\n- CKK descriptions emphasize transparency, dynamics and use either as a standalone gain stage or as a boost.\n- Exact schematic and semiconductor BOM are not published.\n\n- Exact production transistor/device part number is not publicly documented.\n\n- Exact clipping-device type and part number are not publicly documented.\n\n- **9V DC or battery**.\n- Approximately **10 mA**.\n- **1 MOhm input impedance** and **1 kOhm output impedance** are documented by Gear4music. [2]\n\n- A surviving Reverb example documents **Glossy Vintage Cold Grey**. [1]\n- No complete factory finish chronology established.\n\n- No numbered factory electronic revision established.\n\nGambler is designed to remain transparent and touch-responsive from lighter gain into higher saturation. The low-frequency boost adds body, and the guitar's volume can be used to clean the drive back. [1][2]\n\n- **Identity:** High\n- **Control map:** High\n- **Transparent/dynamic role:** High\n- **9V/battery/10mA:** High\n- **Exact transistor:** Unknown\n- **Exact diode:** Unknown\n\nThe exact-model Reverb record and Gear4music description were cross-checked. The evidence establishes the control set, low-frequency boost, 9V/battery operation, 10 mA draw and broad gain role. [1][2]\n\n1. Reverb \u2014 CKK Electronic The Gambler: https://reverb.com/item/92293594-ckk-electronic-the-gambler\n2. Gear4music \u2014 CKK Electronic Gambler: https://www.gear4music.com/us/en/Guitar-and-Bass/DISC-CKK-Electronic-Gambler-Overdrive-Pedal/27R3\n\n- Exact-model photo provenance remains handled by the photo lane.",
+      "host": "reverb.com",
+      "source_kind": "reverb"
+    },
+    {
+      "url": "https://www.gear4music.com/us/en/Guitar-and-Bass/DISC-CKK-Electronic-Gambler-Overdrive-Pedal/27R3",
+      "title": "catalog/override source",
+      "h1": "CKK Electronic \u2014 Gambler",
+      "excerpt": "- **Archive parent:** Gambler\n- **Builder:** CKK Electronic\n- **Catalog type:** Overdrive\n- **Identity:** Transparent, dynamic overdrive with Volume, Gain, Tone and a low-frequency boost, documented at 9V/battery operation and approximately 10 mA. [1][2]\n\n- **VOLUME:** Output.\n- **GAIN:** Drive amount.\n- **TONE:** Tonal balance.\n- **LOW-FREQUENCY BOOST:** Adds low-end body.\n- Three gain-stage range is documented in the retailer description. [1][2]\n\n- Analog overdrive.\n- CKK descriptions emphasize transparency, dynamics and use either as a standalone gain stage or as a boost.\n- Exact schematic and semiconductor BOM are not published.\n\n- Exact production transistor/device part number is not publicly documented.\n\n- Exact clipping-device type and part number are not publicly documented.\n\n- **9V DC or battery**.\n- Approximately **10 mA**.\n- **1 MOhm input impedance** and **1 kOhm output impedance** are documented by Gear4music. [2]\n\n- A surviving Reverb example documents **Glossy Vintage Cold Grey**. [1]\n- No complete factory finish chronology established.\n\n- No numbered factory electronic revision established.\n\nGambler is designed to remain transparent and touch-responsive from lighter gain into higher saturation. The low-frequency boost adds body, and the guitar's volume can be used to clean the drive back. [1][2]\n\n- **Identity:** High\n- **Control map:** High\n- **Transparent/dynamic role:** High\n- **9V/battery/10mA:** High\n- **Exact transistor:** Unknown\n- **Exact diode:** Unknown\n\nThe exact-model Reverb record and Gear4music description were cross-checked. The evidence establishes the control set, low-frequency boost, 9V/battery operation, 10 mA draw and broad gain role. [1][2]\n\n1. Reverb \u2014 CKK Electronic The Gambler: https://reverb.com/item/92293594-ckk-electronic-the-gambler\n2. Gear4music \u2014 CKK Electronic Gambler: https://www.gear4music.com/us/en/Guitar-and-Bass/DISC-CKK-Electronic-Gambler-Overdrive-Pedal/27R3\n\n- Exact-model photo provenance remains handled by the photo lane.",
+      "host": "www.gear4music.com",
+      "source_kind": "catalog_verified"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}

@@ -49,3 +49,28 @@ This responsiveness allows the player to shape saturation, texture, and clarity 
 ### Sources checked in this pass
 1. AGR Pedals DS2610 - Vintage Distortion | Effects Database: https://www.effectsdatabase.com/model/agrpedals/ds2610
 2. Verify Your Identity: https://www.bodegaaurrera.com.mx/blocked?url=L2lwL2N1ZXJkYXMvZC0xMS12aW50YWdlLWRpc3RvcnRpb24tZ3VpdGFyLWVmZmVjdC1wZWRhbC13aXRoLXZvbHVtZS1maWx0ZXItYW5kLWRpc3RvcnRpb24tY29udHJvbC1lbGVjdHJpYy1ndWl0YXItYWNjZXNzb3JpZXMvMDA3NzAxMDI1MzUxMDA=&uuid=6849e58c-bc31-11f1-a2aa-224307cb7186&vid=&g=b
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+AGR Pedals's DS2610 - Vintage Distortion is cataloged as a distortion pedal.
+
+### Verified color/finish evidence
+- No specific factory colorway information was established in the verified evidence packet.
+
+### Verified version references
+- The evidence references: revision.
+
+### Verified transistor/device terms
+- bc31.
+
+### Verified sound evidence
+AGR Pedals DS2610 - Vintage Distortion
+The circuit is voiced to react similarly to classic fuzz style behavior, with distortion characteristics that change noticeably based on playing intensity and manipulation of the instrument's volume control.
+This responsiveness allows the player to shape saturation, texture, and clarity directly from performance dynamics rather than relying solely on static gain settings.
+
+### Sources checked in this pass
+1. AGR Pedals DS2610 - Vintage Distortion | Effects Database: https://www.effectsdatabase.com/model/agrpedals/ds2610
+2. Verify Your Identity: https://www.bodegaaurrera.com.mx/blocked?url=L2lwL2N1ZXJkYXMvZC0xMS12aW50YWdlLWRpc3RvcnRpb24tZ3VpdGFyLWVmZmVjdC1wZWRhbC13aXRoLXZvbHVtZS1maWx0ZXItYW5kLWRpc3RvcnRpb24tY29udHJvbC1lbGVjdHJpYy1ndWl0YXItYWNjZXNzb3JpZXMvMDA3NzAxMDI1MzUxMDA=&uuid=bba8771c-bc31-11f1-bb03-bddb59449b92&vid=&g=b

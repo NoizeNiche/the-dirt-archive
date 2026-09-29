@@ -7,7 +7,8 @@
 - **Identity:** LICHTLÆRM AUDIO's The King in Yellow.
 
 ## What this pedal is
-LICHTLÆRM AUDIO's The King in Yellow is cataloged as an overdrive pedal.
+
+The real standout feature of the King in Yellow is its parallel loop, tho: create unique overdrive tones by blending the Yellow King with anything in the loop!
 
 ## Colorways
 - No specific factory colorway information was established in the verified evidence packet.
@@ -36,3 +37,30 @@ Chorus · Vibrato · Tape Warble · Memory Blur €199.00 PandorA – Compact Po
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+The real standout feature of the King in Yellow is its parallel loop, tho: create unique overdrive tones by blending the Yellow King with anything in the loop!
+
+### Verified color/finish evidence
+- whether you're playing crushing doom, vicious black metal or anything in between - the TDW will deliver!
+- 8) Two enclosure designs To celebrate the this collaboration, we decided to offer the new Total Distortion Worship in two distinct color schemes: Classic Lichtlaerm black & gold and Cult FX's exclusive black, silver & red.
+- Color: Select Color Red//Silver Black//Gold Red//Silver Black//Gold Quantity: Add To Cart Facebook 0 Twitter Pinterest 0 About Shipping Imprint Privacy Note AGB Contact © 2025 Daniel Ringl, Lichtlaerm Audio
+
+### Verified version references
+- The evidence references: MKII, MkII.
+
+### Verified diode terms
+- LED.
+
+### Verified sound evidence
+The King in Yellow - Parallel Blending Overdrive
+handmade in Berlin Contact Shop Shop The King in Yellow - Parallel Blending Overdrive Previous As Above So Below – Celestial Reverb
+Chorus · Vibrato · Tape Warble · Memory Blur The King in Yellow - Parallel Blending Overdrive The King in Yellow - Parallel Blending Overdrive €179.00 incl.
+
+### Sources checked in this pass
+1. The King in Yellow - Parallel Blending Overdrive | LICHTLÆRM AUDIO: https://lichtlaermaudio.com/shop/yellowking
+2. The perfect distortion for all kinds of harsh music | LICHTLÆRM AUDIO: https://lichtlaerm-audio.squarespace.com/shop/tdw

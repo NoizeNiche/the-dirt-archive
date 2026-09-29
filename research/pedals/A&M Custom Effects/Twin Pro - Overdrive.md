@@ -47,3 +47,24 @@ This pedal made specially for Blues and "ZEP" Rock.Pedal have very warm old scho
 
 ### Sources checked in this pass
 1. A M Custom Effects Twin Pro - Overdrive | Effects Database: https://www.effectsdatabase.com/model/am/twinpro
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+A&M Custom Effects's Twin Pro - Overdrive is cataloged as an overdrive pedal.
+
+### Verified version references
+- The evidence references: revision.
+
+### Verified diode terms
+- LEDs, LED.
+
+### Verified sound evidence
+A M Custom Effects Twin Pro - Overdrive
+This pedal made specially for Blues and "ZEP" Rock.Pedal have very warm old school overdrive sound.
+**Archive parent:** Twin Pro - Overdrive - **Builder:** A&M Custom Effects - **Catalog type:** Overdrive - **Identity:** A&M Custom Effects's Twin Pro - Overdrive.
+
+### Sources checked in this pass
+1. A M Custom Effects Twin Pro - Overdrive | Effects Database: https://www.effectsdatabase.com/model/am/twinpro

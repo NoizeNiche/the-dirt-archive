@@ -69,3 +69,29 @@ https://www.sweetwater.com/store/detail/Germanium4--electro-harmonix-germanium-4
 4. Electro-Harmonix Germanium 4 Big Muff Pi Pedal Review: Vintage Fuzz Reimagined with Precision | GearStrings: https://gearstrings.com/gear-reviews/electro-harmonix-germanium-4-big-muff-pi-pedal-review
 5. Electro-Harmonix Germanium 4 Big Muff Pi: https://www.buyanalogman.com/Electro_Harmonix_Germanium_4_Big_Muff_Pi_p/ehgermaniummuff.htm
 6. The Electro-Harmonix Germanium 4 Big Muff Pi - Vintage Guitar: https://www.vintageguitar.com/8485/the-electro-harmonix-germanium-4-big-muff-pi/
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+The **Electro-Harmonix Germanium 4 Big Muff Pi** is a Big Muff family fuzz/overdrive with a germanium-oriented product identity.
+
+### Verified version references
+- The evidence references: MK1, revision.
+
+### Verified transistor/device terms
+- silicon transistors.
+
+### Verified sound evidence
+The **Electro-Harmonix Germanium 4 Big Muff Pi** is a Big Muff family fuzz/overdrive with a germanium-oriented product identity.
+The archive retains **Fuzz / Overdrive** because that is the canonical catalog classification.
+https://www.sweetwater.com/store/detail/Germanium4--electro-harmonix-germanium-4-big-muff-pi-distortion-overdrive-pedal — exact-model product reference.
+
+### Sources checked in this pass
+1. Electro-Harmonix Germanium 4 Big Muff Pi Distortion ... - Sweetwater: https://www.sweetwater.com/store/detail/Germanium4--electro-harmonix-germanium-4-big-muff-pi-distortion-overdrive-pedal
+2. Electro-Harmonix Germanium 4 Big Muff Pi Overdrive and Distortion Guitar Effects Pedal | Guitar Center: https://www.guitarcenter.com/Electro-Harmonix/Germanium-4-Big-Muff-Pi-Overdrive-and-Distortion-Guitar-Effects-Pedal-1275425410608.gc
+3. Electro-Harmonix Germanium 4 Big Muff Pi — Overdrive Pedal: https://equipboard.com/items/electro-harmonix-germanium-4-big-muff-pi
+4. Electro-Harmonix Germanium 4 Big Muff Pi Pedal Review: Vintage Fuzz Reimagined with Precision | GearStrings: https://gearstrings.com/gear-reviews/electro-harmonix-germanium-4-big-muff-pi-pedal-review
+5. Electro-Harmonix Germanium 4 Big Muff Pi: https://www.buyanalogman.com/Electro_Harmonix_Germanium_4_Big_Muff_Pi_p/ehgermaniummuff.htm
+6. The Electro-Harmonix Germanium 4 Big Muff Pi - Vintage Guitar: https://www.vintageguitar.com/8485/the-electro-harmonix-germanium-4-big-muff-pi/

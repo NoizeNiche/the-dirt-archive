@@ -8,6 +8,8 @@
 
 ## What this pedal is
 
+Stomp Under Foot Red Army Vintage Mini Overdrive Pedal – Flipside Music: https://flipside-music.com/products/stomp-under-foot-red-army-vintage-mini-overdrive-pedal - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
 ## Colorways
 - Sonically, the Red Army stands apart from other Russian Big Muffs.
 
@@ -35,3 +37,28 @@ Platte River Drive, Denver, CO 80223
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Stomp Under Foot Red Army Vintage Mini Overdrive Pedal – Flipside Music: https://flipside-music.com/products/stomp-under-foot-red-army-vintage-mini-overdrive-pedal - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+### Verified color/finish evidence
+- **Archive parent:** Red Army Vintage Mini - **Builder:** Stomp Under Foot - **Catalog type:** Fuzz - **Identity:** Stomp Under Foot's Red Army Vintage Mini.
+- Sonically, the Red Army stands apart from other Russian Big Muffs.
+- Stomp Under Foot Red Army Vintage Mini Overdrive Pedal: https://reverb.com/item/99502354-stomp-under-foot-red-army-vintage-mini-overdrive-pedal 2.
+
+### Verified version references
+- The evidence references: revision.
+
+### Verified sound evidence
+**Archive parent:** Red Army Vintage Mini - **Builder:** Stomp Under Foot - **Catalog type:** Fuzz - **Identity:** Stomp Under Foot's Red Army Vintage Mini.
+It offers slightly less low end than the Civil War that followed and delivers a grittier, more aggressive fuzz that is closer in texture to the later Green Russian, but with its own raw character.
+Platte River Drive, Denver, CO 80223 1.
+
+### Sources checked in this pass
+1. Stomp Under Foot Red Army Vintage Mini Overdrive Pedal: https://reverb.com/item/99502354-stomp-under-foot-red-army-vintage-mini-overdrive-pedal
+2. Stomp Under Foot Red Army Vintage Mini Fuzz Effect Pedal &ndash; Twin Town Guitars: https://www.twintown.com/products/stomp-under-foot-red-army-vintage-mini-fuzz-effect-pedal
+3. Stomp Under Foot Red Army Vintage Mini Overdrive Pedal &ndash; Flipside Music: https://flipside-music.com/products/stomp-under-foot-red-army-vintage-mini-overdrive-pedal

@@ -27,7 +27,12 @@ VFE Pedals - The RUP mkII is now available to pre-order on...
 - **Exact part:** Unknown.
 
 ## Sound
+
 RUP mkII - ultimate multiband distortion
+
+RUP mkII - ultimate multiband distortion 1.
+
+**Archive parent:** RUP mkII - **Builder:** VFE Pedals - **Catalog type:** Distortion - **Identity:** VFE Pedals's RUP mkII.
 
 ## Sources checked
 1. RUP mkII - ultimate multiband distortion | VFE Pedals: https://www.vfepedals.com/product-page/rup
@@ -35,3 +40,25 @@ RUP mkII - ultimate multiband distortion
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+VFE Pedals - The RUP mkII is now available to pre-order on...
+
+### Verified color/finish evidence
+- No specific factory colorway information was established in the verified evidence packet.
+
+### Verified version references
+- The evidence references: mkII, mkii, revision, v4.
+
+### Verified sound evidence
+RUP mkII - ultimate multiband distortion
+RUP mkII - ultimate multiband distortion 1.
+**Archive parent:** RUP mkII - **Builder:** VFE Pedals - **Catalog type:** Distortion - **Identity:** VFE Pedals's RUP mkII.
+
+### Sources checked in this pass
+1. RUP mkII - ultimate multiband distortion | VFE Pedals: https://www.vfepedals.com/product-page/rup
+2. VFE Pedals - The RUP mkII is now available to pre-order on...: https://www.facebook.com/VFEpedals/posts/the-rup-mkii-is-now-available-to-pre-order-on-the-vfe-pedals-websitepre-order-pr/1386170920216489/

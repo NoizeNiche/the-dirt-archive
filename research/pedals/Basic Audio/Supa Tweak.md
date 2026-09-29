@@ -68,3 +68,21 @@ Sag toggle which boosts gain will sag and dip the output with a harder pick atta
 
 ### Sources checked in this pass
 1. Supa Tweak &mdash; Basic Audio: https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-cnzrr-bfrf8
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Supa Tweak — Basic Audio Contact Store About Menu Basic Audio Contact Store About Pedal colors are subject to change.
+
+### Verified version references
+- The evidence references: MKI, revision, v1.
+
+### Verified sound evidence
+Interstage low/ gain cut which helps the pedal clean up much better.
+Sag toggle which boosts gain will sag and dip the output with a harder pick attack.
+**Archive parent:** Supa Tweak - **Builder:** Basic Audio - **Catalog type:** Fuzz - **Identity:** Expanded Supa MKI/Marshall Supa Fuzz-style fuzz with externally separated Gain and Bias, interstage low/gain cut and Sag switching.
+
+### Sources checked in this pass
+1. Supa Tweak &mdash; Basic Audio: https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-cnzrr-bfrf8

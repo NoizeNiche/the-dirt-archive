@@ -26,10 +26,33 @@ Catalog source page on file: https://fuzzrociouspedals.com/?product=maggotor - *
 - **Exact part:** Unknown.
 
 ## Sound
+
 The Dirt Archive currently catalogs **Maggotor** by **Fuzzrocious Pedals** as a **Fuzz** pedal.
+
+**Archive parent:** Maggotor - **Builder:** Fuzzrocious Pedals - **Catalog type:** Fuzz - **Identity:** Fuzzrocious Pedals's Maggotor.
 
 ## Sources checked
 1. MAGGOTOR | FUZZROCIOUS PEDALS: https://fuzzrociouspedals.com/?product=maggotor
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Catalog source page on file: https://fuzzrociouspedals.com/?product=maggotor - **Archive photo:** No verified local photo is currently archived.
+
+### Verified color/finish evidence
+- No specific factory colorway information was established in the verified evidence packet.
+
+### Verified version references
+- The evidence references: revision.
+
+### Verified sound evidence
+The Dirt Archive currently catalogs **Maggotor** by **Fuzzrocious Pedals** as a **Fuzz** pedal.
+**Archive parent:** Maggotor - **Builder:** Fuzzrocious Pedals - **Catalog type:** Fuzz - **Identity:** Fuzzrocious Pedals's Maggotor.
+
+### Sources checked in this pass
+1. MAGGOTOR | FUZZROCIOUS PEDALS: https://fuzzrociouspedals.com/?product=maggotor

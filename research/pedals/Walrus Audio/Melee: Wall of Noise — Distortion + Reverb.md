@@ -28,8 +28,35 @@ Walrus Audio's Melee: Wall of Noise — Distortion + Reverb is cataloged as a di
 
 ## Sound
 
+Tech Demo - Melee: Wall of Noise Distortion + Reverb Pedal FREE SHIPPING We ship most orders within 1-3 business days.
+
+All Rights Reserved - **Archive parent:** Melee: Wall of Noise — Distortion + Reverb - **Builder:** Walrus Audio - **Catalog type:** Distortion / Fuzz / Overdrive - **Identity:** Walrus Audio's Melee: Wall of Noise — Distortion + Reverb.
+
+Walrus Audio's Melee: Wall of Noise — Distortion + Reverb is cataloged as a distortion / fuzz / overdrive pedal.
+
 ## Sources checked
 1. Tech Demo - Melee: Wall of Noise Distortion + Reverb Pedal: https://www.walrusaudio.com/blogs/news/understanding-the-melee-wall-of-noise-distortion-reverb-pedal
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Walrus Audio's Melee: Wall of Noise — Distortion + Reverb is cataloged as a distortion / fuzz / overdrive pedal.
+
+### Verified color/finish evidence
+- No specific factory colorway information was established in the verified evidence packet.
+
+### Verified version references
+- The evidence references: MKII, revision.
+
+### Verified sound evidence
+Tech Demo - Melee: Wall of Noise Distortion + Reverb Pedal FREE SHIPPING We ship most orders within 1-3 business days.
+All Rights Reserved - **Archive parent:** Melee: Wall of Noise — Distortion + Reverb - **Builder:** Walrus Audio - **Catalog type:** Distortion / Fuzz / Overdrive - **Identity:** Walrus Audio's Melee: Wall of Noise — Distortion + Reverb.
+Walrus Audio's Melee: Wall of Noise — Distortion + Reverb is cataloged as a distortion / fuzz / overdrive pedal.
+
+### Sources checked in this pass
+1. Tech Demo - Melee: Wall of Noise Distortion + Reverb Pedal: https://www.walrusaudio.com/blogs/news/understanding-the-melee-wall-of-noise-distortion-reverb-pedal

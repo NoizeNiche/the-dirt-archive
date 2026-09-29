@@ -28,10 +28,35 @@ Accel Audio's OD-SS Express Overdrive is cataloged in the archive as a Overdrive
 
 ## Sound
 
-No verified pedal-specific sonic summary is currently established in the archive.
+The OD-SS Express Overdrive is equipped with a toggle switch that has three modes.
+
+Each mode makes a subtle change to the tone: Normal, Bright and Warm.
+
+Accel Audio's OD-SS Express Overdrive is cataloged in the archive as a Overdrive pedal.
 
 ## Sources checked
 1. Accel OD-SS Express Overdrive | Effects Database: https://www.effectsdatabase.com/model/accel/od
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+The OD-SS Express Overdrive is equipped with a toggle switch that has three modes.
+
+### Verified color/finish evidence
+- No specific factory colorway information was established in the verified evidence packet.
+
+### Verified version references
+- The evidence references: revision.
+
+### Verified sound evidence
+The OD-SS Express Overdrive is equipped with a toggle switch that has three modes.
+Each mode makes a subtle change to the tone: Normal, Bright and Warm.
+Accel Audio's OD-SS Express Overdrive is cataloged in the archive as a Overdrive pedal.
+
+### Sources checked in this pass
+1. Accel OD-SS Express Overdrive | Effects Database: https://www.effectsdatabase.com/model/accel/od

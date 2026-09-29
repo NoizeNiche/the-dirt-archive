@@ -26,6 +26,9 @@ Fuzzrocious Pedals's Cat King is cataloged as a fuzz pedal.
 - **Exact part:** Unknown.
 
 ## Sound
+
+Fuzzrocious Pedals's Cat King is cataloged as a fuzz pedal.
+
 The Dirt Archive currently catalogs **Cat King** by **Fuzzrocious Pedals** as a **Fuzz** pedal.
 
 ## Sources checked
@@ -33,3 +36,23 @@ The Dirt Archive currently catalogs **Cat King** by **Fuzzrocious Pedals** as a 
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Fuzzrocious Pedals's Cat King is cataloged as a fuzz pedal.
+
+### Verified color/finish evidence
+- No specific factory colorway information was established in the verified evidence packet.
+
+### Verified version references
+- The evidence references: revision.
+
+### Verified sound evidence
+Fuzzrocious Pedals's Cat King is cataloged as a fuzz pedal.
+The Dirt Archive currently catalogs **Cat King** by **Fuzzrocious Pedals** as a **Fuzz** pedal.
+
+### Sources checked in this pass
+1. CAT KING | FUZZROCIOUS PEDALS: https://fuzzrociouspedals.com/?product=catking

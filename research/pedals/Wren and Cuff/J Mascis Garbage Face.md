@@ -28,7 +28,11 @@ J Mascis Garbage Face — Wren And Cuff Fuzz Pedal
 
 ## Sound
 
-No verified pedal-specific sonic summary is currently established in the archive.
+We know you’ll love this collaboration with one of the best masters of fuzz that has ever lived.
+
+J Mascis Garbage Face — Wren And Cuff Fuzz Pedal - No specific factory colorway information was established in the verified evidence packet.
+
+Documented terms in the verified sources: germanium transistor, Germanium Fuzz.
 
 ## Sources checked
 1. J Mascis Garbage Face — Wren and Cuff: https://www.wrenandcuff.com/products/j-garbage-face
@@ -40,3 +44,32 @@ No verified pedal-specific sonic summary is currently established in the archive
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+J Mascis Garbage Face — Wren And Cuff Fuzz Pedal - No specific factory colorway information was established in the verified evidence packet.
+
+### Verified color/finish evidence
+- J Mascis Garbage Face — Wren And Cuff Fuzz Pedal - No specific factory colorway information was established in the verified evidence packet.
+
+### Verified version references
+- The evidence references: MKII, V2, revision.
+
+### Verified transistor/device terms
+- germanium transistor, Germanium Fuzz.
+
+### Verified sound evidence
+We know you’ll love this collaboration with one of the best masters of fuzz that has ever lived.
+J Mascis Garbage Face — Wren And Cuff Fuzz Pedal - No specific factory colorway information was established in the verified evidence packet.
+Documented terms in the verified sources: germanium transistor, Germanium Fuzz.
+
+### Sources checked in this pass
+1. J Mascis Garbage Face &mdash; Wren and Cuff: https://www.wrenandcuff.com/products/j-garbage-face
+2. Wren and Cuff J Mascis Garbage Face — Fuzz Pedal | Equipboard: https://equipboard.com/items/wren-and-cuff-j-mascis-garbage-face
+3. Wren And Cuff J Mascis Garbage Face: https://austinguitarhouse.com/wren-and-cuff-garbage-face/
+4. Wren and Cuff J Mascis Garbage Face - Reverb: https://reverb.com/p/wren-and-cuff-j-mascis-garbage-face
+5. Wren and Cuff J Mascis Garbage Face Dimensions, Specs & Details: https://www.stompboxgarden.com/gear/pedal/15789/wren-and-cuff-j-mascis-garbage-face
+6. J Mascis Garbage Face — Wren And Cuff Fuzz Pedal | PedalFilter | PedalFilter: https://pedalfilter.com/wren-and-cuff/j-mascis-garbage-face

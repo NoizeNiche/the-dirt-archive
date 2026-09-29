@@ -65,3 +65,28 @@ The archive retains **Overdrive** as the canonical catalog type while noting the
 6. PDF DOUBLE MUFF Harmonix retailer. Repaired or replaced ... - Electro-Harmonix: https://www.ehx.com/wp-content/uploads/2021/01/double-muff-manual.pdf
 7. electro-harmonix DOUBLE MUFF Classic Dual Muff Overdrive User Manual ...: https://manuals.plus/electro-harmonix/double-muff-classic-dual-muff-overdrive-manual
 8. Electro-Harmonix Double Muff Manual | AI Chat | Manualzz: https://manualzz.com/doc/13475011/electro-harmonix-double-muff-overdrive-user-manual
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+The **Electro-Harmonix Double Muff** is a two-stage Muff-family effect whose exact product references use both **Fuzz** and **Overdrive** language.
+
+### Verified version references
+- The evidence references: Revision, revision.
+
+### Verified sound evidence
+The **Electro-Harmonix Double Muff** is a two-stage Muff-family effect whose exact product references use both **Fuzz** and **Overdrive** language.
+The archive retains **Overdrive** as the canonical catalog type while noting the fuzz lineage.
+**Model:** Double Muff - **Type:** Overdrive - **Family relationship:** Dual Muff-style gain/fuzz concept - **Factory BOM:** not established in this pass - **Revision history:** not established in this pass - **Archive photo:** No verified local photo is currently archived for Double Muff.
+
+### Sources checked in this pass
+1. Electro-Harmonix Double Muff Fuzz / Overdrive Pedal - Reverb: https://reverb.com/p/electro-harmonix-double-muff
+2. Electro-Harmonix Double Muff Fuzz / Overdrive Pedal | Sweetwater: https://www.sweetwater.com/store/detail/DoubleMuff--electro-harmonix-double-muff-fuzz-overdrive-pedal
+3. Electro-Harmonix Double Muff — Fuzz Pedal | Equipboard: https://equipboard.com/items/electro-harmonix-double-muff
+4. Electro-Harmonix Double Muff for sale | eBay: https://www.ebay.com/sch/i.html?_nkw=Electro-Harmonix+Double+Muff&_sop=12
+5. Electro-Harmonix Double Muff - Effects Database: https://www.effectsdatabase.com/model/eh/doublemuff
+6. PDF DOUBLE MUFF Harmonix retailer. Repaired or replaced ... - Electro-Harmonix: https://www.ehx.com/wp-content/uploads/2021/01/double-muff-manual.pdf
+7. electro-harmonix DOUBLE MUFF Classic Dual Muff Overdrive User Manual ...: https://manuals.plus/electro-harmonix/double-muff-classic-dual-muff-overdrive-manual
+8. Electro-Harmonix Double Muff Manual | AI Chat | Manualzz: https://manualzz.com/doc/13475011/electro-harmonix-double-muff-overdrive-user-manual

@@ -1,14 +1,16 @@
 {
   "builder": "Fuzzrocious Pedals",
   "pedal": "Cat King",
+  "original_builder": "Fuzzrocious Pedals",
+  "original_pedal": "Cat King",
   "status": "VERIFIED_EVIDENCE_STAGED",
   "independent_exact_source_count": 1,
   "sources": [
     {
-      "url": "https://fuzzrociouspedals.com/?product_cat=current",
-      "title": "Current | FUZZROCIOUS PEDALS",
-      "h1": "Category Archive",
-      "excerpt": "Current | FUZZROCIOUS PEDALS Skip to content Navigation $ 0.00 0 Items $ 0.00 0 Items Category Archive Showing all 17 results Sorted by latest Sort by popularity Sort by average rating Sort by latest Sort by price: low to high Sort by price: high to low GREY STACHE/HELIOTROPIC $ 189.00 Read more <\n- **Builder:** Fuzzrocious Pedals\n- **Pedal:** Cat King\n- **Catalog type:** Fuzz\n- **Research level:** Surface\n- **Deep research status:** Pending\n- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.\n\nThe Dirt Archive currently catalogs **Cat King** by **Fuzzrocious Pedals** as a **Fuzz** pedal. This statement is limited to the archive\u2019s catalog classification. Deeper technical, historical, and sonic details remain pending verification.\n\n- Catalog source page on file: https://fuzzrociouspedals.com/?product_cat=current\n\n- **Archive photo:** No verified local photo is currently archived.\n- Photo provenance and validation are handled separately from this surface research record.\n\n- **Status:** Pending\n- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive\u2019s research foreman.",
+      "url": "https://fuzzrociouspedals.com/?product=catking",
+      "title": "CAT KING | FUZZROCIOUS PEDALS",
+      "h1": "Pedal Shop",
+      "excerpt": "CAT KING | FUZZROCIOUS PEDALS Skip to content Navigation $ 0.00 0 Items <a href=\"https://fuzzrociouspedals.com/?page_id=25\" class=\"x-btn-navbar-woo\n- **Archive parent:** Cat King\n- **Builder:** Fuzzrocious Pedals\n- **Catalog type:** Fuzz\n- **Identity:** Fuzzrocious Pedals's Cat King.\n\nFuzzrocious Pedals's Cat King is cataloged as a fuzz pedal.\n\n- No specific factory colorway information was established in the verified evidence packet.\n\n- No distinct factory revision was established in the verified evidence packet.\n\n- No specific factory version changes were established in the verified evidence packet.\n\n- Exact production transistor/device information was not established in the verified evidence packet.\n- **Exact transistor/device:** Unknown.\n\n- Exact production clipping/rectifier diode information was not established in the verified evidence packet.\n- **Exact part:** Unknown.\n\nThe Dirt Archive currently catalogs **Cat King** by **Fuzzrocious Pedals** as a **Fuzz** pedal.\n\n1. Current | FUZZROCIOUS PEDALS: https://fuzzrociouspedals.com/?product_cat=current\n\n- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.",
       "host": "fuzzrociouspedals.com",
       "source_kind": "manufacturer"
     }

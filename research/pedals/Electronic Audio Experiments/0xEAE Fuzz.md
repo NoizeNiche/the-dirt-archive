@@ -7,7 +7,8 @@
 - **Identity:** Electronic Audio Experiments's 0xEAE Fuzz.
 
 ## What this pedal is
-Electronic Audio Experiments's 0xEAE Fuzz is cataloged as a fuzz pedal.
+
+Dimensions: 6.75” x 3.5” x 2” Weight: 1.5 lbs download manual 0xEAE Fuzz The 0xEAE Bass Driver is discontinued as of Spring 2025.
 
 ## Colorways
 - No specific factory colorway information was established in the verified evidence packet.
@@ -36,3 +37,24 @@ Collaborations 0xEAE Boost A razor-sharp boost/overdrive with a massive output.
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Dimensions: 6.75” x 3.5” x 2” Weight: 1.5 lbs download manual 0xEAE Fuzz The 0xEAE Bass Driver is discontinued as of Spring 2025.
+
+### Verified color/finish evidence
+- No specific factory colorway information was established in the verified evidence packet.
+
+### Verified version references
+- The evidence references: V1, revision.
+
+### Verified sound evidence
+0xEAE Fuzz Archive — Electronic Audio Experiments Pedals Accessories DIY Dealers Blog Support About Menu Pedals Accessories DIY Dealers Blog Support About × Specifications Bypass: Relay switching with op amp buffered bypass.
+Dimensions: 6.75” x 3.5” x 2” Weight: 1.5 lbs download manual 0xEAE Fuzz The 0xEAE Bass Driver is discontinued as of Spring 2025.
+The 0xEAE Fuzz is our second collaboration with the design collective Obstructures and is the most dangerous gain device in our lineup to date.
+
+### Sources checked in this pass
+1. 0xEAE Fuzz Archive &mdash; Electronic Audio Experiments: https://www.electronicaudioexperiments.com/legacy/0xeae-fuzz

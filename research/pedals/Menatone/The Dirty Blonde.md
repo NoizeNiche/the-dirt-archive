@@ -28,7 +28,11 @@ The Dirty Blonde is a tweed-influenced overdrive built to capture cranked Americ
 
 ## Sound
 
-No verified pedal-specific sonic summary is currently established in the archive.
+The Dirty Blonde is a tweed-influenced overdrive built to capture cranked American amp tone and twang.
+
+The Dirty Blonde — Menatone Overdrive Pedal
+
+**Archive parent:** The Dirty Blonde - **Builder:** Menatone - **Catalog type:** Distortion / Overdrive - **Identity:** Menatone's The Dirty Blonde.
 
 ## Sources checked
 1. THE DIRTY BLONDE | menatone: https://www.menatone.com/product-page/the-dirty-b
@@ -41,3 +45,30 @@ No verified pedal-specific sonic summary is currently established in the archive
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+The Dirty Blonde is a tweed-influenced overdrive built to capture cranked American amp tone and twang.
+
+### Verified color/finish evidence
+- No specific factory colorway information was established in the verified evidence packet.
+
+### Verified version references
+- The evidence references: Mk3, mk3, revision.
+
+### Verified sound evidence
+The Dirty Blonde is a tweed-influenced overdrive built to capture cranked American amp tone and twang.
+The Dirty Blonde — Menatone Overdrive Pedal
+**Archive parent:** The Dirty Blonde - **Builder:** Menatone - **Catalog type:** Distortion / Overdrive - **Identity:** Menatone's The Dirty Blonde.
+
+### Sources checked in this pass
+1. THE DIRTY BLONDE | menatone: https://www.menatone.com/product-page/the-dirty-b
+2. Menatone The Dirty Blonde - eBay: https://www.ebay.com/itm/198636318381
+3. The Dirty Blonde — Menatone Overdrive Pedal | PedalFilter | PedalFilter: https://pedalfilter.com/menatone/the-dirty-blonde
+4. Menatone The Dirty Blonde Mk3 - Reverb: https://reverb.com/item/18248550-menatone-the-dirty-blonde-mk3
+5. Used Menatone The Dirty Blonde Effect Pedal - Guitar Center: https://www.guitarcenter.com/Used/Menatone/Used-Menatone-The-Dirty-Blonde-Effect-Pedal-122306274.gc
+6. NoiseGuide - Menatone The Dirty Blonde: https://www.noiseguide.com/product_info/menatone_the_dirty_blonde
+7. Menatone Dirty Blonde Brand New $199.00 - Gbase: https://www.gbase.com/gear/menatone-dirty-blonde

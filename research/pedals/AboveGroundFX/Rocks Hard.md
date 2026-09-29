@@ -28,10 +28,32 @@ AboveGroundFX's Rocks Hard is cataloged in the archive as a Distortion pedal.
 
 ## Sound
 
-No verified pedal-specific sonic summary is currently established in the archive.
+SNAMM 2010 Video Date ▼▲ Maker ▼▲ Video ▼▲ Time ▼▲ 2010-06-29 Premier Guitar Summer NAMM '10 - AboveGround FX Rocks Hard Distortion, Ropez PH Phaser & Tap Tremolo Demos 10:38 2010-06-20 What's That Dude Play?
+
+AboveGroundFX's Rocks Hard is cataloged in the archive as a Distortion pedal.
 
 ## Sources checked
 1. AboveGroundFX Rocks Hard | Effects Database: https://www.effectsdatabase.com/model/aboveground/rockshard
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+AboveGroundFX's Rocks Hard is cataloged in the archive as a Distortion pedal.
+
+### Verified color/finish evidence
+- No specific factory colorway information was established in the verified evidence packet.
+
+### Verified version references
+- The evidence references: revision.
+
+### Verified sound evidence
+SNAMM 2010 Video Date ▼▲ Maker ▼▲ Video ▼▲ Time ▼▲ 2010-06-29 Premier Guitar Summer NAMM '10 - AboveGround FX Rocks Hard Distortion, Ropez PH Phaser & Tap Tremolo Demos 10:38 2010-06-20 What's That Dude Play?
+AboveGroundFX's Rocks Hard is cataloged in the archive as a Distortion pedal.
+
+### Sources checked in this pass
+1. AboveGroundFX Rocks Hard | Effects Database: https://www.effectsdatabase.com/model/aboveground/rockshard

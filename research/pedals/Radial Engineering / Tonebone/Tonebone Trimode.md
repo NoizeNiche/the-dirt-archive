@@ -45,3 +45,18 @@ Rhythm and Solo use separate drive/gain behavior, while the Solo path includes a
 
 ### Sources checked in this pass
 1. catalog/override source: https://www.effectsdatabase.com/model/radial/tonebone/trimode
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Radial Engineering / Tonebone's Tonebone Trimode is cataloged as a distortion / overdrive pedal.
+
+### Verified sound evidence
+The Dirt Archive currently catalogs **Tonebone Trimode** by **Radial Engineering / Tonebone** as a **Distortion / Overdrive** pedal.
+Effects Database identifies **Tonebone Trimode** as a Radial Tonebone model using a 12AX7 and a dual-stage drive architecture.
+Rhythm and Solo use separate drive/gain behavior, while the Solo path includes a mid-boost; the pedal also includes an effects loop on the lead/solo channel.
+
+### Sources checked in this pass
+1. catalog/override source: https://www.effectsdatabase.com/model/radial/tonebone/trimode

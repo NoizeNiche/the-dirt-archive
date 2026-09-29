@@ -45,3 +45,28 @@ This pass verifies the model against Devi Ever : FX's own historical account and
 ## Photo
 - **Archive status:** Photo recovery is handled separately from research synthesis.
 - This research pass does not make or infer a photo assignment.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+This is useful identity history for the archive because older Tri-Fuzz examples can appear under the Effector 13 name even though the canonical builder identity is now Devi Ever : FX.
+
+### Verified color/finish evidence
+- The surviving official history does not establish a complete numbered revision list or factory colorway sequence.
+
+### Verified version references
+- The evidence references: revision.
+
+### Verified diode terms
+- led.
+
+### Verified sound evidence
+**Archive parent:** Tri-Fuzz - **Builder:** Devi Ever : FX - **Catalog type:** Fuzz - **Identity:** Devi Ever : FX Tri-Fuzz.
+The same account identifies the **first batch of Tri-Fuzz pedals as 2003** and says the Krackle Fuzz led to the Tri-Fuzz and later related designs.
+This is useful identity history for the archive because older Tri-Fuzz examples can appear under the Effector 13 name even though the canonical builder identity is now Devi Ever : FX.
+
+### Sources checked in this pass
+1. Client Challenge: https://www.scribd.com/document/211309101/Devi-Ever-Diy-Info-Manual-aw-heck-yes
+2. devi ever : fx - About: https://www.fuzzgoddess.com/about/
