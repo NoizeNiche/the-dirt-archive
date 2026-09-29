@@ -57,8 +57,8 @@ Dynamic overdrive with natural harmonics right at your feet ODR1 is a smooth, dy
 ### Verified version references
 - The evidence references: V4.
 
-### Verified transistor/device terms
-- AC30.
+### Verified amp-reference terms
+- The verified source uses this amp model as a tonal reference.
 
 ### Verified sound evidence
 Delicious Audio Creative Pedals Creative Delay Tape Delay W/ Reverb Delay Distortion Fuzz Overdrive Dual Gain Dirt Boost Compr.

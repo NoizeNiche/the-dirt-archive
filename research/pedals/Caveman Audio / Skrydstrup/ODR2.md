@@ -54,8 +54,8 @@ This pass adds only claims supported by the newly admitted exact-model evidence.
 ### Verified description
 Info about the original Cornish copy: Skrydstrup R&D Overdrive ODR-2 The ODR2 is a smooth, dynamic overdrive unit designed to emulate the overdrive sounds of our highly recognized OD50 Tube Amplifier.
 
-### Verified transistor/device terms
-- AC30.
+### Verified amp-reference terms
+- The verified source uses this amp model as a tonal reference.
 
 ### Verified diode terms
 - LED.

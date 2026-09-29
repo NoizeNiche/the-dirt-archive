@@ -53,8 +53,8 @@ This pass adds only claims supported by the newly admitted exact-model evidence.
 ### Verified description
 Colombo Audio Electronics's Mr. Deaky is cataloged as a distortion pedal.
 
-### Verified transistor/device terms
-- AC30.
+### Verified amp-reference terms
+- The verified source uses this amp model as a tonal reference.
 
 ### Verified sound evidence
 Deaky - Electric guitar pedal - Deacy Amp, Distortion - Colombo Audio Electronics /*!
