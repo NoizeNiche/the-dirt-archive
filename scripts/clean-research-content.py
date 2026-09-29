@@ -2,6 +2,7 @@
 """Conservatively remove obvious scraped webpage residue from research markdown."""
 
 from __future__ import annotations
+import difflib
 import html
 import re
 from pathlib import Path
@@ -171,6 +172,33 @@ def clean_commerce_line(line: str) -> str | None:
     if re.search(r"\b(?:regular price|quantity|product variants|view cart|checkout|sold out|sku:)\b", lower):
         return None
     return None
+
+def title_residue(line: str, current_pedal: str) -> bool:
+    """Reject standalone near-duplicate pedal-title fragments left by scrapers."""
+    if not current_pedal or not line.strip():
+        return False
+    visible = markdown_visible(line).strip(" .:;|-")
+    if not (8 <= len(visible) <= len(current_pedal) + 14):
+        return False
+    # A genuine sentence about the pedal can contain its full name. Residue is
+    # normally a short, punctuation-light title fragment with little verb
+    # structure, so exclude ordinary sentence openings before fuzzy matching.
+    if re.search(r"\b(?:is|are|was|were|uses|using|features|offers|delivers|provides|described|voiced|designed|lets|allows)\b", visible, re.I):
+        return False
+    candidates = [current_pedal]
+    if " - " in current_pedal:
+        candidates.append(current_pedal.split(" - ", 1)[1].strip())
+    if " — " in current_pedal:
+        candidates.append(current_pedal.split(" — ", 1)[1].strip())
+    norm_line = re.sub(r"[^a-z0-9]+", " ", visible.casefold()).strip()
+    for candidate in candidates:
+        norm_candidate = re.sub(r"[^a-z0-9]+", " ", candidate.casefold()).strip()
+        if not norm_candidate:
+            continue
+        ratio = difflib.SequenceMatcher(None, norm_line, norm_candidate).ratio()
+        if ratio >= 0.84:
+            return True
+    return False
 
 def clean_release_mismatch(line: str, section: str, current_pedal: str) -> str | None:
     if section != "what this pedal is":
@@ -623,6 +651,12 @@ def clean_file(path: Path) -> bool:
         if release_clean != line:
             line = release_clean
             changed = True
+        if section in {"sound", "what this pedal is", "deep research verification"} and title_residue(line, current_pedal):
+            changed = True
+            continue
+        if section == "deep research verification" and re.fullmatch(r"-\\s*The evidence references:\\s*revision\\.?", line.strip(), re.I):
+            changed = True
+            continue
         if section == "transistor":
             # Amp/model references belong in sound or amp-reference context,
             # never in the transistor taxonomy. Preserve real device terms.
