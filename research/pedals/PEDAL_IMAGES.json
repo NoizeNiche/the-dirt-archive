@@ -16733,9 +16733,9 @@
   {
     "builder": "Darkglass Electronics",
     "pedal": "Microtubes B1K",
-    "image": null,
     "source_page": "https://www.effectsdatabase.com/model/darkglass/microtubes/b1k",
-    "research_record": "./research/pedals/Darkglass Electronics/Microtubes B1K.md"
+    "research_record": "./research/pedals/Darkglass Electronics/Microtubes B1K.md",
+    "image_source_page": "https://thedarkglass.shop/products/b1k"
   },
   {
     "builder": "Darkglass Electronics",
@@ -27070,7 +27070,8 @@
     "builder": "Pigtronix",
     "pedal": "FAT Drive",
     "source_page": null,
-    "research_record": "./research/pedals/Pigtronix/FAT Drive.md"
+    "research_record": "./research/pedals/Pigtronix/FAT Drive.md",
+    "image_source_page": "https://www.premierguitar.com/gear/pigtronix-fat-drive-pedal-review"
   },
   {
     "builder": "Pigtronix",
@@ -30814,7 +30815,8 @@
     "builder": "Way Huge",
     "pedal": "Overrated Special",
     "source_page": null,
-    "research_record": "./research/pedals/Way Huge/Overrated Special.md"
+    "research_record": "./research/pedals/Way Huge/Overrated Special.md",
+    "image_source_page": "https://www.jimdunlop.com/way-huge-smalls-overrated-special-overdrive/"
   },
   {
     "builder": "Way Huge",
@@ -30840,13 +30842,15 @@
     "builder": "Way Huge",
     "pedal": "Russian-Pickle",
     "source_page": null,
-    "research_record": "./research/pedals/Way Huge/Russian-Pickle.md"
+    "research_record": "./research/pedals/Way Huge/Russian-Pickle.md",
+    "image_source_page": "https://www.jimdunlop.com/way-huge-smalls-russian-pickle-fuzz/"
   },
   {
     "builder": "Way Huge",
     "pedal": "Saucy Box Overdrive",
     "source_page": null,
-    "research_record": "./research/pedals/Way Huge/Saucy Box Overdrive.md"
+    "research_record": "./research/pedals/Way Huge/Saucy Box Overdrive.md",
+    "image_source_page": "https://motorcityguitar.com/products/way-huge-whe205-saucy-box-overdrive-br-pedal?variant=45058457230"
   },
   {
     "builder": "Way Huge",
@@ -31178,7 +31182,8 @@
     "builder": "Xotic Effects",
     "pedal": "Bass BB Preamp V1.5",
     "source_page": null,
-    "research_record": "./research/pedals/Xotic Effects/Bass BB Preamp V1.5.md"
+    "research_record": "./research/pedals/Xotic Effects/Bass BB Preamp V1.5.md",
+    "image_source_page": "https://guitarpedalshoppe.com/xotic-effects-bass-bb-pre"
   },
   {
     "builder": "Xotic Effects",
