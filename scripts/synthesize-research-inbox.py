@@ -274,6 +274,72 @@ def color_sentences(sources):
     return list(dict.fromkeys(out))[:3]
 
 
+
+def section_body(markdown: str, heading: str) -> str:
+    match = re.search(
+        rf"(?ms)^##\s+{re.escape(heading)}\s*$\n(.*?)(?=^##\s+|\Z)",
+        markdown,
+    )
+    return match.group(1).strip() if match else ""
+
+
+def visible_research_text(text: str) -> str:
+    text = re.sub(r"\[[0-9]+\]", "", text)
+    text = re.sub(r"https?://\S+", "", text)
+    text = re.sub(r"[*_\`#>-]", " ", text)
+    return re.sub(r"\s+", " ", text).strip()
+
+
+def weak_description(markdown: str) -> bool:
+    text = visible_research_text(section_body(markdown, "What this pedal is"))
+    return bool(
+        len(text) < 90
+        or re.fullmatch(
+            r".{0,30}(is|are)\s+(?:cataloged|listed|classified)\s+as\s+\w+.*",
+            text,
+            re.I,
+        )
+    )
+
+
+def weak_sound(markdown: str) -> bool:
+    text = visible_research_text(section_body(markdown, "Sound"))
+    return bool(
+        len(text) < 90
+        or re.search(
+            r"did not contain enough .*?(?:pedal-specific|product-specific).*?(?:description|evidence)|"
+            r"not enough .*? to make a more detailed sound summary",
+            text,
+            re.I,
+        )
+    )
+
+
+def replace_section(markdown: str, heading: str, body: str) -> str:
+    pattern = re.compile(
+        rf"(?ms)^##\s+{re.escape(heading)}\s*$\n.*?(?=^##\s+|\Z)"
+    )
+    replacement = f"## {heading}\n\n{body.strip()}\n\n"
+    updated, count = pattern.subn(replacement, markdown, count=1)
+    return updated if count else markdown
+
+
+def strong_description_candidate(text: str, pedal: str) -> bool:
+    visible = visible_research_text(text)
+    if len(visible) < 90:
+        return False
+    if re.search(r"\bis\s+cataloged\s+as\b|\bis\s+listed\s+as\b|\bis\s+classified\s+as\b", visible, re.I):
+        return False
+    return bool(
+        re.search(r"\b(?:is|are|designed|developed|delivers|offers|features|combines|uses|includes)\b", visible, re.I)
+        and pedal.lower() in visible.lower()
+    )
+
+
+def strong_sound_candidate(sounds: list[str]) -> bool:
+    return len(visible_research_text(" ".join(sounds))) >= 90
+
+
 def write_record(item, tracker_type, packet):
     builder = norm(item.get("company") or "")
     pedal = norm(item.get("pedal") or "")
@@ -288,7 +354,10 @@ def write_record(item, tracker_type, packet):
         if linked_record
         else RESEARCH_ROOT / builder / f"{pedal}.md"
     )
-    existing_revisitable = record_path.exists() and str(item.get("research_level") or "").strip().lower() in {"surface", "researched"}
+    existing_text = record_path.read_text(encoding="utf-8") if record_path.exists() else ""
+    research_level = str(item.get("research_level") or "").strip().lower()
+    quality_repair_needed = bool(existing_text) and (weak_description(existing_text) or weak_sound(existing_text))
+    existing_revisitable = record_path.exists() and (research_level in {"surface", "researched"} or quality_repair_needed)
     if (record_path.exists() or item.get("research_record")) and not existing_revisitable:
         return False, "record already exists"
 
@@ -308,8 +377,21 @@ def write_record(item, tracker_type, packet):
     # researched record and append only the new, verified evidence. Surface
     # placeholders are still replaced with the canonical first deep-research
     # record below.
-    if existing_revisitable and str(item.get("research_level") or "").strip().lower() == "researched":
-        existing_text = record_path.read_text(encoding="utf-8")
+    if existing_revisitable:
+        visible_repairs = []
+        if weak_description(existing_text) and strong_description_candidate(description, pedal):
+            existing_text = replace_section(existing_text, "What this pedal is", description)
+            visible_repairs.append("description")
+        if weak_sound(existing_text) and strong_sound_candidate(sounds):
+            existing_text = replace_section(existing_text, "Sound", "\n\n".join(sounds))
+            visible_repairs.append("sound")
+
+        # A deep-quality repair should produce a visible improvement. Do not
+        # append another hidden evidence block forever when the newly admitted
+        # sources cannot improve the public prose.
+        if research_level == "deep" and not visible_repairs:
+            return False, "no stronger visible research prose from admitted sources"
+
         verified_lines = [
             "",
             "## Deep research verification",
