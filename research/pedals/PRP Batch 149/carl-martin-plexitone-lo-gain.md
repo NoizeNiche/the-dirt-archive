@@ -21,11 +21,9 @@
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
 
 ### Verified description
-Carl Martin PlexiTone Lo-Gain 149,00 € Add to cart Find a dealer All about Carl Martin PlexiTone Lo-Gain PlexiTone Lo-Gain is built around a simple idea: sometimes the most useful drive sounds live below the obvious gain range.
 
 ### Verified sound evidence
 Toggle Menu PlexiTone Lo-Gain Lo-gain version of the original PlexiTone, offering classic British crunch with tone shaping and pedalboard compatibility.
-149,00 € Add to cart More details · Find a dealer Voiced for low to medium drive, perfect for enhancing your amp’s natural tone without overpowering it.
 Flexible for stacking: adds clarity before another drive or smooths and thickens after.
 
 ### Sources checked in this pass
