@@ -7,36 +7,35 @@
 - **Identity:** Retro Mechanical Labs's Electron Fuzz Custom.
 
 ## What this pedal is
-Close Retro Mechanical Labs Electron Fuzz Custom Sale Regular price $189.00 Default Title - Sold Out Quantity Sold Out The Electron Fuzz “Custom” is an extremely high gain distortion.
+The Electron Fuzz Custom is a very high-gain Retro Mechanical Labs distortion/fuzz design. RML describes the circuit as capable of extreme saturation and aggressive textures.
 
 ## Colorways
-- Electron Fuzz Custom Share: July 19, 2026 Price: $24 9 Fallout Black in stock.
+- Finish options vary by build.
+- The checked RML material documents a **Fallout Black** presentation for the current record.
+- Finish differences are not treated as circuit revisions.
 
 ## Versions and factory options
-- No distinct factory revision was established in the verified evidence packet.
+- Custom enclosure graphics and finish options are part of the Electron Fuzz Custom family.
+- Exact production component changes were not established in the checked sources.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- The checked sources do not establish a complete numbered production revision chronology.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
+- Exact production transistor/device information was not established in the checked sources.
 - **Exact transistor/device:** Unknown.
 
 ## Diode
-- Documented terms in the verified sources: LED.
-- The archive records only the component information explicitly present in these sources.
+- LED indicator is documented, but the exact clipping-device part is not established.
+- **Exact clipping part:** Unknown.
 
 ## Sound
-Electron Fuzz Custom – Retro Mechanical Labs RMLfx 2026 Site not run by AI.
-Recent Posts Electron Fuzz Custom GPI (Guitar Pedal Interface) 432k Rev2.1 Distortion Electron Fuzz Custom (Retro) EFC Studio Random thoughts: Make the world a better place with your music.
-Electron Fuzz Custom Share: July 19, 2026 Price: $24 9 Fallout Black in stock.
+The Electron Fuzz Custom is voiced for very high-gain distortion, fuzz, sustain, and extreme texture. RML's demonstrations emphasize aggressive saturation rather than a conventional vintage-fuzz response.
 
 ## Sources checked
-1. Electron Fuzz Custom – Retro Mechanical Labs: https://rmlfx.com/electron-fuzz-custom/
-2. Retro Mechanical Labs Electron Fuzz Custom Pedal | Equipboard: https://equipboard.com/items/retro-mechanical-labs-electron-fuzz
-3. Retro Mechanical Labs Electron Fuzz Custom &ndash; eastside music supply: https://eastsidemusicsupply.com/products/retro-mechanical-labs-electron-fuzz-custom
-4. Retro Mechanical Labs Electron Fuzz Custom - Reverb: https://reverb.com/item/92222537-retro-mechanical-labs-electron-fuzz-custom
-5. Electron Fuzz Custom Studio Review - Retro Mechanical Labs | Tape Op Magazine: https://tapeop.com/reviews/gear/143/electron-fuzz-custom-studio-distortion-rack
+1. Retro Mechanical Labs - Electron Fuzz Custom: https://rmlfx.com/electron-fuzz-custom/
+2. Effects Database - Retro Mechanical Labs Electron Fuzz Custom: https://www.effectsdatabase.com/model/retromechanicallabs/electronfuzzcustom
+3. Reverb - Retro Mechanical Labs Electron Fuzz Custom: https://reverb.com/item/92222537-retro-mechanical-labs-electron-fuzz-custom
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.
