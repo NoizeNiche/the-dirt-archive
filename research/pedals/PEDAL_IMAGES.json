@@ -6336,7 +6336,7 @@
   {
     "builder": "Blackbox Music Electronics",
     "pedal": "Ultraviolet",
-    "image": null,
+    "image": "./assets/pedals/blackbox-music-electronics/ultraviolet/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/blackbox/ultraviolet",
     "research_record": "./research/pedals/Blackbox Music Electronics/Ultraviolet.md"
   },
@@ -16103,9 +16103,10 @@
   {
     "builder": "Devi Ever FX",
     "pedal": "Soda Might",
-    "image": "",
+    "image": "./assets/pedals/devi-ever-fx/soda-might/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/deviever",
-    "research_record": "./research/pedals/Devi Ever FX/Soda Might.md"
+    "research_record": "./research/pedals/Devi Ever FX/Soda Might.md",
+    "image_source_url": "https://rvb-img.reverb.com/image/upload/s--WciCN_lx--/a_exif%2Cc_thumb%2Cf_auto%2Cfl_progressive%2Cg_south%2Ch_296%2Cq_auto%3Aeco%2Cw_296/v1431976879/qhgtnukln9qcfopjazyk.jpg"
   },
   {
     "builder": "Devi Ever FX",
@@ -16138,7 +16139,7 @@
   {
     "builder": "Devi Ever FX",
     "pedal": "The Ion",
-    "image": "",
+    "image": "./assets/pedals/devi-ever-fx/the-ion/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/deviever",
     "research_record": "./research/pedals/Devi Ever FX/The Ion.md"
   },
@@ -16221,7 +16222,7 @@
   {
     "builder": "Devi Ever FX",
     "pedal": "ZG Zero Good",
-    "image": "",
+    "image": "./assets/pedals/devi-ever-fx/zg-zero-good/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/deviever",
     "research_record": "./research/pedals/Devi Ever FX/ZG Zero Good.md"
   },
@@ -21917,7 +21918,7 @@
   {
     "builder": "Mad Professor Amplification",
     "pedal": "Fire Red Fuzz",
-    "image": null,
+    "image": "./assets/pedals/mad-professor-amplification/fire-red-fuzz/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Mad Professor Amplification/Fire Red Fuzz.md"
   },
@@ -25015,7 +25016,7 @@
   {
     "builder": "Origin Effects",
     "pedal": "RevivalDRIVE",
-    "image": null,
+    "image": "./assets/pedals/origin-effects/revivaldrive/primary.webp",
     "source_page": "https://origineffects.com/discontinued-products/",
     "research_record": "./research/pedals/Origin Effects/RevivalDRIVE.md"
   },
@@ -25029,7 +25030,7 @@
   {
     "builder": "Origin Effects",
     "pedal": "RevivalDRIVE Hot Rod Edition",
-    "image": null,
+    "image": "./assets/pedals/origin-effects/revivaldrive-hot-rod-edition/primary.webp",
     "source_page": "https://origineffects.com/discontinued-products/",
     "research_record": "./research/pedals/Origin Effects/RevivalDRIVE Hot Rod Edition.md"
   },
@@ -25420,7 +25421,7 @@
   {
     "builder": "Pigdog Pedals",
     "pedal": "GO",
-    "image": null,
+    "image": "./assets/pedals/pigdog-pedals/go/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Pigdog Pedals/GO.md"
   },
@@ -26856,9 +26857,10 @@
   {
     "builder": "Stone Deaf FX",
     "pedal": "Fig Fumb",
-    "image": "",
+    "image": "./assets/pedals/stone-deaf-fx/fig-fumb/primary.webp",
     "source_page": "https://www.stonedeaffx.com/collections/all",
-    "research_record": "./research/pedals/Stone Deaf FX/Fig Fumb.md"
+    "research_record": "./research/pedals/Stone Deaf FX/Fig Fumb.md",
+    "image_source_url": "https://rvb-img.reverb.com/i/s--dX6mSuml--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain%2Crotate%3D270/b057b585-5094-4e52-aee7-d1d2f40934a7.jpg"
   },
   {
     "builder": "Stone Deaf FX",
@@ -27671,7 +27673,7 @@
   {
     "builder": "Tube Works",
     "pedal": "903 Blue Tube",
-    "image": null,
+    "image": "./assets/pedals/tube-works/903-blue-tube/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/tubeworks",
     "research_record": "./research/pedals/Tube Works/903 Blue Tube.md"
   },

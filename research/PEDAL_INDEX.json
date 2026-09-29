@@ -13448,7 +13448,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1319
+      "image_source_priority": 1319,
+      "image": "./assets/pedals/blackbox-music-electronics/ultraviolet/primary.webp"
     },
     {
       "company": "Blackbox Music Electronics",
@@ -33001,7 +33002,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": "",
+      "image": "./assets/pedals/devi-ever-fx/soda-might/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/deviever",
       "research_record": "./research/pedals/Devi Ever FX/Soda Might.md",
       "research_level": "deep",
@@ -33090,7 +33091,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": "",
+      "image": "./assets/pedals/devi-ever-fx/the-ion/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/deviever",
       "research_record": "./research/pedals/Devi Ever FX/The Ion.md",
       "research_level": "deep",
@@ -33255,7 +33256,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": "",
+      "image": "./assets/pedals/devi-ever-fx/zg-zero-good/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/deviever",
       "research_record": "./research/pedals/Devi Ever FX/ZG Zero Good.md",
       "research_level": "deep",
@@ -43855,7 +43856,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1261
+      "image_source_priority": 1261,
+      "image": "./assets/pedals/mad-professor-amplification/fire-red-fuzz/primary.webp"
     },
     {
       "company": "Mad Professor Amplification",
@@ -49766,7 +49768,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1209
+      "image_source_priority": 1209,
+      "image": "./assets/pedals/origin-effects/revivaldrive/primary.webp"
     },
     {
       "company": "Origin Effects",
@@ -49797,7 +49800,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1210
+      "image_source_priority": 1210,
+      "image": "./assets/pedals/origin-effects/revivaldrive-hot-rod-edition/primary.webp"
     },
     {
       "company": "Outlaw Effects",
@@ -50723,7 +50727,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/pigdog-pedals/go/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Pigdog Pedals/GO.md",
       "research_level": "deep",
@@ -53410,7 +53414,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": "",
+      "image": "./assets/pedals/stone-deaf-fx/fig-fumb/primary.webp",
       "source_page": "https://www.stonedeaffx.com/collections/all",
       "research_record": "./research/pedals/Stone Deaf FX/Fig Fumb.md",
       "research_level": "deep",
@@ -54961,7 +54965,8 @@
       "image_source_page": "https://reverb.com/p/tube-works-903-blue-tube-1987-1997",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1310
+      "image_source_priority": 1310,
+      "image": "./assets/pedals/tube-works/903-blue-tube/primary.webp"
     },
     {
       "company": "Tube Works",
