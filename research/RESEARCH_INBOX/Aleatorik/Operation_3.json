@@ -4,8 +4,16 @@
   "original_builder": "Aleatorik",
   "original_pedal": "Operation 3",
   "status": "VERIFIED_EVIDENCE_STAGED",
-  "independent_exact_source_count": 1,
+  "independent_exact_source_count": 2,
   "sources": [
+    {
+      "url": "https://www.effectsdatabase.com/model/aleatorik",
+      "title": "Aleatorik | Effects Database",
+      "h1": "Aleatorik",
+      "excerpt": "Operation 3 Searching... Twitter (opens in new tab) Facebook (opens in new tab) YouTube (opens in new tab) Instagram (opens in new tab) Privacy policy - Imprint hosted at Unix-Solutions",
+      "host": "www.effectsdatabase.com",
+      "source_kind": "effects_database"
+    },
     {
       "url": "https://hitonoko23.hatenablog.jp/",
       "title": "\u97f3\u697d\u6a5f\u6750\u53a8\u306e\u30e1\u30e2\u3002",

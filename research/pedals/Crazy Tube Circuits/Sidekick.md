@@ -9,7 +9,7 @@
 
 ## What this pedal is
 
-Crazy Tube Circuits's Sidekick is cataloged as a distortion pedal.
+As per standard onboard function, the delay and reverb effect sections of Sidekick JR operate independently from each other and the modulation is assignable to any of these sections.
 
 ## Colorways
 
@@ -46,3 +46,16 @@ The verified evidence packet did not contain enough pedal-specific sonic descrip
 ## Photo
 
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+As per standard onboard function, the delay and reverb effect sections of Sidekick JR operate independently from each other and the modulation is assignable to any of these sections.
+
+### Sources checked in this pass
+1. Amazon.com: Crazy Tube Circuits Sidekick Jr. Multi-Effects Pedal : Musical Instruments: https://www.amazon.com/Crazy-Tube-Circuits-Sidekick-Multi-Effects/dp/B0FM8SXRVJ
+2. Sidekick-Jr &mdash; Crazy Tube Circuits: https://crazytubecircuits.com/sidekick-jr
+3. Crazy Tube Circuits Sidekick Jr modulation, delay and reverb pedal review | MusicRadar: https://www.musicradar.com/reviews/crazy-tube-circuits-sidekick-jr-modulation-delay-and-reverb-pedal-review
+4. Test de la pédale Crazy Tube Circuits Sidekick JR - Audiofanzine: https://fr.audiofanzine.com/multieffet-guitare-electrique/crazy-tube-circuits/sidekick-jr/editorial/tests/test-de-la-pedale-crazy-tube-circuits-sidekick-jr.html

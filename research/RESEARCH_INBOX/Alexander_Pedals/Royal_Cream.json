@@ -1,6 +1,8 @@
 {
   "builder": "Alexander Pedals",
   "pedal": "Royal Cream",
+  "original_builder": "Alexander Pedals",
+  "original_pedal": "Royal Cream",
   "status": "VERIFIED_EVIDENCE_STAGED",
   "independent_exact_source_count": 1,
   "sources": [

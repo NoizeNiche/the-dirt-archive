@@ -4,8 +4,24 @@
   "original_builder": "Phaez Amplification",
   "original_pedal": "Daisycutter",
   "status": "VERIFIED_EVIDENCE_STAGED",
-  "independent_exact_source_count": 1,
+  "independent_exact_source_count": 3,
   "sources": [
+    {
+      "url": "https://www.facebook.com/PhaezAmplification/posts/some-was-looking-for-an-old-schematic-early-daisycutter-with-a-5e3-deluxe-style-/2400322746741334/",
+      "title": "Some was looking for an old... - Phaez Amplification",
+      "h1": "",
+      "excerpt": "Some was looking for an old... - Phaez Amplification {\"require\":[[\"Bootloader\",\"handlePayload\",null,[{\"consistency\": ,\"rsrcMap\":{\"e0hNGgp\": ,\"NCNQmKR\": ,\"YMMuSzA\": ,\"6gbGsW1\": ,\"jAzapwa\": ,\"VYSHFmC\": ,\"lVlcWB1\": ,\"\\/0W3iex\": ,\"+L0X93S\": ,\"CywhgPa\": ,\"SG64e4b\": ,\"UhIyvwZ\": ,\"gaps99d\": ,\"Ce8XpC0\": ,\"7d20y1g\": ,\"LMaLVfH\": ,\"OjMgQk0\": ,\"F8ZFj6j\": ,\"5gBpc2v\": ,\"tnslCG4\": ,\"5gEONGn\": ,\"7ZQP1aa\": ,\"T63sYIc\": ,\"yUqVmZ2\": ,\"DvH+jMb\": ,\"GKDDM3y\": ,\"ylgcZqp\": ,\"lI1Yib\\/\": ,\"zdK4sAk\": ,\"ScmBqr1\": ,\"GUy78z5\":{\"type\":\"js\",\"src\":\"https:\\/\\/static.xx.fbcdn.net\\/rsrc.php\\/v4iMFX4\\/yw\\/l\\/en_US-j\\/a9oKsgG_Ca6.js\",\"c\":1,\"p\":\":11",
+      "host": "www.facebook.com",
+      "source_kind": "catalog_verified"
+    },
+    {
+      "url": "https://www.ampnebula.com/amps/phaez/daisycutter",
+      "title": "AmpNebula",
+      "h1": "",
+      "excerpt": "AmpNebula You need to enable JavaScript to run this app.",
+      "host": "www.ampnebula.com",
+      "source_kind": "catalog_verified"
+    },
     {
       "url": "https://phaezamplification.com/pedals/",
       "title": "PEDALS - Phaez Amplification",

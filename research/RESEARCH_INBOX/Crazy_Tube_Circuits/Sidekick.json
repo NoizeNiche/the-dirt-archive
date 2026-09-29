@@ -4,7 +4,7 @@
   "original_builder": "Crazy Tube Circuits",
   "original_pedal": "Sidekick",
   "status": "VERIFIED_EVIDENCE_STAGED",
-  "independent_exact_source_count": 1,
+  "independent_exact_source_count": 4,
   "sources": [
     {
       "url": "https://www.amazon.com/Crazy-Tube-Circuits-Sidekick-Multi-Effects/dp/B0FM8SXRVJ",
@@ -13,6 +13,30 @@
       "excerpt": "Crazy Tube Circuits Sidekick Jr. Multi-Effects Pedal Brand: Crazy Tube Circuits Compact Design: Fits easily on any pedalboard for space-saving convenience Classic 80s Effects: Combines modulation, delay, and reverb effects inspired by iconic stompboxes and rack units of the era Multiple Modulation Options: \"Ensemble\" for warm chorus, \"Dimension\" for enhanced 3D sound, and \"Flanger\" for a metallic, slow-chorus effect Tape and Digital Delays: Offers the sweet sounds of tape echo and pristine repeats of digital delay for versatile time-based effects Dual Reverb Banks: Select from classic reverbs like plate, spring, and hall (Bank A) or signature 80s sounds like gated, exciter, and shimmer (Bank B) Smart Switching: Delay and reverb operate independently, with modulation assignable to either section Optional Footswitch Expansion: XT footswitch (sold separately) allows independent on/off control for the modulation section Power-Up Bypass Preset: Choose the pedal's default state (on or off) when powering up for seamless integration with loopers and switchers True Bypass Switching: Maintains optimal signal integrity when effects are bypassed Perfect for 80s Genres: Ideal for creating jangly new wave, lush shoegaze, and soaking wet hair metal tones Show more \u203a See more product details",
       "host": "www.amazon.com",
       "source_kind": "catalog_verified"
+    },
+    {
+      "url": "https://crazytubecircuits.com/sidekick-jr",
+      "title": "Sidekick-Jr &mdash; Crazy Tube Circuits",
+      "h1": "",
+      "excerpt": "Sidekick JR ! Taking inspiration from the senior unit we released back in 2019, our goal was to create a compact pedal that would combine the most widely used time-based effects and would fit into any gear setup lurking for 80s tones and beyond. From the jangly, ambient and shimmering sounds of New Wave, Shoegaze and Synth Pop to the soaking wet tones of Hair / Glam Metal. The new Sidekick JR features even more sounds / algorithm selections compared to the senior unit. Modulation effect / algorithms were inspired by classic 80s stompboxes. \u201cEnsemble\u201d algorithm resembles warm and mild modulated chorus sounds while the \u201cdimension\u201d algorithm will enhance the 3D image of your sound but without the typical chorus warble. The \u201cflanger\u201d algorithm was inspired by a classic flanger pedal being set up as a slow chorus with mild feedback added for a more metallic sound. Echo / delay section offers the sweet but vibrant sound of a tape echo with a freshly installed tape running through a colourful preamp or the pristine repeats of an 80s digital delay rack unit. Reverb section was inspired by definitive examples of 80s reverb rack units and sounds and offers two algorithm banks. Bank A features all time classic reverbs sounds like \u201cplate\u201d, \u201cspring\u201d and \u201chall\u201d while Bank B features signature 80s reverb sounds like \u201cgated\u201d, \u201cexciter\u201d (our trademark big-hall reverb algorithm with almost infinite reflections and decay) and octave up \u201cshimmer\u201d. In order to provide full flexibility in the smallest enclosure possible we had to come up with a smart switching setup. As per standard onboard function, the delay and reverb effect sections of Sidekick JR operate independently from each other and the modulation is assignable to any of these sections. With the addition of the XT footswitch (sold separately) the modulation section becomes totally independent and can be switched on/off (true bypass) on its own. Sidekick JR also features a power-up bypass/engage pre-set function for the onboard footswitches. That way you can select which state your pedal will go to when you plug the power supply. This function comes in especially handy to people that use remote pedal switchers / loopers as they only set the power-up state of the pedal once and then operate from the controller. Read the Manual Sidekick JR \u20ac289.00 Availability: ships in 5-6 days Add to cart Review by Audiofanzine (French)",
+      "host": "crazytubecircuits.com",
+      "source_kind": "manufacturer"
+    },
+    {
+      "url": "https://www.musicradar.com/reviews/crazy-tube-circuits-sidekick-jr-modulation-delay-and-reverb-pedal-review",
+      "title": "Crazy Tube Circuits Sidekick Jr modulation, delay and reverb pedal review | MusicRadar",
+      "h1": "",
+      "excerpt": "Crazy Tube Circuits Sidekick Jr modulation, delay and reverb pedal review | MusicRadar @font-face @font-face @font-face @font-face @font-face @font-face @font-face @font-face @font-face @font-face @font-face @font-face /* --flexi-layout-- */ @layer legacy {.widget-area svg } /* --flexi-core-- */ @charset \"UTF-8\";@layer legacy{.special1 .special2 .special3 .h1,.heading1a .h1b,.heading1b .h1c,.h2,.heading1c,.heading2 .h3,.heading3a .h3b,.heading3b .h3c,.heading3c .subheading1 .subheading2,.subheading3,.subheading4 .txt1a,.txt1b .txt2a .txt2b,.txt2c,.txt3 :root @media screen and (min-width:700px){:root }:root{",
+      "host": "www.musicradar.com",
+      "source_kind": "catalog_verified"
+    },
+    {
+      "url": "https://fr.audiofanzine.com/multieffet-guitare-electrique/crazy-tube-circuits/sidekick-jr/editorial/tests/test-de-la-pedale-crazy-tube-circuits-sidekick-jr.html",
+      "title": "Test de la p\u00e9dale Crazy Tube Circuits Sidekick JR - Audiofanzine",
+      "h1": "",
+      "excerpt": "Test de la p\u00e9dale Crazy Tube Circuits Sidekick JR - Audiofanzine Se connecter Se connecter Pseudo / E-mail Mot de passe Rester connect\u00e9 Mot de passe oubli\u00e9 ? Connexion ou Cr\u00e9er un compte ou Se connecter avec Facebook FR EN Notifications Se connecter Menu Matos Toutes les marques Studio & Home Studio Informatique musicale Instruments \u00e9lectroniques Guitares Basses",
+      "host": "fr.audiofanzine.com",
+      "source_kind": "other"
     }
   ],
   "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
