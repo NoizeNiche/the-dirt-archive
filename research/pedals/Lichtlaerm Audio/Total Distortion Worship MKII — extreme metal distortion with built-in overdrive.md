@@ -3,42 +3,41 @@
 ## PRP identity
 - **Archive parent:** Total Distortion Worship MKII — extreme metal distortion with built-in overdrive
 - **Builder:** Lichtlaerm Audio
-- **Catalog type:** Distortion / Fuzz / Overdrive
-- **Identity:** Lichtlaerm Audio's Total Distortion Worship MKII — extreme metal distortion with built-in overdrive.
+- **Catalog type:** Distortion / Overdrive
+- **Identity:** Legacy filename for LICHTLÆRM AUDIO's Total Distortion Worship MKII.
+
+## Archive identity note
+This filename contains descriptive marketing language. It is retained for compatibility with the existing archive but refers to the same Total Distortion Worship MKII model described in the canonical record.
 
 ## What this pedal is
-Lichtlaerm Audio's Total Distortion Worship MKII — extreme metal distortion with built-in overdrive is cataloged as a distortion / fuzz / overdrive pedal.
+The Total Distortion Worship MKII is a high-gain extreme-metal distortion with an integrated boost section. The MKII adds gain and low-end range and uses a simplified King in Yellow-derived boost.
 
 ## Colorways
-- whether you're playing crushing doom, vicious black metal or anything in between - the TDW will deliver!
-- 8) Two enclosure designs To celebrate the this collaboration, we decided to offer the new Total Distortion Worship in two distinct color schemes: Classic Lichtlaerm black & gold and Cult FX's exclusive black, silver & red.
-- Color: Select Color Red//Silver Black//Gold Red//Silver Black//Gold Quantity: Add To Cart Facebook 0 Twitter Pinterest 0 About Shipping Imprint Privacy Note AGB Contact © 2025 Daniel Ringl, Lichtlaerm Audio
+- Black and gold and black/silver/red enclosure presentations are documented.
+- Finish changes are not treated as circuit revisions.
 
 ## Versions and factory options
-- The verified evidence references: MKII, MkII.
-- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+- **MKII** revision.
+- Increased gain and expanded low-end range.
+- Integrated boost.
+- Designed for extreme-metal, doom and black-metal applications.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- MKII changes the boost implementation and increases gain and low-end range relative to the earlier model.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
-- **Exact transistor/device:** Unknown.
+- Exact production semiconductor details were not established.
 
 ## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
-- **Exact part:** Unknown.
+- Exact clipping/rectifier diode information was not established.
 
 ## Sound
-The perfect distortion for all kinds of harsh music
-We added more gain, expanded the low-end range and replaced the boost with a simplified version of our King in Yellow overdrive.
-The Total Distortion Worship MkII: It’s more extreme because more is more!
+TDW MKII provides dense, aggressive high-gain distortion with enough EQ and boost control to support low tunings and extreme-metal playing.
 
 ## Sources checked
-1. The perfect distortion for all kinds of harsh music | LICHTLÆRM AUDIO: https://lichtlaermaudio.com/shop/tdw
-2. Lichtlaerm Audio Total Distortion Worship MkII - Reverb: https://reverb.com/p/lichtlaerm-audio-total-distortion-worship-mkii-2024
-3. Lichtlaerm Audio Total Distortion Worship MKII: https://www.audiofusionus.com/product/lichtlaerm-audio-total-distortion-worship-mkii/
-4. LICHTLAERM AUDIO &quot;Total Distortion Worship MKII&quot; - Evil Greed: https://evilgreed.com/products/lichtlaerm-audio-total-distortion-worship-mkii
+1. LICHTLÆRM AUDIO - Total Distortion Worship MKII: https://lichtlaermaudio.com/shop/tdw
+2. Reverb - Total Distortion Worship MKII: https://reverb.com/p/lichtlaerm-audio-total-distortion-worship-mkii-2024
+3. Evil Greed - Total Distortion Worship MKII: https://evilgreed.com/products/lichtlaerm-audio-total-distortion-worship-mkii
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.
