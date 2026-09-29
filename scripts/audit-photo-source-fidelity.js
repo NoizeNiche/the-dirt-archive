@@ -57,7 +57,7 @@ function sha256(bytes) {
   return crypto.createHash('sha256').update(bytes).digest('hex');
 }
 
-async function compareImages(page, localBytes, sourceBytes) {
+async function compareImages(page, localBytes, localType, sourceBytes, sourceType) {
   return page.evaluate(async ({ localData, sourceData }) => {
     function loadImage(dataUrl) {
       return new Promise((resolve, reject) => {
@@ -131,8 +131,8 @@ async function compareImages(page, localBytes, sourceBytes) {
 
     return { verdict, hammingDistance, sampleError: Number(error.toFixed(4)) };
   }, {
-    localData: 'data:image/*;base64,' + localBytes.toString('base64'),
-    sourceData: 'data:image/*;base64,' + sourceBytes.toString('base64')
+    localData: 'data:' + localType + ';base64,' + localBytes.toString('base64'),
+    sourceData: 'data:' + sourceType + ';base64,' + sourceBytes.toString('base64')
   });
 }
 
@@ -222,7 +222,7 @@ async function main() {
           }
 
           out.SourceSHA256 = sha256(sourceBytes);
-          const comparison = await compareImages(page, localBytes, sourceBytes);
+          const comparison = await compareImages(page, localBytes, 'image/webp', sourceBytes, type);
           out.Status = comparison.verdict;
           out.Hamming = comparison.hammingDistance;
           out.SampleError = comparison.sampleError;
