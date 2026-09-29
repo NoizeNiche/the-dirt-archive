@@ -2,43 +2,41 @@
 
 ## PRP identity
 - **Archive parent:** Zendrive
-- **Builder:** Lovepedal
+- **Builder:** Lovepedal / Hermida Audio
 - **Catalog type:** Overdrive
 - **Identity:** Lovepedal's Zendrive.
 
 ## What this pedal is
-Inspired by a legendary guitarist, the Zendrive delivers blues, country, jazz and fusion tones associated with some of the finest, most costly amplifiers in the market.
-
-## Colorways
-- Related products Oneder Effects Old Blue $ 124.00 One Control Silver Bee Overdrive $ 109.00 Wampler cataPulp British Distortion Pedal $ 119.00 Pigtronix Class A Boost Micro 2018 $ 34.00 Bucket List Guitars
+The Zendrive is Alfonso Hermida's signature low-to-medium gain overdrive. Lovepedal describes it as a smooth, balanced design with strong dynamic response and an open feel, inspired by the response of expensive vintage amplifiers.
 
 ## Versions and factory options
-- The verified evidence references: V2.
-- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+- The checked source documents the **Old School 2016** build.
+- Four controls:
+  - **Level**
+  - **Gain**
+  - **Tone**
+  - **Voice**
+- 9V battery or external DC adapter.
+- Dimensions documented by Lovepedal: 4.37 × 2.37 × 1.07 inches.
+- The archive keeps Zendrive 2 and other named Zendrive editions separate when their hardware or availability differs.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- Old School 2016 examples use through-hole film capacitors and carbon resistors.
+- The archive does not merge those component details into every Zendrive ever produced.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
-- **Exact transistor/device:** Unknown.
+- Exact production semiconductor complement varies by version and is not established for the family record.
 
 ## Diode
-- Documented terms in the verified sources: BAT41, 1N34a.
-- The archive records only the component information explicitly present in these sources.
+- Exact clipping-device information was not established for the family record.
 
 ## Sound
-409939 ) Dimensions (H x D x W): 111 x 60 x 27 mm 30 30-Day Money-Back Guarantee 3 3-Year Thomann Warranty Available since August 2014 Item number 347463 Sales Unit 1 piece(s) Overdrive Yes Distortion No Fuzz No Metal No $ 288 The shipping costs are calculated on the checkout page.
-Lovepedal Zendrive 2 Overdrive Pedal
-Four knobs control the overall volume, gain, tone and voicing of the pedal.
+Zendrive ranges from very light, tube-like overdrive through mild distortion. The Voice and Tone controls shape the upper response while preserving the pedal's characteristic smooth, touch-sensitive behavior.
 
 ## Sources checked
-1. Lovepedal Zendrive - What To Know & Where To Buy | Equipboard: https://equipboard.com/items/lovepedal-zendrive
-2. Lovepedal Zendrive - Reverb: https://reverb.com/p/lovepedal-zendrive
-3. Lovepedal Hermida Zendrive – United States: https://www.thomannmusic.com/lovepedal_hermida_zendrive.htm
-4. Lovepedal Zendrive 2 Overdrive Pedal | Bucket List Guitars: https://bucketlistguitars.com/product/lovepedal-zendrive-2/
-5. Lovepedal Hermida Zendrive Dimensions, Specs & Details: https://www.stompboxgarden.com/gear/pedal/4722/lovepedal-hermida-zendrive
-6. Perf and PCB Effects Layouts: Lovepedal Zendrive 2: https://effectslayouts.blogspot.com/2019/02/lovepedal-zendrive-2.html
+1. Lovepedal - Zendrive: https://www.lovepedal.com/zendrive/
+2. MusicRadar - Lovepedal Zendrive E6: https://www.musicradar.com/reviews/guitars/lovepedal-eternity-e6-579534
+3. Effects Database - Lovepedal Zendrive: https://www.effectsdatabase.com/model/lovepedal/zendrive
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.
