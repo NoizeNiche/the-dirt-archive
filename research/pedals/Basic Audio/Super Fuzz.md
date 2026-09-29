@@ -95,3 +95,29 @@ Univox Super Fuzz-derived octave-fuzz core.
 3. Super Fuzz by Basic Audio | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/Basic-Audio/Super-Fuzz/68975083/
 4. Review by The Gear Page (EN): https://www.thegearpage.net/board/index.php?threads/basic-audio-superfuzz-or-smallsound-buzzz.2328566/
 5. catalog/override source: https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-n6nrp
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Super Fuzz — Basic Audio Contact Store About Menu Basic Audio Contact Store About Pedal colors are subject to change.
+
+### Verified version references
+- The evidence references: MkI, revision, v1.
+
+### Verified transistor/device terms
+- Germanium Fuzz.
+
+### Verified sound evidence
+Basic Audio Super Fuzz — Fuzz Pedal Specs & Where to Buy
+**Archive parent:** Super Fuzz - **Builder:** Basic Audio - **Catalog type:** Fuzz - **Identity:** Basic Audio octave fuzz based on the Univox Super Fuzz, with Half Gain and Octave Cut switches.
+Univox Super Fuzz-derived octave-fuzz core.
+
+### Sources checked in this pass
+1. Basic Audio Super Fuzz — Fuzz Pedal Specs & Where to Buy | one thousand pedals: https://onethousandpedals.com/pedal/basic-audio-super-fuzz
+2. catalog/override source: https://reverb.com/item/58297801-basic-audio-super-fuzz
+3. Super Fuzz by Basic Audio | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/Basic-Audio/Super-Fuzz/68975083/
+4. Review by The Gear Page (EN): https://www.thegearpage.net/board/index.php?threads/basic-audio-superfuzz-or-smallsound-buzzz.2328566/
+5. catalog/override source: https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-n6nrp
+6. Basic Audio — Super Fuzz: https://images.squarespace-cdn.com/content/v1/5da9e97016ddf940acffa2d3/1580672147322-5S3IEKRFA6PKNMC2C5D6/DSCF0743.jpg

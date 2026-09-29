@@ -306,3 +306,31 @@ Reading time: 2 min Chowny Bass Fuzz Pedal · Source: Chowny Previous Next ADVER
 1. catalog/override source: https://www.notreble.com/buzz/2017/01/16/chowny-bass-introduces-the-fuzzster-bass-fuzz-pedal/
 2. The Chowny Fuzzster Pedal: A new budget bass fuzz from the UK: https://www.gearnews.com/chowny-fuzzster-pedal-new-budget-bass-fuzz-uk/
 3. catalog/override source: https://www.effectsdatabase.com/model/chowny/fuzzster
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Reading time: 2 min Chowny Bass Fuzz Pedal · Source: Chowny Previous Next ADVERTISEMENT The new Chowny Fuzzster Bass Fuzz Pedal is designed in the UK by the UK Pedal Builders – though it is mostly manufactured in China.
+
+### Verified color/finish evidence
+- Dark enclosure with blue illumination is documented in launch coverage.
+- ADVERTISEMENT Fuzzster Bass Fuzz Emblazoned with a cool little robot graphic, the Fuzzster has a cool blue LED around the footswitch.
+- All four knobs also light up, making it easy to see what you are doing on a dark stage, as the knobs have little tiny blue lights on them showing you where they are set.
+
+### Verified version references
+- The evidence references: revision.
+
+### Verified diode terms
+- LED.
+
+### Verified sound evidence
+**Archive parent:** Fuzzster Bass Fuzz - **Builder:** Chowny Bass - **Catalog type:** Fuzz - **Identity:** Bass-specific fuzz with four controls, including an independent Clean blend to preserve the fundamental.
+**FUZZ:** Mixes/raises the distorted component.
+**SUSTAIN:** Additional fuzz gain/sustain.
+
+### Sources checked in this pass
+1. catalog/override source: https://www.notreble.com/buzz/2017/01/16/chowny-bass-introduces-the-fuzzster-bass-fuzz-pedal/
+2. The Chowny Fuzzster Pedal: A new budget bass fuzz from the UK: https://www.gearnews.com/chowny-fuzzster-pedal-new-budget-bass-fuzz-uk/
+3. catalog/override source: https://www.effectsdatabase.com/model/chowny/fuzzster

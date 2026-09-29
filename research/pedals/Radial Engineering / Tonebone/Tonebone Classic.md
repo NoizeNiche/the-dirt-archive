@@ -44,3 +44,18 @@ Ultra sensitive passive-interactive tone controls let you contour your sound to 
 
 ### Sources checked in this pass
 1. Classic - Radial Engineering: https://www.radialeng.com/product/classic
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+The Radial Tonebone Classic – the most dynamic and responsive tube distortion pedal ever!
+
+### Verified sound evidence
+Following the vision set by Leo Fender in the 1950’s, the Classic is based on the modified vintage overdrive sounds that emerged in the 1970’s, matured throughout the 1980’s & 1990’s and today remain some of the most sought after guitar tones of all time.
+The Classic begins with a 3-position gain switch and drive control that lets you dial-in slight overdrive to high gain saturation and everything in between.
+Ultra sensitive passive-interactive tone controls let you contour your sound to accentuate the mids for solos or fatten up the tone when using single coil pickups.
+
+### Sources checked in this pass
+1. Classic - Radial Engineering: https://www.radialeng.com/product/classic

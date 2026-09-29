@@ -267,3 +267,24 @@ It has an AMZ style modified Big Muff tone stack and a switch to boost mids.
 ### Sources checked in this pass
 1. Champion Leccy The Fat Gett | Effects Database: https://www.effectsdatabase.com/model/championleccy/fatgett
 2. End of Days Fuzz (1) – Initial ideas and development – Champion Leccy: https://championleccy.com/2022/07/10/end-of-days-fuzz-1-initial-ideas-and-development/
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+The fuzz section of the Fat Gett is a modified version of the Black Russian Big Muff with some value changes, asymmetric clipping (Ge/Si) and a few more influential tweaks.
+
+### Verified color/finish evidence
+- The fuzz section of the Fat Gett is a modified version of the Black Russian Big Muff with some value changes, asymmetric clipping (Ge/Si) and a few more influential tweaks.
+- The artwork revolves around the theme of a pair of hairy legs, a lightning bolt and a pair of Y fronts.
+- **Main fuzz:** heavily modified Black Russian Big Muff.
+
+### Verified sound evidence
+With both foot switches engaged it's quite a beast, full of noisy warmth and texture.
+The fuzz section of the Fat Gett is a modified version of the Black Russian Big Muff with some value changes, asymmetric clipping (Ge/Si) and a few more influential tweaks.
+It has an AMZ style modified Big Muff tone stack and a switch to boost mids.
+
+### Sources checked in this pass
+1. Champion Leccy The Fat Gett | Effects Database: https://www.effectsdatabase.com/model/championleccy/fatgett
+2. End of Days Fuzz (1) – Initial ideas and development – Champion Leccy: https://championleccy.com/2022/07/10/end-of-days-fuzz-1-initial-ideas-and-development/
