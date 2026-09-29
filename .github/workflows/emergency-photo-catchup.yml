@@ -13,9 +13,9 @@ permissions:
   actions: write
 
 concurrency:
-  group: dirt-photo-emergency-v1
+  group: dirt-photo-publishing-v1
   # A newer emergency pass supersedes an older queued attempt.
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 jobs:
   recover:
