@@ -233,6 +233,16 @@ def main() -> None:
 
     identity_quarantine = load_identity_quarantine()
     hash_quarantine = load_hash_quarantine()
+    manual_verified = set()
+    try:
+        with (ROOT / "research/PHOTO_MANUAL_REVIEW.csv").open(newline="", encoding="utf-8") as handle:
+            manual_verified = {
+                key(row.get("Builder"), row.get("Pedal"))
+                for row in csv.DictReader(handle)
+                if str(row.get("Status") or "").strip().upper() == "VERIFIED_PRIMARY"
+            }
+    except Exception:
+        pass
 
     pending = set()
     with TRACKER.open(newline="", encoding="utf-8") as handle:
@@ -248,7 +258,7 @@ def main() -> None:
             source_page = str(row.get("Image Source Page") or "").strip()
             notes = str(row.get("Notes") or "").strip()
             blocked_for_identity = image_url.lower() in identity_quarantine.get(k, set())
-            blocked_for_hash = k in hash_quarantine
+            blocked_for_hash = k in hash_quarantine and k not in manual_verified
             if k in pending and image_url and source_page and is_http_image_url(image_url) and not blocked_photo_url(image_url, block_rules) and not blocked_for_identity and not blocked_for_hash:
                 direct.setdefault(k, []).append((image_url, source_page, notes))
 
