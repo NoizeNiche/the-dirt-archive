@@ -7,40 +7,35 @@
 - **Identity:** ThorpyFX's Peacekeeper.
 
 ## What this pedal is
-Low Gain Overdrive Add to cart Description The PEACEKEEPER is our take on a low gain overdrive designed to suit all guitars and all amps whilst delivering the sweetest on the edge to crunch tones you have ever heard.
+The PEACEKEEPER is a low-gain overdrive designed to work across different guitars and amplifiers. ThorpyFX describes it as an edge-of-breakup to crunch pedal with a strong emphasis on touch response.
 
 ## Colorways
-- The same tones you love, with refreshed artwork.
+- The checked sources document refreshed artwork on later examples.
+- No complete historical finish chronology was established.
 
 ## Versions and factory options
-- No distinct factory revision was established in the verified evidence packet.
+- Later documentation identifies the **MKIIB** version.
+- Low-gain overdrive architecture.
+- Exact hardware changes between revisions are not fully established in the checked sources.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- The archive keeps MKIIB references associated with the same Peacekeeper family while avoiding unsupported claims about exact internal revisions.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
+- Exact production transistor/device information was not established in the checked sources.
 - **Exact transistor/device:** Unknown.
 
 ## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- Exact clipping/rectifier diode information was not established in the checked sources.
 - **Exact part:** Unknown.
 
 ## Sound
-Low Gain Overdrive $254.00 $254.00 Unit price / per Shipping calculated at checkout.
-Low Gain Overdrive Increase quantity for PEACEKEEPER
-Low Gain Overdrive Add to cart Description The PEACEKEEPER is our take on a low gain overdrive designed to suit all guitars and all amps whilst delivering the sweetest on the edge to crunch tones you have ever heard.
+The Peacekeeper is intended for low-gain overdrive, edge-of-breakup response, and crunchy rhythm tones. Its design emphasizes dynamics and compatibility with different guitars and amps.
 
 ## Sources checked
-1. PEACEKEEPER | Low Gain Overdrive: https://thorpyfx.com/en-us/products/the-peacekeeper-low-gain-overdrive-copy
-2. ThorpyFX Peacekeeper Low-Gain Overdrive - Reverb: https://reverb.com/p/thorpyfx-peacekeeper-low-gain-overdrive
-3. ThorpyFX Peacekeeper - What To Know & Where To Buy | Equipboard: https://equipboard.com/items/thorpyfx-peacekeeper
-4. ThorpyFX Peacekeeper – Soft Noise Audio: https://softnoiseaudio.com/products/thorpy-fx-peacekeeper
-5. ThorpyFx The Peacekeeper: https://shop.circlestrings.com/products/thorpyfx-the-peacekeeper
-6. ThorpyFX PEACEKEEPER MKIIB Low Gain Overdrive Pedal Owner's Manual: https://manuals.plus/m/a8b73e0f0e15e45fbdfd5bc8050191b2e55e1543675b3a346a1e0ff57666688e
-7. ThorpyFx PEACEKEEPER MKIIB Low Gain Overdrive Owner's Manual: https://device.report/manual/17990073
-8. ThorpyFx Peacekeeper | AI Chat & PDF Download | Manualzz: https://manualzz.com/doc/38508604/thorpyfx-peacekeeper-overdrive-family-user-manual
-9. Thorpy FX Peace²keeper GE Low-Gain Edition | Effects Database: https://www.effectsdatabase.com/model/thorpyfx/peacekeeper2
+1. ThorpyFX - PEACEKEEPER: https://thorpyfx.com/en-us/products/the-peacekeeper-low-gain-overdrive-copy
+2. ThorpyFX Peacekeeper MKIIB owner's manual: https://manuals.plus/m/a8b73e0f0e15e45fbdfd5bc8050191b2e55e1543675b3a346a1e0ff57666688e
+3. Reverb - ThorpyFX Peacekeeper: https://reverb.com/p/thorpyfx-peacekeeper-low-gain-overdrive
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.
