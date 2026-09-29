@@ -36,6 +36,19 @@ def load_identity_quarantine():
     return rows
 
 
+def load_hash_quarantine():
+    rows = set()
+    try:
+        with PHOTO_HASH_QUARANTINE.open(newline="", encoding="utf-8") as handle:
+            for row in csv.DictReader(handle):
+                k = key(row.get("Builder"), row.get("Pedal"))
+                if k[0] and k[1]:
+                    rows.add(k)
+    except Exception:
+        pass
+    return rows
+
+
 def local_asset(image):
     value = str(image or "").strip()
     if not value or re.match(r"^https?://", value, re.I):
@@ -126,6 +139,7 @@ def main():
     direct_overrides = load_csv(DIRECT_OVERRIDES) if DIRECT_OVERRIDES.exists() else []
     manual_review = load_csv(MANUAL_REVIEW) if MANUAL_REVIEW.exists() else []
     identity_quarantine = load_identity_quarantine()
+    hash_quarantine = load_hash_quarantine()
 
     index_data = load_json(INDEX)
     manifest_data = load_json(MANIFEST)
@@ -175,6 +189,8 @@ def main():
             if manifest_image != image:
                 raise SystemExit(f"Catalog/manifest image mismatch: {k} -> {image} vs {manifest_image}")
             red_flags = suspicious_photo_provenance(manifest_entry, entry)
+            if k in hash_quarantine:
+                red_flags.append("byte-identical photo quarantine")
             quarantine_urls = identity_quarantine.get(k, set())
             if quarantine_urls:
                 for candidate in [
