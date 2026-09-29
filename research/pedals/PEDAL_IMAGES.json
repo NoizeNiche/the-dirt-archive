@@ -23399,7 +23399,10 @@
     "builder": "Lovetone",
     "pedal": "Brown Source",
     "source_page": "https://www.effectsdatabase.com/model/lovetone/brownsource",
-    "research_record": "./research/pedals/Lovetone/Brown Source.md"
+    "research_record": "./research/pedals/Lovetone/Brown Source.md",
+    "image_source_url": "https://www.chicagomusicexchange.com/cdn/shop/products/lovetone-effects-and-pedals-fuzz-lovetone-brown-source-u3185752719-28088360534151.jpg?v=1646406133&width=1946",
+    "image_source_page": "https://www.chicagomusicexchange.com/products/lovetone-brown-source-1152923",
+    "image": "./assets/pedals/lovetone/brown-source/primary.webp"
   },
   {
     "builder": "Lovetone",
@@ -23413,7 +23416,10 @@
     "builder": "Lovetone",
     "pedal": "Ring Stinger",
     "source_page": "https://www.effectsdatabase.com/model/lovetone/ringstinger",
-    "research_record": "./research/pedals/Lovetone/Ring Stinger.md"
+    "research_record": "./research/pedals/Lovetone/Ring Stinger.md",
+    "image_source_url": "https://content.easyliveauction.com/auctions/images_lots/0EC4C634B6A8090C9EE1DC55C2B3AACC_gar02/1100427590_PREVIEW.JPG",
+    "image_source_page": "https://auctions.gardinerhoulgate.co.uk/catalogue/lot/7285d568a3d4d52da9eeec69aba8c7e2/3dfe96b3d8514009372b34ed949e473e/the-guitar-auction-four-day-sale-lot-1353/",
+    "image": "./assets/pedals/lovetone/ring-stinger/primary.webp"
   },
   {
     "builder": "Lunastone Pedals",
