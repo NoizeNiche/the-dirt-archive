@@ -7,7 +7,7 @@
 - **Identity:** Tone City's Golden Plexi.
 
 ## What this pedal is
-99 Join Prime to get FREE delivery Tue, Sep 29 Add to cart Amazon's Choice BOSS BOSS DS-1 Distortion Compact Distortion Pedal
+The Golden Plexi is a Plexi-style overdrive/distortion pedal. It was later refined into the Golden Plexi2.
 
 ## Colorways
 - No specific factory colorway information was established in the verified evidence packet.
