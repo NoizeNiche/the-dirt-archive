@@ -3,39 +3,33 @@
 ## PRP identity
 - **Archive parent:** Loomer Fuzz/Reverb
 - **Builder:** Keeley Electronics
-- **Catalog type:** Fuzz
+- **Catalog type:** Fuzz / Reverb
 - **Identity:** Keeley Electronics's Loomer Fuzz/Reverb.
 
 ## What this pedal is
-Keeley Electronics Loomer Fuzz/Reverb $122.50 $408.33 Review Keeley Electronics Loomer Fuzz/Reverb, new."The Loomer is a Wall-Of-Fuzz drenched in a Wash-Of-Reverb.Heavy Gain, Soft Focus, Reverse, Cascading Octave Feedback, Tremolo Bar Strummed Reverb.A stoned, morning floaty, messed up, thrill machine is what it is.
-
-## Colorways
-- No specific factory colorway information was established in the verified evidence packet.
+The Loomer combines a heavy fuzz section with experimental reverb effects. Keeley describes its palette in terms of walls of fuzz, soft-focus ambience, reverse textures and octave feedback.
 
 ## Versions and factory options
-- No distinct factory revision was established in the verified evidence packet.
+- Combined fuzz and reverb architecture.
+- Reverb voices include Soft Focus and Reverse-style textures.
+- The checked source set does not establish a complete numbered hardware revision.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- No complete dated production revision chronology was established.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
-- **Exact transistor/device:** Unknown.
+- Exact production semiconductor details were not established.
 
 ## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
-- **Exact part:** Unknown.
+- Exact clipping/rectifier diode information was not established.
 
 ## Sound
-Keeley Electronics Loomer Fuzz/Reverb - Cedar Grove Guitars
-Acoustic Guitars and Folk Instruments FREE SHIPPING ON ORDERS OVER $30 Cart Home Shop Acoustic Guitar Pickup Soprano Ukulel Acoustic Electric Guitar Baritone Horn Music Stand Woodwind Analog Mixer Home / Effect / Keeley Electronics Loomer Fuzz/Reverb Sale!
-Heavy Gain, Soft Focus, Reverse, Cascading Octave Feedback, Tremolo Bar Strummed Reverb.
+Loomer is designed for dense fuzz drenched in large reverb, with the reverb section capable of soft-focus, reverse and octave-feedback textures.
 
 ## Sources checked
-1. Keeley Electronics Loomer Fuzz/Reverb - Cedar Grove Guitars | Acoustic Guitars and Folk Instruments: https://www.cedargroveguitars.com/product/keeley-electronics-loomer-fuzz-reverb/
-2. Keeley Electronics Loomer Fuzz/Reverb - Noise-Cancelling Audio ...: https://www.audiocans.com/product/keeley-electronics-loomer-fuzz-reverb/
-3. Keeley Electronics Loomer Fuzz/Reverb - Precision-Crafted Woodwind Mouthpieces for Pure Tone and Control: https://www.woodwindflow.com/product/keeley-electronics-loomer-fuzz-reverb/
-4. Keeley Electronics Loomer Fuzz/Reverb - Some Neck Guitars: https://www.someneckguitars.com/products/keeley-engineering-loomer-fuzz-reverb
+1. Keeley Electronics product references: https://robertkeeley.com/
+2. Reverb - Keeley Loomer: https://reverb.com/p/keeley-loomer-fuzz-reverb
+3. Effects Database - Keeley Loomer: https://www.effectsdatabase.com/model/keeley/loomer
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.
