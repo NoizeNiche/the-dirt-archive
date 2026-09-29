@@ -324,7 +324,26 @@ def replace_section_body(markdown: str, heading: str, body: str) -> str:
     )
     replacement = f"## {heading}\n\n{body.strip()}\n\n"
     updated, count = pattern.subn(replacement, markdown, count=1)
-    return updated if count else markdown
+    if count:
+        return updated
+
+    # Older records can have verified prose without a corresponding public
+    # section. Insert the promoted section before the nearest stable footer or
+    # before the next record heading instead of silently dropping the repair.
+    anchors = [
+        r"^##\s+Sources checked\s*$",
+        r"^##\s+Photo\s*$",
+        r"^##\s+Deep research verification\s*$",
+    ]
+    anchor = None
+    for candidate in anchors:
+        match = re.search(candidate, markdown, re.M)
+        if match:
+            anchor = match.start()
+            break
+    if anchor is None:
+        return markdown.rstrip() + "\n\n" + replacement.rstrip() + "\n"
+    return markdown[:anchor].rstrip() + "\n\n" + replacement + markdown[anchor:]
 
 
 
