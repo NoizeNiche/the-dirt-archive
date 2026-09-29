@@ -31,12 +31,18 @@ PATTERNS = [
 
 DEVICE_TERMS = re.compile(
     r"\b(?:germanium|silicon|jfet|mosfet|tube|valve|transistor|bjt|fet|op[- ]?amp(?:lifier)?|"
-    r"integrated circuit|\bic\b|chip|diode|led)\b",
+    r"integrated circuit|\bic\b|chip|diode|led|2n\d{3,5}|2sc\d{3,5}|2sa\d{3,5}|bc\d{2,3}|oc\d{2,3}|"
+    r"nkt\d{3}|gt\d{2,3}|mp\d{2,3}|mps\d{2,3})\b",
     re.I,
 )
 UNKNOWN_TERMS = re.compile(
     r"\b(?:unknown|not documented|not publicly documented|not established|not specified|"
     r"not reliably documented)\b",
+    re.I,
+)
+MISMATCH_REFERENCES = re.compile(
+    r"\b(?:AC(?:10|15|30|50|100)|JCM\d{2,3}|Twin Reverb|Deluxe Reverb|Big Muff|Tube Screamer|"
+    r"Fender|Vox|Marshall|Boss Hyper Fuzz)\b",
     re.I,
 )
 
@@ -48,39 +54,11 @@ def audit():
     for path in sorted(RESEARCH.rglob("*.md")):
         lines = path.read_text(encoding="utf-8", errors="replace").splitlines()
         section = ""
-        section_lines = []
-        technical_heading = False
-
-        def flush_technical():
-            nonlocal section_lines
-            if not technical_heading:
-                section_lines = []
-                return
-            for line_no, line_text in section_lines:
-                stripped = line_text.strip()
-                if not stripped or is_source_line(stripped):
-                    continue
-                if UNKNOWN_TERMS.search(stripped):
-                    continue
-                if not DEVICE_TERMS.search(stripped):
-                    rows.append({
-                        "Research Record": "./" + path.relative_to(ROOT).as_posix(),
-                        "Line": line_no,
-                        "Pattern": "technical_label_mismatch",
-                        "Text": stripped[:1200],
-                    })
-            section_lines = []
-
         for lineno, line in enumerate(lines, 1):
             heading = re.match(r"^#{2,6}\s+(.+?)\s*$", line)
             if heading:
-                flush_technical()
                 section = heading.group(1).strip().lower()
-                technical_heading = bool(re.search(r"\btransistor\b", section))
                 continue
-
-            if technical_heading and line.strip():
-                section_lines.append((lineno, line))
 
             source_line = is_source_line(line)
             for label, pattern in PATTERNS:
@@ -94,13 +72,35 @@ def audit():
                         "Text": line.strip()[:1200],
                     })
 
-        flush_technical()
+            stripped = line.strip()
+            # Only treat a line as a technical taxonomy problem when the
+            # heading itself says "Transistor" or "Verified transistor/device
+            # terms" and the line clearly contains a different kind of
+            # technology reference. Generic evidence-limitations and normal
+            # transistor part numbers are intentionally ignored.
+            if (
+                re.fullmatch(r"transistor", section, re.I)
+                and re.match(r"[-*]\s*\*\*technology\*\*:", stripped, re.I)
+                and not DEVICE_TERMS.search(stripped)
+                and not UNKNOWN_TERMS.search(stripped)
+            ) or (
+                "transistor/device terms" in section
+                and MISMATCH_REFERENCES.search(stripped)
+                and not DEVICE_TERMS.search(stripped)
+            ):
+                rows.append({
+                    "Research Record": "./" + path.relative_to(ROOT).as_posix(),
+                    "Line": lineno,
+                    "Pattern": "technical_label_mismatch",
+                    "Text": stripped[:1200],
+                })
 
     deduped = {}
     for row in rows:
         key = (row["Research Record"], row["Line"], row["Pattern"], row["Text"])
         deduped[key] = row
     return list(deduped.values())
+
 
 def main():
     parser = argparse.ArgumentParser()
