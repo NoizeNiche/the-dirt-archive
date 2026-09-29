@@ -6,3 +6,6 @@ Run the quality-research queue now that the research worker has its own concurre
 
 Publication accounting fix kick 2026-09-29T18:11Z
 Quality repairs to deep records must be counted as deepened, not new canonical research links. Run the bounded quality queue again using the corrected synthesizer.
+
+Evidence quality gate kick 2026-09-29T10:00-07:00
+Run the bounded quality queue with the strengthened research foreman that strips navigation/CSS scrape residue and holds evidence packets dominated by page chrome.
