@@ -27,7 +27,6 @@ The builder specifically distinguishes MOD 1 as the original V1 configuration an
 
 ## Transistor
 - Exact production transistor/device part numbers: Unknown.
-
 ## Diode
 - Exact clipping/rectifier diode part numbers: Unknown.
 
