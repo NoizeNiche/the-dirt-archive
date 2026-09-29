@@ -4,7 +4,7 @@
   "original_builder": "Crucial Audio",
   "original_pedal": "Das G\u00f6tterd\u00e4mmerung",
   "status": "VERIFIED_EVIDENCE_STAGED",
-  "independent_exact_source_count": 1,
+  "independent_exact_source_count": 2,
   "sources": [
     {
       "url": "https://www.effectsdatabase.com/model/crucial/gotterdammerung",
@@ -13,6 +13,14 @@
       "excerpt": "Published on March 13, 2017 Crucial Audio fuzz ring modulator lfo-controlled pedal Information Crucial Audio Germanium Fuzz Ring Modulator. Featuring Crucial Audio\u00c2\u00ae critically acclaimed circuitry with high-quality components, True-Bypass switching, flexible functionality, expression & external clock options at an affordable price. Add Das G\u00c3\u00b6tterd\u00c3\u00a4mmerung to your pedal board and make room for amazing sounds. Product Features Germanium Fuzz Controls: GAIN, SATURATION, OUTPUT Ring Modulator Controls: INPUT GAIN, FREQUENCY, MOD DEPTH, RATE & SHAPE, MIX Full Range (Lo/HI) Carrier Frequency/Pitch Functionality External & Internal Carrier Frequency I/O's Carrier Frequency Expression Input Rugged Full Color UV Printed & Powder Coated Aluminum Enclosure 1 Year Warranty Video Date \u25bc\u25b2 Maker \u25bc\u25b2 Video \u25bc\u25b2 Time \u25bc\u25b2 2017-04-26 Crucial Audio Die G\u00f6tterd\u00e4mmerung by Crucial Audio - one more from the other night. 2017-04-25 Crucial Audio Die G\u00f6tterd\u00e4mmerung - example of carrier frequency modulation with Crucial Audio's proprietary oscillator circuit. 2017-04-25 Crucial Audio Summoning a Sonic Armageddon with Die G\u00f6tterd\u00e4mmerung Germanium Fuzz Ring Modulator @stevendrozd @stompboxpedals @pedaloftheday @effectsdatabase",
       "host": "www.effectsdatabase.com",
       "source_kind": "effects_database"
+    },
+    {
+      "url": "https://www.facebook.com/crucialaudio/posts/coming-soon-das-g%C3%B6tterd%C3%A4mmerung-germanium-fuzz-ring-modulator-the-first-producti/1409742152390752/",
+      "title": "Coming Soon! Das G\u00f6tterd\u00e4mmerung... - Crucial Audio llc",
+      "h1": "",
+      "excerpt": "Coming Soon! Das G\u00f6tterd\u00e4mmerung... - Crucial Audio llc {\"require\":[[\"Bootloader\",\"handlePayload\",null,[{\"consistency\": ,\"rsrcMap\":{\"e0hNGgp\": ,\"NCNQmKR\": ,\"YMMuSzA\": ,\"6gbGsW1\": ,\"jAzapwa\": ,\"VYSHFmC\": ,\"lVlcWB1\": ,\"\\/0W3iex\": ,\"+L0X93S\": ,\"CywhgPa\": ,\"SG64e4b\": ,\"UhIyvwZ\": ,\"gaps99d\": ,\"Ce8XpC0\": ,\"7d20y1g\": ,\"LMaLVfH\": ,\"OjMgQk0\": ,\"F8ZFj6j\": ,\"5gBpc2v\": ,\"tnslCG4\": ,\"5gEONGn\": ,\"7ZQP1aa\": ,\"T63sYIc\": ,\"yUqVmZ2\": ,\"DvH+jMb\": ,\"GKDDM3y\": ,\"ylgcZqp\": ,\"lI1Yib\\/\": ,\"zdK4sAk\": ,\"ScmBqr1\": ,\"GUy78z5\":{\"type\":\"js\",\"src\":\"https:\\/\\/static.xx.fbcdn.net\\/rsrc.php\\/v4iMFX4\\/yw\\/l\\/en_US-j\\/a9oKsgG_Ca6.js\",\"c\":1,\"p\":\"",
+      "host": "www.facebook.com",
+      "source_kind": "catalog_verified"
     }
   ],
   "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
