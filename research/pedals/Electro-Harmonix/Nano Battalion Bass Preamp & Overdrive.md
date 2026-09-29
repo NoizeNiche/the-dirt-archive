@@ -3,41 +3,38 @@
 ## PRP identity
 - **Archive parent:** Nano Battalion Bass Preamp & Overdrive
 - **Builder:** Electro-Harmonix
-- **Catalog type:** Overdrive
+- **Catalog type:** Overdrive / Bass Preamp
 - **Identity:** Electro-Harmonix's Nano Battalion Bass Preamp & Overdrive.
 
 ## What this pedal is
-Electro-Harmonix's Nano Battalion Bass Preamp & Overdrive is cataloged as an overdrive pedal.
+The Nano Battalion is a bass preamp built around a MOSFET drive circuit that ranges from light overdrive into heavily saturated distortion.
 
 ## Colorways
-- No specific factory colorway information was established in the verified evidence packet.
+- No complete factory colorway chronology was established.
 
 ## Versions and factory options
-- The verified evidence references: V2.
-- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+- MOSFET overdrive/distortion core.
+- Bass preamp format.
+- **V2** is referenced in the checked source set.
+- Exact V2 internal changes are not fully established here.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- The archive retains V2 as a documented version reference without inventing a detailed hardware-change list.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
-- **Exact transistor/device:** Unknown.
+- **MOSFET** drive architecture is documented.
+- Exact device part number was not established.
 
 ## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
-- **Exact part:** Unknown.
+- Exact clipping/rectifier diode information was not established.
 
 ## Sound
-Add to cart Darkglass Electronics Darkglass Alpha Omicron Bass Preamp/OD Pedal w/ Dual Distortion Modes
-Nano Battalion Bass Preamp & Overdrive
-A versatile MOSFET drive circuit that can deliver everything from subtle, light overdrive to fully saturated distortion forms the pedal’s core.
+Nano Battalion covers subtle bass overdrive through fully saturated distortion while keeping the pedal's preamp/EQ role useful in a bass signal chain.
 
 ## Sources checked
-1. Electro-Harmonix Nano Battalion Bass Preamp & Overdrive | Sweetwater: https://www.sweetwater.com/store/detail/NanoBattalion--electro-harmonix-nano-battalion-bass-preamp-and-overdrive
-2. open prime modal: https://www.amazon.com/clp/B07L6GD976
-3. Nano Battalion Bass Preamp & Overdrive | NANOBATT | Electro-Harmonix: https://shop.ehx.com/item/nanobatt/
-4. Electro-Harmonix Nano Battalion Bass Preamp & Overdrive Bass Guitar Effects Pedal | Guitar Center: https://www.guitarcenter.com/Electro-Harmonix/Nano-Battalion-Bass-Preamp-Overdrive-Effects-Pedal-1500000260686.gc
-5. ELECTRO-HARMONIX NANO BATTALION BASS PREAMP & OVERDRIVE : | Reverb: https://reverb.com/item/85619499-electro-harmonix-nano-battalion-bass-preamp-overdrive-brand-new-detroit-modular
+1. Electro-Harmonix - Nano Battalion: https://shop.ehx.com/item/nanobatt/
+2. Sweetwater - Nano Battalion: https://www.sweetwater.com/store/detail/NanoBattalion--electro-harmonix-nano-battalion-bass-preamp-and-overdrive
+3. Reverb - Nano Battalion: https://reverb.com/item/85619499-electro-harmonix-nano-battalion-bass-preamp-overdrive-brand-new-detroit-modular
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.

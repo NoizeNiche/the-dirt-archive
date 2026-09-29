@@ -7,35 +7,34 @@
 - **Identity:** Electro-Harmonix's Nano Bass Big Muff Pi.
 
 ## What this pedal is
-Electro-Harmonix's Nano Bass Big Muff Pi is cataloged as a fuzz pedal.
+The Nano Bass Big Muff Pi puts the Bass Big Muff's large, sustaining fuzz character into a nano-sized enclosure.
 
 ## Colorways
-- Voicing inspired by the tank green Russian Big Muff with the classic Big Muff Pi layout of Sustain, Tone and Volume controls.
+- Green/Russian-style Big Muff presentation is documented.
 
 ## Versions and factory options
-- No distinct factory revision was established in the verified evidence packet.
+- Sustain
+- Tone
+- Volume
+- Bass-oriented voicing.
+- Nano enclosure.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- The archive treats the Nano Bass Big Muff as a compact product in the Bass Big Muff family rather than as a historical Russian-version revision.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
-- **Exact transistor/device:** Unknown.
+- Exact production semiconductor details were not established.
 
 ## Diode
-- Documented terms in the verified sources: LED.
-- The archive records only the component information explicitly present in these sources.
+- LED indicator is documented; exact clipping-device part was not established.
 
 ## Sound
-Fuzz / Distortion / Sustainer - Electro-Harmonix Notify Me × Get notified when this item is back in-stock.
-Get it by · Order in Notify me when in stock Notify me of updates Notify me when in stock More Details Find a Dealer Sound Clips Sustain 3 o'clock, Tone noon Sustain 3 o'clock, Tone noon w Dry On Menu Nano Bass Big Muff Pi
-Fuzz / Distortion / Sustainer Nano Bass Big Muff Pi quantity Find a Dealer Nano Bass Big Muff Pi DESCRIPTION The huge Bass Big Muff sound now in a nano-sized package.
+The pedal provides the thick, sustaining fuzz associated with Big Muff designs while adapting the voicing for bass and preserving the compact nano format.
 
 ## Sources checked
-1. Nano Bass Big Muff Pi | Fuzz / Distortion / Sustainer - Electro-Harmonix: https://www.ehx.com/products/nano-bass-big-muff-pi/
-2. Electro-Harmonix Nano Bass Big Muff Pi Pedal | Sweetwater: https://www.sweetwater.com/store/detail/BigMuffBassN--electro-harmonix-nano-bass-big-muff-pi-pedal
-3. Nano Bass Big Muff Pi Distortion / Sustainer for Bass | NBBMUFF | Electro-Harmonix: https://shop.ehx.com/item/nbbmuff/
-4. Electro-Harmonix Nano Bass Big Muff Pi Distortion / Sustainer: https://reverb.com/p/electro-harmonix-nano-bass-big-muff-pi
+1. Electro-Harmonix - Nano Bass Big Muff Pi: https://www.ehx.com/products/nano-bass-big-muff-pi/
+2. EHX shop - Nano Bass Big Muff: https://shop.ehx.com/item/nbbmuff/
+3. Reverb - Nano Bass Big Muff Pi: https://reverb.com/p/electro-harmonix-nano-bass-big-muff-pi
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.

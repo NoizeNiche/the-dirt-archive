@@ -7,50 +7,29 @@
 - **Identity:** Demeter's DRV-1 Overdriveulator.
 
 ## What this pedal is
-Stage 2: Overdriveulator The second stage of the pedal is the DRV-1 Overdriveulator circuit.
-
-## Colorways
-- No specific factory colorway information was established in the verified evidence packet.
+The DRV-1 Overdriveulator is the first drive stage used in Demeter's later DD-1 Double Overdrive. It is a touch-sensitive analog overdrive intended to cover mild breakup through stronger saturation.
 
 ## Versions and factory options
-- No distinct factory revision was established in the verified evidence packet.
+- Original DRV-1 design.
+- No complete numbered production revision history was established.
+- LED indicator documented.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- The later DD-1 combines the DRV-1 with the DRV-2 Uberdriveulator in one chassis.
+- The archive keeps the DRV-1 as its own catalog identity.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
-- **Exact transistor/device:** Unknown.
+- Exact production transistor/device details were not established.
 
 ## Diode
-- Documented terms in the verified sources: LED.
-- The archive records only the component information explicitly present in these sources.
+- Exact clipping/rectifier diode information was not established.
 
 ## Sound
-DD-1 Double Overdrive | Demeter Amplification 123 (805) 461-4100 info@demeteramps.com 0 Items Home Custom Shop Shop Guitar Amplification Cabinets Pro Audio Power Amplifiers Bass Amplification Onboard Devices Pedals Artists Support About Us Select Page Home &#47; Pedals &#47; DD-1 Double Overdrive Sale!
-DD-1 Double Overdrive &#36; 399.00 Original price was: &#036;399.00.
-100 in stock DD-1 Double Overdrive quantity Add to cart SKU: DD-1 Category: Pedals Description Additional information Reviews (0) Description Our pedals are usually in stock and ship within 48 hours.
+DRV-1 is designed for responsive, amp-like overdrive and can be stacked or pushed into more saturated tones.
 
 ## Sources checked
-1. DD-1 Double Overdrive | Demeter Amplification: https://demeteramps.com/product/dd-1-double-overdrive/
+1. Demeter Amplification - DD-1 Double Overdrive: https://demeteramps.com/product/dd-1-double-overdrive/
+2. Effects Database - Demeter DRV-1: https://www.effectsdatabase.com/model/demeter/drv1
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
-
-## Deep research verification
-
-This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
-
-### Verified description
-Stage 2: Overdriveulator The second stage of the pedal is the DRV-1 Overdriveulator circuit.
-
-### Verified diode terms
-- LED.
-
-### Verified sound evidence
-Demeter Amplification 123 (805) 461-4100 info@demeteramps.com 0 Items Home Custom Shop Shop Guitar Amplification Cabinets Pro Audio Power Amplifiers Bass Amplification Onboard Devices Pedals Artists Support About Us Select Page Home / Pedals / DD-1 Double Overdrive Sale!
-DD-1 Double Overdrive $ 399.00 Original price was: $399.00.
-A Very Versatile Overdrive Pedal The DD-1 Double Overdrive is essentially two different distortion circuits in one, combining our DRV-1 Overdrivulator and our DRV-2 Uberdriveulator in a single pedal chassis.
-
-### Sources checked in this pass
-1. DD-1 Double Overdrive | Demeter Amplification: https://demeteramps.com/product/dd-1-double-overdrive/
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.

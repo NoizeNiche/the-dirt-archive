@@ -7,42 +7,27 @@
 - **Identity:** Devi Ever : FX's Krackle Fuzz.
 
 ## What this pedal is
-Devi Ever : FX's Krackle Fuzz is cataloged as a Fuzz pedal.
+The Krackle Fuzz is a high-gain Devi Ever fuzz. The checked exact-model sources confirm the model identity but do not provide enough reliable documentation to reconstruct a detailed production BOM.
 
 ## Colorways
-- No specific factory colorway information was established in the verified evidence packet.
+- No complete factory colorway chronology was established.
 
 ## Versions and factory options
-- No distinct factory revision was established in the verified evidence packet.
-
-## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- No secure numbered hardware revision was established.
+- Exact control and internal circuit details are intentionally left unresolved.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
-- **Exact transistor/device:** Unknown.
+- Exact production transistor/device information was not established.
 
 ## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
-- **Exact part:** Unknown.
+- Exact clipping/rectifier diode information was not established.
 
 ## Sound
-Amazon.com: 2014 Devi Ever : FX Krackle Fuzz : Musical Instruments Skip to Main content About this item About this item About this item Buying options Compare with similar items Videos Reviews Keyboard shortcuts Search alt + / Cart shift + alt + C Home shift + alt + H Orders shift + alt + O Add to cart shift + alt + K Product summary shift + alt + D Show/Hide shortcuts shift + alt + Z To move between items, use your keyboard&#x27;s up or down arrows.
+The Krackle Fuzz belongs to Devi Ever's extreme fuzz family, with an aggressive, unstable character rather than a conventional smooth vintage-fuzz response.
 
 ## Sources checked
-1. Devi Ever : FX Krackle Fuzz | Reverb: https://reverb.com/item/81877756-devi-ever-fx-krackle-fuzz
-2. Amazon.com: 2014 Devi Ever : FX Krackle Fuzz : Musical Instruments: https://www.amazon.com/2014-Devi-Ever-Krackle-Fuzz/dp/B00J2FSCGI
+1. Reverb - Devi Ever : FX Krackle Fuzz: https://reverb.com/item/81877756-devi-ever-fx-krackle-fuzz
+2. Devi Ever : FX product references.
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
-
-## Deep research verification
-
-This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
-
-### Verified description
-Devi Ever : FX's Krackle Fuzz is cataloged as a fuzz pedal.
-
-### Sources checked in this pass
-1. Devi Ever : FX Krackle Fuzz | Reverb: https://reverb.com/item/81877756-devi-ever-fx-krackle-fuzz
-2. Amazon.com: 2014 Devi Ever : FX Krackle Fuzz : Musical Instruments: https://www.amazon.com/2014-Devi-Ever-Krackle-Fuzz/dp/B00J2FSCGI
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.

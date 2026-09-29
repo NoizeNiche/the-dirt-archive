@@ -7,47 +7,32 @@
 - **Identity:** Dwarfcraft Devices's Robot Devil.
 
 ## What this pedal is
-Perf and PCB Effects Layouts: Dwarfcraft Devices Robot Devil This is a library of perfboard and single-sided PCB effect layouts for guitar and bass.
+The Robot Devil is an extreme Dwarfcraft fuzz/overdrive with octave-oriented harmonic content and a highly interactive response. Surviving technical references include DIY layout and tracing material.
 
 ## Colorways
-- No specific factory colorway information was established in the verified evidence packet.
+- No complete factory colorway chronology was established.
 
 ## Versions and factory options
-- No distinct factory revision was established in the verified evidence packet.
+- Fuzz/overdrive architecture.
+- Octave-oriented behavior is documented by surviving references.
+- No complete numbered production revision history was established.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- No reliable dated hardware chronology was established.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
-- **Exact transistor/device:** Unknown.
+- Exact production transistor/device information was not established.
 
 ## Diode
-- Documented terms in the verified sources: LED, LEDs.
-- The archive records only the component information explicitly present in these sources.
+- LED indicator is documented; exact clipping diode is not established.
 
 ## Sound
-Dwarfcraft Devices Robot Devil – StompLab Stomp Lab Register Sign in All projects Dwarfcraft Devices · Dwarfcraft Devices Robot Devil Fuzz Noise Octave Vero Close &copy; 2026 StompLab Terms of Use Privacy Policy Cookie Policy Cancel You're now Pro!
-You can close this to stick with the essentials, or hit Accept all if you’re feeling generous, curious, or just too busy chasing tone to care.
-Share to X Share to Facebook Share to Pinterest Labels: Dwarfcraft Devices , Fuzz , Octave , Verified 13 comments: Unknown December 30, 2015 at 10:34&#8239;AM Has anyone verified this layout?,Im thinking of making one of these but Id feel happier if there was a schematic to look at..I was thinking it would be cool to have a big muff tone stack on this,I was also thinking about a pre or post circuit fuzz boost with germainium diodes.
+Robot Devil is intended for extreme fuzz, octave-rich textures and unstable, aggressive drive sounds. The archive does not turn a DIY layout discussion into a claim about every production specimen.
 
 ## Sources checked
-1. Dwarfcraft Devices Robot Devil - What To Know Where To Buy: https://equipboard.com/items/dwarfcraft-devices-robot-devil
-2. Dwarfcraft Devices Robot Devil - Reverb: https://reverb.com/p/dwarfcraft-devices-robot-devil-1
-3. Dwarfcraft Devices Robot Devil - Effects Database: https://www.effectsdatabase.com/model/dwarfcraft/robotdevil
-4. Dwarfcraft Devices Robot Devil – StompLab: https://stomplab.net/projects/dwarfcraft-devices-robot-devil
-5. Perf and PCB Effects Layouts: Dwarfcraft Devices Robot Devil: https://effectslayouts.blogspot.com/2015/03/dwarfcraft-devices-robot-devil.html
+1. Effects Database - Dwarfcraft Robot Devil: https://www.effectsdatabase.com/model/dwarfcraft/robotdevil
+2. Reverb - Dwarfcraft Robot Devil: https://reverb.com/p/dwarfcraft-devices-robot-devil-1
+3. StompLab - Robot Devil technical reference: https://stomplab.net/projects/dwarfcraft-devices-robot-devil
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
-
-## Deep research verification
-
-This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
-
-### Verified description
-Dwarfcraft Devices's Robot Devil is cataloged as a fuzz / overdrive pedal.
-
-### Sources checked in this pass
-1. Dwarfcraft Devices Robot Devil - What To Know Where To Buy: https://equipboard.com/items/dwarfcraft-devices-robot-devil
-2. Dwarfcraft Devices Robot Devil - Reverb: https://reverb.com/p/dwarfcraft-devices-robot-devil-1
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.
