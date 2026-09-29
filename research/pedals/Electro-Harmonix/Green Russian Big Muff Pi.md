@@ -7,38 +7,37 @@
 - **Identity:** Electro-Harmonix's Green Russian Big Muff Pi.
 
 ## What this pedal is
-Add to cart Customers say Customers praise the fuzz pedal's sound quality, particularly its huge low end, with one mentioning it produces a fat distortion suitable for Black Keys blues sound.
+The Green Russian Big Muff Pi is Electro-Harmonix's modern recreation of the sought-after Russian Big Muff sound. The circuit is voiced for the large low end, strong sustain, and darker character associated with the Russian Big Muff family.
 
 ## Colorways
-- Add to cart Customers say Customers praise the fuzz pedal's sound quality, particularly its huge low end, with one mentioning it produces a fat distortion suitable for Black Keys blues sound.
+- The documented production finish is the **green Russian-style enclosure**.
+- Finish variations are not treated as separate circuits without evidence of a hardware change.
 
 ## Versions and factory options
-- No distinct factory revision was established in the verified evidence packet.
+- Four-control Big Muff interface with **Volume, Tone, Sustain**, plus footswitch operation.
+- True bypass.
+- 9V battery or standard 9V DC power.
+- Bass-oriented low-frequency emphasis is part of the model's voicing.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- The current EHX pedal is a modern reissue/recreation of the Russian Big Muff family.
+- It is not treated as electrically identical to every vintage Sovtek unit.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
+- Exact production transistor/device information was not established in the checked sources.
 - **Exact transistor/device:** Unknown.
 
 ## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- Exact production clipping/rectifier diode information was not established in the checked sources.
 - **Exact part:** Unknown.
 
 ## Sound
-Add to cart Customers say Customers praise the fuzz pedal's sound quality, particularly its huge low end, with one mentioning it produces a fat distortion suitable for Black Keys blues sound.
-+ 5 View all Hero image 0 of Electro-Harmonix Green Russian Big Muff Pi Fuzz Pedal, 0 of 11 Electro-Harmonix Electro-Harmonix Green Russian Big Muff Pi Fuzz Pedal 5 out of 5 stars (5.0)
-This Green Russian Big Muff creates a huge tone that is all its own, but is undeniably Big Muff.
+The Green Russian Big Muff emphasizes a huge low end and thick, sustained fuzz. Compared with a brighter Muff voice, its voicing is darker and fuller, making it particularly effective for bass and heavy rhythm textures.
 
 ## Sources checked
-1. Electro-Harmonix Green Russian Big Muff Pi Fuzz Pedal: https://www.sweetwater.com/store/detail/RussianBigMuff--electro-harmonix-green-russian-big-muff-pi-fuzz-pedal
-2. open prime modal: https://www.amazon.com/clp/B0751CRJ7X
-3. Electro-Harmonix Green Russian Big Muff Pi Fuzz Pedal - Walmart.com: https://www.walmart.com/ip/Electro-Harmonix-Green-Russian-Big-Muff-Distortion-and-Sustainer-Effects-Pedal/548130847
-4. Electro-Harmonix Green Russian Big Muff Pi - Crutchfield: https://www.crutchfield.com/p_339RUSBM/Electro-Harmonix-Green-Russian-Big-Muff-Pi.html
-5. Electro-Harmonix Green Russian Big Muff Pi Fuzz Pedal Review: The Low-End King Returns in a Modern Package – SonicMetric: https://sonicmetric.com/electro-harmonix-green-russian-big-muff-pi-fuzz-pedal-review-the-low-end-king-returns-in-a-modern-package/
-6. ELECTRO HARMONIX Green Russian Big Muff Pi Distortion Pedal | Reverb: https://reverb.com/item/94002360-electro-harmonix-green-russian-big-muff-pi-distortion-pedal
-7. Electro-Harmonix Sovtek &quot;Green Russian&quot; Big Muff Pi V7C: https://equipboard.com/items/electro-harmonix-green-russian-big-muff-pi
+1. Electro-Harmonix - Green Russian Big Muff Pi: https://www.ehx.com/products/green-russian-big-muff/
+2. Sweetwater - Electro-Harmonix Green Russian Big Muff Pi: https://www.sweetwater.com/store/detail/RussianBigMuff--electro-harmonix-green-russian-big-muff-pi-fuzz-pedal
+3. Electro-Harmonix - Big Muff family information: https://www.ehx.com/category/pedals/fuzz/
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.

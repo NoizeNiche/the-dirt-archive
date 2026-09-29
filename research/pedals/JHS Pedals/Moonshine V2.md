@@ -7,41 +7,37 @@
 - **Identity:** JHS Pedals's Moonshine V2.
 
 ## What this pedal is
-$0.00 USD MOONSHINE V2 $199.00 USD Zoom Zoom MOONSHINE V2 $199.00 USD − { $dispatch('change'); }) " > + Add to Cart OVERDRIVE Are you looking for an overdrive that is not transparent and adds its own character and attitude?
+The Moonshine V2 is JHS's highly modified take on the classic Tube Screamer-style overdrive. JHS describes it as a mid-heavy, characterful drive rather than a transparent overdrive.
 
 ## Colorways
-- Our Moonshine V2 overdrive is a highly unique and massively tweaked version of the most famous overdrive ever created and housed in a little green enclosure.
-- The tone control goes down as smooth as Grandpa’s White Lightning, with none of the harsh ice-pick characteristics that many overdrives often have in the brighter settings.
+- The documented production enclosure is **green**.
+- No complete factory colorway chronology was established.
 
 ## Versions and factory options
-- The verified evidence references: V1, V12, V2, V6.
-- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+- V2 retains the basic **Volume, Tone, Drive** controls of the original Moonshine.
+- **Clean Blend** control mixes clean signal with the driven signal.
+- JHS identifies the V2 as a substantially modified version of the classic Tube Screamer design.
+- 9V DC operation.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- V2 retains the core tone of Version 1 while adding the Clean Blend control and other circuit refinements.
+- The archive does not use unrelated search-result version numbers as Moonshine hardware revisions.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
+- Exact production semiconductor details were not established in the checked sources.
 - **Exact transistor/device:** Unknown.
 
 ## Diode
-- Documented terms in the verified sources: LED.
-- The archive records only the component information explicitly present in these sources.
+- Exact clipping diode details were not established in the checked sources.
+- **Exact part:** Unknown.
 
 ## Sound
-$0.00 USD MOONSHINE V2 $199.00 USD Zoom Zoom MOONSHINE V2 $199.00 USD − { $dispatch('change'); }) " > + Add to Cart OVERDRIVE Are you looking for an overdrive that is not transparent and adds its own character and attitude?
-Our Moonshine V2 overdrive is a highly unique and massively tweaked version of the most famous overdrive ever created and housed in a little green enclosure.
-CLEAN BLEND The Moonshine V2 is still the core tone of the version one and retains the simple Volume, Tone, and Drive knobs.
+The Moonshine V2 produces strong, mid-forward overdrive with a distinctive JHS voice. The Clean Blend control lets players retain attack and low-end definition while increasing drive, making the V2 useful for heavier, more saturated sounds without becoming entirely dominated by the dirt circuit.
 
 ## Sources checked
-1. MOONSHINE V2 – JHS Pedals: https://jhspedals.info/products/moonshine-v2
-2. open prime modal: https://www.amazon.com/clp/B073X89DHX
-3. JHS Pedals Moonshine V2 – United States: https://www.thomannmusic.com/jhs_pedals_moonshine_v2.htm
-4. JHS Pedals Moonshine V2 Overdrive Guitar Effect Pedal – Specialty Traders: https://specialtytraders.com/products/jhs-pedals-moonshine-v2-overdrive-guitar-effect-pedal
-5. MOONSHINE V2｜JHS Pedals 国内公式サイト: https://jhspedals.jp/moonshine.html
-6. JHS Pedals Moonshine V2 | ReverbZone: https://reverbzone.com/jhs-pedals/jhs-pedals-moonshine-v2/
-7. JHS Pedals Moonshine V2 Overdrive (4-Knob) *Free Shipping in the USA* - Effects & Pedals for Drive, Delay, Reverb & More: https://www.pedalbeam.com/product/jhs-pedals-moonshine-v2-overdrive-4-knob-free-shipping-in-the-usa/
-8. JHS Pedals MOONSHINE V2 | AllThePedals: https://allthepedals.com/pedals/jhs-pedals-moonshine-v2
+1. JHS Pedals - Moonshine V2: https://jhspedals.info/products/moonshine-v2
+2. JHS Pedals Japan - Moonshine V2: https://jhspedals.jp/moonshine.html
+3. JHS Pedals - Overdrive collection: https://jhspedals.info/collections/overdrive-distortions
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.
