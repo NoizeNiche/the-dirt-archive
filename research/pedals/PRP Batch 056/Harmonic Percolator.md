@@ -50,8 +50,6 @@ A hand wired recreation of the 1972 Harmonic Percolator — a highly textured in
 
 ### Verified color/finish evidence
 - The Harmonic Percolator utilizes a hybrid silicon / germanium transistor design that clips asymmetrically and imparts the signal with an unpredictable, yet musical distortion that resembles an overdriven console, but with more warmth and natural compression.
-- FINISH: Gold Seafoam green Slate gray Olive drab Ivory Add To Cart Added!
-
 ### Verified transistor/device terms
 - germanium transistor.
 
