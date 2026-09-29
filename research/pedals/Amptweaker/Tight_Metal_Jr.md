@@ -29,7 +29,6 @@ The Jr version reduced the footprint and control set of the larger TightMetal fa
 ## Transistor
 - Exact production transistor/device part numbers were not established in the reviewed public sources.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact clipping/rectifier diode part numbers were not established in the reviewed public sources.
 - **Exact part:** Unknown.
