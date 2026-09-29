@@ -72,6 +72,9 @@ def audit():
                         "Text": line.strip()[:1200],
                     })
 
+            if re.fullmatch(r"-\s*(?:AC10|AC15|AC30|AC50|AC100|JCM\d{2,3})\.?\s*", line.strip(), re.I):
+                continue
+
             stripped = line.strip()
             # Only treat a line as a technical taxonomy problem when the
             # heading itself says "Transistor" or "Verified transistor/device
