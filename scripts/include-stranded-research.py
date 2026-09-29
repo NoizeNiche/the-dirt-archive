@@ -21,6 +21,16 @@ EVIDENCE = ROOT / "research-evidence"
 SUMMARY_PATH = EVIDENCE / "foreman-summary.json"
 
 
+def load_foreman():
+    path = ROOT / "scripts/research-foreman.py"
+    spec = importlib.util.spec_from_file_location("research_foreman", path)
+    if spec is None or spec.loader is None:
+        raise RuntimeError("Could not load research foreman")
+    module = importlib.util.module_from_spec(spec)
+    spec.loader.exec_module(module)
+    return module
+
+
 def load_synthesizer():
     path = ROOT / "scripts/synthesize-research-inbox.py"
     spec = importlib.util.spec_from_file_location("synth_research", path)
@@ -69,6 +79,7 @@ def main():
         for x in catalog.get("pedals", [])
     }
     synth = load_synthesizer()
+    foreman = load_foreman()
     catalog_keys = set(by_key)
     catalog_index = {}
     # Use the synthesizer's own identity rules, including confirmed aliases.
@@ -121,12 +132,39 @@ def main():
         if level == "surface" and not safe_surface_placeholder(item):
             continue
 
+        # Older stranded packets may contain scrape-heavy excerpts that
+        # predate the current foreman. Sanitize and retain only source entries
+        # that still have usable evidence before allowing re-publication.
+        sanitized_sources = []
+        for source in packet.get("sources", []) or []:
+            if not isinstance(source, dict):
+                continue
+            cleaned = dict(source)
+            cleaned["excerpt"] = foreman.clean_evidence_excerpt(
+                source.get("excerpt") or source.get("bodyExcerpt") or "",
+                key[0],
+                key[1],
+            )
+            if foreman.source_has_usable_excerpt(cleaned, key[0], key[1]):
+                sanitized_sources.append(cleaned)
+        if not sanitized_sources:
+            continue
+
+        recovered_packet = dict(packet)
+        recovered_packet["builder"] = key[0]
+        recovered_packet["pedal"] = key[1]
+        recovered_packet["sources"] = sanitized_sources
+        recovered_packet["independent_exact_source_count"] = len(sanitized_sources)
+
         digest = hashlib.sha1(
             (str(key[0]) + "\0" + str(key[1])).encode("utf-8")
         ).hexdigest()[:16]
         dest = EVIDENCE / "stranded-existing" / f"{digest}.json"
         dest.parent.mkdir(parents=True, exist_ok=True)
-        shutil.copy2(packet_path, dest)
+        dest.write_text(
+            json.dumps(recovered_packet, ensure_ascii=True, indent=2) + "\n",
+            encoding="utf-8",
+        )
         staged_files.append(dest.relative_to(ROOT).as_posix())
         seen.add(key)
         recovered.append({
