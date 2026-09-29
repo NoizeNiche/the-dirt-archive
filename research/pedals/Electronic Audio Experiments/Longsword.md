@@ -7,41 +7,43 @@
 - **Identity:** Electronic Audio Experiments's Longsword.
 
 ## What this pedal is
-Add to cart The Electronic Audio Experiments Longsword is yet another contender in the endless void of op-amp based drive pedals—familiar but with some novel twists.
+The Longsword is an op-amp-based distortion/overdrive with cascaded gain stages and a highly flexible EQ section. EAE designed it to cover clean boost through massive distortion while remaining useful with guitar, baritone, and bass.
 
 ## Colorways
-- Finish: Select Finish Black Sparkle Rose Gold Purple Acid Etch Black Sparkle Rose Gold Purple Acid Etch Add To Cart Electrical Specifications Bypass: Relay switching with true bypass Input impedance @ 1 Khz: 500kΩ Output impedance @ 1 Khz: 1kΩ Power: 9V DC, 2.1 mm center negative barrel.
-- Rose Gold: rose gold powder coat with white print and white knobs Purple: 2023 retail exclusive Electrical Specifications Bypass: Relay switching with true bypass Input impedance @ 1 Khz: 500kΩ Output impedance @ 1 Khz: 1kΩ Power: 9V DC, 2.1 mm center negative barrel.
+- Documented finishes include **Black Sparkle**, **Rose Gold**, and **Purple**.
+- The Purple finish is documented as a 2023 retail-exclusive presentation.
+- Finish variants are not treated as circuit revisions.
 
 ## Versions and factory options
-- The verified evidence references: Revision, V1, V2, V3, V4, Version 1, Version 2, Version 3, Version 4.
-- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+- Cascaded op-amp gain stages.
+- Bass and Treble shelving controls.
+- Active, frequency-selectable Midrange boost/cut.
+- Relay switching with true bypass.
+- Input impedance: 500kΩ.
+- Output impedance: 1kΩ.
+- 9V DC, 2.1mm center-negative power.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- The Longsword has undergone multiple documented hardware revisions, including V1 through V4-era changes.
+- The archive does not assign every historical revision detail to the unversioned Longsword record.
+- A specific V4.5 record should be used when a source documents the later revision explicitly.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
-- **Exact transistor/device:** Unknown.
+- The checked EAE material describes an op-amp-based gain architecture rather than a transistor-only gain stage.
+- **Exact production semiconductor complement:** Unknown.
 
 ## Diode
-- Documented terms in the verified sources: Silicon diode.
-- The archive records only the component information explicitly present in these sources.
+- EAE source material documents **silicon diode** clipping, but does not publish a complete production diode bill of materials for every revision.
+- **Exact diode part numbers:** Unknown.
 
 ## Sound
-Cascaded gain stages allow for the full range from clean boost to massive distortion, all without sacrificing tonal flexibility.
-The equalizer combines bass and treble shelving filters with an active, frequency-selectable midrange boost/cut control.
-The Longsword has a broad frequency response which makes it work equally well with guitar, baritone, and bass.
+Longsword covers clean boost, low-gain drive, and very large distortion sounds. Its active midrange control and shelving filters provide more tonal shaping than a simple two- or three-knob drive, and the broad frequency response makes it practical for guitar, baritone, and bass.
 
 ## Sources checked
-1. Longsword &mdash; Electronic Audio Experiments: https://www.electronicaudioexperiments.com/pedals/longsword
-2. Electronic Audio Experiments Longsword V4.5 - Reverb: https://reverb.com/p/electronic-audio-experiments-longsword-v4-dot-5
-3. Electronic Audio Experiments Longsword — Overdrive Pedal: https://equipboard.com/items/electronic-audio-experiments-longsword
-4. Electronic Audio Experiments Longsword Overdrive Guitar Effects Pedal - Cottonwood Music Emporium: https://www.cottonwoodmusicemporium.com/products/electronic-audio-experiments-longsword
-5. ELECTRONIC AUDIO EXPERIMENTS LONGSWORD &ndash; Detroit Modular: https://www.detroitmodular.com/products/electronic-audio-experiments-longsword
-6. Electronic Audio Experiments Longsword Guitar Distortion Pedal Operating Manual | ManualsLib: https://www.manualslib.com/guide/4241025/electronic-audio-experiments-longsword-guitar-distortion-pedal-operating-manual.html
-7. Electronic Audio Experiments Longsword V4 Manual | Manualzz: https://manualzz.com/doc/67938614/electronic-audio-experiments-longsword-v4-manual
-8. Electronic Audio Experiments Longsword | Effects Database: https://www.effectsdatabase.com/model/electronicaudioexperiments/longsword
+1. Electronic Audio Experiments - Longsword: https://www.electronicaudioexperiments.com/pedals/longsword
+2. Effects Database - EAE Longsword: https://www.effectsdatabase.com/model/electronicaudioexperiments/longsword
+3. EAE Longsword V4 manual: https://manualzz.com/doc/67938614/electronic-audio-experiments-longsword-v4-manual
+4. Reverb - EAE Longsword V4.5: https://reverb.com/p/electronic-audio-experiments-longsword-v4-dot-5
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.

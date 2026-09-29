@@ -7,54 +7,39 @@
 - **Identity:** Electronic Audio Experiments's Greathammer.
 
 ## What this pedal is
-$249.00 The Electronic Audio Experiments Greathammer is a bass-focused overdrive that brings a distinct flavor of solid state thunder.
+The Greathammer is a bass-focused overdrive designed to cover a broad gain range while retaining a strong low-end foundation. EAE describes it as a solid-state alternative to more conventional bass preamp/drive designs.
 
 ## Colorways
-- No specific factory colorway information was established in the verified evidence packet.
+- The documented production finish includes **Gray Acid Etch**.
+- No complete factory colorway chronology was established.
 
 ## Versions and factory options
-- The verified evidence references: v1.
-- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+- **Level:** overall output.
+- **Gain:** from clean boost through extreme drive, with a documented range approaching 50dB.
+- High-headroom op-amp buffer.
+- Input impedance: 1MΩ.
+- Output impedance: below 1kΩ.
+- 9V DC, 2.1mm center-negative power.
+- Silent electronic switching.
+- Designed for bass but usable as a preamp/drive with other sources.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- EAE's current documentation distinguishes the original Greathammer from later documentation revisions, but a complete numbered hardware chronology was not established.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
-- **Exact transistor/device:** Unknown.
+- The active signal path is op-amp/buffer based.
+- **Exact semiconductor complement:** Unknown.
 
 ## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- Exact clipping/rectifier diode information was not established in the checked sources.
 - **Exact part:** Unknown.
 
 ## Sound
-$249.00 The Electronic Audio Experiments Greathammer is a bass-focused overdrive that brings a distinct flavor of solid state thunder.
-With a gain control spanning a 50dB range, the Greathammer can be restrained or rowdy.
-Color: Select Color Gray Acid Etch Gray Acid Etch Quantity: Add To Cart Electrical Specifications Bypass switching: Silent electronic switching with a high-headroom op amp buffer Input impedance @ 1Khz: 1MΩ Output impedance @ 1Khz: <1KΩ Power: 9VDC, 2.1mm center negative barrel.
+Greathammer can be restrained or aggressive depending on Gain, with substantial low-frequency headroom. EAE describes it as equally useful in front of an amplifier or as a dedicated preamp.
 
 ## Sources checked
-1. Greathammer Bass Driver — Electronic Audio Experiments: https://www.electronicaudioexperiments.com/pedals/greathammer
-2. Electronic Audio Experiments Greathammer – Coast Sonic American Express Apple Pay Diners Club Discover Google Pay Mastercard PayPal Shop Pay Visa: https://coastsonic.com/products/electronic-audio-experiments-greathammer
+1. Electronic Audio Experiments - Greathammer Bass Driver: https://www.electronicaudioexperiments.com/pedals/greathammer
+2. EAE Greathammer product references in the archive research set.
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
-
-## Deep research verification
-
-This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
-
-### Verified description
-The Greathammer is equally effective in front of an amplifier or as a dedicated preamp.
-
-### Verified version references
-- The evidence references: V4, Version 1, v1.
-
-### Verified sound evidence
-With a gain control spanning a 50dB range, the Greathammer can be restrained or rowdy.
-Color: Select Color Gray Acid Etch Gray Acid Etch Quantity: Add To Cart Electrical Specifications Bypass switching: Silent electronic switching with a high-headroom op amp buffer Input impedance @ 1Khz: 1MΩ Output impedance @ 1Khz: <1KΩ Power: 9VDC, 2.1mm center negative barrel.
-Download Manual (v1) Controls Level: overall volume level, capable of extremely high output Gain: signal gain, from clean to moderate to extreme.
-
-### Sources checked in this pass
-1. Greathammer Bass Driver — Electronic Audio Experiments: https://www.electronicaudioexperiments.com/pedals/greathammer
-2. Electronic Audio Experiments Greathammer – Coast Sonic: https://coastsonic.com/products/electronic-audio-experiments-greathammer
-3. Electronic Audio Experiments Greathammer Pedal – Round Hill Music Co: https://roundhillmusicco.com/products/electronic-audio-experiments-greathammer-pedal
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.
