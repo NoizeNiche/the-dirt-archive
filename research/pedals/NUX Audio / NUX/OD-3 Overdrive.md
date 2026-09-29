@@ -70,3 +70,23 @@ True bypass provides transparent tone LED indicator shows status of effect and b
 
 ### Sources checked in this pass
 1. NuX OD-3 Overdrive | Effects Database: https://www.effectsdatabase.com/model/nux/2012/od3
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+OD-3 Overdrive Published on December 4, 2012 NuX die-cast series 2012 (XX-0) overdrive pedal NAMM 2013 Controls Level Tone Drive Information nuX Delivers that warm, natural tube overdrive sound By rotating the knobs you can boost the guitar amp for colorful tone or overdrive itself for unique pedal sound.
+
+### Verified color/finish evidence
+- OD-3 Overdrive Published on December 4, 2012 NuX die-cast series 2012 (XX-0) overdrive pedal NAMM 2013 Controls Level Tone Drive Information nuX Delivers that warm, natural tube overdrive sound By rotating the knobs you can boost the guitar amp for colorful tone or overdrive itself for unique pedal sound.
+
+### Verified diode terms
+- LED.
+
+### Verified sound evidence
+OD-3 Overdrive Published on December 4, 2012 NuX die-cast series 2012 (XX-0) overdrive pedal NAMM 2013 Controls Level Tone Drive Information nuX Delivers that warm, natural tube overdrive sound By rotating the knobs you can boost the guitar amp for colorful tone or overdrive itself for unique pedal sound.
+True bypass provides transparent tone LED indicator shows status of effect and battery condition The pedal can be powered by a battery or an optional AC adaptor Specifications: Input impedance: 1MO Output impedance: 10KO Power: 9V Battery or 9V AC Adapter Dimensions: 121(L) x77(W) x48(D) mm Weight: 230g
+
+### Sources checked in this pass
+1. NuX OD-3 Overdrive | Effects Database: https://www.effectsdatabase.com/model/nux/2012/od3
