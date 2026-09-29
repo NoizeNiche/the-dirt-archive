@@ -4534,7 +4534,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1383
+      "image_source_priority": 1383,
+      "image": "./assets/pedals/arc-effects/big-green/primary.webp"
     },
     {
       "company": "ARC Effects",
@@ -4552,7 +4553,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1385
+      "image_source_priority": 1385,
+      "image": "./assets/pedals/arc-effects/big-green-pi/primary.webp"
     },
     {
       "company": "ARC Effects",
@@ -4570,7 +4572,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1384
+      "image_source_priority": 1384,
+      "image": "./assets/pedals/arc-effects/crimson-king/primary.webp"
     },
     {
       "company": "ARC Effects",
@@ -31250,7 +31253,8 @@
       "image_source_url": "https://rvb-img.reverb.com/i/s--lfAQXJGO--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/lx0tmxphylzzzqxngzr5.jpg",
       "image_source_urls": [
         "https://rvb-img.reverb.com/i/s--lfAQXJGO--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/lx0tmxphylzzzqxngzr5.jpg"
-      ]
+      ],
+      "image": "./assets/pedals/daredevil-pedals/fearless-distortion/primary.webp"
     },
     {
       "company": "Daredevil Pedals",
@@ -57605,7 +57609,8 @@
       "image_source_url": "https://rvb-img.reverb.com/i/s--jArsOZgM--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/r91m36n1i7jbspqtildh.jpg",
       "image_source_urls": [
         "https://rvb-img.reverb.com/i/s--jArsOZgM--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/r91m36n1i7jbspqtildh.jpg"
-      ]
+      ],
+      "image": "./assets/pedals/wampler-pedals/plextortion/primary.webp"
     },
     {
       "company": "Wampler Pedals",
