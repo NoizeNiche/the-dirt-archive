@@ -7,7 +7,7 @@
 - **Identity:** Amptweaker's Tight Drive.
 
 ## What this pedal is
-Blaze Dynamic Overdrive Releasing today is the Blaze , our take on the Tight Drive.
+The Tight Drive is Amptweaker’s first pedal, released in 2010. Aion FX’s trace describes it as an overdrive built around the builder’s characteristic Tight control and SideTrak effects loop. [1][3]
 
 ## Colorways
 - No specific factory colorway information was established in the verified evidence packet.
