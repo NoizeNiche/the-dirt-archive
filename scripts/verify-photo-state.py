@@ -166,6 +166,11 @@ def main():
             try:
                 with Image.open(asset) as im:
                     im.verify()
+                    if str(im.format or "").upper() != "WEBP":
+                        raise SystemExit(
+                            f"Picture=DONE local asset is not actually WebP for {k}: "
+                            f"{asset} ({im.format or 'unknown format'})"
+                        )
             except SystemExit:
                 raise
             except Exception as exc:
