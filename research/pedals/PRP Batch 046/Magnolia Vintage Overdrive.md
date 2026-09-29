@@ -27,7 +27,7 @@ Alexander Pedals's Magnolia Vintage Overdrive is cataloged as an overdrive pedal
 - **Exact part:** Unknown.
 
 ## Sound
-Alexander Pedals Magnolia Vintage Overdrive - Central Music Skip to content Central Music Search: Our Blog FREE SHIPPING &#36; 0.00 0 View Cart Checkout No products in the cart.
+
 Featuring a fully adjustable tone stack and two selectable drive modes, it&#8217;s as comfortable as your favorite jeans.
 Drive: Adjusts the gain and distortion of the pedal.
 
