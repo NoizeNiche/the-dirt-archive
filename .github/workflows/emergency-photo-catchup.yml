@@ -69,12 +69,6 @@ jobs:
         run: python scripts/reset-photo-recovery-targets.py
 
       - name: Recover a bounded photo batch
-        run: python scripts/apply-photo-source-overrides.py
-      - name: Recover curated direct photos first
-        run: python scripts/cache-curated-direct-photos.py
-
-
-      - name: Recover a bounded photo batch
         env:
           PHOTO_BROWSER_IMAGE_SEARCH: "true"
           PHOTO_BROWSER_DEEP_REVIEW: "true"
