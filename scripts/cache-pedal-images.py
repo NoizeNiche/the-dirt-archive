@@ -29,6 +29,7 @@ TARGET_BUILDER = os.environ.get("PHOTO_CACHE_TARGET_BUILDER", "").strip()
 TARGET_PEDAL = os.environ.get("PHOTO_CACHE_TARGET_PEDAL", "").strip()
 MANIFEST_OWNERS = {}
 PHOTO_BLOCK_PATTERNS = []
+MANUAL_VERIFIED_PHOTOS = set()
 
 
 def load_photo_blocklist():
@@ -58,6 +59,21 @@ def blocked_photo_url(value):
 
 def key(builder, pedal):
     return f"{builder}\0{pedal}"
+
+def load_manual_verified_photos():
+    global MANUAL_VERIFIED_PHOTOS
+    path = ROOT / "research/PHOTO_MANUAL_REVIEW.csv"
+    MANUAL_VERIFIED_PHOTOS = set()
+    try:
+        with path.open(newline="", encoding="utf-8") as handle:
+            for row in csv.DictReader(handle):
+                if str(row.get("Status") or "").strip().upper() == "VERIFIED_PRIMARY":
+                    builder = str(row.get("Builder") or "").strip()
+                    pedal = str(row.get("Pedal") or "").strip()
+                    if builder and pedal:
+                        MANUAL_VERIFIED_PHOTOS.add(key(builder, pedal))
+    except Exception:
+        pass
 
 
 def slug(value):
@@ -284,6 +300,7 @@ def cache_entry_prepare(entry):
     if (
         curated_source_url
         and entry.get("image_source_page_verified") is True
+        and key(entry.get("company") or entry.get("builder"), entry.get("pedal")) in MANUAL_VERIFIED_PHOTOS
         and re.match(r"^https?://", curated_source_url, re.I)
     ):
         return ("download", entry, target, curated_source_url)
@@ -296,7 +313,11 @@ def cache_entry_prepare(entry):
         # Retry direct image provenance URLs, but never treat a product/source
         # page URL as if it were an image. Exact page sources are handled by
         # browser-photo-cache.mjs first.
-        if source_url and re.match(r"^https?://", source_url, re.I):
+        if (
+            source_url
+            and key(entry.get("company") or entry.get("builder"), entry.get("pedal")) in MANUAL_VERIFIED_PHOTOS
+            and re.match(r"^https?://", source_url, re.I)
+        ):
             return ("download", entry, target, source_url)
         return ("skip", entry, None, None)
 
@@ -310,7 +331,11 @@ def cache_entry_prepare(entry):
         # When the file is absent, fall back to the stored provenance URL instead
         # of treating the missing local file as permanently uncacheable.
         source_url = entry.get("image_source_url")
-        if source_url and source_url.startswith(("http://", "https://")):
+        if (
+            source_url
+            and key(entry.get("company") or entry.get("builder"), entry.get("pedal")) in MANUAL_VERIFIED_PHOTOS
+            and source_url.startswith(("http://", "https://"))
+        ):
             return ("download", entry, target, source_url)
         return ("failure", entry, image, "declared local cache file is missing and no provenance URL is available")
 
@@ -407,6 +432,7 @@ def main():
     from concurrent.futures import ThreadPoolExecutor, as_completed
 
     load_photo_blocklist()
+    load_manual_verified_photos()
     staged_converted = convert_staged_sources()
     if staged_converted:
         print(f"Converted {staged_converted} staged browser-recovery photos into canonical WebP assets.")
