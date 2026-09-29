@@ -17,6 +17,7 @@ import csv
 import hashlib
 import json
 import re
+import unicodedata
 from collections import defaultdict
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
@@ -48,7 +49,8 @@ def key(builder: str, pedal: str) -> tuple[str, str]:
 
 
 def norm(value: str) -> str:
-    value = str(value or "").normalize() if hasattr(str(value or ""), "normalize") else str(value or "")
+    value = unicodedata.normalize("NFKD", str(value or ""))
+    value = "".join(ch for ch in value if not unicodedata.combining(ch))
     return " ".join(TOKEN_RE.findall(value.lower()))
 
 
