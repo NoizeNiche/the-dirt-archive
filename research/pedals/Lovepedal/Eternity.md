@@ -4,38 +4,40 @@
 - **Archive parent:** Eternity
 - **Builder:** Lovepedal
 - **Catalog type:** Overdrive
-- **Identity:** Lovepedal's Eternity.
+- **Identity:** Lovepedal's Eternity family record.
 
 ## What this pedal is
-Lovepedal's Eternity is cataloged as an overdrive pedal.
+The Eternity is a Lovepedal overdrive family known for a highly interactive three-control design: Drive, Level and Glass. Lovepedal's Glass control works as a treble/presence boost, while Level can provide clean boost.
 
 ## Colorways
-- No specific factory colorway information was established in the verified evidence packet.
+- Numerous Eternity finishes and special editions exist.
+- No complete factory finish chronology was established for the family record.
 
 ## Versions and factory options
-- No distinct factory revision was established in the verified evidence packet.
+- **Drive**
+- **Level**
+- **Glass**
+- True bypass.
+- 9V operation.
+- The archive keeps named versions such as Eternity E6, Eternity Burst and other special editions separate when their component or enclosure histories are documented.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- The Eternity family has accumulated many named and finish-specific versions.
+- The archive does not assign a single transistor or clipping network to every Eternity variant.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
-- **Exact transistor/device:** Unknown.
+- Exact production semiconductor complement varies by version and was not established for the family record.
 
 ## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
-- **Exact part:** Unknown.
+- Exact clipping-device information was not established for the family record.
 
 ## Sound
-It's a treble boost instead of a normal tone control..
+Eternity spans transparent-to-thick overdrive with an unusually effective guitar-volume response. The Glass control can act as a treble boost or be rolled back for a darker, rounder sound.
 
 ## Sources checked
-1. Lovepedal Eternity Burst (Handwired) - Reverb: https://reverb.com/p/lovepedal-eternity-burst-handwired
-2. Lovepedal Eternity E6 - What To Know & Where To Buy: https://equipboard.com/items/lovepedal-eternity-e6
-3. Lovepedal Eternity for sale | eBay: https://www.ebay.com/sch/i.html?_nkw=lovepedal+eternity&_sop=12
-4. [review] Lovepedal Eternity Overdrive (by LordRiffenstein): https://www.effectsdatabase.com/reviews/lovepedal/eternity
-5. Eternity E6 by Lovepedal | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/Lovepedal/Eternity-E6/68981377/
-6. Eternal Burst (Lovepedal Eternity Burst) - PedalPCB Community Forum: https://forum.pedalpcb.com/threads/eternal-burst-lovepedal-eternity-burst.17353/
+1. Lovepedal - History: https://www.lovepedal.com/history/
+2. MusicRadar - Lovepedal Eternity E6: https://www.musicradar.com/reviews/guitars/lovepedal-eternity-e6-579534
+3. Effects Database - Lovepedal Eternity: https://www.effectsdatabase.com/reviews/lovepedal/eternity
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.
