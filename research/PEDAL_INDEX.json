@@ -16663,9 +16663,15 @@
       ],
       "source_page": "https://browneamps.com/the-alkene",
       "research_record": "./research/pedals/PRP Batch 120/browne-amplification-atom-nashville-drive.md",
-      "image_source_page": "https://browneamps.com/the-alkene",
+      "image_source_page": "https://www.chicagomusicexchange.com/products/browne-amplification-atom-nashville-drive-overdrive-1677355",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_pages": [
+        "https://www.chicagomusicexchange.com/products/browne-amplification-atom-nashville-drive-overdrive-1677355"
+      ],
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 50000
     },
     {
       "company": "Browne Amplification",
@@ -18305,7 +18311,13 @@
       "research_record": "./research/pedals/PRP Batch 134/green-concussion-fuzz.md",
       "image_source_page": "https://byronamplification.com/pedals",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_pages": [
+        "https://byronamplification.com/pedals"
+      ],
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 50000
     },
     {
       "company": "Byron Amplification",
@@ -18357,7 +18369,13 @@
       "research_record": "./research/pedals/PRP Batch 134/pai-mei-fuzz.md",
       "image_source_page": "https://byronamplification.com/pedals",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_pages": [
+        "https://byronamplification.com/pedals"
+      ],
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 50000
     },
     {
       "company": "Byron Amplification",
@@ -18381,7 +18399,13 @@
       "research_record": "./research/pedals/PRP Batch 134/poder-del-alma-fuzz.md",
       "image_source_page": "https://byronamplification.com/pedals",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_pages": [
+        "https://byronamplification.com/pedals"
+      ],
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 50000
     },
     {
       "company": "Byron Amplification",
@@ -22236,15 +22260,16 @@
       ],
       "source_page": null,
       "research_record": "./research/pedals/CBC Pedals/The Drive.md",
-      "image_source_priority": 392,
+      "image_source_priority": 50000,
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
       "image_source_pages": [
         "https://reverb.com/item/2817718-cbc-pedals-the-drive-zendrive-clone",
         "https://reverb.com/item/3942273-cbc-pedals-the-drive-zendrive-clone",
-        "https://reverb.com/item/32819491-cbc-the-drive-zendrive-clone"
+        "https://reverb.com/item/32819491-cbc-the-drive-zendrive-clone",
+        "https://reverb.com/item/94123842-cbc-pedals-the-drive-zendrive-clone"
       ],
-      "image_source_page": "https://reverb.com/item/32819491-cbc-the-drive-zendrive-clone",
+      "image_source_page": "https://reverb.com/item/94123842-cbc-pedals-the-drive-zendrive-clone",
       "image_source_pages_verified": true,
       "image_source_page_verified": true
     },
