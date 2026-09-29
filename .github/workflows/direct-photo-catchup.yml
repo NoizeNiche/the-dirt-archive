@@ -26,9 +26,9 @@ permissions:
 
 concurrency:
   group: dirt-direct-photo-recovery-v1
-  # Keep only the newest direct-photo recovery attempt; stale queued passes
-  # should not block newer visually verified corrections.
-  cancel-in-progress: true
+  # Let an active direct-photo recovery finish. New triggers can wait in the
+  # concurrency queue rather than interrupting a verified publication pass.
+  cancel-in-progress: false
 
 jobs:
   recover:
