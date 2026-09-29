@@ -20,6 +20,9 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v7
 
+      - name: Install Python image tooling
+        run: python -m pip install --disable-pip-version-check pillow
+
       - name: Synchronize tracker from catalog
         run: python scripts/sync-prp-tracker.py
 
