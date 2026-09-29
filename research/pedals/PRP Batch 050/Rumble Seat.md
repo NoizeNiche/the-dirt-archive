@@ -62,7 +62,7 @@ Everything is possible with the Rumble Seat.
 - (We have four vintage Black Face amps at our recording studio, Cloud 9 Recording – where all of our pedals were born.) The sound is never brittle; it is dark and rich with plenty of shimmer.
 
 ### Verified sound evidence
-Rumble Seat (OverDrive/Delay/Reverb Pedal) quantity Add to cart Update: This product ships in one of our new cooler bags, as mentioned in our Important Announcement on the homepage.
+
 Guitarists of all styles appreciate the rich-sounding overdrive, delay and reverb packed into the Rumble Seat.
 Multi-effects pedal for electric guitar with Overdrive, Delay and Reverb circuits
 
