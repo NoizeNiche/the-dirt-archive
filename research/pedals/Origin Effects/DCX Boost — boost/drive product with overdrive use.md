@@ -3,40 +3,42 @@
 ## PRP identity
 - **Archive parent:** DCX Boost — boost/drive product with overdrive use
 - **Builder:** Origin Effects
-- **Catalog type:** Overdrive
-- **Identity:** Origin Effects's DCX Boost — boost/drive product with overdrive use.
+- **Catalog type:** Boost / Overdrive / Preamp
+- **Identity:** Legacy descriptive filename for Origin Effects' DCX Boost.
+
+## Archive identity note
+This filename contains descriptive catalog language. It refers to the same **DCX Boost** product as the canonical Origin Effects record.
 
 ## What this pedal is
-by Paolo De Gregorio Despite its name, the Origin Effects DCX Boost is a lot more than just a boost pedal, but rather, as its “subtitle” suggests, a studio-grade preamp able to shape and overdrive your tone.
-
-## Colorways
-- No specific factory colorway information was established in the verified evidence packet.
+The DCX Boost is an analogue tone-shaper and drive pedal inspired by the Universal Audio 610 studio preamp. Origin describes it as capable of clean boost, subtle overdrive and highly saturated console-like drive.
 
 ## Versions and factory options
-- No distinct factory revision was established in the verified evidence packet.
+- **EQ** mode: lower gain, clean boost through subtle overdrive.
+- **OD** mode: higher gain, tighter low-end response and fuzz-like saturation.
+- **LEVEL** and **DRIVE**.
+- **L.F.** and **H.F.** controls are flat at noon.
+- **VOICE** switch: FLAT, MED, DRK.
+- Adaptive Circuitry reacts to playing dynamics in EQ mode.
+- High-quality buffered bypass.
+- 9V DC center-negative, minimum 90mA.
+- Designed and built in England.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- No separate numbered production revision was established in the checked sources.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
-- **Exact transistor/device:** Unknown.
+- Exact production semiconductor complement was not established.
 
 ## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
-- **Exact part:** Unknown.
+- Exact clipping/rectifier diode information was not established.
 
 ## Sound
-DCX BOOST This site uses cookies for analytics and to improve your experience.
-One such piece is the UA 610 preamp, which was the inspiration for the DCX Boost.
-Push the level harder and you get rich, harmonic saturation of the kind that makes analogue hardware a must-have in any present-day studio.
+In EQ mode, the DCX can act as a clean boost or subtle overdrive with a very flat response. OD mode increases gain and tightens the low end, reaching saturated, almost fuzz-like console tones.
 
 ## Sources checked
-1. DCX BOOST: https://origineffects.com/product/dcx-boost/
-2. Origin Effects DCX Boost review | Guitar World: https://www.guitarworld.com/reviews/origin-effects-dcx-boost
-3. Origin Effects DCX Boost Tone Shaper & Drive Pedal | Sweetwater: https://www.sweetwater.com/store/detail/DCXBoost--origin-effects-dcx-boost-tone-shaper-and-drive-pedal
-4. Origin Effects DCX Boost | Delicious Audio: https://delicious-audio.com/origin-effects-dcx-boost/
-5. Origin Effects DCX Boost For Sale | Free Shipping: https://electricmojoguitars.com/products/origin-effects-dcx-boost
+1. Origin Effects - DCX Boost: https://origineffects.com/product/dcx-boost/
+2. Origin Effects - DCX Boost FAQ: https://origineffects.com/support/faq/
+3. Origin Effects - DCX Boost manual: https://origineffects.com/wp-content/uploads/2024/12/Origin-Effects-DCX-Boost-Owners-Manual-V3-1.pdf
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.
