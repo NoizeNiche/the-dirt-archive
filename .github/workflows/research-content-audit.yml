@@ -6,12 +6,10 @@ on:
       - 'research/pedals/**'
       - 'scripts/audit-research-content.py'
       - 'scripts/clean-research-content.py'
+      - 'research/RESEARCH_CONTENT_CLEANUP_KICK'
   workflow_dispatch:
   schedule:
     - cron: "43 7 * * 0"
-  push:
-    paths:
-      - 'research/RESEARCH_CONTENT_CLEANUP_KICK'
 
 permissions:
   contents: write
