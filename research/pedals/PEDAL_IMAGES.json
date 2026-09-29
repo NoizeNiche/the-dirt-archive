@@ -15913,7 +15913,9 @@
     "builder": "Crust Pedals",
     "pedal": "Hudson Broadcast Clone",
     "source_page": null,
-    "research_record": "./research/pedals/Crust Pedals/Hudson Broadcast Clone.md"
+    "research_record": "./research/pedals/Crust Pedals/Hudson Broadcast Clone.md",
+    "image_source_url": "https://rvb-img.reverb.com/i/s--bB8Z0kWV--/quality=medium-low,height=800,width=800,fit=contain/klt6xyznjpfcttgupbp1.jpg",
+    "image_source_page": "https://reverb.com/item/77375685-crust-pedals-hudson-broadcast-clone-2023"
   },
   {
     "builder": "Cruzer (by Crafter)",
@@ -23643,7 +23645,7 @@
     "pedal": "Fuzzy Beetle",
     "source_page": null,
     "research_record": "./research/pedals/MadeByMike/Fuzzy Beetle.md",
-    "image_source_url": "https://static.xx.fbcdn.net/rsrc.php/y4/r/cCUc36Es1cc.webp",
+    "image_source_url": "https://scontent-sjc6-1.xx.fbcdn.net/m1/v/t6/An_KOWvmE8xXhWbKcEDamiAQ14ZKS7T_w5aOTf-M8Krv4ls-f63eecRjpMEIRfwoMQw0XjeM4Q2PKoqtUSQc0_q66s2ahAGa0OTb.kf?_nc_gid=Z6Oz16a2pWQ69Hr6t0qE_g&_nc_oc=AdrGdrNzJENXuyS8J_SGrXQkaVN9WUPzvgwly7mLDXKtzl5G4pvKcZSNVBi7ZmI7h9Q&ccb=10-5&oh=00_AQPAtb8RZLB_3xMhy9OUmR4fNKBmeT3OeOUKOdvpOy5VWA&oe=6AE2FE40&_nc_sid=7da55a",
     "image_source_page": "https://www.facebook.com/MadeByMikePedals/posts/you-wait-ages-for-a-new-pedal-and-then-two-come-along-at-once-the-fuzzy-beetle-h/1779679125428655/"
   },
   {
@@ -27033,7 +27035,7 @@
     "pedal": "Daisycutter",
     "source_page": null,
     "research_record": "./research/pedals/Phaez Amplification/Daisycutter.md",
-    "image_source_url": "https://static.xx.fbcdn.net/rsrc.php/y4/r/cCUc36Es1cc.webp",
+    "image_source_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t1.6435-9/70760262_2400318370075105_8135603455256428544_n.png?stp=dst-jpg_tt6&cstp=mx816x608&ctp=s720x720&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=TSsz4XJBOr4Q7kNvwEkWS2a&_nc_oc=AdpP3xhfcC17RRO5Za-Q5OZWc5ThWcEhsn8hyvhh7ADbDPV8ApRutPE9UI6MdfaoEhA&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=wn4CNEFzUV0rDzU27bFSbQ&_nc_ss=7b289&oh=00_AQM0MvYPkphnSQ3MVrGd-XmMVdWXNLimAY6mmSvduodXyQ&oe=6AE30110",
     "image_source_page": "https://www.facebook.com/PhaezAmplification/posts/some-was-looking-for-an-old-schematic-early-daisycutter-with-a-5e3-deluxe-style-/2400322746741334/"
   },
   {
@@ -27082,7 +27084,9 @@
     "builder": "Pigtronix",
     "pedal": "Bass FAT Drive",
     "source_page": null,
-    "research_record": "./research/pedals/Pigtronix/Bass FAT Drive.md"
+    "research_record": "./research/pedals/Pigtronix/Bass FAT Drive.md",
+    "image_source_url": "https://www.talkbass.com/styles/talkbass/talkbass/talkbass_logo.svg",
+    "image_source_page": "https://www.talkbass.com/threads/pigtronix-bass-fat-drive-whats-the-verdict.989433/"
   },
   {
     "builder": "Pigtronix",
@@ -27435,7 +27439,7 @@
     "pedal": "Trimode",
     "source_page": null,
     "research_record": "./research/pedals/Radial Tonebone/Trimode.md",
-    "image_source_url": "https://media.guitarcenter.com/is/image/MMGS7/153925000000000-00-600x600.jpg",
+    "image_source_url": "https://www.guitarcenter.com/assets/images/new-header/gear-advisor.png",
     "image_source_page": "https://www.guitarcenter.com/Radial-Engineering/Tonebone-TriMode-Distortion-Pedal.gc"
   },
   {
