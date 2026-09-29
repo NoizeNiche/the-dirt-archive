@@ -7,37 +7,28 @@
 - **Identity:** JHS Pedals's Notadümblë V2.
 
 ## What this pedal is
-$0.00 USD style="display:block;"> NOTADÜMBLË V2 $119.00 USD Zoom Zoom Zoom Zoom Zoom Zoom Zoom Zoom Zoom Zoom Zoom Zoom NOTADÜMBLË V2 $119.00 USD − { $dispatch('change'); }) " > + Item is in stock Add to Cart ***This product is excluded from WELCOME15 and SMS discounts.
-
-## Colorways
-- No specific factory colorway information was established in the verified evidence packet.
+Notadümblë V2 is JHS's compact tribute to Dumble-style preamp/boost designs. The archive treats V2 as the documented product version and does not copy retailer wording into its identity record.
 
 ## Versions and factory options
-- The verified evidence references: V1, V2, v2.
-- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+- **V2** is the documented current model.
+- The checked JHS material discusses the historical V1 boost-circuit issue and the later corrected design.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- JHS documents that V1 used the wrong boost circuit and that the later V2 corrected that problem.
+- The archive does not merge V1 and V2 into one unversioned circuit description.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
-- **Exact transistor/device:** Unknown.
+- Exact production semiconductor details were not established.
 
 ## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
-- **Exact part:** Unknown.
+- Exact clipping/rectifier diode information was not established.
 
 ## Sound
-The V1 accidentally had the wrong boost circuit.
-The first was the A Box Later, a device Howard Dumble built sometime in the 1980s as a buffer preamp boost with a built-in effects loop.
-The second unit was the Dumble BBC-1, a far more obscure preamp boost.
+The Notadümblë family is intended to provide Dumble-style preamp/boost coloration and responsive overdrive. The V2 record retains the manufacturer-documented corrected boost implementation.
 
 ## Sources checked
-1. NOTADÜMBLË V2 – JHS Pedals: https://jhspedals.info/products/notadumble-v2
-2. NOTADÜMBLË V2 – JHS Pedals: https://jhspedals.mom/products/notadumble-v2
-3. JHS Pedals NOTADÜMBLË V2 - Shop: https://shop.app/products/8631563976804/notadumble-v2
-4. JHS Pedals NOTADÜMBLË v2 - Effects Database: https://www.effectsdatabase.com/model/jhspedals/notadumble/v2
-5. JHS Pedals Notadümblë V2 Dimensions, Specs & Details: https://www.stompboxgarden.com/gear/pedal/17510/jhs-pedals-notad-mbl-v2?sort=new&page=1
+1. JHS Pedals - Notadümblë V2: https://jhspedals.info/products/notadumble-v2
+2. Effects Database - Notadümblë V2: https://www.effectsdatabase.com/model/jhspedals/notadumble/v2
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.
