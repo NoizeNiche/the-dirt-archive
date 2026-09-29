@@ -241,6 +241,49 @@ function renderFamily(item, allItems){
   section.hidden=false;
 }
 
+function renderRelated(allItems,item){
+  const section=$('relatedSection');
+  const target=$('related');
+  if(!section||!target)return;
+
+  const currentKey=entryKey(item);
+  const currentTypes=new Set(item?.types||[]);
+  const sameBuilder=allItems.filter(x=>
+    isCatalogEntry(x) &&
+    x.company===item.company &&
+    entryKey(x)!==currentKey &&
+    !x.catalog_role
+  );
+
+  sameBuilder.sort((a,b)=>{
+    const aType=a.types?.some(t=>currentTypes.has(t))?0:1;
+    const bType=b.types?.some(t=>currentTypes.has(t))?0:1;
+    if(aType!==bType)return aType-bType;
+    return String(a.pedal).localeCompare(String(b.pedal));
+  });
+
+  const related=sameBuilder.slice(0,6);
+  if(!related.length){
+    section.hidden=true;
+    target.innerHTML='';
+    return;
+  }
+
+  target.innerHTML=related.map(x=>{
+    const media=isLocalArchiveImage(x)
+      ? '<img src="'+esc(x.image)+'" alt="'+esc(x.company+' '+x.pedal)+' pedal" loading="lazy" decoding="async" referrerpolicy="no-referrer">'
+      : '<span>Exact photo not archived</span>';
+    return '<a class="relatedCard" href="'+esc(detailUrl(x,null,wantedType))+'">'+
+      '<span class="relatedThumb">'+media+'</span>'+
+      '<span class="relatedName">'+esc(x.pedal)+'</span>'+
+      '<span class="relatedBuilder">'+esc(x.company)+'</span>'+
+    '</a>';
+  }).join('');
+
+  wireThumbnailFallbacks('.relatedThumb img');
+  section.hidden=false;
+}
+
 function renderDemo(item){
   const demo=item.youtube_demo;
   if(!demo || !demo.url){$('demoSection').hidden=true;return}
