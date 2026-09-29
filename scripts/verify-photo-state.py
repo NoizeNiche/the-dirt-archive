@@ -305,8 +305,14 @@ def main():
         if k in manual_keys:
             raise SystemExit(f"Duplicate manual primary review identity: {k}")
         manual_keys.add(k)
-        if str(row.get("Status") or "") != "VERIFIED_PRIMARY":
+        status = str(row.get("Status") or "").strip().upper()
+        if status not in {"VERIFIED_PRIMARY", "REVIEW_REVISION"}:
             raise SystemExit(f"Unsupported manual photo review status: {k}")
+        if status == "REVIEW_REVISION":
+            # Review-only rows deliberately preserve an unresolved revision
+            # conflict. They must not silently resolve the photo to a primary
+            # override until the physical revision is visually established.
+            continue
         matching = [
             candidate for candidate in direct_overrides
             if key(candidate.get("Builder"), candidate.get("Pedal")) == k
