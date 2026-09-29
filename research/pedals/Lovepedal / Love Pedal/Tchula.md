@@ -7,30 +7,29 @@
 - **Identity:** Lovepedal / Love Pedal's Tchula.
 
 ## What this pedal is
-Lovepedal / Love Pedal's Tchula is cataloged as an overdrive pedal.
-
-## Colorways
-- No specific factory colorway information was established in the verified evidence packet.
+Tchula began as a custom two-stage COT50 built for Josh Smith and later became a Lovepedal small-batch model.
 
 ## Versions and factory options
-- No distinct factory revision was established in the verified evidence packet.
+- Two gain stages.
+- COT50-derived design.
+- Burst Tchula is a separate named edition.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- No complete numbered production chronology was established.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
-- **Exact transistor/device:** Unknown.
+- Exact production semiconductor details were not established.
 
 ## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
-- **Exact part:** Unknown.
+- Exact clipping-device information was not established.
 
 ## Sound
-TCHULA 200lbs PURPLE PLEXI ETERNITY BURST HERMIDA ZENDRIVE DOVER DRIVE AMP ELEVEN RUBBER CHICKEN HERMIDA EPH3 © All rights reserved 2026 LOVEPEDAL L.L.C.
+Natural, amp-like two-stage overdrive ranging from boost and breakup into stronger saturation.
 
 ## Sources checked
-1. Love Pedal: https://www.lovepedal.com/
+1. Lovepedal - Tchula: https://www.lovepedal.com/pedals/tchula/
+2. Lovepedal - Burst Tchula: https://www.lovepedal.com/burst-tchula/
+3. Lovepedal - History: https://www.lovepedal.com/history/
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.
