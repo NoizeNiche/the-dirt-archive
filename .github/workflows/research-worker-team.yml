@@ -62,7 +62,7 @@ jobs:
                   stdout=subprocess.DEVNULL,
               )
               for row in csv.DictReader(audit_path.open(newline="",encoding="utf-8")):
-                  if row.get("Pattern") not in {"shallow_description","weak_sound_section"}:
+                  if row.get("Pattern") not in {"shallow_description","weak_sound_section","sibling_model_reference"}:
                       continue
                   record=Path(str(row.get("Research Record") or "").replace("./","",1))
                   if not record.is_file():
