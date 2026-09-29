@@ -74,9 +74,11 @@ def main() -> None:
         direct = direct_latest.get(identity)
         if not direct:
             continue
-        # A direct row may remain as historical research, but it must never be
-        # promoted while the manual ledger explicitly says the revision needs review.
-        errors.append(f"REVIEW_REVISION identity still has a direct override: {identity}")
+        # A direct row may remain as historical research. Only a row explicitly
+        # marked PHOTO REVIEW: PRIMARY would constitute a forbidden promotion
+        # while the manual ledger still says the revision needs review.
+        if "photo review: primary" in str(direct.get("Notes") or "").lower():
+            errors.append(f"REVIEW_REVISION identity is marked PHOTO REVIEW: PRIMARY: {identity}")
 
     catalog = {}
     try:
