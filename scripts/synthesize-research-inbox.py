@@ -182,10 +182,31 @@ def split_sentences(text):
     return out
 
 
+def source_excerpt_is_clean(source):
+    excerpt = norm(source.get("excerpt") or source.get("bodyExcerpt"))
+    if not excerpt:
+        return False
+    if any(marker in excerpt for marker in INTERNAL_ARCHIVE_MARKERS):
+        return False
+    # Keep the synthesizer conservative with obvious scraper residue too. The
+    # foreman is the primary gate, but this is a second publication-time defense.
+    residue = (
+        "skip to content", "skip to navigation", "add to cart", "shopping cart",
+        "shop pay", "gear card", "javascript is disabled", "related brands",
+        "related tags", "reviews myfxdb user reviews", "where to find one",
+        "install effects database app"
+    )
+    if any(marker in excerpt for marker in residue):
+        return False
+    return len(excerpt) >= 40
+
+
 def exact_sources(packet):
     out = []
     seen = set()
     for source in packet.get("sources", []):
+        if not isinstance(source, dict) or not source_excerpt_is_clean(source):
+            continue
         url = norm(source.get("url"))
         host = norm(source.get("host"))
         if not url or not host or host in seen:
