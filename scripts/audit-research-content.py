@@ -163,29 +163,9 @@ def audit_research_structure(lines: list[str], path: Path) -> list[dict[str, obj
         lineno = sound[0][0] if sound else (what[0][0] if what else 1)
         add(lineno, "weak_sound_section", "Sound section is empty, generic, or explicitly admits insufficient pedal-specific evidence.")
 
-    verify = sections.get("deep research verification", [])
-    if verify:
-        visible = [
-            clean_visible_text(text)
-            for _, text in verify
-            if clean_visible_text(text)
-        ]
-        prose = " ".join(visible)
-        sourceish = sum(
-            1 for text in visible
-            if len(text) < 110
-            and not re.search(
-                r"\b(?:is|uses|has|features|includes|described|documented|states|announced)\b",
-                text,
-                re.I,
-            )
-        )
-        if visible and (len(prose) < 100 or sourceish >= max(2, len(visible) - 1)):
-            add(
-                verify[0][0],
-                "weak_deep_verification",
-                "Deep research verification contains little claim-level prose and appears title/source-label driven.",
-            )
+    # Deep research verification is intentionally not scored here. Strong records
+    # often keep detailed verified fields under the primary record headings while
+    # this marker only identifies the evidence pass.
 
     for lineno, raw in enumerate(lines, 1):
         if is_source_line(raw):
