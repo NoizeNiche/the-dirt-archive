@@ -70,12 +70,22 @@ def clean_commerce_line(line: str) -> str | None:
     m = re.search(r"\badd to (?:cart|basket)\b", line, re.I)
     if m:
         tail = line[m.end():].strip(" -:|")
-        # Discard only the obvious transaction chrome. Preserve useful product
-        # description text that follows the button.
+        lower_tail = tail.lower()
+        if (
+            "successfully added to cart" in lower_tail
+            or "click here to be notified" in lower_tail
+            or lower_tail.startswith("all products ")
+            or "deering nylon banjo strap" in lower_tail
+            or "amazon's choice" in lower_tail
+        ):
+            return None
+        # Some stores append a useful product description after the button.
         if len(tail) >= 35 and re.search(r"[A-Za-z]{4,}", tail):
             return tail
         return None
 
+    if re.search(r"\b(?:amazon's choice|free shipping)\b", lower) and not re.search(r"\b(?:description|the |this |our |a |an )\b", lower):
+        return None
     # Price/availability fragments without a useful description are pure UI.
     if re.search(r"\b(?:regular price|quantity|product variants|view cart|checkout|sold out)\b", lower):
         return None
