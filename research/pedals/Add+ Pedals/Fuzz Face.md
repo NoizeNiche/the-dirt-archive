@@ -35,15 +35,11 @@ Add+ Pedals's Fuzz Face is cataloged as a Fuzz pedal.
 
 ## Sound
 
-**Archive parent:** Fuzz Face - **Builder:** Add+ Pedals - **Catalog type:** Fuzz - **Identity:** Add+ Pedals's Fuzz Face.
-
-Add+ Pedals's Fuzz Face is cataloged as a Fuzz pedal.
-
-Dunlop Fuzz Face Guitar Effects Pedal
+The verified Add+ evidence establishes this record as the builder's Fuzz Face, but it does not provide enough pedal-specific sonic detail to support a more specific tone description. The archive therefore does not borrow characteristics from Dunlop or other Fuzz Face products.
 
 ## Sources checked
 
-1. Dunlop Fuzz Face Guitar Effects Pedal | Guitar Center: https://www.guitarcenter.com/Dunlop/Fuzz-Face-Guitar-Effects-Pedal-1274228082428.gc
+1. Add+ Fuzz Face — Effects Database: https://www.effectsdatabase.com/model/addplus/fuzzface
 
 ## Photo
 
@@ -51,22 +47,5 @@ Dunlop Fuzz Face Guitar Effects Pedal
 
 ## Deep research verification
 
-This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+The exact Add+ Fuzz Face record is documented in Effects Database. The available evidence confirms the builder/model identity and fuzz classification, but does not establish exact transistor, clipping-device, version, colorway, or detailed sonic specifications. Those fields remain explicitly unresolved.
 
-### Verified description
-Add+ Pedals's Fuzz Face is cataloged as a Fuzz pedal.
-
-### Verified color/finish evidence
-- No specific factory colorway information was established in the verified evidence packet.
-
-### Verified version references
-- The evidence references: revision.
-
-### Verified sound evidence
-**Archive parent:** Fuzz Face - **Builder:** Add+ Pedals - **Catalog type:** Fuzz - **Identity:** Add+ Pedals's Fuzz Face.
-Add+ Pedals's Fuzz Face is cataloged as a Fuzz pedal.
-Dunlop Fuzz Face Guitar Effects Pedal
-
-### Sources checked in this pass
-1. catalog/override source: https://www.effectsdatabase.com/model/addplus/fuzzface
-2. Dunlop Fuzz Face Guitar Effects Pedal | Guitar Center: https://www.guitarcenter.com/Dunlop/Fuzz-Face-Guitar-Effects-Pedal-1274228082428.gc
