@@ -59,16 +59,26 @@ def clean_commerce_line(line: str) -> str | None:
     if not strong_commerce(line):
         return line
     lower = line.lower()
-    if "add to cart" in lower or "add to basket" in lower:
-        m = re.search(r"add to (?:cart|basket)", line, re.I)
-        tail = line[m.end():].strip(" -:|") if m else ""
-        if len(tail) >= 60 and re.search(r"[A-Za-z]{4,}", tail):
-            return tail
-    if "description:" in lower:
-        idx = lower.find("description:")
-        tail = line[idx + len("description:"):].strip()
+
+    # Keep the substantive description after a shopping-page preamble.
+    desc = re.search(r"\bdescription\s*:\s*", line, re.I)
+    if desc:
+        tail = line[desc.end():].strip(" -:|")
         if len(tail) >= 40:
             return tail
+
+    m = re.search(r"\badd to (?:cart|basket)\b", line, re.I)
+    if m:
+        tail = line[m.end():].strip(" -:|")
+        # Discard only the obvious transaction chrome. Preserve useful product
+        # description text that follows the button.
+        if len(tail) >= 35 and re.search(r"[A-Za-z]{4,}", tail):
+            return tail
+        return None
+
+    # Price/availability fragments without a useful description are pure UI.
+    if re.search(r"\b(?:regular price|quantity|product variants|view cart|checkout|sold out)\b", lower):
+        return None
     return None
 
 def clean_file(path: Path) -> bool:
