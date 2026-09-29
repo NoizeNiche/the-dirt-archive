@@ -27,7 +27,7 @@ Lovepedal / Love Pedal's 200lbs of Gold is cataloged as an overdrive pedal.
 - **Exact part:** Unknown.
 
 ## Sound
-TCHULA 200lbs PURPLE PLEXI ETERNITY BURST HERMIDA ZENDRIVE DOVER DRIVE AMP ELEVEN RUBBER CHICKEN HERMIDA EPH3 © All rights reserved 2026 LOVEPEDAL L.L.C.
+
 The Dirt Archive currently catalogs **200lbs of Gold** by **Lovepedal / Love Pedal** as a **Overdrive / Fuzz** pedal.
 
 ## Sources checked
