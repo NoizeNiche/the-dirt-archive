@@ -2,42 +2,39 @@
 
 ## PRP identity
 - **Archive parent:** Zendrive 2
-- **Builder:** Lovepedal
+- **Builder:** Lovepedal / Hermida Audio
 - **Catalog type:** Overdrive
 - **Identity:** Lovepedal's Zendrive 2.
 
 ## What this pedal is
-Lovepedal Zendrive 2 Overdrive Pedal
-
-## Colorways
-- Related products Oneder Effects Old Blue $ 124.00 One Control Silver Bee Overdrive $ 109.00 Wampler cataPulp British Distortion Pedal $ 119.00 Pigtronix Class A Boost Micro 2018 $ 34.00 Bucket List Guitars
+The Zendrive 2 is a small-batch Hermida Audio design from 2016 that uses high-voltage FET technology to reproduce the response associated with a Tung-Sol 12AX7 tube. It is not a physical tube pedal.
 
 ## Versions and factory options
-- The verified evidence references: v4.
-- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+- Documented 2016 limited batch.
+- 50-unit gold run.
+- High-voltage FET gain architecture.
+- **Volume, Gain, Tone and Voice** controls.
+- 9VDC center-negative adapter or 9V battery.
+- Documented current draw: 25mA.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- The checked Lovepedal source describes the Zendrive 2 as a specific limited 2016 build.
+- The archive keeps this model separate from the regular Zendrive.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
-- **Exact transistor/device:** Unknown.
+- **High-voltage FET** technology is explicitly documented.
+- Exact FET part number is not established.
 
 ## Diode
-- Documented terms in the verified sources: BAT41, 1N34a.
-- The archive records only the component information explicitly present in these sources.
+- Exact clipping/rectifier diode information was not established.
 
 ## Sound
-Lovepedal Zendrive 2 Overdrive Pedal
-Four knobs control the overall volume, gain, tone and voicing of the pedal.
-At lower settings, the pedal offers extremely light overdrive sounds reminiscent of tube amps set near the “sweet spot.” At higher settings, the Zendrive increases in gain and sustain, producing tasty overdrive and low distortion tones.
+Zendrive 2 is voiced as a low-to-medium gain overdrive with a tube-like response, moving from slight overdrive into mild distortion while retaining strong dynamics and an open sound.
 
 ## Sources checked
-1. Lovepedal Zendrive 2 - What To Know & Where To Buy | Equipboard: https://equipboard.com/items/lovepedal-zendrive-2
-2. Lovepedal Zendrive 2 - Reverb: https://reverb.com/p/lovepedal-zendrive-2
-3. Lovepedal Zendrive 2 Overdrive Pedal | Bucket List Guitars: https://bucketlistguitars.com/product/lovepedal-zendrive-2/
-4. Is the Zendrive 2 by @lovepedal worth it? Here's our review and demo of the Zendrive 2, which was recently on preorder. We stacked this into our Tone King Royalist and also into our Synergy Imperial module — both sounded really good! The 12AX7 tube adds more depth and dynamics, and this pedal is really loud too. Hope you enjoy the demo! Watch the full review here: https://www.youtube.com/watch?v=E7izhzfJFEE 🎸 Gear used: @jamestylerguitars | @tonekingamps | @synergyamps | @wamplerpedals | @origineffects | @gfisystem Subscribe to Singapore's most followed guitar channel — link in bio! | Guitar Emerge: https://www.facebook.com/guitaremerge/videos/is-the-zendrive-2-by-lovepedal-worth-itheres-our-review-and-demo-of-the-zendrive/1657731755700488/
-5. Perf and PCB Effects Layouts: Lovepedal Zendrive 2: https://effectslayouts.blogspot.com/2019/02/lovepedal-zendrive-2.html
+1. Lovepedal - Zendrive 2: https://www.lovepedal.com/zendrive-2/
+2. Reverb - Zendrive 2: https://reverb.com/p/lovepedal-zendrive-2
+3. Seymour Duncan forum discussion of the 2016 gold batch: https://forum.seymourduncan.com/threads/npd-zen-drive-ii-gold.325549/
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.
