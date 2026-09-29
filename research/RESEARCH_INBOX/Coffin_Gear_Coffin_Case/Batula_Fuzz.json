@@ -4,7 +4,7 @@
   "original_builder": "Coffin Gear / Coffin Case",
   "original_pedal": "Batula Fuzz",
   "status": "VERIFIED_EVIDENCE_STAGED",
-  "independent_exact_source_count": 2,
+  "independent_exact_source_count": 3,
   "sources": [
     {
       "url": "https://en.audiofanzine.com/fuzz-pedal/coffin-case/Batula-Fuzz/",
@@ -21,6 +21,14 @@
       "excerpt": "Coffin Case Batula Fuzz - Fuzz guitare - Audiofanzine .hamburger .hamburger:hover .hamburger.is-active:hover .hamburger.is-active .hamburger-inner,.hamburger.is-active .hamburger-inner::before,.hamburger.is-active .hamburger-inner::after .hamburger-box .hamburger-inner .hamburger-inner,.hamburger-inner::before,.hamburger-inner::after .hamburger-inner::before,.hamburger-inner::after .hamburger-inner::before .hamburger-inner::after .hamburger--collapse .hamburger-inner .hamburger--collapse .hamburger-inner::after .hamburger--collapse .hamburger-inner::before .hamburger--collapse.is-active .hamburger-inner .hamburger--collapse.is-active .hamburger-inner::after .hamburger--collapse.is-active .hamburger-inner::before @font-face @keyframes jump-shaking{0% 25% 35% 55% 65% 75% 100% }article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section article iframe [v-cloak] .clearfix:after .clearfix .pull-right .pull-left .align-center html[xmlns] .clearfix * html .clearfix * p .main-text body{",
       "host": "fr.audiofanzine.com",
       "source_kind": "other"
+    },
+    {
+      "url": "https://www.effectsdatabase.com/model/coffin/batula",
+      "title": "Coffin Gear Batula Fuzz | Effects Database",
+      "h1": "Coffin Gear Batula Fuzz",
+      "excerpt": "Batula Fuzz Published on October 15, 2008 Coffin Gear fuzz pedal Video Date \u25bc\u25b2 Maker \u25bc\u25b2 Video \u25bc\u25b2 Time \u25bc\u25b2 2009-06-01 guitarworld Coffin Case Batfuzz Distortion Pedal 5:43 Reviews myFXDB user reviews No reviews yet + Add your review Links Coffin Gear Where to find one? Ads! This site contains affiliate links for which I may be compensated Coffin Gear Batula Fuzz for sale on eBay: World & Stores Australia Canada France Germany Italy Spain UK US Other sites your browser doesn't support AJAX? fx pedal stompbox stomp box guitar effects pedal fuzz distortion/fuzz/overdrive dirt grit Searching... Twitter (opens in new tab) Facebook (opens in new tab) YouTube (opens in new tab) Instagram (opens in new tab) Privacy policy - Imprint hosted at Unix-Solutions",
+      "host": "www.effectsdatabase.com",
+      "source_kind": "effects_database"
     }
   ],
   "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."

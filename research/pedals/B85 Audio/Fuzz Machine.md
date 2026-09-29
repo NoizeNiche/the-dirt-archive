@@ -71,3 +71,19 @@ The B85 Audio product page was checked directly. It confirms the hybrid silicon/
 
 - **Archive status:** **No Photo Archived**
 - **Exact-model reference checked:** B85 Audio exact-model page.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Fuzz Machine Published on January 24, 2025 B85 Audio fuzz pedal Information B85 Audio B85 audio FUZZ MACHINE, is a floor, hybrid (silicon / germanium) effect, (inspirated Smallsound / Bigsound team awesome fuzz),type fuzz, with mixing clean tracks.
+
+### Verified sound evidence
+The effect has a fuzz control that can be used to change the strength of the fuzz and the harmonic structure.
+Fuzz vol, changes the gain of the fuzz potentiometer.
+Clean, changes the clean ratio and the distortion.
+
+### Sources checked in this pass
+1. Fuzz Machine by B85 Audio | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/B85-Audio/Fuzz-Machine/660110701/
+2. B85 Audio Fuzz Machine | Effects Database: https://www.effectsdatabase.com/model/b85/fuzzmachine
