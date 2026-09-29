@@ -32,7 +32,6 @@ The archive does not currently have enough manufacturer documentation to assign 
 ## Transistor
 - Exact production transistor/device: Unknown.
 - Publicly available sources checked here describe the circuit architecture but do not establish exact production semiconductor part numbers.
-
 ## Diode
 - Exact clipping/rectifier diode: Unknown.
 - No exact diode part number was established in the reviewed sources.
