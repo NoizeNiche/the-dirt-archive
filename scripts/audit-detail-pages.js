@@ -86,6 +86,7 @@ function sleep(ms){ return new Promise(resolve => setTimeout(resolve, ms)); }
     if(result.headerToMainGap>48) problems.push('excessive gap between detail header and main content');
     if(result.pageMainTopGap>2) problems.push('unexpected top gap before detail record');
     if(result.firstContentTopGap>2) problems.push('unexpected top gap inside detail content');
+    if(result.boardTopPadding>36) problems.push('board surface reserves excessive top padding before the record');
     if(isLocalImage(entry.image)){
       if(result.imageCount!==1) problems.push('expected local primary image element missing');
       if(!result.imageLoaded) problems.push('local primary image did not load');
