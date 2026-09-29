@@ -15,7 +15,7 @@ PATTERNS = [
     ("publisher_nav", re.compile(r"(news|reviews|guides|features|magazine).*?(tuner|deals).*?(related brands|related tags)", re.I)),
     ("generic_nav", re.compile(r"^(?:home|menu|search|login|sign in|subscribe|newsletter|cart|account)\s*$", re.I)),
     ("cookie_privacy", re.compile(r"cookie policy|privacy policy|terms of use|all rights reserved", re.I)),
-    ("commerce_prompt", re.compile(r"add to cart|buy now|shopping cart|free shipping|in stock|out of stock", re.I)),
+    ("commerce_prompt", re.compile(r"add to cart|buy now|shopping cart|free shipping|in stock(?!\\s+mode\\b)|out of stock", re.I)),
 ]
 
 def audit():
