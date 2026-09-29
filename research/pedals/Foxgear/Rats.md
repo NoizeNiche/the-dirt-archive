@@ -27,7 +27,6 @@
 - **Exact part:** Unknown.
 
 ## Sound
-Foxgear - RATS - Vintage Distortion Menu Your Cart Menu Home Products PEDALBOARDS CADEN SERIES 2 HEXA FLATBOARD SERIES 4 KIRK SERIES 3 CHAMP SERIES 2 <li class="menu-item menu-item
 FoxGear Rats Distortion / Overdrive Pedal - Adirondack Guitar
 Few sounds have meant more in the development of Rock N’ Roll than the ‘Rats’ distortion tone.
 
