@@ -380,7 +380,7 @@ def cache_entry_prepare(entry):
                     print(f"Removed quarantined local photo awaiting manual verification: {candidate}")
             except OSError:
                 pass
-        return ("skip", entry, None, None)
+        return ("clear", entry, None, "hard-quarantined local asset removed")
 
     # A prior browser-recovery pass may already have converted the staged
     # source into the canonical local asset. Reattach that local path to the
@@ -448,7 +448,7 @@ def cache_entry_prepare(entry):
             and source_url.startswith(("http://", "https://"))
         ):
             return ("download", entry, target, source_url)
-        return ("failure", entry, image, "declared local cache file is missing and no provenance URL is available")
+        return ("clear", entry, None, "declared local cache file is missing")
 
     if not image.startswith(("http://", "https://")):
         return ("failure", entry, image, "unsupported image URL/path")
@@ -592,6 +592,7 @@ def main():
 
     cached = []
     retained = [0]
+    cleared = []
     failures = []
     ASSET_ROOT.mkdir(parents=True, exist_ok=True)
 
@@ -624,6 +625,13 @@ def main():
         if status == "retain":
             entry["image"] = target
             retained[0] += 1
+        elif status == "clear":
+            entry["image"] = ""
+            cleared.append((
+                entry.get("company") or entry.get("builder"),
+                entry.get("pedal"),
+                source or "local image cleared",
+            ))
         elif status == "retain_remote":
             entry["image_source_url"] = source
             entry["image"] = rel_path(target)
@@ -660,8 +668,8 @@ def main():
         source = catalog_by_key.get(key(builder, entry.get("pedal")))
         if not source:
             continue
-        if source.get("image"):
-            entry["image"] = source["image"]
+        if "image" in source:
+            entry["image"] = source.get("image") or ""
         if source.get("image_source_url"):
             entry["image_source_url"] = source["image_source_url"]
 
@@ -683,6 +691,7 @@ def main():
         f"- Cached in this run: **{len(cached)}**",
         f"- Staged browser photos converted: **{staged_converted}**",
         f"- Local images retained/reorganized: **{retained[0]}**",
+        f"- Cleared stale/quarantined local image references: **{len(cleared)}**",
         f"- Download failures: **{len(failures)}**",
         f"- Remaining tracker photo backlog: **{remaining_photo_backlog}**",
         f"- Researched, photo pending: **{len(researched_photo_pending_keys)}**",
@@ -706,7 +715,10 @@ def main():
         lines += ["All pictured pedal images are locally cached."]
     REPORT_PATH.write_text("\n".join(lines) + "\n", encoding="utf-8")
 
-    print(f"Cached {len(cached)} new images; retained/reorganized {retained[0]}; {len(failures)} failures.")
+    print(
+        f"Cached {len(cached)} new images; retained/reorganized {retained[0]}; "
+        f"cleared {len(cleared)} stale/quarantined references; {len(failures)} failures."
+    )
     return 0
 
 
