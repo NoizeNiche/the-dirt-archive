@@ -28,7 +28,6 @@ The Classic Fuzz ranges from responsive, articulate fuzz to thick high-gain satu
 ## Sources checked
 1. McGregor Pedals - Classic Fuzz: https://www.mcgregorpedals.com/products/the-classic-fuzz
 2. McGregor Pedals - Fuzz Pedals: https://www.mcgregorpedals.com/collections/fuzz-pedals
-3. Premier Guitar - Classic Fuzz coverage: https://www.premierguitar.com/
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.
