@@ -4,32 +4,38 @@
 - **Archive parent:** DRV MOD 1
 - **Builder:** 1981 Inventions
 - **Catalog type:** Distortion
-- **Identity:** 1981 Inventions's DRV MOD 1.
+- **Identity:** 1981 Inventions DRV MOD 1 (WHITE), an original V1 DRV configuration. [1]
 
 ## What this pedal is
-1981 Inventions's DRV MOD 1 is cataloged as a Distortion pedal.
+The DRV MOD 1 (WHITE) is the original V1 configuration of 1981 Inventions' DRV circuit, presented in a white finish and described by the builder as a particularly rare, prototype-era configuration. The current builder documentation describes it as a nuanced distortion designed with Jon Ashley of Bondi Effects. [1]
 
 ## Colorways
-- **DRV MOD 1 (WHITE)** is documented as a white-finish presentation of the original V1 circuit. It is kept as a colorway/variation rather than treated as a separate circuit generation. [1]
+- White finish is explicitly documented for this MOD 1 edition. [1]
+
+## Circuit / architecture
+- Original V1 DRV circuit configuration. [1]
+- The current edition uses an **OPA2134** op-amp and also includes the original op-amp on a socket for component swapping. [1]
+- The builder describes a zero-gain mode in which the DRV stage is largely removed from the signal path, leaving the preamp section active. [1]
+- Exact supporting transistor and diode part numbers are not established in the reviewed public documentation.
 
 ## Versions and factory options
-- No distinct numbered factory revision was established for this base record in the verified evidence packet.
+- **DRV MOD 1 (WHITE)** is identified by the builder as the original configuration for the circuit and technically a prototype-era version. [1]
+- The archive does not infer a broader numbered revision history from this single product page.
 
 ## Version changes
-- No specific factory version changes were established for the base record in the verified evidence packet.
+The builder specifically distinguishes MOD 1 as the original V1 configuration and describes its zero-gain mode and OPA2134 implementation. A complete component-by-component history across all DRV variants is not established here. [1]
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
-- **Exact transistor/device:** Unknown.
+- Exact production transistor/device part numbers: Unknown.
+
 ## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
-- **Exact part:** Unknown.
+- Exact clipping/rectifier diode part numbers: Unknown.
 
 ## Sound
-The verified base-record evidence packet does not contain enough pedal-specific sonic detail to make a more detailed summary without adding unsupported interpretation.
+1981 Inventions describes this configuration as a highly nuanced distortion with a clear, thicker preamp character. With the DRV control at minimum, the zero-gain mode produces a dark, clean and thick boost-like sound; turning DRV up moves the circuit toward warmer, thicker distortion with more normal operation. [1]
 
 ## Sources checked
 1. 1981 Inventions — DRV MOD 1 (WHITE): https://1981inventions.com/products/drv-mod-1
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** **Exact Photo Pending**
