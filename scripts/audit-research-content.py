@@ -16,7 +16,7 @@ PATTERNS = [
     ("affiliate_disclosure", re.compile(r"when you purchase through affiliate links|affiliate links.*commissions", re.I)),
     ("publisher_nav", re.compile(r"(news|reviews|guides|features|magazine).*?(tuner|deals).*?(related brands|related tags)", re.I)),
     ("generic_nav", re.compile(r"^(?:home|menu|search|login|sign in|subscribe|newsletter|cart|account|skip to content|contact)\s*$", re.I)),
-    ("inline_nav_shell", re.compile(r"\b(skip to content|home\s+(?:faq|about|contact)|log in\b|country/region|search\s+(?:cart|account)|related (?:brands|tags))\b", re.I)),
+    ("inline_nav_shell", re.compile(r"\b(skip to content|home\s+(?:faq|about|contact)|log in now\.?\b|country/region|search\s+(?:cart|account)|(?:^|\s)related (?:brands|tags)(?:\s|$))\b", re.I)),
     ("country_currency_scrape", re.compile(r"(?:country/region|(?:usd|cad|eur|gbp|aud|jpy|cny|afn|all|dzd|amd|xcd)\s*[$€£¥])", re.I)),
     ("html_markup_residue", re.compile(
         r"</?(?:html|body|head|div|span|p|a|ul|li|script|style|nav|header|footer)\b"
@@ -26,7 +26,7 @@ PATTERNS = [
     )),
     ("html_entity_in_prose", re.compile(r"&(?:nbsp|quot|amp|#39|#x27);", re.I)),
     ("cookie_privacy", re.compile(r"cookie policy|privacy policy|terms of use|all rights reserved", re.I)),
-    ("commerce_prompt", re.compile(r"add to cart|buy now|shopping cart|free shipping|\bin stock\b|out of stock", re.I)),
+    ("commerce_prompt", re.compile(r"add to cart|buy now|shopping cart|free shipping|\bin stock\b(?!\s+mode\b)|out of stock", re.I)),
 ]
 
 DEVICE_TERMS = re.compile(
@@ -62,7 +62,7 @@ def audit():
 
             source_line = is_source_line(line)
             for label, pattern in PATTERNS:
-                if source_line and label in {"html_markup_residue", "html_entity_in_prose"}:
+                if source_line and label in {"html_markup_residue", "html_entity_in_prose", "commerce_prompt", "cookie_privacy"}:
                     continue
                 if pattern.search(line):
                     rows.append({
