@@ -11636,7 +11636,8 @@
     "builder": "CBC Pedals",
     "pedal": "The Drive",
     "source_page": null,
-    "research_record": "./research/pedals/CBC Pedals/The Drive.md"
+    "research_record": "./research/pedals/CBC Pedals/The Drive.md",
+    "image_source_url": "https://rvb-img.reverb.com/i/s--bHVIsLFx--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/91b03850-e701-48d8-8069-ad8bb074c5cf.heic"
   },
   {
     "builder": "CBC Pedals",
@@ -11906,7 +11907,8 @@
     "builder": "Champion City Effects",
     "pedal": "El Gato Malo",
     "source_page": null,
-    "research_record": "./research/pedals/Champion City Effects/El Gato Malo.md"
+    "research_record": "./research/pedals/Champion City Effects/El Gato Malo.md",
+    "image_source_url": "https://rvb-img.reverb.com/i/s--kfmC3aSZ--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/yeqhyx6eymch5ld9e22x.jpg"
   },
   {
     "builder": "Champion City Effects",
@@ -16508,7 +16510,8 @@
     "builder": "Daredevil Pedals",
     "pedal": "Fearless Distortion",
     "source_page": null,
-    "research_record": "./research/pedals/Daredevil Pedals/Fearless Distortion.md"
+    "research_record": "./research/pedals/Daredevil Pedals/Fearless Distortion.md",
+    "image_source_url": "https://rvb-img.reverb.com/i/s--lfAQXJGO--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/lx0tmxphylzzzqxngzr5.jpg"
   },
   {
     "builder": "Daredevil Pedals",
@@ -20323,7 +20326,8 @@
     "builder": "Greer Amps",
     "pedal": "Ghetto Stomp",
     "source_page": null,
-    "research_record": "./research/pedals/Greer Amps/Ghetto Stomp.md"
+    "research_record": "./research/pedals/Greer Amps/Ghetto Stomp.md",
+    "image_source_url": "https://rvb-img.reverb.com/i/s--95sYAkK---/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/hni8jtgw4p68ydlyobpt.jpg"
   },
   {
     "builder": "Greer Amps",
@@ -20371,7 +20375,10 @@
     "builder": "Greer Amps",
     "pedal": "Moonshot Germanium Pre",
     "source_page": null,
-    "research_record": "./research/pedals/Greer Amps/Moonshot Germanium Pre.md"
+    "research_record": "./research/pedals/Greer Amps/Moonshot Germanium Pre.md",
+    "image_source_url": "https://www.greeramps.com/cdn/shop/products/MOONSHOT.png?v=1499820496",
+    "image_source_page": "https://www.greeramps.com/products/moonshot-germanium-pre",
+    "image": "./assets/pedals/greer-amps/moonshot-germanium-pre/primary.webp"
   },
   {
     "builder": "Greer Amps",
@@ -20433,7 +20440,8 @@
     "builder": "Greer Amps",
     "pedal": "SOUL THRUST FUZZ UNIT",
     "source_page": null,
-    "research_record": "./research/pedals/Greer Amps/SOUL THRUST FUZZ UNIT.md"
+    "research_record": "./research/pedals/Greer Amps/SOUL THRUST FUZZ UNIT.md",
+    "image_source_url": "https://rvb-img.reverb.com/i/s--Wst4sC6H--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain%2Ctrim.top%3D483%2Ctrim.left%3D0%2Ctrim.width%3D3024%2Ctrim.height%3D3032/fqa9nudcxydxsjpbaxyt.jpg"
   },
   {
     "builder": "Greer Amps",
@@ -24214,7 +24222,10 @@
     "builder": "Maxon",
     "pedal": "SSD-9 Super Sonic Distortion",
     "source_page": null,
-    "research_record": "./research/pedals/Maxon/SSD-9 Super Sonic Distortion.md"
+    "research_record": "./research/pedals/Maxon/SSD-9 Super Sonic Distortion.md",
+    "image_source_url": "https://www.chicagomusicexchange.com/cdn/shop/products/maxon-effects-and-pedals-distortion-maxon-ssd-9-super-sonic-distortion-maxonssd9-17847051911303.jpg?v=1648716788&width=1946",
+    "image_source_page": "https://www.chicagomusicexchange.com/products/maxon-ssd-9-super-sonic-distortion-1146828",
+    "image": "./assets/pedals/maxon/ssd-9-super-sonic-distortion/primary.webp"
   },
   {
     "builder": "Maxon",

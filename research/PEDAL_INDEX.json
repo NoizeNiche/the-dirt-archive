@@ -22328,7 +22328,7 @@
       ],
       "source_page": null,
       "research_record": "./research/pedals/CBC Pedals/The Drive.md",
-      "image_source_priority": 50000,
+      "image_source_priority": 1000000,
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
       "image_source_pages": [
@@ -22339,7 +22339,11 @@
       ],
       "image_source_page": "https://reverb.com/item/94123842-cbc-pedals-the-drive-zendrive-clone",
       "image_source_pages_verified": true,
-      "image_source_page_verified": true
+      "image_source_page_verified": true,
+      "image_source_url": "https://rvb-img.reverb.com/i/s--bHVIsLFx--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/91b03850-e701-48d8-8069-ad8bb074c5cf.heic",
+      "image_source_urls": [
+        "https://rvb-img.reverb.com/i/s--bHVIsLFx--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/91b03850-e701-48d8-8069-ad8bb074c5cf.heic"
+      ]
     },
     {
       "company": "CBC Pedals",
@@ -22874,7 +22878,11 @@
       "image_source_page": "https://reverb.com/item/3707665-champion-city-effects-el-gato-malo-2016-acid-etched-metallic-blue",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 50000
+      "image_source_priority": 1000000,
+      "image_source_url": "https://rvb-img.reverb.com/i/s--kfmC3aSZ--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/yeqhyx6eymch5ld9e22x.jpg",
+      "image_source_urls": [
+        "https://rvb-img.reverb.com/i/s--kfmC3aSZ--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/yeqhyx6eymch5ld9e22x.jpg"
+      ]
     },
     {
       "company": "Champion City Effects",
@@ -31231,13 +31239,18 @@
       "research_record": "./research/pedals/Daredevil Pedals/Fearless Distortion.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://www.noteandtone.com/product/daredevil-pedals-fearless-distortion/",
+      "image_source_page": "https://reverb.com/au/item/39168427-daredevil-fearless-distortion-pedal-showroom",
       "image_source_pages": [
-        "https://www.noteandtone.com/product/daredevil-pedals-fearless-distortion/"
+        "https://www.noteandtone.com/product/daredevil-pedals-fearless-distortion/",
+        "https://reverb.com/au/item/39168427-daredevil-fearless-distortion-pedal-showroom"
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1389
+      "image_source_priority": 1000000,
+      "image_source_url": "https://rvb-img.reverb.com/i/s--lfAQXJGO--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/lx0tmxphylzzzqxngzr5.jpg",
+      "image_source_urls": [
+        "https://rvb-img.reverb.com/i/s--lfAQXJGO--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/lx0tmxphylzzzqxngzr5.jpg"
+      ]
     },
     {
       "company": "Daredevil Pedals",
@@ -38171,12 +38184,17 @@
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
       "image_source_pages": [
-        "https://www.greeramps.com/blogs/news/12647709-new-products-390-od-2014-ghetto-stomp"
+        "https://www.greeramps.com/blogs/news/12647709-new-products-390-od-2014-ghetto-stomp",
+        "https://reverb.com/p/greer-ghetto-stomp"
       ],
-      "image_source_page": "https://www.greeramps.com/blogs/news/12647709-new-products-390-od-2014-ghetto-stomp",
+      "image_source_page": "https://reverb.com/p/greer-ghetto-stomp",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1372
+      "image_source_priority": 1000000,
+      "image_source_url": "https://rvb-img.reverb.com/i/s--95sYAkK---/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/hni8jtgw4p68ydlyobpt.jpg",
+      "image_source_urls": [
+        "https://rvb-img.reverb.com/i/s--95sYAkK---/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/hni8jtgw4p68ydlyobpt.jpg"
+      ]
     },
     {
       "company": "Greer Amps",
@@ -38275,7 +38293,12 @@
       "image_source_page": "https://www.greeramps.com/products/moonshot-germanium-pre",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1371
+      "image_source_priority": 1000000,
+      "image_source_url": "https://www.greeramps.com/cdn/shop/products/MOONSHOT.png?v=1499820496",
+      "image_source_urls": [
+        "https://www.greeramps.com/cdn/shop/products/MOONSHOT.png?v=1499820496"
+      ],
+      "image": "./assets/pedals/greer-amps/moonshot-germanium-pre/primary.webp"
     },
     {
       "company": "Greer Amps",
@@ -38389,7 +38412,17 @@
       "research_record": "./research/pedals/Greer Amps/SOUL THRUST FUZZ UNIT.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://www.visionguitar.com/products/greer-amps-custom-shop-soul-thrust-fuzz-unit-limited-blue"
+      "image_source_page": "https://reverb.com/item/89377717-greer-soul-thrust-fuzz-unit-2020s-white",
+      "image_source_pages": [
+        "https://reverb.com/item/89377717-greer-soul-thrust-fuzz-unit-2020s-white"
+      ],
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 1000000,
+      "image_source_url": "https://rvb-img.reverb.com/i/s--Wst4sC6H--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain%2Ctrim.top%3D483%2Ctrim.left%3D0%2Ctrim.width%3D3024%2Ctrim.height%3D3032/fqa9nudcxydxsjpbaxyt.jpg",
+      "image_source_urls": [
+        "https://rvb-img.reverb.com/i/s--Wst4sC6H--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain%2Ctrim.top%3D483%2Ctrim.left%3D0%2Ctrim.width%3D3024%2Ctrim.height%3D3032/fqa9nudcxydxsjpbaxyt.jpg"
+      ]
     },
     {
       "company": "Greer Amps",
@@ -45574,13 +45607,19 @@
       "research_record": "./research/pedals/Maxon/SSD-9 Super Sonic Distortion.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://maxonfx.com/products/super-sonic-distortion-ssd-9",
+      "image_source_page": "https://www.chicagomusicexchange.com/products/maxon-ssd-9-super-sonic-distortion-1146828",
       "image_source_pages": [
-        "https://maxonfx.com/products/super-sonic-distortion-ssd-9"
+        "https://maxonfx.com/products/super-sonic-distortion-ssd-9",
+        "https://www.chicagomusicexchange.com/products/maxon-ssd-9-super-sonic-distortion-1146828"
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1377
+      "image_source_priority": 1000000,
+      "image_source_url": "https://www.chicagomusicexchange.com/cdn/shop/products/maxon-effects-and-pedals-distortion-maxon-ssd-9-super-sonic-distortion-maxonssd9-17847051911303.jpg?v=1648716788&width=1946",
+      "image_source_urls": [
+        "https://www.chicagomusicexchange.com/cdn/shop/products/maxon-effects-and-pedals-distortion-maxon-ssd-9-super-sonic-distortion-maxonssd9-17847051911303.jpg?v=1648716788&width=1946"
+      ],
+      "image": "./assets/pedals/maxon/ssd-9-super-sonic-distortion/primary.webp"
     },
     {
       "company": "Maxon",
