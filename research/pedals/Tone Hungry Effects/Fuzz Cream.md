@@ -7,52 +7,32 @@
 - **Identity:** Tone Hungry Effects's Fuzz Cream.
 
 ## What this pedal is
-Tone Hungry Effects Fuzz Cream quantity Add to cart SKU: Q48811247 Category: Musical Instruments Description Reviews (0) Description Fuzz Creamby Tone Hungry Effects The Fuzz Cream is a germanium Dallas Arbiter Fuzz Face clone with a few twists introduced by Tone Hungry Effects after a lot of hard work and tinkering with the circuit.
+The Fuzz Cream is a germanium **Fuzz Face-style** fuzz with additional circuit tweaks from Tone Hungry Effects. The builder describes a tightened low end and clearer treble response compared with a traditional implementation.
 
 ## Colorways
-- The Fuzz Cream features a custom galaxy black sparkle finish from Tone Hungry Effects!
+- The checked source documents a custom galaxy black sparkle finish.
 
 ## Versions and factory options
-- No distinct factory revision was established in the verified evidence packet.
+- Wide-range **Bias** control is documented.
+- The checked sources do not establish a numbered factory revision history.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- No complete dated hardware revision chronology was established.
 
 ## Transistor
-- Documented terms in the verified sources: bc183.
-- The archive records only the component information explicitly present in these sources.
+- **BC183** germanium transistor terminology is documented in the checked source set.
+- Exact production complement beyond that documented device is not established.
 
 ## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- Exact clipping/rectifier diode information was not established in the checked sources.
 - **Exact part:** Unknown.
 
 ## Sound
-Tone Hungry Effects Fuzz Cream quantity Add to cart SKU: Q48811247 Category: Musical Instruments Description Reviews (0) Description Fuzz Creamby Tone Hungry Effects The Fuzz Cream is a germanium Dallas Arbiter Fuzz Face clone with a few twists introduced by Tone Hungry Effects after a lot of hard work and tinkering with the circuit.
-These new twists include a refined and tightened low end, to keep your sound from getting muddy.
-The treble response is also now clearer than before.
+The Fuzz Cream is based on the Fuzz Face family but tightens the low end and clarifies the treble. Its Bias control can move the pedal toward gated and glitchy textures at extreme settings.
 
 ## Sources checked
-1. Tone Hungry Effects Fuzz Cream - Auralvia | Premium Audio Equipment and Music Essentials: https://www.auralvia.com/product/tone-hungry-effects-fuzz-cream/
-2. Tone Hungry Effects Fuzz Cream - Pro-Level Distortion Effects Pedals for Live and Studio Use: https://www.pedaldistort.com/product/tone-hungry-effects-fuzz-cream/
+1. Tone Hungry Effects Fuzz Cream - Auralvia: https://www.auralvia.com/product/tone-hungry-effects-fuzz-cream/
+2. Tone Hungry Effects Fuzz Cream - PedalDistort: https://www.pedaldistort.com/product/tone-hungry-effects-fuzz-cream/
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
-
-## Deep research verification
-
-This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
-
-### Verified description
-The bias knob is very significant on the Fuzz Cream, as it has a wide range, and as you go further clockwise you can get some gating effects on your fuzz tone and you can get some great glitching effects when playing in the right dynamic range in conjunction with where the knob is set.
-
-### Verified transistor/device terms
-- bc183.
-
-### Verified sound evidence
-The treble response is also now clearer than before.
-The bias knob is very significant on the Fuzz Cream, as it has a wide range, and as you go further clockwise you can get some gating effects on your fuzz tone and you can get some great glitching effects when playing in the right dynamic range in conjunction with where the knob is set.
-This is a fuzz pedal that is versatile and can find a home on pedalboards in all genres.
-
-### Sources checked in this pass
-1. Tone Hungry Effects Fuzz Cream - Auralvia | Premium Audio Equipment and Music Essentials: https://www.auralvia.com/product/tone-hungry-effects-fuzz-cream/
-2. Tone Hungry Effects Fuzz Cream - Pro-Level Distortion Effects Pedals for Live and Studio Use: https://www.pedaldistort.com/product/tone-hungry-effects-fuzz-cream/
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.
