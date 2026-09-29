@@ -2158,18 +2158,21 @@
   {
     "builder": "ARC Effects",
     "pedal": "Big Green",
+    "image": null,
     "source_page": "https://www.arceffects.com/big-green",
     "research_record": "./research/pedals/ARC Effects/Big Green.md"
   },
   {
     "builder": "ARC Effects",
     "pedal": "Big Green Pi",
+    "image": null,
     "source_page": "https://www.arceffects.com/big-green-1/",
     "research_record": "./research/pedals/ARC Effects/Big Green Pi.md"
   },
   {
     "builder": "ARC Effects",
     "pedal": "Crimson King",
+    "image": null,
     "source_page": "https://www.arceffects.com/crimson-king/",
     "research_record": "./research/pedals/ARC Effects/Crimson King.md"
   },
@@ -24534,6 +24537,7 @@
   {
     "builder": "NUX Audio / NUX",
     "pedal": "’63 Diamond",
+    "image": null,
     "source_page": null,
     "research_record": "./research/pedals/NUX Audio / NUX/’63 Diamond.md"
   },
