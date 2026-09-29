@@ -27,7 +27,7 @@ Keeley describes the Red Dirt Overdrive as a classic drive platform developed fr
 - **Exact part:** Unknown.
 
 ## Sound
-Keeley describes the Red Dirt as an overdrive with a dynamic response, crispness and clarity, plump midrange, and a gain range that can move from cleaner rhythm sounds into highly saturated lead tones. The low-gain/high-gain mode switch provides two gain ranges, and the Level control can be used above unity for added boost. [1]  
+Keeley describes the Red Dirt as an overdrive with a dynamic response, crispness and clarity, plump midrange, and a gain range that can move from cleaner rhythm sounds into highly saturated lead tones. The low-gain/high-gain mode switch provides two gain ranges, and the Level control can be used above unity for added boost. [1]
 
 ## Sources checked
 1. Red Dirt Overdrive - Keeley Electronics: https://robertkeeley.com/product/red-dirt/
