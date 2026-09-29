@@ -54,19 +54,6 @@ Behringer positions the UZ400 around aggressive vintage grit, buzzy/saw-like att
 
 ## Deep research verification
 
-The official UZ400 page was checked directly, with the Behringer product description used for identity, controls and power. No stronger circuit lineage is assigned because the source does not publish one. [1]
-
-## Sources checked
-
-1. Behringer — UZ400 Ultra Fuzz: https://www.behringer.com/en/products/0709-ACL
-
-## Photo
-
-- **Exact pedal photograph:** Behringer official image.
-- https://cdn-media.empowertribe.com/44ade04164b04517a49757f6d17e1f02/Image_BE_0709-ACL_UZ400_Web-Banner_Mobile_2023-09-13_Rev.0.jpg
-
-## Deep research verification
-
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
 
 ### Verified description
@@ -91,3 +78,16 @@ Behringer positions the UZ400 around aggressive vintage grit, buzzy/saw-like att
 ### Sources checked in this pass
 1. Behringer — UZ400 Ultra Fuzz: https://cdn-media.empowertribe.com/44ade04164b04517a49757f6d17e1f02/Image_BE_0709-ACL_UZ400_Web-Banner_Mobile_2023-09-13_Rev.0.jpg
 2. UZ400 | Behringer: https://www.behringer.com/en/products/0709-ACL
+
+## What this pedal is
+
+Exact clipping/protection device and part number are not publicly docu Archive parent: UZ400 Ultra Fuzz Builder: Behringer Catalog type: Fuzz / Distortion Identity: Three control fuzz/distortion stompbox with Fuzz, Tone and Level, documented by Behringer as vintage style high gain fuzz.
+
+## Sources checked
+
+1. Behringer — UZ400 Ultra Fuzz: https://www.behringer.com/en/products/0709-ACL
+
+## Photo
+
+- **Exact pedal photograph:** Behringer official image.
+- https://cdn-media.empowertribe.com/44ade04164b04517a49757f6d17e1f02/Image_BE_0709-ACL_UZ400_Web-Banner_Mobile_2023-09-13_Rev.0.jpg

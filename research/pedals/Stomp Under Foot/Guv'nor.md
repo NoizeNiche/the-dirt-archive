@@ -9,7 +9,7 @@
 
 ## What this pedal is
 
-Guv'nor – Coast Sonic American Express Apple Pay Diners Club Discover Google Pay Mastercard PayPal Shop Pay Visa: https://coastsonic.com/products/stomp-under-foot-guvnor - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+Stomp Under Foot's Guv'nor is cataloged in the archive as a Distortion pedal.
 
 ## Colorways
 
@@ -53,21 +53,6 @@ Retains snap and clarity at lower gain and transitions into smooth, compressed a
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
 
 ### Verified description
-
-### Verified sound evidence
-Works equally well into a clean amp or into a dirty amp where it delivers massive, saturated gain and f eatures a full bass, middle and treble EQ for precise tone shaping.
-Retains snap and clarity at lower gain and transitions into smooth, compressed arena style distortion at higher settings.
-
-### Sources checked in this pass
-1. Guv'nor – Stomp Under Foot: https://stompunderfoot.com/products/guvnor
-2. Stomp Under Foot Guv'nor – Coast Sonic: https://coastsonic.com/products/stomp-under-foot-guvnor
-3. catalog/override source: https://reverb.com/item/96635132-stomp-under-foot-guv-nor
-
-## Deep research verification
-
-This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
-
-### Verified description
 Guv'nor – Coast Sonic American Express Apple Pay Diners Club Discover Google Pay Mastercard PayPal Shop Pay Visa: https://coastsonic.com/products/stomp-under-foot-guvnor - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
 
 ### Verified color/finish evidence
@@ -82,6 +67,6 @@ Retains snap and clarity at lower gain and transitions into smooth, c - **Archiv
 Stomp Under Foot's Guv'nor is cataloged as a Distortion pedal.
 
 ### Sources checked in this pass
-1. Guv'nor &ndash; Stomp Under Foot: https://stompunderfoot.com/products/guvnor
-2. Stomp Under Foot Guv'nor &ndash; Coast Sonic: https://coastsonic.com/products/stomp-under-foot-guvnor
+1. Guv'nor – Stomp Under Foot: https://stompunderfoot.com/products/guvnor
+2. Stomp Under Foot Guv'nor – Coast Sonic: https://coastsonic.com/products/stomp-under-foot-guvnor
 3. catalog/override source: https://reverb.com/item/96635132-stomp-under-foot-guv-nor
