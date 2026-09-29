@@ -26,7 +26,7 @@ PATTERNS = [
     )),
     ("html_entity_in_prose", re.compile(r"&(?:nbsp|quot|amp|#39|#x27);", re.I)),
     ("cookie_privacy", re.compile(r"cookie policy|privacy policy|terms of use|all rights reserved", re.I)),
-    ("commerce_prompt", re.compile(r"add to cart|buy now|shopping cart|free shipping|in stock(?!\s+mode\b)|out of stock", re.I)),
+    ("commerce_prompt", re.compile(r"add to cart|buy now|shopping cart|free shipping|\bin stock\b|out of stock", re.I)),
 ]
 
 DEVICE_TERMS = re.compile(
