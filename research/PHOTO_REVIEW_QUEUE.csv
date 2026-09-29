@@ -1,20 +1,21 @@
 Builder,Pedal,Catalog Type,Status,Attempts,Last Failure,Deep Review Cycles
-Himmelstrutz Elektro Art,Under Overdriver,,DEEP_REVIEW,1,"no usable exact-model image candidate found [{""sourceHost"":""www.himmelstrutz.com"",""sourcePageLoaded"":true,""sourceIdentityMatch"":true,""sourceImageCandidates"":0,""linkedExternalCandidates"":0,""sourceScreenshotCaptured"":false,""makerFallbackTried"":true,""soldCandidates"":0,""verifiedSoldCandidates"":0,""imageSearchCandidates"":0,""verifiedSearchCandidates"":0,""rawHtmlCandidates"":48}]",1
-Keeley Electronics,Red Dirt Overdrive,,DEEP_REVIEW,1,recovery hard timeout exceeded,
-VFE Pedals,Blues King,,DEEP_REVIEW,1,recovery hard timeout exceeded,
-Ashdown Engineering,ABM PRO-FX Pro Drive,,DEEP_REVIEW,2,"no usable exact-model image candidate found [{""sourceHost"":null,""sourcePageLoaded"":false,""sourceIdentityMatch"":false,""sourceImageCandidates"":0,""linkedExternalCandidates"":0,""sourceScreenshotCaptured"":false,""makerFallbackTried"":true,""soldCandidates"":0,""verifiedSoldCandidates"":0,""imageSearchCandidates"":0,""verifiedSearchCandidates"":0,""rawHtmlCandidates"":0}]",1
-Carlsbro,Suzz-Phase,,DEEP_REVIEW,2,recovery hard timeout exceeded,1
-Compulsive Audio,Face-Off Fuzz,,DEEP_REVIEW,2,recovery hard timeout exceeded,1
-DeadastronautFX,X-Fuzz II,,DEEP_REVIEW,2,recovery hard timeout exceeded,1
-Dwarfcraft Devices,Abaddon,,DEEP_REVIEW,2,recovery hard timeout exceeded,1
-Ibanez,TK999OD,,DEEP_REVIEW,2,recovery hard timeout exceeded,1
-Ibanez,TSV808,,DEEP_REVIEW,2,recovery hard timeout exceeded,1
-Maxon,RTO700,,DEEP_REVIEW,2,recovery hard timeout exceeded,1
-VFE Pedals,Dark Horse,,DEEP_REVIEW,2,recovery hard timeout exceeded,
-VFE Pedals,RUP mkII,,DEEP_REVIEW,2,recovery hard timeout exceeded,
-Fortin Amplification,Meshuggah,,DEEP_REVIEW,3,recovery hard timeout exceeded,
-Mad Professor Amplification,Loud 'n Proud,,DEEP_REVIEW,3,"no usable exact-model image candidate found [{""sourceHost"":""www.guitarworld.com"",""sourcePageLoaded"":true,""sourceIdentityMatch"":true,""sourceImageCandidates"":0,""linkedExternalCandidates"":0,""sourceScreenshotCaptured"":false,""makerFallbackTried"":true,""soldCandidates"":0,""verifiedSoldCandidates"":0,""imageSearchCandidates"":0,""verifiedSearchCandidates"":0,""rawHtmlCandidates"":64}]",
-MadeByMike,RAT/MUFF,,DEEP_REVIEW,3,"no usable exact-model image candidate found [{""sourceHost"":""www.madebymike.co.uk"",""sourcePageLoaded"":true,""sourceIdentityMatch"":true,""sourceImageCandidates"":0,""linkedExternalCandidates"":0,""sourceScreenshotCaptured"":false,""makerFallbackTried"":true,""soldCandidates"":0,""verifiedSoldCandidates"":0,""imageSearchCandidates"":0,""verifiedSearchCandidates"":0,""rawHtmlCandidates"":0}]",
-MadeByMike,Fuzzy Beetle,,DEEP_REVIEW,4,"no usable exact-model image candidate found [{""sourceHost"":""www.madebymike.co.uk"",""sourcePageLoaded"":true,""sourceIdentityMatch"":true,""sourceImageCandidates"":0,""linkedExternalCandidates"":0,""sourceScreenshotCaptured"":false,""makerFallbackTried"":true,""soldCandidates"":0,""verifiedSoldCandidates"":0,""imageSearchCandidates"":0,""verifiedSearchCandidates"":0,""rawHtmlCandidates"":0}]",
+Chaos Custom Shop / Chaos FX,C.Drive,,DEEP_REVIEW,1,"no usable exact-model image candidate found [{""sourceHost"":""www.rockboard.de"",""sourcePageLoaded"":true,""sourceIdentityMatch"":true,""sourceImageCandidates"":0,""linkedExternalCandidates"":0,""sourceScreenshotCaptured"":false,""makerFallbackTried"":true,""soldCandidates"":0,""verifiedSoldCandidates"":0,""imageSearchCandidates"":0,""verifiedSearchCandidates"":0,""rawHtmlCandidates"":10}]",
+Wampler Pedals,SLOstortion,,DEEP_REVIEW,1,recovery hard timeout exceeded,
+Himmelstrutz Elektro Art,Under Overdriver,,DEEP_REVIEW,2,"no usable exact-model image candidate found [{""sourceHost"":""www.himmelstrutz.com"",""sourcePageLoaded"":true,""sourceIdentityMatch"":true,""sourceImageCandidates"":0,""linkedExternalCandidates"":0,""sourceScreenshotCaptured"":false,""makerFallbackTried"":true,""soldCandidates"":0,""verifiedSoldCandidates"":0,""imageSearchCandidates"":0,""verifiedSearchCandidates"":0,""rawHtmlCandidates"":48}]",1
+Keeley Electronics,Red Dirt Overdrive,,DEEP_REVIEW,2,recovery hard timeout exceeded,
+Ashdown Engineering,ABM PRO-FX Pro Drive,,DEEP_REVIEW,3,"no usable exact-model image candidate found [{""sourceHost"":null,""sourcePageLoaded"":false,""sourceIdentityMatch"":false,""sourceImageCandidates"":0,""linkedExternalCandidates"":0,""sourceScreenshotCaptured"":false,""makerFallbackTried"":true,""soldCandidates"":0,""verifiedSoldCandidates"":0,""imageSearchCandidates"":0,""verifiedSearchCandidates"":0,""rawHtmlCandidates"":0}]",1
+Carlsbro,Suzz-Phase,,DEEP_REVIEW,3,recovery hard timeout exceeded,1
+Compulsive Audio,Face-Off Fuzz,,DEEP_REVIEW,3,recovery hard timeout exceeded,1
+DeadastronautFX,X-Fuzz II,,DEEP_REVIEW,3,recovery hard timeout exceeded,1
+Dwarfcraft Devices,Abaddon,,DEEP_REVIEW,3,recovery hard timeout exceeded,1
+Ibanez,TK999OD,,DEEP_REVIEW,3,recovery hard timeout exceeded,1
+Ibanez,TSV808,,DEEP_REVIEW,3,recovery hard timeout exceeded,1
+Maxon,RTO700,,DEEP_REVIEW,3,recovery hard timeout exceeded,1
+VFE Pedals,Dark Horse,,DEEP_REVIEW,3,recovery hard timeout exceeded,
+VFE Pedals,RUP mkII,,DEEP_REVIEW,3,recovery hard timeout exceeded,
+Fortin Amplification,Meshuggah,,DEEP_REVIEW,4,recovery hard timeout exceeded,
+Mad Professor Amplification,Loud 'n Proud,,DEEP_REVIEW,4,"no usable exact-model image candidate found [{""sourceHost"":""www.guitarworld.com"",""sourcePageLoaded"":true,""sourceIdentityMatch"":true,""sourceImageCandidates"":0,""linkedExternalCandidates"":0,""sourceScreenshotCaptured"":false,""makerFallbackTried"":true,""soldCandidates"":0,""verifiedSoldCandidates"":0,""imageSearchCandidates"":0,""verifiedSearchCandidates"":0,""rawHtmlCandidates"":64}]",
+MadeByMike,RAT/MUFF,,DEEP_REVIEW,4,recovery hard timeout exceeded,
 Collins,CSD-1 Pro Super Dust,,PARKED,5,PARKED after 5 deep-review attempts: recovery hard timeout exceeded,2
 Columbus,OVD-5 Overdrive,,PARKED,5,PARKED after 5 deep-review attempts: recovery hard timeout exceeded,2
+MadeByMike,Fuzzy Beetle,,PARKED,5,PARKED after 5 deep-review attempts: recovery hard timeout exceeded,
