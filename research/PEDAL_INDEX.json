@@ -13546,18 +13546,19 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/blackbox-music-electronics/x-ray-bass/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/blackbox/xray/bass",
       "research_record": "./research/pedals/Blackbox Music Electronics/X-Ray Bass!.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://www.effectsdatabase.com/model/blackbox/xray/bass",
+      "image_source_page": "https://auctions.yahoo.co.jp/jp/auction/x1178114094",
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/blackbox/xray/bass"
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1326
+      "image_source_priority": 1326,
+      "image_source_url": "https://auctions.c.yimg.jp/images.auctions.yahoo.co.jp/image/dr000/auc0103/user/7b514856f67098b7c1cfc92578e1e677ec52617dd93eaf5115acf47de2836392/i-img1200x900-17427055289870cbem1i32.jpg"
     },
     {
       "company": "Blackhawk Amplifiers",
