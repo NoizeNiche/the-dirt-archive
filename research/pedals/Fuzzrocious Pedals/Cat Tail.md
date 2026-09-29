@@ -3,42 +3,38 @@
 ## PRP identity
 - **Archive parent:** Cat Tail
 - **Builder:** Fuzzrocious Pedals
-- **Catalog type:** Distortion / Fuzz / Overdrive
+- **Catalog type:** Distortion / Overdrive
 - **Identity:** Fuzzrocious Pedals's Cat Tail.
 
 ## What this pedal is
-What Fuzzrocious Pedals say about the CAT TAIL What is the CAT TAIL?
+Cat Tail is a low-to-high gain distortion/overdrive based on a classic distortion circuit and modified for guitar and bass use.
 
 ## Colorways
-- Fuzzrocious Pedals Cat Tail quantity Add to cart SKU: UGV64344686475 Categories: Distortion , Effects and Pedals Description Description This Fuzzrocious Pedals Cat Tailis in great shape and working condition Related products -50% Keith McMillen Instruments QuNexus Red $ 170.00 Original price was: $170.00.
+- No complete factory colorway chronology was established in the checked sources.
 
 ## Versions and factory options
-- The verified evidence references: MkII.
-- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+- **MkII** references are documented in the checked source set.
+- Exact circuit changes between revisions are not fully established.
+- The checked sources document **1N914** diode terminology, but do not establish a complete production component list.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- No complete dated revision chronology was established.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
+- Exact production transistor/device information was not established.
 - **Exact transistor/device:** Unknown.
 
 ## Diode
-- Documented terms in the verified sources: 1n914, LEDs.
-- The archive records only the component information explicitly present in these sources.
+- **Documented:** 1N914.
+- Exact clipping-network role and complete diode list are not established.
 
 ## Sound
-Based on a classic distortion circuit, it's been modified for guitar and bass use.
-The Cat Tail is a low to high gain distortion with overdrive capabilities (some even say at high gain settings, it sounds like a fuzz).
-This circuit is based on a well-loved, classic distortion that make a clean amp dirty and a dirty amp disgusting.
+Cat Tail ranges from low-gain overdrive into harder distortion and can produce fuzz-like textures at higher gain settings. Fuzzrocious designed it for both guitar and bass.
 
 ## Sources checked
-1. Fuzzrocious Pedals CAT TAIL | AllThePedals: https://allthepedals.com/pedals/fuzzrocious-pedals-cat-tail/
-2. Fuzzrocious Pedals Cat Tail - Reverb: https://reverb.com/item/59376269-fuzzrocious-pedals-cat-tail
-3. Fuzzrocious Pedals Cat Tail Low/High Gain Distortion/Overdrive Guitar ...: https://www.playloudnow.com/product/fuzzrocious-pedals-cat-tail-low-high-gain-distortion-overdrive-guitar-effects-pedal/
-4. Fuzzrocious Pedals Cat Tail - Cello, Percussion Instruments, Brass Instruments, Woodwind Instruments, and String Instruments Heaven - Ideal for Musicians: https://www.fluteharmony.com/product/fuzzrocious-pedals-cat-tail/
-5. FUZZROCIOUS PEDALS CAT TAIL MANUAL Pdf Download | ManualsLib: https://www.manualslib.com/manual/1478906/Fuzzrocious-Pedals-Cat-Tail.html
-6. Fuzzrocious pedals CAT TAIL Manual - Distortion Pedal | Manualzz: https://manualzz.com/doc/html/7538319/fuzzrocious-pedals-cat-tail-manual
+1. Fuzzrocious Pedals - Cat Tail manual: https://www.manualslib.com/manual/1478906/Fuzzrocious-Pedals-Cat-Tail.html
+2. Effects Database - Fuzzrocious Cat Tail: https://allthepedals.com/pedals/fuzzrocious-pedals-cat-tail/
+3. Reverb - Fuzzrocious Cat Tail: https://reverb.com/item/59376269-fuzzrocious-pedals-cat-tail
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.
