@@ -30,6 +30,7 @@ TARGET_PEDAL = os.environ.get("PHOTO_CACHE_TARGET_PEDAL", "").strip()
 MANIFEST_OWNERS = {}
 PHOTO_BLOCK_PATTERNS = []
 MANUAL_VERIFIED_PHOTOS = set()
+RESEARCHED_PHOTO_PENDING_KEYS = set()
 
 
 def load_photo_blocklist():
@@ -345,6 +346,13 @@ def cache_entry_prepare(entry):
     if target.exists():
         return ("retain_remote", entry, target, image)
 
+    entry_key = key(builder, pedal)
+    if entry_key in RESEARCHED_PHOTO_PENDING_KEYS and entry_key not in MANUAL_VERIFIED_PHOTOS:
+        # A pending archive record may still carry an old external runtime image.
+        # Do not silently promote that stale URL into the canonical local archive
+        # without an explicit visual review or a browser-captured exact source.
+        return ("skip", entry, None, None)
+
     return ("download", entry, target, image)
 
 
@@ -460,10 +468,12 @@ def main():
         if row.get("Picture") != "DONE"
     }
     researched_photo_pending_keys = {
-        (row.get("Builder", ""), row.get("Pedal", ""))
+        key(row.get("Builder", ""), row.get("Pedal", ""))
         for row in tracker_rows
         if row.get("Pedal Info") == "DONE" and row.get("Picture") != "DONE"
     }
+    global RESEARCHED_PHOTO_PENDING_KEYS
+    RESEARCHED_PHOTO_PENDING_KEYS = researched_photo_pending_keys
 
     cached = []
     retained = [0]
