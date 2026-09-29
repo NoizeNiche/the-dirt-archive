@@ -253,6 +253,84 @@
       "pattern": "https://cdn.rockboard.de/common/image_ef2a3a99-6890-4731-a410-3bb001acc4a9.webp",
       "reason": "RockBoard image reused across distinct Pete Cornish P-1 catalog identities; use exact manufacturer imagery instead.",
       "severity": "hard_block"
+    },
+    {
+      "type": "exact_url",
+      "pattern": "https://www.bsriaudio.com/images/the-pasture/BSRI+Logo.png",
+      "reason": "Baltimore Sonic Research Institute logo artwork, not the FZZ pedal photograph.",
+      "severity": "hard_block"
+    },
+    {
+      "type": "exact_url",
+      "pattern": "https://blackcatamps.com/images/Maintence-Page-Black-Background-1024x576.jpg",
+      "reason": "Black CAT maintenance-page background, not the DJENTTONIC pedal.",
+      "severity": "hard_block"
+    },
+    {
+      "type": "exact_url",
+      "pattern": "https://willcuttguitars.com/cdn/shop/files/wgslogo1311R_410x.png?v=1767731832",
+      "reason": "Willcutt Guitar Shop logo asset, not the J. Rockett WTF Fuzz pedal.",
+      "severity": "hard_block"
+    },
+    {
+      "type": "exact_url",
+      "pattern": "https://www.vintageguitar.com/wp-content/uploads/2024/06/2024_06JUN_VGLOGO_OUTLINE.png",
+      "reason": "Vintage Guitar logo asset, not the Danelectro Nichols 1966 pedal.",
+      "severity": "hard_block"
+    },
+    {
+      "type": "exact_url",
+      "pattern": "https://www.oldbloodnoise.com/images/holeykdsOBNElogo-06.png",
+      "reason": "Old Blood Noise Endeavors logo asset, not the Haunt Fuzz pedal.",
+      "severity": "hard_block"
+    },
+    {
+      "type": "exact_url",
+      "pattern": "https://www.gearaffe.com/images/reg-head-header.png",
+      "reason": "GearAeffe site header artwork, not the Devi Ever Mirro Safety Bag Fuzz pedal.",
+      "severity": "hard_block"
+    },
+    {
+      "type": "exact_url",
+      "pattern": "https://roundhillmusicco.com/cdn/shop/files/Mu%2BBlaster1.jpg?format=jpg&v=1770061989&width=1946",
+      "reason": "Electronic Audio Experiments Mu+Blaster image, not the separate Dude Incredible pedal.",
+      "severity": "hard_block"
+    },
+    {
+      "type": "exact_url",
+      "pattern": "https://assets.rbl.ms/62183840/origin.png",
+      "reason": "Article image used for an Audio Surplus effects roundup; filename context identifies the separate O.K. Doomer rather than Burden.",
+      "severity": "hard_block"
+    },
+    {
+      "type": "exact_url",
+      "pattern": "https://www.blackhawkamplifiers.com/wp-content/uploads/2021/03/windhand-fuzz.jpg",
+      "reason": "Windhand LBM Fuzz image, not the separate Blackhawk Ramshead Fuzz model.",
+      "severity": "hard_block"
+    },
+    {
+      "type": "exact_url",
+      "pattern": "https://assets.bigcartel.com/product_images/22cd516c-f46a-44c4-805e-4066de41deeb/uruk-hai-parallel-mkii.jpg?auto=format&fit=max&h=1200&w=1200",
+      "reason": "Blackhawk Uruk-Hai MKII image, not the separate Valkyrie Drive model.",
+      "severity": "hard_block"
+    },
+    {
+      "type": "exact_url",
+      "pattern": "https://cdn.prod.website-files.com/57e45fc3d0ac813956dc9506/58bf00cb41bb42b54a53067a_sb1-scuttle-buttin-quick-guide.jpg",
+      "reason": "BSQ Scuttle Buttin quick-guide image reused for unrelated BO-2 and DM-2 pedals.",
+      "severity": "hard_block"
+    },
+    {
+      "type": "exact_url",
+      "pattern": "https://voxamps.com/wp-content/uploads/2019/01/AC30S1-AC30-One-Twelve.png",
+      "reason": "VOX AC30S1/AC30 OneTwelve amplifier image, not the Mystic Edge pedal.",
+      "severity": "hard_block"
+    },
+    {
+      "type": "exact_url",
+      "pattern": "https://fortinamps.com/wp-content/uploads/2024/08/NATAS_header.jpg",
+      "reason": "Fortin NATAS product-page header artwork, not a separately verified pedal photograph for the NATAS Distortion record.",
+      "severity": "hard_block"
     }
   ]
 }
