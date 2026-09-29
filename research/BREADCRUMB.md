@@ -1,3 +1,13 @@
+## Photo QA + catalog-scope checkpoint - September 29, 2026
+
+The research-content cleanup lane was hardened against store-page shells, tracing-article navigation residue, and cross-model press-release fragments. Successful audit runs returned zero flagged research-content lines.
+
+During photo recovery, the verification lane exposed a race where newly quarantined cross-identity images could survive the initial reset until final validation. The emergency and fast photo workflows now reset newly discovered invalid photo state immediately after browser recovery and before synchronization.
+
+Two KMA Machines records, **Queequeq** and **Queequeq 2**, were removed from the public dirt catalog after identity review confirmed that they are analog sub-octave generators rather than overdrive, distortion, or fuzz pedals. Their research records were preserved under `research/legacy-unlinked/`, and the exclusion was recorded in `research/IDENTITY_REVIEW_QUEUE.csv`.
+
+Current canonical public catalog count after the scope correction: **4,200** records.
+
 ## Builder-to-enthusiast product checkpoint - September 28, 2026
 
 Translated builder advisory needs into enthusiast-facing product improvements. Added a query-driven Builder Archive with catalog summaries, family/version/edition context, dirt-type filtering, in-builder search, exact photo count, and direct record links. Pedal detail pages now link to the Builder Archive while retaining the filtered builder catalog path.
