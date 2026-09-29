@@ -24,7 +24,7 @@ This pass adds only claims supported by the newly admitted exact-model evidence.
 ### Verified description
 Caline's CP-56 Midlander / The Mayday - AC Tone is cataloged as an overdrive pedal.
 
-### Verified transistor/device terms
+### Verified amp references
 - AC30.
 
 ### Verified diode terms
