@@ -1,43 +1,45 @@
-# Xotic Effects — Bass BB Preamp V1.5 — Bass Boost / Overdrive
+# Xotic Effects — Bass BB Preamp V1.5
 
 ## PRP identity
 - **Archive parent:** Bass BB Preamp V1.5 — Bass Boost / Overdrive
 - **Builder:** Xotic Effects
 - **Catalog type:** Overdrive
-- **Identity:** Xotic Effects's Bass BB Preamp V1.5 — Bass Boost / Overdrive.
+- **Identity:** Xotic Effects' Bass BB Preamp V1.5.
 
 ## What this pedal is
-$173.00 $199.00 Add to Cart BMF Effects The Godfather II Dual Overdrive Double your tonal pleasure with The Godfather II Dual Overdrive pedal.
+The Bass BB Preamp V1.5 is a bass-oriented boost/overdrive and preamp derived from Xotic's BB Preamp platform. Xotic designed it to preserve low-end definition while providing clean boost through smooth, compressed overdrive.
 
 ## Colorways
-- Drive B (orange LED) is the same as the single Godfather Overdrive pedal, while Drive A (red LED) is voiced for m..
+- Standard documented enclosure is the Bass BB Preamp's dedicated finish.
+- No complete factory colorway chronology was established.
 
 ## Versions and factory options
-- The verified evidence references: V1, v1.
-- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+- Bass-voiced version of the BB Preamp platform.
+- Two-band active EQ, each band offering **±15 dB** of boost/cut.
+- Gain control ranges from clean boost through overdrive.
+- True bypass.
+- 9V battery or regulated DC power.
+- Xotic specifies 9V/6mA operation and optional 18V operation with the appropriate supply.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- **V1.5** is a documented revision of the Bass BB Preamp.
+- Xotic's current manuals list the Bass BB Preamp V1.5 separately from the original Bass BB Preamp.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
+- Exact production semiconductor details were not established in the checked sources.
 - **Exact transistor/device:** Unknown.
 
 ## Diode
-- Documented terms in the verified sources: LED.
-- The archive records only the component information explicitly present in these sources.
+- Exact clipping/rectifier diode information was not established in the checked sources.
+- **Exact part:** Unknown.
 
 ## Sound
-$173.00 $199.00 Add to Cart BMF Effects The Godfather II Dual Overdrive Double your tonal pleasure with The Godfather II Dual Overdrive pedal.
-Drive B (orange LED) is the same as the single Godfather Overdrive pedal, while Drive A (red LED) is voiced for m..
-$233.00 $289.00 Add to Cart BMF Effects The Great Wide Open Distortion Originally designed as a simple, one-knob pedal (volume only), The Great Wide Open Distortion pedal has evolved based on clients needing to get great distortion sounds from virtually any amp.
+The Bass BB Preamp V1.5 is designed to move from clean, firm boost through gritty overdrive while retaining bass response and note separation. The active EQ provides broad low/high-frequency shaping around the drive section.
 
 ## Sources checked
-1. Xotic Effects Bass BB Preamp V1.5 Bass Boost / Overdrive Effect Pedal: https://www.audiocraftusa.com/product/xotic-effects-bass-bb-preamp-v1-5-bass-boost-overdrive-effect-pedal/
-2. Xotic Effects Bass BB Preamp: https://guitarpedalshoppe.com/xotic-effects-bass-bb-pre
-3. New Xotic Effects Bass BB Preamp V1.5 Bass Boost Guitar Effects Pedal ...: https://www.ebay.com/itm/278005436077
-4. Xotic Bass BB Preamp V1.5 - What To Know & Where To Buy: https://equipboard.com/items/xotic-bass-bb-preamp-v1-5
-5. Xotic Bass BB Preamp v1.5 - TalkBass.com: https://www.talkbass.com/threads/xotic-bass-bb-preamp-v1-5.1619267/
+1. Xotic California - Bass BB V1.5: https://www.xotic.us/effects/bass-bb-v1-5/
+2. Xotic California - Manuals: https://xotic.us/manuals/
+3. Xotic online shop - Bass BB Preamp V1.5: https://users-new.xotic.us/shop/product/x102abbb02-bass-bb-preamp-v1-5-9476
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.

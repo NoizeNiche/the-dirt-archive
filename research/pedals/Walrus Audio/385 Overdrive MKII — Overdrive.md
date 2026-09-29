@@ -1,39 +1,45 @@
-# Walrus Audio — 385 Overdrive MKII — Overdrive
+# Walrus Audio — 385 Overdrive MKII
 
 ## PRP identity
 - **Archive parent:** 385 Overdrive MKII — Overdrive
 - **Builder:** Walrus Audio
-- **Catalog type:** Distortion / Fuzz
-- **Identity:** Walrus Audio's 385 Overdrive MKII — Overdrive.
+- **Catalog type:** Overdrive
+- **Identity:** Walrus Audio's 385 Overdrive MKII.
 
 ## What this pedal is
-We fell in love with the unique sound, and were inspired to capture it in a pedalboard-friendly box when we created the original 385 Overdrive pedal.
+The 385 Overdrive MKII is inspired by the tube audio section of the **Bell & Howell Filmosound 385** projector. Walrus Audio developed the original 385 as a pedalboard version of that projector's distinctive drive character, then expanded it in the MKII.
 
 ## Colorways
-- $249.99 Color Yellow Black Add To Cart Details Media Specs Inspired by the rich tones of the Bell and Howell Filmosound 385 projector, the reimagined 385 MKII Overdrive offers dynamic, responsive, tube-like drive with simple but effective controls.
+- Walrus documents a **Textured Black** version with yellow/red projector artwork.
+- A **Flat Black** version uses cream tube artwork.
+- Special finishes are treated as finish variants.
 
 ## Versions and factory options
-- The verified evidence references: MKII.
-- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+- A/B switch toggles between two Volume/Gain sets.
+- Shared **Bass** and **Treble** controls.
+- **385+** switch increases front-end saturation.
+- Internally runs at 18V for increased dynamic response.
+- True bypass.
+- 9V DC, 100mA minimum supply.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- The MKII adds the A/B preset-like switching, a second Volume/Gain pair, and the 385+ high-gain function to the original 385 concept.
+- Walrus does not present these as separate circuits.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
+- Exact production transistor/device information was not established in the checked sources.
 - **Exact transistor/device:** Unknown.
 
 ## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- Exact clipping/rectifier diode information was not established in the checked sources.
 - **Exact part:** Unknown.
 
 ## Sound
-385 MKII Overdrive FREE SHIPPING We ship most orders within 1-3 business days.
-The MKII adds an A/B switch to toggle between two sets of volume and gain knobs as well as a 385+ switch that slams the front end of the circuit for added high-gain saturation.
-$249.99 Color Yellow Black Add To Cart Details Media Specs Inspired by the rich tones of the Bell and Howell Filmosound 385 projector, the reimagined 385 MKII Overdrive offers dynamic, responsive, tube-like drive with simple but effective controls.
+The 385 is voiced for dynamic, tube-like overdrive. Lower gain settings emphasize the amp-like response of the original concept, while the MKII's second gain setting and 385+ switch extend it into more saturated distortion.
 
 ## Sources checked
-1. 385 MKII Overdrive: https://www.walrusaudio.com/products/385-overdrive-mkii
+1. Walrus Audio - 385 MKII Overdrive: https://www.walrusaudio.com/products/385-overdrive-mkii
+2. Walrus Audio - Product Manuals: https://www.walrusaudio.com/pages/manuals
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.
