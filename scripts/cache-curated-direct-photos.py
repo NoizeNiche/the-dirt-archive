@@ -259,7 +259,16 @@ def main() -> None:
             notes = str(row.get("Notes") or "").strip()
             blocked_for_identity = image_url.lower() in identity_quarantine.get(k, set())
             blocked_for_hash = k in hash_quarantine and k not in manual_verified
-            if k in pending and image_url and source_page and is_http_image_url(image_url) and not blocked_photo_url(image_url, block_rules) and not blocked_for_identity and not blocked_for_hash:
+            if (
+                k in pending
+                and k in manual_verified
+                and image_url
+                and source_page
+                and is_http_image_url(image_url)
+                and not blocked_photo_url(image_url, block_rules)
+                and not blocked_for_identity
+                and not blocked_for_hash
+            ):
                 direct.setdefault(k, []).append((image_url, source_page, notes))
 
     recovered = 0
@@ -335,7 +344,8 @@ def main() -> None:
     print(
         "Curated direct-photo lane complete: "
         f"recovered={recovered}, skipped={skipped}, failed={failed}, "
-        f"pending_with_direct_overrides={len(direct)}, manifest_rows={len(direct_results)}"
+        f"pending_with_manually_verified_direct_overrides={len(direct)}, "
+        f"manual_verified_total={len(manual_verified)}, manifest_rows={len(direct_results)}"
     )
 
 
