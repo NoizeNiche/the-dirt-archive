@@ -8,7 +8,7 @@
 
 ## What this pedal is
 
-Proto OD III Published on February 5, 2010 VFE Pedals overdrive pedal Information VonRutter The ProtoOD is based on the classic TS808 tubescreamer circuit, but with many modifications.
+VFE Pedals's Proto OD is cataloged in the archive as a Overdrive pedal.
 
 ## Colorways
 - A toggle switch has been added to switch between true Mosfet clipping, 5mm Red LED clipping, and a diode lift (clean boost).

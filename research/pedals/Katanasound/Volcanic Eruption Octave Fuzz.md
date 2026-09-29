@@ -63,7 +63,7 @@ Volcanic Eruption Octave Fuzz - **Builder:** Katanasound - **Catalog type:** Fuz
 Katanasound Volcanic Eruption Octave Fuzz Pedal — Andy Babiuk's Fab Gear: https://www.andybabiuksfabgear.com/whats-new-aiZQV/p/katanasound-volcanic-eruption-octave-fuzz-pedal 2.
 
 ### Sources checked in this pass
-1. Katanasound Volcanic Eruption Octave Fuzz Pedal &mdash; Andy Babiuk&#39;s Fab Gear: https://www.andybabiuksfabgear.com/whats-new-aiZQV/p/katanasound-volcanic-eruption-octave-fuzz-pedal
+1. Katanasound Volcanic Eruption Octave Fuzz Pedal — Andy Babiuk's Fab Gear: https://www.andybabiuksfabgear.com/whats-new-aiZQV/p/katanasound-volcanic-eruption-octave-fuzz-pedal
 2. Katanasound Volcanic Eruption Octave Fuzz Pedal: https://www.stringanddrum.com/product/katanasound-volcanic-eruption-octave-fuzz-pedal267971/
 3. Katanasound Volcanic Eruption Octave Fuzz Pedal | Reverb: https://reverb.com/item/3283168-katanasound-volcanic-eruption-octave-fuzz-pedal
 4. Katanasound Volcanic Eruption Octave Fuzz Pedal - Gbase: https://www.gbase.com/gear/katanasound-volcanic-eruption

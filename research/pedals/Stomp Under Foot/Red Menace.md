@@ -71,7 +71,7 @@ Stomp Under Foot Red Menace Pedal Review: Honest Tone, Build & Use Analysis - Th
 The gritty, low-end strikes the perfect balance between deep bass and articulate clarity, allowing each note to punch through the fuzz without becoming muddy.
 
 ### Sources checked in this pass
-1. Red Menace &ndash; Stomp Under Foot: https://stompunderfoot.com/products/red-menace
+1. Red Menace – Stomp Under Foot: https://stompunderfoot.com/products/red-menace
 2. Stomp Under Foot Red Menace Fuzz - Reverb: https://reverb.com/p/stomp-under-foot-red-menace-fuzz
 3. Stomp Under Foot Red Menace Pedal Review: Honest Tone, Build & Use Analysis | GearStrings: https://gearstrings.com/gear-reviews/stomp-under-foot-red-menace-pedal-review
 4. STOMP UNDER FOOT RED MENACE EFFECTOR 387025 | eBay: https://www.ebay.com/itm/307088723899

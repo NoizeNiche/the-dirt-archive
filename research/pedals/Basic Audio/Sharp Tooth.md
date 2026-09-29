@@ -340,5 +340,5 @@ The Sharp Tooth’s Texture control pans between one and two transistor stage so
 Sonically a cross between A tone bender MKI and a gritty light boost and any variation in between.
 
 ### Sources checked in this pass
-1. Sharp Tooth &mdash; Basic Audio: https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-cnzrr-gbrkf-lx4x9
+1. Sharp Tooth — Basic Audio: https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-cnzrr-gbrkf-lx4x9
 2. Basic Audio — Sharp Tooth: https://images.squarespace-cdn.com/content/v1/5da9e97016ddf940acffa2d3/1713109511732-B64JWAENTOUV86TC8N5Y/DSCF9445%2B1.jpg

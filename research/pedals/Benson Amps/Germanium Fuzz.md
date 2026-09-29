@@ -85,4 +85,4 @@ At the heart of the Benson Studio Black Fuzz is a couple of germanium transistor
 ### Sources checked in this pass
 1. Benson Amps - Germanium Fuzz - Studio Black | Mass Street Music: https://massstreetmusic.com/products/benson-amps-germanium-fuzz-studio-black
 2. Benson Amps Germanium Fuzz | Effects Database: https://www.effectsdatabase.com/model/benson/fuzz/germanium
-3. Benson Germanium Fuzz &ndash; Chicago Music Exchange: https://www.chicagomusicexchange.com/products/benson-germanium-fuzz-2491502
+3. Benson Germanium Fuzz – Chicago Music Exchange: https://www.chicagomusicexchange.com/products/benson-germanium-fuzz-2491502

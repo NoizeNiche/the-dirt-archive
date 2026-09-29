@@ -325,4 +325,4 @@ Chaos Custom Shop Lugola Fuzz — Fuzz Pedal Specs & Where to Buy
 ### Sources checked in this pass
 1. Chaos Custom Shop Lugola Fuzz — Fuzz Pedal Specs & Where to Buy | one thousand pedals: https://onethousandpedals.com/pedal/chaos-custom-shop-lugola-fuzz
 2. Lugola Fuzz - CHAOS CUSTOM SHOP: https://chaos-fx.pl/lugolafuzz.html
-3. Horrothia FX Lutz Fuzz Guitar Pedal &ndash; Malibu Music: https://malibumusic.com/products/horrothia-fx-lutz-fuzz
+3. Horrothia FX Lutz Fuzz Guitar Pedal – Malibu Music: https://malibumusic.com/products/horrothia-fx-lutz-fuzz

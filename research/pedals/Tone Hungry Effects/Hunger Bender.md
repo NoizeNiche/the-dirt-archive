@@ -110,6 +110,6 @@ Tone Hungry Effects Hunger Bender USED w/ box - Guitars & Ukulele Accessories 1.
 ### Sources checked in this pass
 1. Tone Hungry Effects Hunger Bender - Reverb: https://reverb.com/item/72315527-tone-hungry-effects-hunger-bender
 2. Tone Hungry Effects Hunger Bender - Effects Database: https://www.effectsdatabase.com/model/tonehungry/hungerbender
-3. Tone Hungry Effects Hunger Bender &ndash; eastside music supply: https://eastsidemusicsupply.com/products/tone-hungry-effects-hunger-bender
+3. Tone Hungry Effects Hunger Bender – eastside music supply: https://eastsidemusicsupply.com/products/tone-hungry-effects-hunger-bender
 4. Tone Hungry Effects Hunger Bender - bestmusiccompanion.com: https://www.bestmusiccompanion.com/product/tone-hungry-effects-hunger-bender/
 5. Tone Hungry Effects Hunger Bender USED w/ box - Guitars & Ukulele Accessories | Corde Vibe: https://www.cordevibe.com/product/tone-hungry-effects-hunger-bender-used-w-box/

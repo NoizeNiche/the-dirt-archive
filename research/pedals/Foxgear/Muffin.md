@@ -27,11 +27,7 @@ Foxgear's Muffin is cataloged as a distortion pedal.
 
 ## Sound
 
-**Archive parent:** Muffin - **Builder:** Foxgear - **Catalog type:** Distortion - **Identity:** Foxgear's Muffin.
-
-Foxgear's Muffin is cataloged as a distortion pedal.
-
-FoxGear Bass Muffin Distortion Effects Pedal Black and White - No distinct factory revision was established in the verified evidence packet.
+No verified pedal-specific sonic summary is currently established in the archive.
 
 ## Sources checked
 1. Foxgear Muffin Fuzz - Reverb: https://reverb.com/p/foxgear-muffin-fuzz

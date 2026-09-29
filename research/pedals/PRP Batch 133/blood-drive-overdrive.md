@@ -218,4 +218,4 @@ Byron Amplification's Blood Drive Overdrive is cataloged as an overdrive pedal.
 Pedals — Byron Amplification: https://byronamplification.com/pedals - **Builder:** Byron Amplification - **Catalog type:** Overdrive - **Identity:** Byron Amplification overdrive with a five-control layout.
 
 ### Sources checked in this pass
-1. Pedals &mdash; Byron Amplification: https://byronamplification.com/pedals
+1. Pedals — Byron Amplification: https://byronamplification.com/pedals

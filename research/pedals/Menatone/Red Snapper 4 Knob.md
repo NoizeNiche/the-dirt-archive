@@ -30,11 +30,7 @@ Menatone Red Snapper 4 knob PTP 2017 - Reverb: https://reverb.com/item/30817779-
 
 ## Sound
 
-Red Snapper 4 Knob - **Builder:** Menatone - **Catalog type:** Overdrive - **Identity:** Menatone's Red Snapper 4 Knob.
-
-Red Snapper 4 Knob — Menatone Overdrive Pedal - Although the Menatone "Red" pedal launched in 1996 it was not until NAMM show of 1998 that the Red Snapper made its debut.
-
-Red Snapper 4 Knob — Menatone Overdrive Pedal - © 2026 PedalFilter Clear Compare ( 0 ) Back Home Menatone Red Snapper 4 Knob Back to results Menatone Red Snapper 4 Knob Overdrive The transparent, touch-sensitive Red Snapper overdrive with an added hi-cut control.
+No verified pedal-specific sonic summary is currently established in the archive.
 
 ## Sources checked
 1. Red Snapper 4 Knob PTP | menatone: https://www.menatone.com/product-page/red-snapper-original

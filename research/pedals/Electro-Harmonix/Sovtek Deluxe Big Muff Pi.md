@@ -27,11 +27,7 @@ Electro-Harmonix's Sovtek Deluxe Big Muff Pi is cataloged as a fuzz pedal.
 
 ## Sound
 
-Sovtek Deluxe Big Muff Pi Play Video Play Video Sovtek Deluxe Big Muff Pi Fuzz / Distortion / Sustainer The Sovtek signature sound - all here in one integrated pedal!
-
-Fuzz / Distortion / Sustainer Sovtek Deluxe Big Muff Pi quantity Find a Dealer Sovtek Deluxe Big Muff Pi DESCRIPTION Did you know?
-
-We’ve kept the familiar Sustain, Tone and Volume knobs, and we’ve added a ton of extras from the Deluxe Big Muff for those who crave its deep sound shaping abilities.
+No verified pedal-specific sonic summary is currently established in the archive.
 
 ## Sources checked
 1. Sovtek Deluxe Big Muff Pi | Fuzz / Distortion / Sustainer - Electro-Harmonix: https://www.ehx.com/products/sovtek-deluxe-big-muff-pi/

@@ -8,7 +8,7 @@
 
 ## What this pedal is
 
-Fuzzy Wooly Bear Published on October 9, 2005 Greer Amps fuzz pedal Information Nick Greer Amplification The Fuzzy Wooly Bear is a unique fuzz/overdrive pedal.
+Greer Amps's Fuzzy Wooly Bear is cataloged in the archive as a Fuzz / Overdrive pedal.
 
 ## Colorways
 - No specific factory colorway information was established in the verified evidence packet.

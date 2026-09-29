@@ -8,7 +8,7 @@
 
 ## What this pedal is
 
-Loverdrive Published on August 16, 2010 Alen Geere overdrive pedal Information Alen Geere Alen Geere Loverdrive has 3 gain stages and it is designed for middle and high gain stages.
+Alen Geere's Loverdrive is cataloged in the archive as a Overdrive pedal.
 
 ## Colorways
 - No specific factory colorway information was established in the verified evidence packet.

@@ -76,5 +76,5 @@ From the Art of the Home of Tone collection , Ziggy is wild, unpredictable, and 
 This cat fuzz that thrives on instability — because sometimes chaos is exactly what the song needs.
 
 ### Sources checked in this pass
-1. Brother Ziggy Fuzz Special Edition | Home of Tone Multi-Bias Fuzz Cat Pedal &mdash; TONECAT: https://www.tonecat.life/shop/p/brother-ziggy-fuzz-special-edition
+1. Brother Ziggy Fuzz Special Edition | Home of Tone Multi-Bias Fuzz Cat Pedal — TONECAT: https://www.tonecat.life/shop/p/brother-ziggy-fuzz-special-edition
 2. TONECAT Ziggy Fuzz Multi Bias Fuzz: https://www.upweymusic.au/products/tonecat-ziggy-fuzz-multi-bias-fuzz

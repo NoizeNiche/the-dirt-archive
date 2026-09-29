@@ -367,5 +367,5 @@ Analog **IC/op-amp-based** overdrive.
 
 ### Sources checked in this pass
 1. catalog/override source: https://reverb.com/uk/item/46912602-basic-audio-overtdrive
-2. Overtdrive &mdash; Basic Audio: https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-cnzrr-ksfg5-kba26-5yxez-twy6r-779zt
+2. Overtdrive — Basic Audio: https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-cnzrr-ksfg5-kba26-5yxez-twy6r-779zt
 3. Guitar Pedal X - GPX Blog - The Unsung King of Fuzz - John Lyons of Basic Audio: https://www.guitarpedalx.com/news/gpx-blog/the-unsung-king-of-fuzz---john-lyons-of-basic-audio

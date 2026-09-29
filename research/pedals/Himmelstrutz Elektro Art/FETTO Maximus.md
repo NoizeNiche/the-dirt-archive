@@ -28,11 +28,7 @@ Himmelstrutz Elektro Art's FETTO Maximus is cataloged as an overdrive pedal.
 
 ## Sound
 
-Himmelstrutz Elektro Art FETTO Maximus Home News Amps Pedals Custom Shop Download About Contact Himmelstrutz Elektro Art FETTO Maximus Not Available Maximused Drive And Boost Character Probably the most versatile FETTO so far made!
-
-String separation Matchless string separation/definition – at any DRIVE/BOOST level!
-
-Dynamics The most Dynamic FETTO model made, if you want (5–32 V internal power!) Creaminess The most Creamy FETTO model made, if you want (5–32 V internal power!) Punch The most Punchy FETTO model made, if you want (5–32 V internal power!) IN / OUT Input Input impedance : approx.
+No verified pedal-specific sonic summary is currently established in the archive.
 
 ## Sources checked
 1. Himmelstrutz Elektro Art FETTO Maximus: https://www.himmelstrutz.com/fetto-maximus/

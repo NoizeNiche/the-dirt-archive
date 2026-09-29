@@ -240,4 +240,4 @@ But it also is less compressed and super dynamic.
 Creating dynamic drives is our passion.
 
 ### Sources checked in this pass
-1. Dark Arts Drive Overdrive &mdash; Byron Amplification: https://byronamplification.com/pedals/darkartsdrive
+1. Dark Arts Drive Overdrive — Byron Amplification: https://byronamplification.com/pedals/darkartsdrive

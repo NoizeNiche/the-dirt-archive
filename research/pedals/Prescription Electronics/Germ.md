@@ -28,11 +28,7 @@ Prescription Electronics's Germ is cataloged as a distortion / overdrive pedal.
 
 ## Sound
 
-**Archive parent:** Germ - **Builder:** Prescription Electronics - **Catalog type:** Distortion / Overdrive - **Identity:** Prescription Electronics's Germ.
-
-Prescription Electronics's Germ is cataloged as a distortion / overdrive pedal.
-
-Related products Sale Death By Audio Evil Filter Octave Fuzz $149.00 $342.00 Sale Earthquaker Devices Rainbow Machine v2 Polyphonic Pitch Mesmerizer Teal & White $112.00 $224.00 Sale Dr.
+No verified pedal-specific sonic summary is currently established in the archive.
 
 ## Sources checked
 1. Prescription Electronics Germ - Reverb: https://reverb.com/item/99068802-prescription-electronics-germ

@@ -58,6 +58,6 @@ Each circuit is designed so that, when used together, they cascade into each oth
 I’m known for fuzz, and that is exactly why this pedal is different.
 
 ### Sources checked in this pass
-1. Motor Honey Superdrive &ndash; Stomp Under Foot: https://stompunderfoot.com/products/motor-honey-superdrive
-2. Stomp Under Foot Motor Honey Superdrive &ndash; Coast Sonic: https://coastsonic.com/products/stomp-under-foot-motor-honey-superdrive
+1. Motor Honey Superdrive – Stomp Under Foot: https://stompunderfoot.com/products/motor-honey-superdrive
+2. Stomp Under Foot Motor Honey Superdrive – Coast Sonic: https://coastsonic.com/products/stomp-under-foot-motor-honey-superdrive
 3. Stomp Under Foot Motor Honey Superdrive | Reverb: https://reverb.com/item/99269036-stomp-under-foot-motor-honey-superdrive

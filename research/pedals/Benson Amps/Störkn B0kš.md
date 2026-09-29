@@ -84,6 +84,6 @@ Storkn B0ks - **Builder:** Benson Amps - **Catalog type:** Fuzz - **Identity:** 
 Retains the Stonk Box's automatically thermally biased Germanium fuzz concept.
 
 ### Sources checked in this pass
-1. Benson Amps Storkn Boks (ȘTÖRKN B0kš) &ndash; Fuzz n Buzz: https://fuzznbuzzguitars.com/products/benson-amps-storkn-boks
-2. Störkn B0kš &mdash; BENSON AMPS: https://www.bensonamps.com/guitarpedals/strkn-b0k
+1. Benson Amps Storkn Boks (ȘTÖRKN B0kš) – Fuzz n Buzz: https://fuzznbuzzguitars.com/products/benson-amps-storkn-boks
+2. Störkn B0kš — BENSON AMPS: https://www.bensonamps.com/guitarpedals/strkn-b0k
 3. Benson Amps — Störkn B0kš: https://images.squarespace-cdn.com/content/v1/56c5480140261d141ef9243c/bf3b84ec-d7ff-4543-870b-70cb20a648af/stonk_01_9815.jpg

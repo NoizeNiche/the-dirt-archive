@@ -28,11 +28,7 @@ Electro-Harmonix's Pocket Metal Muff is cataloged in the archive as a Distortion
 
 ## Sound
 
-**Archive parent:** Pocket Metal Muff - **Builder:** Electro-Harmonix - **Catalog type:** Distortion - **Identity:** Electro-Harmonix's Pocket Metal Muff.
-
-Electro-Harmonix's Pocket Metal Muff is cataloged in the archive as a Distortion pedal.
-
-Rest assured that your order will make as small of a footprint as possible.* Related products Hardwire TL-2 Metal Distortion $ 74.00 TC Electronic Grand Magus Analog Distortion Pedal $ 29.00 BBE Green Screamer Overdrive Pedal $ 44.00 J.
+No verified pedal-specific sonic summary is currently established in the archive.
 
 ## Sources checked
 1. Electro-Harmonix Pocket Metal Muff — Distortion Pedal: https://equipboard.com/items/electro-harmonix-pocket-metal-muff

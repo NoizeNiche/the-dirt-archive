@@ -30,11 +30,9 @@ The GUNSHOT was designed to be the overdrive to beat all others.
 
 ## Sound
 
-Overdrive $237.00 $237.00 $0.00 Unit price / per Shipping calculated at checkout.
 
-Overdrive Increase quantity for GUNSHOT
 
-Overdrive Add to cart Description The all new look GUNSHOT (MKIIB)!
+Description The all new look GUNSHOT (MKIIB)!
 
 ## Sources checked
 1. GUNSHOT | Overdrive: https://thorpyfx.com/en-us/products/the-gunshot-overdrive
@@ -173,9 +171,7 @@ The GUNSHOT was designed to be the overdrive to beat all others.
 - LED.
 
 ### Verified sound evidence
-Overdrive $237.00 $237.00 $0.00 Unit price / per Shipping calculated at checkout.
-Overdrive Increase quantity for GUNSHOT
-Overdrive Add to cart Description The all new look GUNSHOT (MKIIB)!
+Description The all new look GUNSHOT (MKIIB)!
 
 ### Sources checked in this pass
 1. GUNSHOT | Overdrive: https://thorpyfx.com/en-us/products/the-gunshot-overdrive
@@ -183,7 +179,7 @@ Overdrive Add to cart Description The all new look GUNSHOT (MKIIB)!
 3. ThorpyFX Gunshot Overdrive - Reverb: https://reverb.com/p/thorpyfx-gunshot-overdrive
 4. Thorpyfx Gunshot Review: A Deep Dive into the Analog Drum Synth Pedal | GearStrings: https://gearstrings.com/gear-reviews/thorpyfx-gunshot-review
 5. ThorpyFX Gunshot Review - Premier Guitar: https://www.premierguitar.com/gear/thorpyfx-gunshot-review
-6. ThorpyFX Gunshot v2 Overdrive Pedal &ndash; Soft Noise Audio: https://softnoiseaudio.com/products/thorpy-fx-gunshot
+6. ThorpyFX Gunshot v2 Overdrive Pedal – Soft Noise Audio: https://softnoiseaudio.com/products/thorpy-fx-gunshot
 7. ThorpyFx The Gunshot MKIIB Overdrive Pedal Owner's Manual: https://manuals.plus/m/41613e9abb7890300ad827dc79a444b068d98b1e199a0c6a102b3adba0666cc1
 8. ThorpyFx GUNSHOT Effects Pedal Overdrive MKIIB Instruction Manual: https://device.report/manual/17990050
 9. Gunshot v2 by ThorpyFX | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/ThorpyFX/Gunshot-v2/68985497/

@@ -265,4 +265,4 @@ Supa Tweak - **Builder:** Basic Audio - **Catalog type:** Fuzz - **Identity:** E
 **Interstage LOW/GAIN CUT:** Reduces the low-frequency/gain feed between stages and improves cleanup.
 
 ### Sources checked in this pass
-1. Supa Tweak &mdash; Basic Audio: https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-cnzrr-bfrf8
+1. Supa Tweak — Basic Audio: https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-cnzrr-bfrf8

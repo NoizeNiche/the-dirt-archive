@@ -8,7 +8,7 @@
 
 ## What this pedal is
 
-Methoxy Overdrive Published on June 14, 2018 Alen Geere boost / preamp overdrive pedal Information Alen Geere Methoxy is a low to medium gain, tube-like overdrive pedal that we designed to get a€oeCranked 6V6 loaded tube ampa€ like tones.
+Alen Geere's Methoxy Overdrive is cataloged in the archive as a Overdrive pedal.
 
 ## Colorways
 - No specific factory colorway information was established in the verified evidence packet.

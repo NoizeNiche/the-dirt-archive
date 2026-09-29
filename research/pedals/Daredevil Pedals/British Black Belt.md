@@ -8,7 +8,7 @@
 
 ## What this pedal is
 
-British Black Belt Published on December 20, 2023 Daredevil Pedals overdrive pedal gold edition gold edition Information Daredevil Pedals This is the Daredevil British Black Belt Drive Electric Guitar Effect Pedal.
+Daredevil Pedals's British Black Belt is cataloged in the archive as a Distortion pedal.
 
 ## Colorways
 - Published on December 20, 2023 Daredevil Pedals overdrive pedal gold edition gold edition Information Daredevil Pedals This is the Daredevil British Black Belt Drive Electric Guitar Effect Pedal.

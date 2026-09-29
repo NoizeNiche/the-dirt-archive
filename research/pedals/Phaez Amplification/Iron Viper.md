@@ -160,5 +160,5 @@ The Dirt Archive currently catalogs **Iron Viper** by **Phaez Amplification** as
 Phaez's manufacturer pedal lineup identifies **Iron Viper** and describes it as based on the BJFe Dyna Red Distortion.
 
 ### Sources checked in this pass
-1. Here is a clip of the Phaez Iron Viper pedal into the EL34 Blackwater amp. The Iron Viper is a distortion pedal with a really nice chewy tone, the amp is wonderful clean machine, and the two complement each other wonderfully. The iphone has compression in the software what makes seem my speaking voice is as a loud as the amp but that ain't the case. Was loud but not obscenely so. I mention at the end the video that I will be including an Iron Viper pedal with the purchase of the EL34 Blackwater. Check my website. Cheers! | Phaez Amplification: https://www.facebook.com/PhaezAmplification/videos/here-is-a-clip-of-the-phaez-iron-viper-pedal-into-the-el34-blackwater-amp-the-ir/1060116588588493/
+1. facebook.com: https://www.facebook.com/PhaezAmplification/videos/here-is-a-clip-of-the-phaez-iron-viper-pedal-into-the-el34-blackwater-amp-the-ir/1060116588588493/
 2. PEDALS - Phaez Amplification: https://phaezamplification.com/pedals/

@@ -304,5 +304,5 @@ Adjustable bias for a clearer or more aggressive tone with more grunt and semi o
 **Archive parent:** Zonk - **Builder:** Basic Audio - **Catalog type:** Fuzz - **Identity:** Silicon Zonk Machine-style fuzz with the Tone control also functioning as an adjustable bias, allowing a leaner or more aggressive voice.
 
 ### Sources checked in this pass
-1. Zonk &mdash; Basic Audio: https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-cnzrr-ksfg5-kba26-5yxez-twy6r-779zt-w9pdt
+1. Zonk — Basic Audio: https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-cnzrr-ksfg5-kba26-5yxez-twy6r-779zt-w9pdt
 2. Basic Audio — Zonk: https://images.squarespace-cdn.com/content/v1/5da9e97016ddf940acffa2d3/1576074847501-EMD2FDRRJRNNTC5A64YJ/DSCF7370.jpg
