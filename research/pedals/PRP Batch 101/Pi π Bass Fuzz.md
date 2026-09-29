@@ -45,7 +45,5 @@ BLACKHAWK AMPLIFIERS “CHERNOBYL” PI π BASS FUZZ IS BACK!!
 ### Verified sound evidence
 BLACKHAWK AMPLIFIERS “CHERNOBYL” PI π BASS FUZZ IS BACK!!
 “CHERNOBYL” PI π BASS FUZZ IS BACK!!
-Products GIFT CARDS NEWS Contact Cart ( 0 ) Products GIFT CARDS NEWS Contact Cart ( 0 ) PI π BASS FUZZ MKII (RUSSIAN) $ 290.00 Add to cart THE “CHERNOBYL” PI π BASS FUZZ IS BACK!!!
-
 ### Sources checked in this pass
 1. PI π BASS FUZZ MKII (RUSSIAN) | BLACKHAWK AMPLIFIERS: https://www.blackhawkamplifiers.com/product/pi-bass-fuzz-russian
