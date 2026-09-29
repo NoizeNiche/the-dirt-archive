@@ -228,6 +228,7 @@ jobs:
           python scripts/prune-photo-review-queue.py
           python scripts/refresh-image-cache-report.py
           python scripts/verify-photo-state.py
+          python scripts/prune-orphaned-photo-assets.py
 
       - name: Gate canonical photo movement
         id: photo_gate
