@@ -43955,7 +43955,8 @@
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
       "image_source_priority": 1307,
-      "image_source_url": "https://files.effectsdatabase.com/gear/pics/lovetone_bigcheese_001.jpg"
+      "image_source_url": "https://files.effectsdatabase.com/gear/pics/lovetone_bigcheese_001.jpg",
+      "image": "./assets/pedals/lovetone/big-cheese/primary.webp"
     },
     {
       "company": "Lovetone",
@@ -56840,7 +56841,8 @@
       "research_record": "./research/pedals/VOX/VOX 7001 Distortion.md",
       "image_source_page": "https://www.bashsmusic.com.au/product/vox-pathfinder-10-limited-edition-red/",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image": "./assets/pedals/vox/vox-7001-distortion/primary.webp"
     },
     {
       "company": "Walrus Audio",
@@ -57581,7 +57583,8 @@
       "research_record": "./research/pedals/Wampler Pedals/Phenom Distortion.md",
       "image_source_page": "https://reverb.com/item/93208679-wampler-phenom-distortion-2022-present-navy",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image": "./assets/pedals/wampler-pedals/phenom-distortion/primary.webp"
     },
     {
       "company": "Wampler Pedals",

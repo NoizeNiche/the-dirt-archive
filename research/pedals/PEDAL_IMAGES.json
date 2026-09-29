@@ -23384,7 +23384,7 @@
   {
     "builder": "Lovetone",
     "pedal": "Big Cheese",
-    "image": null,
+    "image": "./assets/pedals/lovetone/big-cheese/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/lovetone/bigcheese",
     "research_record": "./research/pedals/Lovetone/Big Cheese.md",
     "image_source_url": "https://files.effectsdatabase.com/gear/pics/lovetone_bigcheese_001.jpg"
@@ -30189,7 +30189,7 @@
   {
     "builder": "VOX",
     "pedal": "VOX 7001 Distortion",
-    "image": null,
+    "image": "./assets/pedals/vox/vox-7001-distortion/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/VOX/VOX 7001 Distortion.md"
   },
@@ -30585,7 +30585,7 @@
   {
     "builder": "Wampler Pedals",
     "pedal": "Phenom Distortion",
-    "image": null,
+    "image": "./assets/pedals/wampler-pedals/phenom-distortion/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Wampler Pedals/Phenom Distortion.md"
   },
