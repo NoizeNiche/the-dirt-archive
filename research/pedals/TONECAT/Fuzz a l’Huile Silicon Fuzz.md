@@ -29,7 +29,6 @@ Fuzz à l’Huile is a boutique silicon fuzz pedal inspired by the legendary vin
 ## Sound
 Fuzz à l’Huile is a boutique silicon fuzz pedal inspired by the legendary vintage Fuzz Face circuit — reimagined through the slightly absurd world of pantry-grade tinned fish.
 Built around a classic silicon fuzz face–style topology, this handmade fuzz pedal delivers smooth sustain, rich harmonic saturation, and responsive clean-up with your guitar’s volume control.
-🚚 Free Shipping Australia-wide 🇦🇺 Hand-built in Melbourne ♾️ Limited-Lifetime Warranty Pairs well with your tone.
 
 ## Sources checked
 1. Fuzz à l’Huile | Boutique Silicon Fuzz Face Style Pedal ($99 Fuzz Pedal + Maurice the Mackerel) — TONECAT: https://www.tonecat.life/shop/p/tonecat-fuzz-a-lhuile-silicon-fuzz-vintage-distortion-fuzz
