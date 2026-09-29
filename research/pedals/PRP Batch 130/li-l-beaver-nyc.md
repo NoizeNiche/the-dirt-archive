@@ -39,7 +39,6 @@ This pass adds only claims supported by the newly admitted exact-model evidence.
 Build Your Own Clone's Li'l Beaver (NYC) is cataloged as a fuzz pedal.
 
 ### Verified color/finish evidence
-- Δ More Schematics Based On: Darkglass B3k Black Mirror by PCB Guitar Mania Add To Cart Based On: Marshall AFD Appetite for Distortion by PCB Guitar Mania Add To Cart Based On: Darkglass Vintage Microtubes Black Mirror Bass Tubes by PCB Guitar Mania Add To Cart (c) Stomp Box Schematics
 
 ### Verified transistor/device terms
 - 2N5088.
@@ -47,7 +46,6 @@ Build Your Own Clone's Li'l Beaver (NYC) is cataloged as a fuzz pedal.
 ### Verified sound evidence
 The kit includes metal film resistors and metallized polyester film capacitors, which deliver vintage tone with reduced noise compared to the original.
 The Deluxe version adds additional controls for tone shaping, allowing for more versatility in shaping your sound.
-Δ More Schematics Based On: Darkglass B3k Black Mirror by PCB Guitar Mania Add To Cart Based On: Marshall AFD Appetite for Distortion by PCB Guitar Mania Add To Cart Based On: Darkglass Vintage Microtubes Black Mirror Bass Tubes by PCB Guitar Mania Add To Cart (c) Stomp Box Schematics
 
 ### Sources checked in this pass
 1. Li'l Beaver (NYC) Kit by Build Your Own Clone (BYOC) - Stomp Box Schematics: https://stompboxschematics.com/circuits/lil-beaver-nyc-kit-by-build-your-own-clone-byoc/
