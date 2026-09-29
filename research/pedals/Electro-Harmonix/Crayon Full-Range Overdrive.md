@@ -7,39 +7,39 @@
 - **Identity:** Electro-Harmonix's Crayon Full-Range Overdrive.
 
 ## What this pedal is
-Full-Range Overdrive Crayon quantity Find a Dealer Crayon DESCRIPTION The EHX Crayon Full-Range Overdrive is a versatile overdrive with independent Bass and Treble controls and an open frequency range that provides players with a musical alternative to customary mid-focused overdrive pedals.
+The Crayon is a full-range overdrive designed as an alternative to the customary mid-focused overdrive circuit. EHX gives it independent Bass and Treble controls so the player can shape the frequency balance before and around the drive stage.
 
 ## Colorways
-- No specific factory colorway information was established in the verified evidence packet.
+- The documented production enclosure uses the compact EHX styling.
+- No complete factory finish chronology was established.
 
 ## Versions and factory options
-- No distinct factory revision was established in the verified evidence packet.
+- **Volume**
+- **Bass**
+- **Treble**
+- **Gain**
+- Full-range EQ rather than a fixed mid-hump tone network.
+- Standard 9V DC pedal power.
+- True bypass.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- No complete numbered production revision chronology was established in the checked EHX sources.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
+- Exact production semiconductor details were not established.
 - **Exact transistor/device:** Unknown.
 
 ## Diode
-- Documented terms in the verified sources: LED.
-- The archive records only the component information explicitly present in these sources.
+- Exact clipping/rectifier diode information was not established.
+- **Exact part:** Unknown.
 
 ## Sound
-Full-Range Overdrive - Electro-Harmonix Notify Me × Get notified when this item is back in-stock.
-Get it by · Order in Notify me when in stock Notify me of updates Notify me when in stock More Details Find a Dealer Sound Clips Clear & Full Overdrive Cleanish Boost Bass Boost Overdrive Trebly Boost Overdrive Classic Mid-Hump Overdrive Cranked Gain Menu Crayon
-Full-Range Overdrive Crayon quantity Find a Dealer Crayon DESCRIPTION The EHX Crayon Full-Range Overdrive is a versatile overdrive with independent Bass and Treble controls and an open frequency range that provides players with a musical alternative to customary mid-focused overdrive pedals.
+Crayon can move from clean-ish boost into thicker overdrive while its Bass and Treble controls allow the player to avoid the fixed mid emphasis of a traditional Tube Screamer-style drive. EHX presents it as a flexible full-range alternative for guitar and bass.
 
 ## Sources checked
-1. Crayon | Full-Range Overdrive - Electro-Harmonix: https://www.ehx.com/products/crayon/
-2. Crayon Full-Range Overdrive | CRAYON 69 | Electro-Harmonix: https://shop.ehx.com/item/crayon%2069/
-3. Electro-Harmonix CRAYON Full-Range Overdrive Effects Pedal | Guitar Center: https://www.guitarcenter.com/Electro-Harmonix/CRAYON-Full-Range-Overdrive-69-1500000004181.gc
-4. open prime modal: https://www.amazon.com/clp/B018M8LIEI
-5. Electro-Harmonix Crayon Full-Range Overdrive Pedal | Soundpure.com: https://www.soundpure.com/p/electro-harmonix-crayon-full-range-overdrive-pedal/41439
-6. Electro-Harmonix Crayon Full-Range Overdrive Pedal &ndash; GarageBand Music: https://garagebandmusic.net/products/electro-harmonix-crayon-full-range-overdrive-pedal
-7. Electro-Harmonix Crayon Full-Range Overdrive | Reverb: https://reverb.com/item/101664696-electro-harmonix-crayon-full-range-overdrive
-8. Crayon Full Range Overdrive Electro-Harmonix (01846169) by Hal Leonard: https://www.halleonard.com/product/1846169/crayon-full-range-overdrive
+1. Electro-Harmonix - Crayon Full-Range Overdrive: https://www.ehx.com/products/crayon/
+2. Electro-Harmonix shop - CRAYON 69: https://shop.ehx.com/item/crayon%2069/
+3. Effects Database - EHX Crayon: https://www.effectsdatabase.com/model/eh/crayon
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.

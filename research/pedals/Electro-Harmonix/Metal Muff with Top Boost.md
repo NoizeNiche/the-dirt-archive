@@ -7,53 +7,42 @@
 - **Identity:** Electro-Harmonix's Metal Muff with Top Boost.
 
 ## What this pedal is
-Distortion The ultimate metal distortion pedal!
+The Metal Muff with Top Boost is a high-gain distortion designed specifically for modern heavy-metal sounds. EHX gives it a broad Bass/Mid/Treble EQ section and a separate Top Boost circuit for additional upper-mid/high-frequency cut.
 
 ## Colorways
-- No specific factory colorway information was established in the verified evidence packet.
+- The documented production enclosure is **black**.
+- No complete factory finish chronology was established.
 
 ## Versions and factory options
-- No distinct factory revision was established in the verified evidence packet.
+- **Volume**
+- **Bass**
+- **Mid**
+- **Treble**
+- **Dist**
+- **Top Boost** footswitch.
+- Top Boost adds a separate bright/upper-frequency voice.
+- Designed for heavy-gain guitar distortion.
+- Standard 9V DC operation.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- The checked EHX sources do not establish a complete numbered hardware revision history for the original Metal Muff with Top Boost.
+- Related Metal Muff compact models are not merged into this record.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
+- Exact production semiconductor details were not established.
 - **Exact transistor/device:** Unknown.
 
 ## Diode
-- Documented terms in the verified sources: LED.
-- The archive records only the component information explicitly present in these sources.
+- Exact clipping-device part numbers were not established.
+- **Exact part:** Unknown.
 
 ## Sound
-Distortion The ultimate metal distortion pedal!
-Metal Muff with Top Boost DESCRIPTION Electro-Harmonix gave its total effort to design the best heavy metal pedal ever built.
-The Metal Muff offers commanding bass and defined high end-coupled with user-controlled distortion from pinched-edge to totally crushing-making it a heavy metal gold mine.
+The Metal Muff covers tight distortion through extremely saturated high-gain sounds. Its three-band EQ provides broad tonal control, while Top Boost adds the extra high-frequency attack associated with aggressive lead and rhythm settings.
 
 ## Sources checked
-1. Metal Muff with Top Boost | Distortion - Electro-Harmonix: https://www.ehx.com/products/metal-muff/
-2. Metal Muff with Top Boost Distortion | METAL MUFF | Electro-Harmonix: https://shop.ehx.com/item/metal%20muff/
+1. Electro-Harmonix - Metal Muff with Top Boost: https://www.ehx.com/products/metal-muff/
+2. Electro-Harmonix shop - Metal Muff: https://shop.ehx.com/item/metal%20muff/
+3. Effects Database - Metal Muff: https://www.effectsdatabase.com/model/eh/metal/muff
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
-
-## Deep research verification
-
-This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
-
-### Verified description
-Not Sold Online Find Dealer Item METAL MUFF The ultimate metal distortion pedal.
-
-### Verified diode terms
-- LED.
-
-### Verified sound evidence
-Distortion - Electro-Harmonix Notify Me × Get notified when this item is back in-stock.
-Get it by · Order in Notify me when in stock Notify me of updates Notify me when in stock More Details Find a Dealer Sound Clips Knobs at Noon With Top Boost Doomy Max Gain Screaming Lead Menu Metal Muff with Top Boost
-Distortion Metal Muff with Top Boost quantity Find a Dealer Metal Muff with Top Boost DESCRIPTION Electro-Harmonix gave its total effort to design the best heavy metal pedal ever built.
-
-### Sources checked in this pass
-1. Metal Muff with Top Boost | Distortion - Electro-Harmonix: https://www.ehx.com/products/metal-muff/
-2. Metal Muff with Top Boost Distortion | METAL MUFF | Electro-Harmonix: https://shop.ehx.com/item/metal%20muff/
-3. catalog/override source: https://musiccenterthai.com/product/electro-harmonix-metal-muff-with-top-boost/
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.

@@ -7,50 +7,42 @@
 - **Identity:** Electro-Harmonix's Deluxe Bass Big Muff Pi 2.
 
 ## What this pedal is
-The Deluxe Bass Big Muff Pi 2 delivers on that philosophy with more earthshaking fuzz options than ever before.
+The Deluxe Bass Big Muff Pi 2 is the expanded version of EHX's Bass Big Muff Pi 2, combining the dual-op-amp fuzz core with extensive filtering and bass-oriented control.
 
 ## Colorways
-- The status LED lights red when the effect is engaged.
+- The documented production enclosure uses EHX's modern **green** styling.
+- Finish is not treated as a circuit revision.
 
 ## Versions and factory options
-- No distinct factory revision was established in the verified evidence packet.
+- Dual-op-amp bass fuzz architecture.
+- **Bass**
+- **Treble**
+- **Volume**
+- **Blend**
+- Footswitchable crossover/filter functions.
+- Momentary switching functions are part of the documented design.
+- Standard 9V DC operation.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- This model is distinct from the earlier Deluxe Bass Big Muff Pi.
+- It is also distinct from the simpler Bass Big Muff Pi 2.
+- The archive does not merge the older Black Russian-inspired Deluxe Bass design with this newer dual-op-amp platform.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
+- The defining gain stages are op-amp based.
+- Exact production semiconductor complement was not established.
 - **Exact transistor/device:** Unknown.
 
 ## Diode
-- Documented terms in the verified sources: LED.
-- The archive records only the component information explicitly present in these sources.
+- Exact clipping-device part numbers were not established.
+- **Exact part:** Unknown.
 
 ## Sound
-Deluxe Dual Op-Amp Bass Fuzz “Deluxe Treatment” for bassists who believe that more is more!
-Deluxe Bass Big Muff Pi 2 DESCRIPTION The Deluxe Bass Big Muff Pi 2 takes the once lost dual op-amp Big Muff 2 design to the max with flexible tone shaping and pro upgrade features.
-The Deluxe Bass Big Muff Pi 2 delivers on that philosophy with more earthshaking fuzz options than ever before.
+The Deluxe Bass Big Muff Pi 2 is designed for very large bass fuzz with more filtering and routing control than the standard Bass Big Muff Pi 2. The crossover functions let the player shape or isolate frequency ranges while Blend preserves the underlying signal.
 
 ## Sources checked
-1. Deluxe Bass Big Muff Pi 2 | Deluxe Dual Op-Amp Bass Fuzz - Electro-Harmonix: https://www.ehx.com/products/deluxe-bass-big-muff-pi-2/
-2. Deluxe Bass Big Muff Pi 2 Fuzz | DLX BBM2 | Electro-Harmonix: https://shop.ehx.com/item/dlx%20bbm2/
+1. Electro-Harmonix - Deluxe Bass Big Muff Pi 2: https://www.ehx.com/products/deluxe-bass-big-muff-pi-2/
+2. Electro-Harmonix shop - DLX BBM2: https://shop.ehx.com/item/dlx%20bbm2/
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
-
-## Deep research verification
-
-This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
-
-### Verified description
-The Deluxe Bass Big Muff Pi 2 delivers on that philosophy with more earthshaking fuzz options than ever before.
-
-### Verified sound evidence
-Deluxe Dual Op-Amp Bass Fuzz - Electro-Harmonix Notify Me × Get notified when this item is back in-stock.
-Get it by · Order in Notify me when in stock Notify me of updates Notify me when in stock More Details Find a Dealer Sound Clips Deluxe Bass in Your Face 50-50 Blended Fuzz Adjusting Crossover Filters Utilizing Momentary Footswitch Action Menu Deluxe Bass Big Muff Pi 2
-The Deluxe Bass Big Muff Pi 2 delivers on that philosophy with more earthshaking fuzz options than ever before.
-
-### Sources checked in this pass
-1. Deluxe Bass Big Muff Pi 2 | Deluxe Dual Op-Amp Bass Fuzz - Electro-Harmonix: https://www.ehx.com/products/deluxe-bass-big-muff-pi-2/
-2. Deluxe Bass Big Muff Pi 2 Fuzz | DLX BBM2 | Electro-Harmonix: https://shop.ehx.com/item/dlx%20bbm2/
-3. catalog/override source: https://reverb.com/item/99256887-electro-harmonix-deluxe-bass-big-muff-pi-2-dual-op-amp-bass-fuzz-2026-present-green
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.

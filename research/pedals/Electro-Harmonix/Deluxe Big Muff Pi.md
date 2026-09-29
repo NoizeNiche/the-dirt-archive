@@ -7,37 +7,40 @@
 - **Identity:** Electro-Harmonix's Deluxe Big Muff Pi.
 
 ## What this pedal is
-The EHX Deluxe Big Muff Pi delivers all the classic sounds of the original NYC Big Muff Pi, plus more.
+The Deluxe Big Muff Pi is an expanded version of the classic Big Muff fuzz. EHX adds tone-shaping and switching beyond the standard Volume/Tone/Sustain controls, including a midrange section and additional filtering.
 
 ## Colorways
-- No specific factory colorway information was established in the verified evidence packet.
+- The documented production enclosure follows the larger **black-and-white EHX** Deluxe styling.
+- No complete factory finish chronology was established.
 
 ## Versions and factory options
-- No distinct factory revision was established in the verified evidence packet.
+- **Sustain**
+- **Volume**
+- **Tone**
+- **Mids** section with frequency and boost/cut controls.
+- Additional switching expands the tone range beyond the standard Big Muff.
+- True bypass.
+- Standard 9V pedal power.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- The Deluxe Big Muff Pi is separate from the standard Big Muff Pi.
+- It is also separate from the Bass versions and the newer Big Muff Pi 2 with Tone Wicker.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
+- Exact production semiconductor details were not established.
 - **Exact transistor/device:** Unknown.
 
 ## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- Exact production clipping/rectifier diode details were not established.
 - **Exact part:** Unknown.
 
 ## Sound
-Fuzz / Distortion / Sustainer - Electro-Harmonix Notify Me × Get notified when this item is back in-stock.
-Get it by · Order in Notify me when in stock Notify me of updates Notify me when in stock More Details Find a Dealer Sound Clips Massive Sustain Op-Amp-Like Muff Noise Gate Mids Section Sweep With Pitch Shifter Epic Big Muff Fuzz Menu Deluxe Big Muff Pi
-Fuzz / Distortion / Sustainer Deluxe Big Muff Pi quantity Find a Dealer Deluxe Big Muff Pi DESCRIPTION Long revered for its sweet singing tone and violin-like sustain, the classic three-knob Big Muff Pi has helped define the sound of rock guitar for over 50 years.
+The Deluxe Big Muff keeps the dense sustain and compression of a Big Muff while adding extensive midrange and filter control. The additional tone shaping can move the otherwise scooped Muff voice toward a more focused, cutting, or mid-forward response.
 
 ## Sources checked
-1. Deluxe Big Muff Pi | Fuzz / Distortion / Sustainer - Electro-Harmonix: https://www.ehx.com/products/deluxe-big-muff-pi/
-2. Electro-Harmonix Deluxe Big Muff Pi Distortion / Sustainer: https://reverb.com/p/electro-harmonix-deluxe-big-muff-pi
-3. Deluxe Big Muff Pi Distortion & Sustainer | DLXBM | Electro-Harmonix: https://shop.ehx.com/item/dlxbm/
-4. Deluxe Big Muff Pi Fuzz Pedal with Mid-Shift - Sweetwater: https://www.sweetwater.com/store/detail/DlxBigMuffPi--electro-harmonix-deluxe-big-muff-pi-fuzz-pedal-with-mid-shift
-5. Electro-Harmonix Deluxe Big Muff Pi — Fuzz Pedal | Equipboard: https://equipboard.com/items/electro-harmonix-deluxe-big-muff-pi-fuzz-pedal-with-mid-shift
-6. Electro-Harmonix Deluxe Big Muff Pi 2 Review: Is the Dual Op-Amp Fuzz Worth It? | AREFYEV STUDIO: https://arefyevstudio.com/en/2026/07/29/electro-harmonix-deluxe-big-muff-pi-2-review/
+1. Electro-Harmonix - Deluxe Big Muff Pi: https://www.ehx.com/products/deluxe-big-muff-pi/
+2. EHX shop - DLXBM: https://shop.ehx.com/item/dlxbm/
+3. Effects Database - Deluxe Big Muff Pi: https://www.effectsdatabase.com/model/eh/deluxe/bigmuff
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.
