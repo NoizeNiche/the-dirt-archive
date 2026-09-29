@@ -25,7 +25,7 @@ permissions:
   actions: write
 
 concurrency:
-  group: dirt-photo-recovery-v4
+  group: dirt-archive-publisher-v1
   # Let an active recovery/merge finish. A newer trigger may supersede the queue,
   # but must not interrupt a photo batch after it has started modifying the archive.
   cancel-in-progress: false
