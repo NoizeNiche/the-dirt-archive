@@ -10,10 +10,10 @@ ROOT = Path(__file__).resolve().parents[1]
 RESEARCH = ROOT / "research/pedals"
 
 SHELL_MARKERS = (
-    "skip to content", "skip to main content", "log in", "sign in",
+    "skip to content", "skip to main content", "log in now", "log in to suggest improvements", "sign in",
     "open menu", "close menu", "shopping bag", "site navigation",
     "log in to suggest improvements", "related brands", "related tags",
-    "your cart is empty", "continue shopping",
+    "your cart is empty", "continue shopping", "navigation menu", "personal tools", "namespaces", "view source", "view history",
 )
 CODE_MARKERS = (
     "var productimageandprice", "mmlivicons", "mmmenustrings",
@@ -35,7 +35,9 @@ def strong_shell(line: str) -> bool:
     lower = line.lower()
     hits = sum(marker in lower for marker in SHELL_MARKERS)
     return hits >= 1 and (
-        hits >= 2 or "pedalpedia" in lower or "chicago music exchange" in lower
+        hits >= 2 or "log in now" in lower or "log in to suggest improvements" in lower
+        or "navigation menu" in lower or "personal tools" in lower or "namespaces" in lower
+        or "pedalpedia" in lower or "chicago music exchange" in lower
         or "rockboard" in lower or "skip to" in lower
     )
 
@@ -165,6 +167,9 @@ def clean_file(path: Path) -> bool:
         lower = line.lower()
         if ("view more at a glance" in lower or "current price is usd" in lower
             or "has nrtl listing certification" in lower
+            or "cookie preferences" in lower
+            or ("about • collections • blog • compare • privacy policy" in lower)
+            or ("pedalfilter the guitar pedal database" in lower)
             or lower in {"cookie preferences", "cookie policy", "privacy policy"}):
             changed = True
             continue
