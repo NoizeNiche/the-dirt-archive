@@ -53,6 +53,32 @@ def blocked_photo_values(values):
     return list(dict.fromkeys(reasons))
 
 
+def load_identity_quarantine():
+    rows = {}
+    try:
+        with PHOTO_IDENTITY_QUARANTINE.open(newline="", encoding="utf-8") as handle:
+            for row in csv.DictReader(handle):
+                k = key(row.get("Builder"), row.get("Pedal"))
+                url = str(row.get("Blocked Image URL") or "").strip().lower()
+                if k[0] and k[1] and url:
+                    rows.setdefault(k, set()).add(url)
+    except Exception:
+        pass
+    return rows
+
+
+def identity_quarantine_reasons(identity, values, quarantine):
+    blocked = quarantine.get(identity, set())
+    if not blocked:
+        return []
+    reasons = []
+    for value in values:
+        lowered = str(value or "").strip().lower()
+        if lowered and lowered in blocked:
+            reasons.append("identity-specific photo quarantine: " + lowered)
+    return list(dict.fromkeys(reasons))
+
+
 def is_local_image(value):
     value = str(value or "").strip()
     if not value or re.match(r"^https?://", value, re.I):
@@ -127,6 +153,7 @@ def main():
         for row in manifest
     }
 
+    identity_quarantine = load_identity_quarantine()
     reset = 0
     removed = []
     for target_key in sorted(targets):
@@ -155,6 +182,8 @@ def main():
         ]
         source_values.extend(str(value or "") for value in (entry.get("image_source_urls") or []))
         source_values.extend(str(value or "") for value in (entry.get("image_source_pages") or []))
+        if not reasons:
+            reasons.extend(identity_quarantine_reasons(target_key, source_values, identity_quarantine))
         if not reasons:
             blocked = blocked_photo_values(source_values)
             if blocked:
