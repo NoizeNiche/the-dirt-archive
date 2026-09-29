@@ -11,12 +11,12 @@ The SM-9 Pro+ Super Metal was designed specifically for high-gain metal distorti
 
 ## Versions and factory options
 - High-gain distortion design.
-- Cut/boost-oriented EQ shaping for the midrange.
+- Midrange shaping is central to the voicing.
 - The checked historical sources treat the SM-9 Pro+ as part of Maxon's 9-series metal-oriented designs.
 
 ## Version changes
 - The archive keeps **SM-9 Pro+** distinct from the related ST-9 and other Maxon 9-series pedals.
-- The two archive spellings, “SM-9Pro Super Metal Pro+” and “SM-9Pro+ Super Metal Pro+,” are treated as naming variants unless hardware evidence proves otherwise.
+- The similarly named archive spelling is treated as a naming variant unless hardware evidence proves otherwise.
 
 ## Transistor
 - Exact production semiconductor complement was not established.
