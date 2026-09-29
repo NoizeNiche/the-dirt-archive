@@ -34,7 +34,6 @@ The Advanced version adds substantial tonal control compared with the standard t
 ## Transistor
 - Effects Database's review describes the standard Sally Drive's build as using metal-can transistors and premium components, but does not establish exact production part numbers. [3]
 - **Exact production transistor/device:** Unknown.
-
 ## Diode
 - Exact clipping/rectifier diode part numbers were not established in the reviewed sources.
 - **Exact part:** Unknown.
