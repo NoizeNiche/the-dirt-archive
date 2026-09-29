@@ -26,11 +26,11 @@ The Octave Fuzz with Stank is a rectified octave-up fuzz loosely based on the Oc
 - Rectification is central to the octave circuit, but exact production diode parts were not established.
 
 ## Sound
-The pedal moves from shimmering octave-up fuzz toward filthy, overloaded octave textures as Stank is increased. Blend can preserve some of the dry signal for better note definition.
+The pedal moves from shimmering octave-up fuzz toward overloaded octave textures as Stank is increased. Blend can preserve some of the dry signal for better note definition.
 
 ## Sources checked
 1. McGregor Pedals - Fuzz Pedals: https://www.mcgregorpedals.com/collections/fuzz-pedals
-2. McGregor Pedals - Octave Fuzz with Stank product family: https://www.mcgregorpedals.com/products/octave-fuzz-with-stank
+2. McGregor Pedals - Octave Fuzz with Stank: https://www.mcgregorpedals.com/products/octave-fuzz-with-stank
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.
