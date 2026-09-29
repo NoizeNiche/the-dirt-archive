@@ -205,6 +205,54 @@
       "pattern": "https://www.bashsmusic.com.au/wp-content/uploads/VOX-PFINDER10RD_3-1000x717.webp",
       "reason": "VOX Pathfinder 10 amplifier image incorrectly reused as multiple pedal photos.",
       "severity": "hard_block"
+    },
+    {
+      "type": "exact_url",
+      "pattern": "https://cdn.prod.website-files.com/57e45fc3d0ac813956dc9506/58dbc357a06f57d60676130f_open-graph-home.jpg",
+      "reason": "BSQ Effects Open Graph home artwork reused for distinct pedal records.",
+      "severity": "hard_block"
+    },
+    {
+      "type": "exact_url",
+      "pattern": "https://www.tonehome.de/s/img/emotionheader.jpg",
+      "reason": "ToneHome generic header artwork, not an exact pedal photograph.",
+      "severity": "hard_block"
+    },
+    {
+      "type": "exact_url",
+      "pattern": "https://www.tonehome.de/s/img/emotionheader.jpg?1360955449.940px.210px",
+      "reason": "ToneHome generic header artwork, not an exact pedal photograph.",
+      "severity": "hard_block"
+    },
+    {
+      "type": "exact_url",
+      "pattern": "https://static.wixstatic.com/media/4b9583_e3f208948dad43e9a21fc03c7fb15e7d~mv2.jpg/v1/fill/w_286,h_286,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/4b9583_e3f208948dad43e9a21fc03c7fb15e7d~mv2.jpg",
+      "reason": "Broughton Audio archive thumbnail reused for multiple distinct pedals.",
+      "severity": "hard_block"
+    },
+    {
+      "type": "exact_url",
+      "pattern": "https://static.wixstatic.com/media/4b9583_c7cb05d63ac34260a9b010109e15d8f0~mv2.png/v1/fill/w_286,h_286,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/4b9583_c7cb05d63ac34260a9b010109e15d8f0~mv2.png",
+      "reason": "Broughton Audio archive thumbnail reused for multiple distinct pedals.",
+      "severity": "hard_block"
+    },
+    {
+      "type": "exact_url",
+      "pattern": "https://static.wixstatic.com/media/4b9583_aa95f3f0b29c425aaa6d085f804bac97~mv2_d_2801_2749_s_4_2.jpg/v1/fill/w_286,h_286,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/4b9583_aa95f3f0b29c425aaa6d085f804bac97~mv2_d_2801_2749_s_4_2.jpg",
+      "reason": "Broughton Audio archive thumbnail reused for multiple distinct pedals.",
+      "severity": "hard_block"
+    },
+    {
+      "type": "exact_url",
+      "pattern": "https://static.wixstatic.com/media/be2f54_2039ecf3a58d453480375aa67fbde45d~mv2.png/v1/fill/w_190,h_54,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/be2f54_2039ecf3a58d453480375aa67fbde45d~mv2.png",
+      "reason": "Atlas Pedal 190x54 site graphic reused for distinct pedal records.",
+      "severity": "hard_block"
+    },
+    {
+      "type": "exact_url",
+      "pattern": "https://cdn.rockboard.de/common/image_ef2a3a99-6890-4731-a410-3bb001acc4a9.webp",
+      "reason": "RockBoard image reused across distinct Pete Cornish P-1 catalog identities; use exact manufacturer imagery instead.",
+      "severity": "hard_block"
     }
   ]
 }
