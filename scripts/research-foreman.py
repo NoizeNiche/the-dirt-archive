@@ -186,7 +186,7 @@ def scrape_residue_score(text):
     score = sum(low.count(marker) for marker in SCRAPE_RESIDUE_MARKERS)
     score += 2 * len(re.findall(r"\b(?:display|font-family|margin|padding|background|color)\s*:\s*[^;{}]+;", low))
     score += 2 * len(re.findall(r"\b(?:var|const|let)\s+[A-Za-z_$][\w$]*\s*=", low))
-    score += 2 * len(re.findall(r"["']variants["']\s*:\s*\[", low))
+    score += 2 * len(re.findall(r"""["\']variants["\']\s*:\s*\[""", low))
     if len(low) > 7000 and score < 4 and low.count(" | ") > 35:
         score += 4
     return score
@@ -232,7 +232,7 @@ def clean_evidence_excerpt(text, builder="", pedal=""):
     # CSS/JSON residue can survive HTML stripping on some sources.
     value = re.sub(r"\{[^{}]{0,3000}\}", " ", value, flags=re.S)
     value = re.sub(r"--[a-z0-9_-]+\s*:\s*[^;{}]+;?", " ", value, flags=re.I)
-    value = re.sub(r"\\s+", " ", value).strip()
+    value = re.sub(r"\s+", " ", value).strip()
     return value[:6000]
 
 
