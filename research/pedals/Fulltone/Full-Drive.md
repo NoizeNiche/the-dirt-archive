@@ -4,40 +4,40 @@
 - **Archive parent:** Full-Drive
 - **Builder:** Fulltone
 - **Catalog type:** Overdrive
-- **Identity:** Fulltone's Full-Drive.
+- **Identity:** Fulltone Full-Drive family record.
 
 ## What this pedal is
-Add to cart Wampler Wampler Pantheon Deluxe Dual Overdrive Pedal with MIDI 4.6 (28) 50+ viewed in past month $269.97 $ 269 .
+The **Full-Drive** name covers a family of Fulltone overdrive models and revisions. The checked evidence for this archive record includes the original Full-Drive 2 and the later Full-Drive 2 V2, so the unversioned record should not be treated as a single revision-specific circuit.
 
 ## Colorways
-- Add to cart Product details Brand Fulltone Style Distortion,Overdrive Color Red Product Dimensions 4.2"L x 4.45"W x 2.5"H Item Weight 16 ounces Voltage 18 volts, 9 volts Similar to your pick Page {currentPage} of {totalPages} Wampler Wampler Bret Mason Signature Overdrive/Distortion 4.9 (12) $274.37 $ 274 .
+- Color and enclosure details vary by Full-Drive revision.
+- No complete factory finish chronology was established for this unversioned family record.
 
 ## Versions and factory options
-- The verified evidence references: V2, v2.
-- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+- **Full-Drive 2:** dual overdrive/boost design with Volume, Tone, Overdrive and Boost controls.
+- **Full-Drive 2 MOSFET:** later version with expanded clipping options.
+- **Full-Drive 2 V2:** later revision with Drive 2 controls and additional clipping modes.
+- These are related models, not interchangeable revision labels.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+The archive retains version-specific records where the catalog establishes them. This family entry is intentionally conservative and does not assign a single transistor, clipping network, or control layout to every Full-Drive model.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
-- **Exact transistor/device:** Unknown.
+- The checked sources document op-amp-based Full-Drive designs, but do not establish one exact semiconductor complement for the entire Full-Drive family.
+- **Exact transistor/device:** Unknown for this unversioned family record.
 
 ## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
-- **Exact part:** Unknown.
+- Clipping arrangements vary by Full-Drive version.
+- **Exact clipping part:** Unknown for the unversioned family record.
 
 ## Sound
-Add to cart Product details Brand Fulltone Style Distortion,Overdrive Color Red Product Dimensions 4.2"L x 4.45"W x 2.5"H Item Weight 16 ounces Voltage 18 volts, 9 volts Similar to your pick Page {currentPage} of {totalPages} Wampler Wampler Bret Mason Signature Overdrive/Distortion 4.9 (12) $274.37 $ 274 .
-Add to cart Amazon's Choice MXR MXR® FOD™ Drive 4.7 (34) $179.99 $ 179 .
-Add to cart JHS Pedals JHS Pedals JHS AT+ Andy Timmons Signature Overdrive Guitar Effects Pedal 4.7 (192) 100+ viewed in past month $219.00 $ 219 .
+Full-Drive models cover low-to-medium gain overdrive, boost, and progressively expanded clipping options across the family. The original Full-Drive 2 provides separate overdrive and boost functions, while later versions add further clipping and channel controls.
 
 ## Sources checked
-1. Fulltone Full-Drive 1 Overdrive Pedal | Sweetwater: https://www.sweetwater.com/store/detail/FullDrive1--fulltone-full-drive-1-overdrive-pedal
-2. Full-Drive2 v2 – Fulltone USA: https://www.fulltoneusa.com/products/full-drive2-v2
-3. Fulltone Full-Drive 1 - Overdrive Pedal - What To Know & Where To Buy: https://equipboard.com/items/fulltone-full-drive-1-overdrive-pedal
-4. open prime modal: https://www.amazon.com/clp/B07F1ZYHCD
-5. Fulltone Full-Drive 3 Overdrive - Reverb: https://reverb.com/p/fulltone-full-drive-3-overdrive
+1. Fulltone - Full-Drive2 V2: https://www.fulltoneusa.com/products/full-drive2-v2
+2. Effects Database - Fulltone Full-Drive 2: https://www.effectsdatabase.com/model/fulltone/fulldrive/2
+3. Fulltone Full-Drive 2 manual: https://www.manualslib.tech/guide/760934/fulltone-full-drive-2-manual.html
+4. Reverb - Fulltone Full Drive 2: https://reverb.com/p/fulltone-full-drive-2
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Exact photo pending.
