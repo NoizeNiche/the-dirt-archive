@@ -86,3 +86,23 @@ The setup for the Rasputin is fairly simple: a Fuzz control, a Volume control, a
 1. Center Street Electronics Rasputin Fuzz - Pedal of the Day: https://www.pedal-of-the-day.com/2015/04/17/center-street-electronics-rasputin-fuzz/
 2. Center Street Electronics - Rasputin Fuzz: https://www.effekt-boutique.de/center-street-electronics-rasputin-fuzz.html
 3. Rasputin: http://www.centerstreetelectronics.com/rasputin-fuzz/
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+The gang at Center Street Electronics does fuzz REALLY well, and the Rasputin Fuzz is no different than the rest.
+
+### Verified version references
+- The evidence references: MKII, revision.
+
+### Verified sound evidence
+There’s an age-old debate about Silicon versus Germanium transistors in fuzz pedals: which sounds better, which produces a truer fuzz sound, and which is an overall higher quality and better product.
+The fine folks at Center Street Electronics may have finally put an end to the debate, and just made an awesome fuzz pedal with BOTH transistors inside – the Rasputin Fuzz.
+The setup for the Rasputin is fairly simple: a Fuzz control, a Volume control, and two transistor toggle switches.
+
+### Sources checked in this pass
+1. Center Street Electronics Rasputin Fuzz - Pedal of the Day: https://www.pedal-of-the-day.com/2015/04/17/center-street-electronics-rasputin-fuzz/
+2. Center Street Electronics - Rasputin Fuzz: https://www.effekt-boutique.de/center-street-electronics-rasputin-fuzz.html
+3. Rasputin: http://www.centerstreetelectronics.com/rasputin-fuzz/

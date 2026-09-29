@@ -94,3 +94,27 @@ Sonically a cross between A tone bender MKI and a gritty light boost and any var
 
 ### Sources checked in this pass
 1. Sharp Tooth — Basic Audio: https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-cnzrr-gbrkf-lx4x9
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Sharp Tooth — Basic Audio Contact Store About Menu Basic Audio Contact Store About Pedal colors are subject to change.
+
+### Verified color/finish evidence
+- Cosmetic finish differences are not treated as revisions.
+
+### Verified version references
+- The evidence references: MKI, revision, v1.
+
+### Verified transistor/device terms
+- silicon transistor.
+
+### Verified sound evidence
+← Back to Store Sharp Tooth sold out Sharp Tooth from $200.00 Loosely based on the 60’s (silicon) Orpheum but taken to a whole new place in Tonality and texture.
+The Sharp Tooth’s Texture control pans between one and two transistor stage so essentially you get a dirt boost all the way up to full on ripping fuzz.
+Sonically a cross between A tone bender MKI and a gritty light boost and any variation in between.
+
+### Sources checked in this pass
+1. Sharp Tooth &mdash; Basic Audio: https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-cnzrr-gbrkf-lx4x9

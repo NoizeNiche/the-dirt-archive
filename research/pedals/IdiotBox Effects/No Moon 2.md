@@ -27,8 +27,11 @@ IdiotBox Effects's No Moon 2 is cataloged as a distortion / fuzz / overdrive ped
 
 ## Sound
 
+You might also like Quick view Blower Box Bass Distortion $ 139.00 Quick view Blower Box Deluxe $ 159.00 Quick view No Moon T-Shirt $ 15.00 You might also like - **Archive parent:** No Moon 2 - **Builder:** IdiotBox Effects - **Catalog type:** Distortion / Fuzz / Overdrive - **Identity:** IdiotBox Effects's No Moon 2.
 
 IdiotBox Effects's No Moon 2 is cataloged as a distortion / fuzz / overdrive pedal.
+
+**Archive parent:** No Moon 2 - **Builder:** IdiotBox Effects - **Catalog type:** Distortion / Fuzz / Overdrive - **Identity:** IdiotBox Effects's No Moon 2.
 
 ## Sources checked
 1. No Moon 2 | IdiotBox Effects: https://www.idiotboxeffects.com/product/no-moon-2
@@ -51,6 +54,27 @@ IdiotBox Effects's No Moon 2 is cataloged as a distortion / fuzz / overdrive ped
 
 ### Verified sound evidence
 IdiotBox Effects's No Moon 2 is cataloged as a distortion / fuzz / overdrive pedal.
+
+### Sources checked in this pass
+1. No Moon 2 | IdiotBox Effects: https://www.idiotboxeffects.com/product/no-moon-2
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+IdiotBox Effects's No Moon 2 is cataloged as a distortion / fuzz / overdrive pedal.
+
+### Verified color/finish evidence
+- No specific factory colorway information was established in the verified evidence packet.
+
+### Verified version references
+- The evidence references: revision.
+
+### Verified sound evidence
+You might also like Quick view Blower Box Bass Distortion $ 139.00 Quick view Blower Box Deluxe $ 159.00 Quick view No Moon T-Shirt $ 15.00 You might also like - **Archive parent:** No Moon 2 - **Builder:** IdiotBox Effects - **Catalog type:** Distortion / Fuzz / Overdrive - **Identity:** IdiotBox Effects's No Moon 2.
+IdiotBox Effects's No Moon 2 is cataloged as a distortion / fuzz / overdrive pedal.
+**Archive parent:** No Moon 2 - **Builder:** IdiotBox Effects - **Catalog type:** Distortion / Fuzz / Overdrive - **Identity:** IdiotBox Effects's No Moon 2.
 
 ### Sources checked in this pass
 1. No Moon 2 | IdiotBox Effects: https://www.idiotboxeffects.com/product/no-moon-2

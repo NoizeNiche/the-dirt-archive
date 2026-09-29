@@ -7,7 +7,8 @@
 - **Identity:** Electronic Audio Experiments's 0xEAE Boost.
 
 ## What this pedal is
-Electronic Audio Experiments's 0xEAE Boost is cataloged as an overdrive pedal.
+
+Dimensions: 6.75” x 3.5” x 2” Weight: 1.5 lbs download manual 0xEAE Boost The 0xEAE Boost is discontinued as of Spring 2025.
 
 ## Colorways
 - No specific factory colorway information was established in the verified evidence packet.
@@ -36,3 +37,25 @@ Collaborations 0xEAE Boost A razor-sharp boost/overdrive with a massive output.
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Dimensions: 6.75” x 3.5” x 2” Weight: 1.5 lbs download manual 0xEAE Boost The 0xEAE Boost is discontinued as of Spring 2025.
+
+### Verified version references
+- The evidence references: MKII, V1, V2.
+
+### Verified sound evidence
+0xEAE Boost Archive — Electronic Audio Experiments Pedals Accessories DIY Dealers Blog Support About Menu Pedals Accessories DIY Dealers Blog Support About × Specifications Bypass: Relay switching with op amp buffered bypass.
+Dimensions: 6.75” x 3.5” x 2” Weight: 1.5 lbs download manual 0xEAE Boost The 0xEAE Boost is discontinued as of Spring 2025.
+The 0xEAE Boost is the first entry in a new pedal series developed in conjunction with the design collective Obstructures .
+
+### Sources checked in this pass
+1. 0xEAE Boost Archive &mdash; Electronic Audio Experiments: https://www.electronicaudioexperiments.com/legacy/0xeae-boost
+2. Electronic Audio Experiments 0xEAE Boost Pedal | Equipboard: https://equipboard.com/items/electronic-audio-experiments-0xeae-boost
+3. Electronic Audio Experiments 0xEAE Boost - Reverb: https://reverb.com/item/59793711-electronic-audio-experiments-0xeae-boost
+4. Electronic Audio Experiments 0xEAE Boost | Delicious Audio: https://delicious-audio.com/electronic-audio-experiments-0xeae-boost/
+5. Electronic Audio Experiments OxEAE Boost: https://martelmusicstore.com/products/electronic-audio-experiments-0xeae-boost

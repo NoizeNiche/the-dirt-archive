@@ -108,3 +108,33 @@ Spooky Tooth — Basic Audio Contact Store About Menu Basic Audio Contact Store 
 5. Spooky Tooth — Basic Audio: https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-cnzrr-ksfg5
 6. catalog/override source: https://www.effectsdatabase.com/model/basicaudio/spookytooth
 7. Basic Audio — Spooky Tooth: https://images.squarespace-cdn.com/content/v1/5da9e97016ddf940acffa2d3/1576108258790-6HS15EJ99Q1ENFTGTY8A/DSCF0160.jpg
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Spooky Tooth — Basic Audio Contact Store About Menu Basic Audio Contact Store About Pedal colors are subject to change.
+
+### Verified version references
+- The evidence references: revision, v1.
+
+### Verified transistor/device terms
+- Silicon transistors.
+
+### Verified diode terms
+- led.
+
+### Verified sound evidence
+**Archive parent:** Spooky Tooth - **Builder:** Basic Audio - **Catalog type:** Fuzz - **Identity:** Medium/high-gain silicon fuzz drawing from late-1960s Orpheum and Manny's-style fuzz references, with stage-interaction Texture and Saturation controls.
+**TEXTURE:** Changes the contribution/relationship of the gain stages.
+**SATURATION:** Controls low-frequency drive into the later stage.
+
+### Sources checked in this pass
+1. Basic Audio Spooky Tooth - What To Know & Where To Buy: https://equipboard.com/items/basic-audio-spooky-tooth
+2. Basic Audio Spooky Tooth - Reverb: https://reverb.com/p/basic-audio-spooky-tooth
+3. Basic Audio Spooky Tooth Review | Seymour Duncan Forums: https://forum.seymourduncan.com/threads/basic-audio-spooky-tooth-review.235679/
+4. NPD: Basic Audio Spooky Tooth : r/guitarpedals - Reddit: https://www.reddit.com/r/guitarpedals/comments/7d9nb8/npd_basic_audio_spooky_tooth/
+5. Spooky Tooth &mdash; Basic Audio: https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-cnzrr-ksfg5
+6. Basic Audio — Spooky Tooth: https://images.squarespace-cdn.com/content/v1/5da9e97016ddf940acffa2d3/1576108258790-6HS15EJ99Q1ENFTGTY8A/DSCF0160.jpg
+7. catalog/override source: https://www.effectsdatabase.com/model/basicaudio/spookytooth

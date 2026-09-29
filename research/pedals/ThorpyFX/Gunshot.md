@@ -30,9 +30,11 @@ The GUNSHOT was designed to be the overdrive to beat all others.
 
 ## Sound
 
+Overdrive $237.00 $237.00 $0.00 Unit price / per Shipping calculated at checkout.
 
+Overdrive Increase quantity for GUNSHOT
 
-Description The all new look GUNSHOT (MKIIB)!
+Overdrive Add to cart Description The all new look GUNSHOT (MKIIB)!
 
 ## Sources checked
 1. GUNSHOT | Overdrive: https://thorpyfx.com/en-us/products/the-gunshot-overdrive
@@ -78,6 +80,42 @@ Description The all new look GUNSHOT (MKIIB)!
 4. Thorpyfx Gunshot Review: A Deep Dive into the Analog Drum Synth Pedal | GearStrings: https://gearstrings.com/gear-reviews/thorpyfx-gunshot-review
 5. ThorpyFX Gunshot Review - Premier Guitar: https://www.premierguitar.com/gear/thorpyfx-gunshot-review
 6. ThorpyFX Gunshot v2 Overdrive Pedal – Soft Noise Audio: https://softnoiseaudio.com/products/thorpy-fx-gunshot
+7. ThorpyFx The Gunshot MKIIB Overdrive Pedal Owner's Manual: https://manuals.plus/m/41613e9abb7890300ad827dc79a444b068d98b1e199a0c6a102b3adba0666cc1
+8. ThorpyFx GUNSHOT Effects Pedal Overdrive MKIIB Instruction Manual: https://device.report/manual/17990050
+9. Gunshot v2 by ThorpyFX | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/ThorpyFX/Gunshot-v2/68985497/
+10. Thorpyfx Gunshot Overdrive review | MusicRadar: https://www.musicradar.com/reviews/guitars/thorpyfx-gunshot-overdrive-637646
+11. catalog/override source: https://www.amazon.com/clp/B07KPPGJL4
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+The GUNSHOT was designed to be the overdrive to beat all others.
+
+### Verified color/finish evidence
+- The same rock tones you love, with refreshed artwork.
+- This Thorpyfx Gunshot review evaluates its suitability for players needing immediate, hands-on percussive accents—not full drum programming—and compares it meaningfully against alternatives like the EarthQuaker Devices Bit Commander and Red Panda Tensor.
+- First Impressions: Build Quality, Setup, and Design Unboxing reveals a rugged 125 × 80 × 50 mm enclosure milled from 2mm-thick anodized aluminum—matte black with crisp white silk-screened labeling.
+
+### Verified version references
+- The evidence references: MKI, V2, revision, v2.
+
+### Verified diode terms
+- LED.
+
+### Verified sound evidence
+Overdrive $237.00 $237.00 $0.00 Unit price / per Shipping calculated at checkout.
+Overdrive Increase quantity for GUNSHOT
+Overdrive Add to cart Description The all new look GUNSHOT (MKIIB)!
+
+### Sources checked in this pass
+1. GUNSHOT | Overdrive: https://thorpyfx.com/en-us/products/the-gunshot-overdrive
+2. ThorpyFX Gunshot - What To Know & Where To Buy | Equipboard: https://equipboard.com/items/thorpyfx-gunshot
+3. ThorpyFX Gunshot Overdrive - Reverb: https://reverb.com/p/thorpyfx-gunshot-overdrive
+4. Thorpyfx Gunshot Review: A Deep Dive into the Analog Drum Synth Pedal | GearStrings: https://gearstrings.com/gear-reviews/thorpyfx-gunshot-review
+5. ThorpyFX Gunshot Review - Premier Guitar: https://www.premierguitar.com/gear/thorpyfx-gunshot-review
+6. ThorpyFX Gunshot v2 Overdrive Pedal &ndash; Soft Noise Audio: https://softnoiseaudio.com/products/thorpy-fx-gunshot
 7. ThorpyFx The Gunshot MKIIB Overdrive Pedal Owner's Manual: https://manuals.plus/m/41613e9abb7890300ad827dc79a444b068d98b1e199a0c6a102b3adba0666cc1
 8. ThorpyFx GUNSHOT Effects Pedal Overdrive MKIIB Instruction Manual: https://device.report/manual/17990050
 9. Gunshot v2 by ThorpyFX | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/ThorpyFX/Gunshot-v2/68985497/

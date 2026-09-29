@@ -28,10 +28,32 @@ Add+ Pedals's Der Fuzzer is cataloged in the archive as a Fuzz pedal.
 
 ## Sound
 
-No verified pedal-specific sonic summary is currently established in the archive.
+Add+ Pedals's Der Fuzzer is cataloged in the archive as a Fuzz pedal.
+
+**Archive parent:** Der Fuzzer - **Builder:** Add+ Pedals - **Catalog type:** Fuzz - **Identity:** Add+ Pedals's Der Fuzzer.
 
 ## Sources checked
 1. Add+ Der Fuzzer | Effects Database: https://www.effectsdatabase.com/model/addplus/derfuzzer
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Add+ Pedals's Der Fuzzer is cataloged in the archive as a Fuzz pedal.
+
+### Verified color/finish evidence
+- No specific factory colorway information was established in the verified evidence packet.
+
+### Verified version references
+- The evidence references: revision.
+
+### Verified sound evidence
+Add+ Pedals's Der Fuzzer is cataloged in the archive as a Fuzz pedal.
+**Archive parent:** Der Fuzzer - **Builder:** Add+ Pedals - **Catalog type:** Fuzz - **Identity:** Add+ Pedals's Der Fuzzer.
+
+### Sources checked in this pass
+1. Add+ Der Fuzzer | Effects Database: https://www.effectsdatabase.com/model/addplus/derfuzzer

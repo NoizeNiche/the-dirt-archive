@@ -72,3 +72,24 @@ This enables the Hollywood to efficiently drive the guitar signal when using lon
 
 ### Sources checked in this pass
 1. Radial Tonebone Bones Hollywood Dual Distortion | Effects Database: https://www.effectsdatabase.com/model/radial/tonebone/bones/hollywood
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Radial Engineering / Tonebone's Bones Hollywood Distortion & Overdrive is cataloged as a distortion / overdrive pedal.
+
+### Verified color/finish evidence
+- For maximum on-stage efficiency, the Hollywood is configured for 'clean, rhythm & lead' playability whereby in bypass mode, you get the natural clean sound of your guitar.
+
+### Verified diode terms
+- LEDs.
+
+### Verified sound evidence
+Radial Tonebone Bones Hollywood Dual Distortion
+The 'magic' inside is a dual-stage drive circuit that produces sweet yet distinctive tones reminiscent of the best American tube amps from the last half century, while delivering real-amp dynamics.
+This enables the Hollywood to efficiently drive the guitar signal when using longer cables and enables it to employ our latest EIS - Electronic Impulse Switching - for unmatched durability without the challenges posed by mechanical switches.
+
+### Sources checked in this pass
+1. Radial Tonebone Bones Hollywood Dual Distortion | Effects Database: https://www.effectsdatabase.com/model/radial/tonebone/bones/hollywood

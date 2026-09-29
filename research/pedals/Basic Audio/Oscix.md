@@ -113,3 +113,33 @@ Oscix is designed to cross the line between fuzz and electronic instrument: Bias
 5. Oscix — Basic Audio: https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-6jkg6-l5lts-pjhh6
 6. Guitar Pedal X - GPX Blog - Which Basic Audio Fuzz should I get next?: https://www.guitarpedalx.com/news/gpx-blog/which-basic-audio-fuzz-should-i-get-next
 7. catalog/override source: https://images.squarespace-cdn.com/content/v1/5da9e97016ddf940acffa2d/1650847714009-V81QID62II24NWUIZTQ6/DSCF6453_1.jpg
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Oscix is designed to cross the line between fuzz and electronic instrument: Bias/Starve/Gate/Pinch can choke or distort the signal while OSC can push it into controlled squeal and self-oscillation.
+
+### Verified color/finish evidence
+- Basic Audio Oscix 2020 - Blue - Reverb: https://reverb.com/item/100287903-basic-audio-oscix-2020-blue 2.
+
+### Verified version references
+- The evidence references: MKI, MKIII, revision, v1.
+
+### Verified transistor/device terms
+- Germanium Fuzz.
+
+### Verified sound evidence
+**Archive parent:** Oscix - **Builder:** Basic Audio - **Catalog type:** Fuzz - **Identity:** Germanium oscillating fuzz derived from Fuzz Face/Fuzz Factory concepts, with extensive external control over bias, supply starvation, gating and oscillation.
+**LEVEL** - **STARVE** - **FUZZ** - **GATE** - **PINCH** - **OSC** - **VINTAGE** toggle - **FAT** toggle The controls interact strongly, allowing both conventional fuzz and deliberately unstable self-oscillating behavior.
+**Fuzz Face / Fuzz Factory-style germanium architecture.** - The archive records this as a lineage relationship rather than claiming exact schematic identity with either historical pedal.
+
+### Sources checked in this pass
+1. Basic Audio Oscix 2020 - Blue - Reverb: https://reverb.com/item/100287903-basic-audio-oscix-2020-blue
+2. Basic Audio Oscix Fuzz &ndash; Coast Sonic: https://coastsonic.com/products/basic-audio-oscix-fuzz
+3. Basic Audio Oscix Fuzz - Handcrafted Classical Guitars for Beginners and Professionals Seeking Pure Acoustic Tone: https://www.originalguitar.com/product/basic-audio-oscix-fuzz/
+4. Basic Audio Oscix Fuzz - Block Body Guitars | Solid Body Electrics and Guitar Parts: https://www.blockbodyguitars.com/product/basic-audio-oscix-fuzz/
+5. Oscix &mdash; Basic Audio: https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-6jkg6-l5lts-pjhh6
+6. Guitar Pedal X - GPX Blog - Which Basic Audio Fuzz should I get next?: https://www.guitarpedalx.com/news/gpx-blog/which-basic-audio-fuzz-should-i-get-next
+7. catalog/override source: https://images.squarespace-cdn.com/content/v1/5da9e97016ddf940acffa2d/1650847714009-V81QID62II24NWUIZTQ6/DSCF6453_1.jpg

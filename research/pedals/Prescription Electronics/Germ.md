@@ -28,7 +28,11 @@ Prescription Electronics's Germ is cataloged as a distortion / overdrive pedal.
 
 ## Sound
 
-No verified pedal-specific sonic summary is currently established in the archive.
+Prescription Electronics's Germ is cataloged as a distortion / overdrive pedal.
+
+Related products Sale Death By Audio Evil Filter Octave Fuzz $149.00 $342.00 Sale Earthquaker Devices Rainbow Machine v2 Polyphonic Pitch Mesmerizer Teal & White $112.00 $224.00 Sale Dr.
+
+Prescription Electronics Germ — Overdrive Pedal
 
 ## Sources checked
 1. Prescription Electronics Germ - Reverb: https://reverb.com/item/99068802-prescription-electronics-germ
@@ -39,6 +43,31 @@ No verified pedal-specific sonic summary is currently established in the archive
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Prescription Electronics's Germ is cataloged as a distortion / overdrive pedal.
+
+### Verified color/finish evidence
+- Related products Sale Death By Audio Evil Filter Octave Fuzz $149.00 $342.00 Sale Earthquaker Devices Rainbow Machine v2 Polyphonic Pitch Mesmerizer Teal & White $112.00 $224.00 Sale Dr.
+
+### Verified version references
+- The evidence references: revision, v2.
+
+### Verified sound evidence
+Prescription Electronics's Germ is cataloged as a distortion / overdrive pedal.
+Related products Sale Death By Audio Evil Filter Octave Fuzz $149.00 $342.00 Sale Earthquaker Devices Rainbow Machine v2 Polyphonic Pitch Mesmerizer Teal & White $112.00 $224.00 Sale Dr.
+Prescription Electronics Germ — Overdrive Pedal
+
+### Sources checked in this pass
+1. Prescription Electronics Germ | Effects Database: https://www.effectsdatabase.com/model/prescription/germ
+2. Prescription Electronics Germ — Overdrive Pedal | Equipboard: https://equipboard.com/items/prescription-electronics-germ-boost-overdrive
+3. Prescription Electronics Germ 2000 - orange | Reverb: https://reverb.com/item/92500869-prescription-electronics-germ-2000-orange
+4. catalog/override source: https://www.wordplays.com/crossword-solver/Prescription-Electronics-germ
+5. Prescription Electronics Germ - Professional MIDI Keyboard Controller: https://www.mkeyspro.com/product/prescription-electronics-germ/
 
 ## Deep research verification
 

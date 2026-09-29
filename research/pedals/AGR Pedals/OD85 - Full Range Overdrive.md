@@ -27,3 +27,24 @@
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+AGR Pedals's OD85 - Full Range Overdrive is cataloged as an overdrive pedal.
+
+### Verified color/finish evidence
+- No specific factory colorway information was established in the verified evidence packet.
+
+### Verified version references
+- The evidence references: revision.
+
+### Verified sound evidence
+AGR Pedals OD85 - Full Range Overdrive
+It functions as a transparent boost, emphasizing the full frequency spectrum rather than selectively coloring or compressing the sound.
+The circuit is voiced to maintain clarity and definition, allowing the natural tone of the instrument and amplifier to remain prominent.
+
+### Sources checked in this pass
+1. AGR Pedals OD85 - Full Range Overdrive | Effects Database: https://www.effectsdatabase.com/model/agrpedals/od85

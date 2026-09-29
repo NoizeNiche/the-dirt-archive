@@ -87,3 +87,22 @@ The factory bias/voicing switch changes harmonic behavior without adding a separ
 ### Sources checked in this pass
 1. Behringer — Fuzz Bender: https://cdn-media.empowertribe.com/f71fd340c69d481c8458bd27a81e408e/Image_BE_0709-AKL_FUZZ-BENDER_Catalog_B.png
 2. FUZZ BENDER | Behringer: https://www.behringer.com/en/products/0709-AKL
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Another great way to play with FUZZ BENDER is to just max out the Attack knob to get a really aggressive fuzz sound that has a ton of sustain for all your Stoner Rock and Doom Metal needs.
+
+### Verified version references
+- The evidence references: revision, v1.
+
+### Verified sound evidence
+**ATTACK:** Fuzz/intensity response.
+Lower Attack settings cover smoother, more responsive vintage fuzz, while higher Attack settings become more saturated and aggressive.
+The factory bias/voicing switch changes harmonic behavior without adding a separate digital or boost section.
+
+### Sources checked in this pass
+1. Behringer — Fuzz Bender: https://cdn-media.empowertribe.com/f71fd340c69d481c8458bd27a81e408e/Image_BE_0709-AKL_FUZZ-BENDER_Catalog_B.png
+2. FUZZ BENDER | Behringer: https://www.behringer.com/en/products/0709-AKL

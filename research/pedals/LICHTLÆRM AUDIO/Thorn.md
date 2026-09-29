@@ -7,7 +7,8 @@
 - **Identity:** LICHTLÆRM AUDIO's Thorn.
 
 ## What this pedal is
-LICHTLÆRM AUDIO's Thorn is cataloged as a distortion pedal.
+
+The Thorn is our collaboration with post-metal powerhouse Amenra - an attempt to distill the unmistakable voice of Lennart Bossu into a form that can live on any stage, in any rig, anywhere in the world.
 
 ## Colorways
 - No specific factory colorway information was established in the verified evidence packet.
@@ -36,3 +37,21 @@ Chorus · Vibrato · Tape Warble · Memory Blur €199.00 PandorA – Compact Po
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+The Thorn is our collaboration with post-metal powerhouse Amenra - an attempt to distill the unmistakable voice of Lennart Bossu into a form that can live on any stage, in any rig, anywhere in the world.
+
+### Verified version references
+- The evidence references: MKII, V4.
+
+### Verified sound evidence
+handmade in Berlin Contact Shop Shop Thorn - Lennart Bossu (Amenra, Oathbreaker, Predatory Void, Living Gate) Signature Distortion Previous Total Distortion Worship MKII Next As Above So Below – Celestial Reverb
+Ambient Bloom · Octave Shimmer · Infinite Decay Thorn - Lennart Bossu (Amenra, Oathbreaker, Predatory Void, Living Gate) Signature Distortion Thorn - Lennart Bossu (Amenra, Oathbreaker, Predatory Void, Living Gate) Signature Distortion €229.00 incl.
+The original SDT-1 has a singular, organic roar - but also some inconvenient baggage: a massive enclosure, direct wall-voltage power, a fixed boost, and a few other quirks.
+
+### Sources checked in this pass
+1. Lennart Bossu // Amenra Signature Pedal | LICHTLÆRM AUDIO: https://lichtlaermaudio.com/shop/thorn

@@ -81,3 +81,26 @@ Effects Database's exact-model entry identifies the **Hyperion 2** as a fuzz ped
 ### Sources checked in this pass
 1. catalog/override source: https://www.effectsdatabase.com/model/deviever/hyperion/2
 2. catalog/override source: https://forum.pedalpcb.com/threads/ionizer-2-devi-ever-hyperion-2-fuzz.12214/
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Effects Database's exact-model entry identifies the **Hyperion 2** as a fuzz pedal and states that it is like the original Hyperion with an added control for oscillation.
+
+### Verified color/finish evidence
+- The exact source does not document a complete factory colorway or production-run sequence.
+
+### Verified transistor/device terms
+- Silicon transistor.
+
+### Verified sound evidence
+**Archive parent:** Hyperion 2 - **Builder:** Devi Ever FX - **Catalog type:** Fuzz - **Identity:** Devi Ever FX Hyperion 2.
+Effects Database's exact-model entry identifies the **Hyperion 2** as a fuzz pedal and states that it is like the original Hyperion with an added control for oscillation.
+**Volume:** controls the output and has substantial gain available.
+
+### Sources checked in this pass
+1. catalog/override source: https://www.effectsdatabase.com/model/deviever/hyperion/2
+2. catalog/override source: https://forum.pedalpcb.com/threads/ionizer-2-devi-ever-hyperion-2-fuzz.12214/
+3. Devi Ever FX — Hyperion 2: https://www.youtube.com/watch?v=anRdqN6okI8

@@ -1,16 +1,34 @@
 {
   "builder": "J. Rockett Audio Designs",
   "pedal": "Monkey Man",
+  "original_builder": "J. Rockett Audio Designs",
+  "original_pedal": "Monkey Man",
   "status": "VERIFIED_EVIDENCE_STAGED",
-  "independent_exact_source_count": 1,
+  "independent_exact_source_count": 3,
   "sources": [
     {
-      "url": "https://rockettpedals.com/",
-      "title": "catalog/override source",
-      "h1": "J. Rockett Audio Designs \u2014 Monkey Man",
-      "excerpt": "- **Builder:** J. Rockett Audio Designs\n- **Pedal:** Monkey Man\n- **Catalog type:** Overdrive\n- **Research level:** Surface\n- **Deep research status:** Pending\n- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.\n\nThe Dirt Archive currently catalogs **Monkey Man** by **J. Rockett Audio Designs** as a **Overdrive** pedal. This statement is limited to the archive\u2019s catalog classification. Deeper technical, historical, and sonic details remain pending verification.\n\n- Catalog source page on file: https://rockettpedals.com/\n\n- **Archive photo:** No verified local photo is currently archived.\n- Photo provenance and validation are handled separately from this surface research record.\n\n- **Status:** Pending\n- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive\u2019s research foreman.",
-      "host": "rockettpedals.com",
-      "source_kind": "catalog_verified"
+      "url": "https://reverb.com/item/26035791-j-rockett-audio-designs-the-monkey-man",
+      "title": "J. Rockett Audio Designs The Monkey Man - Reverb",
+      "h1": "",
+      "excerpt": "",
+      "host": "reverb.com",
+      "source_kind": "reverb"
+    },
+    {
+      "url": "https://www.musitcenterstore.com/product/j-rockett-audio-designs-the-monkey-man/",
+      "title": "J. Rockett Audio Designs The Monkey Man - musitcenterstore.com",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.musitcenterstore.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://www.bestmusiccompanion.com/product/j-rockett-audio-designs-the-monkey-man/",
+      "title": "J. Rockett Audio Designs The Monkey Man - bestmusiccompanion.com",
+      "h1": "",
+      "excerpt": "",
+      "host": "www.bestmusiccompanion.com",
+      "source_kind": "other"
     }
   ],
   "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
