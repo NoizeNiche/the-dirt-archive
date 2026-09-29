@@ -21,6 +21,7 @@ MANIFEST = Path("research/pedals/PEDAL_IMAGES.json")
 TRACKER = Path("research/PRP_TRACKER.csv")
 PHOTO_SOURCE_BLOCKLIST = Path("research/PHOTO_SOURCE_BLOCKLIST.json")
 PHOTO_IDENTITY_QUARANTINE = Path("research/PHOTO_IDENTITY_QUARANTINE.csv")
+PHOTO_HASH_QUARANTINE = Path("research/PHOTO_HASH_QUARANTINE.csv")
 
 TARGET_BUILDER = os.environ.get("PHOTO_RESET_TARGET_BUILDER", "").strip()
 TARGET_PEDAL = os.environ.get("PHOTO_RESET_TARGET_PEDAL", "").strip()
@@ -77,6 +78,19 @@ def identity_quarantine_reasons(identity, values, quarantine):
         if lowered and lowered in blocked:
             reasons.append("identity-specific photo quarantine: " + lowered)
     return list(dict.fromkeys(reasons))
+
+
+def load_hash_quarantine():
+    rows = set()
+    try:
+        with PHOTO_HASH_QUARANTINE.open(newline="", encoding="utf-8") as handle:
+            for row in csv.DictReader(handle):
+                k = key(row.get("Builder"), row.get("Pedal"))
+                if k[0] and k[1]:
+                    rows.add(k)
+    except Exception:
+        pass
+    return rows
 
 
 def is_local_image(value):
@@ -154,6 +168,7 @@ def main():
     }
 
     identity_quarantine = load_identity_quarantine()
+    hash_quarantine = load_hash_quarantine()
     reset = 0
     removed = []
     for target_key in sorted(targets):
@@ -184,6 +199,8 @@ def main():
         source_values.extend(str(value or "") for value in (entry.get("image_source_pages") or []))
         if not reasons:
             reasons.extend(identity_quarantine_reasons(target_key, source_values, identity_quarantine))
+        if not reasons and target_key in hash_quarantine and tracker.get("Picture") == "DONE":
+            reasons.append("byte-identical photo quarantine")
         if not reasons:
             blocked = blocked_photo_values(source_values)
             if blocked:
