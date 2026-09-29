@@ -7,10 +7,10 @@
 - **Identity:** Wren and Cuff's Hangman-2D.
 
 ## What this pedal is
-$173.00 $199.00 Add to Cart BMF Effects The Godfather II Dual Overdrive Double your tonal pleasure with The Godfather II Dual Overdrive pedal.
+The Hangman-2D is a dual-drive recreation that combines two voiced drive sections, with Drive B following the Godfather Overdrive and Drive A given a different voicing.
 
 ## Colorways
-- However there was a small group of loyal followers that grieved the death of this black and orange beast.
+- Black and orange enclosure.
 - Drive B (orange LED) is the same as the single Godfather Overdrive pedal, while Drive A (red LED) is voiced for m..
 - Add to that the usual Wren and Cuff luxuries of 100% mechanical, true hard-wired bypass, rugged all metal Alpha pots mounted directly to the chassis, a Modern and Vintage toggle switch, tough metal enclosure and gorgeous artwork and one can see the value of the Hangman-2D over the original.
 
