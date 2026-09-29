@@ -6,7 +6,11 @@
 - **Catalog type:** Fuzz
 - **Identity:** ARC Effects's Shepherd.
 
-## What this pedal is\n\nThe Shepherd is an ARC Effects fuzz based on a high-gain version of the 1973 Violet Ram's Head circuit. ARC documents an external three-position mid voicing switch covering stock scooped, flat and boosted responses. [1]\n\n## Colorways
+## What this pedal is
+
+The Shepherd is an ARC Effects fuzz based on a high-gain version of the 1973 Violet Ram's Head circuit. ARC documents an external three-position mid voicing switch covering stock scooped, flat and boosted responses. [1]
+
+## Colorways
 - No specific factory colorway information was established in the verified evidence packet.
 
 ## Versions and factory options
@@ -23,7 +27,11 @@
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.
 
-## Sound\n\nARC Effects describes the Shepherd as balancing responsive attack, singing sustain, individual-note articulation and midrange cut. The external voicing switch lets the player move between the stock scooped response, a flatter setting and an emphasized-mid setting. [1]\n\n## Sources checked
+## Sound
+
+ARC Effects describes the Shepherd as balancing responsive attack, singing sustain, individual-note articulation and midrange cut. The external voicing switch lets the player move between the stock scooped response, a flatter setting and an emphasized-mid setting. [1]
+
+## Sources checked
 1. Shepherd — ARC Effects: https://www.arceffects.com/shepherd/
 
 ## Photo

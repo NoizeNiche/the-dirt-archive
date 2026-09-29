@@ -6,7 +6,11 @@
 - **Catalog type:** Overdrive
 - **Identity:** AGR Pedals's OD85 - Full Range Overdrive.
 
-## What this pedal is\n\nThe OD85 is an analog full-range overdrive designed to preserve the complete character of the instrument and amplifier rather than heavily narrowing or coloring the signal. It uses Gain, Tone and Volume controls and is also described as a transparent boost. [1]\n\n## Colorways
+## What this pedal is
+
+The OD85 is an analog full-range overdrive designed to preserve the complete character of the instrument and amplifier rather than heavily narrowing or coloring the signal. It uses Gain, Tone and Volume controls and is also described as a transparent boost. [1]
+
+## Colorways
 - No specific factory colorway information was established in the verified evidence packet.
 
 ## Versions and factory options
@@ -22,14 +26,12 @@
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.
 
-## Sound\n\nThe OD85 emphasizes a transparent, full-frequency response with dynamic behavior that reacts to playing intensity. AGR's documented description says it can move from subtle boost settings into higher-gain overdrive while retaining clarity and instrument definition. [1]\n\n## Sources checked
-1. AGR Pedals OD85 - Full Range Overdrive | Effects Database: https://www.effectsdatabase.com/model/agrpedals/od85
-
 ## Sound
 
-AGR Pedals OD85 Full Range Overdrive
-It functions as a transparent boost, emphasizing the full frequency spectrum rather than selectively coloring or compressing the sound.
-The circuit is voiced to maintain clarity and definition, allowing the natural tone of the instrument and amplifier to remain prominent.
+The OD85 emphasizes a transparent, full-frequency response with dynamic behavior that reacts to playing intensity. AGR's documented description says it can move from subtle boost settings into higher-gain overdrive while retaining clarity and instrument definition. [1]
+
+## Sources checked
+1. AGR Pedals OD85 - Full Range Overdrive | Effects Database: https://www.effectsdatabase.com/model/agrpedals/od85
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
