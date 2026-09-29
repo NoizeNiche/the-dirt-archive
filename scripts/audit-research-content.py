@@ -211,6 +211,8 @@ def audit_research_structure(lines: list[str], path: Path) -> list[dict[str, obj
                 add(lineno, "bloated_source_label", raw.strip())
 
 
+    return rows
+
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--output", default=str(DEFAULT_OUTPUT))
