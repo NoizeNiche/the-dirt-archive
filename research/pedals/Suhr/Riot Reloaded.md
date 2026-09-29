@@ -7,52 +7,37 @@
 - **Identity:** Suhr's Riot Reloaded.
 
 ## What this pedal is
-Riot Reloaded is the result of countless hours of listening, testing, and tweaking our original distortion circuit to create a pedal that is amp-like, aggressive, in your face, and features more gain (30% more than our original Riot).
+Riot Reloaded is Suhr's higher-gain evolution of the original Riot distortion. Suhr describes it as amp-like, aggressive, and capable of roughly **30% more gain** than the original Riot.
 
 ## Colorways
-- No specific factory colorway information was established in the verified evidence packet.
+- Documented production examples include **Purple**.
+- Finish is treated as a cosmetic edition unless Suhr documents a circuit change.
 
 ## Versions and factory options
-- No distinct factory revision was established in the verified evidence packet.
+- Higher-gain Riot platform.
+- Designed for a broad range of high-gain tones.
+- Compact stompbox format.
+- Suhr's documented Riot family uses multiple voicing options across its generations, but those details are not merged into the Reloaded record without version-specific support.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- Riot Reloaded is explicitly a companion to the original Riot with more gain and revised voicing.
+- The archive keeps original Riot and Reloaded identities separate.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
+- Exact production semiconductor details were not established.
 - **Exact transistor/device:** Unknown.
 
 ## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- Exact clipping/rectifier diode information was not established.
 - **Exact part:** Unknown.
 
 ## Sound
-Out of stock SKU: 03-RIO-0002 Categories: Legacy Pedals , Pedals Description Additional information Description In 2009, we shipped our very first Riot distortion pedal.
-Riot became an overnight success, offering players the ability to transform a clean amp into a versatile Classic Rock tone machine.
-Riot Reloaded is the result of countless hours of listening, testing, and tweaking our original distortion circuit to create a pedal that is amp-like, aggressive, in your face, and features more gain (30% more than our original Riot).
+Riot Reloaded delivers a broad high-gain distortion range with an amp-like response. Its additional gain allows more saturated rock and metal sounds than the original Riot while retaining the original's responsive feel.
 
 ## Sources checked
-1. Riot Reloaded Legacy Edition | Suhr.com: https://www.suhr.com/product/riot-reloaded-legacy-edition/
-2. Suhr Riot Reloaded Purple | Guitar Center Gear Card Mobile Gift Card Phone Facebook X YouTube Instagram TikTok Threads Facebook X YouTube Instagram TikTok Threads: https://www.guitarcenter.com/Suhr/Riot-Reloaded-Purple-1500000321340.gc
+1. Suhr - Riot Reloaded Legacy Edition: https://www.suhr.com/product/riot-reloaded-legacy-edition/
+2. Guitar Center - Suhr Riot Reloaded: https://www.guitarcenter.com/Suhr/Riot-Reloaded-Purple-1500000321340.gc
+3. Effects Database - Suhr Riot Reloaded: https://www.effectsdatabase.com/model/suhr/riot/reloaded
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
-
-## Deep research verification
-
-This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
-
-### Verified description
-An excellent companion to the original Riot, Riot Reloaded is a versatile distortion pedal that delivers a broad spectrum of Hi-Gain tones, with an amp-like feel, in a compact stompbox.
-
-### Verified version references
-- The evidence references: V60, V63, V70.
-
-### Verified sound evidence
-Out of stock SKU: 03-RIO-0002 Categories: Legacy Pedals , Pedals Description Additional information Description In 2009, we shipped our very first Riot distortion pedal.
-Riot became an overnight success, offering players the ability to transform a clean amp into a versatile Classic Rock tone machine.
-An excellent companion to the original Riot, Riot Reloaded is a versatile distortion pedal that delivers a broad spectrum of Hi-Gain tones, with an amp-like feel, in a compact stompbox.
-
-### Sources checked in this pass
-1. Riot Reloaded Legacy Edition | Suhr.com: https://www.suhr.com/product/riot-reloaded-legacy-edition/
-2. Suhr Riot Reloaded Purple | Guitar Center: https://www.guitarcenter.com/Suhr/Riot-Reloaded-Purple-1500000321340.gc
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.

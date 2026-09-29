@@ -7,38 +7,36 @@
 - **Identity:** Subdecay's Supernova Drive.
 
 ## What this pedal is
-Product variants Default Title - $ 159.00 Quantity ( 0 in cart) Decrease quantity for SubDecay SuperNova Drive Increase quantity for SubDecay SuperNova Drive Add to cart Couldn't load pickup availability Refresh The Super Nova Drive is a fun little circuit we have been working on for a while.
+The Supernova Drive is an overdrive with a wide gain range and a three-band active EQ. Subdecay describes it as a flexible circuit that can move from restrained drive into much more saturated sounds while giving the player independent low, mid, and high-frequency control.
 
 ## Colorways
-- No specific factory colorway information was established in the verified evidence packet.
+- No complete factory colorway chronology was established in the checked sources.
 
 ## Versions and factory options
-- The verified evidence references: v16, v19, v21.
-- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+- Wide gain range.
+- Three-band active EQ.
+- Subdecay documents multiple production revisions over the model's life.
+- Exact control labels for each revision are not merged into the unversioned record.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- The checked evidence references multiple revision numbers, but does not establish a complete hardware chronology.
+- The archive keeps later revision-specific details separate when a versioned record exists.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
+- Exact production semiconductor details were not established.
 - **Exact transistor/device:** Unknown.
 
 ## Diode
-- Documented terms in the verified sources: LED.
-- The archive records only the component information explicitly present in these sources.
+- The LED indicator is documented, but the exact clipping-device part is not established.
+- **Exact part:** Unknown.
 
 ## Sound
-Supernova Drive - Overdrive - Guitar Effects - Subdecay
-Product variants Default Title - $ 159.00 Quantity ( 0 in cart) Decrease quantity for SubDecay SuperNova Drive Increase quantity for SubDecay SuperNova Drive Add to cart Couldn't load pickup availability Refresh The Super Nova Drive is a fun little circuit we have been working on for a while.
-The concept is simple: an overdrive with a wide gain range coupled with a three band active EQ.
+The Supernova combines a broad gain range with active three-band EQ, allowing the sound to move from lighter overdrive into thicker, more saturated drive. Its defining feature is tonal flexibility rather than a single fixed frequency response.
 
 ## Sources checked
-1. Supernova Drive - Overdrive - Guitar Effects - Subdecay: https://subdecay.com/effect/supernova-drive-overdrive
-2. SubDecay SuperNova Drive, brand new old stock - Reverb: https://reverb.com/item/89332877-subdecay-supernova-drive-brand-new-old-stock
-3. Subdecay SuperNova Drive Overdrive | media | acoguitar.com: https://www.acoguitar.com/product/subdecay-supernova-drive-overdrive/
-4. SubDecay SuperNova Drive – Big City Music: https://www.bigcitymusic.com/products/supernova-drive
-5. SubDecay Supernova Drive Dimensions, Specs & Details: https://www.stompboxgarden.com/gear/pedal/15647/subdecay-supernova-drive
-6. Supernova Drive — Subdecay Overdrive Pedal | PedalFilter | PedalFilter: https://pedalfilter.com/subdecay/supernova-drive
+1. Subdecay - Supernova Drive: https://subdecay.com/effect/supernova-drive-overdrive
+2. Reverb - Subdecay SuperNova Drive: https://reverb.com/item/89332877-subdecay-supernova-drive-brand-new-old-stock
+3. Effects Database - Subdecay Supernova Drive: https://www.effectsdatabase.com/model/subdecay/supernova
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.
