@@ -4,37 +4,39 @@
 - **Archive parent:** Hugo Overdrive
 - **Builder:** TONECAT
 - **Catalog type:** Overdrive
-- **Identity:** TONECAT's Hugo Overdrive.
+- **Identity:** TONECAT's Hugo Overdrive, sold as the **Grandpa Hugo** model.
 
 ## What this pedal is
-Default Title Error Quantity must be 1 or more Add to cart Adding product to your cart Grandpa Hugo is a Tube Screamer TS808-inspired overdrive pedal, voiced for smooth midrange, touch-sensitive dynamics, and effortless amp boosting.
+Grandpa Hugo is a Tube Screamer TS808-inspired overdrive. TONECAT describes it as a smooth, mid-focused, touch-sensitive drive that can also function as a boost or stack with other gain pedals.
 
 ## Colorways
-- No specific factory colorway information was established in the verified evidence packet.
+- No complete factory finish chronology was established in the checked sources.
 
 ## Versions and factory options
-- No distinct factory revision was established in the verified evidence packet.
+- TS808-inspired overdrive architecture.
+- Designed for clean boost, edge-of-breakup drive, and singing blues lead tones.
+- Intended to stack with other overdrives, fuzzes, and high-gain amplifiers.
+- Exact full control labeling is not asserted without a matching factory manual.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- No complete numbered production revision chronology was established.
+- The archive treats **Hugo Overdrive** and **Grandpa Hugo** as the same TONECAT model identity rather than separate circuits.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
+- Exact production semiconductor details were not established.
 - **Exact transistor/device:** Unknown.
 
 ## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- Exact clipping/rectifier diode information was not established.
 - **Exact part:** Unknown.
 
 ## Sound
-Default Title Error Quantity must be 1 or more Add to cart Adding product to your cart Grandpa Hugo is a Tube Screamer TS808-inspired overdrive pedal, voiced for smooth midrange, touch-sensitive dynamics, and effortless amp boosting.
-From transparent edge-of-breakup tones to singing blues leads, Hugo delivers the classic 808 character players love while remaining versatile enough to stack with other overdrives, fuzzes, and high-gain amps.
-Grandpa Hugo pays tribute to the legendary Tube Screamer TS808 , one of the most recorded overdrive circuits in guitar history.
+Hugo focuses on the familiar TS808-style midrange and smooth clipping, with enough range for transparent edge-of-breakup tones through singing overdrive. Its stacking-friendly voicing is a core part of the design.
 
 ## Sources checked
-1. Grandpa Hugo Overdrive | Home of Tone Tube Screamer Style &mdash; TONECAT: https://www.tonecat.life/shop/p/grandpa-hugo-overdrive
-2. ToneCat Effects Hugo Overdrive &ndash; Replay Guitars: https://replayguitars.com/products/tonecat-effects-hugo-overdrive
-3. TONECAT Hugo Overdrive 808 Style OD: https://www.upweymusic.au/products/tonecat-hugo-overdrive-808-style-od
+1. TONECAT - Grandpa Hugo Overdrive: https://www.tonecat.life/shop/p/grandpa-hugo-overdrive
+2. Replay Guitars - ToneCat Hugo Overdrive: https://replayguitars.com/products/tonecat-effects-hugo-overdrive
+3. Upwey Music - TONECAT Hugo Overdrive: https://www.upweymusic.au/products/tonecat-hugo-overdrive-808-style-od
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.

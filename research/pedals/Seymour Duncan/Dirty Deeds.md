@@ -7,33 +7,33 @@
 - **Identity:** Seymour Duncan's Dirty Deeds.
 
 ## What this pedal is
-Seymour Duncan Dirty Deeds Distortion Pedal 855-862-4441 myguitarsupply@gmail.com Site Map www.MyGuitarSupply.com FREE Shipping on ALL orders to the United States!
+The Dirty Deeds is a distortion/overdrive designed to cover lower-gain drive through saturated rock distortion. Seymour Duncan describes it as capable of mean overdrive at low Drive settings and searing distortion when pushed.
 
 ## Colorways
-- No specific factory colorway information was established in the verified evidence packet.
+- No complete factory colorway chronology was established in the checked sources.
 
 ## Versions and factory options
-- No distinct factory revision was established in the verified evidence packet.
+- Active Bass and Treble EQ, each offering approximately **12 dB of boost/cut**.
+- Drive control covers lower-gain overdrive through high-gain distortion.
+- Standard pedalboard operation.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- No complete numbered production revision chronology was established in the checked sources.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
+- Exact production semiconductor details were not established.
 - **Exact transistor/device:** Unknown.
 
 ## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- Exact clipping/rectifier diode information was not established.
 - **Exact part:** Unknown.
 
 ## Sound
-Seymour Duncan Dirty Deeds Distortion Pedal 855-862-4441 myguitarsupply@gmail.com Site Map www.MyGuitarSupply.com FREE Shipping on ALL orders to the United States!
-With the drive control turned down it works like a mean overdrive, but revel in the searing distortion and sweet overtones that the Dirty Deed dishes out when cranked.
-For maximum flexibility the Dirty Deed incorporates an active EQ for 12dB of treble and bass boost/cut.
+At lower Drive settings the Dirty Deeds works as an overdrive, while higher settings provide searing distortion and strong upper harmonics. The active Bass/Treble EQ allows the response to be reshaped around different amplifiers and guitars.
 
 ## Sources checked
-1. Seymour Duncan Dirty Deeds Distortion Pedal: https://www.myguitarsupply.com/store.php/myguitarsupply/pd7733323/seymour-duncan-dirty-deeds-distortion-pedal
-2. Seymour Duncan Dirty Deeds Distortion Analog distortion pedal 11900-00: https://www.lamusic.com/products/seymour-duncan-dirty-deeds-distortion-analog-distortion-pedal-11900-001
+1. Seymour Duncan - Dirty Deeds: https://www.seymourduncan.com/single-product/dirty-deeds
+2. LA Music - Seymour Duncan Dirty Deeds: https://www.lamusic.com/products/seymour-duncan-dirty-deeds-distortion-analog-distortion-pedal-11900-001
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.
