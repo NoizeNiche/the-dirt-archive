@@ -7,35 +7,36 @@
 - **Identity:** Xotic Effects's AH Booster Allen Hinds.
 
 ## What this pedal is
-Specifications Features Return Policy Item # 1612843 Model # X102AAHB01 Xotic AH Booster Allen Hinds Effects Pedal Silver Sparkle site7:prod:product:id:site7prodMAIN0540118 0 Reviews Write Review $259.00 Price: 259 Add to Cart Delivery In Stock Ready for Delivery Most ground orders placed before 3pm ET ship same‑day and arrive in 2-5 business days Pickup In-Store Choose Store Save to Wishlist 30 Day Returns Instruments | Lessons | Rentals | Repairs Company Overview About Us Careers Find a Store Features Financing Gift Cards The Vault Blog Services Educators Lessons Rentals Repairs Help Price Match Returns Shipping Instagram Facebook Youtube Contact Us FAQ Email Us ©2026 Music Arts.
+The AH Booster is Allen Hinds' signature Xotic overdrive, based on the legacy AC-Comp design and updated with additional EQ, compression, and voltage-headroom controls.
 
 ## Colorways
-- No specific factory colorway information was established in the verified evidence packet.
+- The checked retail source documents a **Silver Sparkle** presentation.
+- No complete finish chronology was established.
 
 ## Versions and factory options
-- No distinct factory revision was established in the verified evidence packet.
+- **Bass** and **Treble** active EQ, each with approximately ±15dB range.
+- Three compression settings.
+- Internal DIP switches for treble/presence character.
+- 9-18V operation.
+- True bypass.
+- 4mA at 9V or 5mA at 18V.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- The AH Booster is a modernized version of Allen Hinds' favored AC-Comp design rather than a generic Xotic overdrive.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
+- Exact production semiconductor details were not established in the checked sources.
 - **Exact transistor/device:** Unknown.
 
 ## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
-- **Exact part:** Unknown.
+- Exact clipping-device part was not established in the checked sources.
 
 ## Sound
-Xotic Effects AH Booster Allen Hinds Effects Pedal | Music Arts Free Delivery on Orders $25+ Rules Apply Search Sign In or Join Stores Shop Lessons Rentals Educators Repairs Deals Back to School Stores Delivery To : United States Home Amplifiers Effects Effects Effects Pedals Fuzz Boost Effects Pedals Item # 1612843 Model # X102AAHB01 Xotic AH Booster Allen Hinds Effects Pedal Silver Sparkle site7:prod:product:id:site7prodMAIN0540118 0 Reviews Write Review $259.00 Price: 259 Add to Cart Delivery In Stock Ready for Delivery Most ground orders placed before 3pm ET ship same‑day and arrive in 2-5 business days Pickup In-Store Choose Store Save to Wishlist 30 Day Returns Product Description Reimagined overdrive pedal brings coveted vintage tone into the modern era.
-The Xotic Effects AH Booster Allen Hinds pedal revives a legendary overdrive pedal with modern enhancements.
-Designed as a tribute to Allen Hinds' favorite distortion stompbox, the AC-Comp, this updated version gives you a tight yet smooth overdriven tone with more control and headroom.
+The AH Booster is voiced for tight, smooth overdrive with selectable compression and active EQ. Xotic notes that higher operating voltage provides additional headroom and dynamics.
 
 ## Sources checked
-1. Xotic Effects AH Booster Allen Hinds Effects Pedal | Music Arts: https://www.musicarts.com/xotic-ah-booster-allen-hinds-effects-pedal-main0540118
-2. Fuzz Boost Effects Pedals | Guitar Center: https://www.guitarcenter.com/Xotic-Effects/AH-Booster-Allen-Hinds-Effects-Pedal-Silver-Sparkle-1500000438684.gc?template=0y7n73MAL4Km
-3. Xotic Effects Xotic AH Booster Allen Hinds Effects Pedal Silver Sparkle: https://getmyguitar.com/product/xotic-effects-xotic-ah-booster-allen-hinds-effects-pedal-silver-sparkle/
-4. Xotic Effects AH Booster Allen Hinds Boost pedal - Macdaddy Music: https://www.macdaddymusicstore.com/xotic-effects-ah-booster-allen-hinds-boost-pedal/
+1. Xotic - AH Booster: https://xotic.us/effects/ah-booster/
+2. Xotic - AH Booster manual: https://xotic.us/effects/ah-booster/pdf/AH-Booster_Manual.pdf
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.

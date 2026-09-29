@@ -7,32 +7,31 @@
 - **Identity:** ZVEX Effects's Fat Fuzz Factory.
 
 ## What this pedal is
-ZVEX Effects's Fat Fuzz Factory is cataloged as a fuzz pedal.
+The Fat Fuzz Factory is an expanded Fuzz Factory variant with lower-frequency options that extend the original's oscillating and unstable fuzz behavior.
 
 ## Colorways
-- No specific factory colorway information was established in the verified evidence packet.
+- The checked source set does not establish a complete factory finish chronology.
 
 ## Versions and factory options
-- No distinct factory revision was established in the verified evidence packet.
+- Vexter and USA-built Fat Fuzz Factory versions are treated as finish/construction variants unless a circuit difference is documented.
+- Lower-frequency settings are part of the defining design.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- The Fat Fuzz Factory is a distinct Fuzz Factory-family model rather than a generic Fuzz Factory finish.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
+- Exact production transistor/device information was not established in the checked sources.
 - **Exact transistor/device:** Unknown.
 
 ## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
-- **Exact part:** Unknown.
+- Exact clipping/rectifier diode information was not established in the checked sources.
 
 ## Sound
-ZVEX Vexter Fat Fuzz Factory Guitar Effects Pedal - Exceptional Pianos and Guitars with Superior Craftsmanship, Acoustic Excellence, and Modern Digital Innovations FREE SHIPPING Over $30
-Setting 1 is a standard Fuzz Factory, settings 2 and 3 introduce low and lower frequencies to manipulate, oscillate, and mutate as you like.
-The Fat Fuzz Factory so Add to cart Share Security Policy (Protecting Your Data, Ensuring Your Safety) Delivery Policy (Free shipping on orders over $30) Return Policy (60 day easy Return) SKU: PBAT422010397 Category: Effects Description Reviews (0) A version of the Fuzz Factory.
+The Fat Fuzz Factory extends the original Fuzz Factory behavior into lower-frequency territory, where the circuit can oscillate, gate, and produce unstable, heavily mutated fuzz textures.
 
 ## Sources checked
-1. ZVEX Vexter Fat Fuzz Factory Guitar Effects Pedal - Exceptional Pianos and Guitars with Superior Craftsmanship, Acoustic Excellence, and Modern Digital Innovations: https://www.pianosguitars.com/product/zvex-vexter-fat-fuzz-factory-guitar-effects-pedal/
+1. ZVEX Effects - Guitar Pedals: https://www.zvex.com/guitar-pedals
+2. ZVEX Fat Fuzz Factory product references: https://www.zvex.com/
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.

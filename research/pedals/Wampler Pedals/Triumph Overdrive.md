@@ -3,54 +3,40 @@
 ## PRP identity
 - **Archive parent:** Triumph Overdrive
 - **Builder:** Wampler Pedals
-- **Catalog type:** Distortion / Overdrive
+- **Catalog type:** Overdrive
 - **Identity:** Wampler Pedals's Triumph Overdrive.
 
 ## What this pedal is
-What Wampler Pedals say about the Triumph Overdrive Wampler’s Collective Series pedals are packed with features for players of all levels.
+The Triumph is a versatile Wampler overdrive based on the character of the **DigiTech Bad Monkey** and **BOSS SD-1**. Wampler added a flexible EQ section and two main voicings.
 
 ## Colorways
-- No specific factory colorway information was established in the verified evidence packet.
+- No complete factory finish chronology was established in the checked sources.
 
 ## Versions and factory options
-- No distinct factory revision was established in the verified evidence packet.
+- **Smooth** and **Punch** voicings.
+- **Volume, Gain, Bass, Mids, Treble** controls.
+- Internal DIP switches add the documented glass voicing to the two main modes.
+- 3PDT true bypass.
+- 9-18V DC operation.
+- Approximately 21mA current draw.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- No complete numbered production revision chronology was established in the checked sources.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
+- Exact production semiconductor details were not established in the checked sources.
 - **Exact transistor/device:** Unknown.
 
 ## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- Exact clipping-device part was not established in the checked sources.
 - **Exact part:** Unknown.
 
 ## Sound
-The Triumph is a versatile overdrive based around two of Brian’s all-time favorite overdrives.
-In stock (can be backordered) Triumph Overdrive quantity Add to cart Watch video
-The Wampler Triumph is an affordable overdrive pedal from the Collective Series, offering versatile tones inspired by the Digitech Bad Monkey and Boss SD-1 .
+Smooth mode emphasizes a gritty, mid-hump overdrive character. Punch opens the response, reduces compression, and increases touch sensitivity. The three-band EQ provides additional tonal shaping around those two voices.
 
 ## Sources checked
-1. Triumph Overdrive | Wampler Pedals: https://www.wamplerpedals.com/products/distortion-overdrive/triumph/
-2. Wampler Pedals Triumph Overdrive | AllThePedals: https://allthepedals.com/pedals/wampler-pedals-triumph-overdrive
+1. Wampler Pedals - Triumph Overdrive: https://www.wamplerpedals.com/products/distortion-overdrive/triumph/
+2. Wampler Triumph Overdrive manual: https://www.wamplerpedals.com/wp-content/uploads/2023/07/WP_Triumph_web.pdf
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
-
-## Deep research verification
-
-This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
-
-### Verified description
-The Wampler Triumph is an affordable overdrive pedal from the Collective Series, offering versatile tones inspired by the Digitech Bad Monkey and Boss SD-1 .
-
-### Verified sound evidence
-The Triumph is a versatile overdrive based around two of Brian’s all-time favorite overdrives.
-In stock (can be backordered) Triumph Overdrive quantity Add to cart Watch video
-The Wampler Triumph is an affordable overdrive pedal from the Collective Series, offering versatile tones inspired by the Digitech Bad Monkey and Boss SD-1 .
-
-### Sources checked in this pass
-1. Triumph Overdrive | Wampler Pedals: https://www.wamplerpedals.com/products/distortion-overdrive/triumph/
-2. Wampler Pedals Triumph Overdrive | AllThePedals: https://allthepedals.com/pedals/wampler-pedals-triumph-overdrive
-3. Wampler Triumph Overdrive Pedal | Guitar.com: https://guitar.com/products/wampler-triumph-overdrive-pedal/
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.

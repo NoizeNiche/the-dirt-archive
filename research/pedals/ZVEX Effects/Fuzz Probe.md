@@ -7,41 +7,33 @@
 - **Identity:** ZVEX Effects's Fuzz Probe.
 
 ## What this pedal is
-Mod Modulation Octave Phaser Sampler Step Sequencer Tremolo Vibrato Volume Wah Yvette Young Guitar Pedals &larr; Back to Guitar Pedals Fuzz Probe Vexter Fuzz Probe Vexter $269.00 Vexter Series pedals are lower priced, featuring silk-screened art.
+The Fuzz Probe is a Fuzz Factory-family fuzz with a theremin-like proximity antenna that changes the **Stab** control without requiring a conventional knob turn.
 
 ## Colorways
-- If you want custom artwork on your pedal, see the custom requests page .
-- Add to cart Collision Devices Collision Devices TARS Fuzz/Filter Guitar Effects Pedal, Silver White $390.00 $ 390 .
-- The white screwdriver slot has a light arrow imprinted on it...
+- The Vexter version uses silk-screened artwork; ZVEX also documents hand-painted construction within the wider family.
+- No complete historical finish chronology was established.
 
 ## Versions and factory options
-- No distinct factory revision was established in the verified evidence packet.
+- Proximity-sensitive antenna control.
+- **Stab** parameter is controlled by moving a hand or foot near the copper plate.
+- Fuzz Factory-family oscillation and fuzz behavior.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- Vexter construction is treated as a separate product presentation, not a circuit revision.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
+- Exact production transistor/device information was not established in the checked sources.
 - **Exact transistor/device:** Unknown.
 
 ## Diode
-- Documented terms in the verified sources: LED.
-- The archive records only the component information explicitly present in these sources.
+- LED indicator is documented; exact clipping diode is not established.
 
 ## Sound
-Fuzz Probe Vexter &mdash; ZVEX Effects For Fastest Service: If you need repairs, technical help, or replacement parts, see our repairs page , or contact repairs@zvex.com .
-Mod Modulation Octave Phaser Sampler Step Sequencer Tremolo Vibrato Volume Wah Yvette Young Guitar Pedals &larr; Back to Guitar Pedals Fuzz Probe Vexter Fuzz Probe Vexter $269.00 Vexter Series pedals are lower priced, featuring silk-screened art.
-Quantity: Add To Cart The older brother of the Fuzz Factory™ has a theremin-like antenna that lets you adjust one the knobs (STAB) by moving your foot or hand close to the copper plate, making it a big favorite of experimental noise fans, with its varying oscillation pitch and strange fuzz guitar interactions.
+The proximity antenna makes the Fuzz Probe especially suited to experimental fuzz and oscillation. Moving closer to or farther from the copper plate changes the Stab setting and therefore the character and pitch of the oscillating fuzz.
 
 ## Sources checked
-1. Fuzz Probe Vexter &mdash; ZVEX Effects: https://www.zvex.com/guitar-pedals/fuzz-probe-vexter-guitar-effects-pedal
-2. https://www.amazon.com/clp/B00A884F82: https://www.amazon.com/clp/B00A884F82
-3. Zvex Effects Fuzz Probe Vexter &ndash; Coast Sonic: https://coastsonic.com/products/zvex-effects-fuzz-probe
-4. ZVex Effects Vexter Series Fuzz Probe Guitar Effects Pedal: https://reverb.com/item/37756170-zvex-effects-vexter-series-fuzz-probe-guitar-effects-pedal
-5. Hands-on review: ZVEX Effects Fuzz Probe: https://www.musicgearreview.com/article-display/4281.html
-6. Effects Pedals &gt; Gain &gt; ZVEX Effects - Fuzz Probe Vexter: https://www.peachguitars.com/z-vex-vexter-fuzz-probe.htm
-7. ZVEX Effects Vexter Fuzz Probe | Axe... And You Shall Receive: https://www.axeandyoushallreceive.com/product/zvex-effects-vexter-fuzz-probe
-8. ZVEX Effects Vexter Fuzz Probe Guitar Effect Pedal: https://www.liquidaudio.com/products/zvex-effects-vexter-series-fuzz-probe-guitar-effects-pedal
+1. ZVEX Effects - Fuzz Probe Vexter: https://www.zvex.com/guitar-pedals/fuzz-probe-vexter-guitar-effects-pedal
+2. ZVEX Effects - Guitar Pedals: https://www.zvex.com/guitar-pedals
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.
