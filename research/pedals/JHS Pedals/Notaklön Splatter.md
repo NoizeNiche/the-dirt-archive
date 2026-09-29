@@ -7,33 +7,27 @@
 - **Identity:** JHS Pedals's Notaklön Splatter.
 
 ## What this pedal is
-$0.00 USD NOTAKLÖN SPLATTER $119.00 USD Zoom Zoom Zoom Zoom Zoom Zoom NOTAKLÖN SPLATTER $119.00 USD − { $dispatch('change'); }) " > + Add to Cart This item is excluded from WELCOME15 and SMS/Text discounts.
-
-## Colorways
-- No specific factory colorway information was established in the verified evidence packet.
+Notaklön Splatter is a special-edition presentation of the Notaklön DIY overdrive concept. The archive treats the Splatter artwork/product identity separately without inventing a different circuit unless documented.
 
 ## Versions and factory options
-- No distinct factory revision was established in the verified evidence packet.
+- Notaklön DIY overdrive platform.
+- No independent numbered circuit revision was established for the Splatter edition.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- Splatter is treated as a product/artwork edition of the Notaklön family.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
-- **Exact transistor/device:** Unknown.
+- Exact production semiconductor details were not established.
 
 ## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
-- **Exact part:** Unknown.
+- Exact clipping/rectifier diode information was not established.
 
 ## Sound
-We’re proud to present the NOTAKLÖN DIY Overdrive kit, which utilizes the unique “Shamrock” modification that JHS performed on the *Klon KTR for several years.
-With easy-to-understand instructions (no soldering required), this kit is for anyone who wants a particularly mythical overdrive and the experience of easily building their own pedal.
-Treble – Controls the amount of treble boost or cut.
+The Splatter edition retains the Klon-style overdrive/boost concept of the Notaklön family.
 
 ## Sources checked
-1. NOTAKLÖN SPLATTER – JHS Pedals: https://jhspedals.info/products/notaklon-splatter
-2. JHS Pedals NOTAKLÖN SPLATTER - Shop: https://shop.app/products/8226933866596/notaklon-splatter
+1. JHS Pedals - Notaklön Splatter: https://jhspedals.info/products/notaklon-splatter
+2. JHS Pedals - Notaklön: https://jhspedals.info/products/notaklon
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.
