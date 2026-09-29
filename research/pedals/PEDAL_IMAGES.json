@@ -21213,19 +21213,6 @@
   },
   {
     "builder": "KMA Machines",
-    "pedal": "Queequeq",
-    "source_page": null,
-    "research_record": "./research/pedals/KMA Machines/Queequeq.md"
-  },
-  {
-    "builder": "KMA Machines",
-    "pedal": "Queequeq 2",
-    "image": "./assets/pedals/kma-machines/queequeq-2/primary.webp",
-    "source_page": null,
-    "research_record": "./research/pedals/KMA Machines/Queequeq 2.md"
-  },
-  {
-    "builder": "KMA Machines",
     "pedal": "WURHM",
     "image": "./assets/pedals/kma-machines/wurhm/primary.webp",
     "source_page": "https://www.kma-machines.com/",
