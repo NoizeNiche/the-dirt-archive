@@ -6,7 +6,8 @@
 - **Identity:** Buffalo FX Bender MkII documented in the historical pedal catalog.
 
 ## What this pedal is
-The Buffalo FX Bender MkII is listed as a distinct Buffalo FX fuzz product in the historical Effects Database catalog. The accessible surviving record confirms the model identity and fuzz classification, but does not preserve enough reliable factory detail to assign its transistor set, control layout, or exact circuit lineage.
+
+The latest two pedals are Buffalo’s take on the classic Tone bender Mkii circuit and a revised version of the original Buffalo Fuzz.
 
 ## Colorways
 No reliable production colorway history established.

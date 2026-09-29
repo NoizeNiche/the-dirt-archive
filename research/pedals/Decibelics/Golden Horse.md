@@ -8,6 +8,8 @@
 
 ## What this pedal is
 
+I’m absolutely impressed” – Bill U., Tone Chaser Decibelics Golden Horse Professional Overdrive is the result of all my experience studying and building Klon Centaur clones squeezed into a mini enclosure.
+
 ## Colorways
 - 1N34A Germanium diodes (Clear crystal and black band as the original, made in USA) – The commonly known as Magic Diodes.
 - + Same combination of carbon and metal film resistors + Same Tantalum capacitor in position C16 + Same format on capacitors in values above 1uf -Electrolytics- adapted to the size of the pedal + Same Charge Pump that raises internal voltage from 9V to 18V for bigger headroom + Same values and highest quality in the other components: Opamps TL072 from Texas Instruments, noiseless Charge Pump from superior quality, Bourns Pro Audio potentiometers, Footswitch Alpha DPDT, Lumberg Japan jacks, Hammond enclosure powdercoated and screen-printed by hand + Buffered bypass, same as the original, with correct values + PCB board of my own design, with parasitic noise level optimization Accessories included: White Shipping Box de luxe (Foam inside), 4 Rubber Feet, English Manual, Certificate of Authenticity.

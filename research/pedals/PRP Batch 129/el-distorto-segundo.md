@@ -6,7 +6,8 @@
 - **Identity:** Historical BYOC distortion kit.
 
 ## What this pedal is
-El Distorto Segundo is listed as a distinct BYOC distortion product in the historical catalog. The surviving indexed material establishes the model and classification but does not preserve enough reliable detail to assign a specific circuit lineage or complete control set without guessing. [1][2]
+
+The El Distorto Segundo is a unique and interesting distortion pedal that is not widely known or highly priced in the vintage market.
 
 ## Colorways
 - DIY kit; finished enclosure appearance depends on the builder.

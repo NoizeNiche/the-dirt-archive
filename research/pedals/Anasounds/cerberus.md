@@ -6,7 +6,8 @@
 - **Catalog type:** Overdrive
 
 ## What this pedal is
-Cerberus is listed in the Anasounds product catalog as an overdrive effect. [1]
+
+cerberus is versatile As we all know, you change your overdrive like you change your shirt, so why not put everything in one small pedal?
 
 ## Colorways
 - No reliable production colorway chronology established.

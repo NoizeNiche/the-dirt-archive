@@ -7,7 +7,8 @@
 - **Identity:** Crowella Effects's Defector.
 
 ## What this pedal is
-Crowella Effects's Defector is cataloged as a Overdrive pedal.
+
+Listen online for free on SoundCloud SoundCloud JavaScript is disabled You need to enable JavaScript to use SoundCloud Show me how to enable it Defector 3 by Crowella published on 2019 03 27T22:44:21Z Audio samples of the Defector pedal, on bass.
 
 ## Colorways
 - No specific factory colorway information was established in the verified evidence packet.

@@ -8,6 +8,8 @@
 
 ## What this pedal is
 
+The Diamond Drive package is complete with top mounted jacks, 9 18VDC operation and relay based true bypass switching.
+
 ## Colorways
 - TAILORED FOR ANY OCCASION The Burr-Brown equipped drive section delivers anything from a gritty clean boost to thick, natural asymmetric saturation while the dual-band active Baxandall EQ and selectable Warm High Shelf Filter dial it all in to perfection.
 

@@ -7,7 +7,8 @@
 - **Identity:** Wampler Pedals's Hot Wired.
 
 ## What this pedal is
-Wampler Pedals's Hot Wired is cataloged as a Distortion / Overdrive pedal.
+
+Two pedals in one (overdrive and distortion), the Hot Wired is without doubt one of the most versatile pedals available today.
 
 ## Colorways
 - No specific factory colorway information was established in the verified evidence packet.

@@ -8,6 +8,8 @@
 
 ## What this pedal is
 
+The Decibelics The Reverend is a part for part replica of the ‘Original Version’ EXP 2000 but with added best elements/characteristics of all three versions.
+
 ## Colorways
 
 ## Versions and factory options

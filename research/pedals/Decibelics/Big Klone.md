@@ -8,6 +8,8 @@
 
 ## What this pedal is
 
+DECIBELICS BIGKLONE ™ PROFESSIONAL OVERDRIVE Handcrafted from carefully selected parts with extreme attention to detail, the Decibelics Big Klone is a part for part replica of the legendary Klon Centaur Professional Overdrive.
+
 ## Colorways
 - JOIN THE NOTIFICATION LIST BY SELECTING YOUR PREFERRED VERSION (GOLD/SILVER) AND CLICKING ON THE BLACK BUTTON.
 - 1N34A Germanium diodes (Clear crystal and black band as the original, made in USA) – The commonly known as Magic

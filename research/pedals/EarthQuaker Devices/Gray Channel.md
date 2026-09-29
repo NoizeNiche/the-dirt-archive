@@ -7,7 +7,8 @@
 - **Identity:** EarthQuaker Devices's Gray Channel.
 
 ## What this pedal is
-Gray Channel® Dynamic Dirt Doubler The Gray Channel™ is a real “twofer” of an overdrive.
+
+THIS DEVICE IS NO LONGER IN PRODUCTION Gray Channel® Dynamic Dirt Doubler The Gray Channel™ is a real “twofer” of an overdrive.
 
 ## Colorways
 - Toggle: Si- Silicon clipping, N- No clipping, Ge- Germanium Clipping Red Channel Controls 4.

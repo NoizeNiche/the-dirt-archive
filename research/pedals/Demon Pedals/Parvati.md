@@ -8,6 +8,8 @@
 
 ## What this pedal is
 
+The Parvati is insanely versatile and impressed us extremely with its growling, aggressive low mids.
+
 ## Colorways
 - info@gitarrentotal.ch Categories: Demon Pedals , Effects , Fuzz Brand: Demon Pedals You may also like… Blue Colander Black Emperor CHF 240.00 Blackout Effectors Musket CHF 290.00 Contact us Demon Pedals Kijo CHF 240.00 Contact us Related products Rockboard DUO 2.1 with Bag CHF 84.00 Contact us Toaster Cables Patchkabel 15cm CHF 32.00 Toaster Cables Patchkabel 22cm CHF 34.00 Be the first to hear about our news Protected by Google reCAPTCHA Privacy | Terms Visit us in the shop Gitarren Total Aemtlerstr.
 - -15% Kondo Shifuku D-Style - Black Pearl (Faceplate)...

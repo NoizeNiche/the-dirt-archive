@@ -7,7 +7,8 @@
 - **Identity:** Dwarfcraft Devices's The Internet.
 
 ## What this pedal is
-Dwarfcraft Devices's The Internet is cataloged as a Distortion / Overdrive pedal.
+
+The Internet is a good old fashioned overdrive pedal, with a footswitchable gain boost that goes from comfy crunch to completely nuts!
 
 ## Colorways
 - No specific factory colorway information was established in the verified evidence packet.
