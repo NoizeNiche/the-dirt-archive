@@ -30,6 +30,12 @@ on:
 permissions:
   contents: read
 
+concurrency:
+  group: dirt-exhaustive-qa
+  # Only the newest full QA snapshot should consume a runner. Older queued audits
+  # become stale as soon as another photo/source change lands.
+  cancel-in-progress: true
+
 jobs:
   audit:
     runs-on: ubuntu-latest
