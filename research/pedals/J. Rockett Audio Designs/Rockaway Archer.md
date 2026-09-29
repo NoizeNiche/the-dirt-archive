@@ -45,8 +45,8 @@ Rockett Audio Designs Rockaway Archer Steve Stevens Signature Overdrive Pedal Th
 
 ### Verified sound evidence
 Rockett Audio Designs Q Series Rockaway Archer Overdrive and 6-Band EQ Guitar Effects Pedal 4.5 (6) See all details Product details Brand J.
-99 Join Prime to get FREE delivery Tomorrow, Sep 30 Add to cart JHS Pedals JHS Pedals JHS AT+ Andy Timmons Signature Overdrive Guitar Effects Pedal 4.7 (192) 100+ viewed in past month $219.00 $ 219 .
-00 Join Prime to get FREE delivery Thu, Oct 1 Add to cart SATONE Satone S812 English Rose British Chime Overdrive Electric Guitar Effect Pedal - Bell-like Tone Transform Effect Preset Acoustic Metal Pedal with 3-Band EQ True Bypass 4.4 (45) 100+ viewed in past month -12% $29.99 $ 29 .
+JHS Pedals JHS Pedals JHS AT+ Andy Timmons Signature Overdrive Guitar Effects Pedal 4.7 (192) 100+ viewed in past month $219.00 $ 219 .
+SATONE Satone S812 English Rose British Chime Overdrive Electric Guitar Effect Pedal - Bell-like Tone Transform Effect Preset Acoustic Metal Pedal with 3-Band EQ True Bypass 4.4 (45) 100+ viewed in past month -12% $29.99 $ 29 .
 
 ### Sources checked in this pass
 1. J. Rockett Audio Designs Rockaway Archer Steve Stevens ... - Sweetwater: https://www.sweetwater.com/store/detail/RockawayOD--j-rockett-audio-designs-rockaway-archer-steve-stevens-signature-eq-overdrive-pedal

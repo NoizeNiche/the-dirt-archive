@@ -28,11 +28,7 @@ Madbean Pedals (1) Manufacturer VFE Pedals Effect Type Original VFE Projects Yea
 
 ## Sound
 
-Published on July 31, 2011 VFE Pedals compressor distortion octave fuzz (1 octave up) pedal Information VFE Pedals The Triplet combines 3 classic circuits into one pedal - Orange Squeezer compressor, Green Ringer analog octave, and Blue Clipper distortion.
-
-Each has it's own on/off toggle switch, plus a FILTER control has been added to the distortion section to shape the treble response.
-
-VFE Pedals The Triplet — DIY PCB clones & build options: https://builder.pachydermpedals.com/base-pedals/456b552b-f42a-408c-91d7-dc8d94a83c8f - **Archive parent:** The Triplet - **Builder:** VFE Pedals - **Catalog type:** Distortion - **Identity:** VFE Pedals's The Triplet.
+No verified pedal-specific sonic summary is currently established in the archive.
 
 ## Sources checked
 1. VFE Pedals The Triplet | Effects Database: https://www.effectsdatabase.com/model/vfe/triplet

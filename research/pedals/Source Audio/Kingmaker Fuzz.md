@@ -63,4 +63,4 @@ Connect the Kingmaker to the Neuro 3 Desktop Editor or Mobile App (free download
 7. Source Audio Kingmaker Fuzz One Series Fuzz Guitar Effects Pedal SA245 - Canada's Favourite Music Store - Acclaim Sound and Lighting: https://www.acclaim-music.com/source-audio-kingmaker-fuzz-one-series-fuzz-guitar-effects-pedal-sa245.html
 8. Source Audio KING MAKER FUZZ : Meilleurs prix neuf, Avis, Test et Vente d'occasion - EasyZic: https://www.easyzic.com/avis-comparatifs/source-audio-king-maker-fuzz,m74540.html
 9. TikTok - Make Your Day: https://www.tiktok.com/tag/kingmakerfuzz
-10. Yow! Some nice Kingmakers Fuzz riffs from @alaniarussi. Dig the Octavia tones in the 2nd half of the vid. Nice playing, Alan! 🤘🤓#sourceaudio #fuzzpedal #kingmakerfuzz #octavia #stompbox | Source Audio: https://www.facebook.com/sourceaudio/videos/10155104223633457/
+10. facebook.com: https://www.facebook.com/sourceaudio/videos/10155104223633457/

@@ -29,11 +29,7 @@ VFE Pedals's Triumvirate is cataloged in the archive as a Distortion pedal.
 
 ## Sound
 
-**Archive parent:** Triumvirate - **Builder:** VFE Pedals - **Catalog type:** Distortion - **Identity:** VFE Pedals's Triumvirate.
-
-VFE Pedals's Triumvirate is cataloged in the archive as a Distortion pedal.
-
-Published on July 31, 2011 VFE Pedals distortion pedal Information VFE Pedals The Triumvirate is a unique take on an distortion box.
+No verified pedal-specific sonic summary is currently established in the archive.
 
 ## Sources checked
 1. Triumvirate by VFE Pedals | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/VFE-Pedals/Triumvirate/68986107/

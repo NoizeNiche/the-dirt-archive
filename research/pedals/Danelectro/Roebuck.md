@@ -8,7 +8,7 @@
 
 ## What this pedal is
 
-Ronquillo 43,183 views 08:05 Reverse Delay: The Hardest Guitar Effect to Control Music is Win 284,201 views 03:03 Danelectro Roebuck Demo Tim9house Danelectro Official 823 views × Danelectro Roebuck Demo Tim9house © Danelectro 2026 This website cannot be reproduced in any manner, whatsoever, without permission.
+Danelectro's Roebuck is cataloged in the archive as a Distortion pedal.
 
 ## Colorways
 - Red Hot Longhorn ® Triple Divine™ & 59 Divine™ Longhorn® & 66BT Baritone Blackout 59™ & Stock ’59 Doubleneck ’57 Guitar ’66-12 String Lefty Guitars ’64XT Guitar ’59X12 Metal Flake 59M NOS+™ ’59XT Guitar ’66T Guitar 12 String & Vintage 12/Bari 1959 Guitars Sitar/Resonator Baritone & Bass ’67 Guitar Accessories Peace Love & Fuzz Book Honeytone Mini Amp 1960’s Vintage Battery See All Accessories Pedals NEW!
@@ -90,5 +90,5 @@ Danelectro® brings back this awesome pedal, nailing the original tone and grit,
 Demo by Tim Nienhuis Tim Nienhuis 14,063 views 08:45 Danelectro Roebuck overdrive / distortion pedal
 
 ### Sources checked in this pass
-1. Back Talk&trade; & Roebuck&trade; | Danelectro Guitars: https://danelectro.com/pedals/back-talk-roebuck/
+1. Back Talk™ & Roebuck™ | Danelectro Guitars: https://danelectro.com/pedals/back-talk-roebuck/
 2. Sweetwater www.sweetwater.com: https://www.sweetwater.com/store/detail/RoebuckDist--danelectro-roebuck-distortion-pedal

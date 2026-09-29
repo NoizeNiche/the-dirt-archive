@@ -28,11 +28,7 @@ VFE Pedals's Woodchipper is cataloged in the archive as a Fuzz pedal.
 
 ## Sound
 
-**Archive parent:** Woodchipper - **Builder:** VFE Pedals - **Catalog type:** Fuzz - **Identity:** VFE Pedals's Woodchipper.
-
-VFE Pedals's Woodchipper is cataloged in the archive as a Fuzz pedal.
-
-Published on January 30, 2013 VFE Pedals octave fuzz (1 octave down) pedal NAMM 2013 Information VFE Pedals The initial goal of the Woodchipper is to cram the vintage Maestro Brassmaster circuit into a VFE size enclosure.
+No verified pedal-specific sonic summary is currently established in the archive.
 
 ## Sources checked
 1. Woodchipper by VFE Pedals | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/VFE-Pedals/Woodchipper/68986111/

@@ -246,7 +246,7 @@ Theophane is intended around thick, sustaining mid-1970s Muff-style fuzz, with t
 
 ### Sources checked in this pass
 1. catalog/override source: https://reverb.com/item/88383147-charlie-pedals-theophane-fuzz-73-v2-violet-ram-s-head-big-muff
-2. Charlie Pedals Theophane (Ram&apos;s Head distortion/Muff) guitar effects pedal | eBay Australia: https://www.ebay.com.au/itm/237010500107
+2. Charlie Pedals Theophane (Ram's Head distortion/Muff) guitar effects pedal | eBay Australia: https://www.ebay.com.au/itm/237010500107
 3. Charlie Pedals Theophane Ram's Head Guitar Overdrive Effect ... - eBay: https://www.ebay.co.uk/itm/365707883164
 
 ## Deep research verification

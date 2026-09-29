@@ -54,7 +54,7 @@ With a gain control spanning a 50dB range, the Bass Driver can be restrained or 
 The tone controls are designed to emphasize the natural attack of a picked bass while also provisioning for down-tuned modernism.
 
 ### Sources checked in this pass
-1. 0xEAE Bass Driver Archive &mdash; Electronic Audio Experiments: https://www.electronicaudioexperiments.com/legacy/0xeae-bass
+1. 0xEAE Bass Driver Archive — Electronic Audio Experiments: https://www.electronicaudioexperiments.com/legacy/0xeae-bass
 2. Electronic Audio Experiments 0xEAE Bass Driver — Pedal: https://equipboard.com/items/electronic-audio-experiments-0xeae-bass-driver
 3. Electronic Audio Experiments x Obstructures 0xEAE Bass Driver | Effects Database: https://www.effectsdatabase.com/model/electronicaudioexperiments/0xeae/bassdrive
 4. Electronic Audio Experiments 0xEAE Bass Driver Bass Driver: https://reverb.com/item/99854561-electronic-audio-experiments-0xeae-bass-driver-bass-driver

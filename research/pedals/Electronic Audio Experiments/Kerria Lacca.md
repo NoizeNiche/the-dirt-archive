@@ -57,8 +57,7 @@ MG ID: 33123 Cornfed preamp/porkolating fuzz combo pal John Snyder from Electron
 This is like the tone knob on your guitar, but backwards - the further clockwise you go, the more highs you cut.
 
 ### Sources checked in this pass
-1. Facebook: https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2FElectronicAudioExperiments%2Fphotos%2Fhere-is-the-kerria-lacca-our-collaboration-with-electrofoodspedals-featuring-two%2F2438793153063399%2F
 2. Other/unknown Electrofoods / Electronic Audio Experiments Kerria Lacca - Pedal on ModularGrid: https://modulargrid.net/p/other-unknown-electrofoods-electronic-audio-experiments-kerria-lacca
-3. Kerria Lacca &mdash; ELECTROFOODS ULTD: https://www.electrofoods.space/kerria-lacca
+3. Kerria Lacca — ELECTROFOODS ULTD: https://www.electrofoods.space/kerria-lacca
 4. KERRIA LACCA | Electrofoods Ultd: https://store.electrofoods.space/product/kerria-lacca
-5. Legacy Products &mdash; Electronic Audio Experiments: https://www.electronicaudioexperiments.com/legacy
+5. Legacy Products — Electronic Audio Experiments: https://www.electronicaudioexperiments.com/legacy

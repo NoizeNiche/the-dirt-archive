@@ -132,7 +132,7 @@ Supa — Basic Audio Contact Store About Menu Basic Audio Contact Store About Pe
 **Primary reference:** Marshall Supa Fuzz.
 
 ### Sources checked in this pass
-1. Supa &mdash; Basic Audio: https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-cnzrr-ksfg5-kba26-5yxez-twy6r-snkj6-rafma-ypp3x-8hx4s
+1. Supa — Basic Audio: https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-cnzrr-ksfg5-kba26-5yxez-twy6r-snkj6-rafma-ypp3x-8hx4s
 
 ## Deep research verification
 
@@ -153,7 +153,7 @@ Supa — Basic Audio Contact Store About Menu Basic Audio Contact Store About Pe
 **Primary reference:** Marshall Supa Fuzz.
 
 ### Sources checked in this pass
-1. Supa &mdash; Basic Audio: https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-cnzrr-ksfg5-kba26-5yxez-twy6r-snkj6-rafma-ypp3x-8hx4s
+1. Supa — Basic Audio: https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-cnzrr-ksfg5-kba26-5yxez-twy6r-snkj6-rafma-ypp3x-8hx4s
 
 ## Deep research verification
 
@@ -174,7 +174,7 @@ Supa — Basic Audio Contact Store About Menu Basic Audio Contact Store About Pe
 **Primary reference:** Marshall Supa Fuzz.
 
 ### Sources checked in this pass
-1. Supa &mdash; Basic Audio: https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-cnzrr-ksfg5-kba26-5yxez-twy6r-snkj6-rafma-ypp3x-8hx4s
+1. Supa — Basic Audio: https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-cnzrr-ksfg5-kba26-5yxez-twy6r-snkj6-rafma-ypp3x-8hx4s
 2. Basic Audio — Supa: https://images.squarespace-cdn.com/content/v1/5da9e97016ddf940acffa2d3/1574396011559-OKKCSHFFNYO58EDHKI7Q/DSCF5091-Edit.jpg
 
 ## Deep research verification
@@ -196,7 +196,7 @@ Supa — Basic Audio Contact Store About Menu Basic Audio Contact Store About Pe
 **Primary reference:** Marshall Supa Fuzz.
 
 ### Sources checked in this pass
-1. Supa &mdash; Basic Audio: https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-cnzrr-ksfg5-kba26-5yxez-twy6r-snkj6-rafma-ypp3x-8hx4s
+1. Supa — Basic Audio: https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-cnzrr-ksfg5-kba26-5yxez-twy6r-snkj6-rafma-ypp3x-8hx4s
 2. Basic Audio — Supa: https://images.squarespace-cdn.com/content/v1/5da9e97016ddf940acffa2d3/1574396011559-OKKCSHFFNYO58EDHKI7Q/DSCF5091-Edit.jpg
 
 ## Deep research verification
@@ -218,7 +218,7 @@ Supa — Basic Audio Contact Store About Menu Basic Audio Contact Store About Pe
 **Primary reference:** Marshall Supa Fuzz.
 
 ### Sources checked in this pass
-1. Supa &mdash; Basic Audio: https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-cnzrr-ksfg5-kba26-5yxez-twy6r-snkj6-rafma-ypp3x-8hx4s
+1. Supa — Basic Audio: https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-cnzrr-ksfg5-kba26-5yxez-twy6r-snkj6-rafma-ypp3x-8hx4s
 2. Basic Audio — Supa: https://images.squarespace-cdn.com/content/v1/5da9e97016ddf940acffa2d3/1574396011559-OKKCSHFFNYO58EDHKI7Q/DSCF5091-Edit.jpg
 
 ## Deep research verification
@@ -240,7 +240,7 @@ Supa — Basic Audio Contact Store About Menu Basic Audio Contact Store About Pe
 **Primary reference:** Marshall Supa Fuzz.
 
 ### Sources checked in this pass
-1. Supa &mdash; Basic Audio: https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-cnzrr-ksfg5-kba26-5yxez-twy6r-snkj6-rafma-ypp3x-8hx4s
+1. Supa — Basic Audio: https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-cnzrr-ksfg5-kba26-5yxez-twy6r-snkj6-rafma-ypp3x-8hx4s
 2. Basic Audio — Supa: https://images.squarespace-cdn.com/content/v1/5da9e97016ddf940acffa2d3/1574396011559-OKKCSHFFNYO58EDHKI7Q/DSCF5091-Edit.jpg
 
 ## Deep research verification
@@ -262,7 +262,7 @@ Supa — Basic Audio Contact Store About Menu Basic Audio Contact Store About Pe
 **Primary reference:** Marshall Supa Fuzz.
 
 ### Sources checked in this pass
-1. Supa &mdash; Basic Audio: https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-cnzrr-ksfg5-kba26-5yxez-twy6r-snkj6-rafma-ypp3x-8hx4s
+1. Supa — Basic Audio: https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-cnzrr-ksfg5-kba26-5yxez-twy6r-snkj6-rafma-ypp3x-8hx4s
 2. Basic Audio — Supa: https://images.squarespace-cdn.com/content/v1/5da9e97016ddf940acffa2d3/1574396011559-OKKCSHFFNYO58EDHKI7Q/DSCF5091-Edit.jpg
 
 ## Deep research verification
@@ -284,5 +284,5 @@ Supa — Basic Audio Contact Store About Menu Basic Audio Contact Store About Pe
 **Primary reference:** Marshall Supa Fuzz.
 
 ### Sources checked in this pass
-1. Supa &mdash; Basic Audio: https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-cnzrr-ksfg5-kba26-5yxez-twy6r-snkj6-rafma-ypp3x-8hx4s
+1. Supa — Basic Audio: https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-cnzrr-ksfg5-kba26-5yxez-twy6r-snkj6-rafma-ypp3x-8hx4s
 2. Basic Audio — Supa: https://images.squarespace-cdn.com/content/v1/5da9e97016ddf940acffa2d3/1574396011559-OKKCSHFFNYO58EDHKI7Q/DSCF5091-Edit.jpg

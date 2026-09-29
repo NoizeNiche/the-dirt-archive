@@ -121,7 +121,7 @@ Sag toggle which boosts gain will sag and dip the output with a harder pick atta
 **Archive parent:** Supa Tweak - **Builder:** Basic Audio - **Catalog type:** Fuzz - **Identity:** Expanded Supa MKI/Marshall Supa Fuzz-style fuzz with externally separated Gain and Bias, interstage low/gain cut and Sag switching.
 
 ### Sources checked in this pass
-1. Supa Tweak &mdash; Basic Audio: https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-cnzrr-bfrf8
+1. Supa Tweak — Basic Audio: https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-cnzrr-bfrf8
 
 ## Deep research verification
 
@@ -139,7 +139,7 @@ Sag toggle which boosts gain will sag and dip the output with a harder pick atta
 **Archive parent:** Supa Tweak - **Builder:** Basic Audio - **Catalog type:** Fuzz - **Identity:** Expanded Supa MKI/Marshall Supa Fuzz-style fuzz with externally separated Gain and Bias, interstage low/gain cut and Sag switching.
 
 ### Sources checked in this pass
-1. Supa Tweak &mdash; Basic Audio: https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-cnzrr-bfrf8
+1. Supa Tweak — Basic Audio: https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-cnzrr-bfrf8
 
 ## Deep research verification
 
@@ -157,7 +157,7 @@ Sag toggle which boosts gain will sag and dip the output with a harder pick atta
 **Archive parent:** Supa Tweak - **Builder:** Basic Audio - **Catalog type:** Fuzz - **Identity:** Expanded Supa MKI/Marshall Supa Fuzz-style fuzz with externally separated Gain and Bias, interstage low/gain cut and Sag switching.
 
 ### Sources checked in this pass
-1. Supa Tweak &mdash; Basic Audio: https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-cnzrr-bfrf8
+1. Supa Tweak — Basic Audio: https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-cnzrr-bfrf8
 
 ## Deep research verification
 
@@ -175,7 +175,7 @@ Sag toggle which boosts gain will sag and dip the output with a harder pick atta
 **Archive parent:** Supa Tweak - **Builder:** Basic Audio - **Catalog type:** Fuzz - **Identity:** Expanded Supa MKI/Marshall Supa Fuzz-style fuzz with externally separated Gain and Bias, interstage low/gain cut and Sag switching.
 
 ### Sources checked in this pass
-1. Supa Tweak &mdash; Basic Audio: https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-cnzrr-bfrf8
+1. Supa Tweak — Basic Audio: https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-cnzrr-bfrf8
 
 ## Deep research verification
 
@@ -193,7 +193,7 @@ Sag toggle which boosts gain will sag and dip the output with a harder pick atta
 **Archive parent:** Supa Tweak - **Builder:** Basic Audio - **Catalog type:** Fuzz - **Identity:** Expanded Supa MKI/Marshall Supa Fuzz-style fuzz with externally separated Gain and Bias, interstage low/gain cut and Sag switching.
 
 ### Sources checked in this pass
-1. Supa Tweak &mdash; Basic Audio: https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-cnzrr-bfrf8
+1. Supa Tweak — Basic Audio: https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-cnzrr-bfrf8
 
 ## Deep research verification
 
@@ -211,7 +211,7 @@ Sag toggle which boosts gain will sag and dip the output with a harder pick atta
 **Archive parent:** Supa Tweak - **Builder:** Basic Audio - **Catalog type:** Fuzz - **Identity:** Expanded Supa MKI/Marshall Supa Fuzz-style fuzz with externally separated Gain and Bias, interstage low/gain cut and Sag switching.
 
 ### Sources checked in this pass
-1. Supa Tweak &mdash; Basic Audio: https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-cnzrr-bfrf8
+1. Supa Tweak — Basic Audio: https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-cnzrr-bfrf8
 
 ## Deep research verification
 
@@ -229,7 +229,7 @@ Sag toggle which boosts gain will sag and dip the output with a harder pick atta
 **Archive parent:** Supa Tweak - **Builder:** Basic Audio - **Catalog type:** Fuzz - **Identity:** Expanded Supa MKI/Marshall Supa Fuzz-style fuzz with externally separated Gain and Bias, interstage low/gain cut and Sag switching.
 
 ### Sources checked in this pass
-1. Supa Tweak &mdash; Basic Audio: https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-cnzrr-bfrf8
+1. Supa Tweak — Basic Audio: https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-cnzrr-bfrf8
 
 ## Deep research verification
 
@@ -247,4 +247,4 @@ Sag toggle which boosts gain will sag and dip the output with a harder pick atta
 **Archive parent:** Supa Tweak - **Builder:** Basic Audio - **Catalog type:** Fuzz - **Identity:** Expanded Supa MKI/Marshall Supa Fuzz-style fuzz with externally separated Gain and Bias, interstage low/gain cut and Sag switching.
 
 ### Sources checked in this pass
-1. Supa Tweak &mdash; Basic Audio: https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-cnzrr-bfrf8
+1. Supa Tweak — Basic Audio: https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-cnzrr-bfrf8

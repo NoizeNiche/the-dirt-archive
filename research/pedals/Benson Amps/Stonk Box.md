@@ -178,7 +178,7 @@ Equipped with Benson’s Automatic Thermal Bias Technology, the Stonk Box takes 
 1. Benson Amps Stonk Box Guitar Effects Pedal | Distortion, Overdrive, Boost & Fuzz Pedals | hardwaredrum.com: https://www.hardwaredrum.com/product/benson-amps-stonk-box-guitar-effects-pedal/
 2. Benson Amps Stonk Box Temperature-Controlled Germanium Fuzz Pedal - Andertons Music Co.: https://www.andertons.co.uk/benson-amps-stonk-box-germanium-fuzz-pedal/
 3. catalog/override source: https://www.effectsdatabase.com/model/benson/stonkbox
-4. PEDAL WARRANTY &mdash; BENSON AMPS: https://www.bensonamps.com/pedalwarranty
+4. PEDAL WARRANTY — BENSON AMPS: https://www.bensonamps.com/pedalwarranty
 
 ## Deep research verification
 
@@ -209,7 +209,7 @@ Equipped with Benson’s Automatic Thermal Bias Technology, the Stonk Box takes 
 1. Benson Amps Stonk Box Guitar Effects Pedal | Distortion, Overdrive, Boost & Fuzz Pedals | hardwaredrum.com: https://www.hardwaredrum.com/product/benson-amps-stonk-box-guitar-effects-pedal/
 2. Benson Amps Stonk Box Temperature-Controlled Germanium Fuzz Pedal - Andertons Music Co.: https://www.andertons.co.uk/benson-amps-stonk-box-germanium-fuzz-pedal/
 3. catalog/override source: https://www.effectsdatabase.com/model/benson/stonkbox
-4. PEDAL WARRANTY &mdash; BENSON AMPS: https://www.bensonamps.com/pedalwarranty
+4. PEDAL WARRANTY — BENSON AMPS: https://www.bensonamps.com/pedalwarranty
 
 ## Deep research verification
 
@@ -240,7 +240,7 @@ Equipped with Benson’s Automatic Thermal Bias Technology, the Stonk Box takes 
 1. Benson Amps Stonk Box Guitar Effects Pedal | Distortion, Overdrive, Boost & Fuzz Pedals | hardwaredrum.com: https://www.hardwaredrum.com/product/benson-amps-stonk-box-guitar-effects-pedal/
 2. Benson Amps Stonk Box Temperature-Controlled Germanium Fuzz Pedal - Andertons Music Co.: https://www.andertons.co.uk/benson-amps-stonk-box-germanium-fuzz-pedal/
 3. catalog/override source: https://www.effectsdatabase.com/model/benson/stonkbox
-4. PEDAL WARRANTY &mdash; BENSON AMPS: https://www.bensonamps.com/pedalwarranty
+4. PEDAL WARRANTY — BENSON AMPS: https://www.bensonamps.com/pedalwarranty
 
 ## Deep research verification
 
@@ -271,7 +271,7 @@ Equipped with Benson’s Automatic Thermal Bias Technology, the Stonk Box takes 
 1. Benson Amps Stonk Box Guitar Effects Pedal | Distortion, Overdrive, Boost & Fuzz Pedals | hardwaredrum.com: https://www.hardwaredrum.com/product/benson-amps-stonk-box-guitar-effects-pedal/
 2. Benson Amps Stonk Box Temperature-Controlled Germanium Fuzz Pedal - Andertons Music Co.: https://www.andertons.co.uk/benson-amps-stonk-box-germanium-fuzz-pedal/
 3. catalog/override source: https://www.effectsdatabase.com/model/benson/stonkbox
-4. PEDAL WARRANTY &mdash; BENSON AMPS: https://www.bensonamps.com/pedalwarranty
+4. PEDAL WARRANTY — BENSON AMPS: https://www.bensonamps.com/pedalwarranty
 
 ## Deep research verification
 
@@ -302,7 +302,7 @@ Equipped with Benson’s Automatic Thermal Bias Technology, the Stonk Box takes 
 1. Benson Amps Stonk Box Guitar Effects Pedal | Distortion, Overdrive, Boost & Fuzz Pedals | hardwaredrum.com: https://www.hardwaredrum.com/product/benson-amps-stonk-box-guitar-effects-pedal/
 2. Benson Amps Stonk Box Temperature-Controlled Germanium Fuzz Pedal - Andertons Music Co.: https://www.andertons.co.uk/benson-amps-stonk-box-germanium-fuzz-pedal/
 3. catalog/override source: https://www.effectsdatabase.com/model/benson/stonkbox
-4. PEDAL WARRANTY &mdash; BENSON AMPS: https://www.bensonamps.com/pedalwarranty
+4. PEDAL WARRANTY — BENSON AMPS: https://www.bensonamps.com/pedalwarranty
 
 ## Deep research verification
 
@@ -333,7 +333,7 @@ Equipped with Benson’s Automatic Thermal Bias Technology, the Stonk Box takes 
 1. Benson Amps Stonk Box Guitar Effects Pedal | Distortion, Overdrive, Boost & Fuzz Pedals | hardwaredrum.com: https://www.hardwaredrum.com/product/benson-amps-stonk-box-guitar-effects-pedal/
 2. Benson Amps Stonk Box Temperature-Controlled Germanium Fuzz Pedal - Andertons Music Co.: https://www.andertons.co.uk/benson-amps-stonk-box-germanium-fuzz-pedal/
 3. catalog/override source: https://www.effectsdatabase.com/model/benson/stonkbox
-4. PEDAL WARRANTY &mdash; BENSON AMPS: https://www.bensonamps.com/pedalwarranty
+4. PEDAL WARRANTY — BENSON AMPS: https://www.bensonamps.com/pedalwarranty
 
 ## Deep research verification
 
@@ -364,7 +364,7 @@ Equipped with Benson’s Automatic Thermal Bias Technology, the Stonk Box takes 
 1. Benson Amps Stonk Box Guitar Effects Pedal | Distortion, Overdrive, Boost & Fuzz Pedals | hardwaredrum.com: https://www.hardwaredrum.com/product/benson-amps-stonk-box-guitar-effects-pedal/
 2. Benson Amps Stonk Box Temperature-Controlled Germanium Fuzz Pedal - Andertons Music Co.: https://www.andertons.co.uk/benson-amps-stonk-box-germanium-fuzz-pedal/
 3. catalog/override source: https://www.effectsdatabase.com/model/benson/stonkbox
-4. PEDAL WARRANTY &mdash; BENSON AMPS: https://www.bensonamps.com/pedalwarranty
+4. PEDAL WARRANTY — BENSON AMPS: https://www.bensonamps.com/pedalwarranty
 
 ## Deep research verification
 
@@ -395,4 +395,4 @@ Equipped with Benson’s Automatic Thermal Bias Technology, the Stonk Box takes 
 1. Benson Amps Stonk Box Guitar Effects Pedal | Distortion, Overdrive, Boost & Fuzz Pedals | hardwaredrum.com: https://www.hardwaredrum.com/product/benson-amps-stonk-box-guitar-effects-pedal/
 2. Benson Amps Stonk Box Temperature-Controlled Germanium Fuzz Pedal - Andertons Music Co.: https://www.andertons.co.uk/benson-amps-stonk-box-germanium-fuzz-pedal/
 3. catalog/override source: https://www.effectsdatabase.com/model/benson/stonkbox
-4. PEDAL WARRANTY &mdash; BENSON AMPS: https://www.bensonamps.com/pedalwarranty
+4. PEDAL WARRANTY — BENSON AMPS: https://www.bensonamps.com/pedalwarranty

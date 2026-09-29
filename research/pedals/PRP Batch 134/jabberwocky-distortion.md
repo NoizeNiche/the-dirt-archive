@@ -40,12 +40,11 @@ This pass adds only claims supported by the newly admitted exact-model evidence.
 Byron Amplification's Jabberwocky Distortion is cataloged as a distortion pedal.
 
 ### Verified sound evidence
-Boost/Drive and Fuzz Sale Price: $149.00 Original Price: $159.00 sold out Kompressor Sale Price: $149.00 Original Price: $159.00 sold out Lil' Shaman Overdrive Sale Price: $149.00 Original Price: $159.00 sold out Again!
 Byron describes the Jabberwocky as an exacting tribute to the original “rodent” distortion pedal and documents a **NOS LM308** op amp.
 Byron describes the pedal as producing fat crunch and late-1970s/early-1980s-style distortion.
 
 ### Sources checked in this pass
-1. Pedals &mdash; Byron Amplification: https://byronamplification.com/pedals
+1. Pedals — Byron Amplification: https://byronamplification.com/pedals
 
 ## Deep research verification
 
@@ -55,12 +54,11 @@ This pass adds only claims supported by the newly admitted exact-model evidence.
 Byron Amplification's Jabberwocky Distortion is cataloged as a distortion pedal.
 
 ### Verified sound evidence
-Boost/Drive and Fuzz Sale Price: $149.00 Original Price: $159.00 sold out Kompressor Sale Price: $149.00 Original Price: $159.00 sold out Lil' Shaman Overdrive Sale Price: $149.00 Original Price: $159.00 sold out Again!
 Byron describes the Jabberwocky as an exacting tribute to the original “rodent” distortion pedal and documents a **NOS LM308** op amp.
 Byron describes the pedal as producing fat crunch and late-1970s/early-1980s-style distortion.
 
 ### Sources checked in this pass
-1. Pedals &mdash; Byron Amplification: https://byronamplification.com/pedals
+1. Pedals — Byron Amplification: https://byronamplification.com/pedals
 
 ## Deep research verification
 
@@ -70,12 +68,11 @@ This pass adds only claims supported by the newly admitted exact-model evidence.
 Byron Amplification's Jabberwocky Distortion is cataloged as a distortion pedal.
 
 ### Verified sound evidence
-Boost/Drive and Fuzz Sale Price: $149.00 Original Price: $159.00 sold out Kompressor Sale Price: $149.00 Original Price: $159.00 sold out Lil' Shaman Overdrive Sale Price: $149.00 Original Price: $159.00 sold out Again!
 Byron describes the Jabberwocky as an exacting tribute to the original “rodent” distortion pedal and documents a **NOS LM308** op amp.
 Byron describes the pedal as producing fat crunch and late-1970s/early-1980s-style distortion.
 
 ### Sources checked in this pass
-1. Pedals &mdash; Byron Amplification: https://byronamplification.com/pedals
+1. Pedals — Byron Amplification: https://byronamplification.com/pedals
 
 ## Deep research verification
 
@@ -85,12 +82,11 @@ This pass adds only claims supported by the newly admitted exact-model evidence.
 Byron Amplification's Jabberwocky Distortion is cataloged as a distortion pedal.
 
 ### Verified sound evidence
-Boost/Drive and Fuzz Sale Price: $149.00 Original Price: $159.00 sold out Kompressor Sale Price: $149.00 Original Price: $159.00 sold out Lil' Shaman Overdrive Sale Price: $149.00 Original Price: $159.00 sold out Again!
 Byron describes the Jabberwocky as an exacting tribute to the original “rodent” distortion pedal and documents a **NOS LM308** op amp.
 Byron describes the pedal as producing fat crunch and late-1970s/early-1980s-style distortion.
 
 ### Sources checked in this pass
-1. Pedals &mdash; Byron Amplification: https://byronamplification.com/pedals
+1. Pedals — Byron Amplification: https://byronamplification.com/pedals
 
 ## Deep research verification
 
@@ -100,12 +96,11 @@ This pass adds only claims supported by the newly admitted exact-model evidence.
 Byron Amplification's Jabberwocky Distortion is cataloged as a distortion pedal.
 
 ### Verified sound evidence
-Boost/Drive and Fuzz Sale Price: $149.00 Original Price: $159.00 sold out Kompressor Sale Price: $149.00 Original Price: $159.00 sold out Lil' Shaman Overdrive Sale Price: $149.00 Original Price: $159.00 sold out Again!
 Byron describes the Jabberwocky as an exacting tribute to the original “rodent” distortion pedal and documents a **NOS LM308** op amp.
 Byron describes the pedal as producing fat crunch and late-1970s/early-1980s-style distortion.
 
 ### Sources checked in this pass
-1. Pedals &mdash; Byron Amplification: https://byronamplification.com/pedals
+1. Pedals — Byron Amplification: https://byronamplification.com/pedals
 
 ## Deep research verification
 
@@ -115,12 +110,11 @@ This pass adds only claims supported by the newly admitted exact-model evidence.
 Byron Amplification's Jabberwocky Distortion is cataloged as a distortion pedal.
 
 ### Verified sound evidence
-Boost/Drive and Fuzz Sale Price: $149.00 Original Price: $159.00 sold out Kompressor Sale Price: $149.00 Original Price: $159.00 sold out Lil' Shaman Overdrive Sale Price: $149.00 Original Price: $159.00 sold out Again!
 Byron describes the Jabberwocky as an exacting tribute to the original “rodent” distortion pedal and documents a **NOS LM308** op amp.
 Byron describes the pedal as producing fat crunch and late-1970s/early-1980s-style distortion.
 
 ### Sources checked in this pass
-1. Pedals &mdash; Byron Amplification: https://byronamplification.com/pedals
+1. Pedals — Byron Amplification: https://byronamplification.com/pedals
 
 ## Deep research verification
 
@@ -130,12 +124,11 @@ This pass adds only claims supported by the newly admitted exact-model evidence.
 Byron Amplification's Jabberwocky Distortion is cataloged as a distortion pedal.
 
 ### Verified sound evidence
-Boost/Drive and Fuzz Sale Price: $149.00 Original Price: $159.00 sold out Kompressor Sale Price: $149.00 Original Price: $159.00 sold out Lil' Shaman Overdrive Sale Price: $149.00 Original Price: $159.00 sold out Again!
 Byron describes the Jabberwocky as an exacting tribute to the original “rodent” distortion pedal and documents a **NOS LM308** op amp.
 Byron describes the pedal as producing fat crunch and late-1970s/early-1980s-style distortion.
 
 ### Sources checked in this pass
-1. Pedals &mdash; Byron Amplification: https://byronamplification.com/pedals
+1. Pedals — Byron Amplification: https://byronamplification.com/pedals
 
 ## Deep research verification
 
@@ -145,9 +138,8 @@ This pass adds only claims supported by the newly admitted exact-model evidence.
 Byron Amplification's Jabberwocky Distortion is cataloged as a distortion pedal.
 
 ### Verified sound evidence
-Boost/Drive and Fuzz Sale Price: $149.00 Original Price: $159.00 sold out Kompressor Sale Price: $149.00 Original Price: $159.00 sold out Lil' Shaman Overdrive Sale Price: $149.00 Original Price: $159.00 sold out Again!
 Byron describes the Jabberwocky as an exacting tribute to the original “rodent” distortion pedal and documents a **NOS LM308** op amp.
 Byron describes the pedal as producing fat crunch and late-1970s/early-1980s-style distortion.
 
 ### Sources checked in this pass
-1. Pedals &mdash; Byron Amplification: https://byronamplification.com/pedals
+1. Pedals — Byron Amplification: https://byronamplification.com/pedals

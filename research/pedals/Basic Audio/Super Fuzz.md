@@ -66,7 +66,7 @@ Super Fuzz — Basic Audio Contact Store About Menu Basic Audio Contact Store Ab
 Basic Audio Super Fuzz — Fuzz Pedal Specs & Where to Buy
 
 ### Sources checked in this pass
-1. Super Fuzz &mdash; Basic Audio: https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-6jkg6-n6nrp
+1. Super Fuzz — Basic Audio: https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-6jkg6-n6nrp
 2. Basic Audio Super Fuzz — Fuzz Pedal Specs & Where to Buy | one thousand pedals: https://onethousandpedals.com/pedal/basic-audio-super-fuzz
 3. Basic Audio Super Fuzz - Reverb: https://reverb.com/item/58297801-basic-audio-super-fuzz
 4. Super Fuzz by Basic Audio | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/Basic-Audio/Super-Fuzz/68975083/

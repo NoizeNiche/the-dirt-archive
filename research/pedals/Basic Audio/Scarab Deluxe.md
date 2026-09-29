@@ -145,7 +145,7 @@ Scarab Deluxe — Basic Audio Contact Store About Menu Basic Audio Contact Store
 **LEVEL** - **TONE** - **FUZZ** - **BIAS** - **FAT** FAT changes the amount of low-frequency content feeding the saturation stages.
 
 ### Sources checked in this pass
-1. Scarab Deluxe &mdash; Basic Audio: https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-6jkg6
+1. Scarab Deluxe — Basic Audio: https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-6jkg6
 2. catalog/override source: https://www.effectsdatabase.com/model/basicaudio/scarab/deluxe
 3. Stang Guitars | Shop Edmonton’s Best Guitar, Amp and FX Store Online: https://stangguitars.com/
 4. Guitar Pedal X - GPX Blog - High Quality Near Equivalent Alternatives to the Boss TB-2W Tone Bender MKII Waza Craft Fuzz: https://www.guitarpedalx.com/news/gpx-blog/high-quality-near-equivalent-alternatives-to-the-boss-tb-2w-tone-bender-mkii-waza-craft-fuzz
@@ -169,7 +169,7 @@ Scarab Deluxe — Basic Audio Contact Store About Menu Basic Audio Contact Store
 **LEVEL** - **TONE** - **FUZZ** - **BIAS** - **FAT** FAT changes the amount of low-frequency content feeding the saturation stages.
 
 ### Sources checked in this pass
-1. Scarab Deluxe &mdash; Basic Audio: https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-6jkg6
+1. Scarab Deluxe — Basic Audio: https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-6jkg6
 2. catalog/override source: https://www.effectsdatabase.com/model/basicaudio/scarab/deluxe
 3. Stang Guitars | Shop Edmonton’s Best Guitar, Amp and FX Store Online: https://stangguitars.com/
 4. Guitar Pedal X - GPX Blog - High Quality Near Equivalent Alternatives to the Boss TB-2W Tone Bender MKII Waza Craft Fuzz: https://www.guitarpedalx.com/news/gpx-blog/high-quality-near-equivalent-alternatives-to-the-boss-tb-2w-tone-bender-mkii-waza-craft-fuzz
@@ -193,7 +193,7 @@ Scarab Deluxe — Basic Audio Contact Store About Menu Basic Audio Contact Store
 **LEVEL** - **TONE** - **FUZZ** - **BIAS** - **FAT** FAT changes the amount of low-frequency content feeding the saturation stages.
 
 ### Sources checked in this pass
-1. Scarab Deluxe &mdash; Basic Audio: https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-6jkg6
+1. Scarab Deluxe — Basic Audio: https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-6jkg6
 2. catalog/override source: https://www.effectsdatabase.com/model/basicaudio/scarab/deluxe
 3. Stang Guitars | Shop Edmonton’s Best Guitar, Amp and FX Store Online: https://stangguitars.com/
 4. Guitar Pedal X - GPX Blog - High Quality Near Equivalent Alternatives to the Boss TB-2W Tone Bender MKII Waza Craft Fuzz: https://www.guitarpedalx.com/news/gpx-blog/high-quality-near-equivalent-alternatives-to-the-boss-tb-2w-tone-bender-mkii-waza-craft-fuzz
@@ -217,7 +217,7 @@ Scarab Deluxe — Basic Audio Contact Store About Menu Basic Audio Contact Store
 **LEVEL** - **TONE** - **FUZZ** - **BIAS** - **FAT** FAT changes the amount of low-frequency content feeding the saturation stages.
 
 ### Sources checked in this pass
-1. Scarab Deluxe &mdash; Basic Audio: https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-6jkg6
+1. Scarab Deluxe — Basic Audio: https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-6jkg6
 2. catalog/override source: https://www.effectsdatabase.com/model/basicaudio/scarab/deluxe
 3. Stang Guitars | Shop Edmonton’s Best Guitar, Amp and FX Store Online: https://stangguitars.com/
 4. Guitar Pedal X - GPX Blog - High Quality Near Equivalent Alternatives to the Boss TB-2W Tone Bender MKII Waza Craft Fuzz: https://www.guitarpedalx.com/news/gpx-blog/high-quality-near-equivalent-alternatives-to-the-boss-tb-2w-tone-bender-mkii-waza-craft-fuzz
@@ -241,7 +241,7 @@ Scarab Deluxe — Basic Audio Contact Store About Menu Basic Audio Contact Store
 **LEVEL** - **TONE** - **FUZZ** - **BIAS** - **FAT** FAT changes the amount of low-frequency content feeding the saturation stages.
 
 ### Sources checked in this pass
-1. Scarab Deluxe &mdash; Basic Audio: https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-6jkg6
+1. Scarab Deluxe — Basic Audio: https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-6jkg6
 2. catalog/override source: https://www.effectsdatabase.com/model/basicaudio/scarab/deluxe
 3. Stang Guitars | Shop Edmonton’s Best Guitar, Amp and FX Store Online: https://stangguitars.com/
 4. Guitar Pedal X - GPX Blog - High Quality Near Equivalent Alternatives to the Boss TB-2W Tone Bender MKII Waza Craft Fuzz: https://www.guitarpedalx.com/news/gpx-blog/high-quality-near-equivalent-alternatives-to-the-boss-tb-2w-tone-bender-mkii-waza-craft-fuzz
@@ -265,7 +265,7 @@ Scarab Deluxe — Basic Audio Contact Store About Menu Basic Audio Contact Store
 **LEVEL** - **TONE** - **FUZZ** - **BIAS** - **FAT** FAT changes the amount of low-frequency content feeding the saturation stages.
 
 ### Sources checked in this pass
-1. Scarab Deluxe &mdash; Basic Audio: https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-6jkg6
+1. Scarab Deluxe — Basic Audio: https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-6jkg6
 2. catalog/override source: https://www.effectsdatabase.com/model/basicaudio/scarab/deluxe
 3. Stang Guitars | Shop Edmonton’s Best Guitar, Amp and FX Store Online: https://stangguitars.com/
 4. Guitar Pedal X - GPX Blog - High Quality Near Equivalent Alternatives to the Boss TB-2W Tone Bender MKII Waza Craft Fuzz: https://www.guitarpedalx.com/news/gpx-blog/high-quality-near-equivalent-alternatives-to-the-boss-tb-2w-tone-bender-mkii-waza-craft-fuzz
@@ -289,7 +289,7 @@ Scarab Deluxe — Basic Audio Contact Store About Menu Basic Audio Contact Store
 **LEVEL** - **TONE** - **FUZZ** - **BIAS** - **FAT** FAT changes the amount of low-frequency content feeding the saturation stages.
 
 ### Sources checked in this pass
-1. Scarab Deluxe &mdash; Basic Audio: https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-6jkg6
+1. Scarab Deluxe — Basic Audio: https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-6jkg6
 2. catalog/override source: https://www.effectsdatabase.com/model/basicaudio/scarab/deluxe
 3. Stang Guitars | Shop Edmonton’s Best Guitar, Amp and FX Store Online: https://stangguitars.com/
 4. Guitar Pedal X - GPX Blog - High Quality Near Equivalent Alternatives to the Boss TB-2W Tone Bender MKII Waza Craft Fuzz: https://www.guitarpedalx.com/news/gpx-blog/high-quality-near-equivalent-alternatives-to-the-boss-tb-2w-tone-bender-mkii-waza-craft-fuzz
@@ -313,7 +313,7 @@ Scarab Deluxe — Basic Audio Contact Store About Menu Basic Audio Contact Store
 **LEVEL** - **TONE** - **FUZZ** - **BIAS** - **FAT** FAT changes the amount of low-frequency content feeding the saturation stages.
 
 ### Sources checked in this pass
-1. Scarab Deluxe &mdash; Basic Audio: https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-6jkg6
+1. Scarab Deluxe — Basic Audio: https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-6jkg6
 2. catalog/override source: https://www.effectsdatabase.com/model/basicaudio/scarab/deluxe
 3. Stang Guitars | Shop Edmonton’s Best Guitar, Amp and FX Store Online: https://stangguitars.com/
 4. Guitar Pedal X - GPX Blog - High Quality Near Equivalent Alternatives to the Boss TB-2W Tone Bender MKII Waza Craft Fuzz: https://www.guitarpedalx.com/news/gpx-blog/high-quality-near-equivalent-alternatives-to-the-boss-tb-2w-tone-bender-mkii-waza-craft-fuzz

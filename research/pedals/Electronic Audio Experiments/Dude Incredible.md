@@ -60,7 +60,7 @@ The Dude Incredible is a pairing of two cult classics: the IVP “Tube Voice” 
 The transformer-loaded overdrive circuit is driven by a pre-gain shelving EQ for a distinctive palette of frequency-selective distorted sounds.
 
 ### Sources checked in this pass
-1. Dude Incredible &mdash; Electronic Audio Experiments: https://www.electronicaudioexperiments.com/legacy/dude-incredible
+1. Dude Incredible — Electronic Audio Experiments: https://www.electronicaudioexperiments.com/legacy/dude-incredible
 2. Electronic Audio Experiments Dude Incredible V2 — Fuzz Pedal: https://equipboard.com/items/electronic-audio-experiments-dude-incredible-v2
 3. Electronic Audio Experiments Dude Incredible V2 - Reverb: https://reverb.com/p/electronic-audio-experiments-dude-incredible-v2
 4. Electronic Audio Experiments Dude Incredible V2 - Wholesale Guitars Sheet Music Drums Effects and Accessories: https://www.musicbrandsupply.com/product/electronic-audio-experiments-dude-incredible-v2/
