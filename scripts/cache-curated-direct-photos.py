@@ -200,8 +200,9 @@ def main() -> None:
             k = key(row.get("Builder", ""), row.get("Pedal", ""))
             image_url = str(row.get("Image URL") or "").strip()
             source_page = str(row.get("Image Source Page") or "").strip()
+            notes = str(row.get("Notes") or "").strip()
             if k in pending and image_url and source_page and is_http_image_url(image_url) and not blocked_photo_url(image_url, block_rules):
-                direct.setdefault(k, []).append((image_url, source_page))
+                direct.setdefault(k, []).append((image_url, source_page, notes))
 
     recovered = 0
     skipped = 0
@@ -229,8 +230,17 @@ def main() -> None:
                 except Exception:
                     pass
 
-        # Newest curated row wins. Older rows remain browser/cache fallbacks.
-        image_url, source_page = rows[-1]
+        # Do not let recency decide between competing exact-image leads.
+        # A key with multiple distinct image URLs must have an explicit
+        # PHOTO REVIEW: PRIMARY marker before the direct fast lane can publish it.
+        unique_images = list(dict.fromkeys(image_url for image_url, _, _ in rows))
+        reviewed = [row for row in rows if "photo review: primary" in row[2].lower()]
+        if len(unique_images) > 1 and not reviewed:
+            skipped += 1
+            print(f"Direct photo held for manual review: {k[0]} / {k[1]} has {len(unique_images)} competing image URLs.")
+            continue
+        primary = reviewed[-1] if reviewed else rows[-1]
+        image_url, source_page = primary[0], primary[1]
         try:
             data = fetch(image_url, source_page)
             width, height = validate(data)
