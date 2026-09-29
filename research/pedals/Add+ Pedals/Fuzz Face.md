@@ -48,4 +48,3 @@ The verified Add+ evidence establishes this record as the builder's Fuzz Face, b
 ## Deep research verification
 
 The exact Add+ Fuzz Face record is documented in Effects Database. The available evidence confirms the builder/model identity and fuzz classification, but does not establish exact transistor, clipping-device, version, colorway, or detailed sonic specifications. Those fields remain explicitly unresolved.
-
