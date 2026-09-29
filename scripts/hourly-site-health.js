@@ -293,9 +293,12 @@ async function browserCheck(liveUrl, pedals, canaries) {
     }
 
     await page.goto(liveUrl+'/?health='+Date.now(),{waitUntil:'networkidle',timeout:30000});
-    const builder=page.locator('[data-builder="'+String(builderCanary.company).replace(/"/g,'\\"')+'"]');
-    if(await builder.count()!==1) throw new Error('Catalog-derived builder canary missing');
-    await builder.click();
+    const builderButtons=page.locator('[data-builder]');
+    const builderIndex=await builderButtons.evaluateAll((els,name)=>{
+      return els.findIndex(el=>el.getAttribute('data-builder')===name);
+    },String(builderCanary.company));
+    if(builderIndex<0) throw new Error('Catalog-derived builder canary missing');
+    await builderButtons.nth(builderIndex).click();
     const bt=await page.locator('#grid .builderNameCard').allTextContents();
     if(!bt.length || bt.some(x=>x.trim()!==String(builderCanary.company))) throw new Error('Builder filter is leaking other builders');
 
