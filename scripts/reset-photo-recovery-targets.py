@@ -190,6 +190,18 @@ def main():
                 for row in csv.DictReader(handle)
                 if str(row.get("Status") or "").strip().upper() == "VERIFIED_PRIMARY"
             }
+            # Direct overrides explicitly marked as PHOTO REVIEW: PRIMARY are
+            # equivalent manual evidence for quarantine/recovery safety.
+            try:
+                with Path("research/PHOTO_DIRECT_IMAGE_OVERRIDES.csv").open(newline="", encoding="utf-8") as direct_handle:
+                    for direct_row in csv.DictReader(direct_handle):
+                        if "photo review: primary" in str(direct_row.get("Notes") or "").lower():
+                            db = str(direct_row.get("Builder") or "").strip()
+                            dp = str(direct_row.get("Pedal") or "").strip()
+                            if db and dp:
+                                manual_review.add(key(db, dp))
+            except Exception:
+                pass
     except Exception:
         pass
     hash_quarantine = load_hash_quarantine()
