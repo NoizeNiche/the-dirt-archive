@@ -43,8 +43,6 @@ The Gritador is our version of the classic, the version that our resident genius
 ### Verified color/finish evidence
 - It could be a scratch, a paint inclusion, or some other finish issue.
 - The pedal is 100% mechanically working, it’s just a case finish issue and because it is, you win!
-- Color: Select Color Green Black Matte Black Green - BLEM Black - BLEM Get notified by email when this product is in stock.
-
 ### Verified version references
 - The evidence references: V3, V4, v1.
 
