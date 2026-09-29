@@ -1374,7 +1374,7 @@ async function effectsDatabaseFeedImageUrls(page, pageUrl) {
             if (flattenedUnderscoreSlug) legacySlugVariants.add(flattenedUnderscoreSlug);
           }
           for (const variant of legacySlugVariants) {
-            for (const suffixVariant of ['', '_001', '_01', '_1']) {
+            for (const suffixVariant of ['', '_001', '_01', '_1', '-001', '-01', '-1']) {
               const stem = variant + suffixVariant;
               urls.add('https://files.effectsdatabase.com/gear/pics/' + stem + '.jpg');
               urls.add('https://files.effectsdatabase.com/gear/thumbs/' + stem + '.jpg');
