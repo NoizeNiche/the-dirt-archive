@@ -488,6 +488,93 @@ def promote_verified_prose(markdown: str) -> str:
 
     return sanitize_visible_sections(updated)
 
+DUPLICATE_SECTION_NAMES = {
+    "what this pedal is",
+    "sound",
+    "photo",
+    "sources checked",
+    "deep research verification",
+}
+
+
+def section_quality(body: str, heading: str) -> tuple[int, int]:
+    visible = markdown_visible(body)
+    lower = visible.lower()
+    score = len(visible)
+    score += 180 * len(re.findall(
+        r"\b(?:verified|confirmed|cross-checked|manufacturer|manual|transistor|"
+        r"germanium|silicon|jfet|mosfet|op[- ]?amp|diode|clipping|tone|gain|"
+        r"fuzz|overdrive|distortion|response|saturation|headroom)\b",
+        lower,
+    ))
+    if heading == "sources checked":
+        score += 400 * len(re.findall(r"^\s*\d+\.\s+.+https?://", body, re.M))
+    return score, len(visible)
+
+
+def dedupe_repeated_sections(markdown: str) -> str:
+    pattern = re.compile(r"(?ms)^##\s+(.+?)\s*$\n(.*?)(?=^##\s+|\Z)")
+    matches = list(pattern.finditer(markdown))
+    if not matches:
+        return markdown
+
+    selected = {}
+    ordered = []
+    for match in matches:
+        heading = match.group(1).strip()
+        key = heading.casefold()
+        body = match.group(2).strip()
+        if key not in DUPLICATE_SECTION_NAMES:
+            ordered.append((heading, body))
+            continue
+        if key == "sources checked":
+            prior = selected.get(key)
+            if prior is None:
+                selected[key] = [heading, body]
+                ordered.append((heading, body))
+                continue
+            lines = prior[1].splitlines()
+            seen = {markdown_visible(x).casefold() for x in lines if x.strip()}
+            additions = []
+            for line in body.splitlines():
+                if not line.strip():
+                    continue
+                norm_line = markdown_visible(line).casefold()
+                if norm_line and norm_line not in seen:
+                    seen.add(norm_line)
+                    additions.append(line.rstrip())
+            if additions:
+                prior[1] = prior[1].rstrip() + "\n" + "\n".join(additions)
+            continue
+
+        candidate = [heading, body, match.start()]
+        prior = selected.get(key)
+        if prior is None:
+            selected[key] = candidate
+            ordered.append((heading, body))
+            continue
+        prior_score = section_quality(prior[1], key)
+        candidate_score = section_quality(body, key)
+        if candidate_score > prior_score or (
+            candidate_score == prior_score and match.start() > prior[2]
+        ):
+            for idx, pair in enumerate(ordered):
+                if pair[0].casefold() == key:
+                    ordered[idx] = (heading, body)
+                    break
+            selected[key] = candidate
+
+    prefix = markdown[:matches[0].start()]
+    rebuilt = prefix.rstrip()
+    if rebuilt:
+        rebuilt += "\n\n"
+    rebuilt += "\n\n".join(
+        f"## {heading}\n\n{body}" if body else f"## {heading}"
+        for heading, body in ordered
+    )
+    return rebuilt.rstrip() + "\n"
+
+
 def clean_file(path: Path) -> bool:
     original = path.read_text(encoding="utf-8", errors="replace")
     out: list[str] = []
@@ -568,9 +655,17 @@ def clean_file(path: Path) -> bool:
     while out and not out[-1].strip():
         out.pop()
     new = "\n".join(out) + "\n"
+    deduped = dedupe_repeated_sections(new)
+    if deduped != new:
+        new = deduped
+        changed = True
     promoted = promote_verified_prose(new)
     if promoted != new:
         new = promoted
+        changed = True
+    deduped_after_promotion = dedupe_repeated_sections(new)
+    if deduped_after_promotion != new:
+        new = deduped_after_promotion
         changed = True
     if new != original:
         path.write_text(new, encoding="utf-8")
