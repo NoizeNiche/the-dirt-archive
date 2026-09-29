@@ -238,7 +238,10 @@ def main():
             else:
                 try:
                     with Image.open(asset) as im:
+                        image_format = str(im.format or "").upper()
                         im.verify()
+                    if image_format != "WEBP":
+                        reasons.append(f"local photo is not WebP ({image_format or 'unknown format'})")
                 except Exception as exc:
                     reasons.append("unreadable local photo: " + str(exc))
         if not reasons:
