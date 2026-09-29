@@ -17,7 +17,7 @@ permissions:
   actions: write
 
 concurrency:
-  group: dirt-research-workers-v5
+  group: dirt-archive-publisher-v1
   # Queue research passes instead of cancelling a pass that is already gathering evidence.
   cancel-in-progress: false
 
