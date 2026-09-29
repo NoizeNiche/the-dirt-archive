@@ -19,6 +19,7 @@ from pathlib import Path
 INDEX = Path("research/PEDAL_INDEX.json")
 MANIFEST = Path("research/pedals/PEDAL_IMAGES.json")
 TRACKER = Path("research/PRP_TRACKER.csv")
+PHOTO_SOURCE_BLOCKLIST = Path("research/PHOTO_SOURCE_BLOCKLIST.json")
 
 TARGET_BUILDER = os.environ.get("PHOTO_RESET_TARGET_BUILDER", "").strip()
 TARGET_PEDAL = os.environ.get("PHOTO_RESET_TARGET_PEDAL", "").strip()
@@ -26,6 +27,29 @@ TARGET_PEDAL = os.environ.get("PHOTO_RESET_TARGET_PEDAL", "").strip()
 
 def key(builder, pedal):
     return (str(builder or "").strip(), str(pedal or "").strip())
+
+
+def blocked_photo_values(values):
+    try:
+        policy = json.loads(PHOTO_SOURCE_BLOCKLIST.read_text(encoding="utf-8"))
+    except Exception:
+        return []
+    reasons = []
+    for value in values:
+        lowered = str(value or "").strip().lower()
+        if not lowered:
+            continue
+        for rule in policy.get("rules", []):
+            kind = str(rule.get("type") or "")
+            pattern = str(rule.get("pattern") or "")
+            try:
+                if kind == "exact_url" and lowered == pattern.lower():
+                    reasons.append(str(rule.get("reason") or pattern))
+                elif kind.endswith("_regex") and pattern and re.search(pattern, lowered, re.I):
+                    reasons.append(str(rule.get("reason") or pattern))
+            except re.error:
+                continue
+    return list(dict.fromkeys(reasons))
 
 
 def is_local_image(value):
@@ -123,6 +147,17 @@ def main():
         manifest_entry = manifest_map.get(target_key)
         if not reasons and manifest_entry:
             reasons = suspicious_values(manifest_entry)
+
+        source_values = [
+            str(entry.get("image_source_url") or ""),
+            str(entry.get("image_source_page") or ""),
+        ]
+        source_values.extend(str(value or "") for value in (entry.get("image_source_urls") or []))
+        source_values.extend(str(value or "") for value in (entry.get("image_source_pages") or []))
+        if not reasons:
+            blocked = blocked_photo_values(source_values)
+            if blocked:
+                reasons.extend("blocked photo source: " + reason for reason in blocked)
 
         image = entry.get("image")
         if not reasons and tracker.get("Picture") == "DONE" and is_local_image(image):
