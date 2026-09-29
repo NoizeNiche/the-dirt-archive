@@ -23,7 +23,7 @@ Cajita Stompboxes's FBASSDRIVE is cataloged as an overdrive pedal.
 ### Verified version references
 - The evidence references: v4.
 
-### Verified transistor/device terms
+### Verified amp references
 - ac30.
 
 ### Verified sound evidence
