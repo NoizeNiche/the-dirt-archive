@@ -7,42 +7,34 @@
 - **Identity:** JHS Pedals's Morning Glory Clean.
 
 ## What this pedal is
-This is the ultimate first-stage overdrive pedal.
+Morning Glory Clean is a low-gain transparent overdrive designed as a first-stage drive. JHS emphasizes improved pick attack, low-end response and stacking flexibility in the current Clean version.
 
 ## Colorways
-- It’s the golden pedal, with the roman candle graphic, three knobs and one switch, side jacks and the possibility to run the JHS Red Remote with it.
+- Golden enclosure with the Roman-candle graphic is documented for the Morning Glory Clean presentation.
+- No complete historical finish chronology was established.
 
 ## Versions and factory options
-- The verified evidence references: MkIII, V1, V4, v2.
-- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+- Three main controls plus the mode/control switch used by the documented version.
+- Side-mounted jacks.
+- Red Remote compatibility.
+- The archive keeps Morning Glory Clean separate from historical Morning Glory revisions.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- Morning Glory has a long revision history; this entry is specifically the Clean product and does not merge MkIII or earlier revision details without documentation.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
-- **Exact transistor/device:** Unknown.
+- Exact production semiconductor details were not established.
 
 ## Diode
-- Documented terms in the verified sources: led.
-- The archive records only the component information explicitly present in these sources.
+- Exact clipping-device part was not established.
 
 ## Sound
-$0.00 USD MORNING GLORY CLEAN $179.00 USD Zoom Zoom Zoom Zoom Zoom Zoom Zoom Zoom Zoom MORNING GLORY CLEAN $179.00 USD − { $dispatch('change'); }) " > + Add to Cart WHEN TRANSPARENT OVERDRIVE ISN'T GOOD ENOUGH We took our most legendary overdrive to a new level and redefined what it means to be transparent.
-Clearer pick attack, improved low end, and more versatile gain stacking.
-This is the ultimate first-stage overdrive pedal.
+Morning Glory Clean is designed for transparent low-gain breakup with clearer pick attack, improved low-end response and strong interaction with stacked gain stages.
 
 ## Sources checked
-1. MORNING GLORY CLEAN – JHS Pedals: https://jhspedals.info/products/morning-glory-clean
-2. JHS Pedals unveils Morning Glory Clean | Guitar World: https://www.guitarworld.com/gear/guitar-pedals/jhs-pedals-morning-glory-clean-overdrive-pedal
-3. JHS Pedals Morning Glory Clean: https://martelmusicstore.com/products/jhs-pedals-morning-glory-clean
-4. JHS Pedals Morning Glory Clean | Reverb: https://reverb.com/item/94326565-jhs-pedals-morning-glory-clean
-5. JHS Pedals Morning Glory Clean – The Dirt Jounal: https://thedirtjounal.com/2026/08/11/jhs-pedals-morning-glory-clean/
-6. User manual JHS Pedals Morning Glory Clean (English - 2 pages): https://www.manua.ls/jhs-pedals/morning-glory-clean/manual
-7. JHS Pedals Morning Glory Clean user manual (English - 2 pages): https://www.manuals.co.uk/jhs-pedals/morning-glory-clean/manual
-8. JHS Pedals Morning Glory Clean user manual (English - 2 pages): https://www.manuals.ca/jhs-pedals/morning-glory-clean/manual
-9. JHS Pedals Morning Glory Clean - Transparent Overdrive - Effects Database: https://www.effectsdatabase.com/model/jhspedals/morningglory/clean
-10. JHS Pedals Launches Morning Glory Clean Overdrive - Premier Guitar: https://www.premierguitar.com/news/jhs-morning-glory-clean-overdrive
+1. JHS Pedals - Morning Glory Clean: https://jhspedals.info/products/morning-glory-clean
+2. Guitar World - Morning Glory Clean: https://www.guitarworld.com/gear/guitar-pedals/jhs-pedals-morning-glory-clean-overdrive-pedal
+3. Effects Database - Morning Glory Clean: https://www.effectsdatabase.com/model/jhspedals/morningglory/clean
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.
