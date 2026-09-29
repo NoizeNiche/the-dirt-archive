@@ -26,10 +26,9 @@ permissions:
 
 concurrency:
   group: dirt-photo-recovery-v4
-  # Rehydrate from the latest main snapshot on every pass. A stale browser
-  # recovery run is disposable because a newer pass can safely repeat the
-  # same exact-source work without publishing partial state.
-  cancel-in-progress: true
+  # Let a running recovery finish. Frequent source/QA commits should not
+  # repeatedly cancel a long browser pass before it reaches its merge stage.
+  cancel-in-progress: false
 
 jobs:
   recover:
