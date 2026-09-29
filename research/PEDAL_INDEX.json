@@ -4806,7 +4806,7 @@
       "image_source_pages": [
         "https://ashdownmusic.com/collections/last-chance/products/b-stock-abm-pro-fx-pro-drive"
       ],
-      "image_source_page": "https://www.effectsdatabase.com/model/ashdown/profx/prodrive",
+      "image_source_page": "https://ashdownmusic.com/collections/last-chance/products/b-stock-abm-pro-fx-pro-drive",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
       "image_source_priority": 1386
@@ -4821,7 +4821,7 @@
       "research_record": "./research/pedals/Ashdown Engineering/AGM PRO-FX Retro Drive.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://www.effectsdatabase.com/model/ashdown/profx/retrodrive",
+      "image_source_page": "https://ashdownmusic.com/collections/last-chance/products/b-stock-agm-pro-fx-retro-drive",
       "image_source_pages": [
         "https://ashdownmusic.com/collections/last-chance/products/b-stock-agm-pro-fx-retro-drive"
       ],
@@ -22239,15 +22239,20 @@
       ],
       "source_page": null,
       "research_record": "./research/pedals/Caveman Audio / Skrydstrup/ODR2.md",
-      "image_source_priority": 337,
+      "image_source_priority": 1000000,
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
       "image_source_pages": [
-        "https://www.rockboard.de/en/pedalPedia/Skrydstrup-RD/ODR-2/68984309/"
+        "https://www.rockboard.de/en/pedalPedia/Skrydstrup-RD/ODR-2/68984309/",
+        "https://reverb.com/item/54408185-skrydstrup-r-d-odr2-overdrive"
       ],
-      "image_source_page": "https://www.rockboard.de/en/pedalPedia/Skrydstrup-RD/ODR-2/68984309/",
+      "image_source_page": "https://reverb.com/item/54408185-skrydstrup-r-d-odr2-overdrive",
       "image_source_pages_verified": true,
-      "image_source_page_verified": true
+      "image_source_page_verified": true,
+      "image_source_url": "https://rvb-img.reverb.com/image/upload/s--AuDad_2_--/f_auto%2Ct_large/v1651422798/ofmra8fmjpzc4jsqx6sy.jpg",
+      "image_source_urls": [
+        "https://rvb-img.reverb.com/image/upload/s--AuDad_2_--/f_auto%2Ct_large/v1651422798/ofmra8fmjpzc4jsqx6sy.jpg"
+      ]
     },
     {
       "company": "CBC Pedals",
@@ -26584,7 +26589,7 @@
       ],
       "source_page": null,
       "research_record": "./research/pedals/ColorTone Fx / Pedal Tank/Gainer.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/colortonefx/gainer",
+      "image_source_page": "https://www.effectsdatabase.com/taxonomy/term/8/0?page=46",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
       "photo_recovery_note": "Previous image provenance was an Effects Database donation graphic, not a pedal photograph. Exact-photo recovery required.",
@@ -26902,7 +26907,7 @@
       ],
       "source_page": null,
       "research_record": "./research/pedals/Compulsive Audio/Jimi - Octave Fuzz.md",
-      "image_source_page": "https://www.guitarcenter.com/Dunlop/Jimi-Hendrix-Octave-Fuzz-Pedal-1274228082241.gc",
+      "image_source_page": "https://www.effectsdatabase.com/type/octave/fuzz/1up",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
       "photo_recovery_note": "Previous image provenance was an Effects Database donation graphic, not a pedal photograph. Exact-photo recovery required.",
@@ -27299,7 +27304,7 @@
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/coopersonic"
       ],
-      "image_source_page": "https://coopersonic.com/user-manuals/",
+      "image_source_page": "https://www.effectsdatabase.com/model/coopersonic",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
       "image_source_priority": 600
@@ -35114,13 +35119,19 @@
       "research_record": "./research/pedals/EarthQuaker Devices/Monarch.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://www.earthquakerdevices.com/monarch",
+      "image_source_page": "https://www.chicagomusicexchange.com/products/earthquaker-devices-monarch-2223604",
       "image_source_pages": [
-        "https://www.earthquakerdevices.com/monarch"
+        "https://www.earthquakerdevices.com/monarch",
+        "https://www.chicagomusicexchange.com/products/earthquaker-devices-monarch-2223604"
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1374
+      "image_source_priority": 1000000,
+      "image_source_url": "https://www.chicagomusicexchange.com/cdn/shop/files/earthquaker-devices-effects-and-pedals-earthquaker-devices-monarch-earthquaker-devices-monarch-u6856183801-1108943768.jpg?v=1769023139&width=1946",
+      "image_source_urls": [
+        "https://www.chicagomusicexchange.com/cdn/shop/files/earthquaker-devices-effects-and-pedals-earthquaker-devices-monarch-earthquaker-devices-monarch-u6856183801-1108943768.jpg?v=1769023139&width=1946"
+      ],
+      "image": "./assets/pedals/earthquaker-devices/monarch/primary.webp"
     },
     {
       "company": "EarthQuaker Devices",
@@ -38162,7 +38173,7 @@
       "image_source_pages": [
         "https://www.greeramps.com/blogs/news/12647709-new-products-390-od-2014-ghetto-stomp"
       ],
-      "image_source_page": "https://equipboard.com/items/greer-amps-ghetto-stomp-overdrive",
+      "image_source_page": "https://www.greeramps.com/blogs/news/12647709-new-products-390-od-2014-ghetto-stomp",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
       "image_source_priority": 1372
@@ -43879,7 +43890,7 @@
       "research_record": "./research/pedals/Lovetone/Big Cheese.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://www.effectsdatabase.com/model/lovetone/bigcheese",
+      "image_source_page": "https://reverb.com/p/lovetone-big-cheese",
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/lovetone/bigcheese",
         "https://reverb.com/p/lovetone-big-cheese"
@@ -57545,12 +57556,17 @@
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
       "image_source_pages": [
-        "https://www.zzounds.com/item--WAMPLEXTORTION"
+        "https://www.zzounds.com/item--WAMPLEXTORTION",
+        "https://reverb.com/item/165789-wampler-plextortion-distortion-pedal-near-mint-in-box"
       ],
-      "image_source_page": "https://www.zzounds.com/item--WAMPLEXTORTION",
+      "image_source_page": "https://reverb.com/item/165789-wampler-plextortion-distortion-pedal-near-mint-in-box",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1380
+      "image_source_priority": 1000000,
+      "image_source_url": "https://rvb-img.reverb.com/i/s--jArsOZgM--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/r91m36n1i7jbspqtildh.jpg",
+      "image_source_urls": [
+        "https://rvb-img.reverb.com/i/s--jArsOZgM--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/r91m36n1i7jbspqtildh.jpg"
+      ]
     },
     {
       "company": "Wampler Pedals",
@@ -57938,7 +57954,7 @@
       ],
       "source_page": null,
       "research_record": "./research/pedals/Way Huge/Pork & Pickle.md",
-      "image_source_page": "https://www.jimdunlop.com/way-huge-smalls-pork-pickle-overdrive-fuzz/",
+      "image_source_page": "https://www.musicradar.com/news/namm-2018-way-huge-serves-up-its-first-ever-bass-pedal-the-pork-pickle",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
       "image_source_pages": [
