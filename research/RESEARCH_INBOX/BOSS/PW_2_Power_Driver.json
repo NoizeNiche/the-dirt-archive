@@ -4,7 +4,7 @@
   "original_builder": "BOSS",
   "original_pedal": "PW-2 Power Driver",
   "status": "VERIFIED_EVIDENCE_STAGED",
-  "independent_exact_source_count": 1,
+  "independent_exact_source_count": 3,
   "sources": [
     {
       "url": "https://www.effectsdatabase.com/model/boss/compact/pw2",
@@ -13,6 +13,22 @@
       "excerpt": "PW-2 Power Driver Published on July 12, 2005 Boss compact pedals overdrive pedal schematics Information The Boss PW-2 Power Driver is an overdrive pedal tailored for chord-driven rock styles, offering a powerful yet smooth tonal character. Its voicing leans toward classic 1970s rock, with enough range for both rhythm and lead applications. Housed in the standard Boss compact chassis, the PW-2 features low-noise circuitry and a tone section that avoids scooped or overly modern voicings, favoring warm midrange presence and controlled drive. The pedal performs particularly well when used with slightly overdriven tube amplifiers, pushing them further into saturation without sacrificing clarity. With its distinct tone controls and understated aggression, the PW-2 is well-suited for players who favor vintage drive tones over hyper-compressed distortion. Controls Drive: Adjusts the amount of overdrive Level: Sets the overall output volume Fat: Adds low-end fullness and weight Muscle: Boosts midrange presence for projection and cut Specifications Power: 9V PP3 battery or compatible Boss PSA adapter Bypass: Buffered Enclosure: Standard Boss compact chassis with tool-free battery access Indicators: Red LED (effect status) Connectivity: \u00bc\" input and output jacks Circuitry: Discrete component design for reduced noise Highlights Voiced for vintage-style power chord and lead tones Fat and Muscle controls offer flexible but subtle EQ shaping Low noise performance with smooth gain structure Complements tube amps lacking gain by adding drive and sustain Ideal for classic rock, blues, and R&B styles Reliable Boss construction with stage-ready durability Video Date \u25bc\u25b2 Maker \u25bc\u25b2 Video \u25bc\u25b2 Time \u25bc\u25b2 2026-05-22 The SuperFunAwesomeHappyTime Pedal Show! New PX-1 Sounds - XT-2 Xtortion, PW-2 Power Driver & CS-2 Compression 22:24 2024-12-27 arielpozzo El mejor Boss Distortion: MT2, PW2 o MD2? 16:31 2024-11-27 Stompbox Breakdown Boss Power Driver - We Hardly Knew You 9:06 2024-06-21 Jason Ayala Spare Boss Xtortion and Power Driver (Did Boss Copy DOD?) #90smusic #guitar #bosspedals 18:21 2024-02-06 Amateur Effects Reviews Boss Power Driver on bass | theoandhispedals #fuzzpedal #bassfuzz #fuzz #pedalboard 1:00 2023-12-21 SAE Ef",
       "host": "www.effectsdatabase.com",
       "source_kind": "effects_database"
+    },
+    {
+      "url": "https://www.sun-sounds.com/product-page/boss-pw-2-power-driver",
+      "title": "Boss PW-2 Power Driver",
+      "h1": "",
+      "excerpt": "--> Boss PW-2 Power Driver .s__5yqle6,.s__5yqle6 * .s__5yqle6.octawx6--forceBWTheme .s__5yqle6.octawx6--isOpen .sb66nF_ .s__5yqle6.octawx6--isOpen .sb66nF_ .sXrMDy_ .sea0t6S .sB85yKb .s_nT5Y7 .s_1yBbs,.sxFIn18 .s__83hk3L .s__83hk3L.oObVFN_--fluid .s__3WEL5O .sdmIrUa .sSJkF3T[data-placement*=right].sr_NPpL .sSJkF3T[data-placement*=right].sr_NPpL .sdmIrUa .sSJkF3T[data-placement*=left].sr_NPpL .sSJkF3T[data-placement*=left].sr_NPpL .sdmIrUa .sSJkF3T[data-placement*=bottom].sr_NPpL .sSJkF3T[data-placement*=bottom].sr_NPpL .sdmIrUa .sSJkF3T[data-placement*=top].sr_NPpL .sSJkF3T[data-placement*=top].sr_NPpL .sdmIrUa .sU7n7KR .sU7n7KR.ojv_EdV--hasInnerWrapper .s_zOL5L .sCySxZ_ .seJYszA .sn9mE8K .sjdQMvo .sn9mE8K.ogHEJOw--centered .sn9mE8K.ogHEJOw--static,.sn9mE8K.ogHEJOw--static .sjdQMvo @keyframes Spinner-deprecated-st-css2793037847__rotate{to }@keyframes Spinner-deprecated-st-css2793037847__dash{0% 50% to }.s__3nXSYZ .s__3nXSYZ.oqUhs2N--mobile .swR6DXX.o__00E9D1--madefor .sljHbgG{",
+      "host": "www.sun-sounds.com",
+      "source_kind": "other"
+    },
+    {
+      "url": "https://www.ultimate-guitar.com/reviews/guitar_effects/boss/pw-2_power_driver/37717",
+      "title": "PW-2 Power driver Review: This pedal is hardly an effect by itself, yet it compliments... | Boss | Guitar Effects | Reviews @ Ultimate-Guitar.Com",
+      "h1": "",
+      "excerpt": "PW-2 Power driver Review: This pedal is hardly an effect by itself, yet it compliments... | Boss | Guitar Effects | Reviews @ Ultimate-Guitar.Com Post a comment Cancel",
+      "host": "www.ultimate-guitar.com",
+      "source_kind": "other"
     }
   ],
   "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
