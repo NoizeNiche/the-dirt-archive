@@ -223,7 +223,7 @@ def main():
         source_values.extend(str(value or "") for value in (entry.get("image_source_pages") or []))
         if not reasons:
             reasons.extend(identity_quarantine_reasons(target_key, source_values, identity_quarantine))
-        if not reasons and target_key in hash_quarantine and target_key not in manual_review and tracker.get("Picture") == "DONE":
+        if not reasons and target_key in hash_quarantine and target_key not in manual_review:
             reasons.append("byte-identical photo quarantine")
         if not reasons:
             blocked = blocked_photo_values(source_values)
