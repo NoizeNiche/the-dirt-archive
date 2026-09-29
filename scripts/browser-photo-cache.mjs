@@ -2607,7 +2607,11 @@ function imageBytesLookComplete(bytes, contentType = '') {
         .filter(candidate => candidate?.url && !isLikelyNonPedalAssetUrl(candidate.url))
         .sort((a, b) => {
           const score = candidate => {
-            const sourceScore = Number(candidate?.sourceScore) || 0;
+            // Source-page candidate evaluation produces a detailed DOM score,
+            // while search/direct candidates traditionally use sourceScore.
+            // Keep both signals so the transport layer does not discard the
+            // model-specific image ranking calculated by the verified page.
+            const sourceScore = Number(candidate?.sourceScore ?? candidate?.score) || 0;
             const exact = candidate?.exactPhrase || candidate?.directImageOverride || candidate?.strongSearchIdentity ? 500 : 0;
             const raw = candidate?.rawVerifiedPageImage || candidate?.linkedExactSourceImage || candidate?.embeddedImage ? 200 : 0;
             return sourceScore + exact + raw;
