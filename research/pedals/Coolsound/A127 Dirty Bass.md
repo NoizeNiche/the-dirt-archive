@@ -62,7 +62,7 @@ The model is categorized as an overdrive and is explicitly presented by name as 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
 
 ### Verified description
-Coolsound's A127 Dirty Bass is cataloged as a distortion pedal.
+Coolsound's A127 Dirty Bass is cataloged as an overdrive pedal.
 
 ### Sources checked in this pass
 1. Coolsound A127 Dirty Bass | Effects Database: https://www.effectsdatabase.com/model/coolsound/a127
