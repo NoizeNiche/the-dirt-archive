@@ -30,10 +30,10 @@ This pass adds only claims supported by the newly admitted exact-model evidence.
 Build Your Own Clone's Yellow Overdrive is cataloged as an overdrive pedal.
 
 ### Verified color/finish evidence
-- Δ More Schematics Calvin Vai by PCB Guitar Mania Add To Cart Based On: Darkglass B3k Black Mirror by PCB Guitar Mania Add To Cart Based On: EQD Chrysalis Crisalida by PCB Guitar Mania Add To Cart (c) Stomp Box Schematics
+
 
 ### Verified sound evidence
-Be the first to review “Yellow Overdrive by Build Your Own Clone (BYOC)” Cancel reply Your email address will not be published.
+
 
 ### Sources checked in this pass
 1. Yellow Overdrive by Build Your Own Clone (BYOC) - Stomp Box Schematics: https://stompboxschematics.com/circuits/yellow-overdrive-by-build-your-own-clone-byoc/
