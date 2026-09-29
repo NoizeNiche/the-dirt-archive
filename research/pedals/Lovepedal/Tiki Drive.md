@@ -2,41 +2,36 @@
 
 ## PRP identity
 - **Archive parent:** Tiki Drive
-- **Builder:** Lovepedal
-- **Catalog type:** Distortion / Overdrive
-- **Identity:** Lovepedal's Tiki Drive.
+- **Builder:** Lovepedal / Hermida Audio
+- **Catalog type:** Overdrive / Distortion
+- **Identity:** Lovepedal's Hermida Audio Tiki Drive.
 
 ## What this pedal is
-Tiki Drive is another Alfonso Hermida collaboration with Lovepedal, offering different character from his famous Zendrive.
-
-## Colorways
-- No specific factory colorway information was established in the verified evidence packet.
+The Tiki Drive is an Alfonso Hermida-designed multi-gain-stage overdrive created to deliver an amp-like overdrive/distortion sound into clean amplifiers. Hermida developed the design after working with Elliot Easton of The Cars.
 
 ## Versions and factory options
-- The verified evidence references: MKIII.
-- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+- Multi-gain-stage architecture.
+- Two gain controls are documented on surviving production examples.
+- The controls are highly interactive.
+- The archive references a **MKIII** example without treating that label as proof of a specific internal component change.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- No complete numbered hardware revision chronology was established.
+- Historic small-batch/NOS presentations are retained as product-era references rather than inferred circuit revisions.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
-- **Exact transistor/device:** Unknown.
+- JFET/MOSFET-style multi-stage approaches are discussed by Hermida as common ways of implementing amplifier-like gain stages, but the exact production semiconductor complement of the Tiki Drive is not established here.
 
 ## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
-- **Exact part:** Unknown.
+- Exact clipping-device information was not established.
 
 ## Sound
-Hermida Tiki Drive — Lovepedal Overdrive Pedal
-© 2026 PedalFilter Clear Compare ( 0 ) Back Home Lovepedal Hermida Tiki Drive Back to results Lovepedal Hermida Tiki Drive Overdrive Alfonso Hermida-designed overdrive with its own voice beyond the Zendrive.
-Tiki Drive is another Alfonso Hermida collaboration with Lovepedal, offering different character from his famous Zendrive.
+Tiki Drive is designed to move from lower-gain overdrive toward heavier distortion through multiple gain stages. Hermida emphasizes its highly interactive controls and use with clean amplifiers.
 
 ## Sources checked
-1. Tiki Drive — Lovepedal - Reverb: https://reverb.com/item/64316877-tiki-drive-lovepedal
-2. NPD Freqout, Lovepedal MKIII, Hermida Tiki Drive. Rig rundown inside ...: https://www.reddit.com/r/guitarpedals/comments/buf071/npd_freqout_lovepedal_mkiii_hermida_tiki_drive/
-3. Hermida Tiki Drive — Lovepedal Overdrive Pedal | PedalFilter | PedalFilter: https://pedalfilter.com/lovepedal/hermida-tiki-drive
-4. Lovepedal Hermida Tiki Drive Dimensions, Specs & Details: https://www.stompboxgarden.com/gear/pedal/4721/lovepedal-hermida-tiki-drive
+1. Lovepedal - Tiki Drive: https://www.lovepedal.com/n-o-s-tiki-drive-50-unit-build/
+2. YouTube - Tiki Drive controls demonstration: https://www.youtube.com/watch?v=lrJ_jSz99Oo
+3. Reverb - Lovepedal Tiki Drive: https://reverb.com/item/64316877-tiki-drive-lovepedal
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.
