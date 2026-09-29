@@ -7,33 +7,33 @@
 - **Identity:** Lovepedal's Amp 50.
 
 ## What this pedal is
-Lovepedal's Amp 50 is cataloged as an overdrive pedal.
+The Amp 50 is part of Lovepedal's original Mini Line, introduced as a compact overdrive for players who wanted the company's amp-like drive in a smaller enclosure.
 
 ## Colorways
-- No specific factory colorway information was established in the verified evidence packet.
+- No complete factory colorway chronology was established.
 
 ## Versions and factory options
-- No distinct factory revision was established in the verified evidence packet.
+- Mini Line compact enclosure.
+- Overdrive design.
+- The checked historical material does not establish a reliable detailed control list for every Amp 50 production run.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- Amp 50 is documented as a Mini Line model introduced in the 2009 era.
+- No complete numbered hardware revision chronology was established.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
-- **Exact transistor/device:** Unknown.
+- Exact production transistor/device information was not established.
 
 ## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
-- **Exact part:** Unknown.
+- Exact clipping/rectifier diode information was not established.
 
 ## Sound
-The verified evidence packet did not contain enough pedal-specific sonic description to make a more detailed sound summary without adding unsupported interpretation.
+Amp 50 is an amp-like overdrive intended for adding light-to-medium breakup without occupying the footprint of a full-size Lovepedal enclosure.
 
 ## Sources checked
-1. Lovepedal Amp 50 Overdrive - Reverb: https://reverb.com/p/lovepedal-amp-50
-2. Lovepedal AMP 50 Overdrive - What To Know & Where To Buy: https://equipboard.com/items/lovepedal-amp-50-overdrive
-3. Lovepedal Amp 50 Overdrive Pedal | Bucket List Guitars: https://bucketlistguitars.com/product/lovepedal-amp-50-overdrive/
-4. Lovepedal Amp 50 - Effects Database: https://www.effectsdatabase.com/model/lovepedal/amp50
+1. Lovepedal - History / Mini Line: https://www.lovepedal.com/history/
+2. Effects Database - Lovepedal Amp 50: https://www.effectsdatabase.com/model/lovepedal/amp50
+3. Lovepedal Press - Mini Line: https://www.lovepedal.com/press/
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.
