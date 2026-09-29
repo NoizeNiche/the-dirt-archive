@@ -10,18 +10,28 @@ QUEUE = Path("research/PHOTO_REVIEW_QUEUE.csv")
 
 def main():
     with TRACKER.open(newline="", encoding="utf-8") as handle:
-        done = {
-            (row.get("Builder", ""), row.get("Pedal", ""))
-            for row in csv.DictReader(handle)
-            if row.get("Picture") == "DONE"
-        }
+        tracker_rows = list(csv.DictReader(handle))
+
+    tracker_keys = {
+        (row.get("Builder", ""), row.get("Pedal", ""))
+        for row in tracker_rows
+    }
+    done = {
+        (row.get("Builder", ""), row.get("Pedal", ""))
+        for row in tracker_rows
+        if row.get("Picture") == "DONE"
+    }
 
     with QUEUE.open(newline="", encoding="utf-8") as handle:
         reader = csv.DictReader(handle)
         fieldnames = reader.fieldnames or []
         rows = list(reader)
 
-    kept = [row for row in rows if (row.get("Builder", ""), row.get("Pedal", "")) not in done]
+    kept = [
+        row for row in rows
+        if (row.get("Builder", ""), row.get("Pedal", "")) in tracker_keys
+        and (row.get("Builder", ""), row.get("Pedal", "")) not in done
+    ]
     removed = len(rows) - len(kept)
 
     with QUEUE.open("w", newline="", encoding="utf-8") as handle:
