@@ -22,6 +22,13 @@ from urllib.parse import quote
 from pathlib import Path
 
 from PIL import Image, UnidentifiedImageError
+try:
+    from playwright.sync_api import sync_playwright
+except Exception:
+    sync_playwright = None
+
+_BROWSER_RUNTIME = None
+_BROWSER = None
 
 ROOT = Path(".")
 INDEX = ROOT / "research/PEDAL_INDEX.json"
@@ -200,7 +207,36 @@ def fetch(url: str, source_page: str = "") -> bytes:
         except Exception as exc:
             last_error = exc
 
+    # Final transport fallback for CDNs that reject HTTP clients/relays but
+    # render the exact curator-supplied image normally in Chromium.
+    try:
+        return fetch_via_browser(url, source_page)
+    except Exception as exc:
+        last_error = exc
+
     raise RuntimeError(str(last_error or "image request failed"))
+
+
+def fetch_via_browser(url: str, source_page: str = "") -> bytes:
+    global _BROWSER_RUNTIME, _BROWSER
+    if sync_playwright is None:
+        raise RuntimeError("Playwright is not installed")
+    if _BROWSER is None:
+        _BROWSER_RUNTIME = sync_playwright().start()
+        _BROWSER = _BROWSER_RUNTIME.chromium.launch(headless=True)
+    page = _BROWSER.new_page(viewport={"width": 1600, "height": 1200}, device_scale_factor=1)
+    try:
+        if source_page:
+            page.set_extra_http_headers({"Referer": source_page})
+        page.goto(url, wait_until="domcontentloaded", timeout=TIMEOUT * 1000)
+        page.wait_for_timeout(500)
+        image = page.locator("img").first
+        data = image.screenshot(type="png", animations="disabled", caret="hide") if image.count() else page.screenshot(type="png", full_page=True, animations="disabled", caret="hide")
+        if len(data) < MIN_BYTES:
+            raise RuntimeError(f"browser screenshot too small: {len(data)} bytes")
+        return data
+    finally:
+        page.close()
 
 
 def validate(data: bytes) -> tuple[int, int]:
@@ -217,6 +253,16 @@ def validate(data: bytes) -> tuple[int, int]:
             return image.size
     except UnidentifiedImageError as exc:
         raise RuntimeError(f"not a readable image: {exc}") from exc
+
+
+def shutdown_browser() -> None:
+    global _BROWSER_RUNTIME, _BROWSER
+    if _BROWSER is not None:
+        _BROWSER.close()
+        _BROWSER = None
+    if _BROWSER_RUNTIME is not None:
+        _BROWSER_RUNTIME.stop()
+        _BROWSER_RUNTIME = None
 
 
 def main() -> None:
@@ -379,4 +425,7 @@ def main() -> None:
 
 
 if __name__ == "__main__":
-    main()
+    try:
+        main()
+    finally:
+        shutdown_browser()
