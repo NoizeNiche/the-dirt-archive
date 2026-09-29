@@ -16,6 +16,7 @@ on:
       - 'scripts/build-photo-hash-review.py'
       - 'scripts/audit-photo-identity.py'
       - 'scripts/audit-photo-revision-fidelity.py'
+      - 'scripts/verify-photo-manual-review-sync.py'
       - 'research/PHOTO_DIRECT_IMAGE_OVERRIDES.csv'
       - 'research/PHOTO_MANUAL_REVIEW.csv'
       - 'scripts/browser-photo-cache.mjs'
@@ -84,6 +85,9 @@ jobs:
 
       - name: Audit photographed pedal revision fidelity
         run: python scripts/audit-photo-revision-fidelity.py
+
+      - name: Verify manual photo-review synchronization
+        run: python scripts/verify-photo-manual-review-sync.py
 
       - name: Upload audit reports
         if: always()
