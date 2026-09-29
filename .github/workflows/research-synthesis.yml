@@ -10,7 +10,7 @@ permissions:
   actions: write
 
 concurrency:
-  group: dirt-research-synthesis
+  group: dirt-archive-publisher-v1
   cancel-in-progress: false
 
 jobs:
