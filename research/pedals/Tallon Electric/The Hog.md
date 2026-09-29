@@ -7,34 +7,38 @@
 - **Identity:** Tallon Electric's The Hog.
 
 ## What this pedal is
-Bilmuri x Tallon Electric - The Hog Skip to content Home Products Contact About Search More Home Products Contact About More Search Account Cart 0 The Hog Wield the tone of BILMURI 126 reviews Kinda Hard Motorsports The Hog Nighthog Edition $189.00 ADD TO CART THE HOG employs a dangerous blend of distortion and overdrive to produce tones that are THICC and CRYSTAL CLEAR .
+The Hog is a Tallon Electric collaboration with Bilmuri that combines distortion and overdrive into a flexible high-gain pedal.
 
 ## Colorways
-- 5/5 for fit, finish, and overall experience.
+- The checked current product page documents a **Nighthog Edition** presentation.
+- No complete historical finish chronology was established.
 
 ## Versions and factory options
-- No distinct factory revision was established in the verified evidence packet.
+- **CRANK:** distortion gain.
+- **OPTIMIZE:** blends the distortion and crunch paths.
+- **LOAD:** overall output volume.
+- **CLARITY:** overall brightness.
+- **BEEF:** controls low-end response.
+- Internal **secret switch** can alter the crunch behavior for higher-output pickups.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- No complete numbered production revision chronology was established.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
+- Exact production transistor/device information was not established in the checked sources.
 - **Exact transistor/device:** Unknown.
 
 ## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- Exact clipping/rectifier diode information was not established in the checked sources.
 - **Exact part:** Unknown.
 
 ## Sound
-Bilmuri x Tallon Electric - The Hog Skip to content Home Products Contact About Search More Home Products Contact About More Search Account Cart 0 The Hog Wield the tone of BILMURI 126 reviews Kinda Hard Motorsports The Hog Nighthog Edition $189.00 ADD TO CART THE HOG employs a dangerous blend of distortion and overdrive to produce tones that are THICC and CRYSTAL CLEAR .
-CONTROLS: + CRANK: Controls the gain of the distortion tone OPTIMIZE: Blends between the distortion tone (ccw) and the crunch tone (cw) LOAD: Sets the total output volume CLARITY: Cuts or boosts the overall brightness BEEF: Set upward for ultimate lows, or downward for a tighter bass response SECRET SWITCH: Open your pedal to find a secret setting!
-Slide this switch to the right when using higher output pickups to clean up your crunch tone.
+The Hog is designed around thick, clear high-gain distortion with a blend control that moves between heavier distortion and a crunch-oriented path. Its BEEF and CLARITY controls shape the low and high ends independently.
 
 ## Sources checked
-1. Bilmuri x Tallon Electric - The Hog: https://tallonelectric.com/products/bilmuri
-2. Tallon Electric The Hog: https://parkwaymusic.com/products/the-hog
-3. Tallon Electric The Hog - Reverb: https://reverb.com/item/101380757-tallon-electric-the-hog
+1. Tallon Electric - The Hog: https://tallonelectric.com/products/bilmuri
+2. Parkway Music - The Hog: https://parkwaymusic.com/products/the-hog
+3. Reverb - Tallon Electric The Hog: https://reverb.com/item/101380757-tallon-electric-the-hog
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.
