@@ -65,6 +65,7 @@ function sleep(ms){ return new Promise(resolve => setTimeout(resolve, ms)); }
     if(result.researchLength<=40) problems.push('Pedal Info unexpectedly short');
     if(result.photoCount!==1 || result.photoBoxCount!==1) problems.push('unexpected primary photo container count');
     if(result.photoHeight>600) problems.push('primary photo container oversized');
+    if(result.fallbackCount===1 && result.photoHeight>220) problems.push('no-photo fallback reserves excessive vertical space');
     if(isLocalImage(entry.image)){
       if(result.imageCount!==1) problems.push('expected local primary image element missing');
       if(!result.imageLoaded) problems.push('local primary image did not load');
