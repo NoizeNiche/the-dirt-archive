@@ -29,6 +29,10 @@ Level sets output and Distortion moves from lower drive into much heavier satura
 ## Archive photo
 - **Archive status:** **No Photo Archived**
 
+## Sound
+
+Bootlegger Guitar Zapped "Up Yours" Tube Distortion — Distortion Pedal Specs & Where to Buy
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

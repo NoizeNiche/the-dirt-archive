@@ -16,6 +16,11 @@
   - https://reverb.com/p/caline-cp-76-captain-silver-overdrive
   - https://reverb.com/item/35840564-caline-cp-76-captain-silver-overdrive-tube-screamer-clone
 
+## Sound
+
+It produces the iconic blues and rock overdrive sound but with the choice of TS808 or TS9 settings.
+The TS808 is a more open and brighter sound, switch to the TS9 Settings and serve up a tighter more compressed tone.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

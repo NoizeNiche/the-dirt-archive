@@ -24,6 +24,11 @@ The pedal remains intentionally simple compared with most modern distortion desi
 ## Archive photo
 - **Archive status:** **No Photo Archived**
 
+## Sound
+
+Open media 3 in modal Play video The Great Wide Open Distortion opens full screen video in same window.
+a single knob pedal that allows you to get great distortion sounds from virtually any amp.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

@@ -13,6 +13,12 @@ The Raw Heart OD combines a low-gain version of the Witch Burner with the Quantu
 ## Archive photo
 - **Archive status:** **No Photo Archived**
 
+## Sound
+
+Black Arts Toneworks Menu Pedals News Swag Friends & Retailers Contact Raw Heart OD Raw Heart OD Sometime ago, Black Arts worked with Mike Scheidt from YOB to design a distortion pedal which addressed the shortcomings of his favorite distortion at that time, the Ross Distortion.
+The active EQ can control low/mid/treble but being between gain stages it can boost those frequencies into more or less distortion as needed.
+Low gain settings were of great importance to us and we were able to dial in clarity and articulation to make it a useful toneshaper in both live and studio applications.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

@@ -16,6 +16,12 @@
   - https://onethousandpedals.com/pedal/caline-dcp-05-key-west
   - https://www.pedal-of-the-day.com/2021/06/10/caline-dcp-05-key-west-compressor-overdrive/
 
+## Sound
+
+Caline DCP 05 Key West Compressor/Overdrive
+Our Compressor went on holiday with our version of a very "peaceful" overdrive, the result ...The Key west!
+Now take Transparent control of both bass and treble, while keeping your tone control tight and plucky, or extended for full bends and roaring leads.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

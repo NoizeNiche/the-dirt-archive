@@ -14,6 +14,10 @@ https://www.effects-pedals.info/p/biyang-fz-12-fuzz/
 ## Archive photo
 - **Archive status:** **No Photo Archived**
 
+## Sound
+
+Be the first to review “Biyang FZ 12 Fuzz” Cancel reply You must be logged in to post a review.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

@@ -19,6 +19,11 @@ Effects Database dates the builder's first pedals to 2002 and company formation 
 - **Fuzz classification:** High from the exact product identity.
 - **Technical details:** Unknown.
 
+## Sound
+
+The exact model database classification establishes Doctor Fuzz as a fuzz effect.
+The reviewed exact model source does not preserve enough model specific sonic description to go beyond that documented classification without speculation.
+
 ## Sources checked
 1. Effects Database - Backbeat Electric: https://www.effectsdatabase.com/model/backbeat
 

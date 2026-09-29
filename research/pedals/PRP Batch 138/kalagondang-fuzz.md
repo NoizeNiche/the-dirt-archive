@@ -9,6 +9,12 @@
 - **Photo status:** No exact-model image promoted to the local archive in this batch.
 - **Research note:** Kept deliberately sparse rather than importing specifications from the better-documented Calangary Zaladin Fuzz or other Zonk/Tone Bender-style pedals.
 
+## Sound
+
+re creating the mother of all fuzz pedals 1962 Maestro Fuzz Tone with more modern touch and friendly size.
+We use exact the same component value as the original without adding any modification to produce the pure sound of mid 60â€™s fuzz, but used better quality component.
+Carefully selected, matched and tested(by gain, leakage, noise and sound character) to make sure each unit sound consistently the same.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

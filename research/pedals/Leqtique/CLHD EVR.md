@@ -58,6 +58,6 @@ However, the CLHD EVR's internal boost circuit has been strengthened along with 
 **Archive parent:** CLHD EVR - **Builder:** Leqtique - **Catalog type:** Overdrive - **Identity:** Leqtique's CLHD EVR.
 
 ### Sources checked in this pass
-1. CLHD EVR Manual &ndash; Leqtiqueshop: https://leqtique.ch/en/pages/clhd-evr-manual
+1. CLHD EVR Manual – Leqtiqueshop: https://leqtique.ch/en/pages/clhd-evr-manual
 2. Leqtique CLHD EVR | Reverb France: https://reverb.com/fr/item/101517155-leqtique-clhd-evr
 3. LEQTIQUE EVR CLHD EVR #143 New 1621368 LEQTIQUE EVR【楽器検索｜Jギター】: https://www.j-guitar.com/products/detail.php?id=1621368&lang=en

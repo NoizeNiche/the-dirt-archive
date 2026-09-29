@@ -19,6 +19,11 @@
   - https://www.turramusic.com.au/products/catalinbread-karma-suture-germanium
   - https://www.guitarfxdirect.com/product/catalinbread-karma-suture-fuzz/
 
+## Sound
+
+Catalinbread Karma Suture (Ge) Germanium Fuzz
+They’ve added an input capacitor blend control (called Density), which is a pretty common addition to vintage fuzz circuits, and something that Catalinbread has used on a few of their other effects such as the Katzenkönig , Sabbra Cadabra and Naga Viper .
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

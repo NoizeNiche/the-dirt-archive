@@ -65,7 +65,7 @@ Jackson Audio MODERN FUZZ DELUXE Analog Plug-in Module Jackson Audio Modern Fuzz
 Modern Fuzz Deluxe – Jackson Audio: https://jackson.audio/products/modern-fuzz-deluxe 2.
 
 ### Sources checked in this pass
-1. Modern Fuzz Deluxe &ndash; Jackson Audio: https://jackson.audio/products/modern-fuzz-deluxe
+1. Modern Fuzz Deluxe – Jackson Audio: https://jackson.audio/products/modern-fuzz-deluxe
 2. Jackson Audio Modern Fuzz Deluxe Fuzz Analog Plug-In Pedal: https://equipboard.com/items/jackson-audio-modern-fuzz-deluxe-fuzz-analog-plug-in
 3. Jackson Audio Modern FUZZ Deluxe Analog Plug-in for ... - Sweetwater: https://www.sweetwater.com/store/detail/FuzzJADlxM--jackson-audio-modern-fuzz-deluxe-analog-plug-in-for-modular-fuzz-pedal
 4. Jackson Audio MODERN FUZZ DELUXE Analog Plugin Module - eBay: https://www.ebay.com/itm/168603812653

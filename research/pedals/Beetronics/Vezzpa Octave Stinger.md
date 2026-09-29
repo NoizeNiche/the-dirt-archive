@@ -47,5 +47,9 @@ Beetronics describes FUZZZZ as a classic gated fuzz mode and STINGER as a searin
 1. Beetronics — Vezzpa Octave Stinger: https://www.beetronicsfx.com/products/vezzpa-octave-stinger-babee-series
 2. Beetronics — Vezzpa collection / limited editions: https://www.beetronicsfx.com/collections/vezzpa-octave-stinger
 
+## Sound
+
+Beetronics describes FUZZZZ as a classic gated fuzz mode and STINGER as a searing high octave voice intended to cut through a mix. The SUSTAIN control moves the fuzz response from sputtery/spitty textures toward more complete gated fuzz.
+
 ## Photo
 - **Archive status:** **Exact Photo Pending**

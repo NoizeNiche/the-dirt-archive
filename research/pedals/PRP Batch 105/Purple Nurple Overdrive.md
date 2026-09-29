@@ -24,6 +24,11 @@ The pedal uses true bypass switching, a DC jack and can operate from 9V to 18V. 
 ## Archive photo
 - **Archive status:** **No Photo Archived**
 
+## Sound
+
+Open media 3 in modal Play video Purple Nurple Overdrive opens full screen video in same window.
+From gritty clean boost to tweed like breakup to mild fuzz, the Purple Nurple Overdrive covers a lot of ground.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

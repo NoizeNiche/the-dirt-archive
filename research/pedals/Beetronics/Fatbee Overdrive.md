@@ -53,5 +53,9 @@ Beetronics describes Fatbee as producing tube-style breakup, smooth drive, natur
 1. Beetronics — Fatbee Overdrive: https://www.beetronicsfx.com/products/fatbee-overdrive
 2. Beetronics — Fatbee Custom Shop: https://www.beetronicsfx.com/products/fatbee-overdrive-custom-shop-fb2482
 
+## Sound
+
+Beetronics describes Fatbee as producing tube style breakup, smooth drive, natural compression/saturation and touch sensitive response. The builder also says it can be used with guitar, bass and synth when warmth or saturation is desired.
+
 ## Photo
 - **Archive status:** **Exact Photo Pending**

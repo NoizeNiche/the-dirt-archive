@@ -17,6 +17,12 @@
   - https://www.effectsdatabase.com/model/catseye/mistafuzz
   - https://reverb.com/item/59402182-cat-s-eye-mista-fuzz-germanium-fuzz-face-style-pedal
 
+## Sound
+
+Thru careful component selection, including the hand picked AC128 germanium transistors (for that classic Hendrix sound), and most of all, proper biasing, we've created a kickass fuzztone.
+We added true bypass switching, a Hi Z input to drive the front end of any guitar amp, increased both the gain and the output levels, eliminated radio interference and oscillation, and reshaped the EQ for a better overall tone.
+Of course the Mista' Fuzz responds to a players own individual style and touch, and cleans up nicely using only your guitars volume knob, making subtle tone changes effortless.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

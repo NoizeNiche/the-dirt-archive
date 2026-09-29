@@ -28,6 +28,12 @@ The circuit retains the Sick As architecture of internal voltage boosting and ac
 ## Archive photo
 - **Archive status:** **No Photo Archived**
 
+## Sound
+
+The sweep of the gain control has been narrowed for usability meaning it does not go completely clean anymore, but that's not really what this pedal is for.
+All day distortion Dynamic and natural, responsive to your pick attack or volume knob.
+Internally boosted to 18 volts for maximum headroom and clarity.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

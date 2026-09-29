@@ -14,6 +14,10 @@ Exact circuit topology, controls and semiconductor details are deferred to exact
 ## History
 The model is part of Bad Cat's pedal catalog alongside Burmese Drive, Double Drive, 2-Tone and X-Treme Tone.
 
+## Sound
+
+Effects Database describes the two channels as covering transparent clean boost through warm overdrive and thick full crunch while maintaining note articulation. Cascading the channels provides additional saturation, sustain, and harmonic complexity. Independent retail/demo descriptions likewise characterize the pedal as a flexible two stage/stackable overdrive, including a subtly compressed, gritty stacked sound.
+
 ## Sources checked
 1. Effects Database Bad Cat: https://www.effectsdatabase.com/model/badcat
 2. Bad Cat Pedals: https://badcat.com/

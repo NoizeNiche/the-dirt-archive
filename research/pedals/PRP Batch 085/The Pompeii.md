@@ -10,6 +10,12 @@ The Pompeii is a silicon Fuzz Face design with a specially engineered fuzz buffe
 ## Archive photo
 - **Archive status:** **No Photo Archived**
 
+## Sound
+
+The Pompeii at it’s heart is a simple Silicon Fuzz Face, taking it’s namesake from a very famous era in the band Pink Floyd’s musical history.
+David Gilmour of Pink Floyd was famous during that time for using a specific Dallas Arbiter Fuzz Face, achieving those rich and fuzzy lead tones saturating the air waves then… and now.
+You can literally place this Fuzz Face anywhere in your chain.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

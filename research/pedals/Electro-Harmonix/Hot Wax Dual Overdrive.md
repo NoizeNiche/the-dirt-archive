@@ -30,6 +30,12 @@ The previous record contained retailer/site boilerplate. That has been removed s
 - **Historical lineage:** Hot Tubes reissue of a classic 1970s EHX design
 - **Factory BOM:** not established in this pass
 
+## Sound
+
+Online Store EFFECTS PEDALS, AMPS & ACCESSORIES Effects Pedals Multi Effects Hot Wax Dual Overdrive Hot Wax Dual Overdrive Click to enlarge
+Not Sold Online Find Dealer Item HOT WAX Awesome on guitar and bass, the Hot Wax fuses our Hot Tubes and Crayon pedals into one powerful dual overdrive.
+Quick Specs Combines the Crayon full range overdrive and the Hot Tubes, a reissue of the classic 1970s CMOS overdrive.
+
 ## Photo
 - **Archive photo:** No verified local photo is currently archived for Hot Wax.
 - External product imagery remains separate from archive-local photo coverage.

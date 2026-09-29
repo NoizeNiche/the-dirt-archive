@@ -59,5 +59,5 @@ Old Blood Noise Endeavors — Alpha Haunt: https://oldbloodnoise.com/pedals/p/al
 **Archive parent:** Alpha Haunt - **Builder:** Old Blood Noise Endeavors - **Catalog type:** Fuzz - **Identity:** Old Blood Noise Endeavors's Alpha Haunt.
 
 ### Sources checked in this pass
-1. Old Blood Noise Endeavors &mdash; Alpha Haunt: https://oldbloodnoise.com/pedals/p/alpha-haunt-fuzz
+1. Old Blood Noise Endeavors — Alpha Haunt: https://oldbloodnoise.com/pedals/p/alpha-haunt-fuzz
 2. Old Blood Noise Endeavors Alpha Haunt - Equipboard: https://equipboard.com/items/old-blood-noise-endeavors-alpha-haunt

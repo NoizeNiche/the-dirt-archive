@@ -15,6 +15,12 @@
 - **Sources checked:**
   - https://cannedmonsters.com/products/Moonbark-Overdrive-MK2-p687243111
 
+## Sound
+
+Moonbark MK2, a dirt simple overdrive pedal.
+Only two knobs (gain and volume), but massive sound.
+Moonbark is constructed using two LM386 chips connected together to achieve high gain.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

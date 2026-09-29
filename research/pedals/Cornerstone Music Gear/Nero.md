@@ -35,6 +35,11 @@ Nero is a distinct catalog identity from the older Gladio Double Preamp, Gladio 
 - Guitar Pedal X Nero coverage: https://www.guitarpedalx.com/news/gpx-blog/2024-april-pedal-chain-update---episode-iv---maximum-overload
 - Thomann Nero listing: https://www.thomannmusic.no/distortion_pedals.html
 
+## Sound
+
+New duties included the Tanabe Trifecta, Audiostorm Grand Classic and MXP 1, TWA Hot Saké, Krozz Airborn and two Fuzz Face pedals.
+And I still don’t fully understand the lacklustre response to my Patreon launch many pledged support, while few have honoured those sentiments.
+
 ## Sources checked
 1. Cornerstone Music Gear current catalog
 2. Guitar Pedal X - Cornerstone Nero

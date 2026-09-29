@@ -10,6 +10,12 @@ Hybrid fuzz/overdrive combining a classic germanium Fuzz Face-style fuzz with an
 ## Archive photo
 - **Archive status:** **No Photo Archived**
 
+## Sound
+
+The best of both worlds – fuzz and overdrive – in a single pedal!
+Freud provides the perfect cure for fuzz sounding thin and stark by adding a built in overdrive at the end of a classic FF fuzz circuit.
+A versatile pedal, Pink Freud goes from screaming fuzz to shimmering clean, all with a simple roll off of your guitar’s volume knob.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

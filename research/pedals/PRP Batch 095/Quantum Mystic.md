@@ -13,6 +13,12 @@ The Quantum Mystic was developed with Mike Scheidt of Yob as an updated take on 
 ## Archive photo
 - **Archive status:** **No Photo Archived**
 
+## Sound
+
+Black Arts Toneworks Menu Pedals News Swag Friends & Retailers Contact Quantum Mystic Quantum Mystic The Quantum Mystic Overdrive was developed working closely with Mike Scheidt from the Portland Oregon band , Yob.
+Mike is known for great tone and groundbreaking music in the metal and doom community.
+The Quantum Mystic is an opamp based distortion/OD featuring a 3 band active EQ and germanium clipping.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

@@ -24,6 +24,12 @@ Svarog is a hybrid germanium/silicon fuzz derived from the Marshall SupaFuzz / M
 ## Archive photo
 - **Archive status:** **No Photo Archived**
 
+## Sound
+
+BLACKHAWK AMPLIFIERS “CHERNOBYL” PI π BASS FUZZ IS BACK!!
+“CHERNOBYL” PI π BASS FUZZ IS BACK!!
+The SVAROG uses a combination of germanium NPN transistors (depending on availability) and 2N2222 silicon transistors which are low enough gain for the circuit.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

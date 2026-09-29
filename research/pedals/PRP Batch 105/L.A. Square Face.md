@@ -26,6 +26,11 @@ Documented versions include germanium and silicon transistor builds. The silicon
 ## Archive photo
 - **Archive status:** **No Photo Archived**
 
+## Sound
+
+As you might have guessed, the Texas Square Face was based on the Dallas Arbiter Fuzz Face but used a different brand and style of transistors, had a bit more output volume, and was housed in a smaller square shaped enclosure.
+True, they are higher gain than the ones used in a standard Fuzz Face (250 400hfe instead of the 80 110hfe range), but in this case the sound is still very familiar.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

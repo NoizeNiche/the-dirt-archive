@@ -17,6 +17,12 @@
   - https://www.rockboard.de/en/pedalPedia/Caline/CP-84-The-Honeycomb-Tone-Overdrive/68976455/
   - https://www.guitarpusher.com/products/caline-cp-84-the-honeycomb-tone-overdrive
 
+## Sound
+
+Caline CP 84 Honeycomb Tone Overdrive
+Use it for a stand alone Overdrive tone or to shape your dirty signal.
+The Honeycomb Tone is a must since the graphic was designed by our very own sponsored artist Sammy Slamdance!
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

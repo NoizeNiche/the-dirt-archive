@@ -16,6 +16,12 @@
 - **Sources checked:**
   - https://www.pedal-of-the-day.com/2016/06/02/caswell-modern-electronics-boost-98-bass-drive/
 
+## Sound
+
+Ladies and gents, here is the Boost 98 Bass Drive from Caswell Modern Electronics.
+Earlier this year, we had the pleasure of reviewing Caswell Modern Electronic’s Boost 90 Clean Drive , and it was a wonderful one knob overdrive in it’s own right, for sure!
+The Boost 98 Bass Drive takes those same basic principles and reworks them, focusing all its energy on boosting the low end frequencies, something that many overdrives fail to do, resulting in questionable tones and functionality.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

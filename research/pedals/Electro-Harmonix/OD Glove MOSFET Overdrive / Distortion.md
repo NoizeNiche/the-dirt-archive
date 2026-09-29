@@ -65,5 +65,5 @@ Responsive controls that take you from sparkling, clean boost through brown crun
 2. OD Glove MOSFET Overdrive / Distortion Pedal - Sweetwater: https://www.sweetwater.com/store/detail/ODGlove--electro-harmonix-od-glove-mosfet-overdrive-distortion-pedal
 3. Electro-Harmonix OD Glove MOSFET Overdrive / Distortion - Reverb: https://reverb.com/p/electro-harmonix-od-glove
 4. Electro-Harmonix OD Glove MOSFET Overdrive / Distortion Pedal | Electric Violin Shop: https://electricviolinshop.com/products/electro-harmonix-mosfet-overdrive-distortion-pedal
-5. Electro-Harmonix OD Glove MOSFET Overdrive / Distortion Pedal &ndash; Music Makers: https://www.musicmakersweb.com/products/electro-harmonix-od-glove-mosfet-overdrive-distortion-pedal
+5. Electro-Harmonix OD Glove MOSFET Overdrive / Distortion Pedal – Music Makers: https://www.musicmakersweb.com/products/electro-harmonix-od-glove-mosfet-overdrive-distortion-pedal
 6. Electro-Harmonix OD Glove MOSFET Overdrive / Distortion: https://gcrockboard.com/electro-harmonix-od-glove-mosfet-overdrive-distortion

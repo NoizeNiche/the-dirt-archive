@@ -14,6 +14,11 @@ https://www.rockboard.de/en/pedalPedia/Biyang/Metal-End/481359980/
 ## Archive photo
 - **Archive status:** **No Photo Archived**
 
+## Sound
+
+Be the first to review “Biyang Tonefancier Metal End King Distortion Electric Guitar Effect Pedal” Cancel reply You must be logged in to post a review.
+If you are particular about your tone, GET THIS PEDAL!
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

@@ -14,6 +14,12 @@
 - **Circuit note:** CMOS and FET use are stated by the builder. No specific device part numbers or detailed topology are asserted.
 - **Photo status:** No exact-model image promoted to the local archive in this batch.
 
+## Sound
+
+USOS OVERDRIVE DISTORSION Es un pedal cercano al estilo Ampeg de distorsión, grave con armónicos medios grave.
+GAIN cantidad de ganancia VOL Volumen de la Distorsion.
+TAMAÑO 12CM X 8CM Productos similares 0 % OFF Envío gratis Preamplificador de bajo Bdi.ts con Overdrive $165.000,00 $0,00 3 cuotas sin interés de $55.000,00 Comprar ¡Listo!
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

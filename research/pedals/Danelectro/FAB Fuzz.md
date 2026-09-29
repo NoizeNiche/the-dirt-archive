@@ -66,6 +66,6 @@ Dial in the Fuzzy Tone you desire from Classic to Modern!
 1. Danelectro Fab Fuzz - Reverb: https://reverb.com/p/danelectro-fab-fuzz
 2. Danelectro D-7 FAB Fuzz - What To Know Where To Buy: https://equipboard.com/items/danelectro-d-7-fab-fuzz
 3. Danelectro FAB Fuzz Effects Pedal Free USA Shipping - eBay: https://www.ebay.com/itm/198313066686
-4. Used Danelectro Fab Fuzz Effect Pedal - Musician&#x27;s Friend: https://www.musiciansfriend.com/amplifiers-effects/used-danelectro-used-danelectro-fab-fuzz-effect-pedal/122303397
+4. Used Danelectro Fab Fuzz Effect Pedal - Musician's Friend: https://www.musiciansfriend.com/amplifiers-effects/used-danelectro-used-danelectro-fab-fuzz-effect-pedal/122303397
 5. Danelectro - D-7 Fab Fuzz - freestompboxes.org: https://www.freestompboxes.org/viewtopic.php?t=23986
 6. Danelectro D-7 Fab Fuzz | Effects Database: https://www.effectsdatabase.com/model/danelectro/fab/fuzz

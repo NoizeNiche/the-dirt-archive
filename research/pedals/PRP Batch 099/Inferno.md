@@ -14,6 +14,12 @@ The Inferno is a full-range hybrid germanium/silicon fuzz designed to retain bas
 ## Archive photo
 - **Archive status:** **No Photo Archived**
 
+## Sound
+
+All components are hand selected and auditioned for the best sound resulting in the warmth of vintage germanium transistors combined with the high gain of silicon.
+A lot of distortion/fuzz units cut a significant amount of bass and low mids out of your tone, giving at best, a thin sound or at worst, that lovely fingernails on chalkboard tone.
+The Inferno is very responsive to picking strength and to the volume knob on your guitar or instrument and will give a range of tones from mild overdrive to full on sick fuzz.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

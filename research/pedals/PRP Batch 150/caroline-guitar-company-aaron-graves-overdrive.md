@@ -16,6 +16,11 @@
 - **Sources checked:**
   - https://carolineguitar.com/product/graves_drive/
 
+## Sound
+
+Versatile Preamp & Drive Cottonwood Music Emporium
+Versatile Preamp & Drive Pedal " / " / " / " / " / " / " " " " " " " Caroline Guitar Aaron Graves Overdrive
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

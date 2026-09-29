@@ -27,6 +27,11 @@ Each side can operate independently or be stacked. The published design is based
 ## Archive photo
 - **Archive status:** **No Photo Archived**
 
+## Sound
+
+Open media 3 in modal Play video Marc F'N Ford Overdrive/Boost opens full screen video in same window.
+After a 13 year relationship, BMF Effects is proud to offer the Marc F’N Ford Overdrive/Boost signature pedal.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

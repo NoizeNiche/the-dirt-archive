@@ -19,6 +19,10 @@ Backbeat Electric is run by Ingo Straub. Effects Database records first pedal de
 - **Overdrive classification:** Moderate, based on the model's established Bass Driver product identity.
 - **Technical details:** Unknown.
 
+## Sound
+
+The exact model database classification establishes Bass Driver as an overdrive . The reviewed exact model record does not provide a sufficiently specific historical tonal description to support a more detailed sound summary.
+
 ## Sources checked
 1. Effects Database - Backbeat Electric: https://www.effectsdatabase.com/model/backbeat
 2. Effects Database - overdrive index: https://www.effectsdatabase.com/type/overdrive?from=600&page=3

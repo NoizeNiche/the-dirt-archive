@@ -52,7 +52,6 @@ Like its '90s-era inspiration, the Archer Ikon is shockingly transparent, enabli
 ### Verified sound evidence
 Rockett Audio Designs Archer Ikon Boost/Overdrive Effect Pedal
 Rockett Audio Designs Archer Ikon Boost/Overdrive Effect Pedal J.
-Rockett Audio Designs Archer Ikon Boost/Overdrive Effect Pedal Regular price $199.00 USD Regular price Sale price $199.00 USD Unit price / per Sale Sold out Shipping calculated at checkout.
 
 ### Sources checked in this pass
 1. J. Rockett Audio Designs Archer Ikon Boost/Overdrive Effect Pedal | Danville Music: https://danvillemusic.com/products/j-rockett-audio-designs-archer-ikon-boost-overdrive-effect-pedal

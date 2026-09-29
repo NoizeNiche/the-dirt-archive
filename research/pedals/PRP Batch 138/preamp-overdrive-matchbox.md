@@ -13,6 +13,12 @@
 - **Circuit note:** The Matchless DC30 relationship is a builder description. No component-level topology is asserted.
 - **Photo status:** No exact-model image promoted to the local archive in this batch.
 
+## Sound
+
+Preamp Overdrive Matchbox Preamp Overdrive Matchbox $109.000,00 3 cuotas sin interés de $36.333,33 0% de descuento pagando con No acumulable con algunas promociones Ver más detalles ¡No te lo pierdas, es el último!
+USOS OVERDRIVE distorsion liviana con versatilidad en el seteo del tono.
+CARACTERISTICAS Ecualizacion, TONE, control de tono, SWITCH de 6 posiciones, (thin) logra un sonido mas agudo y con menos distorsion ideal para guitarras ritmicas, (full) agrega distorsion y graves.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

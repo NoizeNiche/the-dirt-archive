@@ -60,4 +60,4 @@ Platte River Drive, Denver, CO 80223 1.
 
 ### Sources checked in this pass
 1. FUZZ MASTER 3 VINTAGE MINI - Stomp Under Foot: https://stompunderfoot.com/products/fuzz-master-3
-2. Stomp Under Foot Fuzz Master 3 Fuzz Pedal &ndash; Flipside Music: https://flipside-music.com/products/stomp-under-foot-fuzz-master-3
+2. Stomp Under Foot Fuzz Master 3 Fuzz Pedal – Flipside Music: https://flipside-music.com/products/stomp-under-foot-fuzz-master-3

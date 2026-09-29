@@ -25,6 +25,12 @@ Boo presents the circuit as a classic analog Tube Screamer-style overdrive in a 
 ## Archive photo
 - **Archive status:** **No Photo Archived**
 
+## Sound
+
+GET A 30% DISCOUNT COUPON FOR THIS TS 808 PEDAL VIA EMAIL THIS WEEK SIGN ME UP Tube Screamer TS808 Renowned as the most desirable overdrive pedal ever made, the T ube Screamer TS 808 overdrive/distortion has finally been brought to you in a Boutique package by BOO Instruments!
+RESULTS The result is a creamy, rich, truly classic analog boutique overdrive available anywhere.
+Brilliant, incredibly simple to select THE best tone I could possibly wish for!
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

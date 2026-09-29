@@ -16,6 +16,12 @@
   - https://onethousandpedals.com/pedal/caline-dcp-06-sundance-special
   - https://www.musicplant.co.th/product/82420-80787/calinedcp06
 
+## Sound
+
+Caline DCP 06 Sundance Special Boost/Overdrive
+Our customers enjoy our Orange Burst Overdrive and Recluse Boost pedals so much we decided to combine them!
+Tame your sound or add a bunch of wild grit to your tone, whatever the job may be...
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

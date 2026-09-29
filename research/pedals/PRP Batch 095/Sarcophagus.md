@@ -13,6 +13,12 @@ The Sarcophagus combines complete Pharaoh and LSTR circuits in one enclosure. A 
 ## Archive photo
 - **Archive status:** **No Photo Archived**
 
+## Sound
+
+Built especially for the gain freaks, those who love more.
+More gain, more low end, more volume.
+A pedal of unruly proportions, taking your tone to the underworld.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

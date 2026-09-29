@@ -17,6 +17,12 @@
   - https://carolineguitar.com/product/wave-cannon-mkii/
   - https://www.effectsdatabase.com/model/caroline/wavecanon/mk2
 
+## Sound
+
+The long story short is that this thing is an unrepentant, unapologetic distortion pedal that is totally nasty and fun.
+This Cannon comes pre loaded with balls (pun alert!) and is capable of going from cranked, lightly dirty amp tones to the sound of a furry Godzilla devouring a junkyard full of broken a/c window units.
+It's different from our Haymaker, which is a wide range drive pedal based around the rotation of a clipping network into different locations in the circuit, and which is intended to respond and feel like an extension of your amp.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

@@ -23,6 +23,10 @@ The Range control shifts the peak frequency, allowing the pedal to compensate fo
 ## Archive photo
 - **Archive status:** **No Photo Archived**
 
+## Sound
+
+$0.00 (ARCHIVE) Boot Leg HZM 1.0 Hizumi Distortion Pedal Zoom Zoom Share Tweet Pin Description Guitarchives See all See all I discovered this brand by accident, but oh boy, what a discovery.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

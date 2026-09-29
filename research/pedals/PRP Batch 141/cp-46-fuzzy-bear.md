@@ -17,6 +17,11 @@
 - **Research confidence:** High for the Fuzz Face/silicon classification in the traced unit; medium for production-wide component consistency; high that the cited Germanium marketing should not be treated as proof of germanium transistors.
 - **Sources checked:** https://www.effectsdatabase.com/model/caline/cpxx/cp46 ; https://www.freestompboxes.org/viewtopic.php?sid=45f1f499ef11370021933912e074a0df&t=31028 ; https://forum.effectsdatabase.com/viewtopic.php?f=6&t=778
 
+## Sound
+
+The Level and Fuzz controls allow a surprising amount of control from subtle to all out attack.
+Like other reviewers noted, understand that this pedal has to be dialed in near full volume and gain.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

@@ -56,5 +56,5 @@ The Outlier represents the miniaturization of a whole series of circuitry functi
 3 cascading gain-stages seamlessly glide from low gain settings that sound full and robust to high gain settings that lack nothing for dynamic and definable complete saturation.
 
 ### Sources checked in this pass
-1. OUTLIER / OD DIST &mdash; GREENHOUSE EFFECTS: https://www.gheffects.com/pedals/p/outlier
+1. OUTLIER / OD DIST — GREENHOUSE EFFECTS: https://www.gheffects.com/pedals/p/outlier
 2. Greenhouse Effects Outlier - Overdrive/Distortion - Effects Database: https://www.effectsdatabase.com/model/greenhouse/outlier

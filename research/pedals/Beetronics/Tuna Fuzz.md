@@ -51,5 +51,9 @@ Beetronics describes Tuna as loud, very dynamic, vintage-fuzz-like, and responsi
 1. Beetronics — Tuna Fuzz: https://www.beetronicsfx.com/products/tuna-fuzz
 2. Beetronics — Tuna Fuzz Silver BEE STOCK: https://www.beetronicsfx.com/products/tuna-fuzz-silver-beestock
 
+## Sound
+
+Beetronics describes Tuna as loud, very dynamic, vintage fuzz like, and responsive to guitar volume cleanup. The builder notes that its tonal behavior can differ noticeably from Octahive despite some circuit family similarity.
+
 ## Photo
 - **Archive status:** **Exact Photo Pending**

@@ -17,6 +17,12 @@
 - **Research confidence:** High for identity, controls and broad circuit lineage; high for the traced diode/op-amp evidence; medium for production-wide component consistency.
 - **Sources checked:** https://www.effectsdatabase.com/model/caline/cpxx/cp25 ; https://www.freestompboxes.org/viewtopic.php?p=274209 ; https://www.onethousandpedals.com/pedal/caline-cp-25-highway-man
 
+## Sound
+
+Inspired by the Xotic RC Booster, it offers a wide range of low to mid gain tones, from clean, articulate boost to light overdrive with extended sustain.
+Its circuit emphasizes transparency, maintaining the character of the instrument and amplifier while adding warmth, harmonic detail, and dynamic response.
+The Gain knob adjusts the amount of overdrive, allowing the pedal to function as either a subtle preamp or a mild drive stage.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

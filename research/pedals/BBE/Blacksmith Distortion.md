@@ -21,6 +21,10 @@ Blacksmith is a Paul Gagon-designed high-output distortion intended to push tube
 ## History
 Effects Database dates the modern Blacksmith to January 25, 2013 and notes that the design concept traces to Gagon's 1980s work.
 
+## Sound
+
+BBE positions Blacksmith as a high output distortion that can push tube amps while preserving a Marshall/Plexi style balance. The PLEX EQ is intended to provide the familiar passive response associated with that amplifier family.
+
 ## Sources checked
 1. Effects Database: https://www.effectsdatabase.com/model/bbe/blacksmith
 2. BBE Sound: https://www.bbesound.com/products/stomp-boxes/default.aspx

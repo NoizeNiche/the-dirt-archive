@@ -15,6 +15,10 @@
   - https://camuro.co.jp/pedals/nakedmachine
   - https://www.cloudchair.net/guitar/yutaka-aoki-naked-machine-interview/
 
+## Sound
+
+Anodized Brown Distortion デモ Comment: 0 Comment Form お名前 ウェブサイト コメント欄 Information Line 6 “DL4 MkII”活用例 Studio Daydream “KCM OD”レビュー エフェクターのレビュー多数掲載 Line 6 “DL4 MkII” One Control special movie feat.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

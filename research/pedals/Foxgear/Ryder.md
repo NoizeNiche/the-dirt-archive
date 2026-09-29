@@ -27,11 +27,7 @@ Foxgear's Ryder is cataloged as a distortion pedal.
 
 ## Sound
 
-**Archive parent:** Ryder - **Builder:** Foxgear - **Catalog type:** Distortion - **Identity:** Foxgear's Ryder.
-
-Foxgear's Ryder is cataloged as a distortion pedal.
-
-Customized Version of Rats Old School Distortion with Germanium Diodes.
+No verified pedal-specific sonic summary is currently established in the archive.
 
 ## Sources checked
 1. Foxgear Ryder Doug Aldrich Signature - Reverb: https://reverb.com/p/foxgear-ryder-doug-aldrich-signature
@@ -65,5 +61,5 @@ Customized Version of Rats Old School Distortion with Germanium Diodes.
 1. Foxgear Ryder Doug Aldrich Signature - Reverb: https://reverb.com/p/foxgear-ryder-doug-aldrich-signature
 2. Foxgear Ryder (Doug Aldrich Signature) - What To Know & Where To Buy: https://equipboard.com/items/foxgear-ryder-doug-aldrich-signature
 3. Foxgear Ryder Doug Aldrich Signature Distortion Guitar Effects Pedal: https://www.playloudnow.com/product/foxgear-ryder-doug-aldrich-signature-distortion-guitar-effects-pedal/
-4. FoxGear Ryder Doug Aldrich Signature Distortion &ndash; Action Music: https://actionmusicltd.com/products/foxgear-ryder-doug-aldrich-signature-distortion
+4. FoxGear Ryder Doug Aldrich Signature Distortion – Action Music: https://actionmusicltd.com/products/foxgear-ryder-doug-aldrich-signature-distortion
 5. Foxgear Ryder Distortion Pedal - zZounds: https://www.zzounds.com/item--FOXRYDER

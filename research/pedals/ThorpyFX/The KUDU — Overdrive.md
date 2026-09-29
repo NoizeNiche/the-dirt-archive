@@ -28,11 +28,9 @@ Well, there is a variant of the KUDU called the Greater K - **Archive parent:** 
 
 ## Sound
 
-Overdrive $237.00 $237.00 Unit price / per Shipping calculated at checkout.
 
-Overdrive Increase quantity for The KUDU
 
-Overdrive Add to cart Description KUDU is the drive enhancer you never knew you needed.
+KUDU is the drive enhancer you never knew you needed.
 
 ## Sources checked
 1. The KUDU | Overdrive: https://thorpyfx.com/en-us/products/the-kudu
@@ -55,9 +53,7 @@ Well, there is a variant of the KUDU called the Greater K - **Archive parent:** 
 - The evidence references: revision.
 
 ### Verified sound evidence
-Overdrive $237.00 $237.00 Unit price / per Shipping calculated at checkout.
-Overdrive Increase quantity for The KUDU
-Overdrive Add to cart Description KUDU is the drive enhancer you never knew you needed.
+KUDU is the drive enhancer you never knew you needed.
 
 ### Sources checked in this pass
 1. The KUDU | Overdrive: https://thorpyfx.com/en-us/products/the-kudu

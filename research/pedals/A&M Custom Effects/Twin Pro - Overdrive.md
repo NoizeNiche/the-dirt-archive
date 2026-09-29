@@ -25,6 +25,11 @@
 ## Sound\n\nThe Twin Pro is documented as a flexible analog overdrive with three primary controls and the WRATH switch for a second tonal character. Its specification emphasizes a two-voice behavior, allowing the same enclosure to cover more than one drive response. [1]\n\n## Sources checked
 1. A M Custom Effects Twin Pro - Overdrive | Effects Database: https://www.effectsdatabase.com/model/am/twinpro
 
+## Sound
+
+A M Custom Effects Twin Pro Overdrive
+This pedal made specially for Blues and "ZEP" Rock.Pedal have very warm old school overdrive sound.
+
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
 

@@ -17,6 +17,12 @@
 - **Research confidence:** High for controls, identity and broad circuit lineage; high for the traced diode/op-amp evidence; medium for production-wide component consistency.
 - **Sources checked:** https://www.effectsdatabase.com/model/caline/cpxx/cp12 ; https://www.freestompboxes.org/viewtopic.php?p=274209 ; https://manuals.plus/asin/B01LEZVYZO
 
+## Sound
+
+not by manufacturer Date ▼▲ Maker ▼▲ Video ▼▲ Time ▼▲ 2026 07 31 EfManiac 【比較】Vemuram Jan Ray vs アリエクの激安ペダル Caline Pure Sky Overdrive 0:13 2026 07 18 Loucos por Pedais Comparativo CALINE PURE SKY X KLON CENTAUR (AMPLI SUJO) 14:58 2026 04 15 TomsPedalDemos Pure Sky Overdrive into the clean channel of a Marshall mg.
+Tim V3 Vs Caline Pure Sky 3:45 2024 09 08 TL Toneworks Caline Pure Sky Vs NUX Sixty Five Overdrive 3:46 2024 08 16 TL Toneworks Timmy Pedal Wars
+5:34 2023 10 16 FelipeNovaes Comparativo: Demonfx Angel Blue Drive vs Caline Pure Sky 12:32 2023 06 14 Budget Pedal Chap You CANNOT miss out on this one!
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

@@ -21,6 +21,10 @@ Windowpane is a silicon fuzz from BBE's 2013 generation, voiced around a mellowe
 ## History
 Effects Database dates the model to January 25, 2013. It is associated with NAMM 2013 and later BBE demonstrations.
 
+## Sound
+
+The surviving exact model description characterizes Windowpane around a mellowed vintage fuzz response, with factory biasing intended to keep the circuit behavior consistent across production.
+
 ## Sources checked
 1. Effects Database: https://www.effectsdatabase.com/model/bbe/windowpane
 2. BBE Sound catalog: https://www.bbesound.com/products/stomp-boxes/default.aspx

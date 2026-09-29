@@ -14,6 +14,12 @@ MONOLITH is an analog three-mode distortion covering heavily compressed D1, more
 ## Archive photo
 - **Archive status:** **No Photo Archived**
 
+## Sound
+
+Vat Laney BCC MONOLITH Black Country Customs Monolith Distortion Guitar Pedal £ 106.99 Inc.
+Versatility is key, voiced with a highly reactive gain section.
+You can achieve everything from subtle grit to an all out sonic assault.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

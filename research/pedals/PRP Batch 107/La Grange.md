@@ -33,6 +33,11 @@ A separate footswitchable boost sits after the main overdrive and can be used al
 ## Archive photo
 - **Archive status:** **No Photo Archived**
 
+## Sound
+
+Bogner Amplification La Grange Overdrive & Boost Guitar Effects Pedal
+Bogner La Grange Overdrive + Boost Guitar Effects Pedal
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

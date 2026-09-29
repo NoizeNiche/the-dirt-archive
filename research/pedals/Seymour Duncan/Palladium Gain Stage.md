@@ -70,4 +70,4 @@ These transistors deliver ultra-low noise (0.85 nV/√Hz input-referred), symmet
 4. Review: Seymour Duncan Palladium Gain Stage Pedal | Guitar World: https://www.guitarworld.com/gear/review-seymour-duncan-palladium-gain-stage-pedal
 5. Seymour Duncan Unveils The Palladium Gain Stage Pedal: A Bassist’s Deep Dive Into Tone, Control, and Circuit Integrity | GearStrings: https://gearstrings.com/bass/seymour-duncan-unveils-the-palladium-gain-stage-pedal
 6. Seymour Duncan Palladium Gain Stage User Guide - Manualzz: https://manualzz.com/doc/54688584/seymour-duncan-palladium-gain-stage-user-guide
-7. Seymour Duncan Palladium Gain Stage Pedal Matte Black &ndash; Chicago Music Exchange: https://www.chicagomusicexchange.com/products/seymour-duncan-palladium-gain-stage-pedal-matte-black-16467
+7. Seymour Duncan Palladium Gain Stage Pedal Matte Black – Chicago Music Exchange: https://www.chicagomusicexchange.com/products/seymour-duncan-palladium-gain-stage-pedal-matte-black-16467

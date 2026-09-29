@@ -8,7 +8,6 @@
 
 ## What this pedal is
 
-Top |' data-navmenu="off" data-hashurl="off" data-menuSlider="off" data-continue-autoplay="off" data-outside-nav="off" data-autoplay="off" > 4 5 If you are looking for a single pedal solution with multiple degrees of gain from light overdrive to full out saturated fuzz tones, then you’ll surely love the Ratsbane.
 
 ## Colorways
 - No specific factory colorway information was established in the verified evidence packet.
@@ -49,7 +48,6 @@ Turn the distortion control all the way down for a deep but powerful gain booste
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
 
 ### Verified description
-Top |' data-navmenu="off" data-hashurl="off" data-menuSlider="off" data-continue-autoplay="off" data-outside-nav="off" data-autoplay="off" > 4 5 If you are looking for a single pedal solution with multiple degrees of gain from light overdrive to full out saturated fuzz tones, then you’ll surely love the Ratsbane.
 
 ### Verified color/finish evidence
 - No specific factory colorway information was established in the verified evidence packet.
@@ -58,7 +56,6 @@ Top |' data-navmenu="off" data-hashurl="off" data-menuSlider="off" data-continue
 - The evidence references: V2, revision.
 
 ### Verified sound evidence
-Top |' data-navmenu="off" data-hashurl="off" data-menuSlider="off" data-continue-autoplay="off" data-outside-nav="off" data-autoplay="off" > 4 5 If you are looking for a single pedal solution with multiple degrees of gain from light overdrive to full out saturated fuzz tones, then you’ll surely love the Ratsbane.
 The full, dynamic range, and sheer sonic force of this circuit is what makes it a true king amongst distortion pedals.
 Turn the distortion control all the way down for a deep but powerful gain booster.
 

@@ -29,6 +29,10 @@ The Drive control continues to blend clean and overdriven signal, while Bass and
 ## Archive photo
 - **Archive status:** **No Photo Archived**
 
+## Sound
+
+I’ve always loved the clean half of the Centaur, but my favourite clipping stage has always been the articulate and detailed response of the Tubescreamer.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

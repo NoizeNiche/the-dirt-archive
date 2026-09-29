@@ -35,6 +35,10 @@ Do not backfill every later modification found on used examples into the origina
 - Reverb exact-model listing: https://reverb.com/item/96560756-coron-distortion-10
 - Reverb Japanese example: https://reverb.com/item/43437595-coron-distortion-10
 
+## Sound
+
+Be the first to review “Coron Distortion 10” Cancel reply You must be logged in to post a review.
+
 ## Sources checked
 1. Effects Database - Coron Distortion 10
 2. Reverb - Coron Distortion 10

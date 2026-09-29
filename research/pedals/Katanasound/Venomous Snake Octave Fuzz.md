@@ -63,4 +63,4 @@ Reverb: https://reverb.com/item/3283086-katanasound-venomous-snake-octave-fuzz-p
 ### Sources checked in this pass
 1. Katanasound Venomous Snake Octave Fuzz Pedal | Reverb: https://reverb.com/item/3283086-katanasound-venomous-snake-octave-fuzz-pedal
 2. Katanasound Venomous Snake Octave Fuzz Pedal: https://www.stringanddrum.com/product/katanasound-venomous-snake-octave-fuzz-pedal267972/
-3. Katanasound Venomous Snake Octave Fuzz Pedal &mdash; Andy Babiuk&#39;s Fab Gear: https://www.andybabiuksfabgear.com/whats-new-aiZQV/p/katanasound-venomous-snake-octave-fuzz-pedal
+3. Katanasound Venomous Snake Octave Fuzz Pedal — Andy Babiuk's Fab Gear: https://www.andybabiuksfabgear.com/whats-new-aiZQV/p/katanasound-venomous-snake-octave-fuzz-pedal

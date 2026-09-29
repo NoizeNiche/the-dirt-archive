@@ -16,6 +16,10 @@
 - **Research confidence:** High for identity, controls, broad sound description and electrical specifications; low for internal components.
 - **Sources checked:** https://www.youtube.com/watch?v=vME34yxoQXk ; https://www.cmias.cz/efekt-kytarovy-caline-cp-501s-sathanas
 
+## Sound
+
+Used to boost an amp into distortion, this pedal is ideal for lead lines and solos, or with the Distortion control pushed and going into a clean platform, the Sathanas emulates a cranked 100W stack that could blow down walls!
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

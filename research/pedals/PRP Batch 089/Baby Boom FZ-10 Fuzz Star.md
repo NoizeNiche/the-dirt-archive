@@ -13,6 +13,10 @@ https://www.effectsdatabase.com/model/biyang/babyboom/fz10
 ## Archive photo
 - **Archive status:** **No Photo Archived**
 
+## Sound
+
+For sound, no noisy at all, smooth sounding fuzz distortion is in every settings, supplying 3 kinds of FUZZ too,ery punchy and alive.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

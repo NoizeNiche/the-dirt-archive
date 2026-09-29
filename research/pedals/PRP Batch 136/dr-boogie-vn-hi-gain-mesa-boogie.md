@@ -10,6 +10,12 @@ Cajita describes Dr.Boogie VN as high-gain Mesa/Boogie-style distortion using FE
 ## Source
 https://pedalescajita.mitiendanube.com/productos/dr-boogie-vn-hi-gain-mesa-boogie/
 
+## Sound
+
+Dr Boogie VN hi gain mesa boogie Dr Boogie VN hi gain mesa boogie $125.000,00 3 cuotas sin interés de $41.666,67 0% de descuento pagando con No acumulable con algunas promociones Ver más detalles ¡No te lo pierdas, es el último!
+No acumulable con otras promociones Volver al producto DR.Boogie VN Distorsión hi gain, tipo mesa boogie, un clásico de Cajita.
+Usa transistores Fet para simular válvulas, ofreciendo todo el gain necesario y más.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

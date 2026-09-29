@@ -17,6 +17,12 @@
   - https://catalinbread.com/products/rah
   - https://www.manualslib.com/manual/560867/Catalinbread-Rah.html
 
+## Sound
+
+The tone was great, similar to his Marshall tone, but there was a little somethin somethin going on there.
+Comparing it to a standard Hiwatt head of the same era, we notice that it is modi ed to provide more gain.
+Plus, there was a foot switch that allowed two gain settings.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

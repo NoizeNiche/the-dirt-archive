@@ -13,6 +13,10 @@ Witch Burner MkII is a deliberately high-gain overdrive. Black Arts Toneworks de
 ## Archive photo
 - **Archive status:** **No Photo Archived**
 
+## Sound
+
+Black Arts Toneworks Menu Pedals News Swag Friends & Retailers Contact Witch Burner MkII Witch Burner MkII Not your dad’s overdrive…Too much gain.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

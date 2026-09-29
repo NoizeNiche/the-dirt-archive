@@ -17,6 +17,10 @@
 - **Research confidence:** High for identity, controls and broad lineage; medium for exact donor-amplifier identification because the source calls it an enigma; low for internal components.
 - **Sources checked:** https://www.effectsdatabase.com/model/caline/cp500/enchantedtone ; https://reverb.com/p/caline-cp-511-enchanted-tone-highly-prized-overdrive ; https://www.reddit.com/r/Music/comments/pndjnb/is_calines_enchanted_tone_pedal_fit_for_bass/
 
+## Sound
+
+Be the first to review “Caline CP 511 Enchanted Tone Highly Prized Overdrive” Cancel reply You must be logged in to post a review.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

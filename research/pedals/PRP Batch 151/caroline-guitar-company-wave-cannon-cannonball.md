@@ -17,6 +17,12 @@
   - https://carolineguitar.com/so-what-is-the-difference-between/
   - https://www.effectsdatabase.com/model/caroline/wavecannon
 
+## Sound
+
+It is capable of tones that are dynamic, responsive, powerful, and soulful.
+As a former touring pro and gear critic who had owned, played, tested, or reviewed over 75 different distortion pedals, I had a pretty good idea for the recipe I had always wanted.
+For years I had also modified or "unlocked" other brands of pedals for our customers and friends, only to grit my teeth when confronted with limits to what I could do within their framework.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

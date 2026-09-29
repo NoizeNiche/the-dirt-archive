@@ -16,6 +16,11 @@
   - https://carlmartin.com/products/plexitone-lo-gain/
   - https://carlmartin.com/wp-content/uploads/2026/02/PlexiTone-Lo-Gain.pdf
 
+## Sound
+
+Toggle Menu PlexiTone Lo Gain Lo gain version of the original PlexiTone, offering classic British crunch with tone shaping and pedalboard compatibility.
+Flexible for stacking: adds clarity before another drive or smooths and thickens after.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

@@ -18,6 +18,10 @@
   - https://www.effectsdatabase.com/model/cavepassive/wasp
   - https://www.talkbass.com/threads/cave-passive-pedals.598605/page-6
 
+## Sound
+
+More musical than it's digital counterparts, this analogue fuzz for bass has a rotary control for depth which creates a variety of tones from 60's hippy to hard rock.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

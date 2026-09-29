@@ -21,6 +21,10 @@ The documented Depth control mixes the two transistor signal paths. The high-pas
 ## Sound
 The design is based on the distinctive 1960s Fuzzrite circuit and retains its characteristic buzzing fuzz family.
 
+## What this pedal is
+
+Do you have a question about the GNARLY BEE RETRO FUZZ and is the answer not in the manual?
+
 ## Sources checked
 1. Bulinski Effect Pedals product page: https://bulinskipedals.com/shop/gnarly-bee-fuzzrite-clone/
 2. Bulinski Effects Gnarly Bee manual: https://bulinskipedals.com/manuals/gnarley-bee-retro-fuzz-effect-pedal-manual.pdf
@@ -61,7 +65,7 @@ Do you have a question about the GNARLY BEE RETRO FUZZ and is the answer not in 
 ### Sources checked in this pass
 1. Bulinski Effect Pedals Gnarly Bee - Equipboard: https://equipboard.com/items/bulinski-effect-pedals-gnarly-bee
 2. Gnarly Bee (Fuzzrite) Fuzz Pedal by Bulinski Effect Pedals: https://reverb.com/item/55288911-gnarly-bee-fuzzrite-fuzz-pedal-by-bulinski-effect-pedals
-3. NPD: Bulinski Effect Pedals &quot;Gnarly Bee&quot; (Si Fuzzrite): https://www.offsetguitars.com/forums/viewtopic.php?p=1825507
+3. NPD: Bulinski Effect Pedals "Gnarly Bee" (Si Fuzzrite): https://www.offsetguitars.com/forums/viewtopic.php?p=1825507
 4. BULINSKI EFFECT PEDALS GNARLY BEE RETRO FUZZ QUICK START MANUAL Pdf Download | ManualsLib: https://www.manualslib.com/manual/3452680/Bulinski-Effect-Pedals-Gnarly-Bee-Retro-Fuzz.html
 5. Gnarly Bee - Bulinski Effect Pedals: https://bulinskipedals.com/shop/gnarly-bee-fuzzrite-clone/
 6. https://i0.wp.com/bulinskipedals.com/wp-content/uploads/2022/05/Bulinski-Gnarly-Bee-1.jpg?fit=1200%2C1200&: https://i0.wp.com/bulinskipedals.com/wp-content/uploads/2022/05/Bulinski-Gnarly-Bee-1.jpg?fit=1200%2C1200&
@@ -84,7 +88,7 @@ Do you have a question about the GNARLY BEE RETRO FUZZ and is the answer not in 
 ### Sources checked in this pass
 1. Bulinski Effect Pedals Gnarly Bee - Equipboard: https://equipboard.com/items/bulinski-effect-pedals-gnarly-bee
 2. Gnarly Bee (Fuzzrite) Fuzz Pedal by Bulinski Effect Pedals: https://reverb.com/item/55288911-gnarly-bee-fuzzrite-fuzz-pedal-by-bulinski-effect-pedals
-3. NPD: Bulinski Effect Pedals &quot;Gnarly Bee&quot; (Si Fuzzrite): https://www.offsetguitars.com/forums/viewtopic.php?p=1825507
+3. NPD: Bulinski Effect Pedals "Gnarly Bee" (Si Fuzzrite): https://www.offsetguitars.com/forums/viewtopic.php?p=1825507
 4. BULINSKI EFFECT PEDALS GNARLY BEE RETRO FUZZ QUICK START MANUAL Pdf Download | ManualsLib: https://www.manualslib.com/manual/3452680/Bulinski-Effect-Pedals-Gnarly-Bee-Retro-Fuzz.html
 5. Gnarly Bee - Bulinski Effect Pedals: https://bulinskipedals.com/shop/gnarly-bee-fuzzrite-clone/
 6. catalog/override source: https://i0.wp.com/bulinskipedals.com/wp-content/uploads/2022/05/Bulinski-Gnarly-Bee-1.jpg?fit=1200%2C1200&

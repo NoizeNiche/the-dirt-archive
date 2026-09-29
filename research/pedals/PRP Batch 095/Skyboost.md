@@ -13,6 +13,12 @@ The Skyboost is a boost that can move from gentle full-range boosting through gr
 ## Archive photo
 - **Archive status:** **No Photo Archived**
 
+## Sound
+
+Black Arts Toneworks Menu Pedals News Swag Friends & Retailers Contact Skyboost Skyboost SKYBOOST You’ll find sounds from a gentle full range boost, gritty treble boost, gassing up to a full aggressive fuzz.
+Great for boosting and adding some edge to a dirty preamp, add definition to a saturated front end.
+Controls: Gain – Dial up harmonic content maxing up to fuzzy Volume – Match your amp volume, then cut or boost as needed Contour – toggle between a bassy setting and a trebly setting.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

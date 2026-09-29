@@ -17,6 +17,11 @@
   - https://carolineguitar.com/product/shigeharu/
   - https://www.effectsdatabase.com/model/caroline
 
+## Sound
+
+Imagine classic Muff style fuzziness with the punch of a classic overdrive, and you have Shigeharu™.
+Combine that with the parallel octave up voiced fuzz available on demand with the Havoc stomp and you have a whole lot of nasty right here.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

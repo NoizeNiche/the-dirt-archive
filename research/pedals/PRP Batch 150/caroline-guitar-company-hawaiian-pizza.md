@@ -21,6 +21,12 @@
   - https://carolineguitar.com/superpatriotic-special-american-pizza/
   - https://carolineguitar.com/vegetarian-pizza-special-limited-run-w-limited-tee/
 
+## Sound
+
+Your quest for toanz have brought you to our HAWAIIAN PIZZA™: a bespoke artisanal blockchain of handcrafted tone, the sonic equivalent of a forbidden delicacy, all from just three knobs and the truth .
+This thing really is "three knobs and the truth" and can both fulfill and surpass what you think a fuzz is capable of.) Your pedal was dreamed, designed and created at our small batch distortery™ in Columbia, S.C Thank you for supporting our work!
+to navigate to select ESC to close Gear Review: Caroline Guitar Company Hawaiian Pizza The Tone Ranger Caroline guitar company , Hawaiian pizza , Fuzz , Guitar effects February 5, 2024 Hold onto your pineapple chunks, because the Caroline Guitar Company’s Hawaiian Pizza fuzz pedal will take your tone on a wild ride.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

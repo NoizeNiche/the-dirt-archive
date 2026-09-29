@@ -17,6 +17,12 @@
   - https://carvinaudio.com/products/vld1
   - https://www.premierguitar.com/gear/carvin-vld1-legacy-drive-review
 
+## Sound
+
+Carvin VLD1 Steve Vai Legacy Drive Preamp
+Take your tone anywhere with the versatility and portability of the Legacy DRIVE pedal.
+Steve Vai wanted his Legacy tube tone in a format he could pack in a carry on, so Carvin Audio worked with Steve to create the new Legacy Drive pedal.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

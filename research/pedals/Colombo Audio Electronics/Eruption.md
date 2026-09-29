@@ -32,6 +32,10 @@ The visible manufacturer enclosure artwork specifies 9V DC operation. Exact curr
 ## Photo provenance
 The Colombo Audio Electronics Eruption product page contains model-specific product images and explicitly labels the pedal. Multiple exact-model Reverb listings provide corroborating photographs of the same Eruption enclosure family and distinguish later artwork from earlier versions. [1][4]
 
+## Sound
+
+Eruption Electric guitar pedal EVH Overdrive, Distortion, Variac tone Colombo Audio Electronics / !
+
 ## Sources checked
 1. Colombo Audio Electronics - Eruption: https://colomboaudioelectronics.it/prodotto/eruption-van-halen/?lang=en
 2. Brett Kingman - Colombo Audio Electronics: Eruption OD/Distortion: https://www.youtube.com/watch?v=vWz1-JCGZkw

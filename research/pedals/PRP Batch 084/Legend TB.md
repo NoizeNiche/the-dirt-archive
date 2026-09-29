@@ -10,6 +10,10 @@ A limited-run Big Knob prototype based on a modified MKII Tone Bender fuzz. Cont
 ## Archive photo
 - **Archive status:** **No Photo Archived**
 
+## Sound
+
+Our goal was to capture that same amazing fuzz tone Jimmy Page was getting through his MKII during the early Yardbirds/Led Zeppelin, specifically on the album “Yardbirds Live at the Anderson Theater 1968” and we believe this particular pedal comes very, very close.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

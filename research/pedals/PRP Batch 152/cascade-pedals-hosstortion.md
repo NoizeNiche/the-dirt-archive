@@ -18,6 +18,12 @@
   - https://www.premierguitar.com/cascade-pedals-unveils-the-hosstortion
   - https://guitar.com/news/gear-news/cascade-pedals-introduce-the-hosstortion/
 
+## Sound
+
+Cascade Pedals debut the Hosstortion, a MOSFET distortion pedal
+Learn more Featured Deal A distortion legend: the Pro Co RAT 2 for just $88!
+Claim News Cascade Pedals debut the Hosstortion, a MOSFET distortion pedal Based off the short lived but revered Ibanez MT 10 Mostortion.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

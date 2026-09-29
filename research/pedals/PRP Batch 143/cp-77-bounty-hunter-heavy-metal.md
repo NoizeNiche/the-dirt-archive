@@ -17,6 +17,12 @@
   - https://www.pedal-of-the-day.com/2020/06/24/caline-cp-77-bounty-hunter-heavy-metal-distortion/
   - https://www.glazbena-kutija.hr/caline-cp77-bounty-hunter-heavy-metal-hr-hr
 
+## Sound
+
+Caline CP 77 Bounty Hunter Heavy Metal Distortion Guitar Effect Pedal – This Shop is in Canadian Dollars $$ Free N Fast USA /CAN Shipping, NO State/Province Tax NO Duty.
+, Tone City Description Description Caline CP 77 Bounty Hunter Heavy Metal Distortion Guitar Effect Pedal A high gain distortion pedal from Caline with plenty of punch lets you tweak the Vol, Mid and Dist.
+Let you experiment with a range of useable heavy distortion tones by functional knobs.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

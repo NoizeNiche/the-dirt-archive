@@ -23,6 +23,12 @@ N-Fuzz is based on the fuzz section of Black Cat OD-Fuzz and was modified with J
 ## Archive photo
 - **Archive status:** **No Photo Archived**
 
+## Sound
+
+The original N Fuzz was made in limited numbers between 2001 and 2003, and was only available in the Asian market.
+Like the names of most other Black Cat products, "N Fuzz" was more short and to the point than "N Channel Fuzz." Black Cat owner Tom Hughes states, "The new N Fuzz also uses N Channel (NPN) transistors.
+The toggle switch of the original N Fuzz selected between two fixed bias points, which resulted in one position having a High output, and the other position having a Low output.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

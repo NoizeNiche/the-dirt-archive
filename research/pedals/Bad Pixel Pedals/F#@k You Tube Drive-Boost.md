@@ -19,6 +19,10 @@ Bad Pixel Pedals' archived site shows that its tube-drive products include disco
 - **Drive/boost role:** Moderate to high.
 - **Exact circuit/components:** Unknown.
 
+## Sound
+
+The surviving inventory establishes the pedal's drive/boost role, but does not contain a reliable model specific tonal description. The archive therefore leaves detailed sonic characterization unresolved.
+
 ## Sources checked
 1. AttheLivingRoomStudios gear list: https://atthelivingroomstudios.com/gear/
 2. Bad Pixel Pedals archived site: https://badpixel.weebly.com/

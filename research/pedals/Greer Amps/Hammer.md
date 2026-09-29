@@ -77,4 +77,4 @@ Greer Amps Hammer — Overdrive Pedal
 4. Greer Amps Hammer | Upright Bass | guitarhymn.com: https://www.guitarhymn.com/product/greer-amps-hammer/
 5. Greer Amps Introduces The Black Tiger Delay and Hammer Distortion: A Dual-Pedal Innovation for Tone-Conscious Musicians | GearStrings: https://gearstrings.com/music-theory/greer-amps-introduces-the-black-tiger-delay-and-hammer-distortion
 6. Greer Amps Hammer Brand New - Gbase: https://www.gbase.com/gear/greer-amps-hammer
-7. Greer Amps Hammer &ndash; Found Sound: https://foundsound.com.au/products/42624
+7. Greer Amps Hammer – Found Sound: https://foundsound.com.au/products/42624

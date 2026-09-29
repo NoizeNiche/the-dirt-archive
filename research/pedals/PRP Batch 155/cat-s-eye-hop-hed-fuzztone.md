@@ -17,6 +17,10 @@
   - https://www.effectsdatabase.com/model/catseye/hophed
   - https://reverb.com/uk/item/6975190-cat-s-eye-hop-hed-fuzztone-owned-by-j-mascis
 
+## Sound
+
+The Hop Hed Fuzztone faithfully reproduces Jimmy Page's Zeppelin era tone as well as many other classic fuzz sounds.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

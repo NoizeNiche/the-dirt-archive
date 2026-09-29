@@ -13,6 +13,10 @@ https://www.effectsdatabase.com/model/biyang/ds3
 ## Archive photo
 - **Archive status:** **No Photo Archived**
 
+## Sound
+
+It is a triad effector with distortion,sound box simulation and retardation time.It can not only play undertone, popular music pieces,but also play solo.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

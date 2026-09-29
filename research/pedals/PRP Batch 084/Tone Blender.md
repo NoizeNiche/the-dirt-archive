@@ -10,6 +10,10 @@ Reproduction of the classic Tone Bender family fuzz. Controls: Level and Attack.
 ## Archive photo
 - **Archive status:** **No Photo Archived**
 
+## Sound
+
+Its super thick vintage fuzz tone is achieved by means of three matched NOS 1960s era Russian military germanium transistors.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

@@ -53,5 +53,9 @@ Beetronics describes Polen as sagged and spitty, Nectar as round and huge, and H
 1. Beetronics — Abelha Tropical Fuzz: https://www.beetronicsfx.com/products/abelha-tropical-fuzz
 2. Beetronics — Abelha Custom Shop: https://www.beetronicsfx.com/products/abelha-tropical-fuzz-custom-shop-p-ab0076
 
+## Sound
+
+Beetronics describes Polen as sagged and spitty, Nectar as round and huge, and Honey as more contained with broader versatility. Tropical Mode adds a sharp, treble forward edge inspired by plugging fuzz directly into a recording console.
+
 ## Photo
 - **Archive status:** **Exact Photo Pending**

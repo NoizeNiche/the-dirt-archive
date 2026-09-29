@@ -56,9 +56,7 @@ It’s an unfair comparison really, but it is possible to - **Archive parent:** 
 - The evidence references: MKI, MKII, V2, revision.
 
 ### Verified sound evidence
-Overdrive $259.00 $259.00 $0.00 Unit price / per Shipping calculated at checkout.
-Overdrive Increase quantity for JUDGE DREDD LAWBRINGER
-Overdrive Add to cart Description "I AM THE LAW" The Lawbringer overdrive aims to place Law above all else in line with Judge Dredds singular uncompromising attitude.
+"I AM THE LAW" The Lawbringer overdrive aims to place Law above all else in line with Judge Dredds singular uncompromising attitude.
 
 ### Sources checked in this pass
 1. JUDGE DREDD LAWBRINGER | Overdrive: https://thorpyfx.com/en-us/products/judge-dredd-lawbringer-gunshot

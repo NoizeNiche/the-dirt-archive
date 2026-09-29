@@ -16,6 +16,10 @@ Exact topology, tube/device complement, controls and power details were not inde
 - **Overdrive classification:** High from the historical product name.
 - **Technical details:** Unknown.
 
+## Sound
+
+The surviving Reverb description characterizes the unit as a tube based overdrive/distortion/preamp and emphasizes its high voltage tube operation and harmonic behavior. This description is retained as documentation of the surviving example rather than generalized to every Baja Tech Custom Real Tube Overdrive.
+
 ## Sources checked
 1. Wikiwahwah Baja Tech Custom product history: https://wahwah.fandom.com/wiki/Baja_Tech_Custom
 

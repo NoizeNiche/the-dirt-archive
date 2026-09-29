@@ -64,7 +64,7 @@ The RED EVR has a stronger treble than the Leqtique - RED, which makes it a litt
 The Beryl's original Gain knob setting varied the gain of two stages, each controlled by a separate gain stage.
 
 ### Sources checked in this pass
-1. Beryl EVR &ndash; Leqtiqueshop: https://leqtique.ch/en/products/beryl-evr
+1. Beryl EVR – Leqtiqueshop: https://leqtique.ch/en/products/beryl-evr
 2. Leqtique EVR Beryl EVR (NEW) - Reverb: https://reverb.com/item/100046870-leqtique-evr-beryl-evr-new
 3. Leqtique Beryl EVR Leqtique DS10490951 - eBay: https://www.ebay.com/itm/257537534831
 4. Leqtique EVR Beryl EVR(NEW) - TC楽器 - TCGAKKI: https://tcgakki.com/en/products/leqtique-evr-beryl-evrnew

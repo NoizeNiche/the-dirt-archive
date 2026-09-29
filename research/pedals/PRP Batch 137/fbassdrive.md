@@ -13,6 +13,12 @@
 - **Circuit note:** The Fulltone Bassdrive relationship is a builder description. No more specific circuit topology is asserted here.
 - **Photo status:** No exact-model image promoted to the local archive in this batch. The product page is retained as the image-source page for future photo recovery.
 
+## Sound
+
+FBASSDRIVE overdrive de bajo FBASSDRIVE overdrive de bajo $119.000,00 3 cuotas sin interés de $39.666,67 0% de descuento pagando con No acumulable con algunas promociones Ver más detalles ¡No te lo pierdas, es el último!
+USOS DISTORSION para BAJO, muy versátil gracias a sus 3 MODOS de saturación , mas BOOST que agrega un poco de saturación extra y controlable.
+CARACTERISTICAS Ecualización, TONE, control de tono.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

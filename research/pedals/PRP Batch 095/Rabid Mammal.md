@@ -13,6 +13,12 @@ The Rabid Mammal V2 combines a Witch Boost-derived boost section with a partiall
 ## Archive photo
 - **Archive status:** **No Photo Archived**
 
+## Sound
+
+The boost section is a Witch Boost, now with added GRN low gain switch.
+This is a little less compressed giving a more solid and larger sonic boost.
+The fuzz section is a partially stripped Supreme, utilizing the Pharaoh tonestack for blasted mids and LED or mosfet clipping.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

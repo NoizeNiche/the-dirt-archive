@@ -22,6 +22,11 @@ BYW describes the Gros Buzz as using **five bipolar transistors** and **two phas
 - Approx. 6 mA current draw
 - 120 × 94 × 33 mm
 
+## Sound
+
+The BUZZ, ptit or gros, gives you a super high gain fuzz sound, insane vintage distortion, a thick and mushy sound.
+Built around 5 bipolar transistors as well as two phases of soft clipping diodes, the amplitude of the signal thus generated is increased to a point of extreme saturation and coloration.
+
 ## Sources checked
 1. BYW Audio product page: https://bywaudio.com/index.php/product/gros-buzz/
 

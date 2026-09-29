@@ -13,6 +13,12 @@ https://www.effectsdatabase.com/model/bigtone/fuzzmaster
 ## Archive photo
 - **Archive status:** **No Photo Archived**
 
+## Sound
+
+Big Tone Music Brewery Germanium Fuzz Master
+At it's heart, the Fuzz Master still has a circuit identical to the original Arbiter Fuzz Face.
+Both tested for proper leakage and gain.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

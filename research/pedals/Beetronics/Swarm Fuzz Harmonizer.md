@@ -56,6 +56,10 @@ Beetronics describes the Swarm as ranging from vintage-inspired octave fuzz thro
 2. Beetronics — Swarm Custom Shop: https://www.beetronicsfx.com/products/swarm-fuzz-harmonizer-custom-shop-p-sw2178
 3. Beetronics — Swarm demonstration: https://www.youtube.com/watch?v=T0z06dKheoQ
 
+## Sound
+
+Beetronics describes the Swarm as ranging from vintage inspired octave fuzz through buzzing synth like textures and broken machine sounds. The modulation can move from comparatively precise tracking toward unstable, detuned and glitch like behavior.
+
 ## Photo
 - **Archive status:** **Exact Photo Pending**
 
@@ -72,7 +76,7 @@ The **Swarm Fuzz Harmonizer** is an analog fuzz harmonizer that converts the inc
 **Flight:** adjusts modulation response/tracking behavior.
 
 ### Sources checked in this pass
-1. Swarm Fuzz Harmonizer - Custom Shop SW2178 &ndash; Beetronics: https://www.beetronicsfx.com/products/swarm-fuzz-harmonizer-custom-shop-p-sw2178
+1. Swarm Fuzz Harmonizer - Custom Shop SW2178 – Beetronics: https://www.beetronicsfx.com/products/swarm-fuzz-harmonizer-custom-shop-p-sw2178
 2. Browser not supported: https://web.whatsapp.com/send?text=https://www.beetronicsfx.com/products/swarm-fuzz-harmonizer-custom-shop-p-sw2178
 
 ## Deep research verification
@@ -88,6 +92,6 @@ The **Swarm Fuzz Harmonizer** is an analog fuzz harmonizer that converts the inc
 **Flight:** adjusts modulation response/tracking behavior.
 
 ### Sources checked in this pass
-1. Swarm Fuzz Harmonizer - Custom Shop SW2178 &ndash; Beetronics: https://www.beetronicsfx.com/products/swarm-fuzz-harmonizer-custom-shop-p-sw2178
+1. Swarm Fuzz Harmonizer - Custom Shop SW2178 – Beetronics: https://www.beetronicsfx.com/products/swarm-fuzz-harmonizer-custom-shop-p-sw2178
 2. catalog/override source: https://web.whatsapp.com/send?text=https://www.beetronicsfx.com/products/swarm-fuzz-harmonizer-custom-shop-p-sw2178
 3. Beetronics — Swarm Fuzz Harmonizer: https://www.youtube.com/watch?v=T0z06dKheoQ

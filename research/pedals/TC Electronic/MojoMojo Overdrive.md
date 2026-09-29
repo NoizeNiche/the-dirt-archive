@@ -76,7 +76,7 @@ Sweetwater: https://www.sweetwater.com/store/detail/MojoMojo--tc-electronic-mojo
 5. TC Electronic MojoMojo Overdrive - What To Know Where To Buy: https://equipboard.com/items/tc-electronic-mojomojo-overdrive
 6. TC Electronic MojoMojo Overdrive - Reverb: https://reverb.com/p/tc-electronic-mojomojo-overdrive-2010s-rust
 7. TC Electronic MojoMojo Overdrive | Long & McQuade: https://www.long-mcquade.com/14113/Guitars/Guitar-Effects/T-C-Electronic/MojoMojo-Overdrive.htm
-8. TC Electronic MojoMojo Overdrive &#8211; Pedal Wiki: https://pedalwiki.com/tc-electronic-mojomojo-overdrive/
+8. TC Electronic MojoMojo Overdrive – Pedal Wiki: https://pedalwiki.com/tc-electronic-mojomojo-overdrive/
 9. PDF tc electronic MOJOMOJO OVERDRIVE User Manual - Manuals+: https://manuals.plus/tc%20electronic/mojomojo-overdrive-manual.pdf
 10. TC ELECTRONIC MOJOMOJO OVERDRIVE USER MANUAL Pdf Download | ManualsLib: https://www.manualslib.com/manual/1427342/Tc-Electronic-Mojomojo-Overdrive.html
 11. open prime modal: https://www.amazon.com/clp/B004OK1G64

@@ -18,6 +18,12 @@
   - https://www.premierguitar.com/cast-engineering-releases-the-mike-zito-peace-drive
   - https://reverb.com/p/cast-engineering-mike-zito-peace-drive
 
+## Sound
+
+CAST Engineering Mike Zito Peace Drive
+Mike had a very refined tone in his head that he wanted in this pedal and we nailed it per Mike.
+He also wanted a specific voicing in the Boost which has been achieved.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

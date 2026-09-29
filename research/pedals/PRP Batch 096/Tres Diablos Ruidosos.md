@@ -13,6 +13,12 @@ Tres Diablos Ruidosos uses three cascading gain stages and three master volumes.
 ## Archive photo
 - **Archive status:** **No Photo Archived**
 
+## Sound
+
+This one can go from a slight sweet boost, edgy OD, classic 70s rock distortion to classic 70s and early 80s proto metal crunch.
+Dime all three masters and get a gnarly oversaturated fuzz.
+The Diablos respond well to guitar knob input so you can create layered gain working with your guitar and amplifier.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

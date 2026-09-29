@@ -21,6 +21,10 @@ The 427 is a high-output distortion built around Paul Gagon's LED clipping appro
 ## History
 Effects Database dates the model to January 25, 2013. Guitar World reviewed it in June 2013.
 
+## Sound
+
+Guitar World describes the 427 as delivering a muscular distortion voice with a wide EQ sweep, while BBE positions the pedal around high output American style distortion. The archive retains those descriptions as the documented sonic intent rather than attributing an unverified vintage clone circuit.
+
 ## Sources checked
 1. Effects Database: https://www.effectsdatabase.com/model/bbe/427
 2. Guitar World: https://www.guitarworld.com/magazine/review-bbe-427-fd-427p-distortion-pedal

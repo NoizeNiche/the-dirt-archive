@@ -14,6 +14,12 @@ The Mithrandir Octave Fuzz is a loud octave fuzz with a footswitchable octave se
 ## Archive photo
 - **Archive status:** **No Photo Archived**
 
+## Sound
+
+MITHRANDIR OCTAVE FUZZ MKII (BARITONE / BASS)
+BLACKHAWK AMPLIFIERS “CHERNOBYL” PI π BASS FUZZ IS BACK!!
+“CHERNOBYL” PI π BASS FUZZ IS BACK!!
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

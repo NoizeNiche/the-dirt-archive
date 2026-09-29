@@ -19,6 +19,12 @@
   - https://ljudbojen.com/viewtopic.php?f=31&t=81202
   - https://lep-international.jp/products/moodycarlin
 
+## Sound
+
+It became one of the best known Swedish boutique effects of its era, valued for its ability to combine clean compression with musical overdrive.
+Unlike conventional compressors that only controlled dynamics, the Carlin design allowed players to blend sustain and distortion in one unit, making it especially appealing to progressive rock guitarists of the time.
+At the core of the circuit was a JFET used as a voltage controlled resistor, designed to react immediately to note attack while increasing gain as the note decayed.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

@@ -60,5 +60,5 @@ Platte River Drive, Denver, CO 80223 1.
 
 ### Sources checked in this pass
 1. Stomp Under Foot Red Army Vintage Mini Overdrive Pedal: https://reverb.com/item/99502354-stomp-under-foot-red-army-vintage-mini-overdrive-pedal
-2. Stomp Under Foot Red Army Vintage Mini Fuzz Effect Pedal &ndash; Twin Town Guitars: https://www.twintown.com/products/stomp-under-foot-red-army-vintage-mini-fuzz-effect-pedal
-3. Stomp Under Foot Red Army Vintage Mini Overdrive Pedal &ndash; Flipside Music: https://flipside-music.com/products/stomp-under-foot-red-army-vintage-mini-overdrive-pedal
+2. Stomp Under Foot Red Army Vintage Mini Fuzz Effect Pedal – Twin Town Guitars: https://www.twintown.com/products/stomp-under-foot-red-army-vintage-mini-fuzz-effect-pedal
+3. Stomp Under Foot Red Army Vintage Mini Overdrive Pedal – Flipside Music: https://flipside-music.com/products/stomp-under-foot-red-army-vintage-mini-overdrive-pedal

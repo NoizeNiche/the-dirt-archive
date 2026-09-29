@@ -19,6 +19,12 @@
   - https://www.effectsdatabase.com/model/cavepassive
   - https://www.talkbass.com/threads/cave-passive-pedals.808351/
 
+## Sound
+
+The folks at Cave say that “The Grunt has the ability for you to choose either Clean for frequency boost or Dirty for an outrageous 60's sounding overdriven bass amplifier.” Well, does it actually work?
+Depending on the position of the switch, you get either a volume boost (clean), or a nice 60’s/70’s overdriven crunch (dirty).
+It really is a miracle, and can transform a dull bass tone into something that would make any rock or funk band happy.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

@@ -13,6 +13,12 @@ The Heimdall-2 MKII is a distortion, overdrive and powerful EQ designed especial
 ## Archive photo
 - **Archive status:** **No Photo Archived**
 
+## Sound
+
+HEIMDALL 2 MKII DISTORTION (BASS/BARITONE)
+BLACKHAWK AMPLIFIERS “CHERNOBYL” PI π BASS FUZZ IS BACK!!
+“CHERNOBYL” PI π BASS FUZZ IS BACK!!
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

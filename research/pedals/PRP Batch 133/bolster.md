@@ -28,6 +28,10 @@ The main channel uses VOLTS to starve or over-supply the transistor stage, SHIFT
 ## Sound
 The documented range runs from Tone Bender-style drive into synth-like, gated buzzsaw textures, with the second channel adding a separate high-sustain fuzz voice.
 
+## What this pedal is
+
+Pricing & Availability The Bolster Giant Fuzz is available now, priced at £179 including VAT.
+
 ## Sources checked
 1. Buzzing Bugs Audio Devices product page: https://buzzingbugsfx.com/store/p/bolster
 2. Sound On Sound introduction: https://www.soundonsound.com/news/buzzing-bugs-audio-devices-introduce-bolster
@@ -81,5 +85,5 @@ Plenty of tone-shaping control is available, with a Shift dial interacting with 
 2. Facebook: https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fshare_channel%2F%3Ftype%3Dreshare%26link%3Dhttps%253A%252F%252Fwww.soundonsound.com%252Fnews%252Fbuzzing-bugs-audio-devices-introduce-bolster%26app_id%3D966242223397117%26source_surface%3Dexternal_reshare%26display%26hashtag
 3. catalog/override source: https://x.com/intent/tweet?text=Buzzing%20Bugs%20Audio%20Devices%20introduce%20the%20Bolster&url=https%3A%2F%2Fwww.soundonsound.com%2Fnews%2Fbuzzing-bugs-audio-devices-introduce-bolster
 4. catalog/override source: https://dt7v1i9vyp3mf.cloudfront.net/styles/news_large/s3/imagelibrary/b/buzzing_bugs_audio_devices_bolster-FLaZ37suIqnXlhqWT88BkNasiqceVvsX.jpg
-5. BOLSTER &mdash; BUZZING BUGS AUDIO DEVICES: https://buzzingbugsfx.com/store/p/bolster
+5. BOLSTER — BUZZING BUGS AUDIO DEVICES: https://buzzingbugsfx.com/store/p/bolster
 6. Buzzing Bugs Bolster review – is this the ultimate dual fuzz pedal? | Guitar.com: https://guitar.com/reviews/effects-pedal/hands-on-buzzing-bugs-bolster-review/

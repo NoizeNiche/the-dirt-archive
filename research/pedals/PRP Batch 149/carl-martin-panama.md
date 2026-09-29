@@ -16,6 +16,11 @@
   - https://carlmartin.com/products/panama/
   - https://carlmartin.com/products/
 
+## Sound
+
+Toggle Menu Panama A powerful British style overdrive pedal with unique low end control for tailored response and clarity.
+Unique Damping control adjusts low end response for either tight, focused attack or open, dynamic feel.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

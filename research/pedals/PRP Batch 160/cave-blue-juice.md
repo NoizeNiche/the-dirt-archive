@@ -18,6 +18,10 @@
   - https://www.effectsdatabase.com/model/cavepassive/bluejuice
   - https://www.cavepassivepedals.com.au/
 
+## Sound
+
+Turn the bite control anti clockwise to add more drive and use the squash control to tighten or loosen up the drive tone.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

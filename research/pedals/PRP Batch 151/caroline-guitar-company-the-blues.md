@@ -17,6 +17,11 @@
   - https://carolineguitar.com/product/theblues/
   - https://www.effectsdatabase.com/model/caroline
 
+## Sound
+
+It can go from transparent "always on" light drive in one mode to a gnarly raw drive in the other.
+If our Hawaiian Pizza is 30% drive and 70% fuzz, this is more like 85% drive, 15% fuzz.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

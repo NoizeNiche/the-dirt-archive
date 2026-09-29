@@ -21,6 +21,10 @@ The surviving retail record does not preserve a dependable complete control map 
 - **Op-amp distortion architecture:** High.
 - **Exact component values:** Unknown.
 
+## Sound
+
+The reviewed archival source establishes the pedal as a distortion product but does not preserve sufficiently specific exact model sonic detail for a fuller tonal summary without speculation.
+
 ## Sources checked
 1. Empire Guitars historical product listing: https://empireguitars.com/collections/all?page=58
 

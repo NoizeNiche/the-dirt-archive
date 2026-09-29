@@ -18,6 +18,12 @@
   - https://www.vintageguitar.com/24779/cast-engineering-texas-flood-od/
   - https://www.youtube.com/watch?v=0yMv7zOFER8
 
+## Sound
+
+Cast Engineering Texas Flood Overdrive Guitar Effects Pedal
+With the Texas Flood overdrive, however, Cast Engineering aims to succeed where TS chasers, imitators, and mod mavens have failed.
+The result is a warm overdrive that mixes soft clip gain with earthy grit.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

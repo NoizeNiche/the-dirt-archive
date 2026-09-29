@@ -18,6 +18,12 @@
   - https://www.youtube.com/watch?v=TbTulnuTt4w
   - https://reverb.com/p/catalinbread-antichthon
 
+## Sound
+
+Catalinbread Antichthon Fuzz Tremolo
+The Catalinbread Antichthon gives you an entirely new palette of sound and response to work from!
+Designed to be controlled from your guitars volume knob, Antichthon has a multitude of sounds and possibilities that can be broken down into three general categories: Dynamic fuzz tremolo, fuzzolo, if you will, where you can alter the speed and the sound of the tremolo by turning your guitars volume knob.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

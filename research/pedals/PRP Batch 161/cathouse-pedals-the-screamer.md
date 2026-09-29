@@ -16,6 +16,12 @@
 - **Research confidence:** High for controls and feature set.
 - **Sources checked:** https://www.effectsdatabase.com/model/cathouse/screamer ; https://www.pedal-of-the-day.com/category/brands/cathouse-pedals/
 
+## Sound
+
+The third pedal in the current lineup of Cathouse Pedals that we get the pleasure to check out today is a complex and option filled distortion/overdrive.
+Gain, Tone and Volume all show up on the control panel, and why shouldn’t they?
+This is a distortion and overdrive pedal, right?
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

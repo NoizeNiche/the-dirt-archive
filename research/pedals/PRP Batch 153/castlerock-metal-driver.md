@@ -17,6 +17,12 @@
   - https://www.effectsdatabase.com/model/castlerock/metaldriver
   - https://www.zzounds.com/item--CSTCRGMD
 
+## Sound
+
+CastleRock Metal Driver Distortion Pedal
+A killer value, the CastleRock Metal Driver pedal adds classic metal distortion to your guitar tone: tight lows, semi scooped mids, and aggressive highs.
+Overview The CastleRock Metal Driver pedal is not your typical distortion pedal, because metal requires a very different type of distortion.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

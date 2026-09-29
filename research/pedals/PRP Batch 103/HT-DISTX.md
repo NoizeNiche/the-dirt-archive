@@ -27,6 +27,12 @@ Compared with a basic three-knob drive, the HT-DISTX is designed for aggressive 
 ## Archive photo
 - **Archive status:** **No Photo Archived**
 
+## Sound
+
+Blackstar Amplification HT DISTX Pure Valve distortion guitar pedal Please note: Gardiner Houlgate do not guarantee the full working order of any electrical items.
+Previous Catalogue Next 1356 :: Blackstar Amplification HT DISTX Pure Valve distortion guitar pedal Please note: Gardiner Houlgate do not guarantee the full working order of any electrical items.
+Please ask for a condition report before placing any kind of bid Blackstar Amplification HT DISTX Pure Valve distortion guitar pedal Please note: Gardiner Houlgate do not guarantee the full working order of any electrical items.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

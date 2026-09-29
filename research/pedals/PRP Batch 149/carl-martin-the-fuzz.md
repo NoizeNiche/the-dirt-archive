@@ -15,6 +15,12 @@
 - **Sources checked:**
   - https://carlmartin.com/products/the-fuzz/
 
+## Sound
+
+Toggle Menu The Fuzz Revolutionary fuzz/distortion pedal with wave guide technology and 3 band EQ for versatile tones from vintage blues to modern metal.
+More details · Find a dealer Revolutionary wave guide technology with Deep and High controls works in conjunction with 3 band EQ to shape and clean up distortion in previously impossible ways.
+Exceptional tonal versatility ranges from vintage blues fuzz to mid 80s hard rock to hardcore metal sounds, all from one pedal with precise control.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

@@ -31,6 +31,11 @@ Effects Database identifies the DS-9 as part of a broader Cordovox pedal family 
 - Effects Database exact-model page: https://www.effectsdatabase.com/model/cordovox/ds9
 - Guitar Villa Cordovox catalog: https://guitar-villa.com/collections/vendors?q=Cordovox
 
+## Sound
+
+With just two primary controls, LEVEL and DISTORTION, it allows quick adjustment from subtle grit to heavier, saturated tones.
+Its analog circuitry delivers a traditional distortion character, while German WIMA capacitors ensure clarity and low signal loss.
+
 ## Sources checked
 1. Effects Database - Cordovox DS-9 Distortion
 2. Guitar Villa - Cordovox collection

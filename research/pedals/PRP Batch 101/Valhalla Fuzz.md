@@ -25,6 +25,12 @@ Version-dependent controls include:
 ## Archive photo
 - **Archive status:** **No Photo Archived**
 
+## Sound
+
+URUK HAI MKII {PARALLEL} DRIVE & FUZZ
+BLACKHAWK AMPLIFIERS “CHERNOBYL” PI π BASS FUZZ IS BACK!!
+“CHERNOBYL” PI π BASS FUZZ IS BACK!!
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

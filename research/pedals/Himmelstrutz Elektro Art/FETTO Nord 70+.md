@@ -30,11 +30,7 @@ Himmelstrutz Elektro Art's FETTO Nord 70+ is cataloged in the archive as a Overd
 
 ## Sound
 
-Himmelstrutz Elektro Art FETTO Nord 70+ Home News Amps Pedals Custom Shop Download About Contact Himmelstrutz Elektro Art FETTO Nord 70+: Original Handcrafted Overdrive Next Owner’s Manual Review...
-
-FETTO History GREAT OL’ DISTORTION + BOOST Handcrafted with care, the FETTO Nord 70+ is an all-analog, original design.
-
-Evolving from the original “ FETTO 9.0 ” model since 2004, this pedal is made to amplify your amp’s natural sound while giving you versatile tone options.
+No verified pedal-specific sonic summary is currently established in the archive.
 
 ## Sources checked
 1. Himmelstrutz Elektro Art FETTO Nord 70+: https://www.himmelstrutz.com/fetto-nord-70/

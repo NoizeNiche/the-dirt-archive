@@ -63,7 +63,7 @@ The phase-corrected and buffered output ensures it plays nice with other pedals 
 This isn’t just another fuzz box – it’s a portal to the fabled tones that have haunted the dreams of fuzz fanatics for decades.
 
 ### Sources checked in this pass
-1. Barrows Fuzz Attacker &mdash; EarthQuaker Devices: https://www.earthquakerdevices.com/barrows
+1. Barrows Fuzz Attacker — EarthQuaker Devices: https://www.earthquakerdevices.com/barrows
 2. EarthQuaker Devices Barrows Fuzz Pedal - White | Sweetwater: https://www.sweetwater.com/store/detail/Barrows--earthquaker-devices-barrows-fuzz-pedal
 3. EarthQuaker Devices Barrows Fuzz Attacker - Reverb: https://reverb.com/p/earthquaker-devices-barrows-fuzz-attacker
 4. EarthQuaker Devices Barrows review – titchy with a huge voice | Guitar.com: https://guitar.com/reviews/effects-pedal/hands-on-earthquaker-devices-barrows-review/

@@ -17,6 +17,10 @@
   - https://www.tonestart.com/ultimate-caline-guitar-pedal-clone-list/
   - https://www.musicstore.com/en_US/USD/Caline-CP-99-Medusa-Overdrive/art-GIT0058863-000
 
+## Sound
+
+This golden beauty uses the Volume, Tone and Gain controls to exude warm, analog overdrive and boost tones with ease.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

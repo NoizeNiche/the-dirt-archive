@@ -16,6 +16,12 @@
 - **Research confidence:** High for identity and controls; moderate for component-level details.
 - **Sources checked:** https://www.guitarpedalx.com/news/catastrofx-combines-high-velocity-and-southerly-harmonic-overdrives-in-its-singularly-potent-and-fantastic-sounding-dual-voiced-outbreak-pedal
 
+## Sound
+
+This is pretty much a blow by blow remake of those High Velocity and Southerly Harmonic Overdrive circuits while they’ve been combined here onto the one circuitboard.
+Controls : Level, Tone, Drive, Stage : Up is High Velocity / Down is Southerly Harmonics and adds a hard clipping gain stage into the mix.
+I’m not even going to dwell on the economics of the pedal which is spectacularly well priced I’m rather going to focus on the practicalities of having two of he best loved overdrive circuit in the same enclosure which means it’s even easier to fit both of them onto your board.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

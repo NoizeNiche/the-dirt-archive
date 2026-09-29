@@ -30,7 +30,6 @@ Leqtique Beryl EVR Leqtique DS10490951 - eBay: https://www.ebay.com/itm/25753753
 
 **Archive parent:** Beryl - **Builder:** Leqtique - **Catalog type:** Overdrive - **Identity:** Leqtique's Beryl.
 
-escape }}\" class=\"boost-sd__modal\" id=\"boost-sd__modal-quickview\" data-product-id='{{ productData.id }}' data-product='{{ productData
 
 ## Sources checked
 1. Beryl EVR Manual – Leqtiqueshop: https://leqtique.ch/en/pages/beryl-evr-manual
@@ -57,10 +56,9 @@ Leqtique Beryl EVR Leqtique DS10490951 - eBay: https://www.ebay.com/itm/25753753
 
 ### Verified sound evidence
 **Archive parent:** Beryl - **Builder:** Leqtique - **Catalog type:** Overdrive - **Identity:** Leqtique's Beryl.
-escape }}\" class=\"boost-sd__modal\" id=\"boost-sd__modal-quickview\" data-product-id='{{ productData.id }}' data-product='{{ productData
 
 ### Sources checked in this pass
-1. Beryl EVR Manual &ndash; Leqtiqueshop: https://leqtique.ch/en/pages/beryl-evr-manual
+1. Beryl EVR Manual – Leqtiqueshop: https://leqtique.ch/en/pages/beryl-evr-manual
 2. Leqtique Beryl - Reverb: https://reverb.com/item/97614613-leqtique-beryl
 3. Leqtique EVR Beryl EVR(NEW) - TC楽器 - TCGAKKI: https://tcgakki.com/en/products/leqtique-evr-beryl-evrnew
 4. 【レビュー】Leqtique Beryl - あさぎベーススタジオ: https://www.asagi-bass.com/entry/beryl

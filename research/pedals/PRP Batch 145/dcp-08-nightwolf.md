@@ -15,6 +15,12 @@
   - https://www.effectsdatabase.com/model/caline/dcp/dcp08
   - https://www.calinemusic.com/index.php?a=index&aid=39&c=View&m=home
 
+## Sound
+
+Caline DCP 08 Nightwolf Overdrive/Fuzz
+It can either be used as a overdrive or can be used in more of an EQ role being always on and used to shape your tone.
+You can cut or boost with surprising precision.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

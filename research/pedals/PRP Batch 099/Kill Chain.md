@@ -13,6 +13,12 @@ Kill Chain is an aggressive fuzz designed around a deliberately simple control s
 ## Archive photo
 - **Archive status:** **No Photo Archived**
 
+## Sound
+
+First, I wanted a fuzz full of aggression, and raunchy raucousness.
+No tone knob, no active tone stacks, no adjustable high pass filters.
+I found when I was playing at lower fuzz volumes I liked more treble, but as I turned up the volume they could get out of control.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

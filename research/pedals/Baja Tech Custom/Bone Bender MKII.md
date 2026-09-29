@@ -19,6 +19,10 @@ Bone Bender MKII is retained because the historical product list identifies it s
 - **Fuzz family:** High.
 - **Exact MKII revision changes:** Unknown.
 
+## Sound
+
+The original Bone Bender's documented voicing ranges from traditional early Tone Bender fuzz through more splatty/gated textures using the KILL control. This is retained strictly as family context ; exact MKII voicing remains unresolved.
+
 ## Sources checked
 1. Wikiwahwah Baja Tech Custom product history: https://wahwah.fandom.com/wiki/Baja_Tech_Custom
 2. Effects Database - Bone Bender: https://www.effectsdatabase.com/model/bajatech/bonebender

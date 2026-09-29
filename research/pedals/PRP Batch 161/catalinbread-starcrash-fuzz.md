@@ -16,6 +16,12 @@
 - **Research confidence:** High.
 - **Sources checked:** https://pedalfilter.com/catalinbread/starcrash-fuzz ; https://www.effectsdatabase.com/model/catalinbread/starcrash
 
+## Sound
+
+Catalinbread Starcrash Fuzz Overdrive, distortion & fuzz effect pedal Voir si on peut utiliser la version minifiée
++33 181 930 900 email Overdrive, distortion & fuzz effect pedal The Fuzz Face debuted in 1966 as a germanium fuzz, then switched to silicon in the '70s for reasons of circuit stability, but it has hardly adapted to this change of semiconductor.
+For this reason, the StarCrash is the '70s fuzz you wish they'd made in the first place.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

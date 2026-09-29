@@ -71,4 +71,4 @@ Halo Bender Stomp Under Foot Link Halo Bender Type Fuzz - Popularity - Average P
 4. Stomp Under Foot Halo Bender - musicmaxfactory.com: https://www.musicmaxfactory.com/products/stomp-under-foot-halo-bender/
 5. STOMP UNDER FOOT Halo Bender Distortion | Pedals and FX | guitarxrange.com: https://www.guitarxrange.com/product/stomp-under-foot-halo-bender-distortion/
 6. Stomp Under Foot Halo Bender - floresmusicequipment.com: https://www.floresmusicequipment.com/product/stomp-under-foot-halo-bender/
-7. Evolution of the Dire Wolf &ndash; Stomp Under Foot: https://stompunderfoot.com/blogs/blog/evolution-of-the-dire-wolf
+7. Evolution of the Dire Wolf – Stomp Under Foot: https://stompunderfoot.com/blogs/blog/evolution-of-the-dire-wolf

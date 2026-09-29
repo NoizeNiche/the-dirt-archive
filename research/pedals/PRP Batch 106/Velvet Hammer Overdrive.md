@@ -25,6 +25,11 @@ BMF documents the design as true bypass and analog, with the two sides sharing a
 ## Archive photo
 - **Archive status:** **No Photo Archived**
 
+## Sound
+
+Open media 3 in modal Play video Velvet Hammer Overdrive opens full screen video in same window.
+The left side brings the Velvet, with controls for Volume, Tone (just enough shaping to line things up with your rig without compromising that tone ), and Gain (again, working with that classic voicing and allowing you to roam from mild to fairly wild ...
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

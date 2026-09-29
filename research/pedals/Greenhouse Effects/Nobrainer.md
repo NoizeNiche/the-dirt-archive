@@ -62,7 +62,7 @@ NOBRAINER / DISTORTION — GREENHOUSE EFFECTS: https://www.gheffects.com/pedals/
 **Archive parent:** Nobrainer - **Builder:** Greenhouse Effects - **Catalog type:** Distortion - **Identity:** Greenhouse Effects's Nobrainer.
 
 ### Sources checked in this pass
-1. NOBRAINER / DISTORTION &mdash; GREENHOUSE EFFECTS: https://www.gheffects.com/pedals/p/nobrainer
+1. NOBRAINER / DISTORTION — GREENHOUSE EFFECTS: https://www.gheffects.com/pedals/p/nobrainer
 2. Greenhouse Effects Nobrainer - Reverb: https://reverb.com/p/greenhouse-effects-nobrainer
 3. Greenhouse Effects Nobrainer: https://www.effectsdatabase.com/model/greenhouse/27club/nobrainer
 4. Greenhouse Effects Nobrainer - What To Know Where To Buy: https://equipboard.com/items/greenhouse-nobrainer

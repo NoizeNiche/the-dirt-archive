@@ -14,6 +14,12 @@ The Balrog Distortion MKII is a high-gain distortion/overdrive built around thre
 ## Archive photo
 - **Archive status:** **No Photo Archived**
 
+## Sound
+
+BLACKHAWK AMPLIFIERS “CHERNOBYL” PI π BASS FUZZ IS BACK!!
+“CHERNOBYL” PI π BASS FUZZ IS BACK!!
+The concept of the design was to create a high gain preamp, distortion and overdrive in one.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

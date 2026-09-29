@@ -16,6 +16,12 @@
 - **Research confidence:** High for v1/v2 naming, controls and broad voice; medium for the clipping-mode implementation.
 - **Sources checked:** https://www.effectsdatabase.com/model/caline/cpxx/cp21 ; https://www.effects-pedals.info/p/caline-cp-21-rock-face/
 
+## Sound
+
+Caline CP 21 Rock Face Distortion
+The excellent dynamic range, keep very good touch from low to high gain range.
+not by manufacturer Date ▼▲ Maker ▼▲ Video ▼▲ Time ▼▲ 2019 11 29 Ryan Lutton Caline CP 21 Distortion (Rock Face) Demo 13:17 2016 03 17 Caline The video demo for Rock Face Distortion Pedal CP 21 2015 07 06 Chatreeo Caline CP 21 Rock Face Distortion 12:21 2014 02 26 skimy90 She (Green Day cover)
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

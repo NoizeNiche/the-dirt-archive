@@ -15,6 +15,12 @@
 - **Sources checked:**
   - https://carlmartin.com/products/plexitone-single/
 
+## Sound
+
+Toggle Menu PlexiTone Single High gain Plexi style pedal created with Pete Thorn, featuring rich saturation and compact layout with internal DC converter.
+Based on the original High Gain channel, with tighter low end and smoother top end for consistent tones across different setups.
+Operates internally at ±12V for extra headroom and dynamic response, powered by a standard 9V supply.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

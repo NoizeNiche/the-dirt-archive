@@ -16,6 +16,12 @@
 - **Research confidence:** High for identity, controls, modes and published electrical specifications; low for internal component types.
 - **Sources checked:** https://www.effectsdatabase.com/model/caline/cpxx/cp34 ; https://reverb.com/p/caline-cp-34-head-boom-vintage-distortion
 
+## Sound
+
+Caline CP 34 Headroom Vintage Distortion
+It is designed to cover a range of classic rock and higher gain textures, with a tonal character that can extend from focused distortion to more saturated, fuzz like sounds.
+These modes provide variations in gain structure and tonal emphasis, allowing different levels of saturation and frequency shaping while retaining the core distortion character.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

@@ -26,6 +26,12 @@ The Drive control moves from gentle tube-like overdrive/crunch into heavier dist
 ## Archive photo
 - **Archive status:** **No Photo Archived**
 
+## Sound
+
+Based on a legendary circuit of TS808 but with the BOOtique modifications, this compact pedal emulates the tones of a tube like overdrive/distortion.
+A truly classic pedal but with true bypass so it doesn’t degrade your tone when not in use.
+The Drive knob allows you to dial in sounds from a very gentle tube like overdrive / crunch to a fully fat distortion.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

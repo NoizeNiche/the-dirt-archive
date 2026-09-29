@@ -17,6 +17,12 @@
   - https://www.effects-pedals.info/p/caline-cp-70-high-chief/
   - https://reverb.com/item/40197287-caline-cp-70-high-chief-dual-overdrive-guitar-effect-pedal
 
+## Sound
+
+Caline CP 70 High Chief Crushing Overdrive
+Video Date ▼▲ Maker ▼▲ Video ▼▲ Time ▼▲ 2026 03 24 TomsPedalDemos JCM Goodness with Dual Low Gain OD.
+0:16 2026 02 16 TomsPedalDemos Low Gain overdrive with Marshall JCM 800.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

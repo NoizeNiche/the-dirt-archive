@@ -13,6 +13,12 @@
 - **Circuit note:** The builder uses the RBmuff/TBmuff naming and Russian/American profile distinction, but no component-level topology is asserted here.
 - **Photo status:** No exact-model image promoted to the local archive in this batch. The product page is retained as the image-source page for future photo recovery.
 
+## Sound
+
+Fuzz RBmuff TBmuff Fuzz RBmuff TBmuff $105.000,00 3 cuotas sin interés de $35.000,00 0% de descuento pagando con No acumulable con algunas promociones Ver más detalles TBMUFF TBMUFF TBMUFF: TBMUFF TBMUFF ¡No te lo pierdas, es el último!
+USOS FUZZ, distorsion de señal de alta ganancia.
+CARACTERISTICAS Ecualizacion TONE, control de tono, recorta la cantidad de graves o agudos, tiene muy buena cantidad de frecuencias graves, haciendolo ideal para usar con bajo electrico.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

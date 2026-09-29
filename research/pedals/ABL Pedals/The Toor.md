@@ -59,4 +59,4 @@ With enough gain on tap to make even the smallest amp fill a stadium, you’ll b
 The classic scooped midrange of the 90s is still there in its sonic (youth) glory, but my version reinstates the mids to give a full frequency spectrum to your tone.
 
 ### Sources checked in this pass
-1. The Toor &mdash; ABL Pedals: https://www.ablpedals.com/pedals/p/the-toor
+1. The Toor — ABL Pedals: https://www.ablpedals.com/pedals/p/the-toor

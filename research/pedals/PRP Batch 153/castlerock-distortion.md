@@ -17,6 +17,10 @@
   - https://www.effectsdatabase.com/model/castlerock/distortion
   - https://www.effectsdatabase.com/updates/weekly/20100308
 
+## Sound
+
+Level and Distortion controls give you complete command of the amount of signal processing.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

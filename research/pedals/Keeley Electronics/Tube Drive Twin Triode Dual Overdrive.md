@@ -68,4 +68,4 @@ Live on WhatNot at 6pm Central → LEARN MORE Home Pedals and Effects Pedals and
 2. Keeley Electronics Introduces Tube Drive Twin Triode Dual Overdrive - Premier Guitar: https://www.premierguitar.com/news/keeley-electronics-introduces-tube-drive
 3. Keeley Tube Drive Twin Triode Dual Overdrive Pedal: https://buyorborrowmusic.com/keeley-electronics-tube-drive-twin-triode-dual-overdrive/
 4. Distortion and Overdrive Pedals: https://www.guitarcenter.com/Keeley-Electronics/Tube-Drive-Twin-Triode-Dual-Overdrive-Pedal-Black-1500000487488.gc?template=0y7n73MAL4Km
-5. Keeley Electronics Tube Drive Twin Triode Dual Overdrive Effect Pedal &ndash; Russo Music: https://www.russomusic.com/products/keeley-electronics-tube-drive-twin-triode-dual-overdrive-effect-pedal
+5. Keeley Electronics Tube Drive Twin Triode Dual Overdrive Effect Pedal – Russo Music: https://www.russomusic.com/products/keeley-electronics-tube-drive-twin-triode-dual-overdrive-effect-pedal

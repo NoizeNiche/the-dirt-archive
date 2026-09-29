@@ -17,6 +17,11 @@
   - https://fuzzboxes.org/carlsbrofuzztone
   - https://reverb.com/au/item/76750494-carlsbro-fuzz-early-70s-tone-bender-mkiv
 
+## Sound
+
+TONEHOME the World of Vintage Guitar Effects Pedals Fuzz TONEHOME the World of Vintage Guitar Effect Pedals TONEHOME the World of Vintage Guitar Effect Pedals About ToneHome Ampeg Bell Electrolabs Blackfield Boss Carlsbro Fuzz Sustain Suzz C.E.I.
+Dixi CBS/Arbiter Colorsound/Sola Sound CosmoSound Dharma Sound EKO Electro Harmonix Electronic Sounds Elka Dizzy Tone Eurotec fOXX Futuristic Sounds Goldsound Höfner/Hofner Ibanez InterFax Jen Jennings Electr.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

@@ -61,4 +61,4 @@ Keeley Electronics Mk3 Driver - Andy Timmons Full Range Overdrive Effe – Russo
 
 ### Sources checked in this pass
 1. Keeley Electronics - MK3 Driver - Andy Timmons Full Range Overdrive: https://gcrockboard.com/keeley-electronics-mk3-driver-andy-timmons-full-range-overdrive
-2. Keeley Electronics Mk3 Driver - Andy Timmons Full Range Overdrive Effe &ndash; Russo Music: https://www.russomusic.com/products/keeley-electronics-mk3-driver-andy-timmons-full-range-overdrive-effect-pedal
+2. Keeley Electronics Mk3 Driver - Andy Timmons Full Range Overdrive Effe – Russo Music: https://www.russomusic.com/products/keeley-electronics-mk3-driver-andy-timmons-full-range-overdrive-effect-pedal

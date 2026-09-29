@@ -20,6 +20,10 @@
 ## Sound
 Buzzing Bugs describes the BB02 as a gnarly take on the classic Harmonic Percolator. The two controls interact dynamically to provide a broad range of tone-shaping behavior.
 
+## What this pedal is
+
+BB02 PERCOLATOR FUZZ The BB02 Percolator Fuzz is our take on the classic Harmonic Percolator.
+
 ## Sources checked
 1. Buzzing Bugs Audio Devices product page: https://buzzingbugsfx.com/store/p/bb02-percolator-fuzz
 2. Buzzing Bugs demonstration listing: https://buzzingbugsfx.com/videos

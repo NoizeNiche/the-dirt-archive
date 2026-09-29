@@ -20,6 +20,11 @@
   - https://www.musicradar.com/news/catalinbread-debuts-70s-starcrash-fuzz-and-sidearm-overdrive-modern-takes-on-classic-fuzzface-and-tube-screamer-circuits
   - https://www.guitarworld.com/news/catalinbread-starcrash-fuzz-overdrive
 
+## Sound
+
+“We invite you to bring your vintage tonal dreams into the present”: Catalinbread promises modern twists on golden era tones from the ‘70s StarCrash Fuzz and SideArm Overdrive
+“Whichever type of rock you associate with the ‘70s, the StarCrash Collection has you covered”: Catalinbread's StarCrash Fuzz and SideArm Overdrive give olden era gain tones a fresh twist
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

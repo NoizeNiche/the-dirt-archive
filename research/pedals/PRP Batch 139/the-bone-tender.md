@@ -16,6 +16,11 @@
 - **Research confidence:** High for builder/model identity and Tone Bender-family context; low for controls, component types, versions and exact circuit topology.
 - **Sources checked:** https://www.guitariste.com/forums/pedales-effets-homestudio,fuzz-zeppelinienne-tonebender,326573.html ; https://thegearforum.com/threads/all-things-tonebender.9885/ ; https://www.gearbug.com/
 
+## Sound
+
+A truly special creation: True vintage fuzz from a true vintage circuit.
+A super broad fuzz sweep for total control.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

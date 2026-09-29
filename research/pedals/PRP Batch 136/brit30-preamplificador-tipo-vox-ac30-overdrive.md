@@ -10,6 +10,12 @@ Cajita describes BRIT30 as a Vox-style preamp/light-to-medium overdrive. Control
 ## Source
 https://pedalescajita.mitiendanube.com/productos/brit30-preamplificador-tipo-vox-ac30-overdrive/
 
+## Sound
+
+BRIT30 preamplificador tipo vox ac30 overdrive BRIT30 preamplificador tipo vox ac30 overdrive $129.000,00 3 cuotas sin interés de $43.000,00 0% de descuento pagando con No acumulable con algunas promociones Ver más detalles ¡No te lo pierdas, es el último!
+USOS PREAMP / OVERDRIVE LIVIANO ganancia media.
+Control, GAIN, cantidad de distorsion , VOL , volumen.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

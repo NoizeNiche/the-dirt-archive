@@ -16,6 +16,12 @@
   - https://onethousandpedals.com/pedal/caline-dcp-02-brutus
   - https://bigamart.com/product/caline-dcp-02-brutus-distortion-overdrive-dual-guitar-effects-pedal/
 
+## Sound
+
+Caline DCP 02 Brutus Overdrive/Distortion
+With the effects ranging from overdrive to EQ to distortion to compression to fuzz and more, there's something in this lineup for everyone.
+Today, we're going to take a look at the DCP 02 Brutus Distortion Overdrive, a powerful dual dirt combo that packs a punch and adds to your tone.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

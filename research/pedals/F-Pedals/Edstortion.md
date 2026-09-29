@@ -67,4 +67,4 @@ F-Pedals Edstortion - Eddie Kramer Signature Distortion
 1. F-Pedals Eddie Kramer Edstortion Distortion effect pedal: https://reverb.com/item/1727446-f-pedals-eddie-kramer-edstortion-distortion-effect-pedal
 2. F-Pedals Edstortion - Eddie Kramer Signature Distortion | Effects Database: https://www.effectsdatabase.com/model/fpedals/ek/distortion
 3. F-PEDALS Distortion Effects Pedal EDSTORTION LITE | eBay: https://www.ebay.com/itm/188811232075
-4. New Pedals: F-Pedals&#039; Edstortion And Phazevibe | Delicious Audio: https://delicious-audio.com/new-pedals-f-pedals-edstortion-and-phazevibe/
+4. New Pedals: F-Pedals' Edstortion And Phazevibe | Delicious Audio: https://delicious-audio.com/new-pedals-f-pedals-edstortion-and-phazevibe/

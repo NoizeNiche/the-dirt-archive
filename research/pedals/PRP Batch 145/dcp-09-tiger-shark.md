@@ -17,6 +17,12 @@
   - https://www.pedal-of-the-day.com/2021/03/10/caline-dcp-09-tigershark-distortion-gate/
   - https://www.danguitar.dk/caline-dcp-09-tigershark-guitarpedal
 
+## Sound
+
+Caline DCP 09 Tiger Shark Gate/Distortion
+The right channel is high gain with a choice of a more compressed classic tone as well as a toggle switch to change to a more open modern sound.
+But with all that distortion and gain you're going to need a noise gate.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

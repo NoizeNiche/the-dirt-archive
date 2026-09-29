@@ -15,6 +15,11 @@
 - **Sources checked:**
   - https://carlmartin.com/products/greg-howes-lick-box/
 
+## Sound
+
+High Gain and Crunch channels interact for tight, mid focused lead sounds that cut through the mix.
+Internal DC/DC converter allows operation at ±12V for extra headroom and clarity, powered by a standard 9V supply.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

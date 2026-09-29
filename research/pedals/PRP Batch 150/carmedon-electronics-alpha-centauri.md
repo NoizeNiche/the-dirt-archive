@@ -16,6 +16,10 @@
 - **Sources checked:**
   - https://www.reddit.com/r/guitarpedals/comments/cws57g
 
+## Sound
+
+Builder: Carmedon Electronics Catalog type: Overdrive Catalog identity: Alpha Centauri What this pedal is: A Klon inspired overdrive associated with Carmedon Electronics and described in 2019 community documentation as an unreleased/new company project.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

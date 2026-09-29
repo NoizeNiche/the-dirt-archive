@@ -23,6 +23,12 @@ The pedal runs from a standard 9V supply or 9V PP3 battery and uses a convention
 ## Archive photo
 - **Archive status:** **No Photo Archived**
 
+## Sound
+
+All Blackstar products are subjected to extensive laboratory and road testing to ensure that they are truly uncompromising in terms of reliability, quality and above all TONE.
+Now you can effectively design your own tone and finally find 'the sound in your head'.
+Controls Gain The Gain control adjusts the amount of overdrive or distortion that the pedal will deliver.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

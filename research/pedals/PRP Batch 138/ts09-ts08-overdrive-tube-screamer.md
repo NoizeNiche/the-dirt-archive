@@ -14,6 +14,12 @@
 - **Circuit note:** The builder calls it a Tube Screamer overdrive, but no specific IC, diode, or exact circuit implementation is asserted.
 - **Photo status:** No exact-model image promoted to the local archive in this batch.
 
+## Sound
+
+No acumulable con otras promociones Volver al producto TS.09/08 El overdrive más conocido y clonado de todos.
+USOS OVERDRIVE de características clásicas, no hay mucho que decir de este over, tonos para blues, rock.
+CARACTERISTICAS Control, VOL GAIN, volumen y ganancia.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

@@ -18,6 +18,10 @@
   - https://maxonfx.com/products/40th-anniversary-catalinbread-modified-overdrive-od808-40c
   - https://delicious-audio.com/maxon-40th-anniversary-catalinbread-modded-od808-40c/
 
+## Sound
+
+Catalinbread's version has insane amounts of gain and output, yet still sporting the classic 808 purr.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

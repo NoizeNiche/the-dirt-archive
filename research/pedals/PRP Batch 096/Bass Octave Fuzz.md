@@ -14,6 +14,12 @@ Bass Octave Fuzz is Black Cat's compact recreation of the Maestro Bass Brassmast
 ## Archive photo
 - **Archive status:** **No Photo Archived**
 
+## Sound
+
+Normal sets the volume of the uneffected sound Drive controls the amount of distortion Effect sets the volume of effected sound Information Analogman This pedal is a clone of the rare and valuable MAESTRO BASS BRASSMASTER which was used in the 70s by Yes, Eric Johnson's bass player Kyle Brock, and many other groups.
+It is a fuzz with an upper octave sound like an octavia, specifically voiced for Bass but working well with guitar also.
+not by manufacturer Date ▼▲ Maker ▼▲ Video ▼▲ Time ▼▲ 2016 03 26 Black Cat Black Cat Bass Octave Fuzz (...
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

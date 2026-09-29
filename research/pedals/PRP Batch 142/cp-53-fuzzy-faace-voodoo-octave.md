@@ -17,6 +17,12 @@
 - **Research confidence:** High for controls, function and Fulltone Ultimate Octave influence; medium for the wider Joyo/Foxx-family comparison; low for internal components.
 - **Sources checked:** https://www.effectsdatabase.com/model/caline/cpxx/cp53 ; https://www.etsy.com/listing/1665009246/caline-canada-cp-53-fuzzy-faace-electric ; https://www.reddit.com/r/guitarpedals/comments/chmldu/lets_talk_about_octave_fuzz/
 
+## Sound
+
+Great sounding fuzz pedal but with an octave control.
+The CP 53 is a combined fuzz and octave pedal.
+You can activate fuzz with the True Bypass switch, and then activate the octave with Octave Up switch.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

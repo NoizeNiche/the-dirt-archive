@@ -28,6 +28,12 @@ The core controls are Level, Gain and Tone. The Fat/Tight switch changes the ent
 ## Archive photo
 - **Archive status:** **No Photo Archived**
 
+## Sound
+
+Bogner Amplification Burnley Classic Distortion Guitar Effects Pedal
+Bogner Amplification Burnley Classic Distortion Pedal V2 for sale online
+It has easily 4 times the gain...4 times the sustain...even a C major fixed position cord rings out with perfect definition at full gain.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

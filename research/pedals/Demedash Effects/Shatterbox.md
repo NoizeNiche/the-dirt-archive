@@ -70,6 +70,6 @@ Demedash Effects - Shatterbox Wavefolding Overdrive
 northernstompboxes: https://www.northernstomps.com/product-page/demedash-shatterbox-wavefolding-overdrive 3.
 
 ### Sources checked in this pass
-1. Demedash Effects Shatterbox Wavefolding Overdrive Pedal &ndash; Alto Music: https://www.altomusic.com/products/demedash-effects-shatterbox-wavefolding-overdrive-pedal
+1. Demedash Effects Shatterbox Wavefolding Overdrive Pedal – Alto Music: https://www.altomusic.com/products/demedash-effects-shatterbox-wavefolding-overdrive-pedal
 2. Demedash Effects - Shatterbox Wavefolding Overdrive | northernstompboxes: https://www.northernstomps.com/product-page/demedash-shatterbox-wavefolding-overdrive
 3. Demedash Effects Shatterbox - Silver | Reverb: https://reverb.com/item/93681246-demedash-effects-shatterbox-silver

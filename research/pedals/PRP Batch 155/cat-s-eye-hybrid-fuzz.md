@@ -16,6 +16,11 @@
 - **Sources checked:**
   - https://www.effectsdatabase.com/model/catseye/hybridfuzz
 
+## Sound
+
+With the the Hybrid Fuzz you get the best of both worlds: Germanium for its awesome tone and silicon for its high gain.
+Fat with loads of volume, rich harmonics and gobs of sustain, the Hybrid Fuzz shines through a small combo amp and is an absolute "Tone Monster" through a half stack!
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

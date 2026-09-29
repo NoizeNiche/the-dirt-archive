@@ -16,6 +16,10 @@
   - https://stompboxsteals.blogspot.com/2022/12/overdrive-caline-cp-69-high-peak.html
   - https://www.ceneo.pl/137948554
 
+## Sound
+
+Its compact size makes it pedalboard friendly while delivering a wide range of distortion tones suitable for various rock and metal styles.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

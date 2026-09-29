@@ -16,6 +16,11 @@
   - https://onethousandpedals.com/pedal/caline-dcp-11-andes
   - https://reverb.com/item/37798859-calaine-dcp-11-andes-compressor-pure-sky-overdrive-pedal
 
+## Sound
+
+Caline DCP 11 Andes Overdrive/Boost
+The Andes DCP 11 combines Caline's very popular Timmy inspired Pure Sky pedal with a boost pedal in front of it for maximum headroom and drive.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

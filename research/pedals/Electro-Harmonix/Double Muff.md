@@ -28,6 +28,12 @@ The previous record relied mainly on retailer and marketplace references and did
 - **Factory BOM:** not established in this pass
 - **Revision history:** not established in this pass
 
+## Sound
+
+The Electro Harmonix Double Muff is a two stage Muff family effect whose exact product references use both Fuzz and Overdrive language.
+The archive retains Overdrive as the canonical catalog type while noting the fuzz lineage.
+Model: Double Muff Type: Overdrive Family relationship: Dual Muff style gain/fuzz concept Factory BOM: not established in this pass Revision history: not established in this pass Archive photo: No verified local photo is currently archived for Double Muff.
+
 ## Photo
 - **Archive photo:** No verified local photo is currently archived for Double Muff.
 - External product imagery remains separate from archive-local photo coverage.

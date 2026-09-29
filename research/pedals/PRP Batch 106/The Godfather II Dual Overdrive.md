@@ -27,6 +27,11 @@ The standard Godfather itself is a low- to medium-gain overdrive with Volume, Dr
 ## Archive photo
 - **Archive status:** **No Photo Archived**
 
+## Sound
+
+Open media 3 in modal Play video The Godfather II Dual Overdrive opens full screen video in same window.
+Channel A (green LED) is The Godfather overdrive in its stock configuration.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

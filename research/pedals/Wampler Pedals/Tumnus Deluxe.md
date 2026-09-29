@@ -27,7 +27,7 @@ Wampler Pedals's Tumnus Deluxe is cataloged as a Distortion / Overdrive pedal.
 
 ## Sound
 
-In stock Tumnus Deluxe quantity Add to cart Watch video - **Archive parent:** Tumnus Deluxe - **Builder:** Wampler Pedals - **Catalog type:** Distortion / Overdrive - **Identity:** Wampler Pedals's Tumnus Deluxe.
+Watch video - **Archive parent:** Tumnus Deluxe - **Builder:** Wampler Pedals - **Catalog type:** Distortion / Overdrive - **Identity:** Wampler Pedals's Tumnus Deluxe.
 
 Wampler Pedals's Tumnus Deluxe is cataloged as a Distortion / Overdrive pedal.
 
@@ -72,11 +72,11 @@ Wampler Pedals's Tumnus Deluxe is cataloged as a Distortion / Overdrive pedal.
 - led.
 
 ### Verified sound evidence
-In stock Tumnus Deluxe quantity Add to cart Watch video - **Archive parent:** Tumnus Deluxe - **Builder:** Wampler Pedals - **Catalog type:** Distortion / Overdrive - **Identity:** Wampler Pedals's Tumnus Deluxe.
+Watch video - **Archive parent:** Tumnus Deluxe - **Builder:** Wampler Pedals - **Catalog type:** Distortion / Overdrive - **Identity:** Wampler Pedals's Tumnus Deluxe.
 Wampler Pedals's Tumnus Deluxe is cataloged as a Distortion / Overdrive pedal.
 Wampler Pedals: https://www.wamplerpedals.com/products/distortion-overdrive/tumnus-deluxe/ - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
 
 ### Sources checked in this pass
 1. Tumnus Deluxe | Wampler Pedals: https://www.wamplerpedals.com/products/distortion-overdrive/tumnus-deluxe/
-2. Wampler - Tumnus Deluxe Pinnacle – SoundUnlimited facebook instagram tiktok twitter youtube Tree icon Ecologi logo Ecologi logo Tree icon Facebook X Email facebook instagram tiktok twitter youtube American Express Apple Pay Diners Club Discover Google Pay Maestro Mastercard Shop Pay Union Pay Visa: https://www.soundunlimited.co.uk/products/wampler-tumnus-deluxe-1?msclkid=140bec92de2a1ebb8e62862497ab0638&utm_source=bing&utm_medium=cpc&utm_campaign=MS+%E2%80%94+Bid-Discovery+Learning+%E2%80%94+Search&utm_term=wampler+tumnus+deluxe&utm_content=Effects
+2. soundunlimited.co.uk: https://www.soundunlimited.co.uk/products/wampler-tumnus-deluxe-1?msclkid=140bec92de2a1ebb8e62862497ab0638&utm_source=bing&utm_medium=cpc&utm_campaign=MS+%E2%80%94+Bid-Discovery+Learning+%E2%80%94+Search&utm_term=wampler+tumnus+deluxe&utm_content=Effects
 3. catalog/override source: https://reverb.com/item/92782932-wampler-tumnus-deluxe

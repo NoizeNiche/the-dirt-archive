@@ -60,5 +60,5 @@ Astro Amp Astrotone fuzz effects pedal.
 – This is a very nice original example of an incredibly rare fuzz pedal.
 
 ### Sources checked in this pass
-1. 1967 Universal Amplifier Corp. Astro Amp Astrotone V2 Vintage Electric Guitar Fuzz Effects Pedal &#8211; Rare Original &#8217;60s Distortion Box Version 2, Like Fuzzz Boxx FX Stompbox &#8211; G_E_A_R_L_O_R_D: https://www.gearlord.com/product/1967-universal-amplifier-corp-astro-amp-astrotone-v2-vintage-electric-guitar-fuzz-effects-pedal-rare-original-60s-distortion-box-version-2-like-fuzzz-boxx-fx-stompbox/
+1. gearlord.com: https://www.gearlord.com/product/1967-universal-amplifier-corp-astro-amp-astrotone-v2-vintage-electric-guitar-fuzz-effects-pedal-rare-original-60s-distortion-box-version-2-like-fuzzz-boxx-fx-stompbox/
 2. RARE 1967 Astro Amp Astrotone Fuzz Pedal Universal Amplifier Corp. - Reverb: https://reverb.com/item/74319191-rare-1967-astro-amp-astrotone-fuzz-pedal-universal-amplifier-corp

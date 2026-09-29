@@ -16,6 +16,12 @@
   - https://reverb.com/item/87960827-canned-monsters-frenzy-moss-fuzz-2024-green
   - https://www.effectsdatabase.com/model/cannedmonsters/frenzymoss
 
+## Sound
+
+Canned Monsters Frenzy Moss Guitar & Bass Fuzz
+Designed with a full frequency fuzz characteristic, it preserves the low end frequencies, making it an excellent choice for both bass and guitar players.
+For true bypass, I employ the GORVA 3PDT known as the Ferrari of 3PDT switches, featuring a soft click (1.00.3kg) for a satisfying tactile response and superb reliability.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

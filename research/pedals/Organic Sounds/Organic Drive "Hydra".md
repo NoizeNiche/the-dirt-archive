@@ -59,8 +59,8 @@ ORGANIC SOUNDS Organic Drive "Hydra" - Your Complete Music Store – Instruments
 Organic Sounds: https://organic-sounds.com/products/organic-drive-hydra 2.
 
 ### Sources checked in this pass
-1. Organic Drive &quot;Hydra&quot; | Organic Sounds: https://organic-sounds.com/products/organic-drive-hydra
-2. Organic Drive &quot;Hydra&quot; &ndash; Organic Sounds Overseas Sales Division: https://organic-sounds-overseas-sales-division.com/products/organic-drive-hydra
-3. Organic Sounds Organic Drive &quot;Hydra&quot; (NEW) - Reverb: https://reverb.com/item/97764326-organic-sounds-organic-drive-hydra-new
-4. Organic Sounds Organic Drive &quot;Hydra&quot; (NEW) - TC楽器 - TCGAKKI: https://tcgakki.com/en/products/organic-sounds-organic-drive-hydra-new-1
-5. ORGANIC SOUNDS Organic Drive &quot;Hydra&quot; - Your Complete Music Store – Instruments, Vinyl & More: https://www.vinylstorex.com/product/organic-sounds-organic-drive-hydra/
+1. Organic Drive "Hydra" | Organic Sounds: https://organic-sounds.com/products/organic-drive-hydra
+2. Organic Drive "Hydra" – Organic Sounds Overseas Sales Division: https://organic-sounds-overseas-sales-division.com/products/organic-drive-hydra
+3. Organic Sounds Organic Drive "Hydra" (NEW) - Reverb: https://reverb.com/item/97764326-organic-sounds-organic-drive-hydra-new
+4. Organic Sounds Organic Drive "Hydra" (NEW) - TC楽器 - TCGAKKI: https://tcgakki.com/en/products/organic-sounds-organic-drive-hydra-new-1
+5. ORGANIC SOUNDS Organic Drive "Hydra" - Your Complete Music Store – Instruments, Vinyl & More: https://www.vinylstorex.com/product/organic-sounds-organic-drive-hydra/

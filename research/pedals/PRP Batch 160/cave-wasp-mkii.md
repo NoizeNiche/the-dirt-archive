@@ -18,6 +18,11 @@
   - https://www.effectsdatabase.com/model/cavepassive/wasp/mk2
   - https://www.talkbass.com/threads/cave-passive-pedals.598605/page-6
 
+## Sound
+
+The "Sting" knob controls the amount of fuzz, and the "Aggression" knob looks after the thickness.
+We're very happy with how the mechanical indicators for this pedal and the Super Grunt overdrive turned out.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

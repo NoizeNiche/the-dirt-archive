@@ -18,6 +18,12 @@
   - https://reverb.com/ca/item/64439016-cat-box-customs-bean-machine-v2-percolator-fuzz
   - https://www.youtube.com/watch?v=NqxVaXImn2w
 
+## Sound
+
+Cat Box Customs Bean Machine V2 Fuzz
+Delicious Audio Creative Pedals Creative Delay Tape Delay W/ Reverb Delay Distortion Fuzz Overdrive Dual Gain Dirt Boost Compr.
+A variant of the Harmonic Percolator fuzz, the original featured a Volume and Fuzz knob, a 3 way diode clipping selection with Germanium/none/Silicon options, and two more toggles for extra sonic options: “pseudo octave up/down” and more/less intensity.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

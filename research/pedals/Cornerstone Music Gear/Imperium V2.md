@@ -41,6 +41,12 @@ Imperium V2 is not the same product as the original Imperium. V2 combines the cu
 - Cornerstone Music Gear current catalog: https://www.cornerstonemusicgear.com/
 - Imperium V2 manual: https://manuals.plus/m/aa89012a7f277907230583c639cfbf53838edfe064f88d290e49761634c0d751.pdf
 
+## Sound
+
+Independently dynamic, ferocious when stacked.
+Rockett Karma Keeley KingTone Lehle Line 6 MXR Nobels Origin Effects Pedaltrain Peterson Tuners Source Audio Strymon Suhr Tone King Truetone Universal Audio Vemuram Voodoo Lab Wampler Way Huge Xotic XTS Zvex NEW ARRIVALS FEATURED STORE INFO Sell Us Your Gear!
+The fusion of two of our most iconic circuits — GLADIO and ANTIQUE — Imperium V2 is the ultimate dual overdrive pedal.
+
 ## Sources checked
 1. Perfect Circuit - Cornerstone Imperium V2
 2. Cornerstone Music Gear current catalog

@@ -38,6 +38,12 @@ Do not merge Sparkle with later Cornerstone models such as Antique V3. Keep the 
 - Reverb exact-model listing: https://reverb.com/item/10597232-cornerstone-sparkle-dynamic-overdrive
 - Alto Volume exact-model retailer page: https://www.altovolume.net/prodotto/cornestone-sparkle-dynamic-overdrive/
 
+## Sound
+
+The design goal was to create an extremely easy to use yet still dramatic and versatile overdrive.
+Looking at the controls, there are Volume, Gain, Bass and Treble.
+With both set at noon, the Sparkle creates a flat frequency response, When adjusting the tone controls, the sound always stays full and well defined without ever getting muddy or gloomy.
+
 ## Sources checked
 1. Effects Database - Cornerstone Sparkle
 2. Reverb - Cornerstone Sparkle Dynamic Overdrive

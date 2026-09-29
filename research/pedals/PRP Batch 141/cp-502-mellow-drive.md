@@ -17,6 +17,12 @@
 - **Research confidence:** High for identity, controls and D-style lineage; low for internal component specifics.
 - **Sources checked:** https://www.effectsdatabase.com/model/caline/cp500/mellowdrive ; https://onethousandpedals.com/pedal/caline-cp-502-mellow-drive
 
+## Sound
+
+Guitar Effect Pedal Caline CP 502 Mellow Drive ...
+Hjem Guitar Effect Pedal Caline CP 502 Mellow Drive Overdrive Musiktilbehør Zoom Guitar Effect Pedal Caline CP 502 Mellow Drive Overdrive Musiktilbehør SKU: AC 212V5MN2JEV Verificerede anmeldelser på Pris 635,00 kr.
+​ Køb Nu Tilføj til kurv Køb Nu Fordele Levering garanteret 100 dages returret Lave priser Beskrivelse Forsendelse Betaling Returnering Guitar Effect Pedal Caline CP 502 Mellow Drive Overdrive Musiktilbehør Hvad er Caline CP 502 Mellow Drive Effektpedal?
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

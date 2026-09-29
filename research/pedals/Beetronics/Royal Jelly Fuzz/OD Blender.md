@@ -56,5 +56,9 @@ Beetronics describes Royal Jelly as spanning silky overdrive/fuzz blends through
 1. Beetronics — Royal Jelly Fuzz/OD Blender: https://www.beetronicsfx.com/products/royal-jelly-limited-edition-p-royal-series
 2. Beetronics — Royal Jelly Custom Shop: https://www.beetronicsfx.com/products/royal-jelly-od-fuzz-custom-shop-420
 
+## Sound
+
+Beetronics describes Royal Jelly as spanning silky overdrive/fuzz blends through gritty, high frequency fuzz textures. The Dry control is explicitly intended to retain articulation and is useful on bass, drums, and synth as well as guitar.
+
 ## Photo
 - **Archive status:** **Exact Photo Pending**

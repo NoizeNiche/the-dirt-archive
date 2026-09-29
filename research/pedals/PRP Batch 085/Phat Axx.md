@@ -10,6 +10,12 @@ Phat AXX is a Big Lloyde / IndyGuitarist overdrive based on the classic Tube Scr
 ## Archive photo
 - **Archive status:** **No Photo Archived**
 
+## Sound
+
+Big 2011 Lloyde Phat AXX Overdrive Standard Enclosure 2011 Effect For Sale Oscar Guitars x Username or Email Password I forgot my username or password Login Keep me signed in.
+You are here: Effects » Overdrive » Big Big / 2011 Lloyde Phat AXX Overdrive Standard Enclosure / 2011 / Effect 1 Instrument Description: Read more...
+Very Good condition, 7,5/10, cream/crunch, bass boost, including original box, This is the Phat AXX Overdrive.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

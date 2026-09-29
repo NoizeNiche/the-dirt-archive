@@ -17,6 +17,12 @@
   - https://onethousandpedals.com/pedal/caline-dcp-07-brigade
   - https://www.musicplant.co.th/product/82421-80788/calinedcp07
 
+## Sound
+
+Du får en transparent lo gain overdrive og en klassisk ”tubescreamer” klon med seperate kontroller.
+Caline DCP 07 Brigade Dual Overdrive
+The overdrive effect is mellow, mild, smooth simply exquisite!
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

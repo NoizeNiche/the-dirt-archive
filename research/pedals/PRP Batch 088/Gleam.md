@@ -13,6 +13,12 @@ https://www.youtube.com/watch?v=HWwK5HCAb8E
 ## Archive photo
 - **Archive status:** **No Photo Archived**
 
+## Sound
+
+Its 2 x 3 way Impedance and Tone switches select those profiles, while 9V to 25V conversion helps Silicon mimic OC81D dynamics.
+The manual includes an 8 Bit Fuzz preset; GPX’s favourite uses both switches DOWN.
+I’m not usually big on hyperbole while this V2 Gleam might just be the most potent silicon fuzz pedal made to date where its 8 controls incredibly deliver pretty authentic FZ 1, MKI, MKII and FF voicings and then some.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

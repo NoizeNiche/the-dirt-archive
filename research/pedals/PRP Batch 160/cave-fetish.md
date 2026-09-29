@@ -19,6 +19,12 @@
   - https://onethousandpedals.com/pedal/cave-pedals-fetish-prime
   - https://www.effectsdatabase.com/updates/weekly/20250317
 
+## Sound
+
+Cave Pedals FETish Prime — Overdrive Pedal Specs & Where to Buy
+See it in action here The all JFET pre amp, overdrive and fuzz there’s no op amps or clipping diodes in this box!
+It behaves more like a triode vacuum valve (tube) than any other solid state device and is therefore ideal for guitar amplification duties, giving a more natural roll into overdrive without the need for clipping diodes, and cleaning up gradually as you roll down the volume knob on your guitar.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

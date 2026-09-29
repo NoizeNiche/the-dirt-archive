@@ -14,6 +14,12 @@
 - **Circuit note:** No component-level topology is asserted.
 - **Photo status:** No exact-model image promoted to the local archive in this batch.
 
+## Sound
+
+Preamp 5150 tipo peavey distorsión hi gain Preamp 5150 tipo peavey distorsión hi gain $139.000,00 3 cuotas sin interés de $46.333,33 0% de descuento pagando con No acumulable con algunas promociones Ver más detalles ¡No te lo pierdas, es el último!
+USOS DISTORSION HI GAIN TIPO PEAVEY.
+CONTROL GAIN cantidad de ganancia VOL Volumen general.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

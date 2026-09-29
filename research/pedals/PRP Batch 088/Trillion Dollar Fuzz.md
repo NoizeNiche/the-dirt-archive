@@ -13,6 +13,12 @@ https://www.effectsdatabase.com/model/danelectro/billionaire/trilliondollarfuzz
 ## Archive photo
 - **Archive status:** **No Photo Archived**
 
+## Sound
+
+Billionaire (by Danelectro) Trillion Dollar Fuzz
+With a high gain mode that really turns the volume to 11 and EQ like no other fuzz.
+The sculpt switch will modify the mid range and boost the bass.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

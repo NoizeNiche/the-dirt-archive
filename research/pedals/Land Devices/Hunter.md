@@ -55,5 +55,5 @@ Hunter is a stereo distortion product in the Land Devices catalog.
 **Archive parent:** Hunter - **Builder:** Land Devices - **Catalog type:** Distortion - **Identity:** Land Devices's Hunter.
 
 ### Sources checked in this pass
-1. Hunter – Stereo Distortion &ndash; Land Devices: https://landdevices.com/products/hunter
+1. Hunter – Stereo Distortion – Land Devices: https://landdevices.com/products/hunter
 2. catalog/override source: https://judgeme.imgix.net/land-devices/1771791902__1771791882028-hunterlofi__original.jpg?auto=format&w=1024

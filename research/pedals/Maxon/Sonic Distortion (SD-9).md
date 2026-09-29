@@ -59,5 +59,5 @@ SONIC DISTORTION (SD-9) – Godlyke, Inc.
 Maxon's Sonic Distortion (SD-9) is cataloged as a distortion / overdrive pedal.
 
 ### Sources checked in this pass
-1. SONIC DISTORTION (SD-9) &ndash; Godlyke, Inc.: https://maxonfx.com/products/sonic-distortion-sd-9
+1. SONIC DISTORTION (SD-9) – Godlyke, Inc.: https://maxonfx.com/products/sonic-distortion-sd-9
 2. Maxon Sonic Distortion (SD-9) Pedal - pedal.ly: https://pedal.ly/product/maxon-sonic-distortion-sd-9-pedal/

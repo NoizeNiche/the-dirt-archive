@@ -25,6 +25,12 @@
 ## Sound\n\nAGR's documentation describes the DS2610 as moving from restrained, touch-sensitive breakup toward heavier saturation while retaining dynamic interaction with the instrument's controls. The pedal is intended to let playing intensity and guitar-volume changes materially alter the distortion response. [1]\n\n## Sources checked
 1. AGR Pedals DS2610 - Vintage Distortion | Effects Database: https://www.effectsdatabase.com/model/agrpedals/ds2610
 
+## Sound
+
+AGR Pedals DS2610 Vintage Distortion
+The circuit is voiced to react similarly to classic fuzz style behavior, with distortion characteristics that change noticeably based on playing intensity and manipulation of the instrument's volume control.
+This responsiveness allows the player to shape saturation, texture, and clarity directly from performance dynamics rather than relying solely on static gain settings.
+
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
 

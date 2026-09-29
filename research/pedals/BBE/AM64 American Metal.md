@@ -24,6 +24,10 @@ Effects Database dates the model to August 27, 2009 and records it as a disconti
 ## Circuit / components
 Exact circuit topology and semiconductor part numbers were not established from the checked sources.
 
+## Sound
+
+The surviving exact model documentation establishes AM 64 as a dedicated American metal distortion but does not preserve enough precise sonic language to justify a more detailed tonal analysis.
+
 ## Sources checked
 1. Effects Database: https://www.effectsdatabase.com/model/bbe/am64
 2. BBE Sound catalog: https://www.bbesound.com/products/stomp-boxes/default.aspx

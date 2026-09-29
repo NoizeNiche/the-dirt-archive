@@ -67,7 +67,7 @@ J Mascis Garbage Face — Wren And Cuff Fuzz Pedal - No specific factory colorwa
 Documented terms in the verified sources: germanium transistor, Germanium Fuzz.
 
 ### Sources checked in this pass
-1. J Mascis Garbage Face &mdash; Wren and Cuff: https://www.wrenandcuff.com/products/j-garbage-face
+1. J Mascis Garbage Face — Wren and Cuff: https://www.wrenandcuff.com/products/j-garbage-face
 2. Wren and Cuff J Mascis Garbage Face — Fuzz Pedal | Equipboard: https://equipboard.com/items/wren-and-cuff-j-mascis-garbage-face
 3. Wren And Cuff J Mascis Garbage Face: https://austinguitarhouse.com/wren-and-cuff-garbage-face/
 4. Wren and Cuff J Mascis Garbage Face - Reverb: https://reverb.com/p/wren-and-cuff-j-mascis-garbage-face

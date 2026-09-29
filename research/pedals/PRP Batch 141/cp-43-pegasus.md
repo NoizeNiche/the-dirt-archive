@@ -17,6 +17,12 @@
 - **Research confidence:** High for identity, controls and circuit lineage; low for internal transistor/diode details.
 - **Sources checked:** https://www.effectsdatabase.com/model/caline/cpxx/cp43 ; https://onethousandpedals.com/pedal/caline-cp-43-pegasus
 
+## Sound
+
+Incredibly versatile like the original the Pegasus can create a range of amazing natural sounding distortion tones.
+It's very transparent when Gain is set quite low, and still sounds very smooth when cranked up higher.
+Caline Pegasus "Mythical' Overdrive 11:16 2022 10 25 Caline Caline Pegasus versus Ceriatone Centura a Klon inspired pedal shootout 4:09 2022 10 25 The Pedal Couple CALINE PEGASUS watch the full demo in our YouTube channel.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

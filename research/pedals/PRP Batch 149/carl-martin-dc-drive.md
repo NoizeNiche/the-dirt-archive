@@ -17,6 +17,10 @@
   - https://carlmartin.com/products/dc-drive-2/
   - https://carlmartin.com/wp-content/uploads/2026/01/DC-Drive-2.pdf
 
+## Sound
+
+Responsive circuit that cleans up with lighter playing and delivers more drive when you dig in.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

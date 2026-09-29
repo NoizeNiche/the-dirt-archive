@@ -13,6 +13,12 @@
 - **Circuit note:** No specific circuit topology is asserted.
 - **Photo status:** No exact-model image promoted to the local archive in this batch. The product page is retained as the image-source page for future photo recovery. Variant naming is preserved rather than splitting cosmetic/size options into unrelated identities.
 
+## Sound
+
+OVERDRIVE distorsión con versatilidad en el seteo del tono.
+Control, VOL GAIN, define la salida del pedal y la cantidad de distorsión.
+Productos similares 0 % OFF Envío gratis FBASSDRIVE overdrive de bajo $119.000,00 $0,00 3 cuotas sin interés de $39.666,67 Comprar ¡Listo!
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

@@ -17,6 +17,11 @@
   - https://carolineguitar.com/tag/caroline-olympia-fuzz/
   - https://carolineguitar.com/tag/olympia-fuzz/
 
+## Sound
+
+Caroline Olympia Fuzz Archives Caroline Guitar Company Caroline Guitar Company Dreamed, designed, and created at our small batch distortery™ in Columbia, South Carolina.
+July 26, 2011 We’re running a fundraising campaign through Kickstarter to launch the follow up to our acclaimed Wave Cannon™ overdriver: the OLYMPIA fuzz.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

@@ -27,11 +27,7 @@ Prescription Electronics's Face Lift is cataloged as a fuzz pedal.
 
 ## Sound
 
-**Archive parent:** Face Lift - **Builder:** Prescription Electronics - **Catalog type:** Fuzz - **Identity:** Prescription Electronics's Face Lift.
-
-Prescription Electronics's Face Lift is cataloged as a fuzz pedal.
-
-Forums Specialty Area The Tone Zone and Gig Rigs JavaScript is disabled.
+No verified pedal-specific sonic summary is currently established in the archive.
 
 ## Sources checked
 1. Prescription Electronics Face Lift 1990s - Early 3 Knob | Reverb: https://reverb.com/item/92037850-prescription-electronics-face-lift-1990s-early-3-knob-version-white

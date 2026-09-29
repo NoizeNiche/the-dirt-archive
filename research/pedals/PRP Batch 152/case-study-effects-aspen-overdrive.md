@@ -17,6 +17,12 @@
   - https://casestudyeffects.co/products/aspen-overdrive
   - https://www.effectsdatabase.com/model/casestudy/aspen/germanium
 
+## Sound
+
+Paying homage to a classic, the Case Study Aspen Drive is a one stop shop for all things drive.
+The Aspen reimagines the original design by dramatically improving the post drive volume, and the bass knob lets you set the amount of low end that passes through the pedal.
+Case Study Germanium Aspen Overdrive
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

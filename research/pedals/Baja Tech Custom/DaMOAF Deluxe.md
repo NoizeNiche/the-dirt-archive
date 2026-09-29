@@ -16,6 +16,10 @@ Exact Deluxe control set, circuit topology and semiconductor details were not re
 - **Fuzz classification:** High from the documented Da MOAF fuzz family.
 - **Exact Deluxe changes:** Unknown.
 
+## Sound
+
+The standard Da MOAF is independently described as a Big Muff style fuzz with strong control response and a wide tonal range. That description is retained as family context , not as a substitute for a Deluxe specific sonic record.
+
 ## Sources checked
 1. Effects Database - Baja Tech Custom: https://www.effectsdatabase.com/model/bajatech
 2. Wikiwahwah Baja Tech Custom product history: https://wahwah.fandom.com/wiki/Baja_Tech_Custom

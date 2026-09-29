@@ -20,6 +20,12 @@ The LT-DRIVE is the compact LT-series overdrive pedal. It uses a conventional lo
 ## Archive photo
 - **Archive status:** **No Photo Archived**
 
+## Sound
+
+All Blackstar products are subjected to extensive laboratory and road testing to ensure that they are truly uncompromising in terms of reliability, quality and above all TONE.
+The unique tone control cuts the fizz without making your backed off tone sound dull and lifeless.
+Controls Gain The Gain knob controls the amount of overdrive or distortion that the pedal will deliver.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

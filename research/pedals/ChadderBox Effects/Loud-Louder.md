@@ -70,7 +70,7 @@ Based on a dual Mosfet circuit, this is a pedal that slightly colors your tone a
 ### Sources checked in this pass
 1. Chadderbox Effects Loud/Louder V3 | Delicious Audio: https://delicious-audio.com/chadderbox-effects-loud-louder/
 2. Loud/Louder: https://reverb.grsm.io/DeliciousAudio771?search_term=chadderbox+Loud/Louder
-3. LOUD/LOUDER &mdash; ChadderBox Effects: https://www.chadderboxeffects.com/pedals/loudlouder
+3. LOUD/LOUDER — ChadderBox Effects: https://www.chadderboxeffects.com/pedals/loudlouder
 
 ## Deep research verification
 
@@ -92,5 +92,5 @@ Based on a dual Mosfet circuit, this is a pedal that slightly colors your tone a
 
 ### Sources checked in this pass
 1. Chadderbox Effects Loud/Louder V3 | Delicious Audio: https://delicious-audio.com/chadderbox-effects-loud-louder/
-2. LOUD/LOUDER &mdash; ChadderBox Effects: https://www.chadderboxeffects.com/pedals/loudlouder
+2. LOUD/LOUDER — ChadderBox Effects: https://www.chadderboxeffects.com/pedals/loudlouder
 3. Loud/Louder: https://reverb.grsm.io/DeliciousAudio771?search_term=chadderbox+Loud/Louder

@@ -62,7 +62,7 @@ The unique three-band EQ sets the Violet apart from our other popular distortion
 We placed the Midrange control before the distortion circuit as a powerful pre-amp distortion shaping tool.
 
 ### Sources checked in this pass
-1. VIOLET &ndash; JHS Pedals: https://jhspedals.info/products/the-violet
+1. VIOLET – JHS Pedals: https://jhspedals.info/products/the-violet
 2. JHS Pedals Violet Lari Basilio Signature Distortion/Overdrive Effects Pedal Black | Guitar Center: https://www.guitarcenter.com/JHS-Pedals/Violet-Lari-Basilio-Signature-Distortion-Overdrive-Effects-Pedal-Black-1500000446429.gc
 3. THE VIOLET - JHS Pedals: http://www.earthquakerec.com/the-violet.html
 4. JHS Pedals The Violet Distortion - Lari Basilio Signature Distortion ...: https://www.effectsdatabase.com/model/jhspedals/violet

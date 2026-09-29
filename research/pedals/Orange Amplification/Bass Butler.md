@@ -63,7 +63,7 @@ Its all-analog signal path uses discrete Class-A transistor circuitry for the pr
 Why This Matters: Low-End Foundation, Groove, and Tone Shaping Bass tone anchors musical cohesion.
 
 ### Sources checked in this pass
-1. Orange Amplification Launch The Bass Butler: A Practical Bassist&#x27;s Guide | GearStrings: https://gearstrings.com/bass/orange-bass-butler-bass-gear-guide
+1. Orange Amplification Launch The Bass Butler: A Practical Bassist's Guide | GearStrings: https://gearstrings.com/bass/orange-bass-butler-bass-gear-guide
 2. Orange Amplifications Launches The Bass Butler - Bass Magazine: https://bassmagazine.com/orange-amplifications-launch-the-bass-butler/
 3. Orange Amplifications Launch The Bass Butler - Bass Gear Magazine: https://www.bassgearmag.com/orange-amplifications-launch-the-bass-butler/
 4. Orange Amplifications Launch The Bass Butler: A Bass Rig In A Pedal: https://www.talkbass.com/threads/orange-amplifications-launch-the-bass-butler-a-bass-rig-in-a-pedal.1442047/

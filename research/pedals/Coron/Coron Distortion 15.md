@@ -32,6 +32,10 @@ A surviving used pedal may have replacement switches, LEDs, DC power, or other s
 - Reverb vintage exact-model listing: https://reverb.com/item/418925-vintage-coron-distortion-15-ca-1980
 - Reverb 1978 example: https://reverb.com/item/84347581-coron-distortion-15-japan-1978
 
+## Sound
+
+Be the first to review “Coron Distortion 15” Cancel reply You must be logged in to post a review.
+
 ## Sources checked
 1. Effects Database - Coron Distortion 15
 2. Reverb - Vintage Coron Distortion 15

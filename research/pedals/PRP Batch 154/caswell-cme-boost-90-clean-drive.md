@@ -17,6 +17,12 @@
   - https://www.pedal-of-the-day.com/2016/02/16/caswell-modern-electronics-boost-90-clean-drive/
   - https://www.youtube.com/watch?v=p6cNJnIbxIo
 
+## Sound
+
+In the case of today’s pedal, that magic ingredient is a Boost pedal.
+Hailing from Pasadena, CA, the Boost 90 Clean Drive is a rock and rolling take on a clean boost, brought to you by Caswell Modern Electronics.
+As with most boost pedals, the Boost 90 has only one control knob, which makes it really, really easy to use (really).
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

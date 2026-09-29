@@ -18,6 +18,12 @@
   - https://www.effectsdatabase.com/model/catalinbread/giygas/2k
   - https://catalinbread.com/pages/giygasdemos
 
+## Sound
+
+Unlike traditional Muff pedals that employ a dual filter tone circuit, the Giygas 2K avoids the lossy mid scooping design, delivering a punchy tonal profile that interacts naturally with the surrounding circuitry.
+The fuzz control provides a wide sweep, ranging from a warm, gritty boost at lower settings to thick, square wave fuzz saturation at higher levels.
+Controls Loud: Sets the overall output volume, from quiet to high gain levels.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

@@ -13,6 +13,11 @@ https://www.effectsdatabase.com/model/biyang/babyboom/od19
 ## Archive photo
 - **Archive status:** **No Photo Archived**
 
+## Sound
+
+This is in their new "19" series and here is the OD 19 Overdrive.
+2 Mode toggle option ( HP/LP) and just a great overall response for players in every style.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

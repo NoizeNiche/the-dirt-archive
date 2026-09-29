@@ -18,6 +18,10 @@
   - https://www.effectsdatabase.com/model/cavepassive/grunt/super
   - https://www.talkbass.com/threads/cave-passive-pedals.598605/page-6
 
+## Sound
+
+The original Grunt overdrive/boost circuit is retained, but with a flick of the toggle switch the higher boost "super" circuit comes into play.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

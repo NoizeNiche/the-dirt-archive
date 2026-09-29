@@ -29,6 +29,11 @@ The pedal is designed to clean up from the guitar volume control and spans light
 ## Archive photo
 - **Archive status:** **No Photo Archived**
 
+## Sound
+
+Open media 3 in modal Play video Sisyphuzz Silicon Fuzz opens full screen video in same window.
+Dimensions 2.9" W x 4.5" L (73.7mm x 114.3mm) Operating DC 9v Current Draw 2mA Download Instructions for the Sisyphuzz Silicon Fuzz Color and/or graphics subject to change.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

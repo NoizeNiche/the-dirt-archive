@@ -23,6 +23,12 @@ The BODY control changes the EQ parameter, moving between thinner and thicker re
 ## Power
 - 9V DC, center-negative.
 
+## Sound
+
+Featuring four op amp gain stages, this pedal delivers expansive headroom, whilst the soft clipping saturates the signal without aggressively compressing it.
+Switch between thicker or thinner tones, whilst also providing a perceived gain and volume boost when engaged.
+With the BODY switch, you have two distinct ranges of TONE and GAIN at your fingertips, depending on which side of the pedal you use, each offering a spectrum of overdrive flavours.
+
 ## Sources checked
 1. Buzzing Bugs Audio Devices product page: https://buzzingbugsfx.com/store/p/bb04-full-range-drive
 2. Premier Guitar launch coverage: https://www.premierguitar.com/news/buzzing-bugs-audio-devices-bb04-full-range-drive-pedal
@@ -63,4 +69,4 @@ Buzzing Bugs Audio Devices product page: https://buzzingbugsfx.com/store/p/bb04-
 
 ### Sources checked in this pass
 1. BB04 Full Range Drive Pedal Launched by Buzzing Bugs - Premier Guitar: https://www.premierguitar.com/news/buzzing-bugs-audio-devices-bb04-full-range-drive-pedal
-2. BB04 Full Range Drive Guitar Pedal &mdash; BUZZING BUGS AUDIO DEVICES: https://buzzingbugsfx.com/store/p/bb04-full-range-drive
+2. BB04 Full Range Drive Guitar Pedal — BUZZING BUGS AUDIO DEVICES: https://buzzingbugsfx.com/store/p/bb04-full-range-drive

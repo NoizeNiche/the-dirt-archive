@@ -25,6 +25,12 @@ With Gain, Tone and Level controls, the pedal can move from open, aggressive dis
 ## Archive photo
 - **Archive status:** **No Photo Archived**
 
+## Sound
+
+Unlike an overdrive circuit, where the op amp handles amplification directly, the GR8T generates distortion from gain stages positioned after the op amp, resulting in a different response to guitar volume and dynamics.
+The GR8T is based around a single gain stage, which keeps the circuit quiet while maintaining clarity, note definition, and pure guitar tone.
+Starting with no compression, each step clockwise increases compression and reshapes the distortion waveform, offering eight unique voices in one pedal.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

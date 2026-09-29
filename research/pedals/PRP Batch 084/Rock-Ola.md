@@ -10,6 +10,10 @@ An original Big Knob overdrive designed to maximize playing dynamics and interac
 ## Archive photo
 - **Archive status:** **No Photo Archived**
 
+## Sound
+
+Used with your guitar’s volume and tone knobs, it produces an extraordinarily wide range of overdrive and distortion palettes.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

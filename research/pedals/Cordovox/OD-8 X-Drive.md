@@ -39,6 +39,12 @@ Effects Database identifies the OD-8 as an OEM design manufactured by Biyang and
 - Guitar Villa product catalog: https://guitar-villa.com/collections/vendors?q=Cordovox
 - Guitar Villa product listings: https://guitar-villa.com/collections/all?page=4
 
+## Sound
+
+The circuit provides three selectable overdrive modes via a toggle switch: TS mode delivers a saturated variation of the classic TS 9 sound, BRIGHT mode emphasizes brightness, smooth saturation, and higher output, while WARM mode provides a warm, high gain overdrive tone.
+The pedal is equipped with TONE, VOLUME, and DRIVE controls, providing flexible shaping of the overdrive response.
+Housed in a durable metal chassis with a mirror finished surface, the OD 8 X Drive combines rugged construction with a polished appearance.
+
 ## Sources checked
 1. Effects Database - Cordovox OD-8 X-Drive
 2. Guitar Villa - Cordovox catalog

@@ -17,6 +17,10 @@
   - https://carlmartin.com/wp-content/uploads/2026/01/Single-AC-Tone.pdf
   - https://www.effectsdatabase.com/model/carlmartin/s/actone
 
+## Sound
+
+The AC Tone Single is voiced after the classic Vox AC30 amp, moving from shimmering, chiming clean tones to British style overdrive. The Cut control reduces high frequency content as described by Carl Martin.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

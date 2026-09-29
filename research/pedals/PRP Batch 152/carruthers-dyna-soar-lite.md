@@ -17,6 +17,12 @@
   - https://reverb.com/en-nl/item/74459358-carruthers-dyna-soar-lite-80s-incredibly-rare-big-muff-style-fuzz-pedal
   - https://www.tonemachinesblog.com/2024/02/carruthers-dyna-soar-fuzz.html
 
+## Sound
+
+Contact Me The Super Fuzz Page Friday, February 23, 2024 Carruthers Dyna Soar Fuzz ☟ A couple of months ago I finally added something to the collection that I had been hunting for...
+It was made sometime in the 80s in New York, and was a Big Muff clone with enough volume and gain on tap to level entire city blocks; which was pretty perfect for Sonic Youth.
+And after his mods brought it back to it's full wall of fuzz Muffy glory it was now punishingly loud and sounded exactly like how I assume the end of the world will sound.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

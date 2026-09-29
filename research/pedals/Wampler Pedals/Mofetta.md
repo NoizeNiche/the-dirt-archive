@@ -8,7 +8,6 @@
 
 ## What this pedal is
 
-Top |' data-navmenu="off" data-hashurl="off" data-menuSlider="off" data-continue-autoplay="off" data-outside-nav="off" data-autoplay="off" > 4 5 The Wampler Mofetta Overdrive/Distortion is my tribute to the MOSFET-driven magic of a 1990s classic — the MT10 MOSTORTION tm .
 
 ## Colorways
 - No specific factory colorway information was established in the verified evidence packet.
@@ -44,7 +43,6 @@ But I also wanted more and added a Texture Switch that introduces actual MOSFETs
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
 
 ### Verified description
-Top |' data-navmenu="off" data-hashurl="off" data-menuSlider="off" data-continue-autoplay="off" data-outside-nav="off" data-autoplay="off" > 4 5 The Wampler Mofetta Overdrive/Distortion is my tribute to the MOSFET-driven magic of a 1990s classic — the MT10 MOSTORTION tm .
 
 ### Verified color/finish evidence
 - No specific factory colorway information was established in the verified evidence packet.
@@ -53,7 +51,6 @@ Top |' data-navmenu="off" data-hashurl="off" data-menuSlider="off" data-continue
 - The evidence references: revision.
 
 ### Verified sound evidence
-Top |' data-navmenu="off" data-hashurl="off" data-menuSlider="off" data-continue-autoplay="off" data-outside-nav="off" data-autoplay="off" > 4 5 The Wampler Mofetta Overdrive/Distortion is my tribute to the MOSFET-driven magic of a 1990s classic — the MT10 MOSTORTION tm .
 I made sure that it delivered the classic, amp-like overdrive, massive headroom, and versatile 3-band EQ that made the original so famous.
 But I also wanted more and added a Texture Switch that introduces actual MOSFETs into the pedal's overdrive section for a bolder, more articulate tone.
 

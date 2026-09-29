@@ -15,6 +15,12 @@
 - **Sources checked:**
   - https://carlmartin.com/products/plexiranger/
 
+## Sound
+
+British amplifiers, big cabinets and loud stages defined the tone of players like Tony Iommi, Ritchie Blackmore and Brian May.
+By pushing upper frequencies into the front of already loud tube amps, treble boosters didn’t just solve a problem – they created a new sound.
+More bite, more presence, and a raw, expressive overdrive that became part of rock history.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

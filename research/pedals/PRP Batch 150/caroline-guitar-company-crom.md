@@ -17,6 +17,12 @@
   - https://carolineguitar.com/product/crom/
   - https://carolineguitar.com/wp-content/uploads/2022/07/CROM-manual-draft2.pdf
 
+## Sound
+
+CROM is a BC184 Supa Tone Bender style fuzzstortion like our original Olympia™, but with a classic tweed amp style tone control (MOUNTAIN) that interacts with the SWORD (gain) control.
+It is a LOT less lossy and less scooped than the classic M ff style tone control in these circuits, giving the pedal an immediate and punchy response.
+A TURBO button on the side gives it extra power and gain.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

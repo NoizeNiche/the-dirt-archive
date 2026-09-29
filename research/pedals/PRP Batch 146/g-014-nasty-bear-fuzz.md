@@ -16,6 +16,10 @@
   - https://myguitarshop.co.za/products/caline-g014-nasty-bear-fuzz
   - https://www.etsy.com/listing/1379087511/caline-nasty-bear-fuzz-g-series-g014
 
+## Sound
+
+Be the first to review “Caline G 014 Nasty Bear Fuzz” Cancel reply You must be logged in to post a review.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

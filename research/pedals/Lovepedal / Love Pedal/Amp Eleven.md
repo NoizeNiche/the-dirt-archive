@@ -27,11 +27,7 @@ Lovepedal / Love Pedal's Amp Eleven is cataloged as an overdrive pedal.
 
 ## Sound
 
-TCHULA 200lbs PURPLE PLEXI ETERNITY BURST HERMIDA ZENDRIVE DOVER DRIVE AMP ELEVEN RUBBER CHICKEN HERMIDA EPH3 © All rights reserved 2026 LOVEPEDAL L.L.C.
-
-Lovepedal / Love Pedal's Amp Eleven is cataloged as an overdrive pedal.
-
-Powered by Shopify - **Archive parent:** Amp Eleven - **Builder:** Lovepedal / Love Pedal - **Catalog type:** Overdrive - **Identity:** Lovepedal / Love Pedal's Amp Eleven.
+No verified pedal-specific sonic summary is currently established in the archive.
 
 ## Sources checked
 1. Love Pedal: https://www.lovepedal.com/
@@ -60,4 +56,4 @@ Powered by Shopify - **Archive parent:** Amp Eleven - **Builder:** Lovepedal / L
 
 ### Sources checked in this pass
 1. Love Pedal: https://www.lovepedal.com/
-2. LOVEPEDAL &ndash; LovePedal Custom Shop: https://lovepedalcustomeffects.myshopify.com/
+2. LOVEPEDAL – LovePedal Custom Shop: https://lovepedalcustomeffects.myshopify.com/

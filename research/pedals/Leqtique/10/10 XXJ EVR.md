@@ -31,7 +31,6 @@ Leqtique's 10/10 XXJ EVR is cataloged as a Distortion pedal.
 
 Leqtique's 10/10 XXJ EVR is cataloged as a Distortion pedal.
 
-escape }}\" class=\"boost-sd__modal\" id=\"boost-sd__modal-quickview\" data-product-id='{{ productData.id }}' data-product='{{ productData
 
 ## Sources checked
 1. Leqtique EVR 10/10 XXJ EVR (NEW) - Reverb: https://reverb.com/item/98274193-leqtique-evr-10-10-xxj-evr-new
@@ -59,11 +58,10 @@ Leqtique's 10/10 XXJ EVR is cataloged as a Distortion pedal.
 ### Verified sound evidence
 **Archive parent:** 10/10 XXJ EVR - **Builder:** Leqtique - **Catalog type:** Distortion - **Identity:** Leqtique's 10/10 XXJ EVR.
 Leqtique's 10/10 XXJ EVR is cataloged as a Distortion pedal.
-escape }}\" class=\"boost-sd__modal\" id=\"boost-sd__modal-quickview\" data-product-id='{{ productData.id }}' data-product='{{ productData
 
 ### Sources checked in this pass
 1. Leqtique EVR 10/10 XXJ EVR (NEW) - Reverb: https://reverb.com/item/98274193-leqtique-evr-10-10-xxj-evr-new
 2. Leqtique EVR 10/10 XXJ EVR Excellent Condition Rare Item | eBay: https://www.ebay.com/itm/800553322272
 3. Leqtique EVR 10/10 XXJ EVR(NEW) - TC楽器 - TCGAKKI: https://tcgakki.com/en/products/leqtique-evr-10-10-xxj-evrnew-1
 4. Leqtique 10/10 XXJ EVR Extreme Metal Guitar Pedal Used: https://www.ebay.co.uk/itm/117289977498
-5. 10/10 &quot;XXJ&quot; EVR &ndash; Leqtiqueshop: https://leqtique.ch/en/products/10-10-xxj-evr
+5. 10/10 "XXJ" EVR – Leqtiqueshop: https://leqtique.ch/en/products/10-10-xxj-evr

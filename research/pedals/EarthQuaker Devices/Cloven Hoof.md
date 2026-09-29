@@ -32,6 +32,12 @@ The archive also contains a record named **Cloven Hoof - Fuzz Grinder**. Because
 - **Reported transistor architecture:** four selected silicon transistors
 - **Factory BOM:** not established in this pass
 
+## Sound
+
+Cloven Hoof Fuzz Grinder — EarthQuaker Devices Contact Us Use the form on the right to contact us.
+We kept the tightness and clarity you loved about the Hoof, along with the wide range of fuzz sounds, and threw the rest away.
+In their place, we installed a set of four specially selected Silicon transistors for cleaner cleans, higher gain, improved temperature stability, and a grittier, grindier, nastier fuzz tone with over 4x the gain of the original Hoof.
+
 ## Photo
 - **Archive photo:** No verified local photo is currently archived for Cloven Hoof.
 - External product imagery is not counted as archive-local photo coverage.
@@ -64,7 +70,7 @@ We kept the tightness and clarity you loved about the Hoof, along with the wide 
 In their place, we installed a set of four specially selected Silicon transistors for cleaner cleans, higher gain, improved temperature stability, and a grittier, grindier, nastier fuzz tone with over 4x the gain of the original Hoof.
 
 ### Sources checked in this pass
-1. Cloven Hoof Fuzz Grinder &mdash; EarthQuaker Devices: https://www.earthquakerdevices.com/cloven-hoof
+1. Cloven Hoof Fuzz Grinder — EarthQuaker Devices: https://www.earthquakerdevices.com/cloven-hoof
 2. EarthQuaker Devices Cloven Hoof Fuzz Grinder - Reverb: https://reverb.com/p/earthquaker-devices-cloven-hoof
 3. EarthQuaker Devices Cloven Hoof — Fuzz Pedal | Equipboard: https://equipboard.com/items/earthquaker-devices-cloven-hoof
 4. Used EarthQuaker Devices Cloven Hoof Fuzz Effect Pedal: https://www.guitarcenter.com/Used/EarthQuaker-Devices/Used-EarthQuaker-Devices-Cloven-Hoof-Fuzz-Effect-Pedal-122766243.gc
@@ -94,7 +100,7 @@ We kept the tightness and clarity you loved about the Hoof, along with the wide 
 In their place, we installed a set of four specially selected Silicon transistors for cleaner cleans, higher gain, improved temperature stability, and a grittier, grindier, nastier fuzz tone with over 4x the gain of the original Hoof.
 
 ### Sources checked in this pass
-1. Cloven Hoof Fuzz Grinder &mdash; EarthQuaker Devices: https://www.earthquakerdevices.com/cloven-hoof
+1. Cloven Hoof Fuzz Grinder — EarthQuaker Devices: https://www.earthquakerdevices.com/cloven-hoof
 2. EarthQuaker Devices Cloven Hoof Fuzz Grinder - Reverb: https://reverb.com/p/earthquaker-devices-cloven-hoof
 3. EarthQuaker Devices Cloven Hoof — Fuzz Pedal | Equipboard: https://equipboard.com/items/earthquaker-devices-cloven-hoof
 4. Used EarthQuaker Devices Cloven Hoof Fuzz Effect Pedal: https://www.guitarcenter.com/Used/EarthQuaker-Devices/Used-EarthQuaker-Devices-Cloven-Hoof-Fuzz-Effect-Pedal-122766243.gc

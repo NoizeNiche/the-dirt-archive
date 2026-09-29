@@ -13,6 +13,12 @@
 - **Circuit note:** No specific circuit topology is asserted.
 - **Photo status:** No exact-model image promoted to the local archive in this batch. The product page is retained as the image-source page for future photo recovery.
 
+## Sound
+
+Fuzz Womut para bajo Fuzz Womut para bajo $105.000,00 3 cuotas sin interés de $35.000,00 0% de descuento pagando con No acumulable con algunas promociones Ver más detalles Tamaño Mini Tamaño: Mini Mini ¡No te lo pierdas, es el último!
+USOS FUZZ especialmente diseñado para bajo electrico CARACTERISTICAS Control, VOL regula la salida del pedal.
+Agregando Fuzz RBmuff TBmuff $105.000,00 $0,00 3 cuotas sin interés de $35.000,00 Comprar 0 % OFF Envío gratis Distorsión RAT 6 6 modos $129.000,00 $0,00 3 cuotas sin interés de $43.000,00 Comprar ¡Listo!
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

@@ -25,6 +25,12 @@ The circuit uses three NOS germanium NPN transistors. BLAMMO! says each transist
 ## Archive photo
 - **Archive status:** **No Photo Archived**
 
+## Sound
+
+Electronics Model: Buzzaround Condition: New Description: Known to some as the “mythical fuzz”, this wedge shaped pedal officially named the Buzzaround was built by hand on tag board from 1966 to 1968 in England by Baldwin – Burns Ltd.
+For quite some time conventional wisdom said Tone Bender guy Gary Hurst designed it but actually it’s an unauthorized copy of a much more obscure circuit called the Harmonic Generator by Gerry Pope of G.P.
+The three NPN Germanium transistors are hand tested for gain and leakage to ensure the proper values are placed in each position.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

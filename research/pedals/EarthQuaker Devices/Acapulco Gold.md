@@ -34,6 +34,12 @@ The previous record contained scraped storefront text. That material has been re
 - **Observed versions:** V1, V2
 - **Factory BOM:** not established in this pass
 
+## Sound
+
+Acapulco Gold Power Amp Distortion — EarthQuaker Devices Contact Us Use the form on the right to contact us.
+Since tone is in the hands, we decided to keep the controls of the Acapulco Gold as simple as possible.
+Roll back your guitar’s tone control.
+
 ## Photo
 - **Archive photo:** No verified local photo is currently archived for Acapulco Gold.
 - External product imagery remains separate from archive-local photo coverage.
@@ -62,7 +68,7 @@ Since tone is in the hands, we decided to keep the controls of the Acapulco Gold
 Roll back your guitar’s tone control.
 
 ### Sources checked in this pass
-1. Acapulco Gold Power Amp Distortion &mdash; EarthQuaker Devices: https://www.earthquakerdevices.com/acapulco-gold
+1. Acapulco Gold Power Amp Distortion — EarthQuaker Devices: https://www.earthquakerdevices.com/acapulco-gold
 2. EarthQuaker Devices Acapulco Gold V2 Distortion Pedal | Sweetwater: https://www.sweetwater.com/store/detail/AcapulcoV2--earthquaker-devices-acapulco-gold-v2-distortion-pedal
 3. EarthQuaker Devices Acapulco Gold Power Amp Distortion: https://reverb.com/p/earthquaker-devices-acapulco-gold-distortion
 
@@ -82,6 +88,6 @@ Since tone is in the hands, we decided to keep the controls of the Acapulco Gold
 Roll back your guitar’s tone control.
 
 ### Sources checked in this pass
-1. Acapulco Gold Power Amp Distortion &mdash; EarthQuaker Devices: https://www.earthquakerdevices.com/acapulco-gold
+1. Acapulco Gold Power Amp Distortion — EarthQuaker Devices: https://www.earthquakerdevices.com/acapulco-gold
 2. EarthQuaker Devices Acapulco Gold V2 Distortion Pedal | Sweetwater: https://www.sweetwater.com/store/detail/AcapulcoV2--earthquaker-devices-acapulco-gold-v2-distortion-pedal
 3. EarthQuaker Devices Acapulco Gold Power Amp Distortion: https://reverb.com/p/earthquaker-devices-acapulco-gold-distortion

@@ -13,6 +13,12 @@ The First Herald (Big Box) is Black Mass's modernized take on the 1973 Rams Head
 ## Archive photo
 - **Archive status:** **No Photo Archived**
 
+## Sound
+
+The Fuzz takes advantage of a modernized tone stack and three distinct clipping modes.
+The Tone knob operates how you would expect with more bass and less treble when counter clockwise, to less bass and more treble when turned clockwise.
+All the way down, you have a full and present fuzz, but turn it up to add some of that signature midrange scoop.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

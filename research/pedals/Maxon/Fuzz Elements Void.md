@@ -61,7 +61,7 @@ Maxon's Fuzz Elements Void is cataloged as a fuzz pedal.
 Maxon Fuzz Elements Void (FV10) – Godlyke, Inc.: https://maxonfx.com/products/fuzz-elements-series-guitar-effects-pedals-void-fv10 2.
 
 ### Sources checked in this pass
-1. Maxon Fuzz Elements Void (FV10) &ndash; Godlyke, Inc.: https://maxonfx.com/products/fuzz-elements-series-guitar-effects-pedals-void-fv10
+1. Maxon Fuzz Elements Void (FV10) – Godlyke, Inc.: https://maxonfx.com/products/fuzz-elements-series-guitar-effects-pedals-void-fv10
 2. Maxon Fuzz Elements Void - tonebox.com: https://www.tonebox.com/pedal/maxon-fuzz-elements-void
 3. Maxon FV10 Fuzz Elements Void Pedal | Equipboard: https://equipboard.com/items/maxon-fv10-fuzz-elements-void
 4. Maxon FV10 Fuzz Elements Void - Reverb: https://reverb.com/p/maxon-fv10-fuzz-elements-void

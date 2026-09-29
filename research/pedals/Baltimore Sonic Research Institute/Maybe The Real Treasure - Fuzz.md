@@ -19,6 +19,10 @@ The product appears in current/secondary BSRI retail coverage alongside the buil
 - **Fuzz classification:** High.
 - **Technical details:** Unknown.
 
+## Sound
+
+The surviving exact model retail record establishes the product's fuzz role but does not provide enough reliable model specific tonal description for a deeper sonic summary.
+
 ## Sources checked
 1. Cottonwood Music Emporium BSRI collection: https://www.cottonwoodmusicemporium.com/collections/baltimore-sonic-research-institure
 

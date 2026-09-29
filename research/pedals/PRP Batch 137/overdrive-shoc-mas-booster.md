@@ -13,6 +13,12 @@
 - **Circuit note:** The Super HO and OB.D section names are reported as Cajita's own descriptions. No further circuit equivalence is asserted.
 - **Photo status:** No exact-model image promoted to the local archive in this batch. The product page is retained as the image-source page for future photo recovery.
 
+## Sound
+
+Overdrive Shoc más booster Overdrive Shoc más booster $119.000,00 3 cuotas sin interés de $39.666,67 0% de descuento pagando con No acumulable con algunas promociones Ver más detalles ¡No te lo pierdas, es el último!
+CARACTERISTICAS Control, VOL/CRCK GAIN, controla cantidad de volumen y ganancia.
+Ecualizacion, TONE HP/LP, controla el tono del pedal, el SWITCH controla el low pass o hi pass, cuantos graves recorta o deja pasar.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

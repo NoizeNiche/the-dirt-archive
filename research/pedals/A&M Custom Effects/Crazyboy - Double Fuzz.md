@@ -25,6 +25,12 @@
 ## Sound\n\nThe Crazyboy - Double Fuzz provides two distinct fuzz flavors through its Germanium/Silicon selection. The available product specification emphasizes separate Volume and Fuzz controls and a practical contrast between the two transistor types rather than a single fixed fuzz voice. [1]\n\n## Sources checked
 1. A M Custom Effects Crazyboy - Double Fuzz | Effects Database: https://www.effectsdatabase.com/model/am/crazyboy
 
+## Sound
+
+A M Custom Effects Crazyboy Double Fuzz
+At higher gain settings a lot of effects can go into overdrive or distortion.
+Volume controls the output volume of the effect Fuzz controls the amount of fuzz Footswitches A/B switches between the fuzz channels Information A&M Custom Effects CrazyBoy is Custom Hand Made,100% analog guitar double fuzz pedal.
+
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
 

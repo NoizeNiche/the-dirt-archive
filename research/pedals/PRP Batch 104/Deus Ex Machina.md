@@ -24,6 +24,12 @@ Blake Hickey's interview identifies the pedal as one of the original three Blake
 ## Archive photo
 - **Archive status:** **No Photo Archived**
 
+## Sound
+
+Guitar Pedal X News Campaign to Revive the Cult Classic Blakemore Effects Deus Ex Machina Opamp Fuzz!
+Reset Password Filter content by area of interest Amps Boost and Overdrive Delay Distortion Fuzz Guitars Modulation Pitch Reverb Utility All All Campaign to Revive the Cult Classic Blakemore Effects Deus Ex Machina Opamp Fuzz!
+During his relatively brief tenure as Blakemore Effects, he was responsible for some truly exceptional mid size fuzz boxes in particular, while his notable pedals included the Bi Polar Octadrive, Dreamsicle IC Fuzz, Deus Ex Machina Opamp Fuzz, Motor City Fuzz, Mustang Overdrive, and R.O.U.S Distortion (Rat).
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

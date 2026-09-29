@@ -14,6 +14,10 @@ The surviving indexed record does not preserve enough exact model-specific contr
 ## History
 Effects Database lists Distorto³ among BBE's 35 historical/current catalog products and classifies it as distortion.
 
+## Sound
+
+The surviving exact model source establishes the product as a distortion pedal, but the public indexed record does not preserve enough model specific sonic text for a responsible detailed tonal description.
+
 ## Sources checked
 1. Effects Database BBE catalog: https://www.effectsdatabase.com/model/bbe
 

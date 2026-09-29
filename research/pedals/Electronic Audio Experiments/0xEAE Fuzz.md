@@ -57,4 +57,4 @@ Dimensions: 6.75” x 3.5” x 2” Weight: 1.5 lbs download manual 0xEAE Fuzz T
 The 0xEAE Fuzz is our second collaboration with the design collective Obstructures and is the most dangerous gain device in our lineup to date.
 
 ### Sources checked in this pass
-1. 0xEAE Fuzz Archive &mdash; Electronic Audio Experiments: https://www.electronicaudioexperiments.com/legacy/0xeae-fuzz
+1. 0xEAE Fuzz Archive — Electronic Audio Experiments: https://www.electronicaudioexperiments.com/legacy/0xeae-fuzz

@@ -14,6 +14,12 @@ The Nazgûl MKII combines the Balrog Distortion MKII and Fellbeast Fuzz MKII as 
 ## Archive photo
 - **Archive status:** **No Photo Archived**
 
+## Sound
+
+NAZGÛL MKII {{PARALLEL}} DISTORTION AND FUZZ
+BLACKHAWK AMPLIFIERS “CHERNOBYL” PI π BASS FUZZ IS BACK!!
+“CHERNOBYL” PI π BASS FUZZ IS BACK!!
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

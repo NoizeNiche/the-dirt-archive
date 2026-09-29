@@ -23,6 +23,12 @@ The pedal uses a low-voltage 9V DC or PP3-battery format, making it distinct fro
 ## Archive photo
 - **Archive status:** **No Photo Archived**
 
+## Sound
+
+Now, for the first time, you can effectively design your own tone and finally find 'the sound in your head'.
+Controls Gain The Gain control adjusts the amount of distortion that the pedal will deliver.
+As the Gain control is increased clockwise (CW) the sound will become more distorted until, at its maximum position, an extreme metal lead tone is arrived at.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

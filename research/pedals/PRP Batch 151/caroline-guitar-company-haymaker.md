@@ -17,6 +17,12 @@
   - https://carolineguitar.com/so-what-is-the-difference-between/
   - https://www.effectsdatabase.com/model/caroline/haymaker
 
+## Sound
+
+Wave Cannon 1/Cannonball: This was the pedal that got us started in 2010, and it’s based on a classic 1970s DOD OD 250/ Proco Rat style frame: single op amp pushed really hard, hard clipping to ground, and a discrete transistor buffer between the tone and volume control.
+Haymaker: We released Haymaker in 2014 after people asked us to make the overdrive preamp from our Kilobyte® delay into its own pedal.
+Haymaker, while sharing the Ruetz inspired Shape control and a low pass filter for a tone control, can sound really different from WC1.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

@@ -16,6 +16,12 @@
   - https://carlmartin.com/products/purple-moon/
   - https://carlmartin.com/support/
 
+## Sound
+
+Toggle Menu Purple Moon A fuzz and vibe hybrid delivering rich vintage tones with psychedelic character, suited for expressive lead work.
+More details · Find a dealer Combines vintage style fuzz with classic vibe style modulation for rich, expressive tones.
+Fuzz circuit delivers organic, musical saturation with natural note bloom and chord movement.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

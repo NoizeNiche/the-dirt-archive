@@ -8,7 +8,7 @@
 
 ## What this pedal is
 
-I/O Normal TRS Quantity Decrease quantity for THE DANE MKI Increase quantity for THE DANE MKI Add to cart Description THE DANE MKI THE DANE is a creation designed to meet the exacting needs of Danish Pete.
+THE DANE MKI THE DANE is a creation designed to meet the exacting needs of Danish Pete.
 
 ## Colorways
 - No specific factory colorway information was established in the verified evidence packet.
@@ -44,7 +44,7 @@ This yields three distinct tonal variations ranging from clean boost all the way
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
 
 ### Verified description
-I/O Normal TRS Quantity Decrease quantity for THE DANE MKI Increase quantity for THE DANE MKI Add to cart Description THE DANE MKI THE DANE is a creation designed to meet the exacting needs of Danish Pete.
+THE DANE MKI THE DANE is a creation designed to meet the exacting needs of Danish Pete.
 
 ### Verified color/finish evidence
 - No specific factory colorway information was established in the verified evidence packet.

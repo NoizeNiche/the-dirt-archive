@@ -63,7 +63,7 @@ Dig in harder, and the texture thickens, introducing harmonic complexity without
 3. open prime modal: https://www.amazon.com/clp/B0G2WVZZ4N
 4. https://www.bassdirect.co.uk/product/origin-effects-bassrig-fifteen/: https://www.bassdirect.co.uk/product/origin-effects-bassrig-fifteen/
 5. Origin Effects BASSRIG Fifteen - Reverb: https://reverb.com/p/origin-effects-bassrig-fifteen
-6. Origin Effects BASSRIG Fifteen review &ndash; Ampeg B-15 tones | Guitar World: https://www.guitarworld.com/gear/effects-pedals/origin-bassrig-fifteen-review
+6. Origin Effects BASSRIG Fifteen review – Ampeg B-15 tones | Guitar World: https://www.guitarworld.com/gear/effects-pedals/origin-bassrig-fifteen-review
 7. Origin Effects BASSRIG Fifteen Owner's Manual: https://manuals.plus/m/8ed4432a43cf107351e6a4e4580d6cfdee6ac5bcff1a047264d2e43332d5b033
 8. ORIGIN EFFECTS BASSRIG FIFTEEN Definitive Studio Bass Amp Owner's Manual: https://device.report/manual/20642608
 9. BassRig Fifteen by Origin Effects | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/Origin-Effects/BassRig-Fifteen/8254990903/

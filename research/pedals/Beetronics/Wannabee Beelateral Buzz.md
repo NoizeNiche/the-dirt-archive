@@ -59,5 +59,9 @@ Beetronics describes the Bluesbreaker side as smoother and dynamic and the Klon-
 1. Beetronics — Wannabee Beelateral Buzz: https://www.beetronicsfx.com/products/wannabee-beelateral-buzz-bee-stock
 2. Beetronics — Wannabee Custom Shop examples: https://www.beetronicsfx.com/products/wannabee-beelateral-buzz-custom-shop-p-wb0031
 
+## Sound
+
+Beetronics describes the Bluesbreaker side as smoother and dynamic and the Klon style side as tighter and punchier. Series routing adds saturation, while parallel routing is intended to retain clarity, depth, and separation between the two voices.
+
 ## Photo
 - **Archive status:** **Exact Photo Pending**

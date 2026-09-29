@@ -13,6 +13,12 @@ The Ceremonial Show of Force is an all-analog discrete overdrive built from casc
 ## Archive photo
 - **Archive status:** **No Photo Archived**
 
+## Sound
+
+It relies solely on cascading transistor gain stages to create a versatile, uniquely textured, overdrive experience.
+The pedal is designed to help you acheive your perfect overdrive tone whether you use a clean or dirty amp.
+Set the bias switch to the left with the drive turned down for vintage pushed clean tones, or set it to the right with drive turned up for dirty textural modern overdrive.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

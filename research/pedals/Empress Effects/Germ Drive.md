@@ -65,7 +65,7 @@ Its tube-like break-up sounds extremely natural and will enhance your sound with
 This true bypass overdrive offers gain control, two bands of EQ and output control to fully tweak your sound.
 
 ### Sources checked in this pass
-1. Germ Drive &ndash; Empress Effects Inc.: https://empresseffects.com/products/germ-drive
+1. Germ Drive – Empress Effects Inc.: https://empresseffects.com/products/germ-drive
 2. Empress Effects Germ Drive Overdrive Pedal | Sweetwater: https://www.sweetwater.com/store/detail/EmpGermOD--empress-germ-drive-overdrive-pedal
 3. Empress Effects Germ Drive Analog Overdrive Guitar Effects Pedal | Guitar Center: https://www.guitarcenter.com/Empress-Effects/Germ-Drive-Analog-Overdrive-Guitar-Effects-Pedal-1378221680913.gc
 4. Empress Effects Germ Drive Overdrive Effect Pedal - Reverb: https://reverb.com/item/72805225-empress-effects-germ-drive-overdrive-effect-pedal

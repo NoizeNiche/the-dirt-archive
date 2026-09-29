@@ -38,6 +38,12 @@ Effects Database lists the DS-8 alongside related Biyang/Tonefancier designs. Th
 - Reverb listing: https://reverb.com/item/43042852-cordovox-ds-8-mouse-distortion-true-bypass-guitar-effect-pedal
 - Guitar Villa Cordovox catalog: https://guitar-villa.com/collections/vendors?q=Cordovox
 
+## Sound
+
+Cordovox DS 8 Mouse Distortion True Bypass Guitar Effect Pedal
+Using a combination of a high quality American chipset and classic circuitry to create a round, thick tone with lots of clarity.
+You will get a smooth and natural sound from the Normal mode, a higher output, and thicker sound can be expected from the Turbo mode, while the max mode will produce a more solid and dense tone.
+
 ## Sources checked
 1. Effects Database - Cordovox DS-8 Mouse
 2. Reverb - Cordovox DS-8 Mouse Distortion

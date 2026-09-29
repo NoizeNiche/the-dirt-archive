@@ -25,6 +25,12 @@ The LT-DUAL is a two-channel compact distortion pedal. Each channel has its own 
 ## Archive photo
 - **Archive status:** **No Photo Archived**
 
+## Sound
+
+All Blackstar products are subjected to extensive laboratory and road testing to ensure that they are truly uncompromising in terms of reliability, quality and above all TONE.
+Channel 1 lets you move from clean, to boost to overdrive.
+The unique switching operation will transform a single channel vintage amp into a three channel tone machine.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

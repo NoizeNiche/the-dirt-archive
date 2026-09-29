@@ -68,5 +68,5 @@ Documented terms in the verified sources: GERMANIUM FUZZ.
 1. Outlaw Effects The General Germanium Fuzz - Equipboard: https://equipboard.com/items/outlaw-effects-the-general-germanium-fuzz
 2. Outlaw Effects The General Germanium Fuzz Effects Pedal | Guitar Center: https://www.guitarcenter.com/Outlaw-Effects/The-General-Germanium-Fuzz-Effects-Pedal-1500000274674.gc
 3. Outlaw Effects The General Germanium Fuzz - Reverb: https://reverb.com/p/outlaw-effects-the-general-germanium-fuzz
-4. Outlaw Effects The General Germanium Fuzz Pedal &ndash; Blackout Audio: https://blackoutaudio.com/products/outlaw-effects-the-general
+4. Outlaw Effects The General Germanium Fuzz Pedal – Blackout Audio: https://blackoutaudio.com/products/outlaw-effects-the-general
 5. The General | Outlaw Effects: https://www.outlaweffects.com/thegeneral

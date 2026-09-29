@@ -16,6 +16,12 @@
 - **Research confidence:** High.
 - **Sources checked:** https://www.pedal-of-the-day.com/2016/10/06/cathouse-pedals-the-bender-fuzz/
 
+## Sound
+
+We see a lot of fuzz pedals come through the shop, and today’s pedal is another representation of how we live in a marvelous and fuzzy age.
+Having recently reviewed their Rat Fink Distortion , we were excited to check out another pedal from Cathouse Pedals, especially since this time around it was gonna be a fuzz.
+The Bender Fuzz is a seemingly simple three knob effect, but has some internal secrets and bold tones abound.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

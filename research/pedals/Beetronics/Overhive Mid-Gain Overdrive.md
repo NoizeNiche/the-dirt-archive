@@ -50,5 +50,9 @@ Beetronics describes Overhive as a warm, direct mid-gain drive with dynamic brea
 
 1. Beetronics — Overhive Mid-Gain Overdrive / Blackbee Edition: https://www.beetronicsfx.com/products/overhive-mid-gain-overdrive-the-blackbee-edition
 
+## Sound
+
+Beetronics describes Overhive as a warm, direct mid gain drive with dynamic breakup. The Body and Hive switches are intended to move the response between added low end weight, broader/fatter voicing and tighter/thinner operation.
+
 ## Photo
 - **Archive status:** **Exact Photo Pending**

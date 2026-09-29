@@ -63,5 +63,5 @@ design by Mato Misik - **Archive parent:** Ascendancy - **Builder:** KHDK Electr
 1. Ascendancy guitar pedal by KHDK with Trivium | KHDK Electronics: https://www.khdkelectronics.com/products/detail/ascendancy-by-trivium/
 2. KHDK Electronics Ascendancy by Trivium - Reverb: https://reverb.com/p/khdk-electronics-ascendancy-by-trivium
 3. KHDK Electronics Ascendancy | Matt Heafy and Corey Beaulieu of Trivium limited edition signature overdrive pedal | 78 of 333 | riccio: https://riccio.io/emporium-underground/p/khdk-ascendancy-78
-4. KHDK unveils the Ascendancy &ndash; a limited edition Trivium signature overdrive pedal | MusicRadar: https://www.musicradar.com/news/KHDK-Trivium-Ascendancy-overdrive
+4. KHDK unveils the Ascendancy – a limited edition Trivium signature overdrive pedal | MusicRadar: https://www.musicradar.com/news/KHDK-Trivium-Ascendancy-overdrive
 5. Khdk Ascendancy Overdrive Pedal - MUSENV: https://azp.wastefreeholidays.com/khdk-ascendancy-overdrive-pedal/

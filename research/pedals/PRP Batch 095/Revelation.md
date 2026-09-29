@@ -13,6 +13,12 @@ The Revelation is a stripped-down amp-pusher with Pre Gain, Gain and Volume cont
 ## Archive photo
 - **Archive status:** **No Photo Archived**
 
+## Sound
+
+Pre Gain sets the overall gain level of the device, the gain control dials in the correct amount of distortion and the volume knob absolutely slays the front end of your amp.
+Use it to push your amp into super creamy saturation, use it to boost your riffs into full and thick exaggerations of your amp’s base tone.
+The Revelation does not alter your tone, just makes MORE of it.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

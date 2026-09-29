@@ -17,6 +17,11 @@
 - **Research confidence:** High for identity, aliases, controls, AC30 lineage and published power specs; low for internal components.
 - **Sources checked:** https://www.effectsdatabase.com/model/caline/cpxx/cp56 ; https://jollymusic.com.ph/products/caline-cp-56-ac-tone-vox-style-guitar-drive-effects-pedal ; https://equipboard.com/items/caline-cp-56-ac-tone
 
+## Sound
+
+Caline CP 56 Midlander / The Mayday AC Tone
+With 6 controls for shaping EQ and overdrive response: LOW, MID, HIGH, VOL., VOICE, DRIVE.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

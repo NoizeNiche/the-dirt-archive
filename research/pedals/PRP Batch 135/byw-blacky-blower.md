@@ -19,6 +19,12 @@ The product page documents **Drive, Voice, Level, Sustain, Volume, Treble, Mid, 
 ## Construction
 BYW lists the enclosure at 119 × 93 × 30 mm. The builder says the pedal was designed to work with bass and also performs well with guitar and keyboard.
 
+## Sound
+
+That is a 6 knobs function distorsion: the basic 3 bands EQ, Treble, Mid and Bass, a Drive, a Voice and a Level.
+Because transistor pedals have only one sound and one tone, I built that pedal in order to allow diverse variations.
+You will have to fine tune it to get the tone you want.
+
 ## Sources checked
 1. BYW Audio product page: https://bywaudio.com/index.php/product/blacky-blower/
 2. TalkBass discussion documenting the pedal as the BYW Audio Blacky Blower bass distortion: https://www.talkbass.com/threads/build-your-weapon-audio-blacky-blower.1444671/

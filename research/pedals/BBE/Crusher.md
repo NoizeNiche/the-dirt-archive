@@ -26,6 +26,10 @@ Effects Database dates the product to March 6, 2006.
 ## Circuit / components
 Exact topology and semiconductor part numbers were not established.
 
+## Sound
+
+BBE's historical description positions Crusher from relatively mild crunch through very heavy distortion, with the passive three band EQ providing broad tonal shaping.
+
 ## Sources checked
 1. Effects Database: https://www.effectsdatabase.com/model/bbe/crusher
 2. BBE Sound catalog: https://www.bbesound.com/products/stomp-boxes/default.aspx

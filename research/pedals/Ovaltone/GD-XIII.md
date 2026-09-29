@@ -66,4 +66,4 @@ Ovaltone GD-XIII Drive Distortion DS08474298 - eBay: https://www.ebay.com/itm/27
 2. GD-XIII - Ovaltone -handmade effect pedals-: https://ovaltone.net/products/gd-xiii/
 3. GD-XIII — Ovaltone Overdrive Pedal | PedalFilter | PedalFilter: https://pedalfilter.com/ovaltone/gd-xiii
 4. Ovaltone GD-XIII Drive Distortion DS08474298 - eBay: https://www.ebay.com/itm/277832315339
-5. GD-XIII (Oval Tone) Distortion by Ovaltone &ndash; Ikebe Musical Instruments Store: https://global.ikebe-gakki.com/products/765293
+5. GD-XIII (Oval Tone) Distortion by Ovaltone – Ikebe Musical Instruments Store: https://global.ikebe-gakki.com/products/765293

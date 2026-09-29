@@ -10,6 +10,12 @@ Big Lloyde Overdose is a rare medium-gain overdrive/distortion pedal from around
 ## Archive photo
 - **Archive status:** **No Photo Archived**
 
+## Sound
+
+This pedal is a high gain, JFET based distortion pedal with a very raw and aggressive, yet focused, and smooth distortion.
+Very dynamic with excellent string definition.
+It has an extremely wide range on the Tone Control, from very warm and dark, without being muddy, to an extremely bright, treble boosted distortion.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

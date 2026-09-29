@@ -36,6 +36,12 @@ Do not merge Antique V3 with earlier Antique or the separate Imperium circuit. C
 - Cornerstone official Antique V3: https://www.cornerstonemusicgear.com/product/antique3/
 - Cornerstone Music Gear Japan: https://www.cornerstonemusicgear-jp.com/
 
+## Sound
+
+Cornerstone Antique V3 Overdrive Pedal
+The Antique V3 introduces a special boost section called Hot Mode , which provides both a gain boost and a volume boost, each with independent controls.
+Why You'll Love the Antique V3 Versatility: Whether you need a clean boost, a crunchy rhythm, or a soaring lead, the Antique V3 delivers with precision.
+
 ## Sources checked
 1. Cornerstone Music Gear - Antique V3
 2. Cornerstone Music Gear Japan - product catalog

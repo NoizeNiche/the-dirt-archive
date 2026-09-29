@@ -19,6 +19,10 @@ Bone Bender 1.5 is retained as a distinct historical product identity because th
 - **Fuzz family:** High.
 - **Exact 1.5 revision changes:** Unknown.
 
+## Sound
+
+The original Bone Bender is described by Effects Database as a traditional voiced germanium Vox Tone Bender style fuzz with a KILL control that can move from gain boost like behavior through splatty textures to the stock style fuzz character. Those sonic details are retained as family context only and are not presented as proof of the 1.5's exact voicing.
+
 ## Sources checked
 1. Wikiwahwah Baja Tech Custom product history: https://wahwah.fandom.com/wiki/Baja_Tech_Custom
 2. Effects Database - Bone Bender: https://www.effectsdatabase.com/model/bajatech/bonebender

@@ -27,9 +27,7 @@ Lovepedal / Love Pedal's Dover Drive is cataloged as an overdrive pedal.
 
 ## Sound
 
-TCHULA 200lbs PURPLE PLEXI ETERNITY BURST HERMIDA ZENDRIVE DOVER DRIVE AMP ELEVEN RUBBER CHICKEN HERMIDA EPH3 © All rights reserved 2026 LOVEPEDAL L.L.C.
-
-Lovepedal / Love Pedal's Dover Drive is cataloged as an overdrive pedal.
+No verified pedal-specific sonic summary is currently established in the archive.
 
 ## Sources checked
 1. Love Pedal: https://www.lovepedal.com/

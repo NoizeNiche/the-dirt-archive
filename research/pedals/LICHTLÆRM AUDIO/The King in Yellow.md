@@ -48,7 +48,7 @@ The real standout feature of the King in Yellow is its parallel loop, tho: creat
 ### Verified color/finish evidence
 - whether you're playing crushing doom, vicious black metal or anything in between - the TDW will deliver!
 - 8) Two enclosure designs To celebrate the this collaboration, we decided to offer the new Total Distortion Worship in two distinct color schemes: Classic Lichtlaerm black & gold and Cult FX's exclusive black, silver & red.
-- Color: Select Color Red//Silver Black//Gold Red//Silver Black//Gold Quantity: Add To Cart Facebook 0 Twitter Pinterest 0 About Shipping Imprint Privacy Note AGB Contact © 2025 Daniel Ringl, Lichtlaerm Audio
+Facebook 0 Twitter Pinterest 0 About Shipping Imprint Privacy Note AGB Contact © 2025 Daniel Ringl, Lichtlaerm Audio
 
 ### Verified version references
 - The evidence references: MKII, MkII.

@@ -69,9 +69,9 @@ Fairfield Circuitry Modele B Overdrive Pedal - Reverb: https://reverb.com/item/9
 Fairfield Circuitry Modele B Always-On Barbershop Overdrive Pedal
 
 ### Sources checked in this pass
-1. Modèle B - Always On Barbershop &ndash; Fairfield Circuitry: https://fairfieldcircuitry.com/products/model-b
+1. Modèle B - Always On Barbershop – Fairfield Circuitry: https://fairfieldcircuitry.com/products/model-b
 2. Fairfield Circuitry Modèle B - What To Know Where To Buy: https://equipboard.com/items/fairfield-circuitry-modele-b
-3. Fairfield Circuitry Modèle B &#8211; The Dirt Jounal: https://thedirtjounal.com/2025/03/13/fairfield-circuitry-modele-b/
+3. Fairfield Circuitry Modèle B – The Dirt Jounal: https://thedirtjounal.com/2025/03/13/fairfield-circuitry-modele-b/
 4. Fairfield Circuitry Modèle B Overdrive Pedal - Reverb: https://reverb.com/item/98051369-fairfield-circuitry-modele-b-overdrive-pedal
 5. Modèle B by Fairfield Circuitry | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/Fairfield-Circuitry/Mod8cale-B/279690302/
 6. Fairfield Circuitry Modèle B Always-On Barbershop Overdrive Pedal | Tone Wolf: https://tonewolf.com/products/fairfield-circuitry-modele-b-always-on-barbershop-pedal

@@ -62,4 +62,4 @@ The Dirt Archive currently catalogs **Leo Twelve** by **ReevesElectro** as a **O
 ReevesElectro's Leo Twelve is cataloged as an overdrive pedal.
 
 ### Sources checked in this pass
-1. All Pedals &ndash; ReevesElectro Point to Point Guitar Pedals: https://reeveselectro.co.uk/collections/pedals
+1. All Pedals – ReevesElectro Point to Point Guitar Pedals: https://reeveselectro.co.uk/collections/pedals

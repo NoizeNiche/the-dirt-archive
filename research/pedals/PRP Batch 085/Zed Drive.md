@@ -10,6 +10,11 @@ Big Knob's boutique overdrive based on the Hermida Zen Drive. A surviving Reverb
 ## Archive photo
 - **Archive status:** **No Photo Archived**
 
+## Sound
+
+Four knobs control the overall volume, gain, tone and voicing.
+While not a high gain pedal, the Zed packs some major mojo that can make even inexpensive solid state amps sound like expensive boutique models.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

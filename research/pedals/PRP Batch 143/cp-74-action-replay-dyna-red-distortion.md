@@ -16,6 +16,12 @@
   - https://reverb.com/p/caline-cp-74-action-replay-distortion
   - https://www.effects-pedals.info/p/caline-cp-74-action-replay-distortion/
 
+## Sound
+
+The 4 knob configuration gives you all the tone options needed to reproduce the famous Plexitone sound and that identifiable classic rock distortion.
+The 4 controls are: Volume, Drive, Treble and Lomid.
+The desired combination can produce a wide and dynamic sound from just above overdrive to a crunchy distortion with lots of low dirt and growl when required.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

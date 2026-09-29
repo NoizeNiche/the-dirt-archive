@@ -21,6 +21,10 @@ The Free Fuzz is a 2006-era BBE fuzz designed around a vintage silicon-transisto
 ## History
 Effects Database dates the model to March 6, 2006 and preserves a prototype marker in the historical record.
 
+## Sound
+
+BBE describes Free Fuzz as dynamic, creamy, and sustain rich, with a vintage silicon fuzz concept associated with late 1960s/1970s fuzz sounds. The archive keeps the historical inspiration as product context rather than asserting a specific vintage clone circuit without a schematic.
+
 ## Sources checked
 1. Effects Database: https://www.effectsdatabase.com/model/bbe/freefuzz
 2. BBE Sound catalog: https://www.bbesound.com/products/stomp-boxes/default.aspx

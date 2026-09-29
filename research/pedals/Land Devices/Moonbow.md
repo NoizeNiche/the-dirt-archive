@@ -55,4 +55,4 @@ Moonbow is listed as a Land Devices overdrive with resonant-filter behavior.
 **Archive parent:** Moonbow - **Builder:** Land Devices - **Catalog type:** Overdrive - **Identity:** Land Devices's Moonbow.
 
 ### Sources checked in this pass
-1. Moonbow – Resonant Filter Overdrive &ndash; Land Devices: https://landdevices.com/products/moonbow
+1. Moonbow – Resonant Filter Overdrive – Land Devices: https://landdevices.com/products/moonbow

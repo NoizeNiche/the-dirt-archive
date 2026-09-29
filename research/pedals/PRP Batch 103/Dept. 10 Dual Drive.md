@@ -31,6 +31,10 @@ Blackstar also integrates Cab Rig speaker simulation, USB recording, XLR DI, hea
 ## Archive photo
 - **Archive status:** **No Photo Archived**
 
+## Sound
+
+The Duals are perfect for use as a valve interface for recording, or to seamlessly add valve tone and drive to your pedalboard, complete with built in FX Loop.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

@@ -28,6 +28,12 @@
 It is voiced to deliver a wide and continuous range of fuzz textures, spanning aggressive, gated Velcro-style fuzz to warm, vintage fuzz tones.
 Each FZR912 Muff Fuzz Deluxe unit is individually tuned through the custom selection of component values and silicon transistors.
 
+## Sound
+
+AGR Pedals FZR912 Muff Fuzz Deluxe
+It is voiced to deliver a wide and continuous range of fuzz textures, spanning aggressive, gated Velcro style fuzz to warm, vintage fuzz tones.
+Each FZR912 Muff Fuzz Deluxe unit is individually tuned through the custom selection of component values and silicon transistors.
+
 ## Sources checked
 1. AGR Pedals FZR912 - Muff Fuzz Deluxe | Effects Database: https://www.effectsdatabase.com/model/agrpedals/fzr912
 

@@ -25,6 +25,12 @@ The pedal uses two footswitchable channel/preset settings with recessed controls
 ## Archive photo
 - **Archive status:** **No Photo Archived**
 
+## Sound
+
+• The Mosfet Overdrive is available directly from Blackstone, for $260.
+Blackstone Appliances MOSFET Overdrive 2S Pedal Review: Honest, In Depth Analysis
+It excels in low to mid gain blues, classic rock, and clean boost applications, particularly when paired with tube amps.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

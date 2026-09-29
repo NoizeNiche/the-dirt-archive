@@ -63,7 +63,7 @@ And we call them Boost pedals for a reason.
 Alongside a wealth of hot driven tones, there is a powerful boost function that delivers up to an incredible 21dB of clean boost, which can be used independently from the effect.
 
 ### Sources checked in this pass
-1. Boost Fuzz &#8211; Tech 21 NYC: https://www.tech21nyc.com/products/effects/boost-fuzz/
+1. Boost Fuzz – Tech 21 NYC: https://www.tech21nyc.com/products/effects/boost-fuzz/
 2. Tech 21 NYC Boost Fuzz Dimensions, Specs Details: https://www.stompboxgarden.com/gear/pedal/3473/tech-21-nyc-boost-fuzz
 3. Boost Fuzz (Metallic) — Tech 21 NYC Fuzz Pedal | PedalFilter | PedalFilter: https://pedalfilter.com/tech-21-nyc/boost-fuzz-metallic
 4. Tech 21 NYC Bass Boost Fuzz Pedal Effect Pedal (Barely Used): https://www.talkbass.com/classifieds/tech-21-nyc-bass-boost-fuzz-pedal-effect-pedal-barely-used.1386329/

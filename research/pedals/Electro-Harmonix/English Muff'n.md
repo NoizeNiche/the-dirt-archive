@@ -29,6 +29,12 @@ The previous record contained only a short manufacturer phrase and otherwise rel
 - **Core sections:** Gain stage and tone-control section
 - **Factory BOM:** not established in this pass
 
+## Sound
+
+The Electro Harmonix English Muff'n is a tube based preamp/overdrive design aimed at the sound of 1960s British guitar amplifier preamp and tone circuits.
+The documented circuit includes a gain stage followed by a traditional tone stack.
+The tone controls cover high, midrange, and low frequencies , giving the pedal the same broad three band tonal structure used in vintage British style preamps.
+
 ## Photo
 - **Archive photo:** No verified local photo is currently archived for English Muff'n.
 - External product imagery remains separate from archive-local photo coverage.

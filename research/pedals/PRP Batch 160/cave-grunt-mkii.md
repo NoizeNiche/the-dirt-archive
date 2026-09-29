@@ -18,6 +18,10 @@
   - https://www.effectsdatabase.com/model/cavepassive/grunt/mk2
   - https://www.talkbass.com/threads/cave-passive-pedals.808351/
 
+## Sound
+
+Not only is the Grunt MKII capable of delivering a warm, valve sounding overdrive, it can also fatten up and sustain your bass notes.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

@@ -68,7 +68,7 @@ Vemuram Karen Overdrive - What To Know & Where To Buy: https://equipboard.com/it
 ### Sources checked in this pass
 1. Vemuram Karen Overdrive - What To Know & Where To Buy: https://equipboard.com/items/vemuram-karen-overdrive
 2. Vemuram Karen Overdrive - Reverb: https://reverb.com/item/971288-vemuram-karen-overdrive
-3. Vemuram Karen &ndash; Tonefest Guitar Gallery: https://www.tonefestguitargallery.com/products/vemuram-karen
+3. Vemuram Karen – Tonefest Guitar Gallery: https://www.tonefestguitargallery.com/products/vemuram-karen
 4. 「VEMURAM Karen」ディストーションエフェクターをレビュー | 魔法の箱研究所 – エフェクターレビューサイト: https://www.efmaniac.com/vemuram-karen/
 5. VEMURAM Karen Guitar Effect Pedal Limited Edition Used - eBay: https://www.ebay.com/itm/406919037242
 6. Karen by Vemuram | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/Vemuram/Karen/68985997/

@@ -57,4 +57,4 @@ The Electronic Audio Experiments Dagger is a simplified and miniaturized iterati
 We streamlined the circuit into its core gain stages and dual band shelving EQ, for the ideal match of simplicity and flexibility.
 
 ### Sources checked in this pass
-1. Dagger &mdash; Electronic Audio Experiments: https://www.electronicaudioexperiments.com/legacy/dagger
+1. Dagger — Electronic Audio Experiments: https://www.electronicaudioexperiments.com/legacy/dagger

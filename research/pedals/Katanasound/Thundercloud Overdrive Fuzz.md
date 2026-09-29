@@ -59,6 +59,6 @@ Katanasound Thundercloud Overdrive Fuzz - Reverb: https://reverb.com/item/328313
 
 ### Sources checked in this pass
 1. Katanasound Thundercloud Overdrive Fuzz - Reverb: https://reverb.com/item/3283135-katanasound-thundercloud-overdrive-fuzz
-2. Katanasound Thundercloud Overdrive Fuzz Pedal &mdash; Andy Babiuk&#39;s Fab Gear: https://www.andybabiuksfabgear.com/whats-new-aiZQV/p/katanasound-thundercloud-overdrive-fuzz-pedal
+2. Katanasound Thundercloud Overdrive Fuzz Pedal — Andy Babiuk's Fab Gear: https://www.andybabiuksfabgear.com/whats-new-aiZQV/p/katanasound-thundercloud-overdrive-fuzz-pedal
 3. Katanasound Thundercloud Overdrive Fuzz Pedal: https://www.stringanddrum.com/product/katanasound-thundercloud-overdrive-fuzz-pedal267973/
 4. Katanasound Thundercloud Overdrive Fuzz Pedal - Gbase: https://www.gbase.com/gear/katanasound-thundercloud

@@ -15,6 +15,12 @@
 - **Sources checked:**
   - https://carlmartin.com/products/plexitone/
 
+## Sound
+
+Toggle Menu PlexiTone Dual channel Plexi style drive pedal with separate crunch and gain stages plus a dedicated boost for versatility.
+More details · Find a dealer Complete British gain platform with Crunch, High Gain, and independent clean Boost channels.
+Crunch channel delivers everything from edge of breakup to classic hard rock drive with dynamic response.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

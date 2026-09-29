@@ -19,6 +19,12 @@
   - https://catalinbread.com/collections/dirty-little
   - https://catalinbread.com/pages/manuals
 
+## Sound
+
+Catalinbread Dirty Little Secret Deluxe Drive Pedal Andertons Music Co.
+A built in footswitchable boost modeled after a clean Marshall preamp and eﬀect order switch gives you a fully customizable amp in a box experience.
+Page 3 How it’s Shipped Who doesn't love the sound of a boost circuit slamming the front end of an amp?
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

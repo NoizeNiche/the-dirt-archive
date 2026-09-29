@@ -14,6 +14,12 @@ The Fellbeast Fuzz is a very high-output fuzz built around a Baxandall tone stac
 ## Archive photo
 - **Archive status:** **No Photo Archived**
 
+## Sound
+
+BLACKHAWK AMPLIFIERS “CHERNOBYL” PI π BASS FUZZ IS BACK!!
+“CHERNOBYL” PI π BASS FUZZ IS BACK!!
+You can absolutely slam the front end of an amp the most brutal fuzz imaginable.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

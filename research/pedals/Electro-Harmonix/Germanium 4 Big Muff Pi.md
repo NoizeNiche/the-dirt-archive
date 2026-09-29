@@ -31,6 +31,12 @@ The previous record also contained a partial enclosure-spec sentence followed by
 - **Component status:** Conflicting silicon-device tag in archive evidence; universal BOM unresolved
 - **Factory schematic:** not established in this pass
 
+## Sound
+
+The Electro Harmonix Germanium 4 Big Muff Pi is a Big Muff family fuzz/overdrive with a germanium oriented product identity.
+The archive retains Fuzz / Overdrive because that is the canonical catalog classification.
+— exact model product reference.
+
 ## Photo
 - **Archive photo:** No verified local photo is currently archived for Germanium 4 Big Muff Pi.
 - External product imagery remains separate from archive-local photo coverage.

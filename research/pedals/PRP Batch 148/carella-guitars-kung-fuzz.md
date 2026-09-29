@@ -15,6 +15,12 @@
   - https://www.accordo.it/article/viewPub/85000
   - https://www.effectsdatabase.com/updates/weekly/20130520
 
+## Sound
+
+Tu produci anche degli stompbox, dagli overdrive alle modulazioni, phaser e chorus.
+Nella sezione gain, c'è qualche standard famoso a cui ti rifai?
+Il Kung Fuzz è in rifacimento rivisto del famoso Fuzz Face.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
