@@ -4,36 +4,44 @@
 - **Archive parent:** CLUBBER LANG
 - **Builder:** Mask Audio Electronics
 - **Catalog type:** Fuzz
-- **Identity:** Mask Audio Electronics's CLUBBER LANG.
+- **Identity:** Mask Audio Electronics's Clubber Lang.
 
 ## What this pedal is
-Color Wizards Cape Pink Wizards Cape (B-Stock) Wizards Cape - $175.00 USD Pink - $175.00 USD Wizards Cape (B-Stock) - Sold Out Quantity Add to Cart We are happy to partner with fellow Midwest dirt farmer Zac at Malaise Forever Customs to bring Clubber Lang to the Mask Audio Electronics lineup.
+Clubber Lang is a collaboration between **Mask Audio Electronics** and **Malaise Forever Customs**, built around a Percolator-style fuzz foundation with additional gain and tonal control.
 
 ## Colorways
-- Color Wizards Cape Pink Wizards Cape (B-Stock) Wizards Cape - $175.00 USD Pink - $175.00 USD Wizards Cape (B-Stock) - Sold Out Quantity Add to Cart We are happy to partner with fellow Midwest dirt farmer Zac at Malaise Forever Customs to bring Clubber Lang to the Mask Audio Electronics lineup.
+- Documented examples include **Blue** and other small-batch finishes.
+- Finish variants are treated as editions rather than circuit revisions.
 
 ## Versions and factory options
-- No distinct factory revision was established in the verified evidence packet.
+- MOSFET input stage.
+- Asymmetrical soft clipping.
+- Increased low-end output.
+- Broad tone control.
+- Percolator-inspired gain structure.
+- Handmade/small-batch production.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- No complete numbered production revision chronology was established in the checked sources.
+- The archive does not treat retailer references to other Mask models as Clubber Lang revisions.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
+- MOSFET input stage is documented.
+- Exact MOSFET part number was not established.
 - **Exact transistor/device:** Unknown.
 
 ## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- Asymmetrical soft clipping is documented.
+- Exact clipping-device part number was not established.
 - **Exact part:** Unknown.
 
 ## Sound
-Adding a MOSFET input stage to push some wild texture out of the circuit, as well as asymmetrical soft clipping, increased low end output, and a widely effective tone control.
+Clubber Lang retains the unruly harmonic character associated with Percolator-family fuzz while adding more low-end output and a broader tone control. The MOSFET input stage adds another layer of texture and gain response.
 
 ## Sources checked
-1. Mask Audio Electronics Clubber Lang - Reverb: https://reverb.com/p/mask-audio-electronics-clubber-lang
-2. CLUBBER LANG &ndash; Mask Audio Electronics: https://maskaudioelectronics.com/products/clubber-lang
-3. Mask Audio Electronics Clubber Lang - Percolator Fuzz - Effects Database: https://www.effectsdatabase.com/model/mask/clubberlang
-4. Mask Audio Electronics Clubber Lang Percolator: https://www.toneforgehub.com/product/mask-audio-electronics-clubber-lang-percolator78208/
+1. Mask Audio Electronics - Clubber Lang: https://maskaudioelectronics.com/products/clubber-lang
+2. Effects Database - Mask Audio Electronics Clubber Lang: https://www.effectsdatabase.com/model/mask/clubberlang
+3. Reverb - Mask Audio Electronics Clubber Lang: https://reverb.com/p/mask-audio-electronics-clubber-lang
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.

@@ -7,35 +7,36 @@
 - **Identity:** Mask Audio Electronics's BSRI x MAE | MAYBE THE REAL TREASURE.
 
 ## What this pedal is
-Maybe The Real Treasure… is a fuzz pedal for people who want ever more and louder.
+Maybe The Real Treasure... is a collaboration between **Baltimore Sonic Research Institute** and **Mask Audio Electronics**. The pedal is an intentionally excessive fuzz design that combines an early-circuit tilt EQ stage with a transformer-based processing section.
 
 ## Colorways
-- Select option Purple Hypershift Add to Cart Home FAQ About Dealers The Pasture Outlet Contact Powered by Big Cartel Products FAQ About Dealers The Pasture Outlet Contact
+- Documented examples include **Purple Hypershift**.
+- Collaboration artwork and finish variants are treated as editions.
 
 ## Versions and factory options
-- The verified evidence references: V3.
-- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+- **Texture:** early-circuit tilt EQ stage controlling the frequency balance feeding the transformer stage.
+- Collaboration design between BSRI and Mask Audio Electronics.
+- Designed for very high output and extreme fuzz textures.
+- Exact complete panel-control transcription is not asserted without a reliable factory manual.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- No complete numbered production revision chronology was established in the checked sources.
+- Collaboration and artwork editions are not treated as circuit revisions.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
+- Exact production semiconductor details were not established.
 - **Exact transistor/device:** Unknown.
 
 ## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- Exact clipping/rectifier diode information was not established.
 - **Exact part:** Unknown.
 
 ## Sound
-It is an absolute and intricate collaboration from two fuzz fanatics.
-Maybe The Real Treasure… is a fuzz pedal for people who want ever more and louder.
-Texture - Early-circuit tilt EQ stage to set the frequency balance going into the transformer stage.
+Maybe The Real Treasure is intentionally aggressive and oversized. The Texture control sets the spectral balance before the transformer stage, letting the fuzz move from thick and low-heavy toward sharper, more cutting and chaotic textures.
 
 ## Sources checked
-1. BSRI x MAE | MAYBE THE REAL TREASURE... &ndash; Mask Audio Electronics: https://maskaudioelectronics.com/products/bsri-x-mae-maybe-the-real-treasure
-2. BSRI x MAE | MAYBE THE REAL TREASURE... | BSRI Audio: https://www.bsriaudio.com/product/bsri-x-mae-maybe-the-real-treasure
-3. Baltimore Sonic Research Institute BSRI x MAE | MAYBE THE REAL TREASURE... FUZZ &quot;Free Shipping in the US&quot; - Effects & Pedals for Drive, Delay, Reverb & More: https://www.pedalbeam.com/product/baltimore-sonic-research-institute-bsri-x-mae-maybe-the-real-treasure-fuzz-free-shipping-in-the-us/
+1. Mask Audio Electronics - Maybe The Real Treasure: https://maskaudioelectronics.com/products/bsri-x-mae-maybe-the-real-treasure
+2. BSRI Audio - Maybe The Real Treasure: https://www.bsriaudio.com/product/bsri-x-mae-maybe-the-real-treasure
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.

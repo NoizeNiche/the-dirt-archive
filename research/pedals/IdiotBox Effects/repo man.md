@@ -1,43 +1,45 @@
-# IdiotBox Effects — repo man
+# IdiotBox Effects — Repo Man
 
 ## PRP identity
 - **Archive parent:** repo man
 - **Builder:** IdiotBox Effects
-- **Catalog type:** Overdrive
-- **Identity:** IdiotBox Effects's repo man.
+- **Catalog type:** Overdrive / Delay
+- **Identity:** IdiotBox Effects's Repo Man.
 
 ## What this pedal is
-Shipping MAILING LIST Contact Back to site repo man $ 139.00 Select option Select option TWO WEEK BUILD TIME Qty $ 139.00 Add to cart View cart The Repo Man is an echo running into an overdrive running into another echo.
+The Repo Man combines **two echoes with an overdrive**. IdiotBox describes the signal path as echo into overdrive into another echo, with the two delay sections behaving differently when bypassed.
 
 ## Colorways
-- IdiotBox Effects Repo Man Echo/Overdrive *NEW* (2025 - White/Blue) - 742377662725 Skip Navigation Website Accessibility jacksguitarcheology@gmail.com Like, follow or friend: @jackguitarcheology Vintage
+- Documented examples include a **White/Blue** finish.
+- Finish changes are treated as cosmetic editions.
 
 ## Versions and factory options
-- No distinct factory revision was established in the verified evidence packet.
+- **Drive:** amount of overdrive.
+- **Color:** tone shaping.
+- **Output:** overdrive output level.
+- **Space:** first echo; it cuts quickly when bypassed.
+- **Time:** second echo; its trails continue when bypassed.
+- External power.
+- IdiotBox small-batch construction.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- No complete numbered production revision chronology was established in the checked sources.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
+- Exact production semiconductor details were not established.
 - **Exact transistor/device:** Unknown.
 
 ## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- Exact clipping/rectifier diode information was not established.
 - **Exact part:** Unknown.
 
 ## Sound
-Shipping MAILING LIST Contact Back to site repo man $ 139.00 Select option Select option TWO WEEK BUILD TIME Qty $ 139.00 Add to cart View cart The Repo Man is an echo running into an overdrive running into another echo.
-DRIVE controls amount of drive, COLOR is for tone shaping, OUTPUT is amount of volume, SPACE is echo 1 (which cuts quick when bypassed) and TIME is echo 2 which trails when bypassed) Fuck this.
-(Iowa) You might also like Quick view Energizer $ 79.00 Quick view Blower Box Bass Distortion $ 139.00 Quick view Blower Box Deluxe $ 159.00 You might also like
+The Repo Man is a compound effect rather than a simple overdrive. The first echo can be used for short rhythmic or slapback-like repeats before the drive, while the second echo provides longer trails after the drive, allowing complex, saturated ambient textures.
 
 ## Sources checked
-1. repo man | IdiotBox Effects: https://www.idiotboxeffects.com/product/repo-man
-2. IdiotBox Effects Repo Man - Reverb: https://reverb.com/item/101753955-idiotbox-effects-repo-man
-3. IdiotBox Effects Repo Man Echo/Overdrive *NEW* (2025 - White/Blue) - 742377662725: https://www.jacksguitarcheology.com/shop/Effects-And-Pedals/p/IdiotBox-Effects-Repo-Man-EchoOverdrive-NEW-2025---WhiteBlue.htm
-4. Idiotbox Effects Repo Man | Fuzz: https://www.elecguitarshub.com/product/idiotbox-effects-repo-man/
-5. Idiotbox Effects Repo Man - Amp & Fret | Guitars, Amps, Pedals and ...: https://www.ampandfret.com/product/idiotbox-effects-repo-man/
-6. IdiotBox Effects Repo Man | Axe... And You Shall Receive: https://www.axeandyoushallreceive.com/product/idiotbox-effects-repo-man
+1. IdiotBox Effects - Repo Man: https://www.idiotboxeffects.com/product/repo-man
+2. Reverb - IdiotBox Repo Man: https://reverb.com/item/101753955-idiotbox-effects-repo-man
+3. Jack's Guitarcheology - Repo Man: https://www.jacksguitarcheology.com/shop/Effects-And-Pedals/p/IdiotBox-Effects-Repo-Man-EchoOverdrive-NEW-2025---WhiteBlue.htm
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.

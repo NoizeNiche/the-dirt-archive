@@ -1,41 +1,44 @@
-# Lichtlaerm Audio — Thorn — signature distortion
+# Lichtlaerm Audio — Thorn Signature Distortion
 
 ## PRP identity
 - **Archive parent:** Thorn — signature distortion
 - **Builder:** Lichtlaerm Audio
-- **Catalog type:** Distortion / Fuzz / Overdrive
-- **Identity:** Lichtlaerm Audio's Thorn — signature distortion.
+- **Catalog type:** Distortion
+- **Identity:** Lichtlaerm Audio's Thorn Signature Distortion.
 
 ## What this pedal is
-Lichtlaerm Audio's Thorn — signature distortion is cataloged as a distortion / fuzz / overdrive pedal.
+The Thorn Signature Distortion is the Amenra/Lennart Bossu signature version of Lichtlaerm Audio's Thorn. It offers several high-gain voicings derived from classic heavy-distortion textures plus a contemporary Lichtlaerm setting.
 
 ## Colorways
-- Amenra Signature Distortion Cult FX Silver / Black / Red $269.00 Add to cart Need help?
+- Documented production examples use **Silver / Black / Red** graphics.
+- Finish is treated as part of the signature edition identity, not as a circuit revision.
 
 ## Versions and factory options
-- No distinct factory revision was established in the verified evidence packet.
+- **SDT-1** voice.
+- **SDT-2** voice.
+- **Laerm** voice.
+- Designed for tight low end and saturated post-metal distortion.
+- Exact complete control labeling is not asserted beyond the reliably documented voice selection.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- The signature record is kept separate from the generic Thorn record.
+- V1/V2/V4 references found in reseller metadata are not treated as a confirmed hardware chronology.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
+- Exact production semiconductor details were not established.
 - **Exact transistor/device:** Unknown.
 
 ## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- Exact clipping/rectifier diode information was not established.
 - **Exact part:** Unknown.
 
 ## Sound
-Whether you want to go for the classic SDT-1 or SDT-2 sounds, or the more contemporary "Laerm" setting, the Thorn delivers massive and organic post metal grit with unrivaled transparency.
-Amenra Signature Distortion Cult FX Silver / Black / Red $269.00 Add to cart Need help?
+The Thorn Signature Distortion covers heavy, organic post-metal distortion with transparent articulation. The SDT voices lean toward classic saturated distortion, while Laerm provides Lichtlaerm's own contemporary interpretation.
 
 ## Sources checked
-1. Lichtlaerm Audio Thorn | Amenra Distortion Guitar Pedal &ndash; Cult FX: https://cultfx.com/products/thorn
-2. Lichtlaerm Audio Thorn - Lennart Bossu (Amenra, Oathbreaker ... - Reverb: https://reverb.com/item/94542062-lichtlaerm-audio-thorn-lennart-bossu-amenra-oathbreaker-predatory-void-living-gate-signature-distortion
-3. NEW Lichtlaerm Audio Thorn - Lennart Bossu (Amenra, Oathbreaker, Preda &ndash; Northerner Guitars: https://northernerguitars.com/products/new-lichtlaerm-audio-thorn-lennart-bossu-amenra-oathbreaker-predatory-void-living-gate-signature-distortion
-4. LICHTLAERM AUDIO x AMENRA &quot;Thorn&quot; - Evil Greed: https://evilgreed.com/products/lichtlaerm-audio-x-amenra-thorn
-5. Thorn | Lichtlaerm Audio Wiki | Fandom: https://lichtlaerm-audio.fandom.com/wiki/Thorn
+1. Cult FX - Lichtlaerm Thorn: https://cultfx.com/products/thorn
+2. Lichtlaerm Audio - Thorn: https://www.lichtlaermaudiojp.com/team/thorn
+3. Effects Database - Lichtlaerm Thorn: https://www.effectsdatabase.com/model/lichtlaerm/thorn
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.

@@ -7,37 +7,37 @@
 - **Identity:** IdiotBox Effects's Wild Kyle.
 
 ## What this pedal is
-Shipping MAILING LIST Contact Back to site Wild Kyle $ 150.00 Select option Select option TWO WEEK WEEK BUILD TIME Qty $ 150.00 Add to cart View cart The Wild Kyle is the signature distortion for Kyle Shutt guitarist for The Sword!
+The Wild Kyle is the signature distortion designed for **Kyle Shutt of The Sword**. IdiotBox describes it as a high-gain distortion with an active three-band EQ.
 
 ## Colorways
-- You might also like On sale REDRUM V2 $ 124.95 On sale Trench Cannon $ 89.95 On sale Tractor Beam $ 89.95 On sale Blackout $ 124.95 On sale RED RUM V1 $ 54.95 U.S.
+- Documented production examples include **White/Tan/Grey** and later **Gold** editions.
+- Finish changes are treated as cosmetic editions.
 
 ## Versions and factory options
-- The verified evidence references: V1, V2.
-- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+- High-gain distortion design.
+- Active three-band EQ.
+- Designed for bright, full high-gain tones.
+- Small-batch IdiotBox construction.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- The checked sources reference V1 and V2, but do not establish a complete numbered circuit history.
+- The archive therefore keeps the family relationship without assigning every reseller version label to a specific circuit revision.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
+- Exact production semiconductor details were not established.
 - **Exact transistor/device:** Unknown.
 
 ## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- Exact clipping/rectifier diode information was not established.
 - **Exact part:** Unknown.
 
 ## Sound
-Shipping MAILING LIST Contact Back to site Wild Kyle $ 150.00 Select option Select option TWO WEEK WEEK BUILD TIME Qty $ 150.00 Add to cart View cart The Wild Kyle is the signature distortion for Kyle Shutt guitarist for The Sword!
-High gain, nice and bright with an active three band EQ in all the sweet spots!
-You might also like Quick view Blower Box Bass Distortion $ 139.00 Quick view Blower Box Deluxe $ 159.00 Quick view Energizer $ 79.00 You might also like
+The Wild Kyle provides high-gain distortion with a bright character and active three-band tone shaping. It is designed to cover heavy rhythm and lead sounds while remaining flexible across different amplifier setups.
 
 ## Sources checked
-1. Wild Kyle | IdiotBox Effects: https://www.idiotboxeffects.com/product/wild-kyle
-2. IdiotBox Effects Wild Kyle Distortion - White Tan Grey - Reverb: https://reverb.com/item/102228740-idiotbox-effects-wild-kyle-distortion-white-tan-grey
-3. IdiotBox Effects Wild Kyle Distortion (Kyle Shutt Signature Model) *NEW* (2026 - Gold): https://www.jacksguitarcheology.com/shop/Effects-And-Pedals/p/IdiotBox-Effects-Wild-Kyle-Distortion-Kyle-Shutt-Signature-Model-NEW-2026---Gold.htm
-4. Wild Kyle | Boutique Doom & Heavy Metal Guitar Gear Blackjack's: https://www.blackjacksmetalgear.com/product/idiotbox-effects
-5. Idiotbox Effects Wild Kyle Signature Distortion | Axe... And You Shall Receive: https://www.axeandyoushallreceive.com/product/idiotbox-effects-wild-kyle-signature-distortion
+1. IdiotBox Effects - Wild Kyle: https://www.idiotboxeffects.com/product/wild-kyle
+2. Reverb - IdiotBox Wild Kyle: https://reverb.com/item/102228740-idiotbox-effects-wild-kyle-distortion-white-tan-grey
+3. Jack's Guitarcheology - Wild Kyle 2026 Gold: https://www.jacksguitarcheology.com/shop/Effects-And-Pedals/p/IdiotBox-Effects-Wild-Kyle-Distortion-Kyle-Shutt-Signature-Model-NEW-2026---Gold.htm
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.
