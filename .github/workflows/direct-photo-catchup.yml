@@ -78,14 +78,14 @@ jobs:
                   print(f"Skipping missing direct source: {row.get('builder')} / {row.get('pedal')}")
                   continue
 
-              dest = Path("recovery-artifacts/direct") / image_path.with_suffix(".source")
+              item_dir = Path("recovery-artifacts/direct") / str(packaged)
+              dest = item_dir / image_path.with_suffix(".source")
               dest.parent.mkdir(parents=True, exist_ok=True)
               shutil.copy2(source_path, dest)
 
               result = dict(row)
               result["imageFile"] = "./" + image_path.with_suffix(".source").as_posix()
-              result_dir = Path("recovery-artifacts/direct")
-              (result_dir / "photo-recovery-result.json").write_text(
+              (item_dir / "photo-recovery-result.json").write_text(
                   json.dumps(result, ensure_ascii=False, indent=2) + "\n",
                   encoding="utf-8",
               )
