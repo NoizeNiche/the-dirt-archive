@@ -8,6 +8,7 @@ on:
     paths:
       - research/PHOTO_FAST_KICK
       - research/PHOTO_SOURCE_OVERRIDES.csv
+      - research/PHOTO_MANUAL_REVIEW.csv
       - research/PHOTO_DIRECT_IMAGE_OVERRIDES.csv
       - research/PEDAL_IDENTITY_ALIASES.csv
       - scripts/browser-photo-cache.mjs
