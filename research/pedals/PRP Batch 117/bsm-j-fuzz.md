@@ -44,7 +44,7 @@ This pass adds only claims supported by the newly admitted exact-model evidence.
 ### Verified description
 In the early version of this fuzz box, he used transistors from the Japanese "Micro Electronics" company and BSM is proud to say, that we were able to acquire a bunch of these NOS transistors, using them exclusively for the BSM J-Fuzz.
 
-### Verified transistor/device terms
+### Verified amp references
 - AC30.
 
 ### Verified sound evidence
