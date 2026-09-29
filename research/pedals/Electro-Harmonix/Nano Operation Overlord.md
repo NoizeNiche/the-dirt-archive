@@ -3,42 +3,38 @@
 ## PRP identity
 - **Archive parent:** Nano Operation Overlord
 - **Builder:** Electro-Harmonix
-- **Catalog type:** Overdrive
+- **Catalog type:** Overdrive / Distortion
 - **Identity:** Electro-Harmonix's Nano Operation Overlord.
 
 ## What this pedal is
-Electro-Harmonix Nano Operation Overlord Overdrive/Distortion Pedal
+The Nano Operation Overlord is the compact mono version of Electro-Harmonix's Operation Overlord. It provides the same broad overdrive and distortion concept in a smaller enclosure for players who do not need stereo input/output.
 
 ## Colorways
-- BOOST BUTTON AND BLUE LED Toggles Boost mode on and off.
-- When in Boost mode, the blue LED will be lit.
+- No complete factory colorway chronology was established.
 
 ## Versions and factory options
-- No distinct factory revision was established in the verified evidence packet.
+- Mono input/output.
+- **Gain**, tone/EQ and output controls.
+- **Boost** switch with blue LED indicator.
+- Designed for guitar and bass.
+- Nano enclosure.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- The Nano is a compact mono derivative of the larger Operation Overlord rather than a separate circuit family.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
-- **Exact transistor/device:** Unknown.
+- Exact production semiconductor details were not established.
 
 ## Diode
-- Documented terms in the verified sources: LED.
-- The archive records only the component information explicitly present in these sources.
+- LED indicator is documented; exact clipping-device information was not established.
 
 ## Sound
-Allied Overdrive - Electro-Harmonix Notify Me × Get notified when this item is back in-stock.
-Get it by · Order in Notify me when in stock Notify me of updates Notify me when in stock More Details Find a Dealer Sound Clips Freedom Strat Crunch Boost On, Gain Hi Bass, Dry Blended In Menu Nano Operation Overlord
-Allied Overdrive Nano Operation Overlord quantity Find a Dealer Nano Operation Overlord DESCRIPTION A nano-sized version of the Operation Overlord with the same great overdrive and distortion tones, but in mono for those who don’t require stereo ins/outs.
+The Nano Operation Overlord provides a broad range of overdrive and distortion tones, with Boost increasing gain and output for more saturated settings.
 
 ## Sources checked
-1. Nano Operation Overlord | Allied Overdrive - Electro-Harmonix: https://www.ehx.com/products/nano-operation-overlord/
-2. Electro-Harmonix Nano Operation Overlord Allied Overdrive Pedal ...: https://www.sweetwater.com/store/detail/NanoOverlord--electro-harmonix-nano-operation-overlord-allied-overdrive-pedal
-3. open prime modal: https://www.amazon.com/clp/B07ZM6TJ5P
-4. Nano Operation Overlord | NANO OVERLORD | Electro-Harmonix: https://shop.ehx.com/item/nano%20overlord/
-5. Electro-Harmonix Nano Operation Overlord Overdrive/Distortion Pedal | Guitar Center: https://www.guitarcenter.com/Electro-Harmonix/Nano-Operation-Overlord-Overdrive-Distortion-Pedal-1500000308181.gc
-6. Electro-Harmonix Nano Operation Overlord NANO OPERATION OVERLORD: https://www.bhphotovideo.com/c/product/1520377-REG/electro_harmonix_nano_operation_overlord_overdrive.html
+1. Electro-Harmonix - Nano Operation Overlord: https://www.ehx.com/products/nano-operation-overlord/
+2. EHX shop - Nano Operation Overlord: https://shop.ehx.com/item/nano%20overlord/
+3. Reverb - Nano Operation Overlord: https://reverb.com/p/electro-harmonix-nano-operation-overlord
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.
