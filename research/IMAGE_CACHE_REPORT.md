@@ -1,12 +1,12 @@
 # Pedal Image Cache Report
 
 - Cached in this run: **0**
-- Staged browser photos converted: **0**
-- Local images retained/reorganized: **0**
+- Staged browser photos converted: **1**
+- Local images retained/reorganized: **1**
 - Cleared stale/quarantined local image references: **1**
 - Download failures: **1**
-- Remaining tracker photo backlog: **159**
-- Researched, photo pending: **159**
+- Remaining tracker photo backlog: **158**
+- Researched, photo pending: **158**
 - External source images awaiting localization: **0**
 
 ## Storage layout
@@ -17,6 +17,6 @@
 
 ## Still external / failed
 
-- MadeByMike - Fuzzy Beetle: https://www.madebymike.co.uk/pedals/fuzzy/fuzzy1.JPG: curl: (6) Could not resolve host: www.madebymike.co.uk (`https://www.madebymike.co.uk/pedals/fuzzy/fuzzy1.JPG`)
+- MadeByMike - Fuzzy Beetle: https://rvb-img.reverb.com/image/upload/s--_eiS7j05--/f_auto%2Ct_large/v1586532236/xzsudazx480uxo8slrek.jpg: curl: (22) The requested URL returned error: 401 (`https://rvb-img.reverb.com/image/upload/s--_eiS7j05--/f_auto%2Ct_large/v1586532236/xzsudazx480uxo8slrek.jpg`)
 
 These records remain externally referenced until a later cache run succeeds.

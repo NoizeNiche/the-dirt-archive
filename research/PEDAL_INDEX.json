@@ -41940,13 +41940,14 @@
       "research_record": "./research/pedals/Keeley Electronics/SUNS Ultravoid Fuzz.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://robertkeeley.com/product/suns-ultravoid-fuzz/",
+      "image_source_page": "https://www.ebay.com/itm/405388467636",
       "image_source_pages": [
-        "https://robertkeeley.com/product/suns-ultravoid-fuzz/"
+        "https://robertkeeley.com/product/suns-ultravoid-fuzz/",
+        "https://www.ebay.com/itm/405388467636"
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1392
+      "image_source_priority": 1458
     },
     {
       "company": "Keeley Electronics",
@@ -42871,13 +42872,19 @@
       "research_record": "./research/pedals/Leqtique/10/10 XXJ EVR.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://leqtique.ch/en/products/10-10-xxj-evr",
+      "image_source_page": "https://www.ebay.com/itm/800697335603",
       "image_source_pages": [
-        "https://leqtique.ch/en/products/10-10-xxj-evr"
+        "https://leqtique.ch/en/products/10-10-xxj-evr",
+        "https://www.ebay.com/itm/800697335603"
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1395
+      "image_source_priority": 1000000,
+      "image_source_url": "https://i.ebayimg.com/thumbs/images/g/1BgAAeSwMXRqsdo3/s-l500.jpg",
+      "image_source_urls": [
+        "https://i.ebayimg.com/thumbs/images/g/1BgAAeSwMXRqsdo3/s-l500.jpg"
+      ],
+      "image": "./assets/pedals/leqtique/10-10-xxj-evr/primary.webp"
     },
     {
       "company": "Leqtique",
@@ -44686,17 +44693,17 @@
       "research_record": "./research/pedals/MadeByMike/Fuzzy Beetle.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://www.madebymike.co.uk/fuzzy.shtml",
+      "image_source_page": "https://reverb.com/item/33228376-made-by-mike-fuzzy-beetle-fuzz-mid-boost-pedal-vox-conqueror-defiant-fuzz-mrb-sound",
       "image_source_pages": [
         "https://madebymike.co.uk/fuzzy.shtml",
-        "https://www.madebymike.co.uk/fuzzy.shtml"
+        "https://reverb.com/item/33228376-made-by-mike-fuzzy-beetle-fuzz-mid-boost-pedal-vox-conqueror-defiant-fuzz-mrb-sound"
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
       "image_source_priority": 1000000,
-      "image_source_url": "https://www.madebymike.co.uk/pedals/fuzzy/fuzzy1.JPG",
+      "image_source_url": "https://rvb-img.reverb.com/image/upload/s--_eiS7j05--/f_auto%2Ct_large/v1586532236/xzsudazx480uxo8slrek.jpg",
       "image_source_urls": [
-        "https://www.madebymike.co.uk/pedals/fuzzy/fuzzy1.JPG"
+        "https://rvb-img.reverb.com/image/upload/s--_eiS7j05--/f_auto%2Ct_large/v1586532236/xzsudazx480uxo8slrek.jpg"
       ]
     },
     {
@@ -45125,8 +45132,7 @@
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
       "image_source_page": "https://maskaudioelectronics.com/products/part-garden",
-      "image": "",
-      "image_source_url": "https://maskaudioelectronics.com/cdn/shop/files/20250920_092003_160x160.jpg?v=1769883161"
+      "image": ""
     },
     {
       "company": "Mask Audio Electronics",
@@ -58541,7 +58547,7 @@
       "image_source_pages": [
         "https://www.sweetwater.com/store/detail/SaucyBox--way-huge-saucy-box-overdrive-pedal"
       ],
-      "image_source_page": "https://motorcityguitar.com/products/way-huge-whe205-saucy-box-overdrive-br-pedal?variant=45058457230",
+      "image_source_page": "https://www.sweetwater.com/store/detail/SaucyBox--way-huge-saucy-box-overdrive-pedal",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
       "image_source_priority": 1449
