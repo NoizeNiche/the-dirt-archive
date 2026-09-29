@@ -310,14 +310,22 @@ function pageMatchesIdentity(entry, title, h1) {
 function isLikelyExactProductSourcePage(url) {
   try {
     const parsed = new URL(url);
-    const pathName = parsed.pathname.toLowerCase();
-    if (/\/(?:item|product|products|model|models|pedal|pedals|effects|effect|gear|stompbox|stompboxes)\b/.test(pathName)) {
-      return true;
-    }
-    if (/\/(?:shop|store|catalog|catalogue|shopify|bigcartel)\b/.test(pathName)) {
-      return true;
-    }
-    return !/\/(?:news|blog|article|articles|guide|guides|roundup|review|reviews|best-of|best\b)/.test(pathName);
+    const pathName = parsed.pathname.replace(/^\/+|\/+$/g, '').toLowerCase();
+
+    if (isGenericSourcePage(url)) return false;
+
+    const parts = pathName.split('/').filter(Boolean);
+    const productRoots = new Set([
+      'item', 'product', 'products', 'model', 'models',
+      'pedal', 'pedals', 'effects', 'effect', 'gear',
+      'stompbox', 'stompboxes'
+    ]);
+
+    if (parts.some(part => productRoots.has(part))) return true;
+
+    return !parts.some(part =>
+      new Set(['news','blog','article','articles','guide','guides','roundup','review','reviews','best-of','best']).has(part)
+    );
   } catch {
     return false;
   }
@@ -434,12 +442,36 @@ function isGenericSourcePage(url) {
   try {
     const parsed = new URL(url);
     const host = parsed.hostname.toLowerCase();
-    const pathName = parsed.pathname.toLowerCase();
-    if (/(^|\\.)reverb\\.com$/i.test(host) && /^\\/?$/.test(pathName)) return true;
-    if (host.includes('effectsdatabase.com') &&
-        /\\/(?:type|taxonomy|tag|category|brands?|search|blog|news|articles?)\\b/i.test(pathName)) return true;
-    if (/(?:^|\\/)(?:search|results|archive|archives)(?:[/?]|$)/i.test(pathName)) return true;
-    if (/(?:^|\\/)(?:blog|news|article|articles|review|reviews|guide|guides)(?:[/?]|$)/i.test(pathName)) return true;
+    const pathName = parsed.pathname.replace(/^\/+|\/+$/g, '').toLowerCase();
+    const parts = pathName.split('/').filter(Boolean);
+
+    const isReverb = host === 'reverb.com' || host.endsWith('.reverb.com');
+    if (isReverb && !parts.includes('item')) return true;
+
+    if (host.includes('effectsdatabase.com')) {
+      if (parts[0] === 'model' && parts.length <= 2) return true;
+      const genericEffectsSegments = new Set([
+        'type', 'taxonomy', 'tag', 'category', 'categories',
+        'brand', 'brands', 'search', 'blog', 'news', 'articles'
+      ]);
+      if (parts.some(part => genericEffectsSegments.has(part))) return true;
+    }
+
+    const genericSegments = new Set([
+      'search', 'results', 'archive', 'archives',
+      'devices', 'legacy', 'collections', 'collection',
+      'all-pedals', 'all-pedals-1', 'all-products',
+      'catalog', 'catalogue', 'shop', 'store',
+      'categories', 'brands'
+    ]);
+    if (parts.some(part => genericSegments.has(part))) return true;
+
+    const articleSegments = new Set([
+      'blog', 'news', 'article', 'articles',
+      'review', 'reviews', 'guide', 'guides'
+    ]);
+    if (parts.some(part => articleSegments.has(part))) return true;
+
     return false;
   } catch {
     return true;
@@ -1351,7 +1383,7 @@ async function effectsDatabaseFeedImageUrls(page, pageUrl) {
       const parsed = new URL(pageUrl);
       if (/([.]|^)effectsdatabase[.]com$/i.test(parsed.hostname) && /^\/model\//i.test(parsed.pathname)) {
         const suffix = parsed.pathname.slice('/model/'.length).replace(/\/+$/, '');
-        const legacySlug = suffix.replace(/\\//g, '_').replace(/[^a-z0-9._-]+/gi, '_').replace(/^_+|_+$/g, '');
+        const legacySlug = suffix.replaceAll('/', '_').replace(/[^a-z0-9._-]+/gi, '_').replace(/^_+|_+$/g, '');
         if (legacySlug) {
           // Effects Database's legacy files use multiple deterministic slug forms.
           // CBS/Arbiter records can be stored as "arbiter-cbs_model_001" while the
