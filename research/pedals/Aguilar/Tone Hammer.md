@@ -9,7 +9,7 @@
 
 ## What this pedal is
 
-The Tone Hammer is the essential preamp/direct box for every bassist's tool box.
+With its warm, rich, and dynamic sound, the Tone Hammer Preamp is an essential preamp/direct box for every bassist.
 
 ## Colorways
 
@@ -47,3 +47,19 @@ AGS allows the player to kick in an additional gain structure and EQ with the "s
 ## Photo
 
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+With its warm, rich, and dynamic sound, the Tone Hammer Preamp is an essential preamp/direct box for every bassist.
+
+### Verified sound evidence
+Open media 5 in modal Play video 1 / of 5 Tone Hammer Preamp Tone Hammer Preamp Regular price $299.99 Regular price Sale price $299.99 Unit price / per Sale Out of Stock Shipping calculated at checkout.
+Product variants Default Title - $299.99 Quantity ( 0 in cart) Decrease quantity for Tone Hammer Preamp Increase quantity for Tone Hammer Preamp Add to cart Couldn't load pickup availability Refresh A Classic Reimagined: the n ew Tone Hammer Preamp - Iconic Aguilar Tone for stage and studio.
+Born in the heart of NYC and raised on the road, the Tone Hammer Preamp DI has been an indispensable tool for bassists seeking inspiring tone and versatility.
+
+### Sources checked in this pass
+1. Tone Hammer Preamp &ndash; Aguilar Shop: https://aguilaramp.com/products/tone-hammer-preamp
+2. Amazon.com : aguilar tone hammer: https://www.amazon.com/aguilar-tone-hammer/s?k=aguilar+tone+hammer

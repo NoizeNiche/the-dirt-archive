@@ -1,6 +1,8 @@
 {
   "builder": "B85 Audio",
   "pedal": "Germanium Overdrive Deluxe",
+  "original_builder": "B85 Audio",
+  "original_pedal": "Germanium Overdrive Deluxe",
   "status": "VERIFIED_EVIDENCE_STAGED",
   "independent_exact_source_count": 1,
   "sources": [

@@ -72,3 +72,19 @@ B85 Audio's current Gut Ripper listing was checked directly. It confirms the Tri
 
 - **Archive status:** **No Photo Archived**
 - **Exact-model reference checked:** B85 Audio exact-model page.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Sonically, Gut Ripper is inspired by modern high-gain amplifiers such as the Mesa Boogie Dual Rectifier and the Peavey 5150.
+
+### Verified sound evidence
+Mezi hlavni upravy patri navyseni gainu a pridani bufferu na konci distortion sekce, ktery celkove posiluje a zpevnuje vysledny zvuk.
+Zvukove je Gut Ripper inspirovan modernimi high-gain zesilovaci typu Mesa Boogie Dual Rectifier nebo Peavey 5150.
+Kombinace ovladacich prvku poskytuje sirokou skalu zvuku od klasickeho hi-gain distortionu az po extremne saturovane moderni tony.
+
+### Sources checked in this pass
+1. Gut Ripper - B85 audio: https://www.b85audio.cz/gut-ripper/
+2. B85 Audio Gut Ripper | Effects Database: https://www.effectsdatabase.com/model/b85/gutripper

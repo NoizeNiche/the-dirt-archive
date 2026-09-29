@@ -68,3 +68,19 @@ The B85 Audio product page was checked directly and provides the exact control s
 
 - **Archive status:** **No Photo Archived**
 - **Exact-model reference checked:** B85 Audio exact-model page.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Germanium Overdrive Published on January 24, 2025 B85 Audio overdrive pedal Information B85 Audio B85 audio Germanium overdrive is a floor effect based on the connection of the Tube Screamer 808 with an added two-band equalizer and a pair of germanium diodes.
+
+### Verified sound evidence
+Germanium Overdrive Published on January 24, 2025 B85 Audio overdrive pedal Information B85 Audio B85 audio Germanium overdrive is a floor effect based on the connection of the Tube Screamer 808 with an added two-band equalizer and a pair of germanium diodes.
+The Overdrive has the classic Level controls for volume adjustment, Bass for bass adjustment (+/- 15 dB at 85 Hz), Treble for treble adjustment (+/- 15 dB at 8800 Hz) and Drive for distortion level adjustment.
+Overdrive can be powered by a 9V battery or an adapter from 9 to 12 V DC, for use with a bass guitar, I recommend powering with 12V.
+
+### Sources checked in this pass
+1. B85 Audio Germanium Overdrive | Effects Database: https://www.effectsdatabase.com/model/b85/overdrive/germanium
+2. B85 Audio - Kompletuji. #b85audio #germaniumoverdrive...: https://www.facebook.com/B85audio/posts/kompletuji-b85audio-germaniumoverdrive-basspedals-bassguitar-bassoverdrive-germa/295369492439022/

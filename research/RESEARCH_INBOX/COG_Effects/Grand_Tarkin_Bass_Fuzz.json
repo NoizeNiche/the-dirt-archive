@@ -1,0 +1,27 @@
+{
+  "builder": "COG Effects",
+  "pedal": "Grand Tarkin Bass Fuzz",
+  "original_builder": "COG Effects",
+  "original_pedal": "Grand Tarkin Bass Fuzz",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 2,
+  "sources": [
+    {
+      "url": "https://www.effectsdatabase.com/model/cog/tarkin/grand",
+      "title": "Cog Effects Grand Tarkin - Bass Fuzz | Effects Database",
+      "h1": "Cog Effects Grand Tarkin - Bass Fuzz",
+      "excerpt": "Grand Tarkin Bass Fuzz - BASS Demo 9:26 2013-07-18 hamfistUK COG Effects custom Tarkin fuzz demo - on Bass 7:14 Reviews myFXDB user reviews No reviews yet + Add your review Links Cog Effects Cog Effects Grand Tarkin - Bass Fuzz Related Electro-Harmonix Axis Manlay Sound XS Fuzz Electro-Harmonix Big Muff Pi L",
+      "host": "www.effectsdatabase.com",
+      "source_kind": "effects_database"
+    },
+    {
+      "url": "https://www.cogeffects.co.uk/discontinued-pedals.php",
+      "title": "COG Effects",
+      "h1": "COG Effects",
+      "excerpt": "COG Effects Home Stock Pedals Custom Shop Before You Buy Contact Us R-1 T-16 Octave T-47 Octave T-65 Octave T-70 Octave Tarkin Fuzz Grand Tarkin Bass Fuzz Mini 66 Overdrive Knightfall 66 Overdrive COG Effects Discontinued Pedals These are our older models, please contact us if you need further details. Tarkin Fuzz - replaced by updated model Grand Tarkin - replaced by updated model Knightfall Distortion - replaced by Mini 66 Dual Knightfall Distortion - replaced by Knightfall 66 TK-421 Distortion - MK2 version coming soon.... TK-421-X Distortion - MK2 version coming soon.... Darklighter Overdrive - MK2 version coming soon.... T-65 Analogue Octave - replaced by updated version Make a free website with Yola",
+      "host": "www.cogeffects.co.uk",
+      "source_kind": "manufacturer"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}
