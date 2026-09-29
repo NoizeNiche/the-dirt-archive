@@ -7,55 +7,39 @@
 - **Identity:** Electro-Harmonix's Soul Food.
 
 ## What this pedal is
-A believer in bringing great tools to starving musicians, Mike tasked his trusty team to create an affordable alternative, and that is how the EHX Soul Food Transparent Overdrive was cooked up.
+The Soul Food is EHX's affordable transparent overdrive and clean boost built around the Klon-style boost/overdrive concept. It is intended to preserve the character of the guitar and amplifier while adding gain and output.
 
 ## Colorways
-- No specific factory colorway information was established in the verified evidence packet.
+- The documented production enclosure is **cream**.
+- No complete finish chronology was established.
 
 ## Versions and factory options
-- No distinct factory revision was established in the verified evidence packet.
+- **Volume**
+- **Drive**
+- **Treble**
+- Buffered bypass.
+- Internal charge pump for higher internal operating voltage.
+- Standard 9V battery/DC power.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- Soul Food is a distinct model from the Bass Soul Food.
+- The archive does not merge Bass Soul Food's low-frequency voicing changes into this standard model.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
+- Exact production semiconductor details were not established in the checked sources.
 - **Exact transistor/device:** Unknown.
 
 ## Diode
-- Documented terms in the verified sources: LED.
-- The archive records only the component information explicitly present in these sources.
+- Exact clipping-diode details were not established.
+- **Exact part:** Unknown.
 
 ## Sound
-Transparent Overdrive | New Low Price!
-Transparent overdrive with great touch and response!
-Tone aficionados kept telling Mike Matthews about a pedal that had achieved a lot of buzz because it was only obtainable at an exorbitant price.
+Soul Food is designed for clean boost, low-gain overdrive, and thicker drive at higher settings. EHX positions it as a responsive, transparent alternative to heavily mid-focused overdrive circuits.
 
 ## Sources checked
-1. Soul Food | Transparent Overdrive | New Low Price! - Electro-Harmonix: https://www.ehx.com/products/soul-food/
-2. Soul Food Transparent Distortion / Fuzz / Overdrive | SOULFOOD | Electro-Harmonix: https://shop.ehx.com/item/soulfood/
+1. Electro-Harmonix - Soul Food: https://www.ehx.com/products/soul-food/
+2. Electro-Harmonix shop - SOULFOOD: https://shop.ehx.com/item/soulfood/
+3. Premier Guitar - EHX Soul Food review: https://www.premierguitar.com/gear/electro-harmonix-soul-food-review
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
-
-## Deep research verification
-
-This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
-
-### Verified description
-A believer in bringing great tools to starving musicians, Mike tasked his trusty team to create an affordable alternative, and that is how the EHX Soul Food Transparent Overdrive was cooked up.
-
-### Verified diode terms
-- LED.
-
-### Verified sound evidence
-Transparent overdrive with great touch and response!
-Get it by · Order in Notify me when in stock Notify me of updates Notify me when in stock More Details Find a Dealer Sound Clips Light Crunch Gain Mike's Favorite Tone Gain Maxed Menu Soul Food
-Tone aficionados kept telling Mike Matthews about a pedal that had achieved a lot of buzz because it was only obtainable at an exorbitant price.
-
-### Sources checked in this pass
-1. Soul Food | Transparent Overdrive | New Low Price! - Electro-Harmonix: https://www.ehx.com/products/soul-food/
-2. Soul Food Transparent Distortion / Fuzz / Overdrive | SOULFOOD | Electro-Harmonix: https://shop.ehx.com/item/soulfood/
-3. catalog/override source: https://reverb.com/item/94817718-electro-harmonix-soul-food-transparent-overdrive-2013-present-cream
-4. Electro-Harmonix Soul Food Review - Premier Guitar: https://www.premierguitar.com/gear/electro-harmonix-soul-food-review
-5. Review: Electro-Harmonix Hot Tubes Overdrive, Nano Big Muff π and Soul Food Pedals | Guitar World: https://www.guitarworld.com/magazine/review-electro-harmonix-hot-tubes-overdrive-nano-big-muff-p
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.

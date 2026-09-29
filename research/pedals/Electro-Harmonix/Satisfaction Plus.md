@@ -7,36 +7,35 @@
 - **Identity:** Electro-Harmonix's Satisfaction Plus.
 
 ## What this pedal is
-Fuzz Satisfaction Plus quantity Find a Dealer Satisfaction Plus DESCRIPTION Expanding on our first homage to the tone that launched a thousand riffs, the EHX Satisfaction Plus delivers a wide palette of tones from classic ‘60s snarl to creamy lead tone to thick, earth-shaking sludge!
+The Satisfaction Plus is EHX's expanded take on its Satisfaction fuzz. EHX describes it as covering a broad range from classic 1960s-style snarl through creamy lead tones and thick, heavy fuzz.
 
 ## Colorways
-- No specific factory colorway information was established in the verified evidence packet.
+- No complete factory finish chronology was established in the checked sources.
 
 ## Versions and factory options
-- No distinct factory revision was established in the verified evidence packet.
+- Expanded fuzz design with additional bias and tone shaping compared with the simpler Satisfaction model.
+- The checked EHX sound material documents **Normal** and **Fat** operating modes.
+- Standard 9V DC pedal power.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- Satisfaction Plus is treated as a distinct model from the original Satisfaction Fuzz.
+- No complete numbered production revision chronology was established.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
+- Exact production semiconductor details were not established in the checked sources.
 - **Exact transistor/device:** Unknown.
 
 ## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- Exact clipping/rectifier diode information was not established.
 - **Exact part:** Unknown.
 
 ## Sound
-Fuzz - Electro-Harmonix Notify Me × Get notified when this item is back in-stock.
-Get it by · Order in Notify me when in stock Notify me of updates Notify me when in stock More Details Find a Dealer Sound Clips 60s Stones to Sludgy Stoner Normal Mode with Bias Snarl Throaty Fat Mode Slide Fuzz Stinging Treble Booster Tone Creamy Lead Tone Bias Knob Singing Sweet Spot Menu Satisfaction Plus
-Fuzz Satisfaction Plus quantity Find a Dealer Satisfaction Plus DESCRIPTION Expanding on our first homage to the tone that launched a thousand riffs, the EHX Satisfaction Plus delivers a wide palette of tones from classic ‘60s snarl to creamy lead tone to thick, earth-shaking sludge!
+The Satisfaction Plus ranges from sharp, vintage-style fuzz through fuller and thicker settings. Its added bias and tone controls make it more adjustable than the original compact Satisfaction design.
 
 ## Sources checked
-1. Satisfaction Plus | Fuzz - Electro-Harmonix: https://www.ehx.com/products/satisfaction-plus/
-2. Electro-Harmonix Satisfaction Plus Fuzz Pedal | Sweetwater: https://www.sweetwater.com/store/detail/SatFuzzPlus--electro-harmonix-satisfaction-plus-fuzz-pedal
-3. Satisfaction Plus Fuzz | SAT+ | Electro-Harmonix: https://shop.ehx.com/item/sat+
-4. Electro-Harmonix Satisfaction Plus — Fuzz Pedal | Equipboard: https://equipboard.com/items/electro-harmonix-satisfaction-plus-fuzz-pedal
-5. Electro-Harmonix Satisfaction Plus Fuzz - Reverb: https://reverb.com/p/electro-harmonix-satisfaction-plus-fuzz
+1. Electro-Harmonix - Satisfaction Plus: https://www.ehx.com/products/satisfaction-plus/
+2. Sweetwater - Satisfaction Plus: https://www.sweetwater.com/store/detail/SatFuzzPlus--electro-harmonix-satisfaction-plus-fuzz-pedal
+3. Reverb - Satisfaction Plus: https://reverb.com/p/electro-harmonix-satisfaction-plus-fuzz
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.
