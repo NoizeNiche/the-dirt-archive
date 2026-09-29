@@ -21,7 +21,7 @@ This pass adds only claims supported by the newly admitted exact-model evidence.
 ### Verified description
 Cajita Stompboxes's TS09 TS08 Overdrive Tube Screamer is cataloged as an overdrive pedal.
 
-### Verified transistor/device terms
+### Verified amp references
 - ac30.
 
 ### Verified sound evidence
