@@ -84,9 +84,38 @@ function renderPageNav(items,currentItem=null){
     }).join('');
 }
 
+function decodeResearchEntities(value){
+  return String(value||'')
+    .replace(/&ndash;|&mdash;/gi,'—')
+    .replace(/&nbsp;/gi,' ')
+    .replace(/&quot;/gi,'"')
+    .replace(/&#39;|&#x27;/gi,"'")
+    .replace(/&amp;/gi,'&')
+    .replace(/&lt;/gi,'<')
+    .replace(/&gt;/gi,'>');
+}
+
+function isResearchSourceCitation(line){
+  return /^\s*\d+\.\s+.+https?:\/\//i.test(String(line||''));
+}
+
+function isObviousScrapeResidue(line){
+  const value=String(line||'');
+  const lower=value.toLowerCase();
+  if(/skip to (?:main )?content/.test(lower))return true;
+  if(/var\s+productimageandprice|mmmenus?trings|data-rte-preserve-empty|\\<\\\/?(?:p|div|span|strong|em)\b|["']variants["']\s*:\s*\[/i.test(value))return true;
+  if(/home\s*\/\s*blog\s*\/|home\s+blog\s+categories\s+authors\s+about/.test(lower))return true;
+  if(/country\/region\s+[^|]+\|\s*(?:usd|cad|eur|gbp|aud|jpy|cny)\b/i.test(value))return true;
+  if(/(?:regular price\s*[$€£]|shipping calculated at checkout|add to cart|shopping cart|buy now)/i.test(value))return true;
+  if(value.length>1800 && /\b(?:home|search|login|log in|menu|categories|brands|shop by|related tags|related brands)\b/i.test(value))return true;
+  return false;
+}
+
 function renderMarkdown(md){
-  const lines=md.split(/\r?\n/);
-  const hidden=new Set(['research confidence','photo','prp identity','sources checked','sources']);
+  const rawLines=String(md||'').split(/\r?\n/);
+  const lines=rawLines.map(line=>isResearchSourceCitation(line)?decodeResearchEntities(line):decodeResearchEntities(line))
+    .filter(line=>!isObviousScrapeResidue(line));
+  const hidden=new Set(['research confidence','photo','prp identity','sources checked','sources','deep research verification']);
   let html='',inList=false,skip=false;
   const inline=s=>{
     let value=esc(s)
@@ -128,7 +157,7 @@ function renderMarkdown(md){
     if(/^# /.test(line)){if(inList){html+='</ul>';inList=false}continue}
     if(/^- /.test(line)){
       const listText=line.slice(2).trim().toLowerCase();
-      if(listText.startsWith('**research confidence:**') || listText.startsWith('**sources checked:**')) continue;
+      if(listText.startsWith('**research confidence:**') || listText.startsWith('**sources checked:**'))continue;
       if(!inList){html+='<ul>';inList=true}
       html+='<li>'+inline(line.slice(2))+'</li>';
       continue
