@@ -4,34 +4,40 @@
 - **Archive parent:** Big Green Pi
 - **Builder:** ARC Effects
 - **Catalog type:** Fuzz
-- **Identity:** ARC Effects's Big Green Pi.
+- **Identity:** ARC Effects Big Green Pi.
 
 ## What this pedal is
-On top of everything under the hood the Big Green Pi is housed in a completely custom folded steel enclosure making it an absolute one of a kind with unmatched durability!
+The ARC Effects Big Green Pi is a fuzz based on the **Sovtek Tall Font Green Russian Muff**. ARC describes the design as built from measurements and testing of real Tall Font units, with additional internal controls for mid voicing and diode-lift operation.
 
 ## Colorways
-- On top of everything under the hood the Big Green Pi is housed in a completely custom folded steel enclosure making it an absolute one of a kind with unmatched durability!
+- The documented Big Green Pi uses a custom folded-steel enclosure.
+- No complete factory colorway chronology was established.
 
 ## Versions and factory options
-- The verified evidence references: V2.
-- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+- Internal mid-voicing options: stock scooped and flat.
+- Internal diode-lift option.
+- True bypass.
+- Top-mounted jacks.
+- DC power with an internal battery cradle.
+- The checked record references a V2 designation, but a complete revision history was not established.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- No complete dated revision chronology was established for the V2 designation.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
+- Exact production transistor/device information was not established.
 - **Exact transistor/device:** Unknown.
 
 ## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- ARC documents a diode-lift option but does not establish the exact production clipping diode part.
 - **Exact part:** Unknown.
 
 ## Sound
-A new take on the classic "S" Tall Font Green Russian Distortion that's based on a few poked and prodded real deal Tall Fonts.
+The Big Green Pi targets the sound and response of the Tall Font Green Russian Muff family, with additional mid-voicing and diode-lift options. It was designed to work with both guitar and bass.
 
 ## Sources checked
-1. Big Green OG — ARC Effects: https://www.arceffects.com/big-green-1/
+1. ARC Effects - Big Green Pi / Big Green: https://www.arceffects.com/big-green-1/
+2. Effects Database - ARC Effects Big Green Pi: https://www.effectsdatabase.com/model/arceffects/biggreenpi
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Exact photo pending.

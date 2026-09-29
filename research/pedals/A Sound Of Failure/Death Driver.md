@@ -4,35 +4,35 @@
 - **Archive parent:** Death Driver
 - **Builder:** A Sound Of Failure
 - **Catalog type:** Overdrive
-- **Identity:** A Sound Of Failure's Death Driver.
+- **Identity:** A Sound Of Failure Death Driver.
 
 ## What this pedal is
-A Sound Of Failure browse by type volume/amplification amplification preamp / clean boost browse by type distortion/fuzz/overdrive overdrive browse by enclosure pedal A Sound Of Failure Death Driver Published on December 2, 2023 A Sound Of Failure boost / preamp overdrive pedal Information A Sound Of Failure Inspired by vintage consumer hifi and PA units pushed to their limits, the DEATHDRIVER uses a single transistor to boost and saturate your signal.
+Effects Database documents the Death Driver as an overdrive / boost-preamp pedal inspired by vintage consumer hi-fi and PA equipment pushed toward saturation. The source specifically describes a **single-transistor** design used to boost and saturate the guitar signal.
 
 ## Colorways
-- No specific factory colorway information was established in the verified evidence packet.
+- No model-specific factory colorway history was established in the checked source.
 
 ## Versions and factory options
-- No distinct factory revision was established in the verified evidence packet.
+- No numbered production revision was established.
+- No separate factory version was documented in the checked source.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- No dated hardware revision chronology was established.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
-- **Exact transistor/device:** Unknown.
+- **Topology:** Single-transistor boost/saturation stage is documented.
+- **Exact transistor part number:** Unknown.
 
 ## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- Exact clipping/rectifier diode information was not established.
 - **Exact part:** Unknown.
 
 ## Sound
-A Sound Of Failure Death Driver | Effects Database Skip to navigation Brands &#9660; 0-9...
-Effect types &#9660; boost distortion fuzz overdrive acoustic simulation amp simulation speaker/cabinet simulation chorus flanger phaser tremolo vibe vibrato other modulation pitch shifter octaver delay reverb looper/sampler hold/freeze eq filter wah fuzz-wah bitcrusher ring modulator samplerate reducer wavefolder synth effect granular effect multi effect vocal effect talkbox vocoder buffer compressor other...
-A Sound Of Failure browse by type volume/amplification amplification preamp / clean boost browse by type distortion/fuzz/overdrive overdrive browse by enclosure pedal A Sound Of Failure Death Driver Published on December 2, 2023 A Sound Of Failure boost / preamp overdrive pedal Information A Sound Of Failure Inspired by vintage consumer hifi and PA units pushed to their limits, the DEATHDRIVER uses a single transistor to boost and saturate your signal.
+The Death Driver is intended to push a guitar signal into boost and saturation rather than provide a conventional multi-knob distortion palette. The surviving model description specifically frames it around vintage consumer hi-fi and PA gear driven hard.
 
 ## Sources checked
 1. A Sound Of Failure Death Driver | Effects Database: https://www.effectsdatabase.com/model/soundoffailure/deathdriver
+2. Effects Database weekly overview, December 4, 2023: https://www.effectsdatabase.com/updates/weekly/20231204
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Exact photo pending.
