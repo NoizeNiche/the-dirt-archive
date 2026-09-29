@@ -23,6 +23,7 @@ MANIFEST_PATH = ROOT / "research/pedals/PEDAL_IMAGES.json"
 REPORT_PATH = ROOT / "research/IMAGE_CACHE_REPORT.md"
 TRACKER_PATH = ROOT / "research/PRP_TRACKER.csv"
 PHOTO_SOURCE_BLOCKLIST = ROOT / "research/PHOTO_SOURCE_BLOCKLIST.json"
+PHOTO_HASH_QUARANTINE = ROOT / "research/PHOTO_HASH_QUARANTINE.csv"
 ASSET_ROOT = ROOT / "assets/pedals"
 MAX_BYTES = 25 * 1024 * 1024
 TARGET_BUILDER = os.environ.get("PHOTO_CACHE_TARGET_BUILDER", "").strip()
@@ -30,6 +31,7 @@ TARGET_PEDAL = os.environ.get("PHOTO_CACHE_TARGET_PEDAL", "").strip()
 MANIFEST_OWNERS = {}
 PHOTO_BLOCK_PATTERNS = []
 MANUAL_VERIFIED_PHOTOS = set()
+HARD_QUARANTINED_PHOTOS = set()
 RESEARCHED_PHOTO_PENDING_KEYS = set()
 
 
@@ -91,6 +93,32 @@ def blocked_photo_url(value):
 
 def key(builder, pedal):
     return f"{builder}\0{pedal}"
+
+def load_hard_quarantined_photos():
+    global HARD_QUARANTINED_PHOTOS
+    rows = []
+    try:
+        with PHOTO_HASH_QUARANTINE.open(newline="", encoding="utf-8") as handle:
+            rows = list(csv.DictReader(handle))
+    except Exception:
+        HARD_QUARANTINED_PHOTOS = set()
+        return
+
+    builders_by_hash = {}
+    for row in rows:
+        digest = str(row.get("Blob SHA256") or "").strip()
+        builder = str(row.get("Builder") or "").strip()
+        if digest and builder:
+            builders_by_hash.setdefault(digest, set()).add(builder)
+
+    HARD_QUARANTINED_PHOTOS = set()
+    for row in rows:
+        digest = str(row.get("Blob SHA256") or "").strip()
+        builder = str(row.get("Builder") or "").strip()
+        pedal = str(row.get("Pedal") or "").strip()
+        if digest and builder and pedal and len(builders_by_hash.get(digest, set())) > 1:
+            HARD_QUARANTINED_PHOTOS.add(key(builder, pedal))
+
 
 def load_manual_verified_photos():
     global MANUAL_VERIFIED_PHOTOS
@@ -303,6 +331,27 @@ def cache_entry_prepare(entry):
     target = target_path(entry)
     target.parent.mkdir(parents=True, exist_ok=True)
 
+    entry_key = key(builder, pedal)
+
+    # A hard-quarantined image that is not manually verified is never allowed
+    # to resurrect from an old local file while the tracker is photo-pending.
+    # This prevents sync-prp-tracker.py from turning a known-collision asset
+    # back into Picture=DONE merely because the stale file still exists.
+    if (
+        target.exists()
+        and entry_key in HARD_QUARANTINED_PHOTOS
+        and entry_key not in MANUAL_VERIFIED_PHOTOS
+        and entry_key in RESEARCHED_PHOTO_PENDING_KEYS
+    ):
+        for candidate in (target, target.with_suffix(".source")):
+            try:
+                if candidate.exists() and candidate.is_file():
+                    candidate.unlink()
+                    print(f"Removed quarantined local photo awaiting manual verification: {candidate}")
+            except OSError:
+                pass
+        return ("skip", entry, None, None)
+
     # A prior browser-recovery pass may already have converted the staged
     # source into the canonical local asset. Reattach that local path to the
     # catalog instead of falling through to the external-source logic.
@@ -472,6 +521,7 @@ def main():
 
     load_photo_blocklist()
     load_manual_verified_photos()
+    load_hard_quarantined_photos()
     normalized_existing = normalize_mislabelled_webp_assets()
     if normalized_existing:
         print(f"Normalized {normalized_existing} existing mislabelled .webp assets.")
