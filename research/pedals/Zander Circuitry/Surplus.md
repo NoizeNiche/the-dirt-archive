@@ -26,9 +26,7 @@ The Surplus delivers all of that and more, with the versatility to go from boost
 - The archive records only the component information explicitly present in these sources.
 
 ## Sound
-Surplus – Zander Circuitry Home Store About FAQs/Terms Dealers Contact 0 Basket Home / Overdrive / Surplus Surplus £ 149.00 The elemental overdriver.
-We love wild fuzzes, obscure overdrives and walls of distortion.
-The Surplus delivers all of that and more, with the versatility to go from boost and subtle drive tones all the way through to full-throttle distortion and even fuzz.
+Zander Circuitry describes the Surplus as a dual-channel boost/overdrive with independent gain and level controls for each channel. Its Response control changes the input/output capacitor behavior to alter low-end response and overall gain, while an eight-position clipping selector broadens the range from boost and subtle drive to heavier distortion and fuzz textures. [1]
 
 ## Sources checked
 1. Surplus – Zander Circuitry: https://zandercircuitry.com/product/surplus/
