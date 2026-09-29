@@ -3,40 +3,38 @@
 ## PRP identity
 - **Archive parent:** Tchula
 - **Builder:** Lovepedal
-- **Catalog type:** Overdrive
+- **Catalog type:** Overdrive / Boost
 - **Identity:** Lovepedal's Tchula.
 
 ## What this pedal is
-Lovepedal's Tchula is cataloged as an overdrive pedal.
-
-## Colorways
-- No specific factory colorway information was established in the verified evidence packet.
+The Tchula was originally built for Josh Smith as a custom-tuned two-stage COT50. Lovepedal later produced small batches of the design.
 
 ## Versions and factory options
-- The verified evidence references: v1, v2, v29.
-- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+- Two-stage COT50-derived architecture.
+- Two footswitches.
+- One user-adjustable **Bias** control on the second stage.
+- The first stage is factory-set rather than controlled by a front-panel gain knob.
+- Small-batch production.
+- Center-negative external power on documented modern examples.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- The basic Tchula is a distinct two-stage COT50 design.
+- The **Burst Tchula** made for Scott Henderson in 2019 is treated as a separate named edition rather than an internal circuit revision.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
-- **Exact transistor/device:** Unknown.
+- The COT50 lineage is associated with single-transistor boost/drive stages, but exact production device numbers for every Tchula are not established.
 
 ## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
-- **Exact part:** Unknown.
+- Exact clipping-device information was not established.
 
 ## Sound
-The verified evidence packet did not contain enough pedal-specific sonic description to make a more detailed sound summary without adding unsupported interpretation.
+The first stage acts as a fixed low-to-medium gain boost, while the second stage can be brought in with its Bias control to add further overdrive. The design is loud, touch-sensitive and particularly responsive to the guitar volume control.
 
 ## Sources checked
-1. Lovepedal Tchula - What To Know & Where To Buy | Equipboard: https://equipboard.com/items/lovepedal-tchula
-2. Lovepedal Tchula Review: https://www.samgoffenguitar.com/post/lovepedal-tchula
-3. Lovepedal Tchula Boost - Reverb: https://reverb.com/p/lovepedal-tchula-boost
-4. Lovepedal Tchula for sale | eBay: https://www.ebay.com/sch/i.html?_nkw=lovepedal+tchula&_sop=12
-5. Lovepedal | TCHULA WHITE &ndash; Zanshin Musical Instruments: https://zanshin-musical-instruments.com/en/products/lovepedal-tchula-white
-6. Lovepedal Tchula - Effects Database: https://www.effectsdatabase.com/model/lovepedal/tchula
+1. Lovepedal - Tchula: https://www.lovepedal.com/pedals/tchula/
+2. Lovepedal - Burst Tchula: https://www.lovepedal.com/burst-tchula/
+3. Guitar Interactive Magazine - Tchula review: https://guitarinteractivemagazine.com/review/lovepedal-limited-edition-tchula-gold/
+4. Effects Database - Lovepedal Tchula: https://www.effectsdatabase.com/model/lovepedal/tchula
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.
