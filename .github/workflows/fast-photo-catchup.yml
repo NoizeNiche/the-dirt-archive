@@ -26,9 +26,9 @@ permissions:
 
 concurrency:
   group: dirt-photo-recovery-v4
-  # Finish-line recovery is replaceable. A newer strict visual-review run is
-  # more valuable than an older queued pass, so stale work should yield.
-  cancel-in-progress: true
+  # Let an active recovery/merge finish. A newer trigger may supersede the queue,
+  # but must not interrupt a photo batch after it has started modifying the archive.
+  cancel-in-progress: false
 
 jobs:
   recover:
