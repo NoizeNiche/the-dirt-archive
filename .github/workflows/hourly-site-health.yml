@@ -15,8 +15,9 @@ permissions:
 
 concurrency:
   group: dirt-archive-health
-  # Health checks should finish against their selected main snapshot.
-  cancel-in-progress: false
+  # Health checks should follow the newest main snapshot rather than build a
+  # queue of stale hourly validations.
+  cancel-in-progress: true
 
 jobs:
   health:
