@@ -7,43 +7,37 @@
 - **Identity:** Electro-Harmonix's Bass Soul Food.
 
 ## What this pedal is
-The Bass Soul Food delivers a wide range of overdrive and clean boost sounds, and has plenty of volume to assert your place in the mix.
+The Bass Soul Food is EHX's bass-oriented version of the Soul Food overdrive. EHX designed it to preserve more low frequencies while adding warmth, growl, and clean-boost capability.
 
 ## Colorways
-- No specific factory colorway information was established in the verified evidence packet.
+- The documented production enclosure follows the Soul Food family styling.
+- No complete factory finish chronology was established.
 
 ## Versions and factory options
-- No distinct factory revision was established in the verified evidence packet.
+- Bass-voiced Soul Food platform.
+- Low-end response is intentionally extended compared with the standard Soul Food.
+- Clean boost through overdrive.
+- True bypass switching.
+- Standard 9V pedal power.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- Bass Soul Food is a distinct bass model and should not inherit the standard Soul Food's exact component claims automatically.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
+- Exact production semiconductor details were not established in the checked sources.
 - **Exact transistor/device:** Unknown.
 
 ## Diode
-- Documented terms in the verified sources: LED.
-- The archive records only the component information explicitly present in these sources.
+- Exact clipping-diode part was not established.
+- **Exact part:** Unknown.
 
 ## Sound
-Overdrive - Electro-Harmonix Notify Me × Get notified when this item is back in-stock.
-Get it by · Order in Notify me when in stock Notify me of updates Notify me when in stock More Details Find a Dealer Sound Clips Transparent OD Agressive OD Pick Boost Sparkly Clean Boost Light OD Slap & Pop Guitar Drive Menu Bass Soul Food
-Overdrive Bass Soul Food quantity Find a Dealer Bass Soul Food DESCRIPTION The EHX Bass Soul Food dives deeper than the original Soul Food, retaining even more low frequecies while adding warmth and growl to your original tone.
+Bass Soul Food spans clean boost, transparent overdrive, and more aggressive bass drive while retaining additional low-frequency content. EHX specifically emphasizes added warmth and growl without discarding the original Soul Food character.
 
 ## Sources checked
-1. Bass Soul Food | Overdrive - Electro-Harmonix: https://www.ehx.com/products/bass-soul-food/
-2. Electro-Harmonix Bass Soul Food - Reverb: https://reverb.com/p/electro-harmonix-bass-soul-food
-3. Bass Soul Food Overdrive | BASSSOULFOOD | Electro-Harmonix: https://shop.ehx.com/item/basssoulfood/
-4. Electro-Harmonix Bass Soul Food Transparent Bass Overdrive Pedal: https://www.sweetwater.com/store/detail/BASSSOULFOOD--electro-harmonix-bass-soul-food-transparent-bass-overdrive-pedal
-5. open prime modal: https://www.amazon.com/clp/B00S3MRXF2
-6. Electro-Harmonix Bass Soul Food Overdrive Guitar Effects Pedal | Guitar Center: https://www.guitarcenter.com/Electro-Harmonix/Bass-Soul-Food-Overdrive-Effects-Pedal-1421336340892.gc
-7. ELECTRO-HARMONIX BASS SOUL FOOD MANUAL Pdf Download | ManualsLib: https://www.manualslib.com/manual/1983969/Electro-Harmonix-Bass-Soul-Food.html
-8. PDF BASS SOUL FOOD - American Musical Supply: https://www.americanmusical.com/media/manuals_rebates/ElectroHarmonix_BassSoulFood_manual.pdf
-9. Electro Harmonix Bass Soul Food - User Manual: https://www.manualshelf.com/manual/electro-harmonix/basssoulfood/user-manual-english.html
-10. Electro-Harmonix Bass Soul Food Overdrive User Manual PDF | Manualsnet: https://manualsnet.com/electro-harmonix/bass-soul-food
-11. electro-harmonix BASS SOUL FOOD User Manual | Manualzz: https://manualzz.com/doc/64066882/electro-harmonix-bass-soul-food-user-manual
-12. Electro-Harmonix Bass Soul Food Overdrive Pedal User Manual: https://manuals.plus/asin/B00S3MRXF2
+1. Electro-Harmonix - Bass Soul Food: https://www.ehx.com/products/bass-soul-food/
+2. Electro-Harmonix - Bass Soul Food manual references: https://www.americanmusical.com/media/manuals_rebates/ElectroHarmonix_BassSoulFood_manual.pdf
+3. Sweetwater - Bass Soul Food: https://www.sweetwater.com/store/detail/BASSSOULFOOD--electro-harmonix-bass-soul-food-transparent-bass-overdrive-pedal
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.

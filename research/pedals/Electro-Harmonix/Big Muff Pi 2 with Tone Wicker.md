@@ -7,39 +7,40 @@
 - **Identity:** Electro-Harmonix's Big Muff Pi 2 with Tone Wicker.
 
 ## What this pedal is
-Dual Op-Amp Fuzz Big Muff Pi 2 with Tone Wicker quantity Find a Dealer Big Muff Pi 2 with Tone Wicker DESCRIPTION With its signature crunch and mids-forward bark, the Big Muff 2 is a take on the long-lost Op-Amp BMP circuit from the 1970s.
+The Big Muff Pi 2 with Tone Wicker is EHX's dual-op-amp take on the classic Big Muff family, based on the long-lost Op-Amp Big Muff circuit and expanded with the **Tone Wicker** section for additional mid/high-frequency shaping.
 
 ## Colorways
-- No specific factory colorway information was established in the verified evidence packet.
+- No complete factory finish chronology was established in the checked sources.
 
 ## Versions and factory options
-- The verified evidence references: V4.
-- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+- Dual-op-amp fuzz architecture.
+- **Tone** control.
+- **Wicker** switch adds additional high-frequency content around the tone network.
+- Standard 9V DC operation.
+- True bypass.
+- The archive keeps this record separate from the newer Bass Big Muff Pi 2.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- The record is for the **Big Muff Pi 2 with Tone Wicker** identity.
+- Historical Op-Amp Big Muff versions are used as circuit lineage, not merged as identical hardware.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
+- The defining active gain stages are op-amp based.
+- Exact production semiconductor complement was not established.
 - **Exact transistor/device:** Unknown.
 
 ## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- Exact clipping-device part numbers were not established in the checked sources.
 - **Exact part:** Unknown.
 
 ## Sound
-Dual Op-Amp Fuzz - Electro-Harmonix Notify Me × Get notified when this item is back in-stock.
-Get it by · Order in Notify me when in stock Notify me of updates Notify me when in stock More Details Find a Dealer Sound Clips Desert Rock Dirt Flannel Fuzz Low-Gain Tone Bypass Tone Bypass Doom Sound Dynamic Big Muff Tones Menu Big Muff Pi 2 with Tone Wicker
-Dual Op-Amp Fuzz Big Muff Pi 2 with Tone Wicker quantity Find a Dealer Big Muff Pi 2 with Tone Wicker DESCRIPTION With its signature crunch and mids-forward bark, the Big Muff 2 is a take on the long-lost Op-Amp BMP circuit from the 1970s.
+The pedal keeps the dense sustain and compression associated with Big Muff designs while adding the more mid-forward bark of the Op-Amp lineage. Engaging Wicker opens the upper-frequency response and adds more cutting detail.
 
 ## Sources checked
-1. electro-harmonix BMP2TW Big Muff Pi 2 with Tone Wicker Instruction Manual: https://manuals.plus/electro-harmonix/bmp2tw-big-muff-pi-2-with-tone-wicker-manual
-2. Big Muff Pi 2 with Tone Wicker | Dual Op-Amp Fuzz - Electro-Harmonix: https://www.ehx.com/products/big-muff-pi-2-with-tone-wicker/
-3. Big Muff Pi 2 with Tone Wicker by Electro-Harmonix | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/Electro-Harmonix/Big-Muff-Pi-2-with-Tone-Wicker/8467253395/
-4. Electro-Harmonix Big Muff Pi 2 with Tone Wicker: https://www.effectsdatabase.com/model/eh/xo/bigmuffpi/2/wicker
-5. Electro-Harmonix Big Muff Pi 2 with Tone Wicker - Reverb: https://reverb.com/item/99881260-electro-harmonix-big-muff-pi-2-with-tone-wicker
-6. Electro-Harmonix Big Muff Pi 2 with Tone Wicker | Sweetwater: https://www.sweetwater.com/store/detail/BM2WICKER--electro-harmonix-big-muff-pi-2-with-tone-wicker
-7. Big Muff 2 with Tone Wicker | BM2 WICKER | Electro-Harmonix: https://shop.ehx.com/item/bm2%20wicker
+1. Electro-Harmonix - Big Muff Pi 2 with Tone Wicker: https://www.ehx.com/products/big-muff-pi-2-with-tone-wicker/
+2. EHX manual references for BMP2TW.
+3. Effects Database - Big Muff Pi 2 with Tone Wicker: https://www.effectsdatabase.com/model/eh/xo/bigmuffpi/2/wicker
+4. Sweetwater - Big Muff Pi 2 with Tone Wicker: https://www.sweetwater.com/store/detail/BM2WICKER--electro-harmonix-big-muff-pi-2-with-tone-wicker
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.

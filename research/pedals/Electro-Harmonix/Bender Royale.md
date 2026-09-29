@@ -7,39 +7,38 @@
 - **Identity:** Electro-Harmonix's Bender Royale.
 
 ## What this pedal is
-Germanium Fuzz Bender Royale quantity Find a Dealer Bender Royale DESCRIPTION The history of the 3-transistor fuzz is storied and colorful with many makers and iterations.
+The Bender Royale is a three-transistor germanium fuzz inspired by the Tone Bender family. EHX gives the circuit a wide range of tonal control and selectable clipping behavior rather than presenting it as a museum-copy of one historical Bender revision.
 
 ## Colorways
-- Online Store EFFECTS PEDALS, AMPS & ACCESSORIES Effects Pedals NEW PEDALS Bender Royale Fuzz, Black Bender Royale Fuzz, Black Click to enlarge
-- Not Sold Online Find Dealer Item BENDER BLACK Classic germanium Mkiii 3-transistor fuzz with massive tonal control.
+- A documented version is **Bender Black**, in a black enclosure.
+- Finish variants are not treated as circuit revisions without evidence of a hardware change.
 
 ## Versions and factory options
-- The verified evidence references: Mkiii.
-- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+- Three-transistor germanium fuzz architecture.
+- Selectable clipping/voicing options are documented in EHX's sound examples.
+- The pedal provides expanded tone shaping beyond a simple vintage two-control fuzz.
+- Exact full external control transcription is not asserted where the checked source does not clearly preserve the panel labels.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- The product is associated with the **MkIII** style of Tone Bender family.
+- This is treated as circuit lineage, not a claim that every historical MkIII unit used identical hardware.
 
 ## Transistor
-- Documented terms in the verified sources: Germanium Fuzz, germanium transistor.
-- The archive records only the component information explicitly present in these sources.
+- EHX documents **germanium transistors**.
+- Exact transistor part numbers and production matching criteria were not established.
 
 ## Diode
-- Documented terms in the verified sources: LED.
-- The archive records only the component information explicitly present in these sources.
+- EHX's documented clipping options include germanium and LED comparisons, but the complete production clipping implementation is not published.
+- **Exact part:** Unknown.
 
 ## Sound
-Germanium Fuzz - Electro-Harmonix Notify Me × Get notified when this item is back in-stock.
-Get it by · Order in Notify me when in stock Notify me of updates Notify me when in stock More Details Find a Dealer Sound Clips Germanium Bender Breakdown Spitty Velcro Fuzz Tone Ge-LED CLIP Comparison FAT Switch Comparison Blend with Cruchy Amp Bass Guitar Blended Fuzz Menu Bender Royale
-Germanium Fuzz Bender Royale quantity Find a Dealer Bender Royale DESCRIPTION The history of the 3-transistor fuzz is storied and colorful with many makers and iterations.
+The Bender Royale is capable of spitty, biting germanium fuzz as well as thicker, more controlled textures. Its broader tonal controls let it move beyond the narrow sweet spot associated with some vintage three-transistor Benders.
 
 ## Sources checked
-1. Bender Royale | Germanium Fuzz - Electro-Harmonix: https://www.ehx.com/products/bender-royale/
-2. Electro-Harmonix Bender Royale Germanium Fuzz - Reverb: https://reverb.com/p/electro-harmonix-bender-royale-germanium-fuzz
-3. Electro-Harmonix Bender Royale Germanium Fuzz Pedal - Sweetwater: https://www.sweetwater.com/store/detail/BenderBlk--electro-harmonix-bender-royale-germanium-fuzz-pedal-black
-4. Bender Royale Fuzz, Black | BENDER BLACK | Electro-Harmonix: https://shop.ehx.com/item/bender%20black/guitar-effects-pedals-new-pedals/
-5. Electro-Harmonix Bender Royale Review - Premier Guitar: https://www.premierguitar.com/reviews/pedals/electro-harmonix-bender-royale
-6. Electro-Harmonix Bender Royale review &ndash; flexible Tone Bender | Guitar World: https://www.guitarworld.com/gear/guitar-pedals/electro-harmonix-bender-royale-review
+1. Electro-Harmonix - Bender Royale: https://www.ehx.com/products/bender-royale/
+2. Sweetwater - Bender Royale: https://www.sweetwater.com/store/detail/BenderBlk--electro-harmonix-bender-royale-germanium-fuzz-pedal-black
+3. Premier Guitar - Bender Royale review: https://www.premierguitar.com/reviews/pedals/electro-harmonix-bender-royale
+4. Guitar World - Bender Royale review: https://www.guitarworld.com/gear/guitar-pedals/electro-harmonix-bender-royale
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.

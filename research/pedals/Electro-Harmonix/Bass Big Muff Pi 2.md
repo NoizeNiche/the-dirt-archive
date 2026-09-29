@@ -7,39 +7,37 @@
 - **Identity:** Electro-Harmonix's Bass Big Muff Pi 2.
 
 ## What this pedal is
-Dual Op-Amp Bass Fuzz Bass Big Muff Pi 2 quantity Find a Dealer Bass Big Muff Pi 2 DESCRIPTION Fusing the Big Muff’s storied history as a favorite fuzz pedal amongst bassists with the long-lost Op-Amp fuzz that never was is the Bass Big Muff Pi 2.
+The Bass Big Muff Pi 2 combines the bass-oriented voicing of the Big Muff family with the long-discontinued Op-Amp Big Muff design. EHX describes it as a dual-op-amp bass fuzz intended to provide large low end, aggressive fuzz, and useful clean/processed blending.
 
 ## Colorways
-- No specific factory colorway information was established in the verified evidence packet.
+- No complete factory finish chronology was established in the checked sources.
 
 ## Versions and factory options
-- No distinct factory revision was established in the verified evidence packet.
+- Dual-op-amp fuzz architecture.
+- Bass-focused voicing.
+- EHX provides multiple sound-clip examples covering clean blend, doom-oriented fuzz, and aggressive treble/boost textures.
+- Standard 9V DC pedal power.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- Bass Big Muff Pi 2 is a distinct model from the original Bass Big Muff Pi and the Nano Bass Big Muff Pi.
+- It is also distinct from the historical Op-Amp Big Muff Pi, despite using that circuit family as an influence.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
+- The defining active gain stages are op-amp based.
+- Exact production semiconductor complement was not established.
 - **Exact transistor/device:** Unknown.
 
 ## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- Exact clipping/rectifier diode information was not established.
 - **Exact part:** Unknown.
 
 ## Sound
-Dual Op-Amp Bass Fuzz - Electro-Harmonix Notify Me × Get notified when this item is back in-stock.
-Get it by · Order in Notify me when in stock Notify me of updates Notify me when in stock More Details Find a Dealer Sound Clips Massive Bass Muff Fuzz Wooly Fuzz with Clean Blend Earthshaking Doom Fuzz Skull Rattling Bass Boost Agressive Treble with Boosted Bass Classic Grinding Bass Fuzz Menu Bass Big Muff Pi 2
-Dual Op-Amp Bass Fuzz Bass Big Muff Pi 2 quantity Find a Dealer Bass Big Muff Pi 2 DESCRIPTION Fusing the Big Muff’s storied history as a favorite fuzz pedal amongst bassists with the long-lost Op-Amp fuzz that never was is the Bass Big Muff Pi 2.
+The Bass Big Muff Pi 2 is designed for thick, sustained bass fuzz with strong low-frequency weight. EHX's published examples emphasize clean blend, earthshaking doom fuzz, and aggressive upper-range textures.
 
 ## Sources checked
-1. Bass Big Muff Pi 2 | Dual Op-Amp Bass Fuzz - Electro-Harmonix: https://www.ehx.com/products/bass-big-muff-pi-2/
-2. Amazon.com: Electro-Harmonix Bass Big Muff Pi 2 Fuzz Pedal | Bass’s Favorite Fuzz Just Got a Sequel : Musical Instruments: https://www.amazon.com/Electro-Harmonix-Bass-Muff-Fuzz-Pedal/dp/B0GNT9LDCQ
-3. Electro-Harmonix Bass Big Muff Pi 2 Fuzz Pedal | Sweetwater: https://www.sweetwater.com/store/detail/BassBM2--electro-harmonix-bass-big-muff-pi-2-fuzz-pedal
-4. Electro-Harmonix Bass Big Muff Pi 2 Dual Op-Amp Fuzz - Reverb: https://reverb.com/p/electro-harmonix-bass-big-muff-pi-2-dual-op-amp-fuzz
-5. Electro-Harmonix Bass Big Muff Pi 2 Review - Premier Guitar: https://www.premierguitar.com/reviews/pedals/ehx-bass-big-muff-review
-6. Electro-Harmonix Nano Bass Big Muff Pi 2 review | Guitar World: https://www.guitarworld.com/gear/effects-pedals/electro-harmonix-big-muff-bass-pi-2-review
-7. Bass Big Muff Pi 2 from Electro-Harmonix: https://www.soundonsound.com/news/bass-big-muff-pi-2-electro-harmonix
-8. Electro-Harmonix Bass Big Muff Pi 2 - Bass Fuzz | Effects Database: https://www.effectsdatabase.com/model/eh/nano/bigmuffpi/2/bass
+1. Electro-Harmonix - Bass Big Muff Pi 2: https://www.ehx.com/products/bass-big-muff-pi-2/
+2. Sweetwater - Bass Big Muff Pi 2: https://www.sweetwater.com/store/detail/BassBM2--electro-harmonix-bass-big-muff-pi-2-fuzz-pedal
+3. Effects Database - Bass Big Muff Pi 2: https://www.effectsdatabase.com/model/eh/nano/bigmuffpi/2/bass
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.
