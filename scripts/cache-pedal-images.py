@@ -45,6 +45,37 @@ def load_photo_blocklist():
     except Exception:
         PHOTO_BLOCK_PATTERNS = []
 
+def normalize_mislabelled_webp_assets():
+    """Rewrite legacy files named .webp whose bytes are another supported image format."""
+    if not ASSET_ROOT.exists():
+        return 0
+    normalized = 0
+    for path in ASSET_ROOT.rglob("*.webp"):
+        try:
+            with Image.open(path) as source:
+                source_format = str(source.format or "").upper()
+                if not source_format or source_format == "WEBP":
+                    continue
+                if source_format not in {"JPEG", "PNG", "GIF", "BMP", "TIFF", "AVIF"}:
+                    continue
+                img = ImageOps.exif_transpose(source)
+                img = img.convert("RGBA" if "A" in img.getbands() else "RGB")
+                tmp = path.with_name(path.name + ".normalize.tmp")
+                img.save(tmp, "WEBP", quality=88, method=6)
+                os.replace(tmp, path)
+                normalized += 1
+                print(f"Normalized mislabelled WebP asset: {path} ({source_format} -> WEBP)")
+        except Exception as exc:
+            print(f"Could not normalize {path}: {exc}")
+            try:
+                tmp = path.with_name(path.name + ".normalize.tmp")
+                if tmp.exists():
+                    tmp.unlink()
+            except OSError:
+                pass
+    return normalized
+
+
 def blocked_photo_url(value):
     text = str(value or "")
     lowered = text.lower()
@@ -441,6 +472,10 @@ def main():
 
     load_photo_blocklist()
     load_manual_verified_photos()
+    normalized_existing = normalize_mislabelled_webp_assets()
+    if normalized_existing:
+        print(f"Normalized {normalized_existing} existing mislabelled .webp assets.")
+
     staged_converted = convert_staged_sources()
     if staged_converted:
         print(f"Converted {staged_converted} staged browser-recovery photos into canonical WebP assets.")
