@@ -28,7 +28,6 @@ Walrus Audio's Melee: Wall of Noise — Distortion + Reverb is cataloged as a di
 - **Exact part:** Unknown.
 
 ## Sound
-Tech Demo - Melee: Wall of Noise Distortion + Reverb Pedal FREE SHIPPING We ship most orders within 1-3 business days.
 
 ## Sources checked
 1. Tech Demo - Melee: Wall of Noise Distortion + Reverb Pedal: https://www.walrusaudio.com/blogs/news/understanding-the-melee-wall-of-noise-distortion-reverb-pedal

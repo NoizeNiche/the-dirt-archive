@@ -28,7 +28,6 @@ Just like its predecessor, the SolidGoldFX 76 MKII offers up a comprehensive gui
 - **Exact part:** Unknown.
 
 ## Sound
-Add to cart Added Sold out Unavailable Add to cart Default Title - $199.00 USD Click here to be notified by email when 76 MKII - OCTAVE-UP FUZZ becomes available.
 THE BEAST HAS RISEN While the Western world was preoccupied with smooth and soulful Fuzz Faces and Muffs, Asian audio gear manufacturers were creating gnarly mystical fuzzes, heavily imparted with earthshaking Godzilla DNA.
 This very distinct era in fuzz history gave us many treasures that have been rightfully crowned fuzz legends: the Univox Super Fuzz, Ibanez Standard Fuzz, Ace Tone Fuzz Master, Shin-Ei Companion and several others.
 

@@ -12,7 +12,7 @@ Privacy Terms Accessibility Back to Products EYEMASTER METAL DISTORTION Skull-Po
 ## Colorways
 - EYEMASTER brings back elemental, primordial gain – the kind of raw gain by which empires are either built or shattered!
 - Forged from Unholy Metal With its sturdy and strong metal frame, EYEMASTER will stand up to an army of black clad metal players and keep asking for more.
-- 90 Add to cart Customers say Customers praise the distortion pedal's sound quality, with one comparing it to a solid HM2 clone, and its ability to produce awesome black metal tones.
+Customers say Customers praise the distortion pedal's sound quality, with one comparing it to a solid HM2 clone, and its ability to produce awesome black metal tones.
 
 ## Versions and factory options
 - No distinct factory revision was established in the verified evidence packet.

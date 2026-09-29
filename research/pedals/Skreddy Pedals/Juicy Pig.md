@@ -7,7 +7,7 @@
 - **Identity:** Skreddy Pedals's Juicy Pig.
 
 ## What this pedal is
-Skreddy Pedals Juicy Pig Fuzz quantity Add to cart Description Maker: Skreddy Pedals Model: Juicy Pig Condition: New Description: Transparent, powerful, dynamic fuzz that sustains the note and maintains clarity The Skreddy Pedals Juicy Pig is another modification of the circa 1976 “rams head” Big Muff Pi*.
+Maker: Skreddy Pedals Model: Juicy Pig Condition: New Description: Transparent, powerful, dynamic fuzz that sustains the note and maintains clarity The Skreddy Pedals Juicy Pig is another modification of the circa 1976 “rams head” Big Muff Pi*.
 
 ## Colorways
 - No specific factory colorway information was established in the verified evidence packet.

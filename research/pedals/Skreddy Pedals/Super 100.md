@@ -28,7 +28,7 @@ Classic stadium rock tones from Led Zeppelin and Jimi Hendrix era The Super 100 
 
 ## Sound
 Classic British 100 Watt amp sound Guitar preamp that evokes the grunt and power of a massive British tube amp with the classic 3-band tone stack read more reviews clips SKU: Super100-deposit MPN: SKR-SP100 Stock Status: Preorder Delivery Status: Lead time of about 2 weeks We build everything to order.
---Marc Price: $290 + shipping $290 $261 (10% off) 50% deposit $130.50 Quantity qty Add To Cart Reviews • Clips • Manual Goes from clean to crunchy to full-throated, meaty slabs of sustaining distortion while retaining string definition and full articulation.
+Goes from clean to crunchy to full-throated, meaty slabs of sustaining distortion while retaining string definition and full articulation.
 Classic stadium rock tones from Led Zeppelin and Jimi Hendrix era The Super 100 is based on the heavy and throaty sound of a mid-to-late-60's era 100 Watt British tube amp.
 
 ## Sources checked

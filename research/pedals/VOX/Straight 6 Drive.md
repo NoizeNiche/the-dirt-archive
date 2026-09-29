@@ -27,7 +27,7 @@ read more Specifications Product Downloads Click here Straight 6 OverdriveDownlo
 - **Exact part:** Unknown.
 
 ## Sound
-Sku: TG1ST6OD Documents SPECS Specs PHOTOS Photos HEAR IT Hear It Product Description This overdrive overflows with the wide dynamic range of VOX’s signature British-flavored distortion.
+This overdrive overflows with the wide dynamic range of VOX’s signature British-flavored distortion.
 Turning the bright switch on will give you a sparkling British sound with defined highs, even from a guitar equipped with humbucking pickups.
 This is an all-around overdrive that’s a great choice for a wide range of styles.
 

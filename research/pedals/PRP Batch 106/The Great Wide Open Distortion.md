@@ -33,7 +33,6 @@ BMF Effects's The Great Wide Open Distortion is cataloged as a distortion pedal.
 
 ### Verified sound evidence
 Open media 3 in modal Play video The Great Wide Open Distortion opens full screen video in same window.
-Open media 4 in modal Play video 1 / of 4 The Great Wide Open Distortion The Great Wide Open Distortion Regular price $219.00 USD Regular price Sale price $219.00 USD Unit price / per Sale Sold Out!
 a single knob pedal that allows you to get great distortion sounds from virtually any amp.
 
 ### Sources checked in this pass

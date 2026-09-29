@@ -27,7 +27,7 @@ Stomp Under Foot's Guv'nor is cataloged as a Distortion pedal.
 - **Exact part:** Unknown.
 
 ## Sound
-Regular price $219.99 By Stomp Under Foot Quantity Add to cart LIMITED EDITION Marshall in a box pedal that delivers classic Plexi and JCM800 tones from open, bluesy overdrive to full bodied distortion.
+LIMITED EDITION Marshall in a box pedal that delivers classic Plexi and JCM800 tones from open, bluesy overdrive to full bodied distortion.
 Works equally well into a clean amp or into a dirty amp where it delivers massive, saturated gain and f eatures a full bass, middle and treble EQ for precise tone shaping.
 Retains snap and clarity at lower gain and transitions into smooth, compressed arena style distortion at higher settings.
 

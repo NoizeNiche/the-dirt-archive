@@ -29,7 +29,7 @@ Woolly Mammoth vs Big Muff The Big Muff is the reference point for big fuzz peda
 - **Exact part:** Unknown.
 
 ## Sound
-Quantity: Add To Cart Designed for bass, a favorite for guitar, this incredibly sub-frequency-preserving unit will hold on to the lowest lows like no fuzz ever heard before.
+Designed for bass, a favorite for guitar, this incredibly sub-frequency-preserving unit will hold on to the lowest lows like no fuzz ever heard before.
 There’s plenty of low end on tap, and paired with the velcro-y, gated texture and attack, it makes single notes sound thumpy and full rather than thin.
 I put it through its paces in my bass distortion shootout alongside other bass fuzz and distortion pedals, and on either instrument it feels like a mix of a Big Muff and a starved Tonebender, inheriting a bit of both.
 

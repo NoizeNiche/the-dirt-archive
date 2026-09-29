@@ -30,7 +30,6 @@ Canvas Nano Finch Power Supply Canvas Midi Cables Lab All Lab Series DFX-1 Percu
 - **Exact part:** Unknown.
 
 ## Sound
-Jupiter Multi-Clip Fuzz V2 FREE SHIPPING We ship most orders within 1-3 business days.
 Canvas Nano Finch Power Supply Canvas Midi Cables Lab All Lab Series DFX-1 Percussion Processing Unit Xero Polylooper More Apparel Accessories B-Stock Limited Editions Jupiter Multi-Clip Fuzz V2 Find it on The Jupiter is a true bypass fuzz pedal inspired by the desire for gritty, thick and loud fuzz.
 A versatile multi-clipping fuzz ready for loud and ferocious riffs.
 

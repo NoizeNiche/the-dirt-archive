@@ -28,7 +28,6 @@ The Tractor Beam is the exact circuit and sounds just as RAD!
 
 ## Sound
 The same SUSTAIN, TONE and VOLUME controls that will most defintely pull in those sweet out of this world muff tones!
-You might also like Quick view Blower Box Bass Distortion $ 139.00 Quick view Blower Box Deluxe $ 159.00 Quick view No Moon T-Shirt $ 15.00 You might also like
 IdiotBox Effects Tractor Beam Fuzz *NEW* (2025) - 783970107657 Skip Navigation Website Accessibility jacksguitarcheology@gmail.com Like, follow or friend: @jackguitarcheology Vintage
 
 ## Sources checked

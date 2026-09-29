@@ -27,7 +27,7 @@ Pedal Dimensions (LxWxH): 4.80" x 3.64" x 2.10" Instructions (PDF) The Woolly Ma
 - **Exact part:** Unknown.
 
 ## Sound
-Quantity: Add To Cart The WM7™ features a Marshall ™ style tone stack with Bass , Mid , and Treble controls.
+The WM7™ features a Marshall ™ style tone stack with Bass , Mid , and Treble controls.
 This is a departure from the original Woolly with its single tone knob.
 The tone stack allows for expanded tone shaping capability.
 

@@ -28,7 +28,6 @@ Canvas Nano Finch Power Supply Canvas Midi Cables Lab All Lab Series DFX-1 Percu
 - The archive records only the component information explicitly present in these sources.
 
 ## Sound
-Iron Horse LM308 Distortion FREE SHIPPING We ship most orders within 1-3 business days.
 Canvas Nano Finch Power Supply Canvas Midi Cables Lab All Lab Series DFX-1 Percussion Processing Unit Xero Polylooper More Apparel Accessories B-Stock Limited Editions Iron Horse LM308 Distortion $219.99 The Iron Horse is our take on a classic distortion circuit that’s thick, punchy, riffy, and rowdy.
 With the help of the Si/LED (Silicon/LED) knob and wide range of the distortion knob, this true bypass, high-gain behemoth can be finely tuned for clear overdriven sounds or let the reigns loose for a full-on distorted onslaught.
 

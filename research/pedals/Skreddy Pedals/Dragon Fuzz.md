@@ -29,7 +29,7 @@ OSC Sets the amount of feedback you get when you use the corresponding footswitc
 ## Sound
 Home Effect Types Fuzz Fuzzface Variants Dragon Fuzz Dragon Fuzz Silicon Fuzz Face with over-the-top OSC switch The BC109 fuzz circuit with an added feedback feature.
 This is already a high-gain fuzz, so the feedback typically gives you a drone oscillation that you can control to some extent by your playing and by adjusting the guitar volume.
-Skreddy Pedals Dragon Fuzz quantity Add to cart Description Maker: Skreddy Pedals Model: Dragon Fuzz Condition: New Description: My friend Ilya Lipkin originally suggested this feedback idea to me, which resulted in the first Screaming Lizard.
+Maker: Skreddy Pedals Model: Dragon Fuzz Condition: New Description: My friend Ilya Lipkin originally suggested this feedback idea to me, which resulted in the first Screaming Lizard.
 
 ## Sources checked
 1. Fuzzface Variants | Fuzz | Dragon Fuzz | Skreddy Pedals: https://skreddypedals.com/dragon

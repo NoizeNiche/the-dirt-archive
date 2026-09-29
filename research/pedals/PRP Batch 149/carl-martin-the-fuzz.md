@@ -24,7 +24,7 @@ Toggle Menu The Fuzz Revolutionary fuzz/distortion pedal with wave guide technol
 
 ### Verified sound evidence
 Toggle Menu The Fuzz Revolutionary fuzz/distortion pedal with wave guide technology and 3-band EQ for versatile tones from vintage blues to modern metal.
-Add to cart More details · Find a dealer Revolutionary wave guide technology with Deep and High controls works in conjunction with 3-band EQ to shape and clean up distortion in previously impossible ways.
+More details · Find a dealer Revolutionary wave guide technology with Deep and High controls works in conjunction with 3-band EQ to shape and clean up distortion in previously impossible ways.
 Exceptional tonal versatility ranges from vintage blues fuzz to mid-80s hard rock to hardcore metal sounds, all from one pedal with precise control.
 
 ### Sources checked in this pass

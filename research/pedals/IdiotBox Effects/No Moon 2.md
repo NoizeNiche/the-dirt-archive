@@ -27,7 +27,6 @@ IdiotBox Effects's No Moon 2 is cataloged as a distortion / fuzz / overdrive ped
 - **Exact part:** Unknown.
 
 ## Sound
-You might also like Quick view Blower Box Bass Distortion $ 139.00 Quick view Blower Box Deluxe $ 159.00 Quick view No Moon T-Shirt $ 15.00 You might also like
 
 ## Sources checked
 1. No Moon 2 | IdiotBox Effects: https://www.idiotboxeffects.com/product/no-moon-2

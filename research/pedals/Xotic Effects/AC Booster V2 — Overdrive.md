@@ -30,7 +30,7 @@ Xotic Effects's AC Booster V2 — Overdrive is cataloged as an overdrive pedal.
 ## Sound
 Reacting exactly like a great tube amp, the newly designed AC Booster V2 offers a wide range of overdrive with touch sensitivity just like the original AC Booster.
 You can set it up to get a crunchy warm overdriven tone and with just a little rolling off of the guitar’s volume, it will give you a great clean sound.
-BUY NOW A 4 POLE DIP SWITCH ON THE SIDE OF THE PEDAL OFFERS MORE “TONE” SHAPING AT YOUR FINGERTIPS.
+A 4 POLE DIP SWITCH ON THE SIDE OF THE PEDAL OFFERS MORE “TONE” SHAPING AT YOUR FINGERTIPS.
 
 ## Sources checked
 1. AC Booster V2 – Xotic California: https://xotic.us/effects/acbv2/

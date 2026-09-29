@@ -28,7 +28,6 @@ Inspired by the JEN Jumbo fuzz, which is one of our personal favorite vintage fu
 - The archive records only the component information explicitly present in these sources.
 
 ## Sound
-Add to cart Added Sold out Unavailable Add to cart Default Title - Sold out Click here to be notified by email when IMPERIAL MKII - FUZZ becomes available.
 The Jumbo Fuzz Upon first glance at the Imperial MKII , you might be intrigued by its charmingly retro appearance.
 Inspired by the JEN Jumbo fuzz, which is one of our personal favorite vintage fuzzes, the Imperial MKII’s four sliders, textured black paint and bold red graphics show that this pedal means business.
 

@@ -28,7 +28,6 @@ The tone of the If 6 Was 9 BC183 MKII Silicon Fuzz is smooth and refined, withou
 - **Exact part:** Unknown.
 
 ## Sound
-Add to cart Added Sold out Unavailable Add to cart Default Title - $199.00 USD Click here to be notified by email when IF 6 WAS 9 - BC183 MKII FUZZ becomes available.
 ICONIC FUZZ FACE TONE If there’s one pedal that captures the history of sonic rebellion and the soul of classic rock, then the Fuzz Face is it.
 Bold and raunchy when fed power chords, velvety smooth and angelically soaring when presented with lead lines and with an almost too-good-to-be-true volume knob cleanup, which allows for the best clean tones you’ve ever heard, the Fuzz Face is truly a multi-faceted tonal treasure.
 

@@ -10,7 +10,6 @@
 The Swollen Pickle Jumbo Fuzz MkIIS serves up the same burly high-gain fuzz as the full-sized MkII but in a more petite package.
 
 ## Colorways
-- Related Items Way Huge Smalls Pork & Pickle Bass Overdrive & Fuzz Pedal Quick View Notify me when this product is available: Qty Add to Cart Way Huge Smalls Pork & Pickle Bass Overdrive & Fuzz Pedal $199.99 Way Huge Jumbo Fuzz Swollen Pickle XXX Pedal Quick View Notify me when this product is available: Qty Add to Cart Way Huge Jumbo Fuzz Swollen Pickle XXX Pedal $199.99 Way Huge Smalls Doom Hammer Fuzz Pedal Quick View Notify me when this product is available: Qty Add to Cart Way Huge Smalls Doom Hammer Fuzz Pedal $169.99 Way Huge Smalls Geisha Drive - Blue Quick View Notify me when this product is available: Way Huge Smalls Geisha Drive - Blue Contact Us for Availability Way Huge Smalls Stone Burner Sub Atomic Fuzz Pedal Quick View Notify me when this product is available: Qty Add to Cart Way Huge Smalls Stone Burner Sub Atomic Fuzz Pedal $179.99 Way Huge Smalls Blue Hippo Analog Chorus Pedal Quick View Notify me when this product is available: Way Huge Smalls Blue Hippo Analog Chorus Pedal Contact Us for Availability Way Huge Smalls Swollen Pickle Fuzz Pedal Quick View Notify me when this product is available: Way Huge Smalls Swollen Pickle Fuzz Pedal Contact Us for Availability Way Huge Smalls WM25 STO Overdrive Pedal Quick View Notify me when this product is available: Way Huge Smalls WM25 STO Overdrive Pedal Contact Us for Availability Way Huge Atreides Weirding Module Pedal Quick View Notify me when this product is available: Way Huge Atreides Weirding Module Pedal Contact Us for Availability Way Huge Smalls Aqua-Puss Mini Analog Delay Pedal Quick View Notify me when this product is available: Qty Add to Cart Way Huge Smalls Aqua-Puss Mini Analog Delay Pedal $179.99 Way Huge Green Rhino MKIV Overdrive Pedal Quick View Notify me when this product is available: Qty Add to Cart Way Huge Green Rhino MKIV Overdrive Pedal $159.99 Way Huge WM20 Conspiracy Theory Professional Overdrive Effect Pedal Quick View Notify me when this product is available: Way Huge WM20 Conspiracy Theory Professional Overdrive Effect Pedal Contact Us for Availability Recently Viewed Items Subscribe Sign up to get the latest on sales, new releases, exclusive discounts and more!!
 
 ## Versions and factory options
 - The verified evidence references: MKIV, MkII.
@@ -43,7 +42,6 @@ The Swollen Pickle Jumbo Fuzz MkIIS serves up the same burly high-gain fuzz as t
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
 
 ### Verified description
-Contact Us for Availability $159.99 Notify me when this product is available: The Swollen Pickle Jumbo Fuzz MkIIS serves up the same burly high gain fuzz as the full-sized MkII but in a more petite package.
 
 ### Verified version references
 - The evidence references: MKIV, MkII.

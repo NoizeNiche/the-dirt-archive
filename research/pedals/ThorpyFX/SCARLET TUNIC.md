@@ -7,7 +7,7 @@
 - **Identity:** ThorpyFX's SCARLET TUNIC.
 
 ## What this pedal is
-Amp Emulator Add to cart Description The new look - same sound Scarlet Tunic is here!
+The new look - same sound Scarlet Tunic is here!
 
 ## Colorways
 - No specific factory colorway information was established in the verified evidence packet.

@@ -27,7 +27,6 @@ The archive does not add a more specific tonal description beyond those model-sp
 
 ## Versions and factory options
 - Surviving product-page title: **Captain FX Crown Jr. Overdrive / Boost**.
-- The product page lists a **$119.00** price and marks the unit **Sold out** in the archived storefront.
 - The page's shipping notice references the COVID-19 period, placing the surviving listing in that general timeframe; the archive does not treat that notice alone as a precise production date.
 - The product page describes the unit as completely handmade.
 

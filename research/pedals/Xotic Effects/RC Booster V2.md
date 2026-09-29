@@ -28,7 +28,7 @@ Xotic Effects's RC Booster V2 is cataloged as an overdrive pedal.
 - **Exact part:** Unknown.
 
 ## Sound
-Free Shipping In Stock, Ready to Ship ADD TO CART SKU: RCBV2 Description Xotic’s infamous, Super Transparent, RC Booster has been renewed: The RC Booster V2, inspired by the Scott Henderson RCB-SH model, now comes with an added gain channel for even fatter tones with a super transparent 20dB+ clean boost.
+Xotic’s infamous, Super Transparent, RC Booster has been renewed: The RC Booster V2, inspired by the Scott Henderson RCB-SH model, now comes with an added gain channel for even fatter tones with a super transparent 20dB+ clean boost.
 Run it at 18v for even more headroom.
 
 ## Sources checked

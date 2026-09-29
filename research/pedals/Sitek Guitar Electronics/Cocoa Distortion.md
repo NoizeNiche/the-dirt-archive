@@ -29,7 +29,7 @@ Published on August 29, 2018 Sitek Guitar Electronics distortion overdrive pedal
 ## Sound
 $ 160.00 Lowest price 30 days before the discount: $ 160.00 Cocoa is a versatile gain pedal, offering anything from a clean boost, smooth overdrive to harmonic-rich distortion.
 Her Soft/Hard operation modes allow the user to achieve different distortion profiles, while simple and efficient tone control helps in taming high frequency content of the output signal.
-3 in stock (can be backordered) Cocoa Distortion quantity Add to basket Share this product Categories: Distortion / Fuzz , Overdrive , Pedals Tags: distortion , guitar gear , guitar pedals , pedal Previous Product Next Product Description Controls Videos Warranty Description Meet our exotic Muse.
+Controls Videos Warranty Description Meet our exotic Muse.
 
 ## Sources checked
 1. Cocoa Distortion | Sitek Guitar Electronics: https://www.sitek.rocks/product/cocoa-distortion/

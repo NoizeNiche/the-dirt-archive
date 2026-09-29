@@ -46,7 +46,6 @@ BMF Effects The Godfather Overdrive Pedal
 
 ### Verified sound evidence
 Open media 3 in modal Play video The Godfather Overdrive opens full screen video in same window.
-Open media 4 in modal Play video 1 / of 4 The Godfather Overdrive The Godfather Overdrive Regular price $219.00 USD Regular price Sale price $219.00 USD Unit price / per Sale Sold Out!
 Three external controls (Volume, Drive, and Tone) plus an internal trim pot for bass boost give the player total control over their tone.
 
 ### Sources checked in this pass

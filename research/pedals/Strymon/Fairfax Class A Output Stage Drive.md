@@ -7,7 +7,7 @@
 - **Identity:** Strymon's Fairfax Class A Output Stage Drive.
 
 ## What this pedal is
-Free Shipping In Stock, Ready to Ship ADD TO CART SKU: FAIRFAX Description Miniature Marvel: Unlike many units we associate with gain and overdrive, Fairfax isn’t really a distortion pedal.
+Miniature Marvel: Unlike many units we associate with gain and overdrive, Fairfax isn’t really a distortion pedal.
 
 ## Colorways
 - No specific factory colorway information was established in the verified evidence packet.

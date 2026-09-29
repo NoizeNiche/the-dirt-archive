@@ -7,7 +7,6 @@
 - **Identity:** Prescription Electronics's Experience.
 
 ## What this pedal is
-More Info Quick View Prescription Electronics Yardbox 4-Knob Germanium Fuzz Pedal $199.95 Prescription Electronics Yardbox 4-Knob Germanium Fuzz Pedal $199.95 Yardbox - FuzzFour-knob take on the Sola Sound Tone Bender fuzz of Jeff Beck and Jimmy Page.The controls function as follows.
 
 ## Colorways
 - No specific factory colorway information was established in the verified evidence packet.
@@ -29,7 +28,6 @@ More Info Quick View Prescription Electronics Yardbox 4-Knob Germanium Fuzz Peda
 ## Sound
 (Clean Octave Blend)Octave fuzz effect with a "Blend" knob to blend clean signal with fuzz.For Clean Octave Tone: Use the neck pick-up on your guitar.
 For cleaner tone, back off the guitar volume slightly.Note: With this type of circuit, there...
-More Info Quick View Prescription Electronics Yardbox 4-Knob Germanium Fuzz Pedal $199.95 Prescription Electronics Yardbox 4-Knob Germanium Fuzz Pedal $199.95 Yardbox - FuzzFour-knob take on the Sola Sound Tone Bender fuzz of Jeff Beck and Jimmy Page.The controls function as follows.
 
 ## Sources checked
 1. Prescription Electronics Experience - Reverb: https://reverb.com/item/13402178-prescription-electronics-experience

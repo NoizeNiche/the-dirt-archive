@@ -28,7 +28,7 @@ Features : -Level (volume) -Drive (gain) -Tone -3-way clipping toggle (left: sil
 - The archive records only the component information explicitly present in these sources.
 
 ## Sound
-DISCONTINUED (You save ) SKU: UPC: 850039942181 Current Stock: Adding to cart… The item has been added Add to Wish List Create New Wish List Facebook Email Print Description *DISCONTINUED* The Cusack Screamer is a “clean” overdrive, but has about twice the gain of a typical Tube Screamer.
+*DISCONTINUED* The Cusack Screamer is a “clean” overdrive, but has about twice the gain of a typical Tube Screamer.
 This is where the Screamer offers much more clarity than a typical overdrive.
 Features : -Level (volume) -Drive (gain) -Tone -3-way clipping toggle (left: silicon, center: asymmetrical LED, right: Schottky) Power : -Standard center negative 9V DC supply, or 9V battery (neither included) -Current draw: ~9mA Dimensions : -4.42" L x 2.39" W x 1.24" H PDF Manual Close × Videos Hide Videos Show Videos 16 Overdrive Pedals That Are Severely Underrated!
 
@@ -52,7 +52,7 @@ Cusack Music's Screamer V2 is cataloged as an overdrive pedal.
 - LED.
 
 ### Verified sound evidence
-DISCONTINUED (You save ) SKU: UPC: 850039942181 Current Stock: Adding to cart… The item has been added Add to Wish List Create New Wish List Facebook Email Print Description *DISCONTINUED* The Cusack Screamer is a “clean” overdrive, but has about twice the gain of a typical Tube Screamer.
+*DISCONTINUED* The Cusack Screamer is a “clean” overdrive, but has about twice the gain of a typical Tube Screamer.
 This is where the Screamer offers much more clarity than a typical overdrive.
 
 ### Sources checked in this pass

@@ -11,7 +11,7 @@ Silktone debuts Fuzz+ germanium transistor fuzz pedal
 
 ## Colorways
 - updated taper of the “Cleanup” control is much smoother compared to the old version and the “Fuzz” control is much more usable now too allowing you to set post gain and shape the sound a bit or to set max fuzz level when cleanup is bypassed in raw mode.
-- Facebook Twitter Pinterest Google+ Color Classic Black Turqoise LIMITED: Anthrax Quantity Add to Cart At the heart of the Silktone Fuzz are two germanium transistors, tweaked to get a huge array of tones and fix all the annoyances you get with a typical germanium fuzz.
+At the heart of the Silktone Fuzz are two germanium transistors, tweaked to get a huge array of tones and fix all the annoyances you get with a typical germanium fuzz.
 
 ## Versions and factory options
 - No distinct factory revision was established in the verified evidence packet.

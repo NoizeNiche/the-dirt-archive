@@ -29,7 +29,7 @@ ProCo Sound's You Dirty RAT is cataloged as a distortion / overdrive pedal.
 
 ## Sound
 ProCo Sound You Dirty RAT Distortion Effects Pedal
-VIEW CART CHECKOUT ProCo Sound You Dirty RAT Distortion Effects Pedal In Stock ★★★★★ (0 ) $ 40.00 $ 80.00 -50% ProCo Sound You Dirty RAT Distortion Effects Pedal quantity Add to cart SKU: NCBE3181287112 Free Shipping: Free shipping on orders over $120.
+SKU: NCBE3181287112 Free Shipping: Free shipping on orders over $120.
 Any pedal aficionado will tell you that nothing compares to the warm tone that these sought after components provide.
 
 ## Sources checked

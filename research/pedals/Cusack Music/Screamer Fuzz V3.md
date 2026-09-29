@@ -29,7 +29,6 @@ Cusack Music's Screamer Fuzz V3 is cataloged as a Fuzz / Overdrive pedal.
 
 ## Sound
 SKU: Cusack-ScrmrFuzzV3 UPC: 850039942259 This pedal includes all of the great tone of the Screamer Fuzz V2 with the addition of a low-pass tone control that many of our customers were asking for.
-With the fuzz all the way down, it’s like a screamer … MSRP: Was: Now: $185.00 (You save: ) Current Stock: 6 Quantity: Decrease Quantity of undefined Increase Quantity of undefined Adding to cart… The item has been added Wish List Create New Wish List Copy link: Share:
 
 ## Sources checked
 1. Screamer Fuzz V3 Overdrive and Fuzz Pedal | Cusack Music: https://cusackmusic.com/screamer-fuzz-v3/
@@ -51,7 +50,6 @@ Cusack Music's Screamer Fuzz V3 is cataloged as a fuzz / overdrive pedal.
 
 ### Verified sound evidence
 SKU: Cusack-ScrmrFuzzV3 UPC: 850039942259 This pedal includes all of the great tone of the Screamer Fuzz V2 with the addition of a low-pass tone control that many of our customers were asking for.
-With the fuzz all the way down, it’s like a screamer … MSRP: Was: Now: $185.00 (You save: ) Current Stock: 6 Quantity: Decrease Quantity of undefined Increase Quantity of undefined Adding to cart… The item has been added Wish List Create New Wish List Copy link: Share:
 
 ### Sources checked in this pass
 1. Screamer Fuzz V3 Overdrive and Fuzz Pedal | Cusack Music: https://cusackmusic.com/screamer-fuzz-v3/

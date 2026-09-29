@@ -11,7 +11,6 @@ With it's finely tuned voicing, while adding sweet harmonic richness to your ins
 
 ## Colorways
 - Screen printed faceplates and raw metal enclosures set this series apart.
-- De 209,00 à 309,00 € 309,00 € White Red Black Standard Add to cart Saturn VI successfully added to cart Total : There is products in your cart.
 - On top of the cast-aluminum enclosure sits a durable, engraved vinyl faceplate and red jewel indicator light.
 
 ## Versions and factory options

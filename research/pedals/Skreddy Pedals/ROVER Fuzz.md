@@ -30,7 +30,7 @@ off onna ben (Soundcloud) the skreddy rover fuzz is always "on", herein.
 
 ## Sound
 High gain Tonebender MkII fuzz Germanium-like silicon fuzz with a Tone Bender* heart and extra tweakability read more reviews clips SKU: Rover-deposit MPN: SKR-RVR Stock Status: Preorder Delivery Status: Lead time of about 2 weeks We build everything to order.
---Marc Price: $205 + shipping $205 $184.50 (10% off) 50% deposit $92.25 Quantity qty Add To Cart Sound Clips • Reviews • Manual The ROVER can do that wooly, compressed 60's fuzz tone, but it can also be tight and articulate and well behaved.
+The ROVER can do that wooly, compressed 60's fuzz tone, but it can also be tight and articulate and well behaved.
 The sound is classic Tone Bender* with excellent volume clean-up and touch sensitivity.
 
 ## Sources checked

@@ -28,7 +28,6 @@ IdiotBox Effects's Trench Cannon is cataloged as an overdrive pedal.
 
 ## Sound
 Same killer sound with DRIVE, TONE and LEVEL controls to blow your tone competition to smithereens!
-(Washington) You might also like Quick view Blower Box Bass Distortion $ 139.00 Quick view Blower Box Deluxe $ 159.00 Quick view No Moon T-Shirt $ 15.00 You might also like
 
 ## Sources checked
 1. Trench Cannon | IdiotBox Effects: https://www.idiotboxeffects.com/product/trench-cannon

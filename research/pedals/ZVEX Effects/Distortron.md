@@ -7,7 +7,7 @@
 - **Identity:** ZVEX Effects's Distortron.
 
 ## What this pedal is
-Mod Modulation Octave Phaser Sampler Step Sequencer Tremolo Vibrato Volume Wah Yvette Young Guitar Pedals ← Back to Guitar Pedals Distortron Distortron $179.00 Quantity: Add To Cart This pedal is a modified version of our Box of Rock’s Distortron Engine.
+This pedal is a modified version of our Box of Rock’s Distortron Engine.
 
 ## Colorways
 - If you want custom artwork on your pedal, see the custom requests page .

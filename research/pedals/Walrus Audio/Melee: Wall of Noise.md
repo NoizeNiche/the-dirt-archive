@@ -10,7 +10,7 @@
 Canvas Nano Finch Power Supply Canvas Midi Cables Lab All Lab Series DFX-1 Percussion Processing Unit Xero Polylooper More Apparel Accessories B-Stock Limited Editions Melee: Wall of Noise $299.99 *Both variants of Melee are currently on backorder!
 
 ## Colorways
-- $299.99 Color Pink Black Add To Cart Details Media Specs *Both variants of Melee are currently on backorder!
+Details Media Specs *Both variants of Melee are currently on backorder!
 
 ## Versions and factory options
 - The verified evidence references: MKII.

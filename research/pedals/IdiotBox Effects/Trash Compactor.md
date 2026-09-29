@@ -29,7 +29,6 @@ IdiotBox Effects's Trash Compactor is cataloged as a distortion pedal.
 
 ## Sound
 Same killer sound with DISTORTION, TONE and VOLUME controls to mash other's garbage tones!
-(Washington) You might also like Quick view Blower Box Bass Distortion $ 139.00 Quick view Blower Box Deluxe $ 159.00 Quick view No Moon T-Shirt $ 15.00 You might also like
 IdiotBox Effects Trash Compactor Rat Distortion *NEW* (Black) - 783970107671 Skip Navigation Website Accessibility jacksguitarcheology@gmail.com Like, follow or friend: @jackguitarcheology Vintage
 
 ## Sources checked

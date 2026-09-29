@@ -28,7 +28,7 @@ The Screamer Bass Fuzz is designed to fix this.
 - The archive records only the component information explicitly present in these sources.
 
 ## Sound
-DISCONTINUED (You save ) SKU: UPC: 850039942211 Current Stock: Adding to cart… The item has been added Add to Wish List Create New Wish List Facebook Email Print Description If you’ve ever plugged your bass into a regular fuzz box and been unimpressed, it’s because they’re designed to limit the extreme low end allowed into the amp.
+If you’ve ever plugged your bass into a regular fuzz box and been unimpressed, it’s because they’re designed to limit the extreme low end allowed into the amp.
 The Screamer Bass Fuzz is designed to fix this.
 Like the Screamer Bass, it’s Tube Screamer-inspired overdrive is modified for bass guitar, but with an additional fuzz circuit for EVEN MORE GAIN.
 

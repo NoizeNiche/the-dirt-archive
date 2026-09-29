@@ -39,7 +39,6 @@ BMF Effects's Purple Nurple Overdrive is cataloged as an overdrive pedal.
 
 ### Verified sound evidence
 Open media 3 in modal Play video Purple Nurple Overdrive opens full screen video in same window.
-Open media 4 in modal Play video 1 / of 4 Purple Nurple Overdrive Purple Nurple Overdrive Regular price $209.00 USD Regular price Sale price $209.00 USD Unit price / per Sale Sold Out!
 From gritty clean boost to tweed-like breakup to mild fuzz, the Purple Nurple Overdrive covers a lot of ground.
 
 ### Sources checked in this pass

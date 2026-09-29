@@ -31,7 +31,6 @@ When we designed the SludgeMaster, we didn’t just copy a thing.
 - The archive records only the component information explicitly present in these sources.
 
 ## Sound
-Deuce Coupe Regular price $199.95 View CAT Distortion Regular price $219.95 Sale price $149.95 Sale View GilaMondo Throwback Special Regular price $219.95 Sale price $199.95 Sale View Heaven's Gate Regular price $199.95 View F.A.Q.
 Close Close Buy any pedal and add a Vintage Overdrive for $50.00!!
 Many sounds have come and gone over the decades of electric guitar, but one sound in particular was born of fire and cemented in Rock N Roll: the Fuzz Sound.
 

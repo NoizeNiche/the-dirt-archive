@@ -7,7 +7,7 @@
 - **Identity:** Stomp Under Foot's Brit Box.
 
 ## What this pedal is
-Regular price $204.99 By Stomp Under Foot Quantity Add to cart LIMITED EDITION The Brit Box is inspired by the original, now-discontinued first version of the MI Audio Crunch Box.
+LIMITED EDITION The Brit Box is inspired by the original, now-discontinued first version of the MI Audio Crunch Box.
 
 ## Colorways
 - No specific factory colorway information was established in the verified evidence packet.

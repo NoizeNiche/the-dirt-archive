@@ -30,7 +30,6 @@ ZVEX Effects Double Rock Hand-Painted – Dual-Channel Distortion Pedal - Cotton
 ## Sound
 In this way, you can configure the pedal to be two Distortrons cascaded, two Super Hard-Ons cascaded (like a Super Duper 2-in-1), or a Box of Rock with boost, or a Super Hard-On going into a Box of Rock.
 ZVEX Effects Double Rock Hand-Painted – Dual-Channel Distortion Pedal - Cottonwood Music Emporium
-/ Save up to % Save % Save up to Save Sale Sold out In stock Free Shipping on Most Orders Menu Shop by Brand New Stuff Guitars Deimel Guitarworks Kauer Guitars Revelator Guitars Vintage & Used Guitars Amplifiers Benson Amps Divided by 13 Greer Amps Milkman Sound Seymour Duncan Swart Amplifier Co.
 
 ## Sources checked
 1. Double Rock — ZVEX Effects: https://www.zvex.com/guitar-pedals/double-rock-guitar-effects-pedal

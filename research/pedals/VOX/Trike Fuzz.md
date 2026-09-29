@@ -7,7 +7,7 @@
 - **Identity:** VOX's Trike Fuzz.
 
 ## What this pedal is
-Legacy THIS PRODUCT IS NO LONGER IN PRODUCTION Legacy Trike Fuzz Sku: TG2TRFZ Documents SPECS Specs PHOTOS Photos HEAR IT Hear It Product Description This is an octave fuzz overflowing with vintage character, utilizing specially selected diodes.
+This is an octave fuzz overflowing with vintage character, utilizing specially selected diodes.
 
 ## Colorways
 - No specific factory colorway information was established in the verified evidence packet.
@@ -27,7 +27,7 @@ Legacy THIS PRODUCT IS NO LONGER IN PRODUCTION Legacy Trike Fuzz Sku: TG2TRFZ Do
 - **Exact part:** Unknown.
 
 ## Sound
-Legacy THIS PRODUCT IS NO LONGER IN PRODUCTION Legacy Trike Fuzz Sku: TG2TRFZ Documents SPECS Specs PHOTOS Photos HEAR IT Hear It Product Description This is an octave fuzz overflowing with vintage character, utilizing specially selected diodes.
+This is an octave fuzz overflowing with vintage character, utilizing specially selected diodes.
 You can choose three types of octave settings: +1 or, -1 and -2, or all upward and downward octaves to obtain thick vintage fuzz sounds.
 In addition, there’s a tone control for +1 octave and a volume control for -2 octave.
 

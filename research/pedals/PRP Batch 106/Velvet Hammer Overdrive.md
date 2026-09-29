@@ -40,7 +40,6 @@ BMF Effects Velvet Hammer Overdrive — Overdrive Pedal Specs & Where to Buy
 
 ### Verified sound evidence
 Open media 3 in modal Play video Velvet Hammer Overdrive opens full screen video in same window.
-Open media 4 in modal Play video 1 / of 4 Velvet Hammer Overdrive Velvet Hammer Overdrive Regular price $229.00 USD Regular price Sale price $229.00 USD Unit price / per Sale Sold Out!
 The left side brings the Velvet, with controls for Volume, Tone (just enough shaping to line things up with your rig without compromising that tone ), and Gain (again, working with that classic voicing and allowing you to roam from mild to fairly wild ...
 
 ### Sources checked in this pass

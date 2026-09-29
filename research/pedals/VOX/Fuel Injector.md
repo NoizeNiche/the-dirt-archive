@@ -7,7 +7,7 @@
 - **Identity:** VOX's Fuel Injector.
 
 ## What this pedal is
-Sku: VE-FI SPECS Specs PHOTOS Photos Product Description An Overdrive with Distinct Tube-like Response and Rich Harmonics, Featuring Organic Distortion FUEL INJECTOR offers a distinctive overdrive with clean characteristics, rich harmonics, and a natural sense of compression and bite.
+An Overdrive with Distinct Tube-like Response and Rich Harmonics, Featuring Organic Distortion FUEL INJECTOR offers a distinctive overdrive with clean characteristics, rich harmonics, and a natural sense of compression and bite.
 
 ## Colorways
 - Unlike effects that color the tone like preamp-style pedals, FUEL INJECTOR preserves its natural characteristics while distorting through Nutube, providing a tone that sounds as if your connected amp is pushed into even more distortion.
@@ -29,7 +29,7 @@ Sku: VE-FI SPECS Specs PHOTOS Photos Product Description An Overdrive with Disti
 - **Exact part:** Unknown.
 
 ## Sound
-Sku: VE-FI SPECS Specs PHOTOS Photos Product Description An Overdrive with Distinct Tube-like Response and Rich Harmonics, Featuring Organic Distortion FUEL INJECTOR offers a distinctive overdrive with clean characteristics, rich harmonics, and a natural sense of compression and bite.
+An Overdrive with Distinct Tube-like Response and Rich Harmonics, Featuring Organic Distortion FUEL INJECTOR offers a distinctive overdrive with clean characteristics, rich harmonics, and a natural sense of compression and bite.
 Developed by amp manufacturer VOX, this overdrive pedal stands out for its amp-like distortion, in contrast to typical pedal distortions.
 Unlike effects that color the tone like preamp-style pedals, FUEL INJECTOR preserves its natural characteristics while distorting through Nutube, providing a tone that sounds as if your connected amp is pushed into even more distortion.
 

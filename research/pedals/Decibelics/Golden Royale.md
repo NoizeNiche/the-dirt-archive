@@ -7,10 +7,10 @@
 - **Identity:** Decibelics's Golden Royale.
 
 ## What this pedal is
-€ 319.00 – € 349.00 Price range: €319.00 through €349.00 Version Choose an option Standard Black Crystal White Hammered Blue Hammered Green Hammered Copper Gold Silver Test Transparent Copper Purple Special Clear Decibelics Golden Royale quantity Pre-Order SKU: N/A Category: Double Pedals Choose a Currency EUR (€) USD ($) GBP (£) CAD ($) AUD ($) JPY (¥) CNY (¥) KRW (₩) Description Additional information Reviews (2) DUE TO WORK OVERLOAD, GOLDEN ROYALE PRE-ORDERS ARE TEMPORARILY CLOSED AND WILL RESUME OCTOBER 1ST THIS ALLOWS ME TO FOCUS ON CURRENT ORDERS WITH THE CARE THEY DESERVE.
+Additional information Reviews (2) DUE TO WORK OVERLOAD, GOLDEN ROYALE PRE-ORDERS ARE TEMPORARILY CLOSED AND WILL RESUME OCTOBER 1ST THIS ALLOWS ME TO FOCUS ON CURRENT ORDERS WITH THE CARE THEY DESERVE.
 
 ## Colorways
-- € 319.00 – € 349.00 Price range: €319.00 through €349.00 Version Choose an option Standard Black Crystal White Hammered Blue Hammered Green Hammered Copper Gold Silver Test Transparent Copper Purple Special Clear Decibelics Golden Royale quantity Pre-Order SKU: N/A Category: Double Pedals Choose a Currency EUR (€) USD ($) GBP (£) CAD ($) AUD ($) JPY (¥) CNY (¥) KRW (₩) Description Additional information Reviews (2) DUE TO WORK OVERLOAD, GOLDEN ROYALE PRE-ORDERS ARE TEMPORARILY CLOSED AND WILL RESUME OCTOBER 1ST THIS ALLOWS ME TO FOCUS ON CURRENT ORDERS WITH THE CARE THEY DESERVE.
+Additional information Reviews (2) DUE TO WORK OVERLOAD, GOLDEN ROYALE PRE-ORDERS ARE TEMPORARILY CLOSED AND WILL RESUME OCTOBER 1ST THIS ALLOWS ME TO FOCUS ON CURRENT ORDERS WITH THE CARE THEY DESERVE.
 - You can subscribe to be notified when new Pre-Orders drop: Select the color version you prefer and click on the big black button that shows up - Add [email protected] to your email contacts so you don't miss out - US CUSTOMERS: READ THIS BEFORE ORDERING – TARIFFS INFO DECIBELICS GOLDEN ROYALE PROFESSIONAL DUAL OVERDRIVE Handcrafted from carefully selected parts with extreme attention to detail, the Decibelics Golden Royale is a part-for-part replica of the legendary Klon Centaur Professional Overdrive in a dual format.
 - The Golden Royale is offered in either Standard Black and the Special Colors.
 

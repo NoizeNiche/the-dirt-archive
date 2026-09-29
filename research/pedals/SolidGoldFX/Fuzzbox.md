@@ -57,7 +57,6 @@ Classic Fuzztones for the Modern age The SGFX Fuzzbox is a modern evolution of o
 - silicon transistors.
 
 ### Verified sound evidence
-Add to cart Added Sold out Unavailable Add to cart Default Title - $199.00 USD Click here to be notified by email when FUZZBOX - BENDER FUZZ becomes available.
 Classic Fuzztones for the Modern age The SGFX Fuzzbox is a modern evolution of one of the most iconic fuzz circuits ever made, the Tone Bender Mk II.
 Originally developed in mid-’60s England, the Mk II helped define the sound of British rock with its thick, harmonically rich tone and incredible response to a player’s touch.
 

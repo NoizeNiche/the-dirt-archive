@@ -41,7 +41,6 @@ BMF Effects's Sisyphuzz Silicon Fuzz is cataloged as a fuzz pedal.
 
 ### Verified sound evidence
 Open media 3 in modal Play video Sisyphuzz Silicon Fuzz opens full screen video in same window.
-Open media 4 in modal Play video 1 / of 4 Sisyphuzz Silicon Fuzz Sisyphuzz Silicon Fuzz Regular price $209.00 USD Regular price Sale price $209.00 USD Unit price / per Sale Sold Out!
 Dimensions - 2.9" W x 4.5" L (73.7mm x 114.3mm) Operating DC - 9v Current Draw - 2mA Download Instructions for the Sisyphuzz Silicon Fuzz *Color and/or graphics subject to change.
 
 ### Sources checked in this pass

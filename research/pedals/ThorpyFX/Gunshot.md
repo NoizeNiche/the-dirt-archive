@@ -30,8 +30,7 @@ The GUNSHOT was designed to be the overdrive to beat all others.
 - The archive records only the component information explicitly present in these sources.
 
 ## Sound
-Overdrive Increase quantity for GUNSHOT
-Overdrive Add to cart Description The all new look GUNSHOT (MKIIB)!
+Description The all new look GUNSHOT (MKIIB)!
 
 ## Sources checked
 1. GUNSHOT | Overdrive: https://thorpyfx.com/en-us/products/the-gunshot-overdrive

@@ -28,8 +28,7 @@ The Rogue Trooper Fallout Cloud, embodies the dark vengeful theme of the dystopi
 - **Exact part:** Unknown.
 
 ## Sound
-Fuzz Increase quantity for ROGUE TROOPER FALLOUT CLOUD
-Fuzz Add to cart Description Having survived the Quartz Zone massacre, the ROGUE TROOPER is here to exact revenge along with his colleagues Biochips implanted in his Gun, Bag and Helmet.
+Having survived the Quartz Zone massacre, the ROGUE TROOPER is here to exact revenge along with his colleagues Biochips implanted in his Gun, Bag and Helmet.
 
 ## Sources checked
 1. ROGUE TROOPER FALLOUT CLOUD | Fuzz: https://thorpyfx.com/en-us/products/rogue-trooper-fallout-cloud-fuzz

@@ -30,7 +30,7 @@ I know it’s the end of mine!” – Crafted Collaboration The Thornicus Fuzz i
 - **Exact part:** Unknown.
 
 ## Sound
-$ 329.00 In stock Thornicus Fuzz quantity Add to cart FIND A SUHR DEALER “Since very early on in my electric guitar journey, I’ve loved Fuzz.
+FIND A SUHR DEALER “Since very early on in my electric guitar journey, I’ve loved Fuzz.
 I know it’s the end of mine!” – Crafted Collaboration The Thornicus Fuzz is the result of a long-standing creative partnership between Kevin Suhr and world-renowned musician Ian Thornley.
 Their shared obsession with tone, feel, and musical expression has driven countless late-night circuit experiments, A/B tests, and iterative refinements.
 

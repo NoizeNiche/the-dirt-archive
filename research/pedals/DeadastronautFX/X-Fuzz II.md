@@ -29,7 +29,7 @@ Register now 0,00 � There are no items in your basket All categories Enclosure
 ## Sound
 X-Fuzz II kit, 27,00 � English German Shipping Costs Forum Contact us Shipping Costs English English German Login New here?
 Register now 0,00 � There are no items in your basket All categories Enclosures Aluminium diecast enclosures Sheet metal enclosures Looper enclosure 19" Enclosures Plastics enclosures Enclosure accessories GORVA design Kits Musikding Kits GuitarPCB Aion Electronics Parasit Studio kits PedalPCB TH Custom Effects God City Instruments Madamp Kits PCB Guitar Mania Schalltechnik_04 Conspiracy to Commit Electronics Dead Astronaut FX Electric Druid kits Five-Cats-Pedals Griffin Effects JMK PCBs Lectric-fx MAS Effects Moonn Electronics Web Projects Huntington Audio Labs CopperSound Pedals Delyk PCBs Oscillator Devices Sommer Cable MusicPCB Kastle Switches Footswitches Footswitch momentary Toggle Switches Rotary Switches Relay Slide Switches Optocoupler Micro Switches DIP Switches Pushbutton Switches Rocker Switches Mechanische Bauteile Wire Mounting materials Circuit boards Sale items Wah Parts Connectors Jacks DC Jacks Phone Plugs DC Plugs RCA / XLR / MIDI Jacks RVA / XLR / MIDI Plugs Banana Jacks Banana Plugs Speakon Fuses Knobs Bakelite knobs Plastic knobs Chickenhead Knobs Pointer Knobs Knobs Plastics/Metal Knobs Metal Passive parts Potentiometer Capacitors Resistors Transformers Reverb Tanks Active parts ICs Diodes Transistors Tubes Gift Voucher Pedalboard Pedalboards Wiring Power supply Assembly Accessories Drilling Glueing Cutting Screw Pliers Soldering Measuring Power Supply Useful Things Shipping Costs Forum Contact us Contact Shipping costs Payment options Imprint Terms of service Data protection declaration Our Brands About us News Kits Dead Astronaut FX X-Fuzz II kit X-Fuzz II kit Videos: X-Fuzz II kit � Deadastronaut FX X-Fuzz II kit Item number: 3720 Transistor Fuzz.
-VAT, plus shipping (mitttel) Short supply Shipping time : 3-7 Working days Add to basket Wishlist Compare Question on item Description A great full, rich fuzz, with a nice tubescreamer overdrive option with the toggle switch in the middle position.
+A great full, rich fuzz, with a nice tubescreamer overdrive option with the toggle switch in the middle position.
 
 ## Sources checked
 1. DEADASTRONAUTFX X-FUZZ II PEDAL - Reverb: https://reverb.com/item/75744010-deadastronautfx-x-fuzz-ii-pedal
@@ -52,7 +52,7 @@ DeadastronautFX's X-Fuzz II is cataloged as a fuzz pedal.
 
 ### Verified sound evidence
 X-Fuzz II kit, 27,00 � English German Shipping Costs Forum Contact us Shipping Costs English English German Login New here?
-VAT, plus shipping (mitttel) Short supply Shipping time : 3-7 Working days Add to basket Wishlist Compare Question on item Description A great full, rich fuzz, with a nice tubescreamer overdrive option with the toggle switch in the middle position.
+A great full, rich fuzz, with a nice tubescreamer overdrive option with the toggle switch in the middle position.
 
 ### Sources checked in this pass
 1. DEADASTRONAUTFX X-FUZZ II PEDAL - Reverb: https://reverb.com/item/75744010-deadastronautfx-x-fuzz-ii-pedal

@@ -27,7 +27,6 @@ Don't let the Big Puft playful appearance fool you, this is an aggressive and ve
 - **Exact part:** Unknown.
 
 ## Sound
-View in your space Big Puft Fuzz Device Title Default Title Default Title - $179.00 USD Sale price Regular price $179.00 ( / ) It's back in a more pedalboard friendly size!
 It has a smooth and moderate amount of gain, a ton of output if needed and a tone stack that is more mid forward so you aren't as lost in a mix.
 Don't let the Big Puft playful appearance fool you, this is an aggressive and versatile fuzz pedal.
 

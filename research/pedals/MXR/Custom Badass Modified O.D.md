@@ -29,7 +29,6 @@ The MXR Custom Badass Modified Overdrive is a versatile overdrive pedal with mod
 ## Sound
 For added flexibility, we've added a 100HZ cut and boost control that allows for a more focused EQ when cut, or a beefier tone when boosted.
 Put it in front of the '78 Custom Badass Distortion for a slew of amp-like gain structures that won't mask your tone.
-Current Stock: Quantity: Decrease Quantity: Increase Quantity: Add to Bag atc-product: 1762 atc-product: 1773 atc-product: 517 Related Gear Add to Bag MXR® SUPER BADASS® DYNAMIC O.D.
 
 ## Sources checked
 1. MXR Custom Badass Modified O.D. Pedal Review - Premier Guitar: https://www.premierguitar.com/gear/mxr-custom-badass-modified-o-d-pedal-review

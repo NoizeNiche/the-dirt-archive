@@ -27,7 +27,7 @@ The Copperhead Drive valve distortion pedal offers the powerful crunch of Britis
 - **Exact part:** Unknown.
 
 ## Sound
-Sku: VECD Buy now Buy local Find online Documents SPECS Specs PHOTOS Photos Product Description Valvenergy – Copperhead Drive Iconic amp sounds for your pedalboard.
+Valvenergy – Copperhead Drive Iconic amp sounds for your pedalboard.
 The Copperhead Drive valve distortion pedal offers the powerful crunch of British full stack amps in a compact pedal format, powered by Nutube for warm and responsive amp-like tones.
 Inspired by thick and punchy British amp tones, the Copperhead Drive goes beyond the amp-in-a-box category to offer a truly flexible valve distortion pedal.
 

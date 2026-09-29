@@ -27,7 +27,7 @@ The Carolina Reaper is true bypass, offers soft-touch switching, and independent
 - **Exact part:** Unknown.
 
 ## Sound
-MSRP: Was: Now: $229.00 (You save ) SKU: UPC: 850039942006 Current Stock: Adding to cart… The item has been added Add to Wish List Create New Wish List Facebook Email Print Description Thanks to the Carolina Reaper, your drive section just got a whole lot scarier.
+Thanks to the Carolina Reaper, your drive section just got a whole lot scarier.
 The right side of the pedal features a high-gain Germanium overdrive circuit that will leave your guitar screaming.
 The left side hosts a scalding high-gain Germanium fuzz.
 
@@ -49,7 +49,7 @@ The Carolina Reaper is true bypass, offers soft-touch switching, and independent
 - Germanium fuzz.
 
 ### Verified sound evidence
-MSRP: Was: Now: $229.00 (You save ) SKU: UPC: 850039942006 Current Stock: Adding to cart… The item has been added Add to Wish List Create New Wish List Facebook Email Print Description Thanks to the Carolina Reaper, your drive section just got a whole lot scarier.
+Thanks to the Carolina Reaper, your drive section just got a whole lot scarier.
 The left side hosts a scalding high-gain Germanium fuzz.
 However, if you dare to use both the overdrive and the fuzz together, you’ll fling open a portal to intergalactic doom.
 

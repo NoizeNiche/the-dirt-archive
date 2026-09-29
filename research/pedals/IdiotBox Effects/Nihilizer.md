@@ -28,7 +28,6 @@ IdiotBox Effects's Nihilizer is cataloged as a distortion pedal.
 
 ## Sound
 The left NIHILIZATION side was a killer unique distortion with volume and tone controls as well as an internal distortion control that was set to full blast.
-You might also like Sold out Quick view Motorhank T-Shirt $ 12.00 Quick view Blower Box Bass Distortion $ 139.00 Quick view Blower Box Deluxe $ 159.00 You might also like
 
 ## Sources checked
 1. Nihilizer | IdiotBox Effects: https://www.idiotboxeffects.com/product/nihilizer

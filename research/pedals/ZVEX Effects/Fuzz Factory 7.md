@@ -29,7 +29,7 @@ ZVEX Effects's Fuzz Factory 7 is cataloged as a fuzz pedal.
 ## Sound
 Fuzz Factory 7 — ZVEX Effects For Fastest Service: If you need repairs, technical help, or replacement parts, see our repairs page , or contact repairs@zvex.com .
 Mod Modulation Octave Phaser Sampler Step Sequencer Tremolo Vibrato Volume Wah Yvette Young Guitar Pedals ← Back to Guitar Pedals Fuzz Factory 7 Fuzz Factory 7 $499.00 Hand painted pedals feature a lifetime warranty.
-Quantity: Add To Cart The next edition of our Fuzz Factory 7, using two NOS 1960s GT308 germanium transistors (from Ukraine) Germanium transistors.
+The next edition of our Fuzz Factory 7, using two NOS 1960s GT308 germanium transistors (from Ukraine) Germanium transistors.
 
 ## Sources checked
 1. Fuzz Factory 7 — ZVEX Effects: https://www.zvex.com/guitar-pedals/fuzz-factory-7-guitar-effects-pedal

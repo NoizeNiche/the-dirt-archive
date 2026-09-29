@@ -27,7 +27,7 @@ Wren and Cuff's OG Caprid is cataloged as a Distortion / Fuzz pedal.
 - **Exact part:** Unknown.
 
 ## Sound
-Home Pedals All Pedals Muffs Distortion/Fuzz Boost and Compression Info Shipping Warranty Repairs Artists About Us FAQ's Gift Cards Apparel Dealers Contact B-Stock $324.99 Ram's Head Recreated True hard-wire bypass 9V battery or 2.1mm adapter Made in the USA Lifetime warranty Quantity: Add To Cart After many years, and many requests, we’ve finally given in and reissued our famous original Caprid!
+After many years, and many requests, we’ve finally given in and reissued our famous original Caprid!
 
 ## Sources checked
 1. OG Caprid — Wren and Cuff: https://www.wrenandcuff.com/products/og-caprid

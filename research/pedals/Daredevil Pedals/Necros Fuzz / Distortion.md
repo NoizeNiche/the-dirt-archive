@@ -11,7 +11,6 @@ Daredevil's current official site lists the exact model as **Necros Fuzz / Disto
 
 ## Versions and factory status
 - The official 2026 catalog classifies Necros as a **Limited Edition** model.
-- The current listing price is $199.00 and the product is shown as sold out.
 - The surviving official catalog page reviewed does not establish the exact production run size, revision history, or complete colorway sequence.
 
 ## Controls / circuit

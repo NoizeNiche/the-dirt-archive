@@ -28,7 +28,6 @@ Fundamental Fuzz The Fundamental Fuzz is a three-mode aggressive fuzz pedal with
 - The archive records only the component information explicitly present in these sources.
 
 ## Sound
-Fundamental Series Fuzz FREE SHIPPING We ship most orders within 1-3 business days.
 It can live anywhere in your chain: hit it with your favorite overdrive or push it into another crazy distortion.
 Fundamental Fuzz The Fundamental Fuzz is a three-mode aggressive fuzz pedal with a wide tonal range.
 

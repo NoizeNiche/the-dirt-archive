@@ -7,7 +7,7 @@
 - **Identity:** ThorpyFX's Bunker.
 
 ## What this pedal is
-Plexi Overdrive Add to cart Description The Bunker is a plexi style overdrive based around the original Lovetone Brown Source pedal.
+The Bunker is a plexi style overdrive based around the original Lovetone Brown Source pedal.
 
 ## Colorways
 - No specific factory colorway information was established in the verified evidence packet.

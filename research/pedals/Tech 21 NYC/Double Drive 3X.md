@@ -10,7 +10,6 @@
 The 100% analog Double Drive 3X is a 3-channel, fully programmable version of its single channel predecessor and features active 3-band EQ.
 
 ## Colorways
-- Add to cart All Products Deering Nylon Banjo Strap – Black $ 12.95 Original price was: $12.95.
 
 ## Versions and factory options
 - No distinct factory revision was established in the verified evidence packet.

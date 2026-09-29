@@ -28,8 +28,7 @@ ThorpyFX's FIELD MARSHAL — Fuzz is cataloged as a distortion / fuzz / overdriv
 - **Exact part:** Unknown.
 
 ## Sound
-Fuzz Increase quantity for FIELD MARSHAL
-Fuzz Add to cart Description The FIELD MARSHAL MKII is a MKII version of the Lovetone Big Cheese fuzz.
+The FIELD MARSHAL MKII is a MKII version of the Lovetone Big Cheese fuzz.
 
 ## Sources checked
 1. FIELD MARSHAL | Fuzz: https://thorpyfx.com/en-us/products/the-field-marshal-fuzz-mkii

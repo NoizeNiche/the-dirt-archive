@@ -30,7 +30,7 @@ Anyway, I just wanted to say thanks and to keep doing whatever it is you're doin
 ## Sound
 Silky classic yet modern sustain/distortion Powerful and high gain while remaining tight and articulate, this fuzz pedal's versatility lends it to many different musical applications.
 Articulate, not too mushy; retains your attack and playing nuances at all levels of gain and gets along equally well with single and humbuckers.
---Marc Price: $275 + shipping $275 $247.50 (10% off) 50% deposit $123.75 Quantity qty Add To Cart classic silky yet refined and modern distortion Reviews • Clips • Manual Sounds so good, it's addictive Kick it on and you'll instantly be inspired by this vintage-style, 4-silicon-transistor distortion / fuzz / sustain stompbox.
+Sounds so good, it's addictive Kick it on and you'll instantly be inspired by this vintage-style, 4-silicon-transistor distortion / fuzz / sustain stompbox.
 
 ## Sources checked
 1. Big Muff variants | Fuzz | Cognitive Dissonance MkIV | Skreddy Pedals: https://skreddypedals.com/cogdis

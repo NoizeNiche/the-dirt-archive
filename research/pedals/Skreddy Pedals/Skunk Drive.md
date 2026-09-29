@@ -32,7 +32,7 @@ That certainly goes for the new Skunk Drive Model 1606, a simple, straight-ahead
 ## Sound
 Vintage cutting fuzz/overdrive like early Zeppelin Legendary vintage tones at your fingertips Masterfully emulates the effect of a certain model of low-Wattage amp being hit hard by a 1960's fuzzy booster.
 Cleans up with the guitar volume like you would want it to, serves as a fantastic base tone, and can be used to kick up a solo way out front in the mix.
---Marc Price: $237 + shipping $237 $213.30 (10% off) 50% deposit $106.65 Quantity qty Add To Cart Reviews • Clips • Manual When Page needed an aggressive sound for his new band, initially named "The New Yardbirds," he reached for one of 2 small Supro combos.
+When Page needed an aggressive sound for his new band, initially named "The New Yardbirds," he reached for one of 2 small Supro combos.
 
 ## Sources checked
 1. Overdrive | Skunk Drive | Skreddy Pedals: https://skreddypedals.com/skunk

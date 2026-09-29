@@ -27,8 +27,7 @@ ThorpyFX's The KUDU — Overdrive is cataloged as a distortion / fuzz / overdriv
 - **Exact part:** Unknown.
 
 ## Sound
-Overdrive Increase quantity for The KUDU
-Overdrive Add to cart Description KUDU is the drive enhancer you never knew you needed.
+KUDU is the drive enhancer you never knew you needed.
 
 ## Sources checked
 1. The KUDU | Overdrive: https://thorpyfx.com/en-us/products/the-kudu

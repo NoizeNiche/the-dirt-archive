@@ -29,7 +29,6 @@ The Lysis MKII is designed to meld the world of strings with that of synths.
 
 ## Sound
 LYSIS MKII - POLYPHONIC OCTAVE FUZZ MODULATOR
-Add to cart Added Sold out Unavailable Add to cart Default Title - $250.00 USD Click here to be notified by email when LYSIS MKII - POLYPHONIC OCTAVE FUZZ MODULATOR becomes available.
 The Lysis MKII applies thick, resonant filters, multiple polyphonic voicings and sweeping LFO’s, all drenched in an analog square-wave fuzz to your instrument of choice.
 
 ## Sources checked

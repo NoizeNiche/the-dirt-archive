@@ -43,7 +43,7 @@ This cat fuzz that thrives on instability — because sometimes chaos is exactly
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
 
 ### Verified description
-Default Title Error Quantity must be 1 or more Add to cart Adding product to your cart From the TONECAT Home of Tone collection, Ziggy is a wild, unpredictable multi-bias fuzz pedal built for players who want expressive, unstable, and harmonically rich fuzz tones.
+Adding product to your cart From the TONECAT Home of Tone collection, Ziggy is a wild, unpredictable multi-bias fuzz pedal built for players who want expressive, unstable, and harmonically rich fuzz tones.
 
 ### Verified version references
 - The evidence references: v1.

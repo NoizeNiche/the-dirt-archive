@@ -27,7 +27,7 @@ ThorpyFX's Cogmeister is cataloged as a distortion / fuzz / overdrive pedal.
 - **Exact part:** Unknown.
 
 ## Sound
-Quantity Decrease quantity for Hypoid Drive Increase quantity for Hypoid Drive Add to cart Description A stand-alone pedal identical to the “Drive” section found on the Cogmeister.
+A stand-alone pedal identical to the “Drive” section found on the Cogmeister.
 
 ## Sources checked
 1. Dinosaural Cogmeister Overdrive Pedal By Dan Coggins and ThorpyFX: https://www.ebay.co.uk/itm/267781512536

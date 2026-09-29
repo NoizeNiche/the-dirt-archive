@@ -7,7 +7,7 @@
 - **Identity:** Way Huge's Conquistador Fuzzstortion.
 
 ## What this pedal is
-Way Huge Conquistador Fuzzstortion quantity Add to cart SKU: GEMWF796024 Category: Distortion 84 people are viewing this right now
+SKU: GEMWF796024 Category: Distortion 84 people are viewing this right now
 
 ## Colorways
 - No specific factory colorway information was established in the verified evidence packet.

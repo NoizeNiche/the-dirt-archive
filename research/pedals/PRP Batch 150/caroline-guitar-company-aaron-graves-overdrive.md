@@ -21,7 +21,6 @@
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
 
 ### Verified description
-Versatile Preamp & Drive Pedal $ 199.00 Default Title Qty Sold Out A Tribute to Community, Growth, and Great Tone The Aaron Graves Overdrive is our first completely fresh drive pedal in quite a while, built as a heartfelt tribute to a dearly departed friend, fellow musician, and champion of the local Columbia, S.C.
 
 ### Verified version references
 - The evidence references: V1.
@@ -29,7 +28,6 @@ Versatile Preamp & Drive Pedal $ 199.00 Default Title Qty Sold Out A Tribute to 
 ### Verified sound evidence
 Versatile Preamp & Drive - Cottonwood Music Emporium
 Versatile Preamp & Drive Pedal " /> " /> " /> " /> " /> " /> " > " > " > " > " > " > " > Caroline Guitar Aaron Graves Overdrive
-Versatile Preamp & Drive Pedal $ 199.00 Default Title Qty Sold Out A Tribute to Community, Growth, and Great Tone The Aaron Graves Overdrive is our first completely fresh drive pedal in quite a while, built as a heartfelt tribute to a dearly departed friend, fellow musician, and champion of the local Columbia, S.C.
 
 ### Sources checked in this pass
 1. Aaron Graves Overdrive Pedal | Versatile Preamp & Drive - Cottonwood Music Emporium: https://www.cottonwoodmusicemporium.com/products/caroline-guitar-aaron-graves-overdrive-versatile-preamp-drive-pedal

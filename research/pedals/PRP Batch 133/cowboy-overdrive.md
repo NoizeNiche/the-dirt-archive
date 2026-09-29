@@ -37,7 +37,6 @@ This pass adds only claims supported by the newly admitted exact-model evidence.
 Byron Amplification's Cowboy Overdrive is cataloged as an overdrive pedal.
 
 ### Verified sound evidence
-Boost/Drive and Fuzz Sale Price: $149.00 Original Price: $159.00 sold out Kompressor Sale Price: $149.00 Original Price: $159.00 sold out Lil' Shaman Overdrive Sale Price: $149.00 Original Price: $159.00 sold out Again!
 
 ### Sources checked in this pass
 1. Pedals — Byron Amplification: https://byronamplification.com/pedals

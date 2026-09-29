@@ -28,7 +28,6 @@ Dirty Boy's The Magical MYSTERY FUZZ is cataloged as a Fuzz pedal.
 
 ## Sound
 The Magical MYSTERY FUZZ – Dirty Boy Co.
-The Magical MYSTERY FUZZ The Magical MYSTERY FUZZ Regular price $399.00 USD Regular price Sale price $399.00 USD Unit price / per Sale Sold out Taxes included.
 
 ## Sources checked
 1. The Magical MYSTERY FUZZ – Dirty Boy Co.: https://www.dirtyboy.co/products/the-magical-mystery-fuzz
@@ -52,7 +51,6 @@ Dirty Boy's The Magical MYSTERY FUZZ is cataloged as a fuzz pedal.
 
 ### Verified sound evidence
 The Magical MYSTERY FUZZ – Dirty Boy Co.
-The Magical MYSTERY FUZZ The Magical MYSTERY FUZZ Regular price $399.00 USD Regular price Sale price $399.00 USD Unit price / per Sale Sold out Taxes included.
 
 ### Sources checked in this pass
 1. The Magical MYSTERY FUZZ – Dirty Boy Co.: https://www.dirtyboy.co/products/the-magical-mystery-fuzz

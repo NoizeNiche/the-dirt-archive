@@ -10,7 +10,7 @@
 Stomp Under Foot Son of a Bee Fuzz Pedal Review Inspired by the classic Roland Bee Baa, the Son of a Bee is a modern update that delivers massive, sticky fuzz.
 
 ## Colorways
-- Add to cart Fuzz Black Beauty Balanced ’11 $ 160.00 Original price was: $160.00.
+Fuzz Black Beauty Balanced ’11 $ 160.00 Original price was: $160.00.
 
 ## Versions and factory options
 - The verified evidence references: MKII, V2.

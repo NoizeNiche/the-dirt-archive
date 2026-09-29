@@ -27,7 +27,7 @@ The Wren and Cuff UB-Stone Shinichi Ubukata Signature Fuzz is a fuzz pedal desig
 - **Exact part:** Unknown.
 
 ## Sound
-Home Pedals All Pedals Muffs Distortion/Fuzz Boost and Compression Info Shipping Warranty Repairs Artists About Us FAQ's Gift Cards Apparel Dealers Contact B-Stock sold out $0.00 Features: ONLY AVAILABLE IN JAPAN THROUGH Lep International Heavy-duty folded steel enclosure Two NOS vintage germanium transistors Real silkscreened graphics on textured paint to recreate the vintage look Made by hand in small batches in Los Angeles, CA Add To Cart Only available in Japan through Lep International Lep International order info
+Only available in Japan through Lep International Lep International order info
 The Wren and Cuff UB-Stone Shinichi Ubukata Signature Fuzz is a fuzz pedal designed in collaboration with Shinichi Ubukata.
 This fuzz pedal is a great choice for guitarists looking for a classic fuzz sound, similar to that of a Big Muff .
 

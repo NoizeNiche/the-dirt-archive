@@ -29,7 +29,7 @@ Thick and fuzzy but articulate, with an old school feel Modeled sonically on the
 
 ## Sound
 Fat vintage fuzz Thick and huge-sounding, this 1973-era-based fuzz is fat on chords and riffs and soars with infinite sustain on single-note runs.
---Marc Price: $385 + shipping $385 $346.50 (10% off) 50% deposit $173.25 Quantity qty Add To Cart Funky Fuzz Reviews • Clips • Manual sounds like a vintage fuzz feeding a cranked up amp, with as much output volume you could ever want.
+sounds like a vintage fuzz feeding a cranked up amp, with as much output volume you could ever want.
 Thick and fuzzy but articulate, with an old school feel Modeled sonically on the beloved 'lamb's head' edition of vintage fuzz boxes (only supercharged and extra fat + "vintagey" sounding), the Ernie is a 4-silicon-transistor distortion/fuzz/sustain stompbox.
 
 ## Sources checked

@@ -29,7 +29,7 @@ Built as a fully analog design with true bypass switching, Purple Moon is housed
 
 ### Verified sound evidence
 Toggle Menu Purple Moon A fuzz and vibe hybrid delivering rich vintage tones with psychedelic character, suited for expressive lead work.
-129,00 € Add to cart More details · Find a dealer Combines vintage-style fuzz with classic vibe-style modulation for rich, expressive tones.
+More details · Find a dealer Combines vintage-style fuzz with classic vibe-style modulation for rich, expressive tones.
 Fuzz circuit delivers organic, musical saturation with natural note bloom and chord movement.
 
 ### Sources checked in this pass

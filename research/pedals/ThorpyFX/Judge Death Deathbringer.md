@@ -28,8 +28,7 @@ Through minute tailoring of the circuit, the Deathbringer/WARTHOG delivers the b
 - **Exact part:** Unknown.
 
 ## Sound
-Distortion Increase quantity for JUDGE DEATH DEATHBRINGER
-Distortion Add to cart Description Hailing from Deadworld, Judge Death has crossed through a dimensional breach into Mega-City One to bring you the Deathbringer, a guitar pedal of sonic annihilation to boost, drive, distort or fuzz up your reality.
+Hailing from Deadworld, Judge Death has crossed through a dimensional breach into Mega-City One to bring you the Deathbringer, a guitar pedal of sonic annihilation to boost, drive, distort or fuzz up your reality.
 
 ## Sources checked
 1. JUDGE DEATH DEATHBRINGER | Distortion: https://thorpyfx.com/en-us/products/judge-death-deathbringer-warthog
