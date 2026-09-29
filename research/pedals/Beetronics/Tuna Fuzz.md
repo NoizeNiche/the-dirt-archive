@@ -9,9 +9,7 @@
 - **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Tuna Fuzz** by **Beetronics** as a **Fuzz** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
-
-## Catalog source
+The Tuna Fuzz is a **three-transistor fuzz** housed in a tuna-can-style enclosure. Its single STINKER control sets master volume, while Beetronics recommends using the guitar's volume control to shape gain and cleanup. citeturn217828search5turn217828search10\n\n## Catalog source
 - Catalog source page on file: https://www.beetronicsfx.com/collections/all-pedals-1
 
 ## Deep research verification
