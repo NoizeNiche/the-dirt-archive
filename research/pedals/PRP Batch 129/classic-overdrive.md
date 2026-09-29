@@ -47,7 +47,6 @@ Build Your Own Clone's Classic Overdrive is cataloged as an overdrive pedal.
 
 ### Verified sound evidence
 This build is designed to be simple and affordable, offering the same tone as the original TS-808 at a fraction of the cost of reissues and boutique versions.
-Be the first to review “Classic Overdrive by Build Your Own Clone (BYOC)” Cancel reply Your email address will not be published.
 Δ More Schematics Based On: Marshall AFD Appetite for Distortion by PCB Guitar Mania Add To Cart Based On: Diezel VH4 Benzin VH4 by PCB Guitar Mania Add To Cart Based On: Horizon Devices Precision drive Collision Drive by PCB Guitar Mania Add To Cart (c) Stomp Box Schematics
 
 ### Sources checked in this pass
