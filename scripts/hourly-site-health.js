@@ -276,7 +276,7 @@ async function browserCheck(liveUrl, pedals, canaries) {
     if(await page.locator('[data-type]').count()<4) throw new Error('Dirt-type filters missing');
     if(await page.locator('[data-builder]').count()<2) throw new Error('Builder controls missing');
     if(await page.locator('#grid .card').count()===0) throw new Error('Catalog rendered zero cards');
-    const firstHref=await page.locator('#grid .card').first().getAttribute('href');
+    const firstHref=await page.locator('#grid .card .cardLink').first().getAttribute('href');
     if(!firstHref || !firstHref.includes('pedal-detail.html?builder=')) throw new Error('Catalog card routing is malformed');
 
     if(variationCanary){
