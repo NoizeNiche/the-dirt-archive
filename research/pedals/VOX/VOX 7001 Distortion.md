@@ -7,58 +7,34 @@
 - **Identity:** VOX's VOX 7001 Distortion.
 
 ## What this pedal is
-SKU: PWS9786431256 Category: Discounted items $208.99 $104.50 In stock Vox 7001 Distortion 1980 quantity Add to cart Description The Vox Model 7001 (sometimes labeled Model 9001) Distortion Pedal was introduced in the 1981 "Vox: Born Out of Rock" product catalogand produced for Vox by Guyatone of Japan.
+The VOX Model **7001 Distortion** is an early-1980s Japanese pedal produced for VOX by Guyatone. Historical catalogs sometimes identify the same model family with the **9001** designation.
 
 ## Colorways
-- No specific factory colorway information was established in the verified evidence packet.
+- No complete factory colorway chronology was established in the checked sources.
 
 ## Versions and factory options
-- No distinct factory revision was established in the verified evidence packet.
+- Two rotary controls: **Output** and **Distortion**.
+- Red LED indicates effect operation.
+- The archive treats 7001 and 9001 references as a model-family naming issue, not automatically as different circuits.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- No complete dated production revision chronology was established.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
+- Exact production transistor/device information was not established in the checked sources.
 - **Exact transistor/device:** Unknown.
 
 ## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
-- **Exact part:** Unknown.
+- The checked source documents the LED indicator but not the clipping-device part.
+- **Exact clipping part:** Unknown.
 
 ## Sound
-SKU: PWS9786431256 Category: Discounted items $208.99 $104.50 In stock Vox 7001 Distortion 1980 quantity Add to cart Description The Vox Model 7001 (sometimes labeled Model 9001) Distortion Pedal was introduced in the 1981 "Vox: Born Out of Rock" product catalogand produced for Vox by Guyatone of Japan.
-The pedal featured two rotary controls: Output and Distortion.
+The 7001 provides a simple two-control distortion architecture. The Output and Distortion controls give a relatively direct way to set the amount of saturation and overall level.
 
 ## Sources checked
-1. The VOX Showroom - Vox 7001 Distortion Pedal 3_Footer: https://voxshowroom.com/uk/misc/9001_distortion.html
-2. Vox 7001 Distortion 1980 – Tonefest Guitar Gallery: https://www.tonefestguitargallery.com/products/vox-7001-distortion-1980
-3. Vox 7001 Distortion 1980 | Discounted items: https://www.classicgalleryx.com/product/vox-7001-distortion-1980/
-4. Vox 7001 Distortion 1980 - Mother’s Day Exclusive — Guitars, Keyboards, Drums, Recording Gear, and Music Accessories: https://www.vibrantp.com/product/vox-7001-distortion-1980/
+1. The VOX Showroom - Vox 7001 Distortion: https://voxshowroom.com/uk/misc/9001_distortion.html
+2. Tonefest Guitar Gallery - Vox 7001 Distortion 1980: https://www.tonefestguitargallery.com/products/vox-7001-distortion-1980
+3. Effects Database - VOX 7001/9001 family: https://www.effectsdatabase.com/model/vox/7001
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
-
-## Deep research verification
-
-This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
-
-### Verified description
-The VOX Showroom - Vox 7001 Distortion Pedal .....
-
-### Verified color/finish evidence
-- A red LED illuminated to indicate the effect was in use.
-
-### Verified diode terms
-- LED.
-
-### Verified sound evidence
-The VOX Showroom - Vox 7001 Distortion Pedal .....
-The pedal featured two rotary controls: Output and Distortion.
-Vox 7001 Distortion 1980 - Mother’s Day Exclusive — Guitars, Keyboards, Drums, Recording Gear, and Music Accessories Welcome to our store!
-
-### Sources checked in this pass
-1. The VOX Showroom - Vox 7001 Distortion Pedal: https://voxshowroom.com/uk/misc/9001_distortion.html
-2. Vox 7001 Distortion 1980 – Tonefest Guitar Gallery: https://www.tonefestguitargallery.com/products/vox-7001-distortion-1980
-3. Vox 7001 Distortion 1980 | Discounted items: https://www.classicgalleryx.com/product/vox-7001-distortion-1980/
-4. Vox 7001 Distortion 1980 - Mother’s Day Exclusive — Guitars, Keyboards, Drums, Recording Gear, and Music Accessories: https://www.vibrantp.com/product/vox-7001-distortion-1980/
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.
