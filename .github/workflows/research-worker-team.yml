@@ -47,6 +47,46 @@ jobs:
           pending=[p for p in pending if p["builder"] and p["pedal"]]
           pending.sort(key=lambda x:(x["builder"].casefold(),x["pedal"].casefold()))
 
+          # Deep-researched records can still have thin visible prose. Build a
+          # bounded quality queue from the same canonical research audit used in
+          # CI so source-rich records can be re-evidenced without reopening the
+          # catalog's research-complete state.
+          quality_keys=set()
+          try:
+              import csv, subprocess
+              from pathlib import Path
+              audit_path=Path("/tmp/research-content-quality.csv")
+              subprocess.run(
+                  [sys.executable,"scripts/audit-research-content.py","--output",str(audit_path)],
+                  check=True,
+                  stdout=subprocess.DEVNULL,
+              )
+              for row in csv.DictReader(audit_path.open(newline="",encoding="utf-8")):
+                  if row.get("Pattern") not in {"shallow_description","weak_sound_section"}:
+                      continue
+                  record=Path(str(row.get("Research Record") or "").replace("./","",1))
+                  if not record.is_file():
+                      continue
+                  first_heading=next((
+                      line[2:].strip() for line in record.read_text(encoding="utf-8",errors="replace").splitlines()
+                      if line.startswith("# ")
+                  ),"")
+                  if " — " not in first_heading:
+                      continue
+                  builder,pedal=first_heading.split(" — ",1)
+                  quality_keys.add((builder.strip(),pedal.strip()))
+          except Exception:
+              quality_keys=set()
+
+          catalog_keys={(str(p.get("company") or "").strip(),str(p.get("pedal") or "").strip()):p for p in pedals}
+          existing_keys={(p["builder"],p["pedal"]) for p in pending}
+          for builder,pedal in sorted(quality_keys,key=lambda x:(x[0].casefold(),x[1].casefold())):
+              item=catalog_keys.get((builder,pedal))
+              if not item or item.get("catalog_role")=="variation" or (builder,pedal) in existing_keys:
+                  continue
+              pending.append({"builder":builder,"pedal":pedal})
+              existing_keys.add((builder,pedal))
+
           # The queue builder is the canonical ordering authority. Prefer its
           # explicit next_target so the first unresolved record cannot be
           # starved by the source-priority sort or by case/slug differences in
@@ -158,18 +198,23 @@ jobs:
           def rank(row):
               key=(row["builder"],row["pedal"])
               hosts=len(source_hosts.get(key,set()))
-              # Current canonical/curated source coverage outranks stale historical
-              # verdict labels. Two hosts are the strongest immediate signal;
-              # one host can still qualify as a strong manufacturer/EDB/Reverb source.
-              coverage_rank = 0 if hosts >= 2 else 1 if hosts == 1 else 2
-              verdict_rank = priority.get(verdicts.get(key), 5)
+              # Quality repairs are the active rehabilitation lane. Within that
+              # lane, exact-source coverage still determines which records should
+              # consume the bounded evidence budget first.
+              quality_rank = 0 if key in quality_keys else 1
               if hosts >= 2:
-                  return (1, row["builder"].casefold(), row["pedal"].casefold())
-              if hosts == 1:
-                  return (2, row["builder"].casefold(), row["pedal"].casefold())
-              if verdict_rank == 0:
-                  return (0, row["builder"].casefold(), row["pedal"].casefold())
-              return (3 if verdict_rank == 3 else 4, row["builder"].casefold(), row["pedal"].casefold())
+                  coverage_rank = 0
+              elif hosts == 1:
+                  coverage_rank = 1
+              else:
+                  coverage_rank = 2
+              verdict_rank = priority.get(verdicts.get(key), 5)
+              return (
+                  quality_rank,
+                  coverage_rank if quality_rank == 0 else verdict_rank,
+                  row["builder"].casefold(),
+                  row["pedal"].casefold(),
+              )
           pending.sort(key=rank)
 
           buckets={}
