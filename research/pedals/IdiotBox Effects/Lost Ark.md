@@ -7,40 +7,35 @@
 - **Identity:** IdiotBox Effects's Lost Ark.
 
 ## What this pedal is
-Shipping MAILING LIST Contact Back to site Lost Ark $ 139.00 1 of 2 Select option Select option TWO WEEK BUILD TIME Qty $ 139.00 Add to cart View cart The Lost Ark is a no frills PLL glitchy octave fuzz.
+The Lost Ark is a no-frills **PLL glitch/octave fuzz** designed for extreme, splattery textures while retaining some usable settings.
 
 ## Colorways
-- No specific factory colorway information was established in the verified evidence packet.
+- No complete factory finish chronology was established in the checked sources.
 
 ## Versions and factory options
-- The verified evidence references: V2.
-- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+- PLL-based octave/glitch architecture.
+- IdiotBox documents a **V2** family reference in the checked research material.
+- The exact external control layout is not over-specified here because the surviving captures do not provide a reliable complete transcription.
+- External 9V DC power.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- The checked evidence references V2, but does not provide a complete dated circuit revision chronology.
 
 ## Transistor
-- Documented terms in the verified sources: Germanium Fuzz.
-- The archive records only the component information explicitly present in these sources.
+- Exact production semiconductor details were not established.
+- **Exact transistor/device:** Unknown.
 
 ## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- Exact clipping/rectifier diode information was not established.
 - **Exact part:** Unknown.
 
 ## Sound
-Shipping MAILING LIST Contact Back to site Lost Ark $ 139.00 1 of 2 Select option Select option TWO WEEK BUILD TIME Qty $ 139.00 Add to cart View cart The Lost Ark is a no frills PLL glitchy octave fuzz.
-Glitched out splattery fuzz madness, with consistent usable settings as well.
-(The Internet) You might also like Quick view Energizer $ 79.00 Quick view Blower Box Bass Distortion $ 139.00 Quick view Blower Box Deluxe $ 159.00 You might also like
+The Lost Ark is designed for glitched, splattery octave fuzz with a deliberately unstable character. The circuit can move from usable harmonic textures into much more broken, sputtering sounds.
 
 ## Sources checked
-1. Lost Ark | IdiotBox Effects: https://www.idiotboxeffects.com/product/lost-ark
-2. IdiotBox Effects Lost Ark - Reverb: https://reverb.com/item/99192861-idiotbox-effects-lost-ark
-3. IdiotBox Effects Lost Ark - Gbase: https://www.gbase.com/gear/idiotbox-effects-lost-ark
-4. IdiotBox Effects Lost Ark PLL Octave Glitch Synth - 607111482208: https://www.jacksguitarcheology.com/shop/c/p/IdiotBox-Effects-Lost-Ark-PLL-Octave-Glitch-Synth-x70582562.htm
-5. Idiotbox Effects Lost Ark | Axe... And You Shall Receive: https://www.axeandyoushallreceive.com/product/idiotbox-effects-lost-ark
-6. Lost Ark by Idiotbox Effects | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/Idiotbox-Effects/Lost-Ark/68980217/
-7. Idiotbox Effects Lost Ark · Stacked Overdrive: https://stackedoverdrive.com/pedals/idiotbox-effects/lost-ark
-8. Idiotbox Effects Lost Ark Fuzz - Block Body Guitars | Solid Body Electrics and Guitar Parts: https://www.blockbodyguitars.com/product/idiotbox-effects-lost-ark-fuzz/
+1. IdiotBox Effects - Lost Ark: https://www.idiotboxeffects.com/product/lost-ark
+2. Reverb - IdiotBox Lost Ark: https://reverb.com/item/99192861-idiotbox-effects-lost-ark
+3. Gbase - IdiotBox Lost Ark: https://www.gbase.com/gear/idiotbox-effects-lost-ark
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.
