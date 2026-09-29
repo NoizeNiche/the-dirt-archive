@@ -467,3 +467,25 @@ At the lowest gain setting, you get a nice fat crunch, still fuzzy but more like
 
 ### Sources checked in this pass
 1. Pai Mei Fuzz &mdash; Byron Amplification: https://byronamplification.com/pedals/paimei
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Pai Mei Fuzz Previous Poder Del Alma Fuzz Next Cowboy Overdrive Pai Mei Fuzz Pai Mei Fuzz Sale Price: $99.00 Original Price: $159.00 Pai Mei: Fuzz pedals that feature a three band EQ are pretty rare, as are fuzz pedals that have a gigantic range of fuzz.
+
+### Verified color/finish evidence
+- Your majestic white brows raise in knowing wisdom.
+- Maximum gain is a thick, gooey, gated fuzz that swells from your attack in a way that will make you stroke your long white beard in satisfaction.
+
+### Verified diode terms
+- LED.
+
+### Verified sound evidence
+Pai Mei Fuzz Previous Poder Del Alma Fuzz Next Cowboy Overdrive Pai Mei Fuzz Pai Mei Fuzz Sale Price: $99.00 Original Price: $159.00 Pai Mei: Fuzz pedals that feature a three band EQ are pretty rare, as are fuzz pedals that have a gigantic range of fuzz.
+The EQ provides a wide range of tone shaping.
+At the lowest gain setting, you get a nice fat crunch, still fuzzy but more like a tube amp cranked all the way up, excellent for young apprentices not yet experienced in ways of fuzz.
+
+### Sources checked in this pass
+1. Pai Mei Fuzz &mdash; Byron Amplification: https://byronamplification.com/pedals/paimei
