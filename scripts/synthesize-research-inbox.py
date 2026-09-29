@@ -543,17 +543,26 @@ def main():
             held += 1
             continue
         is_orphan = key != packet_key
+        record_rel = str(item.get("research_record") or "").replace("./", "", 1)
+        record_preexists = bool(record_rel and Path(record_rel).is_file())
+        record_quality_revisitable = (
+            record_preexists
+            and str(item.get("research_level") or "").strip().lower() == "deep"
+        )
         existing_revisitable = (
-            str(item.get("research_level") or "").strip().lower() in {"surface", "researched"}
-            and bool(item.get("research_record"))
+            record_preexists
+            and (
+                str(item.get("research_level") or "").strip().lower() in {"surface", "researched"}
+                or record_quality_revisitable
+            )
         )
         ok, reason = write_record(item, type_by_key.get(key, ""), packet)
         if ok:
-            if existing_revisitable:
+            if record_preexists:
                 deepened += 1
             else:
                 created += 1
-            if existing_revisitable:
+            if record_preexists:
                 deepened_paths.append(reason)
             else:
                 created_paths.append(reason)
