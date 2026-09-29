@@ -223,3 +223,28 @@ Cookie Settings - **Archive parent:** Black Swan - **Builder:** ChiralityAudio -
 1. Black Swan by ChiralityAudio | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/ChiralityAudio/Black-Swan/192207799/
 2. ChiralityAudio Black Swan Modern Fuzz | Delicious Audio: https://delicious-audio.com/chiralityaudio-black-swan-modern-fuzz/
 3. black swan - ChiralityAudio: https://chiralityaudio.com/products/blackswan/
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+The Black Swan (or blackswan) is a simple one-knob high gain distorion/fuzz with plenty of gain to boot.
+
+### Verified color/finish evidence
+- Despite its solitary knob, the Black Swan can handle rhythms, thick single notes riffing, singing melodies, and solos, making them growl, scream, or sing, but leaving the nuances of your playing intact.
+- Cookie Settings - **Archive parent:** Black Swan - **Builder:** ChiralityAudio - **Catalog type:** Distortion / Fuzz - **Identity:** One-control high-gain distortion/fuzz with a high-performance input buffer and internally generated higher headroom.
+- Algorithmically generated artwork is a cosmetic/graphic identity, not a circuit revision.
+
+### Verified version references
+- The evidence references: MKII, revision.
+
+### Verified sound evidence
+The internals run on a wider dynamic range than the input to ensure maximum playability and interaction with the instrument controls.
+The increased headroom is generated internally, so a standard 9V center negative power supply can be used.
+Cookie Settings - **Archive parent:** Black Swan - **Builder:** ChiralityAudio - **Catalog type:** Distortion / Fuzz - **Identity:** One-control high-gain distortion/fuzz with a high-performance input buffer and internally generated higher headroom.
+
+### Sources checked in this pass
+1. Black Swan by ChiralityAudio | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/ChiralityAudio/Black-Swan/192207799/
+2. ChiralityAudio Black Swan Modern Fuzz | Delicious Audio: https://delicious-audio.com/chiralityaudio-black-swan-modern-fuzz/
+3. black swan - ChiralityAudio: https://chiralityaudio.com/products/blackswan/

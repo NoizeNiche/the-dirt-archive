@@ -54,3 +54,30 @@ BUY THIS PEDAL US$89 I think the M-Class is the REFERENCE STANDARD in distortion
 
 ### Sources checked in this pass
 1. PEDALS - Phaez Amplification: https://phaezamplification.com/pedals/
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Here is a clip of the Phaez Iron Viper pedal into the EL34 Blackwater amp.
+
+### Verified color/finish evidence
+- Iron Viper - based on the BJFe Dyna Red Distortion SOLD!
+- BJF Dyna Red Distortion I also want to mention the BJFe Dyna Red Distortion.
+- Red LED’s in the feedback loop – NICE.
+
+### Verified version references
+- The evidence references: revision, v4.
+
+### Verified diode terms
+- LED.
+
+### Verified sound evidence
+The Iron Viper is a distortion pedal with a really nice chewy tone, the amp is wonderful clean machine, and the two complement each other wonderfully.
+PRICES INCLUDE SHIPPING 2026 LINEUP: M Class Distortion Alligator Overdrive McBoosty Emperor Distortion (M Guv) NEW FOR July 2026.
+BUY THIS PEDAL US$89 I think the M-Class is the REFERENCE STANDARD in distortion pedals M-Class addresses 2 small points in the Guv'nor.
+
+### Sources checked in this pass
+1. Here is a clip of the Phaez Iron Viper pedal into the EL34 Blackwater amp. The Iron Viper is a distortion pedal with a really nice chewy tone, the amp is wonderful clean machine, and the two complement each other wonderfully. The iphone has compression in the software what makes seem my speaking voice is as a loud as the amp but that ain't the case. Was loud but not obscenely so. I mention at the end the video that I will be including an Iron Viper pedal with the purchase of the EL34 Blackwater. Check my website. Cheers! | Phaez Amplification: https://www.facebook.com/PhaezAmplification/videos/here-is-a-clip-of-the-phaez-iron-viper-pedal-into-the-el34-blackwater-amp-the-ir/1060116588588493/
+2. PEDALS - Phaez Amplification: https://phaezamplification.com/pedals/

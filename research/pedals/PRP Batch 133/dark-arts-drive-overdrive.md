@@ -157,3 +157,24 @@ Creating dynamic drives is our passion.
 
 ### Sources checked in this pass
 1. Dark Arts Drive Overdrive &mdash; Byron Amplification: https://byronamplification.com/pedals/darkartsdrive
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Byron Amplification's Dark Arts Drive Overdrive is cataloged as an overdrive pedal.
+
+### Verified version references
+- The evidence references: v1.
+
+### Verified diode terms
+- Led.
+
+### Verified sound evidence
+Compared to our popular Lil’ Shaman, which is meant to emulate a mid-hump drive pushing an ‘80s Marshall, this has bigger bass, less mids, and is a little brighter, with way more gain and output.
+But it also is less compressed and super dynamic.
+Creating dynamic drives is our passion.
+
+### Sources checked in this pass
+1. Dark Arts Drive Overdrive &mdash; Byron Amplification: https://byronamplification.com/pedals/darkartsdrive
