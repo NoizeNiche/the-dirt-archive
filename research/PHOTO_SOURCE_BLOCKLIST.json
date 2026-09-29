@@ -295,6 +295,42 @@
       "pattern": "https://assets.rbl.ms/npdy_sotb_audio-surplus-effects-o-k-doomer-v0-389qssoc66sc1.jpg",
       "reason": "Article image whose filename identifies the separate Audio Surplus O.K. Doomer, not the Burden model.",
       "severity": "hard_block"
+    },
+    {
+      "type": "exact_url",
+      "pattern": "https://www.truetonemusic.com/cdn/shop/files/truetone_Logo_2018_white_cb610416-c81b-40fe-ac59-5dffbb0204e0_435x195.png?v=1765932448",
+      "reason": "Truetone site logo asset surfaced as a pedal image candidate, not a product photograph.",
+      "severity": "hard_block"
+    },
+    {
+      "type": "exact_url",
+      "pattern": "https://assets.equipboard.com/assets/store_logos/sweetwater-logo-20052064a4c9eecc46f4783e7f2b2867709f4ea22ab055b7bf2b395e9b84d904.svg",
+      "reason": "Equipboard store logo asset surfaced as a pedal image candidate, not a product photograph.",
+      "severity": "hard_block"
+    },
+    {
+      "type": "exact_url",
+      "pattern": "https://www.rockboard.de/icons/header_pedalpedia_big.svg",
+      "reason": "RockBoard PedalPedia header logo asset, not a pedal photograph.",
+      "severity": "hard_block"
+    },
+    {
+      "type": "exact_url",
+      "pattern": "https://static.audiofanzine.com/images/audiofanzine/logo-email-dark.webp",
+      "reason": "Audiofanzine logo asset, not a pedal photograph.",
+      "severity": "hard_block"
+    },
+    {
+      "type": "exact_url",
+      "pattern": "https://static.audiofanzine.com/images/audiofanzine/logo_retina_borderless-36.webp",
+      "reason": "Audiofanzine logo asset, not a pedal photograph.",
+      "severity": "hard_block"
+    },
+    {
+      "type": "exact_url",
+      "pattern": "https://static.xx.fbcdn.net/rsrc.php/y4/r/cCUc36Es1cc.webp",
+      "reason": "Generic Facebook CDN asset surfaced in place of a pedal photograph.",
+      "severity": "hard_block"
     }
   ]
 }
