@@ -136,6 +136,121 @@ async function compareImages(page, localBytes, localType, sourceBytes, sourceTyp
   });
 }
 
+function normalizeIdentity(value) {
+  return String(value || '')
+    .normalize('NFKD')
+    .toLowerCase()
+    .replace(/[\\u0300-\\u036f]/g, '')
+    .replace(/[^a-z0-9]+/g, ' ')
+    .replace(/\\s+/g, ' ')
+    .trim();
+}
+
+function identityTokens(value) {
+  return normalizeIdentity(value)
+    .split(/\\s+/)
+    .filter(token => token.length >= 4 || /\\d/.test(token))
+    .filter(token => !new Set(['the','and','with','pedal','effects','audio']).has(token));
+}
+
+async function renderedSourcePageImage(page, entry) {
+  const sourcePage = String(entry.sourcePage || '').trim();
+  if (!sourcePage || !/^https?:\\/\\//i.test(sourcePage)) return null;
+
+  try {
+    await page.goto(sourcePage, { waitUntil: 'domcontentloaded', timeout: TIMEOUT });
+    await page.waitForTimeout(450);
+
+    const title = await page.title().catch(() => '');
+    const h1 = await page.locator('h1').first().textContent().catch(() => '');
+    const body = await page.locator('body').textContent().catch(() => '');
+
+    const pedalPhrase = normalizeIdentity(entry.pedal);
+    const builderPhrase = normalizeIdentity(entry.company);
+    const identityText = normalizeIdentity([title, h1, body].join(' '));
+    const pedalTokens = identityTokens(entry.pedal);
+    const builderTokens = identityTokens(entry.company);
+    const pedalHits = pedalTokens.filter(token => identityText.includes(token)).length;
+    const builderHits = builderTokens.filter(token => identityText.includes(token)).length;
+
+    const exactPedal = pedalPhrase.length >= 5 && identityText.includes(pedalPhrase);
+    const exactBuilder = builderPhrase.length >= 5 && identityText.includes(builderPhrase);
+    const strongIdentity = exactPedal && (exactBuilder || builderHits > 0 || builderTokens.length === 0);
+    if (!strongIdentity && pedalHits < Math.max(1, pedalTokens.length - 1)) return null;
+
+    const candidates = await page.locator('img').evaluateAll((imgs, { pedalTokens, builderTokens }) => {
+      const normalize = value => String(value || '')
+        .toLowerCase()
+        .replace(/[^a-z0-9]+/g, ' ')
+        .replace(/\\s+/g, ' ')
+        .trim();
+
+      const rows = [];
+      for (const [index, img] of imgs.entries()) {
+        const rect = img.getBoundingClientRect();
+        const width = Math.max(rect.width, Number(img.naturalWidth) || 0);
+        const height = Math.max(rect.height, Number(img.naturalHeight) || 0);
+        if (width < 180 || height < 180) continue;
+
+        const raw = [
+          img.alt || '',
+          img.title || '',
+          img.className || '',
+          img.currentSrc || '',
+          img.src || ''
+        ].join(' ');
+        if (/(logo|avatar|icon|sprite|favicon|banner|badge|payment|social|tracking|pixel|cookie|consent)/i.test(raw)) continue;
+
+        let node = img;
+        let context = '';
+        let semantic = 0;
+        let chromePenalty = 0;
+        for (let depth = 0; depth < 7 && node; depth++, node = node.parentElement) {
+          const tag = String(node.tagName || '').toLowerCase();
+          const cls = String(node.className || '');
+          const id = String(node.id || '');
+          const text = String(node.textContent || '').replace(/\\s+/g, ' ').trim().slice(0, 700);
+          const hint = normalize([tag, cls, id, text].join(' '));
+          context += ' ' + hint;
+          if (/main|article|product|pedal|gallery|photo|image|media|hero|listing|item/i.test(tag + ' ' + cls + ' ' + id)) semantic += 140;
+          if (/header|nav|footer|aside|menu|breadcrumb|cookie|consent|social/i.test(tag + ' ' + cls + ' ' + id)) chromePenalty += 220;
+        }
+
+        const hint = normalize([raw, context].join(' '));
+        const pedalHits = pedalTokens.filter(token => hint.includes(token)).length;
+        const builderHits = builderTokens.filter(token => hint.includes(token)).length;
+        const exactPedal = normalize(entry.pedal).length >= 5 && hint.includes(normalize(entry.pedal));
+        let score = Math.min(width * height, 1600000) / 1000;
+        score += semantic + pedalHits * 220 + builderHits * 50;
+        if (exactPedal) score += 900;
+        if (width < 260 || height < 260) score -= 150;
+        if (width > 1800 || height > 1800) score -= 80;
+        score -= chromePenalty;
+        rows.push({ index, width, height, score, src: img.currentSrc || img.src || '' });
+      }
+      return rows.sort((a,b) => b.score - a.score).slice(0, 8);
+    }, { pedalTokens, builderTokens });
+
+    for (const candidate of candidates) {
+      const img = page.locator('img').nth(candidate.index);
+      await img.scrollIntoViewIfNeeded().catch(() => {});
+      await page.waitForTimeout(120);
+      const bytes = await img.screenshot({ type: 'png' }).catch(() => null);
+      if (bytes && bytes.length >= 3000) {
+        return {
+          bytes,
+          type: 'image/png',
+          imageUrl: candidate.src,
+          sourcePage,
+          identityVerified: strongIdentity || exactPedal,
+          identityEvidence: { title, h1, exactPedal, exactBuilder, pedalHits, builderHits }
+        };
+      }
+    }
+  } catch {}
+  return null;
+}
+
 async function main() {
   const catalog = JSON.parse(fs.readFileSync(INDEX, 'utf8')).pedals || [];
   const trackerLines = fs.readFileSync(TRACKER, 'utf8').split(/\r?\n/).filter(Boolean);
@@ -208,15 +323,22 @@ async function main() {
           const response = await page.request.get(entry.sourceUrl, { timeout: TIMEOUT });
           const type = String(response.headers()['content-type'] || '').toLowerCase();
           const sourceBytes = await response.body();
-          if (!response.ok() || !type.startsWith('image/')) {
-            out.Status = 'SOURCE_UNAVAILABLE';
-            out.Note = 'Source URL returned HTTP ' + response.status() + ' ' + type;
-            results.push(out);
-            continue;
-          }
-          if (!sourceBytes || sourceBytes.length < 3000 || sourceBytes.length > MAX_SOURCE_BYTES) {
-            out.Status = 'SOURCE_UNAVAILABLE';
-            out.Note = 'Source image payload outside audit bounds.';
+          if (!response.ok() || !type.startsWith('image/') || !sourceBytes || sourceBytes.length < 3000 || sourceBytes.length > MAX_SOURCE_BYTES) {
+            const rendered = await renderedSourcePageImage(page, entry);
+            if (!rendered?.bytes || !rendered.identityVerified) {
+              out.Status = 'SOURCE_UNAVAILABLE';
+              out.Note = 'Direct source URL unavailable and exact source-page image could not be rendered with identity verification.';
+              results.push(out);
+              continue;
+            }
+
+            out.SourceURL = rendered.imageUrl || entry.sourceUrl;
+            out.SourceSHA256 = sha256(rendered.bytes);
+            const comparison = await compareImages(page, localBytes, 'image/webp', rendered.bytes, rendered.type);
+            out.Status = comparison.verdict;
+            out.Hamming = comparison.hammingDistance;
+            out.SampleError = comparison.sampleError;
+            out.Note = 'Compared archived image against a rendered image from the identity-verified source page after direct source retrieval failed.';
             results.push(out);
             continue;
           }
