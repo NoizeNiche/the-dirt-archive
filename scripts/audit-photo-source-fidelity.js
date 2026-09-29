@@ -140,22 +140,22 @@ function normalizeIdentity(value) {
   return String(value || '')
     .normalize('NFKD')
     .toLowerCase()
-    .replace(/[\\u0300-\\u036f]/g, '')
+    .replace(/[\u0300-\u036f]/g, '')
     .replace(/[^a-z0-9]+/g, ' ')
-    .replace(/\\s+/g, ' ')
+    .replace(/\s+/g, ' ')
     .trim();
 }
 
 function identityTokens(value) {
   return normalizeIdentity(value)
-    .split(/\\s+/)
-    .filter(token => token.length >= 4 || /\\d/.test(token))
+    .split(/\s+/)
+    .filter(token => token.length >= 4 || /\d/.test(token))
     .filter(token => !new Set(['the','and','with','pedal','effects','audio']).has(token));
 }
 
 async function renderedSourcePageImage(page, entry) {
   const sourcePage = String(entry.sourcePage || '').trim();
-  if (!sourcePage || !/^https?:\\/\\//i.test(sourcePage)) return null;
+  if (!sourcePage || !/^https?:\/\//i.test(sourcePage)) return null;
 
   try {
     await page.goto(sourcePage, { waitUntil: 'domcontentloaded', timeout: TIMEOUT });
@@ -182,7 +182,7 @@ async function renderedSourcePageImage(page, entry) {
       const normalize = value => String(value || '')
         .toLowerCase()
         .replace(/[^a-z0-9]+/g, ' ')
-        .replace(/\\s+/g, ' ')
+        .replace(/\s+/g, ' ')
         .trim();
 
       const rows = [];
@@ -209,7 +209,7 @@ async function renderedSourcePageImage(page, entry) {
           const tag = String(node.tagName || '').toLowerCase();
           const cls = String(node.className || '');
           const id = String(node.id || '');
-          const text = String(node.textContent || '').replace(/\\s+/g, ' ').trim().slice(0, 700);
+          const text = String(node.textContent || '').replace(/\s+/g, ' ').trim().slice(0, 700);
           const hint = normalize([tag, cls, id, text].join(' '));
           context += ' ' + hint;
           if (/main|article|product|pedal|gallery|photo|image|media|hero|listing|item/i.test(tag + ' ' + cls + ' ' + id)) semantic += 140;
