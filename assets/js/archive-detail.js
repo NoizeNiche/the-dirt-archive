@@ -462,7 +462,6 @@ loadCatalog()
   wireWorkbenchButtons(item);
 
   const colorways=allItems.filter(x=>x.catalog_role==='variation'&&x.company===item.company&&x.parent_pedal===item.pedal);
-  const versions=allItems.filter(x=>isCatalogEntry(x)&&x.version_of===entryKey(item));
 
   if(redirectedFromVariation){
     $('variationNotice').hidden=false;
@@ -472,7 +471,6 @@ loadCatalog()
   renderVersionFamily(item,allItems);
   renderColorways(item,colorways);
   renderFamily(item,allItems);
-  renderVersions(item,versions);
   renderDemo(item);
   renderRelated(allItems,item);
 
