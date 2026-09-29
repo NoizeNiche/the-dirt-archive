@@ -10,7 +10,7 @@
 Tech 21 NYC's Double Drive is cataloged as a distortion / overdrive pedal.
 
 ## Colorways
-- Add to cart All Products Deering Nylon Banjo Strap – Black $ 12.95 Original price was: $12.95.
+- No specific factory colorway information was established in the verified evidence packet.
 
 ## Versions and factory options
 - No distinct factory revision was established in the verified evidence packet.
