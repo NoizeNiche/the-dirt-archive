@@ -46,3 +46,21 @@ Charlie Paolo's exact-model demonstration was cross-checked with Effects Databas
 
 ## Photo
 - Exact-model photo status remains handled separately.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Each Obsidian Fuzz is carefully handmade from start to finish using the highest quality analog components available and is true bypass to maintain the tone of your guitar and amp.
+
+### Verified color/finish evidence
+- Each Obsidian Fuzz is carefully handmade from start to finish using the highest quality analog components available and is true bypass to maintain the tone of your guitar and amp.
+
+### Verified sound evidence
+Charlie Paolo Custom Effects Obsidian Fuzz
+The Obsidian Fuzz instantly turns your rig into a vintage drive powerhouse.
+Each Obsidian Fuzz is carefully handmade from start to finish using the highest quality analog components available and is true bypass to maintain the tone of your guitar and amp.
+
+### Sources checked in this pass
+1. Charlie Paolo Custom Effects Obsidian Fuzz | Effects Database: https://www.effectsdatabase.com/model/charliepaolo/obsidianfuzz

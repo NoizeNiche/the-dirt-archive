@@ -178,3 +178,24 @@ The documented modes are **FAT** and **SHINE**, and the manufacturer describes t
 2. Ace of Tone - NUX Audio: https://nuxaudio.com/product/aceoftone/
 3. catalog/override source: https://www.effectsdatabase.com/model/nux/aceoftone
 4. Download: https://nux.cherubtechnology.com/download/Manual/Effects/Verdugo_Series_Stompboxes/AceOfTone_NDO5/NUX_NDO5_UserManual_English.pdf
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+ACE of TONE is a dual overdrive pedal stacked with Tubeman MKII and Morning Star.
+
+### Verified version references
+- The evidence references: MKII.
+
+### Verified sound evidence
+The Dirt Archive currently catalogs **Ace of Tone** by **NUX Audio / NUX** as a **Overdrive** pedal.
+NUX's manufacturer page identifies Ace of Tone as a dual overdrive with two distinct drive sections.
+The documented modes are **FAT** and **SHINE**, and the manufacturer describes the circuits as drawing from TubeMan-style and Morning Star-style overdrive voices.
+
+### Sources checked in this pass
+1. catalog/override source: https://nuxaudio.cherubtechnology.com/wp-content/uploads/2025/03/ACE-of-TONE-NDO-5_W_01.jpg
+2. Ace of Tone - NUX Audio: https://nuxaudio.com/product/aceoftone/
+3. catalog/override source: https://www.effectsdatabase.com/model/nux/aceoftone
+4. Download: https://nux.cherubtechnology.com/download/Manual/Effects/Verdugo_Series_Stompboxes/AceOfTone_NDO5/NUX_NDO5_UserManual_English.pdf

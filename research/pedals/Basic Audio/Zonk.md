@@ -196,3 +196,25 @@ Adjustable bias for a clearer or more aggressive tone with more grunt and semi o
 ### Sources checked in this pass
 1. Zonk &mdash; Basic Audio: https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-cnzrr-ksfg5-kba26-5yxez-twy6r-779zt-w9pdt
 2. Basic Audio — Zonk: https://images.squarespace-cdn.com/content/v1/5da9e97016ddf940acffa2d3/1576074847501-EMD2FDRRJRNNTC5A64YJ/DSCF7370.jpg
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Zonk — Basic Audio Contact Store About Menu Basic Audio Contact Store About Pedal colors are subject to change.
+
+### Verified version references
+- The evidence references: revision, v1.
+
+### Verified transistor/device terms
+- Silicon transistor.
+
+### Verified sound evidence
+← Back to Store Zonk Zonk from $200.00 Silicon fuzz based on the Zonk Machine.
+Adjustable bias for a clearer or more aggressive tone with more grunt and semi octave up tone via the Tone (Bias) knob.
+**Archive parent:** Zonk - **Builder:** Basic Audio - **Catalog type:** Fuzz - **Identity:** Silicon Zonk Machine-style fuzz with the Tone control also functioning as an adjustable bias, allowing a leaner or more aggressive voice.
+
+### Sources checked in this pass
+1. Zonk &mdash; Basic Audio: https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-cnzrr-ksfg5-kba26-5yxez-twy6r-779zt-w9pdt
+2. Basic Audio — Zonk: https://images.squarespace-cdn.com/content/v1/5da9e97016ddf940acffa2d3/1576074847501-EMD2FDRRJRNNTC5A64YJ/DSCF7370.jpg

@@ -4,8 +4,16 @@
   "original_builder": "NUX Audio / NUX",
   "original_pedal": "Metal Core",
   "status": "VERIFIED_EVIDENCE_STAGED",
-  "independent_exact_source_count": 1,
+  "independent_exact_source_count": 2,
   "sources": [
+    {
+      "url": "https://duckduckgo.com/y.js?ad_domain=ebay.com&ad_provider=bingv7aa&ad_type=txad&click_metadata=TGz2eKjMUt8nPs2lAyTlVCy2PfimeA2sQP3lgj5oDKqe3EXZ663UAc_p9okhwv7TfFL94BHlsRx6Z46GNhzA1Spwdg4xXDBMajkoJgvb99dlzp5dt2xkm0A0dsk_XCQm1DXdPY81H_q_2FcMInUkBOrScOo_B_4IzKsrVWO0BZo.FITuAKgovDOI6OVmyOMBmA&rut=9f6f733b8e483ffe91d2f0a78030e55373fc411938fe889714df6a4533af9a93&u3=https%3A%2F%2Fwww.bing.com%2Faclick%3Fld%3De8wx9Ol6Hb4kohoLEHSOJIGzVUCUxSwvzmOFCc5Ts7pXlNIsHzSws0j8RWXVyRAsk03ffy7oBgeFz8hSrvuqQpukuo0Qg4sWZ3G_tUAtJ1s6nFpoSqyO0AcBRaPhE7dgSeuWy3XD2uxX_U7NTP%2Dyg_dLG_w_pW8ldXJZ8INMyaHdeIOYVUUv3Hd7cQ6SmkSlFGIN4mN0KfJ4BAT2srj1p3%2DC9Vh8s%26u%3DaHR0cHMlM2ElMmYlMmZ3d3cuZWJheS5jb20lMmZzY2glMmZpLmh0bWwlM2Zfbmt3JTNkbnV4JTJibWV0YWwlMmJjb3JlJTJiZGVsdXhlJTI2bm9yb3ZlciUzZDElMjZta2V2dCUzZDElMjZta3JpZCUzZDcxMS0xNTM2NzctMzIzNjYxLTAlMjZta2NpZCUzZDIlMjZta3NjaWQlM2QxMDIlMjZrZXl3b3JkJTNkTGlmZXN0eWxlJTJjU1JQJTI2Y3JscCUzZF8lMjZNVF9JRCUzZCUyNmdlb19pZCUzZCUyNnJsc2F0YXJnZXQlM2RkYXQtMjMyODk3MTc4NjQxNDgxMSUzYWxvYy0xOTAlMjZhZHBvcyUzZCUyNmRldmljZSUzZGMlMjZta3R5cGUlM2QlMjZsb2MlM2QxMDEwMDMlMjZwb2klM2QlMjZhYmNJZCUzZCUyNmNtcGduJTNkNjAzNTE4MTExJTI2c2l0ZWxuayUzZCUyNmFkZ3JvdXBpZCUzZDEyMzQ3NTI1NjkxOTExNjElMjZuZXR3b3JrJTNkcyUyNm1hdGNodHlwZSUzZGIlMjZtc2Nsa2lkJTNkYjIzMzUxZTJmNWRkMTE5NjBmNTYzYjVlZjFmMGFjNTE%26rlid%3Db23351e2f5dd11960f563b5ef1f0ac51&vqd=4-59430674219249656742928437398033967653&iurl=%7B1%7DIG%3D6DE57EB15FA0477B964C282B5C44B8CD%26CID%3D1ED89EBAF32E6A520CE28959F2FD6B14%26ID%3DDevEx%2C5027.1",
+      "title": "New Nux Metal Core Deluxe On eBay - Used Nux Pedal",
+      "h1": "",
+      "excerpt": "",
+      "host": "duckduckgo.com",
+      "source_kind": "other"
+    },
     {
       "url": "https://www.effectsdatabase.com/model/nux/core/metalcore",
       "title": "catalog/override source",

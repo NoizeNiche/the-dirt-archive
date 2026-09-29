@@ -225,3 +225,28 @@ Close - **Archive parent:** Black Fudge - **Builder:** Chicago Stompworks - **Ca
 1. Chicago Stompworks Black Fudge - Pedal on ModularGrid: https://modulargrid.com/p/chicago-stompworks-black-fudge
 2. http://www.chicagostompworks.com/store/p9/%22Black_Fudge%22_Maestro_MFZ-1_Clone.html: http://www.chicagostompworks.com/store/p9/%22Black_Fudge%22_Maestro_MFZ-1_Clone.html
 3. Chicago Stompworks barebox BLACK FUDGE:: https://www.awin1.com/cread.php?awinmid=67144&awinaffid=1515727&ued=https%3A%2F%2Freverb.com%2Fitem%2F77001537-chicago-stompworks-barebox-black-fudge-maestro-mfz-1-clone-bare-aluminum&clickref=mg_reverb_listings
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+MG ID: 12005 MAESTRO MFZ-1TM CLONE BLACK FUDGE is dirty and grungy, warm 70s fuzz - it's got the sludge you need!
+
+### Verified color/finish evidence
+- Chicago Stompworks Black Fudge - Pedal on ModularGrid Pedals Eurorack Modcan A MOTM Frac Moog Unit AE Modular Buchla Serge 500 Series Pedals FRM MKTPL Pedals Pedalboards Manufacturers Forum Marketplace Login Sign Up You have to enable Javascript to do any fancy stuff on this site!
+- Black Fudge Chicago Stompworks Distortion Dimensions 60 mm wide 111 mm high Current Draw ?
+- MG ID: 12005 MAESTRO MFZ-1TM CLONE BLACK FUDGE is dirty and grungy, warm 70s fuzz - it's got the sludge you need!
+
+### Verified version references
+- The evidence references: revision.
+
+### Verified sound evidence
+Black Fudge Chicago Stompworks Distortion Dimensions 60 mm wide 111 mm high Current Draw ?
+MG ID: 12005 MAESTRO MFZ-1TM CLONE BLACK FUDGE is dirty and grungy, warm 70s fuzz - it's got the sludge you need!
+Close - **Archive parent:** Black Fudge - **Builder:** Chicago Stompworks - **Catalog type:** Fuzz - **Identity:** Point-to-point Maestro MFZ-1 recreation using the scarce **TL022** op-amp, housed in a 1590B enclosure with true bypass and battery/9V supply.
+
+### Sources checked in this pass
+1. Chicago Stompworks Black Fudge - Pedal on ModularGrid: https://modulargrid.com/p/chicago-stompworks-black-fudge
+2. http://www.chicagostompworks.com/store/p9/%22Black_Fudge%22_Maestro_MFZ-1_Clone.html: http://www.chicagostompworks.com/store/p9/%22Black_Fudge%22_Maestro_MFZ-1_Clone.html
+3. Chicago Stompworks barebox BLACK FUDGE:: https://www.awin1.com/cread.php?awinmid=67144&awinaffid=1515727&ued=https%3A%2F%2Freverb.com%2Fitem%2F77001537-chicago-stompworks-barebox-black-fudge-maestro-mfz-1-clone-bare-aluminum&clickref=mg_reverb_listings
