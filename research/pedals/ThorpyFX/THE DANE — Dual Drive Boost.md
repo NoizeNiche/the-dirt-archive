@@ -3,39 +3,38 @@
 ## PRP identity
 - **Archive parent:** THE DANE — Dual Drive Boost
 - **Builder:** ThorpyFX
-- **Catalog type:** Distortion / Fuzz / Overdrive
+- **Catalog type:** Overdrive / Boost
 - **Identity:** ThorpyFX's THE DANE — Dual Drive Boost.
 
 ## What this pedal is
-Dual Drive Boost Add to cart Description THE DANE MKII is our collaboration with Peter "Danish Pete" Honoré, a dual mid-gain overdrive and boost pedal.
+THE DANE is a dual mid-gain overdrive and boost developed by ThorpyFX with Peter “Danish Pete” Honoré. The MKII is the documented current form in the checked source.
 
 ## Colorways
-- No specific factory colorway information was established in the verified evidence packet.
+- No complete factory colorway chronology was established in the checked sources.
 
 ## Versions and factory options
-- The verified evidence references: MKII.
-- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+- Two drive sections in one enclosure.
+- Independent boost/drive functions.
+- **MKII** is the documented revision in the checked source.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- The archive keeps THE DANE MKII as the documented later revision without inventing an exact internal change list.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
+- Exact production transistor/device information was not established in the checked sources.
 - **Exact transistor/device:** Unknown.
 
 ## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- Exact clipping/rectifier diode information was not established in the checked sources.
 - **Exact part:** Unknown.
 
 ## Sound
-Dual Drive Boost $298.00 $298.00 Unit price / per Shipping calculated at checkout.
-Dual Drive Boost Increase quantity for THE DANE
-Dual Drive Boost Add to cart Description THE DANE MKII is our collaboration with Peter "Danish Pete" Honoré, a dual mid-gain overdrive and boost pedal.
+THE DANE is designed for mid-gain overdrive and boost, allowing the user to combine or switch between two complementary gain functions for rhythm, lead, and stacking applications.
 
 ## Sources checked
-1. THE DANE | Dual Drive Boost: https://thorpyfx.com/en-us/collections/thorpyfx-pedals/products/the-dane-mkii
-2. ThorpyFX The Dane - What To Know & Where To Buy | Equipboard: https://equipboard.com/items/thorpyfx-the-dane
-3. ThorpyFX The Dane MKII Peter Honore Signature Overdrive / | Reverb: https://reverb.com/p/thorpyfx-the-dane-mkii-peter-honore-signature-overdrive-slash-boost
+1. ThorpyFX - THE DANE MKII: https://thorpyfx.com/en-us/collections/thorpyfx-pedals/products/the-dane-mkii
+2. Reverb - ThorpyFX The Dane MKII: https://reverb.com/p/thorpyfx-the-dane-mkii-peter-honore-signature-overdrive-slash-boost
+3. Equipboard - ThorpyFX The Dane: https://equipboard.com/items/thorpyfx-the-dane
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.
