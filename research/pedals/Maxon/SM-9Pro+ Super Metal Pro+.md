@@ -7,30 +7,27 @@
 - **Identity:** Maxon's SM-9Pro+ Super Metal Pro+.
 
 ## What this pedal is
-Maxon's SM-9Pro+ Super Metal Pro+ is cataloged as a distortion pedal.
-
-## Colorways
-- No specific factory colorway information was established in the verified evidence packet.
+The SM-9 Pro+ Super Metal is Maxon's purpose-built high-gain metal distortion, introduced to cover classic crunch through modern extreme metal and drop-tuned sounds.
 
 ## Versions and factory options
-- No distinct factory revision was established in the verified evidence packet.
+- 9-series Maxon distortion architecture.
+- Midrange shaping is central to the voicing.
+- Historical documentation dates the model to the 9-series era.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- This record is the canonical **SM-9Pro+** spelling. The similarly named “SM-9Pro Super Metal Pro+” archive file is treated as a naming alias unless separate hardware evidence is established.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
-- **Exact transistor/device:** Unknown.
+- Exact production semiconductor complement was not established.
 
 ## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
-- **Exact part:** Unknown.
+- Exact clipping/rectifier diode information was not established.
 
 ## Sound
-The Dirt Archive currently catalogs **SM-9Pro+ Super Metal Pro+** by **Maxon** as a **Distortion** pedal.
+The SM-9 Pro+ is designed for aggressive, high-gain distortion with enough tonal flexibility to move from classic heavy-metal crunch into modern drop-tuned sounds.
 
 ## Sources checked
-1. Maxon SM9Pro+ Super Metal Pro Plus Distortion Pedal w/Free Shipping: https://collarcityguitars.com/products/maxon_sm9proplus_supermetalproplus
+1. Effects Database - Maxon SM-9 Pro+: https://www.effectsdatabase.com/model/maxon/9/sm9/pro/plus
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.
