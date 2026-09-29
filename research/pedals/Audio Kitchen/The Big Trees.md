@@ -210,3 +210,26 @@ Its ever-expanding list of tasks includes re-amping/ guitar front end into a DAW
 1. Audio Kitchen, musically inspiring amp design: https://www.audiokitchen.co.uk/products/the-big-trees/
 2. Heyday Musical Instruments & Repair - Audio Kitchen The Big Trees: https://www.heydaymusic.net/amps/p/audiokitchenthebigtrees
 3. audiokitchen: https://audiokitchen.myshopify.com/
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Enquire Description Geeky tech Stuff Visit Store The Big Trees (TBTs) is an all valve, Class A amp which doubles as an incredibly versatile preamp, perfectly at home live and in the studio.
+
+### Verified color/finish evidence
+- VAT) Price does not include shipping and is for standard (BLUE tolex) finish where applicable, unless otherwise stated.
+
+### Verified version references
+- The evidence references: revision, v1.
+
+### Verified sound evidence
+The 2.5W amp, built around ECC82 and ECC83 pre-amp and single EL84 output valves, generates harmonic-rich tone, sculpted by its Baxandall-based EQ, and ‘EL84 headroom control’.
+The Line output (incorporating a valve line driver stage) is either post power- amp stage, or discreet all-valve clean stage for empyreal DI tone.
+Its ever-expanding list of tasks includes re-amping/ guitar front end into a DAW/ clean gain/ DI/ line driver/ hardware insert on all manner of sources from synths to drums, Wurlitzer to vocals, and even as a twin attack over entire mixes.
+
+### Sources checked in this pass
+1. Audio Kitchen, musically inspiring amp design: https://www.audiokitchen.co.uk/products/the-big-trees/
+2. Heyday Musical Instruments & Repair - Audio Kitchen The Big Trees: https://www.heydaymusic.net/amps/p/audiokitchenthebigtrees
+3. audiokitchen: https://audiokitchen.myshopify.com/

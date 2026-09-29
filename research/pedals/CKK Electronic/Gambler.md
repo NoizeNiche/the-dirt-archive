@@ -165,3 +165,25 @@ Three gain-stage range is documented in the retailer description.
 ### Sources checked in this pass
 1. catalog/override source: https://reverb.com/item/92293594-ckk-electronic-the-gambler
 2. catalog/override source: https://www.gear4music.com/us/en/Guitar-and-Bass/DISC-CKK-Electronic-Gambler-Overdrive-Pedal/27R3
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Gambler is designed to remain transparent and touch-responsive from lighter gain into higher saturation.
+
+### Verified color/finish evidence
+- No complete factory finish chronology established.
+
+### Verified version references
+- The evidence references: revision.
+
+### Verified sound evidence
+**Archive parent:** Gambler - **Builder:** CKK Electronic - **Catalog type:** Overdrive - **Identity:** Transparent, dynamic overdrive with Volume, Gain, Tone and a low-frequency boost, documented at 9V/battery operation and approximately 10 mA.
+**LOW-FREQUENCY BOOST:** Adds low-end body.
+Three gain-stage range is documented in the retailer description.
+
+### Sources checked in this pass
+1. catalog/override source: https://reverb.com/item/92293594-ckk-electronic-the-gambler
+2. catalog/override source: https://www.gear4music.com/us/en/Guitar-and-Bass/DISC-CKK-Electronic-Gambler-Overdrive-Pedal/27R3

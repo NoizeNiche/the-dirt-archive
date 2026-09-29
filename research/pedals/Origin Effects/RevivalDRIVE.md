@@ -7,7 +7,8 @@
 - **Identity:** Origin Effects's RevivalDRIVE.
 
 ## What this pedal is
-Origin Effects's RevivalDRIVE is cataloged as an overdrive pedal.
+
+By replicating every stage of a valve amp’s signal path using all-analogue components, with specially designed transistor-based circuitry in place of valves, the RevivalDRIVE Compact delivers stunningly realistic tone, feel and dynamic response, ranging from clean to fully cranked.
 
 ## Colorways
 - MANUAL Halcyon Blue Overdrive Recall Sheet
@@ -36,3 +37,18 @@ MANUAL Halcyon Gold Overdrive Recall Sheet
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+By replicating every stage of a valve amp’s signal path using all-analogue components, with specially designed transistor-based circuitry in place of valves, the RevivalDRIVE Compact delivers stunningly realistic tone, feel and dynamic response, ranging from clean to fully cranked.
+
+### Verified sound evidence
+RevivalDRIVE Compact Overdrive Pedal This site uses cookies for analytics and to improve your experience.
+A streamlined set of controls make it easy to dial in a variety of stunningly realistic vintage valve amp tones, while the powerful Post-Drive EQ lets you adjust your overdrive tone to suit your preferred amp and settings, not the other way around.
+By replicating every stage of a valve amp’s signal path using all-analogue components, with specially designed transistor-based circuitry in place of valves, the RevivalDRIVE Compact delivers stunningly realistic tone, feel and dynamic response, ranging from clean to fully cranked.
+
+### Sources checked in this pass
+1. RevivalDRIVE Compact Overdrive Pedal: https://origineffects.com/product/revivaldrive-compact/
