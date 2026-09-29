@@ -4,7 +4,7 @@
   "original_builder": "Skreddy Pedals",
   "original_pedal": "Perestroika",
   "status": "VERIFIED_EVIDENCE_STAGED",
-  "independent_exact_source_count": 4,
+  "independent_exact_source_count": 5,
   "sources": [
     {
       "url": "https://skreddypedals.com/perestroika",
@@ -34,9 +34,17 @@
       "url": "https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Fskreddypedals.com%2Fperestroika",
       "title": "Pinterest",
       "h1": "",
-      "excerpt": "Pinterest .b4JSVe ._s5jJp .zkmTtZ .DtJgqy .CFHKzS .yLho2L .hjjW6_ .vfNjwf .U1Fh_X .LpjE6s .ClGzQt .oR8EAJ .g0I6wi @media (min-width:576px){.uCCnzY .MipxYa .CIaHI1 .XlzcOm .Hm6pq1 .i_37P2 .isb9pH .aGXjRY .O23_EU .FAECb5 .NWDhdx ._vmctB }@media (min-width:768px){.T9QyJn .ITz6s8 .GMcNoQ .c_USVh .O3NOfM .mNu_fM .k0oe1S ._2LgeN .ixXyxx ._4YLsv .iUsICE .PSnbKb }@media (min-width:1312px){.T3XHU2 .wgmoTd .kSeYBd .c4RonV .OMPEiw .QHHPtn .SUhmDg .sWcMPb .h4QgOi .WQeGuM .RwDnbW .v0XGI_ }@media (min-width:1440px){.tOu7Qg .IfUbc_ .CVa_aM .JhYSQt .hRcdge .Rh9FDv .w0OliH .ZU7N9T .cDnG8c .hCL_0W .RyqCJN .OGuQBl }@media (min-width:1680px){.RRnrq3 .WRQz0K .Dd6vuM .zYFDgT .EV_7_f .v9MnG4 .qJZ273 .q01_WR .c3rsYG .g7V6Aq .hMVME_ .zfG4nE }@media (min-width:2048px){.fThsJU .ABfACE .R5dhkC .MyXYqT .EbUUET .hUGPDG .Rphlv4 .ie82Wk .xSk69q .NJCs3E .Q1q7Mn .DxZXFg }.ADXRXN .ADXRXN:focus .fz1RM7 .sA6yWk .ezWmw4 .RrLa0m .uuNtos .a7F6nQ .NjmK5s .bBxOdS .dDcPyW .gm6PwG .tuLNNt .fF85P2 .v9z3xB .luJTbp .t4xGul .u5MNBk .ggvZLi .hSEQ6n .iQW80L .oLu7zS .TlGbMY .iXVfXB .hsFyL0 .Cn1Wwb .lSnwe8 .NzsUdE .HApaf0 .GrH1f8 .gzO3_Y .mnQnrj .E8Dr5w .M",
+      "excerpt": "Pinterest .b4JSVe ._s5jJp .zkmTtZ .DtJgqy .CFHKzS .yLho2L .hjjW6_ .vfNjwf .U1Fh_X .LpjE6s .ClGzQt .oR8EAJ .g0I6wi @media (min-width:576px) @media (min-width:768px) @media (min-width:1312px) @media (min-width:1440px) @media (min-width:1680px) @media (min-width:2048px) .ADXRXN .ADXRXN:focus .fz1RM7 .sA6yWk .ezWmw4 .RrLa0m .uuNtos .a7F6nQ .NjmK5s .bBxOdS .dDcPyW .gm6PwG .tuLNNt .fF85P2 .v9z3xB .luJTbp .t4xGul .u5MNBk .ggvZLi .hSEQ6n .iQW80L .oLu7zS .TlGbMY .iXVfXB .hsFyL0 .Cn1Wwb .lSnwe8 .NzsUdE .HApaf0 .GrH1f8 .gzO3_Y .mnQnrj .E8Dr5w .M",
       "host": "www.pinterest.com",
       "source_kind": "catalog_verified"
+    },
+    {
+      "url": "https://www.effectsdatabase.com/model/skreddy/perestroika",
+      "title": "Skreddy Pedals Perestroika | Effects Database",
+      "h1": "Skreddy Pedals Perestroika",
+      "excerpt": "Perestroika Published on October 26, 2015 Skreddy Pedals fuzz pedal Information Skreddy Pedals A favorite among collectors The early green Russians have a special place among Big Muff afficionados. The Skreddy Pedals\u2122 Perestroika hearkens to the early 1990's Russian tank version fuzz which had a gritty bite to the top end, a smooth, gently scooped midrange, and a warm, but not boomy low end. Okay, it can get boomy. Depending on where you set the tone control. Has just enough gain to propel your solos and never mushy on chords. We're adding our customary midrange boost mini toggle, too, for flat mids, no scoop! There are a limited number of transistors we can make them with, but we don't foresee running out any time soon. I just couldn't handle the lack of sustain in the stock version. I had to add just a TINY bit more \"zing\" and creamy sustain so it would be useful for soloing. But I did not get rid of the characteristic bass clean blend that is a hallmark of the green/civil war Russians. Video Date \u25bc\u25b2 Maker \u25bc\u25b2 Video \u25bc\u25b2 Time \u25bc\u25b2 2017-07-21 drowninginguitars Skreddy Perestroika Fuzz Demo 2:17 2015-08-03 9520575 Skreddy Perestroika 3:25",
+      "host": "www.effectsdatabase.com",
+      "source_kind": "effects_database"
     }
   ],
   "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."

@@ -1,6 +1,8 @@
 {
   "builder": "SBGO Effects",
   "pedal": "Dark Pass Anger",
+  "original_builder": "SBGO Effects",
+  "original_pedal": "Dark Pass Anger",
   "status": "VERIFIED_EVIDENCE_STAGED",
   "independent_exact_source_count": 1,
   "sources": [
