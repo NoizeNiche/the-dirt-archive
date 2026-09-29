@@ -21,7 +21,7 @@ PATTERNS = [
     ("html_markup_residue", re.compile(
         r"</?(?:html|body|head|div|span|p|a|ul|li|script|style|nav|header|footer)\b"
         r"|data-rte-preserve-empty|var\s+productimageandprice|mmmenus?trings"
-        r"|["']variants["']\s*:\s*\[|\\</?p\b",
+        r'''|["']variants["']\s*:\s*\[|\\</?p\b''',
         re.I,
     )),
     ("html_entity_in_prose", re.compile(r"&(?:nbsp|quot|amp|#39|#x27);", re.I)),
