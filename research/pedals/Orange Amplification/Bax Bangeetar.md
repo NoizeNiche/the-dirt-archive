@@ -7,39 +7,35 @@
 - **Identity:** Orange Amplification's Bax Bangeetar.
 
 ## What this pedal is
-Buy Orange Amplification Orange Amplification Custom Shop Bax Bangeetar Guitar Pre-EQ Pedal | Sam Ash Music The store will not work correctly when cookies are disabled.
+The Bax Bangeetar is a guitar pre-EQ and distortion pedal designed to work as a traditional stompbox, a standalone preamp, or a direct recording tool. Orange describes it as a highly flexible gain and EQ unit rather than a one-voice distortion.
 
 ## Colorways
-- Available in two finishes, black or white, this latest offering functions as a traditional stompbox, a standalone preamp, and a direct recording tool, meaning the possibilities are virtually limitless.
-- True to form, Orange has also bucked the ‘true bypass’ trend and developed its own ultra-transparent buffered bypass.
-- YOU MAY LIKE news / 13 hours ago PRS Guitars Introduces Silver Sky Defender Color Collection Limited Editions news / 2 days ago BOSS Announces New EX-4 Effects Expander news / 1 week ago Positive Grid Announces Spark PEDAL news / 3 weeks ago Joe Satriani &#038; Steve Vai release new album "The Sea of Emotion" on November 6 via earMUSIC ADVERTISEMENT LATEST review / 16 hours ago Danelectro Dan O Mano | Review review / 2 weeks ago Eventide H9 Harmonizer Gen 2 | Review review / 3 weeks ago PRS S2 Vela HHT | Review review / 4 weeks ago Patina PS-4 SL | Review review / 4 weeks ago Enya Inspire Pro SD | Review review / 1 month ago QSC CB10 | Review review / 1 month ago Duesenberg Starplayer TV | Review review / 1 month ago Morley Lerxst ATWAS Wah Volume | Review review / 1 month ago Cort CR270 P90 | Review review / 2 months ago DOD DRAG Analog Delay | Review Don’t miss a thing!
+- Documented finishes include **Black** and **White**.
+- Finish options do not automatically indicate different circuitry.
 
 ## Versions and factory options
-- No distinct factory revision was established in the verified evidence packet.
+- Functions as a stompbox, preamp, and direct recording tool.
+- Orange uses a transparent buffered bypass instead of a conventional true-bypass arrangement.
+- Detailed EQ and gain controls are version-specific and should not be inferred from retailer captures alone.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- No complete numbered hardware revision chronology was established in the checked sources.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
+- Exact production semiconductor details were not established.
 - **Exact transistor/device:** Unknown.
 
 ## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- Exact clipping/rectifier diode information was not established.
 - **Exact part:** Unknown.
 
 ## Sound
-Live Sound Live Sound Back SHOP BY CATEGORY Speakers Mixers Power Amplifiers Dynamic Microphones Wireless Microphones Stage Monitoring Stage Lighting Live Sound Processing Hearing Protection/Health Care Live Sound Accessories Cables Expert Advice.
-Fast, Free Shipping Have any questions about live sound or lighting?
-Live Sound Back SPECIAL OFFER Fast, Free Shipping On Most Orders Over $49!
+The Bax Bangeetar covers boost, overdrive, and heavier distortion with extensive pre-EQ control. Its preamp/direct-output role makes it useful for shaping a signal before an amplifier or for recording without using it solely as a conventional stompbox.
 
 ## Sources checked
-1. Orange Amplification Launch Bax Bangeetar Guitar Pedal: https://musicinsidermagazine.com/orange-amplification-launch-bax-bangeetar-guitar-pedal/
-2. Bax Bangeetar Guitar Pre-EQ Pedal | Buy Orange Amplification: https://www.soundaffects.com/effects-c1/distortion-overdrive-c2/bax-bangeetar-guitar-pre-eq-pedal-in-black-or-white-p4315?page=1
-3. Buy Orange Amplification Orange Amplification Custom Shop Bax Bangeetar Guitar Pre-EQ Pedal | Sam Ash Music: https://www.samash.com/orange-amplification-custom-shop-bax-bangeetar-guitar-pre-eq-pedal-obaxpreeq-p
-4. Orange Amplification Bax Bangeetar EQ (Phoenix, AZ) | Reverb: https://reverb.com/item/81809412-orange-amplification-bax-bangeetar-eq-phoenix-az
-5. Orange Amplification Custom Shop Bax Bangeetar Guitar Pre-EQ Pedal ...: https://www.hittalk.net/product-page/orange-amplification-custom-shop-bax-bangeetar-guitar-pre-eq-pedal-white
-6. Orange Amplification Launch Bax Bangeetar Guitar Pedal: https://guitarinteractivemagazine.com/news/orange-amplification-launch-bax-bangeetar-guitar-pedal/
+1. Orange Amplification - Bax Bangeetar: https://orangeamps.com/products/bax-bangeetar-guitar-pre-eq/
+2. Music Insider Magazine - Orange Bax Bangeetar: https://musicinsidermagazine.com/orange-amplification-launch-bax-bangeetar-guitar-pedal/
+3. Guitar Interactive Magazine - Orange Bax Bangeetar: https://guitarinteractivemagazine.com/news/orange-amplification-launch-bax-bangeetar-guitar-pedal/
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.

@@ -7,37 +7,36 @@
 - **Identity:** Pettyjohn Electronics's IRON MKII.
 
 ## What this pedal is
-Pettyjohn Electronics Iron MKII Standard Overdrive Pedal quantity Add to cart Description The Pettyjohn IRON MKII is a full re-work of our classic medium gain overdrive.
+The IRON MKII is a full redesign of Pettyjohn's original IRON medium-gain overdrive. Pettyjohn describes the platform as a way to thicken the guitar signal while retaining the harmonic richness and touch sensitivity of an amplifier near breakup.
 
 ## Colorways
-- View IK Multimedia ToneX One Pedal Limited Brown Sound Edition Red $ 194.99 Original price was: $194.99.
+- No complete factory finish chronology was established in the checked sources.
 
 ## Versions and factory options
-- The verified evidence references: MKII.
-- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+- **IRON MKII** is the documented second-generation model.
+- The design is intended for low-to-medium gain and stacking.
+- Pettyjohn's production platform emphasizes premium analog construction and extensive tonal response.
+- Exact full control labeling is not asserted here without a matching factory manual.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- Pettyjohn explicitly describes the MKII as a full rework of the classic IRON.
+- No complete internal hardware revision chronology beyond the MKII designation was established.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
+- Exact production semiconductor details were not established.
 - **Exact transistor/device:** Unknown.
 
 ## Diode
-- Documented terms in the verified sources: LED.
-- The archive records only the component information explicitly present in these sources.
+- Exact clipping/rectifier diode information was not established.
+- **Exact part:** Unknown.
 
 ## Sound
-Pettyjohn Electronics Iron MKII Standard Overdrive Pedal
-Pettyjohn Electronics Iron MKII Standard Overdrive Pedal quantity Add to cart Description The Pettyjohn IRON MKII is a full re-work of our classic medium gain overdrive.
-The IRON has been loved for its ability to musically thicken your tone with the harmonic richness and touch sensitivity of vintage American amps pushed to the edge of breakup.
+IRON MKII is designed for musical low-to-medium gain that adds thickness, harmonic richness, and touch response without flattening the guitar's dynamics.
 
 ## Sources checked
-1. PettyJohn Electronics Iron MKII — Boost Pedal | Equipboard: https://equipboard.com/items/pettyjohn-electronics-iron-mkii
-2. Pettyjohn Electronics Iron MKII Standard Overdrive Pedal | Guitar pedal: https://www.electroguitarly.com/product/pettyjohn-electronics-iron-mkii-standard-overdrive-pedal/
-3. Pettyjohn Electronics Iron MKII Overdrive Guitar Effects Pedal: https://www.audiocraftusa.com/product/pettyjohn-electronics-iron-mkii-overdrive-guitar-effects-pedal/
-4. Pettyjohn Electronics Iron MKII w/Deluxe Opamp Upgrades w/Box USED - 622761: https://www.mainstmusic.com/shop/c/p/Pettyjohn-Electronics-Iron-MKII-wDeluxe-Opamp-Upgrades-wBox-USED-x72723626.htm
-5. Pettyjohn Electronics IRON MKII Low/Mid Gain Overdrive: https://www.musicgardenshop.com/products/pettyjohn-electronics-iron-mkii-low-mid-gain-overdrive/
+1. Pettyjohn Electronics - IRON MKII product material: https://www.pettyjohnelectronics.com/
+2. Equipboard - Pettyjohn Electronics IRON MKII: https://equipboard.com/items/pettyjohn-electronics-iron-mkii
+3. Music Garden - Pettyjohn IRON MKII: https://www.musicgardenshop.com/products/pettyjohn-electronics-iron-mkii-low-mid-gain-overdrive/
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.
