@@ -30,6 +30,7 @@ DIRECT = ROOT / "research/PHOTO_DIRECT_IMAGE_OVERRIDES.csv"
 ASSET_ROOT = ROOT / "assets/pedals"
 PHOTO_SOURCE_BLOCKLIST = ROOT / "research/PHOTO_SOURCE_BLOCKLIST.json"
 PHOTO_IDENTITY_QUARANTINE = ROOT / "research/PHOTO_IDENTITY_QUARANTINE.csv"
+PHOTO_HASH_QUARANTINE = ROOT / "research/PHOTO_HASH_QUARANTINE.csv"
 
 USER_AGENT = (
     "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
@@ -71,6 +72,19 @@ def load_identity_quarantine() -> dict[tuple[str, str], set[str]]:
                 url = str(row.get("Blocked Image URL") or "").strip().lower()
                 if k[0] and k[1] and url:
                     rows.setdefault(k, set()).add(url)
+    except Exception:
+        pass
+    return rows
+
+
+def load_hash_quarantine() -> set[tuple[str, str]]:
+    rows: set[tuple[str, str]] = set()
+    try:
+        with PHOTO_HASH_QUARANTINE.open(newline="", encoding="utf-8") as handle:
+            for row in csv.DictReader(handle):
+                k = key(row.get("Builder", ""), row.get("Pedal", ""))
+                if k[0] and k[1]:
+                    rows.add(k)
     except Exception:
         pass
     return rows
@@ -204,6 +218,7 @@ def main() -> None:
     }
 
     identity_quarantine = load_identity_quarantine()
+    hash_quarantine = load_hash_quarantine()
 
     pending = set()
     with TRACKER.open(newline="", encoding="utf-8") as handle:
@@ -219,7 +234,8 @@ def main() -> None:
             source_page = str(row.get("Image Source Page") or "").strip()
             notes = str(row.get("Notes") or "").strip()
             blocked_for_identity = image_url.lower() in identity_quarantine.get(k, set())
-            if k in pending and image_url and source_page and is_http_image_url(image_url) and not blocked_photo_url(image_url, block_rules) and not blocked_for_identity:
+            blocked_for_hash = k in hash_quarantine
+            if k in pending and image_url and source_page and is_http_image_url(image_url) and not blocked_photo_url(image_url, block_rules) and not blocked_for_identity and not blocked_for_hash:
                 direct.setdefault(k, []).append((image_url, source_page, notes))
 
     recovered = 0
