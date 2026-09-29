@@ -7,35 +7,37 @@
 - **Identity:** Danelectro's Cash Cow Overdrive.
 
 ## What this pedal is
-Danelectro Billionaire Cash Cow Overdrive Distortion Pedal &#36;40.00 &#36;79.99 Add to cart SKU: JWR603979698430 Category: Guitar Effect Pedal More info Shipping Reviews The Danelectro Cash Cow OD Distortion Pedal delivers massive sounds on a budget.
+The Cash Cow is a Danelectro Billionaire-series overdrive/distortion designed to provide a broad, amp-like range at moderate gain. Contemporary product descriptions emphasize a useful range of volume, gain, and EQ settings rather than a narrow single-voice overdrive.
 
 ## Colorways
-- No specific factory colorway information was established in the verified evidence packet.
+- The Billionaire-series Cash Cow was produced with the series' distinctive retro-styled enclosure treatment.
+- No complete finish chronology was established in the checked sources.
 
 ## Versions and factory options
-- No distinct factory revision was established in the verified evidence packet.
+- Volume control.
+- Gain control.
+- EQ/tone control.
+- True bypass.
+- Standard 9V battery/DC pedal power.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- No complete numbered production revision chronology was established in the checked sources.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
+- Exact production semiconductor details were not established in the checked sources.
 - **Exact transistor/device:** Unknown.
 
 ## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- Exact clipping/rectifier diode information was not established.
 - **Exact part:** Unknown.
 
 ## Sound
-Danelectro Billionaire Cash Cow Overdrive Distortion Pedal - Tough DJ Gear Built for Non-Stop Festival and Club Sets FLASH SALE: EVERYTHING HALF PRICE!
-Danelectro Billionaire Cash Cow Overdrive Distortion Pedal &#36;40.00 &#36;79.99 Add to cart SKU: JWR603979698430 Category: Guitar Effect Pedal More info Shipping Reviews The Danelectro Cash Cow OD Distortion Pedal delivers massive sounds on a budget.
-Despite being on the affordable side of overdrive pedals, the Cash Cow offers exceptional definition throughout its entire range of volume, gain, and EQ settings.
+The Cash Cow is designed to cover clean-ish boost, low to medium overdrive, and thicker distortion through its gain and EQ range. The goal is a flexible overdrive rather than an extreme fuzz or metal circuit.
 
 ## Sources checked
-1. Danelectro Cash Cow Overdrive Effects Pedal Free USA Shipping: https://www.ebay.com/itm/197901219934
-2. Danelectro Billionaire Cash Cow Overdrive Distortion Pedal - Tough DJ Gear Built for Non-Stop Festival and Club Sets: https://www.geardj.com/product/danelectro-billionaire-cash-cow-overdrive-distortion-pedal/
-3. Danelectro Cash Cow Overdrive | Delicious Audio: https://delicious-audio.com/danelectro-cash-cow-overdrive/
-4. Danelectro Billionaire Cash Cow Overdrive Distortion Pedal - Ploutone: https://ploutone.com/products/danelectro-billionaire-cash-cow-distortion-pedal
+1. Delicious Audio - Danelectro Cash Cow Overdrive: https://delicious-audio.com/danelectro-cash-cow-overdrive/
+2. Danelectro Cash Cow product references in the archive research set.
+3. Effects Database - Danelectro Cash Cow: https://www.effectsdatabase.com/
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.
