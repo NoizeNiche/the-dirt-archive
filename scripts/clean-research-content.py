@@ -38,6 +38,22 @@ COMMERCE_UI = (
 
 SOURCE_LINE = re.compile(r"^\s*\d+\.\s+.+https?://", re.I)
 
+BAD_SOURCE_TEXT = (
+    "verify your identity",
+    "access denied",
+    "captcha",
+    "robot check",
+    "/blocked?",
+    "blocked?url=",
+    "/login",
+)
+
+def bad_source_line(line: str) -> bool:
+    if not SOURCE_LINE.match(line):
+        return False
+    lower = html.unescape(line).lower()
+    return any(marker in lower for marker in BAD_SOURCE_TEXT)
+
 STORE_SHELL = re.compile(
     r"\bHome\s+Store\b.*\b(?:FAQs?|About)\b.*\b(?:Contact|Dealers)\b.*\b(?:Basket|Cart)\b.*\bHome\s*/\s*(?:Pedals?|Products?)\s*/",
     re.I,
@@ -465,6 +481,9 @@ def clean_file(path: Path) -> bool:
             if heading.group(1) == "#" and " — " in heading.group(2):
                 current_pedal = heading.group(2).split(" — ", 1)[1].strip()
         stripped = line.strip()
+        if bad_source_line(line):
+            changed = True
+            continue
         source_cleaned = clean_source_label(line)
         if source_cleaned != line:
             line = source_cleaned
