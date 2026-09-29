@@ -2591,7 +2591,6 @@
     "pedal": "ABM PRO-FX Pro Drive",
     "source_page": "https://www.effectsdatabase.com/model/ashdown",
     "research_record": "./research/pedals/Ashdown Engineering/ABM PRO-FX Pro Drive.md",
-    "image_source_url": "https://files.effectsdatabase.com/gear/pics/ashdown_profx-prodrive_001.jpg",
     "image_source_page": "https://www.effectsdatabase.com/model/ashdown/profx/prodrive"
   },
   {
@@ -2599,7 +2598,6 @@
     "pedal": "AGM PRO-FX Retro Drive",
     "source_page": "https://www.effectsdatabase.com/model/ashdown",
     "research_record": "./research/pedals/Ashdown Engineering/AGM PRO-FX Retro Drive.md",
-    "image_source_url": "https://files.effectsdatabase.com/gear/pics/ashdown_profx-retrodrive_001.jpg",
     "image_source_page": "https://www.effectsdatabase.com/model/ashdown/profx/retrodrive"
   },
   {
@@ -3585,7 +3583,6 @@
     "pedal": "Burmese Drive - Dual Vintage Overdrive",
     "source_page": "https://www.effectsdatabase.com/model/badcat",
     "research_record": "./research/pedals/Bad Cat/Burmese Drive - Dual Vintage Overdrive.md",
-    "image_source_url": "https://www.truetonemusic.com/cdn/shop/files/truetone_Logo_2018_white_cb610416-c81b-40fe-ac59-5dffbb0204e0_435x195.png?v=1765932448",
     "image_source_page": "https://www.truetonemusic.com/products/bad-cat-burmese-drive-dual-vintage-overdrive-pedal"
   },
   {
@@ -14097,7 +14094,6 @@
     "pedal": "Screem",
     "source_page": null,
     "research_record": "./research/pedals/Commune/ECA Screem.md",
-    "image_source_url": "https://rvb-img.reverb.com/i/s--qsxDl0IQ--/quality=medium-low,height=800,width=800,fit=contain/xoship5dn5sgwzlf8sog.jpg",
     "image_source_page": "https://reverb.com/item/10534214-commune-empire-custom-amplification-screem"
   },
   {
@@ -14164,7 +14160,6 @@
     "pedal": "Hair Band Distortion",
     "source_page": null,
     "research_record": "./research/pedals/Compulsive Audio/Hair Band Distortion.md",
-    "image_source_url": "https://i.ebayimg.com/images/g/~HUAAOSwlNpk3DIZ/s-l400.jpg",
     "image_source_page": "https://www.ebay.com/itm/115889579394"
   },
   {
@@ -14172,7 +14167,6 @@
     "pedal": "Jimi - Octave Fuzz",
     "source_page": null,
     "research_record": "./research/pedals/Compulsive Audio/Jimi - Octave Fuzz.md",
-    "image_source_url": "https://media.guitarcenter.com/is/image/MMGS7/151208000000000-00-600x600.jpg",
     "image_source_page": "https://www.guitarcenter.com/Dunlop/Jimi-Hendrix-Octave-Fuzz-Pedal-1274228082241.gc"
   },
   {
@@ -14371,7 +14365,6 @@
     "pedal": "Mini Tube Overdrive",
     "source_page": null,
     "research_record": "./research/pedals/Coopersonic/Mini Tube Overdrive.md",
-    "image_source_url": "https://coopersonic.com/wp-content/uploads/2019/08/cropped-Upside_Down_Bandmaster_Reverb_small-by_rob_Robinette.jpg",
     "image_source_page": "https://coopersonic.com/user-manuals/"
   },
   {
@@ -14399,7 +14392,10 @@
     "builder": "Coopersonic",
     "pedal": "Valveslapper",
     "source_page": null,
-    "research_record": "./research/pedals/Coopersonic/Valveslapper.md"
+    "research_record": "./research/pedals/Coopersonic/Valveslapper.md",
+    "image_source_url": "https://cdn.mos.cms.futurecdn.net/3f4654c8bd45f993b30c728222e4d80e-1200-80.jpg",
+    "image_source_page": "https://www.musicradar.com/news/guitars/10-outrageous-effects-pedals-584997",
+    "image": "./assets/pedals/coopersonic/valveslapper/primary.webp"
   },
   {
     "builder": "Copilot FX",
@@ -15912,7 +15908,6 @@
     "pedal": "Hudson Broadcast Clone",
     "source_page": null,
     "research_record": "./research/pedals/Crust Pedals/Hudson Broadcast Clone.md",
-    "image_source_url": "https://rvb-img.reverb.com/i/s--bB8Z0kWV--/quality=medium-low,height=800,width=800,fit=contain/klt6xyznjpfcttgupbp1.jpg",
     "image_source_page": "https://reverb.com/item/77375685-crust-pedals-hudson-broadcast-clone-2023"
   },
   {
@@ -16413,7 +16408,6 @@
     "pedal": "Grilled Cheese Distortion",
     "source_page": null,
     "research_record": "./research/pedals/Danelectro/Grilled Cheese Distortion.md",
-    "image_source_url": "https://media.guitarcenter.com/is/image/MMGS7/151869000000000-00-600x600.jpg",
     "image_source_page": "https://www.guitarcenter.com/Danelectro/DJ-10-Grilled-Cheese-Distortion-Pedal-1273887999544.gc"
   },
   {
@@ -17133,7 +17127,6 @@
     "pedal": "Tri-Fuzz",
     "source_page": "https://www.fuzzgoddess.com/about/",
     "research_record": "./research/pedals/Devi Ever : FX/Tri-Fuzz.md",
-    "image_source_url": "https://www.fuzzgoddess.com/img/workbench-2003.webp?v=mt23e385",
     "image_source_page": "https://www.fuzzgoddess.com/about/"
   },
   {
@@ -20913,7 +20906,6 @@
     "pedal": "TS7",
     "source_page": null,
     "research_record": "./research/pedals/Ibanez/TS7.md",
-    "image_source_url": "https://www.ibanez.com/images/support/support_bg.jpg",
     "image_source_page": "https://www.ibanez.com/world/support/manual/"
   },
   {
@@ -22256,7 +22248,6 @@
     "pedal": "Red Dirt Germanium Overdrive",
     "source_page": null,
     "research_record": "./research/pedals/Keeley Electronics/Red Dirt Germanium Overdrive.md",
-    "image_source_url": "https://rvb-img.reverb.com/i/s--ThK6cba3--/gravity=auto,quality=medium-low,width=200,height=200,format=jpeg/le3mdmp8xuihghkegaqh.png",
     "image_source_page": "https://reverb.com/item/92935776-keeley-electronics-red-dirt-germanium-overdrive-pedal"
   },
   {
@@ -22271,7 +22262,6 @@
     "pedal": "Red Dirt Overdrive",
     "source_page": null,
     "research_record": "./research/pedals/Keeley Electronics/Red Dirt Overdrive.md",
-    "image_source_url": "https://img.audiofanzine.com/img/product/normal/1/7/178200.jpg?fm=webp&w=400&h=290&fit=fill&s=9a1ac7ca920bc64a375822bdaf04fb47",
     "image_source_page": "https://en.audiofanzine.com/overdrive-pedal/keeley-electronics/red-dirt/"
   },
   {
@@ -23465,7 +23455,6 @@
     "pedal": "Golden Cello",
     "source_page": null,
     "research_record": "./research/pedals/Mad Professor Amplification/Golden Cello.md",
-    "image_source_url": "https://assets.rbl.ms/62183840/origin.png",
     "image_source_page": "https://www.premierguitar.com/mad-professor-introduces-the-golden-cello-pedal"
   },
   {
@@ -23494,7 +23483,6 @@
     "pedal": "Loud 'n Proud",
     "source_page": null,
     "research_record": "./research/pedals/Mad Professor Amplification/Loud 'n Proud.md",
-    "image_source_url": "https://img.youtube.com/vi/xuSd6sM6pps/maxresdefault.jpg",
     "image_source_page": "https://www.guitarworld.com/gear/mad-professor-amplification-unveils-loud-n-proud-overdrivefuzz"
   },
   {
@@ -23625,7 +23613,6 @@
     "pedal": "Dual Drive",
     "source_page": null,
     "research_record": "./research/pedals/MadeByMike/Dual Drive.md",
-    "image_source_url": "https://static.xx.fbcdn.net/rsrc.php/y4/r/cCUc36Es1cc.webp",
     "image_source_page": "https://www.facebook.com/MadeByMikePedals/posts/pedals-870-and-871-the-scream-box-is-a-custom-dual-drive-pedal-the-dream-box-wit/1410415319021706/"
   },
   {
@@ -23633,7 +23620,6 @@
     "pedal": "Fuzzy Beetle",
     "source_page": null,
     "research_record": "./research/pedals/MadeByMike/Fuzzy Beetle.md",
-    "image_source_url": "https://static.xx.fbcdn.net/rsrc.php/y4/r/cCUc36Es1cc.webp",
     "image_source_page": "https://www.facebook.com/MadeByMikePedals/posts/you-wait-ages-for-a-new-pedal-and-then-two-come-along-at-once-the-fuzzy-beetle-h/1779679125428655/"
   },
   {
@@ -23648,7 +23634,6 @@
     "pedal": "RAT/MUFF",
     "source_page": null,
     "research_record": "./research/pedals/MadeByMike/RAT/MUFF.md",
-    "image_source_url": "https://static.xx.fbcdn.net/rsrc.php/y4/r/cCUc36Es1cc.webp",
     "image_source_page": "https://www.facebook.com/MadeByMikePedals/posts/custom-shop-ratmuff-drive-left-switch-chooses-the-drive-side-and-associated-led-/1580367945359775/"
   },
   {
@@ -23867,7 +23852,6 @@
     "pedal": "Part Garden",
     "source_page": null,
     "research_record": "./research/pedals/Mask Audio Electronics/Part Garden.md",
-    "image_source_url": "https://images.pedalfilter.com/maskaudioelectronics-partgardenge.png",
     "image_source_page": "https://pedalfilter.com/mask-audio-electronics/part-garden-ge"
   },
   {
@@ -23875,7 +23859,6 @@
     "pedal": "PART GARDEN",
     "source_page": null,
     "research_record": "./research/pedals/Mask Audio Electronics/PART GARDEN.md",
-    "image_source_url": "https://maskaudioelectronics.com/cdn/shop/files/20250920_092003_160x160.jpg?v=1769883161",
     "image_source_page": "https://maskaudioelectronics.com/products/part-garden"
   },
   {
@@ -25704,7 +25687,6 @@
     "pedal": "Double-Double Overdrive",
     "source_page": null,
     "research_record": "./research/pedals/MXR/Double-Double Overdrive.md",
-    "image_source_url": "https://cdn11.bigcommerce.com/s-n26aknlnlm/images/stencil/1280x1280/products/636/6464/11250000001.MAIN__82864.1663874796.jpg?c=2",
     "image_source_page": "https://www.jimdunlop.com/mxr-double-double-overdrive/"
   },
   {
@@ -26608,7 +26590,6 @@
     "pedal": "M-EQ Driver",
     "source_page": null,
     "research_record": "./research/pedals/Origin Effects/M-EQ Driver.md",
-    "image_source_url": "https://origineffects.com/wp-content/uploads/2022/11/Origin-Effects-M-EQ-Driver-Main-Feature-Image.jpg",
     "image_source_page": "https://origineffects.com/product/meqdriver/"
   },
   {
@@ -27014,7 +26995,6 @@
     "pedal": "Daisycutter",
     "source_page": null,
     "research_record": "./research/pedals/Phaez Amplification/Daisycutter.md",
-    "image_source_url": "https://static.xx.fbcdn.net/rsrc.php/y4/r/cCUc36Es1cc.webp",
     "image_source_page": "https://www.facebook.com/PhaezAmplification/posts/some-was-looking-for-an-old-schematic-early-daisycutter-with-a-5e3-deluxe-style-/2400322746741334/"
   },
   {
@@ -27064,7 +27044,6 @@
     "pedal": "Bass FAT Drive",
     "source_page": null,
     "research_record": "./research/pedals/Pigtronix/Bass FAT Drive.md",
-    "image_source_url": "https://www.talkbass.com/styles/talkbass/talkbass/talkbass_logo.svg",
     "image_source_page": "https://www.talkbass.com/threads/pigtronix-bass-fat-drive-whats-the-verdict.989433/"
   },
   {
@@ -27079,7 +27058,6 @@
     "pedal": "FAT Drive",
     "source_page": null,
     "research_record": "./research/pedals/Pigtronix/FAT Drive.md",
-    "image_source_url": "https://assets.rbl.ms/62183840/origin.png",
     "image_source_page": "https://www.premierguitar.com/gear/pigtronix-fat-drive-pedal-review"
   },
   {
@@ -27133,7 +27111,6 @@
     "pedal": "PolySaturator",
     "source_page": null,
     "research_record": "./research/pedals/Pigtronix/PolySaturator.md",
-    "image_source_url": "https://cdn4.volusion.store/f2jvj-zgvq7/v/vspfiles/photos/Pig%20PolySaturator-2T.jpg?v-cache=1699055210",
     "image_source_page": "https://www.buyanalogman.com/Pigtronix_PolySaturator_p/pig%20polysaturator.htm"
   },
   {
@@ -27219,7 +27196,6 @@
     "pedal": "Yardbox",
     "source_page": null,
     "research_record": "./research/pedals/Prescription Electronics/Yardbox.md",
-    "image_source_url": "https://assets.rbl.ms/62183840/origin.png",
     "image_source_page": "https://www.premierguitar.com/gear/prescription-electronics-yardbox-review"
   },
   {
@@ -29363,7 +29339,6 @@
     "pedal": "911 Tube Driver",
     "source_page": "https://www.effectsdatabase.com/model/tubeworks",
     "research_record": "./research/pedals/Tube Works/911 Tube Driver.md",
-    "image_source_url": "https://files.effectsdatabase.com/gear/pics/tubeworks_911_001.jpg",
     "image_source_page": "https://www.effectsdatabase.com/model/tubeworks/911"
   },
   {
@@ -30655,9 +30630,11 @@
   {
     "builder": "Wampler Pedals",
     "pedal": "Thirty Something",
-    "image": null,
+    "image": "./assets/pedals/wampler-pedals/thirty-something/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/Wampler Pedals/Thirty Something.md"
+    "research_record": "./research/pedals/Wampler Pedals/Thirty Something.md",
+    "image_source_url": "https://cf1.zzounds.com/media/productmedia/fit%2C2018by3200/quality%2C85/WAMACETHIRTY-fd957552d8c77e8ee2a853d121893c2a.jpg",
+    "image_source_page": "https://www.zzounds.com/item--WAMACETHIRTY"
   },
   {
     "builder": "Wampler Pedals",
@@ -30828,7 +30805,6 @@
     "pedal": "Pork & Pickle",
     "source_page": null,
     "research_record": "./research/pedals/Way Huge/Pork & Pickle.md",
-    "image_source_url": "https://www.westsidedistribution.com/wp-content/uploads/2018/01/PorkandPickle.jpg",
     "image_source_page": "https://www.westsidedistribution.com/way-huge-pork-pickle-bass-overdrive-fuzz/"
   },
   {
