@@ -1,7 +1,7 @@
 Builder,Pedal,Catalog Type,Pedal Info,Picture,PRP Complete,Action,Attempts,Notes
 Atlas Pedal,Bracton OverDrive,Overdrive,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
 Atlas Pedal,Sutherland OverDrive,Overdrive,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
-Blackhawk Amplifiers,Valkyrie Drive,Overdrive,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
+Blackhawk Amplifiers,Valkyrie Drive,Overdrive,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,Known identity mismatch: current image is the Uruk-Hai MKII photo; exact Valkyrie Drive photo required.
 Broughton Audio,Azure Drive 10th,Overdrive,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
 Broughton Audio,DYSTOPIA,Fuzz,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
 Broughton Audio,Evergreen Overdrive,Overdrive,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
@@ -92,7 +92,7 @@ Blackbox Music Electronics,X-Ray Bass!,Distortion / Overdrive,DONE,NEEDED,NEEDED
 BOSS,BC-2 Combo Drive,Overdrive,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
 BOSS,DS-1-4A 40th Anniversary Distortion,Distortion,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
 Carlsbro,Suzz-Phase,Distortion / Fuzz,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
-Crazy Tube Circuits,White Whale,Distortion / Fuzz / Overdrive,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
+Crazy Tube Circuits,White Whale,Distortion / Fuzz / Overdrive,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,Known revision mismatch: current image filename identifies White Whale MKII; exact unversioned/original White Whale photo required.
 Darkglass Electronics,Alpha-Omega,Overdrive,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
 Darkglass Electronics,Alpha-Omega Photon,Distortion,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
 Darkglass Electronics,Microtubes B1K,Overdrive,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
@@ -130,7 +130,7 @@ Fuzzrocious Pedals,Ram the Manparts,Fuzz,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No co
 Fuzzrocious Pedals,Wicked Jawn,Fuzz,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
 Himmelstrutz Elektro Art,Under Over,Overdrive,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
 Himmelstrutz Elektro Art,Under Overdriver,Overdrive,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
-Hudson Electronics,Broadcast AP-II,Overdrive / Distortion / Fuzz,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
+Hudson Electronics,Broadcast AP-II,Overdrive / Distortion / Fuzz,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,Known model conflict: current source photo is also used for Broadcast dual-footwitch; exact AP-II photo required.
 J. Rockett Audio Designs,Animal Overdrive,Overdrive,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
 J. Rockett Audio Designs,El Hombre,Overdrive,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
 J. Rockett Audio Designs,Flex Drive,Overdrive / Fuzz,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
@@ -153,7 +153,7 @@ Lovepedal / Love Pedal,Tchula,Overdrive,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No con
 Lovepedal / Love Pedal,Zendrive,Overdrive,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
 Lovepedal / Love Pedal,Zendrive 2,Overdrive,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
 Lovetone,Big Cheese,Fuzz,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
-Mad Professor Amplification,Super Black,Overdrive,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
+Mad Professor Amplification,Super Black,Overdrive,DONE,NEEDED,NEEDED,DEEP_REVIEW,1,Known model conflict: current source is a Super Black mini listing/image; exact full-size Super Black photo required.
 Mid-Fi Electronics / Doug Tuttle,Another/An-other (Fuzz Version),Fuzz,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
 Mid-Fi Electronics / Doug Tuttle,Clari(not) Fuzz,Fuzz,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.
 Mid-Fi Electronics / Doug Tuttle,Cocoon,Fuzz,DONE,NEEDED,NEEDED,PHOTO_NEEDED,0,No confirmed photo archived yet.

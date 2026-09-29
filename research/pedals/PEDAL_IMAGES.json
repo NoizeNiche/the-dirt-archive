@@ -8101,6 +8101,7 @@
   {
     "builder": "BSQ Effects",
     "pedal": "BO-2 Bulls On - Overdrive/Compressor",
+    "image": null,
     "source_page": "https://www.bsqeffects.com/pedales",
     "research_record": "./research/pedals/PRP Batch 118/bsq-effects-bo-2-bulls-on-overdrive-compressor.md",
     "source": null
@@ -8108,6 +8109,7 @@
   {
     "builder": "BSQ Effects",
     "pedal": "DM-2 Dynamite - Overdrive/Compressor",
+    "image": null,
     "source_page": "https://www.bsqeffects.com/pedales",
     "research_record": "./research/pedals/PRP Batch 118/bsq-effects-dm-2-dynamite-overdrive-compressor.md",
     "source": null
@@ -19891,6 +19893,7 @@
   {
     "builder": "J. Rockett Audio Designs",
     "pedal": "WTF Fuzz",
+    "image": null,
     "source_page": "https://rockettpedals.com/",
     "research_record": "./research/pedals/J. Rockett Audio Designs/WTF Fuzz.md"
   },
@@ -28514,6 +28517,7 @@
   {
     "builder": "VOX",
     "pedal": "Mystic Edge",
+    "image": null,
     "source_page": null,
     "research_record": "./research/pedals/VOX/Mystic Edge.md"
   },
