@@ -1,6 +1,6 @@
 # Pedal Image Cache Report
 
-- Cached in this run: **1**
+- Cached in this run: **0**
 - Staged browser photos converted: **0**
 - Local images retained/reorganized: **0**
 - Download failures: **4**
@@ -13,10 +13,6 @@
 - Primary image: `assets/pedals/{builder}/{pedal}/primary.webp`
 - Colorway/edition image: `assets/pedals/{builder}/{pedal}/variants/{variant}.webp`
 - Original source URL remains stored as `image_source_url`.
-
-## Newly cached
-
-- Stomp Under Foot - Windhand Fuzz -> `./assets/pedals/stomp-under-foot/windhand-fuzz/primary.webp`
 
 ## Still external / failed
 
