@@ -7,7 +7,6 @@
 - **Identity:** Walrus Audio's Badwater Bass Pre-amp and D.I.
 
 ## What this pedal is
-$ 150.00 $ 300.00 available: In Stock Walrus Audio Badwater Bass Pre-Amp and D.I.The Badwater is a bass tone magnification device sonically highlighting what makes bass so crucial to music.
 
 ## Colorways
 - No specific factory colorway information was established in the verified evidence packet.
