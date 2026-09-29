@@ -49220,7 +49220,18 @@
       "research_record": "./research/pedals/NUX Audio / NUX/Brownie.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://reverb.com/item/92416058-cmatmods-brownie-with-xtra-jfets"
+      "image_source_page": "https://www.guitarcenter.com/Used/NUX/Used-NUX-BROWNIE-DISTORTION-Effect-Pedal-122026518.gc",
+      "image_source_pages": [
+        "https://www.guitarcenter.com/Used/NUX/Used-NUX-BROWNIE-DISTORTION-Effect-Pedal-122026518.gc"
+      ],
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 1000000,
+      "image_source_url": "https://media.guitarcenter.com/is/image/MMGS7/000000122026518-00-600x600.jpg",
+      "image_source_urls": [
+        "https://media.guitarcenter.com/is/image/MMGS7/000000122026518-00-600x600.jpg"
+      ],
+      "image": "./assets/pedals/nux-audio-nux/brownie/primary.webp"
     },
     {
       "company": "NUX Audio / NUX",
@@ -52168,7 +52179,18 @@
       "research_record": "./research/pedals/Seymour Duncan/Palladium Gain Stage.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://www.guitarworld.com/gear/review-seymour-duncan-palladium-gain-stage-pedal"
+      "image_source_page": "https://www.chicagomusicexchange.com/products/seymour-duncan-palladium-gain-stage-pedal-matte-black-16467",
+      "image_source_pages": [
+        "https://www.chicagomusicexchange.com/products/seymour-duncan-palladium-gain-stage-pedal-matte-black-16467"
+      ],
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 1000000,
+      "image_source_url": "https://www.chicagomusicexchange.com/cdn/shop/products/seymour-duncan-effects-and-pedals-overdrive-and-boost-seymour-duncan-palladium-gain-stage-pedal-matte-black-11900009b-28515553116295.jpg?v=1651555017&width=1946",
+      "image_source_urls": [
+        "https://www.chicagomusicexchange.com/cdn/shop/products/seymour-duncan-effects-and-pedals-overdrive-and-boost-seymour-duncan-palladium-gain-stage-pedal-matte-black-11900009b-28515553116295.jpg?v=1651555017&width=1946"
+      ],
+      "image": "./assets/pedals/seymour-duncan/palladium-gain-stage/primary.webp"
     },
     {
       "company": "Seymour Duncan",

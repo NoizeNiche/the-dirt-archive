@@ -26146,7 +26146,10 @@
     "builder": "NUX Audio / NUX",
     "pedal": "Brownie",
     "source_page": null,
-    "research_record": "./research/pedals/NUX Audio / NUX/Brownie.md"
+    "research_record": "./research/pedals/NUX Audio / NUX/Brownie.md",
+    "image_source_url": "https://media.guitarcenter.com/is/image/MMGS7/000000122026518-00-600x600.jpg",
+    "image_source_page": "https://www.guitarcenter.com/Used/NUX/Used-NUX-BROWNIE-DISTORTION-Effect-Pedal-122026518.gc",
+    "image": "./assets/pedals/nux-audio-nux/brownie/primary.webp"
   },
   {
     "builder": "NUX Audio / NUX",
@@ -27649,7 +27652,10 @@
     "builder": "Seymour Duncan",
     "pedal": "Palladium Gain Stage",
     "source_page": null,
-    "research_record": "./research/pedals/Seymour Duncan/Palladium Gain Stage.md"
+    "research_record": "./research/pedals/Seymour Duncan/Palladium Gain Stage.md",
+    "image_source_url": "https://www.chicagomusicexchange.com/cdn/shop/products/seymour-duncan-effects-and-pedals-overdrive-and-boost-seymour-duncan-palladium-gain-stage-pedal-matte-black-11900009b-28515553116295.jpg?v=1651555017&width=1946",
+    "image_source_page": "https://www.chicagomusicexchange.com/products/seymour-duncan-palladium-gain-stage-pedal-matte-black-16467",
+    "image": "./assets/pedals/seymour-duncan/palladium-gain-stage/primary.webp"
   },
   {
     "builder": "Seymour Duncan",
