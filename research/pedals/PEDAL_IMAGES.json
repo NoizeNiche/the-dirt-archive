@@ -8153,10 +8153,11 @@
   {
     "builder": "BOSS",
     "pedal": "MT-2-3A 30th Anniversary Metal Zone",
-    "image": null,
+    "image": "./assets/pedals/boss/mt-2-3a-30th-anniversary-metal-zone/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/boss/compact/mt2/3a",
     "research_record": "./research/pedals/BOSS/MT-2-3A 30th Anniversary Metal Zone.md",
-    "image_source_url": "https://rvb-img.reverb.com/image/upload/s--roDGV5Kc--/f_auto%2Ct_large/v1629992328/byqovu79pjwkripuafit.jpg"
+    "image_source_url": "https://rvb-img.reverb.com/i/s--EvT2Sssd--/gravity=auto,quality=medium-low,width=200,height=200,format=jpeg/efw4hl3zahn4jf0v79kp.png",
+    "image_source_page": "https://reverb.com/item/43630176-boss-mt-2-3a-30th-anniversary-metal-zone"
   },
   {
     "builder": "BOSS",
@@ -14152,7 +14153,9 @@
     "builder": "Compulsive Audio",
     "pedal": "Jimi - Octave Fuzz",
     "source_page": null,
-    "research_record": "./research/pedals/Compulsive Audio/Jimi - Octave Fuzz.md"
+    "research_record": "./research/pedals/Compulsive Audio/Jimi - Octave Fuzz.md",
+    "image_source_url": "https://media.guitarcenter.com/is/image/MMGS7/151208000000000-00-600x600.jpg",
+    "image_source_page": "https://www.guitarcenter.com/Dunlop/Jimi-Hendrix-Octave-Fuzz-Pedal-1274228082241.gc"
   },
   {
     "builder": "Compulsive Audio",
@@ -14349,7 +14352,9 @@
     "builder": "Coopersonic",
     "pedal": "Mini Tube Overdrive",
     "source_page": null,
-    "research_record": "./research/pedals/Coopersonic/Mini Tube Overdrive.md"
+    "research_record": "./research/pedals/Coopersonic/Mini Tube Overdrive.md",
+    "image_source_url": "https://coopersonic.com/wp-content/uploads/2019/08/cropped-Upside_Down_Bandmaster_Reverb_small-by_rob_Robinette.jpg",
+    "image_source_page": "https://coopersonic.com/user-manuals/"
   },
   {
     "builder": "Coopersonic",
@@ -14376,7 +14381,9 @@
     "builder": "Coopersonic",
     "pedal": "Valveslapper",
     "source_page": null,
-    "research_record": "./research/pedals/Coopersonic/Valveslapper.md"
+    "research_record": "./research/pedals/Coopersonic/Valveslapper.md",
+    "image_source_url": "https://rvb-img.reverb.com/i/s--zWvnYwHX--/quality=medium-low,height=800,width=800,fit=contain,rotate=270/kdbvt60axcciuw5mk23m.jpg",
+    "image_source_page": "https://reverb.com/item/81348576-coopersonic-valveslapper-dual-valve-distortion"
   },
   {
     "builder": "Copilot FX",
@@ -16387,7 +16394,9 @@
     "builder": "Danelectro",
     "pedal": "Grilled Cheese Distortion",
     "source_page": null,
-    "research_record": "./research/pedals/Danelectro/Grilled Cheese Distortion.md"
+    "research_record": "./research/pedals/Danelectro/Grilled Cheese Distortion.md",
+    "image_source_url": "https://www.guitarcenter.com/assets/images/new-header/gear-advisor.png",
+    "image_source_page": "https://www.guitarcenter.com/Danelectro/DJ-10-Grilled-Cheese-Distortion-Pedal-1273887999544.gc"
   },
   {
     "builder": "Danelectro",
@@ -16509,7 +16518,9 @@
     "builder": "Daredevil Pedals",
     "pedal": "Fearless Distortion",
     "source_page": null,
-    "research_record": "./research/pedals/Daredevil Pedals/Fearless Distortion.md"
+    "research_record": "./research/pedals/Daredevil Pedals/Fearless Distortion.md",
+    "image_source_url": "https://images.equipboard.com/uploads/item/image/134344/daredevil-fearless-distortion-xl.webp?v=1790633090",
+    "image_source_page": "https://equipboard.com/items/daredevil-pedals-fearless-distortion"
   },
   {
     "builder": "Daredevil Pedals",
@@ -17103,13 +17114,17 @@
     "builder": "Devi Ever : FX",
     "pedal": "Tri-Fuzz",
     "source_page": "https://www.fuzzgoddess.com/about/",
-    "research_record": "./research/pedals/Devi Ever : FX/Tri-Fuzz.md"
+    "research_record": "./research/pedals/Devi Ever : FX/Tri-Fuzz.md",
+    "image_source_url": "https://www.fuzzgoddess.com/img/workbench-2003.webp?v=mt23e385",
+    "image_source_page": "https://www.fuzzgoddess.com/about/"
   },
   {
     "builder": "Devi Ever : FX",
     "pedal": "Truly Beautiful Disaster",
     "source_page": null,
-    "research_record": "./research/pedals/Devi Ever : FX/Truly Beautiful Disaster.md"
+    "research_record": "./research/pedals/Devi Ever : FX/Truly Beautiful Disaster.md",
+    "image_source_url": "https://m.media-amazon.com/images/I/41C8w9fTmrL.jpg",
+    "image_source_page": "https://www.amazon.com/Devi-Ever-Truly-Beautiful-Disaster/dp/B003G59BOM"
   },
   {
     "builder": "Devi Ever : FX",
@@ -18617,7 +18632,9 @@
     "builder": "EarthQuaker Devices",
     "pedal": "Monarch",
     "source_page": null,
-    "research_record": "./research/pedals/EarthQuaker Devices/Monarch.md"
+    "research_record": "./research/pedals/EarthQuaker Devices/Monarch.md",
+    "image_source_url": "https://images.equipboard.com/uploads/item/image/13863/earthquaker-devices-monarch-overdrive-pedal-xl.webp?v=1790165038",
+    "image_source_page": "https://equipboard.com/items/earthquaker-devices-monarch-overdrive-pedal"
   },
   {
     "builder": "EarthQuaker Devices",
@@ -20369,7 +20386,9 @@
     "builder": "Greer Amps",
     "pedal": "Moonshot Germanium Pre",
     "source_page": null,
-    "research_record": "./research/pedals/Greer Amps/Moonshot Germanium Pre.md"
+    "research_record": "./research/pedals/Greer Amps/Moonshot Germanium Pre.md",
+    "image_source_url": "https://www.greeramps.com/cdn/shop/files/GREER-76-SLANT_280x@2x.png?v=1613708416",
+    "image_source_page": "https://www.greeramps.com/products/moonshot-germanium-pre"
   },
   {
     "builder": "Greer Amps",
@@ -20662,10 +20681,11 @@
   {
     "builder": "Himmelstrutz Elektro Art",
     "pedal": "Under Over",
-    "image": "",
+    "image": "./assets/pedals/himmelstrutz-elektro-art/under-over/primary.webp",
     "source_page": "https://himmelstrutz.com/download/",
     "research_record": "./research/pedals/Himmelstrutz Elektro Art/Under Over.md",
-    "image_source_url": "https://rvb-img.reverb.com/i/s--6GrYi-Y3--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/ywrxzexgejldo7k7i6d3.jpg"
+    "image_source_url": "https://rvb-img.reverb.com/i/s--6GrYi-Y3--/quality=medium-low,height=800,width=800,fit=contain/ywrxzexgejldo7k7i6d3.jpg",
+    "image_source_page": "https://reverb.com/item/73692412-himmelstrutz-elektro-art-under-over-stout-of-the-art-overdive-pedal-preowned"
   },
   {
     "builder": "Himmelstrutz Elektro Art",
@@ -20867,13 +20887,17 @@
     "builder": "Ibanez",
     "pedal": "TK999OD",
     "source_page": null,
-    "research_record": "./research/pedals/Ibanez/TK999OD.md"
+    "research_record": "./research/pedals/Ibanez/TK999OD.md",
+    "image_source_url": "https://static-data2.manualslib.com//pdf3/60/5908/590767-ibanez/images/tk999od_1_bg.jpg",
+    "image_source_page": "https://www.manualslib.com/manual/590767/Ibanez-Tube-King-Overdrive-Tk999od.html"
   },
   {
     "builder": "Ibanez",
     "pedal": "TS7",
     "source_page": null,
-    "research_record": "./research/pedals/Ibanez/TS7.md"
+    "research_record": "./research/pedals/Ibanez/TS7.md",
+    "image_source_url": "https://images.equipboard.com/uploads/item/image/19993/ibanez-tone-lok-ts7-tube-screamer-xl.webp?v=1790337791",
+    "image_source_page": "https://equipboard.com/items/ibanez-tone-lok-ts7-tubescreamer"
   },
   {
     "builder": "Ibanez",
@@ -20935,7 +20959,9 @@
     "builder": "Ibanez",
     "pedal": "TSV808",
     "source_page": null,
-    "research_record": "./research/pedals/Ibanez/TSV808.md"
+    "research_record": "./research/pedals/Ibanez/TSV808.md",
+    "image_source_url": "https://images.equipboard.com/uploads/item/image/78280/ibanez-tsv808-vemuram-tube-screamer-xl.webp?v=1790510938",
+    "image_source_page": "https://equipboard.com/items/ibanez-tsv808-vemuram-tube-screamer"
   },
   {
     "builder": "IdiotBox Effects",
@@ -22227,7 +22253,9 @@
     "builder": "Keeley Electronics",
     "pedal": "Red Dirt Overdrive",
     "source_page": null,
-    "research_record": "./research/pedals/Keeley Electronics/Red Dirt Overdrive.md"
+    "research_record": "./research/pedals/Keeley Electronics/Red Dirt Overdrive.md",
+    "image_source_url": "https://static.audiofanzine.com/images/audiofanzine/logo_retina_borderless-36.webp",
+    "image_source_page": "https://en.audiofanzine.com/overdrive-pedal/keeley-electronics/red-dirt/"
   },
   {
     "builder": "Keeley Electronics",
@@ -22240,7 +22268,9 @@
     "builder": "Keeley Electronics",
     "pedal": "SUNS Ultravoid Fuzz",
     "source_page": null,
-    "research_record": "./research/pedals/Keeley Electronics/SUNS Ultravoid Fuzz.md"
+    "research_record": "./research/pedals/Keeley Electronics/SUNS Ultravoid Fuzz.md",
+    "image_source_url": "https://www.rockboard.de/icons/header_pedalpedia_big.svg",
+    "image_source_page": "https://www.rockboard.de/en/pedalPedia/Keeley-Electronics/Suns-Ultravoid-Fuzz/651782497/"
   },
   {
     "builder": "Keeley Electronics",
@@ -22741,7 +22771,9 @@
     "builder": "Leqtique",
     "pedal": "10/10 XXJ EVR",
     "source_page": null,
-    "research_record": "./research/pedals/Leqtique/10/10 XXJ EVR.md"
+    "research_record": "./research/pedals/Leqtique/10/10 XXJ EVR.md",
+    "image_source_url": "https://tcgakki.com/cdn/shop/files/mainlogo_140x@2x.png?v=1725942071",
+    "image_source_page": "https://tcgakki.com/en/products/leqtique-evr-10-10-xxj-evrnew-1"
   },
   {
     "builder": "Leqtique",
@@ -23419,7 +23451,9 @@
     "builder": "Mad Professor Amplification",
     "pedal": "Golden Cello",
     "source_page": null,
-    "research_record": "./research/pedals/Mad Professor Amplification/Golden Cello.md"
+    "research_record": "./research/pedals/Mad Professor Amplification/Golden Cello.md",
+    "image_source_url": "https://assets.rbl.ms/62183840/origin.png",
+    "image_source_page": "https://www.premierguitar.com/mad-professor-introduces-the-golden-cello-pedal"
   },
   {
     "builder": "Mad Professor Amplification",
@@ -23446,7 +23480,9 @@
     "builder": "Mad Professor Amplification",
     "pedal": "Loud 'n Proud",
     "source_page": null,
-    "research_record": "./research/pedals/Mad Professor Amplification/Loud 'n Proud.md"
+    "research_record": "./research/pedals/Mad Professor Amplification/Loud 'n Proud.md",
+    "image_source_url": "https://img.youtube.com/vi/xuSd6sM6pps/maxresdefault.jpg",
+    "image_source_page": "https://www.guitarworld.com/gear/mad-professor-amplification-unveils-loud-n-proud-overdrivefuzz"
   },
   {
     "builder": "Mad Professor Amplification",
@@ -23575,13 +23611,17 @@
     "builder": "MadeByMike",
     "pedal": "Dual Drive",
     "source_page": null,
-    "research_record": "./research/pedals/MadeByMike/Dual Drive.md"
+    "research_record": "./research/pedals/MadeByMike/Dual Drive.md",
+    "image_source_url": "https://static.xx.fbcdn.net/rsrc.php/y4/r/cCUc36Es1cc.webp",
+    "image_source_page": "https://www.facebook.com/MadeByMikePedals/posts/pedals-870-and-871-the-scream-box-is-a-custom-dual-drive-pedal-the-dream-box-wit/1410415319021706/"
   },
   {
     "builder": "MadeByMike",
     "pedal": "Fuzzy Beetle",
     "source_page": null,
-    "research_record": "./research/pedals/MadeByMike/Fuzzy Beetle.md"
+    "research_record": "./research/pedals/MadeByMike/Fuzzy Beetle.md",
+    "image_source_url": "https://static.xx.fbcdn.net/rsrc.php/y4/r/cCUc36Es1cc.webp",
+    "image_source_page": "https://www.facebook.com/MadeByMikePedals/posts/you-wait-ages-for-a-new-pedal-and-then-two-come-along-at-once-the-fuzzy-beetle-h/1779679125428655/"
   },
   {
     "builder": "MadeByMike",
@@ -23594,7 +23634,9 @@
     "builder": "MadeByMike",
     "pedal": "RAT/MUFF",
     "source_page": null,
-    "research_record": "./research/pedals/MadeByMike/RAT/MUFF.md"
+    "research_record": "./research/pedals/MadeByMike/RAT/MUFF.md",
+    "image_source_url": "https://static.xx.fbcdn.net/rsrc.php/y4/r/cCUc36Es1cc.webp",
+    "image_source_page": "https://www.facebook.com/MadeByMikePedals/posts/custom-shop-ratmuff-drive-left-switch-chooses-the-drive-side-and-associated-led-/1580367945359775/"
   },
   {
     "builder": "MadeByMike",
@@ -23811,13 +23853,17 @@
     "builder": "Mask Audio Electronics",
     "pedal": "Part Garden",
     "source_page": null,
-    "research_record": "./research/pedals/Mask Audio Electronics/Part Garden.md"
+    "research_record": "./research/pedals/Mask Audio Electronics/Part Garden.md",
+    "image_source_url": "https://assets.equipboard.com/assets/store_logos/amazon-logo-d3fd501171f0d5689057f89a7659bab0da571d2544c20e0ac5760692133ad314.svg",
+    "image_source_page": "https://equipboard.com/items/mask-audio-electronics-collector-emitter-part-garden"
   },
   {
     "builder": "Mask Audio Electronics",
     "pedal": "PART GARDEN",
     "source_page": null,
-    "research_record": "./research/pedals/Mask Audio Electronics/PART GARDEN.md"
+    "research_record": "./research/pedals/Mask Audio Electronics/PART GARDEN.md",
+    "image_source_url": "https://maskaudioelectronics.com/cdn/shop/files/20250920_092003_160x160.jpg?v=1769883161",
+    "image_source_page": "https://maskaudioelectronics.com/products/part-garden"
   },
   {
     "builder": "Mask Audio Electronics",
@@ -24212,7 +24258,9 @@
     "builder": "Maxon",
     "pedal": "SSD-9 Super Sonic Distortion",
     "source_page": null,
-    "research_record": "./research/pedals/Maxon/SSD-9 Super Sonic Distortion.md"
+    "research_record": "./research/pedals/Maxon/SSD-9 Super Sonic Distortion.md",
+    "image_source_url": "https://maxonfx.com/cdn/shop/files/MaxonFXdotcom_new_logo.png?v=1722610569&width=300",
+    "image_source_page": "https://maxonfx.com/products/super-sonic-distortion-ssd-9"
   },
   {
     "builder": "Maxon",
@@ -25641,7 +25689,9 @@
     "builder": "MXR",
     "pedal": "Double-Double Overdrive",
     "source_page": null,
-    "research_record": "./research/pedals/MXR/Double-Double Overdrive.md"
+    "research_record": "./research/pedals/MXR/Double-Double Overdrive.md",
+    "image_source_url": "https://cdn.mos.cms.futurecdn.net/flexiimages/2pyzk5gy2u1776694356.png",
+    "image_source_page": "https://www.guitarworld.com/gear/review-mxr-double-double-overdrive-pedal"
   },
   {
     "builder": "MXR",
@@ -25817,7 +25867,9 @@
     "pedal": "Tom Morello Power 50 Overdrive",
     "image": null,
     "source_page": null,
-    "research_record": "./research/pedals/MXR/Tom Morello Power 50 Overdrive.md"
+    "research_record": "./research/pedals/MXR/Tom Morello Power 50 Overdrive.md",
+    "image_source_url": "https://www.mooreguitars.com/wp-content/uploads/2025/11/mxr__55831.jpg",
+    "image_source_page": "https://www.mooreguitars.com/mxr-tom-morello-power-50-overdrive/"
   },
   {
     "builder": "MXR",
@@ -26095,7 +26147,9 @@
     "builder": "NUX Audio / NUX",
     "pedal": "Brownie",
     "source_page": null,
-    "research_record": "./research/pedals/NUX Audio / NUX/Brownie.md"
+    "research_record": "./research/pedals/NUX Audio / NUX/Brownie.md",
+    "image_source_url": "https://static.reverb-assets.com/production-assets/webpack/images/shop-brand-default-c1f7bfd8c82677bc.png",
+    "image_source_page": "https://reverb.com/item/92416058-cmatmods-brownie-with-xtra-jfets"
   },
   {
     "builder": "NUX Audio / NUX",
@@ -26223,7 +26277,9 @@
     "pedal": "Plexi Crunch",
     "image": null,
     "source_page": null,
-    "research_record": "./research/pedals/NUX Audio / NUX/Plexi Crunch.md"
+    "research_record": "./research/pedals/NUX Audio / NUX/Plexi Crunch.md",
+    "image_source_url": "https://rvb-img.reverb.com/i/s--t-84T-uh--/gravity=auto,quality=medium-low,width=200,height=200,format=jpeg/n1xrih5wc4x8cu8axb4r.jpg",
+    "image_source_page": "https://reverb.com/item/94562562-nux-reissue-series-plexi-crunch-2010s-grey"
   },
   {
     "builder": "NUX Audio / NUX",
@@ -26542,7 +26598,9 @@
     "builder": "Origin Effects",
     "pedal": "M-EQ Driver",
     "source_page": null,
-    "research_record": "./research/pedals/Origin Effects/M-EQ Driver.md"
+    "research_record": "./research/pedals/Origin Effects/M-EQ Driver.md",
+    "image_source_url": "https://origineffects.com/wp-content/uploads/2022/11/Origin-Effects-M-EQ-Driver-Main-Feature-Image.jpg",
+    "image_source_page": "https://origineffects.com/product/meqdriver/"
   },
   {
     "builder": "Origin Effects",
@@ -26946,7 +27004,9 @@
     "builder": "Phaez Amplification",
     "pedal": "Daisycutter",
     "source_page": null,
-    "research_record": "./research/pedals/Phaez Amplification/Daisycutter.md"
+    "research_record": "./research/pedals/Phaez Amplification/Daisycutter.md",
+    "image_source_url": "https://static.xx.fbcdn.net/rsrc.php/y4/r/cCUc36Es1cc.webp",
+    "image_source_page": "https://www.facebook.com/PhaezAmplification/posts/some-was-looking-for-an-old-schematic-early-daisycutter-with-a-5e3-deluxe-style-/2400322746741334/"
   },
   {
     "builder": "Phaez Amplification",
@@ -26994,7 +27054,9 @@
     "builder": "Pigtronix",
     "pedal": "Bass FAT Drive",
     "source_page": null,
-    "research_record": "./research/pedals/Pigtronix/Bass FAT Drive.md"
+    "research_record": "./research/pedals/Pigtronix/Bass FAT Drive.md",
+    "image_source_url": "https://images.equipboard.com/uploads/item/image/22045/pigtronix-bass-fat-drive-xl.webp?v=1790424285",
+    "image_source_page": "https://equipboard.com/items/pigtronix-bass-fat-drive"
   },
   {
     "builder": "Pigtronix",
@@ -27007,7 +27069,9 @@
     "builder": "Pigtronix",
     "pedal": "FAT Drive",
     "source_page": null,
-    "research_record": "./research/pedals/Pigtronix/FAT Drive.md"
+    "research_record": "./research/pedals/Pigtronix/FAT Drive.md",
+    "image_source_url": "https://assets.rbl.ms/62183840/origin.png",
+    "image_source_page": "https://www.premierguitar.com/gear/pigtronix-fat-drive-pedal-review"
   },
   {
     "builder": "Pigtronix",
@@ -29285,7 +29349,9 @@
     "builder": "Tube Works",
     "pedal": "911 Tube Driver",
     "source_page": "https://www.effectsdatabase.com/model/tubeworks",
-    "research_record": "./research/pedals/Tube Works/911 Tube Driver.md"
+    "research_record": "./research/pedals/Tube Works/911 Tube Driver.md",
+    "image_source_url": "https://files.effectsdatabase.com/gear/pics/tubeworks_911_001.jpg",
+    "image_source_page": "https://www.effectsdatabase.com/model/tubeworks/911"
   },
   {
     "builder": "Union Tube & Transistor",
