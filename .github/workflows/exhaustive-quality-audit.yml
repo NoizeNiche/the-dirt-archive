@@ -16,6 +16,7 @@ on:
       - 'scripts/build-photo-hash-review.py'
       - 'scripts/audit-photo-identity.py'
       - 'scripts/audit-photo-revision-fidelity.py'
+      - 'scripts/audit-photo-provenance-quality.py'
       - 'scripts/verify-photo-manual-review-sync.py'
       - 'research/PHOTO_DIRECT_IMAGE_OVERRIDES.csv'
       - 'research/PHOTO_MANUAL_REVIEW.csv'
@@ -86,6 +87,9 @@ jobs:
       - name: Audit photographed pedal revision fidelity
         run: python scripts/audit-photo-revision-fidelity.py
 
+      - name: Audit photo source provenance quality
+        run: python scripts/audit-photo-provenance-quality.py
+
       - name: Verify manual photo-review synchronization
         run: python scripts/verify-photo-manual-review-sync.py
 
@@ -101,5 +105,6 @@ jobs:
             research/PHOTO_HASH_REVIEW.csv
             photo-identity-audit.csv
             research/PHOTO_REVISION_AUDIT.csv
+            research/PHOTO_PROVENANCE_REVIEW.csv
             /tmp/dirt-archive-audit-server.log
           if-no-files-found: warn
