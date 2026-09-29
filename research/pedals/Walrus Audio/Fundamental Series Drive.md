@@ -7,39 +7,41 @@
 - **Identity:** Walrus Audio's Fundamental Series Drive.
 
 ## What this pedal is
-$173.00 $199.00 Add to Cart BMF Effects The Godfather II Dual Overdrive Double your tonal pleasure with The Godfather II Dual Overdrive pedal.
+The Fundamental Drive is a three-mode overdrive from Walrus Audio's Fundamental Series. The model uses simplified controls and is designed primarily as an accessible front-of-chain drive. The model is discontinued.
 
 ## Colorways
-- Drive B (orange LED) is the same as the single Godfather Overdrive pedal, while Drive A (red LED) is voiced for m..
+- Black finish with red and off-white ink.
 
 ## Versions and factory options
-- The verified evidence references: MKII, V4.
-- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+- **Gain** slider.
+- **Tone** slider.
+- **Volume** slider.
+- Three-position mode switch:
+  - **Smooth:** silicon soft clipping.
+  - **Crunch:** silicon soft clipping with additional hard-clipping diodes and slight low-end boost.
+  - **Bright:** Crunch-style clipping with a pre-clipping low-end cut.
+- True bypass.
+- Analog dry-through.
+- 9VDC, 100mA minimum.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- No separate numbered production revision was established in the checked sources.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
+- Exact production semiconductor details were not established in the checked sources.
 - **Exact transistor/device:** Unknown.
 
 ## Diode
-- Documented terms in the verified sources: LED.
-- The archive records only the component information explicitly present in these sources.
+- Walrus documents silicon soft/hard clipping across the three modes.
+- **Exact production diode part numbers:** Unknown.
 
 ## Sound
-Fundamental Series Drive FREE SHIPPING We ship most orders within 1-3 business days.
-It's the perfect tool at the front of your chain to set the tone for your whole rig.
-Fundamental Drive The Fundamental Drive is a versatile overdrive that allows for a wide range of tones thanks to its three-mode switch.
+Fundamental Drive ranges from clean, smooth overdrive through crunchy, edgier clipping and a brighter, glassier setting. Walrus designed it to work especially well at the front of a pedal chain.
 
 ## Sources checked
-1. Fundamental Series Drive: https://www.walrusaudio.com/products/fundamental-series-drive
-2. Walrus Audio Fundamental Series Drive Pedal | Sweetwater: https://www.sweetwater.com/store/detail/WAFOD--walrus-audio-fundamental-drive-pedal
-3. Walrus Audio Fundamental Series Drive Pedal | Equipboard: https://equipboard.com/items/walrus-audio-fundamental-series-drive-pedal
-4. Walrus Audio Fundamental Series Drive: https://guitarpedalshoppe.com/Walrus-Audio-Fundamental-Series-Drive
-5. Walrus Audio Fundamental Series Drive - Reverb: https://reverb.com/item/94479451-walrus-audio-fundamental-series-drive
-6. Walrus Audio Fundamental Series Drive - toneforgehub.com: https://www.toneforgehub.com/product/walrus-audio-fundamental-series-drive79661/
-7. Walrus Audio Fundamental Series Drive Overdrive Pedal | Guitar pedal: https://www.guitarrockly.com/product/walrus-audio-fundamental-series-drive-overdrive-pedal/
+1. Walrus Audio - Fundamental Series Drive: https://www.walrusaudio.com/products/fundamental-series-drive
+2. Walrus Audio - Fundamental Series introduction: https://www.walrusaudio.com/blogs/news/introducing-the-fundamental-series
+3. Walrus Audio - Product Manuals: https://www.walrusaudio.com/pages/manuals
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.

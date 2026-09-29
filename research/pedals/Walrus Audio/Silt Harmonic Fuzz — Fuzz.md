@@ -3,40 +3,43 @@
 ## PRP identity
 - **Archive parent:** Silt Harmonic Fuzz — Fuzz
 - **Builder:** Walrus Audio
-- **Catalog type:** Distortion / Overdrive
-- **Identity:** Walrus Audio's Silt Harmonic Fuzz — Fuzz.
+- **Catalog type:** Fuzz
+- **Identity:** Walrus Audio's Silt Harmonic Fuzz.
 
 ## What this pedal is
-Walrus Audio's Silt Harmonic Fuzz — Fuzz is cataloged as a distortion / overdrive pedal.
+The Silt Harmonic Fuzz combines a fuzz circuit with an internal **12AU7** tube drive section and a harmonic mode that frequency-doubles the signal before it reaches the tube.
 
 ## Colorways
-- $299.99 Color Red Black Add To Cart Details Media Specs Unearth the Walrus Audio Silt Harmonic Fuzz, a collaborative creation with tube expert Jim Hagerman.
+- Walrus documents red and black enclosure options for the standard presentation.
+- Special editions such as the 2024 Floral Series are treated as finish editions.
 
 ## Versions and factory options
-- The verified evidence references: MKII.
-- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+- **12AU7** tube drive section.
+- **Harmonic Mode** frequency doubler.
+- **Contour** control with high-pass, flat, and low-pass pre-tube EQ curves.
+- 9V to 12V operation.
+- True bypass.
+- 9VDC, 300mA minimum.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- The checked sources do not establish a complete numbered revision chronology.
+- Special finish editions are not treated as circuit revisions.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
-- **Exact transistor/device:** Unknown.
+- The primary drive device is the 12AU7 tube; a complete semiconductor complement is not published.
+- **Exact transistor/device:** Not established.
 
 ## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- Exact clipping/rectifier diode information was not established in the checked sources.
 - **Exact part:** Unknown.
 
 ## Sound
-Silt Harmonic Fuzz FREE SHIPPING We ship most orders within 1-3 business days.
-Canvas Nano Finch Power Supply Canvas Midi Cables Lab All Lab Series DFX-1 Percussion Processing Unit Xero Polylooper More Apparel Accessories B-Stock Limited Editions Silt Harmonic Fuzz $299.99 Unearth the Walrus Audio Silt Harmonic Fuzz, a collaborative creation with tube expert Jim Hagerman.
-Wielding an internal pre-amp tube, the Silt is a two-in-one fuzz that creates massively rich fuzz tones perfect for chords and rhythmic parts or with the press of a switch, adds uniquely harmonic overtones to the signal before hitting the tube.
+Silt produces thick, harmonically complex fuzz. Harmonic Mode adds octave-like upper harmonics before the tube stage, while Contour shifts the pre-tube frequency balance among high-pass, flat, and low-pass responses.
 
 ## Sources checked
-1. Silt Harmonic Fuzz: https://www.walrusaudio.com/products/silt-harmonic-fuzz?variant=44494480802027
-2. Walrus Audio Silt Harmonic Fuzz Pedal | Equipboard: https://equipboard.com/items/walrus-audio-silt-harmonic-fuzz
-3. Walrus Audio Silt Harmonic Fuzz - Reverb: https://reverb.com/p/walrus-audio-silt-harmonic-fuzz
-4. Walrus Audio Silt Harmonic Fuzz: https://www.palenmusic.com/products/walrus-silt-harmonic-tube-fuzz-9001084rd
+1. Walrus Audio - Silt Harmonic Fuzz: https://www.walrusaudio.com/collections/overdrive-fuzz-distortion/products/silt-harmonic-fuzz
+2. Walrus Audio - Silt Harmonic Fuzz 2024 Floral Series: https://www.walrusaudio.com/products/silt-harmonic-fuzz-2024-black-friday-edition
+3. Walrus Audio - Product Manuals: https://www.walrusaudio.com/pages/manuals
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.

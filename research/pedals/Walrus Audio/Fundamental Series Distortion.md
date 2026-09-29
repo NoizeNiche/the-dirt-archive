@@ -7,38 +7,41 @@
 - **Identity:** Walrus Audio's Fundamental Series Distortion.
 
 ## What this pedal is
-Walrus Audio's Fundamental Series Distortion is cataloged as a distortion pedal.
+The Fundamental Distortion is a three-mode distortion pedal from Walrus Audio's Fundamental Series. Walrus designed the series around simplified controls while retaining the company's core pedalboard-oriented construction. The model is discontinued.
 
 ## Colorways
-- Walrus Audio Fundamental Series Distortion Effects Pedal - Black
-- Add to cart Electro-Harmonix Electro-Harmonix Nano Metal Muff, Black, NANO METAL MUFF - Electric Guitar Distortion with Noise Gate Pedal 4.5 (96) 100+ viewed in past month $84.39 $ 84 .
+- Black finish with yellow and off-white ink.
 
 ## Versions and factory options
-- The verified evidence references: MKII.
-- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+- **Gain** slider.
+- **Tone** slider.
+- **Volume** slider.
+- Three-position mode switch:
+  - **Dark:** asymmetrical silicon clipping with added high-frequency cut.
+  - **Si:** silicon hard clipping with a more compressed response.
+  - **LED:** LED hard clipping with a more dynamic response.
+- True bypass.
+- Analog dry-through.
+- 9VDC, 100mA minimum.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- No separate numbered production revision was established in the checked sources.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
+- Exact production semiconductor details were not established in the checked sources.
 - **Exact transistor/device:** Unknown.
 
 ## Diode
-- Documented terms in the verified sources: LED.
-- The archive records only the component information explicitly present in these sources.
+- Walrus explicitly documents silicon and LED clipping modes.
+- **Exact production diode part numbers:** Unknown.
 
 ## Sound
-Fundamental Series Distortion FREE SHIPPING We ship most orders within 1-3 business days.
-Fundamental Distortion The Fundamental Distortion is a three-mode distortion.
-Gain – The Gain slider sets the amount of gain applied to your guitar signal passing through the distortion circuit.
+The three modes move from dark, dynamic clipping through more compressed silicon distortion to louder, more open LED clipping. Walrus positions the pedal for sounds ranging from dark and doom-oriented distortion to sharper lead tones.
 
 ## Sources checked
-1. Fundamental Series Distortion: https://www.walrusaudio.com/products/fundamental-series-distortion
-2. Walrus Audio Fundamental Series Distortion Pedal | Equipboard: https://equipboard.com/items/walrus-audio-fundamental-series-distortion-pedal
-3. Walrus Audio Fundamental Series Distortion Effects Pedal - Black | Musician's Friend: https://www.musiciansfriend.com/amplifiers-effects/walrus-audio-fundamental-series-distortion-effects-pedal/l99413000001000
-4. open prime modal: https://www.amazon.com/clp/B0BWSDXYK7
-5. Walrus Audio Fundamental Series Distortion | AllThePedals: https://allthepedals.com/pedals/walrus-audio-audio-fundamental-series-distortion
+1. Walrus Audio - Fundamental Series Distortion: https://www.walrusaudio.com/products/fundamental-series-distortion
+2. Walrus Audio - Fundamental Series introduction: https://www.walrusaudio.com/blogs/news/introducing-the-fundamental-series
+3. Walrus Audio - Product Manuals: https://www.walrusaudio.com/pages/manuals
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.

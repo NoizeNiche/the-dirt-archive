@@ -7,47 +7,37 @@
 - **Identity:** Wampler Pedals's Brad Paisley: Paisley Drive.
 
 ## What this pedal is
-Wampler Pedals's Brad Paisley: Paisley Drive is cataloged as a Distortion / Overdrive pedal.
+The Paisley Drive is Brad Paisley's signature Wampler overdrive. Wampler describes it as a flexible drive with three EQ curves and a switchable presence control, designed to work with different guitars and amplifiers.
 
 ## Colorways
-- No specific factory colorway information was established in the verified evidence packet.
+- No complete factory finish chronology was established in the checked sources.
 
 ## Versions and factory options
-- No distinct factory revision was established in the verified evidence packet.
+- **3-band EQ / contour section** with three available EQ curves.
+- **Presence** switch.
+- Top-mounted input and output jacks.
+- 3PDT true bypass.
+- Battery connection and 9V power jack.
+- 9V to 18V operation.
+- Built in the USA.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- No complete numbered production revision chronology was established in the checked sources.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
+- Exact production semiconductor details were not established in the checked sources.
 - **Exact transistor/device:** Unknown.
 
 ## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- Exact clipping/rectifier diode information was not established in the checked sources.
 - **Exact part:** Unknown.
 
 ## Sound
-In stock Brad Paisley: Paisley Drive quantity Add to cart Watch video
-Wampler Pedals Brad Paisley: Paisley Drive Pedal Brad Paisley: Paisley Drive Pedal SKU: # 823899 | Model: # PAISLEY DRIVE | Product Reviews 0 Reviews Write a Review Additional Photos: Your Price: $ 319.99 CDN or from $34 CDN/mo Interest-free payments also available Found a better price?
+Wampler positions the Paisley Drive as a broad-spectrum overdrive that can cover more prominent mid-focused sounds as well as less-forward and scooped settings. The pedal is intended to improve the interaction between guitar, drive stage, and amplifier rather than lock the player into one fixed voicing.
 
 ## Sources checked
-1. Brad Paisley: Paisley Drive | Wampler Pedals: https://www.wamplerpedals.com/products/distortion-overdrive/brad-paisley-paisley-drive/
-2. Wampler Pedals Brad Paisley: Paisley Drive Pedal: https://www.long-mcquade.com/445651/Guitars/Pedals-Effects/Wampler-Pedals/Brad-Paisley-Paisley-Drive-Pedal.htm
+1. Wampler Pedals - Brad Paisley: Paisley Drive: https://www.wamplerpedals.com/products/distortion-overdrive/brad-paisley-paisley-drive/
+2. Wampler Pedals - Downloads: https://www.wamplerpedals.com/downloads/
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
-
-## Deep research verification
-
-This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
-
-### Verified description
-Wampler Pedals's Brad Paisley: Paisley Drive is cataloged as a distortion / overdrive pedal.
-
-### Verified sound evidence
-In stock Brad Paisley: Paisley Drive quantity Add to cart Watch video
-Wampler Pedals Brad Paisley: Paisley Drive Pedal Brad Paisley: Paisley Drive Pedal SKU: # 823899
-
-### Sources checked in this pass
-1. Brad Paisley: Paisley Drive | Wampler Pedals: https://www.wamplerpedals.com/products/distortion-overdrive/brad-paisley-paisley-drive/
-2. Wampler Pedals Brad Paisley: Paisley Drive Pedal: https://www.long-mcquade.com/445651/Guitars/Pedals-Effects/Wampler-Pedals/Brad-Paisley-Paisley-Drive-Pedal.htm
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.

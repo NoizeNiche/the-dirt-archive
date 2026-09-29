@@ -3,37 +3,40 @@
 ## PRP identity
 - **Archive parent:** Eons Five-State Fuzz — Fuzz
 - **Builder:** Walrus Audio
-- **Catalog type:** Distortion / Overdrive
-- **Identity:** Walrus Audio's Eons Five-State Fuzz — Fuzz.
+- **Catalog type:** Fuzz
+- **Identity:** Walrus Audio's Eons Five-State Fuzz.
 
 ## What this pedal is
-Walrus Audio's Eons Five-State Fuzz — Fuzz is cataloged as a distortion / overdrive pedal.
+Eons is a five-state fuzz with a variable Voltage control that changes the circuit's internal operating voltage. The design covers fuller open fuzz as well as gated and starved sounds.
 
 ## Colorways
-- $249.99 Color Beige Black Add To Cart Details Media Specs *Both variants of Eons are currently on backorder!
+- Standard production finish is documented as sandy tan with red, cream, and black artwork.
+- Finish editions are not treated as circuit revisions without evidence of an electrical change.
 
 ## Versions and factory options
-- The verified evidence references: MKII.
-- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+- Five-position clipping selector.
+- **Voltage** control ranges from approximately 3V to 18V.
+- **Bass** and **Treble** boost/cut controls.
+- True bypass.
+- 9VDC, 100mA minimum.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- No complete numbered production revision chronology was established in the checked sources.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
+- The checked sources document multiple clipping structures but do not publish a complete production transistor complement.
 - **Exact transistor/device:** Unknown.
 
 ## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
-- **Exact part:** Unknown.
+- Walrus documents silicon, germanium, and LED clipping structures among the available modes.
+- **Exact production diode part numbers:** Unknown.
 
 ## Sound
-Eons Five-State Fuzz FREE SHIPPING We ship most orders within 1-3 business days.
-Canvas Nano Finch Power Supply Canvas Midi Cables Lab All Lab Series DFX-1 Percussion Processing Unit Xero Polylooper More Apparel Accessories B-Stock Limited Editions Eons Five-State Fuzz $249.99 *Both variants of Eons are currently on backorder!
-New orders are expected to ship by mid-October.* Eons is a five-state fuzz capable of massively thick sounds ready to test the limits of any amp's grill cloth.
+Eons moves from smoother compressed fuzz toward sharper, more extreme clipping textures. Starving the circuit with Voltage can produce gated, sputtering behavior, while higher settings open the response.
 
 ## Sources checked
-1. Eons Five-State Fuzz: https://www.walrusaudio.com/collections/overdrive-fuzz-distortion/products/eons-five-state-fuzz
+1. Walrus Audio - Eons Five-State Fuzz: https://www.walrusaudio.com/collections/overdrive-fuzz-distortion/products/eons-five-state-fuzz
+2. Walrus Audio - Product Manuals: https://www.walrusaudio.com/pages/manuals
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.

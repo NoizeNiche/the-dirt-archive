@@ -4,38 +4,39 @@
 - **Archive parent:** 385 Overdrive
 - **Builder:** Walrus Audio
 - **Catalog type:** Overdrive
-- **Identity:** Walrus Audio's 385 Overdrive.
+- **Identity:** Walrus Audio's original 385 Overdrive.
 
 ## What this pedal is
-Walrus Audio's 385 Overdrive is cataloged as a Overdrive pedal.
+The original 385 Overdrive is inspired by the tube-powered audio section of the Bell & Howell Filmosound 385 projector. Walrus designed it to provide dynamic, tube-like overdrive in a pedal format.
 
 ## Colorways
-- .us Delivering to Des Moines 50307 Update location All Select the department you want to search in All Departments Alexa Skills Amazon Autos Amazon Devices Amazon Global Store Amazon Haul Amazon One Medical Amazon Pharmacy Amazon Resale Appliances Apps & Games Arts, Crafts & Sewing Audible Books & Originals Automotive Parts & Accessories Baby Beauty & Personal Care Books CDs & Vinyl Cell Phones & Accessories Clothing, Shoes & Jewelry Women's Clothing, Shoes & Jewelry Men's Clothing, Shoes & Jewelry Girl's Clothing, Shoes & Jewelry Boy's Clothing, Shoes & Jewelry Baby Clothing, Shoes & Jewelry Collectibles & Fine Art Computers Credit and Payment Cards Digital Music Electronics Garden & Outdoor Gift Cards Grocery & Gourmet Food Handmade Health, Household & Baby Care Home & Business Services Home & Kitchen Industrial & Scientific Just for Prime Kindle Store Luggage & Travel Gear Luxury Stores Magazine Subscriptions Movies & TV Musical Instruments Office Products Pet Supplies Premium Beauty Prime Video Smart Home Software Sports & Outdoors Subscribe & Save Subscription Boxes Tools & Home Improvement Toys & Games Under $10 Video Games Whole Foods Market Search Amazon EN Hello, sign in Account & Lists Returns & Orders 0 Cart All Early Prime Deals Groceries Coupons Prime Pharmacy Amazon Home Automotive Registry Music Whole Foods Audible Video Games New Releases Baby Fashion Works with Alexa Sports & Outdoors Smart Home Toys & Games Custom Products Gift Shop Subscribe & Save Amazon Haul Best Sellers Kindle Books Books TV & Video Luxury Gift Cards Handmade Your pick Walrus Audio Walrus Audio 385 Overdrive mkII, Black 4.6 (9) 50+ viewed in past month $249.99 $ 249 .
-- Add to cart Product details Brand Walrus Audio Style Compact Color Black Item Weight 0.43 kg Voltage 9 volts Amperage 100 milliamps <div class="_cDEzb_root_2YIPD" data-is-app-state-compressed="false" data-serialized-app-state="{&quot;intuitionState&quot;:{&quot;version&quot;:&quot;1&quot;,&quot;attributeList&quot;:[],&quot;attributeType&quot;:{},&quot;contextAsin&quot;:&quot;B0CHN2H537&quot;,&quot;contextAsinSource&quot;:&quot;0&quot;,&quot;missionInfo&quot;:&quot;&quot;,&quot;amazonElementPillList&quot;:[{&quot;value&quot;:&quot;allPrime&quot;,&quot;typeId&quot;:&quot;prime&quot;,&quot;selectable&quot;:true,&quot;selected&quot;:false,&quot;display&quot;:&quot;&quot;,&quot;rawValues&quot;:[&quot;allPrime&quot;]},{&quot;value&quot;:&quot;freeOneDay&quot;,&quot;typeId&quot;:&quot;prime&quot;,&quot;selectable&quot;:true,&quot;selected&quot;:false,&quot;display&quot;:&quot;&quot;,&quot;rawValues&quot;:[&quot;freeOneDay&quot;]},{&quot;value&quot;:&quot;freeSameDay&quot;,&quot;typeId&quot;:&quot;prime&quot;,&quot;selectable&quot;:true,&quot;selected&quot;:false,&quot;display&quot;:&quot;&quot;,&quot;rawValues&quot;:[&quot;freeSameDay&quot;]},{&quot;value&quot;:&quot;freeOvernight&quot;,&quot;typeId&quot;:&quot;prime&quot;,&quot;selectable&quot;:true,&quot;selected&quot;:false,&quot;display&quot;:&quot;&quot;,&quot;rawValues&quot;:[&quot;freeOvernight&quot;]},{&quot;value&quot;:&quot;fourStarsAndAbove&quot;,&quot;typeId&quot;:&quot;rating&quot;,&quot;selectable&quot;:true,&quot;selected&quot;:false,&quot;display&quot;:&quot;&quot;,&quot;rawValues&quot;:[&quot;fourStarsAndAbove&quot;]},{&quot;value&quot;:&quot;threeStarsAndAbove&quot;,&quot;typeId&quot;:&quot;rating&quot;,&quot;selectable&quot;:true,&quot;selected&quot;:false,&quot;display&quot;:&quot;&quot;,&quot;rawValues&quot;:[&quot;threeStarsAndAbove&quot;]},{&quot;value&quot;:&quot;twoStarsAndAbove&quot;,&quot;typeId&quot;:&quot;rating&quot;,&quot;selectable&quot;:true,&quot;selected&quot;:false,&quot;display&quot;:&quot;&quot;,&quot;rawValu
+- No complete historical finish chronology was established in the checked sources.
 
 ## Versions and factory options
-- The verified evidence references: MkII, mkII.
-- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+- Separate **Bass** and **Treble** controls.
+- Gain and Volume controls.
+- Internally operates at 18V from a 9V supply.
+- True bypass.
+- 9VDC power with a 100mA minimum supply.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- The original 385 predates the later 385 MKII.
+- Walrus states that the 385 was introduced in 2016; the MKII later added the A/B control structure and 385+ boost.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
+- Exact production semiconductor details were not established in the checked sources.
 - **Exact transistor/device:** Unknown.
 
 ## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- Exact clipping/rectifier diode information was not established in the checked sources.
 - **Exact part:** Unknown.
 
 ## Sound
-.us Delivering to Des Moines 50307 Update location All Select the department you want to search in All Departments Alexa Skills Amazon Autos Amazon Devices Amazon Global Store Amazon Haul Amazon One Medical Amazon Pharmacy Amazon Resale Appliances Apps & Games Arts, Crafts & Sewing Audible Books & Originals Automotive Parts & Accessories Baby Beauty & Personal Care Books CDs & Vinyl Cell Phones & Accessories Clothing, Shoes & Jewelry Women's Clothing, Shoes & Jewelry Men's Clothing, Shoes & Jewelry Girl's Clothing, Shoes & Jewelry Boy's Clothing, Shoes & Jewelry Baby Clothing, Shoes & Jewelry Collectibles & Fine Art Computers Credit and Payment Cards Digital Music Electronics Garden & Outdoor Gift Cards Grocery & Gourmet Food Handmade Health, Household & Baby Care Home & Business Services Home & Kitchen Industrial & Scientific Just for Prime Kindle Store Luggage & Travel Gear Luxury Stores Magazine Subscriptions Movies & TV Musical Instruments Office Products Pet Supplies Premium Beauty Prime Video Smart Home Software Sports & Outdoors Subscribe & Save Subscription Boxes Tools & Home Improvement Toys & Games Under $10 Video Games Whole Foods Market Search Amazon EN Hello, sign in Account & Lists Returns & Orders 0 Cart All Early Prime Deals Groceries Coupons Prime Pharmacy Amazon Home Automotive Registry Music Whole Foods Audible Video Games New Releases Baby Fashion Works with Alexa Sports & Outdoors Smart Home Toys & Games Custom Products Gift Shop Subscribe & Save Amazon Haul Best Sellers Kindle Books Books TV & Video Luxury Gift Cards Handmade Your pick Walrus Audio Walrus Audio 385 Overdrive mkII, Black 4.6 (9) 50+ viewed in past month $249.99 $ 249 .
-Add to cart Product details Brand Walrus Audio Style Compact Color Black Item Weight 0.43 kg Voltage 9 volts Amperage 100 milliamps <div class="_cDEzb_root_2YIPD" data-is-app-state-compressed="false" data-serialized-app-state="{&quot;intuitionState&quot;:{&quot;version&quot;:&quot;1&quot;,&quot;attributeList&quot;:[],&quot;attributeType&quot;:{},&quot;contextAsin&quot;:&quot;B0CHN2H537&quot;,&quot;contextAsinSource&quot;:&quot;0&quot;,&quot;missionInfo&quot;:&quot;&quot;,&quot;amazonElementPillList&quot;:[{&quot;value&quot;:&quot;allPrime&quot;,&quot;typeId&quot;:&quot;prime&quot;,&quot;selectable&quot;:true,&quot;selected&quot;:false,&quot;display&quot;:&quot;&quot;,&quot;rawValues&quot;:[&quot;allPrime&quot;]},{&quot;value&quot;:&quot;freeOneDay&quot;,&quot;typeId&quot;:&quot;prime&quot;,&quot;selectable&quot;:true,&quot;selected&quot;:false,&quot;display&quot;:&quot;&quot;,&quot;rawValues&quot;:[&quot;freeOneDay&quot;]},{&quot;value&quot;:&quot;freeSameDay&quot;,&quot;typeId&quot;:&quot;prime&quot;,&quot;selectable&quot;:true,&quot;selected&quot;:false,&quot;display&quot;:&quot;&quot;,&quot;rawValues&quot;:[&quot;freeSameDay&quot;]},{&quot;value&quot;:&quot;freeOvernight&quot;,&quot;typeId&quot;:&quot;prime&quot;,&quot;selectable&quot;:true,&quot;selected&quot;:false,&quot;display&quot;:&quot;&quot;,&quot;rawValues&quot;:[&quot;freeOvernight&quot;]},{&quot;value&quot;:&quot;fourStarsAndAbove&quot;,&quot;typeId&quot;:&quot;rating&quot;,&quot;selectable&quot;:true,&quot;selected&quot;:false,&quot;display&quot;:&quot;&quot;,&quot;rawValues&quot;:[&quot;fourStarsAndAbove&quot;]},{&quot;value&quot;:&quot;threeStarsAndAbove&quot;,&quot;typeId&quot;:&quot;rating&quot;,&quot;selectable&quot;:true,&quot;selected&quot;:false,&quot;display&quot;:&quot;&quot;,&quot;rawValues&quot;:[&quot;threeStarsAndAbove&quot;]},{&quot;value&quot;:&quot;twoStarsAndAbove&quot;,&quot;typeId&quot;:&quot;rating&quot;,&quot;selectable&quot;:true,&quot;selected&quot;:false,&quot;display&quot;:&quot;&quot;,&quot;rawValu
+The original 385 emphasizes touch-sensitive, tube-like drive. Lower gain settings provide responsive breakup, while increasing gain can move the circuit toward thicker distortion.
 
 ## Sources checked
-1. Walrus Audio 385 Overdrive - Reverb: https://reverb.com/p/walrus-audio-385-overdrive
-2. Walrus Audio 385 Overdrive MkII Effects Pedal - Sweetwater: https://www.sweetwater.com/store/detail/385ODmk2Bk--walrus-audio-385-overdrive-mkii-effects-pedal-black
-3. open prime modal: https://www.amazon.com/clp/B0CHN2H537
+1. Walrus Audio - 385 Overdrive MKII / original 385 history: https://www.walrusaudio.com/products/385-overdrive-mkii
+2. Walrus Audio - Product Manuals: https://www.walrusaudio.com/pages/manuals
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.
