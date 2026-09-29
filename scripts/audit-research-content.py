@@ -57,6 +57,7 @@ def audit():
     rows = []
     for path in sorted(RESEARCH.rglob("*.md")):
         lines = path.read_text(encoding="utf-8", errors="replace").splitlines()
+        rows.extend(audit_research_structure(lines, path))
         section = ""
         for lineno, line in enumerate(lines, 1):
             heading = re.match(r"^#{2,6}\s+(.+?)\s*$", line)
@@ -107,6 +108,107 @@ def audit():
         key = (row["Research Record"], row["Line"], row["Pattern"], row["Text"])
         deduped[key] = row
     return list(deduped.values())
+
+
+def clean_visible_text(value: str) -> str:
+    value = re.sub(r"\[[^\]]+\]\([^)]+\)", " ", value)
+    value = re.sub(r"https?://\S+", " ", value)
+    value = re.sub(r"[*_\`#>-]", " ", value)
+    return re.sub(r"\s+", " ", value).strip()
+
+
+def audit_research_structure(lines: list[str], path: Path) -> list[dict[str, object]]:
+    rows: list[dict[str, object]] = []
+    sections: dict[str, list[tuple[int, str]]] = {}
+    current = ""
+    for lineno, raw in enumerate(lines, 1):
+        heading = re.match(r"^#{2,6}\s+(.+?)\s*$", raw)
+        if heading:
+            current = heading.group(1).strip().lower()
+            sections.setdefault(current, [])
+            continue
+        if current:
+            sections.setdefault(current, []).append((lineno, raw))
+
+    def add(lineno: int, pattern: str, text: str) -> None:
+        rows.append({
+            "Research Record": "./" + path.relative_to(ROOT).as_posix(),
+            "Line": lineno,
+            "Pattern": pattern,
+            "Text": text[:1200],
+        })
+
+    what = sections.get("what this pedal is", [])
+    what_text = clean_visible_text(" ".join(text for _, text in what))
+    generic = (
+        len(what_text) < 90
+        or re.fullmatch(
+            r".{0,30}(is|are)\s+(?:cataloged|listed|classified)\s+as\s+\w+.*",
+            what_text,
+            re.I,
+        )
+    )
+    if generic:
+        lineno = what[0][0] if what else 1
+        add(lineno, "shallow_description", "What this pedal is is too short or only restates catalog classification.")
+
+    sound = sections.get("sound", [])
+    sound_text = clean_visible_text(" ".join(text for _, text in sound))
+    if len(sound_text) < 90 or re.search(
+        r"did not contain enough .*?(?:pedal-specific|product-specific).*?(?:description|evidence)|"
+        r"not enough .*? to make a more detailed sound summary",
+        sound_text,
+        re.I,
+    ):
+        lineno = sound[0][0] if sound else (what[0][0] if what else 1)
+        add(lineno, "weak_sound_section", "Sound section is empty, generic, or explicitly admits insufficient pedal-specific evidence.")
+
+    verify = sections.get("deep research verification", [])
+    if verify:
+        visible = [
+            clean_visible_text(text)
+            for _, text in verify
+            if clean_visible_text(text)
+        ]
+        prose = " ".join(visible)
+        sourceish = sum(
+            1 for text in visible
+            if len(text) < 110
+            and not re.search(
+                r"\b(?:is|uses|has|features|includes|described|documented|states|announced)\b",
+                text,
+                re.I,
+            )
+        )
+        if visible and (len(prose) < 100 or sourceish >= max(2, len(visible) - 1)):
+            add(
+                verify[0][0],
+                "weak_deep_verification",
+                "Deep research verification contains little claim-level prose and appears title/source-label driven.",
+            )
+
+    for lineno, raw in enumerate(lines, 1):
+        if is_source_line(raw):
+            label_match = re.match(
+                r"^\s*\d+\.\s+(https?://\S+)(?:\s+[—-]\s+(.+))?\s*$",
+                raw,
+            )
+            labeled_match = re.match(
+                r"^\s*\d+\.\s+(.+?)\s*[:;-]\s+(https?://\S+)\s*$",
+                raw,
+            )
+            label = (
+                label_match.group(2) if label_match and label_match.group(2)
+                else labeled_match.group(1) if labeled_match else ""
+            )
+            label_clean = clean_visible_text(label)
+            if len(label_clean) > 160 or re.search(
+                r"(?:facebook|youtube|instagram|tiktok|threads)\b.*(?:facebook|youtube|instagram|tiktok|threads)\b|"
+                r"(?:mobile gift card|gear card|menu|shop|search|login|account).*(?:facebook|youtube|instagram|tiktok|threads)",
+                label_clean,
+                re.I,
+            ):
+                add(lineno, "bloated_source_label", raw.strip())
 
 
 def main():
