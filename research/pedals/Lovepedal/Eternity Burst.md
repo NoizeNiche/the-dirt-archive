@@ -7,35 +7,36 @@
 - **Identity:** Lovepedal's Eternity Burst.
 
 ## What this pedal is
-Lovepedal's Eternity Burst is cataloged as an overdrive pedal.
+The current Burst Eternity is Lovepedal's hand-wired, new-old-stock-component version of the Eternity overdrive. Lovepedal explicitly states that it is not a reissue and uses NOS components.
 
 ## Colorways
-- No specific factory colorway information was established in the verified evidence packet.
+- Burst/custom artwork presentation is documented.
+- Finish changes are not treated as circuit revisions.
 
 ## Versions and factory options
-- No distinct factory revision was established in the verified evidence packet.
+- **Level**
+- **Drive**
+- **Glass**
+- True bypass.
+- 9V battery or center-negative external supply.
+- Approximately 10mA current draw.
+- Hand-wired using NOS components.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- Burst Eternity is treated as a specific hand-wired/NOS build rather than as a generic replacement for every historic Eternity revision.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
-- **Exact transistor/device:** Unknown.
+- Exact production semiconductor details were not established.
 
 ## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
-- **Exact part:** Unknown.
+- Exact clipping-device information was not established.
 
 ## Sound
-The Eternity provides full, touch-sensitive overdrive that can be adjusted using the Level, Drive, and single-band EQ (called the "Glass" control) knobs.
-You’ll find unity gain between the effected and bypassed signal around 8:00-9:00.
-DRIVE - Controls the distortion amount of the effect.
+Eternity Burst provides touch-sensitive overdrive from bluesy rhythm through thick sustaining lead tones. The Glass control acts as a presence/treble shaping control, and the Level control can provide substantial clean boost.
 
 ## Sources checked
-1. Lovepedal Eternity Burst - Reverb: https://reverb.com/item/102138045-lovepedal-eternity-burst
-2. Lovepedal Eternity Burst - What To Know & Where To Buy: https://equipboard.com/items/lovepedal-eternity-burst
-3. Eternal Burst (Lovepedal Eternity Burst) - PedalPCB Community Forum: https://forum.pedalpcb.com/threads/eternal-burst-lovepedal-eternity-burst.19257/
-4. Lovepedal Eternity Burst: https://mckenzierivermusic.com/products/lovepedal-eternity-burst
+1. Lovepedal - Burst Eternity: https://www.lovepedal.com/burst-eternity/
+2. MusicRadar - Lovepedal Eternity E6: https://www.musicradar.com/reviews/guitars/lovepedal-eternity-e6-579534
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.
