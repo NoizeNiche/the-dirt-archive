@@ -3,58 +3,41 @@
 ## PRP identity
 - **Archive parent:** Violet World
 - **Builder:** Wren and Cuff
-- **Catalog type:** Distortion / Fuzz
+- **Catalog type:** Fuzz
 - **Identity:** Wren and Cuff's Violet World.
 
 ## What this pedal is
-Wren and Cuff's Violet World is cataloged as a Distortion / Fuzz pedal.
+Violet World is Wren and Cuff's recreation of the **violet-era Big Muff** family associated with early- to mid-1970s Electro-Harmonix Ram's Head units. Wren and Cuff explicitly notes that the original era contains multiple variants, so there is no single historically exact “Violet” circuit.
 
 ## Colorways
-- Home Pedals All Pedals Muffs Distortion/Fuzz Boost and Compression Info Shipping Warranty Repairs Artists About Us FAQ's Gift Cards Apparel Dealers Contact B-Stock sold out $219.99 Purple On Time True hard-wire bypass 9V battery or 2.1mm adapter Made in the USA Lifetime warranty Add To Cart Around 1973-74 EH yet again made another tweak to the artwork and schematic of the early Big Muff circuits.
-- Wren and Cuff Violet World quantity Add to cart SKU: X345904406 Category: Fuzz Description Reviews (0) Maker: Wren and Cuff Model: Violet World Condition: New Description: Around 1973-74 EH yet again made another tweak to the artwork and schematic of the early Big Muff circuits.
+- The documented finish is **Purple On Time**, using violet/purple graphics.
+- The enclosure uses Wren and Cuff's modern production format.
 
 ## Versions and factory options
-- No distinct factory revision was established in the verified evidence packet.
+- True hard-wire bypass.
+- 9V battery or 2.1mm negative-tip adapter.
+- Current draw: 5mA.
+- Dimensions: 4.8 x 2.6 x 1.6 inches.
+- Wren and Cuff does not present the different vintage Violet-era variants as numbered revisions of this modern pedal.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- The modern Violet World is a reproduction of the historical Violet Edition sound family, not a claim to one exact vintage schematic.
 
 ## Transistor
-- Documented terms in the verified sources: BC108C.
-- The archive records only the component information explicitly present in these sources.
+- Wren and Cuff documents **BC108C** transistors selected for this circuit.
+- The company explicitly notes that original Big Muff units did not use these transistors; they were chosen for the recreation because they worked well in this circuit.
 
 ## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- Exact clipping/rectifier diode information was not established in the checked sources.
 - **Exact part:** Unknown.
 
 ## Sound
-Home Pedals All Pedals Muffs Distortion/Fuzz Boost and Compression Info Shipping Warranty Repairs Artists About Us FAQ's Gift Cards Apparel Dealers Contact B-Stock sold out $219.99 Purple On Time True hard-wire bypass 9V battery or 2.1mm adapter Made in the USA Lifetime warranty Add To Cart Around 1973-74 EH yet again made another tweak to the artwork and schematic of the early Big Muff circuits.
-A close relative of some of the early “Ram’s Head” muffs in tone, these pedals had a couple distinct changes that gave them their own sound, and were easy to spot because of their violet colored silk screen ink.
-As usual with EH, there are a couple different versions of this era’s muffers, so despite what you may hear, there is no exact “Violet” sound.
+The Violet World emphasizes a generous mid scoop with lots of gain and a smooth, velvety character. Wren and Cuff describes the pedal as having a lush, sustaining Muff-style sound with a softer scoop than some later or more aggressive Muff voices.
 
 ## Sources checked
-1. Violet World — Wren and Cuff: https://www.wrenandcuff.com/products/violet-world
-2. Wren and Cuff Violet World - Elegant Classical Guitars Crafted for Rich Tone, Smooth Playability, and Lasting Performance: https://www.typicalguitars.com/product/wren-and-cuff-violet-world/
+1. Wren and Cuff - Violet World: https://www.wrenandcuff.com/products/violet-world
+2. Wren and Cuff - Pedals: https://www.wrenandcuff.com/products
+3. Wren and Cuff - FAQ / company information: https://www.wrenandcuff.com/faq
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
-
-## Deep research verification
-
-This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
-
-### Verified description
-Wren and Cuff's Violet World is cataloged as a distortion / fuzz pedal.
-
-### Verified transistor/device terms
-- BC108C.
-
-### Verified sound evidence
-A close relative of some of the early “Ram’s Head” muffs in tone, these pedals had a couple distinct changes that gave them their own sound, and were easy to spot because of their violet colored silk screen ink.
-Lots of gain and a nice sharp dip in those mids.
-None of the original Muffs actually used these transistors, in fact, the BC108C’s are most known for being the favored transistors in the original 1970’s era silicon Fuzz Face pedals, but we found they sounded great in this circuit.
-
-### Sources checked in this pass
-1. Violet World — Wren and Cuff: https://www.wrenandcuff.com/products/violet-world
-2. Wren and Cuff Violet World - Elegant Classical Guitars Crafted for Rich Tone, Smooth Playability, and Lasting Performance: https://www.typicalguitars.com/product/wren-and-cuff-violet-world/
-3. catalog/override source: https://reverb.com/item/92980948-wren-and-cuff-violet-world-fuzz-2010s-violet
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.

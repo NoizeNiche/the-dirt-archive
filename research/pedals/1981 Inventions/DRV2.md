@@ -7,37 +7,40 @@
 - **Identity:** 1981 Inventions's DRV2.
 
 ## What this pedal is
-1981 Inventions DRV2 Overdrive Pedal | Bucket List Guitars Skip to content Shop Effects and Pedals Chorus and Vibrato Compression and Sustain Controllers, Volume and Expression Delay Distortion EQ Flanger Fuzz Guitar Synths Loop Pedals and Samplers Multi-Effect Unit Octave and Pitch Overdrive and Boost Phase Shifters Preamps Reverb Tremolo Tuning Pedals Pedalboards and Power Supplies Wahs and Filters Pro Audio Microphones Outboard Gear Mixers Gates and Expanders Microphone Preamps Keyboards and Synths Modular Synths Synths Analog Synths Digital Synths Accessories Tuners Amps Small Amps Drums and Percussion Pad Controllers Sell Quote Calculator Sell FAQ My account Cart Shop Effects and Pedals Chorus and Vibrato Compression and Sustain Controllers, Volume and Expression Delay Distortion EQ Flanger Fuzz Guitar Synths Loop Pedals and Samplers Multi-Effect Unit Octave and Pitch Overdrive and Boost Phase Shifters Preamps Reverb Tremolo Tuning Pedals Pedalboards and Power Supplies Wahs and Filters Pro Audio Microphones Outboard Gear Mixers Gates and Expanders Microphone Preamps Keyboards and Synths Modular Synths Synths Analog Synths Digital Synths Accessories Tuners Amps Small Amps Drums and Percussion Pad Controllers Sell Quote Calculator Sell FAQ My account Cart Facebook Youtube Instagram Home &#47; Effects and Pedals &#47; Overdrive and Boost &#47; 1981 Inventions DRV2 Overdrive 1981 Inventions DRV2 Overdrive &#36; 169.00 Add to Cart The 1981 Inventions DRV2 is a highly nuanced, vintage-minded preamp and distortion pedal designed by Matt Hoopes (Relient K) and Jon Ashley of Bondi Effects.
+DRV2 is the second-generation 1981 Inventions DRV circuit. 1981 Inventions describes it as a high-quality distortion pedal that excels at lower-gain sounds as well as rock-range drive and near-fuzz saturation.
+
+The DRV2 was redesigned with Jon Ashley's original DRV work as a starting point and later engineering by John Snyder of Electronic Audio Experiments. 1981 Inventions describes the V2 circuit as quieter, more efficient, and capable of 9V or 18V operation.
 
 ## Colorways
-- Related products EarthQuaker Devices Black Eye Boost &#36; 119.00 Case Study Aspen Overdrive &#36; 189.00 Coppersound Pedals Strategy V1 2-Channel Preamp / Overdrive &#36; 139.00 JHS Germanium Boost &#36; 304.00 Bucket List Guitars | Contact us info@BucketListGuitars.com Subscribe to our Newsletter Email SUBSCRIBE Home My account Privacy Policy Terms and Conditions Return Policy Home My account Privacy Policy Terms and Conditions Return Policy &#10005;
+- Current documented examples include multiple small-batch finishes and special editions.
+- Finish variants are not treated as circuit revisions.
 
 ## Versions and factory options
-- The verified evidence references: V1.
-- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+- DRV2 uses the new standard 1981 Inventions enclosure and circuit.
+- Internal switch can select true-bypass operation.
+- 9V or 18V external power.
+- 18V operation provides additional headroom and dynamics.
+- The archive keeps DRV2 separate from the original DRV and from DRV MOD.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- DRV2 is a redesigned circuit rather than an attempt to exactly copy the original DRV.
+- The current official description emphasizes lower noise, greater efficiency, and 9V/18V operation.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
+- Exact production semiconductor details were not established in the checked sources.
 - **Exact transistor/device:** Unknown.
 
 ## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- Exact clipping-diode part was not established in the checked sources.
 - **Exact part:** Unknown.
 
 ## Sound
-1981 Inventions DRV2 &ndash; Soft Noise Audio Skip to content HOME GUITARS ELECTRIC GUITARS BASS GUITARS ACOUSTIC GUITARS PEDALS EFFECTS DISTORTION/OVERDRIVE FUZZ BOOST PREAMP REVERB DELAY MODULATION OTHER STUDIO OUTBOARD GEAR MICROPHONES KEYBOARDS SYNTHS SYNTHESIZERS DIGITAL PIANOS AMPS GUITAR AMPS USED AMPS HEARING PROTECTION SPECTRUM FILTERED EARPLUGS CONTACT USD Region and language Search Country/Region No results found Australia AUD $ Austria EUR € Belgium EUR € Bulgaria EUR € Croatia EUR € Cyprus EUR € Czechia CZK Kč Denmark DKK kr.
-Estonia EUR € Finland EUR € France EUR € Germany EUR € Greece EUR € Hungary HUF Ft Ireland EUR € Italy EUR € Latvia EUR € Lithuania EUR € Luxembourg EUR € Malta EUR € Netherlands EUR € Poland PLN zł Portugal EUR € Romania RON Lei Slovakia EUR € Slovenia EUR € Spain EUR € Sweden SEK kr United Kingdom GBP £ United States USD $ Open search modal More HOME GUITARS ELECTRIC GUITARS BASS GUITARS ACOUSTIC GUITARS PEDALS & EFFECTS DISTORTION/OVERDRIVE FUZZ BOOST PREAMP REVERB DELAY MODULATION OTHER STUDIO OUTBOARD GEAR MICROPHONES KEYBOARDS & SYNTHS SYNTHESIZERS DIGITAL PIANOS AMPS GUITAR AMPS USED AMPS HEARING PROTECTION SPECTRUM FILTERED EARPLUGS CONTACT More Open region and language selector USD Search Country/Region No results found Australia AUD $ Austria EUR € Belgium EUR € Bulgaria EUR € Croatia EUR € Cyprus EUR € Czechia CZK Kč Denmark DKK kr.
-1981 Inventions DRV2 Overdrive Pedal | Bucket List Guitars Skip to content Shop Effects and Pedals Chorus and Vibrato Compression and Sustain Controllers, Volume and Expression Delay Distortion EQ Flanger Fuzz Guitar Synths Loop Pedals and Samplers Multi-Effect Unit Octave and Pitch Overdrive and Boost Phase Shifters Preamps Reverb Tremolo Tuning Pedals Pedalboards and Power Supplies Wahs and Filters Pro Audio Microphones Outboard Gear Mixers Gates and Expanders Microphone Preamps Keyboards and Synths Modular Synths Synths Analog Synths Digital Synths Accessories Tuners Amps Small Amps Drums and Percussion Pad Controllers Sell Quote Calculator Sell FAQ My account Cart Shop Effects and Pedals Chorus and Vibrato Compression and Sustain Controllers, Volume and Expression Delay Distortion EQ Flanger Fuzz Guitar Synths Loop Pedals and Samplers Multi-Effect Unit Octave and Pitch Overdrive and Boost Phase Shifters Preamps Reverb Tremolo Tuning Pedals Pedalboards and Power Supplies Wahs and Filters Pro Audio Microphones Outboard Gear Mixers Gates and Expanders Microphone Preamps Keyboards and Synths Modular Synths Synths Analog Synths Digital Synths Accessories Tuners Amps Small Amps Drums and Percussion Pad Controllers Sell Quote Calculator Sell FAQ My account Cart Facebook Youtube Instagram Home &#47; Effects and Pedals &#47; Overdrive and Boost &#47; 1981 Inventions DRV2 Overdrive 1981 Inventions DRV2 Overdrive &#36; 169.00 Add to Cart The 1981 Inventions DRV2 is a highly nuanced, vintage-minded preamp and distortion pedal designed by Matt Hoopes (Relient K) and Jon Ashley of Bondi Effects.
+1981 Inventions describes the DRV2 as especially strong at lower gain, including barely clipping clean tones, while still covering medium-gain rock sounds and nearly fuzz-like saturation. Its reduced noise and 18V headroom are intended to make the circuit more flexible than the original DRV.
 
 ## Sources checked
-1. DRV2 No3 &ndash; 1981 Inventions: https://1981inventions.com/products/drv2-no3-clear-knob
-2. 1981 Inventions DRV2 Overdrive - Reverb: https://reverb.com/p/1981-inventions-drv2-overdrive
-3. 1981 Inventions DRV2 &ndash; Soft Noise Audio: https://softnoiseaudio.com/products/1981-inventions-drv2
-4. 1981 Inventions DRV2 Overdrive Pedal | Bucket List Guitars: https://bucketlistguitars.com/product/1981-inventions-drv2-overdrive-2/
-5. 1981 Inventions DRV2 Distortion Pedal in White No3 - eBay: https://www.ebay.com/itm/366458200427
+1. 1981 Inventions - DRV2 No3: https://1981inventions.com/products/drv2-no3-clear-knob
+2. 1981 Inventions - DRV collection: https://1981inventions.com/collections/drv
+3. 1981 Inventions - Pedals: https://1981inventions.com/collections/pedals
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.

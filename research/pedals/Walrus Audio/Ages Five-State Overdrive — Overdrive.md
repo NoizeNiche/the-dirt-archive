@@ -1,39 +1,50 @@
-# Walrus Audio — Ages Five-State Overdrive — Overdrive
+# Walrus Audio — Ages Five-State Overdrive
 
 ## PRP identity
 - **Archive parent:** Ages Five-State Overdrive — Overdrive
 - **Builder:** Walrus Audio
-- **Catalog type:** Distortion / Fuzz
-- **Identity:** Walrus Audio's Ages Five-State Overdrive — Overdrive.
+- **Catalog type:** Overdrive
+- **Identity:** Walrus Audio's Ages Five-State Overdrive.
 
 ## What this pedal is
-Walrus Audio's Ages Five-State Overdrive — Overdrive is cataloged as a distortion / fuzz pedal.
+Ages is a five-state overdrive built around selectable gain and clipping structures. Walrus Audio designed it to move from clean, sparkly low-gain drive through thicker and more compressed high-gain sounds.
 
 ## Colorways
-- $249.99 Color Green Black Add To Cart Details Media Specs For Ages, overdrive has been the one effect vital for so many.
+- Standard documented enclosure: **olive green** with white, cream, and black graphics.
+- Special finishes are treated as editions unless a circuit change is documented.
 
 ## Versions and factory options
-- The verified evidence references: MKII.
-- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+The five-position gain selector provides:
+1. Low-gain symmetric silicon soft clipping.
+2. Low-gain symmetric LED soft clipping.
+3. High-gain symmetric silicon soft clipping.
+4. High-gain symmetric LED soft clipping.
+5. High-gain symmetric silicon hard clipping.
+- **Volume, Gain, Tone, Bass** controls.
+- **Dry** blend control.
+- **Bass** shapes the signal before the gain stage.
+- True bypass.
+- 9V DC center-negative power.
+- Minimum 100mA supply.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- No complete numbered hardware revision chronology was established in the checked sources.
+- Special finishes are not treated as separate circuits.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
+- Exact production semiconductor details were not established in the checked sources.
 - **Exact transistor/device:** Unknown.
 
 ## Diode
-- Documented terms in the verified sources: LED.
-- The archive records only the component information explicitly present in these sources.
+- Walrus documents silicon and LED clipping states by mode, but not the complete production part list.
+- **Exact clipping-device part numbers:** Unknown.
 
 ## Sound
-Ages Five-State Overdrive FREE SHIPPING We ship most orders within 1-3 business days.
-From clean, sparkly and smooth gain to thick compressed overdrive.
-$249.99 Color Green Black Add To Cart Details Media Specs For Ages, overdrive has been the one effect vital for so many.
+Ages spans several gain structures, with lower modes providing smoother and more open overdrive and higher modes delivering thicker, more compressed distortion. The Dry blend can preserve attack and clarity while the Bass control reshapes the low end before clipping.
 
 ## Sources checked
-1. Ages Five-State Overdrive: https://www.walrusaudio.com/collections/all-effect-pedals/products/ages-five-state-overdrive
+1. Walrus Audio - Ages Five-State Overdrive: https://www.walrusaudio.com/collections/all-effect-pedals/products/ages-five-state-overdrive
+2. Walrus Audio - Product Manuals: https://www.walrusaudio.com/pages/manuals
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.

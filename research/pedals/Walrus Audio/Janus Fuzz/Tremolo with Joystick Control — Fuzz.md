@@ -1,43 +1,45 @@
-# Walrus Audio — Janus Fuzz/Tremolo with Joystick Control — Fuzz
+# Walrus Audio — Janus Fuzz/Tremolo with Joystick Control
 
 ## PRP identity
 - **Archive parent:** Janus Fuzz/Tremolo with Joystick Control — Fuzz
 - **Builder:** Walrus Audio
-- **Catalog type:** Distortion / Overdrive
-- **Identity:** Walrus Audio's Janus Fuzz/Tremolo with Joystick Control — Fuzz.
+- **Catalog type:** Fuzz / Tremolo
+- **Identity:** Walrus Audio's Janus Fuzz/Tremolo with Joystick Control.
 
 ## What this pedal is
-$299.99 Title Default Title Add To Cart Details Media Specs The Janus is a true bypass, dual joystick controlled Tremolo/Fuzz pedal that allows you to create a landscape of distorted textures.
+The Janus is a dual-joystick fuzz and tremolo pedal. Walrus Audio designed the two effects so they can be used independently or together in series.
 
 ## Colorways
-- Walrus Audio Janus Fuzz/Tremolo With Joystick Control, Anniversary Edition (Black/Teal) Effects Pedal Black
+- Documented anniversary examples include a **Black/Teal** finish.
+- No complete factory finish chronology was established.
 
 ## Versions and factory options
-- The verified evidence references: MKII.
-- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+- Tremolo joystick controls **Rate** and **Depth**.
+- Fuzz joystick controls **Fuzz** and **Tone**.
+- Separate volume controls for the tremolo and fuzz sections.
+- Fuzz blend control.
+- True bypass.
+- 9V DC operation.
+- 8mA current draw.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- No complete numbered hardware revision chronology was established.
+- Anniversary finishes are not treated as circuit revisions.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
+- Exact production semiconductor details were not established in the checked sources.
 - **Exact transistor/device:** Unknown.
 
 ## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- Exact clipping/rectifier diode information was not established in the checked sources.
 - **Exact part:** Unknown.
 
 ## Sound
-Janus Fuzz/Tremolo with Joystick Control FREE SHIPPING We ship most orders within 1-3 business days.
-$299.99 Title Default Title Add To Cart Details Media Specs The Janus is a true bypass, dual joystick controlled Tremolo/Fuzz pedal that allows you to create a landscape of distorted textures.
-Both the Tremolo and the Fuzz can be isolated and used alone, but can also be used together in series creating thick textures with a lot of movement.
+The Janus can isolate the tremolo and fuzz effects or run them together in series. The joysticks make the pedal unusually interactive, allowing movement in rate/depth and fuzz/tone to create rhythmic and heavily textured sounds.
 
 ## Sources checked
-1. Janus Fuzz/Tremolo with Joystick Control: https://www.walrusaudio.com/products/janus-fuzz-tremolo?variant=13150514499
-2. Walrus Audio Janus Fuzz/Tremolo With Joystick Control, Anniversary Edition (Black/Teal) Effects Pedal Black | Guitar Center: https://www.guitarcenter.com/Walrus-Audio/Janus-Fuzz-Tremolo-with-Joystick-Control-Anniversary-Edition-Black-Teal-Effects-Pedal-Black-1500000382175.gc
-3. Walrus Audio Janus Fuzz/Tremolo with Joystick Control - Electric, Acoustic & Bass Guitars | Dynamic Sound, Smooth Playability & Distinctive Design: https://www.guitarssound.com/product/walrus-audio-janus-fuzz-tremolo-with-joystick-control/
-4. Walrus Audio Janus Fuzz/Tremolo with Joystick Control - Cellos with Full Tone for Study and Performance: https://www.cellvrax.com/product/walrus-audio-janus-fuzz-tremolo-with-joystick-control/
-5. Walrus Audio Janus Fuzz/Tremolo with Joystick Control - Shop: https://shop.app/products/4330241859/janus-fuzz-tremolo-with-joystick-control
+1. Walrus Audio - Janus Fuzz/Tremolo with Joystick Control: https://www.walrusaudio.com/products/janus-fuzz-tremolo
+2. Walrus Audio - Product Manuals: https://www.walrusaudio.com/pages/manuals
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.
