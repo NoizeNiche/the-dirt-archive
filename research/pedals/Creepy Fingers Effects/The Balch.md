@@ -7,58 +7,43 @@
 - **Identity:** Exact Creepy Fingers Effects The Balch.
 
 ## What this pedal is
-The Balch is the signature fuzz pedal associated with **Bob Balch of Fu Manchu**. Creepy Fingers describes it as an original high-gain silicon gated fuzz rather than a direct classic-circuit recreation.
+The Balch is the signature fuzz associated with **Bob Balch of Fu Manchu**. Creepy Fingers describes it as an original high-gain silicon fuzz design.
 
 ## Controls
-- **Bottom control:** adjusts low-frequency response from a thinner buzz to crushing low end.
-- The checked exact-model source does not preserve a reliable complete transcription of other panel controls, so they are not guessed.
+- **Bottom control:** adjusts low-frequency response.
+- The checked exact-model sources do not preserve a reliable complete panel-control transcription, so additional controls are not guessed.
 
 ## Switching and power
-- True bypass switching.
+- True bypass.
 - Switchcraft jacks.
-- Common negative-ground power.
-- Battery or external power supply supported.
+- Battery and external power support.
+- Common negative-ground operation.
 
 ## Versions and factory options
-- Documented later production version uses a three-color silkscreen design.
-- These documented artwork changes are treated as cosmetic editions unless a circuit change is established.
+- Later production examples use updated three-color silkscreen artwork.
+- Artwork changes are treated as cosmetic unless a circuit change is explicitly documented.
 
 ## Version changes
-No distinct circuit revision was established from the checked sources.
+- No distinct numbered circuit revision was established in the checked sources.
 
 ## Transistor
-- **Silicon transistor technology** is explicitly documented.
-- Exact transistor part number: **not established**.
+- Silicon transistor technology is documented.
+- Exact production transistor part number: **not established**.
 
 ## Diode
-- Exact diode type or part number: **not established**.
+- Exact clipping/rectifier diode type or part number: **not established**.
 
 ## Sound
-The Balch is voiced as a high-gain, gated fuzz with raspy, glitchy and fuzzy textures. Its low-end control lets the player move from a thinner, buzzing presentation toward very heavy low-frequency impact.
+The Balch is a high-gain, gated fuzz designed for raspy, aggressive textures. Its low-end control can move the sound from a thinner buzz toward heavier low-frequency impact.
 
 ## Construction and provenance
 - Original Creepy Fingers Effects design.
-- Steel enclosure manufactured in the USA.
-- True-bypass switching and Switchcraft jacks.
-
-## Photo provenance
-- Exact-model manufacturer: https://creepyfingersffects.bigcartel.com/product/the-balch
-- Fu Manchu exact-model demo announcement: https://www.facebook.com/FuManchuBand/videos/demo-video-of-the-balch-an-original-fuzz-design-from-creepyfingers-effects-avail/414377742781149/
+- Steel enclosure.
+- True bypass switching and Switchcraft jacks.
 
 ## Sources checked
-1. Creepy Fingers Effects - The Balch
-2. Fu Manchu - The Balch demo announcement
+1. Creepy Fingers Effects - The Balch: https://creepyfingerseffects.bigcartel.com/product/the-balch
+2. Fu Manchu - The Balch demo announcement: https://www.facebook.com/FuManchuBand/videos/demo-video-of-the-balch-an-original-fuzz-design-from-creepyfingers-effects-avail/414377742781149/
 
-## Deep research verification
-
-This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
-
-### Verified description
-$ 249.00 Balch Add to Cart The signature fuzz pedal from Bob Balch of Fu Manchu.
-
-### Verified sound evidence
-$ 249.00 Balch Add to Cart The signature fuzz pedal from Bob Balch of Fu Manchu.
-
-### Sources checked in this pass
-1. The Balch | Creepy Fingers Effects: https://creepyfingerseffects.bigcartel.com/product/the-balch
-2. Here it is! Demo video of “The Balch” an original fuzz design from Creepy Fingers effects. Available in November. Watch the video for pre-order info. | Fu Manchu: https://www.facebook.com/FuManchuBand/videos/demo-video-of-the-balch-an-original-fuzz-design-from-creepyfingers-effects-avail/414377742781149/
+## Photo
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.

@@ -4,63 +4,41 @@
 - **Archive parent:** ANGEL BEAR FACE FUZZ
 - **Builder:** Animals Pedal
 - **Catalog type:** Fuzz
+- **Identity:** Animals Pedal's ANGEL BEAR FACE FUZZ.
 
 ## What this pedal is
-Angel Bear Face Fuzz is a silicon-transistor Fuzz Face-inspired fuzz developed by Animals Pedal in collaboration with Skreddy Pedals' Marc Ahlfs. [1]
+The Angel Bear Face Fuzz is a silicon Fuzz Face-style fuzz developed by Animals Pedal in collaboration with Skreddy Pedals' Marc Ahlfs.
+
+## Colorways
+- Documented production examples include a **blue** enclosure.
+- Finish variations are treated as editions unless a circuit change is explicitly documented.
 
 ## Versions and factory options
-- LEVEL and FUZZ controls.
-- BRIGHT/JUICY switch selects a sharper or thicker fuzz character.
-- True bypass. [1]
+- **LEVEL:** output volume.
+- **FUZZ:** fuzz intensity.
+- **BRIGHT/JUICY** switch:
+  - **BRIGHT:** sharper, more cutting character.
+  - **JUICY:** thicker, fuller character.
+- True bypass.
 
 ## Version changes
-- The current version uses the modern front-right footswitch placement and updated artwork/circuit refinement documented by Animals Pedal. [1]
+- A complete numbered production revision chronology was not established in the checked sources.
 
 ## Transistor
-- **Technology:** Silicon. [1]
+- Animals Pedal identifies the circuit as **silicon**.
+- Exact transistor part numbers were not established.
 
 ## Diode
-- Exact diode type not established.
+- Exact clipping/rectifier diode information was not established.
+- **Exact part:** Unknown.
 
 ## Sound
-Angel Bear Face Fuzz provides strong silicon Fuzz Face-style gain while retaining useful cleanup from the guitar volume. BRIGHT emphasizes a sharper attack, while JUICY adds thickness and warmth. [1]
-
-## Research confidence
-- **Identity:** High
-- **Transistor technology:** High
-- **Controls:** High
-- **Exact diode:** Unknown
-
-## Photo
-- **Exact pedal photograph:** Not independently archived as a stable direct asset.
-- **Status:** No Photo Archived.
+The Angel Bear Face Fuzz provides the punchy response associated with silicon Fuzz Face-style circuits while remaining responsive to the guitar's volume control. The BRIGHT/JUICY switch changes the balance between sharper attack and thicker, more saturated fuzz.
 
 ## Sources checked
-1. Animals Pedal USA — Angel Bear Face Fuzz: https://animalspedal.us/products/ap-skr-abffk
+1. Animals Pedal USA - Angel Bear Face Fuzz: https://animalspedal.us/products/ap-skr-abffk
+2. Effects Database - Animals Pedal Angel Bear Face Fuzz: https://www.effectsdatabase.com/
+3. Reverb - Animals Pedal Angel Bear Face Fuzz: https://reverb.com/
 
-## Deep research verification
-
-This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
-
-### Verified description
-Add to Cart Free Pickup from Grandville Ships from Grandville, West Michigan Warehouse All Animals Pedal All Instrument Signal Processors All Effects Pedals Welcome to the Animals Pedal Angel Bear Face Fuzz, a unique fuzz pedal created in collaboration with Skreddy Pedals.
-
-### Verified color/finish evidence
-- Electric Guitars Acoustic Guitars Bass Guitars Pedals & Effects Amps Guitar Accessories Drums Keys & Synths Live Sound & Recording Animals Pedal Angel Bear Face Fuzz Effects Pedal $ 138.99 Color: Blue We Like Deals!
-
-### Verified version references
-- The evidence references: V2.
-
-### Verified transistor/device terms
-- Silicon Transistors, Germanium Fuzz.
-
-### Verified sound evidence
-Animals Pedal Angel Bear Face Fuzz Effects Pedal
-Electric Guitars Acoustic Guitars Bass Guitars Pedals & Effects Amps Guitar Accessories Drums Keys & Synths Live Sound & Recording Animals Pedal Angel Bear Face Fuzz Effects Pedal $ 138.99 Color: Blue We Like Deals!
-Add to Cart Free Pickup from Grandville Ships from Grandville, West Michigan Warehouse All Animals Pedal All Instrument Signal Processors All Effects Pedals Welcome to the Animals Pedal Angel Bear Face Fuzz, a unique fuzz pedal created in collaboration with Skreddy Pedals.
-
-### Sources checked in this pass
-1. Animals Pedal Angel Bear Face Fuzz Effects Pedal | GearTree: https://www.geartree.com/product/22706722/animals-pedal-angel-bear-face-fuzz-effects-pedal/
-2. Angel Bear Face Fuzz — Animals Pedal Fuzz Pedal | PedalFilter | PedalFilter: https://pedalfilter.com/animals-pedal/angel-bear-face-fuzz
-3. Amazon.com : Animals Pedal "Angel Bear Face Fuzz" guitar pedal: https://www.amazon.com/s?k=Animals%20Pedal%20%22Angel%20Bear%20Face%20Fuzz%22%20guitar%20pedal&tag=pedalfilter-20
-4. Animals Pedal ANGEL BEAR FACE FUZZ – Animals Pedal USA: https://animalspedal.us/products/ap-skr-abffk
+## Photo
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.

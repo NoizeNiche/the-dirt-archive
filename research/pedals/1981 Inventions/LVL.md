@@ -7,39 +7,38 @@
 - **Identity:** 1981 Inventions's LVL.
 
 ## What this pedal is
-Image: 1981 Inventions The LVL is, according to Hoopes, a “professional low-gain device” which in practice is an entirely new pedal design that straddles the worlds of both preamps and low-gain overdrives .
+The LVL is a professional low-gain overdrive and preamp designed to sit between a clean boost and a conventional overdrive. 1981 Inventions describes it as an original design built around low-gain stacking and preserving the character of the rest of the signal chain.
 
 ## Colorways
-- 1981 Inventions LVL in black/white.
-- One of the things that made the DRV such a hit on Instagram was the frequent limited-edition colourway runs he released, and while he claims that his initial goal for the LVL was to make a pedal that was “not about hype or pretty colours”, he clearly can’t help himself; the LVL is already available in three different get-ups with the initial black/white drop, a limited edition ‘stormtrooper’ white/black option, a white with tri-colour logo edition ‘no3’ edition that apes what became the default and most beloved look of the DRV, and most recently black and white versions of 1981’s popular and extremely 80s ‘Hyperfade’ pink-blue scheme.
+- Documented finishes include the original **black/white**, **Stormtrooper**, **No. 3**, and later **Hyperfade** editions.
+- Finish editions do not automatically represent circuit revisions.
 
 ## Versions and factory options
-- No distinct factory revision was established in the verified evidence packet.
+- Low-gain preamp/overdrive architecture.
+- Designed to stack with other drives.
+- Three-control layout.
+- 1981 Inventions uses the LVL as a front-end gain-stage tool rather than a high-gain distortion pedal.
+- Exact power and component details are kept version-specific unless the source explicitly documents them.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- No complete numbered production revision chronology was established in the checked sources.
+- The documented finish changes are treated as cosmetic editions.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
+- Exact production semiconductor details were not established in the checked sources.
 - **Exact transistor/device:** Unknown.
 
 ## Diode
-- Documented terms in the verified sources: 1N4148, LED, LEDs.
-- The archive records only the component information explicitly present in these sources.
+- The checked evidence includes a 1N4148 reference, but it is not sufficient to establish a complete production clipping bill of materials for all LVL units.
+- **Exact clipping part:** 1N4148 reference documented; full production arrangement not established.
 
 ## Sound
-1981 Inventions LVL review – the ultimate gain-stacker?
-| Guitar.com News Reviews Guides Features Magazine Tuner Deals Related Brands 1981 Inventions Related Tags # Effects # Overdrive When you purchase through affiliate links on Guitar.com, you may contribute to our site through commissions.
-Learn more Featured Deal Sterling By Music Man Sabre – save a massive $500 on this dent and scratch model at Sweetwater Claim Reviews 1981 Inventions LVL review – the ultimate gain-stacker?
+The LVL is aimed at low-gain, responsive drive and stacking. Its intended range is from a relatively clean front-end push through crunchy overdrive rather than saturated high-gain distortion.
 
 ## Sources checked
-1. Forget and Not Slow Down LVL &ndash; 1981 Inventions: https://1981inventions.com/products/forget-lvl
-2. 1981 Inventions LVL review – the ultimate gain-stacker? | Guitar.com: https://guitar.com/reviews/effects-pedal/1981-inventions-lvl-review/
-3. 1981 Inventions LVL Full-Range Overdriver - Reverb: https://reverb.com/p/1981-inventions-lvl-full-range-overdriver
-4. 1981 Inventions LVL - ABSOLUTELY Worth The Wait! - Reddit: https://www.reddit.com/r/guitarpedals/comments/142q2z0/1981_inventions_lvl_absolutely_worth_the_wait/
-5. 1981 Inventions LVL Full-Range Overdriver - Equipboard: https://equipboard.com/items/1981-inventions-lvl-full-range-overdriver
-6. 1981 Inventions LVL: A Deep Technical Review of the Analog Filter Pedal That Redefined Modulation in Guitar Signal Chains | GearStrings: https://gearstrings.com/gear-reviews/1981-inventions-lvl
-7. 1981 Inventions LVL - The Music Den: https://themusicden.com/1981-inventions-lvl/
+1. 1981 Inventions - Forget and Not Slow Down LVL: https://1981inventions.com/products/forget-lvl
+2. Guitar.com - 1981 Inventions LVL review: https://guitar.com/reviews/effects-pedal/1981-inventions-lvl-review/
+3. 1981 Inventions LVL - Effects Database: https://www.effectsdatabase.com/model/1981inventions/lvl
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.
