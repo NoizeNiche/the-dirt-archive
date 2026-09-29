@@ -29,7 +29,6 @@ The defining MOD 2 changes are the larger input capacitor and hybrid BAT41/LED c
 
 ## Transistor
 - Exact production transistor/device part numbers: Unknown.
-
 ## Diode
 - **BAT41** and **LED** clipping devices are explicitly documented for this modification. [1]
 - Exact additional clipping-device specifications are not established beyond that description.

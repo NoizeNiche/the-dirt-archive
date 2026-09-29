@@ -27,7 +27,6 @@ The HYPERFADE record inherits the MOD 2 circuit changes: the larger input capaci
 
 ## Transistor
 - Exact production transistor/device part numbers: Unknown.
-
 ## Diode
 - **BAT41** and **LED** clipping are explicitly documented for MOD 2. [1]
 

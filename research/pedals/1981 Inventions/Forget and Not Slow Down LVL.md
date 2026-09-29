@@ -28,7 +28,6 @@ The checked builder page distinguishes this commemorative LVL edition from the r
 
 ## Transistor
 - Exact production transistor/device part numbers: Unknown.
-
 ## Diode
 - Exact clipping/rectifier diode part numbers: Unknown.
 
