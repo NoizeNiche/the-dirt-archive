@@ -7,38 +7,34 @@
 - **Identity:** ThorpyFX's Kudu.
 
 ## What this pedal is
-Overdrive Add to cart Description KUDU is the drive enhancer you never knew you needed.
+The KUDU is a drive-enhancer overdrive designed for use with other gain stages. ThorpyFX positions it as a stacking-oriented pedal rather than a standalone high-gain distortion.
 
 ## Colorways
-- No specific factory colorway information was established in the verified evidence packet.
+- No complete factory colorway chronology was established in the checked sources.
 
 ## Versions and factory options
-- No distinct factory revision was established in the verified evidence packet.
+- Drive-enhancement architecture.
+- Designed to shape and strengthen the response of other overdrive/distortion stages.
+- The checked sources do not establish a complete numbered production revision history.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- No complete dated hardware revision chronology was established.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
+- Exact production transistor/device information was not established in the checked sources.
 - **Exact transistor/device:** Unknown.
 
 ## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- Exact clipping/rectifier diode information was not established in the checked sources.
 - **Exact part:** Unknown.
 
 ## Sound
-Overdrive $237.00 $237.00 Unit price / per Shipping calculated at checkout.
-Overdrive Increase quantity for The KUDU
-Overdrive Add to cart Description KUDU is the drive enhancer you never knew you needed.
+The KUDU is intended to tighten, push, and reshape existing drive tones rather than simply add another fixed distortion voice. Its primary use case is stacking with other pedals or a driven amplifier.
 
 ## Sources checked
-1. The KUDU | Overdrive: https://thorpyfx.com/en-us/products/the-kudu
-2. ThorpyFX The KUDU: https://parkwaymusic.com/products/thorpyfx-the-kudu
-3. Amazon.com: https://www.amazon.com/ThorpyFX-KUDU-Overdrive-Guitar-Pedal/dp/B0H1SRLK6C
-4. ThorpyFX Kudu: https://aifineguitars.com/products/thorpyfx-kudu
-5. ThorpyFX Kudu Overdrive - Reverb: https://reverb.com/p/thorpyfx-kudu-overdrive
-6. ThorpyFX KUDU Overdrive Pedal - Andertons Music Co: https://www.andertons.co.uk/thorpyfx-kudu-overdrive-pedal/
-7. ThorpyFX KUDU Overdrive Pedal | The Ultimate Stacking Drive - Cottonwood Music Emporium: https://www.cottonwoodmusicemporium.com/products/thorpyfx-kudu
+1. ThorpyFX - KUDU: https://thorpyfx.com/en-us/products/the-kudu
+2. Parkway Music - ThorpyFX KUDU: https://parkwaymusic.com/products/thorpyfx-the-kudu
+3. Reverb - ThorpyFX KUDU: https://reverb.com/p/thorpyfx-kudu-overdrive
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.
