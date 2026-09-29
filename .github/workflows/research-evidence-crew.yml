@@ -13,7 +13,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: dirt-research-evidence
+  group: dirt-archive-publisher-v1
   cancel-in-progress: false
 
 jobs:
