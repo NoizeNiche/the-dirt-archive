@@ -4,42 +4,32 @@
 - **Archive parent:** Dead Man's Hand 2-Mode Overdrive
 - **Builder:** Outlaw Effects
 - **Catalog type:** Overdrive
-- **Identity:** Outlaw Effects's Dead Man's Hand 2-Mode Overdrive.
+- **Identity:** Outlaw Effects' Dead Man's Hand 2-Mode Overdrive.
 
 ## What this pedal is
-Outlaw Effects's Dead Man's Hand 2-Mode Overdrive is cataloged as an overdrive pedal.
-
-## Colorways
-- No specific factory colorway information was established in the verified evidence packet.
+The Dead Man's Hand is a two-mode overdrive with distinct voices intended to cover smooth amp-like breakup and a more aggressive drive setting.
 
 ## Versions and factory options
-- The verified evidence references: MKII.
-- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+- **MKII** is referenced in the checked archive evidence.
+- Two overdrive modes.
+- No complete numbered hardware chronology was established.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- MKII is treated as the documented later version without merging retailer-specific sales information into the product identity.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
-- **Exact transistor/device:** Unknown.
+- Exact production semiconductor complement was not established.
 
 ## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
-- **Exact part:** Unknown.
+- Exact clipping/rectifier diode information was not established.
 
 ## Sound
-In Stock Outlaw Effects Dead Man’s Hand 2-Mode Overdrive $ 99.95 Original price was: $99.95.
-Two distinct overdrive modes: EIGHTS: Smooth, amp-like breakup perfect for rhythm, warm blues styles, etc.
-Be the first to review “Outlaw Effects Dead Man’s Hand 2-Mode Overdrive” Cancel reply Your email address will not be published.
+The two modes provide contrasting overdrive responses, with the smoother mode suited to rhythm and blues-style breakup and the alternate voice providing a more forceful gain character.
 
 ## Sources checked
-1. Dead Man's Hand | Outlaw Effects: https://www.outlaweffects.com/copy-of-24k
-2. Outlaw Effects Dead Man's Hand 2-Mode Overdrive - Amp Acoustic Guitar – Premium Acoustic & Electric Guitars, Amplifiers & Music Accessories: https://www.ampacousticguitar.com/product/outlaw-effects-dead-man-s-hand-2-mode-overdrive/
-3. Outlaw Effects Dead Man's Hand 2-Mode Overdrive Pedal: https://www.playloudnow.com/product/outlaw-effects-dead-mans-hand-2-mode-overdrive-pedal/
-4. Outlaw Effects Dead Man's Hand 2-Mode Overdrive Pedal - The Music Den: https://themusicden.com/outlaw-effects-dead-mans-hand-2-mode-overdrive-pedal/
-5. New Outlaw Effects Dead Man's Hand 2-Mode Overdrive Guitar | Reverb: https://reverb.com/item/89606856-new-outlaw-effects-dead-man-s-hand-2-mode-overdrive-guitar-effects-pedal
-6. Outlaw Effects Dead Man's Hand 2-Mode Overdrive - Pedal of the Day: https://www.pedal-of-the-day.com/2015/07/12/outlaw-effects-dead-mans-hand-2-mode-overdrive/
-7. Outlaw Effects Dead Man's Hand 2-Mode Overdrive Pedal: https://www.canuckchords.com/product/outlaw-effects-dead-man-s-hand-2-mode-overdrive-pedal36663/
+1. Outlaw Effects - Dead Man's Hand: https://www.outlaweffects.com/copy-of-24k
+2. Pedal of the Day - Dead Man's Hand: https://www.pedal-of-the-day.com/2015/07/12/outlaw-effects-dead-mans-hand-2-mode-overdrive/
+3. Reverb - Dead Man's Hand: https://reverb.com/item/89606856-new-outlaw-effects-dead-man-s-hand-2-mode-overdrive-guitar-effects-pedal
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.
