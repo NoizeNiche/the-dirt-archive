@@ -3,44 +3,42 @@
 ## PRP identity
 - **Archive parent:** Classic
 - **Builder:** Radial Tonebone
-- **Catalog type:** Distortion / Overdrive
+- **Catalog type:** Distortion
 - **Identity:** Radial Tonebone's Classic.
 
 ## What this pedal is
-00 Join Prime to get FREE delivery Tue, Sep 29 Add to cart Wampler Wampler Triumph Overdrive Pedal 4.4 (68) 100+ viewed in past month $99.97 $ 99 .
+The Tonebone Classic is a discontinued tube distortion pedal built around a 12AX7. Radial describes it as a dynamic, amplifier-like distortion design with a three-position gain switch and interactive tone controls.
 
 ## Colorways
-- No specific factory colorway information was established in the verified evidence packet.
+- No complete factory colorway chronology was established in the checked sources.
 
 ## Versions and factory options
-- The verified evidence references: V9.
-- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+- 12AX7 tube-based gain stage.
+- Three-position gain switch.
+- Drive control.
+- Interactive tone controls.
+- Photocell-based true-bypass switching designed to reduce switching noise.
+- Product is discontinued.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- Radial separately documented the later **Classic-V9**, a solid-state successor to the original tube Classic.
+- The Classic-V9 is kept separate from this original Classic record.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
-- **Exact transistor/device:** Unknown.
+- The original Classic is tube-based; a transistor is not the defining gain device.
+- **Exact transistor/device:** Not applicable as the primary gain device.
 
 ## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- Exact clipping/rectifier diode information was not established in the checked sources.
 - **Exact part:** Unknown.
 
 ## Sound
-99 Join Prime to get FREE delivery Tue, Sep 29 Add to cart Amazon's Choice Friedman Friedman Amplification BE-OD Overdrive Guitar Effects Pedal 4.5 (186) 100+ viewed in past month -15% $169.99 $ 169 .
-Add to cart Behringer Behringer VINTAGE TUBE MONSTER VT999 Classic Vacuum Tube Overdrive Instrument Effects Pedal 4.5 (434) 100+ viewed in past month -23% $104.39 $ 104 .
-Add to cart New Release JHS Pedals JHS Pedals JHS AT+ Andy Timmons Signature Overdrive Guitar Effects Pedal 4.7 (192) 100+ viewed in past month $219.00 $ 219 .
+Radial designed the Classic to move from slight overdrive into higher-gain saturation while retaining an amp-like response. The design is intended to clean up as the guitar volume is reduced.
 
 ## Sources checked
-1. Radial Tonebone Classic - Reverb: https://reverb.com/p/radial-tonebone-classic
-2. https://www.amazon.com/clp/B000YNG8K4: https://www.amazon.com/clp/B000YNG8K4
-3. Radial ToneBone Classic V9 Distortion Pedal | Equipboard: https://equipboard.com/items/radial-tonebone-classic-v9-distortion-pedal
-4. Radial Tonebone Classic Tube Distortion Pedal | Sweetwater: https://www.sweetwater.com/store/detail/ToneboneCl--radial-tonebone-classic-tube-distortion-pedal
-5. Why The Radial Tonebone Classic Is “The Most Responsive Tube Distortion Pedal Ever” - Mixdown Magazine: https://mixdownmag.com.au/news/product/why-the-radial-tonebone-classic-is-the-most-responsive-tube-distortion-pedal-ever/
-6. Radial Tonebone Classic Trimode Owner`s Manual: https://manualmachine.com/radialengineering/toneboneclassictrimode/19063776-owners-manual/
-7. Radial Tonebone Classic Trimode Owners Manual | Manualzz: https://manualzz.com/doc/28803196/radial-tonebone-classic-trimode-distortion-pedal-owners-m...
-8. Radial Tonebone Classic - Effects Database: https://www.effectsdatabase.com/model/radial/tonebone/classic
+1. Radial Engineering - Classic Tube Distortion Pedal: https://www.radialeng.com/product/classic
+2. Radial Engineering - Classic-V9 Distortion Pedal: https://www.radialeng.com/product/classic-v9
+3. Effects Database - Radial Tonebone Classic: https://www.effectsdatabase.com/model/radial/tonebone/classic
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.

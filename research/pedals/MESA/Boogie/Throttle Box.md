@@ -3,42 +3,43 @@
 ## PRP identity
 - **Archive parent:** Throttle Box
 - **Builder:** MESA/Boogie
-- **Catalog type:** Distortion / Overdrive
+- **Catalog type:** Distortion
 - **Identity:** MESA/Boogie's Throttle Box.
 
 ## What this pedal is
-99 Join Prime to get FREE delivery Tue, Sep 29 Add to cart TC Electronic TC Electronic DARK MATTER DISTORTION Phenomenal Distortion Pedal with Extreme Dynamic Range, Two-Band EQ and Voicing Switch 4.4 (724) 50+ viewed in past month -7% $56.50 $ 56 .
+The THROTTLE BOX is a MESA/Boogie high-gain distortion pedal with a broad gain range, a dedicated Mid-Cut control, and a low/high gain switch.
 
 ## Colorways
-- 99 List: $33.99 $33.99 Join Prime to get FREE delivery Tue, Sep 29 Add to cart Electro-Harmonix Electro-Harmonix Nano Metal Muff, Black, NANO METAL MUFF - Electric Guitar Distortion with Noise Gate Pedal 4.5 (96) 100+ viewed in past month $84.39 $ 84 .
+- No complete factory colorway chronology was established in the checked sources.
 
 ## Versions and factory options
-- The verified evidence references: v2.
-- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+- **Gain:** controls distortion amount.
+- **Lo/High Gain** switch: moves between classic crunch and higher-gain saturation.
+- **Master Level:** output level, with boost capability.
+- **Tone:** balances high frequencies.
+- **Mid-Cut:** provides a strong mid scoop for the characteristic Boogie V-style response.
+- Internal **EQ-Boost** switch provides an additional voicing option.
+- True bypass.
+- 9V battery or regulated 9V center-negative supply.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- The checked sources do not establish a complete numbered production revision history.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
+- Exact production transistor/device information was not established in the checked sources.
 - **Exact transistor/device:** Unknown.
 
 ## Diode
-- Documented terms in the verified sources: LED.
-- The archive records only the component information explicitly present in these sources.
+- Exact production clipping/rectifier diode information was not established in the checked sources.
+- **Exact part:** Unknown.
 
 ## Sound
-MESA/Boogie Throttle Box Overdrive Effects Pedal
-99 Join Prime to get FREE delivery Tue, Sep 29 Add to cart TC Electronic TC Electronic DARK MATTER DISTORTION Phenomenal Distortion Pedal with Extreme Dynamic Range, Two-Band EQ and Voicing Switch 4.4 (724) 50+ viewed in past month -7% $56.50 $ 56 .
-50 Typical: $61.08 $61.08 Add to cart JOYO JOYO Overdrive Guitar Pedal, Transparent Overdrive/Touch-Sensitive/Clean Boost to Warm Drive, Ambient LED with Bypass (Tauren R-01) 4.4 (303) 50+ viewed in past week $49.99 $ 49 .
+MESA/Boogie positions the Throttle Box primarily as a high-gain pedal while noting that lower gain settings cover classic rock and blues. The Mid-Cut control can create the familiar scooped Boogie-style response.
 
 ## Sources checked
-1. Mesa/Boogie Throttle Box &ndash; Gibson: https://www.gibson.com/products/mesa-boogie-throttle-box
-2. Mesa/Boogie Throttle Box Distortion Pedal | Sweetwater: https://www.sweetwater.com/store/detail/ThrottleBox--mesa-boogie-throttle-box-distortion-pedal
-3. Mesa/Boogie Throttle Box — Distortion Pedal | Equipboard: https://equipboard.com/items/mesa-boogie-throttle-box
-4. Throttle Box™ - MESA/Boogie®: https://legacy.mesaboogie.com/pedals--related/drive-pedals/throttle-box.html
-5. MESA/Boogie Throttle Box Overdrive Effects Pedal | Guitar Center: https://www.guitarcenter.com/Mesa-Boogie/Throttle-Box-Overdrive-Effects-Pedal-1359388233488.gc
-6. https://www.amazon.com/clp/B00AH7TPRU: https://www.amazon.com/clp/B00AH7TPRU
+1. MESA/Boogie - Throttle Box: https://www.mesaboogie.com/en-US/p/Pedal/FP.THROTTLEBOX/FP-THROTTLEBOX
+2. MESA/Boogie - Throttle Box legacy page: https://subway.mesaboogie.com/pedals--related/drive-pedals/throttle-box.html
+3. MESA/Boogie - Throttle Box manual: https://mesa-boogie.imgix.net/media/User%20Manuals/070500-throttleBox_130925.pdf
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.

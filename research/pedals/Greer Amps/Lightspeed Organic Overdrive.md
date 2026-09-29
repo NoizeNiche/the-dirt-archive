@@ -7,38 +7,38 @@
 - **Identity:** Greer Amps's Lightspeed Organic Overdrive.
 
 ## What this pedal is
-Lightspeed Organic Overdrive - Greer Amps Menu Cart Home About Us PRODUCTS Pedals Amps Merch Merch Dealers-Artists Dealers Artists Contact Us CONTACT WARRANTY REPAIRS POLICIES My Account Continue Shopping Your Cart is Empty Want free shipping on pedals?
+The Lightspeed Organic Overdrive is a natural-sounding low-to-mild gain overdrive. Greer describes it as rich in harmonics, smooth in its clipping, and sensitive to pick attack.
 
 ## Colorways
-- Home About Us PRODUCTS ▾ Pedals Amps Merch Merch Dealers-Artists ▾ Dealers Artists Contact Us ▾ CONTACT WARRANTY REPAIRS POLICIES Cart Home / Products / Lightspeed Organic Overdrive Lightspeed Organic Overdrive $249.00 Color Standard Blue Electropink Night White/Teal/Black Reverse Daphne Snowblind Moonshot Silver Pink/White Purpink Gameday Black Grayscale America Red/White Standard Daphne Silver Britches Pink/Black Pine Green Medium Brown/White Qty Add to Cart Enclosure Dimensions (in): 4.77" x 2.6" x 1.39" Now shipping in our updated enclosures — featuring side-mounted screws!
-- These enclosures are left in their natural raw finish, so minor tooling or manufacturing marks may be visible on the sides.
-- Pedals are currently built to order, and will ship within 1-2 weeks of your order and payment CUSTOM GAMEDAY BLACK AND SILVER BRITCHES EDITIONS HAVE RED LEDs!!!
+- Greer documents numerous finishes, including Standard Blue, Electropink, Night, White/Teal/Black, Reverse Daphne, Snowblind, Moonshot Silver, Pink/White, Purpink, Gameday Black, Grayscale, America Red/White, Silver Britches, Pink/Black, Pine Green, and Medium Brown/White.
+- Custom editions can use different LED colors.
 
 ## Versions and factory options
-- The verified evidence references: MKII.
-- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+- Standard 9-18V negative-center power.
+- 11mA current draw at 9V.
+- True bypass.
+- 2.1 mm power connection.
+- Updated enclosures use side-mounted screws.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- No complete numbered production revision chronology was established in the checked sources.
+- The archive does not treat finish changes as circuit revisions.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
+- Exact production transistor/device information was not established in the checked sources.
 - **Exact transistor/device:** Unknown.
 
 ## Diode
-- Documented terms in the verified sources: LEDs.
-- The archive records only the component information explicitly present in these sources.
+- The checked source documents red LEDs on certain custom editions, but that does not establish a clipping diode.
+- **Exact clipping part:** Unknown.
 
 ## Sound
-Lightspeed Organic Overdrive - Greer Amps Menu Cart Home About Us PRODUCTS Pedals Amps Merch Merch Dealers-Artists Dealers Artists Contact Us CONTACT WARRANTY REPAIRS POLICIES My Account Continue Shopping Your Cart is Empty Want free shipping on pedals?
-Home About Us PRODUCTS ▾ Pedals Amps Merch Merch Dealers-Artists ▾ Dealers Artists Contact Us ▾ CONTACT WARRANTY REPAIRS POLICIES Cart Home / Products / Lightspeed Organic Overdrive Lightspeed Organic Overdrive $249.00 Color Standard Blue Electropink Night White/Teal/Black Reverse Daphne Snowblind Moonshot Silver Pink/White Purpink Gameday Black Grayscale America Red/White Standard Daphne Silver Britches Pink/Black Pine Green Medium Brown/White Qty Add to Cart Enclosure Dimensions (in): 4.77" x 2.6" x 1.39" Now shipping in our updated enclosures — featuring side-mounted screws!
-The Lightspeed Organic Overdrive is a very natural sounding overdrive.
+The Lightspeed is voiced from light to mild overdrive, with a responsive, low-compression feel and rich harmonics. Greer notes that it can be set close to the guitar's original tone or pushed toward the edge of breakup.
 
 ## Sources checked
-1. Lightspeed Organic Overdrive - Greer Amps: https://www.greeramps.com/products/lightspeed
-2. open prime modal: https://www.amazon.com/clp/B0CD4P8F5Z
-3. Greer Amps Lightspeed Organic Overdrive Pedal | Equipboard: https://equipboard.com/items/greer-lightspeed-organic-overdrive
-4. Greer Amps Lightspeed Organic Overdrive - Pedal of the Day: https://www.pedal-of-the-day.com/2025/06/22/greer-amps-lightspeed-organic-overdrive-2/
+1. Greer Amps - Lightspeed Organic Overdrive: https://www.greeramps.com/products/lightspeed
+2. Greer Amps - Pedals: https://www.greeramps.com/collections/pedals
+3. Greer Amps - Lightspeed dealer release: https://www.greeramps.com/blogs/news/11311405-lightspeed-organic-overdrives-dealer-release
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.

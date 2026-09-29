@@ -7,68 +7,39 @@
 - **Identity:** Shin-Ei/Companion FY-2 fuzz box from the late-1960s/1970s Japanese production family.
 
 ## What this pedal is
-The Companion FY-2 is the classic Japanese fuzz associated with the Shin-Ei/Companion product family. Effects Database maintains a dedicated FY-2 record, while Shin-ei's current reproduction page identifies the vintage unit as the 1960s Companion FY-2 Fuzz Box. [1][2]
+The Companion FY-2 is a classic Japanese fuzz from the Shin-Ei/Companion family. Effects Database maintains a dedicated FY-2 record, and Shin-ei describes its modern unit as an exact reproduction of the original Companion FY-2.
 
 ## Controls
-The surviving FY-2 family uses two main controls:
 - **Volume**
-- **Fuzz** [1][3]
-
-Historical examples are also found under closely related private-label names. Those are retained as separate catalog identities unless the archive has explicitly merged them at the builder level.
+- **Fuzz**
 
 ## Colorways and private labels
-- Original Companion-branded units appear in multiple enclosure/label states across the production period.
-- The same basic FY-2 family was also marketed under names including Shin-Ei, Tempo, Jax, Apollo, Kimbara and other regional/private-label identities. [1][4]
-- These labels are branding identities, not automatically distinct circuits.
+- The FY-2 family appears under multiple branding and enclosure variants.
+- Private-label names are treated as separate identities unless the archive has explicitly merged them.
 
 ## Versions and factory options
-The FY-2 family has at least two major transistor-era states:
-- **Germanium FY-2:** earlier production.
-- **Silicon FY-2:** later production. [3]
-
-The archive keeps the specific Companion FY-2 identity intact while recognizing that component generation changed across the wider family.
+- Early FY-2 examples are documented with germanium transistors.
+- Later examples are documented with silicon transistors.
+- The component generation should be assigned to a specific specimen when the evidence supports it.
 
 ## Version changes
-The major documented transition is from early germanium production to later silicon production. Tone Machines' historical review also treats the two versions separately and discusses production/date-stamp differences. [3]
-
-## Construction
-The original pedals were Japanese-made and use a simple metal enclosure with a battery-powered design. Shin-ei's modern reproduction retains the historical two-control layout and adds a modern external 9V input on the reproduction, so the current reproduction should not be treated as identical hardware to every original unit. [2]
+- The major documented component-era distinction is the transition from earlier germanium production to later silicon production.
 
 ## Transistor
-- **Version-dependent:** early FY-2 examples use **germanium** transistors; later examples moved to **silicon**. [3]
-- A specific specimen should be assigned an exact transistor part number only when its build is documented.
+- **Version-dependent:** early examples use germanium transistors; later examples use silicon transistors.
+- Exact part numbers depend on the specimen.
 
 ## Diode
-- **Exact clipping diode/device:** Not publicly documented for the generic Companion FY-2 record in the checked sources.
+- Exact clipping diode/device was not established in the checked sources.
+- **Exact part:** Unknown.
 
 ## Sound
-The FY-2 is known for a strong, aggressive fuzz character with pronounced harmonic texture. Independent demonstrations note that the Fuzz control operates more like a tone/character control than a conventional gain control, and vintage examples can have substantial volume drop at maximum. [1][4]
-
-## Photo provenance
-The exact Effects Database FY-2 record and Shin-ei's dedicated Companion FY-2 reproduction page provide model-specific visual references. [1][2]
+The FY-2 is a compact vintage fuzz with an aggressive, distinctive voice. The two-control layout is simple, and historical versions can differ noticeably in output level and tonal response.
 
 ## Sources checked
 1. Effects Database - Companion FY-2 Fuzz Box: https://www.effectsdatabase.com/model/companion/fy2
-2. Shin-ei - Companion FY-2 Fuzz Box Reproduction: https://shin-ei.com/COMPANION-FY2-FUZZ-BOX
-3. Tone Machines - Companion FY-2 historical version review: https://www.youtube.com/watch?v=VjbVKLmDcjg
-4. Joe Perkins - Shin-ei Companion FY-2 demonstration: https://www.youtube.com/watch?v=4nSgQaqNKs0
+2. Shin-ei - Companion FY-2 Fuzz Box reproduction: https://shin-ei.com/
+3. Tone Machines - Companion FY-2 historical review: https://www.youtube.com/watch?v=VjbVKLmDcjg
 
-## Deep research verification
-
-This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
-
-### Verified description
-Shin-ei Companion FY-2 Fuzz Box 5127999788 My Account Register Login Shopping Cart Checkout 0 item(s) - $0.00 Your shopping cart is empty!
-
-### Verified color/finish evidence
-- Solid steel construction - Original style paint (on black units) Vintage style 9 Volt battery powered with EZ Release stainless steel bottom panel.
-- Companion FY-2 Fuzz Box Reproduction Brands Shin-ei Product Code:FY-2 Availability:In Stock $349.00 Available Options COLOR Woodstock White Sea Foam Fuzz Metallic Green (+$20.00) Qty Add to Cart Related Products Vibe-Bro Chorus-Vibrato Pedal U.S.
-- $495.00 Add to Cart Astron FY-6 " Super Fuzz" BLACK FRIDAY SPECIAL PRICING!!!10% OFF COUPON FOR FUTURE PURCHASES!!
-
-### Verified sound evidence
-Shin-ei Companion FY-2 Fuzz Box 5127999788 My Account Register Login Shopping Cart Checkout 0 item(s) - $0.00 Your shopping cart is empty!
-Companion FY-2 Fuzz Box Reproduction Description NEW FY-2 SHIN-EI COMPANION FUZZ BOX REPRODUCTION !
-Awesome reproduction of the original vintage 1960's Shin-ei Companion FY-2 Fuzz!
-
-### Sources checked in this pass
-1. Shin-ei Companion FY-2 Fuzz Box: https://shin-ei.com/COMPANION-FY2-FUZZ-BOX
+## Photo
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.

@@ -7,37 +7,34 @@
 - **Identity:** Amptweaker's Fat Metal Pro.
 
 ## What this pedal is
-99 Join Prime to get FREE delivery Mon, Sep 28 Add to cart Amazon's Choice Donner Donner Giant Metal Distortion Pedal -Boost Distortion for Electric Guitar, Pedalboards, 3 Modes True Bypass 4.2 (664) 100+ viewed in past month $39.99 $ 39 .
+The archive record **Fat Metal Pro** refers to Amptweaker's Fat Metal Pro family rather than the later **Fat Metal Pro II** revision. The checked official material for the current Pro II shows the family goal clearly: a high-gain preamp designed around fuller, more controlled low end for heavy styles and down-tuned instruments.
 
 ## Colorways
-- Drive B (orange LED) is the same as the single Godfather Overdrive pedal, while Drive A (red LED) is voiced for m..
+- No complete factory colorway chronology for the original Fat Metal Pro was established in the checked sources.
 
 ## Versions and factory options
-- No distinct factory revision was established in the verified evidence packet.
+- The later **Fat Metal Pro II** adds integrated Depth Finder and DeFizzerator processing, balanced DI, cab simulation, headphone output, and three rear effects loops.
+- The archive keeps those Pro II features separate from the original Fat Metal Pro unless a source explicitly documents them on the earlier unit.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- **Fat Metal Pro II** is a documented later model in the family.
+- A complete original-to-Pro-II hardware chronology was not established in the checked sources.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
+- Exact production transistor/device information was not established in the checked sources.
 - **Exact transistor/device:** Unknown.
 
 ## Diode
-- Documented terms in the verified sources: LED.
-- The archive records only the component information explicitly present in these sources.
+- Exact production clipping/rectifier diode information was not established in the checked sources.
+- **Exact part:** Unknown.
 
 ## Sound
-99 Join Prime to get FREE delivery Mon, Sep 28 Add to cart JOYO JOYO High-Gain Distortion Guitar Pedal, American & British Voicing via Bias Knob with 3-Band EQ & Dynamic Balance, True Bypass (UZI R-03) 4.3 (484) 50+ bought in past month $48.99 $ 48 .
-99 Join Prime to get FREE delivery Mon, Sep 28 Add to cart Amazon's Choice Donner Donner Giant Metal Distortion Pedal -Boost Distortion for Electric Guitar, Pedalboards, 3 Modes True Bypass 4.2 (664) 100+ viewed in past month $39.99 $ 39 .
-99 Join Prime to get FREE delivery Mon, Sep 28 Add to cart Empress Effects Empress Effects Heavy Hi-Gain Distortion Pedal 4.2 (73) $322.42 $ 322 .
+Amptweaker designed the Fat Metal Pro family for full-bodied high-gain distortion with more low-end mass than the company's tighter-voiced metal designs. The Pro II documentation specifically emphasizes applications such as doom, black metal, and down-tuned playing.
 
 ## Sources checked
-1. catalog/override source: https://reverb.com/item/16791001-amptweaker-fat-metal-pro
-2. Fat Metal Pro II - amptweaker: https://amptweaker.com/product/fat-metal-pro-ii/
-3. https://www.amazon.com/clp/B08P2BXJ8Q: https://www.amazon.com/clp/B08P2BXJ8Q
-4. Amptweaker Fat Metal Pro II - Full Compass Systems: https://www.fullcompass.com/prod/635230-amptweaker-fat-metal-pro-ii-fat-metal-pro-ii-distortion-effect-pedal
-5. Amptweaker Fat Metal Pro II: https://guitarpedalshoppe.com/Amptweaker-Fat-Metal-Pro-II
-6. Amptweaker Fat Metal Pro II - What To Know & Where To Buy: https://equipboard.com/items/amptweaker-fat-metal-pro-ii
+1. Amptweaker - Fat Metal Pro II: https://amptweaker.com/product/fat-metal-pro-ii/
+2. Amptweaker - Products: https://amptweaker.com/products/
+3. Amptweaker - Pro series: https://amptweaker.com/product-category/pro/
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.
