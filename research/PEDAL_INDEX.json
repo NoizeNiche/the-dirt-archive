@@ -4827,13 +4827,15 @@
       "research_record": "./research/pedals/Ashdown Engineering/AGM PRO-FX Retro Drive.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://ashdownmusic.com/collections/last-chance/products/b-stock-agm-pro-fx-retro-drive",
+      "image_source_page": "https://www.effectsdatabase.com/model/ashdown/profx/retrodrive",
       "image_source_pages": [
         "https://ashdownmusic.com/collections/last-chance/products/b-stock-agm-pro-fx-retro-drive"
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1387
+      "image_source_priority": 1387,
+      "image": "",
+      "image_source_url": "https://files.effectsdatabase.com/gear/pics/ashdown_profx-retrodrive_001.jpg"
     },
     {
       "company": "Ashdown Engineering",
@@ -32735,7 +32737,9 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1052
+      "image_source_priority": 1052,
+      "image": "",
+      "image_source_url": "https://files.effectsdatabase.com/gear/thumbs/deviever_fuzz_001.jpg"
     },
     {
       "company": "Devi Ever FX",
@@ -33008,7 +33012,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1060
+      "image_source_priority": 1060,
+      "image_source_url": "https://files.effectsdatabase.com/gear/thumbs/deviever_peep_001.jpg"
     },
     {
       "company": "Devi Ever FX",
@@ -44009,14 +44014,16 @@
       "research_record": "./research/pedals/Lovetone/Ring Stinger.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://reverb.com/p/lovetone-ring-stinger",
+      "image_source_page": "https://www.effectsdatabase.com/model/lovetone/ringstinger",
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/lovetone/ringstinger",
         "https://reverb.com/p/lovetone-ring-stinger"
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1309
+      "image_source_priority": 1309,
+      "image": "",
+      "image_source_url": "https://files.effectsdatabase.com/gear/thumbs/lovetone_ringstinger_001.jpg"
     },
     {
       "company": "Lunastone Pedals",
@@ -48425,7 +48432,9 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1379
+      "image_source_priority": 1379,
+      "image": "",
+      "image_source_url": "https://cdn11.bigcommerce.com/s-n26aknlnlm/images/stencil/1280x1280/products/636/6464/11250000001.MAIN__82864.1663874796.jpg?c=2"
     },
     {
       "company": "MXR",
@@ -55349,10 +55358,12 @@
         "https://www.effectsdatabase.com/model/tubeworks",
         "https://reverb.com/p/tube-works-911-tube-driver-1998-2005"
       ],
-      "image_source_page": "https://reverb.com/p/tube-works-911-tube-driver-1998-2005",
+      "image_source_page": "https://www.effectsdatabase.com/model/tubeworks/911",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1312
+      "image_source_priority": 1312,
+      "image": "",
+      "image_source_url": "https://files.effectsdatabase.com/gear/pics/tubeworks_911_001.jpg"
     },
     {
       "company": "Union Tube & Transistor",
@@ -58068,7 +58079,7 @@
       ],
       "source_page": null,
       "research_record": "./research/pedals/Way Huge/Pork & Pickle.md",
-      "image_source_page": "https://www.musicradar.com/news/namm-2018-way-huge-serves-up-its-first-ever-bass-pedal-the-pork-pickle",
+      "image_source_page": "https://www.westsidedistribution.com/way-huge-pork-pickle-bass-overdrive-fuzz/",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
       "image_source_pages": [
@@ -58076,7 +58087,9 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1382
+      "image_source_priority": 1382,
+      "image": "",
+      "image_source_url": "https://www.westsidedistribution.com/wp-content/uploads/2018/01/PorkandPickle.jpg"
     },
     {
       "company": "Way Huge",
