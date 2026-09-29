@@ -4831,8 +4831,7 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1387,
-      "image_source_url": "https://files.effectsdatabase.com/gear/pics/ashdown_profx-retrodrive_003.jpg"
+      "image_source_priority": 1387
     },
     {
       "company": "Ashdown Engineering",
@@ -6845,7 +6844,7 @@
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
       "image_source_priority": 1388,
-      "image_source_url": "https://www.truetonemusic.com/cdn/shop/files/Burmese-Drive-Front_1200x1200.jpg?v=1762554157"
+      "image_source_url": "https://www.truetonemusic.com/cdn/shop/files/truetone_Logo_2018_white_cb610416-c81b-40fe-ac59-5dffbb0204e0_435x195.png?v=1765932448"
     },
     {
       "company": "Bad Cat",
@@ -22340,7 +22339,8 @@
       ],
       "image_source_page": "https://reverb.com/item/94123842-cbc-pedals-the-drive-zendrive-clone",
       "image_source_pages_verified": true,
-      "image_source_page_verified": true
+      "image_source_page_verified": true,
+      "image_source_url": "https://rvb-img.reverb.com/i/s--VI-DKy5h--/gravity=auto,quality=medium-low,width=200,height=200,format=jpeg/ccpz3kjikelsf0i3n9jz.jpg"
     },
     {
       "company": "CBC Pedals",
@@ -22875,7 +22875,8 @@
       "image_source_page": "https://reverb.com/item/3707665-champion-city-effects-el-gato-malo-2016-acid-etched-metallic-blue",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 50000
+      "image_source_priority": 50000,
+      "image_source_url": "https://rvb-img.reverb.com/i/s--m3xShmno--/gravity=auto,quality=medium-low,width=200,height=200,format=jpeg/hthnpp2ug0wqgpso3gty.jpg"
     },
     {
       "company": "Champion City Effects",
@@ -25920,7 +25921,8 @@
       "image_source_page": "https://reverb.com/item/96172740-collateral-fx-zeugma-zonk-fuzz-2026-hammered-blue-aqua",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 502
+      "image_source_priority": 502,
+      "image_source_url": "https://rvb-img.reverb.com/i/s--TVI901eJ--/quality=medium-low,height=800,width=800,fit=contain/be2a7c96-dd48-417b-b680-f89664e8c439.jpg"
     },
     {
       "company": "Collateral FX",
@@ -26755,7 +26757,8 @@
       "image_source_page": "https://reverb.com/item/10534214-commune-empire-custom-amplification-screem",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 559
+      "image_source_priority": 559,
+      "image_source_url": "https://rvb-img.reverb.com/i/s--0oYkVUNd--/gravity=auto,quality=medium-low,width=200,height=200,format=jpeg/cp7er32tcmgmpykeejzh.png"
     },
     {
       "company": "Commune/ECA (Empire Custom Amplification)",
@@ -27368,7 +27371,7 @@
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
       "image_source_priority": 595,
-      "image_source_url": "https://static.reverb-assets.com/production-assets/webpack/images/shop-brand-default-c1f7bfd8c82677bc.png"
+      "image_source_url": "https://rvb-img.reverb.com/i/s--zWvnYwHX--/quality=medium-low,height=800,width=800,fit=contain,rotate=270/kdbvt60axcciuw5mk23m.jpg"
     },
     {
       "company": "Copilot FX",
@@ -39223,8 +39226,8 @@
       "research_record": "./research/pedals/Ibanez/TS7.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://www.guitarcenter.com/Ibanez/Tone-Lok-TS7-Tubescreamer-Pedal.gc",
-      "image_source_url": "https://media.guitarcenter.com/is/image/MMGS7/150286000000000-00-600x600.jpg"
+      "image_source_page": "https://equipboard.com/items/ibanez-tone-lok-ts7-tubescreamer",
+      "image_source_url": "https://assets.equipboard.com/assets/store_logos/sweetwater-logo-20052064a4c9eecc46f4783e7f2b2867709f4ea22ab055b7bf2b395e9b84d904.svg"
     },
     {
       "company": "Ibanez",
@@ -41663,7 +41666,8 @@
       "research_record": "./research/pedals/Keeley Electronics/Red Dirt Germanium Overdrive.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://www.rockboard.de/en/pedalPedia/Keeley-Electronics/Red-Dirt-Germanium/154445638/"
+      "image_source_page": "https://www.rockboard.de/en/pedalPedia/Keeley-Electronics/Red-Dirt-Germanium/154445638/",
+      "image_source_url": "https://www.rockboard.de/icons/header_pedalpedia_big.svg"
     },
     {
       "company": "Keeley Electronics",
@@ -41690,7 +41694,7 @@
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
       "image_source_page": "https://en.audiofanzine.com/overdrive-pedal/keeley-electronics/red-dirt/",
-      "image_source_url": "https://static.audiofanzine.com/images/audiofanzine/logo-email-dark.webp"
+      "image_source_url": "https://static.audiofanzine.com/images/audiofanzine/logo_retina_borderless-36.webp"
     },
     {
       "company": "Keeley Electronics",
@@ -41714,8 +41718,7 @@
       "research_record": "./research/pedals/Keeley Electronics/SUNS Ultravoid Fuzz.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://robertkeeley.com/product/suns-ultravoid-fuzz/",
-      "image_source_url": "https://robertkeeley.com/wp-content/uploads/2025/01/Keeley-Electronics-SUNS-Ultravoid-Fuzz-Effect-Pedal-001-Face-scaled.jpg"
+      "image_source_page": "https://robertkeeley.com/product/suns-ultravoid-fuzz/"
     },
     {
       "company": "Keeley Electronics",
@@ -44136,7 +44139,7 @@
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
       "image_source_page": "https://www.guitarworld.com/gear/mad-professor-amplification-unveils-loud-n-proud-overdrivefuzz",
-      "image_source_url": "https://img.youtube.com/vi/xuSd6sM6pps/maxresdefault.jpg"
+      "image_source_url": "https://cdn.mos.cms.futurecdn.net/flexiimages/eiid8t9d9y1776696084.svg"
     },
     {
       "company": "Mad Professor Amplification",
@@ -44439,7 +44442,7 @@
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
       "image_source_page": "https://www.facebook.com/MadeByMikePedals/posts/pedals-870-and-871-the-scream-box-is-a-custom-dual-drive-pedal-the-dream-box-wit/1410415319021706/",
-      "image_source_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/642817707_26155843664052195_4688263093413041075_n.jpg?stp=dst-jpg_r270_tt6&cstp=mx2048x1536&ctp=s590x590&_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Af1tlRYjEiUQ7kNvwG-itpo&_nc_oc=AdreR18ySGFrlqYrJlgRdcdUg0GQYuidlpzo_50WWex4gcjl4uI8fk8NqT-W5Rsk2hY&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=hmktgjJsTnHXQtXLa72zkA&_nc_ss=7b289&oh=00_AQNk2WHawwuZ9oOrOBhl5UxJ4u9TALNr83wN6V3Br1L5xA&oe=6AC13CD6"
+      "image_source_url": "https://static.xx.fbcdn.net/rsrc.php/y4/r/cCUc36Es1cc.webp"
     },
     {
       "company": "MadeByMike",
@@ -55263,11 +55266,11 @@
         "https://www.effectsdatabase.com/model/tubeworks",
         "https://reverb.com/p/tube-works-911-tube-driver-1998-2005"
       ],
-      "image_source_page": "https://www.effectsdatabase.com/model/tubeworks/911",
+      "image_source_page": "https://reverb.com/p/tube-works-911-tube-driver-1998-2005",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
       "image_source_priority": 1312,
-      "image_source_url": "https://files.effectsdatabase.com/gear/pics/tubeworks_911_001.jpg"
+      "image_source_url": "https://rvb-img.reverb.com/i/s---IpyDWYQ--/quality=medium-low,height=800,width=800,fit=contain/msn4wirnqxl4m3ltqqsi.jpg"
     },
     {
       "company": "Union Tube & Transistor",
