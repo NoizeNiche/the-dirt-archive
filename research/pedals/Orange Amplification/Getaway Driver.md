@@ -7,36 +7,39 @@
 - **Identity:** Orange Amplification's Getaway Driver.
 
 ## What this pedal is
-Toggle navigation Menu --> Guitar Accessories &rarr; Guitar Pedals &rarr; Orange Amplification GETAWAY-DRIVER Getaway Driver Overdrive Blue SKU:^GETAWAY-DRIVER Overdrive Blue View Larger Image Orange Amplification GETAWAY-DRIVER Getaway Driver SKU:7002-Getaway Driver Orange Amplification GETAWAY-DRIVER Getaway Driver Overdrive Blue Regular Price: $219.00 Our Price: $169.00 Quantity Add to Cart Add to Wishlist Manufacturer Part #: GETAWAY-DRIVER Serial #: 210358411220722 Condition: New Orange Amplification GETAWAY-DRIVER Getaway Driver Overdrive Blue Regular Price: $219.00 Our Price: $169.00 Quantity Add to Cart Add to Wishlist Manufacturer Part #: GETAWAY-DRIVER Serial #: 210243411201210 Condition: New Description Reviews Choose the exact instrument New Overdrive Blue Serial #: 210358411220722 Manufacturer Part #: GETAWAY-DRIVER Weight: 2.00 Regular Price: $219.00 Our Price: $169.00 New Overdrive Blue Serial #: 210243411201210 Manufacturer Part #: GETAWAY-DRIVER Weight: 2.00 Regular Price: $219.00 Our Price: $169.00 Description A ’70s amp in a box The Getaway Driver is an amp-in-a-box type pedal with just three dials – Volume, Bite (tone) and Gain.
+The Getaway Driver is an amp-in-a-box overdrive inspired by a cranked 1970s Orange amplifier. Orange describes the design as dynamic, touch-sensitive, and capable of functioning as either a conventional drive pedal or a preamp.
 
 ## Colorways
-- Toggle navigation Menu --> Guitar Accessories &rarr; Guitar Pedals &rarr; Orange Amplification GETAWAY-DRIVER Getaway Driver Overdrive Blue SKU:^GETAWAY-DRIVER Overdrive Blue View Larger Image Orange Amplification GETAWAY-DRIVER Getaway Driver SKU:7002-Getaway Driver Orange Amplification GETAWAY-DRIVER Getaway Driver Overdrive Blue Regular Price: $219.00 Our Price: $169.00 Quantity Add to Cart Add to Wishlist Manufacturer Part #: GETAWAY-DRIVER Serial #: 210358411220722 Condition: New Orange Amplification GETAWAY-DRIVER Getaway Driver Overdrive Blue Regular Price: $219.00 Our Price: $169.00 Quantity Add to Cart Add to Wishlist Manufacturer Part #: GETAWAY-DRIVER Serial #: 210243411201210 Condition: New Description Reviews Choose the exact instrument New Overdrive Blue Serial #: 210358411220722 Manufacturer Part #: GETAWAY-DRIVER Weight: 2.00 Regular Price: $219.00 Our Price: $169.00 New Overdrive Blue Serial #: 210243411201210 Manufacturer Part #: GETAWAY-DRIVER Weight: 2.00 Regular Price: $219.00 Our Price: $169.00 Description A ’70s amp in a box The Getaway Driver is an amp-in-a-box type pedal with just three dials – Volume, Bite (tone) and Gain.
-- The pedal features the same transparent, buffered output used on the Orange Two Stroke and Kongpressor pedals.
-- It has the same transparent, buffered output as the Orange Two Stroke and Kongpressor pedals plus a second Cab Sim / headphone output.
+- The documented enclosure is orange.
+- No complete factory colorway chronology was established.
 
 ## Versions and factory options
-- No distinct factory revision was established in the verified evidence packet.
+- **Volume**
+- **Bite:** tone/presence control
+- **Gain**
+- Speaker-emulated **CabSim** headphone/line output.
+- Internal mode switch for pedal or preamp operation.
+- Runs from 9-12V DC, center negative, with the circuit operating internally at 18V.
+- Current draw: 30mA at 9V, 40mA at 12V.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- Orange's current documentation does not establish a numbered production revision history.
+- The internal preamp mode and CabSim output are treated as features of the Getaway Driver design, not separate pedals.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
-- **Exact transistor/device:** Unknown.
+- Orange describes the gain structure as single-ended JFET circuitry operating in Class A.
+- **Exact JFET part number:** Unknown.
 
 ## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- Exact clipping/rectifier diode information was not established in the checked sources.
 - **Exact part:** Unknown.
 
 ## Sound
-Toggle navigation Menu --> Guitar Accessories &rarr; Guitar Pedals &rarr; Orange Amplification GETAWAY-DRIVER Getaway Driver Overdrive Blue SKU:^GETAWAY-DRIVER Overdrive Blue View Larger Image Orange Amplification GETAWAY-DRIVER Getaway Driver SKU:7002-Getaway Driver Orange Amplification GETAWAY-DRIVER Getaway Driver Overdrive Blue Regular Price: $219.00 Our Price: $169.00 Quantity Add to Cart Add to Wishlist Manufacturer Part #: GETAWAY-DRIVER Serial #: 210358411220722 Condition: New Orange Amplification GETAWAY-DRIVER Getaway Driver Overdrive Blue Regular Price: $219.00 Our Price: $169.00 Quantity Add to Cart Add to Wishlist Manufacturer Part #: GETAWAY-DRIVER Serial #: 210243411201210 Condition: New Description Reviews Choose the exact instrument New Overdrive Blue Serial #: 210358411220722 Manufacturer Part #: GETAWAY-DRIVER Weight: 2.00 Regular Price: $219.00 Our Price: $169.00 New Overdrive Blue Serial #: 210243411201210 Manufacturer Part #: GETAWAY-DRIVER Weight: 2.00 Regular Price: $219.00 Our Price: $169.00 Description A ’70s amp in a box The Getaway Driver is an amp-in-a-box type pedal with just three dials – Volume, Bite (tone) and Gain.
-It also makes a great clean boost, with lower Gain and higher Volume settings pushing amps over the edge into classic overdrive.
-The gain structure is produced using single-ended JFET circuitry running in Class A, just like a valve amp.
+The Getaway Driver targets the breakup and grit of a vintage Orange amp. Lower Gain settings can act as a boost or edge-of-breakup drive, while higher settings produce thicker British-style overdrive. CabSim provides a direct-recording or headphone path.
 
 ## Sources checked
-1. Ponce de Leon Music Center - Orange Amplification GETAWAY-DRIVER Getaway Driver: https://www.poncedeleonmusic.com/p-41739-orange-amplification-getaway-driver-getaway-driver.aspx
-2. Orange Amplification Launch Fur Coat and Getaway Driver Pedals | Guitar.com: https://guitar.com/news/orange-amps-fur-coat-getaway-driver/
-3. Orange Amplification Launches Fur Coat and Getaway Driver Pedals | Guitar World: https://www.guitarworld.com/gear/orange-amplification-launches-fur-coat-and-getaway-driver-pedals
+1. Orange Amplification - Getaway Driver: https://orangeamps.com/products/getaway-driver-overdrive-pedal
+2. Orange Amplification - Getaway Driver manual: https://orangeamps.com/wp-content/uploads/2017/08/GETAWAY-DRIVER-MANUAL-V1.pdf
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.

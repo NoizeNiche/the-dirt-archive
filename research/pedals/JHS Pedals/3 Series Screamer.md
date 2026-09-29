@@ -7,34 +7,36 @@
 - **Identity:** JHS Pedals's 3 Series Screamer.
 
 ## What this pedal is
-$0.00 USD 3 SERIES SCREAMER $99.00 USD Zoom Zoom 3 SERIES SCREAMER $99.00 USD − { $dispatch('change'); }) " > + Add to Cart The JHS Pedals 3 Series is a collection of pedals designed to give you affordability and simplicity without compromising quality.
+The 3 Series Screamer is JHS's standalone version of its Tube Screamer **Strong Mod** approach. JHS describes it as offering more clean headroom, stronger boosting behavior, more versatile drive and tone response, and a broader usable frequency response than a traditional Tube Screamer.
 
 ## Colorways
-- Add to cart Product details Brand JHS Pedals Style Screamer Color White Product Dimensions 5.75"L x 3.4"W x 3.4"H Item Weight 10.72 ounces Voltage 9 volts Similar to your pick Page {currentPage} of {totalPages} Amazon's Choice BOSS Boss BD-2 Blues Driver Guitar Effects Pedal
+- The documented production enclosure is white.
+- No additional factory colorway chronology is asserted here.
 
 ## Versions and factory options
-- No distinct factory revision was established in the verified evidence packet.
+- Three simple controls plus one toggle, consistent with the JHS 3 Series format.
+- 9V DC negative-center operation.
+- Current draw: 12mA.
+- Built in Kansas City, Missouri.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- The checked JHS sources do not establish a separate numbered production revision for the 3 Series Screamer.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
+- Exact production semiconductor details were not established in the checked sources.
 - **Exact transistor/device:** Unknown.
 
 ## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- Exact clipping-diode part was not established in the checked sources.
 - **Exact part:** Unknown.
 
 ## Sound
-You will find more clean headroom, better usability as a boost, more versatile drive and tone controls as well as a more pleasing frequency response.
-Warm Overdrive and Emotive Distortion 4.8 (2K) 200+ bought in past month $109.99 $ 109 .
-99 FREE delivery Oct 3 - 6 Add to cart Earthquaker Devices EarthQuaker Devices Plumes Small Signal Shredder Overdrive Guitar Effects Pedal 4.7 (727) 50+ viewed in past week $119.00 $ 119 .
+The pedal keeps the familiar mid-focused Tube Screamer family behavior while adding more headroom and a more flexible response. JHS specifically describes it as useful both as a drive and as a boost.
 
 ## Sources checked
-1. 3 SERIES SCREAMER – JHS Pedals: https://jhspedals.info/products/3-series-screamer
-2. open prime modal: https://www.amazon.com/clp/B09XJ2TY3N
-3. JHS Pedals 3 SERIES SCREAMER | AllThePedals: https://allthepedals.com/pedals/jhs-pedals-3-series-screamer
+1. JHS Pedals - 3 Series Screamer: https://jhspedals.info/products/3-series-screamer
+2. JHS Pedals - What Is the 3 Series Screamer?: https://jhspedals.info/blogs/news/what-is-the-jhs-3-series-screamer
+3. JHS Pedals - 3 Series collection: https://jhspedals.info/collections/3-series
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.

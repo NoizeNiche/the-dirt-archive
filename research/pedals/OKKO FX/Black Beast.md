@@ -7,40 +7,41 @@
 - **Identity:** OKKO FX's Black Beast.
 
 ## What this pedal is
-Okko FX Black Beast Fuzz Distortion Guitar and Bass Pedal &#36;120.00 &#36;239.99 Add to cart SKU: WATWVCP1 Category: Pedal More info Shipping Reviews Massive Fuzz / Distortion for Guitar and Bass The Black Beast is a massive sounding fuzz/distortion pedal for guitar or bass.
+The Black Beast is an analog fuzz/distortion pedal for guitar and bass. OKKO describes it as an original circuit rather than a recreation of a classic fuzz, with the KAPUTT control changing the gain structure from harmonic distortion toward extreme fuzz.
 
 ## Colorways
-- Okko FX Black Beast Fuzz Distortion Guitar and Bass Pedal - Acoustic Guitar Strings That Bring Your Sound to Life FLASH SALE: EVERYTHING HALF PRICE!
-- Home Guitar Electric Guitar Acoustic Guitar Bass Guitars Classical Guitar Strings Acoustic Guitar Strings Bass Guitar Strings Electric Guitar Strings Orchestral Strings Amplifiers Electric Guitar Amplifiers Guitar Amplifiers Guitar Combo Amplifiers Drums Drum Sticks Drumheads Drum Accessories Drum Hardware Microphone Condenser Microphone Dynamic Microphones Microphone Stands Shop Home &#47; Pedal &#47; Okko FX Black Beast Fuzz Distortion Guitar and Bass Pedal Sale!
-- Okko FX Black Beast Fuzz Distortion Guitar and Bass Pedal &#36;120.00 &#36;239.99 Add to cart SKU: WATWVCP1 Category: Pedal More info Shipping Reviews Massive Fuzz / Distortion for Guitar and Bass The Black Beast is a massive sounding fuzz/distortion pedal for guitar or bass.
+- The documented production enclosure is black with green graphics and a large green status LED.
+- No complete finish chronology was established.
 
 ## Versions and factory options
-- The verified evidence references: Mk II.
-- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+- **GAIN:** distortion and saturation level.
+- **KAPUTT:** shifts the gain structure toward more extreme fuzz.
+- **BASS:** active low-frequency control.
+- **TREBLE:** active high-frequency control.
+- **LEVEL:** output level.
+- True bypass.
+- 9V center-negative operation.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- Sources reviewed do not establish a complete numbered production revision history.
+- The archive does not use the isolated “Mk II” search references as proof of a hardware revision without supporting factory documentation.
 
 ## Transistor
-- Documented terms in the verified sources: germanium fuzz.
-- The archive records only the component information explicitly present in these sources.
+- Exact production transistor/device information was not established in the checked sources.
+- The designer explicitly describes the Black Beast as an original circuit rather than a clone of a classic fuzz.
+- **Exact transistor/device:** Unknown.
 
 ## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- Exact clipping/rectifier diode information was not established in the checked sources.
 - **Exact part:** Unknown.
 
 ## Sound
-Okko FX Black Beast Fuzz Distortion Guitar and Bass Pedal - Acoustic Guitar Strings That Bring Your Sound to Life FLASH SALE: EVERYTHING HALF PRICE!
-Home Guitar Electric Guitar Acoustic Guitar Bass Guitars Classical Guitar Strings Acoustic Guitar Strings Bass Guitar Strings Electric Guitar Strings Orchestral Strings Amplifiers Electric Guitar Amplifiers Guitar Amplifiers Guitar Combo Amplifiers Drums Drum Sticks Drumheads Drum Accessories Drum Hardware Microphone Condenser Microphone Dynamic Microphones Microphone Stands Shop Home &#47; Pedal &#47; Okko FX Black Beast Fuzz Distortion Guitar and Bass Pedal Sale!
-Okko FX Black Beast Fuzz Distortion Guitar and Bass Pedal &#36;120.00 &#36;239.99 Add to cart SKU: WATWVCP1 Category: Pedal More info Shipping Reviews Massive Fuzz / Distortion for Guitar and Bass The Black Beast is a massive sounding fuzz/distortion pedal for guitar or bass.
+The Black Beast spans harmonic distortion through aggressive fuzz while retaining a broad active Bass/Treble range. The KAPUTT control is the defining character control, allowing the gain structure to move toward increasingly broken and fuzzy textures.
 
 ## Sources checked
-1. Okko FX Black Beast Fuzz Distortion Guitar and Bass Pedal - Acoustic Guitar Strings That Bring Your Sound to Life: https://www.guitarstringz.com/product/okko-fx-black-beast-fuzz-distortion-guitar-and-bass-pedal/
-2. OKKO FX Black Beast Fuzz - Reverb: https://reverb.com/item/35456093-okko-fx-black-beast-fuzz
-3. Okko Black Beast - Effects Database: https://www.effectsdatabase.com/model/okko/blackbeast
-4. Okko FX Black Beast Dimensions, Specs Details: https://www.stompboxgarden.com/gear/pedal/5064/okko-fx-black-beast
-5. Okko FX Black Beast Fuzz Distortion Guitar and Bass Pedal: https://www.goodmusicalinstrument.com/product/okko-fx-black-beast-fuzz-distortion-guitar-and-bass-pedal/
-6. OKKO FX Black Beast Fuzz | USA - musicstore.com: https://www.musicstore.com/en_US/USD/OKKO-FX-Black-Beast-Fuzz-/art-GIT0033110-000
+1. Effects Database - OKKO Black Beast: https://www.effectsdatabase.com/model/okko/blackbeast
+2. OKKO Black Beast operation manual: https://manualzz.com/doc/6522651/okko-black-beast-effects-pedal-operation-manual
+3. Reverb - OKKO Black Beast: https://reverb.com/item/68019715-okko-black-beast-2023-black
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.
