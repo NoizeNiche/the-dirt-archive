@@ -10,7 +10,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: dirt-catalog-metadata-repair-v1
+  group: dirt-archive-publisher-v1
   cancel-in-progress: false
 
 jobs:
