@@ -69,6 +69,27 @@ def main():
     catalog_by_key = {(p.get("company"), p.get("pedal")): p for p in catalog.get("pedals", [])}
     manifest_by_key = {(p.get("builder"), p.get("pedal")): p for p in manifest}
 
+    # Scrub blocked provenance from the whole canonical catalog, not just the
+    # records touched by the current recovery artifact. This prevents a bad
+    # logo/UI URL from surviving indefinitely after the blocklist learns it.
+    scrubbed = 0
+    for catalog_entry in catalog.get("pedals", []):
+        source_url = str(catalog_entry.get("image_source_url") or "").strip()
+        if source_url and blocked_photo_url(source_url):
+            catalog_entry.pop("image_source_url", None)
+            scrubbed += 1
+        source_urls = catalog_entry.get("image_source_urls")
+        if isinstance(source_urls, list):
+            cleaned = [u for u in source_urls if u and not blocked_photo_url(u)]
+            if cleaned != source_urls:
+                if cleaned:
+                    catalog_entry["image_source_urls"] = cleaned
+                else:
+                    catalog_entry.pop("image_source_urls", None)
+                scrubbed += 1
+    if scrubbed:
+        print(f"Scrubbed {scrubbed} blocked photo-provenance fields from the canonical catalog.")
+
     provenance = 0
     for row in results:
         key = (row.get("builder"), row.get("pedal"))
