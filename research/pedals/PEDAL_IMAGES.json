@@ -3583,7 +3583,9 @@
     "pedal": "Burmese Drive - Dual Vintage Overdrive",
     "source_page": "https://www.effectsdatabase.com/model/badcat",
     "research_record": "./research/pedals/Bad Cat/Burmese Drive - Dual Vintage Overdrive.md",
-    "image_source_page": "https://www.truetonemusic.com/products/bad-cat-burmese-drive-dual-vintage-overdrive-pedal"
+    "image_source_page": "https://www.zzounds.com/item--BADBCPBURMESE",
+    "image_source_url": "https://cf1.zzounds.com/media/productmedia/fit%2C2018by3200/quality%2C85/BAD_BCPBURMESE_Front_907075-fb6515ec9a8fc8fe10a300de991946eb.jpg",
+    "image": "./assets/pedals/bad-cat/burmese-drive-dual-vintage-overdrive/primary.webp"
   },
   {
     "builder": "Bad Cat",
@@ -14094,7 +14096,9 @@
     "pedal": "Screem",
     "source_page": null,
     "research_record": "./research/pedals/Commune/ECA Screem.md",
-    "image_source_page": "https://reverb.com/item/10534214-commune-empire-custom-amplification-screem"
+    "image_source_page": "https://auctions.yahoo.co.jp/jp/auction/1081656411",
+    "image_source_url": "https://auctions.c.yimg.jp/images.auctions.yahoo.co.jp/image/dr000/auc0402/users/64088e84b9f86619858c7c8bac95635af38b17d3/i-img1200x900-1676204580e41mdv502851.jpg",
+    "image": "./assets/pedals/commune-eca-empire-custom-amplification/screem/primary.webp"
   },
   {
     "builder": "Commune/ECA (Empire Custom Amplification)",
