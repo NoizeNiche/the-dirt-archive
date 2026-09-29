@@ -27,3 +27,27 @@
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Volume controls the output volume of the effect Fuzz controls the amount of fuzz Footswitches A/B switches between the fuzz channels Information A&M Custom Effects CrazyBoy is Custom Hand Made,100% analog guitar double fuzz pedal.
+
+### Verified version references
+- The evidence references: revision.
+
+### Verified transistor/device terms
+- Silicon Transistor.
+
+### Verified diode terms
+- LEDs, LED.
+
+### Verified sound evidence
+A M Custom Effects Crazyboy - Double Fuzz
+At higher gain settings a lot of effects can go into overdrive or distortion.
+Volume controls the output volume of the effect Fuzz controls the amount of fuzz Footswitches A/B switches between the fuzz channels Information A&M Custom Effects CrazyBoy is Custom Hand Made,100% analog guitar double fuzz pedal.
+
+### Sources checked in this pass
+1. A M Custom Effects Crazyboy - Double Fuzz | Effects Database: https://www.effectsdatabase.com/model/am/crazyboy

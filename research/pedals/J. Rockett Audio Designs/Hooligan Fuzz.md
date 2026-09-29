@@ -7,7 +7,8 @@
 - **Identity:** J. Rockett Audio Designs's Hooligan Fuzz.
 
 ## What this pedal is
-J Rockett Hooligan Fuzz Pedal - NOS - Willcutt Guitars
+
+J Rockett Hooligan Fuzz Pedal - NOS - Willcutt Guitars Rockett Audio Designs "The Hooligan" is a simple, versatile fuzz pedal with a range of sounds and a fine-tuned, musical response.
 
 ## Colorways
 - No specific factory colorway information was established in the verified evidence packet.
@@ -37,3 +38,27 @@ Designed in collaboration with Paul Trombetta, this "Tour Series" version of the
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+J Rockett Hooligan Fuzz Pedal - NOS - Willcutt Guitars Rockett Audio Designs "The Hooligan" is a simple, versatile fuzz pedal with a range of sounds and a fine-tuned, musical response.
+
+### Verified color/finish evidence
+- J Rockett Hooligan Fuzz Pedal - NOS - Willcutt Guitars - No specific factory colorway information was established in the verified evidence packet.
+
+### Verified version references
+- The evidence references: V2, revision.
+
+### Verified sound evidence
+Rockett Audio Designs - **Catalog type:** Fuzz - **Identity:** J.
+Rockett Audio Designs's Hooligan Fuzz.
+J Rockett Hooligan Fuzz Pedal - NOS - Willcutt Guitars - No specific factory colorway information was established in the verified evidence packet.
+
+### Sources checked in this pass
+1. J. Rockett Audio Designs Unveils the Hooligan Fuzz - Premier Guitar: https://www.premierguitar.com/j-rockett-audio-designs-unveils-the-hooligan-fuzz
+2. J. Rockett The Hooligan Fuzz Pedal - Reverb: https://reverb.com/p/j-rockett-the-hooligan-fuzz
+3. J Rockett Hooligan Fuzz Pedal - NOS - Willcutt Guitars: https://willcuttguitars.com/products/j-rockett-hooligan-fuzz-pedal
+4. Home - J. Rockett Audio Designs: https://rockettpedals.com/

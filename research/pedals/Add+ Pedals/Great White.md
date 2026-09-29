@@ -30,10 +30,33 @@ Add+ Pedals's Great White is cataloged in the archive as a Overdrive pedal.
 
 ## Sound
 
-No verified pedal-specific sonic summary is currently established in the archive.
+Add+ Pedals's Great White is cataloged in the archive as a Overdrive pedal.
+
+Previous Next ADD+ Analog Delay ADD+ Tremolo ADD+ Distortion ADD+ Envelope Filter ADD+ TubeDrive Adres Halitziya Bul.
 
 ## Sources checked
 1. Add+ Great White | Effects Database: https://www.effectsdatabase.com/model/addplus/greatwhite
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Add+ Pedals's Great White is cataloged in the archive as a Overdrive pedal.
+
+### Verified color/finish evidence
+- Add+ Pedals's Great White is cataloged in the archive as a Overdrive pedal.
+
+### Verified version references
+- The evidence references: V1, V2, revision.
+
+### Verified sound evidence
+Add+ Pedals's Great White is cataloged in the archive as a Overdrive pedal.
+Previous Next ADD+ Analog Delay ADD+ Tremolo ADD+ Distortion ADD+ Envelope Filter ADD+ TubeDrive Adres Halitziya Bul.
+
+### Sources checked in this pass
+1. Add+ Great White | Effects Database: https://www.effectsdatabase.com/model/addplus/greatwhite
+2. ADDPLUS PEDALS: https://addpluspedals.com/custom_shop.php

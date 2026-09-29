@@ -1,14 +1,24 @@
 {
   "builder": "Lovepedal / Love Pedal",
   "pedal": "Mosferatu",
+  "original_builder": "Lovepedal / Love Pedal",
+  "original_pedal": "Mosferatu",
   "status": "VERIFIED_EVIDENCE_STAGED",
-  "independent_exact_source_count": 1,
+  "independent_exact_source_count": 2,
   "sources": [
+    {
+      "url": "https://www.effectsdatabase.com/model/lovepedal/mosferatu",
+      "title": "catalog/override source",
+      "h1": "Lovepedal / Love Pedal \u2014 Mosferatu",
+      "excerpt": "- **Archive parent:** Mosferatu\n- **Builder:** Lovepedal / Love Pedal\n- **Catalog type:** Overdrive\n- **Identity:** Lovepedal / Hermida Mosferatu.\n\nMosferatu is a Lovepedal/Hermida overdrive designed for smooth, dynamic drive with enough gain for thicker saturation.\n\n- Multiple small-batch versions exist.\n- No complete numbered production chronology was established.\n\n- Exact production semiconductor details were not established.\n\n- Exact clipping-device information was not established.\n\nResponsive low-to-medium gain overdrive with strong guitar-volume cleanup.\n\n1. Lovepedal - History: https://www.lovepedal.com/history/\n2. Effects Database - Lovepedal Mosferatu: https://www.effectsdatabase.com/model/lovepedal/mosferatu\n\n- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.",
+      "host": "www.effectsdatabase.com",
+      "source_kind": "effects_database"
+    },
     {
       "url": "https://www.lovepedal.com/",
       "title": "Love Pedal",
       "h1": "Lovepedal / Love Pedal \u2014 Mosferatu",
-      "excerpt": "Love Pedal Home Pedals Press Videos Custom History Contact See What\u2019s New Click for details. Watch a Video Click for details. Custom Shop Click for details. Love Pedal News Click for details. TCHULA 200lbs PURPLE PLEXI ETERNITY BURST HERMIDA ZENDRIVE DOVER DRIVE AMP ELEVEN RUBBER CHICKEN HERMIDA EPH3 &copy; All rights reserved 2026 LOVEPEDAL L.L.C. Home Pedals Press Contact Privacy Policy Terms of Service\n- **Builder:** Lovepedal / Love Pedal\n- **Pedal:** Mosferatu\n- **Catalog type:** Overdrive\n- **Research level:** Surface\n- **Deep research status:** Pending\n- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.\n\nThe Dirt Archive currently catalogs **Mosferatu** by **Lovepedal / Love Pedal** as a **Overdrive** pedal. This statement is limited to the archive\u2019s catalog classification. Deeper technical, historical, and sonic details remain pending verification.\n\n- Catalog source page on file: https://lovepedal.com/\n\n- **Archive photo:** No verified local photo is currently archived.\n- Photo provenance and validation are handled separately from this surface research record.\n\n- **Status:** Pending\n- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive\u2019s research foreman.",
+      "excerpt": "Love Pedal Home Pedals Press Videos Custom History Contact See What\u2019s New Click for details. Watch a Video Click for details. Custom Shop Click for details. Love Pedal News Click for details. TCHULA 200lbs PURPLE PLEXI ETERNITY BURST HERMIDA ZENDRIVE DOVER DRIVE AMP ELEVEN RUBBER CHICKEN HERMIDA EPH3 &copy; All rights reserved 2026 LOVEPEDAL L.L.C. Home Pedals Press Contact Privacy Policy Terms of Service\n- **Builder:** Lovepedal / Love Pedal\n- **Pedal:** Mosferatu\n- **Catalog type:** Overdrive\n- **Research level:** Surface\n- **Deep research status:** Pending\n- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.\n\nThe Dirt Archive currently catalogs **Mosferatu** by **Lovepedal / Love Pedal** as a **Overdrive** pedal. This statement is limited to the archive\u2019s catalog classification. Deeper technical, historical, and sonic details remain pending verification.\n\n- Catalog source page on file: https://lovepedal.com/\n\n- **Archive photo:** No verified local photo is currently archived.\n- Photo provenance and validation are handled separately from this surface research record.\n\n- **Status:** Pending\n- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive\u2019s research foreman.\n- **Archive parent:** Mosferatu\n- **Builder:** Lovepedal / Love Pedal\n- **Catalog type:** Overdrive\n- **Identity:** Lovepedal / Hermida Mosferatu.\n\nMosferatu is a Lovepedal/Hermida overdrive designed for smooth, dynamic drive with enough gain for thicker saturation.\n\n- Multiple small-batch versions exist.\n- No complete numbered production chronology was established.\n\n- Exact production semiconductor details were not established.\n\n- Exact clipping-device information was not established.\n\nResponsive low-to-medium gain overdrive with strong guitar-volume cleanup.\n\n1. Lovepedal - History: https://www.lovepedal.com/history/\n2. Effects Database - Lovepedal Mosferatu: https://www.effectsdatabase.com/model/lovepedal/mosferatu\n\n- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.",
       "host": "www.lovepedal.com",
       "source_kind": "catalog_verified"
     }

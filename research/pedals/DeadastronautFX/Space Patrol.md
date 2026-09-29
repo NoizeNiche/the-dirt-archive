@@ -27,7 +27,11 @@ DeadastronautFX's Space Patrol is cataloged as a Fuzz pedal.
 
 ## Sound
 
-No verified pedal-specific sonic summary is currently established in the archive.
+DeadastronautFX's Space Patrol is cataloged as a Fuzz pedal.
+
+Space patrol fuzz by deadastronautfx: https://deadastronaut.wixsite.com/effects/spacepatrolfuzz 2.
+
+DEADASTRONAUTFX SPACE PATROL FUZZ - Reverb: https://reverb.com/item/75744147-deadastronautfx-space-patrol-fuzz 3.
 
 ## Sources checked
 1. Space patrol fuzz by deadastronautfx: https://deadastronaut.wixsite.com/effects/spacepatrolfuzz
@@ -53,3 +57,27 @@ here's a pic of mine: http://johnkvintageguitars.homestead.com/Effects/Fuzz-ODs/
 1. Space patrol fuzz by deadastronautfx: https://deadastronaut.wixsite.com/effects/spacepatrolfuzz
 2. DEADASTRONAUTFX SPACE PATROL FUZZ - Reverb: https://reverb.com/item/75744147-deadastronautfx-space-patrol-fuzz
 3. Guitar FX Layouts: DeadAstronautFX Space Patrol Fuzz: https://tagboardeffects.blogspot.com/2017/01/deadastronautfx-space-patrol-fuzz.html
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+DeadastronautFX's Space Patrol is cataloged as a Fuzz pedal.
+
+### Verified color/finish evidence
+- No specific factory colorway information was established in the verified evidence packet.
+
+### Verified version references
+- The evidence references: revision, v9.
+
+### Verified sound evidence
+DeadastronautFX's Space Patrol is cataloged as a Fuzz pedal.
+Space patrol fuzz by deadastronautfx: https://deadastronaut.wixsite.com/effects/spacepatrolfuzz 2.
+DEADASTRONAUTFX SPACE PATROL FUZZ - Reverb: https://reverb.com/item/75744147-deadastronautfx-space-patrol-fuzz 3.
+
+### Sources checked in this pass
+1. Space patrol fuzz by deadastronautfx: https://deadastronaut.wixsite.com/effects/spacepatrolfuzz
+2. DEADASTRONAUTFX SPACE PATROL FUZZ - Reverb: https://reverb.com/item/75744147-deadastronautfx-space-patrol-fuzz
+3. Guitar FX Layouts: DeadAstronautFX Space Patrol Fuzz: https://tagboardeffects.blogspot.com/2017/01/deadastronautfx-space-patrol-fuzz.html
+4. DeadastronautFX — Space Patrol: http://johnkvintageguitars.homestead.com/Effects/Fuzz-ODs/DeadAstronaut/SpacePatrolFuzz-01.jpg

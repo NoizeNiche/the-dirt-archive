@@ -1,22 +1,24 @@
 {
   "builder": "JHS Pedals",
   "pedal": "Colour Box V2",
+  "original_builder": "JHS Pedals",
+  "original_pedal": "Colour Box V2",
   "status": "VERIFIED_EVIDENCE_STAGED",
   "independent_exact_source_count": 2,
   "sources": [
     {
       "url": "https://reverb.com/item/37160411-jhs-pedals-colour-box-v2-recording-console-pedal",
       "title": "JHS Pedals Colour Box V2 Recording Console Pedal - Reverb",
-      "h1": "",
-      "excerpt": "",
+      "h1": "JHS Pedals \u2014 Colour Box V2",
+      "excerpt": "- **Archive parent:** Colour Box V2\n- **Builder:** JHS Pedals\n- **Catalog type:** Distortion / Fuzz\n- **Identity:** JHS Pedals's Colour Box V2.\n\nJHS Pedals's Colour Box V2 is cataloged as a distortion / fuzz pedal.\n\n- No specific factory colorway information was established in the verified evidence packet.\n\n- The verified evidence references: V2.\n- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.\n\n- No specific factory version changes were established in the verified evidence packet.\n\n- Exact production transistor/device information was not established in the verified evidence packet.\n- **Exact transistor/device:** Unknown.\n\n- Exact production clipping/rectifier diode information was not established in the verified evidence packet.\n- **Exact part:** Unknown.\n\nThe verified evidence packet did not contain enough pedal-specific sonic description to make a more detailed sound summary without adding unsupported interpretation.\n\n1. JHS Pedals Colour Box V2 Recording Console Pedal - Reverb: https://reverb.com/item/37160411-jhs-pedals-colour-box-v2-recording-console-pedal\n2. JHS Colour Box V2 \u2014 Guitar Preamp Pedal | Equipboard: https://equipboard.com/items/jhs-pedals-colour-box-v2-preamp-pedal\n\n- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.",
       "host": "reverb.com",
       "source_kind": "reverb"
     },
     {
       "url": "https://equipboard.com/items/jhs-pedals-colour-box-v2-preamp-pedal",
       "title": "JHS Colour Box V2 \u2014 Guitar Preamp Pedal | Equipboard",
-      "h1": "",
-      "excerpt": "",
+      "h1": "JHS Pedals \u2014 Colour Box V2",
+      "excerpt": "- **Archive parent:** Colour Box V2\n- **Builder:** JHS Pedals\n- **Catalog type:** Distortion / Fuzz\n- **Identity:** JHS Pedals's Colour Box V2.\n\nJHS Pedals's Colour Box V2 is cataloged as a distortion / fuzz pedal.\n\n- No specific factory colorway information was established in the verified evidence packet.\n\n- The verified evidence references: V2.\n- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.\n\n- No specific factory version changes were established in the verified evidence packet.\n\n- Exact production transistor/device information was not established in the verified evidence packet.\n- **Exact transistor/device:** Unknown.\n\n- Exact production clipping/rectifier diode information was not established in the verified evidence packet.\n- **Exact part:** Unknown.\n\nThe verified evidence packet did not contain enough pedal-specific sonic description to make a more detailed sound summary without adding unsupported interpretation.\n\n1. JHS Pedals Colour Box V2 Recording Console Pedal - Reverb: https://reverb.com/item/37160411-jhs-pedals-colour-box-v2-recording-console-pedal\n2. JHS Colour Box V2 \u2014 Guitar Preamp Pedal | Equipboard: https://equipboard.com/items/jhs-pedals-colour-box-v2-preamp-pedal\n\n- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.",
       "host": "equipboard.com",
       "source_kind": "other"
     }

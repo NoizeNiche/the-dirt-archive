@@ -7,7 +7,8 @@
 - **Identity:** Skreddy Pedals's Rubber Soul.
 
 ## What this pedal is
-Skreddy Pedals’ Rubber Soul is a Fab Four-inspired preamp stompbox
+
+Skreddy Pedals’ Rubber Soul is a Fab Four-inspired preamp stompbox - No specific factory colorway information was established in the verified evidence packet.
 
 ## Colorways
 - No specific factory colorway information was established in the verified evidence packet.
@@ -41,3 +42,35 @@ The circuit is plenty bright enough without adding top boost.
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Skreddy Pedals’ Rubber Soul is a Fab Four-inspired preamp stompbox - No specific factory colorway information was established in the verified evidence packet.
+
+### Verified color/finish evidence
+- Skreddy Pedals’ Rubber Soul is a Fab Four-inspired preamp stompbox - No specific factory colorway information was established in the verified evidence packet.
+
+### Verified version references
+- The evidence references: V1, revision.
+
+### Verified transistor/device terms
+- AC30, BC109, BC239.
+
+### Verified diode terms
+- 1N914.
+
+### Verified sound evidence
+Manual Goes from pristine clean to hot and jangly to smoky, slightly ragged overdrive, with a 2-band eq that is voiced just right.
+So you get the cutting presence of the bright channel but with a bit of the beef and fullness of the normal channel added in--just not so much that it turns to mud at high gain.
+The circuit is plenty bright enough without adding top boost.
+
+### Sources checked in this pass
+1. Overdrive | Rubber Soul | Skreddy Pedals: https://skreddypedals.com/rubber-soul
+2. Skreddy Pedals Releases The Rubber Soul: A Deep Dive Into Its Circuit Design, Bass-Specific Voicing, and Rhythm Section Integration | GearStrings: https://gearstrings.com/bass/skreddy-pedals-releases-the-rubber-soul
+3. Skreddy Pedals Rubber Soul - Reverb: https://reverb.com/item/25069735-skreddy-pedals-rubber-soul
+4. Skreddy Pedals’ Rubber Soul is a Fab Four-inspired preamp stompbox | Guitar.com: https://guitar.com/news/gear-news/skreddy-pedals-rubber-soul-is-a-fab-four-inspired-preamp-stompbox/
+5. Rubber Soul by Skreddy Pedals | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/Skreddy-Pedals/Rubber-Soul/68984295/
+6. Skreddy Pedals Rubber Soul | Effects Database: https://www.effectsdatabase.com/model/skreddy/rubbersoul

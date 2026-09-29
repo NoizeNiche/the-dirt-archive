@@ -7,7 +7,8 @@
 - **Identity:** KHDK Electronics's Ascendancy.
 
 ## What this pedal is
-Matt Heafy and Corey Beaulieu of Trivium limited edition signature overdrive pedal
+
+Khdk Ascendancy Overdrive Pedal - MUSENV: https://azp.wastefreeholidays.com/khdk-ascendancy-overdrive-pedal/ - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
 
 ## Colorways
 - No specific factory colorway information was established in the verified evidence packet.
@@ -39,3 +40,28 @@ Matt Heafy and Corey Beaulieu of Trivium limited edition signature overdrive ped
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Khdk Ascendancy Overdrive Pedal - MUSENV: https://azp.wastefreeholidays.com/khdk-ascendancy-overdrive-pedal/ - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+### Verified color/finish evidence
+- Matt Heafy and Corey Beaulieu of Trivium limited edition signature overdrive pedal - No specific factory colorway information was established in the verified evidence packet.
+
+### Verified version references
+- The evidence references: revision.
+
+### Verified sound evidence
+Explore Infernal Drive by Michael Amott Arch Enemy's legend unlocks his tone.
+Explore LCFR: The Second Coming More diabolical than ever Explore Night of the Living Shred by Zacky Vengeance High Gain Preamp / Zacky Vengeance / Long Live the Zombies Explore Shred II by Bernth Brodtrager Shred is Back.
+design by Mato Misik - **Archive parent:** Ascendancy - **Builder:** KHDK Electronics - **Catalog type:** Fuzz - **Identity:** KHDK Electronics's Ascendancy.
+
+### Sources checked in this pass
+1. Ascendancy guitar pedal by KHDK with Trivium | KHDK Electronics: https://www.khdkelectronics.com/products/detail/ascendancy-by-trivium/
+2. KHDK Electronics Ascendancy by Trivium - Reverb: https://reverb.com/p/khdk-electronics-ascendancy-by-trivium
+3. KHDK Electronics Ascendancy | Matt Heafy and Corey Beaulieu of Trivium limited edition signature overdrive pedal | 78 of 333 | riccio: https://riccio.io/emporium-underground/p/khdk-ascendancy-78
+4. KHDK unveils the Ascendancy &ndash; a limited edition Trivium signature overdrive pedal | MusicRadar: https://www.musicradar.com/news/KHDK-Trivium-Ascendancy-overdrive
+5. Khdk Ascendancy Overdrive Pedal - MUSENV: https://azp.wastefreeholidays.com/khdk-ascendancy-overdrive-pedal/

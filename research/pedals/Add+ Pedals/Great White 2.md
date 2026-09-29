@@ -30,10 +30,34 @@ Add+ Pedals's Great White 2 is cataloged in the archive as a Overdrive pedal.
 
 ## Sound
 
-No verified pedal-specific sonic summary is currently established in the archive.
+Add+ Pedals's Great White 2 is cataloged in the archive as a Overdrive pedal.
+
+**Archive parent:** Great White 2 - **Builder:** Add+ Pedals - **Catalog type:** Overdrive - **Identity:** Add+ Pedals's Great White 2.
 
 ## Sources checked
 1. Add+ Great White 2 | Effects Database: https://www.effectsdatabase.com/model/addplus/greatwhite/2
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Add+ Pedals's Great White 2 is cataloged in the archive as a Overdrive pedal.
+
+### Verified color/finish evidence
+- Add+ Pedals's Great White 2 is cataloged in the archive as a Overdrive pedal.
+- **Archive parent:** Great White 2 - **Builder:** Add+ Pedals - **Catalog type:** Overdrive - **Identity:** Add+ Pedals's Great White 2.
+
+### Verified version references
+- The evidence references: revision.
+
+### Verified sound evidence
+Add+ Pedals's Great White 2 is cataloged in the archive as a Overdrive pedal.
+**Archive parent:** Great White 2 - **Builder:** Add+ Pedals - **Catalog type:** Overdrive - **Identity:** Add+ Pedals's Great White 2.
+
+### Sources checked in this pass
+1. Add+ Great White 2 | Effects Database: https://www.effectsdatabase.com/model/addplus/greatwhite/2
+2. catalog/override source: https://reverb.com/p/ta-pedals-great-white-distortion

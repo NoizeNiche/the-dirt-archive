@@ -28,7 +28,11 @@ Daredevil Pedals's Logan Square Destroyer is cataloged as a Fuzz pedal.
 
 ## Sound
 
-No verified pedal-specific sonic summary is currently established in the archive.
+**Archive parent:** Logan Square Destroyer - **Builder:** Daredevil Pedals - **Catalog type:** Fuzz - **Identity:** Daredevil Pedals's Logan Square Destroyer.
+
+Daredevil Pedals's Logan Square Destroyer is cataloged as a Fuzz pedal.
+
+Daredevil Pedals LSD Logan Square Destroyer Fuzz V2 Effects Pedal
 
 ## Sources checked
 1. Daredevil Pedals LSD (Logan Square Destroyer) - Equipboard: https://equipboard.com/items/daredevil-pedals-lsd-logan-square-destroyer
@@ -57,6 +61,31 @@ Logan Square Destroyer Published on March 11, 2013 Daredevil Pedals fuzz pedal I
 Daredevil Pedals LSD Logan Square Destroyer Fuzz V2 Effects Pedal
 Logan Square Destroyer Published on March 11, 2013 Daredevil Pedals fuzz pedal Information Daredevil Pedals The Logan Square Destroyer, a perfect blend of raw 60's type fuzz and heavy modern doom.
 This is a very versatile pedal, the gain and level knobs interact to allow many different tonal options.
+
+### Sources checked in this pass
+1. Daredevil Pedals LSD (Logan Square Destroyer) - Equipboard: https://equipboard.com/items/daredevil-pedals-lsd-logan-square-destroyer
+2. Daredevil Pedals LSD Logan Square Destroyer Fuzz V2 Effects Pedal | Guitar Center: https://www.guitarcenter.com/Daredevil-Pedals/LSD-Logan-Square-Destroyer-Fuzz-V2-Effects-Pedal-1500000216927.gc
+3. Daredevil Pedals L.S.D. - Logan Square Destroyer | Effects Database: https://www.effectsdatabase.com/model/daredevil/lsd
+4. Daredevil Pedals Logan Square Destroyer - www.refinemusicshop.com: https://www.refinemusicshop.com/product/daredevil-pedals-logan-square-destroyer/
+5. Used Daredevil Pedals LSD - Logan Square Destroyer Fuzz: https://www.sweetwater.com/used/listings/455773-used-daredevil-pedals-lsd-logan-square-destroyer-fuzz
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Daredevil Pedals's Logan Square Destroyer is cataloged as a Fuzz pedal.
+
+### Verified color/finish evidence
+- Logan Square Destroyer Published on March 11, 2013 Daredevil Pedals fuzz pedal Information Daredevil Pedals The Logan Square Destroyer, a perfect blend of raw 60's type fuzz and heavy modern doom.
+
+### Verified version references
+- The evidence references: V2, revision.
+
+### Verified sound evidence
+**Archive parent:** Logan Square Destroyer - **Builder:** Daredevil Pedals - **Catalog type:** Fuzz - **Identity:** Daredevil Pedals's Logan Square Destroyer.
+Daredevil Pedals's Logan Square Destroyer is cataloged as a Fuzz pedal.
+Daredevil Pedals LSD Logan Square Destroyer Fuzz V2 Effects Pedal
 
 ### Sources checked in this pass
 1. Daredevil Pedals LSD (Logan Square Destroyer) - Equipboard: https://equipboard.com/items/daredevil-pedals-lsd-logan-square-destroyer

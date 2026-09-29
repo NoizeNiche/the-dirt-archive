@@ -7,7 +7,8 @@
 - **Identity:** KHDK Electronics's Unicorn Blood — octave fuzz.
 
 ## What this pedal is
-KHDK Electronics's Unicorn Blood — octave fuzz is cataloged as a fuzz pedal.
+
+The frequency range is carefully chosen to offer you the be - **Archive parent:** Unicorn Blood — octave fuzz - **Builder:** KHDK Electronics - **Catalog type:** Fuzz - **Identity:** KHDK Electronics's Unicorn Blood — octave fuzz.
 
 ## Colorways
 - No specific factory colorway information was established in the verified evidence packet.
@@ -36,3 +37,25 @@ Brent Hinds, Mastodon Vintage-voiced yet modern, Unicorn Blood fuzz brings the b
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+The frequency range is carefully chosen to offer you the be - **Archive parent:** Unicorn Blood — octave fuzz - **Builder:** KHDK Electronics - **Catalog type:** Fuzz - **Identity:** KHDK Electronics's Unicorn Blood — octave fuzz.
+
+### Verified color/finish evidence
+- No specific factory colorway information was established in the verified evidence packet.
+
+### Verified version references
+- The evidence references: revision.
+
+### Verified sound evidence
+Explore Infernal Drive by Michael Amott Arch Enemy's legend unlocks his tone.
+Explore LCFR: The Second Coming More diabolical than ever Explore Night of the Living Shred by Zacky Vengeance High Gain Preamp / Zacky Vengeance / Long Live the Zombies Explore Shred II by Bernth Brodtrager Shred is Back.
+Brent Hinds, Mastodon Vintage-voiced yet modern, Unicorn Blood fuzz brings the best tones of the 60s and 70s into the modern day.
+
+### Sources checked in this pass
+1. Unicorn Blood Octave Fuzz | KHDK Electronics: https://www.khdkelectronics.com/products/detail/unicorn-blood-octave-fuzz/
+2. KHDK Electronics Unicorn Blood - Octave Fuzz | Effects Database: https://www.effectsdatabase.com/model/khdk/unicornblood

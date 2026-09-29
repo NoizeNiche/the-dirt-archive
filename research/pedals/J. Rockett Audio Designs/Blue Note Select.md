@@ -8,6 +8,8 @@
 
 ## What this pedal is
 
+Rockett Audio Designs Blue Note Select Boost/Overdrive Pedal ...: https://www.sweetwater.com/store/detail/BlueNoteODSel--j-rockett-audio-designs-blue-note-select-boost-overdrive-pedal - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
 ## Colorways
 - The original Blue Note Pro Series was the first and that included the “Hot” switch.
 - The newest Blue Note Select not only includes the”hot” switch but also includes major improvements to the looks, the sound and the overall feel, all in a very small package.
@@ -37,3 +39,28 @@ This could be our best overall low gain drive.
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Rockett Audio Designs Blue Note Select Boost/Overdrive Pedal ...: https://www.sweetwater.com/store/detail/BlueNoteODSel--j-rockett-audio-designs-blue-note-select-boost-overdrive-pedal - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+### Verified color/finish evidence
+- **Archive parent:** Blue Note Select - **Builder:** J.
+- Rockett Audio Designs's Blue Note Select.
+- The original Blue Note Pro Series was the first and that included the “Hot” switch.
+
+### Verified version references
+- The evidence references: V2, revision.
+
+### Verified sound evidence
+Rockett Audio Designs - **Catalog type:** Overdrive - **Identity:** J.
+This could be our best overall low gain drive.
+J Rockett Audio Designs Blue Note Select — Overdrive Pedal: https://equipboard.com/items/j-rockett-audio-designs-j-rockett-audio-designs-blue-note-select-boost-overdrive-pedal 2.
+
+### Sources checked in this pass
+1. J Rockett Audio Designs Blue Note Select — Overdrive Pedal: https://equipboard.com/items/j-rockett-audio-designs-j-rockett-audio-designs-blue-note-select-boost-overdrive-pedal
+2. Blue Note Select by J. Rockett Audio Designs | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/J-Rockett-Audio-Designs/Blue-Note-Select/517387057/
+3. J. Rockett Audio Designs Blue Note Select Boost/Overdrive Pedal ...: https://www.sweetwater.com/store/detail/BlueNoteODSel--j-rockett-audio-designs-blue-note-select-boost-overdrive-pedal

@@ -27,6 +27,12 @@ Greenhouse Effects's Nobrainer is cataloged as a Distortion pedal.
 
 ## Sound
 
+Greenhouse Effects's Nobrainer is cataloged as a Distortion pedal.
+
+NOBRAINER / DISTORTION — GREENHOUSE EFFECTS: https://www.gheffects.com/pedals/p/nobrainer 2.
+
+**Archive parent:** Nobrainer - **Builder:** Greenhouse Effects - **Catalog type:** Distortion - **Identity:** Greenhouse Effects's Nobrainer.
+
 ## Sources checked
 1. NOBRAINER / DISTORTION — GREENHOUSE EFFECTS: https://www.gheffects.com/pedals/p/nobrainer
 2. Greenhouse Effects Nobrainer - Reverb: https://reverb.com/p/greenhouse-effects-nobrainer
@@ -36,3 +42,28 @@ Greenhouse Effects's Nobrainer is cataloged as a Distortion pedal.
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Greenhouse Effects's Nobrainer is cataloged as a Distortion pedal.
+
+### Verified color/finish evidence
+- No specific factory colorway information was established in the verified evidence packet.
+
+### Verified version references
+- The evidence references: revision.
+
+### Verified sound evidence
+Greenhouse Effects's Nobrainer is cataloged as a Distortion pedal.
+NOBRAINER / DISTORTION — GREENHOUSE EFFECTS: https://www.gheffects.com/pedals/p/nobrainer 2.
+**Archive parent:** Nobrainer - **Builder:** Greenhouse Effects - **Catalog type:** Distortion - **Identity:** Greenhouse Effects's Nobrainer.
+
+### Sources checked in this pass
+1. NOBRAINER / DISTORTION &mdash; GREENHOUSE EFFECTS: https://www.gheffects.com/pedals/p/nobrainer
+2. Greenhouse Effects Nobrainer - Reverb: https://reverb.com/p/greenhouse-effects-nobrainer
+3. Greenhouse Effects Nobrainer: https://www.effectsdatabase.com/model/greenhouse/27club/nobrainer
+4. Greenhouse Effects Nobrainer - What To Know Where To Buy: https://equipboard.com/items/greenhouse-nobrainer
+5. Greenhouse Effects Nobrainer - www.musicalgearmarket.com: https://www.musicalgearmarket.com/product/greenhouse-effects-nobrainer/

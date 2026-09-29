@@ -26,7 +26,12 @@ JPTR FX Warlow – Boutique Big Muff Fuzz Pedal
 - **Exact part:** Unknown.
 
 ## Sound
+
 JPTR FX Warlow – Boutique Big Muff Fuzz Pedal
+
+JPTR FX Warlow – Boutique Big Muff Fuzz Pedal - No specific factory colorway information was established in the verified evidence packet.
+
+JPTR FX Warlow – Boutique Big Muff Fuzz Pedal 1.
 
 ## Sources checked
 1. JPTR FX Warlow – Boutique Big Muff Fuzz Pedal | Handmade in Germany: https://jptrfx.com/products/jptr-fx-warlow-fuzz-monstrosity
@@ -34,3 +39,25 @@ JPTR FX Warlow – Boutique Big Muff Fuzz Pedal
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+JPTR FX Warlow - Fuzz monstrosity - Reverb: https://reverb.com/item/39478162-jptr-fx-warlow-fuzz-monstrosity - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+### Verified color/finish evidence
+- JPTR FX Warlow – Boutique Big Muff Fuzz Pedal - No specific factory colorway information was established in the verified evidence packet.
+
+### Verified version references
+- The evidence references: revision.
+
+### Verified sound evidence
+JPTR FX Warlow – Boutique Big Muff Fuzz Pedal
+JPTR FX Warlow – Boutique Big Muff Fuzz Pedal - No specific factory colorway information was established in the verified evidence packet.
+JPTR FX Warlow – Boutique Big Muff Fuzz Pedal 1.
+
+### Sources checked in this pass
+1. JPTR FX Warlow – Boutique Big Muff Fuzz Pedal | Handmade in Germany: https://jptrfx.com/products/jptr-fx-warlow-fuzz-monstrosity
+2. JPTR FX Warlow - Fuzz monstrosity - Reverb: https://reverb.com/item/39478162-jptr-fx-warlow-fuzz-monstrosity

@@ -55,3 +55,29 @@ This pass combines an exact-model Reverb record, an exact-model equipment-histor
 ## Photo
 - **Archive status:** An exact local product image is already archived for this model.
 - This pass does not replace the existing image asset.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+The Hot-British V9 is the solid-state successor to the earlier **Tonebone Hot British** distortion.
+
+### Verified color/finish evidence
+- The V9 is treated as a distinct solid-state generation rather than merely a colorway of the earlier tube-oriented unit.
+
+### Verified version references
+- The evidence references: V1, V2, V9, v9.
+
+### Verified sound evidence
+**Archive parent:** Hot-British V9 - **Builder:** Radial Engineering / Tonebone - **Catalog type:** Distortion - **Identity:** Radial Tonebone Hot-British V9.
+The Hot-British V9 is the solid-state successor to the earlier **Tonebone Hot British** distortion.
+The V9 is described as a **Plexi-style distortion** with three gain stages, a Class A input buffer, and extensive post-distortion EQ controls.
+
+### Sources checked in this pass
+1. catalog/override source: https://reverb.com/p/radial-tonebone-hot-british-v9-distortion
+2. Radial | Tonebone Hot-British V9 - Sugaree Licks: https://sugareelicks.com/pedal/radial-tonebone-hot-british-v9/
+3. Sweetwater Website Link: https://www.sweetwater.com/store/detail/HotBritishV9--radial-tonebone-hot-british-v9-high-gain-plexi-style-distortion-pedal-with-eq?mrkgcl=28&
+4. Hot-British V9 - Radial Engineering: https://www.radialeng.com/product/hot-british-v9
+5. catalog/override source: https://www.effectsdatabase.com/model/radial/tonebone/hotbritish/v9
+6. Radial Tonebone Hot British V9 High Gain Distortion Pedal: https://www.zzounds.com/item--RADHOTBRITV9

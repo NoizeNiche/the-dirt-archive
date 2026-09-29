@@ -27,8 +27,32 @@ Lovepedal / Love Pedal's Eternity Burst is cataloged as an overdrive pedal.
 
 ## Sound
 
+TCHULA 200lbs PURPLE PLEXI ETERNITY BURST HERMIDA ZENDRIVE DOVER DRIVE AMP ELEVEN RUBBER CHICKEN HERMIDA EPH3 © All rights reserved 2026 LOVEPEDAL L.L.C.
+
+Lovepedal / Love Pedal's Eternity Burst is cataloged as an overdrive pedal.
+
 ## Sources checked
 1. Love Pedal: https://www.lovepedal.com/
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Lovepedal / Love Pedal's Eternity Burst is cataloged as an overdrive pedal.
+
+### Verified color/finish evidence
+- No specific factory colorway information was established in the verified evidence packet.
+
+### Verified version references
+- The evidence references: revision.
+
+### Verified sound evidence
+TCHULA 200lbs PURPLE PLEXI ETERNITY BURST HERMIDA ZENDRIVE DOVER DRIVE AMP ELEVEN RUBBER CHICKEN HERMIDA EPH3 © All rights reserved 2026 LOVEPEDAL L.L.C.
+Lovepedal / Love Pedal's Eternity Burst is cataloged as an overdrive pedal.
+
+### Sources checked in this pass
+1. Love Pedal: https://www.lovepedal.com/

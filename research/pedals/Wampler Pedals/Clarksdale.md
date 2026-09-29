@@ -27,7 +27,11 @@ This historic town, and the famous music that was created there, is responsible 
 
 ## Sound
 
-No verified pedal-specific sonic summary is currently established in the archive.
+This historic town, and the famous music that was created there, is responsible for the inspiration behind this pedal - The Clarksdale Overdrive.
+
+not by manufacturer Date ▼▲ Maker ▼▲ Video ▼▲ Time ▼▲ 2017-03-01 Sam Ash Wampler Clarksdale Delta Overdrive Guitar Effects Pedal
+
+Everything You Need To Know 5:31 2015-12-26 Andertons "David vs Goliath" Overdrive Pedal Challenge - Boss SD1 vs Wampler Clarksdale Delta 9:33 2015-07-23 NstuffMusic Wampler Pedals Clarksdale Delta Overdrive
 
 ## Sources checked
 1. Clarksdale Overdrive | Wampler Pedals: https://www.wamplerpedals.com/products/discontinued/clarksdale/
@@ -50,6 +54,29 @@ This historic town, and the famous music that was created there, is responsible 
 Published on August 25, 2014 Wampler Pedals overdrive pedal Information Wampler Pedals At the crossroads of Highway 61 and Junction 49 lies the official crossroads of Clarksdale, Mississippi - the birthplace of the Delta Blues.
 This historic town, and the famous music that was created there, is responsible for the inspiration behind this pedal - The Clarksdale Overdrive.
 Brian wanted to create a pedal that would be true to the sound and feel of the original but would have a wider range of tonal options - to satisfy even the biggest tone chasers out there.
+
+### Sources checked in this pass
+1. Clarksdale Overdrive | Wampler Pedals: https://www.wamplerpedals.com/products/discontinued/clarksdale/
+2. Wampler Pedals Clarksdale - Delta Overdrive | Effects Database: https://www.effectsdatabase.com/model/wampler/clarksdale
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+This historic town, and the famous music that was created there, is responsible for the inspiration behind this pedal - The Clarksdale Overdrive.
+
+### Verified color/finish evidence
+- 2.5" x 4.5" in size (63.5mm x 114.3mm) 5 Year Warranty Powder coated durable finish Video all
+- 2.5" x 4.5" in size (63.5mm x 114.3mm) 5 Year Warranty Powder coated durable finish Video all Published on August 25, 2014 Wampler Pedals overdrive pedal Information Wampler Pedals At the crossroads of Highway 61 and Junction 49 lies the official crossroads of Clarksdale, Mississippi - the birthplace of the Delta Blue
+
+### Verified version references
+- The evidence references: revision.
+
+### Verified sound evidence
+This historic town, and the famous music that was created there, is responsible for the inspiration behind this pedal - The Clarksdale Overdrive.
+not by manufacturer Date ▼▲ Maker ▼▲ Video ▼▲ Time ▼▲ 2017-03-01 Sam Ash Wampler Clarksdale Delta Overdrive Guitar Effects Pedal
+Everything You Need To Know 5:31 2015-12-26 Andertons "David vs Goliath" Overdrive Pedal Challenge - Boss SD1 vs Wampler Clarksdale Delta 9:33 2015-07-23 NstuffMusic Wampler Pedals Clarksdale Delta Overdrive
 
 ### Sources checked in this pass
 1. Clarksdale Overdrive | Wampler Pedals: https://www.wamplerpedals.com/products/discontinued/clarksdale/

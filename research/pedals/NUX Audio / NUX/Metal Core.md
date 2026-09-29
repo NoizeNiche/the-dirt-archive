@@ -26,10 +26,36 @@ NUX Audio / NUX's Metal Core is cataloged as a distortion pedal.
 - **Exact part:** Unknown.
 
 ## Sound
+
 The Dirt Archive currently catalogs **Metal Core** by **NUX Audio / NUX** as a **Distortion** pedal.
+
+**Archive parent:** Metal Core - **Builder:** NUX Audio / NUX - **Catalog type:** Distortion - **Identity:** NUX Audio / NUX's Metal Core.
+
+NUX Audio / NUX's Metal Core is cataloged as a distortion pedal.
 
 ## Sources checked
 1. catalog/override source: https://www.effectsdatabase.com/model/nux/core/metalcore
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+NUX Audio / NUX's Metal Core is cataloged as a distortion pedal.
+
+### Verified color/finish evidence
+- No specific factory colorway information was established in the verified evidence packet.
+
+### Verified version references
+- The evidence references: revision.
+
+### Verified sound evidence
+The Dirt Archive currently catalogs **Metal Core** by **NUX Audio / NUX** as a **Distortion** pedal.
+**Archive parent:** Metal Core - **Builder:** NUX Audio / NUX - **Catalog type:** Distortion - **Identity:** NUX Audio / NUX's Metal Core.
+NUX Audio / NUX's Metal Core is cataloged as a distortion pedal.
+
+### Sources checked in this pass
+1. catalog/override source: https://www.effectsdatabase.com/model/nux/core/metalcore

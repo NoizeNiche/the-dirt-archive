@@ -27,10 +27,37 @@ Vick Audio's V2 Violet Ram is cataloged as a fuzz pedal.
 - **Exact part:** Unknown.
 
 ## Sound
+
 The Dirt Archive currently catalogs **V2 Violet Ram** by **Vick Audio** as a **Fuzz** pedal.
+
+**Archive parent:** V2 Violet Ram - **Builder:** Vick Audio - **Catalog type:** Fuzz - **Identity:** Vick Audio's V2 Violet Ram.
+
+Vick Audio's V2 Violet Ram is cataloged as a fuzz pedal.
 
 ## Sources checked
 1. catalog/override source: https://reverb.com/p/vick-audio-violet-rams-head-fuzz
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Vick Audio's V2 Violet Ram is cataloged as a fuzz pedal.
+
+### Verified color/finish evidence
+- No specific factory colorway information was established in the verified evidence packet.
+
+### Verified version references
+- The evidence references: V2, revision.
+
+### Verified sound evidence
+The Dirt Archive currently catalogs **V2 Violet Ram** by **Vick Audio** as a **Fuzz** pedal.
+**Archive parent:** V2 Violet Ram - **Builder:** Vick Audio - **Catalog type:** Fuzz - **Identity:** Vick Audio's V2 Violet Ram.
+Vick Audio's V2 Violet Ram is cataloged as a fuzz pedal.
+
+### Sources checked in this pass
+1. catalog/override source: https://reverb.com/p/vick-audio-violet-rams-head-fuzz
+2. catalog/override source: https://www.effectsdatabase.com/model/vickaudio/ramshead/violet

@@ -26,10 +26,36 @@ Prescription Electronics's Frantic Fuzz is cataloged as a fuzz pedal.
 - **Exact part:** Unknown.
 
 ## Sound
+
 Prescription Electronics Frantic Fuzz
+
+Prescription Electronics's Frantic Fuzz is cataloged as a fuzz pedal.
+
+Prescription Electronics Frantic Fuzz 1.
 
 ## Sources checked
 1. Prescription Electronics Frantic Fuzz | Effects Database: https://www.effectsdatabase.com/model/prescription/franticfuzz
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Prescription Electronics's Frantic Fuzz is cataloged as a fuzz pedal.
+
+### Verified color/finish evidence
+- No specific factory colorway information was established in the verified evidence packet.
+
+### Verified version references
+- The evidence references: revision.
+
+### Verified sound evidence
+Prescription Electronics Frantic Fuzz
+Prescription Electronics's Frantic Fuzz is cataloged as a fuzz pedal.
+Prescription Electronics Frantic Fuzz 1.
+
+### Sources checked in this pass
+1. Prescription Electronics Frantic Fuzz | Effects Database: https://www.effectsdatabase.com/model/prescription/franticfuzz

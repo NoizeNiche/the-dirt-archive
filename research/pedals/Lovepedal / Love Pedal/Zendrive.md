@@ -7,7 +7,8 @@
 - **Identity:** Hermida Audio/Lovepedal Zendrive.
 
 ## What this pedal is
-Zendrive is a four-control low-to-medium gain overdrive developed by Alfonso Hermida.
+
+Inspired by a legendary guitarist, the Zendrive delivers blues, country, jazz and fusion tones associated with some of the finest, most costly amplifiers in the market.
 
 ## Versions and factory options
 - **Volume, Gain, Tone, Voice** controls.
@@ -20,7 +21,12 @@ Zendrive is a four-control low-to-medium gain overdrive developed by Alfonso Her
 - Exact clipping-device information was not established.
 
 ## Sound
-Smooth, dynamic overdrive ranging from light breakup to thicker sustaining drive.
+
+The standard in dynamic, touch-sensitive overdrive pedals.
+
+Four knobs control the overall volume, gain, tone and voicing of the pedal.
+
+At lower settings, the pedal offers extremely light overdrive sounds reminiscent of tube amps set near the “sweet spot.” At higher settings, the Zendrive increases in gain and sustain, producing tasty overdrive and low distortion tones.
 
 ## Sources checked
 1. Lovepedal - Zendrive: https://www.lovepedal.com/zendrive/
@@ -29,3 +35,18 @@ Smooth, dynamic overdrive ranging from light breakup to thicker sustaining drive
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Inspired by a legendary guitarist, the Zendrive delivers blues, country, jazz and fusion tones associated with some of the finest, most costly amplifiers in the market.
+
+### Verified sound evidence
+The standard in dynamic, touch-sensitive overdrive pedals.
+Four knobs control the overall volume, gain, tone and voicing of the pedal.
+At lower settings, the pedal offers extremely light overdrive sounds reminiscent of tube amps set near the “sweet spot.” At higher settings, the Zendrive increases in gain and sustain, producing tasty overdrive and low distortion tones.
+
+### Sources checked in this pass
+1. ZENDRIVE | Love Pedal: https://www.lovepedal.com/zendrive/

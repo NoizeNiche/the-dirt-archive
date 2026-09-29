@@ -29,7 +29,11 @@ Fjord Fuzz's Gjallarhorn is cataloged in the archive as a Fuzz pedal.
 
 ## Sound
 
-No verified pedal-specific sonic summary is currently established in the archive.
+**Archive parent:** Gjallarhorn - **Builder:** Fjord Fuzz - **Catalog type:** Fuzz - **Identity:** Fjord Fuzz's Gjallarhorn.
+
+Fjord Fuzz's Gjallarhorn is cataloged in the archive as a Fuzz pedal.
+
+Fjord Fuzz Gjallarhorn 2019 - Reverb: https://reverb.com/item/31268215-fjord-fuzz-gjallarhorn-2019 2.
 
 ## Sources checked
 1. Fjord Fuzz Gjallarhorn 2019 - Reverb: https://reverb.com/item/31268215-fjord-fuzz-gjallarhorn-2019
@@ -39,3 +43,27 @@ No verified pedal-specific sonic summary is currently established in the archive
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Fjord Fuzz's Gjallarhorn is cataloged in the archive as a Fuzz pedal.
+
+### Verified color/finish evidence
+- No specific factory colorway information was established in the verified evidence packet.
+
+### Verified version references
+- The evidence references: revision, v4.
+
+### Verified sound evidence
+**Archive parent:** Gjallarhorn - **Builder:** Fjord Fuzz - **Catalog type:** Fuzz - **Identity:** Fjord Fuzz's Gjallarhorn.
+Fjord Fuzz's Gjallarhorn is cataloged in the archive as a Fuzz pedal.
+Fjord Fuzz Gjallarhorn 2019 - Reverb: https://reverb.com/item/31268215-fjord-fuzz-gjallarhorn-2019 2.
+
+### Sources checked in this pass
+1. Fjord Fuzz Gjallarhorn 2019 - Reverb: https://reverb.com/item/31268215-fjord-fuzz-gjallarhorn-2019
+2. Fjord Fuzz Gjallarhorn 2019 (for fuzz and/or motorpsycho lovers): https://www.talkbass.com/threads/fjord-fuzz-gjallarhorn-2019-for-fuzz-and-or-motorpsycho-lovers.1427305/
+3. Stream Fjord Fuzz GJALLARHORN on BASS by Fuzzonaut | Listen online for free on SoundCloud: https://soundcloud.com/fuzzonaut-1/fjord-fuzz-gjallarhorn-on-bass
+4. Fjord Fuzz - @onkelfuzzbass heads up! Simplified...: https://www.facebook.com/fjordfuzz/posts/onkelfuzzbass-heads-upsimplified-gjallarhorn-with-all-new-tone-stack-it-retains-/1720615958094858/

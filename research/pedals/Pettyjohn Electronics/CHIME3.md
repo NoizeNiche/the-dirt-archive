@@ -26,7 +26,12 @@ Pettyjohn Electronics's CHIME3 is cataloged as an overdrive pedal.
 - **Exact part:** Unknown.
 
 ## Sound
+
 The Dirt Archive currently catalogs **CHIME3** by **Pettyjohn Electronics** as a **Overdrive** pedal.
+
+**Archive parent:** CHIME3 - **Builder:** Pettyjohn Electronics - **Catalog type:** Overdrive - **Identity:** Pettyjohn Electronics's CHIME3.
+
+Pettyjohn Electronics's CHIME3 is cataloged as an overdrive pedal.
 
 ## Sources checked
 1. CHIME3 | Pettyjohn Elec: https://www.pettyjohnelectronics.com/product-page/chime3
@@ -43,3 +48,28 @@ The Dirt Archive currently catalogs **CHIME3** by **Pettyjohn Electronics** as a
 
 ## Deep research verification
 - Exact-model manufacturer and lineage sources were checked against the catalog identity before promotion.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Pettyjohn Electronics's CHIME3 is cataloged as an overdrive pedal.
+
+### Verified color/finish evidence
+- No specific factory colorway information was established in the verified evidence packet.
+
+### Verified version references
+- The evidence references: revision.
+
+### Verified diode terms
+- LED.
+
+### Verified sound evidence
+The Dirt Archive currently catalogs **CHIME3** by **Pettyjohn Electronics** as a **Overdrive** pedal.
+**Archive parent:** CHIME3 - **Builder:** Pettyjohn Electronics - **Catalog type:** Overdrive - **Identity:** Pettyjohn Electronics's CHIME3.
+Pettyjohn Electronics's CHIME3 is cataloged as an overdrive pedal.
+
+### Sources checked in this pass
+1. CHIME3 | Pettyjohn Elec: https://www.pettyjohnelectronics.com/product-page/chime3
+2. catalog/override source: https://www.effectsdatabase.com/model/pettyjohn/chime

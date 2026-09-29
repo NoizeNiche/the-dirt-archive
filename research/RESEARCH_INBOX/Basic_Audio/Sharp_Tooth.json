@@ -1,0 +1,19 @@
+{
+  "builder": "Basic Audio",
+  "pedal": "Sharp Tooth",
+  "original_builder": "Basic Audio",
+  "original_pedal": "Sharp Tooth",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 1,
+  "sources": [
+    {
+      "url": "https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-cnzrr-gbrkf-lx4x9",
+      "title": "Sharp Tooth &mdash; Basic Audio",
+      "h1": "Basic Audio",
+      "excerpt": "Sharp Tooth &mdash; Basic Audio Contact Store About Menu Basic Audio Contact Store About Pedal colors are subject to change. I am a one man shop, please be patient. I will get your order to you as soon as I can. &larr; Back to Store Sharp Tooth sold out Sharp Tooth from $200.00 Loosely based on the 60\u2019s (silicon) Orpheum but taken to a whole new place in Tonality and texture. The Sharp Tooth\u2019s Texture control pans between one and two transistor stage so essentially you get a dirt boost all the way up to full on ripping fuzz. Sonically a cross between A tone bender MKI and a gritty light boost and any variation in between. Country: Select Country USA Canada Europe, Asia, Australia USA Canada Europe, Asia, Australia Add To Cart All pedals use a center negative 9v DC jack and have a battery snap.\n- **Archive parent:** Sharp Tooth\n- **Builder:** Basic Audio\n- **Catalog type:** Fuzz\n- **Identity:** Silicon Orpheum-inspired fuzz built around a Texture control that changes the contribution of its gain stages. [1][2]\n\n- **TEXTURE:** Changes how much the circuit uses its gain stages.\n- Additional Level/Tone functions are part of the production design, but the current archive does not force a complete printed control legend where source evidence is incomplete. [1]\n- **9V center-negative** with battery support. [1]\n\n- **Primary reference:** 1960s silicon Orpheum.\n- Basic Audio presents Sharp Tooth as a substantially reworked interpretation, not an untouched historic clone. [1]\n\n- **Technology:** Discrete silicon transistor stages.\n- Exact production transistor part numbers are not publicly documented.\n\n- Exact clipping-device type and part number are not published.\n\n- No numbered electronic revision established.\n- Cosmetic finish differences are not treated as revisions.\n\nTexture changes the stage relationship from lighter gritty/boost-like response toward fuller and more aggressive fuzz. Basic Audio places the design near Tone Bender MKI and silicon Orpheum territory while giving it its own control range. [1]\n\n- **Identity:** High\n- **Silicon Orpheum lineage:** High\n- **Texture-stage behavior:** High\n- **9V operation:** High\n- **Exact transistor:** Unknown\n- **Exact diode:** Unknown\n\nBasic Audio's Sharp Tooth page was checked against its product catalog. The silicon Orpheum relationship and Texture-stage concept are supported directly; exact semiconductor part numbers remain unpublished. [1]\n\n1. Basic Audio \u2014 Sharp Tooth: https://www.basicaudio.net/store-1/5einpey75gjgckjedvbfsb3vnya-y3hb9-97e3s-cnzrr-gbrkf-lx4x9\n2. Basic Audio \u2014 Main catalog: https://www.basicaudio.net/\n\n- **Exact pedal photograph:** Basic Audio official product photograph.\n- https://images.squarespace-cdn.com/content/v1/5da9e97016ddf940acffa2d3/1713109511732-B64JWAENTOUV86TC8N5Y/DSCF9445%2B1.jpg",
+      "host": "www.basicaudio.net",
+      "source_kind": "manufacturer"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}

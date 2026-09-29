@@ -7,7 +7,8 @@
 - **Identity:** Fulltone's OCD.
 
 ## What this pedal is
-(For me) It's always been somewhat of a compromise using Overdrive pedals...
+
+Fulltone OCD Review: Still Worth Buying as Your Main Overdrive Pedal?: https://theguitarside.com/fulltone-ocd-review/ - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
 
 ## Colorways
 - No specific factory colorway information was established in the verified evidence packet.
@@ -39,3 +40,30 @@ FULLTONE OCD V2.0 (2026) (Sound Comparison) 10:09 2026-03-02 Gear Guruz Comparin
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Fulltone OCD Review: Still Worth Buying as Your Main Overdrive Pedal?: https://theguitarside.com/fulltone-ocd-review/ - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+### Verified color/finish evidence
+- No specific factory colorway information was established in the verified evidence packet.
+
+### Verified version references
+- The evidence references: V1, V2, revision, v1, v2.
+
+### Verified transistor/device terms
+- AC15.
+
+### Verified sound evidence
+Fulltone OCD Obsessive Compulsive Drive
+(For me) It's always been somewhat of a compromise using Overdrive pedals...
+FULLTONE OCD V2.0 (2026) (Sound Comparison) 10:09 2026-03-02 Gear Guruz Comparing Warm ODD and Fulltone OCD to make your decision easier ????????
+
+### Sources checked in this pass
+1. Fulltone OCD Obsessive Compulsive Drive | Effects Database: https://www.effectsdatabase.com/model/fulltone/ocd
+2. Fulltone OCD V1 Series 4 - Reverb: https://reverb.com/p/fulltone-ocd-v1-series-4
+3. Fulltone OCD - Effects Pedals: https://www.effects-pedals.info/p/fulltone-ocd/
+4. Fulltone OCD Review: Still Worth Buying as Your Main Overdrive Pedal?: https://theguitarside.com/fulltone-ocd-review/

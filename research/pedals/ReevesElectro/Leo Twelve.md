@@ -27,10 +27,39 @@ ReevesElectro's Leo Twelve is cataloged as an overdrive pedal.
 - **Exact part:** Unknown.
 
 ## Sound
+
 The Dirt Archive currently catalogs **Leo Twelve** by **ReevesElectro** as a **Overdrive** pedal.
+
+**Archive parent:** Leo Twelve - **Builder:** ReevesElectro - **Catalog type:** Overdrive - **Identity:** ReevesElectro's Leo Twelve.
+
+ReevesElectro's Leo Twelve is cataloged as an overdrive pedal.
 
 ## Sources checked
 1. All Pedals – ReevesElectro Point to Point Guitar Pedals: https://reeveselectro.co.uk/collections/pedals
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+ReevesElectro's Leo Twelve is cataloged as an overdrive pedal.
+
+### Verified color/finish evidence
+- No specific factory colorway information was established in the verified evidence packet.
+
+### Verified version references
+- The evidence references: MK2, revision.
+
+### Verified transistor/device terms
+- BC183.
+
+### Verified sound evidence
+The Dirt Archive currently catalogs **Leo Twelve** by **ReevesElectro** as a **Overdrive** pedal.
+**Archive parent:** Leo Twelve - **Builder:** ReevesElectro - **Catalog type:** Overdrive - **Identity:** ReevesElectro's Leo Twelve.
+ReevesElectro's Leo Twelve is cataloged as an overdrive pedal.
+
+### Sources checked in this pass
+1. All Pedals &ndash; ReevesElectro Point to Point Guitar Pedals: https://reeveselectro.co.uk/collections/pedals

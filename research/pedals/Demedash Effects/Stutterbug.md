@@ -8,6 +8,8 @@
 
 ## What this pedal is
 
+Demedash Effects Stutterbug Helicopter Fuzz - eBay: https://www.ebay.com/itm/297469667662 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
 ## Colorways
 
 ## Versions and factory options
@@ -24,6 +26,12 @@
 - **Exact part:** Unknown.
 
 ## Sound
+
+Demedash Effects Stutterbug Helicopter Fuzz – Alto Music: https://www.altomusic.com/products/demedash-effects-stutterbug-helicopter-fuzz 2.
+
+Demedash Effects Stutterbug Helicopter Fuzz - Reverb: https://reverb.com/item/91401587-demedash-effects-stutterbug-helicopter-fuzz 3.
+
+Demedash Effects - Stutterbug Helicopter Fuzz
 
 ## Sources checked
 1. Demedash Effects Stutterbug Helicopter Fuzz – Alto Music: https://www.altomusic.com/products/demedash-effects-stutterbug-helicopter-fuzz
@@ -46,6 +54,27 @@ Demedash Effects - Stutterbug Helicopter Fuzz
 
 ### Sources checked in this pass
 1. Demedash Effects Stutterbug Helicopter Fuzz – Alto Music: https://www.altomusic.com/products/demedash-effects-stutterbug-helicopter-fuzz
+2. Demedash Effects Stutterbug Helicopter Fuzz - Reverb: https://reverb.com/item/91401587-demedash-effects-stutterbug-helicopter-fuzz
+3. Demedash Effects - Stutterbug Helicopter Fuzz | northernstompboxes: https://www.northernstomps.com/product-page/demedash-effects-stutterbug-helicopter-fuzz
+4. Demedash Effects Stutterbug Helicopter Fuzz - eBay: https://www.ebay.com/itm/297469667662
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Demedash Effects Stutterbug Helicopter Fuzz - eBay: https://www.ebay.com/itm/297469667662 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+### Verified version references
+- The evidence references: revision.
+
+### Verified sound evidence
+Demedash Effects Stutterbug Helicopter Fuzz – Alto Music: https://www.altomusic.com/products/demedash-effects-stutterbug-helicopter-fuzz 2.
+Demedash Effects Stutterbug Helicopter Fuzz - Reverb: https://reverb.com/item/91401587-demedash-effects-stutterbug-helicopter-fuzz 3.
+Demedash Effects - Stutterbug Helicopter Fuzz
+
+### Sources checked in this pass
+1. Demedash Effects Stutterbug Helicopter Fuzz &ndash; Alto Music: https://www.altomusic.com/products/demedash-effects-stutterbug-helicopter-fuzz
 2. Demedash Effects Stutterbug Helicopter Fuzz - Reverb: https://reverb.com/item/91401587-demedash-effects-stutterbug-helicopter-fuzz
 3. Demedash Effects - Stutterbug Helicopter Fuzz | northernstompboxes: https://www.northernstomps.com/product-page/demedash-effects-stutterbug-helicopter-fuzz
 4. Demedash Effects Stutterbug Helicopter Fuzz - eBay: https://www.ebay.com/itm/297469667662

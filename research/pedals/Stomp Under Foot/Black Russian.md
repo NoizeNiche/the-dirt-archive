@@ -29,7 +29,11 @@ Featuring the original BC547 Transistors, and the exact same vintage capacitors 
 
 ## Sound
 
-No verified pedal-specific sonic summary is currently established in the archive.
+**Archive parent:** Black Russian - **Builder:** Stomp Under Foot - **Catalog type:** Fuzz - **Identity:** Stomp Under Foot's Black Russian.
+
+Featuring the original BC547 Transistors, and the exact same vintage capacitors as the original eight screw version, this Black Russian delivers on this particular Russian muff tone.
+
+Stomp Under Foot Black Russian Fuzz Distortion 2010's - Black: https://reverb.com/item/88906034-stomp-under-foot-black-russian-fuzz-distortion-2010-s-black 2.
 
 ## Sources checked
 1. Stomp Under Foot Black Russian Fuzz Distortion 2010's - Black: https://reverb.com/item/88906034-stomp-under-foot-black-russian-fuzz-distortion-2010-s-black
@@ -41,3 +45,34 @@ No verified pedal-specific sonic summary is currently established in the archive
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Featuring the original BC547 Transistors, and the exact same vintage capacitors as the original eight screw version, this Black Russian delivers on this particular Russian muff tone.
+
+### Verified color/finish evidence
+- **Archive parent:** Black Russian - **Builder:** Stomp Under Foot - **Catalog type:** Fuzz - **Identity:** Stomp Under Foot's Black Russian.
+- Featuring the original BC547 Transistors, and the exact same vintage capacitors as the original eight screw version, this Black Russian delivers on this particular Russian muff tone.
+- 58% Stomp Under Foot – Black Russian $ 112.30 Original price was: $112.30.
+
+### Verified version references
+- The evidence references: V1, V6, revision, version 1.
+
+### Verified transistor/device terms
+- BC547.
+
+### Verified sound evidence
+**Archive parent:** Black Russian - **Builder:** Stomp Under Foot - **Catalog type:** Fuzz - **Identity:** Stomp Under Foot's Black Russian.
+Featuring the original BC547 Transistors, and the exact same vintage capacitors as the original eight screw version, this Black Russian delivers on this particular Russian muff tone.
+Stomp Under Foot Black Russian Fuzz Distortion 2010's - Black: https://reverb.com/item/88906034-stomp-under-foot-black-russian-fuzz-distortion-2010-s-black 2.
+
+### Sources checked in this pass
+1. Stomp Under Foot Black Russian Fuzz Distortion 2010's - Black: https://reverb.com/item/88906034-stomp-under-foot-black-russian-fuzz-distortion-2010-s-black
+2. Stomp Under Foot - Black Russian: https://www.masterguitarworks.com/products/stomp-under-foot-black-russian/
+3. Black Russian by Stomp Under Foot | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/Stomp-Under-Foot/Black-Russian/68984641/
+4. Stomp Under Foot Black Russian - What To Know & Where To Buy: https://equipboard.com/items/stomp-under-foot-black-russian
+5. Stomp Under Foot - Black Russian - creativeaudioshop.com: https://www.creativeaudioshop.com/product/stomp-under-foot-black-russian/
+6. Stomp Under Foot Black Russian | TreeSpeak Studios: https://www.treespeakstudios.com/pedals/stomp-under-foot-black-russian

@@ -54,3 +54,27 @@ The exact V2 Reverb listing and surviving secondary product information were cro
 
 ## Photo
 - Exact-model photo status remains handled separately.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+This is exact-model evidence for the listed build, not an assertion that every Theophane specimen used identical sourcing.
+
+### Verified color/finish evidence
+- Violet exact-model finish is documented for the V2 example.
+
+### Verified version references
+- The evidence references: V1, V2, v2.
+
+### Verified transistor/device terms
+- 2N5088.
+
+### Verified sound evidence
+**Archive parent:** Theophane - **Builder:** Charlie Pedals - **Catalog type:** Fuzz - **Identity:** Mid-1970s Muff-style fuzz built in the UK with a documented V2 example using four NOS Motorola 2N5088 transistors.
+**SUSTAIN** - **TONE** - **VOLUME** - **Primary reference:** Mid-1970s Big Muff / Violet Ram's Head family.
+Theophane is intended around thick, sustaining mid-1970s Muff-style fuzz, with the documented vintage-spec component approach reinforcing its historical orientation.
+
+### Sources checked in this pass
+1. catalog/override source: https://reverb.com/item/88383147-charlie-pedals-theophane-fuzz-73-v2-violet-ram-s-head-big-muff

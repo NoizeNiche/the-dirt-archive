@@ -27,7 +27,11 @@ Ovaltone's GD-XIII is cataloged as an overdrive pedal.
 
 ## Sound
 
-No verified pedal-specific sonic summary is currently established in the archive.
+**Archive parent:** GD-XIII - **Builder:** Ovaltone - **Catalog type:** Overdrive - **Identity:** Ovaltone's GD-XIII.
+
+Ovaltone's GD-XIII is cataloged as an overdrive pedal.
+
+Ovaltone GD-XIII Drive Distortion DS08474298 - eBay: https://www.ebay.com/itm/277832315339 5.
 
 ## Sources checked
 1. Gd-xiii | Ovaltone'S Garage Shop: https://ovaltone.shop/items/65080d7545c7bd2ebd4b13a0
@@ -38,3 +42,28 @@ No verified pedal-specific sonic summary is currently established in the archive
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Ovaltone's GD-XIII is cataloged as an overdrive pedal.
+
+### Verified color/finish evidence
+- No specific factory colorway information was established in the verified evidence packet.
+
+### Verified version references
+- The evidence references: revision.
+
+### Verified sound evidence
+**Archive parent:** GD-XIII - **Builder:** Ovaltone - **Catalog type:** Overdrive - **Identity:** Ovaltone's GD-XIII.
+Ovaltone's GD-XIII is cataloged as an overdrive pedal.
+Ovaltone GD-XIII Drive Distortion DS08474298 - eBay: https://www.ebay.com/itm/277832315339 5.
+
+### Sources checked in this pass
+1. Gd-xiii | Ovaltone'S Garage Shop: https://ovaltone.shop/items/65080d7545c7bd2ebd4b13a0
+2. GD-XIII - Ovaltone -handmade effect pedals-: https://ovaltone.net/products/gd-xiii/
+3. GD-XIII — Ovaltone Overdrive Pedal | PedalFilter | PedalFilter: https://pedalfilter.com/ovaltone/gd-xiii
+4. Ovaltone GD-XIII Drive Distortion DS08474298 - eBay: https://www.ebay.com/itm/277832315339
+5. GD-XIII (Oval Tone) Distortion by Ovaltone &ndash; Ikebe Musical Instruments Store: https://global.ikebe-gakki.com/products/765293

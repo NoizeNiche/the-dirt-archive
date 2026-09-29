@@ -27,10 +27,36 @@ Add+ Pedals's Fuzz Face is cataloged as a Fuzz pedal.
 
 ## Sound
 
-No verified pedal-specific sonic summary is currently established in the archive.
+**Archive parent:** Fuzz Face - **Builder:** Add+ Pedals - **Catalog type:** Fuzz - **Identity:** Add+ Pedals's Fuzz Face.
+
+Add+ Pedals's Fuzz Face is cataloged as a Fuzz pedal.
+
+Dunlop Fuzz Face Guitar Effects Pedal
 
 ## Sources checked
 1. Dunlop Fuzz Face Guitar Effects Pedal | Guitar Center: https://www.guitarcenter.com/Dunlop/Fuzz-Face-Guitar-Effects-Pedal-1274228082428.gc
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Add+ Pedals's Fuzz Face is cataloged as a Fuzz pedal.
+
+### Verified color/finish evidence
+- No specific factory colorway information was established in the verified evidence packet.
+
+### Verified version references
+- The evidence references: revision.
+
+### Verified sound evidence
+**Archive parent:** Fuzz Face - **Builder:** Add+ Pedals - **Catalog type:** Fuzz - **Identity:** Add+ Pedals's Fuzz Face.
+Add+ Pedals's Fuzz Face is cataloged as a Fuzz pedal.
+Dunlop Fuzz Face Guitar Effects Pedal
+
+### Sources checked in this pass
+1. catalog/override source: https://www.effectsdatabase.com/model/addplus/fuzzface
+2. Dunlop Fuzz Face Guitar Effects Pedal | Guitar Center: https://www.guitarcenter.com/Dunlop/Fuzz-Face-Guitar-Effects-Pedal-1274228082428.gc

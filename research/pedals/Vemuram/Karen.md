@@ -27,7 +27,11 @@ The Karen is a Vemuram overdrive that captures the sound of cranked Marshall JMP
 
 ## Sound
 
-No verified pedal-specific sonic summary is currently established in the archive.
+**Archive parent:** Karen - **Builder:** Vemuram - **Catalog type:** Overdrive - **Identity:** Vemuram's Karen.
+
+The Karen is a Vemuram overdrive that captures the sound of cranked Marshall JMP and JCM amplifiers, from crunchy rhythm to fuller lead gain, built into the brand's machined brass body.
+
+Vemuram Karen Overdrive - What To Know & Where To Buy: https://equipboard.com/items/vemuram-karen-overdrive 2.
 
 ## Sources checked
 1. Vemuram Karen Overdrive - What To Know & Where To Buy: https://equipboard.com/items/vemuram-karen-overdrive
@@ -42,3 +46,32 @@ No verified pedal-specific sonic summary is currently established in the archive
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+The Karen is a Vemuram overdrive that captures the sound of cranked Marshall JMP and JCM amplifiers, from crunchy rhythm to fuller lead gain, built into the brand's machined brass body.
+
+### Verified color/finish evidence
+- No specific factory colorway information was established in the verified evidence packet.
+
+### Verified version references
+- The evidence references: revision.
+
+### Verified sound evidence
+**Archive parent:** Karen - **Builder:** Vemuram - **Catalog type:** Overdrive - **Identity:** Vemuram's Karen.
+The Karen is a Vemuram overdrive that captures the sound of cranked Marshall JMP and JCM amplifiers, from crunchy rhythm to fuller lead gain, built into the brand's machined brass body.
+Vemuram Karen Overdrive - What To Know & Where To Buy: https://equipboard.com/items/vemuram-karen-overdrive 2.
+
+### Sources checked in this pass
+1. Vemuram Karen Overdrive - What To Know & Where To Buy: https://equipboard.com/items/vemuram-karen-overdrive
+2. Vemuram Karen Overdrive - Reverb: https://reverb.com/item/971288-vemuram-karen-overdrive
+3. Vemuram Karen &ndash; Tonefest Guitar Gallery: https://www.tonefestguitargallery.com/products/vemuram-karen
+4. 「VEMURAM Karen」ディストーションエフェクターをレビュー | 魔法の箱研究所 – エフェクターレビューサイト: https://www.efmaniac.com/vemuram-karen/
+5. VEMURAM Karen Guitar Effect Pedal Limited Edition Used - eBay: https://www.ebay.com/itm/406919037242
+6. Karen by Vemuram | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/Vemuram/Karen/68985997/
+7. Vemuram Karen - Overdrive - Effects Database: https://www.effectsdatabase.com/model/vemuram/karen
+8. Karen — Vemuram Overdrive Pedal | PedalFilter | PedalFilter: https://pedalfilter.com/vemuram/karen
+9. Vemuram Karen Dimensions, Specs & Details: https://www.stompboxgarden.com/gear/pedal/16778/vemuram-karen

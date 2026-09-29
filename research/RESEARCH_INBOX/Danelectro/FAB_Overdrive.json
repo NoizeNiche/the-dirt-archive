@@ -1,22 +1,24 @@
 {
   "builder": "Danelectro",
   "pedal": "FAB Overdrive",
+  "original_builder": "Danelectro",
+  "original_pedal": "FAB Overdrive",
   "status": "VERIFIED_EVIDENCE_STAGED",
   "independent_exact_source_count": 2,
   "sources": [
     {
       "url": "https://reverb.com/p/danelectro-fab-overdrive",
       "title": "Danelectro FAB Overdrive - Reverb",
-      "h1": "",
-      "excerpt": "",
+      "h1": "Danelectro \u2014 FAB Overdrive",
+      "excerpt": "- **Archive parent:** FAB Overdrive\n- **Builder:** Danelectro\n- **Catalog type:** Overdrive\n- **Identity:** Danelectro's FAB Overdrive.\n\nDanelectro's FAB Overdrive is cataloged as an overdrive pedal.\n\n- No specific factory colorway information was established in the verified evidence packet.\n\n- No distinct factory revision was established in the verified evidence packet.\n\n- No specific factory version changes were established in the verified evidence packet.\n\n- Exact production transistor/device information was not established in the verified evidence packet.\n- **Exact transistor/device:** Unknown.\n\n- Exact production clipping/rectifier diode information was not established in the verified evidence packet.\n- **Exact part:** Unknown.\n\nThe verified evidence packet did not contain enough pedal-specific sonic description to make a more detailed sound summary without adding unsupported interpretation.\n\n1. Danelectro FAB Overdrive - Reverb: https://reverb.com/p/danelectro-fab-overdrive\n2. Danelectro D-2 FAB Overdrive - What To Know Where To Buy: https://equipboard.com/items/danelectro-d-2-fab-overdrive\n\n- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.",
       "host": "reverb.com",
       "source_kind": "reverb"
     },
     {
       "url": "https://equipboard.com/items/danelectro-d-2-fab-overdrive",
       "title": "Danelectro D-2 FAB Overdrive - What To Know Where To Buy",
-      "h1": "",
-      "excerpt": "",
+      "h1": "Danelectro \u2014 FAB Overdrive",
+      "excerpt": "- **Archive parent:** FAB Overdrive\n- **Builder:** Danelectro\n- **Catalog type:** Overdrive\n- **Identity:** Danelectro's FAB Overdrive.\n\nDanelectro's FAB Overdrive is cataloged as an overdrive pedal.\n\n- No specific factory colorway information was established in the verified evidence packet.\n\n- No distinct factory revision was established in the verified evidence packet.\n\n- No specific factory version changes were established in the verified evidence packet.\n\n- Exact production transistor/device information was not established in the verified evidence packet.\n- **Exact transistor/device:** Unknown.\n\n- Exact production clipping/rectifier diode information was not established in the verified evidence packet.\n- **Exact part:** Unknown.\n\nThe verified evidence packet did not contain enough pedal-specific sonic description to make a more detailed sound summary without adding unsupported interpretation.\n\n1. Danelectro FAB Overdrive - Reverb: https://reverb.com/p/danelectro-fab-overdrive\n2. Danelectro D-2 FAB Overdrive - What To Know Where To Buy: https://equipboard.com/items/danelectro-d-2-fab-overdrive\n\n- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.",
       "host": "equipboard.com",
       "source_kind": "other"
     }

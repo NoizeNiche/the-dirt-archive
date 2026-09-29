@@ -27,7 +27,11 @@ Fender pugilist distortion pedal BestReviews is reader-supported and may earn an
 
 ## Sound
 
-No verified pedal-specific sonic summary is currently established in the archive.
+**Archive parent:** Pugilist Distortion - **Builder:** Fender - **Catalog type:** Distortion - **Identity:** Fender's Pugilist Distortion.
+
+Fender Guitars: https://www.fender.com/articles/parts-and-accessories/fiery-and-flexible-whats-behind-fenders-pugilist-distortion-pedal 3.
+
+Fender Pugilist Distortion Effects Pedal
 
 ## Sources checked
 1. Fender pugilist distortion pedal: https://products.bestreviews.com/p/fender-pugilist-distortion-pedal?cid=650116247&aid=1244647810879346&eid=&tid=kwd-77790855902730:loc-190&ul=86421&mt=e&n=s&d=c&dm=&dt&sn&adid=&k=fender%20pugilist%20distortion%20pedal&p=&pc=&ap=&brprdct=1&agid=1244647810879346&msclkid=cb3dff1e2aa91a49446d95a90add2765
@@ -45,3 +49,35 @@ No verified pedal-specific sonic summary is currently established in the archive
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+The Fender Pugilist Distortion pedal is a versatile stompbox that offers two separate distortion circuits which can be used individually or stacked for a more intense effect.
+
+### Verified version references
+- The evidence references: revision.
+
+### Verified diode terms
+- Led, LEDs.
+
+### Verified sound evidence
+**Archive parent:** Pugilist Distortion - **Builder:** Fender - **Catalog type:** Distortion - **Identity:** Fender's Pugilist Distortion.
+Fender Guitars: https://www.fender.com/articles/parts-and-accessories/fiery-and-flexible-whats-behind-fenders-pugilist-distortion-pedal 3.
+Fender Pugilist Distortion Effects Pedal
+
+### Sources checked in this pass
+1. Fender pugilist distortion pedal: https://products.bestreviews.com/p/fender-pugilist-distortion-pedal?cid=650116247&aid=1244647810879346&eid=&tid=kwd-77790855902730:loc-190&ul=86421&mt=e&n=s&d=c&dm=&dt&sn&adid=&k=fender%20pugilist%20distortion%20pedal&p=&pc=&ap=&brprdct=1&agid=1244647810879346&msclkid=cb3dff1e2aa91a49446d95a90add2765
+2. Fender Pugilist Distortion Pedal | Fender Guitars: https://www.fender.com/articles/parts-and-accessories/fiery-and-flexible-whats-behind-fenders-pugilist-distortion-pedal
+3. Fender Pugilist Distortion Effects Pedal | Guitar Center: https://www.guitarcenter.com/Fender/Pugilist-Distortion-Effects-Pedal-1500000194281.gc
+4. Fender Pugilist Distortion Pedal | Sweetwater: https://www.sweetwater.com/store/detail/PugilistDist--fender-pugilist-distortion-pedal
+5. Fender Pugilist Distortion Pedal Review - Metal Guitar Gear: https://metalguitargear.com/reviews/fender-pugilist-distortion-pedal-review/
+6. Fender Pugilist Distortion - Reverb: https://reverb.com/p/fender-pugilist-distortion
+7. Fender Pugilist Distortion review | MusicRadar: https://www.musicradar.com/reviews/fender-pugilist-distortion
+8. Fender Pugilist Distortion - What To Know Where To Buy: https://equipboard.com/items/fender-pugilist-distortion
+9. User manual Fender Pugilist Distortion (English - 8 pages): https://www.manua.ls/fender/pugilist-distortion/manual
+10. FENDER PUGILIST DISTORTION MANUAL Pdf Download | ManualsLib: https://www.manualslib.com/manual/1484494/Fender-Pugilist-Distortion.html
+11. Fender Pugilist Distortion user manual (English - 8 pages): https://www.manuals.co.uk/fender/pugilist-distortion/manual
+12. Fender Pugilist Distortion Guitar Pedal: Owner&#x27;s Manual and Specifications: https://manuals.plus/m/85c97dd65ca3197d00b20b8dc5aa60b436733a4095b21424b3556b601be5e69c

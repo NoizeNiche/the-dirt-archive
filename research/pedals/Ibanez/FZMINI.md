@@ -28,7 +28,11 @@ Ibanez's FZMINI is cataloged in the archive as a Fuzz pedal.
 
 ## Sound
 
-No verified pedal-specific sonic summary is currently established in the archive.
+Ibanez FZMINI 850 Fuzz Mini Fuzz Pedal
+
+Ibanez's FZMINI is cataloged in the archive as a Fuzz pedal.
+
+Guitar Center: https://www.guitarcenter.com/Ibanez/FZMINI-850-Fuzz-Mini-Fuzz-Pedal-1500000039040.gc 2.
 
 ## Sources checked
 1. Ibanez FZMINI 850 Fuzz Mini Fuzz Pedal | Guitar Center: https://www.guitarcenter.com/Ibanez/FZMINI-850-Fuzz-Mini-Fuzz-Pedal-1500000039040.gc
@@ -37,3 +41,26 @@ No verified pedal-specific sonic summary is currently established in the archive
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Ibanez's FZMINI is cataloged in the archive as a Fuzz pedal.
+
+### Verified color/finish evidence
+- No specific factory colorway information was established in the verified evidence packet.
+
+### Verified version references
+- The evidence references: revision.
+
+### Verified sound evidence
+Ibanez FZMINI 850 Fuzz Mini Fuzz Pedal
+Ibanez's FZMINI is cataloged in the archive as a Fuzz pedal.
+Guitar Center: https://www.guitarcenter.com/Ibanez/FZMINI-850-Fuzz-Mini-Fuzz-Pedal-1500000039040.gc 2.
+
+### Sources checked in this pass
+1. Ibanez FZMINI 850 Fuzz Mini Fuzz Pedal | Guitar Center: https://www.guitarcenter.com/Ibanez/FZMINI-850-Fuzz-Mini-Fuzz-Pedal-1500000039040.gc
+2. Ibanez Pedal FZMINI :: Ibanez :: Effects :: Equipment :: Banzai Music GmbH: https://www.banzaimusic.com/ibanez-pedal-fzmini.html
+3. Ibanez FZMINI Mini 850 Fuzz | Effects Database: https://www.effectsdatabase.com/model/ibanez/mini/fzmini

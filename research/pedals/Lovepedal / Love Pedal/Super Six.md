@@ -20,7 +20,12 @@ The Super Six is a blackface-style American amp-in-a-box overdrive/preamp.
 - Exact clipping/rectifier diode information was not established.
 
 ## Sound
-Designed for buffering, boosting and adding blackface-era Fender Super-style coloration.
+
+Love Pedal Home Pedals Press Videos Custom History Contact Super Six Super Six Stevie Mod IN STOCK $225.00 PRODUCT DESCRIPTION 60’S AMERICAN AMP TONE!
+
+This sought-after pedal re-creates the tone of a blackface-era Fender amplifier, namely a Super on 6!
+
+The Lovepedal Super Six is perfect for buffering, boosting, or vintage-ing your tone.
 
 ## Sources checked
 1. Lovepedal - Super Six: https://www.lovepedal.com/pedals/super-six/
@@ -29,3 +34,23 @@ Designed for buffering, boosting and adding blackface-era Fender Super-style col
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+The Lovepedal Super Six is perfect for buffering, boosting, or vintage-ing your tone.
+
+### Verified color/finish evidence
+- Finish variants are not treated as circuit revisions.
+
+### Verified sound evidence
+Love Pedal Home Pedals Press Videos Custom History Contact Super Six Super Six Stevie Mod IN STOCK $225.00 PRODUCT DESCRIPTION 60’S AMERICAN AMP TONE!
+This sought-after pedal re-creates the tone of a blackface-era Fender amplifier, namely a Super on 6!
+The Lovepedal Super Six is perfect for buffering, boosting, or vintage-ing your tone.
+
+### Sources checked in this pass
+1. Super Six | Love Pedal: https://www.lovepedal.com/pedals/super-six/
+2. catalog/override source: https://reverb.com/p/lovepedal-super-six
+3. catalog/override source: https://www.effectsdatabase.com/model/lovepedal/supersix

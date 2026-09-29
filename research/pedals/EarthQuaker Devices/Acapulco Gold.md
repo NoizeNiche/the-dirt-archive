@@ -45,3 +45,23 @@ The previous record contained scraped storefront text. That material has been re
 3. https://reverb.com/p/earthquaker-devices-acapulco-gold-distortion — exact-model secondary reference.
 
 **Research confidence:** High for identity, Distortion taxonomy, Model T design target, and version references; moderate for detailed circuit history.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Since tone is in the hands, we decided to keep the controls of the Acapulco Gold as simple as possible.
+
+### Verified version references
+- The evidence references: V1, V2, revision, v2.
+
+### Verified sound evidence
+Acapulco Gold Power Amp Distortion — EarthQuaker Devices Contact Us Use the form on the right to contact us.
+Since tone is in the hands, we decided to keep the controls of the Acapulco Gold as simple as possible.
+Roll back your guitar’s tone control.
+
+### Sources checked in this pass
+1. Acapulco Gold Power Amp Distortion &mdash; EarthQuaker Devices: https://www.earthquakerdevices.com/acapulco-gold
+2. EarthQuaker Devices Acapulco Gold V2 Distortion Pedal | Sweetwater: https://www.sweetwater.com/store/detail/AcapulcoV2--earthquaker-devices-acapulco-gold-v2-distortion-pedal
+3. EarthQuaker Devices Acapulco Gold Power Amp Distortion: https://reverb.com/p/earthquaker-devices-acapulco-gold-distortion

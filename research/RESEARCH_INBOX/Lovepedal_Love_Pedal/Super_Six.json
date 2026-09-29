@@ -1,16 +1,34 @@
 {
   "builder": "Lovepedal / Love Pedal",
   "pedal": "Super Six",
+  "original_builder": "Lovepedal / Love Pedal",
+  "original_pedal": "Super Six",
   "status": "VERIFIED_EVIDENCE_STAGED",
-  "independent_exact_source_count": 1,
+  "independent_exact_source_count": 3,
   "sources": [
     {
-      "url": "https://www.lovepedal.com/",
-      "title": "Love Pedal",
-      "h1": "Lovepedal / Love Pedal \u2014 Super Six",
-      "excerpt": "Love Pedal Home Pedals Press Videos Custom History Contact See What\u2019s New Click for details. Watch a Video Click for details. Custom Shop Click for details. Love Pedal News Click for details. TCHULA 200lbs PURPLE PLEXI ETERNITY BURST HERMIDA ZENDRIVE DOVER DRIVE AMP ELEVEN RUBBER CHICKEN HERMIDA EPH3 &copy; All rights reserved 2026 LOVEPEDAL L.L.C. Home Pedals Press Contact Privacy Policy Terms of Service\n- **Builder:** Lovepedal / Love Pedal\n- **Pedal:** Super Six\n- **Catalog type:** Overdrive\n- **Research level:** Surface\n- **Deep research status:** Pending\n- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.\n\nThe Dirt Archive currently catalogs **Super Six** by **Lovepedal / Love Pedal** as a **Overdrive** pedal. This statement is limited to the archive\u2019s catalog classification. Deeper technical, historical, and sonic details remain pending verification.\n\n- Catalog source page on file: https://lovepedal.com/\n\n- **Archive photo:** No verified local photo is currently archived.\n- Photo provenance and validation are handled separately from this surface research record.\n\n- **Status:** Pending\n- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive\u2019s research foreman.",
+      "url": "https://www.lovepedal.com/pedals/super-six/",
+      "title": "Super Six | Love Pedal",
+      "h1": "Super Six",
+      "excerpt": "Super Six | Love Pedal Home Pedals Press Videos Custom History Contact Super Six Super Six Stevie Mod IN STOCK   $225.00 PRODUCT DESCRIPTION 60\u2019S AMERICAN AMP TONE! Reminiscent of the mid 60\u2032s Blackface Fender era. Specifically a Blackface Super on 6. This sought-after pedal re-creates the tone of a blackface-era Fender amplifier, namely a Super on 6! The Lovepedal Super Six is perfect for buffering, boosting, or vintage-ing your tone. Add soft, vintage compression or a vintage tone stack to your guitar rig. With the new added controls for Master Volume, Drive, Bass and Treble, we have morphed and channeled the elusive Stevie tone into our old favorite.. I give you the Super \u201cStevie Mod\u201d Six!   Between the full range controls, the Lovepedal Super Six also acts as a vintage tone stack that is voiced like a blackface-era Fender. When you\u2019re looking to channel the 60\u2019s American amp tone, the Lovepedal Super Six is the ticket\u2026 FEATURES: - Classic, touch sensitive, tones.. - True Bypass switching, making sure your signal is preserved when the effect is off - +9VDC / +22VDC, center negative adapter or 9V battery / Current draw 18mA Designed and manufactured by a \u201cvery smart group of people\u201d along side musicians to create the perfect balance of touch, tone, feel, reliability and grace. Controls: LEVEL \u2013 Master overall volume at the output DRIVE \u2013 Smooth, feedback loop style clipping Bass \u2013 Active / Pre clipping section / Bass bump Treble \u2013 Tone damp / Passive / Post clipping   &copy; All rights reserved 2026 LOVEPEDAL L.L.C. Home Pedals Press Contact Privacy Policy Terms of Service\n- **Archive parent:** Super Six\n- **Builder:** Lovepedal / Love Pedal\n- **Catalog type:** Overdrive\n- **Identity:** Lovepedal / Love Pedal's Super Six.\n\nThe Super Six is a blackface-style American amp-in-a-box overdrive/preamp.\n\n- **Stevie Mod** is a documented higher-gain variant.\n- Finish variants are not treated as circuit revisions.\n- No complete numbered production chronology was established.\n\n- Exact production semiconductor details were not established.\n\n- Exact clipping/rectifier diode information was not established.\n\nDesigned for buffering, boosting and adding blackface-era Fender Super-style coloration.\n\n1. Lovepedal - Super Six: https://www.lovepedal.com/pedals/super-six/\n2. Reverb - Lovepedal Super Six: https://reverb.com/p/lovepedal-super-six\n3. Effects Database - Lovepedal Super Six: https://www.effectsdatabase.com/model/lovepedal/supersix\n\n- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.",
       "host": "www.lovepedal.com",
       "source_kind": "catalog_verified"
+    },
+    {
+      "url": "https://reverb.com/p/lovepedal-super-six",
+      "title": "catalog/override source",
+      "h1": "Lovepedal / Love Pedal \u2014 Super Six",
+      "excerpt": "- **Archive parent:** Super Six\n- **Builder:** Lovepedal / Love Pedal\n- **Catalog type:** Overdrive\n- **Identity:** Lovepedal / Love Pedal's Super Six.\n\nThe Super Six is a blackface-style American amp-in-a-box overdrive/preamp.\n\n- **Stevie Mod** is a documented higher-gain variant.\n- Finish variants are not treated as circuit revisions.\n- No complete numbered production chronology was established.\n\n- Exact production semiconductor details were not established.\n\n- Exact clipping/rectifier diode information was not established.\n\nDesigned for buffering, boosting and adding blackface-era Fender Super-style coloration.\n\n1. Lovepedal - Super Six: https://www.lovepedal.com/pedals/super-six/\n2. Reverb - Lovepedal Super Six: https://reverb.com/p/lovepedal-super-six\n3. Effects Database - Lovepedal Super Six: https://www.effectsdatabase.com/model/lovepedal/supersix\n\n- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.",
+      "host": "reverb.com",
+      "source_kind": "reverb"
+    },
+    {
+      "url": "https://www.effectsdatabase.com/model/lovepedal/supersix",
+      "title": "catalog/override source",
+      "h1": "Lovepedal / Love Pedal \u2014 Super Six",
+      "excerpt": "- **Archive parent:** Super Six\n- **Builder:** Lovepedal / Love Pedal\n- **Catalog type:** Overdrive\n- **Identity:** Lovepedal / Love Pedal's Super Six.\n\nThe Super Six is a blackface-style American amp-in-a-box overdrive/preamp.\n\n- **Stevie Mod** is a documented higher-gain variant.\n- Finish variants are not treated as circuit revisions.\n- No complete numbered production chronology was established.\n\n- Exact production semiconductor details were not established.\n\n- Exact clipping/rectifier diode information was not established.\n\nDesigned for buffering, boosting and adding blackface-era Fender Super-style coloration.\n\n1. Lovepedal - Super Six: https://www.lovepedal.com/pedals/super-six/\n2. Reverb - Lovepedal Super Six: https://reverb.com/p/lovepedal-super-six\n3. Effects Database - Lovepedal Super Six: https://www.effectsdatabase.com/model/lovepedal/supersix\n\n- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.",
+      "host": "www.effectsdatabase.com",
+      "source_kind": "effects_database"
     }
   ],
   "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."

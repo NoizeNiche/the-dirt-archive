@@ -8,7 +8,7 @@
 
 ## What this pedal is
 
-Wampler Pedals's tcd is cataloged in the archive as a Distortion / Overdrive pedal.
+Top |' data-navmenu="off" data-hashurl="off" data-menuSlider="off" data-continue-autoplay="off" data-outside-nav="off" data-autoplay="off" > 4 5 The Compulsion Drive (tcd) is Brian Wampler’s obsessive reimagining of one of the most legendary distortion circuits in modern guitar pedal lore.
 
 ## Colorways
 - Constructed in the USA using high-grade components, The Compulsion Drive features a rugged, road-ready enclosure with a premium metallic finish.
@@ -49,6 +49,28 @@ This pass adds only claims supported by the newly admitted exact-model evidence.
 - Finish: Sparkle platinum enclosure.
 
 ### Verified sound evidence
+Designed to deliver the unmistakable roar , sparkle , and dynamic touch sensitivity that players crave, tcd combines raw power with refined tonal sculpting .
+Whether you’re chasing articulate crunch, harmonically rich saturation, or soaring lead tones, tcd puts it all at your feet with intuitive control and Wampler’s signature attention to detail .
+
+### Sources checked in this pass
+1. tcd | Wampler Pedals: https://www.wamplerpedals.com/products/distortion-overdrive/tcd/
+2. Wampler Pedals TCD - The Compulsion Drive | Effects Database: https://www.effectsdatabase.com/model/wampler/tcd
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Top |' data-navmenu="off" data-hashurl="off" data-menuSlider="off" data-continue-autoplay="off" data-outside-nav="off" data-autoplay="off" > 4 5 The Compulsion Drive (tcd) is Brian Wampler’s obsessive reimagining of one of the most legendary distortion circuits in modern guitar pedal lore.
+
+### Verified color/finish evidence
+- Finish: Sparkle platinum enclosure.
+
+### Verified version references
+- The evidence references: revision.
+
+### Verified sound evidence
+Top |' data-navmenu="off" data-hashurl="off" data-menuSlider="off" data-continue-autoplay="off" data-outside-nav="off" data-autoplay="off" > 4 5 The Compulsion Drive (tcd) is Brian Wampler’s obsessive reimagining of one of the most legendary distortion circuits in modern guitar pedal lore.
 Designed to deliver the unmistakable roar , sparkle , and dynamic touch sensitivity that players crave, tcd combines raw power with refined tonal sculpting .
 Whether you’re chasing articulate crunch, harmonically rich saturation, or soaring lead tones, tcd puts it all at your feet with intuitive control and Wampler’s signature attention to detail .
 

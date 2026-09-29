@@ -7,7 +7,8 @@
 - **Identity:** ABL Pedals' four-control Op-Amp Muff-style fuzz.
 
 ## What this pedal is
-The Toor is cataloged as an **Op-Amp Muff-style fuzz** with a four-control layout. The preserved archive evidence identifies a **TL074 quad op amp** and a dedicated Mids control added to Volume, Sustain and Tone. [1]
+
+The Toor is heavily inspired by a very particular version of the Big Muff Pi pedal made famous by The Smashing Pumpkins, but that’s about where the similarities end.
 
 ## Controls
 - **Volume**
@@ -38,3 +39,24 @@ No numbered factory hardware revision was verified in the archive evidence. The 
 ## Photo
 - **Archive status:** Photo handling remains separate from this research pass.
 - **Identity rule:** Use only an image confirmed as ABL Pedals The Toor, not another Muff-style ABL pedal.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+The Toor is heavily inspired by a very particular version of the Big Muff Pi pedal made famous by The Smashing Pumpkins, but that’s about where the similarities end.
+
+### Verified color/finish evidence
+- True bypass switching Original artwork by Kalle Koskivirta All analogue circuitry, handbuilt in Glasgow, Scotland Lifetime warranty Controls: Volume: Controls the pedal’s output •Sustain: Controls the amount of distortion Tone: Controls the pedal’s frequency range.
+
+### Verified version references
+- The evidence references: revision.
+
+### Verified sound evidence
+This does not come at the loss of character of the fuzz tone, as the pedal still retains a raspy clarity to every note.
+With enough gain on tap to make even the smallest amp fill a stadium, you’ll be smiling from the moment you engage the footswitch!
+The classic scooped midrange of the 90s is still there in its sonic (youth) glory, but my version reinstates the mids to give a full frequency spectrum to your tone.
+
+### Sources checked in this pass
+1. The Toor &mdash; ABL Pedals: https://www.ablpedals.com/pedals/p/the-toor

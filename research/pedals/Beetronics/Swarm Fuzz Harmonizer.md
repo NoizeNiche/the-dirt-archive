@@ -58,3 +58,19 @@ Beetronics describes the Swarm as ranging from vintage-inspired octave fuzz thro
 
 ## Photo
 - **Archive status:** **Exact Photo Pending**
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+The **Swarm Fuzz Harmonizer** is an analog fuzz harmonizer that converts the incoming signal into a square-wave representation and creates pitch-shifted harmonies around it.
+
+### Verified sound evidence
+The Swarm is an **analog fuzz harmonizer** that creates a square-wave fuzz signal and stacks it with pitch-shifted harmony voices.
+The **Swarm Fuzz Harmonizer** is an analog fuzz harmonizer that converts the incoming signal into a square-wave representation and creates pitch-shifted harmonies around it.
+**Flight:** adjusts modulation response/tracking behavior.
+
+### Sources checked in this pass
+1. Swarm Fuzz Harmonizer - Custom Shop SW2178 &ndash; Beetronics: https://www.beetronicsfx.com/products/swarm-fuzz-harmonizer-custom-shop-p-sw2178
+2. Browser not supported: https://web.whatsapp.com/send?text=https://www.beetronicsfx.com/products/swarm-fuzz-harmonizer-custom-shop-p-sw2178

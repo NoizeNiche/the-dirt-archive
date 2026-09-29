@@ -26,10 +26,36 @@ NUX Audio / NUX's ’59 Bassguy is cataloged as an overdrive pedal.
 - **Exact part:** Unknown.
 
 ## Sound
+
 The Dirt Archive currently catalogs **’59 Bassguy** by **NUX Audio / NUX** as a **Overdrive** pedal.
+
+**Archive parent:** ’59 Bassguy - **Builder:** NUX Audio / NUX - **Catalog type:** Overdrive - **Identity:** NUX Audio / NUX's ’59 Bassguy.
+
+NUX Audio / NUX's ’59 Bassguy is cataloged as an overdrive pedal.
 
 ## Sources checked
 1. catalog/override source: https://www.effectsdatabase.com/model/nux/reissue/59bassguy
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+NUX Audio / NUX's ’59 Bassguy is cataloged as an overdrive pedal.
+
+### Verified color/finish evidence
+- No specific factory colorway information was established in the verified evidence packet.
+
+### Verified version references
+- The evidence references: revision.
+
+### Verified sound evidence
+The Dirt Archive currently catalogs **’59 Bassguy** by **NUX Audio / NUX** as a **Overdrive** pedal.
+**Archive parent:** ’59 Bassguy - **Builder:** NUX Audio / NUX - **Catalog type:** Overdrive - **Identity:** NUX Audio / NUX's ’59 Bassguy.
+NUX Audio / NUX's ’59 Bassguy is cataloged as an overdrive pedal.
+
+### Sources checked in this pass
+1. catalog/override source: https://www.effectsdatabase.com/model/nux/reissue/59bassguy

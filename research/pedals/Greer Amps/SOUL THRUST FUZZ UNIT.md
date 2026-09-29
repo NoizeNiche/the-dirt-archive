@@ -8,6 +8,8 @@
 
 ## What this pedal is
 
+The Soul Thrust Fuzz Unit is built on a vintage style tag strip, with amplifier grade components, including 1 watt Carbon Film resistors, full size Bourns pots, and a mix of Panasonic ECQ and Mallory 150 type capacitors.
+
 ## Colorways
 - Hand built on a vintage tag strip Utilizes NOS BC107B transistors Face meets Bender type fuzz tone Dynamic fuzz response Uses 9-Volt battery only Amp grade, full sized components, including 1 watt carbon film resistors, Mallory 150 type capacitors, and Panasonic ECQ capacitors Wide range of tones, via Frequency control Limited blue powder coat finish Brand new, Vision Guitar is an authorized Greer Amps dealer!
 
@@ -37,3 +39,30 @@ The Soul Thrust Fuzz Unit is built on a vintage style tag strip, with amplifier 
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+The Soul Thrust Fuzz Unit is built on a vintage style tag strip, with amplifier grade components, including 1 watt Carbon Film resistors, full size Bourns pots, and a mix of Panasonic ECQ and Mallory 150 type capacitors.
+
+### Verified color/finish evidence
+- Vision Guitar: https://www.visionguitar.com/products/greer-amps-custom-shop-soul-thrust-fuzz-unit-limited-blue - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+### Verified version references
+- The evidence references: MKII, revision.
+
+### Verified transistor/device terms
+- BC107B.
+
+### Verified sound evidence
+Soul Thrust Fuzz Unit by Greer Amps
+This pedal is a two transistor fuzz pedal, utilizing NOS BC107B transistors.
+The Soul Thrust Fuzz Unit is built on a vintage style tag strip, with amplifier grade components, including 1 watt Carbon Film resistors, full size Bourns pots, and a mix of Panasonic ECQ and Mallory 150 type capacitors.
+
+### Sources checked in this pass
+1. Soul Thrust Fuzz Unit by Greer Amps | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/Greer-Amps/Soul-Thrust-Fuzz-Unit/68979543/
+2. Greer Amps Custom Shop SOUL THRUST FUZZ UNIT - Reverb: https://reverb.com/item/2799056-greer-amps-custom-shop-soul-thrust-fuzz-unit
+3. Greer Amps Soul Thrust Fuzz Unit - craigslist: https://www.craigslist.org/view/d/seattle-greer-amps-soul-thrust-fuzz-unit/w65xqoESL3EqKDz3eagEcn
+4. Greer Amps Custom Shop Soul Thrust Fuzz Unit | Vision Guitar: https://www.visionguitar.com/products/greer-amps-custom-shop-soul-thrust-fuzz-unit-limited-blue

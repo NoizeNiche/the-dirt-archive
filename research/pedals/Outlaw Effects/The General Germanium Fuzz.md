@@ -26,7 +26,12 @@ Outlaw Effects's The General Germanium Fuzz is cataloged as a fuzz pedal.
 - **Exact part:** Unknown.
 
 ## Sound
-Outlaw Effects The General Germanium Fuzz Effects Pedal
+
+**Archive parent:** The General Germanium Fuzz - **Builder:** Outlaw Effects - **Catalog type:** Fuzz - **Identity:** Outlaw Effects's The General Germanium Fuzz.
+
+Outlaw Effects's The General Germanium Fuzz is cataloged as a fuzz pedal.
+
+Documented terms in the verified sources: GERMANIUM FUZZ.
 
 ## Sources checked
 1. The General | Outlaw Effects: https://www.outlaweffects.com/thegeneral
@@ -37,3 +42,31 @@ Outlaw Effects The General Germanium Fuzz Effects Pedal
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Outlaw Effects's The General Germanium Fuzz is cataloged as a fuzz pedal.
+
+### Verified color/finish evidence
+- No specific factory colorway information was established in the verified evidence packet.
+
+### Verified version references
+- The evidence references: revision.
+
+### Verified transistor/device terms
+- Germanium Fuzz.
+
+### Verified sound evidence
+**Archive parent:** The General Germanium Fuzz - **Builder:** Outlaw Effects - **Catalog type:** Fuzz - **Identity:** Outlaw Effects's The General Germanium Fuzz.
+Outlaw Effects's The General Germanium Fuzz is cataloged as a fuzz pedal.
+Documented terms in the verified sources: GERMANIUM FUZZ.
+
+### Sources checked in this pass
+1. Outlaw Effects The General Germanium Fuzz - Equipboard: https://equipboard.com/items/outlaw-effects-the-general-germanium-fuzz
+2. Outlaw Effects The General Germanium Fuzz Effects Pedal | Guitar Center: https://www.guitarcenter.com/Outlaw-Effects/The-General-Germanium-Fuzz-Effects-Pedal-1500000274674.gc
+3. Outlaw Effects The General Germanium Fuzz - Reverb: https://reverb.com/p/outlaw-effects-the-general-germanium-fuzz
+4. Outlaw Effects The General Germanium Fuzz Pedal &ndash; Blackout Audio: https://blackoutaudio.com/products/outlaw-effects-the-general
+5. The General | Outlaw Effects: https://www.outlaweffects.com/thegeneral

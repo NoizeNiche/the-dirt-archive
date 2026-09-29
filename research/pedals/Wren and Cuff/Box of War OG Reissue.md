@@ -7,7 +7,8 @@
 - **Identity:** Wren and Cuff's Box of War OG Reissue.
 
 ## What this pedal is
-The Box of War is a true recreation of the famous “Civil War” fuzz pedals from the 90’s.
+
+Wren and Cuff Box of War OG Reissue — MrPedal: https://www.mrpedal.com/pedals/wren-and-cuff-box-of-war-og-reissue - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
 
 ## Colorways
 - No specific factory colorway information was established in the verified evidence packet.
@@ -51,3 +52,26 @@ Trades the flimsy aluminum enclosures of the originals for an extremely heavy-du
 ### Sources checked in this pass
 1. Box of War OG Reissue — Wren and Cuff: https://www.wrenandcuff.com/products/og-bow-ri
 2. Wren and Cuff Box of War OG Reissue — MrPedal: https://www.mrpedal.com/pedals/wren-and-cuff-box-of-war-og-reissue
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Wren and Cuff Box of War OG Reissue — MrPedal: https://www.mrpedal.com/pedals/wren-and-cuff-box-of-war-og-reissue - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+### Verified color/finish evidence
+- No specific factory colorway information was established in the verified evidence packet.
+
+### Verified version references
+- The evidence references: revision.
+
+### Verified sound evidence
+The Box of War is a true recreation of the famous “Civil War” fuzz pedals from the 90’s.
+The tone is in the details we like to say...
+Very closely related to the Tall Font BM’s, the Civil War’s have a bit darker and a bit fuzzier tone.
+
+### Sources checked in this pass
+1. Box of War OG Reissue — Wren and Cuff: https://www.wrenandcuff.com/products/og-bow-ri
+2. Wren and Cuff Box of War OG Reissue — MrPedal: https://www.mrpedal.com/pedals/wren-and-cuff-box-of-war-og-reissue
+3. catalog/override source: https://reverb.com/item/49945309-wren-and-cuff-og-box-of-war-reissue

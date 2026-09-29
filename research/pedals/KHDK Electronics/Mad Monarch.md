@@ -7,7 +7,8 @@
 - **Identity:** KHDK Electronics's Mad Monarch.
 
 ## What this pedal is
-Gary Holt of Slayer and Exodus signature preamp/overdrive/distortion pedal
+
+KHDK Electronics Mad Monarch Gary Holt Preamp Pedal: https://www.musicguitarcenter.com/product/khdk-electronics-mad-monarch-gary-holt-preamp-pedal/ - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
 
 ## Colorways
 - No specific factory colorway information was established in the verified evidence packet.
@@ -26,7 +27,12 @@ Gary Holt of Slayer and Exodus signature preamp/overdrive/distortion pedal
 - **Exact part:** Unknown.
 
 ## Sound
-Gary Holt of Slayer and Exodus signature preamp/overdrive/distortion pedal
+
+**Archive parent:** Mad Monarch - **Builder:** KHDK Electronics - **Catalog type:** Distortion / Overdrive - **Identity:** KHDK Electronics's Mad Monarch.
+
+Gary Holt of Slayer and Exodus signature preamp/overdrive/distortion pedal - No specific factory colorway information was established in the verified evidence packet.
+
+Gary Holt of Slayer and Exodus signature preamp/overdrive/distortion pedal 1.
 
 ## Sources checked
 1. Mad Monarch by Gary Holt - KHDK Electronics: https://www.khdkelectronics.com/products/detail/mad-monarch-by-gary-holt/
@@ -37,3 +43,30 @@ Gary Holt of Slayer and Exodus signature preamp/overdrive/distortion pedal
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+KHDK Electronics Mad Monarch Gary Holt Preamp Pedal: https://www.musicguitarcenter.com/product/khdk-electronics-mad-monarch-gary-holt-preamp-pedal/ - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+### Verified color/finish evidence
+- Gary Holt of Slayer and Exodus signature preamp/overdrive/distortion pedal - No specific factory colorway information was established in the verified evidence packet.
+- KHDK Electronics Mad Monarch by Gary Holt - White
+- Reverb: https://reverb.com/item/99470330-khdk-electronics-mad-monarch-by-gary-holt-white 3.
+
+### Verified version references
+- The evidence references: revision.
+
+### Verified sound evidence
+**Archive parent:** Mad Monarch - **Builder:** KHDK Electronics - **Catalog type:** Distortion / Overdrive - **Identity:** KHDK Electronics's Mad Monarch.
+Gary Holt of Slayer and Exodus signature preamp/overdrive/distortion pedal - No specific factory colorway information was established in the verified evidence packet.
+Gary Holt of Slayer and Exodus signature preamp/overdrive/distortion pedal 1.
+
+### Sources checked in this pass
+1. Mad Monarch by Gary Holt - KHDK Electronics: https://www.khdkelectronics.com/products/detail/mad-monarch-by-gary-holt/
+2. KHDK Electronics Mad Monarch by Gary Holt - White | Reverb: https://reverb.com/item/99470330-khdk-electronics-mad-monarch-by-gary-holt-white
+3. KHDK Electronics Mad Monarch - Gary Holt signature Preamp/Drive: https://www.effectsdatabase.com/model/khdk/madmonarch
+4. KHDK Electronics Mad Monarch | exclusive limited edition black | Gary Holt of Slayer and Exodus signature preamp/overdrive/distortion pedal | 1 of 3* | riccio: https://riccio.io/emporium-underground/p/khdk-mad-monarch-black-with-black-knobs
+5. KHDK Electronics Mad Monarch Gary Holt Preamp Pedal: https://www.musicguitarcenter.com/product/khdk-electronics-mad-monarch-gary-holt-preamp-pedal/

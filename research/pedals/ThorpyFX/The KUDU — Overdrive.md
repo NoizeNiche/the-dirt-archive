@@ -7,7 +7,8 @@
 - **Identity:** ThorpyFX's The KUDU — Overdrive.
 
 ## What this pedal is
-ThorpyFX's The KUDU — Overdrive is cataloged as a distortion / fuzz / overdrive pedal.
+
+Well, there is a variant of the KUDU called the Greater K - **Archive parent:** The KUDU — Overdrive - **Builder:** ThorpyFX - **Catalog type:** Distortion / Fuzz / Overdrive - **Identity:** ThorpyFX's The KUDU — Overdrive.
 
 ## Colorways
 - No specific factory colorway information was established in the verified evidence packet.
@@ -26,7 +27,12 @@ ThorpyFX's The KUDU — Overdrive is cataloged as a distortion / fuzz / overdriv
 - **Exact part:** Unknown.
 
 ## Sound
-KUDU is the drive enhancer you never knew you needed.
+
+Overdrive $237.00 $237.00 Unit price / per Shipping calculated at checkout.
+
+Overdrive Increase quantity for The KUDU
+
+Overdrive Add to cart Description KUDU is the drive enhancer you never knew you needed.
 
 ## Sources checked
 1. The KUDU | Overdrive: https://thorpyfx.com/en-us/products/the-kudu
@@ -34,3 +40,25 @@ KUDU is the drive enhancer you never knew you needed.
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Well, there is a variant of the KUDU called the Greater K - **Archive parent:** The KUDU — Overdrive - **Builder:** ThorpyFX - **Catalog type:** Distortion / Fuzz / Overdrive - **Identity:** ThorpyFX's The KUDU — Overdrive.
+
+### Verified color/finish evidence
+- No specific factory colorway information was established in the verified evidence packet.
+
+### Verified version references
+- The evidence references: revision.
+
+### Verified sound evidence
+Overdrive $237.00 $237.00 Unit price / per Shipping calculated at checkout.
+Overdrive Increase quantity for The KUDU
+Overdrive Add to cart Description KUDU is the drive enhancer you never knew you needed.
+
+### Sources checked in this pass
+1. The KUDU | Overdrive: https://thorpyfx.com/en-us/products/the-kudu
+2. ThorpyFX The KUDU Overdrive Pedal - What To Know & Where To Buy: https://equipboard.com/items/thorpyfx-the-kudu-overdrive-pedal

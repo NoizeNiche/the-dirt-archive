@@ -8,6 +8,8 @@
 
 ## What this pedal is
 
+TC Electronic Vintage Overdrive - Overdrive guitare - Audiofanzine: https://fr.audiofanzine.com/overdrive-guitare/tc-electronic/Vintage-Overdrive/ - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
 ## Colorways
 
 ## Versions and factory options
@@ -26,9 +28,31 @@
 
 ## Sound
 
+TC Electronic Vintage Overdrive - Overdrive pedal - Audiofanzine: https://en.audiofanzine.com/overdrive-pedal/tc-electronic/Vintage-Overdrive/ 2.
+
+TC Electronic Vintage Overdrive - Overdrive guitare - Audiofanzine: https://fr.audiofanzine.com/overdrive-guitare/tc-electronic/Vintage-Overdrive/ - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
 ## Sources checked
 1. TC Electronic Vintage Overdrive - Overdrive pedal - Audiofanzine: https://en.audiofanzine.com/overdrive-pedal/tc-electronic/Vintage-Overdrive/
 2. TC Electronic Vintage Overdrive - Overdrive guitare - Audiofanzine: https://fr.audiofanzine.com/overdrive-guitare/tc-electronic/Vintage-Overdrive/
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+TC Electronic Vintage Overdrive - Overdrive guitare - Audiofanzine: https://fr.audiofanzine.com/overdrive-guitare/tc-electronic/Vintage-Overdrive/ - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+### Verified version references
+- The evidence references: revision, v15.
+
+### Verified sound evidence
+TC Electronic Vintage Overdrive - Overdrive pedal - Audiofanzine: https://en.audiofanzine.com/overdrive-pedal/tc-electronic/Vintage-Overdrive/ 2.
+TC Electronic Vintage Overdrive - Overdrive guitare - Audiofanzine: https://fr.audiofanzine.com/overdrive-guitare/tc-electronic/Vintage-Overdrive/ - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+### Sources checked in this pass
+1. TC Electronic Vintage Overdrive - Overdrive pedal - Audiofanzine: https://en.audiofanzine.com/overdrive-pedal/tc-electronic/Vintage-Overdrive/
+2. TC Electronic Vintage Overdrive - Overdrive guitare - Audiofanzine: https://fr.audiofanzine.com/overdrive-guitare/tc-electronic/Vintage-Overdrive/

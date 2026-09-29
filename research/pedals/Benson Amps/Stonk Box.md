@@ -55,3 +55,34 @@ Effects Database, Andertons and Benson-related product documentation were cross-
 
 ## Photo
 - **Archive status:** Exact-model imagery verified historically; stable local asset is pending.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Benson Amps Stonk Box Guitar Effects Pedal $149.00 $1,700.00 Review Benson Amps Stonk Box Guitar Effects PedalGermanium-based fuzz pedals are finicky and unreliable, right?
+
+### Verified color/finish evidence
+- **Cast Iron Edition:** named finish/edition, kept as a factory presentation variant with no independently verified circuit change.
+- Also, LED switches between green and amber as much as it needs to keep a consistent temperature so it doesn’t matter if it stays longer on either color...the important thing is you see it switching.
+
+### Verified version references
+- The evidence references: MK1, revision.
+
+### Verified transistor/device terms
+- Germanium Fuzz, 2N404, 2N527.
+
+### Verified diode terms
+- LED.
+
+### Verified sound evidence
+Distortion, Overdrive, Boost & Fuzz Pedals
+Benson Amps Stonk Box Guitar Effects Pedal $149.00 $1,700.00 Review Benson Amps Stonk Box Guitar Effects PedalGermanium-based fuzz pedals are finicky and unreliable, right?
+Equipped with Benson’s Automatic Thermal Bias Technology, the Stonk Box takes an early-’60s MK1-style fuzz circuit and retools it to deliver classic germanium grind with zero flaws or inconsistencies.
+
+### Sources checked in this pass
+1. Benson Amps Stonk Box Guitar Effects Pedal | Distortion, Overdrive, Boost & Fuzz Pedals | hardwaredrum.com: https://www.hardwaredrum.com/product/benson-amps-stonk-box-guitar-effects-pedal/
+2. Benson Amps Stonk Box Temperature-Controlled Germanium Fuzz Pedal - Andertons Music Co.: https://www.andertons.co.uk/benson-amps-stonk-box-germanium-fuzz-pedal/
+3. catalog/override source: https://www.effectsdatabase.com/model/benson/stonkbox
+4. PEDAL WARRANTY &mdash; BENSON AMPS: https://www.bensonamps.com/pedalwarranty

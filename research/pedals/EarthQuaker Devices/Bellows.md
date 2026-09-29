@@ -27,10 +27,35 @@ Devices Dealers Blog About Studios OnomatoPedal Merch EarthQuaker Devices Info E
 
 ## Sound
 
-No verified pedal-specific sonic summary is currently established in the archive.
+Bellows Fuzz Driver — EarthQuaker Devices Contact Us Use the form on the right to contact us.
+
+Stoke the fires in the seventh circle of tone with the Bellows!
+
+The Bellows isn’t based on anything in particular, but it straddles the line between amp-like grit and fuzzy saturation, with a bunch of useful distorted places in between, capturing nearly every era of Rock-and-Roll in a box.
 
 ## Sources checked
 1. Bellows Fuzz Driver — EarthQuaker Devices: https://www.earthquakerdevices.com/bellows
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+If I were you (and it’s a good thing I’m not) I’d resist the usual urge to dime it right away, as the Bellows’ character changes dramatically based on where the “Drive” is set.
+
+### Verified color/finish evidence
+- No specific factory colorway information was established in the verified evidence packet.
+
+### Verified version references
+- The evidence references: revision.
+
+### Verified sound evidence
+Bellows Fuzz Driver — EarthQuaker Devices Contact Us Use the form on the right to contact us.
+Stoke the fires in the seventh circle of tone with the Bellows!
+The Bellows isn’t based on anything in particular, but it straddles the line between amp-like grit and fuzzy saturation, with a bunch of useful distorted places in between, capturing nearly every era of Rock-and-Roll in a box.
+
+### Sources checked in this pass
+1. Bellows Fuzz Driver &mdash; EarthQuaker Devices: https://www.earthquakerdevices.com/bellows

@@ -28,7 +28,11 @@ In other words, the Hot-British V9 is a Plexi-in-a-box packed full of harmonics,
 
 ## Sound
 
-No verified pedal-specific sonic summary is currently established in the archive.
+**Archive parent:** Hot-British V9 - **Builder:** Radial Tonebone - **Catalog type:** Distortion - **Identity:** Radial Tonebone's Hot-British V9.
+
+In other words, the Hot-British V9 is a Plexi-in-a-box packed full of harmonics, sustain and balls to the wall distortion.
+
+Radial ToneBone Hot-British V9 Distortion - Reverb: https://reverb.com/p/radial-tonebone-hot-british-v9-distortion 2.
 
 ## Sources checked
 1. Radial ToneBone Hot-British V9 Distortion - Reverb: https://reverb.com/p/radial-tonebone-hot-british-v9-distortion
@@ -39,3 +43,28 @@ No verified pedal-specific sonic summary is currently established in the archive
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+In other words, the Hot-British V9 is a Plexi-in-a-box packed full of harmonics, sustain and balls to the wall distortion.
+
+### Verified color/finish evidence
+- No specific factory colorway information was established in the verified evidence packet.
+
+### Verified version references
+- The evidence references: V1, V2, V9, revision, v1, v2, v9.
+
+### Verified sound evidence
+**Archive parent:** Hot-British V9 - **Builder:** Radial Tonebone - **Catalog type:** Distortion - **Identity:** Radial Tonebone's Hot-British V9.
+In other words, the Hot-British V9 is a Plexi-in-a-box packed full of harmonics, sustain and balls to the wall distortion.
+Radial ToneBone Hot-British V9 Distortion - Reverb: https://reverb.com/p/radial-tonebone-hot-british-v9-distortion 2.
+
+### Sources checked in this pass
+1. Radial ToneBone Hot-British V9 Distortion - Reverb: https://reverb.com/p/radial-tonebone-hot-british-v9-distortion
+2. Radial Tonebone Hot British V9: https://www.schmusicproductions.com/post/radial-tonebone-hot-british-v9
+3. Radial | Tonebone Hot-British V9 - Sugaree Licks: https://sugareelicks.com/pedal/radial-tonebone-hot-british-v9/
+4. Radial Tonebone Hot British V9 - Plexi-Style Distortion: https://www.effectsdatabase.com/model/radial/tonebone/hotbritish/v9
+5. Radial Tonebone Hot British V9 High Gain Distortion Pedal: https://www.zzounds.com/item--RADHOTBRITV9

@@ -1,0 +1,19 @@
+{
+  "builder": "Basic Audio",
+  "pedal": "Super Fuzz",
+  "original_builder": "Basic Audio",
+  "original_pedal": "Super Fuzz",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 1,
+  "sources": [
+    {
+      "url": "https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-n6nrp",
+      "title": "catalog/override source",
+      "h1": "Basic Audio \u2014 Super Fuzz",
+      "excerpt": "- **Archive parent:** Super Fuzz\n- **Builder:** Basic Audio\n- **Catalog type:** Fuzz\n- **Identity:** Basic Audio octave fuzz based on the Univox Super Fuzz, with Half Gain and Octave Cut switches. [1]\n\n- **HALF GAIN** switch.\n- **OCTAVE CUT** switch.\n- Univox Super Fuzz-derived octave-fuzz core.\n- 9V center-negative operation with battery support. [1]\n\n- **Primary reference:** Univox **Super Fuzz** / Shin-Ei FY-6 family.\n- Basic Audio adds Half Gain and Octave Cut to expand the historical operating range.\n\n- Exact factory transistor technology and device part numbers are not publicly documented.\n\n- Exact clipping-device type and part number are not publicly documented.\n\n- No numbered electronic revision established.\n\nThe pedal targets the doubled, buzzy octave character associated with Super Fuzz designs. Half Gain reduces saturation, while Octave Cut reduces the prominence of the upper-octave component. [1]\n\n- **Identity:** High\n- **Super Fuzz lineage:** High\n- **Octave-up architecture:** High\n- **Half Gain / Octave Cut:** High\n- **Exact transistor:** Unknown\n- **Exact diode:** Unknown\n\nBasic Audio's Super Fuzz page was checked directly. The product identity and two major functional switches are documented, while the factory semiconductor recipe is not. [1]\n\n1. Basic Audio \u2014 Super Fuzz: https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-n6nrp\n2. Basic Audio \u2014 Main catalog: https://www.basicaudio.net/\n\n- **Exact pedal photograph:** Basic Audio official product photograph.\n- **Direct image:** https://images.squarespace-cdn.com/content/v1/5da9e97016ddf940acffa2d3/1580672147322-5S3IEKRFA6PKNMC2C5D6/DSCF0743.jpg\n- **Source page:** Basic Audio Super Fuzz.",
+      "host": "www.basicaudio.net",
+      "source_kind": "manufacturer"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}

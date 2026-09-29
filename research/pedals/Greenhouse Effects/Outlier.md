@@ -8,6 +8,8 @@
 
 ## What this pedal is
 
+Greenhouse Effects Outlier - Overdrive/Distortion - Effects Database: https://www.effectsdatabase.com/model/greenhouse/outlier - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
 ## Colorways
 - No specific factory colorway information was established in the verified evidence packet.
 
@@ -34,3 +36,25 @@ The Outlier represents the miniaturization of a whole series of circuitry functi
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Greenhouse Effects Outlier - Overdrive/Distortion - Effects Database: https://www.effectsdatabase.com/model/greenhouse/outlier - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+### Verified color/finish evidence
+- No specific factory colorway information was established in the verified evidence packet.
+
+### Verified version references
+- The evidence references: revision.
+
+### Verified sound evidence
+Consider the internal signal chain: Op-Amp Buffered Input > Op-Amp Gain Stage > FET Gain Stage > Op-Amp Gain Stage > Cabinet Simulator > Active EQ > Volume Control > BJT Output Buffer.
+The Outlier represents the miniaturization of a whole series of circuitry functions and combines them into one unit while disguising their capability in an easy to use drive pedal with typical controls that can access all the power and control that the complex structure offers.
+3 cascading gain-stages seamlessly glide from low gain settings that sound full and robust to high gain settings that lack nothing for dynamic and definable complete saturation.
+
+### Sources checked in this pass
+1. OUTLIER / OD DIST &mdash; GREENHOUSE EFFECTS: https://www.gheffects.com/pedals/p/outlier
+2. Greenhouse Effects Outlier - Overdrive/Distortion - Effects Database: https://www.effectsdatabase.com/model/greenhouse/outlier

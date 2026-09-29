@@ -27,7 +27,12 @@ Xvive Audio's Golden Brownie is cataloged as an overdrive pedal.
 - **Exact part:** Unknown.
 
 ## Sound
+
 Xvive Audio Golden Brownie Distortion
+
+Xvive Audio's Golden Brownie is cataloged as an overdrive pedal.
+
+Xvive Audio Golden Brownie Distortion 1.
 
 ## Sources checked
 1. Xvive Audio Golden Brownie Distortion | Long & McQuade: https://www.long-mcquade.com/135228/Guitars/Guitar-Effects/Xvive-Audio/Golden-Brownie-Distortion.htm
@@ -35,3 +40,25 @@ Xvive Audio Golden Brownie Distortion
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Xvive Audio's Golden Brownie is cataloged as an overdrive pedal.
+
+### Verified color/finish evidence
+- No specific factory colorway information was established in the verified evidence packet.
+
+### Verified version references
+- The evidence references: revision, v4.
+
+### Verified sound evidence
+Xvive Audio Golden Brownie Distortion
+Xvive Audio's Golden Brownie is cataloged as an overdrive pedal.
+Xvive Audio Golden Brownie Distortion 1.
+
+### Sources checked in this pass
+1. Xvive Audio Golden Brownie Distortion | Long & McQuade: https://www.long-mcquade.com/135228/Guitars/Guitar-Effects/Xvive-Audio/Golden-Brownie-Distortion.htm
+2. Short review here of the Xvive... - Australian Guitar Review: https://www.facebook.com/australianguitar/posts/short-review-here-of-the-xvive-audio-golden-brownie-that-i-got-through-artist-gu/310825702727623/

@@ -8,6 +8,8 @@
 
 ## What this pedal is
 
+Ibanez JD9 Jet Driver Pedal Review - Premier Guitar: https://www.premierguitar.com/gear/ibanez-jd9-jet-driver-pedal-review - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
 ## Colorways
 - No specific factory colorway information was established in the verified evidence packet.
 
@@ -33,3 +35,24 @@ The verified evidence packet did not contain enough pedal-specific sonic descrip
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Ibanez JD9 Jet Driver Pedal Review - Premier Guitar: https://www.premierguitar.com/gear/ibanez-jd9-jet-driver-pedal-review - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+### Verified color/finish evidence
+- No specific factory colorway information was established in the verified evidence packet.
+
+### Verified version references
+- The evidence references: revision.
+
+### Verified sound evidence
+**Archive parent:** JD9 - **Builder:** Ibanez - **Catalog type:** Overdrive - **Identity:** Ibanez's JD9.
+Ibanez JD9 Jet Driver Overdrive - Reverb: https://reverb.com/p/ibanez-jd9-jet-driver 2.
+
+### Sources checked in this pass
+1. Ibanez JD9 Jet Driver Overdrive - Reverb: https://reverb.com/p/ibanez-jd9-jet-driver
+2. Ibanez JD9 Jet Driver Pedal Review - Premier Guitar: https://www.premierguitar.com/gear/ibanez-jd9-jet-driver-pedal-review

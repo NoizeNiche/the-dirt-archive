@@ -27,9 +27,37 @@ Old Blood Noise Endeavors's Alpha Haunt is cataloged as a Fuzz pedal.
 
 ## Sound
 
+Old Blood Noise Endeavors's Alpha Haunt is cataloged as a Fuzz pedal.
+
+Old Blood Noise Endeavors — Alpha Haunt: https://oldbloodnoise.com/pedals/p/alpha-haunt-fuzz 2.
+
+**Archive parent:** Alpha Haunt - **Builder:** Old Blood Noise Endeavors - **Catalog type:** Fuzz - **Identity:** Old Blood Noise Endeavors's Alpha Haunt.
+
 ## Sources checked
 1. Old Blood Noise Endeavors — Alpha Haunt: https://oldbloodnoise.com/pedals/p/alpha-haunt-fuzz
 2. Old Blood Noise Endeavors Alpha Haunt - Equipboard: https://equipboard.com/items/old-blood-noise-endeavors-alpha-haunt
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Old Blood Noise Endeavors's Alpha Haunt is cataloged as a Fuzz pedal.
+
+### Verified color/finish evidence
+- No specific factory colorway information was established in the verified evidence packet.
+
+### Verified version references
+- The evidence references: revision.
+
+### Verified sound evidence
+Old Blood Noise Endeavors's Alpha Haunt is cataloged as a Fuzz pedal.
+Old Blood Noise Endeavors — Alpha Haunt: https://oldbloodnoise.com/pedals/p/alpha-haunt-fuzz 2.
+**Archive parent:** Alpha Haunt - **Builder:** Old Blood Noise Endeavors - **Catalog type:** Fuzz - **Identity:** Old Blood Noise Endeavors's Alpha Haunt.
+
+### Sources checked in this pass
+1. Old Blood Noise Endeavors &mdash; Alpha Haunt: https://oldbloodnoise.com/pedals/p/alpha-haunt-fuzz
+2. Old Blood Noise Endeavors Alpha Haunt - Equipboard: https://equipboard.com/items/old-blood-noise-endeavors-alpha-haunt

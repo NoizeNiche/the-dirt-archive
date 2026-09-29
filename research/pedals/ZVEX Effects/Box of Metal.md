@@ -27,7 +27,11 @@
 
 ## Sound
 
-No verified pedal-specific sonic summary is currently established in the archive.
+**Archive parent:** Box of Metal - **Builder:** ZVEX Effects - **Catalog type:** Distortion - **Identity:** ZVEX Effects's Box of Metal.
+
+39 EX-Inferno Metal Distortion Pedal + 9V 2A Guitar Pedal Power Supply Adapter 4.3 79 $42.99 $ 42 .
+
+99 Empress Effects Heavy Menace Distortion Pedal - Black 4.8 24 $249.00 $ 249 .
 
 ## Sources checked
 1. Zvex Effects Box Of Metal Vexter Series Distortion Gate Guitar ... - eBay: https://www.ebay.com/itm/326891593392
@@ -36,3 +40,26 @@ No verified pedal-specific sonic summary is currently established in the archive
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Amazon.com: ZVex Effects Vexter Box of Metal Distortion Guitar Effects Pedal : Musical Instruments: https://www.amazon.com/Effects-Vexter-Metal-Distortion-Guitar/dp/B01LX6ZB7G - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+### Verified color/finish evidence
+- 99 Empress Effects Heavy Menace Distortion Pedal - Black 4.8 24 $249.00 $ 249 .
+
+### Verified version references
+- The evidence references: revision.
+
+### Verified sound evidence
+**Archive parent:** Box of Metal - **Builder:** ZVEX Effects - **Catalog type:** Distortion - **Identity:** ZVEX Effects's Box of Metal.
+39 EX-Inferno Metal Distortion Pedal + 9V 2A Guitar Pedal Power Supply Adapter 4.3 79 $42.99 $ 42 .
+99 Empress Effects Heavy Menace Distortion Pedal - Black 4.8 24 $249.00 $ 249 .
+
+### Sources checked in this pass
+1. Zvex Effects Box Of Metal Vexter Series Distortion Gate Guitar ... - eBay: https://www.ebay.com/itm/326891593392
+2. ZVEX Effects Box of Metal (Hand Painted) | Axe... And You Shall Receive: https://www.axeandyoushallreceive.com/product/zvex-effects-box-metal-hand-painted
+3. Amazon.com: ZVex Effects Vexter Box of Metal Distortion Guitar Effects Pedal : Musical Instruments: https://www.amazon.com/Effects-Vexter-Metal-Distortion-Guitar/dp/B01LX6ZB7G

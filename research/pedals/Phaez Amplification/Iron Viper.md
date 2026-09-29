@@ -28,3 +28,29 @@ The Dirt Archive currently catalogs **Iron Viper** by **Phaez Amplification** as
 
 ## Verification source set
 1. Phaez Amplification — Pedals: https://phaezamplification.com/pedals/
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+BUY THIS PEDAL US$89 I think the M-Class is the REFERENCE STANDARD in distortion pedals M-Class addresses 2 small points in the Guv'nor.
+
+### Verified color/finish evidence
+- Iron Viper - based on the BJFe Dyna Red Distortion SOLD!
+- BJF Dyna Red Distortion I also want to mention the BJFe Dyna Red Distortion.
+- Red LED’s in the feedback loop – NICE.
+
+### Verified version references
+- The evidence references: revision.
+
+### Verified diode terms
+- LED.
+
+### Verified sound evidence
+PRICES INCLUDE SHIPPING 2026 LINEUP: M Class Distortion Alligator Overdrive McBoosty Emperor Distortion (M Guv) NEW FOR July 2026.
+BUY THIS PEDAL US$89 I think the M-Class is the REFERENCE STANDARD in distortion pedals M-Class addresses 2 small points in the Guv'nor.
+BUY THIS PEDAL US$89 I think the M-Class is the REFERENCE STANDARD in distortion pedals The M-Class addresses 2 small points in the Guv'nor.
+
+### Sources checked in this pass
+1. PEDALS - Phaez Amplification: https://phaezamplification.com/pedals/

@@ -7,7 +7,8 @@
 - **Identity:** Danelectro's Cool Cat Drive.
 
 ## What this pedal is
-Here’s the current state of play in my Guitar Overdrive Pedal Shootout.
+
+Danelectro CO-2 Cool Cat Drive V2 - What To Know Where To Buy: https://equipboard.com/items/danelectro-cool-cat-co-2-drive-v2 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
 
 ## Colorways
 - No specific factory colorway information was established in the verified evidence packet.
@@ -38,3 +39,26 @@ Joyo Ultimate Drive – Too dark, too scooped, too twitchy.
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Danelectro CO-2 Cool Cat Drive V2 - What To Know Where To Buy: https://equipboard.com/items/danelectro-cool-cat-co-2-drive-v2 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+### Verified color/finish evidence
+- No specific factory colorway information was established in the verified evidence packet.
+
+### Verified version references
+- The evidence references: V2, revision, v2.
+
+### Verified sound evidence
+**Archive parent:** Cool Cat Drive - **Builder:** Danelectro - **Catalog type:** Overdrive - **Identity:** Danelectro's Cool Cat Drive.
+Here’s the current state of play in my Guitar Overdrive Pedal Shootout.
+Review of the Danelectro Cool Cat Drive V2.
+
+### Sources checked in this pass
+1. Danelectro Cool Cat Drive - Reverb: https://reverb.com/p/danelectro-cool-cat-drive-v2
+2. Guitar Overdrive Pedal Shootout :Danelectro Cool Cat Drive V2 Review - The Blogging Musician: https://adamharkus.com/guitar-overdrive-pedal-shootout-danelectro-cool-cat-drive-v2-review/
+3. Danelectro CO-2 Cool Cat Drive V2 - What To Know Where To Buy: https://equipboard.com/items/danelectro-cool-cat-co-2-drive-v2

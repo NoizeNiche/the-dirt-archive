@@ -28,9 +28,37 @@ Keeley Electronics's Mk3 Driver — Andy Timmons Full Range Overdrive is catalog
 
 ## Sound
 
+Keeley Electronics's Mk3 Driver — Andy Timmons Full Range Overdrive is cataloged as a fuzz / overdrive pedal.
+
+Keeley Electronics - MK3 Driver - Andy Timmons Full Range Overdrive: https://gcrockboard.com/keeley-electronics-mk3-driver-andy-timmons-full-range-overdrive 2.
+
+Keeley Electronics Mk3 Driver - Andy Timmons Full Range Overdrive Effe – Russo Music: https://www.russomusic.com/products/keeley-electronics-mk3-driver-andy-timmons-full-range-overdrive-effect-pedal - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
 ## Sources checked
 1. Keeley Electronics - MK3 Driver - Andy Timmons Full Range Overdrive: https://gcrockboard.com/keeley-electronics-mk3-driver-andy-timmons-full-range-overdrive
 2. Keeley Electronics Mk3 Driver - Andy Timmons Full Range Overdrive Effe – Russo Music: https://www.russomusic.com/products/keeley-electronics-mk3-driver-andy-timmons-full-range-overdrive-effect-pedal
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Keeley Electronics's Mk3 Driver — Andy Timmons Full Range Overdrive is cataloged as a fuzz / overdrive pedal.
+
+### Verified color/finish evidence
+- No specific factory colorway information was established in the verified evidence packet.
+
+### Verified version references
+- The evidence references: MK3, Mk3, mk3, revision.
+
+### Verified sound evidence
+Keeley Electronics's Mk3 Driver — Andy Timmons Full Range Overdrive is cataloged as a fuzz / overdrive pedal.
+Keeley Electronics - MK3 Driver - Andy Timmons Full Range Overdrive: https://gcrockboard.com/keeley-electronics-mk3-driver-andy-timmons-full-range-overdrive 2.
+Keeley Electronics Mk3 Driver - Andy Timmons Full Range Overdrive Effe – Russo Music: https://www.russomusic.com/products/keeley-electronics-mk3-driver-andy-timmons-full-range-overdrive-effect-pedal - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+### Sources checked in this pass
+1. Keeley Electronics - MK3 Driver - Andy Timmons Full Range Overdrive: https://gcrockboard.com/keeley-electronics-mk3-driver-andy-timmons-full-range-overdrive
+2. Keeley Electronics Mk3 Driver - Andy Timmons Full Range Overdrive Effe &ndash; Russo Music: https://www.russomusic.com/products/keeley-electronics-mk3-driver-andy-timmons-full-range-overdrive-effect-pedal

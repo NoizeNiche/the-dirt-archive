@@ -1,16 +1,26 @@
 {
   "builder": "Lovepedal / Love Pedal",
   "pedal": "Zendrive 2",
+  "original_builder": "Lovepedal / Love Pedal",
+  "original_pedal": "Zendrive 2",
   "status": "VERIFIED_EVIDENCE_STAGED",
-  "independent_exact_source_count": 1,
+  "independent_exact_source_count": 2,
   "sources": [
     {
-      "url": "https://www.lovepedal.com/",
-      "title": "Love Pedal",
-      "h1": "Lovepedal / Love Pedal \u2014 Zendrive 2",
-      "excerpt": "Love Pedal Home Pedals Press Videos Custom History Contact See What\u2019s New Click for details. Watch a Video Click for details. Custom Shop Click for details. Love Pedal News Click for details. TCHULA 200lbs PURPLE PLEXI ETERNITY BURST HERMIDA ZENDRIVE DOVER DRIVE AMP ELEVEN RUBBER CHICKEN HERMIDA EPH3 &copy; All rights reserved 2026 LOVEPEDAL L.L.C. Home Pedals Press Contact Privacy Policy Terms of Service\n- **Builder:** Lovepedal / Love Pedal\n- **Pedal:** Zendrive 2\n- **Catalog type:** Overdrive\n- **Research level:** Surface\n- **Deep research status:** Pending\n- **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.\n\nThe Dirt Archive currently catalogs **Zendrive 2** by **Lovepedal / Love Pedal** as a **Overdrive** pedal. This statement is limited to the archive\u2019s catalog classification. Deeper technical, historical, and sonic details remain pending verification.\n\n- Catalog source page on file: https://lovepedal.com/\n\n- **Archive photo:** No verified local photo is currently archived.\n- Photo provenance and validation are handled separately from this surface research record.\n\n- **Status:** Pending\n- Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive\u2019s research foreman.",
+      "url": "https://www.lovepedal.com/zendrive-2/",
+      "title": "ZENDRIVE 2 | Love Pedal",
+      "h1": "ZENDRIVE 2",
+      "excerpt": "ZENDRIVE 2 | Love Pedal Home Pedals Press Videos Custom History Contact ZENDRIVE 2   Zendrive 2 GOLD $250.00 50 UNITS SOLD OUT PRODUCT DESCRIPTION Hermida audio technology zendrive 2 Between April of 2016 and May of 2016 Alfonso Hermida built a small batch of these incredible units. They are ready to ship and very rare! We only have this one small batch of units Alfonso built available. We have a NO return, NO cancel policy on these particular units because of the time involved to produce them. The NEW Zendrive 2 features high voltage FET technology that incredibly clones the Tung-Sol 12AX7 response. Now less space is required and a longer life span is gained by using Alfonso\u2019s new setup. We have 50 units on hand in GOLD ready to ship.   . FEATURES Low-to-medium gain TUBE overdrive TUNG-SOL 12AX7 TONE! Slight overdrive to mild distortion Great dynamic response and open sound Connectors: Input, Output, DC adapter Power Supply: 9VDC center neg. adapter or 9 VOLT BATTERY Current Draw 25 mA \u201cThe Zendrive is one of the most elegant sounding overdrives I\u2019ve ever heard\u2026. Whether you\u2019re seeking a glass-smooth overdrive with flawless string-to-string clarity or a clean booster/sweetener for a medium-wattage combo, your search is over.\u201d \u2014Darrin Fox, Guitar Player Magazine \u201cI tried it out and fell in love with it.\u201d \u2014Robben Ford \u201cReally smooth and musical with a nice harmonic factor. It seems to adapt really well to different amps\u2026\u201d \u2014Sonny Landreth \u201cOne of the best sounding kind of overdrive pedals I\u2019ve ever heard\u2026 fabulous.\u201d \u2014Vince Gill \u201cYou really won\u2019t find a smoother overdrive that expands your tone so effortlessly.\u201d \u2014Adam Moore, Guitar Player &copy; All rights reserved 2026 LOVEPEDAL L.L.C. Home Pedals Press Contact Privacy Policy Terms of Service\n- **Archive parent:** Zendrive 2\n- **Builder:** Lovepedal / Love Pedal\n- **Catalog type:** Overdrive\n- **Identity:** Lovepedal / Love Pedal's Zendrive 2.\n\nZendrive 2 is a limited Hermida Audio/Lovepedal version of the Zendrive using high-voltage FET technology intended to emulate a 12AX7-style tube stage.\n\n- A documented 2016 production batch used a gold finish.\n\n- High-voltage FET architecture.\n- Limited production.\n- 9V/18V operation is documented.\n\n- **High-voltage FET** technology is documented.\n- Exact device part number was not established.\n\n- Exact clipping-device information was not established.\n\nOpen, dynamic low-to-medium gain with tube-style response.\n\n1. Lovepedal - Zendrive 2: https://www.lovepedal.com/zendrive-2/\n2. Effects Database - Lovepedal Zendrive 2: https://www.effectsdatabase.com/model/lovepedal/zendrive2\n\n- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.",
       "host": "www.lovepedal.com",
       "source_kind": "catalog_verified"
+    },
+    {
+      "url": "https://www.effectsdatabase.com/model/lovepedal/zendrive2",
+      "title": "catalog/override source",
+      "h1": "Lovepedal / Love Pedal \u2014 Zendrive 2",
+      "excerpt": "- **Archive parent:** Zendrive 2\n- **Builder:** Lovepedal / Love Pedal\n- **Catalog type:** Overdrive\n- **Identity:** Lovepedal / Love Pedal's Zendrive 2.\n\nZendrive 2 is a limited Hermida Audio/Lovepedal version of the Zendrive using high-voltage FET technology intended to emulate a 12AX7-style tube stage.\n\n- A documented 2016 production batch used a gold finish.\n\n- High-voltage FET architecture.\n- Limited production.\n- 9V/18V operation is documented.\n\n- **High-voltage FET** technology is documented.\n- Exact device part number was not established.\n\n- Exact clipping-device information was not established.\n\nOpen, dynamic low-to-medium gain with tube-style response.\n\n1. Lovepedal - Zendrive 2: https://www.lovepedal.com/zendrive-2/\n2. Effects Database - Lovepedal Zendrive 2: https://www.effectsdatabase.com/model/lovepedal/zendrive2\n\n- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.",
+      "host": "www.effectsdatabase.com",
+      "source_kind": "effects_database"
     }
   ],
   "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."

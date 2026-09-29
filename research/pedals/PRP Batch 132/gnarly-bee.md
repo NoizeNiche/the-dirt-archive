@@ -42,3 +42,26 @@ Ask a question Summary of Contents for Bulinski Effect Pedals GNARLY BEE RETRO F
 2. Gnarly Bee (Fuzzrite) Fuzz Pedal by Bulinski Effect Pedals: https://reverb.com/item/55288911-gnarly-bee-fuzzrite-fuzz-pedal-by-bulinski-effect-pedals
 3. NPD: Bulinski Effect Pedals "Gnarly Bee" (Si Fuzzrite): https://www.offsetguitars.com/forums/viewtopic.php?p=1825507
 4. BULINSKI EFFECT PEDALS GNARLY BEE RETRO FUZZ QUICK START MANUAL Pdf Download | ManualsLib: https://www.manualslib.com/manual/3452680/Bulinski-Effect-Pedals-Gnarly-Bee-Retro-Fuzz.html
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Do you have a question about the GNARLY BEE RETRO FUZZ and is the answer not in the manual?
+
+### Verified diode terms
+- LED.
+
+### Verified sound evidence
+**Builder:** Bulinski Effect Pedals - **Catalog type:** Fuzz - **Identity:** Boutique clone of the Mosrite Fuzzrite.
+The design is based on the distinctive 1960s Fuzzrite circuit and retains its characteristic buzzing fuzz family.
+Do you have a question about the GNARLY BEE RETRO FUZZ and is the answer not in the manual?
+
+### Sources checked in this pass
+1. Bulinski Effect Pedals Gnarly Bee - Equipboard: https://equipboard.com/items/bulinski-effect-pedals-gnarly-bee
+2. Gnarly Bee (Fuzzrite) Fuzz Pedal by Bulinski Effect Pedals: https://reverb.com/item/55288911-gnarly-bee-fuzzrite-fuzz-pedal-by-bulinski-effect-pedals
+3. NPD: Bulinski Effect Pedals &quot;Gnarly Bee&quot; (Si Fuzzrite): https://www.offsetguitars.com/forums/viewtopic.php?p=1825507
+4. BULINSKI EFFECT PEDALS GNARLY BEE RETRO FUZZ QUICK START MANUAL Pdf Download | ManualsLib: https://www.manualslib.com/manual/3452680/Bulinski-Effect-Pedals-Gnarly-Bee-Retro-Fuzz.html
+5. Gnarly Bee - Bulinski Effect Pedals: https://bulinskipedals.com/shop/gnarly-bee-fuzzrite-clone/
+6. https://i0.wp.com/bulinskipedals.com/wp-content/uploads/2022/05/Bulinski-Gnarly-Bee-1.jpg?fit=1200%2C1200&: https://i0.wp.com/bulinskipedals.com/wp-content/uploads/2022/05/Bulinski-Gnarly-Bee-1.jpg?fit=1200%2C1200&

@@ -26,6 +26,11 @@ JAM Pedals's Fuzz Phrase Si is cataloged as a fuzz pedal.
 - **Exact part:** Unknown.
 
 ## Sound
+
+Barth - **Archive parent:** Fuzz Phrase Si - **Builder:** JAM Pedals - **Catalog type:** Fuzz - **Identity:** JAM Pedals's Fuzz Phrase Si.
+
+JAM Pedals's Fuzz Phrase Si is cataloged as a fuzz pedal.
+
 JAM pedals Fuzz Phrase Si – United States Served with love!
 
 ## Sources checked
@@ -36,3 +41,27 @@ JAM pedals Fuzz Phrase Si – United States Served with love!
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+JAM Pedals's Fuzz Phrase Si is cataloged as a fuzz pedal.
+
+### Verified color/finish evidence
+- No specific factory colorway information was established in the verified evidence packet.
+
+### Verified version references
+- The evidence references: revision.
+
+### Verified sound evidence
+Barth - **Archive parent:** Fuzz Phrase Si - **Builder:** JAM Pedals - **Catalog type:** Fuzz - **Identity:** JAM Pedals's Fuzz Phrase Si.
+JAM Pedals's Fuzz Phrase Si is cataloged as a fuzz pedal.
+JAM pedals Fuzz Phrase Si – United States Served with love!
+
+### Sources checked in this pass
+1. Fuzz Phrase Si: https://www.jampedals.com/products/fuzz-phrase-si
+2. JAM pedals Fuzz Phrase Si – United States: https://www.thomannmusic.com/jam_pedals_fuzz_phrase_si.htm
+3. Fuzz Phrase Si - JAM pedals: https://old.jampedals.com/fuzz-phrase-si/
+4. JAM Pedals Fuzz Phrase Si - Reverb: https://reverb.com/p/jam-pedals-fuzz-phrase-si

@@ -27,7 +27,12 @@ The Bunker is a plexi style overdrive based around the original Lovetone Brown S
 - **Exact part:** Unknown.
 
 ## Sound
-Plexi Overdrive Skip to product information Close BUNKER
+
+Plexi Overdrive $237.00 $237.00 Unit price / per Shipping calculated at checkout.
+
+Plexi Overdrive Increase quantity for BUNKER
+
+Plexi Overdrive Add to cart Description The Bunker is a plexi style overdrive based around the original Lovetone Brown Source pedal.
 
 ## Sources checked
 1. BUNKER | Plexi Overdrive: https://thorpyfx.com/en-us/products/the-bunker-drive-pedal-1
@@ -35,3 +40,25 @@ Plexi Overdrive Skip to product information Close BUNKER
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Plexi Overdrive Add to cart Description The Bunker is a plexi style overdrive based around the original Lovetone Brown Source pedal.
+
+### Verified color/finish evidence
+- No specific factory colorway information was established in the verified evidence packet.
+
+### Verified version references
+- The evidence references: MKII, revision.
+
+### Verified sound evidence
+Plexi Overdrive $237.00 $237.00 Unit price / per Shipping calculated at checkout.
+Plexi Overdrive Increase quantity for BUNKER
+Plexi Overdrive Add to cart Description The Bunker is a plexi style overdrive based around the original Lovetone Brown Source pedal.
+
+### Sources checked in this pass
+1. BUNKER | Plexi Overdrive: https://thorpyfx.com/en-us/products/the-bunker-drive-pedal-1
+2. ThorpyFX The Bunker - Reverb: https://reverb.com/p/thorpyfx-the-bunker

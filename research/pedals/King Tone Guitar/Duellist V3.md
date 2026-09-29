@@ -27,7 +27,12 @@ King Tone Guitar's Duellist V3 is cataloged as an overdrive pedal.
 - **Exact part:** Unknown.
 
 ## Sound
-Condition: Brand New KING TONE GUITA
+
+Condition: Brand New KING TONE GUITA - **Archive parent:** Duellist V3 - **Builder:** King Tone Guitar - **Catalog type:** Overdrive - **Identity:** King Tone Guitar's Duellist V3.
+
+King Tone Guitar's Duellist V3 is cataloged as an overdrive pedal.
+
+Condition: Brand New KING TONE GUITA 1.
 
 ## Sources checked
 1. Duellist V3 by KING TONE GUITAR – Ikebe Musical Instruments Store: https://global.ikebe-gakki.com/products/861698
@@ -37,3 +42,27 @@ Condition: Brand New KING TONE GUITA
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+King Tone Guitar's Duellist V3 is cataloged as an overdrive pedal.
+
+### Verified color/finish evidence
+- No specific factory colorway information was established in the verified evidence packet.
+
+### Verified version references
+- The evidence references: V3, revision, v3.
+
+### Verified sound evidence
+Condition: Brand New KING TONE GUITA - **Archive parent:** Duellist V3 - **Builder:** King Tone Guitar - **Catalog type:** Overdrive - **Identity:** King Tone Guitar's Duellist V3.
+King Tone Guitar's Duellist V3 is cataloged as an overdrive pedal.
+Condition: Brand New KING TONE GUITA 1.
+
+### Sources checked in this pass
+1. Duellist V3 by KING TONE GUITAR &ndash; Ikebe Musical Instruments Store: https://global.ikebe-gakki.com/products/861698
+2. King Tone Guitar The Duellist V3 - Bucket List Guitars: https://bucketlistguitars.com/product/king-tone-guitar-the-duellist-v3/
+3. KING TONE GUITAR Duellist V3 - Reverb: https://reverb.com/item/98760225-king-tone-guitar-duellist-v3
+4. King Tone Guitar Duellist v3 | Uni•Sound: https://www.uni-sound.hk/product-page/king-tone-guitar-duellist-v3

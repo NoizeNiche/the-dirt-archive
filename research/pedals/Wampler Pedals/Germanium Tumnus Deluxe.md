@@ -27,7 +27,11 @@ Thanks to them, the Germanium Tumnus Deluxe is as close as you can get to his '9
 
 ## Sound
 
-No verified pedal-specific sonic summary is currently established in the archive.
+The Germanium Tumnus Deluxe adds vintage sizzle and extra bite to a classic pedal, with increased options for gain switching, three band EQ, and switchable buffer.
+
+Out of stock Watch video - **Archive parent:** Germanium Tumnus Deluxe - **Builder:** Wampler Pedals - **Catalog type:** Distortion / Overdrive - **Identity:** Wampler Pedals's Germanium Tumnus Deluxe.
+
+Wampler Pedals: https://www.wamplerpedals.com/products/distortion-overdrive/germanium-tumnus-deluxe/ 2.
 
 ## Sources checked
 1. Germanium Tumnus Deluxe | Wampler Pedals: https://www.wamplerpedals.com/products/distortion-overdrive/germanium-tumnus-deluxe/
@@ -50,6 +54,28 @@ Thanks to them, the Germanium Tumnus Deluxe is as close as you can get to his '9
 The Germanium Tumnus Deluxe adds vintage sizzle and extra bite to a classic pedal, with increased options for gain switching, three band EQ, and switchable buffer.
 Published on March 3, 2025 Wampler Pedals overdrive pedal Information Wampler Pedals The Germanium Tumnus Deluxe adds vintage sizzle and extra bite to a classic pedal, with increased options for gain switching, three band EQ, and switchable buffer.
 "This is my shot at the ultimate Klon-style overdrive…​" Legendary Diodes, Iconic Tone There are so many Klones out there that it's hard to keep up.
+
+### Sources checked in this pass
+1. Germanium Tumnus Deluxe | Wampler Pedals: https://www.wamplerpedals.com/products/distortion-overdrive/germanium-tumnus-deluxe/
+2. Wampler Pedals Tumnus Germanium Deluxe | Effects Database: https://www.effectsdatabase.com/model/wampler/tumnus/germanium/deluxe
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Thanks to them, the Germanium Tumnus Deluxe is as close as you can get to his '90s icons.
+
+### Verified version references
+- The evidence references: revision.
+
+### Verified diode terms
+- LED.
+
+### Verified sound evidence
+The Germanium Tumnus Deluxe adds vintage sizzle and extra bite to a classic pedal, with increased options for gain switching, three band EQ, and switchable buffer.
+Out of stock Watch video - **Archive parent:** Germanium Tumnus Deluxe - **Builder:** Wampler Pedals - **Catalog type:** Distortion / Overdrive - **Identity:** Wampler Pedals's Germanium Tumnus Deluxe.
+Wampler Pedals: https://www.wamplerpedals.com/products/distortion-overdrive/germanium-tumnus-deluxe/ 2.
 
 ### Sources checked in this pass
 1. Germanium Tumnus Deluxe | Wampler Pedals: https://www.wamplerpedals.com/products/distortion-overdrive/germanium-tumnus-deluxe/

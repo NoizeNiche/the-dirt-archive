@@ -28,7 +28,11 @@ Wampler Pedals's UnderDog is cataloged in the archive as a Overdrive pedal.
 
 ## Sound
 
-No verified pedal-specific sonic summary is currently established in the archive.
+**Archive parent:** UnderDog - **Builder:** Wampler Pedals - **Catalog type:** Overdrive - **Identity:** Wampler Pedals's UnderDog.
+
+Wampler Pedals's UnderDog is cataloged in the archive as a Overdrive pedal.
+
+PDF Underdog Overdrive Manual - Wampler Pedals: https://www.wamplerpedals.com/wp-content/uploads/2019/11/Underdog.pdf 2.
 
 ## Sources checked
 1. PDF Underdog Overdrive Manual - Wampler Pedals: https://www.wamplerpedals.com/wp-content/uploads/2019/11/Underdog.pdf
@@ -39,3 +43,28 @@ No verified pedal-specific sonic summary is currently established in the archive
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Wampler Pedals's UnderDog is cataloged in the archive as a Overdrive pedal.
+
+### Verified color/finish evidence
+- No specific factory colorway information was established in the verified evidence packet.
+
+### Verified version references
+- The evidence references: revision.
+
+### Verified sound evidence
+**Archive parent:** UnderDog - **Builder:** Wampler Pedals - **Catalog type:** Overdrive - **Identity:** Wampler Pedals's UnderDog.
+Wampler Pedals's UnderDog is cataloged in the archive as a Overdrive pedal.
+PDF Underdog Overdrive Manual - Wampler Pedals: https://www.wamplerpedals.com/wp-content/uploads/2019/11/Underdog.pdf 2.
+
+### Sources checked in this pass
+1. PDF Underdog Overdrive Manual - Wampler Pedals: https://www.wamplerpedals.com/wp-content/uploads/2019/11/Underdog.pdf
+2. Wampler Pedals Underdog Overdrive - Free Shipping* | Reverb: https://reverb.com/item/14224808-wampler-pedals-underdog-overdrive-free-shipping
+3. Wampler Pedals Underdog Overdrive - The Gear Page: https://www.thegearpage.net/board/index.php?threads/wampler-pedals-underdog-overdrive.710157/
+4. Wampler Underdog Overdrive:Guitars, Pedals Amps Effects: https://www.tonetronix.com/p/Wampler-Underdog-Overdrive.html
+5. Wampler Pedals Underdog - Overdrive | Effects Database: https://www.effectsdatabase.com/model/wampler/underdog

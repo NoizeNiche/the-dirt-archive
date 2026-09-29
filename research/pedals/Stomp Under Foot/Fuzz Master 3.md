@@ -26,7 +26,12 @@ Stomp Under Foot's Fuzz Master 3 is cataloged as a fuzz pedal.
 - **Exact part:** Unknown.
 
 ## Sound
-Platte River Drive, Denver, CO 80223
+
+**Archive parent:** Fuzz Master 3 - **Builder:** Stomp Under Foot - **Catalog type:** Fuzz - **Identity:** Stomp Under Foot's Fuzz Master 3.
+
+Stomp Under Foot's Fuzz Master 3 is cataloged as a fuzz pedal.
+
+Platte River Drive, Denver, CO 80223 1.
 
 ## Sources checked
 1. FUZZ MASTER 3 VINTAGE MINI - Stomp Under Foot: https://stompunderfoot.com/products/fuzz-master-3
@@ -34,3 +39,25 @@ Platte River Drive, Denver, CO 80223
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Stomp Under Foot's Fuzz Master 3 is cataloged as a fuzz pedal.
+
+### Verified color/finish evidence
+- No specific factory colorway information was established in the verified evidence packet.
+
+### Verified version references
+- The evidence references: revision.
+
+### Verified sound evidence
+**Archive parent:** Fuzz Master 3 - **Builder:** Stomp Under Foot - **Catalog type:** Fuzz - **Identity:** Stomp Under Foot's Fuzz Master 3.
+Stomp Under Foot's Fuzz Master 3 is cataloged as a fuzz pedal.
+Platte River Drive, Denver, CO 80223 1.
+
+### Sources checked in this pass
+1. FUZZ MASTER 3 VINTAGE MINI - Stomp Under Foot: https://stompunderfoot.com/products/fuzz-master-3
+2. Stomp Under Foot Fuzz Master 3 Fuzz Pedal &ndash; Flipside Music: https://flipside-music.com/products/stomp-under-foot-fuzz-master-3

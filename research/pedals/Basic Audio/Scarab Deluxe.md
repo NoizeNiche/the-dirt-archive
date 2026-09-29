@@ -55,3 +55,25 @@ Basic Audio's Scarab Deluxe documentation was checked against Effects Database a
 ## Photo
 - **Exact pedal photograph:** Existing exact-model Stang Guitars photograph.
 - **Source:** https://stangguitars.com/
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Scarab Deluxe — Basic Audio Contact Store About Menu Basic Audio Contact Store About Pedal colors are subject to change.
+
+### Verified version references
+- The evidence references: MKII, MkII, mkii.
+
+### Verified transistor/device terms
+- BC549B.
+
+### Verified sound evidence
+← Back to Store Scarab Deluxe Scarab Deluxe from $210.00 A silicon Tonebender MKII type circuit with Variable low frequency input (FAT), Tone and Bias knobs.
+**Archive parent:** Scarab Deluxe - **Builder:** Basic Audio - **Catalog type:** Fuzz - **Identity:** Silicon Tone Bender MkII-type fuzz expanded from the earlier Scarab with external Bias and Fat controls.
+**LEVEL** - **TONE** - **FUZZ** - **BIAS** - **FAT** FAT changes the amount of low-frequency content feeding the saturation stages.
+
+### Sources checked in this pass
+1. Scarab Deluxe &mdash; Basic Audio: https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-6jkg6
+2. catalog/override source: https://www.effectsdatabase.com/model/basicaudio/scarab/deluxe

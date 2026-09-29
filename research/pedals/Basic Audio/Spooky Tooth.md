@@ -49,3 +49,32 @@ Basic Audio's exact-model page was cross-checked with Effects Database. The sour
 ## Photo
 - **Exact pedal photograph:** Basic Audio official product photograph.
 - https://images.squarespace-cdn.com/content/v1/5da9e97016ddf940acffa2d3/1576108258790-6HS15EJ99Q1ENFTGTY8A/DSCF0160.jpg
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Spooky Tooth — Basic Audio Contact Store About Menu Basic Audio Contact Store About Pedal colors are subject to change.
+
+### Verified version references
+- The evidence references: revision, v1.
+
+### Verified transistor/device terms
+- Silicon transistors.
+
+### Verified diode terms
+- led.
+
+### Verified sound evidence
+The low end control and saturation, you can dial in a nice fuzz face, purple haze sound and with everything all the way up you get a big muff type sound out of it.
+Obviously the fuzz face setting I dialed in doesn't sound as good as the sunface I had but the big muff sounds better than the newer ones i have tried and it has so many of it's own tones going on......
+It even gets really overdrive like with the saturation, low end almost all the way down.
+
+### Sources checked in this pass
+1. Basic Audio Spooky Tooth - What To Know & Where To Buy: https://equipboard.com/items/basic-audio-spooky-tooth
+2. Basic Audio Spooky Tooth - Reverb: https://reverb.com/p/basic-audio-spooky-tooth
+3. Basic Audio Spooky Tooth Review | Seymour Duncan Forums: https://forum.seymourduncan.com/threads/basic-audio-spooky-tooth-review.235679/
+4. NPD: Basic Audio Spooky Tooth : r/guitarpedals - Reddit: https://www.reddit.com/r/guitarpedals/comments/7d9nb8/npd_basic_audio_spooky_tooth/
+5. catalog/override source: https://www.effectsdatabase.com/model/basicaudio/spookytooth
+6. Spooky Tooth &mdash; Basic Audio: https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-cnzrr-ksfg5

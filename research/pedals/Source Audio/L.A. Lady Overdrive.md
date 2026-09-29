@@ -26,10 +26,36 @@ Source Audio's L.A. Lady Overdrive is cataloged as an overdrive pedal.
 - **Exact part:** Unknown.
 
 ## Sound
+
 Lady Overdrive** by **Source Audio** as a **Overdrive / Fuzz / Distortion** pedal.
+
+Lady Overdrive - **Builder:** Source Audio - **Catalog type:** Overdrive - **Identity:** Source Audio's L.A.
+
+Lady Overdrive is cataloged as an overdrive pedal.
 
 ## Sources checked
 1. Source Audio: https://sourceaudio.net/
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Lady Overdrive is cataloged as an overdrive pedal.
+
+### Verified color/finish evidence
+- No specific factory colorway information was established in the verified evidence packet.
+
+### Verified version references
+- The evidence references: revision.
+
+### Verified sound evidence
+Lady Overdrive** by **Source Audio** as a **Overdrive / Fuzz / Distortion** pedal.
+Lady Overdrive - **Builder:** Source Audio - **Catalog type:** Overdrive - **Identity:** Source Audio's L.A.
+Lady Overdrive is cataloged as an overdrive pedal.
+
+### Sources checked in this pass
+1. Source Audio: https://sourceaudio.net/

@@ -8,6 +8,8 @@
 
 ## What this pedal is
 
+Leqtique Beryl EVR Leqtique DS10490951 - eBay: https://www.ebay.com/itm/257537534831 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
 ## Colorways
 - No specific factory colorway information was established in the verified evidence packet.
 
@@ -26,7 +28,9 @@
 
 ## Sound
 
-No verified pedal-specific sonic summary is currently established in the archive.
+**Archive parent:** Beryl - **Builder:** Leqtique - **Catalog type:** Overdrive - **Identity:** Leqtique's Beryl.
+
+escape }}\" class=\"boost-sd__modal\" id=\"boost-sd__modal-quickview\" data-product-id='{{ productData.id }}' data-product='{{ productData
 
 ## Sources checked
 1. Beryl EVR Manual – Leqtiqueshop: https://leqtique.ch/en/pages/beryl-evr-manual
@@ -37,3 +41,27 @@ No verified pedal-specific sonic summary is currently established in the archive
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Leqtique Beryl EVR Leqtique DS10490951 - eBay: https://www.ebay.com/itm/257537534831 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+### Verified color/finish evidence
+- No specific factory colorway information was established in the verified evidence packet.
+
+### Verified version references
+- The evidence references: revision.
+
+### Verified sound evidence
+**Archive parent:** Beryl - **Builder:** Leqtique - **Catalog type:** Overdrive - **Identity:** Leqtique's Beryl.
+escape }}\" class=\"boost-sd__modal\" id=\"boost-sd__modal-quickview\" data-product-id='{{ productData.id }}' data-product='{{ productData
+
+### Sources checked in this pass
+1. Beryl EVR Manual &ndash; Leqtiqueshop: https://leqtique.ch/en/pages/beryl-evr-manual
+2. Leqtique Beryl - Reverb: https://reverb.com/item/97614613-leqtique-beryl
+3. Leqtique EVR Beryl EVR(NEW) - TC楽器 - TCGAKKI: https://tcgakki.com/en/products/leqtique-evr-beryl-evrnew
+4. 【レビュー】Leqtique Beryl - あさぎベーススタジオ: https://www.asagi-bass.com/entry/beryl
+5. Leqtique Beryl EVR Leqtique DS10490951 - eBay: https://www.ebay.com/itm/257537534831

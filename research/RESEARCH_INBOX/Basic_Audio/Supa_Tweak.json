@@ -1,0 +1,19 @@
+{
+  "builder": "Basic Audio",
+  "pedal": "Supa Tweak",
+  "original_builder": "Basic Audio",
+  "original_pedal": "Supa Tweak",
+  "status": "VERIFIED_EVIDENCE_STAGED",
+  "independent_exact_source_count": 1,
+  "sources": [
+    {
+      "url": "https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-cnzrr-bfrf8",
+      "title": "Supa Tweak &mdash; Basic Audio",
+      "h1": "Basic Audio",
+      "excerpt": "Supa Tweak &mdash; Basic Audio Contact Store About Menu Basic Audio Contact Store About Pedal colors are subject to change. I am a one man shop, please be patient. I will get your order to you as soon as I can. &larr; Back to Store Supa Tweak Supa Tweak from $210.00 A tweaked version of the Supa MKI. Variable gain separate from bias. Interstage low/ gain cut which helps the pedal clean up much better. Sag toggle which boosts gain will sag and dip the output with a harder pick attack. Country: Select Country USA Canada Europe, Asia, Australia USA Canada Europe, Asia, Australia Add To Cart All pedals use a center negative 9v DC jack and have a battery snap.\n- **Archive parent:** Supa Tweak\n- **Builder:** Basic Audio\n- **Catalog type:** Fuzz\n- **Identity:** Expanded Supa MKI/Marshall Supa Fuzz-style fuzz with externally separated Gain and Bias, interstage low/gain cut and Sag switching. [1][2]\n\n- **GAIN:** Gain amount independent from the bias setting.\n- **BIAS:** Operating-point control.\n- **Interstage LOW/GAIN CUT:** Reduces the low-frequency/gain feed between stages and improves cleanup.\n- **SAG:** Adds more apparent gain and a voltage-droop response under harder attack. [1]\n\n- **Primary reference:** Basic Audio Supa MKI / Marshall Supa Fuzz MKI family.\n- The expanded controls are Basic Audio's own implementation.\n\n- Exact production transistor technology and device part numbers are not publicly documented.\n\n- Exact clipping-device type and part number are not publicly documented.\n\n- **9V center-negative** with battery support. [1]\n\n- No numbered electronic revision established.\n- Supa Tweak is treated as a distinct model because its Gain/Bias/Sag control architecture is materially different from the simpler Supa MKI.\n\nBasic Audio describes the interstage cut as improving cleanup and the Sag switch as adding gain plus a noticeable dip under strong picking. The result can move from open vintage fuzz toward softer, collapsing and compressed textures. [1][2]\n\n- **Identity:** High\n- **Supa MKI lineage:** High\n- **Gain/Bias separation:** High\n- **Sag behavior:** High\n- **Exact transistor:** Unknown\n- **Exact diode:** Unknown\n\nBasic Audio's Supa Tweak page was checked directly and compared with its Supa MKI reference. The evidence supports the control changes, Sag behavior and lineage while leaving unpublished semiconductor details unresolved. [1][2]\n\n1. Basic Audio \u2014 Supa Tweak: https://www.basicaudio.net/store-1/5einpey75gjgckjedbfsbfsbfsbfsbfsbfsbfsbfsbfsbfs\n2. Basic Audio \u2014 Supa MKI: https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-cnzrr-bfrf8-lcl7b\n3. Basic Audio \u2014 Main catalog: https://www.basicaudio.net/\n\n- **Exact pedal photograph:** Basic Audio official product photograph.\n- https://images.squarespace-cdn.com/content/v1/5da9e97016ddf940acffa2d3/1574302119982-RT4EZ2V7AC37ASRPN1KL/EmptyName_25.jpg",
+      "host": "www.basicaudio.net",
+      "source_kind": "manufacturer"
+    }
+  ],
+  "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
+}

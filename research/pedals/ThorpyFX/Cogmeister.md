@@ -26,6 +26,11 @@ ThorpyFX's Cogmeister is cataloged as a distortion / fuzz / overdrive pedal.
 - **Exact part:** Unknown.
 
 ## Sound
+
+**Archive parent:** Cogmeister - **Builder:** ThorpyFX - **Catalog type:** Distortion / Fuzz / Overdrive - **Identity:** ThorpyFX's Cogmeister.
+
+ThorpyFX's Cogmeister is cataloged as a distortion / fuzz / overdrive pedal.
+
 A stand-alone pedal identical to the “Drive” section found on the Cogmeister.
 
 ## Sources checked
@@ -34,3 +39,27 @@ A stand-alone pedal identical to the “Drive” section found on the Cogmeister
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+ThorpyFX's Cogmeister is cataloged as a distortion / fuzz / overdrive pedal.
+
+### Verified color/finish evidence
+- No specific factory colorway information was established in the verified evidence packet.
+
+### Verified version references
+- The evidence references: revision.
+
+### Verified sound evidence
+**Archive parent:** Cogmeister - **Builder:** ThorpyFX - **Catalog type:** Distortion / Fuzz / Overdrive - **Identity:** ThorpyFX's Cogmeister.
+ThorpyFX's Cogmeister is cataloged as a distortion / fuzz / overdrive pedal.
+A stand-alone pedal identical to the “Drive” section found on the Cogmeister.
+
+### Sources checked in this pass
+1. Dinosaural Cogmeister Overdrive Pedal By Dan Coggins and ThorpyFX: https://www.ebay.co.uk/itm/267781512536
+2. catalog/override source: https://reverb.com/en-se/item/80235513-coggins-audio-dinosaural-cogmeister-triple-overdrive-boost-s-n-cm00313-collab-with-thorpyfx
+3. Hypoid Drive: https://thorpyfx.com/en-us/products/hypoid-drive
+4. catalog/override source: https://ebay.co.uk/itm/267781512536

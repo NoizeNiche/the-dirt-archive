@@ -27,10 +27,36 @@ RYRA's The Klone V2 is cataloged as an overdrive pedal.
 - **Exact part:** Unknown.
 
 ## Sound
+
 The Dirt Archive currently catalogs **The Klone V2** by **RYRA** as a **Overdrive** pedal.
+
+**Archive parent:** The Klone V2 - **Builder:** RYRA - **Catalog type:** Overdrive - **Identity:** RYRA's The Klone V2.
+
+RYRA's The Klone V2 is cataloged as an overdrive pedal.
 
 ## Sources checked
 1. Gear Hunter | RYRA - THE KLONE PEDAL: https://www.long-mcquade.com/GearHunter/827338/RYRA-THE-KLONE-PEDAL.htm
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+RYRA's The Klone V2 is cataloged as an overdrive pedal.
+
+### Verified color/finish evidence
+- No specific factory colorway information was established in the verified evidence packet.
+
+### Verified version references
+- The evidence references: V2, revision.
+
+### Verified sound evidence
+The Dirt Archive currently catalogs **The Klone V2** by **RYRA** as a **Overdrive** pedal.
+**Archive parent:** The Klone V2 - **Builder:** RYRA - **Catalog type:** Overdrive - **Identity:** RYRA's The Klone V2.
+RYRA's The Klone V2 is cataloged as an overdrive pedal.
+
+### Sources checked in this pass
+1. Gear Hunter | RYRA - THE KLONE PEDAL: https://www.long-mcquade.com/GearHunter/827338/RYRA-THE-KLONE-PEDAL.htm

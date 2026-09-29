@@ -7,7 +7,8 @@
 - **Identity:** LICHTLÆRM AUDIO's Gehenna.
 
 ## What this pedal is
-LICHTLÆRM AUDIO's Gehenna is cataloged as a distortion pedal.
+
+The Gehenna is our take on a highly flexible metal distortion: from classic NWOBHM to early 2000s Core-music, from raw Black and Death Metal to super tight and modern Djent - it’s all in there!
 
 ## Colorways
 - No specific factory colorway information was established in the verified evidence packet.
@@ -36,3 +37,25 @@ Chorus · Vibrato · Tape Warble · Memory Blur €199.00 PandorA – Compact Po
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+The Gehenna is our take on a highly flexible metal distortion: from classic NWOBHM to early 2000s Core-music, from raw Black and Death Metal to super tight and modern Djent - it’s all in there!
+
+### Verified color/finish evidence
+- The Gehenna is our take on a highly flexible metal distortion: from classic NWOBHM to early 2000s Core-music, from raw Black and Death Metal to super tight and modern Djent - it’s all in there!
+- Instead of adding a separate boost in front of the distortion section we added a second, footswitchable gain-control that let’s you switch between two levels of gain inside the insane spectrum that the Gehenna offers: the on-state of Gain I is indicated through the blue LED.
+
+### Verified diode terms
+- LED.
+
+### Verified sound evidence
+handmade in Berlin Contact Shop Shop Gehenna - Metal Distortion / Preamp Previous PandorA – Compact Power Amplifier Next Altar – Dual Gain Monolith
+Boost · Fuzz · Distortion Gehenna - Metal Distortion / Preamp Gehenna - Metal Distortion / Preamp €199.00 incl.
+The Gehenna is our take on a highly flexible metal distortion: from classic NWOBHM to early 2000s Core-music, from raw Black and Death Metal to super tight and modern Djent - it’s all in there!
+
+### Sources checked in this pass
+1. Gehenna Distortion Preamp | LICHTLÆRM AUDIO: https://lichtlaermaudio.com/shop/gehenna

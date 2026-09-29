@@ -41,3 +41,30 @@ The previous record contained only a short manufacturer phrase and otherwise rel
 4. https://www.manualslib.com/manual/1984521/Electro-Harmonix-English-Muff-N.html — exact-model manual reference.
 
 **Research confidence:** High for model identity, overdrive/tube-preamp positioning, and three-band tone stack; moderate for exact internal component selection and revision history.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+The **Electro-Harmonix English Muff'n** is a tube-based preamp/overdrive design aimed at the sound of **1960s British guitar amplifier** preamp and tone circuits.
+
+### Verified version references
+- The evidence references: revision.
+
+### Verified sound evidence
+The **Electro-Harmonix English Muff'n** is a tube-based preamp/overdrive design aimed at the sound of **1960s British guitar amplifier** preamp and tone circuits.
+The documented circuit includes a gain stage followed by a traditional tone stack.
+The tone controls cover **high, midrange, and low frequencies**, giving the pedal the same broad three-band tonal structure used in vintage British-style preamps.
+
+### Sources checked in this pass
+1. Electro-Harmonix English Muff'n - Reverb: https://reverb.com/p/electro-harmonix-english-muffn
+2. Electro-Harmonix English Muff'n for sale | eBay: https://www.ebay.com/sch/i.html?_nkw=Electro-Harmonix+English+Muff%27n&_sop=12
+3. PDF English Muff'n Instructions - effectsmanuals.com: https://effectsmanuals.com/manuals/electro-harmonix/english_muffn/instructions/english-muff-n.pdf
+4. Electro-Harmonix English Muff'n review | MusicRadar: https://www.musicradar.com/reviews/guitars/electro-harmonix-english-muffn-27274
+5. Electro-Harmonix English Muff'n Tube Distortion Pedal: https://www.sweetwater.com/store/detail/EngMuffn--electro-harmonix-english-muffn-tube-distortion-pedal
+6. Electro-Harmonix English Muff'n User Manual PDF | Manualsnet: https://manualsnet.com/electro-harmonix/english-muffn
+7. ELECTRO-HARMONIX ENGLISH MUFF’N MANUAL Pdf Download | ManualsLib: https://www.manualslib.com/manual/1984521/Electro-Harmonix-English-Muff-N.html
+8. Electro-Harmonix ENGLISH MUFF'N Manual | Manualzz: https://manualzz.com/doc/68256435/electro-harmonix-english-muff%E2%80%99n-manual
+9. PDF English Muff'n Instructions - zikinf.com: https://www.zikinf.com/manuels/electro-harmonix-english-muff-n-manuel-utilisateur-en-37575.pdf
+10. USER MANUAL Electro-Harmonix English Muff'n Tube Distortion Preamp | Search For Manual Online: https://www.search-manual.com/electro-harmonix-english-muff-n-tube-distortion-preamp-pedal-228730-manual

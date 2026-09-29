@@ -26,6 +26,11 @@ NUX Audio / NUX's Brownie is cataloged as a distortion pedal.
 - **Exact part:** Unknown.
 
 ## Sound
+
+**Archive parent:** Brownie - **Builder:** NUX Audio / NUX - **Catalog type:** Distortion - **Identity:** NUX Audio / NUX's Brownie.
+
+NUX Audio / NUX's Brownie is cataloged as a distortion pedal.
+
 The Dirt Archive currently catalogs **Brownie** by **NUX Audio / NUX** as a **Distortion** pedal.
 
 ## Sources checked
@@ -33,3 +38,25 @@ The Dirt Archive currently catalogs **Brownie** by **NUX Audio / NUX** as a **Di
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+NUX Audio / NUX's Brownie is cataloged as a distortion pedal.
+
+### Verified color/finish evidence
+- No specific factory colorway information was established in the verified evidence packet.
+
+### Verified version references
+- The evidence references: revision.
+
+### Verified sound evidence
+**Archive parent:** Brownie - **Builder:** NUX Audio / NUX - **Catalog type:** Distortion - **Identity:** NUX Audio / NUX's Brownie.
+NUX Audio / NUX's Brownie is cataloged as a distortion pedal.
+The Dirt Archive currently catalogs **Brownie** by **NUX Audio / NUX** as a **Distortion** pedal.
+
+### Sources checked in this pass
+1. catalog/override source: https://www.guitarcenter.com/Used/NUX/Used-NUX-BROWNIE-DISTORTION-Effect-Pedal-122026518.gc
+2. catalog/override source: https://reverb.com/item/92416058-cmatmods-brownie-with-xtra-jfets
