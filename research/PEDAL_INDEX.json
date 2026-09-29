@@ -36391,14 +36391,13 @@
       "research_record": "./research/pedals/Electronic Audio Experiments/Dagger.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://www.electronicaudioexperiments.com/legacy/dagger",
+      "image_source_page": "https://www.electronicaudioexperiments.com/legacy",
       "image_source_pages": [
         "https://www.electronicaudioexperiments.com/legacy/dagger"
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1422,
-      "image_source_url": "https://images.squarespace-cdn.com/content/v1/56a5a0e242f55268768a0c2b/039b2e5f-5bfb-4855-9f44-1044dfe68f0d/DSCF0153.jpg?format=750w"
+      "image_source_priority": 1422
     },
     {
       "company": "Electronic Audio Experiments",
@@ -45134,8 +45133,7 @@
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
       "image_source_page": "https://maskaudioelectronics.com/products/part-garden",
-      "image": "",
-      "image_source_url": "https://maskaudioelectronics.com/cdn/shop/files/20250920_092003_160x160.jpg?v=1769883161"
+      "image": ""
     },
     {
       "company": "Mask Audio Electronics",
@@ -51333,7 +51331,7 @@
       "research_record": "./research/pedals/Pigtronix/Bass FAT Drive.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://reverb.com/p/pigtronix-bass-fat-drive",
+      "image_source_page": "https://equipboard.com/items/pigtronix-bass-fat-drive",
       "image_source_pages": [
         "https://reverb.com/p/pigtronix-bass-fat-drive"
       ],
@@ -58550,7 +58548,7 @@
       "image_source_pages": [
         "https://www.sweetwater.com/store/detail/SaucyBox--way-huge-saucy-box-overdrive-pedal"
       ],
-      "image_source_page": "https://www.sweetwater.com/store/detail/SaucyBox--way-huge-saucy-box-overdrive-pedal",
+      "image_source_page": "https://motorcityguitar.com/products/way-huge-whe205-saucy-box-overdrive-br-pedal?variant=45058457230",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
       "image_source_priority": 1449
