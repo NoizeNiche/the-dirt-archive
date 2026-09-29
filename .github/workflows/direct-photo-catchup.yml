@@ -8,6 +8,7 @@ on:
     paths:
       - research/PHOTO_FAST_KICK
       - research/PHOTO_MANUAL_REVIEW.csv
+      - research/PHOTO_IDENTITY_QUARANTINE.csv
       - research/PHOTO_SOURCE_BLOCKLIST.json
       - research/PHOTO_DIRECT_IMAGE_OVERRIDES.csv
       - scripts/cache-curated-direct-photos.py
