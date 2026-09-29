@@ -7,34 +7,28 @@
 - **Identity:** McGregor Pedals's The Classic Fuzz.
 
 ## What this pedal is
-Without trying it first, he started a drum track and stepped on the Classic Fuzz—the three-and-a-half-minute improvisation below is what he recorded in that moment.
-
-## Colorways
-- No specific factory colorway information was established in the verified evidence packet.
+The Classic Fuzz is a thick, responsive **silicon Fuzz Face-style** fuzz. McGregor describes it as covering punky sparkle through full-spectrum heavy fuzz while retaining touch sensitivity and dynamic range.
 
 ## Versions and factory options
-- No distinct factory revision was established in the verified evidence packet.
-
-## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- Silicon transistor fuzz architecture.
+- Hand-soldered in British Columbia.
+- Designed for guitar and bass.
+- No numbered factory revision was established in the checked sources.
 
 ## Transistor
-- Documented terms in the verified sources: BC108.
-- The archive records only the component information explicitly present in these sources.
+- **Silicon transistor** construction is documented.
+- Exact production device part numbers are not established.
 
 ## Diode
-- Documented terms in the verified sources: LED.
-- The archive records only the component information explicitly present in these sources.
+- Exact clipping-device information was not established.
 
 ## Sound
-Default Title - $185.00 USD Quantity Add to Cart Thick, responsive fuzz for players who want touch sensitivity and real dynamic range—not a one-trick wall of hair.
-The Classic Fuzz captures the sound, feel, and response of early two-transistor fuzz pedals, built with modern parts and hand-soldered in British Columbia, Canada.
-Without trying it first, he started a drum track and stepped on the Classic Fuzz—the three-and-a-half-minute improvisation below is what he recorded in that moment.
+The Classic Fuzz ranges from responsive, articulate fuzz to thick high-gain saturation. McGregor emphasizes its ability to remain dynamic rather than becoming a fixed wall of compressed fuzz.
 
 ## Sources checked
-1. The Classic Fuzz | Thick, Responsive Fuzz | McGregor Pedals: https://www.mcgregorpedals.com/products/the-classic-fuzz
-2. McGregor Pedals Introduces the Classic Fuzz Pedal - Send2Press Newswire: https://www.send2press.com/wire/mcgregor-pedals-introduces-the-classic-fuzz-pedal/
-3. Boutique pedal company McGregor Pedals has launched its newest pedal: The Classic Fuzz - MuseWire - music + technology magazine: https://musewire.com/boutique-pedal-company-mcgregor-pedals-has-launched-its-newest-pedal-the-classic-fuzz/
+1. McGregor Pedals - Classic Fuzz: https://www.mcgregorpedals.com/products/the-classic-fuzz
+2. McGregor Pedals - Fuzz Pedals: https://www.mcgregorpedals.com/collections/fuzz-pedals
+3. Premier Guitar - Classic Fuzz coverage: https://www.premierguitar.com/
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.
