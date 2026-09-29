@@ -3,35 +3,32 @@
 ## PRP identity
 - **Archive parent:** SM-9Pro Super Metal Pro+
 - **Builder:** Maxon
-- **Catalog type:** Overdrive
-- **Identity:** Maxon's SM-9Pro Super Metal Pro+.
+- **Catalog type:** Distortion
+- **Identity:** Maxon's SM-9 Pro+ Super Metal Pro+.
 
 ## What this pedal is
-Maxon's SM-9Pro Super Metal Pro+ is cataloged as an overdrive pedal.
-
-## Colorways
-- No specific factory colorway information was established in the verified evidence packet.
+The SM-9 Pro+ Super Metal was designed specifically for high-gain metal distortion, with a voicing that can move from classic crunch into extreme, drop-tuned metal.
 
 ## Versions and factory options
-- No distinct factory revision was established in the verified evidence packet.
+- High-gain distortion design.
+- Cut/boost-oriented EQ shaping for the midrange.
+- The checked historical sources treat the SM-9 Pro+ as part of Maxon's 9-series metal-oriented designs.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- The archive keeps **SM-9 Pro+** distinct from the related ST-9 and other Maxon 9-series pedals.
+- The two archive spellings, “SM-9Pro Super Metal Pro+” and “SM-9Pro+ Super Metal Pro+,” are treated as naming variants unless hardware evidence proves otherwise.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
-- **Exact transistor/device:** Unknown.
+- Exact production semiconductor complement was not established.
 
 ## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
-- **Exact part:** Unknown.
+- Exact clipping/rectifier diode information was not established.
 
 ## Sound
-The Dirt Archive currently catalogs **SM-9Pro+ Super Metal Pro+** by **Maxon** as a **Distortion** pedal.
-The Dirt Archive currently catalogs **SM-9Pro Super Metal Pro+** by **Maxon** as a **Overdrive** pedal.
+The SM-9 Pro+ covers high-gain distortion from tighter classic-metal crunch to much more saturated, scooped and drop-tuned sounds.
 
 ## Sources checked
-1. Maxon SM9Pro+ Super Metal Pro Plus Distortion Pedal w/Free Shipping: https://collarcityguitars.com/products/maxon_sm9proplus_supermetalproplus
+1. Effects Database - Maxon SM-9 Pro+: https://www.effectsdatabase.com/model/maxon/9/sm9/pro/plus
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.
