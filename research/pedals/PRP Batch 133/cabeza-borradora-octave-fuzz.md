@@ -80,3 +80,21 @@ Pedals — Byron Amplification: https://byronamplification.com/pedals - **Builde
 
 ### Sources checked in this pass
 1. Pedals &mdash; Byron Amplification: https://byronamplification.com/pedals
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Byron Amplification's Cabeza Borradora Octave Fuzz is cataloged as a fuzz pedal.
+
+### Verified version references
+- The evidence references: v1.
+
+### Verified sound evidence
+Boost/Drive and Fuzz Sale Price: $149.00 Original Price: $159.00 sold out Kompressor Sale Price: $149.00 Original Price: $159.00 sold out Lil' Shaman Overdrive Sale Price: $149.00 Original Price: $159.00 sold out Again!
+Byron Amplification's Cabeza Borradora Octave Fuzz is cataloged as a fuzz pedal.
+Pedals — Byron Amplification: https://byronamplification.com/pedals - **Builder:** Byron Amplification - **Catalog type:** Fuzz - **Identity:** Octave fuzz with a dedicated octave switch.
+
+### Sources checked in this pass
+1. Pedals &mdash; Byron Amplification: https://byronamplification.com/pedals

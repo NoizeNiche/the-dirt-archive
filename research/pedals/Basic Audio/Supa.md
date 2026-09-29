@@ -133,3 +133,24 @@ Supa — Basic Audio Contact Store About Menu Basic Audio Contact Store About Pe
 
 ### Sources checked in this pass
 1. Supa &mdash; Basic Audio: https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-cnzrr-ksfg5-kba26-5yxez-twy6r-snkj6-rafma-ypp3x-8hx4s
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Supa — Basic Audio Contact Store About Menu Basic Audio Contact Store About Pedal colors are subject to change.
+
+### Verified version references
+- The evidence references: MKII, revision, v1.
+
+### Verified transistor/device terms
+- Germanium fuzz.
+
+### Verified sound evidence
+← Back to Store Supa sold out Supa from $200.00 Germanium fuzz based on the Marshall Supa Fuzz (Tone Bender MKII) Added Fat knob for full or lean pre circuit low end and Snarl knob for...more snarl and a midrange forward tone.
+**Archive parent:** Supa - **Builder:** Basic Audio - **Catalog type:** Fuzz - **Identity:** Germanium fuzz based on the Marshall Supa Fuzz / Tone Bender MKII family, expanded with Fat and Snarl controls.
+**Primary reference:** Marshall Supa Fuzz.
+
+### Sources checked in this pass
+1. Supa &mdash; Basic Audio: https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-cnzrr-ksfg5-kba26-5yxez-twy6r-snkj6-rafma-ypp3x-8hx4s
