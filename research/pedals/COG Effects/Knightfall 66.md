@@ -204,3 +204,24 @@ The second Gain/Level knobs are removed, and the Voice and Tone knobs are replac
 1. Knightfall 66 and Mini 66 Overdrives Released by Cog Effects: https://guitarinteractivemagazine.com/news/knightfall-66-and-mini-66-overdrives-released-by-cog-effects/
 2. Cog Effects Knightfall 66 - Overdrive | Effects Database: https://www.effectsdatabase.com/model/cog/knightfall/66
 3. Cog Effects - Mini 66 Overdrive: https://www.cogeffects.co.uk/mini-66.php
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Capable of providing fat cleans, old school mid-heavy growl, all the way through to high gain overdrive, the Knightfall 66 is the drive pedal you need on your bass pedalboard.
+
+### Verified color/finish evidence
+- The clean channel is filtered in a similar way to the Grand Tarkin's clean channel and designed to properly blend with the drive channel - rather than sounding "side-by-side", the two channels integrate for a more natural tone.
+- The filtered Clean channel of the Knightfall 66 is included, designed to integrate in a more natural sounding way than a typical full range clean signal.
+
+### Verified sound evidence
+The Voice knob alters the amount of low end into the clipping circuit, and the Tone knob cuts highs post clipping.
+The end result is a very simple but extremely flexible overdrive.
+The second Gain/Level knobs are removed, and the Voice and Tone knobs are replaced by the Fat and Cut switches.
+
+### Sources checked in this pass
+1. Knightfall 66 and Mini 66 Overdrives Released by Cog Effects: https://guitarinteractivemagazine.com/news/knightfall-66-and-mini-66-overdrives-released-by-cog-effects/
+2. Cog Effects Knightfall 66 - Overdrive | Effects Database: https://www.effectsdatabase.com/model/cog/knightfall/66
+3. Cog Effects - Mini 66 Overdrive: https://www.cogeffects.co.uk/mini-66.php
