@@ -15220,7 +15220,13 @@
       "research_record": "./research/pedals/BOSS/BC-2 Combo Drive.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://reverb.com/p/boss-bc-2-combo-drive"
+      "image_source_page": "https://www.boss.info/us/products/bc-2/",
+      "image_source_pages": [
+        "https://www.boss.info/us/products/bc-2/"
+      ],
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 50000
     },
     {
       "company": "BOSS",
@@ -15339,7 +15345,13 @@
       "research_record": "./research/pedals/BOSS/DS-1-4A 40th Anniversary Distortion.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://reverb.com/p/boss-ds-1-4a-40th-anniversary-distortion"
+      "image_source_page": "https://www.boss.info/us/whats_new/press_releases/2017/BOSS-CELEBRATES-40th-ANNIVERSARY-WITH-LIMITED-EDIT/",
+      "image_source_pages": [
+        "https://www.boss.info/us/whats_new/press_releases/2017/BOSS-CELEBRATES-40th-ANNIVERSARY-WITH-LIMITED-EDIT/"
+      ],
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 1420
     },
     {
       "company": "BOSS",
@@ -31563,7 +31575,13 @@
       "research_record": "./research/pedals/Darkglass Electronics/Alpha-Omega.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://www.effectsdatabase.com/model/darkglass/alphaomega"
+      "image_source_page": "https://www.darkglass.com/products/ao",
+      "image_source_pages": [
+        "https://www.darkglass.com/products/ao"
+      ],
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 50000
     },
     {
       "company": "Darkglass Electronics",
@@ -31718,7 +31736,13 @@
       "research_record": "./research/pedals/Darkglass Electronics/Microtubes Vintage.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://www.effectsdatabase.com/model/darkglass/microtubes/vintage"
+      "image_source_page": "https://www.darkglass.com/products/vintage-microtubes",
+      "image_source_pages": [
+        "https://www.darkglass.com/products/vintage-microtubes"
+      ],
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 1421
     },
     {
       "company": "Darkglass Electronics",
@@ -36292,7 +36316,13 @@
       "research_record": "./research/pedals/Electronic Audio Experiments/0xEAE Fuzz.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://www.electronicaudioexperiments.com/legacy"
+      "image_source_page": "https://www.electronicaudioexperiments.com/legacy/0xeae-fuzz",
+      "image_source_pages": [
+        "https://www.electronicaudioexperiments.com/legacy/0xeae-fuzz"
+      ],
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 50000
     },
     {
       "company": "Electronic Audio Experiments",
@@ -36316,7 +36346,13 @@
       "research_record": "./research/pedals/Electronic Audio Experiments/Dagger.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://www.electronicaudioexperiments.com/legacy"
+      "image_source_page": "https://www.electronicaudioexperiments.com/legacy/dagger",
+      "image_source_pages": [
+        "https://www.electronicaudioexperiments.com/legacy/dagger"
+      ],
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 1422
     },
     {
       "company": "Electronic Audio Experiments",
@@ -37185,7 +37221,13 @@
       "research_record": "./research/pedals/Fortin Amplification/Hexdrive.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://quanta-brands.jp/fortin-amplification/products/"
+      "image_source_page": "https://reverb.com/p/fortin-amplification-hexdrive",
+      "image_source_pages": [
+        "https://reverb.com/p/fortin-amplification-hexdrive"
+      ],
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 1423
     },
     {
       "company": "Fortin Amplification",
@@ -37218,7 +37260,13 @@
       "research_record": "./research/pedals/Fortin Amplification/Meshuggah.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://quanta-brands.jp/fortin-amplification/products/"
+      "image_source_page": "https://fortinamps.com/",
+      "image_source_pages": [
+        "https://fortinamps.com/"
+      ],
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 1428
     },
     {
       "company": "Fortin Amplification",
@@ -37903,7 +37951,13 @@
       "research_record": "./research/pedals/Fuzzrocious Pedals/Cat King.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://fuzzrociouspedals.com/?product_cat=current"
+      "image_source_page": "https://fuzzrociouspedals.com/?product=catking",
+      "image_source_pages": [
+        "https://fuzzrociouspedals.com/?product=catking"
+      ],
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 1426
     },
     {
       "company": "Fuzzrocious Pedals",
@@ -54102,7 +54156,14 @@
       "source_page": null,
       "research_record": "./research/pedals/Strymon/Sunset Dual Overdrive.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_pages": [
+        "https://www.strymon.net/product/sunset/"
+      ],
+      "image_source_page": "https://www.strymon.net/product/sunset/",
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 50000
     },
     {
       "company": "Subdecay",
