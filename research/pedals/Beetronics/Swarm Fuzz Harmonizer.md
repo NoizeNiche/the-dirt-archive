@@ -9,9 +9,7 @@
 - **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
 
 ## What this pedal is
-The Dirt Archive currently catalogs **Swarm Fuzz Harmonizer** by **Beetronics** as a **Fuzz** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
-
-## Catalog source
+The Swarm is an **analog fuzz harmonizer** that creates a square-wave fuzz signal and stacks it with pitch-shifted harmony voices. Beetronics documents nine selectable harmony intervals across two octaves, with controls for blending the upper and lower voices and for interactive modulation. citeturn694465search2turn694465search5\n\n## Catalog source
 - Catalog source page on file: https://www.beetronicsfx.com/collections/all-pedals-1
 
 ## Deep research verification
