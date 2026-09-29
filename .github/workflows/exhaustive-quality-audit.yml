@@ -12,6 +12,8 @@ on:
       - 'assets/pedals/**'
       - 'scripts/audit-detail-pages.js'
       - 'scripts/audit-photo-content.py'
+      - 'scripts/audit-pictured-photo-hash-collisions.py'
+      - 'research/PHOTO_DIRECT_IMAGE_OVERRIDES.csv'
       - 'scripts/browser-photo-cache.mjs'
       - 'research/PHOTO_SOURCE_BLOCKLIST.json'
       - '.github/workflows/exhaustive-quality-audit.yml'
@@ -67,6 +69,9 @@ jobs:
       - name: Scan every archived photo for donation overlays and corrupt assets
         run: python scripts/audit-photo-content.py --mode all --workers 8 --output photo-content-audit.csv
 
+      - name: Audit suspicious cross-identity photo reuse
+        run: python scripts/audit-pictured-photo-hash-collisions.py --output photo-hash-collision-audit.csv
+
       - name: Upload audit reports
         if: always()
         uses: actions/upload-artifact@v4
@@ -75,5 +80,6 @@ jobs:
           path: |
             detail-page-audit-report.json
             photo-content-audit.csv
+            photo-hash-collision-audit.csv
             /tmp/dirt-archive-audit-server.log
           if-no-files-found: warn
