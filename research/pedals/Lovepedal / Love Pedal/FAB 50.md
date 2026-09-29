@@ -27,7 +27,7 @@ Lovepedal / Love Pedal's FAB 50 is cataloged as a fuzz pedal.
 - **Exact part:** Unknown.
 
 ## Sound
-TCHULA 200lbs PURPLE PLEXI ETERNITY BURST HERMIDA ZENDRIVE DOVER DRIVE AMP ELEVEN RUBBER CHICKEN HERMIDA EPH3 © All rights reserved 2026 LOVEPEDAL L.L.C.
+
 The Dirt Archive currently catalogs **FAB 50** by **Lovepedal / Love Pedal** as a **Fuzz** pedal.
 
 ## Sources checked
