@@ -1024,11 +1024,18 @@ async function imageSearchCandidates(page, entry, deepReview = false) {
   // marketplace phrasing. Every accepted result still passes the source-page
   // identity gate below.
   const exactQuery = entry.company + ' "' + entry.pedal + '" guitar pedal';
+  let sourceHostQuery = '';
+  try {
+    const sourceHost = new URL(entry.image_source_page || entry.source_page || '').hostname
+      .replace(/^www\./i, '');
+    if (sourceHost) sourceHostQuery = 'site:' + sourceHost + ' "' + entry.pedal + '"';
+  } catch {}
   const queries = deepReview
     ? [
         exactQuery,
         '"' + entry.pedal + '" "' + entry.company + '"',
-        '"' + entry.pedal + '" ' + entry.company + ' effects pedal'
+        '"' + entry.pedal + '" ' + entry.company + ' effects pedal',
+        sourceHostQuery
       ].filter((value, index, list) => value && list.indexOf(value) === index)
     : [exactQuery];
 
@@ -1186,7 +1193,8 @@ async function imageSearchCandidates(page, entry, deepReview = false) {
     ? [
         googleExact,
         '"' + entry.pedal + '" "' + entry.company + '"',
-        '"' + entry.pedal + '" ' + entry.company + ' guitar pedal'
+        '"' + entry.pedal + '" ' + entry.company + ' guitar pedal',
+        sourceHostQuery
       ].filter((value, index, list) => value && list.indexOf(value) === index)
     : [googleExact];
 
