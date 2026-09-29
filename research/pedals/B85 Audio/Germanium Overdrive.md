@@ -1,12 +1,14 @@
 # B85 Audio — Germanium Overdrive
 
 ## PRP identity
+
 - **Archive parent:** Germanium Overdrive
 - **Builder:** B85 Audio
 - **Catalog type:** Overdrive
 - **Identity:** Tube Screamer 808-derived overdrive expanded with a two-band EQ and germanium diodes, intended for guitar and bass. [1]
 
 ## Controls
+
 - **LEVEL**
 - **BASS**
 - **TREBLE**
@@ -14,18 +16,22 @@
 - True bypass. [1]
 
 ## Circuit lineage
+
 - **Primary reference:** Ibanez **Tube Screamer 808**.
 - Two-band EQ expands the basic tone-shaping range.
 - Germanium diodes are used for the clipping stage according to B85 Audio. [1]
 
 ## Active device
+
 - Exact op-amp/transistor part number is not publicly documented in the reviewed source.
 
 ## Diode / clipping
+
 - **Germanium diodes:** Verified by the manufacturer.
 - Exact diode part number is not published. [1]
 
 ## Construction / power
+
 - Hand-built floor pedal.
 - **Hammond 1590BB** or equivalent enclosure.
 - Approx. **119 × 100 × 52mm**.
@@ -33,12 +39,15 @@
 - True bypass. [1]
 
 ## Version history
+
 - No numbered electronic revision established.
 
 ## Sound
+
 B85 Audio describes the circuit as a more natural, dynamic and musical interpretation of the Tube Screamer 808 architecture, with the added Bass/Treble controls extending the usable frequency range. [1]
 
 ## Research confidence
+
 - **Identity:** High
 - **Tube Screamer 808 lineage:** High
 - **Germanium diode material:** High
@@ -48,11 +57,14 @@ B85 Audio describes the circuit as a more natural, dynamic and musical interpret
 - **Exact diode part:** Unknown
 
 ## Deep research verification
+
 The B85 Audio product page was checked directly and provides the exact control set, 808 lineage, germanium-diode statement, true bypass, power arrangement and enclosure size. Semiconductor part numbers remain unpublished. [1]
 
 ## Sources checked
+
 1. B85 Audio — Germanium Overdrive: https://www.b85audio.cz/germanium-overdrive/
 
 ## Photo
+
 - **Archive status:** **No Photo Archived**
 - **Exact-model reference checked:** B85 Audio exact-model page.

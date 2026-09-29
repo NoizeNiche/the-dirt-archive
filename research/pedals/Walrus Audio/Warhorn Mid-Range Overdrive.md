@@ -1,39 +1,49 @@
 # Walrus Audio — Warhorn Mid-Range Overdrive
 
 ## PRP identity
+
 - **Archive parent:** Warhorn Mid-Range Overdrive
 - **Builder:** Walrus Audio
 - **Catalog type:** Overdrive
 - **Identity:** Walrus Audio's Warhorn Mid-Range Overdrive.
 
 ## What this pedal is
+
 This product is discontinued and no longer available Details Media Specs Find it on The Warhorn is a mid-range, transparent overdrive pedal that’s capable of punchy rhythm, to searing Texas Blues leads.
 
 ## Colorways
+
 - The Warhorn comes in “prismatic gold” enclosure with white, cream and black ink.
 - The Warhorn comes in prismatic gold enclosure with white, cream and black ink.
 - Specs The Warhorn comes in prismatic gold enclosure with white, cream and black ink.
 
 ## Versions and factory options
+
 - The verified evidence references: MKII.
 - The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
 
 ## Version changes
+
 - No specific factory version changes were established in the verified evidence packet.
 
 ## Transistor
+
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
+
 ## Diode
+
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.
 
 ## Sound
+
 This product is discontinued and no longer available Details Media Specs Find it on The Warhorn is a mid-range, transparent overdrive pedal that’s capable of punchy rhythm, to searing Texas Blues leads.
 The up position is a more compressed, symmetrically clipped tone, and the down position is an asymmetric, more open and organic sound.
 It includes Level, Drive, Bass and Treble controls providing a large range of tweaking and shaping options for your original tone.
 
 ## Sources checked
+
 1. Warhorn Mid-Range Overdrive | Guitar Pedals: https://www.walrusaudio.com/products/warhorn-mid-range-overdrive
 2. Walrus Audio Warhorn Mid-Range Overdrive Pedal - Guitar Gear, Electric Guitars, Pedals & Accessories Store: https://www.riffsupply.com/product/walrus-audio-warhorn-mid-range-overdrive-pedal/
 3. Walrus Audio Warhorn Mid-Range Overdrive Pedal: https://www.bestmusicalgear.com/product/walrus-audio-warhorn-mid-range-overdrive-pedal/
@@ -46,4 +56,5 @@ It includes Level, Drive, Bass and Treble controls providing a large range of tw
 10. Walrus Audio Warhorn Mid-Range Overdrive Guitar Effect Pedal - Effects & Pedals for Drive, Delay, Reverb & More: https://www.pedalbeam.com/product/walrus-audio-warhorn-mid-range-overdrive-guitar-effect-pedal/
 
 ## Photo
+
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

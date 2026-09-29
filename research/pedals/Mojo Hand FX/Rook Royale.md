@@ -1,27 +1,35 @@
 # Mojo Hand FX — Rook Royale
 
 ## PRP identity
+
 - **Archive parent:** Rook Royale
 - **Builder:** Mojo Hand FX
 - **Catalog type:** Overdrive
 - **Identity:** Mojo Hand FX's Rook Royale.
 
 ## What this pedal is
+
 Running on ~30mA from 9V center-negative power, the Rook Royale delivers dual-circuit versatility in a 4.7" × 3.69" × 1.37" enclosure.
 
 ## Colorways
+
 - No specific factory colorway information was established in the verified evidence packet.
 
 ## Versions and factory options
+
 - No distinct factory revision was established in the verified evidence packet.
 
 ## Version changes
+
 - No specific factory version changes were established in the verified evidence packet.
 
 ## Transistor
+
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
+
 ## Diode
+
 - Documented terms in the verified sources: led.
 - The archive records only the component information explicitly present in these sources.
 
@@ -30,6 +38,7 @@ Running on ~30mA from 9V center-negative power, the Rook Royale delivers dual-ci
 No verified pedal-specific sonic summary is currently established in the archive.
 
 ## Sources checked
+
 1. Rook Royale - MojoHandFX: https://mojohandfx.com/rook-royale/
 2. Mojo Hand FX Rook Royale - Reverb: https://reverb.com/p/mojo-hand-fx-rook-royale
 3. Mojo Hand Fx Rook Royale — Overdrive Pedal | Equipboard: https://equipboard.com/items/mojo-hand-fx-rook-royale
@@ -41,4 +50,5 @@ No verified pedal-specific sonic summary is currently established in the archive
 9. Mojo Hand FX Rook Royale - Effects Database: https://www.effectsdatabase.com/model/mojohand/rook/royale
 
 ## Photo
+
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

@@ -1,36 +1,46 @@
 # Mojo Hand FX — Crosstown
 
 ## PRP identity
+
 - **Archive parent:** Crosstown
 - **Builder:** Mojo Hand FX
 - **Catalog type:** Fuzz
 - **Identity:** Mojo Hand FX's Crosstown.
 
 ## What this pedal is
+
 The Crosstown Fuzz is a germanium/silicon hybrid Fuzz F@ce circuit that offers you more control, more flexibility, super low noise operation, and guaranteed stability.
 
 ## Colorways
+
 - No specific factory colorway information was established in the verified evidence packet.
 
 ## Versions and factory options
+
 - No distinct factory revision was established in the verified evidence packet.
 
 ## Version changes
+
 - No specific factory version changes were established in the verified evidence packet.
 
 ## Transistor
+
 - Documented terms in the verified sources: silicon transistors, Germanium Fuzz, Silicon transistor, AC187, BC109, AC187s, Germanium Transistor, BC108.
 - The archive records only the component information explicitly present in these sources.
+
 ## Diode
+
 - Documented terms in the verified sources: LED.
 - The archive records only the component information explicitly present in these sources.
 
 ## Sound
+
 The Crosstown Fuzz is a germanium/silicon hybrid Fuzz F@ce circuit that offers you more control, more flexibility, super low noise operation, and guaranteed stability.
 Our hand-picked combination of germanium and silicon transistors coupled with an internal bias control gives you the option to tailor the Crosstown’s gain structure to your personal taste without having to worry about stability issues such as overheating.
 First up is the full range TONE control which allows you to tailor the Crosstown’s treble response from warm and creamy to bright and sizzly.
 
 ## Sources checked
+
 1. Mojo Hand FX Crosstown Fuzz - Reverb: https://reverb.com/p/mojo-hand-fx-crosstown
 2. Mojo Hand FX Crosstown — Fuzz Pedal | Equipboard: https://equipboard.com/items/mojo-hand-fx-crosstown
 3. Amazon.com: https://www.amazon.com/Crosstown-Mojo-Hand-FX/dp/B00XMUNTU8
@@ -43,4 +53,5 @@ First up is the full range TONE control which allows you to tailor the Crosstown
 10. Mojo Hand FX Crosstown Fuzz - Pedals At Dawn: https://www.pedalsatdawn.com/pedal-database/mojo-hand-fx-crosstown-fuzz/
 
 ## Photo
+
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

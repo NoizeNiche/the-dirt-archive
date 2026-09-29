@@ -1,36 +1,46 @@
 # MXR — Fullbore Metal Distortion
 
 ## PRP identity
+
 - **Archive parent:** Fullbore Metal Distortion
 - **Builder:** MXR
 - **Catalog type:** Distortion
 - **Identity:** MXR's Fullbore Metal Distortion.
 
 ## What this pedal is
+
 Warranty Information The Long Story Ultimate riff power is yours with the Fullbore Metal Distortion pedal from MXR.
 
 ## Colorways
+
 - While many customers love the sound and find it worth the money, opinions about noise control are mixed, with some praising the noise gate feature while others complain about excessive white noise.
 
 ## Versions and factory options
+
 - No distinct factory revision was established in the verified evidence packet.
 
 ## Version changes
+
 - No specific factory version changes were established in the verified evidence packet.
 
 ## Transistor
+
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
+
 ## Diode
+
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.
 
 ## Sound
+
 MXR® FULLBORE® METAL DISTORTION - Dunlop Toggle menu Compare
 Warranty Information The Long Story Ultimate riff power is yours with the Fullbore Metal Distortion pedal from MXR.
 The Fullbore Metal Distortion turbo-charges your guitar signal with lethal amounts of ultra high gain.
 
 ## Sources checked
+
 1. MXR® FULLBORE® METAL DISTORTION - Dunlop: https://www.jimdunlop.com/mxr-fullbore-metal-distortion/
 2. MXR M116 Fullbore Metal Distortion Pedal | Sweetwater: https://www.sweetwater.com/store/detail/FullBoreDist--mxr-m116-fullbore-metal-distortion-pedal
 3. open prime modal: https://www.amazon.com/clp/B002QKRUJG
@@ -43,4 +53,5 @@ The Fullbore Metal Distortion turbo-charges your guitar signal with lethal amoun
 10. MXR Fullbore Metal Distortion Pedal | Reverb: https://reverb.com/item/97946073-mxr-fullbore-metal-distortion-pedal
 
 ## Photo
+
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

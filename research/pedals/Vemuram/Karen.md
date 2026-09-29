@@ -1,27 +1,35 @@
 # Vemuram — Karen
 
 ## PRP identity
+
 - **Archive parent:** Karen
 - **Builder:** Vemuram
 - **Catalog type:** Overdrive
 - **Identity:** Vemuram's Karen.
 
 ## What this pedal is
+
 The Karen is a Vemuram overdrive that captures the sound of cranked Marshall JMP and JCM amplifiers, from crunchy rhythm to fuller lead gain, built into the brand's machined brass body.
 
 ## Colorways
+
 - No specific factory colorway information was established in the verified evidence packet.
 
 ## Versions and factory options
+
 - No distinct factory revision was established in the verified evidence packet.
 
 ## Version changes
+
 - No specific factory version changes were established in the verified evidence packet.
 
 ## Transistor
+
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
+
 ## Diode
+
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.
 
@@ -34,6 +42,7 @@ The Karen is a Vemuram overdrive that captures the sound of cranked Marshall JMP
 Vemuram Karen Overdrive - What To Know & Where To Buy: https://equipboard.com/items/vemuram-karen-overdrive 2.
 
 ## Sources checked
+
 1. Vemuram Karen Overdrive - What To Know & Where To Buy: https://equipboard.com/items/vemuram-karen-overdrive
 2. Vemuram Karen Overdrive - Reverb: https://reverb.com/item/971288-vemuram-karen-overdrive
 3. Vemuram Karen – Tonefest Guitar Gallery: https://www.tonefestguitargallery.com/products/vemuram-karen
@@ -45,6 +54,7 @@ Vemuram Karen Overdrive - What To Know & Where To Buy: https://equipboard.com/it
 9. Vemuram Karen Dimensions, Specs & Details: https://www.stompboxgarden.com/gear/pedal/16778/vemuram-karen
 
 ## Photo
+
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
 
 ## Deep research verification

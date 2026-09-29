@@ -1,32 +1,39 @@
 # Big John Effects - Obama Wah
 
 ## PRP identity
+
 - **Builder:** Big John Effects
 - **Catalog type:** Distortion / Filter
 - **Identity:** Big John Obama Wah, a historical fixed-wah filter plus distortion pedal.
 
 ## What this pedal is
+
 The Obama Wah combines two independent effects in one enclosure: a fixed/sweepable wah-style band-pass filter and a transistor distortion. The filter can operate alone or with the distortion.
 
 ## Controls / functions
+
 - Filter / wah sweep control
 - Distortion Gain
 - Distortion Volume
 - Two independent footswitches for the filter and distortion sections
 
 ## Circuit / construction
+
 - Point-to-point construction.
 - Big John describes the distortion as transistor overload.
 - The distortion Gain control changes voltage in the gain circuit, changing both gain level and distortion texture.
 - Intended for guitar, bass and synth.
 
 ## Sound
+
 Effects Database describes the distortion as moving from mild and fuzzy through bright and crunchy transistor overload. The filter can provide a fixed wah or cocked-wah-style frequency emphasis, and its position can be swept.
 
 ## History
+
 Big John's official timeline places Obama Wah in **2009** as a filter and distortion product with voltage gain control. Surviving secondary sales documentation describes the pedal as taken out of production, making it a historical/discontinued model.
 
 ## Sources checked
+
 1. Big John official history: https://bigjohnmusic.com/about/
 2. Effects Database: https://www.effectsdatabase.com/model/bigjohn/obamawah
 3. INFOMUSIC Big John test: https://www.infomusic.pl/test/33911%2Ctest-efektow-gitarowych-big-john
@@ -62,4 +69,5 @@ Big John's official timeline places Obama Wah in **2009** as a filter and distor
 The distortion is documented as capable of mild and fuzzy through bright and crunchy transistor-overload textures. The filter provides a fixed-wah/cocked-wah style frequency emphasis and can also be used as an alternative tone/filter control.
 
 ## Photo
+
 - **Archive status:** **No Photo Archived**

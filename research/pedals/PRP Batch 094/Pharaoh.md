@@ -1,10 +1,12 @@
 # Black Arts Toneworks - Pharaoh
 
 ## PRP identity
+
 - **Builder:** Black Arts Toneworks
 - **Catalog type:** Distortion / Fuzz
 
 ## What this pedal is
+
 Pharaoh is a flexible classic-fuzz-derived dirt pedal covering cleanish boost, light overdrive and saturated fuzz while retaining substantial low-end content.
 
 ## Deep research verification
@@ -24,8 +26,10 @@ The exact model documentation confirms a Hi/Lo input switch , Fuzz control, dual
 The documented range runs from a relatively clean boost through light overdrive to saturated fuzz.
 
 ## Sources checked
+
 - Black Arts Toneworks: https://www.blackartstoneworks.com/pedal/pharaoh/
 - Effects Database: https://www.effectsdatabase.com/model/blackarts/pharaoh
 
 ## Photo
+
 - **Archive status:** **No Photo Archived**

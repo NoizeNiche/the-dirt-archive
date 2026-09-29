@@ -1,29 +1,37 @@
 # Fairfield Circuitry — Modèle B
 
 ## PRP identity
+
 - **Archive parent:** Modèle B
 - **Builder:** Fairfield Circuitry
 - **Catalog type:** Overdrive
 - **Identity:** Fairfield Circuitry's Modèle B.
 
 ## What this pedal is
+
 Apart from that, there is no difference between a switched on Barbershop and a Modèle B.
 
 ## Colorways
+
 - It feels like the raw finish of the Fairfield pedals are like that.
 - They look expensive and high quality despite their raw enclosures.
 
 ## Versions and factory options
+
 - The verified evidence references: MkIII, V1, v2.
 - The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
 
 ## Version changes
+
 - No specific factory version changes were established in the verified evidence packet.
 
 ## Transistor
+
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
+
 ## Diode
+
 - Documented terms in the verified sources: LED.
 - The archive records only the component information explicitly present in these sources.
 
@@ -36,6 +44,7 @@ Fairfield Circuitry Modele B Overdrive Pedal - Reverb: https://reverb.com/item/9
 Fairfield Circuitry Modele B Always-On Barbershop Overdrive Pedal
 
 ## Sources checked
+
 1. Modèle B - Always On Barbershop – Fairfield Circuitry: https://fairfieldcircuitry.com/products/model-b
 2. Fairfield Circuitry Modèle B - What To Know Where To Buy: https://equipboard.com/items/fairfield-circuitry-modele-b
 3. Fairfield Circuitry Modèle B – The Dirt Jounal: https://thedirtjounal.com/2025/03/13/fairfield-circuitry-modele-b/
@@ -44,6 +53,7 @@ Fairfield Circuitry Modele B Always-On Barbershop Overdrive Pedal
 6. Fairfield Circuitry Modèle B Always-On Barbershop Overdrive Pedal | Tone Wolf: https://tonewolf.com/products/fairfield-circuitry-modele-b-always-on-barbershop-pedal
 
 ## Photo
+
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
 
 ## Deep research verification

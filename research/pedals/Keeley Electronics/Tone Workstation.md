@@ -1,39 +1,49 @@
 # Keeley Electronics — Tone Workstation
 
 ## PRP identity
+
 - **Archive parent:** Tone Workstation
 - **Builder:** Keeley Electronics
 - **Catalog type:** Distortion / Overdrive
 - **Identity:** Keeley Electronics's Tone Workstation.
 
 ## What this pedal is
+
 Keeley Electronics’ Tone Workstation is not another multi-effects unit or digital processor.
 
 ## Colorways
+
 - Hardware Design & Physical Interface Keeley’s industrial design team collaborated with aerospace-grade enclosure manufacturer Bud Industries to fabricate the chassis from 1.2mm cold-rolled steel with powder-coated matte black finish.
 - Last in the chain is our renowned Red Dirt overdrive.
 - Also featuring our JFET front end, the Red Dirt has the perfect amount of crucial midrange coupled with the option to go all the way from clean and clear to super-saturated gain, times two!
 
 ## Versions and factory options
+
 - The verified evidence references: v1, v2, v29.
 - The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
 
 ## Version changes
+
 - No specific factory version changes were established in the verified evidence packet.
 
 ## Transistor
+
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
+
 ## Diode
+
 - Documented terms in the verified sources: LED.
 - The archive records only the component information explicitly present in these sources.
 
 ## Sound
+
 Keeley Electronics Announces The Tone Workstation: A Modular Analog Pedalboard Revolution
 Keeley Electronics’ Tone Workstation is not another multi-effects unit or digital processor.
 Unveiled at the 2024 NAMM Show in Anaheim, the Tone Workstation is a 3U (5.25-inch tall) 19-inch rack-mounted device weighing 12.8 pounds and measuring 17.25 × 13.5 × 6.5 inches (W × D × H).
 
 ## Sources checked
+
 1. Tone Workstation - Keeley Electronics Guitar Effects Pedals: https://robertkeeley.com/product/tone-workstation-copy/
 2. Keeley Electronics Announces The Tone Workstation: A Modular Analog Pedalboard Revolution | GearStrings: https://gearstrings.com/gear-reviews/keeley-electronics-announces-the-tone-workstation
 3. Keeley Electronics: Tone Workstation Review: https://www.samgoffenguitar.com/post/keeley-electronics-tone-workstation
@@ -44,4 +54,5 @@ Unveiled at the 2024 NAMM Show in Anaheim, the Tone Workstation is a 3U (5.25-in
 8. Keeley | Tone Workstation Multi-Effects - Sugaree Licks: https://sugareelicks.com/pedal/keeley-tone-workstation-multi-effects/
 
 ## Photo
+
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

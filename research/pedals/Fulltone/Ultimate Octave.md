@@ -1,36 +1,46 @@
 # Fulltone — Ultimate Octave
 
 ## PRP identity
+
 - **Archive parent:** Ultimate Octave
 - **Builder:** Fulltone
 - **Catalog type:** Fuzz
 - **Identity:** Fulltone's Ultimate Octave.
 
 ## What this pedal is
+
 Fulltone's Ultimate Octave is cataloged as a fuzz pedal.
 
 ## Colorways
+
 - No specific factory colorway information was established in the verified evidence packet.
 
 ## Versions and factory options
+
 - The verified evidence references: V1, V2.
 - The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
 
 ## Version changes
+
 - No specific factory version changes were established in the verified evidence packet.
 
 ## Transistor
+
 - Documented terms in the verified sources: BC108.
 - The archive records only the component information explicitly present in these sources.
+
 ## Diode
+
 - Documented terms in the verified sources: LED.
 - The archive records only the component information explicitly present in these sources.
 
 ## Sound
+
 Fulltone Ultimate Octave Fuzz/Octave – United States Served with love!
 The Fat/Bright switch changes the entire contour, affecting both the fuzz and the octave, so you can choose either the thicker, mid-forward “Fat” setting or the more open “Bright” setting with defined highs and a slightly scooped mid-range.
 
 ## Sources checked
+
 1. Ultimate Octave – Fulltone USA: https://www.fulltoneusa.com/products/ultimate-octave
 2. Fulltone Ultimate Octave - Reverb: https://reverb.com/p/fulltone-ultimate-octave
 3. Fulltone Ultimate Octave Fuzz Pedal | Sweetwater: https://www.sweetwater.com/store/detail/UltimateOct--fulltone-ultimate-octave-fuzz-pedal
@@ -42,4 +52,5 @@ The Fat/Bright switch changes the entire contour, affecting both the fuzz and th
 9. Ultimate Octave (reissue) by Fulltone | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/Fulltone/Ultimate-Octave-reissue/8263302115/
 
 ## Photo
+
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

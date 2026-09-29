@@ -1,36 +1,46 @@
 # Ibanez — SM7
 
 ## PRP identity
+
 - **Archive parent:** SM7
 - **Builder:** Ibanez
 - **Catalog type:** Distortion
 - **Identity:** Ibanez's SM7.
 
 ## What this pedal is
+
 Ibanez SM7 Smashbox | AllThePedals Articles Genealogy Browse Search results for " " Gain / Distortion / Ibanez SM7 Smashbox SM7 Smashbox The Ibanez SM7 Smashbox is a versatile distortion effects pedal from the Tone-Lok series, delivering an aggressive and modern heavy rock sound.
 
 ## Colorways
+
 - No specific factory colorway information was established in the verified evidence packet.
 
 ## Versions and factory options
+
 - No distinct factory revision was established in the verified evidence packet.
 
 ## Version changes
+
 - No specific factory version changes were established in the verified evidence packet.
 
 ## Transistor
+
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
+
 ## Diode
+
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.
 
 ## Sound
+
 Ibanez SM7 Smashbox | AllThePedals Articles Genealogy Browse Search results for " " Gain / Distortion / Ibanez SM7 Smashbox SM7 Smashbox The Ibanez SM7 Smashbox is a versatile distortion effects pedal from the Tone-Lok series, delivering an aggressive and modern heavy rock sound.
 With its obscene amounts of gain, tight low end, and searing highs, it's designed for contemporary guitarists seeking a powerful and modern distortion sound.
 The SM7 features a scooped mid-range, ultra-tight low-end, and searing highs, ensuring a heavy sound suitable for metal, punk, and industrial rock.
 
 ## Sources checked
+
 1. Ibanez SM7 Smash Box - Reverb: https://reverb.com/p/ibanez-sm7-smash-box
 2. Ibanez SM7 Smashbox - Effects Database: https://www.effectsdatabase.com/model/ibanez/tonelok/sm7
 3. Ibanez Tone-Lok SM7 Smashbox — Distortion Pedal | Equipboard: https://equipboard.com/items/ibanez-sm7-smashbox-tone-lok
@@ -42,4 +52,5 @@ The SM7 features a scooped mid-range, ultra-tight low-end, and searing highs, en
 9. SM7 Smash Box by Ibanez | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/Ibanez/SM7-Smash-Box/68980147/
 
 ## Photo
+
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

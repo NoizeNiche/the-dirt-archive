@@ -1,6 +1,7 @@
 # Stomp Under Foot — Skinner Box
 
 ## PRP identity
+
 - **Archive parent:** Skinner Box
 - **Builder:** Stomp Under Foot
 - **Catalog type:** Distortion
@@ -9,27 +10,35 @@
 ## What this pedal is
 
 ## Colorways
+
 - Rodent Of Unusual Size Build Your Own Clone Mighty Mouse Chicago Stompworks Mister Vermin CMATMODS Black Plague DreamTone Molly The Cat Freakshow Effects Brown Rabbit Fr
 
 ## Versions and factory options
+
 - The verified evidence references: V1, V6, version 1.
 - The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
 
 ## Version changes
+
 - No specific factory version changes were established in the verified evidence packet.
 
 ## Transistor
+
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
+
 ## Diode
+
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.
 
 ## Sound
+
 Known mainly as a distortion, it also works great as an overdrive.
 With the gain set between 11 and 12 o’clock, it delivers a clear, balanced overdriven tone that responds to your picking and cleans up with your guitar’s volume.
 
 ## Sources checked
+
 1. Skinner Box – Stomp Under Foot: https://stompunderfoot.com/products/skinner-box
 2. Stomp Under Foot Skinner Box - Reverb: https://reverb.com/p/stomp-under-foot-skinner-box
 3. Stomp Under Foot Skinner Box - What To Know & Where To Buy: https://equipboard.com/items/stomp-under-foot-skinner-box
@@ -42,4 +51,5 @@ With the gain set between 11 and 12 o’clock, it delivers a clear, balanced ove
 10. Stomp Under Foot Skinner Box Distortion Effects Pedal | hobbyinmusic.com: https://www.hobbyinmusic.com/product/stomp-under-foot-skinner-box-distortion-effects-pedal/
 
 ## Photo
+
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

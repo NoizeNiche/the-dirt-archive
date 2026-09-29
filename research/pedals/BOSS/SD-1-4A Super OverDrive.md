@@ -1,35 +1,45 @@
 # BOSS — SD-1-4A Super OverDrive
 
 ## PRP identity
+
 - **Archive parent:** SD-1-4A Super OverDrive
 - **Builder:** BOSS
 - **Catalog type:** Overdrive
 - **Identity:** BOSS's SD-1-4A Super OverDrive.
 
 ## What this pedal is
+
 BOSS's SD-1-4A Super OverDrive is cataloged as an overdrive pedal.
 
 ## Colorways
+
 - BOSS 40th Anniversary SD-1-4A Super OverDrive Effects Pedal Black
 
 ## Versions and factory options
+
 - No distinct factory revision was established in the verified evidence packet.
 
 ## Version changes
+
 - No specific factory version changes were established in the verified evidence packet.
 
 ## Transistor
+
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
+
 ## Diode
+
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.
 
 ## Sound
+
 BOSS 40th Anniversary SD-1-4A Super OverDrive Effects Pedal Black
 BOSS’s Legendary Super Overdrive Sound Since its release in 1981, the workhorse SD-1 Super Overdrive has been the core gain pedal for generations of players across every musical genre.
 
 ## Sources checked
+
 1. Boss SD-1-4A Super Overdrive 40th Anniversary - Equipboard: https://equipboard.com/items/boss-sd-1-4a-40th-anniversary
 2. BOSS 40th Anniversary SD-1-4A Super OverDrive Effects Pedal Black | Guitar Center: https://www.guitarcenter.com/BOSS/40th-Anniversary-SD-1-4A-Super-OverDrive-Effects-Pedal-Black-1500000349034.gc
 3. Boss SD-1-4A Super OverDrive Guitar Effects Pedal - 40th Anniversary ...: https://www.orchestramegastore.com/boss-sd-1-4a-guitar-effect-black.html
@@ -39,4 +49,5 @@ BOSS’s Legendary Super Overdrive Sound Since its release in 1981, the workhors
 7. Boss' SD-1-4A Super Overdrive - Vintage Guitar® magazine: https://www.vintageguitar.com/39730/boss-sd-1-4a-super-overdrive/
 
 ## Photo
+
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

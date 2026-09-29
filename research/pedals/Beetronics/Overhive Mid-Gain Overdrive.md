@@ -1,6 +1,7 @@
 # Beetronics — Overhive Mid-Gain Overdrive
 
 ## Surface catalog record
+
 - **Builder:** Beetronics
 - **Pedal:** Overhive Mid-Gain Overdrive
 - **Catalog type:** Overdrive
@@ -9,6 +10,7 @@
 - **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
 
 ## What this pedal is
+
 The Overhive is a **mid-gain overdrive** designed to enhance an amplifier's natural character with warmth, clarity and bite. Beetronics describes its response as dynamic and touch-sensitive, moving from smooth edge-of-breakup tones to punchier saturation.\n\n## Catalog source
 - Catalog source page on file: https://www.beetronicsfx.com/collections/drive
 
@@ -55,4 +57,5 @@ Beetronics describes Overhive as a warm, direct mid-gain drive with dynamic brea
 Beetronics describes Overhive as a warm, direct mid gain drive with dynamic breakup. The Body and Hive switches are intended to move the response between added low end weight, broader/fatter voicing and tighter/thinner operation.
 
 ## Photo
+
 - **Archive status:** **Exact Photo Pending**

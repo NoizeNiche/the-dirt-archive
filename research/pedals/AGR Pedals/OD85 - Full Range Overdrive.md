@@ -1,6 +1,7 @@
 # AGR Pedals — OD85 - Full Range Overdrive
 
 ## PRP identity
+
 - **Archive parent:** OD85 - Full Range Overdrive
 - **Builder:** AGR Pedals
 - **Catalog type:** Overdrive
@@ -11,18 +12,24 @@
 The OD85 is an analog full-range overdrive designed to preserve the complete character of the instrument and amplifier rather than heavily narrowing or coloring the signal. It uses Gain, Tone and Volume controls and is also described as a transparent boost. [1]
 
 ## Colorways
+
 - No specific factory colorway information was established in the verified evidence packet.
 
 ## Versions and factory options
+
 - No distinct factory revision was established in the verified evidence packet.
 
 ## Version changes
+
 - No specific factory version changes were established in the verified evidence packet.
 
 ## Transistor
+
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
+
 ## Diode
+
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.
 
@@ -31,9 +38,11 @@ The OD85 is an analog full-range overdrive designed to preserve the complete cha
 The OD85 emphasizes a transparent, full-frequency response with dynamic behavior that reacts to playing intensity. AGR's documented description says it can move from subtle boost settings into higher-gain overdrive while retaining clarity and instrument definition. [1]
 
 ## Sources checked
+
 1. AGR Pedals OD85 - Full Range Overdrive | Effects Database: https://www.effectsdatabase.com/model/agrpedals/od85
 
 ## Photo
+
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
 
 ## Deep research verification

@@ -1,6 +1,7 @@
 # Seymour Duncan — Palladium Gain Stage
 
 ## PRP identity
+
 - **Archive parent:** Palladium Gain Stage
 - **Builder:** Seymour Duncan
 - **Catalog type:** Distortion
@@ -11,18 +12,24 @@
 Seymour Duncan's Palladium Gain Stage is cataloged in the archive as a Distortion pedal.
 
 ## Colorways
+
 - These transistors deliver ultra-low noise (0.85 nV/√Hz input-referred), symmetrical clipping characteristics, and a natural compression curve that responds authentically to picking dynamics.
 
 ## Versions and factory options
+
 - No distinct factory revision was established in the verified evidence packet.
 
 ## Version changes
+
 - No specific factory version changes were established in the verified evidence packet.
 
 ## Transistor
+
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
+
 ## Diode
+
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.
 
@@ -35,6 +42,7 @@ Seymour Duncan's Palladium Gain Stage is cataloged in the archive as a Distortio
 These transistors deliver ultra-low noise (0.85 nV/√Hz input-referred), symmetrical clipping characteristics, and a natural compression curve that responds authentically to picking dynamics.
 
 ## Sources checked
+
 1. Seymour Duncan Palladium Gain Stage - Reverb: https://reverb.com/p/seymour-duncan-palladium-gain-stage
 2. Seymour Duncan Palladium Gain Stage - What To Know & Where To Buy: https://equipboard.com/items/seymour-duncan-palladium-gain-stage
 3. PDF -PALLADIUM- GAIN STAGE USER'S GUIDE - Seymour Duncan: https://www.seymourduncan.com/images/User%20Guides/Palladium%20Gain%20Stage%20Pedal%20User%20Manual%20by%20Seymour%20Duncan.pdf
@@ -43,6 +51,7 @@ These transistors deliver ultra-low noise (0.85 nV/√Hz input-referred), symmet
 6. Seymour Duncan Palladium Gain Stage User Guide - Manualzz: https://manualzz.com/doc/54688584/seymour-duncan-palladium-gain-stage-user-guide
 
 ## Photo
+
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
 
 ## Deep research verification

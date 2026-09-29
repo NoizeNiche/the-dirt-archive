@@ -1,6 +1,7 @@
 # Crock — SM-3 Super Metal
 
 ## PRP identity
+
 - **Archive parent:** SM-3 Super Metal
 - **Builder:** Crock
 - **Catalog type:** Distortion
@@ -11,19 +12,25 @@
 Crock's SM-3 Super Metal is cataloged in the archive as a Distortion pedal.
 
 ## Colorways
+
 - No specific factory colorway information was established in the verified evidence packet.
 
 ## Versions and factory options
+
 - The verified evidence references: v2.
 - The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
 
 ## Version changes
+
 - No specific factory version changes were established in the verified evidence packet.
 
 ## Transistor
+
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
+
 ## Diode
+
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.
 
@@ -32,9 +39,11 @@ Crock's SM-3 Super Metal is cataloged in the archive as a Distortion pedal.
 No verified pedal-specific sonic summary is currently established in the archive.
 
 ## Sources checked
+
 1. Crock SM-3 Super Metal | Effects Database: https://www.effectsdatabase.com/model/crock/sm3
 
 ## Photo
+
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
 
 ## Deep research verification

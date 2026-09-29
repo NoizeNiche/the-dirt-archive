@@ -1,27 +1,33 @@
 # Big John Effects - Pocket Rocket
 
 ## PRP identity
+
 - **Builder:** Big John Effects
 - **Catalog type:** Overdrive
 
 ## What this pedal is
+
 Pocket Rocket is Big John Effects' vintage-style Tube Screamer-inspired overdrive. Big John describes it as an analog design with more headroom, more low end, and available high-frequency extension than a conventional vintage-voiced example.
 
 ## Construction / power
+
 - Point-to-point soldered wiring.
 - Big John describes its pedals as 9 V DC devices without routine battery operation.
 - A surviving Reverb listing documents a Pocket Rocket that does not accept a battery and uses 9 VDC.
 
 ## Controls
+
 - **Volume**
 - **Tone**
 - **Gain**
 - **Clipping mode** switch for a slight modern overdrive character in asymmetrical mode
 
 ## Sound
+
 Big John describes a creamy, vintage-style overdrive with additional headroom, low end and highs, suitable for both guitar and bass.
 
 ## Sources checked
+
 1. Big John official Pocket Rocket page: https://bigjohnmusic.com/?page_id=36
 2. Big John official history: https://bigjohnmusic.com/about/
 3. Big John FAQ: https://bigjohnmusic.com/faq/
@@ -60,4 +66,5 @@ Big John's official timeline places the Pocket Rocket in **2012** and calls it a
 Big John describes the Pocket Rocket as creamy and vintage-voiced while retaining extra headroom and low end. The product is positioned for both guitar and bass.
 
 ## Photo
+
 - **Archive status:** **No Photo Archived**

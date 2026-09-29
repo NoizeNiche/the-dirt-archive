@@ -1,6 +1,7 @@
 # Silktone — Fuzz+
 
 ## PRP identity
+
 - **Archive parent:** Fuzz+
 - **Builder:** Silktone
 - **Catalog type:** Fuzz
@@ -11,28 +12,36 @@
 The other way (I've seen done most) is making only the second transistor adjustable - there's less tonal range this way but it behaves better unless, again, it's - **Archive parent:** Fuzz+ - **Builder:** Silktone - **Catalog type:** Fuzz - **Identity:** Silktone's Fuzz+.
 
 ## Colorways
+
 - updated taper of the “Cleanup” control is much smoother compared to the old version and the “Fuzz” control is much more usable now too allowing you to set post gain and shape the sound a bit or to set max fuzz level when cleanup is bypassed in raw mode.
 At the heart of the Silktone Fuzz are two germanium transistors, tweaked to get a huge array of tones and fix all the annoyances you get with a typical germanium fuzz.
 
 ## Versions and factory options
+
 - No distinct factory revision was established in the verified evidence packet.
 
 ## Version changes
+
 - No specific factory version changes were established in the verified evidence packet.
 
 ## Transistor
+
 - Documented terms in the verified sources: germanium fuzz, germanium transistor.
 - The archive records only the component information explicitly present in these sources.
+
 ## Diode
+
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.
 
 ## Sound
+
 The treble shape subtly rolls off the high end for a softer fuzz tone.
 second footswitch - engages RAW mode bypassing the cleanup knob and tone controls to bring you back to full raw fuzz.
 This makes it a sort of dual fuzz to get a huge variety of sounds.
 
 ## Sources checked
+
 1. Silktone Fuzz+ - the perfect germanium fuzz platform: https://www.silktone.org/store/p20/fuzzplus.html
 2. Silktone Fuzz+ - Reverb: https://reverb.com/p/silktone-fuzz-plus
 3. Fuzz+ | Silktone: https://www.silktonejp.com/pedals/fuzz-plus
@@ -41,6 +50,7 @@ This makes it a sort of dual fuzz to get a huge variety of sounds.
 6. マニュアル: https://quanta-intl.jp/wp-content/uploads/2025/09/silktone_Fuzz-plus-manual_jp_v1.pdf
 
 ## Photo
+
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
 
 ## Deep research verification

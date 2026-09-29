@@ -1,6 +1,7 @@
 # Vemuram — Shanks 4K
 
 ## PRP identity
+
 - **Archive parent:** Shanks 4K
 - **Builder:** Vemuram
 - **Catalog type:** Fuzz
@@ -11,27 +12,35 @@
 Shanks 4K Fuzz - Sugaree Licks: https://sugareelicks.com/pedal/vemuram-shanks-4k-fuzz/ - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
 
 ## Colorways
+
 - No specific factory colorway information was established in the verified evidence packet.
 
 ## Versions and factory options
+
 - No distinct factory revision was established in the verified evidence packet.
 
 ## Version changes
+
 - No specific factory version changes were established in the verified evidence packet.
 
 ## Transistor
+
 - Documented terms in the verified sources: Germanium Fuzz, Germanium Transistor.
 - The archive records only the component information explicitly present in these sources.
+
 ## Diode
+
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.
 
 ## Sound
+
 It offers a wide tonal range, from a clean boost to a thick, Fuzz Face-like distortion.
 The Fuzz Color trimmer allows for adjustment from a spitty fuzz to a smooth overdrive.
 The Shanks 4K was designed to recreate the 60’s Fuzz Face like overdrive boost.
 
 ## Sources checked
+
 1. Vemuram Shanks 4K - What To Know & Where To Buy | Equipboard: https://equipboard.com/items/vemuram-shanks-4k
 2. Vemuram Shanks 4K Fuzz - Reverb: https://reverb.com/p/vemuram-shanks-4k-fuzz
 3. Vemuram Shanks 4K | AllThePedals: https://allthepedals.com/pedals/vemuram-shanks-4k
@@ -43,6 +52,7 @@ The Shanks 4K was designed to recreate the 60’s Fuzz Face like overdrive boost
 9. Vemuram | Shanks 4K Fuzz - Sugaree Licks: https://sugareelicks.com/pedal/vemuram-shanks-4k-fuzz/
 
 ## Photo
+
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
 
 ## Deep research verification

@@ -1,6 +1,7 @@
 # Beetronics — Abelha Tropical Fuzz
 
 ## Surface catalog record
+
 - **Builder:** Beetronics
 - **Pedal:** Abelha Tropical Fuzz
 - **Catalog type:** Fuzz
@@ -9,9 +10,11 @@
 - **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
 
 ## What this pedal is
+
 The Dirt Archive currently catalogs **Abelha Tropical Fuzz** by **Beetronics** as a **Fuzz** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
 
 ## Catalog source
+
 - Catalog source page on file: https://www.beetronicsfx.com/collections/all-pedals-1
 
 ## Deep research verification
@@ -58,4 +61,5 @@ Beetronics describes Polen as sagged and spitty, Nectar as round and huge, and H
 Beetronics describes Polen as sagged and spitty, Nectar as round and huge, and Honey as more contained with broader versatility. Tropical Mode adds a sharp, treble forward edge inspired by plugging fuzz directly into a recording console.
 
 ## Photo
+
 - **Archive status:** **Exact Photo Pending**

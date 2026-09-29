@@ -1,6 +1,7 @@
 # MOOER Audio / MOOER — Rumble Drive
 
 ## Surface catalog record
+
 - **Builder:** MOOER Audio / MOOER
 - **Pedal:** Rumble Drive
 - **Catalog type:** Overdrive
@@ -9,23 +10,29 @@
 - **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
 
 ## What this pedal is
+
 The Dirt Archive currently catalogs **Rumble Drive** by **MOOER Audio / MOOER** as a **Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
 
 ## Catalog source
+
 - No source page is recorded in the current catalog metadata.
 
 ## Photo
+
 - **Archive photo:** No verified local photo is currently archived.
 - Photo provenance and validation are handled separately from this surface research record.
 
 ## Deep research
+
 - **Status:** Pending
 - Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
 
 ## Deep research verification
+
 - Effects Database identifies **Rumble Drive** as the exact MOOER model and describes it as an overdrive pedal.
 - The admitted model documentation includes the pedal's control set, true-bypass switching, and power information.
 - The archive does not infer a specific circuit lineage unless the exact-model sources establish it.
 
 ## Verification source set
+
 1. Effects Database — MOOER Rumble Drive: https://www.effectsdatabase.com/model/mooer/micro/rumbledrive

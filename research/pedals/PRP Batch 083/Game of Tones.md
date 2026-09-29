@@ -1,18 +1,22 @@
 # Big Knob Pedals - Game of Tones
 
 ## PRP identity
+
 - **Builder:** Big Knob Pedals
 - **Catalog type:** Overdrive
 
 ## What this pedal is
+
 Game of Tones is Big Knob's modified BluesBreaker-derived overdrive that uses a single pedal to reproduce a broader range of the dual-overdrive concept associated with the King of Tone family.
 
 ## Circuit / design
+
 - Modified stock BluesBreaker-style circuit.
 - Big Knob describes the base as a cloned Prince of Tone concept.
 - An added switch can engage an additional first-stage behavior so one pedal can cover one-stage and two-stage configurations.
 
 ## Controls / construction
+
 - Volume
 - Drive
 - Tone
@@ -24,9 +28,11 @@ Game of Tones is Big Knob's modified BluesBreaker-derived overdrive that uses a 
 - 9V adapter / battery support
 
 ## Sound
+
 The builder presents Game of Tones as a broad BluesBreaker-family overdrive platform with multiple gain and voicing options.
 
 ## Sources checked
+
 1. Big Knob official product page: https://bigknobpedals.com/product/game-of-tones/
 2. Big Knob official homepage: https://www.bigknobpedals.com/
 
@@ -53,4 +59,5 @@ Verified construction and power:
 The reviewed builder page does not publish a complete component-level bill of materials for its Game of Tones build.
 
 ## Photo
+
 - **Archive status:** **No Photo Archived**

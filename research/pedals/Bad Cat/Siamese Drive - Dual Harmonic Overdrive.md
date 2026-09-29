@@ -1,17 +1,21 @@
 # Bad Cat - Siamese Drive - Dual Harmonic Overdrive
 
 ## PRP identity
+
 - Builder: Bad Cat
 - Catalog type: Overdrive
 - Identity: Bad Cat Siamese Drive, dual harmonic overdrive.
 
 ## What this pedal is
+
 Siamese Drive is a historical Bad Cat dual overdrive pedal documented by Effects Database.
 
 ## Circuit / controls
+
 Exact circuit topology, controls and semiconductor details are deferred to exact-model documentation.
 
 ## History
+
 The model is part of Bad Cat's pedal catalog alongside Burmese Drive, Double Drive, 2-Tone and X-Treme Tone.
 
 ## Sound
@@ -19,6 +23,7 @@ The model is part of Bad Cat's pedal catalog alongside Burmese Drive, Double Dri
 Effects Database describes the two channels as covering transparent clean boost through warm overdrive and thick full crunch while maintaining note articulation. Cascading the channels provides additional saturation, sustain, and harmonic complexity. Independent retail/demo descriptions likewise characterize the pedal as a flexible two stage/stackable overdrive, including a subtly compressed, gritty stacked sound.
 
 ## Sources checked
+
 1. Effects Database Bad Cat: https://www.effectsdatabase.com/model/badcat
 2. Bad Cat Pedals: https://badcat.com/
 
@@ -60,4 +65,5 @@ Effects Database describes the two channels as covering transparent clean boost 
 2. delicious-audio.com: https://delicious-audio.com/bad-cat-double-drive-overdrive/
 
 ## Photo
+
 - **Archive status:** **Exact Photo Pending**

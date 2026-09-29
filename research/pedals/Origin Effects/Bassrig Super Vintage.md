@@ -1,6 +1,7 @@
 # Origin Effects — Bassrig Super Vintage
 
 ## PRP identity
+
 - **Archive parent:** Bassrig Super Vintage
 - **Builder:** Origin Effects
 - **Catalog type:** Overdrive
@@ -11,29 +12,38 @@
 The balanced DI output on the BASSRIG Super Vintage is equipped with an all-analogue simulation of Ampeg®’s famous 8×10 speaker cabinet – essential to the SVT® sound.
 
 ## Colorways
+
 - No specific factory colorway information was established in the verified evidence packet.
 
 ## Versions and factory options
+
 - No distinct factory revision was established in the verified evidence packet.
 
 ## Version changes
+
 - No specific factory version changes were established in the verified evidence packet.
 
 ## Transistor
+
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
+
 ## Diode
+
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.
 
 ## Sound
+
 Overdrive - Origin Effects This site uses cookies for analytics and to improve your experience.
 Our all-analogue approach and passion for vintage gear puts decades of drive at your feet.
 
 ## Sources checked
+
 1. Overdrive - Origin Effects: https://origineffects.com/product-category/overdrive/
 
 ## Photo
+
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
 
 ## Deep research verification

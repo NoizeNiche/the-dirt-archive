@@ -1,6 +1,7 @@
 # Beetronics — Fatbee Overdrive
 
 ## Surface catalog record
+
 - **Builder:** Beetronics
 - **Pedal:** Fatbee Overdrive
 - **Catalog type:** Overdrive
@@ -9,6 +10,7 @@
 - **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
 
 ## What this pedal is
+
 The Fatbee is Beetronics' first Babee Series pedal, an original **JFET overdrive circuit** developed with Howard Davis. Beetronics describes it as an amp-like overdrive with natural breakup, smooth drive and touch-sensitive response.\n\n## Catalog source
 - Catalog source page on file: https://www.beetronicsfx.com/collections/drive
 
@@ -58,4 +60,5 @@ Beetronics describes Fatbee as producing tube-style breakup, smooth drive, natur
 Beetronics describes Fatbee as producing tube style breakup, smooth drive, natural compression/saturation and touch sensitive response. The builder also says it can be used with guitar, bass and synth when warmth or saturation is desired.
 
 ## Photo
+
 - **Archive status:** **Exact Photo Pending**

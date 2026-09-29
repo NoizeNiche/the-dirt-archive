@@ -1,6 +1,7 @@
 # ABL Pedals — The Toor
 
 ## PRP identity
+
 - **Archive parent:** The Toor
 - **Builder:** ABL Pedals
 - **Catalog type:** Fuzz
@@ -11,6 +12,7 @@
 The Toor is heavily inspired by a very particular version of the Big Muff Pi pedal made famous by The Smashing Pumpkins, but that’s about where the similarities end.
 
 ## Controls
+
 - **Volume**
 - **Sustain**
 - **Tone**
@@ -19,6 +21,7 @@ The Toor is heavily inspired by a very particular version of the Big Muff Pi ped
 The Mids control is the main departure from the familiar three-control Muff layout, allowing the player to bring the fuzz forward rather than leaving the response permanently scooped.
 
 ## Circuit / components
+
 The preserved exact-model evidence identifies the core active device as a **TL074 quad op amp**. [1]
 
 - **Technology:** Op-amp-based fuzz.
@@ -28,15 +31,19 @@ The preserved exact-model evidence identifies the core active device as a **TL07
 - **Schematic/component values:** Not verified.
 
 ## Sound
+
 The Toor is intended to retain the thick, sustaining character associated with an Op-Amp Muff while adding midrange control for better placement in a mix. More conservative settings can retain a broad, scooped fuzz character; increasing Mids brings the effect forward. [1]
 
 ## Version history
+
 No numbered factory hardware revision was verified in the archive evidence. The parent identity is therefore retained as a single model.
 
 ## Sources checked
+
 1. Existing exact-model ABL Pedals research evidence retained in the archive.
 
 ## Photo
+
 - **Archive status:** Photo handling remains separate from this research pass.
 - **Identity rule:** Use only an image confirmed as ABL Pedals The Toor, not another Muff-style ABL pedal.
 

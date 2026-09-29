@@ -1,6 +1,7 @@
 # Stomp Under Foot — Red Army
 
 ## PRP identity
+
 - **Archive parent:** Red Army
 - **Builder:** Stomp Under Foot
 - **Catalog type:** Fuzz
@@ -11,26 +12,34 @@
 Stomp Under Foot - Vintage Red Army - creativeaudioshop.com: https://www.creativeaudioshop.com/product/stomp-under-foot-vintage-red-army/ - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
 
 ## Colorways
+
 - Sonically, the Red Army stands apart from other Russian Big Muffs.
 
 ## Versions and factory options
+
 - The verified evidence references: V1, V6, version 1.
 - The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
 
 ## Version changes
+
 - No specific factory version changes were established in the verified evidence packet.
 
 ## Transistor
+
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
+
 ## Diode
+
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.
 
 ## Sound
+
 It offers slightly less low end than the Civil War that followed and delivers a grittier, more aggressive fuzz that is closer in texture to the later Green Russian, but with its own raw character.
 
 ## Sources checked
+
 1. Red Army Overdrive – Stomp Under Foot: https://stompunderfoot.com/products/red-army
 2. Stomp Under Foot Red Army - Reverb: https://reverb.com/p/stomp-under-foot-red-army
 3. Stomp Under Foot Vintage Edition Red Army - Equipboard: https://equipboard.com/items/stomp-under-foot-vintage-edition-red-army
@@ -40,6 +49,7 @@ It offers slightly less low end than the Civil War that followed and delivers a 
 7. Stomp Under Foot - Vintage Red Army - creativeaudioshop.com: https://www.creativeaudioshop.com/product/stomp-under-foot-vintage-red-army/
 
 ## Photo
+
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
 
 ## Deep research verification

@@ -1,37 +1,47 @@
 # Tone City — King of Blues
 
 ## PRP identity
+
 - **Archive parent:** King of Blues
 - **Builder:** Tone City
 - **Catalog type:** Overdrive
 - **Identity:** Tone City's King of Blues.
 
 ## What this pedal is
+
 The King of Blues is its own thing .
 
 ## Colorways
+
 - No specific factory colorway information was established in the verified evidence packet.
 
 ## Versions and factory options
+
 - The verified evidence references: V2, v1, v2.
 - The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
 
 ## Version changes
+
 - No specific factory version changes were established in the verified evidence packet.
 
 ## Transistor
+
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
+
 ## Diode
+
 - Documented terms in the verified sources: LED.
 - The archive records only the component information explicitly present in these sources.
 
 ## Sound
+
 This means that you have access to two overdrive flavors, providing excellent tonal variation.
 Channel A is a powerful and potent overdrive with plenty of mid-range, It can run from clean boost to high gain overdrive, always with emphasizing the most pleasant mid-frequency of the guitar.
 Channel B is a smooth overdrive with less mid-range and has a fatter, warm and more dynamic bass quality.
 
 ## Sources checked
+
 1. Tone City King of Blues - What To Know & Where To Buy: https://equipboard.com/items/tone-city-king-of-blues
 2. Tone City King of Blues - Reverb: https://reverb.com/p/tone-city-king-of-blues
 3. King of Blues-Legendary Overdrive-TONE CITY ▏Analog Pedals & Power supplies: https://www.tonecityaudio.com/Products/info_itemid_88.html
@@ -43,4 +53,5 @@ Channel B is a smooth overdrive with less mid-range and has a fatter, warm and m
 9. Tone City TC-T30 King Of Blues | Effects Database: https://www.effectsdatabase.com/model/tonecity/kingofblues
 
 ## Photo
+
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

@@ -1,37 +1,47 @@
 # Fortin — Fourteen
 
 ## PRP identity
+
 - **Archive parent:** Fourteen
 - **Builder:** Fortin
 - **Catalog type:** Overdrive
 - **Identity:** Fortin's Fourteen.
 
 ## What this pedal is
+
 The FOURTEEN® is not simply an overdrive pedal; it is the physical embodiment of Mike Fortin’s legendary modification history.
 
 ## Colorways
+
 - No specific factory colorway information was established in the verified evidence packet.
 
 ## Versions and factory options
+
 - The verified evidence references: V30.
 - The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
 
 ## Version changes
+
 - No specific factory version changes were established in the verified evidence packet.
 
 ## Transistor
+
 - Documented terms in the verified sources: .
 - The archive records only the component information explicitly present in these sources.
+
 ## Diode
+
 - Documented terms in the verified sources: LED, Germanium diode.
 - The archive records only the component information explicitly present in these sources.
 
 ## Sound
+
 The FOURTEEN® is not simply an overdrive pedal; it is the physical embodiment of Mike Fortin’s legendary modification history.
 Why settle for a single modification when you can have the entire history of overdrive transformation at your feet?
 The FOURTEEN® offers two identical, fully independent channels, allowing you to stack, switch, and sculpt the ultimate "Green Box" tone.
 
 ## Sources checked
+
 1. FOURTEEN® - Modern Dual Boost | Overdrive – Fortin Amps: https://fortinamps.com/products/fourteen-boost-overdrive
 2. Fortin Amplification Fourteen Dual Boost Overdrive Pedal: https://reverb.com/item/92217896-fortin-amplification-fourteen-dual-boost-overdrive-pedal
 3. Fortin Fourteen Dual Channel Overdrive | Axe Palace: https://axepalace.com/product/fortin-fourteen-dual-channel-overdrive/
@@ -43,4 +53,5 @@ The FOURTEEN® offers two identical, fully independent channels, allowing you to
 9. Fortin Amplification Fourteen Dual Boost - Overdrive - What To Know ...: https://equipboard.com/items/fortin-amplification-fourteen-dual-boost-overdrive
 
 ## Photo
+
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

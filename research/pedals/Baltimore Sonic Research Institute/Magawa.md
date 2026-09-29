@@ -1,21 +1,26 @@
 # Baltimore Sonic Research Institute - Magawa
 
 ## PRP identity
+
 - **Builder:** Baltimore Sonic Research Institute
 - **Catalog type:** Distortion
 - **Identity:** BSRI Magawa military-grade op-amp distortion.
 
 ## What this pedal is
+
 A current retailer's historical catalog identifies **BSRI MAGAWA** as a **discontinued military-grade op-amp distortion** pedal. It is therefore explicitly within the archive's historical dirt scope.
 
 ## Controls / circuit
+
 The surviving retail record does not preserve a dependable complete control map or semiconductor BOM. The "op-amp distortion" description is retained as the documented architecture, not expanded into an unsupported schematic.
 
 ## History
+
 - Product is explicitly marked **discontinued** in retailer archive material.
 - The archive retains it as a historical BSRI product even though it is no longer in the active lineup.
 
 ## Research confidence
+
 - **Identity:** High.
 - **Discontinued status:** High.
 - **Op-amp distortion architecture:** High.
@@ -26,6 +31,7 @@ The surviving retail record does not preserve a dependable complete control map 
 The reviewed archival source establishes the pedal as a distortion product but does not preserve sufficiently specific exact model sonic detail for a fuller tonal summary without speculation.
 
 ## Sources checked
+
 1. Empire Guitars historical product listing: https://empireguitars.com/collections/all?page=58
 
 ## Deep research verification
@@ -57,4 +63,5 @@ The reviewed archival source establishes the pedal as a distortion product but d
 1. Empire Guitars — historical BSRI collection: https://empireguitars.com/collections/all?page=58
 
 ## Photo
+
 - **Archive status:** **Exact Photo Pending**

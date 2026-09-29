@@ -1,6 +1,7 @@
 # AGR Pedals — FZR912 - Muff Fuzz Deluxe
 
 ## PRP identity
+
 - **Archive parent:** FZR912 - Muff Fuzz Deluxe
 - **Builder:** AGR Pedals
 - **Catalog type:** Fuzz
@@ -11,18 +12,24 @@
 The FZR912 is an analog fuzz pedal inspired by classic Muff Fuzz Deluxe and Fuzz Face-style circuits. It uses selected silicon transistors and is individually tuned through component-value selection to cover a broad range of fuzz textures. [1]
 
 ## Colorways
+
 - No specific factory colorway information was established in the verified evidence packet.
 
 ## Versions and factory options
+
 - No distinct factory revision was established in the verified evidence packet.
 
 ## Version changes
+
 - No specific factory version changes were established in the verified evidence packet.
 
 ## Transistor
+
 - Documented terms in the verified sources: silicon transistor, silicon transistors.
 - The archive records only the component information explicitly present in these sources.
+
 ## Diode
+
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.
 
@@ -35,9 +42,11 @@ It is voiced to deliver a wide and continuous range of fuzz textures, spanning a
 Each FZR912 Muff Fuzz Deluxe unit is individually tuned through the custom selection of component values and silicon transistors.
 
 ## Sources checked
+
 1. AGR Pedals FZR912 - Muff Fuzz Deluxe | Effects Database: https://www.effectsdatabase.com/model/agrpedals/fzr912
 
 ## Photo
+
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
 
 ## Deep research verification

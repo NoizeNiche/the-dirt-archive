@@ -1,6 +1,7 @@
 # J. Rockett Audio Designs — Rockaway Archer
 
 ## PRP identity
+
 - **Archive parent:** Rockaway Archer
 - **Builder:** J. Rockett Audio Designs
 - **Catalog type:** Overdrive
@@ -11,29 +12,38 @@
 Rockett Audio Designs Rockaway Archer Steve Stevens Signature Overdrive Pedal The store will not work correctly when cookies are disabled.
 
 ## Colorways
+
 - No specific factory colorway information was established in the verified evidence packet.
 
 ## Versions and factory options
+
 - The verified evidence references: V2.
 - The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
 
 ## Version changes
+
 - No specific factory version changes were established in the verified evidence packet.
 
 ## Transistor
+
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
+
 ## Diode
+
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.
 
 ## Sound
+
 It’s still definitely an Archer at heart (which is a Klon type pedal), but the 6-band graphic EQ gives it an insane amount of versatility for tone shaping.
 
 ## Sources checked
+
 1. Home - J. Rockett Audio Designs: https://rockettpedals.com/
 
 ## Photo
+
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
 
 ## Deep research verification

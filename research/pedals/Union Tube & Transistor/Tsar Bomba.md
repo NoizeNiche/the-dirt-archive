@@ -1,36 +1,45 @@
 # Union Tube & Transistor — Tsar Bomba
 
 ## PRP identity
+
 - **Archive parent:** Tsar Bomba
 - **Builder:** Union Tube & Transistor
 - **Catalog type:** Fuzz
 - **Identity:** Union Tube & Transistor's Tsar Bomba.
 
 ## What this pedal is
+
 Tsar Bomba — Union Tube Transistor Welcome Shop Dealers Buzz Contact Welcome Shop Dealers Buzz Contact Union Tube Transistor is based in East Vancouver, BC Canada.
 
 ## Colorways
 
 ## Versions and factory options
+
 - The verified evidence references: V2.
 - The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
 
 ## Version changes
+
 - No specific factory version changes were established in the verified evidence packet.
 
 ## Transistor
+
 - Documented terms in the verified sources: Germanium Fuzz.
 - The archive records only the component information explicitly present in these sources.
+
 ## Diode
+
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.
 
 ## Sound
+
 Our pursuit of great tone is its own reward.
 One complaint occasionally heard with Muffs is that they can sound great on their own but get lost when played in a band.
 The Tsar Bomba employs an original design tone circuit which allows for very precise sculpting to help you carve out your place in a mix.
 
 ## Sources checked
+
 1. Tsar Bomba — Union Tube Transistor: https://www.uniontone.com/shop/tsar-bomba
 2. Union Tube Transistor Tsar Bomba - audiofusionus.com: https://www.audiofusionus.com/product/union-tube-transistor-tsar-bomba/
 3. Union Tube Transistor Tsar Bomba – Coast Sonic: https://coastsonic.com/products/union-tube-transistor-tsar-bomba
@@ -43,4 +52,5 @@ The Tsar Bomba employs an original design tone circuit which allows for very pre
 10. Tsar Bomba — UNION TUBE TRANSISTOR | Specs, Review, Onde Comprar | Pedalboard Designer: https://pedalboarddesigner.com/pedals/union-tube-transistor-tsar-bomba
 
 ## Photo
+
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

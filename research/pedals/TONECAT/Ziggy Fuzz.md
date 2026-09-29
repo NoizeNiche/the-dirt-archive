@@ -1,6 +1,7 @@
 # TONECAT — Ziggy Fuzz
 
 ## PRP identity
+
 - **Archive parent:** Ziggy Fuzz
 - **Builder:** TONECAT
 - **Catalog type:** Fuzz
@@ -11,51 +12,41 @@
 Ziggy Fuzz - Gold Special Edition $259.00 Sold Out Get notified by email when this product is in stock.
 
 ## Colorways
+
 - No specific factory colorway information was established in the verified evidence packet.
 
 ## Versions and factory options
+
 - No distinct factory revision was established in the verified evidence packet.
 
 ## Version changes
+
 - No specific factory version changes were established in the verified evidence packet.
 
 ## Transistor
+
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
+
 ## Diode
+
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.
 
 ## Sound
+
 From the Art of the Home of Tone collection , Ziggy is wild, unpredictable, and unapologetic.
 This cat fuzz that thrives on instability — because sometimes chaos is exactly what the song needs.
 “Chaos is my thing” From the Art of the Home of Tone collection , Ziggy is wild, unpredictable, and unapologetic.
 
 ## Sources checked
+
 1. Brother Ziggy Fuzz Special Edition | Home of Tone Multi-Bias Fuzz Cat Pedal — TONECAT: https://www.tonecat.life/shop/p/brother-ziggy-fuzz-special-edition
 2. upweymusic.au: https://www.upweymusic.au/products/tonecat-ziggy-fuzz-multi-bias-fuzz
 
 ## Photo
+
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
-
-## Deep research verification
-
-This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
-
-### Verified description
-Adding product to your cart From the TONECAT Home of Tone collection, Ziggy is a wild, unpredictable multi-bias fuzz pedal built for players who want expressive, unstable, and harmonically rich fuzz tones.
-
-### Verified version references
-- The evidence references: v1.
-
-### Verified sound evidence
-From the Art of the Home of Tone collection , Ziggy is wild, unpredictable, and unapologetic.
-This cat fuzz that thrives on instability — because sometimes chaos is exactly what the song needs.
-“Chaos is my thing” From the Art of the Home of Tone collection , Ziggy is wild, unpredictable, and unapologetic.
-
-### Sources checked in this pass
-1. Brother Ziggy Fuzz Special Edition | Home of Tone Multi-Bias Fuzz Cat Pedal — TONECAT: https://www.tonecat.life/shop/p/brother-ziggy-fuzz-special-edition
-2. TONECAT Ziggy Fuzz Multi Bias Fuzz: https://www.upweymusic.au/products/tonecat-ziggy-fuzz-multi-bias-fuzz
 
 ## Deep research verification
 

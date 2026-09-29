@@ -1,6 +1,7 @@
 # Sitek Guitar Electronics — Cocoa Distortion
 
 ## PRP identity
+
 - **Archive parent:** Cocoa Distortion
 - **Builder:** Sitek Guitar Electronics
 - **Catalog type:** Distortion
@@ -11,31 +12,40 @@
 Sitek Guitar Electronics's Cocoa Distortion is cataloged in the archive as a Distortion pedal.
 
 ## Colorways
+
 - No specific factory colorway information was established in the verified evidence packet.
 
 ## Versions and factory options
+
 - No distinct factory revision was established in the verified evidence packet.
 
 ## Version changes
+
 - No specific factory version changes were established in the verified evidence packet.
 
 ## Transistor
+
 - Documented terms in the verified sources: .
 - The archive records only the component information explicitly present in these sources.
+
 ## Diode
+
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.
 
 ## Sound
+
 $ 160.00 Lowest price 30 days before the discount: $ 160.00 Cocoa is a versatile gain pedal, offering anything from a clean boost, smooth overdrive to harmonic-rich distortion.
 Her Soft/Hard operation modes allow the user to achieve different distortion profiles, while simple and efficient tone control helps in taming high frequency content of the output signal.
 Controls Videos Warranty Description Meet our exotic Muse.
 
 ## Sources checked
+
 1. Cocoa Distortion | Sitek Guitar Electronics: https://www.sitek.rocks/product/cocoa-distortion/
 2. Sitek Guitar Electronics Cocoa Distortion | Effects Database: https://www.effectsdatabase.com/model/sitek/cocoa
 
 ## Photo
+
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
 
 ## Deep research verification

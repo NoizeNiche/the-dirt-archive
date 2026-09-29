@@ -1,15 +1,18 @@
 # Boot-Leg Hand Made Effects - JBK-1.0 Jaw Breaker
 
 ## PRP identity
+
 - **Builder:** Boot-Leg Hand Made Effects
 - **Catalog type:** Overdrive
 
 ## Research
+
 JBK-1.0 Jaw Breaker is a high-current, amp-like overdrive designed to cover delicate crunch through harder rock drive. Boot-Leg describes strong low-end response, rich harmonics and a treble response that avoids excessive peakiness.
 
 The pedal is also designed to respond directly to guitar-volume changes. The Heavy control alters the chopping or low-frequency character, while Level and Break provide the main output and drive controls.
 
 ## Controls
+
 - Level
 - Heavy
 - Break
@@ -17,17 +20,16 @@ The pedal is also designed to respond directly to guitar-volume changes. The Hea
 - 9V operation
 
 ## Source
+
 - https://www.effectsdatabase.com/model/bootleg/jbk10
 
 ## Archive photo
+
 - **Archive status:** **No Photo Archived**
 
 ## Sound
 
 Effects Database documents JBK 1.0 Jaw Breaker as a high current, amp like overdrive with Level, Heavy and Break controls. The design emphasizes strong low end, rich harmonics, controlled treble and direct response to guitar volume changes. Heavy changes the low frequency/chopping character while Break sets drive. 9V operation is documented.
-
-## Deep research verification
-Effects Database documents JBK-1.0 Jaw Breaker as a high-current, amp-like overdrive with **Level, Heavy and Break** controls. The design emphasizes strong low end, rich harmonics, controlled treble and direct response to guitar-volume changes. Heavy changes the low-frequency/chopping character while Break sets drive. 9V operation is documented.
 
 ## Deep research verification
 

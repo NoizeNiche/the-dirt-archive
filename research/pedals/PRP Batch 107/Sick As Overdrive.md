@@ -1,13 +1,16 @@
 # Bondi Effects - Sick As Overdrive
 
 ## PRP identity
+
 - **Builder:** Bondi Effects
 - **Catalog type:** Overdrive
 
 ## What this pedal is
+
 The Sick As is Bondi Effects' core overdrive platform. The design uses a Klon-style gain structure with active bass and treble control plus a selectable clipping/headroom character.
 
 ## Controls and architecture
+
 - Level
 - Gain
 - Bass
@@ -18,6 +21,7 @@ The Sick As is Bondi Effects' core overdrive platform. The design uses a Klon-st
 - Soft-touch true bypass
 
 ## Sound
+
 Bondi describes the Gain control as changing both the amount of drive and the ratio of driven to clean signal. Reduced gain therefore retains clarity instead of simply becoming a thin clean boost. The voicing toggle changes headroom and drive character.
 
 ## Deep research verification
@@ -34,4 +38,5 @@ Bondi documents the active Bass/Treble EQ as providing substantial cut/boost ran
 3. Effects Database - Bondi Sick As: https://www.effectsdatabase.com/model/bondi/sickas
 
 ## Photo
+
 - **Archive status:** **No Photo Archived**

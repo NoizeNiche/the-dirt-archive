@@ -1,12 +1,14 @@
 # Champion Leccy — The Divvy
 
 ## PRP identity
+
 - **Archive parent:** The Divvy
 - **Builder:** Champion Leccy
 - **Catalog type:** Fuzz
 - **Identity:** Harmonic Percolator-derived fuzz with documented V1, V2 and V3 development, returning in V3 as a compact two-control pedal with a three-way voicing switch. [1][2]
 
 ## Version history
+
 ### V1
 - One-control fuzz.
 - The Percolator-derived circuit was the core design.
@@ -21,21 +23,28 @@
 - Final documented external interface: **FUZZ**, **VOLUME**, and three-way voicing switch. [1][2]
 
 ## Circuit lineage
+
 - **Primary reference:** Harmonic Percolator.
 - The Divvy is an interpretation of the Percolator family rather than a claimed component-for-component recreation.
 
 ## Transistor
+
 - Exact production transistor part number is not publicly documented.
+
 ## Diode / clipping
+
 - Exact production diode type/part number is not publicly documented.
 
 ## Power
+
 - Model-specific voltage/current data are not securely established in the reviewed sources.
 
 ## Sound
+
 Champion Leccy describes the Divvy as a high-mid/upper-frequency Percolator-style fuzz with a comparatively open feel. The three-way voicing switch adds alternate harmonic and crunch-oriented responses. [1][2]
 
 ## Research confidence
+
 - **V1/V2/V3 history:** High
 - **Harmonic Percolator lineage:** High
 - **V3 control map:** High
@@ -43,311 +52,39 @@ Champion Leccy describes the Divvy as a high-mid/upper-frequency Percolator-styl
 - **Power:** Unknown
 
 ## Deep research verification
-Champion Leccy's own 2023 development note was cross-checked with an exact-model Long & McQuade listing. The sources document the V1 one-knob origin, V2 voicing switch and V3 external Volume addition. [1][2]
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+The Divvy is an interpretation of the Percolator family rather than a claimed component-for-component recreation.
+
+### Verified color/finish evidence
+- I just don’t have time to finish what I was planning on.
+
+### Verified version references
+- The evidence references: V1, V2, V3.
+
+### Verified diode terms
+- led.
+
+### Verified sound evidence
+Final documented external interface: **FUZZ**, **VOLUME**, and three-way voicing switch.
+Champion Leccy describes the Divvy as a high-mid/upper-frequency Percolator-style fuzz with a comparatively open feel.
+The three-way voicing switch adds alternate harmonic and crunch-oriented responses.
+
+### Sources checked in this pass
+1. Gear Hunter | THE DIVVY- CHAMPION LECCY: https://www.long-mcquade.com/GearHunter/997965/THE-DIVVY--CHAMPION-LECCY.htm
+2. Summer Leccy 2023 – Champion Leccy: https://championleccy.com/2023/06/23/summer-leccy-2023/
+
+## What this pedal is
+
+The Divvy is an interpretation of the Percolator family rather than a claimed component for component recreation.
 
 ## Sources checked
+
 1. Champion Leccy — Summer Leccy 2023: https://championleccy.com/2023/06/23/summer-leccy-2023/
 2. Long & McQuade — Champion Leccy The Divvy: https://www.long-mcquade.com/GearHunter/997965/THE-DIVVY--CHAMPION-LECCY.htm
 
 ## Photo
+
 - Exact-model photo status remains handled separately.
-
-## Deep research verification
-
-This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
-
-### Verified description
-The Divvy is an interpretation of the Percolator family rather than a claimed component-for-component recreation.
-
-### Verified color/finish evidence
-- I just don’t have time to finish what I was planning on.
-
-### Verified version references
-- The evidence references: V1, V2, V3.
-
-### Verified diode terms
-- led.
-
-### Verified sound evidence
-Final documented external interface: **FUZZ**, **VOLUME**, and three-way voicing switch.
-Champion Leccy describes the Divvy as a high-mid/upper-frequency Percolator-style fuzz with a comparatively open feel.
-The three-way voicing switch adds alternate harmonic and crunch-oriented responses.
-
-### Sources checked in this pass
-1. Gear Hunter | THE DIVVY- CHAMPION LECCY: https://www.long-mcquade.com/GearHunter/997965/THE-DIVVY--CHAMPION-LECCY.htm
-2. Summer Leccy 2023 – Champion Leccy: https://championleccy.com/2023/06/23/summer-leccy-2023/
-
-## Deep research verification
-
-This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
-
-### Verified description
-The Divvy is an interpretation of the Percolator family rather than a claimed component-for-component recreation.
-
-### Verified color/finish evidence
-- I just don’t have time to finish what I was planning on.
-
-### Verified version references
-- The evidence references: V1, V2, V3.
-
-### Verified diode terms
-- led.
-
-### Verified sound evidence
-Final documented external interface: **FUZZ**, **VOLUME**, and three-way voicing switch.
-Champion Leccy describes the Divvy as a high-mid/upper-frequency Percolator-style fuzz with a comparatively open feel.
-The three-way voicing switch adds alternate harmonic and crunch-oriented responses.
-
-### Sources checked in this pass
-1. Gear Hunter | THE DIVVY- CHAMPION LECCY: https://www.long-mcquade.com/GearHunter/997965/THE-DIVVY--CHAMPION-LECCY.htm
-2. Summer Leccy 2023 – Champion Leccy: https://championleccy.com/2023/06/23/summer-leccy-2023/
-
-## Deep research verification
-
-This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
-
-### Verified description
-The Divvy is an interpretation of the Percolator family rather than a claimed component-for-component recreation.
-
-### Verified color/finish evidence
-- I just don’t have time to finish what I was planning on.
-
-### Verified version references
-- The evidence references: V1, V2, V3.
-
-### Verified diode terms
-- led.
-
-### Verified sound evidence
-Final documented external interface: **FUZZ**, **VOLUME**, and three-way voicing switch.
-Champion Leccy describes the Divvy as a high-mid/upper-frequency Percolator-style fuzz with a comparatively open feel.
-The three-way voicing switch adds alternate harmonic and crunch-oriented responses.
-
-### Sources checked in this pass
-1. Gear Hunter | THE DIVVY- CHAMPION LECCY: https://www.long-mcquade.com/GearHunter/997965/THE-DIVVY--CHAMPION-LECCY.htm
-2. Summer Leccy 2023 – Champion Leccy: https://championleccy.com/2023/06/23/summer-leccy-2023/
-
-## Deep research verification
-
-This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
-
-### Verified description
-The Divvy is an interpretation of the Percolator family rather than a claimed component-for-component recreation.
-
-### Verified color/finish evidence
-- I just don’t have time to finish what I was planning on.
-
-### Verified version references
-- The evidence references: V1, V2, V3.
-
-### Verified diode terms
-- led.
-
-### Verified sound evidence
-Final documented external interface: **FUZZ**, **VOLUME**, and three-way voicing switch.
-Champion Leccy describes the Divvy as a high-mid/upper-frequency Percolator-style fuzz with a comparatively open feel.
-The three-way voicing switch adds alternate harmonic and crunch-oriented responses.
-
-### Sources checked in this pass
-1. Gear Hunter | THE DIVVY- CHAMPION LECCY: https://www.long-mcquade.com/GearHunter/997965/THE-DIVVY--CHAMPION-LECCY.htm
-2. Summer Leccy 2023 – Champion Leccy: https://championleccy.com/2023/06/23/summer-leccy-2023/
-
-## Deep research verification
-
-This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
-
-### Verified description
-The Divvy is an interpretation of the Percolator family rather than a claimed component-for-component recreation.
-
-### Verified color/finish evidence
-- I just don’t have time to finish what I was planning on.
-
-### Verified version references
-- The evidence references: V1, V2, V3.
-
-### Verified diode terms
-- led.
-
-### Verified sound evidence
-Final documented external interface: **FUZZ**, **VOLUME**, and three-way voicing switch.
-Champion Leccy describes the Divvy as a high-mid/upper-frequency Percolator-style fuzz with a comparatively open feel.
-The three-way voicing switch adds alternate harmonic and crunch-oriented responses.
-
-### Sources checked in this pass
-1. Gear Hunter | THE DIVVY- CHAMPION LECCY: https://www.long-mcquade.com/GearHunter/997965/THE-DIVVY--CHAMPION-LECCY.htm
-2. Summer Leccy 2023 – Champion Leccy: https://championleccy.com/2023/06/23/summer-leccy-2023/
-
-## Deep research verification
-
-This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
-
-### Verified description
-The Divvy is an interpretation of the Percolator family rather than a claimed component-for-component recreation.
-
-### Verified color/finish evidence
-- I just don’t have time to finish what I was planning on.
-
-### Verified version references
-- The evidence references: V1, V2, V3.
-
-### Verified diode terms
-- led.
-
-### Verified sound evidence
-Final documented external interface: **FUZZ**, **VOLUME**, and three-way voicing switch.
-Champion Leccy describes the Divvy as a high-mid/upper-frequency Percolator-style fuzz with a comparatively open feel.
-The three-way voicing switch adds alternate harmonic and crunch-oriented responses.
-
-### Sources checked in this pass
-1. Gear Hunter | THE DIVVY- CHAMPION LECCY: https://www.long-mcquade.com/GearHunter/997965/THE-DIVVY--CHAMPION-LECCY.htm
-2. Summer Leccy 2023 – Champion Leccy: https://championleccy.com/2023/06/23/summer-leccy-2023/
-
-## Deep research verification
-
-This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
-
-### Verified description
-The Divvy is an interpretation of the Percolator family rather than a claimed component-for-component recreation.
-
-### Verified color/finish evidence
-- I just don’t have time to finish what I was planning on.
-
-### Verified version references
-- The evidence references: V1, V2, V3.
-
-### Verified diode terms
-- led.
-
-### Verified sound evidence
-Final documented external interface: **FUZZ**, **VOLUME**, and three-way voicing switch.
-Champion Leccy describes the Divvy as a high-mid/upper-frequency Percolator-style fuzz with a comparatively open feel.
-The three-way voicing switch adds alternate harmonic and crunch-oriented responses.
-
-### Sources checked in this pass
-1. Gear Hunter | THE DIVVY- CHAMPION LECCY: https://www.long-mcquade.com/GearHunter/997965/THE-DIVVY--CHAMPION-LECCY.htm
-2. Summer Leccy 2023 – Champion Leccy: https://championleccy.com/2023/06/23/summer-leccy-2023/
-
-## Deep research verification
-
-This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
-
-### Verified description
-The Divvy is an interpretation of the Percolator family rather than a claimed component-for-component recreation.
-
-### Verified color/finish evidence
-- I just don’t have time to finish what I was planning on.
-
-### Verified version references
-- The evidence references: V1, V2, V3.
-
-### Verified diode terms
-- led.
-
-### Verified sound evidence
-Final documented external interface: **FUZZ**, **VOLUME**, and three-way voicing switch.
-Champion Leccy describes the Divvy as a high-mid/upper-frequency Percolator-style fuzz with a comparatively open feel.
-The three-way voicing switch adds alternate harmonic and crunch-oriented responses.
-
-### Sources checked in this pass
-1. Gear Hunter | THE DIVVY- CHAMPION LECCY: https://www.long-mcquade.com/GearHunter/997965/THE-DIVVY--CHAMPION-LECCY.htm
-2. Summer Leccy 2023 – Champion Leccy: https://championleccy.com/2023/06/23/summer-leccy-2023/
-
-## Deep research verification
-
-This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
-
-### Verified description
-The Divvy is an interpretation of the Percolator family rather than a claimed component-for-component recreation.
-
-### Verified color/finish evidence
-- I just don’t have time to finish what I was planning on.
-
-### Verified version references
-- The evidence references: V1, V2, V3.
-
-### Verified diode terms
-- led.
-
-### Verified sound evidence
-Final documented external interface: **FUZZ**, **VOLUME**, and three-way voicing switch.
-Champion Leccy describes the Divvy as a high-mid/upper-frequency Percolator-style fuzz with a comparatively open feel.
-The three-way voicing switch adds alternate harmonic and crunch-oriented responses.
-
-### Sources checked in this pass
-1. Gear Hunter | THE DIVVY- CHAMPION LECCY: https://www.long-mcquade.com/GearHunter/997965/THE-DIVVY--CHAMPION-LECCY.htm
-2. Summer Leccy 2023 – Champion Leccy: https://championleccy.com/2023/06/23/summer-leccy-2023/
-
-## Deep research verification
-
-This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
-
-### Verified description
-The Divvy is an interpretation of the Percolator family rather than a claimed component-for-component recreation.
-
-### Verified color/finish evidence
-- I just don’t have time to finish what I was planning on.
-
-### Verified version references
-- The evidence references: V1, V2, V3.
-
-### Verified diode terms
-- led.
-
-### Verified sound evidence
-Final documented external interface: **FUZZ**, **VOLUME**, and three-way voicing switch.
-Champion Leccy describes the Divvy as a high-mid/upper-frequency Percolator-style fuzz with a comparatively open feel.
-The three-way voicing switch adds alternate harmonic and crunch-oriented responses.
-
-### Sources checked in this pass
-1. Gear Hunter | THE DIVVY- CHAMPION LECCY: https://www.long-mcquade.com/GearHunter/997965/THE-DIVVY--CHAMPION-LECCY.htm
-2. Summer Leccy 2023 – Champion Leccy: https://championleccy.com/2023/06/23/summer-leccy-2023/
-
-## Deep research verification
-
-This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
-
-### Verified description
-The Divvy is an interpretation of the Percolator family rather than a claimed component-for-component recreation.
-
-### Verified color/finish evidence
-- I just don’t have time to finish what I was planning on.
-
-### Verified version references
-- The evidence references: V1, V2, V3.
-
-### Verified diode terms
-- led.
-
-### Verified sound evidence
-Final documented external interface: **FUZZ**, **VOLUME**, and three-way voicing switch.
-Champion Leccy describes the Divvy as a high-mid/upper-frequency Percolator-style fuzz with a comparatively open feel.
-The three-way voicing switch adds alternate harmonic and crunch-oriented responses.
-
-### Sources checked in this pass
-1. Gear Hunter | THE DIVVY- CHAMPION LECCY: https://www.long-mcquade.com/GearHunter/997965/THE-DIVVY--CHAMPION-LECCY.htm
-2. Summer Leccy 2023 – Champion Leccy: https://championleccy.com/2023/06/23/summer-leccy-2023/
-
-## Deep research verification
-
-This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
-
-### Verified description
-The Divvy is an interpretation of the Percolator family rather than a claimed component-for-component recreation.
-
-### Verified color/finish evidence
-- I just don’t have time to finish what I was planning on.
-
-### Verified version references
-- The evidence references: V1, V2, V3.
-
-### Verified diode terms
-- led.
-
-### Verified sound evidence
-Final documented external interface: **FUZZ**, **VOLUME**, and three-way voicing switch.
-Champion Leccy describes the Divvy as a high-mid/upper-frequency Percolator-style fuzz with a comparatively open feel.
-The three-way voicing switch adds alternate harmonic and crunch-oriented responses.
-
-### Sources checked in this pass
-1. Gear Hunter | THE DIVVY- CHAMPION LECCY: https://www.long-mcquade.com/GearHunter/997965/THE-DIVVY--CHAMPION-LECCY.htm
-2. Summer Leccy 2023 – Champion Leccy: https://championleccy.com/2023/06/23/summer-leccy-2023/

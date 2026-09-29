@@ -1,6 +1,7 @@
 # Cultco — 001 Medium Overdrive
 
 ## PRP identity
+
 - **Archive parent:** 001 Medium Overdrive
 - **Builder:** Cultco
 - **Catalog type:** Overdrive
@@ -11,18 +12,24 @@
 Cultco's 001 Medium Overdrive is cataloged in the archive as a Overdrive pedal.
 
 ## Colorways
+
 - Specifications: 9V center negative power supply Power consumption: (around) ~25mA Weight: ~ 1 lb Dimensions: 4.77" x 2.6" x 1.39" Blue LED IMPORTANT NOTE: The Cultco 001 does not include a power supply.
 
 ## Versions and factory options
+
 - No distinct factory revision was established in the verified evidence packet.
 
 ## Version changes
+
 - No specific factory version changes were established in the verified evidence packet.
 
 ## Transistor
+
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
+
 ## Diode
+
 - Documented terms in the verified sources: LED.
 - The archive records only the component information explicitly present in these sources.
 
@@ -31,12 +38,14 @@ Cultco's 001 Medium Overdrive is cataloged in the archive as a Overdrive pedal.
 No verified pedal-specific sonic summary is currently established in the archive.
 
 ## Sources checked
+
 1. Cultco 001 Medium Overdrive | Effects Database: https://www.effectsdatabase.com/model/cultco/001
 2. 001 Medium Overdrive by Cultco | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/Cultco/001-Medium-Overdrive/68977035/
 3. Cultco 001 Medium Overdrive - Pedal of the Day: https://www.pedal-of-the-day.com/2015/09/29/cultco-001-medium-overdrive/
 4. Stream Cultco 001 Medium Overdrive Demo by Joywave | Listen online for free on SoundCloud: https://soundcloud.com/joywave/cultco-001-medium-overdrive-demo
 
 ## Photo
+
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
 
 ## Deep research verification

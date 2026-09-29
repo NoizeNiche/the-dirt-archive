@@ -1,36 +1,46 @@
 # MXR — Sub Octave Bass Fuzz
 
 ## PRP identity
+
 - **Archive parent:** Sub Octave Bass Fuzz
 - **Builder:** MXR
 - **Catalog type:** Fuzz
 - **Identity:** MXR's Sub Octave Bass Fuzz.
 
 ## What this pedal is
+
 MXR's Sub Octave Bass Fuzz is cataloged as a fuzz pedal.
 
 ## Colorways
+
 - No specific factory colorway information was established in the verified evidence packet.
 
 ## Versions and factory options
+
 - No distinct factory revision was established in the verified evidence packet.
 
 ## Version changes
+
 - No specific factory version changes were established in the verified evidence packet.
 
 ## Transistor
+
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
+
 ## Diode
+
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.
 
 ## Sound
+
 MXR® SUB OCTAVE BASS FUZZ - Dunlop Toggle menu Compare
 Warranty Information The Long Story The Sub Octave Bass Fuzz dishes out thunderous low end with earth-shaking fuzz.
 To create this sonic behemoth, MXR's engineers combined the Growl section of the Bass Octave Deluxe with a long-forgotten fuzz circuit.
 
 ## Sources checked
+
 1. MXR® SUB OCTAVE BASS FUZZ - Dunlop: https://www.jimdunlop.com/mxr-sub-octave-bass-fuzz/
 2. MXR Sub Octave Bass Fuzz Pedal | Guitar Center: https://www.guitarcenter.com/MXR/Sub-Octave-Bass-Fuzz-Pedal-1500000044711.gc
 3. open prime modal: https://www.amazon.com/clp/B06XGWGX7S
@@ -43,4 +53,5 @@ To create this sonic behemoth, MXR's engineers combined the Growl section of the
 10. MXR M-287 Sub Octave Bass Fuzz - Effects Database: https://www.effectsdatabase.com/model/mxr/dunlop/bassfuzz/suboctave
 
 ## Photo
+
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

@@ -1,6 +1,7 @@
 # Daredevil Pedals — Almighty Bass
 
 ## PRP identity
+
 - **Archive parent:** Almighty Bass
 - **Builder:** Daredevil Pedals
 - **Catalog type:** Fuzz
@@ -11,18 +12,24 @@
 All original design Transistor driven bass gain with treble attenuation control covers tones from warm, driven tube amps, to aggressive fuzz The Almighty Bass Fuzz is an original design circuit, not a variation of some other pedal.
 
 ## Colorways
+
 - No specific factory colorway information was established in the verified evidence packet.
 
 ## Versions and factory options
+
 - No distinct factory revision was established in the verified evidence packet.
 
 ## Version changes
+
 - No specific factory version changes were established in the verified evidence packet.
 
 ## Transistor
+
 - Documented terms in the verified sources: 2N5457.
 - The archive records only the component information explicitly present in these sources.
+
 ## Diode
+
 - Documented terms in the verified sources: 1N5817.
 - The archive records only the component information explicitly present in these sources.
 
@@ -33,6 +40,7 @@ This article dissects its engineering, compares it objectively against industry 
 Why Bass Deserves Its Own Overdrive Architecture Most guitar oriented overdrives fail bassists not because they’re ‘too weak’ but because their clipping stages and tone stacks are optimized for 82 Hz–1.2 kHz fundamental ranges—not the 31 Hz–350 Hz operating window of a standard 4 string bass.
 
 ## Sources checked
+
 1. Daredevil Pedals Introduces The Almighty Bass: A Rigorous Technical and Pedagogical Analysis for Bassists | GearStrings: https://gearstrings.com/practice-tips/daredevil-pedals-introduces-the-almighty-bass
 2. Daredevil Pedals Almighty Bass - Reverb: https://reverb.com/item/61384737-daredevil-pedals-almighty-bass
 3. Used Daredevil Pedals almighty bass Effect Pedal - Guitar Center: https://www.guitarcenter.com/Used/Daredevil-Pedals/Used-Daredevil-Pedals-almighty-bass-Effect-Pedal-122414833.gc
@@ -43,6 +51,7 @@ Why Bass Deserves Its Own Overdrive Architecture Most guitar oriented overdrives
 8. Daredevil Pedals Almighty Bass - TalkBass.com: https://www.talkbass.com/threads/daredevil-pedals-almighty-bass.1205047/
 
 ## Photo
+
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
 
 ## Deep research verification

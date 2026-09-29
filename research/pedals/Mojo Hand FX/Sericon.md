@@ -1,28 +1,36 @@
 # Mojo Hand FX — Sericon
 
 ## PRP identity
+
 - **Archive parent:** Sericon
 - **Builder:** Mojo Hand FX
 - **Catalog type:** Overdrive
 - **Identity:** Mojo Hand FX's Sericon.
 
 ## What this pedal is
+
 Mojo Hand FX Sericon Overdrive Pedal
 
 ## Colorways
+
 - Related products Oneder Effects Old Blue $ 124.00 EarthQuaker Devices Black Eye Boost $ 119.00 Greer Amps Black Mountain Crunch Drive Pedal $ 159.00 Boss OD-1 Overdrive $ 294.00 Bucket List Guitars
 
 ## Versions and factory options
+
 - The verified evidence references: MkII, V2, v1, v2.
 - The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
 
 ## Version changes
+
 - No specific factory version changes were established in the verified evidence packet.
 
 ## Transistor
+
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
+
 ## Diode
+
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.
 
@@ -31,6 +39,7 @@ Mojo Hand FX Sericon Overdrive Pedal
 No verified pedal-specific sonic summary is currently established in the archive.
 
 ## Sources checked
+
 1. Mojo Hand FX Sericon - Reverb: https://reverb.com/p/mojo-hand-fx-sericon
 2. Mojo Hand FX Sericon: https://bsmusicshop.com/products/mojo-hand-fx-sericon
 3. Mojo Hand FX Sericone - What To Know & Where To Buy: https://equipboard.com/items/mojo-hand-fx-sericone
@@ -42,4 +51,5 @@ No verified pedal-specific sonic summary is currently established in the archive
 9. Sericon — Mojo Hand FX Overdrive Pedal | PedalFilter | PedalFilter: https://pedalfilter.com/mojo-hand-fx/sericon
 
 ## Photo
+
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

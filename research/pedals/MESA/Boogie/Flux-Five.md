@@ -1,27 +1,35 @@
 # MESA/Boogie — Flux-Five
 
 ## PRP identity
+
 - **Archive parent:** Flux-Five
 - **Builder:** MESA/Boogie
 - **Catalog type:** Overdrive
 - **Identity:** MESA/Boogie's Flux-Five.
 
 ## What this pedal is
+
 MESA/Boogie's Flux-Five is cataloged as an overdrive pedal.
 
 ## Colorways
+
 - MESA/Boogie FLUX-FIVE Overdrive Effects Pedal Black
 
 ## Versions and factory options
+
 - No distinct factory revision was established in the verified evidence packet.
 
 ## Version changes
+
 - No specific factory version changes were established in the verified evidence packet.
 
 ## Transistor
+
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
+
 ## Diode
+
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.
 
@@ -34,6 +42,7 @@ MESA/Boogie's Flux-Five is cataloged as an overdrive pedal.
 MESA/Boogie FLUX-FIVE Overdrive Effects Pedal Black - No distinct factory revision was established in the verified evidence packet.
 
 ## Sources checked
+
 1. Mesa/Boogie Flux-Five Overdrive Pedal with 5-band EQ | Sweetwater: https://www.sweetwater.com/store/detail/FluxFive--mesa-boogie-flux-five-overdrive-pedal-with-5-band-eq
 2. Mesa/Boogie Flux-Five — Overdrive Pedal | Equipboard: https://equipboard.com/items/mesa-boogie-flux-five-overdrive-with-5-band-eq
 3. Flux-Five™ - MESA/Boogie®: https://legacy.mesaboogie.com/pedals--related/drive-pedals/flux-five.html
@@ -43,6 +52,7 @@ MESA/Boogie FLUX-FIVE Overdrive Effects Pedal Black - No distinct factory revisi
 7. Flux Five | MESA/Boogie®: https://subway.mesaboogie.com/pedals--related/drive-pedals/flux-five.html
 
 ## Photo
+
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
 
 ## Deep research verification

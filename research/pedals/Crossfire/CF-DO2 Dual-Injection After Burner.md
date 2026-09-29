@@ -1,6 +1,7 @@
 # Crossfire — CF-DO2 Dual-Injection After Burner
 
 ## PRP identity
+
 - **Archive parent:** CF-DO2 Dual-Injection After Burner
 - **Builder:** Crossfire
 - **Catalog type:** Distortion
@@ -11,18 +12,24 @@
 Crossfire's CF-DO2 Dual-Injection After Burner is cataloged in the archive as a Distortion pedal.
 
 ## Colorways
+
 - No specific factory colorway information was established in the verified evidence packet.
 
 ## Versions and factory options
+
 - No distinct factory revision was established in the verified evidence packet.
 
 ## Version changes
+
 - No specific factory version changes were established in the verified evidence packet.
 
 ## Transistor
+
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
+
 ## Diode
+
 - Documented terms in the verified sources: LEDs.
 - The archive records only the component information explicitly present in these sources.
 
@@ -31,9 +38,11 @@ Crossfire's CF-DO2 Dual-Injection After Burner is cataloged in the archive as a 
 No verified pedal-specific sonic summary is currently established in the archive.
 
 ## Sources checked
+
 1. Crossfire CF-DO2 Dual-Injection After Burner | Effects Database: https://www.effectsdatabase.com/model/crossfire/dualinjection
 
 ## Photo
+
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
 
 ## Deep research verification

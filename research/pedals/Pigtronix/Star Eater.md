@@ -1,36 +1,46 @@
 # Pigtronix — Star Eater
 
 ## PRP identity
+
 - **Archive parent:** Star Eater
 - **Builder:** Pigtronix
 - **Catalog type:** Distortion / Fuzz
 - **Identity:** Pigtronix's Star Eater.
 
 ## What this pedal is
+
 REVIEW: Pigtronix Star Eater Analog Fuzz Pedal
 
 ## Colorways
+
 - No specific factory colorway information was established in the verified evidence packet.
 
 ## Versions and factory options
+
 - No distinct factory revision was established in the verified evidence packet.
 
 ## Version changes
+
 - No specific factory version changes were established in the verified evidence packet.
 
 ## Transistor
+
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
+
 ## Diode
+
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.
 
 ## Sound
+
 REVIEW: Pigtronix Star Eater Analog Fuzz Pedal
 Downstream from the fuzz, a powerful booster stage drives the filter in the Star Eater.
 Scoop and Bump voicings for the filter can be selected via a rocker switch, drastically changing the frequency response of the Sweep control throughout its entire range.
 
 ## Sources checked
+
 1. Star Eater - Pigtronix: https://www.pigtronix.com/pedals/star-eater/
 2. Pigtronix Star Eater Fuzz Review - Premier Guitar: https://www.premierguitar.com/gear/reviews/pigtronix-star-eater
 3. REVIEW: Pigtronix Star Eater Analog Fuzz Pedal | Performer Mag: https://performermag.com/best-instruments/best-guitar-picks-accessories/review-pigtronix-star-eater-analog-fuzz-pedal/
@@ -43,4 +53,5 @@ Scoop and Bump voicings for the filter can be selected via a rocker switch, dras
 10. Uncategorized Pigtronix Star Eater - User manual and instructions: https://www.notice-facile.com/en/manual/832882/pigtronix+star-eater
 
 ## Photo
+
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

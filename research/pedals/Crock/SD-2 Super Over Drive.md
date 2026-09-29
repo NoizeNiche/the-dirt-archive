@@ -1,6 +1,7 @@
 # Crock — SD-2 Super Over Drive
 
 ## PRP identity
+
 - **Archive parent:** SD-2 Super Over Drive
 - **Builder:** Crock
 - **Catalog type:** Overdrive
@@ -11,18 +12,24 @@
 Crock's SD-2 Super Over Drive is cataloged in the archive as a Overdrive pedal.
 
 ## Colorways
+
 - Published on March 4, 2007 Crock overdrive pedal grey, blue print grey, blue print grey, blue print grey, blue print grey, blue print grey, blue print Reviews myFXDB user reviews No reviews yet + Add your review Where to find one?
 
 ## Versions and factory options
+
 - No distinct factory revision was established in the verified evidence packet.
 
 ## Version changes
+
 - No specific factory version changes were established in the verified evidence packet.
 
 ## Transistor
+
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
+
 ## Diode
+
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.
 
@@ -31,9 +38,11 @@ Crock's SD-2 Super Over Drive is cataloged in the archive as a Overdrive pedal.
 No verified pedal-specific sonic summary is currently established in the archive.
 
 ## Sources checked
+
 1. Crock SD-2 Super Over Drive | Effects Database: https://www.effectsdatabase.com/model/crock/sd2
 
 ## Photo
+
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
 
 ## Deep research verification

@@ -1,28 +1,36 @@
 # ReevesElectro — Leo Twelve
 
 ## PRP identity
+
 - **Archive parent:** Leo Twelve
 - **Builder:** ReevesElectro
 - **Catalog type:** Overdrive
 - **Identity:** ReevesElectro's Leo Twelve.
 
 ## What this pedal is
+
 ReevesElectro's Leo Twelve is cataloged as an overdrive pedal.
 
 ## Colorways
+
 - No specific factory colorway information was established in the verified evidence packet.
 
 ## Versions and factory options
+
 - The verified evidence references: MK2.
 - The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
 
 ## Version changes
+
 - No specific factory version changes were established in the verified evidence packet.
 
 ## Transistor
+
 - Documented terms in the verified sources: BC183.
 - The archive records only the component information explicitly present in these sources.
+
 ## Diode
+
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.
 
@@ -35,9 +43,11 @@ The Dirt Archive currently catalogs **Leo Twelve** by **ReevesElectro** as a **O
 ReevesElectro's Leo Twelve is cataloged as an overdrive pedal.
 
 ## Sources checked
+
 1. All Pedals – ReevesElectro Point to Point Guitar Pedals: https://reeveselectro.co.uk/collections/pedals
 
 ## Photo
+
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
 
 ## Deep research verification

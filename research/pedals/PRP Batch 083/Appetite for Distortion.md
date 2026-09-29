@@ -1,13 +1,16 @@
 # Big Knob Pedals - Appetite for Distortion
 
 ## PRP identity
+
 - **Builder:** Big Knob Pedals
 - **Catalog type:** Distortion
 
 ## What this pedal is
+
 Appetite for Distortion is an original Big Knob Marshall-in-a-box distortion aimed at a Slash/JCM800-style high-gain sound, with lower-gain settings intended to approach Plexi tones.
 
 ## Controls / architecture
+
 - Volume
 - Gain
 - Tone
@@ -16,9 +19,11 @@ Appetite for Distortion is an original Big Knob Marshall-in-a-box distortion aim
 - 9V adapter and battery support
 
 ## Sound
+
 Big Knob describes a JCM800-style high-gain voice and says reducing gain can produce a Plexi-style tone.
 
 ## Sources checked
+
 1. Big Knob official product page: https://bigknobpedals.com/product/appetite-for-distortion/
 2. Big Knob official homepage: https://www.bigknobpedals.com/
 
@@ -36,4 +41,5 @@ Verified construction:
 Exact circuit topology and semiconductor part numbers are not publicly specified in the reviewed builder documentation.
 
 ## Photo
+
 - **Archive status:** **No Photo Archived**

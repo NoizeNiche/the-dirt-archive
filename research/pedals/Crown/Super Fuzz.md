@@ -1,6 +1,7 @@
 # Crown — Super Fuzz
 
 ## PRP identity
+
 - **Archive parent:** Super Fuzz
 - **Builder:** Crown
 - **Catalog type:** Fuzz
@@ -11,19 +12,25 @@
 Crown's Super Fuzz is cataloged in the archive as a Fuzz pedal.
 
 ## Colorways
+
 - 9540 Fuzz Master Mica-Tone Fuzz Master Oscar FY-6 Fuzz Master Rands FY-6 Fuzz Zenta FY-6 Fuzz Master Shaftesbury Duo Fuzz Shaftesbury 2025 Duo Fuzz Shaftesbury 2025 Duo Fuzz - Heritage Edition Teisco TF-1 Fuzz Tempo TR-6 Fuzz (v1: Honey) Univox U-1095 Super-Fuzz (v1: Honey, v2: ?) 73 Effects Super-Fuzz Analog Fox Super Fuzz Animal Factory Chemical Burn - Octave Fuzz Black Candy Effects SuperFuzz Deluxe Bla
 
 ## Versions and factory options
+
 - The verified evidence references: v1, v2.
 - The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
 
 ## Version changes
+
 - No specific factory version changes were established in the verified evidence packet.
 
 ## Transistor
+
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
+
 ## Diode
+
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.
 
@@ -34,12 +41,14 @@ Controls Expander (with On/Off switch): Adjusts the intensity of the fuzz effect
 Tone switch: Two way slide switch; Position 1 produces a mid focused fuzz, Position 2 adds a heavier sustained tone with more low end.
 
 ## Sources checked
+
 1. Crown Super Fuzz | Effects Database: https://www.effectsdatabase.com/model/crown/superfuzz
 2. Shin-Ei Crown FY-6 Super Fuzz 1968-1970 - Reverb: https://reverb.com/item/66678966-shin-ei-crown-fy-6-super-fuzz-1968-1970
 3. Crown - Super Fuzz w/Original Box - Effects Freak: https://effectsfreak.com/effect/crown-super-fuzz-w-original-box/
 4. Vintage Crown (Univox Super Fuzz) distortion pedal: https://www.worthpoint.com/worthopedia/vintage-crown-univox-super-fuzz-149598949
 
 ## Photo
+
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
 
 ## Deep research verification

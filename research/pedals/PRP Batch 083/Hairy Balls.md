@@ -1,28 +1,34 @@
 # Big John Effects - Hairy Balls
 
 ## PRP identity
+
 - **Builder:** Big John Effects
 - **Catalog type:** Distortion / Fuzz / Overdrive
 
 ## What this pedal is
+
 Hairy Balls is Big John Effects' original fuzz and boost design. Big John's current site says the design has remained unchanged since 2008 and describes it as a hairy fuzz with a tube-like boost.
 
 ## Controls / functions
+
 - Boost
 - Volume
 - Gate
 - Internal booster-start-volume trim
 
 ## Circuit / construction
+
 - Point-to-point soldered construction.
 - Big John states that the design is 100% original and unchanged since 2008.
 - Intended for guitar, bass and keys.
 - Version history from Big John's official timeline: **v1 in 2007, fuzz only; v2 in 2008, boost + gate + fuzz.**
 
 ## Sound
+
 Big John describes a vintage-character fuzz with a gated mode capable of synth-like textures. The boost can move from clean enhancement toward added gain and grit. The builder notes a preference for passive instruments.
 
 ## Sources checked
+
 1. Big John official product page: https://bigjohnmusic.com/a-big-john-hairy-balls/
 2. Big John official history: https://bigjohnmusic.com/about/
 3. Big John FAQ: https://bigjohnmusic.com/faq/
@@ -60,4 +66,5 @@ Big John's official history places the first Hairy Balls design in **2007** and 
 The builder describes a hairy fuzz with vintage character, gated/synth-like possibilities, and a boost stage that can add brightness, drive, gain and grit.
 
 ## Photo
+
 - **Archive status:** **No Photo Archived**

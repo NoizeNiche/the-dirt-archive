@@ -1,27 +1,35 @@
 # Daredevil Pedals — Nova
 
 ## PRP identity
+
 - **Archive parent:** Nova
 - **Builder:** Daredevil Pedals
 - **Catalog type:** Fuzz
 - **Identity:** Daredevil Pedals's Nova.
 
 ## What this pedal is
+
 The NOVA is a Daredevil original design using silicon transistors.
 
 ## Colorways
+
 - No specific factory colorway information was established in the verified evidence packet.
 
 ## Versions and factory options
+
 - No distinct factory revision was established in the verified evidence packet.
 
 ## Version changes
+
 - No specific factory version changes were established in the verified evidence packet.
 
 ## Transistor
+
 - Documented terms in the verified sources: silicon transistors.
 - The archive records only the component information explicitly present in these sources.
+
 ## Diode
+
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.
 
@@ -32,12 +40,14 @@ Highly touch sensitive and dynamic, It's also loud enough to be used as a solo b
 A lot of fuzzes only sound good with the gain cranked.
 
 ## Sources checked
+
 1. Daredevil Pedals Nova Fuzz - What To Know Where To Buy: https://equipboard.com/items/daredevil-pedals-nova-fuzz
 2. Daredevil Pedals Nova Fuzz | Effects Database: https://www.effectsdatabase.com/model/daredevil/nova
 3. Daredevil Pedals Introduces Nova - Vintage Guitar® magazine: https://www.vintageguitar.com/18024/daredevil-pedals-introduces-nova/
 4. Used Daredevil Pedals Nova Effect Pedal - Guitar Center: https://www.guitarcenter.com/Used/Daredevil-Pedals/Nova-Effect-Pedal.gc
 
 ## Photo
+
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
 
 ## Deep research verification

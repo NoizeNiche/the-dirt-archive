@@ -1,6 +1,7 @@
 # Cryptid Effects — Siam Howler
 
 ## PRP identity
+
 - **Archive parent:** Siam Howler
 - **Builder:** Cryptid Effects
 - **Catalog type:** Fuzz
@@ -11,18 +12,24 @@
 Cryptid Effects's Siam Howler is cataloged in the archive as a Fuzz pedal.
 
 ## Colorways
+
 - No specific factory colorway information was established in the verified evidence packet.
 
 ## Versions and factory options
+
 - No distinct factory revision was established in the verified evidence packet.
 
 ## Version changes
+
 - No specific factory version changes were established in the verified evidence packet.
 
 ## Transistor
+
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
+
 ## Diode
+
 - Documented terms in the verified sources: LEDs, LED.
 - The archive records only the component information explicitly present in these sources.
 
@@ -31,10 +38,12 @@ Cryptid Effects's Siam Howler is cataloged in the archive as a Fuzz pedal.
 No verified pedal-specific sonic summary is currently established in the archive.
 
 ## Sources checked
+
 1. The Siam Howler – Cryptid Effects American Express Apple Pay Diners Club Discover Google Pay Mastercard PayPal Shop Pay Visa: https://www.cryptideffects.com/products/the-siam-howler
 2. Cryptid Effects The Siam Howler | Effects Database: https://www.effectsdatabase.com/model/cryptideffects/siamhowler
 
 ## Photo
+
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
 
 ## Deep research verification

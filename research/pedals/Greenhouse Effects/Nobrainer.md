@@ -1,27 +1,35 @@
 # Greenhouse Effects — Nobrainer
 
 ## PRP identity
+
 - **Archive parent:** Nobrainer
 - **Builder:** Greenhouse Effects
 - **Catalog type:** Distortion
 - **Identity:** Greenhouse Effects's Nobrainer.
 
 ## What this pedal is
+
 Greenhouse Effects's Nobrainer is cataloged as a Distortion pedal.
 
 ## Colorways
+
 - No specific factory colorway information was established in the verified evidence packet.
 
 ## Versions and factory options
+
 - No distinct factory revision was established in the verified evidence packet.
 
 ## Version changes
+
 - No specific factory version changes were established in the verified evidence packet.
 
 ## Transistor
+
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
+
 ## Diode
+
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.
 
@@ -34,6 +42,7 @@ NOBRAINER / DISTORTION — GREENHOUSE EFFECTS: https://www.gheffects.com/pedals/
 **Archive parent:** Nobrainer - **Builder:** Greenhouse Effects - **Catalog type:** Distortion - **Identity:** Greenhouse Effects's Nobrainer.
 
 ## Sources checked
+
 1. NOBRAINER / DISTORTION — GREENHOUSE EFFECTS: https://www.gheffects.com/pedals/p/nobrainer
 2. Greenhouse Effects Nobrainer - Reverb: https://reverb.com/p/greenhouse-effects-nobrainer
 3. Greenhouse Effects Nobrainer: https://www.effectsdatabase.com/model/greenhouse/27club/nobrainer
@@ -41,6 +50,7 @@ NOBRAINER / DISTORTION — GREENHOUSE EFFECTS: https://www.gheffects.com/pedals/
 5. Greenhouse Effects Nobrainer - www.musicalgearmarket.com: https://www.musicalgearmarket.com/product/greenhouse-effects-nobrainer/
 
 ## Photo
+
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
 
 ## Deep research verification

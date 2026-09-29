@@ -1,6 +1,7 @@
 # Dwarfcraft Devices — The Secret Destroyer
 
 ## PRP identity
+
 - **Archive parent:** The Secret Destroyer
 - **Builder:** Dwarfcraft Devices
 - **Catalog type:** Fuzz
@@ -11,18 +12,24 @@
 Dwarfcraft Devices's The Secret Destroyer is cataloged in the archive as a Fuzz pedal.
 
 ## Colorways
+
 - No specific factory colorway information was established in the verified evidence packet.
 
 ## Versions and factory options
+
 - No distinct factory revision was established in the verified evidence packet.
 
 ## Version changes
+
 - No specific factory version changes were established in the verified evidence packet.
 
 ## Transistor
+
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
+
 ## Diode
+
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.
 
@@ -33,10 +40,12 @@ Three variable gain stages, Starve, and Tone controls!
 Video Date ▼▲ Maker ▼▲ Video ▼▲ Time ▼▲ 2011 07 19 9520575 Dwarftcraft devices secret destroyer with a rhodes 1:47 2009 04 26 FuzzHugger(fx) Dwarfcraft Devices Secret Destroyer chip based oscillating fuzz pedal!
 
 ## Sources checked
+
 1. Dwarfcraft Devices The Secret Destoryer | Effects Database: https://www.effectsdatabase.com/model/dwarfcraft/secretdestroyer
 2. rutube.ru: https://rutube.ru/video/f83da8532db349d96cd9c63a751a37a8/
 
 ## Photo
+
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
 
 ## Deep research verification

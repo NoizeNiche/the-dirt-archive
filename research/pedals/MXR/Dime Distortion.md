@@ -1,36 +1,46 @@
 # MXR — Dime Distortion
 
 ## PRP identity
+
 - **Archive parent:** Dime Distortion
 - **Builder:** MXR
 - **Catalog type:** Distortion
 - **Identity:** MXR's Dime Distortion.
 
 ## What this pedal is
+
 Warranty Information The Long Story The Dime Distortion delivers a heavy, aggressive, and razor-sharp tone that rages with distortion but remains tight and focused enough to keep up with lightning-fast rhythm lines and scorching solos.
 
 ## Colorways
+
 - No specific factory colorway information was established in the verified evidence packet.
 
 ## Versions and factory options
+
 - No distinct factory revision was established in the verified evidence packet.
 
 ## Version changes
+
 - No specific factory version changes were established in the verified evidence packet.
 
 ## Transistor
+
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
+
 ## Diode
+
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.
 
 ## Sound
+
 MXR® DIME DISTORTION - Dunlop Toggle menu Compare
 Warranty Information The Long Story The Dime Distortion delivers a heavy, aggressive, and razor-sharp tone that rages with distortion but remains tight and focused enough to keep up with lightning-fast rhythm lines and scorching solos.
 User manual MXR Dime Distortion DD-11 (English - 2 pages) Manua .
 
 ## Sources checked
+
 1. MXR DD11 Dime Distortion - Reverb: https://reverb.com/p/mxr-dime-distortion
 2. MXR® DIME DISTORTION - Dunlop: https://www.jimdunlop.com/mxr-dime-distortion/
 3. MXR Dime Distortion Pedal | Equipboard: https://equipboard.com/items/mxr-dime-distortion-pedal
@@ -44,4 +54,5 @@ User manual MXR Dime Distortion DD-11 (English - 2 pages) Manua .
 11. MXR - DD-11 Dime Distortion: https://midimanuals.com/manuals/mxr/dd-11_dime_distortion/
 
 ## Photo
+
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

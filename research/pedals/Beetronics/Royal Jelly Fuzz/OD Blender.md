@@ -1,6 +1,7 @@
 # Beetronics — Royal Jelly Fuzz/OD Blender
 
 ## Surface catalog record
+
 - **Builder:** Beetronics
 - **Pedal:** Royal Jelly Fuzz/OD Blender
 - **Catalog type:** Overdrive / Fuzz
@@ -9,9 +10,11 @@
 - **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
 
 ## What this pedal is
+
 The Dirt Archive currently catalogs **Royal Jelly Fuzz/OD Blender** by **Beetronics** as a **Overdrive / Fuzz** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
 
 ## Catalog source
+
 - Catalog source page on file: https://www.beetronicsfx.com/products/royal-jelly-limited-edition-p-royal-series
 
 ## Deep research verification
@@ -61,4 +64,5 @@ Beetronics describes Royal Jelly as spanning silky overdrive/fuzz blends through
 Beetronics describes Royal Jelly as spanning silky overdrive/fuzz blends through gritty, high frequency fuzz textures. The Dry control is explicitly intended to retain articulation and is useful on bass, drums, and synth as well as guitar.
 
 ## Photo
+
 - **Archive status:** **Exact Photo Pending**

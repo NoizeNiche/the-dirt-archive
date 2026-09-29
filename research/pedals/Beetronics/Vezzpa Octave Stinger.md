@@ -1,6 +1,7 @@
 # Beetronics — Vezzpa Octave Stinger
 
 ## Surface catalog record
+
 - **Builder:** Beetronics
 - **Pedal:** Vezzpa Octave Stinger
 - **Catalog type:** Fuzz
@@ -9,6 +10,7 @@
 - **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
 
 ## What this pedal is
+
 The Vezzpa is a compact **dual-mode op-amp fuzz** with two distinct voices: FUZZZZ for thick gated fuzz and STINGER for aggressive high-octave fuzz. Beetronics also documents momentary/toggle operation from its multifunction footswitch.\n\n## Catalog source
 - Catalog source page on file: https://www.beetronicsfx.com/collections/all-pedals-1
 
@@ -52,4 +54,5 @@ Beetronics describes FUZZZZ as a classic gated fuzz mode and STINGER as a searin
 Beetronics describes FUZZZZ as a classic gated fuzz mode and STINGER as a searing high octave voice intended to cut through a mix. The SUSTAIN control moves the fuzz response from sputtery/spitty textures toward more complete gated fuzz.
 
 ## Photo
+
 - **Archive status:** **Exact Photo Pending**

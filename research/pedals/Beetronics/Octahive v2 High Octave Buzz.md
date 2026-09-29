@@ -1,6 +1,7 @@
 # Beetronics — Octahive v2 High Octave Buzz
 
 ## Surface catalog record
+
 - **Builder:** Beetronics
 - **Pedal:** Octahive v2 High Octave Buzz
 - **Catalog type:** Fuzz
@@ -9,9 +10,11 @@
 - **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
 
 ## What this pedal is
+
 The Dirt Archive currently catalogs **Octahive v2 High Octave Buzz** by **Beetronics** as a **Fuzz** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
 
 ## Catalog source
+
 - Catalog source page on file: https://www.beetronicsfx.com/collections/all-pedals-1
 
 ## Deep research verification
@@ -59,41 +62,5 @@ Beetronics describes BUZZZ mode as searing, thick and aggressive high-gain fuzz 
 Beetronics describes BUZZZ mode as searing, thick and aggressive high gain fuzz and OCTAVE mode as screaming psychedelic octave up fuzz. The builder's 2023 demonstration also describes neck pickup/low Pre settings as emphasizing the octave harmonics.
 
 ## Photo
+
 - **Archive status:** **Exact Photo Pending**
-
-## Deep research verification
-
-This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
-
-### Verified description
-Beetronics's Octahive v2 High Octave Buzz is cataloged as a fuzz pedal.
-
-### Verified version references
-- The evidence references: V2, v2.
-
-### Verified sound evidence
-The Dirt Archive currently catalogs **Octahive v2 High Octave Buzz** by **Beetronics** as a **Fuzz** pedal.
-The **Octahive V2** is a high-octave fuzz inspired by 1970s octave pedals.
-Beetronics describes two main modes: **BUZZZ** for thick, aggressive high-gain fuzz and **OCTAVE** for pronounced octave-up fuzz.
-
-### Sources checked in this pass
-1. Octahive v2 High Octave Buzz • Babee Series – Beetronics: https://www.beetronicsfx.com/products/octahive-v2-high-octave-fuzz-p-babee-series
-
-## Deep research verification
-
-This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
-
-### Verified description
-Beetronics's Octahive v2 High Octave Buzz is cataloged as a fuzz pedal.
-
-### Verified version references
-- The evidence references: V2, v2.
-
-### Verified sound evidence
-The Dirt Archive currently catalogs **Octahive v2 High Octave Buzz** by **Beetronics** as a **Fuzz** pedal.
-The **Octahive V2** is a high-octave fuzz inspired by 1970s octave pedals.
-Beetronics describes two main modes: **BUZZZ** for thick, aggressive high-gain fuzz and **OCTAVE** for pronounced octave-up fuzz.
-
-### Sources checked in this pass
-1. Octahive v2 High Octave Buzz • Babee Series – Beetronics: https://www.beetronicsfx.com/products/octahive-v2-high-octave-fuzz-p-babee-series
-2. Beetronics — Octahive v2 High Octave Buzz: https://www.youtube.com/watch?v=Vcvsb2qWBWI

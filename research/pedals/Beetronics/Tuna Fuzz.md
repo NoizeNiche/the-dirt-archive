@@ -1,6 +1,7 @@
 # Beetronics — Tuna Fuzz
 
 ## Surface catalog record
+
 - **Builder:** Beetronics
 - **Pedal:** Tuna Fuzz
 - **Catalog type:** Fuzz
@@ -9,6 +10,7 @@
 - **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
 
 ## What this pedal is
+
 The Tuna Fuzz is a **three-transistor fuzz** housed in a tuna-can-style enclosure. Its single STINKER control sets master volume, while Beetronics recommends using the guitar's volume control to shape gain and cleanup.\n\n## Catalog source
 - Catalog source page on file: https://www.beetronicsfx.com/collections/all-pedals-1
 
@@ -56,4 +58,5 @@ Beetronics describes Tuna as loud, very dynamic, vintage-fuzz-like, and responsi
 Beetronics describes Tuna as loud, very dynamic, vintage fuzz like, and responsive to guitar volume cleanup. The builder notes that its tonal behavior can differ noticeably from Octahive despite some circuit family similarity.
 
 ## Photo
+
 - **Archive status:** **Exact Photo Pending**

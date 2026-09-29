@@ -1,6 +1,7 @@
 # Orange Amplification — Guitar Butler
 
 ## PRP identity
+
 - **Archive parent:** Guitar Butler
 - **Builder:** Orange Amplification
 - **Catalog type:** Overdrive
@@ -11,18 +12,24 @@
 About Orange Amplification Introduces The Guitar Butler: Overview and Relevance to Guitar Players Released in early 2024, the Orange Guitar Butler is a compact, 1U rack-mountable (or desktop) unit housed in a rugged steel chassis.
 
 ## Colorways
+
 - No specific factory colorway information was established in the verified evidence packet.
 
 ## Versions and factory options
+
 - No distinct factory revision was established in the verified evidence packet.
 
 ## Version changes
+
 - No specific factory version changes were established in the verified evidence packet.
 
 ## Transistor
+
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
+
 ## Diode
+
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.
 
@@ -35,6 +42,7 @@ For guitarists seeking consistent tone when switching between high-impedance pas
 Its relevance lies in resolving common tone-suck, noise, and volume drop issues that occur when chaining multiple true-bypass pedals or using long cable runs — especially with vintage-style single-coils or high-output humbuckers.
 
 ## Sources checked
+
 1. Orange Amplification Guitar Butler: Practical Setup Tone Guide | GearStrings: https://gearstrings.com/guitars/orange-guitar-butler-guide
 2. Orange Amplification Introduces The Guitar Butler | Gearspace: https://gearspace.com/threads/orange-amplification-introduces-the-guitar-butler.1370672/
 3. Orange Amplification Guitar Butler - Gearspace: https://static.gearspace.com/gear/orange-amplification/guitar-butler
@@ -42,6 +50,7 @@ Its relevance lies in resolving common tone-suck, noise, and volume drop issues 
 5. Orange Amplification Introduces The Guitar Butler: https://dshowmusic.com/orange-amplification-guitar-butler/
 
 ## Photo
+
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
 
 ## Deep research verification

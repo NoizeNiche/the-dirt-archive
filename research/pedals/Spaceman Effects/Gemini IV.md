@@ -1,38 +1,48 @@
 # Spaceman Effects — Gemini IV
 
 ## PRP identity
+
 - **Archive parent:** Gemini IV
 - **Builder:** Spaceman Effects
 - **Catalog type:** Fuzz
 - **Identity:** Spaceman Effects's Gemini IV.
 
 ## What this pedal is
+
 NEXT-LEVEL TWEAKABILITY The Gemini IV is fuzz-tweaker’s dream, allowing for so much fuzz creativity and inspiration.
 
 ## Colorways
+
 - SPACEMAN EFFECTS GEMINI IV DUAL FUZZ GENERATOR BLUE SPARKLE
 - Spaceman Effects Gemini IV Black Edition - Your Complete Music Store – Instruments, Vinyl & More FLASH SALE: EVERYTHING HALF PRICE!
 - Be the first to review “Spaceman Effects Gemini IV Black Edition” Cancel reply Your email address will not be published.
 
 ## Versions and factory options
+
 - No distinct factory revision was established in the verified evidence packet.
 
 ## Version changes
+
 - No specific factory version changes were established in the verified evidence packet.
 
 ## Transistor
+
 - Documented terms in the verified sources: germanium fuzz.
 - The archive records only the component information explicitly present in these sources.
+
 ## Diode
+
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.
 
 ## Sound
+
 Gemini IV - Dual Fuzz Generator - Spaceman Effects
 A fuzz-tweaker’s dream, allowing for so much fuzz creativity and inspiration, featuring a well-thought-out control set for maximum tweakability.
 LEARN MORE INTRODUCING GEMINI IV The Gemini IV: Dual Fuzz Generator houses two distinct and unique fuzz circuits in parallel.
 
 ## Sources checked
+
 1. Gemini IV - Dual Fuzz Generator - Spaceman Effects: https://spacemaneffects.com/products/gemini-iv/
 2. Spaceman Effects Gemini IV - What To Know & Where To Buy: https://equipboard.com/items/spaceman-effects-gemini-iv
 3. SPACEMAN EFFECTS GEMINI IV DUAL FUZZ GENERATOR SILVER POWDER - Professional Cymbals : Crisp Definition and Versatile Dynamic Range: https://www.cymbalsset.com/product/spaceman-effects-gemini-iv-dual-fuzz-generator-silver-powder/
@@ -45,4 +55,5 @@ LEARN MORE INTRODUCING GEMINI IV The Gemini IV: Dual Fuzz Generator houses two d
 10. Spaceman Effects Gemini IV Black Edition - Your Complete Music Store – Instruments, Vinyl & More: https://www.vinylstorex.com/product/spaceman-effects-gemini-iv-black-edition/
 
 ## Photo
+
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

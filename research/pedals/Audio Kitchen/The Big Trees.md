@@ -1,15 +1,18 @@
 # Audio Kitchen — The Big Trees
 
 ## PRP identity
+
 - **Archive parent:** The Big Trees
 - **Builder:** Audio Kitchen
 - **Catalog type:** Overdrive / Amplifier-Preamp
 - **Identity:** 2.5-watt single-ended Class A all-valve amplifier that also functions as a line-level preamp/DI, using ECC82/ECC83 preamp valves and a single EL84 output valve. [1][2]
 
 ## What this is
+
 The Big Trees is a compact recording amplifier and versatile preamp rather than a conventional transistor stompbox. Audio Kitchen describes it as an all-valve Class A amp that can also perform line-driver, DI, clean-gain, re-amping and other studio roles. [1]
 
 ## Controls / signal path
+
 - **GAIN**
 - **ROOT:** Bottom end of the Baxandall-style EQ.
 - **BRANCH:** Top end of the Baxandall-style EQ.
@@ -20,6 +23,7 @@ The Big Trees is a compact recording amplifier and versatile preamp rather than 
 - **Line output** [1][2]
 
 ## Valve / circuit architecture
+
 - **Preamp valves:** ECC82 and ECC83.
 - **Output valve:** Single EL84.
 - **Power stage:** 2.5W single-ended Class A.
@@ -27,18 +31,23 @@ The Big Trees is a compact recording amplifier and versatile preamp rather than 
 - **Dirt control:** Six-position EL84-headroom control that changes available output headroom and therefore breakup. [1][2]
 
 ## Transistor
+
 - **Not transistor-based.**
 - Active devices are the documented ECC82, ECC83 and EL84 valves. [1]
+
 ## Diode / clipping
+
 - The defining gain/breakup mechanism is valve stage behavior and EL84 headroom reduction, not a publicly documented clipping-diode network.
 - Exact diode components are not documented as the defining circuit element.
 
 ## Construction / hardware
+
 - Durable die-cast aluminum enclosure.
 - Nominal output impedance: **8Ω**.
 - Hand-built in Audio Kitchen's West London workshop. [1][2]
 
 ## Power
+
 Audio Kitchen's current documentation specifies:
 - **240V AC / 50Hz / 250mA**
 - Standard fitted switch for **115V AC / 60Hz / 500mA**
@@ -46,13 +55,16 @@ Audio Kitchen's current documentation specifies:
 Current manufacturer documentation lists dimensions around **222 × 145 × 102mm** and approximately **2.5kg**. [1]
 
 ## Version history
+
 - No numbered electronic revision established in the reviewed public documentation.
 - The central functional distinction is the Clean versus post-power-amp line-output routing, with the six-position Dirt control altering headroom. [1][2]
 
 ## Sound
+
 Audio Kitchen describes The Big Trees as producing harmonic-rich, dynamic valve tone. Increasing the Dirt control reduces EL84 headroom, increasing breakup and compression. The clean line-out mode can serve as a low-colour gain/buffer function, while the post-power-amp output carries the more driven amplifier character. [1][2]
 
 ## Research confidence
+
 - **Identity:** High
 - **ECC82/ECC83/EL84 architecture:** High
 - **2.5W Class A output stage:** High
@@ -63,288 +75,38 @@ Audio Kitchen describes The Big Trees as producing harmonic-rich, dynamic valve 
 - **Numbered revision history:** Not established
 
 ## Deep research verification
-Audio Kitchen's current product page was checked against an independent detailed retailer specification. Both document the 2.5W Class A architecture, ECC82/ECC83 preamp, EL84 output valve, control set and line-output roles. The retailer also confirms the dual mains-voltage configuration and 8Ω nominal output impedance. [1][2]
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Enquire Description Geeky tech Stuff Visit Store The Big Trees (TBTs) is an all valve, Class A amp which doubles as an incredibly versatile preamp, perfectly at home live and in the studio.
+
+### Verified color/finish evidence
+- VAT) Price does not include shipping and is for standard (BLUE tolex) finish where applicable, unless otherwise stated.
+
+### Verified version references
+- The evidence references: revision, v1.
+
+### Verified sound evidence
+The 2.5W amp, built around ECC82 and ECC83 pre-amp and single EL84 output valves, generates harmonic-rich tone, sculpted by its Baxandall-based EQ, and ‘EL84 headroom control’.
+The Line output (incorporating a valve line driver stage) is either post power- amp stage, or discreet all-valve clean stage for empyreal DI tone.
+Its ever-expanding list of tasks includes re-amping/ guitar front end into a DAW/ clean gain/ DI/ line driver/ hardware insert on all manner of sources from synths to drums, Wurlitzer to vocals, and even as a twin attack over entire mixes.
+
+### Sources checked in this pass
+1. Audio Kitchen, musically inspiring amp design: https://www.audiokitchen.co.uk/products/the-big-trees/
+2. Heyday Musical Instruments & Repair - Audio Kitchen The Big Trees: https://www.heydaymusic.net/amps/p/audiokitchenthebigtrees
+3. audiokitchen: https://audiokitchen.myshopify.com/
+
+## What this pedal is
+
+Enquire Description Geeky tech Stuff Visit Store The Big Trees (TBTs) is an all valve, Class A amp which doubles as an incredibly versatile preamp, perfectly at home live and in the studio.
 
 ## Sources checked
+
 1. Audio Kitchen — The Big Trees: https://www.audiokitchen.co.uk/products/the-big-trees/
 2. Heyday Musical Instruments — Audio Kitchen The Big Trees specification: https://www.heydaymusic.net/amps/p/audiokitchenthebigtrees
 
 ## Photo
+
 - **Archive status:** **No Photo Archived**
 - **Exact-model reference checked:** Audio Kitchen exact-model page.
-
-## Deep research verification
-
-This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
-
-### Verified description
-Enquire Description Geeky tech Stuff Visit Store The Big Trees (TBTs) is an all valve, Class A amp which doubles as an incredibly versatile preamp, perfectly at home live and in the studio.
-
-### Verified color/finish evidence
-- VAT) Price does not include shipping and is for standard (BLUE tolex) finish where applicable, unless otherwise stated.
-
-### Verified version references
-- The evidence references: revision, v1.
-
-### Verified sound evidence
-The 2.5W amp, built around ECC82 and ECC83 pre-amp and single EL84 output valves, generates harmonic-rich tone, sculpted by its Baxandall-based EQ, and ‘EL84 headroom control’.
-The Line output (incorporating a valve line driver stage) is either post power- amp stage, or discreet all-valve clean stage for empyreal DI tone.
-Its ever-expanding list of tasks includes re-amping/ guitar front end into a DAW/ clean gain/ DI/ line driver/ hardware insert on all manner of sources from synths to drums, Wurlitzer to vocals, and even as a twin attack over entire mixes.
-
-### Sources checked in this pass
-1. Audio Kitchen, musically inspiring amp design: https://www.audiokitchen.co.uk/products/the-big-trees/
-2. Heyday Musical Instruments & Repair - Audio Kitchen The Big Trees: https://www.heydaymusic.net/amps/p/audiokitchenthebigtrees
-3. audiokitchen: https://audiokitchen.myshopify.com/
-
-## Deep research verification
-
-This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
-
-### Verified description
-Enquire Description Geeky tech Stuff Visit Store The Big Trees (TBTs) is an all valve, Class A amp which doubles as an incredibly versatile preamp, perfectly at home live and in the studio.
-
-### Verified color/finish evidence
-- VAT) Price does not include shipping and is for standard (BLUE tolex) finish where applicable, unless otherwise stated.
-
-### Verified version references
-- The evidence references: revision, v1.
-
-### Verified sound evidence
-The 2.5W amp, built around ECC82 and ECC83 pre-amp and single EL84 output valves, generates harmonic-rich tone, sculpted by its Baxandall-based EQ, and ‘EL84 headroom control’.
-The Line output (incorporating a valve line driver stage) is either post power- amp stage, or discreet all-valve clean stage for empyreal DI tone.
-Its ever-expanding list of tasks includes re-amping/ guitar front end into a DAW/ clean gain/ DI/ line driver/ hardware insert on all manner of sources from synths to drums, Wurlitzer to vocals, and even as a twin attack over entire mixes.
-
-### Sources checked in this pass
-1. Audio Kitchen, musically inspiring amp design: https://www.audiokitchen.co.uk/products/the-big-trees/
-2. Heyday Musical Instruments & Repair - Audio Kitchen The Big Trees: https://www.heydaymusic.net/amps/p/audiokitchenthebigtrees
-3. audiokitchen: https://audiokitchen.myshopify.com/
-
-## Deep research verification
-
-This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
-
-### Verified description
-Enquire Description Geeky tech Stuff Visit Store The Big Trees (TBTs) is an all valve, Class A amp which doubles as an incredibly versatile preamp, perfectly at home live and in the studio.
-
-### Verified color/finish evidence
-- VAT) Price does not include shipping and is for standard (BLUE tolex) finish where applicable, unless otherwise stated.
-
-### Verified version references
-- The evidence references: revision, v1.
-
-### Verified sound evidence
-The 2.5W amp, built around ECC82 and ECC83 pre-amp and single EL84 output valves, generates harmonic-rich tone, sculpted by its Baxandall-based EQ, and ‘EL84 headroom control’.
-The Line output (incorporating a valve line driver stage) is either post power- amp stage, or discreet all-valve clean stage for empyreal DI tone.
-Its ever-expanding list of tasks includes re-amping/ guitar front end into a DAW/ clean gain/ DI/ line driver/ hardware insert on all manner of sources from synths to drums, Wurlitzer to vocals, and even as a twin attack over entire mixes.
-
-### Sources checked in this pass
-1. Audio Kitchen, musically inspiring amp design: https://www.audiokitchen.co.uk/products/the-big-trees/
-2. Heyday Musical Instruments & Repair - Audio Kitchen The Big Trees: https://www.heydaymusic.net/amps/p/audiokitchenthebigtrees
-3. audiokitchen: https://audiokitchen.myshopify.com/
-
-## Deep research verification
-
-This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
-
-### Verified description
-Enquire Description Geeky tech Stuff Visit Store The Big Trees (TBTs) is an all valve, Class A amp which doubles as an incredibly versatile preamp, perfectly at home live and in the studio.
-
-### Verified color/finish evidence
-- VAT) Price does not include shipping and is for standard (BLUE tolex) finish where applicable, unless otherwise stated.
-
-### Verified version references
-- The evidence references: revision, v1.
-
-### Verified sound evidence
-The 2.5W amp, built around ECC82 and ECC83 pre-amp and single EL84 output valves, generates harmonic-rich tone, sculpted by its Baxandall-based EQ, and ‘EL84 headroom control’.
-The Line output (incorporating a valve line driver stage) is either post power- amp stage, or discreet all-valve clean stage for empyreal DI tone.
-Its ever-expanding list of tasks includes re-amping/ guitar front end into a DAW/ clean gain/ DI/ line driver/ hardware insert on all manner of sources from synths to drums, Wurlitzer to vocals, and even as a twin attack over entire mixes.
-
-### Sources checked in this pass
-1. Audio Kitchen, musically inspiring amp design: https://www.audiokitchen.co.uk/products/the-big-trees/
-2. Heyday Musical Instruments & Repair - Audio Kitchen The Big Trees: https://www.heydaymusic.net/amps/p/audiokitchenthebigtrees
-3. audiokitchen: https://audiokitchen.myshopify.com/
-
-## Deep research verification
-
-This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
-
-### Verified description
-Enquire Description Geeky tech Stuff Visit Store The Big Trees (TBTs) is an all valve, Class A amp which doubles as an incredibly versatile preamp, perfectly at home live and in the studio.
-
-### Verified color/finish evidence
-- VAT) Price does not include shipping and is for standard (BLUE tolex) finish where applicable, unless otherwise stated.
-
-### Verified version references
-- The evidence references: revision, v1.
-
-### Verified sound evidence
-The 2.5W amp, built around ECC82 and ECC83 pre-amp and single EL84 output valves, generates harmonic-rich tone, sculpted by its Baxandall-based EQ, and ‘EL84 headroom control’.
-The Line output (incorporating a valve line driver stage) is either post power- amp stage, or discreet all-valve clean stage for empyreal DI tone.
-Its ever-expanding list of tasks includes re-amping/ guitar front end into a DAW/ clean gain/ DI/ line driver/ hardware insert on all manner of sources from synths to drums, Wurlitzer to vocals, and even as a twin attack over entire mixes.
-
-### Sources checked in this pass
-1. Audio Kitchen, musically inspiring amp design: https://www.audiokitchen.co.uk/products/the-big-trees/
-2. Heyday Musical Instruments & Repair - Audio Kitchen The Big Trees: https://www.heydaymusic.net/amps/p/audiokitchenthebigtrees
-3. audiokitchen: https://audiokitchen.myshopify.com/
-
-## Deep research verification
-
-This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
-
-### Verified description
-Enquire Description Geeky tech Stuff Visit Store The Big Trees (TBTs) is an all valve, Class A amp which doubles as an incredibly versatile preamp, perfectly at home live and in the studio.
-
-### Verified color/finish evidence
-- VAT) Price does not include shipping and is for standard (BLUE tolex) finish where applicable, unless otherwise stated.
-
-### Verified version references
-- The evidence references: revision, v1.
-
-### Verified sound evidence
-The 2.5W amp, built around ECC82 and ECC83 pre-amp and single EL84 output valves, generates harmonic-rich tone, sculpted by its Baxandall-based EQ, and ‘EL84 headroom control’.
-The Line output (incorporating a valve line driver stage) is either post power- amp stage, or discreet all-valve clean stage for empyreal DI tone.
-Its ever-expanding list of tasks includes re-amping/ guitar front end into a DAW/ clean gain/ DI/ line driver/ hardware insert on all manner of sources from synths to drums, Wurlitzer to vocals, and even as a twin attack over entire mixes.
-
-### Sources checked in this pass
-1. Audio Kitchen, musically inspiring amp design: https://www.audiokitchen.co.uk/products/the-big-trees/
-2. Heyday Musical Instruments & Repair - Audio Kitchen The Big Trees: https://www.heydaymusic.net/amps/p/audiokitchenthebigtrees
-3. audiokitchen: https://audiokitchen.myshopify.com/
-
-## Deep research verification
-
-This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
-
-### Verified description
-Enquire Description Geeky tech Stuff Visit Store The Big Trees (TBTs) is an all valve, Class A amp which doubles as an incredibly versatile preamp, perfectly at home live and in the studio.
-
-### Verified color/finish evidence
-- VAT) Price does not include shipping and is for standard (BLUE tolex) finish where applicable, unless otherwise stated.
-
-### Verified version references
-- The evidence references: revision, v1.
-
-### Verified sound evidence
-The 2.5W amp, built around ECC82 and ECC83 pre-amp and single EL84 output valves, generates harmonic-rich tone, sculpted by its Baxandall-based EQ, and ‘EL84 headroom control’.
-The Line output (incorporating a valve line driver stage) is either post power- amp stage, or discreet all-valve clean stage for empyreal DI tone.
-Its ever-expanding list of tasks includes re-amping/ guitar front end into a DAW/ clean gain/ DI/ line driver/ hardware insert on all manner of sources from synths to drums, Wurlitzer to vocals, and even as a twin attack over entire mixes.
-
-### Sources checked in this pass
-1. Audio Kitchen, musically inspiring amp design: https://www.audiokitchen.co.uk/products/the-big-trees/
-2. Heyday Musical Instruments & Repair - Audio Kitchen The Big Trees: https://www.heydaymusic.net/amps/p/audiokitchenthebigtrees
-3. audiokitchen: https://audiokitchen.myshopify.com/
-
-## Deep research verification
-
-This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
-
-### Verified description
-Enquire Description Geeky tech Stuff Visit Store The Big Trees (TBTs) is an all valve, Class A amp which doubles as an incredibly versatile preamp, perfectly at home live and in the studio.
-
-### Verified color/finish evidence
-- VAT) Price does not include shipping and is for standard (BLUE tolex) finish where applicable, unless otherwise stated.
-
-### Verified version references
-- The evidence references: revision, v1.
-
-### Verified sound evidence
-The 2.5W amp, built around ECC82 and ECC83 pre-amp and single EL84 output valves, generates harmonic-rich tone, sculpted by its Baxandall-based EQ, and ‘EL84 headroom control’.
-The Line output (incorporating a valve line driver stage) is either post power- amp stage, or discreet all-valve clean stage for empyreal DI tone.
-Its ever-expanding list of tasks includes re-amping/ guitar front end into a DAW/ clean gain/ DI/ line driver/ hardware insert on all manner of sources from synths to drums, Wurlitzer to vocals, and even as a twin attack over entire mixes.
-
-### Sources checked in this pass
-1. Audio Kitchen, musically inspiring amp design: https://www.audiokitchen.co.uk/products/the-big-trees/
-2. Heyday Musical Instruments & Repair - Audio Kitchen The Big Trees: https://www.heydaymusic.net/amps/p/audiokitchenthebigtrees
-3. audiokitchen: https://audiokitchen.myshopify.com/
-
-## Deep research verification
-
-This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
-
-### Verified description
-Enquire Description Geeky tech Stuff Visit Store The Big Trees (TBTs) is an all valve, Class A amp which doubles as an incredibly versatile preamp, perfectly at home live and in the studio.
-
-### Verified color/finish evidence
-- VAT) Price does not include shipping and is for standard (BLUE tolex) finish where applicable, unless otherwise stated.
-
-### Verified version references
-- The evidence references: revision, v1.
-
-### Verified sound evidence
-The 2.5W amp, built around ECC82 and ECC83 pre-amp and single EL84 output valves, generates harmonic-rich tone, sculpted by its Baxandall-based EQ, and ‘EL84 headroom control’.
-The Line output (incorporating a valve line driver stage) is either post power- amp stage, or discreet all-valve clean stage for empyreal DI tone.
-Its ever-expanding list of tasks includes re-amping/ guitar front end into a DAW/ clean gain/ DI/ line driver/ hardware insert on all manner of sources from synths to drums, Wurlitzer to vocals, and even as a twin attack over entire mixes.
-
-### Sources checked in this pass
-1. Audio Kitchen, musically inspiring amp design: https://www.audiokitchen.co.uk/products/the-big-trees/
-2. Heyday Musical Instruments & Repair - Audio Kitchen The Big Trees: https://www.heydaymusic.net/amps/p/audiokitchenthebigtrees
-3. audiokitchen: https://audiokitchen.myshopify.com/
-
-## Deep research verification
-
-This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
-
-### Verified description
-Enquire Description Geeky tech Stuff Visit Store The Big Trees (TBTs) is an all valve, Class A amp which doubles as an incredibly versatile preamp, perfectly at home live and in the studio.
-
-### Verified color/finish evidence
-- VAT) Price does not include shipping and is for standard (BLUE tolex) finish where applicable, unless otherwise stated.
-
-### Verified version references
-- The evidence references: revision, v1.
-
-### Verified sound evidence
-The 2.5W amp, built around ECC82 and ECC83 pre-amp and single EL84 output valves, generates harmonic-rich tone, sculpted by its Baxandall-based EQ, and ‘EL84 headroom control’.
-The Line output (incorporating a valve line driver stage) is either post power- amp stage, or discreet all-valve clean stage for empyreal DI tone.
-Its ever-expanding list of tasks includes re-amping/ guitar front end into a DAW/ clean gain/ DI/ line driver/ hardware insert on all manner of sources from synths to drums, Wurlitzer to vocals, and even as a twin attack over entire mixes.
-
-### Sources checked in this pass
-1. Audio Kitchen, musically inspiring amp design: https://www.audiokitchen.co.uk/products/the-big-trees/
-2. Heyday Musical Instruments & Repair - Audio Kitchen The Big Trees: https://www.heydaymusic.net/amps/p/audiokitchenthebigtrees
-3. audiokitchen: https://audiokitchen.myshopify.com/
-
-## Deep research verification
-
-This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
-
-### Verified description
-Enquire Description Geeky tech Stuff Visit Store The Big Trees (TBTs) is an all valve, Class A amp which doubles as an incredibly versatile preamp, perfectly at home live and in the studio.
-
-### Verified color/finish evidence
-- VAT) Price does not include shipping and is for standard (BLUE tolex) finish where applicable, unless otherwise stated.
-
-### Verified version references
-- The evidence references: revision, v1.
-
-### Verified sound evidence
-The 2.5W amp, built around ECC82 and ECC83 pre-amp and single EL84 output valves, generates harmonic-rich tone, sculpted by its Baxandall-based EQ, and ‘EL84 headroom control’.
-The Line output (incorporating a valve line driver stage) is either post power- amp stage, or discreet all-valve clean stage for empyreal DI tone.
-Its ever-expanding list of tasks includes re-amping/ guitar front end into a DAW/ clean gain/ DI/ line driver/ hardware insert on all manner of sources from synths to drums, Wurlitzer to vocals, and even as a twin attack over entire mixes.
-
-### Sources checked in this pass
-1. Audio Kitchen, musically inspiring amp design: https://www.audiokitchen.co.uk/products/the-big-trees/
-2. Heyday Musical Instruments & Repair - Audio Kitchen The Big Trees: https://www.heydaymusic.net/amps/p/audiokitchenthebigtrees
-3. audiokitchen: https://audiokitchen.myshopify.com/
-
-## Deep research verification
-
-This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
-
-### Verified description
-Enquire Description Geeky tech Stuff Visit Store The Big Trees (TBTs) is an all valve, Class A amp which doubles as an incredibly versatile preamp, perfectly at home live and in the studio.
-
-### Verified color/finish evidence
-- VAT) Price does not include shipping and is for standard (BLUE tolex) finish where applicable, unless otherwise stated.
-
-### Verified version references
-- The evidence references: revision, v1.
-
-### Verified sound evidence
-The 2.5W amp, built around ECC82 and ECC83 pre-amp and single EL84 output valves, generates harmonic-rich tone, sculpted by its Baxandall-based EQ, and ‘EL84 headroom control’.
-The Line output (incorporating a valve line driver stage) is either post power- amp stage, or discreet all-valve clean stage for empyreal DI tone.
-Its ever-expanding list of tasks includes re-amping/ guitar front end into a DAW/ clean gain/ DI/ line driver/ hardware insert on all manner of sources from synths to drums, Wurlitzer to vocals, and even as a twin attack over entire mixes.
-
-### Sources checked in this pass
-1. Audio Kitchen, musically inspiring amp design: https://www.audiokitchen.co.uk/products/the-big-trees/
-2. Heyday Musical Instruments & Repair - Audio Kitchen The Big Trees: https://www.heydaymusic.net/amps/p/audiokitchenthebigtrees
-3. audiokitchen: https://audiokitchen.myshopify.com/

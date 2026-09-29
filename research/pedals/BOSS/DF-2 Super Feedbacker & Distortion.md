@@ -1,10 +1,12 @@
 # BOSS - DF-2 Super Feedbacker & Distortion
 
 ## PRP identity
+
 - **Builder:** BOSS
 - **Catalog type:** Distortion
 
 ## What this pedal is
+
 The BOSS DF-2 Super Feedbacker & Distortion combines a conventional compact distortion circuit with a dedicated artificial-feedback effect.
 
 ## Deep research verification
@@ -27,7 +29,9 @@ The documented front panel provides DISTORTION, TONE and LEVEL controls. The sam
 The distortion section provides the expected BOSS hard rock distortion range, while the Super Feedbacker function creates sustained feedback like tones without requiring the amplifier to reach acoustic feedback.
 
 ## Sources checked
+
 - Effects Database: https://www.effectsdatabase.com/model/boss/compact/df2
 
 ## Photo
+
 - **Archive status:** **Exact Photo Pending**

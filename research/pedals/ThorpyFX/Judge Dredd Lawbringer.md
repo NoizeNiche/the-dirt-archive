@@ -1,6 +1,7 @@
 # ThorpyFX — Judge Dredd Lawbringer
 
 ## PRP identity
+
 - **Archive parent:** Judge Dredd Lawbringer
 - **Builder:** ThorpyFX
 - **Catalog type:** Overdrive
@@ -11,26 +12,34 @@
 It’s an unfair comparison really, but it is possible to - **Archive parent:** Judge Dredd Lawbringer - **Builder:** ThorpyFX - **Catalog type:** Overdrive - **Identity:** ThorpyFX's Judge Dredd Lawbringer.
 
 ## Colorways
+
 - Designed to deliver awesome rock tones you love, with refreshed artwork.
 
 ## Versions and factory options
+
 - The verified evidence references: MKI, MKII, V2.
 - The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
 
 ## Version changes
+
 - No specific factory version changes were established in the verified evidence packet.
 
 ## Transistor
+
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
+
 ## Diode
+
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.
 
 ## Sound
+
 "I AM THE LAW" The Lawbringer overdrive aims to place Law above all else in line with Judge Dredds singular uncompromising attitude.
 
 ## Sources checked
+
 1. JUDGE DREDD LAWBRINGER | Overdrive: https://thorpyfx.com/en-us/products/judge-dredd-lawbringer-gunshot
 2. ThorpyFX Judge Dredd Lawbringer Gunshot Dimensions, Specs & Details: https://www.stompboxgarden.com/gear/pedal/4469/thorpyfx-judge-dredd-lawbringer-gunshot
 3. Judge Dredd Lawbringer Gunshot by ThorpyFX | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/ThorpyFX/Judge-Dredd-Lawbringer-Gunshot/8228950007/
@@ -40,6 +49,7 @@ It’s an unfair comparison really, but it is possible to - **Archive parent:** 
 7. Thorpy FX Judge Dredd Lawbringer - Gunshot (ThorpyFx X 2000AD Collabor: https://laboitemusicale.com/products/thorpy-fx-judge-dredd-lawbringer-gunshot-thorpyfx-x-2000ad-collaboration
 
 ## Photo
+
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
 
 ## Deep research verification

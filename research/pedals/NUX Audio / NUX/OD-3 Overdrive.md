@@ -1,6 +1,7 @@
 # NUX Audio / NUX — OD-3 Overdrive
 
 ## Surface catalog record
+
 - **Builder:** NUX Audio / NUX
 - **Pedal:** OD-3 Overdrive
 - **Catalog type:** Overdrive
@@ -9,23 +10,29 @@
 - **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
 
 ## What this pedal is
+
 The Dirt Archive currently catalogs **OD-3 Overdrive** by **NUX Audio / NUX** as a **Overdrive** pedal. This statement is limited to the archive’s catalog classification. Deeper technical, historical, and sonic details remain pending verification.
 
 ## Catalog source
+
 - No source page is recorded in the current catalog metadata.
 
 ## Photo
+
 - **Archive photo:** No verified local photo is currently archived.
 - Photo provenance and validation are handled separately from this surface research record.
 
 ## Deep research
+
 - **Status:** Pending
 - Deeper passes will add only claims supported by exact-pedal evidence admitted by the archive’s research foreman.
 
 ## Deep research verification
+
 - Effects Database identifies **OD-3 Overdrive** as the exact NUX model.
 - The documented control set is Level, Tone, and Drive, with true-bypass switching and the published battery/adapter power arrangement.
 - The archive records these exact-model facts without assigning an unsupported circuit lineage.
 
 ## Verification source set
+
 1. Effects Database — NUX OD-3 Overdrive: https://www.effectsdatabase.com/model/nux/2012/od3

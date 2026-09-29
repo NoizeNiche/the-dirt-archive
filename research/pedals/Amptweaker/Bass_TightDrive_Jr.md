@@ -1,35 +1,46 @@
 # Amptweaker — Bass TightDrive Jr
 
 ## PRP identity
+
 - **Archive parent:** Bass TightDrive Jr
 - **Builder:** Amptweaker
 - **Catalog type:** Overdrive
 - **Identity:** Amptweaker's Bass TightDrive Jr.
 
 ## What this pedal is
+
 Amptweaker's Bass TightDrive Jr is cataloged as an overdrive pedal.
 
 ## Colorways
+
 - No specific factory colorway information was established in the verified evidence packet.
 
 ## Versions and factory options
+
 - No distinct factory revision was established in the verified evidence packet.
 
 ## Version changes
+
 - No specific factory version changes were established in the verified evidence packet.
 
 ## Transistor
+
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
+
 ## Diode
+
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.
 
 ## Sound
+
 The verified evidence packet did not contain enough pedal-specific sonic description to make a more detailed sound summary without adding unsupported interpretation.
 
 ## Sources checked
+
 1. Amptweaker Launches New Bass Jr. Pedal Series - Premier Guitar: https://www.premierguitar.com/amptweaker-introduces-the-bass-tightdrive-jr-bass-tightrock-jr-and-bass-tightmetal-jr
 
 ## Photo
+
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

@@ -1,6 +1,7 @@
 # TC Electronic — Nova Drive
 
 ## PRP identity
+
 - **Archive parent:** Nova Drive
 - **Builder:** TC Electronic
 - **Catalog type:** Distortion / Overdrive
@@ -11,21 +12,27 @@
 TC Electronic's Nova Drive is cataloged in the archive as a Distortion / Overdrive pedal.
 
 ## Colorways
+
 - The weight is a hefty 0.8 kg, thanks to the solidly made, neatly finished black metal enclosure.
 - .us Delivering to Dulles 20189 Update location Musical Instruments Select the department you want to search in All Departments Alexa Skills Amazon Autos Amazon Devices Amazon Global Store Amazon Haul Amazon One Medical Amazon Pharmacy Amazon Resale Appliances Apps & Games Arts, Crafts & Sewing Audible Books & Originals Automotive Parts & Accessories Baby Beauty & Personal Care Books CDs & Vinyl Cell Phones & Accessories Clothing, Shoes & Jewelry Women's Clothing, Shoes & Jewelry Men's Clothing, Shoes & Jewelry Girl's Clothing, Shoes & Jewelry Boy's Clothing, Shoes & Jewelry Baby Clothing, Shoes & Jewelry Collectibles & Fine Art Computers Credit and Payment Cards Digital Music Electronics Garden & Outdoor Gift Cards Grocery & Gourmet Food Handmade Health, Household & Baby Care Home & Business Services Home & Kitchen Industrial & Scientific Just for Prime Kindle Store Luggage & Travel Gear Luxury Stores Magazine Subscriptions Movies & TV Musical Instruments Office Products Pet Supplies Premium Beauty Prime Video Smart Home Software Sports & Outdoors Subscribe & Save Subscription Boxes Tools & Home Improvement Toys & Games Under $10 Video Games Whole Foods Market Search Amazon EN Hello, sign in Account & Lists Returns & Orders 0 Cart All Early Prime Deals Groceries Coupons Prime Pharmacy Amazon Home Automotive Registry Music Whole Foods Audible Video Games New Releases Baby Fashion Works with Alexa Sports & Outdoors Smart Home Toys & Games Custom Products Gift Shop Subscribe & Save Amazon Haul Best Sellers Kindle Books Books TV & Video Luxury Gift Cards Handmade Musical Instruments Deals Guitars Bass Amplifiers & Effects Keyboards Drums Recording DJ & Karaoke Band & Orchestra Live Sound Pro Store Consider these alternative items BOSS OS-2 Gold Overdrive/Distortion Guitar Pedal 4.6 311 $120.99 $ 120 .
 - Product type Effects pedal General Brand TC Electronic Model NDR-1 Nova Drive | TC-NDR-1 Product not categorized Language English Filetype User manual (PDF) Features Product type Effects pedal Product color Black Product type Effects pedal Product color Black show more Frequently Asked Questions Can't find the answer to your question in the manual?
 
 ## Versions and factory options
+
 - The verified evidence references: v2.
 - The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
 
 ## Version changes
+
 - No specific factory version changes were established in the verified evidence packet.
 
 ## Transistor
+
 - Documented terms in the verified sources: 2N5088.
 - The archive records only the component information explicitly present in these sources.
+
 ## Diode
+
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.
 
@@ -38,6 +45,7 @@ TC Electronic's Nova Drive is cataloged in the archive as a Distortion / Overdri
 Product type Effects pedal General Brand TC Electronic Model NDR-1 Nova Drive
 
 ## Sources checked
+
 1. TC Electronic Nova Drive NDR-1 - Reverb: https://reverb.com/p/tc-electronic-nova-drive-ndr-1
 2. TC Electronic NDR-1 Nova Drive - What To Know Where To Buy: https://equipboard.com/items/tc-electronic-ndr-1-nova-drive
 3. TC Electronic NDR-1 Nova Drive Overdrive and Distortion Guitar Effects Pedal | Guitar Center: https://www.guitarcenter.com/TC-Electronic/NDR-1-Nova-Drive-Overdrive-and-Distortion-Guitar-Effects-Pedal-1274115028539.gc
@@ -50,6 +58,7 @@ Product type Effects pedal General Brand TC Electronic Model NDR-1 Nova Drive
 10. Tc-electronic NDR-1 Nova Drive User Manual download pdf: https://tc-electronic.manymanuals.com/musical-instruments/ndr-1-nova-drive/user-manual-5829
 
 ## Photo
+
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
 
 ## Deep research verification

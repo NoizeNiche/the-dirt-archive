@@ -1,11 +1,13 @@
 # BOSS - OD-1 OverDrive
 
 ## Surface catalog record
+
 - **Builder:** BOSS
 - **Pedal:** OD-1 OverDrive
 - **Catalog type:** Overdrive
 
 ## What this pedal is
+
 The BOSS OD-1 is the foundational BOSS overdrive design that established the company's compact overdrive format.
 
 ## Deep research verification
@@ -33,9 +35,11 @@ BOSS describes the OD 1 as using asymmetrical clipping to reproduce the response
 BOSS explicitly describes the OD 1 as the pedal that invented the now ubiquitous overdrive category.
 
 ## Sources checked
+
 - BOSS/Roland OD-1 panel documentation: https://static.roland.com/assets/media/pdf/BOX-40_eng01_W.pdf
 - BOSS Effects Pedals support: https://www.roland.com/us/products/rc_boss_effects_pedals/support/
 - Effects Database: https://www.effectsdatabase.com/model/boss/compact/od1
 
 ## Photo
+
 - **Archive status:** **Exact Photo Pending**

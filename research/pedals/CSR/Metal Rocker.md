@@ -1,6 +1,7 @@
 # CSR — Metal Rocker
 
 ## PRP identity
+
 - **Archive parent:** Metal Rocker
 - **Builder:** CSR
 - **Catalog type:** Distortion
@@ -11,18 +12,24 @@
 CSR's Metal Rocker is cataloged in the archive as a Distortion pedal.
 
 ## Colorways
+
 - No specific factory colorway information was established in the verified evidence packet.
 
 ## Versions and factory options
+
 - No distinct factory revision was established in the verified evidence packet.
 
 ## Version changes
+
 - No specific factory version changes were established in the verified evidence packet.
 
 ## Transistor
+
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
+
 ## Diode
+
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.
 
@@ -31,10 +38,12 @@ CSR's Metal Rocker is cataloged in the archive as a Distortion pedal.
 No verified pedal-specific sonic summary is currently established in the archive.
 
 ## Sources checked
+
 1. CSR Metal Rocker | Effects Database: https://www.effectsdatabase.com/model/csr/metalrocker
 2. METAL ROCKER da CSR ou METAL ZONE da BOSS?!!!!!!!! - Cifra Club: https://forum.cifraclub.com.br/forum/7/81043/
 
 ## Photo
+
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
 
 ## Deep research verification
