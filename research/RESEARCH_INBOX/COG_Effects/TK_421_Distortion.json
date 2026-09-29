@@ -4,8 +4,16 @@
   "original_builder": "COG Effects",
   "original_pedal": "TK-421 Distortion",
   "status": "VERIFIED_EVIDENCE_STAGED",
-  "independent_exact_source_count": 1,
+  "independent_exact_source_count": 2,
   "sources": [
+    {
+      "url": "https://www.effectsdatabase.com/model/cog/tk421",
+      "title": "Cog Effects TK-421 Distortion | Effects Database",
+      "h1": "Cog Effects TK-421 Distortion",
+      "excerpt": "TK-421 Distortion Published on January 14, 2016 Cog Effects distortion filter low-pass filter pedal Information Cog Effects Punch. Bite. Bark. Anger. Rage. Kill. These are words you will think of when using the TK-421 distortion. More aggressive than the Knightfall at the expense of some dynamic range, and more clarity and punch than the Tarkin while sacrificing the thickness of the fuzz, the TK-421 is a ratty guitar and bass distortion best employed when you want to leave the niceties out of it and get down to the business of killing eardrums. The aim with the TK-421 was to take an already-great pedal and bring it into the now. The famed 308 chip is absent and the circuit is tuned for greater clarity and more low-end retention. The upper-mid snarl you know and love is still there, but the noise has reduced. Smashing. Love the classic 308 and want to sub it in? No problem, the chip is socketed ready for you to experiment... The Tone control has three internally-selectable ranges to provide control over which part of your audio spectrum you want to damage the most, and the choice of clipping diodes is external for easier changes between the two to keep the range of tones broad while the pedal stays small. Dirt, Diode Selection, Tone and Range interact to provide a broad range of distortion tones on both bass and guitar 2.1mm Boss-style 9v DC input (power supply not included) Relay True Bypass Die-cast Aluminium box",
+      "host": "www.effectsdatabase.com",
+      "source_kind": "effects_database"
+    },
     {
       "url": "https://www.cogeffects.co.uk/discontinued-pedals.php",
       "title": "COG Effects",

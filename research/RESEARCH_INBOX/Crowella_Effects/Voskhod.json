@@ -1,17 +1,11 @@
 {
   "builder": "Crowella Effects",
   "pedal": "Voskhod",
+  "original_builder": "Crowella Effects",
+  "original_pedal": "Voskhod",
   "status": "VERIFIED_EVIDENCE_STAGED",
-  "independent_exact_source_count": 2,
+  "independent_exact_source_count": 1,
   "sources": [
-    {
-      "url": "https://www.rockboard.de/en/pedalPedia/Crowella-Effects/Voskhod/68977029/",
-      "title": "Voskhod by Crowella Effects | RockBoard | PedalPedia",
-      "h1": "Voskhod",
-      "excerpt": "",
-      "host": "www.rockboard.de",
-      "source_kind": "catalog_verified"
-    },
     {
       "url": "https://foundsound.com.au/products/42483",
       "title": "Crowella Effects Voskhod Bass Distortion \u2013 Found Sound",

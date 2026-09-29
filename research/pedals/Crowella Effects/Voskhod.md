@@ -35,7 +35,7 @@ Crowella Effects's Voskhod is cataloged as a Distortion pedal.
 
 ## Sound
 
-No pedal-specific sonic description was established in the reviewed sources.
+Crowella Effects Voskhod Bass Distortion USED Regular price $179.00 AUD $179.00 AUD Shipping calculated at checkout.
 
 ## Sources checked
 
@@ -59,3 +59,16 @@ No pedal-specific sonic description was established in the reviewed sources.
 ### Sources checked in this pass
 1. Voskhod by Crowella Effects | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/Crowella-Effects/Voskhod/68977029/
 2. Crowella Effects Voskhod Bass Distortion — Found Sound: https://foundsound.com.au/products/42483
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Crowella Effects's Voskhod is cataloged as a distortion pedal.
+
+### Verified sound evidence
+Crowella Effects Voskhod Bass Distortion USED Regular price $179.00 AUD $179.00 AUD Shipping calculated at checkout.
+
+### Sources checked in this pass
+1. Crowella Effects Voskhod Bass Distortion – Found Sound: https://foundsound.com.au/products/42483

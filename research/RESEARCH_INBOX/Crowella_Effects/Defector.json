@@ -1,25 +1,11 @@
 {
   "builder": "Crowella Effects",
   "pedal": "Defector",
+  "original_builder": "Crowella Effects",
+  "original_pedal": "Defector",
   "status": "VERIFIED_EVIDENCE_STAGED",
-  "independent_exact_source_count": 3,
+  "independent_exact_source_count": 1,
   "sources": [
-    {
-      "url": "https://www.rockboard.de/en/pedalPedia/Crowella-Effects/Defector/68977027/",
-      "title": "Defector by Crowella Effects | RockBoard | PedalPedia",
-      "h1": "Defector",
-      "excerpt": "",
-      "host": "www.rockboard.de",
-      "source_kind": "catalog_verified"
-    },
-    {
-      "url": "https://www.facebook.com/crowellaeffects/posts/update-timedefector-pedals-expected-to-be-sent-out-on-the-28th-may-be-a-day-or-t/2476399189061525/",
-      "title": "Update Time! Defector pedals -... - Crowella Effects",
-      "h1": "",
-      "excerpt": "",
-      "host": "www.facebook.com",
-      "source_kind": "catalog_verified"
-    },
     {
       "url": "https://soundcloud.com/adamcrowell1990/defector-3",
       "title": "Stream Defector 3 by Crowella | Listen online for free on SoundCloud",
