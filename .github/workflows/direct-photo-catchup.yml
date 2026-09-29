@@ -6,6 +6,7 @@ on:
     - cron: "*/15 * * * *"
   push:
     paths:
+      - research/PHOTO_FAST_KICK
       - research/PHOTO_DIRECT_IMAGE_OVERRIDES.csv
       - scripts/cache-curated-direct-photos.py
       - scripts/apply-photo-source-overrides.py
