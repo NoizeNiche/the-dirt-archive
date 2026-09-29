@@ -40,5 +40,14 @@ jobs:
           node-version: 20
       - name: Validate archive
         run: python scripts/validate-archive.py
+      - name: Normalize legacy WebP assets
+        run: |
+          python - <<'PY'
+          import runpy
+
+          module = runpy.run_path("scripts/cache-pedal-images.py")
+          normalized = module["normalize_mislabelled_webp_assets"]()
+          print(f"Normalized {normalized} legacy image assets.")
+          PY
       - name: Verify photo state
         run: python scripts/verify-photo-state.py
