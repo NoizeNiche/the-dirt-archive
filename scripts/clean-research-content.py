@@ -22,6 +22,13 @@ CODE_MARKERS = (
     "<div ", "</div", "<section ", "</section", "<nav ", "</nav",
     "<header ", "</header", "<footer ", "</footer",
 )
+AMP_REFERENCE_TERMS = re.compile(
+    r"\b(?:AC(?:10|15|30|50|100)|JCM\d{2,3}|Twin Reverb|Deluxe Reverb|Big Muff|"
+    r"Tube Screamer|Fender|Vox|Marshall|Matchless|Supro|Dumble|Hiwatt|Orange|"
+    r"Blackface|Tweed|Silverface|Boss Hyper Fuzz)\b",
+    re.I,
+)
+
 COMMERCE_UI = (
     "add to cart", "add to basket", "buy now", "shopping cart",
     "product variants", "view cart", "checkout", "sold out",
@@ -159,11 +166,25 @@ def clean_file(path: Path) -> bool:
         if cleaned != line:
             line = cleaned
             changed = True
-        if section == "transistor" and re.fullmatch(
-            r"-\s*[-–—]?\s*(?:ac10|ac15|ac30|ac50|ac100|jcm\d{2,3})\.?\s*",
-            stripped, re.I):
-            changed = True
-            continue
+        if section == "transistor":
+            # Amp/model references belong in sound or amp-reference context,
+            # never in the transistor taxonomy. Preserve real device terms.
+            stripped_amp_clean = AMP_REFERENCE_TERMS.sub("", line)
+            stripped_amp_clean = re.sub(r"\s{2,}", " ", stripped_amp_clean)
+            stripped_amp_clean = re.sub(r"\s*[,;:]\s*([,;])", r"\1", stripped_amp_clean)
+            stripped_amp_clean = re.sub(r"\s*,\s*([.)])", r"\1", stripped_amp_clean).strip()
+            if stripped_amp_clean != line:
+                line = stripped_amp_clean
+                stripped = line.strip()
+                changed = True
+            if not stripped or re.fullmatch(r"[-*]\s*(?:[-–—,;:/]|and|or)*\s*", stripped, re.I):
+                changed = True
+                continue
+            if re.fullmatch(
+                r"-\s*[-–—]?\s*(?:ac10|ac15|ac30|ac50|ac100|jcm\d{2,3})\.?\s*",
+                stripped, re.I):
+                changed = True
+                continue
         lower = line.lower()
         if ("view more at a glance" in lower or "current price is usd" in lower
             or "has nrtl listing certification" in lower
