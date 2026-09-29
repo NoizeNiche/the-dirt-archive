@@ -60,7 +60,7 @@ def blocked_photo_url(value: str, rules: list[tuple[str,str]]) -> bool:
     return False
 
 def key(builder: str, pedal: str) -> tuple[str, str]:
-    return builder.strip(), pedal.strip()
+    return str(builder or "").strip(), str(pedal or "").strip()
 
 
 def load_identity_quarantine() -> dict[tuple[str, str], set[str]]:
