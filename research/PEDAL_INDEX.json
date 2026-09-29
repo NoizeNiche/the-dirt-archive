@@ -46014,13 +46014,15 @@
       "research_record": "./research/pedals/Maxon / Nisshin Onpa/OD820 Overdrive Pro+.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://maxonfx.com/collections/nine-series/overdrive",
+      "image_source_page": "https://www.ebay.co.uk/itm/296654855473",
       "image_source_pages": [
         "https://maxonfx.com/collections/nine-series/overdrive"
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1116
+      "image_source_priority": 1116,
+      "image_source_url": "https://i.ebayimg.com/images/g/5T4AAOSwUodmzcRB/s-l1200.jpg",
+      "image": "./assets/pedals/maxon-nisshin-onpa/od820-overdrive-pro/primary.webp"
     },
     {
       "company": "Maxon / Nisshin Onpa",
@@ -46118,13 +46120,15 @@
       "research_record": "./research/pedals/Maxon / Nisshin Onpa/SD-9 Sonic Distortion / Overdrive.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://maxonfx.com/collections/nine-series/distortion",
+      "image_source_page": "https://www.thomannmusic.com/maxon_sd9_sonic_distortion_verzerrer.htm",
       "image_source_pages": [
         "https://maxonfx.com/collections/nine-series/distortion"
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1127
+      "image_source_priority": 1127,
+      "image_source_url": "https://thumbs.static-thomann.de/thumb//bdbmagic/pics/prod/161663.jpg",
+      "image": "./assets/pedals/maxon-nisshin-onpa/sd-9-sonic-distortion-overdrive/primary.webp"
     },
     {
       "company": "Maxon / Nisshin Onpa",
