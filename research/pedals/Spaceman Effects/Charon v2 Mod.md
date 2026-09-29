@@ -7,52 +7,36 @@
 - **Identity:** Spaceman Effects's Charon v2 Mod.
 
 ## What this pedal is
-Spaceman Effects's Charon v2 Mod is cataloged as a Fuzz pedal.
+Charon v2 Mod is a germanium/silicon fuzz from Spaceman Effects. The checked manufacturer material identifies it as a modified Charon design with both germanium and silicon fuzz characteristics.
 
 ## Colorways
-- Edition (color): Silver Gold Buy Now
+- Documented finishes include **Silver** and **Gold**.
+- Finish editions are treated separately from circuit revisions.
 
 ## Versions and factory options
-- The verified evidence references: v2.
-- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+- **v2 Mod** is the documented model designation.
+- Germanium/silicon fuzz architecture.
+- Spaceman's small-batch hand-built construction.
+- Exact complete control and component transcription is not asserted where the available source material does not reliably preserve it.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- The record is specifically for **Charon v2 Mod**.
+- The checked evidence also references later Charon version metadata, but does not establish a complete numbered circuit chronology.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
+- Exact production semiconductor details were not established.
 - **Exact transistor/device:** Unknown.
 
 ## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- The model is documented as a germanium/silicon fuzz, but exact clipping-diode part numbers were not established.
 - **Exact part:** Unknown.
 
 ## Sound
-The verified evidence packet did not contain enough pedal-specific sonic description to make a more detailed sound summary without adding unsupported interpretation.
+The Charon v2 Mod is built for aggressive fuzz textures with the differing character of germanium and silicon responses represented in the circuit. It is intentionally more specialized and saturated than a conventional low-gain drive.
 
 ## Sources checked
-1. Charon v2 Mod: GERMANIUM + SILICON FUZZ - Spaceman Effects American Express Apple Pay Diners Club Discover Google Pay Mastercard PayPal Visa: https://spacemaneffects.com/products/charon-v2-mod
-2. Charon v2 MOD by Spaceman Effects | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/Spaceman-Effects/Charon-v2-MOD/8461094363/
+1. Spaceman Effects - Charon v2 Mod: https://spacemaneffects.com/products/charon-v2-mod
+2. RockBoard - Spaceman Charon v2 MOD: https://www.rockboard.de/en/pedalPedia/Spaceman-Effects/Charon-v2-MOD/8461094363/
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
-
-## Deep research verification
-
-This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
-
-### Verified description
-Spaceman Effects's Charon v2 Mod is cataloged as a fuzz pedal.
-
-### Verified color/finish evidence
-- Edition (color): Silver Gold Buy Now
-
-### Verified version references
-- The evidence references: v2, v4.
-
-### Sources checked in this pass
-1. Charon v2 Mod: GERMANIUM + SILICON FUZZ - Spaceman Effects American Express Apple Pay Diners Club Discover Google Pay Mastercard PayPal Visa: https://spacemaneffects.com/products/charon-v2-mod
-2. Charon v2 MOD by Spaceman Effects | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/Spaceman-Effects/Charon-v2-MOD/8461094363/
-3. JavaScript is not available.: https://x.com/intent/tweet?text=Charon%20v2%20Mod:%20Ge+Si%20Fuzz&url=https://spacemaneffects.com/products/charon-v2-mod
-4. Facebook: https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fshare_channel%2F%3Ftype%3Dreshare%26link%3Dhttps%253A%252F%252Fspacemaneffects.com%252Fproducts%252Fcharon-v2-mod%26app_id%3D966242223397117%26source_surface%3Dexternal_reshare%26display%26hashtag
-5. Pinterest: https://www.pinterest.com/pin/create/button/?url=https://spacemaneffects.com/products/charon-v2-mod&description=Charon%20v2%20Mod:%20Ge+Si%20Fuzz&media=https://spacemaneffects.com/cdn/shop/files/Silver-Charon1_600x.jpg?v=1757610966
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.
