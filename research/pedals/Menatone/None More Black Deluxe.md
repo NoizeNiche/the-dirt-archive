@@ -36,7 +36,7 @@ Top Boost in a Can Wreck'T Fish Factory MenaWatt PiG The Dirty Blonde MINI Red S
 ## Sources checked
 1. None More Black Deluxe | menatone: https://www.menatone.com/none-more-black-deluxe
 2. Menatone None More Black Deluxe Overdrive Distortion Guitar Effect Ped — Truetone Music: https://www.truetonemusic.com/products/menatone-none-more-black-overdrive-distortion-guitar-effect-pedal
-3. Menatone None More Black Deluxe Headphones recommended www.menatone.com menatone #menatonecustomshop #menatonefishfactory #menatoneeffects #menatonepedals #guitar #guitareffectspedals #pedals #fxpedals #gearpassion #gearjunkie #gearporn #fenderguitar #gibsonlespaul #handmade #madeintheusa #knowyourtone #fuzz #overdrive #distortion #pedalporn #pedalpix | Menatone: https://www.facebook.com/100063669278460/videos/menatone-none-more-black-deluxe-headphones-recommendedwwwmenatonecom-menatonemen/2112726892428171/
+3. facebook.com: https://www.facebook.com/100063669278460/videos/menatone-none-more-black-deluxe-headphones-recommendedwwwmenatonecom-menatonemen/2112726892428171/
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

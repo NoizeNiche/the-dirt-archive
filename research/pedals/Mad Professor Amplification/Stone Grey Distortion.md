@@ -31,7 +31,7 @@ Our Stone Grey Distortion is actually very versatile pedal.
 Works really well as an overdrive and at low gain levels #guitartone #boutiquepedals #guitargear #pedalboard #stonegreydistortion #gibsonlespaul #gibson #madprofessorpedals @karhumarko
 
 ## Sources checked
-1. Our Stone Grey Distortion is actually very versatile pedal. Works really well as an overdrive and at low gain levels #guitartone #boutiquepedals #guitargear #pedalboard #stonegreydistortion #gibsonlespaul #gibson #madprofessorpedals @karhumarko | Mad Professor Amplification: https://www.facebook.com/MadProfessorAmplification/videos/our-stone-grey-distortion-is-actually-very-versatile-pedal-works-really-well-as-/322154538366950/
+1. facebook.com: https://www.facebook.com/MadProfessorAmplification/videos/our-stone-grey-distortion-is-actually-very-versatile-pedal-works-really-well-as-/322154538366950/
 2. MAD PROFESSOR Stone Grey Distortion/FAC (Mad Professor) Distortion: https://global.ikebe-gakki.com/products/196607
 
 ## Photo

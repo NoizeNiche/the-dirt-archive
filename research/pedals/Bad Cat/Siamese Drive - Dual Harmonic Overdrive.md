@@ -53,7 +53,7 @@ Effects Database describes the two channels as covering transparent clean boost 
 ### Sources checked in this pass
 
 1. Effects Database — Bad Cat Siamese Drive - Dual Harmonic Overdrive: https://www.effectsdatabase.com/model/badcat/siamesedrive
-2. Delicious Audio — Bad Cat Double Drive (used as independent context for Bad Cat's dual/stackable overdrive architecture, not as evidence for exact component identities): https://delicious-audio.com/bad-cat-double-drive-overdrive/
+2. delicious-audio.com: https://delicious-audio.com/bad-cat-double-drive-overdrive/
 
 ## Photo
 - **Archive status:** **Exact Photo Pending**

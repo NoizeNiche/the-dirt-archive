@@ -50,6 +50,6 @@ Published on July 18, 2008 Coron last series distortion pedal picture by Electri
 
 ### Sources checked in this pass
 1. Coron HD-520 Heavy Distortion | Effects Database: https://www.effectsdatabase.com/model/coron/last/hd520
-2. Coron HD-520 Heavy Distortion made in Japan - same as the HM-520 Heavy – Electric Mister American Express Apple Pay Bancontact BLIK Google Pay iDEAL Wero Klarna Maestro Mastercard MobilePay PayPal Shop Pay Union Pay Visa: https://electricmister.com/products/coron-hd-520-heavy-distortion-made-in-japan-same-as-the-hm-520-heavy-metal-turbo
+2. electricmister.com: https://electricmister.com/products/coron-hd-520-heavy-distortion-made-in-japan-same-as-the-hm-520-heavy-metal-turbo
 3. Coron HD-520 Heavy Distortion – Made in Japan – Pedal mit OVP in Duisburg - Duisburg-Mitte | kleinanzeigen.de: https://www.kleinanzeigen.de/s-anzeige/coron-hd-520-heavy-distortion-made-in-japan-pedal-mit-ovp/3080184814-74-2149
 4. JavaScript is not available.: https://x.com/intent/tweet?text=Schaut+mal%2C+was+ich+bei+%23Kleinanzeigen+gefunden+habe.+Wie+findet+ihr+das%3F&url=https%3A%2F%2Fwww.kleinanzeigen.de%2Fs-anzeige%2Fcoron-hd-520-heavy-distortion-made-in-japan-pedal-mit-ovp%2F3080184814-74-2149%3Futm_source%3Dtwitter%26utm_medium%3Dsocial%26utm_campaign%3Dsocialbuttons%26utm_content%3Ddesktop

@@ -57,4 +57,4 @@ Contact Me The Super Fuzz Page Monday, March 11, 2024 Claybridge (pre) Fuzzmaste
 
 ### Sources checked in this pass
 1. Tone Machines Blog: Claybridge (pre) Fuzzmaster!: https://www.tonemachinesblog.com/2024/03/claybridge-pre-fuzzmaster.html
-2. https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSy-yuv1TVulOmZriPyOKDxPeidKcZeDpjaP-heR8G0lGqWXa0cUnuolODTzj8XfyWycVZLurgZpqy6JMwJXcCdgObFYSWeSGRTlmQUaSpXjwNuHpHTij3WpuZCBKUYjCp37EMRwbbOUNdFE5J6i_zyJcQS7NvgiaFR6bvEubEqaU7oWSz92cIHHC62hU/s1514/Claybridge%20Fuzzmaster%20MKII%206.jpg: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSy-yuv1TVulOmZriPyOKDxPeidKcZeDpjaP-heR8G0lGqWXa0cUnuolODTzj8XfyWycVZLurgZpqy6JMwJXcCdgObFYSWeSGRTlmQUaSpXjwNuHpHTij3WpuZCBKUYjCp37EMRwbbOUNdFE5J6i_zyJcQS7NvgiaFR6bvEubEqaU7oWSz92cIHHC62hU/s1514/Claybridge%20Fuzzmaster%20MKII%206.jpg
+2. blogger.googleusercontent.com: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSy-yuv1TVulOmZriPyOKDxPeidKcZeDpjaP-heR8G0lGqWXa0cUnuolODTzj8XfyWycVZLurgZpqy6JMwJXcCdgObFYSWeSGRTlmQUaSpXjwNuHpHTij3WpuZCBKUYjCp37EMRwbbOUNdFE5J6i_zyJcQS7NvgiaFR6bvEubEqaU7oWSz92cIHHC62hU/s1514/Claybridge%20Fuzzmaster%20MKII%206.jpg

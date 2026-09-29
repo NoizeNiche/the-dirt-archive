@@ -32,7 +32,7 @@ Its launch fills a critical gap in the market: no other production pedal offers 
 
 ## Sources checked
 1. Stomp Under Foot Introduces The Dirty Rooster: A Deep Dive Into the New Analog Overdrive Pedal for Piano, Keyboard, and Synth Players | GearStrings: https://gearstrings.com/piano/stomp-under-foot-introduces-the-dirty-rooster
-2. JUMBO DIRTY ROOSTER VINTAGE MINI / LIMITED EDITION – Stomp Under Foot American Express Apple Pay Bancontact Diners Club Discover Google Pay Mastercard MB WAY PayPal Shop Pay Visa: https://stompunderfoot.com/products/jumbo-dirty-rooster
+2. stompunderfoot.com: https://stompunderfoot.com/products/jumbo-dirty-rooster
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
@@ -54,4 +54,4 @@ Why Keyboard Players Needed Their Own Overdrive For decades, keyboardists have b
 
 ### Sources checked in this pass
 1. Stomp Under Foot Introduces The Dirty Rooster: A Deep Dive Into the New Analog Overdrive Pedal for Piano, Keyboard, and Synth Players | GearStrings: https://gearstrings.com/piano/stomp-under-foot-introduces-the-dirty-rooster
-2. JUMBO DIRTY ROOSTER VINTAGE MINI / LIMITED EDITION – Stomp Under Foot American Express Apple Pay Bancontact Diners Club Discover Google Pay Mastercard MB WAY PayPal Shop Pay Visa: https://stompunderfoot.com/products/jumbo-dirty-rooster
+2. stompunderfoot.com: https://stompunderfoot.com/products/jumbo-dirty-rooster

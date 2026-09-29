@@ -32,7 +32,7 @@ Rhythmically self-oscillation chip-based sicko fuzz!
 
 ## Sources checked
 1. Dwarfcraft Devices The Secret Destoryer | Effects Database: https://www.effectsdatabase.com/model/dwarfcraft/secretdestroyer
-2. Dwarfcraft Devices Secret Destroyer - chip-based oscillating fuzz pedal! - смотреть видео онлайн от «Тайные миры знаменитостей » в хорошем качестве, бесплатно опубликованное 17 июля 2024 года в 1:18:20 00:04:34.: https://rutube.ru/video/f83da8532db349d96cd9c63a751a37a8/
+2. rutube.ru: https://rutube.ru/video/f83da8532db349d96cd9c63a751a37a8/
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
@@ -51,4 +51,4 @@ Video Date ▼▲ Maker ▼▲ Video ▼▲ Time ▼▲ 2011-07-19 9520575 Dwarf
 
 ### Sources checked in this pass
 1. Dwarfcraft Devices The Secret Destoryer | Effects Database: https://www.effectsdatabase.com/model/dwarfcraft/secretdestroyer
-2. Dwarfcraft Devices Secret Destroyer - chip-based oscillating fuzz pedal! - смотреть видео онлайн от «Тайные миры знаменитостей » в хорошем качестве, бесплатно опубликованное 17 июля 2024 года в 1:18:20 00:04:34.: https://rutube.ru/video/f83da8532db349d96cd9c63a751a37a8/
+2. rutube.ru: https://rutube.ru/video/f83da8532db349d96cd9c63a751a37a8/

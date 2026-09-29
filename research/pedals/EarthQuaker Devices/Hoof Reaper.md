@@ -33,7 +33,7 @@ Fuzz: Controls the sustain and nature 7.
 
 ## Sources checked
 1. Hoof Reaper Double Fuzz with Octave Up — EarthQuaker Devices: https://www.earthquakerdevices.com/hoof-reaper
-2. EarthQuaker Devices Hoof Reaper V2 Effects Pedal | Guitar Center Gear Card Mobile Gift Card Phone Facebook X YouTube Instagram TikTok Threads Facebook X YouTube Instagram TikTok Threads: https://www.guitarcenter.com/EarthQuaker-Devices/Hoof-Reaper-V2-Effects-Pedal-1500000169977.gc
+2. Guitar Center: https://www.guitarcenter.com/EarthQuaker-Devices/Hoof-Reaper-V2-Effects-Pedal-1500000169977.gc
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

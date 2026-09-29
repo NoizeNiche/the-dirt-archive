@@ -31,5 +31,5 @@ Steve Vai wanted his Legacy tube tone in a format he could pack in a carry-on, s
 
 ### Sources checked in this pass
 1. Carvin VLD1 Steve Vai Legacy Drive Preamp | Effects Database: https://www.effectsdatabase.com/model/carvin/vld1
-2. https://shopee.tw/Carvin-VLD1-Steve-Vai-Legacy-Drive-Preamp-%E7%9C%9F%E7%A9%BA%E7%AE%A1-%E7%A0%B4%E9%9F%B3-%E6%95%88%E6%9E%9C%E5%99%A8-%E5%94%90%E5%B0%BC%E6%A8%82%E5%99%A8--i.163056973.2860437346: https://shopee.tw/Carvin-VLD1-Steve-Vai-Legacy-Drive-Preamp-%E7%9C%9F%E7%A9%BA%E7%AE%A1-%E7%A0%B4%E9%9F%B3-%E6%95%88%E6%9E%9C%E5%99%A8-%E5%94%90%E5%B0%BC%E6%A8%82%E5%99%A8--i.163056973.2860437346
+2. shopee.tw: https://shopee.tw/Carvin-VLD1-Steve-Vai-Legacy-Drive-Preamp-%E7%9C%9F%E7%A9%BA%E7%AE%A1-%E7%A0%B4%E9%9F%B3-%E6%95%88%E6%9E%9C%E5%99%A8-%E5%94%90%E5%B0%BC%E6%A8%82%E5%99%A8--i.163056973.2860437346
 3. Carvin VLD1 Steve Vai Legacy Drive Preamp Guitar Pedal: https://www.u-buy.com.au/product/2C6HCCT6-carvin-amplifiers-vld1-steve-vai-legacy-drive-tube-preamp-guitar-pedal

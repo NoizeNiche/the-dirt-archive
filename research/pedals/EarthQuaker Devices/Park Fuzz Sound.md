@@ -32,7 +32,7 @@ Treble/Bass: This is the tone control, thicker tones to the right, brighter to t
 
 ## Sources checked
 1. Park Fuzz Sound Vintage Germanium Fuzz Tone — EarthQuaker Devices: https://www.earthquakerdevices.com/park-fuzz-sound
-2. EarthQuaker Devices Park Fuzz Sound Vintage Tone Guitar Effects Pedal | Guitar Center Gear Card Mobile Gift Card Phone Facebook X YouTube Instagram TikTok Threads Facebook X YouTube Instagram TikTok Threads: https://www.guitarcenter.com/EarthQuaker-Devices/Park-Fuzz-Vintage-Tone-Guitar-Effects-Pedal-1421336339406.gc
+2. Guitar Center: https://www.guitarcenter.com/EarthQuaker-Devices/Park-Fuzz-Vintage-Tone-Guitar-Effects-Pedal-1421336339406.gc
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

@@ -32,7 +32,7 @@ The Way Huge Smalls Stone Burner Sub Atomic Fuzz will put you in touch with your
 
 ## Sources checked
 1. WAY HUGE® SMALLS™ STONE BURNER™ SUB ATOMIC FUZZ: https://www.jimdunlop.com/way-huge-smalls-stone-burner-sub-atomic-fuzz/
-2. Way Huge Electronics Smalls Stone Burner Sub Atomic Fuzz Effects Pedal Black | Guitar Center Gear Card Mobile Gift Card Phone Facebook X YouTube Instagram TikTok Threads Facebook X YouTube Instagram TikTok Threads: https://www.guitarcenter.com/Way-Huge-Electronics/Smalls-Stone-Burner-Sub-Atomic-Fuzz-Effects-Pedal-Black-1500000410173.gc
+2. Guitar Center: https://www.guitarcenter.com/Way-Huge-Electronics/Smalls-Stone-Burner-Sub-Atomic-Fuzz-Effects-Pedal-Black-1500000410173.gc
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
@@ -51,5 +51,5 @@ The Way Huge Smalls Stone Burner Sub Atomic Fuzz will put you in touch with your
 
 ### Sources checked in this pass
 1. WAY HUGE® SMALLS™ STONE BURNER™ SUB ATOMIC FUZZ: https://www.jimdunlop.com/way-huge-smalls-stone-burner-sub-atomic-fuzz/
-2. Way Huge Electronics Smalls Stone Burner Sub Atomic Fuzz Effects Pedal Black | Guitar Center Gear Card Mobile Gift Card Phone Facebook X YouTube Instagram TikTok Threads Facebook X YouTube Instagram TikTok Threads: https://www.guitarcenter.com/Way-Huge-Electronics/Smalls-Stone-Burner-Sub-Atomic-Fuzz-Effects-Pedal-Black-1500000410173.gc
+2. Guitar Center: https://www.guitarcenter.com/Way-Huge-Electronics/Smalls-Stone-Burner-Sub-Atomic-Fuzz-Effects-Pedal-Black-1500000410173.gc
 3. catalog/override source: https://reverb.com/item/94606135-way-huge-wm81-smalls-stone-burner-sub-atomic-fuzz-2023-present-brown-orange

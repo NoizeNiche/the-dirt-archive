@@ -58,4 +58,4 @@ not by manufacturer Date ▼▲ Maker ▼▲ Video ▼▲ Time ▼▲ 2015-11-21
 ### Sources checked in this pass
 1. Crews Maniac Sound DIS-01 Distortion | Effects Database: https://www.effectsdatabase.com/model/crews/distortion
 2. Stream Crews Maniac Sound DIS-01 Distortion Demo #1 by Tokyo CrewsManiacSound | Listen online for free on SoundCloud: https://soundcloud.com/tokyo-crewsmaniacsound/crews-maniac-sound-dis-01-distortion-demo-1
-3. Crews Maniac Sound DIS-01 DISTORTIONb~[WbNhKEY s pKCh [U[ J[g  Twitter Facebook Youtube PAGE TOP: https://www.musicland.co.jp/fs/musiclandkey/crews-dis-01
+3. musicland.co.jp: https://www.musicland.co.jp/fs/musiclandkey/crews-dis-01

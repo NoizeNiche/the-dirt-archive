@@ -34,7 +34,7 @@ The Xotic Effects SL Drive is a premium, hand-wired overdrive pedal released in 
 
 ## Sources checked
 1. Xotic Effects SL Drive Review - Premier Guitar: https://www.premierguitar.com/gear/xotic-effects-sl-drive-review
-2. Xotic SL Drive Distortion Guitar Effects Pedal | Guitar Center Gear Card Mobile Gift Card Phone Facebook X YouTube Instagram TikTok Threads Facebook X YouTube Instagram TikTok Threads: https://www.guitarcenter.com/Xotic/SL-Drive-Distortion-Guitar-Effects-Pedal-1371656245211.gc
+2. Guitar Center: https://www.guitarcenter.com/Xotic/SL-Drive-Distortion-Guitar-Effects-Pedal-1371656245211.gc
 3. Xotic Effects SL Drive Review: The Boutique Overdrive That Redefined Dynamic Response | GearStrings: https://gearstrings.com/gear-reviews/xotic-effects-sl-drive-review
 4. Xotic Effects SL Drive Distortion Review (2025): https://www.awkwardsound.com/xotic-effects-sl-drive-distortion-review/
 5. Xotic Effects SL Drive: https://oxbowaudio.com/products/xotic-effects-sl-drive

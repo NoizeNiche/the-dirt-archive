@@ -37,7 +37,7 @@ The Law Bender goes from light overdrive to full blown nastiness.
 3. The Law Bender Deluxe | menatone: https://www.menatone.com/product-page/the-law-bender
 4. Menatone | The Law Bender Fuzz - Sugaree Licks: https://sugareelicks.com/pedal/menatone-the-law-bender/
 5. Menatone Law Bender Deluxe Silicone AND Germanium Fuzz Guitar Pedal — Truetone Music: https://www.truetonemusic.com/products/menatone-law-bender-deluxe-silicone-and-germanium-fuzz-guitar-pedal
-6. Menatone Law Bender Deluxe Silicone AND Germanium Fuzz Guitar Pedal - Elegant Classical Guitars Crafted for Rich Tone, Smooth Playability, and Lasting Performance: https://www.typicalguitars.com/product/menatone-law-bender-deluxe-silicone-and-germanium-fuzz-guitar-pedal/
+6. typicalguitars.com: https://www.typicalguitars.com/product/menatone-law-bender-deluxe-silicone-and-germanium-fuzz-guitar-pedal/
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

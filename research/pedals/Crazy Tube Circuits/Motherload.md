@@ -63,7 +63,7 @@ Its measured frequency response spans 22Hz–19.8kHz (±3dB), with a pronounced 
 
 ### Sources checked in this pass
 1. Motherload — Crazy Tube Circuits: https://crazytubecircuits.com/motherload
-2. Crazy Tube Circuits Motherload American Express Apple Pay Bancontact Diners Club Discover Google Pay iDEAL Wero Mastercard PayPal Shop Pay Visa American Express Apple Pay Bancontact Diners Club Discover Google Pay iDEAL Wero Mastercard PayPal Shop Pay Visa: https://aifineguitars.com/products/crazy-tube-circuits-motherload
+2. aifineguitars.com: https://aifineguitars.com/products/crazy-tube-circuits-motherload
 3. Crazy Tube Circuits Motherload Drive | Delicious Audio: https://delicious-audio.com/crazy-tube-circuits-motherload/
 4. Crazy Tube Circuits Motherload: A Deep Technical Analysis for Guitarists and Tone Engineers | GearStrings: https://gearstrings.com/practice-tips/crazy-tube-circuits-motherload
 5. Crazy Tube Circuits Motherload – United States small facebook email pinterest whatsapp: https://www.thomannmusic.com/crazy_tube_circuits_motherload.htm

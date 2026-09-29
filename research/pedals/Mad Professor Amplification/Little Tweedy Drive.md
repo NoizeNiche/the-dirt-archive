@@ -31,7 +31,7 @@ Little Tweedy Drive pedal is based on the two prime 1958 Tweed Deluxe amps from 
 It has the tone, the dynamics and the feel of a real Tweed Deluxe.
 
 ## Sources checked
-1. Our most amplike pedal ever!! Little Tweedy Drive pedal is based on the two prime 1958 Tweed Deluxe amps from our collection. It has the tone, the dynamics and the feel of a real Tweed Deluxe. See it live at NAMM booth #5844 | Mad Professor Amplification: https://www.facebook.com/MadProfessorAmplification/videos/mad-professor-little-tweedy-drive/10159852727195290/
+1. facebook.com: https://www.facebook.com/MadProfessorAmplification/videos/mad-professor-little-tweedy-drive/10159852727195290/
 2. Mad Professor Amplification Little Tweedy Drive images, videos, reviews ...: https://rigshare.com/products/little-tweedy-drive-500721
 
 ## Photo

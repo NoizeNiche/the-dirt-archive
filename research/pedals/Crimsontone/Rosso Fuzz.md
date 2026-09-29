@@ -59,4 +59,4 @@ The Rosso is a silicon-based fuzz pedal, that can be used doubly as an overdrive
 
 ### Sources checked in this pass
 1. Crimsontone Rosso Fuzz - Pedal of the Day: https://www.pedal-of-the-day.com/2015/11/13/crimsontone-rosso-fuzz/
-2. …and finally, we have the Rosso Fuzz. All four pedals are available now in the store. Full demos are up on our YouTube page. #fuzzpedal #overdrivepedal #crimsontone #knowyourtone #gearlife #gearpage #premierguitar #vintageguitar #1590B #compactpedals #geartalk #geartalkpnw | Crimsontone Amplifiers: https://www.facebook.com/crimsontone/videos/and-finally-we-have-the-rosso-fuzz-all-four-pedals-are-available-now-in-the-stor/854875744544633/
+2. facebook.com: https://www.facebook.com/crimsontone/videos/and-finally-we-have-the-rosso-fuzz-all-four-pedals-are-available-now-in-the-stor/854875744544633/

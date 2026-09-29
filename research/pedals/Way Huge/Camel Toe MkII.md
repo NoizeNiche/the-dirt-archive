@@ -34,7 +34,7 @@ I wanted to go for a dual overdrive/distortion pedal of some sort.
 Something different to all the Klons, Tube Screamers, Blues Breakers, ODR1s, and the various pedals trying to sound like a Dumble (well, one of them).
 
 ## Sources checked
-1. Way Huge Camel Toe MKII Explained: Two Overdrive Pedals In One, With A Twist Expand Expand Toggle Menu X Instagram YouTube Instagram Facebook X RSS Expand Expand: https://toneisland.com/way-huge-camel-toe-explained/
+1. toneisland.com: https://toneisland.com/way-huge-camel-toe-explained/
 2. Way Huge Camel Toe Triple Overdrive MkII – Controls, SubPlexes & Rig Builder | PedalPlex: https://pedalplex.com/gear/way-huge-camel-toe-triple-overdrive-mkii
 
 ## Photo
@@ -61,7 +61,7 @@ Check eBay Prices A quick overview of the Camel Toe Triple Overdrive (MK II) Pin
 The Camel Toe Mk II is a dual overdrive and distortion pedal that combines two popular Way Huge Circuits – the Green Rhino and the Red Llama.
 
 ### Sources checked in this pass
-1. Way Huge Camel Toe MKII Explained: Two Overdrive Pedals In One, With A Twist Expand Expand Toggle Menu X Instagram YouTube Instagram Facebook X RSS Expand Expand: https://toneisland.com/way-huge-camel-toe-explained/
+1. toneisland.com: https://toneisland.com/way-huge-camel-toe-explained/
 2. catalog/override source: https://reverb.com/item/93966981-way-huge-whe209-camel-toe-mkii-triple-overdrive
 3. Pinterest: https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Ftoneisland.com%2Fway-huge-camel-toe-explained%2F&media=https://toneisland.com/wp-content/uploads/Way-Huge-Camel-Toe-MKII-Explained-Social.webp&description=Way%20Huge%20Camel%20Toe%20MKII%20Explained%3A%20Two%20Overdrive%20Pedals%20In%20One%2C%20With%20A%20Twist
 4. Way Huge Camel Toe Triple Overdrive MkII – Controls, SubPlexes & Rig Builder | PedalPlex: https://pedalplex.com/gear/way-huge-camel-toe-triple-overdrive-mkii

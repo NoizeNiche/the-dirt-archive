@@ -39,7 +39,7 @@ And then in true MAE fashion, I then took the boost section and completely recon
 4. Mask Audio Electronics Civil Math - musicdreamshop.com: https://www.musicdreamshop.com/product/mask-audio-electronics-civil-math/
 5. Mask Audio Electronics Civil Math | Axe... And You Shall Receive: https://www.axeandyoushallreceive.com/product/mask-audio-electronics-civil-math
 6. Mask Audio Electronics Civil Math - What To Know & Where To Buy: https://equipboard.com/items/mask-audio-electronics-civil-math
-7. Mask Audio Electronics Civil Math Color Shift Acid Fuzz Pedal (2024 Chicago Boutique Effects Pedal Bonanza Special Edition) | Effects and Pedals / Fuzz | musicquipments.com: https://www.musicquipments.com/product/mask-audio-electronics-civil-math-color-shift-acid-fuzz-pedal-2024-chicago-boutique-effects-pedal-bonanza-special-edition/
+7. musicquipments.com: https://www.musicquipments.com/product/mask-audio-electronics-civil-math-color-shift-acid-fuzz-pedal-2024-chicago-boutique-effects-pedal-bonanza-special-edition/
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

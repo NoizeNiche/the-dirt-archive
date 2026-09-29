@@ -31,7 +31,7 @@ Very closely related to the Tall Font BM’s, the Civil War’s have a bit darke
 
 ## Sources checked
 1. Box of War Small Foot — Wren and Cuff: https://www.wrenandcuff.com/products/small-foot-box-of-war
-2. Wren And Cuff Box of War Small Foot Fuzz Effects Pedal | Guitar Center Gear Card Mobile Gift Card Phone Facebook X YouTube Instagram TikTok Threads Facebook X YouTube Instagram TikTok Threads: https://www.guitarcenter.com/Wren-And-Cuff/Box-of-War-Small-Foot-Fuzz-Effects-Pedal-1500000279253.gc
+2. Guitar Center: https://www.guitarcenter.com/Wren-And-Cuff/Box-of-War-Small-Foot-Fuzz-Effects-Pedal-1500000279253.gc
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
@@ -48,4 +48,4 @@ Very closely related to the Tall Font BM’s, the Civil War’s have a bit darke
 
 ### Sources checked in this pass
 1. Box of War Small Foot — Wren and Cuff: https://www.wrenandcuff.com/products/small-foot-box-of-war
-2. Wren And Cuff Box of War Small Foot Fuzz Effects Pedal | Guitar Center Gear Card Mobile Gift Card Phone Facebook X YouTube Instagram TikTok Threads Facebook X YouTube Instagram TikTok Threads: https://www.guitarcenter.com/Wren-And-Cuff/Box-of-War-Small-Foot-Fuzz-Effects-Pedal-1500000279253.gc
+2. Guitar Center: https://www.guitarcenter.com/Wren-And-Cuff/Box-of-War-Small-Foot-Fuzz-Effects-Pedal-1500000279253.gc

@@ -31,7 +31,7 @@ I prefer a little less compression in an OD.
 Blow the Roof Off The volume knob on the Pride of Texas gives you lots of output gain.
 
 ## Sources checked
-1. Danelectro Billionaire Pride of Texas Overdrive Effects Pedal | Guitar Center Gear Card Mobile Gift Card Phone Facebook X YouTube Instagram TikTok Threads Facebook X YouTube Instagram TikTok Threads: https://www.guitarcenter.com/Danelectro/Billionaire-Pride-of-Texas-Overdrive-Effects-Pedal.gc
+1. Guitar Center: https://www.guitarcenter.com/Danelectro/Billionaire-Pride-of-Texas-Overdrive-Effects-Pedal.gc
 2. Danelectro Pride of Texas Overdrive — Anatomy of Tone: https://www.anatomyoftone.com/home/danelectro-pride-of-texas-overdrive-1
 
 ## Photo

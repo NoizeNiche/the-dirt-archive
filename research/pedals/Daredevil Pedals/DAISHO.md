@@ -30,7 +30,7 @@ The verified evidence packet did not contain enough pedal-specific sonic descrip
 
 ## Sources checked
 1. Daisho by Daredevil Pedals | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/Daredevil-Pedals/Daisho/68977173/
-2. Daredevil Pedals Daisho Earl Slick Signature Octave Fuzz Effects Pedal | Guitar Center Gear Card Mobile Gift Card Phone Facebook X YouTube Instagram TikTok Threads Facebook X YouTube Instagram TikTok Threads: https://www.guitarcenter.com/Daredevil-Pedals/Daisho-Earl-Slick-Signature-Octave-Fuzz-Effects-Pedal-1500000224380.gc
+2. Guitar Center: https://www.guitarcenter.com/Daredevil-Pedals/Daisho-Earl-Slick-Signature-Octave-Fuzz-Effects-Pedal-1500000224380.gc
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

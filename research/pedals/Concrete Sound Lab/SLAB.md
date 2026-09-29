@@ -70,6 +70,6 @@ Boost independence is unclear, and touch-sensitivity and dynamics cannot be esta
 This is a very straightforward discrete circuit with 6 intuitive controls : Controls - Pre-Gain Low, Pre-Gain High, Gain, Boost, Tone (Post-gain LPF), Level, Boost Footswitch, Main Bypass Footswitch.
 
 ### Sources checked in this pass
-1. Guitar Pedal X - GPX Blog - Concrete Sound Lab's first release - the Slab JFET Preamp and Boost is a beautifully versatile Boost, Overdrive, Distortion and Fuzz - Multi-Gain Pedal: https://www.guitarpedalx.com/news/gpx-blog/concrete-sound-labs-first-release-the-slab-jfet-preamp-and-boost-is-a-beautifully-versatile-boost-overdrive-distortion-and-fuzz-multi-gain-pedal
+1. guitarpedalx.com: https://www.guitarpedalx.com/news/gpx-blog/concrete-sound-labs-first-release-the-slab-jfet-preamp-and-boost-is-a-beautifully-versatile-boost-overdrive-distortion-and-fuzz-multi-gain-pedal
 2. Concrete Sound Lab Slab | Effects Database: https://www.effectsdatabase.com/model/concrete/slab
 3. SLAB — Concrete Sound Lab: https://www.concretesoundlab.com/shop/p/product-1-ydar7-e8mlb-r2y28-3h5pd

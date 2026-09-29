@@ -32,7 +32,7 @@ You can keep things simple and use the Looking Glass for tone shaping, glassy bo
 
 ## Sources checked
 1. DOD Looking Glass Boost/Overdrive - Gbase: https://www.gbase.com/gear/dod-electronics-looking-glass-boost-overdrive
-2. DOD Electronics Looking Glass Overdrive - Cello, Percussion Instruments, Brass Instruments, Woodwind Instruments, and String Instruments Heaven - Ideal for Musicians: https://www.fluteharmony.com/product/dod-electronics-looking-glass-overdrive/
+2. fluteharmony.com: https://www.fluteharmony.com/product/dod-electronics-looking-glass-overdrive/
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
@@ -54,7 +54,7 @@ And, there’s enough output and gain on tap to make even the Red Queen lose her
 
 ### Sources checked in this pass
 1. DOD Looking Glass Boost/Overdrive - Gbase: https://www.gbase.com/gear/dod-electronics-looking-glass-boost-overdrive
-2. DOD Electronics Looking Glass Overdrive - Cello, Percussion Instruments, Brass Instruments, Woodwind Instruments, and String Instruments Heaven - Ideal for Musicians: https://www.fluteharmony.com/product/dod-electronics-looking-glass-overdrive/
+2. fluteharmony.com: https://www.fluteharmony.com/product/dod-electronics-looking-glass-overdrive/
 3. Pinterest: https://www.pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.gbase.com%2Fgear%2Fdod-electronics-looking-glass-boost-overdrive&media=https%3A%2F%2Fguitars.gbase.com%2Faza%2Fuser%2Fgear%2Fdod-electronics-dod-1-xdMRXYL.jpg%3Fmaxheight%3D500%26maxwidth%3D500&description=DOD%20Looking%20Glass%20Boost%2FOverdrive
 4. Facebook: https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fshare_channel%2F%3Ftype%3Dreshare%26link%3Dhttp%253A%252F%252Fwww.gbase.com%252Fgear%252Fdod-electronics-looking-glass-boost-overdrive%26app_id%3D966242223397117%26source_surface%3Dexternal_reshare%26display%26hashtag
 5. DOD Looking Glass Boost/Overdrive – Chicago Music Exchange: https://www.chicagomusicexchange.com/products/dod-looking-glass-boostoverdrive-11006

@@ -32,7 +32,7 @@ The verified evidence packet did not contain enough pedal-specific sonic descrip
 1. Himmelstrutz Elektro Art FITZO+: https://www.himmelstrutz.com/fitzo-plus/
 2. Himmelstrutz Fitzo+ User Manual: AI Chat & PDF Access | Manualzz: https://manualzz.com/doc/7102654/himmelstrutz-elektro-art-fitzo--overdrive-avant-garde-and-m...
 3. Himmelstrutz Fitzo+ | Effects Database: https://www.effectsdatabase.com/model/himmelstrutz/fitzo/plus
-4. Himmelstrutz Fitzo+ - Hamer Studio / 50 Watt Plexi Style Amp - смотреть видео онлайн от «Лекторская Волна» в хорошем качестве, бесплатно опубликованное 24 января 2025 года в 6:27:10 00:01:11.: https://rutube.ru/video/ac1576b93dd99be1f858675b55ded727/
+4. rutube.ru: https://rutube.ru/video/ac1576b93dd99be1f858675b55ded727/
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

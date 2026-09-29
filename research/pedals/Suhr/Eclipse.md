@@ -32,7 +32,7 @@ Each channel is completely independent, and features its own Gain, Level and 3-B
 
 ## Sources checked
 1. Eclipse | Suhr.com: https://www.suhr.com/product/eclipse/
-2. Suhr Eclipse Red | Guitar Center Gear Card Mobile Gift Card Phone Facebook X YouTube Instagram TikTok Threads Facebook X YouTube Instagram TikTok Threads: https://www.guitarcenter.com/Suhr/Eclipse-Red-1500000320917.gc
+2. Guitar Center: https://www.guitarcenter.com/Suhr/Eclipse-Red-1500000320917.gc
 3. Suhr Eclipse — Grokipedia: https://grokipedia.com/page/Suhr_Eclipse
 
 ## Photo

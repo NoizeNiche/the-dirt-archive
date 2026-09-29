@@ -36,6 +36,6 @@ This pass adds only claims supported by the newly admitted exact-model evidence.
 Blackstar Amplification's HT-METAL is cataloged as a distortion / overdrive pedal.
 
 ### Sources checked in this pass
-1. Blackstar Amplification HT Metal Pure Valve guitar pedal *Please note: Gardiner Houlgate do not guarantee the full working order of any electrical items. Do not assume that this lot or any other electrical item is fully working. Please ask for a condition report before placing any kind of bid: https://www.guitar-auctions.co.uk/sale/251/1358/Blackstar-Amplification-HT-Metal-Pure-Valve-guitar-pedal
+1. guitar-auctions.co.uk: https://www.guitar-auctions.co.uk/sale/251/1358/Blackstar-Amplification-HT-Metal-Pure-Valve-guitar-pedal
 2. catalog/override source: https://blackstaramps.com/wp-content/uploads/2021/10/ht-metal-handbook.pdf
 3. Blackstar HT-METAL review | MusicRadar: https://www.musicradar.com/reviews/guitars/blackstar-ht-metal-527838

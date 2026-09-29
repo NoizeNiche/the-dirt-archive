@@ -81,4 +81,4 @@ While there are a few pedals out there which share MK I.V and MK II Tone Bender 
 ### Sources checked in this pass
 1. CRAZY TUBE CIRCUITS Constellation OC45 | Pedals and FX | guitarxrange.com: https://www.guitarxrange.com/product/crazy-tube-circuits-constellation-oc45/
 2. Guitar Pedal X - GPX Blog - Crazy Tube Circuits Constellation OC45 vs Constellation CV7003 (OC44): https://www.guitarpedalx.com/news/gpx-blog/crazy-tube-circuits-constellation-oc45-vs-constellation-cv7003-oc44
-3. Crazy Tube Circuits Constellation OC45 Germanium Fuzz/Booster – Gear Hero American Express Apple Pay Discover Google Pay Mastercard PayPal Shop Pay Venmo Visa American Express Apple Pay Discover Google Pay Mastercard PayPal Shop Pay Venmo Visa American Express Apple Pay Discover Google Pay Mastercard PayPal Shop Pay Venmo Visa: https://gearhero.com/products/crazy-tube-circuits-constellation-oc45-germanium-fuzz-booster
+3. gearhero.com: https://gearhero.com/products/crazy-tube-circuits-constellation-oc45-germanium-fuzz-booster

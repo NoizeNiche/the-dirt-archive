@@ -27,5 +27,5 @@ If you are particular about your tone, GET THIS PEDAL!
 
 ### Sources checked in this pass
 1. Biyang Tonefancier Metal End King Distortion Electric Guitar Effect Pedal – Music2121: https://music2121.com/portal/product/biyang-tonefancier-metal-end-king-distortion-electric-guitar-effect-pedal/
-2. https://ae01.alicdn.com/kf/H0b0609f61da3424d92ab7e851fefe734f/Biyang-Tonefancier-Metal-End-King-Distortion-Electric-Guitar-Effect-Pedal-True-Bypass-Design-with-Gold-Pedal.jpg: https://ae01.alicdn.com/kf/H0b0609f61da3424d92ab7e851fefe734f/Biyang-Tonefancier-Metal-End-King-Distortion-Electric-Guitar-Effect-Pedal-True-Bypass-Design-with-Gold-Pedal.jpg
+2. ae01.alicdn.com: https://ae01.alicdn.com/kf/H0b0609f61da3424d92ab7e851fefe734f/Biyang-Tonefancier-Metal-End-King-Distortion-Electric-Guitar-Effect-Pedal-True-Bypass-Design-with-Gold-Pedal.jpg
 3. Biyang Metal-End | Effects Database: https://www.effectsdatabase.com/model/biyang/tonefancier/metalend

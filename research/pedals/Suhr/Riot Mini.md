@@ -33,7 +33,7 @@ Riot Mini is a versatile high-gain distortion pedal with the sonic characteristi
 ## Sources checked
 1. Riot Mini | Suhr.com: https://www.suhr.com/product/riot-mini/
 2. Suhr Riot Mini review | MusicRadar: https://www.musicradar.com/reviews/suhr-riot-mini
-3. Suhr Riot Mini Black Edition Distortion Effects Pedal | Guitar Center Gear Card Mobile Gift Card Phone Facebook X YouTube Instagram TikTok Threads Facebook X YouTube Instagram TikTok Threads: https://www.guitarcenter.com/Suhr/Riot-Mini-Black-Edition-Distortion-Effects-Pedal-1500000438918.gc
+3. Guitar Center: https://www.guitarcenter.com/Suhr/Riot-Mini-Black-Edition-Distortion-Effects-Pedal-1500000438918.gc
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
@@ -53,4 +53,4 @@ Riot Mini is a versatile high-gain distortion pedal with the sonic characteristi
 ### Sources checked in this pass
 1. Riot Mini | Suhr.com: https://www.suhr.com/product/riot-mini/
 2. Suhr Riot Mini review | MusicRadar: https://www.musicradar.com/reviews/suhr-riot-mini
-3. Suhr Riot Mini Black Edition Distortion Effects Pedal | Guitar Center Gear Card Mobile Gift Card Phone Facebook X YouTube Instagram TikTok Threads Facebook X YouTube Instagram TikTok Threads: https://www.guitarcenter.com/Suhr/Riot-Mini-Black-Edition-Distortion-Effects-Pedal-1500000438918.gc
+3. Guitar Center: https://www.guitarcenter.com/Suhr/Riot-Mini-Black-Edition-Distortion-Effects-Pedal-1500000438918.gc

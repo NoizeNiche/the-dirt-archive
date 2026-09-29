@@ -34,7 +34,7 @@ It is based around a classic hard-clipping gray box overdrive (subtle hint, huh)
 
 ## Sources checked
 1. Gray Channel Dynamic Dirt Doubler — EarthQuaker Devices: https://www.earthquakerdevices.com/gray-channel
-2. EarthQuaker Devices Gray Channel - Dynamic Dirt Doubler Overdrive Effects Pedal | Guitar Center Gear Card Mobile Gift Card Phone Facebook X YouTube Instagram TikTok Threads Facebook X YouTube Instagram TikTok Threads: https://www.guitarcenter.com/EarthQuaker-Devices/Gray-Channel-Dynamic-Dirt-Doubler-Overdrive-Effects-Pedal-1500000007597.gc
+2. Guitar Center: https://www.guitarcenter.com/EarthQuaker-Devices/Gray-Channel-Dynamic-Dirt-Doubler-Overdrive-Effects-Pedal-1500000007597.gc
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

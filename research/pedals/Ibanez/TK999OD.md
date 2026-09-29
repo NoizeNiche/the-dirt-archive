@@ -31,7 +31,7 @@ IBANEZ TUBE KING OVERDRIVE TK999OD OWNER'S MANUAL Pdf Download | ManualsLib Sign
 ## Sources checked
 1. Ibanez Tube King TK999OD Overdrive - Reverb: https://reverb.com/p/ibanez-tube-king-tk999od
 2. Ibanez Tube King TK999OD - エフェクター価格: https://aita.md/shop/products/detail/281712383
-3. XMHEIRD AC/AC Adapter Compatible with Ibanez TK999OD Tube King TK9990D Overdrive SB7 Pedal Power Supply Cord Cable PS Wall Home Charger Mains PSU - Walmart Business Supplies: https://business.walmart.com/ip/XMHEIRD-AC-AC-Adapter-Compatible-with-Ibanez-TK999OD-Tube-King-TK9990D-Overdrive-SB7-Pedal-Power-Supply-Cord-Cable-PS-Wall-Home-Charger-Mains-PSU/19034816662
+3. business.walmart.com: https://business.walmart.com/ip/XMHEIRD-AC-AC-Adapter-Compatible-with-Ibanez-TK999OD-Tube-King-TK9990D-Overdrive-SB7-Pedal-Power-Supply-Cord-Cable-PS-Wall-Home-Charger-Mains-PSU/19034816662
 4. IBANEZ TUBE KING OVERDRIVE TK999OD OWNER'S MANUAL Pdf Download | ManualsLib: https://www.manualslib.com/manual/590767/Ibanez-Tube-King-Overdrive-Tk999od.html
 5. Ibanez TK999OD User Manual PDF | Manualsnet: https://manualsnet.com/ibanez/tk999od
 6. Ibanez TK999OD Electronic Owner Manual | Manualzz: https://manualzz.com/doc/52012670/ibanez-tk999od-electronic-owner-manual

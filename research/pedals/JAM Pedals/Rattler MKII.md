@@ -33,7 +33,7 @@ Reading time: 2 min Jam Rattler MKII · Source: Jam Pedals Previous Next ADVERTI
 
 ## Sources checked
 1. JAM pedals Rattler MKII Distortion – United States: https://www.thomannmusic.com/jam_pedals_rattler_mkii_distortion.htm
-2. “A new era of decadent saturation”: Jam Pedals’ Rattler MkII looks to elevate the ‘80s-era distortion pedal favored by Dave Grohl, James Hetfield and David Gilmour to new heights | Guitar World: https://www.guitarworld.com/news/jam-pedals-rattler-mkii
+2. guitarworld.com: https://www.guitarworld.com/news/jam-pedals-rattler-mkii
 3. Jam Pedals Rattler MKII: The Boutique Classic Just Got An Upgrade!: https://www.gearnews.com/jam-pedals-rattler-mkii/
 4. JAM Pedals Rattler MKII Bass Distortion Pedal – Chicago Music Exchange: https://www.chicagomusicexchange.com/products/jam-pedals-rattler-mkii-bass-distortion-pedal-2514529
 5. Jam Pedals Rattler MKII Distortion | ReverbZone: https://reverbzone.com/jam-pedals/jam-pedals-rattler-mkii-distortion/

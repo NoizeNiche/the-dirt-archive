@@ -32,7 +32,7 @@ Whether you're looking for classic British crunch or thick, singing lead tones, 
 
 ## Sources checked
 1. Brit Box – Stomp Under Foot American Express Apple Pay Bancontact Diners Club Discover Google Pay Mastercard MB WAY PayPal Shop Pay Visa: https://stompunderfoot.com/products/brit-box
-2. Stomp Under Foot Brit Box Distortion Effects Pedal – Twin Town Guitars Cart Search Right Down Cart Search Toggle menu Toggle menu Toggle menu Toggle menu Toggle menu Toggle menu Toggle menu Toggle menu Toggle menu Toggle menu Toggle menu Toggle menu Toggle menu Toggle menu Toggle menu Toggle menu Toggle menu Toggle menu Toggle menu Toggle menu Toggle menu Toggle menu Toggle menu Toggle menu Toggle menu Toggle menu Toggle menu Toggle menu Toggle menu Minus Plus Facebook Twitter Pinterest Facebook Twitter Pinterest Twitter Facebook Youtube Instagram Right American Express Diners Club Discover Mastercard PayPal Shop Pay Visa: https://www.twintown.com/products/stomp-under-foot-brit-box-distortion-effects-pedal
+2. twintown.com: https://www.twintown.com/products/stomp-under-foot-brit-box-distortion-effects-pedal
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

@@ -33,7 +33,7 @@ From the get-go, the Swollen Pickle XXX sets itself apart with high-gain discret
 
 ## Sources checked
 1. Dunlop - Way Huge Jumbo Fuzz - Swollen Pickle XXX: https://bsmusicshop.com/products/dunlop-way-huge-jumbo-fuzz-swollen-pickle-xxx
-2. In early February 1992... Way Huge Electronics was born. This is serial number 1 of all Way Huge pedals, called Fuzz Box... with level booster and fuzzy expandor controls. Only 3 were ever made... number 2 is out in the world somewhere. Number one has seen many many gigs with it original and current owner #tomayresguitar listen as Tom demos it and uses his volume control on his guitar to adjust the fuzz. ∆ ∆ ∆ ∆ ∆ ∆ #whe_video #wayhuge #tomayres #guitar #guitarpedals #knowyourtone #fuzzbox #fuzz #limitededition #flashbackfriday | Way Huge Electronics: https://www.facebook.com/way.huge.electronics/videos/in-early-february-1992-way-huge-electronics-was-born-this-is-serial-number-1-of-/2165480640436009/
+2. facebook.com: https://www.facebook.com/way.huge.electronics/videos/in-early-february-1992-way-huge-electronics-was-born-this-is-serial-number-1-of-/2165480640436009/
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

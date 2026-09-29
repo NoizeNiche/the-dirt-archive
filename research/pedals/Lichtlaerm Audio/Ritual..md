@@ -33,7 +33,7 @@ Post Metal Distortion is most definitely one of the very best Extended Range Rat
 
 ## Sources checked
 1. Lichtlaerm Audio Ritual | Distortion Guitar Pedal – Cult FX: https://cultfx.com/products/ritual
-2. Guitar Pedal X - GPX Blog - Lichtlaerm Audio's .Ritual. Post Metal Distortion is most definitely one of the very best Extended Range Rat style Distortions out there: https://www.guitarpedalx.com/news/gpx-blog/lichtlaerm-audios-ritual-post-metal-distortion-is-most-definitely-one-of-the-very-best-extended-range-rat-style-distortions-out-there
+2. guitarpedalx.com: https://www.guitarpedalx.com/news/gpx-blog/lichtlaerm-audios-ritual-post-metal-distortion-is-most-definitely-one-of-the-very-best-extended-range-rat-style-distortions-out-there
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

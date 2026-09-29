@@ -32,7 +32,7 @@ Quick Specs - Multi-effect pedal combines the Soul Food transparent OD and Nano 
 
 ## Sources checked
 1. Soul POG Overdrive / Octave Multi-Effect | SOUL POG | Electro-Harmonix: https://shop.ehx.com/item/soul%20pog/
-2. Electro-Harmonix Soul POG Overdrive / Octave Multi-Effect Effect Pedal – Pixel Pro Audio Amazon American Express Apple Pay Diners Club Discover Google Pay Mastercard PayPal Shop Pay Visa: https://www.pixelproaudio.com/products/electro-harmonix-soul-pog-overdrive-octave-multi-effect-effect-pedal-nehx088
+2. pixelproaudio.com: https://www.pixelproaudio.com/products/electro-harmonix-soul-pog-overdrive-octave-multi-effect-effect-pedal-nehx088
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

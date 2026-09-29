@@ -33,4 +33,4 @@ Catalinbread's version has insane amounts of gain and output, yet still sporting
 
 ### Sources checked in this pass
 1. Maxon 40th Anniversary Catalinbread Modified Overdrive (OD808-40C) – Catalinbread Effects: https://catalinbread.com/products/maxon-40th-anniversary-catalinbread-modified-overdrive-od808-40c
-2. Catalinbread Effects is 1 of 4 builders asked to mod the OD808 for Maxon's 40th anniversary. Catalinbread's version has insane amounts of gain and output, yet still sporting the classic 808 purr. | Distortion Ltd: https://www.facebook.com/distortionltd/videos/maxon-40th-anniversary-catalinbread-modified-overdrive-od808-40c/1394093330757938/
+2. facebook.com: https://www.facebook.com/distortionltd/videos/maxon-40th-anniversary-catalinbread-modified-overdrive-od808-40c/1394093330757938/

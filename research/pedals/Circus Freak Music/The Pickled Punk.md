@@ -55,5 +55,5 @@ Some of you wanted to hear more about the Pickled Punk, so here is the part deux
 
 ### Sources checked in this pass
 1. Circus Freak Music The Pickled Punk - Effects Database: https://www.effectsdatabase.com/model/circusfreak/pickledpunk
-2. You asked, and we listened! Some of you wanted to hear more about the Pickled Punk, so here is the part deux demo with AJ - listen below, and pick it up here: http://circusfreakmusic.com/?product=pickled-punk-distortion-pedal | Circus Freak Music: https://www.facebook.com/Circusfreakmusic/videos/you-asked-and-we-listened-some-of-you-wanted-to-hear-more-about-the-pickled-punk/4690183045765/
+2. facebook.com: https://www.facebook.com/Circusfreakmusic/videos/you-asked-and-we-listened-some-of-you-wanted-to-hear-more-about-the-pickled-punk/4690183045765/
 3. catalog/override source: https://reverb.com/item/273761-circus-freak-the-pickled-punk-electric-guitar-distortion-pedal-green

@@ -34,7 +34,7 @@ The FULL channel is a single-stage gain circuit very similar to the one found in
 
 ## Sources checked
 1. Daredevil Pedals British Black Belt | Effects Database: https://www.effectsdatabase.com/model/daredevil/britishblackbelt
-2. Daredevil Pedals British Black Belt Drive Effects Pedal Gold | Guitar Center Gear Card Mobile Gift Card Phone Facebook X YouTube Instagram TikTok Threads Facebook X YouTube Instagram TikTok Threads: https://www.guitarcenter.com/Daredevil-Pedals/British-Black-Belt-Drive-Effects-Pedal-Gold-1500000347974.gc
+2. Guitar Center: https://www.guitarcenter.com/Daredevil-Pedals/British-Black-Belt-Drive-Effects-Pedal-Gold-1500000347974.gc
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

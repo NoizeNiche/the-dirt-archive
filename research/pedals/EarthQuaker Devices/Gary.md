@@ -32,7 +32,7 @@ This nasty little fuzz turns the signal into a square wave and allows you to dyn
 
 ## Sources checked
 1. Gary Automatic Pulse Width Modulation Fuzz and Dynamic Natural Overdrive — EarthQuaker Devices: https://www.earthquakerdevices.com/gary
-2. EarthQuaker Devices Gary Automatic Pulse Width Modulation Fuzz and Dynamic Natural Overdrive Effects Pedal Cream and Orange | Guitar Center Gear Card Mobile Gift Card Phone Facebook X YouTube Instagram TikTok Threads Facebook X YouTube Instagram TikTok Threads: https://www.guitarcenter.com/EarthQuaker-Devices/Gary-Automatic-Pulse-Width-Modulation-Fuzz-and-Dynamic-Natural-Overdrive-Effects-Pedal-Cream-and-Orange-1500000446364.gc
+2. Guitar Center: https://www.guitarcenter.com/EarthQuaker-Devices/Gary-Automatic-Pulse-Width-Modulation-Fuzz-and-Dynamic-Natural-Overdrive-Effects-Pedal-Cream-and-Orange-1500000446364.gc
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

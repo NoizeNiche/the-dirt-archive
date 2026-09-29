@@ -32,7 +32,7 @@ Features: True-Bypass NOS Through-Hole Components 9V Battery or 2.1 9V Adapter O
 
 ## Sources checked
 1. Overdrive 8-Fifty – Stomp Under Foot American Express Apple Pay Bancontact Diners Club Discover Google Pay Mastercard MB WAY PayPal Shop Pay Visa: https://stompunderfoot.com/products/od850
-2. Stomp Under Foot OVERDRIVE 8-FIFTY Pedal – Flipside Music bell user minus plus bars file-lines cart-shopping magnifying-glass magnifying-glass-plus bag-shopping arrow-left arrow-right angle-down angle-up angle-right angle-left globe calendar star star-half check sliders caret-down caret-right arrow-square x exclamation box pen box-open store location-dot trash circle-play cube play tag lock envelope x-twitter facebook pinterest instagram snapchat youtube vimeo shopify tumblr tiktok star-empty American Express Apple Pay Discover Google Pay Mastercard PayPal Shop Pay Visa American Express Apple Pay Discover Google Pay Mastercard PayPal Shop Pay Visa: https://flipside-music.com/products/stomp-under-foot-overdrive-8-fifty-pedal
+2. flipside-music.com: https://flipside-music.com/products/stomp-under-foot-overdrive-8-fifty-pedal
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
@@ -49,4 +49,4 @@ The result is a fuller, more balanced sound that retains its body as the tone co
 
 ### Sources checked in this pass
 1. Overdrive 8-Fifty – Stomp Under Foot American Express Apple Pay Bancontact Diners Club Discover Google Pay Mastercard MB WAY PayPal Shop Pay Visa: https://stompunderfoot.com/products/od850
-2. Stomp Under Foot OVERDRIVE 8-FIFTY Pedal – Flipside Music bell user minus plus bars file-lines cart-shopping magnifying-glass magnifying-glass-plus bag-shopping arrow-left arrow-right angle-down angle-up angle-right angle-left globe calendar star star-half check sliders caret-down caret-right arrow-square x exclamation box pen box-open store location-dot trash circle-play cube play tag lock envelope x-twitter facebook pinterest instagram snapchat youtube vimeo shopify tumblr tiktok star-empty American Express Apple Pay Discover Google Pay Mastercard PayPal Shop Pay Visa American Express Apple Pay Discover Google Pay Mastercard PayPal Shop Pay Visa: https://flipside-music.com/products/stomp-under-foot-overdrive-8-fifty-pedal
+2. flipside-music.com: https://flipside-music.com/products/stomp-under-foot-overdrive-8-fifty-pedal

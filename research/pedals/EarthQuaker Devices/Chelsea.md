@@ -32,7 +32,7 @@ It still retains the familiar foundation of the classic fuzz it was intended to 
 
 ## Sources checked
 1. Chelsea Low End Fuzz Driver — EarthQuaker Devices: https://www.earthquakerdevices.com/chelsea
-2. EarthQuaker Devices Chelsea Low End Fuzz Driver Pedal Blue Gear Card Mobile Gift Card Phone Facebook X YouTube Instagram TikTok Threads Facebook X YouTube Instagram TikTok Threads: https://www.guitarcenter.com/EarthQuaker-Devices/Chelsea-Low-End-Fuzz-Driver-Effects-Pedal-White-and-Blue-1500000454626.gc
+2. Guitar Center: https://www.guitarcenter.com/EarthQuaker-Devices/Chelsea-Low-End-Fuzz-Driver-Effects-Pedal-White-and-Blue-1500000454626.gc
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

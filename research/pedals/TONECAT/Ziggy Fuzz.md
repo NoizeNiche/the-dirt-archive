@@ -32,7 +32,7 @@ This cat fuzz that thrives on instability — because sometimes chaos is exactly
 
 ## Sources checked
 1. Brother Ziggy Fuzz Special Edition | Home of Tone Multi-Bias Fuzz Cat Pedal — TONECAT: https://www.tonecat.life/shop/p/brother-ziggy-fuzz-special-edition
-2. TONECAT Ziggy Fuzz Multi Bias Fuzz American Express Apple Pay Google Pay Mastercard PayPal Shop Pay Union Pay Visa American Express Apple Pay Google Pay Mastercard PayPal Shop Pay Union Pay Visa: https://www.upweymusic.au/products/tonecat-ziggy-fuzz-multi-bias-fuzz
+2. upweymusic.au: https://www.upweymusic.au/products/tonecat-ziggy-fuzz-multi-bias-fuzz
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
