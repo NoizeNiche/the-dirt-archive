@@ -3,64 +3,40 @@
 ## PRP identity
 - **Archive parent:** Fuzz War
 - **Builder:** Death By Audio
-- **Catalog type:** Distortion / Fuzz / Overdrive
+- **Catalog type:** Fuzz / Distortion
 - **Identity:** Death By Audio's Fuzz War.
 
 ## What this pedal is
-" tabindex="-1" > " tabindex="-1" > " tabindex="-1" > " tabindex="-1" > FUZZ WAR $180.00 | / Notify me when this product is available: Notify me when this product is available: Qty Add to cart THE FUZZ OF ALL FUZZES Call in the Army, the Navy, Scotland Yard, your mom, and the Mario Brothers!
+Fuzz War is a three-control fuzz pedal with a very broad gain range. The Fuzz control can move from a tone-shifter-like minimum setting through boost and overdrive into thick distortion and full fuzz.
 
 ## Colorways
-- No specific factory colorway information was established in the verified evidence packet.
+- Death By Audio documents hand-painted graphics on individual Fuzz War enclosures.
+- No complete factory colorway chronology was established.
 
 ## Versions and factory options
-- No distinct factory revision was established in the verified evidence packet.
+- **Volume:** output level.
+- **Fuzz:** gain of the fuzz circuit.
+- **Tone:** multi-curve filter shaping the overall timbre.
+- Standard 9VDC, 2.1 mm negative-center power.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- No complete dated hardware revision history was established in the checked sources.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
+- Exact production transistor/device information was not established in the checked sources.
 - **Exact transistor/device:** Unknown.
 
 ## Diode
-- Documented terms in the verified sources: LED.
-- The archive records only the component information explicitly present in these sources.
+- Exact clipping diode information was not established in the checked sources.
+- **Exact part:** Unknown.
 
 ## Sound
-FUZZ WAR - Death By Audio RESTOCKED + SHIPPING NOW!
-AMP CRASH Menu 0 Pedals All Pedals Destroyer Series Distortion Fuzz Overdrive Delay and Reverb Filter Modulation Extreme/Experimental Vocal Effects Accessories Guitar Picks Photo Modulator Raw Power Mic Stand Clip Cables Merch All Merch T-Shirts + Sweats Hats + Bandanas Sticker Packs Bags Pins + Patches Books Synthesizer Album Gift Cards Sale Info About Find a Dealer FAQs Manuals Contact Us Become a Dealer Repairs Contact Information Privacy Policy Return/Cancellation Policy Shipping Policy Terms of Service Explore Friends of DBA Activism Dedstrange Records DBA Arcade Artists Legacy Vintage Website DBA Show Flyers Final Showspace Photopgraphs Sign in Your Cart is Empty " > Pedals All Pedals Destroyer Series Distortion Fuzz Overdrive Delay and Reverb Filter Modulation Extreme/Experimental Vocal Effects Accessories Guitar Picks Photo Modulator Raw Power Mic Stand Clip Cables Merch All Merch T-Shirts + Sweats Hats + Bandanas Sticker Packs Bags Pins + Patches Books Synthesizer Album Gift Cards Sale Info About Find a Dealer FAQs Manuals Contact Us Become a Dealer Repairs Contact Information Privacy Policy Return/Cancellation Policy Shipping Policy Terms of Service Explore Friends of DBA Activism Dedstrange Records DBA Arcade Artists Legacy Vintage Website DBA Show Flyers Final Showspace Photopgraphs 0 International Import Fee Notice: The listed price does not include any customs, duties, taxes, tariffs, or other additional fees which may result from importing our products to your country.
-" tabindex="-1" > " tabindex="-1" > " tabindex="-1" > " tabindex="-1" > FUZZ WAR $180.00 | / Notify me when this product is available: Notify me when this product is available: Qty Add to cart THE FUZZ OF ALL FUZZES Call in the Army, the Navy, Scotland Yard, your mom, and the Mario Brothers!
+At minimum Fuzz, the Tone control can act as a frequency-shifting filter. As Fuzz is increased, the pedal progresses from boost and overdrive into dense distortion and sustaining fuzz. Death By Audio also emphasizes the pedal's large output capability.
 
 ## Sources checked
-1. FUZZ WAR - Death By Audio: https://deathbyaudio.com/products/fuzz-war
-2. Death By Audio Fuzz War - Reverb: https://reverb.com/p/death-by-audio-fuzz-war
-3. Death By Audio Fuzz War: The Fuzz of All Fuzzes Guide: https://guitargangsters.net/rank885-death-by-audio-fuzz-war/
-4. Death By Audio Fuzz War - What To Know Where To Buy: https://equipboard.com/items/death-by-audio-fuzz-war
-5. Death by Audio Fuzz War – United States: https://www.thomannmusic.com/death_by_audio_fuzz_war.htm
-6. open prime modal: https://www.amazon.com/clp/B003TIV8A6
+1. Death By Audio - Fuzz War: https://deathbyaudio.com/collections/1/products/fuzz-war
+2. Death By Audio - Manuals: https://deathbyaudio.com/pages/manuals
+3. Effects Database - Death By Audio Fuzz War: https://www.effectsdatabase.com/model/deathbyaudio/fuzzwar
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
-
-## Deep research verification
-
-This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
-
-### Verified description
-Details If love is a battlefield, then the Fuzz War is your ticket to victorious sustaining fuzz tone.
-
-### Verified diode terms
-- LED.
-
-### Verified sound evidence
-FUZZ WAR - Death By Audio RESTOCKED + SHIPPING NOW!
-" tabindex="-1" > " tabindex="-1" > " tabindex="-1" > " tabindex="-1" > FUZZ WAR $180.00
-/ Notify me when this product is available: Notify me when this product is available: Qty Add to cart THE FUZZ OF ALL FUZZES Call in the Army, the Navy, Scotland Yard, your mom, and the Mario Brothers!
-
-### Sources checked in this pass
-1. FUZZ WAR - Death By Audio: https://deathbyaudio.com/products/fuzz-war
-2. Death By Audio Fuzz War - Reverb: https://reverb.com/p/death-by-audio-fuzz-war
-3. Death By Audio Fuzz War: The Fuzz of All Fuzzes Guide: https://guitargangsters.net/rank885-death-by-audio-fuzz-war/
-4. Death By Audio Fuzz War - What To Know Where To Buy: https://equipboard.com/items/death-by-audio-fuzz-war
-5. Death by Audio Fuzz War – United States: https://www.thomannmusic.com/death_by_audio_fuzz_war.htm
-6. open prime modal: https://www.amazon.com/clp/B003TIV8A6
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.

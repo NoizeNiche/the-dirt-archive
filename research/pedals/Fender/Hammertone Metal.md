@@ -7,34 +7,37 @@
 - **Identity:** Fender's Hammertone Metal.
 
 ## What this pedal is
-99 Join Prime to get FREE delivery Tomorrow, Sep 26 Add to cart Best Seller EX EX-Inferno Metal Distortion Pedal + 9V 2A Guitar Pedal Power Supply Adapter 4.3 (79) 50+ viewed in past month $42.99 $ 42 .
+The Hammertone Metal is a Fender-designed high-gain distortion pedal with active Bass and Treble EQ. Fender describes it as a low-noise, dynamic high-gain design.
 
 ## Colorways
-- No specific factory colorway information was established in the verified evidence packet.
+- Fender documents the Hammertone Metal in **Gray with Black Accents**.
+- The enclosure is aluminum.
 
 ## Versions and factory options
-- No distinct factory revision was established in the verified evidence packet.
+- Fender-designed high-gain distortion circuit.
+- **Bass** and **Treble** active EQ, with up to 15 dB of boost or cut.
+- Top-mounted input and output jacks.
+- True bypass switching.
+- Powered by a 9V battery or center-negative AC adapter.
+- Internal trim controls include a midrange trimmer and a tone control.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- No separate numbered production revision was established in the checked sources.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
+- Exact production transistor/device information was not established in Fender's published product material.
 - **Exact transistor/device:** Unknown.
 
 ## Diode
-- Documented terms in the verified sources: LED.
-- The archive records only the component information explicitly present in these sources.
+- Fender's published product material does not establish an exact clipping/rectifier diode part.
+- **Exact part:** Unknown.
 
 ## Sound
-99 FREE delivery Sep 29 - Oct 1 Add to cart Product details Brand Fender Style Compact Color Metal Product Dimensions 6&#34;L x 6&#34;W x 6&#34;H Item Weight 299 g Voltage 9 volts Similar to your pick Page {currentPage} of {totalPages} JOYO JOYO High-Gain Amp Simulator Guitar Pedal, Built-in Noise Gate 412 Cab Sim with 3-Band EQ FAT BOOST, 3 Output Modes, Bypass (Chopper-Z R-18) 3.9 (67) 50+ viewed in past week $69.99 $ 69 .
-99 Join Prime to get FREE delivery Tomorrow, Sep 26 Add to cart Best Seller EX EX-Inferno Metal Distortion Pedal + 9V 2A Guitar Pedal Power Supply Adapter 4.3 (79) 50+ viewed in past month $42.99 $ 42 .
-99 FREE delivery Thu, Oct 1 Add to cart JOYO JOYO Overdrive Guitar Pedal, Transparent Overdrive/Touch-Sensitive/Clean Boost to Warm Drive, Ambient LED with Bypass (Tauren R-01) 4.4 (303) 50+ viewed in past week $49.99 $ 49 .
+Fender describes the Hammertone Metal as an aggressive, dynamic high-gain distortion with substantial active EQ control. The Bass and Treble controls are designed for wide tonal shaping, while the internal trimmers provide additional midrange and high-frequency adjustment.
 
 ## Sources checked
-1. open prime modal: https://www.amazon.com/clp/B09ZYK3LXQ
-2. Fender Hammertone Metal - Reverb: https://reverb.com/p/fender-hammertone-metal
-3. Fender Hammertone Metal Distortion Pedal - Equipboard: https://equipboard.com/items/fender-hammertone-metal-distortion-pedal
+1. Fender - Hammertone Metal: https://www.fender.com/products/hammertone-metal
+2. Fender - Hammertone Metal, international product page: https://intl.fender.com/products/hammertone-metal
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.

@@ -7,38 +7,35 @@
 - **Identity:** Pettyjohn Electronics's CHIME MKII.
 
 ## What this pedal is
-Pettyjohn Electronics CHIME MKII Overdrive quantity Add to cart SKU: HYYYT587485 Category: Overdrive and Boost 84 people are viewing this right now Estimated Delivery: Oct 1 - Oct 6 Free Shipping & Returns: On all orders Description Description From Pettyjohn: The Pettyjohn CHIME MKII is a major update to our signature low-medium gain overdrive.
+The CHIME MKII is a low-to-medium gain overdrive and a major update to Pettyjohn Electronics' original CHIME. Pettyjohn positions it around the touch-sensitive response of vintage English amplifiers at the edge of breakup.
 
 ## Colorways
-- image/svg+xml Add to cart -75% Bogner Ecstasy Blue Overdrive Pedal &#036; 299.99 Original price was: &#036;299.99.
-- image/svg+xml Add to cart -75% Fuzzrociousn Med/High Overdrive w/Momentary Feedback Mod Black/Orange &#036; 175.00 Original price was: &#036;175.00.
+- No complete factory colorway chronology was established in the checked sources.
 
 ## Versions and factory options
-- The verified evidence references: MKII.
-- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+- **CHIME:** earlier model.
+- **CHIME MKII:** later revision and major update.
+- The checked source set does not establish a complete internal circuit revision chronology.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- Pettyjohn explicitly describes the MKII as a major update to the signature CHIME overdrive.
+- More specific hardware changes are not asserted here without additional primary documentation.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
+- Exact production transistor/device information was not established in the checked sources.
 - **Exact transistor/device:** Unknown.
 
 ## Diode
-- Documented terms in the verified sources: LED.
-- The archive records only the component information explicitly present in these sources.
+- The checked sources do not establish an exact production clipping/rectifier diode part.
+- **Exact part:** Unknown.
 
 ## Sound
-Pettyjohn Electronics CHIME MKII Overdrive FREE SHIPPING ON ORDERS OVER $50 Skip to navigation Skip to content Shop Electric Guitars Acoustic Drums \\ Grand Pianos Guitars Accessories &#038; More UPRIGHT PIANOS Saxophone Mouthpieces Guitar Parts Tools Amps &#8211; Guitar Combos Ukuleles Accordions Cello Strings Hand Drums \\ Microphones Login / Register image/svg+xml 0 Home &#47; Overdrive and Boost &#47; Pettyjohn Electronics CHIME MKII Overdrive Previous Xotic Super Sweet Booster &#036; 159.00 Original price was: &#036;159.00.
--75% Pettyjohn Electronics CHIME MKII Overdrive &#36; 299.00 Original price was: &#036;299.00.
-Pettyjohn Electronics CHIME MKII Overdrive quantity Add to cart SKU: HYYYT587485 Category: Overdrive and Boost 84 people are viewing this right now Estimated Delivery: Oct 1 - Oct 6 Free Shipping & Returns: On all orders Description Description From Pettyjohn: The Pettyjohn CHIME MKII is a major update to our signature low-medium gain overdrive.
+The CHIME MKII is voiced for low-to-medium gain breakup with strong touch sensitivity. Pettyjohn's official material emphasizes the response of vintage English amplifiers on the edge of breakup.
 
 ## Sources checked
-1. Pettyjohn Electronics Chime MKII — Overdrive Pedal: https://equipboard.com/items/pettyjohn-electronics-chime-mkii-overdrive-guitar-pedal
-2. Pettyjohn Electronics CHIME MKII Overdrive - www.refinemusicshop.com: https://www.refinemusicshop.com/product/pettyjohn-electronics-chime-mkii-overdrive/
-3. Pettyjohn Electronics Chime MKII Pedal - musicequipmentbase.com: https://www.musicequipmentbase.com/product/pettyjohn-electronics-chime-mkii-pedal/
-4. Pettyjohn Electronics Chime MKII Overdrive Pedal | Guitar pedal: https://www.guitarrockly.com/product/pettyjohn-electronics-chime-mkii-overdrive-pedal/
-5. Pettyjohn Electronics CHIME MKII Overdrive: https://www.instrumentharmony.com/products/pettyjohn-electronics-chime-mkii-overdrive/
+1. Pettyjohn Electronics - Pedal Demos / CHIME MKII: https://www.pettyjohnelectronics.com/v3demos
+2. Pettyjohn Electronics - CHIME MKII product material: https://www.pettyjohnelectronics.com/
+3. Effects Database - Pettyjohn Electronics CHIME MKII: https://www.effectsdatabase.com/model/pettyjohn/chimemkii
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.

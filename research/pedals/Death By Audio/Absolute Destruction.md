@@ -3,55 +3,40 @@
 ## PRP identity
 - **Archive parent:** Absolute Destruction
 - **Builder:** Death By Audio
-- **Catalog type:** Distortion / Fuzz / Overdrive
+- **Catalog type:** Fuzz / Distortion
 - **Identity:** Death By Audio's Absolute Destruction.
 
 ## What this pedal is
-AMP CRASH Menu 0 Pedals All Pedals Destroyer Series Distortion Fuzz Overdrive Delay and Reverb Filter Modulation Extreme/Experimental Vocal Effects Accessories Guitar Picks Photo Modulator Raw Power Mic Stand Clip Cables Merch All Merch T-Shirts + Sweats Hats + Bandanas Sticker Packs Bags Pins + Patches Books Synthesizer Album Gift Cards Sale Info About Find a Dealer FAQs Manuals Contact Us Become a Dealer Repairs Contact Information Privacy Policy Return/Cancellation Policy Shipping Policy Terms of Service Explore Friends of DBA Activism Dedstrange Records DBA Arcade Artists Legacy Vintage Website DBA Show Flyers Final Showspace Photopgraphs Sign in Your Cart is Empty " > Pedals All Pedals Destroyer Series Distortion Fuzz Overdrive Delay and Reverb Filter Modulation Extreme/Experimental Vocal Effects Accessories Guitar Picks Photo Modulator Raw Power Mic Stand Clip Cables Merch All Merch T-Shirts + Sweats Hats + Bandanas Sticker Packs Bags Pins + Patches Books Synthesizer Album Gift Cards Sale Info About Find a Dealer FAQs Manuals Contact Us Become a Dealer Repairs Contact Information Privacy Policy Return/Cancellation Policy Shipping Policy Terms of Service Explore Friends of DBA Activism Dedstrange Records DBA Arcade Artists Legacy Vintage Website DBA Show Flyers Final Showspace Photopgraphs 0 " tabindex="-1" > " tabindex="-1" > " tabindex="-1" > " tabindex="-1" > ABSOLUTE DESTRUCTION $180.00 | / Notify me when this product is available: Notify me when this product is available: Qty Add to cart OUR MOST INSANE PEDAL YET This might be our craziest pedal.
+Absolute Destruction is a high-intensity distortion/fuzz design built around a power amplifier IC and two interacting slider controls. Its character changes dramatically as Gain and Overload are moved against each other.
 
 ## Colorways
-- No specific factory colorway information was established in the verified evidence packet.
+- No complete factory colorway chronology was established in the checked sources.
 
 ## Versions and factory options
-- No distinct factory revision was established in the verified evidence packet.
+- **Master Volume:** output level.
+- **Overload:** sets the ceiling at which the circuit overloads. Moving it left increases the rate and intensity of destruction.
+- **Gain:** controls circuit gain and distortion.
+- Horizontal sliders are recessed to reduce accidental movement.
+- Standard 9VDC, 2.1 mm negative-center power.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- No complete dated hardware revision history was established in the checked sources.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
+- Exact production transistor/device information was not established in the checked sources.
 - **Exact transistor/device:** Unknown.
 
 ## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- Exact production clipping/rectifier diode information was not established in the checked sources.
 - **Exact part:** Unknown.
 
 ## Sound
-AMP CRASH Menu 0 Pedals All Pedals Destroyer Series Distortion Fuzz Overdrive Delay and Reverb Filter Modulation Extreme/Experimental Vocal Effects Accessories Guitar Picks Photo Modulator Raw Power Mic Stand Clip Cables Merch All Merch T-Shirts + Sweats Hats + Bandanas Sticker Packs Bags Pins + Patches Books Synthesizer Album Gift Cards Sale Info About Find a Dealer FAQs Manuals Contact Us Become a Dealer Repairs Contact Information Privacy Policy Return/Cancellation Policy Shipping Policy Terms of Service Explore Friends of DBA Activism Dedstrange Records DBA Arcade Artists Legacy Vintage Website DBA Show Flyers Final Showspace Photopgraphs Sign in Your Cart is Empty " > Pedals All Pedals Destroyer Series Distortion Fuzz Overdrive Delay and Reverb Filter Modulation Extreme/Experimental Vocal Effects Accessories Guitar Picks Photo Modulator Raw Power Mic Stand Clip Cables Merch All Merch T-Shirts + Sweats Hats + Bandanas Sticker Packs Bags Pins + Patches Books Synthesizer Album Gift Cards Sale Info About Find a Dealer FAQs Manuals Contact Us Become a Dealer Repairs Contact Information Privacy Policy Return/Cancellation Policy Shipping Policy Terms of Service Explore Friends of DBA Activism Dedstrange Records DBA Arcade Artists Legacy Vintage Website DBA Show Flyers Final Showspace Photopgraphs 0 " tabindex="-1" > " tabindex="-1" > " tabindex="-1" > " tabindex="-1" > ABSOLUTE DESTRUCTION $180.00 | / Notify me when this product is available: Notify me when this product is available: Qty Add to cart OUR MOST INSANE PEDAL YET This might be our craziest pedal.
-Showing little-to-no respect for what instruments normally sound like, or even what people want them to sound like, we pushed this thing until it sounded fully unhinged.
-How about a crushing distortion tone?
+Death By Audio describes the pedal as capable of thick fuzz, screaming octave-like textures, and heavily gated or collapsing sounds. The Gain and Overload sliders interact strongly, with extreme settings producing swelling, staccato, noise-like, and disintegrating textures.
 
 ## Sources checked
-1. ABSOLUTE DESTRUCTION - Death By Audio: https://deathbyaudio.com/products/absolute-destruction
-2. Death by Audio Absolute Destruction - What To Know Where To Buy: https://equipboard.com/items/death-by-audio-absolute-destruction
-3. Death By Audio Absolute Destruction - Reverb: https://reverb.com/p/death-by-audio-absolute-destruction
+1. Death By Audio - Absolute Destruction: https://deathbyaudio.com/collections/homepage-wholesale/products/absolute-destruction
+2. Death By Audio - Absolute Destruction Digital Manual: https://deathbyaudio.com/cdn/shop/files/Death-By-Audio-Absolute-Destruction-Digital-Manual-English-Final-01.pdf?v=13642194291829452524
+3. Effects Database - Death By Audio Absolute Destruction: https://www.effectsdatabase.com/model/deathbyaudio/absolutedestruction
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
-
-## Deep research verification
-
-This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
-
-### Verified description
-The further the Overload control is set to the left, the faster the effect slips into absolute destruction.
-
-### Verified sound evidence
-How about a crushing distortion tone?
-Its Gain and Overload sliders interact to create a wide range of unique sounds in various positions.
-Blow it out even harder and faster by slamming Gain and Overload opposite one another.
-
-### Sources checked in this pass
-1. ABSOLUTE DESTRUCTION - Death By Audio: https://deathbyaudio.com/products/absolute-destruction
-2. Death by Audio Absolute Destruction - What To Know Where To Buy: https://equipboard.com/items/death-by-audio-absolute-destruction
-3. Death By Audio Absolute Destruction - Reverb: https://reverb.com/p/death-by-audio-absolute-destruction
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.
