@@ -53,10 +53,10 @@ def main() -> None:
             for row in csv.DictReader(handle):
                 if str(row.get("Status") or "").strip().upper() != "VERIFIED_PRIMARY":
                     continue
-                builder = row.get("Builder", "").strip()
-                pedal = row.get("Pedal", "").strip()
+                builder = str(row.get("Builder") or "").strip()
+                pedal = str(row.get("Pedal") or "").strip()
                 image_url = str(row.get("Image URL") or "").strip()
-                source_page = row.get("Source Page", "").strip()
+                source_page = str(row.get("Source Page") or "").strip()
                 if builder and pedal:
                     manual_verified[key(builder, pedal)] = (source_page, image_url)
 
@@ -64,10 +64,10 @@ def main() -> None:
     if DIRECT_OVERRIDES.exists():
         with DIRECT_OVERRIDES.open(newline="", encoding="utf-8") as handle:
             for row_index, row in enumerate(csv.DictReader(handle), start=1):
-                builder = row.get("Builder", "").strip()
-                pedal = row.get("Pedal", "").strip()
-                source_page = row.get("Image Source Page", "").strip()
-                image_url = row.get("Image URL", "").strip()
+                builder = str(row.get("Builder") or "").strip()
+                pedal = str(row.get("Pedal") or "").strip()
+                source_page = str(row.get("Image Source Page") or "").strip()
+                image_url = str(row.get("Image URL") or "").strip()
                 if builder and pedal and source_page and image_url:
                     notes = str(row.get("Notes") or "").strip()
                     direct_overrides.setdefault(key(builder, pedal), []).append((source_page, image_url, row_index, notes))
