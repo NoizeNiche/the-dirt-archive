@@ -10,13 +10,13 @@
 1981 Inventions's DRV MOD 1 is cataloged as a Distortion pedal.
 
 ## Colorways
-- DRV MOD 1 (WHITE) &ndash; 1981 Inventions Skip to content HOME FAQ ABOUT MATT&#39;S CLOSET CONTACT Log in Country/region Canada | CAD $ Search Afghanistan AFN ؋ Åland Islands EUR € Albania ALL L Algeria DZD د.ج Andorra EUR € Angola USD $ Anguilla XCD $ Antigua Barbuda XCD $ Argentina USD $ Armenia AMD դր.
+- **DRV MOD 1 (WHITE)** is documented as a white-finish presentation of the original V1 circuit. It is kept as a colorway/variation rather than treated as a separate circuit generation. [1]
 
 ## Versions and factory options
-- No distinct factory revision was established in the verified evidence packet.
+- No distinct numbered factory revision was established for this base record in the verified evidence packet.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- No specific factory version changes were established for the base record in the verified evidence packet.
 
 ## Transistor
 - Exact production transistor/device information was not established in the verified evidence packet.
@@ -27,10 +27,10 @@
 - **Exact part:** Unknown.
 
 ## Sound
-The verified evidence packet did not contain enough pedal-specific sonic description to make a more detailed sound summary without adding unsupported interpretation.
+The verified base-record evidence packet does not contain enough pedal-specific sonic detail to make a more detailed summary without adding unsupported interpretation.
 
 ## Sources checked
-1. DRV MOD 1 (WHITE) &ndash; 1981 Inventions: https://1981inventions.com/products/drv-mod-1
+1. 1981 Inventions — DRV MOD 1 (WHITE): https://1981inventions.com/products/drv-mod-1
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
