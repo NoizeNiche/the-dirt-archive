@@ -8,8 +8,6 @@ on:
       - 'assets/css/archive-detail.css'
       - 'assets/js/archive-detail.js'
       - 'assets/js/archive-core.js'
-      - 'research/PEDAL_INDEX.json'
-      - 'assets/pedals/**'
       - 'scripts/audit-detail-pages.js'
       - 'scripts/audit-photo-content.py'
       - 'scripts/audit-pictured-photo-hash-collisions.py'
@@ -18,10 +16,6 @@ on:
       - 'scripts/audit-photo-revision-fidelity.py'
       - 'scripts/audit-photo-provenance-quality.py'
       - 'scripts/verify-photo-manual-review-sync.py'
-      - 'research/PHOTO_DIRECT_IMAGE_OVERRIDES.csv'
-      - 'research/PHOTO_MANUAL_REVIEW.csv'
-      - 'scripts/browser-photo-cache.mjs'
-      - 'research/PHOTO_SOURCE_BLOCKLIST.json'
       - '.github/workflows/exhaustive-quality-audit.yml'
   workflow_dispatch:
   schedule:
