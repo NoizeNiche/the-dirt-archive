@@ -15,6 +15,7 @@ const PHOTO_REVIEW_QUEUE = path.join(ROOT, 'research/PHOTO_REVIEW_QUEUE.csv');
 const PHOTO_RECOVERY_MANIFEST = path.join(ROOT, 'photo-recovery-results.json');
 const PEDAL_IDENTITY_ALIASES = path.join(ROOT, 'research/PEDAL_IDENTITY_ALIASES.csv');
 const PHOTO_SOURCE_BLOCKLIST = path.join(ROOT, 'research/PHOTO_SOURCE_BLOCKLIST.json');
+const PHOTO_MANUAL_REVIEW = path.join(ROOT, 'research/PHOTO_MANUAL_REVIEW.csv');
 const LIMIT = Math.max(1, Number(process.env.PHOTO_BROWSER_CACHE_LIMIT || 90));
 const CONCURRENCY = Math.max(1, Number(process.env.PHOTO_BROWSER_CACHE_CONCURRENCY || 8));
 const PRIORITY_COMPANY = String(process.env.PHOTO_BROWSER_CACHE_PRIORITY_COMPANY || '').trim().toLowerCase();
@@ -53,8 +54,35 @@ function isBlockedByPhotoPolicy(value) {
   });
 }
 
+let manualVerifiedPhotoMap = null;
+
 function key(builder, pedal) {
   return builder + '\\0' + pedal;
+}
+
+function manualVerifiedPhoto(entry, imageUrl) {
+  if (!imageUrl) return false;
+  if (!manualVerifiedPhotoMap) {
+    manualVerifiedPhotoMap = new Map();
+    try {
+      const rows = csvRows(fs.readFileSync(PHOTO_MANUAL_REVIEW, 'utf8'));
+      for (const row of rows) {
+        if (String(row.Status || '').trim().toUpperCase() !== 'VERIFIED_PRIMARY') continue;
+        const identity = key(String(row.Builder || '').trim(), String(row.Pedal || '').trim());
+        const approvedUrl = String(row['Image URL'] || '').trim();
+        const approvedPage = String(row['Source Page'] || '').trim();
+        if (identity && approvedUrl) {
+          manualVerifiedPhotoMap.set(identity, { imageUrl: approvedUrl, sourcePage: approvedPage });
+        }
+      }
+    } catch {}
+  }
+  const approved = manualVerifiedPhotoMap.get(key(
+    String(entry.company || entry.builder || '').trim(),
+    String(entry.pedal || '').trim()
+  ));
+  if (!approved) return false;
+  return String(approved.imageUrl) === String(imageUrl);
 }
 
 function reviewQueueRows(raw) {
@@ -2094,8 +2122,15 @@ async function recoverEntry(browser, entry, deepReview = false, recoveryDeadline
     }
 
     const directImageUrls = Array.isArray(entry.image_source_urls) && entry.image_source_urls.length
-      ? entry.image_source_urls.filter(value => /^https?:/i.test(String(value || "")))
-      : (entry.image_source_url && /^https?:/i.test(entry.image_source_url) ? [entry.image_source_url] : []);
+      ? entry.image_source_urls.filter(value =>
+          /^https?:/i.test(String(value || "")) &&
+          manualVerifiedPhoto(entry, String(value || ""))
+        )
+      : (entry.image_source_url &&
+         /^https?:/i.test(entry.image_source_url) &&
+         manualVerifiedPhoto(entry, entry.image_source_url)
+          ? [entry.image_source_url]
+          : []);
     for (const imageUrl of [...new Set(directImageUrls)].filter(url => !isLikelyNonPedalAssetUrl(url)).slice(0, 3)) {
       candidates.push({
         url: imageUrl,
