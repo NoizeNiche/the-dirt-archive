@@ -15,6 +15,7 @@ on:
       - 'scripts/audit-pictured-photo-hash-collisions.py'
       - 'scripts/build-photo-hash-review.py'
       - 'scripts/audit-photo-identity.py'
+      - 'scripts/audit-photo-revision-fidelity.py'
       - 'research/PHOTO_DIRECT_IMAGE_OVERRIDES.csv'
       - 'research/PHOTO_MANUAL_REVIEW.csv'
       - 'scripts/browser-photo-cache.mjs'
@@ -81,6 +82,9 @@ jobs:
       - name: Audit photographed pedal identity
         run: python scripts/audit-photo-identity.py --workers 8 --output photo-identity-audit.csv
 
+      - name: Audit photographed pedal revision fidelity
+        run: python scripts/audit-photo-revision-fidelity.py
+
       - name: Upload audit reports
         if: always()
         uses: actions/upload-artifact@v4
@@ -92,5 +96,6 @@ jobs:
             photo-hash-collision-audit.csv
             research/PHOTO_HASH_REVIEW.csv
             photo-identity-audit.csv
+            research/PHOTO_REVISION_AUDIT.csv
             /tmp/dirt-archive-audit-server.log
           if-no-files-found: warn
