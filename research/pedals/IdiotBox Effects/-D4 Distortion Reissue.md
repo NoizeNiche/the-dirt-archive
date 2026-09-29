@@ -3,36 +3,38 @@
 ## PRP identity
 - **Archive parent:** -D4 Distortion Reissue
 - **Builder:** IdiotBox Effects
-- **Catalog type:** Distortion / Overdrive
+- **Catalog type:** Distortion
 - **Identity:** IdiotBox Effects's -D4 Distortion Reissue.
 
 ## What this pedal is
-Shipping MAILING LIST Contact Back to site -D4 Distortion Reissue $ 99.00 1 of 2 Select option Select option TWO WEEK BUILD TIME Qty $ 99.00 Add to cart View cart The -D4 is a straight-up distortion pedal.
+The -D4 is a straight-ahead IdiotBox distortion pedal. The surviving exact-model source is explicit about the pedal being a distortion design, while more specific claims about a transparent overdrive identity are not supported and are omitted.
 
 ## Colorways
-- No specific factory colorway information was established in the verified evidence packet.
+- No complete factory finish chronology was established in the checked sources.
 
 ## Versions and factory options
-- No distinct factory revision was established in the verified evidence packet.
+- **Reissue** is the documented production designation.
+- IdiotBox builds the pedal in small batches.
+- True bypass and external DC power are part of the documented IdiotBox construction.
+- Exact full control labeling is not asserted without stronger source documentation.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- The record is specifically for the **-D4 Distortion Reissue**.
+- The archive does not merge unrelated IdiotBox drive pedals into this model.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
+- Exact production semiconductor details were not established.
 - **Exact transistor/device:** Unknown.
 
 ## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- Exact clipping/rectifier diode information was not established.
 - **Exact part:** Unknown.
 
 ## Sound
--D4 Distortion Reissue | IdiotBox Effects 0 $ 0.00 Cart 0 $ 0.00 Search Home Products All PEDALS BASS PEDALS DELAY/MODULATION FUZZ/DISTORTION/OVERDRIVE BAND PEDALS STAR WARS PICKUPS T-SHIRTS/HOODIES PRE-ORDERS EXCLUSIVES NOISE COLLABORATIONS B-STOCK About Retailers !Cool!Bands!Down!With!The!Sound!
-Shipping MAILING LIST Contact Back to site -D4 Distortion Reissue $ 99.00 1 of 2 Select option Select option TWO WEEK BUILD TIME Qty $ 99.00 Add to cart View cart The -D4 is a straight-up distortion pedal.
-It should be a non-coloring transparent overdrive or some other bullshit internet forum descriptor.
+The -D4 is intended as a direct, practical distortion rather than a highly specialized fuzz or octave effect. More specific frequency-response claims are left out because the checked source set does not establish them reliably.
 
 ## Sources checked
-1. -D4 Distortion Reissue | IdiotBox Effects: https://www.idiotboxeffects.com/product/d4-distortion-reissue
+1. IdiotBox Effects - -D4 Distortion Reissue: https://www.idiotboxeffects.com/product/d4-distortion-reissue
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.
