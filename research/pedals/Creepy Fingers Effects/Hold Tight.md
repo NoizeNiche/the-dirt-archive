@@ -7,65 +7,37 @@
 - **Identity:** Creepy Fingers Effects' Tone Bender MkI-inspired fuzz.
 
 ## What this pedal is
-Hold Tight is Brad Davis's take on the Tone Bender MkI family. Creepy Fingers describes it as a blend of silicon and germanium transistors, with controls intended to shape the characteristic spit, crackle, compression and bloom of the vintage circuit family. [1][2]
+Hold Tight is a Tone Bender MkI-inspired fuzz by Brad Davis. The design combines silicon and germanium transistor stages with controls intended to shape the spit, crackle and compression associated with the vintage circuit family.
 
 ## Colorways
-- Documented examples include black, blue, and later multicolor finishes.
-- A later Cottonwood listing describes a "new look" for the Hold Tight. [3]
-- Finish differences are treated as colorways unless a circuit change is independently established.
+- Documented examples include black and blue finishes and later alternate artwork.
+- Finish differences are not treated as circuit revisions without evidence.
 
 ## Versions and factory options
-### Hold Tight production
 - Level
 - Filter
 - Attack
-- Blend of silicon and germanium transistors
-- Custom USA-made steel enclosure
-- Three-color silkscreen
-- Switchcraft jacks
-- True bypass switching
-- Shielded input wiring [1]
-
-Used-market evidence also documents an internal bias trimmer on early examples. A 2020 first-run example is specifically described as having side jacks and an internal bias control. [4][5]
+- True bypass.
+- Shielded input wiring.
+- Some early examples document an internal bias trimmer and side jacks.
 
 ## Version changes
-The available evidence supports at least cosmetic and mechanical production differences within the Hold Tight family, including a newer enclosure look and first-run examples with side jacks. The archive does not split those into separate pedal identities without a documented circuit-generation change. [3][4]
+- The evidence supports cosmetic and mechanical production differences, but does not establish separate circuit generations.
 
 ## Transistor
-- **Technology:** Hybrid **silicon and germanium** transistor design. [1]
-- **Exact transistor/device:** Unknown.
+- Hybrid silicon and germanium transistor design.
+- Exact production part numbers are not established.
 
 ## Diode
-- **Type:** Exact production clipping/rectifier diode(s) were not publicly established in the reliable sources checked.
-- **Exact part:** Unknown.
+- Exact production clipping/rectifier diode is not established.
 
 ## Sound
-Hold Tight is designed around the unruly, touch-sensitive character associated with a Tone Bender MkI, with the Filter control helping tame or emphasize its spit and crackle. The Attack control shapes the compressed "squish" and bloom, while the available bias adjustment on early examples can move the response toward cleaner or more gated behavior. [1][4]
+Hold Tight is designed around the unruly, touch-sensitive behavior of a Tone Bender MkI-style fuzz. Filter shapes the tonal emphasis, while Attack changes the compressed feel and bloom.
 
 ## Sources checked
-1. Creepy Fingers Effects — Hold Tight: https://creepyfingerseffects.bigcartel.com/product/hold-tight
-2. Effects Database — Creepy Fingers Hold Tight: https://www.effectsdatabase.com/model/creepyfingers/holdtight
-3. Cottonwood Music Emporium — Creepy Fingers Hold Tight: https://www.cottonwoodmusicemporium.com/products/creepy-fingers-hold-tight
-4. Reverb — Hold Tight first-run black example: https://reverb.com/item/80544691-creepy-fingers-hold-tight-black-first-run-mki-fuzz-bender
-5. Reverb — Hold Tight 2020 black example: https://reverb.com/uk/item/90736301-creepy-fingers-hold-tight-tonebender-mki-2020-black
+1. Creepy Fingers Effects - Hold Tight: https://creepyfingerseffects.bigcartel.com/product/hold-tight
+2. Effects Database - Hold Tight: https://www.effectsdatabase.com/model/creepyfingers/holdtight
+3. Reverb - Hold Tight first-run example: https://reverb.com/item/80544691-creepy-fingers-hold-tight-black-first-run-mki-fuzz-bender
 
 ## Photo
-- **Archive status:** No local photo archived in this research pass.
-- **Exact-model visual references checked:** Creepy Fingers product page and exact Hold Tight Reverb listings.
-
-## Deep research verification
-
-This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
-
-### Verified description
-Creepy Fingers Effects's Hold Tight is cataloged as a fuzz pedal.
-
-### Verified version references
-- The evidence references: MkI.
-
-### Verified sound evidence
-Creepy Fingers Effects Cart $ 0.00 0 Products Tees Fuzz/Distortion Booster Contact Back to Site Powered by Big Cartel 0 Menu Creepy Fingers Effects Hold Tight $ 249.00 Add to Cart My version of the Tone Bender MkI.
-
-### Sources checked in this pass
-1. Hold Tight | Creepy Fingers Effects: https://creepyfingerseffects.bigcartel.com/product/hold-tight
-2. catalog/override source: https://reverb.com/item/80544691-creepy-fingers-hold-tight-black-first-run-mki-fuzz-bender
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.

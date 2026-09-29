@@ -7,56 +7,29 @@
 - **Identity:** Crowther Audio's Hot Cake.
 
 ## What this pedal is
-This is the updated version of the Hot Cake, refreshed by Paul Crowther with a newer version of the "Bluesberry" setting dubbed "+Cream" and available to activate via a toggle switch as opposed to the older version with an internal switch.
-
-## Colorways
-- No specific factory colorway information was established in the verified evidence packet.
+The Hot Cake is a hand-made New Zealand boost/overdrive designed to add thick distortion while leaving the guitar's basic tonal character comparatively intact.
 
 ## Versions and factory options
-- The verified evidence references: V2.
-- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+- The checked sources document the later **V2** with an external **+Cream** switch.
+- Earlier examples used an internal Bluesberry setting.
+- Three-control layout: Level, Drive and Presence.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- The +Cream switch moves the former internal Bluesberry-style option to an external control on the updated version.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
-- **Exact transistor/device:** Unknown.
+- Exact production transistor/device information was not established.
 
 ## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
-- **Exact part:** Unknown.
+- Exact clipping-device information was not established.
 
 ## Sound
-SKU 20CRO001 by Crowther Audio Original price $ 249.99 - Original price $ 249.99 Original price $ 249.99 $ 249.99 - $ 249.99 Current price $ 249.99 | / Quantity Add to cart Crowther Audio Hotcake Pedal Hand-made in New Zealand by Paul Crowther, the Hotcake is a boost/overdrive pedal designed to leave the undistorted component of the guitar sound unchanged while providing a nice fat distortion sound without resorting to a treble cut circuit which will also affect the guitars tonality.
-Easy to use with its three controls you can get a clean volume boost by increasing the Level control, increasing the Drive will give you a thick distortion sound with a little bit of edge to it, and the Presence control adds some mid-range punch to the sounds.
-The +CREAM switch has a somewhat smoother overdrive sound, even more so than the previous internal Bluesberry setting.
+Level can provide clean boost, Drive moves into thick distortion, and Presence adds midrange emphasis. The +Cream setting is smoother and has somewhat less headroom than the standard voice.
 
 ## Sources checked
-1. Crowther Audio Hot Cake Overdrive Guitar Pedal Made in New Zealand V2 — Truetone Music American Express Apple Pay Diners Club Discover Google Pay Mastercard PayPal Shop Pay Venmo Visa: https://www.truetonemusic.com/products/crowther-audio-hot-cake-overdrive-pedal
-2. Crowther Audio Hot Cake Distortion V2 | Classic Overdrive & Distortion Pedal: https://www.hotroxuk.com/the-crowther-hot-cake-distortion-v2.html
-3. Crowther Audio Hot Cake Old Circuitレビュー！クランチからファズまで鳴らせるオーバードライブ | 魔法の箱研究所 – エフェクターレビューサイト: https://www.efmaniac.com/human-gear-hot-cake-old-circuit/
+1. Truetone Music - Crowther Audio Hot Cake: https://www.truetonemusic.com/products/crowther-audio-hot-cake-overdrive-pedal
+2. Hotrox - Crowther Hot Cake V2: https://www.hotroxuk.com/the-crowther-hot-cake-distortion-v2.html
+3. Effects Database - Hot Cake: https://www.efmaniac.com/human-gear-hot-cake-old-circuit/
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
-
-## Deep research verification
-
-This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
-
-### Verified description
-This is the updated version of the Hot Cake, refreshed by Paul Crowther with a newer version of the "Bluesberry" setting dubbed "+Cream" and available to activate via a toggle switch as opposed to the older version with an internal switch.
-
-### Verified version references
-- The evidence references: V2.
-
-### Verified sound evidence
-Easy to use with its three controls you can get a clean volume boost by increasing the Level control, increasing the Drive will give you a thick distortion sound with a little bit of edge to it, and the Presence control adds some mid-range punch to the sounds.
-The +CREAM switch has a somewhat smoother overdrive sound, even more so than the previous internal Bluesberry setting.
-The +CREAM setting has slightly less headroom, which means slightly more sustain but lower output level, so a small increase of the Level control setting may be required in this mode.
-
-### Sources checked in this pass
-1. Crowther Audio Hot Cake Overdrive Guitar Pedal Made in New Zealand V2 — Truetone Music American Express Apple Pay Diners Club Discover Google Pay Mastercard PayPal Shop Pay Venmo Visa: https://www.truetonemusic.com/products/crowther-audio-hot-cake-overdrive-pedal
-2. Crowther Audio Hot Cake Distortion V2 | Classic Overdrive & Distortion Pedal: https://www.hotroxuk.com/the-crowther-hot-cake-distortion-v2.html
-3. Crowther Audio Hot Cake Old Circuitレビュー！クランチからファズまで鳴らせるオーバードライブ | 魔法の箱研究所 – エフェクターレビューサイト: https://www.efmaniac.com/human-gear-hot-cake-old-circuit/
-4. catalog/override source: https://reverb.com/item/92569108-crowther-audio-hot-cake
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.

@@ -3,52 +3,34 @@
 ## PRP identity
 - **Archive parent:** Microtubes Infinity
 - **Builder:** Darkglass Electronics
-- **Catalog type:** Distortion
+- **Catalog type:** Distortion / Bass Preamp
 - **Identity:** Darkglass Electronics's Microtubes Infinity.
 
 ## What this pedal is
-Darkglass Electronics's Microtubes Infinity is cataloged as a Distortion pedal.
-
-## Colorways
-- No specific factory colorway information was established in the verified evidence packet.
+Microtubes Infinity is a programmable Darkglass bass distortion/preamp platform combining multiple Microtubes circuit voices with compression, EQ, cab simulation and USB audio functions.
 
 ## Versions and factory options
-- No distinct factory revision was established in the verified evidence packet.
-
-## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- Five compressor modes.
+- Five distortion modes.
+- Five cab-simulation IR slots.
+- Six-band graphic EQ.
+- MIDI control.
+- USB-C audio interface.
+- The checked sources do not establish a separate numbered hardware revision.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
-- **Exact transistor/device:** Unknown.
+- Exact production semiconductor complement was not established.
 
 ## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
-- **Exact part:** Unknown.
+- Exact clipping/rectifier diode information was not established.
 
 ## Sound
-Advanced Microtubes distortion and compression pedal Capable of Microtubes, Microtubes X, and Vintage Microtubes tones 5 compressor modes, 5 distortion modes, 5 cab sim IRs Audio interface capability over USB-C 6-band graphic EQ MIDI input to externally control parameters $649.99 Add to cart Microtubes Infinity — $649.99 Add to cart More Images Microtubes Infinity If we get to choose only one piece of gear to take on tour: how would we want it to be?
-Advanced Microtubes distortion and compression pedal Capable of Microtubes, Microtubes X, and Vintage Microtubes tones 5 compressor modes, 5 distortion modes, 5 cab sim IRs Audio interface capability over USB-C 6-band graphic EQ MIDI input to externally control parameters Product Information Shipping Returns Description If we get to choose only one piece of gear to take on tour: how would we want it to be?
-Advanced Microtubes distortion and compression pedal Capable of Microtubes, Microtubes X, and Vintage Microtubes tones 5 compressor modes, 5 distortion modes, 5 cab sim IRs Audio interface capability over USB-C 6-band graphic EQ MIDI input to externally control parameters Darkglass Electronics Store Account Cart © 2026 Darkglass Electronics .
+The Infinity can cover multiple Darkglass Microtubes voices, from tighter modern distortion to more vintage-flavoured saturation, with extensive digital control over dynamics, EQ and cabinet simulation.
 
 ## Sources checked
-1. Darkglass Electronics Microtubes Infinity Preamp Pedal - Equipboard: https://equipboard.com/items/darkglass-electronics-darkglass-microtubes-infinity-preamp-distortion-audio-interface
-2. Darkglass Electronics Microtubes Infinity Distortion and MTINF: https://www.bhphotovideo.com/c/product/1831639-REG/darkglass_electronics_mtinf_microtubes_infinity_preamp_distortion_audio_interface.html
-3. Darkglass Electronics Microtubes Infinity - Reverb: https://reverb.com/p/darkglass-electronics-microtubes-infinity
-4. Microtubes Infinity | Darkglass Electronics: https://thedarkglass.shop/products/mtinf-2
+1. Darkglass Electronics - Microtubes Infinity: https://thedarkglass.shop/products/mtinf-2
+2. Reverb - Microtubes Infinity: https://reverb.com/p/darkglass-electronics-microtubes-infinity
+3. B&H - Microtubes Infinity: https://www.bhphotovideo.com/c/product/1831639-REG/darkglass_electronics_mtinf_microtubes_infinity_preamp_distortion_audio_interface.html
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
-
-## Deep research verification
-
-This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
-
-### Verified description
-Darkglass Electronics's Microtubes Infinity is cataloged as a distortion pedal.
-
-### Sources checked in this pass
-1. Darkglass Electronics Microtubes Infinity Preamp Pedal - Equipboard: https://equipboard.com/items/darkglass-electronics-darkglass-microtubes-infinity-preamp-distortion-audio-interface
-2. Darkglass Electronics Microtubes Infinity Distortion and MTINF: https://www.bhphotovideo.com/c/product/1831639-REG/darkglass_electronics_mtinf_microtubes_infinity_preamp_distortion_audio_interface.html
-3. Darkglass Electronics Microtubes Infinity - Reverb: https://reverb.com/p/darkglass-electronics-microtubes-infinity
-4. Microtubes Infinity | Darkglass Electronics: https://thedarkglass.shop/products/mtinf-2
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.
