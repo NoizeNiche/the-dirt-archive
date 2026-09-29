@@ -7,7 +7,7 @@
 - **Identity:** SolidGoldFX's BETA-V Bass Preamp.
 
 ## What this pedal is
-Related products EarthQuaker Devices The Warden Optical Compressor $ 99.50 $ 199.00 Boss DS-2 Turbo Distortion Pedal $ 55.00 $ 10
+The BETA-V Bass Preamp is designed to capture the warmth and grit of vintage tube amps. Its LPF switch provides three filtering positions.
 
 ## Colorways
 - No specific factory colorway information was established in the verified evidence packet.
