@@ -29,6 +29,7 @@ TRACKER = ROOT / "research/PRP_TRACKER.csv"
 DIRECT = ROOT / "research/PHOTO_DIRECT_IMAGE_OVERRIDES.csv"
 ASSET_ROOT = ROOT / "assets/pedals"
 PHOTO_SOURCE_BLOCKLIST = ROOT / "research/PHOTO_SOURCE_BLOCKLIST.json"
+PHOTO_IDENTITY_QUARANTINE = ROOT / "research/PHOTO_IDENTITY_QUARANTINE.csv"
 
 USER_AGENT = (
     "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
@@ -59,6 +60,20 @@ def blocked_photo_url(value: str, rules: list[tuple[str,str]]) -> bool:
 
 def key(builder: str, pedal: str) -> tuple[str, str]:
     return builder.strip(), pedal.strip()
+
+
+def load_identity_quarantine() -> dict[tuple[str, str], set[str]]:
+    rows: dict[tuple[str, str], set[str]] = {}
+    try:
+        with IDENTITY_QUARANTINE.open(newline="", encoding="utf-8") as handle:
+            for row in csv.DictReader(handle):
+                k = key(row.get("Builder", ""), row.get("Pedal", ""))
+                url = str(row.get("Blocked Image URL") or "").strip().lower()
+                if k[0] and k[1] and url:
+                    rows.setdefault(k, set()).add(url)
+    except Exception:
+        pass
+    return rows
 
 
 def slug(value: str) -> str:
@@ -188,6 +203,8 @@ def main() -> None:
         for entry in catalog.get("pedals", [])
     }
 
+    identity_quarantine = load_identity_quarantine()
+
     pending = set()
     with TRACKER.open(newline="", encoding="utf-8") as handle:
         for row in csv.DictReader(handle):
@@ -201,7 +218,8 @@ def main() -> None:
             image_url = str(row.get("Image URL") or "").strip()
             source_page = str(row.get("Image Source Page") or "").strip()
             notes = str(row.get("Notes") or "").strip()
-            if k in pending and image_url and source_page and is_http_image_url(image_url) and not blocked_photo_url(image_url, block_rules):
+            blocked_for_identity = image_url.lower() in identity_quarantine.get(k, set())
+            if k in pending and image_url and source_page and is_http_image_url(image_url) and not blocked_photo_url(image_url, block_rules) and not blocked_for_identity:
                 direct.setdefault(k, []).append((image_url, source_page, notes))
 
     recovered = 0
