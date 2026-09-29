@@ -35,7 +35,11 @@ Lovepedal / Love Pedal's FAB 50 is cataloged as a fuzz pedal.
 
 ## Sound
 
-No verified pedal-specific sonic summary is currently established in the archive.
+TCHULA 200lbs PURPLE PLEXI ETERNITY BURST HERMIDA ZENDRIVE DOVER DRIVE AMP ELEVEN RUBBER CHICKEN HERMIDA EPH3 © All rights reserved 2026 LOVEPEDAL L.L.C.
+
+The Dirt Archive currently catalogs **FAB 50** by **Lovepedal / Love Pedal** as a **Fuzz** pedal.
+
+**Archive parent:** FAB 50 - **Builder:** Lovepedal / Love Pedal - **Catalog type:** Fuzz - **Identity:** Lovepedal / Love Pedal's FAB 50.
 
 ## Sources checked
 
@@ -44,6 +48,27 @@ No verified pedal-specific sonic summary is currently established in the archive
 ## Photo
 
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Lovepedal / Love Pedal's FAB 50 is cataloged as a fuzz pedal.
+
+### Verified color/finish evidence
+- No specific factory colorway information was established in the verified evidence packet.
+
+### Verified version references
+- The evidence references: revision.
+
+### Verified sound evidence
+TCHULA 200lbs PURPLE PLEXI ETERNITY BURST HERMIDA ZENDRIVE DOVER DRIVE AMP ELEVEN RUBBER CHICKEN HERMIDA EPH3 © All rights reserved 2026 LOVEPEDAL L.L.C.
+The Dirt Archive currently catalogs **FAB 50** by **Lovepedal / Love Pedal** as a **Fuzz** pedal.
+**Archive parent:** FAB 50 - **Builder:** Lovepedal / Love Pedal - **Catalog type:** Fuzz - **Identity:** Lovepedal / Love Pedal's FAB 50.
+
+### Sources checked in this pass
+1. Love Pedal: https://www.lovepedal.com/
 
 ## Deep research verification
 

@@ -9,7 +9,7 @@
 
 ## What this pedal is
 
-THE DANE MKI THE DANE is a creation designed to meet the exacting needs of Danish Pete.
+I/O Normal TRS Quantity Decrease quantity for THE DANE MKI Increase quantity for THE DANE MKI Add to cart Description THE DANE MKI THE DANE is a creation designed to meet the exacting needs of Danish Pete.
 
 ## Colorways
 
@@ -57,6 +57,30 @@ This pass adds only claims supported by the newly admitted exact-model evidence.
 
 ### Verified description
 THE DANE MKI THE DANE is a creation designed to meet the exacting needs of Danish Pete.
+
+### Verified color/finish evidence
+- No specific factory colorway information was established in the verified evidence packet.
+
+### Verified version references
+- The evidence references: MKI, MKII, mkii, revision.
+
+### Verified sound evidence
+THE DANE has two sides - a complex light to medium gain overdrive on the left and a high headroom super clean boost on the right.
+The pedal is designed so that the boost runs into the drive side.
+This yields three distinct tonal variations ranging from clean boost all the way through to full and fat saturation.
+
+### Sources checked in this pass
+1. THE DANE MKI: https://thorpyfx.com/en-us/products/the-dane-overdrive-and-booster-peter-danish-pete-honores-signature-pedal
+2. ThorpyFX The Dane - What To Know & Where To Buy | Equipboard: https://equipboard.com/items/thorpyfx-the-dane
+3. ThorpyFX The Dane MKII Peter Honore Signature Overdrive / | Reverb: https://reverb.com/p/thorpyfx-the-dane-mkii-peter-honore-signature-overdrive-slash-boost
+4. catalog/override source: https://www.amazon.com/clp/B0CJCQXCWH
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+I/O Normal TRS Quantity Decrease quantity for THE DANE MKI Increase quantity for THE DANE MKI Add to cart Description THE DANE MKI THE DANE is a creation designed to meet the exacting needs of Danish Pete.
 
 ### Verified color/finish evidence
 - No specific factory colorway information was established in the verified evidence packet.

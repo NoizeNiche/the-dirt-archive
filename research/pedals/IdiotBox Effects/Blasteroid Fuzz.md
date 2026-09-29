@@ -9,6 +9,8 @@
 
 ## What this pedal is
 
+What makes it stand out is its distinctive microphonic, wah‐like filter character that adds reactive, animated tone, like - **Archive parent:** Blasteroid Fuzz - **Builder:** IdiotBox Effects - **Catalog type:** Fuzz - **Identity:** IdiotBox Effects's Blasteroid Fuzz.
+
 ## Colorways
 
 - No specific factory colorway information was established in the verified evidence packet.
@@ -49,3 +51,30 @@ What makes it stand out is its distinctive microphonic, wah‑like filter charac
 ## Photo
 
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+What makes it stand out is its distinctive microphonic, wah‐like filter character that adds reactive, animated tone, like - **Archive parent:** Blasteroid Fuzz - **Builder:** IdiotBox Effects - **Catalog type:** Fuzz - **Identity:** IdiotBox Effects's Blasteroid Fuzz.
+
+### Verified color/finish evidence
+- No specific factory colorway information was established in the verified evidence packet.
+
+### Verified version references
+- The evidence references: revision.
+
+### Verified sound evidence
+Blasteroid Fuzz by Idiotbox Effects
+It delivers thick, roaring fuzz, and it's LOUD.
+What makes it stand out is its distinctive microphonic, wah‐like filter character that adds reactive, animated tone, like the pedal itself comes alive.
+
+### Sources checked in this pass
+1. Blasteroid Fuzz by Idiotbox Effects | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/Idiotbox-Effects/Blasteroid-Fuzz/8151626029/
+2. IdiotBox Effects Blasteroid Fuzz - 607111482062: https://www.jacksguitarcheology.com/shop/Effects-And-Pedals/p/IdiotBox-Effects-Blasteroid-Fuzz.htm
+3. IdiotBox Effects Blasteroid Fuzz - Reverb: https://reverb.com/p/idiotbox-effects-blasteroid-fuzz
+4. IdiotBox Effects Blasteroid Fuzz - Pedal on ModularGrid: https://modulargrid.net/p/idiotbox-effects-blasteroid-fuzz
+5. IdiotBox Effects Blasteroid Fuzz - musicdreamshop.com: https://www.musicdreamshop.com/product/idiotbox-effects-blasteroid-fuzz/
+6. IdiotBox Effects Blasteroid Fuzz - www.lasonemusic.com: https://www.lasonemusic.com/product/idiotbox-effects-blasteroid-fuzz/
+7. IDIOTBOX EFFECTS BLASTEROID FUZZ. | Peerless Music: https://www.peerlessmusic.com.au/product/idiotbox-effects-blasteroid-fuzz/

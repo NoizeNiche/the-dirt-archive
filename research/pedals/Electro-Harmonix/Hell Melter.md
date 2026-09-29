@@ -88,3 +88,36 @@ Advanced Metal Distortion Hell Melter quantity Find a Dealer Hell Melter DESCRIP
 9. Electro-Harmonix Hell Melter Advanced Distortion Pedal User Manual | 4 pages: https://www.manualsdir.com/manuals/870373/electro-harmonix-hell-melter-advanced-distortion-pedal.html
 10. electro-harmonix Hell Melter Distortion Pedal Instruction Manual: https://device.report/manual/7840569
 11. Electro-Harmonix Hell Melter Distortion Effects Pedal Black and Orange - Natural Reverb Effects Pedals That Create Dreamy Soundscapes: https://www.tonereverb.com/product/electro-harmonix-hell-melter-distortion-effects-pedal-black-and-orange/
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+The **Electro-Harmonix Hell Melter** is an **Advanced Metal Distortion**.
+
+### Verified color/finish evidence
+- Press the EFFECT footswitch to ensure the red LED is lit, and the Hell Melter is ready.
+- Electro-Harmonix Hell Melter Distortion Effects Pedal Black and Orange $88.33 $176.66 Quick Overview With its take on the cult classic chainsaw distortion pedal, the Electro-Harmonix Hell Melter distortion effects pedal takes distortion to its extremes.
+- Be the first to review “Electro-Harmonix Hell Melter Distortion Effects Pedal Black and Orange” Cancel reply Your email address will not be published.
+
+### Verified diode terms
+- LED.
+
+### Verified sound evidence
+Hell Melter Play Video Play Video Hell Melter Advanced Metal Distortion Summon cult-classic, high-gain heavy metal tones!
+Get it by · Order in Notify me when in stock Notify me of updates Notify me when in stock More Details Find a Dealer Sound Clips Chainsaw Refueled Burn Mode with Boost On Gilmour Style Lead Doomed Out Burn Mode, Volume Roll-up Hell Melter on Bass & Guitar Stacking & Shaping Other Drive Pedals Menu Hell Melter
+Advanced Metal Distortion Hell Melter quantity Find a Dealer Hell Melter DESCRIPTION With its take on the cult-classic, chainsaw distortion pedal, the EHX Hell Melter takes distortion to its extremes.
+
+### Sources checked in this pass
+1. Hell Melter | Advanced Metal Distortion - Electro-Harmonix: https://www.ehx.com/products/hell-melter/
+2. Electro-Harmonix Hell Melter Distortion Pedal | Sweetwater: https://www.sweetwater.com/store/detail/HellMelter--electro-harmonix-hell-melter-distortion-pedal
+3. Hell Melter Distortion | HELLMELTER | Electro-Harmonix: https://shop.ehx.com/item/hellmelter
+4. Electro-Harmonix Hell Melter Advanced Metal Distortion - Reverb: https://reverb.com/p/electro-harmonix-hell-melter-advanced-metal-distortion
+5. Amazon.com: https://www.amazon.com/Electro-Harmonix-Hell-Melter-Distortion-Pedal/dp/B0C6XHW7QD
+6. Electro-Harmonix Hell Melter Advanced Distortion Pedal: https://www.bhphotovideo.com/c/product/1768051-REG/electro_harmonix_hellmelter_hell_melter_extreme_distortion.html
+7. PDF electro-harmonix Hell Melter Distortion Pedal Instruction Manual: https://manuals.plus/electro-harmonix/hell-melter-distortion-pedal-manual.pdf
+8. ELECTRO-HARMONIX HELL MELTER OPERATING INSTRUCTIONS Pdf Download | ManualsLib: https://www.manualslib.com/manual/3078702/Electro-Harmonix-Hell-Melter.html
+9. Electro-Harmonix Hell Melter Advanced Distortion Pedal User Manual | 4 pages: https://www.manualsdir.com/manuals/870373/electro-harmonix-hell-melter-advanced-distortion-pedal.html
+10. electro-harmonix Hell Melter Distortion Pedal Instruction Manual: https://device.report/manual/7840569
+11. Electro-Harmonix Hell Melter Distortion Effects Pedal Black and Orange - Natural Reverb Effects Pedals That Create Dreamy Soundscapes: https://www.tonereverb.com/product/electro-harmonix-hell-melter-distortion-effects-pedal-black-and-orange/

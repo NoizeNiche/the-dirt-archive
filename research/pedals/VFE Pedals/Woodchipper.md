@@ -35,7 +35,11 @@ VFE Pedals's Woodchipper is cataloged in the archive as a Fuzz pedal.
 
 ## Sound
 
-No verified pedal-specific sonic summary is currently established in the archive.
+Woodchipper VFE Pedals Woodchipper bass octave fuzz files v(e) Design (new company) Related Maestro BB-1 Bass Brassmaster Behringer Bass Brassmaster Fuzz Black Cat Bass Octave Fuzz (copy) Free State FX Brainblaster General Guitar Gadgets Maestro Brass Master Replica Hiero Effects B.E.A.D.
+
+Published on January 30, 2013 VFE Pedals octave fuzz (1 octave down) pedal NAMM 2013 Information VFE Pedals The initial goal of the Woodchipper is to cram the vintage Maestro Brassmaster circuit into a VFE size enclosure.
+
+The BOTTOM control blends a clean, low frequency part of the signal & infuses it into the fuzz section.
 
 ## Sources checked
 
@@ -45,6 +49,28 @@ No verified pedal-specific sonic summary is currently established in the archive
 ## Photo
 
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Effects Database: https://www.effectsdatabase.com/model/vfe/woodchipper - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+### Verified color/finish evidence
+- Woodchipper VFE Pedals Woodchipper bass octave fuzz files v(e) Design (new company) Related Maestro BB-1 Bass Brassmaster Behringer Bass Brassmaster Fuzz Black Cat Bass Octave Fuzz (copy) Free State FX Brainblaster General Guitar Gadgets Maestro Brass Master Replica Hiero Effects B.E.A.D.
+
+### Verified version references
+- The evidence references: revision.
+
+### Verified sound evidence
+Woodchipper VFE Pedals Woodchipper bass octave fuzz files v(e) Design (new company) Related Maestro BB-1 Bass Brassmaster Behringer Bass Brassmaster Fuzz Black Cat Bass Octave Fuzz (copy) Free State FX Brainblaster General Guitar Gadgets Maestro Brass Master Replica Hiero Effects B.E.A.D.
+Published on January 30, 2013 VFE Pedals octave fuzz (1 octave down) pedal NAMM 2013 Information VFE Pedals The initial goal of the Woodchipper is to cram the vintage Maestro Brassmaster circuit into a VFE size enclosure.
+The BOTTOM control blends a clean, low frequency part of the signal & infuses it into the fuzz section.
+
+### Sources checked in this pass
+1. Woodchipper by VFE Pedals | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/VFE-Pedals/Woodchipper/68986111/
+2. VFE Pedals Woodchipper | Effects Database: https://www.effectsdatabase.com/model/vfe/woodchipper
 
 ## Deep research verification
 

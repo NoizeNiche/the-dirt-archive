@@ -35,7 +35,11 @@ Foxgear's Muffin is cataloged as a distortion pedal.
 
 ## Sound
 
-No verified pedal-specific sonic summary is currently established in the archive.
+**Archive parent:** Muffin - **Builder:** Foxgear - **Catalog type:** Distortion - **Identity:** Foxgear's Muffin.
+
+Foxgear's Muffin is cataloged as a distortion pedal.
+
+FoxGear Bass Muffin Distortion Effects Pedal Black and White - No distinct factory revision was established in the verified evidence packet.
 
 ## Sources checked
 
@@ -51,6 +55,36 @@ No verified pedal-specific sonic summary is currently established in the archive
 ## Photo
 
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Foxgear's Muffin is cataloged as a distortion pedal.
+
+### Verified color/finish evidence
+- FoxGear Bass Muffin Distortion Effects Pedal Black and White - No distinct factory revision was established in the verified evidence packet.
+- FoxGear Bass Muffin Distortion Effects Pedal Black and White 1.
+- FoxGear Bass Muffin Distortion Effects Pedal Black and White
+
+### Verified version references
+- The evidence references: revision.
+
+### Verified sound evidence
+**Archive parent:** Muffin - **Builder:** Foxgear - **Catalog type:** Distortion - **Identity:** Foxgear's Muffin.
+Foxgear's Muffin is cataloged as a distortion pedal.
+FoxGear Bass Muffin Distortion Effects Pedal Black and White - No distinct factory revision was established in the verified evidence packet.
+
+### Sources checked in this pass
+1. Foxgear Muffin Fuzz - Reverb: https://reverb.com/p/foxgear-muffin-fuzz
+2. Foxgear Muffin Fuzz - What To Know & Where To Buy | Equipboard: https://equipboard.com/items/foxgear-muffin-fuzz
+3. FOXGEAR / MUFFIN260615 - eBay: https://www.ebay.com/itm/307002850880
+4. FoxGear Bass Muffin Distortion Effects Pedal Black and White | Guitar Center: https://www.guitarcenter.com/Open-Box/FoxGear/Bass-Muffin-Distortion-Effects-Pedal.gc
+5. Foxgear Bass Muffin Data Sheet - ManualMachine.com: https://manualmachine.com/foxgear/bassmuffin/19066830-data-sheet/
+6. Foxgear FXMFF MUFFIN Product Manual | Manualzz: https://manualzz.com/doc/68129618/foxgear-fxmff-muffin-product-manual
+7. Foxgear Bass Muffin? - TalkBass.com: https://www.talkbass.com/threads/foxgear-bass-muffin.1471294/
+8. Foxgear Bass Muffin - Effects Pedals: https://www.effects-pedals.info/p/foxgear-bass-muffin/
 
 ## Deep research verification
 

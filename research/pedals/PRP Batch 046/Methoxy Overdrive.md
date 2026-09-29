@@ -9,7 +9,7 @@
 
 ## What this pedal is
 
-Alen Geere's Methoxy Overdrive is cataloged in the archive as a Overdrive pedal.
+Methoxy Overdrive Published on June 14, 2018 Alen Geere boost / preamp overdrive pedal Information Alen Geere Methoxy is a low to medium gain, tube-like overdrive pedal that we designed to get a€oeCranked 6V6 loaded tube ampa€ like tones.
 
 ## Colorways
 
@@ -47,6 +47,28 @@ You can have lots of gain at first drive mode and plus more bass content at seco
 ## Photo
 
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Methoxy Overdrive Published on June 14, 2018 Alen Geere boost / preamp overdrive pedal Information Alen Geere Methoxy is a low to medium gain, tube-like overdrive pedal that we designed to get a€oeCranked 6V6 loaded tube ampa€ like tones.
+
+### Verified color/finish evidence
+- No specific factory colorway information was established in the verified evidence packet.
+
+### Verified version references
+- The evidence references: revision, v2.
+
+### Verified sound evidence
+Methoxy Overdrive Published on June 14, 2018 Alen Geere boost / preamp overdrive pedal Information Alen Geere Methoxy is a low to medium gain, tube-like overdrive pedal that we designed to get a€oeCranked 6V6 loaded tube ampa€ like tones.
+Of course, if you want it clean, it stays clean with a remarkable headroom, and if you want to add a little dirt, there is also a low gain stage in clean mode.
+For more saturation, just activate the boost section to push the pedal harder.
+
+### Sources checked in this pass
+1. Alen Geere Methoxy Overdrive | Effects Database: https://www.effectsdatabase.com/model/alengeere/methoxy
+2. Boutique Analog Pedals at Evie Wynyard blog: https://storage.googleapis.com/dftrlbeeagavfe/boutique-analog-pedals.html
 
 ## Deep research verification
 

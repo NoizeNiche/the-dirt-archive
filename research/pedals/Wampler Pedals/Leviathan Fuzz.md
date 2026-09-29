@@ -36,7 +36,11 @@ Wampler Pedals's Leviathan Fuzz is cataloged in the archive as a Fuzz pedal.
 
 ## Sound
 
-No verified pedal-specific sonic summary is currently established in the archive.
+Published on March 5, 2011 Wampler Pedals fuzz pedal design design preview preview Information Wampler Pedals A consistent and versatile fuzz that unleashes your sound's inner monster.
+
+What Wampler Pedals does is make pedals that retain your tone and add to it, not smash it into a million pieces.
+
+Brian had created an uber aggressive fuzz pedal: not only does it destroy your tone, it somehow also manages to retain it.
 
 ## Sources checked
 
@@ -53,6 +57,31 @@ This pass adds only claims supported by the newly admitted exact-model evidence.
 
 ### Verified description
 Published on March 5, 2011 Wampler Pedals fuzz pedal design design preview preview Information Wampler Pedals A consistent and versatile fuzz that unleashes your sound's inner monster.
+
+### Verified color/finish evidence
+- No specific factory colorway information was established in the verified evidence packet.
+
+### Verified version references
+- The evidence references: MK II, MKII, MkII, revision, v2.
+
+### Verified transistor/device terms
+- 2N5088s, 2N5088.
+
+### Verified sound evidence
+Published on March 5, 2011 Wampler Pedals fuzz pedal design design preview preview Information Wampler Pedals A consistent and versatile fuzz that unleashes your sound's inner monster.
+What Wampler Pedals does is make pedals that retain your tone and add to it, not smash it into a million pieces.
+Brian had created an uber aggressive fuzz pedal: not only does it destroy your tone, it somehow also manages to retain it.
+
+### Sources checked in this pass
+1. Wampler Pedals Leviathan Fuzz | Effects Database: https://www.effectsdatabase.com/model/wampler/leviathan
+2. Wampler Pedals Leviathan Fuzz: Deep-Dive Video Review & Sonic Analysis | GearStrings: https://gearstrings.com/gear-reviews/video-review-wampler-pedals-leviathan-fuzz
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Wampler Pedals's Leviathan Fuzz is cataloged in the archive as a Fuzz pedal.
 
 ### Verified color/finish evidence
 - No specific factory colorway information was established in the verified evidence packet.

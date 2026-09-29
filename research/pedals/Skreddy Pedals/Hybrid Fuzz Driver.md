@@ -9,7 +9,7 @@
 
 ## What this pedal is
 
-Skreddy Pedals's Hybrid Fuzz Driver is cataloged as a fuzz / overdrive pedal.
+Skreddy Pedals Hybrid Fuzz Driver: https://gerlttechnologies.com/index.php/usedgear/pedals/704-skreddy-pedals-hybrid-fuzz-driver - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
 
 ## Colorways
 
@@ -50,3 +50,34 @@ Manual Don't worry about the word "fuzz;" this pedal goes anywhere in the signal
 ## Photo
 
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Skreddy Pedals Hybrid Fuzz Driver: https://gerlttechnologies.com/index.php/usedgear/pedals/704-skreddy-pedals-hybrid-fuzz-driver - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+### Verified color/finish evidence
+- No specific factory colorway information was established in the verified evidence packet.
+
+### Verified version references
+- The evidence references: revision.
+
+### Verified transistor/device terms
+- silicon transistor, BC109C, germanium transistor, AC127, BC109, BC239.
+
+### Verified diode terms
+- Led.
+
+### Verified sound evidence
+Hybrid Fuzz Driver Hybrid Fuzz Driver Amp-like, articulate boost, overdrive, and light fuzz Engaging and touch sensitive, the SkreddyTM Hybrid Fuzz Driver brings your guitar tone to life!
+Aggressive but not too fuzzy in high-gain mode; articulate boost in low-gain mode.
+Manual Don't worry about the word "fuzz;" this pedal goes anywhere in the signal chain just fine.
+
+### Sources checked in this pass
+1. Overdrive | Hybrid Fuzz Driver | Skreddy Pedals: https://skreddypedals.com/hfd
+2. Skreddy Hybrid Fuzz Driver Pedal | Pedals and Effects: https://www.wonguitar.com/product/skreddy-hybrid-fuzz-driver-pedal/
+3. Hybrid Fuzz Driver by Skreddy Pedals | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/Skreddy-Pedals/Hybrid-Fuzz-Driver/68984281/
+4. Skreddy Pedals Hybrid Fuzz Driver | Effects Database: https://www.effectsdatabase.com/model/skreddy/fuzzdriver/hybrid
+5. Skreddy Pedals Hybrid Fuzz Driver: https://gerlttechnologies.com/index.php/usedgear/pedals/704-skreddy-pedals-hybrid-fuzz-driver

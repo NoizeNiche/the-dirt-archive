@@ -9,7 +9,7 @@
 
 ## What this pedal is
 
-Alen Geere's Loverdrive is cataloged in the archive as a Overdrive pedal.
+Loverdrive Published on August 16, 2010 Alen Geere overdrive pedal Information Alen Geere Alen Geere Loverdrive has 3 gain stages and it is designed for middle and high gain stages.
 
 ## Colorways
 
@@ -47,6 +47,29 @@ When you increase the gain knob, the output level of the pedal is not effected c
 ## Photo
 
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Loverdrive Published on August 16, 2010 Alen Geere overdrive pedal Information Alen Geere Alen Geere Loverdrive has 3 gain stages and it is designed for middle and high gain stages.
+
+### Verified color/finish evidence
+- No specific factory colorway information was established in the verified evidence packet.
+
+### Verified version references
+- The evidence references: mkII, revision.
+
+### Verified sound evidence
+Loverdrive Published on August 16, 2010 Alen Geere overdrive pedal Information Alen Geere Alen Geere Loverdrive has 3 gain stages and it is designed for middle and high gain stages.
+The Level knob control the output level and the gain knob controls the gain level.
+When you increase the gain knob, the output level of the pedal is not effected cause of it.
+
+### Sources checked in this pass
+1. Alen Geere Loverdrive | Effects Database: https://www.effectsdatabase.com/model/alengeere/loverdrive
+2. catalog/override source: https://reverb.com/item/11628-alen-geere-loverdrive
+3. Alen Geere — Loverdrive: https://kr.pinterest.com/pin/308285537013807947/
 
 ## Deep research verification
 

@@ -36,7 +36,11 @@ VFE Pedals's Triumvirate is cataloged in the archive as a Distortion pedal.
 
 ## Sound
 
-No verified pedal-specific sonic summary is currently established in the archive.
+**Archive parent:** Triumvirate - **Builder:** VFE Pedals - **Catalog type:** Distortion - **Identity:** VFE Pedals's Triumvirate.
+
+VFE Pedals's Triumvirate is cataloged in the archive as a Distortion pedal.
+
+Published on July 31, 2011 VFE Pedals distortion pedal Information VFE Pedals The Triumvirate is a unique take on an distortion box.
 
 ## Sources checked
 
@@ -46,6 +50,31 @@ No verified pedal-specific sonic summary is currently established in the archive
 ## Photo
 
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+VFE Pedals's Triumvirate is cataloged in the archive as a Distortion pedal.
+
+### Verified color/finish evidence
+- No specific factory colorway information was established in the verified evidence packet.
+
+### Verified version references
+- The evidence references: V2, revision.
+
+### Verified diode terms
+- LEDs, 1N4002.
+
+### Verified sound evidence
+**Archive parent:** Triumvirate - **Builder:** VFE Pedals - **Catalog type:** Distortion - **Identity:** VFE Pedals's Triumvirate.
+VFE Pedals's Triumvirate is cataloged in the archive as a Distortion pedal.
+Published on July 31, 2011 VFE Pedals distortion pedal Information VFE Pedals The Triumvirate is a unique take on an distortion box.
+
+### Sources checked in this pass
+1. Triumvirate by VFE Pedals | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/VFE-Pedals/Triumvirate/68986107/
+2. VFE Pedals Triumvirate | Effects Database: https://www.effectsdatabase.com/model/vfe/triumvirate
 
 ## Deep research verification
 

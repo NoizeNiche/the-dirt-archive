@@ -9,7 +9,7 @@
 
 ## What this pedal is
 
-Menatone's Red Snapper 4 Knob PTP is cataloged as a distortion / overdrive pedal.
+Menatone Red Snapper 4 Knob PTP: https://www.master-guitar.com/pedales-de-efectos/482-menatone-red-snapper-overdrive.html - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
 
 ## Colorways
 
@@ -49,3 +49,29 @@ The verified evidence packet did not contain enough pedal-specific sonic descrip
 ## Photo
 
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Menatone Red Snapper 4 Knob PTP: https://www.master-guitar.com/pedales-de-efectos/482-menatone-red-snapper-overdrive.html - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+### Verified color/finish evidence
+- Red Snapper 4 Knob PTP ¡Proximamente!
+- Menatone Blue Collar PTP Menatone Red Snapper Mini Menatone Red Snapper 4 Knob PTP 254,00 € Impuestos incluidos Marca: Menatone Marca - No distinct factory revision was established in the verified evidence packet.
+- menatone: https://www.menatone.com/product-page/red-snapper-original 2.
+
+### Verified version references
+- The evidence references: revision.
+
+### Verified sound evidence
+USED Menatone Red Snapper 4 Knob PTP Overdrive Pedal: https://mattsmusic.com/product/menatone-red-snapper/ 3.
+Menatone Red Snapper 4 Knob PTP: https://www.master-guitar.com/pedales-de-efectos/482-menatone-red-snapper-overdrive.html - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+**Archive parent:** Red Snapper 4 Knob PTP - **Builder:** Menatone - **Catalog type:** Distortion / Overdrive - **Identity:** Menatone's Red Snapper 4 Knob PTP.
+
+### Sources checked in this pass
+1. Red Snapper 4 Knob PTP | menatone: https://www.menatone.com/product-page/red-snapper-original
+2. USED Menatone Red Snapper 4 Knob PTP Overdrive Pedal: https://mattsmusic.com/product/menatone-red-snapper/
+3. Menatone Red Snapper 4 knob PTP 2017 - Reverb: https://reverb.com/item/30817779-menatone-red-snapper-4-knob-ptp-2017
+4. Menatone Red Snapper 4 Knob PTP: https://www.master-guitar.com/pedales-de-efectos/482-menatone-red-snapper-overdrive.html

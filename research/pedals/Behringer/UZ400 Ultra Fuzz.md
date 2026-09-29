@@ -64,3 +64,30 @@ The official UZ400 page was checked directly, with the Behringer product descrip
 
 - **Exact pedal photograph:** Behringer official image.
 - https://cdn-media.empowertribe.com/44ade04164b04517a49757f6d17e1f02/Image_BE_0709-ACL_UZ400_Web-Banner_Mobile_2023-09-13_Rev.0.jpg
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Exact clipping/protection device and part number are not publicly docu - **Archive parent:** UZ400 Ultra Fuzz - **Builder:** Behringer - **Catalog type:** Fuzz / Distortion - **Identity:** Three-control fuzz/distortion stompbox with Fuzz, Tone and Level, documented by Behringer as vintage-style high-gain fuzz.
+
+### Verified color/finish evidence
+- **FUZZ** - **TONE** - **LEVEL** - Blue activation LED.
+- Orange enclosure is the documented standard production presentation.
+- The blue LED tells you when it's activated and the on/off switch maintains outstanding signal integrity in bypass mode.
+
+### Verified version references
+- The evidence references: revision.
+
+### Verified diode terms
+- LED.
+
+### Verified sound evidence
+**FUZZ** - **TONE** - **LEVEL** - Blue activation LED.
+Behringer describes the UZ400 as a classic/vintage-style fuzz-distortion design.
+Behringer positions the UZ400 around aggressive vintage grit, buzzy/saw-like attack and sustained lead tones.
+
+### Sources checked in this pass
+1. Behringer — UZ400 Ultra Fuzz: https://cdn-media.empowertribe.com/44ade04164b04517a49757f6d17e1f02/Image_BE_0709-ACL_UZ400_Web-Banner_Mobile_2023-09-13_Rev.0.jpg
+2. UZ400 | Behringer: https://www.behringer.com/en/products/0709-ACL
