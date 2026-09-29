@@ -7,31 +7,26 @@
 - **Identity:** Lovepedal / Love Pedal's Super Six.
 
 ## What this pedal is
-Lovepedal / Love Pedal's Super Six is cataloged as an overdrive pedal.
-
-## Colorways
-- No specific factory colorway information was established in the verified evidence packet.
+The Super Six is a blackface-style American amp-in-a-box overdrive/preamp.
 
 ## Versions and factory options
-- No distinct factory revision was established in the verified evidence packet.
-
-## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- **Stevie Mod** is a documented higher-gain variant.
+- Finish variants are not treated as circuit revisions.
+- No complete numbered production chronology was established.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
-- **Exact transistor/device:** Unknown.
+- Exact production semiconductor details were not established.
 
 ## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
-- **Exact part:** Unknown.
+- Exact clipping/rectifier diode information was not established.
 
 ## Sound
-TCHULA 200lbs PURPLE PLEXI ETERNITY BURST HERMIDA ZENDRIVE DOVER DRIVE AMP ELEVEN RUBBER CHICKEN HERMIDA EPH3 © All rights reserved 2026 LOVEPEDAL L.L.C.
-The Dirt Archive currently catalogs **Super Six** by **Lovepedal / Love Pedal** as a **Overdrive** pedal.
+Designed for buffering, boosting and adding blackface-era Fender Super-style coloration.
 
 ## Sources checked
-1. Love Pedal: https://www.lovepedal.com/
+1. Lovepedal - Super Six: https://www.lovepedal.com/pedals/super-six/
+2. Reverb - Lovepedal Super Six: https://reverb.com/p/lovepedal-super-six
+3. Effects Database - Lovepedal Super Six: https://www.effectsdatabase.com/model/lovepedal/supersix
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.
