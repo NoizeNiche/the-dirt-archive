@@ -36,7 +36,7 @@ This pass adds only claims supported by the newly admitted exact-model evidence.
 Build Your Own Clone's Li'l Mouse is cataloged as a distortion pedal.
 
 ### Verified color/finish evidence
-- Δ More Schematics Based On: RAT Red Rat Add To Cart Based On: Earthqueaker Devices's Life Pedal Life Device (Compact Version) by PCB Guitar Mania Add To Cart Universal OpAmp head preamp emulators (Peavey / Bogner / MESA) project by implex Add To Cart (c) Stomp Box Schematics
+
 
 ### Verified sound evidence
 LM308 opamp for authentic vintage tone.
