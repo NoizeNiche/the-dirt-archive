@@ -286,8 +286,30 @@ def main() -> None:
         target = target_path(entry)
         if target.exists():
             try:
-                validate(target.read_bytes())
+                width, height = validate(target.read_bytes())
+                # A valid staged source may be the residue of a previous worker
+                # that reached download but not manifest publication. Treat it as
+                # a recoverable result instead of silently skipping it forever.
+                direct_results.append({
+                    "builder": k[0],
+                    "pedal": k[1],
+                    "image": "./" + target.with_suffix(".webp").as_posix(),
+                    "image_source_url": image_url if rows else "",
+                    "image_source_page": source_page if rows else "",
+                    "imageFile": "./" + target.as_posix(),
+                    "verification": {
+                        "method": "direct_exact",
+                        "identityVerified": True,
+                        "sourceScore": 1400,
+                        "strongSearchIdentity": False,
+                        "stagedResume": True,
+                    },
+                })
                 skipped += 1
+                print(
+                    f"Reusing verified staged exact photo: {k[0]} / {k[1]} "
+                    f"({width}x{height}) from {source_page}"
+                )
                 continue
             except Exception:
                 # A stale/corrupt staged source must not permanently suppress
