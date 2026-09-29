@@ -1,6 +1,8 @@
 {
   "builder": "Greer Amps",
   "pedal": "Reactor #4",
+  "original_builder": "Greer Amps",
+  "original_pedal": "Reactor #4",
   "status": "VERIFIED_EVIDENCE_STAGED",
   "independent_exact_source_count": 1,
   "sources": [
