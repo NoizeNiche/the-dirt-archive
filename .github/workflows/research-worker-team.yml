@@ -110,12 +110,37 @@ jobs:
           verdicts = {}
           try:
               from pathlib import Path
+              internal_markers = (
+                  "prp identity", "archive parent:", "this pass adds only claims supported",
+                  "earlier archive research is retained", "photo recovery is handled separately",
+                  "sources checked in this pass", "deep research verification",
+                  "the archive records only", "research confidence", "catalog type:",
+              )
+              residue_markers = (
+                  "skip to content", "skip to navigation", "add to cart", "shopping cart",
+                  "shop pay", "gear card", "javascript is disabled", "related brands",
+                  "related tags", "reviews myfxdb user reviews", "where to find one",
+                  "install effects database app",
+              )
+              def packet_is_source_clean(packet):
+                  sources = packet.get("sources") if isinstance(packet.get("sources"), list) else []
+                  clean = 0
+                  for source in sources:
+                      if not isinstance(source, dict):
+                          continue
+                      excerpt = " ".join(str(source.get(k) or "") for k in ("excerpt","bodyExcerpt")).lower()
+                      if not excerpt or any(marker in excerpt for marker in internal_markers + residue_markers):
+                          continue
+                      if len(excerpt.strip()) < 40:
+                          continue
+                      clean += 1
+                  return clean >= 1
               for packet_path in Path("research/RESEARCH_INBOX").rglob("*.json"):
                   try:
                       packet=json.load(open(packet_path, encoding="utf-8"))
                   except Exception:
                       continue
-                  if packet.get("status")=="VERIFIED_EVIDENCE_STAGED":
+                  if packet.get("status")=="VERIFIED_EVIDENCE_STAGED" and packet_is_source_clean(packet):
                       key=(str(packet.get("builder","")).strip(),str(packet.get("pedal","")).strip())
                       if key[0] and key[1]:
                           verdicts[key]="EVIDENCE_READY"
