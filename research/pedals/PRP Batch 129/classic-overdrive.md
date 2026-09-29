@@ -47,7 +47,6 @@ Build Your Own Clone's Classic Overdrive is cataloged as an overdrive pedal.
 
 ### Verified sound evidence
 This build is designed to be simple and affordable, offering the same tone as the original TS-808 at a fraction of the cost of reissues and boutique versions.
-Based On: Horizon Devices Precision drive Collision Drive by PCB Guitar Mania Add To Cart (c) Stomp Box Schematics
 
 ### Sources checked in this pass
 1. Classic Overdrive by Build Your Own Clone (BYOC) - Stomp Box Schematics: https://stompboxschematics.com/circuits/classic-overdrive-by-build-your-own-clone-byoc/
