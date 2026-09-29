@@ -7,41 +7,30 @@
 - **Identity:** Cleveland Music Co. EastSide Overdrive.
 
 ## What this pedal is
-The Dirt Archive's Scrape C census records this exact builder/model identity and classifies it as **Overdrive**. The current retained source material does not provide enough exact-model documentation to safely assign circuit lineage, full control layout, component values, or revision history.
+EastSide Overdrive is Cleveland Music Co.'s boutique **Timmy-style** overdrive. The checked product material describes it as an open, transparent design built around the familiar low-gain overdrive concept.
 
 ## Colorways
-No complete factory colorway sequence was established.
+- No complete factory colorway sequence was established.
 
 ## Versions and factory options
-No secure exact-model version or factory-option list was established.
+- The checked sources do not establish a secure numbered hardware revision.
+- Exact control/component details are not carried forward unless directly documented.
 
 ## Version changes
-No reliable numbered revision history was established.
+- No reliable numbered revision history was established.
 
 ## Transistor
-Unknown from the checked exact-model documentation.
+- Unknown from the checked exact-model documentation.
 
 ## Diode
-Unknown from the checked exact-model documentation.
+- Unknown from the checked exact-model documentation.
 
 ## Sound
-The model is documented as overdrive. A more detailed sonic characterization is deferred until stronger exact-model evidence is available.
+EastSide is described as an open, transparent low-gain overdrive designed around the response of the Timmy family.
 
 ## Sources checked
-1. The Dirt Archive Scrape C census: `research/SCRAPE_C_CENSUS.csv`
+1. Cleveland Music Co. - EastSide Overdrive: https://clevelandmusicco.com/products/cleveland-music-co-eastside-overdrive-premium-timmy-clone-w-mods
+2. Cleveland Music Co. - EastSide Overdrive Reverb listing: https://reverb.com/item/67983047-cleveland-music-co-eastside-overdrive
 
-## Deep research verification
-
-This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
-
-### Verified description
-EastSide Overdrive is our love letter to the pinnacle of transparent, boutique overdrives: the Timmy.
-
-### Verified sound evidence
-EastSide Overdrive – Cleveland Music Co.
-Quantity Quantity ( 0 in cart) Decrease quantity for EastSide Overdrive Increase quantity for EastSide Overdrive Add to cart Couldn't load pickup availability Refresh Pre-assembled kit: Please allow 5–10 business days for assembly before shipment.
-An open, transparent overdrive with versatile tone-shaping options, the EastSide builds on the traditions of one of the most iconic overdrives of the “boutique” era.
-
-### Sources checked in this pass
-1. EastSide Overdrive &ndash; Cleveland Music Co.: https://clevelandmusicco.com/products/cleveland-music-co-eastside-overdrive-premium-timmy-clone-w-mods
-2. Cleveland Music Co Eastside Overdrive - Reverb: https://reverb.com/item/67983047-cleveland-music-co-eastside-overdrive
+## Photo
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.

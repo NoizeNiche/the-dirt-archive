@@ -7,45 +7,32 @@
 - **Identity:** Cleveland Music Co. Flats Distortion.
 
 ## What this pedal is
-The Dirt Archive's Scrape C census records this exact builder/model identity and classifies it as **Distortion**. The current retained source material does not provide enough exact-model documentation to safely assign circuit lineage, full control layout, component values, or revision history.
+Flats Distortion is a Cleveland Music Co. distortion designed around a tight, aggressive response with a strong 1980s character.
 
 ## Colorways
-No complete factory colorway sequence was established.
+- No complete factory colorway sequence was established.
 
 ## Versions and factory options
-No secure exact-model version or factory-option list was established.
+- The checked sources do not establish a secure numbered hardware revision.
+- A **germanium diode** is documented in the admitted evidence, but the exact clipping network is not fully specified.
 
 ## Version changes
-No reliable numbered revision history was established.
+- No reliable numbered revision history was established.
 
 ## Transistor
-Unknown from the checked exact-model documentation.
+- Exact production transistor/device information was not established.
 
 ## Diode
-Unknown from the checked exact-model documentation.
+- **Documented device:** germanium diode.
+- Exact production part number is not established.
 
 ## Sound
-The model is documented as distortion. A more detailed sonic characterization is deferred until stronger exact-model evidence is available.
+The Flats is described as tight and distinctive, with an aggressive 1980s-style distortion character and more flexibility than a one-trick classic distortion circuit.
 
 ## Sources checked
-1. The Dirt Archive Scrape C census: `research/SCRAPE_C_CENSUS.csv`
+1. Cleveland Music Co. - Flats Distortion: https://clevelandmusicco.com/products/flats-distortion
+2. Reverb - Cleveland Music Co. Flats Distortion: https://reverb.com/item/67983128-cleveland-music-co-flats-distortion
+3. Premier Guitar - Cleveland Music Co. Flats: https://www.premierguitar.com/cleveland-music-co-flats
 
-## Deep research verification
-
-This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
-
-### Verified description
-The Flats Distortion has a tight, distinctive character that oozes 1981, but it is much more than a one-trick rodent.
-
-### Verified diode terms
-- germanium diode.
-
-### Verified sound evidence
-Flats Distortion – Cleveland Music Co.
-Quantity Quantity ( 0 in cart) Decrease quantity for Flats Distortion Increase quantity for Flats Distortion Add to cart Couldn't load pickup availability Refresh Pre-assembled kit: Please allow 5–10 business days for assembly before shipment.
-The Flats Distortion has a tight, distinctive character that oozes 1981, but it is much more than a one-trick rodent.
-
-### Sources checked in this pass
-1. Flats Distortion &ndash; Cleveland Music Co.: https://clevelandmusicco.com/products/flats-distortion
-2. Cleveland Music Co Flats Distortion - Reverb: https://reverb.com/item/67983128-cleveland-music-co-flats-distortion
-3. Cleveland Music Co. Introduces New Flats Distortion Pedal - Premier Guitar: https://www.premierguitar.com/cleveland-music-co-flats
+## Photo
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.

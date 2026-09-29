@@ -4,13 +4,13 @@
 - **Archive parent:** WestSide Overdrive
 - **Builder:** Cleveland Music Co.
 - **Catalog type:** Overdrive
-- **Identity:** Cleveland Music Co. WestSide Overdrive, a Blues Breaker/JTM45-inspired low-gain overdrive with presence and switchable clipping.
+- **Identity:** Cleveland Music Co. WestSide Overdrive.
 
 ## What this pedal is
-Cleveland Music Co. describes WestSide as a Blues Breaker-inspired overdrive developed by comparing the original JTM45 amplifier, the original pedal, and later descendants. The builder added more output, a Presence control, and alternate clipping while keeping the response touch-sensitive and low-gain oriented. [1]
+WestSide is a Blues Breaker-inspired low-gain overdrive developed around the relationship between the original JTM45 amplifier, the classic Blues Breaker-style circuit, and later descendants.
 
 ## Colorways
-The official listing documents the exact model and multiple product images but does not establish a complete factory colorway sequence. [1]
+- No complete factory colorway sequence was established.
 
 ## Versions and factory options
 Controls:
@@ -18,45 +18,31 @@ Controls:
 - **GAIN**
 - **PRESENCE**
 - **TONE**
-- **COMP / OPEN** clipping switch [1]
+- **COMP / OPEN** clipping switch
 
-The Open position inserts LEDs as clipping diodes, producing a brighter, louder, more open sound. The Compressed position is the traditional clipping arrangement for the design. [1]
+The Open position uses LED clipping for a brighter, louder, more open response. The Compressed position retains the traditional clipping arrangement.
 
 Additional hardware:
 - True bypass.
 - Top-mounted audio and power jacks.
-- Industry-standard 125B enclosure. [1]
+- 125B enclosure.
 
 ## Version changes
-No formal numbered factory revision sequence was established.
+- No formal numbered factory revision sequence was established.
 
 ## Transistor
-No exact-model transistor part number was established in the checked documentation.
+- No exact-model transistor part number was established.
 
 ## Diode
-The builder explicitly documents **LED clipping** in the Open position. Exact LED part numbers were not established. [1]
+- **LED clipping** is explicitly documented for the Open position.
+- Exact LED part numbers were not established.
 
 ## Sound
-WestSide is voiced as a warm, rich, transparent low-gain drive. The Presence control adapts the pedal to different amps/pickups, while Open clipping increases brightness, output, and openness compared with the traditional compressed setting. [1]
+WestSide is voiced as a warm, transparent low-gain drive. Presence adapts the response to different rigs, while Open clipping increases brightness and output.
 
 ## Sources checked
-1. Cleveland Music Co. — WestSide Overdrive: https://clevelandmusicco.com/products/cleveland-music-co-westside-overdrive-premium-marshall-blues-breaker-clone-w-mods
-2. Cleveland Music Co. — Overdrive & Distortion collection: https://clevelandmusicco.com/collections/overdrive-distortion
+1. Cleveland Music Co. - WestSide Overdrive: https://clevelandmusicco.com/products/cleveland-music-co-westside-overdrive-premium-marshall-blues-breaker-clone-w-mods
+2. Cleveland Music Co. - Overdrive & Distortion collection: https://clevelandmusicco.com/collections/overdrive-distortion
 
-## Deep research verification
-
-This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
-
-### Verified description
-The WestSide Overdrive is a bluesy, low-gain overdrive inspired by a certain English-made pedal from 1991 … which was inspired by a certain English-made amplifier from 1962.
-
-### Verified diode terms
-- LEDs.
-
-### Verified sound evidence
-WestSide Overdrive – Cleveland Music Co.
-Quantity Quantity ( 0 in cart) Decrease quantity for WestSide Overdrive Increase quantity for WestSide Overdrive Add to cart Couldn't load pickup availability Refresh Pre-assembled kit: Please allow 5–10 business days for assembly before shipment.
-The WestSide Overdrive is a bluesy, low-gain overdrive inspired by a certain English-made pedal from 1991 … which was inspired by a certain English-made amplifier from 1962.
-
-### Sources checked in this pass
-1. WestSide Overdrive &ndash; Cleveland Music Co.: https://clevelandmusicco.com/products/cleveland-music-co-westside-overdrive-premium-marshall-blues-breaker-clone-w-mods
+## Photo
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.

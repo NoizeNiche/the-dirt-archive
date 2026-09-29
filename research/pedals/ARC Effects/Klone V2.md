@@ -7,33 +7,32 @@
 - **Identity:** ARC Effects's Klone V2.
 
 ## What this pedal is
-Klone V2 — ARC Effects Pedals Shepherd Soothsayer Big Green Crimson King Gamut Klone V2 Custom Shop Gallery In Stock Repairs Contact ARC Effects Pedals Shepherd Soothsayer Big Green Crimson King Gamut Klone V2 Custom Shop Gallery In Stock Repairs Contact 8/24 Update: KV2s are now available!
+Klone V2 is ARC Effects' version of the familiar Klon-style overdrive/boost circuit. ARC describes it as a dynamic overdrive with a strong clean-boost capability.
 
 ## Colorways
-- No specific factory colorway information was established in the verified evidence packet.
+- No complete factory colorway chronology was established in the checked source.
 
 ## Versions and factory options
-- The verified evidence references: V1, V2.
-- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+- **V1** and **V2** are documented.
+- V2 adds an internal DIP-switch bass-boost option.
+- Exact additional internal changes were not established.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- The documented V2 adds an internal bass-boost option to the underlying Klon-style design.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
+- Exact production transistor/device information was not established.
 - **Exact transistor/device:** Unknown.
 
 ## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- Exact clipping/rectifier diode information was not established.
 - **Exact part:** Unknown.
 
 ## Sound
-KLONE V2 (K2) The ARC Effects Klone V2 is a faithful recreation of the now out of production and highly sought after "K" overdrive pedal.
-Known for it's unbeatable clean boost, incredibly dynamic overdriven sound, and ability to stand out the mix, the "K" circuit is held to the highest standards for many.
-The Klone V2 takes this already incredible circuit one step further with the addition of an internal DIP switch for an added bass boost option.
+Klone V2 is designed for clean boost, dynamic low-to-medium gain overdrive, and added low-frequency weight when its internal bass-boost option is engaged.
 
 ## Sources checked
-1. Klone V2 — ARC Effects: https://www.arceffects.com/klone-v2
+1. ARC Effects - Klone V2: https://www.arceffects.com/klone-v2
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.

@@ -7,31 +7,32 @@
 - **Identity:** ARC Effects's Big Green.
 
 ## What this pedal is
-Big Green — ARC Effects Pedals Shepherd Soothsayer Big Green Crimson King Gamut Klone V2 Custom Shop Gallery In Stock Repairs Contact ARC Effects Pedals Shepherd Soothsayer Big Green Crimson King Gamut Klone V2 Custom Shop Gallery In Stock Repairs Contact View fullsize BIG GREEN The beast is back and better than ever!
+Big Green is ARC Effects' take on the Tall Font Green Russian Muff sound. ARC describes it as a version of the classic Russian Big Muff family intended to work well with both guitar and bass.
 
 ## Colorways
-- No specific factory colorway information was established in the verified evidence packet.
+- No complete factory colorway chronology was established in the checked source.
 
 ## Versions and factory options
-- The verified evidence references: V2, revision.
-- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+- The checked source references a **V2** revision.
+- ARC describes the circuit as a Tall Font Green Russian-style design.
+- Exact internal revision changes are not established here.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- V2 is retained as the documented revision reference without assigning unsupported component changes.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
+- Exact production transistor/device information was not established in the checked sources.
 - **Exact transistor/device:** Unknown.
 
 ## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- Exact clipping/rectifier diode information was not established.
 - **Exact part:** Unknown.
 
 ## Sound
-A new take on the classic "S" Tall Font Green Russian Distortion that's known far and wide for being as great with guitar as it is with bass.
+Big Green targets the thick, low-heavy fuzz character associated with Tall Font Green Russian Big Muff circuits and is documented as suitable for both guitar and bass.
 
 ## Sources checked
-1. Big Green — ARC Effects: https://www.arceffects.com/big-green
+1. ARC Effects - Big Green: https://www.arceffects.com/big-green
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.
