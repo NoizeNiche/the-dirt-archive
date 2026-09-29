@@ -4,38 +4,32 @@
 - **Archive parent:** High Road Fuzz Mini — limited / exclusive
 - **Builder:** Mythos Pedals
 - **Catalog type:** Fuzz
-- **Identity:** Mythos Pedals's High Road Fuzz Mini — limited / exclusive.
+- **Identity:** Mythos Pedals' Joey Landreth High Road Fuzz Mini edition.
 
 ## What this pedal is
-Mythos Pedals presents Distortion Pedals High Road Fuzz Mini .
-
-## Colorways
-- No specific factory colorway information was established in the verified evidence packet.
+The High Road Fuzz Mini was developed as a variant of the Golden Fleece fuzz for Joey Landreth. This record preserves the limited/exclusive catalog label rather than treating it as a separate circuit without evidence.
 
 ## Versions and factory options
-- No distinct factory revision was established in the verified evidence packet.
+- Compact Mini enclosure.
+- Golden Fleece-derived fuzz circuit.
+- Limited/exclusive Joey Landreth presentation.
+- Exact production component list was not established.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- This record represents a limited/exclusive presentation of the High Road Fuzz Mini family.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
-- **Exact transistor/device:** Unknown.
+- Exact production semiconductor complement was not established.
 
 ## Diode
-- Documented terms in the verified sources: Led.
-- The archive records only the component information explicitly present in these sources.
+- Exact clipping/rectifier diode information was not established.
 
 ## Sound
-For further details contact us at https://mythospedals.com/pages/contact A variant of the Golden Fleece Fuzz made for Joey Landreth.
-A fantastic little fuzz box that players know and love the world over.
-Customers also like Selectable Tone Cap $15.00 ( / ) Add to cart
+The High Road Fuzz Mini is a compact, vintage-oriented fuzz with the aggressive and sustaining character associated with the Golden Fleece lineage.
 
 ## Sources checked
-1. High Road Fuzz Mini &ndash; Mythos Pedals: https://mythospedals.com/products/high-road-fuzz
-2. Joey Landreth x Mythos Pedals High Road Fuzz Mini - Reverb: https://reverb.com/item/13580358-joey-landreth-x-mythos-pedals-high-road-fuzz-mini
-3. Mythos Pedals High Road Fuzz Mini: Good Match For You?: https://www.musicngear.com/mythos-pedals-high-road-fuzz-mini
-4. https://mattsmusic.com/product/mythos-pedals-high-road-fuzz-mini/: https://mattsmusic.com/product/mythos-pedals-high-road-fuzz-mini/
+1. Mythos Pedals - High Road Fuzz: https://mythospedals.com/products/high-road-fuzz
+2. Reverb - Joey Landreth x Mythos High Road Fuzz Mini: https://reverb.com/item/13580358-joey-landreth-x-mythos-pedals-high-road-fuzz-mini
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.
