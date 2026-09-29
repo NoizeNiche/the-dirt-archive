@@ -16937,11 +16937,9 @@
       "types": [
         "Overdrive"
       ],
-      "image": "./assets/pedals/bsq-effects/bo-2-bulls-on-overdrive-compressor/primary.webp",
       "source_page": "https://www.bsqeffects.com/pedales",
       "research_record": "./research/pedals/PRP Batch 118/bsq-effects-bo-2-bulls-on-overdrive-compressor.md",
       "image_source_page": "https://www.bsqeffects.com/pedales",
-      "image_source_url": "https://cdn.prod.website-files.com/57e45fc3d0ac813956dc9506/58bf00cb41bb42b54a53067a_sb1-scuttle-buttin-quick-guide.jpg",
       "research_level": "deep",
       "deep_research_status": "VERIFIED"
     },
@@ -16951,11 +16949,9 @@
       "types": [
         "Overdrive"
       ],
-      "image": "./assets/pedals/bsq-effects/dm-2-dynamite-overdrive-compressor/primary.webp",
       "source_page": "https://www.bsqeffects.com/pedales",
       "research_record": "./research/pedals/PRP Batch 118/bsq-effects-dm-2-dynamite-overdrive-compressor.md",
       "image_source_page": "https://www.bsqeffects.com/pedales",
-      "image_source_url": "https://cdn.prod.website-files.com/57e45fc3d0ac813956dc9506/58bf00cb41bb42b54a53067a_sb1-scuttle-buttin-quick-guide.jpg",
       "research_level": "deep",
       "deep_research_status": "VERIFIED"
     },
@@ -39376,12 +39372,10 @@
       "types": [
         "Fuzz"
       ],
-      "image": "./assets/pedals/j-rockett-audio-designs/wtf-fuzz/primary.webp",
       "source_page": "https://rockettpedals.com/",
       "research_record": "./research/pedals/J. Rockett Audio Designs/WTF Fuzz.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_url": "https://willcuttguitars.com/cdn/shop/files/wgslogo1311R_410x.png?v=1767731832",
       "image_source_page": "https://willcuttguitars.com/products/j-rockett-audio-designs-wtf-fuzz"
     },
     {
@@ -55455,12 +55449,10 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": "./assets/pedals/vox/mystic-edge/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/VOX/Mystic Edge.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_url": "https://voxamps.com/wp-content/uploads/2019/01/AC30S1-AC30-One-Twelve.png",
       "image_source_page": "https://voxamps.com/product/mystic-edge/"
     },
     {
