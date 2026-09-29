@@ -26,7 +26,7 @@ Blaze Dynamic Overdrive Releasing today is the Blaze , our take on the Tight Dri
 - **Exact part:** Unknown.
 
 ## Sound
-News Tracing Journal Tracing Journal: Amptweaker Tight Drive Tracing Journal: Amptweaker Tight Drive November 24, 2023 Tracing Journal Next up we have the Amptweaker Tight Drive.
+Next up we have the Amptweaker Tight Drive.
 It has the same “Tight” control, which is likely a variable low-cut that comes before the distortion, one of James’s trademarks found in all the other drive pedals and many of his amps.
 This loop can be set to come either before or after the Tight Drive, circumventing the need for complicated loop switching to turn on a series of pedals for a certain sound.
 

@@ -25,7 +25,6 @@ The Terra Firma is based around the LM386 power amp chip which offers the perfec
 - The archive records only the component information explicitly present in these sources.
 
 ## Sound
-Terra Firma – Zander Circuitry Home Store About FAQs/Terms Dealers Contact 0 Basket Home / Pedals / Terra Firma Terra Firma £ 149.00 The power-amp distortion.
 Our heaviest distortion to date, the Terra Firma packs a huge punch of pure, unadulterated power-amp distortion.
 Description Overview Deep Dive Tech Specs Demos Overview Please note: Our pedals no longer ship with both the option for momentary switching as standard (we surveyed customers and the overwhelming response was they didn’t use it), if you would like that specifically included in your build please email us after purchasing to let us know and we can still include this.
 

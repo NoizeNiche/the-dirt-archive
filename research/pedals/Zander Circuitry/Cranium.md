@@ -26,7 +26,6 @@ The Cranium is inspired by the framework of a circuit that’s been heard on cou
 - The archive records only the component information explicitly present in these sources.
 
 ## Sound
-Cranium – Zander Circuitry Home Store About FAQs/Terms Dealers Contact 0 Basket Home / Pedals / Cranium Cranium £ 149.00 The murine distortion.
 This classic distortion circuit has been tweaked and twisted by almost every pedal builder in the game, with countless mods to take the sound in different directions to suit different needs.
 The Cranium pulls the threads together for an all-in-one ‘rodent-style’ circuit that gives you the freedom to dial in the exact sound you’re looking for.
 
