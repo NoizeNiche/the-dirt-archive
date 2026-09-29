@@ -54,7 +54,7 @@ The Suhr Eclipse is a versatile, no compromise, dualchannel overdrive/distortion
 ### Verified version references
 - The evidence references: V60, V63, V70.
 
-### Verified transistor/device terms
+### Verified amp references
 - AC30.
 
 ### Verified diode terms
