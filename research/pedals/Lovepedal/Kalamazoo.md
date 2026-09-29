@@ -7,40 +7,35 @@
 - **Identity:** Lovepedal's Kalamazoo.
 
 ## What this pedal is
-He explains how he came to use it, “I’ll tell you – my new love is the Kalamazoo overdrive by Lovepedal.
-
-## Colorways
-- No specific factory colorway information was established in the verified evidence packet.
+The Kalamazoo is a smooth, harmonic overdrive with a treble-boost section built into its tone shaping. Lovepedal describes it as a dynamic low-to-medium gain drive whose high-frequency response can be adjusted without simply cutting bass.
 
 ## Versions and factory options
-- No distinct factory revision was established in the verified evidence packet.
+- **Drive**
+- **Level**
+- **Tone**
+- **Glass**
+- 9VDC–18VDC input.
+- True bypass.
+- Compact die-cast aluminum enclosure.
+- The archive distinguishes the documented **1st Gen** Kalamazoo from later named versions when evidence supports a separate identity.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- The checked Lovepedal source explicitly identifies the **Original/1st Gen** Kalamazoo.
+- No complete internal hardware revision chronology was established.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
-- **Exact transistor/device:** Unknown.
+- Exact production transistor/device information was not established.
 
 ## Diode
-- Documented terms in the verified sources: LED.
-- The archive records only the component information explicitly present in these sources.
+- LED status indicator is documented; exact clipping-device information was not established.
 
 ## Sound
-Love Pedal Home Pedals Press Videos Custom History Contact Kalamazoo Original Kalamazoo 9VDC – 18VDC Input 1st GEN Kalamazoo $225.00 PRODUCT DESCRIPTION Steers overdrive in a truly unique new direction.
-The tone control wired to work in series with it’s treble booster offers up super smooth, controllable highs.
-The available Gain has been boosted and even the most saturated notes ring with better definition than ever before.
+The Kalamazoo is voiced for smooth, chiming overdrive with strong harmonic content. Drive increases saturation, Tone softens treble, and Glass adds treble without the same bass loss associated with a conventional treble cut.
 
 ## Sources checked
-1. Kalamazoo | Love Pedal: http://www.lovepedal.com/pedals/kalamazoo/
-2. Lovepedal Kalamazoo - What To Know & Where To Buy | Equipboard: https://equipboard.com/items/lovepedal-kalamazoo
-3. Lovepedal Kalamazoo Original - Reverb: https://reverb.com/p/lovepedal-kalamazoo-original
-4. Lovepedal Kalamazoo review | MusicRadar: https://www.musicradar.com/reviews/guitars/lovepedal-kalamazoo-579538
-5. Lovepedal Kalamazoo Pedal - Billy Duffy: https://www.billyduffy.com/gear/lovepedal-kalamazoo-pedal/
-6. Kalamazoo by Lovepedal | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/Lovepedal/Kalamazoo/340785069/
-7. Lovepedal Kalamazoo - Effects Database: https://www.effectsdatabase.com/model/lovepedal/kalamazoo
-8. Kalamazoo — LOVEPEDAL | Specs, Review, Onde Comprar | Pedalboard Designer: https://pedalboarddesigner.com/pedals/lovepedal-kalamazoo
-9. Lovepedal Kalamazoo - Songs That Use This Pedal and How to Dial It In | ToneMirror: https://www.tonemirror.so/pedals/lovepedal-kalamazoo
+1. Lovepedal - Kalamazoo: https://www.lovepedal.com/pedals/kalamazoo/
+2. MusicRadar - Lovepedal Kalamazoo: https://www.musicradar.com/reviews/guitars/lovepedal-kalamazoo-579538
+3. Effects Database - Lovepedal Kalamazoo: https://www.effectsdatabase.com/model/lovepedal/kalamazoo
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.
