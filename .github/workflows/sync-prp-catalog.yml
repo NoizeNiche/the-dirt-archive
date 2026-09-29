@@ -10,6 +10,7 @@ on:
       - 'scripts/generate-surface-records.py'
       - 'scripts/build-research-queue.py'
       - 'scripts/reset-photo-recovery-targets.py'
+      - 'scripts/clean-research-content.py'
       - 'research/pedals/**'
   schedule:
     - cron: '*/15 * * * *'
@@ -20,7 +21,7 @@ permissions:
   actions: write
 
 concurrency:
-  group: dirt-prp-catalog-sync
+  group: dirt-archive-publisher-v1
   # Serialize scheduled and manual syncs instead of discarding an active reconciliation.
   cancel-in-progress: false
 
@@ -41,6 +42,8 @@ jobs:
 
       - name: Synchronize research records into canonical catalog and photo manifest
         run: python scripts/sync_prp_catalog.py
+      - name: Clean obvious research scrape residue
+        run: python scripts/clean-research-content.py
       - name: Build documented pedal facets
         run: python scripts/build-pedal-facets.py
 
@@ -98,6 +101,7 @@ jobs:
             git reset --hard origin/main
             python scripts/generate-surface-records.py
             python scripts/sync_prp_catalog.py
+            python scripts/clean-research-content.py
             python scripts/build-pedal-facets.py
             python scripts/reset-photo-recovery-targets.py
             python scripts/sync-prp-tracker.py
