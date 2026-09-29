@@ -14,6 +14,7 @@ from pathlib import Path
 
 MANUAL = Path("research/PHOTO_MANUAL_REVIEW.csv")
 DIRECT = Path("research/PHOTO_DIRECT_IMAGE_OVERRIDES.csv")
+INDEX = Path("research/PEDAL_INDEX.json")
 
 
 def key(row: dict) -> tuple[str, str]:
@@ -74,6 +75,32 @@ def main() -> None:
         # A direct row may remain as historical research, but it must never be
         # promoted while the manual ledger explicitly says the revision needs review.
         errors.append(f"REVIEW_REVISION identity still has a direct override: {identity}")
+
+    catalog = {}
+    try:
+        data = json.loads(INDEX.read_text(encoding="utf-8"))
+        for row in data.get("pedals", []):
+            identity = (str(row.get("company") or row.get("builder") or "").strip(),
+                        str(row.get("pedal") or "").strip())
+            if identity[0] and identity[1]:
+                catalog[identity] = row
+    except Exception as exc:
+        errors.append(f"Could not parse catalog for manual-photo sync: {exc}")
+
+    verified_keys = set(approved)
+    for identity, row in catalog.items():
+        source_url = str(row.get("image_source_url") or "").strip()
+        source_urls = [str(v or "").strip() for v in (row.get("image_source_urls") or []) if str(v or "").strip()]
+        if source_url or source_urls:
+            if identity not in verified_keys:
+                errors.append(f"Catalog exposes unreviewed direct photo URL: {identity}")
+            else:
+                approved_url = str(approved[identity].get("Image URL") or "").strip()
+                if source_url and source_url != approved_url:
+                    errors.append(f"Catalog direct image URL differs from visually verified URL: {identity}")
+                bad_extras = [value for value in source_urls if value != approved_url]
+                if bad_extras:
+                    errors.append(f"Catalog retains unreviewed direct image fallback URLs: {identity}")
 
     if errors:
         print("Photo manual-review synchronization FAILED:")
