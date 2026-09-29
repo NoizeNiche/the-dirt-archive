@@ -24,13 +24,13 @@ This pass adds only claims supported by the newly admitted exact-model evidence.
 ### Verified description
 The AC-Tone Single is voiced after the classic Vox AC30 amp, delivering everything from shimmering, chiming clean tones to full-on British rock overdrive.
 
-### Verified transistor/device terms
-- AC30.
+### Verified architecture terms
+- Analog circuit.
+- Internal ±12V operation from a regulated 9V DC supply.
 
 ### Verified sound evidence
 
-Unique Cut control acts as a low-pass filter to tame high-end without dulling your tone.
-Runs internally at ±12V for extra headroom and clarity, powered by a standard 9V supply.
+The AC-Tone Single is voiced after the classic Vox AC30 amp, moving from shimmering, chiming clean tones to British-style overdrive. The Cut control reduces high-frequency content as described by Carl Martin.
 
 ### Sources checked in this pass
 1. AC-Tone Single - Carl Martin: https://carlmartin.com/products/ac-tone-single/
