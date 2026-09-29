@@ -63,4 +63,4 @@ The Ultrawave with Bass Nathan Navarro explores both traditional sounds as well 
 3. Product Demos: Ultrawave Distortion Lab - Source Audio Website: https://sourceaudio.weebly.com/product-demos-ultrawave.html
 4. Source Audio Ultrawave Distortion Lab - Multi-Effects for Electric Guitar - Audiofanzine: https://en.audiofanzine.com/electric-guitar-multi-effects/source-audio/ultra-wave-multiband-processor/
 5. Source Audio Ultrawave Distortion Lab - Multi-effets guitare électrique - Audiofanzine: https://fr.audiofanzine.com/multieffet-guitare-electrique/source-audio/ultra-wave-multiband-processor/
-6. Source Audio Ultrawave Multiband Distortion Lab Pedal &ndash; Z String Music: https://zstringmusic.com/products/source-audio-ultrawave-multiband-distortion-lab-pedal
+6. Source Audio Ultrawave Multiband Distortion Lab Pedal – Z String Music: https://zstringmusic.com/products/source-audio-ultrawave-multiband-distortion-lab-pedal

@@ -51,19 +51,6 @@ The Murphy is positioned as a straightforward TS808-family overdrive, using a co
 
 ## Deep research verification
 
-The Center Street Electronics history source and Effects Database record were cross-checked. The evidence establishes The Murphy's place in the builder's early overdrive line and its three-control interface. [1][2]
-
-## Sources checked
-
-1. NVGgear — Center Street Electronics overview: https://nvggear.wordpress.com/
-2. Effects Database — Center Street Electronics additions: https://www.effectsdatabase.com/blog/discofreq?%2C_SESS702232087f78c6774c5da39af006=7ab37d9104fc9a5a6d0d3b7a&page=64
-
-## Photo
-
-- Exact-model photo status remains handled separately.
-
-## Deep research verification
-
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
 
 ### Verified description
@@ -84,3 +71,16 @@ In addition to the Volume, Tone, and Drive controls, you get a 100Hz EQ knob to 
 
 ### Sources checked in this pass
 1. NVGgear | New and Vintage Guitar Gear!: https://nvggear.wordpress.com/
+
+## What this pedal is
+
+They have three pedals (videos will be below :D), Rasputin Fuzz – $149.99 – 1 volume knob, 1 fuzz knob and two dark/bright switches The Murphy – $149.99 – 1 drive knob, 1 tone knob, 1 level knob Godly Red – $149.99 – 1 gain knob, 1 volume knob, 1 god switch C.S.E is rolling out two new pedals.
+
+## Sources checked
+
+1. NVGgear — Center Street Electronics overview: https://nvggear.wordpress.com/
+2. Effects Database — Center Street Electronics additions: https://www.effectsdatabase.com/blog/discofreq?%2C_SESS702232087f78c6774c5da39af006=7ab37d9104fc9a5a6d0d3b7a&page=64
+
+## Photo
+
+- Exact-model photo status remains handled separately.
