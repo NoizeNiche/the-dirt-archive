@@ -20,9 +20,9 @@ permissions:
 
 concurrency:
   group: dirt-image-cache
-  # Let an active browser recovery finish. A newer scheduled/manual pass waits
-  # rather than discarding verified work already in flight.
-  cancel-in-progress: false
+  # Prefer the newest cache snapshot so verified photo recovery is not trapped
+  # behind obsolete queued image-cache runs.
+  cancel-in-progress: true
 
 jobs:
   cache:
