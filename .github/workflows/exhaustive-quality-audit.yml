@@ -15,6 +15,7 @@ on:
       - 'scripts/audit-pictured-photo-hash-collisions.py'
       - 'scripts/audit-photo-identity.py'
       - 'research/PHOTO_DIRECT_IMAGE_OVERRIDES.csv'
+      - 'research/PHOTO_MANUAL_REVIEW.csv'
       - 'scripts/browser-photo-cache.mjs'
       - 'research/PHOTO_SOURCE_BLOCKLIST.json'
       - '.github/workflows/exhaustive-quality-audit.yml'
