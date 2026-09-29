@@ -27,9 +27,8 @@ The Cafetiere is our torn-down, rebuilt and expanded take on the Interfax Harmon
 - The archive records only the component information explicitly present in these sources.
 
 ## Sound
-Cafetiere – Zander Circuitry Home Store About FAQs/Terms Dealers Contact 0 Basket Home / Fuzz / Cafetiere Cafetiere $ 200.00 The distortofuzz.
-The Cafetiere is our torn-down, rebuilt and expanded take on the Interfax Harmonic Percolator (HP-1), the spittiest and splattiest ‘fuzz’ pedal that ever existed.
-Out of stock Out of stock Share this product Categories: Distortion , Fuzz , Pedals Tag: Pedals Previous Product Next Product Description Description Overview Deep dive Tech specs Demos Overview This circuit has gained a bit of a cult following over the years, thanks in no small part to its heavy usage by producer guitarist Steve Albini on various records, inspiring a number of clones from smaller builders in recent years, including us!
+The Cafetiere is a rebuilt and expanded take on the Interfax Harmonic Percolator (HP-1), with a broader control set intended to cover treble-boost, gated fuzz, and in-between textures.
+The circuit has a cult following associated in part with guitarist and producer Steve Albini and has inspired numerous clones.
 
 ## Sources checked
 1. Cafetiere – Zander Circuitry: https://zandercircuitry.com/product/cafetiere/
