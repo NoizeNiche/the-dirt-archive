@@ -12,6 +12,11 @@ import json
 import re
 from pathlib import Path
 
+try:
+    from PIL import Image
+except Exception:
+    Image = None
+
 INDEX_PATH = Path("research/PEDAL_INDEX.json")
 TRACKER_PATH = Path("research/PRP_TRACKER.csv")
 
@@ -30,9 +35,34 @@ def image_is_usable(image):
     # locally. External source URLs are provenance, not completed photo assets.
     if re.match(r"^https?://", image, re.I):
         return False
-    if re.match(r"^\.?/assets/pedals/", image, re.I):
-        return Path(re.sub(r"^\./", "", image)).is_file()
-    return False
+    if not re.match(r"^\.?/assets/pedals/", image, re.I):
+        return False
+
+    path = Path(re.sub(r"^\./", "", image))
+    if not path.is_file():
+        return False
+
+    # Prefer a full Pillow verification so corrupt/truncated images cannot be
+    # promoted. In lightweight environments without Pillow, require the
+    # canonical WebP RIFF signature as a conservative fallback.
+    if Image is not None:
+        try:
+            with Image.open(path) as im:
+                im.verify()
+                return str(im.format or "").upper() == "WEBP"
+        except Exception:
+            return False
+
+    try:
+        with path.open("rb") as handle:
+            header = handle.read(12)
+        return (
+            len(header) == 12
+            and header[:4] == b"RIFF"
+            and header[8:12] == b"WEBP"
+        )
+    except OSError:
+        return False
 
 
 def main():
