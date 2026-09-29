@@ -53,7 +53,6 @@ This pass adds only claims supported by the newly admitted exact-model evidence.
 A&M Custom Effects's Twin Pro - Overdrive is cataloged as an overdrive pedal.
 
 ### Verified version references
-- The evidence references: revision.
 
 ### Verified diode terms
 - LEDs, LED.

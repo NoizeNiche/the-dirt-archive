@@ -53,7 +53,6 @@ This pass adds only claims supported by the newly admitted exact-model evidence.
 Volume controls the output volume of the effect Fuzz controls the amount of fuzz Footswitches A/B switches between the fuzz channels Information A&M Custom Effects CrazyBoy is Custom Hand Made,100% analog guitar double fuzz pedal.
 
 ### Verified version references
-- The evidence references: revision.
 
 ### Verified transistor/device terms
 - Silicon Transistor.

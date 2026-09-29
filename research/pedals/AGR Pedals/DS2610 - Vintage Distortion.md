@@ -56,7 +56,6 @@ AGR Pedals's DS2610 - Vintage Distortion is cataloged as a distortion pedal.
 - No specific factory colorway information was established in the verified evidence packet.
 
 ### Verified version references
-- The evidence references: revision.
 
 ### Verified sound evidence
 AGR Pedals DS2610 - Vintage Distortion

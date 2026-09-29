@@ -59,7 +59,6 @@ AGR Pedals's FZR912 - Muff Fuzz Deluxe is cataloged as a fuzz pedal.
 - No specific factory colorway information was established in the verified evidence packet.
 
 ### Verified version references
-- The evidence references: revision.
 
 ### Verified transistor/device terms
 - silicon transistor, silicon transistors.

@@ -56,7 +56,6 @@ AGR Pedals's OD85 - Full Range Overdrive is cataloged as an overdrive pedal.
 - No specific factory colorway information was established in the verified evidence packet.
 
 ### Verified version references
-- The evidence references: revision.
 
 ### Verified sound evidence
 AGR Pedals OD85 - Full Range Overdrive
