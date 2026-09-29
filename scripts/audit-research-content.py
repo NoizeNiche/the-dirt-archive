@@ -13,6 +13,9 @@ RESEARCH = ROOT / "research/pedals"
 DEFAULT_OUTPUT = ROOT / "research/RESEARCH_CONTENT_AUDIT.csv"
 
 PATTERNS = [
+    ("store_page_shell", re.compile(r"\bHome\s+Store\b.*\b(?:FAQs?|About)\b.*\b(?:Contact|Dealers)\b.*\b(?:Basket|Cart)\b.*\bHome\s*/\s*(?:Pedals?|Products?)\s*/.*[£$€]\s*\d", re.I)),
+    ("article_shell", re.compile(r"\bNews\s+Tracing Journal\s+Tracing Journal:.*?\b(?:\d{1,2},\s+\d{4}|20\d{2})\s+Tracing Journal\s+(?:Next up|Next we have|Up next)\b", re.I)),
+    ("press_release_fragment", re.compile(r"\breleasing today is\b|\bannouncing today is\b", re.I)),
     ("affiliate_disclosure", re.compile(r"when you purchase through affiliate links|affiliate links.*commissions", re.I)),
     ("publisher_nav", re.compile(r"(news|reviews|guides|features|magazine).*?(tuner|deals).*?(related brands|related tags)", re.I)),
     ("generic_nav", re.compile(r"^(?:home|menu|search|login|sign in|subscribe|newsletter|cart|account|skip to content|contact)\s*$", re.I)),
@@ -35,6 +38,7 @@ DEVICE_TERMS = re.compile(
     r"nkt\d{3}|gt\d{2,3}|mp\d{2,3}|mps\d{2,3})\b",
     re.I,
 )
+PRESS_RELEASE_REFERENCE = re.compile(r"\bour take on\s+(?:the\s+)?(.+?)\s*\.?$", re.I)
 UNKNOWN_TERMS = re.compile(
     r"\b(?:unknown|not documented|not publicly documented|not established|not specified|"
     r"not reliably documented)\b",
