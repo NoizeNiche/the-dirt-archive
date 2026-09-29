@@ -7,39 +7,37 @@
 - **Identity:** McGregor Pedals's Crunch Transparent Overdrive.
 
 ## What this pedal is
-Add to cart Digitech DOD-LOOKINGGLASS Looking Glass Overdrive Pedal $ 219.99 Original price was: $219.99.
+Crunch Transparent is a transparent overdrive designed for working guitarists and bassists who want added breakup and sparkle without heavily coloring the instrument's basic sound.
 
 ## Colorways
-- View Black Arts Toneworks Quantum Mystic $ 101.39 Original price was: $101.39.
-- View JAM Pedals Red Muck mk.2 $ 217.62 Original price was: $217.62.
+- Documented production examples include an **Orange** enclosure.
+- No complete factory finish chronology was established.
 
 ## Versions and factory options
-- No distinct factory revision was established in the verified evidence packet.
+- **Original Crunch:** lower-gain version.
+- **Extra Crunch:** approximately 30% more gain.
+- Both versions share the transparent, low-coloration design goal.
+- McGregor builds the pedal in small batches.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- Extra Crunch is an increased-gain option within the Crunch Transparent family rather than a separate unrelated pedal.
+- No complete numbered hardware revision chronology was established.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
+- Exact production semiconductor details were not established.
 - **Exact transistor/device:** Unknown.
 
 ## Diode
-- Documented terms in the verified sources: LED.
-- The archive records only the component information explicitly present in these sources.
+- Exact clipping/rectifier diode information was not established.
+- **Exact part:** Unknown.
 
 ## Sound
-Original Crunch (Low Gain) - $185.00 USD Extra Crunch (~30% More Gain) - $185.00 USD Quantity Add to Cart Transparent overdrive for working guitarists and bassists.
-Adds breakup and sparkle without coloring the signature sound of your instrument—the pedal pros reach for when they need edge-of-breakup drive, not another flavor overlay.
-Trusted by working players “The Extra Crunch is an incredibly open and airy sounding overdrive.
+Crunch Transparent is intended for edge-of-breakup overdrive that adds sparkle and grit while preserving the instrument's core sound. Extra Crunch increases gain while retaining the same open response.
 
 ## Sources checked
-1. Crunch Transparent Overdrive | McGregor Pedals: https://www.mcgregorpedals.com/products/crunch-transparent-overdrive-pedal
-2. McGregor Pedals Crunch Transparent Overdrive 2020-2025 - | Reverb: https://reverb.com/item/100755092-mcgregor-pedals-crunch-transparent-overdrive-2020-2025-orange
-3. McGregor Pedals Crunch Transparent Overdrive: https://www.topmusicalsupplies.com/product/mcgregor-pedals-crunch-transparent-overdrive/
-4. McGregor Pedals Crunch Transparent Overdrive | Effects & pedal: https://www.electroguitarly.com/product/mcgregor-pedals-crunch-transparent-overdrive/
-5. McGregor Pedals Crunch Transparent Overdrive - Effects Database: https://www.effectsdatabase.com/model/mcgregor/crunch
-6. McGregor Pedals Crunch Transparent Overdrive - Solid Body Electric Guitars with Stage-Ready Tone: https://www.axisguitar.com/product/mcgregor-pedals-crunch-transparent-overdrive/
-7. McGregor Pedals Extra Gain Crunch Transparent Overdrive – Controls, SubPlexes & Rig Builder | PedalPlex: https://pedalplex.com/gear/mcgregor-pedals-extra-gain-crunch-transparent-overdrive
+1. McGregor Pedals - Crunch Transparent Overdrive: https://www.mcgregorpedals.com/products/crunch-transparent-overdrive-pedal
+2. Reverb - McGregor Crunch Transparent: https://reverb.com/item/100755092-mcgregor-pedals-crunch-transparent-overdrive-2020-2025-orange
+3. Effects Database - McGregor Crunch: https://www.effectsdatabase.com/model/mcgregor/crunch
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.

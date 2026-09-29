@@ -7,33 +7,36 @@
 - **Identity:** McGregor Pedals's Crunch Plus Overdrive/Distortion.
 
 ## What this pedal is
-McGregor Pedals's Crunch Plus Overdrive/Distortion is cataloged as a distortion / overdrive pedal.
+The Crunch Plus is a Canadian-made, hand-soldered medium-gain overdrive/distortion. McGregor designed it as a combination of low-gain overdrive and medium distortion, with an unusual asymmetric hard-clipping section.
 
 ## Colorways
-- No specific factory colorway information was established in the verified evidence packet.
+- No complete factory finish chronology was established in the checked sources.
 
 ## Versions and factory options
-- No distinct factory revision was established in the verified evidence packet.
+- Medium-gain overdrive/distortion architecture.
+- Asymmetric hard-clipping section.
+- Hand-soldered construction.
+- McGregor's design goal is to combine sustain and compression with a thick, organic response.
+- Exact full control labeling is not asserted without a matching factory manual.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- No complete numbered production revision chronology was established in the checked sources.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
+- Exact production semiconductor details were not established.
 - **Exact transistor/device:** Unknown.
 
 ## Diode
-- Documented terms in the verified sources: LED.
-- The archive records only the component information explicitly present in these sources.
+- Asymmetric hard clipping is documented, but exact clipping-device part numbers were not established.
+- **Exact part:** Unknown.
 
 ## Sound
-Crunch Plus Overdrive/Distortion – McGregor Pedals Free Shipping Available Canada Wide!!!
-Default Title - $185.00 USD Quantity Add to Cart TL;DR - This is a Canadian made, hand soldered, medium gain overdrive/distortion with an unusual, asymmetric hard clipping section that delivers a fat, dark, creamy, touch-sensitive sound with an edge.
-With the Crunch Plus we wanted to build the perfect combination of low gain overdrive and medium distortion in one pedal: something that has both sustain and squish while remaining Thick and organic.
+The Crunch Plus is deliberately darker, thicker, and creamier than a transparent low-gain drive. Its asymmetric clipping provides more sustain and squish while retaining the touch sensitivity that McGregor emphasizes in the design.
 
 ## Sources checked
-1. Crunch Plus Overdrive/Distortion &ndash; McGregor Pedals: https://www.mcgregorpedals.com/products/crunch-plus-overdrive
-2. McGregor Pedals Crunch Plus Overdrive/Distortion - Shop: https://shop.app/products/5081092915332/crunch-plus-overdrive-distortion
+1. McGregor Pedals - Crunch Plus Overdrive: https://www.mcgregorpedals.com/products/crunch-plus-overdrive
+2. Shop.app - Crunch Plus Overdrive/Distortion: https://shop.app/products/5081092915332/crunch-plus-overdrive-distortion
+3. Effects Database - McGregor Crunch Plus: https://www.effectsdatabase.com/model/mcgregor/crunchplus
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.
