@@ -233,14 +233,17 @@ def main() -> None:
 
     identity_quarantine = load_identity_quarantine()
     hash_quarantine = load_hash_quarantine()
-    manual_verified = set()
+    manual_verified = {}
     try:
         with (ROOT / "research/PHOTO_MANUAL_REVIEW.csv").open(newline="", encoding="utf-8") as handle:
-            manual_verified = {
-                key(row.get("Builder"), row.get("Pedal"))
-                for row in csv.DictReader(handle)
-                if str(row.get("Status") or "").strip().upper() == "VERIFIED_PRIMARY"
-            }
+            for row in csv.DictReader(handle):
+                if str(row.get("Status") or "").strip().upper() != "VERIFIED_PRIMARY":
+                    continue
+                identity = key(row.get("Builder"), row.get("Pedal"))
+                image_url = str(row.get("Image URL") or "").strip()
+                source_page = str(row.get("Source Page") or "").strip()
+                if identity[0] and identity[1] and image_url:
+                    manual_verified[identity] = (image_url, source_page)
     except Exception:
         pass
 
@@ -257,11 +260,14 @@ def main() -> None:
             image_url = str(row.get("Image URL") or "").strip()
             source_page = str(row.get("Image Source Page") or "").strip()
             notes = str(row.get("Notes") or "").strip()
+            approved = manual_verified.get(k)
             blocked_for_identity = image_url.lower() in identity_quarantine.get(k, set())
             blocked_for_hash = k in hash_quarantine and k not in manual_verified
             if (
                 k in pending
-                and k in manual_verified
+                and approved
+                and image_url == approved[0]
+                and source_page == approved[1]
                 and image_url
                 and source_page
                 and is_http_image_url(image_url)
@@ -284,6 +290,7 @@ def main() -> None:
             continue
 
         target = target_path(entry)
+        image_url, source_page, notes = rows[-1]
         if target.exists():
             try:
                 width, height = validate(target.read_bytes())
@@ -294,8 +301,8 @@ def main() -> None:
                     "builder": k[0],
                     "pedal": k[1],
                     "image": "./" + target.with_suffix(".webp").as_posix(),
-                    "image_source_url": image_url if rows else "",
-                    "image_source_page": source_page if rows else "",
+                    "image_source_url": image_url,
+                    "image_source_page": source_page,
                     "imageFile": "./" + target.as_posix(),
                     "verification": {
                         "method": "direct_exact",
