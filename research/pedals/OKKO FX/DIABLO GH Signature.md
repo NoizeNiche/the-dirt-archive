@@ -7,33 +7,28 @@
 - **Identity:** OKKO FX's DIABLO GH Signature.
 
 ## What this pedal is
-The Diablo GH Signature delivers the legendary overdrive with artist-specific voicing.
-
-## Colorways
-- No specific factory colorway information was established in the verified evidence packet.
+The Diablo GH Signature is an artist-specific version of OKKO FX's Diablo overdrive with its own voicing.
 
 ## Versions and factory options
-- No distinct factory revision was established in the verified evidence packet.
+- Signature edition.
+- Diablo-family overdrive architecture.
+- No complete numbered hardware revision chronology was established.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- The GH Signature is treated as an artist-specific voicing rather than a generic Diablo colorway.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
-- **Exact transistor/device:** Unknown.
+- Exact production semiconductor complement was not established.
 
 ## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
-- **Exact part:** Unknown.
+- Exact clipping/rectifier diode information was not established.
 
 ## Sound
-Diablo GH Signature — Okko FX Overdrive Pedal | PedalFilter | PedalFilter Skip to main content The guitar pedal database Search pedals The fastest, most visual guitar pedal database.
-About • Collections • Blog • Compare • Privacy Policy • Terms of Service • Submit a pedal • © 2026 PedalFilter Clear Compare ( 0 ) Back Home Okko FX Diablo GH Signature Back to results Okko FX Diablo GH Signature Overdrive Signature edition Diablo with artist-specific voicing.
-Delivers smooth breakup with responsive touch dynamics.
+The GH Signature is voiced around smooth breakup and touch-responsive overdrive while retaining the dynamic character associated with the Diablo family.
 
 ## Sources checked
-1. Diablo GH Signature — Okko FX Overdrive Pedal | PedalFilter | PedalFilter: https://pedalfilter.com/okko-fx/diablo-gh-signature
-2. OKKO FX Diablo GH Signature Overdrive - Reverb: https://reverb.com/item/35456097-okko-fx-diablo-gh-signature-overdrive
+1. PedalFilter - OKKO Diablo GH Signature: https://pedalfilter.com/okko-fx/diablo-gh-signature
+2. Reverb - OKKO Diablo GH Signature: https://reverb.com/item/35456097-okko-fx-diablo-gh-signature-overdrive
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.
