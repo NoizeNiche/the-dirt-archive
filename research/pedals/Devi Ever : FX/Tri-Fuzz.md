@@ -145,3 +145,28 @@ The Silver Crank led to the Vintage Fuzz Master.
 ### Sources checked in this pass
 1. devi ever : fx - About: https://www.fuzzgoddess.com/about/
 2. Client Challenge: https://www.scribd.com/document/211309101/Devi-Ever-Diy-Info-Manual-aw-heck-yes
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+The first Core plugins are Godde - **Archive parent:** Tri-Fuzz - **Builder:** Devi Ever : FX - **Catalog type:** Fuzz - **Identity:** Devi Ever : FX Tri-Fuzz.
+
+### Verified color/finish evidence
+- The surviving official history does not establish a complete numbered revision list or factory colorway sequence.
+
+### Verified version references
+- The evidence references: revision.
+
+### Verified diode terms
+- led.
+
+### Verified sound evidence
+My first design, the Krackle Fuzz, came from plugging components I got from Radio Shack into a breadboard until it made sound.
+The Krackle Fuzz became the Tri-Fuzz, the Beautiful Disaster, and eventually the Truly Beautiful Disaster.
+The Silver Crank led to the Vintage Fuzz Master.
+
+### Sources checked in this pass
+1. devi ever : fx - About: https://www.fuzzgoddess.com/about/
+2. Client Challenge: https://www.scribd.com/document/211309101/Devi-Ever-Diy-Info-Manual-aw-heck-yes

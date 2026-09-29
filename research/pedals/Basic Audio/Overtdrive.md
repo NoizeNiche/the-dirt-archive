@@ -187,3 +187,29 @@ Analog **IC/op-amp-based** overdrive.
 1. catalog/override source: https://reverb.com/uk/item/46912602-basic-audio-overtdrive
 2. Overtdrive &mdash; Basic Audio: https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-cnzrr-ksfg5-kba26-5yxez-twy6r-779zt
 3. Guitar Pedal X - GPX Blog - The Unsung King of Fuzz - John Lyons of Basic Audio: https://www.guitarpedalx.com/news/gpx-blog/the-unsung-king-of-fuzz---john-lyons-of-basic-audio
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Overtdrive — Basic Audio Contact Store About Menu Basic Audio Contact Store About Pedal colors are subject to change.
+
+### Verified color/finish evidence
+- Finish changes are treated as cosmetic variations.
+
+### Verified version references
+- The evidence references: revision.
+
+### Verified transistor/device terms
+- Germanium Fuzz.
+
+### Verified sound evidence
+**Archive parent:** Overtdrive - **Builder:** Basic Audio - **Catalog type:** Overdrive - **Identity:** Medium-gain IC-based overdrive with switchable EQ behavior, Cut control and two distinct gain responses.
+**VOLUME** - **TONE** - **GAIN** - **CUT** - **3-way EQ** switch.
+Analog **IC/op-amp-based** overdrive.
+
+### Sources checked in this pass
+1. catalog/override source: https://reverb.com/uk/item/46912602-basic-audio-overtdrive
+2. Overtdrive &mdash; Basic Audio: https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-cnzrr-ksfg5-kba26-5yxez-twy6r-779zt
+3. Guitar Pedal X - GPX Blog - The Unsung King of Fuzz - John Lyons of Basic Audio: https://www.guitarpedalx.com/news/gpx-blog/the-unsung-king-of-fuzz---john-lyons-of-basic-audio
