@@ -11,7 +11,6 @@ Retro Mechanical Labs's EFC Mini Distortion is cataloged as a distortion pedal.
 
 ## Colorways
 - Sale Price: $189 (Reg $199) Fallout Black and Nuclear Winter White.
-- Color Nuclear Winter White $199.00 USD Fallout Black $199.00 USD ***I generally have these enclosures in stock but in the event I run out they are quick to get, but that may delay your shipping time.
 
 ## Versions and factory options
 - No distinct factory revision was established in the verified evidence packet.
