@@ -36,7 +36,7 @@ This pass adds only claims supported by the newly admitted exact-model evidence.
 Build Your Own Clone's Li'l Modified Overdrive is cataloged as an overdrive pedal.
 
 ### Verified color/finish evidence
-- Δ More Schematics Based On: Darkglass Vintage Microtubes Black Mirror Bass Tubes by PCB Guitar Mania Add To Cart Based On: Ampeg SVT Amped S-bass by PCB Guitar Mania Add To Cart Based On: Horizon Devices Precision drive Collision Drive by PCB Guitar Mania Add To Cart (c) Stomp Box Schematics
+
 
 ### Verified sound evidence
 The drive knob offers more gain, allowing for a higher level of distortion.
