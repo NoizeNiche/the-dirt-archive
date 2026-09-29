@@ -9,7 +9,7 @@
 
 ## What this pedal is
 
-Siam Howler Published on April 27, 2026 Cryptid Effects fuzz octave fuzz (1 octave up) pedal Information The Cryptid Effects Siam Howler is a hybrid fuzz pedal that combines multiple vintage circuit influences into a single unit.
+Cryptid Effects's Siam Howler is cataloged in the archive as a Fuzz pedal.
 
 ## Colorways
 
@@ -35,11 +35,7 @@ Siam Howler Published on April 27, 2026 Cryptid Effects fuzz octave fuzz (1 octa
 
 ## Sound
 
-Siam Howler Published on April 27, 2026 Cryptid Effects fuzz octave fuzz (1 octave up) pedal Information The Cryptid Effects Siam Howler is a hybrid fuzz pedal that combines multiple vintage circuit influences into a single unit.
-
-Its core fuzz circuit is derived from the MSA Pedal Steel Fuzz, itself based on the Jordan Bosstone topology, and is modified through the use of germanium transistors and selectable clipping stages.
-
-An additional octave-up section, adapted from the Shin-Ei Super Fuzz, is integrated and can be engaged independently.
+No verified pedal-specific sonic summary is currently established in the archive.
 
 ## Sources checked
 
@@ -49,25 +45,6 @@ An additional octave-up section, adapted from the Shin-Ei Super Fuzz, is integra
 ## Photo
 
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
-
-## Deep research verification
-
-This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
-
-### Verified description
-Published on April 27, 2026 Cryptid Effects fuzz octave fuzz (1 octave up) pedal Information The Cryptid Effects Siam Howler is a hybrid fuzz pedal that combines multiple vintage circuit influences into a single unit.
-
-### Verified diode terms
-- LEDs, LED.
-
-### Verified sound evidence
-Published on April 27, 2026 Cryptid Effects fuzz octave fuzz (1 octave up) pedal Information The Cryptid Effects Siam Howler is a hybrid fuzz pedal that combines multiple vintage circuit influences into a single unit.
-Its core fuzz circuit is derived from the MSA Pedal Steel Fuzz, itself based on the Jordan Bosstone topology, and is modified through the use of germanium transistors and selectable clipping stages.
-An additional octave-up section, adapted from the Shin-Ei Super Fuzz, is integrated and can be engaged independently.
-
-### Sources checked in this pass
-1. The Siam Howler – Cryptid Effects American Express Apple Pay Diners Club Discover Google Pay Mastercard PayPal Shop Pay Visa: https://www.cryptideffects.com/products/the-siam-howler
-2. Cryptid Effects The Siam Howler | Effects Database: https://www.effectsdatabase.com/model/cryptideffects/siamhowler
 
 ## Deep research verification
 
