@@ -321,33 +321,6 @@ function renderDemo(item){
     '<a class="action primary" href="'+esc(demo.url)+'" target="_blank" rel="noopener">Watch demo ↗</a>';
 }
 
-function renderRecordStatus(item,markdown=''){
-  const target=$('recordStatus');
-  if(!target)return;
-
-  const source=String(markdown||'');
-  const levelMatch=source.match(/\*\*Research level:\*\*\s*([^\n]+)/i);
-  const statusMatch=source.match(/\*\*Deep research status:\*\*\s*([^\n]+)/i);
-  const level=String(levelMatch?.[1]||item?.research_level||'').trim().toLowerCase();
-  const status=String(statusMatch?.[1]||'').trim().toLowerCase();
-  const researchLabel=level==='deep'?'Deep research':level==='surface'?'Surface research':'Research status unrecorded';
-  const researchClass=level==='deep'?'verified':level==='surface'?'surface':'unknown';
-
-  const evidenceLabel=status.includes('identity conflict')
-    ? 'Identity conflict flagged'
-    : status.includes('verified')
-      ? 'Evidence verified'
-      : '';
-
-  const hasPhoto=isLocalArchiveImage(item);
-  target.innerHTML=
-    '<span class="statusPill '+researchClass+'">'+esc(researchLabel)+'</span>'+
-    (evidenceLabel?'<span class="statusPill '+(status.includes('identity conflict')?'conflict':'evidence')+'">'+esc(evidenceLabel)+'</span>':'')+
-    ''+
-    '<span class="statusPill '+(hasPhoto?'photo':'photoMissing')+'">'+(hasPhoto?'Exact archive photo':'Exact local photo pending')+'</span>';
-}
-
-
 function syncWorkbenchButtons(item){
   const save=$('savePedal');
   const compare=$('comparePedal');
@@ -514,7 +487,6 @@ loadCatalog()
   if(wantedType && wantedType!=='All' && !(item.types||[]).includes(wantedType)) wantedType='';
   document.title=item.pedal+' · The Dirt Archive';
   updateMetaDescription(item);
-  renderRecordStatus(item);
   $('record').hidden=false;
   renderPageNav(allItems,item);
   $('crumb').textContent=(item.types||[]).join(' · ')+' · '+item.company;
@@ -551,11 +523,9 @@ loadCatalog()
     loadResearchMarkdown(item.research_record)
       .then(md=>{
         researchEl.innerHTML=renderMarkdown(md);
-        renderRecordStatus(item,md);
       })
       .catch(e=>{
         researchEl.innerHTML='<p>Pedal information could not be loaded.</p>';
-        renderRecordStatus(item);
         console.error(e)
       })
   }else{
