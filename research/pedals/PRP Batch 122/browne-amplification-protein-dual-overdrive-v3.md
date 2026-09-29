@@ -23,7 +23,6 @@ V3 changes the mechanical layout to top-mounted jacks and labels the green chann
 
 ## Transistor
 Exact active devices not publicly documented.
-
 ## Diode
 Exact factory clipping devices not publicly documented.
 

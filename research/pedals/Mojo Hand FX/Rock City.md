@@ -24,7 +24,6 @@ The Rock City is a dual overdrive that evolved from Mojo Hand FX's discontinued 
 ## Transistor
 - Exact production transistor/device information was not established in the checked sources.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact clipping/rectifier diode information was not established in the checked sources.
 - **Exact part:** Unknown.

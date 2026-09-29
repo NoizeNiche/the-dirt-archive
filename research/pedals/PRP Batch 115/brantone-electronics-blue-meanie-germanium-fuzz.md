@@ -22,7 +22,6 @@ No reliable numbered factory revision sequence established.
 ## Transistor
 - **Technology:** Germanium.
 - Exact transistor/device: Not publicly documented.
-
 ## Diode
 Exact clipping diode/device not publicly documented.
 

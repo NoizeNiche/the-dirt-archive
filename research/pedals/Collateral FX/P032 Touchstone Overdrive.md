@@ -27,7 +27,6 @@ The defining modernization is replacement of the original TS-10 switching system
 
 ## Transistor
 The gain stage centers on the **JRC4558 operational amplifier**; the manufacturer does not publish a discrete transistor configuration. [1]
-
 ## Diode
 No exact clipping-diode part numbers were published on the product page. [1]
 

@@ -21,7 +21,6 @@ Remember: the usual gain range is 1 to 10, but GHOUL JR will take you all the wa
 ## Transistor
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

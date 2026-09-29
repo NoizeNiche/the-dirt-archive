@@ -27,7 +27,6 @@ Compared with the original, the MkII adds a footswitchable boost system that can
 ## Transistor
 - **JFET gain stages:** explicitly documented.
 - Exact JFET part number: **not established** by the checked exact-model sources.
-
 ## Diode
 - Exact diode type or part number: **not established**.
 

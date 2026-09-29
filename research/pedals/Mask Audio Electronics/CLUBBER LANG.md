@@ -29,7 +29,6 @@ Clubber Lang is a collaboration between **Mask Audio Electronics** and **Malaise
 - MOSFET input stage is documented.
 - Exact MOSFET part number was not established.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Asymmetrical soft clipping is documented.
 - Exact clipping-device part number was not established.

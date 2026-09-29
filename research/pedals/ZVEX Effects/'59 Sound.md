@@ -22,7 +22,6 @@ ZVEX Effects ’59 Sound Vertical $ 249.00 $ 124.50 ZVEX Effects '59 Sound Verti
 ## Transistor
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

@@ -23,7 +23,6 @@ Hypoid Drive is a standalone deconstruction of Cogmeister's central Drive sectio
 
 ## Transistor
 The Drive section uses a **transistor-only** gain/clipping architecture. [1][2]
-
 ## Diode
 No diode clipping is used as the principal clipping mechanism. [2]
 

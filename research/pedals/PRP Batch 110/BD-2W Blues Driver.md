@@ -22,7 +22,6 @@ Compared with the standard BD-2, the BD-2W uses a newly revised all-analog discr
 
 ## Transistor
 BOSS documents an all-discrete analog amplifier circuit, but does not publicly specify the individual transistor part numbers for the production BD-2W.
-
 ## Diode
 BOSS does not publicly specify the individual production diode part numbers for the BD-2W.
 

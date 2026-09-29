@@ -29,7 +29,6 @@ No reliable numbered production revision sequence established.
 ## Transistor
 - **Technology:** Germanium.
 - **Device:** Selected Russian military germanium transistors. [1]
-
 ## Diode
 - Exact clipping diode/device: Not publicly documented.
 

@@ -21,7 +21,6 @@ ThorpyFX's THE OLD TIMER — 3-in-1 pedal with drive section is cataloged as a d
 ## Transistor
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

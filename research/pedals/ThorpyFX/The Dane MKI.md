@@ -22,7 +22,6 @@ THE DANE MKI THE DANE is a creation designed to meet the exacting needs of Danis
 ## Transistor
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

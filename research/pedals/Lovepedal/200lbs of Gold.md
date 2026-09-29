@@ -26,7 +26,6 @@ The 200lbs of Gold combines a modified vintage Fuzz Face-style fuzz stage with a
 ## Transistor
 - A **BC178** transistor is documented in historical examples, but the complete production complement is not established for every unit.
 - Exact production part history is therefore left specimen-dependent.
-
 ## Diode
 - Exact clipping/rectifier diode information was not established.
 

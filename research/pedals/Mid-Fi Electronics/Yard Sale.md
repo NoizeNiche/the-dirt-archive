@@ -21,7 +21,6 @@ The Yard Sale pedal delivers the raw, unpredictable charm of old-school consumer
 ## Transistor
 - Documented terms in the verified sources: Silicon transistors.
 - The archive records only the component information explicitly present in these sources.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

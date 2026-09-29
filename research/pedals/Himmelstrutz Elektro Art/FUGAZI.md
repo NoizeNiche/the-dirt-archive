@@ -25,7 +25,6 @@ FUGAZI Jr. is a compact multi-voice dirt pedal in Himmelstrutz's Gramps lineage,
 ## Transistor
 - Exact production semiconductor details were not established.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - LED is documented as an indicator; exact clipping diode is not established.
 

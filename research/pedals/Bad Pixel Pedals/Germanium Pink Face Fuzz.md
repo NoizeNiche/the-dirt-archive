@@ -18,7 +18,6 @@
 - **Technology:** Germanium.
 - **Documented choices:** Russian NOS **GT402 + MP20**, or **2 × MP20**. [1]
 - The exact gain/leakage characteristics of each selected device are not published.
-
 ## Diode / clipping
 - Exact clipping/protection diode arrangement is not publicly documented.
 

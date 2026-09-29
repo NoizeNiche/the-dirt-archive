@@ -22,7 +22,6 @@ No reliable numbered factory revision sequence found.
 ## Transistor
 - **Technology:** Silicon.
 - **Device:** Exact part numbers not publicly documented.
-
 ## Diode
 Exact clipping diode/device not publicly documented.
 

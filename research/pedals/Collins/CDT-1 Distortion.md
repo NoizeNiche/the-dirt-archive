@@ -46,7 +46,6 @@ No formal Collins production revision history was established. The available evi
 
 ## Transistor
 **Not established.** No trustworthy Collins CDT-1-specific transistor part number was located.
-
 ## Diode
 **Not established.** No trustworthy Collins CDT-1-specific clipping-diode part number or verified clipping topology was located.
 

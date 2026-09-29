@@ -27,7 +27,6 @@ The verified manufacturer source documents the SD-9 at the product level but doe
 
 ## Transistor
 - **Exact production transistor/device:** Unknown.
-
 ## Diode
 - **Exact production clipping diode:** Unknown.
 

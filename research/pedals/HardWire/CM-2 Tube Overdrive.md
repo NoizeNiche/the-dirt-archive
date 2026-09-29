@@ -26,7 +26,6 @@ The HardWire CM-2 Tube Overdrive is a multi-voiced overdrive from DigiTech's Har
 - Despite the model name, the checked sources do not establish a specific vacuum-tube component inside the pedal.
 - Exact production semiconductor/device details were not established.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact clipping/rectifier diode information was not established.
 - **Exact part:** Unknown.

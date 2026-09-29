@@ -23,7 +23,6 @@ No numbered factory revision was established on the current product page.
 
 ## Transistor
 Exact active devices not publicly documented.
-
 ## Diode
 - **Clipping:** Less symmetrical than the reference Screamer-style circuit.
 - Exact diode parts not documented. [1]

@@ -21,7 +21,6 @@ Daredevil Pedals Introduces The Almighty Bass: A Rigorous Technical and Pedagogi
 ## Transistor
 - Documented terms in the verified sources: 2N5457.
 - The archive records only the component information explicitly present in these sources.
-
 ## Diode
 - Documented terms in the verified sources: 1N5817.
 - The archive records only the component information explicitly present in these sources.

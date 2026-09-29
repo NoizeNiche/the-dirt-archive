@@ -24,7 +24,6 @@ The design uses a silicon fuzz stage with a high-impedance FET buffer.
 - Silicon transistors in the fuzz circuit.
 - High-impedance FET buffer.
 - Exact part numbers are not documented.
-
 ## Diode
 - Exact clipping/rectification diode/device is not publicly documented.
 

@@ -25,7 +25,6 @@ The Avora FY-6 Super Fuzz belongs to the well-documented family of Japanese OEM 
 ## Transistor
 - Discrete analog fuzz architecture is established at the family level.
 - The exact Avora transistor part numbers are not documented in the reviewed sources.
-
 ## Diode / clipping
 - Exact clipping diode/device information is not publicly documented in the reviewed sources.
 

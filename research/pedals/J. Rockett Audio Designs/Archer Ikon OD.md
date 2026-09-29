@@ -16,7 +16,6 @@ J. Rockett Audio Designs overdrive documented by the manufacturer and independen
 
 ## Transistor
 - **Exact production transistor/device:** Unknown.
-
 ## Diode
 - **Exact clipping/rectifier diode:** Unknown.
 

@@ -32,7 +32,6 @@ The Deluxe Bass Big Muff Pi 2 is the expanded version of EHX's Bass Big Muff Pi 
 - The defining gain stages are op-amp based.
 - Exact production semiconductor complement was not established.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact clipping-device part numbers were not established.
 - **Exact part:** Unknown.

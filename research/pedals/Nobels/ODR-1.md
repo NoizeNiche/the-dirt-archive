@@ -21,7 +21,6 @@ at Guitar Summit 2026 Level 0 Booth 112 REV-mini COMING SOON SPRING - PLATE - HA
 ## Transistor
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

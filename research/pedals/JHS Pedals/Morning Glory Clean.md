@@ -24,7 +24,6 @@ Morning Glory Clean is a low-gain transparent overdrive designed as a first-stag
 
 ## Transistor
 - Exact production semiconductor details were not established.
-
 ## Diode
 - Exact clipping-device part was not established.
 

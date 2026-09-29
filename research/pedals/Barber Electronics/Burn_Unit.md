@@ -22,7 +22,6 @@ Barber's documented design uses precision-matched clipping configurations. The r
 
 ## Transistor
 - Exact transistor/device part numbers are **not publicly documented** in the reviewed sources.
-
 ## Diode
 - **Clipping approach:** Precision-matched symmetrical/asymmetrical clipping is documented.
 - **Exact diode part:** Unknown. [1]

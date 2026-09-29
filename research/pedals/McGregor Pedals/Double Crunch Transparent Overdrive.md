@@ -25,7 +25,6 @@ The Double Crunch puts complete **Original Crunch** and **Extra Crunch** circuit
 
 ## Transistor
 - Exact production semiconductor complement was not established.
-
 ## Diode
 - Exact clipping-device information was not established.
 

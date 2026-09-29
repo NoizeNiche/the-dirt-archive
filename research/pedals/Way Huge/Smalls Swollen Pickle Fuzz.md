@@ -23,7 +23,6 @@ The Smalls Swollen Pickle is the compact version of Way Huge's Swollen Pickle fu
 ## Transistor
 - Exact production semiconductor details were not established in the checked sources.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact clipping-device part was not established in the checked sources.
 - **Exact part:** Unknown.

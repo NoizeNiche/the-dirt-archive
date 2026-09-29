@@ -17,7 +17,6 @@ Shred II is a KHDK Electronics signature overdrive/distortion pedal associated w
 
 ## Transistor
 - **Exact production transistor/device:** Unknown.
-
 ## Diode
 - **Exact clipping/rectifier diode:** Unknown.
 

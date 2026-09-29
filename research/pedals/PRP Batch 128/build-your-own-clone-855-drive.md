@@ -26,7 +26,6 @@ The key documented difference from the original is BYOC's use of upgraded passiv
 ## Transistor
 - Not applicable as the core gain stage is described around the 4558D op-amp.
 - Exact other active-device details: Not separately documented.
-
 ## Diode
 - **Type:** Germanium.
 - **Device:** 1N60 germanium diodes. [1]

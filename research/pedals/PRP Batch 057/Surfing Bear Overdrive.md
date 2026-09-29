@@ -19,7 +19,6 @@ The latest edition moves the footswitch toward the front-right side, improves ba
 
 ## Transistor
 - Exact transistor/device part numbers are not publicly documented.
-
 ## Diode
 - Exact clipping diode/device is not publicly documented.
 

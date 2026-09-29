@@ -26,7 +26,6 @@ The Compugilist combines an analog compressor with an analog distortion circuit 
 
 ## Transistor
 - Exact production semiconductor details were not established.
-
 ## Diode
 - Exact clipping/rectifier diode details were not established.
 

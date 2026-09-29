@@ -20,7 +20,6 @@ Black Cat Super Fuzz is a modern recreation of the Univox Super Fuzz / Shin-ei d
 
 ## Transistor
 - **Not reliably documented in the reviewed sources**
-
 ## Sound
 Super Fuzz produces a dense, aggressive fuzz with a subtle upper-octave layer rather than the more isolated octave emphasis of an Octavia. The Balance control changes how hard the second stage is driven, which in turn affects fuzz saturation and the apparent octave intensity.
 

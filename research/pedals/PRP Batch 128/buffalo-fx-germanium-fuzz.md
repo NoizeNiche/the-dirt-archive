@@ -28,7 +28,6 @@ The documented production changes are primarily transistor sourcing by version: 
 - **Technology:** Germanium.
 - **V1:** Matsushita 2SB175.
 - **V2/V3:** NOS Russian and Texas Instruments 2N404, matched. [1]
-
 ## Diode
 - Exact clipping diode/device: Not publicly documented.
 

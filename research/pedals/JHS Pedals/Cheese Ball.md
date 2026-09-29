@@ -26,7 +26,6 @@ The Cheese Ball is JHS's tribute to a rare British fuzz/distortion circuit from 
 
 ## Transistor
 - Exact production semiconductor details were not established.
-
 ## Diode
 - LED indicator is documented; exact clipping-device part was not established.
 

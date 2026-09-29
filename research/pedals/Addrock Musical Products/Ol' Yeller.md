@@ -32,7 +32,6 @@ The Effects Database entry explicitly documents the V2 changes above. The archiv
 
 ## Transistor
 - **Exact transistor/device:** Not publicly documented.
-
 ## Diode
 - **Exact clipping diode/device:** Not publicly documented.
 

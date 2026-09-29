@@ -17,7 +17,6 @@ The Fuzzz Boxx is a rare late-1960s fuzz associated with Universal Amplifier Cor
 ## Transistor
 - Fuzzboxes.org documents transistor variants in later examples, including **SM07027** and **MPS6552**.
 - These are recorded as documented variant information, not as a claim that every Fuzzz Boxx used either device.
-
 ## Diode
 - Exact production diode information for the cataloged Fuzzz Boxx was not established in the verified evidence packet.
 - **Exact part:** Unknown.

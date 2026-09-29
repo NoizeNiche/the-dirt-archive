@@ -26,7 +26,6 @@ The builder notes that Cruncher was first made around 2005-2007 and later return
 
 ## Transistor
 The checked source describes an IC-based gain circuit but does not provide the exact part number in the visible article. [1]
-
 ## Diode
 No exact-model diode specification was established.
 

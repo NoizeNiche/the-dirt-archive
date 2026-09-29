@@ -24,7 +24,6 @@ Effects Database describes the Orro as an original Jack Deville circuit rather t
 
 ## Transistor
 - **Exact production transistor/device:** Unknown.
-
 ## Diode
 - **Exact production clipping diode:** Unknown.
 

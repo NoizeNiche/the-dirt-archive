@@ -26,7 +26,6 @@ No reliable numbered revision sequence established.
 
 ## Transistor
 - Not applicable to the documented tube gain stages.
-
 ## Diode
 - Exact clipping diode/device: Not publicly documented.
 

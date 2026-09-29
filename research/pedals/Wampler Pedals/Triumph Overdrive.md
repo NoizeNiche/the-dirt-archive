@@ -26,7 +26,6 @@ The Triumph is a versatile Wampler overdrive based on the character of the **Dig
 ## Transistor
 - Exact production semiconductor details were not established in the checked sources.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact clipping-device part was not established in the checked sources.
 - **Exact part:** Unknown.

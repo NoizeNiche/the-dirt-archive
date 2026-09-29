@@ -22,7 +22,6 @@ Wren and Cuff fixed that and the Your Face 60's Germanium Fuzz offers the unique
 ## Transistor
 - Documented terms in the verified sources: Germanium transistor, Germanium Fuzz.
 - The archive records only the component information explicitly present in these sources.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

@@ -32,7 +32,6 @@ Aclam states that V3 keeps the sound and character of earlier Dr. Robert version
 ## Transistor
 - **Technology:** Solid-state analog preamp/distortion.
 - **Exact production transistor/device:** Not publicly documented in the official material reviewed.
-
 ## Diode
 - **Exact production clipping diode/device:** Not publicly documented in the official material reviewed.
 

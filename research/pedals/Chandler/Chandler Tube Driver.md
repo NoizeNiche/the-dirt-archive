@@ -20,7 +20,6 @@
 ## Transistor
 - No discrete transistor gain device is established.
 - Tube is the documented active gain element.
-
 ## Diode / clipping
 - Exact diode/clipping-device implementation is not documented in the reviewed sources.
 

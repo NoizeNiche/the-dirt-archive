@@ -32,7 +32,6 @@ Colombo's workshop describes hand-built Italian construction and point-to-point 
 
 ## Transistor
 - **Exact transistor/device:** Not publicly documented in the checked sources.
-
 ## Diode
 - **Exact clipping diode/device:** Not publicly documented in the checked sources.
 

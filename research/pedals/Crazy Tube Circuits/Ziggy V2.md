@@ -18,7 +18,6 @@ The verified research describes Ziggy V2 as a dual-channel British-flavored over
 ## Transistor
 - MOSFET gain stages are explicitly documented.
 - Exact MOSFET part number: not established.
-
 ## Diode
 - Exact diode type or part number: not established.
 

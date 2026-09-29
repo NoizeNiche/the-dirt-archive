@@ -27,7 +27,6 @@ The Haunt is a gated fuzz designed to cover a wide range of fuzz sounds, from mo
 - OBNE source material documents **silicon transistors**.
 - Exact production transistor part numbers were not established.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact clipping/rectifier diode information was not established.
 - **Exact part:** Unknown.

@@ -13,7 +13,6 @@ Chemical Burn is Animal Factory Amplification's first product, described by the 
 
 ## Transistor
 - Exact transistor type not established.
-
 ## Diode
 - Exact diode type not established.
 

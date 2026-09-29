@@ -23,7 +23,6 @@ Astral ToneWorx notes that with EQ at zero the signal is unaffected by the EQ ci
 
 ## Transistor
 - Exact transistor/device part numbers are **not publicly documented**.
-
 ## Diode / clipping
 - Exact clipping diode/device part numbers are **not publicly documented**.
 

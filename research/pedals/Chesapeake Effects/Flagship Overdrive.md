@@ -23,7 +23,6 @@
 
 ## Transistor
 - Exact production transistor/device part number is not documented.
-
 ## Power
 - Exact model-specific voltage/current details are not securely preserved.
 

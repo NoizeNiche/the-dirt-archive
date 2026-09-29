@@ -26,7 +26,6 @@ Compulsive Audio states that its pedals were hand-wired, with many designs built
 
 ## Transistor
 - **Exact transistor/device:** Not publicly documented in the checked sources.
-
 ## Diode
 - **Exact clipping diode/device:** Not publicly documented.
 

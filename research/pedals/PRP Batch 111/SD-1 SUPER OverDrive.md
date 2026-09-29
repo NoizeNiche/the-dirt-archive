@@ -19,7 +19,6 @@ The SD-1 Super OverDrive was introduced in 1981 and developed from the OD-1's as
 
 ## Transistor
 The 1981 BOSS service notes list **2SC945-P, 2SC732TM-GR, and 2SK30ATM-Y** semiconductor devices among the SD-1's transistors/FETs.
-
 ## Diode
 The 1981 service notes list **RD11EB-3, RD5.1EB-3, and 1S2473** diode devices.
 

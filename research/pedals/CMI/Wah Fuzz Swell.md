@@ -19,7 +19,6 @@ Historical documentation places Wah Fuzz Swell in the 1970s family of combined w
 
 ## Transistor
 - Exact transistor technology/part number is not documented for the CMI-branded unit.
-
 ## Diode / clipping
 - Exact clipping-device type and part number are not documented.
 

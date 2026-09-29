@@ -16,7 +16,6 @@ Hungry Robot fuzz pedal documented by the manufacturer and an independent Effect
 
 ## Transistor
 - **Exact production transistor/device:** Unknown.
-
 ## Diode
 - **Exact clipping/rectifier diode:** Unknown.
 

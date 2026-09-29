@@ -21,7 +21,6 @@ St_Genesius New member Oct 26, 2019 #4 Re: Wampler Pedals CataPULP British Disto
 ## Transistor
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Documented terms in the verified sources: LED, germanium diode, 1N5817, 1N4148.
 - The archive records only the component information explicitly present in these sources.

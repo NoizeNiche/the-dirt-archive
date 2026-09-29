@@ -32,7 +32,6 @@ No separately named production V2 or other major public hardware generation was 
 - **Technology:** FET input stage.
 - **Transistor type:** Individually selected **JFET transistors**, according to Effects Database's documentation of the design. Cause & Effect's own interview also describes hand-selected FET transistors. [2][4]
 - **Exact part number:** Not publicly established in the reliable sources checked.
-
 ## Diode
 - **Type:** Exact production clipping diode type was not established in the reliable sources checked.
 - **Exact diode/device:** Unknown.

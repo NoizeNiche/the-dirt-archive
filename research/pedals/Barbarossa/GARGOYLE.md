@@ -35,7 +35,6 @@ No numbered GARGOYLE revision was established in the accessible documentation. T
 ## Transistor
 - Type: Unknown.
 - No exact GARGOYLE transistor technology or part number published in the sources checked.
-
 ## Diode
 - Type: Unknown.
 - No GARGOYLE-specific diode part number published.

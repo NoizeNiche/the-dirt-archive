@@ -25,7 +25,6 @@ Aquaria is a mythic-drive-inspired overdrive designed around transparent drive, 
 
 ## Transistor
 - Exact production semiconductor details were not established.
-
 ## Diode
 - Exact clipping/rectifier diode information was not established.
 

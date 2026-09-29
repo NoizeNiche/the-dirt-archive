@@ -27,7 +27,6 @@ The exact naming printed on an individual build can vary, but the standard Buzza
 - **Exact devices:** **OC45 + OC45 + OC43**.
 - Arcane Analog states these are hand-selected as a trio. [1]
 - The archive treats these devices as specific to the documented unit rather than a universal transistor prescription for every Arcane Analog Buzzaround.
-
 ## Diode / clipping
 - The reviewed exact-model builder page does not document a clipping-diode type or part number for this OC45/OC43 build.
 - Do not import the **NOS Germanium Diode** listed for Arcane Analog's earlier NKT213 Buzzaround run, because that is a separate documented build. [2]

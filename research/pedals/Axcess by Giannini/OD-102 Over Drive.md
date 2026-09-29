@@ -34,7 +34,6 @@ The reviewed Giannini documentation specifies:
 
 ## Transistor
 - Exact active-device part numbers are not publicly documented.
-
 ## Diode / clipping
 - Exact clipping arrangement is not publicly documented.
 

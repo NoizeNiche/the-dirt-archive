@@ -28,7 +28,6 @@ The reviewed archival sources do not preserve a complete universal external cont
 - **2 × BC108 silicon transistors:** Explicitly documented.
 - Devices are socketed to facilitate internal replacement/selection.
 - Individual gain grades or measurements are not documented.
-
 ## Diode / clipping
 - Exact clipping diode arrangement is not publicly documented.
 - The archive does not infer diode type from the BC108 transistor family.

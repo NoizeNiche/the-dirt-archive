@@ -35,7 +35,6 @@ This dual hand-wired pedal combines a Dallas Arbiter Rangemaster treble booster 
 - Mullard GET / 1974 Texas Instruments
 - Mullard OC / Mullard GET
 - New Market NKT / New Market NKT [1]
-
 ## Diode
 - Exact clipping diode/device is not publicly documented.
 

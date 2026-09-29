@@ -23,7 +23,6 @@ The VOX Model **7001 Distortion** is an early-1980s Japanese pedal produced for 
 ## Transistor
 - Exact production transistor/device information was not established in the checked sources.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - The checked source documents the LED indicator but not the clipping-device part.
 - **Exact clipping part:** Unknown.

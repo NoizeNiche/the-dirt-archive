@@ -21,7 +21,6 @@ Basic Audio's Gnarly adapts the early Maestro FZ-1 fuzz concept around a stage-i
 ## Transistor
 - **Technology:** Silicon.
 - Exact production transistor part number is **not publicly documented**. [1][2]
-
 ## Diode / clipping
 - Exact clipping-device type and part number are not publicly documented.
 

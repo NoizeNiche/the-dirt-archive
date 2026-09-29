@@ -22,7 +22,6 @@ Page 2 The Supro Fuzz is equipped with a 2 band independent EQ.
 ## Transistor
 - Documented terms in the verified sources: germanium Fuzz, Germanium transistor.
 - The archive records only the component information explicitly present in these sources.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

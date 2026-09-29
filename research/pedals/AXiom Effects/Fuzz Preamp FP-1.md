@@ -36,7 +36,6 @@ These are **tonal-reference modes**, not claims that BC108 or NKT275 devices are
 - **Technology:** Silicon transistor fuzz.
 - Exact installed transistor part number is not published.
 - AXiom's BC108/NKT275 mentions refer to reference behavior, not confirmed installed components. [1]
-
 ## Diode / clipping
 - No exact clipping-diode part number is published.
 - The **MIDS** section is explicitly described as adding soft clipping to mid/high-mid frequencies. [1]

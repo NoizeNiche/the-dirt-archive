@@ -26,7 +26,6 @@ The bypass/output section is buffered with a JFET arrangement and low output imp
 ## Transistor
 - **Documented production device:** Toshiba **2SC1815** low-noise transistors. [1]
 - Maxon describes the transistors as hand-selected for low noise and gain behavior.
-
 ## Diode
 - **Exact production clipping-diode part:** Not established in the verified manufacturer documentation.
 

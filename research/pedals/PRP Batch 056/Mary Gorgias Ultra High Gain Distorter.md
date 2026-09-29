@@ -22,7 +22,6 @@ Mary Gorgias is a low-production, through-hole, hand-built crossover between fuz
 
 ## Transistor
 - Exact transistor/device part numbers are not publicly documented.
-
 ## Diode
 - Glass-cased silicon and germanium clipping diodes are documented, but exact individual part numbers are not specified. [1]
 

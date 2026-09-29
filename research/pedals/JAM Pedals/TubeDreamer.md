@@ -21,7 +21,6 @@ Comes in 4 versions : TubeDreamer 58 : TD58 offers the classic Tubescreamer soun
 ## Transistor
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

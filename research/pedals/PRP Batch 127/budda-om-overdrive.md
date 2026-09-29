@@ -25,7 +25,6 @@ No reliable factory revision sequence was established.
 
 ## Transistor
 - Exact active device: Not publicly documented in the manufacturer material reviewed.
-
 ## Diode
 - Exact clipping diode/device: Not publicly documented.
 

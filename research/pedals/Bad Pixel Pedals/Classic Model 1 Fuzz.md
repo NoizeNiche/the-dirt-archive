@@ -22,7 +22,6 @@ Model 01 belongs to Bad Pixel's Classic Series, whose published construction phi
 ## Transistor
 - **Technology:** Germanium.
 - **Exact part number:** The Model 01 builder page documents matched germanium transistors but does not publish the individual device number. [1]
-
 ## Diode / clipping
 - Exact clipping/protection diode is not documented.
 

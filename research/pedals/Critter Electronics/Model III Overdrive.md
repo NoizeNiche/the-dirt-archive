@@ -26,7 +26,6 @@ No numbered factory revision was verified. The available evidence is primarily p
 
 ## Transistor
 - **Exact transistor/device:** Not publicly documented in the accessible exact-model evidence.
-
 ## Diode
 - **Exact clipping diode/device:** Not publicly documented in the accessible exact-model evidence.
 

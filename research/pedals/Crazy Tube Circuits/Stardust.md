@@ -41,7 +41,6 @@ The V3 also uses MOSFET discrete gain stages and internally boosted operating vo
 ## Transistor
 - **MOSFET:** explicitly documented for Stardust V3.
 - Exact MOSFET part number: **not established** from the reliable checked sources.
-
 ## Diode
 - Exact diode type or part number: **not established**.
 

@@ -25,7 +25,6 @@ The available build documentation shows transistor selection varying between ind
 
 ## Transistor
 Documented Zeugma builds use **three germanium transistors**. One builder-posted MKI build specifies Toshiba 2SB54 for Q1, GT310B for Q2, and Texas Instruments 2N404 for Q3; another documented build uses Tungsram AC125, Toshiba 2SB54, and Texas Instruments 2N404. These examples show that the transistor set is not necessarily identical across units. [1][3]
-
 ## Diode
 No exact diode specification was established from the available builder and product documentation.
 

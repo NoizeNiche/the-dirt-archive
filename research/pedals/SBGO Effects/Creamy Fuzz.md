@@ -30,7 +30,6 @@ Creamy Fuzz is a handmade analog silicon fuzz from French builder SBGO Effects. 
 ## Transistor
 - **Silicon fuzz:** explicitly documented by SBGO.
 - Exact transistor part number is not specified.
-
 ## Diode
 - Exact clipping/rectification diode is not specified by the manufacturer.
 

@@ -26,7 +26,6 @@ No formal numbered production revision history was established.
 
 ## Transistor
 The manufacturer specifies low-noise semiconductor construction but does not publish exact transistor part numbers. [1]
-
 ## Diode
 No exact diode part number was published. The design uses multiple clipping stages. [1]
 

@@ -34,7 +34,6 @@ The original FY-6 family is a Japanese transistor fuzz design. Shin-ei's current
 ## Transistor
 - Exact transistor part numbers for the generic Companion FY-6 record were not established in the checked sources.
 - The archive therefore records the transistor stage without guessing a universal historical device.
-
 ## Diode
 - **Exact clipping diode/device:** Not publicly documented in the checked sources.
 

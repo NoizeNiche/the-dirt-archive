@@ -26,7 +26,6 @@ The VH4 Pedal is a true preamp pedal based on the third channel of the Diezel VH
 
 ## Transistor
 - Exact production semiconductor details were not established.
-
 ## Diode
 - Exact clipping/rectifier diode information was not established.
 

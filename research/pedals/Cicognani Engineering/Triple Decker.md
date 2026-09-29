@@ -31,7 +31,6 @@ Cicognani explicitly describes Triple Decker as an evolution of Double Decker ra
 
 ## Transistor
 No discrete transistor stage is documented as the primary gain element. The core tube is **12AU7** with high-impedance IC stages. [1]
-
 ## Diode
 No exact-model diode specification was established.
 

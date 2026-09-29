@@ -28,7 +28,6 @@ The Ibanez TS7 is the Tone-Lok version of the Tube Screamer. Ibanez's owner manu
 ## Transistor
 - An exact production transistor/device part number for the complete TS7 production run was not established in the checked sources.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the checked sources.
 - **Exact part:** Unknown.

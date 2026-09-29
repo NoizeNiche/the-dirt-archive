@@ -40,7 +40,6 @@ The checked builder documentation does not establish a formal numbered hardware 
 
 ## Transistor
 The core active processor is the **Holtek HT8950 IC** with input op-amp stages. No exact discrete transistor complement was established. [1]
-
 ## Diode
 No exact-model clipping diode specification was established.
 

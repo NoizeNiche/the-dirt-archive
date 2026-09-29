@@ -31,7 +31,6 @@ No reliable production revision history was established. The “Channel” pedal
 ## Transistor
 - **Technology:** Vacuum-tube.
 - **Exact transistor/device:** Not applicable to the primary gain stages documented for this pedal.
-
 ## Diode
 - **Exact production clipping diode/device:** Not publicly documented.
 

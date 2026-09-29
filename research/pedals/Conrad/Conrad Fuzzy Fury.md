@@ -32,7 +32,6 @@ The archive keeps the Conrad marketing identity distinct from related Applied-br
 
 ## Transistor
 - **Exact transistor/device:** Not publicly documented in the checked model-specific sources.
-
 ## Diode
 - **Exact clipping/rectification diode/device:** Not publicly documented.
 

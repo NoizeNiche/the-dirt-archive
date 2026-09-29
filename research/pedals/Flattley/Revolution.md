@@ -24,7 +24,6 @@ The Flattley Revolution pedal was also given the “ Guitarist Choice ” award 
 ## Transistor
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Documented terms in the verified sources: LED, LEDs.
 - The archive records only the component information explicitly present in these sources.

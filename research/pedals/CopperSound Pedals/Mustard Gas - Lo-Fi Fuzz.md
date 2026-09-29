@@ -34,7 +34,6 @@ Mustard Gas is a deliberately lo-fi fuzz machine built to reproduce old-radio an
 
 ## Transistor
 - **Exact transistor/device:** not publicly documented in the checked sources.
-
 ## Diode
 - **Exact diode/clipping device:** not publicly documented in the checked sources.
 

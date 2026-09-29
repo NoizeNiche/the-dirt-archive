@@ -27,7 +27,6 @@ A documented **Version 2.0** redesign shrinks the footprint, uses a 125B enclosu
 
 ## Transistor
 - Exact active-device technology and part numbers are not publicly documented in the reviewed sources.
-
 ## Diode / clipping
 - Exact clipping/protection diode type and part number are not publicly documented.
 

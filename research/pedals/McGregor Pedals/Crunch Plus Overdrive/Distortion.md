@@ -25,7 +25,6 @@ The Crunch Plus is a Canadian-made, hand-soldered medium-gain overdrive/distorti
 ## Transistor
 - Exact production semiconductor details were not established.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Asymmetric hard clipping is documented, but exact clipping-device part numbers were not established.
 - **Exact part:** Unknown.

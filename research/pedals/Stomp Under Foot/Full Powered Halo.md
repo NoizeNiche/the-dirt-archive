@@ -21,7 +21,6 @@ By Marcus Reeve July 17, 2026 What Is the Full Powered Halo—and Why It Matters
 ## Transistor
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

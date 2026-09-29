@@ -21,7 +21,6 @@ For guitarists seeking organic, unpredictable motion in clean-to-moderately-driv
 ## Transistor
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Documented terms in the verified sources: LEDs.
 - The archive records only the component information explicitly present in these sources.

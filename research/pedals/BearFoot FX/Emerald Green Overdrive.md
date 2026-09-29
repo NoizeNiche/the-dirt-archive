@@ -24,7 +24,6 @@ The interaction between Drive and Voice is a central part of the model's respons
 ## Transistor
 - **Germanium** implementation is documented.
 - Exact transistor part number is not publicly documented.
-
 ## Diode / clipping
 - Exact clipping/protection device and part number are not publicly documented.
 

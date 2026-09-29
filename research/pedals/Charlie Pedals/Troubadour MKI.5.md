@@ -25,7 +25,6 @@
 
 ## Transistor
 - **Brimar AC113 Germanium** transistors documented for the exact model. [1]
-
 ## Diode / clipping
 - Exact diode part numbers are not documented.
 

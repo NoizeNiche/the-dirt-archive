@@ -21,7 +21,6 @@ Pedal Dimensions (LxWxH): 4.80" x 3.64" x 2.10" Instructions (PDF) The Woolly Ma
 ## Transistor
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

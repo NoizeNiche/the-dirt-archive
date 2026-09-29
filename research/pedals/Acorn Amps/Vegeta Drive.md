@@ -30,7 +30,6 @@ No separate named production revision was documented in the official material re
 ## Transistor
 - **Exact transistor/device:** Not publicly documented.
 - Acorn identifies the active circuit as a single op-amp distortion stage. [1]
-
 ## Diode
 - **Exact clipping diode/device:** Not publicly documented.
 

@@ -19,7 +19,6 @@ The surviving exact-model evidence does not provide a complete modern control ma
 ## Transistor
 - Solid-state fuzz.
 - Exact transistor part number is not publicly documented.
-
 ## Diode / clipping
 - Exact clipping-device arrangement is not documented.
 

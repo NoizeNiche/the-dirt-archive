@@ -57,7 +57,6 @@ A Reverb archive listing documents a **2000 gold FX91** example, while other sur
 ## Transistor
 - **Exact production transistor:** Not established.
 - The strongest technical evidence reviewed points instead to an op-amp based design with two 4560-type devices.
-
 ## Op-amps
 - **Documented:** two **4560-type** op-amps, based on AmericasPedals' model-specific technical notes.
 - Exact manufacturer/part-number provenance for those devices was not independently established from the original DOD manual.

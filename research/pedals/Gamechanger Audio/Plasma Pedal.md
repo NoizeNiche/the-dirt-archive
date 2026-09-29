@@ -28,7 +28,6 @@ The Plasma Pedal is a high-voltage distortion effect built around a xenon-filled
 ## Transistor
 - The defining distortion mechanism is the gas-discharge tube, not a transistor-only clipping stage.
 - **Exact semiconductor complement:** Unknown.
-
 ## Diode
 - The visible blue arc comes from the xenon gas-discharge tube rather than an LED clipping element.
 - Exact clipping/rectifier diode information was not established.

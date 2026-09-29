@@ -19,7 +19,6 @@ The OD-3 is a BOSS overdrive built around a dual-stage circuit designed for incr
 
 ## Transistor
 - Individual production transistor part numbers are not publicly specified by BOSS.
-
 ## Diode
 - Individual production diode part numbers are not publicly specified by BOSS.
 

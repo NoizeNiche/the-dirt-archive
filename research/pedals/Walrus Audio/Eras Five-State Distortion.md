@@ -27,7 +27,6 @@ Eras is a high-gain distortion pedal with five selectable distortion modes and a
 ## Transistor
 - Exact production transistor/device information was not established in the checked sources.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Walrus describes multiple clipping options across the five modes, but the complete production component bill of materials is not published in the checked sources.
 - **Exact clipping part:** Unknown.

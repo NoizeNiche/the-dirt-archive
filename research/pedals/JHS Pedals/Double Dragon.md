@@ -24,7 +24,6 @@ The Double Dragon Lo-Fi Octave Device is built on shoulders of 40-50 year old an
 ## Transistor
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Documented terms in the verified sources: Led.
 - The archive records only the component information explicitly present in these sources.

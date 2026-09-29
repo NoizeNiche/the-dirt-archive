@@ -24,7 +24,6 @@ The Nano Battalion is a bass preamp built around a MOSFET drive circuit that ran
 ## Transistor
 - **MOSFET** drive architecture is documented.
 - Exact device part number was not established.
-
 ## Diode
 - Exact clipping/rectifier diode information was not established.
 

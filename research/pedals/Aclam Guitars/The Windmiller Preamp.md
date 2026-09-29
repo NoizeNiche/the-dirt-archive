@@ -32,7 +32,6 @@ The major documented development change was a move away from the early overdrive
 ## Transistor
 - **Development:** Aclam's designer documents prototype work with germanium and silicon transistors. [2]
 - **Exact production transistor/device:** Not publicly documented in the official production material reviewed.
-
 ## Diode
 - **Exact production diode/device:** Not publicly documented in the official material reviewed.
 

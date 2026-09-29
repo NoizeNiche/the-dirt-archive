@@ -42,7 +42,6 @@ The Pro is a substantial expansion rather than a cosmetic revision of TightFuzz.
 - **Technology:** Germanium / Silicon selectable output-transistor architecture.
 - Exact TightFuzz Pro production parts were not independently established.
 - The original TightFuzz trace identifies 2SD1616 silicon and AC127 germanium in one traced specimen, but that does not prove identical parts across all Pro units. [3]
-
 ## Diode
 - **Type:** Unknown.
 - No TightFuzz Pro-specific diode documentation located.

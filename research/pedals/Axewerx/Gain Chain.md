@@ -21,7 +21,6 @@ Axewerx describes the BAT-41 setting as tighter/darker and the red-LED setting a
 
 ## Transistor
 - **2 × 2N5088** documented by Axewerx. [1]
-
 ## Diode / clipping
 - **BAT-41 diodes**
 - **Red LEDs**

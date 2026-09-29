@@ -22,7 +22,6 @@ Limetone Audio's JACKAL OD/DS/FZ is cataloged as a distortion / fuzz / overdrive
 ## Transistor
 - Documented terms in the verified sources: AC208MS.
 - The archive records only the component information explicitly present in these sources.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

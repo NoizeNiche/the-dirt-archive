@@ -25,7 +25,6 @@ The current double-format version adds an additional block that works as a synth
 
 ## Transistor
 - Exact transistor/device part numbers are not publicly documented.
-
 ## Diode
 - Exact clipping diode/device is not publicly documented.
 

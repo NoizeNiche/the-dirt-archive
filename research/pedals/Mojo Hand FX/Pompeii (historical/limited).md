@@ -28,7 +28,6 @@ The BODY control is described as a simplified version of the tone stack used in 
 ## Transistor
 - **Documented devices:** two matched BC109 silicon transistors. [1]
 - **Exact production part variation across all 250 units:** Not independently established.
-
 ## Diode
 - **Exact production clipping diode:** Unknown.
 

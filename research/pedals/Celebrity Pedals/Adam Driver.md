@@ -22,7 +22,6 @@ Celebrity Pedals describes Adam Driver as a handmade analog overdrive drawing on
 
 ## Transistor
 - Exact production transistor/device part numbers are not publicly documented.
-
 ## Diode / clipping
 - A dedicated **Clipping** control is documented.
 - Exact clipping diode/device types are not publicly documented. [1]

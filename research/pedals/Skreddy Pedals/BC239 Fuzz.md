@@ -22,7 +22,6 @@ The Skreddy Pedals™ BC239 FUZZ is a throwback to the late "rams head" era.
 ## Transistor
 - Documented terms in the verified sources: BC239.
 - The archive records only the component information explicitly present in these sources.
-
 ## Diode
 - Documented terms in the verified sources: led.
 - The archive records only the component information explicitly present in these sources.

@@ -22,7 +22,6 @@ The 4 Knob Mini is the compact version of Menatone's four-control Red Snapper. M
 
 ## Transistor
 - Exact production semiconductor complement was not established.
-
 ## Diode
 - Exact clipping-device information was not established.
 

@@ -21,7 +21,6 @@ The two documented build configurations are circuit-option choices within the ki
 
 ## Transistor
 - Exact active device: Not established from the product record reviewed.
-
 ## Diode
 - Clipping section: The kit includes additional diodes for experimentation, but the exact factory diode set is not treated as a fixed production component list because this is a DIY kit. [1]
 

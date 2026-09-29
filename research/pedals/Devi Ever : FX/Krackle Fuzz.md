@@ -18,7 +18,6 @@ The Krackle Fuzz is a high-gain Devi Ever fuzz. The checked exact-model sources 
 
 ## Transistor
 - Exact production transistor/device information was not established.
-
 ## Diode
 - Exact clipping/rectifier diode information was not established.
 

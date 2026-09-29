@@ -59,7 +59,6 @@ The FX Teacher version adds:
 ## Transistor
 - **Technology:** Not fixed at platform level.
 - Tone Card circuit technology varies by card. Anasounds explicitly documents at least one Tone Card as **op-amp based rather than transistor based**, so the platform should not be classified as a single transistor technology. [1]
-
 ## Diode / clipping
 - **Technology:** Version-dependent.
 - The regular Anasounds format does not document one universal clipping device for all Tone Cards.

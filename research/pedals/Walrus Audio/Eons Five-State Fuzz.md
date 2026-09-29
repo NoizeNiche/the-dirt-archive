@@ -29,7 +29,6 @@ Eons is a five-state fuzz with a variable Voltage control that can raise or star
 ## Transistor
 - One documented high-gain mode uses hard-clipping silicon transistors, but the complete production transistor complement is not published.
 - **Exact production transistor part number:** Unknown.
-
 ## Diode
 - Walrus documents silicon, germanium, and LED clipping configurations across the five modes.
 - **Exact production diode part numbers:** Unknown.

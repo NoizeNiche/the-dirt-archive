@@ -21,7 +21,6 @@ DA-2: Ideal Distortion Across Your Guitar's Entire Range Unlike standard distort
 ## Transistor
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

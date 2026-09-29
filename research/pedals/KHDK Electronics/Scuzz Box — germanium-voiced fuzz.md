@@ -17,7 +17,6 @@ Scuzz Box is a KHDK Electronics fuzz pedal documented by the manufacturer, Rever
 
 ## Transistor
 - **Exact production transistor/device:** Unknown.
-
 ## Diode
 - **Exact clipping/rectifier diode:** Unknown.
 

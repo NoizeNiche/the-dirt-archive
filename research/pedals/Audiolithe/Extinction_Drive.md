@@ -32,7 +32,6 @@ The two footswitches independently engage the channels, allowing them to be used
 
 ## Transistor
 - Exact transistor or op-amp part numbers are not publicly documented.
-
 ## Diode / clipping
 - Exact clipping devices are not publicly documented.
 

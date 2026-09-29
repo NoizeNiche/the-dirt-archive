@@ -22,7 +22,6 @@ Medusa is a compact HM-2-style distortion developed with Berlin band Breathe//Di
 
 ## Transistor
 - Exact production semiconductor details were not established.
-
 ## Diode
 - Exact clipping/rectifier diode information was not established.
 

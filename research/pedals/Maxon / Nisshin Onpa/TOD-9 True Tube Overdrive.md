@@ -27,7 +27,6 @@ With Tube at zero, Maxon states that the unit behaves as an OD-9; increasing Tub
 
 ## Transistor
 - **Exact production transistor/device:** Not established in the verified manufacturer documentation.
-
 ## Diode
 - **Documented inherited architecture:** OD-9 clipping stage. [1]
 - **Exact production diode part:** Unknown.

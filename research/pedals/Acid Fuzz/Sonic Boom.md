@@ -32,7 +32,6 @@ The major changes are construction and transistor flavor. The p2p version is the
 - **Germanium builds:** documented NOS OC141 examples; other historical Germanium component sets may vary by build. [4][5]
 - **Silicon/PCB design:** Acid Fuzz's Effects Database documentation lists NOS BC108 transistors for the fuzz and booster, low-noise MPSA18 devices elsewhere in the circuit, and the original 2N2646 unijunction transistor for the repeater. [2]
 - Individual Sonic Boom units can therefore differ substantially by version.
-
 ## Diode
 - Separate clipping diode: **Not publicly documented.**
 

@@ -14,7 +14,6 @@
 ## Transistor
 - JFET/BJT architecture inherited from the Fettle family.
 - Exact transistor part numbers are not established.
-
 ## Diode / clipping
 - Exact clipping-device part numbers are not established.
 

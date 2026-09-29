@@ -21,7 +21,6 @@ Published on January 5, 2012 Custom 77 overdrive pedal Video all | by manufactur
 ## Transistor
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

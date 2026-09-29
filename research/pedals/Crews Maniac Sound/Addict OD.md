@@ -32,7 +32,6 @@ No reliable numbered V1/V2 production split was verified. The evidence supports 
 ## Transistor
 - **Technology:** Discrete transistor device information is not publicly established in the reliable product sources checked.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - **Type:** No production clipping diode specification was established; the documented drive circuit uses LED clipping. [2]
 - **Exact part:** Unknown.

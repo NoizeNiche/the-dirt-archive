@@ -28,7 +28,6 @@ No distinct public V2 or other named hardware generation was established in the 
 ## Transistor
 - **Technology:** Analog solid-state overdrive.
 - **Exact transistor type:** Not established in the reliable sources checked.
-
 ## Diode
 - **Exact production diode type:** Not established in the reliable sources checked.
 - The archive does not infer component types from third-party circuit-analysis material when the builder or strong documentary sources do not establish them.

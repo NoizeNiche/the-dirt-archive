@@ -22,7 +22,6 @@ Black Sunn combines two preamp sections in one enclosure: a tube channel based o
 
 ## Transistor
 - The stone section is described as RAT-based, but the checked source does not establish exact transistor part numbers for the Black Sunn unit.
-
 ## Diode
 - No exact diode type was established from the checked sources.
 

@@ -33,7 +33,6 @@ The OC41 era begins with the documented summer 2019 transistor change. The contr
 ## Transistor
 - **Philips Black Glass OC41**, three selected germanium devices.
 - Exact device matching values are not established in the checked sources.
-
 ## Diode
 - Exact diode type or part number: **not established**.
 

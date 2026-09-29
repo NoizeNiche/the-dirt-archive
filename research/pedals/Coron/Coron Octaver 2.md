@@ -25,7 +25,6 @@ The brochure describes the unit as an electronic synthesizer-style effect genera
 
 ## Transistor
 - No exact transistor type or part number was established from the checked sources.
-
 ## Diode
 - No exact diode type was established from the checked sources.
 

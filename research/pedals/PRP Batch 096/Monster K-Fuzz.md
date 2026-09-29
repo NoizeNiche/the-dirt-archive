@@ -12,7 +12,6 @@ Monster K-Fuzz is Black Cat's hot-rodded take on the 1960s Kay Fuzztone. The 201
 
 ## Transistor
 - **Not reliably documented in the reviewed sources**
-
 ## Source
 - https://www.effectsdatabase.com/model/blackcat/kfuzz/monster
 - https://www.premierguitar.com/gear/black-cat-monster-k-fuzz-review

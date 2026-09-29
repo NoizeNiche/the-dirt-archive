@@ -22,7 +22,6 @@ No formal numbered hardware revision sequence was established.
 
 ## Transistor
 The checked project inventory does not establish an exact transistor part number.
-
 ## Diode
 The checked project inventory does not establish an exact diode specification.
 

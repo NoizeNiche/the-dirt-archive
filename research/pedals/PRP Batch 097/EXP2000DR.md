@@ -19,7 +19,6 @@ EXP2000DR is BIXONIC's modern drive platform built around digital control with a
 
 ## Transistor
 - **Not reliably documented in the reviewed sources**
-
 ## Sound
 EXP2000DR is built for a broad drive-to-distortion palette, with Classic mode emphasizing the older Expandora flavor and Modern mode providing a more contemporary punch. Its Nuance control lets the response move from creamy sustain toward an edgier, more percussive feel.
 

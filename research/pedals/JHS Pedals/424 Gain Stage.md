@@ -21,7 +21,6 @@ The 424 Gain Stage is inspired by plugging a guitar directly into a vintage Tasc
 
 ## Transistor
 - Exact production semiconductor details were not established.
-
 ## Diode
 - LED indicator is documented; exact clipping-device information was not established.
 

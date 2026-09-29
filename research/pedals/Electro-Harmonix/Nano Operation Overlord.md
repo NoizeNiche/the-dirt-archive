@@ -24,7 +24,6 @@ The Nano Operation Overlord is the compact mono version of Electro-Harmonix's Op
 
 ## Transistor
 - Exact production semiconductor details were not established.
-
 ## Diode
 - LED indicator is documented; exact clipping-device information was not established.
 

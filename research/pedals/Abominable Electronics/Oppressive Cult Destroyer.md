@@ -40,7 +40,6 @@ The pedal gained a Clean blend and updated switching/artwork in later production
 ## Transistor
 - **Technology:** Solid-state overdrive/distortion; MOSFET clipping is documented in the original version. [1]
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - **Type:** Original documentation describes a **Germanium diode added to the MOSFET clipping network**, with a separate **LED clipping** mode. [1]
 - **Exact parts:** Unknown.

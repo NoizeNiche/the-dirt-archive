@@ -32,7 +32,6 @@ The V2 documentation confirms the redesigned version, but the surviving sources 
 
 ## Transistor
 - **Exact transistor/device:** Not publicly documented.
-
 ## Diode
 - **Exact clipping diode/device:** Not publicly documented.
 

@@ -34,7 +34,6 @@ Foxcatcher V2 is the later evolution of the Foxcatcher platform. CopperSound des
 
 ## Transistor
 - **Exact transistor part number:** not documented by the checked public sources.
-
 ## Diode
 - **Exact diode/clipping device:** not documented by the checked public sources.
 

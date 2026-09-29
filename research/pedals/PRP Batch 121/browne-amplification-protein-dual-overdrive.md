@@ -23,7 +23,6 @@ The current Browne store separately documents V2.2, V3 and V4. V3 adds top-mount
 
 ## Transistor
 Exact active devices not publicly documented.
-
 ## Diode
 Exact factory clipping devices are not publicly documented for the family entry.
 

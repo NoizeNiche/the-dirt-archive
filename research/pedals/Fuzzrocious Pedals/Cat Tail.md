@@ -23,7 +23,6 @@ Cat Tail is a low-to-high gain distortion/overdrive based on a classic distortio
 ## Transistor
 - Exact production transistor/device information was not established.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - **Documented:** 1N914.
 - Exact clipping-network role and complete diode list are not established.

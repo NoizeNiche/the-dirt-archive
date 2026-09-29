@@ -23,7 +23,6 @@ Xotic Effects SL Drive Review This tiny overdrive pedal invokes the sounds of tw
 ## Transistor
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Documented terms in the verified sources: 1N4148.
 - The archive records only the component information explicitly present in these sources.

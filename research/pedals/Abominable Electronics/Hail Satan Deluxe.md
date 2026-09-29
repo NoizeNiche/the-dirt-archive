@@ -35,9 +35,8 @@ Hail Satan Deluxe keeps the original Hail Satan concept and adds much more contr
 The major Deluxe evolution is documented through switching improvements and cosmetic updates, while the basic expanded control set remains the identity of the model. The Russian/Normal switch and Clean Blend are part of the Deluxe design rather than separate versions. [1]
 
 ## Transistor
-- **Technology:** Big Muff-derived solid-state fuzz/distortion.
+- **Technology:** -derived solid-state fuzz/distortion.
 - **Exact transistor/device:** Not publicly documented.
-
 ## Diode
 - **Type:** Red LED clipping is documented for the secondary footswitch; the base clipping network is part of the Muff-derived circuit but exact standard diode parts are not fully published. [1][2]
 - **Exact diode/device:** Unknown.

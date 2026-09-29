@@ -26,7 +26,6 @@ The MKII Mini is a smaller, pedalboard-friendly version with optional external b
 - **Type:** Germanium.
 - **Documented parts:** Mullard OC75; optional OC81D and AC125. [1]
 - Individual production units can therefore differ by selected transistor set.
-
 ## Diode
 - Separate clipping diode: **Not publicly documented.**
 

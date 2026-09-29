@@ -22,7 +22,6 @@ No battery compartment exists; the Rhinosaur requires a regulated 9–18 V DC ce
 ## Transistor
 - Documented terms in the verified sources: BC549C.
 - The archive records only the component information explicitly present in these sources.
-
 ## Diode
 - Documented terms in the verified sources: LED.
 - The archive records only the component information explicitly present in these sources.

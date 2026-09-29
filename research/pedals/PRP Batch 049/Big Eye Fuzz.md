@@ -20,7 +20,6 @@ A compact Korean-made fuzz using a silicone transistor circuit. Amsterdam Cream 
 ## Transistor
 - Silicone transistor documented by the manufacturer. [1]
 - Exact part number not documented.
-
 ## Diode
 - Exact clipping diode not documented.
 

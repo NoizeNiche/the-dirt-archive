@@ -28,7 +28,6 @@ The builder describes Black Math as a Muff-family fuzz with a **pre-fuzz op-amp 
 ## Transistor
 - **Exact production transistor/device:** Unknown.
 - Source language referring to the pedal as a fuzz does not establish a universal transistor complement.
-
 ## Diode
 - **Documented function:** BLOWOUT changes an early diode-clipping section. [1][4]
 - **Exact production diode part:** Unknown.

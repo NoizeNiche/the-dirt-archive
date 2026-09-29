@@ -25,7 +25,6 @@ The verified manufacturer documentation establishes the pedal-level design and o
 
 ## Transistor
 - **Exact production transistor/device:** Unknown.
-
 ## Diode
 - **Exact production clipping diode:** Unknown.
 

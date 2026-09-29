@@ -24,7 +24,6 @@ Cosmic Terror describes the Centerror as suitable for down-tuned guitars, bass a
 
 ## Transistor
 - Exact transistor type or part number was not established from the checked sources.
-
 ## Diode
 - Exact diode type was not established from the checked sources.
 

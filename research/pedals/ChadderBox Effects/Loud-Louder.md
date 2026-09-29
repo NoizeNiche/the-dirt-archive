@@ -16,7 +16,6 @@
 ## Transistor
 - **Technology:** Dual MOSFET gain stages.
 - Exact MOSFET part numbers are not publicly documented. [1]
-
 ## Diode / clipping
 - Exact clipping/protection diode details are not publicly documented.
 

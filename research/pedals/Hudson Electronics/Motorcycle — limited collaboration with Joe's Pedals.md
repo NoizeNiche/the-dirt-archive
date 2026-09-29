@@ -16,7 +16,6 @@ Hudson Electronics overdrive collaboration documented by the manufacturer and Jo
 
 ## Transistor
 - **Exact production transistor/device:** Unknown.
-
 ## Diode
 - **Exact clipping/rectifier diode:** Unknown.
 

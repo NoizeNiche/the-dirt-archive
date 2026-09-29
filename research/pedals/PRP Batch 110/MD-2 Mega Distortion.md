@@ -22,7 +22,6 @@ BOSS documents the MD-2 as a single production model; the factory options are it
 
 ## Transistor
 BOSS does not publicly specify individual production transistor part numbers for the MD-2.
-
 ## Diode
 BOSS does not publicly specify individual production diode part numbers for the MD-2.
 

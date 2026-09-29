@@ -30,7 +30,6 @@ The public model page establishes the product identity and overdrive category bu
 
 ## Transistor
 - **Exact transistor/device:** Not publicly documented in the checked sources.
-
 ## Diode
 - **Exact clipping/rectification diode/device:** Not publicly documented.
 

@@ -29,7 +29,6 @@ No separate named production revision was documented in the official material re
 ## Transistor
 - **Type:** Transistor-based four-stage fuzz.
 - **Exact transistor count per stage and exact part numbers:** Not publicly documented. [1]
-
 ## Diode
 - **Type:** Germanium and silicon clipping options, plus clipping-diode bypass.
 - **Stage relationship:** The selectable clipping options are provided in two separate stages. [1]

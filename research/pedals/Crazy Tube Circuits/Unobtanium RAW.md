@@ -32,7 +32,6 @@ Unobtanium Raw retains the standard Klon-style overdrive plus D-style ODS/SSS am
 ## Transistor
 - NOS Mullard/Valvo **OC45 germanium transistors** in the RAW clipping mode.
 - Exact individual device numbers/batch matching details: not established.
-
 ## Diode
 - Stock mode retains germanium-diode clipping.
 - Exact diode part number: not established.

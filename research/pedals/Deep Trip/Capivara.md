@@ -21,7 +21,6 @@ The Capivara is Deep Trip's recreation of a first-generation 1966 Fuzz Face, wit
 ## Transistor
 - **Documented device:** AC153 germanium transistor.
 - Exact production complement beyond that documented device is not established.
-
 ## Diode
 - Exact clipping/rectifier diode information was not established.
 

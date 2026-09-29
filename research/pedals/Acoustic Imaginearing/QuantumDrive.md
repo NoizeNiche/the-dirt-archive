@@ -32,7 +32,6 @@ The 10th Anniversary edition added the Wave Shaper, Quantum Position and three-m
 
 ## Transistor
 - **Exact transistor/device:** Not publicly documented in the sources reviewed.
-
 ## Diode
 - Acoustic Imaginearing specifically contrasts its claimed tunneling process with standard diode distortion, but it does not publicly document a production clipping diode type for the pedal. [2]
 

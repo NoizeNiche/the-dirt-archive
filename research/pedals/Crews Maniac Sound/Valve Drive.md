@@ -30,7 +30,6 @@ No reliable numbered V1/V2 production sequence was verified. Crews later stated 
 ## Transistor
 - **Technology:** Tube-based design.
 - **Exact transistor/device:** Not applicable to the primary gain device.
-
 ## Diode
 - **Type:** Exact production clipping/rectification details were not publicly established.
 - **Exact part:** Unknown.

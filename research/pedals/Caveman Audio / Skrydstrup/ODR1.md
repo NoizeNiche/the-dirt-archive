@@ -30,7 +30,6 @@ No distinct public V2 or other named hardware generation was established in the 
 ## Transistor
 - **Technology:** Analog solid-state drive.
 - **Exact transistor type:** Not established in the reliable sources checked.
-
 ## Diode
 - **Type:** Germanium.
 - **Exact part number:** Not established in the reliable sources checked. [1]

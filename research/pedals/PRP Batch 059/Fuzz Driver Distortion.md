@@ -23,7 +23,6 @@ Effects Database documents the pedal and identifies a pair of NOS Motorola JFETs
 ## Transistor
 - **2 × NOS Motorola JFETs:** Explicitly documented by Effects Database. [2]
 - Exact Motorola part numbers, device date codes, gain grades and individual measurements are not published in the reviewed sources.
-
 ## Diode / clipping
 - Exact clipping diode/device part numbers are not publicly documented in the reviewed sources.
 - The archive does not infer diode type from the JFET implementation.

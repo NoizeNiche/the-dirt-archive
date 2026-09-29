@@ -22,7 +22,6 @@ The 73 Ram's Head is Vick Audio's most acclaimed Big Muff reproduction, faithful
 ## Transistor
 - Documented terms in the verified sources: Germanium Fuzz.
 - The archive records only the component information explicitly present in these sources.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

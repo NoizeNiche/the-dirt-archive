@@ -25,7 +25,6 @@ The Kilt V2 is a collaboration with Stu G that combines overdrive, fuzz and dist
 ## Transistor
 - Exact production semiconductor details were not established.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact clipping/rectifier diode information was not established.
 

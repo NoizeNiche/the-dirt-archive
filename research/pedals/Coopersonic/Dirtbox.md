@@ -28,7 +28,6 @@ Effects Database describes the Dirtbox as a transistorised overdrive design and 
 ## Transistor
 - **Architecture:** transistorised overdrive/distortion. [1]
 - Exact transistor part number not documented in the checked sources.
-
 ## Diode
 - **Exact clipping/rectification diode/device:** Not publicly documented.
 

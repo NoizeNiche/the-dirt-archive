@@ -27,7 +27,6 @@ No full historical revision matrix was established in the checked sources. The c
 
 ## Transistor
 - Exact transistor part numbers were not established from the checked sources.
-
 ## Diode
 - The clipping selector explicitly documents silicon-diode and LED modes, but exact diode part numbers were not established.
 - The germanium mode is documented as a germanium clipping voice without a specific semiconductor part number.

@@ -26,7 +26,6 @@ The verified manufacturer page establishes the control architecture and gain/voi
 
 ## Transistor
 - **Exact production transistor/device:** Unknown.
-
 ## Diode
 - **Exact production clipping diode:** Unknown.
 

@@ -35,7 +35,6 @@ No reliable numbered V1/V2 sequence was established. The archive keeps G.O.D. as
 ## Transistor
 - **Technology:** The core active-device implementation is not publicly specified in the reliable product descriptions checked.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - **Type:** Exact production clipping diode/device is not publicly established.
 - **Exact part:** Unknown.

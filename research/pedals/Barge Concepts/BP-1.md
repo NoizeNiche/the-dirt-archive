@@ -27,7 +27,6 @@ Barge Concepts describes the BP-1 as an enhanced implementation of the vintage I
 ## Transistor
 - The public BP-1 sources reviewed here do not establish exact transistor part numbers.
 - No semiconductor type is inferred solely from HP-1 lineage.
-
 ## Diode / clipping
 - Exact clipping/protection device part numbers are not publicly documented in the reviewed sources.
 

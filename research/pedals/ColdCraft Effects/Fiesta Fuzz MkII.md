@@ -24,7 +24,6 @@ Fiesta Fuzz MkII is the expanded successor to Fiesta Fuzz Mini. ColdCraft's prod
 
 ## Transistor
 Hybrid **MOSFET** fuzz with documented **JFET input buffering**. Exact transistor part numbers were not established. [1][2]
-
 ## Diode
 No exact-model diode specification was established.
 

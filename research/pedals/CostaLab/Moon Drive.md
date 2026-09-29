@@ -32,7 +32,6 @@ No distinct named circuit revision was established in the checked evidence. Curr
 ## Transistor
 - Exact transistor part number: **not established**.
 - The manufacturer describes the signal section as a germanium fuzz but does not publish a specific transistor bill of materials in the checked sources.
-
 ## Diode
 - Exact diode type or part number: **not established**.
 

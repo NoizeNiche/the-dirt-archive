@@ -22,7 +22,6 @@ No reliable numbered revision history was established.
 
 ## Transistor
 The model is explicitly identified as **IC-based fuzz**; exact IC part number was not established.
-
 ## Diode
 No exact-model diode specification was established.
 

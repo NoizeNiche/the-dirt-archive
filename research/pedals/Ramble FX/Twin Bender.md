@@ -22,7 +22,6 @@ Here are the latest videos of the Ramble FX Twin Bender: Two vintage fuzz circui
 ## Transistor
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

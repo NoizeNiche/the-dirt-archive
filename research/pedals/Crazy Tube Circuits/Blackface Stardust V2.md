@@ -26,7 +26,6 @@ The checked sources establish V2 as a distinct generation from the later Stardus
 
 ## Transistor
 - Exact transistor type or part number: **not established**.
-
 ## Diode
 - Exact diode type or part number: **not established**.
 

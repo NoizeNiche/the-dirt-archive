@@ -30,7 +30,6 @@ The manufacturer notes that published photographs are prototypes and may differ 
 
 ## Transistor
 Exact active devices are not publicly documented.
-
 ## Diode
 Exact clipping devices are not publicly documented.
 

@@ -22,7 +22,6 @@ No reliable numbered revision chronology was established.
 
 ## Transistor
 Unknown from the checked exact-model documentation.
-
 ## Diode
 Unknown from the checked exact-model documentation.
 

@@ -11,7 +11,6 @@ Volume, Tone, Dynamics, Burn. Technical reviews document additional internal sha
 
 ## Transistor
 Exact part: Unknown.
-
 ## Diode
 Exact diode part numbers unknown; technical review documents symmetrical/asymmetrical clipping.
 

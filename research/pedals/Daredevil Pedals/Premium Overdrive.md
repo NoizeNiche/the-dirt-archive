@@ -28,7 +28,6 @@ The Premium Overdrive is a hand-built transistor overdrive from Daredevil Pedals
 - Transistor-driven topology is explicitly documented.
 - Exact production transistor part number was not established.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact clipping/rectifier diode information was not established.
 - **Exact part:** Unknown.

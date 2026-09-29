@@ -28,7 +28,6 @@ The Big Muff Pi 2 with Tone Wicker is EHX's dual-op-amp take on the classic Big 
 - The defining active gain stages are op-amp based.
 - Exact production semiconductor complement was not established.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact clipping-device part numbers were not established in the checked sources.
 - **Exact part:** Unknown.

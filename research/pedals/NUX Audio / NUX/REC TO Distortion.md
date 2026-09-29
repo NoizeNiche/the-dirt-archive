@@ -27,7 +27,6 @@ The verified source does not establish a complete production schematic, op-amp i
 
 ## Transistor
 - **Exact production transistor/device:** Unknown.
-
 ## Diode
 - **Exact production clipping diode:** Unknown.
 

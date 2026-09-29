@@ -38,7 +38,6 @@ Colombo describes Utopia as completely handmade in Italy; its broader constructi
 
 ## Transistor
 - **Exact transistor/device:** Not publicly documented in the checked sources.
-
 ## Diode
 - **Exact clipping diode/device:** Not publicly documented in the checked sources.
 - The Vintage mode is described as using symmetrical clipping as part of its TS808-inspired behavior, but no exact diode part numbers are published in the sources reviewed. [1]

@@ -22,7 +22,6 @@ Basic Audio's Fuzz Right interprets the coarse, cutting Mosrite Fuzz Rite family
 ## Transistor
 - **Technology:** Germanium.
 - Exact production device and gain/leakage data are **not publicly documented**. [1]
-
 ## Diode / clipping
 - Exact clipping-device type and part number are **not publicly documented**.
 

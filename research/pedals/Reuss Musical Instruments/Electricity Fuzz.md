@@ -22,7 +22,6 @@ SOLD OUT - DISCONTINUED Reuss Electricity Fuzz Killer sounding hybrid fuzz based
 ## Transistor
 - Documented terms in the verified sources: silicon transistors, germanium transistor, BC108A, silicon transistor, germanium fuzz.
 - The archive records only the component information explicitly present in these sources.
-
 ## Diode
 - Documented terms in the verified sources: LED.
 - The archive records only the component information explicitly present in these sources.

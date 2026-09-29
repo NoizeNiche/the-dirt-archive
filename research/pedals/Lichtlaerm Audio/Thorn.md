@@ -27,7 +27,6 @@ The Thorn is Lichtlaerm Audio's signature high-gain distortion for Lennart Bossu
 ## Transistor
 - Exact production semiconductor details were not established in the checked sources.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact clipping/rectifier diode information was not established.
 - **Exact part:** Unknown.

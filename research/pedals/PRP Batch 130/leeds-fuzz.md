@@ -20,7 +20,6 @@ Not established.
 
 ## Transistor
 Exact active device unknown from the reviewed source set.
-
 ## Diode
 Exact clipping device unknown from the reviewed source set.
 

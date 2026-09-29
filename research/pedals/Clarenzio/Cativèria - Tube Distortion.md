@@ -22,7 +22,6 @@ No reliable numbered revision history was established.
 
 ## Transistor
 The documented gain element is a **vacuum tube**, so no discrete transistor specification is assigned. [2]
-
 ## Diode
 No exact-model diode specification was established.
 

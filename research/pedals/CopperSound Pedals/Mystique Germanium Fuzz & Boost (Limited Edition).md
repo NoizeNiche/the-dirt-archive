@@ -37,7 +37,6 @@ Mystique is a hand-built Germanium fuzz and independent boost platform created f
 ## Transistor
 - **Type:** hand-measured Germanium; three transistors.
 - **Exact part numbers:** not publicly documented.
-
 ## Diode
 - **Exact diode/clipping device:** not publicly documented.
 

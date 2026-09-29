@@ -22,7 +22,6 @@ The Big Muff Pi 2 Dual Op-Amp design is one that didn’t make the cut back in t
 ## Transistor
 - Documented terms in the verified sources: 2N5138.
 - The archive records only the component information explicitly present in these sources.
-
 ## Diode
 - Documented terms in the verified sources: 1N34A.
 - The archive records only the component information explicitly present in these sources.

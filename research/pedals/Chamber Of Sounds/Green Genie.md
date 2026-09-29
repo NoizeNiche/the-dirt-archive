@@ -22,7 +22,6 @@ Effects Database identifies Green Genie as a handmade recreation of the then-dis
 ## Transistor
 - Exact production transistor/device part numbers are not publicly documented.
 - The Foxx lineage does not substitute for Chamber Of Sounds-specific component evidence.
-
 ## Diode / clipping
 - Exact clipping-device type and part number are not publicly documented.
 

@@ -20,7 +20,6 @@ The OD-200 Hybrid Drive combines analog and digital drive circuitry in BOSS's 20
 
 ## Transistor
 - Individual production transistor part numbers are not publicly specified by BOSS.
-
 ## Diode
 - Individual production diode part numbers are not publicly specified by BOSS.
 

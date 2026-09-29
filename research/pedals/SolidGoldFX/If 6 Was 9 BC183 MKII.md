@@ -22,7 +22,6 @@ The tone of the If 6 Was 9 BC183 MKII Silicon Fuzz is smooth and refined, withou
 ## Transistor
 - Documented terms in the verified sources: BC183, germanium fuzz.
 - The archive records only the component information explicitly present in these sources.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

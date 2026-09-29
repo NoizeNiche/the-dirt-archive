@@ -25,7 +25,6 @@ The defining lineage is its development from the Mercury Box rather than a separ
 ## Transistor
 - **Technology:** FET.
 - Exact factory device part numbers are not publicly documented. [1]
-
 ## Diode
 Exact production clipping diode/device is not publicly documented.
 

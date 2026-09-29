@@ -16,7 +16,6 @@ The surviving catalog evidence identifies The Devils Handshake as an older Auxil
 
 ## Transistor
 - Exact active-device technology is not publicly documented.
-
 ## Diode / clipping
 - Exact clipping-device information is not publicly documented.
 

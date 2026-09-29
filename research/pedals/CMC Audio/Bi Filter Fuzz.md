@@ -25,7 +25,6 @@ CMC Audio designed Bi Filter Fuzz as both a fuzz and an expressive filter instru
 
 ## Transistor
 - Exact production transistor/device part numbers are not publicly documented.
-
 ## Diode / clipping
 - Exact clipping-device type and part number are not publicly documented.
 

@@ -19,7 +19,6 @@ Bass War is a bass-oriented evolution of Death By Audio's Fuzz War concept, desi
 
 ## Transistor
 - Exact production transistor/device information was not established.
-
 ## Diode
 - Exact clipping/rectifier diode information was not established.
 

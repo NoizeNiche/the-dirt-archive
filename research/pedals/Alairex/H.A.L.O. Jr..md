@@ -31,7 +31,6 @@ The Jr. is a distinct single-channel model based on H.A.L.O. channel 2, not a nu
 ## Transistor
 - **Technology:** Solid-state design.
 - **Exact transistor/device:** Not publicly documented.
-
 ## Diode
 - **Exact clipping diode/device:** Not publicly documented.
 

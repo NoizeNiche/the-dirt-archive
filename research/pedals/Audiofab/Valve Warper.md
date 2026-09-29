@@ -23,7 +23,6 @@ Audiofab describes Valve Warper as a touch-sensitive, fully discrete overdrive w
 ## Transistor
 - **Technology:** Discrete transistor Class A.
 - Exact transistor part numbers are not published in the reviewed builder material.
-
 ## Diode / clipping
 - Exact clipping diode/device arrangement is not publicly documented.
 

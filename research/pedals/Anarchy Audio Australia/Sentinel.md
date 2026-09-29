@@ -20,7 +20,6 @@ Sentinel is listed among Anarchy Audio's pedal range. The accessible builder mat
 
 ## Transistor
 - Exact type not established.
-
 ## Diode
 - Exact type not established.
 

@@ -35,7 +35,6 @@ Channel 1 can be used as a clean boost, while Channel 2 gives a crunchier voice 
 
 ## Transistor
 - No exact transistor type or part number was established from the checked sources.
-
 ## Diode
 - No exact diode type was established from the checked sources.
 

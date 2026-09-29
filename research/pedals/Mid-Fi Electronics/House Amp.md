@@ -21,7 +21,6 @@ The House Amp is a lo-fi fuzz/noise pedal designed around unstable, broken-speak
 
 ## Transistor
 - Exact production semiconductor details were not established.
-
 ## Diode
 - Exact clipping-device information was not established.
 

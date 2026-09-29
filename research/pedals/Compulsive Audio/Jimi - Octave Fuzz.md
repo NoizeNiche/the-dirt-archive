@@ -27,7 +27,6 @@ Compulsive Audio states that its pedals were hand-wired and often used general-p
 ## Transistor
 - **Technology:** Octave fuzz design. [2]
 - **Exact transistor/device:** Not publicly documented in the checked sources.
-
 ## Diode
 - **Exact clipping/rectification diode device:** Not publicly documented for this exact model.
 

@@ -27,7 +27,6 @@ The later Blues Player Pro is a separate named product that combines two Blues P
 
 ## Transistor
 - **Exact production transistor/device:** Not publicly documented.
-
 ## Diode
 - **Exact production clipping diode/device:** Not publicly documented.
 

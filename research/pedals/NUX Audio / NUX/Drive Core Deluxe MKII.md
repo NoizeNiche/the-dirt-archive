@@ -22,7 +22,6 @@ Drive Core Deluxe MKII Gallery / Spec / Support 8 iconic drive circuits in one p
 ## Transistor
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

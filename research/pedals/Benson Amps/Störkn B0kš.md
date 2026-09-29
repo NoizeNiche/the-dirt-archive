@@ -23,7 +23,6 @@
 
 ## Transistor
 - **Factory devices:** Germanium **2N404 or 2N527**, automatically thermally biased. [1]
-
 ## Diode / clipping
 - Benson documents a **diode network in the oscillation path**.
 - Exact diode part numbers are not published. [1]

@@ -19,7 +19,6 @@ Scream For Cream OD is one of five Analog Sound products documented by Effects D
 
 ## Transistor
 - Exact transistor type not established.
-
 ## Diode
 - Exact diode type not established.
 

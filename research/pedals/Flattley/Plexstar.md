@@ -23,7 +23,6 @@ The Plexstar gives you monster overdrive tones and transparent overdrive even wh
 ## Transistor
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Documented terms in the verified sources: LEDs, LED.
 - The archive records only the component information explicitly present in these sources.

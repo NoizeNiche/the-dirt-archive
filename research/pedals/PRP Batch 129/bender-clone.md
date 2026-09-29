@@ -22,7 +22,6 @@ No numbered BYOC revision was verified.
 ## Transistor
 - **Technology:** Germanium.
 - **Device:** Three selected NOS Philips/Mullard OC75 transistors. [1]
-
 ## Diode
 Exact clipping diode/device is not separately documented in the reviewed product description.
 

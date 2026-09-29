@@ -32,7 +32,6 @@ No reliable V1/V2 production split was found. The archive keeps Fuzzfreak as one
 ## Transistor
 - **Technology:** Schmitt-trigger fuzz design. [1]
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - **Type:** Exact production clipping diode(s) were not publicly documented in the sources checked.
 - **Exact part:** Unknown.

@@ -21,7 +21,6 @@ Maxon's Overdrive Extreme (OD808X) is cataloged as a distortion / overdrive peda
 ## Transistor
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

@@ -22,7 +22,6 @@ V2 adds the three-position hi-cut to the original Carbon setting. [1]
 
 ## Transistor
 Exact active devices not publicly documented.
-
 ## Diode
 Exact clipping devices not publicly documented.
 

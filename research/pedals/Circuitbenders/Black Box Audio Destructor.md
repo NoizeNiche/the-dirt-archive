@@ -29,7 +29,6 @@ Circuitbenders documents a wah-pedal-case version as an enclosure variation rath
 
 ## Transistor
 No exact-model transistor specification was published in the checked builder documentation.
-
 ## Diode
 No exact-model diode specification was published.
 

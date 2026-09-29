@@ -22,7 +22,6 @@ The expanded controls adapt the classic two-knob Fuzz Face concept for modern pe
 ## Transistor
 - **Hand-picked BC183C silicon transistors.** [1][3]
 - Exact gain matching values are not published.
-
 ## Diode / clipping
 - Exact clipping/protection diode part number is not publicly documented.
 

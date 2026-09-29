@@ -30,7 +30,6 @@ No numbered factory revision was verified in the accessible product and contempo
 
 ## Transistor
 - **Exact transistor/device:** Not publicly documented.
-
 ## Diode
 - **Exact clipping diode/device:** Not publicly documented.
 

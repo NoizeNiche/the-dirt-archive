@@ -24,7 +24,6 @@ By Marcus Reeve July 28, 2026 Introduction: Three Overdrives That Stopped Traffi
 ## Transistor
 - Documented terms in the verified sources: silicon transistors.
 - The archive records only the component information explicitly present in these sources.
-
 ## Diode
 - Documented terms in the verified sources: 1N34A, 1N4148, BAT46.
 - The archive records only the component information explicitly present in these sources.

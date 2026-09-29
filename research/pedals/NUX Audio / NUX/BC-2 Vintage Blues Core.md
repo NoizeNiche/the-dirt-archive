@@ -22,7 +22,6 @@ The BC-2 Vintage Blues Core is a NUX overdrive pedal documented in the NUX/Cheru
 ## Transistor
 - Documented terms in the verified sources: BC2.
 - The archive records only the component information explicitly present in these sources.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

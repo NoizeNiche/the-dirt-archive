@@ -29,7 +29,6 @@ The Amplitude ELEVEN is a two-channel Class A overdrive with separate rhythm/lea
 ## Transistor
 - Exact production transistor/device information was not established in the checked sources.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - The G.A.S. control documents three clipping modes, but exact clipping-device part numbers were not established.
 - **Exact part:** Unknown.

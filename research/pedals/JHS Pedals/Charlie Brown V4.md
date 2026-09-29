@@ -25,7 +25,6 @@ The Charlie Brown V4 is an amp-in-a-box overdrive inspired by the character of a
 
 ## Transistor
 - Exact production semiconductor details were not established.
-
 ## Diode
 - Exact clipping/rectifier diode information was not established.
 

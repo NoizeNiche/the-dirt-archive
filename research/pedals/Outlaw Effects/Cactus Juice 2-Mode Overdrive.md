@@ -25,7 +25,6 @@ Cactus Juice is a two-mode overdrive from Outlaw Effects. The documented factory
 
 ## Transistor
 - **Exact production transistor/device:** Not established in the manufacturer documentation reviewed.
-
 ## Diode
 - **Exact clipping/rectification diode:** Not established in the manufacturer documentation reviewed.
 

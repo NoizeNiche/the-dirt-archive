@@ -22,7 +22,6 @@
 ## Transistor
 - Green Russian/Muff-family four-transistor architecture is the lineage reference.
 - Exact production transistor part numbers are not established.
-
 ## Diode / clipping
 - Exact diode part numbers are not established.
 

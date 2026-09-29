@@ -28,7 +28,6 @@ The Repo Man combines **two echoes with an overdrive**. IdiotBox describes the s
 ## Transistor
 - Exact production semiconductor details were not established.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact clipping/rectifier diode information was not established.
 - **Exact part:** Unknown.

@@ -27,7 +27,6 @@ No formal numbered factory revision history was established. The defining functi
 
 ## Transistor
 The manufacturer describes low-noise **operational amplifiers** as the active gain technology but does not publish exact op-amp part numbers or transistor part numbers. [1]
-
 ## Diode
 No exact clipping-diode part numbers or complete diode topology were published. [1]
 

@@ -38,7 +38,6 @@ Renegade is a compact fuzz derived from the Tone Bender MK1.5 concept but implem
 ## Transistor
 - **Technology:** high-gain silicon.
 - **Exact part numbers:** not publicly documented.
-
 ## Diode
 - **Exact diode/clipping device:** not publicly documented.
 

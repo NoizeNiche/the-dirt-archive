@@ -23,7 +23,6 @@ Arcane Analog explicitly lists BC108 transistors for this build. [1]
 ## Transistor
 - **BC108 silicon transistors:** Verified by the builder. [1]
 - The manufacturer does not publish batch, gain-bin, leakage or individual transistor measurements for this exact unit.
-
 ## Diode / clipping
 - Exact clipping diode/device is **not publicly documented** for this specific build.
 - No diode material is inferred from the BC108 transistor designation.

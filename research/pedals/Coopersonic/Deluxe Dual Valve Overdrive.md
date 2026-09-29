@@ -25,7 +25,6 @@ Coopersonic's valve pedals use high-voltage tube circuitry in diecast metal encl
 ## Transistor
 - **Principal gain devices:** vacuum valves.
 - Exact supporting semiconductor device list not documented.
-
 ## Diode
 - **Exact clipping/rectification diode/device:** Not publicly documented.
 

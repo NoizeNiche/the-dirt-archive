@@ -17,7 +17,6 @@ Ghoul JR is a KHDK Electronics mini overdrive associated with Kirk Hammett. The 
 
 ## Transistor
 - **Exact production transistor/device:** Unknown.
-
 ## Diode
 - **Exact clipping/rectifier diode:** Unknown.
 

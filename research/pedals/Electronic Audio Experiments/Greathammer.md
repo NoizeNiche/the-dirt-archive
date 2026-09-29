@@ -29,7 +29,6 @@ The Greathammer is a bass-focused overdrive designed to cover a broad gain range
 ## Transistor
 - The active signal path is op-amp/buffer based.
 - **Exact semiconductor complement:** Unknown.
-
 ## Diode
 - Exact clipping/rectifier diode information was not established in the checked sources.
 - **Exact part:** Unknown.

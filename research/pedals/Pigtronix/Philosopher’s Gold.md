@@ -25,7 +25,6 @@ The Philosopher's Gold is a variation on Pigtronix's Philosopher's Tone optical 
 ## Transistor
 - Exact production semiconductor details were not established.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Pigtronix documents the germanium distortion layer but does not establish exact production diode part numbers in the checked sources.
 - **Exact part:** Unknown.

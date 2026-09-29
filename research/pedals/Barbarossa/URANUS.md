@@ -38,7 +38,6 @@ These three controls are common to the documented later production generation. [
 
 ## Transistor
 - Exact production transistor technology and part number are not publicly documented.
-
 ## Diode / clipping
 - Exact clipping diode/device type and part number are not publicly documented.
 

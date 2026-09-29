@@ -26,7 +26,6 @@ No reliable numbered factory revision sequence established.
 ## Transistor
 - Exact transistor/device: Unknown.
 - A later PedalPCB build document identifies a four-transistor Raincoat implementation using BC549C devices, but the archive does not treat that DIY build document as a factory BOM. [2]
-
 ## Diode
 - Exact factory clipping diode/device: Unknown.
 

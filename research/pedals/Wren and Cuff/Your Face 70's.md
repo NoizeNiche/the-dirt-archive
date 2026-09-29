@@ -21,7 +21,6 @@ Your Face 70's — Wren And Cuff Fuzz Pedal
 ## Transistor
 - Documented terms in the verified sources: BC108C, BC108, silicon transistors, Germanium Fuzz.
 - The archive records only the component information explicitly present in these sources.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

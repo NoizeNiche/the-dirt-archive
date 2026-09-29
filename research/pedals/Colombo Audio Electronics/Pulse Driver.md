@@ -35,7 +35,6 @@ Colombo's broader construction documentation describes its pedals as handmade po
 
 ## Transistor
 - **Exact transistor/device:** Not publicly documented in the checked sources.
-
 ## Diode
 - **Exact clipping diode/device:** Not publicly documented in the checked sources.
 

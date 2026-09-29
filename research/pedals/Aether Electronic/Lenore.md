@@ -35,7 +35,6 @@ No numbered factory revision was verified. The defining design choice is the bui
 ## Transistor
 - **Exact transistor/device:** Not publicly documented for Lenore.
 - Aether Electronic's separate Elixir documentation identifies several germanium transistors used in that different pedal, but no transistor from that list is assigned to Lenore. [2]
-
 ## Diode
 - **Exact clipping diode/device:** Not publicly documented.
 - The accessible Lenore documentation does not provide a diode part number or clipping-device specification. [1][2]

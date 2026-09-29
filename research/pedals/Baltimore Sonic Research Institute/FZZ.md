@@ -24,7 +24,6 @@ BSRI's own origin story says the first version was built for bass tracking when 
 ## Transistor
 - Exact transistor/device part numbers are not publicly documented in the reviewed sources.
 - A historical technical schematic exists publicly for the retired FZZ, but the reviewed source set does not establish individual transistor part numbers with sufficient confidence.
-
 ## Diode / clipping
 - Exact production diode part numbers are not established in the reviewed source set.
 

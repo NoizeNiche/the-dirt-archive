@@ -25,7 +25,6 @@ The Electron Fuzz Custom Retro is a one-off Retro Mechanical Labs build using a 
 ## Transistor
 - Exact production transistor/device information was not established in the checked sources.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - The source documents LEDs but does not establish the exact clipping-device part.
 - **Exact clipping part:** Unknown.

@@ -20,7 +20,6 @@ AXENTRIX A1 is a digital multi-distortion pedal derived from BIXONIC's EXPANDORA
 
 ## Transistor
 - **Not reliably documented in the reviewed sources**
-
 ## Sound
 A1 moves from transparent crunch and overdrive into full distortion and a dedicated fuzz mode. Its Accent/DREP system emphasizes picking dynamics, so the pedal can move from smoother sustain toward sharper, more percussive attack behavior.
 

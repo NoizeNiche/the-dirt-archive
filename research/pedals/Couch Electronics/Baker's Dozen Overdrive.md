@@ -33,7 +33,6 @@ No distinct circuit revision matrix was established from the checked sources. Th
 ## Transistor
 - Exact transistor type or part number: **not established**.
 - Do not infer component types solely from the pedal's op-amp-boost description.
-
 ## Diode
 - Exact diode type or part number: **not established**.
 

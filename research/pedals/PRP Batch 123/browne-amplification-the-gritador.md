@@ -23,7 +23,6 @@ No numbered factory revision is established on the current page.
 
 ## Transistor
 Exact active devices not publicly documented.
-
 ## Diode
 The manufacturer documents less-symmetrical clipping but does not publish exact diode parts. [1]
 

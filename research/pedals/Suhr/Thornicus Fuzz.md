@@ -24,7 +24,6 @@ I know it’s the end of mine!” – Crafted Collaboration The Thornicus Fuzz i
 ## Transistor
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

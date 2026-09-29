@@ -35,7 +35,6 @@ Additional features:
 ## Transistor
 - The checked manufacturer material discusses the op-amp/distortion behavior but does not establish a complete production semiconductor list.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Death By Audio identifies precision-matched diodes as part of the octave circuit.
 - Exact production diode part numbers are not published.

@@ -28,7 +28,6 @@ The pedal debuted as part of Citadel Electronics' first series at Guitar Summit 
 
 ## Transistor
 The active circuit is documented as **op-amp based**, with no discrete transistor complement published in the checked sources. [1][2]
-
 ## Diode
 No exact-model diode specification was established.
 

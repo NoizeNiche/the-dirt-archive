@@ -26,7 +26,6 @@ No formal numbered factory revision history was established.
 
 ## Transistor
 The manufacturer identifies **JFETs** as the active gain technology, but does not publish exact transistor part numbers. [1]
-
 ## Diode
 No exact diode specification was published.
 

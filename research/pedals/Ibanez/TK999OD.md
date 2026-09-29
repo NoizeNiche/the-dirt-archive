@@ -20,7 +20,6 @@ Automotive / Parts Accessories / Auto Electronics / Car Power Adapters + 2 View 
 ## Transistor
 - Documented terms in the verified sources: AC100AC.
 - The archive records only the component information explicitly present in these sources.
-
 ## Diode
 - Documented terms in the verified sources: LED.
 - The archive records only the component information explicitly present in these sources.

@@ -27,7 +27,6 @@ The Windhand LBM Fuzz was designed for Garrett from WINDHAND as a live replaceme
 ## Transistor
 - Exact production transistor/device information was not established in the checked sources.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact clipping/rectifier diode information was not established in the checked sources.
 - **Exact part:** Unknown.

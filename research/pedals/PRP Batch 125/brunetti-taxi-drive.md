@@ -25,7 +25,6 @@ No reliable numbered revision sequence established.
 ## Transistor
 - **Technology:** FET-based gain architecture.
 - Exact factory device part numbers are not publicly documented.
-
 ## Diode
 - **Technology:** Brunetti/market documentation identifies FET-DIODE technology.
 - Exact production diode device is not publicly documented. [2]

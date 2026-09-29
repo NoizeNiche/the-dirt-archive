@@ -21,7 +21,6 @@ EarthQuaker Devices's Special Cranker — Overdrive is cataloged as a distortion
 ## Transistor
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Documented terms in the verified sources: Germanium diode.
 - The archive records only the component information explicitly present in these sources.

@@ -18,7 +18,6 @@ Major Overdrive is an Animals Pedal / Skreddy Pedals collaboration designed by M
 
 ## Transistor
 - Exact transistor type not established.
-
 ## Diode
 - Exact diode type not established.
 

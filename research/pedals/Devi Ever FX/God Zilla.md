@@ -22,7 +22,6 @@ The God Zilla is a side-by-side octave fuzz pedal, which means there are 2 separ
 ## Transistor
 - Documented terms in the verified sources: Silicon transistor.
 - The archive records only the component information explicitly present in these sources.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

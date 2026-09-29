@@ -21,7 +21,6 @@ Unlike all our other overdrives, the Talons was not designed to emulate any spec
 ## Transistor
 - Documented terms in the verified sources: Silicon transistor.
 - The archive records only the component information explicitly present in these sources.
-
 ## Diode
 - Documented terms in the verified sources: LED.
 - The archive records only the component information explicitly present in these sources.

@@ -23,7 +23,6 @@ The FAB 50 is the pedal that established Lovepedal as a boutique effects maker. 
 
 ## Transistor
 - Exact production transistor/device information was not established.
-
 ## Diode
 - Exact clipping/rectifier diode information was not established.
 

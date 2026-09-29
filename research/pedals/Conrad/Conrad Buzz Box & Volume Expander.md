@@ -28,7 +28,6 @@ The catalog family is associated with Japanese-made OEM effects marketed under s
 
 ## Transistor
 - **Exact transistor/device:** Not publicly documented in the checked sources.
-
 ## Diode
 - **Exact clipping diode/device:** Not publicly documented.
 

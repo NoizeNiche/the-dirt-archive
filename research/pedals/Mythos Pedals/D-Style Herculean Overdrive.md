@@ -19,7 +19,6 @@ The Herculean is a versatile overdrive designed around several of Zach's favorit
 
 ## Transistor
 - Exact production semiconductor complement was not established.
-
 ## Diode
 - Exact clipping/rectifier diode information was not established.
 

@@ -36,7 +36,6 @@ No meaningful functional production revision has been firmly documented. The old
 ## Transistor
 - **Type:** Unknown.
 - Analog Alien documents Stab as controlling voltage at the final transistor stage but does not disclose transistor technology or part number.
-
 ## Diode
 - **Type:** Unknown.
 - No Alien Twister-specific diode documentation located.

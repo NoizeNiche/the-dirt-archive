@@ -38,7 +38,6 @@ The Peppermint line's meaningful documented distinction is the Dark Peppermint f
 - **Technology:** high-gain Germanium.
 - Standard and Dark versions use the same nominal transistor model, with Dark Peppermint using a different manufacturer's version of that model.
 - Exact current production part number is not specified on the public product page. [1]
-
 ## Diode
 - **Type:** Unknown.
 - No Peppermint-specific diode type or part number was established in the builder material reviewed.

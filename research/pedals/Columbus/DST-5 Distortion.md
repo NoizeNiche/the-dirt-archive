@@ -31,7 +31,6 @@ The DST-5 family uses a compact molded-plastic enclosure with a large treadle-st
 ## Transistor
 - **Exact Columbus transistor/device:** Not documented in the checked Columbus-specific source.
 - Shared-family transistor data was not generalized to the Columbus unit without specimen evidence.
-
 ## Diode
 - **Exact clipping diode/device:** Not publicly documented for the Columbus unit.
 

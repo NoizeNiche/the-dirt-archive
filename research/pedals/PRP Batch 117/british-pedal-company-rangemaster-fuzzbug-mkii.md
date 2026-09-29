@@ -22,7 +22,6 @@ The MkII identity is kept separate from the Mk1.5 identity elsewhere in the cata
 
 ## Transistor
 Exact production device not established.
-
 ## Diode
 Exact clipping device not established.
 

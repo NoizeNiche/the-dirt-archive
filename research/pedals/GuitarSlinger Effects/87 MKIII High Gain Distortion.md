@@ -16,7 +16,6 @@ GuitarSlinger Effects high-gain distortion pedal documented by the manufacturer 
 
 ## Transistor
 - **Exact production transistor/device:** Unknown.
-
 ## Diode
 - **Exact clipping/rectifier diode:** Unknown.
 

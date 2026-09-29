@@ -32,7 +32,6 @@ Speciale DD 1959 adds an extra gain stage on Channel 2, a clean channel in Rec O
 
 ## Transistor
 No discrete transistor stage is documented as the primary gain element. The pedal uses a **12AU7 tube** with professional IC processing stages. [1]
-
 ## Diode
 No exact-model diode specification was established.
 

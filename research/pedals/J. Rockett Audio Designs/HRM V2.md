@@ -22,7 +22,6 @@ The HRM V2 is designed to achieve the overdriven sounds of a D s tyle amp with t
 ## Transistor
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Documented terms in the verified sources: led.
 - The archive records only the component information explicitly present in these sources.

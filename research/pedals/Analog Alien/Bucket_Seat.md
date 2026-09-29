@@ -29,7 +29,6 @@ No meaningful functional production revision was verified. The important distinc
 ## Transistor
 - No Bucket Seat-specific transistor technology or part number disclosed.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - No Bucket Seat-specific diode documentation located.
 - **Exact part:** Unknown.

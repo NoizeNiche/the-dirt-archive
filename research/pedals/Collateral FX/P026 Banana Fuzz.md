@@ -31,7 +31,6 @@ The documented factory variation is the choice between germanium and silicon tra
 
 ## Transistor
 Collateral FX specifies **pairs of carefully selected germanium transistors** for the germanium version, with vintage examples including Toshiba, Matsushita, and Texas Instruments, or **silicon transistors** for the thermally stable version. Exact installed part numbers are build-dependent and are not fixed on the product page. [1]
-
 ## Diode
 No exact diode specification was published. [1]
 

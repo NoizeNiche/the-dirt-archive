@@ -21,7 +21,6 @@ At the heart of the Broadcast-AP – as the name may suggest – is the same cir
 ## Transistor
 - Documented terms in the verified sources: Germanium transistor, Silicon transistors.
 - The archive records only the component information explicitly present in these sources.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

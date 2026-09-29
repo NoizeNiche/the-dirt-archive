@@ -33,7 +33,6 @@ Effects Database describes the signal architecture as fully discrete across thre
 - **Architecture:** Fully discrete three-stage gain circuit.
 - **Device family:** FETs are used to simulate tube-amplifier distortion characteristics. [1]
 - Exact part numbers were not documented.
-
 ## Diode
 - **Exact clipping/rectification diode/device:** Not publicly documented.
 

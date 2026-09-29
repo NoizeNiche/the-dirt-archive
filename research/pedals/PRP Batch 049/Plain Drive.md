@@ -18,7 +18,6 @@ A documented hand-painted version added midrange emphasis, changed the clipping 
 
 ## Transistor
 - Exact transistor/device not documented.
-
 ## Diode
 - A version change involving a different clipping diode is documented, but the exact diode types are not identified. [3]
 

@@ -21,7 +21,6 @@
 ## Transistor
 - **Exact production transistor/device:** Unknown.
 - The verified Bufo sources do not establish a specific production transistor part number.
-
 ## Diode
 - **Exact clipping/rectifier diode:** Unknown.
 - The verified Bufo sources do not establish a specific production diode part number.

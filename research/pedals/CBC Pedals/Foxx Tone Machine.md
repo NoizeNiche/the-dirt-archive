@@ -20,7 +20,6 @@ Equipboard documents CBC Pedals as a handwired builder of vintage/out-of-product
 ## Transistor
 - Historical fOXX construction is associated with silicon transistor fuzz.
 - **CBC-specific transistor part number:** Unknown. [2]
-
 ## Diode / clipping
 - **CBC-specific diode type:** Unknown.
 

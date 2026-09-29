@@ -29,7 +29,6 @@ No reliable numbered factory revision sequence was established.
 
 ## Transistor
 No exact-model transistor specification was established.
-
 ## Diode
 No exact-model diode specification was established.
 

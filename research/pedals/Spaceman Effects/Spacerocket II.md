@@ -29,7 +29,6 @@ The Spacerocket II is Spaceman Effects' updated version of the original Spaceroc
 ## Transistor
 - The checked official material identifies the circuit as discrete and all-analog but does not publish a complete transistor bill of materials.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact clipping/rectifier diode information was not established in the checked sources.
 - **Exact part:** Unknown.

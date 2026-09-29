@@ -29,7 +29,6 @@ No formal numbered factory revision sequence was established.
 
 ## Transistor
 The gain stages are documented around a **JRC4580** op-amp. [1]
-
 ## Diode
 The exact model-specific source names **1S188** and **MA856** clipping diodes. [1]
 

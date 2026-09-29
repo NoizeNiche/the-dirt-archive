@@ -22,7 +22,6 @@ What I do know from the brief description that’s repeated across the internet 
 ## Transistor
 - Documented terms in the verified sources: 2N3904.
 - The archive records only the component information explicitly present in these sources.
-
 ## Diode
 - Documented terms in the verified sources: 1N4148.
 - The archive records only the component information explicitly present in these sources.

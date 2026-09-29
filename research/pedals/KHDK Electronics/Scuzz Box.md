@@ -21,7 +21,6 @@ In its acid yellow and purple enclosure the Scuzz Box is inspired by the best fu
 ## Transistor
 - Documented terms in the verified sources: germanium fuzz.
 - The archive records only the component information explicitly present in these sources.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

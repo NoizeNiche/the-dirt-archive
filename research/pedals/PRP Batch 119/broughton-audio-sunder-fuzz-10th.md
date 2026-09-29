@@ -20,7 +20,6 @@ The 10th-anniversary designation is retained as part of the model identity.
 
 ## Transistor
 Exact device not documented.
-
 ## Diode
 Exact clipping device not documented.
 

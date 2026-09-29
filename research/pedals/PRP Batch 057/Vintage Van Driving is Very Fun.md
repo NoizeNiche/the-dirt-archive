@@ -21,7 +21,6 @@ V2/current production retains the core controls and OD/BOOST function while movi
 
 ## Transistor
 - Exact transistor/device part numbers are not publicly documented.
-
 ## Diode
 - Exact clipping diode/device is not publicly documented.
 

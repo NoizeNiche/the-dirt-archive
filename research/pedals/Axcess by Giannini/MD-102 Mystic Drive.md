@@ -29,7 +29,6 @@ Giannini's catalog/manual documentation specifies:
 
 ## Transistor
 - Exact active-device part number is not publicly documented.
-
 ## Diode
 - Multiple-stage clipping is described, but exact clipping components are unknown.
 

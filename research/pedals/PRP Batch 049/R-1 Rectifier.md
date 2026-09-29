@@ -17,7 +17,6 @@ A Legend Amp series high-gain preamp/drive pedal based on Mesa/Boogie-style Rect
 
 ## Transistor
 - Exact device part numbers not documented.
-
 ## Diode
 - Exact clipping diode not documented.
 

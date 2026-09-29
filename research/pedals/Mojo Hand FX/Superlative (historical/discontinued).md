@@ -23,7 +23,6 @@ The exact-model source material establishes the core gain and tone-shaping funct
 
 ## Transistor
 - **Exact production transistor/device:** Unknown.
-
 ## Diode
 - **Exact production clipping diode:** Unknown.
 

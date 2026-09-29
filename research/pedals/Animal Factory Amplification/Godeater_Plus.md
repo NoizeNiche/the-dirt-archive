@@ -18,7 +18,6 @@ Godeater+ is a programmable, multi-path distortion pedal with separate clean and
 
 ## Transistor
 - Exact transistor type not established.
-
 ## Diode
 - Exact diode type not established.
 

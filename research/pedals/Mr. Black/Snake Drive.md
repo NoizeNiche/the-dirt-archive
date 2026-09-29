@@ -25,7 +25,6 @@ Effects Database identifies the Snake Drive as an original Jack Deville design f
 
 ## Transistor
 - **Exact production transistor/device:** Unknown.
-
 ## Diode
 - **Exact production clipping diode:** Unknown.
 

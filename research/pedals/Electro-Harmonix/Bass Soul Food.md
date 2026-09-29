@@ -26,7 +26,6 @@ The Bass Soul Food is EHX's bass-oriented version of the Soul Food overdrive. EH
 ## Transistor
 - Exact production semiconductor details were not established in the checked sources.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact clipping-diode part was not established.
 - **Exact part:** Unknown.

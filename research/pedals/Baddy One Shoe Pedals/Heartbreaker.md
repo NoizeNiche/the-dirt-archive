@@ -23,7 +23,6 @@ The surviving documentation describes the pedal as a low-gain overdrive rather t
 ## Transistor
 - Solid-state overdrive.
 - Exact transistor part number is not publicly documented.
-
 ## Diode / clipping
 - Exact clipping components are not publicly documented.
 

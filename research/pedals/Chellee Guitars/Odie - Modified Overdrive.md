@@ -24,8 +24,7 @@ Documented features:
 Chellee renamed the original Odie Overdrive to **Odie Modified Overdrive** in the Version 2 product line to distinguish it from the Odie Classic. Version 2 adds relay soft-switch bypass and a dimmer/diffused LED indicator. [1][3]
 
 ## Transistor
-No discrete transistor stage is documented; the gain section is based on the Tube Screamer op-amp architecture. Exact op-amp part number for this V2 listing was not established.
-
+No discrete transistor stage is documented; the gain section is based on the op-amp architecture. Exact op-amp part number for this V2 listing was not established.
 ## Diode
 The pedal uses asymmetrical diode clipping in one texture position and asymmetrical MOSFET clipping in another. Exact diode part numbers were not established. [1][2]
 

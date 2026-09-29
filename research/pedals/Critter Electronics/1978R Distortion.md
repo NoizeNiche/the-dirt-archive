@@ -29,7 +29,6 @@ No reliable numbered hardware revision sequence was established in the accessibl
 ## Transistor
 - **Technology:** Op-amp distortion architecture associated with the Rat family.
 - **Exact transistor/device:** Not publicly established for the Critter build.
-
 ## Diode
 - **Type:** Two selectable clipping approaches are documented: standard clipping and LED clipping. [1][2]
 - **Exact part:** Standard-mode device not publicly established; LED mode is described by Critter as LED clipping.

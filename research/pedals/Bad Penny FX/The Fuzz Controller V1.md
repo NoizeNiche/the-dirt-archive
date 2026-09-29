@@ -21,7 +21,6 @@ The 2019 Fuzz Controller is the first documented Bad Penny FX original pedal. It
 ## Transistor
 - **Technology:** High-gain silicon fuzz.
 - Exact transistor part number is not published in the reviewed listing.
-
 ## Diode / clipping
 - **1N4148** or **red LED**, selected by the diode control.
 - The listing describes the 1N4148 path as harder clipping and the red-LED path as softer/more overdrive-like behavior. [1]

@@ -27,7 +27,6 @@ No formal numbered factory revision sequence was established.
 
 ## Transistor
 No exact-model transistor part number was established in the checked manufacturer documentation.
-
 ## Diode
 No exact-model diode specification was established.
 

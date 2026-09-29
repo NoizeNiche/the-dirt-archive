@@ -22,7 +22,6 @@ BELMEZ is described as a heavy, experimental fuzz developed over an extended des
 
 ## Transistor
 - Exact transistor/device type is **not publicly documented** in the reviewed material.
-
 ## Diode / clipping
 - Exact clipping device or diode part number is **not publicly documented**.
 

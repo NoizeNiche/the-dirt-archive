@@ -34,9 +34,7 @@ No verified numbered factory revision history was established. Surviving example
 
 ## Transistor
 A Reverb listing for a specific original example documents a **matched quartet of BC109 transistors**. [3]
-
 That evidence is unit-specific. The archive therefore does not treat BC109 as a universal transistor specification for every CBS-Arbiter Fuzz King without broader factory documentation.
-
 ## Diode
 The exact factory diode type is **not securely documented** in the checked sources.
 

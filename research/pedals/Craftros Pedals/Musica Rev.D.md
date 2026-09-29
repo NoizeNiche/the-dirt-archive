@@ -31,7 +31,6 @@ Compared with the earlier mid-emphasized musica, Rev.D shifts the tonal center d
 
 ## Transistor
 - Exact transistor type or part number: **not established**.
-
 ## Diode
 - Exact diode type or part number: **not established**.
 

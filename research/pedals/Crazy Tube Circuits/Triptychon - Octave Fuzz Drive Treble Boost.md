@@ -30,7 +30,6 @@ No separate circuit revision established for the expanded label. B-stock/finish 
 ## Transistor
 - Metal-can silicon transistors are documented for the fuzz and boost sections.
 - Exact part numbers: **not established**.
-
 ## Diode
 - Exact diode type or part number: **not established**.
 

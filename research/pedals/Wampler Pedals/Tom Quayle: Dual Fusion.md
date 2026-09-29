@@ -21,7 +21,6 @@ The Dual Fusion pedal from Wampler Pedals is, we think, the first overdrive peda
 ## Transistor
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

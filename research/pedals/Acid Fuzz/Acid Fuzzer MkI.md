@@ -30,7 +30,6 @@ The documented differences are mainly enclosure format and selected germanium tr
 ## Transistor
 - **Type:** Germanium.
 - Documented parts include Mullard OC75, Texas Instruments 2G381-family devices, and AC128-family devices on Mini builds. [1][2]
-
 ## Diode
 - Separate clipping diode: **Not publicly documented.**
 

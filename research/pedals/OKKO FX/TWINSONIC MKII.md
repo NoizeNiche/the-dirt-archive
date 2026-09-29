@@ -35,7 +35,6 @@ Additional features:
 ## Transistor
 - The Blue side is documented as a discrete overdrive, but the exact production transistor complement is not published.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact clipping/rectifier diode information was not established in the checked sources.
 - **Exact part:** Unknown.

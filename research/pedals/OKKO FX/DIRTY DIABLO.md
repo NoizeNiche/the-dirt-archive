@@ -19,7 +19,6 @@ The Dirty Diablo is the higher-grit counterpart to the Diablo Dual, with more lo
 
 ## Transistor
 - Exact production semiconductor details were not established.
-
 ## Diode
 - Exact clipping/rectifier diode information was not established.
 

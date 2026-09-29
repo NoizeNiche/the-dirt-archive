@@ -21,7 +21,6 @@ Keyboard Integration: Why This Pedal Belongs on Your Stage Piano Rig While marke
 ## Transistor
 - Documented terms in the verified sources: AC125, AC125s.
 - The archive records only the component information explicitly present in these sources.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

@@ -32,7 +32,6 @@ The original units were produced in England by Sola Sound/Colorsound for third-p
 ## Transistor
 - **Typical documented family:** Silicon **BC184C** transistors are associated with common examples of this circuit lineage. [1]
 - Exact transistor selection can vary by production specimen and should not be generalized to every unit.
-
 ## Diode
 - **Exact clipping diode/device:** Not reliably documented in the checked sources.
 

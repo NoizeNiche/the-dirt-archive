@@ -33,7 +33,6 @@ The OC45 represents the earlier production era before the documented summer 2019
 ## Transistor
 - **Valvo Black Glass OC45**, three selected NOS germanium transistors.
 - Exact matching values are not established.
-
 ## Diode
 - Exact diode type or part number: **not established**.
 

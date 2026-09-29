@@ -29,7 +29,6 @@ The verified sources do not establish a complete component-level schematic or pr
 
 ## Transistor
 - **Exact production transistor/device:** Unknown.
-
 ## Diode
 - **Exact production clipping diode:** Unknown.
 

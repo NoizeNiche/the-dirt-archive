@@ -20,7 +20,6 @@ Acid Pig is a boutique LM308-based Rat-style distortion. Premier Guitar document
 ## Transistor
 - Exact transistor/device: **Unknown.**
 - LM308 is an op-amp IC, not a transistor.
-
 ## Diode
 - Silicon, silicon+LED, or diode-bypass clipping.
 - Exact silicon diode part: **Unknown.** [1]

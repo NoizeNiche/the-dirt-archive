@@ -31,7 +31,6 @@ No numbered factory revision was verified in the checked sources.
 ## Transistor
 - **Technology:** Silicon.
 - **Documented devices:** Three silicon metal-can transistors, including BC109.
-
 ## Diode
 - **Documented clipping devices:** Three clipping diodes.
 - **Exact diode part numbers:** Not publicly documented in the checked sources.

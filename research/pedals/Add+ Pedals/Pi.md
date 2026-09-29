@@ -27,7 +27,6 @@ No reliable numbered circuit revision was established in the available documenta
 
 ## Transistor
 - **Exact production transistor/device:** Not publicly documented.
-
 ## Diode
 - **Exact production clipping diode/device:** Not publicly documented.
 

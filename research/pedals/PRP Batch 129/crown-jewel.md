@@ -27,7 +27,6 @@ The interchangeable boost modules are functional options rather than evidence of
 
 ## Transistor
 The platform includes JFET and MOSFET boost configurations, but no single transistor set applies to every Crown Jewel build. [1]
-
 ## Diode
 The drive channel uses Germanium, Silicon and LED clipping options. BYOC also documents a combined germanium-diode/MOSFET clipping path in one implementation. [1]
 

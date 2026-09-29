@@ -30,7 +30,6 @@ No complete circuit revision history was established. The checked product page d
 
 ## Transistor
 - Exact transistor part numbers were not established from the checked sources.
-
 ## Diode
 - Cosmic Terror documents asymmetric gain clipping, but the exact clipping-device part numbers were not established.
 

@@ -20,7 +20,6 @@ The DS-1X is not a Waza Craft version of the DS-1. It is a separate MDP-based de
 
 ## Transistor
 Individual production transistor part numbers are not publicly documented by BOSS for the DS-1X.
-
 ## Diode
 Individual production diode part numbers are not publicly documented by BOSS for the DS-1X.
 

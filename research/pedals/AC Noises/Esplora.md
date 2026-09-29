@@ -20,7 +20,6 @@ Esplora is a silicon-transistor fuzz with Level, Tone and Fuzz controls. One swi
 ## Transistor
 - Type: **Silicon transistors.**
 - Exact part: **Unknown.** [2]
-
 ## Diode
 - Exact diode/clipping device: **Unknown.**
 

@@ -27,7 +27,6 @@ The AH Booster is Allen Hinds' signature Xotic overdrive, based on the legacy AC
 ## Transistor
 - Exact production semiconductor details were not established in the checked sources.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact clipping-device part was not established in the checked sources.
 

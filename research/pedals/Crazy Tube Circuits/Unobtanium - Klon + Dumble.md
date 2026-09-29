@@ -53,7 +53,6 @@ The standard model's core architecture is the Klon-inspired Overdrive section pl
 ## Transistor
 - Exact transistor part numbers: **not established** from the checked standard-model sources.
 - The standard K-side's clipping is documented around germanium diodes rather than an identified germanium transistor clipping stage.
-
 ## Diode
 - **Germanium diodes:** explicitly documented in the standard K-side stock clipping.
 - Exact diode part number: **not established**.

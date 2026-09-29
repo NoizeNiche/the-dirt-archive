@@ -13,7 +13,6 @@ N-Fuzz is based on the fuzz section of Black Cat OD-Fuzz and was modified with J
 
 ## Transistor
 - **Documented:** N-channel NPN devices; Q1 Toshiba 2SC1815, Q2 Panasonic 2SC1384
-
 ## Diode
 - **Not reliably documented in the reviewed sources**
 

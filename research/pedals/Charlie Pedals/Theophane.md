@@ -18,7 +18,6 @@
 ## Transistor
 - **4 × NOS Motorola 2N5088** in the documented V2 example. [1]
 - This is exact-model evidence for the listed build, not an assertion that every Theophane specimen used identical sourcing.
-
 ## Diode / clipping
 - NOS diodes are documented, but exact diode part numbers are not published. [1]
 

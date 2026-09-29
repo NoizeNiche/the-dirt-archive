@@ -19,7 +19,6 @@ Not established.
 
 ## Transistor
 Exact transistor/device unknown.
-
 ## Diode
 Exact clipping diode/device unknown.
 

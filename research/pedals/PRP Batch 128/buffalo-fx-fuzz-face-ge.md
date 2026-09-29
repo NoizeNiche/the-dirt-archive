@@ -28,7 +28,6 @@ No separate numbered version sequence was established.
 ## Transistor
 - **Technology:** Germanium.
 - Exact transistor part number: Not publicly documented.
-
 ## Diode
 - Exact clipping diode/device: Not publicly documented.
 

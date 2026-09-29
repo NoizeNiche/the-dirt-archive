@@ -40,7 +40,6 @@ This is a genuine manufacturer-designated update, but the builder specifically s
 ## Transistor
 - **Technology:** Unknown.
 - No exact transistor material or part number is published in the reviewed manufacturer product documentation.
-
 ## Diode / clipping
 - **Technology:** Unknown.
 - No exact clipping diode material or part number is published in the reviewed manufacturer product documentation.

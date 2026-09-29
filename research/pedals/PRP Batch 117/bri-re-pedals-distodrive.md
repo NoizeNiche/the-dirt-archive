@@ -24,7 +24,6 @@ No reliable revision sequence was established.
 
 ## Transistor
 Exact active devices not documented.
-
 ## Diode
 Exact clipping devices not documented.
 

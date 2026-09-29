@@ -19,7 +19,6 @@ Atomic Overdrive is one of the five documented Analog Sound pedal products liste
 
 ## Transistor
 - Exact transistor type not publicly established.
-
 ## Diode
 - Exact diode type not publicly established.
 

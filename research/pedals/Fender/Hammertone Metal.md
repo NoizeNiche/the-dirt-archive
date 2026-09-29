@@ -25,9 +25,8 @@ The Hammertone Metal is a Fender-designed high-gain distortion pedal with active
 - No separate numbered production revision was established in the checked sources.
 
 ## Transistor
-- Exact production transistor/device information was not established in Fender's published product material.
+- Exact production transistor/device information was not established in 's published product material.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Fender's published product material does not establish an exact clipping/rectifier diode part.
 - **Exact part:** Unknown.

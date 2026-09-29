@@ -22,7 +22,6 @@ The DD-1B is designed to retain bass low end while providing a thick, wide-rangi
 
 ## Transistor
 - Exact transistor type or part number: **not established**.
-
 ## Diode
 - Exact diode type or part number: **not established**.
 

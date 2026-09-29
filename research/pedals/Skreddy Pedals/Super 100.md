@@ -21,7 +21,6 @@ Classic stadium rock tones from Led Zeppelin and Jimi Hendrix era The Super 100 
 ## Transistor
 - Documented terms in the verified sources: 2N5457.
 - The archive records only the component information explicitly present in these sources.
-
 ## Diode
 - Documented terms in the verified sources: Led, 1N4148W.
 - The archive records only the component information explicitly present in these sources.

@@ -30,7 +30,6 @@ Effects Database places Cortez entries among early Coron/Bias-related Japanese o
 
 ## Transistor
 - Exact transistor type or part number: not established from the checked sources.
-
 ## Diode
 - Exact diode type: not established from the checked sources.
 

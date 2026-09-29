@@ -18,7 +18,6 @@
 
 ## Transistor
 - **BC183/2L silicon** transistor family is explicitly named in the model and manufacturer documentation. [1]
-
 ## Diode / clipping
 - Exact clipping-device part number is not publicly documented.
 

@@ -21,7 +21,6 @@ The two modes are factory voicing options within one FZ-1W model. BOSS presents 
 
 ## Transistor
 BOSS explicitly states that the FZ-1W uses high-quality silicon transistors. Individual transistor part numbers are not publicly specified.
-
 ## Diode
 BOSS does not publicly specify the individual production diode part numbers.
 

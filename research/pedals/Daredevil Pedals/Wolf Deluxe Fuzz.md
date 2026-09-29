@@ -25,7 +25,6 @@ The Wolf Deluxe is an original Daredevil fuzz designed for a warm, vintage chara
 ## Transistor
 - Exact production transistor/device information was not established in the checked sources.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact clipping/rectifier diode information was not established.
 - **Exact part:** Unknown.

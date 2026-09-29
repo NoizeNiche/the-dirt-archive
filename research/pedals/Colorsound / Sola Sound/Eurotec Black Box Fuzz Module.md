@@ -29,7 +29,6 @@ Sola Sound/Colorsound produced these late-1970s third-party/private-label fuzz u
 ## Transistor
 - **Typical family:** Silicon transistor Jumbo Tone Bender lineage.
 - Exact Eurotec specimen transistor selection was not established in the checked sources. [1][2]
-
 ## Diode
 - **Exact clipping diode/device:** Not publicly documented in the checked sources.
 

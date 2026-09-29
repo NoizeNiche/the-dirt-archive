@@ -24,7 +24,6 @@ Bjorn Juhl's history describes EGDM as a distortion booster built around the fee
 ## Transistor
 - **Historical implementations:** Germanium and Silicon.
 - Exact production device part numbers are not universally documented.
-
 ## Diode / clipping
 - Exact clipping/protection device and part number are not publicly documented.
 

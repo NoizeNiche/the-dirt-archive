@@ -16,7 +16,6 @@ Jackson Audio vintage-fuzz module documented by manufacturer documentation and a
 
 ## Transistor
 - **Exact production transistor/device:** Unknown.
-
 ## Diode
 - **Exact clipping/rectifier diode:** Unknown.
 

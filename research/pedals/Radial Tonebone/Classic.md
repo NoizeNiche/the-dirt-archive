@@ -27,7 +27,6 @@ The Tonebone Classic is a discontinued tube distortion pedal built around a 12AX
 ## Transistor
 - The original Classic is tube-based; a transistor is not the defining gain device.
 - **Exact transistor/device:** Not applicable as the primary gain device.
-
 ## Diode
 - Exact clipping/rectifier diode information was not established in the checked sources.
 - **Exact part:** Unknown.

@@ -32,7 +32,6 @@ The OVD-5 family is associated with compact Japanese OEM pedal construction of t
 
 ## Transistor
 - **Exact Columbus transistor/device:** Not publicly documented in the checked sources.
-
 ## Diode
 - **Exact clipping diode/device:** Not publicly documented in the checked sources.
 

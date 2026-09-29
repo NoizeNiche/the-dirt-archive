@@ -31,7 +31,6 @@ The archive keeps Standard Nero and Dual Gain as documented factory variations u
 ## Transistor
 - **Technology:** Op-amp based.
 - **Exact transistor/device:** Not applicable to the primary gain stage.
-
 ## Diode
 - **Type:** **No diode clipping** in the documented Nero design. [1][2]
 - **Exact part:** Not applicable to the primary clipping method.

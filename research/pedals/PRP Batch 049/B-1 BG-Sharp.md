@@ -18,7 +18,6 @@ A Legend Amp series preamp/drive pedal introduced in 2008 and based on the high-
 ## Transistor
 - Exact device part numbers not documented.
 - Legend Amp documentation identifies the series as transistor/JFET-based amp-style circuitry. [2]
-
 ## Diode
 - Exact clipping diode not documented.
 

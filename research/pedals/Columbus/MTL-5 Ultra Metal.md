@@ -31,7 +31,6 @@ The shared MTL-5 design uses a molded plastic enclosure with a metal baseplate, 
 
 ## Transistor
 - **Exact Columbus transistor/device:** Not publicly documented in the checked sources.
-
 ## Diode
 - **Exact clipping diode/device:** Not publicly documented in the checked sources.
 

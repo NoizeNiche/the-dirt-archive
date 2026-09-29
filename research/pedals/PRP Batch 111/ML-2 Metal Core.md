@@ -19,7 +19,6 @@ The ML-2 Metal Core is a high-gain BOSS distortion pedal built around an especia
 
 ## Transistor
 - BOSS does not publicly specify the individual production transistor part numbers for the ML-2.
-
 ## Diode
 - BOSS does not publicly specify the individual production diode part numbers for the ML-2.
 

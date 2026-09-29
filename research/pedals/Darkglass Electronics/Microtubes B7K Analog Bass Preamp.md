@@ -24,7 +24,6 @@ The Microtubes B7K is a bass preamp built from Darkglass's dynamic Microtubes sa
 
 ## Transistor
 - Exact production semiconductor complement was not established.
-
 ## Diode
 - Exact clipping-device part was not established.
 

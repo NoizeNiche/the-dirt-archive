@@ -13,7 +13,6 @@ Behringer identifies the current product as ZENTARA OVERDRIVE. Public retailer d
 
 ## Transistor
 Exact production transistor/device part numbers: **Unknown.**
-
 ## Diode
 The manufacturer explicitly identifies **germanium clipping diodes**. Exact diode part numbers: **Unknown.**
 

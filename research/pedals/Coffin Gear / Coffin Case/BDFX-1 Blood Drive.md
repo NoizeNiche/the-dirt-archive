@@ -37,7 +37,6 @@ A current used listing identifies a later example as made in China, so country o
 
 ## Transistor
 No exact transistor part numbers were established.
-
 ## Diode
 No exact diode specification was established.
 

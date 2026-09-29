@@ -49,7 +49,6 @@ The original TightRock was a bridge between TightDrive and TightMetal, while the
 ## Transistor
 - **Type:** Unknown.
 - No exact TightRock production transistor type or part number established.
-
 ## Diode
 - **Type:** Unknown.
 - No TightRock-specific factory diode documentation established.

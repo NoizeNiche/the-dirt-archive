@@ -24,7 +24,6 @@ No numbered factory revision verified.
 ## Transistor
 - **Technology:** Vintage transistor fuzz.
 - Exact production device pair: described as NOS vintage transistors, exact part numbers not established. [1]
-
 ## Diode
 Exact clipping diode/device not publicly documented.
 

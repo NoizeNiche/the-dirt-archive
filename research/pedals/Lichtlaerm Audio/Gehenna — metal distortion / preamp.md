@@ -24,7 +24,6 @@ Gehenna is a highly flexible metal distortion designed to cover classic NWOBHM, 
 
 ## Transistor
 - Exact production semiconductor details were not established.
-
 ## Diode
 - Blue LED indicator is documented; exact clipping device was not established.
 

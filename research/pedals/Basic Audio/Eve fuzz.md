@@ -24,7 +24,6 @@ The two gain controls operate at different stages and therefore produce differen
 
 ## Transistor
 - Exact production transistor technology and part numbers are **not publicly documented** in the reviewed manufacturer source.
-
 ## Diode / clipping
 - Exact clipping-device type and part number are **not publicly documented**.
 

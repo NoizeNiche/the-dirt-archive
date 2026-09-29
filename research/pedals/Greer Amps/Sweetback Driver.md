@@ -21,7 +21,6 @@ The Sweetback Driver is a Greer Amps boost/preamp/distortion pedal documented in
 
 ## Transistor
 - Exact production transistor/device information was not established in the reviewed exact-model source.
-
 ## Diode
 - Effects Database records LED in the surviving component references, but the exact production clipping/indicator role is not established well enough to claim a full circuit description.
 

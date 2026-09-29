@@ -30,7 +30,6 @@ No numbered hardware revision was documented in the official material reviewed. 
 ## Transistor
 - **Technology:** Solid-state analog overdrive.
 - **Exact transistor/device:** Not publicly documented in the official product material reviewed.
-
 ## Diode
 - **Type:** The circuit documentation reviewed describes soft and hard clipping but does not identify the production diode types.
 - **Exact diode/device:** Unknown.

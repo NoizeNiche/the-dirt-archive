@@ -27,7 +27,6 @@ Top Fuel is a Big Muff-derived high-gain distortion/fuzz from Skreddy Pedals. Sk
 - Skreddy documents a **MOSFET input stage** and MOSFET clipping devices.
 - A complete production semiconductor bill of materials was not published in the checked source.
 - **Exact device part numbers:** Unknown.
-
 ## Diode
 - Skreddy describes MOSFET clipping devices rather than a conventional diode-only clipping stage.
 - **Exact clipping part numbers:** Unknown.

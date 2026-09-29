@@ -23,7 +23,6 @@ Westwood is a touch sensitive translucent hi-fi overdrive as clean and pure as t
 ## Transistor
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

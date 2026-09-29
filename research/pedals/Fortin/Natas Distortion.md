@@ -22,7 +22,6 @@ The Natas is a high-gain Fortin distortion designed around the aggressive respon
 
 ## Transistor
 - Exact production semiconductor details were not established.
-
 ## Diode
 - Exact clipping/rectifier diode information was not established.
 

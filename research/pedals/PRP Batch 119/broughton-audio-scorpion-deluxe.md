@@ -20,7 +20,6 @@ The Deluxe designation is retained as a distinct catalog identity rather than as
 
 ## Transistor
 Exact device not documented.
-
 ## Diode
 Exact clipping device not documented.
 

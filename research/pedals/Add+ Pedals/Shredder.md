@@ -23,7 +23,6 @@ No reliable factory revision history was established from the accessible sources
 
 ## Transistor
 - **Exact transistor/device:** Not publicly documented.
-
 ## Diode
 - **Exact clipping diode/device:** Not publicly documented.
 

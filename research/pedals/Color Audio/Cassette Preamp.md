@@ -39,7 +39,6 @@ Color Audio states that the pedal uses a modernized part-for-part reproduction o
 ## Transistor
 - **Exact transistor/device:** Not documented as a distinct transistor stage in the checked sources.
 - The published active-device information centers on NJM2068 and M5218 op-amps. [1]
-
 ## Diode
 - **Exact clipping diode/device:** Not publicly documented in the checked sources.
 

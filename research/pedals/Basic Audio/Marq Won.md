@@ -23,7 +23,6 @@ The low-end switch changes both bass content and the resulting stage drive/compr
 ## Transistor
 - **Technology:** Germanium.
 - A documented Reverb example uses socketed germanium transistors, but no exact device number is established as universal for every Marq Won. [3]
-
 ## Diode / clipping
 - Exact clipping-device type and part number are not publicly documented.
 

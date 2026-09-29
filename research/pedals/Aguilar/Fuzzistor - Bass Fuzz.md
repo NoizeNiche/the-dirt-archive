@@ -39,7 +39,6 @@ The documented V2 transition is a chassis redesign rather than a separately esta
 ## Transistor
 - **Technology:** Silicon transistor. [1][2]
 - **Exact transistor/device:** Not publicly documented.
-
 ## Diode
 - **Exact clipping diode/device:** Not publicly documented.
 

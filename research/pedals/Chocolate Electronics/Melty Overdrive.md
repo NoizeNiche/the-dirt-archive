@@ -20,7 +20,6 @@ No reliable numbered revision history was established.
 
 ## Transistor
 The project inventory explicitly identifies **discrete MOSFET/bipolar amplification**. Exact transistor part numbers were not established. [1]
-
 ## Diode
 No exact-model diode specification was established.
 

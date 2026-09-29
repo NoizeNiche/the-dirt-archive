@@ -22,7 +22,6 @@ I build these fuzz pedals in my garden workshop in Northamptonshire UK.
 ## Transistor
 - Documented terms in the verified sources: 2n2222a.
 - The archive records only the component information explicitly present in these sources.
-
 ## Diode
 - Documented terms in the verified sources: LED.
 - The archive records only the component information explicitly present in these sources.

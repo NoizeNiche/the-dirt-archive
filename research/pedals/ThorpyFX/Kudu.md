@@ -23,7 +23,6 @@ The KUDU is a drive-enhancer overdrive designed for use with other gain stages. 
 ## Transistor
 - Exact production transistor/device information was not established in the checked sources.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact clipping/rectifier diode information was not established in the checked sources.
 - **Exact part:** Unknown.

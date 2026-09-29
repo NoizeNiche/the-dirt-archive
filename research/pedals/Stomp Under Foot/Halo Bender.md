@@ -22,7 +22,6 @@ It's a versatile pedal that is like a distortion pedal, but with a fuzz flavor.
 ## Transistor
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

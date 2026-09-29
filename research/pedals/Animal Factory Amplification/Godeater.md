@@ -58,7 +58,6 @@ The core analog identity remained consistent through the 2020 revision, while th
 - **Technology:** Unknown.
 - No exact production transistor family or part number for the original Godeater was established in the reviewed first-party and independent sources.
 - The Eurorack Godeater and later Godeater+ control electronics are explicitly excluded from this classification.
-
 ## Diode / clipping
 - **Technology:** Silicon diode / LED selectable clipping.
 - The original control architecture uses two three-position clipping controls, selecting **symmetrical diode**, **asymmetrical LED**, or bypassed clipping stages. [3]

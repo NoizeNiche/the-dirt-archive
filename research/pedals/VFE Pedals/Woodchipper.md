@@ -21,7 +21,6 @@ Published on January 30, 2013 VFE Pedals octave fuzz (1 octave down) pedal NAMM 
 ## Transistor
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

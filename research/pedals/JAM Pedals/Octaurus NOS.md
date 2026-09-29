@@ -20,7 +20,6 @@ Octaurus NOS is an octave fuzz designed around thick, full-bodied fuzz with stro
 ## Transistor
 - **Silicon transistors** are documented.
 - Exact transistor part numbers were not established.
-
 ## Diode
 - Exact clipping/rectifier diode information was not established.
 

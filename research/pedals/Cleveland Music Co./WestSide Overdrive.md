@@ -32,7 +32,6 @@ Additional hardware:
 
 ## Transistor
 - No exact-model transistor part number was established.
-
 ## Diode
 - **LED clipping** is explicitly documented for the Open position.
 - Exact LED part numbers were not established.

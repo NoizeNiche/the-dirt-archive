@@ -24,7 +24,6 @@ The Golden Pearl is a transparent, lower-gain overdrive designed to push an alre
 
 ## Transistor
 - Exact production semiconductor details were not established.
-
 ## Diode
 - LED indicator is documented; exact clipping-device part was not established.
 

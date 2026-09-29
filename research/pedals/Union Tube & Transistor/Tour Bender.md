@@ -23,7 +23,6 @@ The Tour Bender is a silicon-transistor fuzz designed to combine the character o
 ## Transistor
 - **Silicon transistors** are explicitly documented.
 - Exact transistor part numbers were not established in the checked sources.
-
 ## Diode
 - Exact clipping/rectifier diode information was not established in the checked sources.
 - **Exact part:** Unknown.

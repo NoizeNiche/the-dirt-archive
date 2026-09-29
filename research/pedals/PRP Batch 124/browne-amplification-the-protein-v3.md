@@ -23,7 +23,6 @@ V3 is documented with top-mounted jacks and the ATOM-based green side. Browne la
 
 ## Transistor
 Exact active devices not publicly documented.
-
 ## Diode
 Exact factory clipping devices not publicly documented.
 

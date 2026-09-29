@@ -21,7 +21,6 @@ Lovepedal / Love Pedal's COT 50 / Church of Tone 50 is cataloged as an overdrive
 ## Transistor
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

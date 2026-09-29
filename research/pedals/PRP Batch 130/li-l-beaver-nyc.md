@@ -21,7 +21,6 @@ The NYC designation distinguishes this circuit-family version from the Opamp, Ra
 
 ## Transistor
 Exact active devices not documented in the reviewed source set.
-
 ## Diode
 Exact clipping devices not documented in the reviewed source set.
 

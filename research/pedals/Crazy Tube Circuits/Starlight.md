@@ -26,7 +26,6 @@ No separate named circuit revision was established in the checked evidence.
 ## Transistor
 - **JFET and MOSFET gain stages:** documented.
 - Exact transistor part numbers: **not established**.
-
 ## Diode
 - Exact diode type or part number: **not established**.
 

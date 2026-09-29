@@ -25,7 +25,6 @@ Droog combines the Cult Overdrive with a momentary feedback loop. External pedal
 
 ## Transistor
 - Exact transistor type or part number was not established.
-
 ## Diode
 - Exact diode type was not established.
 

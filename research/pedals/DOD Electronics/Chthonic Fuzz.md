@@ -22,7 +22,6 @@ The Chthonic Fuzz is cataloged as a DOD fuzz pedal. The currently checked archiv
 ## Transistor
 - Older scraped research mentioned 2N5088 and 2N2222, but the available evidence does not establish those as production devices for the Chthonic Fuzz.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - LED indicator is documented in reseller material, but the clipping/rectifier device is not established.
 - **Exact clipping part:** Unknown.

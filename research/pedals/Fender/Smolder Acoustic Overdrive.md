@@ -25,9 +25,8 @@ The Smolder Acoustic Overdrive is an all-analog Fender overdrive designed specif
 - No complete numbered production revision chronology was established in the checked sources.
 
 ## Transistor
-- Fender describes the Smolder as an all-analog circuit but does not publish a complete production semiconductor list.
+- describes the Smolder as an all-analog circuit but does not publish a complete production semiconductor list.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact clipping/rectifier diode information was not established.
 - **Exact part:** Unknown.

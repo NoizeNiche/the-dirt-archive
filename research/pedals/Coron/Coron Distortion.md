@@ -27,7 +27,6 @@ Coron Distortion is a Japanese-made distortion pedal from the late 1970s and ear
 ## Transistor
 - **Technology:** Silicon transistor implementation is documented.
 - **Exact part numbers:** not established from the checked sources.
-
 ## Diode
 - No exact diode type was established from the checked sources.
 

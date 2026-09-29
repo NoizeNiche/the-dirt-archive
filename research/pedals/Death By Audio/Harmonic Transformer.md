@@ -21,7 +21,6 @@ Death By Audio - Harmonic Transformer WE ARE SORRY THIS PEDAL HAS BEEN DISCONTIN
 ## Transistor
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

@@ -27,7 +27,6 @@ No numbered factory revision was verified in the available manufacturer document
 ## Transistor
 - **Exact transistor/device:** Not publicly documented.
 - The manufacturer instead identifies a proprietary **three-stacked-op-amp** signal architecture. [1]
-
 ## Diode
 - **Exact clipping diode/device:** Not publicly documented.
 

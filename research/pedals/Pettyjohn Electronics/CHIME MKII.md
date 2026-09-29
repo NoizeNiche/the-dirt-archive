@@ -24,7 +24,6 @@ The CHIME MKII is a low-to-medium gain overdrive and a major update to Pettyjohn
 ## Transistor
 - Exact production transistor/device information was not established in the checked sources.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - The checked sources do not establish an exact production clipping/rectifier diode part.
 - **Exact part:** Unknown.

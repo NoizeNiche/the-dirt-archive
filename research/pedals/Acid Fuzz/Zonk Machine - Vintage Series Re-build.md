@@ -27,7 +27,6 @@ This is the limited Vintage Series reconstruction rather than the smaller Zoink 
 ## Transistor
 - **Type:** Germanium.
 - **Documented exact trio:** one Texas Instruments 2G374, one Mullard OC75, and one Mullard OC44/CV7003. [1][2]
-
 ## Diode
 - Separate clipping diode: **Not publicly documented.**
 

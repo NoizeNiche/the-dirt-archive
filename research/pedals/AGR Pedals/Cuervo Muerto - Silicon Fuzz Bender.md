@@ -28,7 +28,6 @@ No numbered factory revision was documented in the accessible exact-model source
 - **Device family:** Silicon.
 - AGR's product description states that each unit uses carefully selected silicon transistors.
 - **Exact transistor/device number:** Not publicly documented in the accessible exact-model source. [1]
-
 ## Diode
 - **Exact clipping diode/device:** Not publicly documented in the accessible exact-model source. [1]
 

@@ -23,7 +23,6 @@ Azor AP-303 is a compact three-control fuzz with a traditional, rich and creamy 
 
 ## Transistor
 - Exact transistor/device part numbers are **not publicly documented**.
-
 ## Diode / clipping
 - Exact clipping diode/device part numbers are **not publicly documented**.
 

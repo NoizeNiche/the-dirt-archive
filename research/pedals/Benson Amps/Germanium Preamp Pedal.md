@@ -20,7 +20,6 @@
 ## Transistor
 - **Technology:** Germanium first gain stage.
 - Exact Germanium transistor part number is not publicly documented.
-
 ## Diode / clipping
 - Exact clipping/protection diode type and part number are not publicly documented.
 

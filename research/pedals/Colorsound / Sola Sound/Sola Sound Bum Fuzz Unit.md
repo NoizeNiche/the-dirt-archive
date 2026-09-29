@@ -26,7 +26,6 @@ The unit belongs to the early British Sola Sound effect-product ecosystem associ
 
 ## Transistor
 - **Exact transistor/device:** Not established for the specific Bum Fuzz Unit catalog record from the checked sources.
-
 ## Diode
 - **Exact clipping diode/device:** Not publicly documented.
 

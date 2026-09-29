@@ -28,7 +28,6 @@ No reliable numbered hardware revision history was established.
 
 ## Transistor
 The Arcadiator is an experimental digital/8-bit-oriented design; the checked sources do not establish discrete transistor part numbers.
-
 ## Diode
 No exact-model diode specification was established.
 

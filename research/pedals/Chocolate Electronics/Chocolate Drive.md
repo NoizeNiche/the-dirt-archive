@@ -20,7 +20,6 @@ The project history treats Chocolate Drive as an early catalog model and disting
 
 ## Transistor
 No exact-model transistor part number was established in the checked sources.
-
 ## Diode
 No exact-model diode specification was established.
 

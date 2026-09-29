@@ -22,7 +22,6 @@ Okko FX - MOTÖRBASS The store will not work correctly in the case when cookies 
 ## Transistor
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

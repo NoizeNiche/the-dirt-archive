@@ -18,9 +18,8 @@ The 100% analog Double Drive 3X is a 3-channel, fully programmable version of it
 - No specific factory version changes were established in the verified evidence packet.
 
 ## Transistor
-- Documented terms in the verified sources: AC30.
+- Documented terms in the verified sources: .
 - The archive records only the component information explicitly present in these sources.
-
 ## Diode
 - Documented terms in the verified sources: LED.
 - The archive records only the component information explicitly present in these sources.

@@ -35,7 +35,6 @@ No formal numbered factory revision sequence was established.
 
 ## Transistor
 Unknown from the checked exact-model documentation.
-
 ## Diode
 Unknown from the checked exact-model documentation.
 

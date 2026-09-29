@@ -24,7 +24,6 @@ The accessible source set confirms the Silver Edition as a distinct named catalo
 
 ## Transistor
 - **Exact transistor/device:** Not publicly documented.
-
 ## Diode
 - **Exact clipping diode/device:** Not publicly documented.
 

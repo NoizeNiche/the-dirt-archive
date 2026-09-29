@@ -27,7 +27,6 @@ The manufacturer establishes the HP/LP response behavior and product-level desig
 
 ## Transistor
 - **Exact production transistor/device:** Unknown.
-
 ## Diode
 - **Exact production clipping diode:** Unknown.
 

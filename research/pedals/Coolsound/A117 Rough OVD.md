@@ -30,7 +30,6 @@ The public model page establishes the product identity and effect category but d
 
 ## Transistor
 - **Exact transistor/device:** Not publicly documented in the checked sources.
-
 ## Diode
 - **Exact clipping/rectification diode/device:** Not publicly documented.
 

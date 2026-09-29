@@ -26,7 +26,6 @@ No numbered factory revision or documented circuit change history was establishe
 - **Exact transistor/device:** Not publicly documented.
 - A secondary Japanese retailer describes the circuit as FET-based, but the surviving manufacturer page does not specify the exact device or transistor part number. [3]
 - The archive therefore records the topology as reported, not as a confirmed component-level identification.
-
 ## Diode
 - **Exact clipping diode/device:** Not publicly documented.
 

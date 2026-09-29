@@ -36,7 +36,6 @@ No functional production revision has been verified. The major distinction is th
 ## Transistor
 - **Type:** Unknown.
 - No exact Alien Tone Dragon transistor technology or part number published by Analog Alien.
-
 ## Diode
 - **Type:** Unknown.
 - No exact Alien Tone Dragon diode documentation found.

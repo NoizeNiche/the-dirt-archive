@@ -25,9 +25,8 @@ The Fender Shields Blender is a Kevin Shields signature fuzz inspired by the ori
 - No complete numbered production revision chronology was established for the Shields Blender in the checked sources.
 
 ## Transistor
-- Fender's public product material does not establish a complete production semiconductor bill of materials.
+- 's public product material does not establish a complete production semiconductor bill of materials.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact clipping/rectifier diode information was not established in the checked sources.
 - **Exact part:** Unknown.

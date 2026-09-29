@@ -22,7 +22,6 @@ Effects Database catalogs the El Griton Overdrive as an AboveGroundFX overdrive 
 ## Transistor
 - Exact production transistor/device information was not established.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established.
 - **Exact part:** Unknown.

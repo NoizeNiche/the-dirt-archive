@@ -22,7 +22,6 @@ And the V3 is now this new Secret Machine - which is engineered to sound closer 
 ## Transistor
 - Documented terms in the verified sources: Germanium Fuzz, BC109C, BC183C.
 - The archive records only the component information explicitly present in these sources.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

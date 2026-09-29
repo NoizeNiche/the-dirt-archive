@@ -27,7 +27,6 @@ The defining change is the lower-gain Q2 configuration. [1]
 ## Transistor
 - **Technology:** Germanium.
 - **Device:** NOS Russian GT402, with low gain selected for Q2. [1]
-
 ## Diode
 Exact clipping diode/device not documented.
 

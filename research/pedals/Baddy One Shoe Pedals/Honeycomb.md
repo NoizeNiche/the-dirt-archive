@@ -22,7 +22,6 @@ Honeycomb was voiced around the feel of a small tube amplifier being pushed into
 ## Transistor
 - Solid-state overdrive.
 - Exact transistor part number is unknown.
-
 ## Diode / clipping
 - Exact clipping-device arrangement is unknown.
 

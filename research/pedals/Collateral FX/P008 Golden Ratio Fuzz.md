@@ -26,7 +26,6 @@ No formal numbered production revision history was established.
 
 ## Transistor
 The manufacturer specifies **one transistor** but does not publish its part number. [1]
-
 ## Diode
 The manufacturer specifies **selected diodes** but does not publish their part numbers. [1]
 

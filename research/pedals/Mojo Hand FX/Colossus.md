@@ -26,7 +26,6 @@ The manufacturer identifies the Colossus as a Russian/Civil War Muff-style fuzz.
 
 ## Transistor
 - **Exact production transistor/device:** Unknown.
-
 ## Diode
 - **Exact production clipping diode:** Unknown.
 

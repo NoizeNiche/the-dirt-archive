@@ -24,7 +24,6 @@ The Burgundy BossHorn began with the Jordan Bosstone circuit, which Bjorn Juhl m
 - **Documented technologies:** Germanium and Silicon.
 - A TalkBass inspection of a Silicon Burgundy BossHorn reports **2N3638A**.
 - The 2N3638A identification is scoped to that inspected silicon example, not generalized to all BossHorn production. [3]
-
 ## Diode / clipping
 - Exact clipping/protection device and part number are not publicly documented.
 

@@ -21,7 +21,6 @@ The Monster Fuzz is a souped up Frankensteined Super Fuzz octave style fuzz.
 ## Transistor
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

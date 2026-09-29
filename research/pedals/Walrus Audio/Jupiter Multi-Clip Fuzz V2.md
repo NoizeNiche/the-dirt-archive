@@ -24,7 +24,6 @@ Canvas Nano Finch Power Supply Canvas Midi Cables Lab All Lab Series DFX-1 Percu
 ## Transistor
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

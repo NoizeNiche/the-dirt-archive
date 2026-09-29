@@ -31,7 +31,6 @@ The Multiple Distortion is a digital distortion pedal with six selectable distor
 ## Transistor
 - Principal effect architecture is digital DSP.
 - Supporting semiconductor list is not documented.
-
 ## Diode
 - Exact clipping/rectification device is not publicly documented.
 

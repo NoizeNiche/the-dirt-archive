@@ -17,7 +17,6 @@ This is a limited-edition presentation of Animals Pedal's Fishing Is As Fun As F
 
 ## Transistor
 - Exact transistor type not established.
-
 ## Diode
 - Exact diode type not established.
 

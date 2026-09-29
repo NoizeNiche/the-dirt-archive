@@ -36,7 +36,6 @@ Amptweaker's own release notes state that the JR keeps virtually the same core c
 - **Technology:** selectable Germanium / Silicon output transistor.
 - Exact part number for TightFuzz Jr was not verified.
 - Do not automatically assign the exact Aion TightFuzz transistor population to every JR unit.
-
 ## Diode
 - **Type:** Unknown.
 - No TightFuzz Jr-specific diode documentation located.

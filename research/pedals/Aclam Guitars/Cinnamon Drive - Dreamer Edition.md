@@ -30,7 +30,6 @@ No circuit change was documented on the official Dreamer product page reviewed. 
 ## Transistor
 - **Technology:** Solid-state analog overdrive.
 - **Exact transistor/device:** Not publicly documented in the official product material reviewed.
-
 ## Diode
 - **Type:** The official material describes dual-stage clipping but does not identify the production diode types.
 - **Exact diode/device:** Unknown.

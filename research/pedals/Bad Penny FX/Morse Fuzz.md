@@ -15,7 +15,6 @@ The surviving exact-model product record confirms Morse Fuzz as a Bad Penny FX f
 
 ## Transistor
 - Exact transistor/device type is not publicly documented.
-
 ## Diode / clipping
 - Exact clipping device is not publicly documented.
 

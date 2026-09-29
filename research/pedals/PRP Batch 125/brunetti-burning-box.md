@@ -28,7 +28,6 @@ No reliable numbered revision sequence established.
 ## Transistor
 - **Technology:** FET.
 - Exact factory device part numbers are not publicly documented.
-
 ## Diode
 Exact production clipping devices are not publicly documented.
 

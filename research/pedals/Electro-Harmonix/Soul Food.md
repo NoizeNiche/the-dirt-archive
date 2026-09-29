@@ -28,7 +28,6 @@ The Soul Food is EHX's affordable transparent overdrive and clean boost built ar
 ## Transistor
 - Exact production semiconductor details were not established in the checked sources.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact clipping-diode details were not established.
 - **Exact part:** Unknown.

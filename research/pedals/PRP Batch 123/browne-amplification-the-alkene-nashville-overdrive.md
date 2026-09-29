@@ -22,7 +22,6 @@ The current ALKENE expands the older ATOM/Nashville-drive concept with additiona
 
 ## Transistor
 Exact active devices not publicly documented.
-
 ## Diode
 Browne explicitly documents alternate hard-clipping diodes in More Clip mode, but not the exact part numbers. [1]
 

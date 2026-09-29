@@ -29,7 +29,6 @@ Cool Buzz is a bass fuzz that began as a simple fixed-voicing design and was exp
 ## Transistor
 - Exact production transistor/device information was not established.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact clipping/rectifier diode information was not established.
 - **Exact part:** Unknown.

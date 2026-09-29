@@ -29,7 +29,6 @@ Because the two installed Barber circuits could differ, there is **no single uni
 ## Transistor
 - No single transistor technology applies to every Dual Discrete.
 - Exact devices depend on the two installed Barber circuits and are **not documented universally**.
-
 ## Diode / clipping
 - No single diode inventory applies to every Dual Discrete.
 - Exact clipping devices depend on the installed pair.

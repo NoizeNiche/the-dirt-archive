@@ -20,7 +20,6 @@
 ## Transistor
 - Exact discrete transistor part number is not established.
 - The circuit is op-amp-centered rather than a transistor-only fuzz architecture, but the exact production IC is not securely established for every revision.
-
 ## Diode / clipping
 - **Asymmetrical clipping** is documented.
 - Exact diode part numbers are not established. [1]

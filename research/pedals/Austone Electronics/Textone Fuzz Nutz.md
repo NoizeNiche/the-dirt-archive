@@ -32,7 +32,6 @@ The principal documented design change from Fuzz Nutz is the added gain stage an
 - **Technology:** Silicon.
 - **Exact documented devices in the independent layout reference:** 2SC1815Y.
 - **Confidence note:** The component identification comes from independent circuit-layout research, not an original Austone parts list.
-
 ## Diode
 - **Type:** Exact clipping-diode arrangement is not publicly documented.
 

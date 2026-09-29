@@ -27,7 +27,6 @@ The Super Hornet is a silicon fuzz based on a vintage Big Muff variant that uses
 ## Transistor
 - The defining gain architecture uses integrated circuits rather than the standard four-transistor Muff arrangement.
 - Exact IC part numbers were not established.
-
 ## Diode
 - Exact clipping/rectifier diode information was not established.
 

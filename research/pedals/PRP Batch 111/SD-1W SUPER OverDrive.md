@@ -20,7 +20,6 @@ Compared with the standard SD-1, the SD-1W uses a revised all-analog discrete am
 
 ## Transistor
 - BOSS describes the amplifier as all-discrete analog but does not publicly specify the individual production transistor part numbers.
-
 ## Diode
 - BOSS does not publicly specify the individual production diode part numbers for the SD-1W.
 

@@ -14,7 +14,6 @@ BSQ later redesigned the platform as MS3, adding a three-band active EQ and a sw
 
 ## Transistor
 Exact device not publicly documented.
-
 ## Diode
 Exact clipping device not publicly documented.
 

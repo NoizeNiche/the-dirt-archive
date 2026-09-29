@@ -32,7 +32,6 @@ The checked public sources establish the product identity and overdrive classifi
 ## Transistor
 - **Device evidence:** model-specific video metadata identifies the Steam Machine as a germanium overdrive. [1]
 - Exact transistor part number was not established.
-
 ## Diode
 - **Exact clipping/rectification diode/device:** Not publicly documented.
 

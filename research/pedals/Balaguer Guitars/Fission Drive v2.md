@@ -33,7 +33,6 @@ V2 was re-voiced by Joe Balaguer to improve clarity and attack and added top-mou
 ## Transistor
 - **Technology:** Solid-state preamp/overdrive/distortion.
 - **Exact transistor:** Not publicly documented in the checked official sources.
-
 ## Diode
 - **Exact clipping/protection arrangement:** Not publicly documented in the checked official sources.
 

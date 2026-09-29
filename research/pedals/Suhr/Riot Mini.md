@@ -21,7 +21,6 @@ Riot Mini is a versatile high-gain distortion pedal with the sonic characteristi
 ## Transistor
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

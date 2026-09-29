@@ -27,7 +27,6 @@ The Amp Eleven is an analog low-to-medium gain overdrive with a separate footswi
 
 ## Transistor
 - Exact production semiconductor details were not established.
-
 ## Diode
 - LED indicator is documented; exact clipping-device information was not established.
 

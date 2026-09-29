@@ -19,7 +19,6 @@ Not established.
 
 ## Transistor
 Exact device not documented.
-
 ## Diode
 Exact clipping device not documented.
 

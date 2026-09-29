@@ -24,7 +24,6 @@ The original COT 50, or Church of Tone 50, is a one-knob bias-controlled boost/o
 
 ## Transistor
 - Exact production transistor/device information was not established in the checked sources.
-
 ## Diode
 - The LED indicator is documented; exact clipping device is not established.
 

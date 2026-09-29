@@ -29,7 +29,6 @@ The Balch is the signature fuzz associated with **Bob Balch of Fu Manchu**. Cree
 ## Transistor
 - Silicon transistor technology is documented.
 - Exact production transistor part number: **not established**.
-
 ## Diode
 - Exact clipping/rectifier diode type or part number: **not established**.
 

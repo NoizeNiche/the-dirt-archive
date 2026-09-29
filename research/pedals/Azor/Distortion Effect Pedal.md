@@ -21,7 +21,6 @@ Effects Database's Azor catalog likewise lists AP302, AP319 and AP321 as separat
 ## Transistor
 - Exact transistor/device part number: **Unknown**.
 - No model-specific component evidence was found for the generic retail identity.
-
 ## Diode / clipping
 - Exact clipping-diode arrangement: **Unknown**.
 

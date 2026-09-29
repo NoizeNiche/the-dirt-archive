@@ -30,7 +30,6 @@ The Black Beast is an analog fuzz/distortion pedal for guitar and bass. OKKO des
 - Exact production transistor/device information was not established in the checked sources.
 - The designer explicitly describes the Black Beast as an original circuit rather than a clone of a classic fuzz.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact clipping/rectifier diode information was not established in the checked sources.
 - **Exact part:** Unknown.

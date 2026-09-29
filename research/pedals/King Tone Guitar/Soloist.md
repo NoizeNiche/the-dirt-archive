@@ -22,7 +22,6 @@ Built to last a lifetime, the SOLOIST is more than just an overdrive pedalâ€”itâ
 ## Transistor
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

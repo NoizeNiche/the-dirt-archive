@@ -32,7 +32,6 @@ No numbered Crestwood V1/V2 sequence was verified. The main archive distinction 
 ## Transistor
 - **Technology:** Eight-transistor fuzz circuit. [1]
 - **Exact transistor/device:** Not established for the Crestwood-branded unit.
-
 ## Diode
 - **Type:** **Germanium**, with two germanium diodes reported for the Shin-Ei 8Tr circuit. [1]
 - **Exact diode/device:** Unknown.

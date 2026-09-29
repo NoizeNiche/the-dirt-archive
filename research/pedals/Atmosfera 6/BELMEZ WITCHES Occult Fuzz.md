@@ -20,7 +20,6 @@ BELMEZ WITCHES is described by Atmosfera 6 as one of two crushing circuits deriv
 
 ## Transistor
 - Exact transistor/device part number is not publicly documented.
-
 ## Diode / clipping
 - Exact clipping device or diode part number is not publicly documented.
 

@@ -25,7 +25,6 @@ The published design centers the EQ around low-tuned instruments, with the avail
 
 ## Transistor
 - Exact active-device part numbers are not publicly documented in the reviewed material.
-
 ## Diode / clipping
 - Exact diode part numbers are not publicly documented.
 - The octave-fuzz architecture is documented, but the precise semiconductor recipe is not.

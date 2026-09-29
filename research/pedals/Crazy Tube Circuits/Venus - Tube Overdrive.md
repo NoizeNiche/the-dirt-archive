@@ -36,7 +36,6 @@ No complete historical revision matrix was established for Venus.
 ## Transistor
 - Signal path is tube-centered.
 - Exact transistor component data: **not established**.
-
 ## Diode
 - Exact diode type or part number: **not established**.
 

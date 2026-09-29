@@ -12,7 +12,6 @@ Dark Distortion is a high-gain distortion pedal from BigNoise Amplification aime
 
 ## Transistor
 - **Not reliably documented in the reviewed sources**
-
 ## Diode
 - **Not reliably documented in the reviewed sources**
 

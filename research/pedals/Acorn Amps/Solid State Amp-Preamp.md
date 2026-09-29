@@ -30,7 +30,6 @@ No separate named circuit revision was documented. A later Solid State Preamplif
 ## Transistor
 - **Exact transistor/device:** Not publicly documented.
 - The power section uses a TDA-series class-AB power-amplifier device, matching the architecture Acorn described from the original amp. [1][2]
-
 ## Diode
 - **Exact production clipping diode/device:** Not publicly documented.
 

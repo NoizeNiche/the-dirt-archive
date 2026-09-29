@@ -22,7 +22,6 @@ Browse All Stomp Under Foot Effect Pedals Browse All Fuzz Pedals Need More Info?
 ## Transistor
 - Documented terms in the verified sources: silicon transistors, Germanium Fuzz.
 - The archive records only the component information explicitly present in these sources.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

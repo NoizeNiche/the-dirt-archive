@@ -28,7 +28,6 @@ The DOD Overdrive Preamp 250 is the classic two-control DOD overdrive/preamp des
 - The core 250 family is op-amp based rather than a single-transistor fuzz topology.
 - Exact production semiconductor complements vary by version.
 - **Exact transistor/device:** Not established for this family record.
-
 ## Diode
 - Original and later 250-family circuits use different documented clipping arrangements by version.
 - **Exact clipping part for this unversioned family record:** Unknown.

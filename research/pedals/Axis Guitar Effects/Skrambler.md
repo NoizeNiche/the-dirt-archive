@@ -24,7 +24,6 @@
 
 ## Transistor
 - Exact transistor part numbers are not publicly documented.
-
 ## Sound
 The Skrambler reproduces the aggressive octave-fuzz character and unusual gating associated with the Ampeg Scrambler. Effects Database recommends neck-pickup use with reduced guitar tone for the classic response. [1]
 

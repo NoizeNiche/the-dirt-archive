@@ -24,7 +24,6 @@ Barber described the unLimiTeD as a higher-gain version of the LTD SR's relative
 
 ## Transistor
 - Exact transistor/device part numbers are **not publicly documented**.
-
 ## Diode / clipping
 - Exact clipping diode part numbers are **not publicly documented**.
 

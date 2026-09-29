@@ -20,7 +20,6 @@ Accel's Vintage Scream'in Overdrive is an analog overdrive voiced for natural, t
 
 ## Transistor
 - Exact transistor/device: **Unknown.**
-
 ## Diode
 - Exact clipping device: **Unknown.**
 

@@ -32,7 +32,6 @@ The archive treats these as genuine production generations but does not invent V
 
 ## Transistor
 - Exact production transistor technology and part number are **not publicly documented**.
-
 ## Diode / clipping
 - Exact clipping diode/device technology and part number are **not publicly documented**.
 

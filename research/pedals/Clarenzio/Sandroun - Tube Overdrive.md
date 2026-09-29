@@ -22,7 +22,6 @@ No reliable numbered revision history was established.
 
 ## Transistor
 The model is classified as a tube overdrive, but an exact tube type was not established in the checked source.
-
 ## Diode
 Unknown from the checked exact-model documentation.
 

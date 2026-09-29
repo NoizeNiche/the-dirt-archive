@@ -30,7 +30,6 @@ No separate named production revision was documented in the official material re
 ## Transistor
 - **Exact transistor/device:** Not publicly documented.
 - Acorn identifies the active distortion circuits as single-op-amp designs. [1]
-
 ## Diode
 - **Function:** Each distortion side has a clipping-diode mode toggle.
 - **Exact diode type/part:** Not publicly documented. [1]

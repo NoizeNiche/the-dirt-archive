@@ -18,7 +18,6 @@
 ## Transistor
 - The technical discussion documents experiments with different transistor choices but does not establish a single factory production part for the archived model.
 - **Exact production transistor/device:** Unknown.
-
 ## Diode
 - The technical discussion reports experiments with germanium and other diodes, but this does not establish a factory production part for the commercial pedal.
 - **Exact clipping/rectifier diode:** Unknown.

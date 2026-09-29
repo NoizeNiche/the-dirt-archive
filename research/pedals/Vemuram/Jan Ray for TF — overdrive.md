@@ -32,7 +32,6 @@ The verified sources establish the model as a Jan Ray-derived overdrive but do n
 
 ## Transistor
 - **Exact production transistor/device:** Unknown.
-
 ## Diode
 - **Exact production clipping diode:** Unknown.
 

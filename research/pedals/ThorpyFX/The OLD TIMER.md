@@ -21,7 +21,6 @@ The OLD TIMER is a 3 in one pedal with super flexible IO backboard and expressio
 ## Transistor
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

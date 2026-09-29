@@ -16,7 +16,6 @@ I Was A Wolf In The Forest Distortion is a British-stack-style distortion voiced
 
 ## Transistor
 - Exact transistor type not established.
-
 ## Diode
 - Exact diode type not established.
 

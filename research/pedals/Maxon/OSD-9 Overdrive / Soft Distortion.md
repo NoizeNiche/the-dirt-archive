@@ -23,7 +23,6 @@ Maxon describes the OSD-9 as a reissue of its first overdrive, the OD880, origin
 ## Transistor
 - **Documented device:** 2SK246 JFET input buffer. [1]
 - **Exact production transistor complement:** Not fully established beyond the documented 2SK246 buffer.
-
 ## Op amps and diodes
 - **Input buffer:** 2SK246 JFET. [1]
 - **Gain stage:** UA741CP op amp. [1]

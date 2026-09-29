@@ -27,7 +27,6 @@ The current Burst Eternity is Lovepedal's hand-wired, new-old-stock-component ve
 
 ## Transistor
 - Exact production semiconductor details were not established.
-
 ## Diode
 - Exact clipping-device information was not established.
 

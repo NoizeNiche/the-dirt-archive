@@ -28,7 +28,6 @@ No reliable numbered hardware revision sequence was established in the sources c
 ## Transistor
 - **Technology:** Tube-based design. [1]
 - **Exact transistor/device:** Not applicable to the primary gain element.
-
 ## Diode
 - **Type:** Exact production clipping/rectification details were not publicly established.
 - **Exact part:** Unknown.

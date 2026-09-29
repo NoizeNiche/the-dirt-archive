@@ -23,7 +23,6 @@ Midgard combines a fuzz circuit with an optional buffer and pickup-simulator sec
 ## Transistor
 - **Documented device:** BC108.
 - Exact production complement is not established.
-
 ## Diode
 - Exact clipping-device information was not established.
 

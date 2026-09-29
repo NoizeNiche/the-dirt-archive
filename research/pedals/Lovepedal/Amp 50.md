@@ -23,7 +23,6 @@ The Amp 50 is part of Lovepedal's original Mini Line, introduced as a compact ov
 
 ## Transistor
 - Exact production transistor/device information was not established.
-
 ## Diode
 - Exact clipping/rectifier diode information was not established.
 

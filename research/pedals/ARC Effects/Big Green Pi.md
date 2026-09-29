@@ -27,7 +27,6 @@ The ARC Effects Big Green Pi is a fuzz based on the **Sovtek Tall Font Green Rus
 ## Transistor
 - Exact production transistor/device information was not established.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - ARC documents a diode-lift option but does not establish the exact production clipping diode part.
 - **Exact part:** Unknown.

@@ -26,7 +26,6 @@ La Montagne is designed to recreate the sound of an amplifier pushed beyond comf
 
 ## Transistor
 - Exact transistor/op-amp part numbers are not publicly documented.
-
 ## Diode / clipping
 - Exact clipping-device details are not publicly documented.
 

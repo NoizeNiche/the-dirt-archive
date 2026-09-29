@@ -26,7 +26,6 @@ For the Old School Build, Lovepedal documents:
 
 ## Transistor
 - Exact production transistor/device information was not established.
-
 ## Diode
 - Historical build documentation references **BAT46** terminology, but a complete production clipping network was not established.
 

@@ -19,7 +19,6 @@ This file preserves an older spelling of the same Notadümblë V2 catalog identi
 
 ## Transistor
 - Exact production semiconductor details were not established.
-
 ## Diode
 - Exact clipping/rectifier diode information was not established.
 

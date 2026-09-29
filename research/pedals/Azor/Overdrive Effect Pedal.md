@@ -24,7 +24,6 @@ AP-308 is a compact low-gain overdrive with four controls: DRIVE, HIGH, LOW and 
 
 ## Transistor
 - Exact transistor/device part numbers are **not publicly documented**.
-
 ## Diode / clipping
 - Exact clipping diode/device part numbers are **not publicly documented**.
 

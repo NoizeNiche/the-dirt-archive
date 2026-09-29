@@ -21,7 +21,6 @@ The Crosstown Fuzz is a germanium/silicon hybrid Fuzz F@ce circuit that offers y
 ## Transistor
 - Documented terms in the verified sources: silicon transistors, Germanium Fuzz, Silicon transistor, AC187, BC109, AC187s, Germanium Transistor, BC108.
 - The archive records only the component information explicitly present in these sources.
-
 ## Diode
 - Documented terms in the verified sources: LED.
 - The archive records only the component information explicitly present in these sources.

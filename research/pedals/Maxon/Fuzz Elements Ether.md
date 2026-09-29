@@ -24,7 +24,6 @@ Fuzz Elements Ether is the filter-oriented member of Maxon's Fuzz Elements serie
 
 ## Transistor
 - Exact production semiconductor details were not established.
-
 ## Diode
 - LED indicator is documented; exact clipping device was not established.
 

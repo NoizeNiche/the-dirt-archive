@@ -27,7 +27,6 @@ Compulsive Audio's builder interview states that its pedals were hand-wired, wit
 ## Transistor
 - **Technology:** Silicon fuzz. [2]
 - **Exact transistor part number:** Not publicly documented in the checked sources.
-
 ## Diode
 - **Exact clipping diode/device:** Not publicly documented.
 

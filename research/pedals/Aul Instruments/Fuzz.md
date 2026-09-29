@@ -28,7 +28,6 @@ Effects Database places the Aul fuzzes in the early history of Mike Matthews' pr
 - **Technology:** Silicon.
 - Surviving Aul examples are documented with unmarked metal-can silicon transistors.
 - Exact transistor part numbers are not established.
-
 ## Diode / clipping
 - Exact clipping diode/device is not publicly documented.
 

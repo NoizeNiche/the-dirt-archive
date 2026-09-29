@@ -27,7 +27,6 @@ The Citadel is a preamp-style overdrive inspired by British tube amplifiers and 
 ## Transistor
 - EAE's design is based around JFET gain stages.
 - **Exact JFET part numbers:** Unknown.
-
 ## Diode
 - Exact clipping/rectifier diode information was not established in the checked sources.
 - **Exact part:** Unknown.

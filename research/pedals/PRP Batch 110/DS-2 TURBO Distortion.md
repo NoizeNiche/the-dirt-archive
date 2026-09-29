@@ -22,7 +22,6 @@ The two Turbo modes are factory voicing options within the DS-2 rather than sepa
 
 ## Transistor
 BOSS does not publicly specify the individual production transistor part numbers for the DS-2.
-
 ## Diode
 BOSS does not publicly specify the individual production diode part numbers for the DS-2.
 

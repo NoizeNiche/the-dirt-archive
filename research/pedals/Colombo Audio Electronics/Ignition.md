@@ -30,7 +30,6 @@ Colombo describes Ignition as hand-assembled in Italy using selected components,
 
 ## Transistor
 - **Exact transistor/device:** Not publicly documented in the checked sources.
-
 ## Diode
 - **Exact clipping diode/device:** Not publicly documented in the checked sources.
 

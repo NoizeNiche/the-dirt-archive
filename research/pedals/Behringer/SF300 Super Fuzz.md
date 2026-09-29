@@ -26,7 +26,6 @@
 - The independent SF300 trace documents a multi-transistor discrete circuit, including the identifiable octave pair **T4/T5** and phase splitter **T6**.
 - Exact transistor part numbers are not established as universal from the reviewed sources.
 - Do not import FZ-2 transistor part numbers as though they were guaranteed SF300 production parts.
-
 ## Diode / clipping
 - The independent trace identifies a dedicated octave/clipping diode section and specifically discusses the factory diode pair in comparison with 1N34A, 1N4001 and 1N4148 alternatives.
 - Exact factory diode part number is not treated as universal because the traced sources do not establish one clean manufacturer BOM. [3]

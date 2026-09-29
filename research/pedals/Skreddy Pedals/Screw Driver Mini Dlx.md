@@ -22,7 +22,6 @@ Skreddy Pedals's Screw Driver Mini Dlx is cataloged as a Overdrive pedal.
 ## Transistor
 - Documented terms in the verified sources: germanium transistor, silicon transistor.
 - The archive records only the component information explicitly present in these sources.
-
 ## Diode
 - Documented terms in the verified sources: LED.
 - The archive records only the component information explicitly present in these sources.

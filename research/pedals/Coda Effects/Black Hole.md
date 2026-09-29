@@ -26,7 +26,6 @@ No formal numbered factory hardware revision sequence was established.
 
 ## Transistor
 The gain stages use **JFETs**. Coda's current PCB documentation specifically identifies **J201** devices as an option. [1]
-
 ## Diode
 No exact-model diode specification was established.
 

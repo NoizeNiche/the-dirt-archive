@@ -24,7 +24,6 @@ Excess V2 combines distortion with a selectable modulation section that can oper
 
 ## Transistor
 - Exact production semiconductor complement was not established.
-
 ## Diode
 - Exact clipping/rectifier diode was not established.
 

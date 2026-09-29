@@ -16,7 +16,6 @@ BOD-2 is a separately cataloged Beta Aivin bass overdrive in the same broader BO
 
 ## Transistor
 - Exact production transistor/device part numbers: **Unknown**.
-
 ## Diode / clipping
 - Exact clipping/protection diode type and part number: **Unknown**.
 

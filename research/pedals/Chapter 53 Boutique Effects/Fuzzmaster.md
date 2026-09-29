@@ -15,7 +15,6 @@ The exact builder/model identity is secure, but the surviving public record is s
 
 ## Transistor
 - Exact production device: **Unknown**.
-
 ## Diode / clipping
 - Exact clipping device: **Unknown**.
 

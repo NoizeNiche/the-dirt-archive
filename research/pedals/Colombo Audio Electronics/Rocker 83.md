@@ -34,7 +34,6 @@ Colombo states its pedal production is handmade in its Casorate Primo workshop. 
 
 ## Transistor
 - **Exact transistor/device:** Not publicly documented in the checked sources.
-
 ## Diode
 - **Exact clipping diode/device:** Not publicly documented in the checked sources.
 

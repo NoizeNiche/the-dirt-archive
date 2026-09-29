@@ -19,7 +19,6 @@ Analog King's Fuzz Machine is a germanium fuzz based on the maker's factory circ
 
 ## Transistor
 - Two hand-selected genuine germanium transistors. Exact part numbers are not documented. [1]
-
 ## Diode
 - Exact clipping diode/device is not publicly documented.
 

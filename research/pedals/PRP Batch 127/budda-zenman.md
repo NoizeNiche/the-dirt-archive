@@ -27,7 +27,6 @@ No reliable numbered production revision sequence was established.
 
 ## Transistor
 - Exact active device: Not publicly documented.
-
 ## Diode
 - Exact clipping diode/device: Not publicly documented.
 

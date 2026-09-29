@@ -21,7 +21,6 @@ M-VAVE's official Product Ecosystem is the manufacturer catalog for its effect-p
 ## Transistor
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

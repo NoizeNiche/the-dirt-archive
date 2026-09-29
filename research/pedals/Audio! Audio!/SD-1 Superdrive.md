@@ -37,7 +37,6 @@ No numbered factory revision was verified in the sources checked.
 - **Technology:** The documented buffer section is op-amp based.
 - **Exact documented device:** Burr Brown OPA2134 in the input/output buffer section.
 - No discrete transistor bill of materials was verified.
-
 ## Diode
 - **Documented clipping options:** Red LEDs, MOSFETs and silicon 1N4148.
 

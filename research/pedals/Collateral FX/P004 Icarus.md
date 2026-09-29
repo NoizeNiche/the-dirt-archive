@@ -24,7 +24,6 @@ No formal numbered revision history was established.
 
 ## Transistor
 No exact-model transistor part number was published.
-
 ## Diode
 The manufacturer identifies **germanium diodes** but does not publish a specific part number. [1]
 

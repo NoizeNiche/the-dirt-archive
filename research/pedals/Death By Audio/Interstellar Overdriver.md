@@ -23,7 +23,6 @@ The Interstellar Overdriver is a two-control, discrete overdrive designed to rep
 ## Transistor
 - The checked sources describe a discrete circuit but do not establish an exact production transistor part number.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established.
 - **Exact part:** Unknown.

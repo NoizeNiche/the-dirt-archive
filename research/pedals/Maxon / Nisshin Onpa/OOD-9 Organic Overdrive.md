@@ -21,7 +21,6 @@ The verified manufacturer documentation does not disclose a complete production 
 ## Transistor
 - **Documented device:** 2SK246 JFET input buffer. [1]
 - **Exact full transistor complement:** Not established.
-
 ## Op amps and diodes
 - **Gain-stage op amps:** current-production NJM/JRC 4558 devices. [1]
 - **Exact production clipping diode part:** Unknown.

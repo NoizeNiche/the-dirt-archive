@@ -21,7 +21,6 @@ Organic Sounds's ORGA FACE BC183L / Aged Red is cataloged as a fuzz pedal.
 ## Transistor
 - Documented terms in the verified sources: BC183L.
 - The archive records only the component information explicitly present in these sources.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

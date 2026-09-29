@@ -26,7 +26,6 @@ FuzzBubble-45 was Analog Alien's first pedal and combines two independent dirt c
 ## Transistor
 - Exact production transistor technology or part numbers were not established.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact diode information was not established.
 - **Exact part:** Unknown.

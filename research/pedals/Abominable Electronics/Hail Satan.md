@@ -31,9 +31,8 @@ Abominable has sold limited artwork versions using the same Hail Satan circuit, 
 The core documented feature set is stable across the standard Hail Satan family, while artwork and special-edition enclosure treatments vary. The key circuit feature is the switchable silicon-versus-red-LED clipping. [1][3]
 
 ## Transistor
-- **Technology:** Solid-state Big Muff-derived fuzz/distortion.
+- **Technology:** Solid-state -derived fuzz/distortion.
 - **Exact transistor/device:** Not publicly documented.
-
 ## Diode
 - **Type:** **Silicon diodes and 5 mm red LED diodes**, selectable by footswitch. [1][2]
 - **Exact diode/device:** The factory documents the diode types but not individual part numbers.

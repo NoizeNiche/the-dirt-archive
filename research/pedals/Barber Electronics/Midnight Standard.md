@@ -23,7 +23,6 @@ Barber describes Midnight Standard as an expanded Bluesbreaker-style overdrive. 
 
 ## Transistor
 - Exact transistor/device part numbers are **not publicly documented** in the reviewed sources.
-
 ## Diode / clipping
 - Exact diode part numbers are **not publicly documented**.
 - Compression switch positions alter the clipping response but do not establish a specific diode chemistry.

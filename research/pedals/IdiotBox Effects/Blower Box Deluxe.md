@@ -34,7 +34,6 @@ The Blower Box Deluxe is a bass distortion derived from the original Blower Box.
 ## Transistor
 - Exact production semiconductor details were not established in the checked sources.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact clipping/rectifier diode information was not established in the checked sources.
 - **Exact part:** Unknown.

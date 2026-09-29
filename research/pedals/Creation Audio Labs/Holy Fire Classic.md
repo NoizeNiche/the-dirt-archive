@@ -27,7 +27,6 @@ Holy Fire Classic is the original 48V version of Creation Audio Labs' Holy Fire,
 
 ## Transistor
 - Exact transistor type or part number was not established.
-
 ## Diode
 - Exact diode type or part number was not established.
 

@@ -21,7 +21,6 @@ No distinct production revision or factory option set was established beyond the
 
 ## Transistor
 - Exact transistor type or part number: **not established**.
-
 ## Diode
 - Exact diode type or part number: **not established**.
 

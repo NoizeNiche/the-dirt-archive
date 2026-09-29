@@ -24,7 +24,6 @@ The Lost Ark is a no-frills **PLL glitch/octave fuzz** designed for extreme, spl
 ## Transistor
 - Exact production semiconductor details were not established.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact clipping/rectifier diode information was not established.
 - **Exact part:** Unknown.

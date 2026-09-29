@@ -16,7 +16,6 @@
 
 ## Transistor
 - Exact production transistor/device part number: **Unknown**.
-
 ## Diode / clipping
 - Exact clipping-device type and part number: **Unknown**.
 

@@ -25,7 +25,6 @@ V4 adds the hi-cut and green-side low-cut, heavier-clipping and asymmetrical-cli
 
 ## Transistor
 Exact active devices not publicly documented.
-
 ## Diode
 Browne documents alternate clipping configurations but does not publish exact part numbers. [1]
 

@@ -13,7 +13,6 @@ Behringer documentation identifies the WD300 as a compact pedal from the histori
 
 ## Transistor
 Exact production transistor/device part numbers: **Unknown.**
-
 ## Diode
 Exact clipping/rectifier diode part numbers: **Unknown.**
 

@@ -32,7 +32,6 @@ The exact component-level swell circuit for Black Howler is not publicly documen
 
 ## Transistor
 - **Exact transistor/device:** Not publicly documented.
-
 ## Diode
 - **Exact clipping/rectification diode/device:** Not applicable to the documented swell function / not publicly documented.
 

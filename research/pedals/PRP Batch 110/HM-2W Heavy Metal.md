@@ -22,7 +22,6 @@ The HM-2W is a Waza Craft redesign/reissue rather than a simple cosmetic reissue
 
 ## Transistor
 BOSS publicly documents the HM-2W as an authentic analog implementation but does not specify the individual production transistor part numbers.
-
 ## Diode
 BOSS does not publicly specify the individual production diode part numbers.
 

@@ -21,7 +21,6 @@ The current edition relocates the footswitch toward the front-right, improves ba
 
 ## Transistor
 - Exact transistor/device part numbers are not publicly documented.
-
 ## Diode
 - Exact individual clipping diode part numbers are not publicly documented.
 - Clipping architecture is switchable between symmetrical, bypassed and asymmetric modes. [1]

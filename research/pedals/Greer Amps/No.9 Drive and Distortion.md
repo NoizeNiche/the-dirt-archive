@@ -21,7 +21,6 @@ Greer Amps's No.9 Drive and Distortion is cataloged as a distortion / fuzz / ove
 ## Transistor
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

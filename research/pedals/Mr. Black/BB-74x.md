@@ -23,7 +23,6 @@ The exact-model sources establish the drive/output functions, but do not provide
 
 ## Transistor
 - **Exact production transistor/device:** Unknown.
-
 ## Diode
 - **Exact production clipping diode:** Unknown.
 

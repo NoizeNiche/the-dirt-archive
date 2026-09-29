@@ -28,7 +28,6 @@ Ragnarøk is a tube-powered distortion/preamp designed to put an amplifier-like,
 ## Transistor
 - Primary gain device is vacuum-tube based.
 - Exact supporting semiconductor details were not established.
-
 ## Diode
 - Exact clipping/rectifier diode information was not established.
 

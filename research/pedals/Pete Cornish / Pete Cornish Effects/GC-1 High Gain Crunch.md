@@ -21,7 +21,6 @@ Pete Cornish / Pete Cornish Effects's GC-1 High Gain Crunch is cataloged as a di
 ## Transistor
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

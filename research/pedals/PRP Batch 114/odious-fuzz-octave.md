@@ -26,7 +26,6 @@ No numbered factory revision was verified.
 ## Transistor
 - **Fuzz transistor technology:** Silicon.
 - Exact transistor/device: Not publicly documented.
-
 ## Diode
 - Exact clipping diode/device: Not publicly documented.
 

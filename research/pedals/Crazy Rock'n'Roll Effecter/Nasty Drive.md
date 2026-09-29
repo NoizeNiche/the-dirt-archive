@@ -28,7 +28,6 @@ Nasty Drive is an overdrive designed around a wide gain range and a Hiwatt-style
 
 ## Transistor
 - Exact transistor type or part number: **not established**.
-
 ## Diode
 - Exact diode type or part number: **not established**.
 

@@ -33,7 +33,6 @@ The VOX Bulldog Distortion is a two-channel tube-driven distortion pedal from th
 ## Transistor
 - The Bulldog is a tube-based Cooltron design rather than a pedal for which an exact transistor part number is established in the reviewed sources.
 - **Exact transistor/device:** Not established.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the checked sources.
 - **Exact part:** Unknown.

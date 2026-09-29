@@ -22,8 +22,7 @@ The current Compact adds a smaller pedalboard-oriented format and explicit tone-
 ## Transistor
 - **Type:** Germanium.
 - **Documented parts:** Mullard OC76 matched pair. [1]
-- A historical builder demonstration also states that original-style 1966 Italian examples were tested against a genuine Vox unit using SFT337 and OC76 devices. [4]
-
+- A historical builder demonstration also states that original-style 1966 Italian examples were tested against a genuine unit using SFT337 and OC76 devices. [4]
 ## Diode
 - Separate clipping diode: **Not publicly documented.**
 

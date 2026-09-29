@@ -29,7 +29,6 @@ The Reuss Backslide Overdrive is a boutique overdrive based on the builder's own
 
 ## Transistor
 - Reuss identifies **C2021E** transistors as part of the vintage semiconductor set used in the Backslide.
-
 ## Diode
 - Reuss identifies **1S2473** clipping diodes.
 - The stock arrangement is asymmetrical; the internal switch provides a symmetrical alternative.

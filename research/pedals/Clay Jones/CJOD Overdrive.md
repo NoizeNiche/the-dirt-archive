@@ -24,7 +24,6 @@ Historical builders and DIY reproductions have implemented the CJOD with alterna
 
 ## Transistor
 The cited circuit analysis identifies the **OPA2134** dual op-amp as the principal active gain IC. [1]
-
 ## Diode
 The cited circuit analysis identifies **5mm red LEDs** in the clipping section. [1]
 

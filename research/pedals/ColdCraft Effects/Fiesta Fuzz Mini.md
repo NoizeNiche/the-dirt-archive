@@ -25,7 +25,6 @@ The ColdCraft lineup later included a more feature-rich **Fiesta Fuzz MkII** and
 
 ## Transistor
 The circuit uses **MOSFETs**. Exact transistor part numbers were not established. [1]
-
 ## Diode
 No exact diode specification was established.
 

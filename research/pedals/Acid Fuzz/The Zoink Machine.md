@@ -28,7 +28,6 @@ The core Zoink design stays tied to the Zonk Machine circuit, while the document
 - **Type:** Germanium.
 - **Typical documented sets:** one NOS Texas Instruments TI A02, 2G374 or 2N1379, plus two Mullard OC75 or OC71 devices. [1][2]
 - Acid Fuzz specifically notes that it has used the original Texas Instruments TI A02 type found in original Zonk Machines. [1]
-
 ## Diode
 - Separate clipping diode: **Not publicly documented.**
 

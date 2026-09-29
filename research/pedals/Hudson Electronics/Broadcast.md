@@ -21,7 +21,6 @@ Since this control lies at the front end of the Broadcast’s circuitry, it is i
 ## Transistor
 - Documented terms in the verified sources: Germanium transistor, Silicon transistors.
 - The archive records only the component information explicitly present in these sources.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

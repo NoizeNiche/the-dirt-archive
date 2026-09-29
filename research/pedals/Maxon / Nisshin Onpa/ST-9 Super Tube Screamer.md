@@ -26,7 +26,6 @@ An exact component-level production schematic was not established in the verifie
 
 ## Transistor
 - **Exact production transistor/device:** Unknown.
-
 ## Diode
 - **Exact production clipping diode:** Unknown.
 - The archive records the TS-style circuit family without inferring a production diode part number.

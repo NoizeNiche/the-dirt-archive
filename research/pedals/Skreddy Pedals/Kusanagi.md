@@ -22,7 +22,6 @@ The Kusanagi from Skreddy Effects is a fresh take on a classic design.
 ## Transistor
 - Documented terms in the verified sources: BC109, germanium fuzz.
 - The archive records only the component information explicitly present in these sources.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

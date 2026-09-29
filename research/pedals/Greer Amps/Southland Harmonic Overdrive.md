@@ -28,7 +28,6 @@ The Southland Harmonic Overdrive is a higher-gain sibling to the Lightspeed Orga
 ## Transistor
 - Greer documents a selected chip used to drive the Southland circuit, but the checked source does not establish a complete production semiconductor list.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Greer documents two clipping stages using different diode types.
 - **Exact clipping diode part numbers:** Unknown.

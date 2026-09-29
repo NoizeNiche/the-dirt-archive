@@ -21,7 +21,6 @@
 
 ## Transistor
 - No discrete-transistor architecture is established for the gain stage.
-
 ## Diode / clipping
 - Exact clipping/protection diode type and part number are not publicly documented.
 

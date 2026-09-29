@@ -33,7 +33,6 @@ The pedal uses a very large metal treadle enclosure, two input/output jacks, and
 
 ## Transistor
 - **Exact transistor/device:** Not publicly documented for the specific Supa Wah-Fuzz-Swell specimen in the checked sources.
-
 ## Diode
 - **Exact clipping diode/device:** Not publicly documented in the checked sources.
 

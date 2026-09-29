@@ -34,7 +34,6 @@ The Boost footswitch moves the pedal from its base mid-gain range to higher gain
 ## Transistor
 - **Documented device class:** JFETs used to model the valve gain stages. [1]
 - **Exact production JFET part numbers:** Not established.
-
 ## Diode
 - **Exact clipping diode:** Not established in the verified manufacturer material.
 

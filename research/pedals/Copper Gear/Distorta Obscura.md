@@ -27,7 +27,6 @@ Distorta Obscura is a user-configurable analog fuzz/distortion platform built ar
 ## Transistor
 - **Factory set:** NPN transistors, five selectable pairs.
 - **Exact part numbers:** not specified in the checked source.
-
 ## Diode
 - **Exact diode/clipping device:** not documented in the checked source.
 

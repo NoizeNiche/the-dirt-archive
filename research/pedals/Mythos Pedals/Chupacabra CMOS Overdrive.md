@@ -22,7 +22,6 @@ Simplicity is Key The Chupacabra CMOS Overdrive is made for those that love usin
 ## Transistor
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Documented terms in the verified sources: LED.
 - The archive records only the component information explicitly present in these sources.

@@ -25,7 +25,6 @@ SW-1 is an analog switching-distortion effect from the Cranetortoise/ALBIT range
 
 ## Transistor
 - Exact transistor type or part number: **not established**.
-
 ## Diode
 - Exact diode type or part number: **not established**.
 

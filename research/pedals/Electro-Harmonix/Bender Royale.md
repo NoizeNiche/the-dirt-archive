@@ -26,7 +26,6 @@ The Bender Royale is a three-transistor germanium fuzz inspired by the Tone Bend
 ## Transistor
 - EHX documents **germanium transistors**.
 - Exact transistor part numbers and production matching criteria were not established.
-
 ## Diode
 - EHX's documented clipping options include germanium and LED comparisons, but the complete production clipping implementation is not published.
 - **Exact part:** Unknown.

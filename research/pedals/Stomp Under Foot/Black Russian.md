@@ -23,7 +23,6 @@ Featuring the original BC547 Transistors, and the exact same vintage capacitors 
 ## Transistor
 - Documented terms in the verified sources: BC547.
 - The archive records only the component information explicitly present in these sources.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

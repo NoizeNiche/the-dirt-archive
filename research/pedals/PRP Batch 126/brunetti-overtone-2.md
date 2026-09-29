@@ -25,7 +25,6 @@ Overtone 2 expands the earlier Overtone identity into a documented 2+1-channel a
 ## Transistor
 - **Technology:** All-tube.
 - Transistor devices are not applicable to the documented gain architecture. [1]
-
 ## Diode
 Exact clipping diode devices are not publicly documented.
 

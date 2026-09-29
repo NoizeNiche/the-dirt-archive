@@ -29,7 +29,6 @@ No formal numbered factory revision history was established. The primary documen
 
 ## Transistor
 The manufacturer specifies **JFET transistors** as the active gain technology and describes the circuit as an emulation of Ampeg tube amplifier stages, but does not publish exact JFET part numbers. [1]
-
 ## Diode
 No exact diode part number or clipping-diode topology was published on the manufacturer page. [1]
 

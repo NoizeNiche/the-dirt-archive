@@ -25,7 +25,6 @@ No numbered factory revision was verified for the cataloged Tube Drive.
 
 ## Transistor
 - **Exact transistor/device:** Not publicly documented.
-
 ## Diode
 - **Exact clipping diode/device:** Not publicly documented.
 

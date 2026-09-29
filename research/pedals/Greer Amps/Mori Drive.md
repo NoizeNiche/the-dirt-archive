@@ -29,7 +29,6 @@ The Mori Drive is Greer Amps' take on a familiar mid-hump overdrive family. Gree
 - The JRC4558 is an IC/op-amp rather than a transistor.
 - Exact transistor complement was not established in the checked sources.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Greer documents asymmetrical clipping but does not establish the exact clipping-device part number.
 - **Exact part:** Unknown.

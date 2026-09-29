@@ -25,7 +25,6 @@ Exact SDI-1 front-panel wording is not independently re-verified from a survivin
 
 ## Transistor
 - Exact Century SDI-1 transistor part number is not securely established.
-
 ## Diode / clipping
 - Exact Century SDI-1 diode/device details are not securely established.
 

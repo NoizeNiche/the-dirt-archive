@@ -17,7 +17,6 @@ The **EVO** designation is itself the documented evolution of the original Custo
 
 ## Transistor
 - Exact transistor type or part number: **not established**.
-
 ## Diode
 - Exact diode type or part number: **not established**.
 

@@ -24,7 +24,6 @@ Born from Riot Fest artist Dan Wade's idea and designed by Johnny at Daredevil, 
 ## Transistor
 - Exact production transistor/device information was not established in the reviewed source.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact production diode part/type information was not established beyond Daredevil's description of NOS germanium clipping. [1]
 

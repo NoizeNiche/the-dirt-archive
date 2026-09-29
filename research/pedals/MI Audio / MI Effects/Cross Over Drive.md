@@ -31,7 +31,6 @@ MI Audio describes Gain as moving from boost/enhancement through mid-gain overdr
 ## Transistor
 - **Documented device:** four FET transistors. [1]
 - **Exact production FET part numbers:** Unknown.
-
 ## Diode
 - **Exact clipping/rectifier diode:** Unknown.
 

@@ -19,7 +19,6 @@ AXENTRIX II Clean & Drive is the successor-era BIXONIC distortion platform intro
 
 ## Transistor
 - **Not reliably documented in the reviewed sources**
-
 ## Sound
 AXENTRIX II is designed to span clean boost/preamp behavior, transparent crunch and richer distortion, with its Forbidden mode extending into fuzz. The Nuance control shifts the response from creamy sustain toward sharper, more percussive attack.
 

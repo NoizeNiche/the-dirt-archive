@@ -47,7 +47,6 @@ The original Dirty Boy brand continues to list a separate **AFRO FUZZ** under it
 ## Transistor
 - **Documented arrangement:** one germanium transistor + one silicon transistor.
 - **Exact transistor part numbers:** Not documented in the reviewed sources.
-
 ## Diode
 - **Exact clipping/rectifier diode:** Not documented in the reviewed model-specific sources.
 

@@ -25,7 +25,6 @@ The Ron Fucking Swanson Super Fuzz is IdiotBox Effects' take on the classic Supe
 ## Transistor
 - Exact production semiconductor details were not established.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact clipping/rectifier diode information was not established.
 - **Exact part:** Unknown.

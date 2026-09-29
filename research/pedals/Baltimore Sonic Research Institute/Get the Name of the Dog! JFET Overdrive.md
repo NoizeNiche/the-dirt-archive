@@ -29,7 +29,6 @@ No numbered factory revision was verified in the checked sources.
 ## Transistor
 - **Technology:** Discrete JFET overdrive.
 - **Exact devices:** Exact JFET part numbers were not publicly documented in the checked sources.
-
 ## Diode
 - **Exact clipping/protection arrangement:** Not publicly documented in the checked sources.
 

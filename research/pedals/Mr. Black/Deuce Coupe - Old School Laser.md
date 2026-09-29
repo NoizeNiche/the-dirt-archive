@@ -31,7 +31,6 @@ The underlying Deuce Coupe design is described by Mr. Black as a pure-analog, hi
 
 ## Transistor
 - **Exact production transistor/device:** Unknown.
-
 ## Diode
 - **Exact production clipping diode:** Unknown.
 

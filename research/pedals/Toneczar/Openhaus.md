@@ -21,7 +21,6 @@ Toneczar's Openhaus is cataloged as a Distortion / Fuzz pedal.
 ## Transistor
 - Documented terms in the verified sources: 2N1306, 2N5457, 2n2.
 - The archive records only the component information explicitly present in these sources.
-
 ## Diode
 - Documented terms in the verified sources: 1n2.
 - The archive records only the component information explicitly present in these sources.

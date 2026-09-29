@@ -22,7 +22,6 @@ Ears Come To Die was originally released by Mask Audio Electronics as a limited-
 
 ## Transistor
 - Exact production semiconductor details were not established.
-
 ## Diode
 - Exact clipping/rectifier diode information was not established.
 

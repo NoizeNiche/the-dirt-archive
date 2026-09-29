@@ -23,7 +23,6 @@ No numbered BYOC revision was verified.
 ## Transistor
 - **Technology:** Silicon transistor.
 - **Device:** 2SC1000. [1]
-
 ## Diode
 - Optional clipping modifications include 1N60 germanium diodes or red LEDs. These are documented kit modifications, not the stock component claim. [1]
 

@@ -28,7 +28,6 @@ The Crossover Fuzz is a filter-fuzz design that splits the signal into high- and
 ## Transistor
 - Exact production transistor/device information was not established in the checked sources.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the checked sources.
 - **Exact part:** Unknown.

@@ -25,7 +25,6 @@ The manufacturer page establishes the pedal's operating controls and internal sa
 
 ## Transistor
 - **Exact production transistor/device:** Not established in the manufacturer documentation.
-
 ## Diode
 - **Exact production clipping diode:** Not established in the manufacturer documentation.
 

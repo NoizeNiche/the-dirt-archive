@@ -20,7 +20,6 @@ Deadwoods is documented by Anarchy Audio as a high-intensity square-wave, synth-
 
 ## Transistor
 - Exact transistor type not established.
-
 ## Diode
 - Exact diode type not established.
 

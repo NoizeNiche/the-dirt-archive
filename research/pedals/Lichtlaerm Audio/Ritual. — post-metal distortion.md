@@ -23,7 +23,6 @@
 
 ## Transistor
 - Exact production semiconductor details were not established.
-
 ## Diode
 - The Comp switch adds two clipping diodes to the first gain stage, but exact production diode part numbers were not established.
 

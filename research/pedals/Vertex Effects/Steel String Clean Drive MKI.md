@@ -22,7 +22,6 @@ Videos Vertex Effects Steel String Drive mk 2 Overdrive Pedal Demo Vertex Steel 
 ## Transistor
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

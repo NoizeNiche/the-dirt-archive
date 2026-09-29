@@ -25,7 +25,6 @@ No reliable numbered revision sequence found.
 
 ## Transistor
 Exact device not publicly documented.
-
 ## Diode
 Exact clipping diode/device not publicly documented.
 

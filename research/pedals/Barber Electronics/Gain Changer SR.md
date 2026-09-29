@@ -26,7 +26,6 @@ The pedal combines Barber's own established voicings rather than being a clone o
 
 ## Transistor
 - Exact transistor/device part numbers are **not publicly documented** in the reviewed sources.
-
 ## Diode / clipping
 - Exact clipping diode part numbers are **not publicly documented**.
 

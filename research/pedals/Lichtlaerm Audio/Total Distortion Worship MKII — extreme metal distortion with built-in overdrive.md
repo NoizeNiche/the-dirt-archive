@@ -27,7 +27,6 @@ The Total Distortion Worship MKII is a high-gain extreme-metal distortion with a
 
 ## Transistor
 - Exact production semiconductor details were not established.
-
 ## Diode
 - Exact clipping/rectifier diode information was not established.
 

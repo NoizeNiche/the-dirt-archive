@@ -18,7 +18,6 @@ Model 02 is Bad Pixel's interpretation of the 1960s Dallas Rangemaster family. A
 ## Transistor
 - **Technology:** Germanium.
 - **Documented device:** **GT402I[И]** germanium transistor, around **100 hFE** according to the builder. [1]
-
 ## Diode / clipping
 - This is fundamentally a transistor boost rather than a diode-clipping fuzz.
 - Exact protection diode, if any, is not documented.

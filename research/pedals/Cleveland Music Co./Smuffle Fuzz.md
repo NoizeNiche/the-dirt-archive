@@ -23,7 +23,6 @@ The Smuffle Fuzz combines several vintage Big Muff voicings, particularly Triang
 
 ## Transistor
 - Exact production transistor/device information was not established.
-
 ## Diode
 - **Documented:** LED clipping terminology.
 - Exact production part number is not established.

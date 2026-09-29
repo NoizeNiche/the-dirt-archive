@@ -25,7 +25,6 @@ No reliable numbered revision sequence was found.
 ## Transistor
 - **Technology:** Silicon transistor.
 - Exact transistor/device: Not publicly documented.
-
 ## Diode
 - Exact clipping diode/device: Not publicly documented.
 

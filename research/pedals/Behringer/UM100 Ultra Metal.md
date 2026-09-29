@@ -13,7 +13,6 @@ Historical Behringer product identity. Detailed production dates and revision ch
 
 ## Transistor
 Exact production transistor/device: Unknown.
-
 ## Diode
 Exact clipping diode information: Unknown.
 

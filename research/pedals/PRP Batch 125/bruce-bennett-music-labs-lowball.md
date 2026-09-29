@@ -24,7 +24,6 @@ The builder's 2006 note describes the same pedal as a very small production run 
 
 ## Transistor
 Exact active devices are not publicly documented.
-
 ## Diode
 Exact clipping devices are not publicly documented.
 

@@ -20,7 +20,6 @@ Compared with the standard MT-2, the MT-2W adds Waza Craft refinements, a discre
 
 ## Transistor
 - BOSS describes a discrete analog gain circuit but does not publicly specify the individual production transistor part numbers.
-
 ## Diode
 - BOSS does not publicly specify the individual production diode part numbers for the MT-2W.
 

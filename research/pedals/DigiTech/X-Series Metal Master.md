@@ -23,7 +23,6 @@ The Metal Master is a DigiTech X-Series high-gain distortion pedal designed for 
 ## Transistor
 - The principal effect architecture is digital.
 - Exact supporting semiconductor devices are not established.
-
 ## Diode
 - Exact clipping/rectifier diode information was not established.
 

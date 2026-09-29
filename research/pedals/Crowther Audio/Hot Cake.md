@@ -19,7 +19,6 @@ The Hot Cake is a hand-made New Zealand boost/overdrive designed to add thick di
 
 ## Transistor
 - Exact production transistor/device information was not established.
-
 ## Diode
 - Exact clipping-device information was not established.
 

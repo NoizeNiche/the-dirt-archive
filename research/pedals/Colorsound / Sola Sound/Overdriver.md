@@ -36,7 +36,6 @@ Original units were manufactured by Sola Sound in London and used pressed-metal 
 ## Transistor
 - Historical references identify **silicon transistor** use in the Overdriver lineage, with more than one transistor type used over the production life. [2]
 - Specific transistor part numbers for an individual unit should be tied to specimen evidence rather than generalized.
-
 ## Diode
 - **Exact clipping diode/device:** Not publicly documented as a single universal Overdriver value across production.
 

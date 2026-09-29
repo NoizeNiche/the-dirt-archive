@@ -34,7 +34,6 @@ Colombo's wider workshop documentation describes handmade Italian construction a
 
 ## Transistor
 - **Exact transistor/device:** Not publicly documented in the checked sources.
-
 ## Diode
 - **Exact clipping diode/device:** Not publicly documented in the checked sources.
 

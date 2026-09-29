@@ -29,7 +29,6 @@ The exact names of the three primary control knobs are not fully reproduced in t
 
 ## Transistor
 - **Exact production transistor/device:** Unknown.
-
 ## Diode
 - **Exact production clipping diode:** Unknown.
 

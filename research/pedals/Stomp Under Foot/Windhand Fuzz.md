@@ -22,7 +22,6 @@ The Windhand Fuzz is a limited Stomp Under Foot fuzz developed in connection wit
 
 ## Transistor
 - Exact production transistor/device information was not established.
-
 ## Diode
 - Exact production clipping/rectification diode information was not established.
 

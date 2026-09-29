@@ -29,7 +29,6 @@ The Big Trees is a compact recording amplifier and versatile preamp rather than 
 ## Transistor
 - **Not transistor-based.**
 - Active devices are the documented ECC82, ECC83 and EL84 valves. [1]
-
 ## Diode / clipping
 - The defining gain/breakup mechanism is valve stage behavior and EL84 headroom reduction, not a publicly documented clipping-diode network.
 - Exact diode components are not documented as the defining circuit element.

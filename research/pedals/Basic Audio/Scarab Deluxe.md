@@ -22,7 +22,6 @@ FAT changes the amount of low-frequency content feeding the saturation stages.
 - **Technology:** Silicon.
 - An independent Guitar Pedal X report identifies **4 × BC549B** in its documented Scarab Deluxe reference. This is retained as attributed independent evidence, not as a universal factory BOM. [3]
 - Exact gain grading is not documented.
-
 ## Diode / clipping
 - Exact clipping-device type and part number are not documented in the reviewed reliable sources.
 

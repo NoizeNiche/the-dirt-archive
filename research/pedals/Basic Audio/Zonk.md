@@ -18,7 +18,6 @@
 ## Transistor
 - **Technology:** Silicon transistor fuzz.
 - Exact factory transistor part number is not publicly documented.
-
 ## Diode / clipping
 - Exact clipping-device type and part number are not publicly documented.
 

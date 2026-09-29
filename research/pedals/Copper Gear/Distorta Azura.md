@@ -31,7 +31,6 @@ Distorta Azura uses an analog fuzz architecture with transistor-bias control rat
 ## Transistor
 - **Architecture:** transistor-based analog fuzz with adjustable bias. [1]
 - Exact transistor part number was not documented in the checked sources.
-
 ## Diode
 - **Exact clipping/rectification diode/device:** Not publicly documented.
 

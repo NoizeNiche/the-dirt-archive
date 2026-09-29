@@ -23,7 +23,6 @@ Big Green is ARC Effects' take on the Tall Font Green Russian Muff sound. ARC de
 ## Transistor
 - Exact production transistor/device information was not established in the checked sources.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact clipping/rectifier diode information was not established.
 - **Exact part:** Unknown.

@@ -26,7 +26,6 @@ No formal numbered factory revision sequence was established.
 
 ## Transistor
 No exact-model transistor specification was established in the checked sources.
-
 ## Diode
 The checked sources establish the Klon-style lineage and modified clipping/voicing concept but do not securely identify exact diode part numbers.
 

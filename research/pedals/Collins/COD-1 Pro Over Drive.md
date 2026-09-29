@@ -29,7 +29,6 @@ Effects Database groups the COD-1 Pro inside the Collins **XXX-1 Pro Series**, w
 
 ## Transistor
 **Not established.** No trustworthy Collins COD-1 Pro-specific transistor part number was located.
-
 ## Diode
 **Not established.** No trustworthy Collins COD-1 Pro-specific clipping-diode part number or verified clipping topology was located.
 

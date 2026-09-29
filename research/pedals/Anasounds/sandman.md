@@ -34,7 +34,6 @@ Sandman is a new physical format for the **unchanged Savage MkI circuit** combin
 ## Transistor
 - **Technology:** Not established for either circuit in the reviewed sources.
 - The official Sandman documentation focuses on clipping devices and signal-path behavior rather than identifying a discrete transistor family.
-
 ## Diode / clipping
 - **Savage MkI:** selectable **Germanium / Silicon** clipping through the Ge/Si switch. The builder identifies the germanium clipping element as the hard-to-find component associated with the original transparent-overdrive voice. [1][2]
 - **Ego Driver:** internal selection between **1N914 silicon diodes** and **LED** clipping. [1]

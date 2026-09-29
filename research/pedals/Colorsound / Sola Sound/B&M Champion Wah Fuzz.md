@@ -31,7 +31,6 @@ The pedal uses a cast-metal treadle-style enclosure and mechanical switching typ
 ## Transistor
 - **Typical fuzz family:** Silicon Jumbo Tone Bender lineage.
 - Exact transistor part numbers for an individual B&M Champion Wah Fuzz specimen were not established from the checked sources.
-
 ## Diode
 - **Exact clipping diode/device:** Not publicly documented in the checked sources.
 

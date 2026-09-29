@@ -23,7 +23,6 @@ The Dirty Shirley is an amp-in-a-box overdrive designed to provide the harmonic,
 
 ## Transistor
 - Exact production semiconductor details were not established.
-
 ## Diode
 - Exact clipping/rectifier diode information was not established.
 

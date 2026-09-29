@@ -36,7 +36,6 @@ The checked public documentation identifies the pedal's functions and controls b
 
 ## Transistor
 - **Exact transistor/device:** Not documented.
-
 ## Diode
 - **Exact clipping/rectification diode/device:** Not documented.
 

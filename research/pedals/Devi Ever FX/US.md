@@ -24,7 +24,6 @@ A separate layout-analysis source documents a community recreation of the US Fuz
 ## Transistor
 - **Exact transistor/device:** Unknown from reliable production documentation reviewed.
 - A hobbyist layout discussion mentions experimenting with 2N2222A devices, but that is not treated as factory-spec evidence.
-
 ## Diode / circuit
 - **Exact clipping/diode device:** Unknown.
 - **Complete schematic:** Not established from the production documentation reviewed.

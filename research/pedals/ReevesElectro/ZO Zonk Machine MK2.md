@@ -22,7 +22,6 @@ ZO: Zonk Machine MK2 Silicon Fuzz Pedal
 ## Transistor
 - Documented terms in the verified sources: 2N2926.
 - The archive records only the component information explicitly present in these sources.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

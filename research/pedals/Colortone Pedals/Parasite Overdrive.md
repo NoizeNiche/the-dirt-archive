@@ -39,7 +39,6 @@ Colortone states that its pedals are designed and individually handcrafted in Sy
 ## Transistor
 - **JFET devices:** Current 2026 documentation specifies hand-matched dual **5457 and J201 JFETs**. [3]
 - Earlier versions are described as hand-matched JFET designs, but the exact transistor complement was not established for every historical production state.
-
 ## Diode
 - **Clipping diode:** Not publicly documented in the checked sources.
 

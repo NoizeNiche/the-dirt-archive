@@ -33,7 +33,6 @@ The builder's 2026 announcement describes a new-look Rumble Seat with updated vi
 
 ## Transistor
 - Exact transistor/device part numbers are not publicly documented.
-
 ## Diode
 - Exact clipping diode/device is not publicly documented.
 

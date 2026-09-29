@@ -32,7 +32,6 @@ The original MKII is a hand-built British fuzz from Sola Sound's mid-1960s produ
 ## Transistor
 - **Three-transistor architecture** is established for the MKII. [1][3]
 - Surviving original units use germanium transistor variants such as Mullard OC75/OC81D in documented examples, but exact fit varies by production specimen. [2]
-
 ## Diode
 - The MKII is associated with a no-bias/diode-variation fuzz stage, but the specific diode device should be treated as specimen-dependent unless documented. [3]
 

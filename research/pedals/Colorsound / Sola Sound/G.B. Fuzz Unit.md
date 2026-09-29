@@ -35,7 +35,6 @@ Sola Sound/Colorsound manufactured these British private-label effects for third
 ## Transistor
 - **Typical family:** Silicon transistors.
 - Exact transistor selection for a specific G.B. Fuzz Unit was not established.
-
 ## Diode
 - **Exact clipping diode/device:** Not publicly documented in the checked sources.
 

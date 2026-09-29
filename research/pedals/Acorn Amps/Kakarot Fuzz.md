@@ -31,7 +31,6 @@ No separate electronic revision was documented. The current official page presen
 ## Transistor
 - **Type:** One germanium transistor + one silicon transistor.
 - **Exact part numbers:** Not publicly documented. [1]
-
 ## Diode
 - **Type:** LED.
 - **Count:** Pair of LEDs in the additional clipping section. [1]

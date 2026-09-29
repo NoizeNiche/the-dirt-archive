@@ -31,7 +31,6 @@ The Longsword is an op-amp-based distortion/overdrive with cascaded gain stages 
 ## Transistor
 - The checked EAE material describes an op-amp-based gain architecture rather than a transistor-only gain stage.
 - **Exact production semiconductor complement:** Unknown.
-
 ## Diode
 - EAE source material documents **silicon diode** clipping, but does not publish a complete production diode bill of materials for every revision.
 - **Exact diode part numbers:** Unknown.

@@ -30,7 +30,6 @@ No reliable numbered factory revision sequence was established.
 ## Transistor
 - **Technology:** Silicon. [1]
 - **Exact transistor/device:** Not confirmed from factory documentation. A secondary owner account mentions BC107, but this is not treated as the production specification. [3]
-
 ## Diode
 - **Exact clipping diode/device:** Not publicly documented.
 

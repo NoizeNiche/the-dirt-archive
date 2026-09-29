@@ -22,7 +22,6 @@ How to Get the Tone ↓ The short version The Myriad Fuzz is a hybrid germanium/
 ## Transistor
 - Documented terms in the verified sources: Silicon transistor, Germanium transistor.
 - The archive records only the component information explicitly present in these sources.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

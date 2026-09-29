@@ -17,7 +17,6 @@ The currently verified research describes Stardust V3 as a low-gain overdrive an
 
 ## Transistor
 - Exact transistor type or part number: not established.
-
 ## Diode
 - Exact diode type or part number: not established.
 

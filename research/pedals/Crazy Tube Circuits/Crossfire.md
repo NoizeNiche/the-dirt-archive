@@ -52,7 +52,6 @@ No complete circuit revision history was established from the checked sources.
 ## Transistor
 - Exact transistor types or part numbers: **not established**.
 - The checked sources describe the circuitry and reference amp/pedal architectures but do not provide a reliable exact transistor inventory.
-
 ## Diode
 - Exact diode type or part number: **not established**.
 

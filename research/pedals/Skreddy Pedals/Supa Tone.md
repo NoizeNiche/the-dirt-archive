@@ -24,7 +24,6 @@ Grinding distortion for guitar or bass Based on the 1974 "Supa Tonebender" fuzz 
 ## Transistor
 - Documented terms in the verified sources: BC239.
 - The archive records only the component information explicitly present in these sources.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

@@ -24,7 +24,6 @@ No numbered BYOC revision was verified.
 ## Transistor
 - **Technology:** FET-based.
 - Exact FET part numbers are not established in the reviewed product description. [1]
-
 ## Diode
 Exact clipping diode/device is not established in the reviewed product description.
 

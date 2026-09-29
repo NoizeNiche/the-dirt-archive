@@ -25,7 +25,6 @@ Audiofanzine describes the earlier two-knob state as the baseline, with KILL add
 - **Technology:** Germanium.
 - Exact transistor part numbers are **not publicly documented**.
 - Baja Tech describes its germanium devices as carefully selected. [1]
-
 ## Diode / clipping
 - Exact clipping/protection diode type is **not publicly documented**.
 

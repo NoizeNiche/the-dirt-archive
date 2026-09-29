@@ -16,7 +16,6 @@ The Super Six is a blackface-style American amp-in-a-box overdrive/preamp.
 
 ## Transistor
 - Exact production semiconductor details were not established.
-
 ## Diode
 - Exact clipping/rectifier diode information was not established.
 

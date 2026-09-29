@@ -48,7 +48,6 @@ The documented Sun Face history is best represented as hardware and transistor-p
 - **Technology:** Germanium and Silicon factory options, depending on build.
 - Exact transistor identity is a deliberate part of many Sun Face builds and should be preserved when the builder documents the specific unit.
 - Because the available options changed frequently, the archive should list the specific transistor as a factory build option rather than claiming one universal Sun Face transistor. [1]
-
 ## Diode
 - **Type:** Unknown.
 - No reliable Sun Face-specific diode type or part number established in the builder material reviewed.

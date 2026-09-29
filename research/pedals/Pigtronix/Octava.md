@@ -29,7 +29,6 @@ The Octava is an all-analog octave fuzz and frequency doubler. Pigtronix built i
 ## Transistor
 - Pigtronix explicitly identifies a JFET front-end Drive stage.
 - **Exact JFET part number:** Unknown.
-
 ## Diode
 - Exact octave/fuzz clipping-device part numbers were not established in the checked sources.
 - **Exact part:** Unknown.

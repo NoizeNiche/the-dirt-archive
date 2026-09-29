@@ -22,7 +22,6 @@ Coopersonic's documented product line includes hand-built valve pedals, but Mini
 
 ## Transistor
 - **Exact transistor/device:** Not publicly documented.
-
 ## Diode
 - **Exact clipping/rectification diode/device:** Not publicly documented.
 

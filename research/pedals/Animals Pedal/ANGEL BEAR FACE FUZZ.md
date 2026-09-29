@@ -27,7 +27,6 @@ The Angel Bear Face Fuzz is a silicon Fuzz Face-style fuzz developed by Animals 
 ## Transistor
 - Animals Pedal identifies the circuit as **silicon**.
 - Exact transistor part numbers were not established.
-
 ## Diode
 - Exact clipping/rectifier diode information was not established.
 - **Exact part:** Unknown.

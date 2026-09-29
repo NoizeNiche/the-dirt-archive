@@ -23,7 +23,6 @@ Burden is described as a high-volume, amp-bothering fuzz/distortion built around
 
 ## Transistor
 - Exact active-device part numbers are not publicly documented.
-
 ## Diode / clipping
 - Exact clipping diode/device is not publicly documented.
 

@@ -32,7 +32,6 @@ The builder explicitly describes the 2024 model as a color scheme and circuit va
 ## Transistor
 - **Technology:** Germanium. [1][3]
 - **Exact transistor/device:** The documented 2024 variation uses a pair of NOS Japanese 2SB54 transistors. Other examples are reported with different transistor choices, so the 2SB54 detail is not generalized to every Shatterbox. [1][3]
-
 ## Diode
 - **Type:** Exact production clipping/rectifier diode(s) were not publicly established in the reliable sources checked.
 - **Exact part:** Unknown.

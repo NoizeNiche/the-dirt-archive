@@ -39,7 +39,6 @@ Approximately 9.5 x 12.5 x 4.5 cm / 3.7 x 4.9 x 1.8 in.
 ## Transistor
 - Exact production transistor/device information was not established in the checked sources.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - The LED is documented as a status indicator, but the clipping-device part is not established.
 - **Exact part:** Unknown.

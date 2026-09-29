@@ -19,7 +19,6 @@ The NOTAKLÖN is JHS's DIY kit based on the company's Klon-related Shamrock modi
 
 ## Transistor
 - Exact production semiconductor details were not established.
-
 ## Diode
 - LED indicator is documented; exact clipping-device part was not established.
 

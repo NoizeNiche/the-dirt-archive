@@ -35,7 +35,6 @@ The Tube Zone uses **four clipping stages**, reflecting the multiple gain stages
 ## Transistor
 - **Exact production transistor/device:** Unknown.
 - The verified sources do not establish production transistor part numbers.
-
 ## Diode
 - **Exact clipping diode:** Unknown.
 - The architecture is described in terms of multiple gain/clipping stages without a production diode bill of materials.

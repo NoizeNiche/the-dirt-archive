@@ -28,7 +28,6 @@ The Tube Screamer Mini is the compact Ibanez version of the classic Tube Screame
 ## Transistor
 - Exact production semiconductor details were not established in the checked sources.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact clipping-diode part was not established in the checked sources.
 - **Exact part:** Unknown.

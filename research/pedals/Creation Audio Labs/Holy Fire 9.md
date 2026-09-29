@@ -31,7 +31,6 @@ Compared with the original Holy Fire Classic:
 
 ## Transistor
 - Exact transistor type or part number: **not established**.
-
 ## Diode
 - Exact diode type or part number: **not established**.
 

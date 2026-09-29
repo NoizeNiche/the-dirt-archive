@@ -36,7 +36,6 @@ The Mod switch is part of the core Modern Sound design. It changes the frequency
 ## Transistor
 - **Technology:** Silicon. [1]
 - **Exact transistor/device:** Standard production device is not specified in the accessible builder description. The 2024 limited run is documented with two NOS BC183 transistors. [2]
-
 ## Diode
 - **Type:** Exact production clipping/rectifier diode(s) were not publicly established in the reliable sources checked.
 - **Exact part:** Unknown.

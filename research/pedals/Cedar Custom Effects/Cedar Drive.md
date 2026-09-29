@@ -26,9 +26,7 @@ No secure version-change history was found in the checked sources.
 
 ## Transistor
 No exact-model discrete transistor specification was established in the checked sources.
-
 The documented active device is an **OPA2134 op-amp**, not a transistor identification. [1]
-
 ## Diode
 No secure exact-model diode type was established in the checked sources.
 

@@ -24,7 +24,6 @@ No formal numbered production revision history was established.
 
 ## Transistor
 No exact-model transistor specification was published.
-
 ## Diode
 The manufacturer specifies **asymmetric hard clipping** but does not publish exact diode part numbers. [1]
 

@@ -21,7 +21,6 @@ SKU: GEMWF796024 Category: Distortion 84 people are viewing this right now
 ## Transistor
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

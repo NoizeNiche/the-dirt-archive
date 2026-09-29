@@ -29,7 +29,6 @@ No numbered factory revision was verified. The major design change from JD10 is 
 ## Transistor
 - **Technology:** Analog preamp/distortion architecture.
 - **Exact device:** Not publicly documented.
-
 ## Diode
 - **Type:** Exact clipping-diode arrangement is not publicly documented.
 

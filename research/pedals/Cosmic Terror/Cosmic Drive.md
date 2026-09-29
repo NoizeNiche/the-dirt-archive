@@ -29,7 +29,6 @@ The checked sources establish an early/v0 2022 example and later 2022/2024-era e
 
 ## Transistor
 - Exact transistor part numbers were not established from the checked sources.
-
 ## Diode
 - Exact diode type or part number was not established from the checked sources.
 

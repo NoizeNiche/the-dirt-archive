@@ -21,7 +21,6 @@ The Russian designation distinguishes this variant from the NYC, Opamp, Ram's He
 
 ## Transistor
 Exact active devices not documented in the reviewed source set.
-
 ## Diode
 Exact clipping devices not documented in the reviewed source set.
 

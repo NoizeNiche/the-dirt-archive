@@ -27,7 +27,6 @@ The manufacturer describes the circuit at the product level as a Japanese green 
 
 ## Transistor
 - **Exact production transistor/device:** Unknown.
-
 ## Diode
 - **Exact production clipping diode:** Unknown.
 

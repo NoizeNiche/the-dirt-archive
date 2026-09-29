@@ -20,7 +20,6 @@ The Random Number Generator is a fuzz with random, harmonically related low-freq
 
 ## Transistor
 - Exact production semiconductor details were not established.
-
 ## Diode
 - Exact clipping/rectifier diode information was not established.
 

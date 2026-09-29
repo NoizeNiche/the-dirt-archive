@@ -27,7 +27,6 @@ Part Garden is a collaboration between **Mask Audio Electronics** and **Collecto
 - Source material identifies germanium and silicon versions within the broader Part Garden family.
 - Exact production transistor part numbers for this record were not established.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact clipping/rectifier diode information was not established.
 - **Exact part:** Unknown.

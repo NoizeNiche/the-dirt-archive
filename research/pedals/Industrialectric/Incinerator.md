@@ -38,7 +38,6 @@ The original Incinerator is documented separately from the later **Incinerator D
 - **Documented type:** Rare silicon transistor.
 - **Documented quantity:** 26 total transistors; five described as special rare silicon transistors.
 - **Exact transistor part numbers:** Unknown.
-
 ## Diode
 - **Exact clipping/rectifier diode:** Not established by the reviewed exact-model sources.
 

@@ -34,7 +34,6 @@ The documented SS-11B Modern revision adds a Bright switch to the Crunch section
 ## Transistor
 - Solid-state buffers are used at the preamp outputs, and the cabinet-emulation processing is described as field-effect-transistor based.
 - Exact transistor/FET part numbers are not publicly documented. [1]
-
 ## Diode
 - Exact clipping diode/device is not publicly documented.
 

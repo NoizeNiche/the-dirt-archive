@@ -23,7 +23,6 @@ The Octopus is Phaez Amplification's take on the Fulltone OCD-style overdrive ci
 
 ## Transistor
 - **Exact production transistor/device:** Not established.
-
 ## Diode
 - **Exact clipping/rectification diode:** Not established.
 

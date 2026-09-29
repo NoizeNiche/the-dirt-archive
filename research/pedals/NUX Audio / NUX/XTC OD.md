@@ -21,7 +21,6 @@ The retained source confirms the exact model and its classification as overdrive
 
 ## Transistor
 - **Exact production transistor/device:** Unknown.
-
 ## Diode
 - **Exact production clipping diode:** Unknown.
 

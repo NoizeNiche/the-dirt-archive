@@ -27,7 +27,6 @@ The checked builder article explicitly documents a small circuit modification du
 
 ## Transistor
 No discrete transistor complement was established; the core gain architecture is tube based.
-
 ## Diode
 No exact-model diode specification was established.
 

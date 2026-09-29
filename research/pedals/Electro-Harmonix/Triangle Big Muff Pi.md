@@ -28,7 +28,6 @@ The modern Triangle Big Muff Pi is EHX's recreation of the original **Version 1*
 ## Transistor
 - Exact production semiconductor details for the modern reissue were not established in the checked sources.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact clipping-device details were not established.
 - **Exact part:** Unknown.

@@ -29,7 +29,6 @@ The primary documented variant is the transistor-material choice: germanium or s
 
 ## Transistor
 Documented transistor families include **AC128, OC72, BC108, and BC109**, among other Japanese and Soviet devices. The exact installed pair varies by build and selected version. [1]
-
 ## Diode
 No exact diode specification was published.
 

@@ -23,7 +23,6 @@ The Si designation distinguishes this entry from Buffalo FX's germanium Fuzz Fac
 ## Transistor
 - **Technology:** NPN silicon. [1]
 - Exact transistor part number: Unknown.
-
 ## Diode
 - Exact clipping diode/device: Not publicly documented.
 

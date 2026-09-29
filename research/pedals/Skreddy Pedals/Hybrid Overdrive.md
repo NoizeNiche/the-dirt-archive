@@ -21,7 +21,6 @@ Skreddy Pedals's Hybrid Overdrive is cataloged as an overdrive pedal.
 ## Transistor
 - Documented terms in the verified sources: germanium fuzz, BC109, BC239.
 - The archive records only the component information explicitly present in these sources.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

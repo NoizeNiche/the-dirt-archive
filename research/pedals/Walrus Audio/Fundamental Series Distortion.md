@@ -30,7 +30,6 @@ The Fundamental Distortion is a three-mode distortion pedal from Walrus Audio's 
 ## Transistor
 - Exact production semiconductor details were not established in the checked sources.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Walrus explicitly documents silicon and LED clipping modes.
 - **Exact production diode part numbers:** Unknown.

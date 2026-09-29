@@ -32,7 +32,6 @@ All devices were handmade, tested and numbered before shipping according to the 
 
 ## Transistor
 - Copper Gear states its analog pedals can use transistors, op-amps and sometimes tubes; exact Brontide device part numbers were not established. [2]
-
 ## Diode
 - **Stock clipping devices:** 1N4148 silicon switching diodes. [1]
 - **User-adjustable:** diode pairs may be replaced with other diode types, including germanium and LEDs, or omitted. [1]

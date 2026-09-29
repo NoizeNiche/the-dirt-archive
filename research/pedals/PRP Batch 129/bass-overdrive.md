@@ -24,7 +24,6 @@ No numbered BYOC revision was verified.
 
 ## Transistor
 Exact active devices are not documented in the reviewed product description.
-
 ## Diode
 Exact clipping devices are not documented in the reviewed product description.
 

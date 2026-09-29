@@ -32,7 +32,6 @@ The ABR-OD is a performance-oriented overdrive developed with August Burns Red g
 ## Transistor
 - Exact production transistor/device information was not established in the checked sources.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Tallon describes the ABR-OD's clipping/tonal balance but does not publish the exact clipping-device part number.
 - **Exact part:** Unknown.

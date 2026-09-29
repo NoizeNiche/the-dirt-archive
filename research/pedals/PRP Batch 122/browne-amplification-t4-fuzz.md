@@ -24,7 +24,6 @@ No reliable numbered production revision sequence established.
 ## Transistor
 - **Technology:** Four-transistor fuzz.
 - Exact transistor part numbers are not publicly documented. [1]
-
 ## Diode
 Exact clipping diode/device not publicly documented.
 

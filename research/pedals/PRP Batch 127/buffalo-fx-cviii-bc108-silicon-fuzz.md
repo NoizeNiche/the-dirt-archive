@@ -28,7 +28,6 @@ No reliable numbered revision sequence established.
 ## Transistor
 - **Technology:** Silicon.
 - **Device:** Selected BC108 transistors. [1][2]
-
 ## Diode
 - Exact clipping diode/device: Not publicly documented.
 

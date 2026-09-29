@@ -37,7 +37,6 @@ CopperSound documentation describes the model as handmade in the USA. The circui
 
 ## Transistor
 - **Exact transistor part number:** not documented in the checked sources.
-
 ## Diode
 - **Exact diode/clipping device:** not documented in the checked sources.
 

@@ -19,7 +19,6 @@ An analog distortion pedal using AMT's valve-distortion-emulation approach and f
 
 ## Transistor
 - Exact transistor/device not documented.
-
 ## Diode
 - Exact clipping diode/device not documented.
 

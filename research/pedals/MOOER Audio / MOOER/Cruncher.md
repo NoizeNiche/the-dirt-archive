@@ -21,7 +21,6 @@ The exact product documentation establishes the model, high-gain/mid-focused voi
 
 ## Transistor
 - **Exact production transistor/device:** Unknown.
-
 ## Diode
 - **Exact production clipping diode:** Unknown.
 

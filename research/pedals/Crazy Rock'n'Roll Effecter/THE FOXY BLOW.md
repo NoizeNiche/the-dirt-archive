@@ -22,7 +22,6 @@ A complete trustworthy panel-label/value transcription was not established from 
 
 ## Transistor
 - Exact transistor type or part number: **not established**.
-
 ## Diode
 - Exact diode type or part number: **not established**.
 

@@ -35,7 +35,6 @@ The Morning Glory V4 is a transparent, low-to-medium gain overdrive designed to 
 ## Transistor
 - Exact production semiconductor details were not established in the checked sources.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact clipping-diode part was not established in the checked sources.
 - **Exact part:** Unknown.

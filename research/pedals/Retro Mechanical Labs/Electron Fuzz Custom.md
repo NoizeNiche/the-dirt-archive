@@ -24,7 +24,6 @@ The Electron Fuzz Custom is a very high-gain Retro Mechanical Labs distortion/fu
 ## Transistor
 - Exact production transistor/device information was not established in the checked sources.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - LED indicator is documented, but the exact clipping-device part is not established.
 - **Exact clipping part:** Unknown.

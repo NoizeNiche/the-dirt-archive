@@ -22,7 +22,6 @@ The retained exact-model evidence does not disclose a complete schematic or semi
 
 ## Transistor
 - **Exact production transistor/device:** Unknown.
-
 ## Diode
 - **Exact production clipping diode:** Unknown.
 

@@ -26,7 +26,6 @@ Zoar is a medium-to-high-gain discrete distortion built entirely around transist
 ## Transistor
 - EarthQuaker explicitly describes Zoar as using **only transistors**, with no op-amps.
 - **Exact production transistor part numbers:** Unknown.
-
 ## Diode
 - EarthQuaker's product description explicitly states there are **no diodes** in the audio circuit.
 - The LED is an indicator only, not the clipping device.

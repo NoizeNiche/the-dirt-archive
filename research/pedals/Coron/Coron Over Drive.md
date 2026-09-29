@@ -24,7 +24,6 @@ Coron Over Drive is a late-1970s to early-1980s Japanese overdrive designed to r
 ## Transistor
 - **Technology:** FET.
 - **Exact transistor part number:** not established from the checked sources.
-
 ## Diode
 - No exact diode type was established from the checked sources.
 

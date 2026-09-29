@@ -26,7 +26,6 @@ The Han-Taun is IdiotBox Effects' take on the **Klon Centaur** style of overdriv
 ## Transistor
 - Exact production semiconductor details were not established.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact clipping/rectifier diode information was not established.
 - **Exact part:** Unknown.

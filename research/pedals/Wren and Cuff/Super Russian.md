@@ -27,7 +27,6 @@ The Super Russian combines a Tall Font Russian-style Muff with a separate german
 ## Transistor
 - The boost section is explicitly germanium-buffered.
 - **Exact transistor part numbers:** Unknown.
-
 ## Diode
 - Exact clipping-device part numbers were not established.
 

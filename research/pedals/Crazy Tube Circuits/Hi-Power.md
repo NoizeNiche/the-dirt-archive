@@ -46,8 +46,7 @@ No separate factory circuit revision was established in the checked evidence.
 
 ## Transistor
 - BC184 transistors are explicitly documented by Crazy Tube Circuits' published description of the Power Boost recreation.
-- Exact semiconductor inventory for the Hiwatt-emulation side is not established.
-
+- Exact semiconductor inventory for the -emulation side is not established.
 ## Diode
 - Exact diode type or part number: **not established**.
 

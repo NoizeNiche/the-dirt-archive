@@ -21,7 +21,6 @@ Astral ToneWorx describes the current Krampus as a no-frills, high-impact fuzz d
 
 ## Transistor
 - Exact transistor/device part numbers are **not publicly documented**.
-
 ## Diode / clipping
 - Exact clipping diode/device part numbers are **not publicly documented**.
 

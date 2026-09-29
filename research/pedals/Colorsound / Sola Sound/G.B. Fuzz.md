@@ -29,7 +29,6 @@ The G.B. family was built in England by Sola Sound/Colorsound for third-party di
 ## Transistor
 - **Typical family:** Silicon transistors.
 - Exact transistor part numbers for an individual G.B. Fuzz were not established in the checked sources.
-
 ## Diode
 - **Exact clipping diode/device:** Not publicly documented in the checked sources.
 

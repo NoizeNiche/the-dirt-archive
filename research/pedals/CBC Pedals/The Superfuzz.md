@@ -25,7 +25,6 @@ CBC's own builder profile identifies it as a reproduction of the Univox Super-Fu
 - **Documented devices:** Panasonic **C828** transistors.
 - CBC's surviving exact-model description states that the devices were tested/selected during construction. [1][2]
 - Exact gain grading is not documented.
-
 ## Diode / clipping
 - **Two germanium diodes** are documented in the clipping/square-wave section. [1][2]
 - Exact diode part number is not established.

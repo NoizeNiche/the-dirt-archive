@@ -24,7 +24,6 @@ Dark Blood is Kirk Hammett's KHDK high-gain distortion/overdrive. KHDK describes
 ## Transistor
 - **Documented device:** 2N5457.
 - The archive does not treat one documented transistor as a complete production BOM.
-
 ## Diode
 - **Documented type:** silicon diode.
 - Exact production part number is not established.

@@ -17,7 +17,6 @@ The exact builder/model identity is well established, including a contemporary 2
 
 ## Transistor
 - Exact production active device: **Unknown**.
-
 ## Diode / clipping
 - Exact clipping device: **Unknown**.
 

@@ -36,7 +36,6 @@ The important documented evolution is from early hand-stamped graphics and 2-jac
 ## Transistor
 - **Technology:** Germanium transistors are used in the Sun Face and Beano Boost sections, with Analog Man selecting NOS parts for tone and low noise.
 - Exact part depends on the ordered/build configuration and historical availability. [1]
-
 ## Diode
 - **Type:** Unknown.
 - No Sun Lion-specific diode type or production-wide part number established.

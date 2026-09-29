@@ -26,10 +26,9 @@ The Blue-Violet Caprid Small Foot is the compact version of Wren and Cuff's Blue
 - Wren and Cuff says the sound is very close to the OG, but not identical.
 
 ## Transistor
-- Wren and Cuff documents **three hand-selected orange-dot transistors and one violet-dot transistor**.
+- Wren and Cuff documents **three hand-selected -dot transistors and one violet-dot transistor**.
 - These transistors are hand-matched for the desired gain range.
 - Exact semiconductor part numbers are not given.
-
 ## Diode
 - Exact clipping/rectifier diode information was not established in the checked sources.
 - **Exact part:** Unknown.

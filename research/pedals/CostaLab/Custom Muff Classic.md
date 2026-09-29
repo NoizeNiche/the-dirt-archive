@@ -26,7 +26,6 @@ No separate named production revision was established from the checked sources. 
 
 ## Transistor
 - CostaLab emphasizes premium component selection, especially the transistors, but the checked sources do not publish exact transistor part numbers.
-
 ## Diode
 - **Silicon diode clipping** is explicitly documented.
 - Exact diode part number: **not established**.

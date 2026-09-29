@@ -23,7 +23,6 @@ Browne separately documents later V3 and V4 versions. V3 moves to top-mounted ja
 
 ## Transistor
 Exact active devices not publicly documented.
-
 ## Diode
 Exact factory clipping devices not publicly documented.
 

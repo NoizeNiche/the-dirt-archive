@@ -21,7 +21,6 @@ Published on July 23, 2010 VFE Pedals overdrive pedal Information VonRutter The 
 ## Transistor
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Documented terms in the verified sources: led.
 - The archive records only the component information explicitly present in these sources.

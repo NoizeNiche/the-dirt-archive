@@ -23,7 +23,6 @@ Danelectro's Black Paisley Liquid Metal is cataloged as a Distortion pedal.
 ## Transistor
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

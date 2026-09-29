@@ -15,7 +15,6 @@ Mosferatu is a Lovepedal/Hermida overdrive designed for smooth, dynamic drive wi
 
 ## Transistor
 - Exact production semiconductor details were not established.
-
 ## Diode
 - Exact clipping-device information was not established.
 

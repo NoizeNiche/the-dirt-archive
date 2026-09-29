@@ -21,7 +21,6 @@ For full-bodied distortion with an amp-like feel and a huge variety of useable t
 ## Transistor
 - Documented terms in the verified sources: AC210, AC210N, AC120V.
 - The archive records only the component information explicitly present in these sources.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

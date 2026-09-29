@@ -39,7 +39,6 @@ The manufacturer describes the sound/function changes as refinement rather than 
 ## Transistor
 - **Technology:** Unknown.
 - No exact transistor material or part number is published in the reviewed manufacturer documentation.
-
 ## Diode / clipping
 - **Technology:** Unknown.
 - No exact clipping-diode material or part number is published in the reviewed manufacturer documentation.

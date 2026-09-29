@@ -25,7 +25,6 @@ Basic Audio explicitly treats the Germanium version as a different pedal from th
 ## Transistor
 - **Germanium** technology confirmed.
 - Exact transistor part number is not publicly documented. [1][2]
-
 ## Diode
 - Exact clipping-device type and part number are not published.
 

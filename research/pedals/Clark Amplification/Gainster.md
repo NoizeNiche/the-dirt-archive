@@ -26,7 +26,6 @@ Premier Guitar documents at least two distinct physical implementations: the ori
 
 ## Transistor
 No exact-model transistor part number was established in the checked sources.
-
 ## Diode
 No exact-model diode specification was established.
 

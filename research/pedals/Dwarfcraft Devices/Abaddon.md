@@ -22,7 +22,6 @@ The Abaddon is a historical Dwarfcraft Devices distortion pedal documented in Ef
 
 ## Transistor
 - **Exact production transistor/device:** Not established in the reviewed exact-model source.
-
 ## Diode
 - **Exact clipping/rectification diode:** Not established in the reviewed exact-model source.
 

@@ -21,7 +21,6 @@ By Nina Harper July 19, 2026 The Dod Badder Monkey is a rare, hand-built overdri
 ## Transistor
 - Documented terms in the verified sources: 2N5457.
 - The archive records only the component information explicitly present in these sources.
-
 ## Diode
 - Documented terms in the verified sources: 1N34A.
 - The archive records only the component information explicitly present in these sources.

@@ -22,7 +22,6 @@ Mythos Pedals Hephaestus Fuzz ( 01 Customer Review ) $139.00 $69.50 Product Over
 ## Transistor
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

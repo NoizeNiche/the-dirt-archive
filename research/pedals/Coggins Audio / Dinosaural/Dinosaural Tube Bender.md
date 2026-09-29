@@ -23,7 +23,6 @@ The OPA-101 was later developed as an updated version of Tube Bender. Cogmeister
 
 ## Transistor
 The circuit is **all-discrete Class-A transistor** circuitry. The checked manufacturer/database sources do not securely publish every original transistor part number.
-
 ## Diode
 No diode-clipping stage is documented as the principal distortion mechanism.
 

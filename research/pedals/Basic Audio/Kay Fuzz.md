@@ -23,7 +23,6 @@ Basic Audio's Kay Fuzz adapts the 1968 Kay F-1 Fuzztone/Fuzz Tone family with su
 
 ## Transistor
 - Exact factory transistor technology and part number are **not reliably documented** in the reviewed sources.
-
 ## Diode / clipping
 - The pedal explicitly provides a **DIODE LIFT / ENGAGE** switch.
 - Exact diode material and part number are not published. [1]

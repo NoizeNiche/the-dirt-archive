@@ -23,7 +23,6 @@ Barber says the Compact Direct Drive is 2.3 inches wide and combines the desirab
 
 ## Transistor
 - Exact transistor/device part numbers are not established from the reviewed factory documentation.
-
 ## Diode
 - Barber's service schematic explicitly shows **1N4148 silicon switching diodes**.
 - This is pedal-specific service documentation, not an inference from the circuit lineage. [2]

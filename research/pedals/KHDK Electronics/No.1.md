@@ -22,7 +22,6 @@ Powered by KHDK's original circuit, the No.1 is designed in the spirit of an ove
 ## Transistor
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Documented terms in the verified sources: LED.
 - The archive records only the component information explicitly present in these sources.

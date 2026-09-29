@@ -22,7 +22,6 @@ EarthQuaker Devices's Park Fuzz Sound — Vintage Germanium Fuzz Tone is catalog
 ## Transistor
 - Documented terms in the verified sources: Germanium Fuzz.
 - The archive records only the component information explicitly present in these sources.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

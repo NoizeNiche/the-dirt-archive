@@ -23,7 +23,6 @@ The extra Mids control is part of the production design rather than a numbered r
 ## Transistor
 - **Technology:** Silicon.
 - Exact transistor part number is **not publicly documented**. [1][4]
-
 ## Diode / clipping
 - Exact clipping-device type and part number are not published.
 

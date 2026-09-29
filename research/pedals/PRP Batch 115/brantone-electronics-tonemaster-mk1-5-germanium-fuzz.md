@@ -23,7 +23,6 @@ No reliable numbered factory revision sequence found.
 ## Transistor
 - **Technology:** Germanium.
 - **Device:** NOS Mullard OC75, matched and tested. [1]
-
 ## Diode
 Exact clipping diode/device not publicly documented.
 

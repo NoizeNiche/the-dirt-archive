@@ -24,7 +24,6 @@ Lurid Machine was developed in collaboration with heavy noise rock duo Modern Te
 
 ## Transistor
 - Exact active-device part numbers are not publicly documented.
-
 ## Diode / clipping
 - Exact clipping diode arrangement is not publicly documented.
 

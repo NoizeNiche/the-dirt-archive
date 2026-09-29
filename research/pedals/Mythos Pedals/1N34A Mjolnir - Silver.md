@@ -29,7 +29,6 @@ The 1N34A Mjolnir is a Klon-style boost/overdrive variant built around a matched
 ## Transistor
 - Exact production semiconductor details were not established.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - **Clipping diodes:** matched 1N34A germanium pair.
 - The exact manufacturing source of the individual diodes is not established.

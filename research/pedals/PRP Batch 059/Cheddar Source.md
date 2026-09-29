@@ -35,7 +35,6 @@ The builder explicitly states that the project is an independent recreation and 
 
 ## Transistor
 - Exact transistor/device part numbers are **not publicly documented** in the reviewed product material.
-
 ## Diode / clipping
 - Exact clipping diode/device part numbers are **not publicly documented** in the reviewed product material.
 

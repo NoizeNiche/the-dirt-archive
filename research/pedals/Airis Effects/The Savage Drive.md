@@ -28,7 +28,6 @@ The documented 2.0 revision added the Tight knob to the earlier Savage Drive. La
 
 ## Transistor
 - **Exact transistor/device:** Not publicly documented.
-
 ## Diode
 - **Clipping diodes:** Airis states that the Savage Drive design removed clipping diodes to increase clarity, reduce compression and add headroom. [1]
 - No more specific diode-device identity was publicly documented.

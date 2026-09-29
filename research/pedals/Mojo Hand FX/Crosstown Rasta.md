@@ -30,7 +30,6 @@ BODY provides additional low-frequency shaping beyond the traditional two-contro
 - **Historical documented devices:** AC187 germanium + BC109 silicon on earlier units. [2]
 - **Current replacement germanium device:** Undisclosed by the builder. [2]
 - **Exact universal production transistor complement:** Unknown.
-
 ## Diode
 - **Exact production clipping diode:** Unknown.
 - The verified evidence identifies the transistor-based fuzz architecture but does not establish a separate clipping-diode part.

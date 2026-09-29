@@ -31,7 +31,6 @@ No distinct production circuit revision was established in the checked sources. 
 ## Transistor
 - JFET technology is explicitly documented.
 - Exact JFET part number(s) were not established from reliable manufacturer or independent sources, so third-party unverified component claims are excluded.
-
 ## Diode
 - Exact diode type or part number: **not established**.
 

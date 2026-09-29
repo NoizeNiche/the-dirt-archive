@@ -27,7 +27,6 @@ No separate named production revision or factory option set was established in t
 ## Transistor
 - **MOSFET:** exact-model architecture is explicitly documented.
 - Exact MOSFET part number: **not established**.
-
 ## Diode
 - Exact diode type or part number: **not established**.
 

@@ -25,7 +25,6 @@ The checked sources do not establish a numbered factory revision sequence.
 
 ## Transistor
 One gain channel is based on **JFET** circuitry and the other on an **IC-based** gain circuit. Exact component part numbers were not established. [1][2]
-
 ## Diode
 No exact-model diode specification was established.
 

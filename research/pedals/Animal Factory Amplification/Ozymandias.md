@@ -51,7 +51,6 @@ The major documented transition is from an earlier shelved development concept t
 ## Transistor
 - **Technology:** Unknown.
 - No exact discrete transistor family or part number has been established in the reviewed manufacturer documentation.
-
 ## Diode / clipping
 - **Technology:** selectable clipping modes including hard/soft or asymmetrical LED-style limiting depending on control position.
 - The manufacturer does not publish a specific clipping diode part number in the reviewed product documentation. [1][2]

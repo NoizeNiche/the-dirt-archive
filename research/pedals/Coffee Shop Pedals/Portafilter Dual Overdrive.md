@@ -32,7 +32,6 @@ The current Portafilter is a programmable dual-channel design with onboard memor
 
 ## Transistor
 No exact transistor part number was published in the checked manufacturer documentation.
-
 ## Diode
 The pedal exposes selectable Soft and Hard clipping modes, but the checked sources do not establish exact diode part numbers. [1]
 

@@ -21,7 +21,6 @@ Login Create Account Home Prescription Electronics COB Clean Octave Blend Fuzz P
 ## Transistor
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

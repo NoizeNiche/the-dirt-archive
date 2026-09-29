@@ -24,7 +24,6 @@
 ## Transistor
 - The first gain stage is explicitly transistor-based.
 - Exact transistor part number is not securely established.
-
 ## Diode / clipping
 - **Symmetrical silicon diode** mode.
 - **Asymmetrical MOSFET** mode.

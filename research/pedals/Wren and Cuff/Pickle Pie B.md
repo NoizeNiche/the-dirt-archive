@@ -28,7 +28,6 @@ The Pickle Pie B is Wren and Cuff's bass-oriented evolution of the Pickle circui
 ## Transistor
 - Wren and Cuff documents FET-hybrid clipping and a FET-buffered boost stage.
 - **Exact device part numbers:** Not established.
-
 ## Diode
 - Exact clipping diode part numbers were not established.
 

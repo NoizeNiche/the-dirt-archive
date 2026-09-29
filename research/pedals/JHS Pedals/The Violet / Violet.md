@@ -16,7 +16,6 @@ JHS Pedals The Violet model documented by the manufacturer and Effects Database.
 
 ## Transistor
 - **Exact production transistor/device:** Unknown.
-
 ## Diode
 - **Exact clipping/rectifier diode:** Unknown.
 

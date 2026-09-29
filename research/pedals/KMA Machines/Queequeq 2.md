@@ -23,7 +23,6 @@ The documented version-2 design provides a **MIX** control for blending the clea
 ## Transistor
 - **Exact production transistor/device:** Unknown.
 - The verified sources do not establish a specific transistor part number.
-
 ## Diode
 - **Exact clipping/rectifier diode:** Not applicable to the documented sub-octave function in this pass.
 - No specific diode component is established by the verified sources.

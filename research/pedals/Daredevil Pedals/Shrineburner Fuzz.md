@@ -22,7 +22,6 @@ Shrineburner is a limited-run heavy fuzz designed with bass and low-tuned guitar
 
 ## Transistor
 - Exact production transistor/device information was not established.
-
 ## Diode
 - Exact clipping/rectifier diode information was not established.
 

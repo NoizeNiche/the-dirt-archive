@@ -27,7 +27,6 @@ The design is specifically tied to the early-1990s Sovtek/Russian version of the
 
 ## Transistor
 Collateral FX identifies the circuit as a **silicon fuzz/distortion** design but does not publish exact transistor part numbers. [1]
-
 ## Diode
 No exact diode part number was published.
 

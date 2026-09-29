@@ -35,7 +35,6 @@ The public sources establish the product, control layout and German manufacture 
 
 ## Transistor
 - **Exact transistor/device:** Not publicly documented.
-
 ## Diode
 - **Exact clipping/rectification diode/device:** Not publicly documented.
 

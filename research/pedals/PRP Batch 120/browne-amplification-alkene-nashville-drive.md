@@ -24,7 +24,6 @@ The current ALKENE documentation preserves the expanded clipping/tone architectu
 
 ## Transistor
 Exact active devices are not publicly documented.
-
 ## Diode
 - Browne explicitly documents an alternate set of hard-clipping diodes for More Clip.
 - Exact diode part numbers are not documented. [1]

@@ -30,7 +30,6 @@ No reliable named circuit revision was established in the available production m
 ## Transistor
 - **Clipping/gain device:** MOSFET clipping mode is documented.
 - **Exact production device part number:** Not publicly documented. [1]
-
 ## Diode
 - **Vintage mode:** Uses a MOSFET and diode combination.
 - **Exact diode type/part:** Not publicly documented. [1]

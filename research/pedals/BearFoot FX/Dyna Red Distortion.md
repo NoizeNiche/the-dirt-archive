@@ -22,7 +22,6 @@ BearFoot examples may differ in exact additional production details, so controls
 
 ## Transistor
 - Exact production transistor/device part numbers are not publicly documented.
-
 ## Diode / clipping
 - Exact clipping/protection device and part number are not publicly documented.
 

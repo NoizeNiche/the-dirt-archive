@@ -23,7 +23,6 @@ Browne states that from February 2025 the right-side label became LEVEL/DRIVE. T
 
 ## Transistor
 Exact active devices not publicly documented.
-
 ## Diode
 Exact clipping devices not publicly documented.
 

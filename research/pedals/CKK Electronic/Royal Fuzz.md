@@ -22,7 +22,6 @@
 ## Transistor
 - **FET clipping mode:** exact FET part number is not established.
 - The product does not document a universal transistor BOM beyond the FET clipping function.
-
 ## Diode / clipping
 - **Diode clipping mode:** exact diode part number is not established. [2]
 

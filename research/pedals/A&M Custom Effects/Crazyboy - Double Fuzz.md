@@ -21,7 +21,6 @@ A M Custom Effects browse by type distortion/fuzz/overdrive fuzz browse by enclo
 ## Transistor
 - Documented terms in the verified sources: Silicon Transistor.
 - The archive records only the component information explicitly present in these sources.
-
 ## Diode
 - Documented terms in the verified sources: LEDs, LED.
 - The archive records only the component information explicitly present in these sources.

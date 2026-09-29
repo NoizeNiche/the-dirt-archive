@@ -43,7 +43,6 @@ The archive keeps this as a genuine model generation difference, not merely a co
 
 ## Transistor
 - Exact transistor/device type or part number is **not publicly documented** in the reviewed sources.
-
 ## Diode / clipping
 - Exact clipping diode/device type or part number is **not publicly documented**.
 

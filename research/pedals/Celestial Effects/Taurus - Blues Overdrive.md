@@ -23,7 +23,6 @@
 
 ## Transistor
 - Exact production transistor/device part number is not publicly established.
-
 ## Diode / clipping
 - **Symmetrical silicon-diode** mode.
 - **Asymmetrical MOSFET** mode.

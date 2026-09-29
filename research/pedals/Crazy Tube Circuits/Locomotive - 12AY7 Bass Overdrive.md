@@ -36,7 +36,6 @@ No distinct production circuit revision was established from the checked sources
 
 ## Transistor
 - The drive stage is tube-based; no exact transistor component specification was established for the signal path.
-
 ## Diode
 - Crazy Tube Circuits explicitly frames the design around the 12AY7 tube rather than diode clipping.
 - Exact diode type or part number: **not established**.

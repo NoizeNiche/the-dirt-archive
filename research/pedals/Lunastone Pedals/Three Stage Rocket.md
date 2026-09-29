@@ -22,7 +22,6 @@ The three pedals on offer from LunaStone are the Wise Guy, the Big Fella and the
 ## Transistor
 - Documented terms in the verified sources: 2N5457, BC549C.
 - The archive records only the component information explicitly present in these sources.
-
 ## Diode
 - Documented terms in the verified sources: led.
 - The archive records only the component information explicitly present in these sources.

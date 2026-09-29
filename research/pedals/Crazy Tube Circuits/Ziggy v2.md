@@ -40,7 +40,6 @@ The v2 design is documented as a dual-channel format with distinct low-gain and 
 ## Transistor
 - **MOSFET gain stages** are explicitly documented.
 - Exact MOSFET part number: **not established**.
-
 ## Diode
 - Exact diode type or part number: **not established**.
 

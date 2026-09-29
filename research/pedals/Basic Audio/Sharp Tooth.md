@@ -18,7 +18,6 @@
 ## Transistor
 - **Technology:** Discrete silicon transistor stages.
 - Exact production transistor part numbers are not publicly documented.
-
 ## Diode / clipping
 - Exact clipping-device type and part number are not published.
 

@@ -20,9 +20,8 @@ Skreddy Pedals’ Rubber Soul is a Fab Four-inspired preamp stompbox
 - No specific factory version changes were established in the verified evidence packet.
 
 ## Transistor
-- Documented terms in the verified sources: AC30, BC109, BC239.
+- Documented terms in the verified sources, BC109, BC239.
 - The archive records only the component information explicitly present in these sources.
-
 ## Diode
 - Documented terms in the verified sources: 1N914.
 - The archive records only the component information explicitly present in these sources.

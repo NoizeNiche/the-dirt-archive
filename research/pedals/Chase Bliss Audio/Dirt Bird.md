@@ -19,7 +19,6 @@ Effects Database documents Dirt Bird as a Mystery Box exclusive limited to **250
 
 ## Transistor
 - Exact device part numbers are not established.
-
 ## Diode / clipping
 - Exact clipping-device part numbers are not established.
 

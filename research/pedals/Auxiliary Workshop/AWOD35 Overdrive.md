@@ -24,7 +24,6 @@ No numbered factory revision was verified in the available sources.
 ## Transistor
 - **Technology:** Unknown.
 - **Exact device:** Not publicly documented in the sources checked.
-
 ## Diode
 - **Type:** Unknown.
 - **Exact device:** Not publicly documented in the sources checked.

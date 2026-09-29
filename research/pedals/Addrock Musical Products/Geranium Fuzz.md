@@ -26,7 +26,6 @@ No reliable numbered factory revision history was established from the accessibl
 ## Transistor
 - **Technology:** Germanium. [1]
 - **Exact transistor/device:** The source confirms selected germanium transistors but does not publish an exact production part number. [1]
-
 ## Diode
 - **Exact clipping diode/device:** Not publicly documented.
 

@@ -16,7 +16,6 @@ JAM Pedals Rattler Bass model documented by the manufacturer and an independent 
 
 ## Transistor
 - **Exact production transistor/device:** Unknown.
-
 ## Diode
 - **Exact clipping/rectifier diode:** Unknown.
 

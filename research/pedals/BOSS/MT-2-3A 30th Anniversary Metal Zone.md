@@ -21,7 +21,6 @@ BOSS MT-2-3A 30TH ANNIVERSARY METAL ZONE $119.25 $59.63 Released in 1991, the MT
 ## Transistor
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

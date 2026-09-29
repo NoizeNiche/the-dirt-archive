@@ -19,7 +19,6 @@
 ## Transistor
 - **NOS cherry-picked BC109 silicon transistors.** [1]
 - Exact gain grading is not published.
-
 ## Diode / clipping
 - No exact clipping-diode specification is documented.
 

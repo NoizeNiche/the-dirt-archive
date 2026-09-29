@@ -31,7 +31,6 @@ Aclam explicitly states that the White Album Edition does **not** change the cir
 ## Transistor
 - **Technology:** Solid-state analog preamp/distortion circuit.
 - **Exact transistor/device:** Not publicly documented in the official material reviewed.
-
 ## Diode
 - **Type:** Exact production clipping diode(s) are not publicly documented.
 - **Exact diode/device:** Unknown.

@@ -32,7 +32,6 @@ Hand-built diecast enclosure with germanium fuzz circuitry and a positive-feedba
 ## Transistor
 - **Device family:** NOS germanium transistors. [1]
 - Exact transistor part number not established in the checked sources.
-
 ## Diode
 - **Exact clipping/rectification diode/device:** Not publicly documented.
 

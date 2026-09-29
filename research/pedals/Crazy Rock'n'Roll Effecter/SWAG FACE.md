@@ -29,7 +29,6 @@ SWAG FACE is the builder's Fuzz Face-derived fuzz platform, developed from long-
 - **NKT278 germanium:** explicitly documented for the 2024 Limited and later NKT278 listing.
 - Earlier NKT275 examples are separately documented and should remain historically distinct.
 - Exact matching/specification of individual vintage transistors is not established beyond the builder's model-level statements.
-
 ## Diode
 - Exact diode type or part number: **not established**.
 

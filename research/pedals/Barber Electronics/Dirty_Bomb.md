@@ -24,7 +24,6 @@ Dirty Bomb is designed as a wide-range high-gain distortion. The controls allow 
 ## Transistor
 - Exact transistor/device part numbers: **Unknown**.
 - Do not infer FET/BJT chemistry from the sound or circuit-family description alone.
-
 ## Diode / clipping
 - Exact clipping diode/device part numbers are **not publicly documented**.
 

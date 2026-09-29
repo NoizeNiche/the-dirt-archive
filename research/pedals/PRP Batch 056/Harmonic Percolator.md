@@ -24,7 +24,6 @@ Analog Noir's Harmonic Percolator is a hand-wired recreation of the 1972 Harmoni
 ## Transistor
 - Hybrid silicon/germanium transistor design.
 - Exact production transistor part numbers are not documented. [1]
-
 ## Diode
 - Pair of 1960s germanium diodes for the warm/original-style setting.
 - Separate silicon clipping option and diode-bypass position.

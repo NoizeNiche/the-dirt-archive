@@ -29,7 +29,6 @@ Effects Database places CSD-1 Pro Super Dust in the three-product Collins **XXX-
 
 ## Transistor
 **Not established.** No Collins CSD-1 Pro-specific transistor part number was located.
-
 ## Diode
 **Not established.** No Collins CSD-1 Pro-specific clipping-diode part number or verified clipping topology was located.
 

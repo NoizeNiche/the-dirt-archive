@@ -22,7 +22,6 @@ The EQ curve of the tone controls prevents the tone-masking flaws of many overdr
 ## Transistor
 - Documented terms in the verified sources: 2N5457.
 - The archive records only the component information explicitly present in these sources.
-
 ## Diode
 - Documented terms in the verified sources: 1N914, 1N4001, silicon diode, LED, 1N4148.
 - The archive records only the component information explicitly present in these sources.

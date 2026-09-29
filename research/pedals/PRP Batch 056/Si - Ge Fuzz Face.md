@@ -33,7 +33,6 @@ The principal factory distinction is the germanium versus silicon transistor opt
 - New Market NKT / Mullard GET
 - Mullard BC108
 - Phillips BC109 [1]
-
 ## Diode
 - Exact clipping diode/device is not publicly documented.
 

@@ -23,7 +23,6 @@ The Reese Lightning is an aggressive Dwarfcraft fuzz designed around heavy satur
 ## Transistor
 - Exact production semiconductor details were not established in the checked sources.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact clipping/rectifier diode information was not established.
 - **Exact part:** Unknown.

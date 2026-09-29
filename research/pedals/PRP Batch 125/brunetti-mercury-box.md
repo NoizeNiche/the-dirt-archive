@@ -25,7 +25,6 @@ Mercury Box 2 is a later, separate catalog identity and is not collapsed into th
 ## Transistor
 - **Technology:** FET.
 - Exact factory device part numbers are not publicly documented.
-
 ## Diode
 Exact production clipping devices are not publicly documented.
 

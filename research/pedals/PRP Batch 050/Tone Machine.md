@@ -24,7 +24,6 @@ Tone Machine is a thick, high-gain fuzz with a separate footswitch for adding an
 
 ## Transistor
 - Exact transistor/device part numbers are not publicly documented.
-
 ## Diode
 - Exact clipping/octave diode device is not publicly documented.
 

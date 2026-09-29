@@ -17,7 +17,6 @@
 
 ## Transistor
 - No discrete transistor is assigned; LM386 is the documented active IC.
-
 ## Diode / clipping
 - Exact clipping-device part number is not documented.
 

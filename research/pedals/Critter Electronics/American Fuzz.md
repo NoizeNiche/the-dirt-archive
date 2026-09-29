@@ -30,7 +30,6 @@ No reliable numbered hardware revision was verified. Cosmetic runs, B-stock, and
 ## Transistor
 - **Technology:** Hybrid design with two transistor gain stages and two op-amp gain stages. [1]
 - **Exact transistor/device:** Not publicly established.
-
 ## Diode
 - **Type:** Exact production clipping diode/device was not publicly established in the reliable sources checked.
 - **Exact part:** Unknown.

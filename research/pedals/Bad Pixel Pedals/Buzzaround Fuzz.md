@@ -22,7 +22,6 @@ Bad Pixel's Buzzaround is a faithful modern recreation of the classic Baldwin-Bu
 ## Transistor
 - **3 × NOS USSR MP20/26 germanium transistors.**
 - Exact gain/leakage measurements for the individual trio are not published in the reviewed sources. [1][2]
-
 ## Diode
 - **NOS USSR D9E germanium diode:** documented for the builder's Buzzaround. [1]
 - Exact date code / individual electrical measurements are not published.

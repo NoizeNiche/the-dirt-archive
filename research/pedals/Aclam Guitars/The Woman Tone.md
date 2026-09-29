@@ -32,7 +32,6 @@ A 2022 Guitarist review documents an internal DIP switch for a darker tone-capac
 ## Transistor
 - **Technology:** Discrete-component analog overdrive.
 - **Exact production transistor/device:** Not publicly documented in the reviewed official material.
-
 ## Diode
 - **Exact production clipping diode/device:** Not publicly documented in the reviewed official material.
 

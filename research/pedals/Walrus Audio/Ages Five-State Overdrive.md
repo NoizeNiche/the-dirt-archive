@@ -34,7 +34,6 @@ The five-position gain selector uses these documented states:
 ## Transistor
 - Exact production transistor/device details were not established in the checked sources.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Walrus explicitly documents silicon and LED clipping states, but does not publish a complete production device bill of materials.
 - **Exact diode/device:** Silicon or LED clipping by selected state; exact part numbers unknown.

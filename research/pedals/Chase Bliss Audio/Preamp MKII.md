@@ -18,7 +18,6 @@ Preamp MKII combines a Benson Chimera-derived preamp concept with a dedicated fu
 
 ## Transistor
 - Exact production transistor/device part numbers are not publicly documented.
-
 ## Diode / clipping
 - Exact clipping-device part numbers are not publicly documented.
 

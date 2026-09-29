@@ -39,7 +39,6 @@ No separate production circuit revision was established in the checked sources. 
 ## Transistor
 - The manufacturer describes the fuzz engine as a **CMOS fuzz**, but the checked sources do not establish exact transistor or semiconductor part numbers.
 - Do not infer individual transistor types from the CMOS description.
-
 ## Diode
 - No exact diode type or part number was established from the checked sources.
 

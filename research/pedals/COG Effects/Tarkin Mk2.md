@@ -22,7 +22,6 @@
 ## Transistor
 - Four-transistor Green Russian-derived design.
 - Exact production transistor part numbers are not established.
-
 ## Diode / clipping
 - Internal switches change the clipping configuration or remove either clipping-diode stage.
 - Exact diode part numbers are not established. [1]

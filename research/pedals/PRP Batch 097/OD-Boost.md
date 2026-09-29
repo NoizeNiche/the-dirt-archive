@@ -17,7 +17,6 @@ OD-Boost combines the Black Cat OD-1 overdrive section with an independent clean
 
 ## Transistor
 - **Not reliably documented in the reviewed sources**
-
 ## Diode
 - **Not reliably documented in the reviewed sources**
 

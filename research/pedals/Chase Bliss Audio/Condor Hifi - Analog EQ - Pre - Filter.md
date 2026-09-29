@@ -18,7 +18,6 @@ Condor HiFi is a **redesigned** model, not a cosmetic finish of the original Con
 ## Transistor
 - No discrete transistor gain stage is established.
 - Exact additional active devices are not documented.
-
 ## Diode / clipping
 - Exact clipping/protection diode information is not documented.
 

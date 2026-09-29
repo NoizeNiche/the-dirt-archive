@@ -32,7 +32,6 @@ No formal numbered factory revision history was established.
 
 ## Transistor
 No exact-model transistor part number was established.
-
 ## Diode
 No exact-model diode specification was established.
 

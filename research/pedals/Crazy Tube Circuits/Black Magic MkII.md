@@ -28,7 +28,6 @@ The MkII introduced the assignable boost footswitch and refined the original JFE
 ## Transistor
 - **JFET gain stages:** documented.
 - Exact JFET part number: **not established**.
-
 ## Diode
 - Exact diode type or part number: **not established**.
 

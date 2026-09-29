@@ -29,7 +29,6 @@ Effects Database explicitly indexes **V1, V2, and V3**, but the checked page doe
 
 ## Transistor
 No exact-model transistor part number was established.
-
 ## Diode
 No exact-model diode specification was established.
 

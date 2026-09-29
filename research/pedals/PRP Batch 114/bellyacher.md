@@ -27,7 +27,6 @@ No numbered factory revision was verified.
 
 ## Transistor
 - Exact transistor/device: Not publicly documented.
-
 ## Diode
 - **Clipping:** Diode clipping and LED clipping are explicitly documented.
 - Exact diode part numbers: Not publicly documented.

@@ -35,7 +35,6 @@ The checked sources establish the SD-9M as an updated SD-9-family distortion ped
 
 ## Transistor
 - **Exact production transistor/device:** Not established in the exact-model sources reviewed.
-
 ## Diode
 - **Exact production clipping/rectification diode/device:** Not established in the exact-model sources reviewed.
 

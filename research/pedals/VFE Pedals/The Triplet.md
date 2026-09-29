@@ -22,7 +22,6 @@ Madbean Pedals (1) Manufacturer VFE Pedals Effect Type Original VFE Projects Yea
 ## Transistor
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

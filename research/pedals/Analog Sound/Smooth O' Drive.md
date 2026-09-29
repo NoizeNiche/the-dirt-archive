@@ -19,7 +19,6 @@ Smooth O' Drive is one of the five documented Analog Sound products listed by Ef
 
 ## Transistor
 - Exact transistor type not established.
-
 ## Diode
 - Exact diode type not established.
 

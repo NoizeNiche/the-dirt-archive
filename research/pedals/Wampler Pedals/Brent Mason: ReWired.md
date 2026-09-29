@@ -21,7 +21,6 @@ The Wampler Brent Mason ReWired is a versatile 2-channel Overdrive and Distortio
 ## Transistor
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

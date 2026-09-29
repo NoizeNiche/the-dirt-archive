@@ -32,7 +32,6 @@ MusicRadar describes Comet Effects as custom-made stompboxes built by Shane Broo
 
 ## Transistor
 - **Exact transistor/device:** Not publicly documented in the checked source.
-
 ## Diode
 - **Exact clipping diode/device:** Not publicly documented.
 

@@ -23,7 +23,6 @@ Kryptone is a modern Deep Trip interpretation of the first-generation Vox Tone B
 
 ## Transistor
 - Exact production transistor/device details were not established.
-
 ## Diode
 - Exact clipping/rectifier diode information was not established.
 

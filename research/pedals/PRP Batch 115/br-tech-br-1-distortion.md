@@ -19,7 +19,6 @@ No reliable production change sequence established.
 
 ## Transistor
 Exact transistor/device unknown.
-
 ## Diode
 Exact clipping diode/device unknown.
 

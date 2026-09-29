@@ -31,7 +31,6 @@ After two years of use, amukaT redesigned the circuit and layout for Ver.2 and m
 
 ## Transistor
 - Exact transistor/device part numbers are not publicly documented.
-
 ## Diode
 - Exact clipping diode/device is not publicly documented.
 

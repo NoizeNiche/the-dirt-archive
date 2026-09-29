@@ -34,7 +34,6 @@ No separate production circuit revision was established in the checked evidence.
 ## Transistor
 - JFET gain-stage architecture is documented.
 - Exact JFET part number: **not established**.
-
 ## Diode
 - Exact diode type or part number: **not established**.
 

@@ -28,7 +28,6 @@ No numbered factory revision was verified. The H.A.L.O. Jr. is documented as a s
 ## Transistor
 - **Technology:** Solid-state; the documented output is a discrete FET/bipolar circuit. [1]
 - **Exact transistor/device:** Not publicly documented for the main clipping stages.
-
 ## Diode
 - **Exact clipping diode/device:** Not publicly documented.
 

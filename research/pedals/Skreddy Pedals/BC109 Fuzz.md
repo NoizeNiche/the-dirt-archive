@@ -22,7 +22,6 @@ Circuits Components Effects 101 Effects and Chains Support Contact Policies How 
 ## Transistor
 - Documented terms in the verified sources: BC109, silicon transistors, Germanium Fuzz, BC239.
 - The archive records only the component information explicitly present in these sources.
-
 ## Diode
 - Documented terms in the verified sources: LED.
 - The archive records only the component information explicitly present in these sources.

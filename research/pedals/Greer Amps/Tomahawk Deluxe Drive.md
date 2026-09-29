@@ -26,7 +26,6 @@ The Tomahawk Deluxe Drive is a medium-gain, second-stage overdrive with a delibe
 ## Transistor
 - Exact production transistor/device information was not established in the checked sources.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the checked sources.
 - **Exact part:** Unknown.

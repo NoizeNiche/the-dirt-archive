@@ -30,7 +30,6 @@ No formal numbered factory revision sequence was established.
 
 ## Transistor
 The active gain stages are documented as **op-amp based**. Exact op-amp part numbers were not established. [1]
-
 ## Diode
 Effects Database explicitly describes **symmetrical silicon clipping**. Exact diode part numbers were not established. [1]
 

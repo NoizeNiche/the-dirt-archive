@@ -40,7 +40,6 @@ Concrete Sound Lab states that SLAB is hand-soldered, all transistor, and throug
 - **JFET preamp:** documented.
 - **Silicon bipolar output stage:** documented.
 - Exact individual JFET/bipolar transistor part numbers are not publicly specified in the manufacturer product description. [1]
-
 ## Diode
 - **Exact clipping diode/device:** Not publicly documented in the checked sources.
 

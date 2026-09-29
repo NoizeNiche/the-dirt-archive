@@ -18,7 +18,6 @@ Recent Effects Database research on the same Japanese DST-5 OEM platform places 
 
 ## Transistor
 - Exact active-device technology/part number is not documented in the reviewed Axtar sources.
-
 ## Diode
 - Exact clipping-device information is not publicly documented.
 

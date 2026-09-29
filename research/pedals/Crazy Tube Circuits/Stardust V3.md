@@ -22,7 +22,6 @@ Premier Guitar documents the V3 as adding **Bassman, Vibrolux Reverb, and Deluxe
 
 ## Transistor
 - Exact transistor type or part number: **not established**.
-
 ## Diode
 - Exact diode type or part number: **not established**.
 

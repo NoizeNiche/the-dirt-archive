@@ -17,7 +17,6 @@ Night of the Living Shred is a KHDK Electronics high-gain preamp pedal associate
 
 ## Transistor
 - **Exact production transistor/device:** Unknown.
-
 ## Diode
 - **Exact clipping/rectifier diode:** Unknown.
 

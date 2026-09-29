@@ -24,7 +24,6 @@ No numbered BYOC revision was verified.
 
 ## Transistor
 Exact transistor/device is not documented in the reviewed parts list.
-
 ## Diode
 - **Type:** Silicon signal diode.
 - **Devices:** 1N914 or 1N4148, four listed. [1]

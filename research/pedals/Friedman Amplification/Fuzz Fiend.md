@@ -21,7 +21,6 @@ You can further shape the tone of the Fuzz Fiend using the Bass, Midrange and Tr
 ## Transistor
 - Documented terms in the verified sources: germanium transistor, silicon transistors.
 - The archive records only the component information explicitly present in these sources.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

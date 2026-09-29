@@ -26,7 +26,6 @@ Natural Drive is an analog overdrive built around dynamics and expressiveness. E
 
 ## Transistor
 - Exact transistor type or part number: **not established**.
-
 ## Diode
 - **Germanium diodes:** documented.
 - Exact diode part number: **not established**.

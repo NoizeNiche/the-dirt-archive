@@ -25,8 +25,7 @@ Violet World is Wren and Cuff's recreation of the **violet-era Big Muff** family
 
 ## Transistor
 - Wren and Cuff documents **BC108C** transistors selected for this circuit.
-- The company explicitly notes that original Big Muff units did not use these transistors; they were chosen for the recreation because they worked well in this circuit.
-
+- The company explicitly notes that original units did not use these transistors; they were chosen for the recreation because they worked well in this circuit.
 ## Diode
 - Exact clipping/rectifier diode information was not established in the checked sources.
 - **Exact part:** Unknown.

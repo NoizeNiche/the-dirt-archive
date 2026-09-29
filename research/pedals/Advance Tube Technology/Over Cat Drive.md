@@ -29,7 +29,6 @@ The Red version is documented as a distinct color/character variant in contempor
 
 ## Transistor
 - **Exact transistor/device:** Not publicly documented.
-
 ## Diode
 - **Exact clipping diode/device:** Not publicly documented.
 

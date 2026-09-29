@@ -29,9 +29,7 @@ The model sits within the broader Gary Hurst / Electronic Sounds / CBS-Arbiter f
 
 ## Transistor
 No secure exact-model transistor specification was established from the checked sources.
-
 The archive therefore leaves the transistor field unassigned rather than importing a component value from the related Electronic Sounds UFO or Moreschi variants.
-
 ## Diode
 No secure exact-model diode specification was established from the checked sources.
 

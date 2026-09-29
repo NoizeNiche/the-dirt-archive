@@ -28,7 +28,6 @@ Anasounds later updated the Ego Driver to fit the FX Teacher product identity. T
 ## Transistor
 - **Technology:** Not established.
 - The official Ego Driver documentation focuses on the saturation/clipping stage and does not specify a discrete transistor type in the reviewed material.
-
 ## Diode
 - **Technology:** Silicon / mixed documented clipping devices.
 - Stock clipping: **2 × 1N914** silicon switching diodes.

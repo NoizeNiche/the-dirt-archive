@@ -20,7 +20,6 @@
 
 ## Transistor
 - Exact production transistor/device part number is not publicly documented.
-
 ## Diode / clipping
 - **SYM** provides selectable symmetrical/asymmetrical clipping behavior.
 - Exact diode part numbers are not documented. [1][2]

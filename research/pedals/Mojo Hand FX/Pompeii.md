@@ -21,7 +21,6 @@ The Pompeii is the second in Mojo Hand’s limited release “Future Vintage Ser
 ## Transistor
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

@@ -22,7 +22,6 @@ Inspired by the JEN Jumbo fuzz, which is one of our personal favorite vintage fu
 ## Transistor
 - Documented terms in the verified sources: germanium transistor, 2N5088, 2N5089, silicon transistors.
 - The archive records only the component information explicitly present in these sources.
-
 ## Diode
 - Documented terms in the verified sources: LED, silicon diode, 1N914.
 - The archive records only the component information explicitly present in these sources.

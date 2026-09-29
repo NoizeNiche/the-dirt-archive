@@ -17,7 +17,6 @@ The exact builder/model identity and distortion classification are secure, but t
 
 ## Transistor
 - Exact production device: **Unknown**.
-
 ## Diode / clipping
 - Exact clipping device: **Unknown**.
 

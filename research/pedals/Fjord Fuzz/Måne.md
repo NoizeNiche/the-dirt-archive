@@ -20,7 +20,6 @@ The documented design includes a two-voice fuzz section, two filter modes, level
 
 ## Transistor
 - **Exact production transistor/device:** Unknown for the specific archived unit.
-
 ## Diode
 - **Exact clipping/rectifier diode:** Unknown for the specific archived unit.
 

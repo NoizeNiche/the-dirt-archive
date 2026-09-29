@@ -31,7 +31,6 @@ Effects Database lists Ratortion 3 v2 separately and states that the v2 retains 
 ## Transistor
 - **Exact production transistor/device:** Not publicly documented.
 - **Important distinction:** MOSFET is a selectable voicing/clipping mode documented by the builder listing; it is not enough evidence to assign a specific transistor part number to the whole production circuit. [1]
-
 ## Diode
 - **Exact production clipping diode/device:** Not publicly documented.
 - Hard, soft, and no-clipping modes are documented, but the accessible production record does not identify the exact diode part(s). [1]

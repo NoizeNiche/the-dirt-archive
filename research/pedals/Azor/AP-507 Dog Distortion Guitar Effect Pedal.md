@@ -23,7 +23,6 @@ Azor's Dog Distortion is a compact distortion intended to cover a broad range fr
 
 ## Transistor
 - Exact transistor/device part numbers are **not publicly documented**.
-
 ## Diode / clipping
 - Exact clipping-diode arrangement and part numbers are **not publicly documented**.
 

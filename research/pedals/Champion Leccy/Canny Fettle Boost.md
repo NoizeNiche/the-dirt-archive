@@ -24,7 +24,6 @@ The two stages can be used separately or together, creating three practical comb
 - **Fettle:** JFET stage.
 - **Clart:** BJT stage.
 - Exact transistor part numbers are not established. [1]
-
 ## Diode / clipping
 - Exact diode/clipping-device part numbers are not publicly documented.
 

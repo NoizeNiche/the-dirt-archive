@@ -27,7 +27,6 @@ The Black Fortress started as an **HM-2-inspired bass distortion**. IdiotBox exp
 ## Transistor
 - Exact production semiconductor details were not established.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact clipping/rectifier diode information was not established.
 - **Exact part:** Unknown.

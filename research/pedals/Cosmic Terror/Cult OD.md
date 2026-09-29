@@ -18,7 +18,6 @@ Cult OD is Cosmic Terror's heavy reinterpretation of a Zendrive-style overdrive 
 
 ## Transistor
 - Exact transistor type or part number was not established.
-
 ## Diode
 - Exact diode type was not established.
 

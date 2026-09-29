@@ -30,7 +30,6 @@ No separate numbered CBS-Arbiter V1/V2 sequence was established from the checked
 ## Transistor
 - A surviving 1972 CBS/Arbiter example is documented with **2N3392 silicon transistors**. [2]
 - Other 1970s Arbiter Fuzz Face examples used silicon transistor families such as BC108-series devices, but the archive does not assign those as universal CBS-Arbiter specifications without unit-specific evidence. [2][3]
-
 ## Diode
 - **Factory diode type:** Not securely documented in the checked CBS-Arbiter sources.
 - The Fuzz Face circuit does not require a diode specification to identify this cataloged model, so no component value is invented here.

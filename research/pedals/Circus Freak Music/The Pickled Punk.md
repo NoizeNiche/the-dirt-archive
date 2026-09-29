@@ -30,7 +30,6 @@ No formal numbered factory revision sequence was established.
 
 ## Transistor
 The checked manufacturer/review sources establish an analog through-hole circuit but do not securely publish the discrete transistor complement.
-
 ## Diode
 No exact-model diode specification was established.
 

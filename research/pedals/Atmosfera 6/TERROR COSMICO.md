@@ -24,7 +24,6 @@ The pedal's two-knob core is intentionally simple, with the mode switch supplyin
 - **Technology:** Germanium.
 - **Devices:** Hand-selected NOS Soviet germanium transistors.
 - Exact transistor numbers are not consistently published in the reviewed exact-model sources. [1][2]
-
 ## Diode / clipping
 - **Technology:** Germanium diode.
 - An independent 2023 review/demo explicitly describes **one NOS germanium diode** in the build.

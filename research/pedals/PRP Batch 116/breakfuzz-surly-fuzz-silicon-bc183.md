@@ -28,7 +28,6 @@ No separate numbered revision was verified.
 ## Transistor
 - **Technology:** Silicon.
 - **Device:** NOS BC183, hand selected. [1]
-
 ## Diode
 Exact clipping diode/device not documented.
 

@@ -21,7 +21,6 @@ The surviving official history does not preserve a complete control map or schem
 ## Transistor
 - **Unknown.**
 - No exact active-device information established in the surviving official documentation.
-
 ## Diode / clipping
 - **Unknown.**
 - User customization is documented, but the factory clipping implementation is not.

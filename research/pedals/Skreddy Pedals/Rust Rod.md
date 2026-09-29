@@ -22,7 +22,6 @@ Manual The Skreddy Pedals™ Rust Rod is a new take on the classic rams head fuz
 ## Transistor
 - Documented terms in the verified sources: BC239.
 - The archive records only the component information explicitly present in these sources.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

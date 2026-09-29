@@ -22,7 +22,6 @@ Analog Cabinet Emulator microMIDI Control Minimix II Buffer ISO Line Out SUHR RU
 ## Transistor
 - Documented terms in the verified sources: 2N5088.
 - The archive records only the component information explicitly present in these sources.
-
 ## Diode
 - Documented terms in the verified sources: 1N914.
 - The archive records only the component information explicitly present in these sources.

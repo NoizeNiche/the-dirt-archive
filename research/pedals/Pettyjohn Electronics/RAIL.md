@@ -24,7 +24,6 @@ The RAIL is a full-range fuzz from Pettyjohn Electronics and the first release i
 
 ## Transistor
 - **Exact production transistor/device:** Not established in the reviewed documentation.
-
 ## Diode
 - **Exact clipping/rectification diode:** Not established in the reviewed documentation.
 

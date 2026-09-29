@@ -32,7 +32,6 @@ The VS-XO is a true dual-overdrive pedal that places two independent overdrive c
 
 ## Transistor
 - **Exact production transistor/device:** not specified in the manufacturer documentation reviewed.
-
 ## Diode
 - The manual documents three clipping choices: no diodes, LED clipping, and signal-diode clipping.
 - Exact production diode part numbers are not specified.

@@ -22,7 +22,6 @@ Posted on 20th December 2023 19th December 2023 by Stuart (Belated) First Impres
 ## Transistor
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

@@ -27,7 +27,6 @@ The design is therefore documented as a germanium fuzz inspired by the Buzzaroun
 ## Transistor
 - **Documented device class:** germanium transistors. [1][2]
 - **Exact production transistor part numbers:** Unknown.
-
 ## Diode
 - **Exact production clipping diode:** Unknown.
 

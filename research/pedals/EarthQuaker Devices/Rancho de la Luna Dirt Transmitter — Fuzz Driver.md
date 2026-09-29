@@ -21,7 +21,6 @@ But they also have the top-end grind typical of silicon-based fuzz pedals, which
 ## Transistor
 - Documented terms in the verified sources: silicon transistors.
 - The archive records only the component information explicitly present in these sources.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

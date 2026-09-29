@@ -46,7 +46,6 @@ No distinct circuit revision was established for the “Orama - Dual Drive” ca
 ## Transistor
 - JFET circuitry is explicitly documented in the AMP section.
 - Exact JFET part numbers were not established from reliable sources.
-
 ## Diode
 - Exact diode type or part number: **not established**.
 

@@ -26,7 +26,6 @@ The Necromancer is a Super Fuzz-style fuzz with a switchable EQ section. Dwarfcr
 ## Transistor
 - Exact production transistor/device information was not established in the checked sources.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established.
 - **Exact part:** Unknown.

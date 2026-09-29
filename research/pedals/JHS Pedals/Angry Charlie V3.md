@@ -28,7 +28,6 @@ The Angry Charlie V3 is a high-gain British amplifier-style overdrive/distortion
 ## Transistor
 - Exact production semiconductor details were not established in the checked sources.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact clipping-diode part was not established in the checked sources.
 - **Exact part:** Unknown.

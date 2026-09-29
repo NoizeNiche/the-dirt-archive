@@ -27,7 +27,6 @@ DD-1 is a dual-distortion design from Cranetortoise by Albit. The documented arc
 
 ## Transistor
 - Exact transistor type or part number: **not established**.
-
 ## Diode
 - Exact diode type or part number: **not established**.
 

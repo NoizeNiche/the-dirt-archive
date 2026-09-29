@@ -22,7 +22,6 @@ The Fuzz Cream is a germanium **Fuzz Face-style** fuzz with additional circuit t
 ## Transistor
 - **BC183** germanium transistor terminology is documented in the checked source set.
 - Exact production complement beyond that documented device is not established.
-
 ## Diode
 - Exact clipping/rectifier diode information was not established in the checked sources.
 - **Exact part:** Unknown.

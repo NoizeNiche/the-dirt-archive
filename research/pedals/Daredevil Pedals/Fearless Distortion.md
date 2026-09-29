@@ -22,7 +22,6 @@ Daredevil's current material presents the Fearless distortion circuit as part of
 ## Transistor
 - Exact production transistor/device information was not established in the reviewed source.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact production clipping diode information was not established in the reviewed source.
 - **Exact part:** Unknown.

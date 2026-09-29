@@ -29,7 +29,6 @@ SPACE/DIE is the documented functional variation; no numbered hardware revision 
 ## Transistor
 - **Technology:** Green-Ringer-derived and Elektra-derived circuit concepts.
 - **Exact device:** Unknown.
-
 ## Diode
 - **Type:** Exact production devices are not publicly documented.
 - **Exact part:** Unknown.

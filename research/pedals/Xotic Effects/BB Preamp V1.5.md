@@ -22,7 +22,6 @@ Xotic Effects's BB Preamp V1.5 is cataloged as an overdrive pedal.
 ## Transistor
 - Documented terms in the verified sources: ac02-441e-9406-ea8f654e9255.
 - The archive records only the component information explicitly present in these sources.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

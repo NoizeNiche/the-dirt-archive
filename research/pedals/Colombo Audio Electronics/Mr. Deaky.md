@@ -32,7 +32,6 @@ No documented numbered Mr. Deaky hardware revision sequence was established.
 ## Transistor
 - **Original Deacy reference:** Colombo describes two germanium driver transistors in the original amplifier.
 - **Mr. Deaky exact transistor/device:** Not publicly documented in the checked sources. [1]
-
 ## Diode
 - **Exact Mr. Deaky clipping diode/device:** Not publicly documented in the checked sources.
 

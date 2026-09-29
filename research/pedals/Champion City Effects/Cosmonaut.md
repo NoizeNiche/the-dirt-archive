@@ -18,7 +18,6 @@
 - **KT3102E / KT3102EM** Russian transistors.
 - KT3102E devices are documented as selected and gain-matched by the builder. [1]
 - This is direct builder-level component evidence.
-
 ## Diode / clipping
 - **KD521** Russian diodes.
 - The builder documents these as matched. [1]

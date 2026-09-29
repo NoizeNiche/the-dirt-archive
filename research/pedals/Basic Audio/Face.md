@@ -24,7 +24,6 @@ Basic Audio's Face is its own Germanium interpretation of the Fuzz Face family, 
 ## Transistor
 - **Technology:** Germanium.
 - Exact transistor part number, gain grading and leakage are **not publicly documented**.
-
 ## Diode / clipping
 - Exact clipping-device type and part number are **not publicly documented**.
 

@@ -34,7 +34,6 @@ Effects Database describes the family as compact molded-plastic Japanese OEM ped
 ## Transistor
 - **Documented TDR-5 family device:** 2SC1815 / C1815 discrete transistors. [1][2]
 - The archive treats this as family-level evidence and does not claim every Columbus specimen has an identical transistor batch.
-
 ## Diode
 - **Exact clipping diode/device:** Not publicly documented in the checked sources.
 

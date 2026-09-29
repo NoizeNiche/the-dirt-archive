@@ -21,7 +21,6 @@ Effects Database describes the historical TB-1 as a recreation of the beefier tr
 
 ## Transistor
 - Exact transistor/device part numbers are **not publicly documented** in the reviewed sources.
-
 ## Diode / clipping
 - Exact clipping/protection diode implementation is **not publicly documented**.
 

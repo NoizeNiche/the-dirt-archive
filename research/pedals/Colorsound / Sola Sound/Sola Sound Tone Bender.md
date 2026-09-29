@@ -33,7 +33,6 @@ Sola Sound produced the original British Tone Bender family for Musical Exchange
 ## Transistor
 - Device count and type vary substantially by generation.
 - Early examples include germanium transistor circuits, while later generations moved to silicon implementations. [1][2]
-
 ## Diode
 - Exact clipping diode/device varies by generation and is not asserted for the generic family record.
 

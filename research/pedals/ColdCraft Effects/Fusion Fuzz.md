@@ -29,7 +29,6 @@ Fusion is an expansion of the Fiesta Fuzz MkII concept. ColdCraft's historical p
 - JFET input buffer.
 - BJT output buffer.
 Exact part numbers were not established. [2]
-
 ## Diode
 No exact-model diode specification was established.
 

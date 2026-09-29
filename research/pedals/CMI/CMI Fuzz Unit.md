@@ -16,7 +16,6 @@ Effects Database groups the CMI Fuzz Unit with other OEM-branded fuzzes includin
 ## Transistor
 - **Technology:** Silicon.
 - Exact CMI-unit transistor part numbers are not established by the reviewed source.
-
 ## Diode / clipping
 - Exact diode/device part numbers are not established.
 

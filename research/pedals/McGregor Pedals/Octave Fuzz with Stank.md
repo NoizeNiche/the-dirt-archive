@@ -21,7 +21,6 @@ The Octave Fuzz with Stank is a rectified octave-up fuzz loosely based on the Oc
 
 ## Transistor
 - Exact production semiconductor complement was not established.
-
 ## Diode
 - Rectification is central to the octave circuit, but exact production diode parts were not established.
 

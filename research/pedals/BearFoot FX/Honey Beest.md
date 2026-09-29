@@ -23,7 +23,6 @@ Effects Database describes Honey Beest as an expanded Honey Bee circuit. Its def
 ## Transistor
 - The available trace discussion indicates field-effect gain stages, but this is not an official factory BOM.
 - **Exact production transistor part numbers:** Not publicly established.
-
 ## Diode / clipping
 - Exact clipping/protection device and part number are not publicly documented.
 

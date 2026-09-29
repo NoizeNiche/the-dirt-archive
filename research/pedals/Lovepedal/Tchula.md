@@ -23,7 +23,6 @@ The Tchula was originally built for Josh Smith as a custom-tuned two-stage COT50
 
 ## Transistor
 - The COT50 lineage is associated with single-transistor boost/drive stages, but exact production device numbers for every Tchula are not established.
-
 ## Diode
 - Exact clipping-device information was not established.
 

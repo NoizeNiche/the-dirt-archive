@@ -29,7 +29,6 @@ No numbered factory revision was verified in the checked sources.
 ## Transistor
 - **Technology:** Discrete transistor circuit; exact stock semiconductor type is not securely documented in the factory-style source material checked.
 - **Exact device:** Unknown.
-
 ## Diode
 - **Type:** Exact clipping-diode arrangement is not publicly documented.
 

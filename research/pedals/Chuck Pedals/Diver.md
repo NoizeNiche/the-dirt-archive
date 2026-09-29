@@ -27,7 +27,6 @@ No reliable numbered production revision history was established.
 
 ## Transistor
 The exact-model listing describes **mid-gain transistors** but does not publish exact part numbers. [2]
-
 ## Diode
 No exact-model diode specification was established.
 

@@ -25,7 +25,6 @@ The Octane 3 is a hand-built fuzz/upper-octave effect with a distinctive ring-mo
 ## Transistor
 - ZVEX documentation and historical catalog material establish the circuit as a fuzz/octave design, but the exact production transistor complement was not established here.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - The checked historical material references a germanium diode, but it does not establish a complete production clipping bill of materials.
 - **Exact clipping part:** Unknown.

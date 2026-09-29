@@ -22,7 +22,6 @@ Related products Sale Boss WL-20 Guitar Wireless System w/Cable Tone Simulation 
 ## Transistor
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

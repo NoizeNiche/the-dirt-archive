@@ -24,7 +24,6 @@ Destroyer is an analog distortion designed to cover a broad range from clean/low
 
 ## Transistor
 - Exact transistor/device part numbers are not publicly documented.
-
 ## Diode
 - Exact clipping diode/device is not publicly documented.
 

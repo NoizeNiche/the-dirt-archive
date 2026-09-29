@@ -23,7 +23,6 @@ The SM-9 Pro+ is a high-gain distortion pedal from Maxon's 9-Series family, mark
 
 ## Transistor
 - **Exact production transistor/device:** Not established in the reviewed documentation.
-
 ## Diode
 - **Exact clipping/rectification diode:** Not established in the reviewed documentation.
 

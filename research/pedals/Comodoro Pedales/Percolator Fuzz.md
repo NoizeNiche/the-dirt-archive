@@ -31,7 +31,6 @@ The design intentionally retains the original Harmonic Percolator's two-control 
 ## Transistor
 - **Documented device:** **2N404A germanium transistor**. [1]
 - Comodoro states that this is the same germanium transistor type used in the original reference and now discontinued.
-
 ## Diode
 - **Exact clipping diode/device:** Not publicly documented in the checked sources.
 

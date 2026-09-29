@@ -31,7 +31,6 @@ The documented production change is primarily enclosure-related after the origin
 
 ## Transistor
 - **Exact production transistor/device:** Not publicly documented in the official material reviewed.
-
 ## Diode
 - **Type:** New Old Stock Philips OA200.
 - **Use:** Aclam identifies these as the same diode type used in the original VOX UL series. [1][2]

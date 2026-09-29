@@ -21,7 +21,6 @@ AWOL describes Virus as a silicon fuzz whose entire external control scheme is a
 ## Transistor
 - **Technology:** Silicon fuzz.
 - Exact transistor part number is not publicly documented.
-
 ## Diode / clipping
 - Exact clipping-device type and part number are not publicly documented.
 

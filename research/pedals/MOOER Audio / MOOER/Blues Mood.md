@@ -25,7 +25,6 @@ The manufacturer describes the voicing around a vintage American amp tone-stack 
 
 ## Transistor
 - **Exact production transistor/device:** Unknown.
-
 ## Diode
 - **Exact production clipping diode:** Unknown.
 

@@ -24,7 +24,6 @@ Fuzz Elements Earth is Maxon's recreation of the sound of a vintage Ram's Head-e
 ## Transistor
 - Exact production transistor/device details were not established.
 - Historical source material identifies the design as a germanium-oriented fuzz, but that does not establish every production component.
-
 ## Diode
 - Exact clipping/rectifier diode information was not established.
 

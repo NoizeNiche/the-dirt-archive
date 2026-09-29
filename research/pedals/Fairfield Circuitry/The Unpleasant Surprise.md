@@ -25,7 +25,6 @@ The Unpleasant Surprise combines fuzz with a gate-like onset control. The circui
 
 ## Transistor
 - Exact production semiconductor details were not established.
-
 ## Diode
 - LED indicator is documented; exact clipping-device information was not established.
 

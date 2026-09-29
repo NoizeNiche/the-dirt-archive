@@ -29,7 +29,6 @@ No reliable numbered V1/V2 production sequence was verified. The archive keeps T
 ## Transistor
 - **Technology:** Exact transistor/device information is not publicly established in the reliable builder material checked.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - **Type:** Exact production clipping/rectification device was not publicly established.
 - **Exact part:** Unknown.

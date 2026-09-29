@@ -21,7 +21,6 @@ The Blue Collar Mini is the compact version of Menatone's Blue Collar overdrive.
 
 ## Transistor
 - Exact production semiconductor complement was not established.
-
 ## Diode
 - Exact clipping-device information was not established.
 

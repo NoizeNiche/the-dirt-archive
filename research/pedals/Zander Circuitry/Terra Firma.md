@@ -20,7 +20,6 @@ The Terra Firma is based around the LM386 power amp chip which offers the perfec
 ## Transistor
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Documented terms in the verified sources: LED.
 - The archive records only the component information explicitly present in these sources.

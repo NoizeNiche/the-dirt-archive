@@ -33,7 +33,6 @@ Comodoro documents the model as hand assembled with a JFET op-amp buffer on the 
 
 ## Transistor
 - **JFET buffer:** documented at the signal input, but the exact device part number is not stated in the checked sources. [2]
-
 ## Diode
 - **Clipping options:** LED clipping devices and **1N4148/4148 silicon diodes**, plus a no-clipping position. [1]
 

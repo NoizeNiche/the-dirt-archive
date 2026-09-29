@@ -25,7 +25,6 @@ The **Octave Clang V2** is the revised version of Death By Audio's octave-up fuz
 ## Transistor
 - Exact production transistor/device information was not established in the checked sources.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the checked sources.
 - **Exact part:** Unknown.

@@ -30,7 +30,6 @@ The exact external knob labels are not fully preserved by the reviewed source.
 
 ## Transistor
 - Exact production transistor/device part numbers are not publicly documented.
-
 ## Diode / clipping
 - **Four clipping arrangements:** open, silicon, germanium, LED.
 - Exact semiconductor part numbers are not established. [1]

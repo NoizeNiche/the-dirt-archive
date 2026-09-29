@@ -20,7 +20,6 @@ The Mosferatu is an Alfonso Hermida/Lovepedal overdrive developed alongside the 
 
 ## Transistor
 - Exact production transistor/device information was not established for the family record.
-
 ## Diode
 - LED indicator is documented on surviving examples; exact clipping-device information was not established.
 

@@ -21,7 +21,6 @@ Skreddy Pedals's Hybrid Fuzz Driver is cataloged as a fuzz / overdrive pedal.
 ## Transistor
 - Documented terms in the verified sources: silicon transistor, BC109C, germanium transistor, AC127, BC109, BC239.
 - The archive records only the component information explicitly present in these sources.
-
 ## Diode
 - Documented terms in the verified sources: Led.
 - The archive records only the component information explicitly present in these sources.

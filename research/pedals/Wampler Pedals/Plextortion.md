@@ -22,7 +22,6 @@ The original Wampler Plextortion is a British-voiced distortion pedal designed a
 ## Transistor
 - The checked sources do not establish a single version-specific production transistor bill of materials that can be stated confidently for the entire original run.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - The checked sources do not establish a complete version-specific clipping-diode bill of materials.
 - **Exact part:** Unknown.

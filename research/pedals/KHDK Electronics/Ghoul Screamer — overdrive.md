@@ -20,7 +20,6 @@ The Ghoul Screamer is KHDK's modified Tube Screamer-style overdrive, built aroun
 
 ## Transistor
 - Exact production transistor/device information was not established.
-
 ## Diode
 - Exact clipping/rectifier diode information was not established.
 

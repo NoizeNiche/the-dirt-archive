@@ -19,7 +19,6 @@ The OD-1X is a digitally assisted BOSS overdrive built around the company's Mult
 
 ## Transistor
 - Individual production transistor part numbers are not publicly specified by BOSS.
-
 ## Diode
 - Individual production diode part numbers are not publicly specified by BOSS.
 

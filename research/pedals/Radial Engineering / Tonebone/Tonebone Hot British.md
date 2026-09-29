@@ -21,7 +21,6 @@ Real 12AX7 tube for warm natural tone Powerful EQ for extreme tonal flexibility 
 ## Transistor
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

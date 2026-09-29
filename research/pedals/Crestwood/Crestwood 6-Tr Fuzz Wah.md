@@ -30,7 +30,6 @@ The surviving documentation establishes the Crestwood 6-Tr as a brand variant of
 ## Transistor
 - **Technology:** The associated 6-Tr circuit is a six-transistor fuzz design. [1]
 - **Exact transistor/device:** Not reliably established for the Crestwood-branded unit.
-
 ## Diode
 - **Type:** Exact production diode details were not established for the Crestwood-branded unit.
 - **Exact part:** Unknown.

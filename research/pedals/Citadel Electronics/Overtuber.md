@@ -32,7 +32,6 @@ No formal numbered factory revision sequence was established.
 
 ## Transistor
 The core preamp stage is tube based, centered on an **ECC83 / 12AX7**. No discrete transistor complement was established. [2]
-
 ## Diode
 No exact-model diode specification was established.
 

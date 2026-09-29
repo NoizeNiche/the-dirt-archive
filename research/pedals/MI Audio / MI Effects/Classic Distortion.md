@@ -28,7 +28,6 @@ The verified evidence establishes the Classic Distortion as a distinct MI Audio 
 
 ## Transistor
 - **Exact production transistor/device:** Unknown.
-
 ## Diode
 - **Exact production clipping diode:** Unknown.
 

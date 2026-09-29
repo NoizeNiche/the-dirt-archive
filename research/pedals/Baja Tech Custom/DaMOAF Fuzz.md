@@ -29,8 +29,7 @@ The “DaMOAF” name is derived from “Da Mother Of All Da Fuzz” in historic
 
 ## Transistor
 - Exact transistor/device part numbers are **not publicly documented** in the reviewed sources.
-- No transistor technology is inferred from the Big Muff lineage.
-
+- No transistor technology is inferred from the lineage.
 ## Diode / clipping
 - Exact clipping diode/device part numbers are **not publicly documented**.
 

@@ -23,7 +23,6 @@ VOX VFZ-1 Fuzz Pedal Pro Gear Advisers Chat
 ## Transistor
 - Documented terms in the verified sources: silicon transistors, BC108.
 - The archive records only the component information explicitly present in these sources.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

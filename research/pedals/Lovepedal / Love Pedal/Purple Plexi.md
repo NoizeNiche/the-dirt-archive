@@ -18,7 +18,6 @@ Purple Plexi is a British-style overdrive designed around Plexi/Marshall-type br
 
 ## Transistor
 - Exact production semiconductor details were not established.
-
 ## Diode
 - Exact clipping-device information was not established.
 

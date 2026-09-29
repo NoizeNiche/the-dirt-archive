@@ -21,7 +21,6 @@ The 1962 Overdrive is a Keeley drive designed around the sound and response of v
 
 ## Transistor
 - Exact production transistor/device information was not established.
-
 ## Diode
 - Exact clipping/rectifier diode information was not established.
 

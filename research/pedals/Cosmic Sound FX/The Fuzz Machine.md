@@ -21,7 +21,6 @@ No distinct factory versions or documented circuit revisions were established in
 ## Transistor
 - **Silicon transistor/fuzz family:** documented at the family/category level.
 - Exact transistor type or part number: **not established**.
-
 ## Diode
 - Exact diode type or part number: **not established**.
 

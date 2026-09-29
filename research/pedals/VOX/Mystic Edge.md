@@ -20,9 +20,8 @@ The Mystic Edge valve distortion pedal offers the chime and midrange of the VOX 
 - No specific factory version changes were established in the verified evidence packet.
 
 ## Transistor
-- Documented terms in the verified sources: AC30, AC30-style.
+- Documented terms in the verified sources, -style.
 - The archive records only the component information explicitly present in these sources.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

@@ -23,7 +23,6 @@ Surviving Guitar Center and Musician's Friend records identify an **Azur FUZZ Ef
 
 ## Transistor
 - Exact transistor/device part numbers are **not publicly documented**.
-
 ## Diode / clipping
 - Exact clipping-diode arrangement and part numbers are **not publicly documented**.
 

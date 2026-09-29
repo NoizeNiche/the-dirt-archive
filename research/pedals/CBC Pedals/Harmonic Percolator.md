@@ -21,7 +21,6 @@ CBC's builder record places the company among handwired recreators of vintage ef
 ## Transistor
 - **CBC-specific transistor type/part number:** Unknown.
 - Do not import historical Interfax part numbers as CBC factory specifications.
-
 ## Diode / clipping
 - **CBC-specific diode type/part number:** Unknown.
 

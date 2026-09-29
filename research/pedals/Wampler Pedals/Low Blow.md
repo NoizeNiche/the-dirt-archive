@@ -22,7 +22,6 @@ By liam-carter June 13, 2026 The Wampler Low Blow is a high-headroom, transparen
 ## Transistor
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Documented terms in the verified sources: LEDs, LED.
 - The archive records only the component information explicitly present in these sources.

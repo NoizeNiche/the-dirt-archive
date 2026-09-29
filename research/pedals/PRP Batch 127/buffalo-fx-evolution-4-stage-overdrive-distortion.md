@@ -27,7 +27,6 @@ No reliable numbered production revision sequence established.
 ## Transistor
 - **Technology:** Mixed silicon/germanium components.
 - Exact device types: Not publicly documented in the surviving product description.
-
 ## Diode
 - Exact clipping diode/device: Not publicly documented.
 

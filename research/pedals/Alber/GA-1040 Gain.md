@@ -28,7 +28,6 @@ No numbered factory revision was documented. The related zinc and plastic models
 
 ## Transistor
 - **Exact transistor/device:** Not publicly documented in the accessible exact-model evidence.
-
 ## Diode
 - **Exact clipping diode/device:** Not publicly documented in the accessible exact-model evidence.
 

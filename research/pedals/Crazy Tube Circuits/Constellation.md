@@ -33,11 +33,10 @@ The documented production change occurred in summer 2019, when the original Valv
 ## Transistor
 - Three selected **NOS germanium transistors** are used.
 - Version-specific documented devices:
-  - **OC45:** Valvo Black Glass OC45.
-  - **OC41:** Philips Black Glass OC41.
-  - **CV7003 edition:** Texas Instruments CV7003, military-spec OC44 family.
+- **OC45:** Valvo Black Glass OC45.
+- **OC41:** Philips Black Glass OC41.
+- **CV7003 edition:** Texas Instruments CV7003, military-spec OC44 family.
 - Exact individual transistor matching values are not established by the checked sources.
-
 ## Diode
 - Exact diode type or part number: **not established**.
 

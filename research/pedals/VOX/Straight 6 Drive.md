@@ -21,7 +21,6 @@ read more Specifications Product Downloads Click here Straight 6 OverdriveDownlo
 ## Transistor
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

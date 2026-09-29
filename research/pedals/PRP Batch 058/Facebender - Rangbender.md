@@ -29,7 +29,6 @@ The exact control set depends on the build:
 - The builder offers multiple transistor options, including classic, low- and high-gain choices.
 - Exact transistor part numbers are **build-dependent** and are not established for the generic family listing. [1]
 - The historical prototype is described as loaded with germanium transistors, but its exact device part numbers are not given. [2]
-
 ## Diode / clipping
 - Exact clipping diode/device part numbers are not publicly documented in the reviewed Facebender / Rangebender materials.
 - No diode material is inferred from the transistor technology.

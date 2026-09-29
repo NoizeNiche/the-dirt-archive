@@ -41,7 +41,6 @@ No separate production circuit revision was established in the checked sources. 
 ## Transistor
 - The checked sources identify multiple clipping technologies used by the VOICE section, but they do not establish exact transistor part numbers.
 - Do not infer a specific germanium or silicon transistor type from the voice descriptions alone.
-
 ## Diode
 - No exact diode type or part number was established from the checked sources.
 

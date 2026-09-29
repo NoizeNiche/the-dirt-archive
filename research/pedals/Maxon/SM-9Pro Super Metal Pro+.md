@@ -20,7 +20,6 @@ The SM-9 Pro+ Super Metal was designed specifically for high-gain metal distorti
 
 ## Transistor
 - Exact production semiconductor complement was not established.
-
 ## Diode
 - Exact clipping/rectifier diode information was not established.
 

@@ -28,7 +28,6 @@ No numbered factory revision sequence was established from the accessible source
 
 ## Transistor
 - **Exact transistor/device:** Not publicly documented.
-
 ## Diode
 - **Exact clipping diode/device:** Not publicly documented.
 

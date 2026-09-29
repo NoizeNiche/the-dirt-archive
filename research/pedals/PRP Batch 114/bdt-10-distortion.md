@@ -20,7 +20,6 @@ No reliable revision sequence or circuit change was documented.
 
 ## Transistor
 - Exact transistor/device: Unknown.
-
 ## Diode
 - Exact clipping diode/device: Unknown.
 

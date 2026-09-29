@@ -24,7 +24,6 @@ The HANAMI is a germanium fuzz designed as a sonic successor to ThorpyFX's Boney
 ## Transistor
 - Germanium transistor devices are documented for the design.
 - **Exact transistor part number:** Unknown.
-
 ## Diode
 - Germanium diode terminology appears in the checked source set.
 - **Exact diode part number:** Unknown.

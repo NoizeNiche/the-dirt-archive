@@ -21,7 +21,6 @@ The Foxrox Hot Silicon Fuzz is based on the NPN Silicon FuzzFace.
 ## Transistor
 - Documented terms in the verified sources: BC109C, silicon transistors.
 - The archive records only the component information explicitly present in these sources.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

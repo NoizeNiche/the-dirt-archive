@@ -24,7 +24,6 @@ Gold Mine is the highest-gain member of MESA/Boogie's Cleo/DynaPlex/Gold Mine dr
 
 ## Transistor
 - Exact production semiconductor details were not established.
-
 ## Diode
 - Exact clipping/rectifier diode information was not established.
 

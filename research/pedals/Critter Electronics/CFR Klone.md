@@ -35,7 +35,6 @@ The CFR has had documented production changes while retaining its parent identit
 ## Transistor
 - **Technology:** Op-amp based Klon-style drive with an internal charge pump. [1][4]
 - **Exact transistor/device:** Not applicable to the primary gain stage.
-
 ## Diode
 - **Type:** Later CFR documentation identifies **1N34A** diodes and a selectable extra clipping-diode path. [4]
 - **Exact standard clipping set:** The accessible documentation does not fully specify every clipping device used in every CFR production generation.

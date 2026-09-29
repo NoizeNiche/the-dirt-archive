@@ -28,7 +28,6 @@ No formal numbered factory revision history was established.
 
 ## Transistor
 No exact transistor part number was published. The gain stage is op-amp based. [1]
-
 ## Diode
 The manufacturer specifies **symmetrical clipping with silicon diodes**, without publishing exact part numbers. [1]
 

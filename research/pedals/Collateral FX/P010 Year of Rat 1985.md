@@ -30,7 +30,6 @@ The archive target is specifically the 1985 Whiteface form rather than a generic
 
 ## Transistor
 The gain stage is centered on the **Motorola LM308 op-amp**. [1]
-
 ## Diode
 No exact diode part number was published.
 

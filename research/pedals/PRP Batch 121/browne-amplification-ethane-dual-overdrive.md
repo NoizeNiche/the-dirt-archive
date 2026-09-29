@@ -25,7 +25,6 @@ The tracker also contains the spelling/hyphen variant **Ethane - Dual Overdrive*
 
 ## Transistor
 Exact active devices not publicly documented.
-
 ## Diode
 Asymmetrical clipping is documented on the Gritador side, but exact diode parts are not specified. [1]
 

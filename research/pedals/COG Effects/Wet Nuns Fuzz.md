@@ -24,7 +24,6 @@ Each channel has:
 ## Transistor
 - Muff-family transistor stages are part of the Tarkin-derived architecture.
 - Exact production transistor part numbers are not established.
-
 ## Diode / clipping
 - Exact diode part numbers are not established.
 

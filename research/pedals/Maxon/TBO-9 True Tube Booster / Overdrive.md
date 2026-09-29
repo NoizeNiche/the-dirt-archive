@@ -30,7 +30,6 @@ Maxon describes the TBO-9 as a clean booster/overdrive with a real tube gain sta
 
 ## Transistor
 - **Exact production transistor/device:** Not established in the verified manufacturer material.
-
 ## Diode
 - **Documented clipping function:** feedback-loop clipping plus a pair of diodes to ground. [1]
 - **Exact production diode part number:** Unknown.

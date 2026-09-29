@@ -20,7 +20,6 @@ Bjorn Juhl's archive dates the Honey Bee to **December 2002**. The design was in
 
 ## Transistor
 - Exact production transistor/device part numbers are not publicly documented.
-
 ## Diode / clipping
 - Exact clipping/protection arrangement is not publicly documented.
 

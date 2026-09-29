@@ -28,7 +28,6 @@ The Bass BB Preamp V1.5 is a bass-oriented boost/overdrive and preamp derived fr
 ## Transistor
 - Exact production semiconductor details were not established in the checked sources.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact clipping/rectifier diode information was not established in the checked sources.
 - **Exact part:** Unknown.

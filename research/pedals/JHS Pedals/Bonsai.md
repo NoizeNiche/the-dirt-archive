@@ -40,7 +40,6 @@ Other controls:
 ## Transistor
 - Exact production semiconductor details were not established in the checked sources.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - The Bonsai reproduces multiple historical clipping arrangements, but JHS does not publish a complete device-level bill of materials for all nine modes.
 - **Exact clipping-device part numbers:** Unknown.

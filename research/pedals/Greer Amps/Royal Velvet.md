@@ -30,7 +30,6 @@ The Royal Velvet is a Class-A British-style drive and preamp from Greer Amps. Gr
 ## Transistor
 - The checked sources emphasize the transformer/Class-A architecture but do not publish a complete transistor/device list.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact clipping/rectifier diode information was not established in the checked sources.
 - **Exact part:** Unknown.

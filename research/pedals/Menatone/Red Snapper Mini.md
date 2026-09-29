@@ -23,7 +23,6 @@ The Red Snapper Mini is the compact version of Menatone's classic three-knob Red
 
 ## Transistor
 - Exact production semiconductor complement was not established.
-
 ## Diode
 - Exact clipping-device information was not established.
 

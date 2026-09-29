@@ -13,7 +13,6 @@ Dynamite DM2 combines a compressor and transparent overdrive. BSQ describes a wa
 
 ## Transistor
 Exact device not publicly documented.
-
 ## Diode
 Exact clipping device not publicly documented.
 

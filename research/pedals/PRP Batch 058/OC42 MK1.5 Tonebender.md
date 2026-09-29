@@ -22,7 +22,6 @@ Arcane Analog's documented OC42 MK1.5 is a historically scoped Tone Bender build
 ## Transistor
 - **3 × NOS Mullard-branded OC42 germanium transistors:** Verified for this documented run. [1]
 - Individual transistor gain/leakage measurements are not published.
-
 ## Diode / clipping
 - Exact clipping diode/device is not publicly documented for this specific run.
 - No diode material is inferred from the OC42 transistor designation.

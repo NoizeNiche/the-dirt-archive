@@ -23,7 +23,6 @@ The archive records these as design references from the builder, not as proof of
 
 ## Transistor
 - Exact production transistor/device part numbers are not publicly documented.
-
 ## Diode / clipping
 - Exact clipping/protection diode type and part number are not publicly documented.
 

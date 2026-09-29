@@ -33,7 +33,6 @@ No complete circuit revision history was established from the checked sources.
 ## Transistor
 - **JFET architecture:** explicitly documented by the builder and independent coverage.
 - Exact JFET part number: **not established**.
-
 ## Diode
 - Exact diode type or part number: **not established**.
 

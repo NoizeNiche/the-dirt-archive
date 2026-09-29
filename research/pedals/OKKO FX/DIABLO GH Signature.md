@@ -19,7 +19,6 @@ The Diablo GH Signature is an artist-specific version of OKKO FX's Diablo overdr
 
 ## Transistor
 - Exact production semiconductor complement was not established.
-
 ## Diode
 - Exact clipping/rectifier diode information was not established.
 

@@ -24,7 +24,6 @@ The Deluxe Valve Overdrive is a legacy Coopersonic valve-based overdrive. Cooper
 ## Transistor
 - Primary gain devices are vacuum valves.
 - Exact supporting semiconductor devices are not documented.
-
 ## Diode
 - Exact clipping/rectification diode/device is not publicly documented.
 

@@ -35,7 +35,6 @@ The documented design remains centered on the three-section architecture. Histor
 ## Transistor
 - **Type:** Unknown.
 - No Alien Bass Station-specific transistor technology or part number published in the sources reviewed.
-
 ## Diode
 - **Type:** Unknown.
 - No Alien Bass Station-specific diode documentation located.

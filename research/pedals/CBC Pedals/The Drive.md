@@ -30,7 +30,6 @@ Surviving Reverb listings describe The Drive as a **Zendrive clone**, with the o
 
 ## Transistor
 - No separate transistor complement is established for the documented build.
-
 ## Diode / clipping
 - Exact CBC clipping diode/device part numbers are not documented.
 

@@ -25,7 +25,6 @@ The Silver Rose v2 combines a Super Fuzz-style circuit with Dwarfcraft's **Eau C
 ## Transistor
 - Exact production semiconductor details were not established in the checked sources.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact clipping/rectifier diode information was not established.
 - **Exact part:** Unknown.

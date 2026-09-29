@@ -30,7 +30,6 @@ The builder's stated goal is to retain the HM-2 chainsaw territory while making 
 
 ## Transistor
 - Exact transistor/device part numbers are **not publicly documented** in the reviewed sources.
-
 ## Diode / clipping
 - Exact clipping diode/device part numbers are **not publicly documented**.
 - The HM-2 lineage does not substitute for component-level evidence.

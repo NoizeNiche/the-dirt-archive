@@ -31,7 +31,6 @@ No additional circuit change is documented for the white finish. It is retained 
 ## Transistor
 - Exact production transistor/device information was not separately documented.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - **Type:** Exact production clipping diodes are not publicly documented.
 - **Exact diode/device:** Unknown.

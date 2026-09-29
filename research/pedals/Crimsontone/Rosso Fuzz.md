@@ -29,7 +29,6 @@ No reliable numbered V1/V2 production split was verified. The archive keeps Ross
 ## Transistor
 - **Technology:** Silicon transistor circuit. [1][2]
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - **Type:** **Soft diode clipping** is documented, but the exact diode type/part is not publicly established in the reliable sources checked. [1]
 - **Exact part:** Unknown.

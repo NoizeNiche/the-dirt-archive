@@ -18,7 +18,6 @@ No distinct named production revision was established in the checked evidence.
 ## Transistor
 - The checked reliable source set does not establish an exact transistor part number.
 - Do not use the unusually detailed component claims from the uncorroborated GearStrings article as canonical specifications.
-
 ## Diode
 - Exact diode type or part number: **not established**.
 

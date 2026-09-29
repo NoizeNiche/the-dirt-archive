@@ -21,7 +21,6 @@ Musical Instruments Store > Shop By Categories > Effects and Pedals > Gain Effec
 ## Transistor
 - Documented terms in the verified sources: Germanium Fuzz.
 - The archive records only the component information explicitly present in these sources.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

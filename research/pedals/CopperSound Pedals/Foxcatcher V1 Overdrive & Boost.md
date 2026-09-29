@@ -32,7 +32,6 @@ The unit uses a mechanical true-bypass arrangement and an engaged-state output b
 
 ## Transistor
 - **Exact transistor part number:** not publicly documented in the checked sources.
-
 ## Diode
 - **Exact diode/clipping device:** not publicly documented in the checked sources.
 

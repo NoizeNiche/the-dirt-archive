@@ -26,7 +26,6 @@ The Mids control and FAT/Girth shaping allow the player to move from large, bass
 ## Transistor
 - Exact factory transistor/device part numbers are **not publicly documented**.
 - No DIY substitution is promoted to factory status.
-
 ## Diode
 - Exact factory clipping diode/device is **not publicly documented**.
 - DIY BAT42 experiments are not factory evidence.

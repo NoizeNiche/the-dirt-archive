@@ -26,7 +26,6 @@ The original 385 Overdrive is inspired by the tube-powered audio section of the 
 ## Transistor
 - Exact production semiconductor details were not established in the checked sources.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact clipping/rectifier diode information was not established in the checked sources.
 - **Exact part:** Unknown.

@@ -12,7 +12,6 @@ Bulls On BO2 is a bass-focused analog overdrive and compressor. BSQ describes a 
 
 ## Transistor
 Exact device not publicly documented.
-
 ## Diode
 Exact clipping device not publicly documented.
 

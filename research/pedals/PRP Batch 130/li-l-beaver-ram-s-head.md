@@ -21,7 +21,6 @@ The Ram's Head designation distinguishes this version from the NYC, Opamp, Russi
 
 ## Transistor
 Exact active devices not documented in the reviewed source set.
-
 ## Diode
 Exact clipping devices not documented in the reviewed source set.
 

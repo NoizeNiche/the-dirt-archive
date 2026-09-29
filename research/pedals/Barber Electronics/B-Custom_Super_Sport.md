@@ -30,7 +30,6 @@ The manual recommends adjusting the internal trims with a very small screwdriver
 
 ## Transistor
 - Exact transistor/device part numbers are **not publicly documented** in the reviewed manufacturer/manual sources.
-
 ## Diode / clipping
 - Exact clipping diode part numbers are **not publicly documented**.
 

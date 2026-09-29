@@ -26,7 +26,6 @@ The current reissue also uses a true-bypass switching arrangement unlike some ea
 ## Transistor
 - **Exact production transistor/device:** Not established in the verified sources.
 - The archive does not infer a transistor complement from the op-amp-based circuit family.
-
 ## Diode
 - **Documented clipping architecture:** feedback-loop diode clipping associated with the TS-style circuit. [2]
 - **Exact production diode part number:** Unknown.

@@ -25,7 +25,6 @@ The Ten Tone Anniversary Fuzz is a Daredevil anniversary fuzz with an expanded E
 ## Transistor
 - Historical source material describes germanium-fuzz technology, but the exact production transistor complement for every Anniversary unit is not established.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact clipping/rectifier diode information was not established.
 - **Exact part:** Unknown.

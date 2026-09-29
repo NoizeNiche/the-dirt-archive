@@ -29,7 +29,6 @@ Original Sola Sound Tone Benders were produced in England for the Musical Exchan
 ## Transistor
 - **Exact device:** Generation-dependent.
 - Early units use germanium devices; later units include silicon designs. [1][2]
-
 ## Diode
 - **Exact clipping diode/device:** Generation-dependent and not asserted for the generic catalog identity.
 

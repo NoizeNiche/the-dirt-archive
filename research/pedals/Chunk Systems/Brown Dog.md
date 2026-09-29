@@ -29,7 +29,6 @@ Brown Dog explicitly evolved from FZ002, adding a soft fuzz mode and easier-to-u
 
 ## Transistor
 No exact-model transistor part number was established.
-
 ## Diode
 No exact-model diode specification was established.
 

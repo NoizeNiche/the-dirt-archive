@@ -33,7 +33,6 @@ Colombo describes Lead Trilogy as a fully analog circuit and its broader pedal l
 
 ## Transistor
 - **Exact transistor/device:** Not publicly documented in the checked sources.
-
 ## Diode
 - **Exact clipping diode/device:** Not publicly documented in the checked sources.
 - Colombo specifically describes the Jubilee mode as recreating the character of an asymmetric clipping circuit, but does not publish the individual diode part numbers in the sources reviewed. [1]

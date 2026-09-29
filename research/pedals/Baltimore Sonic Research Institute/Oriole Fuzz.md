@@ -25,7 +25,6 @@ Effects Database documents the Oriole as a fuzz with a rare **Philips CV7112** g
 - **1 × Philips CV7112 germanium transistor**
 - **2 × matched old-stock silicon transistors**
 - Exact silicon part numbers are not publicly documented. [1]
-
 ## Diode / clipping
 - Exact clipping/protection diode implementation is **not publicly documented**.
 

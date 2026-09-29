@@ -23,7 +23,6 @@ Woolly Mammoth vs Big Muff The Big Muff is the reference point for big fuzz peda
 ## Transistor
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

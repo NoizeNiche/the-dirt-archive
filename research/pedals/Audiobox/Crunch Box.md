@@ -19,7 +19,6 @@ The database's Related section connects Crunch Box with other historical drive d
 ## Transistor
 - **Unknown.**
 - No exact active-device part number is established by the reviewed archival sources.
-
 ## Diode / clipping
 - **Unknown.**
 - No exact clipping-device information is established by the reviewed archival sources.

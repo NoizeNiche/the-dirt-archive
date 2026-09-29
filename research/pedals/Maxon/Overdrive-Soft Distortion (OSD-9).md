@@ -21,7 +21,6 @@ Maxon's Overdrive-Soft Distortion (OSD-9) is cataloged as a distortion / overdri
 ## Transistor
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

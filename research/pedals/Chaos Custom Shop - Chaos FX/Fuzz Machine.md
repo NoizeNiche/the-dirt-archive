@@ -20,7 +20,6 @@
 ## Transistor
 - **Technology:** Germanium.
 - Exact transistor part number is not publicly documented.
-
 ## Diode / clipping
 - Exact clipping-device type and part number are not documented.
 

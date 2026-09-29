@@ -38,7 +38,6 @@ The 2016 Paint it Blue Limited Edition is a documented hardware revision/reissue
 ## Transistor
 - **Exact transistor/device:** Not publicly documented.
 - The 2008 review discusses the internal circuit and clipping behavior but does not identify a production transistor part number. [1]
-
 ## Diode
 - The 2008 review characterizes the original circuit as using symmetrical clipping, but does not identify the exact clipping diode/device.
 - **Exact clipping diode/device:** Not publicly documented. [1]

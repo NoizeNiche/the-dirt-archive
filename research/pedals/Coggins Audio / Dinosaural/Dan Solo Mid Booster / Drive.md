@@ -21,7 +21,6 @@ Dan Solo is a deconstructed standalone section of Cogmeister rather than a new u
 
 ## Transistor
 Cogmeister's Solo section is part of its all-discrete, Class-A silicon transistor architecture. [3]
-
 ## Diode
 No diode-clipping stage is documented for the Solo section.
 

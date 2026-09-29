@@ -24,7 +24,6 @@ The current Browne site identifies ALKENE as the evolved Nashville overdrive and
 
 ## Transistor
 Exact active devices not publicly documented.
-
 ## Diode
 Exact clipping diodes not publicly documented for the ATOM.
 

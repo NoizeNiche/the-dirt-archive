@@ -21,7 +21,6 @@ Sone Bender — Union Tube Transistor Welcome Shop Dealers Buzz Contact Welcome 
 ## Transistor
 - Documented terms in the verified sources: germanium fuzz.
 - The archive records only the component information explicitly present in these sources.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

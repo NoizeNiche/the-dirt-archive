@@ -26,7 +26,6 @@ Basic Audio's Orpheum starts with the historical Orpheum fuzz concept and expand
 ## Transistor
 - **Technology:** Germanium.
 - Exact production transistor part number is not publicly documented.
-
 ## Diode / clipping
 - Exact clipping-device type and part number are not publicly documented.
 

@@ -20,7 +20,6 @@ Bad Pixel's Bad Face Silicon is a modern silicon Fuzz Face-style build. The buil
 - **Technology:** Silicon.
 - **Documented exact device:** **NOS metal-can 2N2222A silicon transistor** for the documented build. [2]
 - The exact device should be treated as build-specific unless the builder documents it as universal for the entire Bad Face Silicon production.
-
 ## Diode / clipping
 - Exact clipping-diode device is not published in the reviewed builder/retailer material.
 - Do not infer the clipping components from the 2N2222A transistor.

@@ -25,7 +25,6 @@ Beetronics names three fuzz voices: **Polen, Nectar and Honey**. Tropical Mode a
 
 ## Transistor
 - Exact production transistor/device part numbers are not publicly documented.
-
 ## Diode / clipping
 - Exact clipping-device type and part number are not publicly documented.
 

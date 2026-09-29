@@ -18,7 +18,6 @@ Effects Database records Bloodstone Overdrive among the Charlie Paolo Custom Eff
 
 ## Transistor
 - Exact production transistor/device: **Unknown**.
-
 ## Diode / clipping
 - Exact clipping-device type and part number: **Unknown**.
 

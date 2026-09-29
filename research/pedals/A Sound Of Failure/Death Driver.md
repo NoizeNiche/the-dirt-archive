@@ -22,7 +22,6 @@ Effects Database documents the Death Driver as an overdrive / boost-preamp pedal
 ## Transistor
 - **Topology:** Single-transistor boost/saturation stage is documented.
 - **Exact transistor part number:** Unknown.
-
 ## Diode
 - Exact clipping/rectifier diode information was not established.
 - **Exact part:** Unknown.

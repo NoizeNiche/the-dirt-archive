@@ -19,7 +19,6 @@ The Loomer combines a heavy fuzz section with experimental reverb effects. Keele
 
 ## Transistor
 - Exact production semiconductor details were not established.
-
 ## Diode
 - Exact clipping/rectifier diode information was not established.
 

@@ -27,7 +27,6 @@ No formal numbered revision sequence was established.
 
 ## Transistor
 Discrete **MOSFET** first stage and **CMOS** second stage. Exact device part numbers were not established. [1]
-
 ## Diode
 Clipping is controlled by the three-position Compression system; exact diode parts were not established.
 

@@ -12,7 +12,6 @@ The exact-model product record identifies Wireless Germanium Fuzz as a Bad Penny
 ## Transistor
 - **Technology:** Germanium fuzz.
 - Exact transistor part number is not published in the reviewed source.
-
 ## Diode / clipping
 - Exact clipping-device type and part number are unknown.
 

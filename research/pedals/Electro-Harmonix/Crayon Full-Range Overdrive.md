@@ -28,7 +28,6 @@ The Crayon is a full-range overdrive designed as an alternative to the customary
 ## Transistor
 - Exact production semiconductor details were not established.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact clipping/rectifier diode information was not established.
 - **Exact part:** Unknown.

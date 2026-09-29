@@ -35,7 +35,6 @@ Comodoro describes the unit as individually assembled and adjusted. The booster/
 
 ## Transistor
 - **Exact transistor/device:** Not publicly documented in the checked sources.
-
 ## Diode
 - **Exact clipping diode/device:** Not publicly documented.
 

@@ -23,7 +23,6 @@ Arctic White Fuzz grew from Bjorn Juhl's fuzz designs and was produced by BearFo
 ## Transistor
 - **Technology:** Silicon.
 - Exact production transistor part number is not publicly documented.
-
 ## Diode / clipping
 - Exact clipping/protection device and part number are not publicly documented.
 

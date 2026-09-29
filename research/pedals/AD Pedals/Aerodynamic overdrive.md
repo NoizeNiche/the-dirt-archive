@@ -28,7 +28,6 @@ No numbered production revision was documented in the sources reviewed.
 
 ## Transistor
 - **Exact production transistor/device:** Not publicly documented.
-
 ## Diode
 - **Low-gain mode:** Bat41 diodes, symmetrical clipping.
 - **High-gain mode:** Germanium 1N34A diodes, asymmetrical clipping.

@@ -22,7 +22,6 @@ What Foxpedal say about the Vixen Out of Production - all remaining units sold T
 ## Transistor
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Documented terms in the verified sources: silicon diode.
 - The archive records only the component information explicitly present in these sources.

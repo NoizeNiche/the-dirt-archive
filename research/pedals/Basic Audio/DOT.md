@@ -20,7 +20,6 @@ Basic Audio describes DOT as its Germanium Fuzz Rite-derived fuzz, tuned toward 
 ## Transistor
 - Germanium technology is confirmed.
 - Exact transistor part number is not publicly documented.
-
 ## Diode
 - Exact diode/device is not publicly documented.
 

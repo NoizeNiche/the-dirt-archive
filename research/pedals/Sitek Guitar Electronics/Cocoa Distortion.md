@@ -19,9 +19,8 @@ Published on August 29, 2018 Sitek Guitar Electronics distortion overdrive pedal
 - No specific factory version changes were established in the verified evidence packet.
 
 ## Transistor
-- Documented terms in the verified sources: AC15.
+- Documented terms in the verified sources: .
 - The archive records only the component information explicitly present in these sources.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

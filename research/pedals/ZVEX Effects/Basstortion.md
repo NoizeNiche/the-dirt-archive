@@ -23,7 +23,6 @@ Basstortion is ZVEX's bass-focused distortion designed around the response of a 
 ## Transistor
 - Exact production semiconductor details were not established in the checked sources.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact clipping/rectifier diode information was not established in the checked sources.
 

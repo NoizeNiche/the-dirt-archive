@@ -26,7 +26,6 @@ The Magpie is a low-to-medium gain overdrive with a dedicated boost setting. In 
 ## Transistor
 - Exact production semiconductor details were not established.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - The boost position explicitly removes the clipping diodes from the clipping section.
 - Exact production diode types are not established.

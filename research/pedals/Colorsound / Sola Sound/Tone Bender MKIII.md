@@ -36,7 +36,6 @@ Original MKIII examples moved into pressed-steel style enclosures as Sola Sound 
 ## Transistor
 - Mid-1970s Colorsound MKIII-related examples are documented with **three silicon transistors**.
 - Other MKIII-branded generations used different device types, so transistor type must be tied to the specimen. [2]
-
 ## Diode
 - **Exact clipping diode/device:** Not asserted as universal across the MKIII lineage.
 

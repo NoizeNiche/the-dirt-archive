@@ -35,7 +35,6 @@ No distinct electrical revision was established in the checked manufacturer evid
 ## Transistor
 - **BC108 silicon transistors:** explicitly documented by Creber Instruments.
 - The manufacturer does not publish a complete individual device-selection or batch-matching specification.
-
 ## Diode
 - Exact diode type or part number: **not established**.
 

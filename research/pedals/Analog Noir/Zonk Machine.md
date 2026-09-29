@@ -20,7 +20,6 @@ Analog Noir's Zonk Machine is a recreation of the rare Zonk Machine fuzz family,
 ## Transistor
 - **Technology:** Germanium is associated with the recreated vintage circuit.
 - Exact production transistor pair was not established from the accessible material.
-
 ## Diode
 - Exact diode type was not established.
 

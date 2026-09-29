@@ -19,7 +19,6 @@ The MT-2 Metal Zone is an analog high-gain distortion pedal introduced by BOSS i
 
 ## Transistor
 The 1991 BOSS MT-2 service notes list these semiconductor parts among the replacement components: **2SC3378GR, 2SC2240GR, 2SC2458GR, 2SK184GR, 2SK117GR, and 2SK118Y**. The service document is a parts/service reference rather than a claim that every production run used every listed part.
-
 ## Diode
 The same 1991 service notes list **S5500G, 1SS-133, and RD5.6EB3** among the diode parts.
 

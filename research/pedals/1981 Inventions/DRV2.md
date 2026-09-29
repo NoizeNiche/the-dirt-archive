@@ -29,7 +29,6 @@ The DRV2 was redesigned with Jon Ashley's original DRV work as a starting point 
 ## Transistor
 - Exact production semiconductor details were not established in the checked sources.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact clipping-diode part was not established in the checked sources.
 - **Exact part:** Unknown.

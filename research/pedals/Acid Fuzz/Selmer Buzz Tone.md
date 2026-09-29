@@ -22,7 +22,6 @@ The Re-build is a separate construction variant rather than simply a cosmetic re
 - **Type:** Germanium according to Acid Fuzz.
 - **Documented parts:** three RCA 2N2613 germanium transistors. [1]
 - **Important historical note:** Effects Database lists the original Selmer circuit as three 2N2613 devices but labels them silicon, which conflicts with Acid Fuzz's direct builder documentation. The archive follows the builder's explicit component identification for the Acid Fuzz recreation and records the discrepancy rather than silently resolving it. [2]
-
 ## Diode
 - Separate clipping diode: **Not publicly documented.**
 

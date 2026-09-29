@@ -22,7 +22,6 @@ IdiotBox Effects's WHORES. Fuzz Freq V.2 is cataloged as a fuzz pedal.
 ## Transistor
 - Documented terms in the verified sources: germanium transistor.
 - The archive records only the component information explicitly present in these sources.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

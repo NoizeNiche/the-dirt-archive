@@ -24,7 +24,6 @@ The Fire Red Fuzz is a three-control fuzz pedal built around a silicon fuzz circ
 ## Transistor
 - **Documented:** silicon transistors / silicon-powered fuzz circuit.
 - No exact production transistor part number was established.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

@@ -28,7 +28,6 @@ Odelya was explicitly created to separate the expanded modular design from the e
 
 ## Transistor
 No exact-model discrete transistor specification was established. The active gain core is an op-amp-based TS-style design.
-
 ## Diode
 The pedal used interchangeable clipping-diode modules, but the checked source does not establish a single universal diode set for every Odelya unit. [1]
 

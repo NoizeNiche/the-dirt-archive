@@ -24,7 +24,6 @@ Punch & Grind evolved the earlier JunkPuncher concept by widening the Grind sect
 ## Transistor
 - Solid-state fuzz.
 - Exact transistor part numbers are not documented.
-
 ## Diode / clipping
 - Exact clipping components are not documented.
 

@@ -28,7 +28,6 @@ No numbered factory revision was verified.
 ## Transistor
 - **Technology:** Exact active-device technology is not publicly documented.
 - **Exact device:** Unknown.
-
 ## Diode
 - **Type:** Not a documented clipping-focused design; exact diode usage is not publicly documented.
 

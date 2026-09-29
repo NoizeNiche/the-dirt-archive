@@ -22,7 +22,6 @@ The Xotic Effects SL Drive is a premium, hand-wired overdrive pedal released in 
 ## Transistor
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Documented terms in the verified sources: 1N4148.
 - The archive records only the component information explicitly present in these sources.

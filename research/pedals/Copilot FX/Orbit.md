@@ -36,7 +36,6 @@ Powder-coated aluminum enclosure with electronic VCO/fuzz architecture and exter
 
 ## Transistor
 - **Exact transistor/device:** Not publicly documented in the checked sources.
-
 ## Diode
 - **Exact clipping/rectification diode/device:** Not publicly documented.
 

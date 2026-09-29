@@ -30,7 +30,6 @@ The 1N34A Mjolnir is Mythos Pedals' Mjolnir variant built around a matched pair 
 ## Transistor
 - Exact production transistor/device information was not established in the checked sources.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - **Clipping diodes:** matched 1N34A germanium pair.
 - The exact manufacturing source of the individual diodes is not established.

@@ -21,7 +21,6 @@ The Cafetiere is our torn-down, rebuilt and expanded take on the Interfax Harmon
 ## Transistor
 - Documented terms in the verified sources: germanium transistor.
 - The archive records only the component information explicitly present in these sources.
-
 ## Diode
 - Documented terms in the verified sources: LED.
 - The archive records only the component information explicitly present in these sources.

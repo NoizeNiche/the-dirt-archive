@@ -22,7 +22,6 @@ Skreddy Pedals's Mayo MkIII is cataloged as a fuzz pedal.
 ## Transistor
 - Documented terms in the verified sources: BC239.
 - The archive records only the component information explicitly present in these sources.
-
 ## Diode
 - Documented terms in the verified sources: LED.
 - The archive records only the component information explicitly present in these sources.

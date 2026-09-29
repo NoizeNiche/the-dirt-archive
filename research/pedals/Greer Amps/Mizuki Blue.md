@@ -28,7 +28,6 @@ Mizuki Blue is a dual-JFET overdrive designed by Greer Amps around the feel and 
 ## Transistor
 - Greer explicitly identifies the circuit as **dual-JFET**.
 - **Exact JFET part number:** Unknown.
-
 ## Diode
 - Exact clipping/rectifier diode information was not established in the checked sources.
 - **Exact part:** Unknown.

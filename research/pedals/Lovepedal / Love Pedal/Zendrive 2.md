@@ -20,7 +20,6 @@ Zendrive 2 is a limited Hermida Audio/Lovepedal version of the Zendrive using hi
 ## Transistor
 - **High-voltage FET** technology is documented.
 - Exact device part number was not established.
-
 ## Diode
 - Exact clipping-device information was not established.
 

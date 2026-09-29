@@ -28,7 +28,6 @@ No formal numbered factory revision history was established. The main documented
 
 ## Transistor
 Collateral FX specifies **rare NOS silicon transistors from the 1960s**, individually selected for high gain, consistency, and thermal stability. Exact semiconductor part numbers are not published on the product page. [1]
-
 ## Diode
 No exact diode specification was published. [1]
 

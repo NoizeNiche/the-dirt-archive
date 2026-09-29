@@ -31,9 +31,7 @@ No formal numbered hardware revision sequence was established in the checked sou
 
 ## Transistor
 The checked sources do not establish exact transistor part numbers for the core King of Tone-derived channels.
-
 The bonus treble booster is described as a **Rangemaster-style** circuit, but the manufacturer documentation does not publish a specific transistor part number. [2]
-
 ## Diode
 The pedal provides selectable boost/overdrive/distortion modes derived from the Analog Man architecture, but exact diode part numbers were not established in the checked sources.
 

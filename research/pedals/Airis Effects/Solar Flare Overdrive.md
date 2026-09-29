@@ -31,7 +31,6 @@ The available records support a distinction between the original Solar Flare and
 
 ## Transistor
 - **Exact transistor/device:** Not publicly documented.
-
 ## Diode
 - **Exact clipping diode/device:** Not publicly documented.
 

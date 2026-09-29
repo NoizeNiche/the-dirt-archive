@@ -24,7 +24,6 @@ The RTD800 is a genuine tube-based overdrive/distortion pedal built around a **1
 ## Transistor
 - The primary gain device is a vacuum tube, not a transistor-only stage.
 - **Exact transistor/device:** Not applicable as the primary gain device.
-
 ## Diode
 - Exact clipping/rectifier diode information was not established.
 - **Exact part:** Unknown.

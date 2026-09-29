@@ -19,7 +19,6 @@ An all-analog British-style distortion pedal with speaker/combo-emulation circui
 
 ## Transistor
 - Exact transistor/device not documented.
-
 ## Diode
 - Exact clipping diode/device not documented.
 

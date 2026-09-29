@@ -29,7 +29,6 @@ The Dover Drive was designed by Hermida Audio as a tube-free overdrive inspired 
 ## Transistor
 - Exact production transistor/device information was not established.
 - Device labels appearing in individual listings should be treated as specimen-specific unless corroborated.
-
 ## Diode
 - Exact clipping-device information was not established.
 

@@ -21,7 +21,6 @@ Maxon's RTD800 Real Tube Distortion is cataloged as a distortion / overdrive ped
 ## Transistor
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

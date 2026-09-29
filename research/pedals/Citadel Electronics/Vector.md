@@ -27,7 +27,6 @@ Vector debuted in Citadel's initial Guitar Summit 2025 pedal series. No numbered
 
 ## Transistor
 The builder documents a **hybrid silicon/germanium** octave-fuzz circuit. Exact transistor part numbers were not established in the checked sources. [1][2]
-
 ## Diode
 No exact-model diode specification was established.
 

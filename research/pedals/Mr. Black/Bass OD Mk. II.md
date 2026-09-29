@@ -24,7 +24,6 @@ The verified sources do not publish a complete production schematic or semicondu
 
 ## Transistor
 - **Exact production transistor/device:** Unknown.
-
 ## Diode
 - **Exact production clipping diode:** Unknown.
 

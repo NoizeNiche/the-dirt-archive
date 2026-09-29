@@ -25,7 +25,6 @@ The Supernova Drive is an overdrive with a wide gain range and a three-band acti
 ## Transistor
 - Exact production semiconductor details were not established.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - The LED indicator is documented, but the exact clipping-device part is not established.
 - **Exact part:** Unknown.

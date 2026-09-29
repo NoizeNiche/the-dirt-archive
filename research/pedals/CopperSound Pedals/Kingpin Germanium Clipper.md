@@ -37,7 +37,6 @@ Kingpin is a compact overdrive that uses Germanium clipping diodes rather than g
 ## Transistor
 - **Technology:** MOSFET + JFET gain stages.
 - **Exact part numbers:** not publicly documented by the checked manufacturer source.
-
 ## Diode
 - **Type:** Ukrainian Germanium, used as a symmetrical clipping pair.
 

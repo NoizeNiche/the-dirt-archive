@@ -24,7 +24,6 @@ A specific early reliability issue involving the delay circuit's board contactin
 
 ## Transistor
 - Exact production transistor/device information was not established in the verified sources.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified sources.
 

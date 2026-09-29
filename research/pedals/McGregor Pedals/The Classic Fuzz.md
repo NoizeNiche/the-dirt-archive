@@ -18,7 +18,6 @@ The Classic Fuzz is a thick, responsive **silicon Fuzz Face-style** fuzz. McGreg
 ## Transistor
 - **Silicon transistor** construction is documented.
 - Exact production device part numbers are not established.
-
 ## Diode
 - Exact clipping-device information was not established.
 

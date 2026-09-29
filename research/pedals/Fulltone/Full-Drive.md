@@ -25,7 +25,6 @@ The archive retains version-specific records where the catalog establishes them.
 ## Transistor
 - The checked sources document op-amp-based Full-Drive designs, but do not establish one exact semiconductor complement for the entire Full-Drive family.
 - **Exact transistor/device:** Unknown for this unversioned family record.
-
 ## Diode
 - Clipping arrangements vary by Full-Drive version.
 - **Exact clipping part:** Unknown for the unversioned family record.

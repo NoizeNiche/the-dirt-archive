@@ -23,7 +23,6 @@ However, regarding the effector, this VOX V829 TONE BENDER and Marshall GUV ‘N
 ## Transistor
 - Documented terms in the verified sources: Germanium Transistor.
 - The archive records only the component information explicitly present in these sources.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

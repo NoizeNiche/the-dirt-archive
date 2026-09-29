@@ -21,7 +21,6 @@ FIREMAN is based on the legendary amplifier builder’s famous distortion pedal.
 ## Transistor
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

@@ -21,7 +21,6 @@ The two documented versions differ by the presence or absence of the clean blend
 
 ## Transistor
 Exact transistor/device not publicly documented.
-
 ## Diode
 Exact clipping diode/device not publicly documented.
 

@@ -27,7 +27,6 @@ No formal numbered factory revision history was established. The documented oper
 
 ## Transistor
 The manufacturer describes a manually built circuit using operational-amplifier gain stages, precision resistors, and film capacitors, but does not publish exact op-amp or transistor part numbers. [1]
-
 ## Diode
 Each channel provides selectable diode-clipping behavior: no diode clipping for clean boost, soft clipping, hard clipping, or combined clipping stages. Exact diode part numbers are not published. [1]
 

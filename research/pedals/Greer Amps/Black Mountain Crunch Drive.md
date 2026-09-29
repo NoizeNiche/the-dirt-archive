@@ -24,7 +24,6 @@ The Black Mountain Crunch Drive is a Greer overdrive voiced around large, vintag
 ## Transistor
 - Exact production transistor/device information was not established.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established.
 - **Exact part:** Unknown.

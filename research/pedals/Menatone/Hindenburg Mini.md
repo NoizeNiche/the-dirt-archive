@@ -21,7 +21,6 @@ The Hindenburg Mini is Menatone's compact version of the Hindenburg, based on th
 
 ## Transistor
 - Exact production semiconductor complement was not established.
-
 ## Diode
 - Exact clipping-device information was not established.
 

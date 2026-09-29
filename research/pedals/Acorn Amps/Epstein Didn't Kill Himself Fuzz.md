@@ -32,7 +32,6 @@ No documented circuit revision history was found in the production material revi
 - **Type:** Silicon.
 - **Count:** Three transistors.
 - **Exact production part numbers:** Not publicly documented. [1]
-
 ## Diode
 - **Exact production clipping diode/device:** Not publicly documented.
 

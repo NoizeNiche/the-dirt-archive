@@ -26,7 +26,6 @@ The Black Fuzz is a simple, one-control fuzz designed around an overdriven ampli
 ## Transistor
 - The surviving sources identify the pedal as a fuzz but do not establish an exact production transistor part number.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established.
 - **Exact part:** Unknown.

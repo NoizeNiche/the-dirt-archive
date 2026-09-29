@@ -39,7 +39,6 @@ The pedal uses a **9V DC negative-center** supply and is not battery-powered. Co
 
 ## Transistor
 **Not established.** The available model documentation identifies digital ICs for the delay and reverb sections but does not publish a discrete transistor list for the fuzz section. [1]
-
 ## Diode
 **Not established.** No trustworthy model-specific clipping-diode part number or complete diode topology was located in the accessible documentation.
 

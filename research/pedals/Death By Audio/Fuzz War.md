@@ -25,7 +25,6 @@ Fuzz War is a three-control fuzz pedal with a very broad gain range. The Fuzz co
 ## Transistor
 - Exact production transistor/device information was not established in the checked sources.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact clipping diode information was not established in the checked sources.
 - **Exact part:** Unknown.

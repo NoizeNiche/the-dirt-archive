@@ -30,7 +30,6 @@ The Crest Audio run is itself a distinct historical production era of the Fuzz F
 ## Transistor
 - **Technology:** Silicon. [1]
 - **Exact transistor/device:** **BC109C** is the typical reported device; **BC107** is also reported in some examples. [1][2]
-
 ## Diode
 - **Type:** Exact production clipping/rectifier diode(s) were not established in the reliable sources checked.
 - **Exact part:** Unknown.

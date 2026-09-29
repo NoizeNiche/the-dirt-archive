@@ -21,7 +21,6 @@ The Swollen Pickle Jumbo Fuzz MkIIS serves up the same burly high-gain fuzz as t
 ## Transistor
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

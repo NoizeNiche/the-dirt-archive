@@ -22,7 +22,6 @@ Baa Bzz is Anarchy Audio's updated and refined interpretation of the fuzz sectio
 
 ## Transistor
 - Exact transistor type was not publicly established in the reviewed material.
-
 ## Diode
 - Exact diode type was not established.
 

@@ -28,7 +28,6 @@ The builder documents extensive experimentation with germanium transistor famili
 - **Mullard OC72 germanium transistor:** explicitly documented by the builder.
 - The builder states that OC43, OC44, OC45, OC72, OC77, OC81, AC-series, NKT-series and Hitachi 2SB germanium families were evaluated before settling on the OC72.
 - Exact individual transistor matching values are not documented.
-
 ## Diode
 - Exact diode type or part number: **not documented**.
 

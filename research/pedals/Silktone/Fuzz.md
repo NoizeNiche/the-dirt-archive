@@ -22,9 +22,8 @@ The updated taper of the “Cleanup” control is smoother than the older versio
 - No specific factory version changes were established in the verified evidence packet.
 
 ## Transistor
-- Documented terms in the verified sources: germanium fuzz, BC109C, germanium transistor, AC15.
+- Documented terms in the verified sources: germanium fuzz, BC109C, germanium transistor.
 - The archive records only the component information explicitly present in these sources.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

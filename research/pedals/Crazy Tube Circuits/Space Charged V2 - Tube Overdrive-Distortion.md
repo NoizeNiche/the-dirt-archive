@@ -43,7 +43,6 @@ Compatible dual-triode substitutions such as 12AX7, 12AT7, 12AU7 and 5751 are do
 ## Transistor
 - Tube-centered signal path.
 - Exact transistor component data: **not established**.
-
 ## Diode
 - Exact diode type or part number: **not established**.
 

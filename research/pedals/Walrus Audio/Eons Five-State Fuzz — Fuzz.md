@@ -26,7 +26,6 @@ Eons is a five-state fuzz with a variable Voltage control that changes the circu
 ## Transistor
 - The checked sources document multiple clipping structures but do not publish a complete production transistor complement.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Walrus documents silicon, germanium, and LED clipping structures among the available modes.
 - **Exact production diode part numbers:** Unknown.

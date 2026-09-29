@@ -35,7 +35,6 @@ No reliable numbered V1/V2 production split was verified. A prototype footswitch
 ## Transistor
 - **Technology:** The documented design uses four operational amplifier stages rather than a publicly specified discrete transistor fuzz/drive topology. [1][2]
 - **Exact transistor/device:** Not applicable / not publicly established.
-
 ## Diode
 - **Type:** Exact production clipping diode/device is not publicly established.
 - **Exact part:** Unknown.

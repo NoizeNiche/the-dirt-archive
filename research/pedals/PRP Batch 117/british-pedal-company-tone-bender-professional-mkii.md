@@ -21,7 +21,6 @@ The named OC75 and OC81D variants are not collapsed into one component specifica
 
 ## Transistor
 Exact production device for the generic entry not established.
-
 ## Diode
 Exact clipping device not established.
 

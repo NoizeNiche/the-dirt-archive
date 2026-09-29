@@ -23,7 +23,6 @@ Basic Audio describes Fuzz Mutant as a very textured fuzz based on the sound ass
 ## Transistor
 - Exact factory transistor part number is **not publicly documented**.
 - A DIY BC549B build reference exists, but it is explicitly excluded from the factory record. [3]
-
 ## Diode / clipping
 - Exact factory clipping-device type and part number are **not publicly documented**.
 - DIY diode substitutions are excluded from the canonical record.

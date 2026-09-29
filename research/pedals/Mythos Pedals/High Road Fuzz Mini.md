@@ -19,7 +19,6 @@ The High Road Fuzz Mini is a variant of the Golden Fleece fuzz developed for Joe
 
 ## Transistor
 - Exact production semiconductor complement was not established.
-
 ## Diode
 - Exact clipping/rectifier diode information was not established.
 

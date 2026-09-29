@@ -24,7 +24,6 @@ The Germanium Filter combines a console-style drive circuit using germanium tran
 ## Transistor
 - Death By Audio identifies the circuit as using obsolete germanium transistors.
 - **Exact production transistor/device:** Unknown.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the checked sources.
 - **Exact part:** Unknown.

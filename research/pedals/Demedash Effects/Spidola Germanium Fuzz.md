@@ -21,7 +21,6 @@
 ## Transistor
 - Documented terms in the verified sources: germanium transistor, Germanium Fuzz.
 - The archive records only the component information explicitly present in these sources.
-
 ## Diode
 - Documented terms in the verified sources: silicon diode.
 - The archive records only the component information explicitly present in these sources.

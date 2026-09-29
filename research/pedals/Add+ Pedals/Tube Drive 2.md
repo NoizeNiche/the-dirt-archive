@@ -27,7 +27,6 @@ The “2” suffix establishes Tube Drive 2 as a separately cataloged model rath
 
 ## Transistor
 - **Exact transistor/device:** Not publicly documented in the accessible exact-model sources.
-
 ## Diode
 - **Exact clipping diode/device:** Not publicly documented in the accessible exact-model sources.
 

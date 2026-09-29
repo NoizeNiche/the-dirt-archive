@@ -23,7 +23,6 @@ No numbered factory revision was verified in the checked sources.
 
 ## Transistor
 - **Technology:** Solid-state preamp/overdrive is consistent with the catalog category, but the exact gain-device technology is not publicly documented in the checked sources.
-
 ## Diode
 - **Exact clipping/protection arrangement:** Not publicly documented in the checked sources.
 

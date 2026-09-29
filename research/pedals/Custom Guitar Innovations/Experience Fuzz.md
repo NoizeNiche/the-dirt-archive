@@ -23,7 +23,6 @@ Published on June 12, 2007 Custom Guitar Innovations fuzz pedal Reviews myFXDB u
 ## Transistor
 - Documented terms in the verified sources: Germanium Fuzz, AC128, BC108, BC109.
 - The archive records only the component information explicitly present in these sources.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

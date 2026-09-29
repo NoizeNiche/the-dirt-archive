@@ -23,7 +23,6 @@ The Paul Gilbert Signature MojoMojo is a modified version of TC Electronic's Moj
 ## Transistor
 - Exact production transistor/device information was not established in the checked sources.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact clipping-device part was not established in the checked sources.
 - **Exact part:** Unknown.

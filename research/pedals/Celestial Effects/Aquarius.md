@@ -21,7 +21,6 @@
 - **Technology:** Silicon.
 - **Architecture:** Parallel transistor pairing is part of the builder's documented development approach.
 - Exact production transistor part numbers are not publicly established. [1]
-
 ## Diode / clipping
 - Exact clipping-device type and part number are not publicly documented.
 

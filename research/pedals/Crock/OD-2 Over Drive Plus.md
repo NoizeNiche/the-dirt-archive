@@ -21,7 +21,6 @@ Published on September 10, 2009 Crock overdrive pedal knobs are not original Rev
 ## Transistor
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

@@ -23,7 +23,6 @@ Browne's archived V2.2 page documents the side-mounted-jack layout. Later V3 cha
 
 ## Transistor
 Exact active devices not publicly documented.
-
 ## Diode
 Exact factory clipping devices not publicly documented.
 

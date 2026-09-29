@@ -30,7 +30,6 @@ The Fundamental Drive is a three-mode overdrive from Walrus Audio's Fundamental 
 ## Transistor
 - Exact production semiconductor details were not established in the checked sources.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Walrus documents silicon soft/hard clipping across the three modes.
 - **Exact production diode part numbers:** Unknown.

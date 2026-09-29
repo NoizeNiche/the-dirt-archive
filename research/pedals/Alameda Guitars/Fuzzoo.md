@@ -28,7 +28,6 @@ No reliable numbered production revision sequence was found in the accessible bu
 ## Transistor
 - The builder describes its ordinary fuzzes as transistor-based, but the Fuzzoo's published signal path is a small amplifier, speaker, kazoo membrane, microphone, and preamp.
 - **Exact transistor/device:** Not publicly documented for the Fuzzoo. [1]
-
 ## Diode
 - **Exact clipping diode/device:** Not publicly documented.
 

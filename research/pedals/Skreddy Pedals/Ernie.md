@@ -22,7 +22,6 @@ Thick and fuzzy but articulate, with an old school feel Modeled sonically on the
 ## Transistor
 - Documented terms in the verified sources: BC239.
 - The archive records only the component information explicitly present in these sources.
-
 ## Diode
 - Documented terms in the verified sources: LED.
 - The archive records only the component information explicitly present in these sources.

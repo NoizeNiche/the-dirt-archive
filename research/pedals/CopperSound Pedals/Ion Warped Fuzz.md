@@ -35,7 +35,6 @@ CopperSound describes a sophisticated optical filter network that produces reson
 
 ## Transistor
 - **Exact transistor/device:** not publicly documented in the checked sources.
-
 ## Diode
 - **Exact diode/clipping device:** not publicly documented in the checked sources.
 

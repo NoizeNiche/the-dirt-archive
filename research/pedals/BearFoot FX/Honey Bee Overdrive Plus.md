@@ -20,7 +20,6 @@ A surviving 2022-ish BearFoot Honey Bee Plus is documented as an expanded Honey 
 
 ## Transistor
 - Exact production transistor/device part numbers are not publicly documented.
-
 ## Diode / clipping
 - Exact clipping/protection device and part number are not publicly documented.
 

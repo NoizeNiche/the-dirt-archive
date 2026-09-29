@@ -21,7 +21,6 @@ admin 22 September 2026 22 min read GG-ARTICLE-TOP Almost every fuzz pedal ever 
 ## Transistor
 - Documented terms in the verified sources: silicon transistor, germanium transistor, Silicon transistors.
 - The archive records only the component information explicitly present in these sources.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

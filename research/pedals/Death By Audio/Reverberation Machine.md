@@ -21,7 +21,6 @@ Extreme Altitude and Verb settings can produce very loud output, white noise and
 
 ## Transistor
 - Exact production transistor/device information was not established.
-
 ## Diode
 - Exact clipping/rectifier diode information was not established.
 

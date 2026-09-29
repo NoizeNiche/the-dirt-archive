@@ -20,7 +20,6 @@
 
 ## Transistor
 - Exact production transistor/device part numbers are not established.
-
 ## Diode / clipping
 - Exact clipping-device part numbers are not established.
 

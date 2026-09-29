@@ -26,7 +26,6 @@ The surviving listing confirms a Japanese-market Commune/ECA pedal from the 2000
 
 ## Transistor
 - **Exact transistor/device:** Not publicly documented.
-
 ## Diode
 - **Exact clipping diode/device:** Not publicly documented.
 

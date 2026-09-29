@@ -20,7 +20,6 @@
 ## Transistor
 - **Technology:** FET gain stages.
 - Exact FET part numbers are not publicly documented.
-
 ## Diode / clipping
 - Exact clipping/protection device and part number are not publicly documented.
 

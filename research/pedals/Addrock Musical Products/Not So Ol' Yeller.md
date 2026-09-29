@@ -28,7 +28,6 @@ The dealer history documents a last-minute production modification adding two in
 
 ## Transistor
 - **Exact transistor/device:** Not publicly documented.
-
 ## Diode
 - **Exact clipping diode/device:** Not publicly documented.
 

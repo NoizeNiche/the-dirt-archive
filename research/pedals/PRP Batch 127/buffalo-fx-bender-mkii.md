@@ -20,7 +20,6 @@ The catalog name establishes MkII as a version designation, but the surviving do
 
 ## Transistor
 - Exact device: Unknown.
-
 ## Diode
 - Exact clipping device: Unknown.
 

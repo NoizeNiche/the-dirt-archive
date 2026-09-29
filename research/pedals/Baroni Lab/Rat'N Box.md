@@ -22,7 +22,6 @@ Baroni Lab explicitly presents the Rat'N Box as a boutique take on the classic R
 
 ## Transistor
 - Exact active-device part numbers are **not publicly documented**.
-
 ## Diode / clipping
 - Exact clipping/protection diode type and part number are **not publicly documented**.
 

@@ -26,7 +26,6 @@ No numbered BYOC revision was verified.
 
 ## Transistor
 - Build options listed in the instructions include MPSA18, 2N5088, 2N3904 or 2N2222. These are kit options, not a single fixed production part. [2]
-
 ## Diode
 - **Type:** Silicon.
 - **Device:** 1N4148. [2]

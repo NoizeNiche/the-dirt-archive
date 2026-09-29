@@ -24,7 +24,6 @@ TRUST YOURSELF is a Rat-style distortion with a very simple internal control set
 
 ## Transistor
 - Exact production semiconductor details were not established.
-
 ## Diode
 - Exact clipping/rectifier diode information was not established.
 

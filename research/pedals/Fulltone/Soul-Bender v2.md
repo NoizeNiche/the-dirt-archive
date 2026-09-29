@@ -22,7 +22,6 @@ What Fulltone say about the Soul-Bender v2 Our Soul-Bender is based on the legen
 ## Transistor
 - Documented terms in the verified sources: germanium transistor.
 - The archive records only the component information explicitly present in these sources.
-
 ## Diode
 - Documented terms in the verified sources: LED.
 - The archive records only the component information explicitly present in these sources.

@@ -21,7 +21,6 @@ NUX Audio / NUX's Scream Bass / Bass Overdrive is cataloged as an overdrive peda
 ## Transistor
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

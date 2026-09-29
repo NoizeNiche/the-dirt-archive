@@ -16,7 +16,6 @@ Friedman Amplification overdrive pedal documented by the manufacturer and an ind
 
 ## Transistor
 - **Exact production transistor/device:** Unknown.
-
 ## Diode
 - **Exact clipping/rectifier diode:** Unknown.
 

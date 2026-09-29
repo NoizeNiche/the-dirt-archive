@@ -35,7 +35,6 @@ The defining change from the larger TightRock/Pro platform is the compact contro
 ## Transistor
 - **Type:** Unknown.
 - No exact Tight Rock Jr-specific transistor technology or part number was established in the sources checked.
-
 ## Diode
 - **Type:** Unknown.
 - No exact Tight Rock Jr-specific diode documentation established.

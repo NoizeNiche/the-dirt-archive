@@ -23,7 +23,6 @@ The Thulsa Doom is designed around very heavy fuzz and enhanced bass response. A
 ## Transistor
 - The builder describes a transistor-based gain stage and an alternate voice using modified transistor feedback.
 - Exact transistor part number is not publicly documented in the reviewed sources.
-
 ## Diode / clipping
 - Exact clipping diode/device is not publicly documented.
 

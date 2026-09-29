@@ -32,7 +32,6 @@ MI Audio designed the G.I. Fuzz as the high-gain silicon counterpart to the earl
 ## Transistor
 - **Documented device:** three high-gain silicon transistors. [2]
 - **Exact production transistor part numbers:** Unknown.
-
 ## Diode
 - **Exact production clipping/rectifier diode:** Unknown.
 

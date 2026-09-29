@@ -21,7 +21,6 @@ Aion FX's trace identifies:
 - Q2: **BC549C**
 - Q3: **BC549C**
 - IC1: **TL072CN** op-amp. [2]
-
 ## Diode
 The traced circuit identifies **1N914** signal diodes and a **1N4001** protection diode. These are trace-derived component identifications, not a factory-published parts list. [2]
 

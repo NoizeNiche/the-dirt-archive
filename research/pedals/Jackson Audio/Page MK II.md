@@ -22,7 +22,6 @@ Jackson Audio's Page MK II is cataloged as a fuzz pedal.
 ## Transistor
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Documented terms in the verified sources: Led.
 - The archive records only the component information explicitly present in these sources.

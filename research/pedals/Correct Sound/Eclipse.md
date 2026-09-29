@@ -28,7 +28,6 @@ Audiofanzine documentation describes the Eclipse as a custom-shop, made-to-order
 
 ## Transistor
 - No exact transistor type or part number was established from the checked sources.
-
 ## Diode
 - No exact diode type was established from the checked sources.
 

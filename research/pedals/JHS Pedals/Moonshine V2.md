@@ -26,7 +26,6 @@ The Moonshine V2 is JHS's highly modified take on the classic Tube Screamer-styl
 ## Transistor
 - Exact production semiconductor details were not established in the checked sources.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact clipping diode details were not established in the checked sources.
 - **Exact part:** Unknown.

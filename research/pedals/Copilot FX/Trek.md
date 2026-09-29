@@ -38,7 +38,6 @@ Electronic pulse-width fuzz/oscillator design with dry parallel path and externa
 
 ## Transistor
 - **Exact transistor/device:** Not publicly documented in the checked sources.
-
 ## Diode
 - **Exact clipping/rectification diode/device:** Not publicly documented.
 

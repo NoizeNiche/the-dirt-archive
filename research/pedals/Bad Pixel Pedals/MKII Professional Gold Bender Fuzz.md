@@ -18,7 +18,6 @@ Bad Pixel describes the Gold Bender MkII as an accurate **Tone Bender MkII** rec
 ## Transistor
 - **3 × Russian NOS MP20/26 germanium transistors.**
 - Individual gain/leakage measurements are not published. [1][2]
-
 ## Diode / clipping
 - Exact clipping/protection diode arrangement is not publicly documented.
 

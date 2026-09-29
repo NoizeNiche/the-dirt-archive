@@ -30,7 +30,6 @@ The Apocalypse is a five-voice fuzz and distortion pedal. After the input is hea
 ## Transistor
 - Exact production transistor/device information for the full model was not established in the checked sources.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the checked sources.
 - **Exact part:** Unknown.

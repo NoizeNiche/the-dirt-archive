@@ -26,7 +26,6 @@ The defining **STARVE** control changes the voltage/current fed to the circuit's
 ## Transistor
 - The manufacturer explicitly identifies a **second transistor stage** affected by the Starve control. [1]
 - **Exact production transistor part numbers:** Unknown.
-
 ## Diode
 - **Exact production clipping diode:** Unknown.
 

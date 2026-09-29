@@ -34,7 +34,6 @@ No reliable V1/V2 production split was verified. A Reverb listing identifies a 2
 ## Transistor
 - **Technology:** Hybrid **silicon and germanium** transistor design. [1]
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - **Type:** Exact production clipping diode(s) were not publicly established in the reliable sources checked.
 - **Exact part:** Unknown.

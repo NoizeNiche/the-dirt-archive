@@ -24,7 +24,6 @@ In Oct,3 Foxes talking of dreamy FUZZ is an octave-up fuzz that combines a stand
 - **Technology:** Silicon-based fuzz voice.
 - The manufacturer explicitly describes the standard fuzz tone with the octave switch off as a 1970s **silicon-based fuzz** character. [1][3]
 - **Exact transistor/device:** Not established in the reviewed manufacturer documentation.
-
 ## Diode / clipping
 - **Exact clipping diode:** Unknown.
 - No exact diode type or part number was established in the reviewed manufacturer documentation.

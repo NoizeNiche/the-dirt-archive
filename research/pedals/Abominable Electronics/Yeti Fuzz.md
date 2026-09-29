@@ -31,7 +31,6 @@ No reliable numbered hardware revision sequence was found. The surviving record 
 ## Transistor
 - **Technology:** **Germanium**, using a selected NOS transistor pair. [1]
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - **Type:** Exact production clipping diode(s) are not publicly documented.
 - **Exact part:** Unknown.

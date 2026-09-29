@@ -22,7 +22,6 @@ The exact label on surviving examples can vary, but the three-function layout is
 ## Transistor
 - Exact production transistor technology and part number are not publicly documented.
 - DIY trace discussions are not treated as factory BOM evidence.
-
 ## Diode / clipping
 - Exact clipping/protection device and part number are not publicly documented.
 

@@ -27,7 +27,6 @@ Chellee's 2014 lineage article explains that the new Odie simplified Odelya by r
 
 ## Transistor
 No discrete transistor stage is documented. The primary active gain device is the **RC4558P dual op-amp**. [1]
-
 ## Diode
 The texture circuit includes **asymmetrical diode clipping**, alongside an asymmetrical MOSFET option and clean-boost mode. Exact diode part numbers were not established. [1][2]
 

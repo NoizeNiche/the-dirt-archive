@@ -38,7 +38,6 @@ Fat Rock's key differentiation from TightRock is functional: its Tone and Tight 
 ## Transistor
 - **Type:** Unknown.
 - No Fat Rock-specific transistor technology or part number was established.
-
 ## Diode
 - **Type:** Unknown.
 - No Fat Rock-specific diode documentation established.

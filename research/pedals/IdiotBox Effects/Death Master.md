@@ -26,7 +26,6 @@ The Death Master is IdiotBox Effects' attempt to capture the guitar sound associ
 ## Transistor
 - Exact production semiconductor details were not established.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact clipping/rectifier diode information was not established.
 - **Exact part:** Unknown.

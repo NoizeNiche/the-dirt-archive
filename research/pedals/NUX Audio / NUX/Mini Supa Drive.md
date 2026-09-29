@@ -25,7 +25,6 @@ A complete production schematic, op-amp identity, transistor complement, and cli
 
 ## Transistor
 - **Exact production transistor/device:** Unknown.
-
 ## Diode
 - **Exact production clipping diode:** Unknown.
 

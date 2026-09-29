@@ -21,7 +21,6 @@ BOSS presents the FZ-5 as a single COSM-based model rather than documenting sepa
 
 ## Transistor
 Not publicly documented as discrete production transistor devices; the FZ-5 is a COSM-based digital design.
-
 ## Diode
 Not publicly documented as discrete production diode devices for the modeled fuzz circuit.
 

@@ -24,7 +24,6 @@ OD-600P is cataloged as the plastic version of the OD-600 platform. A numbered c
 
 ## Transistor
 - **Exact transistor/device:** Not publicly documented.
-
 ## Diode
 - **Exact clipping diode/device:** Not publicly documented for the steel OD-600.
 - The related OD-600P is documented with a 4558-type dual op-amp and diode clipping, but that is not treated as a verified device list for the steel model. [2]

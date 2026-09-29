@@ -38,7 +38,6 @@ The model evolved from the earlier Hellmouth into the current four-knob version 
 ## Transistor
 - **Technology:** Solid-state overdrive.
 - **Exact transistor/device:** Not publicly documented.
-
 ## Diode
 - **Type:** Stock **silicon diodes** with switchable **5 mm red LED** clipping. [1]
 - **Exact silicon diode part:** Unknown.

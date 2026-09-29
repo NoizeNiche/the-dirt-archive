@@ -19,7 +19,6 @@
 ## Transistor
 - Four-transistor Muff-family architecture is documented at the lineage level.
 - Exact production transistor part numbers are not published.
-
 ## Diode / clipping
 - Exact clipping-device part numbers are not established.
 

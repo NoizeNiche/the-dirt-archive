@@ -21,7 +21,6 @@ The 1484 - Twin Twelve Pedal is a named Jackson Audio product based around the v
 ## Transistor
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

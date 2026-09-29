@@ -21,7 +21,6 @@ Fuzz à l’Huile is a boutique silicon fuzz pedal inspired by the legendary vin
 ## Transistor
 - Documented terms in the verified sources: BC108, silicon transistors.
 - The archive records only the component information explicitly present in these sources.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

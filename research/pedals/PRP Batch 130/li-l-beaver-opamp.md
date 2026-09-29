@@ -21,7 +21,6 @@ The Opamp designation distinguishes this version from the NYC, Ram's Head, Russi
 
 ## Transistor
 The core circuit identity is op-amp based; no single transistor set is established for the signal path from the reviewed source set.
-
 ## Diode
 Exact clipping devices not documented in the reviewed source set.
 

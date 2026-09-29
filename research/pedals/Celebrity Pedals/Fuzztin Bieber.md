@@ -21,7 +21,6 @@ The exact-model Reverb listing describes Fuzztin Bieber as a **Russian Big Muff-
 
 ## Transistor
 - Exact production transistor/device part numbers are not publicly documented.
-
 ## Diode / clipping
 - Exact clipping/protection diode type and part number are not publicly documented.
 

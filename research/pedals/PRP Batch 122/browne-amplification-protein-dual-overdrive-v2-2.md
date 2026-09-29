@@ -23,7 +23,6 @@ Browne's current store documents V2.2 separately from V3 and V4. V2.2 retains si
 
 ## Transistor
 Exact active devices not publicly documented.
-
 ## Diode
 Exact factory clipping devices not publicly documented.
 

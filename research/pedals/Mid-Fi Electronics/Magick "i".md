@@ -20,7 +20,6 @@ Magick "i" is a Mid-Fi overdrive designed around a flexible, amp-like gain respo
 
 ## Transistor
 - Exact production semiconductor details were not established.
-
 ## Diode
 - Exact clipping-device information was not established.
 

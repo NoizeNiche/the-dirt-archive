@@ -17,7 +17,6 @@ Arpiona contains three independent effect sections and five circuits, with up to
 
 ## Transistor
 - Exact transistor/device: **Unknown / not publicly documented.**
-
 ## Diode
 - Exact clipping diode: **Unknown / not publicly documented.**
 

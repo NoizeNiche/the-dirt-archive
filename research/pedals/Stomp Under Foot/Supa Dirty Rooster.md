@@ -23,7 +23,6 @@ The Supa Dirty Rooster is a Stomp Under Foot fuzz documented in Effects Database
 
 ## Transistor
 - Exact production transistor/device information was not established in the available exact-model sources.
-
 ## Diode
 - Exact production clipping/rectification diode information was not established in the available exact-model sources.
 

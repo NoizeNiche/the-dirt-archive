@@ -27,7 +27,6 @@ The Thorn Signature Distortion is the Amenra/Lennart Bossu signature version of 
 ## Transistor
 - Exact production semiconductor details were not established.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact clipping/rectifier diode information was not established.
 - **Exact part:** Unknown.

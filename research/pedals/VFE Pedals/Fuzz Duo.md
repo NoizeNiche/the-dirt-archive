@@ -21,7 +21,6 @@ Published on July 31, 2011 VFE Pedals fuzz pedal Controls fuzz filter bias level
 ## Transistor
 - Documented terms in the verified sources: silicon transistors, AC128, 2N5087.
 - The archive records only the component information explicitly present in these sources.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

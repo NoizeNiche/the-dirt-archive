@@ -30,7 +30,6 @@ The Sucker Punch is a discontinued Greer high-gain distortion designed around a 
 - The gain stage is followed by a **386D chip amplifier section**.
 - Exact JFET part number is not established.
 - **Exact transistor/device:** JFET type not specified.
-
 ## Diode
 - Exact clipping/rectifier diode information was not established in the checked sources.
 - **Exact part:** Unknown.

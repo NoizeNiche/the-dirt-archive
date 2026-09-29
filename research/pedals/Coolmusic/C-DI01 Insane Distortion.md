@@ -37,7 +37,6 @@ The manufacturer describes the C-DI01 as an analog distortion pedal. The checked
 
 ## Transistor
 - **Exact transistor/device:** Not documented in the checked sources.
-
 ## Diode
 - **Exact clipping/rectification diode/device:** Not documented in the checked sources.
 

@@ -33,7 +33,6 @@ This is more authoritative than the older marketing summary that simply describe
 - **Tone section:** 3 JFETs.
 - **Fuzz section:** 1 JFET + 2 bipolar transistors.
 - Individual part numbers are not published. [1]
-
 ## Diode / clipping
 - Exact clipping/protection diode arrangement is not published on the current product page.
 - No diode material is inferred from the transistor topology.

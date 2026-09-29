@@ -27,7 +27,6 @@ The Eternity is a Lovepedal overdrive family known for a highly interactive thre
 
 ## Transistor
 - Exact production semiconductor complement varies by version and was not established for the family record.
-
 ## Diode
 - Exact clipping-device information was not established for the family record.
 

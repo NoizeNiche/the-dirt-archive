@@ -50,7 +50,6 @@ No complete historical revision matrix was established. Current manufacturer doc
 ## Transistor
 - **JFET circuitry:** explicitly documented for the AMP section.
 - Exact JFET part numbers were not established from the checked manufacturer/retailer sources.
-
 ## Diode
 - The manufacturer describes the FUZZ section as using power-amplifier ICs rather than traditional transistor/diode clipping.
 - Exact diode type or part number: **not established**.

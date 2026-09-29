@@ -35,9 +35,7 @@ Those related entries are treated as lineage and branding relationships rather t
 
 ## Transistor
 The exact-model sources checked for this record do not securely establish a universal factory transistor type for every CBS-Arbiter Fuzz Phazer.
-
 The archive therefore leaves the transistor specification unassigned rather than importing component information from a related Fuzz Phazer or another CBS-Arbiter model.
-
 ## Diode
 The exact-model sources checked for this record do not securely establish a universal factory diode type for the CBS-Arbiter Fuzz Phazer.
 

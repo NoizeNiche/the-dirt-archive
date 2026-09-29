@@ -24,7 +24,6 @@ Chellee explicitly identifies **Odie Classic V2** as the next generation and sta
 
 ## Transistor
 No discrete transistor stage is documented. Premier Guitar identifies a **Texas Instruments 4558** op-amp in the Odie Classic circuit. [3]
-
 ## Diode
 The pedal provides selectable **silicon diode**, **LED**, and clean-boost texture modes. Exact diode part numbers were not established. [1][3]
 

@@ -29,7 +29,6 @@ Crash Central is a hand-built, 100% analog guitar distortion pedal documented by
 ## Transistor
 - Exact production transistor/device information was not established.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - The source documents red LEDs, but does not establish the exact clipping diode/device.
 - **Exact clipping part:** Unknown.

@@ -25,7 +25,6 @@ The DD-1 Double Overdrive combines two Demeter overdrive circuits in one chassis
 ## Transistor
 - Exact production semiconductor details were not established in the checked sources.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - LED indicator is documented, but the exact clipping-device arrangement is not established.
 - **Exact part:** Unknown.

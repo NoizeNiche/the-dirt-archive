@@ -27,9 +27,8 @@ The Getaway Driver is an amp-in-a-box overdrive inspired by a cranked 1970s Oran
 - The internal preamp mode and CabSim output are treated as features of the Getaway Driver design, not separate pedals.
 
 ## Transistor
-- Orange describes the gain structure as single-ended JFET circuitry operating in Class A.
+- describes the gain structure as single-ended JFET circuitry operating in Class A.
 - **Exact JFET part number:** Unknown.
-
 ## Diode
 - Exact clipping/rectifier diode information was not established in the checked sources.
 - **Exact part:** Unknown.

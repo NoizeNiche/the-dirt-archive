@@ -27,7 +27,6 @@ No reliable internal construction documentation was recovered.
 
 ## Transistor
 - **Exact transistor/device:** Not publicly documented.
-
 ## Diode
 - **Exact clipping diode/device:** Not publicly documented.
 

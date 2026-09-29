@@ -24,7 +24,6 @@ DynaPlex is MESA/Boogie's medium-gain British-inspired overdrive in the company'
 
 ## Transistor
 - Exact production semiconductor details were not established.
-
 ## Diode
 - Exact clipping/rectifier diode information was not established.
 

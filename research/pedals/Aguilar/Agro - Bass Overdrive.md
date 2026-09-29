@@ -37,7 +37,6 @@ The documented V2 change is primarily a chassis and appearance redesign. The ava
 
 ## Transistor
 - **Exact transistor/device:** Not publicly documented in the accessible product and review sources.
-
 ## Diode
 - **Exact clipping diode/device:** Not publicly documented in the accessible product and review sources.
 

@@ -24,7 +24,6 @@ MenaWatt is Menatone's interpretation of the 1960s and 1970s British amplifier f
 
 ## Transistor
 - Exact production semiconductor complement was not established.
-
 ## Diode
 - Exact clipping-device information was not established.
 

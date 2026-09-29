@@ -19,7 +19,6 @@ Tchula began as a custom two-stage COT50 built for Josh Smith and later became a
 
 ## Transistor
 - Exact production semiconductor details were not established.
-
 ## Diode
 - Exact clipping-device information was not established.
 

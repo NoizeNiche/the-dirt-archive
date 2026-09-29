@@ -25,7 +25,6 @@ The 5E3 Deluxe is Lovepedal's pedal interpretation of the Fender Tweed Deluxe 5E
 
 ## Transistor
 - Exact production semiconductor details were not established.
-
 ## Diode
 - Exact clipping/rectifier diode information was not established.
 

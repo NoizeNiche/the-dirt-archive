@@ -21,7 +21,6 @@ The DS-1W is a materially revised Waza Craft version of the DS-1. Its major fact
 
 ## Transistor
 The production DS-1W uses discrete analog circuitry, but BOSS does not publicly specify the individual transistor part numbers.
-
 ## Diode
 BOSS does not publicly specify the individual production diode part numbers.
 

@@ -21,7 +21,6 @@ The GE Mjolnir is a germanium-diode overdrive designed around the feel of a clas
 
 ## Transistor
 - Exact production transistor/device details were not established.
-
 ## Diode
 - **Documented device:** 1N34A germanium diode.
 - The complete clipping network is not established.

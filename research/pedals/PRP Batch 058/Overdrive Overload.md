@@ -38,7 +38,6 @@ Arcane Analog states that these builds are:
 ## Transistor
 - Exact transistor/device part numbers are **not publicly documented** for the Overdrive Overload catalog as a whole.
 - Because the page represents several different circuit families, a universal transistor claim would be misleading.
-
 ## Diode / clipping
 - Exact clipping diode/device part numbers are **not publicly documented** for the catalog as a whole.
 - The different named circuits should not be assumed to share one clipping implementation.

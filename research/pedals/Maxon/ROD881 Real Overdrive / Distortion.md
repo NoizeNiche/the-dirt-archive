@@ -30,7 +30,6 @@ The ROD881 is a tube-based overdrive/distortion with switchable operating modes,
 
 ## Transistor
 - **Exact production transistor/device:** Not established.
-
 ## Diode
 - **Exact production clipping diode:** Not established.
 

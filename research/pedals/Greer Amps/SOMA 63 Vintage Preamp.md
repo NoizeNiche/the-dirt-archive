@@ -25,7 +25,6 @@ The SOMA 63 is a vintage-style preamp/overdrive inspired by the front end of a 1
 ## Transistor
 - FET-based gain architecture is documented.
 - Exact device part numbers were not established.
-
 ## Diode
 - Exact clipping/rectifier diode information was not established.
 

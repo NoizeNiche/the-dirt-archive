@@ -43,7 +43,6 @@ The pedal was handmade by Coolpedals in Germany. The checked sources do not prov
 
 ## Transistor
 - **Exact transistor/device:** Not publicly documented in the checked sources.
-
 ## Diode
 - **Exact clipping/rectification diode/device:** Not publicly documented.
 

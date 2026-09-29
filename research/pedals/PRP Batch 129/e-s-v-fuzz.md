@@ -24,7 +24,6 @@ BYOC updated the PCB so it can be configured for either positive-ground PNP or n
 ## Transistor
 - **Germanium:** AC128.
 - **Silicon:** BC108 or BC109C. [1]
-
 ## Diode
 Exact clipping diode/device is not separately documented in the product description.
 

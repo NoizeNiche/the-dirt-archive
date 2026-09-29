@@ -20,7 +20,6 @@ The DRV-1 Overdriveulator is the first drive stage used in Demeter's later DD-1 
 
 ## Transistor
 - Exact production transistor/device details were not established.
-
 ## Diode
 - Exact clipping/rectifier diode information was not established.
 

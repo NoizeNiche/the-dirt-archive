@@ -25,7 +25,6 @@ The major documented identity change is the builder name transition from Nina El
 ## Transistor
 - **Technology:** Exact active-device technology is not publicly documented.
 - **Exact device:** Unknown.
-
 ## Diode
 - **Type:** Not publicly documented.
 

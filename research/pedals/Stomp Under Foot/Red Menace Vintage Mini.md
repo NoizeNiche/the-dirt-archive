@@ -27,7 +27,6 @@ The Red Menace Vintage Mini is a limited-edition Stomp Under Foot fuzz that comb
 ## Transistor
 - Exact production transistor/device information was not established in the checked sources.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the checked sources.
 - **Exact part:** Unknown.

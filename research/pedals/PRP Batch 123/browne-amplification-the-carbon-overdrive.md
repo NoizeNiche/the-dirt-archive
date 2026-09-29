@@ -23,7 +23,6 @@ V2 adds the hi-cut variations around the original Carbon setting. [1]
 
 ## Transistor
 Exact active devices not publicly documented.
-
 ## Diode
 Exact clipping devices not publicly documented.
 

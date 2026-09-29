@@ -16,7 +16,6 @@ Zendrive is a four-control low-to-medium gain overdrive developed by Alfonso Her
 
 ## Transistor
 - Exact production semiconductor details were not established for the family record.
-
 ## Diode
 - Exact clipping-device information was not established.
 

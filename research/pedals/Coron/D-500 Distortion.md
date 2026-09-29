@@ -20,7 +20,6 @@ D-500 Distortion belongs to Coron's last series, a family that Effects Database 
 
 ## Transistor
 - No exact transistor type or part number was established from the checked sources.
-
 ## Diode
 - No exact diode type was established from the checked sources.
 

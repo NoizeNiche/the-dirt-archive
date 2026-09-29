@@ -16,7 +16,6 @@ Tiki Drive is a multi-stage overdrive developed at Elliot Easton's request and d
 
 ## Transistor
 - Exact production transistor complement was not established.
-
 ## Diode
 - Exact clipping-device information was not established.
 

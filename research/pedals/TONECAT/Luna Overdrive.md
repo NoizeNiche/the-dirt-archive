@@ -21,7 +21,6 @@ Part of the Art of the Home of Tone collection , Luna is a versatile, touch-sens
 ## Transistor
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

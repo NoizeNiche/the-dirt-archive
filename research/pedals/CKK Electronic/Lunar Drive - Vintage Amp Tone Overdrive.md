@@ -22,7 +22,6 @@
 
 ## Transistor
 - Exact production transistor/device part number is not publicly documented.
-
 ## Diode / clipping
 - The CLIP switch changes clipping configuration.
 - Exact diode/device types are not identified. [1]

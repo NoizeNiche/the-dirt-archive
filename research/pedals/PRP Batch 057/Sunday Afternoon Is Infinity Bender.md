@@ -26,7 +26,6 @@ Sunday Afternoon Is Infinity Bender is a Tone Bender-inspired fuzz from Animals 
 - **Technology:** Silicon.
 - The manufacturer/demo documentation explicitly identifies the pedal as using silicon transistors.
 - **Exact transistor/device:** Not established in the reviewed sources. [2]
-
 ## Diode / clipping
 - **Exact clipping diode:** Unknown.
 - The manufacturer does not publish a confirmed clipping-diode part number or semiconductor material in the reviewed product documentation.

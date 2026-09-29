@@ -21,7 +21,6 @@ When’s the last time you turned up your favorite fuzz pedal to anything but el
 ## Transistor
 - Documented terms in the verified sources: silicon transistors.
 - The archive records only the component information explicitly present in these sources.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

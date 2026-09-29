@@ -32,7 +32,6 @@ Used-market references span multiple years and finishes, but the available evide
 ## Transistor
 - **Technology:** The pedal follows the Superfuzz-family design. A secondary reference identifies original Matsushita 2SC828 transistors in the Harakiri circuit, but this is not independently confirmed by builder documentation. [2]
 - **Exact transistor/device:** Matsushita **2SC828** reported by secondary reference; treat as externally sourced rather than builder-confirmed. [2]
-
 ## Diode
 - **Type:** Exact production clipping/rectifier diode(s) were not publicly established by the reliable sources checked.
 - **Exact part:** Unknown.

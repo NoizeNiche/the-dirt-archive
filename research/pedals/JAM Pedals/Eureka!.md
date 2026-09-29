@@ -22,7 +22,6 @@ Fuzz Pedal { "product": {"id":10203869872420,"title":"JAM Eureka!
 ## Transistor
 - Documented terms in the verified sources: germanium fuzz, silicon transistors.
 - The archive records only the component information explicitly present in these sources.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

@@ -20,7 +20,6 @@ Microtubes Infinity is a programmable Darkglass bass distortion/preamp platform 
 
 ## Transistor
 - Exact production semiconductor complement was not established.
-
 ## Diode
 - Exact clipping/rectifier diode information was not established.
 

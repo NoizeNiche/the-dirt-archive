@@ -37,7 +37,6 @@ The checked sources identify the product as an analog overdrive but do not provi
 
 ## Transistor
 - **Exact transistor/device:** Not documented in the checked sources.
-
 ## Diode
 - **Exact clipping/rectification diode/device:** Not documented in the checked sources.
 

@@ -22,7 +22,6 @@ Bass TightFuzz Amptweaker Bass Distortion Dimensions 94 mm wide 135 mm high Curr
 ## Transistor
 - Documented terms in the verified sources: Silicon transistor, Silicon transistors.
 - The archive records only the component information explicitly present in these sources.
-
 ## Diode
 - Documented terms in the verified sources: LED, LEDs.
 - The archive records only the component information explicitly present in these sources.

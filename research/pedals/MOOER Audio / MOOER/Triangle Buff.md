@@ -23,7 +23,6 @@ The exact-model manufacturer page establishes the product as a compact true-bypa
 
 ## Transistor
 - **Exact production transistor/device:** Unknown.
-
 ## Diode
 - **Exact production clipping/rectifier diode:** Unknown.
 

@@ -21,7 +21,6 @@ Loopy Demos Show or hide the side bar navigation Loopy Demos Demos Posts Manufac
 ## Transistor
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

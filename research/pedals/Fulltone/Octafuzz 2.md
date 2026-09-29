@@ -23,7 +23,6 @@ The Octafuzz 2 is Fulltone's recreation of the classic Tycobrahe Octavia-style c
 
 ## Transistor
 - Exact production transistor/device information was not established.
-
 ## Diode
 - Exact clipping/rectifier diode information was not established.
 

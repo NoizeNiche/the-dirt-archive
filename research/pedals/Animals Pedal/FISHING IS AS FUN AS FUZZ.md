@@ -18,7 +18,6 @@ Fishing Is As Fun As Fuzz is Animals Pedal's Civil War-era Big Muff-inspired fuz
 
 ## Transistor
 - Exact transistor type not established.
-
 ## Diode
 - Exact diode type not established.
 

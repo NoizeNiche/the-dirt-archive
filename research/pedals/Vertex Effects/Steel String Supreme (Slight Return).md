@@ -22,7 +22,6 @@ Vertex Effects's Steel String Supreme (Slight Return) is cataloged as an overdri
 ## Transistor
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

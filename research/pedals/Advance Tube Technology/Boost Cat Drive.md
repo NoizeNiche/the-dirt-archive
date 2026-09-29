@@ -26,7 +26,6 @@ No numbered factory revision was verified.
 ## Transistor
 - **Exact transistor/device:** Not publicly documented.
 - Circuit is documented as using selected discrete semiconductors and no op amp. [1]
-
 ## Diode
 - **Exact clipping diode/device:** Not publicly documented.
 

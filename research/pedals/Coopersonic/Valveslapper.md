@@ -29,7 +29,6 @@ Hand-built in Nottingham, England, with two valves operating at high voltage. [1
 ## Transistor
 - **Principal gain devices:** vacuum valves.
 - Exact supporting semiconductor device list not documented.
-
 ## Diode
 - **Exact clipping/rectification diode/device:** Not publicly documented.
 

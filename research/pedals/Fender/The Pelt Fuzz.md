@@ -26,10 +26,9 @@ The Pelt Fuzz is a transistor-based Fender fuzz with an unusually broad set of c
 - This archive record remains the original Pelt identity.
 
 ## Transistor
-- Fender describes the circuit as transistor-based.
+- describes the circuit as transistor-based.
 - Exact production transistor part numbers were not established.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact clipping/rectifier diode information was not established in the checked sources.
 - **Exact part:** Unknown.

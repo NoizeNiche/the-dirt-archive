@@ -21,7 +21,6 @@ The Dirt Archive currently catalogs **Myriad w/loop Fuzz Pedal — fuzz / loop-m
 ## Transistor
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

@@ -23,7 +23,6 @@ The model is listed in the Effects Database catalog; model-specific construction
 
 ## Transistor
 - **Exact transistor/device:** Not publicly documented in the checked sources.
-
 ## Diode
 - **Exact clipping diode/device:** Not publicly documented in the checked sources.
 

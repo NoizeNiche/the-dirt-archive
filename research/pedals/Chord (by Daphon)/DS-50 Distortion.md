@@ -31,7 +31,6 @@ The checked exact-model sources do not establish a numbered hardware revision se
 
 ## Transistor
 No exact-model transistor specification was established.
-
 ## Diode
 No exact-model diode specification was established.
 

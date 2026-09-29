@@ -22,7 +22,6 @@ The standard DS-1 is described by BOSS as retaining its original design. The 202
 
 ## Transistor
 BOSS documents transistor and op-amp gain stages in the DS-1 circuit, but does not publicly specify the individual production transistor part numbers on the current product page.
-
 ## Diode
 BOSS does not publicly specify the individual production diode part numbers on the current product page.
 

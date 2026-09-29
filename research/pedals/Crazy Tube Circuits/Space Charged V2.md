@@ -43,7 +43,6 @@ Crazy Tube Circuits' documentation allows compatible 9-pin dual-triode substitut
 
 ## Transistor
 - The signal path is tube-centered; exact transistor part numbers were not established.
-
 ## Diode
 - Exact diode type or part number: **not established**.
 

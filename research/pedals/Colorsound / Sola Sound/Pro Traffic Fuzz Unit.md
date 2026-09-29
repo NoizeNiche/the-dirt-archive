@@ -29,7 +29,6 @@ The units were produced in England by Sola Sound/Colorsound for third-party dist
 ## Transistor
 - **Typical family:** Silicon transistors in the late-1970s Jumbo Tone Bender lineage.
 - Exact Pro Traffic transistor selection was not established in the checked sources.
-
 ## Diode
 - **Exact clipping diode/device:** Not publicly documented in the checked sources.
 

@@ -28,7 +28,6 @@ No formal numbered factory revision sequence was established.
 
 ## Transistor
 No exact-model transistor specification was published.
-
 ## Diode
 No exact-model diode specification was published.
 

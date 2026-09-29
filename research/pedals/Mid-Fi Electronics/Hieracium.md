@@ -26,7 +26,6 @@ Hieracium is an envelope-controlled overdrive from Mid-Fi Electronics with a sma
 ## Transistor
 - Exact production semiconductor details were not established.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact clipping/rectifier diode information was not established.
 - **Exact part:** Unknown.

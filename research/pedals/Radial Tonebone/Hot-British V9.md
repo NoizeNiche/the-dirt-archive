@@ -22,7 +22,6 @@ In other words, the Hot-British V9 is a Plexi-in-a-box packed full of harmonics,
 ## Transistor
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

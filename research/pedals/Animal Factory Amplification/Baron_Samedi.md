@@ -56,7 +56,6 @@ Lower-frequency shaping control that can emphasize the lower-octave region and a
 ## Transistor
 - **Technology:** Unknown.
 - No reliable Baron Samedi-specific transistor family or exact device number was established in the reviewed first-party and independent sources.
-
 ## Diode
 - **Technology:** Unknown.
 - No reliable Baron Samedi-specific clipping diode information was established.

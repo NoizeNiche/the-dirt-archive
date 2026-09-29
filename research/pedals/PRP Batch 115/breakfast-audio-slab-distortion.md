@@ -24,7 +24,6 @@ No numbered revision sequence verified.
 ## Transistor
 - **Technology:** Op-amp based analog distortion.
 - Exact op-amp part numbers beyond the documented circuit lineage are not fully established.
-
 ## Diode
 Exact clipping diode/device not publicly documented.
 

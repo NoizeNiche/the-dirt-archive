@@ -22,7 +22,6 @@ Coggins Audio states that Cogmeister supersedes the discontinued Tube Bender and
 
 ## Transistor
 The complete circuit is **all-discrete, Class-A, silicon transistor** circuitry. [1]
-
 ## Diode
 The Drive section does not use diode clipping. Dan Coggins describes transistor-based symmetrical and asymmetrical clipping; the Push stage also uses transistor clipping. [3]
 

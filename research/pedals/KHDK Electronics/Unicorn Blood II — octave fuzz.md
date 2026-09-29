@@ -17,7 +17,6 @@ Unicorn Blood II is a KHDK Electronics limited-edition octave fuzz documented by
 
 ## Transistor
 - **Exact production transistor/device:** Unknown.
-
 ## Diode
 - **Exact clipping/rectifier diode:** Unknown.
 

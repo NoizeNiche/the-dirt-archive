@@ -25,7 +25,6 @@ No formal numbered factory revision history was established. The defining constr
 
 ## Transistor
 Collateral FX specifies **two NOS silicon transistors** selected for performance and stability, plus a **carefully selected germanium transistor** in the power arrangement. Exact transistor part numbers are not published on the product page. [1]
-
 ## Diode
 No exact diode specification was published. [1]
 

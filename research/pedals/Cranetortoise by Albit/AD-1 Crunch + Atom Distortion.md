@@ -17,7 +17,6 @@ No separate production revision was established in the checked sources.
 
 ## Transistor
 - Exact transistor type or part number: **not established**.
-
 ## Diode
 - Exact diode type or part number: **not established**.
 

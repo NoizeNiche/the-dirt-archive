@@ -29,7 +29,6 @@ No reliable V1/V2 sequence was verified in the sources checked. DIS-01 is retain
 ## Transistor
 - **Technology:** Exact transistor or discrete active-device selection is not publicly established in the reliable product documentation checked.
 - **Exact device:** Unknown.
-
 ## Diode
 - **Type:** Exact production clipping diode/device is not publicly established.
 - **Exact part:** Unknown.

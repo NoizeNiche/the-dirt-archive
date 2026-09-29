@@ -37,7 +37,6 @@ Published EQ ranges:
 
 ## Transistor
 - Exact transistor/op-amp part numbers are not publicly documented.
-
 ## Diode / clipping
 - Exact clipping-device topology is not publicly documented.
 

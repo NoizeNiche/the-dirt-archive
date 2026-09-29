@@ -23,7 +23,6 @@ THE DANE is a dual mid-gain overdrive and boost developed by ThorpyFX with Peter
 ## Transistor
 - Exact production transistor/device information was not established in the checked sources.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact clipping/rectifier diode information was not established in the checked sources.
 - **Exact part:** Unknown.

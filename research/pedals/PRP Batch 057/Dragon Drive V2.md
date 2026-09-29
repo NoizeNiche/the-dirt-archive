@@ -34,7 +34,6 @@ The blue indicator does not serve as the signal-clipping indicator described for
 
 ## Transistor
 - Exact transistor/device part numbers are **not publicly documented** in the reviewed sources.
-
 ## Diode
 - **Material / type:** LED clipping diodes.
 - **Externally mounted:** Yes.

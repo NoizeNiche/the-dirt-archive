@@ -18,7 +18,6 @@ Dirty Mirror is a dual-parallel fuzz pedal built around a Chemical Burn-derived 
 
 ## Transistor
 - Exact transistor type not established.
-
 ## Diode
 - Exact diode type not established.
 

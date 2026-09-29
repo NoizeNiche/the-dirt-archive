@@ -20,7 +20,6 @@ Pardner Fuzz vs Alpha Haunt The Alpha Haunt is the natural OBNE sibling to consi
 ## Transistor
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

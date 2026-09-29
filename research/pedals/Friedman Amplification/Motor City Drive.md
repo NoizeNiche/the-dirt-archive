@@ -21,7 +21,6 @@ Named after Dave Friedman's home town, the Motor City Drive delivers rich tube t
 ## Transistor
 - Documented terms in the verified sources: germanium transistor, silicon transistors.
 - The archive records only the component information explicitly present in these sources.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

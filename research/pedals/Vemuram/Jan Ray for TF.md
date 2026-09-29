@@ -21,7 +21,6 @@ USED VEMURAM / JAN RAY FOR TF $149.00 $1,225.00 Review VEMURAM Jan Ray for TF is
 ## Transistor
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

@@ -21,7 +21,6 @@ The Superior Overdrive is a two-in-one design combining Cleveland Music Co.'s **
 
 ## Transistor
 - Exact production transistor/device information was not established.
-
 ## Diode
 - Exact clipping-device information was not established.
 

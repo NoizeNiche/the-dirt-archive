@@ -27,7 +27,6 @@ The documented signal path begins with a JFET buffer, followed by a switchable o
 ## Transistor
 - **Documented device class:** JFET buffer. [1]
 - **Exact production JFET part number:** Not established in the verified product text.
-
 ## Diode
 - **Documented function:** clipping diodes in the mid-boost and main clipping op-amp feedback paths. [1]
 - **Exact diode part number:** Unknown.

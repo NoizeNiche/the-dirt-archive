@@ -25,7 +25,6 @@ No numbered production revision was verified.
 ## Transistor
 - **Technology:** Exact semiconductor technology is unverified.
 - **Exact device:** Unknown.
-
 ## Diode
 - **Type:** Exact clipping arrangement is unverified.
 

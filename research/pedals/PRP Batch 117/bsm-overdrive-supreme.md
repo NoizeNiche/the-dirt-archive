@@ -24,7 +24,6 @@ No numbered factory revision was verified.
 
 ## Transistor
 - Exact transistor/device: Not publicly documented.
-
 ## Diode
 - Exact clipping diode/device: Not publicly documented.
 

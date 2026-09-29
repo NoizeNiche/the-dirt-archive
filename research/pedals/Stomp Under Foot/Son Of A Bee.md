@@ -22,7 +22,6 @@ Fuzz Black Beauty Balanced ’11 $ 160.00 Original price was: $160.00.
 ## Transistor
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

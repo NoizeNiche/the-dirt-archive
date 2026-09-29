@@ -21,7 +21,6 @@ OSC Sets the amount of feedback you get when you use the corresponding footswitc
 ## Transistor
 - Documented terms in the verified sources: BC109, silicon transistors.
 - The archive records only the component information explicitly present in these sources.
-
 ## Diode
 - Documented terms in the verified sources: LED.
 - The archive records only the component information explicitly present in these sources.

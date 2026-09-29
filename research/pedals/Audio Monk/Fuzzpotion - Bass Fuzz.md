@@ -26,7 +26,6 @@ True bypass is documented in historical product descriptions. [2]
 
 ## Transistor
 - Exact transistor/device part numbers are **not publicly documented** in the reviewed historical sources.
-
 ## Diode / clipping
 - The builder explicitly describes heavy clipping and an octave generator, but no exact clipping diode material or part number is documented.
 

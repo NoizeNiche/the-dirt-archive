@@ -31,7 +31,6 @@ The Metal Muff with Top Boost is a high-gain distortion designed specifically fo
 ## Transistor
 - Exact production semiconductor details were not established.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact clipping-device part numbers were not established.
 - **Exact part:** Unknown.

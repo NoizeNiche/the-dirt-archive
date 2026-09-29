@@ -25,7 +25,6 @@
 
 ## Transistor
 - Exact production transistor part numbers are not publicly documented.
-
 ## Diode / clipping
 - The main fuzz uses asymmetrical Germanium/Silicon clipping.
 - Exact diode part numbers are not established. [1]

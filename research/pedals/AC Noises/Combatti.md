@@ -19,7 +19,6 @@ Combatti uses an LM308N and offers three clipping modes: open/dynamic, compresse
 ## Transistor
 - Exact transistor/device: **Unknown.**
 - LM308N is an op-amp IC, not a transistor.
-
 ## Diode
 - Three clipping modes are documented.
 - Exact diode parts: **Unknown.**

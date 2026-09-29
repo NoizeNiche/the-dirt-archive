@@ -28,7 +28,6 @@ The Companion FY-2 is a classic Japanese fuzz from the Shin-Ei/Companion family.
 ## Transistor
 - **Version-dependent:** early examples use germanium transistors; later examples use silicon transistors.
 - Exact part numbers depend on the specimen.
-
 ## Diode
 - Exact clipping diode/device was not established in the checked sources.
 - **Exact part:** Unknown.

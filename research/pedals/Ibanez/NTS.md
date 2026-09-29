@@ -25,7 +25,6 @@ The NTS Nu Tubescreamer is a Tube Screamer-family overdrive that uses Korg Nutub
 ## Transistor
 - The primary active gain device is Korg Nutube rather than a conventional transistor stage.
 - Exact supporting semiconductor list was not established.
-
 ## Diode
 - Exact clipping diode part was not established.
 

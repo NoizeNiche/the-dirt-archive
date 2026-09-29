@@ -25,7 +25,6 @@ The Kalamazoo is a smooth, harmonic overdrive with a treble-boost section built 
 
 ## Transistor
 - Exact production transistor/device information was not established.
-
 ## Diode
 - LED status indicator is documented; exact clipping-device information was not established.
 

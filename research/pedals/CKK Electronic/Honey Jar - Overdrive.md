@@ -15,7 +15,6 @@ CKK describes Honey Jar as its first hand-soldered pedal. The design is based on
 
 ## Transistor
 - Exact production transistor/device part number is not publicly documented.
-
 ## Diode / clipping
 - Exact clipping diode type and part number are not publicly documented.
 

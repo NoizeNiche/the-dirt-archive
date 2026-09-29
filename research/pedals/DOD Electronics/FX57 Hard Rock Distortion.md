@@ -22,7 +22,6 @@ The **DOD FX57 Hard Rock Distortion** is a historical DOD FX-series distortion m
 ## Transistor
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

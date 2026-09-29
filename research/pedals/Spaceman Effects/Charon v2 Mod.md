@@ -26,7 +26,6 @@ Charon v2 Mod is a germanium/silicon fuzz from Spaceman Effects. The checked man
 ## Transistor
 - Exact production semiconductor details were not established.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - The model is documented as a germanium/silicon fuzz, but exact clipping-diode part numbers were not established.
 - **Exact part:** Unknown.

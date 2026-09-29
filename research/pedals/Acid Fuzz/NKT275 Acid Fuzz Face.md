@@ -21,7 +21,6 @@ The current teardrop edition is a later limited presentation. The original listi
 ## Transistor
 - **Type:** Germanium.
 - **Documented part:** New Old Stock Newmarket NKT275 pair. [1][2]
-
 ## Diode
 - Separate clipping diode: **Not publicly documented.**
 

@@ -22,7 +22,6 @@ The 1/2 Gainer packages two independently adjustable low-gain Barber overdrive s
 
 ## Transistor
 - Exact transistor/device part numbers are **not publicly documented** in the reviewed sources.
-
 ## Diode / clipping
 - Exact diode part numbers are **not publicly documented**.
 - The reviewed documentation does not establish a specific diode chemistry.

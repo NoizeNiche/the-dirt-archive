@@ -21,7 +21,6 @@ Of course, the Disaster Fuzz is made of shamrocks and stern stuff, so there's no
 ## Transistor
 - Documented terms in the verified sources: Silicon Transistor.
 - The archive records only the component information explicitly present in these sources.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

@@ -19,7 +19,6 @@ The Boogie Man is one of five Analog Sound products documented by Effects Databa
 
 ## Transistor
 - Exact transistor type not established.
-
 ## Diode
 - Exact diode type not established.
 

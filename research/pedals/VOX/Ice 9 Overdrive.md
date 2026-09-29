@@ -22,7 +22,6 @@ Vox Ice 9 Overdrive Pedal Review: Honest Tone, Build & Use Analysis
 ## Transistor
 - Documented terms in the verified sources: AC30s.
 - The archive records only the component information explicitly present in these sources.
-
 ## Diode
 - Documented terms in the verified sources: LED, 1N4148.
 - The archive records only the component information explicitly present in these sources.

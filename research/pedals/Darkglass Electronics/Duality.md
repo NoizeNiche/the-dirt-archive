@@ -21,7 +21,6 @@ Duality 13:26 2022-11-29 Patrick Hunter THE DUALITY FUZZ IS BACK!
 ## Transistor
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

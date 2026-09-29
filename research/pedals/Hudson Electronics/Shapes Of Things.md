@@ -22,7 +22,6 @@ Hudson Electronics's Shapes Of Things is cataloged as a fuzz pedal.
 ## Transistor
 - Documented terms in the verified sources: AC125.
 - The archive records only the component information explicitly present in these sources.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

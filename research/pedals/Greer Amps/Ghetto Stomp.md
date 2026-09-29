@@ -22,7 +22,6 @@ The Ghetto Stomp is a low-to-medium gain overdrive built around transistor gain 
 ## Transistor
 - The circuit is documented as transistor-based.
 - Exact production transistor part numbers were not established.
-
 ## Diode
 - Exact clipping/rectifier diode information was not established.
 

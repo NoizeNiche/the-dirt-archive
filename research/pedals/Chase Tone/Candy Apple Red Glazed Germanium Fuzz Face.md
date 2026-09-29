@@ -25,7 +25,6 @@ while retaining the Candy Apple Red Germanium circuit/sound. [2]
 ## Transistor
 - **Germanium** transistor Fuzz Face design.
 - Exact universal transistor part number is not published in the reviewed sources.
-
 ## Diode / clipping
 - Exact clipping-device part number is not publicly documented.
 

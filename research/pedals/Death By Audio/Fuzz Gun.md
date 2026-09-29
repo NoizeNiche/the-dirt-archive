@@ -30,7 +30,6 @@ The archive record labeled **Fuzz Gun** is supported by the checked Death By Aud
 ## Transistor
 - Death By Audio documents the Bias control as affecting the output transistor.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the checked sources.
 - **Exact part:** Unknown.

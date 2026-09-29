@@ -17,7 +17,6 @@ Basic Audio's Knight fuzz takes the historical Knight fuzz concept and combines 
 ## Transistor
 - **Technology:** Hybrid germanium/silicon. [1]
 - Exact factory transistor part numbers are not publicly documented.
-
 ## Diode / clipping
 - Exact clipping-device type and part number are not publicly documented.
 

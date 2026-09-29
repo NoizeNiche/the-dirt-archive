@@ -22,7 +22,6 @@ Lucydreamer is a Tube Screamer-derived overdrive with less pronounced mids, less
 
 ## Transistor
 - Exact production transistor/device information was not established.
-
 ## Diode
 - LED indicator terminology is documented; the exact clipping-device part is not established.
 

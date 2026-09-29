@@ -27,7 +27,6 @@ No formal numbered production revision history was established beyond the limite
 
 ## Transistor
 The gain stage is built around the rare **CA3260 MOSFET operational amplifier** associated by the manufacturer with the original MT10 circuit. The pedal page does not specify discrete transistor part numbers. [1]
-
 ## Diode
 Collateral FX specifies **Toshiba MA165** signal diodes and describes the pedal as using the original NOS clipping components of the vintage design. [1]
 

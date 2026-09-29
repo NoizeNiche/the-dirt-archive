@@ -25,7 +25,6 @@ The TS808DX is an expanded Tube Screamer designed to provide the core TS808 over
 ## Transistor
 - **Documented device:** AC509.
 - Exact production complement is not established.
-
 ## Diode
 - LED indicator is documented; exact clipping diode part was not established.
 

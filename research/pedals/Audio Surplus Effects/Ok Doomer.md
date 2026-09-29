@@ -32,7 +32,6 @@ The clearest documented production change is the V4.0+ addition of internal Inpu
 ## Transistor
 - **Technology:** Solid-state gain stages.
 - **Exact device:** Not publicly documented in the sources checked.
-
 ## Diode
 - **Type:** Exact clipping diode arrangement is not publicly documented.
 

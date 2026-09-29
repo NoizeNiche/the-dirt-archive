@@ -29,7 +29,6 @@ OD-600P is documented as the plastic version of the OD-600 platform rather than 
 ## Transistor
 - **Exact transistor/device:** Not publicly documented.
 - The clipping stage is documented around a 4558-type dual op-amp rather than a named transistor device. [1]
-
 ## Diode
 - **Clipping technology:** Diode clipping is documented. [1]
 - **Exact diode/device:** Not publicly documented.

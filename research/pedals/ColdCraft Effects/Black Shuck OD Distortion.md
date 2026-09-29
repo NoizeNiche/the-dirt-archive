@@ -22,7 +22,6 @@ No reliable numbered revision sequence was established.
 
 ## Transistor
 No exact transistor part number was established.
-
 ## Diode
 No exact diode specification was established.
 

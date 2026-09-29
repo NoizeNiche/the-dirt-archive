@@ -22,7 +22,6 @@ The Robot Devil is an extreme Dwarfcraft fuzz/overdrive with octave-oriented har
 
 ## Transistor
 - Exact production transistor/device information was not established.
-
 ## Diode
 - LED indicator is documented; exact clipping diode is not established.
 

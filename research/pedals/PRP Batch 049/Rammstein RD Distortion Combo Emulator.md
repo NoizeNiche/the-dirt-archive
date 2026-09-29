@@ -17,7 +17,6 @@ A compact AMT distortion/amp-emulation product associated with Rammstein's high-
 
 ## Transistor
 - Exact transistor/device not documented.
-
 ## Diode
 - Exact clipping diode/device not documented.
 

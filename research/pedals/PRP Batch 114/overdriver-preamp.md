@@ -26,7 +26,6 @@ No reliable factory revision sequence was established.
 
 ## Transistor
 - Exact transistor/device: Unknown.
-
 ## Diode
 - Exact clipping diode/device: Unknown.
 

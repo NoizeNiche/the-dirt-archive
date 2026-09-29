@@ -22,7 +22,6 @@ HM-520 Heavy Metal Turbo is a later Coron high-gain distortion model in the comp
 
 ## Transistor
 - No exact transistor type or part number was established from the checked sources.
-
 ## Diode
 - No exact diode type was established from the checked sources.
 

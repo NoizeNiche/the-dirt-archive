@@ -25,7 +25,6 @@ No reliable numbered revision sequence was found.
 
 ## Transistor
 - Exact transistor/device: Not publicly documented.
-
 ## Diode
 - **Type:** NOS germanium diodes.
 - Exact diode part numbers: Not publicly documented.

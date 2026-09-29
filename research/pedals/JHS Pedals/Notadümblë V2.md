@@ -19,7 +19,6 @@ Notadümblë V2 is JHS's compact tribute to Dumble-style preamp/boost designs. T
 
 ## Transistor
 - Exact production semiconductor details were not established.
-
 ## Diode
 - Exact clipping/rectifier diode information was not established.
 

@@ -28,7 +28,6 @@ The DCX Boost is an analogue tone-shaper and drive pedal inspired by the Univers
 
 ## Transistor
 - Exact production semiconductor complement was not established.
-
 ## Diode
 - Exact clipping/rectifier diode information was not established.
 

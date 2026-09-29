@@ -22,7 +22,6 @@ Fuzz 1 & 2 Inspired by mainstay fuzz pedal of the 60s garage rock.
 ## Transistor
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Documented terms in the verified sources: LED.
 - The archive records only the component information explicitly present in these sources.

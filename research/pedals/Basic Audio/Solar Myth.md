@@ -22,7 +22,6 @@ Solar Myth is built around a silicon Fuzz Face-style core while providing more c
 ## Transistor
 - **Technology:** Silicon.
 - Exact factory transistor part number is not publicly documented.
-
 ## Diode / clipping
 - Exact clipping-device type and part number are not publicly documented.
 

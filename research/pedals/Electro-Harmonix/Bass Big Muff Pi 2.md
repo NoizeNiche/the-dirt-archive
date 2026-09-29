@@ -26,7 +26,6 @@ The Bass Big Muff Pi 2 combines the bass-oriented voicing of the Big Muff family
 - The defining active gain stages are op-amp based.
 - Exact production semiconductor complement was not established.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact clipping/rectifier diode information was not established.
 - **Exact part:** Unknown.

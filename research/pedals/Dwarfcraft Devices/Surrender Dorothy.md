@@ -19,9 +19,8 @@ Dwarfcraft Devices browse by type distortion/fuzz/overdrive fuzz browse by enclo
 - No specific factory version changes were established in the verified evidence packet.
 
 ## Transistor
-- Documented terms in the verified sources: AC30, 2N5457.
+- Documented terms in the verified sources, 2N5457.
 - The archive records only the component information explicitly present in these sources.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

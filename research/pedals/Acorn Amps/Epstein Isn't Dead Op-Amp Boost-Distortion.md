@@ -30,7 +30,6 @@ No documented electronic revision history was found in the production material r
 ## Transistor
 - **Exact transistor/device:** Not publicly documented.
 - The active gain stage is described as a single op-amp circuit. [1]
-
 ## Diode
 - **Exact production clipping diode/device:** Not publicly documented.
 

@@ -52,7 +52,6 @@ The OC45 mode uses hand-selected NOS Mullard/Valvo **OC45 germanium transistors*
 ## Transistor
 - **OC45 germanium transistors:** explicitly documented for the RAW clipping mode.
 - Exact batch/individual transistor selection beyond the documented Mullard/Valvo OC45 source is not established.
-
 ## Diode
 - Standard/Stock mode retains the standard germanium-diode clipping.
 - Exact diode part number: **not established**.

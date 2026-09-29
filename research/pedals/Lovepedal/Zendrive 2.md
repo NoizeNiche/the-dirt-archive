@@ -24,7 +24,6 @@ The Zendrive 2 is a small-batch Hermida Audio design from 2016 that uses high-vo
 ## Transistor
 - **High-voltage FET** technology is explicitly documented.
 - Exact FET part number is not established.
-
 ## Diode
 - Exact clipping/rectifier diode information was not established.
 

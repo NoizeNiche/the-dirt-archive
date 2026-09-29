@@ -19,7 +19,6 @@ Acid Fuzz describes the Mk1.5 as a faithful clone of the 1965 Sola Sound Mk1.5 T
 ## Transistor
 - **Type:** Germanium.
 - **Documented part:** OC75 pair, selected for gain and leakage. [1]
-
 ## Diode
 - Separate clipping diode: **Not publicly documented.**
 

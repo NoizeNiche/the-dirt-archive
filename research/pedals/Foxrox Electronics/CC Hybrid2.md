@@ -21,7 +21,6 @@ CC Hybrid2 is a very stable fuzz that rejects radio transmissions, and the tone 
 ## Transistor
 - Documented terms in the verified sources: silicon transistor, silicon transistors, germanium transistor.
 - The archive records only the component information explicitly present in these sources.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

@@ -26,7 +26,6 @@ No reliable revision history was established.
 
 ## Transistor
 No exact-model transistor part number was established in the checked source.
-
 ## Diode
 No exact-model diode specification was established.
 

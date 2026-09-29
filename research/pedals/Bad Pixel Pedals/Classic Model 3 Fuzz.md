@@ -18,7 +18,6 @@ Model 03 is the Classic Series silicon Face configuration. Bad Pixel pairs a cla
 ## Transistor
 - **Technology:** Silicon NPN.
 - **Documented devices:** **2 × BC108**, selected for each pedal. [1]
-
 ## Diode / clipping
 - Exact clipping/protection diode arrangement is not publicly documented.
 

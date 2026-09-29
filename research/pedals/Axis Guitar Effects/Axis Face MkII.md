@@ -20,7 +20,6 @@ The exact transistor part numbers are not identified in the reviewed source.
 ## Transistor
 - Two-transistor Fuzz Face architecture.
 - Exact transistor devices are not published in the reviewed Axis source.
-
 ## Diode
 - **Reverse-polarity protection diode:** Verified.
 - This should not be treated as a clipping diode.

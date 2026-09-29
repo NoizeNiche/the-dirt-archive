@@ -23,7 +23,6 @@ The Cryptid Fuzz is Wampler's modern fuzz built as a broad homage to classic fuz
 ## Transistor
 - Exact production semiconductor details were not established in the checked sources.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact clipping-device part was not established in the checked sources.
 - **Exact part:** Unknown.

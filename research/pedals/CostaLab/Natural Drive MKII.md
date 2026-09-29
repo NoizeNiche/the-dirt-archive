@@ -28,7 +28,6 @@ Natural Drive MKII is the buffered evolution of CostaLab's Natural Drive. Extern
 
 ## Transistor
 - Exact transistor type or part number: **not established**.
-
 ## Diode
 - Germanium diode clipping is documented.
 - Exact diode part number: **not established**.

@@ -22,7 +22,6 @@ Published on March 5, 2011 Wampler Pedals fuzz pedal design design preview previ
 ## Transistor
 - Documented terms in the verified sources: 2N5088s, 2N5088.
 - The archive records only the component information explicitly present in these sources.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

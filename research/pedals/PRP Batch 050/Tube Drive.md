@@ -24,7 +24,6 @@ Tube Drive is described by the builder as a flexible overdrive that can cover se
 
 ## Transistor
 - Exact transistor/device part numbers are not publicly documented.
-
 ## Diode
 - Exact clipping diode/device is not publicly documented.
 

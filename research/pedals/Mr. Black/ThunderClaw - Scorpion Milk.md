@@ -23,7 +23,6 @@ The Scorpion Milk page reproduces the ThunderClaw's high-headroom analog design 
 
 ## Transistor
 - **Exact production transistor/device:** Not established in the verified source.
-
 ## Diode
 - **Exact production clipping diode:** Unknown.
 

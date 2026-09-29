@@ -21,7 +21,6 @@ Ceriatone's Horse Breaker packages two familiar low/medium-gain drive families i
 
 ## Transistor
 - Exact production transistor/device part numbers are not securely established.
-
 ## Diode / clipping
 - Exact clipping-device type and part number are not securely established.
 

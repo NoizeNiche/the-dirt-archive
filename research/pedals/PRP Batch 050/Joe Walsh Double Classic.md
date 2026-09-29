@@ -28,7 +28,6 @@ The Joe Walsh Double Classic combines a studio-style compressor and an analog Cl
 
 ## Transistor
 - Exact transistor/device part numbers are not publicly documented.
-
 ## Diode
 - Exact clipping diode/device is not publicly documented.
 

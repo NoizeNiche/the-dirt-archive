@@ -33,7 +33,6 @@ The clearest documented change is cosmetic artwork, while later production uses 
 ## Transistor
 - **Technology:** Solid-state fuzz.
 - **Exact transistor/device:** Not publicly documented.
-
 ## Diode
 - **Type:** Diode clipping is part of the Destroy function, but the exact production diode type is not published. [1]
 - **Exact part:** Unknown.

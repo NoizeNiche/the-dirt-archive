@@ -19,7 +19,6 @@
 ## Transistor
 - **Technology:** Hybrid Germanium/Silicon.
 - Exact individual transistor part numbers are not established. [1][2]
-
 ## Diode / clipping
 - Exact clipping-device type and part number are not publicly documented.
 

@@ -27,7 +27,6 @@ The public material does not provide a complete component-level schematic.
 ## Transistor
 - Primary gain devices are vacuum valves, not a transistor gain stage.
 - Exact supporting semiconductor devices are not documented.
-
 ## Diode
 - Exact clipping/rectification diode/device is not publicly documented.
 

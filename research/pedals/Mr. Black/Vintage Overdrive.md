@@ -25,7 +25,6 @@ Mr. Black describes the Vintage Overdrive as a smooth, round, singing overdrive 
 
 ## Transistor
 - **Exact production transistor/device:** Unknown.
-
 ## Diode
 - The archived evidence mentions LED indicator components, but does not establish the production clipping diode.
 - **Exact clipping diode:** Unknown.

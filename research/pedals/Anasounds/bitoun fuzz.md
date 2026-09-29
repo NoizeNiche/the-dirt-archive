@@ -20,7 +20,6 @@ bitoun fuzz is a double-fuzz pedal combining the Feed Me circuit with a Super Fu
 
 ## Transistor
 - The Feed Me side is a BC108 silicon fuzz design. Exact technology for the Super Fuzz side was not established in the reviewed material. [2]
-
 ## Diode
 - Exact diode type not established.
 

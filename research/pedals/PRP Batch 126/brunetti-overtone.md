@@ -23,7 +23,6 @@ Overtone 2 is retained as a separate catalog identity because it is documented a
 ## Transistor
 - **Technology:** Tube.
 - Transistor devices are not applicable to the documented gain architecture.
-
 ## Diode
 Exact clipping diode devices are not publicly documented.
 

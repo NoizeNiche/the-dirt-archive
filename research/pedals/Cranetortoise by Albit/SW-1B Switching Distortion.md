@@ -24,7 +24,6 @@ SW-1B is the bass-oriented version of the Cranetortoise SW-1 switching distortio
 
 ## Transistor
 - Exact transistor type or part number: **not established**.
-
 ## Diode
 - Exact diode type or part number: **not established**.
 

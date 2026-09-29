@@ -26,9 +26,7 @@ The exact historical chronology is still being reconstructed. The checked source
 
 ## Transistor
 A documented 1966 Fuzzmaster example uses **three silicon 2N3565 transistors**. [1]
-
 This is recorded as an exact documented example, not automatically generalized to every Fuzzmaster in the family.
-
 ## Diode
 No exact-model diode specification was established.
 

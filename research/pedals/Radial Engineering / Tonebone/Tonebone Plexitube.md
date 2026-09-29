@@ -24,7 +24,6 @@ The Tonebone Plexitube is a two-channel tube distortion pedal built around a **1
 
 ## Transistor
 - **Exact production transistor/device complement:** Not established in the manufacturer documentation reviewed.
-
 ## Diode
 - **Exact production clipping/rectifier diode:** Not established in the manufacturer documentation reviewed.
 

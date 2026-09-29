@@ -28,9 +28,8 @@ The Hammertone Overdrive is a Fender-designed analog overdrive intended to add w
 - No complete numbered production revision chronology was established in the checked sources.
 
 ## Transistor
-- Exact production semiconductor details were not established in Fender's public product material.
+- Exact production semiconductor details were not established in 's public product material.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact clipping/rectifier diode information was not established.
 - **Exact part:** Unknown.

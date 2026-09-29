@@ -20,7 +20,6 @@ Sandro Marchetti's interview states that in **1976** the group adopted an extrud
 
 ## Transistor
 - Exact component inventory was not established for the Cosmosound-branded E-6 in the checked sources.
-
 ## Diode
 - Exact diode type: **not established**.
 

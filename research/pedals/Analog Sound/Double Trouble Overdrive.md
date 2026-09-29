@@ -19,7 +19,6 @@ Double Trouble Overdrive is one of five Analog Sound products documented by Effe
 
 ## Transistor
 - Exact transistor type not established.
-
 ## Diode
 - Exact diode type not established.
 

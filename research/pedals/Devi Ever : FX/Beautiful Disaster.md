@@ -21,7 +21,6 @@ Beautiful Disaster is cataloged by the archive as a Devi Ever : FX fuzz pedal. T
 ## Transistor
 - Exact production transistor/device information is not established.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact production clipping/rectifier diode information is not established.
 - **Exact part:** Unknown.

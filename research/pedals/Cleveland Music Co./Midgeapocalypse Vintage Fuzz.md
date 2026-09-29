@@ -21,7 +21,6 @@ The Midgeapocalypse Vintage Fuzz is a vintage-voiced fuzz designed for gnarly, s
 
 ## Transistor
 - Unknown from the checked exact-model documentation.
-
 ## Diode
 - Unknown from the checked exact-model documentation.
 

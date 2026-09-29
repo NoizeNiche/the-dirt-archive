@@ -34,7 +34,6 @@ The verified production documentation shows a knob-style change, but no numbered
 ## Transistor
 - **Technology:** Germanium. [1]
 - **Exact transistor/device:** **Matsushita 2SB54**, in a pair. [1]
-
 ## Diode
 - **Type:** Exact production clipping diode(s) were not publicly documented in the reliable sources checked.
 - **Exact part:** Unknown.

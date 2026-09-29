@@ -22,7 +22,6 @@ Tech 21 NYC's Richie Kotzen Signature OMG is cataloged as a fuzz / overdrive ped
 ## Transistor
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

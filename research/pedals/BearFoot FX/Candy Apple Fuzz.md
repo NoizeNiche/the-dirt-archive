@@ -25,7 +25,6 @@ The Nature and Fuzz controls are central to the model's usable range; Treble pro
 - **Silicon versions:** documented.
 - Exact universal device complement is not established.
 - Do not generalize a device from one individual example to the whole model. [1][2]
-
 ## Diode / clipping
 - Exact clipping/protection device and part number are not publicly documented.
 

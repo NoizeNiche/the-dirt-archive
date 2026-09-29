@@ -27,7 +27,6 @@ The Supersonic Fuzz Gun is a fuzz pedal built around highly interactive controls
 ## Transistor
 - Death By Audio documents the Bias control as affecting the output transistor, but an exact production transistor part number was not established.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established.
 - **Exact part:** Unknown.

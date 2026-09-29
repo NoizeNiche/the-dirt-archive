@@ -21,7 +21,6 @@ Urla combines a CMOS fuzz with a dual resonant filter. AC Noises describes the f
 ## Transistor
 - Technology: CMOS logic-based fuzz.
 - Exact discrete transistor inventory: **Unknown.**
-
 ## Diode
 - Exact clipping diode: **Unknown.**
 

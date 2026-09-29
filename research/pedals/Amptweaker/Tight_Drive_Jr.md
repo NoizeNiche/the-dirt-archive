@@ -36,7 +36,6 @@ The most important change from the larger Tight Drive is structural and control-
 ## Transistor
 - **Type:** Unknown.
 - No Tight Drive Jr-specific transistor technology or part number was established.
-
 ## Diode
 - **Type:** Unknown.
 - No Tight Drive Jr-specific schematic or component record established a diode type.

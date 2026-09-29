@@ -32,7 +32,6 @@ The original Fuzz Peaks is documented as the earlier version of the design. The 
 ## Transistor
 - The original circuit is described as a Black Russian Muff-derived design, but exact production transistor part numbers were not verified.
 - **Exact transistor/device:** Not publicly documented.
-
 ## Diode
 - Clipping selection is documented, but the exact production diode types are not publicly documented.
 

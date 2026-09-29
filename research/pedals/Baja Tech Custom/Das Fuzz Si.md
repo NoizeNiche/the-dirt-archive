@@ -28,7 +28,6 @@ The surviving documentation distinguishes the original two-control Das Fuzz from
 ## Transistor
 - **Technology:** Silicon Fuzz Face-style fuzz.
 - **Exact transistor:** Not publicly documented in the checked sources.
-
 ## Diode
 - **Exact clipping/protection arrangement:** Not publicly documented in the checked sources.
 

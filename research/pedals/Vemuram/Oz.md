@@ -28,7 +28,6 @@ The retained evidence does not establish a complete production schematic or semi
 ## Transistor
 - **Exact production transistor/device:** Unknown.
 - A used-market description identifies the pedal as a vintage silicon-transistor fuzz, but the production device part number is not established in the retained evidence. [2]
-
 ## Diode
 - **Exact production clipping diode:** Unknown.
 

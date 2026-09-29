@@ -28,7 +28,6 @@ No circuit, control, or power change is documented between the Limited Edition a
 ## Transistor
 - **Technology:** Unknown.
 - The manufacturer does not publish an exact transistor material or part number for the PNPD in the reviewed documentation.
-
 ## Diode / clipping
 - **Technology:** Unknown.
 - No exact clipping diode type or semiconductor material is documented for the PNPD in the reviewed manufacturer sources.

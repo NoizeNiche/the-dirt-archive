@@ -21,7 +21,6 @@ Analog Noir's Tone Bender MKI is a hand-wired recreation of the 1965 Sola Sound 
 ## Transistor
 - **Technology:** Germanium.
 - Current listings document three selected vintage germanium transistors. [1]
-
 ## Diode
 - Exact diode type was not established.
 

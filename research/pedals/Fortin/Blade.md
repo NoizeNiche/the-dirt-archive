@@ -22,7 +22,6 @@ Working closely with the triple guitar threat of Zach Householder, Alex Wade and
 ## Transistor
 - Documented terms in the verified sources: ac1b-4b87-a710-0d810bfa056e.
 - The archive records only the component information explicitly present in these sources.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

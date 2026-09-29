@@ -31,7 +31,6 @@ The Deluxe Bass Big Muff Pi is EHX's bass-oriented expansion of the classic Big 
 ## Transistor
 - Exact production semiconductor details vary by production era and were not established for this unversioned record.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact clipping/rectifier diode information was not established.
 - **Exact part:** Unknown.

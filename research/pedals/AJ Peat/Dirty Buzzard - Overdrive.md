@@ -28,7 +28,6 @@ No numbered factory revision was verified in the available manufacturer document
 ## Transistor
 - **Technology:** Hybrid NOS germanium and silicon transistors. [1]
 - **Exact transistor/device numbers:** Not publicly documented.
-
 ## Diode
 - **Exact clipping diode/device:** Not publicly documented.
 

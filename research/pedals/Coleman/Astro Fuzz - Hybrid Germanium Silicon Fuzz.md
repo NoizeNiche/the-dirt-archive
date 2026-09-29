@@ -20,7 +20,6 @@ No formal numbered factory revision sequence was established.
 
 ## Transistor
 The exact model is explicitly classified as **hybrid germanium/silicon fuzz**. Exact transistor part numbers were not established from the checked model page. [1]
-
 ## Diode
 No exact-model diode specification was established.
 

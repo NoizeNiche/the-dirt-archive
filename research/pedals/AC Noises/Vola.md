@@ -19,7 +19,6 @@ Vola is a transparent, dynamic overdrive that can also work as a clean boost or 
 
 ## Transistor
 - Exact transistor/device: **Unknown.**
-
 ## Diode
 - Exact clipping device: **Unknown.**
 

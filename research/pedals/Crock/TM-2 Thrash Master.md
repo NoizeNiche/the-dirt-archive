@@ -21,7 +21,6 @@ Published on April 23, 2019 Crock distortion pedal picture by Audiodrome picture
 ## Transistor
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

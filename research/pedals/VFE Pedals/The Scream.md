@@ -26,7 +26,6 @@ The Scream is VFE's extended take on the Tube Screamer-style overdrive format. T
 
 ## Transistor
 - **Exact production transistor/device:** Not established.
-
 ## Diode
 - **Exact clipping device:** LED clipping is documented; the exact production part number is not established.
 

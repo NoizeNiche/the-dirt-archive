@@ -21,7 +21,6 @@ ZenTone is a hand-soldered overdrive inspired by Dumble-type and "Zen..." overdr
 ## Transistor
 - No discrete transistor part number is documented in the source checked.
 - Active op-amp: Burr-Brown OPA2604. [1]
-
 ## Diode
 - ST Microelectronics BAT41
 - ST Microelectronics BAT46

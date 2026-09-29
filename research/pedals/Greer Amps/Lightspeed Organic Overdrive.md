@@ -27,7 +27,6 @@ The Lightspeed Organic Overdrive is a natural-sounding low-to-mild gain overdriv
 ## Transistor
 - Exact production transistor/device information was not established in the checked sources.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - The checked source documents red LEDs on certain custom editions, but that does not establish a clipping diode.
 - **Exact clipping part:** Unknown.

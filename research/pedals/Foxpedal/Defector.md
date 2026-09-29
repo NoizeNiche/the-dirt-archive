@@ -22,7 +22,6 @@ What Foxpedal say about the Defector ***Please allow 5-7 business days for fulfi
 ## Transistor
 - Documented terms in the verified sources: silicon transistor, 2N5088, 2N5089.
 - The archive records only the component information explicitly present in these sources.
-
 ## Diode
 - Documented terms in the verified sources: LED.
 - The archive records only the component information explicitly present in these sources.

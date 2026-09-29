@@ -27,7 +27,6 @@ No formal numbered factory revision sequence was established.
 
 ## Transistor
 The builder explicitly identifies **NOS military-spec germanium transistor circuitry**. Exact transistor part numbers were not established. [1]
-
 ## Diode
 No exact-model diode specification was established.
 

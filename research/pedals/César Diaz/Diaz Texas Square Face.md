@@ -28,9 +28,7 @@ Collector documentation distinguishes early hand-built examples from later produ
 
 ## Transistor
 The strongest exact-model sources available for the archive establish the circuit family as Fuzz Face-derived but do not securely establish a universal factory transistor type for every production unit.
-
 Some secondary technical sources describe germanium/NPN transistor configurations, but these are not used as universal factory specifications here.
-
 ## Diode
 No secure exact-model diode specification was established.
 

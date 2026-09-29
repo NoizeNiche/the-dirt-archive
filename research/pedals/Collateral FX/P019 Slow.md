@@ -28,7 +28,6 @@ No formal numbered factory revision history was established.
 
 ## Transistor
 The manufacturer identifies the circuit as **silicon** but does not publish exact transistor part numbers. [1]
-
 ## Diode
 No exact diode part number was published. The internal switches alter clipping/voicing behavior, but the manufacturer does not provide a component-level clipping chart. [1]
 

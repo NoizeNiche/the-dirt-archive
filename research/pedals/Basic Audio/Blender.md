@@ -21,7 +21,6 @@ Basic Audio's Blender takes the Fender Blender concept and adds practical mixing
 
 ## Transistor
 - Exact factory active-device part numbers are not publicly documented.
-
 ## Diode / clipping
 - Exact clipping-device part numbers are not publicly documented.
 

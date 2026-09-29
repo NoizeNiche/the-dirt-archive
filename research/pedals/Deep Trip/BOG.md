@@ -20,7 +20,6 @@ The BOG is Deep Trip's Fuzz Face-inspired fuzz designed around the tonal charact
 ## Transistor
 - **Silicon transistors** are documented.
 - Exact production part numbers are not established.
-
 ## Diode
 - Exact clipping/rectifier diode information was not established.
 

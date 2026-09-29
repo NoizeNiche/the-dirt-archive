@@ -31,7 +31,6 @@ The MT-6 is explicitly digital rather than an all-analog discrete distortion des
 
 ## Transistor
 - **Exact transistor/device:** Not applicable to the principal effect-processing architecture.
-
 ## Diode
 - **Exact clipping/rectification diode/device:** Not publicly documented.
 

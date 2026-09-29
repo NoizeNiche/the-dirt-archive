@@ -19,7 +19,6 @@ The builder says it changed the clipping arrangement of the original concept and
 
 ## Transistor
 - Exact production transistor/device part number is not established.
-
 ## Controls
 The reviewed builder record documents gain, tone, output and **Blend** functions plus the clipping selector. Exact printed knob labels are not fully preserved in the source. [1]
 

@@ -40,7 +40,6 @@ No numbered production revision was verified.
 ## Transistor
 - **Technology:** Exact active-device implementation is not publicly documented.
 - **Exact device:** Unknown.
-
 ## Diode
 - **Type:** Exact clipping arrangement is not publicly documented.
 

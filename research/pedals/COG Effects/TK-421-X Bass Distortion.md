@@ -21,7 +21,6 @@
 
 ## Transistor
 - Exact production transistor/device part number is not publicly documented.
-
 ## Diode / clipping
 Documented clipping options include:
 - Symmetrical LED

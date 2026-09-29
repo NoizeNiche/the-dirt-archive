@@ -33,7 +33,6 @@ Effects Database states that Ratortion 3 v2 retains the functional architecture,
 ## Transistor
 - **Exact transistor/device:** Not publicly documented.
 - Do not treat the Germanium and MOSFET selector labels as proof of specific installed transistor part numbers.
-
 ## Diode
 - **Clipping topology:** Selectable hard / soft / no clipping is documented.
 - **Exact diode/device:** Not publicly documented. [1]

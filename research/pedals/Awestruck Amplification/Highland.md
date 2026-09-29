@@ -31,7 +31,6 @@ Awestruck describes Highland as a low-gain overdrive that can move from warm, re
 ## Transistor
 - **Technology:** Discrete silicon transistor.
 - **Exact transistor part number:** Not published by the builder.
-
 ## Diode / clipping
 - **Symmetrical**, **none**, and **asymmetrical** hard-clipping modes are documented.
 - Exact clipping diode/device part numbers are not published. [1]

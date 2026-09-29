@@ -18,7 +18,6 @@ The Glaive is an op-amp fuzz built for extreme gain and octave-up texture. EAE d
 ## Transistor
 - Primary gain architecture is op-amp based.
 - Exact semiconductor complement was not established.
-
 ## Diode
 - Exact clipping-device part was not established.
 

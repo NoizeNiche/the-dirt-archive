@@ -19,7 +19,6 @@
 
 ## Transistor
 - **Hand-picked BC108C silicon transistors.** [1]
-
 ## Diode / clipping
 - Exact clipping-device part number is not publicly documented.
 

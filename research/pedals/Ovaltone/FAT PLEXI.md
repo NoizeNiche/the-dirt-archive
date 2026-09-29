@@ -22,7 +22,6 @@ WH-BOOST is on VOLUME MAX GAIN 1-2 o'clock BASS MAX MID 0 TREBLE around 9 o'cloc
 ## Transistor
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

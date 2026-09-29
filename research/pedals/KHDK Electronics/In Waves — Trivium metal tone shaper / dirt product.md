@@ -17,7 +17,6 @@ In Waves by Trivium is a KHDK Electronics dirt/tone-shaping pedal documented by 
 
 ## Transistor
 - **Exact production transistor/device:** Unknown.
-
 ## Diode
 - **Exact clipping/rectifier diode:** Unknown.
 

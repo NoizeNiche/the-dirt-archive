@@ -21,7 +21,6 @@ A separate Azor product exists as **AP-316 Leon Drive - Ultimate Overdrive**, bu
 
 ## Transistor
 - Exact transistor/device part numbers are **not publicly documented**.
-
 ## Diode / clipping
 - Exact clipping-diode arrangement is **not publicly documented**.
 

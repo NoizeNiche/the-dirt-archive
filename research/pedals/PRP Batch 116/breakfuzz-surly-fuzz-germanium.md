@@ -26,7 +26,6 @@ No separate numbered revision was verified.
 ## Transistor
 - **Technology:** Germanium.
 - **Device:** NOS Russian GT402, hand selected. [1]
-
 ## Diode
 Exact clipping diode/device not documented.
 

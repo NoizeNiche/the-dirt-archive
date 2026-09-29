@@ -26,7 +26,6 @@ The Wild Kyle is the signature distortion designed for **Kyle Shutt of The Sword
 ## Transistor
 - Exact production semiconductor details were not established.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact clipping/rectifier diode information was not established.
 - **Exact part:** Unknown.

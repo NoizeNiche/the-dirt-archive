@@ -24,7 +24,6 @@ Baroni Lab describes Moon Sound as a distortion stompbox designed to reproduce D
 
 ## Transistor
 - Exact transistor/device part numbers are not publicly documented.
-
 ## Diode / clipping
 - Exact clipping/protection diode part numbers are not publicly documented.
 

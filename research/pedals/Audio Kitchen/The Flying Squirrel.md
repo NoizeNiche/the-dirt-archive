@@ -30,7 +30,6 @@ No numbered production revision was established from the accessible sources.
 ## Transistor
 - **Technology:** Valve.
 - **Active devices:** Tube-based; exact complete valve complement for every production example was not established from the available sources.
-
 ## Diode
 - **Type:** No clipping diode arrangement was publicly documented as the defining circuit element.
 

@@ -31,7 +31,6 @@ No formal numbered factory revision sequence was established.
 
 ## Transistor
 The builder explicitly specifies **genuine Fairchild silicon transistors**. [1]
-
 ## Diode
 Two documented clipping configurations use **asymmetrical silicon** or **symmetrical silicon** diodes. The LIFT control can remove those clipping diodes from the signal path. Exact diode part numbers were not established. [1]
 

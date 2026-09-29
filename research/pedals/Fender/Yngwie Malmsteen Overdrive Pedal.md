@@ -27,7 +27,6 @@ The Yngwie Malmsteen Overdrive is Fender's signature overdrive for Yngwie Malmst
 ## Transistor
 - Exact production semiconductor details were not established in the checked sources.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact clipping/rectifier diode information was not established.
 - **Exact part:** Unknown.

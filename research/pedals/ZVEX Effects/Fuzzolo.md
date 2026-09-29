@@ -24,7 +24,6 @@ The Fuzzolo is a compact, high-gain fuzz derived in part from ZVEX's Mastotron a
 ## Transistor
 - Exact production transistor/device information was not established.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact clipping/rectifier diode information was not established.
 - **Exact part:** Unknown.

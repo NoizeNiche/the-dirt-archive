@@ -22,7 +22,6 @@ At the heart of the Silktone Fuzz are two germanium transistors, tweaked to get 
 ## Transistor
 - Documented terms in the verified sources: germanium fuzz, germanium transistor.
 - The archive records only the component information explicitly present in these sources.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

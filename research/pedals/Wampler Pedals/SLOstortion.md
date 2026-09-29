@@ -21,7 +21,6 @@ This review cuts past marketing fluff and delivers actionable insights on where 
 ## Transistor
 - Documented terms in the verified sources: 2N5457.
 - The archive records only the component information explicitly present in these sources.
-
 ## Diode
 - Documented terms in the verified sources: 1N4148, LED.
 - The archive records only the component information explicitly present in these sources.

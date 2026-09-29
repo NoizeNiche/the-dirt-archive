@@ -25,7 +25,6 @@ A later MOD v3 example is documented in the exact-model video archive. The avail
 
 ## Transistor
 - Exact transistor type or part number: **not established**.
-
 ## Diode
 - Exact diode type or part number: **not established**.
 

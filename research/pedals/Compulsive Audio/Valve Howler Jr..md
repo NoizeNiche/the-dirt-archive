@@ -33,7 +33,6 @@ Effects Database lists high-quality Vishay metallized-film capacitors, tight-tol
 
 ## Transistor
 - **Exact transistor/device:** Not publicly documented for the model in the checked sources.
-
 ## Diode
 - **Clipping:** switchable/adjustable clipping is documented, but the exact diode complement is not identified in the checked source. [1]
 

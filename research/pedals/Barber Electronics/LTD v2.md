@@ -22,7 +22,6 @@ LTD v2 is the thicker, more mid-present LTD generation. Barber's later Gain Chan
 
 ## Transistor
 - Exact transistor/device part numbers are **not publicly documented**.
-
 ## Diode / clipping
 - Exact clipping diode part numbers are **not publicly documented**.
 

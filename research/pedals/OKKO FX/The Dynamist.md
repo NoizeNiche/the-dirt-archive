@@ -20,7 +20,6 @@ The Dynamist is OKKO's dual-FET overdrive developed as the next step from the Di
 ## Transistor
 - **FET-based** gain architecture is documented.
 - Exact device part numbers were not established.
-
 ## Diode
 - Exact clipping-device information was not established.
 

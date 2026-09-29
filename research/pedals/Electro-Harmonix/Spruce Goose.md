@@ -25,7 +25,6 @@ The Spruce Goose is an elevated take on a **Bluesbreaker-style overdrive**, with
 ## Transistor
 - Exact production semiconductor details were not established.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact clipping/rectifier diode information was not established.
 - **Exact part:** Unknown.

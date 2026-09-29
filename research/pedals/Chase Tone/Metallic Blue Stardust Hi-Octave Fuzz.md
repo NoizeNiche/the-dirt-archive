@@ -17,7 +17,6 @@
 ## Transistor
 - **2N3906** is identified in the independent component documentation for this model. [2]
 - The manufacturer source does not publish the complete semiconductor complement.
-
 ## Diode / clipping
 - Exact diode part number is not publicly documented.
 

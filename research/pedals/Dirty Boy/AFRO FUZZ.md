@@ -26,7 +26,6 @@ The Afro Fuzz is a Dirty Boy fuzz built loosely around the Fuzz Face family, wit
 ## Transistor
 - Sources mention germanium and silicon transistor technology in the broader Dirty Boy family, but the exact production complement for this specific Afro Fuzz record is not established.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact clipping/rectifier diode information was not established.
 - **Exact part:** Unknown.

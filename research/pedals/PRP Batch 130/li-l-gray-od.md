@@ -21,7 +21,6 @@ Not established.
 
 ## Transistor
 Exact active device unknown.
-
 ## Diode
 Exact clipping device unknown.
 

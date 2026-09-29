@@ -27,7 +27,6 @@ No numbered production revision was established in the reviewed sources.
 ## Transistor
 - **Technology:** Not established.
 - The reviewed first-party sources do not specify a discrete transistor device family for the High Voltage.
-
 ## Diode
 - **Exact clipping diode:** Unknown.
 - The internal Light control refers to the illuminated logo's intensity rather than the distortion clipping element. No exact clipping-device specification was established in the reviewed sources.

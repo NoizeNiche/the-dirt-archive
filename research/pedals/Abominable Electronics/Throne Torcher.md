@@ -42,7 +42,6 @@ The later version added Clean Blend and modernized the switching while preservin
 ## Transistor
 - **Technology:** Solid-state HM-2-style distortion.
 - **Exact transistor/device:** Not publicly documented.
-
 ## Diode
 - **Type:** Additional Germanium-diode clipping plus switchable LED clipping are documented. [1]
 - **Exact parts:** Unknown.

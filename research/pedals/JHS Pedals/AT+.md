@@ -19,7 +19,6 @@ The AT+ is Andy Timmons' signature JHS overdrive, developed from the original AT
 
 ## Transistor
 - Exact production semiconductor details were not established.
-
 ## Diode
 - LED indicator is documented; exact clipping-device information was not established.
 

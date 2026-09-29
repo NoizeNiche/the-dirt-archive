@@ -9,7 +9,6 @@ Black Cat D&S recreates the 1974 Maxon D&S, itself from the Ram's Head Big Muff 
 
 ## Transistor
 - **Documented:** Toshiba 2SC1815-BL
-
 ## Diode
 - **Not reliably documented in the reviewed sources**
 

@@ -23,7 +23,6 @@ The MKIV follows earlier Fuzzmaster forms within the Claybridge family. The avai
 
 ## Transistor
 The checked sources confirm a distinct MKIV circuit but do not securely establish universal transistor part numbers for all surviving examples.
-
 ## Diode
 No exact-model diode specification was established.
 

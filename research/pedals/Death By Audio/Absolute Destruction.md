@@ -25,7 +25,6 @@ Absolute Destruction is a high-intensity distortion/fuzz design built around a p
 ## Transistor
 - Exact production transistor/device information was not established in the checked sources.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the checked sources.
 - **Exact part:** Unknown.

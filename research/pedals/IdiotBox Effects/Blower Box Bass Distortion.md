@@ -27,7 +27,6 @@ The Blower Box began as IdiotBox's attempt to capture the bass distortion associ
 ## Transistor
 - Exact production semiconductor details were not established.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact clipping/rectifier diode information was not established.
 - **Exact part:** Unknown.

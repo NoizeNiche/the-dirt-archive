@@ -27,7 +27,6 @@ The Silt Harmonic Fuzz combines a fuzz circuit with an internal 12AU7 tube drive
 ## Transistor
 - The primary drive device is a 12AU7 tube.
 - **Exact transistor/device:** Not applicable as the primary gain device.
-
 ## Diode
 - Exact clipping/rectifier diode information was not established in the checked sources.
 - **Exact part:** Unknown.

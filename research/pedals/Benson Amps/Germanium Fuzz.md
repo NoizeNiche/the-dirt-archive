@@ -21,7 +21,6 @@
 ## Transistor
 - **Factory devices:** Two matched Germanium transistors identified by Benson/independent product documentation as **2N527 or 2N404**.
 - Devices are selected for gain/leakage and thermally biased to reduce temperature-related drift. [1][2]
-
 ## Diode / clipping
 - Exact clipping/protection diode part numbers are not publicly documented.
 

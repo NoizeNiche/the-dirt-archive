@@ -32,7 +32,6 @@ The B-Custom Cool began as a custom request from Monster Mike Welch for an amp-s
 
 ## Transistor
 - Exact transistor/device part numbers are **not publicly documented** in the reviewed product/manual sources.
-
 ## Diode / clipping
 - Barber documents selectable clipping symmetry/dynamics, including an asymmetrical “power tubes” mode.
 - Exact diode part numbers are **not publicly documented**.

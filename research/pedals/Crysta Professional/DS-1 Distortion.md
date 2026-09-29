@@ -21,7 +21,6 @@ Published on June 15, 2012 Crysta Professional distortion pedal Reviews myFXDB u
 ## Transistor
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

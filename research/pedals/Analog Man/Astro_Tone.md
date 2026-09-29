@@ -39,7 +39,6 @@ The most important historical changes are the redesign that fixed the original p
 - **Original production:** Fairchild silicon transistors, according to Analog Man.
 - **2023 onward:** newer silicon transistors of the same general type/shape, after the original Fairchild supply was depleted.
 - Exact later part number is not published on the current product page. [1]
-
 ## Diode
 - **Type:** Unknown.
 - No Astro Tone-specific diode type or part number was established in the builder material reviewed.

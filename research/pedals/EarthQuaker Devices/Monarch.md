@@ -28,7 +28,6 @@ The Monarch is an all-discrete, FET-based overdrive designed around the input st
 ## Transistor
 - The circuit is described as FET-based, but the exact production device part number is not established for the complete production run.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the checked sources.
 - **Exact part:** Unknown.

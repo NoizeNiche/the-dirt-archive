@@ -20,7 +20,6 @@ Full Frequency Overdrive is a Mid-Fi analog overdrive designed to remain compara
 
 ## Transistor
 - Exact production semiconductor details were not established.
-
 ## Diode
 - Exact clipping-device information was not established.
 

@@ -23,7 +23,6 @@ Custom Overdrive Pedal Demo through Hiwatt DR103 & Strat 9:32 2025-10-19 Ratin P
 ## Transistor
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

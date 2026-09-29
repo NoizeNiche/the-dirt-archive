@@ -21,7 +21,6 @@ EarthQuaker Devices's Terminal — Destructive Fuzz Device is cataloged as a fuz
 ## Transistor
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

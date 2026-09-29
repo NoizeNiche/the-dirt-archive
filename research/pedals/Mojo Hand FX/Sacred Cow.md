@@ -23,7 +23,6 @@ The Sacred Cow is a playful nod to two classics: The legendary, elusive, gold st
 ## Transistor
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

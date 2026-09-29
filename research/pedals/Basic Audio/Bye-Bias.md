@@ -24,7 +24,6 @@ Effects Database describes Bye-Bias as heavy textured fuzz with dual bias contro
 - **Technology:** Silicon. [1][3]
 - **Two-transistor architecture:** Verified.
 - Exact transistor part numbers are not publicly documented.
-
 ## Diode / clipping
 - Exact clipping device and part number are not publicly documented.
 

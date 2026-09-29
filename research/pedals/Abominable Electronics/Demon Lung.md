@@ -35,9 +35,8 @@ Demon Lung is based on the **Boss FZ-2 Hyper Fuzz** and provides two switchable 
 The 2020 redesign is a documented hardware/control change, not just a new artwork treatment. The added Mids control and updated switching are the clearest production changes in the available record. [1]
 
 ## Transistor
-- **Technology:** The original design is based on a solid-state Boss Hyper Fuzz circuit.
+- **Technology:** The original design is based on a solid-state circuit.
 - **Exact transistor/device:** Not publicly documented.
-
 ## Diode
 - **Type:** Exact production clipping diode(s) are not publicly documented.
 - **Exact diode/device:** Unknown.

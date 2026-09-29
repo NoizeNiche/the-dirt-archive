@@ -27,7 +27,6 @@ Gorilla Warfare MKII is a high-gain Greer distortion with a three-band EQ sectio
 ## Transistor
 - Exact production transistor/device information was not established.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact clipping/rectifier diode information was not established.
 - **Exact part:** Unknown.

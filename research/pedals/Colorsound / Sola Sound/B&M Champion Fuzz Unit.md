@@ -35,7 +35,6 @@ The original pedals were built in London by Colorsound/Sola Sound for Barnes & M
 - **Typical device family:** Silicon transistors.
 - A commonly documented example of the original family uses **BC184C** transistors, although surviving units can differ by production period. [1]
 - Exact transistor fit for every B&M Champion unit should therefore not be generalized from one specimen.
-
 ## Diode
 - **Exact clipping diode/device:** Not reliably documented for the specific cataloged unit in the checked sources.
 

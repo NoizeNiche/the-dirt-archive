@@ -31,7 +31,6 @@ Circuit traces of two surviving examples document component-value differences, i
 ## Transistor
 - **BC173:** listed by Effects Database as the original specification and also identified in a Reverb listing describing an all-original circuit. [1][3]
 - Circuit-trace reports also document surviving units using BC109 and BC549 transistors, so the exact transistor population should not be assumed identical across every surviving Doubler. [4]
-
 ## Diode
 - The exact factory diode type is **not securely established for every CBS-Arbiter Doubler** in the checked sources.
 - A circuit-trace discussion of an Electronic Sounds Doubler reports 1N4148 diodes, while another traced unit's blue diodes were visually uncertain. That evidence is kept separate from a universal CBS-Arbiter specification. [4]

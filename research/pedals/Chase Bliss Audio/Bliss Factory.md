@@ -26,7 +26,6 @@ The Bliss Factory keeps an **analog fuzz audio path** but adds Chase Bliss's dig
 ## Transistor
 - **2 × Germanium transistors** are documented in the fuzz circuit.
 - Exact transistor part numbers are not securely established. [1][3]
-
 ## Diode / clipping
 - Exact clipping/protection diode part numbers are not publicly documented.
 

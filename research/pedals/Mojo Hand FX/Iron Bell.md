@@ -27,7 +27,6 @@ The verified evidence does not establish a complete production schematic or comp
 ## Transistor
 - **Documented source terminology:** “Germanium Fuzz” appears in the retained evidence, but the exact production transistor complement is not established.
 - **Exact production transistor/device:** Unknown.
-
 ## Diode
 - **Exact production clipping diode:** Unknown.
 

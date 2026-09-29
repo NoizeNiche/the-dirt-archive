@@ -12,7 +12,6 @@ The Black Cat OD-1, also known as Freddie Fuzz, is an original design based arou
 
 ## Transistor
 - **Not applicable as a documented core identity in the reviewed sources**
-
 ## Diode
 - **Not reliably documented in the reviewed sources**
 

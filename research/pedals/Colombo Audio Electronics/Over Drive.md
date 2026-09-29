@@ -34,7 +34,6 @@ Colombo describes Over Drive as hand-built with selected components and individu
 ## Transistor
 - **Exact transistor/device:** Not publicly documented in the checked sources.
 - The principal documented active-stage architecture is the quad op-amp configuration. [1][2]
-
 ## Diode
 - **Exact clipping diode/device:** Not publicly documented in the checked sources.
 

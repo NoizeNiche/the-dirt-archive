@@ -23,7 +23,6 @@ The WOPR is an op-amp fuzz with a dedicated master boost. ThorpyFX describes it 
 ## Transistor
 - The primary gain architecture is op-amp based.
 - **Exact semiconductor complement:** Not established.
-
 ## Diode
 - Exact clipping-device part was not established in the checked sources.
 - **Exact part:** Unknown.

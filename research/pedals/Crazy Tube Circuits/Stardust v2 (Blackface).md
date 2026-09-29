@@ -22,7 +22,6 @@ V2 is the Blackface-specific version preceding the V3 three-voice design. The V3
 
 ## Transistor
 - Exact transistor type or part number: **not established** from the checked V2 sources.
-
 ## Diode
 - Exact diode type or part number: **not established**.
 

@@ -27,7 +27,6 @@ The exact production op-amp part number and diode part number were not establish
 
 ## Transistor
 - **Exact production transistor/device:** Unknown.
-
 ## Diode
 - **Documented device class:** germanium clipping diodes. [1]
 - **Exact production diode part number:** Unknown.

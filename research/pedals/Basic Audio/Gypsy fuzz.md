@@ -20,7 +20,6 @@ Basic Audio developed Gypsy around the behavior of an old console microphone pre
 ## Transistor
 - **Technology:** Silicon.
 - Exact production transistor part number is **not publicly documented**. [1]
-
 ## Diode / clipping
 - Exact clipping-device type and part number are not publicly documented.
 

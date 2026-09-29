@@ -30,7 +30,6 @@ The Neo Fuzz uses **two hand-selected germanium transistors** in the documented 
 ## Transistor
 - **Documented device class:** two hand-selected germanium transistors. [3]
 - **Exact production transistor part numbers:** The exact pair is not established in the verified manufacturer-level material checked here.
-
 ## Diode
 - **Exact clipping/rectifier diode:** Unknown.
 

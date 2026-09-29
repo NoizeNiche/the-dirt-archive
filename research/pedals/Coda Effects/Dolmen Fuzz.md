@@ -32,7 +32,6 @@ Coda describes the production pedal as the result of multiple prototypes. The hi
 
 ## Transistor
 No exact-model transistor complement was published in the checked manufacturer documentation.
-
 ## Diode
 The clipping switch changes clipping behavior and compression, but exact diode part numbers were not published.
 

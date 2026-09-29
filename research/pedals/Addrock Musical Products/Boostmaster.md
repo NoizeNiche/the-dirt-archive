@@ -26,7 +26,6 @@ No reliable numbered factory revision history was established.
 ## Transistor
 - **Technology:** Germanium transistor powered. [1]
 - **Exact transistor/device:** Not publicly documented.
-
 ## Diode
 - **Exact clipping diode/device:** Not publicly documented.
 

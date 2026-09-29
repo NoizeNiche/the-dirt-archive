@@ -28,7 +28,6 @@ Fault V2 is an OBNE overdrive/distortion designed to cover a wide range from boo
 ## Transistor
 - Exact production semiconductor details were not established in the checked sources.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact clipping/rectifier diode information was not established.
 - **Exact part:** Unknown.

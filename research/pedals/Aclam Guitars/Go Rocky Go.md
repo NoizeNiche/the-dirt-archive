@@ -29,7 +29,6 @@ The standard Go Rocky Go is the base production model. The later White Album Edi
 ## Transistor
 - **Technology:** Solid-state analog preamp/distortion circuit.
 - **Exact transistor/device:** Not publicly documented in the official material reviewed.
-
 ## Diode
 - **Type:** Exact production clipping diode(s) are not publicly documented.
 - **Exact diode/device:** Unknown.

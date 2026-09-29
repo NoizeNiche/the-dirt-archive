@@ -25,7 +25,6 @@ A 2021 example is documented in the surviving Reverb listing. No separate number
 
 ## Transistor
 - Exact transistor/device: Unknown.
-
 ## Diode
 - Exact clipping diode/device: Unknown.
 

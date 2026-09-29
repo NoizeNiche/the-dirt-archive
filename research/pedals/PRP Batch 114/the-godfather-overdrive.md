@@ -27,7 +27,6 @@ No reliable numbered production revision sequence was found.
 
 ## Transistor
 - Exact transistor/device: Not publicly documented on the manufacturer page.
-
 ## Diode
 - Exact clipping diode/device: Not publicly documented on the manufacturer page.
 

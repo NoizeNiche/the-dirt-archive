@@ -20,7 +20,6 @@ A programmable multi-mode distortion unit with editable patches, multiple banks,
 
 ## Transistor
 - Exact signal-path transistor/device not documented.
-
 ## Diode
 - Exact clipping diode/device not documented.
 

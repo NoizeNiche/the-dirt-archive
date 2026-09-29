@@ -19,7 +19,6 @@ Infinity Drive belongs to Baddy One Shoe's early small-run overdrive period. The
 
 ## Transistor
 - Solid-state overdrive, exact device unknown.
-
 ## Diode / clipping
 - Exact clipping-device arrangement is unknown.
 

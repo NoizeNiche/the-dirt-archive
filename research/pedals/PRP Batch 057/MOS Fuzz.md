@@ -24,7 +24,6 @@ The MOS Fuzz is a two-control fuzz designed to keep a broad, full-frequency resp
 - **Technology:** MOSFET.
 - **Exact device:** **NOS BS170P**.
 - Anode Effects explicitly identifies NOS BS170P MOSFETs as part of the build. [1]
-
 ## Diode / clipping
 - **Material:** Vintage silicon diodes.
 - **Exact diode part number:** Not publicly documented in the reviewed manufacturer material. [1]

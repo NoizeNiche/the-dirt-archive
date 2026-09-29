@@ -24,7 +24,6 @@ Little Acorn is a no-knob fuzz with a deliberately dark voicing and a large amou
 
 ## Transistor
 - Exact production semiconductor details were not established.
-
 ## Diode
 - Exact clipping/rectifier diode information was not established.
 

@@ -25,7 +25,6 @@ The DRV is a low-to-medium gain overdrive/distortion pedal with a fixed preamp s
 ## Transistor
 - The checked sources describe an op-amp-based distortion architecture rather than a single-transistor fuzz topology.
 - **Exact production transistor/device:** Unknown.
-
 ## Diode
 - LED indicator is documented, but the exact clipping-device part for the original DRV was not established in the checked sources.
 - **Exact clipping part:** Unknown.

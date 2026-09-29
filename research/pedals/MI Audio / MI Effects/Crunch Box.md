@@ -26,7 +26,6 @@ The manufacturer describes the Crunch Box as a multiple-clipping design in which
 ## Transistor
 - **Exact production transistor/device:** Unknown.
 - The verified manufacturer manual does not establish a production transistor part number.
-
 ## Diode
 - **Documented clipping approach:** three clipping stages. [1]
 - Independent references describe the Crunch Box as using LED clipping, but the exact production LED part specification is not established in the cited manufacturer manual. [2]

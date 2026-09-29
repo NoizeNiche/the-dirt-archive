@@ -28,7 +28,6 @@ The BOSS HM-2 Heavy Metal is the original compact distortion pedal produced from
 ## Transistor
 - Exact production transistor/device information for the full original production run was not established in the checked sources.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the checked sources.
 - **Exact part:** Unknown.

@@ -35,7 +35,6 @@ Powder-coated aluminum enclosure with parallel fuzz voices and voltage-starve/bi
 
 ## Transistor
 - **Exact transistor/device:** Not publicly documented in the checked sources.
-
 ## Diode
 - **Exact clipping/rectification diode/device:** Not publicly documented.
 

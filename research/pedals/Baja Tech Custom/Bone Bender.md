@@ -31,7 +31,6 @@ Historical coverage documents an earlier/discontinued compact Bone Bender circui
 - **Technology:** Germanium fuzz.
 - **Documented topology:** Two hand-selected germanium transistors.
 - Exact part numbers were not reliably published by the builder.
-
 ## Diode
 - **Exact clipping/protection arrangement:** Not publicly documented in the checked sources.
 

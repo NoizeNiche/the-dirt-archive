@@ -22,7 +22,6 @@ Azor describes AP-302 as an all-around high-gain distortion intended to make a s
 
 ## Transistor
 - Exact transistor/device part numbers are **not publicly documented** in the reviewed sources.
-
 ## Diode / clipping
 - Exact clipping-diode arrangement and part numbers are **not publicly documented**.
 

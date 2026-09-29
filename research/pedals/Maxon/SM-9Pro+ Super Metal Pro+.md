@@ -19,7 +19,6 @@ The SM-9 Pro+ Super Metal is Maxon's purpose-built high-gain metal distortion, i
 
 ## Transistor
 - Exact production semiconductor complement was not established.
-
 ## Diode
 - Exact clipping/rectifier diode information was not established.
 

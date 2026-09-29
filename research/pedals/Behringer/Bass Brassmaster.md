@@ -20,7 +20,6 @@ The design is intended to keep low-frequency fundamentals present while adding a
 
 ## Transistor
 - Exact production transistor/device part numbers are not publicly documented by Behringer in the reviewed source.
-
 ## Diode / clipping
 - Exact clipping/protection diode type and part number are not publicly documented.
 

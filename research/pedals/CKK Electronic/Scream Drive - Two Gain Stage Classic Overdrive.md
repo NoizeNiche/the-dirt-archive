@@ -22,7 +22,6 @@
 
 ## Transistor
 - Exact production transistor/device part number is not publicly documented.
-
 ## Diode / clipping
 - Three clipping options are factory features.
 - Exact diode/device identity for each position is not fully documented in the reviewed sources. [1][2]

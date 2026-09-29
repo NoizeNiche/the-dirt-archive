@@ -29,7 +29,6 @@ The defining change from Mercury Box is the added dedicated solo channel with in
 ## Transistor
 - **Technology:** FET/tube-behavior design lineage.
 - Exact factory device part numbers are not publicly documented.
-
 ## Diode
 Exact production clipping devices are not publicly documented.
 

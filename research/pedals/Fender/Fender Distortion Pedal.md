@@ -22,7 +22,6 @@ The Fender Distortion Pedal is a compact analog distortion from Fender's classic
 
 ## Transistor
 - Exact production semiconductor details were not established.
-
 ## Diode
 - Exact clipping/rectifier diode was not established.
 

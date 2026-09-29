@@ -26,7 +26,6 @@ The accessible documentation confirms MkII coverage but does not preserve enough
 
 ## Transistor
 - Exact active device: Not publicly documented.
-
 ## Diode
 - Exact clipping diode/device: Not publicly documented.
 

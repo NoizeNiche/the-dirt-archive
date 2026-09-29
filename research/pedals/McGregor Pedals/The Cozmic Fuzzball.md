@@ -21,7 +21,6 @@ The Cozmic Fuzzball cascades three dirt stages: **overdrive → distortion → f
 
 ## Transistor
 - Exact production semiconductor complement was not established.
-
 ## Diode
 - Exact clipping-device information was not established.
 

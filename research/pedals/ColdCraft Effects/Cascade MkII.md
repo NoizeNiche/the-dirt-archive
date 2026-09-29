@@ -28,7 +28,6 @@ MkII updates the original Cascade with a MOSFET input preamp, internal Bass/Mid 
 
 ## Transistor
 The MkII explicitly adds a **MOSFET input preamp**. The exact device part number was not securely established in the historical sources. [1]
-
 ## Diode
 No exact diode clipping part number was established. The pedal's central design identity comes from its two cascaded gain structures. [1]
 

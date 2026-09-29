@@ -22,7 +22,6 @@ The Crayon is just that, a powerful little box that has all the color and charac
 ## Transistor
 - Documented terms in the verified sources: 2N7002.
 - The archive records only the component information explicitly present in these sources.
-
 ## Diode
 - Documented terms in the verified sources: LED.
 - The archive records only the component information explicitly present in these sources.

@@ -24,7 +24,6 @@ Arcane Analog describes this as a modern take on the classic Fuzz Face circuit. 
 - **NOS NKT775 white-dot germanium transistors:** Explicitly documented by Arcane Analog. [1]
 - The builder notes that these devices were becoming rare at the time of the listing.
 - Individual gain/leakage measurements for this particular unit are not published.
-
 ## Diode / clipping
 - Exact clipping diode/device is not publicly documented in the reviewed exact-model materials.
 - No diode material is inferred from the NKT775 transistor designation.

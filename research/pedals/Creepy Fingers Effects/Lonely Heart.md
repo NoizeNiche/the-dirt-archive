@@ -30,7 +30,6 @@ The available sources document production examples from the 2018 period and late
 ## Transistor
 - **Technology:** Silicon transistor fuzz using N.O.S. hand-selected devices. [1][2]
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - **Type:** Exact production clipping/rectifier diode(s) were not publicly established in the reliable sources checked.
 - **Exact part:** Unknown.

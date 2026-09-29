@@ -18,7 +18,6 @@ Barber describes the Exacta as a placement-friendly vintage fuzz designed to wor
 
 ## Transistor
 - Exact transistor/device part numbers are **not publicly documented** in the reviewed product material.
-
 ## Diode / clipping
 - Exact clipping diode part numbers are **not publicly documented**.
 

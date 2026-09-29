@@ -21,7 +21,6 @@ Published on January 19, 2010 Cutec series 01 overdrive pedal Reviews myFXDB use
 ## Transistor
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

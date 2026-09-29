@@ -28,7 +28,6 @@ The THROTTLE BOX is a MESA/Boogie high-gain distortion pedal with a broad gain r
 ## Transistor
 - Exact production transistor/device information was not established in the checked sources.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the checked sources.
 - **Exact part:** Unknown.

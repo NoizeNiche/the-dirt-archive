@@ -24,7 +24,6 @@ The retained packet does not expose enough model-specific technical text to supp
 
 ## Transistor
 - **Exact production transistor/device:** Unknown.
-
 ## Diode
 - **Exact production clipping diode:** Unknown.
 

@@ -25,7 +25,6 @@ The BB Preamp V1.5 is Xotic's updated BB Preamp format, retaining the core boost
 
 ## Transistor
 - **Exact production transistor/device:** Not publicly specified in the manufacturer documentation reviewed.
-
 ## Diode
 - **Exact production clipping/rectifier diode:** Not publicly specified in the manufacturer documentation reviewed.
 

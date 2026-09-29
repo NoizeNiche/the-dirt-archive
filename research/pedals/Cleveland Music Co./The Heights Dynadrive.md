@@ -33,7 +33,6 @@ No formal numbered factory revision history was established.
 
 ## Transistor
 No discrete transistor complement was established. The documented gain architecture uses an **NE5532 op-amp**. [1]
-
 ## Diode
 No exact-model diode specification was established.
 

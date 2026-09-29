@@ -16,7 +16,6 @@
 ## Transistor
 - **2 × Russian NOS GT402 germanium transistors.**
 - Individual gain/leakage measurements are not published. [1]
-
 ## Diode / clipping
 - Exact clipping/protection diode arrangement is not documented.
 

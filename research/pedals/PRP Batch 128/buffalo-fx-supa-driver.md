@@ -31,7 +31,6 @@ No reliable numbered factory revision sequence was established.
 - **Technology:** Transistor gain stages.
 - NOS transistor examples include BC169, BC184 and BC108 in a documented 2020 example. [3]
 - Universal factory device assignment: Not established.
-
 ## Diode
 - Exact clipping diode/device: Not publicly documented.
 

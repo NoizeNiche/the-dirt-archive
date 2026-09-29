@@ -23,7 +23,6 @@ The Peacemaker uses one transistor-based gain stage feeding another to cover the
 ## Transistor
 - Two old-school transistor-based gain stages are documented.
 - Exact transistor part numbers were not established.
-
 ## Diode
 - The checked source set does not establish an exact clipping diode part.
 

@@ -23,7 +23,6 @@ Klone V2 is ARC Effects' version of the familiar Klon-style overdrive/boost circ
 ## Transistor
 - Exact production transistor/device information was not established.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact clipping/rectifier diode information was not established.
 - **Exact part:** Unknown.

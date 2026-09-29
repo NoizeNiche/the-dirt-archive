@@ -24,7 +24,6 @@ The ELECTRIC LIGHTNING is a ThorpyFX and Chris Buck collaboration using valve-ba
 ## Transistor
 - The primary gain device is valve-based.
 - **Exact transistor/device:** Not established.
-
 ## Diode
 - Exact clipping/rectifier diode information was not established in the checked sources.
 - **Exact part:** Unknown.

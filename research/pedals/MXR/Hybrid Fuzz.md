@@ -21,7 +21,6 @@ Warranty Information Product Demo The Long Story The MXR Hybrid Fuzz channels cl
 ## Transistor
 - Documented terms in the verified sources: silicon transistor, germanium transistor.
 - The archive records only the component information explicitly present in these sources.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

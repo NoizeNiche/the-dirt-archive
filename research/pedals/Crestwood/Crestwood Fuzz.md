@@ -28,7 +28,6 @@ The broader FA-II family went through PCB and component revisions during its pro
 ## Transistor
 - **Technology:** Germanium, PNP, for the documented FA-II family. [2][3]
 - **Exact transistor/device:** **2SB173** is documented in a traced example of the FA-II family; this is not treated as a guarantee for every Crestwood unit. [2]
-
 ## Diode
 - **Type:** Germanium diodes are documented in the traced FA-II example. [2]
 - **Exact part:** Unknown.

@@ -17,7 +17,6 @@ Audiostorm's retired-product history identifies F258 Drive as a germanium overdr
 ## Transistor
 - Germanium implementation is documented at the product level.
 - Exact transistor part number is not established.
-
 ## Diode / clipping
 - Exact clipping arrangement is not publicly documented.
 

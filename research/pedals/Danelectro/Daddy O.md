@@ -22,7 +22,6 @@ The Daddy O DO-1 Overdrive doesn’t just have a rad-sounding name – it has a 
 ## Transistor
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

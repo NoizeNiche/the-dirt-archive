@@ -37,7 +37,6 @@ The checked sources describe the product and its operating controls but do not p
 
 ## Transistor
 - **Exact transistor/device:** Not documented in the checked sources.
-
 ## Diode
 - **Exact clipping/rectification diode/device:** Not documented in the checked sources.
 

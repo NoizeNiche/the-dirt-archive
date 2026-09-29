@@ -24,7 +24,6 @@ The Satisfaction Plus is EHX's expanded take on its Satisfaction fuzz. EHX descr
 ## Transistor
 - Exact production semiconductor details were not established in the checked sources.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact clipping/rectifier diode information was not established.
 - **Exact part:** Unknown.

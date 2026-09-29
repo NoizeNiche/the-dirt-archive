@@ -20,7 +20,6 @@ Basic Audio's Tri-Ram Muff is built around the large, sustaining Muff family but
 
 ## Transistor
 - Exact factory transistor technology and part numbers are not publicly documented.
-
 ## Diode / clipping
 - Exact clipping-device type and part number are not publicly documented.
 

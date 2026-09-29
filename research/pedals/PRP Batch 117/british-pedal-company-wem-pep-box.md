@@ -22,7 +22,6 @@ The archive keeps this identity separate from a specifically distinct compact-se
 
 ## Transistor
 Exact production device not established.
-
 ## Diode
 Exact clipping device not established.
 

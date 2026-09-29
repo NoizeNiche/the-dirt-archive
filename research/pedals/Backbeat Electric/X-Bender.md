@@ -32,7 +32,6 @@ The 2010 feature documents:
 
 ## Transistor
 - Exact active-device technology and part number are not publicly documented in the reviewed source.
-
 ## Diode / clipping
 - Exact clipping-device type and part number are not publicly documented.
 

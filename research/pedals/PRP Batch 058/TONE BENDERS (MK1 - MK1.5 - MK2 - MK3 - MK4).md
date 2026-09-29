@@ -36,10 +36,9 @@ Both are included in the current family listing, but the reviewed builder text d
 ## Transistor
 - The family uses **NOS germanium transistors**.
 - Arcane Analog explicitly offers carefully selected **OC75** or **AC125** transistors.
-- An **OC76** option is specifically offered for a Vox-spec MK1.5 build.
+- An **OC76** option is specifically offered for a -spec MK1.5 build.
 - Additional transistor alternatives are available by request.
 - Exact transistor choice is therefore **variant/build-dependent**. [1]
-
 ## Diode / clipping
 - Exact clipping diode/device part numbers are **not publicly documented** in the reviewed family source.
 - The archive does not infer diode material from the germanium transistor designation.

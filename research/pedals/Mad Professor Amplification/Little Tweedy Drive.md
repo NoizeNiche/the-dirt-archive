@@ -22,7 +22,6 @@ Little Tweedy Drive pedal is based on the two prime 1958 Tweed Deluxe amps from 
 ## Transistor
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

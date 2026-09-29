@@ -32,7 +32,6 @@ Colombo describes its pedals as handmade in Italy. Its construction pages descri
 
 ## Transistor
 - **Exact transistor/device:** Not publicly documented in the checked sources.
-
 ## Diode
 - **Exact clipping diode/device:** Not publicly documented in the checked sources.
 

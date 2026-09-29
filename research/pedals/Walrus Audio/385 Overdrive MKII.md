@@ -28,7 +28,6 @@ The 385 Overdrive MKII is Walrus Audio's expanded version of the original 385 Ov
 ## Transistor
 - Exact production semiconductor details were not established in the checked sources.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact clipping/rectifier diode information was not established in the checked sources.
 - **Exact part:** Unknown.

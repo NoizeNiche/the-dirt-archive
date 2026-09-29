@@ -28,7 +28,6 @@ No reliable numbered hardware revision sequence was found.
 ## Transistor
 - **Technology:** Exact active-device details are not publicly documented.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - **Type:** Exact production clipping diode(s) are not publicly documented.
 - **Exact part:** Unknown.

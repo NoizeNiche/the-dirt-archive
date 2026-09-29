@@ -24,7 +24,6 @@ Based on the 1971 Foxx Tone Machine, the Silver Foxx retains the same thick fuzz
 ## Transistor
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

@@ -41,7 +41,6 @@ The documented lineage is a progression rather than a cosmetic revision:
 - **Technology:** Silicon.
 - **Exact transistor/device:** **BC108**.
 - Anasounds explicitly identifies the Feed Me lineage as using BC108 silicon transistors. [3]
-
 ## Diode
 - **Technology:** Silicon.
 - **Documented device:** **1N4001**, used as **D1 reverse-polarity protection** in the power-supply section of the MK3 kit documentation. [2]

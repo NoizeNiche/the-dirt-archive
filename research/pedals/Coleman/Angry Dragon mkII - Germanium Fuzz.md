@@ -17,7 +17,6 @@ Effects Database has an exact model entry for **Coleman Angry Dragon mkII - Germ
 ## Transistor
 - The model name itself documents **germanium fuzz**.
 - **Exact transistor part number:** Unknown.
-
 ## Diode / circuit
 - **Exact clipping/rectifier device:** Unknown.
 - **Exact circuit topology:** Unknown.

@@ -26,7 +26,6 @@ BSM's product description distinguishes the early Jennings circuit from a later 
 ## Transistor
 - **Technology:** Silicon.
 - **Device:** NOS Japanese Micro Electronics transistors, sourced by BSM for J-Fuzz. [1]
-
 ## Diode
 - Exact clipping diode/device: Not publicly documented.
 

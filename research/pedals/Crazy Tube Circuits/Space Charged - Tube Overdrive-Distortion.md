@@ -36,7 +36,6 @@ V2 retains the core V1 real-tube circuit while adding a boost section, widening 
 
 ## Transistor
 - The signal path is centered on the 12AY7 tube; exact transistor component data was not established.
-
 ## Diode
 - Exact diode type or part number: **not established**.
 

@@ -13,7 +13,6 @@ Scuttle Buttin' SB1 is an analog overdrive designed for smooth saturation while 
 
 ## Transistor
 Exact device not publicly documented.
-
 ## Diode
 Exact clipping device not publicly documented.
 

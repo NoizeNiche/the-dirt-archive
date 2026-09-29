@@ -20,7 +20,6 @@
 ## Transistor
 - **Technology:** Germanium.
 - Exact production transistor part number is not publicly documented.
-
 ## Diode / clipping
 - Exact clipping/protection diode part numbers are not publicly documented.
 - Feedback selection changes clipping behavior but does not establish a specific diode chemistry. [1]

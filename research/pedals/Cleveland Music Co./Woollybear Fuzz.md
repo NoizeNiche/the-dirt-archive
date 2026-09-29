@@ -30,7 +30,6 @@ Woollybear is a creamy, squishy, Bender-like fuzz that can move from thin, gated
 ## Transistor
 - Cleveland Music Co. specifies genuine Fairchild silicon transistors.
 - **Exact part number:** Not established in the checked source.
-
 ## Diode
 - Exact clipping/rectifier diode information was not established.
 

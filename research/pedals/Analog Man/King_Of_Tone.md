@@ -42,7 +42,6 @@ The major documented revision path is Ver2 → Ver3 → Ver4, with Ver4 adding t
 ## Transistor
 - **Type:** No discrete transistor technology is clearly specified as a defining King Of Tone component in the builder material reviewed.
 - Do not infer a germanium/silicon transistor designation from the Bluesbreaker lineage.
-
 ## Diode
 - Analog Man describes the pedal as using JRC op-amp technology and "more open" diode clipping in its documentation, but the exact diode part/type is not established in the reviewed builder material.
 - **Archive status:** general diode clipping documented; exact diode type unknown. [1]

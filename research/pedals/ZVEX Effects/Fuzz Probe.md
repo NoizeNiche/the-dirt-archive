@@ -24,7 +24,6 @@ The Fuzz Probe is a Fuzz Factory-family fuzz with a theremin-like proximity ante
 ## Transistor
 - Exact production transistor/device information was not established in the checked sources.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - LED indicator is documented; exact clipping diode is not established.
 

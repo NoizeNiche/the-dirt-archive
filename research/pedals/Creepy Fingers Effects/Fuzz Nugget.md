@@ -31,7 +31,6 @@ Fuzz Nugget is a modernized take on 1960s 1.5V fuzz boxes, explicitly descended 
 ## Transistor
 - **NOS silicon transistors:** explicitly documented.
 - Exact device part number: not established.
-
 ## Diode
 - Exact diode type or part number: not established.
 

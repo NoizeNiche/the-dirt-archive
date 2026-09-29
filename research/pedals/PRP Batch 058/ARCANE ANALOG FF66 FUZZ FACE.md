@@ -26,7 +26,6 @@ The FF66 is not presented by Arcane Analog as one immutable BOM. The builder des
 - Arcane Analog explicitly offers **NOS germanium, silicon or hybrid** transistor sets.
 - The builder says its default FF66 devices are Russian germanium transistors, selected for gain, leakage and sound, but other transistor types can be requested. [1]
 - The specific Effects Database example is identified as **FF-66 OC42**, establishing OC42 as a documented device choice for that example, not as the universal FF66 transistor. [2]
-
 ## Diode / clipping
 - Exact clipping diode type or part number is **not publicly documented** in the reviewed FF66 sources.
 - The archive should not infer diode material from the selected transistor technology.

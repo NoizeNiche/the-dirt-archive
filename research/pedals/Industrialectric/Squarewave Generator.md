@@ -26,7 +26,6 @@ The source describes massive, modulating squarewave fuzz with dark-to-bright wav
 
 ## Transistor
 - **Exact transistor/device:** Not documented in the reviewed exact-model source.
-
 ## Diode
 - **Exact clipping/rectifier diode:** Not documented in the reviewed exact-model source.
 

@@ -23,7 +23,6 @@ Limited Edition C uses the same documented PNPD platform as the standard PUSH & 
 ## Transistor
 - **Technology:** Unknown.
 - The manufacturer does not publish an exact transistor material or part number for the PNPD.
-
 ## Diode / clipping
 - **Technology:** Unknown.
 - No exact clipping diode type or semiconductor material is documented for this edition.

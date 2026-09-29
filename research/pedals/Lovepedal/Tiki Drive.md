@@ -21,7 +21,6 @@ The Tiki Drive is an Alfonso Hermida-designed multi-gain-stage overdrive created
 
 ## Transistor
 - JFET/MOSFET-style multi-stage approaches are discussed by Hermida as common ways of implementing amplifier-like gain stages, but the exact production semiconductor complement of the Tiki Drive is not established here.
-
 ## Diode
 - Exact clipping-device information was not established.
 

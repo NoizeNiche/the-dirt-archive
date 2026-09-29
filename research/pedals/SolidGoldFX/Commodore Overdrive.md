@@ -24,7 +24,6 @@ SolidGoldFX Commodore Overdrive Pedal
 ## Transistor
 - Documented terms in the verified sources: BC183.
 - The archive records only the component information explicitly present in these sources.
-
 ## Diode
 - Documented terms in the verified sources: LED.
 - The archive records only the component information explicitly present in these sources.

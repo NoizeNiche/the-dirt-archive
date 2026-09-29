@@ -31,7 +31,6 @@ The documented difference for this archive entry is artwork rather than a new ci
 ## Transistor
 - **Technology:** **JFET-based** boost/drive. [2]
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - **Type:** Exact clipping diode(s) are not publicly documented.
 - **Exact diode/device:** Unknown.

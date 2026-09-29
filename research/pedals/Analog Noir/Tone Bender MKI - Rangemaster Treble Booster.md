@@ -31,7 +31,6 @@ No numbered production revision was established in the exact-model sources revie
 - The current builder page explicitly identifies a **1960s Texas Instruments CV7042** in the Rangemaster boost channel and describes the fuzz channel as using curated vintage germanium transistors. [1]
 - Exact-model Reverb documentation additionally records examples including **mil-spec Mullard CV**, **1960s New Market NKT277**, and **early-1960s Texas Instruments CV7042** devices, and identifies the documented builds as using vintage **PNP** transistors. [2]
 - The builder states that the vintage PNP transistor implementation requires an isolated supply from the standard 9VDC jack. [1]
-
 ## Diode
 - **Exact diode type:** Unknown.
 - No exact diode specification was established in the verified exact-model sources checked for this pass.

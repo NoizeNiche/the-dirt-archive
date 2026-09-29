@@ -27,7 +27,6 @@ The Iron Horse is Walrus Audio's high-gain take on a classic LM308-era distortio
 ## Transistor
 - Exact production semiconductor details were not established in the checked sources.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - V3 explicitly blends **silicon** and **LED** clipping.
 - **Exact production diode part numbers:** Unknown.

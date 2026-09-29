@@ -26,7 +26,6 @@ Riot Reloaded is Suhr's higher-gain evolution of the original Riot distortion. S
 ## Transistor
 - Exact production semiconductor details were not established.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact clipping/rectifier diode information was not established.
 - **Exact part:** Unknown.

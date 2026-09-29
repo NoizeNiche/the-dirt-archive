@@ -22,7 +22,6 @@ Vertex Effects T Drive The T Drive is a sonic recreation of the legendary Trainw
 ## Transistor
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

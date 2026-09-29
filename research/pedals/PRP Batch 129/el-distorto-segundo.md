@@ -20,7 +20,6 @@ Not established from the reviewed sources.
 
 ## Transistor
 Exact active devices are not established in the reviewed source set.
-
 ## Diode
 Exact clipping devices are not established in the reviewed source set.
 

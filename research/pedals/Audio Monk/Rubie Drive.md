@@ -26,7 +26,6 @@ No reliable numbered hardware revision was found.
 ## Transistor
 - **Technology:** Exact active-device topology is not publicly documented.
 - **Exact device:** Unknown.
-
 ## Diode
 - **Type:** Not publicly documented.
 

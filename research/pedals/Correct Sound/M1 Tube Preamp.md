@@ -36,7 +36,6 @@ A master arrangement is also documented for the overall unit.
 
 ## Transistor
 - No transistor stage was established from the checked sources.
-
 ## Diode
 - No exact diode type was established from the checked sources.
 

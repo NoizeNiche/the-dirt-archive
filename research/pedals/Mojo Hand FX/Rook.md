@@ -22,7 +22,6 @@ If that’s not enough, the Rook is one of the most stack friendly drives on the
 ## Transistor
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Documented terms in the verified sources: LED, silicon diode, 1N34A.
 - The archive records only the component information explicitly present in these sources.

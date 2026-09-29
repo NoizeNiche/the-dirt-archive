@@ -23,7 +23,6 @@ No reliable numbered revision history was found.
 
 ## Transistor
 The core circuit is documented as **CMOS**, rather than a discrete-transistor fuzz. Exact IC part number was not established in the checked source. [1]
-
 ## Diode
 No exact-model diode specification was established.
 

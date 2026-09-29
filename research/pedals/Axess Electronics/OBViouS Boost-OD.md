@@ -26,7 +26,6 @@ Axess positions OBViouS as a refinement tool rather than a high-gain distortion.
 
 ## Transistor
 - Exact transistor/active-device part number is not publicly documented.
-
 ## Diode / clipping
 - A three-position clipping selector is documented.
 - Exact devices selected by the switch are not published.

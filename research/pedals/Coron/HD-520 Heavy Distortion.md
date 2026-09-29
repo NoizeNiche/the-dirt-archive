@@ -20,7 +20,6 @@ HD-520 Heavy Distortion is a later Coron distortion model from the company's las
 
 ## Transistor
 - No exact transistor type or part number was established from the checked sources.
-
 ## Diode
 - No exact diode type was established from the checked sources.
 

@@ -27,7 +27,6 @@ Hold Tight is a Tone Bender MkI-inspired fuzz by Brad Davis. The design combines
 ## Transistor
 - Hybrid silicon and germanium transistor design.
 - Exact production part numbers are not established.
-
 ## Diode
 - Exact production clipping/rectifier diode is not established.
 

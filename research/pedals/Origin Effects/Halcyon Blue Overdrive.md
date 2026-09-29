@@ -23,7 +23,6 @@ More gain, warmth and playability The Halcyon Blue Overdrive is a low-to-mid gai
 ## Transistor
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

@@ -20,7 +20,6 @@ Basic Audio's Supa MKI is designed around the earliest Marshall Supa Fuzz concep
 
 ## Transistor
 - Exact production transistor technology and device part numbers are not publicly documented by Basic Audio.
-
 ## Diode / clipping
 - Exact clipping-device type and part number are not publicly documented.
 

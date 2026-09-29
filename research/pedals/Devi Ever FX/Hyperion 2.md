@@ -36,7 +36,6 @@ The model's defining functional addition over the original Hyperion is the oscil
 ## Transistor
 - **Technology:** Silicon transistor based, according to Effects Database.
 - **Exact transistor part number:** Unknown.
-
 ## Diode
 - **Exact clipping/diode device:** Unknown.
 

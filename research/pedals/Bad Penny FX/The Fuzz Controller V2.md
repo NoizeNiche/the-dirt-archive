@@ -21,7 +21,6 @@ Bad Penny FX explicitly describes V2 as a **full redesign**, retaining the high-
 ## Transistor
 - **Technology:** High-gain silicon fuzz.
 - Exact transistor part number is not published.
-
 ## Diode / clipping
 - Exact clipping-device arrangement is not documented in the reviewed V2 source.
 

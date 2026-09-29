@@ -12,7 +12,6 @@ RGDP was a Black Cat prototype shown at NAMM 2016. Effects Database records that
 
 ## Transistor
 - **Not reliably documented in the reviewed sources**
-
 ## Diode
 - **Not reliably documented in the reviewed sources**
 

@@ -22,7 +22,6 @@ No formal numbered factory revision sequence was established.
 
 ## Transistor
 Unknown from the checked exact-model documentation.
-
 ## Diode
 The pedal is documented in the Klon-family tree, but exact diode part numbers were not established for the Clone Bro unit.
 

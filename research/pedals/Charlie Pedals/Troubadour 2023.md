@@ -18,7 +18,6 @@ The exact-model Reverb listing identifies the 2023 Troubadour as a **Tone Bender
 
 ## Transistor
 - Exact transistor complement for the 2023 example is not securely documented.
-
 ## Diode / clipping
 - Exact diode information is not securely documented.
 

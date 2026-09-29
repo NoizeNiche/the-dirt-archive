@@ -21,7 +21,6 @@ Ibanez FZMINI 850 Fuzz Mini Fuzz Pedal | Guitar Center Pro Gear Advisers Chat â€
 ## Transistor
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

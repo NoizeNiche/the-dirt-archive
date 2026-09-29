@@ -19,7 +19,6 @@ The manufacturer establishes the pedal identity and classic blues-voiced operati
 
 ## Transistor
 - **Exact production transistor/device:** Unknown.
-
 ## Diode
 - **Exact production clipping diode:** Unknown.
 

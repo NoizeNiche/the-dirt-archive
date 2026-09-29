@@ -26,7 +26,6 @@ The Butcher is a Fuzz Face-style fuzz tuned for heavy, doom-oriented use, with s
 
 ## Transistor
 - The circuit is described in terms of transistor loading/starvation, but exact transistor part numbers are not established.
-
 ## Diode
 - Exact diode type or part number was not established.
 

@@ -25,7 +25,6 @@ The manufacturer documentation establishes the operating modes and external beha
 
 ## Transistor
 - **Exact production transistor/device:** Unknown.
-
 ## Diode
 - **Exact production clipping diode:** Unknown.
 

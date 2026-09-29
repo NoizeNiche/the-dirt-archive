@@ -20,7 +20,6 @@ Cicognani's later **Speciale DD 1959** is explicitly described as an evolution r
 
 ## Transistor
 The original Double Decker is a tube/preamp design. Exact transistor part numbers were not established.
-
 ## Diode
 No exact-model diode specification was established.
 

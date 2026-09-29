@@ -19,7 +19,6 @@ The Dead Man's Hand is a two-mode overdrive with distinct voices intended to cov
 
 ## Transistor
 - Exact production semiconductor complement was not established.
-
 ## Diode
 - Exact clipping/rectifier diode information was not established.
 

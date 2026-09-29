@@ -22,7 +22,6 @@ The LTD SR is an extremely clear low-gain overdrive. Barber's documentation desc
 
 ## Transistor
 - Exact transistor/device part numbers are **not publicly documented**.
-
 ## Diode / clipping
 - Exact clipping diode part numbers are **not publicly documented**.
 

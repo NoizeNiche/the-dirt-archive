@@ -22,7 +22,6 @@ Effect Pedals Boss DS-1 Distortion Pedal $ 85.99 Original price was: $85.99.
 ## Transistor
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

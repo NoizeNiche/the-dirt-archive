@@ -29,7 +29,6 @@ The Ram's Head Big Muff Pi is Electro-Harmonix's modern recreation of the classi
 ## Transistor
 - The current reissue is documented as using silicon transistors.
 - **Exact production transistor part numbers:** Unknown.
-
 ## Diode
 - Exact production clipping-diode information was not established in the checked sources.
 - **Exact part:** Unknown.

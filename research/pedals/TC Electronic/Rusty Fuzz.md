@@ -23,7 +23,6 @@ Privacy Terms Accessibility Back to Products RUSTY FUZZ Silicon-Based Transistor
 ## Transistor
 - Documented terms in the verified sources: Germanium Fuzz.
 - The archive records only the component information explicitly present in these sources.
-
 ## Diode
 - Documented terms in the verified sources: LED.
 - The archive records only the component information explicitly present in these sources.

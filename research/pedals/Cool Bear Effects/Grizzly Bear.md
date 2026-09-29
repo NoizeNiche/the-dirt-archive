@@ -33,7 +33,6 @@ The source documents a hand-painted, clear-coated enclosure and standard stompbo
 
 ## Transistor
 - **Exact transistor/device:** Not publicly documented in the checked source.
-
 ## Diode
 - **Exact clipping/rectification diode/device:** Not publicly documented in the checked source.
 

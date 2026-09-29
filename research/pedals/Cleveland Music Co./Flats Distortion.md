@@ -21,7 +21,6 @@ Flats Distortion is a Cleveland Music Co. distortion designed around a tight, ag
 
 ## Transistor
 - Exact production transistor/device information was not established.
-
 ## Diode
 - **Documented device:** germanium diode.
 - Exact production part number is not established.

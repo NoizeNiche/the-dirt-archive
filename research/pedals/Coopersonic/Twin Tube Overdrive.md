@@ -23,7 +23,6 @@ Coopersonic documents its valve pedals as high-voltage tube designs, but the che
 ## Transistor
 - **Principal gain devices:** vacuum valves.
 - Exact supporting semiconductor device list not documented.
-
 ## Diode
 - **Exact clipping/rectification diode/device:** Not publicly documented.
 

@@ -35,7 +35,6 @@ The pedal is analog and was designed specifically for bass applications, with a 
 
 ## Transistor
 - **Exact transistor/device:** Not publicly documented in the checked sources.
-
 ## Diode
 - **Exact clipping diode/device:** Not publicly documented.
 

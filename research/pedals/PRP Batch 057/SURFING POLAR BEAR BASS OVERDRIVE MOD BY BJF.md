@@ -21,7 +21,6 @@ The pedal is a distinct bass modification of the Surfing Bear concept rather tha
 
 ## Transistor
 - Exact transistor/device part numbers are not publicly documented.
-
 ## Diode
 - Exact clipping diode/device is not publicly documented.
 

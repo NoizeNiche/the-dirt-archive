@@ -21,7 +21,6 @@ HP-2 is listed by Land Devices as a dirt/fuzz product based around the Harmonic 
 ## Transistor
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

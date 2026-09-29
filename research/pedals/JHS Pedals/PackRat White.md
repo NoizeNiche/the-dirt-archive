@@ -30,7 +30,6 @@ The PackRat's rotary Mode control selects nine documented RAT-family modes.
 ## Transistor
 - Exact production semiconductor details were not established in the checked sources.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - The PackRat reproduces multiple historical clipping arrangements across its modes, but JHS does not publish a complete production diode bill of materials for the overall pedal.
 - **Exact clipping part:** Unknown.

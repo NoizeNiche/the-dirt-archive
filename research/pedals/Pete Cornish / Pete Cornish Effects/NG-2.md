@@ -21,7 +21,6 @@ Pete Cornish / Pete Cornish Effects's NG-2 is cataloged as a fuzz pedal.
 ## Transistor
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

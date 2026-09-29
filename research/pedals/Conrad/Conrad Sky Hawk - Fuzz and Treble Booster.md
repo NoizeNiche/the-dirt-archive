@@ -35,7 +35,6 @@ Effects Database documents a compact metal enclosure and handwired point-to-poin
 ## Transistor
 - **Family evidence:** Germanium or early silicon transistor batches are documented/attributed at the family level.
 - Exact transistor selection for the Conrad Sky Hawk model is not proven. [1]
-
 ## Diode
 - **Exact clipping/rectification diode:** Not publicly documented for the Sky Hawk.
 

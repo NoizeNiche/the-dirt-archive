@@ -27,7 +27,6 @@ This archive record represents a dual-circuit product rather than a numbered pro
 ## Transistor
 - **Technology:** Germanium.
 - The exact-model Reverb listing documents a hybrid trio of vintage germanium transistor families: **1960s Mullard GET, 1974 Texas Instruments CV, and 1960s New Market NKT** examples. It also identifies the transistors as vintage **PNP** devices and states that isolated power is required when using the 9V DC jack. [2]
-
 ## Diode
 - **Exact diode type:** Unknown.
 - No exact diode specification was established in the verified exact-model sources used for this record. [1][2]

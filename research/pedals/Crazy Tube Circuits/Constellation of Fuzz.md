@@ -33,7 +33,6 @@ The documented family includes OC45, OC41 and a later CV7003 limited edition. Th
 - Three selected NOS germanium transistors.
 - Exact production variants are documented separately under OC45, OC41 and CV7003 designations.
 - Exact matching values are not established.
-
 ## Diode
 - Exact diode type or part number: **not established**.
 

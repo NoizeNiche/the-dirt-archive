@@ -27,7 +27,6 @@ The Paisley Drive is Brad Paisley's signature Wampler overdrive. Wampler describ
 ## Transistor
 - Exact production semiconductor details were not established in the checked sources.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact clipping/rectifier diode information was not established in the checked sources.
 - **Exact part:** Unknown.

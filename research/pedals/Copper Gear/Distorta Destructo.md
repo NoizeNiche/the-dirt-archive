@@ -30,7 +30,6 @@ The Distorta Destructo is a silicon fuzz derived from the Distorta Obscura. Its 
 ## Transistor
 - **Technology:** silicon.
 - **Exact transistor part number:** not documented in the checked sources.
-
 ## Diode
 - **Exact clipping diode:** not publicly documented in the checked sources.
 

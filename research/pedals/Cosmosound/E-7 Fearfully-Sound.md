@@ -24,7 +24,6 @@ Sandro Marchetti's interview identifies E-7 as the **distortion-with-tremolo** m
 
 ## Transistor
 - Exact transistor type or part number: **not established**.
-
 ## Diode
 - Exact diode type: **not established**.
 

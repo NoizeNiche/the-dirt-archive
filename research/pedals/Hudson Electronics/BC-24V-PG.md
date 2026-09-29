@@ -21,7 +21,6 @@ Hudson Electronics Broadcast Overdrive/Boost Pedal BC-24V-PG Dual Footswitch Ros
 ## Transistor
 - Documented terms in the verified sources: Germanium transistor.
 - The archive records only the component information explicitly present in these sources.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

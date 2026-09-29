@@ -25,7 +25,6 @@ The Monterey combines fuzz with rotary-style modulation and multiple operating m
 
 ## Transistor
 - Exact production semiconductor details were not established.
-
 ## Diode
 - Exact clipping-device part was not established.
 

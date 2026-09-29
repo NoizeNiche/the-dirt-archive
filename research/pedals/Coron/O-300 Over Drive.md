@@ -20,7 +20,6 @@ O-300 Over Drive is a compact two-control overdrive in Coron's later, last-serie
 
 ## Transistor
 - No exact transistor type or part number was established from the checked sources.
-
 ## Diode
 - No exact diode type was established from the checked sources.
 

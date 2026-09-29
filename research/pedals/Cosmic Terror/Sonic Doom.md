@@ -27,7 +27,6 @@ Sonic Doom is an extreme-volume fuzz designed to produce long sustain, strong st
 
 ## Transistor
 - Exact transistor part numbers were not established from the checked sources.
-
 ## Diode
 - Exact diode type or part number was not established from the checked sources.
 

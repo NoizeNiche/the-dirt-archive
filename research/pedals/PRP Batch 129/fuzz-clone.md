@@ -26,7 +26,6 @@ No numbered BYOC revision was verified.
 - **Silicon:** BC108.
 - **Germanium:** AC127.
 - Hybrid combinations are explicitly supported by the kit. [1]
-
 ## Diode
 Exact clipping diode/device is not separately documented in the product description.
 

@@ -25,7 +25,6 @@ Pig Mine is a Skreddy Pedals fuzz designed for smooth, articulate, sustaining di
 - Skreddy describes the circuit as a **four-transistor fuzz**.
 - Historical source material references selected transistor types, but the exact production complement is not asserted for every Pig Mine.
 - **Exact transistor/device:** Not established for the family record.
-
 ## Diode
 - Exact clipping/rectifier diode information was not established in the checked sources.
 - **Exact part:** Unknown.

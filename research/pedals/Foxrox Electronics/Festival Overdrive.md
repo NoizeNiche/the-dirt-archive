@@ -23,7 +23,6 @@ Foxrox Electronics Festival Overdrive Review The Festival Overdrive is a dual-mo
 ## Transistor
 - Documented terms in the verified sources: silicon transistor.
 - The archive records only the component information explicitly present in these sources.
-
 ## Diode
 - Documented terms in the verified sources: LED.
 - The archive records only the component information explicitly present in these sources.

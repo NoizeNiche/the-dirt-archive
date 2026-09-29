@@ -28,7 +28,6 @@ The Supa Cobra is an analog op-amp overdrive with switchable clipping and a dedi
 ## Transistor
 - The circuit is documented as op-amp based.
 - **Exact transistor/device:** Not established.
-
 ## Diode
 - The clipping switch changes the clipping arrangement, but the exact production clipping diode part numbers were not established in the checked sources.
 - **Exact clipping part:** Unknown.

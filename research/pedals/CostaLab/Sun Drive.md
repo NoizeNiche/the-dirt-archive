@@ -24,7 +24,6 @@ The verified source set establishes a Muff-family distortion/fuzz design but doe
 
 ## Transistor
 - Exact transistor type or part number: **not established**.
-
 ## Diode
 - Silicon clipping is documented.
 - Exact diode part number: **not established**.

@@ -33,7 +33,6 @@ The builder's development history documents functional revisions during the fina
 ## Transistor
 - **Technology:** FET-input op-amp gain stages.
 - **Exact devices:** Exact op-amp part numbers are not given on the current product page.
-
 ## Diode
 - **Type:** Exact clipping-diode arrangement is not publicly documented.
 

@@ -21,7 +21,6 @@ CBC Pedals is documented as a small handwired builder of recreations of vintage 
 ## Transistor
 - **CBC-specific device type:** Unknown.
 - The original Ampeg Scrambler's internal devices are not treated as CBC factory evidence.
-
 ## Diode / clipping
 - **CBC-specific diode type:** Unknown.
 

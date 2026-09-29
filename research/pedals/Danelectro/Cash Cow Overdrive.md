@@ -26,7 +26,6 @@ The Cash Cow is a Danelectro Billionaire-series overdrive/distortion designed to
 ## Transistor
 - Exact production semiconductor details were not established in the checked sources.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact clipping/rectifier diode information was not established.
 - **Exact part:** Unknown.

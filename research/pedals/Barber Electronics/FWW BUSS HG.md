@@ -23,7 +23,6 @@ Barber identifies BUSS HG as a higher-gain extension of the original FWW BUSS. I
 
 ## Transistor
 - Exact transistor/device part numbers are **not publicly documented**.
-
 ## Diode / clipping
 - Exact clipping diode part numbers are **not publicly documented**.
 

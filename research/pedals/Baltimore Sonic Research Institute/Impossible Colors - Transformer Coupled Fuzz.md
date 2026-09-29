@@ -27,7 +27,6 @@ BSRI designed Impossible Colors to cover a very broad continuum from overdrive t
 - **Technology:** Discrete vintage transistor design.
 - **Selection:** Tested/selected vintage transistors for each unit.
 - **Exact part numbers:** Unknown. [1]
-
 ## Diode / clipping
 - The product provides **three clipping configurations** through the MODE switch.
 - Exact clipping diode/device part numbers are **not publicly documented**.

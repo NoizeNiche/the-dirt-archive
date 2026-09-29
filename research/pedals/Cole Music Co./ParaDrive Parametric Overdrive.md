@@ -29,7 +29,6 @@ No formal numbered factory revision sequence was established.
 
 ## Transistor
 The gain/equalization architecture uses **two Burr-Brown/TI OPA2604AP op-amps**. [1]
-
 ## Diode
 Published circuit/review documentation identifies:
 - **Four N914 diodes** in one mode.

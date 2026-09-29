@@ -31,7 +31,6 @@ MI Audio documents a three-stage active EQ voiced around Plexi/JCM800 frequency 
 
 ## Transistor
 - **Exact production transistor/device:** Not established in the verified manufacturer manual.
-
 ## Diode
 - **Documented function:** multiple selectable clipping structures in the final gain stage. [1]
 - **Exact production clipping-device part numbers:** Not established.

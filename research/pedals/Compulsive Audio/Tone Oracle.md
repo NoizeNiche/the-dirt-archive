@@ -36,7 +36,6 @@ Effects Database specifies high-quality Vishay metallized-film capacitors, tight
 ## Transistor
 - **JFET discrete gain architecture:** explicitly documented. [1]
 - Exact JFET part numbers were not provided in the checked sources.
-
 ## Diode
 - **Exact clipping diode/device:** Not publicly documented.
 

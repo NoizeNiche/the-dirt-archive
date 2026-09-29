@@ -22,7 +22,6 @@ Do you have a question about the BLUESBREAKER II BB-2 and is the answer not in t
 ## Transistor
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

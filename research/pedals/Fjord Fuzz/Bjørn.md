@@ -22,7 +22,6 @@
 ## Transistor
 - **Exact production transistor/device:** Unknown.
 - The verified sources used for this pass do not establish a specific production transistor part number.
-
 ## Diode
 - **Exact clipping/rectifier diode:** Unknown.
 - The verified sources used for this pass do not establish a specific production diode part number.

@@ -23,7 +23,6 @@ The added biasing trimmer is a documented design change from the original refere
 ## Transistor
 - **Technology:** Germanium.
 - **Device:** NOS Mullard germanium transistors; MusicRadar identifies the review example as 1967 NOS Mullard OC84. [1][2]
-
 ## Diode
 Exact clipping diode/device not publicly documented.
 

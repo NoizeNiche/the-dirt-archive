@@ -28,7 +28,6 @@ The Santa Ana Overdrive is a JFET-based Class A overdrive with an internal 18V r
 ## Transistor
 - **JFET-based** gain architecture is documented.
 - Exact device part numbers were not established.
-
 ## Diode
 - LED terminology is documented; exact clipping-device information was not established.
 

@@ -59,7 +59,6 @@ DLS later introduced the **RD2 Reckless Driver** as an enhanced version. The RD2
 ## Transistor
 - **Exact production transistor/device:** Unknown from the model-specific documents reviewed.
 - The datasheet documents the charge-pump/high-headroom architecture and internal gain trims, but does not name the production transistor part numbers.
-
 ## Diode
 - **Exact clipping/rectifier diode:** Unknown from the model-specific documents reviewed.
 - No model-specific source reviewed in this pass provides a reliable diode part number.

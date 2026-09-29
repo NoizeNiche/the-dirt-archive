@@ -28,7 +28,6 @@ The manufacturer identifies the SSD-9 as a modified SD-9. The exact component-le
 
 ## Transistor
 - **Exact production transistor/device:** Unknown.
-
 ## Diode
 - **Exact production clipping diode:** Unknown.
 

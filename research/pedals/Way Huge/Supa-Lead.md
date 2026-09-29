@@ -21,7 +21,6 @@ WM31 Description *LEGACY PRODUCT / NO LONGER IN PRODUCTION The Supa-Lead Overdri
 ## Transistor
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

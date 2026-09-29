@@ -25,7 +25,6 @@ LARAN is a high-gain fuzz/overdrive built around a MOSFET input stage followed b
 ## Transistor
 - MOSFET input stage is documented.
 - Exact device part number was not established.
-
 ## Diode
 - Exact clipping diode information was not established.
 

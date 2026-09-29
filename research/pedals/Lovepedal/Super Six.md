@@ -27,7 +27,6 @@ The Super Six is a blackface Fender-inspired buffer/boost and tone-shaping pedal
 
 ## Transistor
 - Exact production transistor/device information was not established.
-
 ## Diode
 - Exact clipping-device information was not established.
 

@@ -39,7 +39,6 @@ Moby Dick/Commune identifies the product within its bass-oriented Senturion line
 
 ## Transistor
 - **Exact transistor/device:** Not publicly documented in the checked sources.
-
 ## Diode
 - **Exact clipping diode/device:** Not publicly documented.
 

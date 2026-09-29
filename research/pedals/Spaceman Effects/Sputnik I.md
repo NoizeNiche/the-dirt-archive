@@ -34,7 +34,6 @@ The Olive Drab edition uses a Cyrillic-engraved faceplate and custom knobs.
 ## Transistor
 - Spaceman explicitly documents **NOS silicon transistors**.
 - Exact transistor part numbers are not published in the checked sources.
-
 ## Diode
 - Exact clipping/rectifier diode information was not established.
 - **Exact part:** Unknown.

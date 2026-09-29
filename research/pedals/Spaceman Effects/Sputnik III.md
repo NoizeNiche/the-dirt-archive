@@ -21,7 +21,6 @@ Astonishingly responsive and versatile, the Sputnik III is ready to transport yo
 ## Transistor
 - Documented terms in the verified sources: Germanium Fuzz.
 - The archive records only the component information explicitly present in these sources.
-
 ## Diode
 - Documented terms in the verified sources: germanium diode.
 - The archive records only the component information explicitly present in these sources.

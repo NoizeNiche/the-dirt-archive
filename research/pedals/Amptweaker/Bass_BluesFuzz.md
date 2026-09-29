@@ -23,7 +23,6 @@ The Bass BluesFuzz is Amptweaker's bass-oriented fuzz based on the BluesFuzz des
 ## Transistor
 - **Documented:** low-gain germanium transistor.
 - No exact production transistor part number was established.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

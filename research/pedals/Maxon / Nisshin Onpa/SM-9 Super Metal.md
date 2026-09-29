@@ -26,7 +26,6 @@ No complete component-level schematic or production BOM was established in the v
 
 ## Transistor
 - **Exact production transistor/device:** Unknown.
-
 ## Diode
 - **Exact production clipping diode:** Unknown.
 

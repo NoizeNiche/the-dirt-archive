@@ -34,7 +34,6 @@ No numbered production revision was verified.
 ## Transistor
 - **Technology:** Published technical coverage does not verify whether the core gain stages are op-amp, discrete transistor, or another solid-state architecture.
 - **Exact device:** Unknown.
-
 ## Diode
 - **Type:** Not publicly documented.
 

@@ -38,7 +38,6 @@ The Mid/Wah frequency choices were finalized through the builder's user-feedback
 - **Type:** Unknown.
 - No TightBoost-specific factory schematic or component record was located.
 - James Brown has said Amptweaker generally emphasized tuned component values and durability over NOS brand-name parts, but this does not establish a specific transistor for TightBoost. [3]
-
 ## Diode
 - **Type:** Unknown.
 - No TightBoost-specific diode documentation found.

@@ -24,7 +24,6 @@ Baroni Lab describes Morpheus as a large-range distortion/drive using classic vi
 
 ## Transistor
 - Exact transistor/device part numbers are **not publicly documented**.
-
 ## Diode / clipping
 - Exact clipping/protection diode type and part number are **not publicly documented**.
 

@@ -22,7 +22,6 @@ The B.U.S.S is a compact dual-tone overdrive. Barber says it derives from the Di
 
 ## Transistor
 - Exact transistor/device part numbers are **not publicly documented**.
-
 ## Diode / clipping
 - Exact clipping diode part numbers are **not publicly documented**.
 

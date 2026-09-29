@@ -21,7 +21,6 @@
 ## Transistor
 - **Factory devices:** Benson documents **2N404 or 2N527** Germanium devices.
 - Devices are selected/matched and thermally stabilized. [1]
-
 ## Diode / clipping
 - Exact diode part numbers are not publicly documented.
 

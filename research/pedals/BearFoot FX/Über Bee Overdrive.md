@@ -19,7 +19,6 @@ Effects Database describes Über Bee as extending the Honey Bee range upward. It
 
 ## Transistor
 - Exact production transistor/device part numbers are not publicly documented.
-
 ## Diode / clipping
 - Exact clipping/protection device and part number are not publicly documented.
 

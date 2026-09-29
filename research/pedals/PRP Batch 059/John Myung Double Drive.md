@@ -35,7 +35,6 @@ Ashdown describes Drive 1 as a harmonic distortion stage and Drive 2 as a vintag
 
 ## Transistor
 - Exact transistor/device part numbers are **not publicly documented** in the reviewed Ashdown material.
-
 ## Diode / clipping
 - Exact clipping diode/device part numbers are **not publicly documented** in the reviewed Ashdown material.
 

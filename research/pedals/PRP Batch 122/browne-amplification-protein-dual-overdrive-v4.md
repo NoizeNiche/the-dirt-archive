@@ -25,7 +25,6 @@ V4 adds the 3-way hi-cut, low-cut, heavier-clipping and asymmetrical-clipping op
 
 ## Transistor
 Exact active devices not publicly documented.
-
 ## Diode
 The heavier-clipping option uses a distinct clipping configuration, but exact production diode part numbers are not published. [1]
 

@@ -30,7 +30,6 @@ The checked sources establish the model as part of Commune's bass-oriented produ
 
 ## Transistor
 - **Exact transistor/device:** Not publicly documented in the checked sources.
-
 ## Diode
 - **Exact clipping diode/device:** Not publicly documented.
 

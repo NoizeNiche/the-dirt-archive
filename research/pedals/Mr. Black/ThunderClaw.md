@@ -25,7 +25,6 @@ The manufacturer documents internal **+/-9V split-rail operation** from a 9VDC i
 
 ## Transistor
 - **Exact production transistor/device:** Not established in the verified manufacturer/tracing material.
-
 ## Diode
 - **Documented clipping:** back-to-back diodes to ground in the traced clipping section. [3]
 - **Exact production diode part number:** The verified sources checked do not establish a production part number.

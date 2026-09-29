@@ -24,7 +24,6 @@ The Little Samson is an Andy Elliott signature high-gain drive developed by Gree
 ## Transistor
 - Exact production semiconductor details were not established in the checked sources.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact clipping/rectifier diode information was not established.
 - **Exact part:** Unknown.

@@ -28,7 +28,6 @@ Chellee calls V3 the newest evolution of the original Ponyboy. The builder also 
 
 ## Transistor
 No exact-model transistor part number was established in the checked sources.
-
 ## Diode
 V3 explicitly uses **1N34A germanium diodes** in the Vintage position and **Schottky diodes** in the Modern position. [1]
 

@@ -18,7 +18,6 @@ The main documented variation is the optional Master Volume. Custom colors and c
 
 ## Transistor
 - Three hand-selected NOS germanium transistors.
-
 ## Diode
 - Exact clipping diode/device is not publicly documented.
 

@@ -34,7 +34,6 @@ The May 2015 update retained the Tone Evaporator concept but introduced sonic tw
 
 ## Transistor
 - Exact transistor/device part numbers are not publicly documented.
-
 ## Diode
 - Exact clipping diode/device is not publicly documented.
 

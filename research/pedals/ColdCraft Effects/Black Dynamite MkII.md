@@ -26,7 +26,6 @@ The MkII designation places it in ColdCraft's redesigned generation. The exact e
 
 ## Transistor
 No exact transistor part numbers were established.
-
 ## Diode
 No exact diode specification was established.
 

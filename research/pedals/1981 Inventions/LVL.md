@@ -27,7 +27,6 @@ The LVL is a professional low-gain overdrive and preamp designed to sit between 
 ## Transistor
 - Exact production semiconductor details were not established in the checked sources.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - The checked evidence includes a 1N4148 reference, but it is not sufficient to establish a complete production clipping bill of materials for all LVL units.
 - **Exact clipping part:** 1N4148 reference documented; full production arrangement not established.

@@ -24,7 +24,6 @@ TC Electronic Nova Drive: A Bassist’s Deep Dive into Tone, Transparency, and P
 ## Transistor
 - Documented terms in the verified sources: 2N5088.
 - The archive records only the component information explicitly present in these sources.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

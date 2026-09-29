@@ -19,7 +19,6 @@ Cerberus is listed in the Anasounds product catalog as an overdrive effect. [1]
 
 ## Transistor
 - Exact type not established.
-
 ## Diode
 - Exact type not established.
 

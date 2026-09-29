@@ -20,7 +20,6 @@ No reliable factory revision sequence was established.
 ## Transistor
 - Exact production transistor/device: Unknown.
 - Aion FX's later Vortex project is a recreation and is not treated as a factory component inventory.
-
 ## Diode
 - Exact production clipping diode/device: Unknown.
 - DIY recreation details are not promoted as factory specifications.

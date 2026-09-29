@@ -25,7 +25,6 @@ The controls interact strongly, allowing both conventional fuzz and deliberately
 ## Transistor
 - **Technology:** Germanium.
 - Exact production transistor part number is not publicly documented.
-
 ## Diode / clipping
 - Exact clipping-device type and part number are not publicly documented.
 

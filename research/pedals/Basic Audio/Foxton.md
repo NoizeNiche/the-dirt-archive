@@ -21,7 +21,6 @@ Basic Audio describes Foxton as its controllable interpretation of the Foxx Tone
 ## Transistor
 - **Technology:** Silicon.
 - Exact factory transistor part number is not publicly documented. [1][3]
-
 ## Diode / clipping
 - Exact clipping-device type and part number are not published.
 

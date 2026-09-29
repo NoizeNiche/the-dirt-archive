@@ -22,7 +22,6 @@ Not established from the surviving Buffalo-specific record.
 ## Transistor
 - **Technology:** Silicon.
 - **Device:** NOS BC239c, as identified in the catalog designation.
-
 ## Diode
 - Exact clipping diode/device: Not publicly documented.
 

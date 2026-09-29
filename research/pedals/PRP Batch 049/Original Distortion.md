@@ -17,7 +17,6 @@ The Original Distortion is an early Amsterdam Cream compact distortion pedal. Co
 
 ## Transistor
 - Exact transistor/device not documented.
-
 ## Diode
 - Exact clipping diode/device not documented.
 

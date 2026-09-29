@@ -29,7 +29,6 @@ No reliable numbered V1/V2 sequence was verified. Crews later explained that the
 ## Transistor
 - **Technology:** The exact active-device implementation is not publicly established in the reliable sources checked.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - **Type:** Exact production clipping diode/device was not publicly established.
 - **Exact part:** Unknown.

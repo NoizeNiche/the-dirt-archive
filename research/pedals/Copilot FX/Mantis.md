@@ -39,7 +39,6 @@ The manufacturer describes powder-coated aluminum enclosure construction and ele
 
 ## Transistor
 - **Exact transistor/device:** Not publicly documented in the checked sources.
-
 ## Diode
 - **Exact clipping/rectification diode/device:** Not publicly documented.
 

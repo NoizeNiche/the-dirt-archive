@@ -23,7 +23,6 @@ The JB-2 is a combined-circuit collaboration model, not a version of the BD-2. I
 
 ## Transistor
 BOSS does not publicly specify individual production transistor part numbers for the JB-2.
-
 ## Diode
 BOSS does not publicly specify individual production diode part numbers for the JB-2.
 

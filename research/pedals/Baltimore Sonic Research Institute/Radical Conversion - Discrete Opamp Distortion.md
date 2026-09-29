@@ -32,7 +32,6 @@ No numbered factory revision was verified in the checked sources.
 - **Technology:** Fully discrete transistor-based op-amp stages.
 - **Documented count:** 27 transistors.
 - **Exact individual transistor part numbers:** Not publicly documented in the checked sources.
-
 ## Diode
 - **Exact clipping/protection arrangement:** Not publicly documented in the checked sources.
 

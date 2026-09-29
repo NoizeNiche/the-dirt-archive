@@ -19,7 +19,6 @@ The ST-2 Power Stack is a BOSS compact distortion designed to reproduce the resp
 
 ## Transistor
 - Individual production transistor part numbers are not publicly specified by BOSS.
-
 ## Diode
 - Individual production diode part numbers are not publicly specified by BOSS.
 

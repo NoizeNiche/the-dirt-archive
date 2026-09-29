@@ -24,7 +24,6 @@ The Nano Bass Big Muff Pi puts the Bass Big Muff's large, sustaining fuzz charac
 
 ## Transistor
 - Exact production semiconductor details were not established.
-
 ## Diode
 - LED indicator is documented; exact clipping-device part was not established.
 

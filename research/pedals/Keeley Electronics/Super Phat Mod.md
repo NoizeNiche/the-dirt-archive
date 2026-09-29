@@ -21,7 +21,6 @@ The Keeley Super Phat Mod is Keeley’s famous mod now perfected with amazing so
 ## Transistor
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

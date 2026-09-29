@@ -22,7 +22,6 @@ What distinguishes the Tweak Fuzz from clones like the Analog Man King of Tone o
 ## Transistor
 - Documented terms in the verified sources: 2N5088, silicon transistors.
 - The archive records only the component information explicitly present in these sources.
-
 ## Diode
 - Documented terms in the verified sources: LED, 1N4148, 1N4148s.
 - The archive records only the component information explicitly present in these sources.

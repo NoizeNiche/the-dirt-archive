@@ -23,7 +23,6 @@ The Lola Drive is a British-style amp-in-a-box overdrive designed around the cha
 ## Transistor
 - Exact production transistor/device information was not established in the checked sources.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact clipping/rectifier diode information was not established in the checked sources.
 - **Exact part:** Unknown.

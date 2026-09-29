@@ -22,7 +22,6 @@ Bone Bender MKI is a vintage-oriented BearFoot fuzz built around two NOS AC127 G
 ## Transistor
 - **2 × NOS AC127 Germanium transistors** are documented for the exact model. [1][2]
 - Exact individual gain/leakage measurements are not published.
-
 ## Diode / clipping
 - Exact clipping/protection device and part number are not publicly documented.
 

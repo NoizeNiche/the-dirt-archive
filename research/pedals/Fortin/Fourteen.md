@@ -20,9 +20,8 @@ The FOURTEEN® is not simply an overdrive pedal; it is the physical embodiment o
 - No specific factory version changes were established in the verified evidence packet.
 
 ## Transistor
-- Documented terms in the verified sources: AC30.
+- Documented terms in the verified sources: .
 - The archive records only the component information explicitly present in these sources.
-
 ## Diode
 - Documented terms in the verified sources: LED, Germanium diode.
 - The archive records only the component information explicitly present in these sources.

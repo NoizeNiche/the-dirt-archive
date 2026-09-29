@@ -22,7 +22,6 @@ The manufacturer establishes the Rage Machine as a compact true-bypass distortio
 
 ## Transistor
 - **Exact production transistor/device:** Unknown.
-
 ## Diode
 - **Exact production clipping/rectifier diode:** Unknown.
 

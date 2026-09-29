@@ -34,7 +34,6 @@ The five-position gain selector provides:
 ## Transistor
 - Exact production semiconductor details were not established in the checked sources.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Walrus documents silicon and LED clipping states by mode, but not the complete production part list.
 - **Exact clipping-device part numbers:** Unknown.

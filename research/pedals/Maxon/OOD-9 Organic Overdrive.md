@@ -22,7 +22,6 @@ Maxon describes the OOD-9 as an updated version of the company's OD880-era overd
 ## Transistor
 - **Documented device:** 2SK246 JFET input buffer. [1]
 - **Exact full transistor complement:** Not established.
-
 ## Op amps and diodes
 - **Gain-stage op amps:** current-production NJM/JRC 4558 devices. [1]
 - **Clipping:** the verified manufacturer page describes the OOD-9 as based on the OSD-9 circuit but does not state an exact production clipping-diode part number. [1]

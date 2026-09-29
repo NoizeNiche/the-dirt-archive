@@ -20,7 +20,6 @@ No reliable factory revision sequence established from the accessible documentat
 
 ## Transistor
 Exact active devices are not publicly documented.
-
 ## Diode
 Exact clipping devices are not publicly documented.
 

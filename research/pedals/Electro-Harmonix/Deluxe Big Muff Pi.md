@@ -29,7 +29,6 @@ The Deluxe Big Muff Pi is an expanded version of the classic Big Muff fuzz. EHX 
 ## Transistor
 - Exact production semiconductor details were not established.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact production clipping/rectifier diode details were not established.
 - **Exact part:** Unknown.

@@ -26,7 +26,6 @@ The Zendrive is Alfonso Hermida's signature low-to-medium gain overdrive. Lovepe
 
 ## Transistor
 - Exact production semiconductor complement varies by version and is not established for the family record.
-
 ## Diode
 - Exact clipping-device information was not established for the family record.
 

@@ -27,7 +27,6 @@ The original Sweet Kiwi remains a separate historical identity. [1]
 
 ## Transistor
 Exact Sweet Kiwi MkII transistor part numbers were not established. The underlying architecture uses cascading power-amp stages.
-
 ## Diode
 Op-amp clipping is documented in the underlying Kiwi architecture; exact diode parts were not established. [1]
 

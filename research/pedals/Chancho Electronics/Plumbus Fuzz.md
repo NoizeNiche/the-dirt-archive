@@ -18,7 +18,6 @@ The exact builder/model identity is established in the archive, but the current 
 
 ## Transistor
 - **Exact production device:** Unknown.
-
 ## Diode / clipping
 - **Exact clipping device:** Unknown.
 

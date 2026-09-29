@@ -15,7 +15,6 @@ OD-Fuzz combines the Black Cat OD-1 with a separate Fuzz Face-style fuzz channel
 
 ## Transistor
 - **Documented variant:** Ge/Si Hybrid uses a combination of Germanium and Silicon transistors in the fuzz circuit.
-
 ## Diode
 - **Not reliably documented in the reviewed sources**
 

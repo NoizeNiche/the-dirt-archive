@@ -37,7 +37,6 @@ The production TightFuzz itself went through prototype voicing work before relea
 - **Technology:** NPN transistor fuzz stage with selectable silicon/germanium output.
 - **Exact traced parts:** Q1/Q3 = NEC 2SD1616; Q2 = AC127 germanium.
 - **Evidence limitation:** these values are from Aion FX's traced production specimen, not an Amptweaker parts list proving every production unit used identical parts. [6]
-
 ## Diode
 - **Type:** No diode was established as a defining clipping device in the pedal-specific trace reviewed.
 - **Archive status:** Unknown / not a defining documented diode stage.

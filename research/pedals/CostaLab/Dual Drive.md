@@ -23,7 +23,6 @@ No alternate production versions are listed in the verified Sugaree Licks record
 
 ## Transistor
 - Exact transistor type or part number: **not established**.
-
 ## Diode
 - Exact diode type or part number: **not established**.
 

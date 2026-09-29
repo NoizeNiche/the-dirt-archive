@@ -19,7 +19,6 @@ The OS-2 combines separate overdrive and distortion circuits in one compact peda
 
 ## Transistor
 - Individual production transistor part numbers are not publicly specified by BOSS.
-
 ## Diode
 - Individual production diode part numbers are not publicly specified by BOSS.
 

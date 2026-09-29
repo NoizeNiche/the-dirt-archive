@@ -21,7 +21,6 @@
 
 ## Transistor
 - Exact production transistor part number is not publicly documented.
-
 ## Diode / clipping
 - Exact clipping-device part number is not established.
 

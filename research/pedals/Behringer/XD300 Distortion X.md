@@ -13,7 +13,6 @@ A Behringer price list from 2007 lists the XD300 as a new product. No verified f
 
 ## Transistor
 Exact production transistor/device part numbers: **Unknown.**
-
 ## Diode
 Exact clipping/rectifier diode part numbers: **Unknown.**
 

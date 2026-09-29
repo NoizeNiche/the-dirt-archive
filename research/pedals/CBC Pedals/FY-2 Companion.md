@@ -22,7 +22,6 @@ CBC's own demonstration identifies the pedal as an **FY-2 Companion clone** and 
 ## Transistor
 - **Documented CBC example:** **2SC536** transistors, according to CBC's own FY-2 Companion demonstration. [1]
 - The archive scopes this part number to the demonstrated CBC design and does not assert that every undocumented unit used the same semiconductor.
-
 ## Diode / clipping
 - Exact CBC diode type and part number are not established.
 

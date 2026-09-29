@@ -25,7 +25,6 @@ The manufacturer describes a dual op-amp design similar to the OD808. [1] The ve
 
 ## Transistor
 - **Exact production transistor/device:** Unknown.
-
 ## Diode
 - **Exact clipping diode:** Unknown.
 

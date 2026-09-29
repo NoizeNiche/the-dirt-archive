@@ -26,9 +26,8 @@ The Trapper Dual Fuzz is a two-voice fuzz pedal from Fender that combines distin
 - The two fuzz voices are part of one pedal design, not separate production revisions.
 
 ## Transistor
-- Exact production semiconductor details were not established in Fender's public product material.
+- Exact production semiconductor details were not established in 's public product material.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact clipping/rectifier diode information was not established.
 - **Exact part:** Unknown.

@@ -23,7 +23,6 @@ The Tone Smuggler is a two-stage Class-A JFET overdrive/buffer. Its gain range e
 ## Transistor
 - **JFET** gain stages are documented.
 - Exact part numbers were not established.
-
 ## Diode
 - Exact clipping/rectifier diode information was not established.
 

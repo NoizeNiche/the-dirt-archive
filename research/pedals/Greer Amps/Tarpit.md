@@ -23,7 +23,6 @@ The Tarpit is Greer's integrated-circuit Muff-style fuzz. Greer based it on a vi
 ## Transistor
 - The defining gain stages use integrated circuits rather than the classic four-transistor Muff arrangement.
 - Exact IC part numbers were not established.
-
 ## Diode
 - Exact clipping/rectifier diode information was not established.
 

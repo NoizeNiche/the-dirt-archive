@@ -24,7 +24,6 @@ No numbered factory revision, control layout, or circuit revision was verified.
 ## Transistor
 - **Technology:** Unknown.
 - **Exact device:** Not documented in the sources checked.
-
 ## Diode
 - **Type:** Unknown.
 - **Exact device:** Not documented in the sources checked.

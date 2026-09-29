@@ -37,7 +37,6 @@ No major numbered production revision has been established in the reviewed build
 ## Transistor
 - **Type:** Not reliably documented.
 - The manual identifies a standard dual op-amp socket and discusses JRC4558D as a suggested/recommended op-amp, but that does not establish a universal production component population. [1]
-
 ## Diode
 - **Type:** Unknown.
 - No Prince Of Tone-specific diode type or part number established.

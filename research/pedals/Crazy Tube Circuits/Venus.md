@@ -32,7 +32,6 @@ No separate named circuit revision was established in the checked evidence.
 
 ## Transistor
 - Exact transistor type or part number: **not established**.
-
 ## Diode
 - Exact diode type or part number: **not established**.
 

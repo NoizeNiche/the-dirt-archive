@@ -26,7 +26,6 @@ REDRUM V2 updates IdiotBox Effects' original RAT-style distortion by retaining i
 
 ## Transistor
 - Exact production transistor/device information was not established.
-
 ## Diode
 - Exact clipping/rectifier diode information was not established.
 

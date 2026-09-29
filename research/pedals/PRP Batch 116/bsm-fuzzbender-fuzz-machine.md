@@ -29,7 +29,6 @@ No numbered factory hardware revision was verified. The documented name change t
 ## Transistor
 - **Technology:** Germanium.
 - **Exact transistor/device:** Not publicly documented in the manufacturer product description. Independent Bonedo coverage also identifies the unit as using selected germanium transistors. [1][4]
-
 ## Diode
 - Exact clipping diode/device: Not publicly documented.
 

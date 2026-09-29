@@ -23,7 +23,6 @@ PUSH & PULL DISTORTION is designed to produce a thick, defined “brown sound”
 ## Transistor
 - **Technology:** Unknown.
 - No exact discrete transistor material or part number was established in the reviewed manufacturer documentation.
-
 ## Diode / clipping
 - **Technology:** Unknown.
 - No exact clipping diode type or material was established in the reviewed manufacturer documentation.

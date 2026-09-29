@@ -22,7 +22,6 @@ By Zoe Langford July 19, 2026 What Is the Stomp Under Foot Alabaster—and Why D
 ## Transistor
 - Documented terms in the verified sources: 2N5457, AC30HW.
 - The archive records only the component information explicitly present in these sources.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

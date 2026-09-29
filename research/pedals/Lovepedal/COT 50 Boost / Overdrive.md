@@ -24,7 +24,6 @@ The COT 50 Boost / Overdrive is the simple Church of Tone design centered on a s
 
 ## Transistor
 - Exact production transistor/device information was not established.
-
 ## Diode
 - Exact clipping-device information was not established.
 

@@ -23,7 +23,6 @@ The checked sources establish the ColorTone Fx brand/model listing but do not pr
 
 ## Transistor
 - **Exact transistor/device:** Not publicly documented in the checked sources.
-
 ## Diode
 - **Exact clipping diode/device:** Not publicly documented in the checked sources.
 

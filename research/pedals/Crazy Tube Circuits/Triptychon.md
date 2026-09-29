@@ -55,7 +55,6 @@ No distinct revision matrix established. The current 2026 production model docum
 ## Transistor
 - Fuzz and boost sections use **metal-can silicon transistors**.
 - Exact transistor part numbers were not established from the checked sources.
-
 ## Diode
 - Exact diode type or part number: **not established**.
 

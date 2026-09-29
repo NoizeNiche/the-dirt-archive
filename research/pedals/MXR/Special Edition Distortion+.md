@@ -23,7 +23,6 @@ Page 1 of 1 shawn Madman Posts: 313 Joined: Fri Mar 26, 2010 11:06 pm MXR® Rand
 ## Transistor
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

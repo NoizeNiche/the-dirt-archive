@@ -34,7 +34,6 @@ Gain and Trim affect different gain portions of the circuit. Detail shapes high/
 
 ## Transistor
 - **Exact production transistor/device:** Not established in the verified manufacturer material.
-
 ## Diode
 - **Documented clipping:** silicon diode paths and MOSFET-based clipping options. [1]
 - **Exact silicon diode part numbers:** Unknown.

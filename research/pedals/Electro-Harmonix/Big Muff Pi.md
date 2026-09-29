@@ -28,7 +28,6 @@ The standard Big Muff Pi is EHX's classic three-control fuzz, known for thick su
 ## Transistor
 - Exact production transistor/device information differs by production era and was not established for this unversioned family record.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact clipping/rectifier diode information differs by era and was not established for this unversioned family record.
 - **Exact part:** Unknown.

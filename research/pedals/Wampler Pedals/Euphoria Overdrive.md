@@ -27,7 +27,6 @@ The Euphoria is a versatile Wampler overdrive built around multiple clipping/gai
 ## Transistor
 - Exact production semiconductor details were not established in the checked sources.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Wampler documents three switchable clipping/gain modes but does not publish a complete production clipping-diode bill of materials on the checked product page.
 - **Exact clipping part:** Unknown.

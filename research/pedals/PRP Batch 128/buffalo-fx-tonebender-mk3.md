@@ -20,7 +20,6 @@ Not established from the surviving Buffalo-specific documentation.
 
 ## Transistor
 - Exact transistor/device: Unknown.
-
 ## Diode
 - Exact clipping diode/device: Unknown.
 

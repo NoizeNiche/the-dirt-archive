@@ -25,7 +25,6 @@ The 3 Series Screamer is JHS's standalone version of its Tube Screamer **Strong 
 ## Transistor
 - Exact production semiconductor details were not established in the checked sources.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact clipping-diode part was not established in the checked sources.
 - **Exact part:** Unknown.

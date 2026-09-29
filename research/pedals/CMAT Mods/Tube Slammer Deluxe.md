@@ -20,7 +20,6 @@ Effects Database records Tube Slammer Deluxe as a separate CMATMODS overdrive al
 
 ## Transistor
 - Exact production transistor/device information is not established.
-
 ## Diode / clipping
 - Exact clipping-device information is not established.
 

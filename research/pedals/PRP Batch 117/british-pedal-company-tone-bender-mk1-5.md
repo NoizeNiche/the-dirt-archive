@@ -22,7 +22,6 @@ The Mk1.5 identity remains separate from the MkI and Professional MkII entries.
 
 ## Transistor
 Exact production device not established.
-
 ## Diode
 Exact clipping device not established.
 

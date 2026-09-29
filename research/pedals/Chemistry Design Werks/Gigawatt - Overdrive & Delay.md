@@ -21,7 +21,6 @@ The exact builder/model identity and combined function are secure, but the revie
 
 ## Transistor
 - Exact production device: **Unknown**.
-
 ## Diode / clipping
 - Exact clipping device: **Unknown**.
 

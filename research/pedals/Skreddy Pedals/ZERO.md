@@ -22,7 +22,6 @@ Geoff "wow" "The Zero is awesome, the harmonics really really jump out of the gu
 ## Transistor
 - Documented terms in the verified sources: BC239.
 - The archive records only the component information explicitly present in these sources.
-
 ## Diode
 - Documented terms in the verified sources: LED.
 - The archive records only the component information explicitly present in these sources.

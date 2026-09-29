@@ -26,7 +26,6 @@ BSRI's Ashmaker is designed as a flexible high-gain distortion for stage and stu
 
 ## Transistor
 - Exact transistor/device part numbers are **not publicly documented**.
-
 ## Diode / clipping
 - Exact clipping/protection diode arrangement is **not publicly documented**.
 

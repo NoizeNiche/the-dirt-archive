@@ -29,7 +29,6 @@ An **A/B footswitch** selects the two fuzz channels. [1]
 ## Transistor
 - Exact production transistor part numbers are not publicly documented.
 - The fuzz channels retain Tarkin/Grand Tarkin lineage.
-
 ## Diode / clipping
 - Each fuzz channel has clipping-stage switching that can remove clipping diodes from either stage. [1]
 - Exact diode part numbers are not established.

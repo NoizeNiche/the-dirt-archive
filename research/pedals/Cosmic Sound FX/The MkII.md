@@ -20,7 +20,6 @@ No distinct factory revisions or production variants were established in the che
 
 ## Transistor
 - Exact transistor type or part number: **not established**.
-
 ## Diode
 - Exact diode type or part number: **not established**.
 

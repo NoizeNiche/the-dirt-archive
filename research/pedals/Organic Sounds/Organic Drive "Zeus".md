@@ -23,7 +23,6 @@ Organic Sounds introduced the Zeus in September 2020 as an overdrive following t
 
 ## Transistor
 - Exact production transistor/device information was not established in the verified sources.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified sources.
 

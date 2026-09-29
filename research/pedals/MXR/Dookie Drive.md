@@ -22,7 +22,6 @@ The MXR Dookie Drive Pedal isn’t just for Green Day fans—it’s a totally un
 ## Transistor
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

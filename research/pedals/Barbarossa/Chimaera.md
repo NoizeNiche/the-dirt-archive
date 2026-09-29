@@ -21,7 +21,6 @@ Barbarossa developed CHIMAERA as a hand-built modern overdrive emphasizing playi
 
 ## Transistor
 - Exact transistor technology and part number are **not publicly documented** in the reviewed sources.
-
 ## Diode / clipping
 - Exact clipping diode/device type and part number are **not publicly documented**.
 - The pedal's TS-family sonic resemblance is not used as evidence for a specific clipping diode.

@@ -23,7 +23,6 @@ Mystique is a hand-built germanium fuzz and boost pedal released by CopperSound 
 ## Transistor
 - **Type:** Germanium.
 - **Exact part numbers:** not publicly specified on the checked manufacturer page.
-
 ## Diode
 - No exact diode type was established from the checked sources.
 

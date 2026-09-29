@@ -20,9 +20,8 @@ ThorpyFX has released the Kudu, a new overdrive pedal designed by founder Adrian
 - No specific factory version changes were established in the verified evidence packet.
 
 ## Transistor
-- Documented terms in the verified sources: AC30.
+- Documented terms in the verified sources: .
 - The archive records only the component information explicitly present in these sources.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

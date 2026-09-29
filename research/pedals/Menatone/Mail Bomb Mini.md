@@ -22,7 +22,6 @@ The Mail Bomb Mini is Menatone's compact envelope filter. Menatone describes it 
 
 ## Transistor
 - Exact production semiconductor details were not established.
-
 ## Diode
 - Exact clipping/rectifier information was not established.
 

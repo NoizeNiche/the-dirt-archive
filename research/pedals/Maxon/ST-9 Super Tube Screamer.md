@@ -21,7 +21,6 @@ The ST-9 Super Tube Screamer is a vintage Maxon 9-series overdrive from the earl
 ## Transistor
 - The main gain architecture is op-amp based.
 - Exact supporting transistor complement was not established.
-
 ## Diode
 - Exact clipping-device part was not established.
 

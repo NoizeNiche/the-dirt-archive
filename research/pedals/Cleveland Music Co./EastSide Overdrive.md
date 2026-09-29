@@ -21,7 +21,6 @@ EastSide Overdrive is Cleveland Music Co.'s boutique **Timmy-style** overdrive. 
 
 ## Transistor
 - Unknown from the checked exact-model documentation.
-
 ## Diode
 - Unknown from the checked exact-model documentation.
 

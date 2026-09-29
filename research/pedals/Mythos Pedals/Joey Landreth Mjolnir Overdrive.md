@@ -28,7 +28,6 @@ The Joey Landreth Mjolnir is a signature K-style overdrive built for guitarist *
 ## Transistor
 - Exact production semiconductor details were not established.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Mythos documents **vintage NOS germanium diodes**.
 - Exact diode part numbers are not established in the checked sources.

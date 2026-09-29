@@ -27,7 +27,6 @@ No formal numbered factory revision sequence was established.
 
 ## Transistor
 No discrete transistor complement was published in the checked manufacturer documentation. The core output stage is explicitly described as a Class AB push-pull amplifier. [1]
-
 ## Diode
 No exact-model diode specification was established.
 

@@ -24,7 +24,6 @@ A surviving early serial-marked example is documented, but no complete numbered 
 
 ## Transistor
 Exact active devices are not publicly documented.
-
 ## Diode
 Exact clipping devices are not publicly documented.
 

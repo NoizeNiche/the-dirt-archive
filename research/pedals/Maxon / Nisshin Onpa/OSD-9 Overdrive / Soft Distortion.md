@@ -21,7 +21,6 @@ Maxon / Nisshin Onpa's OSD-9 Overdrive / Soft Distortion is cataloged as an over
 ## Transistor
 - Exact production transistor/device information was not established in the verified evidence packet.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact production clipping/rectifier diode information was not established in the verified evidence packet.
 - **Exact part:** Unknown.

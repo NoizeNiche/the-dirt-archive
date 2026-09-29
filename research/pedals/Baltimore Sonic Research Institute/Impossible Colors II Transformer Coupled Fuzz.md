@@ -28,7 +28,6 @@ Impossible Colors II expands the original platform rather than simply changing t
 ## Transistor
 - BSRI describes the Impossible Colors family as using selected vintage transistors.
 - Exact transistor part numbers are **not publicly documented** in the reviewed sources.
-
 ## Diode / clipping
 - Two user-selectable clipping configurations are provided by MODE I/II.
 - Exact diode/device part numbers are not published.

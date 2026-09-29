@@ -25,7 +25,6 @@ No reliable numbered revision history was established.
 
 ## Transistor
 The checked project inventory does not establish exact transistor part numbers.
-
 ## Diode
 The checked project inventory does not establish exact diode part numbers.
 

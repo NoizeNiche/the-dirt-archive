@@ -23,9 +23,8 @@ The builder explicitly compares the transistor count with a Big Muff but does no
 The pedal belongs to Mask Audio Electronics' lower-cost MAE line. [1]
 
 ## Transistor
-- **Documented architecture:** transistor count comparable to a Big Muff, according to the builder. [1]
+- **Documented architecture:** transistor count comparable to a , according to the builder. [1]
 - **Exact production transistor/device:** Unknown.
-
 ## Diode
 - The source packet's reference to the pedal's large status LED does not establish the clipping-diode arrangement.
 - **Exact production clipping diode:** Unknown.

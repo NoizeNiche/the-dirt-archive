@@ -25,7 +25,6 @@ Barber states these are the three circuit inspirations with its own boutique mod
 
 ## Transistor
 - Exact transistor/device part numbers are **not publicly documented**.
-
 ## Diode / clipping
 - The three source circuits have different historical clipping arrangements, but the exact diode devices used by Barber are not publicly documented.
 

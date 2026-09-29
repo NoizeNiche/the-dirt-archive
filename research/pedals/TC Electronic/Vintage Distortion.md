@@ -23,7 +23,6 @@ The TC Electronic Vintage Distortion is an analog distortion pedal from the comp
 ## Transistor
 - Exact production transistor/device information was not established in the checked sources.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact clipping-device part was not established in the checked sources.
 - **Exact part:** Unknown.

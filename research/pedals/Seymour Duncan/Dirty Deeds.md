@@ -23,7 +23,6 @@ The Dirty Deeds is a distortion/overdrive designed to cover lower-gain drive thr
 ## Transistor
 - Exact production semiconductor details were not established.
 - **Exact transistor/device:** Unknown.
-
 ## Diode
 - Exact clipping/rectifier diode information was not established.
 - **Exact part:** Unknown.

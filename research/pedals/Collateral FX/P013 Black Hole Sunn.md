@@ -27,7 +27,6 @@ No formal numbered production revision history was established.
 
 ## Transistor
 No exact-model transistor complement was published.
-
 ## Diode
 No exact-model diode specification was published.
 
