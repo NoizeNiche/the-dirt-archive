@@ -4,7 +4,7 @@
   "original_builder": "Skreddy Pedals",
   "original_pedal": "Perestroika",
   "status": "VERIFIED_EVIDENCE_STAGED",
-  "independent_exact_source_count": 5,
+  "independent_exact_source_count": 6,
   "sources": [
     {
       "url": "https://skreddypedals.com/perestroika",
@@ -45,6 +45,14 @@
       "excerpt": "Perestroika Published on October 26, 2015 Skreddy Pedals fuzz pedal Information Skreddy Pedals A favorite among collectors The early green Russians have a special place among Big Muff afficionados. The Skreddy Pedals\u2122 Perestroika hearkens to the early 1990's Russian tank version fuzz which had a gritty bite to the top end, a smooth, gently scooped midrange, and a warm, but not boomy low end. Okay, it can get boomy. Depending on where you set the tone control. Has just enough gain to propel your solos and never mushy on chords. We're adding our customary midrange boost mini toggle, too, for flat mids, no scoop! There are a limited number of transistors we can make them with, but we don't foresee running out any time soon. I just couldn't handle the lack of sustain in the stock version. I had to add just a TINY bit more \"zing\" and creamy sustain so it would be useful for soloing. But I did not get rid of the characteristic bass clean blend that is a hallmark of the green/civil war Russians. Video Date \u25bc\u25b2 Maker \u25bc\u25b2 Video \u25bc\u25b2 Time \u25bc\u25b2 2017-07-21 drowninginguitars Skreddy Perestroika Fuzz Demo 2:17 2015-08-03 9520575 Skreddy Perestroika 3:25",
       "host": "www.effectsdatabase.com",
       "source_kind": "effects_database"
+    },
+    {
+      "url": "https://x.com/intent/tweet/?text=Perestroika+-+https%3A%2F%2Fskreddypedals.com%2Fperestroika",
+      "title": "",
+      "h1": "JavaScript is not available.",
+      "excerpt": "JavaScript is not available. We\u2019ve detected that JavaScript is disabled in this browser. Please enable JavaScript or switch to a supported browser to continue using x.com. You can see a list of supported browsers in our Help Center. Help Center Terms of Service Privacy Policy Cookie Policy Imprint Ads info \u00a9 2026 X Corp. Something went wrong, but don\u2019t fret \u2014 let\u2019s give it another shot. Try again Some privacy related extensions may cause issues on x.com. Please disable them and try again.",
+      "host": "x.com",
+      "source_kind": "catalog_verified"
     }
   ],
   "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
