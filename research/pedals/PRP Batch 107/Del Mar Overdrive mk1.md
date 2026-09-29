@@ -29,5 +29,10 @@ The Mk1 internally boosts the 9V supply to 18V.
 
 ## Archive photo
 - **Archive status:** **No Photo Archived**
+
+## Sound
+
+Effects Database and Bondi documentation support Del Mar mk1 as a hybrid clean/drive overdrive combining a Klon style clean path with Tube Screamer style clipping while retaining Bluesbreaker like openness. Verified controls are Output, Drive, Bass, Treble plus a compression/headroom toggle. The mk1 internally raises the 9V input to approximately 18V and documents 500k input impedance and about 20mA draw.
+
 ## Deep research verification
 Effects Database and Bondi documentation support Del Mar mk1 as a hybrid clean/drive overdrive combining a Klon-style clean path with Tube Screamer-style clipping while retaining Bluesbreaker-like openness. Verified controls are **Output, Drive, Bass, Treble** plus a compression/headroom toggle. The mk1 internally raises the 9V input to approximately 18V and documents 500k input impedance and about 20mA draw.

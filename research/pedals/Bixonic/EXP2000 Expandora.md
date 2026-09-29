@@ -20,6 +20,10 @@ The design is dynamically responsive to the instrument volume control and preser
 ## History
 BIXONIC's later EXP-2000R was a redesigned reissue with front-access drive control, increased low-frequency response, true bypass and a new chassis. The archive keeps the original EXP2000 separate from the later reissue.
 
+## Sound
+
+The cited Effects Database record supports the original BIXONIC EXP2000 Expandora as a multi gain dirt pedal with Gain, Tone, Level and internal DIP switches for Crunch, Overdrive and Distortion. The documented response interacts strongly with instrument volume and can reach fuzz like territory. The archive keeps the original EXP2000 separate from the later EXP 2000R redesign.
+
 ## Sources checked
 1. Effects Database BIXONIC EXP2000: https://www.effectsdatabase.com/model/bixonic/expandora
 2. BIXONIC historical catalog: https://www.effectsdatabase.com/model/bixonic

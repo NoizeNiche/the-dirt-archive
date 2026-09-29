@@ -135,6 +135,6 @@ Spooky Tooth — Basic Audio Contact Store About Menu Basic Audio Contact Store 
 2. Basic Audio Spooky Tooth - Reverb: https://reverb.com/p/basic-audio-spooky-tooth
 3. Basic Audio Spooky Tooth Review | Seymour Duncan Forums: https://forum.seymourduncan.com/threads/basic-audio-spooky-tooth-review.235679/
 4. NPD: Basic Audio Spooky Tooth : r/guitarpedals - Reddit: https://www.reddit.com/r/guitarpedals/comments/7d9nb8/npd_basic_audio_spooky_tooth/
-5. Spooky Tooth &mdash; Basic Audio: https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-cnzrr-ksfg5
+5. Spooky Tooth — Basic Audio: https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-cnzrr-ksfg5
 6. Basic Audio — Spooky Tooth: https://images.squarespace-cdn.com/content/v1/5da9e97016ddf940acffa2d3/1576108258790-6HS15EJ99Q1ENFTGTY8A/DSCF0160.jpg
 7. catalog/override source: https://www.effectsdatabase.com/model/basicaudio/spookytooth

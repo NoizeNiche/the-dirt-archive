@@ -28,11 +28,7 @@ Himmelstrutz Elektro Art's FETTO Apache is cataloged as a Overdrive pedal.
 
 ## Sound
 
-Himmelstrutz Elektro Art FETTO Apache Home News Amps Pedals Custom Shop Download About Contact Himmelstrutz Elektro Art FETTO Apache: X-Power Overdrive AVAILABLE ON DEMAND BACKGROUND While ‍making ‍our ‍remarkable ‍ FETTO ‍LaRocca ‍for ‍sure ‍we ‍got ‍curious: ‍how ‍can ‍this ‍thing ‍both ‍sound ‍and ‍feel ‍so ‍good?
-
-The question though in this case was: Why is FETTO LaRocca so punchy, so dynamic, so articulated, so “real” and why do not transistor/solid state solutions react/sound or feel anywhere close to tubes in about every case?
-
-‍Without ‍a ‍doubt ‍we ‍say ‍this ‍is ‍the ‍most ‍powerful, ‍punchy, ‍dynamic, ‍articulated ‍solid ‍state ‍guitar ‍overdrive ‍we ‍have yet ‍experienced – actually ‍also ‍tube ‍versions ‍included: ‍rhythmic, ‍light, ‍real!
+No verified pedal-specific sonic summary is currently established in the archive.
 
 ## Sources checked
 1. Himmelstrutz Elektro Art FETTO Apache: https://www.himmelstrutz.com/fetto-apache/

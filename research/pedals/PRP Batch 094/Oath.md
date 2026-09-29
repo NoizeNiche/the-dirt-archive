@@ -18,6 +18,10 @@ Oath is independently documented as a standalone model and as one of the two dir
 ### Component evidence
 The reviewed exact-model sources do not establish a reliable transistor or diode part list.
 
+## Sound
+
+The exact model sources support Oath as a no frills fuzz design with no external control set. Its fixed voice approach is part of the documented identity.
+
 ## Sources checked
 - Black Arts Toneworks: https://www.blackartstoneworks.com/pedal/oath/
 - Reverb model page: https://reverb.com/p/black-arts-toneworks-oath

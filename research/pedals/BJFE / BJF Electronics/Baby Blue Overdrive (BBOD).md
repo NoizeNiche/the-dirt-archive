@@ -14,6 +14,10 @@ The Dirt Archive currently catalogs **Baby Blue Overdrive (BBOD)** by **BJFE / B
 ## Catalog source
 - Catalog source page on file: https://www.bjornjuhl.com/forum/viewtopic.php-f%3D6%26t%3D1555.html
 
+## Sound
+
+BJFE Japan's current Baby Blue Overdrive 4K page identifies the original BBOD as released December 16, 2000 and retired January 25, 2007 after the NOS transistor supply became unavailable, with later small batch production when suitable transistors could be sourced. The page describes the circuit as a discrete design combining dynamic overdrive and fuzz. The One Control documentation for the BJFE designed Baby Blue OD independently records the three control layout Volume, Drive, Treble , 240K input impedance, 25K output impedance, 9V centre negative power and 1.5mA current consumption.
+
 ## Photo
 - **Archive photo:** No verified local photo is currently archived.
 - Photo provenance and validation are handled separately from this surface research record.

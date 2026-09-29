@@ -21,6 +21,11 @@ The pedal is also designed to respond directly to guitar-volume changes. The Hea
 
 ## Archive photo
 - **Archive status:** **No Photo Archived**
+
+## Sound
+
+Effects Database documents JBK 1.0 Jaw Breaker as a high current, amp like overdrive with Level, Heavy and Break controls. The design emphasizes strong low end, rich harmonics, controlled treble and direct response to guitar volume changes. Heavy changes the low frequency/chopping character while Break sets drive. 9V operation is documented.
+
 ## Deep research verification
 Effects Database documents JBK-1.0 Jaw Breaker as a high-current, amp-like overdrive with **Level, Heavy and Break** controls. The design emphasizes strong low end, rich harmonics, controlled treble and direct response to guitar-volume changes. Heavy changes the low-frequency/chopping character while Break sets drive. 9V operation is documented.
 

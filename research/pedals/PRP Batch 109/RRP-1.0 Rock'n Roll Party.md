@@ -22,6 +22,11 @@ The original RRP-1.0 predates the RRP-2.0 and is kept separately in the archive 
 
 ## Archive photo
 - **Archive status:** **No Photo Archived**
+
+## Sound
+
+Effects Database identifies RRP 1.0 Rock'n Roll Party as the original Boot Leg overdrive preceding RRP 2.0. The design is described as mellow, rich and clear with fat low end, punchy attack and touch sensitivity, while also functioning as a gain booster. The archive keeps RRP 1.0 separate from the later RRP 2.0.
+
 ## Deep research verification
 Effects Database identifies RRP-1.0 Rock'n Roll Party as the original Boot-Leg overdrive preceding RRP-2.0. The design is described as mellow, rich and clear with fat low end, punchy attack and touch sensitivity, while also functioning as a gain booster. The archive keeps RRP-1.0 separate from the later RRP-2.0.
 

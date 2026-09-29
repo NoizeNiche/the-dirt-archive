@@ -15,6 +15,11 @@
 - **Photo status:** Manufacturer product imagery is available, but no direct image file was promoted into the local archive in this batch.
 - **Research confidence:** High for identity, control layout and broad tonal category; medium for power/bypass details because the strongest available specifications were cross-checked through the Effects Database family/rebrand records; low for internal component specifics.
 - **Sources checked:** https://eleca.com/products/cod-1 ; https://eleca.com/collections/california-guitar-effects ; https://www.effectsdatabase.com/events/namm/2012
+
+## Sound
+
+The exact California (by Eleca) COD 1 Over Drive record documents Gain, Tone, Level controls. Effects Database places the model in the California/Eleca OEM family and describes a range from warm sustain through harder crunch while maintaining clarity and dynamic response. Exact semiconductor part numbers remain unknown.
+
 ## Deep research verification
 
 The exact California (by Eleca) **COD-1 Over Drive** record documents **Gain, Tone, Level** controls. Effects Database places the model in the California/Eleca OEM family and describes a range from warm sustain through harder crunch while maintaining clarity and dynamic response. Exact semiconductor part numbers remain unknown.

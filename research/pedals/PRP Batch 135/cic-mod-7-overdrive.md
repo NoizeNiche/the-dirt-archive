@@ -14,6 +14,10 @@ Effects Database documents three controls:
 ## Circuit
 No reliable circuit topology or component-level information was found in the reviewed source material, so none is asserted here.
 
+## Sound
+
+Effects Database documents the exact C.I.C. MOD 7 as an overdrive with Level, Tone, Drive controls. The reviewed source set does not establish a reliable circuit family or exact semiconductor list, so those remain unknown.
+
 ## Sources checked
 1. Effects Database: https://www.effectsdatabase.com/model/cic/mod7
 2. Effects Database overdrive index, where C.I.C MOD-7 is listed among the MOD-7 family: https://www.effectsdatabase.com/type/overdrive/pedal?page=7

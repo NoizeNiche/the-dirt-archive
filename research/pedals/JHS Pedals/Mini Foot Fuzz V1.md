@@ -33,6 +33,10 @@ The reviewed V1 page does not expose a dependable exact-current or polarity spec
 ## Deep research verification
 The official JHS Mini Foot Fuzz V1 page and discontinued catalog were checked directly. The archive keeps the model identity and documented fuzz characterization while avoiding unsupported circuit details.
 
+## Sound
+
+The official JHS Mini Foot Fuzz V1 page and discontinued catalog were checked directly. The archive keeps the model identity and documented fuzz characterization while avoiding unsupported circuit details.
+
 ## Sources checked
 1. JHS Pedals - Mini Foot Fuzz V1: https://jhspedals.info/products/mini-foot-fuzz-v2
 2. JHS Pedals - Discontinued & Rare catalog: https://jhspedals.info/collections/discontinued-rare?page=2

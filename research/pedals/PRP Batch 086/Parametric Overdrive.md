@@ -13,5 +13,9 @@ https://www.effectsdatabase.com/model/bigtone/overdrive/parametric
 ## Archive photo
 - **Archive status:** **No Photo Archived**
 
+## Sound
+
+Effects Database documents three core parameters: Gain , Timbre , and Symmetry . Timbre sets the frequency of the midrange roll off, while Symmetry blends symmetrical and asymmetrical clipping. A separate boost section has a Pre/Post switch, placing the boost before the overdrive for gain interaction or after it for added output. Source: Effects Database.
+
 ## Deep research verification
 Effects Database documents three core parameters: **Gain**, **Timbre**, and **Symmetry**. Timbre sets the frequency of the midrange roll-off, while Symmetry blends symmetrical and asymmetrical clipping. A separate boost section has a **Pre/Post** switch, placing the boost before the overdrive for gain interaction or after it for added output. Source: Effects Database.

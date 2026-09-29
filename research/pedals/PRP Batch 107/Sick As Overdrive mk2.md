@@ -28,6 +28,10 @@ Documented Mk2 examples use the familiar Level, Gain, Bass and Treble controls p
 ## Archive photo
 - **Archive status:** **No Photo Archived**
 
+## Sound
+
+2. 「Bondi Effects Sick As Overdrive MK2」レビュー！シリアル別に比較、レアなMK1やBlack Outモデルも紹介！ | 魔法の箱研究所 – エフェクターレビューサイト:
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

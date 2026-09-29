@@ -25,6 +25,10 @@ Ultraviolet is a dual-channel fuzz with an active filter stage. Effects Database
 ## History
 Effects Database dates the design to 2001 and indexes the model from 2006. OohLaLa later manufactured an associated version.
 
+## Sound
+
+Effects Database dates Ultraviolet to the 2001 Blackbox generation and indexes the model from 2006, with a later OohLaLa relationship. The documented architecture uses two parallel fuzz paths mixed before an active low pass filter. Controls include Gain, Volume, Fuzz 1, Fuzz 2, Filter , plus Boost and Bypass switching. An approximately 30 dB boost is documented.
+
 ## Sources checked
 1. Effects Database: https://www.effectsdatabase.com/model/blackbox/ultraviolet
 2. Blackbox Music Electronics catalog: https://www.effectsdatabase.com/model/blackbox

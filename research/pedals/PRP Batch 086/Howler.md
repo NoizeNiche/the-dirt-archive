@@ -13,5 +13,9 @@ https://www.effectsdatabase.com/model/bwm/howler
 ## Archive photo
 - **Archive status:** **No Photo Archived**
 
+## Sound
+
+The cited Effects Database record supports the exact Howler identity and its RAT derived lineage. Verified characteristics include 100% analog construction, hand assembly, military grade epoxy glass circuit board, steel enclosure, heavy duty switching, LED indication, true bypass, and a three way tone switch for distinct distortion palettes. Exact semiconductor part numbers are not documented in the cited record.
+
 ## Deep research verification
 The cited Effects Database record supports the exact Howler identity and its RAT-derived lineage. Verified characteristics include 100% analog construction, hand assembly, military-grade epoxy-glass circuit board, steel enclosure, heavy-duty switching, LED indication, true bypass, and a three-way tone switch for distinct distortion palettes. Exact semiconductor part numbers are not documented in the cited record.

@@ -13,6 +13,11 @@ The Heimdall-3 MKII is the stripped-down companion to the Heimdall-2, retaining 
 
 ## Archive photo
 - **Archive status:** **No Photo Archived**
+
+## Sound
+
+Blackhawk's exact product documentation identifies Heimdall 3 MKII as a stripped down companion to Heimdall 2, retaining the low tuned distortion architecture while omitting the larger model's extra clean/EQ functions. Verified controls are Bass, High Mid, Treble, Gain, Depth, Volume , plus an internal Presence trim. The gain stage uses an OP07 . A three position clipping switch selects MOSFET hard clipping, no clipping for dirty boost/drive, or LED soft clipping .
+
 ## Deep research verification
 
 Blackhawk's exact product documentation identifies Heimdall-3 MKII as a stripped-down companion to Heimdall-2, retaining the low-tuned distortion architecture while omitting the larger model's extra clean/EQ functions. Verified controls are **Bass, High Mid, Treble, Gain, Depth, Volume**, plus an internal Presence trim. The gain stage uses an **OP07**. A three-position clipping switch selects **MOSFET hard clipping, no clipping** for dirty boost/drive, or **LED soft clipping**.

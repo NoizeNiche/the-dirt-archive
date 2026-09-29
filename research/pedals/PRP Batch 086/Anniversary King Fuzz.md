@@ -12,5 +12,10 @@ https://www.bigfootengineering.com/ltd.html
 
 ## Archive photo
 - **Archive status:** **No Photo Archived**
+
+## Sound
+
+Bigfoot Engineering's limited edition catalog supports the exact Anniversary King Fuzz identity and its relationship to the King Fuzz circuit. Verified characteristics include all analog hand construction, Gain and Volume controls, selectable true bypass or buffered bypass operation, and 9VDC power without a battery option. Exact semiconductor part numbers are not stated in the cited builder source.
+
 ## Deep research verification
 Bigfoot Engineering's limited-edition catalog supports the exact Anniversary King Fuzz identity and its relationship to the King Fuzz circuit. Verified characteristics include all-analog hand construction, **Gain** and **Volume** controls, selectable true-bypass or buffered-bypass operation, and 9VDC power without a battery option. Exact semiconductor part numbers are not stated in the cited builder source.

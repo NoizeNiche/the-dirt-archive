@@ -16,6 +16,10 @@
 - **Research confidence:** High.
 - **Sources checked:** https://catalinbread.com/products/silver-kiss ; https://www.effectsdatabase.com/model/catalinbread/silverkiss
 
+## Sound
+
+Catalinbread Effects's Silver Kiss Overdrive (2007 Reissue) is cataloged as an overdrive pedal.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

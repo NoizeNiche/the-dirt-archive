@@ -16,6 +16,11 @@
 - **Sources checked:**
   - https://www.effectsdatabase.com/model/caroline/icarus
   - https://carolineguitar.com/product/icarusv2/
+
+## Sound
+
+Caroline's primary Icarus V2 page identifies the V2 as a legacy buffer/booster/rich overdrive built around Russian germanium diode character and preamp concepts from the Parabola and Meteore. Caroline's historical article establishes the version change: the original 2011 Icarus Boost was a clean, full range non inverting op amp booster; the later V2 grew from player requested Icarus modifications that added drive and volume control. The V2 page also documents an internal buffered/true bypass option and a gain/output architecture distinct from the original boost.
+
 ## Deep research verification
 
 Caroline's primary Icarus V2 page identifies the V2 as a legacy buffer/booster/rich overdrive built around Russian germanium diode character and preamp concepts from the Parabola and Meteore. Caroline's historical article establishes the version change: the original **2011 Icarus Boost** was a clean, full-range non-inverting op-amp booster; the later V2 grew from player-requested Icarus modifications that added drive and volume control. The V2 page also documents an internal buffered/true-bypass option and a gain/output architecture distinct from the original boost.

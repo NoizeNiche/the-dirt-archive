@@ -14,6 +14,11 @@
 - **Sources checked:**
   - https://reverb.com/item/3170253-cameltone-freak-scene
   - https://reverb.com/au/item/2565966-cameltone-freak-scene
+
+## Sound
+
+The exact model Reverb documentation supports Cameltone Electronics Freak Scene as a fuzz built around J. Mascis's famous " 2" Big Muff reference. The pedal's defining PAIN function switches between the splattering accidental component loss character and the more period correct Ram's Head style voice. Archived Reverb examples document a purple finish. The reviewed material does not establish an exact transistor/diode complement or complete front panel control list.
+
 ## Deep research verification
 
 The exact-model Reverb documentation supports Cameltone Electronics **Freak Scene** as a fuzz built around J. Mascis's famous "#2" Big Muff reference. The pedal's defining **PAIN** function switches between the splattering accidental-component-loss character and the more period-correct Ram's Head-style voice. Archived Reverb examples document a purple finish. The reviewed material does not establish an exact transistor/diode complement or complete front-panel control list.

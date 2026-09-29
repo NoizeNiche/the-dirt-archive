@@ -17,6 +17,10 @@
   - https://catalinbread.com/products/knight-school-overdrive
   - https://catalinbread.com/collections/knight-school-built-pedals
 
+## Sound
+
+Catalinbread Effects's Knight School Overdrive is cataloged as a distortion / overdrive pedal.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

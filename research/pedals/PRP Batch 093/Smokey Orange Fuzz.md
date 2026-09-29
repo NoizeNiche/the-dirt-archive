@@ -13,6 +13,11 @@ A one-off prototype that led directly to the Arctic White Fuzz. The BJFE referen
 
 ## Archive photo
 - **Archive status:** **No Photo Archived**
+
+## Sound
+
+Björn Juhl's historical reference identifies Smokey Orange Fuzz as a one off prototype derived from the Snow White Fuzz. The prototype became the schema used for later Arctic White Fuzz production, making it an important documented step in that BJFE fuzz lineage. Exact controls and semiconductor part numbers for the prototype remain unknown.
+
 ## Deep research verification
 
 Björn Juhl's historical reference identifies Smokey Orange Fuzz as a **one-off prototype** derived from the Snow White Fuzz. The prototype became the schema used for later Arctic White Fuzz production, making it an important documented step in that BJFE fuzz lineage. Exact controls and semiconductor part numbers for the prototype remain unknown.

@@ -26,7 +26,8 @@ DigiTech's Hot Head Distortion is cataloged as a Distortion pedal.
 - **Exact part:** Unknown.
 
 ## Sound
-Hot Head Distortion Review | DigiTech | Guitar Effects | Reviews @ Ultimate-Guitar.Com
+
+2. Hot Head Distortion Review | DigiTech | Guitar Effects | Reviews @ Ultimate Guitar.Com:
 
 ## Sources checked
 1. DigiTech Hot Head Distortion - What To Know Where To Buy: https://equipboard.com/items/digitech-hot-head-distortion

@@ -19,5 +19,10 @@ Blunderbuss Musket is the alternate Musket-derived version that became the basis
 
 ## Archive photo
 - **Archive status:** **No Photo Archived**
+
+## Sound
+
+The exact record distinguishes Blunderbuss Musket from the standard Musket V3: it is an alternate Musket derived four stage fuzz foundation that became the basis for the standalone Blunderbuss and later Special Twosome variants. Its documented design moves toward a louder, more open character while retaining the heavy Musket family architecture.
+
 ## Deep research verification
 The exact record distinguishes Blunderbuss Musket from the standard Musket V3: it is an alternate Musket-derived four-stage fuzz foundation that became the basis for the standalone Blunderbuss and later Special Twosome variants. Its documented design moves toward a louder, more open character while retaining the heavy Musket family architecture.

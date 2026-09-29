@@ -54,7 +54,7 @@ Dimensions: 6.75” x 3.5” x 2” Weight: 1.5 lbs download manual 0xEAE Boost 
 The 0xEAE Boost is the first entry in a new pedal series developed in conjunction with the design collective Obstructures .
 
 ### Sources checked in this pass
-1. 0xEAE Boost Archive &mdash; Electronic Audio Experiments: https://www.electronicaudioexperiments.com/legacy/0xeae-boost
+1. 0xEAE Boost Archive — Electronic Audio Experiments: https://www.electronicaudioexperiments.com/legacy/0xeae-boost
 2. Electronic Audio Experiments 0xEAE Boost Pedal | Equipboard: https://equipboard.com/items/electronic-audio-experiments-0xeae-boost
 3. Electronic Audio Experiments 0xEAE Boost - Reverb: https://reverb.com/item/59793711-electronic-audio-experiments-0xeae-boost
 4. Electronic Audio Experiments 0xEAE Boost | Delicious Audio: https://delicious-audio.com/electronic-audio-experiments-0xeae-boost/

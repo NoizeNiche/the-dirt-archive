@@ -25,5 +25,10 @@ The documented control set is Volume, Tone and Gain plus a mini toggle selecting
 
 ## Archive photo
 - **Archive status:** **No Photo Archived**
+
+## Sound
+
+The exact AH 1 record documents a compact Allen Hinds signature distortion derived from Bob Burt's GR8T Distortion. Verified controls are Volume, Tone, Gain , plus a two position structure switch and an internal gain/attack trim. The two structures represent Hinds' preferred options from the larger GR8T palette, with one more open/dynamic and the other more compressed/saturated. The design uses a single gain stage and is hand built/individually tuned.
+
 ## Deep research verification
 The exact AH-1 record documents a compact Allen Hinds signature distortion derived from Bob Burt's GR8T Distortion. Verified controls are **Volume, Tone, Gain**, plus a two-position structure switch and an internal gain/attack trim. The two structures represent Hinds' preferred options from the larger GR8T palette, with one more open/dynamic and the other more compressed/saturated. The design uses a single gain stage and is hand-built/individually tuned.

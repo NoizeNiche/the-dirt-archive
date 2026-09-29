@@ -17,6 +17,10 @@
   - https://carolineguitar.com/product/wavecannonzero/
   - https://www.effectsdatabase.com/model/caroline/wavecannon/zero
 
+## Sound
+
+Caroline Guitar Company's Wave Cannon Zero is cataloged as a distortion / fuzz / overdrive pedal.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

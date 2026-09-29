@@ -12,6 +12,11 @@ LSTR is the heavier counterpart to the Pharaoh, built around the same general Bi
 
 ## Archive photo
 - **Archive status:** **No Photo Archived**
+
+## Sound
+
+The exact Black Arts Toneworks page identifies LSTR as the heavier counterpart to Pharaoh, using the same general Big Muff family while adding more low end and a more aggressive fuzz character. Its tone controls can move between a traditional Muff style scoop and a more open Pharaoh like response. Black Arts lists LSTR as out of production. Exact transistor and diode part numbers are not established in the reviewed source.
+
 ## Deep research verification
 
 The exact Black Arts Toneworks page identifies LSTR as the heavier counterpart to Pharaoh, using the same general Big Muff family while adding more low end and a more aggressive fuzz character. Its tone controls can move between a traditional Muff-style scoop and a more open Pharaoh-like response. Black Arts lists LSTR as out of production. Exact transistor and diode part numbers are not established in the reviewed source.

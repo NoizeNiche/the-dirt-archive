@@ -12,6 +12,11 @@ The Green / Black Russian Pi π Fuzz is Blackhawk's take on the Russian-era Big 
 
 ## Archive photo
 - **Archive status:** **No Photo Archived**
+
+## Sound
+
+Blackhawk's exact product documentation identifies Green / Black Russian Pi as a Russian Big Muff family design offered in separate Green Russian and Black Russian versions. The Green version emphasizes extended low end and a more distortion like response; the Black version provides substantially more gain. The documented controls are Gain, Volume, Tone and Mid , with selected transistors used for individual stages and a design intended for guitar, bass and baritone use.
+
 ## Deep research verification
 
 Blackhawk's exact product documentation identifies Green / Black Russian Pi as a Russian Big Muff-family design offered in separate Green Russian and Black Russian versions. The Green version emphasizes extended low end and a more distortion-like response; the Black version provides substantially more gain. The documented controls are **Gain, Volume, Tone and Mid**, with selected transistors used for individual stages and a design intended for guitar, bass and baritone use.

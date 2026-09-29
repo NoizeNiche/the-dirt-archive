@@ -17,7 +17,8 @@ Pete Cornish lists GC-1 as **High Gain Crunch with bass, mid and treble active t
 The official catalog does not publish a component-level schematic or semiconductor list for GC-1. It is retained as a standalone analog dirt product.
 
 ## Sound
-GC-1 is positioned as a higher-gain crunch design with active three-band tone shaping.
+
+Pete Cornish Grey and Deluxe series pages were checked directly. The model is documented as a discrete standalone high gain crunch/dirt pedal with active three band tone shaping.
 
 ## Research confidence
 - **Identity:** High.

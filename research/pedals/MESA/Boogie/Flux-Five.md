@@ -70,6 +70,6 @@ MESA/Boogie FLUX-FIVE Overdrive Effects Pedal Black - No distinct factory revisi
 2. Mesa/Boogie Flux-Five — Overdrive Pedal | Equipboard: https://equipboard.com/items/mesa-boogie-flux-five-overdrive-with-5-band-eq
 3. Flux-Five™ - MESA/Boogie®: https://legacy.mesaboogie.com/pedals--related/drive-pedals/flux-five.html
 4. MESA/Boogie FLUX-FIVE Overdrive Effects Pedal Black | Guitar Center: https://www.guitarcenter.com/Mesa-Boogie/FLUX-FIVE-Overdrive-Effects-Pedal-Black-1500000347402.gc
-5. Review: Mesa/Boogie Five-Band Graphic, Flux-Five and Throttle Box EQ Pedals &mdash;Video | Guitar World: https://www.guitarworld.com/magazine/review-mesaboogie-five-band-graphic-flux-five-and-throttle
+5. Review: Mesa/Boogie Five-Band Graphic, Flux-Five and Throttle Box EQ Pedals —Video | Guitar World: https://www.guitarworld.com/magazine/review-mesaboogie-five-band-graphic-flux-five-and-throttle
 6. Mesa Boogie Flux-Five | ToneFoo: https://tonefoo.com/pedals/mesa-boogie/flux-five
 7. Flux Five | MESA/Boogie®: https://subway.mesaboogie.com/pedals--related/drive-pedals/flux-five.html

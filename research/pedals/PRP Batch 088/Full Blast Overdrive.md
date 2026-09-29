@@ -12,5 +12,10 @@ https://bignoiseamplification.com/distortion/
 
 ## Archive photo
 - **Archive status:** **No Photo Archived**
+
+## Sound
+
+The cited BigNoise Amplification documentation supports the exact Full Blast Overdrive identity and describes a stomp box implementation of three tube stages with adjustable gain stages and a treble/bass tone stack. The available source does not publish a complete front panel control list or component bill, so those details remain unresolved.
+
 ## Deep research verification
 The cited BigNoise Amplification documentation supports the exact Full Blast Overdrive identity and describes a stomp-box implementation of **three tube stages** with adjustable gain stages and a treble/bass tone stack. The available source does not publish a complete front-panel control list or component bill, so those details remain unresolved.

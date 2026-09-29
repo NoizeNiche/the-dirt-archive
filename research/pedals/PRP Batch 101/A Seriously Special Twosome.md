@@ -21,6 +21,11 @@ A Seriously Special Twosome is a limited-edition dual-fuzz collaboration/run bui
 
 ## Archive photo
 - **Archive status:** **No Photo Archived**
+
+## Sound
+
+The exact BlackOutEffectors record documents A Seriously Special Twosome as a limited dual fuzz run pairing Fix'd Fuzz Deluxe with Blunderbuss . The two sides can be used independently or stacked, and their order can be switched. The run was associated with ProGuitarShop and uses 9V operation with true bypass. The archive keeps this special run distinct from ordinary Twosome and Special Twosome models.
+
 ## Deep research verification
 
 The exact BlackOutEffectors record documents A Seriously Special Twosome as a limited dual-fuzz run pairing **Fix'd Fuzz Deluxe** with **Blunderbuss**. The two sides can be used independently or stacked, and their order can be switched. The run was associated with ProGuitarShop and uses 9V operation with true bypass. The archive keeps this special run distinct from ordinary Twosome and Special Twosome models.

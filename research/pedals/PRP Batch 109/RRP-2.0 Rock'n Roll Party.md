@@ -25,6 +25,10 @@ The model uses a germanium-oriented internal design and remains a compact three-
 ## Archive photo
 - **Archive status:** **No Photo Archived**
 
+## Sound
+
+Boot Leg Hand Made Effects's RRP 2.0 Rock'n Roll Party is cataloged as a distortion / overdrive pedal.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

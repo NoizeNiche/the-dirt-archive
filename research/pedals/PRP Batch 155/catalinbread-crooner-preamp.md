@@ -16,6 +16,10 @@
 - **Sources checked:**
   - https://catalinbread.com/products/crooner-preamp
 
+## Sound
+
+Catalinbread Effects's Crooner Preamp is cataloged as a distortion / fuzz / overdrive pedal.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

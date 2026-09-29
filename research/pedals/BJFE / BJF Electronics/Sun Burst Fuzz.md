@@ -14,6 +14,10 @@ The Dirt Archive currently catalogs **Sun Burst Fuzz** by **BJFE / BJF Electroni
 ## Catalog source
 - Catalog source page on file: https://www.bjornjuhl.com/forum/viewtopic.php-f%3D6%26t%3D1555.html
 
+## Sound
+
+The BJFE historical registry confirms Sun Burst Fuzz as a distinct BJFE fuzz identity. The available historical material does not establish a complete control layout, production revision map, or exact transistor/diode complement, so those details remain unresolved rather than being borrowed from another BJFE fuzz.
+
 ## Photo
 - **Archive photo:** No verified local photo is currently archived.
 - Photo provenance and validation are handled separately from this surface research record.

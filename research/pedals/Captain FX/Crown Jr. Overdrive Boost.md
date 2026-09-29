@@ -44,6 +44,10 @@ The archive does not add a more specific tonal description beyond those model-sp
 ## Deep research verification
 This pass adds exact-model evidence from the surviving Captain FX storefront and uses Analog Man's official King of Tone documentation only to corroborate the stated circuit-family context. Earlier archive research is retained, and undocumented hardware details remain explicitly unknown.
 
+## Sound
+
+This pass adds exact model evidence from the surviving Captain FX storefront and uses Analog Man's official King of Tone documentation only to corroborate the stated circuit family context. Earlier archive research is retained, and undocumented hardware details remain explicitly unknown.
+
 ## Sources checked
 1. Captain FX - Crown Jr. Overdrive / Boost: https://captainfx.bigcartel.com/product/captain-fx-crown-jr-upgraded-single-channel-analogman-king-of-tone
 2. Analog Man - King Of Tone: https://analogman.com/kingtone.htm

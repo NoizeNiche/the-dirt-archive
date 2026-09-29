@@ -14,6 +14,10 @@ The Dirt Archive currently catalogs **Folk Fuzz 3.5%** by **BJFE / BJF Electroni
 ## Catalog source
 - Catalog source page on file: https://www.bjornjuhl.com/forum/viewtopic.php-f%3D6%26t%3D1555.html
 
+## Sound
+
+BJFE's own historical reference identifies Folk Fuzz 3.5% (FF DLX) as the Deluxe version of the Folk Fuzz DIY project, with more gain/fuzz than the standard Folk Fuzz. It explains that BJFE originally designed Folk Fuzz as a vintage fuzz project for DIY builders, and that a small number were later built and sold by BJFE in Donner painted boxes. The reference also documents the 2008 Folk Fuzz Kit and the 2009 Round II kit.
+
 ## Photo
 - **Archive photo:** No verified local photo is currently archived.
 - Photo provenance and validation are handled separately from this surface research record.

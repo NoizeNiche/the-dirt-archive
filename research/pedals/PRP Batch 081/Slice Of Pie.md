@@ -34,6 +34,10 @@ For that reason this record is retained as an archive/catalog identity row only 
 ## Deep research verification
 The current Big Ear product documentation and contemporary coverage consistently identify Slice Of Pie with the BIG EAR pedals brand and Tone Mob collaboration. No independent Big Ear n.y.c. production variant was found in the checked sources.
 
+## Sound
+
+The current Big Ear product documentation and contemporary coverage consistently identify Slice Of Pie with the BIG EAR pedals brand and Tone Mob collaboration. No independent Big Ear n.y.c. production variant was found in the checked sources.
+
 ## Sources checked
 1. BIG EAR pedals - Slice of Pie: https://www.bigearpedals.com/product-page/slice-of-pie-b-stock
 2. BIG EAR pedals - Slice of Pie article: https://www.bigearpedals.com/post/big-ear-pedals-slice-of-pie-in-the-new-spinal-tap-movie

@@ -22,5 +22,10 @@ Fix'd Fuzz Deluxe expands the original Fix'd Fuzz with more external control. Ef
 
 ## Archive photo
 - **Archive status:** **No Photo Archived**
+
+## Sound
+
+The exact Deluxe record documents an expanded Fix'd Fuzz with more external control over the multiple stages. The architecture combines two contrasting fuzz voices, a full range boost/overdrive section and broad tone shaping. The Deluxe generation became the control platform used in later Twosome special runs.
+
 ## Deep research verification
 The exact Deluxe record documents an expanded Fix'd Fuzz with more external control over the multiple stages. The architecture combines two contrasting fuzz voices, a full-range boost/overdrive section and broad tone shaping. The Deluxe generation became the control platform used in later Twosome special runs.

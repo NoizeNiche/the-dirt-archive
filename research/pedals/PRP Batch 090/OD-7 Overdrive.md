@@ -13,5 +13,10 @@ https://theguitaraddict.blogspot.com/2008/03/biyang-od-7.html
 
 ## Archive photo
 - **Archive status:** **No Photo Archived**
+
+## Sound
+
+The cited Audiofanzine and contemporary review sources support Biyang OD 7 as a Tonefancier analog overdrive with TS, BRIGHT, WARM voicings. The documented response ranges from light breakup and boost like use to fuller blues/rock drive. Period coverage identifies a JRC4558 family audio chip in its signal path. Exact production revision and transistor/diode data remain unresolved.
+
 ## Deep research verification
 The cited Audiofanzine and contemporary review sources support Biyang OD-7 as a Tonefancier analog overdrive with **TS, BRIGHT, WARM** voicings. The documented response ranges from light breakup and boost-like use to fuller blues/rock drive. Period coverage identifies a JRC4558-family audio chip in its signal path. Exact production revision and transistor/diode data remain unresolved.

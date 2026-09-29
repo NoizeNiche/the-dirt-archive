@@ -11,6 +11,10 @@ Tonestack Fuzz is preserved as a distinct BAE fuzz product in Effects Database a
 ## Controls / circuit
 Exact control labeling, semiconductor complement and revision history are not safely reconstructed here.
 
+## Sound
+
+Effects Database records the BAE Audio Tonestack Fuzz announcement for NAMM 2018. The pedal combines a silicon fuzz circuit based on a classic 1970s fuzz with a separate three band EQ section , each with its own true bypass stomp switch.
+
 ## Sources checked
 1. Effects Database BAE Audio catalog / fuzz listings: https://www.effectsdatabase.com/model/bae
 2. BAE Audio: https://www.baeaudio.com/

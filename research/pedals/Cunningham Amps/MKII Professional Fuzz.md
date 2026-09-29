@@ -27,7 +27,8 @@ Cunningham Amps's MKII Professional Fuzz is cataloged as a Fuzz pedal.
 - **Exact part:** Unknown.
 
 ## Sound
-Guitar Pedals Jul 26 Written By Edge of Breakup .
+
+3. The Perfect Tone Bender! | Cunningham Amps MKII Professional Fuzz (OC76 Germanium) — Edge of Breakup:
 
 ## Sources checked
 1. MKII Professional Fuzz - Custom Order | Cunningham Amps: https://www.cunninghamamps.co.nz/product-page/mkii-professional-fuzz-custom-order

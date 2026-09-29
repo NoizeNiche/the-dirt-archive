@@ -28,9 +28,7 @@ Well, there is a variant of the KUDU called the Greater K - **Archive parent:** 
 
 ## Sound
 
-
-
-KUDU is the drive enhancer you never knew you needed.
+Well, there is a variant of the KUDU called the Greater K Archive parent: The KUDU — Overdrive Builder: ThorpyFX Catalog type: Distortion / Fuzz / Overdrive Identity: ThorpyFX's The KUDU — Overdrive.
 
 ## Sources checked
 1. The KUDU | Overdrive: https://thorpyfx.com/en-us/products/the-kudu

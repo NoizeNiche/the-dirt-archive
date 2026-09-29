@@ -36,6 +36,10 @@ Centurio is a distinct model from Cornerstone's Colosseum and Imperium. Do not s
 - Cornerstone official Centurio video: https://www.youtube.com/watch?v=QGu7icrfbYs
 - Ishibashi exact-model retailer listing: https://store.ishibashi.co.jp/view/item/000000153730
 
+## Sound
+
+2. 【新製品】 Cornerstone Music Gear / Centurio Overdrive オーバードライブ コーナーストーン・ミュージック・ギア 【御茶ノ水本店】 | オーバードライブ | イシバシ楽器:
+
 ## Sources checked
 1. Cornerstone Music Gear
 2. Cornerstone Music Gear - Centurio official video

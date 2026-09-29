@@ -12,5 +12,10 @@ https://www.bigfootengineering.com/store/p118/Bigfoot_Germanium_EQ_Drive.html
 
 ## Archive photo
 - **Archive status:** **No Photo Archived**
+
+## Sound
+
+The cited Bigfoot Engineering product page documents a hybrid amplifier style overdrive with a JFET input circuit , studio quality transformer, gold pin germanium transistor, and three band EQ. Verified controls are Bass, Middle, Treble, Volume , with no separate Gain control. The builder describes strong dependence on playing dynamics and guitar controls and specifies 9VDC, no battery, and true bypass. Exact transistor and transformer part numbers are not stated in the cited product page.
+
 ## Deep research verification
 The cited Bigfoot Engineering product page documents a hybrid amplifier-style overdrive with a **JFET input circuit**, studio-quality transformer, gold-pin germanium transistor, and three-band EQ. Verified controls are **Bass, Middle, Treble, Volume**, with no separate Gain control. The builder describes strong dependence on playing dynamics and guitar controls and specifies 9VDC, no battery, and true bypass. Exact transistor and transformer part numbers are not stated in the cited product page.

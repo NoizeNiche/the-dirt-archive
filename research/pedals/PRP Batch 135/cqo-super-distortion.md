@@ -11,6 +11,10 @@ Effects Database lists the pedal as a **3-knob** Super Distortion and places it 
 ## Circuit
 The reviewed source does not provide enough direct evidence to assign a specific circuit or component list to the C.Q.O. unit, so no such claim is made.
 
+## Sound
+
+Effects Database documents the exact C.Q.O. Super Distortion as a three knob Japanese market distortion in the wider Super Distortion family, alongside related Coron DC 809 era variants. The source does not establish a C.Q.O. specific schematic or component list, so those remain unresolved.
+
 ## Sources checked
 1. Effects Database: https://www.effectsdatabase.com/model/cqo/superdistortion
 

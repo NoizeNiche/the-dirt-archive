@@ -111,4 +111,4 @@ Supa — Basic Audio Contact Store About Menu Basic Audio Contact Store About Pe
 **Primary reference:** Marshall Supa Fuzz.
 
 ### Sources checked in this pass
-1. Supa &mdash; Basic Audio: https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-cnzrr-ksfg5-kba26-5yxez-twy6r-snkj6-rafma-ypp3x-8hx4s
+1. Supa — Basic Audio: https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9-97e3s-cnzrr-ksfg5-kba26-5yxez-twy6r-snkj6-rafma-ypp3x-8hx4s

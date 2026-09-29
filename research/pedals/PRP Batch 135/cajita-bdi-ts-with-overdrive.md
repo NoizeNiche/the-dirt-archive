@@ -30,6 +30,10 @@ The BDI preamp section has:
 - 48V phantom power through XLR
 - Metal enclosure
 
+## Sound
+
+Cajita's product documentation identifies Bdi.ts as a bass preamp with an independent TS style distortion section modified for bass. The distortion can operate as booster, overdrive or heavier distortion, with Gain, Tone, Vol controls. The BDI preamp adds Hi, Low, Presencia, Mid, Drive, Blend and Vol. It has mono input, mono and XLR outputs, 9V battery/transformer power and 48V phantom power via XLR.
+
 ## Sources checked
 1. Cajita Stompboxes product page: https://pedalescajita.mitiendanube.com/productos/bdi-ts-preamplificador-bajo-con-overdrive/
 2. MercadoLibre listing reproducing Cajita's specifications: https://www.mercadolibre.com.ar/bdits--preamp-de-bajo--distorsion--cajita-stompboxes-/up/MLAU299492703

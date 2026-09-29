@@ -21,6 +21,11 @@ The available surviving source material does not establish a complete authoritat
 
 ## Archive photo
 - **Archive status:** **No Photo Archived**
+
+## Sound
+
+The surviving exact product evidence identifies Tube Shooter as a Bootlegger Guitar Tube Screamer clone . A 2018 Reverb listing paired a Tube Shooter with a Bootlegger hand wired Vox AC15 style amplifier and explicitly identifies the Tube Shooter as a Tube Screamer clone. Effects Database's October 17, 2016 weekly overview independently lists Bootlegger Guitar Tube Shooter Overdrive , establishing the named pedal in the builder's catalog by that date.
+
 ## Deep research verification
 
 The surviving exact-product evidence identifies Tube Shooter as a **Bootlegger Guitar Tube Screamer clone**. A 2018 Reverb listing paired a Tube Shooter with a Bootlegger hand-wired Vox AC15-style amplifier and explicitly identifies the Tube Shooter as a Tube Screamer clone. Effects Database's October 17, 2016 weekly overview independently lists **Bootlegger Guitar Tube Shooter Overdrive**, establishing the named pedal in the builder's catalog by that date.

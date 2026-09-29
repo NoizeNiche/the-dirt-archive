@@ -13,6 +13,11 @@ The Gandalf Fuzz is a compact one-knob octave fuzz. Blackhawk describes an op-am
 
 ## Archive photo
 - **Archive status:** **No Photo Archived**
+
+## Sound
+
+The cited Blackhawk sources document Gandalf as a compact one knob octave fuzz . The circuit uses an op amp driving a transformer and germanium diodes to generate an octave up/ring mod character, while the external control is volume. The V2 design adds internal octave blend and tone trims.
+
 ## Deep research verification
 
 The cited Blackhawk sources document Gandalf as a compact **one-knob octave fuzz**. The circuit uses an op-amp driving a transformer and germanium diodes to generate an octave-up/ring-mod character, while the external control is volume. The V2 design adds internal octave-blend and tone trims.

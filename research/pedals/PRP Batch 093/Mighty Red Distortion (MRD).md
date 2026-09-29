@@ -13,5 +13,10 @@ A rare BJFE distortion design whose second prototype became the circuit used for
 
 ## Archive photo
 - **Archive status:** **No Photo Archived**
+
+## Sound
+
+BJFE's current product documentation identifies Mighty Red Distortion as a compressed, high gain 1980s style distortion. The design uses a rare NPN transistor preamp and a distinctive feedback arrangement; controls are Vol, Treble, Dist and the pedal operates from 9V. BJFE documents maximum gain around 62dB, current consumption around 10.6mA, and a signal to noise ratio around 96dB.
+
 ## Deep research verification
 BJFE's current product documentation identifies Mighty Red Distortion as a compressed, high-gain 1980s-style distortion. The design uses a rare NPN transistor preamp and a distinctive feedback arrangement; controls are **Vol, Treble, Dist** and the pedal operates from 9V. BJFE documents maximum gain around 62dB, current consumption around 10.6mA, and a signal-to-noise ratio around 96dB.

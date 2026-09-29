@@ -12,6 +12,11 @@ FNORD is an octaver/fuzz circuit that blends a Scrambler/octaver-style fuzz with
 
 ## Archive photo
 - **Archive status:** **No Photo Archived**
+
+## Sound
+
+The exact Black Arts Toneworks model page identifies FNORD as an octaver/fuzz design combining a Scrambler/octaver style fuzz stage with a more conventional fuzz/distortion stage. The documented sound range includes zipper/Velcro like textures, full throated distortion and lightly gated distortion. Exact control labeling and semiconductor part numbers are not established in the reviewed source.
+
 ## Deep research verification
 
 The exact Black Arts Toneworks model page identifies FNORD as an octaver/fuzz design combining a Scrambler/octaver-style fuzz stage with a more conventional fuzz/distortion stage. The documented sound range includes zipper/Velcro-like textures, full-throated distortion and lightly gated distortion. Exact control labeling and semiconductor part numbers are not established in the reviewed source.

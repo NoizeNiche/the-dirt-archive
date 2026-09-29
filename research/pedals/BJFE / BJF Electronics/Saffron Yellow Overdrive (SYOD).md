@@ -14,6 +14,11 @@ The Dirt Archive currently catalogs **Saffron Yellow Overdrive (SYOD)** by **BJF
 ## Catalog source
 - Catalog source page on file: https://www.bjornjuhl.com/forum/viewtopic.php-f%3D6%26t%3D1555.html
 
+## Sound
+
+BJFE's current Saffron Yellow OD page documents a dynamic, balanced rock overdrive with clear, bright response and enough thickness to retain body. Verified controls are Volume, Drive and Treble . It runs from a 9V 6F22 battery or standard 2.1mm centre negative 9VDC adapter.
+The BJFE historical reference identifies Saffron Yellow OD within Björn Juhl's original overdrive family and separately records a later Saffron Yellow OD 2. The archive keeps those identities distinct.
+
 ## Photo
 - **Archive photo:** No verified local photo is currently archived.
 - Photo provenance and validation are handled separately from this surface research record.

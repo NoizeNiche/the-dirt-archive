@@ -12,5 +12,10 @@ https://www.bigfootengineering.com/store/p149/king-fuzz-mini.html
 
 ## Archive photo
 - **Archive status:** **No Photo Archived**
+
+## Sound
+
+The cited Bigfoot Engineering product page identifies King Fuzz Mini as a miniaturized King Fuzz with the same circuit and tones as the standard model but without the internal battery. Verified controls are Fuzz Gain and Fuzz Volume ; there are no EQ controls. It uses 2.1mm centre negative 9VDC, true bypass, and all analogue hand construction in England.
+
 ## Deep research verification
 The cited Bigfoot Engineering product page identifies King Fuzz Mini as a miniaturized King Fuzz with the same circuit and tones as the standard model but without the internal battery. Verified controls are **Fuzz Gain** and **Fuzz Volume**; there are no EQ controls. It uses 2.1mm centre-negative 9VDC, true bypass, and all-analogue hand construction in England.

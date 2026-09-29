@@ -15,6 +15,10 @@ The exact-model sources confirm BAT as a high-gain distortion/overdrive with a v
 ### Component evidence
 The admitted exact-model material establishes an LED indicator but does not establish the active-device or clipping-device part numbers. Those remain unknown.
 
+## Sound
+
+The exact model sources confirm BAT as a high gain distortion/overdrive with a very broad gain range and guitar control sensitivity. The model is documented as both a driver/boost and a standalone dirt device.
+
 ## Sources checked
 - Black Arts Toneworks: https://www.blackartstoneworks.com/pedal/bat/
 - LEP International: https://lep-international.jp/products/black-arts-toneworks-bat

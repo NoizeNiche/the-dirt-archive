@@ -15,6 +15,11 @@
 - **Research confidence:** Medium.
 - **Sources checked:**
   - https://reverb.com/item/66837475-carvin-ud-1-ultra-distortion
+
+## Sound
+
+The surviving exact model Reverb documentation confirms the Carvin UD 1 Ultra Distortion as a high gain distortion with LEVEL, COLOR, DISTORTION controls. The seller's description of one modified unit characterizes its original sound as very compressed and splatty at high gain, but that is explicitly treated as a single unit observation rather than universal factory behavior. Exact circuit topology, transistor/diode part numbers, and factory power specification remain unresolved.
+
 ## Deep research verification
 
 The surviving exact-model Reverb documentation confirms the **Carvin UD-1 Ultra Distortion** as a high-gain distortion with **LEVEL, COLOR, DISTORTION** controls. The seller's description of one modified unit characterizes its original sound as very compressed and splatty at high gain, but that is explicitly treated as a single-unit observation rather than universal factory behavior. Exact circuit topology, transistor/diode part numbers, and factory power specification remain unresolved.

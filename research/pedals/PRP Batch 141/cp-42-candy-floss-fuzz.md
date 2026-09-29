@@ -17,6 +17,10 @@
 - **Research confidence:** High for controls and Fuzz Face influence; low for internal component types.
 - **Sources checked:** https://www.effectsdatabase.com/model/caline/cpxx/candyfloss
 
+## Sound
+
+1. Caline CP 42 Candy Floss Fuzz Guitar Effect Pedal Aluminum Alloy With True Bypass Guitar Parts – Alexnld.com:
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

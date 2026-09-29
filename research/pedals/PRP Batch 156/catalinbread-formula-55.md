@@ -20,6 +20,10 @@
   - https://www.sweetwater.com/store/detail/FormNo55--catalinbread-formula-no-55-tweed-deluxe-style-overdrive-pedal
   - https://www.effectsdatabase.com/model/catalinbread/formula55
 
+## Sound
+
+1. Catalinbread Formula 55 Tweed Deluxe style Overdrive Effects Pedal Black and Silver | Guitar Center:
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

@@ -112,5 +112,5 @@ The low-end selector changes how much bass reaches the circuit, while Bias and G
 ### Sources checked in this pass
 1. catalog/override source: https://coastsonic.com/collections/basic-audio/products/basic-audio-pirk-fuzz
 2. catalog/override source: https://reverb.com/item/55114779-basic-audio-pirk-fuzz-pedal
-3. Pirk &mdash; Basic Audio: https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9
+3. Pirk — Basic Audio: https://www.basicaudio.net/store-1/5einpey75gjgckjedkvplbfsb3vnya-y3hb9
 4. catalog/override source: https://images.squarespace-cdn.com/content/v1/5da9e97016ddf940acffa2d/1574292054623-XUHJAD1DVXR2AJRM6DT7/DSCF3861-Edit.jpg

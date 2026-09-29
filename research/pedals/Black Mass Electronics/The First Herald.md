@@ -22,6 +22,10 @@ The surviving source set references **V2 / MKII / V3** forms of The First Herald
 ### Component evidence
 Exact production transistor/device part numbers are not established in the reviewed exact-model sources. An LED is documented as part of the pedal hardware.
 
+## Sound
+
+The builder's exact model documentation confirms a conventional Tone control that moves from more bass/less treble counter clockwise toward less bass/more treble clockwise. At the lowest setting, the pedal produces a full, present fuzz; increasing the control introduces the builder's characteristic midrange scoop.
+
 ## Sources checked
 - Black Mass Electronics: https://blackmasselectronics.com/products/the-first-herald
 - Delicious Audio: https://delicious-audio.com/black-mass-electronics-the-first-herald/

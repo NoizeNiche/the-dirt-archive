@@ -21,5 +21,10 @@ The Special Twosome Deluxe is the later limited-run Twosome design that combines
 
 ## Archive photo
 - **Archive status:** **No Photo Archived**
+
+## Sound
+
+Effects Database documents Special Twosome Deluxe as a limited run Twosome generation combining Fix'd Fuzz Deluxe with either Musket Fuzz or Blunderbuss . A third footswitch lets the player change stacking order from the floor, while a color changing LED indicates which circuit is first. Both Musket and Blunderbuss versions are documented. 9V operation is part of the documented platform.
+
 ## Deep research verification
 Effects Database documents Special Twosome Deluxe as a limited-run Twosome generation combining **Fix'd Fuzz Deluxe** with either **Musket Fuzz or Blunderbuss**. A third footswitch lets the player change stacking order from the floor, while a color-changing LED indicates which circuit is first. Both Musket and Blunderbuss versions are documented. 9V operation is part of the documented platform.

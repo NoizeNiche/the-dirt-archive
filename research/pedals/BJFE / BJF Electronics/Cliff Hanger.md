@@ -14,6 +14,11 @@ The Dirt Archive currently catalogs **Cliff Hanger** by **BJFE / BJF Electronics
 ## Catalog source
 - Catalog source page on file: https://www.bjornjuhl.com/forum/viewtopic.php-f%3D6%26t%3D1555.html
 
+## Sound
+
+BJFE's historical reference lists Cliff Hanger (CH) as a distinct distortion pedal and records the lineage Cliff Hanger → Cliff Hanger II → Mad Professor Stone Grey Distortion . The same reference distinguishes later Custom Shop Cliff Hanger units from the standard historical identity.
+Current BJFE documentation separately defines Cliff Hanger II as the later high gain revision with Volume, Dist. and Tone controls. Those II version specifications are not copied onto the original Cliff Hanger record.
+
 ## Photo
 - **Archive photo:** No verified local photo is currently archived.
 - Photo provenance and validation are handled separately from this surface research record.

@@ -14,6 +14,10 @@ The Dirt Archive currently catalogs **Snow White Fuzz** by **BJFE / BJF Electron
 ## Catalog source
 - Catalog source page on file: https://www.bjornjuhl.com/forum/viewtopic.php-f%3D6%26t%3D1555.html
 
+## Sound
+
+BJFE's current historical/product documentation establishes the naming lineage Snow White Fuzz → Arctic White Fuzz → Fjallin White Fuzz . BJFE's own forum notes that the Snow White name was later changed to Arctic White because of a naming conflict. The current Fjallin White page describes Fjallin as a later performance upgrade to the Arctic/Snow White design, with two transistors balanced for higher overall gain and improved gain balance.
+
 ## Photo
 - **Archive photo:** No verified local photo is currently archived.
 - Photo provenance and validation are handled separately from this surface research record.

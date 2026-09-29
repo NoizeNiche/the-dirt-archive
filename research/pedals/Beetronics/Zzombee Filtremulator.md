@@ -47,6 +47,10 @@ Zzombee is part of Beetronics' Royal Series and is documented alongside the comp
 ## Deep research verification
 Beetronics' official catalog, manuals index and product handout were cross-checked. The official product literature explicitly lists the Zzombee's overdrive, fuzz and low-octave functions, so its inclusion in the dirt archive is evidence-based.
 
+## Sound
+
+Beetronics' official catalog, manuals index and product handout were cross checked. The official product literature explicitly lists the Zzombee's overdrive, fuzz and low octave functions, so its inclusion in the dirt archive is evidence based.
+
 ## Sources checked
 1. Beetronics - all pedals: https://www.beetronicsfx.com/collections/all-pedals-1
 2. Beetronics - manuals: https://www.beetronicsfx.com/pages/manuals

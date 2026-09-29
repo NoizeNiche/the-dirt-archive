@@ -13,6 +13,11 @@ Mild dynamic overdrive inspired by old Supro amplifiers. The historical BJFE ref
 
 ## Archive photo
 - **Archive status:** **No Photo Archived**
+
+## Sound
+
+BJFE Japan confirms Honey Bee OD as an overdrive inspired by old Supro amplifiers and released December 4, 2002 . The official page identifies the pedal as optimized for electric guitar with a clean to crunch amplifier. A second BJFE source documents that production began as a one off idea before expanding into the model's established line.
+
 ## Deep research verification
 BJFE Japan confirms Honey Bee OD as an overdrive inspired by old Supro amplifiers and released **December 4, 2002**. The official page identifies the pedal as optimized for electric guitar with a clean-to-crunch amplifier. A second BJFE source documents that production began as a one-off idea before expanding into the model's established line.
 

@@ -25,6 +25,12 @@
 ## Sound\n\nThe OD85 emphasizes a transparent, full-frequency response with dynamic behavior that reacts to playing intensity. AGR's documented description says it can move from subtle boost settings into higher-gain overdrive while retaining clarity and instrument definition. [1]\n\n## Sources checked
 1. AGR Pedals OD85 - Full Range Overdrive | Effects Database: https://www.effectsdatabase.com/model/agrpedals/od85
 
+## Sound
+
+AGR Pedals OD85 Full Range Overdrive
+It functions as a transparent boost, emphasizing the full frequency spectrum rather than selectively coloring or compressing the sound.
+The circuit is voiced to maintain clarity and definition, allowing the natural tone of the instrument and amplifier to remain prominent.
+
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
 

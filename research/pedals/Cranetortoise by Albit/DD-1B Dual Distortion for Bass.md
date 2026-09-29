@@ -36,6 +36,10 @@ The DD-1B is designed to retain bass low end while providing a thick, wide-rangi
 - Effects Database Cranetortoise family listing: https://www.effectsdatabase.com/model/cranetortoise
 - Exact-model Ishibashi price reference: https://www.ishibashi.co.jp/kaitori/kaitori_search.php?KSWD=%E3%83%87%E3%82%A3%E3%82%B9%E3%83%88%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3&LMT=24&OST=120&SRT=1
 
+## Sound
+
+ALBIT support documentation identifies DD 1B as the bass oriented member of the Cranetortoise Dual Distortion family and lists it among discontinued Cranetortoise products. Exact model Japanese retail records describe independent dual mode/channel gain and tone shaping with an emphasis on retaining bass low end. The archive keeps DD 1B distinct from standard DD 1 because the B suffix corresponds to a separate bass oriented catalog identity, not a cosmetic finish.
+
 ## Sources checked
 1. ALBIT official support / discontinued Cranetortoise list
 2. J-Guitar - ALBIT DD-1B Dual Distortion

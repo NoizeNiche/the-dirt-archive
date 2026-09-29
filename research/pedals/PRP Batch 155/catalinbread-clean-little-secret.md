@@ -16,6 +16,10 @@
 - **Sources checked:**
   - https://catalinbread.com/products/clean-little-secret
 
+## Sound
+
+Catalinbread Effects's Clean Little Secret is cataloged as a distortion / overdrive pedal.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

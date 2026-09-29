@@ -18,6 +18,11 @@ The documented range runs from a relatively clean boost through light overdrive 
 ### Component evidence
 The reviewed sources establish the clipping-selection architecture but do not provide a complete verified semiconductor part list for every production unit.
 
+## Sound
+
+The exact model documentation confirms a Hi/Lo input switch , Fuzz control, dual tone controls and selectable clipping modes. The design is intended to preserve the guitar and amplifier's own character while changing gain and clipping behavior.
+The documented range runs from a relatively clean boost through light overdrive to saturated fuzz.
+
 ## Sources checked
 - Black Arts Toneworks: https://www.blackartstoneworks.com/pedal/pharaoh/
 - Effects Database: https://www.effectsdatabase.com/model/blackarts/pharaoh

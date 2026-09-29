@@ -22,5 +22,10 @@ The Range control shifts the peak frequency. Level sets output and Hizumi contro
 
 ## Archive photo
 - **Archive status:** **No Photo Archived**
+
+## Sound
+
+Effects Database and Japanese retail documentation identify HZM 1.2 as the later major Hizumi version with two serially connected drive circuits. Verified controls are Level, Range and Hizumi . Range shifts the frequency peak, while Hizumi governs the overall distortion amount. The documented version uses germanium elements for a softer, richer response while retaining the original Hizumi character and provides 9V operation. The archive keeps HZM 1.2 separate from HZM 1.0.
+
 ## Deep research verification
 Effects Database and Japanese retail documentation identify HZM-1.2 as the later major Hizumi version with two serially connected drive circuits. Verified controls are **Level, Range and Hizumi**. Range shifts the frequency peak, while Hizumi governs the overall distortion amount. The documented version uses germanium elements for a softer, richer response while retaining the original Hizumi character and provides 9V operation. The archive keeps HZM-1.2 separate from HZM-1.0.

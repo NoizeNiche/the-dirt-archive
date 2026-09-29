@@ -20,6 +20,11 @@ Hot Fuzz combines an independent high-frequency boost with an English 1970s-styl
 - Maximum current draw below 6mA.
 - Handbuilt in the USA.
 
+## Sound
+
+BAE Audio describes Hot Fuzz as two independently switchable sections in one enclosure: a high frequency boost on the left and an English 1970s style fuzz on the right. The two sections can operate independently or in series. BAE specifies a solid state design with four bipolar low noise transistors .
+The manufacturer calls the fuzz an English 1970s style fuzz. MusicRadar independently describes the fuzz as carrying Tone Bender DNA and the high frequency boost as being in the Rangemaster family of treble boosters. That lineage is treated here as attributed circuit family context rather than as a claim of an exact vintage clone.
+
 ## Sources checked
 1. BAE Audio: https://ww.baeaudio.com/hot-fuzz/
 2. BAE Hot Fuzz manual: https://www.baeaudio.com/pdf/resources/hot-fuzz-manual.pdf

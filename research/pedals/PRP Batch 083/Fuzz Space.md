@@ -20,7 +20,8 @@ Fuzz Space is a hand-wired recreation of the classic Hendrix-era fuzz family usi
 - 9V battery clip; standard pedal supply support is listed by the builder
 
 ## Sound
-Creamy, sustaining vintage fuzz that cleans up when the guitar volume is rolled back.
+
+Big Knob's current catalog describes Fuzz Space as a super charged recreation of a classic fuzz using matched NOS Russian military germanium transistors . The builder lists Level and Attack controls, hand wired construction, true bypass switching and battery/power support. Exact transistor part numbers are not given in the public product description.
 
 ## Sources checked
 1. Big Knob official product page: https://bigknobpedals.com/product/fuzz-space/
