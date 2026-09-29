@@ -6336,7 +6336,6 @@
   {
     "builder": "Blackbox Music Electronics",
     "pedal": "Ultraviolet",
-    "image": "./assets/pedals/blackbox-music-electronics/ultraviolet/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/blackbox/ultraviolet",
     "research_record": "./research/pedals/Blackbox Music Electronics/Ultraviolet.md"
   },
@@ -7243,7 +7242,6 @@
   {
     "builder": "BOSS",
     "pedal": "MT-2-3A 30th Anniversary Metal Zone",
-    "image": "./assets/pedals/boss/mt-2-3a-30th-anniversary-metal-zone/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/boss/compact/mt2/3a",
     "research_record": "./research/pedals/BOSS/MT-2-3A 30th Anniversary Metal Zone.md"
   },
@@ -26849,7 +26847,6 @@
   {
     "builder": "Stomp Under Foot",
     "pedal": "Windhand Fuzz",
-    "image": "./assets/pedals/stomp-under-foot/windhand-fuzz/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Stomp Under Foot/Windhand Fuzz.md"
   },
@@ -28952,7 +28949,6 @@
   {
     "builder": "Wampler Pedals",
     "pedal": "Thirty Something",
-    "image": "./assets/pedals/wampler-pedals/thirty-something/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Wampler Pedals/Thirty Something.md"
   },

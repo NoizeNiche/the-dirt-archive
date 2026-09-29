@@ -13268,7 +13268,6 @@
       "types": [
         "Fuzz"
       ],
-      "image": "./assets/pedals/blackbox-music-electronics/ultraviolet/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/blackbox/ultraviolet",
       "research_record": "./research/pedals/Blackbox Music Electronics/Ultraviolet.md",
       "research_level": "deep",
@@ -13280,8 +13279,7 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1319,
-      "image_source_url": "https://rvb-img.reverb.com/i/s--EEmSKWMh--/gravity=auto,quality=medium-low,width=200,height=200,format=jpeg/d6aynkocutldgy3tkvlf.jpg"
+      "image_source_priority": 1319
     },
     {
       "company": "Blackbox Music Electronics",
@@ -15284,7 +15282,6 @@
       "types": [
         "Distortion"
       ],
-      "image": "./assets/pedals/boss/mt-2-3a-30th-anniversary-metal-zone/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/boss/compact/mt2/3a",
       "research_record": "./research/pedals/BOSS/MT-2-3A 30th Anniversary Metal Zone.md",
       "research_level": "deep",
@@ -52263,7 +52260,6 @@
       "types": [
         "Fuzz"
       ],
-      "image": "./assets/pedals/stomp-under-foot/windhand-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Stomp Under Foot/Windhand Fuzz.md",
       "research_level": "deep",
@@ -52274,8 +52270,7 @@
       "image_source_page": "https://reverb.com/item/2096955-stomp-under-foot-windhand-fuzz-purple-sparkle",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1010,
-      "image_source_url": "https://rvb-img.reverb.com/i/s--fu_cUTdB--/gravity=auto,quality=medium-low,width=200,height=200,format=jpeg/rwxf8n1jswavqf8vnflh.jpg"
+      "image_source_priority": 1010
     },
     {
       "company": "Stone Deaf FX",
@@ -56196,7 +56191,6 @@
       "types": [
         "Overdrive"
       ],
-      "image": "./assets/pedals/wampler-pedals/thirty-something/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Wampler Pedals/Thirty Something.md",
       "research_level": "deep",
@@ -56207,8 +56201,7 @@
       "image_source_page": "https://reverb.com/p/wampler-thirty-something",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 979,
-      "image_source_url": "https://rvb-img.reverb.com/i/s--THZKGm0z--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/e6dag2nijdjqqz8px26n.jpg"
+      "image_source_priority": 979
     },
     {
       "company": "Wampler Pedals",
