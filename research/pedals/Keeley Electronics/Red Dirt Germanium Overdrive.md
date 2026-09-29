@@ -26,7 +26,7 @@ Keeley describes the Red Dirt Germanium as a modified Tube Screamer-type overdri
 - **Exact part:** Unknown.
 
 ## Sound
-Keeley describes the Germanium modification as producing a more three-dimensional saturation response, with tighter bass, more sustained mids/highs, and more gain available while still cleaning up from the guitar's volume control. [1]  
+Keeley describes the Germanium modification as producing a more three-dimensional saturation response, with tighter bass, more sustained mids/highs, and more gain available while still cleaning up from the guitar's volume control. [1]
 
 ## Sources checked
 1. Red Dirt Germanium - Keeley Electronics: https://robertkeeley.com/product/red-dirt-germanium/
